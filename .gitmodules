@@ -1,0 +1,6 @@
+[submodule "astrowind"]
+	path = astrowind
+	url = git@github.com:incharge/astrowind.git
+[submodule "incharge-podcaster"]
+	path = incharge-podcaster
+	url = git@github.com:incharge/incharge-podcaster.git
