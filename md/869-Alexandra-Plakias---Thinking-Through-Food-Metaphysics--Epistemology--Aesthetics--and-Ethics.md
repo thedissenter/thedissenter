@@ -6,7 +6,7 @@ excerpt: 'Dr. Alexandra Plakias is Associate Professor of Philosophy at Hamilton
   about the role of empirical research in philosophical theorizing. She is the author
   of Thinking Through Food: A Philosophical Introduction.'
 id: e869
-image: https://i.ytimg.com/vi/vgJEY6eXZQ8/hqdefault.jpg
+image: https://i3.ytimg.com/vi/vgJEY6eXZQ8/hqdefault.jpg
 publishDate: 2023-12-04
 title: '#869 Alexandra Plakias - Thinking Through Food; Metaphysics, Epistemology,
   Aesthetics, and Ethics'

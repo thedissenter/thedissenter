@@ -8,7 +8,7 @@ excerpt: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive socia
   \ processes \u2013\u2013 with a particular focus on moral intuitions, supernatural\
   \ beliefs, and social norms and institutions."
 id: e861
-image: https://i.ytimg.com/vi/Nv1XIcW2uCY/hqdefault.jpg
+image: https://i3.ytimg.com/vi/Nv1XIcW2uCY/hqdefault.jpg
 publishDate: 2023-11-16
 title: "#861 L\xE9o Fitouchi: Moral Emotions, Punishment, and Puritanical Morality"
 youtubeid: Nv1XIcW2uCY
