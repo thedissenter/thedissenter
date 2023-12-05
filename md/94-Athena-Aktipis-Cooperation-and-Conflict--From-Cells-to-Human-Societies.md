@@ -1,14 +1,36 @@
 ---
-date: '2019-06-13'
-draft: 'false'
-id: e94
-summary: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department at
+draft: false
+excerpt: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department at
   Arizona State University, co-Director of the Human Generosity Project and Director
   of Human and Social Evolution, and co-founder of the Center for Evolution and Cancer
   at the University of California, San Francisco. She is a cooperation theorist, theoretical
   evolutionary biologist, and cancer biologist who now works at the intersection of
   these fields. She will be having a book coming out in the near future, Evolution
   in the Flesh: Cancer and the Transformation of Life.'
+id: e94
+image: https://i.ytimg.com/vi/lVX3WE6H4NA/hqdefault.jpg
+publishDate: 2019-06-13
 title: '#94 Athena Aktipis: Cooperation and Conflict, From Cells to Human Societies'
+youtubeid: lVX3WE6H4NA
 ---
-{{< episode >}}
+Dr. Athena Aktipis is Assistant Professor in the Psychology Department at Arizona State University, co-Director of the Human Generosity Project and Director of Human and Social Evolution, and co-founder of the Center for Evolution and Cancer at the University of California, San Francisco. She is a cooperation theorist, theoretical evolutionary biologist, and cancer biologist who now works at the intersection of these fields. She will be having a book coming out in the near future, Evolution in the Flesh: Cancer and the Transformation of Life.
+
+In this episode, we talk about what game theory is, and how it works; conflict between the mother and the fetus in the womb; walk away vs the traditional tit-for-tat cooperative strategies; the osotua system of the Masai, a need-based cooperative system; principles that rule interactions from the cellular to the societal levels, and how they can be applied to develop better tools to fight cancer.
+
+Time Links:  
+00:59  How game theory works   
+03:38  Maternal-fetal conflict        
+07:05  Walk away vs tit-for-tat    
+14:47  The Masai and the osotua system    
+21:23  Common interaction principles from cells to human societies      
+26:55  Can these principles help us fight cancer?          
+30:36  The shortcomings of chemotherapy and radiotherapy, and the potential of adaptive therapy         
+34:17  Dr. Aktipis’ work and upcoming book!
+
+---
+
+Follow Dr. Aktipis’ work:  
+Personal website: http://www.athenaaktipis.org/  
+Faculty page: https://tinyurl.com/y7zymzjm  
+Articles on Researchgate: https://tinyurl.com/yckwpbjk  
+Twitter handle: @AthenaAktipis

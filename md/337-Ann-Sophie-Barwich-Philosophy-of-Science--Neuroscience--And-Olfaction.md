@@ -1,8 +1,40 @@
 ---
-date: '2020-05-22'
-draft: 'false'
+draft: false
+excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy\
+  \ of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive\
+  \ scientist and empirical philosopher & historian of science, technology, and the\
+  \ senses. She divides her brain-time between the Department of History & Philosophy\
+  \ of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry)\
+  \ in early 2021. She\u2019s the author of Smellosophy: What the Nose tells the Mind."
 id: e337
-summary: 'RECORDED ON April 15th, 2020.  '
+image: https://i.ytimg.com/vi/gpkNIDy9Vw0/hqdefault.jpg
+publishDate: 2020-05-22
 title: '#337 Ann-Sophie Barwich: Philosophy of Science, Neuroscience, And Olfaction'
+youtubeid: gpkNIDy9Vw0
 ---
-{{< episode >}}
+RECORDED ON April 15th, 2020.  
+Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive scientist and empirical philosopher & historian of science, technology, and the senses. She divides her brain-time between the Department of History & Philosophy of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry) in early 2021. She’s the author of Smellosophy: What the Nose tells the Mind.
+
+In this episode, we start off by talking about the scientific method, how it evolved over time, the difficulties in defining or characterizing it. We refer to the fact that different branches of science and of philosophy of science approach their objects of study in different ways; the place for fiction in science, and how we should think about modelling in science; empirical success; a minority view on the replication crisis, and the importance of failure in the scientific process; falsification, and the demarcation problem. Then, we get into Dr. Barwich’s work on the sense of olfaction, how it works, and a new view it gives us of how the brain works more broadly, and also how it reframes certain questions and big topics in the philosophy of neuroscience.
+
+Time Links:  
+00:46  How to define the scientific method  
+03:16  Different branches of science and philosophy of science  
+13:29  Is there a place for fiction in science?  
+17:21  What is empirical success in science?  
+21:03  Is the replication crisis a real crisis? And the importance of failure in science.  
+28:50  Karl Popper, falsification, and the demarcation problem  
+32:57  What is so special about the sense of olfaction? And other more broader questions within the philosophy of neuroscience.  
+39:52  Integrating philosophy of neuroscience and philosophy of mind, and questions surrounding subjective experiences, reductionism, and emergentism  
+53:47  Follow Dr. Barwich’s work!
+
+---
+
+Follow Dr. Barwich’s work:  
+Faculty page: http://bit.ly/37rCjre  
+Website: http://bit.ly/2weP4by  
+Academia.edu profile: https://bit.ly/2RCrD3Z  
+PhilPeople profile: https://bit.ly/2ylhMbJ  
+ResearchGate profile: http://bit.ly/38yvRji  
+Smellosophy: What the Nose Tells the Mind: https://amzn.to/3cmpVLI  
+Twitter handle: @smellosopher

@@ -1,8 +1,6 @@
 ---
-date: '2019-06-21'
-draft: 'false'
-id: e193
-summary: "Dr. Paul Slovic is a founder and President of Decision Research and Professor\
+draft: false
+excerpt: "Dr. Paul Slovic is a founder and President of Decision Research and Professor\
   \ of Psychology at the University of Oregon, where he studies human judgment, decision\
   \ making, and risk analysis. He and his colleagues worldwide have developed methods\
   \ to describe risk perceptions and measure their impacts on individuals, industry,\
@@ -10,6 +8,36 @@ summary: "Dr. Paul Slovic is a founder and President of Decision Research and Pr
   \ government. Dr. Slovic is a past President of the Society for Risk Analysis. He\u2019\
   s the recipient of several awards, and he was also elected to the American Academy\
   \ of Arts and Sciences in 2015 and the National Academy of Sciences in 2016."
+id: e193
+image: https://i.ytimg.com/vi/AwEYI4P7BIo/hqdefault.jpg
+publishDate: 2019-06-21
 title: '#193 Paul Slovic: Risk Perception, GMOs, Vaccines, And Climate Change'
+youtubeid: AwEYI4P7BIo
 ---
-{{< episode >}}
+Dr. Paul Slovic is a founder and President of Decision Research and Professor of Psychology at the University of Oregon, where he studies human judgment, decision making, and risk analysis. He and his colleagues worldwide have developed methods to describe risk perceptions and measure their impacts on individuals, industry, and society. He publishes extensively and serves as a consultant to industry and government. Dr. Slovic is a past President of the Society for Risk Analysis. He’s the recipient of several awards, and he was also elected to the American Academy of Arts and Sciences in 2015 and the National Academy of Sciences in 2016.
+
+In this episode, we discuss decision-making processes in humans, as well as some important biases and heuristics that affect the ways we think. And we also apply this knowledge to how people deal with issues like climate change, medical and environmental problems (like vaccines and GMOs), genocide, nuclear power, and nuclear weapons. We go through a lot of the basics, talking about how biases and heuristics work, slow and fast thinking, and bounded rationality. We then use that to discuss risk perception. Finally, we talk about teaching people about how their minds work, and also the universality (or lack thereof) of these cognitive mechanisms. 
+
+Time Links:  
+01:01  How to think about biases and heuristics (mental short-cuts)  
+04:45  People have to deal with a lot of information nowadays                                             
+08:35  Do we have two different kinds of systems to process information?                                      
+15:00  How to properly classify something as a “bias”                                                  
+18:53  The usefulness of fast thinking                                         
+26:56  The concept of bounded rationality                                    
+30:05  Risk perception                        
+49:19  Risk perception on health, medicine, the environment, vaccines, GMOs, and the relationship between laypeople and science experts                 
+1:05:13  Plane crashes, terrorist attacks, the availability heuristic, and the negative role of media and social media     
+1:12:18  Climate change, and discounting the future  
+1:20:49  Teaching people about how their mind works  
+1:27:40  Are these biases and heuristics human universals?    
+1:31:21  Follow Dr. Slovic’s work!
+
+---
+
+Follow Dr. Slovic’s work:  
+The Arithmetic of Compassion: https://bit.ly/2UWKNVV  
+Decision Research: https://bit.ly/2ZG8Yqm  
+Faculty page: https://bit.ly/2Dxh0rQ  
+Researchgate profile: https://bit.ly/2XP7lFF  
+Books on Amazon: https://amzn.to/2L0jUMg

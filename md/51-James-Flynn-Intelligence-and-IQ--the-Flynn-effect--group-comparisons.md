@@ -1,8 +1,15 @@
 ---
-date: '2019-04-08'
-draft: 'false'
+draft: false
+excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e51
-summary: 'Support me on Patreon / Deem-me o vosso apoio em:   '
+image: https://i.ytimg.com/vi/FwhEktBbGmQ/hqdefault.jpg
+publishDate: 2019-04-08
 title: '#51 James Flynn: Intelligence and IQ, the Flynn effect, group comparisons'
+youtubeid: FwhEktBbGmQ
 ---
-{{< episode >}}
+Support me on Patreon / Deem-me o vosso apoio em:   
+https://www.patreon.com/thedissenter
+
+Follow me on / Sigam-me:  
+Facebook: https://www.facebook.com/thedissenteryt/  
+Twitter: https://twitter.com/TheDissenterYT

@@ -1,13 +1,39 @@
 ---
-date: '2019-03-18'
-draft: 'false'
-id: e152
-summary: Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne,
+draft: false
+excerpt: Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne,
   Switzerland. She is also Director of the Inkawu Vervet Project, at the Mawana Game
   Reserve, in South Africa, an experimental field site with a study population of
   over 200 wild vervet monkeys, and a Branco Weiss Fellow of the Society in Science
   at the University of Zurich. She is interested in the evolution of primate social
   behaviors with a main focus on cultural transmission and cognition.
+id: e152
+image: https://i.ytimg.com/vi/IQJDNZRKVtY/hqdefault.jpg
+publishDate: 2019-03-18
 title: '#152 Erica van de Waal: Social Cognition And Culture in Primates'
+youtubeid: IQJDNZRKVtY
 ---
-{{< episode >}}
+Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne, Switzerland. She is also Director of the Inkawu Vervet Project, at the Mawana Game Reserve, in South Africa, an experimental field site with a study population of over 200 wild vervet monkeys, and a Branco Weiss Fellow of the Society in Science at the University of Zurich. She is interested in the evolution of primate social behaviors with a main focus on cultural transmission and cognition.
+
+In this episode, we talk about the evolutionary/biological bases of culture in primate species. First, we define culture, and also talk about the cognitive tools that primate species need to develop culture, with a few examples of species that have it. We also refer to the ways we can compare humans to other primates in terms of social cognition and cultural behavior. We also touch on theory of mind, and if it’s really necessary to have it to imitate the behavior of others. We then discuss if there are primates, apart from humans, that show teaching behavior and how they communicate. Finally, we go through the parts of the cognition of vervet monkeys that Dr. van de Wall studies, including how their philopatric behavior (philopatry refers to the behavior of staying in the group that individuals are born in, instead of migrating to other groups. That can be done by males or females, and thus we can have male or female philopatry) influences how their culture is developed and transmitted.
+
+Time Links:  
+00:51  What is culture?  
+03:29  Culture as a social phenomenon                    
+07:09  The types of information primates pay attention to      
+14:50  Primate species that exhibit cultural behavior                 
+17:42  How to compare humans to other primates              
+21:25  Do other primates have theory of mind? And do they need it to imitate others?              
+26:27  Do other primates have teaching behavior?         
+31:24  The importance of communication and language   
+35:52  Dr. van de Waal’s work with vervet monkeys  
+39:22  The trouble with studying primates in the wild vs studying them in the lab    
+43:42  How philopatry might affect how culture gets acquired and transmitted     
+50:13  Do tolerance, altruism, and levels of competition and cooperation matter in the evolution of culture?      
+52:15  Follow Dr. van de Waal’s work!      
+
+---
+
+Follow Dr. van de Waal’s work:  
+Faculty page: https://tinyurl.com/y7rhq36b  
+Inkawu Vervet Project: https://tinyurl.com/y9ogkqgz  
+Articles on Researchgate: https://tinyurl.com/y8yg7rfn

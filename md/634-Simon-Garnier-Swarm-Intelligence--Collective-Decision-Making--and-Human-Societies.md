@@ -1,9 +1,42 @@
 ---
-date: '2022-06-03'
-draft: 'false'
+draft: false
+excerpt: Dr. Simon Garnier is an Associate Professor of Biology at the New Jersey
+  Institute of Technology. He is the head of the Swarm Lab, an interdisciplinary research
+  lab that studies the mechanisms underlying Collective Behaviors and Swarm Intelligence
+  in natural and artificial systems (http://www.theswarmlab.com). His research aims
+  to reveal the detailed functioning of collective intelligence in systems as diverse
+  as ant colonies, human crowds or robotic swarms.
 id: e634
-summary: 'RECORDED ON MARCH 3rd 2022.  '
+image: https://i.ytimg.com/vi/YMEVoxNyWhE/hqdefault.jpg
+publishDate: 2022-06-03
 title: '#634 Simon Garnier: Swarm Intelligence, Collective Decision-Making, and Human
   Societies'
+youtubeid: YMEVoxNyWhE
 ---
-{{< episode >}}
+RECORDED ON MARCH 3rd 2022.  
+Dr. Simon Garnier is an Associate Professor of Biology at the New Jersey Institute of Technology. He is the head of the Swarm Lab, an interdisciplinary research lab that studies the mechanisms underlying Collective Behaviors and Swarm Intelligence in natural and artificial systems (http://www.theswarmlab.com). His research aims to reveal the detailed functioning of collective intelligence in systems as diverse as ant colonies, human crowds or robotic swarms.
+
+In this episode, we talk about swarm intelligence. Topics include: examples of swarm intelligence in biological systems; collective decision-making; aggregation behavior; information; decision-making without brains or nervous systems, and embodied cognition; human crowds and collective intelligence; and phenomena that we could get a better grasp of through swarm intelligence, like human crowd motion, politics, and culture.
+
+Time Links:  
+00:00 Intro  
+00:42  What is swarm intelligence?  
+03:50  Examples of swarm intelligence in biological systems  
+07:36  Collective decision-making  
+09:16  Aggregation behavior  
+16:23  Information, from an evolutionary perspective  
+17:58  Aspects of sociality that allow for collective decision-making  
+26:28  Decision-making without brains or even nervous systems  
+31:44  Human crowds and collective intelligence  
+33:58  AI systems and natural intelligence  
+40:44  How human societies get organized  
+43:36  Human crowd motion  
+47:37  Political systems and human culture  
+54:30  Follow Dr. Garnier’s work!
+
+---
+
+Follow Dr. Garnier’s work:  
+Faculty page: https://bit.ly/30pllvG  
+ResearchGate profile: https://bit.ly/3FnTuuT  
+Twitter handle: @sjmgarnier
