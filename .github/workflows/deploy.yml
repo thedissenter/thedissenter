@@ -27,7 +27,8 @@ jobs:
         fetch-depth: 0
     - name: astrowind/src/content/post is a link to md
       run: |
-        ln -s "`pwd`/md" "`pwd`/astrowind/src/content/post"
+        mkdir -p astrowind/src/content/post
+        cp md/*.md astrowind/src/content/post/        
     - name: Install, build, and upload the site
       uses: withastro/action@v1
       with:
