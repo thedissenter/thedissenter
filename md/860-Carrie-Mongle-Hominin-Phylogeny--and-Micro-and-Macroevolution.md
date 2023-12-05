@@ -10,7 +10,7 @@ excerpt: Dr. Carrie Mongle is Assistant Professor in the Department of Anthropol
   characters. In addition, Dr. Mongle is interested in evaluating the relationship
   between variation, evolvability, and macroevolution in the primate dentition.
 id: e860
-image: https://i2.ytimg.com/vi/yDufdW7QTDA/hqdefault.jpg
+image: https://i.ytimg.com/vi/yDufdW7QTDA/hqdefault.jpg
 publishDate: 2023-11-13
 title: '#860 Carrie Mongle: Hominin Phylogeny, and Micro and Macroevolution'
 youtubeid: yDufdW7QTDA

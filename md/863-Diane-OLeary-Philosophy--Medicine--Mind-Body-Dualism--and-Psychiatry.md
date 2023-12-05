@@ -7,7 +7,7 @@ excerpt: "Dr. Diane O\u2019Leary is a Public Voices Fellow for Advancing the Rig
   \ to Plato, and the application of his metaphysical views to his choices as writer.\
   \ In her work she focuses on philosophy of mind, clinical medicine, and gender equity."
 id: e863
-image: https://i3.ytimg.com/vi/610dKJEbbL0/hqdefault.jpg
+image: https://i.ytimg.com/vi/610dKJEbbL0/hqdefault.jpg
 publishDate: 2023-11-20
 title: '#863 Diane O''Leary: Philosophy, Medicine, Mind-Body Dualism, and Psychiatry'
 youtubeid: 610dKJEbbL0

@@ -4,7 +4,7 @@ excerpt: 'Dr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht Univ
   His research centers on climate ethics and on investigating the nature of socially
   disruptive technologies.  '
 id: e867
-image: https://i2.ytimg.com/vi/Q9D4wlp8yrg/hqdefault.jpg
+image: https://i.ytimg.com/vi/Q9D4wlp8yrg/hqdefault.jpg
 publishDate: 2023-11-30
 title: '#867 Jeroen Hopster, Julia Hermann & Ibo van de Poel: Ethics of Socially Disruptive
   Technologies'

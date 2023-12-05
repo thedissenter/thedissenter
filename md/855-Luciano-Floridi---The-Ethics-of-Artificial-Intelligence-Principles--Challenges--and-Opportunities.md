@@ -8,7 +8,7 @@ excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Cen
   \ and Opportunities (OUP), and The Green and the Blue: Na\xEFve Ideas to Improve\
   \ Politics in the Digital Age (Wiley)."
 id: e855
-image: https://i2.ytimg.com/vi/54tt9UM5AII/hqdefault.jpg
+image: https://i.ytimg.com/vi/54tt9UM5AII/hqdefault.jpg
 publishDate: 2023-11-02
 title: '#855 Luciano Floridi - The Ethics of Artificial Intelligence: Principles,
   Challenges, and Opportunities'

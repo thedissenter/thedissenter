@@ -4,7 +4,7 @@ excerpt: Dr. Colin DeYoung is Associate Professor of Psychology at the Universit
   of Minnesota. In his research in personality psychology, he has examined the theoretical
   structure of personality and the biological basis of personality.
 id: e864
-image: https://i4.ytimg.com/vi/O4OdA_V9RWo/hqdefault.jpg
+image: https://i.ytimg.com/vi/O4OdA_V9RWo/hqdefault.jpg
 publishDate: 2023-11-23
 title: '#864 Colin DeYoung: Personality and Psychopathology'
 youtubeid: O4OdA_V9RWo

@@ -6,7 +6,7 @@ excerpt: Anna Riedl is a cognitive scientist, specialized in rational decision-m
   also a member of the Global Shapers Community organized by the World Economic Forum
   and served as curator for the Vienna Hub.
 id: e859
-image: https://i1.ytimg.com/vi/0aQebCENIjg/hqdefault.jpg
+image: https://i.ytimg.com/vi/0aQebCENIjg/hqdefault.jpg
 publishDate: 2023-11-10
 title: '#859 Anna Riedl: Historical Map of the Cognitive Sciences, and the Great Rationality
   Debate'

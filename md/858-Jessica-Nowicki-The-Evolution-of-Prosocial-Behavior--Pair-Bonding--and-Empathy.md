@@ -8,7 +8,7 @@ excerpt: Dr. Jessica Nowicki is a Research Scientist at the Wu Tsai Neuroscience
   involvement of these correlates, she then couples this with functional tests on
   the strongly pair bonding species, Ranitomeya imitator.
 id: e858
-image: https://i1.ytimg.com/vi/4TVyOlWMYMw/hqdefault.jpg
+image: https://i.ytimg.com/vi/4TVyOlWMYMw/hqdefault.jpg
 publishDate: 2023-11-09
 title: '#858 Jessica Nowicki: The Evolution of Prosocial Behavior, Pair Bonding, and
   Empathy'
