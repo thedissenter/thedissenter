@@ -10,7 +10,7 @@ excerpt: Dr. James Cresswell is Professor of Psychology at Ambrose University, A
   draw on many sources, ranging from cultural psychology to cognitive science and
   literary theory.
 id: e868
-image: https://i3.ytimg.com/vi/z8u5s9dJ9vo/hqdefault.jpg
+image: https://i.ytimg.com/vi/z8u5s9dJ9vo/maxresdefault.jpg
 publishDate: 2023-12-01
 title: '#868 James Cresswell: Theories in Psychology'
 youtubeid: z8u5s9dJ9vo
