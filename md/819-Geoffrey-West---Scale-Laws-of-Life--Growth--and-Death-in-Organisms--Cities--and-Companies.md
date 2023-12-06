@@ -10,7 +10,7 @@ excerpt: 'Dr. Geoffrey West is Shannan Distinguished Professor at the Santa Fe I
   including Scale: The Universal Laws of Life, Growth, and Death in Organisms, Cities,
   and Companies.'
 id: e819
-image: https://i.ytimg.com/vi/lGmsV0teqD4/hqdefault.jpg
+image: https://i.ytimg.com/vi/lGmsV0teqD4/maxresdefault.jpg
 publishDate: 2023-08-10
 title: '#819 Geoffrey West - Scale; Laws of Life, Growth, and Death in Organisms,
   Cities, and Companies'

@@ -4,7 +4,7 @@ excerpt: "Dr. Christian List is Professor of Philosophy and Decision Theory at L
   \ Munich and Co-Director of the Munich Center for Mathematical Philosophy. He\u2019\
   s the author of Why Free Will Is Real."
 id: e419
-image: https://i.ytimg.com/vi/XHmdhDjLGwA/hqdefault.jpg
+image: https://i.ytimg.com/vi/XHmdhDjLGwA/maxresdefault.jpg
 publishDate: 2021-01-18
 title: '#419 Christian List: Why Free Will Is Real'
 youtubeid: XHmdhDjLGwA

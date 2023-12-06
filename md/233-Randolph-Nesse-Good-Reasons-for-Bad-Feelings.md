@@ -13,7 +13,7 @@ excerpt: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Foundi
   s also the author of several books, including Why We Get Sick (coauthored with George\
   \ C. Williams) and, more recently, Good Reasons for Bad Feelings (2019)."
 id: e233
-image: https://i.ytimg.com/vi/o29wuO0AJUA/hqdefault.jpg
+image: https://i.ytimg.com/vi/o29wuO0AJUA/maxresdefault.jpg
 publishDate: 2019-09-23
 title: '#233 Randolph Nesse: Good Reasons for Bad Feelings'
 youtubeid: o29wuO0AJUA

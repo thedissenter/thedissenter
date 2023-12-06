@@ -8,7 +8,7 @@ excerpt: 'Dr. Adaner Usmani is Assistant Professor of Sociology and Social Studi
   and how well these patterns explain the forward march of democracy and the extent
   of economic redistribution.'
 id: e449
-image: https://i.ytimg.com/vi/UJL8q9JF-OU/hqdefault.jpg
+image: https://i.ytimg.com/vi/UJL8q9JF-OU/maxresdefault.jpg
 publishDate: 2021-03-29
 title: '#449 Adaner Usmani: Mass Incarceration, Black Subordination, and Modern Democracies'
 youtubeid: UJL8q9JF-OU

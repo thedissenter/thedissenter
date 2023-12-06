@@ -6,7 +6,7 @@ excerpt: 'Dr. Moshe Bar is Head of the Cognitive Neuroscience Lab at the Multidi
   Mindwandering: How Your Constant Mental Drift Can Improve Your Mood and Boost Your
   Creativity.'
 id: e673
-image: https://i.ytimg.com/vi/LQOxxFg4oKQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/LQOxxFg4oKQ/maxresdefault.jpg
 publishDate: 2022-09-02
 title: '#673 Moshe Bar - Mindwandering; Mental Drift, Mood, and Creativity'
 youtubeid: LQOxxFg4oKQ

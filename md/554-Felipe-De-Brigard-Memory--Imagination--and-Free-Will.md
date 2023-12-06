@@ -13,7 +13,7 @@ excerpt: Dr. Felipe De Brigard is Fuchsberg-Levine Family Associate Professor at
   memories. Finally, he is also interested in the role of internal attention during
   conscious recollection.
 id: e554
-image: https://i.ytimg.com/vi/_NNmm-K-rJk/hqdefault.jpg
+image: https://i.ytimg.com/vi/_NNmm-K-rJk/maxresdefault.jpg
 publishDate: 2021-11-29
 title: '#554 Felipe De Brigard: Memory, Imagination, and Free Will'
 youtubeid: _NNmm-K-rJk

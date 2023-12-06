@@ -9,7 +9,7 @@ excerpt: Dr. Viviana Weekes-Shackelford received her Ph.D. in evolutionary devel
   and record cut across the psychological domains of forensics, development, social,
   personality, clinical, and criminology.
 id: e189
-image: https://i.ytimg.com/vi/1eIgvW2t5JA/hqdefault.jpg
+image: https://i.ytimg.com/vi/1eIgvW2t5JA/maxresdefault.jpg
 publishDate: 2019-06-13
 title: '#189 Viviana Weekes-Shackelford: Domestic Violence, Child Abuse, And Modern
   Society'

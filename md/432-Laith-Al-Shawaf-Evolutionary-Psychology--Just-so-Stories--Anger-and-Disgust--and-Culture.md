@@ -7,7 +7,7 @@ excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the Univ
   and is a member of the Arab-German Young Academy (AGYA), as well as an academic
   adviser at Ideas Beyond Borders (IBB).
 id: e432
-image: https://i.ytimg.com/vi/bK506Z9bjGw/hqdefault.jpg
+image: https://i.ytimg.com/vi/bK506Z9bjGw/maxresdefault.jpg
 publishDate: 2021-02-18
 title: '#432 Laith Al-Shawaf: Evolutionary Psychology, Just-so Stories, Anger and
   Disgust, and Culture'

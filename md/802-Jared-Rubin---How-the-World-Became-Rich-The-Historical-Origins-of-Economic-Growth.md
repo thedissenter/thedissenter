@@ -8,7 +8,7 @@ excerpt: 'Dr. Jared Rubin is Professor of Economics and Co-Director of the Insti
   He is the author, together with Mark Koyama, of How the World Became Rich: The Historical
   Origins of Economic Growth.'
 id: e802
-image: https://i.ytimg.com/vi/x8cr2VXaugw/hqdefault.jpg
+image: https://i.ytimg.com/vi/x8cr2VXaugw/maxresdefault.jpg
 publishDate: 2023-06-30
 title: '#802 Jared Rubin - How the World Became Rich: The Historical Origins of Economic
   Growth'

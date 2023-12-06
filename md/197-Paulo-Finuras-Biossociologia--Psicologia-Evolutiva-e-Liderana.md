@@ -11,7 +11,7 @@ excerpt: "O Dr. Paulo Finuras \xE9 Doutorado em Ci\xEAncias Sociais e do Comport
   , \u201CPrimatas Culturais: Evolu\xE7\xE3o e Natureza Humana\u201D e \u201CBiolideran\xE7\
   a\u201D (2018)."
 id: e197
-image: https://i.ytimg.com/vi/O30xvytWzCs/hqdefault.jpg
+image: https://i.ytimg.com/vi/O30xvytWzCs/maxresdefault.jpg
 publishDate: 2019-07-01
 title: "#197 Paulo Finuras: Biossociologia, Psicologia Evolutiva e Lideran\xE7a"
 youtubeid: O30xvytWzCs

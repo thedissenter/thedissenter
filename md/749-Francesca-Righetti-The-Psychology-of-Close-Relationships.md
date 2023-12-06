@@ -11,7 +11,7 @@ excerpt: "Dr. Francesca Righetti is an Associate Professor at the Department of 
   \ (EASP) and the Raising Star Award from the Association for Psychological Science\
   \ (APS)."
 id: e749
-image: https://i.ytimg.com/vi/zjsThGy-2NE/hqdefault.jpg
+image: https://i.ytimg.com/vi/zjsThGy-2NE/maxresdefault.jpg
 publishDate: 2023-02-27
 title: '#749 Francesca Righetti: The Psychology of Close Relationships'
 youtubeid: zjsThGy-2NE

@@ -9,7 +9,7 @@ excerpt: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy 
   much like animal signals used to manipulate other animals\u2014that explains various\
   \ irrational and dangerous beliefs, cognitive biases, as well as pro-social beliefs."
 id: e826
-image: https://i.ytimg.com/vi/vvWvyRASv-s/hqdefault.jpg
+image: https://i.ytimg.com/vi/vvWvyRASv-s/maxresdefault.jpg
 publishDate: 2023-08-25
 title: '#826 Eric Funkhouser: The Signaling Functions of Beliefs, and Self-Deception'
 youtubeid: vvWvyRASv-s

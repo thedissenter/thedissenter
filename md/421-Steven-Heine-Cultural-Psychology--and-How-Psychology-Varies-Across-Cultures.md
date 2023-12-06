@@ -8,7 +8,7 @@ excerpt: "Dr. Steven J. Heine is Distinguished University Scholar and Professor 
   \ psychology including Cultural Psychology, the top-selling textbook in the field.\
   \ In 2016, he was elected as a Fellow of the Royal Society of Canada."
 id: e421
-image: https://i.ytimg.com/vi/BHsiadYuuss/hqdefault.jpg
+image: https://i.ytimg.com/vi/BHsiadYuuss/maxresdefault.jpg
 publishDate: 2021-01-22
 title: '#421 Steven Heine: Cultural Psychology, and How Psychology Varies Across Cultures'
 youtubeid: BHsiadYuuss

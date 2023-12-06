@@ -4,7 +4,7 @@ excerpt: 'Dr. Nick Chater is Professor of Behavioural Science at Warwick Busines
   School. He works on rationality and language using a range of theoretical and experimental
   approaches. '
 id: e659
-image: https://i.ytimg.com/vi/taPsHecl0Oc/hqdefault.jpg
+image: https://i.ytimg.com/vi/taPsHecl0Oc/maxresdefault.jpg
 publishDate: 2022-08-01
 title: '#659 Nick Chater & Morten Christiansen - The Language Game; Language as a
   Game of Charades'

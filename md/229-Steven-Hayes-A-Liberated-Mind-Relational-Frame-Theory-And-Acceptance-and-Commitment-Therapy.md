@@ -11,7 +11,7 @@ excerpt: 'Dr. Steven C. Hayes is Nevada Foundation Professor in the Behavior Ana
   include Evolution and Contextual Behavioral Science, and A Liberated Mind: How to
   Pivot Toward What Matters.'
 id: e229
-image: https://i.ytimg.com/vi/6d9q1TePTIw/hqdefault.jpg
+image: https://i.ytimg.com/vi/6d9q1TePTIw/maxresdefault.jpg
 publishDate: 2019-09-13
 title: '#229 Steven Hayes: A Liberated Mind; Relational Frame Theory And Acceptance
   and Commitment Therapy'

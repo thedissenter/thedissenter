@@ -5,7 +5,7 @@ excerpt: "Dr. Matthew Cobb is Professor of Zoology at the University of Manchest
   \ of science. He is also a historian of the French Resistance. He\u2019s the author\
   \ of several books, including The Idea of the Brain: A History."
 id: e391
-image: https://i.ytimg.com/vi/dlfNfI3wfM8/hqdefault.jpg
+image: https://i.ytimg.com/vi/dlfNfI3wfM8/maxresdefault.jpg
 publishDate: 2020-11-13
 title: '#391 Matthew Cobb: The Idea of the Brain'
 youtubeid: dlfNfI3wfM8

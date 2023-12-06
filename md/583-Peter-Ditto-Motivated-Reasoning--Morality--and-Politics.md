@@ -15,7 +15,7 @@ excerpt: "Dr. Peter Ditto is Professor of Psychological Science at UC Irvine Sch
   \ and behavior. Finally, he is interested in a variety of psychological issues involved\
   \ in end-of-life medical decision making."
 id: e583
-image: https://i.ytimg.com/vi/T-Eljsj-bhk/hqdefault.jpg
+image: https://i.ytimg.com/vi/T-Eljsj-bhk/maxresdefault.jpg
 publishDate: 2022-02-04
 title: '#583 Peter Ditto: Motivated Reasoning, Morality, and Politics'
 youtubeid: T-Eljsj-bhk

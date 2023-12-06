@@ -4,7 +4,7 @@ excerpt: Dr. Cari D. Goetz is Associate Professor of Psychology at California St
   University, San Bernardino. She does research in Evolutionary Psychology, specifically
   human mating strategies and mating-related psychology.
 id: e478
-image: https://i.ytimg.com/vi/HZ-VvJeoZ4A/hqdefault.jpg
+image: https://i.ytimg.com/vi/HZ-VvJeoZ4A/maxresdefault.jpg
 publishDate: 2021-06-04
 title: '#478 Cari Goetz: Mate Preferences, Mate Value, the EEA, and Evolutionary Mismatch'
 youtubeid: HZ-VvJeoZ4A

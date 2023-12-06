@@ -2,7 +2,7 @@
 draft: false
 excerpt: "ENTREVISTA EM PORTUGU\xCAS.  "
 id: e707
-image: https://i.ytimg.com/vi/lHde_vBHlZA/hqdefault.jpg
+image: https://i.ytimg.com/vi/lHde_vBHlZA/maxresdefault.jpg
 publishDate: 2022-11-21
 title: "#707 Renata Benavente: Sa\xFAde Mental, Psicogerontologia, Psicologia Forense\
   \ e Justi\xE7a Social"

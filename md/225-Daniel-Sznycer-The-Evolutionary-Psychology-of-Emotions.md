@@ -11,7 +11,7 @@ excerpt: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology 
   \ include experimental economic games, decision-making tasks, priming methods, cross-cultural\
   \ and ethnographic data collection, large-scale representative surveys, and anthropometry."
 id: e225
-image: https://i.ytimg.com/vi/cEDkQX-8Brk/hqdefault.jpg
+image: https://i.ytimg.com/vi/cEDkQX-8Brk/maxresdefault.jpg
 publishDate: 2019-09-05
 title: '#225 Daniel Sznycer: The Evolutionary Psychology of Emotions'
 youtubeid: cEDkQX-8Brk

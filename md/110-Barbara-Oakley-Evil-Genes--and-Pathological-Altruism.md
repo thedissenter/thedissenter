@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'SORRY ABOUT THE VIDEO ISSUES. '
 id: e110
-image: https://i.ytimg.com/vi/qZckt8b5lGM/hqdefault.jpg
+image: https://i.ytimg.com/vi/qZckt8b5lGM/maxresdefault.jpg
 publishDate: 2019-07-08
 title: '#110 Barbara Oakley: Evil Genes, and Pathological Altruism'
 youtubeid: qZckt8b5lGM

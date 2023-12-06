@@ -11,7 +11,7 @@ excerpt: "Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy a
   \ Classical Antiquity, the Orient, and the Construction of a European Cultural Identity,\
   \ 1550-1914\u2019. His new book is The Failures of Philosophy: A Historical Essay. "
 id: e538
-image: https://i.ytimg.com/vi/MCcOeHTYnZA/hqdefault.jpg
+image: https://i.ytimg.com/vi/MCcOeHTYnZA/maxresdefault.jpg
 publishDate: 2021-10-22
 title: '#538 Stephen Gaukroger - The Failures of Philosophy: A Historical Essay'
 youtubeid: MCcOeHTYnZA

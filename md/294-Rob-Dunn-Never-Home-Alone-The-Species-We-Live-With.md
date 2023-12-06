@@ -9,7 +9,7 @@ excerpt: "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in th
   \ From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History\
   \ of Where We Live."
 id: e294
-image: https://i.ytimg.com/vi/i-zl9pergMI/hqdefault.jpg
+image: https://i.ytimg.com/vi/i-zl9pergMI/maxresdefault.jpg
 publishDate: 2020-02-13
 title: '#294 Rob Dunn: Never Home Alone; The Species We Live With'
 youtubeid: i-zl9pergMI

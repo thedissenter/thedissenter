@@ -6,7 +6,7 @@ excerpt: 'Dr. Paul Bloom is Professor Emeritus at Yale University and Professor 
   morality, religion, fiction, and art. His new book is The Sweet Spot: The Pleasures
   of Suffering and the Search for Meaning.'
 id: e542
-image: https://i.ytimg.com/vi/zYwSdER010M/hqdefault.jpg
+image: https://i.ytimg.com/vi/zYwSdER010M/maxresdefault.jpg
 publishDate: 2021-11-01
 title: '#542 Paul Bloom - The Sweet Spot: The Pleasures of Suffering and the Search
   for Meaning'

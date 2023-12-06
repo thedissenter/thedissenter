@@ -11,7 +11,7 @@ excerpt: "O Dr. Carlos Fiolhais \xE9 Professor Catedr\xE1tico de F\xEDsica na Un
   \ Pr\xE9mio Ci\xEAncia Viva Montepio. Investiga F\xEDsica da Mat\xE9ria Condensada\
   \ e Ensino e Hist\xF3ria das Ci\xEAncias. "
 id: e204
-image: https://i.ytimg.com/vi/xsMHIPo5I_I/hqdefault.jpg
+image: https://i.ytimg.com/vi/xsMHIPo5I_I/maxresdefault.jpg
 publishDate: 2019-07-18
 title: "#204 Carlos Fiolhais: A Ci\xEAncia, o M\xE9todo Cient\xEDfico e a Pseudoci\xEA\
   ncia"

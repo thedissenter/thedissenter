@@ -13,7 +13,7 @@ excerpt: 'Dr. Wendy Johnson is Professor of Psychology at the University of Edin
   and environmental transactions and their influence on behavior, intelligence, and
   personality.'
 id: e117
-image: https://i.ytimg.com/vi/ASfWXca1d_M/hqdefault.jpg
+image: https://i.ytimg.com/vi/ASfWXca1d_M/maxresdefault.jpg
 publishDate: 2019-07-16
 title: '#117 Wendy Johnson: Genetics and Environment in Personality and Intelligence'
 youtubeid: ASfWXca1d_M

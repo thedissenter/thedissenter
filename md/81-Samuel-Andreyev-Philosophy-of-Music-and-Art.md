@@ -3,7 +3,7 @@ draft: false
 excerpt: Samuel Andreyev is a Canadian music composer and writer residing in France.
   He also has a YouTube channel with his name.
 id: e81
-image: https://i.ytimg.com/vi/HUiV4Hgw924/hqdefault.jpg
+image: https://i.ytimg.com/vi/HUiV4Hgw924/maxresdefault.jpg
 publishDate: 2019-05-23
 title: '#81 Samuel Andreyev: Philosophy of Music and Art'
 youtubeid: HUiV4Hgw924

@@ -19,7 +19,7 @@ excerpt: "Dr. Marianne Brandon is a clinical psychologist and Diplomate in sex t
   \ relationships, stress, anxiety, alternative sexual relationships, pain during\
   \ intercourse, and erectile concerns.  "
 id: e241
-image: https://i.ytimg.com/vi/U0p-L7RiypI/hqdefault.jpg
+image: https://i.ytimg.com/vi/U0p-L7RiypI/maxresdefault.jpg
 publishDate: 2019-10-11
 title: '#241 Marianne Brandon: Sex Robots And Human Sexuality'
 youtubeid: U0p-L7RiypI

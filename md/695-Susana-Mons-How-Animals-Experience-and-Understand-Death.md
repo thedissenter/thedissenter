@@ -8,7 +8,7 @@ excerpt: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Log
   \ their ethical implications. She is the author of \u201CLa zarig\xFCeya de Schr\xF6\
   dinger: C\xF3mo viven y entienden la muerte los animales\u201D."
 id: e695
-image: https://i.ytimg.com/vi/DhXS94-0QTo/hqdefault.jpg
+image: https://i.ytimg.com/vi/DhXS94-0QTo/maxresdefault.jpg
 publishDate: 2022-10-24
 title: "#695 Susana Mons\xF3: How Animals Experience and Understand Death"
 youtubeid: DhXS94-0QTo

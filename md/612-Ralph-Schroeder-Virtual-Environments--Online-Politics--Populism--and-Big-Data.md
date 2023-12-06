@@ -7,7 +7,7 @@ excerpt: 'Dr. Ralph Schroeder is Professor in Social Science of the Internet at 
   books, including Knowledge Machines: Digital Transformations of the Sciences and
   Humanities, and Social Theory After the Internet: Media, Technology, and Globalization.'
 id: e612
-image: https://i.ytimg.com/vi/9twYG85lNFU/hqdefault.jpg
+image: https://i.ytimg.com/vi/9twYG85lNFU/maxresdefault.jpg
 publishDate: 2022-04-14
 title: '#612 Ralph Schroeder: Virtual Environments, Online Politics, Populism, and
   Big Data'

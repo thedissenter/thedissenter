@@ -10,7 +10,7 @@ excerpt: "Dr. Felix Warneken is Associate Professor in the Department of Psychol
   \ contexts, and comparing human cooperation with that of our closest evolutionary\
   \ relatives, the great Apes."
 id: e186
-image: https://i.ytimg.com/vi/JO_vKNHodVE/hqdefault.jpg
+image: https://i.ytimg.com/vi/JO_vKNHodVE/maxresdefault.jpg
 publishDate: 2019-06-06
 title: '#186 Felix Warneken: Cooperation And Altruism In Apes And Children'
 youtubeid: JO_vKNHodVE

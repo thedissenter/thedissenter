@@ -12,7 +12,7 @@ excerpt: "Dr. Edward Fischer is the Cornelius Vanderbilt Professor of Anthropolo
   \ that examines the ways moral and economic values are intertwined in the high-end\
   \ coffee market."
 id: e324
-image: https://i.ytimg.com/vi/LHtDvcO9YHs/hqdefault.jpg
+image: https://i.ytimg.com/vi/LHtDvcO9YHs/maxresdefault.jpg
 publishDate: 2020-04-23
 title: '#324 Edward Fischer: The Anthropology of Wellbeing, The Good Life, Values,
   And Markets'

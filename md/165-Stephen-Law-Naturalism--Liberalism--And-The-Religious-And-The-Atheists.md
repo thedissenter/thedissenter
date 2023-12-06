@@ -7,7 +7,7 @@ excerpt: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, 
   \ Believing Bullshit. He is a Fellow of The Royal Society of Arts and Commerce and\
   \ in 2008 became the provost of the Centre for Inquiry UK. "
 id: e165
-image: https://i.ytimg.com/vi/gDfSMv2BHzg/hqdefault.jpg
+image: https://i.ytimg.com/vi/gDfSMv2BHzg/maxresdefault.jpg
 publishDate: 2019-04-18
 title: '#165 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists'
 youtubeid: gDfSMv2BHzg

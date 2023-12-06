@@ -2,7 +2,7 @@
 draft: false
 excerpt: ''
 id: e322
-image: https://i.ytimg.com/vi/Wyxt6rWesSg/hqdefault.jpg
+image: https://i.ytimg.com/vi/Wyxt6rWesSg/maxresdefault.jpg
 publishDate: 2020-04-17
 title: '#322 Curtis Marean: Zooarchaeology, Human Origins And Evolution'
 youtubeid: Wyxt6rWesSg

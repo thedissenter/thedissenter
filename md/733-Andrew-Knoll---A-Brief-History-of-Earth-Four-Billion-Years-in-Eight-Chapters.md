@@ -13,7 +13,7 @@ excerpt: "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard
   \ American Philosophical Society, and the American Academy of Microbiology. He is\
   \ the author of A Brief History of Earth: Four Billion Years in Eight Chapters."
 id: e733
-image: https://i.ytimg.com/vi/LUuxfDsGs0c/hqdefault.jpg
+image: https://i.ytimg.com/vi/LUuxfDsGs0c/maxresdefault.jpg
 publishDate: 2023-01-20
 title: '#733 Andrew Knoll - A Brief History of Earth: Four Billion Years in Eight
   Chapters'

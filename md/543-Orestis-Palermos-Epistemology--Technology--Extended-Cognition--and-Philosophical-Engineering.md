@@ -6,7 +6,7 @@ excerpt: 'Dr. Orestis Palermos is Lecturer in the School of English, Communicati
   of technology. He is interested in the idea of philosophical engineering: the way
   philosophy can impact the design of emerging technologies and socio-technical systems.'
 id: e543
-image: https://i.ytimg.com/vi/1xool2IrIxY/hqdefault.jpg
+image: https://i.ytimg.com/vi/1xool2IrIxY/maxresdefault.jpg
 publishDate: 2021-11-04
 title: '#543 Orestis Palermos: Epistemology, Technology, Extended Cognition, and Philosophical
   Engineering'

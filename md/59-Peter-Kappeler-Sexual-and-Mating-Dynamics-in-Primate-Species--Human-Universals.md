@@ -7,7 +7,7 @@ excerpt: "Dr. Peter Kappeler is a Professor at the faculty of Zoology and Anthro
   \ books like Mind the Gap: Tracing the Origins of Human Universals, Animal Behaviour:\
   \ Evolution and Mechanisms, and The Evolution of Primate Species.  "
 id: e59
-image: https://i.ytimg.com/vi/2KCDXDnbS9g/hqdefault.jpg
+image: https://i.ytimg.com/vi/2KCDXDnbS9g/maxresdefault.jpg
 publishDate: 2019-04-25
 title: '#59 Peter Kappeler: Sexual and Mating Dynamics in Primate Species, Human Universals'
 youtubeid: 2KCDXDnbS9g

@@ -10,7 +10,7 @@ excerpt: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle
   \ Learning Researchers) Society, an early-career network for all things around social\
   \ learning and cultural evolution."
 id: e836
-image: https://i.ytimg.com/vi/aU4HRZloHLY/hqdefault.jpg
+image: https://i.ytimg.com/vi/aU4HRZloHLY/maxresdefault.jpg
 publishDate: 2023-09-18
 title: "#836 Sabine N\xF6bel: Social Learning, Mate Copying, and Culture from a Biological\
   \ Perspective"

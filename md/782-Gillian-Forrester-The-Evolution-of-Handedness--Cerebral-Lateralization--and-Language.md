@@ -6,7 +6,7 @@ excerpt: Dr. Gillian Forrester is a Professor of Comparative Cognition in the Sc
   gorillas and chimpanzees focusing on how cognitive abilities evolve and develop
   over time and across species.
 id: e782
-image: https://i.ytimg.com/vi/E1lLqKbRwZk/hqdefault.jpg
+image: https://i.ytimg.com/vi/E1lLqKbRwZk/maxresdefault.jpg
 publishDate: 2023-05-15
 title: '#782 Gillian Forrester: The Evolution of Handedness, Cerebral Lateralization,
   and Language'

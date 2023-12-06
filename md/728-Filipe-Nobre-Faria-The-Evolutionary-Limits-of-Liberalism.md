@@ -8,7 +8,7 @@ excerpt: 'Dr. Filipe Nobre Faria currently works as a researcher in ethics and p
   He is the author of The Evolutionary Limits of Liberalism: Democratic Problems,
   Market Solutions and the Ethics of Preference Satisfaction.'
 id: e728
-image: https://i.ytimg.com/vi/4iM4nbkJ53c/hqdefault.jpg
+image: https://i.ytimg.com/vi/4iM4nbkJ53c/maxresdefault.jpg
 publishDate: 2023-01-09
 title: '#728 Filipe Nobre Faria: The Evolutionary Limits of Liberalism'
 youtubeid: 4iM4nbkJ53c

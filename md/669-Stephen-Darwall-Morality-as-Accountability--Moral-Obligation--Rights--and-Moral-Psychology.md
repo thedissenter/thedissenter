@@ -4,7 +4,7 @@ excerpt: Dr. Stephen Darwall is the Andrew Downey Orrick Professor of Philosophy
   Yale University. He is deeply interested in moral philosophy and its history, and
   is focused on questions around the nature of moral obligation and well-being.
 id: e669
-image: https://i.ytimg.com/vi/NUqkVUtSlok/hqdefault.jpg
+image: https://i.ytimg.com/vi/NUqkVUtSlok/maxresdefault.jpg
 publishDate: 2022-08-25
 title: '#669 Stephen Darwall: Morality as Accountability, Moral Obligation, Rights,
   and Moral Psychology'

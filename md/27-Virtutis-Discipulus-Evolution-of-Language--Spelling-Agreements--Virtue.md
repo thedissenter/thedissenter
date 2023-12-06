@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e27
-image: https://i.ytimg.com/vi/Ix9unxtU7FY/hqdefault.jpg
+image: https://i.ytimg.com/vi/Ix9unxtU7FY/maxresdefault.jpg
 publishDate: 2019-03-08
 title: '#27 Virtutis Discipulus: Evolution of Language, Spelling Agreements, Virtue'
 youtubeid: Ix9unxtU7FY

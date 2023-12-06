@@ -8,7 +8,7 @@ excerpt: 'Dr. Jacob Stegenga is a Reader in the Department of History and Philos
   Nihilism and Care and Cure: An Introduction to Philosophy of Medicine, and he is
   currently writing a book on the sciences of sexual desire.'
 id: e415
-image: https://i.ytimg.com/vi/vmMxM-o9C50/hqdefault.jpg
+image: https://i.ytimg.com/vi/vmMxM-o9C50/maxresdefault.jpg
 publishDate: 2021-01-08
 title: '#415 Jacob Stegenga: Philosophy of Medicine, Evidence, Disease, and Medical
   Nihilism'

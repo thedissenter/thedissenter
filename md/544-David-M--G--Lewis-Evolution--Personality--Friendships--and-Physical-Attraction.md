@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Dr. David Lewis is Senior Lecturer in Social Psychology at Murdoch University. '
 id: e544
-image: https://i.ytimg.com/vi/8hBhrtObCok/hqdefault.jpg
+image: https://i.ytimg.com/vi/8hBhrtObCok/maxresdefault.jpg
 publishDate: 2021-11-05
 title: '#544 David M. G. Lewis: Evolution, Personality, Friendships, and Physical
   Attraction'

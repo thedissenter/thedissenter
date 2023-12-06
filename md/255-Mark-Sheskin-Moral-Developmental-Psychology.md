@@ -5,7 +5,7 @@ excerpt: 'Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva 
   His research interests are at the intersection of philosophy and psychology, with
   a particular focus on the origins of prosocial behavior and moral judgment. '
 id: e255
-image: https://i.ytimg.com/vi/B5K8OniMRLw/hqdefault.jpg
+image: https://i.ytimg.com/vi/B5K8OniMRLw/maxresdefault.jpg
 publishDate: 2019-11-14
 title: '#255 Mark Sheskin: Moral Developmental Psychology'
 youtubeid: B5K8OniMRLw

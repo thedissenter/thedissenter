@@ -6,7 +6,7 @@ excerpt: 'Dr. Sarah Hill is Associate Professor of Psychology at Texas Christian
   food regulation, and weight gain; hormonal contraceptives and mate choice; and other
   topics under the rubric of life history theory.  '
 id: e126
-image: https://i.ytimg.com/vi/CjoIp_gJB9Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/CjoIp_gJB9Q/maxresdefault.jpg
 publishDate: 2019-07-31
 title: '#126 Sarah Hill: Life History Theory, Puberty, Immune Function, and Mating
   Strategies'

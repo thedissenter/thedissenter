@@ -11,7 +11,7 @@ excerpt: 'Dr. Greg Eghigian is Professor of History at Pennsylvania State Univer
   his interests have moved into studying the history of supernatural and paranormal
   phenomena. '
 id: e387
-image: https://i.ytimg.com/vi/BJ_jomnPaqE/hqdefault.jpg
+image: https://i.ytimg.com/vi/BJ_jomnPaqE/maxresdefault.jpg
 publishDate: 2020-11-05
 title: '#387 Greg Eghigian: The History of Mental Illness and Psychiatry'
 youtubeid: BJ_jomnPaqE

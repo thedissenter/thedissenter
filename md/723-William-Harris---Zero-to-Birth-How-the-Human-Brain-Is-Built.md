@@ -9,7 +9,7 @@ excerpt: 'Dr. William Harris is Professor Emeritus of Anatomy at Cambridge Unive
   Developmental Biology for his work on the development of the visual system. He is
   the author of Zero to Birth: How the Human Brain Is Built.'
 id: e723
-image: https://i.ytimg.com/vi/swFWxI_OFrY/hqdefault.jpg
+image: https://i.ytimg.com/vi/swFWxI_OFrY/maxresdefault.jpg
 publishDate: 2022-12-29
 title: '#723 William Harris - Zero to Birth: How the Human Brain Is Built'
 youtubeid: swFWxI_OFrY

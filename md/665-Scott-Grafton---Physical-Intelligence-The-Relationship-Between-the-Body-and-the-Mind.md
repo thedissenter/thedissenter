@@ -8,7 +8,7 @@ excerpt: 'Dr. Scott Grafton is Distinguished Professor of Psychology at the Univ
   and action observation experiments. He is the author of Physical Intelligence: The
   Science of How the Body and the Mind Guide Each Other Through Life.'
 id: e665
-image: https://i.ytimg.com/vi/Uae_mp0aCV4/hqdefault.jpg
+image: https://i.ytimg.com/vi/Uae_mp0aCV4/maxresdefault.jpg
 publishDate: 2022-08-15
 title: '#665 Scott Grafton - Physical Intelligence; The Relationship Between the Body
   and the Mind'

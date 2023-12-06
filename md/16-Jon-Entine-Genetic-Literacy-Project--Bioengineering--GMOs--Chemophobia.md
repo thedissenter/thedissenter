@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e16
-image: https://i.ytimg.com/vi/KX9GQLPAQrU/hqdefault.jpg
+image: https://i.ytimg.com/vi/KX9GQLPAQrU/maxresdefault.jpg
 publishDate: 2019-02-23
 title: '#16 Jon Entine: Genetic Literacy Project, Bioengineering, GMOs, Chemophobia'
 youtubeid: KX9GQLPAQrU

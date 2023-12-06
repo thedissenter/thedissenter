@@ -9,7 +9,7 @@ excerpt: 'Thomas Coleman III is PhD student at Coventry University, and a Postdo
   in supernatural agents; investigating how and why moral motivations are stereotypically
   attributed to religious, as opposed to nonreligious factors.'
 id: e434
-image: https://i.ytimg.com/vi/VXoH3MUoODQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/VXoH3MUoODQ/maxresdefault.jpg
 publishDate: 2021-02-22
 title: '#434 Thomas Coleman: The Psychology of Believers and Nonbelievers'
 youtubeid: VXoH3MUoODQ

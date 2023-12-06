@@ -7,7 +7,7 @@ excerpt: 'Dr. Philip Dwyer is Professor in the School of Humanities and Social S
   Cambridge History of the Napoleonic Wars. He is the editor of The Darker Angels
   of Our Nature: Refuting the Pinker Theory of History & Violence.'
 id: e619
-image: https://i.ytimg.com/vi/BoZNJRytTsw/hqdefault.jpg
+image: https://i.ytimg.com/vi/BoZNJRytTsw/maxresdefault.jpg
 publishDate: 2022-04-29
 title: '#619 Philip Dwyer The Darker Angels of Our Nature: Refuting the Pinker Theory
   of History & Violence'

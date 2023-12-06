@@ -5,7 +5,7 @@ excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington Sta
   management, long-distance relationships and the downsides of climate change, and
   the evolution of human sociality.
 id: e655
-image: https://i.ytimg.com/vi/bb0KsWNvw7M/hqdefault.jpg
+image: https://i.ytimg.com/vi/bb0KsWNvw7M/maxresdefault.jpg
 publishDate: 2022-07-22
 title: '#655 Anne Pisor: Studying Subsistence Societies, Long-Distance Relationships,
   and Climate Change'

@@ -6,7 +6,7 @@ excerpt: "Dr. Tour\xE9 Reed is a professor in the History department at Illinois
   \ Dr. Reed's research interests center on race, class, and inequality. He\u2019\
   s the author of Toward Freedom: The Case Against Race Reductionism."
 id: e448
-image: https://i.ytimg.com/vi/UzhvWCh_dtM/hqdefault.jpg
+image: https://i.ytimg.com/vi/UzhvWCh_dtM/maxresdefault.jpg
 publishDate: 2021-03-26
 title: "#448 Tour\xE9 Reed - Toward Freedom: The Case Against Race Reductionism"
 youtubeid: UzhvWCh_dtM

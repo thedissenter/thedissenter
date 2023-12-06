@@ -15,7 +15,7 @@ excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, a
   \ graduate projects on the evolution of cognition. He\u2019s the author of the book\
   \ The Shape of Thought: How Mental Adaptations Evolve."
 id: e351
-image: https://i.ytimg.com/vi/YslK796ZsOk/hqdefault.jpg
+image: https://i.ytimg.com/vi/YslK796ZsOk/maxresdefault.jpg
 publishDate: 2020-08-03
 title: '#351 H. Clark Barrett: Consciousness, Moral Judgment, and Cross-cultural Studies'
 youtubeid: YslK796ZsOk

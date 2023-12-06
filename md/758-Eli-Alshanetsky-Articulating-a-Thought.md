@@ -6,7 +6,7 @@ excerpt: Dr. Eli Alshanetsky is an Assistant Professor of Philosophy at Temple U
   interests are at the intersection of the philosophy of mind and language, epistemology,
   and cognitive science. He is the author of Articulating a Thought.
 id: e758
-image: https://i.ytimg.com/vi/hdObfMD0LtA/hqdefault.jpg
+image: https://i.ytimg.com/vi/hdObfMD0LtA/maxresdefault.jpg
 publishDate: 2023-03-20
 title: '#758 Eli Alshanetsky: Articulating a Thought'
 youtubeid: hdObfMD0LtA

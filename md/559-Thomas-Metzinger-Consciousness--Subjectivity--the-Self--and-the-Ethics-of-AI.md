@@ -7,7 +7,7 @@ excerpt: Dr. Thomas K. Metzinger is senior research professor at the department 
   Germany. His research centers on analytic philosophy of mind, applied ethics, philosophy
   of cognitive science, and philosophy of mind.
 id: e559
-image: https://i.ytimg.com/vi/ERCPVQbXLco/hqdefault.jpg
+image: https://i.ytimg.com/vi/ERCPVQbXLco/maxresdefault.jpg
 publishDate: 2021-12-10
 title: '#559 Thomas Metzinger: Consciousness, Subjectivity, the Self, and the Ethics
   of AI'

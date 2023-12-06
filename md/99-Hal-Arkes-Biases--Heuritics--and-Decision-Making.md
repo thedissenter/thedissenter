@@ -8,7 +8,7 @@ excerpt: "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State Univer
   \ 1997; College of Arts & Sciences Outstanding Teacher Award (Ohio University) in\
   \ 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990."
 id: e99
-image: https://i.ytimg.com/vi/UGxyeA0I3jg/hqdefault.jpg
+image: https://i.ytimg.com/vi/UGxyeA0I3jg/maxresdefault.jpg
 publishDate: 2019-06-19
 title: '#99 Hal Arkes: Biases, Heuritics, and Decision-Making'
 youtubeid: UGxyeA0I3jg

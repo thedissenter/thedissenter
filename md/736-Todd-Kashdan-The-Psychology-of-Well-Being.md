@@ -11,7 +11,7 @@ excerpt: "Dr. Todd Kashdan is Professor of Psychology at George Mason University
   \ ingredient to a fulfilling life, and The Art of Insubordination: How to Dissent\
   \ and Defy Effectively."
 id: e736
-image: https://i.ytimg.com/vi/T9tps_UCIjo/hqdefault.jpg
+image: https://i.ytimg.com/vi/T9tps_UCIjo/maxresdefault.jpg
 publishDate: 2023-01-27
 title: '#736 Todd Kashdan: The Psychology of Well-Being'
 youtubeid: T9tps_UCIjo

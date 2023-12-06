@@ -9,7 +9,7 @@ excerpt: 'Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and 
   Fellowship for a project on the Neuroscience of Perception. She is the author of
   The Unity of Perception: Content, Consciousness, Evidence.'
 id: e829
-image: https://i.ytimg.com/vi/gLIJlnWFwKk/hqdefault.jpg
+image: https://i.ytimg.com/vi/gLIJlnWFwKk/maxresdefault.jpg
 publishDate: 2023-09-01
 title: '#829 Susanna Schellenberg - The Unity of Perception: Content, Consciousness,
   Evidence'

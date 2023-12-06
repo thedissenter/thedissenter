@@ -7,7 +7,7 @@ excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosoph
   \ of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry)\
   \ in early 2021. She\u2019s the author of Smellosophy: What the Nose tells the Mind."
 id: e337
-image: https://i.ytimg.com/vi/gpkNIDy9Vw0/hqdefault.jpg
+image: https://i.ytimg.com/vi/gpkNIDy9Vw0/maxresdefault.jpg
 publishDate: 2020-05-22
 title: '#337 Ann-Sophie Barwich: Philosophy of Science, Neuroscience, And Olfaction'
 youtubeid: gpkNIDy9Vw0

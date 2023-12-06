@@ -6,7 +6,7 @@ excerpt: Dr. Giuliana Spadaro is Visiting Fellow in the Faculty of Behavioral an
   this interest, and focused on understanding the relation between institutions, trust,
   and cooperation among strangers.
 id: e453
-image: https://i.ytimg.com/vi/HvlSWcOFd6U/hqdefault.jpg
+image: https://i.ytimg.com/vi/HvlSWcOFd6U/maxresdefault.jpg
 publishDate: 2021-04-08
 title: '#453 Giuliana Spadaro: Trust, Cooperation Between Strangers, and the Bystander
   Effect'

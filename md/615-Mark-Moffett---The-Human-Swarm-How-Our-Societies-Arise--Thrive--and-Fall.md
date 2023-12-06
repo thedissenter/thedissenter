@@ -5,7 +5,7 @@ excerpt: 'Dr. Mark W. Moffett is a tropical biologist and research associate at 
   Biology at Harvard University, which he used to write his book, The Human Swarm:
   How Our Societies Arise, Thrive, and Fall.'
 id: e615
-image: https://i.ytimg.com/vi/JQSgLkA087Y/hqdefault.jpg
+image: https://i.ytimg.com/vi/JQSgLkA087Y/maxresdefault.jpg
 publishDate: 2022-04-21
 title: '#615 Mark Moffett - The Human Swarm: How Our Societies Arise, Thrive, and
   Fall'

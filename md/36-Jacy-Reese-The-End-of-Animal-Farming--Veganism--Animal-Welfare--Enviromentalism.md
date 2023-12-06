@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e36
-image: https://i.ytimg.com/vi/JCWMXH09rSc/hqdefault.jpg
+image: https://i.ytimg.com/vi/JCWMXH09rSc/maxresdefault.jpg
 publishDate: 2019-03-21
 title: '#36 Jacy Reese: The End of Animal Farming, Veganism, Animal Welfare, Enviromentalism'
 youtubeid: JCWMXH09rSc

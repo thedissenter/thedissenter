@@ -4,7 +4,7 @@ excerpt: Fredrik DeBoer is a writer and academic. He writes a newsletter on cult
   and politics. He is the author of The Cult of Smart, and, more recently, How Elites
   Ate the Social Justice Movement.
 id: e831
-image: https://i.ytimg.com/vi/XKeQnq48fSA/hqdefault.jpg
+image: https://i.ytimg.com/vi/XKeQnq48fSA/maxresdefault.jpg
 publishDate: 2023-09-07
 title: '#831 Freddie deBoer: How Elites Ate the Social Justice Movement'
 youtubeid: XKeQnq48fSA

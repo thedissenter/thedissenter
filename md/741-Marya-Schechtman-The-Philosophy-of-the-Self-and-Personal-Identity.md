@@ -7,7 +7,7 @@ excerpt: 'Dr. Marya Schechtman is an LAS Distinguished Professor of Philosophy, 
   (Cornell 1996), and Staying Alive: Personal Identity, Practical Concerns, and the
   Unity of a Life (Oxford 2014).'
 id: e741
-image: https://i.ytimg.com/vi/UtqdlyTBLmI/hqdefault.jpg
+image: https://i.ytimg.com/vi/UtqdlyTBLmI/maxresdefault.jpg
 publishDate: 2023-02-09
 title: '#741 Marya Schechtman: The Philosophy of the Self and Personal Identity'
 youtubeid: UtqdlyTBLmI

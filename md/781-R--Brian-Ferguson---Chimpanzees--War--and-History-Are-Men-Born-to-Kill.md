@@ -7,7 +7,7 @@ excerpt: "Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers Universi
   \ especially explanations of war. His latest book is \u201CChimpanzees, War, and\
   \ History: Are Men Born to Kill?\u201D."
 id: e781
-image: https://i.ytimg.com/vi/f4gk3IN6UEY/hqdefault.jpg
+image: https://i.ytimg.com/vi/f4gk3IN6UEY/maxresdefault.jpg
 publishDate: 2023-05-12
 title: '#781 R. Brian Ferguson - Chimpanzees, War, and History: Are Men Born to Kill?'
 youtubeid: f4gk3IN6UEY

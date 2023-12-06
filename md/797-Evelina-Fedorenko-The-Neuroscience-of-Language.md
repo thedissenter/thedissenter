@@ -6,7 +6,7 @@ excerpt: Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscien
   other cognitive systems. She uses behavioral, fMRI, intracranial recording, computational,
   and genotyping methods in healthy adults and individuals with brain disorders.
 id: e797
-image: https://i.ytimg.com/vi/1vGJJru9Smg/hqdefault.jpg
+image: https://i.ytimg.com/vi/1vGJJru9Smg/maxresdefault.jpg
 publishDate: 2023-06-19
 title: '#797 Evelina Fedorenko: The Neuroscience of Language'
 youtubeid: 1vGJJru9Smg

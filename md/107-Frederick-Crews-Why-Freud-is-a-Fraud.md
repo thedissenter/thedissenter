@@ -3,7 +3,7 @@ draft: false
 excerpt: "I\u2019M SORRY FOR THE VIDEO BEING A BIT DESYNCHRONIZED. IT MUST HAVE BEEN\
   \ SOME SORT OF RECORDING ISSUE. THANK YOU FOR YOUR UNDERSTANDING."
 id: e107
-image: https://i.ytimg.com/vi/No9qHtuIvbk/hqdefault.jpg
+image: https://i.ytimg.com/vi/No9qHtuIvbk/maxresdefault.jpg
 publishDate: 2019-07-02
 title: '#107 Frederick Crews: Why Freud is a Fraud'
 youtubeid: No9qHtuIvbk

@@ -8,7 +8,7 @@ excerpt: 'Dr. Chad Orzel is an Associate Professor in the Department of Physics 
   Physics of Everyday Objects. His latest book is A Brief History of Timekeeping:
   The Science of Marking Time, from Stonehenge to Atomic Clocks.'
 id: e759
-image: https://i.ytimg.com/vi/AInXTKmGMLE/hqdefault.jpg
+image: https://i.ytimg.com/vi/AInXTKmGMLE/maxresdefault.jpg
 publishDate: 2023-03-23
 title: '#759 Chad Orzel - A Brief History of Timekeeping; from Stonehenge to Atomic
   Clocks'

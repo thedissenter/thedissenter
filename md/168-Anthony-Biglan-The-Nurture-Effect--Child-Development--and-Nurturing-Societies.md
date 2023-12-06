@@ -13,7 +13,7 @@ excerpt: "Dr. Anthony Biglan is a Senior Scientist at Oregon Research Institute 
   \ Prevention. He\u2019s also the author of The Nurture Effect: How the Science of\
   \ Human Behavior Can Improve Our Lives and Our World."
 id: e168
-image: https://i.ytimg.com/vi/Xob_XMU0Zxs/hqdefault.jpg
+image: https://i.ytimg.com/vi/Xob_XMU0Zxs/maxresdefault.jpg
 publishDate: 2019-04-25
 title: '#168 Anthony Biglan: The Nurture Effect, Child Development, and Nurturing
   Societies'

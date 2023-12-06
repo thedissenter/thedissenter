@@ -4,7 +4,7 @@ excerpt: Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological Univ
   Singapore. His research interests include cultural evolution, cognitive plasticity,
   and developmental psychobiology.
 id: e696
-image: https://i.ytimg.com/vi/j7HIP0AQwno/hqdefault.jpg
+image: https://i.ytimg.com/vi/j7HIP0AQwno/maxresdefault.jpg
 publishDate: 2022-10-27
 title: '#696 Ryutaro Uchiyama: Cultural Evolution of Genetic Heritability'
 youtubeid: j7HIP0AQwno

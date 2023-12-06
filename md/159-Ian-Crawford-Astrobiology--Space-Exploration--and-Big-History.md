@@ -5,7 +5,7 @@ excerpt: Dr. Ian Crawford is Professor of Planetary Science and Astrobiology at 
   of space exploration (especially lunar science and exploration), and the science
   of astrobiology (the search for life in the Universe).
 id: e159
-image: https://i.ytimg.com/vi/aJsW54WNkWk/hqdefault.jpg
+image: https://i.ytimg.com/vi/aJsW54WNkWk/maxresdefault.jpg
 publishDate: 2019-04-04
 title: '#159 Ian Crawford: Astrobiology, Space Exploration, and Big History'
 youtubeid: aJsW54WNkWk

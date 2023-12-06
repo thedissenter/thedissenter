@@ -10,7 +10,7 @@ excerpt: Dr. Adina Roskies is The Helman Family Distinguished Professor and Chai
   and Psychology, a Mellon New Directions Fellowship, and the Laurance S. Rockefeller
   Visiting Faculty Fellowship from the Princeton University Center for Human Values.
 id: e776
-image: https://i.ytimg.com/vi/Uoc3P563xuY/hqdefault.jpg
+image: https://i.ytimg.com/vi/Uoc3P563xuY/maxresdefault.jpg
 publishDate: 2023-05-01
 title: '#776 Adina Roskies: Neuroimaging Studies, Neuroethics, and Free Will'
 youtubeid: Uoc3P563xuY

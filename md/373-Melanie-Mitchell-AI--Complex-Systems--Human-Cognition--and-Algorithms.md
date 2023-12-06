@@ -10,7 +10,7 @@ excerpt: 'Dr. Melanie Mitchell is the Davis Professor of Complexity at the Santa
   as one of the ten best science books of 2009. Her latest book is Artificial Intelligence:
   A Guide for Thinking Humans (Farrar, Straus, and Giroux).'
 id: e373
-image: https://i.ytimg.com/vi/xekprDnbpGw/hqdefault.jpg
+image: https://i.ytimg.com/vi/xekprDnbpGw/maxresdefault.jpg
 publishDate: 2020-10-02
 title: '#373 Melanie Mitchell: AI, Complex Systems, Human Cognition, and Algorithms'
 youtubeid: xekprDnbpGw

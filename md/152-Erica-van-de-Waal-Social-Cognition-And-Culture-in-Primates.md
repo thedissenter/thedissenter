@@ -7,7 +7,7 @@ excerpt: Dr. Erica van de Waal is Professor of Primatology at the University of 
   at the University of Zurich. She is interested in the evolution of primate social
   behaviors with a main focus on cultural transmission and cognition.
 id: e152
-image: https://i.ytimg.com/vi/IQJDNZRKVtY/hqdefault.jpg
+image: https://i.ytimg.com/vi/IQJDNZRKVtY/maxresdefault.jpg
 publishDate: 2019-03-18
 title: '#152 Erica van de Waal: Social Cognition And Culture in Primates'
 youtubeid: IQJDNZRKVtY

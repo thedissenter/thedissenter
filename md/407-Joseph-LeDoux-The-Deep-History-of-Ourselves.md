@@ -7,7 +7,7 @@ excerpt: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Pr
   \ being The Deep History of Ourselves: The Four-Billion-Year Story of How We Got\
   \ Conscious Brains."
 id: e407
-image: https://i.ytimg.com/vi/TzhqTRtHx8w/hqdefault.jpg
+image: https://i.ytimg.com/vi/TzhqTRtHx8w/maxresdefault.jpg
 publishDate: 2020-12-21
 title: '#407 Joseph LeDoux: The Deep History of Ourselves'
 youtubeid: TzhqTRtHx8w

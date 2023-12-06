@@ -10,7 +10,7 @@ excerpt: "Dr. Gustavo Carlo is Millsap Professor of Diversity in the Department 
   \ of Missouri, and the 2018 Outstanding Mentor Award from the Society for Research\
   \ on Adolescence."
 id: e188
-image: https://i.ytimg.com/vi/oTi5XSdtx90/hqdefault.jpg
+image: https://i.ytimg.com/vi/oTi5XSdtx90/maxresdefault.jpg
 publishDate: 2019-06-10
 title: '#188 Gustavo Carlo: Prosocial And Moral Development In Children And Adolescents'
 youtubeid: oTi5XSdtx90

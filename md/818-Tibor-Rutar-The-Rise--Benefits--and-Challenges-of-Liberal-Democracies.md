@@ -7,7 +7,7 @@ excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University 
   Government: A Sociological Approach (Routledge, 2021) and Capitalism for Realists:
   Virtues and Vices of the Modern Economy (Routledge, 2022).'
 id: e818
-image: https://i.ytimg.com/vi/3x_LdtB1pG8/hqdefault.jpg
+image: https://i.ytimg.com/vi/3x_LdtB1pG8/maxresdefault.jpg
 publishDate: 2023-08-07
 title: '#818 Tibor Rutar: The Rise, Benefits, and Challenges of Liberal Democracies'
 youtubeid: 3x_LdtB1pG8

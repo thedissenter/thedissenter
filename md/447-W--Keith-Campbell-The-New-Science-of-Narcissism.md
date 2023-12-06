@@ -10,7 +10,7 @@ excerpt: "Dr. William Keith Campbell is a professor in the Department of Psychol
   \ \u201CThe New Science of Narcissism: Understanding one of the greatest Psychological\
   \ challenges of our time \u2013 and what you can do about it\u201D."
 id: e447
-image: https://i.ytimg.com/vi/MgEHg1lIS3U/hqdefault.jpg
+image: https://i.ytimg.com/vi/MgEHg1lIS3U/maxresdefault.jpg
 publishDate: 2021-03-25
 title: '#447 W. Keith Campbell: The New Science of Narcissism'
 youtubeid: MgEHg1lIS3U

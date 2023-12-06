@@ -11,7 +11,7 @@ excerpt: "Dr. John Barry is a Chartered Psychologist and Associate Fellow of the
   \ Handbook of Male Psychology and Mental Health (2019). He is also co-author (with\
   \ Louise Liddon) of the new book Perspectives in Male Psychology: An Introduction. "
 id: e620
-image: https://i.ytimg.com/vi/2NN42M1Ic7M/hqdefault.jpg
+image: https://i.ytimg.com/vi/2NN42M1Ic7M/maxresdefault.jpg
 publishDate: 2022-05-02
 title: '#620 John Barry - Perspectives in Male Psychology (Pt.2) - Education, Criminality,
   Military'

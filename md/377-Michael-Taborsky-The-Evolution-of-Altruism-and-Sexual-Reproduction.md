@@ -5,7 +5,7 @@ excerpt: Dr. Michael Taborsky is the Director of the Behavioural Ecology Departm
   Switzerland. His major research focus is the adaptive function of behavior, with
   emphasis on cooperation and conflict, sociality and sexual reproduction.
 id: e377
-image: https://i.ytimg.com/vi/nNsF86y6VyQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/nNsF86y6VyQ/maxresdefault.jpg
 publishDate: 2020-10-12
 title: '#377 Michael Taborsky: The Evolution of Altruism and Sexual Reproduction'
 youtubeid: nNsF86y6VyQ

@@ -10,7 +10,7 @@ excerpt: 'Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics
   Sentiments and the Wealth of Nations for the Twenty-First Century." He is the author
   of The Property Species: Mine, Yours, and the Human Mind.'
 id: e466
-image: https://i.ytimg.com/vi/SLvTBdpDdN8/hqdefault.jpg
+image: https://i.ytimg.com/vi/SLvTBdpDdN8/maxresdefault.jpg
 publishDate: 2021-05-07
 title: '#466 Bart Wilson - The Property Species: Mine, Yours, and the Human Mind'
 youtubeid: SLvTBdpDdN8

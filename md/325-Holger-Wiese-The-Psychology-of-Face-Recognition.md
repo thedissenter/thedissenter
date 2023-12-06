@@ -2,7 +2,7 @@
 draft: false
 excerpt: ''
 id: e325
-image: https://i.ytimg.com/vi/WPWst9HQvwA/hqdefault.jpg
+image: https://i.ytimg.com/vi/WPWst9HQvwA/maxresdefault.jpg
 publishDate: 2020-04-24
 title: '#325 Holger Wiese: The Psychology of Face Recognition'
 youtubeid: WPWst9HQvwA

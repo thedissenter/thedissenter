@@ -8,7 +8,7 @@ excerpt: Dr. Niels Dingemanse is Tenured Professor in Behavioural Ecology in the
   and seeks to test predictions and assumptions of adaptive theory using observational
   and experimental approaches in the laboratory and the wild.
 id: e399
-image: https://i.ytimg.com/vi/TZ76B9ro1oc/hqdefault.jpg
+image: https://i.ytimg.com/vi/TZ76B9ro1oc/maxresdefault.jpg
 publishDate: 2020-12-03
 title: '#399 Niels Dingemanse: Ecology, Behavioral Plasticity, and Animal Personality'
 youtubeid: TZ76B9ro1oc

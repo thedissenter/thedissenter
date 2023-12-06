@@ -10,7 +10,7 @@ excerpt: Dr. Sarah Mathew is Associate Professor in the School of Human Evolutio
   who cooperate at a large scale, including in lethal interethnic raids, without formal
   centralized political institutions.
 id: e725
-image: https://i.ytimg.com/vi/wM_5Fd6W8hE/hqdefault.jpg
+image: https://i.ytimg.com/vi/wM_5Fd6W8hE/maxresdefault.jpg
 publishDate: 2023-01-02
 title: '#725 Sarah Mathew: Human Sociality, Cooperation, Reciprocity, and Warfare'
 youtubeid: wM_5Fd6W8hE

@@ -8,7 +8,7 @@ excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine G
   His new book is The Eternal Decline and Fall of Rome: The History of a Dangerous
   Idea.'
 id: e521
-image: https://i.ytimg.com/vi/J_JgVL3k-8o/hqdefault.jpg
+image: https://i.ytimg.com/vi/J_JgVL3k-8o/maxresdefault.jpg
 publishDate: 2021-09-13
 title: '#521 Edward Watts - The Eternal Decline and Fall of Rome: The History of a
   Dangerous Idea'

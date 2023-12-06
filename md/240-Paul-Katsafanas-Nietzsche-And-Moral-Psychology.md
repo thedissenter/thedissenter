@@ -6,7 +6,7 @@ excerpt: "Dr. Paul Katsafanas is Associate Professor in the Department of Philos
   \ Nietzschean Constitutivism, and The Nietzschean Self: Moral Psychology, Agency,\
   \ and the Unconscious."
 id: e240
-image: https://i.ytimg.com/vi/o7LxgsSZbZk/hqdefault.jpg
+image: https://i.ytimg.com/vi/o7LxgsSZbZk/maxresdefault.jpg
 publishDate: 2019-10-10
 title: '#240 Paul Katsafanas: Nietzsche And Moral Psychology'
 youtubeid: o7LxgsSZbZk

@@ -5,7 +5,7 @@ excerpt: 'Dr. Alexandra Kalev is Associate Professor of Sociology and Anthropolo
   diversity in corporations and universities. She is the author, together with Frank
   Dobbin, of Getting to Diversity: What Works and What Doesn''t.'
 id: e755
-image: https://i.ytimg.com/vi/jC_T0-IcngQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/jC_T0-IcngQ/maxresdefault.jpg
 publishDate: 2023-03-13
 title: '#755 Alexandra Kalev - Getting to Diversity: What Works and What Doesn''t'
 youtubeid: jC_T0-IcngQ

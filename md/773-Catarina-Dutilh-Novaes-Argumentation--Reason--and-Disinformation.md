@@ -10,7 +10,7 @@ excerpt: "Dr. Catarina Dutilh Novaes is Professor and University Research Chair 
   \ philosophy of mind, issues pertaining to gender and race, and empirically-informed\
   \ approaches to philosophy in general."
 id: e773
-image: https://i.ytimg.com/vi/mQL819vCthc/hqdefault.jpg
+image: https://i.ytimg.com/vi/mQL819vCthc/maxresdefault.jpg
 publishDate: 2023-04-24
 title: '#773 Catarina Dutilh Novaes: Argumentation, Reason, and Disinformation'
 youtubeid: mQL819vCthc

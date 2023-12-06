@@ -13,7 +13,7 @@ excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlanti
   \ His current research interests include children's cognitive development and evolutionary\
   \ developmental psychology."
 id: e182
-image: https://i.ytimg.com/vi/MoLk2KRCKu8/hqdefault.jpg
+image: https://i.ytimg.com/vi/MoLk2KRCKu8/maxresdefault.jpg
 publishDate: 2019-05-27
 title: '#182 David Bjorklund: Evolution, Child Development, And Modern Environments'
 youtubeid: MoLk2KRCKu8

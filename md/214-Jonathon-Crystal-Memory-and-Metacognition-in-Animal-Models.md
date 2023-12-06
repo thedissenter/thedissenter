@@ -7,7 +7,7 @@ excerpt: 'Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences 
   memory, and metacognition. He is currently the Editor of Learning & Behavior, and
   he recently served as President of the Comparative Cognition Society. '
 id: e214
-image: https://i.ytimg.com/vi/KXNWeJ5Z1hY/hqdefault.jpg
+image: https://i.ytimg.com/vi/KXNWeJ5Z1hY/maxresdefault.jpg
 publishDate: 2019-08-09
 title: '#214 Jonathon Crystal: Memory and Metacognition in Animal Models'
 youtubeid: KXNWeJ5Z1hY

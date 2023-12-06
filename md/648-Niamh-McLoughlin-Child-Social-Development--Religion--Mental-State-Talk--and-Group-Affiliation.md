@@ -4,7 +4,7 @@ excerpt: "Dr. Niamh McLoughlin is a Lecturer in Developmental Psychology at Univ
   \ of Kent. She studies how social information impacts young children\u2019s cognition,\
   \ evaluations and behavior."
 id: e648
-image: https://i.ytimg.com/vi/-l777aQ5mXs/hqdefault.jpg
+image: https://i.ytimg.com/vi/-l777aQ5mXs/maxresdefault.jpg
 publishDate: 2022-07-07
 title: '#648 Niamh McLoughlin: Child Social Development, Religion, Mental State Talk,
   and Group Affiliation'

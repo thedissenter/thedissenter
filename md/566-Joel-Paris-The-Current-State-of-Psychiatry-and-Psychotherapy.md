@@ -8,7 +8,7 @@ excerpt: "Dr. Joel Paris is Professor of Psychiatry at McGill University, and Re
   \ Psychoanalysis, The Fall of an Icon: Psychoanalysis and Academic Psychiatry, and\
   \ Fads and Fallacies in Psychiatry."
 id: e566
-image: https://i.ytimg.com/vi/CwCrjb_GLkw/hqdefault.jpg
+image: https://i.ytimg.com/vi/CwCrjb_GLkw/maxresdefault.jpg
 publishDate: 2021-12-27
 title: '#566 Joel Paris: The Current State of Psychiatry and Psychotherapy'
 youtubeid: CwCrjb_GLkw

@@ -12,7 +12,7 @@ excerpt: 'Dr. Marc Bekoff is professor emeritus of Ecology and Evolutionary Biol
   has published numerous essays (popular, scientific, and book chapters), 31 books,
   and has edited three encyclopedias. '
 id: e371
-image: https://i.ytimg.com/vi/xcKJNk4r834/hqdefault.jpg
+image: https://i.ytimg.com/vi/xcKJNk4r834/maxresdefault.jpg
 publishDate: 2020-09-28
 title: '#371 Marc Bekoff: Ethology and Animal Conservation'
 youtubeid: xcKJNk4r834

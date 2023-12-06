@@ -6,7 +6,7 @@ excerpt: Dr. Kristen Lindquist is a Professor of Psychology and Neuroscience at 
   uses tools from social cognition, physiology, neuroscience, and big data methods
   to examine how emotions emerge from the confluence of the body, brain, and culture.
 id: e834
-image: https://i.ytimg.com/vi/LoWNXd7pYMo/hqdefault.jpg
+image: https://i.ytimg.com/vi/LoWNXd7pYMo/maxresdefault.jpg
 publishDate: 2023-09-14
 title: '#834 Kristen Lindquist: The Psychology and Neuroscience of Emotions'
 youtubeid: LoWNXd7pYMo

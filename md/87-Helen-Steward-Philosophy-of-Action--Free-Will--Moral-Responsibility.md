@@ -2,7 +2,7 @@
 draft: false
 excerpt: '------------------Support me---------  '
 id: e87
-image: https://i.ytimg.com/vi/WggFO-sUwOI/hqdefault.jpg
+image: https://i.ytimg.com/vi/WggFO-sUwOI/maxresdefault.jpg
 publishDate: 2019-06-03
 title: '#87 Helen Steward: Philosophy of Action, Free Will, Moral Responsibility'
 youtubeid: WggFO-sUwOI

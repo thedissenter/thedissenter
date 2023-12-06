@@ -7,7 +7,7 @@ excerpt: 'Dr. Steven Frank is Donald Bren Professor & UCI Distinguished Professo
   Social Evolution, Immunology and Evolution of Infectious Disease, and more recently,
   Microbial Life History: The Fundamental Forces of Biological Design.'
 id: e652
-image: https://i.ytimg.com/vi/bHoL-kmtR54/hqdefault.jpg
+image: https://i.ytimg.com/vi/bHoL-kmtR54/maxresdefault.jpg
 publishDate: 2022-07-15
 title: '#652 Steven Frank - Microbial Life History: The Fundamental Forces of Biological
   Design'

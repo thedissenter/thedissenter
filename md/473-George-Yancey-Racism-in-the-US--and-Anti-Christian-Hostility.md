@@ -7,7 +7,7 @@ excerpt: Dr. George Yancey is a Professor of Sociology at the Baylor University.
   There is no God, So Many Christians, So Few Lions (Rowman and Littlefield) a book
   that assess Christianophobia in the United States.
 id: e473
-image: https://i.ytimg.com/vi/unL98Ow1klY/hqdefault.jpg
+image: https://i.ytimg.com/vi/unL98Ow1klY/maxresdefault.jpg
 publishDate: 2021-05-24
 title: '#473 George Yancey: Racism in the US, and Anti-Christian Hostility'
 youtubeid: unL98Ow1klY

@@ -6,7 +6,7 @@ excerpt: 'Dr. Jennifer Sheehy-Skeffington is Assistant Professor of Social Psych
   and group membership: their origins, interactions, and manifestation in societal
   context.'
 id: e573
-image: https://i.ytimg.com/vi/S7BHkmacx0w/hqdefault.jpg
+image: https://i.ytimg.com/vi/S7BHkmacx0w/maxresdefault.jpg
 publishDate: 2022-01-13
 title: '#573 Jennifer Sheehy-Skeffington: Evolutionary Psychology, Political Ideology,
   and Social Inequality'

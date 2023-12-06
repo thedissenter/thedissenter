@@ -11,7 +11,7 @@ excerpt: "Dr. Catherine Wilson was until recently Professor of Philosophy at the
   \ at the Origins of Modernity, and Epicureanism: A Very Short Introduction, and\
   \ Metaethics from a First Person Standpoint: An Introduction to Moral Philosophy."
 id: e211
-image: https://i.ytimg.com/vi/PtutEYXMEWg/hqdefault.jpg
+image: https://i.ytimg.com/vi/PtutEYXMEWg/maxresdefault.jpg
 publishDate: 2019-08-02
 title: '#211 Catherine Wilson: Epicureanism, Atomism, Materialism, And Modernity'
 youtubeid: PtutEYXMEWg

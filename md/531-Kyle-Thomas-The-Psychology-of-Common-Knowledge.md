@@ -9,7 +9,7 @@ excerpt: "Dr. Kyle Thomas recently received his Ph.D. in experimental psychology
   or don\u2019t\u2014at the click of a button. Software hasn\u2019t eaten marketing\
   \ research yet, but they\u2019re working very hard to change that."
 id: e531
-image: https://i.ytimg.com/vi/4m-Kl_vJKBY/hqdefault.jpg
+image: https://i.ytimg.com/vi/4m-Kl_vJKBY/maxresdefault.jpg
 publishDate: 2021-10-07
 title: '#531 Kyle Thomas: The Psychology of Common Knowledge'
 youtubeid: 4m-Kl_vJKBY

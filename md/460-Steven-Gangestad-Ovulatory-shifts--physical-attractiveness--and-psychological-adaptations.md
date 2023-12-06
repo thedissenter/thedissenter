@@ -5,7 +5,7 @@ excerpt: Dr. Steven Gangestad is Distinguished Professor Emeritus at the Univers
   social/personality psychology; psychopathology; and health related behavior, as
   informed by Evolutionary Psychology.
 id: e460
-image: https://i.ytimg.com/vi/m36rtFBYtq4/hqdefault.jpg
+image: https://i.ytimg.com/vi/m36rtFBYtq4/maxresdefault.jpg
 publishDate: 2021-04-23
 title: '#460 Steven Gangestad: Ovulatory shifts, physical attractiveness, and psychological
   adaptations'

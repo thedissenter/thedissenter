@@ -9,7 +9,7 @@ excerpt: 'Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle Uni
   Tyneside Neighbourhoods: Deprivation, Social Life and Social Behaviour in One English
   City (2015).'
 id: e166
-image: https://i.ytimg.com/vi/FDkEhOiksLw/hqdefault.jpg
+image: https://i.ytimg.com/vi/FDkEhOiksLw/maxresdefault.jpg
 publishDate: 2019-04-19
 title: '#166 Daniel Nettle: The Evolution of Personality, Individual Variation And
   Behavioral Flexibility'

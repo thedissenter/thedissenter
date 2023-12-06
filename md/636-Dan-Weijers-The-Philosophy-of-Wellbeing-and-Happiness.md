@@ -7,7 +7,7 @@ excerpt: Dr. Dan Weijers is a permanent Senior Lecturer in the Philosophy Progra
   happiness/wellbeing research (especially wellbeing and public policy, philosophy
   of happiness science, and conceptions of happiness).
 id: e636
-image: https://i.ytimg.com/vi/v38AbOagSSk/hqdefault.jpg
+image: https://i.ytimg.com/vi/v38AbOagSSk/maxresdefault.jpg
 publishDate: 2022-06-09
 title: '#636 Dan Weijers: The Philosophy of Wellbeing and Happiness'
 youtubeid: v38AbOagSSk

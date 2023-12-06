@@ -11,7 +11,7 @@ excerpt: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguis
   and, in particular, how our idealized models and theories of rationality can help\
   \ inform our understanding of our non-ideal selves."
 id: e783
-image: https://i.ytimg.com/vi/yG4MGzq5zzc/hqdefault.jpg
+image: https://i.ytimg.com/vi/yG4MGzq5zzc/maxresdefault.jpg
 publishDate: 2023-05-18
 title: '#783 Kevin Dorst: Epistemology, Justified Beliefs, and Epistemic Modesty'
 youtubeid: yG4MGzq5zzc

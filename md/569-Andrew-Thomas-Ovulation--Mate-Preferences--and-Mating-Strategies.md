@@ -8,7 +8,7 @@ excerpt: Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK
   and online interaction; particularly how one represents oneself using internet avatars
   and aliases.
 id: e569
-image: https://i.ytimg.com/vi/0qnj1VkeVnE/hqdefault.jpg
+image: https://i.ytimg.com/vi/0qnj1VkeVnE/maxresdefault.jpg
 publishDate: 2022-01-03
 title: '#569 Andrew Thomas: Ovulation, Mate Preferences, and Mating Strategies'
 youtubeid: 0qnj1VkeVnE

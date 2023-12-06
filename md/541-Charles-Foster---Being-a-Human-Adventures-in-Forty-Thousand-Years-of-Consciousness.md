@@ -11,7 +11,7 @@ excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of
   including his most recent one, Being a Human: Adventures in Forty Thousand Years
   of Consciousness.'
 id: e541
-image: https://i.ytimg.com/vi/QV4npAUQAck/hqdefault.jpg
+image: https://i.ytimg.com/vi/QV4npAUQAck/maxresdefault.jpg
 publishDate: 2021-10-29
 title: '#541 Charles Foster - Being a Human: Adventures in Forty Thousand Years of
   Consciousness'

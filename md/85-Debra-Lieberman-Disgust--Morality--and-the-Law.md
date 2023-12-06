@@ -4,7 +4,7 @@ excerpt: 'Dr. Debra Lieberman is an Associate Professor of Psychology at the Col
   of Arts and Sciences of the University of Miami, US. She recently published a book,
   Objection: Disgust, Morality, and the Law.'
 id: e85
-image: https://i.ytimg.com/vi/F7KCXBPvRlg/hqdefault.jpg
+image: https://i.ytimg.com/vi/F7KCXBPvRlg/maxresdefault.jpg
 publishDate: 2019-05-30
 title: '#85 Debra Lieberman: Disgust, Morality, and the Law'
 youtubeid: F7KCXBPvRlg

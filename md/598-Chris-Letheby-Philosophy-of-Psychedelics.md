@@ -8,7 +8,7 @@ excerpt: Dr. Chris Letheby is Lecturer in Philosophy at the University of Wester
   of psychedelic experience within the framework of 21st century philosophy of cognitive
   science. He is the author of Philosophy of Psychedelics.
 id: e598
-image: https://i.ytimg.com/vi/rDPhcAwd-4Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/rDPhcAwd-4Q/maxresdefault.jpg
 publishDate: 2022-03-11
 title: '#598 Chris Letheby: Philosophy of Psychedelics'
 youtubeid: rDPhcAwd-4Q

@@ -8,7 +8,7 @@ excerpt: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in 
   practice and on the use of functional neuroimaging in psychiatry. She is a co-editor
   of Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science.'
 id: e348
-image: https://i.ytimg.com/vi/UXm_7WVjNdo/hqdefault.jpg
+image: https://i.ytimg.com/vi/UXm_7WVjNdo/maxresdefault.jpg
 publishDate: 2020-07-13
 title: '#348 Robyn Bluhm: Medicine, Psychiatry, And Neurosexism'
 youtubeid: UXm_7WVjNdo

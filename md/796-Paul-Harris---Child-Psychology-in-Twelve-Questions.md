@@ -5,7 +5,7 @@ excerpt: Dr. Paul Harris is Victor S. Thomas Professor of Education at the Gradu
   of cognition, emotion, and imagination. He is the author of several books, the most
   recent one being Child Psychology in Twelve Questions.
 id: e796
-image: https://i.ytimg.com/vi/5MIq0uu-QG0/hqdefault.jpg
+image: https://i.ytimg.com/vi/5MIq0uu-QG0/maxresdefault.jpg
 publishDate: 2023-06-16
 title: '#796 Paul Harris - Child Psychology in Twelve Questions'
 youtubeid: 5MIq0uu-QG0

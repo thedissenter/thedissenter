@@ -12,7 +12,7 @@ excerpt: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Dep
   cultures. He is the author of The Cognitive Neuroscience of Religious Experience:
   Decentering and the Self.'
 id: e720
-image: https://i.ytimg.com/vi/Iwj4KOYH954/hqdefault.jpg
+image: https://i.ytimg.com/vi/Iwj4KOYH954/maxresdefault.jpg
 publishDate: 2022-12-22
 title: '#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience:
   Decentering and the Self'

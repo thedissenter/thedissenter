@@ -10,7 +10,7 @@ excerpt: Dr. Lauren Brent is Associate Professor in the Centre for Research in A
   genetics, life-history evolution, endocrinology, comparative psychology, and cognitive
   neuroscience.
 id: e483
-image: https://i.ytimg.com/vi/8cKeZhX-GFs/hqdefault.jpg
+image: https://i.ytimg.com/vi/8cKeZhX-GFs/maxresdefault.jpg
 publishDate: 2021-06-17
 title: '#482 Lauren Brent: The Evolution of Sociality, and Primate Societies'
 youtubeid: 8cKeZhX-GFs

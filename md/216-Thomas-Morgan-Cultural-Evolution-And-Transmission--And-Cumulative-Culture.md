@@ -14,7 +14,7 @@ excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolut
   \ in the psychological mechanisms that support culture and evolutionary explanations\
   \ for how humans came to be. "
 id: e216
-image: https://i.ytimg.com/vi/PquVDMPAbmo/hqdefault.jpg
+image: https://i.ytimg.com/vi/PquVDMPAbmo/maxresdefault.jpg
 publishDate: 2019-08-15
 title: '#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture'
 youtubeid: PquVDMPAbmo

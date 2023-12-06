@@ -8,7 +8,7 @@ excerpt: "Dr. Philip Goff is a philosopher and consciousness researcher at Durha
   \ philosophy, focusing on issues pertaining to taxation, globalization and social\
   \ justice. He\u2019s also the author of the book Consciousness and Fundamental Reality."
 id: e162
-image: https://i.ytimg.com/vi/CCvG_lX70L4/hqdefault.jpg
+image: https://i.ytimg.com/vi/CCvG_lX70L4/maxresdefault.jpg
 publishDate: 2019-04-11
 title: '#162 Philip Goff: Materialism, Consciousness, And The Nature of Reality'
 youtubeid: CCvG_lX70L4

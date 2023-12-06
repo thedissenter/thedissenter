@@ -6,7 +6,7 @@ excerpt: "Dr. Coralie Chevallier is a Researcher in the evolution and social cog
   \ determinants of social cognition. She has mainly focused on the way motivational\
   \ factors affect people\u2019s social behaviors."
 id: e853
-image: https://i.ytimg.com/vi/dzbIkj9tkKg/hqdefault.jpg
+image: https://i.ytimg.com/vi/dzbIkj9tkKg/maxresdefault.jpg
 publishDate: 2023-10-27
 title: '#853 Coralie Chevallier: The Psychological Effects of Living in Harsh and
   Unpredictable Environments'

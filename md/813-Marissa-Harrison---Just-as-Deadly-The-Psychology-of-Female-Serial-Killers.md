@@ -7,7 +7,7 @@ excerpt: 'Dr. Marissa Harrison is Associate Professor of Psychology in the Schoo
   perspectives. She is the author of Just as Deadly: The Psychology of Female Serial
   Killers.'
 id: e813
-image: https://i.ytimg.com/vi/qjvNtKUz6hQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/qjvNtKUz6hQ/maxresdefault.jpg
 publishDate: 2023-07-27
 title: '#813 Marissa Harrison - Just as Deadly: The Psychology of Female Serial Killers'
 youtubeid: qjvNtKUz6hQ

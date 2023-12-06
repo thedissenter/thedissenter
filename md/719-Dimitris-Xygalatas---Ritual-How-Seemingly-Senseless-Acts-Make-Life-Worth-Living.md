@@ -9,7 +9,7 @@ excerpt: 'Dr. Dimitris Xygalatas is Associate Professor in Anthropology and Psyc
   and Culture in the Fire-walking Rituals of the Anastenaria, and, more recently,
   Ritual: How Seemingly Senseless Acts Make Life Worth Living.'
 id: e719
-image: https://i.ytimg.com/vi/jMaksP9cmQU/hqdefault.jpg
+image: https://i.ytimg.com/vi/jMaksP9cmQU/maxresdefault.jpg
 publishDate: 2022-12-19
 title: '#719 Dimitris Xygalatas - Ritual: How Seemingly Senseless Acts Make Life Worth
   Living'

@@ -11,7 +11,7 @@ excerpt: Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Dep
   Apicella, studying how the Hadza hunter-gatherers of Tanzania maintain group cooperation
   and what traits they prefer in potential social partners.
 id: e687
-image: https://i.ytimg.com/vi/vBqKDXVh-9M/hqdefault.jpg
+image: https://i.ytimg.com/vi/vBqKDXVh-9M/maxresdefault.jpg
 publishDate: 2022-10-06
 title: '#687 Kristopher Smith: Human Cooperation, Partner Choice, and Long-Distance
   Relationships'

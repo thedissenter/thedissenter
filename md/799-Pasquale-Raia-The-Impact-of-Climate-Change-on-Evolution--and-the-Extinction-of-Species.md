@@ -7,7 +7,7 @@ excerpt: Dr. Pasquale Raia is Professor of Paleontology and Paleoecology at the 
   evolution of insular species, the complexity of organisms, and the dynamics of extinction
   of hominids.
 id: e799
-image: https://i.ytimg.com/vi/qTixA6QYG_s/hqdefault.jpg
+image: https://i.ytimg.com/vi/qTixA6QYG_s/maxresdefault.jpg
 publishDate: 2023-06-23
 title: '#799 Pasquale Raia: The Impact of Climate Change on Evolution, and the Extinction
   of Species'

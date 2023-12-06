@@ -6,7 +6,7 @@ excerpt: "Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at th
   \ models and simulations of it. He\u2019s also the author of the book Cultural Evolution:\
   \ How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences."
 id: e228
-image: https://i.ytimg.com/vi/YhxskkTGuss/hqdefault.jpg
+image: https://i.ytimg.com/vi/YhxskkTGuss/maxresdefault.jpg
 publishDate: 2019-09-12
 title: '#228 Alex Mesoudi: Studying Cultural Evolution, Migration And Transmission'
 youtubeid: YhxskkTGuss

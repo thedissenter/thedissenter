@@ -9,7 +9,7 @@ excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at th
   institutional and individual reputations and the role of trust and confidence on
   political accountability attributions.
 id: e748
-image: https://i.ytimg.com/vi/WrO4-JsVOi0/hqdefault.jpg
+image: https://i.ytimg.com/vi/WrO4-JsVOi0/maxresdefault.jpg
 publishDate: 2023-02-24
 title: '#748 Tereza Capelos: Ressentiment, Populism, Brexit, and the Role of Trust
   in Politics'

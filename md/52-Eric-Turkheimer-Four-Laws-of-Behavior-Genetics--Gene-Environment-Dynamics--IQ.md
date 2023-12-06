@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e52
-image: https://i.ytimg.com/vi/VIYiinnUxds/hqdefault.jpg
+image: https://i.ytimg.com/vi/VIYiinnUxds/maxresdefault.jpg
 publishDate: 2019-04-09
 title: '#52 Eric Turkheimer: Four Laws of Behavior Genetics, Gene-Environment Dynamics,
   IQ'

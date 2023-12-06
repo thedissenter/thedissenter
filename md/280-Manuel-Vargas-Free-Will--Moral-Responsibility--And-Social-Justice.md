@@ -5,7 +5,7 @@ excerpt: "Dr. Manuel Vargas is a professor in the Department of Philosophy at UC
   \ of Mexican philosophy, and whatever it is he\u2019s thinking about with respect\
   \ to agency, moral psychology, and sociality."
 id: e280
-image: https://i.ytimg.com/vi/ZgNa4ZsP2Ho/hqdefault.jpg
+image: https://i.ytimg.com/vi/ZgNa4ZsP2Ho/maxresdefault.jpg
 publishDate: 2020-01-10
 title: '#280 Manuel Vargas: Free Will, Moral Responsibility, And Social Justice'
 youtubeid: ZgNa4ZsP2Ho

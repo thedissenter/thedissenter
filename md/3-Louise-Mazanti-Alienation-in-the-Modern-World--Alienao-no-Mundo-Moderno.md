@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
 id: e3
-image: https://i.ytimg.com/vi/6gJ_Y3eFaNc/hqdefault.jpg
+image: https://i.ytimg.com/vi/6gJ_Y3eFaNc/maxresdefault.jpg
 publishDate: 2019-02-04
 title: "#3 Louise Mazanti: Alienation in the Modern World | Aliena\xE7\xE3o no Mundo\
   \ Moderno"

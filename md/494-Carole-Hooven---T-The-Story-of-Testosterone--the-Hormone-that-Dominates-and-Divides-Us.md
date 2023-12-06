@@ -6,7 +6,7 @@ excerpt: 'Dr. Carole Hooven is Co-Director of Undergraduate Studies and Lecturer
   behavior and cognition). She is the author of T: The Story of Testosterone, the
   Hormone that Dominates and Divides Us.'
 id: e494
-image: https://i.ytimg.com/vi/ormlF1fhEMg/hqdefault.jpg
+image: https://i.ytimg.com/vi/ormlF1fhEMg/maxresdefault.jpg
 publishDate: 2021-07-12
 title: '#494 Carole Hooven - T: The Story of Testosterone, the Hormone that Dominates
   and Divides Us'

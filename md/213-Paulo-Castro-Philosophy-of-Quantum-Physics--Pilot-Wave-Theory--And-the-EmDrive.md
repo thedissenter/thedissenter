@@ -13,7 +13,7 @@ excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of L
   \ interested in both Artificial Intelligence and Environmental Philosophy, related\
   \ to Sustainability."
 id: e213
-image: https://i.ytimg.com/vi/EMK2GaA-jjU/hqdefault.jpg
+image: https://i.ytimg.com/vi/EMK2GaA-jjU/maxresdefault.jpg
 publishDate: 2019-08-08
 title: '#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And the
   EmDrive'

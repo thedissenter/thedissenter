@@ -5,7 +5,7 @@ excerpt: "Dr. Steven Hales is Professor and Chair of the Department of Philosoph
   \ and metaphysics. He\u2019s the author of books like Metaphysics, A Companion to\
   \ Relativism, Nietzsche\u2019s Perspectivism, and This Is Philosophy."
 id: e170
-image: https://i.ytimg.com/vi/eAQIk8odD2s/hqdefault.jpg
+image: https://i.ytimg.com/vi/eAQIk8odD2s/maxresdefault.jpg
 publishDate: 2019-04-29
 title: '#170 Steven Hales: Philosophy of Luck, Relativism and Perspectivism, And Evolutionary
   Psychology'

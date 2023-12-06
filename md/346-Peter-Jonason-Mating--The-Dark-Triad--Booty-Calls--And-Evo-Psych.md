@@ -5,7 +5,7 @@ excerpt: Dr. Peter Jonason is Associate Professor of Psychology at the Universit
   theory to derive predictions and account for observable phenomena in (mostly) personality,
   individual differences, mating strategies, and sexuality.
 id: e346
-image: https://i.ytimg.com/vi/Ql6wy4FUD_s/hqdefault.jpg
+image: https://i.ytimg.com/vi/Ql6wy4FUD_s/maxresdefault.jpg
 publishDate: 2020-06-29
 title: '#346 Peter Jonason: Mating, The Dark Triad, Booty Calls, And Evo Psych'
 youtubeid: Ql6wy4FUD_s

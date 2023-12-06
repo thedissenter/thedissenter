@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e7
-image: https://i.ytimg.com/vi/m6CBqTS2vxU/hqdefault.jpg
+image: https://i.ytimg.com/vi/m6CBqTS2vxU/maxresdefault.jpg
 publishDate: 2019-02-13
 title: '#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto
   Venus'

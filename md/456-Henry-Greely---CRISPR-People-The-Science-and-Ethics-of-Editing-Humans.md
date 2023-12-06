@@ -13,7 +13,7 @@ excerpt: "Dr. Henry Greely is currently the Deane F. and Kate Edelman Johnson Pr
   \ End of Sex and the Future of Human Reproduction, and more recently, CRISPR People:\
   \ The Science and Ethics of Editing Humans."
 id: e456
-image: https://i.ytimg.com/vi/MktWrmdJvf0/hqdefault.jpg
+image: https://i.ytimg.com/vi/MktWrmdJvf0/maxresdefault.jpg
 publishDate: 2021-04-15
 title: '#456 Henry Greely - CRISPR People: The Science and Ethics of Editing Humans'
 youtubeid: MktWrmdJvf0

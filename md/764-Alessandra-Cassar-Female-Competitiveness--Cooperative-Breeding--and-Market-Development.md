@@ -6,7 +6,7 @@ excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of 
   the consequences of conflict and disaster victimization for altruism, trust, religiosity,
   risk, and time preferences; and the role of social networks for economic outcomes.
 id: e764
-image: https://i.ytimg.com/vi/IS74XZmBymk/hqdefault.jpg
+image: https://i.ytimg.com/vi/IS74XZmBymk/maxresdefault.jpg
 publishDate: 2023-04-03
 title: '#764 Alessandra Cassar: Female Competitiveness, Cooperative Breeding, and
   Market Development'

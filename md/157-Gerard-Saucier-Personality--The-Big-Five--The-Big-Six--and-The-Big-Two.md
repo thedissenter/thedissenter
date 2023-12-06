@@ -9,7 +9,7 @@ excerpt: "Dr. Gerard Saucier is a Professor of Psychology at the University of O
   \ and a broader, more universal 'Big Two') and beliefs and values (e.g., dimensions\
   \ of \u2018isms\u2019)."
 id: e157
-image: https://i.ytimg.com/vi/2056IkaUTJ0/hqdefault.jpg
+image: https://i.ytimg.com/vi/2056IkaUTJ0/maxresdefault.jpg
 publishDate: 2019-03-29
 title: '#157 Gerard Saucier: Personality, The Big Five, The Big Six, and The Big Two'
 youtubeid: 2056IkaUTJ0

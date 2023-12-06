@@ -6,7 +6,7 @@ excerpt: 'Dr. Ralph Hertwig is Director of the Center for Adaptive Rationality a
   the psychology of risk; lifespan development of decision making; and evidence-based
   public policy. He is the editor of Deliberate Ignorance: Choosing Not to Know.'
 id: e539
-image: https://i.ytimg.com/vi/88g4RhjMm6E/hqdefault.jpg
+image: https://i.ytimg.com/vi/88g4RhjMm6E/maxresdefault.jpg
 publishDate: 2021-10-25
 title: '#539 Ralph Hertwig - Deliberate Ignorance: Choosing Not to Know'
 youtubeid: 88g4RhjMm6E

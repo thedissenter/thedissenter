@@ -12,7 +12,7 @@ excerpt: "Dr. Michael Tomasello is an American developmental and comparative psy
   \ Human Cognition (1999), A Natural History of Human Thinking (2014), A Natural\
   \ History of Human Morality (2016), and Becoming Human: A Theory of Ontogeny (2019)."
 id: e422
-image: https://i.ytimg.com/vi/yt9eS0pCsgo/hqdefault.jpg
+image: https://i.ytimg.com/vi/yt9eS0pCsgo/maxresdefault.jpg
 publishDate: 2021-01-25
 title: '#422 Michael Tomasello: Interdependence, Shared Intentionality, Culture, and
   Morality'

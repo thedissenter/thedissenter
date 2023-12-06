@@ -12,7 +12,7 @@ excerpt: Dr. Joseph A. Bulbulia is a Professor in the School of Humanities, Facu
   to investigate the evolutionary dynamics of religion. In 2016, Dr. Bulbulia won
   a Research Excellence Award at Victoria University.
 id: e180
-image: https://i.ytimg.com/vi/Wy0baOach30/hqdefault.jpg
+image: https://i.ytimg.com/vi/Wy0baOach30/maxresdefault.jpg
 publishDate: 2019-05-23
 title: '#180 Joseph Bulbulia: Religion, Cognition, Ritual, Morality, And Meaning'
 youtubeid: Wy0baOach30

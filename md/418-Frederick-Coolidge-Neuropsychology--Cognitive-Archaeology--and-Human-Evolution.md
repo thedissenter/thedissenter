@@ -14,7 +14,7 @@ excerpt: "Dr. Frederick Coolidge is Professor of Psychology and Co-Director of U
   \ dreams. He\u2019s the coeditor of Squeezing Minds From Stones: Cognitive Archaeology\
   \ and the Evolution of the Human Mind."
 id: e418
-image: https://i.ytimg.com/vi/f0wM58nAjiY/hqdefault.jpg
+image: https://i.ytimg.com/vi/f0wM58nAjiY/maxresdefault.jpg
 publishDate: 2021-01-15
 title: '#418 Frederick Coolidge: Neuropsychology, Cognitive Archaeology, and Human
   Evolution'

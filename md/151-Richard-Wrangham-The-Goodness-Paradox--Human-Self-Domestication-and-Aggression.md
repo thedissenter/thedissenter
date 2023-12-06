@@ -11,7 +11,7 @@ excerpt: 'Dr. Richard Wrangham is Ruth B. Moore Professor of Biological Anthropo
   published the book The Goodness Paradox: The Strange Relationship Between Virtue
   and Violence in Human Evolution (2019).'
 id: e151
-image: https://i.ytimg.com/vi/w6GPDed9U1M/hqdefault.jpg
+image: https://i.ytimg.com/vi/w6GPDed9U1M/maxresdefault.jpg
 publishDate: 2019-03-15
 title: '#151 Richard Wrangham: The Goodness Paradox, Human Self-Domestication and
   Aggression'

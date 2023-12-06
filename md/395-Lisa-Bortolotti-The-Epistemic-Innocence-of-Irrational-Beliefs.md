@@ -12,7 +12,7 @@ excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Bir
   and agency interact. She is the author of The Epistemic Innocence of Irrational
   Beliefs.
 id: e395
-image: https://i.ytimg.com/vi/v13m30R_xbY/hqdefault.jpg
+image: https://i.ytimg.com/vi/v13m30R_xbY/maxresdefault.jpg
 publishDate: 2020-11-23
 title: '#395 Lisa Bortolotti: The Epistemic Innocence of Irrational Beliefs'
 youtubeid: v13m30R_xbY

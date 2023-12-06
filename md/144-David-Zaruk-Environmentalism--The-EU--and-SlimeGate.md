@@ -8,7 +8,7 @@ excerpt: Dr. David Zaruk is the Risk-Monger. He has been an EU risk and science 
   at Odisee University College where he lectures on Communications, Marketing, EU
   Lobbying and PR.
 id: e144
-image: https://i.ytimg.com/vi/b3-XYarHmc4/hqdefault.jpg
+image: https://i.ytimg.com/vi/b3-XYarHmc4/maxresdefault.jpg
 publishDate: 2019-02-28
 title: '#144 David Zaruk: Environmentalism, The EU, and SlimeGate'
 youtubeid: b3-XYarHmc4

@@ -11,7 +11,7 @@ excerpt: "Dr. Jeremy DeSilva is an Associate Professor of Anthropology at Dartmo
   \ He is the author of A Most Interesting Problem: What Darwin\u2019s Descent of\
   \ Man Got Right and Wrong about Human Evolution."
 id: e530
-image: https://i.ytimg.com/vi/rIugU8Oj0Kw/hqdefault.jpg
+image: https://i.ytimg.com/vi/rIugU8Oj0Kw/maxresdefault.jpg
 publishDate: 2021-10-04
 title: "#530 Jeremy DeSilva - A Most Interesting Problem; Darwin\u2019s Descent of\
   \ Man (150th anniversary)"

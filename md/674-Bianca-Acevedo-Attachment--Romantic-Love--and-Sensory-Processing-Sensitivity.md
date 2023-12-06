@@ -11,7 +11,7 @@ excerpt: Dr. Bianca Acevedo is an Instructor at New York University. She is a so
   and behavioral outcomes associated with engaging in mind-body practices in clinical
   and normative individuals and dyads.
 id: e674
-image: https://i.ytimg.com/vi/0ohyYxbcGEo/hqdefault.jpg
+image: https://i.ytimg.com/vi/0ohyYxbcGEo/maxresdefault.jpg
 publishDate: 2022-09-05
 title: '#674 Bianca Acevedo: Attachment, Romantic Love, and Sensory Processing Sensitivity'
 youtubeid: 0ohyYxbcGEo

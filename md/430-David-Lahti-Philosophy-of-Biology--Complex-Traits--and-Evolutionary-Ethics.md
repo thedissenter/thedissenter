@@ -5,7 +5,7 @@ excerpt: Dr. David C. Lahti is an Associate Professor of Biology at Queens Colle
   work focuses on evolutionary and behavioral ecology, especially the evolution of
   complex and learned traits in birds and humans.
 id: e430
-image: https://i.ytimg.com/vi/A169YpFWj6o/hqdefault.jpg
+image: https://i.ytimg.com/vi/A169YpFWj6o/maxresdefault.jpg
 publishDate: 2021-02-12
 title: '#430 David Lahti: Philosophy of Biology, Complex Traits, and Evolutionary
   Ethics'

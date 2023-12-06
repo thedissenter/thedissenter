@@ -9,7 +9,7 @@ excerpt: Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Depa
   real couples to compare and explore candidate algorithms for how people select their
   mating strategies, evaluate potential mates, and regulate their relationships.
 id: e245
-image: https://i.ytimg.com/vi/kt7-p53tcdM/hqdefault.jpg
+image: https://i.ytimg.com/vi/kt7-p53tcdM/maxresdefault.jpg
 publishDate: 2019-10-21
 title: '#245 Daniel Conroy-Beam: The Evolutionary Psychology of Mating'
 youtubeid: kt7-p53tcdM

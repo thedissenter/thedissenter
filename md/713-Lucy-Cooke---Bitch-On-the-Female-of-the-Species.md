@@ -5,7 +5,7 @@ excerpt: 'Lucy Cooke is a New York Times best-selling author, award-winning docu
   in Zoology from the University of Oxford. Her latest book is Bitch: On the Female
   of the Species.'
 id: e713
-image: https://i.ytimg.com/vi/22ESV-DLCFM/hqdefault.jpg
+image: https://i.ytimg.com/vi/22ESV-DLCFM/maxresdefault.jpg
 publishDate: 2022-12-05
 title: '#713 Lucy Cooke - Bitch: On the Female of the Species'
 youtubeid: 22ESV-DLCFM

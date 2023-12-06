@@ -8,7 +8,7 @@ excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan S
   such as the evolution of altruism, complexity, and intelligence. He is the author
   of books like An Instinct for Truth: Curiosity and the Moral Character of Science.'
 id: e629
-image: https://i.ytimg.com/vi/P9I3S4wVZ44/hqdefault.jpg
+image: https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg
 publishDate: 2022-05-23
 title: '#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character
   of Science'

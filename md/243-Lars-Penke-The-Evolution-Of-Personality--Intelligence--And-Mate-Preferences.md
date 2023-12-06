@@ -8,7 +8,7 @@ excerpt: "Dr. Lars Penke is Full Professor of Biological Personality Psychology 
   \ indicators of intelligence and cognitive ageing, behavior genetics, and life history\
   \ theory."
 id: e243
-image: https://i.ytimg.com/vi/2Icgg1UrLLo/hqdefault.jpg
+image: https://i.ytimg.com/vi/2Icgg1UrLLo/maxresdefault.jpg
 publishDate: 2019-10-17
 title: '#243 Lars Penke: The Evolution Of Personality, Intelligence, And Mate Preferences'
 youtubeid: 2Icgg1UrLLo

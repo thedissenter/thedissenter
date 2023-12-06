@@ -14,7 +14,7 @@ excerpt: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the Londo
   \ including the Martin Luther King Memorial Prize, the British Psychological Society\u2019\
   s book award, the Pufendorf Medal, and the International Mind and Brain Prize."
 id: e242
-image: https://i.ytimg.com/vi/O3y1NWGTEDI/hqdefault.jpg
+image: https://i.ytimg.com/vi/O3y1NWGTEDI/maxresdefault.jpg
 publishDate: 2019-10-14
 title: '#242 Nicholas Humphrey: The Psychology Of Consciousness And Intelligence'
 youtubeid: O3y1NWGTEDI

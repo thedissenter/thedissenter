@@ -5,7 +5,7 @@ excerpt: 'Dr. Susan Fiske is Eugene Higgins Professor of Psychology and Public A
   and discrimination are encouraged or discouraged by social relationships, such as
   cooperation, competition, and power. '
 id: e595
-image: https://i.ytimg.com/vi/ZpCxWDSrsDU/hqdefault.jpg
+image: https://i.ytimg.com/vi/ZpCxWDSrsDU/maxresdefault.jpg
 publishDate: 2022-03-04
 title: '#595 Susan Fiske: Social Categorization, Stereotypes, Prejudice, and Discrimination'
 youtubeid: ZpCxWDSrsDU

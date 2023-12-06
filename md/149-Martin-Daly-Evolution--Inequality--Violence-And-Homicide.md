@@ -11,7 +11,7 @@ excerpt: "Dr. Martin Daly is Professor Emeritus in the Department of Psychology,
   \ Truth about Cinderella (1998). Dr. Daly\u2019s latest book (July, 2016) is entitled\
   \ Killing the Competition: Economic Inequality and Homicide. "
 id: e149
-image: https://i.ytimg.com/vi/lGq7wB46X78/hqdefault.jpg
+image: https://i.ytimg.com/vi/lGq7wB46X78/maxresdefault.jpg
 publishDate: 2019-03-11
 title: '#149 Martin Daly: Evolution, Inequality, Violence And Homicide'
 youtubeid: lGq7wB46X78

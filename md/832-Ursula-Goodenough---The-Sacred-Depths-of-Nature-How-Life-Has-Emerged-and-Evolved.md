@@ -7,7 +7,7 @@ excerpt: 'Dr. Ursula Goodenough is a Professor of Biology Emerita at Washington 
   Association. She is the author of The Sacred Depths of Nature: How Life Has Emerged
   and Evolved.'
 id: e832
-image: https://i.ytimg.com/vi/AYlofmSoHHE/hqdefault.jpg
+image: https://i.ytimg.com/vi/AYlofmSoHHE/maxresdefault.jpg
 publishDate: 2023-09-08
 title: '#832 Ursula Goodenough - The Sacred Depths of Nature: How Life Has Emerged
   and Evolved'

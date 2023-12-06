@@ -5,7 +5,7 @@ excerpt: Dr. Christopher Krupenye is an assistant professor in the Department of
   cognitive abilities of humans and other species, especially those involved in navigating
   the social world.
 id: e688
-image: https://i.ytimg.com/vi/z5l1AdaQmTA/hqdefault.jpg
+image: https://i.ytimg.com/vi/z5l1AdaQmTA/maxresdefault.jpg
 publishDate: 2022-10-07
 title: '#688 Christopher Krupenye: Primatology, Theory of Mind, False Beliefs, and
   Sharing Behavior'

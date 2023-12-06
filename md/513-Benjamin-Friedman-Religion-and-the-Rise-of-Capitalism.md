@@ -10,7 +10,7 @@ excerpt: "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Poli
   \ books have been The Moral Consequences of Economic Growth (Knopf) and Day of Reckoning:\
   \ The Consequences of American Economic Policy Under Reagan and After (Random House)."
 id: e513
-image: https://i.ytimg.com/vi/Lv12S05k1uw/hqdefault.jpg
+image: https://i.ytimg.com/vi/Lv12S05k1uw/maxresdefault.jpg
 publishDate: 2021-08-26
 title: '#513 Benjamin Friedman: Religion and the Rise of Capitalism'
 youtubeid: Lv12S05k1uw

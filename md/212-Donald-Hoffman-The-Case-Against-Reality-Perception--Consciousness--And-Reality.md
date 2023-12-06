@@ -10,7 +10,7 @@ excerpt: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Scien
   about to release a new book, The Case Against Reality: Why Evolution Hid the Truth
   from Our Eyes.'
 id: e212
-image: https://i.ytimg.com/vi/sD0HuGVZOvQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/sD0HuGVZOvQ/maxresdefault.jpg
 publishDate: 2019-08-05
 title: '#212 Donald Hoffman: The Case Against Reality; Perception, Consciousness,
   And Reality'

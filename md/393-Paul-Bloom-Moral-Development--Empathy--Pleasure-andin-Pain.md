@@ -8,7 +8,7 @@ excerpt: 'Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology
   We Like (2010), Just Babies: The Origins of Good and Evil (2013), and Against Empathy:
   The Case for Rational Compassion (2016).'
 id: e393
-image: https://i.ytimg.com/vi/iai9H0e2H2g/hqdefault.jpg
+image: https://i.ytimg.com/vi/iai9H0e2H2g/maxresdefault.jpg
 publishDate: 2020-11-19
 title: '#393 Paul Bloom: Moral Development, Empathy, Pleasure and/in Pain'
 youtubeid: iai9H0e2H2g

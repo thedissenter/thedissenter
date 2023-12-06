@@ -12,7 +12,7 @@ excerpt: 'Dr. Svetlana Rudenko is a concert pianist and educator bringing a new 
   School of Computer Science and Statistics, Trinity College Dublin, and is a graduate
   of Tchaikovsky National Music Academy of Ukraine, Kiev. '
 id: e633
-image: https://i.ytimg.com/vi/HR6E_HpjuIQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/HR6E_HpjuIQ/maxresdefault.jpg
 publishDate: 2022-06-02
 title: '#633 Svetlana Rudenko: Music Perception and Cognition, Consciousness, and
   Synaesthesia'

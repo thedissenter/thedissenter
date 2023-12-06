@@ -6,7 +6,7 @@ excerpt: 'Dr. Brian Boyd is a University Distinguished Professor in the Departme
   evolution. He is the author of On the Origin of Stories: Evolution, Cognition, and
   Fiction. '
 id: e593
-image: https://i.ytimg.com/vi/mCKCzrPG9jU/hqdefault.jpg
+image: https://i.ytimg.com/vi/mCKCzrPG9jU/maxresdefault.jpg
 publishDate: 2022-02-28
 title: '#593 Brian Boyd - On the Origin of Stories: Evolution, Cognition, and Fiction'
 youtubeid: mCKCzrPG9jU

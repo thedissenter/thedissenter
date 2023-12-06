@@ -2,7 +2,7 @@
 draft: false
 excerpt: ''
 id: e427
-image: https://i.ytimg.com/vi/HYvy1XIF8sA/hqdefault.jpg
+image: https://i.ytimg.com/vi/HYvy1XIF8sA/maxresdefault.jpg
 publishDate: 2021-02-05
 title: '#427 Arthur Glenberg: Embodied Cognition, Simulation, Mirror Neurons, and
   Education'

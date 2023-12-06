@@ -7,7 +7,7 @@ excerpt: 'Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer
   the quality of decisions. He is the author of Cracked It!, You''re About to Make
   a Terrible Mistake, and, more recently, Noise: A Flaw in Human Judgment.'
 id: e470
-image: https://i.ytimg.com/vi/FdP0_QwI3JA/hqdefault.jpg
+image: https://i.ytimg.com/vi/FdP0_QwI3JA/maxresdefault.jpg
 publishDate: 2021-05-17
 title: '#470 Olivier Sibony - Noise: A Flaw in Human Judgment'
 youtubeid: FdP0_QwI3JA

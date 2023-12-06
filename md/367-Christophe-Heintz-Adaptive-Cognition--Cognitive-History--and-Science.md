@@ -8,7 +8,7 @@ excerpt: Dr. Christophe Heintz is Associate Professor at the Central European Un
   from both environmental/contextual and psychological causal factors, with a focus
   on evolved cognition.
 id: e367
-image: https://i.ytimg.com/vi/1Ya7N0zlrnM/hqdefault.jpg
+image: https://i.ytimg.com/vi/1Ya7N0zlrnM/maxresdefault.jpg
 publishDate: 2020-09-18
 title: '#367 Christophe Heintz: Adaptive Cognition, Cognitive History, and Science'
 youtubeid: 1Ya7N0zlrnM

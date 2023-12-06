@@ -8,7 +8,7 @@ excerpt: 'Dr. Victor Kumar is Assistant Professor of Philosophy at Boston Univer
   (with Richmond Campbell) of A Better Ape: The Evolution of the Moral Mind and How
   it Made us Human.'
 id: e671
-image: https://i.ytimg.com/vi/dOlWZQjZ0XU/hqdefault.jpg
+image: https://i.ytimg.com/vi/dOlWZQjZ0XU/maxresdefault.jpg
 publishDate: 2022-08-29
 title: '#671 Victor Kumar - A Better Ape: The Evolution of the Moral Mind and How
   it Made us Human'

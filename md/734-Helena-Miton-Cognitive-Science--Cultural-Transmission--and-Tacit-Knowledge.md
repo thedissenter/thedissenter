@@ -10,7 +10,7 @@ excerpt: "Dr. Helena Miton is Complexity Postdoctoral Fellow at the Santa Fe Ins
   \ interactions can impact cultural productions at larger scales, in the context\
   \ of both technical knowledge and economic practices."
 id: e734
-image: https://i.ytimg.com/vi/l9uE63jYVZE/hqdefault.jpg
+image: https://i.ytimg.com/vi/l9uE63jYVZE/maxresdefault.jpg
 publishDate: 2023-01-23
 title: '#734 Helena Miton: Cognitive Science, Cultural Transmission, and Tacit Knowledge'
 youtubeid: l9uE63jYVZE

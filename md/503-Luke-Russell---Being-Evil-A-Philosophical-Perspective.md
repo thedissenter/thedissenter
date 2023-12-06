@@ -6,7 +6,7 @@ excerpt: 'Dr. Luke Russell is Associate Professor in the Department of Philosoph
   and critical thinking, as well as running the University''s high school philosophy
   course, Mind and Morality. His new book is Being Evil: A Philosophical Perspective.'
 id: e503
-image: https://i.ytimg.com/vi/IESu4qmyBmQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/IESu4qmyBmQ/maxresdefault.jpg
 publishDate: 2021-08-02
 title: '#503 Luke Russell - Being Evil: A Philosophical Perspective'
 youtubeid: IESu4qmyBmQ

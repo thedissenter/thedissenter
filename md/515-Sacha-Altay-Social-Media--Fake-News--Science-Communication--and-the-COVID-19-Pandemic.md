@@ -6,7 +6,7 @@ excerpt: "Sacha Altay is doing his PhD in cognitive science at the Institut Jean
   \ in communication and the cognitive mechanisms underlying information transmission\
   \ and evaluation."
 id: e515
-image: https://i.ytimg.com/vi/P9HBMMLzqKc/hqdefault.jpg
+image: https://i.ytimg.com/vi/P9HBMMLzqKc/maxresdefault.jpg
 publishDate: 2021-08-30
 title: '#515 Sacha Altay: Social Media, Fake News, Science Communication, and the
   COVID-19 Pandemic'

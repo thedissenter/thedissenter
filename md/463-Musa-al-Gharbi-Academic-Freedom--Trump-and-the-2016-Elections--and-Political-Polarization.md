@@ -10,7 +10,7 @@ excerpt: "Dr. Musa al-Gharbi is a Paul F. Lazarsfeld Fellow in the Department of
   \ policing, national security, foreign policy \u2014 and more recently \u2014 U.S.\
   \ political elections."
 id: e463
-image: https://i.ytimg.com/vi/3_Bo9GTaJKM/hqdefault.jpg
+image: https://i.ytimg.com/vi/3_Bo9GTaJKM/maxresdefault.jpg
 publishDate: 2021-04-30
 title: '#463 Musa al-Gharbi: Academic Freedom, Trump and the 2016 Elections, and Political
   Polarization'

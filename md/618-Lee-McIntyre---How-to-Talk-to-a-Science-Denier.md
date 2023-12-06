@@ -7,7 +7,7 @@ excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and
   His new book is How to Talk to a Science Denier: Conversations with Flat Earthers,
   Climate Deniers, and Others Who Defy Reason.'
 id: e618
-image: https://i.ytimg.com/vi/paQWuuFKAS0/hqdefault.jpg
+image: https://i.ytimg.com/vi/paQWuuFKAS0/maxresdefault.jpg
 publishDate: 2022-04-28
 title: '#618 Lee McIntyre - How to Talk to a Science Denier'
 youtubeid: paQWuuFKAS0

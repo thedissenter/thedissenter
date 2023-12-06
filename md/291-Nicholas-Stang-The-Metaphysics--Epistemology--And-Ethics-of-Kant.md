@@ -11,7 +11,7 @@ excerpt: "Dr. Nicholas Stang is Associate Professor in the Philosophy Department
   \ interests include: Jewish philosophy, early analytic philosophy, philosophy of\
   \ mathematics, and critical theory."
 id: e291
-image: https://i.ytimg.com/vi/5F5mUeq2M_E/hqdefault.jpg
+image: https://i.ytimg.com/vi/5F5mUeq2M_E/maxresdefault.jpg
 publishDate: 2020-02-06
 title: '#291 Nicholas Stang: The Metaphysics, Epistemology, And Ethics of Kant'
 youtubeid: 5F5mUeq2M_E

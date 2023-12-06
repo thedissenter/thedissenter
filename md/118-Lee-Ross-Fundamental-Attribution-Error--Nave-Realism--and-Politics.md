@@ -11,7 +11,7 @@ excerpt: "Dr. Lee Ross is a Professor of Psychology at Stanford University and c
   \ fundamental attribution error, the false consensus effect, reactive devaluation,\
   \ the hostile media phenomenon, and the convictions of na\xEFve realism.   "
 id: e118
-image: https://i.ytimg.com/vi/T_QiI4EqutQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/T_QiI4EqutQ/maxresdefault.jpg
 publishDate: 2019-07-17
 title: "#118 Lee Ross: Fundamental Attribution Error, Na\xEFve Realism, and Politics"
 youtubeid: T_QiI4EqutQ

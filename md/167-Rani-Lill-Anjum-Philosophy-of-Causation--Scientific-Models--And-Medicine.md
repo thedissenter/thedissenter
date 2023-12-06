@@ -17,7 +17,7 @@ excerpt: "Dr. Rani Lill Anjum is Research Fellow in Philosophy at the Norwegian 
   \ Discovery (2018), and What Tends to Be: The Philosophy of Dispositional Modality\
   \ (2018)."
 id: e167
-image: https://i.ytimg.com/vi/WbIlXwY-Bac/hqdefault.jpg
+image: https://i.ytimg.com/vi/WbIlXwY-Bac/maxresdefault.jpg
 publishDate: 2019-04-22
 title: '#167 Rani Lill Anjum: Philosophy of Causation, Scientific Models, And Medicine'
 youtubeid: WbIlXwY-Bac

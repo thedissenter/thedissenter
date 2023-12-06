@@ -5,7 +5,7 @@ excerpt: Dr. Richard Ronay is Associate Professor of Leadership and Management a
   status; social hierarchy; leadership; inequality; overconfidence; social intelligence;
   decision making; evolutionary psychology; and social neuroendocrinology.
 id: e297
-image: https://i.ytimg.com/vi/-bQQp6ylrkE/hqdefault.jpg
+image: https://i.ytimg.com/vi/-bQQp6ylrkE/maxresdefault.jpg
 publishDate: 2020-02-20
 title: '#297 Richard Ronay: Evolution, Hierarchy, And Leadership'
 youtubeid: -bQQp6ylrkE

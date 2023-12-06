@@ -8,7 +8,7 @@ excerpt: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanf
   Talks Back: Understanding the American Evangelical Relationship with God, and the
   most recent one, How God Becomes Real: Kindling the Presence of Invisible Others.'
 id: e627
-image: https://i.ytimg.com/vi/vyE0hrx0mZ8/hqdefault.jpg
+image: https://i.ytimg.com/vi/vyE0hrx0mZ8/maxresdefault.jpg
 publishDate: 2022-05-19
 title: '#627 Tanya Luhrmann - How God Becomes Real: Kindling the Presence of Invisible
   Others'

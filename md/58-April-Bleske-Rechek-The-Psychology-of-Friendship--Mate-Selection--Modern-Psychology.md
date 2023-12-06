@@ -4,7 +4,7 @@ excerpt: 'Dr. April Bleske-Rechek is a Professor of Psychology at the University
   Wisconsin-Eau Claire. As a researcher, she focuses on human mating, friendship,
   cognitive abilities and intellectual giftedness, and science literacy.  '
 id: e58
-image: https://i.ytimg.com/vi/GMC-O4jBFdo/hqdefault.jpg
+image: https://i.ytimg.com/vi/GMC-O4jBFdo/maxresdefault.jpg
 publishDate: 2019-04-24
 title: '#58 April Bleske-Rechek: The Psychology of Friendship, Mate Selection, Modern
   Psychology'

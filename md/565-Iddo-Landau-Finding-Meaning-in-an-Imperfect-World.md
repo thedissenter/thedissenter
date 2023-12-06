@@ -4,7 +4,7 @@ excerpt: Dr. Iddo Landau is a Professor of Philosophy at the University of Haifa
   He has written extensively on the meaning of life. He is the author of Finding Meaning
   in an Imperfect World.
 id: e565
-image: https://i.ytimg.com/vi/JNrY9fRHghA/hqdefault.jpg
+image: https://i.ytimg.com/vi/JNrY9fRHghA/maxresdefault.jpg
 publishDate: 2021-12-24
 title: '#565 Iddo Landau: Finding Meaning in an Imperfect World'
 youtubeid: JNrY9fRHghA

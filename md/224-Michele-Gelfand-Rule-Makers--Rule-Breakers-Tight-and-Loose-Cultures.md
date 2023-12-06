@@ -9,7 +9,7 @@ excerpt: 'Dr. Michele Gelfand is a Distinguished University Professor at the Uni
   She is the author of Rule Makers, Rule Breakers: How Tight and Loose Cultures Wire
   the World (Scribner, 2018).'
 id: e224
-image: https://i.ytimg.com/vi/oLC3KhYDsLg/hqdefault.jpg
+image: https://i.ytimg.com/vi/oLC3KhYDsLg/maxresdefault.jpg
 publishDate: 2019-09-02
 title: '#224 Michele Gelfand: Rule Makers, Rule Breakers; Tight and Loose Cultures'
 youtubeid: oLC3KhYDsLg

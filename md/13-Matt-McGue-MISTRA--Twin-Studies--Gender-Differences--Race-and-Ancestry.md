@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e13
-image: https://i.ytimg.com/vi/Wl_w9DJ1R88/hqdefault.jpg
+image: https://i.ytimg.com/vi/Wl_w9DJ1R88/maxresdefault.jpg
 publishDate: 2019-02-20
 title: '#13 Matt McGue: MISTRA, Twin Studies, Gender Differences, Race and Ancestry'
 youtubeid: Wl_w9DJ1R88

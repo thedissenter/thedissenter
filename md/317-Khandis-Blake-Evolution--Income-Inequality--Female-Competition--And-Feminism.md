@@ -13,7 +13,7 @@ excerpt: 'Dr. Khandis Blake is an evolutionary social psychologist at The Univer
   in the social contexts eliciting aggression, especially male-to-female aggression
   and intimate partner violence.  '
 id: e317
-image: https://i.ytimg.com/vi/oBgxABXTJMw/hqdefault.jpg
+image: https://i.ytimg.com/vi/oBgxABXTJMw/maxresdefault.jpg
 publishDate: 2020-04-06
 title: '#317 Khandis Blake: Evolution, Income Inequality, Female Competition, And
   Feminism'

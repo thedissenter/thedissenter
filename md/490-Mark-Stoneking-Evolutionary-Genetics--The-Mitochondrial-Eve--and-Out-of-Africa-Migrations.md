@@ -11,7 +11,7 @@ excerpt: "Dr. Mark Stoneking directs the Human Population History Group in the D
   \ Eve, a hypothetical common mother of all living humans based on mitochondrial\
   \ DNA."
 id: e490
-image: https://i.ytimg.com/vi/wlpFN3C1OPQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/wlpFN3C1OPQ/maxresdefault.jpg
 publishDate: 2021-07-02
 title: '#490 Mark Stoneking: Evolutionary Genetics, The Mitochondrial Eve, and Out
   of Africa Migrations'

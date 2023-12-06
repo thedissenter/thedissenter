@@ -5,7 +5,7 @@ excerpt: "Dr. Jeff McMahan is White\u2019s Professor of Moral Philosophy at the 
   \ He\u2019s the author of books like The Morality of Nationalism, The Ethics of\
   \ Killing: Problems at the Margins of Life, and Killing in War."
 id: e319
-image: https://i.ytimg.com/vi/cNYQVJoF7JM/hqdefault.jpg
+image: https://i.ytimg.com/vi/cNYQVJoF7JM/maxresdefault.jpg
 publishDate: 2020-04-10
 title: '#319 Jeff McMahan: The Ethics of Killing; Abortion, Euthanasia, Suicide'
 youtubeid: cNYQVJoF7JM

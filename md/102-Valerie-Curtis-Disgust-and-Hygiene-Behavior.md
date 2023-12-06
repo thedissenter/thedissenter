@@ -7,7 +7,7 @@ excerpt: "Dr. Valerie Curtis is Director of the Environmental Health Group, a mu
   \ author of the book Don\u2019t Look, Don\u2019t Touch, Don\u2019t Eat: The Science\
   \ Behind Revulsion. "
 id: e102
-image: https://i.ytimg.com/vi/PiYDxOY9Pp8/hqdefault.jpg
+image: https://i.ytimg.com/vi/PiYDxOY9Pp8/maxresdefault.jpg
 publishDate: 2019-06-22
 title: '#102 Valerie Curtis: Disgust and Hygiene Behavior'
 youtubeid: PiYDxOY9Pp8

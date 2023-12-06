@@ -8,7 +8,7 @@ excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas
   \ book is When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment,\
   \ and Assault."
 id: e510
-image: https://i.ytimg.com/vi/MoOYQ-T1i1o/hqdefault.jpg
+image: https://i.ytimg.com/vi/MoOYQ-T1i1o/maxresdefault.jpg
 publishDate: 2021-08-19
 title: '#510 David Buss - When Men Behave Badly; Sexual Deception, Harassment, and
   Assault (Part 2)'

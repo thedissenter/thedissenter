@@ -7,7 +7,7 @@ excerpt: Dr. Sander van der Linden is Professor of Social Psychology in the Depa
   attitudes and polarization, reasoning about evidence, and the public understanding
   of risk and uncertainty.
 id: e512
-image: https://i.ytimg.com/vi/gVwmPMM0N1Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/gVwmPMM0N1Q/maxresdefault.jpg
 publishDate: 2021-08-23
 title: '#512 Sander van der Linden: Social Media, Fake News, COVID, and Science Communication'
 youtubeid: gVwmPMM0N1Q

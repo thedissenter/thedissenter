@@ -7,7 +7,7 @@ excerpt: "Dr. Alan Fiske is a Professor of Anthropology at the University of Cal
   \ Forms of Human Relations, and Virtuous Violence: Hurting and Killing to Create,\
   \ Sustain, End, and Honor Social Relationships.  "
 id: e121
-image: https://i.ytimg.com/vi/UUexvzgKAn4/hqdefault.jpg
+image: https://i.ytimg.com/vi/UUexvzgKAn4/maxresdefault.jpg
 publishDate: 2019-07-23
 title: '#121 Alan Fiske: The Four Relational Models, Virtuous Violence, and Morality'
 youtubeid: UUexvzgKAn4

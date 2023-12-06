@@ -8,7 +8,7 @@ excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University 
   to democracy and capitalism. His lastest book is Capitalism for Realists: Virtues
   and Vices of the Modern Economy (Routledge, 2022).'
 id: e740
-image: https://i.ytimg.com/vi/b5-tB-SrHyI/hqdefault.jpg
+image: https://i.ytimg.com/vi/b5-tB-SrHyI/maxresdefault.jpg
 publishDate: 2023-02-06
 title: '#740 Tibor Rutar - Capitalism for Realists: Virtues and Vices of the Modern
   Economy'

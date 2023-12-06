@@ -6,7 +6,7 @@ excerpt: "Dr. Massimo Pigliucci is Professor of Philosophy at CUNY-City College,
   \ including Phenotypic Plasticity, Philosophy of Pseudoscience, and How to Be a\
   \ Stoic."
 id: e71
-image: https://i.ytimg.com/vi/a9Fl63Ca9pE/hqdefault.jpg
+image: https://i.ytimg.com/vi/a9Fl63Ca9pE/maxresdefault.jpg
 publishDate: 2019-05-11
 title: '#71 Massimo Pigliucci: The Philosophy of Pseudoscience'
 youtubeid: a9Fl63Ca9pE

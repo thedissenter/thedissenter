@@ -8,7 +8,7 @@ excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who sp
   won the American Psychological Association''s William James Book Award. His latest
   book is The Uses of Delusion: Why It''s Not Always Rational to Be Rational.'
 id: e693
-image: https://i.ytimg.com/vi/c2T5hIn3w08/hqdefault.jpg
+image: https://i.ytimg.com/vi/c2T5hIn3w08/maxresdefault.jpg
 publishDate: 2022-10-20
 title: '#693 Stuart Vyse - The Uses of Delusion: Why It''s Not Always Rational to
   Be Rational'

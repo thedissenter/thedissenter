@@ -7,7 +7,7 @@ excerpt: 'Dr. Robert Cialdini is Professor Emeritus of Psychology at Arizona Sta
   of Persuasion, a New York Times No. 1 bestseller, now in its third edition with
   over 5 million copies sold worldwide, and in over 40 languages.'
 id: e714
-image: https://i.ytimg.com/vi/32pMWVf-eqQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/32pMWVf-eqQ/maxresdefault.jpg
 publishDate: 2022-12-08
 title: '#714 Robert Cialdini - Influence: The Psychology of Persuasion'
 youtubeid: 32pMWVf-eqQ

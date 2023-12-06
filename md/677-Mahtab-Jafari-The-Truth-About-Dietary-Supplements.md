@@ -9,7 +9,7 @@ excerpt: 'Dr. Mahtab Jafari is Professor of Pharmaceutical Sciences at the Schoo
   the author of The Truth About Dietary Supplements: An Evidence-Based Guide to a
   Safe Medicine Cabinet.'
 id: e677
-image: https://i.ytimg.com/vi/mcON7PI5DMM/hqdefault.jpg
+image: https://i.ytimg.com/vi/mcON7PI5DMM/maxresdefault.jpg
 publishDate: 2022-09-12
 title: '#677 Mahtab Jafari: The Truth About Dietary Supplements'
 youtubeid: mcON7PI5DMM

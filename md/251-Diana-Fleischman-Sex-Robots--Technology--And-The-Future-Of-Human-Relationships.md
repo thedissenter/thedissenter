@@ -7,7 +7,7 @@ excerpt: Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the 
   hormonal influences on behavior, human sexuality, disgust and, recently, the interface
   of evolutionary psychology and behaviorism.
 id: e251
-image: https://i.ytimg.com/vi/o8L6AjJg5OM/hqdefault.jpg
+image: https://i.ytimg.com/vi/o8L6AjJg5OM/maxresdefault.jpg
 publishDate: 2019-11-04
 title: '#251 Diana Fleischman: Sex Robots, Technology, And The Future Of Human Relationships'
 youtubeid: o8L6AjJg5OM

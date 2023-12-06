@@ -7,7 +7,7 @@ excerpt: "Dr. Sean Carroll is Balo-Simon Professor and Endowed Chair of Biology 
   \ at HHMI. He is the author of several books, including A Series of Fortunate Events:\
   \ Chance and the Making of the Planet, Life, and You."
 id: e602
-image: https://i.ytimg.com/vi/KmPXsue5PPs/hqdefault.jpg
+image: https://i.ytimg.com/vi/KmPXsue5PPs/maxresdefault.jpg
 publishDate: 2022-03-21
 title: '#602 Sean Carroll - A Series of Fortunate Events: Chance and the Making of
   the Planet, Life, and You'

@@ -7,7 +7,7 @@ excerpt: Dr. Kristin Andrews is York Research Chair in Animal Minds and Professo
   a member of the College of the Royal Society of Canada, and the author of several
   books on social minds, animal minds, and ethics.
 id: e293
-image: https://i.ytimg.com/vi/raIpbVTh-pg/hqdefault.jpg
+image: https://i.ytimg.com/vi/raIpbVTh-pg/maxresdefault.jpg
 publishDate: 2020-02-10
 title: '#293 Kristin Andrews: Animal Minds, Theory of Mind, And Animal Ethics'
 youtubeid: raIpbVTh-pg

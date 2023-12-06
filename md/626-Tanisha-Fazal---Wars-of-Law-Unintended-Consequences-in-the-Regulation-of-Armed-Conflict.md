@@ -7,7 +7,7 @@ excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the Universit
   \ and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended\
   \ Consequences in the Regulation of Armed Conflict."
 id: e626
-image: https://i.ytimg.com/vi/PiJ6q-Ro1yE/hqdefault.jpg
+image: https://i.ytimg.com/vi/PiJ6q-Ro1yE/maxresdefault.jpg
 publishDate: 2022-05-16
 title: '#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulation
   of Armed Conflict'

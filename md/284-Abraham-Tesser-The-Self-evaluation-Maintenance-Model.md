@@ -6,7 +6,7 @@ excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psyc
   maintenance model, a theory in social psychology that focuses on the motives for
   self-enhancement.
 id: e284
-image: https://i.ytimg.com/vi/7o-D5B_0QQk/hqdefault.jpg
+image: https://i.ytimg.com/vi/7o-D5B_0QQk/maxresdefault.jpg
 publishDate: 2020-01-20
 title: '#284 Abraham Tesser: The Self-evaluation Maintenance Model'
 youtubeid: 7o-D5B_0QQk

@@ -10,7 +10,7 @@ excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Ho
   \ platform that hosts some 70 million blogs worldwide, has singled out COLD as one\
   \ of the Top 50 Recommended Blogs by writers or about writing. "
 id: e408
-image: https://i.ytimg.com/vi/NHCGW3_Opc0/hqdefault.jpg
+image: https://i.ytimg.com/vi/NHCGW3_Opc0/maxresdefault.jpg
 publishDate: 2020-12-24
 title: '#408 Victoria Dougherty: Writing Fiction, Religion, Politics, Comedy, and
   Interesting Villains'

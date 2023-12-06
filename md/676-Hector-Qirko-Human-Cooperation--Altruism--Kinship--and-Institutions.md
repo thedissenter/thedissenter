@@ -4,7 +4,7 @@ excerpt: Dr. Hector Qirko is Professor of Anthropology at the College of Charles
   His research interests include applied anthropology, organizational and institutional
   cultures, evolutionary theory and cultural patterning, and popular culture and identity.
 id: e676
-image: https://i.ytimg.com/vi/bRrSXNirP0U/hqdefault.jpg
+image: https://i.ytimg.com/vi/bRrSXNirP0U/maxresdefault.jpg
 publishDate: 2022-09-09
 title: '#676 Hector Qirko: Human Cooperation, Altruism, Kinship, and Institutions'
 youtubeid: bRrSXNirP0U

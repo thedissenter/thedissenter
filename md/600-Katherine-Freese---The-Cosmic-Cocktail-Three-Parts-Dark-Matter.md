@@ -5,7 +5,7 @@ excerpt: 'Dr. Katherine Freese is a professor of physics at the University of Te
   is known for her work in theoretical cosmology at the interface of particle physics
   and astrophysics. She is the author of The Cosmic Cocktail: Three Parts Dark Matter.'
 id: e600
-image: https://i.ytimg.com/vi/sXs8eoXg-rM/hqdefault.jpg
+image: https://i.ytimg.com/vi/sXs8eoXg-rM/maxresdefault.jpg
 publishDate: 2022-03-17
 title: '#600 Katherine Freese - The Cosmic Cocktail: Three Parts Dark Matter'
 youtubeid: sXs8eoXg-rM

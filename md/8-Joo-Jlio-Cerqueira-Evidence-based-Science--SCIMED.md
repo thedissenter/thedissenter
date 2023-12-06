@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e8
-image: https://i.ytimg.com/vi/_3fTsI2wXJk/hqdefault.jpg
+image: https://i.ytimg.com/vi/_3fTsI2wXJk/maxresdefault.jpg
 publishDate: 2019-02-14
 title: "#8 Jo\xE3o J\xFAlio Cerqueira: Evidence-based Science | SCIMED"
 youtubeid: _3fTsI2wXJk

@@ -6,7 +6,7 @@ excerpt: Dr. Jeffrey Lees is Associate Research Scholar in the Behavioral Scienc
   studying the consequences of inaccurate beliefs for organizations, politics, and
   society.
 id: e801
-image: https://i.ytimg.com/vi/mIZ9mqcgE20/hqdefault.jpg
+image: https://i.ytimg.com/vi/mIZ9mqcgE20/maxresdefault.jpg
 publishDate: 2023-06-29
 title: '#801 Jeffrey Lees: Implicit Attitudes, Meta-Perceptions, Morality, and Political
   Polarization'

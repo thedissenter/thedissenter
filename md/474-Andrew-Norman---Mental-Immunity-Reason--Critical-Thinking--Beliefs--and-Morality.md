@@ -12,7 +12,7 @@ excerpt: "Dr. Andrew Norman teaches philosophy at Carnegie Mellon University. He
   \ Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to\
   \ Think."
 id: e474
-image: https://i.ytimg.com/vi/1zVl9nuYAjU/hqdefault.jpg
+image: https://i.ytimg.com/vi/1zVl9nuYAjU/maxresdefault.jpg
 publishDate: 2021-05-27
 title: '#474 Andrew Norman - Mental Immunity; Reason, Critical Thinking, Beliefs,
   and Morality'

@@ -10,7 +10,7 @@ excerpt: Dr. Eric Schniter is a Lecturer in Anthropology at California State Uni
   in how emotions calibrate personal and interpersonal behaviors, contributing to
   relationship maintenance and well-being.
 id: e702
-image: https://i.ytimg.com/vi/SLrAuXzT2H0/hqdefault.jpg
+image: https://i.ytimg.com/vi/SLrAuXzT2H0/maxresdefault.jpg
 publishDate: 2022-11-10
 title: '#702 Eric Schniter: Skill and Knowledge Acquisition, and Trust-Based Interactions'
 youtubeid: SLrAuXzT2H0

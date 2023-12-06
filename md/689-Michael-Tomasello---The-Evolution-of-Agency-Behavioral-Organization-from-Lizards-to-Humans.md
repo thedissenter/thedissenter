@@ -9,7 +9,7 @@ excerpt: "Dr. Michael Tomasello is Emeritus Director of the Max Planck Institute
   \ of Ontogeny (2019). His most recent book is The Evolution of Agency: Behavioral\
   \ Organization from Lizards to Humans."
 id: e689
-image: https://i.ytimg.com/vi/-SRiGcxwJzQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/-SRiGcxwJzQ/maxresdefault.jpg
 publishDate: 2022-10-10
 title: '#689 Michael Tomasello - The Evolution of Agency: Behavioral Organization
   from Lizards to Humans'

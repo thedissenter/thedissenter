@@ -11,7 +11,7 @@ excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlanti
   \ His new book is How Children Invented Humanity: The Role of Development in Human\
   \ Evolution."
 id: e484
-image: https://i.ytimg.com/vi/h7GwTi83LwE/hqdefault.jpg
+image: https://i.ytimg.com/vi/h7GwTi83LwE/maxresdefault.jpg
 publishDate: 2021-06-18
 title: '#484 David Bjorklund: How Children Invented Humanity: The Role of Development
   in Human Evolution'

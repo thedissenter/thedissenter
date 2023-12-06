@@ -9,7 +9,7 @@ excerpt: "Dr. Nancy Segal is Professor of Developmental Psychology and Director 
   \ Born Together-Reared Apart, and, the latest one, Accidental Brothers: The Story\
   \ of Twins Exchanged at Birth and the Power of Nature and Nurture."
 id: e50
-image: https://i.ytimg.com/vi/z5ULh9Bv73c/hqdefault.jpg
+image: https://i.ytimg.com/vi/z5ULh9Bv73c/maxresdefault.jpg
 publishDate: 2019-04-06
 title: '#50 Nancy Segal: Accidental Brothers, Twin Studies, Nature and Nurture, Epigenetics
   & More'

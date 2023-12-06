@@ -10,7 +10,7 @@ excerpt: "Dr. Martie Haselton is Professor in the Departments of Psychology and 
   \ -- How They Drive Desire, Shape Relationships, Influence Our Choices, and Make\
   \ Us Wiser."
 id: e370
-image: https://i.ytimg.com/vi/pektNG9J5MM/hqdefault.jpg
+image: https://i.ytimg.com/vi/pektNG9J5MM/maxresdefault.jpg
 publishDate: 2020-09-25
 title: '#370 Martie Haselton - Hormonal: The Hidden Intelligence of Hormones'
 youtubeid: pektNG9J5MM

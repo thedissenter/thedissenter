@@ -11,7 +11,7 @@ excerpt: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psy
   Childhood: The Unexpected Side Effects of Classrooms, Ballparks, Family Rooms, and
   the Minivan (Prometheus, 2011).'
 id: e465
-image: https://i.ytimg.com/vi/1jDvF7AC42I/hqdefault.jpg
+image: https://i.ytimg.com/vi/1jDvF7AC42I/maxresdefault.jpg
 publishDate: 2021-05-06
 title: '#465 Gabrielle Principe: Memory Development, False Memories, and Eyewitnesses'
 youtubeid: 1jDvF7AC42I

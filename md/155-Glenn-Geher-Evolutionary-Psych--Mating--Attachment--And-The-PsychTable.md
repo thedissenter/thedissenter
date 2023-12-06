@@ -12,7 +12,7 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
   \ his Psychology Today blog, Dr. Geher addresses various topics related to the human\
   \ condition."
 id: e155
-image: https://i.ytimg.com/vi/ZIEUPiueJik/hqdefault.jpg
+image: https://i.ytimg.com/vi/ZIEUPiueJik/maxresdefault.jpg
 publishDate: 2019-03-25
 title: '#155 Glenn Geher: Evolutionary Psych, Mating, Attachment, And The PsychTable'
 youtubeid: ZIEUPiueJik

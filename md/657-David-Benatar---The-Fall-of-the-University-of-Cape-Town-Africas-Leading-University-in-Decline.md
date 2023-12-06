@@ -8,7 +8,7 @@ excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape
   \ it is always morally wrong to create more sentient beings. His new book is The\
   \ Fall of the University of Cape Town: Africa\u2019s Leading University in Decline."
 id: e657
-image: https://i.ytimg.com/vi/R9KGLcsmRas/hqdefault.jpg
+image: https://i.ytimg.com/vi/R9KGLcsmRas/maxresdefault.jpg
 publishDate: 2022-07-28
 title: "#657 David Benatar - The Fall of the University of Cape Town: Africa\u2019\
   s Leading University in Decline"

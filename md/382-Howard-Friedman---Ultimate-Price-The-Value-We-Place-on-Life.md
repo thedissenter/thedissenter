@@ -14,7 +14,7 @@ excerpt: 'Dr. Howard Steven Friedman is a data scientist, health economist, writ
   Public Radio and the journal Science and is being translated into a number of foreign
   languages.'
 id: e382
-image: https://i.ytimg.com/vi/Nv9xaOCVJ8A/hqdefault.jpg
+image: https://i.ytimg.com/vi/Nv9xaOCVJ8A/maxresdefault.jpg
 publishDate: 2020-10-23
 title: '#382 Howard Friedman - Ultimate Price: The Value We Place on Life'
 youtubeid: Nv9xaOCVJ8A

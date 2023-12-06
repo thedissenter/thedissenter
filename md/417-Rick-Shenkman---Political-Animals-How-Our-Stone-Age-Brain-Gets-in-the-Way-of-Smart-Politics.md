@@ -11,7 +11,7 @@ excerpt: 'Rick Shenkman is the founder of George Washington University''s Histor
   He gives lectures at colleges around the country on several topics, including American
   myths and presidential politics.'
 id: e417
-image: https://i.ytimg.com/vi/g0urXgQq3Lc/hqdefault.jpg
+image: https://i.ytimg.com/vi/g0urXgQq3Lc/maxresdefault.jpg
 publishDate: 2021-01-14
 title: '#417 Rick Shenkman - Political Animals: How Our Stone-Age Brain Gets in the
   Way of Smart Politics'

@@ -7,7 +7,7 @@ excerpt: Dr. Simon Garnier is an Associate Professor of Biology at the New Jerse
   to reveal the detailed functioning of collective intelligence in systems as diverse
   as ant colonies, human crowds or robotic swarms.
 id: e634
-image: https://i.ytimg.com/vi/YMEVoxNyWhE/hqdefault.jpg
+image: https://i.ytimg.com/vi/YMEVoxNyWhE/maxresdefault.jpg
 publishDate: 2022-06-03
 title: '#634 Simon Garnier: Swarm Intelligence, Collective Decision-Making, and Human
   Societies'

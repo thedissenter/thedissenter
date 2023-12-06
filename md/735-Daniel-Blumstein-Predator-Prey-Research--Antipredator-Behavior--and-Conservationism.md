@@ -12,7 +12,7 @@ excerpt: "Dr. Daniel Blumstein is a Professor in the Department of Ecology and E
   \ Behavior, The Failure of Environmental Education (And How We Can Fix It), and\
   \ The Nature of Fear: Survival Lessons from the Wild."
 id: e735
-image: https://i.ytimg.com/vi/lMWSrLH9hsI/hqdefault.jpg
+image: https://i.ytimg.com/vi/lMWSrLH9hsI/maxresdefault.jpg
 publishDate: 2023-01-26
 title: '#735 Daniel Blumstein: Predator-Prey Research, Antipredator Behavior, and
   Conservationism'

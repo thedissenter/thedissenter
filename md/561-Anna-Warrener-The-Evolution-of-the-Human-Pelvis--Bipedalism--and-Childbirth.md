@@ -9,7 +9,7 @@ excerpt: "Dr. Anna Warrener is an assistant professor in the Anthropology depart
   \ Anatomical Record and other peer-reviewed journals and has also been featured\
   \ in the BBC documentary \u201CWhat Makes Us Human\u201D and on NPR."
 id: e561
-image: https://i.ytimg.com/vi/1gnGdFE343Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/1gnGdFE343Q/maxresdefault.jpg
 publishDate: 2021-12-16
 title: '#561 Anna Warrener: The Evolution of the Human Pelvis, Bipedalism, and Childbirth'
 youtubeid: 1gnGdFE343Q

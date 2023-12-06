@@ -11,7 +11,7 @@ excerpt: "Dr. John Allen Paulos is a Professor of Mathematics at Temple Universi
   Who\u2019s Counting?: Uniting Numbers and Narratives with Stories from Pop Culture,\
   \ Puzzles, Politics, and More\u201D."
 id: e697
-image: https://i.ytimg.com/vi/S6Z6gBQTa9Y/hqdefault.jpg
+image: https://i.ytimg.com/vi/S6Z6gBQTa9Y/maxresdefault.jpg
 publishDate: 2022-10-28
 title: "#697 John Allen Paulos - Who\u2019s Counting?; Uniting Numbers and Narratives\
   \ with Stories"

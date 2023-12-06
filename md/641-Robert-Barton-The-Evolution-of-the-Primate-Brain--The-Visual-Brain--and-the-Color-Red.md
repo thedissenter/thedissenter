@@ -9,7 +9,7 @@ excerpt: Dr. Robert Barton is Professor in the Department of Anthropology, Membe
   and cognition. He also works on the evolutionary and cultural significance of the
   color red.
 id: e641
-image: https://i.ytimg.com/vi/G-codWLb61c/hqdefault.jpg
+image: https://i.ytimg.com/vi/G-codWLb61c/maxresdefault.jpg
 publishDate: 2022-06-20
 title: '#641 Robert Barton: The Evolution of the Primate Brain, The Visual Brain,
   and the Color Red'

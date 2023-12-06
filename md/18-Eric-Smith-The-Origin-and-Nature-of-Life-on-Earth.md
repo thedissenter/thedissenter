@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e18
-image: https://i.ytimg.com/vi/ARZkYwT-H20/hqdefault.jpg
+image: https://i.ytimg.com/vi/ARZkYwT-H20/maxresdefault.jpg
 publishDate: 2019-02-26
 title: '#18 Eric Smith: The Origin and Nature of Life on Earth'
 youtubeid: ARZkYwT-H20

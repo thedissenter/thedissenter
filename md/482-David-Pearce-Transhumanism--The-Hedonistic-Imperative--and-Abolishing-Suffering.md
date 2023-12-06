@@ -11,7 +11,7 @@ excerpt: David Pearce is a prominent figure within the transhumanism movement an
   of unpleasant experience from human and non-human life, replacing suffering with
   "gradients of bliss". Pearce calls this the "abolitionist project".
 id: e482
-image: https://i.ytimg.com/vi/vZXtprBLZ80/hqdefault.jpg
+image: https://i.ytimg.com/vi/vZXtprBLZ80/maxresdefault.jpg
 publishDate: 2021-06-14
 title: '#482 David Pearce: Transhumanism, The Hedonistic Imperative, and Abolishing
   Suffering'

@@ -10,7 +10,7 @@ excerpt: 'Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda
   of Life: A Philosophical Dialogue with James Tartaglia, and Manga Introduction to
   Philosophy: An Exploration of Time, Existence, the Self, and the Meaning of Life.'
 id: e643
-image: https://i.ytimg.com/vi/1Q3j7TTOwo8/hqdefault.jpg
+image: https://i.ytimg.com/vi/1Q3j7TTOwo8/maxresdefault.jpg
 publishDate: 2022-06-24
 title: '#643 Masahiro Morioka - Manga Introduction to Philosophy; Life, Death, Time,
   and the Meaning of Life'

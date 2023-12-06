@@ -9,7 +9,7 @@ excerpt: 'Dr. Joel Marks is professor emeritus of philosophy at the University o
   The Philosophy of Desirism; Hard Atheism and the Ethics of Desire: An Alternative
   to Morality; and Reason and Ethics: The Case Against Objective Value.'
 id: e609
-image: https://i.ytimg.com/vi/xFWNCk9W59Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/xFWNCk9W59Q/maxresdefault.jpg
 publishDate: 2022-04-07
 title: '#609 Joel Marks: Morality, Amorality, Desirism, and Animal Ethics'
 youtubeid: xFWNCk9W59Q

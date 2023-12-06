@@ -7,7 +7,7 @@ excerpt: Rebecka Hahnel-Peeters is a PhD student studying human behavior from an
   understand individual differences in rape myth acceptance. She is currently interested
   in sexual conflict and women's psychological adaptations against sexual exploitation.
 id: e821
-image: https://i.ytimg.com/vi/mejO8Y5QJWI/hqdefault.jpg
+image: https://i.ytimg.com/vi/mejO8Y5QJWI/maxresdefault.jpg
 publishDate: 2023-08-14
 title: '#821 Rebecka Hahnel-Peeters: Who Accepts Rape Myths, and Why?'
 youtubeid: mejO8Y5QJWI

@@ -2,7 +2,7 @@
 draft: false
 excerpt: ''
 id: e258
-image: https://i.ytimg.com/vi/AWP4mHAx9UA/hqdefault.jpg
+image: https://i.ytimg.com/vi/AWP4mHAx9UA/maxresdefault.jpg
 publishDate: 2019-11-21
 title: '#258 Mark Silcox: The Experience Machine, Simulation, And Videogames'
 youtubeid: AWP4mHAx9UA

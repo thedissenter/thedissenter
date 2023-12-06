@@ -10,7 +10,7 @@ excerpt: 'Dr. Allan Horwitz is Board of Governors Professor Emeritus of Sociolog
   Health. In addition, he has published several books, the most recent one being DSM:
   A History of Psychiatry''s Bible.'
 id: e717
-image: https://i.ytimg.com/vi/db-RS31E6i8/hqdefault.jpg
+image: https://i.ytimg.com/vi/db-RS31E6i8/maxresdefault.jpg
 publishDate: 2022-12-15
 title: '#717 Allan Horwitz - DSM: A History of Psychiatry''s Bible'
 youtubeid: db-RS31E6i8

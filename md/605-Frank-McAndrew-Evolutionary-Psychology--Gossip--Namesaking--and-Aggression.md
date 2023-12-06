@@ -11,7 +11,7 @@ excerpt: 'Dr. Francis McAndrew is the Cornelia H. Dudley Professor of Psychology
   relationship between people and their physical environments, both natural and human-made.
   He has written a successful textbook in this area, Environmental Psychology.'
 id: e605
-image: https://i.ytimg.com/vi/zSdF3xoUKmk/hqdefault.jpg
+image: https://i.ytimg.com/vi/zSdF3xoUKmk/maxresdefault.jpg
 publishDate: 2022-03-28
 title: '#605 Frank McAndrew: Evolutionary Psychology, Gossip, Namesaking, and Aggression'
 youtubeid: zSdF3xoUKmk

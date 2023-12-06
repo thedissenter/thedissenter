@@ -6,7 +6,7 @@ excerpt: Dr. Matteo Colombo is an Associate Professor in the Tilburg Center for 
   philosophy of science, philosophy of mind, and moral psychology. He is especially
   interested in the places where these areas overlap.
 id: e765
-image: https://i.ytimg.com/vi/ek6sWYW6n1w/hqdefault.jpg
+image: https://i.ytimg.com/vi/ek6sWYW6n1w/maxresdefault.jpg
 publishDate: 2023-04-06
 title: '#765 Matteo Colombo: Philosophy, Levels of Explanation in Cognitive Science,
   and Values in Science'

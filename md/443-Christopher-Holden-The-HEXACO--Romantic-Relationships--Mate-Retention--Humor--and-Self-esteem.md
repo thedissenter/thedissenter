@@ -6,7 +6,7 @@ excerpt: Dr. Christopher Holden is Professor of Psychology and Principal Investi
   relationships, the HEXACO model of personality, self-esteem, mate retention behavior,
   and others.
 id: e443
-image: https://i.ytimg.com/vi/hHT4NEsp15M/hqdefault.jpg
+image: https://i.ytimg.com/vi/hHT4NEsp15M/maxresdefault.jpg
 publishDate: 2021-03-15
 title: '#443 Christopher Holden: The HEXACO, Romantic Relationships, Mate Retention,
   Humor, and Self-esteem'

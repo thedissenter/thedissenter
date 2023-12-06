@@ -9,7 +9,7 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
   also co-designed and teaches "Game Theory and Social Behavior" which lays out a
   lot of the evidence and models behind this approach.
 id: e374
-image: https://i.ytimg.com/vi/YZ0Iwx3PgDs/hqdefault.jpg
+image: https://i.ytimg.com/vi/YZ0Iwx3PgDs/maxresdefault.jpg
 publishDate: 2020-10-05
 title: '#374 Moshe Hoffman: Incentives, Preferences, and Reason'
 youtubeid: YZ0Iwx3PgDs

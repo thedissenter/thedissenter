@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e51
-image: https://i.ytimg.com/vi/FwhEktBbGmQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/FwhEktBbGmQ/maxresdefault.jpg
 publishDate: 2019-04-08
 title: '#51 James Flynn: Intelligence and IQ, the Flynn effect, group comparisons'
 youtubeid: FwhEktBbGmQ

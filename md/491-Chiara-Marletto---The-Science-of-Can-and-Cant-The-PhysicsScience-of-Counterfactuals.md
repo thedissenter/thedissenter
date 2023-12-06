@@ -10,7 +10,7 @@ excerpt: 'Dr. Chiara Marletto is Postdoctoral Research Assistant in the Departme
   is the author of The Science of Can and Can''t: A Physicist''s Journey through the
   Land of Counterfactuals.'
 id: e491
-image: https://i.ytimg.com/vi/anerMroeLM8/hqdefault.jpg
+image: https://i.ytimg.com/vi/anerMroeLM8/maxresdefault.jpg
 publishDate: 2021-07-05
 title: '#491 Chiara Marletto - The Science of Can and Can''t; The Physics/Science
   of Counterfactuals'

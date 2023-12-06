@@ -9,7 +9,7 @@ excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace a
   \ editor of books like The Human Potential for Peace; Beyond War; War, Peace, and\
   \ Human Nature; and Nurturing Our Humanity."
 id: e253
-image: https://i.ytimg.com/vi/uz9xPBQ_CO0/hqdefault.jpg
+image: https://i.ytimg.com/vi/uz9xPBQ_CO0/maxresdefault.jpg
 publishDate: 2019-11-08
 title: '#253 Douglas Fry: Is War Part Of Human Nature?'
 youtubeid: uz9xPBQ_CO0

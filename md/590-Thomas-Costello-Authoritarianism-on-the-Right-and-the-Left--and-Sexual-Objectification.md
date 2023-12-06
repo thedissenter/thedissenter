@@ -7,7 +7,7 @@ excerpt: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain pers
   \ science to understand, measure, and statistically model the psychological causes\
   \ and correlates of these attitudes and behaviors."
 id: e590
-image: https://i.ytimg.com/vi/jvGZ1popoVo/hqdefault.jpg
+image: https://i.ytimg.com/vi/jvGZ1popoVo/maxresdefault.jpg
 publishDate: 2022-02-21
 title: '#590 Thomas Costello: Authoritarianism on the Right and the Left, and Sexual
   Objectification'

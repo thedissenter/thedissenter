@@ -9,7 +9,7 @@ excerpt: Dr. Alexander Bor is a postdoc at the CEU Democracy Institute's Researc
   evaluating political leaders. His work integrates insights from political behavior,
   social and evolutionary psychology, and public health.
 id: e788
-image: https://i.ytimg.com/vi/AUfL2bHy53s/hqdefault.jpg
+image: https://i.ytimg.com/vi/AUfL2bHy53s/maxresdefault.jpg
 publishDate: 2023-05-29
 title: '#788 Alexander Bor: Online Political Hostily; and the Moralization and Political
   Effects of COVID-19'

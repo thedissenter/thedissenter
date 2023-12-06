@@ -6,7 +6,7 @@ excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage 
   Facts: How the Information Revolution Transformed Academic Research, Governments,
   and Businesses. '
 id: e806
-image: https://i.ytimg.com/vi/Z4zOfIp32-0/hqdefault.jpg
+image: https://i.ytimg.com/vi/Z4zOfIp32-0/maxresdefault.jpg
 publishDate: 2023-07-10
 title: '#806 James Cortada - Birth of Modern Facts; Information, Government, Business,
   and Science'

@@ -14,7 +14,7 @@ excerpt: 'Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Hon
   (co-edited w/Owen Flanagan); and Free Will Skepticism in Law and Society (co-edited
   w/Elizabeth Shaw and Derk Pereboom).'
 id: e436
-image: https://i.ytimg.com/vi/gljr39s6Cjs/hqdefault.jpg
+image: https://i.ytimg.com/vi/gljr39s6Cjs/maxresdefault.jpg
 publishDate: 2021-02-26
 title: '#436 Gregg Caruso: Just Deserts, and Rejecting Retributivism'
 youtubeid: gljr39s6Cjs

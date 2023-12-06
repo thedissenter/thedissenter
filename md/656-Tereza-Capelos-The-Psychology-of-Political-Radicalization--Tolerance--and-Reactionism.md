@@ -9,7 +9,7 @@ excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at th
   and tolerance, the formation and updating of institutional and individual reputations
   and the role of trust and confidence on political accountability attributions.
 id: e656
-image: https://i.ytimg.com/vi/3ueynyGX-ic/hqdefault.jpg
+image: https://i.ytimg.com/vi/3ueynyGX-ic/maxresdefault.jpg
 publishDate: 2022-07-25
 title: '#656 Tereza Capelos: The Psychology of Political Radicalization, Tolerance,
   and Reactionism'

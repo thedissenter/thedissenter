@@ -9,7 +9,7 @@ excerpt: "Dr. Chris Knight is Honorary Professor in the Department of Anthropolo
   \ or \u2018revolution\u2019 (often termed the human revolution) has been current\
   \ for many years and is now widely agreed."
 id: e567
-image: https://i.ytimg.com/vi/MncLaFg8TuA/hqdefault.jpg
+image: https://i.ytimg.com/vi/MncLaFg8TuA/maxresdefault.jpg
 publishDate: 2021-12-30
 title: '#567 Chris Knight: The Cultural and Social Bases of Language'
 youtubeid: MncLaFg8TuA

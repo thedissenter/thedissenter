@@ -9,7 +9,7 @@ excerpt: "Dr. Karenleigh A. Overmann is an associate professor of anthropology (
   \ from UCCS. She\u2019s the editor of Squeezing Minds From Stones: Cognitive Archaeology\
   \ and the Evolution of the Human Mind."
 id: e375
-image: https://i.ytimg.com/vi/olLKlMiWMk8/hqdefault.jpg
+image: https://i.ytimg.com/vi/olLKlMiWMk8/maxresdefault.jpg
 publishDate: 2020-10-08
 title: '#375 Karenleigh Overmann: Cognitive Archaeology, Numeracy, and Language'
 youtubeid: olLKlMiWMk8

@@ -13,7 +13,7 @@ excerpt: 'Dr. Stuart Russell is a Professor of Computer Science at the Universit
   used in more than 1,400 universities in 128 countries. His most recent book is Human
   Compatible: Artificial Intelligence and the Problem of Control.'
 id: e398
-image: https://i.ytimg.com/vi/cZ4U2TKoNXs/hqdefault.jpg
+image: https://i.ytimg.com/vi/cZ4U2TKoNXs/maxresdefault.jpg
 publishDate: 2020-11-30
 title: '#398 Stuart Russell: Human-Level AI, How Worried We Should Be About AI, and
   Its Present and Future'

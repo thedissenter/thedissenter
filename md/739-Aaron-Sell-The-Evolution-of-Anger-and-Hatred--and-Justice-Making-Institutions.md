@@ -4,7 +4,7 @@ excerpt: Dr. Aaron Sell is Assistant Professor of Psychology and Criminology at 
   University. He is an evolutionary psychologist interested in anger and aggression,
   hatred, and formidability estimation.
 id: e739
-image: https://i.ytimg.com/vi/jcGJoV-4F8c/hqdefault.jpg
+image: https://i.ytimg.com/vi/jcGJoV-4F8c/maxresdefault.jpg
 publishDate: 2023-02-03
 title: '#739 Aaron Sell: The Evolution of Anger and Hatred, and Justice-Making Institutions'
 youtubeid: jcGJoV-4F8c

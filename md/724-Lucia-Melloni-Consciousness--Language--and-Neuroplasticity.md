@@ -7,7 +7,7 @@ excerpt: Dr. Lucia Melloni is a Research Leader of the Neural Circuits, Consciou
   language comprehension, and possibilities and limits of brain plasticity to restore
   cognitive functions.
 id: e724
-image: https://i.ytimg.com/vi/b81uT4aTUtE/hqdefault.jpg
+image: https://i.ytimg.com/vi/b81uT4aTUtE/maxresdefault.jpg
 publishDate: 2022-12-30
 title: '#724 Lucia Melloni: Consciousness, Language, and Neuroplasticity'
 youtubeid: b81uT4aTUtE

@@ -4,7 +4,7 @@ excerpt: "Dr. David C. Geary is Curators\u2019 Distinguished Professor in the De
   \ of Psychological Sciences at the University of Missouri.  He\u2019s the author\
   \ of several books, including Male, Female: The Evolution of Human Sex Differences."
 id: e747
-image: https://i.ytimg.com/vi/TQoXA5QnbBI/hqdefault.jpg
+image: https://i.ytimg.com/vi/TQoXA5QnbBI/maxresdefault.jpg
 publishDate: 2023-02-23
 title: '#747 David Geary - Male, Female: The Evolution of Human Sex Differences (Pt.
   2)'

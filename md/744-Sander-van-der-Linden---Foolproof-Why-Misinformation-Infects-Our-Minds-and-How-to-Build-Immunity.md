@@ -8,7 +8,7 @@ excerpt: 'Dr. Sander van der Linden is Professor of Social Psychology in the Dep
   of risk and uncertainty. He is the author of Foolproof: Why Misinformation Infects
   Our Minds and How to Build Immunity.'
 id: e744
-image: https://i.ytimg.com/vi/Sg0C6L4PSww/hqdefault.jpg
+image: https://i.ytimg.com/vi/Sg0C6L4PSww/maxresdefault.jpg
 publishDate: 2023-02-16
 title: '#744 Sander van der Linden - Foolproof: Why Misinformation Infects Our Minds
   and How to Build Immunity'

@@ -6,7 +6,7 @@ excerpt: 'Dr. Moshe Hoffman is a Research Scientist at the Max Planck Institute 
   to decipher the (often subconscious and subtle) incentives that shape our social
   behavior, preferences, and ideologies.   '
 id: e718
-image: https://i.ytimg.com/vi/HOEY8CDVPlI/hqdefault.jpg
+image: https://i.ytimg.com/vi/HOEY8CDVPlI/maxresdefault.jpg
 publishDate: 2022-12-16
 title: '#718 Moshe Hoffman & Erez Yoeli - Hidden Games; Game Theory and Irrational
   Human Behavior (Pt. 2)'

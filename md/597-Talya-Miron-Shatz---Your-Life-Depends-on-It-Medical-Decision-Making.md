@@ -8,7 +8,7 @@ excerpt: 'Dr. Talya Miron-Shatz is an author, consultant, speaker, and researche
   public outreach. She is the author of Your Life Depends on It: What You Can Do to
   Make Better Choices About Your Health.'
 id: e597
-image: https://i.ytimg.com/vi/5hh4CKvXlb4/hqdefault.jpg
+image: https://i.ytimg.com/vi/5hh4CKvXlb4/maxresdefault.jpg
 publishDate: 2022-03-10
 title: '#597 Talya Miron-Shatz - Your Life Depends on It; Medical Decision-Making'
 youtubeid: 5hh4CKvXlb4

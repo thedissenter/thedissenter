@@ -5,7 +5,7 @@ excerpt: 'Dr. Nicolas Bommarito is Assistant Professor of Philosophy at Simon Fr
   and Buddhist philosophy, particularly Tibetan Buddhism. He is the author of Seeing
   Clearly: A Buddhist Guide to Life.'
 id: e499
-image: https://i.ytimg.com/vi/uIy00E3WQw0/hqdefault.jpg
+image: https://i.ytimg.com/vi/uIy00E3WQw0/maxresdefault.jpg
 publishDate: 2021-07-23
 title: '#499 Nic Bommarito - Seeing Clearly: A Buddhist Guide to Life'
 youtubeid: uIy00E3WQw0

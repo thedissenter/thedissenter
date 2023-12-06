@@ -6,7 +6,7 @@ excerpt: Dr. Rebecca Sear is a demographer and anthropologist at the London Scho
   in taking a comparative perspective to understanding human reproductive behavior,
   and exploring why such behavior varies between, as well as within, populations.
 id: e815
-image: https://i.ytimg.com/vi/TXRbi7Vi1S0/hqdefault.jpg
+image: https://i.ytimg.com/vi/TXRbi7Vi1S0/maxresdefault.jpg
 publishDate: 2023-07-31
 title: '#815 Rebecca Sear: Demography, Family Structures, National IQs, and the Evolutionary
   Social Sciences'

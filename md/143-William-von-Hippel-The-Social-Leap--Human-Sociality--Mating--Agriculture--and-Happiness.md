@@ -8,7 +8,7 @@ excerpt: "Dr. William von Hippel is Professor of Psychology at the University of
   \ New Evolutionary Science of Who We Are, Where We Come From, and What Makes Us\
   \ Happy\u201D (2018)."
 id: e143
-image: https://i.ytimg.com/vi/T8K5fbEezbE/hqdefault.jpg
+image: https://i.ytimg.com/vi/T8K5fbEezbE/maxresdefault.jpg
 publishDate: 2019-02-25
 title: '#143 William von Hippel: The Social Leap, Human Sociality, Mating, Agriculture,
   and Happiness'

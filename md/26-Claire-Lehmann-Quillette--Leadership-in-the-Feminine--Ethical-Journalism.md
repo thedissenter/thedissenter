@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e26
-image: https://i.ytimg.com/vi/nDRiIm0SBL8/hqdefault.jpg
+image: https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg
 publishDate: 2019-03-07
 title: '#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism'
 youtubeid: nDRiIm0SBL8

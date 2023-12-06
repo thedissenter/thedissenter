@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e11
-image: https://i.ytimg.com/vi/Q8wsX75Z9yY/hqdefault.jpg
+image: https://i.ytimg.com/vi/Q8wsX75Z9yY/maxresdefault.jpg
 publishDate: 2019-02-18
 title: "#11 Kevin Lomangino: HealthNewsReview, Health Care News | Not\xEDcias de Sa\xFA\
   de (320 kbps)"

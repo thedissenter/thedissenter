@@ -6,7 +6,7 @@ excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psycholo
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.
 id: e101
-image: https://i.ytimg.com/vi/-sFFlebGP70/hqdefault.jpg
+image: https://i.ytimg.com/vi/-sFFlebGP70/maxresdefault.jpg
 publishDate: 2019-06-21
 title: '#101 Todd Shackelford: Evolution and Family Conflict, Sperm Competition, Stepparenting'
 youtubeid: -sFFlebGP70

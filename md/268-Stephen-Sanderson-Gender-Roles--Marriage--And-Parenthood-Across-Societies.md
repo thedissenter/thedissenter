@@ -12,7 +12,7 @@ excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professo
   \ and the Evolution of Society\u201D, and \u201CReligious Evolution and the Axial\
   \ Age\u201D.  "
 id: e268
-image: https://i.ytimg.com/vi/zol-rQYASok/hqdefault.jpg
+image: https://i.ytimg.com/vi/zol-rQYASok/maxresdefault.jpg
 publishDate: 2019-12-13
 title: '#268 Stephen Sanderson: Gender Roles, Marriage, And Parenthood Across Societies'
 youtubeid: zol-rQYASok

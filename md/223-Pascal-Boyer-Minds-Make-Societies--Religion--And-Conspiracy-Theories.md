@@ -7,7 +7,7 @@ excerpt: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collect
   \ the author of books like Religion Explained; Memory, Mind and Culture; and Minds\
   \ Make Societies."
 id: e223
-image: https://i.ytimg.com/vi/4i5S4Lnm1qs/hqdefault.jpg
+image: https://i.ytimg.com/vi/4i5S4Lnm1qs/maxresdefault.jpg
 publishDate: 2019-08-30
 title: '#223 Pascal Boyer: Minds Make Societies, Religion, And Conspiracy Theories'
 youtubeid: 4i5S4Lnm1qs

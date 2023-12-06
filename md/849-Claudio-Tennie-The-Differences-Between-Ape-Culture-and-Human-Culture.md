@@ -10,7 +10,7 @@ excerpt: "Dr. Claudio Tennie is a Tenured Research Group Leader (\u201CTools and
   \ that enabled the typical modern human \"variant of culture\": cumulative culture\
   \ of know-how."
 id: e849
-image: https://i.ytimg.com/vi/FB31IrHUQds/hqdefault.jpg
+image: https://i.ytimg.com/vi/FB31IrHUQds/maxresdefault.jpg
 publishDate: 2023-10-19
 title: '#849 Claudio Tennie: The Differences Between Ape Culture and Human Culture'
 youtubeid: FB31IrHUQds

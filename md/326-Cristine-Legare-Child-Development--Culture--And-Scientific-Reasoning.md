@@ -6,7 +6,7 @@ excerpt: Dr. Cristine Legare is a professor of psychology and the director of th
   and transmit culture. She conducts comparisons across age, culture, and species
   to address fundamental questions about cognitive and cultural evolution.
 id: e326
-image: https://i.ytimg.com/vi/Uq4vBag-f-M/hqdefault.jpg
+image: https://i.ytimg.com/vi/Uq4vBag-f-M/maxresdefault.jpg
 publishDate: 2020-04-27
 title: '#326 Cristine Legare: Child Development, Culture, And Scientific Reasoning'
 youtubeid: Uq4vBag-f-M

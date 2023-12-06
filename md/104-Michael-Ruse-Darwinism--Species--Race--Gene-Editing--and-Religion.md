@@ -7,7 +7,7 @@ excerpt: "Dr. Michael Ruse is a philosopher of science who specializes in the ph
   \ and Director of HPS Program. He\u2019s also a very prolific writer, author of\
   \ books like The Darwinian Revolution, Darwin and Design, and On Purpose. "
 id: e104
-image: https://i.ytimg.com/vi/_pskF_vX3X0/hqdefault.jpg
+image: https://i.ytimg.com/vi/_pskF_vX3X0/maxresdefault.jpg
 publishDate: 2019-06-25
 title: '#104 Michael Ruse: Darwinism, Species, Race, Gene Editing, and Religion'
 youtubeid: _pskF_vX3X0

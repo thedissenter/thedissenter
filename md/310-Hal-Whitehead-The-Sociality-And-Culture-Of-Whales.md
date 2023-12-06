@@ -9,7 +9,7 @@ excerpt: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhous
   of weeks at sea on board ocean-going sailing boats collecting acoustic, visual,
   photographic, genetic and oceanographic data.'
 id: e310
-image: https://i.ytimg.com/vi/KCnWsD4ZS54/hqdefault.jpg
+image: https://i.ytimg.com/vi/KCnWsD4ZS54/maxresdefault.jpg
 publishDate: 2020-03-20
 title: '#310 Hal Whitehead: The Sociality And Culture Of Whales'
 youtubeid: KCnWsD4ZS54

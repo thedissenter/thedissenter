@@ -2,7 +2,7 @@
 draft: false
 excerpt: '------------------Apoiem o canal-------------------  '
 id: e77
-image: https://i.ytimg.com/vi/uL8Xt8Tmvos/hqdefault.jpg
+image: https://i.ytimg.com/vi/uL8Xt8Tmvos/maxresdefault.jpg
 publishDate: 2019-05-18
 title: '#77 Nuno Lobo Antunes: Novo Projeto de Lei do PAN, Metilfenidato e Atomoxetina,
   PHDA'

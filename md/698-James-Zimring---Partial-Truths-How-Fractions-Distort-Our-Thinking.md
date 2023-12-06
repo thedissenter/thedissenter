@@ -4,7 +4,7 @@ excerpt: 'Dr. James Zimring is Thomas W. Tillack Professor of Experimental Patho
   at the University of Virginia. He is the author of What Science Is and How It Really
   Works (2019). His latest book is Partial Truths: How Fractions Distort Our Thinking.'
 id: e698
-image: https://i.ytimg.com/vi/_8PEL_10_8Y/hqdefault.jpg
+image: https://i.ytimg.com/vi/_8PEL_10_8Y/maxresdefault.jpg
 publishDate: 2022-10-31
 title: '#698 James Zimring - Partial Truths: How Fractions Distort Our Thinking'
 youtubeid: _8PEL_10_8Y

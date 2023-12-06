@@ -6,7 +6,7 @@ excerpt: 'Dr. Alicia Juarrero is President and Founder of VectorAnalytica. Her r
   books, the most recent one being Context Changes Everything: How Constraints Create
   Coherence.'
 id: e840
-image: https://i.ytimg.com/vi/XKamoQkahxw/hqdefault.jpg
+image: https://i.ytimg.com/vi/XKamoQkahxw/maxresdefault.jpg
 publishDate: 2023-09-28
 title: '#840 Alicia Juarrero - Context Changes Everything: How Constraints Create
   Coherence'

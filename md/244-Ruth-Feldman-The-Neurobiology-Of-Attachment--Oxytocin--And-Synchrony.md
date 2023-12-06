@@ -17,7 +17,7 @@ excerpt: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social N
   \ investigator award (twice), the Zeskind award for best paper in Biological Psychiatry,\
   \ and the Graven\u2019s Award for research on high-risk infants."
 id: e244
-image: https://i.ytimg.com/vi/IjxhSvzc4HE/hqdefault.jpg
+image: https://i.ytimg.com/vi/IjxhSvzc4HE/maxresdefault.jpg
 publishDate: 2019-10-18
 title: '#244 Ruth Feldman: The Neurobiology Of Attachment, Oxytocin, And Synchrony'
 youtubeid: IjxhSvzc4HE

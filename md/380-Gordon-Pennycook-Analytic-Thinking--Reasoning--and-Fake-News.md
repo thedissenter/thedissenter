@@ -15,7 +15,7 @@ excerpt: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at 
   \ the methodological and theoretical issues that pertain to the measurement of cognitive\
   \ reflection and motivated reasoning."
 id: e380
-image: https://i.ytimg.com/vi/-yFgMVbpH0Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/-yFgMVbpH0Q/maxresdefault.jpg
 publishDate: 2020-10-19
 title: '#380 Gordon Pennycook: Analytic Thinking, Reasoning, and Fake News'
 youtubeid: -yFgMVbpH0Q

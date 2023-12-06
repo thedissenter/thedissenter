@@ -5,7 +5,7 @@ excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at t
   s philosophy, Kant\u2019s philosophy, 19th-century German philosophy, phenomenology,\
   \ philosophy of perception, and philosophy of action."
 id: e292
-image: https://i.ytimg.com/vi/sLkJLNkEFbY/hqdefault.jpg
+image: https://i.ytimg.com/vi/sLkJLNkEFbY/maxresdefault.jpg
 publishDate: 2020-02-07
 title: '#292 Mattia Riccardi: Nietzsche''s Psychology And Epistemology'
 youtubeid: sLkJLNkEFbY

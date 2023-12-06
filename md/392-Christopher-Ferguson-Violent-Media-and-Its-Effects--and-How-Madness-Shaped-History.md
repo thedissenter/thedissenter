@@ -14,7 +14,7 @@ excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson Univ
   \ numbers.\". He\u2019s the author of How Madness Shaped History: An Eccentric Array\
   \ of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries."
 id: e392
-image: https://i.ytimg.com/vi/1G0tKXPWl_I/hqdefault.jpg
+image: https://i.ytimg.com/vi/1G0tKXPWl_I/maxresdefault.jpg
 publishDate: 2020-11-16
 title: '#392 Christopher Ferguson: Violent Media and Its Effects, and How Madness
   Shaped History'

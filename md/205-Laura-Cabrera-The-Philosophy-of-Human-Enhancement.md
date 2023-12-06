@@ -13,7 +13,7 @@ excerpt: "Dr. Laura Cabrera is Assistant Professor in the Center for Ethics and 
   \ health. She\u2019s also the author of the book Rethinking Human Enhancement: Social\
   \ Enhancement and Emergent Technologies."
 id: e205
-image: https://i.ytimg.com/vi/YcB8cqoVS1o/hqdefault.jpg
+image: https://i.ytimg.com/vi/YcB8cqoVS1o/maxresdefault.jpg
 publishDate: 2019-07-19
 title: '#205 Laura Cabrera: The Philosophy of Human Enhancement'
 youtubeid: YcB8cqoVS1o

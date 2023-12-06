@@ -10,7 +10,7 @@ excerpt: 'Dr. Charles H. Lineweaver is the convener of the Australian National U
   "Are We Alone?". His research areas include cosmology, exoplanetology, and astrobiology
   and evolutionary biology. '
 id: e183
-image: https://i.ytimg.com/vi/1CVjgIr6gBc/hqdefault.jpg
+image: https://i.ytimg.com/vi/1CVjgIr6gBc/maxresdefault.jpg
 publishDate: 2019-05-30
 title: '#183 Charles Lineweaver: Astrobiology, And What Is Life'
 youtubeid: 1CVjgIr6gBc

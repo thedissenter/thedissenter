@@ -4,7 +4,7 @@ excerpt: "Max Beilby is a Management and Organizational Psychologist and author 
   \ the Darwinian Business blog. He\u2019s currently working as a practitioner in\
   \ the banking industry."
 id: e320
-image: https://i.ytimg.com/vi/yXYWlN1pU44/hqdefault.jpg
+image: https://i.ytimg.com/vi/yXYWlN1pU44/maxresdefault.jpg
 publishDate: 2020-04-13
 title: '#320 Max Beilby: Evolutionary Organizational Psychology'
 youtubeid: yXYWlN1pU44

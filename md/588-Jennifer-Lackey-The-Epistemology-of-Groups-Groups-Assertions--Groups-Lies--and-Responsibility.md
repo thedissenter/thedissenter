@@ -8,7 +8,7 @@ excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosoph
   expertise, and the distribution of epistemic goods. She is the author of several
   books, including The Epistemology of Groups.
 id: e588
-image: https://i.ytimg.com/vi/OnW93tV_Ky8/hqdefault.jpg
+image: https://i.ytimg.com/vi/OnW93tV_Ky8/maxresdefault.jpg
 publishDate: 2022-02-17
 title: '#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups
   Lies, and Responsibility'

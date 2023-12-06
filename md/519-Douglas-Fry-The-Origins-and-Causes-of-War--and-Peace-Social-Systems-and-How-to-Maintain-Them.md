@@ -9,7 +9,7 @@ excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace a
   \ editor of books like The Human Potential for Peace; Beyond War; War, Peace, and\
   \ Human Nature; and Nurturing Our Humanity."
 id: e519
-image: https://i.ytimg.com/vi/Pr5-JqcAo6c/hqdefault.jpg
+image: https://i.ytimg.com/vi/Pr5-JqcAo6c/maxresdefault.jpg
 publishDate: 2021-09-09
 title: '#519 Douglas Fry: The Origins and Causes of War, and Peace Social Systems
   and How to Maintain Them'

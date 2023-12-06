@@ -8,7 +8,7 @@ excerpt: Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlan
   and other disciplines studying language, and numerous articles. She is the editor
   of Cognitive Linguistics and Vice President of the UK Cognitive Linguistics Association.
 id: e504
-image: https://i.ytimg.com/vi/U07H3vm-wv8/hqdefault.jpg
+image: https://i.ytimg.com/vi/U07H3vm-wv8/maxresdefault.jpg
 publishDate: 2021-08-05
 title: '#504 Ewa Dabrowska: Linguistics, and Native and Second Language Attainment'
 youtubeid: U07H3vm-wv8

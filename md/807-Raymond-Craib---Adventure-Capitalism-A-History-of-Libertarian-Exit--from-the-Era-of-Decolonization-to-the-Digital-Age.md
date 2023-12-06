@@ -5,7 +5,7 @@ excerpt: 'Dr. Raymond Craib is Marie Underhill Noll Professor of History at Corn
   of space, politics, and everyday practice. He is the author of Adventure Capitalism:
   A History of Libertarian Exit, from the Era of Decolonization to the Digital Age.'
 id: e807
-image: https://i.ytimg.com/vi/nQDDmJr3Cw4/hqdefault.jpg
+image: https://i.ytimg.com/vi/nQDDmJr3Cw4/maxresdefault.jpg
 publishDate: 2023-07-13
 title: '#807 Raymond Craib - Adventure Capitalism: A History of Libertarian Exit,
   from the Era of Decolonization to the Digital Age'

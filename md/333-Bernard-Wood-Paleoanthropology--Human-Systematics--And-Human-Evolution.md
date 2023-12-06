@@ -12,7 +12,7 @@ excerpt: "Dr. Bernard Wood is University Professor of Human Origins at the Cente
   \ including Human Evolution: A Very Short Introduction, and Human Evolution: A Guide\
   \ to Fossil Evidence."
 id: e333
-image: https://i.ytimg.com/vi/2AuT3CE_w34/hqdefault.jpg
+image: https://i.ytimg.com/vi/2AuT3CE_w34/maxresdefault.jpg
 publishDate: 2020-05-14
 title: '#333 Bernard Wood: Paleoanthropology, Human Systematics, And Human Evolution'
 youtubeid: 2AuT3CE_w34

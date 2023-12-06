@@ -10,7 +10,7 @@ excerpt: Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Socia
   and developmental factors that allow human beings to learn from others and accumulate
   cultural knowledge.
 id: e668
-image: https://i.ytimg.com/vi/snoPcQoG_gE/hqdefault.jpg
+image: https://i.ytimg.com/vi/snoPcQoG_gE/maxresdefault.jpg
 publishDate: 2022-08-22
 title: '#668 Annie Wertz: How Children Learn About Plants; Core Knowledge, and Human
   Universals'

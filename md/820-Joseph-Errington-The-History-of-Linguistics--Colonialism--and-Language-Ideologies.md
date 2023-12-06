@@ -11,7 +11,7 @@ excerpt: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. 
   author of books like Language and Social Change in Java, Shifting Languages, and
   Linguistics in a Colonial World.'
 id: e820
-image: https://i.ytimg.com/vi/Wq8Hw3xlLf8/hqdefault.jpg
+image: https://i.ytimg.com/vi/Wq8Hw3xlLf8/maxresdefault.jpg
 publishDate: 2023-08-11
 title: '#820 Joseph Errington: The History of Linguistics, Colonialism, and Language
   Ideologies'

@@ -10,7 +10,7 @@ excerpt: "Dr. Cecilia Heyes is a Professor of Psychology and Senior Research Fel
   \ origins of imitation and the mirror neuron system. She\u2019s the author of Cognitive\
   \ Gadgets: The Cultural Evolution of Thinking."
 id: e209
-image: https://i.ytimg.com/vi/mF2NguzRdFo/hqdefault.jpg
+image: https://i.ytimg.com/vi/mF2NguzRdFo/maxresdefault.jpg
 publishDate: 2019-07-29
 title: '#209 Cecilia Heyes: Cultural Evolutionary Psychology, Imitation, And Mindreading'
 youtubeid: mF2NguzRdFo

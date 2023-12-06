@@ -5,7 +5,7 @@ excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duqu
   Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory
   Readings in Ancient Greek and Roman Philosophy (Hackett, 2015).'
 id: e684
-image: https://i.ytimg.com/vi/LeiTGDc_RBI/hqdefault.jpg
+image: https://i.ytimg.com/vi/LeiTGDc_RBI/maxresdefault.jpg
 publishDate: 2022-09-29
 title: '#684 Patrick Lee Miller: Plato vs. Nietzsche, Metaphysics, and Morality'
 youtubeid: LeiTGDc_RBI

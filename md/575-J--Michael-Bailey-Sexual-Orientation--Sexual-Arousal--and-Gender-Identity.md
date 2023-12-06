@@ -8,7 +8,7 @@ excerpt: Dr. J. Michael Bailey is an American psychologist, behavioral geneticis
   to explain the biology of male sexual orientation and gender to a general audience,
   focusing on gender nonconforming boys, gay men and male-to-female transsexuals.
 id: e575
-image: https://i.ytimg.com/vi/T_IWt5gvBrg/hqdefault.jpg
+image: https://i.ytimg.com/vi/T_IWt5gvBrg/maxresdefault.jpg
 publishDate: 2022-01-17
 title: '#575 J. Michael Bailey: Sexual Orientation, Sexual Arousal, and Gender Identity'
 youtubeid: T_IWt5gvBrg

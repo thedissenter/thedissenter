@@ -7,7 +7,7 @@ excerpt: "Dr. Robert Atkinson is a Canadian-American economist. He is president 
   s the author of four books, including Big Is Beautiful: Debunking the Myth of Small\
   \ Business."
 id: e389
-image: https://i.ytimg.com/vi/KFu36PXfc_c/hqdefault.jpg
+image: https://i.ytimg.com/vi/KFu36PXfc_c/maxresdefault.jpg
 publishDate: 2020-11-09
 title: '#389 Robert Atkinson - Big Is Beautiful: Debunking the Myth of Small Business'
 youtubeid: KFu36PXfc_c

@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e34
-image: https://i.ytimg.com/vi/LlTZrxfqBtI/hqdefault.jpg
+image: https://i.ytimg.com/vi/LlTZrxfqBtI/maxresdefault.jpg
 publishDate: 2019-03-16
 title: '#34 Azar Gat: War and Terrorism, from the Hunter-Gatherers to the Long Peace'
 youtubeid: LlTZrxfqBtI

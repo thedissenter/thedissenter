@@ -3,7 +3,7 @@ draft: false
 excerpt: "I\u2019M SORRY ABOUT THE MISSING BITS OF AUDIO HERE AND THERE, BUT THE CONNECTION\
   \ WAS A BIT WEAK.  "
 id: e259
-image: https://i.ytimg.com/vi/xxXetRFYnbs/hqdefault.jpg
+image: https://i.ytimg.com/vi/xxXetRFYnbs/maxresdefault.jpg
 publishDate: 2019-11-22
 title: '#259 Tyler Volk: From Quarks to Culture'
 youtubeid: xxXetRFYnbs

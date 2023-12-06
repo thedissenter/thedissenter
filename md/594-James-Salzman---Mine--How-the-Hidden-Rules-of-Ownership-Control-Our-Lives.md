@@ -8,7 +8,7 @@ excerpt: 'Dr. James Salzman is the Donald Bren Distinguished Professor of Enviro
   and creating markets for ecosystem services. He is the author of Mine!: How the
   Hidden Rules of Ownership Control Our Lives.'
 id: e594
-image: https://i.ytimg.com/vi/BSCgJ8635NI/hqdefault.jpg
+image: https://i.ytimg.com/vi/BSCgJ8635NI/maxresdefault.jpg
 publishDate: 2022-03-03
 title: '#594 James Salzman - Mine!: How the Hidden Rules of Ownership Control Our
   Lives'

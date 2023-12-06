@@ -10,7 +10,7 @@ excerpt: "Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer 
   \ ethics, and feminist philosophy. She is also a practicing artist in paint and\
   \ sound."
 id: e800
-image: https://i.ytimg.com/vi/CLsfD_T4Yrk/hqdefault.jpg
+image: https://i.ytimg.com/vi/CLsfD_T4Yrk/maxresdefault.jpg
 publishDate: 2023-06-26
 title: '#800 Daisy Dixon: Art as Speech, Artistic Hate Speech, and Immoral Artists'
 youtubeid: CLsfD_T4Yrk

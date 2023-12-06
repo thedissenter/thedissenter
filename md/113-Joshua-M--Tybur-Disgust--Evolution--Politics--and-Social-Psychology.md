@@ -7,7 +7,7 @@ excerpt: Dr. Joshua M. Tybur is an Associate Professor in the Department of Expe
   of interdependence. He approaches these topics with a combination of ideas and techniques
   from social psychology, personality psychology, and evolutionary biology.
 id: e113
-image: https://i.ytimg.com/vi/oAb-UIGKyxU/hqdefault.jpg
+image: https://i.ytimg.com/vi/oAb-UIGKyxU/maxresdefault.jpg
 publishDate: 2019-07-11
 title: '#113 Joshua M. Tybur: Disgust, Evolution, Politics, and Social Psychology'
 youtubeid: oAb-UIGKyxU

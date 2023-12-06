@@ -6,7 +6,7 @@ excerpt: "Dr. Elliott Sober is Hans Reichenbach Professor and William F. Vilas R
   \ of science. He\u2019s the author of books like Philosophy of Biology, Unto Others:\
   \ The Evolution and Psychology of Unselfish Behavior, and The Design Argument."
 id: e357
-image: https://i.ytimg.com/vi/zsoUVzCtlxI/hqdefault.jpg
+image: https://i.ytimg.com/vi/zsoUVzCtlxI/maxresdefault.jpg
 publishDate: 2020-08-24
 title: '#357 Elliott Sober: Group Selection, Altruism, and Multilevel Selection'
 youtubeid: zsoUVzCtlxI

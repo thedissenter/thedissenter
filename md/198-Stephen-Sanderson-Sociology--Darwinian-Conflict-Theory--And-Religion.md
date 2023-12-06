@@ -12,7 +12,7 @@ excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professo
   \ and the Evolution of Society\u201D, and \u201CReligious Evolution and the Axial\
   \ Age\u201D."
 id: e198
-image: https://i.ytimg.com/vi/EWFtlnK8Kik/hqdefault.jpg
+image: https://i.ytimg.com/vi/EWFtlnK8Kik/maxresdefault.jpg
 publishDate: 2019-07-04
 title: '#198 Stephen Sanderson: Sociology, Darwinian Conflict Theory, And Religion'
 youtubeid: EWFtlnK8Kik

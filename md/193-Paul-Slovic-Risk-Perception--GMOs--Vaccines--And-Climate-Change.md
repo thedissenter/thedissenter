@@ -9,7 +9,7 @@ excerpt: "Dr. Paul Slovic is a founder and President of Decision Research and Pr
   s the recipient of several awards, and he was also elected to the American Academy\
   \ of Arts and Sciences in 2015 and the National Academy of Sciences in 2016."
 id: e193
-image: https://i.ytimg.com/vi/AwEYI4P7BIo/hqdefault.jpg
+image: https://i.ytimg.com/vi/AwEYI4P7BIo/maxresdefault.jpg
 publishDate: 2019-06-21
 title: '#193 Paul Slovic: Risk Perception, GMOs, Vaccines, And Climate Change'
 youtubeid: AwEYI4P7BIo

@@ -4,7 +4,7 @@ excerpt: Julian De Freitas is a cognitive scientist in the Department of Psychol
   at Harvard University. He studies social intelligence, with a focus on the self,
   strategic thinking, and ethics.
 id: e350
-image: https://i.ytimg.com/vi/pJwFSi1W-c8/hqdefault.jpg
+image: https://i.ytimg.com/vi/pJwFSi1W-c8/maxresdefault.jpg
 publishDate: 2020-07-27
 title: '#350 Julian De Freitas: The Self, Morality, And Common Knowledge'
 youtubeid: pJwFSi1W-c8

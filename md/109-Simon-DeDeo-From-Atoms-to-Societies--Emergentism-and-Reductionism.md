@@ -4,7 +4,7 @@ excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. I\u2019VE BEEN HAVING SOME ISSUES WIT
   \ THE RECORDING PROGRAM THAT I HOPE TO SOLVE DEFINITELLY IN THE NEAR FUTURE. PLEASE\
   \ ENJOY!"
 id: e109
-image: https://i.ytimg.com/vi/HOZiYYOZ1sE/hqdefault.jpg
+image: https://i.ytimg.com/vi/HOZiYYOZ1sE/maxresdefault.jpg
 publishDate: 2019-07-06
 title: '#109 Simon DeDeo: From Atoms to Societies, Emergentism and Reductionism'
 youtubeid: HOZiYYOZ1sE

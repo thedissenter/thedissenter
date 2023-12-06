@@ -12,7 +12,7 @@ excerpt: Dr. Jessica Thompson is Assistant Professor of Anthropology at Yale Uni
   archaeological record, at its origin in the Pliocene. Dr. Thompson is PI of the
   Osteoarchaeology Laboratory at Yale University.
 id: e507
-image: https://i.ytimg.com/vi/DHPxFfhFN0U/hqdefault.jpg
+image: https://i.ytimg.com/vi/DHPxFfhFN0U/maxresdefault.jpg
 publishDate: 2021-08-12
 title: '#507 Jessica Thompson: Human Evolution, and Our Impact on the Environment'
 youtubeid: DHPxFfhFN0U

@@ -12,7 +12,7 @@ excerpt: 'Dr. Louise Barrett is Professor of Psychology and Canada Research Chai
   the Canadian North. She is the author of Beyond the Brain: How Body and Environment
   Shape Animal and Human Minds (Princeton University Press).'
 id: e551
-image: https://i.ytimg.com/vi/W4vJVrYZBlA/hqdefault.jpg
+image: https://i.ytimg.com/vi/W4vJVrYZBlA/maxresdefault.jpg
 publishDate: 2021-11-22
 title: '#551 Louise Barrett: Baboon Societies, Ecology, Embodied Cognition, and Evolutionary
   Psychology'

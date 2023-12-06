@@ -4,7 +4,7 @@ excerpt: "Dr. Bradley Campbell is an Associate Professor of Sociology at Califor
   \ State University. He\u2019s also the author of books like The Geometry of Genocide,\
   \ and, more recently, The Rise of Victimhood Culture.  "
 id: e55
-image: https://i.ytimg.com/vi/Sm5qUFsB2BE/hqdefault.jpg
+image: https://i.ytimg.com/vi/Sm5qUFsB2BE/maxresdefault.jpg
 publishDate: 2019-04-16
 title: '#55 Bradley Campbell: The Rise of Victimhood Culture, and Its Dangers on the
   Left and the Right'

@@ -13,7 +13,7 @@ excerpt: "Dr. Scott Barry Kaufman is a humanistic psychologist exploring the dep
   \ with Learning Difficulties and The Cambridge Handbook of Intelligence. His new\
   \ book is Transcend: The New Science of Self-Actualization."
 id: e341
-image: https://i.ytimg.com/vi/K86HTnQAjlk/hqdefault.jpg
+image: https://i.ytimg.com/vi/K86HTnQAjlk/maxresdefault.jpg
 publishDate: 2020-06-01
 title: '#341 Scott Barry Kaufman - Transcend: The New Science of Self-Actualization'
 youtubeid: K86HTnQAjlk

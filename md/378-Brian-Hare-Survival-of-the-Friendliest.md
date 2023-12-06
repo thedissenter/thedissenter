@@ -8,7 +8,7 @@ excerpt: "Dr. Brian Hare is a professor of evolutionary anthropology at Duke Uni
   \ the most recent one, Survival of the Friendliest: Understanding Our Origins and\
   \ Rediscovering Our Common Humanity."
 id: e378
-image: https://i.ytimg.com/vi/mmGIyBDgg7A/hqdefault.jpg
+image: https://i.ytimg.com/vi/mmGIyBDgg7A/maxresdefault.jpg
 publishDate: 2020-10-15
 title: '#378 Brian Hare: Survival of the Friendliest'
 youtubeid: mmGIyBDgg7A

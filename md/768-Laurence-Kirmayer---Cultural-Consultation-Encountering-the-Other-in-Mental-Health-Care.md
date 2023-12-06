@@ -9,7 +9,7 @@ excerpt: 'Dr. Laurence Kirmayer is James McGill Professor and Director of the Di
   of the Society for Psychological Anthropology. He is the editor of Cultural Consultation:
   Encountering the Other in Mental Health Care.'
 id: e768
-image: https://i.ytimg.com/vi/Hh03vxzcEhg/hqdefault.jpg
+image: https://i.ytimg.com/vi/Hh03vxzcEhg/maxresdefault.jpg
 publishDate: 2023-04-13
 title: '#768 Laurence Kirmayer - Cultural Consultation: Encountering the Other in
   Mental Health Care'

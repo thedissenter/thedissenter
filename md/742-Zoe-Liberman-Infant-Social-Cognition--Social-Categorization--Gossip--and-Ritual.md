@@ -9,7 +9,7 @@ excerpt: 'Dr. Zoe Liberman is Associate Professor of Psychology at the Universit
   categorization, including the effects of growing up in a multilingual (or otherwise
   diverse) environment. '
 id: e742
-image: https://i.ytimg.com/vi/-TqByn9INH8/hqdefault.jpg
+image: https://i.ytimg.com/vi/-TqByn9INH8/maxresdefault.jpg
 publishDate: 2023-02-10
 title: '#742 Zoe Liberman: Infant Social Cognition, Social Categorization, Gossip,
   and Ritual'

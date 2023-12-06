@@ -8,7 +8,7 @@ excerpt: Dr. Manvir Singh just graduated with a PhD in human evolutionary biolog
   the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized
   states.
 id: e362
-image: https://i.ytimg.com/vi/Ijf8cNBgztA/hqdefault.jpg
+image: https://i.ytimg.com/vi/Ijf8cNBgztA/maxresdefault.jpg
 publishDate: 2020-09-07
 title: '#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music'
 youtubeid: Ijf8cNBgztA

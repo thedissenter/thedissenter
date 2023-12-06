@@ -3,7 +3,7 @@ draft: false
 excerpt: SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK.
   HOPE YOU ENJOY IT.
 id: e139
-image: https://i.ytimg.com/vi/jeGebFnF9Fw/hqdefault.jpg
+image: https://i.ytimg.com/vi/jeGebFnF9Fw/maxresdefault.jpg
 publishDate: 2019-02-15
 title: '#139 Peter Richerson: Biology and Culture, Cultural Evolution, Cognition,
   and Group Selection'

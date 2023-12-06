@@ -10,7 +10,7 @@ excerpt: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technolo
   \ He is the author of several books, including his most recent one, Self-Improvement:\
   \ Technologies of the Soul in the Age of Artificial Intelligence."
 id: e825
-image: https://i.ytimg.com/vi/ruTMVM0JSNc/hqdefault.jpg
+image: https://i.ytimg.com/vi/ruTMVM0JSNc/maxresdefault.jpg
 publishDate: 2023-08-24
 title: '#825 Mark Coeckelbergh - Self-Improvement: Technologies of the Soul in the
   Age of Artificial Intelligence'

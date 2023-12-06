@@ -7,7 +7,7 @@ excerpt: "Dr. Joshua Glasgow is Associate Professor in (and Chair of) the Philos
   \ and more. He\u2019s the author of The Solace: Finding Value in Death Through Gratitude\
   \ for Life."
 id: e485
-image: https://i.ytimg.com/vi/Zo1C-BXawgQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/Zo1C-BXawgQ/maxresdefault.jpg
 publishDate: 2021-06-21
 title: '#485 Joshua Glasgow - The Solace: Finding Value in Death through Gratitude
   for Life'

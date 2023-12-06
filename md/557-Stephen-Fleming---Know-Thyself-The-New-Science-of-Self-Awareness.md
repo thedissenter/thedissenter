@@ -13,7 +13,7 @@ excerpt: 'Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fel
   how self-awareness and social cognition may share a core neurocomputational basis.
   He is the author of Know Thyself: The New Science of Self-Awareness.'
 id: e557
-image: https://i.ytimg.com/vi/9MH52uNOA6w/hqdefault.jpg
+image: https://i.ytimg.com/vi/9MH52uNOA6w/maxresdefault.jpg
 publishDate: 2021-12-06
 title: '#557 Stephen Fleming - Know Thyself: The New Science of Self-Awareness'
 youtubeid: 9MH52uNOA6w

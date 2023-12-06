@@ -8,7 +8,7 @@ excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Ce
   \ Revolution), and even inequality in soccer. His latest book is Visions of Inequality:\
   \ From the French Revolution to the End of the Cold War."
 id: e845
-image: https://i.ytimg.com/vi/PSk1BFNWbWo/hqdefault.jpg
+image: https://i.ytimg.com/vi/PSk1BFNWbWo/maxresdefault.jpg
 publishDate: 2023-10-09
 title: "#845 Branko Milanovi\u0107 - Visions of Inequality: From the French Revolution\
   \ to the End of the Cold War"

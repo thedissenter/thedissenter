@@ -10,7 +10,7 @@ excerpt: "Dr. Mitch Brown is an instructor and researcher in Psychology at the U
   \ social functions. From an increasingly applied standpoint, his research considers\
   \ how evolutionary motives impede fair treatment of individuals under the U.S. Constitution."
 id: e763
-image: https://i.ytimg.com/vi/R4SU9EbJDe8/hqdefault.jpg
+image: https://i.ytimg.com/vi/R4SU9EbJDe8/maxresdefault.jpg
 publishDate: 2023-03-31
 title: '#763 Mitch Brown: Pathogen Avoidance, Mate Preferences for Facial Features,
   and Humor'

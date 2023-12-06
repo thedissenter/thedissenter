@@ -5,7 +5,7 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
   under contexts of threat, with particular focus on political orientation, group
   prejudice, and the representation of mental states.
 id: e116
-image: https://i.ytimg.com/vi/jnrIPHokpVM/hqdefault.jpg
+image: https://i.ytimg.com/vi/jnrIPHokpVM/maxresdefault.jpg
 publishDate: 2019-07-15
 title: '#116 Colin Holbrook: Threat Detection, Group Prejudice, Warfare, and Religion'
 youtubeid: jnrIPHokpVM

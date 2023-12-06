@@ -7,7 +7,7 @@ excerpt: "Dr. Caleb Scharf is the director of the multidisciplinary Columbia Ast
   \ life, and to detect the presence of that life\u2014an effort that falls under\
   \ the banner of astrobiology."
 id: e406
-image: https://i.ytimg.com/vi/xmiSimXhuMA/hqdefault.jpg
+image: https://i.ytimg.com/vi/xmiSimXhuMA/maxresdefault.jpg
 publishDate: 2020-12-18
 title: '#406 Caleb Scharf: Life, on Earth and Elsewhere'
 youtubeid: xmiSimXhuMA

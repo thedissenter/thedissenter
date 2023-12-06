@@ -5,7 +5,7 @@ excerpt: 'Dr. Nichola Raihani is Professor of Evolution and Behavior at Universi
   was elected Fellow of the Royal Society of Biology in 2019. Her first book is The
   Social Instinct: How Cooperation Shaped the World.'
 id: e516
-image: https://i.ytimg.com/vi/Mat0n4YnW34/hqdefault.jpg
+image: https://i.ytimg.com/vi/Mat0n4YnW34/maxresdefault.jpg
 publishDate: 2021-09-02
 title: '#516 Nichola Raihani - The Social Instinct: How Cooperation Shaped the World'
 youtubeid: Mat0n4YnW34

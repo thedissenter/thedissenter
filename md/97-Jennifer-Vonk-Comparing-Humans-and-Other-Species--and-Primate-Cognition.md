@@ -6,7 +6,7 @@ excerpt: 'Dr. Jennifer Vonk is Professor of comparative/cognitive psychology at 
   cognitive continuities and discontinuities between humans and both closely and distantly
   related species. '
 id: e97
-image: https://i.ytimg.com/vi/oNgvVrlmg6M/hqdefault.jpg
+image: https://i.ytimg.com/vi/oNgvVrlmg6M/maxresdefault.jpg
 publishDate: 2019-06-17
 title: '#97 Jennifer Vonk: Comparing Humans and Other Species, and Primate Cognition'
 youtubeid: oNgvVrlmg6M

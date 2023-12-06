@@ -9,7 +9,7 @@ excerpt: "Dr. Christopher Kavanagh is an associate professor in the College of C
   \ and the bonding effects of shared dysphoria. He is co-host of the Decoding the\
   \ Gurus podcast."
 id: e435
-image: https://i.ytimg.com/vi/NZezY2aYAZo/hqdefault.jpg
+image: https://i.ytimg.com/vi/NZezY2aYAZo/maxresdefault.jpg
 publishDate: 2021-02-25
 title: '#435 Ghristopher Kavanagh: Religion, Rituals, Belief in Japanese Society,
   and WEIRD Psychology'

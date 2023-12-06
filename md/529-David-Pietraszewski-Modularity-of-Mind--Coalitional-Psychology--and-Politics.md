@@ -9,7 +9,7 @@ excerpt: Dr. David Pietraszewski is Research Scientist at the Max Planck Institu
   level of mechanisms (or functions). He also does theoretical work to address common
   confusions surrounding this approach.
 id: e529
-image: https://i.ytimg.com/vi/5v1qKir4nKE/hqdefault.jpg
+image: https://i.ytimg.com/vi/5v1qKir4nKE/maxresdefault.jpg
 publishDate: 2021-10-01
 title: '#529 David Pietraszewski: Modularity of Mind, Coalitional Psychology, and
   Politics'

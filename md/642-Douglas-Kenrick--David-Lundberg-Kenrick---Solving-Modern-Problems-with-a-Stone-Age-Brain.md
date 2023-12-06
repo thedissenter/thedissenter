@@ -3,7 +3,7 @@ draft: false
 excerpt: 'Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona
   State University.   '
 id: e642
-image: https://i.ytimg.com/vi/ZNpvj4pfwsg/hqdefault.jpg
+image: https://i.ytimg.com/vi/ZNpvj4pfwsg/maxresdefault.jpg
 publishDate: 2022-06-23
 title: '#642 Douglas Kenrick & David Lundberg-Kenrick - Solving Modern Problems with
   a Stone-Age Brain'

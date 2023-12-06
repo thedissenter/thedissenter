@@ -9,7 +9,7 @@ excerpt: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the Unive
   She is the author of Unassailable Ideas: How Unwritten Rules and Social Media Shape
   Discourse in American Higher Education.'
 id: e477
-image: https://i.ytimg.com/vi/XvMfykZ0Qso/hqdefault.jpg
+image: https://i.ytimg.com/vi/XvMfykZ0Qso/maxresdefault.jpg
 publishDate: 2021-06-03
 title: '#477 Ilana Redstone - Unassailable Ideas, Social Media, and Discourse in American
   Higher Education'

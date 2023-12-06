@@ -6,7 +6,7 @@ excerpt: 'Dr. Nick Enfield is Professor and Chair of Linguistics at the Universi
   in mainland Southeast Asia, especially Laos. His latest book is Language vs. Reality:
   Why Language Is Good for Lawyers and Bad for Scientists.'
 id: e679
-image: https://i.ytimg.com/vi/yzIPEHvZpEU/hqdefault.jpg
+image: https://i.ytimg.com/vi/yzIPEHvZpEU/maxresdefault.jpg
 publishDate: 2022-09-16
 title: '#679 Nick Enfield - Language vs. Reality: Why Language Is Good for Lawyers
   and Bad for Scientists'

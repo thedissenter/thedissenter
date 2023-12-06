@@ -4,7 +4,7 @@ excerpt: Dr. Robert Talisse is W. Alton Jones Professor of Philosophy at Vanderb
   University. His main area of research is political philosophy, with an emphasis
   on democratic theory and liberalism.
 id: e727
-image: https://i.ytimg.com/vi/c1Ie2weRg2c/hqdefault.jpg
+image: https://i.ytimg.com/vi/c1Ie2weRg2c/maxresdefault.jpg
 publishDate: 2023-01-06
 title: '#727 Robert Talisse: Political Philosophy, Pragmatism, Democracy, and Liberalism'
 youtubeid: c1Ie2weRg2c

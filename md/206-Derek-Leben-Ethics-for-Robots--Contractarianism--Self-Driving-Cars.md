@@ -8,7 +8,7 @@ excerpt: Dr. Derek Leben is Associate Professor of Philosophy at the University 
   be productively applied to autonomous vehicles, medical technologies, and weapons
   systems.
 id: e206
-image: https://i.ytimg.com/vi/oMglddu8IaU/hqdefault.jpg
+image: https://i.ytimg.com/vi/oMglddu8IaU/maxresdefault.jpg
 publishDate: 2019-07-22
 title: '#206 Derek Leben: Ethics for Robots, Contractarianism, Self-Driving Cars'
 youtubeid: oMglddu8IaU

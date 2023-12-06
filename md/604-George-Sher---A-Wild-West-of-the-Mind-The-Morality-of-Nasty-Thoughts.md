@@ -5,7 +5,7 @@ excerpt: 'Dr. George Sher is Herbert S. Autrey Professor of Humanities and Profe
   two main topics: responsibility and distributive justice. He is the author of several
   books, the most recent one being A Wild West of the Mind.'
 id: e604
-image: https://i.ytimg.com/vi/eUPAjrB0v0c/hqdefault.jpg
+image: https://i.ytimg.com/vi/eUPAjrB0v0c/maxresdefault.jpg
 publishDate: 2022-03-25
 title: '#604 George Sher - A Wild West of the Mind; The Morality of Nasty Thoughts'
 youtubeid: eUPAjrB0v0c

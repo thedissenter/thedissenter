@@ -7,7 +7,7 @@ excerpt: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus o
   of international law. He is the author of Our Moral Fate: Evolution and the Escape
   from Tribalism.'
 id: e683
-image: https://i.ytimg.com/vi/gZbbD40FWuw/hqdefault.jpg
+image: https://i.ytimg.com/vi/gZbbD40FWuw/maxresdefault.jpg
 publishDate: 2022-09-26
 title: '#683 Allen Buchanan - Our Moral Fate: Evolution and the Escape from Tribalism'
 youtubeid: gZbbD40FWuw

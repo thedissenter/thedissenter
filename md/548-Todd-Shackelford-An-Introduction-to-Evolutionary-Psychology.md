@@ -6,7 +6,7 @@ excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psycholo
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.
 id: e548
-image: https://i.ytimg.com/vi/ENgFFig-0Co/hqdefault.jpg
+image: https://i.ytimg.com/vi/ENgFFig-0Co/maxresdefault.jpg
 publishDate: 2021-11-15
 title: '#548 Todd Shackelford: An Introduction to Evolutionary Psychology'
 youtubeid: ENgFFig-0Co

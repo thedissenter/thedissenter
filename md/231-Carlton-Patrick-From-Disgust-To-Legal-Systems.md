@@ -8,7 +8,7 @@ excerpt: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the Col
   in legally-relevant contexts. He is the coauthor, together with Debra Lieberman,
   of the book Objection: Disgust, Morality, and the Law.'
 id: e231
-image: https://i.ytimg.com/vi/9APpLDc5tsw/hqdefault.jpg
+image: https://i.ytimg.com/vi/9APpLDc5tsw/maxresdefault.jpg
 publishDate: 2019-09-19
 title: '#231 Carlton Patrick: From Disgust To Legal Systems'
 youtubeid: 9APpLDc5tsw

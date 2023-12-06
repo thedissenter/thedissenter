@@ -8,7 +8,7 @@ excerpt: 'Dr. Patrick Savage is Associate Professor in the Faculty of Environmen
   including Nature, Proceedings of the National Academy of Sciences of the USA, The
   New York Times, and The Economist. '
 id: e694
-image: https://i.ytimg.com/vi/hN6M8zinWhY/hqdefault.jpg
+image: https://i.ytimg.com/vi/hN6M8zinWhY/maxresdefault.jpg
 publishDate: 2022-10-21
 title: '#694 Patrick Savage: Musicology, the Evolution of Music, and Cross-Cultural
   Studies'

@@ -5,7 +5,7 @@ excerpt: 'Dr. Michael Bang Petersen is Professor of Political Science at Aarhus 
   investigates how the adaptive challenges of human evolutionary history shape the
   way modern citizens think about mass politics. '
 id: e120
-image: https://i.ytimg.com/vi/24XvyCmDSgQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/24XvyCmDSgQ/maxresdefault.jpg
 publishDate: 2019-07-22
 title: '#120 Michael Bang Petersen: Evolution, Emotions, Groups, and Politics'
 youtubeid: 24XvyCmDSgQ

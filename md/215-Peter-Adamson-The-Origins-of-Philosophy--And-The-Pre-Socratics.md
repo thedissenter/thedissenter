@@ -9,7 +9,7 @@ excerpt: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian U
   achievements of young scholars of distinction and promise based in UK institutions"
   and received a grant from the same institution in 2010.
 id: e215
-image: https://i.ytimg.com/vi/KFWWSB4u8zs/hqdefault.jpg
+image: https://i.ytimg.com/vi/KFWWSB4u8zs/maxresdefault.jpg
 publishDate: 2019-08-12
 title: '#215 Peter Adamson: The Origins of Philosophy, And The Pre-Socratics'
 youtubeid: KFWWSB4u8zs

@@ -7,7 +7,7 @@ excerpt: 'Dr. Steven Pinker is a Johnstone Family Professor in the Department of
   The Stuff of Thought, The Better Angels of Our Nature, The Sense of Style, and most
   recently, Enlightenment Now: The Case for Reason, Science, Humanism, and Progress.'
 id: e305
-image: https://i.ytimg.com/vi/qs9VQlmZwMc/hqdefault.jpg
+image: https://i.ytimg.com/vi/qs9VQlmZwMc/maxresdefault.jpg
 publishDate: 2020-03-09
 title: '#305 Steven Pinker: The Enlightenment, Cultural Evolution, and the Human Mind'
 youtubeid: qs9VQlmZwMc

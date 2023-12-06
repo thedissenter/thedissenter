@@ -6,7 +6,7 @@ excerpt: 'Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor and 
   that present cutting-edge psychoneurobiological knowledge in an enjoyable, easy-to-read
   format. His latest book is Determined: A Science of Life without Free Will.'
 id: e848
-image: https://i.ytimg.com/vi/_XUzWQJzxJg/hqdefault.jpg
+image: https://i.ytimg.com/vi/_XUzWQJzxJg/maxresdefault.jpg
 publishDate: 2023-10-16
 title: '#848 Robert Sapolsky - Determined: A Science of Life without Free Will'
 youtubeid: _XUzWQJzxJg

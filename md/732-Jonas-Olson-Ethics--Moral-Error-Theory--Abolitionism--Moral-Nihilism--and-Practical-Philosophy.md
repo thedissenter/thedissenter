@@ -3,7 +3,7 @@ draft: false
 excerpt: 'Dr. Jonas Olson is Professor of Practical Philosophy at Stockholm University.
   His research areas include metaethics and related subjects.  '
 id: e732
-image: https://i.ytimg.com/vi/9HWdsNVtwi8/hqdefault.jpg
+image: https://i.ytimg.com/vi/9HWdsNVtwi8/maxresdefault.jpg
 publishDate: 2023-01-19
 title: '#732 Jonas Olson: Ethics, Moral Error Theory, Abolitionism, Moral Nihilism,
   and Practical Philosophy'

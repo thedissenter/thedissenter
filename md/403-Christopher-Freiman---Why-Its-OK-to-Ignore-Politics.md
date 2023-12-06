@@ -8,7 +8,7 @@ excerpt: "Dr. Christopher Freiman is Associate Professor of Philosophy at the Co
   \ Philosophy and Phenomenological Research, The Journal of Ethics and Social Philosophy,\
   \ Politics, Philosophy, and Economics, and The Oxford Handbook of Political Philosophy."
 id: e403
-image: https://i.ytimg.com/vi/vayjt6i3QYc/hqdefault.jpg
+image: https://i.ytimg.com/vi/vayjt6i3QYc/maxresdefault.jpg
 publishDate: 2020-12-11
 title: '#403 Christopher Freiman - Why It''s OK to Ignore Politics'
 youtubeid: vayjt6i3QYc

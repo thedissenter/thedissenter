@@ -13,7 +13,7 @@ excerpt: "Dr. Joseph Carroll is a scholar in the field of literature and evoluti
   \ Darwin\u2019s On the Origin of Species, co-edited volumes 1 and 2 of The Evolutionary\
   \ Review, and co-edited Evolution, Literature, and Film: A Reader."
 id: e172
-image: https://i.ytimg.com/vi/8XNVMVoVGdw/hqdefault.jpg
+image: https://i.ytimg.com/vi/8XNVMVoVGdw/maxresdefault.jpg
 publishDate: 2019-05-03
 title: '#172 Joseph Carroll: Literary Darwinism, Postmodernism, And The Humanities'
 youtubeid: 8XNVMVoVGdw

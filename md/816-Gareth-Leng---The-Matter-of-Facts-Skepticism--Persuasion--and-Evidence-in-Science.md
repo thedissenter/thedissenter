@@ -7,7 +7,7 @@ excerpt: 'Dr. Gareth Leng was one of the founders in 1983 of the British Society
   and a former President of the International Neuroendocrine Federation. He is the
   author of The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.'
 id: e816
-image: https://i.ytimg.com/vi/bqNT5xdAQyM/hqdefault.jpg
+image: https://i.ytimg.com/vi/bqNT5xdAQyM/maxresdefault.jpg
 publishDate: 2023-08-03
 title: '#816 Gareth Leng - The Matter of Facts: Skepticism, Persuasion, and Evidence
   in Science'

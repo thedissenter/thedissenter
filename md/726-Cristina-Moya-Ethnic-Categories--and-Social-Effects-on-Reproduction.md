@@ -6,7 +6,7 @@ excerpt: 'Dr. Cristina Moya is Assistant Professor of Anthropology at the Univer
   research are: intergroup interactions and social cognition; and cross-cultural variation
   in social effects on reproduction.'
 id: e726
-image: https://i.ytimg.com/vi/2M7tiqzMCJ0/hqdefault.jpg
+image: https://i.ytimg.com/vi/2M7tiqzMCJ0/maxresdefault.jpg
 publishDate: 2023-01-05
 title: '#726 Cristina Moya: Ethnic Categories, and Social Effects on Reproduction'
 youtubeid: 2M7tiqzMCJ0

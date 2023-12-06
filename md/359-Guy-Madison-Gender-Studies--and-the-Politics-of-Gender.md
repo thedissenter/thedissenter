@@ -4,7 +4,7 @@ excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at Univer
   \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\
   \ Biology. "
 id: e359
-image: https://i.ytimg.com/vi/9V68FlZDQqA/hqdefault.jpg
+image: https://i.ytimg.com/vi/9V68FlZDQqA/maxresdefault.jpg
 publishDate: 2020-08-31
 title: '#359 Guy Madison: Gender Studies, and the Politics of Gender'
 youtubeid: 9V68FlZDQqA

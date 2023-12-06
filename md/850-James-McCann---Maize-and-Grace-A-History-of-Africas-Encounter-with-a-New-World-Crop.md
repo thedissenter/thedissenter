@@ -9,7 +9,7 @@ excerpt: "Dr. James McCann is Professor Emeritus of History at Boston University
   s Encounter with a New World Crop; People of the Plow: An Agricultural History of\
   \ Ethiopia; and From Poverty to Famine in Northeast Ethiopia: Rural History, 1900-1995."
 id: e850
-image: https://i.ytimg.com/vi/9Aq460SL0vk/hqdefault.jpg
+image: https://i.ytimg.com/vi/9Aq460SL0vk/maxresdefault.jpg
 publishDate: 2023-10-20
 title: "#850 James McCann - Maize and Grace: A History of Africa\u2019s Encounter\
   \ with a New World Crop"

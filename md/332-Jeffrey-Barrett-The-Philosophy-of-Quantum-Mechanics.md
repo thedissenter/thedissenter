@@ -8,7 +8,7 @@ excerpt: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philos
   \ inquiry. In particular, he has been modeling the coevolution of descriptive language\
   \ and predictive theory in the context of Skyrms-Lewis sender-receiver games. "
 id: e332
-image: https://i.ytimg.com/vi/hVp1RjCu1nU/hqdefault.jpg
+image: https://i.ytimg.com/vi/hVp1RjCu1nU/maxresdefault.jpg
 publishDate: 2020-05-11
 title: '#332 Jeffrey Barrett: The Philosophy of Quantum Mechanics'
 youtubeid: hVp1RjCu1nU

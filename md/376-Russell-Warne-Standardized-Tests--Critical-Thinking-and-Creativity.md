@@ -9,7 +9,7 @@ excerpt: 'Dr. Russell T. Warne is Associate Professor of Psychology at Utah Vall
   for the Social Sciences: A General Linear Model Approach. His next book is In the
   Know: Debunking 35 Myths About Human Intelligence.'
 id: e376
-image: https://i.ytimg.com/vi/c9owI60ucNg/hqdefault.jpg
+image: https://i.ytimg.com/vi/c9owI60ucNg/maxresdefault.jpg
 publishDate: 2020-10-09
 title: '#376 Russell Warne: Standardized Tests, Critical Thinking and Creativity'
 youtubeid: c9owI60ucNg

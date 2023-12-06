@@ -7,7 +7,7 @@ excerpt: "Dr. David Christian is Professor at the Department of Modern History, 
   \ He\u2019s the author of several books, including Maps of Time: An Introduction\
   \ to Big History, and the recently published Origin Story: A Big History of Everything. "
 id: e76
-image: https://i.ytimg.com/vi/no4hkpQiTEw/hqdefault.jpg
+image: https://i.ytimg.com/vi/no4hkpQiTEw/maxresdefault.jpg
 publishDate: 2019-05-17
 title: '#76 David Christian: Big History, and the Unity of Knowledge'
 youtubeid: no4hkpQiTEw

@@ -12,7 +12,7 @@ excerpt: "Dr. James Costa is Executive Director of the Highlands Biological Stat
   \ for the Advancement of Science/Subaru Prize \u2014 and the co-edited volume An\
   \ Alfred Russel Wallace Companion (Chicago, 2019)."
 id: e517
-image: https://i.ytimg.com/vi/ct4KCl58bak/hqdefault.jpg
+image: https://i.ytimg.com/vi/ct4KCl58bak/maxresdefault.jpg
 publishDate: 2021-09-03
 title: '#517 James Costa: Darwin, Wallace, The Origin of Species, and The Descent
   of Man (150th anniversary)'

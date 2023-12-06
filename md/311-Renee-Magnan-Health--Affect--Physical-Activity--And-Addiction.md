@@ -11,7 +11,7 @@ excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental T
   \ perspectives can provide important insight to identify targets for interventions\
   \ to prevent negative health consequences and promote wellness."
 id: e311
-image: https://i.ytimg.com/vi/kAJKw5rMzQM/hqdefault.jpg
+image: https://i.ytimg.com/vi/kAJKw5rMzQM/maxresdefault.jpg
 publishDate: 2020-03-23
 title: '#311 Renee Magnan: Health, Affect, Physical Activity, And Addiction'
 youtubeid: kAJKw5rMzQM

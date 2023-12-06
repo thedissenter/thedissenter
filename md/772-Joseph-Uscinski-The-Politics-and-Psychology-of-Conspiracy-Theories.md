@@ -6,7 +6,7 @@ excerpt: 'Dr. Joseph Uscinski is Professor of Political Science at the Universit
   2014) and editor of Conspiracy Theories and the People Who Believe Them (Oxford,
   2018). His textbook on conspiracy theories is Conspiracy Theories: A Primer.'
 id: e772
-image: https://i.ytimg.com/vi/vQHpPco4laY/hqdefault.jpg
+image: https://i.ytimg.com/vi/vQHpPco4laY/maxresdefault.jpg
 publishDate: 2023-04-21
 title: '#772 Joseph Uscinski: The Politics and Psychology of Conspiracy Theories'
 youtubeid: vQHpPco4laY

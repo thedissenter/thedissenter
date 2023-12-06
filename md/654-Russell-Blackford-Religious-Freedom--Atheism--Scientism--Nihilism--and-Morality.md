@@ -7,7 +7,7 @@ excerpt: 'Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emer
   the Secular State, 50 Great Myths About Atheism, The Mystery of Moral Authority,
   and The Tyranny of Opinion: Conformity and the Future of Liberalism.'
 id: e654
-image: https://i.ytimg.com/vi/ga7g94VOJjg/hqdefault.jpg
+image: https://i.ytimg.com/vi/ga7g94VOJjg/maxresdefault.jpg
 publishDate: 2022-07-21
 title: '#654 Russell Blackford: Religious Freedom, Atheism, Scientism, Nihilism, and
   Morality'

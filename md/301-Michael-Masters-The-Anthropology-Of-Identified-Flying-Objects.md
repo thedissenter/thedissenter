@@ -10,7 +10,7 @@ excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His 
   a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the
   UFO Phenomenon.'
 id: e301
-image: https://i.ytimg.com/vi/j0r6ig0S3Jc/hqdefault.jpg
+image: https://i.ytimg.com/vi/j0r6ig0S3Jc/maxresdefault.jpg
 publishDate: 2020-02-28
 title: '#301 Michael Masters: The Anthropology Of Identified Flying Objects'
 youtubeid: j0r6ig0S3Jc

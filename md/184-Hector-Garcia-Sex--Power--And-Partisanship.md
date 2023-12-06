@@ -10,7 +10,7 @@ excerpt: "Dr. Hector A. Garcia is a clinical psychologist specializing in the tr
   \ Oppression, and Sex, Power, and Partisanship: How Evolutionary Science Makes Sense\
   \ of Our Political Divide."
 id: e184
-image: https://i.ytimg.com/vi/56X7BO1AZk0/hqdefault.jpg
+image: https://i.ytimg.com/vi/56X7BO1AZk0/maxresdefault.jpg
 publishDate: 2019-05-31
 title: '#184 Hector Garcia: Sex, Power, And Partisanship'
 youtubeid: 56X7BO1AZk0

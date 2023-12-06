@@ -9,7 +9,7 @@ excerpt: Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and 
   New Guinea, and has written widely on the nature and variation in human sexual expression
   in Papua New Guinea, Melanesia, and across cultures.
 id: e678
-image: https://i.ytimg.com/vi/JmFEd1LpQxA/hqdefault.jpg
+image: https://i.ytimg.com/vi/JmFEd1LpQxA/maxresdefault.jpg
 publishDate: 2022-09-15
 title: '#678 Gilbert Herdt: The Anthropology of Sexual Orientation'
 youtubeid: JmFEd1LpQxA

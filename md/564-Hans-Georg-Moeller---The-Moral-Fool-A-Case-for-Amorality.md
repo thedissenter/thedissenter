@@ -6,7 +6,7 @@ excerpt: 'Dr Hans-Georg Moeller is a professor in the Philosophy and Religious S
   Social Systems Theory). He is the author of several books, including The Moral Fool:
   A Case for Amorality.'
 id: e564
-image: https://i.ytimg.com/vi/dxZU0p9SdhA/hqdefault.jpg
+image: https://i.ytimg.com/vi/dxZU0p9SdhA/maxresdefault.jpg
 publishDate: 2021-12-23
 title: '#564 Hans-Georg Moeller - The Moral Fool: A Case for Amorality'
 youtubeid: dxZU0p9SdhA

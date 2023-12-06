@@ -8,7 +8,7 @@ excerpt: 'Dr. John Baird Callicott is Distinguished Research Professor Emeritus 
   Ethics and Philosophy, and Greek Natural Philosophy: The Presocratics and Their
   Importance for Environmental Philosophy.'
 id: e616
-image: https://i.ytimg.com/vi/m45rOxDio9k/hqdefault.jpg
+image: https://i.ytimg.com/vi/m45rOxDio9k/maxresdefault.jpg
 publishDate: 2022-04-22
 title: '#616 John Baird Callicott: Environmental Philosophy, Ethics, and Climate Change'
 youtubeid: m45rOxDio9k

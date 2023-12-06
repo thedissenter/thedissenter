@@ -9,7 +9,7 @@ excerpt: "Dr. Dwight Read is Distinguished Professor Emeritus of Anthropology at
   \ and How Culture Makes Us Human: Primate Social Evolution and the Formation of\
   \ Human Societies."
 id: e210
-image: https://i.ytimg.com/vi/M2et8hKeUkE/hqdefault.jpg
+image: https://i.ytimg.com/vi/M2et8hKeUkE/maxresdefault.jpg
 publishDate: 2019-08-01
 title: '#210 Dwight Read: Cultural Kin Systems, And The Evolution of Human Sociality'
 youtubeid: M2et8hKeUkE

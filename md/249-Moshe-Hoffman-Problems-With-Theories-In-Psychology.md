@@ -9,7 +9,7 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
   also co-designed and teaches "Game Theory and Social Behavior" which lays out a
   lot of the evidence and models behind this approach.
 id: e249
-image: https://i.ytimg.com/vi/m9Uc0e130hA/hqdefault.jpg
+image: https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg
 publishDate: 2019-10-31
 title: '#249 Moshe Hoffman: Problems With Theories In Psychology'
 youtubeid: m9Uc0e130hA

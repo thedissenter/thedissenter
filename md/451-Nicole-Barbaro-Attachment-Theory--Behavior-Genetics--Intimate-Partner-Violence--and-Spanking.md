@@ -5,7 +5,7 @@ excerpt: Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an A
   Behavior and Evolution Society. Her interests are in human sexual psychology and
   behavior, including application of life history theory and sperm competition theory.
 id: e451
-image: https://i.ytimg.com/vi/llVelypdD0s/hqdefault.jpg
+image: https://i.ytimg.com/vi/llVelypdD0s/maxresdefault.jpg
 publishDate: 2021-04-02
 title: '#451 Nicole Barbaro: Attachment Theory, Behavior Genetics, Intimate Partner
   Violence, and Spanking'

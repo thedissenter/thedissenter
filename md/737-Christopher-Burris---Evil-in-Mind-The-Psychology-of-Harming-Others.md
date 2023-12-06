@@ -8,7 +8,7 @@ excerpt: 'Dr. Christopher Burris is a Professor of Psychology at St. Jerome''s U
   motivated behavior across the spectrum of severity. He is the author of Evil in
   Mind: The Psychology of Harming Others.'
 id: e737
-image: https://i.ytimg.com/vi/L5Jh32T1tMo/hqdefault.jpg
+image: https://i.ytimg.com/vi/L5Jh32T1tMo/maxresdefault.jpg
 publishDate: 2023-01-30
 title: '#737 Christopher Burris - Evil in Mind: The Psychology of Harming Others'
 youtubeid: L5Jh32T1tMo

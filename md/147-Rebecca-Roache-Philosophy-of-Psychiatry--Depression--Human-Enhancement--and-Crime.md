@@ -10,7 +10,7 @@ excerpt: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway,
   \ Ethics, and since 2007 she has also been a contributor to Oxford's Practical Ethics:\
   \ Ethics in the News blog."
 id: e147
-image: https://i.ytimg.com/vi/lE5VbXXZS50/hqdefault.jpg
+image: https://i.ytimg.com/vi/lE5VbXXZS50/maxresdefault.jpg
 publishDate: 2019-03-07
 title: '#147 Rebecca Roache: Philosophy of Psychiatry, Depression, Human Enhancement,
   and Crime'

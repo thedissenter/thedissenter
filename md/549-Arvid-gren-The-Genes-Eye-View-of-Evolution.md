@@ -4,7 +4,7 @@ excerpt: "Dr. Arvid \xC5gren is Wenner-Gren Fellow in the Department of Evolutio
   \ Biology at Uppsala University. He is an evolutionary biologist studying genomic\
   \ conflicts. He is the author of The Gene's-Eye View of Evolution."
 id: e549
-image: https://i.ytimg.com/vi/f5zIinKYCEA/hqdefault.jpg
+image: https://i.ytimg.com/vi/f5zIinKYCEA/maxresdefault.jpg
 publishDate: 2021-11-18
 title: "#549 Arvid \xC5gren: The Gene's-Eye View of Evolution"
 youtubeid: f5zIinKYCEA

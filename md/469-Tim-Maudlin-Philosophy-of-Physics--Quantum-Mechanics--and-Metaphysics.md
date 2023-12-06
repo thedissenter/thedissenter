@@ -7,7 +7,7 @@ excerpt: Dr. Tim Maudlin is Professor of Philosophy at New York University. Her 
   des Sciences and the Foundational Questions Institute (FQXi). He has been a Guggenheim
   Fellow.
 id: e469
-image: https://i.ytimg.com/vi/FnBC9JA9TVY/hqdefault.jpg
+image: https://i.ytimg.com/vi/FnBC9JA9TVY/maxresdefault.jpg
 publishDate: 2021-05-14
 title: '#469 Tim Maudlin: Philosophy of Physics, Quantum Mechanics, and Metaphysics'
 youtubeid: FnBC9JA9TVY

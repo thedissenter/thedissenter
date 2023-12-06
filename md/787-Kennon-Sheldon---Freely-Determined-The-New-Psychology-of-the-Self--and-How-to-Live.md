@@ -9,7 +9,7 @@ excerpt: 'Dr. Kennon Sheldon is Curator''s Distinguished Professor in the Depart
   being Freely Determined: What the New Psychology of the Self Teaches Us About How
   to Live.'
 id: e787
-image: https://i.ytimg.com/vi/Xb5frvOUjGo/hqdefault.jpg
+image: https://i.ytimg.com/vi/Xb5frvOUjGo/maxresdefault.jpg
 publishDate: 2023-05-26
 title: '#787 Kennon Sheldon - Freely Determined; The New Psychology of the Self, and
   How to Live'

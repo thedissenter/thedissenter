@@ -6,7 +6,7 @@ excerpt: Dr. John Petrocelli is Professor of Psychology at Wake Forest Universit
   strength and persuasion, bullshitting, counterfactual thinking and metacognition.
   He is the author of The Life-Changing Science of Detecting Bullshit.
 id: e591
-image: https://i.ytimg.com/vi/TXk84VGJPhM/hqdefault.jpg
+image: https://i.ytimg.com/vi/TXk84VGJPhM/maxresdefault.jpg
 publishDate: 2022-02-24
 title: '#591 John Petrocelli - The Life-Changing Science of Detecting Bullshit'
 youtubeid: TXk84VGJPhM

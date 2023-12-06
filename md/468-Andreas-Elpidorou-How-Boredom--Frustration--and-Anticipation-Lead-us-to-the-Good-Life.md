@@ -9,7 +9,7 @@ excerpt: 'Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the U
   and Empirical Approaches (Routledge, 2016), and the author of the recent book, Propelled:
   How Boredom, Frustration, and Anticipation Lead us to the Good Life.'
 id: e468
-image: https://i.ytimg.com/vi/2NiUBd-ykOs/hqdefault.jpg
+image: https://i.ytimg.com/vi/2NiUBd-ykOs/maxresdefault.jpg
 publishDate: 2021-05-13
 title: '#468 Andreas Elpidorou: How Boredom, Frustration, and Anticipation Lead us
   to the Good Life'

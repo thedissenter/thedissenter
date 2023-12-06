@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'GRAVADA NO DIA 23 DE DEZEMBRO DE 2019.  '
 id: e303
-image: https://i.ytimg.com/vi/XTU3QFfI8u0/hqdefault.jpg
+image: https://i.ytimg.com/vi/XTU3QFfI8u0/maxresdefault.jpg
 publishDate: 2020-03-05
 title: "#303 Marco Neves: Hist\xF3ria e Evolu\xE7\xE3o do Portugu\xEAs, o AO, e os\
   \ Nazis da Gram\xE1tica"

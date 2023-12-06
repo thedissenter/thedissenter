@@ -10,7 +10,7 @@ excerpt: "Dr. Daniel Lieberman is Edwin M. Lerner II Professor of Biological Sci
   \ and treat musculoskeletal diseases.  He\u2019s the author of the books The Evolution\
   \ of the Human Head, and The Story of the Human Body: Evolution, Health, and Disease."
 id: e279
-image: https://i.ytimg.com/vi/jXoQr7JVaXo/hqdefault.jpg
+image: https://i.ytimg.com/vi/jXoQr7JVaXo/maxresdefault.jpg
 publishDate: 2020-01-09
 title: '#279 Daniel Lieberman: The Evolution of Bipedalism, and Modern Evolutionary
   Mismatch'

@@ -10,7 +10,7 @@ excerpt: "Dr. Clark McCauley is a Research Professor of Psychology and co-direct
   \ Political Murder (2006), Friction: How Conflict Radicalizes Them and Us (2011),\
   \ and The Marvel of Martyrdom: The Power of Self-Sacrifice in a Selfish World (2018)."
 id: e199
-image: https://i.ytimg.com/vi/9YoHF6wvtvs/hqdefault.jpg
+image: https://i.ytimg.com/vi/9YoHF6wvtvs/maxresdefault.jpg
 publishDate: 2019-07-05
 title: '#199 Clark McCauley: The Psychology of Political Radicalization'
 youtubeid: 9YoHF6wvtvs

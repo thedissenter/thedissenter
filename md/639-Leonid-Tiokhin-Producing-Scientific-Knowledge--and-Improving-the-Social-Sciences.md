@@ -9,7 +9,7 @@ excerpt: 'Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study
   scientific efficiency and reliability, and how we can improve the recognition and
   reward structures in science. '
 id: e639
-image: https://i.ytimg.com/vi/0TalDukieSA/hqdefault.jpg
+image: https://i.ytimg.com/vi/0TalDukieSA/maxresdefault.jpg
 publishDate: 2022-06-16
 title: '#639 Leonid Tiokhin: Producing Scientific Knowledge, and Improving the Social
   Sciences'

@@ -7,7 +7,7 @@ excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished Professor
   \ fellow. He\u2019s also the author of several books, including Culture of Honor,\
   \ The Geography of Thought, and Mindware."
 id: e73
-image: https://i.ytimg.com/vi/xMxhR-lCy1U/hqdefault.jpg
+image: https://i.ytimg.com/vi/xMxhR-lCy1U/maxresdefault.jpg
 publishDate: 2019-05-14
 title: '#73 Richard Nisbett: What Social Psychology Tells Us About Cognition'
 youtubeid: xMxhR-lCy1U

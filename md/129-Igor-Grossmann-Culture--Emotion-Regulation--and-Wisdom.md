@@ -10,7 +10,7 @@ excerpt: "Dr. Igor Grossmann is Associate Professor of Psychology at the Univers
   \ exploring the interplay of sociocultural factors for adaptive emotion regulation\
   \ and wisdom in the face of daily stressors."
 id: e129
-image: https://i.ytimg.com/vi/qXtgnNfsRQ4/hqdefault.jpg
+image: https://i.ytimg.com/vi/qXtgnNfsRQ4/maxresdefault.jpg
 publishDate: 2019-08-06
 title: '#129 Igor Grossmann: Culture, Emotion Regulation, and Wisdom'
 youtubeid: qXtgnNfsRQ4

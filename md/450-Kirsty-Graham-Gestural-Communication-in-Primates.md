@@ -8,7 +8,7 @@ excerpt: Dr. Kirsty Graham is Research Associate at the University of St. Andrew
   meanings or ambiguity of meanings for wild bonobo gestural communication provides
   insights into the evolution of our own complex communication system.
 id: e450
-image: https://i.ytimg.com/vi/40D_v4P5C7s/hqdefault.jpg
+image: https://i.ytimg.com/vi/40D_v4P5C7s/maxresdefault.jpg
 publishDate: 2021-04-01
 title: '#450 Kirsty Graham: Gestural Communication in Primates'
 youtubeid: 40D_v4P5C7s

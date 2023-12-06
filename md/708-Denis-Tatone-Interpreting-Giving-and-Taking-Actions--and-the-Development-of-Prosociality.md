@@ -7,7 +7,7 @@ excerpt: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development 
   and structures. He strives to develop a mechanistically tractable account of how
   humans from the first years of life form and flexibly transition among these representations.
 id: e708
-image: https://i.ytimg.com/vi/QPJjyIkSjPo/hqdefault.jpg
+image: https://i.ytimg.com/vi/QPJjyIkSjPo/maxresdefault.jpg
 publishDate: 2022-11-24
 title: '#708 Denis Tatone: Interpreting Giving and Taking Actions, and the Development
   of Prosociality'

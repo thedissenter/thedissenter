@@ -11,7 +11,7 @@ excerpt: "Dr. Michela Massimi is Professor of Philosophy of Science in the Depar
   \ of science, especially modern physics. Dr. Massimi is the author of several books,\
   \ including Perspectival Realism, which has won the 2023 Lakatos Award."
 id: e846
-image: https://i.ytimg.com/vi/KwTyeSVSXG4/hqdefault.jpg
+image: https://i.ytimg.com/vi/KwTyeSVSXG4/maxresdefault.jpg
 publishDate: 2023-10-12
 title: '#846 Michela Massimi: Perspectival Realism'
 youtubeid: KwTyeSVSXG4

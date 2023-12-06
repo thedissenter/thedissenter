@@ -7,7 +7,7 @@ excerpt: 'Dr. Patrick Forscher is Assistant Professor of Psychology at the J. Wi
   including scale construction, meta-analysis, field research, and conventional laboratory
   studies.  '
 id: e125
-image: https://i.ytimg.com/vi/0ULIb2U7CJc/hqdefault.jpg
+image: https://i.ytimg.com/vi/0ULIb2U7CJc/maxresdefault.jpg
 publishDate: 2019-07-30
 title: '#125 Patrick Forscher: Implicit Bias, Stereotypes, and the Science Reform
   Movement'

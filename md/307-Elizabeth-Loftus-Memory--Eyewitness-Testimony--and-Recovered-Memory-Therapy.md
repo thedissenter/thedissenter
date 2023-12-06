@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'THIS IS AN AUDIO-ONLY INTERVIEW.  '
 id: e307
-image: https://i.ytimg.com/vi/jbRNhCDp5yU/hqdefault.jpg
+image: https://i.ytimg.com/vi/jbRNhCDp5yU/maxresdefault.jpg
 publishDate: 2020-03-13
 title: '#307 Elizabeth Loftus: Memory, Eyewitness Testimony, and Recovered Memory
   Therapy'

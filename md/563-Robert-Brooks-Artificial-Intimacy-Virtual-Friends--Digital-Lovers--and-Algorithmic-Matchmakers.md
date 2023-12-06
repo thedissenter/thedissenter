@@ -7,7 +7,7 @@ excerpt: "Dr. Robert Brooks is Professor of Evolution at the University of New S
   \ Roll: How Evolution has Shaped the Modern World, and, more recently, Artificial\
   \ Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers."
 id: e563
-image: https://i.ytimg.com/vi/qiSGH9UVokY/hqdefault.jpg
+image: https://i.ytimg.com/vi/qiSGH9UVokY/maxresdefault.jpg
 publishDate: 2021-12-20
 title: '#563 Robert Brooks Artificial Intimacy: Virtual Friends, Digital Lovers, and
   Algorithmic Matchmakers'

@@ -5,7 +5,7 @@ excerpt: Dr. Scott Claessens is a Postdoctoral Research Fellow at the University
   He uses methods from experimental economics and evolutionary game theory to shed
   light on how and why we give to others.
 id: e791
-image: https://i.ytimg.com/vi/OQS6zoqpWrQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/OQS6zoqpWrQ/maxresdefault.jpg
 publishDate: 2023-06-05
 title: '#791 Scott Claessens: Human Cooperation, Religiosity, and Cross-National Analyses'
 youtubeid: OQS6zoqpWrQ

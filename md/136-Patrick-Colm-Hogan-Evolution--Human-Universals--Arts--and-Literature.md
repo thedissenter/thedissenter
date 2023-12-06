@@ -7,7 +7,7 @@ excerpt: "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of
   \ and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity.\
   \  "
 id: e136
-image: https://i.ytimg.com/vi/pcbSQQEfiZc/hqdefault.jpg
+image: https://i.ytimg.com/vi/pcbSQQEfiZc/maxresdefault.jpg
 publishDate: 2019-02-08
 title: '#136 Patrick Colm Hogan: Evolution, Human Universals, Arts, and Literature'
 youtubeid: pcbSQQEfiZc

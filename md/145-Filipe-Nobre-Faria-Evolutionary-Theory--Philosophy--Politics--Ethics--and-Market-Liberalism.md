@@ -10,7 +10,7 @@ excerpt: "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher i
   s College London. His main research interest lies in applying the insights of the\
   \ behavioural and evolutionary sciences to issues in social and political philosophy."
 id: e145
-image: https://i.ytimg.com/vi/EqtijLQRPRU/hqdefault.jpg
+image: https://i.ytimg.com/vi/EqtijLQRPRU/maxresdefault.jpg
 publishDate: 2019-03-01
 title: '#145 Filipe Nobre Faria: Evolutionary Theory, Philosophy, Politics, Ethics,
   and Market Liberalism'

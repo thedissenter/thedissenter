@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e9
-image: https://i.ytimg.com/vi/19FM-_qShDw/hqdefault.jpg
+image: https://i.ytimg.com/vi/19FM-_qShDw/maxresdefault.jpg
 publishDate: 2019-02-15
 title: '#9 Michael Shermer: Heavens on Earth, Protopia and Pseudoscience'
 youtubeid: 19FM-_qShDw

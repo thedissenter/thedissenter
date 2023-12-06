@@ -13,7 +13,7 @@ excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Managemen
   \ and attitude theory and research, especially attitudinal selectivity in information\
   \ processing."
 id: e271
-image: https://i.ytimg.com/vi/gPsXpDIE0LA/hqdefault.jpg
+image: https://i.ytimg.com/vi/gPsXpDIE0LA/maxresdefault.jpg
 publishDate: 2019-12-20
 title: '#271 Alice Eagly: The Psychology Of Gender, And Gender Equality'
 youtubeid: gPsXpDIE0LA

@@ -10,7 +10,7 @@ excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virgi
   \ of religion, and neoDarwinian theories of culture. He is the author of Suicide:\
   \ The Social Causes of Self-Destruction."
 id: e562
-image: https://i.ytimg.com/vi/qF1ciw3yl_M/hqdefault.jpg
+image: https://i.ytimg.com/vi/qF1ciw3yl_M/maxresdefault.jpg
 publishDate: 2021-12-17
 title: '#562 Jason Manning - Suicide: The Social Causes of Self-Destruction'
 youtubeid: qF1ciw3yl_M

@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
 id: e571
-image: https://i.ytimg.com/vi/fxffd8Mgkj4/hqdefault.jpg
+image: https://i.ytimg.com/vi/fxffd8Mgkj4/maxresdefault.jpg
 publishDate: 2022-01-07
 title: "#571 S\xF3nia Frota: Aquisi\xE7\xE3o de Linguagem, Pros\xF3dia, o Baby Lab,\
   \ e o Portugu\xEAs"

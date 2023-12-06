@@ -9,7 +9,7 @@ excerpt: Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cogn
   research seeks to disentangle the cognitive and neural processes behind the complex
   choices that form the basis of human social behavior.
 id: e794
-image: https://i.ytimg.com/vi/-QkULG7EEFw/hqdefault.jpg
+image: https://i.ytimg.com/vi/-QkULG7EEFw/maxresdefault.jpg
 publishDate: 2023-06-12
 title: '#794 Oriel FeldmanHall: The Social Neuroscience of Moral Decision-Making'
 youtubeid: -QkULG7EEFw

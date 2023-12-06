@@ -7,7 +7,7 @@ excerpt: 'Dr. Lee Edelman is Fletcher Professor of English Literature at Tufts U
   rhetorical theory, cultural politics, and film. He is the author of books like No
   Future: Queer Theory and the Death Drive; and Sex, or the Unbearable.'
 id: e715
-image: https://i.ytimg.com/vi/R-kg4QRa3lc/hqdefault.jpg
+image: https://i.ytimg.com/vi/R-kg4QRa3lc/maxresdefault.jpg
 publishDate: 2022-12-09
 title: '#715 Lee Edelman - No Future: Queer Theory and the Death Drive'
 youtubeid: R-kg4QRa3lc

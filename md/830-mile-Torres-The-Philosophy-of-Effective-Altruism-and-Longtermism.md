@@ -8,7 +8,7 @@ excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover
   \ Human Flourishing: An Introduction to Existential Risks, and their latest book\
   \ is Human Extinction: A History of the Science and Ethics of Annihilation."
 id: e830
-image: https://i.ytimg.com/vi/ES-fPqMXXng/hqdefault.jpg
+image: https://i.ytimg.com/vi/ES-fPqMXXng/maxresdefault.jpg
 publishDate: 2023-09-04
 title: "#830 \xC9mile Torres: The Philosophy of Effective Altruism and Longtermism"
 youtubeid: ES-fPqMXXng

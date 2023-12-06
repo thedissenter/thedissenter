@@ -8,7 +8,7 @@ excerpt: Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the
   Jurisprudence, Why Tolerate Religion? and, more recently, Moral Psychology with
   Nietzsche.
 id: e525
-image: https://i.ytimg.com/vi/L3H9P1igGXY/hqdefault.jpg
+image: https://i.ytimg.com/vi/L3H9P1igGXY/maxresdefault.jpg
 publishDate: 2021-09-23
 title: '#525 Brian Leiter: Moral Psychology with Nietzsche'
 youtubeid: L3H9P1igGXY

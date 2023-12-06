@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e31
-image: https://i.ytimg.com/vi/9UENs9ia6Zo/hqdefault.jpg
+image: https://i.ytimg.com/vi/9UENs9ia6Zo/maxresdefault.jpg
 publishDate: 2019-03-13
 title: '#31 Samuel Andreyev: Music Across Times and Cultures'
 youtubeid: 9UENs9ia6Zo

@@ -8,7 +8,7 @@ excerpt: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in ho
   \ the benefits of an evolutionary informed approach to understanding the cross-cultural\
   \ sex and age differences in anti-social and criminal behavior. "
 id: e743
-image: https://i.ytimg.com/vi/TUSicyNlQ8M/hqdefault.jpg
+image: https://i.ytimg.com/vi/TUSicyNlQ8M/maxresdefault.jpg
 publishDate: 2023-02-13
 title: '#743 Vibeke Ottesen: The Evolution of Violence, and the Consequences of Banning
   Abortion'

@@ -6,7 +6,7 @@ excerpt: Dr. Aiyana Koka Willard is a Lecturer in the Centre for Culture and Evo
   how thinking about minds and causal reasoning is related to supernatural beliefs.
   Her current research focuses on witchcraft, karma, and evil eye beliefs.
 id: e472
-image: https://i.ytimg.com/vi/ppcQ4bAerjg/hqdefault.jpg
+image: https://i.ytimg.com/vi/ppcQ4bAerjg/maxresdefault.jpg
 publishDate: 2021-05-21
 title: '#472 Aiyana Koka Willard: Religion, Cognition, Culture, and Human Universals'
 youtubeid: ppcQ4bAerjg

@@ -16,7 +16,7 @@ excerpt: "Dr. Diane Halpern is Dean Emerita of Social Sciences at Minerva School
   \ she\u2019s the author of books like Sex Differences in Cognitive Abilities, and\
   \ Thought and Knowledge: An Introduction to Critical Thinking."
 id: e112
-image: https://i.ytimg.com/vi/Su_8GgH63Wg/hqdefault.jpg
+image: https://i.ytimg.com/vi/Su_8GgH63Wg/maxresdefault.jpg
 publishDate: 2019-07-10
 title: '#112 Diane Halpern: Sex Differences in Cognitive Abilities, Critical Thinking,
   and Creativity'

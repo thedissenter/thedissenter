@@ -6,7 +6,7 @@ excerpt: "Dr. Lesley Newson is honorary post-doc at University of California, Da
   \ After that she worked for over 20 years as a science writer and television producer\
   \ before getting a PhD in psychology.  "
 id: e458
-image: https://i.ytimg.com/vi/RJEm7baBdTs/hqdefault.jpg
+image: https://i.ytimg.com/vi/RJEm7baBdTs/maxresdefault.jpg
 publishDate: 2021-04-19
 title: '#458 Lesley Newson & Peter Richerson - A Story of Us: A New Look at Human
   Evolution'

@@ -6,7 +6,7 @@ excerpt: 'Dr. Justin L. Barrett is founder and president of Blueprint 1543 and a
   Initiatives. His new book is Thriving with Stone Age Minds: Evolutionary Psychology,
   Christian Faith, and the Quest for Human Flourishing.'
 id: e558
-image: https://i.ytimg.com/vi/1jeNPEDjKZA/hqdefault.jpg
+image: https://i.ytimg.com/vi/1jeNPEDjKZA/maxresdefault.jpg
 publishDate: 2021-12-09
 title: '#558 Justin Barrett - Thriving with Stone Age Minds; Evo Psych, Christian
   Faith, and Flourishing'

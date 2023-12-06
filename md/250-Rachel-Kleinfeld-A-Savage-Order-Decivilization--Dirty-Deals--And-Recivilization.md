@@ -13,7 +13,7 @@ excerpt: "Dr. Rachel Kleinfeld is a senior fellow at the Carnegie Endowment for 
   \ She\u2019s the author of three books, the most recent one being A Savage Order:\
   \ How the World's Deadliest Countries Can Forge a Path to Security."
 id: e250
-image: https://i.ytimg.com/vi/6Zx-Wcf2wVM/hqdefault.jpg
+image: https://i.ytimg.com/vi/6Zx-Wcf2wVM/maxresdefault.jpg
 publishDate: 2019-11-01
 title: '#250 Rachel Kleinfeld: A Savage Order; Decivilization, Dirty Deals, And Recivilization'
 youtubeid: 6Zx-Wcf2wVM

@@ -7,7 +7,7 @@ excerpt: 'Dr. Christopher Ferrie is an Associate Professor at the University of 
   several books, the latest one being Quantum Bullsh*t: How to Ruin Your Life with
   Advice from Quantum Physics.'
 id: e814
-image: https://i.ytimg.com/vi/LBycUn3eVlg/hqdefault.jpg
+image: https://i.ytimg.com/vi/LBycUn3eVlg/maxresdefault.jpg
 publishDate: 2023-07-28
 title: '#814 Christopher Ferrie - Quantum Bullsh*t: How to Ruin Your Life with Advice
   from Quantum Physics'

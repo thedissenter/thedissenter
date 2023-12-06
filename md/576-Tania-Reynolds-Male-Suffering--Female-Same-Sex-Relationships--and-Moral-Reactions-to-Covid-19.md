@@ -3,7 +3,7 @@ draft: false
 excerpt: Dr. Tania Reynolds is Assistant Professor in Psychology at the University
   of New Mexico.
 id: e576
-image: https://i.ytimg.com/vi/QZBS364fIlk/hqdefault.jpg
+image: https://i.ytimg.com/vi/QZBS364fIlk/maxresdefault.jpg
 publishDate: 2022-01-20
 title: '#576 Tania Reynolds: Male Suffering, Female Same-Sex Relationships, and Moral
   Reactions to Covid-19'

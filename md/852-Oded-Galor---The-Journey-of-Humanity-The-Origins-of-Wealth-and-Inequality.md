@@ -7,7 +7,7 @@ excerpt: 'Dr. Oded Galor is Herbert H. Goldberger Professor of Economics at Brow
   factors in comparative economic development. He is the author of The Journey of
   Humanity: The Origins of Wealth and Inequality.'
 id: e852
-image: https://i.ytimg.com/vi/El9ZKQSSNcw/hqdefault.jpg
+image: https://i.ytimg.com/vi/El9ZKQSSNcw/maxresdefault.jpg
 publishDate: 2023-10-26
 title: '#852 Oded Galor - The Journey of Humanity: The Origins of Wealth and Inequality'
 youtubeid: El9ZKQSSNcw

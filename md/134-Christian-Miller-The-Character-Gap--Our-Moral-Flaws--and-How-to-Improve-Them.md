@@ -9,7 +9,7 @@ excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at W
   \ including Moral Character: An Empirical Theory, Character and Moral Psychology,\
   \ and the most recent one, The Character Gap: How Good Are We?.   "
 id: e134
-image: https://i.ytimg.com/vi/k_Cr4J7fAbY/hqdefault.jpg
+image: https://i.ytimg.com/vi/k_Cr4J7fAbY/maxresdefault.jpg
 publishDate: 2019-02-04
 title: '#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Improve
   Them'

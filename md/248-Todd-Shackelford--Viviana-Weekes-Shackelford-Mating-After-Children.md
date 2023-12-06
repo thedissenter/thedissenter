@@ -6,7 +6,7 @@ excerpt: 'Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychol
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.  '
 id: e248
-image: https://i.ytimg.com/vi/Obio7sl495U/hqdefault.jpg
+image: https://i.ytimg.com/vi/Obio7sl495U/maxresdefault.jpg
 publishDate: 2019-10-28
 title: '#248 Todd Shackelford & Viviana Weekes-Shackelford: Mating After Children'
 youtubeid: Obio7sl495U

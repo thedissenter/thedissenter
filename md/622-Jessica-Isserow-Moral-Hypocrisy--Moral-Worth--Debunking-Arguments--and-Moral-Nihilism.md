@@ -4,7 +4,7 @@ excerpt: Dr. Jessica Isserow is a Lecturer in Moral and Political Philosophy at 
   School of Philosophy, Religion and History of Science at the University of Leeds.
   Her main research interests are in metaethics, normative ethics, and moral psychology.
 id: e622
-image: https://i.ytimg.com/vi/TzGbVBCFnxQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/TzGbVBCFnxQ/maxresdefault.jpg
 publishDate: 2022-05-06
 title: '#622 Jessica Isserow: Moral Hypocrisy, Moral Worth, Debunking Arguments, and
   Moral Nihilism'

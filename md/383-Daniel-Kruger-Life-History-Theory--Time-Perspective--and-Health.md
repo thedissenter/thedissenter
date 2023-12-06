@@ -8,7 +8,7 @@ excerpt: Dr. Daniel Kruger is Research Investigator in the Population Studies Ce
   applied projects that leverage the most powerful theoretical framework in the life
   sciences to promote human well-being and sustainability.
 id: e383
-image: https://i.ytimg.com/vi/yEKTiMrrUyE/hqdefault.jpg
+image: https://i.ytimg.com/vi/yEKTiMrrUyE/maxresdefault.jpg
 publishDate: 2020-10-26
 title: '#383 Daniel Kruger: Life History Theory, Time Perspective, and Health'
 youtubeid: yEKTiMrrUyE

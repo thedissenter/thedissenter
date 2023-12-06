@@ -9,7 +9,7 @@ excerpt: Dr. Summer Mengelkoch has recently finished her PhD in experimental soc
   use, and immune function) and behaviors (including eating behavior, mate preferences,
   cognition, and decision-making).
 id: e664
-image: https://i.ytimg.com/vi/EzWmDrudlKk/hqdefault.jpg
+image: https://i.ytimg.com/vi/EzWmDrudlKk/maxresdefault.jpg
 publishDate: 2022-08-12
 title: '#664 Summer Mengelkoch: Early Life Stressors, Life History, Physiology, and
   Decision-Making'

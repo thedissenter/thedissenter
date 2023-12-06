@@ -10,7 +10,7 @@ excerpt: "O Dr. Arlindo Oliveira \xE9 Presidente do Instituto Superior T\xE9cnic
   \ Is Redefining Humanity\u201D, pela MIT Press, existindo tamb\xE9m a sua vers\xE3\
   o em portugu\xEAs, pela IST Press."
 id: e202
-image: https://i.ytimg.com/vi/f1SgEA84bZY/hqdefault.jpg
+image: https://i.ytimg.com/vi/f1SgEA84bZY/maxresdefault.jpg
 publishDate: 2019-07-12
 title: "#202 Arlindo Oliveira: O Presente e o Futuro da Intelig\xEAncia Artificial"
 youtubeid: f1SgEA84bZY

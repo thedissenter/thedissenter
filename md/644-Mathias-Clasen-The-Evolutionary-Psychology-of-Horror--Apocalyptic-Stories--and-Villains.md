@@ -5,7 +5,7 @@ excerpt: Dr. Mathias Clasen is associate professor in literature and media at Aa
   of Evolutionary Studies in Imaginative Culture. He studies horror fiction, and is
   the author of Why Horror Seduces, and A Very Nervous Person's Guide to Horror Movies.
 id: e644
-image: https://i.ytimg.com/vi/4eShgaEEcpo/hqdefault.jpg
+image: https://i.ytimg.com/vi/4eShgaEEcpo/maxresdefault.jpg
 publishDate: 2022-06-27
 title: '#644 Mathias Clasen: The Evolutionary Psychology of Horror, Apocalyptic Stories,
   and Villains'

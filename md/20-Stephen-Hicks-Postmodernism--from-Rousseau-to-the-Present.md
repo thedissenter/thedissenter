@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e20
-image: https://i.ytimg.com/vi/rBTPMBKCZLs/hqdefault.jpg
+image: https://i.ytimg.com/vi/rBTPMBKCZLs/maxresdefault.jpg
 publishDate: 2019-02-28
 title: '#20 Stephen Hicks: Postmodernism, from Rousseau to the Present'
 youtubeid: rBTPMBKCZLs

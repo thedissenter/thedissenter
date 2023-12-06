@@ -7,7 +7,7 @@ excerpt: Dr. Lyle Steadman is Professor Emeritus at Arizona State University. Dr
   Guinea. A short period of fieldwork was also conducted in an Indian village in Baja
   California, Mexico.
 id: e426
-image: https://i.ytimg.com/vi/SnBRgXMHXtg/hqdefault.jpg
+image: https://i.ytimg.com/vi/SnBRgXMHXtg/maxresdefault.jpg
 publishDate: 2021-02-04
 title: '#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion'
 youtubeid: SnBRgXMHXtg

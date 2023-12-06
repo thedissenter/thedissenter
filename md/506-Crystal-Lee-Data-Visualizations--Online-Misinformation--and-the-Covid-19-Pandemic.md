@@ -12,7 +12,7 @@ excerpt: "Crystal Lee is a PhD candidate at the History / Anthropology / Science
   \ into the history of science. Previously, she was a visiting research scientist\
   \ at the European Commission, and she graduated with high honors from Stanford University."
 id: e506
-image: https://i.ytimg.com/vi/8MPMOGQaRvo/hqdefault.jpg
+image: https://i.ytimg.com/vi/8MPMOGQaRvo/maxresdefault.jpg
 publishDate: 2021-08-09
 title: '#506 Crystal Lee: Data Visualizations, Online Misinformation, and the Covid-19
   Pandemic'

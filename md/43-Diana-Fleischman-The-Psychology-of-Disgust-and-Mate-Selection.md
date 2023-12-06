@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: e43
-image: https://i.ytimg.com/vi/4jejfXcE4_I/hqdefault.jpg
+image: https://i.ytimg.com/vi/4jejfXcE4_I/maxresdefault.jpg
 publishDate: 2019-03-29
 title: '#43 Diana Fleischman: The Psychology of Disgust and Mate Selection'
 youtubeid: 4jejfXcE4_I

@@ -5,7 +5,7 @@ excerpt: "Dr. Jennifer Church is a Professor of Philosophy at Vassar College in 
   \ is the author of Possibilities of Perception (Oxford UP, 2013), and Why It\u2019\
   s OK to Be of Two Minds."
 id: e611
-image: https://i.ytimg.com/vi/9qpPg-h6scs/hqdefault.jpg
+image: https://i.ytimg.com/vi/9qpPg-h6scs/maxresdefault.jpg
 publishDate: 2022-04-11
 title: "#611 Jennifer Church - Why It\u2019s Ok to be of Two Minds"
 youtubeid: 9qpPg-h6scs

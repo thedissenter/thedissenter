@@ -8,7 +8,7 @@ excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel
   \ Ethnicity and Nationalism. His most recent book is Ideological Fixation: From\
   \ the Stone Age to Today\u2019s Culture Wars."
 id: e716
-image: https://i.ytimg.com/vi/NUnIgc97FAc/hqdefault.jpg
+image: https://i.ytimg.com/vi/NUnIgc97FAc/maxresdefault.jpg
 publishDate: 2022-12-12
 title: "#716 Azar Gat - Ideological Fixation: From the Stone Age to Today\u2019s Culture\
   \ Wars"

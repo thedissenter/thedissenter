@@ -13,7 +13,7 @@ excerpt: "Dr. In\xEAs Hip\xF3lito is a Lecturer at the Berlin School of Mind and
   \ Committee and the Committee in Diversity and Inclusivity at the Australasian Association\
   \ of Philosophy."
 id: e770
-image: https://i.ytimg.com/vi/04yvn-B7vRg/hqdefault.jpg
+image: https://i.ytimg.com/vi/04yvn-B7vRg/maxresdefault.jpg
 publishDate: 2023-04-17
 title: "#770 In\xEAs Hip\xF3lito: Enactive Cognition, Culture, Artificial Intelligence,\
   \ and Diversity in Science"

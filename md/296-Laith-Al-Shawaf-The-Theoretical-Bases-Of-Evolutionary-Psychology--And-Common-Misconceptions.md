@@ -7,7 +7,7 @@ excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the Univ
   and is a member of the Arab-German Young Academy (AGYA), as well as an academic
   adviser at Ideas Beyond Borders (IBB).
 id: e296
-image: https://i.ytimg.com/vi/keIP7rSMUSA/hqdefault.jpg
+image: https://i.ytimg.com/vi/keIP7rSMUSA/maxresdefault.jpg
 publishDate: 2020-02-17
 title: '#296 Laith Al-Shawaf: The Theoretical Bases Of Evolutionary Psychology, And
   Common Misconceptions'

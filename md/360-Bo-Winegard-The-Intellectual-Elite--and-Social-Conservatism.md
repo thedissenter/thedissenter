@@ -6,7 +6,7 @@ excerpt: "Dr. Bo Winegard generally approaches psychological puzzles from an evo
   \ methods, and political psychology. He\u2019s also the cohost, together with Cory\
   \ Clark, of the Psyphilopod podcast."
 id: e360
-image: https://i.ytimg.com/vi/lteZOrSDtwE/hqdefault.jpg
+image: https://i.ytimg.com/vi/lteZOrSDtwE/maxresdefault.jpg
 publishDate: 2020-09-03
 title: '#360 Bo Winegard: The Intellectual Elite, and Social Conservatism'
 youtubeid: lteZOrSDtwE

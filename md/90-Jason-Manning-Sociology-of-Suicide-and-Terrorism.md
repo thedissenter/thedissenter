@@ -9,7 +9,7 @@ excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virgi
   \ and suicide terrorism. His other interests include the sociology of science, sociology\
   \ of religion, and neoDarwinian theories of culture.  "
 id: e90
-image: https://i.ytimg.com/vi/qJZW76s3Ixw/hqdefault.jpg
+image: https://i.ytimg.com/vi/qJZW76s3Ixw/maxresdefault.jpg
 publishDate: 2019-06-08
 title: '#90 Jason Manning: Sociology of Suicide and Terrorism'
 youtubeid: qJZW76s3Ixw

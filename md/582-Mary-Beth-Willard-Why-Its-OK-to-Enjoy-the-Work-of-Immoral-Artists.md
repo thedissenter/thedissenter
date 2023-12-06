@@ -5,7 +5,7 @@ excerpt: "Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber
   \ aesthetics and blogs at aestheticsforbirds.com. She is the author of Why It\u2019\
   s OK to Enjoy the Work of Immoral Artists."
 id: e582
-image: https://i.ytimg.com/vi/QpMIR45wZHs/hqdefault.jpg
+image: https://i.ytimg.com/vi/QpMIR45wZHs/maxresdefault.jpg
 publishDate: 2022-02-03
 title: "#582 Mary Beth Willard: Why It\u2019s OK to Enjoy the Work of Immoral Artists"
 youtubeid: QpMIR45wZHs

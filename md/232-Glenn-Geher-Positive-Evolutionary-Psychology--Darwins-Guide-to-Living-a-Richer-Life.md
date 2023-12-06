@@ -13,7 +13,7 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
   \ condition. He has recently released a new book, Positive Evolutionary Psychology:\
   \ Darwin's Guide to Living a Richer Life."
 id: e232
-image: https://i.ytimg.com/vi/aUCEml0DyYI/hqdefault.jpg
+image: https://i.ytimg.com/vi/aUCEml0DyYI/maxresdefault.jpg
 publishDate: 2019-09-20
 title: '#232 Glenn Geher: Positive Evolutionary Psychology, Darwin''s Guide to Living
   a Richer Life'

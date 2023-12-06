@@ -8,7 +8,7 @@ excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in 
   \ touch, sense of body ownership and interoceptive awareness in both healthy and\
   \ clinical populations."
 id: e347
-image: https://i.ytimg.com/vi/1jvKL3Jaetk/hqdefault.jpg
+image: https://i.ytimg.com/vi/1jvKL3Jaetk/maxresdefault.jpg
 publishDate: 2020-07-06
 title: '#347 Laura Crucianelli: Interoception, Affective Touch, And Anorexia Nervosa'
 youtubeid: 1jvKL3Jaetk

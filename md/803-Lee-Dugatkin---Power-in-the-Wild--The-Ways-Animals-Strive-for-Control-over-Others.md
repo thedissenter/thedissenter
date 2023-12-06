@@ -9,7 +9,7 @@ excerpt: "Dr. Lee Dugatkin is a Professor of Biology and Distinguished Arts and 
   \ His latest book is Power in the Wild: The Subtle and Not-So-Subtle Ways Animals\
   \ Strive for Control over Others."
 id: e803
-image: https://i.ytimg.com/vi/G9wctJ2SIS8/hqdefault.jpg
+image: https://i.ytimg.com/vi/G9wctJ2SIS8/maxresdefault.jpg
 publishDate: 2023-07-03
 title: '#803 Lee Dugatkin - Power in the Wild, The Ways Animals Strive for Control
   over Others'

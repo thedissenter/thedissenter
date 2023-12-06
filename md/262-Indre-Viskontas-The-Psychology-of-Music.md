@@ -6,7 +6,7 @@ excerpt: "Dr. Indre Viskontas is a Professor of Psychology at the University of 
   \ and operatic soprano. She holds a Ph.D. in cognitive neuroscience and a M.M. in\
   \ opera. She\u2019s the author of How Music Can Make You Better."
 id: e262
-image: https://i.ytimg.com/vi/d2UfQK2oHtM/hqdefault.jpg
+image: https://i.ytimg.com/vi/d2UfQK2oHtM/maxresdefault.jpg
 publishDate: 2019-11-29
 title: '#262 Indre Viskontas: The Psychology of Music'
 youtubeid: d2UfQK2oHtM

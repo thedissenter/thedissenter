@@ -2,7 +2,7 @@
 draft: false
 excerpt: '------------------Support me---------  '
 id: e86
-image: https://i.ytimg.com/vi/G02tTbeY964/hqdefault.jpg
+image: https://i.ytimg.com/vi/G02tTbeY964/maxresdefault.jpg
 publishDate: 2019-05-31
 title: '#86 Colin McGinn: Types of Minds, Consciousness, Animal Rights'
 youtubeid: G02tTbeY964

@@ -11,7 +11,7 @@ excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponen
   \ of Love and Prosperity, and Trust Factor: The Science of Creating High-Performance\
   \ Companies."
 id: e140
-image: https://i.ytimg.com/vi/zIuk3dIvmn0/hqdefault.jpg
+image: https://i.ytimg.com/vi/zIuk3dIvmn0/maxresdefault.jpg
 publishDate: 2019-02-18
 title: '#140 Paul Zak: Neuroeconomics, Oxytocin, Trust, Companies and Society'
 youtubeid: zIuk3dIvmn0

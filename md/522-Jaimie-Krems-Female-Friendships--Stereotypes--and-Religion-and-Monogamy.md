@@ -7,7 +7,7 @@ excerpt: 'Dr. Jaimie Krems is Assistant Professor of Psychology at Oklahoma Stat
   how people use cues to strategically navigate their social worlds and meet their
   social goals. '
 id: e522
-image: https://i.ytimg.com/vi/U6FDz4d6PNY/hqdefault.jpg
+image: https://i.ytimg.com/vi/U6FDz4d6PNY/maxresdefault.jpg
 publishDate: 2021-09-16
 title: '#522 Jaimie Krems: Female Friendships, Stereotypes, and Religion and Monogamy'
 youtubeid: U6FDz4d6PNY

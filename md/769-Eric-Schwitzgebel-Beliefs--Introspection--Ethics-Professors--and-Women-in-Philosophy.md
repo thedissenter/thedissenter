@@ -7,7 +7,7 @@ excerpt: "Dr. Eric Schwitzgebel is Professor of Philosophy at the University of 
   \ the tenuous relationship between philosophical ethics and actual moral behavior.\
   \ He also works on classical Chinese philosophy and philosophical science fiction."
 id: e769
-image: https://i.ytimg.com/vi/sPy8MdoGvls/hqdefault.jpg
+image: https://i.ytimg.com/vi/sPy8MdoGvls/maxresdefault.jpg
 publishDate: 2023-04-14
 title: '#769 Eric Schwitzgebel: Beliefs, Introspection, Ethics Professors, and Women
   in Philosophy'

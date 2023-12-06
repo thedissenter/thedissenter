@@ -15,7 +15,7 @@ excerpt: 'Dr. Lee Cronk is Professor in the Department of Anthropology at the Sc
   Cooperation, and co-editor of two more, Adaptation and Human Behavior: An Anthropological
   Perspective, and Through the Looking Glass: Readings in Anthropology.'
 id: e219
-image: https://i.ytimg.com/vi/nG53WmHvVDo/hqdefault.jpg
+image: https://i.ytimg.com/vi/nG53WmHvVDo/maxresdefault.jpg
 publishDate: 2019-08-22
 title: '#219 Lee Cronk: Modern Cultural Anthropology, And Human Cooperation'
 youtubeid: nG53WmHvVDo

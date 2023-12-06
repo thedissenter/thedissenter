@@ -6,7 +6,7 @@ excerpt: 'Dr. Donald Hoffman is a Professor Emeritus in the Department of Cognit
   experiments. He is the author of The Case Against Reality: Why Evolution Hid the
   Truth from Our Eyes.'
 id: e756
-image: https://i.ytimg.com/vi/uxaneklUb9Q/hqdefault.jpg
+image: https://i.ytimg.com/vi/uxaneklUb9Q/maxresdefault.jpg
 publishDate: 2023-03-16
 title: '#756 Donald Hoffman: The Case Against Reality, and the Interface Theory of
   Perception'

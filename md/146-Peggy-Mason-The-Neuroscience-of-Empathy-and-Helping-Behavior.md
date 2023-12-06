@@ -9,7 +9,7 @@ excerpt: Dr. Peggy Mason is a Professor in the Department of Neurobiology at the
   (Medical Neurobiology, Oxford University Press, 2017). Professor Mason's research
   focuses on the neurobiological basis of empathy and helping.
 id: e146
-image: https://i.ytimg.com/vi/W568wvd43wY/hqdefault.jpg
+image: https://i.ytimg.com/vi/W568wvd43wY/maxresdefault.jpg
 publishDate: 2019-03-04
 title: '#146 Peggy Mason: The Neuroscience of Empathy and Helping Behavior'
 youtubeid: W568wvd43wY

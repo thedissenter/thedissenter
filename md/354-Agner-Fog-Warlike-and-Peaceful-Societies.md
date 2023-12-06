@@ -7,7 +7,7 @@ excerpt: "Dr. Agner Fog is associate professor of computer science at Technical 
   \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
   \ of Genes and Culture\u201D."
 id: e354
-image: https://i.ytimg.com/vi/uTA24MyC9rQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg
 publishDate: 2020-08-13
 title: '#354 Agner Fog: Warlike and Peaceful Societies'
 youtubeid: uTA24MyC9rQ

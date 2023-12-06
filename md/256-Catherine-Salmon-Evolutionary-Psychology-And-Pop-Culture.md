@@ -14,7 +14,7 @@ excerpt: 'Dr. Catherine Salmon is a Full Professor in the psychology department 
   a chapter on female wrestling fans and their fantasies in Steel Chair to the Head:
   The Pleasure and Pain of Professional Wrestling.'
 id: e256
-image: https://i.ytimg.com/vi/pz9XQeX33Kk/hqdefault.jpg
+image: https://i.ytimg.com/vi/pz9XQeX33Kk/maxresdefault.jpg
 publishDate: 2019-11-15
 title: '#256 Catherine Salmon: Evolutionary Psychology And Pop Culture'
 youtubeid: pz9XQeX33Kk

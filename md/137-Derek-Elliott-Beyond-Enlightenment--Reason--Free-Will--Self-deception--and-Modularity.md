@@ -4,7 +4,7 @@ excerpt: Dr. Derek Elliott is a newly minted doctor of philosophy from Duquesne 
   He specializes in philosophy of psychology as well as action theory with a special
   interest in irrationality and evolutionary psychology.
 id: e137
-image: https://i.ytimg.com/vi/Vj7KY1IJZHk/hqdefault.jpg
+image: https://i.ytimg.com/vi/Vj7KY1IJZHk/maxresdefault.jpg
 publishDate: 2019-02-11
 title: '#137 Derek Elliott: Beyond Enlightenment, Reason, Free Will, Self-deception,
   and Modularity'

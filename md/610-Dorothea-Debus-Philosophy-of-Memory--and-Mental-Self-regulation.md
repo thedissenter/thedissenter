@@ -11,7 +11,7 @@ excerpt: "Dr. Dorothea Debus is Professor of Theoretical Philosophy at Konstanz 
   \ asks how we might possibly account for this ability, and explore its axiological\
   \ implications."
 id: e610
-image: https://i.ytimg.com/vi/-Wo91gyNeMQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/-Wo91gyNeMQ/maxresdefault.jpg
 publishDate: 2022-04-08
 title: '#610 Dorothea Debus: Philosophy of Memory, and Mental Self-regulation'
 youtubeid: -Wo91gyNeMQ

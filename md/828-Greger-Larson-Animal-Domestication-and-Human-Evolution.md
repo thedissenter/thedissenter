@@ -7,7 +7,7 @@ excerpt: Dr. Greger Larson is a Professor in the School of Archaeology at the Un
   on the domestication of canines and the origin of the domestic dog has provided
   insights into the prehistoric bond between humans and early dogs.
 id: e828
-image: https://i.ytimg.com/vi/nXybR_0JhnU/hqdefault.jpg
+image: https://i.ytimg.com/vi/nXybR_0JhnU/maxresdefault.jpg
 publishDate: 2023-08-31
 title: '#828 Greger Larson: Animal Domestication and Human Evolution'
 youtubeid: nXybR_0JhnU

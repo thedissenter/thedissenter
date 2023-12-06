@@ -12,7 +12,7 @@ excerpt: "Kate\u0159ina Lochmanov\xE1 is currently finishing her postgraduate st
   \ the editor of History of Antinatalism: How Philosophy Has Challenged the Question\
   \ of Procreation."
 id: e445
-image: https://i.ytimg.com/vi/iZlfMryFCqw/hqdefault.jpg
+image: https://i.ytimg.com/vi/iZlfMryFCqw/maxresdefault.jpg
 publishDate: 2021-03-19
 title: "#445 Kate\u0159ina Lochmanov\xE1: The History and Philosophy of Antinatalism"
 youtubeid: iZlfMryFCqw

@@ -6,7 +6,7 @@ excerpt: "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cor
   s been drawing on learning theory to try to understand how people acquire philosophically\
   \ significant concepts and distinctions, especially in the domain of morality."
 id: e339
-image: https://i.ytimg.com/vi/OppfzA7oTf0/hqdefault.jpg
+image: https://i.ytimg.com/vi/OppfzA7oTf0/maxresdefault.jpg
 publishDate: 2020-05-28
 title: '#339 Shaun Nichols: The Philosophy And Psychology Of Morality'
 youtubeid: OppfzA7oTf0

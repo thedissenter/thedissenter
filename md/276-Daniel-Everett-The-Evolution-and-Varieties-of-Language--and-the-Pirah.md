@@ -7,7 +7,7 @@ excerpt: "Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentl
   \ include Dark Matter of the Mind: The Culturally Articulated Unconscious, and How\
   \ Language Began: The Story of Humanity's Greatest Invention."
 id: e276
-image: https://i.ytimg.com/vi/5KhTl0l0L0M/hqdefault.jpg
+image: https://i.ytimg.com/vi/5KhTl0l0L0M/maxresdefault.jpg
 publishDate: 2020-01-02
 title: "#276 Daniel Everett: The Evolution and Varieties of Language, and the Pirah\xE3"
 youtubeid: 5KhTl0l0L0M

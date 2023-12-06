@@ -2,7 +2,7 @@
 draft: false
 excerpt: '------------------Support me---------  '
 id: e84
-image: https://i.ytimg.com/vi/xPzaneVj7Oo/hqdefault.jpg
+image: https://i.ytimg.com/vi/xPzaneVj7Oo/maxresdefault.jpg
 publishDate: 2019-05-29
 title: '#84 Garett Jones: Hive Mind, The Importance of National IQ, and Immigration'
 youtubeid: xPzaneVj7Oo

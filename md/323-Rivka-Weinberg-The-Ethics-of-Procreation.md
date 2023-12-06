@@ -2,7 +2,7 @@
 draft: false
 excerpt: ''
 id: e323
-image: https://i.ytimg.com/vi/XnEGgDDtkEw/hqdefault.jpg
+image: https://i.ytimg.com/vi/XnEGgDDtkEw/maxresdefault.jpg
 publishDate: 2020-04-20
 title: '#323 Rivka Weinberg: The Ethics of Procreation'
 youtubeid: XnEGgDDtkEw

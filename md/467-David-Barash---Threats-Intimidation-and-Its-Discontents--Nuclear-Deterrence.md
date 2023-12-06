@@ -11,7 +11,7 @@ excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the Univers
   \ to see our species as we really are\u201D. His most recent book is \u201CThreats:\
   \ Intimidation and Its Discontents\u201D."
 id: e467
-image: https://i.ytimg.com/vi/Yrufx9w_GOk/hqdefault.jpg
+image: https://i.ytimg.com/vi/Yrufx9w_GOk/maxresdefault.jpg
 publishDate: 2021-05-10
 title: '#467 David Barash - Threats: Intimidation and Its Discontents ; Nuclear Deterrence'
 youtubeid: Yrufx9w_GOk

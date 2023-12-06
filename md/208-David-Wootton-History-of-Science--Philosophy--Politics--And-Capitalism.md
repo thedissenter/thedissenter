@@ -8,7 +8,7 @@ excerpt: "Dr. David Wootton is Anniversary Professor of History at the Universit
   \ Revolution. He has given the Carlyle and Besterman Lectures at Oxford, the Raleigh\
   \ Lecture at the British Academy and the Benedict Lectures at Boston."
 id: e208
-image: https://i.ytimg.com/vi/MbHwUVTok4o/hqdefault.jpg
+image: https://i.ytimg.com/vi/MbHwUVTok4o/maxresdefault.jpg
 publishDate: 2019-07-26
 title: '#208 David Wootton: History of Science, Philosophy, Politics, And Capitalism'
 youtubeid: MbHwUVTok4o

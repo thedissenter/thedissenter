@@ -6,7 +6,7 @@ excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at t
   \ philosophy of perception, and philosophy of action. He is the author of Nietzsche\u2019\
   s Philosophical Psychology."
 id: e635
-image: https://i.ytimg.com/vi/rq_llEbXT8Y/hqdefault.jpg
+image: https://i.ytimg.com/vi/rq_llEbXT8Y/maxresdefault.jpg
 publishDate: 2022-06-06
 title: "#635 Mattia Riccardi: Nietzsche\u2019s Philosophical Psychology"
 youtubeid: rq_llEbXT8Y

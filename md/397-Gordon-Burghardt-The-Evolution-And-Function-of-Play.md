@@ -10,7 +10,7 @@ excerpt: 'Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in t
   Psychology (APA Div. 6). He has edited or co-edited 6 books and authored The Genesis
   of Animal Play: Testing the Limits (MIT Press, 2005).'
 id: e397
-image: https://i.ytimg.com/vi/9_yEhaD4DWk/hqdefault.jpg
+image: https://i.ytimg.com/vi/9_yEhaD4DWk/maxresdefault.jpg
 publishDate: 2020-11-27
 title: '#397 Gordon Burghardt: The Evolution And Function of Play'
 youtubeid: 9_yEhaD4DWk

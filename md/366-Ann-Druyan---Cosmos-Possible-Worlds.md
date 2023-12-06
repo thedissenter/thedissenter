@@ -14,7 +14,7 @@ excerpt: "Ann Druyan was the creative director of NASA\u2019s Voyager Interstell
   \ of Cosmos: Possible Worlds, first broadcast in 2020. The asteroids Sagan (2709)\
   \ and Druyan (4970) are in perpetual wedding ring orbit around the sun."
 id: e366
-image: https://i.ytimg.com/vi/LntdVQNFVcU/hqdefault.jpg
+image: https://i.ytimg.com/vi/LntdVQNFVcU/maxresdefault.jpg
 publishDate: 2020-09-17
 title: '#366 Ann Druyan - Cosmos: Possible Worlds'
 youtubeid: LntdVQNFVcU

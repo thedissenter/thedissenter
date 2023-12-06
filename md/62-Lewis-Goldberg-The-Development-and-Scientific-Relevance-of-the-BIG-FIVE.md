@@ -7,7 +7,7 @@ excerpt: Dr. Lewis Goldberg is an American personality psychologist and a Profes
   the discovery of a five-factor structure of personality trait adjectives (which
   he dubbed the Big Five).
 id: e62
-image: https://i.ytimg.com/vi/TNVpiFbAk-A/hqdefault.jpg
+image: https://i.ytimg.com/vi/TNVpiFbAk-A/maxresdefault.jpg
 publishDate: 2019-04-29
 title: '#62 Lewis Goldberg: The Development and Scientific Relevance of the BIG FIVE'
 youtubeid: TNVpiFbAk-A

@@ -14,7 +14,7 @@ excerpt: "Dr. Dan P. McAdams is the Henry Wade Rogers Professor of Psychology an
   \ articles and chapters, numerous edited volumes, and seven books, including \u201C\
   The Strange Case of Donald J. Trump: A Psychological Reckoning\u201D. "
 id: e365
-image: https://i.ytimg.com/vi/3AqQxrhYWnc/hqdefault.jpg
+image: https://i.ytimg.com/vi/3AqQxrhYWnc/maxresdefault.jpg
 publishDate: 2020-09-14
 title: '#365 Dan McAdams: The Psychology of Donald Trump'
 youtubeid: 3AqQxrhYWnc

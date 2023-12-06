@@ -9,7 +9,7 @@ excerpt: 'Dr. Mark Leary is Professor of Psychology and Neuroscience at Duke Uni
   the International Society for Self and Identity and a 2015 co-recipient of the Scientific
   Impact Award from the Society for Experimental Social Psychology. '
 id: e201
-image: https://i.ytimg.com/vi/VeveTmliHeQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/VeveTmliHeQ/maxresdefault.jpg
 publishDate: 2019-07-11
 title: '#201 Mark Leary: The Self, Self-presentation, And Social Status'
 youtubeid: VeveTmliHeQ

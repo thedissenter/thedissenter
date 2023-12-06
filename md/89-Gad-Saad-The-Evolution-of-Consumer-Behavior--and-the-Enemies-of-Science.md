@@ -8,7 +8,7 @@ excerpt: "Dr. Gad Saad is Professor of Marketing at Concordia University, holder
   \ prolific writer, a popular blogger for Psychology Today, and the author of three\
   \ books, including The Evolutionary Bases of Consumption."
 id: e89
-image: https://i.ytimg.com/vi/2MBSayBwJyk/hqdefault.jpg
+image: https://i.ytimg.com/vi/2MBSayBwJyk/maxresdefault.jpg
 publishDate: 2019-06-05
 title: '#89 Gad Saad: The Evolution of Consumer Behavior, and the Enemies of Science'
 youtubeid: 2MBSayBwJyk

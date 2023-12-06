@@ -9,7 +9,7 @@ excerpt: "Dr. Colin F. Camerer is the Robert Kirby Professor of Behavioral Finan
   \ decisions (e.g., risky gambles for money), in games, and in markets (e.g., speculative\
   \ price bubbles). In 2013, Dr. Camerer was named a MacArthur Fellow."
 id: e290
-image: https://i.ytimg.com/vi/6iLJletpgPo/hqdefault.jpg
+image: https://i.ytimg.com/vi/6iLJletpgPo/maxresdefault.jpg
 publishDate: 2020-02-03
 title: '#290 Colin Camerer: The Economics And Neuroscience Of Decision-Making'
 youtubeid: 6iLJletpgPo

@@ -12,7 +12,7 @@ excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psyc
   \ these models with a variety of research methods. He\u2019s the author of Evolutionary\
   \ Psychopathology: A Unified Approach."
 id: e275
-image: https://i.ytimg.com/vi/am0fbTEGXQg/hqdefault.jpg
+image: https://i.ytimg.com/vi/am0fbTEGXQg/maxresdefault.jpg
 publishDate: 2019-12-30
 title: '#275 Marco Del Giudice: Evolutionary Psychopathology, Attachment, And Life
   History'

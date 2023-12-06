@@ -9,7 +9,7 @@ excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at 
   s the co-author of the greatly influential book, along with his wife, Dr. Kate Pickett,\
   \ The Spirit Level: Why More Equal Societies Almost Always Do Better."
 id: e83
-image: https://i.ytimg.com/vi/YdvyAiR92oo/hqdefault.jpg
+image: https://i.ytimg.com/vi/YdvyAiR92oo/maxresdefault.jpg
 publishDate: 2019-05-28
 title: '#83 Richard Wilkinson: The Spirit Level, How to Seek Equality'
 youtubeid: YdvyAiR92oo

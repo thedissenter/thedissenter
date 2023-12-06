@@ -11,7 +11,7 @@ excerpt: Dr. Kim Hill is a professor in the Anthropology department at Arizona S
   Latin America. He also worked on foraging problems in Coastal South Africa, and
   most recently has studied cooperation among Sea Nomads of Southern Mindanao (Philippines).
 id: e527
-image: https://i.ytimg.com/vi/1s7WgXQV5-c/hqdefault.jpg
+image: https://i.ytimg.com/vi/1s7WgXQV5-c/maxresdefault.jpg
 publishDate: 2021-09-27
 title: '#527 Kim Hill: Human Sociality, Human Universals, and Protecting Isolated
   Societies'

@@ -11,7 +11,7 @@ excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and 
   \ and Does Altruism Exist? Culture, Genes, and the Welfare of Others; and a recently\
   \ edited book, Evolution and Contextual Behavioral Science."
 id: e123
-image: https://i.ytimg.com/vi/I3YQVV02MwI/hqdefault.jpg
+image: https://i.ytimg.com/vi/I3YQVV02MwI/maxresdefault.jpg
 publishDate: 2019-07-25
 title: '#123 David Sloan Wilson: Evolution, Contextual Behavioral Science, Religion,
   and Group Selection'

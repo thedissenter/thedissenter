@@ -6,7 +6,7 @@ excerpt: 'Dr. John Hoffecker is Fellow of the Institute of Arctic and Alpine Res
   50,000 years ago in Africa. He is the author of several books, including Modern
   Humans: Their African Origin and Global Dispersal (2017).'
 id: e400
-image: https://i.ytimg.com/vi/0wAW_loSTdc/hqdefault.jpg
+image: https://i.ytimg.com/vi/0wAW_loSTdc/maxresdefault.jpg
 publishDate: 2020-12-04
 title: '#400 John Hoffecker - Modern Humans: Their African Origin and Global Dispersal'
 youtubeid: 0wAW_loSTdc

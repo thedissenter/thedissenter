@@ -6,7 +6,7 @@ excerpt: "Dr. Frans de Waal is a Dutch primatologist and ethologist. He is Emeri
   \ and the Atheist, Mamma\u2019s Last Hug, and, more recently, Different: Gender\
   \ Through the Eyes of a Primatologist."
 id: e617
-image: https://i.ytimg.com/vi/3DfnQdXsWqQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/3DfnQdXsWqQ/maxresdefault.jpg
 publishDate: 2022-04-25
 title: '#617 Frans de Waal - Different: Gender Through the Eyes of a Primatologist'
 youtubeid: 3DfnQdXsWqQ

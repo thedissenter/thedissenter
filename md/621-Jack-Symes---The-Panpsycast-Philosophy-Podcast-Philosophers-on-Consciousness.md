@@ -5,7 +5,7 @@ excerpt: 'Jack Symes is the producer of The Panpsycast Philosophy Podcast and ed
   Researcher of Philosophy at the University of Liverpool, UK. He is the editor of
   Philosophers on Consciousness: Talking about the Mind.'
 id: e621
-image: https://i.ytimg.com/vi/qgDbKdLKZ-U/hqdefault.jpg
+image: https://i.ytimg.com/vi/qgDbKdLKZ-U/maxresdefault.jpg
 publishDate: 2022-05-05
 title: '#621 Jack Symes - The Panpsycast Philosophy Podcast; Philosophers on Consciousness'
 youtubeid: qgDbKdLKZ-U

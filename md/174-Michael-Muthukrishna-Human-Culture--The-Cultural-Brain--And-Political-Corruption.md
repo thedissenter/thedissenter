@@ -12,7 +12,7 @@ excerpt: "Dr. Michael Muthukrishna is an Assistant Professor of Economic Psychol
   \ constitute. He\u2019s particularly interested in the application of research in\
   \ cultural evolution to public policy."
 id: e174
-image: https://i.ytimg.com/vi/2hlTbcwlC7k/hqdefault.jpg
+image: https://i.ytimg.com/vi/2hlTbcwlC7k/maxresdefault.jpg
 publishDate: 2019-05-09
 title: '#174 Michael Muthukrishna: Human Culture, The Cultural Brain, And Political
   Corruption'

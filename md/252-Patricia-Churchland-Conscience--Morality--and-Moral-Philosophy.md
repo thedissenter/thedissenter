@@ -11,7 +11,7 @@ excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for h
   \ Science of the Mind-Brain, Braintrust: What Neuroscience Tells Us about Morality,\
   \ and Conscience: The Origins of Moral Intuition."
 id: e252
-image: https://i.ytimg.com/vi/tZjNtEnAYFI/hqdefault.jpg
+image: https://i.ytimg.com/vi/tZjNtEnAYFI/maxresdefault.jpg
 publishDate: 2019-11-07
 title: '#252 Patricia Churchland: Conscience, Morality, and Moral Philosophy'
 youtubeid: tZjNtEnAYFI

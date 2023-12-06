@@ -9,7 +9,7 @@ excerpt: 'Dr. Philippe Rochat is Professor of Psychology at Emory University. Wh
   socio-economic circumstances. Dr. Rochat has published five books, including Moral
   Acrobatics: How We Avoid Ethical Ambiguity by Thinking in Black and White.'
 id: e585
-image: https://i.ytimg.com/vi/f_1YO4q0Ly8/hqdefault.jpg
+image: https://i.ytimg.com/vi/f_1YO4q0Ly8/maxresdefault.jpg
 publishDate: 2022-02-10
 title: '#585 Philippe Rochat Moral Acrobatics: How We Avoid Ethical Ambiguity by Thinking
   in Black and White'

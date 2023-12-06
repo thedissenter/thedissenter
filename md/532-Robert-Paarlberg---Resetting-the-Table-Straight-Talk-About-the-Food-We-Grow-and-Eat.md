@@ -6,7 +6,7 @@ excerpt: "Dr. Robert Paarlberg is Betty Freyhof Johnson \u201944 Professor Emeri
   \ agricultural and environmental policy, regulation of modern technology, including\
   \ biotechnology. He is the author of many books, including C"
 id: e532
-image: https://i.ytimg.com/vi/ldXsm3X5i6w/hqdefault.jpg
+image: https://i.ytimg.com/vi/ldXsm3X5i6w/maxresdefault.jpg
 publishDate: 2021-10-08
 title: '#532 Robert Paarlberg - Resetting the Table: Straight Talk About the Food
   We Grow and Eat'

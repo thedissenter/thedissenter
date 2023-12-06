@@ -8,7 +8,7 @@ excerpt: Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab a
   Central European University. His work combines philosophical and empirical approaches
   to study episodic memory, imagination, and human communication.
 id: e663
-image: https://i.ytimg.com/vi/2bODcrDOIi4/hqdefault.jpg
+image: https://i.ytimg.com/vi/2bODcrDOIi4/maxresdefault.jpg
 publishDate: 2022-08-11
 title: '#663 Johannes Mahr: Episodic Memory, Imagination, and their Social Functions'
 youtubeid: 2bODcrDOIi4

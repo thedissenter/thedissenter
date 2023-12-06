@@ -7,7 +7,7 @@ excerpt: Dr. Onurcan Yilmaz is an Associate Professor of Psychology at Kadir Has
   economics. His research mainly focuses on dual-process accounts of moral judgment
   and behavior.
 id: e798
-image: https://i.ytimg.com/vi/43mXDBXLNYw/hqdefault.jpg
+image: https://i.ytimg.com/vi/43mXDBXLNYw/maxresdefault.jpg
 publishDate: 2023-06-22
 title: '#798 Onurcan Yilmaz: Cognitive Styles, Politics, Morality, and Religion'
 youtubeid: 43mXDBXLNYw

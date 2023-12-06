@@ -7,7 +7,7 @@ excerpt: 'Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience
   perception and contribute to disease. His latest book is Free Agents: How Evolution
   Gave Us Free Will.'
 id: e842
-image: https://i.ytimg.com/vi/Euv_pwsAkkQ/hqdefault.jpg
+image: https://i.ytimg.com/vi/Euv_pwsAkkQ/maxresdefault.jpg
 publishDate: 2023-10-02
 title: '#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will'
 youtubeid: Euv_pwsAkkQ

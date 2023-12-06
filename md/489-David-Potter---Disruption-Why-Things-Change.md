@@ -6,7 +6,7 @@ excerpt: 'Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek an
   the Emperor, The Victor''s Crown: A History of Ancient Sport from Homer to Byzantium,
   and Theodora: Actress, Empress, Saint. His new book is Disruption: Why Things Change.'
 id: e489
-image: https://i.ytimg.com/vi/dY-Kqxe-k-I/hqdefault.jpg
+image: https://i.ytimg.com/vi/dY-Kqxe-k-I/maxresdefault.jpg
 publishDate: 2021-07-01
 title: '#489 David Potter - Disruption: Why Things Change'
 youtubeid: dY-Kqxe-k-I

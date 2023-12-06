@@ -9,7 +9,7 @@ excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at W
   \ the most recent one being Honesty: The Philosophy and Psychology of a Neglected\
   \ Virtue."
 id: e705
-image: https://i.ytimg.com/vi/O747TD4Wx_0/hqdefault.jpg
+image: https://i.ytimg.com/vi/O747TD4Wx_0/maxresdefault.jpg
 publishDate: 2022-11-17
 title: '#705 Christian Miller - Honesty: The Philosophy and Psychology of a Neglected
   Virtue'

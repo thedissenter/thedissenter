@@ -11,7 +11,7 @@ excerpt: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the Sch
   \ from sites in Namibia and South Africa. Dr. Wadley\u2019s current research is\
   \ dedicated to the cognition of people who lived in the Middle Stone Age."
 id: e266
-image: https://i.ytimg.com/vi/AQpkmNLs7ls/hqdefault.jpg
+image: https://i.ytimg.com/vi/AQpkmNLs7ls/maxresdefault.jpg
 publishDate: 2019-12-09
 title: '#266 Lyn Wadley: Archaeology, And The Evolution of Human Cognition'
 youtubeid: AQpkmNLs7ls

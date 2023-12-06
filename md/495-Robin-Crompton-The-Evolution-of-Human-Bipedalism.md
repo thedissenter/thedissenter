@@ -4,7 +4,7 @@ excerpt: Dr. Robin Huw Crompton is professor of musculoskeletal biology at the U
   of Liverpool in the Institute of Ageing and Chronic Disease. He has developed the
   Fossil Footprint Archive jointly with Matthew Bennett of Bournemouth University.
 id: e495
-image: https://i.ytimg.com/vi/oXmDureNqD8/hqdefault.jpg
+image: https://i.ytimg.com/vi/oXmDureNqD8/maxresdefault.jpg
 publishDate: 2021-07-15
 title: '#495 Robin Crompton: The Evolution of Human Bipedalism'
 youtubeid: oXmDureNqD8

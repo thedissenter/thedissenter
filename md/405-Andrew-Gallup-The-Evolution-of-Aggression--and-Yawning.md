@@ -8,7 +8,7 @@ excerpt: Dr. Andrew Gallup is Assistant Professor of Psychology and the director
   from an evolutionary perspective, biomarkers of Darwinian fitness, and the effects
   of neuromodulation on adaptive responses.
 id: e405
-image: https://i.ytimg.com/vi/SdKIuJwgOXU/hqdefault.jpg
+image: https://i.ytimg.com/vi/SdKIuJwgOXU/maxresdefault.jpg
 publishDate: 2020-12-17
 title: '#405 Andrew Gallup: The Evolution of Aggression, and Yawning'
 youtubeid: SdKIuJwgOXU

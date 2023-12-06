@@ -7,7 +7,7 @@ excerpt: 'Dr. Nathan H. Lents is Professor of Biology and director of the honors
   He is the author of books like Not So Different: Finding Human Nature in Animals,
   and Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes.'
 id: e442
-image: https://i.ytimg.com/vi/MMr202BtrLE/hqdefault.jpg
+image: https://i.ytimg.com/vi/MMr202BtrLE/maxresdefault.jpg
 publishDate: 2021-03-12
 title: '#442 Nathan Lents - Human Errors: A Panorama of Our Glitches, from Pointless
   Bones to Broken Genes'

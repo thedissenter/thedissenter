@@ -9,7 +9,7 @@ excerpt: "A Dra. Eug\xE9nia Cunha \xE9 Professora Catedr\xE1tica de Antropologia
   \ investiga\xE7\xE3o foca-se na biologia do esqueleto no \xE2mbito da Antropologia\
   \ Forense e da Evolu\xE7\xE3o Humana."
 id: e207
-image: https://i.ytimg.com/vi/g1UX4HfUmFc/hqdefault.jpg
+image: https://i.ytimg.com/vi/g1UX4HfUmFc/maxresdefault.jpg
 publishDate: 2019-07-25
 title: "#207 Eug\xE9nia Cunha: Antropologia Biol\xF3gica e Forense, e Evolu\xE7\xE3\
   o Humana"

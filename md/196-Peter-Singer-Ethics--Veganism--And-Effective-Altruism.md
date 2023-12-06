@@ -2,7 +2,7 @@
 draft: false
 excerpt: REUPLOAD OF PETER SINGER'S INTERVIEW
 id: e196
-image: https://i.ytimg.com/vi/Ab6Mko9nHMI/hqdefault.jpg
+image: https://i.ytimg.com/vi/Ab6Mko9nHMI/maxresdefault.jpg
 publishDate: 2019-06-28
 title: '#196 Peter Singer: Ethics, Veganism, And Effective Altruism'
 youtubeid: Ab6Mko9nHMI

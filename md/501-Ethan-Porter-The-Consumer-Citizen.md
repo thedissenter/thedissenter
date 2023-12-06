@@ -11,7 +11,7 @@ excerpt: 'Dr. Ethan Porter is an assistant professor at the George Washington Un
   Era, and The Consumer Citizen, which investigates the ways in which everyday consumer
   decision-making affects political attitudes and behavior.'
 id: e501
-image: https://i.ytimg.com/vi/zdfy1p8rB6c/hqdefault.jpg
+image: https://i.ytimg.com/vi/zdfy1p8rB6c/maxresdefault.jpg
 publishDate: 2021-07-29
 title: '#501 Ethan Porter: The Consumer Citizen'
 youtubeid: zdfy1p8rB6c

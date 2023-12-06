@@ -7,7 +7,7 @@ excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre Nat
   \ and extends the argumentative theory of reasoning, called The Enigma of Reason.\
   \  "
 id: e114
-image: https://i.ytimg.com/vi/yxhFJTS5iJA/hqdefault.jpg
+image: https://i.ytimg.com/vi/yxhFJTS5iJA/maxresdefault.jpg
 publishDate: 2019-07-12
 title: '#114 Hugo Mercier: The Enigma of Reason, Modularity, and Cognition'
 youtubeid: yxhFJTS5iJA

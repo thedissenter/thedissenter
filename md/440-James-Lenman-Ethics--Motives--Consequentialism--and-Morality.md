@@ -4,7 +4,7 @@ excerpt: Dr. James Lenman is Professor of Philosophy at the University of Sheffi
   He is known for his expertise on ethics. Dr. Lenman is a former president of the
   British Society for Ethical Theory (2002-2008).
 id: e440
-image: https://i.ytimg.com/vi/fvx71UQKHUA/hqdefault.jpg
+image: https://i.ytimg.com/vi/fvx71UQKHUA/maxresdefault.jpg
 publishDate: 2021-03-08
 title: '#440 James Lenman: Ethics, Motives, Consequentialism, and Morality'
 youtubeid: fvx71UQKHUA

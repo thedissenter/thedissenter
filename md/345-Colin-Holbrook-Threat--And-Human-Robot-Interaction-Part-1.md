@@ -5,7 +5,7 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
   of threat, with particular focus on political orientation, group prejudice, and
   the representation of mental states.
 id: e345
-image: https://i.ytimg.com/vi/XIocAsPszzc/hqdefault.jpg
+image: https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg
 publishDate: 2020-06-22
 title: '#345 Colin Holbrook: Threat, And Human-Robot Interaction (Part 1)'
 youtubeid: XIocAsPszzc

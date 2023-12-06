@@ -14,7 +14,7 @@ excerpt: "Dr. Evert Van de Vliert received his PhD from the Free University in A
   \ on the impact of cold, temperate, and hot climates on national and organizational\
   \ cultures."
 id: e416
-image: https://i.ytimg.com/vi/ybo1Nn51_i8/hqdefault.jpg
+image: https://i.ytimg.com/vi/ybo1Nn51_i8/maxresdefault.jpg
 publishDate: 2021-01-11
 title: '#416 Evert Van de Vliert: Climate, Economics, Affluence, Social Organizations,
   and Culture'

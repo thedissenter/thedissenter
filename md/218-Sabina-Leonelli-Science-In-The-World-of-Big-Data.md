@@ -11,7 +11,7 @@ excerpt: "Dr. Sabina Leonelli is Professor of Philosophy and History of Science 
   \ Biology: A Philosophical Study, and \u201CLa ricerca scientifica nell\u2019era\
   \ dei Big Data\u201D (\u201CScientific Research in the Era of Big Data\u201D)."
 id: e218
-image: https://i.ytimg.com/vi/umJEkz6qaLY/hqdefault.jpg
+image: https://i.ytimg.com/vi/umJEkz6qaLY/maxresdefault.jpg
 publishDate: 2019-08-19
 title: '#218 Sabina Leonelli: Science In The World of Big Data'
 youtubeid: umJEkz6qaLY

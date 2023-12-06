@@ -6,7 +6,7 @@ excerpt: "Dr. C\xE9cile Sarabian is a Postdoctoral researcher in Cognitive Ecolo
   \ She is generally interested in the origins of hygiene and disgust in humans and\
   \ in the potential applications of disgust into the field of Conservation."
 id: e511
-image: https://i.ytimg.com/vi/gbG8DHXnJw0/hqdefault.jpg
+image: https://i.ytimg.com/vi/gbG8DHXnJw0/maxresdefault.jpg
 publishDate: 2021-08-20
 title: "#511 C\xE9cile Sarabian: The Evolution of Disgust and Hygiene, and Conservation"
 youtubeid: gbG8DHXnJw0

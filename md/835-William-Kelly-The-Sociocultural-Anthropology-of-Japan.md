@@ -11,7 +11,7 @@ excerpt: "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumito
   \ Japan anthropology and its importance for Japan studies and for sociocultural\
   \ anthropology."
 id: e835
-image: https://i.ytimg.com/vi/kikAsqvKCdE/hqdefault.jpg
+image: https://i.ytimg.com/vi/kikAsqvKCdE/maxresdefault.jpg
 publishDate: 2023-09-15
 title: '#835 William Kelly: The Sociocultural Anthropology of Japan'
 youtubeid: kikAsqvKCdE

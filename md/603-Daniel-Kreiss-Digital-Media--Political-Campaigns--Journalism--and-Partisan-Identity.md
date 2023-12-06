@@ -8,7 +8,7 @@ excerpt: "Dr. Daniel Kreiss is Professor at the University of North Carolina at 
   \ The Making and Unmaking of Technological Innovation in the Republican and Democratic\
   \ Parties, 2000-2014."
 id: e603
-image: https://i.ytimg.com/vi/4At2a1x4kPc/hqdefault.jpg
+image: https://i.ytimg.com/vi/4At2a1x4kPc/maxresdefault.jpg
 publishDate: 2022-03-24
 title: '#603 Daniel Kreiss: Digital Media, Political Campaigns, Journalism, and Partisan
   Identity'

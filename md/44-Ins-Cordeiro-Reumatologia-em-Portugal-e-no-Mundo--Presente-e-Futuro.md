@@ -7,7 +7,7 @@ excerpt: "A Dra. In\xEAs Cordeiro \xE9 reumatologista, Secret\xE1ria-Geral Adjun
   \ de Medicina Molecular da Faculdade de Medicina da Universidade de Lisboa, e do\
   \ Centro Acad\xE9mico de Medicina de Lisboa.  "
 id: e44
-image: https://i.ytimg.com/vi/fEvdwwQ9SFc/hqdefault.jpg
+image: https://i.ytimg.com/vi/fEvdwwQ9SFc/maxresdefault.jpg
 publishDate: 2018-07-06
 title: "#44 In\xEAs Cordeiro: Reumatologia em Portugal e no Mundo, Presente e Futuro"
 youtubeid: fEvdwwQ9SFc

@@ -8,7 +8,7 @@ excerpt: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the Uni
   \ the science behind visual experience. She\u2019s the author of the book Moral\
   \ Animals: Ideals and Constraints in Moral Theory."
 id: e78
-image: https://i.ytimg.com/vi/cWKDCe2JdQw/hqdefault.jpg
+image: https://i.ytimg.com/vi/cWKDCe2JdQw/maxresdefault.jpg
 publishDate: 2019-05-20
 title: '#78 Catherine Wilson: How to Reach Morality, Egalitarianism, Affirmative Action,
   and Feminism'

@@ -6,7 +6,7 @@ excerpt: "Dr. Rebecca Newberger Goldstein is an American philosopher, novelist a
   s the author of ten books, both fiction and nonfiction, including The Mind-Body\
   \ Problem, Betraying Spinoza, and Plato at the Googleplex. "
 id: e63
-image: https://i.ytimg.com/vi/W00W3aSSXX0/hqdefault.jpg
+image: https://i.ytimg.com/vi/W00W3aSSXX0/maxresdefault.jpg
 publishDate: 2019-04-30
 title: '#63 Rebecca Newberger Goldstein: The Philosophy of Science, and The Science
   of Philosophy'

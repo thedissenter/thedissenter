@@ -9,7 +9,7 @@ excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of B
   \ And Other Essays on the Biology of the Human Predicament, A Primate's Memoir,\
   \ Behave: The Biology of Humans at Our Best and Worst."
 id: e384
-image: https://i.ytimg.com/vi/9q8h4C57mTw/hqdefault.jpg
+image: https://i.ytimg.com/vi/9q8h4C57mTw/maxresdefault.jpg
 publishDate: 2020-10-29
 title: '#384 Robert Sapolsky: Behavior, Self-control, Morality, Primates, Humans,
   and Religion'

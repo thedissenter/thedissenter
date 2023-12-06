@@ -7,7 +7,7 @@ excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sus
   the nature of fictional content. She has expressed critical views on the UK Gender
   Recognition Act and trans self-identification.'
 id: e260
-image: https://i.ytimg.com/vi/kL-cDT5FRk4/hqdefault.jpg
+image: https://i.ytimg.com/vi/kL-cDT5FRk4/maxresdefault.jpg
 publishDate: 2019-11-25
 title: '#260 Kathleen Stock: Fiction, And Transgenderism'
 youtubeid: kL-cDT5FRk4
