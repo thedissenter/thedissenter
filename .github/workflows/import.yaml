@@ -26,6 +26,11 @@ jobs:
     outputs:
       result: ${{ steps.import.outputs.result }}
     steps:
+    - name: Configure git
+      run: |
+        git config --global user.email "import@noreply.github.com"
+        git config --global user.name "import-workflow"
+        git config --global init.defaultBranch main
     - name: Checkout the git repository
       uses: actions/checkout@v4
       with:
@@ -35,18 +40,13 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: "3.10"
-    - name: Install dependencies
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         if [ -f incharge-podcaster/requirements.txt ]; then pip install -r incharge-podcaster/requirements.txt; fi
-    - name: Run the import
+    - name: Import podcast episodes
       id: import
       run: |
-        # Configure git
-        git config --global user.email "noreply@users.noreply.github.com"
-        git config --global user.name "import-workflow"
-        git config --global init.defaultBranch main
-        # Import
         source incharge-podcaster/import.sh
         echo "result=$IMPORT_RESULT" >> $GITHUB_OUTPUT
 
