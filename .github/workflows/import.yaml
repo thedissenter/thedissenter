@@ -1,8 +1,9 @@
 name: Import podcast episodes
 
-# Allow this workflow to be run manually from the Actions tab
 on:
+  # This workflow may be run manually from the Actions tab
   workflow_dispatch:
+  # This workflow run on a schedule
   schedule:
   # Cron spec is quoted because * is a special character in YAML
   #        M   H   DoM M   DoW
