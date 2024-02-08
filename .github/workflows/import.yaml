@@ -7,7 +7,7 @@ on:
   schedule:
   # Cron spec is quoted because * is a special character in YAML
   #        M   H   DoM M   DoW
-  - cron: '00  16  *   *   *'
+  - cron: '00  20  *   *   *'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
