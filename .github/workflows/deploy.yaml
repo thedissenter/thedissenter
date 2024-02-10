@@ -24,11 +24,12 @@ jobs:
       uses: actions/checkout@v4
       with:
         submodules: recursive
-        fetch-depth: 0        
     - name: Pull the repo, in case a cached version was checked out
       run: |
           git log --name-status --max-count=1
           git pull
+    - name: Update submodules to the latest commit, even if the superproject references older commits
+      run: git submodule update --remote
     - name: Copy content to astrowind/src/content/post
       run: |
           mkdir -p astrowind/src/content/post
