@@ -1,8 +1,10 @@
 *.xml
 .bash_history
+.bash_profile
 .bashrc
 .gitconfig
 .nvm
 .ssh
+*.code-workspace
 bin
 installers
