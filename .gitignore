@@ -3,5 +3,6 @@
 .bashrc
 .gitconfig
 .nvm
+.ssh
 bin
 installers
