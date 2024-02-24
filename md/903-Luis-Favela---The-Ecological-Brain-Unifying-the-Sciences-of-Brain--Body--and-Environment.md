@@ -40,4 +40,4 @@ Our first interview: https://youtu.be/c2iMOqFgYKM
 Faculty page: https://bit.ly/43m4xAN  
 Website: https://bit.ly/3IH4isf  
 PhilPeople profile: https://bit.ly/3OxcT4A  
-The Ecological Brain: https://bit.ly/3Siyxvt (Discount code for the book: EFL04, valid until March 31st 2024)
+The Ecological Brain: http://tinyurl.com/phk9d4jm (Discount code for the book: EFL04, valid until March 31st 2024)
