@@ -1,0 +1,34 @@
+{
+    "audio-bucket": "thedissenter-episode",
+    "transcript-bucket": "thedissenter-transcript",
+    "ums": ["um", "uh", "mhm"],
+    "defaults": {
+        "interviewer": ["Ricardo Lopes"]
+    },
+    "episodes": [
+        {
+            "id": "60",
+            "interviewee": ["Fernanda Drumond"]
+        },
+        {
+            "id": "235",
+            "interviewee": ["Daniel Glass", "Niruban Balachandran"]
+        },
+        {
+            "id": "461",
+            "interviewee": ["David Buss"]
+        },
+        {
+            "id": "563",
+            "interviewee": ["Robert Brooks"]
+        },
+        {
+            "id": "585",
+            "interviewee": ["Philippe Rochat"]
+        },
+        {
+            "id": "619",
+            "interviewee": ["Philip Dwyer"]
+        }
+    ]
+}
