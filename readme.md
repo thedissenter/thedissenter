@@ -2,12 +2,12 @@
 This document contains information to help you manage the **content** of this website.  It is aimed at people who are not web developers.  If you are a web developer planning to work on the code, you can find more technical information in [dev-readme.md](dev-readme.md)
 
 ## Site URLs
-The dev site is hosted at: https://incharge.github.io/thedissenter/
+The dev site is hosted at: https://www.thedissenter.net/    
 
 The website is made up of three git repositories:
-- [thedissenter](https://github.com/incharge/thedissenter) contains podcast episode data 
-- [astrowind](https://github.com/incharge/astrowind) contains the rest the website's structure and static pages
-- [incharge-podcaster](https://github.com/incharge/incharge-podcaster) contains scripts that import podcast data and build the website
+- [thedissenter](https://github.com/thedissenter/thedissenter) contains podcast episode data 
+- [astrowind](https://github.com/thedissenter/astrowind) contains the rest the website's structure and static pages
+- [incharge-podcaster](https://github.com/thedissenter/incharge-podcaster) contains scripts that import podcast data and build the website
 
 ## How to edit website pages via the GitHub UI
 Web pages are formatted using Markdown syntax.
@@ -15,7 +15,7 @@ For a concise list of Markdown formatting codes see https://www.markdownguide.or
 For Markdown training see https://www.markdownguide.org/.
 For more information about Markdown, see https://en.wikipedia.org/wiki/Markdown.
 
-Web pages are stored in a git repository: https://github.com/incharge/astrowind
+Web pages are stored in a git repository: https://github.com/thedissenter/astrowind
 
 The **src/pages** folder contains the static website pages.
 Files ending in **.md** are an extended version of Markdown format, so they are quite simple to edit.
@@ -24,8 +24,8 @@ Do not change other types of file unless you're a web developer and you're worki
 Note: Changes are not live (visible to website users) until the Deploy process completes.
 
 - Before you can edit files, you need to log into https://github.com with an account that has write permission.
-- Navigate to the [astrowind](https://github.com/incharge/astrowind) repository.
-- Click through to [src/pages](https://github.com/incharge/astrowind/tree/main/src/pages)
+- Navigate to the [astrowind](https://github.com/thedissenter/astrowind) repository.
+- Click through to [src/pages](https://github.com/thedissenter/astrowind/tree/main/src/pages)
 - Click the page you want to edit.
 - Click the pen icon in to top right. This shows `Edit this file` when the pointer hovers over it.
 - Make your changes.
@@ -37,9 +37,9 @@ Note: Changes are not live (visible to website users) until the Deploy process c
 
 ## How to deploy website changes to the live site
 
-- Go to [thedissenter repository](https://github.com/incharge/thedissenter).
-- Click [Actions](https://github.com/incharge/thedissenter/actions)
-- Click [Deploy to GitHub Pages](https://github.com/incharge/thedissenter/actions/workflows/deploy.yaml) (on the left). A list is - displayed showing the history of when this action has been run in reverse chronological order.
+- Go to [thedissenter repository](https://github.com/thedissenter/thedissenter).
+- Click [Actions](https://github.com/thedissenter/thedissenter/actions)
+- Click [Deploy to GitHub Pages](https://github.com/thedissenter/thedissenter/actions/workflows/deploy.yaml) (on the left). A list is displayed showing the history of when this action has been run in reverse chronological order.
 - Click `Run workflow`.  After a few seconds, a new item is added to the top of the list titled `Deploy to GitHub Pages`.  An orange dot on the left shows that the action is running.  A green tick shows that it has completed.  A red cross indicates there was an error.
 
 ## thedissenter git repository
