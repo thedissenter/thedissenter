@@ -6,7 +6,7 @@ excerpt: "Dr. David Pinsof is a research scientist who received his PhD in Psych
   \ sexual behavior. His empirical work explores individual differences in mating\
   \ psychology and their relation to political attitudes, mathematical models of alliance\
   \ formation, and the origins of political belief systems."
-id: '905'
+id: e905
 image: https://i.ytimg.com/vi/7kMPxH0yxts/maxresdefault.jpg
 publishDate: 2024-02-26
 title: '#905 David Pinsof: The Alliance Theory of Political Belief Systems, Meaning

@@ -7,7 +7,7 @@ excerpt: 'Dr. Naomi de Ruiter is Assistant Professor of Psychology at the Univer
   much of her research, she adopts a complex dynamic systems approach for micro-genetic
   or theoretical work. She is the author, together with Paul van Geert, of Toward
   a Process Approach in Psychology: Stepping into Heraclitus'' River.'
-id: '895'
+id: e895
 image: https://i.ytimg.com/vi/f9K0X7ox5GY/maxresdefault.jpg
 publishDate: 2024-02-02
 title: '#895 Naomi de Ruiter - Toward a Process Approach in Psychology: Stepping into

@@ -5,7 +5,7 @@ excerpt: 'Dr. Sarah Hart is an Emerita Professor of Mathematics at Birkbeck, Uni
   Gresham Professor of Geometry, the first woman to hold the position since its inception
   in 1597. She is the author of Once Upon a Prime: The Wondrous Connections Between
   Mathematics and Literature.'
-id: '893'
+id: e893
 image: https://i.ytimg.com/vi/_vkZBGso-pA/maxresdefault.jpg
 publishDate: 2024-01-29
 title: '#893 Sarah Hart - Once Upon a Prime: The Wondrous Connections Between Mathematics

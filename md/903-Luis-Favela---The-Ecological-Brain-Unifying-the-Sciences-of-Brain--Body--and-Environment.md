@@ -6,7 +6,7 @@ excerpt: 'Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive 
   program. His research attempts to understand mind (i.e., behavior, cognition, and
   consciousness) from a naturalistic and interdisciplinary perspective. He is the
   author of The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment.'
-id: '903'
+id: e903
 image: https://i.ytimg.com/vi/TLpop_LqHsE/maxresdefault.jpg
 publishDate: 2024-02-22
 title: '#903 Luis Favela - The Ecological Brain: Unifying the Sciences of Brain, Body,

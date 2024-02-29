@@ -10,7 +10,7 @@ excerpt: "Dr. Gregory Radick is Professor of History and Philosophy of Science a
   \ In 2022 he was appointed to the Board of Trustees of the Science Museum Group.\
   \ He is the author of several books, including Disputed Inheritance: The Battle\
   \ over Mendel and the Future of Biology."
-id: '896'
+id: e896
 image: https://i.ytimg.com/vi/vo0Ghd_-A3c/maxresdefault.jpg
 publishDate: 2024-02-05
 title: '#896 Gregory Radick - Disputed Inheritance: The Battle over Mendel and the

@@ -5,7 +5,7 @@ excerpt: 'Dr. Philip Ball is a freelance science writer, with a BA in Chemistry 
   was an editor at Nature for over 20 years. He is the author of many popular books
   on science, including The Book of Minds: How to Understand Ourselves and Other Beings,
   from Animals to AI to Aliens.'
-id: '892'
+id: e892
 image: https://i.ytimg.com/vi/LOft0GnIomE/maxresdefault.jpg
 publishDate: 2024-01-26
 title: '#892 Philip Ball - The Book of Minds: How to Understand Ourselves and Other

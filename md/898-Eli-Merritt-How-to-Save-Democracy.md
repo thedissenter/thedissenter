@@ -4,7 +4,7 @@ excerpt: 'Dr. Eli Merritt is a political historian at Vanderbilt University wher
   he researches the ethics of democracy, the interface of demagogues and democracy,
   and the founding principles of the United States. He is the editor of How to Save
   Democracy: Inspiration and Advice From 95 World Leaders.'
-id: '898'
+id: e898
 image: https://i.ytimg.com/vi/JpyexMOL7jc/maxresdefault.jpg
 publishDate: 2024-02-09
 title: '#898 Eli Merritt: How to Save Democracy'

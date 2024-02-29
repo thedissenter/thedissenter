@@ -9,7 +9,7 @@ excerpt: "Dr. Liuba Papeo is a tenured researcher at the Institut des Sciences C
   \ (2011-2013). She completed the postdoctoral research training at CIMeC, University\
   \ of Trento (2013-2014). In 2015, she joined the CBC at University Pompeu Fabra\
   \ of Barcelona funded by a Marie Curie Cofund program grant."
-id: '904'
+id: e904
 image: https://i.ytimg.com/vi/IXZ0nojzRcM/maxresdefault.jpg
 publishDate: 2024-02-23
 title: '#904 Liuba Papeo: Social Perception, and Processing Social Information'

@@ -5,7 +5,7 @@ excerpt: "Dr. Cailin O\u2019Connor is Professor in the Department of Logic and P
   \ philosopher of science, and evolutionary game theorist. Her monograph The Origins\
   \ of Unfairness was published in July 2019 by Oxford University Press. She is the\
   \ author of Games in the Philosophy of Biology, and The Misinformation Age."
-id: '900'
+id: e900
 image: https://i.ytimg.com/vi/pKrNDb67ogQ/maxresdefault.jpg
 publishDate: 2024-02-15
 title: '#900 Cailin O''Connor: Game Theory, Science, and Misinformation in the COVID-19
