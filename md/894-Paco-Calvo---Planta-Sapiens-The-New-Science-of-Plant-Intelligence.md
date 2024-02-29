@@ -9,7 +9,7 @@ excerpt: "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, wh
   \ significantly contributed to our understanding of cognition beyond the animal\
   \ kingdom, challenging conventional perspectives on intelligence and mental capacities.\
   \ He is the author of Planta Sapiens: The New Science of Plant Intelligence."
-id: e894
+id: '894'
 image: https://i.ytimg.com/vi/mbvrEBajXPg/maxresdefault.jpg
 publishDate: 2024-02-01
 title: '#894 Paco Calvo - Planta Sapiens: The New Science of Plant Intelligence'

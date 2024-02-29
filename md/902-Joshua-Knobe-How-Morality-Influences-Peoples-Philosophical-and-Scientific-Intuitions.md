@@ -5,7 +5,7 @@ excerpt: "Dr. Joshua Knobe is Professor of Philosophy, Linguistics and Psycholog
   \ of people\u2019s moral judgments on their intuitions about questions that might\
   \ initially appear to be entirely independent of morality (questions about intention,\
   \ causation, etc.)."
-id: e902
+id: '902'
 image: https://i.ytimg.com/vi/5OwECjl8Bs8/maxresdefault.jpg
 publishDate: 2024-02-19
 title: '#902 Joshua Knobe: How Morality Influences People''s Philosophical and Scientific

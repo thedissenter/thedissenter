@@ -6,7 +6,7 @@ excerpt: "Dr. Darcia Narvaez is a Professor of Psychology Emerita at the Univers
   \ development in terms of wellbeing, morality, and sustainable wisdom. She examines\
   \ how early life experience (the evolved nest) influences moral functioning and\
   \ wellbeing.   "
-id: e899
+id: '899'
 image: https://i.ytimg.com/vi/Sb-fGM9uLh4/maxresdefault.jpg
 publishDate: 2024-02-12
 title: '#899 Darcia Narvaez & Gay Bradshaw: The Evolved Nest'
