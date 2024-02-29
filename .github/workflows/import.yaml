@@ -41,7 +41,6 @@ jobs:
       uses: actions/checkout@v4
       with:
         submodules: recursive
-        fetch-depth: 0
     - name: Set up Python 3.10
       uses: actions/setup-python@v5
       with:
@@ -50,6 +49,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f incharge-podcaster/requirements.txt ]; then pip install -r incharge-podcaster/requirements.txt; fi
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v4
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}AWS_REGION
+        aws-region: ${{ secrets.AWS_REGION }}
     - name: Import podcast episodes
       id: import
       run: |
