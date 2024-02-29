@@ -2,6 +2,7 @@
 .bash_history
 .bash_profile
 .bashrc
+.viminfo
 .gitconfig
 .nvm
 .ssh
