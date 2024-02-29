@@ -5,8 +5,10 @@ excerpt: "Dr. Agner Fog is associate professor of computer science at Technical 
   \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
   \ of Genes and Culture\u201D."
 filename: 354-Agner-Fog-Warlike-and-Peaceful-Societies
-id: e354
+id: '354'
 image: https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg
+interviewee:
+- Agner Fog
 published: '2020-08-13'
 shownotes: "RECORDED ON JULY 18th, 2020.  \nDr. Agner Fog is associate professor of\
   \ computer science at Technical University of Denmark. Dr. Fog does research in\
