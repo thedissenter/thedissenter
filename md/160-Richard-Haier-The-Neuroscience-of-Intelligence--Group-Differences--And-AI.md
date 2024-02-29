@@ -9,7 +9,7 @@ excerpt: "Dr. Richard Haier is Professor Emeritus in the Pediatric Neurology Div
   \ parieto-frontal integration theory (P-FIT) with Rex Jung examines the neuroanatomy\
   \ of intelligence based on neuro-imaging research. He\u2019s also the author of\
   \ the book \u201CThe Neuroscience of Intelligence\u201D (2016)."
-id: e160
+id: '160'
 image: https://i.ytimg.com/vi/vz5IR0fL4c8/maxresdefault.jpg
 publishDate: 2019-04-05
 title: '#160 Richard Haier: The Neuroscience of Intelligence, Group Differences, And

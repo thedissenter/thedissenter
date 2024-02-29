@@ -7,7 +7,7 @@ excerpt: Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cogni
   and human behavior, covering evolutionary theory, animal behavior, evolutionary
   psychology, cross-cultural psychology, statistics and research methods. He is also
   a consultant for kindness.org.
-id: e61
+id: '61'
 image: https://i.ytimg.com/vi/umspNRCv_1o/maxresdefault.jpg
 publishDate: 2019-04-27
 title: '#61 Oliver Scott Curry: Morality as Cooperation, Moral Foundations'

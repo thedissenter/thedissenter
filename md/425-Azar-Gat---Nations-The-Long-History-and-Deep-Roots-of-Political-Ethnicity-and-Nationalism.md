@@ -6,7 +6,7 @@ excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel
   \ and Security. He\u2019s also the author of books like A History of Military Thought,\
   \ War in Human Civilization, and Nations: The Long History and Deep Roots of Political\
   \ Ethnicity and Nationalism."
-id: e425
+id: '425'
 image: https://i.ytimg.com/vi/TSL-IYgM8EE/maxresdefault.jpg
 publishDate: 2021-02-01
 title: '#425 Azar Gat - Nations: The Long History and Deep Roots of Political Ethnicity

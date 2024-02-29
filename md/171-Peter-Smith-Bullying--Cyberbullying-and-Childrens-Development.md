@@ -4,7 +4,7 @@ excerpt: "Dr. Peter K. Smith is Emeritus Professor of Psychology at Goldsmiths C
   \ University of London. His research interest is children\u2019s social development.\
   \ He is a Fellow of the British Psychological Society, the Association of Psychological\
   \ Sciences, and the Academy of Social Sciences."
-id: e171
+id: '171'
 image: https://i.ytimg.com/vi/TIqYkg0xBP4/maxresdefault.jpg
 publishDate: 2019-05-02
 title: '#171 Peter Smith: Bullying, Cyberbullying and Children''s Development'

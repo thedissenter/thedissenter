@@ -7,7 +7,7 @@ excerpt: Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht Univers
   of normative and/or metaethical interests, and what the limits of this approach
   are. He is the author of Moral Judgments as Educated Intuitions (2017), Debunking
   Arguments in Ethics (2018), and Moral Thinking, Fast and Slow (2018).
-id: e404
+id: '404'
 image: https://i.ytimg.com/vi/Jpit7l0ALpA/maxresdefault.jpg
 publishDate: 2020-12-14
 title: '#404 Hanno Sauer: Ethics, Moral Realism, Moral Progress, and Human Rationality'

@@ -4,7 +4,7 @@ excerpt: Dr. Limor Raviv is a research associate at the University of Madison, W
   Her research focuses on the cultural evolution of languages in different social
   environments. Specifically, she studies how the social structure of the environment
   affects the grammatical structure of languages.
-id: e364
+id: '364'
 image: https://i.ytimg.com/vi/DsoDtYV2NwY/maxresdefault.jpg
 publishDate: 2020-09-11
 title: '#364 Limor Raviv: Psycholinguistics, Child Development, and Language Acquisition'

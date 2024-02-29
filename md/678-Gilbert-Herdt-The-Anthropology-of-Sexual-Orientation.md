@@ -8,7 +8,7 @@ excerpt: Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and 
   Francisco (2013). He conducted long-term fieldwork among the Sambia people of Papua
   New Guinea, and has written widely on the nature and variation in human sexual expression
   in Papua New Guinea, Melanesia, and across cultures.
-id: e678
+id: '678'
 image: https://i.ytimg.com/vi/JmFEd1LpQxA/maxresdefault.jpg
 publishDate: 2022-09-15
 title: '#678 Gilbert Herdt: The Anthropology of Sexual Orientation'

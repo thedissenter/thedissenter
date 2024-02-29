@@ -6,7 +6,7 @@ excerpt: "Dr. Jerry Muller is Ordinary Professor of History at the Catholic Univ
   \ economic, and religious thought; and modern German and Jewish history. He\u2019\
   s also the author of books like The Mind and the Market, Capitalism and the Jews,\
   \ and, the most recent one, The Tyranny of Metrics."
-id: e68
+id: '68'
 image: https://i.ytimg.com/vi/F3JS1SwUgPU/maxresdefault.jpg
 publishDate: 2019-05-08
 title: '#68 Jerry Z. Muller: History and Philosophy of Capitalism'

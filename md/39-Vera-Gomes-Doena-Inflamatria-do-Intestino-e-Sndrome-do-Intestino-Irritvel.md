@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e39
+id: '39'
 image: https://i.ytimg.com/vi/LqC-LLPf-oc/maxresdefault.jpg
 publishDate: 2019-03-25
 title: "#39 Vera Gomes: Doen\xE7a Inflamat\xF3ria do Intestino e S\xEDndrome do Intestino\

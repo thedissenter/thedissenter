@@ -5,7 +5,7 @@ excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre Nat
   \ and Social Cognition team. Most of his work so far has focused on the function\
   \ and workings of reasoning. He\u2019s the author of The Enigma of Reason, and,\
   \ more recently, Not Born Yesterday: The Science of Who We Trust and What We Believe."
-id: e331
+id: '331'
 image: https://i.ytimg.com/vi/lXKSDiWJjyk/maxresdefault.jpg
 publishDate: 2020-05-08
 title: '#331 Hugo Mercier: Not Born Yesterday; Gullibility, Vigilance, Politics, and

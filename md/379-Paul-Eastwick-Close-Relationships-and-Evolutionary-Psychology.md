@@ -9,7 +9,7 @@ excerpt: "Dr. Paul Eastwick is Professor of Psychology at the University of Cali
   \ He is also interested in exploring how close relationships research can inform\
   \ evolutionary psychological approaches (and vice versa), especially with respect\
   \ to the way that relationships grow and develop over time."
-id: e379
+id: '379'
 image: https://i.ytimg.com/vi/MI0vSSmu17g/maxresdefault.jpg
 publishDate: 2020-10-16
 title: '#379 Paul Eastwick: Close Relationships and Evolutionary Psychology'

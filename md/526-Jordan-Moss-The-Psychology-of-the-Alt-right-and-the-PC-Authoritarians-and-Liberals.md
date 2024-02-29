@@ -3,7 +3,7 @@ draft: false
 excerpt: Jordan Moss is a psychology graduate and medical student at the University
   of Sydney. He has research interests in individual differences, with particular
   interest in personality theory and moral psychology.
-id: e526
+id: '526'
 image: https://i.ytimg.com/vi/_fmaKBtGtR8/maxresdefault.jpg
 publishDate: 2021-09-24
 title: '#526 Jordan Moss: The Psychology of the Alt-right and the PC Authoritarians

@@ -7,7 +7,7 @@ excerpt: Dr. Chiara Marletto is Postdoctoral Research Assistant in the Departmen
   at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione
   Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo"
   Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010.
-id: e394
+id: '394'
 image: https://i.ytimg.com/vi/9y5q7i9E1vU/maxresdefault.jpg
 publishDate: 2020-11-20
 title: '#394 Chiara Marletto: Quantum Mechanics, Constructor Theory, Free Will, and

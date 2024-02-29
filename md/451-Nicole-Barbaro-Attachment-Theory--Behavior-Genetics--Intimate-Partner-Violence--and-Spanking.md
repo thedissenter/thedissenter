@@ -4,7 +4,7 @@ excerpt: Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an A
   Professor at Utah Valley University, and the Communications Officer for the Human
   Behavior and Evolution Society. Her interests are in human sexual psychology and
   behavior, including application of life history theory and sperm competition theory.
-id: e451
+id: '451'
 image: https://i.ytimg.com/vi/llVelypdD0s/maxresdefault.jpg
 publishDate: 2021-04-02
 title: '#451 Nicole Barbaro: Attachment Theory, Behavior Genetics, Intimate Partner

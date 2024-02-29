@@ -7,7 +7,7 @@ excerpt: "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford U
   \ interests include language and communication, comprehension of events and narratives,\
   \ and the mapping and modeling of cognitive processes. She is the author of Mind\
   \ in Motion: How Action Shapes Thought."
-id: e455
+id: '455'
 image: https://i.ytimg.com/vi/3tKcLo6zU2s/maxresdefault.jpg
 publishDate: 2021-04-12
 title: '#455 Barbara Tversky - Mind in Motion: How Action Shapes Thought'

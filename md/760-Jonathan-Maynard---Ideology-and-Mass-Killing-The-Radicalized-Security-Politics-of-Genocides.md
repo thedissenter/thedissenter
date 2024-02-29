@@ -10,7 +10,7 @@ excerpt: 'Dr. Jonathan Maynard is a Lecturer in International Politics at King''
   speech, and on methodological debates in political theory and political science.
   He is the author of Ideology and Mass Killing: The Radicalized Security Politics
   of Genocides and Deadly Atrocities.'
-id: e760
+id: '760'
 image: https://i.ytimg.com/vi/iQt9pi8nmtc/maxresdefault.jpg
 publishDate: 2023-03-24
 title: '#760 Jonathan Maynard - Ideology and Mass Killing: The Radicalized Security

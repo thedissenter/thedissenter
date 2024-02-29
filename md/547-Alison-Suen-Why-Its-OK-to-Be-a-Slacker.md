@@ -4,7 +4,7 @@ excerpt: "Dr. Alison Suen is Associate Professor of Philosophy at Iona College, 
   \ York. She is the volume editor of Response Ethics (2018), the author of The Speaking\
   \ Animal: Ethics, Language and the Human Animal Divide (2015), and Why It\u2019\
   s OK to Be a Slacker."
-id: e547
+id: '547'
 image: https://i.ytimg.com/vi/__HU0dK-6Sw/maxresdefault.jpg
 publishDate: 2021-11-12
 title: '#547 Alison Suen: Why It''s OK to Be a Slacker'

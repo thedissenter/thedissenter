@@ -4,7 +4,7 @@ excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and
   of Science at Boston University. He is interested in comparative methodology across
   the natural and social sciences. He is the author of books like Post-Truth, and
   The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience.'
-id: e475
+id: '475'
 image: https://i.ytimg.com/vi/v4weV-yo1PE/maxresdefault.jpg
 publishDate: 2021-05-28
 title: '#475 Lee McIntyre - The Scientific Attitude: Defending Science from Denial,

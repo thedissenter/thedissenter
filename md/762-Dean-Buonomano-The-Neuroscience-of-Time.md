@@ -5,7 +5,7 @@ excerpt: 'Dr. Dean Buonomano is Professor of Neurobiology and Psychology at the 
   selective responses to temporal features such as duration, interval and order. He
   is the author of Brain Bugs: How the Brain''s Flaws Shape our Lives, and Your Brain
   is a Time Machine: The Neuroscience and Physics of Time.'
-id: e762
+id: '762'
 image: https://i.ytimg.com/vi/6Vbvz8i8P7M/maxresdefault.jpg
 publishDate: 2023-03-30
 title: '#762 Dean Buonomano: The Neuroscience of Time'

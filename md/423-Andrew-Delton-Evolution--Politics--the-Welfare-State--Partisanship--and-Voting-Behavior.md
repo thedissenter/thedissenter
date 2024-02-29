@@ -9,7 +9,7 @@ excerpt: Dr. Andrew Delton is Associate Professor in the Department of Political
   games, population-based surveys, decision making tasks, implicit social cognition
   measures, game theoretic analysis, agent-based simulations, and cross-cultural data
   collection.
-id: e423
+id: '423'
 image: https://i.ytimg.com/vi/UL6bo_rX1ss/maxresdefault.jpg
 publishDate: 2021-01-28
 title: '#423 Andrew Delton: Evolution, Politics, the Welfare State, Partisanship,

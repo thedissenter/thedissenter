@@ -12,7 +12,7 @@ excerpt: 'Dr. Ian Tattersall is currently curator emeritus in the Division of An
   to the public, with numerous trade books to his credit, as well as several articles
   in Scientific American and the co-editorship of the definitive Encyclopedia of Human
   Evolution and Prehistory. '
-id: e368
+id: '368'
 image: https://i.ytimg.com/vi/Hmxol5o_mkE/maxresdefault.jpg
 publishDate: 2020-09-21
 title: '#368 Ian Tattersall: Human Evolution and Cognition'

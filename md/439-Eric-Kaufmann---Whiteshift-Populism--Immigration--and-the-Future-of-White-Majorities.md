@@ -4,7 +4,7 @@ excerpt: "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, Univer
   \ of London, UK.  He is principally interested in cultural politics: ethnicity,\
   \ national identity and religion. He\u2019s the author of Whiteshift: Populism,\
   \ Immigration, and the Future of White Majorities."
-id: e439
+id: '439'
 image: https://i.ytimg.com/vi/8vrxUHPMjQQ/maxresdefault.jpg
 publishDate: 2021-03-05
 title: '#439 Eric Kaufmann - Whiteshift: Populism, Immigration, and the Future of

@@ -5,7 +5,7 @@ excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas
   \ His primary research focus is on strategies of human mating. He\u2019s the author\
   \ of many books, including The Evolution of Desire, and the first textbook in Evolutionary\
   \ Psychology, Evolutionary Psychology: The New Science of the Mind."
-id: e88
+id: '88'
 image: https://i.ytimg.com/vi/BgmE8wHLol8/maxresdefault.jpg
 publishDate: 2019-06-04
 title: '#88 David Buss: Evolutionary Psychology, and the Basics of Human Mating'

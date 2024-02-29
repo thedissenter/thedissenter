@@ -5,7 +5,7 @@ excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage 
   consulting, managerial, and research positions. He is the author of books like Information
   and the Modern Corporation, and Fake News Nation: The Long History of Lies and Misinterpretations
   in America.'
-id: e479
+id: '479'
 image: https://i.ytimg.com/vi/l2VQRnsW2XY/maxresdefault.jpg
 publishDate: 2021-06-07
 title: '#479 James Cortada - Fake News Nation: The Long History of Lies and Misinterpretations

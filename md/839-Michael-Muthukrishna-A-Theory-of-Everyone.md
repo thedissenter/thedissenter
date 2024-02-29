@@ -9,7 +9,7 @@ excerpt: "Dr. Michael Muthukrishna is an Associate Professor of Economic Psychol
   \ processes that underlie culture and how culture is transmitted, maintained, and\
   \ modified. He is the author of A Theory of Everyone: The New Science of Who We\
   \ Are, How We Got Here, and Where We\u2019re Going."
-id: e839
+id: '839'
 image: https://i.ytimg.com/vi/ijYK-NITkeU/maxresdefault.jpg
 publishDate: 2023-09-25
 title: '#839 Michael Muthukrishna: A Theory of Everyone'

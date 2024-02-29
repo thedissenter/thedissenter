@@ -11,7 +11,7 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
   \ Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence,\
   \ his Psychology Today blog, Dr. Geher addresses various topics related to the human\
   \ condition."
-id: e155
+id: '155'
 image: https://i.ytimg.com/vi/ZIEUPiueJik/maxresdefault.jpg
 publishDate: 2019-03-25
 title: '#155 Glenn Geher: Evolutionary Psych, Mating, Attachment, And The PsychTable'

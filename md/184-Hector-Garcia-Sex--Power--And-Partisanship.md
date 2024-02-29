@@ -9,7 +9,7 @@ excerpt: "Dr. Hector A. Garcia is a clinical psychologist specializing in the tr
   \ He\u2019s also the author of Alpha God: The Psychology of Religious Violence and\
   \ Oppression, and Sex, Power, and Partisanship: How Evolutionary Science Makes Sense\
   \ of Our Political Divide."
-id: e184
+id: '184'
 image: https://i.ytimg.com/vi/56X7BO1AZk0/maxresdefault.jpg
 publishDate: 2019-05-31
 title: '#184 Hector Garcia: Sex, Power, And Partisanship'

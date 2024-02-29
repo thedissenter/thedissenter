@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e33
+id: '33'
 image: https://i.ytimg.com/vi/h2E1wIuaBxc/maxresdefault.jpg
 publishDate: 2019-03-15
 title: '#33 Richard Lippa: Sex Differences in Cognition and Interests'

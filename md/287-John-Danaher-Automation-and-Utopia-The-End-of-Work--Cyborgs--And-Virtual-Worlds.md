@@ -10,7 +10,7 @@ excerpt: "Dr. John Danaher is a senior lecturer in the Law School at the Nationa
   \ He also writes for the Institute for Ethics and Emerging Technologies, and is\
   \ the author of the recent book, Automation and Utopia: Human Flourishing in a World\
   \ without Work."
-id: e287
+id: '287'
 image: https://i.ytimg.com/vi/Uw7fLPilqcc/maxresdefault.jpg
 publishDate: 2020-01-27
 title: '#287 John Danaher: Automation and Utopia; The End of Work, Cyborgs, And Virtual

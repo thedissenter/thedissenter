@@ -9,7 +9,7 @@ excerpt: 'Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda
   contemporary civilization. He is the author of books like Nihilism and the Meaning
   of Life: A Philosophical Dialogue with James Tartaglia, and Manga Introduction to
   Philosophy: An Exploration of Time, Existence, the Self, and the Meaning of Life.'
-id: e643
+id: '643'
 image: https://i.ytimg.com/vi/1Q3j7TTOwo8/maxresdefault.jpg
 publishDate: 2022-06-24
 title: '#643 Masahiro Morioka - Manga Introduction to Philosophy; Life, Death, Time,

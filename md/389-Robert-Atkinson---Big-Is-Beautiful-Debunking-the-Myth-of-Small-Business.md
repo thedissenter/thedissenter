@@ -6,7 +6,7 @@ excerpt: "Dr. Robert Atkinson is a Canadian-American economist. He is president 
   \ He was previously Vice President of the Progressive Policy Institute. He\u2019\
   s the author of four books, including Big Is Beautiful: Debunking the Myth of Small\
   \ Business."
-id: e389
+id: '389'
 image: https://i.ytimg.com/vi/KFu36PXfc_c/maxresdefault.jpg
 publishDate: 2020-11-09
 title: '#389 Robert Atkinson - Big Is Beautiful: Debunking the Myth of Small Business'

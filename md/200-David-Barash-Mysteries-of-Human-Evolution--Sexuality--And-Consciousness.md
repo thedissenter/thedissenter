@@ -9,7 +9,7 @@ excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the Univers
   \ Eastern Wisdom Meets Modern Western Science\u201D, \u201CApproaches to Peace:\
   \ A Reader in Peace Studies\u201D, and \u201CThrough a Glass Brightly: using science\
   \ to see our species as we really are\u201D."
-id: e200
+id: '200'
 image: https://i.ytimg.com/vi/hvUxxivLMy8/maxresdefault.jpg
 publishDate: 2019-07-08
 title: '#200 David Barash: Mysteries of Human Evolution, Sexuality, And Consciousness'

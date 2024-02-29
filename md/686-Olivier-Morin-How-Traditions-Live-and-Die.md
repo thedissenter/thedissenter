@@ -6,7 +6,7 @@ excerpt: Dr. Olivier Morin has a full-time tenured research position at the Inst
   focuses on cultural transmission and touches on the relations between anthropology,
   psychology and the philosophy of social science. He is the author of How Traditions
   Live and Die.
-id: e686
+id: '686'
 image: https://i.ytimg.com/vi/o2s2jq37DtU/maxresdefault.jpg
 publishDate: 2022-10-03
 title: '#686 Olivier Morin: How Traditions Live and Die'

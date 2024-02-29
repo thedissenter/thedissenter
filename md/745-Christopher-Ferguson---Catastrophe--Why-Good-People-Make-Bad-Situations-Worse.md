@@ -4,7 +4,7 @@ excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson Univ
   \ He is interested in media violence and, in particular, video games. He\u2019s\
   \ the author of Catastrophe!: How Psychology Explains Why Good People Make Bad Situations\
   \ Worse."
-id: e745
+id: '745'
 image: https://i.ytimg.com/vi/1MPBx3t5_7U/maxresdefault.jpg
 publishDate: 2023-02-17
 title: '#745 Christopher Ferguson - Catastrophe!; Why Good People Make Bad Situations

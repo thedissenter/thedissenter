@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e19
+id: '19'
 image: https://i.ytimg.com/vi/2DxJl_vPohI/maxresdefault.jpg
 publishDate: 2019-02-27
 title: '#19 Roberto Rivera: Human Sex Distribution, Genotype and Phenotype, Epigenetics'

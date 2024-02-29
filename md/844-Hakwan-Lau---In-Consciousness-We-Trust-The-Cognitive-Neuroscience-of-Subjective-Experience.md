@@ -5,7 +5,7 @@ excerpt: 'Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consci
   and sensory metacognition, using human fMRI and Bayesian computational modeling.
   He is the author of In Consciousness We Trust: The Cognitive Neuroscience of Subjective
   Experience.'
-id: e844
+id: '844'
 image: https://i.ytimg.com/vi/MrWoLH3IUNo/maxresdefault.jpg
 publishDate: 2023-10-06
 title: '#844 Hakwan Lau - In Consciousness We Trust: The Cognitive Neuroscience of

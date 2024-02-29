@@ -8,7 +8,7 @@ excerpt: 'Dr. Naomi Oreskes is Henry Charles Lea Professor of the History of Sci
   of disinformation in blocking climate action. Dr. Oreskes is author or co-author
   of 9 books, the latest one being The Big Myth: How American Business Taught Us to
   Loathe Government and Love the Free Market.'
-id: e854
+id: '854'
 image: https://i.ytimg.com/vi/g1XYBSL5118/maxresdefault.jpg
 publishDate: 2023-10-30
 title: '#854 Naomi Oreskes - The Big Myth: How American Business Taught Us to Loathe

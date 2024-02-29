@@ -10,7 +10,7 @@ excerpt: "Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU Un
   \ He\u2019s the author of several books, including The Loss of Sadness: How Psychiatry\
   \ Transformed Normal Sorrow into Depressive Disorder, and All We Have to Fear: Psychiatry\u2019\
   s Transformation of Natural Anxieties into Mental Disorders."
-id: e754
+id: '754'
 image: https://i.ytimg.com/vi/aUpj374i-og/maxresdefault.jpg
 publishDate: 2023-03-10
 title: '#754 Jerome Wakefield: What is a Mental Disorder?; Depression, and Anxiety'

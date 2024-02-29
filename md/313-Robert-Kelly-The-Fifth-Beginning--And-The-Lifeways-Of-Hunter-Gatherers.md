@@ -11,7 +11,7 @@ excerpt: "Dr. Robert Kelly is Professor of Archaeology at the University of Wyom
   \ during different periods in the past. He\u2019s the author of books like The Foraging\
   \ Spectrum: Diversity in Hunter-Gatherer Lifeways, and The Fifth Beginning: What\
   \ Six Million Years of Human History Can Tell Us about Our Future."
-id: e313
+id: '313'
 image: https://i.ytimg.com/vi/oiT_S2v6Gfc/maxresdefault.jpg
 publishDate: 2020-03-27
 title: '#313 Robert Kelly: The Fifth Beginning, And The Lifeways Of Hunter-Gatherers'

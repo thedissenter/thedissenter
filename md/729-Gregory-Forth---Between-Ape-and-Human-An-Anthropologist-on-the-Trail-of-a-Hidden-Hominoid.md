@@ -5,7 +5,7 @@ excerpt: 'Dr. Gregory Forth received his doctorate at Oxford and was a professor
   of the Royal Society of Canada and is the author of more than one hundred scholarly
   papers and several academic books. His latest book is Between Ape and Human: An
   Anthropologist on the Trail of a Hidden Hominoid.'
-id: e729
+id: '729'
 image: https://i.ytimg.com/vi/iVHPucjOT4I/maxresdefault.jpg
 publishDate: 2023-01-12
 title: '#729 Gregory Forth - Between Ape and Human: An Anthropologist on the Trail

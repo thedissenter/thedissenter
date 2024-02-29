@@ -9,7 +9,7 @@ excerpt: "Dr. Ian Gilligan is Honorary Associate Professor in the Department of 
   \ age. In addition, he explores the wider psychological and philosophical aspects\
   \ of wearing clothes. He\u2019s also the author of the recent book Climate, Clothing,\
   \ and Agriculture in Prehistory: Linking Evidence, Causes, and Effects (2018)."
-id: e161
+id: '161'
 image: https://i.ytimg.com/vi/uByvocNozGo/maxresdefault.jpg
 publishDate: 2019-04-08
 title: '#161 Ian Gilligan: The Evolution of Clothing and Agriculture'

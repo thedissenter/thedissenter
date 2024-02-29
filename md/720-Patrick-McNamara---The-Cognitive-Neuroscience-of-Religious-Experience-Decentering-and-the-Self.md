@@ -11,7 +11,7 @@ excerpt: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Dep
   two mammalian sleep states (REM and NREM) and the evolution of religion in human
   cultures. He is the author of The Cognitive Neuroscience of Religious Experience:
   Decentering and the Self.'
-id: e720
+id: '720'
 image: https://i.ytimg.com/vi/Iwj4KOYH954/maxresdefault.jpg
 publishDate: 2022-12-22
 title: '#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience:

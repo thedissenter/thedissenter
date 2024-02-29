@@ -5,7 +5,7 @@ excerpt: Dr. Carin Perilloux is Assistant Professor of Psychology at Southwester
   perspective. In particular, she applies an adaptationist lens to human mating. Her
   main research interests include sexual intent perception, physical attractiveness,
   sexual victimization and parent-offspring conflict.
-id: e98
+id: '98'
 image: https://i.ytimg.com/vi/8DZD0AD6d7M/maxresdefault.jpg
 publishDate: 2019-06-18
 title: '#98 Carin Perilloux: Perceiving Sexual Interest, Physical Attractiveness,

@@ -12,7 +12,7 @@ excerpt: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Foundi
   \ Fellow of the AAAS (American Association for the Advancement of Science). He\u2019\
   s also the author of several books, including Why We Get Sick (coauthored with George\
   \ C. Williams) and, more recently, Good Reasons for Bad Feelings (2019)."
-id: e233
+id: '233'
 image: https://i.ytimg.com/vi/o29wuO0AJUA/maxresdefault.jpg
 publishDate: 2019-09-23
 title: '#233 Randolph Nesse: Good Reasons for Bad Feelings'

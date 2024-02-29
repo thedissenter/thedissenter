@@ -4,7 +4,7 @@ excerpt: 'Dr. Batja Mesquita is Distinguished Professor of Psychology at the Uni
   of Leuven, Belgium, where she studies the role of culture in emotions, and of emotions
   in culture and society. She is director of the Center for Social and Cultural Psychology
   in Leuven. She is the author of Between Us: How Cultures Create Emotions.'
-id: e710
+id: '710'
 image: https://i.ytimg.com/vi/eyTBsgOU24E/maxresdefault.jpg
 publishDate: 2022-11-28
 title: '#710 Batja Mesquita - Between Us: How Cultures Create Emotions'

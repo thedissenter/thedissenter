@@ -8,7 +8,7 @@ excerpt: 'Dr. Russell T. Warne is Associate Professor of Psychology at Utah Vall
   journals and is the author of the acclaimed undergraduate statistics textbook Statistics
   for the Social Sciences: A General Linear Model Approach. His next book is In the
   Know: Debunking 35 Myths About Human Intelligence.'
-id: e376
+id: '376'
 image: https://i.ytimg.com/vi/c9owI60ucNg/maxresdefault.jpg
 publishDate: 2020-10-09
 title: '#376 Russell Warne: Standardized Tests, Critical Thinking and Creativity'

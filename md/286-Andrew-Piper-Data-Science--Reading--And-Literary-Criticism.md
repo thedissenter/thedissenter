@@ -10,7 +10,7 @@ excerpt: "Dr. Andrew Piper is Professor in the Department of Languages, Literatu
   \ author of books like \u201CDreaming in Books: The Making of the Bibliographic\
   \ Imagination in the Romantic Age\u201D, and \u201CEnumerations: Data and Literary\
   \ Study\u201D."
-id: e286
+id: '286'
 image: https://i.ytimg.com/vi/RMyQIF2qllY/maxresdefault.jpg
 publishDate: 2020-01-24
 title: '#286 Andrew Piper: Data Science, Reading, And Literary Criticism'

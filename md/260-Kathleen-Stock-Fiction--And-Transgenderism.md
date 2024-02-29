@@ -6,7 +6,7 @@ excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sus
   monograph Only Imagine: Fiction, Interpretation and Imagination (2017) she examines
   the nature of fictional content. She has expressed critical views on the UK Gender
   Recognition Act and trans self-identification.'
-id: e260
+id: '260'
 image: https://i.ytimg.com/vi/kL-cDT5FRk4/maxresdefault.jpg
 publishDate: 2019-11-25
 title: '#260 Kathleen Stock: Fiction, And Transgenderism'

@@ -5,7 +5,7 @@ excerpt: 'Dr. Richard Redding is Ronald D. Rotunda Distinguished Professor of Ju
   on forensic issues in criminal law and juvenile justice, the use of social science
   research in law and public policy, scientific evidence, and legal education.  His
   work in these areas is both theoretical or policy-oriented and empirical. '
-id: e880
+id: '880'
 image: https://i.ytimg.com/vi/CPJ3joeYrkw/maxresdefault.jpg
 publishDate: 2023-12-29
 title: '#880 Richard Redding: Sociopolitical Values in Psychological Research and

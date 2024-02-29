@@ -4,7 +4,7 @@ excerpt: Dr. Andrew Sayer is Emeritus Professor of Social Theory and Political E
   at Lancaster University. He is known for significant contributions to methodology
   and theory in the social sciences. He is the author of multiple books, including
   Why We Can't Afford the Rich.
-id: e614
+id: '614'
 image: https://i.ytimg.com/vi/tkFLXRJTh30/maxresdefault.jpg
 publishDate: 2022-04-18
 title: '#614 Andrew Sayer - Why We Can''t Afford the Rich; Economic Inequality, And

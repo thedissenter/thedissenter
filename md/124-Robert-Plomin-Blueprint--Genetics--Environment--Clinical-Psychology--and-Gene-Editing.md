@@ -10,7 +10,7 @@ excerpt: "Dr. Robert Plomin is Professor of Behavioural Genetics at the Social G
   \ Nature And Nurture: An Introduction To Human Behavioral Genetics (2004), Nature\
   \ and Nurture During Infancy and Early Childhood (2006), G Is for Genes (2013),\
   \ and, the most recent one, Blueprint: How DNA Makes Us Who We Are (2018)."
-id: e124
+id: '124'
 image: https://i.ytimg.com/vi/ohPNhwch0Eg/maxresdefault.jpg
 publishDate: 2019-07-26
 title: '#124 Robert Plomin: Blueprint, Genetics, Environment, Clinical Psychology,

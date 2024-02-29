@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
-id: e5
+id: '5'
 image: https://i.ytimg.com/vi/iYrueaQy-0s/maxresdefault.jpg
 publishDate: 2019-02-05
 title: "#5 Patrick Lee Miller: Reason and Morality From Antiquity to Postmodernism\

@@ -7,7 +7,7 @@ excerpt: "Dr. Justin L. Barrett is Professor of Psychology at Fuller Graduate Sc
   s also the author of books like Why Would Anyone Believe in God?, Cognitive Science,\
   \ Religion, and Theology: From Human Minds to Divine Minds, and Born Believers:\
   \ The Science of Children's Religious Belief."
-id: e179
+id: '179'
 image: https://i.ytimg.com/vi/GaFeBTv37ag/maxresdefault.jpg
 publishDate: 2019-05-20
 title: '#179 Justin Barrett: Cognition And Development In Religion'

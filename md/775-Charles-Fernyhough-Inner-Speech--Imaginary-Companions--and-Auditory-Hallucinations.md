@@ -8,7 +8,7 @@ excerpt: 'Dr. Charles Fernyhough is a Professor of Psychology at Durham Universi
   the phenomenon of voice-hearing. He is the author of books like Pieces of Light:
   The New Science of Memory, and The Voices Within: The History and Science of How
   We Talk to Ourselves.'
-id: e775
+id: '775'
 image: https://i.ytimg.com/vi/0FIWXXdWwkw/maxresdefault.jpg
 publishDate: 2023-04-28
 title: '#775 Charles Fernyhough: Inner Speech, Imaginary Companions, and Auditory

@@ -5,7 +5,7 @@ excerpt: 'Dr. Jon Wisman is Professor of Economics at American University in Was
   methodology and undergraduate courses in macroeconomics, European economic history,
   American economic history, economic development, and labor economics. He is the
   author of The Origins and Dynamics of Inequality: Sex, Politics, and Ideology.'
-id: e680
+id: '680'
 image: https://i.ytimg.com/vi/0wJURNprAx8/maxresdefault.jpg
 publishDate: 2022-09-19
 title: '#680 Jon Wisman - The Origins and Dynamics of Inequality: Sex, Politics, and

@@ -7,7 +7,7 @@ excerpt: "Dr. \xC9mile Torres is a post-doc researcher at Case Western Reserve U
   \ history of the idea.  They are the author of Morality, Foresight, and Human Flourishing:\
   \ An Introduction to Existential Risks, and their latest book is Human Extinction:\
   \ A History of the Science and Ethics of Annihilation."
-id: e876
+id: '876'
 image: https://i.ytimg.com/vi/6NLTyUPGhH0/maxresdefault.jpg
 publishDate: 2023-12-21
 title: "#876 \xC9mile Torres - Human Extinction (Part 2): Existential Ethics"

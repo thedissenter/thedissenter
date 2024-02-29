@@ -11,7 +11,7 @@ excerpt: Dr. Peter DeScioli is Assistant Professor in the Department of Politica
   laboratory. In recent years, he has been designing online games for experiments
   about politics, including redistribution of wealth, social safety nets, alliance
   formation, and political negotiation.
-id: e221
+id: '221'
 image: https://i.ytimg.com/vi/z4RrlcuDpTc/maxresdefault.jpg
 publishDate: 2019-08-26
 title: '#221 Peter Descioli: The Evolution of Morality, Moral Judgment, And Common

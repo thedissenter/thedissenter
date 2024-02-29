@@ -6,7 +6,7 @@ excerpt: Dr. Gil Greengross is a Lecturer in Psychology at Aberystwyth Universit
   and laughter, what makes people laugh, and how humor is used in mating and mate
   choice. He also has a strong interest in studying people with extreme creative abilities,
   such as stand-up comedians, magicians, and other artists.
-id: e777
+id: '777'
 image: https://i.ytimg.com/vi/8OKbtZ6ojtk/maxresdefault.jpg
 publishDate: 2023-05-04
 title: '#777 Gil Greengross: The (Evolutionary) Psychology of Humor, Laughter, and

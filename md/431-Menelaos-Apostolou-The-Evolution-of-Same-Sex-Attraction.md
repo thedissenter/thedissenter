@@ -5,7 +5,7 @@ excerpt: "Dr. Menelaos Apostolou is currently an Associate Professor at the Univ
   \ and graduate studies in the United Kingdom. He has published several peer-reviewed\
   \ papers, books and chapters in books in the area of evolutionary psychology. He\u2019\
   s the author of a new book, The Evolution of Same-Sex Attraction."
-id: e431
+id: '431'
 image: https://i.ytimg.com/vi/sVskQ3LVMNw/maxresdefault.jpg
 publishDate: 2021-02-15
 title: '#431 Menelaos Apostolou: The Evolution of Same-Sex Attraction'

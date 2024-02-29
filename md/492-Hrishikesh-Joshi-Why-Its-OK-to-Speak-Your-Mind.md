@@ -3,7 +3,7 @@ draft: false
 excerpt: "Dr. Hrishikesh Joshi is Assistant Professor of Philosophy at Bowling Green\
   \ State University. He works on moral and political philosophy. He is the author\
   \ of Why It\u2019s OK to Speak Your Mind."
-id: e492
+id: '492'
 image: https://i.ytimg.com/vi/vViTppXwRgc/maxresdefault.jpg
 publishDate: 2021-07-08
 title: '#492 Hrishikesh Joshi: Why It''s OK to Speak Your Mind'

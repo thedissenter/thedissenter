@@ -14,7 +14,7 @@ excerpt: "Dr. Karen Kramer is Professor of Anthropology at the University of Uta
   \ strategies, and the effects that seasonal resource availability has on fertility\
   \ and child mortality. She also collaborates with conservation biologists and primatologists\
   \ working in the Madagascar highlands."
-id: e555
+id: '555'
 image: https://i.ytimg.com/vi/8YM6M-ojrpI/maxresdefault.jpg
 publishDate: 2021-12-02
 title: '#555 Karen Kramer: Life History, Parenting, Population Growth, Dipersals,

@@ -4,7 +4,7 @@ excerpt: "Dr. Peter S. Ungar is Distinguished Professor of Anthropology and Dire
   \ of Environmental Dynamics at the University of Arkansas. His research focuses\
   \ on paleoecology and teeth. He\u2019s the author of books like Mammal Teeth, Evolution\u2019\
   s Bite, and of textbooks like Human Diet: Its Origin and Evolution."
-id: e272
+id: '272'
 image: https://i.ytimg.com/vi/Mg5Ff_7gTLw/maxresdefault.jpg
 publishDate: 2019-12-23
 title: '#272 Peter Ungar: The Evolution Of Teeth, And Our Diet'

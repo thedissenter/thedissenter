@@ -6,7 +6,7 @@ excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Bir
   Her research is in the philosophy of the cognitive sciences. She is the author of
   The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions
   Matter.
-id: e862
+id: '862'
 image: https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg
 publishDate: 2023-11-17
 title: '#862 Lisa Bortolotti: Why Delusions Matter'

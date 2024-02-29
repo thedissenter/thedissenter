@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Dr. Russell T. Warne is Associate Professor of Psychology at Utah Valley
   University. His new book is In the Know: Debunking 35 Myths About Human Intelligence.'
-id: e385
+id: '385'
 image: https://i.ytimg.com/vi/uVvrYg1nHAI/maxresdefault.jpg
 publishDate: 2020-10-30
 title: '#385 Russell Warne - In the Know: Debunking 35 Myths about Human Intelligence'

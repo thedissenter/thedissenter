@@ -10,7 +10,7 @@ excerpt: Dr. Edward Hagen is Professor of Evolutionary Anthropology at Washingto
   interest in the evolution of human social organization. Finally, he has published
   a number of theoretical papers on evolutionary approaches to ontogeny, cognition,
   and behavior.
-id: e315
+id: '315'
 image: https://i.ytimg.com/vi/2uTpWtopEJ0/maxresdefault.jpg
 publishDate: 2020-04-02
 title: '#315 Edward Hagen: Anthropology, And The Bargaining Model of Depression And

@@ -13,7 +13,7 @@ excerpt: "Dr. Stanley Fish is Professor of Law at Florida International Universi
   \ Correctness: Literary Studies and Political Change (1995); The Trouble with Principle\
   \ (1999); How Milton Works (2001); and The First: How to Think About Hate Speech,\
   \ Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump (2019)."
-id: e428
+id: '428'
 image: https://i.ytimg.com/vi/ZWqbhW8-WLM/maxresdefault.jpg
 publishDate: 2021-02-08
 title: '#428 Stanley Fish - There''s No Such Thing as Free Speech'

@@ -10,7 +10,7 @@ excerpt: "Dr. Maryanne Fisher is a Professor in the Department of Psychology, an
   \ by the Canadian Progress Club as a Woman of Excellent in the Division of Research\
   \ and Education. She\u2019s also the editor of Evolution's Empress: Darwinian Perspectives\
   \ on the Nature of Women."
-id: e217
+id: '217'
 image: https://i.ytimg.com/vi/8BDOyArmlmk/maxresdefault.jpg
 publishDate: 2019-08-16
 title: '#217 Maryanne Fisher: Evolutionary Psychology, Women, And Feminism'

@@ -10,7 +10,7 @@ excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for h
   s also the author of a number of books, including Neurophilosophy: Toward a Unified\
   \ Science of the Mind-Brain, Braintrust: What Neuroscience Tells Us about Morality,\
   \ and Conscience: The Origins of Moral Intuition."
-id: e252
+id: '252'
 image: https://i.ytimg.com/vi/tZjNtEnAYFI/maxresdefault.jpg
 publishDate: 2019-11-07
 title: '#252 Patricia Churchland: Conscience, Morality, and Moral Philosophy'

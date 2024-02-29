@@ -6,7 +6,7 @@ excerpt: 'Dr. Tim Clutton-Brock is Professor in the Department of Zoology at Cam
   The evolution of vertebrate breeding systems; Population regulation and the control
   of population stability in large mammals; Natural and sexual selection in natural
   populations.'
-id: e493
+id: '493'
 image: https://i.ytimg.com/vi/Xf71Jt3h1Xc/maxresdefault.jpg
 publishDate: 2021-07-09
 title: '#493 Tim Clutton-Brock: The Evolution of Sociality, and Mammal Societies'

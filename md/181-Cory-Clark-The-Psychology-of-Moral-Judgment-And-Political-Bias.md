@@ -4,7 +4,7 @@ excerpt: "Dr. Cory Clark is an Assistant Professor of Quantitative Social Psycho
   \ at Durham University, UK. Dr. Clark does research in Moral Psychology, Political\
   \ Psychology, Experimental Philosophy, and Motivated Cognition. She\u2019s also\
   \ the cohost of Psyphilopod."
-id: e181
+id: '181'
 image: https://i.ytimg.com/vi/IcnJ5VCvocc/maxresdefault.jpg
 publishDate: 2019-05-24
 title: '#181 Cory Clark: The Psychology of Moral Judgment And Political Bias'

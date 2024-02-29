@@ -8,7 +8,7 @@ excerpt: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhous
   (since 1998), and on pilot whales off Nova Scotia Isince 1998). They spend periods
   of weeks at sea on board ocean-going sailing boats collecting acoustic, visual,
   photographic, genetic and oceanographic data.'
-id: e310
+id: '310'
 image: https://i.ytimg.com/vi/KCnWsD4ZS54/maxresdefault.jpg
 publishDate: 2020-03-20
 title: '#310 Hal Whitehead: The Sociality And Culture Of Whales'

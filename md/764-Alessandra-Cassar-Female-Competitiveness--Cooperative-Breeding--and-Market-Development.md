@@ -5,7 +5,7 @@ excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of 
   Her current research concentrates on the under-studied areas of female competitiveness;
   the consequences of conflict and disaster victimization for altruism, trust, religiosity,
   risk, and time preferences; and the role of social networks for economic outcomes.
-id: e764
+id: '764'
 image: https://i.ytimg.com/vi/IS74XZmBymk/maxresdefault.jpg
 publishDate: 2023-04-03
 title: '#764 Alessandra Cassar: Female Competitiveness, Cooperative Breeding, and

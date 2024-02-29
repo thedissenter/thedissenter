@@ -12,7 +12,7 @@ excerpt: Dr. Sarah Brosnan is a Professor in the departments of psychology and p
   individuals make and how they make them, how their social or ecological environments
   affect their decisions and interactions, and under what circumstances they can alter
   their behaviors depending on these conditions.
-id: e163
+id: '163'
 image: https://i.ytimg.com/vi/xTt25Cv-eZI/maxresdefault.jpg
 publishDate: 2019-04-12
 title: '#163 Sarah Brosnan: Morality, Reciprocity, Fairness, And Property in Primates'

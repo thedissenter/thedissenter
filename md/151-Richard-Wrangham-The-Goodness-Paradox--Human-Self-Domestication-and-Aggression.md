@@ -10,7 +10,7 @@ excerpt: 'Dr. Richard Wrangham is Ruth B. Moore Professor of Biological Anthropo
   as a patron of the Great Apes Survival Partnership (GRASP). He has also recently
   published the book The Goodness Paradox: The Strange Relationship Between Virtue
   and Violence in Human Evolution (2019).'
-id: e151
+id: '151'
 image: https://i.ytimg.com/vi/w6GPDed9U1M/maxresdefault.jpg
 publishDate: 2019-03-15
 title: '#151 Richard Wrangham: The Goodness Paradox, Human Self-Domestication and

@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e21
+id: '21'
 image: https://i.ytimg.com/vi/iYnq7-l8btg/maxresdefault.jpg
 publishDate: 2019-03-01
 title: '#21 Norman Sandridge: Leadership, from Cyrus to Trump'

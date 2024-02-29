@@ -5,7 +5,7 @@ excerpt: Dr. Azim Shariff is Associate Professor and Canada Research Chair at th
   focuses on where morality intersects with religion, cultural attitudes and economics.
   Another rapidly expanding part of his research looks at human-technology interactions
   and the ethics of automation, including self-driving cars.
-id: e177
+id: '177'
 image: https://i.ytimg.com/vi/mjWveAPPoSk/maxresdefault.jpg
 publishDate: 2019-05-16
 title: '#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars'

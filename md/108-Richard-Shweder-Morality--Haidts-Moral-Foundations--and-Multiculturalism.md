@@ -11,7 +11,7 @@ excerpt: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swi
   \ for his essay \u201CDoes the Concept of the Person Vary Cross-Culturally?\u201D\
   . He is a Fellow of the American Academy of Arts and Sciences. He has served as\
   \ President of the Society for Psychological Anthropology.  "
-id: e108
+id: '108'
 image: https://i.ytimg.com/vi/o-HRrzg6sM0/maxresdefault.jpg
 publishDate: 2019-07-03
 title: '#108 Richard Shweder: Morality, Haidt''s Moral Foundations, and Multiculturalism'

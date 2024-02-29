@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Podcast: http://bit.ly/3FeSNqb'
-id: e827
+id: '827'
 image: https://i.ytimg.com/vi/YDye_PmZEqE/maxresdefault.jpg
 publishDate: 2023-08-28
 title: '#827 Joseph Henrich: Cross-Cultural Research, Intelligence, Mating Systems,

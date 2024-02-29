@@ -7,7 +7,7 @@ excerpt: "Dr. Steve Stewart-Williams is Associate Professor of Psychology at Not
   \ He also has a long-standing interest in the philosophical implications of evolutionary\
   \ theory. He\u2019s also the author of the books Darwin, God and the Meaning of\
   \ Life (2010) and The Ape That Understood the Universe (2018)."
-id: e150
+id: '150'
 image: https://i.ytimg.com/vi/WQtrjpUU0L4/maxresdefault.jpg
 publishDate: 2019-03-14
 title: '#150 Steve Stewart-Williams: The Ape That Understood The Universe, Biology

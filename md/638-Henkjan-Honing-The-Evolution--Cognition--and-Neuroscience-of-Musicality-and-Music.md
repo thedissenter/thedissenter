@@ -10,7 +10,7 @@ excerpt: "Dr. Henkjan Honing is professor in Music Cognition at both the Faculty
   \ (2021, Routledge), The Evolving Animal Orchestra: In Search of What Makes Us Musical\
   \ (2019, The MIT Press)\u2013, and an edited volume with a research agenda on musicality\
   \ entitled The Origins of Musicality (2018, The MIT Press)."
-id: e638
+id: '638'
 image: https://i.ytimg.com/vi/QNiN2ncRU3s/maxresdefault.jpg
 publishDate: 2022-06-13
 title: '#638 Henkjan Honing: The Evolution, Cognition, and Neuroscience of Musicality

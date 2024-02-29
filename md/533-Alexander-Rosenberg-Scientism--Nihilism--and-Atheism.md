@@ -13,7 +13,7 @@ excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor 
   \ Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He\u2019\
   s the author of both fictional and non-fictional literature, including The Atheist\u2019\
   s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong."
-id: e533
+id: '533'
 image: https://i.ytimg.com/vi/LwpizkJstkw/maxresdefault.jpg
 publishDate: 2021-10-11
 title: '#533 Alexander Rosenberg: Scientism, Nihilism, and Atheism'

@@ -5,7 +5,7 @@ excerpt: "Dr. Paul Katsafanas is Associate Professor in the Department of Philos
   \ philosophy. He\u2019s the author of the books Agency and the Foundations of Ethics:\
   \ Nietzschean Constitutivism, and The Nietzschean Self: Moral Psychology, Agency,\
   \ and the Unconscious."
-id: e240
+id: '240'
 image: https://i.ytimg.com/vi/o7LxgsSZbZk/maxresdefault.jpg
 publishDate: 2019-10-10
 title: '#240 Paul Katsafanas: Nietzsche And Moral Psychology'

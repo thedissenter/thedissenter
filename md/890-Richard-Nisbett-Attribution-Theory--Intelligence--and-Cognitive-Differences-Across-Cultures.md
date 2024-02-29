@@ -6,7 +6,7 @@ excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished Universit
   \ from the American Psychological Association in 1982, and he\u2019s a Guggenheim\
   \ fellow. He\u2019s also the author of several books, including Culture of Honor,\
   \ The Geography of Thought, Mindware, and Thinking: A memoir."
-id: e890
+id: '890'
 image: https://i.ytimg.com/vi/2ke9RzgePUI/maxresdefault.jpg
 publishDate: 2024-01-22
 title: '#890 Richard Nisbett: Attribution Theory, Intelligence, and Cognitive Differences

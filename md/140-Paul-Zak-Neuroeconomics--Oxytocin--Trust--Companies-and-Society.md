@@ -10,7 +10,7 @@ excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponen
   \ Harvard. He\u2019s also the author of books like The Moral Molecule: The Source\
   \ of Love and Prosperity, and Trust Factor: The Science of Creating High-Performance\
   \ Companies."
-id: e140
+id: '140'
 image: https://i.ytimg.com/vi/zIuk3dIvmn0/maxresdefault.jpg
 publishDate: 2019-02-18
 title: '#140 Paul Zak: Neuroeconomics, Oxytocin, Trust, Companies and Society'

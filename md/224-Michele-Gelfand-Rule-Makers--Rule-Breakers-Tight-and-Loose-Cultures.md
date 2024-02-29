@@ -8,7 +8,7 @@ excerpt: 'Dr. Michele Gelfand is a Distinguished University Professor at the Uni
   Voice of America, Fox News, NBC News, ABC News, The Economist, among other outlets.
   She is the author of Rule Makers, Rule Breakers: How Tight and Loose Cultures Wire
   the World (Scribner, 2018).'
-id: e224
+id: '224'
 image: https://i.ytimg.com/vi/oLC3KhYDsLg/maxresdefault.jpg
 publishDate: 2019-09-02
 title: '#224 Michele Gelfand: Rule Makers, Rule Breakers; Tight and Loose Cultures'

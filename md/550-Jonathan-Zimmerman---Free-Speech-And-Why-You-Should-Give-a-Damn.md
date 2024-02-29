@@ -7,7 +7,7 @@ excerpt: 'Dr. Jonathan Zimmerman is a Professor of History of Education at the U
   of teaching and learning. He has a particular interest in how political and social
   movements come to shape education. He is the author of several books, including
   the most recent one, Free Speech: And Why You Should Give a Damn.'
-id: e550
+id: '550'
 image: https://i.ytimg.com/vi/JcTyILqcPT8/maxresdefault.jpg
 publishDate: 2021-11-19
 title: '#550 Jonathan Zimmerman - Free Speech: And Why You Should Give a Damn'

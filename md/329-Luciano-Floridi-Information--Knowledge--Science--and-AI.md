@@ -14,7 +14,7 @@ excerpt: "Dr. Luciano Floridi is the OII\u2018s Professor of Philosophy and Ethi
   \ the Philosophy of Information, and the Philosophy of Technology. His other research\
   \ interests include Epistemology, Philosophy of Logic, and the History and Philosophy\
   \ of Scepticism."
-id: e329
+id: '329'
 image: https://i.ytimg.com/vi/jgmdEk7rTxU/maxresdefault.jpg
 publishDate: 2020-05-04
 title: '#329 Luciano Floridi: Information, Knowledge, Science, and AI'

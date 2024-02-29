@@ -12,7 +12,7 @@ excerpt: 'Dr. Andreas Jungherr is Professor for Political Science with a focus o
   He is the author of books like Retooling Politics: How Digital Media are Shaping
   Democracy, and Analyzing Political Communication with Digital Trace Data: The Role
   of Twitter Messages in Social Science Research.'
-id: e574
+id: '574'
 image: https://i.ytimg.com/vi/v8yuU1NbFFI/maxresdefault.jpg
 publishDate: 2022-01-14
 title: '#574 Andreas Jungherr: Online Political Discourse, Digital Media and Politics,

@@ -7,7 +7,7 @@ excerpt: 'Dr. Justin Mogilski is Assistant Professor at the University of South 
   3) individual differences in predatory intimate relationship behaviors. He currently
   leads an international team of sexuality and relationship researchers studying CNM
   relationship maintenance strategies.'
-id: e792
+id: '792'
 image: https://i.ytimg.com/vi/NYVsXw1Vo2I/maxresdefault.jpg
 publishDate: 2023-06-08
 title: '#792 Justin Mogilski: Satisfaction and Maintenance in Monogamous and Non-Monogamous

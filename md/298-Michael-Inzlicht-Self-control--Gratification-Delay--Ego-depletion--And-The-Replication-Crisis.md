@@ -9,7 +9,7 @@ excerpt: Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the Un
   been in the topics of self-control, where he borrows methods from affective and
   cognitive neuroscience to understand the underlying nature of self-control, including
   how it is driven by motivation.
-id: e298
+id: '298'
 image: https://i.ytimg.com/vi/fuA1l7bL954/maxresdefault.jpg
 publishDate: 2020-02-21
 title: '#298 Michael Inzlicht: Self-control, Gratification Delay, Ego-depletion, And

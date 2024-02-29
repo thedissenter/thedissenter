@@ -9,7 +9,7 @@ excerpt: "Dr. William Keith Campbell is a professor in the Department of Psychol
   \ in collaboration with Grady College alumna Carolyn Crist, was recently released:\
   \ \u201CThe New Science of Narcissism: Understanding one of the greatest Psychological\
   \ challenges of our time \u2013 and what you can do about it\u201D."
-id: e447
+id: '447'
 image: https://i.ytimg.com/vi/MgEHg1lIS3U/maxresdefault.jpg
 publishDate: 2021-03-25
 title: '#447 W. Keith Campbell: The New Science of Narcissism'

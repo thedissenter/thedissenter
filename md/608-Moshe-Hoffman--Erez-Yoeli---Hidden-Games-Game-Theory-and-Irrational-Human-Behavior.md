@@ -2,7 +2,7 @@
 draft: false
 excerpt: Dr. Moshe Hoffman is a Research Scientist at the Max Planck Institute for
   Evolutionary Biology and Lecturer at Harvard's Department of Economics.
-id: e608
+id: '608'
 image: https://i.ytimg.com/vi/EGEdt6iuSQo/maxresdefault.jpg
 publishDate: 2022-04-04
 title: '#608 Moshe Hoffman & Erez Yoeli - Hidden Games; Game Theory and Irrational

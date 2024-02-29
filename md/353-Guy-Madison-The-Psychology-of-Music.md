@@ -3,7 +3,7 @@ draft: false
 excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at University\
   \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\
   \ Biology. "
-id: e353
+id: '353'
 image: https://i.ytimg.com/vi/hMHPqjF27q4/maxresdefault.jpg
 publishDate: 2020-08-10
 title: '#353 Guy Madison: The Psychology of Music'

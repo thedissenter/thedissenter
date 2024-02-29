@@ -10,7 +10,7 @@ excerpt: "Dr. Darcia Narvaez is a Professor of Psychology Emerita at the Univers
   \ 2014 book - Neurobiology and the Development of Human Morality - won the 2015\
   \ William James Book Award from the APA and the 2017 Expanded Reason Award for research.\
   \ She also writes a popular blog for Psychology Today called \u201CMoral Landscapes.\u201D"
-id: e471
+id: '471'
 image: https://i.ytimg.com/vi/2KdwnOMCYN0/maxresdefault.jpg
 publishDate: 2021-05-20
 title: '#471 Darcia Narvaez: Moral Development, and Flourishing'

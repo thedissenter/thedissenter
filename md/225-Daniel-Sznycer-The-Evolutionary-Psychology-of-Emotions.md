@@ -10,7 +10,7 @@ excerpt: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology 
   \ moral attitudes, and how they shape communication. The methods Dr. Sznycer uses\
   \ include experimental economic games, decision-making tasks, priming methods, cross-cultural\
   \ and ethnographic data collection, large-scale representative surveys, and anthropometry."
-id: e225
+id: '225'
 image: https://i.ytimg.com/vi/cEDkQX-8Brk/maxresdefault.jpg
 publishDate: 2019-09-05
 title: '#225 Daniel Sznycer: The Evolutionary Psychology of Emotions'

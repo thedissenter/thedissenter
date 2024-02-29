@@ -13,7 +13,7 @@ excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy 
   \ the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He\u2019s the author of both\
   \ fictional and non-fictional literature, including The Atheist\u2019s Guide to\
   \ Reality, The Girl from Krakow, and How History Gets Things Wrong.  "
-id: e115
+id: '115'
 image: https://i.ytimg.com/vi/Iii5P4HGf0g/maxresdefault.jpg
 publishDate: 2019-07-13
 title: '#115 Alexander Rosenberg: Theory of Mind, History, Mental Illusions, and Nihilism'

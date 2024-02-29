@@ -9,7 +9,7 @@ excerpt: Dr. Andrew Guess is an assistant professor of politics and public affai
   are polarized (the popular "echo chambers" hypothesis), patterns in the consumption
   and spread of online misinformation, and the effectiveness of efforts to counteract
   misperceptions encountered on social media.
-id: e524
+id: '524'
 image: https://i.ytimg.com/vi/Uc_ePVhfWcs/maxresdefault.jpg
 publishDate: 2021-09-20
 title: '#524 Andrew Guess: Political Polarization, Misinformation, Fake News, and

@@ -6,7 +6,7 @@ excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre Nat
   \ and workings of reasoning. Together with Dan Sperber, he wrote a book that develops\
   \ and extends the argumentative theory of reasoning, called The Enigma of Reason.\
   \  "
-id: e114
+id: '114'
 image: https://i.ytimg.com/vi/yxhFJTS5iJA/maxresdefault.jpg
 publishDate: 2019-07-12
 title: '#114 Hugo Mercier: The Enigma of Reason, Modularity, and Cognition'

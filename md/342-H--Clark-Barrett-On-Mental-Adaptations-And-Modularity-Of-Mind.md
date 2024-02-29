@@ -14,7 +14,7 @@ excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, a
   \ topics ranging from infant-directed speech to the evolution of morality, and supervise\
   \ graduate projects on the evolution of cognition. He\u2019s the author of the book\
   \ The Shape of Thought: How Mental Adaptations Evolve."
-id: e342
+id: '342'
 image: https://i.ytimg.com/vi/_jGJfPDQXlo/maxresdefault.jpg
 publishDate: 2020-06-08
 title: '#342 H. Clark Barrett: On Mental Adaptations And Modularity Of Mind'

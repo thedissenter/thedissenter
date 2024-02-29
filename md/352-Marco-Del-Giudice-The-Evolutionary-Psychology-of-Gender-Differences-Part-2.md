@@ -11,7 +11,7 @@ excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psyc
   \ Most of his current empirical work is devoted to testing, advancing, and refining\
   \ these models with a variety of research methods. He\u2019s the author of Evolutionary\
   \ Psychopathology: A Unified Approach."
-id: e352
+id: '352'
 image: https://i.ytimg.com/vi/SJ_8sz1RLEc/maxresdefault.jpg
 publishDate: 2020-08-06
 title: '#352 Marco Del Giudice: The Evolutionary Psychology of Gender Differences

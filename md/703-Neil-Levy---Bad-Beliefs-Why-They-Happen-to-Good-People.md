@@ -4,7 +4,7 @@ excerpt: 'Dr. Neil Levy is Senior Research Fellow at the Oxford Uehiro Centre fo
   Practical Ethics. He is a wide-ranging philosopher, working principally at the intersection
   of philosophy of mind and psychology and ethics. He is the author of several books,
   including Bad Beliefs: Why They Happen to Good People.'
-id: e703
+id: '703'
 image: https://i.ytimg.com/vi/lD7MTle4nGk/maxresdefault.jpg
 publishDate: 2022-11-11
 title: '#703 Neil Levy - Bad Beliefs: Why They Happen to Good People'

@@ -3,7 +3,7 @@ draft: false
 excerpt: 'Dr. Anna Vedel is PhD and Postdoc in the Department of Psychology and Behavioural
   Sciences at Aarhus University, Denmark. Her research areas are in individual differences,
   personality, academic performance, and study choices. '
-id: e194
+id: '194'
 image: https://i.ytimg.com/vi/nRkYXivyyXE/maxresdefault.jpg
 publishDate: 2019-06-24
 title: '#194 Anna Vedel: Personality, Academia, Ageing, And The Gender Equality Paradox'

@@ -11,7 +11,7 @@ excerpt: Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at 
   of captive and free-living wildlife (with a particular focus on elephants), which
   includes a One Health approach looking at the interface between humans/domestic
   animals/wildlife and their environment.
-id: e805
+id: '805'
 image: https://i.ytimg.com/vi/t39KduI6p80/maxresdefault.jpg
 publishDate: 2023-07-07
 title: '#805 Lisa Yon: Elephant Welfare, Environmental Pollutants, and Zoonotic Pathogens'

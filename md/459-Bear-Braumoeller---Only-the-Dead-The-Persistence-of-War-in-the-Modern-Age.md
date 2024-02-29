@@ -12,7 +12,7 @@ excerpt: "Dr. Bear F. Braumoeller is a Professor in the Department of Political 
   \ Studies Association Best Book Award and the 2014 J. David Singer Book Award) and\
   \ Only the Dead: The Persistence of War in the Modern Age (Oxford University Press,\
   \ 2019)."
-id: e459
+id: '459'
 image: https://i.ytimg.com/vi/iZLC_yd6sTI/maxresdefault.jpg
 publishDate: 2021-04-22
 title: '#459 Bear Braumoeller - Only the Dead: The Persistence of War in the Modern

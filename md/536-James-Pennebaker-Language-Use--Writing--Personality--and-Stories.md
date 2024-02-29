@@ -9,7 +9,7 @@ excerpt: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Art
   psychology, communications, medicine, and computer science. Author or editor of
   12 books and over 300 articles, Pennebaker has received numerous research and teaching
   awards and honors.
-id: e536
+id: '536'
 image: https://i.ytimg.com/vi/BK3wNfCW1vI/maxresdefault.jpg
 publishDate: 2021-10-18
 title: '#536 James Pennebaker: Language Use, Writing, Personality, and Stories'

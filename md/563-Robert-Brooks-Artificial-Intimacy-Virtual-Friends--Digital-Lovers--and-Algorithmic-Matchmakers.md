@@ -6,7 +6,7 @@ excerpt: "Dr. Robert Brooks is Professor of Evolution at the University of New S
   \ sex, diet, obesity and death. He is the author of Sex, Genes & Rock \u2018n\u2019\
   \ Roll: How Evolution has Shaped the Modern World, and, more recently, Artificial\
   \ Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers."
-id: e563
+id: '563'
 image: https://i.ytimg.com/vi/qiSGH9UVokY/maxresdefault.jpg
 publishDate: 2021-12-20
 title: '#563 Robert Brooks Artificial Intimacy: Virtual Friends, Digital Lovers, and

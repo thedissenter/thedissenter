@@ -7,7 +7,7 @@ excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Cen
   \ Goals, and author of The Ethics of Artificial Intelligence: Principles, Challenges,\
   \ and Opportunities (OUP), and The Green and the Blue: Na\xEFve Ideas to Improve\
   \ Politics in the Digital Age (Wiley)."
-id: e855
+id: '855'
 image: https://i.ytimg.com/vi/54tt9UM5AII/maxresdefault.jpg
 publishDate: 2023-11-02
 title: '#855 Luciano Floridi - The Ethics of Artificial Intelligence: Principles,

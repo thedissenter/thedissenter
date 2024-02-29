@@ -6,7 +6,7 @@ excerpt: "Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) ther
   \ sexual desire and well-being. She also works as a principal researcher for Blueheart.io.\
   \ Blueheart\u2019s mission is to bring sex therapy to millions of couples in an\
   \ app format to help couples navigate issues around sexual desire discrepancy."
-id: e631
+id: '631'
 image: https://i.ytimg.com/vi/A6KrxC-ZYSM/maxresdefault.jpg
 publishDate: 2022-05-27
 title: '#631 Laura Vowels: Sexual and Relationship Satisfaction, Sexual Values, and

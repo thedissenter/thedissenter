@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'GRAVADA NO DIA 6 DE JANEIRO DE 2020.  '
-id: e308
+id: '308'
 image: https://i.ytimg.com/vi/6F43pKQILd0/maxresdefault.jpg
 publishDate: 2020-03-16
 title: "#308 Pedro Galv\xE3o: O Que \xC9 A \xC9tica? + Aborto E Eutan\xE1sia"

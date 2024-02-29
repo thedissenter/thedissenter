@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e22
+id: '22'
 image: https://i.ytimg.com/vi/Pqoil02RlOU/maxresdefault.jpg
 publishDate: 2019-03-02
 title: '#22 Fernanda Drumond: Gapminder, Dollar Street, Progress at All Levels of

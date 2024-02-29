@@ -11,7 +11,7 @@ excerpt: Dr. Sven Nyholm is an Assistant Professor of Philosophy and Ethics at E
   and disability and the goods of life. He is especially interested in how robotization
   and other types of automation affect traditional human values, as well as in existential
   questions raised by new technological developments.
-id: e222
+id: '222'
 image: https://i.ytimg.com/vi/eEcqxjlz1eg/maxresdefault.jpg
 publishDate: 2019-08-29
 title: '#222 Sven Nyholm: Self-Driving Cars, Love Enhancement, And Sex Robots'

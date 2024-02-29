@@ -7,7 +7,7 @@ excerpt: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Log
   \ Science Fund. Her work focuses on the socio-cognitive abilities of animals and\
   \ their ethical implications. She is the author of \u201CLa zarig\xFCeya de Schr\xF6\
   dinger: C\xF3mo viven y entienden la muerte los animales\u201D."
-id: e695
+id: '695'
 image: https://i.ytimg.com/vi/DhXS94-0QTo/maxresdefault.jpg
 publishDate: 2022-10-24
 title: "#695 Susana Mons\xF3: How Animals Experience and Understand Death"

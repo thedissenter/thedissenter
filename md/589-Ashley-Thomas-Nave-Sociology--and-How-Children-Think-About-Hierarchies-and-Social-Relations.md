@@ -9,7 +9,7 @@ excerpt: Dr. Ashley Thomas is a postdoctoral fellow at the center for research o
   and they are investigating how infants interpret social interactions that involve
   their own caregivers as well as how infants, toddlers, and children think about
   social intimacy. She has also studied people's moral judgments of parenting decisions.
-id: e589
+id: '589'
 image: https://i.ytimg.com/vi/Tksbpc29W2Y/maxresdefault.jpg
 publishDate: 2022-02-18
 title: "#589 Ashley Thomas: Na\xEFve Sociology, and How Children Think About Hierarchies\

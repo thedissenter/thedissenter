@@ -4,7 +4,7 @@ excerpt: Dr. Luke Glowacki is Assistant Professor in the Department of Anthropol
   at Boston University and a faculty affiliate of the Center for Innovation in Social
   Science. He studies the evolution of complex social behavior, including cooperation
   and war.
-id: e877
+id: '877'
 image: https://i.ytimg.com/vi/A82iYdWqqx8/maxresdefault.jpg
 publishDate: 2023-12-22
 title: '#877 Luke Glowacki: Is Human Warfare Ancient or Recent?'

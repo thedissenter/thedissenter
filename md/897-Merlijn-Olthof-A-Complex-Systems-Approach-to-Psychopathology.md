@@ -4,7 +4,7 @@ excerpt: Dr. Merlijn Olthof is a Post-Doc in Tipping points in Treatment at the 
   of Groningen, and Lecturer in Pedagogical Sciences at Radboud University. His work
   focuses on complex systems, clinical psychology, developmental psychopathology,
   and related topics.
-id: e897
+id: '897'
 image: https://i.ytimg.com/vi/7J0vrrXMFKg/maxresdefault.jpg
 publishDate: 2024-02-08
 title: '#897 Merlijn Olthof: A Complex Systems Approach to Psychopathology'

@@ -8,7 +8,7 @@ excerpt: 'Dr. Kennon Sheldon is Curator''s Distinguished Professor in the Depart
   in personality psychology. He is the author of several books, the most recent one
   being Freely Determined: What the New Psychology of the Self Teaches Us About How
   to Live.'
-id: e787
+id: '787'
 image: https://i.ytimg.com/vi/Xb5frvOUjGo/maxresdefault.jpg
 publishDate: 2023-05-26
 title: '#787 Kennon Sheldon - Freely Determined; The New Psychology of the Self, and

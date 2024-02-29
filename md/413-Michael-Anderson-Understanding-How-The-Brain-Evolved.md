@@ -10,7 +10,7 @@ excerpt: Dr. Michael Anderson is Rotman Canada Research Chair in Philosophy of S
   higher-order cognitive functions; the foundations of intentionality (the connection
   between objects of thought and things in the world); and the role of self-monitoring
   and self-control in maintaining robust real-world agency.
-id: e413
+id: '413'
 image: https://i.ytimg.com/vi/ciwKgLHowNc/maxresdefault.jpg
 publishDate: 2021-01-04
 title: '#413 Michael Anderson: Understanding How The Brain Evolved'

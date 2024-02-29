@@ -9,7 +9,7 @@ excerpt: 'Dr. Robert A. Burton graduated from Yale University and the University
   Can and Cannot Tell Us About Ourselves, and three critically acclaimed novels. He
   has also written essays, book reviews and op-ed pieces for the New York Times, Salon.com,
   Aeon, and Nautilus.'
-id: e246
+id: '246'
 image: https://i.ytimg.com/vi/xrd1Q55U7Ls/maxresdefault.jpg
 publishDate: 2019-10-24
 title: '#246 Robert Burton: On Being Certain'

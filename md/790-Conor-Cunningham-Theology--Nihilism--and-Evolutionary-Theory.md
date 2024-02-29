@@ -4,7 +4,7 @@ excerpt: 'Dr. Conor Cunningham is Associate Professor in Theology and Philosophy
   the Faculty of Arts at the University of Nottingham. He is interested in Metaphysics,
   Epistemology, Science, and Religion. He is the author of books like Genealogy of
   Nihilism: Philosophies of Nothing and The Difference of Theology.'
-id: e790
+id: '790'
 image: https://i.ytimg.com/vi/aE4ER40A-6s/maxresdefault.jpg
 publishDate: 2023-06-02
 title: '#790 Conor Cunningham: Theology, Nihilism, and Evolutionary Theory'

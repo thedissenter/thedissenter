@@ -11,7 +11,7 @@ excerpt: "Dr. James Costa is Executive Director of the Highlands Biological Stat
   \ Led to a Big Theory (W. W. Norton, 2017) \u2014 a finalist for the American Association\
   \ for the Advancement of Science/Subaru Prize \u2014 and the co-edited volume An\
   \ Alfred Russel Wallace Companion (Chicago, 2019)."
-id: e517
+id: '517'
 image: https://i.ytimg.com/vi/ct4KCl58bak/maxresdefault.jpg
 publishDate: 2021-09-03
 title: '#517 James Costa: Darwin, Wallace, The Origin of Species, and The Descent

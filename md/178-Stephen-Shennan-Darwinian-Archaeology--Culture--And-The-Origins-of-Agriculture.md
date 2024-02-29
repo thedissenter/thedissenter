@@ -8,7 +8,7 @@ excerpt: "Dr. Stephen Shennan is Professor of Theoretical Archaeology in the Ins
   \ Archaeology and Cultural Evolution, Mapping Our Ancestors: Phylogenetic Approaches\
   \ in Anthropology and Prehistory, and The First Farmers of Europe: An Evolutionary\
   \ Perspective."
-id: e178
+id: '178'
 image: https://i.ytimg.com/vi/xNv_JrdpRkA/maxresdefault.jpg
 publishDate: 2019-05-17
 title: '#178 Stephen Shennan: Darwinian Archaeology, Culture, And The Origins of Agriculture'

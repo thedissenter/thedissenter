@@ -7,7 +7,7 @@ excerpt: "Dr. Rodolfo Leyva is a Fellow in the London School of Economics and Po
   \ universities and have led various quantitative and qualitative research methods,\
   \ sociology, and media modules. He has also worked as a post-doctoral research assistant\
   \ on various mixed-methods communications, psychology, and education studies."
-id: e592
+id: '592'
 image: https://i.ytimg.com/vi/vbjs6SljdZo/maxresdefault.jpg
 publishDate: 2022-02-25
 title: '#592 Rodolfo Leyva: Neoliberalism, Social Media, Fake News, and Political

@@ -4,7 +4,7 @@ excerpt: "Dr. Vlasta Sikimi\u0107 is an Assistant Professor at the Eindhoven Uni
   \ of Technology. Her research focus is on Philosophy of Science, Philosophy of AI,\
   \ Empirical Philosophy, Logic, Science Policy, and Animal Ethics. More specifically,\
   \ she works on data-driven approaches to optimization of scientific reasoning."
-id: e878
+id: '878'
 image: https://i.ytimg.com/vi/mDv08bzb15g/maxresdefault.jpg
 publishDate: 2023-12-25
 title: "#878 Vlasta Sikimi\u0107: Epistemic Attitudes in Science, Epistemic Efficiency,\

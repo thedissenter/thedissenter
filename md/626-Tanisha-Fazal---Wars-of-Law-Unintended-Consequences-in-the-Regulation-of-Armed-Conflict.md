@@ -6,7 +6,7 @@ excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the Universit
   \ also an Andrew Carnegie Fellow. She is the author of State Death: The Politics\
   \ and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended\
   \ Consequences in the Regulation of Armed Conflict."
-id: e626
+id: '626'
 image: https://i.ytimg.com/vi/PiJ6q-Ro1yE/maxresdefault.jpg
 publishDate: 2022-05-16
 title: '#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulation

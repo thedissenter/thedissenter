@@ -7,7 +7,7 @@ excerpt: 'Dr. Simon Baron-Cohen is Professor of Developmental Psychopathology at
   technical ability, and synesthesia. Dr. Baron-Cohen was knighted in the 2021 New
   Year Honours for services to autistic people. His latest book is The Pattern Seekers:
   A New Theory of Human Invention.'
-id: e746
+id: '746'
 image: https://i.ytimg.com/vi/dI95gDMbSsY/maxresdefault.jpg
 publishDate: 2023-02-20
 title: '#746 Simon Baron-Cohen: Autism, Systemizing, Empathy, and Sex Differences'

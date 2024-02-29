@@ -11,7 +11,7 @@ excerpt: 'Dr. Daniel Hoyer currently holds a postdoctoral position working with 
   Africa from Augustus to Aurelian on the economic and financial development of the
   western Roman Empire. He is the author of Figuring Out The Past: The 3,495 Vital
   Statistics that Explain World History.'
-id: e496
+id: '496'
 image: https://i.ytimg.com/vi/7rYD5CBtIwc/maxresdefault.jpg
 publishDate: 2021-07-16
 title: '#496 Daniel Hoyer - Figuring Out the Past: The 3,495 Vital Statistics that

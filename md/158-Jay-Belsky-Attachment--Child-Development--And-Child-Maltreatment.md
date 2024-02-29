@@ -13,7 +13,7 @@ excerpt: Dr. Jay Belsky is Robert and Natalie Read Dorne Professor of Human Deve
   Child Care and Youth Development (US) and The National Evaluation of Sure Start
   (UK). He is the author of more than 300 scientific articles and chapters and the
   author/editor of several books.
-id: e158
+id: '158'
 image: https://i.ytimg.com/vi/gia8AV8KNw8/maxresdefault.jpg
 publishDate: 2019-04-01
 title: '#158 Jay Belsky: Attachment, Child Development, And Child Maltreatment'

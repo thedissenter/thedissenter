@@ -9,7 +9,7 @@ excerpt: 'Dr. Melanie Mitchell is the Davis Professor of Complexity at the Santa
   Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com
   as one of the ten best science books of 2009. Her latest book is Artificial Intelligence:
   A Guide for Thinking Humans (Farrar, Straus, and Giroux).'
-id: e373
+id: '373'
 image: https://i.ytimg.com/vi/xekprDnbpGw/maxresdefault.jpg
 publishDate: 2020-10-02
 title: '#373 Melanie Mitchell: AI, Complex Systems, Human Cognition, and Algorithms'

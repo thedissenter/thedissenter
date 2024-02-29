@@ -9,7 +9,7 @@ excerpt: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at
   testing hypotheses about human variation in behavior, psychology and physiology.
   Currently his research focuses on two broad, inter-related areas: biodemography
   of human health, lifespan and aging; and transitions in social and economic behavior. '
-id: e254
+id: '254'
 image: https://i.ytimg.com/vi/p1DRuvoRQdg/maxresdefault.jpg
 publishDate: 2019-11-11
 title: '#254 Michael Gurven: Division Of Labor, Polygyny, And Personality Across Societies'

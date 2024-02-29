@@ -7,7 +7,7 @@ excerpt: 'Dr. Paul van Geert is Professor Emeritus of Developmental Psychology a
   Systems of Development: Change between Complexity and Chaos, and, together with
   Naomi de Ruiter, Toward a Process Approach in Psychology: Stepping into Heraclitus''
   River.'
-id: e885
+id: '885'
 image: https://i.ytimg.com/vi/CHWvUTN5Tjk/maxresdefault.jpg
 publishDate: 2024-01-11
 title: '#885 Paul van Geert: A Dynamical Systems Approach to Developmental Psychology'

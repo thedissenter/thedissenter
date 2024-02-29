@@ -9,7 +9,7 @@ excerpt: "Dr. Claudio Tennie is a Tenured Research Group Leader (\u201CTools and
   \ various methods and pathways to study the factors and the prehistorical beginnings\
   \ that enabled the typical modern human \"variant of culture\": cumulative culture\
   \ of know-how."
-id: e700
+id: '700'
 image: https://i.ytimg.com/vi/L8UKSDq6ylw/maxresdefault.jpg
 publishDate: 2022-11-04
 title: '#700 Claudio Tennie: Tool Behaviors in Great Apes, Cultural Transmission,

@@ -6,7 +6,7 @@ excerpt: "Dr. David Gorski is a surgical oncologist at the Barbara Ann Karmanos 
   \ Professor of Surgery and Oncology at the Wayne State University School of Medicine,\
   \ and faculty of the Graduate Program in Cancer Biology. He\u2019s also the Managing\
   \ Editor of Science-Based Medicine (https://sciencebasedmedicine.org/)."
-id: e66
+id: '66'
 image: https://i.ytimg.com/vi/iDbi5NvLcis/maxresdefault.jpg
 publishDate: 2019-05-06
 title: '#66 David Gorski: Science-Based Medicine, Fighting Quackery'

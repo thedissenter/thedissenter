@@ -11,7 +11,7 @@ excerpt: Dr. Joseph A. Bulbulia is a Professor in the School of Humanities, Facu
   an associate investigator for Pulotu, a database of 116 Pacific cultures purpose-built
   to investigate the evolutionary dynamics of religion. In 2016, Dr. Bulbulia won
   a Research Excellence Award at Victoria University.
-id: e180
+id: '180'
 image: https://i.ytimg.com/vi/Wy0baOach30/maxresdefault.jpg
 publishDate: 2019-05-23
 title: '#180 Joseph Bulbulia: Religion, Cognition, Ritual, Morality, And Meaning'

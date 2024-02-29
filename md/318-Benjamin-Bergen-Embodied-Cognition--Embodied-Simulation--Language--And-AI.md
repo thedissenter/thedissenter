@@ -6,7 +6,7 @@ excerpt: "Dr. Benjamin Bergen is Professor of Cognitive Science at the Universit
   \ while driving. He\u2019s the author of the books Louder Than Words: The New Science\
   \ of How the Mind Makes Meaning, and What the F: What Swearing Reveals About Our\
   \ Language, Our Brains, and Ourselves."
-id: e318
+id: '318'
 image: https://i.ytimg.com/vi/UXVWDeugSSQ/maxresdefault.jpg
 publishDate: 2020-04-09
 title: '#318 Benjamin Bergen: Embodied Cognition, Embodied Simulation, Language, And

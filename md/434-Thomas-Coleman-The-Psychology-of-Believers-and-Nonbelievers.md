@@ -8,7 +8,7 @@ excerpt: 'Thomas Coleman III is PhD student at Coventry University, and a Postdo
   computer simulated models of the cognitive and social dynamics leading to (non)belief
   in supernatural agents; investigating how and why moral motivations are stereotypically
   attributed to religious, as opposed to nonreligious factors.'
-id: e434
+id: '434'
 image: https://i.ytimg.com/vi/VXoH3MUoODQ/maxresdefault.jpg
 publishDate: 2021-02-22
 title: '#434 Thomas Coleman: The Psychology of Believers and Nonbelievers'

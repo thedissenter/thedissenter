@@ -8,7 +8,7 @@ excerpt: "Dr. Leonard Newman is Associate Professor of Psychology at Syracuse Un
   \ focuses on the motivational aspects of social cognition. More specific interests\
   \ include dehumanization, social stigma, defensive and self-protective processes\
   \ in judgment and memory, and the social psychology of genocide and mass killing."
-id: e623
+id: '623'
 image: https://i.ytimg.com/vi/eBPWaaye1FE/maxresdefault.jpg
 publishDate: 2022-05-09
 title: '#623 Leonard Newman: Self-concept, Wrongdoing, Attitudinal Ambivalence, and

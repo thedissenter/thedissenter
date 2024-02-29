@@ -10,7 +10,7 @@ excerpt: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social
   \ for TEDx, British Humanist Association, Skeptics In The Pub, Digital Science and\
   \ others. His academic articles and broader interests span cultural evolution, primate\
   \ communication, language acquisition, philosophy of language, and others."
-id: e299
+id: '299'
 image: https://i.ytimg.com/vi/hBkdOrXR9nY/maxresdefault.jpg
 publishDate: 2020-02-24
 title: '#299 Thom Scott-Phillips: The Biological And Cultural Bases Of Language'

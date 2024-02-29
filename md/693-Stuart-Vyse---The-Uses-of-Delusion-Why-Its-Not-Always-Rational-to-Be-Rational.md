@@ -7,7 +7,7 @@ excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who sp
   Project, Tablet, and Time. His book Believing in Magic: The Psychology of Superstition
   won the American Psychological Association''s William James Book Award. His latest
   book is The Uses of Delusion: Why It''s Not Always Rational to Be Rational.'
-id: e693
+id: '693'
 image: https://i.ytimg.com/vi/c2T5hIn3w08/maxresdefault.jpg
 publishDate: 2022-10-20
 title: '#693 Stuart Vyse - The Uses of Delusion: Why It''s Not Always Rational to

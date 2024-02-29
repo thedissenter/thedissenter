@@ -9,7 +9,7 @@ excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Ce
   \ and the Have-nots: A Brief and Idiosyncratic History of Global Inequality\u201D\
   , \u201CGlobal Inequality: A New Approach for the Age of Globalization\u201D, and\
   \ \u201CCapitalism, Alone\u201D."
-id: e628
+id: '628'
 image: https://i.ytimg.com/vi/engIPGdURnY/maxresdefault.jpg
 publishDate: 2022-05-20
 title: "#628 Branko Milanovi\u0107: Capitalism, and Global Inequality"

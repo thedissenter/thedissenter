@@ -5,7 +5,7 @@ excerpt: "Dr. Radu Umbre\u0219 is a Lecturer at the Faculty of Political Science
   \ Dr. Umbre\u0219 does research in Social Anthropology, Cognitive Science and Evolutionary\
   \ Psychology. He is the author of Living with Distrust: Morality and Cooperation\
   \ in a Romanian Village."
-id: e691
+id: '691'
 image: https://i.ytimg.com/vi/AGQr-dAu9bc/maxresdefault.jpg
 publishDate: 2022-10-14
 title: "#691 Radu Umbre\u0219 - Living with Distrust: Morality and Cooperation in\

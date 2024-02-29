@@ -7,7 +7,7 @@ excerpt: 'Dr. Valerie Fridland is Professor and former Director of Graduate Stud
   in Psychology Today and her lecture series, Language and Society, is featured with
   The Great Courses.  She is the author of several books, including Like, Literally,
   Dude: Arguing for the Good in Bad English. '
-id: e824
+id: '824'
 image: https://i.ytimg.com/vi/t-f7LShW2mY/maxresdefault.jpg
 publishDate: 2023-08-21
 title: '#824 Valerie Fridland - Like, Literally, Dude: Arguing for the Good in Bad

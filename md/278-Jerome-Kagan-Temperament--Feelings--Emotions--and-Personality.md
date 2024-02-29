@@ -11,7 +11,7 @@ excerpt: "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard Univer
   \ He has served on the National Institute of Mental Health and on the National Research\
   \ Council. His books include Galen\u2019s Prophecy: Temperament in Human Nature\
   \ and Three Seductive Ideas."
-id: e278
+id: '278'
 image: https://i.ytimg.com/vi/wtZF_hpZCPg/maxresdefault.jpg
 publishDate: 2020-01-06
 title: '#278 Jerome Kagan: Temperament, Feelings, Emotions, and Personality'

@@ -2,7 +2,7 @@
 draft: false
 excerpt: Dr. Martin Lang is an Assistant Professor at Masaryk University investigating
   the evolution of ritual behavior and the relationship between anxiety and rituals.
-id: e722
+id: '722'
 image: https://i.ytimg.com/vi/oy3iYNtlNDc/maxresdefault.jpg
 publishDate: 2022-12-26
 title: '#722 Martin Lang: Rituals, Synchrony, Moralizing Gods, and the Study of Religion'

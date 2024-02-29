@@ -11,7 +11,7 @@ excerpt: "Dr. Andrew Norman teaches philosophy at Carnegie Mellon University. He
   \ cultural, and attitudinal roots of prosocial behavior. He is the author of Mental\
   \ Immunity: Infectious Ideas, Mind-Parasites, and the Search for a Better Way to\
   \ Think."
-id: e474
+id: '474'
 image: https://i.ytimg.com/vi/1zVl9nuYAjU/maxresdefault.jpg
 publishDate: 2021-05-27
 title: '#474 Andrew Norman - Mental Immunity; Reason, Critical Thinking, Beliefs,

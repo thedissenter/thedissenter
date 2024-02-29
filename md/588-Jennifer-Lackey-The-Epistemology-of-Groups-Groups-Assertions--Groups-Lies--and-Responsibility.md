@@ -7,7 +7,7 @@ excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosoph
   norms of credibility, the epistemic status of punishment, the epistemology of groups,
   expertise, and the distribution of epistemic goods. She is the author of several
   books, including The Epistemology of Groups.
-id: e588
+id: '588'
 image: https://i.ytimg.com/vi/OnW93tV_Ky8/maxresdefault.jpg
 publishDate: 2022-02-17
 title: '#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups

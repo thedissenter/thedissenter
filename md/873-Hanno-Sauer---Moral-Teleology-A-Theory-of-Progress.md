@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Podcast: http://bit.ly/3FeSNqb'
-id: e873
+id: '873'
 image: https://i.ytimg.com/vi/33VKpmCQ7Sg/maxresdefault.jpg
 publishDate: 2023-12-14
 title: '#873 Hanno Sauer - Moral Teleology: A Theory of Progress'

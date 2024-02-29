@@ -5,7 +5,7 @@ excerpt: Dr. Uta Frith is Emeritus Professor of Cognitive Development at UCL Ins
   of Aarhus at the Interacting Minds Centre from 2007 to 2015. She has been a Fellow
   at the Institute for Advanced Studies at the Central European University in Budapest
   (February - June 2014).
-id: e875
+id: '875'
 image: https://i.ytimg.com/vi/1I2LvEFKhe8/maxresdefault.jpg
 publishDate: 2023-12-18
 title: '#875 Uta Frith & Chris Frith: What Makes Us Social?'

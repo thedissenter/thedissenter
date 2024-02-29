@@ -10,7 +10,7 @@ excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the Univers
   \ A Reader in Peace Studies\u201D, and \u201CThrough a Glass Brightly: using science\
   \ to see our species as we really are\u201D. His most recent book is \u201CThreats:\
   \ Intimidation and Its Discontents\u201D."
-id: e467
+id: '467'
 image: https://i.ytimg.com/vi/Yrufx9w_GOk/maxresdefault.jpg
 publishDate: 2021-05-10
 title: '#467 David Barash - Threats: Intimidation and Its Discontents ; Nuclear Deterrence'

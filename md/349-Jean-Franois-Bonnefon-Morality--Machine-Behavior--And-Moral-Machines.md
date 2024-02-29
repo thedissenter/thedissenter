@@ -9,7 +9,7 @@ excerpt: "Dr. Jean-Fran\xE7ois Bonnefon (PhD, cognitive psychology) is a Researc
   \ on decisions which have a moral component, especially in the context of machine\
   \ ethics and human-AI cooperation. His research appeared in 100+ academic articles,\
   \ in outlets that include Science, Nature, and PNAS."
-id: e349
+id: '349'
 image: https://i.ytimg.com/vi/OpO1Y3BCdC0/maxresdefault.jpg
 publishDate: 2020-07-20
 title: "#349 Jean-Fran\xE7ois Bonnefon: Morality, Machine Behavior, And Moral Machines"

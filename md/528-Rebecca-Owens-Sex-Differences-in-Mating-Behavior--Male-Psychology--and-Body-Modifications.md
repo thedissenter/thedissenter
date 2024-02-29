@@ -4,7 +4,7 @@ excerpt: 'Dr. Rebecca Owens is Lecturer in Psychology at the University of Sunde
   She is also a Chartered member of the British Psychological Society and a Senior
   Fellow of the Higher Education Academy. Her interests include mating behaviors,
   preferences, and strategies; male psychology; and body image/identity and wellbeing. '
-id: e528
+id: '528'
 image: https://i.ytimg.com/vi/APYj7gu50Fs/maxresdefault.jpg
 publishDate: 2021-09-30
 title: '#528 Rebecca Owens: Sex Differences in Mating Behavior, Male Psychology, and

@@ -8,7 +8,7 @@ excerpt: Dr. Paul Russell is Professor of Philosophy at Lund University (half-ti
   and theories of responsibility that appeal to reactive attitudes or moral sentiments.
   On the subject of early modern philosophy, he is especially concerned with the philosophy
   of David Hume and how his philosophy relates to problems of religion and atheism.
-id: e784
+id: '784'
 image: https://i.ytimg.com/vi/fM8uXdITg7s/maxresdefault.jpg
 publishDate: 2023-05-19
 title: '#784 Paul Russell: Free Will and Moral Responsibility'

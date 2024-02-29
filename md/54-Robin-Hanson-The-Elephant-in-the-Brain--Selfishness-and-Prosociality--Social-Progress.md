@@ -4,7 +4,7 @@ excerpt: "Dr. Robin Hanson is an Associate Professor of Economics at George Maso
   \ University and a research associate at the Future of Humanity Institute of Oxford\
   \ University. He\u2019s also the author of books like The Age of Em, and The Elephant\
   \ in the Brain.  "
-id: e54
+id: '54'
 image: https://i.ytimg.com/vi/ySExrgejEDE/maxresdefault.jpg
 publishDate: 2019-04-11
 title: '#54 Robin Hanson: The Elephant in the Brain, Selfishness and Prosociality,

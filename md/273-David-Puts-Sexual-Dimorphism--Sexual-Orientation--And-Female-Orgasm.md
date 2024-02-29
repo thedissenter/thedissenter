@@ -8,7 +8,7 @@ excerpt: 'Dr. David Puts is Associate Professor of Anthropology at Pennsylvania 
   and the evolution of sex differences in voices, faces, bodies, brains, and behavior;
   the development and evolution of variation in sexual orientation; and the evolution
   of female orgasm. '
-id: e273
+id: '273'
 image: https://i.ytimg.com/vi/d8SGOFP6QoA/maxresdefault.jpg
 publishDate: 2019-12-26
 title: '#273 David Puts: Sexual Dimorphism, Sexual Orientation, And Female Orgasm'

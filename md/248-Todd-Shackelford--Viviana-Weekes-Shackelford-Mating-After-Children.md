@@ -5,7 +5,7 @@ excerpt: 'Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychol
   Lab there. He is the editor in chief of the academic journals Evolutionary Psychology
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.  '
-id: e248
+id: '248'
 image: https://i.ytimg.com/vi/Obio7sl495U/maxresdefault.jpg
 publishDate: 2019-10-28
 title: '#248 Todd Shackelford & Viviana Weekes-Shackelford: Mating After Children'

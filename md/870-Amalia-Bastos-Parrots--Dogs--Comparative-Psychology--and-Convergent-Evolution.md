@@ -6,7 +6,7 @@ excerpt: Dr. Amalia Bastos is a Postdoctoral Fellow at the Social & Cognitive Or
   employ while interacting with the world around them. Her current work focuses on
   how chimpanzees perceive third-party social interactions through eye-tracking technology,
   alongside research on dog cognition.
-id: e870
+id: '870'
 image: https://i.ytimg.com/vi/7lRxP4vOy1Y/maxresdefault.jpg
 publishDate: 2023-12-07
 title: '#870 Amalia Bastos: Parrots, Dogs, Comparative Psychology, and Convergent

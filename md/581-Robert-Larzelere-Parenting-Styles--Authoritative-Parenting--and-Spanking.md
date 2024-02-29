@@ -10,7 +10,7 @@ excerpt: Dr. Robert Larzelere is Professor and Research Methodologist in the Col
   responses to misbehavior and searching for alternative tactics that are more effective
   than non-abusive spanking in situations where the latter has traditionally been
   used.
-id: e581
+id: '581'
 image: https://i.ytimg.com/vi/QXxiaVqpUSA/maxresdefault.jpg
 publishDate: 2022-01-31
 title: '#581 Robert Larzelere: Parenting Styles, Authoritative Parenting, and Spanking'

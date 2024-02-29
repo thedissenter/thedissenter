@@ -2,7 +2,7 @@
 draft: false
 excerpt: "UPDATE: Fran\xE7oise Baylis \u201CDeliberate Design: The Ethics of Human\
   \ Genome Editing\u201D (forthcoming, Harvard University Press, 2019)."
-id: e105
+id: '105'
 image: https://i.ytimg.com/vi/qSdPb-vvbpE/maxresdefault.jpg
 publishDate: 2019-06-28
 title: "#105 Fran\xE7oise Baylis: The Ethics of CRISPR-cas9 Gene Editing Technology"

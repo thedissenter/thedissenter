@@ -8,7 +8,7 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
   School of Business and his B.S. in Economics from the University of Chicago. He
   also co-designed and teaches "Game Theory and Social Behavior" which lays out a
   lot of the evidence and models behind this approach.
-id: e141
+id: '141'
 image: https://i.ytimg.com/vi/wgBDc5q6rhY/maxresdefault.jpg
 publishDate: 2019-02-21
 title: '#141 Moshe Hoffman: Game Theory, Norm Enforcement, and Evolutionary Psychology'

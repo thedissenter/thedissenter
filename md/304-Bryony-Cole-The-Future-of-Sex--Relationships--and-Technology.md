@@ -10,7 +10,7 @@ excerpt: "Bryony Cole is the host of sex tech podcast Future of Sex and works as
   \ featured on shows like Viceland and Technopia, and articles in Wired, TechCrunch,\
   \ The New York Times, Playboy, Mashable, Motherboard, ABC, Financial Review, Brides,\
   \ Glamour and many other global media."
-id: e304
+id: '304'
 image: https://i.ytimg.com/vi/rYnPqtO9Heg/maxresdefault.jpg
 publishDate: 2020-03-06
 title: '#304 Bryony Cole: The Future of Sex, Relationships, and Technology'

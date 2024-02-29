@@ -8,7 +8,7 @@ excerpt: Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University 
   Academy; she is on the Executive Committee for the Society for Women in Philosophy
   UK; she is on the Council for the Royal Institute of Philosophy; and she is a Union
   Committee member for RHUL UCU.
-id: e630
+id: '630'
 image: https://i.ytimg.com/vi/7gmTZ9m-Sd0/maxresdefault.jpg
 publishDate: 2022-05-26
 title: '#630 Suki Finn: Epistemology of Logic, the Philosophy of Love, and the Metaphysics

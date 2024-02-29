@@ -5,7 +5,7 @@ excerpt: Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive S
   Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog
   program. His research attempts to understand mind (i.e., behavior, cognition, and
   consciousness) from a naturalistic and interdisciplinary perspective.
-id: e891
+id: '891'
 image: https://i.ytimg.com/vi/c2iMOqFgYKM/maxresdefault.jpg
 publishDate: 2024-01-25
 title: '#891 Luis Favela: Complexity Science, 4E Cognition, and Explanatory Pluralism'

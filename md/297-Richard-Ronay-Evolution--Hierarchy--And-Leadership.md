@@ -4,7 +4,7 @@ excerpt: Dr. Richard Ronay is Associate Professor of Leadership and Management a
   University of Amsterdam Business School. His research interests include power and
   status; social hierarchy; leadership; inequality; overconfidence; social intelligence;
   decision making; evolutionary psychology; and social neuroendocrinology.
-id: e297
+id: '297'
 image: https://i.ytimg.com/vi/-bQQp6ylrkE/maxresdefault.jpg
 publishDate: 2020-02-20
 title: '#297 Richard Ronay: Evolution, Hierarchy, And Leadership'

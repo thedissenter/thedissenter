@@ -5,7 +5,7 @@ excerpt: 'Dr. Jennifer Sheehy-Skeffington is Assistant Professor of Social Psych
   interested in the mechanisms underlying our human sensitivity to power, status,
   and group membership: their origins, interactions, and manifestation in societal
   context.'
-id: e573
+id: '573'
 image: https://i.ytimg.com/vi/S7BHkmacx0w/maxresdefault.jpg
 publishDate: 2022-01-13
 title: '#573 Jennifer Sheehy-Skeffington: Evolutionary Psychology, Political Ideology,

@@ -6,7 +6,7 @@ excerpt: Dr. Keelah Williams is an Assistant Professor of Psychology and Directo
   shape stereotype content, punishment strategies, and legal decision-making. Her
   work has been published in journals such as Proceedings of the National Academy
   of Sciences.
-id: e779
+id: '779'
 image: https://i.ytimg.com/vi/JpcSIiRkfHk/maxresdefault.jpg
 publishDate: 2023-05-08
 title: '#779 Keelah Williams: Stereotypes, Perceptions of Criminal Behavior, and Friendships'

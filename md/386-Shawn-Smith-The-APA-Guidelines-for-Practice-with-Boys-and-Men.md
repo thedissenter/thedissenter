@@ -3,7 +3,7 @@ draft: false
 excerpt: Dr. Shawn Smith is a clinical psychologist in Denver, Colorado and the author
   of five psychology books. He also writes a blog at docsmith.co. And he has a YouTube
   channel - Dr. Shawn T. Smith.
-id: e386
+id: '386'
 image: https://i.ytimg.com/vi/wbwm2gpuOPM/maxresdefault.jpg
 publishDate: 2020-11-02
 title: '#386 Shawn Smith: The APA Guidelines for Practice with Boys and Men'

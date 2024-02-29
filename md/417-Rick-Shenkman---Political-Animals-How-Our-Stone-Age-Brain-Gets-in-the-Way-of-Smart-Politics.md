@@ -10,7 +10,7 @@ excerpt: 'Rick Shenkman is the founder of George Washington University''s Histor
   on myths. In 2008 he was elected a Fellow of the Society of American Historians.
   He gives lectures at colleges around the country on several topics, including American
   myths and presidential politics.'
-id: e417
+id: '417'
 image: https://i.ytimg.com/vi/g0urXgQq3Lc/maxresdefault.jpg
 publishDate: 2021-01-14
 title: '#417 Rick Shenkman - Political Animals: How Our Stone-Age Brain Gets in the

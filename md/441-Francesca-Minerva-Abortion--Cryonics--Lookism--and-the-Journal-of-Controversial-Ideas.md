@@ -4,7 +4,7 @@ excerpt: Dr. Francesca Minerva is a research fellow at Warwick University and a 
   fellow at the University of Ghent. She is the co-founder and co-editor of the Journal
   of Controversial Ideas. Her research focuses on applied philosophy, including lookism,
   conscientious objection, abortion, academic freedom, and cryonics.
-id: e441
+id: '441'
 image: https://i.ytimg.com/vi/Ap_zUVLPghY/maxresdefault.jpg
 publishDate: 2021-03-11
 title: '#441 Francesca Minerva: Abortion, Cryonics, Lookism, and the Journal of Controversial

@@ -7,7 +7,7 @@ excerpt: "Dr. Brian Hare is a professor of evolutionary anthropology at Duke Uni
   \ Duke Canine Cognition Center. He\u2019s the author of several books, including\
   \ the most recent one, Survival of the Friendliest: Understanding Our Origins and\
   \ Rediscovering Our Common Humanity."
-id: e378
+id: '378'
 image: https://i.ytimg.com/vi/mmGIyBDgg7A/maxresdefault.jpg
 publishDate: 2020-10-15
 title: '#378 Brian Hare: Survival of the Friendliest'

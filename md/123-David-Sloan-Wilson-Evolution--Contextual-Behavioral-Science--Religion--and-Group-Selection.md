@@ -10,7 +10,7 @@ excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and 
   \ The Neighborhood Project: Using Evolution to Improve My City, One Block at a Time\
   \ and Does Altruism Exist? Culture, Genes, and the Welfare of Others; and a recently\
   \ edited book, Evolution and Contextual Behavioral Science."
-id: e123
+id: '123'
 image: https://i.ytimg.com/vi/I3YQVV02MwI/maxresdefault.jpg
 publishDate: 2019-07-25
 title: '#123 David Sloan Wilson: Evolution, Contextual Behavioral Science, Religion,

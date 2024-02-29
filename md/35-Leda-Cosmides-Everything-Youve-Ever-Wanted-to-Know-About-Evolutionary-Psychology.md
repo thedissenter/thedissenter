@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e35
+id: '35'
 image: https://i.ytimg.com/vi/hjL-13L6quE/maxresdefault.jpg
 publishDate: 2018-06-15
 title: '#35 Leda Cosmides: Everything You''ve Ever Wanted to Know About Evolutionary

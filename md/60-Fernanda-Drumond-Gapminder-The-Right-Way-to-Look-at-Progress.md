@@ -5,7 +5,7 @@ excerpt: 'Gapminder Foundation is a non-profit venture based in Stockholm, Swede
   Millennium Development Goals by increased use and understanding of statistics and
   other information about social, economic and environmental development at local,
   national and global levels.  '
-id: e60
+id: '60'
 image: https://i.ytimg.com/vi/8OdjmgUhTnM/maxresdefault.jpg
 publishDate: 2019-04-26
 title: '#60 Fernanda Drumond (Gapminder): The Right Way to Look at Progress'

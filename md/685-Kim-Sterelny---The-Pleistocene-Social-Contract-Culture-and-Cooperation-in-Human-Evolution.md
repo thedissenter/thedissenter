@@ -9,7 +9,7 @@ excerpt: 'Dr. Kim Sterelny is professor of philosophy in the Research School of 
   Union of History and Philosophy of Science and Technology (2020-2023). He is the
   author of several books, including The Pleistocene Social Contract: Culture and
   Cooperation in Human Evolution.'
-id: e685
+id: '685'
 image: https://i.ytimg.com/vi/Nnsu8WMn8Cs/maxresdefault.jpg
 publishDate: 2022-09-30
 title: '#685 Kim Sterelny - The Pleistocene Social Contract: Culture and Cooperation

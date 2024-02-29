@@ -7,7 +7,7 @@ excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in 
   \ Paul Jenkinson and Dr. Katerina Fotopoulou.  Her PhD project investigated affective\
   \ touch, sense of body ownership and interoceptive awareness in both healthy and\
   \ clinical populations."
-id: e347
+id: '347'
 image: https://i.ytimg.com/vi/1jvKL3Jaetk/maxresdefault.jpg
 publishDate: 2020-07-06
 title: '#347 Laura Crucianelli: Interoception, Affective Touch, And Anorexia Nervosa'

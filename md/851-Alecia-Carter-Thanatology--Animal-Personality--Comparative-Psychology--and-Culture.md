@@ -8,7 +8,7 @@ excerpt: Dr. Alecia Carter is Associate Professor in the Department of Anthropol
   information, and how their phenotype, their individual characteristics, may limit
   their use of that information. Her previous research addressed how and why animals'
   behavior varies from others but is consistent through time.
-id: e851
+id: '851'
 image: https://i.ytimg.com/vi/TDQG5CR0es8/maxresdefault.jpg
 publishDate: 2023-10-23
 title: '#851 Alecia Carter: Thanatology, Animal Personality, Comparative Psychology,

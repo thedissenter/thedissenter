@@ -14,7 +14,7 @@ excerpt: Dr. Reinout E. de Vries is Associate Professor at the VU University Ams
   proactivity, impression management, and overclaiming on the other. He is currently
   working on lexical studies on sport personality and leadership and followership
   styles.
-id: e265
+id: '265'
 image: https://i.ytimg.com/vi/2C6XhahzztU/maxresdefault.jpg
 publishDate: 2019-12-06
 title: '#265 Reinout de Vries: Personality, The HEXACO, And Communication Styles'

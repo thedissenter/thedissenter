@@ -7,7 +7,7 @@ excerpt: "Andreas M. Antonopoulos is a critically-acclaimed best-selling author,
   s also the author of three books, including Mastering Bitcoin, The Internet of Money,\
   \ and The Internet of Money Volume Two. His fourth book, Mastering Ethereum (O\u2019\
   Reilly Media) will be available in the fall of 2018.  "
-id: e57
+id: '57'
 image: https://i.ytimg.com/vi/ZCOq4qp5Db0/maxresdefault.jpg
 publishDate: 2019-04-23
 title: '#57 Andreas M. Antonopoulos: Bitcoin and the Blockchain; The Prosociality

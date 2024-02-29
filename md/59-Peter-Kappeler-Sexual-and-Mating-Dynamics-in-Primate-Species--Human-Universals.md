@@ -6,7 +6,7 @@ excerpt: "Dr. Peter Kappeler is a Professor at the faculty of Zoology and Anthro
   \ the University of Antananarivo, Madagascar. He\u2019s the author or editor of\
   \ books like Mind the Gap: Tracing the Origins of Human Universals, Animal Behaviour:\
   \ Evolution and Mechanisms, and The Evolution of Primate Species.  "
-id: e59
+id: '59'
 image: https://i.ytimg.com/vi/2KCDXDnbS9g/maxresdefault.jpg
 publishDate: 2019-04-25
 title: '#59 Peter Kappeler: Sexual and Mating Dynamics in Primate Species, Human Universals'

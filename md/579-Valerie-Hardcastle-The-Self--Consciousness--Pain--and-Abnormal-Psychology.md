@@ -8,7 +8,7 @@ excerpt: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director o
   cognitive psychology, and philosophy of mind. She teaches metaphysics, science studies,
   feminist philosophy of science. She is the author of several books, including Locating
   Consciousness, The Myth of Pain, and Constructing the Self.
-id: e579
+id: '579'
 image: https://i.ytimg.com/vi/U0n64729aIQ/maxresdefault.jpg
 publishDate: 2022-01-27
 title: '#579 Valerie Hardcastle: The Self, Consciousness, Pain, and Abnormal Psychology'

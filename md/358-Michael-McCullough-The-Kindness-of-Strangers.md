@@ -7,7 +7,7 @@ excerpt: "Dr. Michael McCullough is a professor of psychology at the University 
   \ the author of several books, including \u201CBeyond Revenge: The Evolution of\
   \ the Forgiveness Instinct,\u201D and, the most recent one, \u201CThe Kindness of\
   \ Strangers: How a Selfish Ape Invented a New Moral Code\u201D."
-id: e358
+id: '358'
 image: https://i.ytimg.com/vi/GumI6vP7CeE/maxresdefault.jpg
 publishDate: 2020-08-27
 title: '#358 Michael McCullough: The Kindness of Strangers'

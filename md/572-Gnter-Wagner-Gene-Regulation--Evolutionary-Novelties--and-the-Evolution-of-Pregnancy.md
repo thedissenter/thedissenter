@@ -11,7 +11,7 @@ excerpt: "Dr. G\xFCnter Wagner is Alison Richard Professor of Ecology and Evolut
   \ in the context of the evolutionary origin of pregnancy. Another focus of his lab\
   \ is the developmental basis of character identity, as for instance in the case\
   \ of digit identity of birds."
-id: e572
+id: '572'
 image: https://i.ytimg.com/vi/yEH5x7gViHk/maxresdefault.jpg
 publishDate: 2022-01-10
 title: "#572 G\xFCnter Wagner: Gene Regulation, Evolutionary Novelties, and the Evolution\

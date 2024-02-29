@@ -6,7 +6,7 @@ excerpt: 'Dr. David Leiser is a professor of economic and social psychology at B
   He is the author of Cognitive Science and Genetic Epistemology - a Case Study of
   Understanding, and How We Misunderstand Economics And Why It Matters: The Psychology
   of Bias, Distortion and Conspiracy.'
-id: e624
+id: '624'
 image: https://i.ytimg.com/vi/SDQL7omze_k/maxresdefault.jpg
 publishDate: 2022-05-12
 title: '#624 David Leiser - How We Misunderstand Economics And Why It Matters'

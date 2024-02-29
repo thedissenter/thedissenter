@@ -9,7 +9,7 @@ excerpt: "Dr. Peter Sterling is Professor of Neuroscience in the Perelman School
   \ interests extended to basic issues of physiological regulation and behavior, leading\
   \ to the concept of allostasis. He is the author of books like Principles of Neural\
   \ Design, and What is health? Allostasis and the Evolution of Human Design."
-id: e606
+id: '606'
 image: https://i.ytimg.com/vi/y1dfCwMq8EQ/maxresdefault.jpg
 publishDate: 2022-03-31
 title: '#606 Peter Sterling - What is health? Allostasis and the Evolution of Human

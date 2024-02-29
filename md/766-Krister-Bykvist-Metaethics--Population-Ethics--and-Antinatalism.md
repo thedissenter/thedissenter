@@ -9,7 +9,7 @@ excerpt: "Dr. Krister Bykvist is Professor in Practical Philosophy at the Depart
   \ the relationship between preferences, value, and welfare. He is leading the project\
   \ \u2018Valuing Future Lives\u2019 (funded by the Swedish Research Council), and\
   \ Gustaf Arrhenius is my main co-researcher. He is the author of Moral Uncertainty."
-id: e766
+id: '766'
 image: https://i.ytimg.com/vi/a2z3t9U7A_U/maxresdefault.jpg
 publishDate: 2023-04-07
 title: '#766 Krister Bykvist: Metaethics, Population Ethics, and Antinatalism'

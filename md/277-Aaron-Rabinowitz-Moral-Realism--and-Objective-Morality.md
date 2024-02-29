@@ -6,7 +6,7 @@ excerpt: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosop
   with the problem of moral luck. He also hosts two philosophy podcasts: Philosophers
   in Space and Embrace the Void. The goal of both shows is to make philosophy accessible
   for everyone, using science fiction and existential horror.'
-id: e277
+id: '277'
 image: https://i.ytimg.com/vi/SQ2KqzEA93Y/maxresdefault.jpg
 publishDate: 2020-01-03
 title: '#277 Aaron Rabinowitz: Moral Realism, and Objective Morality'

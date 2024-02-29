@@ -6,7 +6,7 @@ excerpt: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad 
   \ and Culture. He supervises several graduate students researching children\u2019\
   s social and moral development. His research centers on children\u2019s and adolescents\u2019\
   \ everyday communication online."
-id: e203
+id: '203'
 image: https://i.ytimg.com/vi/0jrTt0Mzx0U/maxresdefault.jpg
 publishDate: 2019-07-15
 title: '#203 Gordon Ingram: Children''s Social Development, And Cyberpsychology'

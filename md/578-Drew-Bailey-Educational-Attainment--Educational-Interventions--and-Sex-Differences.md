@@ -3,7 +3,7 @@ draft: false
 excerpt: Dr. Drew Bailey is Associate Professor in the School of Education at the
   University of California, Irvine. His research interests include mathematical development,
   individual differences, and longitudinal methods.
-id: e578
+id: '578'
 image: https://i.ytimg.com/vi/6A-uJJbRMIE/maxresdefault.jpg
 publishDate: 2022-01-24
 title: '#578 Drew Bailey: Educational Attainment, Educational Interventions, and Sex

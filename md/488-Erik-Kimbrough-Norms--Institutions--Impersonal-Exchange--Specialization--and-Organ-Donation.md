@@ -9,7 +9,7 @@ excerpt: Dr. Erik Kimbrough is an associate professor of economics at the Smith 
   of individuals, understanding the sources of asset price bubbles, evaluating individual
   theory of mind, and capturing the discovery process underlying specialization and
   trade, among other topics.
-id: e488
+id: '488'
 image: https://i.ytimg.com/vi/5sqVSsxqK9g/maxresdefault.jpg
 publishDate: 2021-06-28
 title: '#488 Erik Kimbrough: Norms, Institutions, Impersonal Exchange, Specialization,

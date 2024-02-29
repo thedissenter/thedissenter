@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e40
+id: '40'
 image: https://i.ytimg.com/vi/X2lU4KCv_gY/maxresdefault.jpg
 publishDate: 2019-03-26
 title: '#40 Frans de Waal: Morality, Sociality, and Culture in Primate Societies'

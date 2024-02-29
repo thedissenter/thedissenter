@@ -8,7 +8,7 @@ excerpt: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy 
   \ In this manuscript, he argues that many beliefs serve a signaling function\u2014\
   much like animal signals used to manipulate other animals\u2014that explains various\
   \ irrational and dangerous beliefs, cognitive biases, as well as pro-social beliefs."
-id: e826
+id: '826'
 image: https://i.ytimg.com/vi/vvWvyRASv-s/maxresdefault.jpg
 publishDate: 2023-08-25
 title: '#826 Eric Funkhouser: The Signaling Functions of Beliefs, and Self-Deception'

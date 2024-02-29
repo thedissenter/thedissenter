@@ -8,7 +8,7 @@ excerpt: 'Dr. Suzana Herculano-Houzel is Associate Professor of Psychology and A
   together. She writes about neuroscience and science in general for the public. She
   is the author of The Human Advantage: A New Understanding of How Our Brain Became
   Remarkable (MIT Press, 2016).'
-id: e487
+id: '487'
 image: https://i.ytimg.com/vi/eg8pkFSQK74/maxresdefault.jpg
 publishDate: 2021-06-25
 title: '#487 Suzana Herculano-Houzel: The Evolution of the Human Brain, and Darwin''s

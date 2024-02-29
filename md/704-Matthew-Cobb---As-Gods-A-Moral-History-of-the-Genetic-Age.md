@@ -5,7 +5,7 @@ excerpt: "Dr. Matthew Cobb is a Professor in the School of Biological Sciences a
   \ insect behavior and the history of science. He is also a historian of the French\
   \ Resistance. He\u2019s the author of several books, including As Gods: A Moral\
   \ History of the Genetic Age."
-id: e704
+id: '704'
 image: https://i.ytimg.com/vi/X-uPvfKWZCM/maxresdefault.jpg
 publishDate: 2022-11-14
 title: '#704 Matthew Cobb - As Gods: A Moral History of the Genetic Age'

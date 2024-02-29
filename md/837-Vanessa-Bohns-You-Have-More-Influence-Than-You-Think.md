@@ -5,7 +5,7 @@ excerpt: 'Dr. Vanessa Bohns is a social psychologist and a Professor of Organiza
   and the psychology of compliance and consent. She is the author of You Have More
   Influence Than You Think: How We Underestimate Our Power of Persuasion, and Why
   It Matters.'
-id: e837
+id: '837'
 image: https://i.ytimg.com/vi/RrB6FCTmoLs/maxresdefault.jpg
 publishDate: 2023-09-21
 title: '#837 Vanessa Bohns: You Have More Influence Than You Think'

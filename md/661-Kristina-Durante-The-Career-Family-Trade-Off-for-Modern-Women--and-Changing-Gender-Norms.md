@@ -7,7 +7,7 @@ excerpt: "Dr. Kristina Durante is an evolutionary psychologist and Professor of 
   \ evolutionary biology, and consumer decision-making. Her areas of expertise include\
   \ women\u2019s consumer choice and luxury spending, family consumer decisions, hormones\
   \ and behavior, and the psychological consequences of ambiguity."
-id: e661
+id: '661'
 image: https://i.ytimg.com/vi/xPY4YpDzwTA/maxresdefault.jpg
 publishDate: 2022-08-05
 title: '#661 Kristina Durante: The Career-Family Trade-Off for Modern Women, and Changing

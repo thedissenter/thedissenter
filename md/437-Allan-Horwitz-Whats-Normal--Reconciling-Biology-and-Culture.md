@@ -10,7 +10,7 @@ excerpt: "Dr. Allan Horwitz is Board of Governors Professor in the Department of
   \ the American Sociological Association's Section on Sociology of Mental Health.\
   \ In addition, he has published several books including What\u2019s Normal? Reconciling\
   \ Biology and Culture (Oxford University Press, 2016)."
-id: e437
+id: '437'
 image: https://i.ytimg.com/vi/syZ1FKcFwLU/maxresdefault.jpg
 publishDate: 2021-03-01
 title: '#437 Allan Horwitz: What''s Normal? Reconciling Biology and Culture'

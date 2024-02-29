@@ -8,7 +8,7 @@ excerpt: Dr. Lee Jussim is Distinguished Professor, Chair and Graduate Director 
   the inaccuracies in the field of social psychology research. In support of the latter,
   he helped start Heterodox Academy, a collection of academics pushing for improvements
   in their academic fields.
-id: e91
+id: '91'
 image: https://i.ytimg.com/vi/U94jZkZ8ZEg/maxresdefault.jpg
 publishDate: 2019-06-10
 title: '#91 Lee Jussim: How Stereotypes Work, and the Current State of Social Psychology'

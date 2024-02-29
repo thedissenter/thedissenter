@@ -7,7 +7,7 @@ excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London
   \ of the Aristotelian Society for 2013-14. He\u2019s also the author of 9 books,\
   \ including Philosophical Naturalism, Thinking About Consciousness, and Knowing\
   \ the Score. His new book is The Metaphysics of Sensory Experience."
-id: e462
+id: '462'
 image: https://i.ytimg.com/vi/aXhPCh1beaQ/maxresdefault.jpg
 publishDate: 2021-04-29
 title: '#462 David Papineau: The Metaphysics of Sensory Experience'

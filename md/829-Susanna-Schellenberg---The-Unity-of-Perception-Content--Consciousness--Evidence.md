@@ -8,7 +8,7 @@ excerpt: 'Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and 
   awards, including a Guggenheim Award, a Humboldt Prize, and a Mellon New Directions
   Fellowship for a project on the Neuroscience of Perception. She is the author of
   The Unity of Perception: Content, Consciousness, Evidence.'
-id: e829
+id: '829'
 image: https://i.ytimg.com/vi/gLIJlnWFwKk/maxresdefault.jpg
 publishDate: 2023-09-01
 title: '#829 Susanna Schellenberg - The Unity of Perception: Content, Consciousness,

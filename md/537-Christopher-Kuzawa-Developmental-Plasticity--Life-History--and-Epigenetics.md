@@ -13,7 +13,7 @@ excerpt: Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow 
   history, reproduction, and health. A theme of much of his work is the application
   of principles of developmental plasticity and evolutionary biology to issues of
   health.
-id: e537
+id: '537'
 image: https://i.ytimg.com/vi/13EmGmej1ks/maxresdefault.jpg
 publishDate: 2021-10-21
 title: '#537 Christopher Kuzawa: Developmental Plasticity, Life History, and Epigenetics'

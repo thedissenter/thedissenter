@@ -6,7 +6,7 @@ excerpt: 'Dr. Lionel Page is a Professor of Economics and Director of the Behavi
   insights from economic theory (theory of decision and game theory) and from other
   behavioral sciences such as psychology. He is the author of Optimally Irrational:
   The Good Reasons We Behave the Way We Do.'
-id: e712
+id: '712'
 image: https://i.ytimg.com/vi/1HqSCYtlscE/maxresdefault.jpg
 publishDate: 2022-12-02
 title: '#712 Lionel Page - Optimally Irrational: The Good Reasons We Behave the Way

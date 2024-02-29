@@ -6,7 +6,7 @@ excerpt: Dr. Manvir Singh is Postdoctoral Research Fellow at the Institute of Ad
   sharing norms, lullabies, dance, music, and gods, as these have appeared in all
   types of societies across the globe, from nomadic hunter-gatherer bands to complex,
   industrial, mega-urbanized states.
-id: e640
+id: '640'
 image: https://i.ytimg.com/vi/5D9CtvAiwa8/maxresdefault.jpg
 publishDate: 2022-06-17
 title: '#640 Manvir Singh: Going Beyond the Nomadic-Egalitarian Model of Hunter-Gatherers'

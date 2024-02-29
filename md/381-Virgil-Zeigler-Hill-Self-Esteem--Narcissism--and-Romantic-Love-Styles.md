@@ -14,7 +14,7 @@ excerpt: "Dr. Virgil Zeigler-Hill is Professor of Psychology and Director of Gra
   \ Finally, in the area of interpersonal relationships, he examines how beliefs about\
   \ the self and one\u2019s partner influence intimacy, relationship satisfaction,\
   \ and longevity in close relationships."
-id: e381
+id: '381'
 image: https://i.ytimg.com/vi/7jPy55QCMUc/maxresdefault.jpg
 publishDate: 2020-10-22
 title: '#381 Virgil Zeigler-Hill: Self-Esteem, Narcissism, and Romantic Love Styles'

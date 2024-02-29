@@ -8,7 +8,7 @@ excerpt: "Dr. Hannah K. Bradshaw is an assistant professor in the Department of 
   \ our perceptions and decisions in the broader social world. While she has a wide\
   \ variety of research interests, she tends to gravitate towards questions that pertain\
   \ to disgust sensitivity, women\u2019s sociality, and consumer preferences and behavior."
-id: e613
+id: '613'
 image: https://i.ytimg.com/vi/FgtR5V8NX3E/maxresdefault.jpg
 publishDate: 2022-04-15
 title: '#613 Hannah Bradshaw: Female beauty, Beautification, Luxury Products, and

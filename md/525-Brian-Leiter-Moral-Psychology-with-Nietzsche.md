@@ -7,7 +7,7 @@ excerpt: Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the
   the law of evidence. He is the author of books like Nietzsche on Morality, Naturalizing
   Jurisprudence, Why Tolerate Religion? and, more recently, Moral Psychology with
   Nietzsche.
-id: e525
+id: '525'
 image: https://i.ytimg.com/vi/L3H9P1igGXY/maxresdefault.jpg
 publishDate: 2021-09-23
 title: '#525 Brian Leiter: Moral Psychology with Nietzsche'

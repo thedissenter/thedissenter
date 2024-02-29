@@ -10,7 +10,7 @@ excerpt: "Dr. Catherine Wilson was until recently Professor of Philosophy at the
   \ books like Moral Animals: Ideals and Constraints in Moral Theory, Epicureanism\
   \ at the Origins of Modernity, and Epicureanism: A Very Short Introduction, and\
   \ Metaethics from a First Person Standpoint: An Introduction to Moral Philosophy."
-id: e211
+id: '211'
 image: https://i.ytimg.com/vi/PtutEYXMEWg/maxresdefault.jpg
 publishDate: 2019-08-02
 title: '#211 Catherine Wilson: Epicureanism, Atomism, Materialism, And Modernity'

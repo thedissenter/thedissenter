@@ -4,7 +4,7 @@ excerpt: "Dr. Henrik H\xF8gh-Olesen is Professor of Psychology at Aarhus Univers
   \ His research interests include Evolutionary psychology, Comparative psychology/Ethology,\
   \ Primatology, Aesthetics, Psychology of religion, and History of psychology. He\
   \ is the author of 13 scientific books, including The Aesthetic Animal."
-id: e601
+id: '601'
 image: https://i.ytimg.com/vi/m7pMOpAFozk/maxresdefault.jpg
 publishDate: 2022-03-18
 title: "#601 Henrik H\xF8gh-Olesen - The Aesthetic Animal"

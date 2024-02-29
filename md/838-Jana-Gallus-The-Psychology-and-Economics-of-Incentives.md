@@ -6,7 +6,7 @@ excerpt: Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decis
   their effects on decision-making. She investigates how incentive schemes can be
   designed to enhance employee motivation and organizational performance in the private,
   public, and nonprofit sectors.
-id: e838
+id: '838'
 image: https://i.ytimg.com/vi/PDxqSLeZsEQ/maxresdefault.jpg
 publishDate: 2023-09-22
 title: '#838 Jana Gallus: The Psychology and Economics of Incentives'

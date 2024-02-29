@@ -7,7 +7,7 @@ excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas
   \ Psychology, Evolutionary Psychology: The New Science of the Mind. His most recent\
   \ book is When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment,\
   \ and Assault."
-id: e461
+id: '461'
 image: https://i.ytimg.com/vi/4wFLM6tZV-8/maxresdefault.jpg
 publishDate: 2021-04-26
 title: '#461 David Buss When Men Behave Badly: The Hidden Roots of Sexual Deception,

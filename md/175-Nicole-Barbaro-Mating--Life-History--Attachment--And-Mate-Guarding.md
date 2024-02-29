@@ -8,7 +8,7 @@ excerpt: Nicole Barbaro is currently a PhD student in evolutionary psychology at
   of Evolutionary Psychological Science. Her interests are in human sexual psychology
   and behavior, including application of life history theory and sperm competition
   theory.
-id: e175
+id: '175'
 image: https://i.ytimg.com/vi/t_5gPMTdEZU/maxresdefault.jpg
 publishDate: 2019-05-10
 title: '#175 Nicole Barbaro: Mating, Life History, Attachment, And Mate Guarding'

@@ -10,7 +10,7 @@ excerpt: "Dr. Michelle Scalise Sugiyama is Senior Instructor at the University o
   \ She publishes in both scientific and humanities journals, and blogs for the Huffington\
   \ Post, where she explores modern issues, trends, and behaviors in light of human\
   \ evolutionary history."
-id: e106
+id: '106'
 image: https://i.ytimg.com/vi/cWrdjTYID4I/maxresdefault.jpg
 publishDate: 2019-06-29
 title: '#106 Michelle Sugiyama: The Evolution of Storytelling, and Its Role in Human

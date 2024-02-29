@@ -12,7 +12,7 @@ excerpt: Dr. Kristen Syme is research associate at the Faculty of Behavioral and
   research is a continuation of this project. She is presently conducting an exploratory
   investigation on bargaining strategies and parent-offspring conflict with an immigrant
   Micronesian population in the Vancouver WA/Portland, OR area.
-id: e498
+id: '498'
 image: https://i.ytimg.com/vi/I3dtAue-PUU/maxresdefault.jpg
 publishDate: 2021-07-22
 title: '#498 Kristen Syme: Mental Disorders and Suicide From an Anthropological Perspective'

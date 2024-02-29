@@ -3,7 +3,7 @@ draft: false
 excerpt: Dr. Rutger Vos is an evolutionary biologist from Leiden University and the
   Naturalis Biodiversity Center, both in The Netherlands. He does work in computational
   biology and contributes to various open source software projects.
-id: e230
+id: '230'
 image: https://i.ytimg.com/vi/2HoHsixrFp4/maxresdefault.jpg
 publishDate: 2019-09-16
 title: '#230 Rutger Vos: Natural Selection, Human Behavior, Race, And Adaptations'

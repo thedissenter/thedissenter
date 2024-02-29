@@ -7,7 +7,7 @@ excerpt: 'Dr. Edward Westermann is Professor of History at Texas A&M University 
   Grant (USA). He has also been a Fulbright fellow at the Free University of Berlin
   in 1995 and a German Academic Exchange Service fellow on three occasions (Germany).
   His most recent book is Drunk on Genocide: Alcohol and Mass Murder in Nazi Germany.'
-id: e454
+id: '454'
 image: https://i.ytimg.com/vi/-7g_kdeb_js/maxresdefault.jpg
 publishDate: 2021-04-09
 title: '#454 Edward Westermann - Drunk on Genocide: Alcohol and Mass Murder in Nazi

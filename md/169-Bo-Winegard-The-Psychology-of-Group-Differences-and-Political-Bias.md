@@ -6,7 +6,7 @@ excerpt: "Dr. Bo Winegard is Assistant Professor of Psychology at Marietta Colle
   \ on status, group differences, individual differences, bias, methods, and political\
   \ psychology. He\u2019s also the cohost, together with Cory Clark, of the Psyphilopod\
   \ podcast."
-id: e169
+id: '169'
 image: https://i.ytimg.com/vi/v_s4JlcJ7gU/maxresdefault.jpg
 publishDate: 2019-04-26
 title: '#169 Bo Winegard: The Psychology of Group Differences and Political Bias'

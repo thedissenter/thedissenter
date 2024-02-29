@@ -5,7 +5,7 @@ excerpt: Dr. Michael Huemer is a professor of philosophy at the University of Co
   metaethics, metaphysics, and political philosophy, as well as several books, like
   Skepticism and the Veil of Perception, Ethical Intuitionism, The Problem of Political
   Authority, Approaching Infinity, Paradox Lost, and Dialogues on Ethical Vegetarianism.
-id: e534
+id: '534'
 image: https://i.ytimg.com/vi/q5WDlSv6jq0/maxresdefault.jpg
 publishDate: 2021-10-14
 title: '#534 Michael Huemer: Moral Realism, Ethical Intuitionism, and Veganism'

@@ -10,7 +10,7 @@ excerpt: 'Dr. Samir Okasha is a Professor of Philosophy of Science at the Univer
   and conceptual questions surrounding evolutionary theory. For many years, his research
   focused on the ''levels of selection'' question in evolutionary biology, and the
   related issue of individual versus group conflicts of interest.'
-id: e234
+id: '234'
 image: https://i.ytimg.com/vi/Z1f2uvSQ3ls/maxresdefault.jpg
 publishDate: 2019-09-26
 title: '#234 Samir Okasha: Natural Selection, From Genes To Groups'

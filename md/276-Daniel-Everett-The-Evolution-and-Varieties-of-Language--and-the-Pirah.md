@@ -6,7 +6,7 @@ excerpt: "Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentl
   \ among the Pirah\xE3 people of the Brazilian Amazon jungle. Dr. Everett's books\
   \ include Dark Matter of the Mind: The Culturally Articulated Unconscious, and How\
   \ Language Began: The Story of Humanity's Greatest Invention."
-id: e276
+id: '276'
 image: https://i.ytimg.com/vi/5KhTl0l0L0M/maxresdefault.jpg
 publishDate: 2020-01-02
 title: "#276 Daniel Everett: The Evolution and Varieties of Language, and the Pirah\xE3"

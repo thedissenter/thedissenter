@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e28
+id: '28'
 image: https://i.ytimg.com/vi/zZ3h00-huR4/maxresdefault.jpg
 publishDate: 2019-03-09
 title: '#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence

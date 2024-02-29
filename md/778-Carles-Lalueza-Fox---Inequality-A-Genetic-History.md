@@ -4,7 +4,7 @@ excerpt: 'Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Ba
   He participated in the Neanderthal Genome Project and led the first retrieval of
   the genome of an 8,000-year-old European hunter-gatherer. He is the author of Inequality:
   A Genetic History.'
-id: e778
+id: '778'
 image: https://i.ytimg.com/vi/aYST6VOGgSU/maxresdefault.jpg
 publishDate: 2023-05-05
 title: '#778 Carles Lalueza-Fox - Inequality: A Genetic History'

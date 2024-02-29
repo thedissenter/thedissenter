@@ -5,7 +5,7 @@ excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psycholo
   Lab there. He is the editor in chief of the academic journals Evolutionary Psychology
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.
-id: e548
+id: '548'
 image: https://i.ytimg.com/vi/ENgFFig-0Co/maxresdefault.jpg
 publishDate: 2021-11-15
 title: '#548 Todd Shackelford: An Introduction to Evolutionary Psychology'

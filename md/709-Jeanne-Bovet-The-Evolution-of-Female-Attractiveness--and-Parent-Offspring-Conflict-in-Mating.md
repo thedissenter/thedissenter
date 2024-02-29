@@ -6,7 +6,7 @@ excerpt: 'Dr. Jeanne Bovet is an Assistant Professor at the Department of Psycho
   has covered various topics such as parent-offspring conflict over mate choice, variation
   in feminine beauty standards through history, sexual selection on age at menopause,
   and mate preferences for homogamy in facial features. '
-id: e709
+id: '709'
 image: https://i.ytimg.com/vi/WD_eY1zmo88/maxresdefault.jpg
 publishDate: 2022-11-25
 title: '#709 Jeanne Bovet: The Evolution of Female Attractiveness, and Parent-Offspring

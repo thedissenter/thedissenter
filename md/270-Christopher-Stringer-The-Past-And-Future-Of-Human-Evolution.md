@@ -14,7 +14,7 @@ excerpt: "Dr. Christopher Stringer is a British physical anthropologist noted fo
   \ many scientific papers, he\u2019s also written a number of books, most recently,\
   \ Britain: one million years of the human story (2014, with Rob Dinnis) and Our\
   \ Human Story (2018, with Louise Humphrey)."
-id: e270
+id: '270'
 image: https://i.ytimg.com/vi/GlvbKXrGo34/maxresdefault.jpg
 publishDate: 2019-12-19
 title: '#270 Christopher Stringer: The Past And Future Of Human Evolution'

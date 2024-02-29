@@ -7,7 +7,7 @@ excerpt: "Dr. Peter Carruthers is a British-American philosopher and cognitive s
   \ Science Program and member of the Committee for Philosophy and the Sciences. He\u2019\
   s also the author of many books, like The Philosophy of Psychology, The Architecture\
   \ of the Mind, and the editor of the trilogy Innate Mind."
-id: e69
+id: '69'
 image: https://i.ytimg.com/vi/bf-Z_RRbh2Q/maxresdefault.jpg
 publishDate: 2019-05-09
 title: '#69 Peter Carruthers: Innate Human Cognition'

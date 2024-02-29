@@ -12,7 +12,7 @@ excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of L
   \ he\u2019s started working on the Philosophy of Quantum Gravity. He is also very\
   \ interested in both Artificial Intelligence and Environmental Philosophy, related\
   \ to Sustainability."
-id: e213
+id: '213'
 image: https://i.ytimg.com/vi/EMK2GaA-jjU/maxresdefault.jpg
 publishDate: 2019-08-08
 title: '#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And the

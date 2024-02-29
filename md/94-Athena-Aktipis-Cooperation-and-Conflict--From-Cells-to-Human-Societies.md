@@ -7,7 +7,7 @@ excerpt: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department
   evolutionary biologist, and cancer biologist who now works at the intersection of
   these fields. She will be having a book coming out in the near future, Evolution
   in the Flesh: Cancer and the Transformation of Life.'
-id: e94
+id: '94'
 image: https://i.ytimg.com/vi/lVX3WE6H4NA/maxresdefault.jpg
 publishDate: 2019-06-13
 title: '#94 Athena Aktipis: Cooperation and Conflict, From Cells to Human Societies'

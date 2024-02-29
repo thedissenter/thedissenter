@@ -8,7 +8,7 @@ excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of B
   s the author of books like Why Zebras Don't Get Ulcers, The Trouble with Testosterone:\
   \ And Other Essays on the Biology of the Human Predicament, A Primate's Memoir,\
   \ Behave: The Biology of Humans at Our Best and Worst."
-id: e384
+id: '384'
 image: https://i.ytimg.com/vi/9q8h4C57mTw/maxresdefault.jpg
 publishDate: 2020-10-29
 title: '#384 Robert Sapolsky: Behavior, Self-control, Morality, Primates, Humans,

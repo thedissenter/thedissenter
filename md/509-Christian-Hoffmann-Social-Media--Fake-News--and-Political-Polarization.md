@@ -10,7 +10,7 @@ excerpt: "Dr. Christian Pieter Hoffmann is Professor of Communication Management
   \ communication management, financial communication and political communication\
   \ \u2013 with a particular focus on the challenges and opportunities provided by\
   \ new media."
-id: e509
+id: '509'
 image: https://i.ytimg.com/vi/XRtxZaNIE8E/maxresdefault.jpg
 publishDate: 2021-08-16
 title: '#509 Christian Hoffmann: Social Media, Fake News, and Political Polarization'

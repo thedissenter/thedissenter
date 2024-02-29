@@ -9,7 +9,7 @@ excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Ho
   \ her short essays on faith, family, love, and writing. WordPress, the blogging\
   \ platform that hosts some 70 million blogs worldwide, has singled out COLD as one\
   \ of the Top 50 Recommended Blogs by writers or about writing. "
-id: e247
+id: '247'
 image: https://i.ytimg.com/vi/T6gTK0dZcQc/maxresdefault.jpg
 publishDate: 2019-10-25
 title: '#247 Victoria Dougherty: What People Want From Fiction, And The Art Of Worldbuilding'

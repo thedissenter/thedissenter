@@ -4,7 +4,7 @@ excerpt: Dr. Deborah Carr is a Professor of Sociology and inaugural director of 
   Center of Innovation in Social Science at Boston University. Her research interests
   include aging and the life course, psychosocial factors influences on health over
   the life course, and end-of-life issues. Her latest book is Aging in America.
-id: e780
+id: '780'
 image: https://i.ytimg.com/vi/kY1P2TKPG8w/maxresdefault.jpg
 publishDate: 2023-05-11
 title: '#780 Deborah Carr: Obesity, Disability, Healthcare, and Aging in America'

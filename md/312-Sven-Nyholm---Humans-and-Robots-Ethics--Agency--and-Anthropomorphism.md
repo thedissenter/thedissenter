@@ -12,7 +12,7 @@ excerpt: 'Dr. Sven Nyholm is an Assistant Professor of Philosophical Ethics at U
   automation affect traditional human values, as well as in existential questions
   raised by new technological developments. He has a new book coming out, Humans and
   Robots: Ethics, Agency, and Anthropomorphism.'
-id: e312
+id: '312'
 image: https://i.ytimg.com/vi/oCb8XwDbVBo/maxresdefault.jpg
 publishDate: 2020-03-26
 title: '#312 Sven Nyholm - Humans and Robots: Ethics, Agency, and Anthropomorphism'

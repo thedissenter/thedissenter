@@ -6,7 +6,7 @@ excerpt: "Emily Kubin is a PhD student in the Political Psychology & Communicati
   \ another, and the role media play in opponents\u2019 perceptions of one another.\
   \ She places a special focus on studying strategies political opponents (and the\
   \ media) can use to reduce affective polarization."
-id: e580
+id: '580'
 image: https://i.ytimg.com/vi/f_Ywfbit9x0/maxresdefault.jpg
 publishDate: 2022-01-28
 title: '#580 Emily Kubin: Political Polarization, Dehumanization, and the Media'

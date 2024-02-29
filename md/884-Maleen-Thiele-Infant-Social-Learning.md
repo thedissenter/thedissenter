@@ -9,7 +9,7 @@ excerpt: Dr. Maleen Thiele is a Postdoc in the Department of Comparative Cultura
   memory across great ape species. A central methodological aim of the project is
   to develop robust eye-tracking paradigms and reproducible data processing approaches
   helping us to study ape cognition across species from infancy to adulthood.
-id: e884
+id: '884'
 image: https://i.ytimg.com/vi/Votz88W3PZA/maxresdefault.jpg
 publishDate: 2024-01-08
 title: '#884 Maleen Thiele: Infant Social Learning'

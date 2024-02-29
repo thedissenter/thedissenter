@@ -4,7 +4,7 @@ excerpt: 'Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of
   at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral
   psychology, and cross-cultural philosophy. He is the author of The Geography of
   Morals: Varieties of Moral Possibility.'
-id: e795
+id: '795'
 image: https://i.ytimg.com/vi/1jEyXTmzdzM/maxresdefault.jpg
 publishDate: 2023-06-15
 title: '#795 Owen Flanagan - The Geography of Morals: Varieties of Moral Possibility'

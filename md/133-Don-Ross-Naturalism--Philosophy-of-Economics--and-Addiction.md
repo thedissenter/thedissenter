@@ -10,7 +10,7 @@ excerpt: "Dr. Don Ross is Head of the School of Sociology, Philosophy, Criminolo
   \ of books like Economic Theory and Cognitive Science: Microexplanation; The Picoeconomics\
   \ and Neuroeconomics of Disordered Gambling; and Every Thing Must Go: Metaphysics\
   \ Naturalized and Philosophy of Economics.  "
-id: e133
+id: '133'
 image: https://i.ytimg.com/vi/P1l9V2Cc7SU/maxresdefault.jpg
 publishDate: 2019-02-01
 title: '#133 Don Ross: Naturalism, Philosophy of Economics, and Addiction'

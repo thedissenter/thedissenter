@@ -7,7 +7,7 @@ excerpt: Dr. Gordon Gallup is Professor in the Department of Psychology at the U
   behavior focused on ethological approaches to the study of animal behavior under
   laboratory conditions. Since the 1990s, Dr. Gallup has researched human evolutionary
   psychology exclusively.
-id: e409
+id: '409'
 image: https://i.ytimg.com/vi/IdAYPfloKzo/maxresdefault.jpg
 publishDate: 2020-12-25
 title: '#409 Gordon Gallup: Orgasm, Sperm Competition, Mating Strategies, Self-Recognition,

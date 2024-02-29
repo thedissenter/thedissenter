@@ -4,7 +4,7 @@ excerpt: Dr. Luana Maroja is Professor of Biology at Williams College. She is in
   in the evolution of barriers to gene exchange, speciation, population genetics and
   phylogeography. Her study systems are crickets (Gryllus), artic plants and butterflies
   (heliconius).
-id: e666
+id: '666'
 image: https://i.ytimg.com/vi/ixJdk3PtwPg/maxresdefault.jpg
 publishDate: 2022-08-18
 title: '#666 Luana Maroja: Gene Exchange, Adaptation, Speciation, and Phylogeography'

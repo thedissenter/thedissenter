@@ -10,7 +10,7 @@ excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of
   use of intuitions in moral and legal reasoning. He is the author of many books,
   including his most recent one, Being a Human: Adventures in Forty Thousand Years
   of Consciousness.'
-id: e541
+id: '541'
 image: https://i.ytimg.com/vi/QV4npAUQAck/maxresdefault.jpg
 publishDate: 2021-10-29
 title: '#541 Charles Foster - Being a Human: Adventures in Forty Thousand Years of

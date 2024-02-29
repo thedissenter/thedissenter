@@ -3,7 +3,7 @@ draft: false
 excerpt: "Dr. Jordi Cam\xED is Professor of Pharmacology (specialist in Clinical Pharmacology)\
   \ at Pompeu Fabra University, General Director of the Barcelona Biomedical Research\
   \ Park (PRBB), and Director of the Pasqual Maragall Foundation.   "
-id: e771
+id: '771'
 image: https://i.ytimg.com/vi/MPIrqgz838A/maxresdefault.jpg
 publishDate: 2023-04-20
 title: "#771 Jordi Cam\xED & Luis Mart\xEDnez - The Illusionist Brain: The Neuroscience\

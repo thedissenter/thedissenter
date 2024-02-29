@@ -8,7 +8,7 @@ excerpt: 'Dr. Nadine Strossen is the John Marshall Harlan II Professor of Law Em
   the ACLU, Academic Freedom Alliance, Heterodox Academy, National Coalition Against
   Censorship, and the University of Austin. Her latest book is Free Speech: What Everyone
   Needs to Know.'
-id: e889
+id: '889'
 image: https://i.ytimg.com/vi/bloanBUhjVo/maxresdefault.jpg
 publishDate: 2024-01-19
 title: '#889 Nadine Strossen - Free Speech: What Everyone Needs to Know'

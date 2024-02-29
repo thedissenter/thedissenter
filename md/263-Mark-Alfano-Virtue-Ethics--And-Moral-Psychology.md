@@ -10,7 +10,7 @@ excerpt: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft Univ
   \ philosophy without psychological content is empty, but psychological investigation\
   \ without philosophical insight is blind. He\u2019s the author of books like Character\
   \ as Moral Fiction, and Nietzsche's Moral Psychology."
-id: e263
+id: '263'
 image: https://i.ytimg.com/vi/uJ_iDgD9xGY/maxresdefault.jpg
 publishDate: 2019-12-02
 title: '#263 Mark Alfano: Virtue Ethics, And Moral Psychology'

@@ -6,7 +6,7 @@ excerpt: Dr. Zanna Clay is Associate Professor in the Department of Psychology a
   to investigate the evolutionary and developmental basis of hominid social cognition
   and behavior. Her main interests are the development & evolution of social cognition
   and communication, focusing on empathy, language and social learning.
-id: e314
+id: '314'
 image: https://i.ytimg.com/vi/S76bSvOK2bE/maxresdefault.jpg
 publishDate: 2020-03-30
 title: '#314 Zanna Clay: Bonobo Societies, And Comparative Psychology'

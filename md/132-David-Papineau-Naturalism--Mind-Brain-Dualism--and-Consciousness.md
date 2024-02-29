@@ -7,7 +7,7 @@ excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London
   \ President of the Mind Association for 2009-10, and President of the Aristotelian\
   \ Society for 2013-14. He\u2019s also the author of 9 books, including Philosophical\
   \ Naturalism, Thinking About Consciousness, and Knowing the Score."
-id: e132
+id: '132'
 image: https://i.ytimg.com/vi/AMtjWKE__YY/maxresdefault.jpg
 publishDate: 2019-08-12
 title: '#132 David Papineau: Naturalism, Mind-Brain Dualism, and Consciousness'

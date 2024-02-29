@@ -9,7 +9,7 @@ excerpt: Dr. Marjorie Prokosch is a Postdoctoral Scholar in the Disasters, Trust
   of interest include risk perception, self-regulation, and close relationships. In
   her current role at UF, she is examining how environmental hazards (like hurricanes)
   and climate change threats intersect with social inequality to impact decision-making.
-id: e681
+id: '681'
 image: https://i.ytimg.com/vi/1ILtCVGCH-w/maxresdefault.jpg
 publishDate: 2022-09-22
 title: '#681 Marjorie Prokosch: Harshness, the Immune System, and Climate Change'

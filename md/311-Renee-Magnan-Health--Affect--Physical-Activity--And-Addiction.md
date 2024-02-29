@@ -10,7 +10,7 @@ excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental T
   \ behavior and also how health behaviors may influence one\u2019s feelings. Both\
   \ perspectives can provide important insight to identify targets for interventions\
   \ to prevent negative health consequences and promote wellness."
-id: e311
+id: '311'
 image: https://i.ytimg.com/vi/kAJKw5rMzQM/maxresdefault.jpg
 publishDate: 2020-03-23
 title: '#311 Renee Magnan: Health, Affect, Physical Activity, And Addiction'

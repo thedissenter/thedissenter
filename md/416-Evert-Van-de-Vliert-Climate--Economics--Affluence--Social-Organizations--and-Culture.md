@@ -13,7 +13,7 @@ excerpt: "Dr. Evert Van de Vliert received his PhD from the Free University in A
   \ His current research concentrates on cross-national comparisons, with an emphasis\
   \ on the impact of cold, temperate, and hot climates on national and organizational\
   \ cultures."
-id: e416
+id: '416'
 image: https://i.ytimg.com/vi/ybo1Nn51_i8/maxresdefault.jpg
 publishDate: 2021-01-11
 title: '#416 Evert Van de Vliert: Climate, Economics, Affluence, Social Organizations,

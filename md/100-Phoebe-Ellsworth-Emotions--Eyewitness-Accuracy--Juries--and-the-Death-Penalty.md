@@ -2,7 +2,7 @@
 draft: false
 excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. SORRY ABOUT THAT, BUT I HAD SOME SORT OF\
   \ TECHNICAL ISSUE, AND I COULDN\u2019T RECORD VIDEO. "
-id: e100
+id: '100'
 image: https://i.ytimg.com/vi/r9-jTAKtR3w/maxresdefault.jpg
 publishDate: 2019-06-20
 title: '#100 Phoebe Ellsworth: Emotions, Eyewitness Accuracy, Juries, and the Death

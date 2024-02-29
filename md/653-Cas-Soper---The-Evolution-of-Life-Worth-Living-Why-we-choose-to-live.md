@@ -6,7 +6,7 @@ excerpt: 'Dr. Cas Soper is a psychotherapist and psychologist in private practic
   His therapeutic work specializes in helping people deal with addiction, depression,
   bereavement and other life crises. He is the author of The Evolution of Suicide,
   and, more recently, The Evolution of Life Worth Living: Why we choose to live.'
-id: e653
+id: '653'
 image: https://i.ytimg.com/vi/Dy9LgLZxVws/maxresdefault.jpg
 publishDate: 2022-07-18
 title: '#653 Cas Soper - The Evolution of Life Worth Living: Why we choose to live'

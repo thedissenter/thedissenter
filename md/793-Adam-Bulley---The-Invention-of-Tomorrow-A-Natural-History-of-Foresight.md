@@ -7,7 +7,7 @@ excerpt: 'Dr. Adam Bulley is a postdoctoral fellow at the Brain and Mind Centre 
   evolution, development, and psychological mechanisms of imagination, foresight,
   decision-making, and emotion. He is the author (together with Thomas Suddendorf
   and Jonathan Redshaw) of The Invention of Tomorrow: A Natural History of Foresight.'
-id: e793
+id: '793'
 image: https://i.ytimg.com/vi/TnTT7nQ4XvE/maxresdefault.jpg
 publishDate: 2023-06-09
 title: '#793 Adam Bulley - The Invention of Tomorrow: A Natural History of Foresight'

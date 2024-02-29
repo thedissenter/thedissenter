@@ -6,7 +6,7 @@ excerpt: 'Dr. Clara Mattei is an Assistant Professor in the Economics Department
   to the history of capitalism, exploring the critical relation between economic ideas
   and technocratic policy making. She is the author of The Capital Order: How Economists
   Invented Austerity and Paved the Way to Fascism.'
-id: e731
+id: '731'
 image: https://i.ytimg.com/vi/kUubB9Dk-Cg/maxresdefault.jpg
 publishDate: 2023-01-16
 title: '#731 Clara Mattei - The Capital Order: How Economists Invented Austerity and

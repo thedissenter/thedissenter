@@ -11,7 +11,7 @@ excerpt: "Dr. Christopher Bail is Professor of Sociology, Public Policy, and Dat
   \ Organizations Became Mainstream, received three awards and resulted in an invitation\
   \ to address the 2016 Democratic National Convention. He is the author of the recent\
   \ book, Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing."
-id: e452
+id: '452'
 image: https://i.ytimg.com/vi/2THC1-nCR0E/maxresdefault.jpg
 publishDate: 2021-04-05
 title: '#452 Christopher Bail - Breaking the Social Media Prism: How to Make Our Platforms

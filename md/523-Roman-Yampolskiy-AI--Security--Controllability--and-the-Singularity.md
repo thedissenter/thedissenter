@@ -9,7 +9,7 @@ excerpt: "Dr. Roman V. Yampolskiy is a Tenured Associate Professor in the depart
   \ GCRI. Dr. Yampolskiy\u2019s main areas of interest are AI Safety, Artificial Intelligence,\
   \ Behavioral Biometrics, Cybersecurity, Digital Forensics, Games, Genetic Algorithms,\
   \ and Pattern Recognition. "
-id: e523
+id: '523'
 image: https://i.ytimg.com/vi/MlCns4bKxv8/maxresdefault.jpg
 publishDate: 2021-09-17
 title: '#523 Roman Yampolskiy: AI, Security, Controllability, and the Singularity'

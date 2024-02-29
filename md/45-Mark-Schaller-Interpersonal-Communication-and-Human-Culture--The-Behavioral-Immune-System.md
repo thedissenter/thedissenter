@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e45
+id: '45'
 image: https://i.ytimg.com/vi/EFHdQ1wi3Fo/maxresdefault.jpg
 publishDate: 2019-04-01
 title: '#45 Mark Schaller: Interpersonal Communication and Human Culture, The Behavioral

@@ -12,7 +12,7 @@ excerpt: 'Dr. Khandis Blake is an evolutionary social psychologist at The Univer
   psychosocial study of female ovulation and ovarian hormones. Finally, she is interested
   in the social contexts eliciting aggression, especially male-to-female aggression
   and intimate partner violence.  '
-id: e317
+id: '317'
 image: https://i.ytimg.com/vi/oBgxABXTJMw/maxresdefault.jpg
 publishDate: 2020-04-06
 title: '#317 Khandis Blake: Evolution, Income Inequality, Female Competition, And

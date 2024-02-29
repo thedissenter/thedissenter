@@ -10,7 +10,7 @@ excerpt: Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Profess
   cognitive disorders such as Alzheimer's Disease. Her research has led to new treatments
   for cognitive disorders in humans, including the successful translation of guanfacine
   (IntunivTM) for the treatment of ADHD and related prefrontal cortical disorders.
-id: e857
+id: '857'
 image: https://i.ytimg.com/vi/oFRGaqT8hko/maxresdefault.jpg
 publishDate: 2023-11-06
 title: '#857 Amy Arnsten: The Prefrontal Cortex, and How It Responds to Stress'

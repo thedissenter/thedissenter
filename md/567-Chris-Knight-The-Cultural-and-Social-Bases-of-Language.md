@@ -8,7 +8,7 @@ excerpt: "Dr. Chris Knight is Honorary Professor in the Department of Anthropolo
   \ but the general idea that the transition to language was a \u2018major transition\u2019\
   \ or \u2018revolution\u2019 (often termed the human revolution) has been current\
   \ for many years and is now widely agreed."
-id: e567
+id: '567'
 image: https://i.ytimg.com/vi/MncLaFg8TuA/maxresdefault.jpg
 publishDate: 2021-12-30
 title: '#567 Chris Knight: The Cultural and Social Bases of Language'

@@ -8,7 +8,7 @@ excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace a
   \ war or lethal aggression is rooted in human evolution. He\u2019s the author or\
   \ editor of books like The Human Potential for Peace; Beyond War; War, Peace, and\
   \ Human Nature; and Nurturing Our Humanity."
-id: e519
+id: '519'
 image: https://i.ytimg.com/vi/Pr5-JqcAo6c/maxresdefault.jpg
 publishDate: 2021-09-09
 title: '#519 Douglas Fry: The Origins and Causes of War, and Peace Social Systems

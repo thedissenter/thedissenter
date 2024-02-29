@@ -10,7 +10,7 @@ excerpt: "Dr. Paulo Gama Mota is Associate Professor of Biology in the Departmen
   \ exhibitions, as well as citizen science projects. His areas of interest and research\
   \ include: animal behavior, behavioral ecology, evolutionary biology, and evolutionary\
   \ anthropology."
-id: e192
+id: '192'
 image: https://i.ytimg.com/vi/gaKGF5E2rfQ/maxresdefault.jpg
 publishDate: 2019-06-20
 title: '#192 Paulo Gama Mota: The History of Sexual Selection Theory, And Cultural

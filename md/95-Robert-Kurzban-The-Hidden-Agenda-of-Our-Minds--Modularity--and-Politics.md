@@ -6,7 +6,7 @@ excerpt: "Dr. Robert Kurzban is a former Professor of Psychology at the Universi
   \ Evolution & Human Behavior and President of the Human Behavior and Evolution Society.\
   \ He\u2019s also the author of the books Why Everyone (Else) Is a Hypocrite, and\
   \ The Hidden Agenda of the Political Mind. "
-id: e95
+id: '95'
 image: https://i.ytimg.com/vi/lCrzBJaqkbw/maxresdefault.jpg
 publishDate: 2019-06-14
 title: '#95 Robert Kurzban: The Hidden Agenda of Our Minds, Modularity, and Politics'

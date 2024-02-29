@@ -7,7 +7,7 @@ excerpt: "Dr. Steven Neuberg is a Foundation Professor and chair of the Departme
   \ religion, which shape intergroup conflict. Dr. Neuberg is a fellow of multiple\
   \ scientific societies and the recipient of several teaching awards, including ASU\u2019\
   s 2012 Outstanding Doctoral Mentor Award."
-id: e93
+id: '93'
 image: https://i.ytimg.com/vi/wKNJxKvQfn4/maxresdefault.jpg
 publishDate: 2019-06-12
 title: '#93 Steven Neuberg: The Evolutionary Bases of Stereotypes and Prejudices'

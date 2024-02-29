@@ -9,7 +9,7 @@ excerpt: "Dr. Mark Blyth is William R. Roads Professor of International Economic
   \ and the politics of finance. He\u2019s also the author of books like Great Transformations:\
   \ Economic Ideas and Institutional Change in the Twentieth Century, and Austerity:\
   \ The History of a Dangerous Idea."
-id: e122
+id: '122'
 image: https://i.ytimg.com/vi/kTYTcyODujY/maxresdefault.jpg
 publishDate: 2019-07-24
 title: '#122 Mark Blyth: Austerity, The European Union, Inequality, and Global Trumpism'

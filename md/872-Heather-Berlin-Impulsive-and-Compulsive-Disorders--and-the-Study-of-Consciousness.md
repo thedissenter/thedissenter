@@ -6,7 +6,7 @@ excerpt: Dr. Heather Berlin is an Associate Clinical Professor of Psychiatry and
   aim of developing novel treatments. She is also interested in the brain basis of
   consciousness, dynamic unconscious processes, and creativity. Clinically, she specializes
   in lifespan treatment of anxiety, mood, and impulsive and compulsive disorders.
-id: e872
+id: '872'
 image: https://i.ytimg.com/vi/PdvjXz9RKjw/maxresdefault.jpg
 publishDate: 2023-12-11
 title: '#872 Heather Berlin: Impulsive and Compulsive Disorders, and the Study of

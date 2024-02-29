@@ -12,7 +12,7 @@ excerpt: Dr. Elizabeth Hill is Professor of Psychology at the University of Detr
   the University of Detroit Mercy faculty in 1997 and holds the position of Professor
   of Psychology. Hill also serves as the chair of the Detroit Mercy Institutional
   Review Board (IRB).
-id: e238
+id: '238'
 image: https://i.ytimg.com/vi/KX5qwPukOq4/maxresdefault.jpg
 publishDate: 2019-10-04
 title: '#238 Elizabeth Hill: Life History Theory, Development, And Risky Behavior'

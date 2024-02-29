@@ -10,7 +10,7 @@ excerpt: "Dr. Nick Chater is Professor of Behavioural Science at Warwick Busines
   \ Technology, and is on the advisory board of the Cabinet Office's Behavioural Insight\
   \ Team (BIT). He\u2019s also the author of \u201CThe Mind is Flat: The Illusion\
   \ of Mental Depth and The Improvised Mind\u201D.  "
-id: e111
+id: '111'
 image: https://i.ytimg.com/vi/OWrSfZWTP4k/maxresdefault.jpg
 publishDate: 2019-07-09
 title: '#111 Nick Chater: The Mind Is Flat, and Our Illusions of Mental Depth'

@@ -5,7 +5,7 @@ excerpt: Dr. Joseph Henrich is Professor and chair of The Department of Human Ev
   from "being a relatively unremarkable primate a few million years ago to the most
   successful species on the globe", and how culture affected our genetic development.
   He is also the author of The Secret of Our Success and The WEIRDest People in World.
-id: e344
+id: '344'
 image: https://i.ytimg.com/vi/1Qx7q4Swruk/maxresdefault.jpg
 publishDate: 2020-06-19
 title: '#344 Joseph Henrich: Cultural Evolution, Human Cooperation, and WEIRD Psychology'

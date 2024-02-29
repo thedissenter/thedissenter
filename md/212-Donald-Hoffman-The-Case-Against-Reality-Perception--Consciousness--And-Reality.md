@@ -9,7 +9,7 @@ excerpt: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Scien
   Formal Theory of Perception, and Automotive Lighting and Human Vision. He is just
   about to release a new book, The Case Against Reality: Why Evolution Hid the Truth
   from Our Eyes.'
-id: e212
+id: '212'
 image: https://i.ytimg.com/vi/sD0HuGVZOvQ/maxresdefault.jpg
 publishDate: 2019-08-05
 title: '#212 Donald Hoffman: The Case Against Reality; Perception, Consciousness,

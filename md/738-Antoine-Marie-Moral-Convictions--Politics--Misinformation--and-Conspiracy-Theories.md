@@ -7,7 +7,7 @@ excerpt: Dr. Antoine Marie is a Postdoctoral Researcher at the Department of Pol
   to better understand, and if possible, mitigate, the cognitive biases that arise
   from people having strong moral convictions on controversial topics, typically in
   contexts of perceived intergroup conflict.
-id: e738
+id: '738'
 image: https://i.ytimg.com/vi/1gMxfEZAThA/maxresdefault.jpg
 publishDate: 2023-02-02
 title: '#738 Antoine Marie: Moral Convictions, Politics, Misinformation, and Conspiracy

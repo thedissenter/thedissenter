@@ -7,7 +7,7 @@ excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine G
   books on ancient history, the most recent one being Mortal Republic: How Rome Fell
   Into Tyranny. He also has a new book coming out in 2021, The Eternal Decline and
   Fall of Rome: The History of a Dangerous Idea.'
-id: e410
+id: '410'
 image: https://i.ytimg.com/vi/SemLGgZROw4/maxresdefault.jpg
 publishDate: 2020-12-28
 title: '#410 Edward Watts - Mortal Republic: How Rome Fell into Tyranny'

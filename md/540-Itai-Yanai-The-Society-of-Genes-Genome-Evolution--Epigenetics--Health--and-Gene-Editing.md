@@ -6,7 +6,7 @@ excerpt: Dr. Itai Yanai is Founding Director of the Institute for Computational 
   biology, developmental genetics, genomics, microbiome, systems biology, single-cell
   transcriptomics, gene expression atlas construction, genome evolution. He is the
   author of The Society of Genes.
-id: e540
+id: '540'
 image: https://i.ytimg.com/vi/Pg6b6za9cTg/maxresdefault.jpg
 publishDate: 2021-10-28
 title: '#540 Itai Yanai: The Society of Genes; Genome Evolution, Epigenetics, Health,

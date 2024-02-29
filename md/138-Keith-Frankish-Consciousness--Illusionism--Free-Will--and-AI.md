@@ -7,7 +7,7 @@ excerpt: "Dr. Keith Frankish is a British philosopher and writer, currently livi
   \ in philosophy of mind, also with interests in other areas of Philosophy. He\u2019\
   s also the author of books like Mind and Supermind (2004) and Illusionism: As a\
   \ Theory of Consciousness (2017)."
-id: e138
+id: '138'
 image: https://i.ytimg.com/vi/uXeqm2d1djo/maxresdefault.jpg
 publishDate: 2019-02-14
 title: '#138 Keith Frankish: Consciousness, Illusionism, Free Will, and AI'

@@ -10,7 +10,7 @@ excerpt: 'Dr. Greg Eghigian is Professor of History at Pennsylvania State Univer
   present papers on the general history of madness and psychiatry. In recent years,
   his interests have moved into studying the history of supernatural and paranormal
   phenomena. '
-id: e387
+id: '387'
 image: https://i.ytimg.com/vi/BJ_jomnPaqE/maxresdefault.jpg
 publishDate: 2020-11-05
 title: '#387 Greg Eghigian: The History of Mental Illness and Psychiatry'

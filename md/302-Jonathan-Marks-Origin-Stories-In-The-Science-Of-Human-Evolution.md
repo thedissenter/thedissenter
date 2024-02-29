@@ -13,7 +13,7 @@ excerpt: "Dr. Jonathan Marks is Professor of Anthropology at the University of N
   \ endeavor. He\u2019s the author of books like The Alternative Introduction to Biological\
   \ Anthropology, Tales of the Ex-Apes: How We Think about Human Evolution, and Is\
   \ Science Racist?."
-id: e302
+id: '302'
 image: https://i.ytimg.com/vi/-4TK3uMIXZ0/maxresdefault.jpg
 publishDate: 2020-03-02
 title: '#302 Jonathan Marks: Origin Stories In The Science Of Human Evolution'

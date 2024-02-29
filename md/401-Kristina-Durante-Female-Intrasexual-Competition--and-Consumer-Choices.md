@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: '------------------Sup  '
-id: e401
+id: '401'
 image: https://i.ytimg.com/vi/YIGnwWCJvEA/maxresdefault.jpg
 publishDate: 2020-12-07
 title: '#401 Kristina Durante: Female Intrasexual Competition, and Consumer Choices'

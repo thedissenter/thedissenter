@@ -8,7 +8,7 @@ excerpt: "Dr. Karenleigh A. Overmann is an associate professor of anthropology (
   \ has a master's degree (psychology) and bachelor's (anthropology, philosophy, English)\
   \ from UCCS. She\u2019s the editor of Squeezing Minds From Stones: Cognitive Archaeology\
   \ and the Evolution of the Human Mind."
-id: e375
+id: '375'
 image: https://i.ytimg.com/vi/olLKlMiWMk8/maxresdefault.jpg
 publishDate: 2020-10-08
 title: '#375 Karenleigh Overmann: Cognitive Archaeology, Numeracy, and Language'

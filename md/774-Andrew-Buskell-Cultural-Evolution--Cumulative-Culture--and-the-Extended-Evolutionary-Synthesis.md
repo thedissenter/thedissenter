@@ -7,7 +7,7 @@ excerpt: "Dr. Andrew Buskell is a Visiting Assistant Professor at the Georgia In
   \ and their implications for research and policy design. He is one of the co-organizers\
   \ of the project \u2018Culture at the Macro-Scale: Boundaries, Barriers, and Endogenous\
   \ Change\u2018."
-id: e774
+id: '774'
 image: https://i.ytimg.com/vi/Sl7cSk1VseQ/maxresdefault.jpg
 publishDate: 2023-04-27
 title: '#774 Andrew Buskell: Cultural Evolution, Cumulative Culture, and the Extended

@@ -7,7 +7,7 @@ excerpt: Dr. Manvir Singh just graduated with a PhD in human evolutionary biolog
   dance, music, and gods, as these have appeared in all types of societies across
   the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized
   states.
-id: e362
+id: '362'
 image: https://i.ytimg.com/vi/Ijf8cNBgztA/maxresdefault.jpg
 publishDate: 2020-09-07
 title: '#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music'

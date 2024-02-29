@@ -8,7 +8,7 @@ excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape
   \ it is always morally wrong to create more sentient beings. He\u2019s also the\
   \ author of books like The Second Sexism: Discrimination Against Men and Boys (2012),\
   \ and The Human Predicament: A Candid Guide to Life's Biggest Questions (2017)."
-id: e295
+id: '295'
 image: https://i.ytimg.com/vi/ecU9ZP9-aJ0/maxresdefault.jpg
 publishDate: 2020-02-14
 title: '#295 David Benatar: The Second Sexism; Discrimination Against Men And Boys'

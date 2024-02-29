@@ -10,7 +10,7 @@ excerpt: "Dr. Robert Trivers is an American evolutionary biologist and sociobiol
   \ (1985), Genes in Conflict: The Biology of Selfish Genetic Elements (2006), Deceit\
   \ and Self-Deception: Fooling Yourself the Better to Fool Others (2011), and Wild\
   \ Life: Adventures of an Evolutionary Biologist (2015)."
-id: e187
+id: '187'
 image: https://i.ytimg.com/vi/GE6KlSaBuqw/maxresdefault.jpg
 publishDate: 2019-06-07
 title: '#187 Robert Trivers: Parental Investment, Reciprocal Altruism, Self-Deception'

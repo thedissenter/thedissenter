@@ -10,7 +10,7 @@ excerpt: 'Dr. Michael Graziano is a Professor of Psychology and Neuroscience at 
   as a map of complex actions that make up the behavioral repertoire. He''s also the
   author of 13 books, including Consciousness and the Social Brain (2013), and The
   Spaces Between Us: A Story of Neuroscience, Evolution, and Human Nature (2018).'
-id: e127
+id: '127'
 image: https://i.ytimg.com/vi/w7xR0Rpg4-s/maxresdefault.jpg
 publishDate: 2019-08-01
 title: '#127 Michael Graziano: Consciousness, From Animals To AI'

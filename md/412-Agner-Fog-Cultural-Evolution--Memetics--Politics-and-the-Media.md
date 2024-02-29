@@ -6,7 +6,7 @@ excerpt: "Dr. Agner Fog is associate professor of computer science at Technical 
   \ change based on evolutionary psychology, evolutionary biology, and cultural evolution.'\
   \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
   \ of Genes and Culture\u201D, and \u201CCultural Selection\u201D. "
-id: e412
+id: '412'
 image: https://i.ytimg.com/vi/AiHTfqAAHUI/maxresdefault.jpg
 publishDate: 2021-01-01
 title: '#412 Agner Fog: Cultural Evolution, Memetics, Politics and the Media'

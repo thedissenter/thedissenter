@@ -10,7 +10,7 @@ excerpt: Dr. John Paul Wright is Professor of Criminal Justice in the Division o
   to professional organizations interested in the development of serious, violent
   offending. The winner of four teaching awards, he teaches in the area of life-course
   development and biosocial criminology.
-id: e438
+id: '438'
 image: https://i.ytimg.com/vi/YXGWfkI3nDY/maxresdefault.jpg
 publishDate: 2021-03-04
 title: '#438 John Paul Wright: The Psychology of Criminal Behavior'

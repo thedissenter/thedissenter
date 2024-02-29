@@ -6,7 +6,7 @@ excerpt: Dr. Thomas K. Metzinger is senior research professor at the department 
   the MIND group and Adjunct Fellow at the Frankfurt Institute of Advanced Studies,
   Germany. His research centers on analytic philosophy of mind, applied ethics, philosophy
   of cognitive science, and philosophy of mind.
-id: e559
+id: '559'
 image: https://i.ytimg.com/vi/ERCPVQbXLco/maxresdefault.jpg
 publishDate: 2021-12-10
 title: '#559 Thomas Metzinger: Consciousness, Subjectivity, the Self, and the Ethics

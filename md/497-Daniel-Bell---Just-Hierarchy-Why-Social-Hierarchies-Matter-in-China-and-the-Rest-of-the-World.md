@@ -12,7 +12,7 @@ excerpt: "Dr. Daniel A. Bell is Dean of the School of Political Science and Publ
   \ Political Thinking for an East Asian Context (2006), East Meets West: Human Rights\
   \ and Democracy in East Asia (2000), and, more recently, Just Hierarchy: Why Social\
   \ Hierarchies Matter in China and the Rest of the World."
-id: e497
+id: '497'
 image: https://i.ytimg.com/vi/5C1mpNwFj8w/maxresdefault.jpg
 publishDate: 2021-07-19
 title: '#497 Daniel Bell - Just Hierarchy: Why Social Hierarchies Matter in China

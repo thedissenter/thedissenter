@@ -4,7 +4,7 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
   at the University of California Merced. He researches decision-making under contexts
   of threat, with particular focus on political orientation, group prejudice, and
   the representation of mental states.
-id: e345
+id: '345'
 image: https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg
 publishDate: 2020-06-22
 title: '#345 Colin Holbrook: Threat, And Human-Robot Interaction (Part 1)'

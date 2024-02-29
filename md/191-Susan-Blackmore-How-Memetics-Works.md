@@ -4,7 +4,7 @@ excerpt: Dr. Susan Blackmore is a psychologist, lecturer and writer researching 
   memes, and anomalous experiences, and a Visiting Professor at the University of
   Plymouth. She is best known for her book The Meme Machine, and has written or contributed
   to over 40 books, mostly on consciousness.
-id: e191
+id: '191'
 image: https://i.ytimg.com/vi/o8wofnzguRs/maxresdefault.jpg
 publishDate: 2019-06-17
 title: '#191 Susan Blackmore: How Memetics Works'

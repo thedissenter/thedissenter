@@ -6,7 +6,7 @@ excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at The Univ
   \ in the School of Psychology at Plymouth University. Her research interests include\
   \ empathy and interpersonal emotion regulation across the lifespan, as well as happiness\
   \ and well-being."
-id: e767
+id: '767'
 image: https://i.ytimg.com/vi/XgcB_z3LoxQ/maxresdefault.jpg
 publishDate: 2023-04-10
 title: "#767 Bel\xE9n L\xF3pez-P\xE9rez: Emotion Regulation, Emotion Goals, Happiness,\

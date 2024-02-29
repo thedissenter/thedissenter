@@ -8,7 +8,7 @@ excerpt: 'Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-Unive
   behavior: prosociality, submission, ethnoreligious & ideological prejudice, sexism,
   homophobia; personality, emotions, and health: personality traits, birth order effects,
   awe, humor; and more.'
-id: e786
+id: '786'
 image: https://i.ytimg.com/vi/m9_zwC7pdTo/maxresdefault.jpg
 publishDate: 2023-05-25
 title: '#786 Vassilis Saroglou: The Psychological Traits of Religious People'

@@ -5,7 +5,7 @@ excerpt: "Dr. Miguel Farias is an Associate Professor at Coventry University, UK
   \ including meditation and pilgrimage. He is also interested in the biological roots\
   \ of our beliefs and how we can change them. He\u2019s the author of The Buddha\
   \ Pill: Can Meditation Change You?."
-id: e227
+id: '227'
 image: https://i.ytimg.com/vi/czuifj95f_4/maxresdefault.jpg
 publishDate: 2019-09-09
 title: '#227 Miguel Farias: Mindfulness, Religion, And Scientific Faith'

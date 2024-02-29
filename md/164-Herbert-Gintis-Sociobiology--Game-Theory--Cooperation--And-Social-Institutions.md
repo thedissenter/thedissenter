@@ -11,7 +11,7 @@ excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He
   Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-scale
   Societies,  and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments
   and Material Interests: On the Foundations of Cooperation in Economic Life. '
-id: e164
+id: '164'
 image: https://i.ytimg.com/vi/dyfJ3LNIcGs/maxresdefault.jpg
 publishDate: 2019-04-15
 title: '#164 Herbert Gintis: Sociobiology, Game Theory, Cooperation, And Social Institutions'

@@ -13,7 +13,7 @@ excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolut
   \ and Society group at Arizona State Unviersity in August 2016. He\u2019s interested\
   \ in the psychological mechanisms that support culture and evolutionary explanations\
   \ for how humans came to be. "
-id: e216
+id: '216'
 image: https://i.ytimg.com/vi/PquVDMPAbmo/maxresdefault.jpg
 publishDate: 2019-08-15
 title: '#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture'

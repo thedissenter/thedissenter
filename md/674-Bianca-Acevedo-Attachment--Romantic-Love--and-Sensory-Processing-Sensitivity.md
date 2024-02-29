@@ -10,7 +10,7 @@ excerpt: Dr. Bianca Acevedo is an Instructor at New York University. She is a so
   and sensory processing sensitivity. In addition, her research examines the neural
   and behavioral outcomes associated with engaging in mind-body practices in clinical
   and normative individuals and dyads.
-id: e674
+id: '674'
 image: https://i.ytimg.com/vi/0ohyYxbcGEo/maxresdefault.jpg
 publishDate: 2022-09-05
 title: '#674 Bianca Acevedo: Attachment, Romantic Love, and Sensory Processing Sensitivity'

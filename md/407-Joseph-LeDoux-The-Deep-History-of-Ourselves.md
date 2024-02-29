@@ -6,7 +6,7 @@ excerpt: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Pr
   \ of emotion and memory. He\u2019s the author of many books, the most recent one\
   \ being The Deep History of Ourselves: The Four-Billion-Year Story of How We Got\
   \ Conscious Brains."
-id: e407
+id: '407'
 image: https://i.ytimg.com/vi/TzhqTRtHx8w/maxresdefault.jpg
 publishDate: 2020-12-21
 title: '#407 Joseph LeDoux: The Deep History of Ourselves'

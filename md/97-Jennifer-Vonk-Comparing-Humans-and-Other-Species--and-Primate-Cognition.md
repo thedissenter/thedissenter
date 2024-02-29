@@ -5,7 +5,7 @@ excerpt: 'Dr. Jennifer Vonk is Professor of comparative/cognitive psychology at 
   cognition, and cognitive development. The underlying goal of her work is to examine
   cognitive continuities and discontinuities between humans and both closely and distantly
   related species. '
-id: e97
+id: '97'
 image: https://i.ytimg.com/vi/oNgvVrlmg6M/maxresdefault.jpg
 publishDate: 2019-06-17
 title: '#97 Jennifer Vonk: Comparing Humans and Other Species, and Primate Cognition'

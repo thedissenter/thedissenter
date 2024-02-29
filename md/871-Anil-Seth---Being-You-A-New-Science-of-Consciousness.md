@@ -7,7 +7,7 @@ excerpt: 'Dr. Anil Seth is Professor of Cognitive and Computational Neuroscience
   Scholarship Programme: From Sensation and Perception to Awareness. He is also an
   Engagement Fellow with the Wellcome Trust. He is the author of several books, the
   latest one being Being You: A New Science of Consciousness.'
-id: e871
+id: '871'
 image: https://i.ytimg.com/vi/5fqiGkg2RAw/maxresdefault.jpg
 publishDate: 2023-12-08
 title: '#871 Anil Seth - Being You: A New Science of Consciousness'

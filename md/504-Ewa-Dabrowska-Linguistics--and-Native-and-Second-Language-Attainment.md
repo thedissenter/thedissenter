@@ -7,7 +7,7 @@ excerpt: Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlan
   has published monographs on the semantics of case and the relationship between linguistics
   and other disciplines studying language, and numerous articles. She is the editor
   of Cognitive Linguistics and Vice President of the UK Cognitive Linguistics Association.
-id: e504
+id: '504'
 image: https://i.ytimg.com/vi/U07H3vm-wv8/maxresdefault.jpg
 publishDate: 2021-08-05
 title: '#504 Ewa Dabrowska: Linguistics, and Native and Second Language Attainment'

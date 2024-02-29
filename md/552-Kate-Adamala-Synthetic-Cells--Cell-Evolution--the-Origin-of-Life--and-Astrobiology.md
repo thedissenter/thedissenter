@@ -11,7 +11,7 @@ excerpt: Dr. Katarzyna (Kate) P. Adamala is a synthetic biologist and a professo
   non enzymatic RNA replication in primitive protocells is only possibly in presence
   of weak cation chelator like citric acid, providing further evidence for the central
   role of citric acid in primordial metabolism.
-id: e552
+id: '552'
 image: https://i.ytimg.com/vi/nhGv20KiU3s/maxresdefault.jpg
 publishDate: 2021-11-25
 title: '#552 Kate Adamala: Synthetic Cells, Cell Evolution, the Origin of Life, and

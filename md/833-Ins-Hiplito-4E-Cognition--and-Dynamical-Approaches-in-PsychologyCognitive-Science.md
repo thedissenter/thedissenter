@@ -13,7 +13,7 @@ excerpt: "Dr. In\xEAs Hip\xF3lito is a faculty member at Macquarie University, w
   \ diversity and inclusivity in the field, serving as an elected member of the Women\
   \ in Philosophy Committee and the Committee in Diversity and Inclusivity at the\
   \ Australasian Association of Philosophy."
-id: e833
+id: '833'
 image: https://i.ytimg.com/vi/HiJuTPn1w34/maxresdefault.jpg
 publishDate: 2023-09-11
 title: "#833 In\xEAs Hip\xF3lito: 4E Cognition, and Dynamical Approaches in Psychology/Cognitive\

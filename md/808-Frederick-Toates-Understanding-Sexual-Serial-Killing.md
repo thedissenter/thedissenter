@@ -4,7 +4,7 @@ excerpt: Dr. Frederick Toates is Emeritus Professor of Biological Psychology at 
   Open University. Dr. Toates' research interests are primarily in the area of motivation.
   He is the author of a number of books, the most recent one being Understanding Sexual
   Serial Killing.
-id: e808
+id: '808'
 image: https://i.ytimg.com/vi/Ow3jrvVzllA/maxresdefault.jpg
 publishDate: 2023-07-14
 title: '#808 Frederick Toates: Understanding Sexual Serial Killing'

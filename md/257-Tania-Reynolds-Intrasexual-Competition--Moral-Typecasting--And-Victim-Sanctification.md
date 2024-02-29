@@ -10,7 +10,7 @@ excerpt: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at t
   \ and Amanda Gesselman, she hopes to examine the dispositional predictors and physiological\
   \ correlates of individuals\u2019 romantic relationship experiences, as well as\
   \ how these associations may differ across gender and sexual orientation."
-id: e257
+id: '257'
 image: https://i.ytimg.com/vi/n6EWA_Wg3xI/maxresdefault.jpg
 publishDate: 2019-11-18
 title: '#257 Tania Reynolds: Intrasexual Competition, Moral Typecasting, And Victim

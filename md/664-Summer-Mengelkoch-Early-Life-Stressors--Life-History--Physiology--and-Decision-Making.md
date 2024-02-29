@@ -8,7 +8,7 @@ excerpt: Dr. Summer Mengelkoch has recently finished her PhD in experimental soc
   relationships between biological factors (including hormones, hormonal contraceptive
   use, and immune function) and behaviors (including eating behavior, mate preferences,
   cognition, and decision-making).
-id: e664
+id: '664'
 image: https://i.ytimg.com/vi/EzWmDrudlKk/maxresdefault.jpg
 publishDate: 2022-08-12
 title: '#664 Summer Mengelkoch: Early Life Stressors, Life History, Physiology, and

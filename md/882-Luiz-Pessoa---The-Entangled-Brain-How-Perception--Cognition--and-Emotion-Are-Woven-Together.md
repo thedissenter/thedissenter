@@ -10,7 +10,7 @@ excerpt: 'Dr. Luiz Pessoa is a Professor in the Department of Psychology at the 
   for the analysis of fMRI data, particularly methods to link moment-to-moment fluctuations
   in behavior to single-trial brain responses. He is the author of The Entangled Brain:
   How Perception, Cognition, and Emotion Are Woven Together.'
-id: e882
+id: '882'
 image: https://i.ytimg.com/vi/gxdQXTAGlio/maxresdefault.jpg
 publishDate: 2024-01-04
 title: '#882 Luiz Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion

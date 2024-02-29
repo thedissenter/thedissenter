@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e23
+id: '23'
 image: https://i.ytimg.com/vi/3y-KOM2YiVY/maxresdefault.jpg
 publishDate: 2019-03-04
 title: "#23 Olof Gr\xE4nstr\xF6m: Gapminder, Industrial Revolution, Violence Rates,\

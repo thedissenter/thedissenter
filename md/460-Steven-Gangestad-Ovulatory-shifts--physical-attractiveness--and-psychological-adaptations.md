@@ -4,7 +4,7 @@ excerpt: Dr. Steven Gangestad is Distinguished Professor Emeritus at the Univers
   of New Mexico. His research interests include social behavior; interpersonal relationships;
   social/personality psychology; psychopathology; and health related behavior, as
   informed by Evolutionary Psychology.
-id: e460
+id: '460'
 image: https://i.ytimg.com/vi/m36rtFBYtq4/maxresdefault.jpg
 publishDate: 2021-04-23
 title: '#460 Steven Gangestad: Ovulatory shifts, physical attractiveness, and psychological

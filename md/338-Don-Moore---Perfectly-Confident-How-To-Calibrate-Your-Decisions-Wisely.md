@@ -9,7 +9,7 @@ excerpt: "Dr. Don Moore is the Lorraine Tyson Mitchell Professor of Communicatio
   \ they are better than others, and when they are too sure they know the truth. He\u2019\
   s the author of a new book, Perfectly Confident: How To Calibrate Your Decisions\
   \ Wisely."
-id: e338
+id: '338'
 image: https://i.ytimg.com/vi/Ctw1DdPzLnk/maxresdefault.jpg
 publishDate: 2020-05-25
 title: '#338 Don Moore - Perfectly Confident: How To Calibrate Your Decisions Wisely'

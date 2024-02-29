@@ -9,7 +9,7 @@ excerpt: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience
   \ research looking at the genetics and phenotypic manifestations of synaesthesia\
   \ and schizophrenia in humans. He\u2019s the author of a book that came out last\
   \ year, Innate: How the Wiring of Our Brains Shapes Who We Are."
-id: e274
+id: '274'
 image: https://i.ytimg.com/vi/VBc9Ava4Dgg/maxresdefault.jpg
 publishDate: 2019-12-27
 title: '#274 Kevin Mitchell: Innate, How the Wiring of Our Brains Shapes Who We Are'

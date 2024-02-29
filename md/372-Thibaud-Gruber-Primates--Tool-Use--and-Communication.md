@@ -4,7 +4,7 @@ excerpt: Dr. Thibaud Gruber is Assistant Professor of Psychology at the Universi
   of Geneva, and he is also part of the Swiss Center for Affective Sciences. A primatologist
   halfway between Switzerland and the UK. Working with chimps, orangutans and bonobos,
   he is interested in the evolutionary origins of culture and language.
-id: e372
+id: '372'
 image: https://i.ytimg.com/vi/EqkKJURDEjo/maxresdefault.jpg
 publishDate: 2020-10-01
 title: '#372 Thibaud Gruber: Primates, Tool Use, and Communication'

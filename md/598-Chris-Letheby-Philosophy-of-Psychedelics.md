@@ -7,7 +7,7 @@ excerpt: Dr. Chris Letheby is Lecturer in Philosophy at the University of Wester
   conducted at the University of Adelaide, presented the first systematic analysis
   of psychedelic experience within the framework of 21st century philosophy of cognitive
   science. He is the author of Philosophy of Psychedelics.
-id: e598
+id: '598'
 image: https://i.ytimg.com/vi/rDPhcAwd-4Q/maxresdefault.jpg
 publishDate: 2022-03-11
 title: '#598 Chris Letheby: Philosophy of Psychedelics'

@@ -8,7 +8,7 @@ excerpt: Dr. Randall Beer is Professor of Cognitive Science and Informatics at I
   of animals, biologically-inspired robotics, and dynamical systems approaches to
   behavior and cognition. More generally, he is interested in computational and theoretical
   biology, including models of metabolism, gene regulation and development.
-id: e886
+id: '886'
 image: https://i.ytimg.com/vi/1YcSgczYqKk/maxresdefault.jpg
 publishDate: 2024-01-12
 title: '#886 Randall Beer: Autopoiesis, Enactivism, Dynamical Systems, and Evo-Devo

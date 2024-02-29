@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: '------------------Support me-----------------------  '
-id: e82
+id: '82'
 image: https://i.ytimg.com/vi/CP3b5INr00A/maxresdefault.jpg
 publishDate: 2019-05-27
 title: "#82 Maur\xEDcio Martins: C\xE9rebro, Mente, Comportamento e Livre Arb\xED\

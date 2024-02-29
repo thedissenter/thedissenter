@@ -7,7 +7,7 @@ excerpt: 'Dr. Paul Bloom is Professor of Psychology at the University of Toronto
   for his research and teaching. He is past-president of the Society for Philosophy
   and Psychology, and co-editor of Behavioral and Brain Sciences. He is the author
   of seven books, including his latest Psych: The Story of the Human Mind.'
-id: e752
+id: '752'
 image: https://i.ytimg.com/vi/9BV3Oci3YfY/maxresdefault.jpg
 publishDate: 2023-03-06
 title: '#752 Paul Bloom - Psych: The Story of the Human Mind'

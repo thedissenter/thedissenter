@@ -9,7 +9,7 @@ excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton Unive
   \ Association, and elected to the American Academy of Arts and Sciences. He is the\
   \ author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths\
   \ about Human Nature, and Why We Believe: Evolution and the Human Way of Being."
-id: e785
+id: '785'
 image: https://i.ytimg.com/vi/-WBf8O3--qg/maxresdefault.jpg
 publishDate: 2023-05-22
 title: "#785 Agust\xEDn Fuentes: The Origins of Patriarchy"

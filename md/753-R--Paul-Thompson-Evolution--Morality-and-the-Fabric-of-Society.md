@@ -6,7 +6,7 @@ excerpt: Dr. R. Paul Thompson holds appointments as Professor in the Institute f
   on evolutionary theory, population genetics, mathematical modelling in biology,
   theory structure in biology, philosophy of medicine, and ethics. He is the author
   of Evolution, Morality and the Fabric of Society.
-id: e753
+id: '753'
 image: https://i.ytimg.com/vi/Dwxp83xbmcc/maxresdefault.jpg
 publishDate: 2023-03-09
 title: '#753 R. Paul Thompson: Evolution, Morality and the Fabric of Society'

@@ -8,7 +8,7 @@ excerpt: 'Dr. John Brooke is Arts & Sciences Distinguished Professor of History,
   History and Environmental History. His most recent book, Climate Change and the
   Course of Global History: A Rough Journey, published in 2014, examines the long
   material and natural history of the human condition.'
-id: e176
+id: '176'
 image: https://i.ytimg.com/vi/xXRfxuqSol8/maxresdefault.jpg
 publishDate: 2019-05-13
 title: '#176 John Brooke: Environmental History, And The Anthropocene'

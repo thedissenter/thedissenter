@@ -3,7 +3,7 @@ draft: false
 excerpt: Dr. Marianna Ganapini is an Assistant Professor in the Philosophy Department
   at Union College (NY). She works primarily in contemporary philosophy of mind and
   epistemology. She also has related interests in the ethics and epistemology of AI.
-id: e586
+id: '586'
 image: https://i.ytimg.com/vi/CooZlBJSS2c/maxresdefault.jpg
 publishDate: 2022-02-11
 title: '#586 Marianna Ganapini: Beliefs, Confabulations, Rationalizations, and AI

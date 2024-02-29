@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e12
+id: '12'
 image: https://i.ytimg.com/vi/ck2VTFbyGSA/maxresdefault.jpg
 publishDate: 2019-02-19
 title: '#12 Jacob Little: Conformity, PC culture, Hate Speech, and Feminism'

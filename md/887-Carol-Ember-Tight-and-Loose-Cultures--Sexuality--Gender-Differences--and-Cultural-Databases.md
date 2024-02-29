@@ -9,7 +9,7 @@ excerpt: Dr. Carol Ember is President of the Human Relations Area Files at Yale 
   fields of anthropology as well as anthropology with other disciplines. She is the
   first author (with Melvin Ember) of Cultural Anthropology, now in its 15th edition
   and Anthropology (with Melvin Ember and Peter N. Peregrine), now in its 15th edition.
-id: e887
+id: '887'
 image: https://i.ytimg.com/vi/0zew8DVP3q0/maxresdefault.jpg
 publishDate: 2024-01-15
 title: '#887 Carol Ember: Tight and Loose Cultures, Sexuality, Gender Differences,

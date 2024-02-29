@@ -5,7 +5,7 @@ excerpt: 'Dr. Michelle Montague is Professor of Philosophy at The University of 
   is the editor of Non-Propositional Intentionality, Cognitive Phenomenology, and
   Philosophical Writings by P.F. Strawson (co-edited with Galen Strawson). She is
   the author of The Given: experience and its content.'
-id: e505
+id: '505'
 image: https://i.ytimg.com/vi/OgRqi_yw_x4/maxresdefault.jpg
 publishDate: 2021-08-06
 title: '#505 Michelle Montague: Mind, Phenomenology, Cognition, Perception, Consciousness,

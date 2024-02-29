@@ -7,7 +7,7 @@ excerpt: 'Dr. Andrew Berry is a lecturer in Organismic and Evolutionary Biology.
   He has published two books: Infinite tropics: an Alfred Russel Wallace Anthology,
   with a foreword written by Stephen Jay Gould, and DNA: The Secret of Life with James
   Watson.'
-id: e518
+id: '518'
 image: https://i.ytimg.com/vi/t18rl83WP-A/maxresdefault.jpg
 publishDate: 2021-09-06
 title: '#518 Andrew Berry: The History of Evolutionary Biology (Pt. 2) - Genetics,

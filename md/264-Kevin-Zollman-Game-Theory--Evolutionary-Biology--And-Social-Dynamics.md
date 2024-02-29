@@ -7,7 +7,7 @@ excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philo
   \ Philosophy (part of Ludwig-Maximilians Universit\xE4t), and an associate editor\
   \ of the journal Philosophy of Science. With Paul Raeburn, he is the author of The\
   \ Game Theorist's Guide to Parenting."
-id: e264
+id: '264'
 image: https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg
 publishDate: 2019-12-05
 title: '#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics'

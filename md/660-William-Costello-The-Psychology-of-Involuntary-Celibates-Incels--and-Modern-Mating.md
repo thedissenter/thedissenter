@@ -8,7 +8,7 @@ excerpt: 'William Costello finished his MSc in Psychology: Culture and Evolution
   including gender and identity politics, and his work has been featured in Quillette
   and Areo, and his academic research has been presented at several academic conferences
   around the world.'
-id: e660
+id: '660'
 image: https://i.ytimg.com/vi/-zq3wgE6NpY/maxresdefault.jpg
 publishDate: 2022-08-04
 title: '#660 William Costello: The Psychology of Involuntary Celibates (Incels), and

@@ -9,7 +9,7 @@ excerpt: "Dr. Melanie Meng Xue is assistant professor in the Social Science Divi
   \ and political disparities. Another strand of Dr. Meng Xue\u2019s research concerns\
   \ the decoding of folklore and mythology as a new approach to understanding historical\
   \ values."
-id: e340
+id: '340'
 image: https://i.ytimg.com/vi/EhoP1XXDXRU/maxresdefault.jpg
 publishDate: 2020-05-29
 title: '#340 Melanie Meng Xue: Economics And Gender In Imperial And Modern China'

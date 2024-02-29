@@ -8,7 +8,7 @@ excerpt: Dr. Quentin Atkinson is a Professor in Psychology at the University of 
   diversity, the function of religion, the psychology of climate change, how evolved
   cognitive biases shape our social behavior and why political systems vary the way
   they do around the globe.
-id: e757
+id: '757'
 image: https://i.ytimg.com/vi/09UkHZ3nRrs/maxresdefault.jpg
 publishDate: 2023-03-17
 title: '#757 Quentin Atkinson: Comparing Cultures, Climate Change, and Religion'

@@ -4,7 +4,7 @@ excerpt: Dr. Menelaos Apostolou is currently an Associate Professor at the Unive
   of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate
   and graduate studies in the United Kingdom. He has published several peer-reviewed
   papers, books and chapters in books in the area of evolutionary psychology.
-id: e282
+id: '282'
 image: https://i.ytimg.com/vi/BHuseaJ-b7Q/maxresdefault.jpg
 publishDate: 2020-01-16
 title: '#282 Menelaos Apostolou: The Evolution of Singlehood, Parental Mate Choice,

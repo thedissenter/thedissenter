@@ -9,7 +9,7 @@ excerpt: 'Dr. Jeremy DeSilva is a Professor and Chair of Anthropology at Dartmou
   and South Africa. From 1998-2003, Dr. DeSilva worked as an educator at the Boston
   Museum of Science and continues to be passionate about science education. He is
   the author of First Steps: How Upright Walking Made Us Human.'
-id: e883
+id: '883'
 image: https://i.ytimg.com/vi/MOsymrtTCuE/maxresdefault.jpg
 publishDate: 2024-01-05
 title: '#883 Jeremy DeSilva - First Steps: How Upright Walking Made Us Human'

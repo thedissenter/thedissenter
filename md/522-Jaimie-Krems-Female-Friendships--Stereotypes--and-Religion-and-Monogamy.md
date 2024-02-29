@@ -6,7 +6,7 @@ excerpt: 'Dr. Jaimie Krems is Assistant Professor of Psychology at Oklahoma Stat
   ecology, evolutionary biology and anthropology, as well as animal behavior to investigate
   how people use cues to strategically navigate their social worlds and meet their
   social goals. '
-id: e522
+id: '522'
 image: https://i.ytimg.com/vi/U6FDz4d6PNY/maxresdefault.jpg
 publishDate: 2021-09-16
 title: '#522 Jaimie Krems: Female Friendships, Stereotypes, and Religion and Monogamy'

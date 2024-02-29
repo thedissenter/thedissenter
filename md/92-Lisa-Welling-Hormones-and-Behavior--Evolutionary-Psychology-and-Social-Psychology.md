@@ -2,7 +2,7 @@
 draft: false
 excerpt: "I ONLY HAVE AUDIO FROM DR. WELLING\u2019S SIDE. SORRY ABOUT THAT, BUT I\
   \ HAD SOME SORT OF TECHNICAL ISSUE, AND I COULDN\u2019T RECORD THE VIDEO. "
-id: e92
+id: '92'
 image: https://i.ytimg.com/vi/bhE2RjSJWKI/maxresdefault.jpg
 publishDate: 2019-06-11
 title: '#92 Lisa Welling: Hormones and Behavior, Evolutionary Psychology and Social

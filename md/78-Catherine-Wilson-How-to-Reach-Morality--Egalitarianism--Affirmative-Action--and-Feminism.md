@@ -7,7 +7,7 @@ excerpt: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the Uni
   \ ethics and aesthetics with a special interest in the evolution of morality and\
   \ the science behind visual experience. She\u2019s the author of the book Moral\
   \ Animals: Ideals and Constraints in Moral Theory."
-id: e78
+id: '78'
 image: https://i.ytimg.com/vi/cWKDCe2JdQw/maxresdefault.jpg
 publishDate: 2019-05-20
 title: '#78 Catherine Wilson: How to Reach Morality, Egalitarianism, Affirmative Action,

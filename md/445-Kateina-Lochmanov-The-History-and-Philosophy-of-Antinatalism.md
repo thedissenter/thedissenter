@@ -11,7 +11,7 @@ excerpt: "Kate\u0159ina Lochmanov\xE1 is currently finishing her postgraduate st
   \ too, especially in (the history of) Benatar\u2019s asymmetry argument. She is\
   \ the editor of History of Antinatalism: How Philosophy Has Challenged the Question\
   \ of Procreation."
-id: e445
+id: '445'
 image: https://i.ytimg.com/vi/iZlfMryFCqw/maxresdefault.jpg
 publishDate: 2021-03-19
 title: "#445 Kate\u0159ina Lochmanov\xE1: The History and Philosophy of Antinatalism"

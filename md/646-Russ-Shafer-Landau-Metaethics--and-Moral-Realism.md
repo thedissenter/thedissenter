@@ -6,7 +6,7 @@ excerpt: 'Dr. Russ Shafer-Landau is Professor of Philosophy at the University of
   of Ethics (Oxford 2010). He is the editor of Oxford Studies in Metaethics, and is
   the founder and organizer of the annual Madison Metaethics Workshop (MadMeta). He
   is also the director of the Marc Sanders Prize in Metaethics. '
-id: e646
+id: '646'
 image: https://i.ytimg.com/vi/_JIQrDDWkAg/maxresdefault.jpg
 publishDate: 2022-07-01
 title: '#646 Russ Shafer-Landau: Metaethics, and Moral Realism'

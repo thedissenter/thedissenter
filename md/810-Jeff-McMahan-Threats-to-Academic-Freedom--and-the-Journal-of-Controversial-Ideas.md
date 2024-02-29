@@ -5,7 +5,7 @@ excerpt: "Dr. Jeff McMahan is Sekyra and White\u2019s Professor of Moral Philoso
   \ and Ethics. He is editor of the Journal of Controversial Ideas. He\u2019s the\
   \ author of books like The Morality of Nationalism, The Ethics of Killing: Problems\
   \ at the Margins of Life, and Killing in War."
-id: e810
+id: '810'
 image: https://i.ytimg.com/vi/Z4crCag-4Q0/maxresdefault.jpg
 publishDate: 2023-07-20
 title: '#810 Jeff McMahan: Threats to Academic Freedom, and the Journal of Controversial

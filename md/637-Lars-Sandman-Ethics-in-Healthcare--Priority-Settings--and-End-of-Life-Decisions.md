@@ -5,7 +5,7 @@ excerpt: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping Uni
   \ area is organizational ethics in healthcare, focusing on priority setting and\
   \ ethical analysis of healthcare methods. He is the author of A Good Death: On the\
   \ Value of Death and Dying."
-id: e637
+id: '637'
 image: https://i.ytimg.com/vi/yOuX36Erss0/maxresdefault.jpg
 publishDate: 2022-06-10
 title: '#637 Lars Sandman: Ethics in Healthcare, Priority Settings, and End-of-Life

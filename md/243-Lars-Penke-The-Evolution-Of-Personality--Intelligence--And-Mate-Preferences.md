@@ -7,7 +7,7 @@ excerpt: "Dr. Lars Penke is Full Professor of Biological Personality Psychology 
   \ psychology of mate choice, romantic relationships and sexuality, neurostructural\
   \ indicators of intelligence and cognitive ageing, behavior genetics, and life history\
   \ theory."
-id: e243
+id: '243'
 image: https://i.ytimg.com/vi/2Icgg1UrLLo/maxresdefault.jpg
 publishDate: 2019-10-17
 title: '#243 Lars Penke: The Evolution Of Personality, Intelligence, And Mate Preferences'

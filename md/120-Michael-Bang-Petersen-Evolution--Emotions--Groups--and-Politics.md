@@ -4,7 +4,7 @@ excerpt: 'Dr. Michael Bang Petersen is Professor of Political Science at Aarhus 
   in Denmark. He also directs The Politics and Evolution Lab (PoNE Lab) there. He
   investigates how the adaptive challenges of human evolutionary history shape the
   way modern citizens think about mass politics. '
-id: e120
+id: '120'
 image: https://i.ytimg.com/vi/24XvyCmDSgQ/maxresdefault.jpg
 publishDate: 2019-07-22
 title: '#120 Michael Bang Petersen: Evolution, Emotions, Groups, and Politics'

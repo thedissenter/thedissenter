@@ -8,7 +8,7 @@ excerpt: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian U
   series. He received the Philip Leverhulme Prize in 2003, for "outstanding research
   achievements of young scholars of distinction and promise based in UK institutions"
   and received a grant from the same institution in 2010.
-id: e215
+id: '215'
 image: https://i.ytimg.com/vi/KFWWSB4u8zs/maxresdefault.jpg
 publishDate: 2019-08-12
 title: '#215 Peter Adamson: The Origins of Philosophy, And The Pre-Socratics'

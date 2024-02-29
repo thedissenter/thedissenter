@@ -12,7 +12,7 @@ excerpt: "Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor 
   \ media usage affects all of these types of political behavior. More recently, he\
   \ has been spending a lot of time working on studying the relationship between social\
   \ media, politics, and political participation."
-id: e599
+id: '599'
 image: https://i.ytimg.com/vi/n-XdqCj6uxw/maxresdefault.jpg
 publishDate: 2022-03-14
 title: '#599 Joshua Tucker: Social Media, Politics, Echo Chambers, and Organizing

@@ -7,7 +7,7 @@ excerpt: "Dr. Joel Paris is Professor and Chair of the Department of Psychiatry 
   \ and personality. He\u2019s the author of many books, including An Evidence-Based\
   \ Critique of Contemporary Psychoanalysis, The Fall of an Icon: Psychoanalysis and\
   \ Academic Psychiatry, and Fads and Fallacies in Psychiatry."
-id: e444
+id: '444'
 image: https://i.ytimg.com/vi/qjhZi01sMMI/maxresdefault.jpg
 publishDate: 2021-03-18
 title: '#444 Joel Paris: Psychoanalysis and Modern Psychiatry'

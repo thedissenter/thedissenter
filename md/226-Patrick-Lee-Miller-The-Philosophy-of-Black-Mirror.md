@@ -5,7 +5,7 @@ excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duqu
   Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory
   Readings in Ancient Greek and Roman Philosophy (Hackett, 2015). He also writes for
   Quillette.'
-id: e226
+id: '226'
 image: https://i.ytimg.com/vi/xokhlikH74s/maxresdefault.jpg
 publishDate: 2019-09-06
 title: '#226 Patrick Lee Miller: The Philosophy of Black Mirror'

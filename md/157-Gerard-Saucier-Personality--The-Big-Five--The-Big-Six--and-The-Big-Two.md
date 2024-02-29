@@ -8,7 +8,7 @@ excerpt: "Dr. Gerard Saucier is a Professor of Psychology at the University of O
   \ Big Five, and upgrading from the Big Five to a more comprehensive Big Six model\
   \ and a broader, more universal 'Big Two') and beliefs and values (e.g., dimensions\
   \ of \u2018isms\u2019)."
-id: e157
+id: '157'
 image: https://i.ytimg.com/vi/2056IkaUTJ0/maxresdefault.jpg
 publishDate: 2019-03-29
 title: '#157 Gerard Saucier: Personality, The Big Five, The Big Six, and The Big Two'

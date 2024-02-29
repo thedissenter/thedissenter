@@ -7,7 +7,7 @@ excerpt: Dr. Colin Wright is Eberly Fellow in the Department of Biology at Penns
   in collective behavior and behavioral flexibility, and colony performance. He uses
   social spiders (genus Stegodyphus) and paper wasps (genus Polistes) to probe these
   topics.
-id: e316
+id: '316'
 image: https://i.ytimg.com/vi/ECLq8ONVuZ4/maxresdefault.jpg
 publishDate: 2020-04-03
 title: '#316 Colin Wright: Insect Personality, And The New Evolution Deniers'

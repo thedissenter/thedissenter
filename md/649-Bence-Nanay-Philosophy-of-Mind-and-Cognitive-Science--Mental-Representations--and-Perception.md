@@ -5,7 +5,7 @@ excerpt: Dr. Bence Nanay is Professor of Philosophy and BOF Research Professor a
   the Centre for Philosophical Psychology at the University of Antwerp. He is a cognitive
   scientist and philosopher of mind, working on perception, attention, mental imagery
   and action. He also works on topics in aesthetics.
-id: e649
+id: '649'
 image: https://i.ytimg.com/vi/MjD1U8AsTDY/maxresdefault.jpg
 publishDate: 2022-07-08
 title: '#649 Bence Nanay: Philosophy of Mind and Cognitive Science, Mental Representations,

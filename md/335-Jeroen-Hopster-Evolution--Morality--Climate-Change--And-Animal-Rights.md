@@ -3,7 +3,7 @@ draft: false
 excerpt: 'Dr. Jeroen Hopster was a postdoctoral researcher at Utrecht University,
   and now he is doing research on climate ethics at the University of Graz. In February
   2019 he defended his dissertation ''Moral Objectivity: Origins and Foundations''. '
-id: e335
+id: '335'
 image: https://i.ytimg.com/vi/bD2M7wbjDIk/maxresdefault.jpg
 publishDate: 2020-05-18
 title: '#335 Jeroen Hopster: Evolution, Morality, Climate Change, And Animal Rights'

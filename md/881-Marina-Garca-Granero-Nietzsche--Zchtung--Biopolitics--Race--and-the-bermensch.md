@@ -7,7 +7,7 @@ excerpt: "Dr. Marina Garc\xEDa-Granero is an Assistant Professor of Philosophy a
   \ from the University of Valencia with a thesis on Nietzsche's concept of \"breeding\"\
   \ or \"cultivation\" (Z\xFCchtung) in 2021. Her research and teaching areas are\
   \ Friedrich Nietzsche's philosophy, ethics, and feminist philosophy."
-id: e881
+id: '881'
 image: https://i.ytimg.com/vi/y9HPsITdFX0/maxresdefault.jpg
 publishDate: 2024-01-01
 title: "#881 Marina Garc\xEDa-Granero: Nietzsche, Z\xFCchtung, Biopolitics, Race,\

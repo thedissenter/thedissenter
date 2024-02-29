@@ -7,7 +7,7 @@ excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor Emeritus of Bio
   \ studies program that recently received NSF funding to expand into a nationwide\
   \ consortium. His books include Darwin\u2019s Cathedral: Evolution, Religion, and\
   \ the Nature of Society; and This View of Life: Completing the Darwinian Revolution."
-id: e675
+id: '675'
 image: https://i.ytimg.com/vi/kuBIF_AOUPM/maxresdefault.jpg
 publishDate: 2022-09-08
 title: '#675 David Sloan Wilson: Religion, Multilevel Selection, Group Selection,

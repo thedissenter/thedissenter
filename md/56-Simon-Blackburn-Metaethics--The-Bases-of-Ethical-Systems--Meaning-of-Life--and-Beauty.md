@@ -8,7 +8,7 @@ excerpt: 'Dr. Simon Blackburn taught Philosophy at the University of Cambridge. 
   Koury Professor. He is a former president of the Aristotelian Society. He was elected
   a Fellow of the British Academy in 2002, and a Foreign Honorary Fellow of the American
   Academy of Arts & Sciences in 2008.  '
-id: e56
+id: '56'
 image: https://i.ytimg.com/vi/U2h2oJCVeuI/maxresdefault.jpg
 publishDate: 2019-04-19
 title: '#56 Simon Blackburn: Metaethics, The Bases of Ethical Systems, Meaning of

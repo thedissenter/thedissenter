@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'NOTE: All of the royalties from Dr. Sponsel''s book are donated to Survival
   International on behalf of their continuing vital help with the Yanomami.'
-id: e751
+id: '751'
 image: https://i.ytimg.com/vi/Fzl_rkZop90/maxresdefault.jpg
 publishDate: 2023-03-03
 title: '#751 Leslie Sponsel - Yanomami in the Amazon: Toward a more Ethical Anthropology

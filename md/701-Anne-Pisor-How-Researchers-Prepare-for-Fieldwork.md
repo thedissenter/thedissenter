@@ -4,7 +4,7 @@ excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington Sta
   University. Her research interests include long-distance relationships and resource
   management, long-distance relationships and the downsides of climate change, and
   the evolution of human sociality.
-id: e701
+id: '701'
 image: https://i.ytimg.com/vi/M3vcpPcPE9s/maxresdefault.jpg
 publishDate: 2022-11-07
 title: '#701 Anne Pisor: How Researchers Prepare for Fieldwork'

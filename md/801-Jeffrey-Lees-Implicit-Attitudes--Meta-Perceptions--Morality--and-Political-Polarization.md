@@ -5,7 +5,7 @@ excerpt: Dr. Jeffrey Lees is Associate Research Scholar in the Behavioral Scienc
   Behavior & Psychology from Harvard University in 2020. He is a behavioral scientist
   studying the consequences of inaccurate beliefs for organizations, politics, and
   society.
-id: e801
+id: '801'
 image: https://i.ytimg.com/vi/mIZ9mqcgE20/maxresdefault.jpg
 publishDate: 2023-06-29
 title: '#801 Jeffrey Lees: Implicit Attitudes, Meta-Perceptions, Morality, and Political

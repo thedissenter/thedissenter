@@ -5,7 +5,7 @@ excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psycholo
   Lab there. He is the editor in chief of the academic journals Evolutionary Psychology
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.
-id: e101
+id: '101'
 image: https://i.ytimg.com/vi/-sFFlebGP70/maxresdefault.jpg
 publishDate: 2019-06-21
 title: '#101 Todd Shackelford: Evolution and Family Conflict, Sperm Competition, Stepparenting'

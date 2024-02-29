@@ -6,7 +6,7 @@ excerpt: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development 
   mind represents the social world in terms of its constituent interactions, relations,
   and structures. He strives to develop a mechanistically tractable account of how
   humans from the first years of life form and flexibly transition among these representations.
-id: e708
+id: '708'
 image: https://i.ytimg.com/vi/QPJjyIkSjPo/maxresdefault.jpg
 publishDate: 2022-11-24
 title: '#708 Denis Tatone: Interpreting Giving and Taking Actions, and the Development

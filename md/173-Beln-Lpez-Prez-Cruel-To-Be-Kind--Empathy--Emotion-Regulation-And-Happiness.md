@@ -9,7 +9,7 @@ excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at Liverpoo
   \ wellbeing. Her current research projects are focused on interpersonal emotion\
   \ regulation in childhood and developmental differences in emotion goals (i.e.,\
   \ what people would like to feel in different contexts)."
-id: e173
+id: '173'
 image: https://i.ytimg.com/vi/IzPY07uhTmo/maxresdefault.jpg
 publishDate: 2019-05-06
 title: "#173 Bel\xE9n L\xF3pez-P\xE9rez: Cruel To Be Kind, Empathy, Emotion Regulation\

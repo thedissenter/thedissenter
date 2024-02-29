@@ -5,7 +5,7 @@ excerpt: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem expe
   \ v\xE1rios artigos sobre lideran\xE7a e \xE9 autor dos livros \u201CO L\xEDder\
   \ e a Lideran\xE7a\u201D, \u201CO Fim do L\xEDder\u201D, e \u201CO L\xEDder Charlat\xE3\
   o\u201D.  "
-id: e47
+id: '47'
 image: https://i.ytimg.com/vi/vP8XQO5SZq4/maxresdefault.jpg
 publishDate: 2019-04-03
 title: "#47 Lu\xEDs Ricardo: O L\xEDder Charlat\xE3o, L\xEDderes e Estilos de Lideran\xE7\

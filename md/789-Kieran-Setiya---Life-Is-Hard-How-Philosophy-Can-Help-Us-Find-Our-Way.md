@@ -4,7 +4,7 @@ excerpt: 'Dr. Kieran Setiya is Professor of Philosophy at MIT. He works mainly i
   ethics, epistemology, and the philosophy of mind. He is the author of Practical
   Knowledge, Reasons without Rationalism, Knowing Right From Wrong, and, more recently,
   Life Is Hard: How Philosophy Can Help Us Find Our Way.'
-id: e789
+id: '789'
 image: https://i.ytimg.com/vi/U4rU_FPbHr4/maxresdefault.jpg
 publishDate: 2023-06-01
 title: '#789 Kieran Setiya - Life Is Hard: How Philosophy Can Help Us Find Our Way'

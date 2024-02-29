@@ -7,7 +7,7 @@ excerpt: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour a
   of being a little bit nice to other people, the ability of groups to detect lies,
   people's weak desire to be seen as moral and strong desire not to be seen as immoral,
   and people's overestimation of how much information they use to make decisions.
-id: e306
+id: '306'
 image: https://i.ytimg.com/vi/0G_rfxa5s98/maxresdefault.jpg
 publishDate: 2020-03-12
 title: '#306 Nadav Klein: Reputation, Prosociality, Moral Character, and Lie Detection'

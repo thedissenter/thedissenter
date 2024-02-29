@@ -14,7 +14,7 @@ excerpt: "Dr. Scott A. Small is the Director of the Alzheimer\u2019s Disease Res
   \ recently, his lab has used this insight for drug discovery and to develop novel\
   \ therapeutic interventions, some of which are currently being tested in patients.\
   \ He is the author of Forgetting: The Benefits of Not Remembering."
-id: e508
+id: '508'
 image: https://i.ytimg.com/vi/kOigz7tTwQs/maxresdefault.jpg
 publishDate: 2021-08-13
 title: '#508 Scott Small - Forgetting: The Benefits of Not Remembering'

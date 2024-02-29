@@ -7,7 +7,7 @@ excerpt: "Dr. David Haig is an evolutionary biologist, geneticist, and professor
   \ to the field of evolutionary theory is the kinship theory of genomic imprinting.\
   \ He\u2019s the author of several books, including the most recent one, From Darwin\
   \ to Derrida: Selfish Genes, Social Selves, and the Meanings of Life."
-id: e356
+id: '356'
 image: https://i.ytimg.com/vi/2qopUqpmdiA/maxresdefault.jpg
 publishDate: 2020-08-20
 title: '#356 David Haig: Genetics, Development, and Intragenomic Conflict'

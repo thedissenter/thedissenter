@@ -8,7 +8,7 @@ excerpt: Dr. Christopher von Rueden is Associate Professor of Leadership Studies
   in the evolution of human cooperation. In addition to his work on status and leadership,
   he has published on topics such as why humans differ in personality traits and why
   we have such unique life histories among primates.
-id: e662
+id: '662'
 image: https://i.ytimg.com/vi/G9PyMEZoPzw/maxresdefault.jpg
 publishDate: 2022-08-08
 title: '#662 Christopher von Rueden: Leadership and Hierarchy from an Evolutionary

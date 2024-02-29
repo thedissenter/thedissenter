@@ -6,7 +6,7 @@ excerpt: "Dr. Edward Slingerland is a Professor of Asian Studies at the Universi
   \ of Religious History (DRH), and the Co-Director of the Centre for the Study of\
   \ Human Evolution, Cognition and Culture (HECC). His most recent book is Drunk:\
   \ How We Sipped, Danced, and Stumbled Our Way to Civilization."
-id: e476
+id: '476'
 image: https://i.ytimg.com/vi/DI_0hkiaUZ0/maxresdefault.jpg
 publishDate: 2021-05-31
 title: '#476 Edward Slingerland - Drunk: How We Sipped, Danced, and Stumbled Our Way

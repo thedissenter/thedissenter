@@ -6,7 +6,7 @@ excerpt: Dr. Colin Allen is Distinguished Professor, and Director of Graduate Ad
   science and neuroscience. He is particularly interested in the scientific study
   of cognition in nonhuman animals and computers, and he has published widely on topics
   in the philosophy of mind, philosophy of biology, and artificial intelligence.
-id: e269
+id: '269'
 image: https://i.ytimg.com/vi/jmd-q9xTgtk/maxresdefault.jpg
 publishDate: 2019-12-16
 title: '#269 Colin Allen: Minds, Cognition, And Cognitive Ethology'

@@ -11,7 +11,7 @@ excerpt: "Dr. Sarah Garfinkel is Professor of neuroscience and psychiatry based 
   \ people experience difficulty judging their heartbeat, causing anxiety and stress.\
   \ This research has led to the development of a new therapy technique called interoception-directed\
   \ therapy, which aims to reduce anxiety in autistic individuals."
-id: e327
+id: '327'
 image: https://i.ytimg.com/vi/ZigEDvbsGb8/maxresdefault.jpg
 publishDate: 2020-04-30
 title: '#327 Sarah Garfinkel: Interoception, Emotion, And Mental Health'

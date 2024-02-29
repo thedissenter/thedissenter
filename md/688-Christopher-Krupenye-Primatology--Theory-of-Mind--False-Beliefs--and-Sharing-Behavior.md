@@ -4,7 +4,7 @@ excerpt: Dr. Christopher Krupenye is an assistant professor in the Department of
   & Brain Sciences at Johns Hopkins University. Dr. Krupenye is interested in the
   cognitive abilities of humans and other species, especially those involved in navigating
   the social world.
-id: e688
+id: '688'
 image: https://i.ytimg.com/vi/z5l1AdaQmTA/maxresdefault.jpg
 publishDate: 2022-10-07
 title: '#688 Christopher Krupenye: Primatology, Theory of Mind, False Beliefs, and

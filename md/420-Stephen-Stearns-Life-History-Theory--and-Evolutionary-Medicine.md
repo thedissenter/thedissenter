@@ -10,7 +10,7 @@ excerpt: "Dr. Stephen Stearns is Edward P Bass Professor of Ecology and Evolutio
   The Evolution of Life Histories\u201D (Oxford, 1992), and two edited volumes, \u201C\
   Evolution in health and disease\u201D (Oxford, 1998, 2nd Ed 2008) and \u201CThe\
   \ Evolution of Sex and its Consequences.\u201D"
-id: e420
+id: '420'
 image: https://i.ytimg.com/vi/LwxCLc7cxxA/maxresdefault.jpg
 publishDate: 2021-01-21
 title: '#420 Stephen Stearns: Life History Theory, and Evolutionary Medicine'

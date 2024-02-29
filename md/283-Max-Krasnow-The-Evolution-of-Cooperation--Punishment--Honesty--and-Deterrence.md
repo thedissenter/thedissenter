@@ -10,7 +10,7 @@ excerpt: "Dr. Max Krasnow is Associate Professor in the Department of Psychology
   \ would predict? He has been exploring how the answers to these questions neatly\
   \ fall out by considering reliable features of the ancestral ecology and simple\
   \ cognitive mechanisms that could evolve to benefit from them."
-id: e283
+id: '283'
 image: https://i.ytimg.com/vi/6Vtfu9lM-bU/maxresdefault.jpg
 publishDate: 2020-01-17
 title: '#283 Max Krasnow: The Evolution of Cooperation, Punishment, Honesty, and Deterrence'

@@ -10,7 +10,7 @@ excerpt: 'Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychol
   up frequency-based information with abstract explanatory principles as well as cause
   distortions in judgment. He is the author of Developmental Psychology: The Growth
   of Mind and Behavior, and other books.'
-id: e856
+id: '856'
 image: https://i.ytimg.com/vi/_3Br_iGfRaQ/maxresdefault.jpg
 publishDate: 2023-11-03
 title: '#856 Frank Keil: The Development of Causal Thinking, Explanation, and the

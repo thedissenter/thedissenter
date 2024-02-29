@@ -7,7 +7,7 @@ excerpt: 'Dr. Stephen Hicks teaches at Rockford University, where he also direct
   subjects, including entrepreneurism, free speech in academia, the history and development
   of modern art, Ayn Rand''s Objectivism, business ethics and the philosophy of education,
   including a series of YouTube lectures.'
-id: e80
+id: '80'
 image: https://i.ytimg.com/vi/kSrLt14wQhA/maxresdefault.jpg
 publishDate: 2019-05-22
 title: '#80 Stephen Hicks: Nietzsche, the Nazis, and the Postmodernists'

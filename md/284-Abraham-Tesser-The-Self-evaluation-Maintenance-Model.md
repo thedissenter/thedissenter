@@ -5,7 +5,7 @@ excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psyc
   several areas in the field of Social Psychology. He created the self-evaluation
   maintenance model, a theory in social psychology that focuses on the motives for
   self-enhancement.
-id: e284
+id: '284'
 image: https://i.ytimg.com/vi/7o-D5B_0QQk/maxresdefault.jpg
 publishDate: 2020-01-20
 title: '#284 Abraham Tesser: The Self-evaluation Maintenance Model'

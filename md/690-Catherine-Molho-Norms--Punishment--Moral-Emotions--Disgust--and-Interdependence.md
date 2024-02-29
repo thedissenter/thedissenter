@@ -7,7 +7,7 @@ excerpt: Dr. Catherine Molho is an Assistant Professor of Social Psychology at V
   understand the factors underlying cooperative and punitive decisions. In her work,
   she uses decision-making experiments, questionnaires, and intensive experience sampling
   methods.
-id: e690
+id: '690'
 image: https://i.ytimg.com/vi/2dSgEXTzhmA/maxresdefault.jpg
 publishDate: 2022-10-13
 title: '#690 Catherine Molho: Norms, Punishment, Moral Emotions, Disgust, and Interdependence'

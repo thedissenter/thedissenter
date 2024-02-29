@@ -6,7 +6,7 @@ excerpt: Dr. Brian Hayden is Retired Professor in the Department of Archaeology 
   ecology; Hunting and gathering societies; transegalitarian societies; Aggrandizer
   strategies, especially feasting and secret societies; Prehistory of religion & early
   ritual structures; and lithic technology.
-id: e334
+id: '334'
 image: https://i.ytimg.com/vi/9WwxKj07f4M/maxresdefault.jpg
 publishDate: 2020-05-15
 title: '#334 Brian Hayden: Cultural Ecology, Feasting, Ritual Sanctuaries, And Funerals'

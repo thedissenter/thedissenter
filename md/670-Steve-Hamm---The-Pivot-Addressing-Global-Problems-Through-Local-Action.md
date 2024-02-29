@@ -3,7 +3,7 @@ draft: false
 excerpt: 'Steve Hamm is a freelance writer, journalist and documentary filmmaker.
   He is the author of The Pivot: Addressing Global Problems Through Local Action,
   and Bangalore Tiger, and co-author with John Kelly of Smart Machines.'
-id: e670
+id: '670'
 image: https://i.ytimg.com/vi/2-IYuVr5QSY/maxresdefault.jpg
 publishDate: 2022-08-26
 title: '#670 Steve Hamm - The Pivot: Addressing Global Problems Through Local Action'

@@ -6,7 +6,7 @@ excerpt: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collect
   \ of California, Santa Barbara and the University of Lyon, France. He\u2019s also\
   \ the author of books like Religion Explained; Memory, Mind and Culture; and Minds\
   \ Make Societies."
-id: e223
+id: '223'
 image: https://i.ytimg.com/vi/4i5S4Lnm1qs/maxresdefault.jpg
 publishDate: 2019-08-30
 title: '#223 Pascal Boyer: Minds Make Societies, Religion, And Conspiracy Theories'

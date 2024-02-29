@@ -11,7 +11,7 @@ excerpt: "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Scie
   \ most influential people in the world. In 2009 and again in 2010, he was named\
   \ by Foreign Policy magazine to its list of top global thinkers. He\u2019s the author\
   \ of Blueprint: The Evolutionary Origins of a Good Society."
-id: e285
+id: '285'
 image: https://i.ytimg.com/vi/oXPE17gN1sY/maxresdefault.jpg
 publishDate: 2020-01-23
 title: '#285 Nicholas Christakis: The Evolutionary Origins of a Good Society'

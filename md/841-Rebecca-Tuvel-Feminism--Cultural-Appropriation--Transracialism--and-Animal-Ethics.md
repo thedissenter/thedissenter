@@ -4,7 +4,7 @@ excerpt: "Dr. Rebecca Tuvel is Associate Professor and Chair of Philosophy at Rh
   \ College. She works in feminist philosophy, philosophy of race, and the ethics\
   \ of identity. Her book project Changing Race: The Ethics and Metaphysics of Transracialism\
   \ explores the possibility and permissibility of changing one\u2019s race."
-id: e841
+id: '841'
 image: https://i.ytimg.com/vi/AWRIBEruGL8/maxresdefault.jpg
 publishDate: 2023-09-29
 title: '#841 Rebecca Tuvel: Feminism, Cultural Appropriation, Transracialism, and

@@ -6,7 +6,7 @@ excerpt: 'Dr. James Fallon is professor of psychiatry and human behavior and eme
   and circuitry, higher brain functions, and brain imaging. He is the author of The
   Psychopath Inside: A Neuroscientist''s Personal Journey into the Dark Side of the
   Brain.'
-id: e647
+id: '647'
 image: https://i.ytimg.com/vi/Kg7TBXxgH7k/maxresdefault.jpg
 publishDate: 2022-07-04
 title: '#647 James Fallon: Psychopathy, Personality Disorders, Brain Scans, and the

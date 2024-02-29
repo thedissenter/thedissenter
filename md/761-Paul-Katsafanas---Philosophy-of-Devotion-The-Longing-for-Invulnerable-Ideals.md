@@ -4,7 +4,7 @@ excerpt: 'Dr. Paul Katsafanas is Professor of Philosophy and Director of Graduat
   Studies at Boston University. He works on ethics, moral psychology, and nineteenth-century
   philosophy. His latest book is Philosophy of Devotion: The Longing for Invulnerable
   Ideals.'
-id: e761
+id: '761'
 image: https://i.ytimg.com/vi/is5snuaUUA0/maxresdefault.jpg
 publishDate: 2023-03-27
 title: '#761 Paul Katsafanas - Philosophy of Devotion: The Longing for Invulnerable

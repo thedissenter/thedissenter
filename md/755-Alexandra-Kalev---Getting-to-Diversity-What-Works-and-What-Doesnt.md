@@ -4,7 +4,7 @@ excerpt: 'Dr. Alexandra Kalev is Associate Professor of Sociology and Anthropolo
   at Tel Aviv University. She is developing an evidence-based approach to managing
   diversity in corporations and universities. She is the author, together with Frank
   Dobbin, of Getting to Diversity: What Works and What Doesn''t.'
-id: e755
+id: '755'
 image: https://i.ytimg.com/vi/jC_T0-IcngQ/maxresdefault.jpg
 publishDate: 2023-03-13
 title: '#755 Alexandra Kalev - Getting to Diversity: What Works and What Doesn''t'

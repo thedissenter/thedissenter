@@ -15,7 +15,7 @@ excerpt: "Dr. Warren Brown is Director of the Lee Edwards Travis Research Instit
   \ Biological Psychiatry, Developmental Neuropsychology, Cortex, Nature Review Neuroscience,\
   \ and Science; 15 chapters in edited scholarly books; and over 150 presentations\
   \ at scientific meetings."
-id: e388
+id: '388'
 image: https://i.ytimg.com/vi/gcOAvmn8lZM/maxresdefault.jpg
 publishDate: 2020-11-06
 title: '#388 Warren Brown: Neuroscience, Dualism, Emergentism, Science and Religion'

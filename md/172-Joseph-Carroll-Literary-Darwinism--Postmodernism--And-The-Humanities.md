@@ -12,7 +12,7 @@ excerpt: "Dr. Joseph Carroll is a scholar in the field of literature and evoluti
   \ Reading Human Nature, Graphing Jane Austen, has also produced an edition of Charles\
   \ Darwin\u2019s On the Origin of Species, co-edited volumes 1 and 2 of The Evolutionary\
   \ Review, and co-edited Evolution, Literature, and Film: A Reader."
-id: e172
+id: '172'
 image: https://i.ytimg.com/vi/8XNVMVoVGdw/maxresdefault.jpg
 publishDate: 2019-05-03
 title: '#172 Joseph Carroll: Literary Darwinism, Postmodernism, And The Humanities'

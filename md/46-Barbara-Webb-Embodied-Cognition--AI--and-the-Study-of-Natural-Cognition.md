@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e46
+id: '46'
 image: https://i.ytimg.com/vi/8UsW6NlnbeU/maxresdefault.jpg
 publishDate: 2019-04-02
 title: '#46 Barbara Webb: Embodied Cognition, AI, and the Study of Natural Cognition'

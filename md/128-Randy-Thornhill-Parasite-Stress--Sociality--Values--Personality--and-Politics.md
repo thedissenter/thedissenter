@@ -6,7 +6,7 @@ excerpt: "Dr. Randy Thornhill is an American entomologist and evolutionary biolo
   \ his evolutionary explanation of rape as well as his work on insect mating systems\
   \ and the parasite-stress theory. He\u2019s the author of several books, including\
   \ A Natural History of Rape, and The Parasite-Stress Theory of Values and Sociality."
-id: e128
+id: '128'
 image: https://i.ytimg.com/vi/6F56b8TYT_c/maxresdefault.jpg
 publishDate: 2019-08-02
 title: '#128 Randy Thornhill: Parasite-Stress, Sociality, Values, Personality, and

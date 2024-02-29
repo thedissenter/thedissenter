@@ -10,7 +10,7 @@ excerpt: 'Dr. Richard Jean So is Assistant Professor of English and Cultural Ana
   and American culture, with a particular focus on race and inequality. Increasingly,
   he also works on the Internet and social media. His first book was Transpacific
   Community: America, China and the Rise and Fall of a Cultural Network.'
-id: e267
+id: '267'
 image: https://i.ytimg.com/vi/kaaNQBH-Xzg/maxresdefault.jpg
 publishDate: 2019-12-12
 title: '#267 Richard Jean So: Cultural Analytics, Literary Studies, And Race'

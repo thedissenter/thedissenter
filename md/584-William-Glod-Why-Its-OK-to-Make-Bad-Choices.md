@@ -3,7 +3,7 @@ draft: false
 excerpt: "Dr. William Glod is Senior Program Officer at the Institute for Humane Studies,\
   \ an educational non-profit affiliated with George Mason University in Arlington,\
   \ Virginia. He is the author of Why It\u2019s OK to Make Bad Choices."
-id: e584
+id: '584'
 image: https://i.ytimg.com/vi/n-i4DNvA2qY/maxresdefault.jpg
 publishDate: 2022-02-07
 title: "#584 William Glod: Why It\u2019s OK to Make Bad Choices"

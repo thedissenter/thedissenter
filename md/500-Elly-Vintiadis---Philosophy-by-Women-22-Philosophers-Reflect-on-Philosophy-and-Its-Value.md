@@ -7,7 +7,7 @@ excerpt: 'Dr. Elly Vintiadis is a philosopher of mind and psychiatry at Deree, t
   and explanation, but her research also extends to epistemology, metaphilosophy and
   animal ethics. She is the author of three books, including Philosophy by Women:
   22 Philosophers reflect on Philosophy and Its Value.'
-id: e500
+id: '500'
 image: https://i.ytimg.com/vi/Rrxk3SlojW8/maxresdefault.jpg
 publishDate: 2021-07-26
 title: '#500 Elly Vintiadis - Philosophy by Women: 22 Philosophers Reflect on Philosophy

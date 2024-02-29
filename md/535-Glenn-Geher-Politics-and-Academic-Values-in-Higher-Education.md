@@ -12,7 +12,7 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
   \ his Psychology Today blog, Dr. Geher addresses various topics related to the human\
   \ condition. His most recent book is Positive Evolutionary Psychology: Darwin's\
   \ Guide to Living a Richer Life."
-id: e535
+id: '535'
 image: https://i.ytimg.com/vi/Q3XVnbQBw0A/maxresdefault.jpg
 publishDate: 2021-10-15
 title: '#535 Glenn Geher: Politics and Academic Values in Higher Education'

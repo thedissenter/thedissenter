@@ -7,7 +7,7 @@ excerpt: Dr. James Lee is Associate Professor of Psychology, and a member of the
   studies, and cognitive-experimental approaches to the study of individual differences.
   He was a postdoctoral researcher in the Mathematical Biology Section of NIDDK/NIH
   from 2011 to 2013, working on problems in population and statistical genetics.
-id: e879
+id: '879'
 image: https://i.ytimg.com/vi/H_y-MfGIIDw/maxresdefault.jpg
 publishDate: 2023-12-28
 title: '#879 James Lee: Behavior Genetics, Educational Attainment, IQ, and Alcohol

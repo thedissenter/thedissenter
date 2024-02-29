@@ -5,7 +5,7 @@ excerpt: 'Dr. Brian Boyd is a University Distinguished Professor in the Departme
   an expert on the life and works of author Vladimir Nabokov and on literature and
   evolution. He is the author of On the Origin of Stories: Evolution, Cognition, and
   Fiction. '
-id: e593
+id: '593'
 image: https://i.ytimg.com/vi/mCKCzrPG9jU/maxresdefault.jpg
 publishDate: 2022-02-28
 title: '#593 Brian Boyd - On the Origin of Stories: Evolution, Cognition, and Fiction'

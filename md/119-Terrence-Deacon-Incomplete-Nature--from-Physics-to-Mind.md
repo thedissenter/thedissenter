@@ -12,7 +12,7 @@ excerpt: "Dr. Terrence Deacon is currently Professor of Anthropology and member 
   \ Matter, explores the relationship between thermodynamic, self-organizing, evolutionary\
   \ and semiotic processes and provides a new technical conception of information\
   \ that explains both its representational and normative properties."
-id: e119
+id: '119'
 image: https://i.ytimg.com/vi/N7GFTdQumAw/maxresdefault.jpg
 publishDate: 2019-07-18
 title: '#119 Terrence Deacon: Incomplete Nature, from Physics to Mind'

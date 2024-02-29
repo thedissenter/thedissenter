@@ -7,7 +7,7 @@ excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover
   \ and the history of the idea.  They are the author of Morality, Foresight, and\
   \ Human Flourishing: An Introduction to Existential Risks, and their latest book\
   \ is Human Extinction: A History of the Science and Ethics of Annihilation."
-id: e843
+id: '843'
 image: https://i.ytimg.com/vi/8ckRT2hhz7c/maxresdefault.jpg
 publishDate: 2023-10-05
 title: "#843 \xC9mile Torres - Human Extinction: A History of the Science and Ethics\

@@ -6,7 +6,7 @@ excerpt: Dr. Steven Churchill is a Professor and past Chair of the Department of
   of the Witwatersrand. He is a paleontologist who studies the fossil record of human
   evolution, especially that of early members of our genus (Homo) that lived between
   about two million to ten thousand years ago.
-id: e645
+id: '645'
 image: https://i.ytimg.com/vi/LdtcudCZceY/maxresdefault.jpg
 publishDate: 2022-06-30
 title: '#645 Steven Churchill: Homo naledi, Australopithecus sediba, and Human Evolution'

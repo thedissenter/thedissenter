@@ -8,7 +8,7 @@ excerpt: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology
   and the impacts of agriculture on human prehistory. She has also pioneered approaches
   that combine archaeological and genetic analyses of plant and animal remains from
   archaeological sites.
-id: e336
+id: '336'
 image: https://i.ytimg.com/vi/qjcf6K1zyQU/maxresdefault.jpg
 publishDate: 2020-05-21
 title: '#336 Melinda Zeder: Domestication, And The Origins and Dispersal of Agriculture'

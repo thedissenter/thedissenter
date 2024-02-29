@@ -7,7 +7,7 @@ excerpt: 'Dr. Adaner Usmani is Assistant Professor of Sociology and Social Studi
   he explores when and why ordinary individuals manage to coordinate collective action,
   and how well these patterns explain the forward march of democracy and the extent
   of economic redistribution.'
-id: e449
+id: '449'
 image: https://i.ytimg.com/vi/UJL8q9JF-OU/maxresdefault.jpg
 publishDate: 2021-03-29
 title: '#449 Adaner Usmani: Mass Incarceration, Black Subordination, and Modern Democracies'

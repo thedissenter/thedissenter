@@ -9,7 +9,7 @@ excerpt: "Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a prof
   \ psychology and of several books, including Meaning and Relevance (with Deirdre\
   \ Wilson), Relevance: Communication and Cognition (with Deirdre Wilson), and The\
   \ Enigma of Reason (with Hugo Mercier)."
-id: e556
+id: '556'
 image: https://i.ytimg.com/vi/inCsk5vY3Wk/maxresdefault.jpg
 publishDate: 2021-12-03
 title: '#556 Dan Sperber: Culture, Cultural Attraction Theory, Epistemic Vigilance,

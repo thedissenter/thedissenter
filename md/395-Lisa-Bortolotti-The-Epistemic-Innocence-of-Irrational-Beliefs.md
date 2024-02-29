@@ -11,7 +11,7 @@ excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Bir
   is also interested in the philosophy of medicine and how health, wellbeing, rationality,
   and agency interact. She is the author of The Epistemic Innocence of Irrational
   Beliefs.
-id: e395
+id: '395'
 image: https://i.ytimg.com/vi/v13m30R_xbY/maxresdefault.jpg
 publishDate: 2020-11-23
 title: '#395 Lisa Bortolotti: The Epistemic Innocence of Irrational Beliefs'

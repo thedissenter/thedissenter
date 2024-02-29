@@ -9,7 +9,7 @@ excerpt: Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology
   to the environment centers on the evolution of human skin and skin pigmentation,
   and includes an active field project examining the relationship between skin pigmentation
   and vitamin D production.
-id: e363
+id: '363'
 image: https://i.ytimg.com/vi/DbqKLH9lo1w/maxresdefault.jpg
 publishDate: 2020-09-10
 title: '#363 Nina Jablonski: The Evolution of Human Skin, and Racism'

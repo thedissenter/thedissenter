@@ -7,7 +7,7 @@ excerpt: 'Dr. Raymond Hames is Professor of Anthropology at the University of Ne
   Society of the American Anthropological Association, consulting editor for Human
   Nature, and for ten years he served as treasurer of the Human Behavior and Evolution
   Society. '
-id: e817
+id: '817'
 image: https://i.ytimg.com/vi/e6jz_f83FZk/maxresdefault.jpg
 publishDate: 2023-08-04
 title: '#817 Raymond Hames: Hunting, Mating Systems, Warfare, and Evolutionary Anthropology'

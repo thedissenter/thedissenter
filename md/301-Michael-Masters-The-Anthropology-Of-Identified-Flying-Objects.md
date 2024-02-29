@@ -9,7 +9,7 @@ excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His 
   the physics of time as they relate to the UFO phenomenon. On that pic, he has written
   a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the
   UFO Phenomenon.'
-id: e301
+id: '301'
 image: https://i.ytimg.com/vi/j0r6ig0S3Jc/maxresdefault.jpg
 publishDate: 2020-02-28
 title: '#301 Michael Masters: The Anthropology Of Identified Flying Objects'

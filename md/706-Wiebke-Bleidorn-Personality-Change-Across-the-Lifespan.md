@@ -8,7 +8,7 @@ excerpt: Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Z
   under which people change, the genetic and environmental mechanisms that account
   for change, and the consequences of these changes for psychological functioning
   and important life outcomes.
-id: e706
+id: '706'
 image: https://i.ytimg.com/vi/UrLwP5MVJ5U/maxresdefault.jpg
 publishDate: 2022-11-18
 title: '#706 Wiebke Bleidorn: Personality Change Across the Lifespan'

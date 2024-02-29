@@ -10,7 +10,7 @@ excerpt: "Dr. Dorothea Debus is Professor of Theoretical Philosophy at Konstanz 
   \ and often also are, actively involved with how our own mental lives develop; she\
   \ asks how we might possibly account for this ability, and explore its axiological\
   \ implications."
-id: e610
+id: '610'
 image: https://i.ytimg.com/vi/-Wo91gyNeMQ/maxresdefault.jpg
 publishDate: 2022-04-08
 title: '#610 Dorothea Debus: Philosophy of Memory, and Mental Self-regulation'

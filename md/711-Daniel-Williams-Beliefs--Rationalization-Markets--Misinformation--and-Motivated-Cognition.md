@@ -6,7 +6,7 @@ excerpt: Dr. Daniel Williams is a Research Fellow at Corpus Christi College, Uni
   primary research interest at the moment is on how various forms of irrationality
   and bias are socially adaptive, enabling individuals to achieve social goals that
   are in conflict with epistemic goals.
-id: e711
+id: '711'
 image: https://i.ytimg.com/vi/wHXCc2pcg38/maxresdefault.jpg
 publishDate: 2022-12-01
 title: '#711 Daniel Williams: Beliefs, Rationalization Markets, Misinformation, and

@@ -11,7 +11,7 @@ excerpt: "Annie Duke is an author, speaker, and consultant in the decision-makin
   \ Psychology at the University of Pennsylvania. Her previous book, Thinking in Bets,\
   \ is a national bestseller. Annie\u2019s latest book is Quit: The Power of Knowing\
   \ When to Walk Away."
-id: e692
+id: '692'
 image: https://i.ytimg.com/vi/ciFChdFgwdQ/maxresdefault.jpg
 publishDate: 2022-10-17
 title: '#692 Annie Duke - Quit: The Power of Knowing When to Walk Away'

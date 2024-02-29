@@ -8,7 +8,7 @@ excerpt: 'Dr. Elmar Unnsteinsson is an Assistant Professor and Ad Astra Fellow a
   works on topics in philosophy of language, philosophy of mind, history of analytic
   philosophy, metaphysics, philosophy of linguistics, and cognitive science. He is
   the author of Talking About: An Intentionalist Theory of Reference.'
-id: e888
+id: '888'
 image: https://i.ytimg.com/vi/NqT-gt2BBnE/maxresdefault.jpg
 publishDate: 2024-01-18
 title: '#888 Elmar Unnsteinsson - Talking About: An Intentionalist Theory of Reference'

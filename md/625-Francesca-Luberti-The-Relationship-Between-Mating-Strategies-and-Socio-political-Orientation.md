@@ -5,7 +5,7 @@ excerpt: Dr. Francesca Luberti has recently completed a PhD at the School of Bio
   in the Social Neuroendocrinology Lab at Nipissing University in Canada. Dr. Luberti
   does research in Evolutionary Psychology, Evolutionary Biology, Social Psychology,
   and Biological Anthropology.
-id: e625
+id: '625'
 image: https://i.ytimg.com/vi/TVhtTucPGNo/maxresdefault.jpg
 publishDate: 2022-05-13
 title: '#625 Francesca Luberti: The Relationship Between Mating Strategies and Socio-political

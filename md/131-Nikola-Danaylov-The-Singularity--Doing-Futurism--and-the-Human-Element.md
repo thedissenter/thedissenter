@@ -13,7 +13,7 @@ excerpt: 'Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with t
   and the technological singularity to new media, blogging, and podcasting. He has
   been profiled in Next Stage Rising Stars Magazine and has been interviewed himself
   for numerous documentary films, blogs, podcasts, magazines, and newspapers.  '
-id: e131
+id: '131'
 image: https://i.ytimg.com/vi/71G6CCoKYoU/maxresdefault.jpg
 publishDate: 2019-08-10
 title: '#131 Nikola Danaylov: The Singularity, Doing Futurism, and the Human Element'

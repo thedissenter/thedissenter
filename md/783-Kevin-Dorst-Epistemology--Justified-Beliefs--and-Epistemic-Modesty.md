@@ -10,7 +10,7 @@ excerpt: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguis
   \ the connection between epistemology and cognitive science and psychology\u2014\
   and, in particular, how our idealized models and theories of rationality can help\
   \ inform our understanding of our non-ideal selves."
-id: e783
+id: '783'
 image: https://i.ytimg.com/vi/yG4MGzq5zzc/maxresdefault.jpg
 publishDate: 2023-05-18
 title: '#783 Kevin Dorst: Epistemology, Justified Beliefs, and Epistemic Modesty'

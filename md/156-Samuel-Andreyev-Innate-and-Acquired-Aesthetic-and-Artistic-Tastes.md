@@ -2,7 +2,7 @@
 draft: false
 excerpt: 'Samuel Andreyev is a Canadian music composer and writer residing in France.
   He also has a YouTube channel with his name.  '
-id: e156
+id: '156'
 image: https://i.ytimg.com/vi/2-9DZ7MFddw/maxresdefault.jpg
 publishDate: 2019-03-28
 title: '#156 Samuel Andreyev: Innate and Acquired Aesthetic and Artistic Tastes'

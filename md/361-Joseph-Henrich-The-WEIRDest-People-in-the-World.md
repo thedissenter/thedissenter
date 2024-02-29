@@ -6,7 +6,7 @@ excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human E
   successful species on the globe", and how culture affected our genetic development.
   He is also the author of The Secret of Our Success and The WEIRDest People in the
   World: How the West Became Psychologically Peculiar and Particularly Prosperous.'
-id: e361
+id: '361'
 image: https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg
 publishDate: 2020-09-04
 title: '#361 Joseph Henrich: The WEIRDest People in the World'

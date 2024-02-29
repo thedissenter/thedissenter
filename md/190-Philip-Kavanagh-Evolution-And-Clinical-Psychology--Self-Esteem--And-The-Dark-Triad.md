@@ -5,7 +5,7 @@ excerpt: Dr. Phillip Kavanagh is an Associate Professor of Evolutionary Psycholo
   at the University of South Australia. Dr. Kavanagh lectures across both the undergraduate
   and postgraduate psychology programs, provides research supervision to honors, master's,
   and PhD students, and clinical supervision to students in the clinical program.
-id: e190
+id: '190'
 image: https://i.ytimg.com/vi/djqc2wHTUQs/maxresdefault.jpg
 publishDate: 2019-06-14
 title: '#190 Philip Kavanagh: Evolution And Clinical Psychology, Self-Esteem, And

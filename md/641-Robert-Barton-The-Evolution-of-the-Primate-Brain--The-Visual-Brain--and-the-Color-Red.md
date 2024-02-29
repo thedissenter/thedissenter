@@ -8,7 +8,7 @@ excerpt: Dr. Robert Barton is Professor in the Department of Anthropology, Membe
   currently interested in the underestimated role of the cerebellum in brain evolution
   and cognition. He also works on the evolutionary and cultural significance of the
   color red.
-id: e641
+id: '641'
 image: https://i.ytimg.com/vi/G-codWLb61c/maxresdefault.jpg
 publishDate: 2022-06-20
 title: '#641 Robert Barton: The Evolution of the Primate Brain, The Visual Brain,

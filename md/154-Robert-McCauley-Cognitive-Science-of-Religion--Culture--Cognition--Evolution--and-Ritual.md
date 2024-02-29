@@ -9,7 +9,7 @@ excerpt: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor
   Ritual to Mind: Psychological Foundations of Cultural Forms and Rethinking Religion:
   Connecting Cognition and Culture.  Dr. McCauley is also the editor of The Churchlands
   and Their Critics and the co-editor with Harvey Whitehouse of Mind and Religion.'
-id: e154
+id: '154'
 image: https://i.ytimg.com/vi/MPkj12JxxcY/maxresdefault.jpg
 publishDate: 2019-03-22
 title: '#154 Robert McCauley: Cognitive Science of Religion, Culture, Cognition, Evolution,

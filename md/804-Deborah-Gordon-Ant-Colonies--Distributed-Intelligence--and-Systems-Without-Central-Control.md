@@ -6,7 +6,7 @@ excerpt: Dr. Deborah Gordon is a Professor in the Department of Biology at Stanf
   Her projects include a long-term study of a population of harvester ant colonies
   in Arizona, studies of the invasive Argentine ant in northern California, arboreal
   ant trail networks and ant-plant mutualisms in Central America.
-id: e804
+id: '804'
 image: https://i.ytimg.com/vi/q335XnMx09s/maxresdefault.jpg
 publishDate: 2023-07-06
 title: '#804 Deborah Gordon: Ant Colonies, Distributed Intelligence, and Systems Without

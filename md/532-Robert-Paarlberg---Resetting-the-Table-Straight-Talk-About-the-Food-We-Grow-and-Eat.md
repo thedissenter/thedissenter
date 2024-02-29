@@ -5,7 +5,7 @@ excerpt: "Dr. Robert Paarlberg is Betty Freyhof Johnson \u201944 Professor Emeri
   \ Science Program at Harvard University. His research focuses on the international\
   \ agricultural and environmental policy, regulation of modern technology, including\
   \ biotechnology. He is the author of many books, including C"
-id: e532
+id: '532'
 image: https://i.ytimg.com/vi/ldXsm3X5i6w/maxresdefault.jpg
 publishDate: 2021-10-08
 title: '#532 Robert Paarlberg - Resetting the Table: Straight Talk About the Food

@@ -6,7 +6,7 @@ excerpt: 'Dr. Robert Cialdini is Professor Emeritus of Psychology at Arizona Sta
   compliance and prosocial behavior. He is the author of Influence: The Psychology
   of Persuasion, a New York Times No. 1 bestseller, now in its third edition with
   over 5 million copies sold worldwide, and in over 40 languages.'
-id: e714
+id: '714'
 image: https://i.ytimg.com/vi/32pMWVf-eqQ/maxresdefault.jpg
 publishDate: 2022-12-08
 title: '#714 Robert Cialdini - Influence: The Psychology of Persuasion'

@@ -4,7 +4,7 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
   at the University of California, Los Angeles (UCLA). He researches decision-making
   under contexts of threat, with particular focus on political orientation, group
   prejudice, and the representation of mental states.
-id: e116
+id: '116'
 image: https://i.ytimg.com/vi/jnrIPHokpVM/maxresdefault.jpg
 publishDate: 2019-07-15
 title: '#116 Colin Holbrook: Threat Detection, Group Prejudice, Warfare, and Religion'

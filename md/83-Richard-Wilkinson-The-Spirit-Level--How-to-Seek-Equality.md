@@ -8,7 +8,7 @@ excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at 
   \ 2014 Charles Cully Memorial Medal by the Irish Cancer Society. Finally, he\u2019\
   s the co-author of the greatly influential book, along with his wife, Dr. Kate Pickett,\
   \ The Spirit Level: Why More Equal Societies Almost Always Do Better."
-id: e83
+id: '83'
 image: https://i.ytimg.com/vi/YdvyAiR92oo/maxresdefault.jpg
 publishDate: 2019-05-28
 title: '#83 Richard Wilkinson: The Spirit Level, How to Seek Equality'

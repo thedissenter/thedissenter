@@ -7,7 +7,7 @@ excerpt: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scient
   as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT)
   and laureate professor at the University of Arizona, and is the author of over 100
   books on topics such as linguistics, war, politics, and mass media.
-id: e261
+id: '261'
 image: https://i.ytimg.com/vi/HD7Fz0m51eg/maxresdefault.jpg
 publishDate: 2019-11-28
 title: '#261 Noam Chomsky: Cognitive Revolution, Piaget, Foucault, And Evolutionary

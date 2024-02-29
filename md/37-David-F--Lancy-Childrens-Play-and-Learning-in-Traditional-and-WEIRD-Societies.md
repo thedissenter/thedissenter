@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e37
+id: '37'
 image: https://i.ytimg.com/vi/h1an2BPvFow/maxresdefault.jpg
 publishDate: 2019-03-22
 title: '#37 David F. Lancy: Children''s Play and Learning in Traditional and WEIRD

@@ -5,7 +5,7 @@ excerpt: "M\xE9lusine Boon-Falleur is a PhD student in cognitive sciences at the
   \ She is particularly interested in studying how individuals adapt to the amount\
   \ of resources available in their environment, and how our social cognition influences\
   \ pro-environmental behavior."
-id: e812
+id: '812'
 image: https://i.ytimg.com/vi/Q1GELjHyfa0/maxresdefault.jpg
 publishDate: 2023-07-24
 title: "#812 M\xE9lusine Boon-Falleur: The Impact of Resources on Psychology, and\

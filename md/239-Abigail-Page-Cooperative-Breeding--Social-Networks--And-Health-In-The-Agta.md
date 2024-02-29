@@ -9,7 +9,7 @@ excerpt: "Dr. Abigail Page is MRC Research Fellow at the Department of Populatio
   \ from evolutionary theory and ultimately, to understand the function of any given\
   \ behavior. Dr. Page\u2019s interests are also influenced by Evolutionary Medicine\
   \ and Applied Evolutionary Anthropology and Demography."
-id: e239
+id: '239'
 image: https://i.ytimg.com/vi/3X_lU6cyLmA/maxresdefault.jpg
 publishDate: 2019-10-07
 title: '#239 Abigail Page: Cooperative Breeding, Social Networks, And Health In The

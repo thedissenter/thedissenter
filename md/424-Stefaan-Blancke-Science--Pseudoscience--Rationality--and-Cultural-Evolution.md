@@ -7,7 +7,7 @@ excerpt: Dr. Stefaan Blancke is Assistant Professor of Philosophy at Tilburg Uni
   history and philosophy of science, science education and the public understanding
   of science. He is also interested in the philosophy of cultural evolution and the
   role of reasons in cultural phenomena such as science, morality and the self.
-id: e424
+id: '424'
 image: https://i.ytimg.com/vi/b6qnYX0bD-g/maxresdefault.jpg
 publishDate: 2021-01-29
 title: '#424 Stefaan Blancke: Science, Pseudoscience, Rationality, and Cultural Evolution'

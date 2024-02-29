@@ -9,7 +9,7 @@ excerpt: 'Dr. Alberto Acerbi is a Lecturer in Psychology in the Centre for Cultu
   with different methodologies, especially individual-based models and quantitative
   analysis of large-scale data. He published a book recently, Cultural Evolution in
   the Digital Age.'
-id: e369
+id: '369'
 image: https://i.ytimg.com/vi/AX0Jy0__DbE/maxresdefault.jpg
 publishDate: 2020-09-24
 title: '#369 Alberto Acerbi: Cultural Evolution in the Digital Age'

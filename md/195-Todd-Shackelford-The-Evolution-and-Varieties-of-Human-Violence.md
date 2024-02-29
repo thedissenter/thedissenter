@@ -5,7 +5,7 @@ excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psycholo
   Lab there. He is the editor in chief of the academic journals Evolutionary Psychology
   and Evolutionary Psychological Science. He is a fellow of the American Psychological
   Association and the Association for Psychological Science.
-id: e195
+id: '195'
 image: https://i.ytimg.com/vi/2JZp2UHusE8/maxresdefault.jpg
 publishDate: 2019-06-27
 title: '#195 Todd Shackelford: The Evolution and Varieties of Human Violence'

@@ -11,7 +11,7 @@ excerpt: "Dr. Kay Holekamp is University Distinguished Professor in the Departme
   \ election to the American Academy of Arts and Sciences, being named a fellow of\
   \ the Animal Behavior Society, and a Merriam Award from the American Society of\
   \ Mammalogists. "
-id: e355
+id: '355'
 image: https://i.ytimg.com/vi/JJKm0TO30ks/maxresdefault.jpg
 publishDate: 2020-08-17
 title: '#355 Kay Holekamp: Hyenas, and the Evolution of General Intelligence'

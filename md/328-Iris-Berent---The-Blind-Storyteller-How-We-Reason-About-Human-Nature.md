@@ -5,7 +5,7 @@ excerpt: "Dr. Iris Berent is Professor of Psychology at Northeastern University,
   \ interaction with reading ability. She\u2019s the author of the book The Phonological\
   \ Mind. She is also the author of a new book, The Blind Storyteller: How We Reason\
   \ About Human Nature. "
-id: e328
+id: '328'
 image: https://i.ytimg.com/vi/N-E6ifTX3YA/maxresdefault.jpg
 publishDate: 2020-05-01
 title: '#328 Iris Berent - The Blind Storyteller: How We Reason About Human Nature'

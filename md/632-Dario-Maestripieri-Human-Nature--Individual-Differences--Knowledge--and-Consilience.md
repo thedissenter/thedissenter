@@ -4,7 +4,7 @@ excerpt: Dr. Dario Maestripieri is a Professor in Comparative Human Development 
   is also affiliated with the Institute on the Formation of Knowledge at the University
   of Chicago. His current main interests are, a) evolution of human behavior and its
   biological regulation, b) 20th century European literature.
-id: e632
+id: '632'
 image: https://i.ytimg.com/vi/8md2pvPUYg4/maxresdefault.jpg
 publishDate: 2022-05-30
 title: '#632 Dario Maestripieri: Human Nature, Individual Differences, Knowledge,

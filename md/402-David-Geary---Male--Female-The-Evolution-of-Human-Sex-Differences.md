@@ -6,7 +6,7 @@ excerpt: "Dr. David C. Geary is Curators\u2019 Professor and Thomas Jefferson Fe
   \ of several books including Children's mathematical development, Male, female:\
   \ The evolution of human sex differences, and Evolution of vulnerability: Implications\
   \ for sex differences in health and development."
-id: e402
+id: '402'
 image: https://i.ytimg.com/vi/hTAQjuM6fh8/maxresdefault.jpg
 publishDate: 2020-12-10
 title: '#402 David Geary - Male, Female: The Evolution of Human Sex Differences'

@@ -13,7 +13,7 @@ excerpt: 'Dr. Jessica Pierce is an American bioethicist, philosopher, and writer
   Marc Bekoff for Wild Justice (Chicago, 2010), and authored The Last Walk (Chicago,
   2012), Run, Spot, Run (Chicago, 2016), and The Animals'' Agenda: Freedom, Compassion,
   and Coexistence in the Human Age (2017).'
-id: e153
+id: '153'
 image: https://i.ytimg.com/vi/cl0kjizMfyg/maxresdefault.jpg
 publishDate: 2019-03-21
 title: '#153 Jessica Pierce: Animal Morality, Animal Ethics, and Veganism'

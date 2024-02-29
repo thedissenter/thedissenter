@@ -9,7 +9,7 @@ excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. 
   Nihilism, which offers a comprehensive interpretation of Nietzsche''s ethical thought
   and includes substantial new interpretations of some of his immediate predecessors,
   particularly Schopenhauer.'
-id: e651
+id: '651'
 image: https://i.ytimg.com/vi/Qac12mJMY8c/maxresdefault.jpg
 publishDate: 2022-07-14
 title: '#651 Bernard Reginster - The Affirmation of Life: Nietzsche on Overcoming

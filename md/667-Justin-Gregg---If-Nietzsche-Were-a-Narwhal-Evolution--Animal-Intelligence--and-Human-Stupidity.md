@@ -5,7 +5,7 @@ excerpt: 'Dr. Justin Gregg is a Senior Research Associate with the Dolphin Commu
   on animal behavior and cognition. Originally from Vermont, Dr. Gregg studied the
   echolocation abilities of wild dolphins in Japan and the Bahamas. He is the author
   of If Nietzsche Were a Narwhal: What Animal Intelligence Reveals About Human Stupidity.'
-id: e667
+id: '667'
 image: https://i.ytimg.com/vi/gQ3fgMRdB4Q/maxresdefault.jpg
 publishDate: 2022-08-19
 title: '#667 Justin Gregg - If Nietzsche Were a Narwhal; Evolution, Animal Intelligence,

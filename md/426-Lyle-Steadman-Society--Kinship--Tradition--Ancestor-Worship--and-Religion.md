@@ -6,7 +6,7 @@ excerpt: Dr. Lyle Steadman is Professor Emeritus at Arizona State University. Dr
   done extensive research among the Hewa, a society in the highlands of Papua New
   Guinea. A short period of fieldwork was also conducted in an Indian village in Baja
   California, Mexico.
-id: e426
+id: '426'
 image: https://i.ytimg.com/vi/SnBRgXMHXtg/maxresdefault.jpg
 publishDate: 2021-02-04
 title: '#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion'

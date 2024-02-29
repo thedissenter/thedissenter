@@ -8,7 +8,7 @@ excerpt: "Dr. \u015Eerife Tekin is an Associate Professor of Philosophy and Dire
   \ and Extraordinary Science and Psychiatry: Responses to the Crisis in Mental Health\
   \ Research, which adopts a Kuhnian approach to make sense of the existing research\
   \ landscape in psychiatry."
-id: e568
+id: '568'
 image: https://i.ytimg.com/vi/2wLJGPBLTfQ/maxresdefault.jpg
 publishDate: 2021-12-31
 title: "#568 \u015Eerife Tekin: Philosophy of Psychiatry, Mental Disorder, The Self,\

@@ -8,7 +8,7 @@ excerpt: "Dr. Adam Rutherford is Lecturer in Biology and Society at University C
   \ and genetic engineering, behavioral ecology, gene-culture co-evolution, human\
   \ evolution, and ancient DNA. He is the author of several books, including Control:\
   \ The Dark History and Troubling Present of Eugenics."
-id: e750
+id: '750'
 image: https://i.ytimg.com/vi/D_Wu7LBXF70/maxresdefault.jpg
 publishDate: 2023-03-02
 title: '#750 Adam Rutherford - Control: The Dark History and Troubling Present of

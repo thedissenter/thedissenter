@@ -7,7 +7,7 @@ excerpt: 'Cecilie Traberg is a Psychology PhD Candidate in the Social Decision-M
   on our judgments and beliefs: including how intergroup biases impact our ability
   to assess the veracity of information, and how social cues and interactions with
   other people affect individual-level cognition.'
-id: e874
+id: '874'
 image: https://i.ytimg.com/vi/RaRAEJ8IQEw/maxresdefault.jpg
 publishDate: 2023-12-15
 title: '#874 Cecilie Traberg: Misinformation, Debunking, Prebunking, and Inoculation

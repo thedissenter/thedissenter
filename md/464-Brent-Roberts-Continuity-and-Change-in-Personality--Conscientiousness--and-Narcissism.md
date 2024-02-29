@@ -8,7 +8,7 @@ excerpt: Dr. Brent W. Roberts is a Professor of Psychology and Director of the C
   for individual functioning. Dr. Roberts also conducts research on psychometric issues,
   in particular how to measure the traits of conscientiousness and narcissism, and
   more recently, how to best assess socio-emotional skills.
-id: e464
+id: '464'
 image: https://i.ytimg.com/vi/Mb9iM74Na8U/maxresdefault.jpg
 publishDate: 2021-05-03
 title: '#464 Brent Roberts: Continuity and Change in Personality, Conscientiousness,

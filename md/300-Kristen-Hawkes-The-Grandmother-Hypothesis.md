@@ -9,7 +9,7 @@ excerpt: "Dr. Kristen Hawkes is Distinguished Professor of Anthropology at the U
   \ She has also developed mathematical models to model evolution over time and trace\
   \ the influence of grandmothers on human lifespan. Combining mathematical modelling\
   \ and observational studies she also researches the effects of fire on ancient hunter-gatherers."
-id: e300
+id: '300'
 image: https://i.ytimg.com/vi/1M-5lv4muRg/maxresdefault.jpg
 publishDate: 2020-02-27
 title: '#300 Kristen Hawkes: The Grandmother Hypothesis'

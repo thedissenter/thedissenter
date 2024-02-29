@@ -8,7 +8,7 @@ excerpt: "Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct
   \ while on the applied ethics side, he explores how the answers to those questions\
   \ have ethical, legal, and social implications. He\u2019s also the author of the\
   \ book Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture."
-id: e142
+id: '142'
 image: https://i.ytimg.com/vi/b9N6ThmvtkA/maxresdefault.jpg
 publishDate: 2019-02-22
 title: '#142 James Tabery: The Nature-Nurture Debate, And Its Ethics'

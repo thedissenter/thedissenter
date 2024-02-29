@@ -9,7 +9,7 @@ excerpt: Dr. Brian Knutson is a Professor of Psychology and Neuroscience at Stan
   Research and the Association for Psychological Science, and his research has been
   funded by the National Science Foundation, National Institutes of Health, and numerous
   private foundations.
-id: e570
+id: '570'
 image: https://i.ytimg.com/vi/1cCLzDZ1GvQ/maxresdefault.jpg
 publishDate: 2022-01-06
 title: '#570 Brian Knutson: The Neuroscience of Emotions, and Economic Decision-Making'

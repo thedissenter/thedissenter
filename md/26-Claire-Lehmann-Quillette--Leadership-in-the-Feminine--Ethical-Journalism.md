@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: e26
+id: '26'
 image: https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg
 publishDate: 2019-03-07
 title: '#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism'

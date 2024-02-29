@@ -1,7 +1,7 @@
 ---
 draft: false
 excerpt: 'THIS INTERVIEW IS AUDIO-ONLY.  '
-id: e288
+id: '288'
 image: https://i.ytimg.com/vi/tePDaa4zSbE/maxresdefault.jpg
 publishDate: 2020-01-30
 title: '#288 Joanna Schug: Emotional Expressions, And Relational Mobility'

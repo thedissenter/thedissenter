@@ -10,7 +10,7 @@ excerpt: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Ce
   has sought to explain why we see and hear what we do, focusing on the visual perception
   of lightness, color, form, and motion, and the auditory perception of music and
   speech.'
-id: e65
+id: '65'
 image: https://i.ytimg.com/vi/6vB2znTPFMk/maxresdefault.jpg
 publishDate: 2019-05-04
 title: '#65 Dale Purves: How Perception and Cognition Work'

@@ -6,7 +6,7 @@ excerpt: 'Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience
   in such genes affect the connectivity of neuronal circuits, influence behavior and
   perception and contribute to disease. His latest book is Free Agents: How Evolution
   Gave Us Free Will.'
-id: e842
+id: '842'
 image: https://i.ytimg.com/vi/Euv_pwsAkkQ/maxresdefault.jpg
 publishDate: 2023-10-02
 title: '#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will'

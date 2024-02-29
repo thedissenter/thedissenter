@@ -7,7 +7,7 @@ excerpt: "Dr. Russell Gray is the director to the Max Planck Institute for Evolu
   \ pioneer the application of computational evolutionary methods to questions about\
   \ linguistic prehistory and cultural evolution. His work has shed new insights on\
   \ the 200 year-old debate on the origin of Indo-European languages."
-id: e577
+id: '577'
 image: https://i.ytimg.com/vi/RGML2mMAaEI/maxresdefault.jpg
 publishDate: 2022-01-21
 title: '#577 Russell Gray: Language Evolution, Big Gods and Rituals, and Animal Cognition'
