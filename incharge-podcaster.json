@@ -1,4 +1,25 @@
 {
+    "episode-folder": "episode",
+    "page-folder": "md",
+    "source": {
+        "Youtube via RSS": {
+            "type": "youtube-rss",
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTUcatGD6xu4tAcxG-1D4Bg"
+        },
+        "Youtube via API": {
+            "type": "youtube-api",
+            "channel": "UUTUcatGD6xu4tAcxG-1D4Bg",
+            "only-new": false,
+            "ignore": true
+        },
+        "Spotify": {
+            "type": "rss",
+            "url": "https://anchor.fm/s/822ba20/podcast/rss"
+        },
+        "AWS Transcribe": {
+            "type": "transcript"
+        }
+    },
     "audio-bucket": "thedissenter-episode",
     "transcript-bucket": "thedissenter-transcript",
     "ums": ["um", "uh", "mhm"],
