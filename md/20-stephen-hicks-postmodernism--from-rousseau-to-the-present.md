@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '20'
 image: https://i.ytimg.com/vi/rBTPMBKCZLs/maxresdefault.jpg
-publishDate: 2019-02-28
+publishDate: 2018-04-30
 title: '#20 Stephen Hicks: Postmodernism, from Rousseau to the Present'
 youtubeid: rBTPMBKCZLs
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -25,4 +27,5 @@ Aqui, falamos sobre as diferenças entre modernismo e pós-modernismo; as influ�
 Please, check out Dr. Hicks’ work  
 His Website: http://www.stephenhicks.org/  
 His book, Explaining Postmodernism: https://www.amazon.com/Explaining-Postmodernism-Skepticism-Socialism-Rousseau/dp/0983258406 ; Em Português: https://www.amazon.com/Explicando-P%C3%B3s-modernismo-Ceticismo-socialismo-Portuguese-ebook/dp/B00B4FCGM0/  
-And follow him on Twitter: @SRCHicks ; and Facebook: https://www.facebook.com/Stephen.R.C.Hicks
+And follow him on Twitter: @SRCHicks ; and Facebook: https://www.facebook.com/Stephen.R.C.Hicks</div>
+

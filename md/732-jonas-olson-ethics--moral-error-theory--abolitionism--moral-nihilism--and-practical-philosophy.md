@@ -9,25 +9,29 @@ title: '#732 Jonas Olson: Ethics, Moral Error Theory, Abolitionism, Moral Nihili
   and Practical Philosophy'
 youtubeid: 9HWdsNVtwi8
 ---
+<div class="timelinks">
+
 RECORDED ON MAY 30th 2022.  
 Dr. Jonas Olson is Professor of Practical Philosophy at Stockholm University. His research areas include metaethics and related subjects.  
 
 In this episode, we talk about metaethics, and practical philosophy. We start by distinguishing metaethics from normative ethics and applied ethics. We talk about the main questions and approaches in metaethics. We get specifically into moral error theory, moral abolitionism, and moral nihilism. We also discuss what moral facts are. We talk about moral certitude. Finally, we discuss what practical philosophy is, and how it relates to theoretical philosophy.
 
 Time Links:  
-00:00 Intro  
-00:23  Metaethics, normative ethics, and applied ethics  
-05:29  Questions and approaches in metaethics  
-09:29  Moral error theory  
-13:15  What are moral facts?  
-22:53  Moral abolitionism  
-37:53  What is moral certitude?  
-46:59  Moral nihilism  
-51:09  What is practical philosophy?  
-57:22  Follow Dr. Olson’s work!
+<time>00:00</time> Intro  
+<time>00:23</time> Metaethics, normative ethics, and applied ethics  
+<time>05:29</time> Questions and approaches in metaethics  
+<time>09:29</time> Moral error theory  
+<time>13:15</time> What are moral facts?  
+<time>22:53</time> Moral abolitionism  
+<time>37:53</time> What is moral certitude?  
+<time>46:59</time> Moral nihilism  
+<time>51:09</time> What is practical philosophy?  
+<time>57:22</time> Follow Dr. Olson’s work!
 
 ---
 
 Follow Dr. Olson’s work:  
 Faculty page: https://bit.ly/3m8UNrz  
 PhilPeople page: https://bit.ly/37Fyscn
+</div>
+

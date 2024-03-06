@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
 id: '5'
 image: https://i.ytimg.com/vi/iYrueaQy-0s/maxresdefault.jpg
-publishDate: 2019-02-05
-title: "#5 Patrick Lee Miller: Reason and Morality From Antiquity to Postmodernism\
+publishDate: 2018-03-07
+title: "#5 Patrick Lee Miller: Reason and Morality from Antiquity to Postmodernism\
   \ | Raz\xE3o e Moralidade"
 youtubeid: iYrueaQy-0s
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter
 
 Follow me on / Sigam-me:  
@@ -31,4 +33,5 @@ Aqui, falamos sobre razão, dos Pré-socráticos aos Modernistas; Moralidade e o
 Links para o trabalho do Dr. Miller:  
 Página da universidade: http://www.duq.edu/academics/faculty/patrick-lee-miller  
 Livro “Becoming God: Pure Reason in Early Greek Philosophy”: https://www.amazon.com/Becoming-God-Philosophy-Continuum-Studies/dp/1847061648  
-Ensaios na Quillette: http://quillette.com/author/patrick-lee-miller/
+Ensaios na Quillette: http://quillette.com/author/patrick-lee-miller/</div>
+

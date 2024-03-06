@@ -14,24 +14,26 @@ title: '#694 Patrick Savage: Musicology, the Evolution of Music, and Cross-Cultu
   Studies'
 youtubeid: hN6M8zinWhY
 ---
+<div class="timelinks">
+
 RECORDED ON JULY 26th 2022.  
 Dr. Patrick Savage is Associate Professor in the Faculty of Environment and Information Studies at Keio SFC, where he directs the CompMusic Lab for comparative and computational musicology. He has academic degrees in music composition (BA), psychology (MSc) and musicology (PhD), and has won national awards singing Japanese folk song. His research on the evolution of music and culture has appeared in outlets including Nature, Proceedings of the National Academy of Sciences of the USA, The New York Times, and The Economist. 
 
 In this episode, we talk about musicology. We start with the evolution of music, and how it relates to language and bird song. We discuss the (social) functions of music. We get into the cultural evolution of music, and cross-cultural regularities. We ask if music is a uniquely human phenomenon, and if we can learn more about biological and cultural diversity by studying musical evolution. We talk about music copyright laws. Finally, we address the main challenges of cross-cultural work in music cognition, and talk about underexplored questions in musicology.
 
 Time Links:  
-00:00 Intro  
-00:57  What do we know about the evolution of music?  
-01:57  Are there similarities between music, language, and bird song?  
-05:52  The (social) functions of music  
-09:11  The cultural evolution of music  
-12:42  Cross-cultural regularities  
-14:30  Is music a uniquely human phenomenon?  
-17:33  Can we learn more about biological and cultural diversity by studying musical evolution?  
-20:38  Studying music copyright laws  
-22:53  The challenges of cross-cultural work in music cognition  
-34:06  Underexplored questions in musicology  
-37:15  Follow Dr. Savage’s work!
+<time>00:00</time> Intro  
+<time>00:57</time> What do we know about the evolution of music?  
+<time>01:57</time> Are there similarities between music, language, and bird song?  
+<time>05:52</time> The (social) functions of music  
+<time>09:11</time> The cultural evolution of music  
+<time>12:42</time> Cross-cultural regularities  
+<time>14:30</time> Is music a uniquely human phenomenon?  
+<time>17:33</time> Can we learn more about biological and cultural diversity by studying musical evolution?  
+<time>20:38</time> Studying music copyright laws  
+<time>22:53</time> The challenges of cross-cultural work in music cognition  
+<time>34:06</time> Underexplored questions in musicology  
+<time>37:15</time> Follow Dr. Savage’s work!
 
 ---
 
@@ -41,3 +43,5 @@ CompMusic Lab: https://bit.ly/3PWEtWs
 Website: https://bit.ly/3tZJKD2  
 ResearchGate profile: https://bit.ly/3JnBPpE  
 Twitter handle: @PatrickESavage
+</div>
+

@@ -8,6 +8,8 @@ title: '#35 Leda Cosmides: Everything You''ve Ever Wanted to Know About Evolutio
   Psychology'
 youtubeid: hjL-13L6quE
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -21,35 +23,35 @@ Dr. Leda Cosmides pioneered the field of Evolutionary Psychology. She’s got a 
 Here, we talk about what is the history and development of Evolutionary Psychology; the problems with the Standard Social Science Model; the evolutionary environment of adaptedness (EEA); adaptations, by-products, and noise; ultimate vs proximate explanations; cognitive modules, and the problem with Jerry Fodor’s approach to them; variability and universality in human psychology and behavior; the application to evolutionary psychology to stereotypes, politics and human relationships; literal and metaphorical truth; and the view of human nature coming from evolutionary psychology.
 
 Time Links:  
-00:01 Leda Cosmides vs Virgin Mary  
-02:50 History and development of Evolutionary Psychology  
-24:12 Everyone takes you seriously, if you're Freud  
-27:37 The Standard Social Science Model  
-37:12 Evolutionary Environment of Adaptedness (EEA)  
-43:45 Adaptations, by-products, and genetic drift  
-53:06 Religion as a by-product of evolution  
-1:03:50 Trump's hair cannot be explained by science  
-1:04:50 The problem with the term "module"  
-1:12:10 Modules as evolved crib sheets  
-1:16:46 Ultimate vs proximate explanations  
-1:32:33 Why cousin Bob cannot mate with Jennifer Lawrence  
-1:34:30 Just-so stories  
-1:42:32 Cultural variability  
-1:53:00 Don't be stupid like me while interpreting Evo Psych literature  
-1:54:00 Modules as neural networks?  
-1:58:47 Literal truth vs metaphorical truth  
-2:18:15 How stereotypes come about  
-2:20:42 Culture as a source of rationalizations for our behavior  
-2:24:12 Are we adapted to the environments we create?  
-2:26:25 Evolutionary Psychology applied to Politics  
-2:36:06 How to improve human relationships with the help of Evo Psych  
-2:45:57 When you're on the 35th percentile of Agreeableness  
-2:54:43 Embrace your toxic masculinity  
-2:55:00 People who study Evo Psych know themselves better  
-3:06:54 When a beta male walks into a lesbian bar  
-3:08:00 The Dissenter knows a lot about Evo Psych  
-3:09:25 Current work by Dr. Cosmides  
-3:21:14 Farewell to the Mother of Evo Psych
+<time>00:01</time> Leda Cosmides vs Virgin Mary  
+<time>02:50</time> History and development of Evolutionary Psychology  
+<time>24:12</time> Everyone takes you seriously, if you're Freud  
+<time>27:37</time> The Standard Social Science Model  
+<time>37:12</time> Evolutionary Environment of Adaptedness (EEA)  
+<time>43:45</time> Adaptations, by-products, and genetic drift  
+<time>53:06</time> Religion as a by-product of evolution  
+<time>1:03:50</time> Trump's hair cannot be explained by science  
+<time>1:04:50</time> The problem with the term "module"  
+<time>1:12:10</time> Modules as evolved crib sheets  
+<time>1:16:46</time> Ultimate vs proximate explanations  
+<time>1:32:33</time> Why cousin Bob cannot mate with Jennifer Lawrence  
+<time>1:34:30</time> Just-so stories  
+<time>1:42:32</time> Cultural variability  
+<time>1:53:00</time> Don't be stupid like me while interpreting Evo Psych literature  
+<time>1:54:00</time> Modules as neural networks?  
+<time>1:58:47</time> Literal truth vs metaphorical truth  
+<time>2:18:15</time> How stereotypes come about  
+<time>2:20:42</time> Culture as a source of rationalizations for our behavior  
+<time>2:24:12</time> Are we adapted to the environments we create?  
+<time>2:26:25</time> Evolutionary Psychology applied to Politics  
+<time>2:36:06</time> How to improve human relationships with the help of Evo Psych  
+<time>2:45:57</time> When you're on the 35th percentile of Agreeableness  
+<time>2:54:43</time> Embrace your toxic masculinity  
+<time>2:55:00</time> People who study Evo Psych know themselves better  
+<time>3:06:54</time> When a beta male walks into a lesbian bar  
+<time>3:08:00</time> The Dissenter knows a lot about Evo Psych  
+<time>3:09:25</time> Current work by Dr. Cosmides  
+<time>3:21:14</time> Farewell to the Mother of Evo Psych
 
 
 ---
@@ -59,4 +61,5 @@ Aqui, falamos sobre a história e desenvolvimento da Psicologia Evolutiva; os pr
 
 Follow Dr. Cosmides’ work:  
 Faculty page: https://www.psych.ucsb.edu/people/faculty/cosmides  
-Her books: https://www.amazon.com/Books-Leda-Cosmides/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ALeda%20Cosmides
+Her books: https://www.amazon.com/Books-Leda-Cosmides/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ALeda%20Cosmides</div>
+

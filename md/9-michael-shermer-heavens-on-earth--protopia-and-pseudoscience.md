@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '9'
 image: https://i.ytimg.com/vi/19FM-_qShDw/maxresdefault.jpg
-publishDate: 2019-02-15
+publishDate: 2018-03-26
 title: '#9 Michael Shermer: Heavens on Earth, Protopia and Pseudoscience'
 youtubeid: 19FM-_qShDw
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -29,4 +31,5 @@ Heavens on Earth European version: https://www.amazon.co.uk/Heavens-Earth-Scient
 Heavens on Earth original version: https://www.amazon.com/Heavens-Earth-Scientific-Afterlife-Immortality/dp/1627798579  
 Support Skeptic on Patreon: https://www.patreon.com/skeptic  
 More books by Dr. Shermer and others at Skeptic: https://shop.skeptic.com/merchant.mvc?Screen=CTGY&Store_Code=SS&Category_Code=B  
-Dr. Shermer’s Twitter handle: @michaelshermer
+Dr. Shermer’s Twitter handle: @michaelshermer</div>
+

@@ -9,6 +9,8 @@ title: '#642 Douglas Kenrick & David Lundberg-Kenrick - Solving Modern Problems 
   a Stone-Age Brain'
 youtubeid: ZNpvj4pfwsg
 ---
+<div class="timelinks">
+
 RECORDED ON JUNE 16th 2022.  
 Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona State University.   
 David E. Lundberg-Kenrick is Program Manager of Psychology at Arizona State University.  
@@ -17,26 +19,26 @@ They are both authors of Solving Modern Problems with a Stone-Age Brain: Human E
 In this episode, we focus on Solving Problems with a Stone-Age Brain. We start with the premise of the book, and go through the following topics: the seven fundamental motives; stone-age brains; how the fundamental motives are organized; a fulfilling human life; how certain problems are harder in industrialized societies; survival; health issues; consumer choice; making and keeping friends; modern mating, and the paradox of choice; attracting mates; human mating systems; acquiring status; economic inequality, and its social effects; retaining a mate; taking care of family members; and being kind to others.
 
 Time Links:  
-00:00 Intro  
-01:03  The premise of the book  
-03:12  The seven fundamental motives  
-10:15  Do we have stone-age brains?  
-21:35  Is it a hierarchy of needs?  
-30:57  What is a fulfilling human life?  
-39:43  In what ways do we have it harder in industrialized societies? (Social media)  
-47:01  Modern threats to our survival  
-53:39  Health issues (obesity, cardiovascular disease)  
-55:13  Consumer choice  
-1:01:53  Making and keeping friends  
-1:06:09  Assortative mating  
-1:07:53  Modern mating, and the paradox of choice  
-1:14:19  Social skills for attracting mates  
-1:26:45  Human mating systems  
-1:33:58  Acquiring status, and economic inequality  
-1:51:26  Retaining a mate  
-2:02:01  Taking care of family members  
-2:05:33  Be kind to others  
-2:11:55  Follow Kenrick’s work!
+<time>00:00</time> Intro  
+<time>01:03</time> The premise of the book  
+<time>03:12</time> The seven fundamental motives  
+<time>10:15</time> Do we have stone-age brains?  
+<time>21:35</time> Is it a hierarchy of needs?  
+<time>30:57</time> What is a fulfilling human life?  
+<time>39:43</time> In what ways do we have it harder in industrialized societies? (Social media)  
+<time>47:01</time> Modern threats to our survival  
+<time>53:39</time> Health issues (obesity, cardiovascular disease)  
+<time>55:13</time> Consumer choice  
+<time>1:01:53</time> Making and keeping friends  
+<time>1:06:09</time> Assortative mating  
+<time>1:07:53</time> Modern mating, and the paradox of choice  
+<time>1:14:19</time> Social skills for attracting mates  
+<time>1:26:45</time> Human mating systems  
+<time>1:33:58</time> Acquiring status, and economic inequality  
+<time>1:51:26</time> Retaining a mate  
+<time>2:02:01</time> Taking care of family members  
+<time>2:05:33</time> Be kind to others  
+<time>2:11:55</time> Follow Kenrick’s work!
 
 ---
 
@@ -45,3 +47,5 @@ Faculty page: https://bit.ly/3aI161D
 ResearchGate profile: https://bit.ly/3xnKghr  
 Amazon page: https://amzn.to/3NeO4af  
 Solving Modern Problems With a Stone-Age Brain: https://amzn.to/3mdjdPs
+</div>
+

@@ -16,22 +16,24 @@ title: '#279 Daniel Lieberman: The Evolution of Bipedalism, and Modern Evolution
   Mismatch'
 youtubeid: jXoQr7JVaXo
 ---
+<div class="timelinks">
+
 RECORDED ON OCTOBER 24th, 2019.  
 Dr. Daniel Lieberman is Edwin M. Lerner II Professor of Biological Sciences, Professor of Human Evolutionary Biology at Harvard University. He studies and teaches how and why the human body looks and functions the way it does. He started his career studying the evolution of the human head, but is now more focused on the evolution of human physical activity, and how evolutionary approaches to activities such as walking and running, as well as changes to our body’s environments (such as wearing shoes and being physically inactive) can help better prevent and treat musculoskeletal diseases.  He’s the author of the books The Evolution of the Human Head, and The Story of the Human Body: Evolution, Health, and Disease.
 
 In this episode, the focus of our conversation is the evolution of human bipedalism. We talk about the evolutionary pressures behind it, the advantages it conferred to humans, the new challenges that it posed, and endurance running. In the second part of the interview, we talk about evolutionary mismatch, and the types of problems that we exposed our bodies to since the agricultural revolution, and the solutions we can develop.
 
 Time Links:  
-00:58  The evolution of human bipedalism  
-13:08  Endurance running   
-15:37  The new challenges that bipedalism imposed on humans   
-20:14  How important was bipedalism in our evolution?   
-23:23  Evolutionary mismatch, and diseases of the modern world  
-26:51  Consequences of the agricultural revolution  
-31:58  Dysevolution, and how to solve it  
-42:42  Musculoskeletal diseases caused by physical inactivity  
-48:25  Changing our environments  
-52:20  Follow Dr. Lieberman’s work!
+<time>00:58</time> The evolution of human bipedalism  
+<time>13:08</time> Endurance running   
+<time>15:37</time> The new challenges that bipedalism imposed on humans   
+<time>20:14</time> How important was bipedalism in our evolution?   
+<time>23:23</time> Evolutionary mismatch, and diseases of the modern world  
+<time>26:51</time> Consequences of the agricultural revolution  
+<time>31:58</time> Dysevolution, and how to solve it  
+<time>42:42</time> Musculoskeletal diseases caused by physical inactivity  
+<time>48:25</time> Changing our environments  
+<time>52:20</time> Follow Dr. Lieberman’s work!
 
 ---
 
@@ -42,3 +44,5 @@ Harvard University Skeletal Biology and Biomechanics Lab: http://bit.ly/2NnaoAP
 ResearchGate profile: http://bit.ly/2lzSS1M  
 Amazon page: https://amzn.to/2N8Xfeq  
 The Story of the Human Body: Evolution, Health, and Disease: https://amzn.to/2m1e7da
+</div>
+

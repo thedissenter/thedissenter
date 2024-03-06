@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '40'
 image: https://i.ytimg.com/vi/X2lU4KCv_gY/maxresdefault.jpg
-publishDate: 2019-03-26
+publishDate: 2018-06-25
 title: '#40 Frans de Waal: Morality, Sociality, and Culture in Primate Societies'
 youtubeid: X2lU4KCv_gY
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -24,4 +26,5 @@ Aqui, falamos sobre o que a Primatologia oferece ao estudo da psicologia humana;
 
 Follow Dr. de Waal’s work:  
 Faculty page: http://www.emory.edu/LIVING_LINKS/people/dewaal.shtml  
-His books: https://www.amazon.com/Frans-De-Waal/e/B000APOHE0
+His books: https://www.amazon.com/Frans-De-Waal/e/B000APOHE0</div>
+

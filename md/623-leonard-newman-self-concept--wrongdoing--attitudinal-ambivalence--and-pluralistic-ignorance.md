@@ -15,24 +15,28 @@ title: '#623 Leonard Newman: Self-concept, Wrongdoing, Attitudinal Ambivalence, 
   Pluralistic Ignorance'
 youtubeid: eBPWaaye1FE
 ---
+<div class="timelinks">
+
 RECORDED ON FEBRUARY 4th 2022.  
 Dr. Leonard Newman is Associate Professor of Psychology at Syracuse University. How do people resolve the ambivalent feelings they have about members of other groups? What mental maneuvers do people use to shield themselves from threats to their self-concepts? How do people deal with having violated their moral and other behavioral standards? At the broadest level, Dr. Newman’s research focuses on the motivational aspects of social cognition. More specific interests include dehumanization, social stigma, defensive and self-protective processes in judgment and memory, and the social psychology of genocide and mass killing.
 
 In this episode, we talk about issues in social psychology. We talk about the self-concept, and how people deal with threats to it. We discuss how people react to their own violations of moral standards. We talk about dispositional, situational, and interactionist explanations of wrongdoing, and cross-cultural variation in people’s attitudes toward them. We explore attitudinal ambivalence and pluralistic ignorance. Finally, we talk about how preferred beliefs influence skepticism about psychological findings.
 
 Time Links:  
-00:00 Intro  
-00:37  The self-concept, and how people deal with threats to it  
-04:54  When people violate their own moral standards  
-10:33  Dispositional, situational, and interactionist explanations of wrongdoing  
-15:19  Cross-cultural variation in the kind of explanation people prefer  
-20:49  Attitudinal ambivalence and political orientation  
-31:49  Pluralistic ignorance, and how it works  
-40:32  The role of preferred beliefs in skepticism about psychology  
-44:26  Follow Dr. Newman’s work!
+<time>00:00</time> Intro  
+<time>00:37</time> The self-concept, and how people deal with threats to it  
+<time>04:54</time> When people violate their own moral standards  
+<time>10:33</time> Dispositional, situational, and interactionist explanations of wrongdoing  
+<time>15:19</time> Cross-cultural variation in the kind of explanation people prefer  
+<time>20:49</time> Attitudinal ambivalence and political orientation  
+<time>31:49</time> Pluralistic ignorance, and how it works  
+<time>40:32</time> The role of preferred beliefs in skepticism about psychology  
+<time>44:26</time> Follow Dr. Newman’s work!
 
 ---
 
 Follow Dr. Newman’s work:  
 Faculty page: https://bit.ly/3EsQYmI  
 ResearchGate profile: https://bit.ly/3BsLuXj
+</div>
+

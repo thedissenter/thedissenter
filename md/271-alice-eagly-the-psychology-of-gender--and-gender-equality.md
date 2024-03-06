@@ -15,27 +15,29 @@ excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Managemen
 id: '271'
 image: https://i.ytimg.com/vi/gPsXpDIE0LA/maxresdefault.jpg
 publishDate: 2019-12-20
-title: '#271 Alice Eagly: The Psychology Of Gender, And Gender Equality'
+title: '#271 Alice Eagly: The Psychology Of Gender, and Gender Equality'
 youtubeid: gPsXpDIE0LA
 ---
+<div class="timelinks">
+
 RECORDED ON OCTOBER 10th, 2019.  
 Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management and Organizations at Northwestern University. She currently holds the James Padilla Chair for Arts and Sciences and a Faculty Fellowship for the Institute of Policy Research at Northwestern University. Her primary research contributions have been in the area of social psychology, as well as personality psychology and Industrial Organizational Psychology. Her research interests include the psychology of gender, especially sex differences and similarities in leadership, prosocial behavior, aggression, partner preferences, and sociopolitical attitudes. She’s also interested in the content of stereotypes; social role theory as a theory of sex differences and similarities and of the origins of sex differences in social behavior; and attitude theory and research, especially attitudinal selectivity in information processing.
 
 In this episode, we talk about the psychology of gender, and the several different approaches to it. We first talk about some of the most well-established sex differences and their origins. We refer to the nature-nurture debate, and Dr. Eagly’s social role theory. We then go through some of what Dr. Eagly thinks are the limitations of the approaches from evolutionary psychology and social constructionism, while also addressing the gender equality paradox. We then discuss feminist issues, namely how feminism should deal with sex differences; what is gender equality (and the issue with quotas); female leadership; how gender stereotypes have changed over time; and the future of gender equality.
 
 Time Links:  
-01:22  How to think about sex differences  
-10:05  The origins of these sex differences  
-13:19  The nature vs nurture debate, and the interactionist position (social role theory)  
-16:53  The approach from evolutionary psychology   
-22:06  The gender equality paradox  
-33:22  The limitations of social constructionist approaches  
-36:37  Feminism, and how to deal with sex differences  
-40:58  What is gender equality?  
-49:21  Female (political) leadership   
-54:32  How gender stereotypes changed  
-1:02:42  The future of gender equality  
-1:09:12  Follow Dr. Eagly’s work!
+<time>01:22</time> How to think about sex differences  
+<time>10:05</time> The origins of these sex differences  
+<time>13:19</time> The nature vs nurture debate, and the interactionist position (social role theory)  
+<time>16:53</time> The approach from evolutionary psychology   
+<time>22:06</time> The gender equality paradox  
+<time>33:22</time> The limitations of social constructionist approaches  
+<time>36:37</time> Feminism, and how to deal with sex differences  
+<time>40:58</time> What is gender equality?  
+<time>49:21</time> Female (political) leadership   
+<time>54:32</time> How gender stereotypes changed  
+<time>1:02:42</time> The future of gender equality  
+<time>1:09:12</time> Follow Dr. Eagly’s work!
 
 ---
 
@@ -51,3 +53,5 @@ Gender Stereotypes Have Changed: A Cross-Temporal Meta-Analysis of U.S. Public O
 Sex Differences in Social Behavior: A Social-Role Interpretation: https://amzn.to/2om1BGQ  
 The Psychology of Gender: https://amzn.to/2q0IRwN  
 Through the Labyrinth: The Truth About How Women Become Leaders: https://amzn.to/313BAcn
+</div>
+

@@ -9,6 +9,8 @@ publishDate: 2023-11-23
 title: '#864 Colin DeYoung: Personality and Psychopathology'
 youtubeid: O4OdA_V9RWo
 ---
+<div class="timelinks">
+
 Dr. Colin DeYoung is Associate Professor of Psychology at the University of Minnesota. In his research in personality psychology, he has examined the theoretical structure of personality and the biological basis of personality.
 
 This is our second talk. You can watch the first one, on the Big Five personality traits, here: https://youtu.be/hVh22rn5doQ
@@ -17,17 +19,17 @@ In this episode, we talk about personality and psychopathology. We start by disc
 
 
 Time Links:  
-00:00 Intro  
-00:49  Issues with how psychopathology is defined in psychiatry   
-05:03  Should statistical deviance be enough to classify something as psychopathology?  
-08:02  The relationship between brain disease and psychopathology  
-16:38  The Hierarchical Taxonomy of Psychopathology, and approaching psychopathologies as dimensions  
-30:12  Distinguishing traits from symptoms, and iatrogenic effects  
-52:25  How the Big Five personality traits can contribute to psychopathology  
-1:02:19  The relationship between cognitive ability and psychopathology   
-1:20:44  The Free Energy Principle and Active Inference framework, Cybernetic Theory, and personality traits  
-1:36:56  The current state of the neuroscience of personality  
-1:43:11  Follow Dr. DeYoung’s work!
+<time>00:00</time> Intro  
+<time>00:49</time> Issues with how psychopathology is defined in psychiatry   
+<time>05:03</time> Should statistical deviance be enough to classify something as psychopathology?  
+<time>08:02</time> The relationship between brain disease and psychopathology  
+<time>16:38</time> The Hierarchical Taxonomy of Psychopathology, and approaching psychopathologies as dimensions  
+<time>30:12</time> Distinguishing traits from symptoms, and iatrogenic effects  
+<time>52:25</time> How the Big Five personality traits can contribute to psychopathology  
+<time>1:02:19</time> The relationship between cognitive ability and psychopathology   
+<time>1:20:44</time> The Free Energy Principle and Active Inference framework, Cybernetic Theory, and personality traits  
+<time>1:36:56</time> The current state of the neuroscience of personality  
+<time>1:43:11</time> Follow Dr. DeYoung’s work!
 
 ---
 
@@ -35,3 +37,5 @@ Follow Dr. DeYoung’s work:
 Faculty page: http://bit.ly/2nGDKRd  
 The DeYoung Personality Lab: http://bit.ly/2n8Ncg0  
 ResearchGate profile: http://bit.ly/2lz2g68
+</div>
+

@@ -16,25 +16,27 @@ publishDate: 2019-07-01
 title: "#197 Paulo Finuras: Biossociologia, Psicologia Evolutiva e Lideran\xE7a"
 youtubeid: O30xvytWzCs
 ---
+<div class="timelinks">
+
 O Dr. Paulo Finuras é Doutorado em Ciências Sociais e do Comportamento (especialidade de Ciência Política) pela ULHT (Universidade Lusófona de Humanidades e Tecnologias), Pós-graduado em Gestão e Política Internacional e Licenciado em Sociologia (ISCTE-IUL). É investigador na área da Biossociologia e da Psicologia Evolutiva e investigador integrado do CIPES da Faculdade de Ciências Sociais da ULHT. É também autor dos livros “Gestão Intercultural”, “Humanus: pessoas iguais, culturas diferentes”, “O Dilema da Confiança”, “Valores Culturais e (Des)Confiança nas Instituições”, “Primatas Culturais: Evolução e Natureza Humana” e “Bioliderança” (2018).
 
 Neste episódio, abordamos vários tópicos das áreas da biossociologia (ou sociobiologia) e da psicologia evolutiva. Falamos da dificuldade das pessoas em lidarem com a ideia de que a nossa mente e o nosso comportamento também são resultado da evolução, e de limitações de abordagens socioculturais. Ao longo da conversa, vamos referindo vários aspetos que explicam o desenvolvimento das culturas humanas, e também a questão da bioliderança e de como os homens usualmente ocupam lugares de liderança, mas podemos melhorar esse cenário com recurso a conhecimento proveniente da teoria evolutiva.
 
 Time Links:  
-01:38  A biossociologia, a psicologia evolutiva, e a dificuldade em aceitar a aplicação da teoria evolutiva ao comportamento humano  
-05:55  Limitações das abordagens exclusivamente socioculturais ao comportamento humano                                                 
-10:37  Os efeitos que exposição a parasitas pode ter nas sociedades humanas                                               
-15:59  A cultura não se sobrepõe à biologia                                                  
-21:24  A origem biológica das diferenças entre os sexos                                               
-25:34  Também há competição entre mulheres                                                
-28:08  Vieses, heurísticas e desfasamento evolutivo  
-31:48  Bioliderança, e liderança por parte de homens  
-38:01  O paradoxo da igualdade de género  
-44:22  Precisamos de conhecer a biologia para saber como processamos informação do meio ambiente  
-47:23  Psicologia evolutiva e a proposta da modularidade da mente  
-51:23  Fenómenos de coevolução gene-cultura  
-55:04  Como abordar a questão da distribuição desigual dos sexos em cargos de liderança  
-1:01:47  Sigam o trabalho do Dr. Finuras!
+<time>01:38</time> A biossociologia, a psicologia evolutiva, e a dificuldade em aceitar a aplicação da teoria evolutiva ao comportamento humano  
+<time>05:55</time> Limitações das abordagens exclusivamente socioculturais ao comportamento humano                                                 
+<time>10:37</time> Os efeitos que exposição a parasitas pode ter nas sociedades humanas                                               
+<time>15:59</time> A cultura não se sobrepõe à biologia                                                  
+<time>21:24</time> A origem biológica das diferenças entre os sexos                                               
+<time>25:34</time> Também há competição entre mulheres                                                
+<time>28:08</time> Vieses, heurísticas e desfasamento evolutivo  
+<time>31:48</time> Bioliderança, e liderança por parte de homens  
+<time>38:01</time> O paradoxo da igualdade de género  
+<time>44:22</time> Precisamos de conhecer a biologia para saber como processamos informação do meio ambiente  
+<time>47:23</time> Psicologia evolutiva e a proposta da modularidade da mente  
+<time>51:23</time> Fenómenos de coevolução gene-cultura  
+<time>55:04</time> Como abordar a questão da distribuição desigual dos sexos em cargos de liderança  
+<time>1:01:47</time> Sigam o trabalho do Dr. Finuras!
 
 ---
 
@@ -50,3 +52,5 @@ Why are there so many different languages in the world? Could Historical Pathoge
 Psicologia evolutiva: https://bit.ly/2JjMtBz  
 Coevolução gene-cultura: https://bit.ly/2Wqry3L  
 Relationship of gender differences in preferences to economic development and gender equality: https://bit.ly/2PO6GRq
+</div>
+

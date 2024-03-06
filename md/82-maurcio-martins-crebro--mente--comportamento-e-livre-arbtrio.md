@@ -3,11 +3,13 @@ draft: false
 excerpt: '------------------Support me-----------------------  '
 id: '82'
 image: https://i.ytimg.com/vi/CP3b5INr00A/maxresdefault.jpg
-publishDate: 2019-05-27
+publishDate: 2018-10-05
 title: "#82 Maur\xEDcio Martins: C\xE9rebro, Mente, Comportamento e Livre Arb\xED\
   trio"
 youtubeid: CP3b5INr00A
 ---
+<div class="timelinks">
+
 ------------------Support me-----------------------  
 Patreon: https://www.patreon.com/thedissenter  
 PayPal: paypal.me/thedissenter
@@ -21,16 +23,18 @@ O Dr. Maurício Martins encontra-se neste momento a fazer um pós-doutoramento n
 Neste episódio, falamos sobre dualismo, ou a dicotomia cérebro-mente; questões sobre causalidade e correlação entre atividade cerebral e comportamento; e sobre como se deve abordar o problema do livre arbítrio.
 
 Time Links:  
-00:42  Faz sentido falar do cérebro e da mente em separado?   
-06:00  É a atividade no cérebro a causa de comportamentos?      
-10:26  Diferentes áreas do cérebro podem assumir as funções de outras  
-13:14  Mas depende do tipo de informação que seja preciso processar  
-22:57  Como se deve falar sobre livre arbítrio  
-34:06  Mas pode-se dizer que existe livre arbítrio, ou não?  
-37:03  Sigam o trabalho do Maurício!
+<time>00:42</time> Faz sentido falar do cérebro e da mente em separado?   
+<time>06:00</time> É a atividade no cérebro a causa de comportamentos?      
+<time>10:26</time> Diferentes áreas do cérebro podem assumir as funções de outras  
+<time>13:14</time> Mas depende do tipo de informação que seja preciso processar  
+<time>22:57</time> Como se deve falar sobre livre arbítrio  
+<time>34:06</time> Mas pode-se dizer que existe livre arbítrio, ou não?  
+<time>37:03</time> Sigam o trabalho do Maurício!
 
 ---
 
 Onde encontrar o trabalho do Dr. Maurício Martins:  
 Página Researchgate: https://tinyurl.com/y9cy7qh3  
 Página no Instituto Max Planck: https://tinyurl.com/y97kbdc3
+</div>
+

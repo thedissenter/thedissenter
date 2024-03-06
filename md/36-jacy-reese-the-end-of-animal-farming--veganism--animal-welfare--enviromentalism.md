@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '36'
 image: https://i.ytimg.com/vi/JCWMXH09rSc/maxresdefault.jpg
-publishDate: 2019-03-21
+publishDate: 2018-06-11
 title: '#36 Jacy Reese: The End of Animal Farming, Veganism, Animal Welfare, Enviromentalism'
 youtubeid: JCWMXH09rSc
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -29,4 +31,5 @@ Its Twitter handle: @SentienceInst
 Book The End of Animal Farming: https://www.amazon.com/End-Animal-Farming-Entrepreneurs-Animal-Free/dp/0807019453  
 Jacy’s Ted Talk: https://www.youtube.com/watch?v=PBmbVphZKYc  
 His personal website: http://jacyreese.com/  
-And his Twitter handle: @jacyreese
+And his Twitter handle: @jacyreese</div>
+

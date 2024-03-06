@@ -3,10 +3,12 @@ draft: false
 excerpt: '------------------Support me---------  '
 id: '84'
 image: https://i.ytimg.com/vi/xPzaneVj7Oo/maxresdefault.jpg
-publishDate: 2019-05-29
+publishDate: 2018-10-11
 title: '#84 Garett Jones: Hive Mind, The Importance of National IQ, and Immigration'
 youtubeid: xPzaneVj7Oo
 ---
+<div class="timelinks">
+
 ------------------Support me---------  
 Patreon: https://www.patreon.com/thedissenter  
 PayPal: paypal.me/thedissenter
@@ -20,17 +22,17 @@ Dr. Garett Jones is Associate Professor of Economics and BB&T Professor for the 
 In this episode, we focus on Dr. Jones’ book, Hive Mind. Topics include: the individual and collective benefits of higher national IQs; how IQ correlates with emotional and social skills; its effects in the political realm; how it relates to current immigration issues; and possible solutions to improve IQ in the countries that lack it the most. 
 
 Time Links:  
-01:04  Why your nation’s IQ matter        
-04:29  Benefits at the collective level      
-05:57  Individual IQ is not as important  
-08:25  Benefits for people on the low-end of the IQ scale  
-12:25  Other tests to evaluate academic skills          
-15:38  IQ correlates with emotional and social skills       
-18:40  More than genetics    
-20:56  IQ effects on politics   
-29:28  How are average national IQs relevant to immigration policy?  
-42:29  Possible solutions to improve IQ in the least resourceful nations  
-46:16  Where to follow Dr. Jones’ work
+<time>01:04</time> Why your nation’s IQ matter        
+<time>04:29</time> Benefits at the collective level      
+<time>05:57</time> Individual IQ is not as important  
+<time>08:25</time> Benefits for people on the low-end of the IQ scale  
+<time>12:25</time> Other tests to evaluate academic skills          
+<time>15:38</time> IQ correlates with emotional and social skills       
+<time>18:40</time> More than genetics    
+<time>20:56</time> IQ effects on politics   
+<time>29:28</time> How are average national IQs relevant to immigration policy?  
+<time>42:29</time> Possible solutions to improve IQ in the least resourceful nations  
+<time>46:16</time> Where to follow Dr. Jones’ work
 
 ---
 
@@ -38,3 +40,5 @@ Follow Dr. Jones’s work:
 Faculty page: https://economics.gmu.edu/people/gjonesb  
 Hive Mind: https://tinyurl.com/y9w2rdea  
 Twitter handle: @GarettJones
+</div>
+

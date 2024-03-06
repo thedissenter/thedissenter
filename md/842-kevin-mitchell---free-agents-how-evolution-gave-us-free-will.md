@@ -12,30 +12,32 @@ publishDate: 2023-10-02
 title: '#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will'
 youtubeid: Euv_pwsAkkQ
 ---
+<div class="timelinks">
+
 Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at Trinity College Dublin. He is interested in the development of connectivity in the brain, specifically in how this process is controlled by genes and how mutations in such genes affect the connectivity of neuronal circuits, influence behavior and perception and contribute to disease. His latest book is Free Agents: How Evolution Gave Us Free Will.
 
 In this episode, we focus on Free Agents. We start by discussing how scientists approach free will, and if we should define free will. We go through some of the major steps in the evolution of free will, and talk about the origins of life on Earth; informational causation; the purpose of life; meaning and value; the evolution of decision making; agency; the evolution of nervous systems; the neocortex; and self-awareness. We talk about how we simulate different courses of action, and how we should understand decision making as a process. We discuss indeterminacy in Physics and Neuroscience. We talk about the Libet experiments, and studies of brain legions. We discuss personality traits and other psychological predispositions. We talk about constraints and top-down causation. Finally, we discuss the link between free will and moral responsibility.
 
 Time Links:  
-00:00 Intro  
-00:35  How scientists approach free will  
-03:36  Defining free will  
-08:39  The origins of life on Earth  
-13:14  Informational causation  
-19:07  Does life have purpose?  
-21:21  The evolution of decision making  
-25:28  Agency  
-29:44  The evolution of nervous systems  
-32:57  The neocortex, and the decoupling of perception from action  
-38:03  Self-awareness  
-40:22  Simulating possible courses of action  
-46:16  Understanding decision making as a process  
-53:03  Indeterminacy in Physics and Neuroscience  
-1:05:24  Brain legions  
-1:09:12  Personality traits and other psychological predispositions  
-1:20:55  Constraints and top-down causation  
-1:26:04  Free will and moral responsibility  
-1:32:23  Follow Dr. Mitchell’s work!
+<time>00:00</time> Intro  
+<time>00:35</time> How scientists approach free will  
+<time>03:36</time> Defining free will  
+<time>08:39</time> The origins of life on Earth  
+<time>13:14</time> Informational causation  
+<time>19:07</time> Does life have purpose?  
+<time>21:21</time> The evolution of decision making  
+<time>25:28</time> Agency  
+<time>29:44</time> The evolution of nervous systems  
+<time>32:57</time> The neocortex, and the decoupling of perception from action  
+<time>38:03</time> Self-awareness  
+<time>40:22</time> Simulating possible courses of action  
+<time>46:16</time> Understanding decision making as a process  
+<time>53:03</time> Indeterminacy in Physics and Neuroscience  
+<time>1:05:24</time> Brain legions  
+<time>1:09:12</time> Personality traits and other psychological predispositions  
+<time>1:20:55</time> Constraints and top-down causation  
+<time>1:26:04</time> Free will and moral responsibility  
+<time>1:32:23</time> Follow Dr. Mitchell’s work!
 
 ---
 
@@ -48,3 +50,5 @@ Free Agents: https://bit.ly/3GX0TEZ
 Wiring the Brain (blog): http://bit.ly/2MKhzCA  
 ResearchGate profile: http://bit.ly/2LVNCBJ  
 Twitter handle: @WiringTheBrain
+</div>
+

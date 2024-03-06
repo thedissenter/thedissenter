@@ -7,10 +7,12 @@ excerpt: "Mr. Johan Norberg is an author and historian from Sweden. He\u2019s be
   \ (2016).   "
 id: '53'
 image: https://i.ytimg.com/vi/MLhOxG4Chtk/maxresdefault.jpg
-publishDate: 2019-04-10
+publishDate: 2018-07-30
 title: '#53 Johan Norberg: Capitalism, Globalism, Progress, Inequality & More'
 youtubeid: MLhOxG4Chtk
 ---
+<div class="timelinks">
+
 Mr. Johan Norberg is an author and historian from Sweden. He’s been a senior fellow at the Cato Institute since 2007, and the executive director at Free To Choose Media since 2017. He is the author of books like In Defense of Global Capitalism (2001) and Progress: Ten Reasons to Look Forward to the Future (2016).   
 In this episode, we talk about some of Mr. Norberg’s personal story, as he moved from being a left-anarchist to a classical liberal capitalist; capitalism from a historical perspective, and a comparison with feudalism; how material wealth and economic growth set the bases for human progress and flourishing; the varieties of capitalism, and the Swedish model; the problem with state-guided capitalism, interventionism and protectionism; the problem with the term “trickle-down economics”; economic inequality; and the Cato Institute.
 
@@ -29,4 +31,6 @@ Livro “Progresso”: https://www.wook.pt/livro/progresso-johan-norberg/1909493
 And check out other related interviews:  
 Fernand Drumond (Gapminder): https://youtu.be/Pqoil02RlOU  
 Olof Gränström (Gapminder): https://youtu.be/3y-KOM2YiVY
+
+</div>
 

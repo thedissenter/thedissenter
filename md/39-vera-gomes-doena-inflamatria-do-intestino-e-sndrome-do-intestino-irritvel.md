@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '39'
 image: https://i.ytimg.com/vi/LqC-LLPf-oc/maxresdefault.jpg
-publishDate: 2019-03-25
+publishDate: 2018-06-22
 title: "#39 Vera Gomes: Doen\xE7a Inflamat\xF3ria do Intestino e S\xEDndrome do Intestino\
   \ Irrit\xE1vel"
 youtubeid: LqC-LLPf-oc
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -26,4 +28,5 @@ She’s the author of a blog, Escadinhas do Quebra Costas, in which she writes a
 In this episode, we talk about her personal experience while dealing with ulcerative colitis; what is inflammatory bowel disease (IBD), and how we can distinguish it from irritable bowel syndrome (IBS); in what ways IBD can affect the personal and professional lives of people who suffer from it; the difficulty in making a diagnosis; the petition that is being evaluated at the Republican Assembly (in Portugal) with proposals to improve the life conditions of these patients; and how they can be easy targets of propaganda coming from alternative medicine and therapies.
 
 Blogue Escadinhas do Quebra Costas: https://escadinhas.blogs.sapo.pt/  
-Associação Portuguesa da Doença Inflamatória do Intestino: http://www.apdi.org.pt/
+Associação Portuguesa da Doença Inflamatória do Intestino: http://www.apdi.org.pt/</div>
+

@@ -13,6 +13,8 @@ title: '#296 Laith Al-Shawaf: The Theoretical Bases Of Evolutionary Psychology, 
   Common Misconceptions'
 youtubeid: keIP7rSMUSA
 ---
+<div class="timelinks">
+
 RECORDED ON DECEMBER 6th, 2019.  
 Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent University in Turkey and a Visiting Fellow at the Institute for Advanced Study in Berlin, Germany. Laith has taught and conducted research in several different countries, and is a member of the Arab-German Young Academy (AGYA), as well as an academic adviser at Ideas Beyond Borders (IBB).
 
@@ -20,21 +22,21 @@ In this episode, we go through some of the theoretical foundations of Evolutiona
 
 
 Time Links:  
-00:53  “Just-so stories”  
-09:19  Natural selection doesn’t build perfectly designed biological mechanisms   
-17:22  Evolution does not imply genetic determinism   
-20:18  But genes are still important  
-22:29  Adaptations do not have to be present at birth  
-26:48  How hypotheses are generated in Evolutionary Psychology  
-34:07  Studying psychological mechanisms and manifest behavior, and their relationship  
-41:35  Answering Tinbergen’s 4 Questions  
-49:42  Is there any conflict between evolutionary and sociocultural hypotheses?  
-51:42  Learning in an evolutionary framework  
-54:15  Can learning alter or create novel psychological mechanisms?  
-1:01:12  What does “context” or “environment” means in Evolutionary Psychology?  
-1:03:41  Studying individual variation/differences  
-1:13:07  Can we make predictions about how our psychology will evolve in the future?  
-1:18:52  Follow Dr. Al-Shawaf’s work!
+<time>00:53</time> “Just-so stories”  
+<time>09:19</time> Natural selection doesn’t build perfectly designed biological mechanisms   
+<time>17:22</time> Evolution does not imply genetic determinism   
+<time>20:18</time> But genes are still important  
+<time>22:29</time> Adaptations do not have to be present at birth  
+<time>26:48</time> How hypotheses are generated in Evolutionary Psychology  
+<time>34:07</time> Studying psychological mechanisms and manifest behavior, and their relationship  
+<time>41:35</time> Answering Tinbergen’s 4 Questions  
+<time>49:42</time> Is there any conflict between evolutionary and sociocultural hypotheses?  
+<time>51:42</time> Learning in an evolutionary framework  
+<time>54:15</time> Can learning alter or create novel psychological mechanisms?  
+<time>1:01:12</time> What does “context” or “environment” means in Evolutionary Psychology?  
+<time>1:03:41</time> Studying individual variation/differences  
+<time>1:13:07</time> Can we make predictions about how our psychology will evolve in the future?  
+<time>1:18:52</time> Follow Dr. Al-Shawaf’s work!
 
 ---
 
@@ -49,3 +51,5 @@ Relevant papers:
 Evolutionary psychology: A how-to guide: http://bit.ly/2s72fZX  
 Context, Environment, and Learning in Evolutionary Psychology: http://bit.ly/35GTWTZ  
 Seven Key Misconceptions about Evolutionary Psychology – Areo: http://bit.ly/33F2fhh
+</div>
+

@@ -9,19 +9,21 @@ publishDate: 2023-01-06
 title: '#727 Robert Talisse: Political Philosophy, Pragmatism, Democracy, and Liberalism'
 youtubeid: c1Ie2weRg2c
 ---
+<div class="timelinks">
+
 RECORDED ON OCTOBER 17th 2022.  
 Dr. Robert Talisse is W. Alton Jones Professor of Philosophy at Vanderbilt University. His main area of research is political philosophy, with an emphasis on democratic theory and liberalism.
 
 In this episode, we talk about pragmatism, democracy, and liberalism. We start by talking about what pragmatism is, and how it applies to political philosophy. We then discuss democracy, on what grounds it is justified, and the problems of pluralism and public ignorance. Finally, we talk about liberalism, and how it connects to democracy.
 
 Time Links:  
-00:00 Intro  
-00:32  Pragmatism, and how it applies to political philosophy  
-12:41  Democracy, and the problem of pluralism  
-20:19  On what grounds is democracy justified?  
-25:21  Public ignorance  
-43:16  Liberalism  
-52:41  Follow Dr. Talisse’s work!
+<time>00:00</time> Intro  
+<time>00:32</time> Pragmatism, and how it applies to political philosophy  
+<time>12:41</time> Democracy, and the problem of pluralism  
+<time>20:19</time> On what grounds is democracy justified?  
+<time>25:21</time> Public ignorance  
+<time>43:16</time> Liberalism  
+<time>52:41</time> Follow Dr. Talisse’s work!
 
 ---
 
@@ -30,3 +32,5 @@ Faculty page: https://bit.ly/3mWSqqH
 Website: https://bit.ly/3qbMig5  
 PhilPeople profile: https://bit.ly/3O2oIgb  
 Twitter handle: @RobertTalisse
+</div>
+

@@ -16,25 +16,27 @@ title: '#596 George Zarkadakis - Cyber Republic: Reinventing Democracy in the Ag
   of Intelligent Machines'
 youtubeid: cnQvVitVB-k
 ---
+<div class="timelinks">
+
 RECORDED ON NOVEMBER 22nd 2021.  
 Dr. George Zarkadakis is a writer of fiction and non-fiction, a science communicator, an Artificial Intelligence engineer, a futurist, and a digital innovation professional. He writes fiction and non-fiction books, and he’s also working with private and public organizations to reimagine business and democratic institutions in the Fourth Industrial Revolution. He views the arts, the humanities, the natural sciences and engineering not as discrete disciplines but as a continuum, a wonderful canvas continuously enriched by human creativity and imagination. He is the author of several books, including Cyber Republic: Reinventing Democracy in the Age of Intelligent Machines.
 
 In this episode, we focus on Cyber Republic. We talk about the digital age, and how technology impacts politics. We get into the issues surrounding democracy, and how we can improve it. We discuss technological unemployment, the future of work, and Universal Basic Income as a possible solution. We discuss the potential of having a centralized planned economy based on AI. Dr. Zarkadakis gives us an overall view of his Cyber Republic, and the principles behind it. Finally, we talk about how AI could become a threat to humans.
 
 Time Links:  
-00:00 Intro  
-00:35  The premise of the book  
-01:51  The digital age  
-04:42  How technology impacts politics  
-11:12  The issues with democracy  
-13:42  Could direct democracy work?  
-19:28  How new technology can improve politics  
-25:15  Technological unemployment, and the future of work  
-32:33  Is UBI a good solution?  
-36:48  Centralized planned economy  
-45:33  A Cyber Republic  
-51:21  How AI can become a threat to humans  
-57:24  Follow Dr. Zarkadakis’ work!
+<time>00:00</time> Intro  
+<time>00:35</time> The premise of the book  
+<time>01:51</time> The digital age  
+<time>04:42</time> How technology impacts politics  
+<time>11:12</time> The issues with democracy  
+<time>13:42</time> Could direct democracy work?  
+<time>19:28</time> How new technology can improve politics  
+<time>25:15</time> Technological unemployment, and the future of work  
+<time>32:33</time> Is UBI a good solution?  
+<time>36:48</time> Centralized planned economy  
+<time>45:33</time> A Cyber Republic  
+<time>51:21</time> How AI can become a threat to humans  
+<time>57:24</time> Follow Dr. Zarkadakis’ work!
 
 ---
 
@@ -43,3 +45,5 @@ Website: https://bit.ly/3gIAA8H
 Amazon page: https://amzn.to/3D1quZp  
 Cyber Republic: https://amzn.to/3wEXymJ  
 Twitter handle: @zarkadakis
+</div>
+

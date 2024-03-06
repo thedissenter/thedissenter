@@ -9,6 +9,8 @@ publishDate: 2023-08-18
 title: '#823 Owen Flanagan: Against Happiness'
 youtubeid: zRR5UHiVACY
 ---
+<div class="timelinks">
+
 RECORDED ON JULY 24th 2023.  
 Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is co-author of Against Happiness.
 
@@ -18,20 +20,20 @@ In this episode, we focus on Against Happiness. We talk about the “happiness a
 
 
 Time Links:  
-00:00 Intro  
-00:46  The “happiness agenda”  
-03:05  Do people who say that happiness is the ultimate goal really think that themselves?  
-07:32  Is the “happiness agenda” hedonist?  
-12:42  Is it utilitarian?  
-16:04  Philosophy and positive psychology  
-24:08  What “happiness” means, and issues with how we measure it  
-47:14  Different hierarchies of values  
-53:23  Averaging subjective satisfaction scores and comparing countries  
-57:43  Answering surveys, and the influence of norms  
-59:46  Is promoting happiness a political virtue? Is that really what disadvantaged people want?  
-1:07:04  The example of feminism in China  
-1:12:49  What cross-cultural work teaches us about norms and individual differences  
-1:25:36  Follow Dr. Flanagan’s work!
+<time>00:00</time> Intro  
+<time>00:46</time> The “happiness agenda”  
+<time>03:05</time> Do people who say that happiness is the ultimate goal really think that themselves?  
+<time>07:32</time> Is the “happiness agenda” hedonist?  
+<time>12:42</time> Is it utilitarian?  
+<time>16:04</time> Philosophy and positive psychology  
+<time>24:08</time> What “happiness” means, and issues with how we measure it  
+<time>47:14</time> Different hierarchies of values  
+<time>53:23</time> Averaging subjective satisfaction scores and comparing countries  
+<time>57:43</time> Answering surveys, and the influence of norms  
+<time>59:46</time> Is promoting happiness a political virtue? Is that really what disadvantaged people want?  
+<time>1:07:04</time> The example of feminism in China  
+<time>1:12:49</time> What cross-cultural work teaches us about norms and individual differences  
+<time>1:25:36</time> Follow Dr. Flanagan’s work!
 
 ---
 
@@ -39,3 +41,5 @@ Follow Dr. Flanagan’s work:
 Faculty page: https://bit.ly/3uZ4xHX  
 PhilPeople profile: https://bit.ly/3hC6nvk  
 Against Happiness: https://bit.ly/44Hbw96
+</div>
+

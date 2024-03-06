@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '26'
 image: https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg
-publishDate: 2019-03-07
+publishDate: 2018-05-17
 title: '#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism'
 youtubeid: nDRiIm0SBL8
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -29,4 +31,5 @@ Her Twitter handle: @clairlemon
 And follow and support Quillette:  
 Website: http://quillette.com/  
 Twitter handle: @QuilletteM  
-Patreon: https://www.patreon.com/Quillette
+Patreon: https://www.patreon.com/Quillette</div>
+

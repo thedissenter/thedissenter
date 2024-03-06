@@ -3,11 +3,13 @@ draft: false
 excerpt: '------------------Apoiem o canal-------------------  '
 id: '77'
 image: https://i.ytimg.com/vi/uL8Xt8Tmvos/maxresdefault.jpg
-publishDate: 2019-05-18
+publishDate: 2018-09-26
 title: '#77 Nuno Lobo Antunes: Novo Projeto de Lei do PAN, Metilfenidato e Atomoxetina,
   PHDA'
 youtubeid: uL8Xt8Tmvos
 ---
+<div class="timelinks">
+
 ------------------Apoiem o canal-------------------  
 Patreon: https://www.patreon.com/thedissenter  
 PayPal: paypal.me/thedissenter
@@ -21,11 +23,11 @@ Nuno Lobo Antunes nasceu em Lisboa, e é neuropediatra. Licenciado em Medicina p
 Neste episódio, encontramo-nos para falar acerca de um novo projeto de lei do PAN, o 984/XIII, intitulado “Assegurar a não prescrição e administração de metilfenidato e atomoxetina a crianças com menos de 6 anos de idade” (https://tinyurl.com/y78ggz82), que foi noticiado como indo a votos na primeira quinzena de outubro.
 
 Time Links:  
-01:26  O que é a Perturbação de Hiperatividade com Défice de Atenção (PHDA)?  
-06:38  Existe um sobrediagnóstico?            
-10:32  Sobre o metilfenidato e a atomoxetina      
-22:00  Há algo de fonte científica contra a sua utilização em menores de 6 anos?    
-27:39  Utilização abusiva de uma citação do Dr. Lobo Antunes    
+<time>01:26</time> O que é a Perturbação de Hiperatividade com Défice de Atenção (PHDA)?  
+<time>06:38</time> Existe um sobrediagnóstico?            
+<time>10:32</time> Sobre o metilfenidato e a atomoxetina      
+<time>22:00</time> Há algo de fonte científica contra a sua utilização em menores de 6 anos?    
+<time>27:39</time> Utilização abusiva de uma citação do Dr. Lobo Antunes    
 
 ---
 
@@ -47,4 +49,5 @@ PSICOLOGIA: https://tinyurl.com/ybalf8km
 FILOSOFIA: https://tinyurl.com/yb6a7d3p  
 ANTROPOLOGIA: https://tinyurl.com/y8b42r7g
 
-#TheDissenter #NunoLoboAntunes #medicina #PHDA #metilfenidato #atomoxetina #PAN
+#TheDissenter #NunoLoboAntunes #medicina #PHDA #metilfenidato #atomoxetina #PAN</div>
+

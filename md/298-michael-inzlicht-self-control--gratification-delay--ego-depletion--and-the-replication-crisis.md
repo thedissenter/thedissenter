@@ -12,10 +12,12 @@ excerpt: Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the Un
 id: '298'
 image: https://i.ytimg.com/vi/fuA1l7bL954/maxresdefault.jpg
 publishDate: 2020-02-21
-title: '#298 Michael Inzlicht: Self-control, Gratification Delay, Ego-depletion, And
+title: '#298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And
   The Replication Crisis'
 youtubeid: fuA1l7bL954
 ---
+<div class="timelinks">
+
 RECORDED ON DECEMBER 10th, 2019.  
 Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University of Toronto. His primary appointment is as Professor in the Department of Psychology, but he is also cross-appointed as Professor at the Rotman School of Management. Dr. Inzlicht conducts research that sits at the boundaries of social psychology, cognitive science, and neuroscience. Although he has published papers on the topics of prejudice, academic performance, and religion, his most recent interests have been in the topics of self-control, where he borrows methods from affective and cognitive neuroscience to understand the underlying nature of self-control, including how it is driven by motivation.
 
@@ -24,18 +26,18 @@ In this episode, we focus most of our conversation of self-control and things re
 
 
 Time Links:  
-00:57  Social neuroscience. What insights can we get from neuroscience about social psychology phenomena?   
-04:39  What is self-control?  
-07:39  Self-control strength   
-10:39  The marshmallow test, and the ability to delay gratification. Has the marshmallow test failed to replicate?  
-20:25  The APA guidelines for psychological practice with men and boys, and the repression/suppression of emotions  
-26:39  The interplay between emotion and cognition  
-35:01  The positive life outcomes self-control is associated with  
-39:38  Are there any good interventions to improve self-control?  
-49:52  Is the ego-depletion effect real?  
-1:00:14  Does stereotype threat have a negative impact on people’s performance?  
-1:06:20  The replication crisis in social psychology, and the ideological biases behind it  
-1:16:36  Follow Dr. Inzlicht’s work!
+<time>00:57</time> Social neuroscience. What insights can we get from neuroscience about social psychology phenomena?   
+<time>04:39</time> What is self-control?  
+<time>07:39</time> Self-control strength   
+<time>10:39</time> The marshmallow test, and the ability to delay gratification. Has the marshmallow test failed to replicate?  
+<time>20:25</time> The APA guidelines for psychological practice with men and boys, and the repression/suppression of emotions  
+<time>26:39</time> The interplay between emotion and cognition  
+<time>35:01</time> The positive life outcomes self-control is associated with  
+<time>39:38</time> Are there any good interventions to improve self-control?  
+<time>49:52</time> Is the ego-depletion effect real?  
+<time>1:00:14</time> Does stereotype threat have a negative impact on people’s performance?  
+<time>1:06:20</time> The replication crisis in social psychology, and the ideological biases behind it  
+<time>1:16:36</time> Follow Dr. Inzlicht’s work!
 
 ---
 
@@ -49,3 +51,5 @@ Twitter handle: @minzlicht
 Some relevant papers/sources:  
 Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Gratification Delay and Later Outcomes: http://bit.ly/2YxaESS  
 Did the Marshmallow Test Fail to Replicate?: http://bit.ly/2RE22rX
+</div>
+

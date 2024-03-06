@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '28'
 image: https://i.ytimg.com/vi/zZ3h00-huR4/maxresdefault.jpg
-publishDate: 2019-03-09
+publishDate: 2018-05-21
 title: '#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence
   Offers the Humanities'
 youtubeid: zZ3h00-huR4
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -28,4 +30,5 @@ Faculty Page: https://asia.ubc.ca/persons/edward-slingerland/
 MOOC The Science of Religion: https://www.edx.org/course/science-religion-ubcx-religionx  
 Book What Science Offers the Humanities: https://www.amazon.com/What-Science-Offers-Humanities-Integrating/dp/0521701511  
 Twitter handle: @slingerland20  
-Facebook Page: https://www.facebook.com/slingerland3
+Facebook Page: https://www.facebook.com/slingerland3</div>
+

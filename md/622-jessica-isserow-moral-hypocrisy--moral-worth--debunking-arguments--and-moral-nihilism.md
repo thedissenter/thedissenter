@@ -10,22 +10,24 @@ title: '#622 Jessica Isserow: Moral Hypocrisy, Moral Worth, Debunking Arguments,
   Moral Nihilism'
 youtubeid: TzGbVBCFnxQ
 ---
+<div class="timelinks">
+
 RECORDED ON FEBRUARY 3rd 2022.  
 Dr. Jessica Isserow is a Lecturer in Moral and Political Philosophy at the School of Philosophy, Religion and History of Science at the University of Leeds. Her main research interests are in metaethics, normative ethics, and moral psychology.
 
 In this episode, we talk about questions in metaethics. Topics include: moral hypocrisy, moral authority, what makes an action morally worthy, doing the right thing by accident, having bad people as friends, evolutionary debunking arguments, moral error theory, and moral nihilism.
 
 Time Links:  
-00:00 Intro  
-00:28  What is a moral hypocrite?  
-06:10  Is it bad to be a moral hypocrite?  
-09:03  Who has moral authority?  
-16:00  When is an action morally worthy?  
-20:11  Doing the right thing by accident  
-26:30  Having bad people as friends  
-36:04  Evolutionary debunking arguments  
-43:07  Moral error theory, and moral nihilism  
-52:35  Follow Dr. Isserow’s work!
+<time>00:00</time> Intro  
+<time>00:28</time> What is a moral hypocrite?  
+<time>06:10</time> Is it bad to be a moral hypocrite?  
+<time>09:03</time> Who has moral authority?  
+<time>16:00</time> When is an action morally worthy?  
+<time>20:11</time> Doing the right thing by accident  
+<time>26:30</time> Having bad people as friends  
+<time>36:04</time> Evolutionary debunking arguments  
+<time>43:07</time> Moral error theory, and moral nihilism  
+<time>52:35</time> Follow Dr. Isserow’s work!
 
 ---
 
@@ -33,3 +35,5 @@ Follow Dr. Isserow’s work:
 University page: https://bit.ly/3kusTDH  
 Website: https://bit.ly/38kAxLl  
 PhilPeople page: https://bit.ly/2WwFMVo
+</div>
+

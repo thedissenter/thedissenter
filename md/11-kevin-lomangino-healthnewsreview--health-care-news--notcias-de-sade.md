@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '11'
 image: https://i.ytimg.com/vi/Q8wsX75Z9yY/maxresdefault.jpg
-publishDate: 2019-02-18
+publishDate: 2018-04-02
 title: "#11 Kevin Lomangino: HealthNewsReview, Health Care News | Not\xEDcias de Sa\xFA\
-  de (320 kbps)"
+  de"
 youtubeid: Q8wsX75Z9yY
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -26,4 +28,5 @@ Aqui, falamos sobre a HealthNewsReview, cuja missão é "melhorar o diálogo pú
 Kevin Lomangino Twitter: @KLomangino  
 HealthNewsReview website: https://www.healthnewsreview.org/  
 HealthNewsReview Facebook: https://www.facebook.com/HealthNewsReview.org   
-HealthNewsReview Twitter: @HealthNewsRevu
+HealthNewsReview Twitter: @HealthNewsRevu</div>
+

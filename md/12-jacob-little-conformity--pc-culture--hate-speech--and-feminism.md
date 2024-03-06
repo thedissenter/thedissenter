@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '12'
 image: https://i.ytimg.com/vi/ck2VTFbyGSA/maxresdefault.jpg
-publishDate: 2019-02-19
+publishDate: 2018-04-05
 title: '#12 Jacob Little: Conformity, PC culture, Hate Speech, and Feminism'
 youtubeid: ck2VTFbyGSA
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -19,4 +21,5 @@ Here, we talk about conformity; political correctness; hate speech; and modern-d
 
 You can check Jacob’s website, where he also has links for his literary works: https://www.jacoblittle.net/  
 Jacob’s essays at Quillette: http://quillette.com/author/jacob-little/  
-And his Twitter handle: @Little_Jaycup
+And his Twitter handle: @Little_Jaycup</div>
+

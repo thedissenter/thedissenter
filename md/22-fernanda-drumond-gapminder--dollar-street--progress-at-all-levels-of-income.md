@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '22'
 image: https://i.ytimg.com/vi/Pqoil02RlOU/maxresdefault.jpg
-publishDate: 2019-03-02
+publishDate: 2018-05-07
 title: '#22 Fernanda Drumond: Gapminder, Dollar Street, Progress at All Levels of
   Income'
 youtubeid: Pqoil02RlOU
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -31,4 +33,5 @@ Twitter handle: @Gapminder
 
 Follow Fernanda:  
 Twitter handle: @fecaroldrumond  
-Her favorite tool, Dollar Street: https://www.gapminder.org/dollar-street/matrix?thing=Families&countries=World&regions=World&zoom=4&row=1&lowIncome=26&highIncome=15000&lang=en
+Her favorite tool, Dollar Street: https://www.gapminder.org/dollar-street/matrix?thing=Families&countries=World&regions=World&zoom=4&row=1&lowIncome=26&highIncome=15000&lang=en</div>
+

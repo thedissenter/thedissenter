@@ -12,28 +12,30 @@ title: '#844 Hakwan Lau - In Consciousness We Trust: The Cognitive Neuroscience 
   Subjective Experience'
 youtubeid: MrWoLH3IUNo
 ---
+<div class="timelinks">
+
 Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness at Riken Institute. He works on the neural mechanisms of conscious perception, attention, and sensory metacognition, using human fMRI and Bayesian computational modeling. He is the author of In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience.
 
 In this episode, we focus on In Consciousness We Trust. We talk about approaching consciousness from the perspective of cognitive neuroscience, and issues with approaches from physics and philosophy. We discuss different notions of consciousness, and the distinction between global and local theories of consciousness. We talk about the neural correlates of consciousness line of research, lesion and simulation studies, and localizationist and modular perspectives of the brain. We also talk about Michael Gazzaniga, the split-brain patients, and the interpretative theory of consciousness. We discuss the functions of consciousness. We talk about what we can learn from AI research. We discuss what we really know about animal consciousness, and if AI can be conscious. We talk about how social and clinical scientists approach consciousness. Finally, we discuss the hard problem of consciousness.
 
 Time Links:  
-00:00 Intro  
-00:42  Approaching consciousness from the perspective of cognitive neuroscience  
-03:18  Approaches from physics and philosophy  
-08:24  Different notions of consciousness  
-12:10  Global versus local theories of consciousness  
-15:17  The neural correlates of consciousness  
-21:07  Lesion and stimulation studies  
-28:26  Localizationist and modular perspectives of the brain  
-31:24  Michael Gazzaniga, the split-brain patients, and the interpretative theory of consciousness  
-35:41  The functions of consciousness  
-43:44  A centrist approach to consciousness  
-44:44  What we can learn from AI research  
-48:32  What do we know about animal consciousness?  
-55:29  Can AI be conscious?  
-1:02:56  How social and clinical scientists approach consciousness  
-1:05:54  The hard problem of consciousness  
-1:10:44  Follow Dr. Lau’s work!
+<time>00:00</time> Intro  
+<time>00:42</time> Approaching consciousness from the perspective of cognitive neuroscience  
+<time>03:18</time> Approaches from physics and philosophy  
+<time>08:24</time> Different notions of consciousness  
+<time>12:10</time> Global versus local theories of consciousness  
+<time>15:17</time> The neural correlates of consciousness  
+<time>21:07</time> Lesion and stimulation studies  
+<time>28:26</time> Localizationist and modular perspectives of the brain  
+<time>31:24</time> Michael Gazzaniga, the split-brain patients, and the interpretative theory of consciousness  
+<time>35:41</time> The functions of consciousness  
+<time>43:44</time> A centrist approach to consciousness  
+<time>44:44</time> What we can learn from AI research  
+<time>48:32</time> What do we know about animal consciousness?  
+<time>55:29</time> Can AI be conscious?  
+<time>1:02:56</time> How social and clinical scientists approach consciousness  
+<time>1:05:54</time> The hard problem of consciousness  
+<time>1:10:44</time> Follow Dr. Lau’s work!
 
 ---
 
@@ -43,3 +45,5 @@ Website: http://bit.ly/3Xiva77
 ResearchGate profile: https://bit.ly/3XpRUSP  
 In Consciousness We Trust: https://bit.ly/42aGxQi  
 Twitter handle: @hakwanlau
+</div>
+

@@ -11,19 +11,21 @@ title: '#441 Francesca Minerva: Abortion, Cryonics, Lookism, and the Journal of 
   Ideas'
 youtubeid: Ap_zUVLPghY
 ---
+<div class="timelinks">
+
 RECORDED ON FEBRUARY 5th 2021.  
 Dr. Francesca Minerva is a research fellow at Warwick University and a post-doctoral fellow at the University of Ghent. She is the co-founder and co-editor of the Journal of Controversial Ideas. Her research focuses on applied philosophy, including lookism, conscientious objection, abortion, academic freedom, and cryonics.
 
 In this episode, we talk about cryonics, lookism, abortion, academic freedom, and conscientious objection. We start with abortion, and refer to abortion before and after birth. We also discuss euthanasia, before moving on to cryonics, and life extension. We then talk about lookism, and discrimination against unattractive people, and what we can do about it. We talk briefly about conscientious objection applied to a medical context, focusing on abortion. Finally, we discuss academic Freedom, and the Journal of Controversial Ideas and its goals. 
 
 Time Links:  
-00:00 Intro  
-00:34  Abortion, and euthanasia  
-07:54  Cryonics, and indefinite life extension  
-25:43  Lookism, and cosmetic surgery  
-37:48  Conscientious objection  
-42:00  The Journal of Controversial Ideas, and academic freedom  
-56:02  Follow Dr. Minerva’s work!
+<time>00:00</time> Intro  
+<time>00:34</time> Abortion, and euthanasia  
+<time>07:54</time> Cryonics, and indefinite life extension  
+<time>25:43</time> Lookism, and cosmetic surgery  
+<time>37:48</time> Conscientious objection  
+<time>42:00</time> The Journal of Controversial Ideas, and academic freedom  
+<time>56:02</time> Follow Dr. Minerva’s work!
 
 ---
 
@@ -35,3 +37,5 @@ PhilPeople page: http://bit.ly/36GeDBK
 ResearchGate profile: https://bit.ly/3pUVjbx  
 The Ethics of Cryonics: http://amzn.to/3tuoKna  
 Twitter handle: @FranciMinerva
+</div>
+

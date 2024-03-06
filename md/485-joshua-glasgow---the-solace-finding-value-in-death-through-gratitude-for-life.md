@@ -13,30 +13,32 @@ title: '#485 Joshua Glasgow - The Solace: Finding Value in Death through Gratitu
   for Life'
 youtubeid: Zo1C-BXawgQ
 ---
+<div class="timelinks">
+
 RECORDED ON MARCH 16th 2021.  
 Dr. Joshua Glasgow is Associate Professor in (and Chair of) the Philosophy Department at Sonoma State University. Dr. Glasgow works on a variety of topics in moral, political, and legal philosophy.  His publications have covered a variety of issues concerning ethics, the good life, race and racism, language, law, mind, and more. He’s the author of The Solace: Finding Value in Death Through Gratitude for Life.
 
 In this episode, we focus on The Solace. We discuss questions like “What is the meaning of life?”, “What is a good life?”, “Is death bad?”, “What if we lived forever?”, and we tackle several opposite views coming from pessimists, nihilists, and even antinatalists.
 
 Time Links:  
-00:00 Intro  
-00:46  The premise of the book  
-03:48  Is life meaningful?  
-06:24  Can we evaluate life objectively?  
-08:45  What is a good life?  
-16:15  Finding value in death  
-19:14  Immortality  
-21:46  Antinatalism  
-26:11  Should people think more about death?  
-29:59  Suicide  
-32:36  Pessimism, and nihilism  
-39:17  Nietzsche’s Eternal Return  
-41:25  Lives not worth living  
-42:14  Should we always be grateful for our lives?  
-44:08  The Epicurean approach  
-47:35  Can people live good lives without thinking about death?  
-48:35  Objective goods  
-54:30  Follow Dr. Glasgow’s work!
+<time>00:00</time> Intro  
+<time>00:46</time> The premise of the book  
+<time>03:48</time> Is life meaningful?  
+<time>06:24</time> Can we evaluate life objectively?  
+<time>08:45</time> What is a good life?  
+<time>16:15</time> Finding value in death  
+<time>19:14</time> Immortality  
+<time>21:46</time> Antinatalism  
+<time>26:11</time> Should people think more about death?  
+<time>29:59</time> Suicide  
+<time>32:36</time> Pessimism, and nihilism  
+<time>39:17</time> Nietzsche’s Eternal Return  
+<time>41:25</time> Lives not worth living  
+<time>42:14</time> Should we always be grateful for our lives?  
+<time>44:08</time> The Epicurean approach  
+<time>47:35</time> Can people live good lives without thinking about death?  
+<time>48:35</time> Objective goods  
+<time>54:30</time> Follow Dr. Glasgow’s work!
 
 ---
 
@@ -46,3 +48,5 @@ Website: https://bit.ly/382ZiMJ
 PhilPeople profile: http://bit.ly/3bTWqUj  
 Amazon page: http://amzn.to/38RHKDo  
 The Solace: https://amzn.to/3aVKP6Z
+</div>
+

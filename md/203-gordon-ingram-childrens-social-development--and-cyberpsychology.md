@@ -8,22 +8,24 @@ excerpt: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad 
   \ everyday communication online."
 id: '203'
 image: https://i.ytimg.com/vi/0jrTt0Mzx0U/maxresdefault.jpg
-publishDate: 2019-07-15
+publishDate: 2019-07-29
 title: '#203 Gordon Ingram: Children''s Social Development, And Cyberpsychology'
 youtubeid: 0jrTt0Mzx0U
 ---
+<div class="timelinks">
+
 Dr. Gordon Ingram is Associate Professor of Psychology at Universidad de los Andes, Colombia.  He teaches undergraduate courses in Developmental Psychology, Cyberpsychology, and Psychology of Language, and a graduate course in Cognition and Culture. He supervises several graduate students researching children’s social and moral development. His research centers on children’s and adolescents’ everyday communication online.
 
 In this episode, we first talk about children’s social development, with particular focus on how they develop/acquire norms and start caring about norm violation. In the second part, we discuss the emerging field of cyberpsychology, the differences between the virtual and the real worlds, and also cyberbullying.
 
 Time Links:  
-00:45  Early stages of children’s social development  
-15:19  When children start caring about norm violation, and they use tattling and gossiping   
-28:50  Cyberpsychology, and people’s online social interactions                                                  
-37:56  Can the internet affect children’s social development in any way?                                              
-42:30  Why is it so easy for people to get angry on the internet?                                                         
-48:42  Cyberbullying             
-55:02  Follow Dr. Ingram’s work!
+<time>00:45</time> Early stages of children’s social development  
+<time>15:19</time> When children start caring about norm violation, and they use tattling and gossiping   
+<time>28:50</time> Cyberpsychology, and people’s online social interactions                                                  
+<time>37:56</time> Can the internet affect children’s social development in any way?                                              
+<time>42:30</time> Why is it so easy for people to get angry on the internet?                                                         
+<time>48:42</time> Cyberbullying             
+<time>55:02</time> Follow Dr. Ingram’s work!
 
 ---
 
@@ -38,3 +40,5 @@ Children’s Tattling: The Reporting of Everyday Norm Violations in Preschool Se
 Children’s Reporting of Peers’ Behaviour: https://bit.ly/2YwskNd  
 Gossip: https://bit.ly/2Js5X8i  
 Evolutionary Cyberpsychology 2.0: Revisiting Some Old Predictions and Posting Some New Ones in the Age of Facebook: https://bit.ly/2JtI8Nc
+</div>
+

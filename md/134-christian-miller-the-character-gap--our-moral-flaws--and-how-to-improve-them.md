@@ -15,20 +15,22 @@ title: '#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Im
   Them'
 youtubeid: k_Cr4J7fAbY
 ---
+<div class="timelinks">
+
 Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake Forest University. His research is primarily in contemporary ethics and philosophy of religion. He has written for the Wall Street Journal, Dallas Morning News, Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation, Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute of Art and Ideas, and Christianity Today. He’s the author of three books, including Moral Character: An Empirical Theory, Character and Moral Psychology, and the most recent one, The Character Gap: How Good Are We?.   
 In this episode, our conversation focuses on Dr. Miller’s book, The Character Gap. We talk about moral realism, and alternative approaches to morality. We also refer to some psychological experiments that reveal our moral flaws, and how we can improve them. We also discuss utilitarianism and the effective altruism movement.  
 
 Time Links:  
-00:42  About moral realism, and how we determine our moral flaws  
-07:38  Knowing our moral shortcomings through Psychology                             
-12:31  Why are motivations important?             
-19:15  More examples of moral characters flaws          
-23:58  Is feeling good enough?     
-29:39  Utilitarianism, and the effective altruism movement           
-32:49  How to improve our moral character      
-40:26  What we know about the role religion can play (and what we need to study more)      
-48:05  Do people need to believe in God?    
-50:18  Follow Dr. Miller’s work!
+<time>00:42</time> About moral realism, and how we determine our moral flaws  
+<time>07:38</time> Knowing our moral shortcomings through Psychology                             
+<time>12:31</time> Why are motivations important?             
+<time>19:15</time> More examples of moral characters flaws          
+<time>23:58</time> Is feeling good enough?     
+<time>29:39</time> Utilitarianism, and the effective altruism movement           
+<time>32:49</time> How to improve our moral character      
+<time>40:26</time> What we know about the role religion can play (and what we need to study more)      
+<time>48:05</time> Do people need to believe in God?    
+<time>50:18</time> Follow Dr. Miller’s work!
 
 ---
 
@@ -37,3 +39,5 @@ Website: https://tinyurl.com/y7hsr77u
 The Character Project: http://www.thecharacterproject.com/  
 Books: https://tinyurl.com/y7n5xaht  
 Twitter handle: @CharacterGap
+</div>
+

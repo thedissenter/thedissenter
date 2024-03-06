@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '18'
 image: https://i.ytimg.com/vi/ARZkYwT-H20/maxresdefault.jpg
-publishDate: 2019-02-26
+publishDate: 2018-04-23
 title: '#18 Eric Smith: The Origin and Nature of Life on Earth'
 youtubeid: ARZkYwT-H20
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -24,4 +26,5 @@ Aqui, percorremos o conteúdo principal do seu livro de 2016, The Origin and Nat
 
 Faculty page at Tokyo Institute of Technology: http://www.elsi.jp/en/research/member/researcher/professor/Eric-Smith.html  
 Faculty page at Santa Fe Institute: https://www.santafe.edu/people/profile/d-eric-smith  
-Book The Origin and Nature of Life on Earth: https://www.amazon.com/Origin-Nature-Life-Earth-Emergence/dp/1107121884
+Book The Origin and Nature of Life on Earth: https://www.amazon.com/Origin-Nature-Life-Earth-Emergence/dp/1107121884</div>
+

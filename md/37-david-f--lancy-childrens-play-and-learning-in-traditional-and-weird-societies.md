@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '37'
 image: https://i.ytimg.com/vi/h1an2BPvFow/maxresdefault.jpg
-publishDate: 2019-03-22
+publishDate: 2018-06-18
 title: '#37 David F. Lancy: Children''s Play and Learning in Traditional and WEIRD
   Societies'
 youtubeid: h1an2BPvFow
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -26,4 +28,5 @@ Aqui, falamos sobre a brincadeira nas crianças como universal humano; o comport
 Follow Dr. Lancy’s work:  
 Faculty page: http://www.cambridge.org/us/academic/authors/239709#iW28x5caQADeAqq0.97  
 His Psychology Today blog: https://www.psychologytoday.com/intl/blog/benign-neglect  
-His books: https://www.amazon.com/David-F.-Lancy/e/B001HP196G
+His books: https://www.amazon.com/David-F.-Lancy/e/B001HP196G</div>
+

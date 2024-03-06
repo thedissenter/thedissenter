@@ -12,6 +12,8 @@ title: '#637 Lars Sandman: Ethics in Healthcare, Priority Settings, and End-of-L
   Decisions'
 youtubeid: yOuX36Erss0
 ---
+<div class="timelinks">
+
 RECORDED ON MARCH 14th 2022.  
 Dr. Lars Sandman is Professor of Healthcare Ethics at Linköping University, and Director at National Centre for Priorities in Health, in Sweden. His research area is organizational ethics in healthcare, focusing on priority setting and ethical analysis of healthcare methods. He is the author of A Good Death: On the Value of Death and Dying.
 
@@ -19,18 +21,18 @@ In this episode, we talk about ethics in healthcare. We talk about organizationa
 
 
 Time Links:  
-00:00 Intro  
-00:43  Organizational ethics in healthcare  
-02:41  Person Centered Care  
-07:04  Personalized/Precision Medicine  
-16:17  What are healthcare priority settings?  
-21:11  Should plastic surgery be publicly funded?  
-27:43  Patient involvement in health policy  
-34:36  Patient involvement in medical decisions  
-39:25  Withholding and withdrawing treatment for cost‐effectiveness reasons  
-48:06  Death and end-of-life decisions. Is there such a thing as a good death?  
-55:56  Should people be able to choose when and how they die?  
-1:00:36  Follow Dr. Sandman’s work!
+<time>00:00</time> Intro  
+<time>00:43</time> Organizational ethics in healthcare  
+<time>02:41</time> Person Centered Care  
+<time>07:04</time> Personalized/Precision Medicine  
+<time>16:17</time> What are healthcare priority settings?  
+<time>21:11</time> Should plastic surgery be publicly funded?  
+<time>27:43</time> Patient involvement in health policy  
+<time>34:36</time> Patient involvement in medical decisions  
+<time>39:25</time> Withholding and withdrawing treatment for cost‐effectiveness reasons  
+<time>48:06</time> Death and end-of-life decisions. Is there such a thing as a good death?  
+<time>55:56</time> Should people be able to choose when and how they die?  
+<time>1:00:36</time> Follow Dr. Sandman’s work!
 
 ---
 
@@ -38,3 +40,5 @@ Follow Dr. Sandman’s work:
 Faculty page: https://bit.ly/3nimNJ7  
 ResearchGate profile: https://bit.ly/3wOkUr3  
 A Good Death: https://amzn.to/3Cj67Ws
+</div>
+

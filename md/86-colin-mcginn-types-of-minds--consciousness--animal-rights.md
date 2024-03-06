@@ -3,10 +3,12 @@ draft: false
 excerpt: '------------------Support me---------  '
 id: '86'
 image: https://i.ytimg.com/vi/G02tTbeY964/maxresdefault.jpg
-publishDate: 2019-05-31
+publishDate: 2018-10-15
 title: '#86 Colin McGinn: Types of Minds, Consciousness, Animal Rights'
 youtubeid: G02tTbeY964
 ---
+<div class="timelinks">
+
 ------------------Support me---------  
 Patreon: https://www.patreon.com/thedissenter  
 PayPal: paypal.me/thedissenter
@@ -20,23 +22,25 @@ Dr. Colin McGinn has taught philosophy at institutions of higher learning includ
 In this episode, I talk with Dr. McGinn about minds and consciousness. More specifically, about what is a mind; the different types of minds; how to avoid dualism; if the phenomenology of consciousness can be scientifically explained; the continuity of mental capacities between animals; a couple of science fiction proposals, like creating conscious machines, and mind uploading; and animal rights.
 
 Time Links:  
-00:54  Types of minds        
-02:16  But, what is a mind?      
-06:20  Is the mind a single entity?  
-09:06  Does dualism still make sense?  
-14:08  The mind of a bat          
-19:28  Are mental capacities continuous between species?       
-21:48  The mysteriousness of consciousness    
-28:48  Does consciousness have several parts?   
-32:32  Are there degrees of consciousness along the animal kingdom?    
-34:49  Is language important for consciousness?  
-40:09  Is it possible to create conscious machines?  
-44:07  And what about uploading minds to computers?  
-48:25  Types of minds and animal rights  
-55:20  Where to follow Dr. McGinn’s work
+<time>00:54</time> Types of minds        
+<time>02:16</time> But, what is a mind?      
+<time>06:20</time> Is the mind a single entity?  
+<time>09:06</time> Does dualism still make sense?  
+<time>14:08</time> The mind of a bat          
+<time>19:28</time> Are mental capacities continuous between species?       
+<time>21:48</time> The mysteriousness of consciousness    
+<time>28:48</time> Does consciousness have several parts?   
+<time>32:32</time> Are there degrees of consciousness along the animal kingdom?    
+<time>34:49</time> Is language important for consciousness?  
+<time>40:09</time> Is it possible to create conscious machines?  
+<time>44:07</time> And what about uploading minds to computers?  
+<time>48:25</time> Types of minds and animal rights  
+<time>55:20</time> Where to follow Dr. McGinn’s work
 
 ---
 
 Follow Dr. Jones’s work:  
 Personal Website: http://www.colinmcginn.net/  
 Books: https://tinyurl.com/ya4t39yj
+</div>
+

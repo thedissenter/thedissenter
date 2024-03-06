@@ -15,6 +15,8 @@ publishDate: 2020-02-28
 title: '#301 Michael Masters: The Anthropology Of Identified Flying Objects'
 youtubeid: j0r6ig0S3Jc
 ---
+<div class="timelinks">
+
 RECORDED ON DECEMBER 16th, 2019.  
 Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial morphology, and how competition among these features may act to constrain the eye and surrounding ocular tissues during ontogeny, as it relates to the disparate incidence & severity of astigmatism and juvenile-onset myopia. Further research interests center on investigating hominin biocultural evolution, astrobiology, astronomy and the physics of time as they relate to the UFO phenomenon. On that pic, he has written a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon.
 
@@ -23,15 +25,15 @@ In this episode, we focus on the thesis that Dr. Masters puts forward in his boo
 
 
 Time Links:  
-01:09  The UFO phenomenon  
-04:44  Time travel, and humans from the future  
-09:12  Unreliability of the sources   
-11:45  Trends in human evolution  
-14:49  Could they really be just aliens?  
-17:29  The theoretical basis of time travel  
-30:13  What could people from the future gain from backward time travel?  
-38:04  Can we ever validate this hypothesis?  
-41:05  Follow Dr. Masters’ work!
+<time>01:09</time> The UFO phenomenon  
+<time>04:44</time> Time travel, and humans from the future  
+<time>09:12</time> Unreliability of the sources   
+<time>11:45</time> Trends in human evolution  
+<time>14:49</time> Could they really be just aliens?  
+<time>17:29</time> The theoretical basis of time travel  
+<time>30:13</time> What could people from the future gain from backward time travel?  
+<time>38:04</time> Can we ever validate this hypothesis?  
+<time>41:05</time> Follow Dr. Masters’ work!
 
 ---
 
@@ -41,3 +43,5 @@ Website: http://bit.ly/2sz5Hgc
 ResearchGate profile: http://bit.ly/2pJOijK  
 Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon: https://amzn.to/2obda3j  
 Twitter handle: @MorphoTime
+</div>
+

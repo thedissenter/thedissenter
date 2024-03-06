@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '27'
 image: https://i.ytimg.com/vi/Ix9unxtU7FY/maxresdefault.jpg
-publishDate: 2019-03-08
+publishDate: 2018-05-18
 title: '#27 Virtutis Discipulus: Evolution of Language, Spelling Agreements, Virtue'
 youtubeid: Ix9unxtU7FY
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -23,4 +25,5 @@ O meu convidado, hoje, é o Virtutis Discipulus, o anfitrião do canal do Youtub
 Aqui, falamos sobre as suas “lecturas”, e o trabalho de pesquisa que faz para as preparar; a evolução da língua; o mais recente Acordo Ortográfico implementado em Portugal e noutros países de Língua Portuguesa, e os seus críticos; a relação entre a forma como falamos e a forma como escrevemos; e tópicos relacionados.
 
 Virtutis Discipulus Youtube channel: https://www.youtube.com/channel/UCJMeIROyniRsLzIFDQoxB6w  
-Facebook page: https://www.facebook.com/VirtutisDiscipulus/
+Facebook page: https://www.facebook.com/VirtutisDiscipulus/</div>
+

@@ -13,29 +13,31 @@ title: '#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulat
   of Armed Conflict'
 youtubeid: PiJ6q-Ro1yE
 ---
+<div class="timelinks">
+
 RECORDED ON FEBRUARY 14th 2022.  
 Dr. Tanisha Fazal is a Professor of Political Science at the University of Minnesota. Her research and teaching focus on sovereignty, international law, medical care in conflict zones, and armed conflict. From 2021–2023, she is also an Andrew Carnegie Fellow. She is the author of State Death: The Politics and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended Consequences in the Regulation of Armed Conflict.
 
 In this episode, we focus on Wars of Law. We talk about the history of laws of war, and particularly declarations of war and peace treaties. We discuss their goals, the perverse incentives they introduce, their effects on rates of war initiation, who are their framers, and their biases. We talk about how rebel groups engage with them, and people that should be included in the future. We discuss several problems with Pinker’s decline-of-war thesis. Finally, we ask if laws of war disincentivize or try to eliminate war.
 
 Time Links:  
-00:00 Intro  
-00:46  What are laws of war?  
-03:03  Declarations of war and peace treaties  
-05:41  Laws introduced during the XX century  
-07:40  The goals of laws of war  
-12:05  Rates of war initiation since WWII  
-14:12  What counts as “war”?  
-16:04  The framers of laws of war  
-17:01  Are these laws biased? Do they create perverse incentives?  
-19:31  Rebel groups, and how they engage with international humanitarian law  
-24:06  Civil wars  
-25:42  New people engaging in lawmaking efforts  
-31:23  Is it possible the remove the perverse incentives?  
-32:16  Problems with Steven Pinker’s decline-of-war thesis  
-46:02  Cyber armed conflict and lethal autonomous weapons systems  
-49:27  Do laws of war disincentivize or try to eliminate war?  
-52:43  Follow Dr. Fazal’s work!
+<time>00:00</time> Intro  
+<time>00:46</time> What are laws of war?  
+<time>03:03</time> Declarations of war and peace treaties  
+<time>05:41</time> Laws introduced during the XX century  
+<time>07:40</time> The goals of laws of war  
+<time>12:05</time> Rates of war initiation since WWII  
+<time>14:12</time> What counts as “war”?  
+<time>16:04</time> The framers of laws of war  
+<time>17:01</time> Are these laws biased? Do they create perverse incentives?  
+<time>19:31</time> Rebel groups, and how they engage with international humanitarian law  
+<time>24:06</time> Civil wars  
+<time>25:42</time> New people engaging in lawmaking efforts  
+<time>31:23</time> Is it possible the remove the perverse incentives?  
+<time>32:16</time> Problems with Steven Pinker’s decline-of-war thesis  
+<time>46:02</time> Cyber armed conflict and lethal autonomous weapons systems  
+<time>49:27</time> Do laws of war disincentivize or try to eliminate war?  
+<time>52:43</time> Follow Dr. Fazal’s work!
 
 ---
 
@@ -46,3 +48,5 @@ ResearchGate profile: https://bit.ly/3bokOMG
 Amazon page: https://amzn.to/2ZvMLQe  
 Wars of Law: https://amzn.to/2ZvMRHA  
 Twitter handle: @tanishafazal
+</div>
+

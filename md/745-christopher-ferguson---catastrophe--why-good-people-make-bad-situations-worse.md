@@ -11,27 +11,29 @@ title: '#745 Christopher Ferguson - Catastrophe!; Why Good People Make Bad Situa
   Worse'
 youtubeid: 1MPBx3t5_7U
 ---
+<div class="timelinks">
+
 RECORDED ON FEBRUARY 6th 2023.  
 Dr. Christopher J. Ferguson is professor of psychology at Stetson University. He is interested in media violence and, in particular, video games. He’s the author of Catastrophe!: How Psychology Explains Why Good People Make Bad Situations Worse.
 
 In this episode, we focus on “Catastrophe!”. We talk about the cognitive biases that people have during emergencies. We get into topics like trends in suicide rates and blaming social media for it, views on relationships between races in the US. We discuss if the idea of the “madness of crowds” is useful, and availability cascades and social contagion. We talk about how the COVID-19 pandemic became another culture war. We also get into terrorism statistics and how people overreact to it, and the causes of violence and its link to mental disorder. We discuss why it is so hard to tackle climate change. Finally, we talk about how we can manage crises better. 
 
 Time Links:  
-00:00  Intro  
-00:38  How people react to catastrophe: cognitive biases during catastrophe  
-15:56  Trends in suicide rates, and why they have gone up in the US  
-24:32  Blaming social media. Is it really causing mental health issues?  
-34:55  Views on relationships between races in the US  
-50:06  Is the idea of the “madness of crowds” useful?  
-1:03:38  Availability cascades and social contagion  
-1:14:51  What can we do during an availability cascade?  
-1:21:29  How did the COVID-19 pandemic turn into another culture war?  
-1:31:46  Terrorism statistics  
-1:39:15  The causes of violence, and the link with mental disorder  
-1:51:16  Why is it so hard to tackle climate change?  
-2:01:49  How we can manage crises better  
-2:07:35  Most people are reasonable  
-2:10:35  Follow Dr. Ferguson’s work!
+<time>00:00</time> Intro  
+<time>00:38</time> How people react to catastrophe: cognitive biases during catastrophe  
+<time>15:56</time> Trends in suicide rates, and why they have gone up in the US  
+<time>24:32</time> Blaming social media. Is it really causing mental health issues?  
+<time>34:55</time> Views on relationships between races in the US  
+<time>50:06</time> Is the idea of the “madness of crowds” useful?  
+<time>1:03:38</time> Availability cascades and social contagion  
+<time>1:14:51</time> What can we do during an availability cascade?  
+<time>1:21:29</time> How did the COVID-19 pandemic turn into another culture war?  
+<time>1:31:46</time> Terrorism statistics  
+<time>1:39:15</time> The causes of violence, and the link with mental disorder  
+<time>1:51:16</time> Why is it so hard to tackle climate change?  
+<time>2:01:49</time> How we can manage crises better  
+<time>2:07:35</time> Most people are reasonable  
+<time>2:10:35</time> Follow Dr. Ferguson’s work!
 
 ---
 
@@ -42,3 +44,5 @@ Website: https://bit.ly/2ZBxNFz
 Psychology Today blog: https://bit.ly/2Fw6Rjo  
 Catastrophe!: https://bit.ly/3VLi0ih  
 Twitter handle: @CJFerguson1111
+</div>
+

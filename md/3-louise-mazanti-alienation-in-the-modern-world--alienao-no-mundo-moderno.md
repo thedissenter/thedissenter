@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
 id: '3'
 image: https://i.ytimg.com/vi/6gJ_Y3eFaNc/maxresdefault.jpg
-publishDate: 2019-02-04
+publishDate: 2018-02-21
 title: "#3 Louise Mazanti: Alienation in the Modern World | Aliena\xE7\xE3o no Mundo\
   \ Moderno"
 youtubeid: 6gJ_Y3eFaNc
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter
 
 Follow me on / Sigam-me:  
@@ -30,4 +32,5 @@ Follow Dr. Mazanti / Sigam a Dra. Mazanti:
 Website: https://www.mazantilousada.com/  
 Twitter: https://twitter.com/louise_mazanti  
 Book Real Sex / Livro Real Sex: https://tinyurl.com/yaya8kw6  
-Youtube channel / Canal do Youtube: https://www.youtube.com/user/heartdaka
+Youtube channel / Canal do Youtube: https://www.youtube.com/user/heartdaka</div>
+

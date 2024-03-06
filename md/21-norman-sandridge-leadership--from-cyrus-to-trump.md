@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '21'
 image: https://i.ytimg.com/vi/iYnq7-l8btg/maxresdefault.jpg
-publishDate: 2019-03-01
+publishDate: 2018-05-03
 title: '#21 Norman Sandridge: Leadership, from Cyrus to Trump'
 youtubeid: iYnq7-l8btg
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -25,4 +27,5 @@ Check out Dr. Sandridge’s work:
 Faculty Page: http://classics.coas.howard.edu/fac_sandridge.htm  
 Book Loving Humanity, Learning, and Being Honored: http://www.hup.harvard.edu/catalog.php?isbn=9780674067028  
 Medium essays: https://medium.com/@normansandridge  
-Twitter handle: @NormanSandridge
+Twitter handle: @NormanSandridge</div>
+

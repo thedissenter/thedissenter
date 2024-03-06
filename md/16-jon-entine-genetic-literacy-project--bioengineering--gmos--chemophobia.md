@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '16'
 image: https://i.ytimg.com/vi/KX9GQLPAQrU/maxresdefault.jpg
-publishDate: 2019-02-23
+publishDate: 2018-04-16
 title: '#16 Jon Entine: Genetic Literacy Project, Bioengineering, GMOs, Chemophobia'
 youtubeid: KX9GQLPAQrU
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -25,4 +27,5 @@ Aqui, falamos sobre o Genetic Literacy Project; genes e manipulação genética;
 Genetic Literacy Project website: https://geneticliteracyproject.org/  
 Genetic Literacy Project Facebook: https://www.facebook.com/GeneticLiteracyProject/  
 Genetic Literacy Project Twitter handle: @GeneticLiteracy  
-Jon Entine’s Twitter handle: @JonEntine
+Jon Entine’s Twitter handle: @JonEntine</div>
+

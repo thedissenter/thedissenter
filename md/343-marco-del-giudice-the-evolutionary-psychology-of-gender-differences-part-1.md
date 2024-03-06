@@ -18,6 +18,8 @@ title: '#343 Marco Del Giudice: The Evolutionary Psychology of Gender Difference
   (Part 1)'
 youtubeid: 4NVj6mCDJ5M
 ---
+<div class="timelinks">
+
 RECORDED ON April 22nd, 2020.  
 Dr. Marco Del Giudice is Associate Professor in the Department of Psychology at the University of New Mexico. In his work he explores a wide range of topics at the intersection of human behavior, evolution, and development. His approach is interdisciplinary and driven by the quest for theoretical synthesis. Over the years he has developed some broad, integrative models: the Adaptive Calibration Model of individual differences in stress responsivity (with Bruce Ellis and Birdie Shirtcliff); an evolutionary-developmental model of sex differences in attachment styles; and a unifying life history framework for evolutionary psychopathology. Most of his current empirical work is devoted to testing, advancing, and refining these models with a variety of research methods. He’s the author of Evolutionary Psychopathology: A Unified Approach.
 
@@ -25,12 +27,12 @@ In this episode, we focus on psychological gender differences. We talk about per
 This is a 2-part talk on gender differences. The second part will probably be released in August 2020.
 
 Time Links:  
-00:33  Gender differences in personality, including risk-taking  
-16:05  Univariate vs multivariate analyses  
-32:41  The interpersonal circumplex model (IPC) – dominance and nurturance  
-39:40  Cooperation and competition in males and females  
-59:19  Gender differences in communication (verbal, non-verbal)  
-1:09:06  Follow Dr. Del Giudice’s work!
+<time>00:33</time> Gender differences in personality, including risk-taking  
+<time>16:05</time> Univariate vs multivariate analyses  
+<time>32:41</time> The interpersonal circumplex model (IPC) – dominance and nurturance  
+<time>39:40</time> Cooperation and competition in males and females  
+<time>59:19</time> Gender differences in communication (verbal, non-verbal)  
+<time>1:09:06</time> Follow Dr. Del Giudice’s work!
 
 ---
 
@@ -43,3 +45,5 @@ Eight Things You Need to Know About Sex, Gender, Brains, and Behavior: A Guide f
 Sex Differences in Brain and Behavior: Eight Counterpoints: https://bit.ly/2yGMlc3  
 Evolutionary Psychopathology: A Unified Approach: https://amzn.to/2ZbilSn  
 Our first interview (Evolutionary Psychopathology, Attachment, And Life History): https://youtu.be/am0fbTEGXQg
+</div>
+

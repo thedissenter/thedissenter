@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '7'
 image: https://i.ytimg.com/vi/m6CBqTS2vxU/maxresdefault.jpg
-publishDate: 2019-02-13
+publishDate: 2018-03-19
 title: '#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto
   Venus'
 youtubeid: m6CBqTS2vxU
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -41,4 +43,5 @@ Canal do Youtube: https://www.youtube.com/channel/UCPNMR_iABvyFmc3G9i1r3Lw
 Lista de emails dos Pontos de Contacto: https://docs.google.com/spreadsheets/d/1lAFtYjkkCuepHNI5Kybjhn-iSQgiJxdWZhsXKjiK3u8/edit#gid=0  
 Forum da Linguistic Team International: http://forum.linguisticteam.org/  
 Página do Facebook The Venus Project Global: https://www.facebook.com/TheVenusProjectGlobal/  
-TVP Support International: https://www.facebook.com/groups/TVP.Support/
+TVP Support International: https://www.facebook.com/groups/TVP.Support/</div>
+

@@ -19,23 +19,25 @@ title: '#232 Glenn Geher: Positive Evolutionary Psychology, Darwin''s Guide to L
   a Richer Life'
 youtubeid: aUCEml0DyYI
 ---
+<div class="timelinks">
+
 RECORDED ON AUGUST 30TH, 2019.  
 Dr. Glenn Geher is Professor of Psychology at the State University of New York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence for both Teaching and Research. In addition to teaching various courses and directing the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director of the campus’ Evolutionary Studies (EvoS) program. He is also credited as the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has also published several books including Evolutionary Psychology 101, Mating Intelligence Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence, his Psychology Today blog, Dr. Geher addresses various topics related to the human condition. He has recently released a new book, Positive Evolutionary Psychology: Darwin's Guide to Living a Richer Life.
 
 In this episode, we focus on Dr. Geher’s recent book, Positive Evolutionary Psychology. We talk about the history and the topics of interest of the field of Positive Psychology, and what Evolutionary Psychology adds to the picture. We address a potential criticism, having to do with Positive Evolutionary Psychology being a scientific field with a moral goal. Then we get into the nitty-gritty of the thesis of the book, and talk about the importance of integrating the negative aspects of our psychology; considering individual differences; the issue of evolutionary mismatch; politics; religion; our evolved morality, and how we can expand our moral circles; and the literature on estrangements and the importance of making amends. Dr. Geher leaves us with some remarks on the nefarious aspects of modern technology. 
 
 Time Links:  
-01:17  The history of Positive Psychology  
-12:28  Does Positive Evolutionary Psychology have a moral goal, and is that a problem?  
-21:14  Integrating the negative aspects of our psychology (or what we don’t like about it)  
-31:09  There’s no single formula that works for everybody  
-37:00  Evolutionary mismatch, and how we can improve our modern environments  
-52:06  Social life, politics, and religion  
-1:00:17  Expanding our moral circles  
-1:05:52  The impact of estrangements, and the importance of making amends   
-1:12:02  The interplay between the individual and the collective  
-1:15:46  Some final remarks on modern technology  
-1:18:55  Follow Dr. Geher’s work!
+<time>01:17</time> The history of Positive Psychology  
+<time>12:28</time> Does Positive Evolutionary Psychology have a moral goal, and is that a problem?  
+<time>21:14</time> Integrating the negative aspects of our psychology (or what we don’t like about it)  
+<time>31:09</time> There’s no single formula that works for everybody  
+<time>37:00</time> Evolutionary mismatch, and how we can improve our modern environments  
+<time>52:06</time> Social life, politics, and religion  
+<time>1:00:17</time> Expanding our moral circles  
+<time>1:05:52</time> The impact of estrangements, and the importance of making amends   
+<time>1:12:02</time> The interplay between the individual and the collective  
+<time>1:15:46</time> Some final remarks on modern technology  
+<time>1:18:55</time> Follow Dr. Geher’s work!
 
 ---
 
@@ -49,3 +51,5 @@ Twitter handle: @glenngeher
 Buy the book!  
 Oxford University Press: http://bit.ly/2LWKiGf  
 Amazon: https://amzn.to/2Zu5Tx9
+</div>
+

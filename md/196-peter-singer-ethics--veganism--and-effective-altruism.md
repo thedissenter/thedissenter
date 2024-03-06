@@ -3,10 +3,12 @@ draft: false
 excerpt: REUPLOAD OF PETER SINGER'S INTERVIEW
 id: '196'
 image: https://i.ytimg.com/vi/Ab6Mko9nHMI/maxresdefault.jpg
-publishDate: 2019-06-28
+publishDate: 2019-07-25
 title: '#196 Peter Singer: Ethics, Veganism, And Effective Altruism'
 youtubeid: Ab6Mko9nHMI
 ---
+<div class="timelinks">
+
 REUPLOAD OF PETER SINGER'S INTERVIEW
 
 
@@ -15,21 +17,21 @@ Dr. Peter Singer is the Ira W. DeCamp Professor of Bioethics at Princeton Univer
 In this episode, we first get into how we morality can be objective, and issues regarding our evolved morality and its conflicting features, the limitations of reason, and if it is possible to derive moral values from science. We talk about how personality might influence the philosophies that people develop, and if it would be acceptable to nudge people’s behavior through environmental tweaks. We then discuss effective altruism and its several flavors, and if we should eliminate all suffering. In the latter part of the interview, we talk about some specific subjects, like veganism, human enhancement, and euthanasia. Toward the end, we also discuss moral foundations theory, and if it should influence the way people do moral philosophy.
 
 Time Links:  
-03:11  Can morality be objective?  
-05:37  How to deal with our evolved morality  
-11:11  The possible limits of reason                                
-16:02  Can we derive moral values from science?  
-20:08  Do moral philosophers disagree because they have different personalities?  
-25:19  Would it be acceptable to nudge people’s behavior?  
-30:20  What is effective altruism?  
-33:11  The things effective altruists care about  
-39:02  Should we really aim at eliminating all suffering?  
-40:58  Veganism, and how to decide which animals to include in our moral circle  
-49:24  Human enhancement, genetic engineering, and transhumanism  
-52:27  Euthanasia  
-56:11  Should moral foundations theory (Jonathan Haidt’s work) influence how people do moral philosophy?  
-1:02:07  Should we allow for behaviors that could destabilize society?  
-1:05:30  Follow Dr. Singer’s work!
+<time>03:11</time> Can morality be objective?  
+<time>05:37</time> How to deal with our evolved morality  
+<time>11:11</time> The possible limits of reason                                
+<time>16:02</time> Can we derive moral values from science?  
+<time>20:08</time> Do moral philosophers disagree because they have different personalities?  
+<time>25:19</time> Would it be acceptable to nudge people’s behavior?  
+<time>30:20</time> What is effective altruism?  
+<time>33:11</time> The things effective altruists care about  
+<time>39:02</time> Should we really aim at eliminating all suffering?  
+<time>40:58</time> Veganism, and how to decide which animals to include in our moral circle  
+<time>49:24</time> Human enhancement, genetic engineering, and transhumanism  
+<time>52:27</time> Euthanasia  
+<time>56:11</time> Should moral foundations theory (Jonathan Haidt’s work) influence how people do moral philosophy?  
+<time>1:02:07</time> Should we allow for behaviors that could destabilize society?  
+<time>1:05:30</time> Follow Dr. Singer’s work!
 
 ---
 
@@ -39,3 +41,5 @@ Faculty page (Princeton): https://bit.ly/2Jh9fdA
 Faculty page (Melbourne): https://bit.ly/2XttGv3  
 Books on Amazon: https://amzn.to/2Llq3CL  
 Twitter handle: @PeterSinger
+</div>
+

@@ -10,6 +10,8 @@ title: '#659 Nick Chater & Morten Christiansen - The Language Game; Language as 
   Game of Charades'
 youtubeid: taPsHecl0Oc
 ---
+<div class="timelinks">
+
 RECORDED ON MAY 11th 2022.  
 Dr. Nick Chater is Professor of Behavioural Science at Warwick Business School. He works on rationality and language using a range of theoretical and experimental approaches. 
 
@@ -20,24 +22,24 @@ They are both authors of The Language Game: How Improvisation Created Language a
 In this episode, we focus on The Language Game. Topics include: the importance of language; language as a game of charades; cognitive mechanisms necessary for language; how languages evolved; linguistic communication as a cooperation process; improvisation; how we keep up with and chunk language; the meanings of words; Universal Grammar; why other species do not use language; if language is in decline; improving children’s language skills; if language influences thought; and how language might shield us from the technological singularity.
 
 Time Links:  
-00:00 Intro  
-00:56  The importance of language  
-02:07  Language as a game of charades  
-05:28  Do we need to know rules?  
-07:13  Cognitive mechanisms for language  
-09:35  The evolution of language  
-18:57  Linguistic communication as a cooperation process  
-20:45  Improvisation  
-22:33  How do we keep up with language?  
-28:40  Do words have specific meanings?  
-35:22  Universal Grammar  
-44:29  Why other species do not use language  
-53:45  Language and the evolution of culture  
-55:24  Is language in decline?  
-58:25  Improving children’s language skills  
-1:00:15  Does language influence thought?  
-1:07:57  Language and the technological singularity  
-1:14:16  Follow Drs. Chater and Christiansen’s work!
+<time>00:00</time> Intro  
+<time>00:56</time> The importance of language  
+<time>02:07</time> Language as a game of charades  
+<time>05:28</time> Do we need to know rules?  
+<time>07:13</time> Cognitive mechanisms for language  
+<time>09:35</time> The evolution of language  
+<time>18:57</time> Linguistic communication as a cooperation process  
+<time>20:45</time> Improvisation  
+<time>22:33</time> How do we keep up with language?  
+<time>28:40</time> Do words have specific meanings?  
+<time>35:22</time> Universal Grammar  
+<time>44:29</time> Why other species do not use language  
+<time>53:45</time> Language and the evolution of culture  
+<time>55:24</time> Is language in decline?  
+<time>58:25</time> Improving children’s language skills  
+<time>1:00:15</time> Does language influence thought?  
+<time>1:07:57</time> Language and the technological singularity  
+<time>1:14:16</time> Follow Drs. Chater and Christiansen’s work!
 
 ---
 
@@ -54,3 +56,5 @@ Amazon page: https://amzn.to/3uNvZJx
 Twitter handle: @MH_Christiansen
 
 The Language Game: https://amzn.to/3xxOfs8
+</div>
+

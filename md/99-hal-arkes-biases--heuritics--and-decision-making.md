@@ -9,30 +9,34 @@ excerpt: "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State Univer
   \ 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990."
 id: '99'
 image: https://i.ytimg.com/vi/UGxyeA0I3jg/maxresdefault.jpg
-publishDate: 2019-06-19
+publishDate: 2018-11-15
 title: '#99 Hal Arkes: Biases, Heuritics, and Decision-Making'
 youtubeid: UGxyeA0I3jg
 ---
+<div class="timelinks">
+
 Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State University. His research focuses primarily on areas like judgement/decision-making, medical decision-making, and economic decision making. He’s received several honors and awards over the years, such as President of the Society for Judgment and Decision Making (1996-1997); Elected "Fellow" of the American Psychological Society in 1997; College of Arts & Sciences Outstanding Teacher Award (Ohio University) in 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990.
 
 In this episode, we talk about some of the main cognitive biases and heuristics (mental short-cuts) that affect decision-making, and particularly when applied to experts and professionals. Topics include: how everyone falls for biases; the bias blind spot; the hindsight bias; the outcome bias; being overconfident; situations where nonexperts perform better than experts; the familiarity effect; the availability heuristic; the sunk cost fallacy; and how to help people and experts make better decisions.
 
 Time Links:  
-00:59  Experts also fall for biases and heuristics  
-04:26  The bias blind spot, or thinking that you’re immune to your own biases                   
-05:44  The hindsight bias        
-08:27  The outcome bias      
-10:07  About Overconfidence        
-12:29  When do nonexperts outperform experts?           
-14:15  The familiarity effect    
-15:37  The availability heuristic  
-17:19  The sunk cost fallacy  
-20:50  How to group biases and heuristics  
-23:51  How to help people make better decisions  
-30:49  Follow Dr. Arkes’ work!
+<time>00:59</time> Experts also fall for biases and heuristics  
+<time>04:26</time> The bias blind spot, or thinking that you’re immune to your own biases                   
+<time>05:44</time> The hindsight bias        
+<time>08:27</time> The outcome bias      
+<time>10:07</time> About Overconfidence        
+<time>12:29</time> When do nonexperts outperform experts?           
+<time>14:15</time> The familiarity effect    
+<time>15:37</time> The availability heuristic  
+<time>17:19</time> The sunk cost fallacy  
+<time>20:50</time> How to group biases and heuristics  
+<time>23:51</time> How to help people make better decisions  
+<time>30:49</time> Follow Dr. Arkes’ work!
 
 ---
 
 Follow Dr. Arkes’ work:  
 Faculty page: https://psychology.osu.edu/people/arkes.1  
 Articles on Researchgate: https://www.researchgate.net/profile/Hal_Arkes
+</div>
+

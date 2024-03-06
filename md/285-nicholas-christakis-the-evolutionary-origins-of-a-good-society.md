@@ -17,21 +17,23 @@ publishDate: 2020-01-23
 title: '#285 Nicholas Christakis: The Evolutionary Origins of a Good Society'
 youtubeid: oXPE17gN1sY
 ---
+<div class="timelinks">
+
 RECORDED ON NOVEMBER 12th, 2019.  
 Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science, and Professor of Internal Medicine and General Medicine at Yale University. He’s a sociologist and physician known for his research on social networks and on the socioeconomic, biosocial, and evolutionary determinants of behavior, health, and longevity. Dr. Christakis was elected a Fellow of the Institute of Medicine of the National Academy of Sciences in 2006; of the American Association for the Advancement of Science in 2010; and of the American Academy of Arts and Sciences in 2017. In 2009, he was named to the Time 100, Time magazine's list of the 100 most influential people in the world. In 2009 and again in 2010, he was named by Foreign Policy magazine to its list of top global thinkers. He’s the author of Blueprint: The Evolutionary Origins of a Good Society.
 
 In this episode, we focus on his most recent book, Blueprint. We talk about the human social suite, and human universals and variation across societies. We also refer to our tribal aspects, and how that might present some obstacles in expanding our societies further. We discuss natural experiments, focusing on intentional communities, and how important it is to respect individual variation. Finally, we talk about how we can address the current problem of political polarization.
 
 Time Links:  
-00:47  The social suite  
-04:26  About human universals and variation across societies  
-08:22  Our tribal aspects  
-15:49  Is there a mismatch between our evolved sociality and life in modern societies?   
-20:51  What can we learn from natural experiments, like shipwrecks and intentional communities?  
-25:20  Respecting individual variation  
-30:11  The nature vs nurture debate  
-32:55  Ways of addressing the problem of political polarization  
-40:09  Follow Dr. Christakis’ work!
+<time>00:47</time> The social suite  
+<time>04:26</time> About human universals and variation across societies  
+<time>08:22</time> Our tribal aspects  
+<time>15:49</time> Is there a mismatch between our evolved sociality and life in modern societies?   
+<time>20:51</time> What can we learn from natural experiments, like shipwrecks and intentional communities?  
+<time>25:20</time> Respecting individual variation  
+<time>30:11</time> The nature vs nurture debate  
+<time>32:55</time> Ways of addressing the problem of political polarization  
+<time>40:09</time> Follow Dr. Christakis’ work!
 
 ---
 
@@ -43,3 +45,5 @@ Human Nature Lab: http://bit.ly/32EaTfd
 Amazon page: https://amzn.to/2CE2kqg  
 Blueprint: https://amzn.to/2kvMNU5  
 Twitter handle: @NAChristakis
+</div>
+

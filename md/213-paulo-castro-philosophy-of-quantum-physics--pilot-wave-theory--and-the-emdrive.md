@@ -19,19 +19,21 @@ title: '#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And
   EmDrive'
 youtubeid: EMK2GaA-jjU
 ---
+<div class="timelinks">
+
 Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon in 1996 after studying Physics at the University of Lisbon. He taught Mathematics and IT in Secondary and Polythecnical schools. In 2014 he obtained his PhD in the Philosophy of Contemporary Thought at the Universidade Lusófona de Humanidades e Tecnologias, with the dissertation “The Epistemology of Choice – On the possibility of artificial simulation of human intelligence”. In 2015 Dr. Castro became a member of the Center for Philosophy of Science of the University of Lisbon in the Philosophy of Nature Sciences Research Group, working on Philosophy of Quantum Physics. Recently, and pursuing more foundational questions in Physics, he’s started working on the Philosophy of Quantum Gravity. He is also very interested in both Artificial Intelligence and Environmental Philosophy, related to Sustainability.
 
 In this episode, we get into the Philosophy of Quantum Mechanics. We talk about the pilot wave theory, quantum gravity, and the EmDrive, or the radio frequency (RF) resonant cavity thruster. In the last part of the interview, we also discuss the relationship between philosophy and science in the modern era. 
 
 Time Links:  
-01:24  The pilot wave theory in quantum physics  
-17:01  We can’t understand space-time with just our intuitions  
-28:37  Quantum gravity                                
-35:44  Could it be possible to integrate General Relativity with Quantum Mechanics?  
-41:58  Can we have an observer-independent Quantum Physics?  
-45:52  The EmDrive, or a device that could break Newton’s third law of motion  
-58:52  The modern relationship between philosophy and science  
-1:14:13  Follow Dr. Castro’s work!
+<time>01:24</time> The pilot wave theory in quantum physics  
+<time>17:01</time> We can’t understand space-time with just our intuitions  
+<time>28:37</time> Quantum gravity                                
+<time>35:44</time> Could it be possible to integrate General Relativity with Quantum Mechanics?  
+<time>41:58</time> Can we have an observer-independent Quantum Physics?  
+<time>45:52</time> The EmDrive, or a device that could break Newton’s third law of motion  
+<time>58:52</time> The modern relationship between philosophy and science  
+<time>1:14:13</time> Follow Dr. Castro’s work!
 
 ---
 
@@ -50,3 +52,5 @@ Pilot wave theory: https://bit.ly/2DJqJ14
 This Overlooked Theory Could Be The Missing Piece That Explains How The EM Drive Works: https://bit.ly/2ITiyyx  
 RF resonant cavity thruster (EmDrive): https://bit.ly/2CR2T1x  
 Newton's Third Law: https://bit.ly/2PWcKH9
+</div>
+

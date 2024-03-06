@@ -3,11 +3,13 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '38'
 image: https://i.ytimg.com/vi/mJIi3hT3SLw/maxresdefault.jpg
-publishDate: 2019-03-23
+publishDate: 2018-06-21
 title: '#38 Monique Borgerhoff Mulder: Evolutionary Anthropology, Gender Roles, Sexual
   Selection'
 youtubeid: mJIi3hT3SLw
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -25,4 +27,5 @@ Aqui, falamos sobre o que é a Antropologia Evolutiva; a conciliação entre a P
 
 Follow Dr. Borgerhoff Mulder’s work:  
 Faculty page: http://anthropology.ucdavis.edu/people/fzborger  
-Her books: https://www.amazon.com/Monique-Borgerhoff-Mulder/e/B001H6U2MM
+Her books: https://www.amazon.com/Monique-Borgerhoff-Mulder/e/B001H6U2MM</div>
+

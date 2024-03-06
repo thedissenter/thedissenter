@@ -11,22 +11,24 @@ title: '#170 Steven Hales: Philosophy of Luck, Relativism and Perspectivism, And
   Psychology'
 youtubeid: eAQIk8odD2s
 ---
+<div class="timelinks">
+
 Dr. Steven Hales is Professor and Chair of the Department of Philosophy at Bloomsburg University, US. His areas of specialization include epistemology and metaphysics. He’s the author of books like Metaphysics, A Companion to Relativism, Nietzsche’s Perspectivism, and This Is Philosophy.
 
 In this episode, we talk about the philosophy of luck, and relativism. First, we discuss what is luck from a philosophical perspective, including the differences between epistemic and moral luck and the most prominent theories of luck. We also refer to some of the ways people tend to think about luck, according to the time frame and their worldviews. In the second part of the discussion, we talk abut relativism, is relationship with perspectivism and approaches to morality and moral relativism.
 
 Time Links:  
-00:39  What is luck? And the difference between epistemic and moral luck.  
-07:47  Philosophical theories of luck (probability, modal and control theories)                
-11:42  Synchronic and Diachronic Luck                             
-15:09  Do people look differently at luck depending on their worldview (optimist or pessimism)                    
-17:29  About relativism                       
-19:15  The charge that relativism is self-refuting                   
-20:51  Relativism and perspectivism  
-24:44  The trouble with intuitionism and moral intuitions    
-27:42  Morality and evolutionary psychology    
-37:23  Peter Singer and The Expanding Circle          
-39:39  Follow Dr. Hales’ work!
+<time>00:39</time> What is luck? And the difference between epistemic and moral luck.  
+<time>07:47</time> Philosophical theories of luck (probability, modal and control theories)                
+<time>11:42</time> Synchronic and Diachronic Luck                             
+<time>15:09</time> Do people look differently at luck depending on their worldview (optimist or pessimism)                    
+<time>17:29</time> About relativism                       
+<time>19:15</time> The charge that relativism is self-refuting                   
+<time>20:51</time> Relativism and perspectivism  
+<time>24:44</time> The trouble with intuitionism and moral intuitions    
+<time>27:42</time> Morality and evolutionary psychology    
+<time>37:23</time> Peter Singer and The Expanding Circle          
+<time>39:39</time> Follow Dr. Hales’ work!
 
 ---
 
@@ -40,3 +42,5 @@ Metaphysics: Contemporary Readings: https://amzn.to/2CjvQln
 A Companion to Relativism: https://amzn.to/2JbihdH  
 Nietzsche's Perspectivism: https://amzn.to/2F2xpET  
 This Is Philosophy: An Introduction: https://amzn.to/2TwiBbw
+</div>
+

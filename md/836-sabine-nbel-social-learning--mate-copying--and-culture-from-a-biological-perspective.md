@@ -16,25 +16,27 @@ title: "#836 Sabine N\xF6bel: Social Learning, Mate Copying, and Culture from a 
   \ Perspective"
 youtubeid: aU4HRZloHLY
 ---
+<div class="timelinks">
+
 Dr. Sabine Nöbel is a Postdoc at the Martin-Luther University Halle Wittenberg in the group “Animal Ecology“. Her background is in the behavioral ecology of Poeciliids and Drosophila studying non-genetic inheritance of mating preferences using mate-copying, by which females build mating preferences by observing and copying conspecific females’ mate-choice. She studies how new, socially learnt mating preferences can invade a population and persist across generations. Since May 2019, Dr. Nöbel is the secretary of ESLR (Association of Early-career Social Learning Researchers) Society, an early-career network for all things around social learning and cultural evolution.
 
 In this episode, we talk about social learning, mate copying, and culture. We start by discussing social learning from an evolutionary perspective. We get into the specific example of mate copying, and how it occurs in Drosophila. We get into the factors that play a role in it; if rejections are also copied; and how choosers can deceive the copiers. We then talk about social learning, culture, conformity, and traditions in non-human animals, and how to understand culture from a biological perspective. We discuss if mate copying can have implications for the study of evolved mate preferences, and sexual selection. Finally, we discuss if by studying culture and cultural transmission in non-human animals can we get new insights into human culture.
 
 Time Links:  
-00:00 Intro  
-01:16  Social learning from the perspective of evolutionary biology  
-03:29  Stable and plastic social learning  
-05:52  Mate copying  
-07:47  Mate copying in Drosophila  
-14:17  What factors play a role in mate copying  
-19:30  Do individuals also copy rejections?  
-22:58  Audience effects, and how choosers can deceive the copiers  
-25:42  Social learning, culture, conformity, and traditions in non-human animals  
-32:06  Understanding culture from an evolutionary biological perspective  
-36:11  Does mate copying have implications for the study of mate preferences?  
-39:45  Sexual selection  
-41:56  New insights into human culture  
-43:02  Follow Dr. Nöbel’s work!
+<time>00:00</time> Intro  
+<time>01:16</time> Social learning from the perspective of evolutionary biology  
+<time>03:29</time> Stable and plastic social learning  
+<time>05:52</time> Mate copying  
+<time>07:47</time> Mate copying in Drosophila  
+<time>14:17</time> What factors play a role in mate copying  
+<time>19:30</time> Do individuals also copy rejections?  
+<time>22:58</time> Audience effects, and how choosers can deceive the copiers  
+<time>25:42</time> Social learning, culture, conformity, and traditions in non-human animals  
+<time>32:06</time> Understanding culture from an evolutionary biological perspective  
+<time>36:11</time> Does mate copying have implications for the study of mate preferences?  
+<time>39:45</time> Sexual selection  
+<time>41:56</time> New insights into human culture  
+<time>43:02</time> Follow Dr. Nöbel’s work!
 
 ---
 
@@ -43,3 +45,5 @@ University page: http://bit.ly/3ldWtBN
 Website: http://bit.ly/3FpTg9d  
 ResearchGate profile: https://bit.ly/3YOcFaK  
 Twitter handle: @NoebelSabine
+</div>
+

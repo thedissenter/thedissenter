@@ -10,6 +10,8 @@ title: '#867 Jeroen Hopster, Julia Hermann & Ibo van de Poel: Ethics of Socially
   Technologies'
 youtubeid: Q9D4wlp8yrg
 ---
+<div class="timelinks">
+
 RECORDED ON NOVEMBER 10th 2023.  
 Dr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht University. His research centers on climate ethics and on investigating the nature of socially disruptive technologies.  
 Dr. Julia Hermann is an Assistant Professor of philosophy and ethics at the University of Twente where she works on ectogestative technology, care robots, technomoral change and progress, and new methodologies in the ethics of technology.  
@@ -19,19 +21,19 @@ They are editors of Ethics of Socially Disruptive Technologies: An Introduction.
 In this episode, we focus on Ethics of Socially Disruptive Technologies. We start by discussing the ethics of technology, what socially disruptive technologies are, and the intercultural outlook of the book. We then go through social media, social robots, climate engineering, and ectogestative technology. We also discuss who should be held responsible for social disruption, and whether technology is neutral.
 
 Time Links:  
-00:00  Intro  
-00:48  How the book came about  
-02:18  The ethics of technology  
-03:53  What are socially disruptive technologies?  
-08:36  An intercultural outlook on technology  
-15:53  Social media and democracy  
-20:27  Social robots, and what is unique about humans  
-35:19  Climate engineering  
-46:11  Ectogestative technology, parenting, and gender roles  
-55:39  Who should be held responsible for social disruption?  
-59:56  Is technology neutral?  
-1:02:55  Final messages  
-1:07:03  Follow Drs. Hopster, Hermann, and van de Poel’s work!
+<time>00:00</time> Intro  
+<time>00:48</time> How the book came about  
+<time>02:18</time> The ethics of technology  
+<time>03:53</time> What are socially disruptive technologies?  
+<time>08:36</time> An intercultural outlook on technology  
+<time>15:53</time> Social media and democracy  
+<time>20:27</time> Social robots, and what is unique about humans  
+<time>35:19</time> Climate engineering  
+<time>46:11</time> Ectogestative technology, parenting, and gender roles  
+<time>55:39</time> Who should be held responsible for social disruption?  
+<time>59:56</time> Is technology neutral?  
+<time>1:02:55</time> Final messages  
+<time>1:07:03</time> Follow Drs. Hopster, Hermann, and van de Poel’s work!
 
 ---
 
@@ -48,3 +50,5 @@ Academia.edu page: https://bit.ly/3Zvt1qU
 And Dr. van de Poel’s work:  
 Faculty page: https://bit.ly/3EPmRs4  
 ResearchGate profile: https://bit.ly/3PrUVzo
+</div>
+

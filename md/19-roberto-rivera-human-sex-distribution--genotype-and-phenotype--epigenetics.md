@@ -3,10 +3,12 @@ draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '19'
 image: https://i.ytimg.com/vi/2DxJl_vPohI/maxresdefault.jpg
-publishDate: 2019-02-27
+publishDate: 2018-04-26
 title: '#19 Roberto Rivera: Human Sex Distribution, Genotype and Phenotype, Epigenetics'
 youtubeid: 2DxJl_vPohI
 ---
+<div class="timelinks">
+
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -24,4 +26,5 @@ O Roberto Caldazilla Rivera estudou Biologia e Matemática na Universidade de Po
 Decidi convidar o Roberto para o canal, uma vez que em fevereiro tivemos uma discussão no Twitter sobre sexo humano, e distribuição do sexo em humanos.  
 Assim, aqui falamos sobre sexo cromossomal e anisogamia; como lidar com pessoas intersexo em termos de distribuição de sexo; sexo de acasalamento e gâmetas; genótipo e fenótipo; e um pouco sobre epigenética.
 
-Follow Roberto on Twitter: @HaldanesGhost
+Follow Roberto on Twitter: @HaldanesGhost</div>
+

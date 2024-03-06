@@ -17,28 +17,30 @@ title: "#697 John Allen Paulos - Who\u2019s Counting?; Uniting Numbers and Narra
   \ with Stories"
 youtubeid: S6Z6gBQTa9Y
 ---
+<div class="timelinks">
+
 RECORDED ON OCTOBER 18th 2022.  
 Dr. John Allen Paulos is a Professor of Mathematics at Temple University. He has written scholarly papers on probability, logic, and the philosophy of science as well as scores of OpEds, book reviews, and articles in publications such as the NY Times, the Wall Street Journal, Forbes, the Nation, Discover, the American Scholar, and the London Review of Books. In 2003, he received the American Association for the Advancement of Science award for promoting public understanding of science, and in 2013 the Mathematics Communication Award from the Joint Policy Board for Mathematics. He is the author of several books, the most recent one being “Who’s Counting?: Uniting Numbers and Narratives with Stories from Pop Culture, Puzzles, Politics, and More”.
 
 In this episode, we focus on “Who’s Counting?”. Topics include innumeracy; if presidential candidates should be tested with puzzles; meta-analyses; how two losing strategies can result in a winning combination; finding meaning in random events; COVID statistics; AI systems in crime prevention; learning the truth from liars; five-year survival rates; SAT scores and academic success; politics (particularly, political polarization and public ignorance); religion; and making people like mathematics more.
 
 Time Links:  
-00:00 Intro  
-00:33  What is innumeracy?  
-01:17  Should presidential candidates be tested with puzzles?  
-03:34  Meta-analyses  
-06:34  How two losing strategies can result in a winning combination  
-08:24  Common mathematical errors  
-15:05  Finding meaning in random events  
-17:03  COVID statistics  
-20:38  AI systems in crime prevention  
-22:34  Learning the truth from liars  
-27:30  Five-year survival rates  
-29:42  SAT scores and academic success  
-32:09  Politics  
-43:01  Religion  
-48:52  Is it possible to make people like and appreciate mathematics more?  
-51:43  Follow Dr. Paulos’ work!
+<time>00:00</time> Intro  
+<time>00:33</time> What is innumeracy?  
+<time>01:17</time> Should presidential candidates be tested with puzzles?  
+<time>03:34</time> Meta-analyses  
+<time>06:34</time> How two losing strategies can result in a winning combination  
+<time>08:24</time> Common mathematical errors  
+<time>15:05</time> Finding meaning in random events  
+<time>17:03</time> COVID statistics  
+<time>20:38</time> AI systems in crime prevention  
+<time>22:34</time> Learning the truth from liars  
+<time>27:30</time> Five-year survival rates  
+<time>29:42</time> SAT scores and academic success  
+<time>32:09</time> Politics  
+<time>43:01</time> Religion  
+<time>48:52</time> Is it possible to make people like and appreciate mathematics more?  
+<time>51:43</time> Follow Dr. Paulos’ work!
 
 ---
 
@@ -46,3 +48,5 @@ Follow Dr. Paulos’ work:
 University page/website: https://bit.ly/3Tx10uu  
 ResearchGate profile: https://bit.ly/3EPFfly  
 Who’s Counting?: https://amzn.to/3EMSmUP
+</div>
+

@@ -16,26 +16,28 @@ title: '#491 Chiara Marletto - The Science of Can and Can''t; The Physics/Scienc
   of Counterfactuals'
 youtubeid: anerMroeLM8
 ---
+<div class="timelinks">
+
 RECORDED ON MAY 31st 2021.  
 Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department of Physics at Oxford University. Her research interests include Quantum Theory of Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology. She is the recipient of numerous awards including the "Graduate Prize Scholarship" at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo" Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010. She is the author of The Science of Can and Can't: A Physicist's Journey through the Land of Counterfactuals.
 
 In this episode, we focus on The Science of Can and Can’t. We start by defining “counterfactual”, and we ask what it means for something to be designed. We get into how to get a new explanation of work and heat through the science of counterfactuals. We talk about counterfactuals in quantum systems, and the quantum theory of information. We ask what knowledge is from this perspective. We discuss biology, and how concepts like “catalyst” and “resilience” can help us better understand it from a Physics perspective, and how knowledge applies in that domain. We talk about psychological phenomena, and reductionist explanations. We ask how we could unify quantum mechanics and general relativity. We talk about the implications for epistemology and science. Finally, we ask if the Universe is predetermined.
 
 Time Links:  
-00:00  Intro  
-00:25  What is a “counterfactual”?  
-04:42  Design  
-09:01  Other Universes  
-11:49  Work, and heat  
-16:39  Counterfactuals in quantum systems  
-21:05  Knowledge  
-24:37  Catalysts, resilience, and biology  
-30:59  Psychological phenomena, and reductionist explanations  
-35:52  Unifying quantum mechanics and general relativity  
-38:30  Implications for epistemology and science  
-46:41  How can we know what is possible?  
-48:48  Is the Universe predetermined?  
-51:40  Follow Dr. Marletto’s work!
+<time>00:00</time> Intro  
+<time>00:25</time> What is a “counterfactual”?  
+<time>04:42</time> Design  
+<time>09:01</time> Other Universes  
+<time>11:49</time> Work, and heat  
+<time>16:39</time> Counterfactuals in quantum systems  
+<time>21:05</time> Knowledge  
+<time>24:37</time> Catalysts, resilience, and biology  
+<time>30:59</time> Psychological phenomena, and reductionist explanations  
+<time>35:52</time> Unifying quantum mechanics and general relativity  
+<time>38:30</time> Implications for epistemology and science  
+<time>46:41</time> How can we know what is possible?  
+<time>48:48</time> Is the Universe predetermined?  
+<time>51:40</time> Follow Dr. Marletto’s work!
 
 ---
 
@@ -46,3 +48,5 @@ Constructor Theory website: https://bit.ly/3cjTm2B
 Personal website: https://bit.ly/3c1y8Yf  
 ResearchGate profile: https://bit.ly/3iGzWXW  
 The Science of Can and Can’t: https://amzn.to/32JMngd
+</div>
+

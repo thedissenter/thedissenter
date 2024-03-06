@@ -8,6 +8,8 @@ title: "#303 Marco Neves: Hist\xF3ria e Evolu\xE7\xE3o do Portugu\xEAs, o AO, e 
   \ Nazis da Gram\xE1tica"
 youtubeid: XTU3QFfI8u0
 ---
+<div class="timelinks">
+
 GRAVADA NO DIA 23 DE DEZEMBRO DE 2019.  
 THIS INTERVIEW IS IN PORTUGUESE.  
 Marco Neves é professor de tradução na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, tradutor e diretor do escritório de Lisboa da Eurologos e colunista no Sapo 24. É também autor do blogue Certas Palavras, e de livros como “A Incrível História Secreta da Língua Portuguesa”, “Dicionário de Erros Falsos e Mitos do Português”, “Gramática para Todos — O Português na Ponta da Língua” e “O Galego e o Português São a Mesma Língua?”.
@@ -17,15 +19,15 @@ Neste episódio, falamos acerca de como realmente se fala Língua Portuguesa bem
 
 
 Time Links:  
-01:16  Os nazis da gramática estão certos?  
-13:07  Línguas como convenções sociais  
-21:08  Sobre o Acordo Ortográfico, e os meus argumentos dos dois lados  
-34:26  O mito do purismo linguístico  
-46:11  A língua nos seus diversos contextos  
-51:40  Quando surgiu o Português? (A história da Língua Portuguesa)  
-1:09:17  Processos de uniformização das línguas que começaram nos finais do século XVIII  
-1:11:14  A relação entre o Português e o Galego.  
-51:25  Sigam o trabalho do Marco!
+<time>01:16</time> Os nazis da gramática estão certos?  
+<time>13:07</time> Línguas como convenções sociais  
+<time>21:08</time> Sobre o Acordo Ortográfico, e os meus argumentos dos dois lados  
+<time>34:26</time> O mito do purismo linguístico  
+<time>46:11</time> A língua nos seus diversos contextos  
+<time>51:40</time> Quando surgiu o Português? (A história da Língua Portuguesa)  
+<time>1:09:17</time> Processos de uniformização das línguas que começaram nos finais do século XVIII  
+<time>1:11:14</time> A relação entre o Português e o Galego.  
+<time>51:25</time> Sigam o trabalho do Marco!
 
 ---
 
@@ -34,3 +36,5 @@ Página de docente: http://bit.ly/2t17MSj
 Coluna no Sapo 24: http://bit.ly/36YEfHC  
 Blogue “Certas Palavras”: http://bit.ly/2PNPehr  
 Books on Wook: http://bit.ly/2PiBtaN
+</div>
+
