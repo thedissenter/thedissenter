@@ -9,3 +9,4 @@
 *.code-workspace
 bin
 installers
+win-code-node/
