@@ -10,6 +10,9 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
+            "args" : [
+                "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-test.json"
+            ]
         },
         {
             "name": "Python Debugger: import",
