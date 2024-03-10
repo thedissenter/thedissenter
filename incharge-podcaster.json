@@ -4,24 +4,26 @@
     "source": {
         "Youtube via RSS": {
             "type": "youtube-rss",
-            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTUcatGD6xu4tAcxG-1D4Bg"
+            "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTUcatGD6xu4tAcxG-1D4Bg",
+            "primary": true
         },
         "Youtube via API": {
             "type": "youtube-api",
             "channel": "UUTUcatGD6xu4tAcxG-1D4Bg",
             "only-new": false,
-            "ignore": true
+            "ignore": true,
+            "primary": true
         },
         "Spotify": {
             "type": "rss",
-            "url": "https://anchor.fm/s/822ba20/podcast/rss"
+            "url": "https://anchor.fm/s/822ba20/podcast/rss",
+            "primary": false
         },
         "AWS Transcribe": {
             "type": "transcript"
         }
     },
-    "audio-bucket": "thedissenter-episode",
-    "transcript-bucket": "thedissenter-transcript",
+    "bucket": "thedissenter",
     "ums": ["um", "uh", "mhm"],
     "defaults": {
         "interviewer": ["Ricardo Lopes"]
