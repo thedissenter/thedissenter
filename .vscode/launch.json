@@ -5,27 +5,44 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Debug: import.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "incharge-podcaster\\import.py",
+            "console": "integratedTerminal",
+            "args" : [
+                "--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
+                "--ignore=To stand down a parameter, prefix with --ignore, like this",
+                "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-2s.json",
+                "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-899.json",
+                "--ignore=--config={ \"source\": { \"Youtube via API\": { \"ignore\": False }}}",
+                "--ignore=--override, --config={ \"source\": { \"Spotify\": { \"type\": \"rss\", \"url\": \"https://anchor.fm/s/822ba20/podcast/rss\" } } }",
+            ]
+        },
+        {
+            "name": "Debug: createpages.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "incharge-podcaster\\createpages.py",
+            "console": "integratedTerminal",
+            "args" : [
+                "--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
+            ]
+        },
+        {
+            "name": "Debug: test-lambda.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "incharge-podcaster\\aws\\test-lambda.py",
+            "console": "integratedTerminal",
+        },
+        {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "args" : [
-                "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-test.json"
-            ]
-        },
-        {
-            "name": "Python Debugger: import",
-            "type": "debugpy",
-            "request": "launch",
-            "program": "${file}",
-            "console": "integratedTerminal",
-            "args" : [
-                "--ignore=To stand down a parameter, prefix with --ignore, like this",
-                "--ignore=--config={ \"source\": { \"Youtube via API\": { \"ignore\": False }}}",
-                "--ignore=--override, --config={ \"source\": { \"Spotify\": { \"type\": \"rss\", \"url\": \"https://anchor.fm/s/822ba20/podcast/rss\" } } }",
-                "--ignore=--input=episode",
-                "--ignore=--output=md"
             ]
         }
     ]
