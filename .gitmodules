@@ -1,8 +1,8 @@
 [submodule "astrowind"]
 	path = astrowind
-	url = git@github.com:thedissenter/astrowind.git
+	url = git@github.com:incharge/astrowind.git
 	branch = .
 [submodule "incharge-podcaster"]
 	path = incharge-podcaster
-	url = git@github.com:thedissenter/incharge-podcaster.git
+	url = git@github.com:/incharge-podcaster.git
 	branch = .
