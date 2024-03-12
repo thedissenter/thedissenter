@@ -53,6 +53,7 @@ Twitter handle: @ljuba_pi
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Loops. And today I'm joined by Doctor Leo Papa. She is a tendered researcher at the Institute of Science, Cognitive Mac Jan of the San Nacional de La Research Scientific in France and principal investigator of the research program, the Temple funded by a European Research Council starting grant. And today we're talking about social perception, basically what we pay attention to in other people and their interactions and the social information we get from that. So, Doctor Pao, welcome to the show. It's a big pleasure to everyone.
 
 <time>0:00:45</time> Liuba Papeo: Thanks for having me.

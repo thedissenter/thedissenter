@@ -52,6 +52,7 @@ The Ecological Brain: http://tinyurl.com/phk9d4jm (Discount code for the book: E
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Decent. I'm your host as always Ricard Loup. And today I'm joined for a second time by Doctor Luis Favela, associate Professor of Philosophy and Cognitive Sciences at the University of Central Florida. And today we're talking about his book, The Ecological Brain Unifying The Sciences of Brain, body and Environment. And by the way, I'm leaving a link to our first interview in the description box down below which is which to a certain extent is also relevant to the interview today. So Doctor Favela, welcome back to the show. It's always a pleasure to talk to you.
 
 <time>0:00:36</time> Luis Favela: Thank you Ricardo. I appreciate the invitation looking forward to it.

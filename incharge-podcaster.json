@@ -25,6 +25,7 @@
     },
     "bucket": "thedissenter",
     "ums": ["um", "uh", "mhm"],
+    "transcript-disclaimer": "<p class=\"text-muted text-sm bg-slate-200 rounded p-1 text-center\">Transcripts are automatically generated and may contain errors</p>\n",
     "defaults": {
         "interviewer": ["Ricardo Lopes"]
     },

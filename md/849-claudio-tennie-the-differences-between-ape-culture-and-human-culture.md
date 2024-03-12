@@ -53,6 +53,7 @@ Twitter handle: @CTennie
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello, everybody. Welcome to a new episode of the Decent. I'm your host as always Ricardo Loops. And today I'm joined by Doctor Claudio 10. He is a tenured research group leader in the Department of Early Prehistory and Quaternary Ecology at the University of Tubingen. This is our second interview. I'm leaving the link to our first one in the description box. And today we're going to talk basically about the differences between ape culture and human culture. So, Doctor 10 Year, welcome back to the show. It's always a pleasure to talk to you.
 
 <time>0:00:36</time> Claudio Tennie: It's a great pleasure to talk to you and thank you very much for having me a second time. Thanks,

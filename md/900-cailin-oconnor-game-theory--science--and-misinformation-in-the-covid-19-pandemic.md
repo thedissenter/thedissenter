@@ -46,6 +46,7 @@ Twitter handle: @cailinmeister
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Center. I'm your host as always Ricard Lobs. And today I'm joined by Doctor Kaylyn o'connor. She is professor in the Department of Logic and Philosophy of Science at the University of California Herrin. She is a philosopher of biology and be sciences, philosopher of science and evolutionary game theorist. She is the author of books like the Origins of Unfairness Games in the Philosophy of Biology and the misinformation Age. And today we're going to talk about some of her topics. So some of the subjects she focus on. So Doctor o'conner, welcome to the show. It's a big pleasure to everyone.
 
 <time>0:00:45</time> Cailin O'Connor: Oh, thanks for having me, Ricardo.

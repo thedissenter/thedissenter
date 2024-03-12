@@ -51,6 +51,7 @@ Maize and Grace: https://bit.ly/3ZtJvxV
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Loops. And today I'm joined by Doctor James mccann. He's Professor Emeritus of History at Boston University. His research and teaching interests include agricultural and ecological history of Africa, Ethiopia, and the Horn of Africa field research methods in African studies, the Agroecology of tropical disease and the history of food slash cuisine in Africa and the Atlantic world. And today we are going to focus mostly on his book, Maize and Grace, a History of Africa's Encounter with the new world crop. So, Doctor mccann, welcome to the show. It's a huge pleasure to everyone.
 
 <time>0:00:47</time> James McCann: Thank you for your invitation.

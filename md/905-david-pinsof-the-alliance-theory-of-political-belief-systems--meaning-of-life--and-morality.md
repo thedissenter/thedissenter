@@ -52,6 +52,7 @@ Twitter handle: @DavidPinsof
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello, everybody. Welcome to a new episode of the, the Center. I'm your host, Ricardo Lops. And today I'm joined by Doctor David. David Pins off. He's a research scientist at UCL, a, the University of California, Los Angeles. And his research focuses on evolutionary psychology, political psychology, public opinion and sexual behavior. And today we're focusing mostly on political belief systems, the meaning of life, morality and some other related topics. So David, welcome to the show. It's a big pleasure to everyone.
 
 <time>0:00:36</time> David Pinsof: The pleasure is all mine, Ricardo, I'm a big fan of the podcast and I'm very happy to be on it.

@@ -54,6 +54,7 @@ Amazon page: https://bit.ly/3YDOv3C
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello, everybody. Welcome to a new episode of the Decent. I'm your host as always Ricardo Lops. And today I'm joined by Doctor Paul Halpern. He is Professor of Physics at Saint Joseph's University in Philadelphia. He is the author of several books. And today we're focusing on his latest one, the Allure of the Multiverse, extra dimensions, other worlds and parallel universes. So Paul, welcome to the show. It's a big pleasure to everyone.
 
 <time>0:00:26</time> Paul Halpern: My pleasure to thank you for having me on your show, Ricardo.

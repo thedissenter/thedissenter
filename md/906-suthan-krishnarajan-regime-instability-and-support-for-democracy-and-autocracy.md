@@ -50,6 +50,7 @@ Twitter handle: @Suthan_1607
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Decent. I'm your host as always Ricard Loops. And today I'm joined by Doctor Sudan Krishna Ryan. He is associate professor in Political Science at a University in Denmark. His research agenda seeks to understand and explain political regime instability. And today we're going to talk about democratic regimes, autocratic regimes, their instability and stability and citizen support for democracy. So Doctor Krish Krishna Rayan, welcome to the show. It's a big pleasure to everyone.
 
 <time>0:00:38</time> Suthan Krishnarajan: Yeah. Thanks for, for having me and thank you Ricardo for, for doing this show. I think it's important that we disseminate our research to, to a broad audience. And series like yours are a vital part of this. So, so thank you as well.

@@ -59,6 +59,7 @@ The Kerulos Center for Nonviolence: https://bit.ly/45dAZqj
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Loops. And today I'm joined by doctors Darcia Narvaez and Gay Bradshaw. Doctor Darcia Narvaez is a Professor of Psychology Merit at the University of Notre Dame. And Doctor G Bradshaw is a psychologist and Ecologist and director of the Kulu Center for Nonviolence. And today we're focusing on their book. They Evolved Nest Nature's Way of raising Children and creating connected communities. So, welcome to the show. It's a pleasure to have you both
 
 <time>0:00:37</time> Darcia Narvaez: on. Great to be here.

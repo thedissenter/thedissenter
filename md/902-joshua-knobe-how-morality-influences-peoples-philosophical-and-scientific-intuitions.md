@@ -50,6 +50,7 @@ PhilPeople profile: https://bit.ly/3YwSlvf
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Decent. I'm your host as always Ricard Loops. And today I'm joined by Doctor Joshua Nobi. He is Professor of Philosophy and Linguistics and Psychology at Yale University. A lot of his recent research has been concerned with the impact of people's moral judgments on their intuitions about questions that might initially appear to be entirely independent of morality. But as we're going to talk about today, apparently they are not. So Josh, welcome to the show. It's a pleasure to everyone.
 
 <time>0:00:34</time> Joshua Knobe: Thanks Ricardo. It's really good to be here.

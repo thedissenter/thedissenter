@@ -50,6 +50,7 @@ Twitter handle: @jk_malinowska
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello, everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Lobs. And today I'm joined by Doctor Ioanna Malinovsky. She's assistant professor of Philosophy at Adam Mitski Aic University in Posen Poland. The subject of her research is a broadly understood philosophy of science with particular emphasis on philosophy of medicine, philosophy of neuroscience and philosophy of psychology. She explores connections between these areas and questions in bioethics, epistemology, ontology and methodology. Her current focus is on the conceptualization and the use of ethno racial categories in medicine. So, Johanna, welcome to the show. It's a pleasure to everyone.
 
 <time>0:00:43</time> Joanna Malinowska: Thank you. Thank you for having me. It's a great pleasure for me to be here.

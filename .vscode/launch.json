@@ -11,8 +11,9 @@
             "program": "incharge-podcaster\\import.py",
             "console": "integratedTerminal",
             "args" : [
-                "--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
+                "--ignore=configfile=incharge-podcaster/test/incharge-podcaster-test.json",
                 "--ignore=To stand down a parameter, prefix with --ignore, like this",
+                "--configfile=incharge-podcaster.json",
                 "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-2s.json",
                 "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-899.json",
                 "--ignore=--config={ \"source\": { \"Youtube via API\": { \"ignore\": False }}}",
@@ -26,7 +27,8 @@
             "program": "incharge-podcaster\\createpages.py",
             "console": "integratedTerminal",
             "args" : [
-                "--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
+                "--configfile=incharge-podcaster.json",
+                "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
             ]
         },
         {

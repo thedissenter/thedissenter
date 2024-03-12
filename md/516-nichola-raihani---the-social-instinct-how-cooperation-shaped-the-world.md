@@ -48,6 +48,7 @@ Twitter handle: @nicholaraihani
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Decent. I'm your host as always Ricardo Loops. And today I'm joined by Doctor Nicola Rayani. She is Professor of Evolution and Behavior at Univer at University College London. Her research considers the evolution of cooper operation in nature. She was elected Fellow of the Royal Society of Biology in 2019. And we're going to talk today about her first book, The Social Instinct How co-operation Shaped the world. So Nicola, welcome to the show. It's a pleasure to everyone.
 
 <time>0:00:33</time> Nichola Raihani: Thanks very much for the invite. And yeah, I've been looking forward to joining you.

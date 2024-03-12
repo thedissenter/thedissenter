@@ -45,6 +45,7 @@ ResearchGate profile: https://bit.ly/45eZLpP
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Decent. I'm your host, Ricardo Lops. And today I'm joined by Katerina Kovacevic. She is a phd candidate in the Department of Cognitive Science at Central European University. Her main research interest is responsibility. She investigates how people ascribe responsibility for good and bad outcomes across various situations. And today we're focusing on responsibility and strategic ignorance. So Karina, welcome to the show. It's a big pleasure to everyone. Thank
 
 <time>0:00:36</time> Katarina Kovačević: you. It's also a pleasure from

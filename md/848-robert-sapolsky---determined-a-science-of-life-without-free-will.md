@@ -52,6 +52,7 @@ Books on Amazon: https://amzn.to/2FvO9Ff
 ## Transcript
 <div class="timelinks">
 
+<p class="text-muted text-sm bg-slate-200 rounded p-1 text-center">Transcripts are automatically generated and may contain errors</p>
 <time>0:00:00</time> Ricardo Lopes: Hello everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Lobs. And today I'm joined for a third time by Doctor Robert Sapolsky. And today we're talking about his latest book, Determined The Science of Life without free will. And I'm also leaving the links to our first two interviews in the description of this one. So Doctor Sapolsky, welcome back to the show. It's always a pleasure to everyone.
 
 <time>0:00:28</time> Robert Sapolsky: Well, likewise seeing you again and glad we're on the other side of the pandemic. A pleasure to be here.
