@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/54573334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-8%2F6dd7dee1-08fd-8d73-7e52-03a689f772a1.m4a
 draft: false
 excerpt: Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Department
   of Anthropology at Washington State University, where he studies long-distance relationships

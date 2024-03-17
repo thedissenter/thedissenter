@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2005623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707232-48000-2-18aea3ee807fb.mp3
 draft: false
 excerpt: "Dr. Heather Montgomery is a social anthropologist who studied for her PhD\
   \ at Trinity College, Cambridge, which she wrote on child prostitution in Thailand.\

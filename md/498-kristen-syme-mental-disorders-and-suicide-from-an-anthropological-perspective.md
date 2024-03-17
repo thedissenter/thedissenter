@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/31485375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F03374f1d-a3a3-29e1-7ff3-8ab00688a6f1.m4a
 draft: false
 excerpt: Dr. Kristen Syme is research associate at the Faculty of Behavioral and Movement
   Sciences at Vrije Universiteit Amsterdam. She received her BA in anthropology from

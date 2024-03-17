@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/26952048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2F5b50e817-83f9-a76e-8f61-64ed94d00b41.m4a
 draft: false
 excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History
   of Science at Boston University. He is interested in comparative methodology across

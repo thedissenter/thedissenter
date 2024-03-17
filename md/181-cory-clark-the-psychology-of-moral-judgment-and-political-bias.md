@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2854106/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-6%2F12445272-44100-2-1a5e684d5a3c9.m4a
 draft: false
 excerpt: "Dr. Cory Clark is an Assistant Professor of Quantitative Social Psychology\
   \ at Durham University, UK. Dr. Clark does research in Moral Psychology, Political\

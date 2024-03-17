@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/40395833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2Fce5d075b-b8dc-f446-39a9-8731c2dc2857.m4a
 draft: false
 excerpt: Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK.
   His research is concerned with the differences in mating strategies within and between

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/54229674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F6e61cf0a-7445-2683-8fea-9bfce2c997bb.m4a
 draft: false
 excerpt: Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and Anthropology
   and a Founder of the Department of Sexuality Studies and the National Sexuality

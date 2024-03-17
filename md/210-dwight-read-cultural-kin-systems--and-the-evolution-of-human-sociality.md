@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3575703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-5-15%2F17013675-44100-2-bb15e13981574.m4a
 draft: false
 excerpt: "Dr. Dwight Read is Distinguished Professor Emeritus of Anthropology at UCLA\
   \ (University of California, Los Angeles). His research interests include mathematical\

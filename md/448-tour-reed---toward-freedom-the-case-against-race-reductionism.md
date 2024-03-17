@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/25226597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F05e83468-5586-3dba-1a7a-221187ca7825.m4a
 draft: false
 excerpt: "Dr. Tour\xE9 Reed is a professor in the History department at Illinois State\
   \ University. Dr. Reed earned his BA in American Studies from Hampshire College\

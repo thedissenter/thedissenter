@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/58013623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-23%2Ff5e73f91-8145-0722-b22e-2733c334a28d.m4a
 draft: false
 excerpt: 'Dr. Bart Streumer is Professor and Vice-Dean at the Faculty of Philosophy
   at the University of Groningen. His expertise is in metaethics and ethics. He is

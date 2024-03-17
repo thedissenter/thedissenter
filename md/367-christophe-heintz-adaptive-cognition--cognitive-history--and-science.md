@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/18032211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F2785febc-e107-68dc-9eeb-e8e05996b3b2.m4a
 draft: false
 excerpt: Dr. Christophe Heintz is Associate Professor at the Central European University,
   where he leads the research group ACE (Adaptive Cognition and Economics). Dr. Heintz

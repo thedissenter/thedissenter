@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/12665884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66056477-44100-2-16ac1ffb68461.m4a
 draft: false
 excerpt: "Dr. Scott Barry Kaufman is a humanistic psychologist exploring the depths\
   \ of human potential. He is interested in using his research to help all kinds of\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/27406886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2F8e365a73-950e-75cf-4a29-b50091801e8d.m4a
 draft: false
 excerpt: Dr. Erik Kimbrough is an associate professor of economics at the Smith Institute
   for Political Economy and Philosophy in the Argyros School of Business and Economics

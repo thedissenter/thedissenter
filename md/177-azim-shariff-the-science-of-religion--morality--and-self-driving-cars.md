@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3118956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-2%2F13991084-44100-2-b5191790aa3ef.m4a
 draft: false
 excerpt: Dr. Azim Shariff is Associate Professor and Canada Research Chair at the
   University of British Columbia, Canada. He is a social psychologist whose research

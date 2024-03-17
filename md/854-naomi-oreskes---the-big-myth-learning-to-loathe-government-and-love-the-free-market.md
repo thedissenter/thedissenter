@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/77135079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-12%2Fb7089112-869a-b42c-3bdd-f56943d62deb.m4a
 draft: false
 excerpt: 'Dr. Naomi Oreskes is Henry Charles Lea Professor of the History of Science
   and Affiliated Professor of Earth and Planetary Sciences at Harvard University.

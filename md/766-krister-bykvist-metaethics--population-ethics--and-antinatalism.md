@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/60982480/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2Fa09bcb93-90af-c03f-4cdf-1a874b81c6fa.m4a
 draft: false
 excerpt: "Dr. Krister Bykvist is Professor in Practical Philosophy at the Department\
   \ of Philosophy at Stockholm University and Research Fellow at the Institute for\

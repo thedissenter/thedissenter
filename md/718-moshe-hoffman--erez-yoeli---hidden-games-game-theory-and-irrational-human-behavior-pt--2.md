@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/57332713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-9%2Fa07b146a-acac-50b7-4619-861b32bff486.m4a
 draft: false
 excerpt: 'Dr. Moshe Hoffman is a Research Scientist at the Max Planck Institute for
   Evolutionary Biology and Lecturer at Harvard''s Department of Economics. He applies

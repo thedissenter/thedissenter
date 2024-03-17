@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/19111071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2Ffc507c13-73c4-c874-9bf4-80844ea1de77.m4a
 draft: false
 excerpt: "Dr. Virgil Zeigler-Hill is Professor of Psychology and Director of Graduate\
   \ Training at Oakland University. He is a social-personality psychologist with primary\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72926429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-3%2Fdf8238e8-6f91-39b4-6398-2692ef56082d.m4a
 draft: false
 excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center\
   \ and Professor of Cognitive Science at Yale University. His research concerns primarily\

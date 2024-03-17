@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2005584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707065-48000-2-0ac1f5879d79e.mp3
 draft: false
 excerpt: "I ONLY HAVE AUDIO FROM DR. WELLING\u2019S SIDE. SORRY ABOUT THAT, BUT I\
   \ HAD SOME SORT OF TECHNICAL ISSUE, AND I COULDN\u2019T RECORD THE VIDEO. "

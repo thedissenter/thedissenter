@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3720829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877317-44100-2-2292736079cf3.m4a
 draft: false
 excerpt: "Dr. Catherine Wilson was until recently Professor of Philosophy at the University\
   \ of York, and is now teaching part-time at the City University of New York, and\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2011142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735335-44100-2-50dad65c33d1e.mp3
 draft: false
 excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
   at the University of California, Los Angeles (UCLA). He researches decision-making

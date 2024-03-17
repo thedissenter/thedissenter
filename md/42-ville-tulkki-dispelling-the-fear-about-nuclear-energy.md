@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/1996958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647119-44100-2-7b433aec1cc48.mp3
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '42'

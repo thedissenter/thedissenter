@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/38731018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2F66f7e4be-1b74-c81f-b470-898e4bf7828d.m4a
 draft: false
 excerpt: Dr. Katarzyna (Kate) P. Adamala is a synthetic biologist and a professor
   of genetics at the University of Minnesota. Dr. Adamala's work includes contributions

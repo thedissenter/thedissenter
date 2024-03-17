@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/36587592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Faa4bedbd-e8f1-124d-fec4-9a363f48fbff.m4a
 draft: false
 excerpt: Dr. Michael Huemer is a professor of philosophy at the University of Colorado.
   He is the author of more than seventy academic articles in epistemology, ethics,

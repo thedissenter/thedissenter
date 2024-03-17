@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/14132154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75649864-44100-2-19626772eace2.m4a
 draft: false
 excerpt: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the
   Department of Philosophy and Lyman Briggs College at Michigan State University.

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/55728283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Fdd24f0cf-4074-6059-df88-39ee506cb1de.m4a
 draft: false
 excerpt: Dr. Kyle Fischer has just finished his PhD in evolutionary political psychology
   at the University of Auckland.

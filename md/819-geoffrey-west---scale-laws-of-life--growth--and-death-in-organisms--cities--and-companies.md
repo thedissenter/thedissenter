@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/68796441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-17%2F133413d7-bb34-2ddb-4f2f-ccc69d2c9031.m4a
 draft: false
 excerpt: 'Dr. Geoffrey West is Shannan Distinguished Professor at the Santa Fe Institute.
   He is a theoretical physicist whose primary interests have been in fundamental questions

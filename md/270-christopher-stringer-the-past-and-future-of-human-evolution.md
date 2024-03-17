@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/5747843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-8%2F27155297-44100-2-4ae7d37963a29.m4a
 draft: false
 excerpt: "Dr. Christopher Stringer is a British physical anthropologist noted for\
   \ his work on human evolution. He is a Research Leader in Human Origins at the Natural\

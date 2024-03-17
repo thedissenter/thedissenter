@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2016076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774862-44100-2-9288924699006.m4a
 draft: false
 excerpt: "Dr. Alan Fiske is a Professor of Anthropology at the University of California,\
   \ Los Angeles. He\u2019s a psychological anthropologist studying how natural selection,\

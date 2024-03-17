@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/29490452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2Fcacca978-817f-b5dd-a4d8-d4a35e763241.m4a
 draft: false
 excerpt: Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an Adjunct
   Professor at Utah Valley University, and the Communications Officer for the Human

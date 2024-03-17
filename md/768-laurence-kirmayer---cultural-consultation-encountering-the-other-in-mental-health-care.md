@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/65417750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-21%2F30cceff7-5ed8-4a1d-93ca-c2d1164a30ad.m4a
 draft: false
 excerpt: 'Dr. Laurence Kirmayer is James McGill Professor and Director of the Division
   of Social and Transcultural Psychiatry at McGill University, and editor-in-chief

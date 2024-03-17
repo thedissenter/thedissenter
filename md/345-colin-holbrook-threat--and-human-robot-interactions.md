@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a
 draft: false
 excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
   at the University of California Merced. He researches decision-making under contexts

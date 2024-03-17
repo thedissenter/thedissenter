@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/34640512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-1%2F0d4d3f41-a0a6-3777-8d82-d211de9f323b.m4a
 draft: false
 excerpt: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how\
   \ nature and nurture combined create human behavior. She has a popular science blog\

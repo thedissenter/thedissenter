@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/44146904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F9254e8af-642a-5365-5d9d-9cef75652187.m4a
 draft: false
 excerpt: "Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor of\
   \ Russian and Slavic Studies, and an affiliated Professor of Data Science at New\

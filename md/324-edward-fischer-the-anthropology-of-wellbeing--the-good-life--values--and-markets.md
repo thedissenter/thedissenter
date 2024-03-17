@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/10384870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49308908-44100-2-47668ebd697c6.m4a
 draft: false
 excerpt: "Dr. Edward Fischer is the Cornelius Vanderbilt Professor of Anthropology\
   \ and Director of the Center for Latin American Studies at Vanderbilt University.\

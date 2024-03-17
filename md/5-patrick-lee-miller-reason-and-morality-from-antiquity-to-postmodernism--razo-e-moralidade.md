@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/1986018/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571483-44100-2-991655c964f6b.m4a
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
 id: '5'

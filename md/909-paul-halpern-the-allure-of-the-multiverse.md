@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/82772495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-16%2F14bbe531-9a47-bcd5-68ee-ed1646aff11d.m4a
 draft: false
 excerpt: 'Dr. Paul Halpern is Professor of Physics at Saint Joseph''s University in
   Philadelphia. Dr. Halpern''s areas of expertise include the history of physics,

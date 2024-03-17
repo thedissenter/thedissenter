@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/12282896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63583265-44100-2-7fbe12b608484.m4a
 draft: false
 excerpt: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of
   the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological

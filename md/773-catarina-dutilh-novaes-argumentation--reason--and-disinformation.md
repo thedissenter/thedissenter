@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/62553028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-22%2F5b9e2540-be2e-4979-d5f3-7956924f1e72.m4a
 draft: false
 excerpt: "Dr. Catarina Dutilh Novaes is Professor and University Research Chair at\
   \ the Department of Philosophy of the VU Amsterdam. She is also a Professorial Fellow\

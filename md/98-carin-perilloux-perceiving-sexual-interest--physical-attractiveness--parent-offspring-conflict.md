@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2005657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707306-48000-2-f8a1c3c9bed49.mp3
 draft: false
 excerpt: Dr. Carin Perilloux is Assistant Professor of Psychology at Southwestern
   University, US. She uses cognitive science to study social phenomena from an evolutionary

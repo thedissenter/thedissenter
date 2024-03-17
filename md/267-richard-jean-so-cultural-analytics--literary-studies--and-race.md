@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4938408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-29%2F25293592-44100-2-8f69e28816124.m4a
 draft: false
 excerpt: 'Dr. Richard Jean So is Assistant Professor of English and Cultural Analytics
   at McGill University in Montreal. Previously, he served as an assistant professor

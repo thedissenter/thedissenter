@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/26252975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fccaa77d3-16a8-075d-0195-c8be0ba6531c.m4a
 draft: false
 excerpt: 'Dr. Michael Strevens is Professor of Philosophy at New York University.
   He works on the philosophy of science, where his interests include explanation,

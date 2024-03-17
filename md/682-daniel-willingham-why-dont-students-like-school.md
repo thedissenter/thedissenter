@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/54422512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-5%2Ffcad67e9-9a85-6180-60d9-e2b9a0dc6c2c.m4a
 draft: false
 excerpt: 'Dr. Daniel Willingham is Professor of Psychology at the University of Virginia.
   Until about 2000, his research focused solely on the brain basis of learning and

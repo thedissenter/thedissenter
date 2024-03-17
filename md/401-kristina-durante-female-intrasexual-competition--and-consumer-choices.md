@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/20528703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2Fbc814f77-bf6c-b9ec-bee3-451621861213.m4a
 draft: false
 excerpt: '------------------Sup  '
 id: '401'

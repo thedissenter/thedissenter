@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/10526275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-21%2F51601257-44100-2-7fe41f7378a5b.m4a
 draft: false
 excerpt: Dr. Cristine Legare is a professor of psychology and the director of the
   Evolution, Variation, and Ontogeny of Learning Laboratory at The University of Texas

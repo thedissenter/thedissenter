@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2016789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778232-44100-2-64718ea70836c.m4a
 draft: false
 excerpt: "Dr. Randy Thornhill is an American entomologist and evolutionary biologist.\
   \ He is a professor of biology at the University of New Mexico, and was president\

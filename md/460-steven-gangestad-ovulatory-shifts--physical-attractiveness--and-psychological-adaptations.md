@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/26253372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fc63d5829-d724-efe6-ad84-d218d37c293d.m4a
 draft: false
 excerpt: Dr. Steven Gangestad is Distinguished Professor Emeritus at the University
   of New Mexico. His research interests include social behavior; interpersonal relationships;

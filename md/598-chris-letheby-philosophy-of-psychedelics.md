@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/43937114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F4a9dc001-3d4c-d9e5-d966-1fefcf420c46.m4a
 draft: false
 excerpt: Dr. Chris Letheby is Lecturer in Philosophy at the University of Western
   Australia, and a postdoctoral researcher at the University of Adelaide. Dr. Letheby

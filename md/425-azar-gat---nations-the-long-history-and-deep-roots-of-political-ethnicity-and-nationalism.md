@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/24457118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-27%2F0c9ba917-2249-5313-9fa4-e40c5ebda38e.m4a
 draft: false
 excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel Aviv\
   \ University, in Israel. He is the founder and head of the University's International\

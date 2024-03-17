@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/74983976/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-23%2F2a7eb5b9-9f78-ce77-d8ac-3a0a90f71308.m4a
 draft: false
 excerpt: Dr. James Lee is Associate Professor of Psychology, and a member of the Graduate
   Faculty of Bioinformatics and Computational Biology at the University of Minnesota.

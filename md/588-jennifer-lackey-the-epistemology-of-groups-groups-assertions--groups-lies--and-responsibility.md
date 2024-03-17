@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/42816542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F9a1d5368-1cc2-1042-f3f7-5d08d757c84f.m4a
 draft: false
 excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy
   at Northwestern University. Jennifer Lackey specializes in epistemology, with a

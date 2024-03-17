@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/62614881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-23%2Fe41da6de-5f6b-eeab-af4f-55d081a2d879.m4a
 draft: false
 excerpt: "Dr. Eric Schwitzgebel is Professor of Philosophy at the University of California,\
   \ Riverside. Most of Dr. Schwitzgebel\u2019s research explores connections between\

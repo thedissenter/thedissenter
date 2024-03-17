@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2241593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121534-44100-2-b7df3dc0673aa.m4a
 draft: false
 excerpt: Dr. Derek Elliott is a newly minted doctor of philosophy from Duquesne University.
   He specializes in philosophy of psychology as well as action theory with a special

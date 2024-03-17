@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/62518810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-21%2F00392a1c-1da0-a872-e0d6-2e85667216b8.m4a
 draft: false
 excerpt: 'Dr. Justin Mogilski is Assistant Professor at the University of South Carolina
   Salkehatchie. His current program of research examines: 1) conflict resolution within

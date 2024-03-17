@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3927444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19165956-44100-2-6ad3784729688.m4a
 draft: false
 excerpt: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology at\
   \ the University of Montreal, Canada. He is an evolutionary social psychologist\

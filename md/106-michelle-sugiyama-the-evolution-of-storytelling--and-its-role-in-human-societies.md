@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2011011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734769-48000-2-3c4fa7440e12b.mp3
 draft: false
 excerpt: "Dr. Michelle Scalise Sugiyama is Senior Instructor at the University of\
   \ Oregon Institute of Cognitive and Decision Sciences, and an affiliate of the University\

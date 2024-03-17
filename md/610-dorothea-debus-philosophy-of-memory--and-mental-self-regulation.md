@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/45834956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-7%2F9a1e463e-3f97-1b45-4cf3-b289a0fa0bb1.m4a
 draft: false
 excerpt: "Dr. Dorothea Debus is Professor of Theoretical Philosophy at Konstanz University,\
   \ with a special focus on the philosophy of language and the philosophy of mind.\

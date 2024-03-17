@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/47209630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-5%2Ffd5a6546-24d6-e2dd-dd68-0e3a8648272f.m4a
 draft: false
 excerpt: "Dr. Leonard Newman is Associate Professor of Psychology at Syracuse University.\
   \ How do people resolve the ambivalent feelings they have about members of other\

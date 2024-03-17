@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/36155159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-25%2F35e35493-67d6-241d-6e80-60b42f6a83af.m4a
 draft: false
 excerpt: "Dr. Kyle Thomas recently received his Ph.D. in experimental psychology from\
   \ Harvard University, where he developed his research program on the psychology\

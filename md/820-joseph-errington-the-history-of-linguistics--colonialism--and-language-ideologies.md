@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/68848250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-18%2Fc4caa795-2b3d-7ddd-9f8e-093982d29f33.m4a
 draft: false
 excerpt: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. He
   studies language change as a source of insight into the ways languages constitute

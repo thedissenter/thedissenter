@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/37293751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F473e8a2f-f579-7092-8e4a-2e6d328fdb06.m4a
 draft: false
 excerpt: "Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy and\
   \ History of Science at the University of Sydney. Dr. Gaukroger has completed a\

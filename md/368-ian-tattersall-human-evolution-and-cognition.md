@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/16784036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F29607868-a4fb-d12b-9416-0bc82e8ed72b.m4a
 draft: false
 excerpt: 'Dr. Ian Tattersall is currently curator emeritus in the Division of Anthropology
   of the American Museum of Natural History in New York City. He has carried out both

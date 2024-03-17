@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/74506550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F0017b3c0-8fbe-21f3-4893-653ff2f2445f.m4a
 draft: false
 excerpt: 'Podcast: http://bit.ly/3FeSNqb'
 id: '873'

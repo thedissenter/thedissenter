@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4434309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138507-44100-2-a5cffd9d132c9.m4a
 draft: false
 excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
   \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\

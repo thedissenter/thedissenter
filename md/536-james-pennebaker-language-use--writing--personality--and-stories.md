@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/36962822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fab6652b4-fed9-8870-d410-bc5b1b21fe0c.m4a
 draft: false
 excerpt: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts
   and Professor of Psychology at the University of Texas at Austin. He and his students

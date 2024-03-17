@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/69258593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1c075f62-f86b-9bd7-0b91-c0695df7d6d1.m4a
 draft: false
 excerpt: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology\
   \ at the Department of Philosophy at the University of Vienna. He is former President\

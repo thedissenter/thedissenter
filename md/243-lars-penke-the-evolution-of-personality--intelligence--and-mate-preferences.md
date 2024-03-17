@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4248299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095778-44100-2-093ed0e489d64.m4a
 draft: false
 excerpt: "Dr. Lars Penke is Full Professor of Biological Personality Psychology at\
   \ the Georg August University of G\xF6ttingen. His research interests include the\

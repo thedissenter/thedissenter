@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2991689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13206050-44100-2-72fab4fdca9cf.m4a
 draft: false
 excerpt: "Dr. Robert Trivers is an American evolutionary biologist and sociobiologist.\
   \ He proposed the theories of reciprocal altruism (1971), parental investment (1972),\

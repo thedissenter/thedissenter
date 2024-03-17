@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/66615862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-15%2F31192e8d-83be-99df-4b35-a806420fb05e.m4a
 draft: false
 excerpt: 'Dr. Elijah Millgram is a Professor of Philosophy at the University of Utah.
   His research focuses on rationality, theoretical reasoning, and practical reasoning.

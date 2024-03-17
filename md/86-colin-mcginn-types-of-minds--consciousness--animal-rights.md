@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2005513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706731-48000-2-3ac36564e5aaa.mp3
 draft: false
 excerpt: '------------------Support me---------  '
 id: '86'

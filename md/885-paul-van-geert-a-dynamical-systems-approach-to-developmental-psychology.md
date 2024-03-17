@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/75632983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2Facd69fc5-f0fe-72f2-a406-7d18cad9e8f5.m4a
 draft: false
 excerpt: 'Dr. Paul van Geert is Professor Emeritus of Developmental Psychology at
   the University of Groningen, Netherlands. He is renowned for his work on developmental

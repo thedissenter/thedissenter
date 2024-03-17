@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/71088470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fb8cae584-55c2-27db-aac3-1d76f992c827.m4a
 draft: false
 excerpt: "Dr. Rebecca Tuvel is Associate Professor and Chair of Philosophy at Rhodes\
   \ College. She works in feminist philosophy, philosophy of race, and the ethics\

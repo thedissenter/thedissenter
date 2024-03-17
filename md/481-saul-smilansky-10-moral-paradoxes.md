@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/28013085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2Fe2340ed0-8b0f-c0fb-792c-e22217298c7b.m4a
 draft: false
 excerpt: Dr. Saul Smilansky is a Professor at the Department of Philosophy of the
   University of Haifa, Israel. He works primarily on normative and applied ethics,

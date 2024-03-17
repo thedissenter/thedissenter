@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/76411934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fa91fd9b2-2743-ff88-761c-e35c3a7e238f.m4a
 draft: false
 excerpt: "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where\
   \ he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/28008075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2F9a357980-4591-1c40-1e6a-659dea92410e.m4a
 draft: false
 excerpt: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the University
   of Illinois at Urbana-Champaign. Dr. Redstone''s work has focused on legal permanent

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3720849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877422-44100-2-af111d0c2fa81.m4a
 draft: false
 excerpt: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Sciences
   at the University of California, Irvine. Dr. Hoffman studies consciousness, visual

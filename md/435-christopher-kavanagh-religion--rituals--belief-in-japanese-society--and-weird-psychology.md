@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/25921041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2F126ef7b4-2c0a-c97c-4b59-cd314fc2be03.m4a
 draft: false
 excerpt: "Dr. Christopher Kavanagh is an associate professor in the College of Contemporary\
   \ Psychology at Rikkyo University and a researcher in cognitive anthropology at\

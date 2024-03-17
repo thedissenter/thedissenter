@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2241671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121915-44100-2-413bc84eb8faf.m4a
 draft: false
 excerpt: "Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct Associate\
   \ Professor of Internal Medicine and Associate Professor of Philosophy at the University\

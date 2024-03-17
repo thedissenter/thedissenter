@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4166890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20636077-44100-2-8794d8ab20c74.m4a
 draft: false
 excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and
   Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project

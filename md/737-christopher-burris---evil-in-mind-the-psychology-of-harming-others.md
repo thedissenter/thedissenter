@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/59404062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-21%2F0988677f-ea8c-d597-ead1-d4e03d558a13.m4a
 draft: false
 excerpt: 'Dr. Christopher Burris is a Professor of Psychology at St. Jerome''s University,
   one of the six faculties that makes up the University of Waterloo. Over the years,

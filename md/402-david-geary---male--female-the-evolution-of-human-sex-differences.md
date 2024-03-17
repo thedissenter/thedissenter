@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/23545449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F9e3dbea7-c681-e340-efa7-45c1516fc416.m4a
 draft: false
 excerpt: "Dr. David C. Geary is Curators\u2019 Professor and Thomas Jefferson Fellow\
   \ in the Department of Psychological Sciences and Interdisciplinary Neuroscience\

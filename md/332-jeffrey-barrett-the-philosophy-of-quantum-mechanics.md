@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/11653339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-28%2F59678249-44100-2-b2da15a69124.m4a
 draft: false
 excerpt: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philosophy\
   \ of Science at the University of California, Irvine. His current research involves\

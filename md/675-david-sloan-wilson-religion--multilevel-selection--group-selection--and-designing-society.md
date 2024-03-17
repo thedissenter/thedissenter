@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/53206875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-8%2Fa2270eb4-37d2-5f03-3c77-dea7521a506f.m4a
 draft: false
 excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor Emeritus of Biology\
   \ and Anthropology at Binghamton University. He applies evolutionary theory to all\

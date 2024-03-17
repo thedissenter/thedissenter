@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2241668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121898-44100-2-9449ed5da7075.m4a
 draft: false
 excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
   Harvard's Department of Economics. He applies game theory, models of learning and

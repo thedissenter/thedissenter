@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/49033575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F348a8b7d-58f3-6975-7175-7c4c370755bd.m4a
 draft: false
 excerpt: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping University,\
   \ and Director at National Centre for Priorities in Health, in Sweden. His research\

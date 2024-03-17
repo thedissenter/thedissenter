@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/26951906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2Fba8065cb-c5e4-0a6f-9979-9cecf1486346.m4a
 draft: false
 excerpt: Dr. Cari D. Goetz is Associate Professor of Psychology at California State
   University, San Bernardino. She does research in Evolutionary Psychology, specifically

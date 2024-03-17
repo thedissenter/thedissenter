@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/8984432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38451948-44100-2-6c258337902dc.m4a
 draft: false
 excerpt: Dr. Richard Ronay is Associate Professor of Leadership and Management at
   University of Amsterdam Business School. His research interests include power and

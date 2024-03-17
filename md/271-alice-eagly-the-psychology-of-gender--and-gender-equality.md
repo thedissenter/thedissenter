@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/5803691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-10%2F27460931-44100-2-c07f97937822f.m4a
 draft: false
 excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management\
   \ and Organizations at Northwestern University. She currently holds the James Padilla\

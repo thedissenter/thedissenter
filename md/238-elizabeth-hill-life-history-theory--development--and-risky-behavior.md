@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4166859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635738-44100-2-cab65bd317a0f.m4a
 draft: false
 excerpt: Dr. Elizabeth Hill is Professor of Psychology at the University of Detroit
   Mercy. Dr. Hill received her Ph.D. in Experimental Psychology from Tulane University.

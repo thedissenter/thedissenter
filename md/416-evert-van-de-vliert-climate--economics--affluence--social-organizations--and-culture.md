@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/22160549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2Fcf2a7fc7-e829-f236-d0de-893e73c3f2e4.m4a
 draft: false
 excerpt: "Dr. Evert Van de Vliert received his PhD from the Free University in Amsterdam\
   \ in 1973 and held teacher and researcher positions at the same university, at the\

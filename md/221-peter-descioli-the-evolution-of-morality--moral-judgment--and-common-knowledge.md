@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3852286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715805-44100-2-2783773ab16ea.m4a
 draft: false
 excerpt: Dr. Peter DeScioli is Assistant Professor in the Department of Political
   Science at Stony Brook University. His research investigates how the human mind

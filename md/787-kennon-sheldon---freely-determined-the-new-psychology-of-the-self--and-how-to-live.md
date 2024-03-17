@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/65154584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-16%2F38529dce-5402-eb2b-fa7b-e368eaa0ccfa.m4a
 draft: false
 excerpt: 'Dr. Kennon Sheldon is Curator''s Distinguished Professor in the Department
   of Psychological Sciences at the University of Missouri. His research is in the

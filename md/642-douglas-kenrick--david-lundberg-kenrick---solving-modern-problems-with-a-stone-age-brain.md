@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/53596371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-16%2F45f815b8-0e97-a231-de1c-0471ab2134d5.m4a
 draft: false
 excerpt: 'Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona
   State University.   '

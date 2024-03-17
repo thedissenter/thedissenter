@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/64257164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F5caaf48e-43ca-fbee-b59c-d5a5193ee251.m4a
 draft: false
 excerpt: Dr. Paul Russell is Professor of Philosophy at Lund University (half-time
   appointment since 2018). He also serves as Director of the Lund|Gothenburg Responsibility

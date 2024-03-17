@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/54073035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-27%2Fed478881-57e7-59d3-9155-81f5d311e5e2.m4a
 draft: false
 excerpt: Dr. Hector Qirko is Professor of Anthropology at the College of Charleston.
   His research interests include applied anthropology, organizational and institutional

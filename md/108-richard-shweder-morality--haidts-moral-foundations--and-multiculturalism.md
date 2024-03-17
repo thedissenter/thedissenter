@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2011036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734875-48000-2-16cd6c5f6495e.mp3
 draft: false
 excerpt: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift\
   \ Distinguished Service Professor of Human Development at the University of Chicago,\

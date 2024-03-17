@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4902807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122439-44100-2-a7ac330aff488.m4a
 draft: false
 excerpt: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the\
   \ Kinsey Institute. She received her PhD in Social Psychology from Florida State\

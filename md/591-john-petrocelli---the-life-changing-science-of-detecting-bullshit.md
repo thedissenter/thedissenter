@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/43243856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2F995bb6d2-4cdc-b653-1b4d-1bfea31cbc69.m4a
 draft: false
 excerpt: Dr. John Petrocelli is Professor of Psychology at Wake Forest University.
   He is a social psychologist and his research involves experimental social cognition

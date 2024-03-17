@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/26619302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F4f3a1d89-bc88-b3f2-f84b-a870b67cd565.m4a
 draft: false
 excerpt: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology
   at the College of Charleston. Her research has been federally funded by the National

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/54644400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F1f5195be-8db9-c94a-df28-c57b3edc928b.m4a
 draft: false
 excerpt: 'Dr. Cas Soper is a psychotherapist and psychologist in private practice.
   Dr. Soper has degrees from the University of Cambridge and the University of London,

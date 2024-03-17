@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2001468/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681175-48000-2-69e4735aec8bb.mp3
 draft: false
 excerpt: "Dr. Rebecca Newberger Goldstein is an American philosopher, novelist and\
   \ public intellectual. She is a MacArthur Fellow and has received the National Humanities\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/5385513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-4%2F26361902-44100-2-05a9b4f20ab71.m4a
 draft: false
 excerpt: Dr. Colin Allen is Distinguished Professor, and Director of Graduate Admissions
   in the Department of History and Philosophy of Science at the University of Pittsburgh.

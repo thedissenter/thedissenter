@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/67403154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-27%2F2ca898a3-a8fb-208e-3321-ad424a1505ab.m4a
 draft: false
 excerpt: 'Dr. Christopher Ferrie is an Associate Professor at the University of Technology
   Sydney and Centre for Quantum Software and Information. His research interests include

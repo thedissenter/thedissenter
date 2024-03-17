@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/51468579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-3%2F699dc136-7811-a965-cb6b-e1958c337185.m4a
 draft: false
 excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington State
   University. Her research interests include long-distance relationships and resource

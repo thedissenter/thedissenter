@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3721167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17878057-44100-2-13957ab6c2589.m4a
 draft: false
 excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
   University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure

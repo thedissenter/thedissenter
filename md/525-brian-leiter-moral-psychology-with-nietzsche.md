@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/39440774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F71bec331-c69f-de24-faf3-df99aef7637a.m4a
 draft: false
 excerpt: Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the University
   of Chicago Law School and founder and Director of Chicago's Center for Law, Philosophy

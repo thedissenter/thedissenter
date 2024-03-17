@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4434234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138158-44100-2-2f3a51ff07018.m4a
 draft: false
 excerpt: Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the University
   of Texas, Austin, US, under the supervision of David Buss. She is currently a senior

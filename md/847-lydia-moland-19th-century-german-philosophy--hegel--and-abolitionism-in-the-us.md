@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/71492218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F6f50e742-daf7-95d8-788b-7218cbb3e747.m4a
 draft: false
 excerpt: 'Dr. Lydia Moland is a Professor of Philosophy at Colby College in Waterville,
   Maine, where she teaches courses on moral philosophy, aesthetics, and the history

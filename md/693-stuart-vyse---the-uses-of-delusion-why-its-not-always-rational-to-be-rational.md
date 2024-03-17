@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/55086110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-20%2Fb9912829-3da6-f47e-6b84-79ab0e6ab718.m4a
 draft: false
 excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who specializes
   in belief in superstitions and critical thinking. He is a contributing editor for

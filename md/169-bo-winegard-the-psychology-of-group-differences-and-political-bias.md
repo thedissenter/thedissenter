@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2665878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-17%2F11455707-44100-2-96e466af97dde.m4a
 draft: false
 excerpt: "Dr. Bo Winegard is Assistant Professor of Psychology at Marietta College.\
   \ He generally approaches psychological puzzles from an evolutionary perspective,\

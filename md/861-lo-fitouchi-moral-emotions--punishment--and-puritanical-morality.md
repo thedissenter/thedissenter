@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/73126302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-7%2Fbb44100a-53b4-e19f-0172-0befa9dd2430.m4a
 draft: false
 excerpt: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive social\
   \ sciences at \xC9cole Normale Sup\xE9rieure in Paris (Department of Cognitive Science).\

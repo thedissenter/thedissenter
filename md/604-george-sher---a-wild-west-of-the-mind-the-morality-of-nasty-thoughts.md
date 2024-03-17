@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/44960487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-16%2F7f2cb001-9ce0-4a64-3379-47e15a304325.m4a
 draft: false
 excerpt: 'Dr. George Sher is Herbert S. Autrey Professor of Humanities and Professor
   of Philosophy at Rice University. In recent years, his research has centered on

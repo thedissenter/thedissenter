@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72128123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-14%2F17c12e0e-92a8-eb6a-0fd2-0fd7d5f87ee3.m4a
 draft: false
 excerpt: "Dr. Joshua Knobe is Professor of Philosophy, Linguistics and Psychology\
   \ at Yale University. A lot of his recent research has been concerned with the impact\

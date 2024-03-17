@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/62262153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-15%2F3d5a10bd-ac3f-769e-143d-bfe480120b9c.m4a
 draft: false
 excerpt: 'Dr. Filipe Nobre Faria currently works as a researcher in ethics and political
   philosophy at the Institute for Philosophy of the Nova University of Lisbon (IFILNOVA).

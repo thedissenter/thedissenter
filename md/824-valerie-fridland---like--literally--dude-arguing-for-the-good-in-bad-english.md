@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72036080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2Fe0677fef-cd7d-8b48-f30e-2cbafaf44a49.m4a
 draft: false
 excerpt: 'Dr. Valerie Fridland is Professor and former Director of Graduate Studies
   in the Department of English at the University of Nevada in Reno. She is an expert

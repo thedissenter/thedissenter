@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/21242656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2Fbff71e51-4210-26e4-809c-e4a3ec35bc22.m4a
 draft: false
 excerpt: Dr. Gordon Gallup is Professor in the Department of Psychology at the University
   of Albany. He is best known for developing the mirror test, also called the mirror

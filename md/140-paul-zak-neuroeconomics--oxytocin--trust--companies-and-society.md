@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2241649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121828-44100-2-8818ebd12e42.m4a
 draft: false
 excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponent\
   \ of the field. His current work applies neuroscience to build high performance\

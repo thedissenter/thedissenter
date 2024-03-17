@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/47754004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F3028a34d-fd24-d1bd-d9b2-8d899b1c75f8.m4a
 draft: false
 excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the University\
   \ of Minnesota. Her research and teaching focus on sovereignty, international law,\

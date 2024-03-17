@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/73336122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2F9c667579-0466-7fef-6641-3c19f5d1c9f2.m4a
 draft: false
 excerpt: "Dr. Diane O\u2019Leary is a Public Voices Fellow for Advancing the Rights\
   \ of Women and Girls with Equality Now and the op-ed project. She has a PhD in philosophy\

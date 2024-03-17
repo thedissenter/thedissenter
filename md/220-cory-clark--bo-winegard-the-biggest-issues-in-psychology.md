@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3852257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715674-44100-2-6e2e88b80c0ae.m4a
 draft: false
 excerpt: 'Dr. Cory Clark is an Assistant Professor of Social Psychology at Durham
   University, UK. Dr. Clark does research in Moral Psychology, Political Psychology,

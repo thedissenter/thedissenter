@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/20172289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F8d255ba2-9b4e-0335-b881-3a698d5fc9b6.m4a
 draft: false
 excerpt: 'Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in the
   departments of Psychology and Ecology & Evolutionary Biology at the University of

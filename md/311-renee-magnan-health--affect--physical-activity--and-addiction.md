@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/9605002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42870348-44100-2-b16582f2ef87f.m4a
 draft: false
 excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental Training\
   \ in the Department of Psychology at Washington State University. She applies social\

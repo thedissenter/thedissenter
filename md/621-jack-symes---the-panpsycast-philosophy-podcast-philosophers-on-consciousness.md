@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/51068563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-25%2F34593d1c-8fc3-ec85-3899-872f5199df2e.m4a
 draft: false
 excerpt: 'Jack Symes is the producer of The Panpsycast Philosophy Podcast and editor
   of the Bloomsbury series, Talking about Philosophy. He is currently Teacher and

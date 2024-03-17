@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4903297/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123125-44100-2-d7b7935d011d7.m4a
 draft: false
 excerpt: Dr. Reinout E. de Vries is Associate Professor at the VU University Amsterdam
   and Full Professor at the University of Twente. Together with researchers like Michael

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/51942506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2Fab3859ce-3b5c-1272-4bbd-75e886f3e8f3.m4a
 draft: false
 excerpt: Dr. Christopher von Rueden is Associate Professor of Leadership Studies at
   the University of Richmond. An anthropologist with expertise in traditional human

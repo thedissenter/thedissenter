@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4743631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382528-44100-2-fbebec993de1d.m4a
 draft: false
 excerpt: "I\u2019M SORRY ABOUT THE MISSING BITS OF AUDIO HERE AND THERE, BUT THE CONNECTION\
   \ WAS A BIT WEAK.  "

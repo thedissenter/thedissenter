@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2665912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456017-44100-2-0184c854d1a47.m4a
 draft: false
 excerpt: "Dr. Steven Hales is Professor and Chair of the Department of Philosophy\
   \ at Bloomsburg University, US. His areas of specialization include epistemology\

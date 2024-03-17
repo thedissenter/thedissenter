@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72325673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-19%2F285ade6c-ef69-32b0-753b-38fe0a33ec45.m4a
 draft: false
 excerpt: "Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer in\
   \ Philosophy at Cardiff University. Her research falls at the intersection of philosophy\

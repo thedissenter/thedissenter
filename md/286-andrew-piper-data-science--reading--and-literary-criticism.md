@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/8467414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319483-44100-2-1ca2cedc07864.m4a
 draft: false
 excerpt: "Dr. Andrew Piper is Professor in the Department of Languages, Literatures,\
   \ and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural\

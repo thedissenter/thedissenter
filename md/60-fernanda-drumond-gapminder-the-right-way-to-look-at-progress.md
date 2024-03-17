@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/1997560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651377-44100-2-1780779145e2b.mp3
 draft: false
 excerpt: 'Gapminder Foundation is a non-profit venture based in Stockholm, Sweden,
   that promotes sustainable global development and achievement of the United Nations

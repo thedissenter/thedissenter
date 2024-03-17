@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/62780426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-28%2Fd9d8be07-227c-64ee-e3f0-2047ef8fceaa.m4a
 draft: false
 excerpt: Dr. Frederick Toates is Emeritus Professor of Biological Psychology at the
   Open University. Dr. Toates' research interests are primarily in the area of motivation.

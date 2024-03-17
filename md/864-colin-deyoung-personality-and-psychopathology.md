@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/73374233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-13%2F9261c876-651d-75f3-2b3a-01a556901b55.m4a
 draft: false
 excerpt: Dr. Colin DeYoung is Associate Professor of Psychology at the University
   of Minnesota. In his research in personality psychology, he has examined the theoretical

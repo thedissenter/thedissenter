@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/18709988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-28%2F7f80e0cc-1b4b-7591-2207-8bed03f85150.m4a
 draft: false
 excerpt: "Dr. Paul Eastwick is Professor of Psychology at the University of California,\
   \ Davis. Dr. Eastwick\u2019s research investigates how people initiate romantic\

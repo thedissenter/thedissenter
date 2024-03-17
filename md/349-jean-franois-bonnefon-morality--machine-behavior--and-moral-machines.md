@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/14548828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78308131-44100-2-bae4f4cb350e3.m4a
 draft: false
 excerpt: "Dr. Jean-Fran\xE7ois Bonnefon (PhD, cognitive psychology) is a Research\
   \ Director at the French Centre National de la Recherche Scientifique, affiliated\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/77759616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2F7ffea42a-b2e9-e6af-2c27-a18429a7ae74.m4a
 draft: false
 excerpt: 'Dr. Daniel Simons is a Professor in the Department of Psychology at the
   University of Illinois, where he directs the Visual Cognition Laboratory. Dr. Simons

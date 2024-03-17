@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/66256835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-9%2Ff2e882ad-e930-b829-f2ae-50058a152f07.m4a
 draft: false
 excerpt: Dr. Deborah Gordon is a Professor in the Department of Biology at Stanford
   University. She studies how ant colonies work without central control using networks

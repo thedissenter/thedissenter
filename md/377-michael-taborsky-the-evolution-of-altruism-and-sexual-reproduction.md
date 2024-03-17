@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/17068238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2Fdf411f94-7a91-06ec-cf8d-6ae6f0f8aa10.m4a
 draft: false
 excerpt: Dr. Michael Taborsky is the Director of the Behavioural Ecology Department
   and Co-director of the Institute of Ecology and Evolution at the University of Bern,

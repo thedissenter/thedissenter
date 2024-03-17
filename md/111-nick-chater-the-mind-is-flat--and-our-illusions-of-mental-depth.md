@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2011085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735093-48000-2-555195e194cbb.mp3
 draft: false
 excerpt: "Dr. Nick Chater is Professor of Behavioural Science at Warwick Business\
   \ School. He works on rationality and language using a range of theoretical and\

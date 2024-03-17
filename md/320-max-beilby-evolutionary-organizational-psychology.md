@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/10095328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46166502-44100-2-97af92474d3b4.m4a
 draft: false
 excerpt: "Max Beilby is a Management and Organizational Psychologist and author of\
   \ the Darwinian Business blog. He\u2019s currently working as a practitioner in\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/23545634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F5a748edd-9278-5b48-91db-5298e9caf616.m4a
 draft: false
 excerpt: "Dr. Christopher Freiman is Associate Professor of Philosophy at the College\
   \ of William & Mary. His research interests include democratic theory, distributive\

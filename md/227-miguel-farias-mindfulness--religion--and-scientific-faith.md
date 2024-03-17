@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3927504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19166127-44100-2-32e8372004e7.m4a
 draft: false
 excerpt: "Dr. Miguel Farias is an Associate Professor at Coventry University, UK.\
   \ His work explores the psychological impact of beliefs and spiritual practices,\

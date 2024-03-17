@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/35727066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2F26972593-438e-eb49-42a3-90522cb80c2e.m4a
 draft: false
 excerpt: Jordan Moss is a psychology graduate and medical student at the University
   of Sydney. He has research interests in individual differences, with particular

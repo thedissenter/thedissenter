@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2001636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682039-44100-2-a4843a671da15.mp3
 draft: false
 excerpt: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare
   system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study

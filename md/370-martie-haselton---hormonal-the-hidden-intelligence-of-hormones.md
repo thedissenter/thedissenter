@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/18032333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2Fb76c6371-c4aa-d90c-d7fd-f8afc7883059.m4a
 draft: false
 excerpt: "Dr. Martie Haselton is Professor in the Departments of Psychology and Communication\
   \ as well as the ISG (Institute for Society and Genetics) at UCLA. Her research\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/66555376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-14%2F663e5ce0-6dcf-073a-2b8a-567720a84152.m4a
 draft: false
 excerpt: 'Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell
   University. His research and teaching interests revolve around the intersections

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/30779524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-5%2Fcb05dc44-3431-40d6-1c7c-ce2ca18ef35c.m4a
 draft: false
 excerpt: 'Dr. Edward Westermann is Professor of History at Texas A&M University (USA),
   where he teaches courses related to Modern and Contemporary European History. Dr.

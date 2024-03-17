@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/60628682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2Fb7b0128c-067e-633b-2c32-36ca20c83213.m4a
 draft: false
 excerpt: 'Dr. Marya Schechtman is an LAS Distinguished Professor of Philosophy, as
   well as a member of the Laboratory of Integrative Neuroscience at the University

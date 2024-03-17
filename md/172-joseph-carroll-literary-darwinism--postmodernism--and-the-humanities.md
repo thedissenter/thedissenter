@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2665931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456164-44100-2-78bbaccb99cb8.m4a
 draft: false
 excerpt: "Dr. Joseph Carroll is a scholar in the field of literature and evolution.\
   \ He is currently Curators\u2019 Professor at the University of Missouri\u2013St.\

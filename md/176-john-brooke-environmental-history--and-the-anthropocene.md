@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2788745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145720-44100-2-db640823b88fe.m4a
 draft: false
 excerpt: 'Dr. John Brooke is Arts & Sciences Distinguished Professor of History, Professor
   of Anthropology, and Director of the Ohio State University Center for Historical

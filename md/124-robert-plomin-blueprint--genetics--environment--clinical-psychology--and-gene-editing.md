@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2016756/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778109-44100-2-7e0fc7ccd51c7.m4a
 draft: false
 excerpt: "Dr. Robert Plomin is Professor of Behavioural Genetics at the Social Genetic\
   \ & Developmental Psychiatry Center at King\u2019s College London, and Research\

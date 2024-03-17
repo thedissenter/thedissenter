@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/4000340/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666381-44100-2-47e45bacc22eb.m4a
 draft: false
 excerpt: 'Dr. Steven C. Hayes is Nevada Foundation Professor in the Behavior Analysis
   program at the Department of Psychology at the University of Nevada. An author of

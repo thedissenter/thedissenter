@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72793632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-29%2F5ee4c74f-b8a8-a77d-b6bf-55ef8f98cc0c.m4a
 draft: false
 excerpt: 'Dr. Raymond Hames is Professor of Anthropology at the University of Nebraska-Lincoln.
   His research interests are in behavioral ecology, food and labor exchange, human

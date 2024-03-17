@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3780595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281475-44100-2-7896ec68439a7.m4a
 draft: false
 excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution\
   \ and Social Change at Arizona State University. His background is in the evolution\

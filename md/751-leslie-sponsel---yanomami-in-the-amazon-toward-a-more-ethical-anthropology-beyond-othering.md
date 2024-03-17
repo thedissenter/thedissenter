@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/61347542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2Fc956f75b-9997-85e1-0c51-d265b342758b.m4a
 draft: false
 excerpt: 'NOTE: All of the royalties from Dr. Sponsel''s book are donated to Survival
   International on behalf of their continuing vital help with the Yanomami.'

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/27248419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F4ed1a543-c4a9-29e7-6d39-796e467cfb5c.m4a
 draft: false
 excerpt: 'Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Honorary
   Professor of Philosophy at Macquarie University. He is also the Co-Director of the

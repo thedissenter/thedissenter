@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/21907104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2Ff3eaeaa5-610e-36ab-4954-acc84fad45bc.m4a
 draft: false
 excerpt: Dr. Michael Anderson is Rotman Canada Research Chair in Philosophy of Science,
   Core member at the Rotman Institute of Philosophy, and Core member at the Brain

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/72207645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-16%2F62e641d5-04a5-2697-9757-97765f7011e3.m4a
 draft: false
 excerpt: 'Dr. Suthan Krishnarajan is Associate Professor in Political Science at Aarhus
   University. His research agenda seeks to understand and explain political regime

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2005564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706975-44100-2-f8cb0a92ed3fa.mp3
 draft: false
 excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia\
   \ University. He\u2019s a theoretical sociologist who seeks to develop general explanations\

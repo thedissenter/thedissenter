@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/33826559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-19%2Fc9b66b05-2196-ffc9-97c0-0784a04b0b62.m4a
 draft: false
 excerpt: "Dr. Andrew Norman teaches philosophy at Carnegie Mellon University. He works\
   \ on the conceptual and historical foundations of humanism. He has published widely\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/41136620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2Ff44600b2-cfea-7094-f8c3-0776acfd4a9f.m4a
 draft: false
 excerpt: Dr. J. Michael Bailey is an American psychologist, behavioral geneticist,
   and professor at Northwestern University. His interests include sexual orientation,

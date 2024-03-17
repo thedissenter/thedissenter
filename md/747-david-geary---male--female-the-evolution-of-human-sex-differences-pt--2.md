@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/61104344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-23%2F655f0041-4f74-b5b9-4877-3cb2f7e0664e.m4a
 draft: false
 excerpt: "Dr. David C. Geary is Curators\u2019 Distinguished Professor in the Department\
   \ of Psychological Sciences at the University of Missouri.  He\u2019s the author\

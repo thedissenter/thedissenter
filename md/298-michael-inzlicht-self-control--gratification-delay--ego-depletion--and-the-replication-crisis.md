@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/8984536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38452733-44100-2-0bd7c19a9eebc.m4a
 draft: false
 excerpt: Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University
   of Toronto. His primary appointment is as Professor in the Department of Psychology,

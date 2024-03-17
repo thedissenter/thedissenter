@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/3354855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848526-44100-2-6899070018b54.m4a
 draft: false
 excerpt: "O Dr. Carlos Fiolhais \xE9 Professor Catedr\xE1tico de F\xEDsica na Universidade\
   \ de Coimbra. Foi professor convidado em universidades de Portugal, Brasil e Estados\

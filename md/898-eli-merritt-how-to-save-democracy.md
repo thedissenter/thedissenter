@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/76735308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-3%2Ff8098d4b-eac2-2ec6-fcba-46cf96419dd1.m4a
 draft: false
 excerpt: 'Dr. Eli Merritt is a political historian at Vanderbilt University where
   he researches the ethics of democracy, the interface of demagogues and democracy,

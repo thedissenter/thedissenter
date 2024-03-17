@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/65212789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-17%2Fd3b447ff-3a88-5ce9-7237-996e6a88cb29.m4a
 draft: false
 excerpt: 'Dr. Kieran Setiya is Professor of Philosophy at MIT. He works mainly in
   ethics, epistemology, and the philosophy of mind. He is the author of Practical

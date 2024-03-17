@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/56712240/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-27%2Fcfcc1360-57f6-e588-6e6a-da174c68bd83.m4a
 draft: false
 excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
   \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\

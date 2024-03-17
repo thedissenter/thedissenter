@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/18416225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2Fa0cf2d2d-b197-32b1-952b-fafbbf7507cb.m4a
 draft: false
 excerpt: "Dr. Karenleigh A. Overmann is an associate professor of anthropology (adjunct)\
   \ at the University of Colorado, Colorado Springs (UCCS) Center for Cognitive Archaeology.\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/61891576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-8%2F80a32dc1-452c-940a-5c69-81748d712058.m4a
 draft: false
 excerpt: 'Dr. Chad Orzel is an Associate Professor in the Department of Physics and
   Astronomy at Union College in Schenectady, NY, where he teaches a wide range of

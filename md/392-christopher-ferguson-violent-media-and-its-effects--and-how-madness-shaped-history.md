@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/19799748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2Ff9c39d97-50d8-8cf0-e155-deebce0b550e.m4a
 draft: false
 excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson University.\
   \ He is interested in media violence and, in particular, video games. He has been\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/42136610/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2F94e3883e-e35c-e23f-3dcc-d2f5ae590919.m4a
 draft: false
 excerpt: 'Dr. Paul Bloom is Professor Emeritus at Yale University and Professor of
   Psychology at the University of Toronto. His research explores how children and

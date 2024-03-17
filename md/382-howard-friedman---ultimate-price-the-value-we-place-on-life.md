@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/19111129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2Fe02f7823-afd5-7daf-7906-0b20da2da112.m4a
 draft: false
 excerpt: 'Dr. Howard Steven Friedman is a data scientist, health economist, writer
   and artist. He teaches at Columbia University and has decades of experience in the

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/63625094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F089a889b-14cb-a5fe-e0fa-c743ab809580.m4a
 draft: false
 excerpt: Dr. Keelah Williams is an Assistant Professor of Psychology and Director
   of Jurisprudence of Law and Justice Studies at Hamilton College. Her current research

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2788795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-30%2F12145897-44100-2-644240680905f.m4a
 draft: false
 excerpt: "Dr. Justin L. Barrett is Professor of Psychology at Fuller Graduate School\
   \ of Psychology and Chief Project Developer for the Office for Science, Theology\

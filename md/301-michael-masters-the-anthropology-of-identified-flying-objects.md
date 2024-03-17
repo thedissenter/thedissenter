@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/9179454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-21%2F40054427-44100-2-28c132a8af3f5.m4a
 draft: false
 excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research
   centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial

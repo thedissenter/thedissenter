@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2016774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778154-44100-2-e10b0aeec954f.m4a
 draft: false
 excerpt: 'Dr. Patrick Forscher is Assistant Professor of Psychology at the J. William
   Fulbright College of Arts & Sciences at the University of Arkansas. He studies social

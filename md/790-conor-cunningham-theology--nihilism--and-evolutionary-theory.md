@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/65351587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-20%2F30357772-3718-78ef-058e-b227c50ede67.m4a
 draft: false
 excerpt: 'Dr. Conor Cunningham is Associate Professor in Theology and Philosophy at
   the Faculty of Arts at the University of Nottingham. He is interested in Metaphysics,

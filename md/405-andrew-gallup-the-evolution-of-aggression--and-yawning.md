@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/20529187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F6a430aea-16b6-7bad-6382-abfc449c914b.m4a
 draft: false
 excerpt: Dr. Andrew Gallup is Assistant Professor of Psychology and the director of
   the Adaptive Behavior and Cognition (ABC) Lab at SUNY Poly. His research spans a

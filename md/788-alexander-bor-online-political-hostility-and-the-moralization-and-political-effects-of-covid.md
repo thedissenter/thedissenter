@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/63146322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-6%2F68dca3f4-6bf0-574d-97b0-2a6e66095adb.m4a
 draft: false
 excerpt: Dr. Alexander Bor is a postdoc at the CEU Democracy Institute's Research
   Group on De- and Re-Democratization and a Visiting Professor at CEU Vienna. He received

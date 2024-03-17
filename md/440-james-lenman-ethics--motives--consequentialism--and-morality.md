@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/24162507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2Ff8f506f7-9dfa-5d13-c70e-b326e3284b15.m4a
 draft: false
 excerpt: Dr. James Lenman is Professor of Philosophy at the University of Sheffield.
   He is known for his expertise on ethics. Dr. Lenman is a former president of the

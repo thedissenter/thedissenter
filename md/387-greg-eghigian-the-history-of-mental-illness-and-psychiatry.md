@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/19111280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2F54cc0e50-7a3e-dcc2-6c6b-8373790e6a93.m4a
 draft: false
 excerpt: 'Dr. Greg Eghigian is Professor of History at Pennsylvania State University.
   A historian of both the human sciences and modern Europe, he is particularly interested

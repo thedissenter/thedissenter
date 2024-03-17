@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/37607353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F59c49fc5-db42-26fa-a4e5-1ccd57761a9b.m4a
 draft: false
 excerpt: Dr. Itai Yanai is Founding Director of the Institute for Computational Medicine
   at the NYU Grossman School of Medicine. He is also a Professor in the Department

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/80467519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F9d498211-e3fa-7fde-1b51-09e67fb85e1f.m4a
 draft: false
 excerpt: 'Dr. Nadine Strossen is the John Marshall Harlan II Professor of Law Emerita
   at New York Law School and past President of the American Civil Liberties Union

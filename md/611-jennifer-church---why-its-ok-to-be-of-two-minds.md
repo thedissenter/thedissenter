@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/46114546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F8f86186c-8d0a-a55c-a7f6-5076e94b4f51.m4a
 draft: false
 excerpt: "Dr. Jennifer Church is a Professor of Philosophy at Vassar College in Poughkeepsie,\
   \ New York. Her research addresses various topics in the philosophy of mind. She\

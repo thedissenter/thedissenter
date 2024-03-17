@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/73510459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-17%2F30b87a5b-5a0c-b92f-fa93-1826fe9e590a.m4a
 draft: false
 excerpt: Dr. Carrie Mongle is Assistant Professor in the Department of Anthropology
   at Stony Brook University and the Turkana Basin Institute. She also heads the Mongle

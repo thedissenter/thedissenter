@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/23851653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F2cb65e97-2988-9ad3-6778-0d76058c7f5c.m4a
 draft: false
 excerpt: "Dr. Michael Tomasello is an American developmental and comparative psychologist,\
   \ as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary\

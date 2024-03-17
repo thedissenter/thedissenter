@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2016873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778528-44100-2-562f5fef51ad8.m4a
 draft: false
 excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
   \ Forest University. His research is primarily in contemporary ethics and philosophy\

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/22892303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2F607c70d3-9fe9-a228-2cf6-a0ea2e0ab1b9.m4a
 draft: false
 excerpt: 'Dr. Stuart Russell is a Professor of Computer Science at the University
   of California, Berkeley, where he also holds the Smith-Zadeh Chair in Engineering.

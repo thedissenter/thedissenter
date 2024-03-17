@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/65449974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F6f72c7fe-0a3f-670b-5703-07a8e624e801.m4a
 draft: false
 excerpt: 'Dr. Adam Bulley is a postdoctoral fellow at the Brain and Mind Centre and
   School of Psychology, The University of Sydney, and the Department of Psychology

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/53625058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-17%2F63e4cf7e-6119-79e2-117c-1a0a16f4ba05.m4a
 draft: false
 excerpt: 'William Costello finished his MSc in Psychology: Culture and Evolution at
   Brunel University London in 2021. The topic of his thesis was incels. Later this

@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/2001700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682386-44100-2-a3d4f7e2aa034.mp3
 draft: false
 excerpt: "Dr. David Christian is Professor at the Department of Modern History, Politics\
   \ and International Relations at Macquarie University. He is notable for teaching\

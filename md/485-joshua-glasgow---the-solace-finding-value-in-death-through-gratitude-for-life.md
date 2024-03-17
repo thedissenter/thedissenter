@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/29490380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2F78513c3f-715c-79ce-5f0d-fd4b8407714b.m4a
 draft: false
 excerpt: "Dr. Joshua Glasgow is Associate Professor in (and Chair of) the Philosophy\
   \ Department at Sonoma State University. Dr. Glasgow works on a variety of topics\

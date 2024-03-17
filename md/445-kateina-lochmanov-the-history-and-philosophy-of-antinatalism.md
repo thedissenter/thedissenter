@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/24638343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2Fbcd71b04-56f0-4760-f23e-1aabf5f92814.m4a
 draft: false
 excerpt: "Kate\u0159ina Lochmanov\xE1 is currently finishing her postgraduate studies\
   \ of philosophy at the University of Ostrava, where she graduated with a diploma\

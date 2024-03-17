@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/66705571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-16%2Fc9c2a581-26e5-b6ba-969e-602877b10d87.m4a
 draft: false
 excerpt: 'Dr. Richard Redding is Ronald D. Rotunda Distinguished Professor of Jurisprudence
   and Professor of Psychology at Chapman University. Dr. Redding''s research focuses
