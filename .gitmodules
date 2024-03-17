@@ -4,5 +4,5 @@
 	branch = .
 [submodule "incharge-podcaster"]
 	path = incharge-podcaster
-	url = git@github.com:/incharge-podcaster.git
+	url = git@github.com:incharge/incharge-podcaster.git
 	branch = .
