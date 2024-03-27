@@ -5,13 +5,14 @@
         "Youtube via RSS": {
             "type": "youtube-rss",
             "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTUcatGD6xu4tAcxG-1D4Bg",
-            "primary": true
+            "primary": true,
+            "ignore": true
         },
         "Youtube via API": {
             "type": "youtube-api",
-            "channel": "UUTUcatGD6xu4tAcxG-1D4Bg",
-            "only-new": false,
-            "ignore": true,
+            "channel": "UCTUcatGD6xu4tAcxG-1D4Bg",
+            "playlist": "UUTUcatGD6xu4tAcxG-1D4Bg",
+            "only-new": true,
             "primary": true
         },
         "Spotify": {

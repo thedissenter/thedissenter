@@ -33,7 +33,8 @@ jobs:
     - name: Copy content to astrowind/src/content/post
       run: |
           mkdir -p astrowind/src/content/post
-          cp md/*.md astrowind/src/content/post/        
+          cp md/*.md astrowind/src/content/post/
+          cp categories.yaml astrowind/src/
     - name: Install, build, and upload the site
       uses: withastro/action@v1
       with:
