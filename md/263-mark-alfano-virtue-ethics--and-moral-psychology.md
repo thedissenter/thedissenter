@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122687-44100-2-4a409dc1bca18.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University\
   \ of Technology and the Australian Catholic University. Dr. Alfano uses tools and\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57919536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-21%2F86c4b8bb-80e9-6243-bc6b-b6b6ae0b8d96.m4a
+category: Anthropology
 draft: false
 excerpt: 'Dr. Cristina Moya is Assistant Professor of Anthropology at the University
   of California, Davis. She is an evolutionary anthropologist interested in how humans

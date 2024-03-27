@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22574608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-14%2F3a4ddc4a-224c-25dc-0019-6d6f407cc632.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Stephen Stearns is Edward P Bass Professor of Ecology and Evolutionary\
   \ Biology, and Director of Undergraduate Studies at Yale University. Dr. Stearns\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7650982-44100-2-d2fa1293e27a8.mp3
+category: Economics
 draft: false
 excerpt: "Andreas M. Antonopoulos is a critically-acclaimed best-selling author, speaker,\
   \ educator, and one of the world\u2019s foremost bitcoin and open blockchain experts.\

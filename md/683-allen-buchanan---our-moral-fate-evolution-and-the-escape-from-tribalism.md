@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/53811963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F96ccbb2a-0fcc-3c12-a4fb-43c505102754.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of
   Philosophy at Duke University, and Laureate Professor of Philosophy at the University

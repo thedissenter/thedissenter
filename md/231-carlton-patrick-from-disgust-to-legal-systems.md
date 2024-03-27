@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4082095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20118920-44100-2-85e746dde3f6d.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College
   of Community, Innovation and Education at the University of Central Florida. Dr.

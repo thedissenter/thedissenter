@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52761049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-30%2F4169e52b-d981-7ded-8e9f-3108f5f132c7.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Jonas Olson is Professor of Practical Philosophy at Stockholm University.
   His research areas include metaethics and related subjects.  '

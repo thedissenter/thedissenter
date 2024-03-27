@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4082127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20119036-44100-2-a67864c2256d2.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Founding\
   \ Director in The Center for Evolution and Medicine at Arizona State University,\

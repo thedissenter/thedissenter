@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7609563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30944884-44100-2-b27b063564dc6.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her\
   \ contributions to neurophilosophy and the philosophy of mind. She is UC President's\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3852311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715904-44100-2-ebeb9fa977fcc.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Sven Nyholm is an Assistant Professor of Philosophy and Ethics at Eindhoven
   University of Technology (TU/e). His main areas of research are applied ethics (especially

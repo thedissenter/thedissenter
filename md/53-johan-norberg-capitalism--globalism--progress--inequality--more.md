@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7648317-44100-2-3565da9496c8a.mp3
+category: Economics
 draft: false
 excerpt: "Mr. Johan Norberg is an author and historian from Sweden. He\u2019s been\
   \ a senior fellow at the Cato Institute since 2007, and the executive director at\

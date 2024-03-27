@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75633322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F56e314b1-60b3-b267-af8f-cf3072fbe7e9.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor and Professor
   of Biology, of Neurology and Neurological Sciences, and of Neurosurgery at Stanford

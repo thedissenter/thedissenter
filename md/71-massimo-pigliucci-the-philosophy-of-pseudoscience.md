@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681666-44100-2-c0f31af09776e.mp3
+category: Philosophy
 draft: false
 excerpt: "Dr. Massimo Pigliucci is Professor of Philosophy at CUNY-City College, formerly\
   \ co-host of the Rationally Speaking Podcast, and formerly the editor in chief for\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706806-44100-2-07d31f84b53dc.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas at\
   \ Austin. He\u2019s one of the founders of the field of evolutionary psychology.\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647974-44100-2-a48578569213b.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. Nancy Segal is Professor of Developmental Psychology and Director of\
   \ the Twin Studies Center, at California State University, Fullerton. She\u2019\

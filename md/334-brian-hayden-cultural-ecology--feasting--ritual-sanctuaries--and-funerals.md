@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12282602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63581294-44100-2-0622b22b4104d.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Brian Hayden is Retired Professor in the Department of Archaeology at
   Simon Fraser University, and he also holds a research position at the University

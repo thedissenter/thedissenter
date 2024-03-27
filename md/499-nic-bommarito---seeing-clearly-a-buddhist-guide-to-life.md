@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31485679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F87e0ca86-c9a7-eafe-be30-98e0da26df3d.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Nicolas Bommarito is Assistant Professor of Philosophy at Simon Fraser
   University. His research focuses on questions in virtue ethics, moral psychology,

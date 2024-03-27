@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73015026/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-5%2F3d4d848c-ba87-3d6b-153f-3cf60d75fe26.m4a
+category: Biology
 draft: false
 excerpt: Dr. Jessica Nowicki is a Research Scientist at the Wu Tsai Neurosciences
   Institute at Stanford University. She is interested in the mechanistic basis of

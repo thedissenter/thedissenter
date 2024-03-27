@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76104922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F816ce5c8-caf7-c47a-cdb7-0ccc3bfe4f05.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished University\
   \ Professor Emeritus of Psychology and Research Professor Emeritus at the University\

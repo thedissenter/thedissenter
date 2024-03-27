@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20172440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F3c008f04-12f4-1082-62b0-4c2f5332ec64.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Niels Dingemanse is Tenured Professor in Behavioural Ecology in the Department
   of Biology at the Ludwig Maximilians University, Germany. He conducts evolutionary

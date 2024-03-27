@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735223-48000-2-edf2e90d99955.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre National\
   \ de la Recherche Scientifique (Institut Jean Nicod), where he works with the Evolution\

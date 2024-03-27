@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23826421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2Fd845f7f6-40a2-0bb2-a4b0-6c78b1731f71.m4a
+category: Psychology
 draft: false
 excerpt: 'Thomas Coleman III is PhD student at Coventry University, and a Postdoctoral
   Researcher at the University of Bialystok as part of the Society and Cognition Unit.

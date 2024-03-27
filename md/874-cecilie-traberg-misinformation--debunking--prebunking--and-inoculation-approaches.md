@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74233744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-4%2F51799f6d-d16b-fb77-4c0e-3e60d9c05968.m4a
+category: Psychology
 draft: false
 excerpt: 'Cecilie Traberg is a Psychology PhD Candidate in the Social Decision-Making
   Lab at the University of Cambridge supervised by Professor Sander van der Linden

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60362470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F3bec5d09-2259-9450-40e5-82b2fd29114f.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Batja Mesquita is Distinguished Professor of Psychology at the University
   of Leuven, Belgium, where she studies the role of culture in emotions, and of emotions

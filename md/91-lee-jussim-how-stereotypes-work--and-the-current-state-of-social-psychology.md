@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707026-44100-2-de7438ef56139.mp3
+category: Psychology
 draft: false
 excerpt: Dr. Lee Jussim is Distinguished Professor, Chair and Graduate Director of
   the Department of Psychology at Rutgers University. He also runs the Social Perception

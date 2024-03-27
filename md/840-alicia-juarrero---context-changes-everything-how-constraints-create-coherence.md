@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76054145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-18%2Fc7aca338-cc86-bd75-6c5e-573c5354a47f.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Alicia Juarrero is President and Founder of VectorAnalytica. Her research
   in neurophilosophy has been focused on the causal role of context-sensitive constraints

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75314463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F732c32f0-f93f-07ab-d628-812ce74046a1.m4a
+category: Politics
 draft: false
 excerpt: Fredrik DeBoer is a writer and academic. He writes a newsletter on culture
   and politics. He is the author of The Cult of Smart, and, more recently, How Elites

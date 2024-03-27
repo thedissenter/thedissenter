@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22531913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2Fbf5eee63-d4ed-5c63-e803-bd88003c5ee7.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Christian List is Professor of Philosophy and Decision Theory at LMU\
   \ Munich and Co-Director of the Munich Center for Mathematical Philosophy. He\u2019\

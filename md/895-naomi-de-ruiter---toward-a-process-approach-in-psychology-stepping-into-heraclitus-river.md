@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76450865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-27%2Ff08b5051-7cdf-7885-dced-b3d060c760db.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Naomi de Ruiter is Assistant Professor of Psychology at the University
   of Groningen. In her current research, she is inspired by critical psychology and

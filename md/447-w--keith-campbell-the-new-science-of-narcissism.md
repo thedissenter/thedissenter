@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25226459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F510e701e-a887-c735-1376-f56f4c1568d8.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. William Keith Campbell is a professor in the Department of Psychology\
   \ in the University of Georgia's Franklin College of Arts and Sciences. He has published\

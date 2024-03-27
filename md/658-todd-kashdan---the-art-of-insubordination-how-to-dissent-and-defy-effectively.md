@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51748596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-9%2F74ea6ac8-bfa1-0dd2-f169-a85c4a0fc055.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Todd Kashdan is Professor of Psychology at George Mason University.
   He has been named Distinguished Faculty Member of the Year at George Mason University

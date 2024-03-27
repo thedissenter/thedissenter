@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71790456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-7%2Ffb3edd0d-c5d9-a9df-cb16-aeaa559849c0.m4a
+category: History
 draft: false
 excerpt: "Dr. James McCann is Professor Emeritus of History at Boston University.\
   \ Dr. McCann\u2019s research and teaching interests include agricultural and ecological\

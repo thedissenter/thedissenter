@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38276545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-4%2F21fc3d1b-c05a-f5d3-5739-1db798fb9faf.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. David Lewis is Senior Lecturer in Social Psychology at Murdoch University. '
 id: '544'

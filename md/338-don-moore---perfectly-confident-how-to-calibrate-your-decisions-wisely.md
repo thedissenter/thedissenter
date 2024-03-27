@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12287695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63609245-44100-2-0faee71f45f8c.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Don Moore is the Lorraine Tyson Mitchell Professor of Communication\
   \ and Leadership at the Haas School of Business, and a member of the Management\

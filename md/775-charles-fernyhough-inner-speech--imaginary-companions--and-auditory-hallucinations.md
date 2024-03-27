@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63301310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F1e670ebc-44dd-012b-c964-dcb330c53b96.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Charles Fernyhough is a Professor of Psychology at Durham University,
   where he is also Director of the Centre for Research into Inner Experience. He has

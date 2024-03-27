@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary
   Biology at Harvard University. He is interested in the question of how humans evolved

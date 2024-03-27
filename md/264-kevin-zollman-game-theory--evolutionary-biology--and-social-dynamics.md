@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy\
   \ at Carnegie Mellon University. In addition to his primary appointment at Carnegie\

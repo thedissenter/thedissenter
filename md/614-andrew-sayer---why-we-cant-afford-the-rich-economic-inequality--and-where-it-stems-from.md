@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46114429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F1d2ecdf4-7c91-9ca5-d1c5-46495ad49e29.m4a
+category: Economy, Progress
 draft: false
 excerpt: Dr. Andrew Sayer is Emeritus Professor of Social Theory and Political Economy
   at Lancaster University. He is known for significant contributions to methodology

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2533294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725817-44100-2-7536a04272b68.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, and\
   \ before that Research Fellow at The Queen\u2019s College Oxford. He is currently\

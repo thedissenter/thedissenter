@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/37610152/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F62718c48-cb3a-5717-6f9f-6392f0babb99.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Karen Kramer is Professor of Anthropology at the University of Utah.\
   \ Her research interests span behavioral ecology, demography, comparative life history\

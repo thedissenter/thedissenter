@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9341473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40950065-44100-2-d9477145c2f8c.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at
   INSEAD. His research focuses on the basic processes of judgment that affect how

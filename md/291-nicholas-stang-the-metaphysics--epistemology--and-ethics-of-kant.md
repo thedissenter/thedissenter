@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8719303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36058992-44100-2-588fed7bc24bd.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Nicholas Stang is Associate Professor in the Philosophy Department of\
   \ the University of Toronto, and also a Humboldt Research Fellow at the Humboldt\

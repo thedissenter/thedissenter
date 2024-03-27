@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9339833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935667-44100-2-ba63b904bd719.m4a
+category: Psychology
 draft: false
 excerpt: "Bryony Cole is the host of sex tech podcast Future of Sex and works as a\
   \ researcher and strategist in future human and technology fields. She is the world\u2019\

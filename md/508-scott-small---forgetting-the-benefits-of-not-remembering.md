@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36587732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Ff899bb53-be87-0444-aecd-7456a29d0ef6.m4a
+category: Neuroscience
 draft: false
 excerpt: "Dr. Scott A. Small is the Director of the Alzheimer\u2019s Disease Research\
   \ Center at Columbia University, where he is the Boris and Rose Katz Professor of\

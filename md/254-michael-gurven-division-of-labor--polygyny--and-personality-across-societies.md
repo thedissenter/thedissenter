@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4541732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706594-44100-2-55192776195e4.m4a
+category: Anthropology
 draft: false
 excerpt: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at the
   University of California, Santa Barbara, chair of the Integrative Anthropological

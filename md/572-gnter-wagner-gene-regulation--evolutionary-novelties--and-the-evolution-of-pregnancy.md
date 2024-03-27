@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40788325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2F005a3d45-0a58-dfeb-1508-8ebebc272391.m4a
+category: Biology
 draft: false
 excerpt: "Dr. G\xFCnter Wagner is Alison Richard Professor of Ecology and Evolutionary\
   \ Biology in the Department of Ecology and Evolutionary Biology, and Adjunct Professor\

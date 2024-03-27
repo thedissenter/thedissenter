@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681122-44100-2-6db7c7c746c3.mp3
+category: Anthropology
 draft: false
 excerpt: Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cognitive
   and Evolutionary Anthropology, at the University of Oxford. He received his PhD

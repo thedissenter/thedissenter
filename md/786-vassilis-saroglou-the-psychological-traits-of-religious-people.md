@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65038457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-14%2F289cfee1-bb2e-7b0d-4544-08646a66d680.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University
   of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural

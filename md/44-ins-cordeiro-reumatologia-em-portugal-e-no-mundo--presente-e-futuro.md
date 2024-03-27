@@ -1,4 +1,5 @@
 ---
+category: Medicine
 draft: false
 excerpt: "A Dra. In\xEAs Cordeiro \xE9 reumatologista, Secret\xE1ria-Geral Adjunta\
   \ da Sociedade Portuguesa de Reumatologia. Trabalha no Servi\xE7o de Reumatologia\

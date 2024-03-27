@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4166830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635541-44100-2-bdbbc7209544e.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Daniel Glass is a clinician and researcher in the disciplines of evolutionary\
   \ and clinical psychology. He has published sixteen peer-reviewed scholarly articles\

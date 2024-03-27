@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16784206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F0885e06a-8b35-dbe0-089c-ec97998e608b.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Marc Bekoff is professor emeritus of Ecology and Evolutionary Biology
   at the University of Colorado, Boulder, and co-founder with Jane Goodall of Ethologists

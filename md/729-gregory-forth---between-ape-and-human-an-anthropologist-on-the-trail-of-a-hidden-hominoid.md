@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55491729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-29%2F95d67139-4543-8a1f-42ce-8dbea5e3e0ed.m4a
+category: Anthropology
 draft: false
 excerpt: 'Dr. Gregory Forth received his doctorate at Oxford and was a professor of
   anthropology at the University of Alberta for more than three decades. He is a fellow

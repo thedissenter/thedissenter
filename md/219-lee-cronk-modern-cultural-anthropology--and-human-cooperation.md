@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3780628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281604-44100-2-6cfc591da3739.m4a
+category: Anthropology
 draft: false
 excerpt: 'Dr. Lee Cronk is Professor in the Department of Anthropology at the School
   of Arts and Sciences at Rutgers University. His research and teaching interests

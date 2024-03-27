@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21094715-44100-2-25184e2c0d531.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Marianne Brandon is a clinical psychologist and Diplomate in sex therapy.\
   \ Dr. Brandon is the author of Monogamy: The Untold Story, the ebook Unlocking the\

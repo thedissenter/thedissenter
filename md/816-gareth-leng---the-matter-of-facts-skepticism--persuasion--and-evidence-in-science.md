@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/68534682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F310c436b-8acc-46a5-2917-d1b5a30ee0ac.m4a
+category: General Science
 draft: false
 excerpt: 'Dr. Gareth Leng was one of the founders in 1983 of the British Society for
   Neuroendocrinology. He was appointed as the Chair of Experimental Physiology at

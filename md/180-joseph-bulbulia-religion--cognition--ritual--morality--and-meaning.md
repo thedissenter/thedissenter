@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2854096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-6%2F12445160-44100-2-4f8a3a8fa3d3d.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Joseph A. Bulbulia is a Professor in the School of Humanities, Faculty
   of Arts at the University of Auckland, where he was appointed the Maclaurin Goodfellow

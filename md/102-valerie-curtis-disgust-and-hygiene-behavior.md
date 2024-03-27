@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7708373-44100-2-0cd86523827a9.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. Valerie Curtis is Director of the Environmental Health Group, a multidisciplinary\
   \ group researching hygiene, sanitation and water (WASH), at the London School Hygiene\

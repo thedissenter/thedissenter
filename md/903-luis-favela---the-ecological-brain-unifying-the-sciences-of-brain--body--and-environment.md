@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/81314574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2Fe9f1bbb2-04bc-a5ed-fd0d-8c0937794c8c.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences
   (tenured) at the University of Central Florida. He is concurrently a Fellow in the

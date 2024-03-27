@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378955-44100-2-4033cb39f3963.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University\
   \ of London. She teaches practical ethics, logic, philosophy of mind, philosophy\

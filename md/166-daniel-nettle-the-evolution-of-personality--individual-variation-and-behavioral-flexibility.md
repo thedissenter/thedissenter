@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2533321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725978-44100-2-b6262ac6ce23e.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle University,
   where he is a member of the cross-disciplinary Centre for Behaviour and Evolution.

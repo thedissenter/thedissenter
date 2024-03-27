@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32567315/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2Fc445bbd5-a1e1-e0b3-c188-e3811512be8a.m4a
+category: Sociology
 draft: false
 excerpt: "Crystal Lee is a PhD candidate at the History / Anthropology / Science,\
   \ Technology, and Society (HASTS) program at MIT, a researcher at the Visualization\

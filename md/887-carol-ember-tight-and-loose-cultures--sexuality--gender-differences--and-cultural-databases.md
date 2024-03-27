@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75864459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2F81199c9c-5a59-515e-0d42-4e2b8dbe9054.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Carol Ember is President of the Human Relations Area Files at Yale University
   and the editor of the journal Cross-Cultural Research. Most of her research career

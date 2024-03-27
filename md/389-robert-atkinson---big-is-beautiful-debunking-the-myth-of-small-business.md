@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19451802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2Fe57ba3b4-2824-3448-acaa-e174646d2af4.m4a
+category: Economy, Progress
 draft: false
 excerpt: "Dr. Robert Atkinson is a Canadian-American economist. He is president of\
   \ the Information Technology and Innovation Foundation (ITIF), a public policy think\

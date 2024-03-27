@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73844078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-25%2Fae8db11c-3ff6-f759-ba03-905d5fbbf1be.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover,\
   \ in Germany. Their work over the past decade has centered around a single theme:\

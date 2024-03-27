@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19452137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2Fae46e724-847a-5f5c-5a84-5fccbff244b7.m4a
+category: Neuroscience
 draft: false
 excerpt: "Dr. Matthew Cobb is Professor of Zoology at the University of Manchester,\
   \ where his research focuses on the sense of smell, insect behavior and the history\

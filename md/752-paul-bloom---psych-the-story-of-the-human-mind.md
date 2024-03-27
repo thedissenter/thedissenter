@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65874162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-2%2F758bd71a-ed02-5b14-4fe1-866ad201658f.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Paul Bloom is Professor of Psychology at the University of Toronto,
   and Brooks and Suzanne Ragen Professor Emeritus of Psychology at Yale University.

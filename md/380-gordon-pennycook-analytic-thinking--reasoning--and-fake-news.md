@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17068320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2F974f6d24-b949-b84d-0df2-f023ecf3b368.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University\
   \ of Regina\u2019s Hill/Levene Schools of Business. He\u2019s also an Associate\

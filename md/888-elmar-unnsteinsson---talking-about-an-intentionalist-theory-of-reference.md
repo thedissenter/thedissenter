@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75900044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-14%2F37b7b649-bf72-8716-024e-38d9c0b90456.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Elmar Unnsteinsson is an Assistant Professor and Ad Astra Fellow at
   University College Dublin, School of Philosophy. He is also the Principal Investigator

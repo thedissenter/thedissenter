@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4637804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-13%2F23578854-44100-2-96a2e4d1e847.m4a
+category: Psychology
 draft: false
 excerpt: 'SORRY ABOUT THE ISSUES WITH THE VIDEO QUALITY. THE CONNECTION WAS A BIT
   WEAK.  '

@@ -1,4 +1,5 @@
 ---
+category: Philosophy
 draft: false
 excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sussex.
   She has published on aesthetics, fiction, imagination, and sexual objectification.

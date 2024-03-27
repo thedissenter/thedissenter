@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/49187960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-17%2Fd5ec4a75-3e5e-4872-e557-04c24a8ae6dd.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Manvir Singh is Postdoctoral Research Fellow at the Institute of Advanced
   Study in Toulouse.  His research program aims to explain why societies develop complex,

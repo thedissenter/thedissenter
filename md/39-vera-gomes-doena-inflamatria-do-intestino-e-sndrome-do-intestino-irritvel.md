@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1991899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601833-44100-2-3a1bb4c4d390e.mp3
+category: Medicine
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '39'

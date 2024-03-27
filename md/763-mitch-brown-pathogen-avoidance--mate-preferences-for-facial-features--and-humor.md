@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62130863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2Ff7f0b8f4-903c-dd4c-73ec-65761541b7bd.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Mitch Brown is an instructor and researcher in Psychology at the University\
   \ of Arkansas. His research uses complementary social and evolutionary perspectives\

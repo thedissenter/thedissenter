@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9792326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-19%2F44128186-44100-2-4da3dce2d293c.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Edward Hagen is Professor of Evolutionary Anthropology at Washington
   State University. His research takes an evolutionary approach to non-infectious

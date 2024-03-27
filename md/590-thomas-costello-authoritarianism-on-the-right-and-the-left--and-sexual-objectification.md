@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43234416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Ff0203b15-d3bc-e1df-b1db-eedfddfc7ef1.m4a
+category: Psychology
 draft: false
 excerpt: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality\
   \ traits, thinking styles, and worldviews give rise to maladaptive political attitudes\

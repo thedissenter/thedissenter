@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734729-48000-2-22f57832cc559.mp3
+category: Philosophy
 draft: false
 excerpt: "UPDATE: Fran\xE7oise Baylis \u201CDeliberate Design: The Ethics of Human\
   \ Genome Editing\u201D (forthcoming, Harvard University Press, 2019)."

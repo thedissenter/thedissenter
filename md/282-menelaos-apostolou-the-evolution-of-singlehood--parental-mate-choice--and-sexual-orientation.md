@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8340853/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33419732-44100-2-6adeda955eb35.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Menelaos Apostolou is currently an Associate Professor at the University
   of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42656228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F67fe621c-fecf-6b39-2fd4-aa14181d7c7f.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Philippe Rochat is Professor of Psychology at Emory University. What
   is the nature and origins of human self-conscious psychology? Driven by this question,

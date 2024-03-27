@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2991068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13203037-44100-2-cd417016a1eb7.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Helen Fisher is a biological anthropologist, and a Senior Research Fellow\
   \ at The Kinsey Institute, Indiana University. She has written six books on the\

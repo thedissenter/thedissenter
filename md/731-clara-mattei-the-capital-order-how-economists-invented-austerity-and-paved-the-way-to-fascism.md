@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62751465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-27%2F532cc7b6-fa51-3ee7-a8ff-34b621f3c979.m4a
+category: Economics
 draft: false
 excerpt: 'Dr. Clara Mattei is an Assistant Professor in the Economics Department of
   The New School for Social Research, and was a 2018-2019 member of the School of

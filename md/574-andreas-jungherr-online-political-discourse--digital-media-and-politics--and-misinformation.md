@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41135175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F3eda870d-8aae-a62c-da89-f7d6a23e8e27.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Andreas Jungherr is Professor for Political Science with a focus on
   the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4338786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594066-44100-2-fdfc851af63f5.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Department
   of Psychological & Brain Sciences at the University of California, Santa Barbara

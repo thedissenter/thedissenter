@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8494983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-17%2F34512851-44100-2-f3dc66249f613.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist,
   historian, political activist, and social critic. Sometimes called "the father of

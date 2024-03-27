@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62082750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-12%2Fdde80354-8047-4423-8834-59c1b3bab1dd.m4a
+category: Neuroscience
 draft: false
 excerpt: 'Dr. Dean Buonomano is Professor of Neurobiology and Psychology at the University
   of California, Los Angeles. His research goal is to understand how neurons develop

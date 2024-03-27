@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75006383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-24%2Ff3c7a851-1bbf-c5a6-3db2-8e78c9b2ed0a.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Vlasta Sikimi\u0107 is an Assistant Professor at the Eindhoven University\
   \ of Technology. Her research focus is on Philosophy of Science, Philosophy of AI,\

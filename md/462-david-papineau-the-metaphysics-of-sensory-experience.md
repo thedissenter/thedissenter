@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30024160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Fb64673f8-ac3c-da11-0397-60b8e85e7cad.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London,\
   \ having previously taught for several years at Cambridge University where he was\

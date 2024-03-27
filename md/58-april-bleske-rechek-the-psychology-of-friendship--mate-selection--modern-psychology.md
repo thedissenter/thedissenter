@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651136-44100-2-bb926d7d589eb.mp3
+category: Psychology
 draft: false
 excerpt: 'Dr. April Bleske-Rechek is a Professor of Psychology at the University of
   Wisconsin-Eau Claire. As a researcher, she focuses on human mating, friendship,

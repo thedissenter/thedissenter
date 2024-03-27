@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735146-44100-2-9662ab4416619.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. Diane Halpern is Dean Emerita of Social Sciences at Minerva Schools\
   \ at Keck Graduate Institute and former Emerita Professor of Psychology at Claremont\

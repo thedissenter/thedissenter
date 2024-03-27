@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70004780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-8%2F3f35b0cf-1b0d-f04b-fa8e-14e2c2ee8f79.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Kristen Lindquist is a Professor of Psychology and Neuroscience at the
   University of North Carolina, Chapel Hill. Her research seeks to understand the

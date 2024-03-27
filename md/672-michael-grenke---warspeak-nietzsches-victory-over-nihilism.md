@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/49547402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-24%2F26539d8c-939c-afc1-2602-4848f295dbe0.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Michael Grenke is a Professor at St. John''s College, with a BA from
   University of Chicago and PhD in Political Science and Government from Boston College.

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33486497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F54f35bcb-1602-3dc3-bbd6-7c0ea08c5ab9.m4a
+category: Economy, Progress
 draft: false
 excerpt: "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Political\
   \ Economy, and formerly Chairman of the Department of Economics, at Harvard University.\

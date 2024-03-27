@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/15367786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83331946-44100-2-fe042138537d6.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, and\
   \ the Director of the Center for Behavior, Evolution and Culture at UCLA. He is\

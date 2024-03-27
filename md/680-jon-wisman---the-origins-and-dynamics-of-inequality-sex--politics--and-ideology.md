@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57017686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F0467277e-35d4-bb2f-fbac-f3cda04fa724.m4a
+category: Economics
 draft: false
 excerpt: 'Dr. Jon Wisman is Professor of Economics at American University in Washington,
   DC. He teaches graduate courses in the history of economic thought and economic

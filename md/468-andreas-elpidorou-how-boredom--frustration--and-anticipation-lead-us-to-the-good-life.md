@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26619724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F393250cc-5c26-43e8-89bd-7492ee25c7cd.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the University
   of Louisville. He specializes in the philosophical study of the mind and has published

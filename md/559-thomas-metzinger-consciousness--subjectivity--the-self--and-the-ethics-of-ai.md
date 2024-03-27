@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39065056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F0b9dfa58-1bcb-35e9-e439-4825ae9b1350.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Thomas K. Metzinger is senior research professor at the department of
   philosophy at Johannes Gutenberg University of Mainz, Germany. From 2014-2019 he

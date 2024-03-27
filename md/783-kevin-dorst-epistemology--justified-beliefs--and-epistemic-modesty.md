@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60861007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-18%2F4072a3d1-28b2-8126-6368-bbd8a6d34c8f.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguistics\
   \ and Philosophy at MIT. He works on epistemology, logic, language, and their intersections.\

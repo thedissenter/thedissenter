@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-30%2F12146002-44100-2-ffd9fabc1e5fb.m4a
+category: Neuroscience
 draft: false
 excerpt: "Dr. Richard Haier is Professor Emeritus in the Pediatric Neurology Division\
   \ of the School of Medicine at University of California, Irvine. He is also the\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9945622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-25%2F45145622-44100-2-34e53406d39db.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Jeff McMahan is White\u2019s Professor of Moral Philosophy at the University\
   \ of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics.\

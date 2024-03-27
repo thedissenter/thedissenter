@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50209370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-6%2Fc99acabd-2dfc-6fd8-dc72-11d879d4600e.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Steven Churchill is a Professor and past Chair of the Department of Evolutionary
   Anthropology at Duke University.  He is also an Honorary Reader in the Evolutionary

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19165800-44100-2-be8201403a668.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Michele Gelfand is a Distinguished University Professor at the University
   of Maryland, College Park. She uses field, experimental, computational, and neuroscience

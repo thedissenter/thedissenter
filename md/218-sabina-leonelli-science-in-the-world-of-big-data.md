@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3780621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281582-44100-2-3dabb8785d4.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Sabina Leonelli is Professor of Philosophy and History of Science at\
   \ the University of Exeter. She pursues an approach to philosophy of science that\

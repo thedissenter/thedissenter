@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/34776060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2F0ccf140c-5ff3-3424-7d5d-bf34b9200fe3.m4a
+category: Philosophy
 draft: false
 excerpt: David Pearce is a prominent figure within the transhumanism movement and
   one of the co-founders of the World Transhumanist Association, currently rebranded

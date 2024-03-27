@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33818708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-19%2Fbcd415b3-d467-2723-8fe6-8b6988eb464a.m4a
+category: Psychology
 draft: false
 excerpt: "Sacha Altay is doing his PhD in cognitive science at the Institut Jean Nicod\
   \ of the \xC9cole Normale Sup\xE9rieure in Paris. Fascinated by apparently irrational\

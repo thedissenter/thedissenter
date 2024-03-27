@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/69214734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F7897dff2-86d8-a0e6-0ea6-ed45b107879b.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy at\
   \ the University of Arkansas. His main areas of research are in the philosophy of\

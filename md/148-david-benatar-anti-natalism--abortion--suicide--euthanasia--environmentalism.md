@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378967-44100-2-de76e856044dc.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape Town\
   \ in Cape Town, South Africa. He is best known for his advocacy of antinatalism\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735522-48000-2-bc19ce39a2cd5.mp3
+category: Psychology
 draft: false
 excerpt: "Dr. Lee Ross is a Professor of Psychology at Stanford University and co-founder\
   \ of the Stanford Center on Conflict and Negotiation. He\u2019s been the recipient\

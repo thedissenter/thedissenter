@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57970528/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-22%2Fb7fca91a-b4ae-0fd2-0b1f-d5f8112eebc8.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Michael Tomasello is Emeritus Director of the Max Planck Institute for\
   \ Evolutionary Anthropology in Leipzig, and James F. Bonk Distinguished Professor\

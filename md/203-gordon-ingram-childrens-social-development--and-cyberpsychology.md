@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848325-44100-2-c2f1d11f6e0e8.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad de\
   \ los Andes, Colombia.  He teaches undergraduate courses in Developmental Psychology,\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61523212/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-1%2F51d9093e-33db-813d-99a0-111e8a62f09d.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Donald Hoffman is a Professor Emeritus in the Department of Cognitive
   Sciences at the University of California, Irvine. Dr. Hoffman studies consciousness,

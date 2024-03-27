@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2991091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13203117-44100-2-e143c27a5efc8.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Phillip Kavanagh is an Associate Professor of Evolutionary Psychology
   at the Institute for Social Neuroscience, and Adjunct Associate Professor of Psychology

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48158056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-24%2F1e72093c-dd5c-96c5-6d5b-148d30b3c966.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) therapist\
   \ and a junior lecturer/postdoctoral researcher at University of Lausanne, Switzerland.\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30021143/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Fa65ead97-c8ff-2ea8-2fb1-f5eae92487d3.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at\
   \ Trinity College Dublin. He is interested in the development of connectivity in\

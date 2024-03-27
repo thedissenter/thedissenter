@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54683380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-11%2Feea91cf5-12a4-f030-b792-c3cfa70f6871.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Christopher Krupenye is an assistant professor in the Department of Psychological
   & Brain Sciences at Johns Hopkins University. Dr. Krupenye is interested in the

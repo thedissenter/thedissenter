@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647775-44100-2-3fbf9d7353bf.mp3
+category: Sociology
 draft: false
 excerpt: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem experi\xEA\
   ncia como professor e como respons\xE1vel t\xE9cnico/comercial em empresas. Publicou\

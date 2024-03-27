@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12665137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66052586-44100-2-fa1facb40fc72.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cornell\
   \ University. He works in philosophy of cognitive science. Most of his research\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001518/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681409-44100-2-aa7c037bd38b4.mp3
+category: General Science
 draft: false
 excerpt: "Dr. David Gorski is a surgical oncologist at the Barbara Ann Karmanos Cancer\
   \ Institute specializing in breast cancer surgery, where he also serves as the Medical\

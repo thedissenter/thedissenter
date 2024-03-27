@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/44647862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F3156707a-13c0-6ece-4598-3acc24bb135f.m4a
+category: Sociology
 draft: false
 excerpt: "Dr. Daniel Kreiss is Professor at the University of North Carolina at Chapel\
   \ Hill\u2019s Hussman School of Journalism and Media. Dr. Kreiss\u2019 research\

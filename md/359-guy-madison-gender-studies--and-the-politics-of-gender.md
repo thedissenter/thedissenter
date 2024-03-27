@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16553095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F94ea8337-d512-f80f-fade-312dd860f3ea.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at University\
   \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\

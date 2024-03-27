@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/79380784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-30%2Fb0f2f0f1-8e6c-b4b5-2e40-f187c228408d.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Heather Berlin is an Associate Clinical Professor of Psychiatry and Neuroscience
   at Icahn School of Medicine at Mount Sinai in New York City. She explores the neural

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70891929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2Ff68f3c5a-b6a3-2ad8-a033-b57e2def9468.m4a
+category: Biology
 draft: false
 excerpt: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle Wittenberg\
   \ in the group \u201CAnimal Ecology\u201C. Her background is in the behavioral ecology\

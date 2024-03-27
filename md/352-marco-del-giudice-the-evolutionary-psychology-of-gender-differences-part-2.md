@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16553502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F27edfd92-a146-39c8-e5ca-32080f954646.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psychology\
   \ at the University of New Mexico. In his work he explores a wide range of topics\

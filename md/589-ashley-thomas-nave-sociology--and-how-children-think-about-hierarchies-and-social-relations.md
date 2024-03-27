@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43234239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fc8c73c0a-0659-6342-6fc0-c8eadb0076f8.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Ashley Thomas is a postdoctoral fellow at the center for research on
   open and equitable scholarship at MIT. She is interested in humans as a social species.

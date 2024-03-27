@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42511812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-29%2F564821e2-ec20-d98e-96ff-c62bdabce186.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. William Glod is Senior Program Officer at the Institute for Humane Studies,\
   \ an educational non-profit affiliated with George Mason University in Arlington,\

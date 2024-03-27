@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22531567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F42c2e2d3-ed07-87cf-7b14-cb9a1986eb0c.m4a
+category: Psychology
 draft: false
 excerpt: 'Rick Shenkman is the founder of George Washington University''s History
   News Network, the website that features leading historians'' perspectives on current

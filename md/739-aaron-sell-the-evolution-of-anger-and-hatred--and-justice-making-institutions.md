@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60743399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-16%2F827c4394-f8f4-4748-e0d2-3ca78158c7ae.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Aaron Sell is Assistant Professor of Psychology and Criminology at Heidelberg
   University. He is an evolutionary psychologist interested in anger and aggression,

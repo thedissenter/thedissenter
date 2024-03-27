@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55436150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-28%2F26af0b0a-fdf9-f55b-9a4d-32379c186bcc.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological University,
   Singapore. His research interests include cultural evolution, cognitive plasticity,

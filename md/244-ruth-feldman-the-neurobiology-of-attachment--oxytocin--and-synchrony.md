@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21096175-44100-2-d80ab522b66e5.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social Neuroscience\
   \ at the Interdisciplinary Center (IDC) Herzlia with joint appointment at Yale Child\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59673652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2Fcf403560-c7f9-1c19-a31e-ab5121cfd3f5.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Helena Miton is Complexity Postdoctoral Fellow at the Santa Fe Institute.\
   \ Dr. Miton\u2019s research agenda approaches culture as an emergent effect of human\

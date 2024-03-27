@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22870366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2Fa83439eb-8f67-e9eb-0344-5427a9284124.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Stefaan Blancke is Assistant Professor of Philosophy at Tilburg University,
   Netherlands. He studies the diffusion of (pseudo)scientific beliefs from an epidemiological

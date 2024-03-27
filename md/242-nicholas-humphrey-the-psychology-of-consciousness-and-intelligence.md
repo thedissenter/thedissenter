@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095098-44100-2-168c169efd8d7.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London\
   \ School of Economics, Visiting Professor of Philosophy at the New College of the\

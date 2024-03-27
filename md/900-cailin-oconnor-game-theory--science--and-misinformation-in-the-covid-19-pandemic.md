@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73567489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-18%2F6527b2a7-2e72-df66-6ea8-ee0808b97805.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Cailin O\u2019Connor is Professor in the Department of Logic and Philosophy\
   \ of Science at UC Irvine. She is a philosopher of biology and behavioral sciences,\

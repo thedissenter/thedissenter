@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64778748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2Fcfed26ad-10a4-5269-9add-6b6a57c84638.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Francesca Righetti is an Associate Professor at the Department of Experimental\
   \ and Applied Psychology at the VU Amsterdam. Dr. Righetti\u2019s research focuses\

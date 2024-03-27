@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/66206431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-8%2F2567933a-5067-7ee9-a2fb-489ea216c3ec.m4a
+category: Economics
 draft: false
 excerpt: 'Dr. Jared Rubin is Professor of Economics and Co-Director of the Institute
   for the Study of Religion, Economics, and Society at Chapman University. Dr. Rubin

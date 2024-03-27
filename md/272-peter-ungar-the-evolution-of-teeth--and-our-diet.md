@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/6098656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-11%2F27854509-44100-2-72571d483982.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Peter S. Ungar is Distinguished Professor of Anthropology and Director\
   \ of Environmental Dynamics at the University of Arkansas. His research focuses\

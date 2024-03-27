@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877850-44100-2-1326a1dbcb49.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences at
   Indiana University. His research focuses on developing animal models of cognition.

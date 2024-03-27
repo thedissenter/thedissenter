@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778288-44100-2-d527f5273f894.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Igor Grossmann is Associate Professor of Psychology at the University\
   \ of Waterloo, Canada. He\u2019s been the recipient of several awards, including\

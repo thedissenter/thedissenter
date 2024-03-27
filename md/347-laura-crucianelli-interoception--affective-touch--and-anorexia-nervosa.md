@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/14131988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75648906-44100-2-4f07093509306.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in Henrik\
   \ Erhsson\u2019s lab at the Karolinska Institute, in Stockholm. Dr. Crucianelli\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77353030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-17%2Fb2230bac-1911-8b7c-b2a8-9f2a7552535f.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. David Pinsof is a research scientist who received his PhD in Psychology\
   \ from the University of California, Los Angeles in 2018. David\u2019s research\

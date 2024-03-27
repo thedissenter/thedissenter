@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7650442-44100-2-76c86fe729723.mp3
+category: Philosophy
 draft: false
 excerpt: 'Dr. Simon Blackburn taught Philosophy at the University of Cambridge. He
   is a distinguished research professor of philosophy at the University of North Carolina

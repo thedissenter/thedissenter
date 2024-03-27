@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75345501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F322014f5-8b45-19e2-7a93-e9cc885f1573.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Michela Massimi is Professor of Philosophy of Science in the Department\
   \ of Philosophy at the University of Edinburgh, affiliated with the Higgs Centre\

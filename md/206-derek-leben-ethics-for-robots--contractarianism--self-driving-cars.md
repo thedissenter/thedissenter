@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3575596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-15%2F17013224-44100-2-553cab980b4a5.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Derek Leben is Associate Professor of Philosophy at the University of
   Pittsburgh, Johnstown. He works at the intersection of ethics, cognitive science,

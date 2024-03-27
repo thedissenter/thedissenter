@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61754656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F2378754a-058a-1d08-eaf4-6522e74e8090.m4a
+category: Politics
 draft: false
 excerpt: 'Dr. Jonathan Maynard is a Lecturer in International Politics at King''s
   College London''s Department of Political Economy. His research is primarily concerned

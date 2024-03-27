@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59198691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-17%2F11dc981c-cae9-0d6d-5aa5-ec5a5fe1b63c.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Robert Talisse is W. Alton Jones Professor of Philosophy at Vanderbilt
   University. His main area of research is political philosophy, with an emphasis

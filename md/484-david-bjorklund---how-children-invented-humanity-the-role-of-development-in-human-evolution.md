@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/29490119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2F3ca1f806-4b26-b643-872e-b681a75afac8.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlantic\
   \ University where he teaches graduate and undergraduate courses in developmental\

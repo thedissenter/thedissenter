@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70423685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-15%2F62855a6f-0d5b-786c-37ea-48753a612c42.m4a
+category: General Science
 draft: false
 excerpt: 'Dr. Ursula Goodenough is a Professor of Biology Emerita at Washington University
   in St. Louis where she engaged in research on eukaryotic algae. She has presented

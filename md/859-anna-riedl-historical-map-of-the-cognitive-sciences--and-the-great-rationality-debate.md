@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77976914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-31%2F8c989e1c-eefd-4043-1bce-78a95dc5be8b.m4a
+category: Cognitive Science
 draft: false
 excerpt: Anna Riedl is a cognitive scientist, specialized in rational decision-making.
   She is an active public speaker and science communicator. She was a researcher at

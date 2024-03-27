@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623155-44100-2-eedadb63389b1.m4a
+category: Sociology
 draft: false
 excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professor\
   \ of sociology at Indiana University of Pennsylvania. Since 2007 he has been a visiting\

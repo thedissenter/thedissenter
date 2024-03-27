@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/56594248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-24%2F51fa21d9-c250-766e-e1f0-d26288019d32.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Neil Levy is Senior Research Fellow at the Oxford Uehiro Centre for
   Practical Ethics. He is a wide-ranging philosopher, working principally at the intersection

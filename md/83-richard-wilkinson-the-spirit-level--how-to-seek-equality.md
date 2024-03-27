@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706601-44100-2-e332b9def9499.mp3
+category: Economics
 draft: false
 excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the\
   \ University of Nottingham, having retired in 2008. He is also Honorary Professor\

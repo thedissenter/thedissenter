@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62505011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-21%2F304217285-44100-2-f4fb47a096743.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers University\
   \ Newark. His expertise lies in cultural anthropology, the anthropology of war,\

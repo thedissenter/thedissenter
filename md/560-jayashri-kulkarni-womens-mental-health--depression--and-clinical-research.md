@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39440991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F3437f1b3-11d4-ff65-0e0c-96afc24a0af4.m4a
+category: Medicine
 draft: false
 excerpt: Dr. Jayashri Kulkarni is a Professor of Psychiatry at the Monash University
   who works in the area of women's mental health. She has written about Premenstrual

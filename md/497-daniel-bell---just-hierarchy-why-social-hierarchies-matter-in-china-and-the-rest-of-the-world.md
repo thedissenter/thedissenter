@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31138196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2Fb2bf04d0-df32-c717-87b8-9e7e5ad1694b.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Daniel A. Bell is Dean of the School of Political Science and Public\
   \ Administration at Shandong University. He writes widely on Chinese politics and\

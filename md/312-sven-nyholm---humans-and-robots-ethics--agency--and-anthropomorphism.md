@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9627194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-11%2F43010800-44100-2-6ce1df7120258.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Sven Nyholm is an Assistant Professor of Philosophical Ethics at Utrecht
   University. His main areas of research are applied ethics (especially the ethics

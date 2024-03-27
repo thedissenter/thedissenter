@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35729743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2Fe55eb8e6-e0b2-fa7e-c6f8-288621ae8ac8.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and\
   \ Conflict Studies at the University of North Carolina at Greensboro. He has written\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623364-44100-2-7b65de65baf65.m4a
+category: Biology
 draft: false
 excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the University\
   \ of Washington. He has written, edited or co-authored 40 books, including ones\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735425-48000-2-bd0d5b2fed458.mp3
+category: Psychology
 draft: false
 excerpt: 'Dr. Wendy Johnson is Professor of Psychology at the University of Edinburgh.
   She also holds the Chair in Differential Development in the University of Edinburgh''s

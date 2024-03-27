@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/79009319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-22%2F39beb27f-b397-0cc4-4e8f-2ddbaea3b642.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. \xC9mile Torres is a post-doc researcher at Case Western Reserve University.\
   \ Their work over the past decade has centered around a single theme: eschatology,\

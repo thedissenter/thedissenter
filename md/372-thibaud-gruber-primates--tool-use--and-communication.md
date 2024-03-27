@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18032469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F60623e05-ac22-b5f9-1b2a-c953893ceb1b.m4a
+category: Primatology
 draft: false
 excerpt: Dr. Thibaud Gruber is Assistant Professor of Psychology at the University
   of Geneva, and he is also part of the Swiss Center for Affective Sciences. A primatologist

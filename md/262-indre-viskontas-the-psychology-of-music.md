@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8523748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-18%2F34709972-44100-2-80127162191.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Indre Viskontas is a Professor of Psychology at the University of San\
   \ Francisco, and serves on the faculty at the San Francisco Conservatory of Music.\

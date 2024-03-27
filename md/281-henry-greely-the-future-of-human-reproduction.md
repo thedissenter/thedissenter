@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8340222/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33413504-44100-2-6d53cf111c4b6.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Henry Greely is currently the Deane F. and Kate Edelman Johnson Professor\
   \ of Law and Professor by courtesy of Genetics at Stanford University, and also\

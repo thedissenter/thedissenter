@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73795034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F742b1df0-0181-07b3-598f-e52b4057a5e5.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy
   at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral

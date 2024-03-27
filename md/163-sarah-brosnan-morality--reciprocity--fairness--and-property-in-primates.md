@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380459-44100-2-fd55843fe060b.m4a
+category: Primatology
 draft: false
 excerpt: Dr. Sarah Brosnan is a Professor in the departments of psychology and philosophy
   and the Neuroscience Institute at Georgia State University. She is also a member

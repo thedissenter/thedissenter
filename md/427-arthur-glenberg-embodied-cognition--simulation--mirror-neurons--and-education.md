@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23130661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2Fc50fd6fd-5c85-994a-9348-a61cd78d052f.m4a
+category: Psychology
 draft: false
 excerpt: ''
 id: '427'

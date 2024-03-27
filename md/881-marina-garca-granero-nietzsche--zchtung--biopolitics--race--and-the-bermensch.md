@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75513285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-5%2Fa61cbf87-f1e2-566b-2904-900011a1eddc.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Marina Garc\xEDa-Granero is an Assistant Professor of Philosophy at\
   \ the University of Valencia (Spain). She is a former postdoc from the Institute\

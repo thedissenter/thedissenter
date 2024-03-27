@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681538-44100-2-19aec6fda8285.mp3
+category: Philosophy
 draft: false
 excerpt: "Dr. Peter Carruthers is a British-American philosopher and cognitive scientist\
   \ working primarily in the area of philosophy of mind, though he has also made contributions\

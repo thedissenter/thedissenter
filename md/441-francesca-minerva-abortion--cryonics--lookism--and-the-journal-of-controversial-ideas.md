@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26255256/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fdbca1c0d-3657-5382-a2ab-76eb53630366.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Francesca Minerva is a research fellow at Warwick University and a post-doctoral
   fellow at the University of Ghent. She is the co-founder and co-editor of the Journal

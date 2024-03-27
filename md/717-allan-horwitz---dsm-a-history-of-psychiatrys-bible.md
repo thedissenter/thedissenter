@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55785361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-5%2F5031762d-acc9-bf92-58bd-0349eb0d9dac.m4a
+category: Sociology
 draft: false
 excerpt: 'Dr. Allan Horwitz is Board of Governors Professor Emeritus of Sociology
   at Rutgers University. He has also chaired the Mental Health and Medical Sociology

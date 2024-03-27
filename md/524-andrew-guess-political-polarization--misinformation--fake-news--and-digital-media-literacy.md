@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35297470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F47062a31-4a5c-b968-f0aa-430f7e419abb.m4a
+category: Sociology
 draft: false
 excerpt: Dr. Andrew Guess is an assistant professor of politics and public affairs
   at Princeton University. His research and teaching interests lie at the intersection

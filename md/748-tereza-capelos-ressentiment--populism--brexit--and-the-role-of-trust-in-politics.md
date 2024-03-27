@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61149441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-24%2F5ccb73d7-110c-7efb-b5ac-f80b178dbb5d.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at the
   University of Birmingham, Director of the Institute for Conflict Cooperation and

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016074/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774857-44100-2-53227e13f691c.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Michael Bang Petersen is Professor of Political Science at Aarhus University,
   in Denmark. He also directs The Politics and Evolution Lab (PoNE Lab) there. He

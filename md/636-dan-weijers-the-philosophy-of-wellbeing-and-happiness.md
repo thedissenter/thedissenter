@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48889215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-11%2F9bb604fd-44a3-2ae4-0431-fb10a80bd05d.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Dan Weijers is a permanent Senior Lecturer in the Philosophy Programme
   at the University of Waikato, in New Zealand. His research specialties include normative

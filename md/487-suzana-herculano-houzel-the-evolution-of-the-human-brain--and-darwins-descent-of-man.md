@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30023137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Ff80f7c6d-c574-7983-9b52-e407c6cd5068.m4a
+category: Neuroscience
 draft: false
 excerpt: 'Dr. Suzana Herculano-Houzel is Associate Professor of Psychology and Associate
   Director for Communications at Vanderbilt Brain Institute at Vanderbilt University.

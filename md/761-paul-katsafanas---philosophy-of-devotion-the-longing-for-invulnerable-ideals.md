@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/67093298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-22%2F7f92bef0-72fd-531c-2dee-371f8ac39d3c.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Paul Katsafanas is Professor of Philosophy and Director of Graduate
   Studies at Boston University. He works on ethics, moral psychology, and nineteenth-century

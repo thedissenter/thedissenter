@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48782703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2Ff8cf8ba2-7b6b-b4b1-a249-e3cdf908f153.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the\
   \ University of Porto. He does work in the areas of philosophy of mind, Nietzsche\u2019\

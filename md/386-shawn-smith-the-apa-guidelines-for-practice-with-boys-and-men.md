@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19111185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2Ff29b1f21-60f6-72b3-b070-4a6fdd61176b.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Shawn Smith is a clinical psychologist in Denver, Colorado and the author
   of five psychology books. He also writes a blog at docsmith.co. And he has a YouTube

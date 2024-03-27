@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26253231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2F152270839-44100-2-546eee1292e95.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University
   of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent

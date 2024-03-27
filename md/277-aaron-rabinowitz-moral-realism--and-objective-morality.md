@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7609667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945579-44100-2-bae5fc8123fbd.m4a
+category: Philosophy
 draft: false
 excerpt: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy
   department and the Rutgers Honors College. He specializes in ethics, metaethics,

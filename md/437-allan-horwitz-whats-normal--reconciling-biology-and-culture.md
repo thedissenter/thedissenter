@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24162214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F19327b53-a552-e9cc-2149-78b48ea35317.m4a
+category: Sociology
 draft: false
 excerpt: "Dr. Allan Horwitz is Board of Governors Professor in the Department of Sociology\
   \ and Institute for Health, Health Care Policy, and Aging Research at Rutgers University.\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30433620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-31%2Fd26d6901-7a2f-5897-a8ba-3b38c786078b.m4a
+category: Sociology
 draft: false
 excerpt: "Dr. Christopher Bail is Professor of Sociology, Public Policy, and Data\
   \ Science at Duke University, where he directs the Polarization Lab. A leader in\

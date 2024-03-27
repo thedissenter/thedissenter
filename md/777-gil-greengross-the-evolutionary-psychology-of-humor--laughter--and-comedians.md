@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63444834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F7045ddd1-5051-f7c5-9bfb-64ae64090029.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Gil Greengross is a Lecturer in Psychology at Aberystwyth University.
   He is an evolutionary psychologist, studying the evolutionary roots of everyday

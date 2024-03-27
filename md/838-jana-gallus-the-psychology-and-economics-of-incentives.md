@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70688366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-19%2F0b0e84f1-61d8-3062-646a-09adeed2823c.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decision
   Making at UCLA Anderson School of Management. Her research interests lie in behavioral

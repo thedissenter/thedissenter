@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30572517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F5a3cc46f-eec3-0f90-686a-08f7ae5e6f9b.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Lesley Newson is honorary post-doc at University of California, Davis.\
   \ She studies the cultural evolutionary process known as \u201Cmodernization\u201D\

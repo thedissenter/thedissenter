@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623248-44100-2-7a2b9f3577db5.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Clark McCauley is a Research Professor of Psychology and co-director\
   \ of the Solomon Asch Center for the Study of Ethnopolitical Conflict at Bryn Mawr\

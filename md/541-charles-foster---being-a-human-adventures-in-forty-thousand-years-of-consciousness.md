@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41134629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F015d6ca0-4d6e-cfae-5712-f8adcccf1f88.m4a
+category: Anthropology
 draft: false
 excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of the
   Oxford Law Faculty (where he is a Visiting Professor), a Senior Research Associate

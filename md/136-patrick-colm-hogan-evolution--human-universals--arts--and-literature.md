@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778581-44100-2-8baf83d4f32a1.m4a
+category: Neuroscience
 draft: false
 excerpt: "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of English,\
   \ and the Institute for Brain and Cognitive Sciences, at the University of Connecticut,\

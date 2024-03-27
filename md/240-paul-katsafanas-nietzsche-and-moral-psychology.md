@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21094432-44100-2-402301983715a.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Paul Katsafanas is Associate Professor in the Department of Philosophy\
   \ at Boston University. He works on ethics, moral psychology, and nineteenth-century\

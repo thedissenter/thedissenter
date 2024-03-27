@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39062499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F187d2e36-663e-6ad7-6e6b-026a71e1cd9f.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Iddo Landau is a Professor of Philosophy at the University of Haifa.
   He has written extensively on the meaning of life. He is the author of Finding Meaning

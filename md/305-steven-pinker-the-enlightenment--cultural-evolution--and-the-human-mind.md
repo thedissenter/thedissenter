@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10836802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-5%2F54617645-44100-2-db67bb717591a.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Steven Pinker is a Johnstone Family Professor in the Department of Psychology
   at Harvard University. He conducts research on language and cognition, writes for

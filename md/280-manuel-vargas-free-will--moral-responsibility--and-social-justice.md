@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7957460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-1%2F32086651-44100-2-fde7f9ebcc74e.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Manuel Vargas is a professor in the Department of Philosophy at UC San\
   \ Diego, where he teaches classes on various topics, including ethics, the history\

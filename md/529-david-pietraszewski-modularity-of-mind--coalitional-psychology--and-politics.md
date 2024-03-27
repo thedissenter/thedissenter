@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40786093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Fa284c53b-ce48-063a-8cae-c2b0c3087954.m4a
+category: Psychology
 draft: false
 excerpt: Dr. David Pietraszewski is Research Scientist at the Max Planck Institute
   for Human Development. He is an experimental psychologist who applies evolutionary

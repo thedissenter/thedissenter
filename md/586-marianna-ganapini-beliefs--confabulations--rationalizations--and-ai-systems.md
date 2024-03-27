@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42705958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-2%2F81112e40-d740-f1c6-cf12-132655879107.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Marianna Ganapini is an Assistant Professor in the Philosophy Department
   at Union College (NY). She works primarily in contemporary philosophy of mind and

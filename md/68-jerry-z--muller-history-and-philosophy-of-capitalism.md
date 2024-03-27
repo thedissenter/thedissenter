@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681490-44100-2-a9064e5b07969.mp3
+category: Economics
 draft: false
 excerpt: "Dr. Jerry Muller is Ordinary Professor of History at the Catholic University\
   \ of America, where he teaches courses on historical and contemporary subjects,\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26622339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2Ffbb59633-e22f-541a-47ee-91cf5a499597.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Darcia Narvaez is a Professor of Psychology Emerita at the University\
   \ of Notre Dame. She has written extensively on issues of character and moral development.\

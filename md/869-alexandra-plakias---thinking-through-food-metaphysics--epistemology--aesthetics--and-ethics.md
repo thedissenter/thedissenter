@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74120542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-1%2Fbb81e878-0d81-d449-746c-8c12eabfbacf.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Alexandra Plakias is Associate Professor of Philosophy at Hamilton College.
   Her research focuses on issues in moral psychology, such as the role of evolution

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12067663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62149378-44100-2-9028e79e266fe.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Iris Berent is Professor of Psychology at Northeastern University, US.\
   \ Her research examines the nature of linguistic competence, its origins, and its\

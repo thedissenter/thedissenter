@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877887-44100-2-d829993777749.m4a
+category: Philosophy
 draft: false
 excerpt: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian University
   of Munich and at King's College London. He has written articles, monographs and

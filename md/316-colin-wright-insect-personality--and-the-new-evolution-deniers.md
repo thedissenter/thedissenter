@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9792395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-19%2F44128406-44100-2-62288ad632faa.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Colin Wright is Eberly Fellow in the Department of Biology at Pennsylvania
   State University. His research explores the effects of animal personality on collective

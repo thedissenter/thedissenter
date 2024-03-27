@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/37607179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F6bbf875f-5efc-fd82-5e8e-d18db6beb29d.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Ralph Hertwig is Director of the Center for Adaptive Rationality at
   the Max Planck Institute for Human Development in Berlin, Germany. His research

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3575566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-15%2F17013156-44100-2-5f36f52c29af1.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Laura Cabrera is Assistant Professor in the Center for Ethics and Humanities\
   \ in the Life Sciences and the Department of Translational Science & Molecular Medicine\

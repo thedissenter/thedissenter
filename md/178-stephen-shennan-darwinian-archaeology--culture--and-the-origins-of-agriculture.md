@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145805-44100-2-efec4b9320e1f.m4a
+category: Anthropology
 draft: false
 excerpt: "Dr. Stephen Shennan is Professor of Theoretical Archaeology in the Institute\
   \ of Archaeology at University College London. Dr. Shennan focuses on cultural evolution\

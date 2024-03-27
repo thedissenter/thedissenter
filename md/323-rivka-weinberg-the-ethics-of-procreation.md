@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10231780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47237999-44100-2-3437151afaf17.m4a
+category: Philosophy
 draft: false
 excerpt: ''
 id: '323'

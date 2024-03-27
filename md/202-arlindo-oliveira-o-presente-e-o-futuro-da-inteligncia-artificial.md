@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15847855-44100-2-0491bf3c2c449.m4a
+category: Artificial Intelligence
 draft: false
 excerpt: "O Dr. Arlindo Oliveira \xE9 Presidente do Instituto Superior T\xE9cnico\
   \ e Professor do Departamento de Engenharia Inform\xE1tica, onde tem desenvolvido\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380437-44100-2-be3e748e69f5f.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Philip Goff is a philosopher and consciousness researcher at Durham\
   \ University, UK. His main research focus is trying to explain how the brain produces\

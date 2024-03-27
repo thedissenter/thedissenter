@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76548710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-29%2F4384bb1b-fb31-841a-5582-e4692bdd836e.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Gregory Radick is Professor of History and Philosophy of Science at\
   \ the University of Leeds. He has held fellowships from the British Academy and\

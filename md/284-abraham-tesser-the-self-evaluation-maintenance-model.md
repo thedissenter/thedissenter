@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8467349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34318946-44100-2-9842bf9ce9e94.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psychology
   at the University of Georgia. His research has made significant contributions to

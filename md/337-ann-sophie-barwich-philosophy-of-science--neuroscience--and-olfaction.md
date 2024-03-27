@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12664702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66050434-44100-2-2873417b0452d.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy\
   \ of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4338902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594679-44100-2-1d95a0b1b0864.m4a
+category: Psychology
 draft: false
 excerpt: 'Dr. Robert A. Burton graduated from Yale University and the University of
   California at San Francisco medical school, where he also completed his neurology

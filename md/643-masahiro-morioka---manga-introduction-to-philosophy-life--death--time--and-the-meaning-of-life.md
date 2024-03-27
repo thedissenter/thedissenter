@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50083501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F272bd598-209b-cdf2-abd8-234204a3ed66.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda University,
   Japan. He is considered by many to be one of the most influential thinkers in the

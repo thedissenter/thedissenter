@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681559-44100-2-72f81567e2e77.mp3
+category: Biology
 draft: false
 excerpt: "Dr. Redouan Bshary is Ordinary Professor of Eco-ethology at the Universit\xE9\
   \ de Neuch\xE2tel, Switzerland. His research is focused on cooperation within and\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3135987/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-4%2F14080321-44100-2-9051a1549c3a4.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Viviana Weekes-Shackelford received her Ph.D. in evolutionary developmental
   psychology in 2011 from Florida Atlantic University. She is currently Visiting Assistant

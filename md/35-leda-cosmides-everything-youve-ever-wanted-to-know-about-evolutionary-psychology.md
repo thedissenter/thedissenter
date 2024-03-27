@@ -1,4 +1,5 @@
 ---
+category: Psychology
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '35'

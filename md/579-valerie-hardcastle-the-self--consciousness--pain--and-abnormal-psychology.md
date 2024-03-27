@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41485626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Fca925ec0-2ee2-69be-3b17-136953ab63cb.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of
   the Institute for Health Innovation and Vice President for Health Innovation at

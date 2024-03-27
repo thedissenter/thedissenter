@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7683508-48000-2-957fe7cb44e97.mp3
+category: Philosophy
 draft: false
 excerpt: 'Dr. Stephen Hicks teaches at Rockford University, where he also directs
   the Center for Ethics and Entrepreneurship. He is the author of books like Explaining

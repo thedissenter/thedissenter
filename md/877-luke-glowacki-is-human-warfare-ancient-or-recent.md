@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74662730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-15%2F6eb58771-3007-7bbb-4170-d97280f5e941.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Luke Glowacki is Assistant Professor in the Department of Anthropology
   at Boston University and a faculty affiliate of the Center for Innovation in Social

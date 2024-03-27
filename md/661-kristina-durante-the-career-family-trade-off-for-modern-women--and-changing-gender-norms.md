@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55182768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-22%2F138ff07b-ae9a-4245-9ee3-cf19176afc2e.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Kristina Durante is an evolutionary psychologist and Professor of Marketing,\
   \ Marketing Department Vice Chair, and the marketing Ph.D. program coordinator at\

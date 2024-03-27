@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623052-44100-2-dfcf8d5429eb.m4a
+category: Biology
 draft: false
 excerpt: "O Dr. Paulo Finuras \xE9 Doutorado em Ci\xEAncias Sociais e do Comportamento\
   \ (especialidade de Ci\xEAncia Pol\xEDtica) pela ULHT (Universidade Lus\xF3fona\

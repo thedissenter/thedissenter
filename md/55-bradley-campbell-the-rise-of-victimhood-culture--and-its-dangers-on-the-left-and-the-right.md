@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7649723-44100-2-1a84dbca955e3.m4a
+category: Sociology
 draft: false
 excerpt: "Dr. Bradley Campbell is an Associate Professor of Sociology at California\
   \ State University. He\u2019s also the author of books like The Geometry of Genocide,\

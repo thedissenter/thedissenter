@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50261502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-7%2F0bbf84dd-e194-0de8-51ec-dd15ae803ca4.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Russ Shafer-Landau is Professor of Philosophy at the University of Wisconsin-Madison.
   His primary interest is in ethics. He is the author of Moral Realism: A Defence

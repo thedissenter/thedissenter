@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145629-44100-2-2e85e25df833.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Michael Muthukrishna is an Assistant Professor of Economic Psychology\
   \ at the London School of Economics. His other affiliations include Research Associate\

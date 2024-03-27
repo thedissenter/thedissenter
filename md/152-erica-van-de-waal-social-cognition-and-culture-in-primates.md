@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379814-44100-2-b20d08b1f007f.m4a
+category: Primatology
 draft: false
 excerpt: Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne,
   Switzerland. She is also Director of the Inkawu Vervet Project, at the Mawana Game

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38389603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F48f7d717-8902-a9fc-d24a-b63437c06d57.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology
   at Oakland University, as well as the Co-Director of the Evolutionary Psychology

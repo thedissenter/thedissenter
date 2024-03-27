@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379849-44100-2-9603f620a9681.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Jessica Pierce is an American bioethicist, philosopher, and writer.
   She currently has a loose affiliation with the Center for Bioethics and Humanities,

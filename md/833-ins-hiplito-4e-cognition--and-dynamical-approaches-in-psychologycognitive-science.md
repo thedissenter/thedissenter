@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75051440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F4737ae41-4ef4-81c6-cf5e-d5e8561f8c3d.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. In\xEAs Hip\xF3lito is a faculty member at Macquarie University, where\
   \ she serves as a Lecturer of Philosophy of AI and a researcher at the Ethics and\

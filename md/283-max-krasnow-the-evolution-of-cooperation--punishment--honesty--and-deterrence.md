@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8340921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33420462-44100-2-67e720e5a211d.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Max Krasnow is Associate Professor in the Department of Psychology at\
   \ Harvard University. His research interests include: evolutionary psychology, evolution\

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77660635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-24%2F3cb74c61-e801-c0ec-04f5-e9088087c404.m4a
+category: Philosophy
 draft: false
 excerpt: "Dr. Joanna Malinowska is Assistant Professor of Philosophy at Adam Mickiewicz\
   \ University in Pozna\u0144, Poland. The subject of her research is a broadly understood\

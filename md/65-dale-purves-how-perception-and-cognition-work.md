@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681370-44100-2-533fd50eeb27.mp3
+category: Neuroscience
 draft: false
 excerpt: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center
   for Cognitive Neuroscience, at Duke University. He was elected to the National Academy

@@ -1,5 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50758713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-18%2Fdeadc7ef-1315-42a6-82d1-25abf8a9a111.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Frans de Waal is a Dutch primatologist and ethologist. He is Emeritus\
   \ Candler Professor at Emory University, and Emeritus Professor at the University\
