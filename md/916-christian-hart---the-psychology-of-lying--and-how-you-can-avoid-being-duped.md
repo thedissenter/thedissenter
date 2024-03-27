@@ -1,4 +1,6 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/78028671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-1%2F787bd3a4-daeb-3c92-9e77-3f45de466406.m4a
+category: Psychology
 draft: false
 excerpt: "Dr. Christian Hart is a Professor of Psychology at Texas Woman\u2019s University,\
   \ where he is the Director of the Psychological Science program as well as the Director\

@@ -1,4 +1,6 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/78078456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-2%2F43f4b6f4-ca1a-ae98-e862-e6342e7d7db7.m4a
+category: Biology
 draft: false
 excerpt: "Dr. Dale Greenwalt is Research Associate in the laboratory of Dr. Conrad\
   \ Labandeira, curator of fossil arthropods, in the Paleobiology Department at the\

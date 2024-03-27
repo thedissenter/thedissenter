@@ -1,4 +1,6 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/73082644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-6%2F5961bdb8-df51-5b90-abfe-ca73b106e8ea.m4a
+category: Philosophy
 draft: false
 excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr.
   Reginster''s research has focused mostly on issues in ethics, metaethics, and moral

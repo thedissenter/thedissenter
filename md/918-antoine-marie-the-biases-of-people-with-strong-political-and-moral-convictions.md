@@ -1,4 +1,6 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/78401280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F8e59b6d6-7e08-e47a-72ce-40ee9fdbabde.m4a
+category: Psychology
 draft: false
 excerpt: Dr. Antoine Marie is a Postdoctoral Researcher at the Department of Political
   Science at Aarhus University, Denmark. He is an evolutionary political psychologist

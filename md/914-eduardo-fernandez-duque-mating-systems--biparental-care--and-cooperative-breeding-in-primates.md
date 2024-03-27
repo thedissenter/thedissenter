@@ -1,4 +1,6 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/77923763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-30%2F71f45b88-c441-cf66-aa9a-791a96618bb2.m4a
+category: Anthropology
 draft: false
 excerpt: Dr. Eduardo Fernandez-Duque is Professor of Anthropology at the School of
   the Environment at Yale University. He is a biological anthropologist with a general
