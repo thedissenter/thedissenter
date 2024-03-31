@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8719198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36058360-44100-2-d8e2d8b4c4d57.m4a
-category: Psychology
+category: Game Theory
 draft: false
 excerpt: "Dr. Colin F. Camerer is the Robert Kirby Professor of Behavioral Finance\
   \ and Economics at the California Institute of Technology, where he teaches cognitive\

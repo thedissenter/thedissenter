@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55339233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F19078d73-ccd1-fcee-8b5b-096dc5c1e3cd.m4a
-category: Psychology
+category: Cognitive Science
 draft: false
 excerpt: 'Dr. Patrick Savage is Associate Professor in the Faculty of Environment
   and Information Studies at Keio SFC, where he directs the CompMusic Lab for comparative

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50318229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Ff207f13a-2bc9-a2ba-a872-dc85027c7a80.m4a
-category: Psychology
+category: Neuroscience
 draft: false
 excerpt: 'Dr. James Fallon is professor of psychiatry and human behavior and emeritus
   professor of anatomy and neurobiology in the University of California, Irvine School

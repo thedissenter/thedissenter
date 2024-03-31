@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61690086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F5fc4295e-0c7b-d5f8-77cb-2ae40423a43e.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: Dr. Quentin Atkinson is a Professor in Psychology at the University of Auckland,
   where he runs the Language, Cognition and Culture Lab, and co-Director of the University

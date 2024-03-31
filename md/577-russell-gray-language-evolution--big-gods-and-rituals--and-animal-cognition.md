@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41445932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fea6708a4-86de-190e-9c66-bd2ffb92cdda.m4a
-category: Anthropology
+category: Linguistics
 draft: false
 excerpt: "Dr. Russell Gray is the director to the Max Planck Institute for Evolutionary\
   \ Anthropology in Leipzig. He also holds an adjunct position in the School of Psychology\

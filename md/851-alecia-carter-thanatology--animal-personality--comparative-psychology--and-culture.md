@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71287069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-30%2F380b6241-12fa-dea8-8965-fab3eb4097d6.m4a
-category: Anthropology
+category: Biology
 draft: false
 excerpt: Dr. Alecia Carter is Associate Professor in the Department of Anthropology
   at University College London. Her current research investigates (1) how primates

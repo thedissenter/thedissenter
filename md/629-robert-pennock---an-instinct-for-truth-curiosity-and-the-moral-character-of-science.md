@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a
-category: Philosophy
+category: General Science
 draft: false
 excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan State
   University, where he is on the faculty of Lyman Briggs College, the Departments

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
   \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\

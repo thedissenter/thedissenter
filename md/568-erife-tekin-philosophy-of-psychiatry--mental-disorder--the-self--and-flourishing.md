@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40393670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2F047c63b3-8bab-2273-1199-439752331a68.m4a
-category: Philosophy
+category: Medicine
 draft: false
 excerpt: "Dr. \u015Eerife Tekin is an Associate Professor of Philosophy and Director\
   \ of the Medical Humanities program at the University of Texas at San Antonio (UTSA).\

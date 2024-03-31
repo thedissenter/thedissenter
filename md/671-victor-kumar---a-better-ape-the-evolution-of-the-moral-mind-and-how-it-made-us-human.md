@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54880369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-15%2Fa9b092f2-3b6e-59ac-23ae-da9bf4c35d4d.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: 'Dr. Victor Kumar is Assistant Professor of Philosophy at Boston University.
   He is director of the Mind and Morality Lab. He is also a member of the interdisciplinary

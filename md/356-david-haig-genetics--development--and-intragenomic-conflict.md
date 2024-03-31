@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17368718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F349bc94c-f18c-000e-e13e-c6e610645773.m4a
-category: Philosophy
+category: Biology
 draft: false
 excerpt: "Dr. David Haig is an evolutionary biologist, geneticist, and professor in\
   \ Harvard University's Department of Organismic and Evolutionary Biology. He is\

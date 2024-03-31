@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32950359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fe12ae837-3a35-1e86-203a-7917fd989a4a.m4a
-category: Sociology
+category: Politics
 draft: false
 excerpt: "Dr. Christian Pieter Hoffmann is Professor of Communication Management and\
   \ Political Communication at the Institute of Communication and Media Studies at\

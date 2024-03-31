@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63559930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-16%2F45bc93b7-b340-3cd4-574e-a4ee2dc23fb6.m4a
-category: Psychology
+category: Politics
 draft: false
 excerpt: 'Dr. Sander van der Linden is Professor of Social Psychology in the Department
   of Psychology at the University of Cambridge and Director of the Cambridge Social

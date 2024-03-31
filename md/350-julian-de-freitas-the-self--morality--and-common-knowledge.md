@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/14857662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-7%2F80240103-44100-2-724d2c9a1b82b.m4a
-category: Psychology
+category: Cognitive Science
 draft: false
 excerpt: Julian De Freitas is a cognitive scientist in the Department of Psychology
   at Harvard University. He studies social intelligence, with a focus on the self,

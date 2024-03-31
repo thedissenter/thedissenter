@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74615071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-14%2F838c372d-f47d-6c49-1aa3-88622bf4e5a6.m4a
-category: Biology
+category: Cognitive Science
 draft: false
 excerpt: Dr. Randall Beer is Professor of Cognitive Science and Informatics at Indiana
   University Bloomington. Dr. Beer's primary research interest is in understanding

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59545983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-25%2F89036a17-4963-442b-92bf-a0f6d3b5a470.m4a
-category: Psychology
+category: Economics
 draft: false
 excerpt: 'Dr. Lionel Page is a Professor of Economics and Director of the Behavioural
   and Economic Science Cluster at the University of Queensland. He is interested in

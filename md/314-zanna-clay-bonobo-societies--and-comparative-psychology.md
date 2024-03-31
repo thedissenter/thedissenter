@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9727886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703878-44100-2-5761c62e3d90f.m4a
-category: Psychology
+category: Biology
 draft: false
 excerpt: Dr. Zanna Clay is Associate Professor in the Department of Psychology at
   Durham University. She is a comparative and developmental psychologist with expertise

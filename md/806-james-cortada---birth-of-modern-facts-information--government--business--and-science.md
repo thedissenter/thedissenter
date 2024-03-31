@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72833686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-30%2F81f01eae-ce81-9581-bf11-e46226990f1b.m4a
-category: General Science
+category: History
 draft: false
 excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage Institute
   at the University of Minnesota. He worked at IBM for thirty-eight years in sales,

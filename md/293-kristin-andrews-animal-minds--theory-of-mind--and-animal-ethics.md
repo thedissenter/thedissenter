@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8844737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881261-44100-2-889c58376f231.m4a
-category: Philosophy
+category: Cognitive Science
 draft: false
 excerpt: Dr. Kristin Andrews is York Research Chair in Animal Minds and Professor
   of Philosophy at York University (Toronto), where she also helps coordinate the

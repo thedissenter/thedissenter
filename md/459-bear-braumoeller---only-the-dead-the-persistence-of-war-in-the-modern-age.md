@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/28800345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-12%2F9ded7375-275c-30b8-c78b-3867efd858a7.m4a
-category: Anthropology
+category: History
 draft: false
 excerpt: "Dr. Bear F. Braumoeller is a Professor in the Department of Political Science\
   \ at Ohio State University. He previously held faculty positions at Harvard University\

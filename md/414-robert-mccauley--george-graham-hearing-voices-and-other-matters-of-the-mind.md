@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/21907339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2F9a87d866-ee3b-f493-89ee-cf4132e2ce58.m4a
-category: Philosophy
+category: Cognitive Science
 draft: false
 excerpt: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of
   Philosophy at the Center for Mind, Brain, and Culture, at Emory University.   '

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43936983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F32e48601-cc27-96b5-c262-62fb8fb3f459.m4a
-category: Psychology
+category: Medicine
 draft: false
 excerpt: 'Dr. Talya Miron-Shatz is an author, consultant, speaker, and researcher,
   who studies medical decision-making in a humanistic way, aiming to guarantee that

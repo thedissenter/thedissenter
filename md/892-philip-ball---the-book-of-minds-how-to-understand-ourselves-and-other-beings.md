@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/80802128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-4%2Fc65f036a-9035-6709-d7be-c5f1d63a7706.m4a
-category: Psychology
+category: General Science
 draft: false
 excerpt: 'Dr. Philip Ball is a freelance science writer, with a BA in Chemistry from
   the University of Oxford and a PhD in Physics from the University of Bristol. He

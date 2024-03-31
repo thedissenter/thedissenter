@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47114006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fbb037a98-59ce-3ab6-679b-243775582dde.m4a
-category: Anthropology
+category: History
 draft: false
 excerpt: 'Dr. Philip Dwyer is Professor in the School of Humanities and Social Science
   at the University of Newcastle, Australia. He has published widely on the Revolutionary

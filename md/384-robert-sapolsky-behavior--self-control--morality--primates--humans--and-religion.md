@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20860936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fafcaf4a3-ae6c-9a43-4f2e-db27478fedb7.m4a
-category: Psychology
+category: Primatology
 draft: false
 excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology\
   \ and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky\

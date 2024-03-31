@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31132275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F5412ded3-8135-71e9-da7f-a404e6d6d272.m4a
-category: Anthropology
+category: History
 draft: false
 excerpt: "Dr. Edward Slingerland is a Professor of Asian Studies at the University\
   \ of British Columbia, Vancouver, Canada. He\u2019s the Director of the Cultural\

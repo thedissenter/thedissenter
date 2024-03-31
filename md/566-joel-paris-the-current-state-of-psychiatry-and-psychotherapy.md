@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40097163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F17038f6e-baf5-4ff3-dd1c-96ec79a24c20.m4a
-category: Psychology
+category: Medicine
 draft: false
 excerpt: "Dr. Joel Paris is Professor of Psychiatry at McGill University, and Research\
   \ Associate in the Department of Psychiatry at Sir Mortimer B. Davis-Jewish General\

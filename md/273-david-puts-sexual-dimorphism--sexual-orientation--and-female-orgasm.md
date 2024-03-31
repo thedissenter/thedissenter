@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7249327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29808227-44100-2-6c142e36f7bed.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: 'Dr. David Puts is Associate Professor of Anthropology at Pennsylvania State
   University. Dr. Puts studies the neuroendocrine and evolutionary bases of human

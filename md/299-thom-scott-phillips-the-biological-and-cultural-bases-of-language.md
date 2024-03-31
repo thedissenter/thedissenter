@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8984628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38453697-44100-2-406a801b5c62e.m4a
-category: Psychology
+category: Linguistics
 draft: false
 excerpt: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind\
   \ Center and the Department of Cognitive Science, at Central European University,\

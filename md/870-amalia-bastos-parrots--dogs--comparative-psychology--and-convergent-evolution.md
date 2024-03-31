@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74431172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F999872e9-24ca-b4e7-2dc4-eaf93cbe5391.m4a
-category: Biology
+category: Cognitive Science
 draft: false
 excerpt: Dr. Amalia Bastos is a Postdoctoral Fellow at the Social & Cognitive Origins
   Group at Johns Hopkins University. She is interested in how evolutionary pressures

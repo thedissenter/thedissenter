@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62455217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-20%2Fc74c3e6d-5a5f-cd31-e557-edb9be354fc4.m4a
-category: Psychology
+category: Economics
 draft: false
 excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of San
   Francisco. She is the Vice-President for North America of the Economic Science Association.

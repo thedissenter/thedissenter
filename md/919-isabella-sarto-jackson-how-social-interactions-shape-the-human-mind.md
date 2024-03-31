@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78298287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-7%2Faae8218f-d637-73db-103d-bbdf6edfe97c.m4a
-category: Psychology
+category: Cognitive Science
 draft: false
 excerpt: 'Dr. Isabella Sarto-Jackson is Lecturer in Cognitive Science at the University
   of Vienna, Guest Lecturer in Cognitive Biology at the University of Bratislava,

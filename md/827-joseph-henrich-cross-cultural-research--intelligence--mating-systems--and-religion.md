@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74169759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-2%2F41b6c38b-867e-b17d-6cc8-1af92c9e7d50.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: 'Podcast: http://bit.ly/3FeSNqb'
 id: '827'

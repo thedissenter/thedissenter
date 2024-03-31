@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38730559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2Fbfa0c886-bad2-996c-7c50-f058142b63bc.m4a
-category: Anthropology
+category: Biology
 draft: false
 excerpt: 'Dr. Nichola Raihani is Professor of Evolution and Behavior at University
   College London. Her research considers the evolution of cooperation in nature. She

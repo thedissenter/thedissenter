@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76345584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-25%2F433c579a-8193-9149-fff3-88eedb244ee3.m4a
-category: General Science
+category: Art
 draft: false
 excerpt: 'Dr. Sarah Hart is an Emerita Professor of Mathematics at Birkbeck, University
   of London. Educated at Oxford and Manchester, Dr. Hart is also the thirty-third

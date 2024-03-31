@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64066394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-26%2F482b652e-1a25-1eb0-9a38-6772f9c6c7ee.m4a
-category: Psychology
+category: Biology
 draft: false
 excerpt: Dr. Gillian Forrester is a Professor of Comparative Cognition in the School
   of Psychology at the University of Sussex. She is the director of the Comparative

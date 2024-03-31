@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123224-44100-2-894b229080166.m4a
-category: Anthropology
+category: Archaeology
 draft: false
 excerpt: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School\
   \ of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies\

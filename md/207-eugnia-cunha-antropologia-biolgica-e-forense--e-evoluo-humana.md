@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848708-44100-2-6086dabb7ad87.m4a
-category: Anthropology
+category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: "A Dra. Eug\xE9nia Cunha \xE9 Professora Catedr\xE1tica de Antropologia no\
   \ Departamento de Ci\xEAncias da Vida da FCTUC (Faculdade de Ci\xEAncias e Tecnologia\

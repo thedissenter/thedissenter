@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/49378734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-21%2Fd5e4547b-3c1d-5402-e7e9-4fc28a33cc79.m4a
-category: Anthropology
+category: Neuroscience
 draft: false
 excerpt: Dr. Robert Barton is Professor in the Department of Anthropology, Member
   of the Durham Cultural Evolution Research Centre at Durham University, UK. He is

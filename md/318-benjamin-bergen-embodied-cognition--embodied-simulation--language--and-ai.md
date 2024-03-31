@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9912641/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-24%2F44937362-44100-2-145ccdd103821.m4a
-category: Psychology
+category: Cognitive Science
 draft: false
 excerpt: "Dr. Benjamin Bergen is Professor of Cognitive Science at the University\
   \ of California San Diego. His research interests include language comprehension\

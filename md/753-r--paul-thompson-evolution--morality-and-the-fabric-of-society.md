@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61397887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-29%2F41c980b7-ee76-01c0-c5b2-2ac0bc27ef9d.m4a
-category: Philosophy
+category: Biology
 draft: false
 excerpt: Dr. R. Paul Thompson holds appointments as Professor in the Institute for
   the History and Philosophy of Science and Technology and the Department of Ecology

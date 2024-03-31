@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48385016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-1%2F19c4c502-ad02-e8b5-1458-0320e25f39eb.m4a
-category: Psychology
+category: Art
 draft: false
 excerpt: 'Dr. Svetlana Rudenko is a concert pianist and educator bringing a new feeling
   to the way in which sound, music, and art are perceived and experienced in new media.

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32759795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-3%2F0ca70bff-2714-3526-7d8f-75f61516c989.m4a
-category: Psychology
+category: Politics
 draft: false
 excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the University\
   \ of Washington. He has written, edited or co-authored 40 books, including ones\

@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72420971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2F063fc893-f8cb-e85d-2c09-9e0541b0a5f6.m4a
-category: Sociology
+category: Economics
 draft: false
 excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University of
   Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies

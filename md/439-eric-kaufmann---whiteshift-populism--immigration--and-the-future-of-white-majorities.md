@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25921187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2Fd1f99b83-b4a9-7cf7-2729-5bd8c9e62360.m4a
-category: Sociology
+category: Economy, Progress
 draft: false
 excerpt: "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, University\
   \ of London, UK.  He is principally interested in cultural politics: ethnicity,\

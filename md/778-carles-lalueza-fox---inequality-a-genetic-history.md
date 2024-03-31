@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63770559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2F2cd16b59-b10d-fe2c-5f28-7fceb7653b80.m4a
-category: Anthropology
+category: Biology
 draft: false
 excerpt: 'Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Barcelona.
   He participated in the Neanderthal Genome Project and led the first retrieval of

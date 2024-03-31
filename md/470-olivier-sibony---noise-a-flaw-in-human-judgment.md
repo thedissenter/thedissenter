@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32040387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fadc36c44-d447-0b01-bc73-b4fa49a39a35.m4a
-category: Psychology
+category: Cognitive Science
 draft: false
 excerpt: 'Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer,
   educator and consultant specializing in strategy, strategic decision making and

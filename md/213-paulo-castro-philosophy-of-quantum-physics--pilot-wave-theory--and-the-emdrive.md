@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877752-44100-2-613161a374034.m4a
-category: Philosophy
+category: General Science
 draft: false
 excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon\
   \ in 1996 after studying Physics at the University of Lisbon. He taught Mathematics\

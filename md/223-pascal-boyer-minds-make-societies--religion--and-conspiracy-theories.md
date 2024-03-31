@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19166397-44100-2-3615b13d5b3dd.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collective\
   \ Memory in the Departments of Psychology and Anthropology at Washington University\

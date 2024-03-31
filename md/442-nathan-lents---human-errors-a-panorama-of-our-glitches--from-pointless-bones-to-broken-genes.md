@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24162690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F7c4b17d1-79c0-8bd2-c3ea-55629fbdd904.m4a
-category: Psychology
+category: Biology
 draft: false
 excerpt: 'Dr. Nathan H. Lents is Professor of Biology and director of the honors program
   and the campus Macaulay Honors College program at John Jay College. Dr. Lents is

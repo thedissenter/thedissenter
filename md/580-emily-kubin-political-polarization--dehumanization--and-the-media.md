@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41792102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fd7fefdaa-26c4-0ae6-b91d-a5927c201f6c.m4a
-category: Psychology
+category: Politics
 draft: false
 excerpt: "Emily Kubin is a PhD student in the Political Psychology & Communication\
   \ Lab at the University of Koblenz-Landau (at Landau). She studies political communication.\

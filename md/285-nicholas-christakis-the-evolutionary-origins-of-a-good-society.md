@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8467374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319246-44100-2-7bdd21e1c7f.m4a
-category: Psychology
+category: Anthropology
 draft: false
 excerpt: "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science,\
   \ and Professor of Internal Medicine and General Medicine at Yale University. He\u2019\

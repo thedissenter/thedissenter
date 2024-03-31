@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57857407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-20%2F8590e256-713f-dd22-411b-b2bfdf5b3a16.m4a
-category: Neuroscience
+category: Cognitive Science
 draft: false
 excerpt: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Department
   of Neurology at the BU School of Medicine and Professor of Psychology at National

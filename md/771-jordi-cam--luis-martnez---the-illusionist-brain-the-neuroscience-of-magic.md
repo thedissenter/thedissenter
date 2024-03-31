@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62863936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F6eb99a22-0b65-c624-bfc8-10c2eaa41ec2.m4a
-category: Neuroscience
+category: Cognitive Science
 draft: false
 excerpt: "Dr. Jordi Cam\xED is Professor of Pharmacology (specialist in Clinical Pharmacology)\
   \ at Pompeu Fabra University, General Director of the Barcelona Biomedical Research\

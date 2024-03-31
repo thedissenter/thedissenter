@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43606858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2Fddc08f47-0810-8bb6-82f8-6d30381bc5c7.m4a
-category: Psychology
+category: Art
 draft: false
 excerpt: 'Dr. Brian Boyd is a University Distinguished Professor in the Department
   of English at the University of Auckland, New Zealand. He is known primarily as

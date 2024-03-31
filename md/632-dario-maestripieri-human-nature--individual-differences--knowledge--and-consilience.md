@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48207016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-25%2Fb1213264-3c40-4071-6638-acbe05833517.m4a
-category: Psychology
+category: Biology
 draft: false
 excerpt: Dr. Dario Maestripieri is a Professor in Comparative Human Development and
   is also affiliated with the Institute on the Formation of Knowledge at the University

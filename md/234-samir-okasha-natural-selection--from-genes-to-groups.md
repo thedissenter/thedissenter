@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4082153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20119122-44100-2-38ab9a94b605e.m4a
-category: Philosophy
+category: Biology
 draft: false
 excerpt: 'Dr. Samir Okasha is a Professor of Philosophy of Science at the University
   of Bristol. He is a winner of the Lakatos Award for his book Evolution and the Levels

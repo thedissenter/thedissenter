@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24638396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F6e66cc05-198a-5d1f-dd7d-8e80db5d94b3.m4a
-category: Philosophy
+category: Sociology
 draft: false
 excerpt: "Dr. Stanley Fish is Professor of Law at Florida International University\
   \ and Visiting Professor of Law at Cardoso Law School. In addition to being one\

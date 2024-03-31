@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55633104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2F6f678d88-00fd-6992-0ed8-cc0ea9f49b02.m4a
-category: Cognitive Science
+category: Linguistics
 draft: false
 excerpt: 'Dr. Nick Enfield is Professor and Chair of Linguistics at the University
   of Sydney and director of the Sydney Centre for Language Research. His research

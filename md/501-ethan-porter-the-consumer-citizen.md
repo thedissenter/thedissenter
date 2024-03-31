@@ -1,6 +1,6 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31488080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2Fdf5bf554-c6cc-a2a3-7f67-b3f5276512f2.m4a
-category: Sociology
+category: Economy, Progress
 draft: false
 excerpt: 'Dr. Ethan Porter is an assistant professor at the George Washington University
   School of Media and Public Affairs. His research has appeared or is forthcoming
