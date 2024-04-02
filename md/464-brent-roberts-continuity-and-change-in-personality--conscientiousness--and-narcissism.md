@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26253576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2F9f2c368d-712c-a98d-fb64-0d1e394787b8.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Brent W. Roberts is a Professor of Psychology and Director of the Center
   for Social and Behavioral Science at the University of Illinois at Urbana-Champaign.
@@ -13,6 +12,9 @@ excerpt: Dr. Brent W. Roberts is a Professor of Psychology and Director of the C
 id: '464'
 image: https://i.ytimg.com/vi/Mb9iM74Na8U/maxresdefault.jpg
 publishDate: 2021-05-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/464-Brent-Roberts-Continuity-and-Change-in-Personality--Conscientiousness--and-Narcissism-epvmq8
+tags:
+- Psychology
 title: '#464 Brent Roberts: Continuity and Change in Personality, Conscientiousness,
   and Narcissism'
 youtubeid: Mb9iM74Na8U

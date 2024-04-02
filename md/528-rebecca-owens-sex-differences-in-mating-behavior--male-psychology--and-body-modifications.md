@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35727166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2F31b676dc-bb55-68f0-b961-b416a9958be5.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Rebecca Owens is Lecturer in Psychology at the University of Sunderland.
   She is also a Chartered member of the British Psychological Society and a Senior
@@ -9,6 +8,9 @@ excerpt: 'Dr. Rebecca Owens is Lecturer in Psychology at the University of Sunde
 id: '528'
 image: https://i.ytimg.com/vi/APYj7gu50Fs/maxresdefault.jpg
 publishDate: 2021-09-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/528-Rebecca-Owens-Sex-Differences-in-Mating-Behavior--Male-Psychology--and-Body-Modifications-e130qbu
+tags:
+- Psychology
 title: '#528 Rebecca Owens: Sex Differences in Mating Behavior, Male Psychology, and
   Body Modifications'
 youtubeid: APYj7gu50Fs

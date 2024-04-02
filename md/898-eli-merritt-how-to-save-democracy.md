@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76735308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-3%2Ff8098d4b-eac2-2ec6-fcba-46cf96419dd1.m4a
-category: Politics
 draft: false
 excerpt: 'Dr. Eli Merritt is a political historian at Vanderbilt University where
   he researches the ethics of democracy, the interface of demagogues and democracy,
@@ -8,7 +7,11 @@ excerpt: 'Dr. Eli Merritt is a political historian at Vanderbilt University wher
   Democracy: Inspiration and Advice From 95 World Leaders.'
 id: '898'
 image: https://i.ytimg.com/vi/JpyexMOL7jc/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/898-eli-merritt-how-to-save-democracy/id1451347236?i=1000644798826&uo=4
 publishDate: 2024-02-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/898-Eli-Merritt-How-to-Save-Democracy-e2a49cc
+tags:
+- Politics
 title: '#898 Eli Merritt: How to Save Democracy'
 youtubeid: JpyexMOL7jc
 ---

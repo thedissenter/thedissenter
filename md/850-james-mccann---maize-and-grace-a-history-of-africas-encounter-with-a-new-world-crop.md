@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71790456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-7%2Ffb3edd0d-c5d9-a9df-cb16-aeaa559849c0.m4a
-category: History
 draft: false
 excerpt: "Dr. James McCann is Professor Emeritus of History at Boston University.\
   \ Dr. McCann\u2019s research and teaching interests include agricultural and ecological\
@@ -12,7 +11,11 @@ excerpt: "Dr. James McCann is Professor Emeritus of History at Boston University
   \ Ethiopia; and From Poverty to Famine in Northeast Ethiopia: Rural History, 1900-1995."
 id: '850'
 image: https://i.ytimg.com/vi/9Aq460SL0vk/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/850-james-mccann-maize-and-grace-a-history/id1451347236?i=1000632047922&uo=4
 publishDate: 2023-10-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/850-James-McCann---Maize-and-Grace-A-History-of-Africas-Encounter-with-a-New-World-Crop-e25dcdo
+tags:
+- History
 title: "#850 James McCann - Maize and Grace: A History of Africa\u2019s Encounter\
   \ with a New World Crop"
 youtubeid: 9Aq460SL0vk

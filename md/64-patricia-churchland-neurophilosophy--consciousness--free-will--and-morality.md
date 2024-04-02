@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681241-48000-2-77b3413bcb4b7.mp3
-category: Philosophy
 draft: false
 excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her\
   \ contributions to neurophilosophy and the philosophy of mind. She is UC President's\
@@ -14,6 +13,9 @@ excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for h
 id: '64'
 image: https://i.ytimg.com/vi/3gL63V7aKHU/maxresdefault.jpg
 publishDate: 2018-08-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/64-Patricia-Churchland-Neurophilosophy--Consciousness--Free-Will--and-Morality-e2rj4b
+tags:
+- Philosophy
 title: '#64 Patricia Churchland: Neurophilosophy, Consciousness, Free Will, and Morality'
 youtubeid: 3gL63V7aKHU
 ---

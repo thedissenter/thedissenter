@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016878/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778544-44100-2-df20e5de2a75d.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Rebecca Sear is Reader at the London School of Hygiene and Tropical\
   \ Medicine (LSHTM), teaching demography and researching human reproductive behaviour\
@@ -19,6 +18,9 @@ excerpt: "Dr. Rebecca Sear is Reader at the London School of Hygiene and Tropica
 id: '135'
 image: https://i.ytimg.com/vi/L7R-EKiYWNQ/maxresdefault.jpg
 publishDate: 2019-02-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/135-Rebecca-Sear-Human-Behavioral-Ecology--Mating--Parenting--Reproduction-e2s25e
+tags:
+- Anthropology
 title: '#135 Rebecca Sear: Human Behavioral Ecology, Mating, Parenting, Reproduction'
 youtubeid: L7R-EKiYWNQ
 ---

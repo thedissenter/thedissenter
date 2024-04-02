@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/34775771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2F8de3490a-1853-4fb2-77a0-914563c97eb0.m4a
-category: Physics
 draft: false
 excerpt: 'Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department
   of Physics at Oxford University. Her research interests include Quantum Theory of
@@ -14,6 +13,10 @@ excerpt: 'Dr. Chiara Marletto is Postdoctoral Research Assistant in the Departme
 id: '491'
 image: https://i.ytimg.com/vi/anerMroeLM8/maxresdefault.jpg
 publishDate: 2021-07-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/491-Chiara-Marletto---The-Science-of-Can-and-Cant-The-PhysicsScience-of-Counterfactuals-e123p8r
+tags:
+- Physics
+- Philosophy
 title: '#491 Chiara Marletto - The Science of Can and Can''t; The Physics/Science
   of Counterfactuals'
 youtubeid: anerMroeLM8

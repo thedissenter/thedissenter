@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3780613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281550-44100-2-c7305495f2598.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Maryanne Fisher is a Professor in the Department of Psychology, and\
   \ a member of the Women and Gender Studies Program, at Saint Mary's University in\
@@ -15,6 +14,9 @@ excerpt: "Dr. Maryanne Fisher is a Professor in the Department of Psychology, an
 id: '217'
 image: https://i.ytimg.com/vi/8BDOyArmlmk/maxresdefault.jpg
 publishDate: 2019-08-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/217-Maryanne-Fisher-Evolutionary-Psychology--Women--And-Feminism-e4hsi5
+tags:
+- Psychology
 title: '#217 Maryanne Fisher: Evolutionary Psychology, Women, And Feminism'
 youtubeid: 8BDOyArmlmk
 ---

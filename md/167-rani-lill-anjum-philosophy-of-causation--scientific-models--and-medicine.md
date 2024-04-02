@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2533342/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10726173-44100-2-d0fca71001021.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Rani Lill Anjum is Research Fellow in Philosophy at the Norwegian University\
   \ of Life Sciences (NMBU) School of Economics and Business, and Leader of the CAPS\
@@ -21,6 +20,9 @@ excerpt: "Dr. Rani Lill Anjum is Research Fellow in Philosophy at the Norwegian 
 id: '167'
 image: https://i.ytimg.com/vi/WbIlXwY-Bac/maxresdefault.jpg
 publishDate: 2019-04-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/167-Rani-Lill-Anjum-Philosophy-of-Causation--Scientific-Models--And-Medicine-e3bqgu
+tags:
+- Philosophy
 title: '#167 Rani Lill Anjum: Philosophy of Causation, Scientific Models, and Medicine'
 youtubeid: WbIlXwY-Bac
 ---

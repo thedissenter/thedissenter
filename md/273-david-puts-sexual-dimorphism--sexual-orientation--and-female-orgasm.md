@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7249327/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29808227-44100-2-6c142e36f7bed.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. David Puts is Associate Professor of Anthropology at Pennsylvania State
   University. Dr. Puts studies the neuroendocrine and evolutionary bases of human
@@ -13,6 +12,10 @@ excerpt: 'Dr. David Puts is Associate Professor of Anthropology at Pennsylvania 
 id: '273'
 image: https://i.ytimg.com/vi/d8SGOFP6QoA/maxresdefault.jpg
 publishDate: 2019-12-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/273-David-Puts-Sexual-Dimorphism--Sexual-Orientation--And-Female-Orgasm-e7rnvf
+tags:
+- Anthropology
+- Psychology
 title: '#273 David Puts: Sexual Dimorphism, Sexual Orientation, And Female Orgasm'
 youtubeid: d8SGOFP6QoA
 ---

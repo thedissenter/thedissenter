@@ -1,12 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121816-44100-2-a0002f4ef56ff.m4a
-category: Biology
 draft: false
 excerpt: SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK.
   HOPE YOU ENJOY IT.
 id: '139'
 image: https://i.ytimg.com/vi/jeGebFnF9Fw/maxresdefault.jpg
 publishDate: 2019-02-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/139-Peter-Richerson-Biology-and-Culture--Cultural-Evolution--Cognition--and-Group-Selection-e32tld
+tags:
+- Biology
 title: '#139 Peter Richerson: Biology and Culture, Cultural Evolution, Cognition,
   and Group Selection'
 youtubeid: jeGebFnF9Fw

@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3653930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-5-23%2F17463700-44100-2-bcb2f9a23d453.m4a
-category: Philosophy
 draft: false
 excerpt: REUPLOAD OF PETER SINGER'S INTERVIEW
 id: '196'
 image: https://i.ytimg.com/vi/Ab6Mko9nHMI/maxresdefault.jpg
 publishDate: 2019-07-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/196-Peter-Singer-Ethics--Veganism--And-Effective-Altruism-e4e0ra
+tags:
+- Philosophy
 title: '#196 Peter Singer: Ethics, Veganism, And Effective Altruism'
 youtubeid: Ab6Mko9nHMI
 ---

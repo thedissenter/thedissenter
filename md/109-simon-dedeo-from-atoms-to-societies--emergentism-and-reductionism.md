@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735001-48000-2-476a49c2e5d71.mp3
-category: General Science
 draft: false
 excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. I\u2019VE BEEN HAVING SOME ISSUES WITH\
   \ THE RECORDING PROGRAM THAT I HOPE TO SOLVE DEFINITELLY IN THE NEAR FUTURE. PLEASE\
@@ -8,6 +7,9 @@ excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. I\u2019VE BEEN HAVING SOME ISSUES WIT
 id: '109'
 image: https://i.ytimg.com/vi/HOZiYYOZ1sE/maxresdefault.jpg
 publishDate: 2018-12-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/109-Simon-DeDeo-From-Atoms-to-Societies--Emergentism-and-Reductionism-e2rsfu
+tags:
+- General Science
 title: '#109 Simon DeDeo: From Atoms to Societies, Emergentism and Reductionism'
 youtubeid: HOZiYYOZ1sE
 ---

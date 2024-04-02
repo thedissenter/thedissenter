@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/5385513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-4%2F26361902-44100-2-05a9b4f20ab71.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Colin Allen is Distinguished Professor, and Director of Graduate Admissions
   in the Department of History and Philosophy of Science at the University of Pittsburgh.
@@ -11,6 +10,10 @@ excerpt: Dr. Colin Allen is Distinguished Professor, and Director of Graduate Ad
 id: '269'
 image: https://i.ytimg.com/vi/jmd-q9xTgtk/maxresdefault.jpg
 publishDate: 2019-12-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/269-Colin-Allen-Minds--Cognition--And-Cognitive-Ethology-e62rr9
+tags:
+- Cognitive Science
+- Philosophy
 title: '#269 Colin Allen: Minds, Cognition, and Cognitive Ethology'
 youtubeid: jmd-q9xTgtk
 ---

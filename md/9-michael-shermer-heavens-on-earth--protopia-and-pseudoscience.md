@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '9'
 image: https://i.ytimg.com/vi/19FM-_qShDw/maxresdefault.jpg
 publishDate: 2018-03-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/9-Michael-Shermer-Heavens-on-Earth--Protopia-and-Pseudoscience-e2r44k
 title: '#9 Michael Shermer: Heavens on Earth, Protopia and Pseudoscience'
 youtubeid: 19FM-_qShDw
 ---

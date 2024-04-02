@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/11330903/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-21%2F57890437-44100-2-6f51cb9e55fe4.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre National\
   \ de la Recherche Scientifique (Institut Jean Nicod), where he works with the Evolution\
@@ -10,6 +9,9 @@ excerpt: "Dr. Hugo Mercier is a research scientist at the CNRS \u2013 Centre Nat
 id: '331'
 image: https://i.ytimg.com/vi/lXKSDiWJjyk/maxresdefault.jpg
 publishDate: 2020-05-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/331-Hugo-Mercier-Not-Born-Yesterday-Gullibility--Vigilance--Politics--and-Social-Media-ebo9sn
+tags:
+- Psychology
 title: '#331 Hugo Mercier: Not Born Yesterday; Gullibility, Vigilance, Politics, and
   Social Media'
 youtubeid: lXKSDiWJjyk

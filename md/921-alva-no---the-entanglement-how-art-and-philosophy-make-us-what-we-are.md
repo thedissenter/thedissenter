@@ -1,5 +1,5 @@
 ---
-category: Art
+audiourl: https://anchor.fm/s/822ba20/podcast/play/81367021/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-16%2F2e2e0d74-5e6f-c923-f586-39778f2043f4.m4a
 draft: false
 excerpt: "Dr. Alva No\xEB is Professor and Chair of Philosophy at the University of\
   \ California, Berkeley. He is a philosopher of mind whose research and teaching\
@@ -10,7 +10,14 @@ excerpt: "Dr. Alva No\xEB is Professor and Chair of Philosophy at the University
   \ Make Us What We Are."
 id: '921'
 image: https://i.ytimg.com/vi/Lb9LMPNKWvU/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/921-alva-no%C3%AB-the-entanglement-how-art-and-philosophy/id1451347236?i=1000650879784&uo=4
 publishDate: 2024-03-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/921-Alva-No---The-Entanglement-How-Art-and-Philosophy-Make-Us-What-We-Are-e2ehkhd
+tags:
+- Art
+- Cognitive Science
+- Philosophy
+- Psychology
 title: "#921 Alva No\xEB - The Entanglement: How Art and Philosophy Make Us What We\
   \ Are"
 youtubeid: Lb9LMPNKWvU

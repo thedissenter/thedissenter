@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65038457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-14%2F289cfee1-bb2e-7b0d-4544-08646a66d680.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University
   of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural
@@ -12,7 +11,11 @@ excerpt: 'Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-Unive
   awe, humor; and more.'
 id: '786'
 image: https://i.ytimg.com/vi/m9_zwC7pdTo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/786-vassilis-saroglou-the-psychological-traits/id1451347236?i=1000614509131&uo=4
 publishDate: 2023-05-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/786-Vassilis-Saroglou-The-Psychological-Traits-of-Religious-People-e1uvalp
+tags:
+- Psychology
 title: '#786 Vassilis Saroglou: The Psychological Traits of Religious People'
 youtubeid: m9_zwC7pdTo
 ---

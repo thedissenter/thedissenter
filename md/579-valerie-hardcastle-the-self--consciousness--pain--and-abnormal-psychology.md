@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41485626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Fca925ec0-2ee2-69be-3b17-136953ab63cb.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of
   the Institute for Health Innovation and Vice President for Health Innovation at
@@ -13,6 +12,11 @@ excerpt: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director o
 id: '579'
 image: https://i.ytimg.com/vi/U0n64729aIQ/maxresdefault.jpg
 publishDate: 2022-01-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/579-Valerie-Hardcastle-The-Self--Consciousness--Pain--and-Abnormal-Psychology-e18ghrq
+tags:
+- Neuroscience
+- Philosophy
+- Psychology
 title: '#579 Valerie Hardcastle: The Self, Consciousness, Pain, and Abnormal Psychology'
 youtubeid: U0n64729aIQ
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41135175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F3eda870d-8aae-a62c-da89-f7d6a23e8e27.m4a
-category: Sociology
 draft: false
 excerpt: 'Dr. Andreas Jungherr is Professor for Political Science with a focus on
   the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University
@@ -17,6 +16,10 @@ excerpt: 'Dr. Andreas Jungherr is Professor for Political Science with a focus o
 id: '574'
 image: https://i.ytimg.com/vi/v8yuU1NbFFI/maxresdefault.jpg
 publishDate: 2022-01-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/574-Andreas-Jungherr-Online-Political-Discourse--Digital-Media-and-Politics--and-Misinformation-e185rk7
+tags:
+- Sociology
+- Psychology
 title: '#574 Andreas Jungherr: Online Political Discourse, Digital Media and Politics,
   and Misinformation'
 youtubeid: v8yuU1NbFFI

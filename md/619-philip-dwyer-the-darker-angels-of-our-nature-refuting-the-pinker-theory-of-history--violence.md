@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47114006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fbb037a98-59ce-3ab6-679b-243775582dde.m4a
-category: History
 draft: false
 excerpt: 'Dr. Philip Dwyer is Professor in the School of Humanities and Social Science
   at the University of Newcastle, Australia. He has published widely on the Revolutionary
@@ -11,6 +10,11 @@ excerpt: 'Dr. Philip Dwyer is Professor in the School of Humanities and Social S
 id: '619'
 image: https://i.ytimg.com/vi/BoZNJRytTsw/maxresdefault.jpg
 publishDate: 2022-04-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/619-Philip-Dwyer-The-Darker-Angels-of-Our-Nature-Refuting-the-Pinker-Theory-of-History--Violence-e1dsaam
+tags:
+- Politics
+- History
+- Anthropology
 title: '#619 Philip Dwyer The Darker Angels of Our Nature: Refuting the Pinker Theory
   of History & Violence'
 youtubeid: BoZNJRytTsw

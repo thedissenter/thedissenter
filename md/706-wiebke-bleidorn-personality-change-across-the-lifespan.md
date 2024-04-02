@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57671492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-16%2F18d137c8-10ef-84f7-df2c-901b074c5879.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Zurich.
   Dr. Bleidorn examines the conditions, mechanisms, and consequences of personality
@@ -13,6 +12,9 @@ excerpt: Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Z
 id: '706'
 image: https://i.ytimg.com/vi/UrLwP5MVJ5U/maxresdefault.jpg
 publishDate: 2022-11-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/706-Wiebke-Bleidorn-Personality-Change-Across-the-Lifespan-e1nugc4
+tags:
+- Psychology
 title: '#706 Wiebke Bleidorn: Personality Change Across the Lifespan'
 youtubeid: UrLwP5MVJ5U
 ---

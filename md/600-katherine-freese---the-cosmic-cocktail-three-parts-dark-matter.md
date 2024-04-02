@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/44647668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2Fa599ff7c-2c2f-9eb6-fa49-2fa37579becb.m4a
-category: Physics
 draft: false
 excerpt: 'Dr. Katherine Freese is a professor of physics at the University of Texas
   at Austin, where she holds the Jeff and Gail Kodosky Endowed Chair in Physics. She
@@ -9,6 +8,9 @@ excerpt: 'Dr. Katherine Freese is a professor of physics at the University of Te
 id: '600'
 image: https://i.ytimg.com/vi/sXs8eoXg-rM/maxresdefault.jpg
 publishDate: 2022-03-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/600-Katherine-Freese---The-Cosmic-Cocktail-Three-Parts-Dark-Matter-e1bh1pk
+tags:
+- Physics
 title: '#600 Katherine Freese - The Cosmic Cocktail: Three Parts Dark Matter'
 youtubeid: sXs8eoXg-rM
 ---

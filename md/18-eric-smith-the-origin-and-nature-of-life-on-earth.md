@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '18'
 image: https://i.ytimg.com/vi/ARZkYwT-H20/maxresdefault.jpg
 publishDate: 2018-04-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/18-Eric-Smith-The-Origin-and-Nature-of-Life-on-Earth-e2r488
 title: '#18 Eric Smith: The Origin and Nature of Life on Earth'
 youtubeid: ARZkYwT-H20
 ---

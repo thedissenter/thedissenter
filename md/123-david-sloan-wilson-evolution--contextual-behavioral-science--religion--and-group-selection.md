@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778072-44100-2-34b4c1c0f309e.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and Anthropology\
   \ at Binghamton University. He applies evolutionary theory to all aspects of humanity\
@@ -15,6 +14,9 @@ excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and 
 id: '123'
 image: https://i.ytimg.com/vi/I3YQVV02MwI/maxresdefault.jpg
 publishDate: 2019-01-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/123-David-Sloan-Wilson-Evolution--Contextual-Behavioral-Science--Religion--and-Group-Selection-e2s21c
+tags:
+- Psychology
 title: '#123 David Sloan Wilson: Evolution, Contextual Behavioral Science, Religion,
   and Group Selection'
 youtubeid: I3YQVV02MwI

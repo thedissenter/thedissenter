@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17736610/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-8%2F8d3749d5-a768-98b0-ab67-c9e13e34e9ba.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Alberto Acerbi is a Lecturer in Psychology in the Centre for Culture
   and Evolution at Brunel University London. He is a cognitive/evolutionary anthropologist
@@ -14,6 +13,10 @@ excerpt: 'Dr. Alberto Acerbi is a Lecturer in Psychology in the Centre for Cultu
 id: '369'
 image: https://i.ytimg.com/vi/AX0Jy0__DbE/maxresdefault.jpg
 publishDate: 2020-09-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/369-Alberto-Acerbi-Cultural-Evolution-in-the-Digital-Age-ehrpf2
+tags:
+- Anthropology
+- Psychology
 title: '#369 Alberto Acerbi: Cultural Evolution in the Digital Age'
 youtubeid: AX0Jy0__DbE
 ---

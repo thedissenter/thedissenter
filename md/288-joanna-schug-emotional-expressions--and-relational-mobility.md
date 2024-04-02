@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8604778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-22%2F35308739-44100-2-575936544a2a2.m4a
-category: Psychology
 draft: false
 excerpt: 'THIS INTERVIEW IS AUDIO-ONLY.  '
 id: '288'
 image: https://i.ytimg.com/vi/tePDaa4zSbE/maxresdefault.jpg
 publishDate: 2020-01-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/288-Joanna-Schug-Emotional-Expressions--And-Relational-Mobility-e953la
+tags:
+- Psychology
 title: '#288 Joanna Schug: Emotional Expressions, and Relational Mobility'
 youtubeid: tePDaa4zSbE
 ---

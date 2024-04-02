@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/68987427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-20%2F717fdbcd-2180-34af-722d-1c57cd8baf7b.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
   \ Forest University. His research is primarily in contemporary ethics and philosophy\
@@ -12,7 +11,11 @@ excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at W
   \ Virtue."
 id: '822'
 image: https://i.ytimg.com/vi/HU9q_8-Tph8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/822-christian-miller-the-virtues-of/id1451347236?i=1000624796681&uo=4
 publishDate: 2023-08-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/822-Christian-Miller-The-Virtues-of-Generosity-and-Patience-e22nr33
+tags:
+- Philosophy
 title: '#822 Christian Miller: The Virtues of Generosity and Patience'
 youtubeid: HU9q_8-Tph8
 ---

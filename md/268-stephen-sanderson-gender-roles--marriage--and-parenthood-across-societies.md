@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/5382293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-4%2F26356639-44100-2-ce693389c39e6.m4a
-category: Sociology
 draft: false
 excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professor\
   \ of sociology at Indiana University of Pennsylvania. Since 2007 he has been a visiting\
@@ -16,6 +15,10 @@ excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professo
 id: '268'
 image: https://i.ytimg.com/vi/zol-rQYASok/maxresdefault.jpg
 publishDate: 2019-12-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/268-Stephen-Sanderson-Gender-Roles--Marriage--And-Parenthood-Across-Societies-e62oml
+tags:
+- Sociology
+- Anthropology
 title: '#268 Stephen Sanderson: Gender Roles, Marriage, And Parenthood Across Societies'
 youtubeid: zol-rQYASok
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2991063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13202985-44100-2-78849b5eff0f2.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Hector A. Garcia is a clinical psychologist specializing in the treatment\
   \ of combat-related post-traumatic stress disorder (PTSD). He\u2019s Assistant Professor\
@@ -14,6 +13,9 @@ excerpt: "Dr. Hector A. Garcia is a clinical psychologist specializing in the tr
 id: '184'
 image: https://i.ytimg.com/vi/56X7BO1AZk0/maxresdefault.jpg
 publishDate: 2019-05-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/184-Hector-Garcia-Sex--Power--And-Partisanship-e3ppgn
+tags:
+- Psychology
 title: '#184 Hector Garcia: Sex, Power, And Partisanship'
 youtubeid: 56X7BO1AZk0
 ---

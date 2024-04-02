@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76833441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-5%2F26045cf6-a97c-e194-4ac2-34f556f62163.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Darcia Narvaez is a Professor of Psychology Emerita at the University\
   \ of Notre Dame. She has written extensively on issues of character and moral development.\
@@ -10,7 +9,12 @@ excerpt: "Dr. Darcia Narvaez is a Professor of Psychology Emerita at the Univers
   \ wellbeing.   "
 id: '899'
 image: https://i.ytimg.com/vi/Sb-fGM9uLh4/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/899-darcia-narvaez-gay-bradshaw-the-evolved-nest/id1451347236?i=1000645079731&uo=4
 publishDate: 2024-02-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/899-Darcia-Narvaez--Gay-Bradshaw-The-Evolved-Nest-e2a7971
+tags:
+- Biology
+- Psychology
 title: '#899 Darcia Narvaez & Gay Bradshaw: The Evolved Nest'
 youtubeid: Sb-fGM9uLh4
 ---

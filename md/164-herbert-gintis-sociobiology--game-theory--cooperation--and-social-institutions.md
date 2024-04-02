@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2467823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-1-23%2F10390712-44100-2-d5c2448e9e77d.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and
   Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project
@@ -16,6 +15,9 @@ excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He
 id: '164'
 image: https://i.ytimg.com/vi/dyfJ3LNIcGs/maxresdefault.jpg
 publishDate: 2019-04-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/164-Herbert-Gintis-Sociobiology--Game-Theory--Cooperation--And-Social-Institutions-e39qhf
+tags:
+- Psychology
 title: '#164 Herbert Gintis: Sociobiology, Game Theory, Cooperation, And Social Institutions'
 youtubeid: dyfJ3LNIcGs
 ---

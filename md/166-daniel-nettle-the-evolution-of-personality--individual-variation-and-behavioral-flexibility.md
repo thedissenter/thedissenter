@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2533321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725978-44100-2-b6262ac6ce23e.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle University,
   where he is a member of the cross-disciplinary Centre for Behaviour and Evolution.
@@ -13,6 +12,9 @@ excerpt: 'Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle Uni
 id: '166'
 image: https://i.ytimg.com/vi/FDkEhOiksLw/maxresdefault.jpg
 publishDate: 2019-04-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/166-Daniel-Nettle-The-Evolution-of-Personality--Individual-Variation-And-Behavioral-Flexibility-e3bqg9
+tags:
+- Psychology
 title: '#166 Daniel Nettle: The Evolution of Personality, Individual Variation And
   Behavioral Flexibility'
 youtubeid: FDkEhOiksLw

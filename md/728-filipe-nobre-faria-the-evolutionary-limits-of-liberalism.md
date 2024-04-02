@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62262153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-15%2F3d5a10bd-ac3f-769e-143d-bfe480120b9c.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Filipe Nobre Faria currently works as a researcher in ethics and political
   philosophy at the Institute for Philosophy of the Nova University of Lisbon (IFILNOVA).
@@ -11,7 +10,11 @@ excerpt: 'Dr. Filipe Nobre Faria currently works as a researcher in ethics and p
   Market Solutions and the Ethics of Preference Satisfaction.'
 id: '728'
 image: https://i.ytimg.com/vi/4iM4nbkJ53c/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/728-filipe-nobre-faria-the-evolutionary-limits/id1451347236?i=1000593308511&uo=4
 publishDate: 2023-01-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/728-Filipe-Nobre-Faria-The-Evolutionary-Limits-of-Liberalism-e1saje9
+tags:
+- Philosophy
 title: '#728 Filipe Nobre Faria: The Evolutionary Limits of Liberalism'
 youtubeid: 4iM4nbkJ53c
 ---

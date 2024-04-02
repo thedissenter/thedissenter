@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26253372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fc63d5829-d724-efe6-ad84-d218d37c293d.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Steven Gangestad is Distinguished Professor Emeritus at the University
   of New Mexico. His research interests include social behavior; interpersonal relationships;
@@ -9,6 +8,9 @@ excerpt: Dr. Steven Gangestad is Distinguished Professor Emeritus at the Univers
 id: '460'
 image: https://i.ytimg.com/vi/m36rtFBYtq4/maxresdefault.jpg
 publishDate: 2021-04-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/460-Steven-Gangestad-Ovulatory-shifts--physical-attractiveness--and-psychological-adaptations-epvmjs
+tags:
+- Psychology
 title: '#460 Steven Gangestad: Ovulatory Shifts, Physical Attractiveness, and Psychological
   Adaptations'
 youtubeid: m36rtFBYtq4

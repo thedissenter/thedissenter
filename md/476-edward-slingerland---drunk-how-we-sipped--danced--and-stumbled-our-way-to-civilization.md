@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31132275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F5412ded3-8135-71e9-da7f-a404e6d6d272.m4a
-category: History
 draft: false
 excerpt: "Dr. Edward Slingerland is a Professor of Asian Studies at the University\
   \ of British Columbia, Vancouver, Canada. He\u2019s the Director of the Cultural\
@@ -11,6 +10,11 @@ excerpt: "Dr. Edward Slingerland is a Professor of Asian Studies at the Universi
 id: '476'
 image: https://i.ytimg.com/vi/DI_0hkiaUZ0/maxresdefault.jpg
 publishDate: 2021-05-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/476-Edward-Slingerland---Drunk-How-We-Sipped--Danced--and-Stumbled-Our-Way-to-Civilization-eukj5j
+tags:
+- History
+- Biology
+- Anthropology
 title: '#476 Edward Slingerland - Drunk: How We Sipped, Danced, and Stumbled Our Way
   to Civilization'
 youtubeid: DI_0hkiaUZ0

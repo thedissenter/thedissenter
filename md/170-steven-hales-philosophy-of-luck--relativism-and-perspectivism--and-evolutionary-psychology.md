@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2665912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456017-44100-2-0184c854d1a47.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Steven Hales is Professor and Chair of the Department of Philosophy\
   \ at Bloomsburg University, US. His areas of specialization include epistemology\
@@ -9,6 +8,9 @@ excerpt: "Dr. Steven Hales is Professor and Chair of the Department of Philosoph
 id: '170'
 image: https://i.ytimg.com/vi/eAQIk8odD2s/maxresdefault.jpg
 publishDate: 2019-04-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/170-Steven-Hales-Philosophy-of-Luck--Relativism-and-Perspectivism--And-Evolutionary-Psychology-e3frvo
+tags:
+- Philosophy
 title: '#170 Steven Hales: Philosophy of Luck, Relativism and Perspectivism, And Evolutionary
   Psychology'
 youtubeid: eAQIk8odD2s

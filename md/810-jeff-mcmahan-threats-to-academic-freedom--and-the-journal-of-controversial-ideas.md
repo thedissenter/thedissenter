@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72975587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-4%2F9585fd7a-95f7-38d2-27b1-fafb7c34c0c1.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Jeff McMahan is Sekyra and White\u2019s Professor of Moral Philosophy\
   \ at the University of Oxford. He specializes in Practical Ethics, Political Philosophy,\
@@ -9,7 +8,11 @@ excerpt: "Dr. Jeff McMahan is Sekyra and White\u2019s Professor of Moral Philoso
   \ at the Margins of Life, and Killing in War."
 id: '810'
 image: https://i.ytimg.com/vi/Z4crCag-4Q0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/810-jeff-mcmahan-threats-to-academic-freedom-and/id1451347236?i=1000621801646&uo=4
 publishDate: 2023-07-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/810-Jeff-McMahan-Threats-to-Academic-Freedom--and-the-Journal-of-Controversial-Ideas-e26hhp3
+tags:
+- Philosophy
 title: '#810 Jeff McMahan: Threats to Academic Freedom, and the Journal of Controversial
   Ideas'
 youtubeid: Z4crCag-4Q0

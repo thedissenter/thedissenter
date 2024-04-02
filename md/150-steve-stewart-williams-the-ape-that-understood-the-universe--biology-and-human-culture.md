@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379799-44100-2-172b20f9581ac.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Steve Stewart-Williams is Associate Professor of Psychology at Nottingham\
   \ University Malaysia Campus. His research revolves around the idea that theories\
@@ -12,6 +11,9 @@ excerpt: "Dr. Steve Stewart-Williams is Associate Professor of Psychology at Not
 id: '150'
 image: https://i.ytimg.com/vi/WQtrjpUU0L4/maxresdefault.jpg
 publishDate: 2019-03-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/150-Steve-Stewart-Williams-The-Ape-That-Understood-The-Universe--Biology-and-Human-Culture-e39oc3
+tags:
+- Biology
 title: '#150 Steve Stewart-Williams: The Ape That Understood The Universe, Biology
   and Human Culture'
 youtubeid: WQtrjpUU0L4

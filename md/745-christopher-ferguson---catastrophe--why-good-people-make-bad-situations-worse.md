@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64618396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-6%2Feffd9622-0d02-8b0e-6e84-37e639c42441.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson University.\
   \ He is interested in media violence and, in particular, video games. He\u2019s\
@@ -8,7 +7,11 @@ excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson Univ
   \ Worse."
 id: '745'
 image: https://i.ytimg.com/vi/1MPBx3t5_7U/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/745-christopher-ferguson-catastrophe-why-good-people/id1451347236?i=1000600259413&uo=4
 publishDate: 2023-02-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/745-Christopher-Ferguson---Catastrophe--Why-Good-People-Make-Bad-Situations-Worse-e1uiges
+tags:
+- Psychology
 title: '#745 Christopher Ferguson - Catastrophe!; Why Good People Make Bad Situations
   Worse'
 youtubeid: 1MPBx3t5_7U

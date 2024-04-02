@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/69258593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1c075f62-f86b-9bd7-0b91-c0695df7d6d1.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology\
   \ at the Department of Philosophy at the University of Vienna. He is former President\
@@ -13,7 +12,11 @@ excerpt: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technolo
   \ Technologies of the Soul in the Age of Artificial Intelligence."
 id: '825'
 image: https://i.ytimg.com/vi/ruTMVM0JSNc/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/825-mark-coeckelbergh-self-improvement-technologies/id1451347236?i=1000625583543&uo=4
 publishDate: 2023-08-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/825-Mark-Coeckelbergh---Self-Improvement-Technologies-of-the-Soul-in-the-Age-of-Artificial-Intelligence-e2303t1
+tags:
+- Philosophy
 title: '#825 Mark Coeckelbergh - Self-Improvement, Technology, and Altruism'
 youtubeid: ruTMVM0JSNc
 ---

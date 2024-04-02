@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63301310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F1e670ebc-44dd-012b-c964-dcb330c53b96.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Charles Fernyhough is a Professor of Psychology at Durham University,
   where he is also Director of the Centre for Research into Inner Experience. He has
@@ -12,7 +11,11 @@ excerpt: 'Dr. Charles Fernyhough is a Professor of Psychology at Durham Universi
   We Talk to Ourselves.'
 id: '775'
 image: https://i.ytimg.com/vi/0FIWXXdWwkw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/775-charles-fernyhough-inner-speech-imaginary-companions/id1451347236?i=1000611055585&uo=4
 publishDate: 2023-04-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/775-Charles-Fernyhough-Inner-Speech--Imaginary-Companions--and-Auditory-Hallucinations-e1taa7u
+tags:
+- Psychology
 title: '#775 Charles Fernyhough: Inner Speech, Imaginary Companions, and Auditory
   Hallucinations'
 youtubeid: 0FIWXXdWwkw

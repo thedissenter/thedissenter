@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17068320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2F974f6d24-b949-b84d-0df2-f023ecf3b368.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University\
   \ of Regina\u2019s Hill/Levene Schools of Business. He\u2019s also an Associate\
@@ -19,6 +18,9 @@ excerpt: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at 
 id: '380'
 image: https://i.ytimg.com/vi/-yFgMVbpH0Q/maxresdefault.jpg
 publishDate: 2020-10-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/380-Gordon-Pennycook-Analytic-Thinking--Reasoning--and-Fake-News-eh7cr0
+tags:
+- Psychology
 title: '#380 Gordon Pennycook: Analytic Thinking, Reasoning, and Fake News'
 youtubeid: -yFgMVbpH0Q
 ---

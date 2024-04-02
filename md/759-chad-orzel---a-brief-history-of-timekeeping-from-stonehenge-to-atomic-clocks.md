@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61891576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-8%2F80a32dc1-452c-940a-5c69-81748d712058.m4a
-category: Physics
 draft: false
 excerpt: 'Dr. Chad Orzel is an Associate Professor in the Department of Physics and
   Astronomy at Union College in Schenectady, NY, where he teaches a wide range of
@@ -11,7 +10,12 @@ excerpt: 'Dr. Chad Orzel is an Associate Professor in the Department of Physics 
   The Science of Marking Time, from Stonehenge to Atomic Clocks.'
 id: '759'
 image: https://i.ytimg.com/vi/AInXTKmGMLE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/759-chad-orzel-a-brief-history-of-timekeeping/id1451347236?i=1000605620212&uo=4
 publishDate: 2023-03-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/759-Chad-Orzel---A-Brief-History-of-Timekeeping-from-Stonehenge-to-Atomic-Clocks-e1rv9ho
+tags:
+- Physics
+- History
 title: '#759 Chad Orzel - A Brief History of Timekeeping; from Stonehenge to Atomic
   Clocks'
 youtubeid: AInXTKmGMLE

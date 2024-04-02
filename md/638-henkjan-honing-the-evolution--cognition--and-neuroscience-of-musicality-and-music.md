@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46819084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2F057ee80d-e1f5-238c-a208-4ffda06f6dd6.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Henkjan Honing is professor in Music Cognition at both the Faculty of\
   \ Humanities and the Faculty of Science of the University of Amsterdam (UvA). He\
@@ -15,6 +14,10 @@ excerpt: "Dr. Henkjan Honing is professor in Music Cognition at both the Faculty
 id: '638'
 image: https://i.ytimg.com/vi/QNiN2ncRU3s/maxresdefault.jpg
 publishDate: 2022-06-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/638-Henkjan-Honing-The-Evolution--Cognition--and-Neuroscience-of-Musicality-and-Music-e1djaac
+tags:
+- Neuroscience
+- Psychology
 title: '#638 Henkjan Honing: The Evolution, Cognition, and Neuroscience of Musicality
   and Music'
 youtubeid: QNiN2ncRU3s

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51555700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-5%2Fa01d4e3a-a33e-3c4d-6b31-3000fd4c16b7.m4a
-category: Politics
 draft: false
 excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at the
   University of Birmingham, Director of the Institute for Conflict Cooperation and
@@ -13,6 +12,10 @@ excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at th
 id: '656'
 image: https://i.ytimg.com/vi/3ueynyGX-ic/maxresdefault.jpg
 publishDate: 2022-07-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/656-Tereza-Capelos-The-Psychology-of-Political-Radicalization--Tolerance--and-Reactionism-e1i3rtk
+tags:
+- Politics
+- Psychology
 title: '#656 Tereza Capelos: The Psychology of Political Radicalization, Tolerance,
   and Reactionism'
 youtubeid: 3ueynyGX-ic

@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1991899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601833-44100-2-3a1bb4c4d390e.mp3
-category: Medicine
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '39'
 image: https://i.ytimg.com/vi/LqC-LLPf-oc/maxresdefault.jpg
 publishDate: 2018-06-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/39-Vera-Gomes-Doena-Inflamatria-do-Intestino-e-Sndrome-do-Intestino-Irritvel-e2r9or
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Medicine
 title: "#39 Vera Gomes: Doen\xE7a Inflamat\xF3ria do Intestino e S\xEDndrome do Intestino\
   \ Irrit\xE1vel"
 youtubeid: LqC-LLPf-oc

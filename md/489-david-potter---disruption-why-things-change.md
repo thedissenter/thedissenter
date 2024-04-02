@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35295201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F40b5b119-9c28-5099-df6b-ba40acf49ce8.m4a
-category: History
 draft: false
 excerpt: 'Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek and
   Roman History and Arthur F. Thurnau Professor at the University of Michigan. His
@@ -10,6 +9,9 @@ excerpt: 'Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek an
 id: '489'
 image: https://i.ytimg.com/vi/dY-Kqxe-k-I/maxresdefault.jpg
 publishDate: 2021-07-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/489-David-Potter---Disruption-Why-Things-Change-e12jkh1
+tags:
+- History
 title: '#489 David Potter - Disruption: Why Things Change'
 youtubeid: dY-Kqxe-k-I
 ---

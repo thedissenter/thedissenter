@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4166849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635642-44100-2-98337e6f994bf.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Abigail Page is MRC Research Fellow at the Department of Population\
   \ Health at the London School of Hygiene and Tropical Medicine. Her research is\
@@ -14,6 +13,9 @@ excerpt: "Dr. Abigail Page is MRC Research Fellow at the Department of Populatio
 id: '239'
 image: https://i.ytimg.com/vi/3X_lU6cyLmA/maxresdefault.jpg
 publishDate: 2019-10-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/239-Abigail-Page-Cooperative-Breeding--Social-Networks--And-Health-In-The-Agta-e4tlo1
+tags:
+- Anthropology
 title: '#239 Abigail Page: Cooperative Breeding, Social Networks, And Health In The
   Agta'
 youtubeid: 3X_lU6cyLmA

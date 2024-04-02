@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7249439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29808773-44100-2-8d691566511.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at\
   \ Trinity College Dublin. He is interested in the development of connectivity in\
@@ -14,6 +13,10 @@ excerpt: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience
 id: '274'
 image: https://i.ytimg.com/vi/VBc9Ava4Dgg/maxresdefault.jpg
 publishDate: 2019-12-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/274-Kevin-Mitchell-Innate--How-the-Wiring-of-Our-Brains-Shapes-Who-We-Are-e7ro2v
+tags:
+- Neuroscience
+- Psychology
 title: '#274 Kevin Mitchell - Innate: How the Wiring of Our Brains Shapes Who We Are'
 youtubeid: VBc9Ava4Dgg
 ---

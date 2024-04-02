@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721133/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877887-44100-2-d829993777749.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian University
   of Munich and at King's College London. He has written articles, monographs and
@@ -13,6 +12,9 @@ excerpt: Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian U
 id: '215'
 image: https://i.ytimg.com/vi/KFWWSB4u8zs/maxresdefault.jpg
 publishDate: 2019-08-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/215-Peter-Adamson-The-Origins-of-Philosophy--And-The-Pre-Socratics-e4g2fd
+tags:
+- Philosophy
 title: '#215 Peter Adamson: The Origins of Philosophy, and the Pre-Socratics'
 youtubeid: KFWWSB4u8zs
 ---

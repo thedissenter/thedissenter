@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72128123/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-14%2F17c12e0e-92a8-eb6a-0fd2-0fd7d5f87ee3.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Joshua Knobe is Professor of Philosophy, Linguistics and Psychology\
   \ at Yale University. A lot of his recent research has been concerned with the impact\
@@ -9,7 +8,12 @@ excerpt: "Dr. Joshua Knobe is Professor of Philosophy, Linguistics and Psycholog
   \ causation, etc.)."
 id: '902'
 image: https://i.ytimg.com/vi/5OwECjl8Bs8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/902-joshua-knobe-how-morality-influences-peoples-philosophical/id1451347236?i=1000645908069&uo=4
 publishDate: 2024-02-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/902-Joshua-Knobe-How-Morality-Influences-Peoples-Philosophical-and-Scientific-Intuitions-e25nm5r
+tags:
+- Cognitive Science
+- Philosophy
 title: '#902 Joshua Knobe: How Morality Influences People''s Philosophical and Scientific
   Intuitions'
 youtubeid: 5OwECjl8Bs8

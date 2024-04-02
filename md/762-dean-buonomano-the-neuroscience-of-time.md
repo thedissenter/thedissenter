@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62082750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-12%2Fdde80354-8047-4423-8834-59c1b3bab1dd.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Dean Buonomano is Professor of Neurobiology and Psychology at the University
   of California, Los Angeles. His research goal is to understand how neurons develop
@@ -9,7 +8,11 @@ excerpt: 'Dr. Dean Buonomano is Professor of Neurobiology and Psychology at the 
   is a Time Machine: The Neuroscience and Physics of Time.'
 id: '762'
 image: https://i.ytimg.com/vi/6Vbvz8i8P7M/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/762-dean-buonomano-the-neuroscience-of-time/id1451347236?i=1000606640447&uo=4
 publishDate: 2023-03-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/762-Dean-Buonomano-The-Neuroscience-of-Time-e1s547u
+tags:
+- Neuroscience
 title: '#762 Dean Buonomano: The Neuroscience of Time'
 youtubeid: 6Vbvz8i8P7M
 ---

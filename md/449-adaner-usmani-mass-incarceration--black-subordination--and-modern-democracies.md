@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25226744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F0ec92641-9a1d-0338-e19d-724a16781e91.m4a
-category: Sociology
 draft: false
 excerpt: 'Dr. Adaner Usmani is Assistant Professor of Sociology and Social Studies
   at Harvard University. His research is driven by two questions: Why do some people
@@ -12,6 +11,9 @@ excerpt: 'Dr. Adaner Usmani is Assistant Professor of Sociology and Social Studi
 id: '449'
 image: https://i.ytimg.com/vi/UJL8q9JF-OU/maxresdefault.jpg
 publishDate: 2021-03-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/449-Adaner-Usmani-Mass-Incarceration--Black-Subordination--and-Modern-Democracies-ep0c1o
+tags:
+- Sociology
 title: '#449 Adaner Usmani: Mass Incarceration, Black Subordination, and Modern Democracies'
 youtubeid: UJL8q9JF-OU
 ---

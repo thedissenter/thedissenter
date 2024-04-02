@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3852286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715805-44100-2-2783773ab16ea.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Peter DeScioli is Assistant Professor in the Department of Political
   Science at Stony Brook University. His research investigates how the human mind
@@ -16,6 +15,9 @@ excerpt: Dr. Peter DeScioli is Assistant Professor in the Department of Politica
 id: '221'
 image: https://i.ytimg.com/vi/z4RrlcuDpTc/maxresdefault.jpg
 publishDate: 2019-08-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/221-Peter-Descioli-The-Evolution-of-Morality--Moral-Judgment--And-Common-Knowledge-e4k2hu
+tags:
+- Psychology
 title: '#221 Peter DeScioli: The Evolution of Morality, Moral Judgment, and Common
   Knowledge'
 youtubeid: z4RrlcuDpTc

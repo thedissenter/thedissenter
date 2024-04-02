@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734875-48000-2-16cd6c5f6495e.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift\
   \ Distinguished Service Professor of Human Development at the University of Chicago,\
@@ -16,6 +15,9 @@ excerpt: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swi
 id: '108'
 image: https://i.ytimg.com/vi/o-HRrzg6sM0/maxresdefault.jpg
 publishDate: 2018-12-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/108-Richard-Shweder-Morality--Haidts-Moral-Foundations--and-Multiculturalism-e2rses
+tags:
+- Psychology
 title: '#108 Richard Shweder: Morality, Haidt''s Moral Foundations, and Multiculturalism'
 youtubeid: o-HRrzg6sM0
 ---

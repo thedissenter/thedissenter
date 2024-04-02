@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64668343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F2e9a8a14-916c-dbf6-4ddb-458b9f95545a.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton University.\
   \ His research focuses on the biosocial, delving into the entanglement of biological\
@@ -13,7 +12,11 @@ excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton Unive
   \ about Human Nature, and Why We Believe: Evolution and the Human Way of Being."
 id: '785'
 image: https://i.ytimg.com/vi/-WBf8O3--qg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/785-agust%C3%ADn-fuentes-the-origins-of-patriarchy/id1451347236?i=1000614034558&uo=4
 publishDate: 2023-05-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/785-Agustn-Fuentes-The-Origins-of-Patriarchy-e1uk17n
+tags:
+- Anthropology
 title: "#785 Agust\xEDn Fuentes: The Origins of Patriarchy"
 youtubeid: -WBf8O3--qg
 ---

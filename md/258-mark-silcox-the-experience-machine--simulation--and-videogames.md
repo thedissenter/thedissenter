@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4743614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382446-44100-2-f0fa646f2d22c.m4a
-category: Philosophy
 draft: false
 excerpt: ''
 id: '258'
 image: https://i.ytimg.com/vi/AWP4mHAx9UA/maxresdefault.jpg
 publishDate: 2019-11-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/258-Mark-Silcox-The-Experience-Machine--Simulation--And-Videogames-e5f8vu
+tags:
+- Philosophy
 title: '#258 Mark Silcox: The Experience Machine, Simulation, and Videogames'
 youtubeid: AWP4mHAx9UA
 ---

@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '26'
 image: https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg
 publishDate: 2018-05-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/26-Claire-Lehmann-Quillette--Leadership-in-the-Feminine--Ethical-Journalism-e2r97r
 title: '#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism'
 youtubeid: nDRiIm0SBL8
 ---

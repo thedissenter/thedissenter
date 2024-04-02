@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36587289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F88b61354-9fbf-1210-90b0-fdea10e15984.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor of\
   \ Philosophy at Duke University. He has been a visiting professor and fellow at\
@@ -18,6 +17,9 @@ excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor 
 id: '533'
 image: https://i.ytimg.com/vi/LwpizkJstkw/maxresdefault.jpg
 publishDate: 2021-10-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/533-Alexander-Rosenberg-Scientism--Nihilism--and-Atheism-e13r2ap
+tags:
+- Philosophy
 title: '#533 Alexander Rosenberg: Scientism, Nihilism, and Atheism'
 youtubeid: LwpizkJstkw
 ---

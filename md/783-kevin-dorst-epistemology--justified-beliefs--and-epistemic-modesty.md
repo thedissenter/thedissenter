@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60861007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-18%2F4072a3d1-28b2-8126-6368-bbd8a6d34c8f.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguistics\
   \ and Philosophy at MIT. He works on epistemology, logic, language, and their intersections.\
@@ -14,7 +13,11 @@ excerpt: "Dr. Kevin Dorst is an Assistant Professor in the Department of Linguis
   \ inform our understanding of our non-ideal selves."
 id: '783'
 image: https://i.ytimg.com/vi/yG4MGzq5zzc/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/783-kevin-dorst-epistemology-justified-beliefs-and/id1451347236?i=1000613571897&uo=4
 publishDate: 2023-05-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/783-Kevin-Dorst-Epistemology--Justified-Beliefs--and-Epistemic-Modesty-e1qvr4f
+tags:
+- Philosophy
 title: '#783 Kevin Dorst: Epistemology, Justified Beliefs, and Epistemic Modesty'
 youtubeid: yG4MGzq5zzc
 ---

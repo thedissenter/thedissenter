@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12287695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63609245-44100-2-0faee71f45f8c.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Don Moore is the Lorraine Tyson Mitchell Professor of Communication\
   \ and Leadership at the Haas School of Business, and a member of the Management\
@@ -14,6 +13,10 @@ excerpt: "Dr. Don Moore is the Lorraine Tyson Mitchell Professor of Communicatio
 id: '338'
 image: https://i.ytimg.com/vi/Ctw1DdPzLnk/maxresdefault.jpg
 publishDate: 2020-05-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/338-Don-Moore---Perfectly-Confident-How-To-Calibrate-Your-Decisions-Wisely-eclg8f
+tags:
+- Cognitive Science
+- Psychology
 title: '#338 Don Moore - Perfectly Confident: How To Calibrate Your Decisions Wisely'
 youtubeid: Ctw1DdPzLnk
 ---

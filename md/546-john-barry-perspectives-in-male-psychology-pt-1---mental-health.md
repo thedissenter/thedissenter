@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42760166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-3%2F50924ad3-4a35-89b2-a605-15450978d769.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. John Barry is a Chartered Psychologist and Associate Fellow of the British
   Psychological Society (BPS), Honorary Lecturer in Psychology at University College
@@ -12,6 +11,9 @@ excerpt: 'Dr. John Barry is a Chartered Psychologist and Associate Fellow of the
 id: '546'
 image: https://i.ytimg.com/vi/TR80d2N1E6c/maxresdefault.jpg
 publishDate: 2021-11-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/546-John-Barry-Perspectives-in-Male-Psychology-Pt-1---Mental-Health-e19neh6
+tags:
+- Psychology
 title: '#546 John Barry: Perspectives in Male Psychology (Pt.1) - Mental Health'
 youtubeid: TR80d2N1E6c
 ---

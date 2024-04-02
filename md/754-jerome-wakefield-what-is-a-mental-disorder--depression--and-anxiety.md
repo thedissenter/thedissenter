@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61465426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-30%2Ff5726f4d-02b5-7828-7cbd-6c9f4c9eab28.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU University\
   \ Professor with multidisciplinary appointments, particularly affiliate faculty\
@@ -14,7 +13,11 @@ excerpt: "Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU Un
   s Transformation of Natural Anxieties into Mental Disorders."
 id: '754'
 image: https://i.ytimg.com/vi/aUpj374i-og/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/754-jerome-wakefield-what-is-a-mental-disorder/id1451347236?i=1000603639956&uo=4
 publishDate: 2023-03-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/754-Jerome-Wakefield-What-is-a-Mental-Disorder--Depression--and-Anxiety-e1ri9ci
+tags:
+- Psychology
 title: '#754 Jerome Wakefield: What is a Mental Disorder?; Depression, and Anxiety'
 youtubeid: aUpj374i-og
 ---

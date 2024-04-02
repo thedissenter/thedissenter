@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47114242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Ff7e107aa-bc9c-195c-d823-4993819d89c9.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study at
   the University of Amsterdam, an Interdisciplinary Research Specialist at Strategic
@@ -13,6 +12,10 @@ excerpt: 'Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study
 id: '639'
 image: https://i.ytimg.com/vi/0TalDukieSA/maxresdefault.jpg
 publishDate: 2022-06-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/639-Leonid-Tiokhin-Producing-Scientific-Knowledge--and-Improving-the-Social-Sciences-e1dsai2
+tags:
+- General Science
+- Psychology
 title: '#639 Leo Tiokhin: Producing Scientific Knowledge, and Improving the Social
   Sciences'
 youtubeid: 0TalDukieSA

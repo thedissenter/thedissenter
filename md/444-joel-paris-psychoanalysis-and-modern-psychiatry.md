@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24457037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-27%2F3297dcd6-9bc7-f0bb-cbfc-dab54ca6f66e.m4a
-category: Medicine
 draft: false
 excerpt: "Dr. Joel Paris is Professor and Chair of the Department of Psychiatry at\
   \ McGill University, and Research Associate in the Department of Psychiatry at Sir\
@@ -12,6 +11,10 @@ excerpt: "Dr. Joel Paris is Professor and Chair of the Department of Psychiatry 
 id: '444'
 image: https://i.ytimg.com/vi/qjhZi01sMMI/maxresdefault.jpg
 publishDate: 2021-03-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/444-Joel-Paris-Psychoanalysis-and-Modern-Psychiatry-eo8scd
+tags:
+- Medicine
+- Psychology
 title: '#444 Joel Paris: Psychoanalysis and Modern Psychiatry'
 youtubeid: qjhZi01sMMI
 ---

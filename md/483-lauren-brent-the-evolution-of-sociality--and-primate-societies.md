@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/28580262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-10%2Faf69552d-9f89-05bc-c91a-e4114163efb1.m4a
-category: Biology
 draft: false
 excerpt: Dr. Lauren Brent is Associate Professor in the Centre for Research in Animal
   Behaviour at the University of Exeter. She is a biologist interested in the evolution
@@ -14,6 +13,9 @@ excerpt: Dr. Lauren Brent is Associate Professor in the Centre for Research in A
 id: '483'
 image: https://i.ytimg.com/vi/8cKeZhX-GFs/maxresdefault.jpg
 publishDate: 2021-06-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/483-Lauren-Brent-The-Evolution-of-Sociality--and-Primate-Societies-es6mv6
+tags:
+- Biology
 title: '#483 Lauren Brent: The Evolution of Sociality, and Primate Societies'
 youtubeid: 8cKeZhX-GFs
 ---

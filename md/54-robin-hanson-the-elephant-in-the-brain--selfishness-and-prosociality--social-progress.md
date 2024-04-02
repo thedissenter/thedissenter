@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7648429-44100-2-356c336e4e5a4.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Robin Hanson is an Associate Professor of Economics at George Mason\
   \ University and a research associate at the Future of Humanity Institute of Oxford\
@@ -9,6 +8,9 @@ excerpt: "Dr. Robin Hanson is an Associate Professor of Economics at George Maso
 id: '54'
 image: https://i.ytimg.com/vi/ySExrgejEDE/maxresdefault.jpg
 publishDate: 2018-08-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/54-Robin-Hanson-The-Elephant-in-the-Brain--Selfishness-and-Prosociality--Social-Progress-e2retc
+tags:
+- Psychology
 title: '#54 Robin Hanson: The Elephant in the Brain, Selfishness and Prosociality,
   Social Progress'
 youtubeid: ySExrgejEDE

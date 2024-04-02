@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55339233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F19078d73-ccd1-fcee-8b5b-096dc5c1e3cd.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Patrick Savage is Associate Professor in the Faculty of Environment
   and Information Studies at Keio SFC, where he directs the CompMusic Lab for comparative
@@ -12,6 +11,11 @@ excerpt: 'Dr. Patrick Savage is Associate Professor in the Faculty of Environmen
 id: '694'
 image: https://i.ytimg.com/vi/hN6M8zinWhY/maxresdefault.jpg
 publishDate: 2022-10-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/694-Patrick-Savage-Musicology--the-Evolution-of-Music--and-Cross-Cultural-Studies-e1lnap1
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#694 Patrick Savage: Musicology, the Evolution of Music, and Cross-Cultural
   Studies'
 youtubeid: hN6M8zinWhY

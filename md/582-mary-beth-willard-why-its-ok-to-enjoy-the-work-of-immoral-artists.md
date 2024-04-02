@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41792787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2F6d083bd4-c6f9-4002-0ab6-4a20cc850ea4.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber State\
   \ University. She received her Ph.D. from Yale University and writes primarily in\
@@ -9,6 +8,9 @@ excerpt: "Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber
 id: '582'
 image: https://i.ytimg.com/vi/QpMIR45wZHs/maxresdefault.jpg
 publishDate: 2022-02-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/582-Mary-Beth-Willard-Why-Its-OK-to-Enjoy-the-Work-of-Immoral-Artists-e18ptqj
+tags:
+- Philosophy
 title: "#582 Mary Beth Willard: Why It\u2019s OK to Enjoy the Work of Immoral Artists"
 youtubeid: QpMIR45wZHs
 ---

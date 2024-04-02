@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '27'
 image: https://i.ytimg.com/vi/Ix9unxtU7FY/maxresdefault.jpg
 publishDate: 2018-05-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/27-Virtutis-Discipulus-Evolution-of-Language--Spelling-Agreements--Virtue-e2r981
 title: '#27 Virtutis Discipulus: Evolution of Language, Spelling Agreements, Virtue'
 youtubeid: Ix9unxtU7FY
 ---

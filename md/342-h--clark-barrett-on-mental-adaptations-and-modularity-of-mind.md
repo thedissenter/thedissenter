@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/13161985/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69292176-44100-2-96aaa34e0e853.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, and\
   \ the Director of the Center for Behavior, Evolution and Culture at UCLA. He is\
@@ -19,6 +18,11 @@ excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, a
 id: '342'
 image: https://i.ytimg.com/vi/_jGJfPDQXlo/maxresdefault.jpg
 publishDate: 2020-06-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/342-H--Clark-Barrett-On-Mental-Adaptations-And-Modularity-Of-Mind-edg621
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#342 H. Clark Barrett: On Mental Adaptations And Modularity Of Mind'
 youtubeid: _jGJfPDQXlo
 ---

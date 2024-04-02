@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38006695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F9efca694-2861-1afc-59ba-eb20015b337a.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Orestis Palermos is Lecturer in the School of English, Communication
   and Philosophy at Cardiff University. He works at the intersection of philosophy
@@ -10,6 +9,9 @@ excerpt: 'Dr. Orestis Palermos is Lecturer in the School of English, Communicati
 id: '543'
 image: https://i.ytimg.com/vi/1xool2IrIxY/maxresdefault.jpg
 publishDate: 2021-11-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/543-Orestis-Palermos-Epistemology--Technology--Extended-Cognition--and-Philosophical-Engineering-e156cf7
+tags:
+- Philosophy
 title: '#543 Orestis Palermos: Epistemology, Technology, Extended Cognition, and Philosophical
   Engineering'
 youtubeid: 1xool2IrIxY

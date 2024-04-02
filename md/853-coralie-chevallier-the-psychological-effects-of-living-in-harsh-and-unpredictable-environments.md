@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72561684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F33c5cbeb-b6e9-6db2-c2e3-be90484497ed.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Coralie Chevallier is a Researcher in the evolution and social cognition\
   \ group, at the Cognitive Science Department of the \xC9cole Normale Superieure\
@@ -9,7 +8,11 @@ excerpt: "Dr. Coralie Chevallier is a Researcher in the evolution and social cog
   \ factors affect people\u2019s social behaviors."
 id: '853'
 image: https://i.ytimg.com/vi/dzbIkj9tkKg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/853-coralie-chevallier-the-psychological-effects/id1451347236?i=1000632867643&uo=4
 publishDate: 2023-10-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/853-Coralie-Chevallier-The-Psychological-Effects-of-Living-in-Harsh-and-Unpredictable-Environments-e264tik
+tags:
+- Psychology
 title: '#853 Coralie Chevallier: The Psychological Effects of Living in Harsh and
   Unpredictable Environments'
 youtubeid: dzbIkj9tkKg

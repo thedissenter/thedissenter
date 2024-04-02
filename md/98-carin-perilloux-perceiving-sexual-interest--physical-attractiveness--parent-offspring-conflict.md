@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707306-48000-2-f8a1c3c9bed49.mp3
-category: Psychology
 draft: false
 excerpt: Dr. Carin Perilloux is Assistant Professor of Psychology at Southwestern
   University, US. She uses cognitive science to study social phenomena from an evolutionary
@@ -10,6 +9,9 @@ excerpt: Dr. Carin Perilloux is Assistant Professor of Psychology at Southwester
 id: '98'
 image: https://i.ytimg.com/vi/8DZD0AD6d7M/maxresdefault.jpg
 publishDate: 2018-11-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/98-Carin-Perilloux-Perceiving-Sexual-Interest--Physical-Attractiveness--Parent-Offspring-Conflict-e2rn6p
+tags:
+- Psychology
 title: '#98 Carin Perilloux: Perceiving Sexual Interest, Physical Attractiveness,
   Parent-Offspring Conflict'
 youtubeid: 8DZD0AD6d7M

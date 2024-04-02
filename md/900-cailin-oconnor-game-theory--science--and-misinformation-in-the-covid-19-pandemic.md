@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73567489/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-18%2F6527b2a7-2e72-df66-6ea8-ee0808b97805.m4a
-category: Game Theory
 draft: false
 excerpt: "Dr. Cailin O\u2019Connor is Professor in the Department of Logic and Philosophy\
   \ of Science at UC Irvine. She is a philosopher of biology and behavioral sciences,\
@@ -9,7 +8,13 @@ excerpt: "Dr. Cailin O\u2019Connor is Professor in the Department of Logic and P
   \ author of Games in the Philosophy of Biology, and The Misinformation Age."
 id: '900'
 image: https://i.ytimg.com/vi/pKrNDb67ogQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/900-cailin-oconnor-game-theory-science-and/id1451347236?i=1000645494763&uo=4
 publishDate: 2024-02-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/900-Cailin-OConnor-Game-Theory--Science--and-Misinformation-in-the-COVID-19-Pandemic-e273jq1
+tags:
+- Game Theory
+- Cognitive Science
+- Philosophy
 title: '#900 Cailin O''Connor: Game Theory, Science, and Misinformation in the COVID-19
   Pandemic'
 youtubeid: pKrNDb67ogQ

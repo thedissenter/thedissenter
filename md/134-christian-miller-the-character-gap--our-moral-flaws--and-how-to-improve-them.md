@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778528-44100-2-562f5fef51ad8.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
   \ Forest University. His research is primarily in contemporary ethics and philosophy\
@@ -13,6 +12,9 @@ excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at W
 id: '134'
 image: https://i.ytimg.com/vi/k_Cr4J7fAbY/maxresdefault.jpg
 publishDate: 2019-02-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/134-Christian-Miller-The-Character-Gap--Our-Moral-Flaws--and-How-to-Improve-Them-e2s259
+tags:
+- Philosophy
 title: '#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Improve
   Them'
 youtubeid: k_Cr4J7fAbY

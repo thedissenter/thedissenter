@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/28008469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2Fe18dc4b8-28a7-d280-dd27-cb8fc1cbf09f.m4a
-category: History
 draft: false
 excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage Institute
   at the University of Minnesota. He worked at IBM for thirty-eight years in sales,
@@ -10,6 +9,11 @@ excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage 
 id: '479'
 image: https://i.ytimg.com/vi/l2VQRnsW2XY/maxresdefault.jpg
 publishDate: 2021-06-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/479-James-Cortada---Fake-News-Nation-The-Long-History-of-Lies-and-Misinterpretations-in-America-erl8il
+tags:
+- Politics
+- History
+- Sociology
 title: '#479 James Cortada - Fake News Nation: The Long History of Lies and Misinterpretations
   in America'
 youtubeid: l2VQRnsW2XY

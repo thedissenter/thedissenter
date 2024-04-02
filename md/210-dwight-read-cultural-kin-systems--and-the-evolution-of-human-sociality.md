@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3575703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-5-15%2F17013675-44100-2-bb15e13981574.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Dwight Read is Distinguished Professor Emeritus of Anthropology at UCLA\
   \ (University of California, Los Angeles). His research interests include mathematical\
@@ -13,6 +12,9 @@ excerpt: "Dr. Dwight Read is Distinguished Professor Emeritus of Anthropology at
 id: '210'
 image: https://i.ytimg.com/vi/M2et8hKeUkE/maxresdefault.jpg
 publishDate: 2019-08-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/210-Dwight-Read-Cultural-Kin-Systems--And-The-Evolution-of-Human-Sociality-e4bken
+tags:
+- Anthropology
 title: '#210 Dwight Read: Cultural Kin Systems, And The Evolution Of Human Sociality'
 youtubeid: M2et8hKeUkE
 ---

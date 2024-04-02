@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78298287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-7%2Faae8218f-d637-73db-103d-bbdf6edfe97c.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Isabella Sarto-Jackson is Lecturer in Cognitive Science at the University
   of Vienna, Guest Lecturer in Cognitive Biology at the University of Bratislava,
@@ -9,7 +8,12 @@ excerpt: 'Dr. Isabella Sarto-Jackson is Lecturer in Cognitive Science at the Uni
   of The Making and Breaking of Minds: How social interactions shape the human mind.'
 id: '919'
 image: https://i.ytimg.com/vi/i6j6AYihE4I/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/919-isabella-sarto-jackson-how-social-interactions/id1451347236?i=1000650406731&uo=4
 publishDate: 2024-03-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/919-Isabella-Sarto-Jackson-How-Social-Interactions-Shape-the-Human-Mind-e2bjvnf
+tags:
+- Cognitive Science
+- Psychology
 title: '#919 Isabella Sarto-Jackson: How Social Interactions Shape the Human Mind'
 youtubeid: i6j6AYihE4I
 ---

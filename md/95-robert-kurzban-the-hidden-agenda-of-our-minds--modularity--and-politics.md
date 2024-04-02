@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707186-44100-2-3c2b1d95e3c5e.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Robert Kurzban is a former Professor of Psychology at the University\
   \ of Pennsylvania. His research focuses on the nature of evolved cognitive adaptations\
@@ -11,6 +10,9 @@ excerpt: "Dr. Robert Kurzban is a former Professor of Psychology at the Universi
 id: '95'
 image: https://i.ytimg.com/vi/lCrzBJaqkbw/maxresdefault.jpg
 publishDate: 2018-11-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/95-Robert-Kurzban-The-Hidden-Agenda-of-Our-Minds--Modularity--and-Politics-e2rn5d
+tags:
+- Psychology
 title: '#95 Robert Kurzban: The Hidden Agenda of Our Minds, Modularity, and Politics'
 youtubeid: lCrzBJaqkbw
 ---

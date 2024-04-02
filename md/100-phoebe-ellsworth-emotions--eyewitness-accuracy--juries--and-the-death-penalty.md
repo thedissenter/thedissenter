@@ -1,12 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707411-48000-2-86520c7803718.mp3
-category: Psychology
 draft: false
 excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. SORRY ABOUT THAT, BUT I HAD SOME SORT OF\
   \ TECHNICAL ISSUE, AND I COULDN\u2019T RECORD VIDEO. "
 id: '100'
 image: https://i.ytimg.com/vi/r9-jTAKtR3w/maxresdefault.jpg
 publishDate: 2018-11-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/100-Phoebe-Ellsworth-Emotions--Eyewitness-Accuracy--Juries--and-the-Death-Penalty-e2rn7g
+tags:
+- Psychology
 title: '#100 Phoebe Ellsworth: Emotions, Eyewitness Accuracy, Juries, and the Death
   Penalty'
 youtubeid: r9-jTAKtR3w

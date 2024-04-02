@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19165800-44100-2-be8201403a668.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Michele Gelfand is a Distinguished University Professor at the University
   of Maryland, College Park. She uses field, experimental, computational, and neuroscience
@@ -13,6 +12,9 @@ excerpt: 'Dr. Michele Gelfand is a Distinguished University Professor at the Uni
 id: '224'
 image: https://i.ytimg.com/vi/oLC3KhYDsLg/maxresdefault.jpg
 publishDate: 2019-09-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/224-Michele-Gelfand-Rule-Makers--Rule-Breakers-Tight-and-Loose-Cultures-e4mbtf
+tags:
+- Psychology
 title: '#224 Michele Gelfand: Rule Makers, Rule Breakers; Tight And Loose Cultures'
 youtubeid: oLC3KhYDsLg
 ---

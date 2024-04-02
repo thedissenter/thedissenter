@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74120542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-1%2Fbb81e878-0d81-d449-746c-8c12eabfbacf.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Alexandra Plakias is Associate Professor of Philosophy at Hamilton College.
   Her research focuses on issues in moral psychology, such as the role of evolution
@@ -9,7 +8,11 @@ excerpt: 'Dr. Alexandra Plakias is Associate Professor of Philosophy at Hamilton
   of Thinking Through Food: A Philosophical Introduction.'
 id: '869'
 image: https://i.ytimg.com/vi/vgJEY6eXZQ8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/869-alexandra-plakias-thinking-through-food-metaphysics/id1451347236?i=1000637466711&uo=4
 publishDate: 2023-12-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/869-Alexandra-Plakias---Thinking-Through-Food-Metaphysics--Epistemology--Aesthetics--and-Ethics-e27kfsu
+tags:
+- Philosophy
 title: '#869 Alexandra Plakias - Thinking Through Food; Metaphysics, Epistemology,
   Aesthetics, and Ethics'
 youtubeid: vgJEY6eXZQ8

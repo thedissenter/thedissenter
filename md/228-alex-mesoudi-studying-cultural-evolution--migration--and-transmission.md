@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4000318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666278-44100-2-b767baacff95c.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at the\
   \ Human Behaviour and Cultural Evolution Group at the University of Exeter\u2019\
@@ -10,6 +9,9 @@ excerpt: "Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at th
 id: '228'
 image: https://i.ytimg.com/vi/YhxskkTGuss/maxresdefault.jpg
 publishDate: 2019-09-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/228-Alex-Mesoudi-Studying-Cultural-Evolution--Migration-And-Transmission-e4oj3u
+tags:
+- Anthropology
 title: '#228 Alex Mesoudi: Studying Cultural Evolution, Migration, And Transmission'
 youtubeid: YhxskkTGuss
 ---

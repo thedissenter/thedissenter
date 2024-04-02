@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreo
 id: '3'
 image: https://i.ytimg.com/vi/6gJ_Y3eFaNc/maxresdefault.jpg
 publishDate: 2018-02-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/3-Louise-Mazanti-Alienation-in-the-Modern-World--Alienao-no-Mundo-Moderno-e2r40a
 title: "#3 Louise Mazanti: Alienation in the Modern World | Aliena\xE7\xE3o no Mundo\
   \ Moderno"
 youtubeid: 6gJ_Y3eFaNc

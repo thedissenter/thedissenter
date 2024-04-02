@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59725677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-28%2F316f5f40-ecdd-6c4c-449e-5e2b7af3514e.m4a
-category: General Science
 draft: false
 excerpt: "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard University.\
   \ Dr. Knoll\u2019s research focuses on the early evolution of life, Earth\u2019\
@@ -16,7 +15,12 @@ excerpt: "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard
   \ the author of A Brief History of Earth: Four Billion Years in Eight Chapters."
 id: '733'
 image: https://i.ytimg.com/vi/LUuxfDsGs0c/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/733-andrew-knoll-a-brief-history-of-earth-four/id1451347236?i=1000595795602&uo=4
 publishDate: 2023-01-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/733-Andrew-Knoll---A-Brief-History-of-Earth-Four-Billion-Years-in-Eight-Chapters-e1pt6dd
+tags:
+- Biology
+- General Science
 title: '#733 Andrew Knoll - A Brief History of Earth: Four Billion Years in Eight
   Chapters'
 youtubeid: LUuxfDsGs0c

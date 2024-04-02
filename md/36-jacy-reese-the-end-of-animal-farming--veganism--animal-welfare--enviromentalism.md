@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '36'
 image: https://i.ytimg.com/vi/JCWMXH09rSc/maxresdefault.jpg
 publishDate: 2018-06-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/36-Jacy-Reese-The-End-of-Animal-Farming--Veganism--Animal-Welfare--Enviromentalism-e2r9na
 title: '#36 Jacy Reese: The End of Animal Farming, Veganism, Animal Welfare, Enviromentalism'
 youtubeid: JCWMXH09rSc
 ---

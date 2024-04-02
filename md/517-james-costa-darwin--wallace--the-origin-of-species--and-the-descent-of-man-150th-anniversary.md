@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/34414871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Fc908075f-8fc2-8517-b755-2e4795b27ca7.m4a
-category: Biology
 draft: false
 excerpt: "Dr. James Costa is Executive Director of the Highlands Biological Station\
   \ and Professor of Evolutionary Biology at Western Carolina University, where he\
@@ -16,6 +15,11 @@ excerpt: "Dr. James Costa is Executive Director of the Highlands Biological Stat
 id: '517'
 image: https://i.ytimg.com/vi/ct4KCl58bak/maxresdefault.jpg
 publishDate: 2021-09-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/517-James-Costa-Darwin--Wallace--The-Origin-of-Species--and-The-Descent-of-Man-150th-anniversary-e11ooqn
+tags:
+- Biology
+- Anthropology
+- Philosophy
 title: '#517 James Costa: Darwin, Wallace, The Origin of Species, and The Descent
   of Man (150th anniversary)'
 youtubeid: ct4KCl58bak

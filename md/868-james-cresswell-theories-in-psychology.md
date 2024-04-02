@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73977362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-28%2F70be136b-a5af-8176-7115-9f1105b7c48a.m4a
-category: Psychology
 draft: false
 excerpt: Dr. James Cresswell is Professor of Psychology at Ambrose University, Adjunct
   Professor at the University of Calgary, Research Associate at the Canadian Poverty
@@ -13,7 +12,11 @@ excerpt: Dr. James Cresswell is Professor of Psychology at Ambrose University, A
   literary theory.
 id: '868'
 image: https://i.ytimg.com/vi/z8u5s9dJ9vo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/868-james-cresswell-theories-in-psychology/id1451347236?i=1000637218496&uo=4
 publishDate: 2023-12-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/868-James-Cresswell-Theories-in-Psychology-e27g42i
+tags:
+- Psychology
 title: '#868 James Cresswell: Theories in Psychology'
 youtubeid: z8u5s9dJ9vo
 ---

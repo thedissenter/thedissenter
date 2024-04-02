@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/67526446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-29%2Fad4e1b50-e291-58ec-f492-f5334cb30d60.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. In\xEAs Hip\xF3lito is a Lecturer at the Berlin School of Mind and Brain\
   \ at Humboldt-Universit\xE4t zu Berlin, where she investigates the reciprocal relationship\
@@ -16,7 +15,13 @@ excerpt: "Dr. In\xEAs Hip\xF3lito is a Lecturer at the Berlin School of Mind and
   \ of Philosophy."
 id: '770'
 image: https://i.ytimg.com/vi/04yvn-B7vRg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/770-in%C3%AAs-hip%C3%B3lito-enactive-cognition-culture-artificial/id1451347236?i=1000609360412&uo=4
 publishDate: 2023-04-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/770-Ins-Hiplito-Enactive-Cognition--Culture--Artificial-Intelligence--and-Diversity-in-Science-e21b8be
+tags:
+- Cognitive Science
+- Neuroscience
+- Philosophy
 title: "#770 In\xEAs Hip\xF3lito: Enactive Cognition, Culture, Artificial Intelligence,\
   \ and Diversity in Science"
 youtubeid: 04yvn-B7vRg

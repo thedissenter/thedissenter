@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54073035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-27%2Fed478881-57e7-59d3-9155-81f5d311e5e2.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Hector Qirko is Professor of Anthropology at the College of Charleston.
   His research interests include applied anthropology, organizational and institutional
@@ -8,6 +7,9 @@ excerpt: Dr. Hector Qirko is Professor of Anthropology at the College of Charles
 id: '676'
 image: https://i.ytimg.com/vi/bRrSXNirP0U/maxresdefault.jpg
 publishDate: 2022-09-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/676-Hector-Qirko-Human-Cooperation--Altruism--Kinship--and-Institutions-e1kgm8b
+tags:
+- Anthropology
 title: '#676 Hector Qirko: Human Cooperation, Altruism, Kinship, and Institutions'
 youtubeid: bRrSXNirP0U
 ---

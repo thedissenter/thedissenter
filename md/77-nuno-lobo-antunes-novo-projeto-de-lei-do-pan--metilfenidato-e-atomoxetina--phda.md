@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001706/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682424-48000-2-d4f4e15b7b744.mp3
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: '------------------Apoiem o canal-------------------  '
 id: '77'
 image: https://i.ytimg.com/vi/uL8Xt8Tmvos/maxresdefault.jpg
 publishDate: 2018-09-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/77-Nuno-Lobo-Antunes-Novo-Projeto-de-Lei-do-PAN--Metilfenidato-e-Atomoxetina--PHDA-e2rjba
+tags:
+- "Entrevistas em Portugu\xEAs"
 title: '#77 Nuno Lobo Antunes: Novo Projeto de Lei do PAN, Metilfenidato e Atomoxetina,
   PHDA'
 youtubeid: uL8Xt8Tmvos

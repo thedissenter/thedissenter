@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927444/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19165956-44100-2-6ad3784729688.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology at\
   \ the University of Montreal, Canada. He is an evolutionary social psychologist\
@@ -15,6 +14,9 @@ excerpt: "Dr. Daniel Sznycer is Assistant Professor in Department of Psychology 
 id: '225'
 image: https://i.ytimg.com/vi/cEDkQX-8Brk/maxresdefault.jpg
 publishDate: 2019-09-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/225-Daniel-Sznycer-The-Evolutionary-Psychology-of-Emotions-e4mbuk
+tags:
+- Psychology
 title: '#225 Daniel Sznycer: The Evolutionary Psychology of Emotions'
 youtubeid: cEDkQX-8Brk
 ---

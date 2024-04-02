@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39722359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-2%2F532c9223-4f55-509d-4ed7-ee1208041d59.m4a
-category: Sociology
 draft: false
 excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia\
   \ University. He\u2019s a theoretical sociologist who seeks to develop general explanations\
@@ -14,6 +13,9 @@ excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virgi
 id: '562'
 image: https://i.ytimg.com/vi/qF1ciw3yl_M/maxresdefault.jpg
 publishDate: 2021-12-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/562-Jason-Manning---Suicide-The-Social-Causes-of-Self-Destruction-e16qntn
+tags:
+- Sociology
 title: '#562 Jason Manning - Suicide: The Social Causes of Self-Destruction'
 youtubeid: qF1ciw3yl_M
 ---

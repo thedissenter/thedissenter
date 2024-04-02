@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43607208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2F14900715-5713-eca2-7825-977ee7f38be3.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Susan Fiske is Eugene Higgins Professor of Psychology and Public Affairs
   at Princeton University. Dr. Fiske''s research addresses how stereotyping, prejudice,
@@ -9,6 +8,9 @@ excerpt: 'Dr. Susan Fiske is Eugene Higgins Professor of Psychology and Public A
 id: '595'
 image: https://i.ytimg.com/vi/ZpCxWDSrsDU/maxresdefault.jpg
 publishDate: 2022-03-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/595-Susan-Fiske-Social-Categorization--Stereotypes--Prejudice--and-Discrimination-e1ah9n8
+tags:
+- Psychology
 title: '#595 Susan Fiske: Social Categorization, Stereotypes, Prejudice, and Discrimination'
 youtubeid: ZpCxWDSrsDU
 ---

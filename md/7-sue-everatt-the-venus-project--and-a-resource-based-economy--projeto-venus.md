@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '7'
 image: https://i.ytimg.com/vi/m6CBqTS2vxU/maxresdefault.jpg
 publishDate: 2018-03-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/7-Sue-Everatt-The-Venus-Project--and-a-Resource-Based-Economy--Projeto-Venus-e2r445
 title: '#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto
   Venus'
 youtubeid: m6CBqTS2vxU

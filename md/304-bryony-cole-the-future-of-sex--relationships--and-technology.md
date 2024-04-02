@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9339833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935667-44100-2-ba63b904bd719.m4a
-category: General Science
 draft: false
 excerpt: "Bryony Cole is the host of sex tech podcast Future of Sex and works as a\
   \ researcher and strategist in future human and technology fields. She is the world\u2019\
@@ -15,6 +14,11 @@ excerpt: "Bryony Cole is the host of sex tech podcast Future of Sex and works as
 id: '304'
 image: https://i.ytimg.com/vi/rYnPqtO9Heg/maxresdefault.jpg
 publishDate: 2020-03-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/304-Bryony-Cole-The-Future-of-Sex--Relationships--and-Technology-e9rhfp
+tags:
+- General Science
+- Philosophy
+- Psychology
 title: '#304 Bryony Cole: The Future of Sex, Relationships, and Technology'
 youtubeid: rYnPqtO9Heg
 ---

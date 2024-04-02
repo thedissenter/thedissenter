@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681146-44100-2-86c3825f430f.mp3
-category: Psychology
 draft: false
 excerpt: Dr. Lewis Goldberg is an American personality psychologist and a Professor
   Emeritus at the University of Oregon. He is closely associated with the lexical
@@ -11,6 +10,9 @@ excerpt: Dr. Lewis Goldberg is an American personality psychologist and a Profes
 id: '62'
 image: https://i.ytimg.com/vi/TNVpiFbAk-A/maxresdefault.jpg
 publishDate: 2018-08-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/62-Lewis-Goldberg-The-Development-and-Scientific-Relevance-of-the-BIG-FIVE-e2rj3e
+tags:
+- Psychology
 title: '#62 Lewis Goldberg: The Development and Scientific Relevance of the BIG FIVE'
 youtubeid: TNVpiFbAk-A
 ---

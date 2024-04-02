@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42177434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2Fbd039b98-251f-30cd-4ab2-a94fa256589b.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a professor\
   \ in cognitive science and philosophy at the Central European University in Budapest.\
@@ -14,6 +13,11 @@ excerpt: "Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a prof
 id: '556'
 image: https://i.ytimg.com/vi/inCsk5vY3Wk/maxresdefault.jpg
 publishDate: 2021-12-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/556-Dan-Sperber-Culture--Cultural-Attraction-Theory--Epistemic-Vigilance--and-Reason-e195leq
+tags:
+- Anthropology
+- Philosophy
+- Psychology
 title: '#556 Dan Sperber: Culture, Cultural Attraction Theory, Epistemic Vigilance,
   and Reason'
 youtubeid: inCsk5vY3Wk

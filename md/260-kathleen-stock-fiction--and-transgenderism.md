@@ -1,5 +1,4 @@
 ---
-category: Philosophy
 draft: false
 excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sussex.
   She has published on aesthetics, fiction, imagination, and sexual objectification.
@@ -10,6 +9,8 @@ excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sus
 id: '260'
 image: https://i.ytimg.com/vi/kL-cDT5FRk4/maxresdefault.jpg
 publishDate: 2019-11-25
+tags:
+- Philosophy
 title: '#260 Kathleen Stock: Fiction, And Transgenderism'
 youtubeid: kL-cDT5FRk4
 ---

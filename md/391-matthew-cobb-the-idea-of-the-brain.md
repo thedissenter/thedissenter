@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19452137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2Fae46e724-847a-5f5c-5a84-5fccbff244b7.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Matthew Cobb is Professor of Zoology at the University of Manchester,\
   \ where his research focuses on the sense of smell, insect behavior and the history\
@@ -9,6 +8,9 @@ excerpt: "Dr. Matthew Cobb is Professor of Zoology at the University of Manchest
 id: '391'
 image: https://i.ytimg.com/vi/dlfNfI3wfM8/maxresdefault.jpg
 publishDate: 2020-11-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/391-Matthew-Cobb-The-Idea-of-the-Brain-ejg4p9
+tags:
+- Neuroscience
 title: '#391 Matthew Cobb: The Idea of the Brain'
 youtubeid: dlfNfI3wfM8
 ---

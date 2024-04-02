@@ -1,13 +1,17 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62863936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F6eb99a22-0b65-c624-bfc8-10c2eaa41ec2.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Jordi Cam\xED is Professor of Pharmacology (specialist in Clinical Pharmacology)\
   \ at Pompeu Fabra University, General Director of the Barcelona Biomedical Research\
   \ Park (PRBB), and Director of the Pasqual Maragall Foundation.   "
 id: '771'
 image: https://i.ytimg.com/vi/MPIrqgz838A/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/771-jordi-cam%C3%AD-luis-mart%C3%ADnez-the-illusionist-brain/id1451347236?i=1000609983511&uo=4
 publishDate: 2023-04-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/771-Jordi-Cam--Luis-Martnez---The-Illusionist-Brain-The-Neuroscience-of-Magic-e1ssv40
+tags:
+- Cognitive Science
+- Neuroscience
 title: "#771 Jordi Cam\xED & Luis Mart\xEDnez - The Illusionist Brain: The Neuroscience\
   \ of Magic"
 youtubeid: MPIrqgz838A

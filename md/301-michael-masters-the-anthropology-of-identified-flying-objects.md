@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9179454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-21%2F40054427-44100-2-28c132a8af3f5.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research
   centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial
@@ -14,6 +13,9 @@ excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His 
 id: '301'
 image: https://i.ytimg.com/vi/j0r6ig0S3Jc/maxresdefault.jpg
 publishDate: 2020-02-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/301-Michael-Masters-The-Anthropology-Of-Identified-Flying-Objects-e9mkru
+tags:
+- Anthropology
 title: '#301 Michael Masters: The Anthropology Of Identified Flying Objects'
 youtubeid: j0r6ig0S3Jc
 ---

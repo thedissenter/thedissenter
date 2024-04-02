@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39443271/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F1e7a604a-a13c-b948-dffb-e1617eb4577d.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Kim Hill is a professor in the Anthropology department at Arizona State
   University. Dr. Hill's theoretical interests are human evolutionary ecology, including
@@ -15,6 +14,9 @@ excerpt: Dr. Kim Hill is a professor in the Anthropology department at Arizona S
 id: '527'
 image: https://i.ytimg.com/vi/1s7WgXQV5-c/maxresdefault.jpg
 publishDate: 2021-09-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/527-Kim-Hill-Human-Sociality--Human-Universals--and-Protecting-Isolated-Societies-e16i7c7
+tags:
+- Anthropology
 title: '#527 Kim Hill: Human Sociality, Human Universals, and Protecting Isolated
   Societies'
 youtubeid: 1s7WgXQV5-c

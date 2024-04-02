@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2010983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734609-48000-2-2921811c9a67.mp3
-category: Philosophy
 draft: false
 excerpt: "Dr. Michael Ruse is a philosopher of science who specializes in the philosophy\
   \ of biology and works on the relationship between science and religion, the creation\u2013\
@@ -11,6 +10,9 @@ excerpt: "Dr. Michael Ruse is a philosopher of science who specializes in the ph
 id: '104'
 image: https://i.ytimg.com/vi/_pskF_vX3X0/maxresdefault.jpg
 publishDate: 2018-11-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/104-Michael-Ruse-Darwinism--Species--Race--Gene-Editing--and-Religion-e2rsd7
+tags:
+- Philosophy
 title: '#104 Michael Ruse: Darwinism, Species, Race, Gene Editing, and Religion'
 youtubeid: _pskF_vX3X0
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145629-44100-2-2e85e25df833.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Michael Muthukrishna is an Assistant Professor of Economic Psychology\
   \ at the London School of Economics. His other affiliations include Research Associate\
@@ -16,6 +15,9 @@ excerpt: "Dr. Michael Muthukrishna is an Assistant Professor of Economic Psychol
 id: '174'
 image: https://i.ytimg.com/vi/2hlTbcwlC7k/maxresdefault.jpg
 publishDate: 2019-05-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/174-Michael-Muthukrishna-Human-Culture--The-Cultural-Brain--And-Political-Corruption-e3jjt6
+tags:
+- Psychology
 title: '#174 Michael Muthukrishna: Human Culture, The Cultural Brain, And Political
   Corruption'
 youtubeid: 2hlTbcwlC7k

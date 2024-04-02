@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379909-44100-2-e2dd1368f1694.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
   \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\
@@ -16,6 +15,9 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
 id: '155'
 image: https://i.ytimg.com/vi/ZIEUPiueJik/maxresdefault.jpg
 publishDate: 2019-03-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/155-Glenn-Geher-Evolutionary-Psych--Mating--Attachment--And-The-PsychTable-e39ocv
+tags:
+- Psychology
 title: '#155 Glenn Geher: Evolutionary Psych, Mating, Attachment, And The PsychTable'
 youtubeid: ZIEUPiueJik
 ---

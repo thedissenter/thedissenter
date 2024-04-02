@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50481663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-12%2F1b70b9d1-0167-e943-f834-b82b48a89f83.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Niamh McLoughlin is a Lecturer in Developmental Psychology at University\
   \ of Kent. She studies how social information impacts young children\u2019s cognition,\
@@ -8,6 +7,9 @@ excerpt: "Dr. Niamh McLoughlin is a Lecturer in Developmental Psychology at Univ
 id: '648'
 image: https://i.ytimg.com/vi/-l777aQ5mXs/maxresdefault.jpg
 publishDate: 2022-07-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/648-Niamh-McLoughlin-Child-Social-Development--Religion--Mental-State-Talk--and-Group-Affiliation-e1h331v
+tags:
+- Psychology
 title: '#648 Niamh McLoughlin: Child Social Development, Religion, Mental State Talk,
   and Group Affiliation'
 youtubeid: -l777aQ5mXs

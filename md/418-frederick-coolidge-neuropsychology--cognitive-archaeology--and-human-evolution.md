@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22531783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F559611f5-836f-d48c-9b98-a438236afa2a.m4a
-category: Archaeology
 draft: false
 excerpt: "Dr. Frederick Coolidge is Professor of Psychology and Co-Director of Undergraduate\
   \ Education in Psychology at the University of Colorado, Colorado Springs. He teaches\
@@ -18,6 +17,11 @@ excerpt: "Dr. Frederick Coolidge is Professor of Psychology and Co-Director of U
 id: '418'
 image: https://i.ytimg.com/vi/f0wM58nAjiY/maxresdefault.jpg
 publishDate: 2021-01-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/418-Frederick-Coolidge-Neuropsychology--Cognitive-Archaeology--and-Human-Evolution-eme487
+tags:
+- Archaeology
+- Anthropology
+- Psychology
 title: '#418 Frederick Coolidge: Neuropsychology, Cognitive Archaeology, and Human
   Evolution'
 youtubeid: f0wM58nAjiY

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9341473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40950065-44100-2-d9477145c2f8c.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at
   INSEAD. His research focuses on the basic processes of judgment that affect how
@@ -12,6 +11,9 @@ excerpt: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour a
 id: '306'
 image: https://i.ytimg.com/vi/0G_rfxa5s98/maxresdefault.jpg
 publishDate: 2020-03-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/306-Nadav-Klein-Reputation--Prosociality--Moral-Character--and-Lie-Detection-e9rj31
+tags:
+- Psychology
 title: '#306 Nadav Klein: Reputation, Prosociality, Moral Character, and Lie Detection'
 youtubeid: 0G_rfxa5s98
 ---

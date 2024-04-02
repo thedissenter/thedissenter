@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20529043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F8fcf97fe-a2a5-d20b-7196-706b600bf28a.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht University.
   His main research interests are in moral psychology and empirically informed metaethics.
@@ -12,6 +11,9 @@ excerpt: Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht Univers
 id: '404'
 image: https://i.ytimg.com/vi/Jpit7l0ALpA/maxresdefault.jpg
 publishDate: 2020-12-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/404-Hanno-Sauer-Ethics--Moral-Realism--Moral-Progress--and-Human-Rationality-ekh0ej
+tags:
+- Philosophy
 title: '#404 Hanno Sauer: Ethics, Moral Realism, Moral Progress, and Human Rationality'
 youtubeid: Jpit7l0ALpA
 ---

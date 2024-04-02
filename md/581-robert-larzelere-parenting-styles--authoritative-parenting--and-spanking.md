@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41792270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fc1733773-1a8f-23a8-7189-8d5bb066f53c.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Robert Larzelere is Professor and Research Methodologist in the College
   of Education and Human Sciences at Oklahoma State University. He is interested in
@@ -15,6 +14,9 @@ excerpt: Dr. Robert Larzelere is Professor and Research Methodologist in the Col
 id: '581'
 image: https://i.ytimg.com/vi/QXxiaVqpUSA/maxresdefault.jpg
 publishDate: 2022-01-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/581-Robert-Larzelere-Parenting-Styles--Authoritative-Parenting--and-Spanking-e18ptae
+tags:
+- Psychology
 title: '#581 Robert Larzelere: Parenting Styles, Authoritative Parenting, and Spanking'
 youtubeid: QXxiaVqpUSA
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23545740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F26707c14-d194-4fc6-e9cf-1d0e744de9f6.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Steven J. Heine is Distinguished University Scholar and Professor of\
   \ Social and Cultural Psychology at the University of British Columbia. Heine\u2019\
@@ -12,6 +11,9 @@ excerpt: "Dr. Steven J. Heine is Distinguished University Scholar and Professor 
 id: '421'
 image: https://i.ytimg.com/vi/BHsiadYuuss/maxresdefault.jpg
 publishDate: 2021-01-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/421-Steven-Heine-Cultural-Psychology--and-How-Psychology-Varies-Across-Cultures-end2ec
+tags:
+- Psychology
 title: '#421 Steven Heine: Cultural Psychology, and How Psychology Varies Across Cultures'
 youtubeid: BHsiadYuuss
 ---

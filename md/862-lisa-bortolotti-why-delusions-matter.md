@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76234364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fca699bbb-b067-15d4-b2ab-34c55ef9d856.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,
   affiliated with the Philosophy Department in the School of Philosophy, Theology,
@@ -10,7 +9,12 @@ excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Bir
   Matter.
 id: '862'
 image: https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/862-lisa-bortolotti-why-delusions-matter/id1451347236?i=1000635213154&uo=4
 publishDate: 2023-11-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/862-Lisa-Bortolotti-Why-Delusions-Matter-e29l05s
+tags:
+- Cognitive Science
+- Philosophy
 title: '#862 Lisa Bortolotti: Why Delusions Matter'
 youtubeid: UkU7gA0lZfo
 ---

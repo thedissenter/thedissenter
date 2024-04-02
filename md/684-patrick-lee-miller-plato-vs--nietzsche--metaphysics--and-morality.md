@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54481554/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-6%2F9c56dd83-baf1-64eb-347f-0710430264d3.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
   University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure
@@ -9,6 +8,9 @@ excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duqu
 id: '684'
 image: https://i.ytimg.com/vi/LeiTGDc_RBI/maxresdefault.jpg
 publishDate: 2022-09-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/684-Patrick-Lee-Miller-Plato-vs--Nietzsche--Metaphysics--and-Morality-e1kt56i
+tags:
+- Philosophy
 title: '#684 Patrick Lee Miller: Plato vs. Nietzsche, Metaphysics, and Morality'
 youtubeid: LeiTGDc_RBI
 ---

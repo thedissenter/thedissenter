@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47460323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-10%2F6019ecdd-05a7-8516-6d7a-08a4ed90426e.m4a
-category: Economy, Progress
 draft: false
 excerpt: 'Dr. David Leiser is a professor of economic and social psychology at Ben-Gurion
   University of the Negev. Dr. Leiser has served as President of the Economic Psychology
@@ -11,6 +10,10 @@ excerpt: 'Dr. David Leiser is a professor of economic and social psychology at B
 id: '624'
 image: https://i.ytimg.com/vi/SDQL7omze_k/maxresdefault.jpg
 publishDate: 2022-05-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/624-David-Leiser---How-We-Misunderstand-Economics-And-Why-It-Matters-e1e6sh3
+tags:
+- Economy, Progress
+- Psychology
 title: '#624 David Leiser - How We Misunderstand Economics And Why It Matters'
 youtubeid: SDQL7omze_k
 ---

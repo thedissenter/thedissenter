@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465770/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380459-44100-2-fd55843fe060b.m4a
-category: Primatology
 draft: false
 excerpt: Dr. Sarah Brosnan is a Professor in the departments of psychology and philosophy
   and the Neuroscience Institute at Georgia State University. She is also a member
@@ -17,6 +16,9 @@ excerpt: Dr. Sarah Brosnan is a Professor in the departments of psychology and p
 id: '163'
 image: https://i.ytimg.com/vi/xTt25Cv-eZI/maxresdefault.jpg
 publishDate: 2019-04-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/163-Sarah-Brosnan-Morality--Reciprocity--Fairness--And-Property-in-Primates-e39oha
+tags:
+- Primatology
 title: '#163 Sarah Brosnan: Morality, Reciprocity, Fairness, and Property in Primates'
 youtubeid: xTt25Cv-eZI
 ---

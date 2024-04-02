@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36965642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fa234cc25-5d87-d480-6615-4fcd8279895b.m4a
-category: Biology
 draft: false
 excerpt: Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow at
   the Institute for Policy Research at Northwestern University. He uses principles
@@ -18,6 +17,10 @@ excerpt: Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow 
 id: '537'
 image: https://i.ytimg.com/vi/13EmGmej1ks/maxresdefault.jpg
 publishDate: 2021-10-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/537-Christopher-Kuzawa-Developmental-Plasticity--Life-History--and-Epigenetics-e146jqa
+tags:
+- Biology
+- Anthropology
 title: '#537 Christopher Kuzawa: Developmental Plasticity, Life History, and Epigenetics'
 youtubeid: 13EmGmej1ks
 ---

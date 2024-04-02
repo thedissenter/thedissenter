@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18709897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-28%2Fb89d7ad3-4151-4fea-54e8-7fb40685667b.m4a
-category: Primatology
 draft: false
 excerpt: "Dr. Brian Hare is a professor of evolutionary anthropology at Duke University.\
   \ He researches the evolution of cognition by studying both humans, our close relatives\
@@ -12,6 +11,10 @@ excerpt: "Dr. Brian Hare is a professor of evolutionary anthropology at Duke Uni
 id: '378'
 image: https://i.ytimg.com/vi/mmGIyBDgg7A/maxresdefault.jpg
 publishDate: 2020-10-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/378-Brian-Hare-Survival-of-the-Friendliest-eipfu9
+tags:
+- Primatology
+- Anthropology
 title: '#378 Brian Hare: Survival of the Friendliest'
 youtubeid: mmGIyBDgg7A
 ---

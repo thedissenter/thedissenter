@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3136006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-4%2F14080412-44100-2-894c809365d6e.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Paul Slovic is a founder and President of Decision Research and Professor\
   \ of Psychology at the University of Oregon, where he studies human judgment, decision\
@@ -13,6 +12,9 @@ excerpt: "Dr. Paul Slovic is a founder and President of Decision Research and Pr
 id: '193'
 image: https://i.ytimg.com/vi/AwEYI4P7BIo/maxresdefault.jpg
 publishDate: 2019-06-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/193-Paul-Slovic-Risk-Perception--GMOs--Vaccines--And-Climate-Change-e3u726
+tags:
+- Psychology
 title: '#193 Paul Slovic: Risk Perception, GMOs, Vaccines, And Climate Change'
 youtubeid: AwEYI4P7BIo
 ---

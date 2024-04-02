@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121968-44100-2-f2db13c77ce6b.m4a
-category: Economics
 draft: false
 excerpt: Dr. David Zaruk is the Risk-Monger. He has been an EU risk and science communications
   specialist since 2000, active in EU policy events from REACH and SCALE to the Pesticides
@@ -12,6 +11,9 @@ excerpt: Dr. David Zaruk is the Risk-Monger. He has been an EU risk and science 
 id: '144'
 image: https://i.ytimg.com/vi/b3-XYarHmc4/maxresdefault.jpg
 publishDate: 2019-02-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/144-David-Zaruk-Environmentalism--The-EU--and-SlimeGate-e32tml
+tags:
+- Economics
 title: '#144 David Zaruk: Environmentalism, The EU, and SlimeGate'
 youtubeid: b3-XYarHmc4
 ---

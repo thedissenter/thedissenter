@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778232-44100-2-64718ea70836c.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Randy Thornhill is an American entomologist and evolutionary biologist.\
   \ He is a professor of biology at the University of New Mexico, and was president\
@@ -11,6 +10,9 @@ excerpt: "Dr. Randy Thornhill is an American entomologist and evolutionary biolo
 id: '128'
 image: https://i.ytimg.com/vi/6F56b8TYT_c/maxresdefault.jpg
 publishDate: 2019-01-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/128-Randy-Thornhill-Parasite-Stress--Sociality--Values--Personality--and-Politics-e2s22l
+tags:
+- Psychology
 title: '#128 Randy Thornhill: Parasite-Stress, Sociality, Values, Personality, and
   Politics'
 youtubeid: 6F56b8TYT_c

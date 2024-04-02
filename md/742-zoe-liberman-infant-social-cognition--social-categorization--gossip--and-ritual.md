@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60811501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-17%2F524a892b-150c-e6d4-d38c-1d69313d3625.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Zoe Liberman is Associate Professor of Psychology at the University
   of California Santa Barbara. Dr. Liberman investigates the origins and development
@@ -12,7 +11,11 @@ excerpt: 'Dr. Zoe Liberman is Associate Professor of Psychology at the Universit
   diverse) environment. '
 id: '742'
 image: https://i.ytimg.com/vi/-TqByn9INH8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/742-zoe-liberman-infant-social-cognition-social-categorization/id1451347236?i=1000599083203&uo=4
 publishDate: 2023-02-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/742-Zoe-Liberman-Infant-Social-Cognition--Social-Categorization--Gossip--and-Ritual-e1quapd
+tags:
+- Psychology
 title: '#742 Zoe Liberman: Infant Social Cognition, Social Categorization, Gossip,
   and Ritual'
 youtubeid: -TqByn9INH8

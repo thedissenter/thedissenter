@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379985-44100-2-524bc9e26906d.m4a
-category: General Science
 draft: false
 excerpt: Dr. Ian Crawford is Professor of Planetary Science and Astrobiology at Birkbeck
   College, University of London. His research activities mostly lie in the fields
@@ -9,6 +8,9 @@ excerpt: Dr. Ian Crawford is Professor of Planetary Science and Astrobiology at 
 id: '159'
 image: https://i.ytimg.com/vi/aJsW54WNkWk/maxresdefault.jpg
 publishDate: 2019-04-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/159-Ian-Crawford-Astrobiology--Space-Exploration--and-Big-History-e39odo
+tags:
+- General Science
 title: '#159 Ian Crawford: Astrobiology, Space Exploration, and Big History'
 youtubeid: aJsW54WNkWk
 ---

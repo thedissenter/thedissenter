@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18709988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-28%2F7f80e0cc-1b4b-7591-2207-8bed03f85150.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Paul Eastwick is Professor of Psychology at the University of California,\
   \ Davis. Dr. Eastwick\u2019s research investigates how people initiate romantic\
@@ -14,6 +13,9 @@ excerpt: "Dr. Paul Eastwick is Professor of Psychology at the University of Cali
 id: '379'
 image: https://i.ytimg.com/vi/MI0vSSmu17g/maxresdefault.jpg
 publishDate: 2020-10-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/379-Paul-Eastwick-Close-Relationships-and-Evolutionary-Psychology-eipg14
+tags:
+- Psychology
 title: '#379 Paul Eastwick: Close Relationships and Evolutionary Psychology'
 youtubeid: MI0vSSmu17g
 ---

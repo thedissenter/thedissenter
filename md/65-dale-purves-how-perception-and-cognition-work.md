@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681370-44100-2-533fd50eeb27.mp3
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center
   for Cognitive Neuroscience, at Duke University. He was elected to the National Academy
@@ -15,6 +14,9 @@ excerpt: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Ce
 id: '65'
 image: https://i.ytimg.com/vi/6vB2znTPFMk/maxresdefault.jpg
 publishDate: 2018-08-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/65-Dale-Purves-How-Perception-and-Cognition-Work-e2rj55
+tags:
+- Neuroscience
 title: '#65 Dale Purves: How Perception and Cognition Work'
 youtubeid: 6vB2znTPFMk
 ---

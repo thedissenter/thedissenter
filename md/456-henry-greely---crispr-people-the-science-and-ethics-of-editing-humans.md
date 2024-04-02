@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/29490525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2F6c98a000-9aff-1d77-3d4e-2693b90b7f38.m4a
-category: Politics
 draft: false
 excerpt: "Dr. Henry Greely is currently the Deane F. and Kate Edelman Johnson Professor\
   \ of Law and Professor by courtesy of Genetics at Stanford University, and also\
@@ -17,6 +16,11 @@ excerpt: "Dr. Henry Greely is currently the Deane F. and Kate Edelman Johnson Pr
 id: '456'
 image: https://i.ytimg.com/vi/MktWrmdJvf0/maxresdefault.jpg
 publishDate: 2021-04-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/456-Henry-Greely---CRISPR-People-The-Science-and-Ethics-of-Editing-Humans-et2fst
+tags:
+- Politics
+- Biology
+- Philosophy
 title: '#456 Henry Greely - CRISPR People: The Science and Ethics of Editing Humans'
 youtubeid: MktWrmdJvf0
 ---

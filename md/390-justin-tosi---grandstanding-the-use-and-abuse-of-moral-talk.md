@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22160351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2F2289563d-ba7c-bf8f-1804-fe2b55804d95.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech University.\
   \ He works in social, political, legal, and moral philosophy, and especially on\
@@ -9,6 +8,9 @@ excerpt: "Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech Uni
 id: '390'
 image: https://i.ytimg.com/vi/RdACwMJojcc/maxresdefault.jpg
 publishDate: 2020-11-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/390-Justin-Tosi---Grandstanding-The-Use-and-Abuse-of-Moral-Talk-em2pgv
+tags:
+- Philosophy
 title: '#390 Justin Tosi - Grandstanding: The Use and Abuse of Moral Talk'
 youtubeid: RdACwMJojcc
 ---

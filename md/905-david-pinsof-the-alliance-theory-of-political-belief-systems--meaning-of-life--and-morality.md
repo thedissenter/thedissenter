@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77353030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-17%2Fb2230bac-1911-8b7c-b2a8-9f2a7552535f.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. David Pinsof is a research scientist who received his PhD in Psychology\
   \ from the University of California, Los Angeles in 2018. David\u2019s research\
@@ -10,7 +9,11 @@ excerpt: "Dr. David Pinsof is a research scientist who received his PhD in Psych
   \ formation, and the origins of political belief systems."
 id: '905'
 image: https://i.ytimg.com/vi/7kMPxH0yxts/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/905-david-pinsof-the-alliance-theory-of-political/id1451347236?i=1000647133561&uo=4
 publishDate: 2024-02-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/905-David-Pinsof-The-Alliance-Theory-of-Political-Belief-Systems--Meaning-of-Life--and-Morality-e2an4k6
+tags:
+- Psychology
 title: '#905 David Pinsof: The Alliance Theory of Political Belief Systems, Meaning
   of Life, and Morality'
 youtubeid: 7kMPxH0yxts

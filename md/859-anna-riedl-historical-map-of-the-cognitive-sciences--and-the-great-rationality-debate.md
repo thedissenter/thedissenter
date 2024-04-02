@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77976914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-31%2F8c989e1c-eefd-4043-1bce-78a95dc5be8b.m4a
-category: Cognitive Science
 draft: false
 excerpt: Anna Riedl is a cognitive scientist, specialized in rational decision-making.
   She is an active public speaker and science communicator. She was a researcher at
@@ -9,7 +8,11 @@ excerpt: Anna Riedl is a cognitive scientist, specialized in rational decision-m
   and served as curator for the Vienna Hub.
 id: '859'
 image: https://i.ytimg.com/vi/0aQebCENIjg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/859-anna-riedl-historical-map-of-the-cognitive/id1451347236?i=1000634415061&uo=4
 publishDate: 2023-11-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/859-Anna-Riedl-Historical-Map-of-the-Cognitive-Sciences--and-the-Great-Rationality-Debate-e2ba5si
+tags:
+- Cognitive Science
 title: '#859 Anna Riedl: Historical Map of the Cognitive Sciences, and the Great Rationality
   Debate'
 youtubeid: 0aQebCENIjg

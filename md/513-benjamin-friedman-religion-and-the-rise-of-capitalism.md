@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33486497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F54f35bcb-1602-3dc3-bbd6-7c0ea08c5ab9.m4a
-category: Economy, Progress
 draft: false
 excerpt: "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Political\
   \ Economy, and formerly Chairman of the Department of Economics, at Harvard University.\
@@ -14,6 +13,11 @@ excerpt: "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Poli
 id: '513'
 image: https://i.ytimg.com/vi/Lv12S05k1uw/maxresdefault.jpg
 publishDate: 2021-08-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/513-Benjamin-Friedman-Religion-and-the-Rise-of-Capitalism-e10se71
+tags:
+- Politics
+- History
+- Economy, Progress
 title: '#513 Benjamin Friedman: Religion and the Rise of Capitalism'
 youtubeid: Lv12S05k1uw
 ---

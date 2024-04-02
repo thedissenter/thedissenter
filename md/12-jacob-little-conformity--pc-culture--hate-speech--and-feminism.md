@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '12'
 image: https://i.ytimg.com/vi/ck2VTFbyGSA/maxresdefault.jpg
 publishDate: 2018-04-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/12-Jacob-Little-Conformity--PC-culture--Hate-Speech--and-Feminism-e2r46d
 title: '#12 Jacob Little: Conformity, PC culture, Hate Speech, and Feminism'
 youtubeid: ck2VTFbyGSA
 ---

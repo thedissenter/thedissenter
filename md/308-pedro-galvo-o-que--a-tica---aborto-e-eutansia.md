@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9604800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42868777-44100-2-eebee62e4d3e1.m4a
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: 'GRAVADA NO DIA 6 DE JANEIRO DE 2020.  '
 id: '308'
 image: https://i.ytimg.com/vi/6F43pKQILd0/maxresdefault.jpg
 publishDate: 2020-03-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/308-Pedro-Galvo-O-Que--A-tica---Aborto-E-Eutansia-ea3k80
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Philosophy
 title: "#308 Pedro Galv\xE3o: O Que \xC9 A \xC9tica? + Aborto E Eutan\xE1sia"
 youtubeid: 6F43pKQILd0
 ---

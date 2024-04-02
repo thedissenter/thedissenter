@@ -1,12 +1,15 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61347542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2Fc956f75b-9997-85e1-0c51-d265b342758b.m4a
-category: Anthropology
 draft: false
 excerpt: 'NOTE: All of the royalties from Dr. Sponsel''s book are donated to Survival
   International on behalf of their continuing vital help with the Yanomami.'
 id: '751'
 image: https://i.ytimg.com/vi/Fzl_rkZop90/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/751-leslie-sponsel-yanomami-in-the-amazon-toward-a/id1451347236?i=1000602682450&uo=4
 publishDate: 2023-03-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/751-Leslie-Sponsel---Yanomami-in-the-Amazon-Toward-a-more-Ethical-Anthropology-beyond-Othering-e1rem8m
+tags:
+- Anthropology
 title: '#751 Leslie Sponsel - Yanomami in the Amazon: Toward a more Ethical Anthropology
   beyond Othering'
 youtubeid: Fzl_rkZop90

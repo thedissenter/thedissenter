@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23545634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F5a748edd-9278-5b48-91db-5298e9caf616.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Christopher Freiman is Associate Professor of Philosophy at the College\
   \ of William & Mary. His research interests include democratic theory, distributive\
@@ -12,6 +11,9 @@ excerpt: "Dr. Christopher Freiman is Associate Professor of Philosophy at the Co
 id: '403'
 image: https://i.ytimg.com/vi/vayjt6i3QYc/maxresdefault.jpg
 publishDate: 2020-12-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/403-Christopher-Freiman---Why-Its-OK-to-Ignore-Politics-end2b2
+tags:
+- Philosophy
 title: '#403 Christopher Freiman - Why It''s OK to Ignore Politics'
 youtubeid: vayjt6i3QYc
 ---

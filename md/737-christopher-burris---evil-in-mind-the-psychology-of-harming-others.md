@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59404062/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-21%2F0988677f-ea8c-d597-ead1-d4e03d558a13.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Christopher Burris is a Professor of Psychology at St. Jerome''s University,
   one of the six faculties that makes up the University of Waterloo. Over the years,
@@ -11,7 +10,11 @@ excerpt: 'Dr. Christopher Burris is a Professor of Psychology at St. Jerome''s U
   Mind: The Psychology of Harming Others.'
 id: '737'
 image: https://i.ytimg.com/vi/L5Jh32T1tMo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/737-christopher-burris-evil-in-mind-the-psychology/id1451347236?i=1000597310821&uo=4
 publishDate: 2023-01-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/737-Christopher-Burris---Evil-in-Mind-The-Psychology-of-Harming-Others-e1pjcau
+tags:
+- Psychology
 title: '#737 Christopher Burris - Evil in Mind: The Psychology of Harming Others'
 youtubeid: L5Jh32T1tMo
 ---

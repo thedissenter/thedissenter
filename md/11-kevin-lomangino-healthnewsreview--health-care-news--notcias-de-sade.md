@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '11'
 image: https://i.ytimg.com/vi/Q8wsX75Z9yY/maxresdefault.jpg
 publishDate: 2018-04-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/11-Kevin-Lomangino-HealthNewsReview--Health-Care-News--Notcias-de-Sade-320-kbps-e2r45c
 title: "#11 Kevin Lomangino: HealthNewsReview, Health Care News | Not\xEDcias de Sa\xFA\
   de"
 youtubeid: Q8wsX75Z9yY

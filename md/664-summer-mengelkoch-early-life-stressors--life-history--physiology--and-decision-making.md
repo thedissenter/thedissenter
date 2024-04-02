@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52297945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-20%2F8121a3b6-2064-a538-0a2b-4190b8a3c553.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Summer Mengelkoch has recently finished her PhD in experimental social
   psychology at Texas Christian University. She has just accepted a postdoc position
@@ -13,6 +12,9 @@ excerpt: Dr. Summer Mengelkoch has recently finished her PhD in experimental soc
 id: '664'
 image: https://i.ytimg.com/vi/EzWmDrudlKk/maxresdefault.jpg
 publishDate: 2022-08-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/664-Summer-Mengelkoch-Early-Life-Stressors--Life-History--Physiology--and-Decision-Making-e1iqgop
+tags:
+- Psychology
 title: '#664 Summer Mengelkoch: Early Life Stressors, Life History, Physiology, and
   Decision-Making'
 youtubeid: EzWmDrudlKk

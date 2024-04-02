@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38389792/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2Fa28a89a7-edab-4af5-4f44-3dd14f43d5ce.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Jonathan Zimmerman is a Professor of History of Education at the University
   of Pennsylvania Graduate School of Education. Dr. Zimmerman is one of the foremost
@@ -12,6 +11,9 @@ excerpt: 'Dr. Jonathan Zimmerman is a Professor of History of Education at the U
 id: '550'
 image: https://i.ytimg.com/vi/JcTyILqcPT8/maxresdefault.jpg
 publishDate: 2021-11-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/550-Jonathan-Zimmerman---Free-Speech-And-Why-You-Should-Give-a-Damn-e15i2j0
+tags:
+- Philosophy
 title: '#550 Jonathan Zimmerman - Free Speech: And Why You Should Give a Damn'
 youtubeid: JcTyILqcPT8
 ---

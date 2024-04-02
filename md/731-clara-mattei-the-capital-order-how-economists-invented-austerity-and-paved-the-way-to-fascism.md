@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62751465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-27%2F532cc7b6-fa51-3ee7-a8ff-34b621f3c979.m4a
-category: Economics
 draft: false
 excerpt: 'Dr. Clara Mattei is an Assistant Professor in the Economics Department of
   The New School for Social Research, and was a 2018-2019 member of the School of
@@ -10,7 +9,12 @@ excerpt: 'Dr. Clara Mattei is an Assistant Professor in the Economics Department
   Invented Austerity and Paved the Way to Fascism.'
 id: '731'
 image: https://i.ytimg.com/vi/kUubB9Dk-Cg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/731-clara-mattei-the-capital-order-how-economists/id1451347236?i=1000594769585&uo=4
 publishDate: 2023-01-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/731-Clara-Mattei---The-Capital-Order-How-Economists-Invented-Austerity-and-Paved-the-Way-to-Fascism-e1sph99
+tags:
+- Politics
+- Economics
 title: '#731 Clara Mattei The Capital Order: How Economists Invented Austerity and
   Paved the Way to Fascism'
 youtubeid: kUubB9Dk-Cg

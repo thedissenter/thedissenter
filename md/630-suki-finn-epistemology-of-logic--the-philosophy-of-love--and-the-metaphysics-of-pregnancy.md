@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48097185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-23%2Fbda0af95-41f0-4642-7ef5-af39adcd16df.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University of
   London. Her research spans the areas of metametaphysics, the metaphysics of pregnancy,
@@ -13,6 +12,9 @@ excerpt: Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University 
 id: '630'
 image: https://i.ytimg.com/vi/7gmTZ9m-Sd0/maxresdefault.jpg
 publishDate: 2022-05-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/630-Suki-Finn-Epistemology-of-Logic--the-Philosophy-of-Love--and-the-Metaphysics-of-Pregnancy-e1eqaf1
+tags:
+- Philosophy
 title: '#630 Suki Finn: Epistemology of Logic, the Philosophy of Love, and the Metaphysics
   of Pregnancy'
 youtubeid: 7gmTZ9m-Sd0

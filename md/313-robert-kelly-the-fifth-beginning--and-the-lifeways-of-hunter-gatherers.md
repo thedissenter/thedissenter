@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9727811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703524-44100-2-67e5c61564a68.m4a
-category: Archaeology
 draft: false
 excerpt: "Dr. Robert Kelly is Professor of Archaeology at the University of Wyoming.\
   \ Dr. Kelly has shaped and contributed much to our understanding of hunter-gatherer\
@@ -16,6 +15,10 @@ excerpt: "Dr. Robert Kelly is Professor of Archaeology at the University of Wyom
 id: '313'
 image: https://i.ytimg.com/vi/oiT_S2v6Gfc/maxresdefault.jpg
 publishDate: 2020-03-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/313-Robert-Kelly-The-Fifth-Beginning--And-The-Lifeways-Of-Hunter-Gatherers-ea7cc3
+tags:
+- Archaeology
+- Anthropology
 title: '#313 Robert Kelly: The Fifth Beginning, And The Lifeways Of Hunter-Gatherers'
 youtubeid: oiT_S2v6Gfc
 ---

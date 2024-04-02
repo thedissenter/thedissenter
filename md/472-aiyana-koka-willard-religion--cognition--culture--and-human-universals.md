@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26951458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2F4738b5ad-a9b6-34c6-b128-929e05013c76.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Aiyana Koka Willard is a Lecturer in the Centre for Culture and Evolution
   at Brunel University London. Her research focuses around the culture and cognitive
@@ -10,6 +9,11 @@ excerpt: Dr. Aiyana Koka Willard is a Lecturer in the Centre for Culture and Evo
 id: '472'
 image: https://i.ytimg.com/vi/ppcQ4bAerjg/maxresdefault.jpg
 publishDate: 2021-05-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/472-Aiyana-Koka-Willard-Religion--Cognition--Culture--and-Human-Universals-eql0b2
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#472 Aiyana Koka Willard: Religion, Cognition, Culture, and Human Universals'
 youtubeid: ppcQ4bAerjg
 ---

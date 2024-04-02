@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22870366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2Fa83439eb-8f67-e9eb-0344-5427a9284124.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Stefaan Blancke is Assistant Professor of Philosophy at Tilburg University,
   Netherlands. He studies the diffusion of (pseudo)scientific beliefs from an epidemiological
@@ -12,6 +11,9 @@ excerpt: Dr. Stefaan Blancke is Assistant Professor of Philosophy at Tilburg Uni
 id: '424'
 image: https://i.ytimg.com/vi/b6qnYX0bD-g/maxresdefault.jpg
 publishDate: 2021-01-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/424-Stefaan-Blancke-Science--Pseudoscience--Rationality--and-Cultural-Evolution-emoesu
+tags:
+- Philosophy
 title: '#424 Stefaan Blancke: Science, Pseudoscience, Rationality, and Cultural Evolution'
 youtubeid: b6qnYX0bD-g
 ---

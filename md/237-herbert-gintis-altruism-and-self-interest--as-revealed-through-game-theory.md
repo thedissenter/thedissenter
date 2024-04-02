@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4166890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20636077-44100-2-8794d8ab20c74.m4a
-category: Game Theory
 draft: false
 excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and
   Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project
@@ -16,6 +15,12 @@ excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He
 id: '237'
 image: https://i.ytimg.com/vi/yN8Aj2I82eE/maxresdefault.jpg
 publishDate: 2019-10-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/237-Herbert-Gintis-Altruism-And-Self-interest--As-Revealed-Through-Game-Theory-e4tlpa
+tags:
+- Game Theory
+- General Science
+- Anthropology
+- Psychology
 title: '#237 Herbert Gintis: Altruism And Self-interest, As Revealed Through Game
   Theory'
 youtubeid: yN8Aj2I82eE

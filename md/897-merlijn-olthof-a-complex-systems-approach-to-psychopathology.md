@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76496571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-28%2Faef13707-56fe-9062-6000-01a04d1b9a0e.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Merlijn Olthof is a Post-Doc in Tipping points in Treatment at the University
   of Groningen, and Lecturer in Pedagogical Sciences at Radboud University. His work
@@ -8,7 +7,11 @@ excerpt: Dr. Merlijn Olthof is a Post-Doc in Tipping points in Treatment at the 
   and related topics.
 id: '897'
 image: https://i.ytimg.com/vi/7J0vrrXMFKg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/897-merlijn-olthof-a-complex-systems-approach-to/id1451347236?i=1000644676484&uo=4
 publishDate: 2024-02-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/897-Merlijn-Olthof-A-Complex-Systems-Approach-to-Psychopathology-e29t07r
+tags:
+- Psychology
 title: '#897 Merlijn Olthof: A Complex Systems Approach to Psychopathology'
 youtubeid: 7J0vrrXMFKg
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24162383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3743c894-117c-e68d-1b56-3cd3f5ef98d8.m4a
-category: Psychology
 draft: false
 excerpt: Dr. John Paul Wright is Professor of Criminal Justice in the Division of
   Criminal Justice at the University of Cincinnati. Dr. Wright was rated as the most
@@ -15,6 +14,9 @@ excerpt: Dr. John Paul Wright is Professor of Criminal Justice in the Division o
 id: '438'
 image: https://i.ytimg.com/vi/YXGWfkI3nDY/maxresdefault.jpg
 publishDate: 2021-03-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/438-John-Paul-Wright-The-Psychology-of-Criminal-Behavior-envskf
+tags:
+- Psychology
 title: '#438 John Paul Wright: The Psychology of Criminal Behavior'
 youtubeid: YXGWfkI3nDY
 ---

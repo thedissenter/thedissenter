@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46431740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2Fdef9d674-666c-f7c3-e349-0f8b6489dff3.m4a
-category: Politics
 draft: false
 excerpt: 'Dr. Ralph Schroeder is Professor in Social Science of the Internet at the
   Oxford Internet Institute.  Dr. Schroeder has interests in virtual environments,
@@ -11,6 +10,10 @@ excerpt: 'Dr. Ralph Schroeder is Professor in Social Science of the Internet at 
 id: '612'
 image: https://i.ytimg.com/vi/9twYG85lNFU/maxresdefault.jpg
 publishDate: 2022-04-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/612-Ralph-Schroeder-Virtual-Environments--Online-Politics--Populism--and-Big-Data-e1d7g1s
+tags:
+- Politics
+- Sociology
 title: '#612 Ralph Schroeder: Virtual Environments, Online Politics, Populism, and
   Big Data'
 youtubeid: 9twYG85lNFU

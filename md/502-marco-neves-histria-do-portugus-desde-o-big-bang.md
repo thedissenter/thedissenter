@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33970678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-21%2F6eb2b868-b957-b8fe-6d11-8e9cacbe2537.m4a
-category: Linguistics
 draft: false
 excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
 id: '502'
 image: https://i.ytimg.com/vi/JGf9LESv5CA/maxresdefault.jpg
 publishDate: 2021-07-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/502-Marco-Neves-Histria-do-Portugus-Desde-o-Big-Bang-e11b71m
+tags:
+- Linguistics
+- "Entrevistas em Portugu\xEAs"
 title: "#502 Marco Neves: Hist\xF3ria do Portugu\xEAs Desde o Big Bang"
 youtubeid: JGf9LESv5CA
 ---

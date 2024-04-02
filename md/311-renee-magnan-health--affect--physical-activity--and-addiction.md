@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9605002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42870348-44100-2-b16582f2ef87f.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental Training\
   \ in the Department of Psychology at Washington State University. She applies social\
@@ -15,6 +14,9 @@ excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental T
 id: '311'
 image: https://i.ytimg.com/vi/kAJKw5rMzQM/maxresdefault.jpg
 publishDate: 2020-03-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/311-Renee-Magnan-Health--Affect--Physical-Activity--And-Addiction-ea3kea
+tags:
+- Psychology
 title: '#311 Renee Magnan: Health, Affect, Physical Activity, And Addiction'
 youtubeid: kAJKw5rMzQM
 ---

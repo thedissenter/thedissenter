@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706601-44100-2-e332b9def9499.mp3
-category: Economics
 draft: false
 excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the\
   \ University of Nottingham, having retired in 2008. He is also Honorary Professor\
@@ -13,6 +12,9 @@ excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at 
 id: '83'
 image: https://i.ytimg.com/vi/YdvyAiR92oo/maxresdefault.jpg
 publishDate: 2018-10-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/83-Richard-Wilkinson-The-Spirit-Level--How-to-Seek-Equality-e2rn0r
+tags:
+- Economics
 title: '#83 Richard Wilkinson: The Spirit Level, How to Seek Equality'
 youtubeid: YdvyAiR92oo
 ---

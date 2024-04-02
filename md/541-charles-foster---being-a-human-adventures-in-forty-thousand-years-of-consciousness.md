@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/41134629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F015d6ca0-4d6e-cfae-5712-f8adcccf1f88.m4a
-category: History
 draft: false
 excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of the
   Oxford Law Faculty (where he is a Visiting Professor), a Senior Research Associate
@@ -15,6 +14,10 @@ excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of
 id: '541'
 image: https://i.ytimg.com/vi/QV4npAUQAck/maxresdefault.jpg
 publishDate: 2021-10-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/541-Charles-Foster---Being-a-Human-Adventures-in-Forty-Thousand-Years-of-Consciousness-e185r35
+tags:
+- History
+- Anthropology
 title: '#541 Charles Foster - Being a Human: Adventures in Forty Thousand Years of
   Consciousness'
 youtubeid: QV4npAUQAck

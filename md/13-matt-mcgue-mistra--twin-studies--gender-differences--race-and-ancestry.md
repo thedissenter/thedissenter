@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1986207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572207-44100-2-1416127a031f8.mp3
-category: Psychology
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '13'
 image: https://i.ytimg.com/vi/Wl_w9DJ1R88/maxresdefault.jpg
 publishDate: 2018-04-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/13-Matt-McGue-MISTRA--Twin-Studies--Gender-Differences--Race-and-Ancestry-e2r46v
+tags:
+- Psychology
 title: '#13 Matt McGue: MISTRA, Twin Studies, Gender Differences, Race and Ancestry'
 youtubeid: Wl_w9DJ1R88
 ---

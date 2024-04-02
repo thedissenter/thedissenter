@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17878057-44100-2-13957ab6c2589.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
   University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure
@@ -10,6 +9,9 @@ excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duqu
 id: '226'
 image: https://i.ytimg.com/vi/xokhlikH74s/maxresdefault.jpg
 publishDate: 2019-09-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/226-Patrick-Lee-Miller-The-Philosophy-of-Black-Mirror-e4g2gf
+tags:
+- Philosophy
 title: '#226 Patrick Lee Miller: The Philosophy of Black Mirror'
 youtubeid: xokhlikH74s
 ---

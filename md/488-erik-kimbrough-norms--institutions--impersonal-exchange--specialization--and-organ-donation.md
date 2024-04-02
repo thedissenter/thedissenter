@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/27406886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2F8e365a73-950e-75cf-4a29-b50091801e8d.m4a
-category: Economy, Progress
 draft: false
 excerpt: Dr. Erik Kimbrough is an associate professor of economics at the Smith Institute
   for Political Economy and Philosophy in the Argyros School of Business and Economics
@@ -14,6 +13,10 @@ excerpt: Dr. Erik Kimbrough is an associate professor of economics at the Smith 
 id: '488'
 image: https://i.ytimg.com/vi/5sqVSsxqK9g/maxresdefault.jpg
 publishDate: 2021-06-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/488-Erik-Kimbrough-Norms--Institutions--Impersonal-Exchange--Specialization--and-Organ-Donation-er2t36
+tags:
+- Economy, Progress
+- Psychology
 title: '#488 Erik Kimbrough: Norms, Institutions, Impersonal Exchange, Specialization,
   and Organ Donation'
 youtubeid: 5sqVSsxqK9g

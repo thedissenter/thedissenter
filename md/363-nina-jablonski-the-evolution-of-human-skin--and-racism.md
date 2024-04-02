@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17736560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-8%2F3e0a96f4-4e5e-898f-0f0f-e89ad765c417.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology at
   The Pennsylvania State University.  A biological anthropologist and paleobiologist,
@@ -14,6 +13,9 @@ excerpt: Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology
 id: '363'
 image: https://i.ytimg.com/vi/DbqKLH9lo1w/maxresdefault.jpg
 publishDate: 2020-09-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/363-Nina-Jablonski-The-Evolution-of-Human-Skin--and-Racism-ehrpdg
+tags:
+- Anthropology
 title: '#363 Nina Jablonski: The Evolution of Human Skin, and Racism'
 youtubeid: DbqKLH9lo1w
 ---

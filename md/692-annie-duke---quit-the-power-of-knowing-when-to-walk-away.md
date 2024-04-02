@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/58905096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-11%2F450c2299-2690-9d5c-78b9-281f9ac46351.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Annie Duke is an author, speaker, and consultant in the decision-making\
   \ space, as well as Special Partner focused on Decision Science at First Round Capital\
@@ -16,6 +15,10 @@ excerpt: "Annie Duke is an author, speaker, and consultant in the decision-makin
 id: '692'
 image: https://i.ytimg.com/vi/ciFChdFgwdQ/maxresdefault.jpg
 publishDate: 2022-10-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/692-Annie-Duke---Quit-The-Power-of-Knowing-When-to-Walk-Away-e1p4528
+tags:
+- Cognitive Science
+- Psychology
 title: '#692 Annie Duke - Quit: The Power of Knowing When to Walk Away'
 youtubeid: ciFChdFgwdQ
 ---

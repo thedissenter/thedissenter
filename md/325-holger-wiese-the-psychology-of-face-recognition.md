@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10384892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49310541-44100-2-f14475e4dbe72.m4a
-category: Cognitive Science
 draft: false
 excerpt: ''
 id: '325'
 image: https://i.ytimg.com/vi/WPWst9HQvwA/maxresdefault.jpg
 publishDate: 2020-04-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/325-Holger-Wiese-The-Psychology-of-Face-Recognition-eare1s
+tags:
+- Cognitive Science
+- Psychology
 title: '#325 Holger Wiese: The Psychology of Face Recognition'
 youtubeid: WPWst9HQvwA
 ---

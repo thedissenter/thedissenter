@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72207645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-16%2F62e641d5-04a5-2697-9757-97765f7011e3.m4a
-category: Politics
 draft: false
 excerpt: 'Dr. Suthan Krishnarajan is Associate Professor in Political Science at Aarhus
   University. His research agenda seeks to understand and explain political regime
@@ -12,7 +11,11 @@ excerpt: 'Dr. Suthan Krishnarajan is Associate Professor in Political Science at
   science: comparative politics, public opinion, and international relations.'
 id: '906'
 image: https://i.ytimg.com/vi/x9BgL2ngt-U/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/906-suthan-krishnarajan-regime-instability-and/id1451347236?i=1000647577898&uo=4
 publishDate: 2024-02-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/906-Suthan-Krishnarajan-Regime-Instability-and-Support-for-Democracy-and-Autocracy-e25q3qt
+tags:
+- Politics
 title: '#906 Suthan Krishnarajan: Regime Instability and Support for Democracy and
   Autocracy'
 youtubeid: x9BgL2ngt-U

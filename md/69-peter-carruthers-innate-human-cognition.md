@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001541/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681538-44100-2-19aec6fda8285.mp3
-category: Philosophy
 draft: false
 excerpt: "Dr. Peter Carruthers is a British-American philosopher and cognitive scientist\
   \ working primarily in the area of philosophy of mind, though he has also made contributions\
@@ -12,6 +11,9 @@ excerpt: "Dr. Peter Carruthers is a British-American philosopher and cognitive s
 id: '69'
 image: https://i.ytimg.com/vi/bf-Z_RRbh2Q/maxresdefault.jpg
 publishDate: 2018-09-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/69-Peter-Carruthers-Innate-Human-Cognition-e2rj65
+tags:
+- Philosophy
 title: '#69 Peter Carruthers: Innate Human Cognition'
 youtubeid: bf-Z_RRbh2Q
 ---

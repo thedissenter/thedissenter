@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3136016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-4%2F14080441-44100-2-958762a88be09.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Susan Blackmore is a psychologist, lecturer and writer researching consciousness,
   memes, and anomalous experiences, and a Visiting Professor at the University of
@@ -9,6 +8,9 @@ excerpt: Dr. Susan Blackmore is a psychologist, lecturer and writer researching 
 id: '191'
 image: https://i.ytimg.com/vi/o8wofnzguRs/maxresdefault.jpg
 publishDate: 2019-06-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/191-Susan-Blackmore-How-Memetics-Works-e3u72g
+tags:
+- Anthropology
 title: '#191 Susan Blackmore: How Memetics Works'
 youtubeid: o8wofnzguRs
 ---

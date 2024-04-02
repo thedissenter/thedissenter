@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/79033253/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-23%2F3240db0a-8f5b-006f-8c8d-c102bd9a000f.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Uta Frith is Emeritus Professor of Cognitive Development at UCL Institute
   of Cognitive Neuroscience since 2006. She has been a Visiting Professor at the University
@@ -9,7 +8,11 @@ excerpt: Dr. Uta Frith is Emeritus Professor of Cognitive Development at UCL Ins
   (February - June 2014).
 id: '875'
 image: https://i.ytimg.com/vi/1I2LvEFKhe8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/875-uta-frith-chris-frith-what-makes-us-social/id1451347236?i=1000638985571&uo=4
 publishDate: 2023-12-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/875-Uta-Frith--Chris-Frith-What-Makes-Us-Social-e2cadf5
+tags:
+- Psychology
 title: '#875 Uta Frith & Chris Frith: What Makes Us Social?'
 youtubeid: 1I2LvEFKhe8
 ---

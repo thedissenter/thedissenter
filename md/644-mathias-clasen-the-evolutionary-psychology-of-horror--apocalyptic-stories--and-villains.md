@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50137146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-5%2F5074eb59-9436-c519-d3e9-8c77f729dbe3.m4a
-category: Art
 draft: false
 excerpt: Dr. Mathias Clasen is associate professor in literature and media at Aarhus
   University. He is the Director of the Recreational Fear Lab, and Associate Editor
@@ -9,6 +8,10 @@ excerpt: Dr. Mathias Clasen is associate professor in literature and media at Aa
 id: '644'
 image: https://i.ytimg.com/vi/4eShgaEEcpo/maxresdefault.jpg
 publishDate: 2022-06-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/644-Mathias-Clasen-The-Evolutionary-Psychology-of-Horror--Apocalyptic-Stories--and-Villains-e1goijq
+tags:
+- Art
+- Psychology
 title: '#644 Mathias Clasen: The Evolutionary Psychology of Horror, Apocalyptic Stories,
   and Villains'
 youtubeid: 4eShgaEEcpo

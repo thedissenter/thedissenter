@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74615071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-14%2F838c372d-f47d-6c49-1aa3-88622bf4e5a6.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Randall Beer is Professor of Cognitive Science and Informatics at Indiana
   University Bloomington. Dr. Beer's primary research interest is in understanding
@@ -12,7 +11,12 @@ excerpt: Dr. Randall Beer is Professor of Cognitive Science and Informatics at I
   biology, including models of metabolism, gene regulation and development.
 id: '886'
 image: https://i.ytimg.com/vi/1YcSgczYqKk/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/886-randall-beer-autopoiesis-enactivism-dynamical-systems/id1451347236?i=1000641472703&uo=4
 publishDate: 2024-01-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/886-Randall-Beer-Autopoiesis--Enactivism--Dynamical-Systems--and-Evo-Devo-Approaches-in-Biology-e283iqv
+tags:
+- Cognitive Science
+- Biology
 title: '#886 Randall Beer: Autopoiesis, Enactivism, Dynamical Systems, and Evo-Devo
   Approaches in Biology'
 youtubeid: 1YcSgczYqKk

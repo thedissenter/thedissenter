@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/58962091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-12%2Fd34d8d40-0324-be36-a4bd-f56249b1b3ab.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Sarah Mathew is Associate Professor in the School of Human Evolution
   and Social Change at Arizona State University. She studies the evolution of human
@@ -14,6 +13,9 @@ excerpt: Dr. Sarah Mathew is Associate Professor in the School of Human Evolutio
 id: '725'
 image: https://i.ytimg.com/vi/wM_5Fd6W8hE/maxresdefault.jpg
 publishDate: 2023-01-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/725-Sarah-Mathew-Human-Sociality--Cooperation--Reciprocity--and-Warfare-e1p5snb
+tags:
+- Anthropology
 title: '#725 Sarah Mathew: Human Sociality, Cooperation, Reciprocity, and Warfare'
 youtubeid: wM_5Fd6W8hE
 ---

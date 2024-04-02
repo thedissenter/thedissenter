@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/56301957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-17%2Fa2b6db9e-d917-a7eb-2b36-3fe9c4be13b9.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Eric Schniter is a Lecturer in Anthropology at California State University,
   Fullerton, and a Visiting Research Associate at the Economic Science Institute at
@@ -14,6 +13,10 @@ excerpt: Dr. Eric Schniter is a Lecturer in Anthropology at California State Uni
 id: '702'
 image: https://i.ytimg.com/vi/SLrAuXzT2H0/maxresdefault.jpg
 publishDate: 2022-11-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/702-Eric-Schniter-Skill-and-Knowledge-Acquisition--and-Trust-Based-Interactions-e1mkmu5
+tags:
+- Anthropology
+- Psychology
 title: '#702 Eric Schniter: Skill and Knowledge Acquisition, and Trust-Based Interactions'
 youtubeid: SLrAuXzT2H0
 ---

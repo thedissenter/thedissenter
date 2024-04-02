@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
   at the University of California Merced. He researches decision-making under contexts
@@ -9,6 +8,9 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
 id: '345'
 image: https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg
 publishDate: 2020-06-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/345-Colin-Holbrook-Threat--And-Human-Robot-Interaction-Part-1-edg6qn
+tags:
+- Psychology
 title: '#345 Colin Holbrook: Threat, And Human-Robot Interactions'
 youtubeid: XIocAsPszzc
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378955-44100-2-4033cb39f3963.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University\
   \ of London. She teaches practical ethics, logic, philosophy of mind, philosophy\
@@ -14,6 +13,9 @@ excerpt: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway,
 id: '147'
 image: https://i.ytimg.com/vi/lE5VbXXZS50/maxresdefault.jpg
 publishDate: 2019-03-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/147-Rebecca-Roache-Philosophy-of-Psychiatry--Depression--Human-Enhancement--and-Crime-e39oal
+tags:
+- Philosophy
 title: '#147 Rebecca Roache: Philosophy of Psychiatry, Depression, Human Enhancement,
   and Crime'
 youtubeid: lE5VbXXZS50

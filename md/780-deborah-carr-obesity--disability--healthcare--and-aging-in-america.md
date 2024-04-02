@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63744873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-19%2F1c63fe53-d23d-3493-c0a3-9f8281491fc8.m4a
-category: Sociology
 draft: false
 excerpt: Dr. Deborah Carr is a Professor of Sociology and inaugural director of the
   Center of Innovation in Social Science at Boston University. Her research interests
@@ -8,7 +7,11 @@ excerpt: Dr. Deborah Carr is a Professor of Sociology and inaugural director of 
   the life course, and end-of-life issues. Her latest book is Aging in America.
 id: '780'
 image: https://i.ytimg.com/vi/kY1P2TKPG8w/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/780-deborah-carr-obesity-disability-healthcare-and/id1451347236?i=1000612669014&uo=4
 publishDate: 2023-05-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/780-Deborah-Carr-Obesity--Disability--Healthcare--and-Aging-in-America-e1tnrd9
+tags:
+- Sociology
 title: '#780 Deborah Carr: Obesity, Disability, Healthcare, and Aging in America'
 youtubeid: kY1P2TKPG8w
 ---

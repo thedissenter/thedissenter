@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26620179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F2efe0017-2df9-8671-93c0-18a09ab388a5.m4a
-category: Physics
 draft: false
 excerpt: Dr. Tim Maudlin is Professor of Philosophy at New York University. Her has
   interests primarily focused in the foundations of physics, metaphysics, and logic.
@@ -11,6 +10,10 @@ excerpt: Dr. Tim Maudlin is Professor of Philosophy at New York University. Her 
 id: '469'
 image: https://i.ytimg.com/vi/FnBC9JA9TVY/maxresdefault.jpg
 publishDate: 2021-05-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/469-Tim-Maudlin-Philosophy-of-Physics--Quantum-Mechanics--and-Metaphysics-eqasqj
+tags:
+- Physics
+- Philosophy
 title: '#469 Tim Maudlin: Philosophy of Physics, Quantum Mechanics, and Metaphysics'
 youtubeid: FnBC9JA9TVY
 ---

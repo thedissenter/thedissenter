@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/21538427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2F979b3725-4cdd-4815-fd26-9bfa0c6f3a86.m4a
-category: History
 draft: false
 excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek
   History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic
@@ -12,6 +11,9 @@ excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine G
 id: '410'
 image: https://i.ytimg.com/vi/SemLGgZROw4/maxresdefault.jpg
 publishDate: 2020-12-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/410-Edward-Watts---Mortal-Republic-How-Rome-Fell-into-Tyranny-elfq5r
+tags:
+- History
 title: '#410 Edward Watts - Mortal Republic: How Rome Fell into Tyranny'
 youtubeid: SemLGgZROw4
 ---

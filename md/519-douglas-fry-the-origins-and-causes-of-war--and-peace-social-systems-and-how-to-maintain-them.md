@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35729743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2Fe55eb8e6-e0b2-fa7e-c6f8-288621ae8ac8.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and\
   \ Conflict Studies at the University of North Carolina at Greensboro. He has written\
@@ -13,6 +12,9 @@ excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace a
 id: '519'
 image: https://i.ytimg.com/vi/Pr5-JqcAo6c/maxresdefault.jpg
 publishDate: 2021-09-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/519-Douglas-Fry-The-Origins-and-Causes-of-War--and-Peace-Social-Systems-and-How-to-Maintain-Them-e130ssf
+tags:
+- Anthropology
 title: '#519 Douglas Fry: The Origins and Causes of War, and Peace Social Systems
   and How to Maintain Them'
 youtubeid: Pr5-JqcAo6c

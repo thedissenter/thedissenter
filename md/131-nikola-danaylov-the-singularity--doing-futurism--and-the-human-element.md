@@ -17,6 +17,7 @@ excerpt: 'Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with t
 id: '131'
 image: https://i.ytimg.com/vi/71G6CCoKYoU/maxresdefault.jpg
 publishDate: 2019-01-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/131-Nikola-Danaylov-The-Singularity--Doing-Futurism--and-the-Human-Element-e2s243
 title: '#131 Nikola Danaylov: The Singularity, Doing Futurism, and the Human Element'
 youtubeid: 71G6CCoKYoU
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75461885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-4%2Ffcea7d6c-ee40-3288-7fb4-232135537220.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Luiz Pessoa is a Professor in the Department of Psychology at the University
   of Maryland, and Director of the Maryland Neuroimaging Center. Dr. Pessoa uses behavioral
@@ -14,7 +13,11 @@ excerpt: 'Dr. Luiz Pessoa is a Professor in the Department of Psychology at the 
   How Perception, Cognition, and Emotion Are Woven Together.'
 id: '882'
 image: https://i.ytimg.com/vi/gxdQXTAGlio/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/882-luiz-pessoa-the-entangled-brain-how-perception/id1451347236?i=1000640575550&uo=4
 publishDate: 2024-01-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/882-Luiz-Pessoa---The-Entangled-Brain-How-Perception--Cognition--and-Emotion-Are-Woven-Together-e28tdpt
+tags:
+- Neuroscience
 title: '#882 Luiz Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion
   Are Woven Together'
 youtubeid: gxdQXTAGlio

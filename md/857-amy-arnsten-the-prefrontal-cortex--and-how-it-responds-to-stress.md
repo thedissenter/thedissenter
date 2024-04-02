@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72688848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-27%2F76fe4e56-5da4-1586-d8b3-fd18cccd3632.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Professor
   of Psychology, and member of the Kavli Institute of Neuroscience at Yale University.
@@ -14,7 +13,12 @@ excerpt: Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Profess
   (IntunivTM) for the treatment of ADHD and related prefrontal cortical disorders.
 id: '857'
 image: https://i.ytimg.com/vi/oFRGaqT8hko/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/857-amy-arnsten-the-prefrontal-cortex-and-how-it/id1451347236?i=1000633888224&uo=4
 publishDate: 2023-11-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/857-Amy-Arnsten-The-Prefrontal-Cortex--and-How-It-Responds-to-Stress-e268pog
+tags:
+- Neuroscience
+- Psychology
 title: '#857 Amy Arnsten: The Prefrontal Cortex, and How It Responds to Stress'
 youtubeid: oFRGaqT8hko
 ---

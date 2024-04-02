@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18415941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F17fe1662-2668-eb4a-1c80-555663f28315.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Michael McCullough is a professor of psychology at the University of\
   \ California San Diego, where he directs the Evolution and Human Behavior Laboratory.\
@@ -12,6 +11,9 @@ excerpt: "Dr. Michael McCullough is a professor of psychology at the University 
 id: '358'
 image: https://i.ytimg.com/vi/GumI6vP7CeE/maxresdefault.jpg
 publishDate: 2020-08-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/358-Michael-McCullough-The-Kindness-of-Strangers-eiggs5
+tags:
+- Psychology
 title: '#358 Michael McCullough: The Kindness of Strangers'
 youtubeid: GumI6vP7CeE
 ---

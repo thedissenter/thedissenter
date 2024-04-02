@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707263-48000-2-1d5f80349a7f5.mp3
-category: Psychology
 draft: false
 excerpt: 'Dr. Jennifer Vonk is Professor of comparative/cognitive psychology at Oakland
   University. Her primary research interests are in two overlapping areas: animal
@@ -10,6 +9,9 @@ excerpt: 'Dr. Jennifer Vonk is Professor of comparative/cognitive psychology at 
 id: '97'
 image: https://i.ytimg.com/vi/oNgvVrlmg6M/maxresdefault.jpg
 publishDate: 2018-11-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/97-Jennifer-Vonk-Comparing-Humans-and-Other-Species--and-Primate-Cognition-e2rn65
+tags:
+- Psychology
 title: '#97 Jennifer Vonk: Comparing Humans and Other Species, and Primate Cognition'
 youtubeid: oNgvVrlmg6M
 ---

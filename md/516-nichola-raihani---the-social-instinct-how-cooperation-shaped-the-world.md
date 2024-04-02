@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38730559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2Fbfa0c886-bad2-996c-7c50-f058142b63bc.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Nichola Raihani is Professor of Evolution and Behavior at University
   College London. Her research considers the evolution of cooperation in nature. She
@@ -9,6 +8,10 @@ excerpt: 'Dr. Nichola Raihani is Professor of Evolution and Behavior at Universi
 id: '516'
 image: https://i.ytimg.com/vi/Mat0n4YnW34/maxresdefault.jpg
 publishDate: 2021-09-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/516-Nichola-Raihani---The-Social-Instinct-How-Cooperation-Shaped-the-World-e15sfbv
+tags:
+- Biology
+- Anthropology
 title: '#516 Nichola Raihani - The Social Instinct: How Cooperation Shaped the World'
 youtubeid: Mat0n4YnW34
 ---

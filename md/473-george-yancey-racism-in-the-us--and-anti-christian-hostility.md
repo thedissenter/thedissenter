@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26951645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2F87db9aed-4952-4f75-fb0e-3c4065295bb4.m4a
-category: Sociology
 draft: false
 excerpt: Dr. George Yancey is a Professor of Sociology at the Baylor University. He
   has published several research articles on the topics of institutional racial diversity,
@@ -11,6 +10,9 @@ excerpt: Dr. George Yancey is a Professor of Sociology at the Baylor University.
 id: '473'
 image: https://i.ytimg.com/vi/unL98Ow1klY/maxresdefault.jpg
 publishDate: 2021-05-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/473-George-Yancey-Racism-in-the-US--and-Anti-Christian-Hostility-eql0gt
+tags:
+- Sociology
 title: '#473 George Yancey: Racism in the US, and Anti-Christian Hostility'
 youtubeid: unL98Ow1klY
 ---

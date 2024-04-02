@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59601928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-26%2F2a64fcf6-2303-412b-3a50-70a5fe03a82f.m4a
-category: General Science
 draft: false
 excerpt: "Dr. Matthew Cobb is a Professor in the School of Biological Sciences at\
   \ the University of Manchester, where his research focuses on the sense of smell,\
@@ -10,6 +9,10 @@ excerpt: "Dr. Matthew Cobb is a Professor in the School of Biological Sciences a
 id: '704'
 image: https://i.ytimg.com/vi/X-uPvfKWZCM/maxresdefault.jpg
 publishDate: 2022-11-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/704-Matthew-Cobb---As-Gods-A-Moral-History-of-the-Genetic-Age-e1ppdi8
+tags:
+- Biology
+- General Science
 title: '#704 Matthew Cobb - As Gods: A Moral History of the Genetic Age'
 youtubeid: X-uPvfKWZCM
 ---

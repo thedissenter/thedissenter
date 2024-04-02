@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63948676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2Fbf4ca755-bf01-cf9c-cf6c-088050b554fe.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Scott Claessens is a Postdoctoral Research Fellow at the University of
   Auckland. He studies the biological and cultural evolution of human cooperation.
@@ -8,7 +7,11 @@ excerpt: Dr. Scott Claessens is a Postdoctoral Research Fellow at the University
   light on how and why we give to others.
 id: '791'
 image: https://i.ytimg.com/vi/OQS6zoqpWrQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/791-scott-claessens-human-cooperation-religiosity-and/id1451347236?i=1000615759845&uo=4
 publishDate: 2023-06-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/791-Scott-Claessens-Human-Cooperation--Religiosity--and-Cross-National-Analyses-e1tu2e4
+tags:
+- Anthropology
 title: '#791 Scott Claessens: Human Cooperation, Religiosity, and Cross-National Analyses'
 youtubeid: OQS6zoqpWrQ
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016805/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778288-44100-2-d527f5273f894.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Igor Grossmann is Associate Professor of Psychology at the University\
   \ of Waterloo, Canada. He\u2019s been the recipient of several awards, including\
@@ -14,6 +13,9 @@ excerpt: "Dr. Igor Grossmann is Associate Professor of Psychology at the Univers
 id: '129'
 image: https://i.ytimg.com/vi/qXtgnNfsRQ4/maxresdefault.jpg
 publishDate: 2019-01-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/129-Igor-Grossmann-Culture--Emotion-Regulation--and-Wisdom-e2s235
+tags:
+- Psychology
 title: '#129 Igor Grossmann: Culture, Emotion Regulation, and Wisdom'
 youtubeid: qXtgnNfsRQ4
 ---

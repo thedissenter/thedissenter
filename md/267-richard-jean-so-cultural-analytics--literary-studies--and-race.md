@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4938408/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-29%2F25293592-44100-2-8f69e28816124.m4a
-category: Cultural Analytics
 draft: false
 excerpt: 'Dr. Richard Jean So is Assistant Professor of English and Cultural Analytics
   at McGill University in Montreal. Previously, he served as an assistant professor
@@ -15,6 +14,9 @@ excerpt: 'Dr. Richard Jean So is Assistant Professor of English and Cultural Ana
 id: '267'
 image: https://i.ytimg.com/vi/kaaNQBH-Xzg/maxresdefault.jpg
 publishDate: 2019-12-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/267-Richard-Jean-So-Cultural-Analytics--Literary-Studies--And-Race-e5l778
+tags:
+- Cultural Analytics
 title: '#267 Richard Jean So: Cultural Analytics, Literary Studies, And Race'
 youtubeid: kaaNQBH-Xzg
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43234416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Ff0203b15-d3bc-e1df-b1db-eedfddfc7ef1.m4a
-category: Psychology
 draft: false
 excerpt: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality\
   \ traits, thinking styles, and worldviews give rise to maladaptive political attitudes\
@@ -11,6 +10,9 @@ excerpt: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain pers
 id: '590'
 image: https://i.ytimg.com/vi/jvGZ1popoVo/maxresdefault.jpg
 publishDate: 2022-02-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/590-Thomas-Costello-Authoritarianism-on-the-Right-and-the-Left--and-Sexual-Objectification-e1a5tlg
+tags:
+- Psychology
 title: '#590 Thomas Costello: Authoritarianism on the Right and the Left, and Sexual
   Objectification'
 youtubeid: jvGZ1popoVo

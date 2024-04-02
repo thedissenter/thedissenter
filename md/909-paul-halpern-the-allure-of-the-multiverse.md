@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/82772495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-16%2F14bbe531-9a47-bcd5-68ee-ed1646aff11d.m4a
-category: Physics
 draft: false
 excerpt: 'Dr. Paul Halpern is Professor of Physics at Saint Joseph''s University in
   Philadelphia. Dr. Halpern''s areas of expertise include the history of physics,
@@ -9,7 +8,11 @@ excerpt: 'Dr. Paul Halpern is Professor of Physics at Saint Joseph''s University
   Extra Dimensions, Other Worlds, and Parallel Universes.'
 id: '909'
 image: https://i.ytimg.com/vi/10hTMxOWZGY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/909-paul-halpern-the-allure-of-the-multiverse/id1451347236?i=1000648391958&uo=4
 publishDate: 2024-03-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/909-Paul-Halpern-The-Allure-of-the-Multiverse-e2fsh2f
+tags:
+- Physics
 title: '#909 Paul Halpern: The Allure of the Multiverse'
 youtubeid: 10hTMxOWZGY
 ---

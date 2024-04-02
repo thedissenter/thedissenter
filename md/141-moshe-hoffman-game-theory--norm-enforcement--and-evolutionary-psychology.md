@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121898-44100-2-9449ed5da7075.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
   Harvard's Department of Economics. He applies game theory, models of learning and
@@ -13,6 +12,9 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
 id: '141'
 image: https://i.ytimg.com/vi/wgBDc5q6rhY/maxresdefault.jpg
 publishDate: 2019-02-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/141-Moshe-Hoffman-Game-Theory--Norm-Enforcement--and-Evolutionary-Psychology-e32tm4
+tags:
+- Psychology
 title: '#141 Moshe Hoffman: Game Theory, Norm Enforcement, and Evolutionary Psychology'
 youtubeid: wgBDc5q6rhY
 ---

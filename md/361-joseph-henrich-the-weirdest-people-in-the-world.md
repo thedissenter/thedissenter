@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary
   Biology at Harvard University. He is interested in the question of how humans evolved
@@ -11,6 +10,10 @@ excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human E
 id: '361'
 image: https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg
 publishDate: 2020-09-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/361-Joseph-Henrich-The-WEIRDest-People-in-the-World-eigh1l
+tags:
+- Anthropology
+- Psychology
 title: '#361 Joseph Henrich: The WEIRDest People in the World'
 youtubeid: cN3w_cSAsmg
 ---

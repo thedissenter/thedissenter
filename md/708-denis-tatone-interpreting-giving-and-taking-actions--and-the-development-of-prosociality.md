@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57436778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-12%2F03cd1d2b-cca4-5853-bac3-d5a289515707.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development Center
   at Central European University. He is a cognitive scientist broadly interested in
@@ -11,6 +10,9 @@ excerpt: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development 
 id: '708'
 image: https://i.ytimg.com/vi/QPJjyIkSjPo/maxresdefault.jpg
 publishDate: 2022-11-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/708-Denis-Tatone-Interpreting-Giving-and-Taking-Actions--and-the-Development-of-Prosociality-e1nnb5a
+tags:
+- Psychology
 title: '#708 Denis Tatone: Interpreting Giving and Taking Actions, and the Development
   of Prosociality'
 youtubeid: QPJjyIkSjPo

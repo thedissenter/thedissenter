@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72634211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-26%2Fbb494fdd-8c57-02cc-b59d-0601ad4d75cd.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychology
   & Linguistics and Director of the Cognition and Development lab at Yale University.
@@ -14,7 +13,11 @@ excerpt: 'Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychol
   of Mind and Behavior, and other books.'
 id: '856'
 image: https://i.ytimg.com/vi/_3Br_iGfRaQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/856-frank-keil-the-development-of-causal/id1451347236?i=1000633629070&uo=4
 publishDate: 2023-11-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/856-Frank-Keil-The-Development-of-Causal-Thinking--Explanation--and-the-Institution-of-Science-e2674d3
+tags:
+- Psychology
 title: '#856 Frank Keil: The Development of Causal Thinking, Explanation, and the
   Institution of Science'
 youtubeid: _3Br_iGfRaQ

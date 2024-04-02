@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/13162469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69294900-44100-2-4cb4d968e12dd.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psychology\
   \ at the University of New Mexico. In his work he explores a wide range of topics\
@@ -16,6 +15,9 @@ excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psyc
 id: '343'
 image: https://i.ytimg.com/vi/4NVj6mCDJ5M/maxresdefault.jpg
 publishDate: 2020-06-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/343-Marco-Del-Giudice-The-Evolutionary-Psychology-of-Gender-Differences-Part-1-edg6h5
+tags:
+- Psychology
 title: '#343 Marco Del Giudice: The Evolutionary Psychology of Gender Differences
   (Part 1)'
 youtubeid: 4NVj6mCDJ5M

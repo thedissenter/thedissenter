@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/29490119/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2F3ca1f806-4b26-b643-872e-b681a75afac8.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlantic\
   \ University where he teaches graduate and undergraduate courses in developmental\
@@ -15,6 +14,10 @@ excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlanti
 id: '484'
 image: https://i.ytimg.com/vi/h7GwTi83LwE/maxresdefault.jpg
 publishDate: 2021-06-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/484-David-Bjorklund-How-Children-Invented-Humanity-The-Role-of-Development-in-Human-Evolution-et2fg7
+tags:
+- Anthropology
+- Psychology
 title: '#484 David Bjorklund - How Children Invented Humanity: The Role of Development
   in Human Evolution'
 youtubeid: h7GwTi83LwE

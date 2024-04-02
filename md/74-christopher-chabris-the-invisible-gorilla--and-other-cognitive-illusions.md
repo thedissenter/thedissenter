@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682039-44100-2-a4843a671da15.mp3
-category: Psychology
 draft: false
 excerpt: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare
   system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study
@@ -14,6 +13,9 @@ excerpt: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated hea
 id: '74'
 image: https://i.ytimg.com/vi/p4rz_8sjW9Y/maxresdefault.jpg
 publishDate: 2018-09-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/74-Christopher-Chabris-The-Invisible-Gorilla--and-Other-Cognitive-Illusions-e2rj94
+tags:
+- Psychology
 title: '#74 Christopher Chabris: The Invisible Gorilla, and Other Cognitive Illusions'
 youtubeid: p4rz_8sjW9Y
 ---

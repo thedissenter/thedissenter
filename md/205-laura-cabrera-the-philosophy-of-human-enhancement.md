@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3575566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-15%2F17013156-44100-2-5f36f52c29af1.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Laura Cabrera is Assistant Professor in the Center for Ethics and Humanities\
   \ in the Life Sciences and the Department of Translational Science & Molecular Medicine\
@@ -17,6 +16,9 @@ excerpt: "Dr. Laura Cabrera is Assistant Professor in the Center for Ethics and 
 id: '205'
 image: https://i.ytimg.com/vi/YcB8cqoVS1o/maxresdefault.jpg
 publishDate: 2019-07-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/205-Laura-Cabrera-The-Philosophy-of-Human-Enhancement-e4bkae
+tags:
+- Philosophy
 title: '#205 Laura Cabrera: The Philosophy of Human Enhancement'
 youtubeid: YcB8cqoVS1o
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/79380784/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-30%2Fb0f2f0f1-8e6c-b4b5-2e40-f187c228408d.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Heather Berlin is an Associate Clinical Professor of Psychiatry and Neuroscience
   at Icahn School of Medicine at Mount Sinai in New York City. She explores the neural
@@ -10,7 +9,12 @@ excerpt: Dr. Heather Berlin is an Associate Clinical Professor of Psychiatry and
   in lifespan treatment of anxiety, mood, and impulsive and compulsive disorders.
 id: '872'
 image: https://i.ytimg.com/vi/PdvjXz9RKjw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/872-heather-berlin-impulsive-and-compulsive-disorders/id1451347236?i=1000638228834&uo=4
 publishDate: 2023-12-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/872-Heather-Berlin-Impulsive-and-Compulsive-Disorders--and-the-Study-of-Consciousness-e2cl0rg
+tags:
+- Neuroscience
+- Psychology
 title: '#872 Heather Berlin: Impulsive and Compulsive Disorders, and the Study of
   Consciousness'
 youtubeid: PdvjXz9RKjw

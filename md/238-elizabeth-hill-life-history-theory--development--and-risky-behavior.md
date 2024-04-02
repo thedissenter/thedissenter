@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4166859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635738-44100-2-cab65bd317a0f.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Elizabeth Hill is Professor of Psychology at the University of Detroit
   Mercy. Dr. Hill received her Ph.D. in Experimental Psychology from Tulane University.
@@ -17,6 +16,9 @@ excerpt: Dr. Elizabeth Hill is Professor of Psychology at the University of Detr
 id: '238'
 image: https://i.ytimg.com/vi/KX5qwPukOq4/maxresdefault.jpg
 publishDate: 2019-10-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/238-Elizabeth-Hill-Life-History-Theory--Development--And-Risky-Behavior-e4tlob
+tags:
+- Psychology
 title: '#238 Elizabeth Hill: Life History Theory, Development, And Risky Behavior'
 youtubeid: KX5qwPukOq4
 ---

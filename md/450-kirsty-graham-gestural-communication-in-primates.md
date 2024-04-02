@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25460734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2Fe5646fb6-d191-eda6-a7e1-173c78657fcd.m4a
-category: Biology
 draft: false
 excerpt: Dr. Kirsty Graham is Research Associate at the University of St. Andrews.
   Her PhD research, supervised by Prof. Richard Byrne, catalogued the full gestural
@@ -12,6 +11,9 @@ excerpt: Dr. Kirsty Graham is Research Associate at the University of St. Andrew
 id: '450'
 image: https://i.ytimg.com/vi/40D_v4P5C7s/maxresdefault.jpg
 publishDate: 2021-04-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/450-Kirsty-Graham-Gestural-Communication-in-Primates-ep7ghu
+tags:
+- Biology
 title: '#450 Kirsty Graham: Gestural Communication in Primates'
 youtubeid: 40D_v4P5C7s
 ---

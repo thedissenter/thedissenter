@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7683508-48000-2-957fe7cb44e97.mp3
-category: Philosophy
 draft: false
 excerpt: 'Dr. Stephen Hicks teaches at Rockford University, where he also directs
   the Center for Ethics and Entrepreneurship. He is the author of books like Explaining
@@ -12,6 +11,9 @@ excerpt: 'Dr. Stephen Hicks teaches at Rockford University, where he also direct
 id: '80'
 image: https://i.ytimg.com/vi/kSrLt14wQhA/maxresdefault.jpg
 publishDate: 2018-10-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/80-Stephen-Hicks-Nietzsche--the-Nazis--and-the-Postmodernists-e2rjh3
+tags:
+- Philosophy
 title: '#80 Stephen Hicks: Nietzsche, the Nazis, and the Postmodernists'
 youtubeid: kSrLt14wQhA
 ---

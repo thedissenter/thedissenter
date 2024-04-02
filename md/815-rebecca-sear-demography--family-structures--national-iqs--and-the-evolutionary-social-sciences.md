@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73606596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-19%2F4619c15b-a8d7-a5fd-211a-237506a7f971.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Rebecca Sear is a demographer and anthropologist at the London School
   of Hygiene and Tropical Medicine (LSHTM), teaching demography and researching human
@@ -9,7 +8,11 @@ excerpt: Dr. Rebecca Sear is a demographer and anthropologist at the London Scho
   and exploring why such behavior varies between, as well as within, populations.
 id: '815'
 image: https://i.ytimg.com/vi/TXRbi7Vi1S0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/815-rebecca-sear-demography-family-structures-national/id1451347236?i=1000622960711&uo=4
 publishDate: 2023-07-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/815-Rebecca-Sear-Demography--Family-Structures--National-IQs--and-the-Evolutionary-Social-Sciences-e274q04
+tags:
+- Anthropology
 title: '#815 Rebecca Sear: Demography, Family Structures, National IQs, and the Evolutionary
   Social Sciences'
 youtubeid: TXRbi7Vi1S0

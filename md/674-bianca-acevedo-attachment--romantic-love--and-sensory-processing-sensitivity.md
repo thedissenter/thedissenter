@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/56493757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-22%2Fe19fa54d-cbdd-1b6d-0dd2-af691410691b.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Bianca Acevedo is an Instructor at New York University. She is a social
   neuroscientist whose research focuses on the neural basis of attachment, caregiving,
@@ -15,6 +14,10 @@ excerpt: Dr. Bianca Acevedo is an Instructor at New York University. She is a so
 id: '674'
 image: https://i.ytimg.com/vi/0ohyYxbcGEo/maxresdefault.jpg
 publishDate: 2022-09-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/674-Bianca-Acevedo-Attachment--Romantic-Love--and-Sensory-Processing-Sensitivity-e1mqi7t
+tags:
+- Neuroscience
+- Psychology
 title: '#674 Bianca Acevedo: Attachment, Romantic Love, and Sensory Processing Sensitivity'
 youtubeid: 0ohyYxbcGEo
 ---

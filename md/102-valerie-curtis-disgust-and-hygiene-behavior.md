@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7708373-44100-2-0cd86523827a9.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Valerie Curtis is Director of the Environmental Health Group, a multidisciplinary\
   \ group researching hygiene, sanitation and water (WASH), at the London School Hygiene\
@@ -11,6 +10,9 @@ excerpt: "Dr. Valerie Curtis is Director of the Environmental Health Group, a mu
 id: '102'
 image: https://i.ytimg.com/vi/PiYDxOY9Pp8/maxresdefault.jpg
 publishDate: 2018-11-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/102-Valerie-Curtis-Disgust-and-Hygiene-Behavior-e2rnb7
+tags:
+- Psychology
 title: '#102 Valerie Curtis: Disgust and Hygiene Behavior'
 youtubeid: PiYDxOY9Pp8
 ---

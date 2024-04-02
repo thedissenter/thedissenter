@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46819363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2F6c64fdb6-a4d0-bdfb-aef9-5f2ba6b1e58f.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History
   of Science at Boston University. He is interested in comparative methodology across
@@ -11,6 +10,10 @@ excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and
 id: '618'
 image: https://i.ytimg.com/vi/paQWuuFKAS0/maxresdefault.jpg
 publishDate: 2022-04-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/618-Lee-McIntyre---How-to-Talk-to-a-Science-Denier-e1djaj3
+tags:
+- General Science
+- Philosophy
 title: '#618 Lee McIntyre - How to Talk to a Science Denier'
 youtubeid: paQWuuFKAS0
 ---

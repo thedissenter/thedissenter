@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65523063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F82829df2-9ebb-a27f-04f6-f538d5e6ad26.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy
   at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral
@@ -8,7 +7,12 @@ excerpt: 'Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of
   Morals: Varieties of Moral Possibility.'
 id: '795'
 image: https://i.ytimg.com/vi/1jEyXTmzdzM/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/795-owen-flanagan-the-geography-of-morals/id1451347236?i=1000617183730&uo=4
 publishDate: 2023-06-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/795-Owen-Flanagan---The-Geography-of-Morals-Varieties-of-Moral-Possibility-e1ve3tn
+tags:
+- Anthropology
+- Philosophy
 title: '#795 Owen Flanagan - The Geography of Morals: Varieties of Moral Possibility'
 youtubeid: 1jEyXTmzdzM
 ---

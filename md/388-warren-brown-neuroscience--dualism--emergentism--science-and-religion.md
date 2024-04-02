@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19451653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2F80726dea-db7f-a5f3-b0f6-9653d4e157a5.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Warren Brown is Director of the Lee Edwards Travis Research Institute\
   \ and Professor of Psychology in the Department of Doctoral Psychology at Fuller\
@@ -20,6 +19,9 @@ excerpt: "Dr. Warren Brown is Director of the Lee Edwards Travis Research Instit
 id: '388'
 image: https://i.ytimg.com/vi/gcOAvmn8lZM/maxresdefault.jpg
 publishDate: 2020-11-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/388-Warren-Brown-Neuroscience--Dualism--Emergentism--Science-and-Religion-ejg4a5
+tags:
+- Neuroscience
 title: '#388 Warren Brown: Neuroscience, Dualism, Emergentism, Science and Religion'
 youtubeid: gcOAvmn8lZM
 ---

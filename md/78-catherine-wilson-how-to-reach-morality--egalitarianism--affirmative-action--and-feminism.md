@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682496-44100-2-af9111284a3f3.mp3
-category: Philosophy
 draft: false
 excerpt: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the University\
   \ of York. She holds degrees in Philosophy from Yale, Oxford and Princeton and has\
@@ -12,6 +11,9 @@ excerpt: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the Uni
 id: '78'
 image: https://i.ytimg.com/vi/cWKDCe2JdQw/maxresdefault.jpg
 publishDate: 2018-09-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/78-Catherine-Wilson-How-to-Reach-Morality--Egalitarianism--Affirmative-Action--and-Feminism-e2rjfs
+tags:
+- Philosophy
 title: '#78 Catherine Wilson: How to Reach Morality, Egalitarianism, Affirmative Action,
   and Feminism'
 youtubeid: cWKDCe2JdQw

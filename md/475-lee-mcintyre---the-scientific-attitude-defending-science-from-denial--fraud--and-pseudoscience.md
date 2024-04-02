@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26952048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-19%2F5b50e817-83f9-a76e-8f61-64ed94d00b41.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History
   of Science at Boston University. He is interested in comparative methodology across
@@ -9,6 +8,9 @@ excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and
 id: '475'
 image: https://i.ytimg.com/vi/v4weV-yo1PE/maxresdefault.jpg
 publishDate: 2021-05-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/475-Lee-McIntyre---The-Scientific-Attitude-Defending-Science-from-Denial--Fraud--and-Pseudoscience-eql0tg
+tags:
+- Philosophy
 title: '#475 Lee McIntyre - The Scientific Attitude: Defending Science from Denial,
   Fraud, and Pseudoscience'
 youtubeid: v4weV-yo1PE

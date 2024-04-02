@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22892303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2F607c70d3-9fe9-a228-2cf6-a0ea2e0ab1b9.m4a
-category: Artificial Intelligence
 draft: false
 excerpt: 'Dr. Stuart Russell is a Professor of Computer Science at the University
   of California, Berkeley, where he also holds the Smith-Zadeh Chair in Engineering.
@@ -17,6 +16,9 @@ excerpt: 'Dr. Stuart Russell is a Professor of Computer Science at the Universit
 id: '398'
 image: https://i.ytimg.com/vi/cZ4U2TKoNXs/maxresdefault.jpg
 publishDate: 2020-11-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/398-Stuart-Russell-Human-Level-AI--How-Worried-We-Should-Be-About-AI--and-Its-Present-and-Future-emp4af
+tags:
+- Artificial Intelligence
 title: '#398 Stuart Russell: Human-Level AI, How Worried We Should Be About AI, and
   Its Present and Future'
 youtubeid: cZ4U2TKoNXs

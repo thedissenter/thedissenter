@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/14132154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75649864-44100-2-19626772eace2.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the
   Department of Philosophy and Lyman Briggs College at Michigan State University.
@@ -12,6 +11,12 @@ excerpt: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in 
 id: '348'
 image: https://i.ytimg.com/vi/UXm_7WVjNdo/maxresdefault.jpg
 publishDate: 2020-07-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/348-Robyn-Bluhm-Medicine--Psychiatry--And-Neurosexism-eedpfq
+tags:
+- Cognitive Science
+- Neuroscience
+- Philosophy
+- Psychology
 title: '#348 Robyn Bluhm: Medicine, Psychiatry, And Neurosexism'
 youtubeid: UXm_7WVjNdo
 ---

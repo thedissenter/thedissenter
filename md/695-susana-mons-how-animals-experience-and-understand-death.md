@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59008672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-13%2F5b4e885b-d358-b8f5-d8ae-c2121df5e481.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Logic,\
   \ History and Philosophy of Science at Universidad Nacional de Educaci\xF3n a Distancia.\
@@ -12,6 +11,10 @@ excerpt: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Log
 id: '695'
 image: https://i.ytimg.com/vi/DhXS94-0QTo/maxresdefault.jpg
 publishDate: 2022-10-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/695-Susana-Mons-How-Animals-Experience-and-Understand-Death-e1p7a70
+tags:
+- Biology
+- Philosophy
 title: "#695 Susana Mons\xF3: How Animals Experience and Understand Death"
 youtubeid: DhXS94-0QTo
 ---

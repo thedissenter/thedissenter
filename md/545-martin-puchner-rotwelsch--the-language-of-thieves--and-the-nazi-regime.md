@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38007104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F3fdad199-868d-e02e-3860-ca976ba26f29.m4a
-category: Linguistics
 draft: false
 excerpt: 'Dr. Martin Puchner is the Byron and Anita Wien Professor of Drama and of
   English and Comparative Literature at Harvard University. He serves as the founding
@@ -10,6 +9,10 @@ excerpt: 'Dr. Martin Puchner is the Byron and Anita Wien Professor of Drama and 
 id: '545'
 image: https://i.ytimg.com/vi/bKVi9O9jpb0/maxresdefault.jpg
 publishDate: 2021-11-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/545-Martin-Puchner-Rotwelsch--The-Language-of-Thieves--and-the-Nazi-Regime-e156cs0
+tags:
+- Linguistics
+- History
 title: '#545 Martin Puchner: Rotwelsch, The Language of Thieves, and the Nazi Regime'
 youtubeid: bKVi9O9jpb0
 ---

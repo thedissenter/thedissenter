@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215428/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623364-44100-2-7b65de65baf65.m4a
-category: Biology
 draft: false
 excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the University\
   \ of Washington. He has written, edited or co-authored 40 books, including ones\
@@ -14,6 +13,9 @@ excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the Univers
 id: '200'
 image: https://i.ytimg.com/vi/hvUxxivLMy8/maxresdefault.jpg
 publishDate: 2019-07-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/200-David-Barash-Mysteries-of-Human-Evolution--Sexuality--And-Consciousness-e40kk4
+tags:
+- Biology
 title: '#200 David Barash: Mysteries of Human Evolution, Sexuality, And Consciousness'
 youtubeid: hvUxxivLMy8
 ---

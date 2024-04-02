@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651377-44100-2-1780779145e2b.mp3
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: 'Gapminder Foundation is a non-profit venture based in Stockholm, Sweden,
   that promotes sustainable global development and achievement of the United Nations
@@ -10,6 +9,10 @@ excerpt: 'Gapminder Foundation is a non-profit venture based in Stockholm, Swede
 id: '60'
 image: https://i.ytimg.com/vi/8OdjmgUhTnM/maxresdefault.jpg
 publishDate: 2018-08-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/60-Fernanda-Drumond-Gapminder-The-Right-Way-to-Look-at-Progress-e2rf9o
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Economics
 title: '#60 Fernanda Drumond (Gapminder): The Right Way to Look at Progress'
 youtubeid: 8OdjmgUhTnM
 ---

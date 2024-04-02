@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47114361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fbe60a3b8-fcdf-c606-e4e1-ed0e47ccc7bb.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Jessica Isserow is a Lecturer in Moral and Political Philosophy at the
   School of Philosophy, Religion and History of Science at the University of Leeds.
@@ -8,6 +7,9 @@ excerpt: Dr. Jessica Isserow is a Lecturer in Moral and Political Philosophy at 
 id: '622'
 image: https://i.ytimg.com/vi/TzGbVBCFnxQ/maxresdefault.jpg
 publishDate: 2022-05-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/622-Jessica-Isserow-Moral-Hypocrisy--Moral-Worth--Debunking-Arguments--and-Moral-Nihilism-e1dsalp
+tags:
+- Philosophy
 title: '#622 Jessica Isserow: Moral Hypocrisy, Moral Worth, Debunking Arguments, and
   Moral Nihilism'
 youtubeid: TzGbVBCFnxQ

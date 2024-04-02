@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35294929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F1a031c81-1a71-396c-35ff-762bbee11569.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Jaimie Krems is Assistant Professor of Psychology at Oklahoma State
   University. Dr. Krems is a social psychologist with interdisciplinary training.
@@ -11,6 +10,9 @@ excerpt: 'Dr. Jaimie Krems is Assistant Professor of Psychology at Oklahoma Stat
 id: '522'
 image: https://i.ytimg.com/vi/U6FDz4d6PNY/maxresdefault.jpg
 publishDate: 2021-09-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/522-Jaimie-Krems-Female-Friendships--Stereotypes--and-Religion-and-Monogamy-e12jk8h
+tags:
+- Psychology
 title: '#522 Jaimie Krems: Female Friendships, Stereotypes, and Religion and Monogamy'
 youtubeid: U6FDz4d6PNY
 ---

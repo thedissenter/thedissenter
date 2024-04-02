@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651234-44100-2-cd94668eaceb4.mp3
-category: Primatology
 draft: false
 excerpt: "Dr. Peter Kappeler is a Professor at the faculty of Zoology and Anthropology\
   \ at G\xF6ttingen University, Germany, and at the Behavioral Ecology & Sociobiology\
@@ -11,6 +10,9 @@ excerpt: "Dr. Peter Kappeler is a Professor at the faculty of Zoology and Anthro
 id: '59'
 image: https://i.ytimg.com/vi/2KCDXDnbS9g/maxresdefault.jpg
 publishDate: 2018-08-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/59-Peter-Kappeler-Sexual-and-Mating-Dynamics-in-Primate-Species--Human-Universals-e2rf8v
+tags:
+- Primatology
 title: '#59 Peter Kappeler: Sexual and Mating Dynamics in Primate Species, Human Universals'
 youtubeid: 2KCDXDnbS9g
 ---

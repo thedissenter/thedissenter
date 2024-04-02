@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4082127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20119036-44100-2-a67864c2256d2.m4a
-category: Medicine
 draft: false
 excerpt: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Founding\
   \ Director in The Center for Evolution and Medicine at Arizona State University,\
@@ -17,6 +16,10 @@ excerpt: "Dr. Randolph Nesse is Foundation Professor of Life Sciences and Foundi
 id: '233'
 image: https://i.ytimg.com/vi/o29wuO0AJUA/maxresdefault.jpg
 publishDate: 2019-09-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/233-Randolph-Nesse-Good-Reasons-for-Bad-Feelings-e4r30f
+tags:
+- Medicine
+- Psychology
 title: '#233 Randolph Nesse: Good Reasons for Bad Feelings'
 youtubeid: o29wuO0AJUA
 ---

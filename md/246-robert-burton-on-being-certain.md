@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4338902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594679-44100-2-1d95a0b1b0864.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Robert A. Burton graduated from Yale University and the University of
   California at San Francisco medical school, where he also completed his neurology
@@ -14,6 +13,10 @@ excerpt: 'Dr. Robert A. Burton graduated from Yale University and the University
 id: '246'
 image: https://i.ytimg.com/vi/xrd1Q55U7Ls/maxresdefault.jpg
 publishDate: 2019-10-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/246-Robert-Burton-On-Being-Certain-e52tom
+tags:
+- Cognitive Science
+- Psychology
 title: '#246 Robert Burton: On Being Certain'
 youtubeid: xrd1Q55U7Ls
 ---

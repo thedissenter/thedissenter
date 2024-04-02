@@ -1,11 +1,15 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10230445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47229878-44100-2-fcd721b618932.m4a
-category: Neuroscience
 draft: false
 excerpt: ''
 id: '321'
 image: https://i.ytimg.com/vi/mOK8fw4tsO8/maxresdefault.jpg
 publishDate: 2020-04-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/321-Dick-Swaab-The-Neuroscience-of-Gender-Identity-and-Sexual-Orientation-eamn7d
+tags:
+- Cognitive Science
+- Neuroscience
+- Psychology
 title: '#321 Dick Swaab: The Neuroscience of Gender Identity and Sexual Orientation'
 youtubeid: mOK8fw4tsO8
 ---

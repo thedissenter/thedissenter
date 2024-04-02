@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/21907104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2Ff3eaeaa5-610e-36ab-4954-acc84fad45bc.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Michael Anderson is Rotman Canada Research Chair in Philosophy of Science,
   Core member at the Rotman Institute of Philosophy, and Core member at the Brain
@@ -15,6 +14,10 @@ excerpt: Dr. Michael Anderson is Rotman Canada Research Chair in Philosophy of S
 id: '413'
 image: https://i.ytimg.com/vi/ciwKgLHowNc/maxresdefault.jpg
 publishDate: 2021-01-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/413-Michael-Anderson-Understanding-How-The-Brain-Evolved-elr270
+tags:
+- Cognitive Science
+- Neuroscience
 title: '#413 Michael Anderson: Understanding How The Brain Evolved'
 youtubeid: ciwKgLHowNc
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2856284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-6%2F12454014-44100-2-ae91fc10b6437.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlantic\
   \ University where he teaches graduate and undergraduate courses in developmental\
@@ -17,6 +16,9 @@ excerpt: "Dr. David F. Bjorklund is a Professor of Psychology at Florida Atlanti
 id: '182'
 image: https://i.ytimg.com/vi/MoLk2KRCKu8/maxresdefault.jpg
 publishDate: 2019-05-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/182-David-Bjorklund-Evolution--Child-Development--And-Modern-Environments-e3llss
+tags:
+- Psychology
 title: '#182 David Bjorklund: Evolution, Child Development, And Modern Environments'
 youtubeid: MoLk2KRCKu8
 ---

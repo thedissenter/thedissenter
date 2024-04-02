@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52620389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-26%2Fd126414a-6a45-e232-2904-7d86475c051d.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape Town\
   \ in Cape Town, South Africa. He is best known for his advocacy of anti-natalism\
@@ -12,6 +11,9 @@ excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape
 id: '657'
 image: https://i.ytimg.com/vi/R9KGLcsmRas/maxresdefault.jpg
 publishDate: 2022-07-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/657-David-Benatar---The-Fall-of-the-University-of-Cape-Town-Africas-Leading-University-in-Decline-e1j4bl5
+tags:
+- Philosophy
 title: "#657 David Benatar - The Fall of the University of Cape Town: Africa\u2019\
   s Leading University in Decline"
 youtubeid: R9KGLcsmRas

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4541732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706594-44100-2-55192776195e4.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at the
   University of California, Santa Barbara, chair of the Integrative Anthropological
@@ -14,6 +13,9 @@ excerpt: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at
 id: '254'
 image: https://i.ytimg.com/vi/p1DRuvoRQdg/maxresdefault.jpg
 publishDate: 2019-11-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/254-Michael-Gurven-Division-Of-Labor--Polygyny--And-Personality-Across-Societies-e593r4
+tags:
+- Anthropology
 title: '#254 Michael Gurven: Division of Labor, Polygyny, and Personality Across Societies'
 youtubeid: p1DRuvoRQdg
 ---

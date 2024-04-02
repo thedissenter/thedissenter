@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16794282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F85748945-e1e8-a2eb-19be-99cda050e1d5.m4a
-category: Game Theory
 draft: false
 excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
   Harvard's Department of Economics. He applies game theory, models of learning and
@@ -13,6 +12,9 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
 id: '374'
 image: https://i.ytimg.com/vi/YZ0Iwx3PgDs/maxresdefault.jpg
 publishDate: 2020-10-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/374-Moshe-Hoffman-Incentives--Preferences--and-Reason-egv17a
+tags:
+- Game Theory
 title: '#374 Moshe Hoffman: Incentives, Preferences, and Reason'
 youtubeid: YZ0Iwx3PgDs
 ---

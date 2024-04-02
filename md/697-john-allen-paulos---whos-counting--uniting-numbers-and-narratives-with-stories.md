@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59247702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-18%2F6dcb6ca5-2402-6405-f8d3-0db2b9da81b0.m4a
-category: General Science
 draft: false
 excerpt: "Dr. John Allen Paulos is a Professor of Mathematics at Temple University.\
   \ He has written scholarly papers on probability, logic, and the philosophy of science\
@@ -15,6 +14,9 @@ excerpt: "Dr. John Allen Paulos is a Professor of Mathematics at Temple Universi
 id: '697'
 image: https://i.ytimg.com/vi/S6Z6gBQTa9Y/maxresdefault.jpg
 publishDate: 2022-10-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/697-John-Allen-Paulos---Whos-Counting--Uniting-Numbers-and-Narratives-with-Stories-e1pejkm
+tags:
+- General Science
 title: "#697 John Allen Paulos - Who\u2019s Counting?; Uniting Numbers and Narratives\
   \ with Stories"
 youtubeid: S6Z6gBQTa9Y

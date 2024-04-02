@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4434193/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22137870-44100-2-763f00b9515c1.m4a
-category: Politics
 draft: false
 excerpt: "Dr. Rachel Kleinfeld is a senior fellow at the Carnegie Endowment for International\
   \ Peace. She\u2019s a leading expert on how democracies \u2013 including the United\
@@ -17,6 +16,9 @@ excerpt: "Dr. Rachel Kleinfeld is a senior fellow at the Carnegie Endowment for 
 id: '250'
 image: https://i.ytimg.com/vi/6Zx-Wcf2wVM/maxresdefault.jpg
 publishDate: 2019-11-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/250-Rachel-Kleinfeld-A-Savage-Order-Decivilization--Dirty-Deals--And-Recivilization-e55qqh
+tags:
+- Politics
 title: '#250 Rachel Kleinfeld: A Savage Order; Decivilization, Dirty Deals, And Recivilization'
 youtubeid: 6Zx-Wcf2wVM
 ---

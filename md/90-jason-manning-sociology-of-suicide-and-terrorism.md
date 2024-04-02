@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706975-44100-2-f8cb0a92ed3fa.mp3
-category: Sociology
 draft: false
 excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia\
   \ University. He\u2019s a theoretical sociologist who seeks to develop general explanations\
@@ -13,6 +12,9 @@ excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virgi
 id: '90'
 image: https://i.ytimg.com/vi/qJZW76s3Ixw/maxresdefault.jpg
 publishDate: 2018-10-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/90-Jason-Manning-Sociology-of-Suicide-and-Terrorism-e2rn3s
+tags:
+- Sociology
 title: '#90 Jason Manning: Sociology of Suicide and Terrorism'
 youtubeid: qJZW76s3Ixw
 ---

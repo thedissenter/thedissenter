@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/5803691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-10%2F27460931-44100-2-c07f97937822f.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management\
   \ and Organizations at Northwestern University. She currently holds the James Padilla\
@@ -17,6 +16,9 @@ excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Managemen
 id: '271'
 image: https://i.ytimg.com/vi/gPsXpDIE0LA/maxresdefault.jpg
 publishDate: 2019-12-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/271-Alice-Eagly-The-Psychology-Of-Gender--And-Gender-Equality-e6fk7b
+tags:
+- Psychology
 title: '#271 Alice Eagly: The Psychology Of Gender, and Gender Equality'
 youtubeid: gPsXpDIE0LA
 ---

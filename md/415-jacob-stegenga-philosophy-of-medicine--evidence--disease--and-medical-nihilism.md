@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22160181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2F86d3da0b-a843-6803-5f0e-f9400d78e4cc.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Jacob Stegenga is a Reader in the Department of History and Philosophy
   of Science at the University of Cambridge. He has published widely on fundamental
@@ -12,6 +11,9 @@ excerpt: 'Dr. Jacob Stegenga is a Reader in the Department of History and Philos
 id: '415'
 image: https://i.ytimg.com/vi/vmMxM-o9C50/maxresdefault.jpg
 publishDate: 2021-01-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/415-Jacob-Stegenga-Philosophy-of-Medicine--Evidence--Disease--and-Medical-Nihilism-em2pbl
+tags:
+- Philosophy
 title: '#415 Jacob Stegenga: Philosophy of Medicine, Evidence, Disease, and Medical
   Nihilism'
 youtubeid: vmMxM-o9C50

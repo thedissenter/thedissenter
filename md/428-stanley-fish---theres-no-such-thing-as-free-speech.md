@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24638396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F6e66cc05-198a-5d1f-dd7d-8e80db5d94b3.m4a
-category: Sociology
 draft: false
 excerpt: "Dr. Stanley Fish is Professor of Law at Florida International University\
   \ and Visiting Professor of Law at Cardoso Law School. In addition to being one\
@@ -18,6 +17,11 @@ excerpt: "Dr. Stanley Fish is Professor of Law at Florida International Universi
 id: '428'
 image: https://i.ytimg.com/vi/ZWqbhW8-WLM/maxresdefault.jpg
 publishDate: 2021-02-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/428-Stanley-Fish---Theres-No-Such-Thing-as-Free-Speech-eoedfs
+tags:
+- Politics
+- Sociology
+- Philosophy
 title: '#428 Stanley Fish - There''s No Such Thing as Free Speech'
 youtubeid: ZWqbhW8-WLM
 ---

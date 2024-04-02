@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4541796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706779-44100-2-ca744d73f178d.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Catherine Salmon is a Full Professor in the psychology department at
   the University of Redlands. She is the co-author (with Donald Symons) of Warrior
@@ -18,6 +17,9 @@ excerpt: 'Dr. Catherine Salmon is a Full Professor in the psychology department 
 id: '256'
 image: https://i.ytimg.com/vi/pz9XQeX33Kk/maxresdefault.jpg
 publishDate: 2019-11-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/256-Catherine-Salmon-Evolutionary-Psychology-And-Pop-Culture-e593t4
+tags:
+- Psychology
 title: '#256 Catherine Salmon: Evolutionary Psychology And Pop Culture'
 youtubeid: pz9XQeX33Kk
 ---

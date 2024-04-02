@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735335-44100-2-50dad65c33d1e.mp3
-category: Psychology
 draft: false
 excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
   at the University of California, Los Angeles (UCLA). He researches decision-making
@@ -9,6 +8,9 @@ excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information 
 id: '116'
 image: https://i.ytimg.com/vi/jnrIPHokpVM/maxresdefault.jpg
 publishDate: 2018-12-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/116-Colin-Holbrook-Threat-Detection--Group-Prejudice--Warfare--and-Religion-e2rsi6
+tags:
+- Psychology
 title: '#116 Colin Holbrook: Threat Detection, Group Prejudice, Warfare, and Religion'
 youtubeid: jnrIPHokpVM
 ---

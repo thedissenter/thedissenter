@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52553568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-25%2Fd677da20-07ed-e2ef-5d0b-65b58849c73c.m4a
-category: Biology
 draft: false
 excerpt: Dr. Luana Maroja is Professor of Biology at Williams College. She is interested
   in the evolution of barriers to gene exchange, speciation, population genetics and
@@ -9,6 +8,9 @@ excerpt: Dr. Luana Maroja is Professor of Biology at Williams College. She is in
 id: '666'
 image: https://i.ytimg.com/vi/ixJdk3PtwPg/maxresdefault.jpg
 publishDate: 2022-08-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/666-Luana-Maroja-Gene-Exchange--Adaptation--Speciation--and-Phylogeography-e1j2ad0
+tags:
+- Biology
 title: '#666 Luana Maroja: Gene Exchange, Adaptation, Speciation, and Phylogeography'
 youtubeid: ixJdk3PtwPg
 ---

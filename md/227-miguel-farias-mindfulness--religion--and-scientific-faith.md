@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19166127-44100-2-32e8372004e7.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Miguel Farias is an Associate Professor at Coventry University, UK.\
   \ His work explores the psychological impact of beliefs and spiritual practices,\
@@ -10,6 +9,9 @@ excerpt: "Dr. Miguel Farias is an Associate Professor at Coventry University, UK
 id: '227'
 image: https://i.ytimg.com/vi/czuifj95f_4/maxresdefault.jpg
 publishDate: 2019-09-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/227-Miguel-Farias-Mindfulness--Religion--And-Scientific-Faith-e4mc0g
+tags:
+- Psychology
 title: '#227 Miguel Farias: Mindfulness, Religion, And Scientific Faith'
 youtubeid: czuifj95f_4
 ---

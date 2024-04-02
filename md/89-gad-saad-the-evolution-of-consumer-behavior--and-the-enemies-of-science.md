@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706858-48000-2-13b0448d273e8.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Gad Saad is Professor of Marketing at Concordia University, holder of\
   \ the Research Chair in Evolutionary Behavioral Sciences and Darwinian Consumption.\
@@ -12,6 +11,9 @@ excerpt: "Dr. Gad Saad is Professor of Marketing at Concordia University, holder
 id: '89'
 image: https://i.ytimg.com/vi/2MBSayBwJyk/maxresdefault.jpg
 publishDate: 2018-10-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/89-Gad-Saad-The-Evolution-of-Consumer-Behavior--and-the-Enemies-of-Science-e2rn36
+tags:
+- Psychology
 title: '#89 Gad Saad: The Evolution of Consumer Behavior, and the Enemies of Science'
 youtubeid: 2MBSayBwJyk
 ---

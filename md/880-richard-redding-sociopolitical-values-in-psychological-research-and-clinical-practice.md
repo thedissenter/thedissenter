@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/66705571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-16%2Fc9c2a581-26e5-b6ba-969e-602877b10d87.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Richard Redding is Ronald D. Rotunda Distinguished Professor of Jurisprudence
   and Professor of Psychology at Chapman University. Dr. Redding''s research focuses
@@ -9,7 +8,11 @@ excerpt: 'Dr. Richard Redding is Ronald D. Rotunda Distinguished Professor of Ju
   work in these areas is both theoretical or policy-oriented and empirical. '
 id: '880'
 image: https://i.ytimg.com/vi/CPJ3joeYrkw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/880-richard-redding-sociopolitical-values-in-psychological/id1451347236?i=1000640042221&uo=4
 publishDate: 2023-12-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/880-Richard-Redding-Sociopolitical-Values-in-Psychological-Research-and-Clinical-Practice-e20i6n3
+tags:
+- Psychology
 title: '#880 Richard Redding: Sociopolitical Values in Psychological Research and
   Clinical Practice'
 youtubeid: CPJ3joeYrkw

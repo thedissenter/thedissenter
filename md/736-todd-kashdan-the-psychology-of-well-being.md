@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59966206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-2%2Fa5aa7566-7312-b1b6-6796-4acbb1666c76.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Todd Kashdan is Professor of Psychology at George Mason University.\
   \ He has been named Distinguished Faculty Member of the Year at George Mason University\
@@ -14,7 +13,11 @@ excerpt: "Dr. Todd Kashdan is Professor of Psychology at George Mason University
   \ and Defy Effectively."
 id: '736'
 image: https://i.ytimg.com/vi/T9tps_UCIjo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/736-todd-kashdan-the-psychology-of-well-being/id1451347236?i=1000596980113&uo=4
 publishDate: 2023-01-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/736-Todd-Kashdan-The-Psychology-of-Well-Being-e1q4h9u
+tags:
+- Psychology
 title: '#736 Todd Kashdan: The Psychology of Well-Being'
 youtubeid: T9tps_UCIjo
 ---

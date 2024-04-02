@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20172626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F918dd435-0f4b-b90f-d961-b204865f0e90.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. John Hoffecker is Fellow of the Institute of Arctic and Alpine Research
   (INSTAAR). He specializes in archaeology and human paleoecology. His primary research
@@ -10,6 +9,9 @@ excerpt: 'Dr. John Hoffecker is Fellow of the Institute of Arctic and Alpine Res
 id: '400'
 image: https://i.ytimg.com/vi/0wAW_loSTdc/maxresdefault.jpg
 publishDate: 2020-12-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/400-John-Hoffecker---Modern-Humans-Their-African-Origin-and-Global-Dispersal-ek64ci
+tags:
+- Anthropology
 title: '#400 John Hoffecker - Modern Humans: Their African Origin and Global Dispersal'
 youtubeid: 0wAW_loSTdc
 ---

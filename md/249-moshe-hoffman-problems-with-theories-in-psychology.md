@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4339101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595481-44100-2-f3b8e5f41e311.m4a
-category: Game Theory
 draft: false
 excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
   Harvard's Department of Economics. He applies game theory, models of learning and
@@ -13,6 +12,10 @@ excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer a
 id: '249'
 image: https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg
 publishDate: 2019-10-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/249-Moshe-Hoffman-Problems-With-Theories-In-Psychology-e52tut
+tags:
+- Game Theory
+- Psychology
 title: '#249 Moshe Hoffman: Problems With Theories In Psychology'
 youtubeid: m9Uc0e130hA
 ---

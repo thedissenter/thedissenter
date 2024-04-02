@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62455217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-20%2Fc74c3e6d-5a5f-cd31-e557-edb9be354fc4.m4a
-category: Economics
 draft: false
 excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of San
   Francisco. She is the Vice-President for North America of the Economic Science Association.
@@ -9,7 +8,12 @@ excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of 
   risk, and time preferences; and the role of social networks for economic outcomes.
 id: '764'
 image: https://i.ytimg.com/vi/IS74XZmBymk/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/764-alessandra-cassar-female-competitiveness-cooperative/id1451347236?i=1000607213587&uo=4
 publishDate: 2023-04-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/764-Alessandra-Cassar-Female-Competitiveness--Cooperative-Breeding--and-Market-Development-e1sgfvh
+tags:
+- Economics
+- Psychology
 title: '#764 Alessandra Cassar: Female Competitiveness, Cooperative Breeding, and
   Market Development'
 youtubeid: IS74XZmBymk

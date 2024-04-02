@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57857407/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-20%2F8590e256-713f-dd22-411b-b2bfdf5b3a16.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Department
   of Neurology at the BU School of Medicine and Professor of Psychology at National
@@ -16,6 +15,10 @@ excerpt: 'Dr. Patrick McNamara is an Associate Professor of Neurology in the Dep
 id: '720'
 image: https://i.ytimg.com/vi/Iwj4KOYH954/maxresdefault.jpg
 publishDate: 2022-12-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/720-Patrick-McNamara---The-Cognitive-Neuroscience-of-Religious-Experience-Decentering-and-the-Self-e1o45tv
+tags:
+- Cognitive Science
+- Neuroscience
 title: '#720 Patrick McNamara - The Cognitive Neuroscience of Religious Experience:
   Decentering and the Self'
 youtubeid: Iwj4KOYH954

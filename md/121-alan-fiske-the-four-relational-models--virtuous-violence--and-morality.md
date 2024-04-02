@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774862-44100-2-9288924699006.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Alan Fiske is a Professor of Anthropology at the University of California,\
   \ Los Angeles. He\u2019s a psychological anthropologist studying how natural selection,\
@@ -11,6 +10,9 @@ excerpt: "Dr. Alan Fiske is a Professor of Anthropology at the University of Cal
 id: '121'
 image: https://i.ytimg.com/vi/UUexvzgKAn4/maxresdefault.jpg
 publishDate: 2019-01-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/121-Alan-Fiske-The-Four-Relational-Models--Virtuous-Violence--and-Morality-e2s1cc
+tags:
+- Anthropology
 title: '#121 Alan Fiske: The Four Relational Models, Virtuous Violence, and Morality'
 youtubeid: UUexvzgKAn4
 ---

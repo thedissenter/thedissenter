@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/63770559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2F2cd16b59-b10d-fe2c-5f28-7fceb7653b80.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Barcelona.
   He participated in the Neanderthal Genome Project and led the first retrieval of
@@ -8,7 +7,12 @@ excerpt: 'Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Ba
   A Genetic History.'
 id: '778'
 image: https://i.ytimg.com/vi/aYST6VOGgSU/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/778-carles-lalueza-fox-inequality-a-genetic-history/id1451347236?i=1000611920587&uo=4
 publishDate: 2023-05-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/778-Carles-Lalueza-Fox---Inequality-A-Genetic-History-e1tokfv
+tags:
+- Biology
+- Anthropology
 title: '#778 Carles Lalueza-Fox - Inequality: A Genetic History'
 youtubeid: aYST6VOGgSU
 ---

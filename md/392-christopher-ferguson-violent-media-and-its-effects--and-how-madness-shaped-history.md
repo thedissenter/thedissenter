@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19799748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2Ff9c39d97-50d8-8cf0-e155-deebce0b550e.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson University.\
   \ He is interested in media violence and, in particular, video games. He has been\
@@ -18,6 +17,9 @@ excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson Univ
 id: '392'
 image: https://i.ytimg.com/vi/1G0tKXPWl_I/maxresdefault.jpg
 publishDate: 2020-11-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/392-Christopher-Ferguson-Violent-Media-and-Its-Effects--and-How-Madness-Shaped-History-ejqo84
+tags:
+- Psychology
 title: '#392 Christopher Ferguson: Violent Media and Its Effects, and How Madness
   Shaped History'
 youtubeid: 1G0tKXPWl_I

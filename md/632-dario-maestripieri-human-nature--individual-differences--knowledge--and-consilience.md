@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48207016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-25%2Fb1213264-3c40-4071-6638-acbe05833517.m4a
-category: Biology
 draft: false
 excerpt: Dr. Dario Maestripieri is a Professor in Comparative Human Development and
   is also affiliated with the Institute on the Formation of Knowledge at the University
@@ -9,6 +8,10 @@ excerpt: Dr. Dario Maestripieri is a Professor in Comparative Human Development 
 id: '632'
 image: https://i.ytimg.com/vi/8md2pvPUYg4/maxresdefault.jpg
 publishDate: 2022-05-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/632-Dario-Maestripieri-Human-Nature--Individual-Differences--Knowledge--and-Consilience-e1etln8
+tags:
+- Biology
+- Psychology
 title: '#632 Dario Maestripieri: Human Nature, Individual Differences, Knowledge,
   and Consilience'
 youtubeid: 8md2pvPUYg4

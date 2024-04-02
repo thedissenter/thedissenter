@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8467349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34318946-44100-2-9842bf9ce9e94.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psychology
   at the University of Georgia. His research has made significant contributions to
@@ -10,6 +9,9 @@ excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psyc
 id: '284'
 image: https://i.ytimg.com/vi/7o-D5B_0QQk/maxresdefault.jpg
 publishDate: 2020-01-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/284-Abraham-Tesser-The-Self-evaluation-Maintenance-Model-e90tel
+tags:
+- Psychology
 title: '#284 Abraham Tesser: The Self-evaluation Maintenance Model'
 youtubeid: 7o-D5B_0QQk
 ---

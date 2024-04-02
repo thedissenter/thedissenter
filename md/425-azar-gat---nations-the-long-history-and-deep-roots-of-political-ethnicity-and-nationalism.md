@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24457118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-27%2F0c9ba917-2249-5313-9fa4-e40c5ebda38e.m4a
-category: History
 draft: false
 excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel Aviv\
   \ University, in Israel. He is the founder and head of the University's International\
@@ -11,6 +10,10 @@ excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel
 id: '425'
 image: https://i.ytimg.com/vi/TSL-IYgM8EE/maxresdefault.jpg
 publishDate: 2021-02-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/425-Azar-Gat---Nations-The-Long-History-and-Deep-Roots-of-Political-Ethnicity-and-Nationalism-eo8seu
+tags:
+- Politics
+- History
 title: '#425 Azar Gat - Nations: The Long History and Deep Roots of Political Ethnicity
   and Nationalism'
 youtubeid: TSL-IYgM8EE

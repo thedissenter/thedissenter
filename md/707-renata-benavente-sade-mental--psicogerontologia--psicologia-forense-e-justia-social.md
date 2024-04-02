@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60484002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-11%2F54011f50-6481-a019-317e-04371c8392c1.m4a
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: "ENTREVISTA EM PORTUGU\xCAS.  "
 id: '707'
 image: https://i.ytimg.com/vi/lHde_vBHlZA/maxresdefault.jpg
 publishDate: 2022-11-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/707-Renata-Benavente-Sade-Mental--Psicogerontologia--Psicologia-Forense-e-Justia-Social-e1qkav2
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Psychology
 title: "#707 Renata Benavente: Sa\xFAde Mental, Psicogerontologia, Psicologia Forense\
   \ e Justi\xE7a Social"
 youtubeid: lHde_vBHlZA

@@ -1,12 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734800-48000-2-42a55fd0d6c3f.mp3
-category: Psychology
 draft: false
 excerpt: "I\u2019M SORRY FOR THE VIDEO BEING A BIT DESYNCHRONIZED. IT MUST HAVE BEEN\
   \ SOME SORT OF RECORDING ISSUE. THANK YOU FOR YOUR UNDERSTANDING."
 id: '107'
 image: https://i.ytimg.com/vi/No9qHtuIvbk/maxresdefault.jpg
 publishDate: 2018-12-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/107-Frederick-Crews-Why-Freud-is-a-Fraud-e2rsec
+tags:
+- Psychology
 title: '#107 Frederick Crews: Why Freud is a Fraud'
 youtubeid: No9qHtuIvbk
 ---

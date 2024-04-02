@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75706452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-10%2F8634e33c-f9db-0c63-34ff-6d92951ded04.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Maleen Thiele is a Postdoc in the Department of Comparative Cultural
   Psychology at the Max Planck Institute for Evolutionary Anthropology, and group
@@ -13,7 +12,11 @@ excerpt: Dr. Maleen Thiele is a Postdoc in the Department of Comparative Cultura
   helping us to study ape cognition across species from infancy to adulthood.
 id: '884'
 image: https://i.ytimg.com/vi/Votz88W3PZA/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/884-maleen-thiele-infant-social-learning/id1451347236?i=1000640943924&uo=4
 publishDate: 2024-01-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/884-Maleen-Thiele-Infant-Social-Learning-e294skk
+tags:
+- Psychology
 title: '#884 Maleen Thiele: Infant Social Learning'
 youtubeid: Votz88W3PZA
 ---

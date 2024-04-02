@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/28800345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-12%2F9ded7375-275c-30b8-c78b-3867efd858a7.m4a
-category: History
 draft: false
 excerpt: "Dr. Bear F. Braumoeller is a Professor in the Department of Political Science\
   \ at Ohio State University. He previously held faculty positions at Harvard University\
@@ -17,6 +16,12 @@ excerpt: "Dr. Bear F. Braumoeller is a Professor in the Department of Political 
 id: '459'
 image: https://i.ytimg.com/vi/iZLC_yd6sTI/maxresdefault.jpg
 publishDate: 2021-04-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/459-Bear-Braumoeller---Only-the-Dead-The-Persistence-of-War-in-the-Modern-Age-esddsp
+tags:
+- Politics
+- History
+- Sociology
+- Anthropology
 title: '#459 Bear Braumoeller - Only the Dead: The Persistence of War in the Modern
   Age'
 youtubeid: iZLC_yd6sTI

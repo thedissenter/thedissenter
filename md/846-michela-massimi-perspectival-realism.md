@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75345501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F322014f5-8b45-19e2-7a93-e9cc885f1573.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Michela Massimi is Professor of Philosophy of Science in the Department\
   \ of Philosophy at the University of Edinburgh, affiliated with the Higgs Centre\
@@ -14,7 +13,11 @@ excerpt: "Dr. Michela Massimi is Professor of Philosophy of Science in the Depar
   \ including Perspectival Realism, which has won the 2023 Lakatos Award."
 id: '846'
 image: https://i.ytimg.com/vi/KwTyeSVSXG4/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/846-michela-massimi-perspectival-realism/id1451347236?i=1000631123219&uo=4
 publishDate: 2023-10-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/846-Michela-Massimi-Perspectival-Realism-e28ps4t
+tags:
+- Philosophy
 title: '#846 Michela Massimi: Perspectival Realism'
 youtubeid: KwTyeSVSXG4
 ---

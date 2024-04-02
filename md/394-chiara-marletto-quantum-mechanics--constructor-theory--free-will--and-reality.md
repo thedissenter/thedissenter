@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19799838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2F15100f00-6bdb-c21f-7f1e-da5bb71fa89c.m4a
-category: Physics
 draft: false
 excerpt: Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department
   of Physics at Oxford University. Her research interests include Quantum Theory of
@@ -12,6 +11,9 @@ excerpt: Dr. Chiara Marletto is Postdoctoral Research Assistant in the Departmen
 id: '394'
 image: https://i.ytimg.com/vi/9y5q7i9E1vU/maxresdefault.jpg
 publishDate: 2020-11-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/394-Chiara-Marletto-Quantum-Mechanics--Constructor-Theory--Free-Will--and-Reality-ejqoau
+tags:
+- Physics
 title: '#394 Chiara Marletto: Quantum Mechanics, Constructor Theory, Free Will, and
   Reality'
 youtubeid: 9y5q7i9E1vU

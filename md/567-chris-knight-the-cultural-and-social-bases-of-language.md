@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40391147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2F0af8800a-ef64-6995-40f1-31228eaa7850.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Chris Knight is Honorary Professor in the Department of Anthropology\
   \ at University College London. Over many years, he has been exploring the idea\
@@ -13,6 +12,9 @@ excerpt: "Dr. Chris Knight is Honorary Professor in the Department of Anthropolo
 id: '567'
 image: https://i.ytimg.com/vi/MncLaFg8TuA/maxresdefault.jpg
 publishDate: 2021-12-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/567-Chris-Knight-The-Cultural-and-Social-Bases-of-Language-e17f51b
+tags:
+- Anthropology
 title: '#567 Chris Knight: The Cultural and Social Bases of Language'
 youtubeid: MncLaFg8TuA
 ---

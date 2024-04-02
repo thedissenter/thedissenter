@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64011772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-25%2F4101d0fe-acb5-a89e-d0c0-552009a6a005.m4a
-category: Economics
 draft: false
 excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University of
   Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies
@@ -11,7 +10,13 @@ excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University 
   and Vices of the Modern Economy (Routledge, 2022).'
 id: '740'
 image: https://i.ytimg.com/vi/b5-tB-SrHyI/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/740-tibor-rutar-capitalism-for-realists-virtues-and/id1451347236?i=1000598327862&uo=4
 publishDate: 2023-02-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/740-Tibor-Rutar---Capitalism-for-Realists-Virtues-and-Vices-of-the-Modern-Economy-e1u001s
+tags:
+- Politics
+- Economics
+- Sociology
 title: '#740 Tibor Rutar - Capitalism for Realists: Virtues and Vices of the Modern
   Economy'
 youtubeid: b5-tB-SrHyI

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71088470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-26%2Fb8cae584-55c2-27db-aac3-1d76f992c827.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Rebecca Tuvel is Associate Professor and Chair of Philosophy at Rhodes\
   \ College. She works in feminist philosophy, philosophy of race, and the ethics\
@@ -8,7 +7,11 @@ excerpt: "Dr. Rebecca Tuvel is Associate Professor and Chair of Philosophy at Rh
   \ explores the possibility and permissibility of changing one\u2019s race."
 id: '841'
 image: https://i.ytimg.com/vi/AWRIBEruGL8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/841-rebecca-tuvel-feminism-cultural-appropriation-transracialism/id1451347236?i=1000629677347&uo=4
 publishDate: 2023-09-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/841-Rebecca-Tuvel-Feminism--Cultural-Appropriation--Transracialism--and-Animal-Ethics-e24nusm
+tags:
+- Philosophy
 title: '#841 Rebecca Tuvel: Feminism, Cultural Appropriation, Transracialism, and
   Animal Ethics'
 youtubeid: AWRIBEruGL8

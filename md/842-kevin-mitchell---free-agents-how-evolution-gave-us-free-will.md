@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72739954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2Fa4d4e8d7-0114-902d-0fde-352ec166a27a.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at
   Trinity College Dublin. He is interested in the development of connectivity in the
@@ -10,7 +9,11 @@ excerpt: 'Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience
   Gave Us Free Will.'
 id: '842'
 image: https://i.ytimg.com/vi/Euv_pwsAkkQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/842-kevin-mitchell-free-agents-how-evolution-gave-us/id1451347236?i=1000629944597&uo=4
 publishDate: 2023-10-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/842-Kevin-Mitchell---Free-Agents-How-Evolution-Gave-Us-Free-Will-e26abli
+tags:
+- Neuroscience
 title: '#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will'
 youtubeid: Euv_pwsAkkQ
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3215331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623155-44100-2-eedadb63389b1.m4a
-category: Sociology
 draft: false
 excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professor\
   \ of sociology at Indiana University of Pennsylvania. Since 2007 he has been a visiting\
@@ -16,6 +15,9 @@ excerpt: "Dr. Stephen K. Sanderson is an American sociologist. He was a professo
 id: '198'
 image: https://i.ytimg.com/vi/EWFtlnK8Kik/maxresdefault.jpg
 publishDate: 2019-07-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/198-Stephen-Sanderson-Sociology--Darwinian-Conflict-Theory--And-Religion-e40kh3
+tags:
+- Sociology
 title: '#198 Stephen Sanderson: Sociology, Darwinian Conflict Theory, And Religion'
 youtubeid: EWFtlnK8Kik
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3780595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281475-44100-2-7896ec68439a7.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution\
   \ and Social Change at Arizona State University. His background is in the evolution\
@@ -18,6 +17,9 @@ excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolut
 id: '216'
 image: https://i.ytimg.com/vi/PquVDMPAbmo/maxresdefault.jpg
 publishDate: 2019-08-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/216-Thomas-Morgan-Cultural-Evolution-And-Transmission--And-Cumulative-Culture-e4hshj
+tags:
+- Anthropology
 title: '#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture'
 youtubeid: PquVDMPAbmo
 ---

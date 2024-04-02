@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47525004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2F9efa4769-baf1-ef97-bec8-7584eadafb91.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Francesca Luberti has recently completed a PhD at the School of Biological,
   Earth and Environmental Sciences (BEES), UNSW Sydney. She is now doing a postdoc
@@ -10,6 +9,9 @@ excerpt: Dr. Francesca Luberti has recently completed a PhD at the School of Bio
 id: '625'
 image: https://i.ytimg.com/vi/TVhtTucPGNo/maxresdefault.jpg
 publishDate: 2022-05-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/625-Francesca-Luberti-The-Relationship-Between-Mating-Strategies-and-Socio-political-Orientation-e1e8rmc
+tags:
+- Psychology
 title: '#625 Francesca Luberti: The Relationship Between Mating Strategies and Socio-Political
   Orientation'
 youtubeid: TVhtTucPGNo

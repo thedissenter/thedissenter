@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/56045565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-11%2Fbdc993f6-00c6-9a12-3734-419ae1f2c3e4.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Claudio Tennie is a Tenured Research Group Leader (\u201CTools and Culture\
   \ among Early Hominins\u201D) in the Department of Early Prehistory and Quaternary\
@@ -14,6 +13,9 @@ excerpt: "Dr. Claudio Tennie is a Tenured Research Group Leader (\u201CTools and
 id: '700'
 image: https://i.ytimg.com/vi/L8UKSDq6ylw/maxresdefault.jpg
 publishDate: 2022-11-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/700-Claudio-Tennie-Tool-Behaviors-in-Great-Apes--Cultural-Transmission--and-Cumulative-Culture-e1mcsht
+tags:
+- Anthropology
 title: '#700 Claudio Tennie: Tool Behaviors in Great Apes, Cultural Transmission,
   and Cumulative Culture'
 youtubeid: L8UKSDq6ylw

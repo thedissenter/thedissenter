@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/11653339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-28%2F59678249-44100-2-b2da15a69124.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philosophy\
   \ of Science at the University of California, Irvine. His current research involves\
@@ -12,6 +11,9 @@ excerpt: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philos
 id: '332'
 image: https://i.ytimg.com/vi/hVp1RjCu1nU/maxresdefault.jpg
 publishDate: 2020-05-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/332-Jeffrey-Barrett-The-Philosophy-of-Quantum-Mechanics-ec24or
+tags:
+- Philosophy
 title: '#332 Jeffrey Barrett: The Philosophy of Quantum Mechanics'
 youtubeid: hVp1RjCu1nU
 ---

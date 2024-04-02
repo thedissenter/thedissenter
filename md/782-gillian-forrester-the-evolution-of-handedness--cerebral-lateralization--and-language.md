@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64066394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-26%2F482b652e-1a25-1eb0-9a38-6772f9c6c7ee.m4a
-category: Biology
 draft: false
 excerpt: Dr. Gillian Forrester is a Professor of Comparative Cognition in the School
   of Psychology at the University of Sussex. She is the director of the Comparative
@@ -9,7 +8,12 @@ excerpt: Dr. Gillian Forrester is a Professor of Comparative Cognition in the Sc
   over time and across species.
 id: '782'
 image: https://i.ytimg.com/vi/E1lLqKbRwZk/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/782-gillian-forrester-the-evolution-of/id1451347236?i=1000613117795&uo=4
 publishDate: 2023-05-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/782-Gillian-Forrester-The-Evolution-of-Handedness--Cerebral-Lateralization--and-Language-e1u1lcq
+tags:
+- Biology
+- Psychology
 title: '#782 Gillian Forrester: The Evolution of Handedness, Cerebral Lateralization,
   and Language'
 youtubeid: E1lLqKbRwZk

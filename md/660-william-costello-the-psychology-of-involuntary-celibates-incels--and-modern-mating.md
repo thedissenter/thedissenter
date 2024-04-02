@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/53625058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-17%2F63e4cf7e-6119-79e2-117c-1a0a16f4ba05.m4a
-category: Psychology
 draft: false
 excerpt: 'William Costello finished his MSc in Psychology: Culture and Evolution at
   Brunel University London in 2021. The topic of his thesis was incels. Later this
@@ -13,6 +12,9 @@ excerpt: 'William Costello finished his MSc in Psychology: Culture and Evolution
 id: '660'
 image: https://i.ytimg.com/vi/-zq3wgE6NpY/maxresdefault.jpg
 publishDate: 2022-08-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/660-William-Costello-The-Psychology-of-Involuntary-Celibates-Incels--and-Modern-Mating-e1k30p2
+tags:
+- Psychology
 title: '#660 William Costello: The Psychology of Involuntary Celibates (Incels), and
   Modern Mating'
 youtubeid: -zq3wgE6NpY

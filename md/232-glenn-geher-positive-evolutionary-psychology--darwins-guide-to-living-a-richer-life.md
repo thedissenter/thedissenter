@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4434309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138507-44100-2-a5cffd9d132c9.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
   \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\
@@ -17,6 +16,9 @@ excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of 
 id: '232'
 image: https://i.ytimg.com/vi/aUCEml0DyYI/maxresdefault.jpg
 publishDate: 2019-09-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/232-Glenn-Geher-Positive-Evolutionary-Psychology--Darwins-Guide-to-Living-a-Richer-Life-e55qu5
+tags:
+- Psychology
 title: '#232 Glenn Geher: Positive Evolutionary Psychology, Darwin''s Guide to Living
   a Richer Life'
 youtubeid: aUCEml0DyYI

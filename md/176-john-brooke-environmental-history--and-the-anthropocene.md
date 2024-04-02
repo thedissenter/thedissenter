@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145720-44100-2-db640823b88fe.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. John Brooke is Arts & Sciences Distinguished Professor of History, Professor
   of Anthropology, and Director of the Ohio State University Center for Historical
@@ -13,6 +12,9 @@ excerpt: 'Dr. John Brooke is Arts & Sciences Distinguished Professor of History,
 id: '176'
 image: https://i.ytimg.com/vi/xXRfxuqSol8/maxresdefault.jpg
 publishDate: 2019-05-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/176-John-Brooke-Environmental-History--And-The-Anthropocene-e3jju9
+tags:
+- General Science
 title: '#176 John Brooke: Environmental History, And The Anthropocene'
 youtubeid: xXRfxuqSol8
 ---

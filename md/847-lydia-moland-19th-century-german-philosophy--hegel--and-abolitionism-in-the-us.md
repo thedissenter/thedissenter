@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71492218/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F6f50e742-daf7-95d8-788b-7218cbb3e747.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Lydia Moland is a Professor of Philosophy at Colby College in Waterville,
   Maine, where she teaches courses on moral philosophy, aesthetics, and the history
@@ -10,7 +9,11 @@ excerpt: 'Dr. Lydia Moland is a Professor of Philosophy at Colby College in Wate
   she wrote a book titled Lydia Maria Child: A Radical American Life (2022).'
 id: '847'
 image: https://i.ytimg.com/vi/aDOOvG5FNHo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/847-lydia-moland-19th-century-german-philosophy-hegel/id1451347236?i=1000631245326&uo=4
 publishDate: 2023-10-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/847-Lydia-Moland-19th-Century-German-Philosophy--Hegel--and-Abolitionism-in-the-US-e25495q
+tags:
+- Philosophy
 title: '#847 Lydia Moland: 19th-Century German Philosophy, Hegel, and Abolitionism
   in the US'
 youtubeid: aDOOvG5FNHo

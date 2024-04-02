@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78778422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-17%2Fe06b59a3-e429-695d-ea75-b7c4aaf80537.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Anil Seth is Professor of Cognitive and Computational Neuroscience at
   the University of Sussex, where he is also Director of the Sussex Centre for Consciousness
@@ -11,7 +10,12 @@ excerpt: 'Dr. Anil Seth is Professor of Cognitive and Computational Neuroscience
   latest one being Being You: A New Science of Consciousness.'
 id: '871'
 image: https://i.ytimg.com/vi/5fqiGkg2RAw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/871-anil-seth-being-you-a-new-science-of-consciousness/id1451347236?i=1000637967202&uo=4
 publishDate: 2023-12-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/871-Anil-Seth---Being-You-A-New-Science-of-Consciousness-e2c2kjm
+tags:
+- Cognitive Science
+- Neuroscience
 title: '#871 Anil Seth - Being You: A New Science of Consciousness'
 youtubeid: 5fqiGkg2RAw
 ---

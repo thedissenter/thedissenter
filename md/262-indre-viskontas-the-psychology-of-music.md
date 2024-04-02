@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8523748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-18%2F34709972-44100-2-80127162191.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Indre Viskontas is a Professor of Psychology at the University of San\
   \ Francisco, and serves on the faculty at the San Francisco Conservatory of Music.\
@@ -10,6 +9,10 @@ excerpt: "Dr. Indre Viskontas is a Professor of Psychology at the University of 
 id: '262'
 image: https://i.ytimg.com/vi/d2UfQK2oHtM/maxresdefault.jpg
 publishDate: 2019-11-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/262-Indre-Viskontas-The-Psychology-of-Music-e92kh4
+tags:
+- Neuroscience
+- Psychology
 title: '#262 Indre Viskontas: The Psychology of Music'
 youtubeid: d2UfQK2oHtM
 ---

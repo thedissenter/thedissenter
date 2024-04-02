@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78401280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-9%2F8e59b6d6-7e08-e47a-72ce-40ee9fdbabde.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Antoine Marie is a Postdoctoral Researcher at the Department of Political
   Science at Aarhus University, Denmark. He is an evolutionary political psychologist
@@ -11,7 +10,11 @@ excerpt: Dr. Antoine Marie is a Postdoctoral Researcher at the Department of Pol
   contexts of perceived intergroup conflict.
 id: '918'
 image: https://i.ytimg.com/vi/QzvIfUZpELw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/918-antoine-marie-the-biases-of-people-with/id1451347236?i=1000650156945&uo=4
 publishDate: 2024-03-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/918-Antoine-Marie-The-Biases-of-People-with-Strong-Political-and-Moral-Convictions-e2bn4a0
+tags:
+- Psychology
 title: '#918 Antoine Marie: The Biases of People with Strong Political and Moral Convictions'
 youtubeid: QzvIfUZpELw
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848325-44100-2-c2f1d11f6e0e8.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad de\
   \ los Andes, Colombia.  He teaches undergraduate courses in Developmental Psychology,\
@@ -11,6 +10,9 @@ excerpt: "Dr. Gordon Ingram is Associate Professor of Psychology at Universidad 
 id: '203'
 image: https://i.ytimg.com/vi/0jrTt0Mzx0U/maxresdefault.jpg
 publishDate: 2019-07-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/203-Gordon-Ingram-Childrens-Social-Development--And-Cyberpsychology-e44so5
+tags:
+- Psychology
 title: '#203 Gordon Ingram: Children''s Social Development, And Cyberpsychology'
 youtubeid: 0jrTt0Mzx0U
 ---

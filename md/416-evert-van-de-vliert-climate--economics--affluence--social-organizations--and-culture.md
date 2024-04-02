@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22160549/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2Fcf2a7fc7-e829-f236-d0de-893e73c3f2e4.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Evert Van de Vliert received his PhD from the Free University in Amsterdam\
   \ in 1973 and held teacher and researcher positions at the same university, at the\
@@ -18,6 +17,9 @@ excerpt: "Dr. Evert Van de Vliert received his PhD from the Free University in A
 id: '416'
 image: https://i.ytimg.com/vi/ybo1Nn51_i8/maxresdefault.jpg
 publishDate: 2021-01-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/416-Evert-Van-de-Vliert-Climate--Economics--Affluence--Social-Organizations--and-Culture-em2pn5
+tags:
+- Psychology
 title: '#416 Evert Van de Vliert: Climate, Economics, Affluence, Social Organizations,
   and Culture'
 youtubeid: ybo1Nn51_i8

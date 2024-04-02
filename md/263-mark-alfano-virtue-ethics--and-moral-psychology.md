@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122687-44100-2-4a409dc1bca18.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University\
   \ of Technology and the Australian Catholic University. Dr. Alfano uses tools and\
@@ -15,6 +14,9 @@ excerpt: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft Univ
 id: '263'
 image: https://i.ytimg.com/vi/uJ_iDgD9xGY/maxresdefault.jpg
 publishDate: 2019-12-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/263-Mark-Alfano-Virtue-Ethics--And-Moral-Psychology-e5k4kq
+tags:
+- Philosophy
 title: '#263 Mark Alfano: Virtue Ethics, And Moral Psychology'
 youtubeid: uJ_iDgD9xGY
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2572574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-6%2F10918788-44100-2-1fb3fcbae9add.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Richard Wrangham is Ruth B. Moore Professor of Biological Anthropology
   in the Department of Human Evolutionary Biology at Harvard University and founded
@@ -15,6 +14,9 @@ excerpt: 'Dr. Richard Wrangham is Ruth B. Moore Professor of Biological Anthropo
 id: '151'
 image: https://i.ytimg.com/vi/w6GPDed9U1M/maxresdefault.jpg
 publishDate: 2019-03-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/151-Richard-Wrangham-The-Goodness-Paradox--Human-Self-Domestication-and-Aggression-e3d0qu
+tags:
+- Anthropology
 title: '#151 Richard Wrangham: The Goodness Paradox, Human Self-Domestication and
   Aggression'
 youtubeid: w6GPDed9U1M

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20529187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F6a430aea-16b6-7bad-6382-abfc449c914b.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Andrew Gallup is Assistant Professor of Psychology and the director of
   the Adaptive Behavior and Cognition (ABC) Lab at SUNY Poly. His research spans a
@@ -12,6 +11,9 @@ excerpt: Dr. Andrew Gallup is Assistant Professor of Psychology and the director
 id: '405'
 image: https://i.ytimg.com/vi/SdKIuJwgOXU/maxresdefault.jpg
 publishDate: 2020-12-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/405-Andrew-Gallup-The-Evolution-of-Aggression--and-Yawning-ekh0j3
+tags:
+- Psychology
 title: '#405 Andrew Gallup: The Evolution of Aggression, and Yawning'
 youtubeid: SdKIuJwgOXU
 ---

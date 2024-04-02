@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/35297470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F47062a31-4a5c-b968-f0aa-430f7e419abb.m4a
-category: Politics
 draft: false
 excerpt: Dr. Andrew Guess is an assistant professor of politics and public affairs
   at Princeton University. His research and teaching interests lie at the intersection
@@ -14,6 +13,10 @@ excerpt: Dr. Andrew Guess is an assistant professor of politics and public affai
 id: '524'
 image: https://i.ytimg.com/vi/Uc_ePVhfWcs/maxresdefault.jpg
 publishDate: 2021-09-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/524-Andrew-Guess-Political-Polarization--Misinformation--Fake-News--and-Digital-Media-Literacy-e12jmnu
+tags:
+- Politics
+- Sociology
 title: '#524 Andrew Guess: Political Polarization, Misinformation, Fake News, and
   Digital Media Literacy'
 youtubeid: Uc_ePVhfWcs

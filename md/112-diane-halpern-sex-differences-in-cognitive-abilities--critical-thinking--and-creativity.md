@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011096/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735146-44100-2-9662ab4416619.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Diane Halpern is Dean Emerita of Social Sciences at Minerva Schools\
   \ at Keck Graduate Institute and former Emerita Professor of Psychology at Claremont\
@@ -20,6 +19,9 @@ excerpt: "Dr. Diane Halpern is Dean Emerita of Social Sciences at Minerva School
 id: '112'
 image: https://i.ytimg.com/vi/Su_8GgH63Wg/maxresdefault.jpg
 publishDate: 2018-12-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/112-Diane-Halpern-Sex-Differences-in-Cognitive-Abilities--Critical-Thinking--and-Creativity-e2rsgo
+tags:
+- Psychology
 title: '#112 Diane Halpern: Sex Differences in Cognitive Abilities, Critical Thinking,
   and Creativity'
 youtubeid: Su_8GgH63Wg

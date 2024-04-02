@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20920781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-11%2F47a8f898-96b3-38e5-7182-63a190920e1e.m4a
-category: Art
 draft: false
 excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
   \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\
@@ -14,6 +13,9 @@ excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Ho
 id: '408'
 image: https://i.ytimg.com/vi/NHCGW3_Opc0/maxresdefault.jpg
 publishDate: 2020-12-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/408-Victoria-Dougherty-Writing-Fiction--Religion--Politics--Comedy--and-Interesting-Villains-eksv0d
+tags:
+- Art
 title: '#408 Victoria Dougherty: Writing Fiction, Religion, Politics, Comedy, and
   Interesting Villains'
 youtubeid: NHCGW3_Opc0

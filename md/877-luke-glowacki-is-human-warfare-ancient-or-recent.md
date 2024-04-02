@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74662730/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-15%2F6eb58771-3007-7bbb-4170-d97280f5e941.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Luke Glowacki is Assistant Professor in the Department of Anthropology
   at Boston University and a faculty affiliate of the Center for Innovation in Social
@@ -8,7 +7,11 @@ excerpt: Dr. Luke Glowacki is Assistant Professor in the Department of Anthropol
   and war.
 id: '877'
 image: https://i.ytimg.com/vi/A82iYdWqqx8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/877-luke-glowacki-is-human-warfare-ancient-or-recent/id1451347236?i=1000639482151&uo=4
 publishDate: 2023-12-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/877-Luke-Glowacki-Is-Human-Warfare-Ancient-or-Recent-e2851ca
+tags:
+- Anthropology
 title: '#877 Luke Glowacki: Is Human Warfare Ancient or Recent?'
 youtubeid: A82iYdWqqx8
 ---

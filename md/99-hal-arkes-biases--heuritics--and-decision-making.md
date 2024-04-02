@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707363-44100-2-a76585d2d6e4.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State University.\
   \ His research focuses primarily on areas like judgement/decision-making, medical\
@@ -12,6 +11,9 @@ excerpt: "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State Univer
 id: '99'
 image: https://i.ytimg.com/vi/UGxyeA0I3jg/maxresdefault.jpg
 publishDate: 2018-11-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/99-Hal-Arkes-Biases--Heuritics--and-Decision-Making-e2rn70
+tags:
+- Psychology
 title: '#99 Hal Arkes: Biases, Heuritics, and Decision-Making'
 youtubeid: UGxyeA0I3jg
 ---

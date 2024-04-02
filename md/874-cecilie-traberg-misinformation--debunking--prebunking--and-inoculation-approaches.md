@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74233744/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-4%2F51799f6d-d16b-fb77-4c0e-3e60d9c05968.m4a
-category: Psychology
 draft: false
 excerpt: 'Cecilie Traberg is a Psychology PhD Candidate in the Social Decision-Making
   Lab at the University of Cambridge supervised by Professor Sander van der Linden
@@ -11,7 +10,11 @@ excerpt: 'Cecilie Traberg is a Psychology PhD Candidate in the Social Decision-M
   other people affect individual-level cognition.'
 id: '874'
 image: https://i.ytimg.com/vi/RaRAEJ8IQEw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/874-cecilie-traberg-misinformation-debunking-prebunking/id1451347236?i=1000638720759&uo=4
 publishDate: 2023-12-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/874-Cecilie-Traberg-Misinformation--Debunking--Prebunking--and-Inoculation-Approaches-e27nueg
+tags:
+- Psychology
 title: '#874 Cecilie Traberg: Misinformation, Debunking, Prebunking, and Inoculation
   Approaches'
 youtubeid: RaRAEJ8IQEw

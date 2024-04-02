@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9604908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42869622-44100-2-e3c075a973407.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhousie
   University. His work focuses mainly on the behavior, ecology, population biology
@@ -13,6 +12,9 @@ excerpt: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhous
 id: '310'
 image: https://i.ytimg.com/vi/KCnWsD4ZS54/maxresdefault.jpg
 publishDate: 2020-03-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/310-Hal-Whitehead-The-Sociality-And-Culture-Of-Whales-ea3kbc
+tags:
+- Biology
 title: '#310 Hal Whitehead: The Sociality And Culture Of Whales'
 youtubeid: KCnWsD4ZS54
 ---

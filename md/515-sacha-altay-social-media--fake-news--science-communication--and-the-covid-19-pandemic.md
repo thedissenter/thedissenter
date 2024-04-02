@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33818708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-19%2Fbcd415b3-d467-2723-8fe6-8b6988eb464a.m4a
-category: Sociology
 draft: false
 excerpt: "Sacha Altay is doing his PhD in cognitive science at the Institut Jean Nicod\
   \ of the \xC9cole Normale Sup\xE9rieure in Paris. Fascinated by apparently irrational\
@@ -10,6 +9,10 @@ excerpt: "Sacha Altay is doing his PhD in cognitive science at the Institut Jean
 id: '515'
 image: https://i.ytimg.com/vi/P9HBMMLzqKc/maxresdefault.jpg
 publishDate: 2021-08-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/515-Sacha-Altay-Social-Media--Fake-News--Science-Communication--and-the-COVID-19-Pandemic-e116ikk
+tags:
+- Sociology
+- Psychology
 title: '#515 Sacha Altay: Social Media, Fake News, Science Communication, and the
   COVID-19 Pandemic'
 youtubeid: P9HBMMLzqKc

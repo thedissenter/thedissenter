@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31485375/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F03374f1d-a3a3-29e1-7ff3-8ab00688a6f1.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Kristen Syme is research associate at the Faculty of Behavioral and Movement
   Sciences at Vrije Universiteit Amsterdam. She received her BA in anthropology from
@@ -17,6 +16,10 @@ excerpt: Dr. Kristen Syme is research associate at the Faculty of Behavioral and
 id: '498'
 image: https://i.ytimg.com/vi/I3dtAue-PUU/maxresdefault.jpg
 publishDate: 2021-07-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/498-Kristen-Syme-Mental-Disorders-and-Suicide-From-an-Anthropological-Perspective-euvbvv
+tags:
+- Anthropology
+- Psychology
 title: '#498 Kristen Syme: Mental Disorders and Suicide From an Anthropological Perspective'
 youtubeid: I3dtAue-PUU
 ---

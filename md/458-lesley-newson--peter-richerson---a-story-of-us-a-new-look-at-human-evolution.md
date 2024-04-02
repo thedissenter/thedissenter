@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30572517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F5a3cc46f-eec3-0f90-686a-08f7ae5e6f9b.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Lesley Newson is honorary post-doc at University of California, Davis.\
   \ She studies the cultural evolutionary process known as \u201Cmodernization\u201D\
@@ -10,6 +9,10 @@ excerpt: "Dr. Lesley Newson is honorary post-doc at University of California, Da
 id: '458'
 image: https://i.ytimg.com/vi/RJEm7baBdTs/maxresdefault.jpg
 publishDate: 2021-04-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/458-Lesley-Newson--Peter-Richerson---A-Story-of-Us-A-New-Look-at-Human-Evolution-eu3gh5
+tags:
+- Biology
+- Anthropology
 title: '#458 Lesley Newson & Peter Richerson - A Story of Us: A New Look at Human
   Evolution'
 youtubeid: RJEm7baBdTs

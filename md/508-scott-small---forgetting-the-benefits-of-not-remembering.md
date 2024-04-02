@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36587732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Ff899bb53-be87-0444-aecd-7456a29d0ef6.m4a
-category: Medicine
 draft: false
 excerpt: "Dr. Scott A. Small is the Director of the Alzheimer\u2019s Disease Research\
   \ Center at Columbia University, where he is the Boris and Rose Katz Professor of\
@@ -19,6 +18,10 @@ excerpt: "Dr. Scott A. Small is the Director of the Alzheimer\u2019s Disease Res
 id: '508'
 image: https://i.ytimg.com/vi/kOigz7tTwQs/maxresdefault.jpg
 publishDate: 2021-08-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/508-Scott-Small---Forgetting-The-Benefits-of-Not-Remembering-e13r2ok
+tags:
+- Medicine
+- Neuroscience
 title: '#508 Scott Small - Forgetting: The Benefits of Not Remembering'
 youtubeid: kOigz7tTwQs
 ---

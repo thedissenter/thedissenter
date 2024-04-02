@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12282896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63583265-44100-2-7fbe12b608484.m4a
-category: Archaeology
 draft: false
 excerpt: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of
   the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological
@@ -13,6 +12,10 @@ excerpt: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology
 id: '336'
 image: https://i.ytimg.com/vi/qjcf6K1zyQU/maxresdefault.jpg
 publishDate: 2020-05-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/336-Melinda-Zeder-Domestication--And-The-Origins-and-Dispersal-of-Agriculture-eclbig
+tags:
+- Archaeology
+- Anthropology
 title: '#336 Melinda Zeder: Domestication, And The Origins and Dispersal of Agriculture'
 youtubeid: qjcf6K1zyQU
 ---

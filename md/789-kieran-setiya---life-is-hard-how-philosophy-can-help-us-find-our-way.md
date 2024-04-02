@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65212789/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-17%2Fd3b447ff-3a88-5ce9-7237-996e6a88cb29.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Kieran Setiya is Professor of Philosophy at MIT. He works mainly in
   ethics, epistemology, and the philosophy of mind. He is the author of Practical
@@ -8,7 +7,11 @@ excerpt: 'Dr. Kieran Setiya is Professor of Philosophy at MIT. He works mainly i
   Life Is Hard: How Philosophy Can Help Us Find Our Way.'
 id: '789'
 image: https://i.ytimg.com/vi/U4rU_FPbHr4/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/789-kieran-setiya-life-is-hard-how-philosophy-can-help/id1451347236?i=1000615330497&uo=4
 publishDate: 2023-06-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/789-Kieran-Setiya---Life-Is-Hard-How-Philosophy-Can-Help-Us-Find-Our-Way-e1v4ktl
+tags:
+- Philosophy
 title: '#789 Kieran Setiya - Life Is Hard: How Philosophy Can Help Us Find Our Way'
 youtubeid: U4rU_FPbHr4
 ---

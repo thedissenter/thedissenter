@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16553679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F904a04fa-b4f9-93b6-d322-afc9967685bb.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Dan P. McAdams is the Henry Wade Rogers Professor of Psychology and\
   \ professor of human development and social policy at Northwestern University. Dr.\
@@ -18,6 +17,9 @@ excerpt: "Dr. Dan P. McAdams is the Henry Wade Rogers Professor of Psychology an
 id: '365'
 image: https://i.ytimg.com/vi/3AqQxrhYWnc/maxresdefault.jpg
 publishDate: 2020-09-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/365-Dan-McAdams-The-Psychology-of-Donald-Trump-egnm8f
+tags:
+- Psychology
 title: '#365 Dan McAdams: The Psychology of Donald Trump'
 youtubeid: 3AqQxrhYWnc
 ---

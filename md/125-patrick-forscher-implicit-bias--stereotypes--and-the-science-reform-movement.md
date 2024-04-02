@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778154-44100-2-e10b0aeec954f.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Patrick Forscher is Assistant Professor of Psychology at the J. William
   Fulbright College of Arts & Sciences at the University of Arkansas. He studies social
@@ -11,6 +10,9 @@ excerpt: 'Dr. Patrick Forscher is Assistant Professor of Psychology at the J. Wi
 id: '125'
 image: https://i.ytimg.com/vi/0ULIb2U7CJc/maxresdefault.jpg
 publishDate: 2019-01-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/125-Patrick-Forscher-Implicit-Bias--Stereotypes--and-the-Science-Reform-Movement-e2s226
+tags:
+- Psychology
 title: '#125 Patrick Forscher: Implicit Bias, Stereotypes, and the Science Reform
   Movement'
 youtubeid: 0ULIb2U7CJc

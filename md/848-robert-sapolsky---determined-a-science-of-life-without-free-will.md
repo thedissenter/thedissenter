@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75633322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F56e314b1-60b3-b267-af8f-cf3072fbe7e9.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor and Professor
   of Biology, of Neurology and Neurological Sciences, and of Neurosurgery at Stanford
@@ -9,7 +8,15 @@ excerpt: 'Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor and 
   format. His latest book is Determined: A Science of Life without Free Will.'
 id: '848'
 image: https://i.ytimg.com/vi/_XUzWQJzxJg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/848-robert-sapolsky-determined-a-science-of/id1451347236?i=1000631514214&uo=4
 publishDate: 2023-10-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/848-Robert-Sapolsky---Determined-A-Science-of-Life-without-Free-Will-e292l7a
+tags:
+- Biology
+- Neuroscience
+- General Science
+- Philosophy
+- Psychology
 title: '#848 Robert Sapolsky - Determined: A Science of Life without Free Will'
 youtubeid: _XUzWQJzxJg
 ---

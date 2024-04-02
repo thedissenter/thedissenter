@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46818908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2Fbf683582-3549-21cf-acc9-830dbb0a926d.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. John Baird Callicott is Distinguished Research Professor Emeritus and
   a member of the Department of Philosophy and Religion and the Institute of Applied
@@ -12,6 +11,10 @@ excerpt: 'Dr. John Baird Callicott is Distinguished Research Professor Emeritus 
 id: '616'
 image: https://i.ytimg.com/vi/m45rOxDio9k/maxresdefault.jpg
 publishDate: 2022-04-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/616-John-Baird-Callicott-Environmental-Philosophy--Ethics--and-Climate-Change-e1dja4s
+tags:
+- Biology
+- Philosophy
 title: '#616 John Baird Callicott: Environmental Philosophy, Ethics, and Climate Change'
 youtubeid: m45rOxDio9k
 ---

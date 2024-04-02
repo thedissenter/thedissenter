@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77759616/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2F7ffea42a-b2e9-e6af-2c27-a18429a7ae74.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Daniel Simons is a Professor in the Department of Psychology at the
   University of Illinois, where he directs the Visual Cognition Laboratory. Dr. Simons
@@ -11,7 +10,11 @@ excerpt: 'Dr. Daniel Simons is a Professor in the Department of Psychology at th
   In and What We Can Do about It.'
 id: '910'
 image: https://i.ytimg.com/vi/VFDbbAJsVCs/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/910-daniel-simons-nobodys-fool-why-we-get-taken-in/id1451347236?i=1000648524083&uo=4
 publishDate: 2024-03-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/910-Daniel-Simons---Nobodys-Fool-Why-We-Get-Taken-In-and-What-We-Can-Do-about-It-e2b3hm0
+tags:
+- Psychology
 title: '#910 Daniel Simons - Nobody''s Fool: Why We Get Taken In and What We Can Do
   about It'
 youtubeid: VFDbbAJsVCs

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/45279929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-24%2F1d5a5a93-1c7b-bdfd-bbc8-91e80fda65f9.m4a
-category: Medicine
 draft: false
 excerpt: "Dr. Peter Sterling is Professor of Neuroscience in the Perelman School of\
   \ Medicine at the University of Pennsylvania. His broad goal has been to learn how\
@@ -14,6 +13,11 @@ excerpt: "Dr. Peter Sterling is Professor of Neuroscience in the Perelman School
 id: '606'
 image: https://i.ytimg.com/vi/y1dfCwMq8EQ/maxresdefault.jpg
 publishDate: 2022-03-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/606-Peter-Sterling---What-is-health--Allostasis-and-the-Evolution-of-Human-Design-Pt--1-e1c4b7p
+tags:
+- Medicine
+- Biology
+- Neuroscience
 title: '#606 Peter Sterling - What is health? Allostasis and the Evolution of Human
   Design (Pt. 1)'
 youtubeid: y1dfCwMq8EQ

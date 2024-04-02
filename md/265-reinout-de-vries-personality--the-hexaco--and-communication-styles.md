@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903297/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123125-44100-2-d7b7935d011d7.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Reinout E. de Vries is Associate Professor at the VU University Amsterdam
   and Full Professor at the University of Twente. Together with researchers like Michael
@@ -19,6 +18,9 @@ excerpt: Dr. Reinout E. de Vries is Associate Professor at the VU University Ams
 id: '265'
 image: https://i.ytimg.com/vi/2C6XhahzztU/maxresdefault.jpg
 publishDate: 2019-12-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/265-Reinout-de-Vries-Personality--The-HEXACO--And-Communication-Styles-e5k4u1
+tags:
+- Psychology
 title: '#265 Reinout de Vries: Personality, The HEXACO, and Communication Styles'
 youtubeid: 2C6XhahzztU
 ---

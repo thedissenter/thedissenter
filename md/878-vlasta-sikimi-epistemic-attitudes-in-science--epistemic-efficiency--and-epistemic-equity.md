@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75006383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-24%2Ff3c7a851-1bbf-c5a6-3db2-8e78c9b2ed0a.m4a
-category: General Science
 draft: false
 excerpt: "Dr. Vlasta Sikimi\u0107 is an Assistant Professor at the Eindhoven University\
   \ of Technology. Her research focus is on Philosophy of Science, Philosophy of AI,\
@@ -8,7 +7,12 @@ excerpt: "Dr. Vlasta Sikimi\u0107 is an Assistant Professor at the Eindhoven Uni
   \ she works on data-driven approaches to optimization of scientific reasoning."
 id: '878'
 image: https://i.ytimg.com/vi/mDv08bzb15g/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/878-vlasta-sikimi%C4%87-epistemic-attitudes-in-science-epistemic/id1451347236?i=1000639674737&uo=4
 publishDate: 2023-12-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/878-Vlasta-Sikimi-Epistemic-Attitudes-in-Science--Epistemic-Efficiency--and-Epistemic-Equity-e28fgvf
+tags:
+- General Science
+- Philosophy
 title: "#878 Vlasta Sikimi\u0107: Epistemic Attitudes in Science, Epistemic Efficiency,\
   \ and Epistemic Equity"
 youtubeid: mDv08bzb15g

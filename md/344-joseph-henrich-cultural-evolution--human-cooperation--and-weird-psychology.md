@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/15127820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-13%2F81908163-44100-2-19c8e33627523.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Joseph Henrich is Professor and chair of The Department of Human Evolutionary
   Biology at Harvard University. He is interested in the question of how humans evolved
@@ -10,6 +9,10 @@ excerpt: Dr. Joseph Henrich is Professor and chair of The Department of Human Ev
 id: '344'
 image: https://i.ytimg.com/vi/1Qx7q4Swruk/maxresdefault.jpg
 publishDate: 2020-06-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/344-Joseph-Henrich-Cultural-Evolution--Human-Cooperation--and-WEIRD-Psychology-efc5qc
+tags:
+- Anthropology
+- Psychology
 title: '#344 Joseph Henrich: Cultural Evolution, Human Cooperation, and WEIRD Psychology'
 youtubeid: 1Qx7q4Swruk
 ---

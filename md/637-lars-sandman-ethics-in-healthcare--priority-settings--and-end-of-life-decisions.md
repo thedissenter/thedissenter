@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/49033575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F348a8b7d-58f3-6975-7175-7c4c370755bd.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping University,\
   \ and Director at National Centre for Priorities in Health, in Sweden. His research\
@@ -10,6 +9,9 @@ excerpt: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping Uni
 id: '637'
 image: https://i.ytimg.com/vi/yOuX36Erss0/maxresdefault.jpg
 publishDate: 2022-06-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/637-Lars-Sandman-Ethics-in-Healthcare--Priority-Settings--and-End-of-Life-Decisions-e1fmst7
+tags:
+- Philosophy
 title: '#637 Lars Sandman: Ethics in Healthcare, Priority Settings, and End-of-Life
   Decisions'
 youtubeid: yOuX36Erss0

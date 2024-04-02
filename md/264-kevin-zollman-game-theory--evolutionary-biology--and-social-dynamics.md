@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a
-category: Game Theory
 draft: false
 excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy\
   \ at Carnegie Mellon University. In addition to his primary appointment at Carnegie\
@@ -12,6 +11,10 @@ excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philo
 id: '264'
 image: https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg
 publishDate: 2019-12-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/264-Kevin-Zollman-Game-Theory--Evolutionary-Biology--And-Social-Dynamics-e5k4pc
+tags:
+- Game Theory
+- Philosophy
 title: '#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics'
 youtubeid: f_JjVtsaTiw
 ---

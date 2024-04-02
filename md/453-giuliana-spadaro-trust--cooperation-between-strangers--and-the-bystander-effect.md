@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25920871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2Fed3f0b9e-ec0c-af3d-bed8-93da63b26d2f.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Giuliana Spadaro is Visiting Fellow in the Faculty of Behavioral and
   Movement Sciences at Vrije Universiteit Amsterdam. She is interested in conducting
@@ -10,6 +9,9 @@ excerpt: Dr. Giuliana Spadaro is Visiting Fellow in the Faculty of Behavioral an
 id: '453'
 image: https://i.ytimg.com/vi/HvlSWcOFd6U/maxresdefault.jpg
 publishDate: 2021-04-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/453-Giuliana-Spadaro-Trust--Cooperation-Between-Strangers--and-the-Bystander-Effect-eplht7
+tags:
+- Psychology
 title: '#453 Giuliana Spadaro: Trust, Cooperation Between Strangers, and the Bystander
   Effect'
 youtubeid: HvlSWcOFd6U

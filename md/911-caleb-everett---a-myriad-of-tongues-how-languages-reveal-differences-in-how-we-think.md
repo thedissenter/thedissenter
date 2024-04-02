@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77809494/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-27%2F36a880ca-8365-694e-3f78-4164790ee289.m4a
-category: Linguistics
 draft: false
 excerpt: 'Dr. Caleb Everett is a Senior Associate Dean in the College of Arts & Sciences
   at the University of Miami and a Professor in the Anthropology Department, with
@@ -10,7 +9,12 @@ excerpt: 'Dr. Caleb Everett is a Senior Associate Dean in the College of Arts & 
   Differences in How We Think. '
 id: '911'
 image: https://i.ytimg.com/vi/JN1NJg3SbWA/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/911-caleb-everett-a-myriad-of-tongues-how/id1451347236?i=1000648823244&uo=4
 publishDate: 2024-03-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/911-Caleb-Everett---A-Myriad-of-Tongues-How-Languages-Reveal-Differences-in-How-We-Think-e2b52cm
+tags:
+- Linguistics
+- Psychology
 title: '#911 Caleb Everett - A Myriad of Tongues: How Languages Reveal Differences
   in How We Think'
 youtubeid: JN1NJg3SbWA

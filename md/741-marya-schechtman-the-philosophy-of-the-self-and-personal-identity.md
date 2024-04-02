@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60628682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2Fb7b0128c-067e-633b-2c32-36ca20c83213.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Marya Schechtman is an LAS Distinguished Professor of Philosophy, as
   well as a member of the Laboratory of Integrative Neuroscience at the University
@@ -10,7 +9,11 @@ excerpt: 'Dr. Marya Schechtman is an LAS Distinguished Professor of Philosophy, 
   Unity of a Life (Oxford 2014).'
 id: '741'
 image: https://i.ytimg.com/vi/UtqdlyTBLmI/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/741-marya-schechtman-the-philosophy-of-the/id1451347236?i=1000598932685&uo=4
 publishDate: 2023-02-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/741-Marya-Schechtman-The-Philosophy-of-the-Self-and-Personal-Identity-e1qoo8a
+tags:
+- Philosophy
 title: '#741 Marya Schechtman: The Philosophy of the Self and Personal Identity'
 youtubeid: UtqdlyTBLmI
 ---

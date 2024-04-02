@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/44960615/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-16%2F31dac20b-8574-eb33-a496-b7ae77374224.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Francis McAndrew is the Cornelia H. Dudley Professor of Psychology at
   Knox College. He studies human social behavior from an evolutionary perspective.
@@ -15,6 +14,9 @@ excerpt: 'Dr. Francis McAndrew is the Cornelia H. Dudley Professor of Psychology
 id: '605'
 image: https://i.ytimg.com/vi/zSdF3xoUKmk/maxresdefault.jpg
 publishDate: 2022-03-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/605-Frank-McAndrew-Evolutionary-Psychology--Gossip--Namesaking--and-Aggression-e1bqjd7
+tags:
+- Psychology
 title: '#605 Frank McAndrew: Evolutionary Psychology, Gossip, Namesaking, and Aggression'
 youtubeid: zSdF3xoUKmk
 ---

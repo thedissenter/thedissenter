@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/69392051/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-27%2F2a704af7-ae41-2241-bb93-f9f0010701a5.m4a
-category: Archaeology
 draft: false
 excerpt: Dr. Greger Larson is a Professor in the School of Archaeology at the University
   of Oxford and Director of the Wellcome Trust Palaeogenomics and Bio-Archaeology
@@ -10,7 +9,13 @@ excerpt: Dr. Greger Larson is a Professor in the School of Archaeology at the Un
   insights into the prehistoric bond between humans and early dogs.
 id: '828'
 image: https://i.ytimg.com/vi/nXybR_0JhnU/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/828-greger-larson-animal-domestication-and-human/id1451347236?i=1000626368425&uo=4
 publishDate: 2023-08-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/828-Greger-Larson-Animal-Domestication-and-Human-Evolution-e23467j
+tags:
+- Archaeology
+- Biology
+- Anthropology
 title: '#828 Greger Larson: Animal Domestication and Human Evolution'
 youtubeid: nXybR_0JhnU
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31485835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2Ff13022e8-d7de-136b-d11c-9e7f7948292a.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Elly Vintiadis is a philosopher of mind and psychiatry at Deree, the
   American College of Greece. Her work focuses on the mind, its products and disorders,
@@ -12,6 +11,9 @@ excerpt: 'Dr. Elly Vintiadis is a philosopher of mind and psychiatry at Deree, t
 id: '500'
 image: https://i.ytimg.com/vi/Rrxk3SlojW8/maxresdefault.jpg
 publishDate: 2021-07-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/500-Elly-Vintiadis---Philosophy-by-Women-22-Philosophers-Reflect-on-Philosophy-and-Its-Value-euvceb
+tags:
+- Philosophy
 title: '#500 Elly Vintiadis - Philosophy by Women: 22 Philosophers Reflect on Philosophy
   and Its Value'
 youtubeid: Rrxk3SlojW8

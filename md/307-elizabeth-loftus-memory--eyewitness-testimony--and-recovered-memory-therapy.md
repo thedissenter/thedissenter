@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9420603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-31%2F41442362-44100-2-c2d9d7d9ae8c7.m4a
-category: Law
 draft: false
 excerpt: 'THIS IS AN AUDIO-ONLY INTERVIEW.  '
 id: '307'
 image: https://i.ytimg.com/vi/jbRNhCDp5yU/maxresdefault.jpg
 publishDate: 2020-03-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/307-Elizabeth-Loftus-Memory--Eyewitness-Testimony--and-Recovered-Memory-Therapy-e9u0br
+tags:
+- Law
+- Psychology
 title: '#307 Elizabeth Loftus: Memory, Eyewitness Testimony, and Recovered Memory
   Therapy'
 youtubeid: jbRNhCDp5yU

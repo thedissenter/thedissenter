@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1986282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7573041-44100-2-a9efae21386eb.mp3
-category: Philosophy
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '20'
 image: https://i.ytimg.com/vi/rBTPMBKCZLs/maxresdefault.jpg
 publishDate: 2018-04-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/20-Stephen-Hicks-Postmodernism--from-Rousseau-to-the-Present-e2r49a
+tags:
+- Philosophy
 title: '#20 Stephen Hicks: Postmodernism, from Rousseau to the Present'
 youtubeid: rBTPMBKCZLs
 ---

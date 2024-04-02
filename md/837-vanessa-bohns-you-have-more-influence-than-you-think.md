@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70620927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2Fd7b32336-4ab7-a4e1-b61d-135d9242a513.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Vanessa Bohns is a social psychologist and a Professor of Organizational
   Behavior at Cornell University. Her research focuses broadly on social influence
@@ -9,7 +8,11 @@ excerpt: 'Dr. Vanessa Bohns is a social psychologist and a Professor of Organiza
   It Matters.'
 id: '837'
 image: https://i.ytimg.com/vi/RrB6FCTmoLs/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/837-vanessa-bohns-you-have-more-influence-than-you-think/id1451347236?i=1000628739416&uo=4
 publishDate: 2023-09-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/837-Vanessa-Bohns-You-Have-More-Influence-Than-You-Think-e249m9v
+tags:
+- Psychology
 title: '#837 Vanessa Bohns: You Have More Influence Than You Think'
 youtubeid: RrB6FCTmoLs
 ---

@@ -1,5 +1,4 @@
 ---
-category: Medicine
 draft: false
 excerpt: "A Dra. In\xEAs Cordeiro \xE9 reumatologista, Secret\xE1ria-Geral Adjunta\
   \ da Sociedade Portuguesa de Reumatologia. Trabalha no Servi\xE7o de Reumatologia\
@@ -10,6 +9,9 @@ excerpt: "A Dra. In\xEAs Cordeiro \xE9 reumatologista, Secret\xE1ria-Geral Adjun
 id: '44'
 image: https://i.ytimg.com/vi/fEvdwwQ9SFc/maxresdefault.jpg
 publishDate: 2018-07-06
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Medicine
 title: "#44 In\xEAs Cordeiro: Reumatologia em Portugal e no Mundo, Presente e Futuro"
 youtubeid: fEvdwwQ9SFc
 ---

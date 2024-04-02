@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/50209370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-6%2Fc99acabd-2dfc-6fd8-dc72-11d879d4600e.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Steven Churchill is a Professor and past Chair of the Department of Evolutionary
   Anthropology at Duke University.  He is also an Honorary Reader in the Evolutionary
@@ -11,6 +10,9 @@ excerpt: Dr. Steven Churchill is a Professor and past Chair of the Department of
 id: '645'
 image: https://i.ytimg.com/vi/LdtcudCZceY/maxresdefault.jpg
 publishDate: 2022-06-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/645-Steven-Churchill-Homo-naledi--Australopithecus-sediba--and-Human-Evolution-e1gqp4q
+tags:
+- Anthropology
 title: '#645 Steven Churchill: Homo naledi, Australopithecus sediba, and Human Evolution'
 youtubeid: LdtcudCZceY
 ---

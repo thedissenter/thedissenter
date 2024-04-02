@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1991911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7602055-44100-2-9f2f33973fd7b.mp3
-category: Primatology
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '40'
 image: https://i.ytimg.com/vi/X2lU4KCv_gY/maxresdefault.jpg
 publishDate: 2018-06-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/40-Frans-de-Waal-Morality--Sociality--and-Culture-in-Primate-Societies-e2r9p7
+tags:
+- Primatology
 title: '#40 Frans de Waal: Morality, Sociality, and Culture in Primate Societies'
 youtubeid: X2lU4KCv_gY
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707232-48000-2-18aea3ee807fb.mp3
-category: Anthropology
 draft: false
 excerpt: "Dr. Heather Montgomery is a social anthropologist who studied for her PhD\
   \ at Trinity College, Cambridge, which she wrote on child prostitution in Thailand.\
@@ -10,6 +9,9 @@ excerpt: "Dr. Heather Montgomery is a social anthropologist who studied for her 
 id: '96'
 image: https://i.ytimg.com/vi/VxL0wNd05EY/maxresdefault.jpg
 publishDate: 2018-11-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/96-Heather-Montgomery-Social-Anthropology-of-Childhood-and-Child-Labor-e2rn5n
+tags:
+- Anthropology
 title: '#96 Heather Montgomery: Social Anthropology of Childhood and Child Labor'
 youtubeid: VxL0wNd05EY
 ---

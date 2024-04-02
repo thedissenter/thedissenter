@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15847628-44100-2-7cac3934b4436.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Mark Leary is Professor of Psychology and Neuroscience at Duke University.
   Dr. Leary has taught at Denison University, the University of Texas at Austin, and
@@ -13,6 +12,9 @@ excerpt: 'Dr. Mark Leary is Professor of Psychology and Neuroscience at Duke Uni
 id: '201'
 image: https://i.ytimg.com/vi/VeveTmliHeQ/maxresdefault.jpg
 publishDate: 2019-07-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/201-Mark-Leary-The-Self--Self-presentation--And-Social-Status-e44smd
+tags:
+- Psychology
 title: '#201 Mark Leary: The Self, Self-presentation, And Social Status'
 youtubeid: VeveTmliHeQ
 ---

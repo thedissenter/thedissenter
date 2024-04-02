@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20861358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2F44a976aa-9821-038b-bac9-e662b8911600.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Professor\
   \ of Neural Science, Professor of Psychiatry, and Professor of Child and Adolescent\
@@ -11,6 +10,9 @@ excerpt: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Pr
 id: '407'
 image: https://i.ytimg.com/vi/TzhqTRtHx8w/maxresdefault.jpg
 publishDate: 2020-12-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/407-Joseph-LeDoux-The-Deep-History-of-Ourselves-ekr4ve
+tags:
+- Neuroscience
 title: '#407 Joseph LeDoux: The Deep History of Ourselves'
 youtubeid: TzhqTRtHx8w
 ---

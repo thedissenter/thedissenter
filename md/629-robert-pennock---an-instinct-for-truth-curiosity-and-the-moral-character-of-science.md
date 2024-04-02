@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan State
   University, where he is on the faculty of Lyman Briggs College, the Departments
@@ -12,6 +11,10 @@ excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan S
 id: '629'
 image: https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg
 publishDate: 2022-05-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/629-Robert-Pennock---An-Instinct-for-Truth-Curiosity-and-the-Moral-Character-of-Science-e1ep5nu
+tags:
+- General Science
+- Philosophy
 title: '#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character
   of Science'
 youtubeid: P9I3S4wVZ44

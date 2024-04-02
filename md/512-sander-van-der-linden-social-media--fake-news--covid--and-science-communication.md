@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33486264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F9789b6b3-30b8-c2dd-9429-c2e64a71d6bb.m4a
-category: Sociology
 draft: false
 excerpt: Dr. Sander van der Linden is Professor of Social Psychology in the Department
   of Psychology at the University of Cambridge and Director of the Cambridge Social
@@ -11,6 +10,11 @@ excerpt: Dr. Sander van der Linden is Professor of Social Psychology in the Depa
 id: '512'
 image: https://i.ytimg.com/vi/gVwmPMM0N1Q/maxresdefault.jpg
 publishDate: 2021-08-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/512-Sander-van-der-Linden-Social-Media--Fake-News--COVID--and-Science-Communication-e10sdvo
+tags:
+- Politics
+- Sociology
+- Psychology
 title: '#512 Sander van der Linden: Social Media, Fake News, COVID, and Science Communication'
 youtubeid: gVwmPMM0N1Q
 ---

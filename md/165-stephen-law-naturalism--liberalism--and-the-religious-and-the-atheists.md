@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2533294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725817-44100-2-7536a04272b68.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, and\
   \ before that Research Fellow at The Queen\u2019s College Oxford. He is currently\
@@ -11,6 +10,9 @@ excerpt: "Dr. Stephen Law is formally Reader in Philosophy at Heythrop College, 
 id: '165'
 image: https://i.ytimg.com/vi/gDfSMv2BHzg/maxresdefault.jpg
 publishDate: 2019-04-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/165-Stephen-Law-Naturalism--Liberalism--And-The-Religious-And-The-Atheists-e3bqfe
+tags:
+- Philosophy
 title: '#165 Stephen Law: Naturalism, Liberalism, And The Religious And The Atheists'
 youtubeid: gDfSMv2BHzg
 ---

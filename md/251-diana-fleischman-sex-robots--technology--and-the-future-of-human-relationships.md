@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4434234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138158-44100-2-2f3a51ff07018.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the University
   of Texas, Austin, US, under the supervision of David Buss. She is currently a senior
@@ -11,6 +10,9 @@ excerpt: Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the 
 id: '251'
 image: https://i.ytimg.com/vi/o8L6AjJg5OM/maxresdefault.jpg
 publishDate: 2019-11-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/251-Diana-Fleischman-Sex-Robots--Technology--And-The-Future-Of-Human-Relationships-e55qrq
+tags:
+- Psychology
 title: '#251 Diana Fleischman: Sex Robots, Technology, And The Future Of Human Relationships'
 youtubeid: o8L6AjJg5OM
 ---

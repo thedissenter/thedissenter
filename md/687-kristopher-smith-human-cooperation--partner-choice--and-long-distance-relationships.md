@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54573334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-8%2F6dd7dee1-08fd-8d73-7e52-03a689f772a1.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Department
   of Anthropology at Washington State University, where he studies long-distance relationships
@@ -15,6 +14,9 @@ excerpt: Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Dep
 id: '687'
 image: https://i.ytimg.com/vi/vBqKDXVh-9M/maxresdefault.jpg
 publishDate: 2022-10-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/687-Kristopher-Smith-Human-Cooperation--Partner-Choice--and-Long-Distance-Relationships-e1kvuqm
+tags:
+- Anthropology
 title: '#687 Kristopher Smith: Human Cooperation, Partner Choice, and Long-Distance
   Relationships'
 youtubeid: vBqKDXVh-9M

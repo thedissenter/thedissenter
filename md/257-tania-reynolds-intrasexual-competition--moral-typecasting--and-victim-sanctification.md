@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4902807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122439-44100-2-a7ac330aff488.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the\
   \ Kinsey Institute. She received her PhD in Social Psychology from Florida State\
@@ -15,6 +14,9 @@ excerpt: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at t
 id: '257'
 image: https://i.ytimg.com/vi/n6EWA_Wg3xI/maxresdefault.jpg
 publishDate: 2019-11-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/257-Tania-Reynolds-Intrasexual-Competition--Moral-Typecasting--And-Victim-Sanctification-e5k4en
+tags:
+- Psychology
 title: '#257 Tania Reynolds: Intrasexual Competition, Moral Typecasting, And Victim
   Sanctification'
 youtubeid: n6EWA_Wg3xI

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61690086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F5fc4295e-0c7b-d5f8-77cb-2ae40423a43e.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Quentin Atkinson is a Professor in Psychology at the University of Auckland,
   where he runs the Language, Cognition and Culture Lab, and co-Director of the University
@@ -12,7 +11,12 @@ excerpt: Dr. Quentin Atkinson is a Professor in Psychology at the University of 
   they do around the globe.
 id: '757'
 image: https://i.ytimg.com/vi/09UkHZ3nRrs/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/757-quentin-atkinson-comparing-cultures-climate-change/id1451347236?i=1000604688301&uo=4
 publishDate: 2023-03-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/757-Quentin-Atkinson-Comparing-Cultures--Climate-Change--and-Religion-e1rp4p6
+tags:
+- Anthropology
+- Psychology
 title: '#757 Quentin Atkinson: Comparing Cultures, Climate Change, and Religion'
 youtubeid: 09UkHZ3nRrs
 ---

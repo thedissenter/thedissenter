@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73082644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-6%2F5961bdb8-df51-5b90-abfe-ca73b106e8ea.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr.
   Reginster''s research has focused mostly on issues in ethics, metaethics, and moral
@@ -11,7 +10,11 @@ excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. 
   On the Genealogy of Morality.'
 id: '915'
 image: https://i.ytimg.com/vi/QRpIFHuAAUk/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/915-bernard-reginster-the-will-to-nothingness-an/id1451347236?i=1000649358410&uo=4
 publishDate: 2024-03-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/915-Bernard-Reginster---The-Will-to-Nothingness-An-Essay-on-Nietzsches-On-the-Genealogy-of-Morality-e26kqak
+tags:
+- Philosophy
 title: '#915 Bernard Reginster The Will to Nothingness: An Essay on Nietzsche''s On
   the Genealogy of Morality'
 youtubeid: QRpIFHuAAUk

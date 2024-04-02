@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/44960487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-16%2F7f2cb001-9ce0-4a64-3379-47e15a304325.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. George Sher is Herbert S. Autrey Professor of Humanities and Professor
   of Philosophy at Rice University. In recent years, his research has centered on
@@ -9,6 +8,9 @@ excerpt: 'Dr. George Sher is Herbert S. Autrey Professor of Humanities and Profe
 id: '604'
 image: https://i.ytimg.com/vi/eUPAjrB0v0c/maxresdefault.jpg
 publishDate: 2022-03-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/604-George-Sher---A-Wild-West-of-the-Mind-The-Morality-of-Nasty-Thoughts-e1bqj97
+tags:
+- Philosophy
 title: '#604 George Sher - A Wild West of the Mind; The Morality of Nasty Thoughts'
 youtubeid: eUPAjrB0v0c
 ---

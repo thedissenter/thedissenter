@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8560460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-20%2F34980330-44100-2-a3f5cbb9dcfac.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. John Danaher is a senior lecturer in the Law School at the National\
   \ University of Ireland, Galway. He holds a BCL from University College Cork (2006);\
@@ -15,6 +14,9 @@ excerpt: "Dr. John Danaher is a senior lecturer in the Law School at the Nationa
 id: '287'
 image: https://i.ytimg.com/vi/Uw7fLPilqcc/maxresdefault.jpg
 publishDate: 2020-01-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/287-John-Danaher-Automation-and-Utopia-The-End-of-Work--Cyborgs--And-Virtual-Worlds-e93occ
+tags:
+- Philosophy
 title: '#287 John Danaher: Automation and Utopia; The End of Work, Cyborgs, And Virtual
   Worlds'
 youtubeid: Uw7fLPilqcc

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/58366414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2Fd6857736-4e88-7253-77d4-cbeceb6fe76f.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. William Harris is Professor Emeritus of Anatomy at Cambridge University
   and fellow of Clare College, Cambridge. He was head of the Department of Physiology,
@@ -13,6 +12,9 @@ excerpt: 'Dr. William Harris is Professor Emeritus of Anatomy at Cambridge Unive
 id: '723'
 image: https://i.ytimg.com/vi/swFWxI_OFrY/maxresdefault.jpg
 publishDate: 2022-12-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/723-William-Harris---Zero-to-Birth-How-the-Human-Brain-Is-Built-e1ojn0e
+tags:
+- Neuroscience
 title: '#723 William Harris - Zero to Birth: How the Human Brain Is Built'
 youtubeid: swFWxI_OFrY
 ---

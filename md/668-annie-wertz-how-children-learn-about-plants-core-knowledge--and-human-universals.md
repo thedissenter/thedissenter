@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/53521739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-15%2Fe2029ca5-88fd-0147-9162-3557d74d052f.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Social
   Cognition at the Max Planck Institute for Human Development, Berlin. Her research
@@ -14,6 +13,9 @@ excerpt: Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Socia
 id: '668'
 image: https://i.ytimg.com/vi/snoPcQoG_gE/maxresdefault.jpg
 publishDate: 2022-08-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/668-Annie-Wertz-How-Children-Learn-About-Plants-Core-Knowledge--and-Human-Universals-e1jvrsb
+tags:
+- Psychology
 title: '#668 Annie Wertz: How Children Learn About Plants; Core Knowledge, and Human
   Universals'
 youtubeid: snoPcQoG_gE

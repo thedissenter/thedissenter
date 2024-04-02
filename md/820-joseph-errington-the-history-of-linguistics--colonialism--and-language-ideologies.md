@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/68848250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-18%2Fc4caa795-2b3d-7ddd-9f8e-093982d29f33.m4a
-category: Linguistics
 draft: false
 excerpt: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. He
   studies language change as a source of insight into the ways languages constitute
@@ -14,7 +13,11 @@ excerpt: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. 
   Linguistics in a Colonial World.'
 id: '820'
 image: https://i.ytimg.com/vi/Wq8Hw3xlLf8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/820-joseph-errington-the-history-of/id1451347236?i=1000624184620&uo=4
 publishDate: 2023-08-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/820-Joseph-Errington-The-History-of-Linguistics--Colonialism--and-Language-Ideologies-e22jj5q
+tags:
+- Linguistics
 title: '#820 Joseph Errington: The History of Linguistics, Colonialism, and Language
   Ideologies'
 youtubeid: Wq8Hw3xlLf8

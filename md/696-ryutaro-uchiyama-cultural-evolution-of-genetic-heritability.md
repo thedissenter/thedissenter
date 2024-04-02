@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55436150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-28%2F26af0b0a-fdf9-f55b-9a4d-32379c186bcc.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological University,
   Singapore. His research interests include cultural evolution, cognitive plasticity,
@@ -8,6 +7,11 @@ excerpt: Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological Univ
 id: '696'
 image: https://i.ytimg.com/vi/j7HIP0AQwno/maxresdefault.jpg
 publishDate: 2022-10-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/696-Ryutaro-Uchiyama-Cultural-Evolution-of-Genetic-Heritability-e1lq9dm
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#696 Ryutaro Uchiyama: Cultural Evolution of Genetic Heritability'
 youtubeid: j7HIP0AQwno
 ---

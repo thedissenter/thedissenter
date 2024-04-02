@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241675/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121930-44100-2-3720ae228540c.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. William von Hippel is Professor of Psychology at the University of Queensland,\
   \ Australia.  He has published more than a hundred articles, chapters, and edited\
@@ -12,6 +11,9 @@ excerpt: "Dr. William von Hippel is Professor of Psychology at the University of
 id: '143'
 image: https://i.ytimg.com/vi/T8K5fbEezbE/maxresdefault.jpg
 publishDate: 2019-02-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/143-William-von-Hippel-The-Social-Leap--Human-Sociality--Mating--Agriculture--and-Happiness-e32tmb
+tags:
+- Psychology
 title: '#143 William von Hippel: The Social Leap, Human Sociality, Mating, Agriculture,
   and Happiness'
 youtubeid: T8K5fbEezbE

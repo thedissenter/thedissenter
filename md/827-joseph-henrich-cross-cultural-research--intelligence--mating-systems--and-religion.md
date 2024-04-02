@@ -1,11 +1,15 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74169759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-2%2F41b6c38b-867e-b17d-6cc8-1af92c9e7d50.m4a
-category: Anthropology
 draft: false
 excerpt: 'Podcast: http://bit.ly/3FeSNqb'
 id: '827'
 image: https://i.ytimg.com/vi/YDye_PmZEqE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/827-joseph-henrich-cross-cultural-research-intelligence/id1451347236?i=1000625993228&uo=4
 publishDate: 2023-08-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/827-Joseph-Henrich-Cross-Cultural-Research--Intelligence--Mating-Systems--and-Religion-e27lvuv
+tags:
+- Anthropology
+- Psychology
 title: '#827 Joseph Henrich: Cross-Cultural Research, Intelligence, Mating Systems,
   and Religion'
 youtubeid: YDye_PmZEqE

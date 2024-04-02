@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48782703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2Ff8cf8ba2-7b6b-b4b1-a249-e3cdf908f153.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the\
   \ University of Porto. He does work in the areas of philosophy of mind, Nietzsche\u2019\
@@ -10,6 +9,9 @@ excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at t
 id: '635'
 image: https://i.ytimg.com/vi/rq_llEbXT8Y/maxresdefault.jpg
 publishDate: 2022-06-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/635-Mattia-Riccardi-Nietzsches-Philosophical-Psychology-e1ff7tf
+tags:
+- Philosophy
 title: "#635 Mattia Riccardi: Nietzsche\u2019s Philosophical Psychology"
 youtubeid: rq_llEbXT8Y
 ---

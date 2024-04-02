@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/37607353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F59c49fc5-db42-26fa-a4e5-1ccd57761a9b.m4a
-category: Medicine
 draft: false
 excerpt: Dr. Itai Yanai is Founding Director of the Institute for Computational Medicine
   at the NYU Grossman School of Medicine. He is also a Professor in the Department
@@ -11,6 +10,10 @@ excerpt: Dr. Itai Yanai is Founding Director of the Institute for Computational 
 id: '540'
 image: https://i.ytimg.com/vi/Pg6b6za9cTg/maxresdefault.jpg
 publishDate: 2021-10-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/540-Itai-Yanai-The-Society-of-Genes-Genome-Evolution--Epigenetics--Health--and-Gene-Editing-e14q6fp
+tags:
+- Medicine
+- Biology
 title: '#540 Itai Yanai: The Society of Genes; Genome Evolution, Epigenetics, Health,
   and Gene Editing'
 youtubeid: Pg6b6za9cTg

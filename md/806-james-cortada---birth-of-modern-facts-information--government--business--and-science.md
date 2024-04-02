@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72833686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-30%2F81f01eae-ce81-9581-bf11-e46226990f1b.m4a
-category: History
 draft: false
 excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage Institute
   at the University of Minnesota. He worked at IBM for thirty-eight years in sales,
@@ -9,7 +8,12 @@ excerpt: 'Dr. James W. Cortada is Senior Research Fellow at the Charles Babbage 
   and Businesses. '
 id: '806'
 image: https://i.ytimg.com/vi/Z4zOfIp32-0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/806-james-cortada-birth-of-modern-facts-information/id1451347236?i=1000620621918&uo=4
 publishDate: 2023-07-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/806-James-Cortada---Birth-of-Modern-Facts-Information--Government--Business--and-Science-e26d76m
+tags:
+- History
+- General Science
 title: '#806 James Cortada - Birth of Modern Facts; Information, Government, Business,
   and Science'
 youtubeid: Z4zOfIp32-0

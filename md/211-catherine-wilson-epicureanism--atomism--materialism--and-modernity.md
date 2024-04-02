@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3720829/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877317-44100-2-2292736079cf3.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Catherine Wilson was until recently Professor of Philosophy at the University\
   \ of York, and is now teaching part-time at the City University of New York, and\
@@ -15,6 +14,9 @@ excerpt: "Dr. Catherine Wilson was until recently Professor of Philosophy at the
 id: '211'
 image: https://i.ytimg.com/vi/PtutEYXMEWg/maxresdefault.jpg
 publishDate: 2019-08-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/211-Catherine-Wilson-Epicureanism--Atomism--Materialism--And-Modernity-e4g25t
+tags:
+- Philosophy
 title: '#211 Catherine Wilson: Epicureanism, Atomism, Materialism, And Modernity'
 youtubeid: PtutEYXMEWg
 ---

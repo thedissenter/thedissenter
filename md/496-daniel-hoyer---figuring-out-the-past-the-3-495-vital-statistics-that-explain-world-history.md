@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31134122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2Fc7bd8e04-75fb-a776-b134-d6e57be4b0ce.m4a
-category: Economy, Progress
 draft: false
 excerpt: 'Dr. Daniel Hoyer currently holds a postdoctoral position working with Dr.
   Peter Turchin on the Deep Roots of the Modern World, part of the SESHAT: Global
@@ -16,6 +15,12 @@ excerpt: 'Dr. Daniel Hoyer currently holds a postdoctoral position working with 
 id: '496'
 image: https://i.ytimg.com/vi/7rYD5CBtIwc/maxresdefault.jpg
 publishDate: 2021-07-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/496-Daniel-Hoyer---Figuring-Out-the-Past-The-3-495-Vital-Statistics-that-Explain-World-History-eukkva
+tags:
+- History
+- Economy, Progress
+- Sociology
+- Anthropology
 title: '#496 Daniel Hoyer - Figuring Out the Past: The 3,495 Vital Statistics that
   Explain World History'
 youtubeid: 7rYD5CBtIwc

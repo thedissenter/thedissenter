@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12282803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63582044-44100-2-c2b404d3239c3.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Jeroen Hopster was a postdoctoral researcher at Utrecht University,
   and now he is doing research on climate ethics at the University of Graz. In February
@@ -8,6 +7,9 @@ excerpt: 'Dr. Jeroen Hopster was a postdoctoral researcher at Utrecht University
 id: '335'
 image: https://i.ytimg.com/vi/bD2M7wbjDIk/maxresdefault.jpg
 publishDate: 2020-05-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/335-Jeroen-Hopster-Evolution--Morality--Climate-Change--And-Animal-Rights-eclbfj
+tags:
+- Philosophy
 title: '#335 Jeroen Hopster: Evolution, Morality, Climate Change, And Animal Rights'
 youtubeid: bD2M7wbjDIk
 ---

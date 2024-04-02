@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10231547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47236741-44100-2-b5f7cff614381.m4a
-category: Anthropology
 draft: false
 excerpt: ''
 id: '322'
 image: https://i.ytimg.com/vi/Wyxt6rWesSg/maxresdefault.jpg
 publishDate: 2020-04-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/322-Curtis-Marean-Zooarchaeology--Human-Origins-And-Evolution-eamo9r
+tags:
+- Anthropology
 title: '#322 Curtis Marean: Zooarchaeology, Human Origins And Evolution'
 youtubeid: Wyxt6rWesSg
 ---

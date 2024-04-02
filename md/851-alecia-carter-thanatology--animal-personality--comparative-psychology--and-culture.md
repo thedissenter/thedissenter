@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71287069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-30%2F380b6241-12fa-dea8-8965-fab3eb4097d6.m4a
-category: Biology
 draft: false
 excerpt: Dr. Alecia Carter is Associate Professor in the Department of Anthropology
   at University College London. Her current research investigates (1) how primates
@@ -12,7 +11,12 @@ excerpt: Dr. Alecia Carter is Associate Professor in the Department of Anthropol
   behavior varies from others but is consistent through time.
 id: '851'
 image: https://i.ytimg.com/vi/TDQG5CR0es8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/851-alecia-carter-thanatology-animal-personality-comparative/id1451347236?i=1000632320364&uo=4
 publishDate: 2023-10-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/851-Alecia-Carter-Thanatology--Animal-Personality--Comparative-Psychology--and-Culture-e24u0qt
+tags:
+- Biology
+- Anthropology
 title: '#851 Alecia Carter: Thanatology, Animal Personality, Comparative Psychology,
   and Culture'
 youtubeid: TDQG5CR0es8

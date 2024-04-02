@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/46489281/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-21%2F6cf49355-9e51-562b-f7c1-64138cb3966e.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Mark W. Moffett is a tropical biologist and research associate at the
   Smithsonian and used to be a visiting scholar in the Department of Human Evolutionary
@@ -9,6 +8,10 @@ excerpt: 'Dr. Mark W. Moffett is a tropical biologist and research associate at 
 id: '615'
 image: https://i.ytimg.com/vi/JQSgLkA087Y/maxresdefault.jpg
 publishDate: 2022-04-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/615-Mark-Moffett---The-Human-Swarm-How-Our-Societies-Arise--Thrive--and-Fall-e1d9881
+tags:
+- Biology
+- Anthropology
 title: '#615 Mark Moffett - The Human Swarm: How Our Societies Arise, Thrive, and
   Fall'
 youtubeid: JQSgLkA087Y

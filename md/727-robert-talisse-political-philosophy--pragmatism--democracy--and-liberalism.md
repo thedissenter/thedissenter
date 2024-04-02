@@ -1,13 +1,16 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59198691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-17%2F11dc981c-cae9-0d6d-5aa5-ec5a5fe1b63c.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Robert Talisse is W. Alton Jones Professor of Philosophy at Vanderbilt
   University. His main area of research is political philosophy, with an emphasis
   on democratic theory and liberalism.
 id: '727'
 image: https://i.ytimg.com/vi/c1Ie2weRg2c/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/727-robert-talisse-political-philosophy-pragmatism/id1451347236?i=1000592914405&uo=4
 publishDate: 2023-01-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/727-Robert-Talisse-Political-Philosophy--Pragmatism--Democracy--and-Liberalism-e1pd3p3
+tags:
+- Philosophy
 title: '#727 Robert Talisse: Political Philosophy, Pragmatism, Democracy, and Liberalism'
 youtubeid: c1Ie2weRg2c
 ---

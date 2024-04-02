@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43936925/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F60d3c720-9a31-885b-2ec7-623bddfd6923.m4a
-category: Economy, Progress
 draft: false
 excerpt: "Dr. George Zarkadakis is a writer of fiction and non-fiction, a science\
   \ communicator, an Artificial Intelligence engineer, a futurist, and a digital innovation\
@@ -14,6 +13,10 @@ excerpt: "Dr. George Zarkadakis is a writer of fiction and non-fiction, a scienc
 id: '596'
 image: https://i.ytimg.com/vi/cnQvVitVB-k/maxresdefault.jpg
 publishDate: 2022-03-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/596-George-Zarkadakis---Cyber-Republic-Reinventing-Democracy-in-the-Age-of-Intelligent-Machines-e1arbmt
+tags:
+- Politics
+- Economy, Progress
 title: '#596 George Zarkadakis - Cyber Republic: Reinventing Democracy in the Age
   of Intelligent Machines'
 youtubeid: cnQvVitVB-k

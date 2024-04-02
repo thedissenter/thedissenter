@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001621/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681815-44100-2-0d60486396f5d.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished Professor of\
   \ social psychology and co-director of the Culture and Cognition program at the\
@@ -11,6 +10,9 @@ excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished Professor
 id: '73'
 image: https://i.ytimg.com/vi/xMxhR-lCy1U/maxresdefault.jpg
 publishDate: 2018-09-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/73-Richard-Nisbett-What-Social-Psychology-Tells-Us-About-Cognition-e2rj8l
+tags:
+- Psychology
 title: '#73 Richard Nisbett: What Social Psychology Tells Us About Cognition'
 youtubeid: xMxhR-lCy1U
 ---

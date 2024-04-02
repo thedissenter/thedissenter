@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24162826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3aadb497-0c30-34c8-c16d-c96ff09e32b1.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Christopher Holden is Professor of Psychology and Principal Investigator
   of the Personality and Romantic Relationships Lab at Appalachian State University.
@@ -10,6 +9,9 @@ excerpt: Dr. Christopher Holden is Professor of Psychology and Principal Investi
 id: '443'
 image: https://i.ytimg.com/vi/hHT4NEsp15M/maxresdefault.jpg
 publishDate: 2021-03-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/443-Christopher-Holden-The-HEXACO--Romantic-Relationships--Mate-Retention--Humor--and-Self-esteem-envt2a
+tags:
+- Psychology
 title: '#443 Christopher Holden: The HEXACO, Romantic Relationships, Mate Retention,
   Humor, and Self-esteem'
 youtubeid: hHT4NEsp15M

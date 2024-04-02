@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3927557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-20%2F19166397-44100-2-3615b13d5b3dd.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collective\
   \ Memory in the Departments of Psychology and Anthropology at Washington University\
@@ -11,6 +10,10 @@ excerpt: "Dr. Pascal Boyer is the Henry Luce Professor of Individual and Collect
 id: '223'
 image: https://i.ytimg.com/vi/4i5S4Lnm1qs/maxresdefault.jpg
 publishDate: 2019-08-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/223-Pascal-Boyer-Minds-Make-Societies--Religion--And-Conspiracy-Theories-e4mc25
+tags:
+- Anthropology
+- Psychology
 title: '#223 Pascal Boyer: Minds Make Societies, Religion, and Conspiracy Theories'
 youtubeid: 4i5S4Lnm1qs
 ---

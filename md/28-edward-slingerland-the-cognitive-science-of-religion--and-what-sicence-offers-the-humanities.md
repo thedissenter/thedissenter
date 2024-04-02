@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '28'
 image: https://i.ytimg.com/vi/zZ3h00-huR4/maxresdefault.jpg
 publishDate: 2018-05-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/28-Edward-Slingerland-The-Cognitive-Science-of-Religion--And-What-Sicence-Offers-the-Humanities-e2r98c
 title: '#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence
   Offers the Humanities'
 youtubeid: zZ3h00-huR4

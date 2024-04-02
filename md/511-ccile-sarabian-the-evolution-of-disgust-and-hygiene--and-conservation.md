@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/33485463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2Ff196a183-a138-ca7c-1a95-1798660b7b6c.m4a
-category: Biology
 draft: false
 excerpt: "Dr. C\xE9cile Sarabian is a Postdoctoral researcher in Cognitive Ecology\
   \ at Kyoto University. She investigates parasite avoidance behaviors and their effectiveness\
@@ -10,6 +9,9 @@ excerpt: "Dr. C\xE9cile Sarabian is a Postdoctoral researcher in Cognitive Ecolo
 id: '511'
 image: https://i.ytimg.com/vi/gbG8DHXnJw0/maxresdefault.jpg
 publishDate: 2021-08-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/511-Ccile-Sarabian-The-Evolution-of-Disgust-and-Hygiene--and-Conservation-e10sd6n
+tags:
+- Biology
 title: "#511 C\xE9cile Sarabian: The Evolution of Disgust and Hygiene, and Conservation"
 youtubeid: gbG8DHXnJw0
 ---

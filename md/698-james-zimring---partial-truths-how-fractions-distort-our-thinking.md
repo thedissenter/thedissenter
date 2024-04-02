@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55599644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-1%2F24709f6a-8da7-4714-6af3-b4525d65f8c7.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. James Zimring is Thomas W. Tillack Professor of Experimental Pathology
   at the University of Virginia. He is the author of What Science Is and How It Really
@@ -8,6 +7,10 @@ excerpt: 'Dr. James Zimring is Thomas W. Tillack Professor of Experimental Patho
 id: '698'
 image: https://i.ytimg.com/vi/_8PEL_10_8Y/maxresdefault.jpg
 publishDate: 2022-10-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/698-James-Zimring---Partial-Truths-How-Fractions-Distort-Our-Thinking-e1lv92s
+tags:
+- Cognitive Science
+- General Science
 title: '#698 James Zimring - Partial Truths: How Fractions Distort Our Thinking'
 youtubeid: _8PEL_10_8Y
 ---

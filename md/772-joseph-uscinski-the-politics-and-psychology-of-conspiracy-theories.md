@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/68026338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F307cd2fb-b3db-2e06-08a7-8647727d4ac4.m4a
-category: Politics
 draft: false
 excerpt: 'Dr. Joseph Uscinski is Professor of Political Science at the University
   of Miami. He studies public opinion and mass media, with a focus on conspiracy theories
@@ -9,7 +8,12 @@ excerpt: 'Dr. Joseph Uscinski is Professor of Political Science at the Universit
   2018). His textbook on conspiracy theories is Conspiracy Theories: A Primer.'
 id: '772'
 image: https://i.ytimg.com/vi/vQHpPco4laY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/772-joseph-uscinski-the-politics-and/id1451347236?i=1000610125757&uo=4
 publishDate: 2023-04-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/772-Joseph-Uscinski-The-Politics-and-Psychology-of-Conspiracy-Theories-e21qgh2
+tags:
+- Politics
+- Psychology
 title: '#772 Joseph Uscinski: The Politics and Psychology of Conspiracy Theories'
 youtubeid: vQHpPco4laY
 ---

@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '34'
 image: https://i.ytimg.com/vi/LlTZrxfqBtI/maxresdefault.jpg
 publishDate: 2018-06-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/34-Azar-Gat-War-and-Terrorism--from-the-Hunter-Gatherers-to-the-Long-Peace-e2r9jh
 title: '#34 Azar Gat: War and Terrorism, from the Hunter-Gatherers to the Long Peace'
 youtubeid: LlTZrxfqBtI
 ---

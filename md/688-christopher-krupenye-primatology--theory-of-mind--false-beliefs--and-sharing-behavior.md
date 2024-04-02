@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/54683380/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-11%2Feea91cf5-12a4-f030-b792-c3cfa70f6871.m4a
-category: Primatology
 draft: false
 excerpt: Dr. Christopher Krupenye is an assistant professor in the Department of Psychological
   & Brain Sciences at Johns Hopkins University. Dr. Krupenye is interested in the
@@ -9,6 +8,10 @@ excerpt: Dr. Christopher Krupenye is an assistant professor in the Department of
 id: '688'
 image: https://i.ytimg.com/vi/z5l1AdaQmTA/maxresdefault.jpg
 publishDate: 2022-10-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/688-Christopher-Krupenye-Primatology--Theory-of-Mind--False-Beliefs--and-Sharing-Behavior-e1l3a9k
+tags:
+- Primatology
+- Psychology
 title: '#688 Christopher Krupenye: Primatology, Theory of Mind, False Beliefs, and
   Sharing Behavior'
 youtubeid: z5l1AdaQmTA

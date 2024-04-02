@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39062579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F4af7cbb7-934b-a116-43e7-79eb512812c9.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fellow
   at the Department of Experimental Psychology and Principal Investigator at the Wellcome
@@ -17,6 +16,10 @@ excerpt: 'Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fel
 id: '557'
 image: https://i.ytimg.com/vi/9MH52uNOA6w/maxresdefault.jpg
 publishDate: 2021-12-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/557-Stephen-Fleming---Know-Thyself-The-New-Science-of-Self-Awareness-e166jjj
+tags:
+- Neuroscience
+- Psychology
 title: '#557 Stephen Fleming - Know Thyself: The New Science of Self-Awareness'
 youtubeid: 9MH52uNOA6w
 ---

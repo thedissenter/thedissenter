@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57261362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-8%2Fea341b46-ac75-1183-7edf-23a196e4ad42.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Jeanne Bovet is an Assistant Professor at the Department of Psychology
   at Northumbria University. Broadly, she tries to understand how evolution shaped
@@ -11,6 +10,10 @@ excerpt: 'Dr. Jeanne Bovet is an Assistant Professor at the Department of Psycho
 id: '709'
 image: https://i.ytimg.com/vi/WD_eY1zmo88/maxresdefault.jpg
 publishDate: 2022-11-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/709-Jeanne-Bovet-The-Evolution-of-Female-Attractiveness--and-Parent-Offspring-Conflict-in-Mating-e1nhvri
+tags:
+- Biology
+- Psychology
 title: '#709 Jeanne Bovet: The Evolution of Female Attractiveness, and Parent-Offspring
   Conflict in Mating'
 youtubeid: WD_eY1zmo88

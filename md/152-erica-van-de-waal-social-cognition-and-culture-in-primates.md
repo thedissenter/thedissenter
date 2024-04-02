@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379814-44100-2-b20d08b1f007f.m4a
-category: Primatology
 draft: false
 excerpt: Dr. Erica van de Waal is Professor of Primatology at the University of Lausanne,
   Switzerland. She is also Director of the Inkawu Vervet Project, at the Mawana Game
@@ -11,6 +10,9 @@ excerpt: Dr. Erica van de Waal is Professor of Primatology at the University of 
 id: '152'
 image: https://i.ytimg.com/vi/IQJDNZRKVtY/maxresdefault.jpg
 publishDate: 2019-03-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/152-Erica-van-de-Waal-Social-Cognition-And-Culture-in-Primates-e39oc9
+tags:
+- Primatology
 title: '#152 Erica van de Waal: Social Cognition and Culture in Primates'
 youtubeid: IQJDNZRKVtY
 ---

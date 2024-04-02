@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-30%2F12146002-44100-2-ffd9fabc1e5fb.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Richard Haier is Professor Emeritus in the Pediatric Neurology Division\
   \ of the School of Medicine at University of California, Irvine. He is also the\
@@ -14,6 +13,9 @@ excerpt: "Dr. Richard Haier is Professor Emeritus in the Pediatric Neurology Div
 id: '160'
 image: https://i.ytimg.com/vi/vz5IR0fL4c8/maxresdefault.jpg
 publishDate: 2019-04-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/160-Richard-Haier-The-Neuroscience-of-Intelligence--Group-Differences--And-AI-e3jk15
+tags:
+- Neuroscience
 title: '#160 Richard Haier: The Neuroscience of Intelligence, Group Differences, And
   AI'
 youtubeid: vz5IR0fL4c8

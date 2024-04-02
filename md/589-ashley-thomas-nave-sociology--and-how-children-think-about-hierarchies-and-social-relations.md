@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43234239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fc8c73c0a-0659-6342-6fc0-c8eadb0076f8.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Ashley Thomas is a postdoctoral fellow at the center for research on
   open and equitable scholarship at MIT. She is interested in humans as a social species.
@@ -14,6 +13,9 @@ excerpt: Dr. Ashley Thomas is a postdoctoral fellow at the center for research o
 id: '589'
 image: https://i.ytimg.com/vi/Tksbpc29W2Y/maxresdefault.jpg
 publishDate: 2022-02-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/589-Ashley-Thomas-Nave-Sociology--and-How-Children-Think-About-Hierarchies-and-Social-Relations-e1a5tfv
+tags:
+- Psychology
 title: "#589 Ashley Thomas: Na\xEFve Sociology, and How Children Think About Hierarchies\
   \ and Social Relations"
 youtubeid: Tksbpc29W2Y

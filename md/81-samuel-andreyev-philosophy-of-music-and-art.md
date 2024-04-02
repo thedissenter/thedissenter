@@ -6,6 +6,7 @@ excerpt: Samuel Andreyev is a Canadian music composer and writer residing in Fra
 id: '81'
 image: https://i.ytimg.com/vi/HUiV4Hgw924/maxresdefault.jpg
 publishDate: 2018-10-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/81-Samuel-Andreyev-Philosophy-of-Music-and-Art-e2rn07
 title: '#81 Samuel Andreyev: Philosophy of Music and Art'
 youtubeid: HUiV4Hgw924
 ---

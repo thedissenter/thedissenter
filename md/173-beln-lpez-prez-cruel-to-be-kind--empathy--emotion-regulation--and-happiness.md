@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2665944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456207-44100-2-3e7070bfdd9c5.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at Liverpool\
   \ Hope University in the UK, where she also directs the ChildLab. She concluded\
@@ -14,6 +13,9 @@ excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at Liverpoo
 id: '173'
 image: https://i.ytimg.com/vi/IzPY07uhTmo/maxresdefault.jpg
 publishDate: 2019-05-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/173-Beln-Lpez-Prez-Cruel-To-Be-Kind--Empathy--Emotion-Regulation-And-Happiness-e3fs0o
+tags:
+- Psychology
 title: "#173 Bel\xE9n L\xF3pez-P\xE9rez: Cruel To Be Kind, Empathy, Emotion Regulation,\
   \ and Happiness"
 youtubeid: IzPY07uhTmo

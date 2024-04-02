@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51181859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-27%2Faa60da0e-eef0-0266-cb98-0d0bad282bad.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Melanie MacEacheron is a Lecturer in the School of Social and Behavioral
   Sciences at Arizona State University. Her current research focus is women's psychology
@@ -11,6 +10,9 @@ excerpt: Dr. Melanie MacEacheron is a Lecturer in the School of Social and Behav
 id: '650'
 image: https://i.ytimg.com/vi/FzHMnDZEQkc/maxresdefault.jpg
 publishDate: 2022-07-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/650-Melanie-MacEacheron-The-Evolution-of-Motherhood--Marital-Surname-Change--and-Feminism-e1hoer3
+tags:
+- Psychology
 title: '#650 Melanie MacEacheron: The Evolution of Motherhood, Marital Surname Change,
   and Feminism'
 youtubeid: FzHMnDZEQkc

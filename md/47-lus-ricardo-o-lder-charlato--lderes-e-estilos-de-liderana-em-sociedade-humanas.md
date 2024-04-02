@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647775-44100-2-3fbf9d7353bf.mp3
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem experi\xEA\
   ncia como professor e como respons\xE1vel t\xE9cnico/comercial em empresas. Publicou\
@@ -10,6 +9,10 @@ excerpt: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem expe
 id: '47'
 image: https://i.ytimg.com/vi/vP8XQO5SZq4/maxresdefault.jpg
 publishDate: 2018-07-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/47-Lus-Ricardo-O-Lder-Charlato--Lderes-e-Estilos-de-Liderana-em-Sociedade-Humanas-e2rep5
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Sociology
 title: "#47 Lu\xEDs Ricardo: O L\xEDder Charlat\xE3o, L\xEDderes e Estilos de Lideran\xE7\
   a em Sociedade Humanas"
 youtubeid: vP8XQO5SZq4

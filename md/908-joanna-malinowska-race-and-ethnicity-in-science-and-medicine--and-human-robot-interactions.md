@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77660635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-24%2F3cb74c61-e801-c0ec-04f5-e9088087c404.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Joanna Malinowska is Assistant Professor of Philosophy at Adam Mickiewicz\
   \ University in Pozna\u0144, Poland. The subject of her research is a broadly understood\
@@ -11,7 +10,13 @@ excerpt: "Dr. Joanna Malinowska is Assistant Professor of Philosophy at Adam Mic
   \ in medicine."
 id: '908'
 image: https://i.ytimg.com/vi/w8sbV79CTeg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/908-joanna-malinowska-race-and-ethnicity-in-science/id1451347236?i=1000647971213&uo=4
 publishDate: 2024-03-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/908-Joanna-Malinowska-Race-and-Ethnicity-in-Science-and-Medicine--and-Human-Robot-Interactions-e2b0h0r
+tags:
+- Cognitive Science
+- Neuroscience
+- Philosophy
 title: '#908 Joanna Malinowska: Race and Ethnicity in Science and Medicine, and Human-Robot
   Interactions'
 youtubeid: w8sbV79CTeg

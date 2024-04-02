@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43607064/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2F93b8965c-9558-86ac-4b88-321680b9545a.m4a
-category: Economy, Progress
 draft: false
 excerpt: 'Dr. James Salzman is the Donald Bren Distinguished Professor of Environmental
   Law with joint appointments at the UCLA School of Law and at the Bren School of
@@ -12,6 +11,10 @@ excerpt: 'Dr. James Salzman is the Donald Bren Distinguished Professor of Enviro
 id: '594'
 image: https://i.ytimg.com/vi/BSCgJ8635NI/maxresdefault.jpg
 publishDate: 2022-03-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/594-James-Salzman---Mine--How-the-Hidden-Rules-of-Ownership-Control-Our-Lives-e1ah9io
+tags:
+- Economy, Progress
+- Psychology
 title: '#594 James Salzman - Mine!: How the Hidden Rules of Ownership Control Our
   Lives'
 youtubeid: BSCgJ8635NI

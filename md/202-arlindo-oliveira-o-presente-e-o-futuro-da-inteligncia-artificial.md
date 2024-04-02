@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3354800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15847855-44100-2-0491bf3c2c449.m4a
-category: Artificial Intelligence
 draft: false
 excerpt: "O Dr. Arlindo Oliveira \xE9 Presidente do Instituto Superior T\xE9cnico\
   \ e Professor do Departamento de Engenharia Inform\xE1tica, onde tem desenvolvido\
@@ -14,6 +13,10 @@ excerpt: "O Dr. Arlindo Oliveira \xE9 Presidente do Instituto Superior T\xE9cnic
 id: '202'
 image: https://i.ytimg.com/vi/f1SgEA84bZY/maxresdefault.jpg
 publishDate: 2019-07-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/202-Arlindo-Oliveira-O-Presente-e-o-Futuro-da-Inteligncia-Artificial-e44sng
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Artificial Intelligence
 title: "#202 Arlindo Oliveira: O Presente e o Futuro da Intelig\xEAncia Artificial"
 youtubeid: f1SgEA84bZY
 ---

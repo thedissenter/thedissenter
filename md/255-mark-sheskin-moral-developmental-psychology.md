@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4541759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706662-44100-2-f4e5dc5669bec.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva Schools
   at KGI, and a Research Affiliate at Yale University, where he is coordinating thechidlab.com.
@@ -9,6 +8,9 @@ excerpt: 'Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva 
 id: '255'
 image: https://i.ytimg.com/vi/B5K8OniMRLw/maxresdefault.jpg
 publishDate: 2019-11-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/255-Mark-Sheskin-Moral-Developmental-Psychology-e593rv
+tags:
+- Psychology
 title: '#255 Mark Sheskin: Moral Developmental Psychology'
 youtubeid: B5K8OniMRLw
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77394863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-18%2Ff9c81b43-c092-583a-a31a-e0d560fe44f6.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center\
   \ and Professor of Cognitive Science at Yale University. His research concerns primarily\
@@ -11,7 +10,11 @@ excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Cen
   \ Politics in the Digital Age (Wiley)."
 id: '855'
 image: https://i.ytimg.com/vi/54tt9UM5AII/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/855-luciano-floridi-the-ethics-of/id1451347236?i=1000633510067&uo=4
 publishDate: 2023-11-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/855-Luciano-Floridi---The-Ethics-of-Artificial-Intelligence-Principles--Challenges--and-Opportunities-e2aodff
+tags:
+- Philosophy
 title: '#855 Luciano Floridi - The Ethics of Artificial Intelligence; Principles,
   Challenges, Opportunities'
 youtubeid: 54tt9UM5AII

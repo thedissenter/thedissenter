@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51397283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-2%2F70bdbe8d-87e3-cc84-e617-a01f84af9ec6.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emerging
   Technologies, and a Laureate of the International Academy of Humanism. He holds
@@ -11,6 +10,9 @@ excerpt: 'Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emer
 id: '654'
 image: https://i.ytimg.com/vi/ga7g94VOJjg/maxresdefault.jpg
 publishDate: 2022-07-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/654-Russell-Blackford-Religious-Freedom--Atheism--Scientism--Nihilism--and-Morality-e1hv173
+tags:
+- Philosophy
 title: '#654 Russell Blackford: Religious Freedom, Atheism, Scientism, Nihilism, and
   Morality'
 youtubeid: ga7g94VOJjg

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23545585/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F862fa51d-adbd-75e0-a270-37ead489f450.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Andrew Berry is a lecturer in Organismic and Evolutionary Biology. He
   is an evolutionary biologist with a particular interest in Alfred Russel Wallace.
@@ -12,6 +11,9 @@ excerpt: 'Dr. Andrew Berry is a lecturer in Organismic and Evolutionary Biology.
 id: '429'
 image: https://i.ytimg.com/vi/8dFa2Y2XO4k/maxresdefault.jpg
 publishDate: 2021-02-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/429-Andrew-Berry-The-History-of-Evolutionary-Biology-Pt--1-end29h
+tags:
+- Biology
 title: '#429 Andrew Berry: The History of Evolutionary Biology (Pt. 1)'
 youtubeid: 8dFa2Y2XO4k
 ---

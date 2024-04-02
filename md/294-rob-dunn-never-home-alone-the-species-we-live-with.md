@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8844783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881458-44100-2-dd391cbb7e5f1.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in the\
   \ Department of Applied Ecology at North Carolina State University. He is known\
@@ -13,6 +12,9 @@ excerpt: "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in th
 id: '294'
 image: https://i.ytimg.com/vi/i-zl9pergMI/maxresdefault.jpg
 publishDate: 2020-02-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/294-Rob-Dunn-Never-Home-Alone-The-Species-We-Live-With-e9ce1f
+tags:
+- Biology
 title: '#294 Rob Dunn: Never Home Alone; The Species We Live With'
 youtubeid: i-zl9pergMI
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8467414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319483-44100-2-1ca2cedc07864.m4a
-category: Cultural Analytics
 draft: false
 excerpt: "Dr. Andrew Piper is Professor in the Department of Languages, Literatures,\
   \ and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural\
@@ -15,6 +14,9 @@ excerpt: "Dr. Andrew Piper is Professor in the Department of Languages, Literatu
 id: '286'
 image: https://i.ytimg.com/vi/RMyQIF2qllY/maxresdefault.jpg
 publishDate: 2020-01-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/286-Andrew-Piper-Data-Science--Reading--And-Literary-Criticism-e90tgm
+tags:
+- Cultural Analytics
 title: '#286 Andrew Piper: Data Science, Reading, And Literary Criticism'
 youtubeid: RMyQIF2qllY
 ---

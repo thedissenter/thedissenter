@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/56805918/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F94d36038-cf29-aa2f-2e0f-b905ab8fba3b.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Robert Cialdini is Professor Emeritus of Psychology at Arizona State
   University. He has spent his entire career researching the science of influence,
@@ -11,6 +10,9 @@ excerpt: 'Dr. Robert Cialdini is Professor Emeritus of Psychology at Arizona Sta
 id: '714'
 image: https://i.ytimg.com/vi/32pMWVf-eqQ/maxresdefault.jpg
 publishDate: 2022-12-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/714-Robert-Cialdini---Influence-The-Psychology-of-Persuasion-e1n432u
+tags:
+- Psychology
 title: '#714 Robert Cialdini - Influence: The Psychology of Persuasion'
 youtubeid: 32pMWVf-eqQ
 ---

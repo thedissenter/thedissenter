@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40788325/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2F005a3d45-0a58-dfeb-1508-8ebebc272391.m4a
-category: Biology
 draft: false
 excerpt: "Dr. G\xFCnter Wagner is Alison Richard Professor of Ecology and Evolutionary\
   \ Biology in the Department of Ecology and Evolutionary Biology, and Adjunct Professor\
@@ -16,6 +15,9 @@ excerpt: "Dr. G\xFCnter Wagner is Alison Richard Professor of Ecology and Evolut
 id: '572'
 image: https://i.ytimg.com/vi/yEH5x7gViHk/maxresdefault.jpg
 publishDate: 2022-01-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/572-Gnter-Wagner-Gene-Regulation--Evolutionary-Novelties--and-the-Evolution-of-Pregnancy-e17r8t5
+tags:
+- Biology
 title: "#572 G\xFCnter Wagner: Gene Regulation, Evolutionary Novelties, and the Evolution\
   \ of Pregnancy"
 youtubeid: yEH5x7gViHk

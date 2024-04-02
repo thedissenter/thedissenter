@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778451-44100-2-75118cdb34ad3.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Don Ross is Head of the School of Sociology, Philosophy, Criminology,\
   \ Government, and Politics at University College Cork, Ireland; Professor of Economics\
@@ -15,6 +14,9 @@ excerpt: "Dr. Don Ross is Head of the School of Sociology, Philosophy, Criminolo
 id: '133'
 image: https://i.ytimg.com/vi/P1l9V2Cc7SU/maxresdefault.jpg
 publishDate: 2019-02-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/133-Don-Ross-Naturalism--Philosophy-of-Economics--and-Addiction-e2s24s
+tags:
+- Philosophy
 title: '#133 Don Ross: Naturalism, Philosophy of Economics, and Addiction'
 youtubeid: P1l9V2Cc7SU
 ---

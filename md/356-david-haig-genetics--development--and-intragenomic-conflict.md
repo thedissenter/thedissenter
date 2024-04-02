@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/17368718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F349bc94c-f18c-000e-e13e-c6e610645773.m4a
-category: Biology
 draft: false
 excerpt: "Dr. David Haig is an evolutionary biologist, geneticist, and professor in\
   \ Harvard University's Department of Organismic and Evolutionary Biology. He is\
@@ -12,6 +11,10 @@ excerpt: "Dr. David Haig is an evolutionary biologist, geneticist, and professor
 id: '356'
 image: https://i.ytimg.com/vi/2qopUqpmdiA/maxresdefault.jpg
 publishDate: 2020-08-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/356-David-Haig-Genetics--Development--and-Intragenomic-Conflict-ehgi6e
+tags:
+- Biology
+- Philosophy
 title: '#356 David Haig: Genetics, Development, and Intragenomic Conflict'
 youtubeid: 2qopUqpmdiA
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/28008075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2F9a357980-4591-1c40-1e6a-659dea92410e.m4a
-category: Sociology
 draft: false
 excerpt: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the University
   of Illinois at Urbana-Champaign. Dr. Redstone''s work has focused on legal permanent
@@ -13,6 +12,9 @@ excerpt: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the Unive
 id: '477'
 image: https://i.ytimg.com/vi/XvMfykZ0Qso/maxresdefault.jpg
 publishDate: 2021-06-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/477-Ilana-Redstone---Unassailable-Ideas--Social-Media--and-Discourse-in-American-Higher-Education-erl86b
+tags:
+- Sociology
 title: '#477 Ilana Redstone - Unassailable Ideas, Social Media, and Discourse in American
   Higher Education'
 youtubeid: XvMfykZ0Qso

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/66469716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-13%2F3dfc1364-8286-5507-0469-42c54852e6be.m4a
-category: Biology
 draft: false
 excerpt: Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at the
   School of Veterinary Medicine and Science at the University of Nottingham. She is
@@ -15,7 +14,11 @@ excerpt: Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at 
   animals/wildlife and their environment.
 id: '805'
 image: https://i.ytimg.com/vi/t39KduI6p80/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/805-lisa-yon-elephant-welfare-environmental-pollutants/id1451347236?i=1000619932649&uo=4
 publishDate: 2023-07-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/805-Lisa-Yon-Elephant-Welfare--Environmental-Pollutants--and-Zoonotic-Pathogens-e20b0ck
+tags:
+- Biology
 title: '#805 Lisa Yon: Elephant Welfare, Environmental Pollutants, and Zoonotic Pathogens'
 youtubeid: t39KduI6p80
 ---

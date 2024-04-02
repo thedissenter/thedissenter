@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/62130863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2Ff7f0b8f4-903c-dd4c-73ec-65761541b7bd.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Mitch Brown is an instructor and researcher in Psychology at the University\
   \ of Arkansas. His research uses complementary social and evolutionary perspectives\
@@ -13,7 +12,11 @@ excerpt: "Dr. Mitch Brown is an instructor and researcher in Psychology at the U
   \ how evolutionary motives impede fair treatment of individuals under the U.S. Constitution."
 id: '763'
 image: https://i.ytimg.com/vi/R4SU9EbJDe8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/763-mitch-brown-pathogen-avoidance-mate-preferences/id1451347236?i=1000606798990&uo=4
 publishDate: 2023-03-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/763-Mitch-Brown-Pathogen-Avoidance--Mate-Preferences-for-Facial-Features--and-Humor-e1s6j7f
+tags:
+- Psychology
 title: '#763 Mitch Brown: Pathogen Avoidance, Mate Preferences for Facial Features,
   and Humor'
 youtubeid: R4SU9EbJDe8

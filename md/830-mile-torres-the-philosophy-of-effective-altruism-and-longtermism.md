@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73844078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-25%2Fae8db11c-3ff6-f759-ba03-905d5fbbf1be.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover,\
   \ in Germany. Their work over the past decade has centered around a single theme:\
@@ -11,7 +10,11 @@ excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover
   \ is Human Extinction: A History of the Science and Ethics of Annihilation."
 id: '830'
 image: https://i.ytimg.com/vi/ES-fPqMXXng/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/830-%C3%A9mile-torres-the-philosophy-of-effective/id1451347236?i=1000626728784&uo=4
 publishDate: 2023-09-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/830-mile-Torres-The-Philosophy-of-Effective-Altruism-and-Longtermism-e27c1te
+tags:
+- Philosophy
 title: "#830 \xC9mile Torres: The Philosophy of Effective Altruism and Longtermism"
 youtubeid: ES-fPqMXXng
 ---

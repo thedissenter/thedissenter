@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/81314574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2Fe9f1bbb2-04bc-a5ed-fd0d-8c0937794c8c.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences
   (tenured) at the University of Central Florida. He is concurrently a Fellow in the
@@ -10,7 +9,14 @@ excerpt: 'Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive 
   author of The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment.'
 id: '903'
 image: https://i.ytimg.com/vi/TLpop_LqHsE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/903-luis-favela-the-ecological-brain-unifying/id1451347236?i=1000646434965&uo=4
 publishDate: 2024-02-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/903-Luis-Favela---The-Ecological-Brain-Unifying-the-Sciences-of-Brain--Body--and-Environment-e2eg1ae
+tags:
+- Cognitive Science
+- Neuroscience
+- Philosophy
+- Psychology
 title: '#903 Luis Favela - The Ecological Brain: Unifying the Sciences of Brain, Body,
   and Environment'
 youtubeid: TLpop_LqHsE

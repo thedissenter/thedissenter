@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3118956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-2%2F13991084-44100-2-b5191790aa3ef.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Azim Shariff is Associate Professor and Canada Research Chair at the
   University of British Columbia, Canada. He is a social psychologist whose research
@@ -10,6 +9,9 @@ excerpt: Dr. Azim Shariff is Associate Professor and Canada Research Chair at th
 id: '177'
 image: https://i.ytimg.com/vi/mjWveAPPoSk/maxresdefault.jpg
 publishDate: 2019-05-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/177-Azim-Shariff-The-Science-of-Religion--Morality--And-Self-Driving-Cars-e3tmdc
+tags:
+- Psychology
 title: '#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars'
 youtubeid: mjWveAPPoSk
 ---

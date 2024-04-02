@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25921187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2Fd1f99b83-b4a9-7cf7-2729-5bd8c9e62360.m4a
-category: Economy, Progress
 draft: false
 excerpt: "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, University\
   \ of London, UK.  He is principally interested in cultural politics: ethnicity,\
@@ -9,6 +8,11 @@ excerpt: "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, Univer
 id: '439'
 image: https://i.ytimg.com/vi/8vrxUHPMjQQ/maxresdefault.jpg
 publishDate: 2021-03-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/439-Eric-Kaufmann---Whiteshift-Populism--Immigration--and-the-Future-of-White-Majorities-epli73
+tags:
+- Politics
+- Economy, Progress
+- Sociology
 title: '#439 Eric Kaufmann - Whiteshift: Populism, Immigration, and the Future of
   White Majorities'
 youtubeid: 8vrxUHPMjQQ

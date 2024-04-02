@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877850-44100-2-1326a1dbcb49.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences at
   Indiana University. His research focuses on developing animal models of cognition.
@@ -11,6 +10,10 @@ excerpt: 'Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences 
 id: '214'
 image: https://i.ytimg.com/vi/KXNWeJ5Z1hY/maxresdefault.jpg
 publishDate: 2019-08-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/214-Jonathon-Crystal-Memory-and-Metacognition-in-Animal-Models-e4g2f4
+tags:
+- Cognitive Science
+- Psychology
 title: '#214 Jonathon Crystal: Memory and Metacognition in Animal Models'
 youtubeid: KXNWeJ5Z1hY
 ---

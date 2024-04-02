@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/14857662/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-7%2F80240103-44100-2-724d2c9a1b82b.m4a
-category: Cognitive Science
 draft: false
 excerpt: Julian De Freitas is a cognitive scientist in the Department of Psychology
   at Harvard University. He studies social intelligence, with a focus on the self,
@@ -8,6 +7,14 @@ excerpt: Julian De Freitas is a cognitive scientist in the Department of Psychol
 id: '350'
 image: https://i.ytimg.com/vi/pJwFSi1W-c8/maxresdefault.jpg
 publishDate: 2020-07-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/350-Julian-De-Freitas-The-Self--Morality--And-Common-Knowledge-ef3tvu
+tags:
+- Cognitive Science
+- Cognitive Science
+- Philosophy
+- Philosophy
+- Psychology
+- Psychology
 title: '#350 Julian De Freitas: The Self, Morality, and Common Knowledge'
 youtubeid: pJwFSi1W-c8
 ---

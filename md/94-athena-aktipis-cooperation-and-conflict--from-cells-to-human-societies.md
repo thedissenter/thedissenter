@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005606/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707142-48000-2-9450f4b7f4af7.mp3
-category: Psychology
 draft: false
 excerpt: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department at
   Arizona State University, co-Director of the Human Generosity Project and Director
@@ -12,6 +11,9 @@ excerpt: 'Dr. Athena Aktipis is Assistant Professor in the Psychology Department
 id: '94'
 image: https://i.ytimg.com/vi/lVX3WE6H4NA/maxresdefault.jpg
 publishDate: 2018-11-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/94-Athena-Aktipis-Cooperation-and-Conflict--From-Cells-to-Human-Societies-e2rn56
+tags:
+- Psychology
 title: '#94 Athena Aktipis: Cooperation and Conflict, From Cells to Human Societies'
 youtubeid: lVX3WE6H4NA
 ---

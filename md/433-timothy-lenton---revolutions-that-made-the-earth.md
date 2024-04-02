@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23826406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F1376576a-1c36-028b-5945-9a8129a5a071.m4a
-category: General Science
 draft: false
 excerpt: "Dr. Timothy Lenton is Professor of Climate Change and Earth System Science\
   \ at the University of Exeter and Director of the Global Systems Institute. He has\
@@ -13,6 +12,9 @@ excerpt: "Dr. Timothy Lenton is Professor of Climate Change and Earth System Sci
 id: '433'
 image: https://i.ytimg.com/vi/6NKLoPeppjo/maxresdefault.jpg
 publishDate: 2021-02-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/433-Timothy-Lenton---Revolutions-that-Made-the-Earth-enlkh6
+tags:
+- General Science
 title: '#433 Timothy Lenton - Revolutions that Made the Earth'
 youtubeid: 6NKLoPeppjo
 ---

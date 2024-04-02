@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/66321755/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F035e7153-43c1-91f6-29c5-e749158140c5.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Lee Dugatkin is a Professor of Biology and Distinguished Arts and Sciences\
   \ Scholar in the Department of Biology at the University of Louisville. He is a\
@@ -12,7 +11,11 @@ excerpt: "Dr. Lee Dugatkin is a Professor of Biology and Distinguished Arts and 
   \ Strive for Control over Others."
 id: '803'
 image: https://i.ytimg.com/vi/G9wctJ2SIS8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/803-lee-dugatkin-power-in-the-wild-the-ways/id1451347236?i=1000619168306&uo=4
 publishDate: 2023-07-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/803-Lee-Dugatkin---Power-in-the-Wild--The-Ways-Animals-Strive-for-Control-over-Others-e206fsr
+tags:
+- Biology
 title: '#803 Lee Dugatkin - Power in the Wild, The Ways Animals Strive for Control
   over Others'
 youtubeid: G9wctJ2SIS8

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12664702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66050434-44100-2-2873417b0452d.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy\
   \ of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive\
@@ -11,6 +10,9 @@ excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosoph
 id: '337'
 image: https://i.ytimg.com/vi/gpkNIDy9Vw0/maxresdefault.jpg
 publishDate: 2020-05-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/337-Ann-Sophie-Barwich-Philosophy-of-Science--Neuroscience--And-Olfaction-ed10du
+tags:
+- Philosophy
 title: '#337 Ann-Sophie Barwich: Philosophy of Science, Neuroscience, and Olfaction'
 youtubeid: gpkNIDy9Vw0
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9122009-44100-2-9f7ffcbe1b082.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher in\
   \ ethics and political philosophy at the Institute for Philosophy of the Nova University\
@@ -14,6 +13,9 @@ excerpt: "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher i
 id: '145'
 image: https://i.ytimg.com/vi/EqtijLQRPRU/maxresdefault.jpg
 publishDate: 2019-03-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/145-Filipe-Nobre-Faria-Evolutionary-Theory--Philosophy--Politics--Ethics--and-Market-Liberalism-e32tn4
+tags:
+- Philosophy
 title: '#145 Filipe Nobre Faria: Evolutionary Theory, Philosophy, Politics, Ethics,
   and Market Liberalism'
 youtubeid: EqtijLQRPRU

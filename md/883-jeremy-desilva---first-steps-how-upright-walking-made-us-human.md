@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75552960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-6%2Facba8b40-ab6e-cfcf-fba9-7cb198fab97b.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Jeremy DeSilva is a Professor and Chair of Anthropology at Dartmouth
   College. He is a paleoanthropologist, specializing in the locomotion of the first
@@ -13,7 +12,11 @@ excerpt: 'Dr. Jeremy DeSilva is a Professor and Chair of Anthropology at Dartmou
   the author of First Steps: How Upright Walking Made Us Human.'
 id: '883'
 image: https://i.ytimg.com/vi/MOsymrtTCuE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/883-jeremy-desilva-first-steps-how-upright-walking/id1451347236?i=1000640695486&uo=4
 publishDate: 2024-01-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/883-Jeremy-DeSilva---First-Steps-How-Upright-Walking-Made-Us-Human-e2906o0
+tags:
+- Anthropology
 title: '#883 Jeremy DeSilva - First Steps: How Upright Walking Made Us Human'
 youtubeid: MOsymrtTCuE
 ---

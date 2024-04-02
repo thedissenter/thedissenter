@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51908126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-12%2F046e9724-b050-68e2-feb1-7e62d77c73ac.m4a
-category: Politics
 draft: false
 excerpt: 'Dr. Lee Edelman is Fletcher Professor of English Literature at Tufts University.
   Dr. Edelman began his academic career as a scholar of twentieth-century American
@@ -11,6 +10,10 @@ excerpt: 'Dr. Lee Edelman is Fletcher Professor of English Literature at Tufts U
 id: '715'
 image: https://i.ytimg.com/vi/R-kg4QRa3lc/maxresdefault.jpg
 publishDate: 2022-12-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/715-Lee-Edelman---No-Future-Queer-Theory-and-the-Death-Drive-e1iek2u
+tags:
+- Politics
+- Philosophy
 title: '#715 Lee Edelman - No Future: Queer Theory and the Death Drive'
 youtubeid: R-kg4QRa3lc
 ---

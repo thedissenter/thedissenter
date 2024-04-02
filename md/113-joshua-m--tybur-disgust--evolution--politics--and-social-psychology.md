@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735179-48000-2-e9c9838ab1c3a.mp3
-category: Psychology
 draft: false
 excerpt: Dr. Joshua M. Tybur is an Associate Professor in the Department of Experimental
   and Applied Psychology at VU Amsterdam. His work is dedicated to better understanding
@@ -11,6 +10,9 @@ excerpt: Dr. Joshua M. Tybur is an Associate Professor in the Department of Expe
 id: '113'
 image: https://i.ytimg.com/vi/oAb-UIGKyxU/maxresdefault.jpg
 publishDate: 2018-12-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/113-Joshua-M--Tybur-Disgust--Evolution--Politics--and-Social-Psychology-e2rsh0
+tags:
+- Psychology
 title: '#113 Joshua M. Tybur: Disgust, Evolution, Politics, and Social Psychology'
 youtubeid: oAb-UIGKyxU
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60293162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-8%2Fb419ff9a-3baa-0848-4b3f-40605dbfe128.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Eli Alshanetsky is an Assistant Professor of Philosophy at Temple University.
   Previously, he was an Andrew W. Mellon fellow in the Humanities at Stanford University.
@@ -9,7 +8,11 @@ excerpt: Dr. Eli Alshanetsky is an Assistant Professor of Philosophy at Temple U
   and cognitive science. He is the author of Articulating a Thought.
 id: '758'
 image: https://i.ytimg.com/vi/hdObfMD0LtA/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/758-eli-alshanetsky-articulating-a-thought/id1451347236?i=1000605057252&uo=4
 publishDate: 2023-03-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/758-Eli-Alshanetsky-Articulating-a-Thought-e1qegja
+tags:
+- Philosophy
 title: '#758 Eli Alshanetsky: Articulating a Thought'
 youtubeid: hdObfMD0LtA
 ---

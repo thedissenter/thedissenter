@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20860936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fafcaf4a3-ae6c-9a43-4f2e-db27478fedb7.m4a
-category: Primatology
 draft: false
 excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology\
   \ and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky\
@@ -13,6 +12,11 @@ excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of B
 id: '384'
 image: https://i.ytimg.com/vi/9q8h4C57mTw/maxresdefault.jpg
 publishDate: 2020-10-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/384-Robert-Sapolsky-Behavior--Self-control--Morality--Primates--Humans--and-Religion-ekr4i8
+tags:
+- Neuroscience
+- Primatology
+- Psychology
 title: '#384 Robert Sapolsky: Behavior, Self-control, Morality, Primates, Humans,
   and Religion'
 youtubeid: 9q8h4C57mTw

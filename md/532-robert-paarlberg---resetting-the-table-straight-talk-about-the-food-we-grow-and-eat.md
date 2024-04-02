@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36587180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F92de8391-f577-d4e3-5fb8-263ad4bcbf28.m4a
-category: Politics
 draft: false
 excerpt: "Dr. Robert Paarlberg is Betty Freyhof Johnson \u201944 Professor Emeritus\
   \ of Political Science at Wellesley College, and an Associate in the Sustainability\
@@ -10,6 +9,10 @@ excerpt: "Dr. Robert Paarlberg is Betty Freyhof Johnson \u201944 Professor Emeri
 id: '532'
 image: https://i.ytimg.com/vi/ldXsm3X5i6w/maxresdefault.jpg
 publishDate: 2021-10-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/532-Robert-Paarlberg---Resetting-the-Table-Straight-Talk-About-the-Food-We-Grow-and-Eat-e13r27c
+tags:
+- Politics
+- Biology
 title: '#532 Robert Paarlberg - Resetting the Table: Straight Talk About the Food
   We Grow and Eat'
 youtubeid: ldXsm3X5i6w

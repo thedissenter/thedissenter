@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75513285/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-5%2Fa61cbf87-f1e2-566b-2904-900011a1eddc.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Marina Garc\xEDa-Granero is an Assistant Professor of Philosophy at\
   \ the University of Valencia (Spain). She is a former postdoc from the Institute\
@@ -11,7 +10,11 @@ excerpt: "Dr. Marina Garc\xEDa-Granero is an Assistant Professor of Philosophy a
   \ Friedrich Nietzsche's philosophy, ethics, and feminist philosophy."
 id: '881'
 image: https://i.ytimg.com/vi/y9HPsITdFX0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/881-marina-garc%C3%ADa-granero-nietzsche-z%C3%BCchtung-biopolitics/id1451347236?i=1000640254328&uo=4
 publishDate: 2024-01-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/881-Marina-Garca-Granero-Nietzsche--Zchtung--Biopolitics--Race--and-the-bermensch-e28v005
+tags:
+- Philosophy
 title: "#881 Marina Garc\xEDa-Granero: Nietzsche, Z\xFCchtung, Biopolitics, Race,\
   \ and the \xDCbermensch"
 youtubeid: y9HPsITdFX0

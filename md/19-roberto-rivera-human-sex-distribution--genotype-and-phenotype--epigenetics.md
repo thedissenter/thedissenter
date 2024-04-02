@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '19'
 image: https://i.ytimg.com/vi/2DxJl_vPohI/maxresdefault.jpg
 publishDate: 2018-04-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/19-Roberto-Rivera-Human-Sex-Distribution--Genotype-and-Phenotype--Epigenetics-e2r48j
 title: '#19 Roberto Rivera: Human Sex Distribution, Genotype and Phenotype, Epigenetics'
 youtubeid: 2DxJl_vPohI
 ---

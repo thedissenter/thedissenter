@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005513/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706731-48000-2-3ac36564e5aaa.mp3
-category: Philosophy
 draft: false
 excerpt: '------------------Support me---------  '
 id: '86'
 image: https://i.ytimg.com/vi/G02tTbeY964/maxresdefault.jpg
 publishDate: 2018-10-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/86-Colin-McGinn-Types-of-Minds--Consciousness--Animal-Rights-e2rn29
+tags:
+- Philosophy
 title: '#86 Colin McGinn: Types of Minds, Consciousness, Animal Rights'
 youtubeid: G02tTbeY964
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48385016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-1%2F19c4c502-ad02-e8b5-1458-0320e25f39eb.m4a
-category: Art
 draft: false
 excerpt: 'Dr. Svetlana Rudenko is a concert pianist and educator bringing a new feeling
   to the way in which sound, music, and art are perceived and experienced in new media.
@@ -16,6 +15,11 @@ excerpt: 'Dr. Svetlana Rudenko is a concert pianist and educator bringing a new 
 id: '633'
 image: https://i.ytimg.com/vi/HR6E_HpjuIQ/maxresdefault.jpg
 publishDate: 2022-06-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/633-Svetlana-Rudenko-Music-Perception-and-Cognition--Consciousness--and-Synaesthesia-e1f33ho
+tags:
+- Art
+- Neuroscience
+- Psychology
 title: '#633 Svetlana Rudenko: Music Perception and Cognition, Consciousness, and
   Synaesthesia'
 youtubeid: HR6E_HpjuIQ

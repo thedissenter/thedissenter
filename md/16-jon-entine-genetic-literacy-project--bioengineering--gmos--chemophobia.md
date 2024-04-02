@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '16'
 image: https://i.ytimg.com/vi/KX9GQLPAQrU/maxresdefault.jpg
 publishDate: 2018-04-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/16-Jon-Entine-Genetic-Literacy-Project--Bioengineering--GMOs--Chemophobia-e2r47p
 title: '#16 Jon Entine: Genetic Literacy Project, Bioengineering, GMOs, Chemophobia'
 youtubeid: KX9GQLPAQrU
 ---

@@ -1,13 +1,16 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61104344/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-23%2F655f0041-4f74-b5b9-4877-3cb2f7e0664e.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. David C. Geary is Curators\u2019 Distinguished Professor in the Department\
   \ of Psychological Sciences at the University of Missouri.  He\u2019s the author\
   \ of several books, including Male, Female: The Evolution of Human Sex Differences."
 id: '747'
 image: https://i.ytimg.com/vi/TQoXA5QnbBI/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/747-david-geary-male-female-the-evolution-of-human/id1451347236?i=1000601314305&uo=4
 publishDate: 2023-02-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/747-David-Geary---Male--Female-The-Evolution-of-Human-Sex-Differences-Pt--2-e1r78oo
+tags:
+- Psychology
 title: '#747 David Geary - Male, Female: The Evolution of Human Sex Differences (Pt.
   2)'
 youtubeid: TQoXA5QnbBI

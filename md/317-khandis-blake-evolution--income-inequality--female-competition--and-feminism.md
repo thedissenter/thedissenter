@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9912579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-24%2F44936939-44100-2-7c187538242ab.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Khandis Blake is an evolutionary social psychologist at The University
   of Melbourne. She is an expert in gendered conflict. Her research considers how
@@ -17,6 +16,9 @@ excerpt: 'Dr. Khandis Blake is an evolutionary social psychologist at The Univer
 id: '317'
 image: https://i.ytimg.com/vi/oBgxABXTJMw/maxresdefault.jpg
 publishDate: 2020-04-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/317-Khandis-Blake-Evolution--Income-Inequality--Female-Competition--And-Feminism-ead0q3
+tags:
+- Psychology
 title: '#317 Khandis Blake: Evolution, Income Inequality, Female Competition, And
   Feminism'
 youtubeid: oBgxABXTJMw

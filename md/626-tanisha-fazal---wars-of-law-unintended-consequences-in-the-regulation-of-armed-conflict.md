@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47754004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F3028a34d-fd24-d1bd-d9b2-8d899b1c75f8.m4a
-category: Politics
 draft: false
 excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the University\
   \ of Minnesota. Her research and teaching focus on sovereignty, international law,\
@@ -11,6 +10,9 @@ excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the Universit
 id: '626'
 image: https://i.ytimg.com/vi/PiJ6q-Ro1yE/maxresdefault.jpg
 publishDate: 2022-05-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/626-Tanisha-Fazal---Wars-of-Law-Unintended-Consequences-in-the-Regulation-of-Armed-Conflict-e1efrak
+tags:
+- Politics
 title: '#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulation
   of Armed Conflict'
 youtubeid: PiJ6q-Ro1yE

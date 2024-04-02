@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4339034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595027-44100-2-635466c0e4e1e.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology
   at Oakland University, as well as the Co-Director of the Evolutionary Psychology
@@ -10,6 +9,9 @@ excerpt: 'Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychol
 id: '248'
 image: https://i.ytimg.com/vi/Obio7sl495U/maxresdefault.jpg
 publishDate: 2019-10-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/248-Todd-Shackelford--Viviana-Weekes-Shackelford-Mating-After-Children-e52tsq
+tags:
+- Psychology
 title: '#248 Todd Shackelford & Viviana Weekes-Shackelford: Mating After Children'
 youtubeid: Obio7sl495U
 ---

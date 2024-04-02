@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40786435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2F04100792-2bb6-ff7b-e2f5-dd7debaecc98.m4a
-category: Linguistics
 draft: false
 excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
 id: '571'
 image: https://i.ytimg.com/vi/fxffd8Mgkj4/maxresdefault.jpg
 publishDate: 2022-01-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/571-Snia-Frota-Aquisio-de-Linguagem--Prosdia--o-Baby-Lab--e-o-Portugus-e17r723
+tags:
+- Linguistics
+- "Entrevistas em Portugu\xEAs"
 title: "#571 S\xF3nia Frota: Aquisi\xE7\xE3o de Linguagem, Pros\xF3dia, o Baby Lab,\
   \ e o Portugu\xEAs"
 youtubeid: fxffd8Mgkj4

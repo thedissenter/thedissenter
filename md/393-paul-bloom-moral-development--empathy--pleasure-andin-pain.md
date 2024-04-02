@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22531679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F6bbb308d-5a16-d2a4-dfd1-4d5c135c20ab.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology and
   cognitive science at Yale University. His research explores how children and adults
@@ -12,6 +11,9 @@ excerpt: 'Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology
 id: '393'
 image: https://i.ytimg.com/vi/iai9H0e2H2g/maxresdefault.jpg
 publishDate: 2020-11-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/393-Paul-Bloom-Moral-Development--Empathy--Pleasure-andin-Pain-eme44v
+tags:
+- Psychology
 title: '#393 Paul Bloom: Moral Development, Empathy, Pleasure and/in Pain'
 youtubeid: iai9H0e2H2g
 ---

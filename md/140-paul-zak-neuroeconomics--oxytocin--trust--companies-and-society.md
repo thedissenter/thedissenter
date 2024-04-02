@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121828-44100-2-8818ebd12e42.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponent\
   \ of the field. His current work applies neuroscience to build high performance\
@@ -15,6 +14,9 @@ excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponen
 id: '140'
 image: https://i.ytimg.com/vi/zIuk3dIvmn0/maxresdefault.jpg
 publishDate: 2019-02-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/140-Paul-Zak-Neuroeconomics--Oxytocin--Trust--Companies-and-Society-e32tlh
+tags:
+- Neuroscience
 title: '#140 Paul Zak: Neuroeconomics, Oxytocin, Trust, Companies and Society'
 youtubeid: zIuk3dIvmn0
 ---

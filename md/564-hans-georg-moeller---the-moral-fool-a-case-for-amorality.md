@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/40096656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2Fe3c1629d-2e74-9c58-9031-3f26c7780710.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr Hans-Georg Moeller is a professor in the Philosophy and Religious Studies
   Programme at the University of Macau. His research focuses on Chinese and Comparative
@@ -10,6 +9,9 @@ excerpt: 'Dr Hans-Georg Moeller is a professor in the Philosophy and Religious S
 id: '564'
 image: https://i.ytimg.com/vi/dxZU0p9SdhA/maxresdefault.jpg
 publishDate: 2021-12-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/564-Hans-Georg-Moeller---The-Moral-Fool-A-Case-for-Amorality-e1765eg
+tags:
+- Philosophy
 title: '#564 Hans-Georg Moeller - The Moral Fool: A Case for Amorality'
 youtubeid: dxZU0p9SdhA
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19111071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2Ffc507c13-73c4-c874-9bf4-80844ea1de77.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Virgil Zeigler-Hill is Professor of Psychology and Director of Graduate\
   \ Training at Oakland University. He is a social-personality psychologist with primary\
@@ -19,6 +18,9 @@ excerpt: "Dr. Virgil Zeigler-Hill is Professor of Psychology and Director of Gra
 id: '381'
 image: https://i.ytimg.com/vi/7jPy55QCMUc/maxresdefault.jpg
 publishDate: 2020-10-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/381-Virgil-Zeigler-Hill-Self-Esteem--Narcissism--and-Romantic-Love-Styles-ej5nmv
+tags:
+- Psychology
 title: '#381 Virgil Zeigler-Hill: Self-Esteem, Narcissism, and Romantic Love Styles'
 youtubeid: 7jPy55QCMUc
 ---

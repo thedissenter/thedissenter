@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8467374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319246-44100-2-7bdd21e1c7f.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science,\
   \ and Professor of Internal Medicine and General Medicine at Yale University. He\u2019\
@@ -16,6 +15,10 @@ excerpt: "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Scie
 id: '285'
 image: https://i.ytimg.com/vi/oXPE17gN1sY/maxresdefault.jpg
 publishDate: 2020-01-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/285-Nicholas-Christakis-The-Evolutionary-Origins-of-a-Good-Society-e90tfe
+tags:
+- Anthropology
+- Psychology
 title: '#285 Nicholas Christakis: The Evolutionary Origins of a Good Society'
 youtubeid: oXPE17gN1sY
 ---

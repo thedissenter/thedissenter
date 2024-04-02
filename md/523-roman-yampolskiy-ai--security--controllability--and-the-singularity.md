@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/30576016/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F0a37193c-6b69-5b84-0ff4-b45e31b73539.m4a
-category: Artificial Intelligence
 draft: false
 excerpt: "Dr. Roman V. Yampolskiy is a Tenured Associate Professor in the department\
   \ of Computer Engineering and Computer Science at the Speed School of Engineering\
@@ -14,6 +13,9 @@ excerpt: "Dr. Roman V. Yampolskiy is a Tenured Associate Professor in the depart
 id: '523'
 image: https://i.ytimg.com/vi/MlCns4bKxv8/maxresdefault.jpg
 publishDate: 2021-09-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/523-Roman-Yampolskiy-AI--Security--Controllability--and-the-Singularity-eu3jug
+tags:
+- Artificial Intelligence
 title: '#523 Roman Yampolskiy: AI, Security, Controllability, and the Singularity'
 youtubeid: MlCns4bKxv8
 ---

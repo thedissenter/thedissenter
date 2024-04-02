@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735274-48000-2-d62c2ec9e8c1c.mp3
-category: Philosophy
 draft: false
 excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy at\
   \ Duke University. He has been a visiting professor and fellow at the Center for\
@@ -18,6 +17,9 @@ excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy 
 id: '115'
 image: https://i.ytimg.com/vi/Iii5P4HGf0g/maxresdefault.jpg
 publishDate: 2018-12-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/115-Alexander-Rosenberg-Theory-of-Mind--History--Mental-Illusions--and-Nihilism-e2rshp
+tags:
+- Philosophy
 title: '#115 Alexander Rosenberg: Theory of Mind, History, Mental Illusions, and Nihilism'
 youtubeid: Iii5P4HGf0g
 ---

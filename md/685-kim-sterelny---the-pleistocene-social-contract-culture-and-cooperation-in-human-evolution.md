@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/53891564/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-23%2F209bd1a4-4f01-4118-948b-684cad7718ee.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Kim Sterelny is professor of philosophy in the Research School of Social
   Sciences at Australian National University and Victoria University of Wellington.
@@ -14,6 +13,10 @@ excerpt: 'Dr. Kim Sterelny is professor of philosophy in the Research School of 
 id: '685'
 image: https://i.ytimg.com/vi/Nnsu8WMn8Cs/maxresdefault.jpg
 publishDate: 2022-09-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/685-Kim-Sterelny---The-Pleistocene-Social-Contract-Culture-and-Cooperation-in-Human-Evolution-e1kb51c
+tags:
+- Anthropology
+- Philosophy
 title: '#685 Kim Sterelny - The Pleistocene Social Contract: Culture and Cooperation
   in Human Evolution'
 youtubeid: Nnsu8WMn8Cs

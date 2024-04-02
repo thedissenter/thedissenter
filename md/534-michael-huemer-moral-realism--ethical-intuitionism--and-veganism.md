@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36587592/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2Faa4bedbd-e8f1-124d-fec4-9a363f48fbff.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Michael Huemer is a professor of philosophy at the University of Colorado.
   He is the author of more than seventy academic articles in epistemology, ethics,
@@ -10,6 +9,9 @@ excerpt: Dr. Michael Huemer is a professor of philosophy at the University of Co
 id: '534'
 image: https://i.ytimg.com/vi/q5WDlSv6jq0/maxresdefault.jpg
 publishDate: 2021-10-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/534-Michael-Huemer-Moral-Realism--Ethical-Intuitionism--and-Veganism-e13r2k8
+tags:
+- Philosophy
 title: '#534 Michael Huemer: Moral Realism, Ethical Intuitionism, and Veganism'
 youtubeid: q5WDlSv6jq0
 ---

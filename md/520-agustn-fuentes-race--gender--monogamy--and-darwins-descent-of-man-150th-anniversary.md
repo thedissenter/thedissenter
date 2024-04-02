@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/34778565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2Fe921dde2-801f-122b-cf4f-04d6d4be267a.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton University.\
   \ His research focuses on the biosocial, delving into the entanglement of biological\
@@ -14,6 +13,9 @@ excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton Unive
 id: '520'
 image: https://i.ytimg.com/vi/sokpvbG-tOU/maxresdefault.jpg
 publishDate: 2021-09-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/520-Agustn-Fuentes-Race--Gender--Monogamy--and-Darwins-Descent-of-Man-150th-anniversary-e123s05
+tags:
+- Anthropology
 title: "#520 Agust\xEDn Fuentes: Race, Gender, Monogamy, and Darwin's Descent of Man\
   \ (150th anniversary)"
 youtubeid: sokpvbG-tOU

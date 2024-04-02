@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57017686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F0467277e-35d4-bb2f-fbac-f3cda04fa724.m4a
-category: History
 draft: false
 excerpt: 'Dr. Jon Wisman is Professor of Economics at American University in Washington,
   DC. He teaches graduate courses in the history of economic thought and economic
@@ -10,6 +9,11 @@ excerpt: 'Dr. Jon Wisman is Professor of Economics at American University in Was
 id: '680'
 image: https://i.ytimg.com/vi/0wJURNprAx8/maxresdefault.jpg
 publishDate: 2022-09-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/680-Jon-Wisman---The-Origins-and-Dynamics-of-Inequality-Sex--Politics--and-Ideology-e1nahsm
+tags:
+- Politics
+- History
+- Economics
 title: '#680 Jon Wisman - The Origins and Dynamics of Inequality: Sex, Politics, and
   Ideology'
 youtubeid: 0wJURNprAx8

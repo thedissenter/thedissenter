@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/72036080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2Fe0677fef-cd7d-8b48-f30e-2cbafaf44a49.m4a
-category: Linguistics
 draft: false
 excerpt: 'Dr. Valerie Fridland is Professor and former Director of Graduate Studies
   in the Department of English at the University of Nevada in Reno. She is an expert
@@ -11,7 +10,11 @@ excerpt: 'Dr. Valerie Fridland is Professor and former Director of Graduate Stud
   Dude: Arguing for the Good in Bad English. '
 id: '824'
 image: https://i.ytimg.com/vi/t-f7LShW2mY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/824-valerie-fridland-like-literally-dude-arguing-for/id1451347236?i=1000625166896&uo=4
 publishDate: 2023-08-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/824-Valerie-Fridland---Like--Literally--Dude-Arguing-for-the-Good-in-Bad-English-e25ks9g
+tags:
+- Linguistics
 title: '#824 Valerie Fridland - Like, Literally, Dude: Arguing for the Good in Bad
   English'
 youtubeid: t-f7LShW2mY

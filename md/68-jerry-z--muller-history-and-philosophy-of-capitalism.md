@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681490-44100-2-a9064e5b07969.mp3
-category: Economics
 draft: false
 excerpt: "Dr. Jerry Muller is Ordinary Professor of History at the Catholic University\
   \ of America, where he teaches courses on historical and contemporary subjects,\
@@ -11,6 +10,9 @@ excerpt: "Dr. Jerry Muller is Ordinary Professor of History at the Catholic Univ
 id: '68'
 image: https://i.ytimg.com/vi/F3JS1SwUgPU/maxresdefault.jpg
 publishDate: 2018-09-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/68-Jerry-Z--Muller-History-and-Philosophy-of-Capitalism-e2rj5u
+tags:
+- Economics
 title: '#68 Jerry Z. Muller: History and Philosophy of Capitalism'
 youtubeid: F3JS1SwUgPU
 ---

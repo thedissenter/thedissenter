@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70496373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-16%2F7b42def5-095a-189d-80d5-0bf561f367aa.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumitomo\
   \ Professor Emeritus of Japanese Studies at Yale University. A noted authority on\
@@ -14,7 +13,11 @@ excerpt: "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumito
   \ anthropology."
 id: '835'
 image: https://i.ytimg.com/vi/kikAsqvKCdE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/835-william-kelly-the-sociocultural-anthropology-of-japan/id1451347236?i=1000628037593&uo=4
 publishDate: 2023-09-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/835-William-Kelly-The-Sociocultural-Anthropology-of-Japan-e245sll
+tags:
+- Anthropology
 title: '#835 William Kelly: The Sociocultural Anthropology of Japan'
 youtubeid: kikAsqvKCdE
 ---

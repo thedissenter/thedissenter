@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39065056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F0b9dfa58-1bcb-35e9-e439-4825ae9b1350.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Thomas K. Metzinger is senior research professor at the department of
   philosophy at Johannes Gutenberg University of Mainz, Germany. From 2014-2019 he
@@ -11,6 +10,10 @@ excerpt: Dr. Thomas K. Metzinger is senior research professor at the department 
 id: '559'
 image: https://i.ytimg.com/vi/ERCPVQbXLco/maxresdefault.jpg
 publishDate: 2021-12-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/559-Thomas-Metzinger-Consciousness--Subjectivity--the-Self--and-the-Ethics-of-AI-e166m10
+tags:
+- Neuroscience
+- Philosophy
 title: '#559 Thomas Metzinger: Consciousness, Subjectivity, the Self, and the Ethics
   of AI'
 youtubeid: ERCPVQbXLco

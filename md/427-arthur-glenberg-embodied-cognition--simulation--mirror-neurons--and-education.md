@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23130661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2Fc50fd6fd-5c85-994a-9348-a61cd78d052f.m4a
-category: Cognitive Science
 draft: false
 excerpt: ''
 id: '427'
 image: https://i.ytimg.com/vi/HYvy1XIF8sA/maxresdefault.jpg
 publishDate: 2021-02-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/427-Arthur-Glenberg-Embodied-Cognition--Simulation--Mirror-Neurons--and-Education-en0d35
+tags:
+- Cognitive Science
+- Psychology
 title: '#427 Arthur Glenberg: Embodied Cognition, Simulation, Mirror Neurons, and
   Education'
 youtubeid: HYvy1XIF8sA

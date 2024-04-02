@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4000351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666460-44100-2-172404c0c2472.m4a
-category: Biology
 draft: false
 excerpt: Dr. Rutger Vos is an evolutionary biologist from Leiden University and the
   Naturalis Biodiversity Center, both in The Netherlands. He does work in computational
@@ -8,6 +7,9 @@ excerpt: Dr. Rutger Vos is an evolutionary biologist from Leiden University and 
 id: '230'
 image: https://i.ytimg.com/vi/2HoHsixrFp4/maxresdefault.jpg
 publishDate: 2019-09-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/230-Rutger-Vos-Natural-Selection--Human-Behavior--Race--And-Adaptations-e4oj4v
+tags:
+- Biology
 title: '#230 Rutger Vos: Natural Selection, Human Behavior, Race, And Adaptations'
 youtubeid: 2HoHsixrFp4
 ---

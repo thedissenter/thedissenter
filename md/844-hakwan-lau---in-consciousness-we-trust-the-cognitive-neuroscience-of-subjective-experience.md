@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/71156794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-28%2F7b8271dd-bb92-a5a3-fd1b-6697baa7bf51.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness
   at Riken Institute. He works on the neural mechanisms of conscious perception, attention,
@@ -9,7 +8,12 @@ excerpt: 'Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consci
   Experience.'
 id: '844'
 image: https://i.ytimg.com/vi/MrWoLH3IUNo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/844-hakwan-lau-in-consciousness-we-trust-the/id1451347236?i=1000630466337&uo=4
 publishDate: 2023-10-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/844-Hakwan-Lau---In-Consciousness-We-Trust-The-Cognitive-Neuroscience-of-Subjective-Experience-e24q1jq
+tags:
+- Cognitive Science
+- Neuroscience
 title: '#844 Hakwan Lau - In Consciousness We Trust: The Cognitive Neuroscience of
   Subjective Experience'
 youtubeid: MrWoLH3IUNo

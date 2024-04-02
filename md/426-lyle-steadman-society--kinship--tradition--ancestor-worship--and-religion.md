@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23130531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-26%2Ffb76b6c3-4f9a-5eb8-560c-2c582ed883fb.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Lyle Steadman is Professor Emeritus at Arizona State University. Dr.
   Steadman focuses on religion and kinship, especially their interrelationship, and
@@ -11,6 +10,9 @@ excerpt: Dr. Lyle Steadman is Professor Emeritus at Arizona State University. Dr
 id: '426'
 image: https://i.ytimg.com/vi/SnBRgXMHXtg/maxresdefault.jpg
 publishDate: 2021-02-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/426-Lyle-Steadman-Society--Kinship--Tradition--Ancestor-Worship--and-Religion-en0cv3
+tags:
+- Anthropology
 title: '#426 Lyle Steadman: Society, Kinship, Tradition, Ancestor Worship, and Religion'
 youtubeid: SnBRgXMHXtg
 ---

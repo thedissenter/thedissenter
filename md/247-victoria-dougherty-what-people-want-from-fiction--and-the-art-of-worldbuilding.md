@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4345693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-24%2F21638258-44100-2-c83b921244368.m4a
-category: Art
 draft: false
 excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
   \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\
@@ -14,6 +13,9 @@ excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Ho
 id: '247'
 image: https://i.ytimg.com/vi/T6gTK0dZcQc/maxresdefault.jpg
 publishDate: 2019-10-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/247-Victoria-Dougherty-What-People-Want-From-Fiction--And-The-Art-Of-Worldbuilding-e534ct
+tags:
+- Art
 title: '#247 Victoria Dougherty: What People Want From Fiction, And The Art Of Worldbuilding'
 youtubeid: T6gTK0dZcQc
 ---

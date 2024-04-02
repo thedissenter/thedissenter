@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/67403154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-27%2F2ca898a3-a8fb-208e-3321-ad424a1505ab.m4a
-category: Physics
 draft: false
 excerpt: 'Dr. Christopher Ferrie is an Associate Professor at the University of Technology
   Sydney and Centre for Quantum Software and Information. His research interests include
@@ -10,7 +9,12 @@ excerpt: 'Dr. Christopher Ferrie is an Associate Professor at the University of 
   Advice from Quantum Physics.'
 id: '814'
 image: https://i.ytimg.com/vi/LBycUn3eVlg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/814-christopher-ferrie-quantum-bullsh-t-how-to-ruin/id1451347236?i=1000622685397&uo=4
 publishDate: 2023-07-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/814-Christopher-Ferrie---Quantum-Bullsht-How-to-Ruin-Your-Life-with-Advice-from-Quantum-Physics-e217fui
+tags:
+- Physics
+- General Science
 title: '#814 Christopher Ferrie - Quantum Bullsh*t: How to Ruin Your Life with Advice
   from Quantum Physics'
 youtubeid: LBycUn3eVlg

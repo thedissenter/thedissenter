@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42511812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-29%2F564821e2-ec20-d98e-96ff-c62bdabce186.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. William Glod is Senior Program Officer at the Institute for Humane Studies,\
   \ an educational non-profit affiliated with George Mason University in Arlington,\
@@ -8,6 +7,9 @@ excerpt: "Dr. William Glod is Senior Program Officer at the Institute for Humane
 id: '584'
 image: https://i.ytimg.com/vi/n-i4DNvA2qY/maxresdefault.jpg
 publishDate: 2022-02-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/584-William-Glod-Why-Its-OK-to-Make-Bad-Choices-e19fs04
+tags:
+- Philosophy
 title: "#584 William Glod: Why It\u2019s OK to Make Bad Choices"
 youtubeid: n-i4DNvA2qY
 ---

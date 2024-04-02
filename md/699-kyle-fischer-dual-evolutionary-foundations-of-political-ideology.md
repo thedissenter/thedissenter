@@ -1,12 +1,15 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55728283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-4%2Fdd24f0cf-4074-6059-df88-39ee506cb1de.m4a
-category: Politics
 draft: false
 excerpt: Dr. Kyle Fischer has just finished his PhD in evolutionary political psychology
   at the University of Auckland.
 id: '699'
 image: https://i.ytimg.com/vi/vdcQhfXhX3k/maxresdefault.jpg
 publishDate: 2022-11-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/699-Kyle-Fischer-Dual-Evolutionary-Foundations-of-Political-Ideology-e1m36mr
+tags:
+- Politics
+- Psychology
 title: '#699 Kyle Fischer: Dual Evolutionary Foundations of Political Ideology'
 youtubeid: vdcQhfXhX3k
 ---

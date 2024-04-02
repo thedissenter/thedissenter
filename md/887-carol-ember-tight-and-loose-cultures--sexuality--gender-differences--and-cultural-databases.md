@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75864459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2F81199c9c-5a59-515e-0d42-4e2b8dbe9054.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Carol Ember is President of the Human Relations Area Files at Yale University
   and the editor of the journal Cross-Cultural Research. Most of her research career
@@ -13,7 +12,11 @@ excerpt: Dr. Carol Ember is President of the Human Relations Area Files at Yale 
   and Anthropology (with Melvin Ember and Peter N. Peregrine), now in its 15th edition.
 id: '887'
 image: https://i.ytimg.com/vi/0zew8DVP3q0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/887-carol-ember-tight-and-loose-cultures-sexuality/id1451347236?i=1000641753337&uo=4
 publishDate: 2024-01-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/887-Carol-Ember-Tight-and-Loose-Cultures--Sexuality--Gender-Differences--and-Cultural-Databases-e299mub
+tags:
+- Anthropology
 title: '#887 Carol Ember: Tight and Loose Cultures, Sexuality, Gender Differences,
   and Cultural Databases'
 youtubeid: 0zew8DVP3q0

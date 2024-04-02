@@ -1,13 +1,16 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78444137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F6d33ab18-d913-614b-85dc-91bf634ad3a7.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht University.
   His research centers on climate ethics and on investigating the nature of socially
   disruptive technologies.  '
 id: '867'
 image: https://i.ytimg.com/vi/Q9D4wlp8yrg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/867-jeroen-hopster-julia-hermann-ibo-van-de-poel/id1451347236?i=1000637081451&uo=4
 publishDate: 2023-11-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/867-Jeroen-Hopster--Julia-Hermann--Ibo-van-de-Poel-Ethics-of-Socially-Disruptive-Technologies-e2boe59
+tags:
+- Philosophy
 title: '#867 Jeroen Hopster, Julia Hermann & Ibo van de Poel: Ethics of Socially Disruptive
   Technologies'
 youtubeid: Q9D4wlp8yrg

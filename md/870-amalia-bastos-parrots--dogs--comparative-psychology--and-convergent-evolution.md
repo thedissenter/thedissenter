@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74431172/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-9%2F999872e9-24ca-b4e7-2dc4-eaf93cbe5391.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Amalia Bastos is a Postdoctoral Fellow at the Social & Cognitive Origins
   Group at Johns Hopkins University. She is interested in how evolutionary pressures
@@ -10,7 +9,12 @@ excerpt: Dr. Amalia Bastos is a Postdoctoral Fellow at the Social & Cognitive Or
   alongside research on dog cognition.
 id: '870'
 image: https://i.ytimg.com/vi/7lRxP4vOy1Y/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/870-amalia-bastos-parrots-dogs-comparative-psychology/id1451347236?i=1000637859786&uo=4
 publishDate: 2023-12-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/870-Amalia-Bastos-Parrots--Dogs--Comparative-Psychology--and-Convergent-Evolution-e27tv84
+tags:
+- Cognitive Science
+- Biology
 title: '#870 Amalia Bastos: Parrots, Dogs, Comparative Psychology, and Convergent
   Evolution'
 youtubeid: 7lRxP4vOy1Y

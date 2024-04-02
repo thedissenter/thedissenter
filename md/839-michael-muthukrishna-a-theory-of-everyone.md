@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/74781888/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-18%2F5e16fae9-7a26-fdc6-3f40-ddb7df6eeea6.m4a
-category: General Science
 draft: false
 excerpt: "Dr. Michael Muthukrishna is an Associate Professor of Economic Psychology\
   \ at the London School of Economics. His other affiliations include Affiliate of\
@@ -13,7 +12,13 @@ excerpt: "Dr. Michael Muthukrishna is an Associate Professor of Economic Psychol
   \ Are, How We Got Here, and Where We\u2019re Going."
 id: '839'
 image: https://i.ytimg.com/vi/ijYK-NITkeU/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/839-michael-muthukrishna-a-theory-of-everyone/id1451347236?i=1000629112499&uo=4
 publishDate: 2023-09-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/839-Michael-Muthukrishna-A-Theory-of-Everyone-e288lo0
+tags:
+- General Science
+- Anthropology
+- Psychology
 title: '#839 Michael Muthukrishna: A Theory of Everyone'
 youtubeid: ijYK-NITkeU
 ---

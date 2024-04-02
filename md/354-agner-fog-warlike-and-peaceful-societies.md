@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
   \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
@@ -11,6 +10,10 @@ excerpt: "Dr. Agner Fog is associate professor of computer science at Technical 
 id: '354'
 image: https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg
 publishDate: 2020-08-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/354-Agner-Fog-Warlike-and-Peaceful-Societies-egupqs
+tags:
+- Anthropology
+- Psychology
 title: '#354 Agner Fog: Warlike and Peaceful Societies'
 youtubeid: uTA24MyC9rQ
 ---

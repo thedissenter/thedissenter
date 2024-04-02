@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9792395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-19%2F44128406-44100-2-62288ad632faa.m4a
-category: Biology
 draft: false
 excerpt: Dr. Colin Wright is Eberly Fellow in the Department of Biology at Pennsylvania
   State University. His research explores the effects of animal personality on collective
@@ -12,6 +11,10 @@ excerpt: Dr. Colin Wright is Eberly Fellow in the Department of Biology at Penns
 id: '316'
 image: https://i.ytimg.com/vi/ECLq8ONVuZ4/maxresdefault.jpg
 publishDate: 2020-04-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/316-Colin-Wright-Insect-Personality--And-The-New-Evolution-Deniers-ea9beb
+tags:
+- Biology
+- Psychology
 title: '#316 Colin Wright: Insect Personality, And The New Evolution Deniers'
 youtubeid: ECLq8ONVuZ4
 ---

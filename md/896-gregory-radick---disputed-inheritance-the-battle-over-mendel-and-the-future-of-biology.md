@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/76548710/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-29%2F4384bb1b-fb31-841a-5582-e4692bdd836e.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Gregory Radick is Professor of History and Philosophy of Science at\
   \ the University of Leeds. He has held fellowships from the British Academy and\
@@ -14,7 +13,12 @@ excerpt: "Dr. Gregory Radick is Professor of History and Philosophy of Science a
   \ over Mendel and the Future of Biology."
 id: '896'
 image: https://i.ytimg.com/vi/vo0Ghd_-A3c/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/896-gregory-radick-disputed-inheritance-the-battle/id1451347236?i=1000644258195&uo=4
 publishDate: 2024-02-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/896-Gregory-Radick---Disputed-Inheritance-The-Battle-over-Mendel-and-the-Future-of-Biology-e29uj56
+tags:
+- Biology
+- Philosophy
 title: '#896 Gregory Radick - Disputed Inheritance: The Battle over Mendel and the
   Future of Biology'
 youtubeid: vo0Ghd_-A3c

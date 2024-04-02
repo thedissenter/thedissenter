@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/19451966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2F2df42ad2-ad03-5db0-9a29-b6eeced43df5.m4a
-category: General Science
 draft: false
 excerpt: "Ann Druyan was the creative director of NASA\u2019s Voyager Interstellar\
   \ Message Project and program director of the first solar sail deep space mission,\
@@ -18,6 +17,9 @@ excerpt: "Ann Druyan was the creative director of NASA\u2019s Voyager Interstell
 id: '366'
 image: https://i.ytimg.com/vi/LntdVQNFVcU/maxresdefault.jpg
 publishDate: 2020-09-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/366-Ann-Druyan---Cosmos-Possible-Worlds-ejg4ju
+tags:
+- General Science
 title: '#366 Ann Druyan - Cosmos: Possible Worlds'
 youtubeid: LntdVQNFVcU
 ---

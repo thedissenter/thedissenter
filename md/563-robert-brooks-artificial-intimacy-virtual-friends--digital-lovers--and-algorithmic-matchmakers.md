@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/44074370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F59d87a3d-767c-9d48-74d9-01f13a5b59b7.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Robert Brooks is Professor of Evolution at the University of New South\
   \ Wales in Sydney, Australia. He studies the evolution of mate choice, the costs\
@@ -11,6 +10,10 @@ excerpt: "Dr. Robert Brooks is Professor of Evolution at the University of New S
 id: '563'
 image: https://i.ytimg.com/vi/qiSGH9UVokY/maxresdefault.jpg
 publishDate: 2021-12-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/563-Robert-Brooks-Artificial-Intimacy-Virtual-Friends--Digital-Lovers--and-Algorithmic-Matchmakers-e1avhu2
+tags:
+- Biology
+- Psychology
 title: '#563 Robert Brooks Artificial Intimacy: Virtual Friends, Digital Lovers, and
   Algorithmic Matchmakers'
 youtubeid: qiSGH9UVokY

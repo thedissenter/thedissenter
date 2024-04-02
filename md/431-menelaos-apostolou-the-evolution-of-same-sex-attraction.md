@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25460655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2F250ff052-5ba3-36c2-9920-8e250d568b98.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Menelaos Apostolou is currently an Associate Professor at the University\
   \ of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate\
@@ -10,6 +9,10 @@ excerpt: "Dr. Menelaos Apostolou is currently an Associate Professor at the Univ
 id: '431'
 image: https://i.ytimg.com/vi/sVskQ3LVMNw/maxresdefault.jpg
 publishDate: 2021-02-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/431-Menelaos-Apostolou-The-Evolution-of-Same-Sex-Attraction-ep7gff
+tags:
+- Biology
+- Psychology
 title: '#431 Menelaos Apostolou: The Evolution of Same-Sex Attraction'
 youtubeid: sVskQ3LVMNw
 ---

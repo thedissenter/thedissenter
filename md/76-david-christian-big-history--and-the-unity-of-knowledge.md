@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682386-44100-2-a3d4f7e2aa034.mp3
-category: General Science
 draft: false
 excerpt: "Dr. David Christian is Professor at the Department of Modern History, Politics\
   \ and International Relations at Macquarie University. He is notable for teaching\
@@ -11,6 +10,9 @@ excerpt: "Dr. David Christian is Professor at the Department of Modern History, 
 id: '76'
 image: https://i.ytimg.com/vi/no4hkpQiTEw/maxresdefault.jpg
 publishDate: 2018-09-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/76-David-Christian-Big-History--and-the-Unity-of-Knowledge-e2rjb4
+tags:
+- General Science
 title: '#76 David Christian: Big History, and the Unity of Knowledge'
 youtubeid: no4hkpQiTEw
 ---

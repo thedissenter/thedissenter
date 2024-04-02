@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20528703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2Fbc814f77-bf6c-b9ec-bee3-451621861213.m4a
-category: Psychology
 draft: false
 excerpt: '------------------Sup  '
 id: '401'
 image: https://i.ytimg.com/vi/YIGnwWCJvEA/maxresdefault.jpg
 publishDate: 2020-12-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/401-Kristina-Durante-Female-Intrasexual-Competition--and-Consumer-Choices-ekh03v
+tags:
+- Psychology
 title: '#401 Kristina Durante: Female Intrasexual Competition, and Consumer Choices'
 youtubeid: YIGnwWCJvEA
 ---

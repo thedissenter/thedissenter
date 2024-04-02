@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26619462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2Fa106ee80-3414-7f4e-442c-61827099daa2.m4a
-category: Economy, Progress
 draft: false
 excerpt: 'Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics and
   Law at Chapman University. He is a founding member of the Economic Science Institute
@@ -14,6 +13,10 @@ excerpt: 'Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics
 id: '466'
 image: https://i.ytimg.com/vi/SLvTBdpDdN8/maxresdefault.jpg
 publishDate: 2021-05-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/466-Bart-Wilson---The-Property-Species-Mine--Yours--and-the-Human-Mind-eqas46
+tags:
+- Economy, Progress
+- Psychology
 title: '#466 Bart Wilson - The Property Species: Mine, Yours, and the Human Mind'
 youtubeid: SLvTBdpDdN8
 ---

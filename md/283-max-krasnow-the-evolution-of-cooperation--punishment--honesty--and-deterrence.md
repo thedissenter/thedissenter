@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8340921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33420462-44100-2-67e720e5a211d.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Max Krasnow is Associate Professor in the Department of Psychology at\
   \ Harvard University. His research interests include: evolutionary psychology, evolution\
@@ -15,6 +14,9 @@ excerpt: "Dr. Max Krasnow is Associate Professor in the Department of Psychology
 id: '283'
 image: https://i.ytimg.com/vi/6Vtfu9lM-bU/maxresdefault.jpg
 publishDate: 2020-01-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/283-Max-Krasnow-The-Evolution-of-Cooperation--Punishment--Honesty--and-Deterrence-e8t1vp
+tags:
+- Psychology
 title: '#283 Max Krasnow: The Evolution of Cooperation, Punishment, Honesty, and Deterrence'
 youtubeid: 6Vtfu9lM-bU
 ---

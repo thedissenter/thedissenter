@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/61554165/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-2%2Fc8c1dc01-33c7-0f1a-e88d-94318d5b6454.m4a
-category: History
 draft: false
 excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel Aviv\
   \ University, in Israel. He is the founder and head of the University's International\
@@ -12,6 +11,12 @@ excerpt: "Dr. Azar Gat is the Ezer Weizman Professor of National Security at Tel
 id: '716'
 image: https://i.ytimg.com/vi/NUnIgc97FAc/maxresdefault.jpg
 publishDate: 2022-12-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/716-Azar-Gat---Ideological-Fixation-From-the-Stone-Age-to-Todays-Culture-Wars-e1rl01l
+tags:
+- History
+- Anthropology
+- Philosophy
+- Psychology
 title: "#716 Azar Gat - Ideological Fixation: From the Stone Age to Today\u2019s Culture\
   \ Wars"
 youtubeid: NUnIgc97FAc

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/48497338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-3%2F3014d945-2d6e-d458-61b9-cdf6a90291c0.m4a
-category: General Science
 draft: false
 excerpt: Dr. Simon Garnier is an Associate Professor of Biology at the New Jersey
   Institute of Technology. He is the head of the Swarm Lab, an interdisciplinary research
@@ -11,6 +10,11 @@ excerpt: Dr. Simon Garnier is an Associate Professor of Biology at the New Jerse
 id: '634'
 image: https://i.ytimg.com/vi/YMEVoxNyWhE/maxresdefault.jpg
 publishDate: 2022-06-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/634-Simon-Garnier-Swarm-Intelligence--Collective-Decision-Making--and-Human-Societies-e1f6h7q
+tags:
+- Biology
+- General Science
+- Psychology
 title: '#634 Simon Garnier: Swarm Intelligence, Collective Decision-Making, and Human
   Societies'
 youtubeid: YMEVoxNyWhE

@@ -1,4 +1,3 @@
-category: Physics
 excerpt: 'Dr. Chad Orzel is an Associate Professor in the Department of Physics and
   Astronomy at Union College in Schenectady, NY, where he teaches a wide range of
   classes, and does research on atomic, molecular, and optical physics. He writes
@@ -11,6 +10,7 @@ id: '759'
 image: https://i.ytimg.com/vi/AInXTKmGMLE/maxresdefault.jpg
 interviewee:
 - Chad Orzel
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/759-chad-orzel-a-brief-history-of-timekeeping/id1451347236?i=1000605620212&uo=4
 published: '2023-03-23'
 shownotes: "RECORDED ON DECEMBER 8th 2022.  \nDr. Chad Orzel is an Associate Professor\
   \ in the Department of Physics and Astronomy at Union College in Schenectady, NY,\
@@ -46,6 +46,9 @@ shownotes: "RECORDED ON DECEMBER 8th 2022.  \nDr. Chad Orzel is an Associate Pro
 spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/61891576/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-8%2F80a32dc1-452c-940a-5c69-81748d712058.m4a
 spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/759-Chad-Orzel---A-Brief-History-of-Timekeeping-from-Stonehenge-to-Atomic-Clocks-e1rv9ho
 spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1670516357081-d679ff0a26872.jpg
+tags:
+- Physics
+- History
 title: '#759 Chad Orzel - A Brief History of Timekeeping; from Stonehenge to Atomic
   Clocks'
 youtubeid: AInXTKmGMLE

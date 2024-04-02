@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/58521492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-3%2F1e9984b0-840e-f020-416f-c955862ca5e1.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington State
   University. Her research interests include long-distance relationships and resource
@@ -9,6 +8,9 @@ excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington Sta
 id: '701'
 image: https://i.ytimg.com/vi/M3vcpPcPE9s/maxresdefault.jpg
 publishDate: 2022-11-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/701-Anne-Pisor-How-Researchers-Prepare-for-Fieldwork-e1ooeek
+tags:
+- Anthropology
 title: '#701 Anne Pisor: How Researchers Prepare for Fieldwork'
 youtubeid: M3vcpPcPE9s
 ---

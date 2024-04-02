@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32759795/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-3%2F0ca70bff-2714-3526-7d8f-75f61516c989.m4a
-category: Politics
 draft: false
 excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the University\
   \ of Washington. He has written, edited or co-authored 40 books, including ones\
@@ -15,6 +14,11 @@ excerpt: "Dr. David P. Barash is Professor of Psychology Emeritus at the Univers
 id: '467'
 image: https://i.ytimg.com/vi/Yrufx9w_GOk/maxresdefault.jpg
 publishDate: 2021-05-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/467-David-Barash---Threats-Intimidation-and-Its-Discontents--Nuclear-Deterrence-e1068hj
+tags:
+- Politics
+- Biology
+- Psychology
 title: '#467 David Barash - Threats: Intimidation and Its Discontents; Nuclear Deterrence'
 youtubeid: Yrufx9w_GOk
 ---

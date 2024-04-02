@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51285698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-29%2Fad79b525-cc3c-523d-0a30-da1db2295d7a.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr.
   Reginster''s research has focused mostly on issues in ethics, metaethics, and moral
@@ -14,6 +13,9 @@ excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. 
 id: '651'
 image: https://i.ytimg.com/vi/Qac12mJMY8c/maxresdefault.jpg
 publishDate: 2022-07-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/651-Bernard-Reginster---The-Affirmation-of-Life-Nietzsche-on-Overcoming-Nihilism-e1hrk82
+tags:
+- Philosophy
 title: '#651 Bernard Reginster - The Affirmation of Life: Nietzsche on Overcoming
   Nihilism'
 youtubeid: Qac12mJMY8c

@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2005519/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706774-44100-2-2fd4de2a82edb.mp3
-category: Philosophy
 draft: false
 excerpt: '------------------Support me---------  '
 id: '87'
 image: https://i.ytimg.com/vi/WggFO-sUwOI/maxresdefault.jpg
 publishDate: 2018-10-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/87-Helen-Steward-Philosophy-of-Action--Free-Will--Moral-Responsibility-e2rn2f
+tags:
+- Philosophy
 title: '#87 Helen Steward: Philosophy of Action, Free Will, Moral Responsibility'
 youtubeid: WggFO-sUwOI
 ---

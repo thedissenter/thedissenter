@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23851653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F2cb65e97-2988-9ad3-6778-0d76058c7f5c.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Michael Tomasello is an American developmental and comparative psychologist,\
   \ as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary\
@@ -16,6 +15,9 @@ excerpt: "Dr. Michael Tomasello is an American developmental and comparative psy
 id: '422'
 image: https://i.ytimg.com/vi/yt9eS0pCsgo/maxresdefault.jpg
 publishDate: 2021-01-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/422-Michael-Tomasello-Interdependence--Shared-Intentionality--Culture--and-Morality-enmd65
+tags:
+- Psychology
 title: '#422 Michael Tomasello: Interdependence, Shared Intentionality, Culture, and
   Morality'
 youtubeid: yt9eS0pCsgo

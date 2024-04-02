@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10526294/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-21%2F51601476-44100-2-a69a2120997a9.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Sarah Garfinkel is Professor of neuroscience and psychiatry based at\
   \ the University of Sussex and the Brighton and Sussex Medical School. Her research\
@@ -16,6 +15,11 @@ excerpt: "Dr. Sarah Garfinkel is Professor of neuroscience and psychiatry based 
 id: '327'
 image: https://i.ytimg.com/vi/ZigEDvbsGb8/maxresdefault.jpg
 publishDate: 2020-04-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/327-Sarah-Garfinkel-Interoception--Emotion--And-Mental-Health-eavo4m
+tags:
+- Cognitive Science
+- Neuroscience
+- Psychology
 title: '#327 Sarah Garfinkel: Interoception, Emotion, And Mental Health'
 youtubeid: ZigEDvbsGb8
 ---

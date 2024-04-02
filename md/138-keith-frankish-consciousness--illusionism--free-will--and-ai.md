@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121805-44100-2-9b752afc9d777.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Keith Frankish is a British philosopher and writer, currently living\
   \ in Crete, Greece. He\u2019s an Honorary Reader at the University of Sheffield,\
@@ -12,6 +11,9 @@ excerpt: "Dr. Keith Frankish is a British philosopher and writer, currently livi
 id: '138'
 image: https://i.ytimg.com/vi/uXeqm2d1djo/maxresdefault.jpg
 publishDate: 2019-02-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/138-Keith-Frankish-Consciousness--Illusionism--Free-Will--and-AI-e32tl7
+tags:
+- Philosophy
 title: '#138 Keith Frankish: Consciousness, Illusionism, Free Will, and AI'
 youtubeid: uXeqm2d1djo
 ---

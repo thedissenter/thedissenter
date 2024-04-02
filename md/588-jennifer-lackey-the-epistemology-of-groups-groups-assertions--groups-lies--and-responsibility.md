@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42816542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F9a1d5368-1cc2-1042-f3f7-5d08d757c84f.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy
   at Northwestern University. Jennifer Lackey specializes in epistemology, with a
@@ -12,6 +11,9 @@ excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosoph
 id: '588'
 image: https://i.ytimg.com/vi/OnW93tV_Ky8/maxresdefault.jpg
 publishDate: 2022-02-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/588-Jennifer-Lackey-The-Epistemology-of-Groups-Groups-Assertions--Groups-Lies--and-Responsibility-e19p5iu
+tags:
+- Philosophy
 title: '#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups
   Lies, and Responsibility'
 youtubeid: OnW93tV_Ky8

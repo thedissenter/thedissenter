@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/67873686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F9abb0a16-7029-8277-7c90-0f5ff7a34065.m4a
-category: Psychology
 draft: false
 excerpt: "M\xE9lusine Boon-Falleur is a PhD student in cognitive sciences at the \xC9\
   cole Normale Sup\xE9rieure (ENS) Paris, researching how evolution shaped our brain.\
@@ -9,7 +8,11 @@ excerpt: "M\xE9lusine Boon-Falleur is a PhD student in cognitive sciences at the
   \ pro-environmental behavior."
 id: '812'
 image: https://i.ytimg.com/vi/Q1GELjHyfa0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/812-m%C3%A9lusine-boon-falleur-the-impact-of-resources/id1451347236?i=1000622182204&uo=4
 publishDate: 2023-07-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/812-Mlusine-Boon-Falleur-The-Impact-of-Resources-on-Psychology--and-Climate-Change-e21lrem
+tags:
+- Psychology
 title: "#812 M\xE9lusine Boon-Falleur: The Impact of Resources on Psychology, and\
   \ Climate Change"
 youtubeid: Q1GELjHyfa0

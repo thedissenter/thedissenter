@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/11062450/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-13%2F56369849-44100-2-f913dfc1bc7ab.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Luciano Floridi is the OII\u2018s Professor of Philosophy and Ethics\
   \ of Information at the University of Oxford, where he is also the Director of the\
@@ -19,6 +18,9 @@ excerpt: "Dr. Luciano Floridi is the OII\u2018s Professor of Philosophy and Ethi
 id: '329'
 image: https://i.ytimg.com/vi/jgmdEk7rTxU/maxresdefault.jpg
 publishDate: 2020-05-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/329-Luciano-Floridi-Information--Knowledge--Science--and-AI-ebg3ni
+tags:
+- Philosophy
 title: '#329 Luciano Floridi: Information, Knowledge, Science, and AI'
 youtubeid: jgmdEk7rTxU
 ---

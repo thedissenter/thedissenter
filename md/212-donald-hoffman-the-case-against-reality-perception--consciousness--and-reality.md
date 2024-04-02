@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3720849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877422-44100-2-af111d0c2fa81.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Sciences
   at the University of California, Irvine. Dr. Hoffman studies consciousness, visual
@@ -14,6 +13,10 @@ excerpt: 'Dr. Donald Hoffman is a Professor in the Department of Cognitive Scien
 id: '212'
 image: https://i.ytimg.com/vi/sD0HuGVZOvQ/maxresdefault.jpg
 publishDate: 2019-08-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/212-Donald-Hoffman-The-Case-Against-Reality-Perception--Consciousness--And-Reality-e4g26h
+tags:
+- Cognitive Science
+- Neuroscience
 title: '#212 Donald Hoffman: The Case Against Reality; Perception, Consciousness,
   And Reality'
 youtubeid: sD0HuGVZOvQ

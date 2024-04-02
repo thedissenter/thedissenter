@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65417750/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-21%2F30cceff7-5ed8-4a1d-93ca-c2d1164a30ad.m4a
-category: Medicine
 draft: false
 excerpt: 'Dr. Laurence Kirmayer is James McGill Professor and Director of the Division
   of Social and Transcultural Psychiatry at McGill University, and editor-in-chief
@@ -12,7 +11,12 @@ excerpt: 'Dr. Laurence Kirmayer is James McGill Professor and Director of the Di
   Encountering the Other in Mental Health Care.'
 id: '768'
 image: https://i.ytimg.com/vi/Hh03vxzcEhg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/768-laurence-kirmayer-cultural-consultation-encountering/id1451347236?i=1000608839834&uo=4
 publishDate: 2023-04-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/768-Laurence-Kirmayer---Cultural-Consultation-Encountering-the-Other-in-Mental-Health-Care-e1vat2m
+tags:
+- Medicine
+- Psychology
 title: '#768 Laurence Kirmayer - Cultural Consultation: Encountering the Other in
   Mental Health Care'
 youtubeid: Hh03vxzcEhg

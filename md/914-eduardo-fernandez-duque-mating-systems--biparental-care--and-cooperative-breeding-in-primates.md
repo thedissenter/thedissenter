@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77923763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-30%2F71f45b88-c441-cf66-aa9a-791a96618bb2.m4a
-category: Primatology
 draft: false
 excerpt: Dr. Eduardo Fernandez-Duque is Professor of Anthropology at the School of
   the Environment at Yale University. He is a biological anthropologist with a general
@@ -13,7 +12,13 @@ excerpt: Dr. Eduardo Fernandez-Duque is Professor of Anthropology at the School 
   primates.
 id: '914'
 image: https://i.ytimg.com/vi/cTvJKUNIaJE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/914-eduardo-fernandez-duque-mating-systems-biparental/id1451347236?i=1000649235368&uo=4
 publishDate: 2024-03-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/914-Eduardo-Fernandez-Duque-Mating-Systems--Biparental-Care--and-Cooperative-Breeding-in-Primates-e2b8hvj
+tags:
+- Biology
+- Primatology
+- Anthropology
 title: '#914 Eduardo Fernandez-Duque: Mating Systems, Biparental Care, and Cooperative
   Breeding in Primates'
 youtubeid: cTvJKUNIaJE

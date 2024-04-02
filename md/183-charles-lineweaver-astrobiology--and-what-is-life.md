@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2856617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-6%2F12454410-44100-2-cd3093914a5cf.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Charles H. Lineweaver is the convener of the Australian National University''s
   Planetary Science Institute and holds a joint appointment as an associate professor
@@ -14,6 +13,9 @@ excerpt: 'Dr. Charles H. Lineweaver is the convener of the Australian National U
 id: '183'
 image: https://i.ytimg.com/vi/1CVjgIr6gBc/maxresdefault.jpg
 publishDate: 2019-05-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/183-Charles-Lineweaver-Astrobiology--And-What-Is-Life-e3lm79
+tags:
+- General Science
 title: '#183 Charles Lineweaver: Astrobiology, And What Is Life'
 youtubeid: 1CVjgIr6gBc
 ---

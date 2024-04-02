@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55287588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-25%2F0c0db731-ba34-1df8-ccfb-694bc4950420.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Olivier Morin has a full-time tenured research position at the Institut
   Jean Nicod in Paris. He is also a Research group leader at the Max Planck Institute
@@ -11,6 +10,11 @@ excerpt: Dr. Olivier Morin has a full-time tenured research position at the Inst
 id: '686'
 image: https://i.ytimg.com/vi/o2s2jq37DtU/maxresdefault.jpg
 publishDate: 2022-10-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/686-Olivier-Morin-How-Traditions-Live-and-Die-e1llob4
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#686 Olivier Morin: How Traditions Live and Die'
 youtubeid: o2s2jq37DtU
 ---

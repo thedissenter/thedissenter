@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/53811963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F96ccbb2a-0fcc-3c12-a4fb-43c505102754.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of
   Philosophy at Duke University, and Laureate Professor of Philosophy at the University
@@ -11,6 +10,11 @@ excerpt: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus o
 id: '683'
 image: https://i.ytimg.com/vi/gZbbD40FWuw/maxresdefault.jpg
 publishDate: 2022-09-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/683-Allen-Buchanan---Our-Moral-Fate-Evolution-and-the-Escape-from-Tribalism-e1k8n9r
+tags:
+- Anthropology
+- Philosophy
+- Psychology
 title: '#683 Allen Buchanan - Our Moral Fate: Evolution and the Escape from Tribalism'
 youtubeid: gZbbD40FWuw
 ---

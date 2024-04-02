@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378931-44100-2-ca0c80356fcb2.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Peggy Mason is a Professor in the Department of Neurobiology at the University
   of Chicago. She received both her BA in Biology and her Phd in Neuroscience from
@@ -13,6 +12,9 @@ excerpt: Dr. Peggy Mason is a Professor in the Department of Neurobiology at the
 id: '146'
 image: https://i.ytimg.com/vi/W568wvd43wY/maxresdefault.jpg
 publishDate: 2019-03-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/146-Peggy-Mason-The-Neuroscience-of-Empathy-and-Helping-Behavior-e39oae
+tags:
+- Neuroscience
 title: '#146 Peggy Mason: The Neuroscience of Empathy and Helping Behavior'
 youtubeid: W568wvd43wY
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38394215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F501f81a0-9ae4-d5a1-5461-b76410dfc7d0.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Louise Barrett is Professor of Psychology and Canada Research Chair
   in Cognition, Evolution & Behaviour at the University of Lethbridge. She ran a long-term
@@ -16,6 +15,9 @@ excerpt: 'Dr. Louise Barrett is Professor of Psychology and Canada Research Chai
 id: '551'
 image: https://i.ytimg.com/vi/W4vJVrYZBlA/maxresdefault.jpg
 publishDate: 2021-11-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/551-Louise-Barrett-Baboon-Societies--Ecology--Embodied-Cognition--and-Evolutionary-Psychology-e15i6t7
+tags:
+- Psychology
 title: '#551 Louise Barrett: Baboon Societies, Ecology, Embodied Cognition, and Evolutionary
   Psychology'
 youtubeid: W4vJVrYZBlA

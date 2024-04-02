@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8999889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-14%2F38631735-44100-2-9b4b394595ba.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Kristen Hawkes is Distinguished Professor of Anthropology at the University\
   \ of Utah. Dr. Hawkes, an expert in human evolution and sociobiology, is the author\
@@ -14,6 +13,9 @@ excerpt: "Dr. Kristen Hawkes is Distinguished Professor of Anthropology at the U
 id: '300'
 image: https://i.ytimg.com/vi/1M-5lv4muRg/maxresdefault.jpg
 publishDate: 2020-02-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/300-Kristen-Hawkes-The-Grandmother-Hypothesis-e9h5gh
+tags:
+- Anthropology
 title: '#300 Kristen Hawkes: The Grandmother Hypothesis'
 youtubeid: 1M-5lv4muRg
 ---

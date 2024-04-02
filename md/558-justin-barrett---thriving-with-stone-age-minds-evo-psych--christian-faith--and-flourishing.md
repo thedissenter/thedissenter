@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/39063366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F0f9cd081-045d-992e-e006-75327221ee77.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Justin L. Barrett is founder and president of Blueprint 1543 and adjunct
   professor of psychology at Fuller Theological Seminary, where he was formerly director
@@ -10,6 +9,10 @@ excerpt: 'Dr. Justin L. Barrett is founder and president of Blueprint 1543 and a
 id: '558'
 image: https://i.ytimg.com/vi/1jeNPEDjKZA/maxresdefault.jpg
 publishDate: 2021-12-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/558-Justin-Barrett---Thriving-with-Stone-Age-Minds-Evo-Psych--Christian-Faith--and-Flourishing-e166kc6
+tags:
+- Anthropology
+- Psychology
 title: '#558 Justin Barrett - Thriving with Stone Age Minds; Evo Psych, Christian
   Faith, and Flourishing'
 youtubeid: 1jeNPEDjKZA

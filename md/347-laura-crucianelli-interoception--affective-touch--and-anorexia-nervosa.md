@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/14131988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75648906-44100-2-4f07093509306.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in Henrik\
   \ Erhsson\u2019s lab at the Karolinska Institute, in Stockholm. Dr. Crucianelli\
@@ -12,6 +11,9 @@ excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in 
 id: '347'
 image: https://i.ytimg.com/vi/1jvKL3Jaetk/maxresdefault.jpg
 publishDate: 2020-07-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/347-Laura-Crucianelli-Interoception--Affective-Touch--And-Anorexia-Nervosa-eedpak
+tags:
+- Psychology
 title: '#347 Laura Crucianelli: Interoception, Affective Touch, And Anorexia Nervosa'
 youtubeid: 1jvKL3Jaetk
 ---

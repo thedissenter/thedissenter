@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3852311/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715904-44100-2-ebeb9fa977fcc.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Sven Nyholm is an Assistant Professor of Philosophy and Ethics at Eindhoven
   University of Technology (TU/e). His main areas of research are applied ethics (especially
@@ -16,6 +15,9 @@ excerpt: Dr. Sven Nyholm is an Assistant Professor of Philosophy and Ethics at E
 id: '222'
 image: https://i.ytimg.com/vi/eEcqxjlz1eg/maxresdefault.jpg
 publishDate: 2019-08-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/222-Sven-Nyholm-Self-Driving-Cars--Love-Enhancement--And-Sex-Robots-e4k2in
+tags:
+- Philosophy
 title: '#222 Sven Nyholm: Self-Driving Cars, Love Enhancement, And Sex Robots'
 youtubeid: eEcqxjlz1eg
 ---

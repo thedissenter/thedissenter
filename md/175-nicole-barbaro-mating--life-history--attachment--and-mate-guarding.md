@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2788731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-02-15%2Fbff5ee053ed46d6ff7bb9c944037e92c.m4a
-category: Psychology
 draft: false
 excerpt: Nicole Barbaro is currently a PhD student in evolutionary psychology at Oakland
   University, studying under the advisement of Todd K. Shackelford. She serves as
@@ -13,6 +12,9 @@ excerpt: Nicole Barbaro is currently a PhD student in evolutionary psychology at
 id: '175'
 image: https://i.ytimg.com/vi/t_5gPMTdEZU/maxresdefault.jpg
 publishDate: 2019-05-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/175-Nicole-Barbaro-Mating--Life-History--Attachment--And-Mate-Guarding-e3jjtr
+tags:
+- Psychology
 title: '#175 Nicole Barbaro: Mating, Life History, Attachment, And Mate Guarding'
 youtubeid: t_5gPMTdEZU
 ---

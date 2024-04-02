@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1986128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571880-48000-2-6ff1d90138a6c.mp3
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '8'
 image: https://i.ytimg.com/vi/_3fTsI2wXJk/maxresdefault.jpg
 publishDate: 2018-03-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/8-Joo-Jlio-Cerqueira-Evidence-based-Science--SCIMED-e2r44g
+tags:
+- "Entrevistas em Portugu\xEAs"
 title: "#8 Jo\xE3o J\xFAlio Cerqueira: Evidence-based Science | SCIMED"
 youtubeid: _3fTsI2wXJk
 ---

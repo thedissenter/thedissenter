@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380437-44100-2-be3e748e69f5f.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Philip Goff is a philosopher and consciousness researcher at Durham\
   \ University, UK. His main research focus is trying to explain how the brain produces\
@@ -12,6 +11,9 @@ excerpt: "Dr. Philip Goff is a philosopher and consciousness researcher at Durha
 id: '162'
 image: https://i.ytimg.com/vi/CCvG_lX70L4/maxresdefault.jpg
 publishDate: 2019-04-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/162-Philip-Goff-Materialism--Consciousness--And-The-Nature-of-Reality-e39oh3
+tags:
+- Philosophy
 title: '#162 Philip Goff: Materialism, Consciousness, And The Nature of Reality'
 youtubeid: CCvG_lX70L4
 ---

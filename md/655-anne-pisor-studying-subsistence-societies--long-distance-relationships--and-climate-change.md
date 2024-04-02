@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51468579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-3%2F699dc136-7811-a965-cb6b-e1958c337185.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington State
   University. Her research interests include long-distance relationships and resource
@@ -9,6 +8,9 @@ excerpt: Dr. Anne Pisor is Assistant Professor of Anthropology at Washington Sta
 id: '655'
 image: https://i.ytimg.com/vi/bb0KsWNvw7M/maxresdefault.jpg
 publishDate: 2022-07-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/655-Anne-Pisor-Studying-Subsistence-Societies--Long-Distance-Relationships--and-Climate-Change-e1i16r3
+tags:
+- Anthropology
 title: '#655 Anne Pisor: Studying Subsistence Societies, Long-Distance Relationships,
   and Climate Change'
 youtubeid: bb0KsWNvw7M

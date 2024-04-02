@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/32564989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2F8faaf11d-b4cc-a9b0-fd89-17228dad46fd.m4a
-category: Linguistics
 draft: false
 excerpt: Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlangen,
   and in the Department of English Language and Linguistics at Birmingham University.
@@ -12,6 +11,11 @@ excerpt: Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlan
 id: '504'
 image: https://i.ytimg.com/vi/U07H3vm-wv8/maxresdefault.jpg
 publishDate: 2021-08-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/504-Ewa-Dabrowska-Linguistics--and-Native-and-Second-Language-Attainment-e100a9t
+tags:
+- Linguistics
+- Cognitive Science
+- Psychology
 title: '#504 Ewa Dabrowska: Linguistics, and Native and Second Language Attainment'
 youtubeid: U07H3vm-wv8
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8494983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-17%2F34512851-44100-2-f3dc66249f613.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist,
   historian, political activist, and social critic. Sometimes called "the father of
@@ -12,6 +11,11 @@ excerpt: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scient
 id: '261'
 image: https://i.ytimg.com/vi/HD7Fz0m51eg/maxresdefault.jpg
 publishDate: 2019-11-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/261-Noam-Chomsky-Cognitive-Revolution--Piaget--Foucault--And-Evolutionary-Psychology-e91oe7
+tags:
+- Cognitive Science
+- Philosophy
+- Psychology
 title: '#261 Noam Chomsky: Cognitive Revolution, Piaget, Foucault, And Evolutionary
   Psychology'
 youtubeid: HD7Fz0m51eg

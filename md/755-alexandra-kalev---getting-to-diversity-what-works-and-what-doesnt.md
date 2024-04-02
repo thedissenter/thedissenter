@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65803137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2Feec1ae08-a649-4f34-c264-f0552db8b105.m4a
-category: Sociology
 draft: false
 excerpt: 'Dr. Alexandra Kalev is Associate Professor of Sociology and Anthropology
   at Tel Aviv University. She is developing an evidence-based approach to managing
@@ -8,7 +7,12 @@ excerpt: 'Dr. Alexandra Kalev is Associate Professor of Sociology and Anthropolo
   Dobbin, of Getting to Diversity: What Works and What Doesn''t.'
 id: '755'
 image: https://i.ytimg.com/vi/jC_T0-IcngQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/755-alexandra-kalev-getting-to-diversity-what-works/id1451347236?i=1000603990133&uo=4
 publishDate: 2023-03-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/755-Alexandra-Kalev---Getting-to-Diversity-What-Works-and-What-Doesnt-e1vmle1
+tags:
+- Sociology
+- Anthropology
 title: '#755 Alexandra Kalev - Getting to Diversity: What Works and What Doesn''t'
 youtubeid: jC_T0-IcngQ
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/42134813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2F87aa7fdf-ad06-a7b1-4296-6ce94ac831aa.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Peter Ditto is Professor of Psychological Science at UC Irvine School\
   \ of Social Ecology. He is interested in \u201Chot cognition\u201D \u2014 the interface\
@@ -19,6 +18,9 @@ excerpt: "Dr. Peter Ditto is Professor of Psychological Science at UC Irvine Sch
 id: '583'
 image: https://i.ytimg.com/vi/T-Eljsj-bhk/maxresdefault.jpg
 publishDate: 2022-02-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/583-Peter-Ditto-Motivated-Reasoning--Morality--and-Politics-e194bqt
+tags:
+- Psychology
 title: '#583 Peter Ditto: Motivated Reasoning, Morality, and Politics'
 youtubeid: T-Eljsj-bhk
 ---

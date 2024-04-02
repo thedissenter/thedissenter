@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65699754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F1b177a67-1325-88da-bece-c193720ddaf8.m4a
-category: Neuroscience
 draft: false
 excerpt: Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscience
   in the Brain and Cognitive Sciences department at MIT. Her research focuses on the
@@ -9,7 +8,12 @@ excerpt: Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscien
   and genotyping methods in healthy adults and individuals with brain disorders.
 id: '797'
 image: https://i.ytimg.com/vi/1vGJJru9Smg/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/797-evelina-fedorenko-the-neuroscience-of-language/id1451347236?i=1000617603476&uo=4
 publishDate: 2023-06-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/797-Evelina-Fedorenko-The-Neuroscience-of-Language-e1vjgfa
+tags:
+- Neuroscience
+- Psychology
 title: '#797 Evelina Fedorenko: The Neuroscience of Language'
 youtubeid: 1vGJJru9Smg
 ---

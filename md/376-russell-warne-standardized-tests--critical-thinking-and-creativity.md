@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/18709819/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-28%2F63b3df5e-a144-2c34-34f6-389ad0715486.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Russell T. Warne is Associate Professor of Psychology at Utah Valley
   University. Dr. Warne is the associate editor for the Journal for the Education
@@ -13,6 +12,9 @@ excerpt: 'Dr. Russell T. Warne is Associate Professor of Psychology at Utah Vall
 id: '376'
 image: https://i.ytimg.com/vi/c9owI60ucNg/maxresdefault.jpg
 publishDate: 2020-10-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/376-Russell-Warne-Standardized-Tests--Critical-Thinking-and-Creativity-eipfrr
+tags:
+- Psychology
 title: '#376 Russell Warne: Standardized Tests, Critical Thinking and Creativity'
 youtubeid: c9owI60ucNg
 ---

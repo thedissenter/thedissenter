@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3434049/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-1%2F16275278-44100-2-31a6fd1148f5a.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Gustavo Carlo is Millsap Professor of Diversity in the Department of\
   \ Human Development and Family Science at the University of Missouri. His research\
@@ -14,6 +13,9 @@ excerpt: "Dr. Gustavo Carlo is Millsap Professor of Diversity in the Department 
 id: '188'
 image: https://i.ytimg.com/vi/oTi5XSdtx90/maxresdefault.jpg
 publishDate: 2019-07-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/188-Gustavo-Carlo-Prosocial-And-Moral-Development-In-Children-And-Adolescents-e47a41
+tags:
+- Psychology
 title: '#188 Gustavo Carlo: Prosocial And Moral Development In Children And Adolescents'
 youtubeid: oTi5XSdtx90
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379891-44100-2-26732b7fea782.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of
   Philosophy at the Center for Mind, Brain, and Culture, at Emory University. Dr.
@@ -14,6 +13,9 @@ excerpt: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor
 id: '154'
 image: https://i.ytimg.com/vi/MPkj12JxxcY/maxresdefault.jpg
 publishDate: 2019-03-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/154-Robert-McCauley-Cognitive-Science-of-Religion--Culture--Cognition--Evolution--and-Ritual-e39ocs
+tags:
+- Anthropology
 title: '#154 Robert McCauley: Cognitive Science of Religion, Culture, Cognition, Evolution,
   and Ritual'
 youtubeid: MPkj12JxxcY

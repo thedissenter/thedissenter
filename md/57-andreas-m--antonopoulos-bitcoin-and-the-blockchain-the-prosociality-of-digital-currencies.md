@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1997473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7650982-44100-2-d2fa1293e27a8.mp3
-category: Economics
 draft: false
 excerpt: "Andreas M. Antonopoulos is a critically-acclaimed best-selling author, speaker,\
   \ educator, and one of the world\u2019s foremost bitcoin and open blockchain experts.\
@@ -12,6 +11,9 @@ excerpt: "Andreas M. Antonopoulos is a critically-acclaimed best-selling author,
 id: '57'
 image: https://i.ytimg.com/vi/ZCOq4qp5Db0/maxresdefault.jpg
 publishDate: 2018-08-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/57-Andreas-M--Antonopoulos-Bitcoin-and-the-Blockchain-The-Prosociality-of-Digital-Currencies-e2rf71
+tags:
+- Economics
 title: '#57 Andreas M. Antonopoulos: Bitcoin and the Blockchain; The Prosociality
   of Digital Currencies'
 youtubeid: ZCOq4qp5Db0

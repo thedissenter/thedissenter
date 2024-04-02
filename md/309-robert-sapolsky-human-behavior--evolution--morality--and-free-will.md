@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/11062505/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-13%2F56370101-44100-2-67af26367f7a1.m4a
-category: Neuroscience
 draft: false
 excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology\
   \ and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky\
@@ -13,6 +12,11 @@ excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of B
 id: '309'
 image: https://i.ytimg.com/vi/S9pqdKP9tuk/maxresdefault.jpg
 publishDate: 2020-03-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/309-Robert-Sapolsky-Human-Behavior--Evolution--Morality--and-Free-Will-ebg3p9
+tags:
+- Biology
+- Neuroscience
+- Psychology
 title: '#309 Robert Sapolsky: Human Behavior, Evolution, Morality, and Free Will'
 youtubeid: S9pqdKP9tuk
 ---

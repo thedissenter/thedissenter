@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/68796441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-17%2F133413d7-bb34-2ddb-4f2f-ccc69d2c9031.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Geoffrey West is Shannan Distinguished Professor at the Santa Fe Institute.
   He is a theoretical physicist whose primary interests have been in fundamental questions
@@ -13,7 +12,11 @@ excerpt: 'Dr. Geoffrey West is Shannan Distinguished Professor at the Santa Fe I
   and Companies.'
 id: '819'
 image: https://i.ytimg.com/vi/lGmsV0teqD4/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/819-geoffrey-west-scale-laws-of-life-growth-and-death/id1451347236?i=1000624080057&uo=4
 publishDate: 2023-08-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/819-Geoffrey-West---Scale-Laws-of-Life--Growth--and-Death-in-Organisms--Cities--and-Companies-e22i0ip
+tags:
+- General Science
 title: '#819 Geoffrey West - Scale; Laws of Life, Growth, and Death in Organisms,
   Cities, and Companies'
 youtubeid: lGmsV0teqD4

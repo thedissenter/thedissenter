@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36962642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fa6b74948-fce1-5fd0-6b28-aa7840ac18c7.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas at\
   \ Austin. He\u2019s one of the founders of the field of evolutionary psychology.\
@@ -12,6 +11,9 @@ excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas
 id: '510'
 image: https://i.ytimg.com/vi/MoOYQ-T1i1o/maxresdefault.jpg
 publishDate: 2021-08-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/510-David-Buss---When-Men-Behave-Badly-Sexual-Deception--Harassment--and-Assault-Part-2-e146gsi
+tags:
+- Psychology
 title: '#510 David Buss - When Men Behave Badly; Sexual Deception, Harassment, and
   Assault (Part 2)'
 youtubeid: MoOYQ-T1i1o

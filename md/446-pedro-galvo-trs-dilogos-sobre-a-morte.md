@@ -1,11 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/24955734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F665c6173-131c-8026-3422-c5c3389bb92f.m4a
-category: "Entrevistas em Portugu\xEAs"
 draft: false
 excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
 id: '446'
 image: https://i.ytimg.com/vi/wojn8gFUiw4/maxresdefault.jpg
 publishDate: 2021-03-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/446-Pedro-Galvo-Trs-Dilogos-Sobre-a-Morte-eoo3cm
+tags:
+- "Entrevistas em Portugu\xEAs"
+- Philosophy
 title: "#446 Pedro Galv\xE3o: Tr\xEAs Di\xE1logos Sobre a Morte"
 youtubeid: wojn8gFUiw4
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/6098656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-11%2F27854509-44100-2-72571d483982.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Peter S. Ungar is Distinguished Professor of Anthropology and Director\
   \ of Environmental Dynamics at the University of Arkansas. His research focuses\
@@ -9,6 +8,9 @@ excerpt: "Dr. Peter S. Ungar is Distinguished Professor of Anthropology and Dire
 id: '272'
 image: https://i.ytimg.com/vi/Mg5Ff_7gTLw/maxresdefault.jpg
 publishDate: 2019-12-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/272-Peter-Ungar-The-Evolution-Of-Teeth--And-Our-Diet-e6ok90
+tags:
+- Anthropology
 title: '#272 Peter Ungar: The Evolution Of Teeth, And Our Diet'
 youtubeid: Mg5Ff_7gTLw
 ---

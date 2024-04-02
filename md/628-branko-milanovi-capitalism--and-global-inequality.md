@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47754299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F29e574c5-5bd9-6568-eb4e-9ca53bae33c9.m4a
-category: Economy, Progress
 draft: false
 excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Center\
   \ and a senior fellow at the Stone Center on Socio-Economic Inequality at The City\
@@ -14,6 +13,10 @@ excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Ce
 id: '628'
 image: https://i.ytimg.com/vi/engIPGdURnY/maxresdefault.jpg
 publishDate: 2022-05-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/628-Branko-Milanovi-Capitalism--and-Global-Inequality-e1efrjr
+tags:
+- Politics
+- Economy, Progress
 title: "#628 Branko Milanovi\u0107: Capitalism, and Global Inequality"
 youtubeid: engIPGdURnY
 ---

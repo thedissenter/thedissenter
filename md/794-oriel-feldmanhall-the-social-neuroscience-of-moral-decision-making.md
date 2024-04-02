@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/65477727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F45ed77ed-6876-fdf5-65ae-4069980acf36.m4a
-category: Economics
 draft: false
 excerpt: Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cognitive,
   Linguistic and Psychological Sciences at Brown University. She has been the recipient
@@ -12,7 +11,13 @@ excerpt: Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cogn
   choices that form the basis of human social behavior.
 id: '794'
 image: https://i.ytimg.com/vi/-QkULG7EEFw/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/794-oriel-feldmanhall-the-social-neuroscience-of/id1451347236?i=1000616702190&uo=4
 publishDate: 2023-06-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/794-Oriel-FeldmanHall-The-Social-Neuroscience-of-Moral-Decision-Making-e1vcnkv
+tags:
+- Neuroscience
+- Economics
+- Psychology
 title: '#794 Oriel FeldmanHall: The Social Neuroscience of Moral Decision-Making'
 youtubeid: -QkULG7EEFw
 ---

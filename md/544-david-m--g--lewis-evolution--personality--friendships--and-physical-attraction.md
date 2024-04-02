@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/38276545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-4%2F21fc3d1b-c05a-f5d3-5739-1db798fb9faf.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. David Lewis is Senior Lecturer in Social Psychology at Murdoch University. '
 id: '544'
 image: https://i.ytimg.com/vi/8hBhrtObCok/maxresdefault.jpg
 publishDate: 2021-11-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/544-David-M--G--Lewis-Evolution--Personality--Friendships--and-Physical-Attraction-e15ek01
+tags:
+- Psychology
 title: '#544 David M. G. Lewis: Evolution, Personality, Friendships, and Physical
   Attraction'
 youtubeid: 8hBhrtObCok

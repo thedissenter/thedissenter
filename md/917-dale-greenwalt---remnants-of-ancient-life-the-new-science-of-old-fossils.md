@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78078456/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-2%2F43f4b6f4-ca1a-ae98-e862-e6342e7d7db7.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Dale Greenwalt is Research Associate in the laboratory of Dr. Conrad\
   \ Labandeira, curator of fossil arthropods, in the Paleobiology Department at the\
@@ -13,7 +12,11 @@ excerpt: "Dr. Dale Greenwalt is Research Associate in the laboratory of Dr. Conr
   \ Fossils."
 id: '917'
 image: https://i.ytimg.com/vi/a9FbgYKAKqo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/917-dale-greenwalt-remnants-of-ancient-life-the/id1451347236?i=1000650038463&uo=4
 publishDate: 2024-03-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/917-Dale-Greenwalt---Remnants-of-Ancient-Life-The-New-Science-of-Old-Fossils-e2bd91o
+tags:
+- Biology
 title: '#917 Dale Greenwalt - Remnants of Ancient Life: The New Science of Old Fossils'
 youtubeid: a9FbgYKAKqo
 ---

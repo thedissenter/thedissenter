@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7610207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30947938-44100-2-a56275d8e4d6.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Daniel Lieberman is Edwin M. Lerner II Professor of Biological Sciences,\
   \ Professor of Human Evolutionary Biology at Harvard University. He studies and\
@@ -14,6 +13,9 @@ excerpt: "Dr. Daniel Lieberman is Edwin M. Lerner II Professor of Biological Sci
 id: '279'
 image: https://i.ytimg.com/vi/jXoQr7JVaXo/maxresdefault.jpg
 publishDate: 2020-01-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/279-Daniel-Lieberman-The-Evolution-of-Bipedalism--and-Modern-Evolutionary-Mismatch-e86ocv
+tags:
+- Anthropology
 title: '#279 Daniel Lieberman: The Evolution of Bipedalism, and Modern Evolutionary
   Mismatch'
 youtubeid: jXoQr7JVaXo

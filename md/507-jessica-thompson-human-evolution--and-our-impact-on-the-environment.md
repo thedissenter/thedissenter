@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/31132072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2Fd90416c5-a474-0e6c-02d8-7716ccd29f1b.m4a
-category: Biology
 draft: false
 excerpt: Dr. Jessica Thompson is Assistant Professor of Anthropology at Yale University.
   Dr. Thompson specializes in human evolution, and especially those aspects that can
@@ -16,6 +15,10 @@ excerpt: Dr. Jessica Thompson is Assistant Professor of Anthropology at Yale Uni
 id: '507'
 image: https://i.ytimg.com/vi/DHPxFfhFN0U/maxresdefault.jpg
 publishDate: 2021-08-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/507-Jessica-Thompson-Human-Evolution--and-Our-Impact-on-the-Environment-eukiv8
+tags:
+- Biology
+- Anthropology
 title: '#507 Jessica Thompson: Human Evolution, and Our Impact on the Environment'
 youtubeid: DHPxFfhFN0U
 ---

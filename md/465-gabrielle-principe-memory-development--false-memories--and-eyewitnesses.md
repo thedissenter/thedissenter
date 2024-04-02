@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/26619302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F4f3a1d89-bc88-b3f2-f84b-a870b67cd565.m4a
-category: Cognitive Science
 draft: false
 excerpt: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology
   at the College of Charleston. Her research has been federally funded by the National
@@ -15,6 +14,10 @@ excerpt: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psy
 id: '465'
 image: https://i.ytimg.com/vi/1jDvF7AC42I/maxresdefault.jpg
 publishDate: 2021-05-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/465-Gabrielle-Principe-Memory-Development--False-Memories--and-Eyewitnesses-eqarv6
+tags:
+- Cognitive Science
+- Psychology
 title: '#465 Gabrielle Principe: Memory Development, False Memories, and Eyewitnesses'
 youtubeid: 1jDvF7AC42I
 ---

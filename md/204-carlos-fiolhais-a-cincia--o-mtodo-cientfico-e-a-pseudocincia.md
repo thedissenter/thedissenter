@@ -14,6 +14,7 @@ excerpt: "O Dr. Carlos Fiolhais \xE9 Professor Catedr\xE1tico de F\xEDsica na Un
 id: '204'
 image: https://i.ytimg.com/vi/xsMHIPo5I_I/maxresdefault.jpg
 publishDate: 2019-07-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/204-Carlos-Fiolhais-A-Cincia--o-Mtodo-Cientfico-e-a-Pseudocincia-e44sp7
 title: "#204 Carlos Fiolhais: A Ci\xEAncia, o M\xE9todo Cient\xEDfico e a Pseudoci\xEA\
   ncia"
 youtubeid: xsMHIPo5I_I

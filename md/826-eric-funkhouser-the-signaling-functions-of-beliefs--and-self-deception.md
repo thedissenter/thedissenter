@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/69214734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F7897dff2-86d8-a0e6-0ea6-ed45b107879b.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy at\
   \ the University of Arkansas. His main areas of research are in the philosophy of\
@@ -12,7 +11,11 @@ excerpt: "Dr. Eric Funkhouser is Professor and Departmental Chair of Philosophy 
   \ irrational and dangerous beliefs, cognitive biases, as well as pro-social beliefs."
 id: '826'
 image: https://i.ytimg.com/vi/vvWvyRASv-s/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/826-eric-funkhouser-the-signaling-functions-of/id1451347236?i=1000625700109&uo=4
 publishDate: 2023-08-25
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/826-Eric-Funkhouser-The-Signaling-Functions-of-Beliefs--and-Self-Deception-e22up2e
+tags:
+- Philosophy
 title: '#826 Eric Funkhouser: The Signaling Functions of Beliefs, and Self-Deception'
 youtubeid: vvWvyRASv-s
 ---

@@ -1,5 +1,5 @@
 ---
-category: Philosophy
+audiourl: https://anchor.fm/s/822ba20/podcast/play/78339707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-8%2F91e18a42-4880-6d1a-9775-784f3addf155.m4a
 draft: false
 excerpt: "Dr. Jean-Manuel Roubineau is a Professor of Ancient History at Universit\xE9\
   \ Rennes 2. He is a classics scholar who specializes in Greek antiquity, the historical\
@@ -7,7 +7,11 @@ excerpt: "Dr. Jean-Manuel Roubineau is a Professor of Ancient History at Univers
   \ of The Dangerous Life and Ideas of Diogenes the Cynic."
 id: '920'
 image: https://i.ytimg.com/vi/R_M56HMez1s/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/920-jean-manuel-roubineau-the-dangerous-life-and/id1451347236?i=1000650766614&uo=4
 publishDate: 2024-03-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/920-Jean-Manuel-Roubineau-The-Dangerous-Life-and-Ideas-of-Diogenes-the-Cynic-e2bl85r
+tags:
+- Philosophy
 title: '#920 Jean-Manuel Roubineau: The Dangerous Life and Ideas of Diogenes the Cynic'
 youtubeid: R_M56HMez1s
 ---

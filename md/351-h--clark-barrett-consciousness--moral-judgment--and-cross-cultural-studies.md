@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/15367786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83331946-44100-2-fe042138537d6.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, and\
   \ the Director of the Center for Behavior, Evolution and Culture at UCLA. He is\
@@ -19,6 +18,11 @@ excerpt: "Dr. H. Clark Barrett is Professor in the Department of Anthropology, a
 id: '351'
 image: https://i.ytimg.com/vi/YslK796ZsOk/maxresdefault.jpg
 publishDate: 2020-08-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/351-H--Clark-Barrett-Consciousness--Moral-Judgment--and-Cross-cultural-Studies-efjg5a
+tags:
+- Cognitive Science
+- Anthropology
+- Psychology
 title: '#351 H. Clark Barrett: Consciousness, Moral Judgment, and Cross-cultural Studies'
 youtubeid: YslK796ZsOk
 ---

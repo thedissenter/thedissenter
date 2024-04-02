@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379951-44100-2-04ddde7be99fc.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Gerard Saucier is a Professor of Psychology at the University of Oregon.\
   \ He won the 1999 Cattell Early Career Research Award from the Society of Multivariate\
@@ -13,6 +12,9 @@ excerpt: "Dr. Gerard Saucier is a Professor of Psychology at the University of O
 id: '157'
 image: https://i.ytimg.com/vi/2056IkaUTJ0/maxresdefault.jpg
 publishDate: 2019-03-29
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/157-Gerard-Saucier-Personality--The-Big-Five--The-Big-Six--and-The-Big-Two-e39odb
+tags:
+- Psychology
 title: '#157 Gerard Saucier: Personality, The Big Five, The Big Six, and The Big Two'
 youtubeid: 2056IkaUTJ0
 ---

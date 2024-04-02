@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73939400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-27%2F2c9c28b3-749f-9ab8-fd53-2bdf821311eb.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how\
   \ nature and nurture combined create human behavior. She has a popular science blog\
@@ -11,7 +10,11 @@ excerpt: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in ho
   \ sex and age differences in anti-social and criminal behavior. "
 id: '866'
 image: https://i.ytimg.com/vi/OvZ0vp0QqQI/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/866-vibeke-ottesen-the-evolution-of-human/id1451347236?i=1000636693613&uo=4
 publishDate: 2023-11-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/866-Vibeke-Ottesen-The-Evolution-of-Human-Violence--Juvenile-Crime--and-Abortion-e27ev08
+tags:
+- Psychology
 title: '#866 Vibeke Ottesen: The Evolution of Human Violence, Juvenile Crime, and
   Abortion'
 youtubeid: OvZ0vp0QqQI

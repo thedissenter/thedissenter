@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10095225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46156243-44100-2-d9b05491824bf.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University
   of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent
@@ -11,6 +10,9 @@ excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the Univ
 id: '296'
 image: https://i.ytimg.com/vi/keIP7rSMUSA/maxresdefault.jpg
 publishDate: 2020-02-17
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/296-Laith-Al-Shawaf-The-Theoretical-Bases-Of-Evolutionary-Psychology--And-Common-Misconceptions-eaij5p
+tags:
+- Psychology
 title: '#296 Laith Al-Shawaf: The Theoretical Bases Of Evolutionary Psychology, And
   Common Misconceptions'
 youtubeid: keIP7rSMUSA

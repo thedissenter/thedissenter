@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/77428044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-19%2Fe784a8b1-393e-0821-91f0-b4e78a77f9d2.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Katarina Kova\u010Devi\u0107 is a PhD candidate in the Department of Cognitive\
   \ Science at Central European University. Her main research interest is responsibility.\
@@ -9,7 +8,12 @@ excerpt: "Katarina Kova\u010Devi\u0107 is a PhD candidate in the Department of C
   \ and strategic ignorance."
 id: '907'
 image: https://i.ytimg.com/vi/4ysh3xTbCcM/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/907-katarina-kova%C4%8Devi%C4%87-epistemic-responsibility-and/id1451347236?i=1000647707220&uo=4
 publishDate: 2024-03-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/907-Katarina-Kovaevi-Epistemic-Responsibility-and-Strategic-Ignorance-e2apdsc
+tags:
+- Cognitive Science
+- Psychology
 title: "#907 Katarina Kova\u010Devi\u0107: Epistemic Responsibility and Strategic\
   \ Ignorance"
 youtubeid: 4ysh3xTbCcM

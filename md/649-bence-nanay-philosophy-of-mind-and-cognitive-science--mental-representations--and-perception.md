@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51114128/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-26%2F7fdd851b-c524-388f-6f13-107dd252dddb.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Bence Nanay is Professor of Philosophy and BOF Research Professor at
   the University of Antwerp and has worked as a film critic. He is co-director of
@@ -10,6 +9,10 @@ excerpt: Dr. Bence Nanay is Professor of Philosophy and BOF Research Professor a
 id: '649'
 image: https://i.ytimg.com/vi/MjD1U8AsTDY/maxresdefault.jpg
 publishDate: 2022-07-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/649-Bence-Nanay-Philosophy-of-Mind-and-Cognitive-Science--Mental-Representations--and-Perception-e1hmcmg
+tags:
+- Cognitive Science
+- Philosophy
 title: '#649 Bence Nanay: Philosophy of Mind and Cognitive Science, Mental Representations,
   and Perception'
 youtubeid: MjD1U8AsTDY

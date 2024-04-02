@@ -1,11 +1,13 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/1991604/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601104-44100-2-531e38d95bf2d.mp3
-category: Psychology
 draft: false
 excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '33'
 image: https://i.ytimg.com/vi/h2E1wIuaBxc/maxresdefault.jpg
 publishDate: 2018-06-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/33-Richard-Lippa-Sex-Differences-in-Cognition-and-Interests-e2r9fk
+tags:
+- Psychology
 title: '#33 Richard Lippa: Sex Differences in Cognition and Interests'
 youtubeid: h2E1wIuaBxc
 ---

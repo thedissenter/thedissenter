@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379765-44100-2-9c5ee0faa4116.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Martin Daly is Professor Emeritus in the Department of Psychology, Neuroscience\
   \ & Behaviour at McMaster University, Canada. His areas of interest are human violence\
@@ -15,6 +14,9 @@ excerpt: "Dr. Martin Daly is Professor Emeritus in the Department of Psychology,
 id: '149'
 image: https://i.ytimg.com/vi/lGq7wB46X78/maxresdefault.jpg
 publishDate: 2019-03-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/149-Martin-Daly-Evolution--Inequality--Violence-And-Homicide-e39obq
+tags:
+- Psychology
 title: '#149 Martin Daly: Evolution, Inequality, Violence, And Homicide'
 youtubeid: lGq7wB46X78
 ---

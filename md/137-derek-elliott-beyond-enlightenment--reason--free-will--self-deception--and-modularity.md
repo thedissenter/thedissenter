@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2241593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121534-44100-2-b7df3dc0673aa.m4a
-category: Philosophy
 draft: false
 excerpt: Dr. Derek Elliott is a newly minted doctor of philosophy from Duquesne University.
   He specializes in philosophy of psychology as well as action theory with a special
@@ -8,6 +7,9 @@ excerpt: Dr. Derek Elliott is a newly minted doctor of philosophy from Duquesne 
 id: '137'
 image: https://i.ytimg.com/vi/Vj7KY1IJZHk/maxresdefault.jpg
 publishDate: 2019-02-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/137-Derek-Elliott-Beyond-Enlightenment--Reason--Free-Will--Self-deception--and-Modularity-e32tjp
+tags:
+- Philosophy
 title: '#137 Derek Elliott: Beyond Enlightenment, Reason, Free Will, Self-deception,
   and Modularity'
 youtubeid: Vj7KY1IJZHk

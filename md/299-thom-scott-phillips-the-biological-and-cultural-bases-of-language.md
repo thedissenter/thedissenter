@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/8984628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38453697-44100-2-406a801b5c62e.m4a
-category: Linguistics
 draft: false
 excerpt: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind\
   \ Center and the Department of Cognitive Science, at Central European University,\
@@ -15,6 +14,12 @@ excerpt: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social
 id: '299'
 image: https://i.ytimg.com/vi/hBkdOrXR9nY/maxresdefault.jpg
 publishDate: 2020-02-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/299-Thom-Scott-Phillips-The-Biological-And-Cultural-Bases-Of-Language-e9gmjk
+tags:
+- Linguistics
+- Biology
+- Anthropology
+- Psychology
 title: '#299 Thom Scott-Phillips: The Biological And Cultural Bases Of Language'
 youtubeid: hBkdOrXR9nY
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/55086110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-20%2Fb9912829-3da6-f47e-6b84-79ab0e6ab718.m4a
-category: General Science
 draft: false
 excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who specializes
   in belief in superstitions and critical thinking. He is a contributing editor for
@@ -12,6 +11,11 @@ excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who sp
 id: '693'
 image: https://i.ytimg.com/vi/c2T5hIn3w08/maxresdefault.jpg
 publishDate: 2022-10-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/693-Stuart-Vyse---The-Uses-of-Delusion-Why-Its-Not-Always-Rational-to-Be-Rational-e1lfjiu
+tags:
+- General Science
+- Philosophy
+- Psychology
 title: '#693 Stuart Vyse - The Uses of Delusion: Why It''s Not Always Rational to
   Be Rational'
 youtubeid: c2T5hIn3w08

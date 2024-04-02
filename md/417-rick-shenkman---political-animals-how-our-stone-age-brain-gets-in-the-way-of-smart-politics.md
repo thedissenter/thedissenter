@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/22531567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F42c2e2d3-ed07-87cf-7b14-cb9a1986eb0c.m4a
-category: Politics
 draft: false
 excerpt: 'Rick Shenkman is the founder of George Washington University''s History
   News Network, the website that features leading historians'' perspectives on current
@@ -15,6 +14,10 @@ excerpt: 'Rick Shenkman is the founder of George Washington University''s Histor
 id: '417'
 image: https://i.ytimg.com/vi/g0urXgQq3Lc/maxresdefault.jpg
 publishDate: 2021-01-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/417-Rick-Shenkman---Political-Animals-How-Our-Stone-Age-Brain-Gets-in-the-Way-of-Smart-Politics-eme41f
+tags:
+- Politics
+- Psychology
 title: '#417 Rick Shenkman - Political Animals: How Our Stone-Age Brain Gets in the
   Way of Smart Politics'
 youtubeid: g0urXgQq3Lc

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59858432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-31%2F73ae5e95-bb0f-6121-df27-6dff8a6079c2.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Daniel Blumstein is a Professor in the Department of Ecology and Evolutionary\
   \ Biology at the University of California, Los Angeles, and a Professor at UCLA\u2019\
@@ -15,7 +14,11 @@ excerpt: "Dr. Daniel Blumstein is a Professor in the Department of Ecology and E
   \ The Nature of Fear: Survival Lessons from the Wild."
 id: '735'
 image: https://i.ytimg.com/vi/lMWSrLH9hsI/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/735-daniel-blumstein-predator-prey-research-antipredator/id1451347236?i=1000596802146&uo=4
 publishDate: 2023-01-26
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/735-Daniel-Blumstein-Predator-Prey-Research--Antipredator-Behavior--and-Conservationism-e1q1820
+tags:
+- Biology
 title: '#735 Daniel Blumstein: Predator-Prey Research, Antipredator Behavior, and
   Conservationism'
 youtubeid: lMWSrLH9hsI

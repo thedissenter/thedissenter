@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51068563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-25%2F34593d1c-8fc3-ec85-3899-872f5199df2e.m4a
-category: Philosophy
 draft: false
 excerpt: 'Jack Symes is the producer of The Panpsycast Philosophy Podcast and editor
   of the Bloomsbury series, Talking about Philosophy. He is currently Teacher and
@@ -9,6 +8,9 @@ excerpt: 'Jack Symes is the producer of The Panpsycast Philosophy Podcast and ed
 id: '621'
 image: https://i.ytimg.com/vi/qgDbKdLKZ-U/maxresdefault.jpg
 publishDate: 2022-05-05
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/621-Jack-Symes---The-Panpsycast-Philosophy-Podcast-Philosophers-on-Consciousness-e1hl06j
+tags:
+- Philosophy
 title: '#621 Jack Symes - The Panpsycast Philosophy Podcast; Philosophers on Consciousness'
 youtubeid: qgDbKdLKZ-U
 ---

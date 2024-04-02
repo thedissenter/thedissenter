@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778413-44100-2-4691e4ec14d9e.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London and\
   \ at the City University of New York Graduate Center, having previously taught for\
@@ -12,6 +11,9 @@ excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London
 id: '132'
 image: https://i.ytimg.com/vi/AMtjWKE__YY/maxresdefault.jpg
 publishDate: 2019-01-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/132-David-Papineau-Naturalism--Mind-Brain-Dualism--and-Consciousness-e2s24b
+tags:
+- Philosophy
 title: '#132 David Papineau: Naturalism, Mind-Brain Dualism, and Consciousness'
 youtubeid: AMtjWKE__YY
 ---

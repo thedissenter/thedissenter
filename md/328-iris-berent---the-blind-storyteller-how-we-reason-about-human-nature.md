@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12067663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62149378-44100-2-9028e79e266fe.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Iris Berent is Professor of Psychology at Northeastern University, US.\
   \ Her research examines the nature of linguistic competence, its origins, and its\
@@ -10,6 +9,10 @@ excerpt: "Dr. Iris Berent is Professor of Psychology at Northeastern University,
 id: '328'
 image: https://i.ytimg.com/vi/N-E6ifTX3YA/maxresdefault.jpg
 publishDate: 2020-05-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/328-Iris-Berent---The-Blind-Storyteller-How-We-Reason-About-Human-Nature-ecepcf
+tags:
+- Cognitive Science
+- Psychology
 title: '#328 Iris Berent - The Blind Storyteller: How We Reason About Human Nature'
 youtubeid: N-E6ifTX3YA
 ---

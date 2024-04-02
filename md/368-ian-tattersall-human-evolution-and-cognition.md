@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/16784036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2F29607868-a4fb-d12b-9416-0bc82e8ed72b.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Ian Tattersall is currently curator emeritus in the Division of Anthropology
   of the American Museum of Natural History in New York City. He has carried out both
@@ -17,6 +16,9 @@ excerpt: 'Dr. Ian Tattersall is currently curator emeritus in the Division of An
 id: '368'
 image: https://i.ytimg.com/vi/Hmxol5o_mkE/maxresdefault.jpg
 publishDate: 2020-09-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/368-Ian-Tattersall-Human-Evolution-and-Cognition-egun74
+tags:
+- Anthropology
 title: '#368 Ian Tattersall: Human Evolution and Cognition'
 youtubeid: Hmxol5o_mkE
 ---

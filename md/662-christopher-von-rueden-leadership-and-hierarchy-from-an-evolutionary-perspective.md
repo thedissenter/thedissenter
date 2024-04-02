@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/51942506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2Fab3859ce-3b5c-1272-4bbd-75e886f3e8f3.m4a
-category: Anthropology
 draft: false
 excerpt: Dr. Christopher von Rueden is Associate Professor of Leadership Studies at
   the University of Richmond. An anthropologist with expertise in traditional human
@@ -13,6 +12,9 @@ excerpt: Dr. Christopher von Rueden is Associate Professor of Leadership Studies
 id: '662'
 image: https://i.ytimg.com/vi/G9PyMEZoPzw/maxresdefault.jpg
 publishDate: 2022-08-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/662-Christopher-von-Rueden-Leadership-and-Hierarchy-from-an-Evolutionary-Perspective-e1iflla
+tags:
+- Anthropology
 title: '#662 Christopher von Rueden: Leadership and Hierarchy from an Evolutionary
   Perspective'
 youtubeid: G9PyMEZoPzw

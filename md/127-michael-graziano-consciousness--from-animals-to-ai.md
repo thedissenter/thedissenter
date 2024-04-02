@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778197-44100-2-aeb0905f3ddcb.m4a
-category: Neuroscience
 draft: false
 excerpt: 'Dr. Michael Graziano is a Professor of Psychology and Neuroscience at Princeton
   University. His scientific research focuses on the brain basis of awareness. He
@@ -15,6 +14,9 @@ excerpt: 'Dr. Michael Graziano is a Professor of Psychology and Neuroscience at 
 id: '127'
 image: https://i.ytimg.com/vi/w7xR0Rpg4-s/maxresdefault.jpg
 publishDate: 2019-01-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/127-Michael-Graziano-Consciousness--From-Animals-To-AI-e2s22c
+tags:
+- Neuroscience
 title: '#127 Michael Graziano: Consciousness, From Animals To AI'
 youtubeid: w7xR0Rpg4-s
 ---

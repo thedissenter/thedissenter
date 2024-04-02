@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7609667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945579-44100-2-bae5fc8123fbd.m4a
-category: Philosophy
 draft: false
 excerpt: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy
   department and the Rutgers Honors College. He specializes in ethics, metaethics,
@@ -11,6 +10,9 @@ excerpt: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosop
 id: '277'
 image: https://i.ytimg.com/vi/SQ2KqzEA93Y/maxresdefault.jpg
 publishDate: 2020-01-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/277-Aaron-Rabinowitz-Moral-Realism--and-Objective-Morality-e86ns3
+tags:
+- Philosophy
 title: '#277 Aaron Rabinowitz: Moral Realism, and Objective Morality'
 youtubeid: SQ2KqzEA93Y
 ---

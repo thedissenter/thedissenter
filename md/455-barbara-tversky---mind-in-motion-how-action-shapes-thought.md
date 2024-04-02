@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/25921392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2F160c2de6-5736-dec3-d3c0-59f32ce7cf75.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford University\
   \ and a Professor of Psychology and Education at Teachers College, Columbia University.\
@@ -12,6 +11,10 @@ excerpt: "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford U
 id: '455'
 image: https://i.ytimg.com/vi/3tKcLo6zU2s/maxresdefault.jpg
 publishDate: 2021-04-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/455-Barbara-Tversky---Mind-in-Motion-How-Action-Shapes-Thought-eplidg
+tags:
+- Cognitive Science
+- Psychology
 title: '#455 Barbara Tversky - Mind in Motion: How Action Shapes Thought'
 youtubeid: 3tKcLo6zU2s
 ---

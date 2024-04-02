@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/21538859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2Fd05960a2-1086-d332-7285-30e85f8ddbda.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
   \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
@@ -11,6 +10,9 @@ excerpt: "Dr. Agner Fog is associate professor of computer science at Technical 
 id: '412'
 image: https://i.ytimg.com/vi/AiHTfqAAHUI/maxresdefault.jpg
 publishDate: 2021-01-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/412-Agner-Fog-Cultural-Evolution--Memetics--Politics-and-the-Media-elfqjb
+tags:
+- Anthropology
 title: '#412 Agner Fog: Cultural Evolution, Memetics, Politics and the Media'
 youtubeid: AiHTfqAAHUI
 ---

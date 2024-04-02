@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43606858/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2Fddc08f47-0810-8bb6-82f8-6d30381bc5c7.m4a
-category: Art
 draft: false
 excerpt: 'Dr. Brian Boyd is a University Distinguished Professor in the Department
   of English at the University of Auckland, New Zealand. He is known primarily as
@@ -10,6 +9,10 @@ excerpt: 'Dr. Brian Boyd is a University Distinguished Professor in the Departme
 id: '593'
 image: https://i.ytimg.com/vi/mCKCzrPG9jU/maxresdefault.jpg
 publishDate: 2022-02-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/593-Brian-Boyd---On-the-Origin-of-Stories-Evolution--Cognition--and-Fiction-e1ah9ca
+tags:
+- Art
+- Psychology
 title: '#593 Brian Boyd - On the Origin of Stories: Evolution, Cognition, and Fiction'
 youtubeid: mCKCzrPG9jU
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/57332713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-9%2Fa07b146a-acac-50b7-4619-861b32bff486.m4a
-category: Game Theory
 draft: false
 excerpt: 'Dr. Moshe Hoffman is a Research Scientist at the Max Planck Institute for
   Evolutionary Biology and Lecturer at Harvard''s Department of Economics. He applies
@@ -10,6 +9,10 @@ excerpt: 'Dr. Moshe Hoffman is a Research Scientist at the Max Planck Institute 
 id: '718'
 image: https://i.ytimg.com/vi/HOEY8CDVPlI/maxresdefault.jpg
 publishDate: 2022-12-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/718-Moshe-Hoffman--Erez-Yoeli---Hidden-Games-Game-Theory-and-Irrational-Human-Behavior-Pt--2-e1nk5h9
+tags:
+- Game Theory
+- Cognitive Science
 title: '#718 Moshe Hoffman & Erez Yoeli - Hidden Games; Game Theory and Irrational
   Human Behavior (Pt. 2)'
 youtubeid: HOEY8CDVPlI

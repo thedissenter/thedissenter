@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2016079/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774865-44100-2-ddcf92edbc123.m4a
-category: Economics
 draft: false
 excerpt: "Dr. Mark Blyth is William R. Roads Professor of International Economics\
   \ at Brown University. His research interests lie in the field of international\
@@ -14,6 +13,9 @@ excerpt: "Dr. Mark Blyth is William R. Roads Professor of International Economic
 id: '122'
 image: https://i.ytimg.com/vi/kTYTcyODujY/maxresdefault.jpg
 publishDate: 2019-01-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/122-Mark-Blyth-Austerity--The-European-Union--Inequality--and-Global-Trumpism-e2s1cf
+tags:
+- Economics
 title: '#122 Mark Blyth: Austerity, The European Union, Inequality, and Global Trumpism'
 youtubeid: kTYTcyODujY
 ---

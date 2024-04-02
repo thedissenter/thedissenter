@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2665931/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456164-44100-2-78bbaccb99cb8.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Joseph Carroll is a scholar in the field of literature and evolution.\
   \ He is currently Curators\u2019 Professor at the University of Missouri\u2013St.\
@@ -17,6 +16,9 @@ excerpt: "Dr. Joseph Carroll is a scholar in the field of literature and evoluti
 id: '172'
 image: https://i.ytimg.com/vi/8XNVMVoVGdw/maxresdefault.jpg
 publishDate: 2019-05-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/172-Joseph-Carroll-Literary-Darwinism--Postmodernism--And-The-Humanities-e3fs0b
+tags:
+- Anthropology
 title: '#172 Joseph Carroll: Literary Darwinism, Postmodernism, and The Humanities'
 youtubeid: 8XNVMVoVGdw
 ---

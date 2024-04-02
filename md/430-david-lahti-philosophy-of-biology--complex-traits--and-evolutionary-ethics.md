@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/23545684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F39e09831-cdd1-95e6-4a3e-0bea3ab889ab.m4a
-category: Biology
 draft: false
 excerpt: Dr. David C. Lahti is an Associate Professor of Biology at Queens College,
   City University of New York, where he runs a Behavior & Evolution laboratory. His
@@ -9,6 +8,10 @@ excerpt: Dr. David C. Lahti is an Associate Professor of Biology at Queens Colle
 id: '430'
 image: https://i.ytimg.com/vi/A169YpFWj6o/maxresdefault.jpg
 publishDate: 2021-02-12
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/430-David-Lahti-Philosophy-of-Biology--Complex-Traits--and-Evolutionary-Ethics-end2ck
+tags:
+- Biology
+- Philosophy
 title: '#430 David Lahti: Philosophy of Biology, Complex Traits, and Evolutionary
   Ethics'
 youtubeid: A169YpFWj6o

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/59673652/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-27%2Fcf403560-c7f9-1c19-a31e-ab5121cfd3f5.m4a
-category: Cognitive Science
 draft: false
 excerpt: "Dr. Helena Miton is Complexity Postdoctoral Fellow at the Santa Fe Institute.\
   \ Dr. Miton\u2019s research agenda approaches culture as an emergent effect of human\
@@ -13,7 +12,12 @@ excerpt: "Dr. Helena Miton is Complexity Postdoctoral Fellow at the Santa Fe Ins
   \ of both technical knowledge and economic practices."
 id: '734'
 image: https://i.ytimg.com/vi/l9uE63jYVZE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/734-helena-miton-cognitive-science-cultural-transmission/id1451347236?i=1000596153481&uo=4
 publishDate: 2023-01-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/734-Helena-Miton-Cognitive-Science--Cultural-Transmission--and-Tacit-Knowledge-e1prjjk
+tags:
+- Cognitive Science
+- Anthropology
 title: '#734 Helena Miton: Cognitive Science, Cultural Transmission, and Tacit Knowledge'
 youtubeid: l9uE63jYVZE
 ---

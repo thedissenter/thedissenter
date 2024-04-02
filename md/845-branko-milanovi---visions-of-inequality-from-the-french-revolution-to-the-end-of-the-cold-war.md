@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/75947911/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-15%2F39e096e6-f5b1-8056-b58b-d7d1cc94cafd.m4a
-category: Economics
 draft: false
 excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Center\
   \ and a senior fellow at the Stone Center on Socio-Economic Inequality at The City\
@@ -11,7 +10,11 @@ excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Ce
   \ From the French Revolution to the End of the Cold War."
 id: '845'
 image: https://i.ytimg.com/vi/PSk1BFNWbWo/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/845-branko-milanovi%C4%87-visions-of-inequality-from/id1451347236?i=1000630731039&uo=4
 publishDate: 2023-10-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/845-Branko-Milanovi---Visions-of-Inequality-From-the-French-Revolution-to-the-End-of-the-Cold-War-e29c8e7
+tags:
+- Economics
 title: "#845 Branko Milanovi\u0107 - Visions of Inequality: From the French Revolution\
   \ to the End of the Cold War"
 youtubeid: PSk1BFNWbWo

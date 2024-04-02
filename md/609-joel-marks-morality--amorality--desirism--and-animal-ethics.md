@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/45835124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-7%2Fea0e91c5-fbbf-9f63-6ffe-322951777260.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Joel Marks is professor emeritus of philosophy at the University of
   New Haven and a Bioethics Center Scholar at Yale University. His main areas of scholarly
@@ -13,6 +12,9 @@ excerpt: 'Dr. Joel Marks is professor emeritus of philosophy at the University o
 id: '609'
 image: https://i.ytimg.com/vi/xFWNCk9W59Q/maxresdefault.jpg
 publishDate: 2022-04-07
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/609-Joel-Marks-Morality--Amorality--Desirism--and-Animal-Ethics-e1cl9dk
+tags:
+- Philosophy
 title: '#609 Joel Marks: Morality, Amorality, Desirism, and Animal Ethics'
 youtubeid: xFWNCk9W59Q
 ---

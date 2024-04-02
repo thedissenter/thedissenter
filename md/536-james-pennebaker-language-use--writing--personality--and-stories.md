@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/36962822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fab6652b4-fed9-8870-d410-bc5b1b21fe0c.m4a
-category: Psychology
 draft: false
 excerpt: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts
   and Professor of Psychology at the University of Texas at Austin. He and his students
@@ -14,6 +13,9 @@ excerpt: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Art
 id: '536'
 image: https://i.ytimg.com/vi/BK3wNfCW1vI/maxresdefault.jpg
 publishDate: 2021-10-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/536-James-Pennebaker-Language-Use--Writing--Personality--and-Stories-e146h26
+tags:
+- Psychology
 title: '#536 James Pennebaker: Language Use, Writing, Personality, and Stories'
 youtubeid: BK3wNfCW1vI
 ---

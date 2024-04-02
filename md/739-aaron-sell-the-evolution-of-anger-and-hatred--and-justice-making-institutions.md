@@ -1,13 +1,16 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/60743399/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-16%2F827c4394-f8f4-4748-e0d2-3ca78158c7ae.m4a
-category: Psychology
 draft: false
 excerpt: Dr. Aaron Sell is Assistant Professor of Psychology and Criminology at Heidelberg
   University. He is an evolutionary psychologist interested in anger and aggression,
   hatred, and formidability estimation.
 id: '739'
 image: https://i.ytimg.com/vi/jcGJoV-4F8c/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/739-aaron-sell-the-evolution-of-anger-and/id1451347236?i=1000597928502&uo=4
 publishDate: 2023-02-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/739-Aaron-Sell-The-Evolution-of-Anger-and-Hatred--and-Justice-Making-Institutions-e1qs897
+tags:
+- Psychology
 title: '#739 Aaron Sell: The Evolution of Anger and Hatred, and Justice-Making Institutions'
 youtubeid: jcGJoV-4F8c
 ---

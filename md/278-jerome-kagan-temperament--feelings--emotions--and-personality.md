@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/7609723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30946153-44100-2-9b167b642e144.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard University.\
   \ Professor Kagan's research, on the cognitive and emotional development of a child\
@@ -16,6 +15,9 @@ excerpt: "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard Univer
 id: '278'
 image: https://i.ytimg.com/vi/wtZF_hpZCPg/maxresdefault.jpg
 publishDate: 2020-01-06
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/278-Jerome-Kagan-Temperament--Feelings--Emotions--and-Personality-e86ntr
+tags:
+- Psychology
 title: '#278 Jerome Kagan: Temperament, Feelings, Emotions, and Personality'
 youtubeid: wtZF_hpZCPg
 ---

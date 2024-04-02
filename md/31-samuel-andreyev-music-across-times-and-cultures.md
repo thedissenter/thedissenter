@@ -5,6 +5,7 @@ excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
 id: '31'
 image: https://i.ytimg.com/vi/9UENs9ia6Zo/maxresdefault.jpg
 publishDate: 2018-05-31
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/31-Samuel-Andreyev-Music-Across-Times-and-Cultures-e2r9ao
 title: '#31 Samuel Andreyev: Music Across Times and Cultures'
 youtubeid: 9UENs9ia6Zo
 ---

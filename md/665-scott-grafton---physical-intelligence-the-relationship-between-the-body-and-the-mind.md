@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52431179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-23%2Fd3765625-4129-66d6-5974-61a66ef0d555.m4a
-category: Artificial Intelligence
 draft: false
 excerpt: 'Dr. Scott Grafton is Distinguished Professor of Psychology at the University
   of California Santa Barbara. Dr. Grafton is interested in how people organize movement
@@ -12,6 +11,11 @@ excerpt: 'Dr. Scott Grafton is Distinguished Professor of Psychology at the Univ
 id: '665'
 image: https://i.ytimg.com/vi/Uae_mp0aCV4/maxresdefault.jpg
 publishDate: 2022-08-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/665-Scott-Grafton---Physical-Intelligence-The-Relationship-Between-the-Body-and-the-Mind-e1iuisb
+tags:
+- Cognitive Science
+- Artificial Intelligence
+- Psychology
 title: '#665 Scott Grafton - Physical Intelligence; The Relationship Between the Body
   and the Mind'
 youtubeid: Uae_mp0aCV4

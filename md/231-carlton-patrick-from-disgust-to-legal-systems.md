@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4082095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20118920-44100-2-85e746dde3f6d.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College
   of Community, Innovation and Education at the University of Central Florida. Dr.
@@ -12,6 +11,9 @@ excerpt: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the Col
 id: '231'
 image: https://i.ytimg.com/vi/9APpLDc5tsw/maxresdefault.jpg
 publishDate: 2019-09-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/231-Carlton-Patrick-From-Disgust-To-Legal-Systems-e4r2vf
+tags:
+- Psychology
 title: '#231 Carlton Patrick: From Disgust To Legal Systems'
 youtubeid: 9APpLDc5tsw
 ---

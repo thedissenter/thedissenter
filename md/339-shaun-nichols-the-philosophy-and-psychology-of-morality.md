@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12665137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66052586-44100-2-fa1facb40fc72.m4a
-category: Philosophy
 draft: false
 excerpt: "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cornell\
   \ University. He works in philosophy of cognitive science. Most of his research\
@@ -10,6 +9,9 @@ excerpt: "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cor
 id: '339'
 image: https://i.ytimg.com/vi/OppfzA7oTf0/maxresdefault.jpg
 publishDate: 2020-05-28
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/339-Shaun-Nichols-The-Philosophy-And-Psychology-Of-Morality-ed10rh
+tags:
+- Philosophy
 title: '#339 Shaun Nichols: The Philosophy And Psychology Of Morality'
 youtubeid: OppfzA7oTf0
 ---

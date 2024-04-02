@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2001523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681450-44100-2-13371c5a0c739.mp3
-category: General Science
 draft: false
 excerpt: "Dr. Martin Schaefer is a former Professor of Evolutionary Biology and Animal\
   \ Ecology of the University of Freiburg, Germany. Now, he\u2019s leading a conservation\
@@ -8,6 +7,9 @@ excerpt: "Dr. Martin Schaefer is a former Professor of Evolutionary Biology and 
 id: '67'
 image: https://i.ytimg.com/vi/ybmpvHD9irc/maxresdefault.jpg
 publishDate: 2018-09-03
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/67-Martin-Schaefer-The-Right-Way-to-Preserve-Biodiversity-e2rj5j
+tags:
+- General Science
 title: '#67 Martin Schaefer: The Right Way to Preserve Biodiversity'
 youtubeid: ybmpvHD9irc
 ---

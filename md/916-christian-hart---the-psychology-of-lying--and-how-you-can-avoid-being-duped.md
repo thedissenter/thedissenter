@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/78028671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-1%2F787bd3a4-daeb-3c92-9e77-3f45de466406.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Christian Hart is a Professor of Psychology at Texas Woman\u2019s University,\
   \ where he is the Director of the Psychological Science program as well as the Director\
@@ -11,7 +10,11 @@ excerpt: "Dr. Christian Hart is a Professor of Psychology at Texas Woman\u2019s 
   \ Psychological Science Tells Us About Lying and How You Can Avoid Being Duped."
 id: '916'
 image: https://i.ytimg.com/vi/cXE75Yo4ta8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/916-christian-hart-the-psychology-of-lying-and-how/id1451347236?i=1000649617098&uo=4
 publishDate: 2024-03-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/916-Christian-Hart---The-Psychology-of-Lying--and-How-You-Can-Avoid-Being-Duped-e2bbodv
+tags:
+- Psychology
 title: '#916 Christian Hart - The Psychology of Lying, and How You Can Avoid Being
   Duped'
 youtubeid: cXE75Yo4ta8

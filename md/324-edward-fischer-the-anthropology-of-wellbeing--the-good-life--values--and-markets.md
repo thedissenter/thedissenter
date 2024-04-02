@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/10384870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49308908-44100-2-47668ebd697c6.m4a
-category: Anthropology
 draft: false
 excerpt: "Dr. Edward Fischer is the Cornelius Vanderbilt Professor of Anthropology\
   \ and Director of the Center for Latin American Studies at Vanderbilt University.\
@@ -16,6 +15,9 @@ excerpt: "Dr. Edward Fischer is the Cornelius Vanderbilt Professor of Anthropolo
 id: '324'
 image: https://i.ytimg.com/vi/LHtDvcO9YHs/maxresdefault.jpg
 publishDate: 2020-04-23
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/324-Edward-Fischer-The-Anthropology-of-Wellbeing--The-Good-Life--Values--And-Markets-eare16
+tags:
+- Anthropology
 title: '#324 Edward Fischer: The Anthropology of Wellbeing, The Good Life, Values,
   And Markets'
 youtubeid: LHtDvcO9YHs

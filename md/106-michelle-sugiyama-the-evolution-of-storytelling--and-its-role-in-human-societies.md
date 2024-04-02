@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734769-48000-2-3c4fa7440e12b.mp3
-category: Psychology
 draft: false
 excerpt: "Dr. Michelle Scalise Sugiyama is Senior Instructor at the University of\
   \ Oregon Institute of Cognitive and Decision Sciences, and an affiliate of the University\
@@ -15,6 +14,9 @@ excerpt: "Dr. Michelle Scalise Sugiyama is Senior Instructor at the University o
 id: '106'
 image: https://i.ytimg.com/vi/cWrdjTYID4I/maxresdefault.jpg
 publishDate: 2018-11-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/106-Michelle-Sugiyama-The-Evolution-of-Storytelling--and-Its-Role-in-Human-Societies-e2rse3
+tags:
+- Psychology
 title: '#106 Michelle Sugiyama: The Evolution of Storytelling, and Its Role in Human
   Societies'
 youtubeid: cWrdjTYID4I

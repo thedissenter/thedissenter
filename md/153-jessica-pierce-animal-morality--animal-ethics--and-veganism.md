@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2465618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379849-44100-2-9603f620a9681.m4a
-category: Philosophy
 draft: false
 excerpt: 'Dr. Jessica Pierce is an American bioethicist, philosopher, and writer.
   She currently has a loose affiliation with the Center for Bioethics and Humanities,
@@ -18,6 +17,9 @@ excerpt: 'Dr. Jessica Pierce is an American bioethicist, philosopher, and writer
 id: '153'
 image: https://i.ytimg.com/vi/cl0kjizMfyg/maxresdefault.jpg
 publishDate: 2019-03-21
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/153-Jessica-Pierce-Animal-Morality--Animal-Ethics--and-Veganism-e39oci
+tags:
+- Philosophy
 title: '#153 Jessica Pierce: Animal Morality, Animal Ethics, and Veganism'
 youtubeid: cl0kjizMfyg
 ---

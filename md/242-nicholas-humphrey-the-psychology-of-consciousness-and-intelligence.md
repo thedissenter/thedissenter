@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095098-44100-2-168c169efd8d7.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London\
   \ School of Economics, Visiting Professor of Philosophy at the New College of the\
@@ -18,6 +17,9 @@ excerpt: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the Londo
 id: '242'
 image: https://i.ytimg.com/vi/O3y1NWGTEDI/maxresdefault.jpg
 publishDate: 2019-10-14
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/242-Nicholas-Humphrey-The-Psychology-Of-Consciousness-And-Intelligence-e50566
+tags:
+- Psychology
 title: '#242 Nicholas Humphrey: The Psychology Of Consciousness And Intelligence'
 youtubeid: O3y1NWGTEDI
 ---

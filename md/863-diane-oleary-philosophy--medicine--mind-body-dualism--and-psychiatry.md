@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73336122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2F9c667579-0466-7fef-6641-3c19f5d1c9f2.m4a
-category: Medicine
 draft: false
 excerpt: "Dr. Diane O\u2019Leary is a Public Voices Fellow for Advancing the Rights\
   \ of Women and Girls with Equality Now and the op-ed project. She has a PhD in philosophy\
@@ -10,7 +9,12 @@ excerpt: "Dr. Diane O\u2019Leary is a Public Voices Fellow for Advancing the Rig
   \ In her work she focuses on philosophy of mind, clinical medicine, and gender equity."
 id: '863'
 image: https://i.ytimg.com/vi/610dKJEbbL0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/863-diane-oleary-philosophy-medicine-mind-body-dualism/id1451347236?i=1000635463482&uo=4
 publishDate: 2023-11-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry-e26shrq
+tags:
+- Medicine
+- Philosophy
 title: '#863 Diane O''Leary: Philosophy, Medicine, Mind-Body Dualism, and Psychiatry'
 youtubeid: 610dKJEbbL0
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/70891929/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-23%2Ff68f3c5a-b6a3-2ad8-a033-b57e2def9468.m4a
-category: Biology
 draft: false
 excerpt: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle Wittenberg\
   \ in the group \u201CAnimal Ecology\u201C. Her background is in the behavioral ecology\
@@ -13,7 +12,11 @@ excerpt: "Dr. Sabine N\xF6bel is a Postdoc at the Martin-Luther University Halle
   \ learning and cultural evolution."
 id: '836'
 image: https://i.ytimg.com/vi/aU4HRZloHLY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/836-sabine-n%C3%B6bel-social-learning-mate-copying-and/id1451347236?i=1000628291116&uo=4
 publishDate: 2023-09-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/836-Sabine-Nbel-Social-Learning--Mate-Copying--and-Culture-from-a-Biological-Perspective-e24huup
+tags:
+- Biology
 title: "#836 Sabine N\xF6bel: Social Learning, Mate Copying, and Culture from a Biological\
   \ Perspective"
 youtubeid: aU4HRZloHLY

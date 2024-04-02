@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21096175-44100-2-d80ab522b66e5.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social Neuroscience\
   \ at the Interdisciplinary Center (IDC) Herzlia with joint appointment at Yale Child\
@@ -21,6 +20,9 @@ excerpt: "Dr. Ruth Feldman is the Simms-Mann Professor of Developmental Social N
 id: '244'
 image: https://i.ytimg.com/vi/IjxhSvzc4HE/maxresdefault.jpg
 publishDate: 2019-10-18
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/244-Ruth-Feldman-The-Neurobiology-Of-Attachment--Oxytocin--And-Synchrony-e505e9
+tags:
+- Psychology
 title: '#244 Ruth Feldman: The Neurobiology Of Attachment, Oxytocin, And Synchrony'
 youtubeid: IjxhSvzc4HE
 ---

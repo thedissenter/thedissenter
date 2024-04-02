@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/73126302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-7%2Fbb44100a-53b4-e19f-0172-0befa9dd2430.m4a
-category: Psychology
 draft: false
 excerpt: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive social\
   \ sciences at \xC9cole Normale Sup\xE9rieure in Paris (Department of Cognitive Science).\
@@ -11,7 +10,11 @@ excerpt: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive socia
   \ beliefs, and social norms and institutions."
 id: '861'
 image: https://i.ytimg.com/vi/Nv1XIcW2uCY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/861-l%C3%A9o-fitouchi-moral-emotions-punishment-and/id1451347236?i=1000635082002&uo=4
 publishDate: 2023-11-16
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/861-Lo-Fitouchi-Moral-Emotions--Punishment--and-Puritanical-Morality-e26m4uu
+tags:
+- Psychology
 title: "#861 L\xE9o Fitouchi: Moral Emotions, Punishment, and Puritanical Morality"
 youtubeid: Nv1XIcW2uCY
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3780628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281604-44100-2-6cfc591da3739.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Lee Cronk is Professor in the Department of Anthropology at the School
   of Arts and Sciences at Rutgers University. His research and teaching interests
@@ -19,6 +18,9 @@ excerpt: 'Dr. Lee Cronk is Professor in the Department of Anthropology at the Sc
 id: '219'
 image: https://i.ytimg.com/vi/nG53WmHvVDo/maxresdefault.jpg
 publishDate: 2019-08-22
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/219-Lee-Cronk-Modern-Cultural-Anthropology--And-Human-Cooperation-e4hsik
+tags:
+- Anthropology
 title: '#219 Lee Cronk: Modern Cultural Anthropology, and Human Cooperation'
 youtubeid: nG53WmHvVDo
 ---

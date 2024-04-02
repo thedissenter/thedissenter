@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4903339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123224-44100-2-894b229080166.m4a
-category: Archaeology
 draft: false
 excerpt: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School\
   \ of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies\
@@ -15,6 +14,10 @@ excerpt: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the Sch
 id: '266'
 image: https://i.ytimg.com/vi/AQpkmNLs7ls/maxresdefault.jpg
 publishDate: 2019-12-09
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/266-Lyn-Wadley-Archaeology--And-The-Evolution-of-Human-Cognition-e5k4vb
+tags:
+- Archaeology
+- Anthropology
 title: '#266 Lyn Wadley: Archaeology, And The Evolution of Human Cognition'
 youtubeid: AQpkmNLs7ls
 ---

@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/29490290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2Fb76c5ac2-cf00-7aaa-35ac-e1d9caab7150.m4a
-category: Sociology
 draft: false
 excerpt: "Dr. Musa al-Gharbi is a Paul F. Lazarsfeld Fellow in the Department of Sociology,\
   \ and a Mellon-Sawyer Fellow on Trust and Mistrust of Experts for the Interdisciplinary\
@@ -14,6 +13,10 @@ excerpt: "Dr. Musa al-Gharbi is a Paul F. Lazarsfeld Fellow in the Department of
 id: '463'
 image: https://i.ytimg.com/vi/3_Bo9GTaJKM/maxresdefault.jpg
 publishDate: 2021-04-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/463-Musa-al-Gharbi-Academic-Freedom--Trump-and-the-2016-Elections--and-Political-Polarization-et2fli
+tags:
+- Politics
+- Sociology
 title: '#463 Musa al-Gharbi: Academic Freedom, Trump and the 2016 Elections, and Political
   Polarization'
 youtubeid: 3_Bo9GTaJKM

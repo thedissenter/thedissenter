@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/12665884/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66056477-44100-2-16ac1ffb68461.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Scott Barry Kaufman is a humanistic psychologist exploring the depths\
   \ of human potential. He is interested in using his research to help all kinds of\
@@ -17,6 +16,9 @@ excerpt: "Dr. Scott Barry Kaufman is a humanistic psychologist exploring the dep
 id: '341'
 image: https://i.ytimg.com/vi/K86HTnQAjlk/maxresdefault.jpg
 publishDate: 2020-06-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/341-Scott-Barry-Kaufman---Transcend-The-New-Science-of-Self-Actualization-ed11is
+tags:
+- Psychology
 title: '#341 Scott Barry Kaufman - Transcend: The New Science of Self-Actualization'
 youtubeid: K86HTnQAjlk
 ---

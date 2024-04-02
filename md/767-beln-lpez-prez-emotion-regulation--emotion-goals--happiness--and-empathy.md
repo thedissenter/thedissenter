@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/67664204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-31%2F6a8012a2-172d-0801-4ec4-74db127f4276.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at The University\
   \ of Manchester. She concluded her PhD in Social psychology at Universidad Autonoma\
@@ -10,7 +9,11 @@ excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at The Univ
   \ and well-being."
 id: '767'
 image: https://i.ytimg.com/vi/XgcB_z3LoxQ/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/767-bel%C3%A9n-l%C3%B3pez-p%C3%A9rez-emotion-regulation-emotion-goals/id1451347236?i=1000608247748&uo=4
 publishDate: 2023-04-10
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/767-Beln-Lpez-Prez-Emotion-Regulation--Emotion-Goals--Happiness--and-Empathy-e21fesc
+tags:
+- Psychology
 title: "#767 Bel\xE9n L\xF3pez-P\xE9rez: Emotion Regulation, Emotion Goals, Happiness,\
   \ and Empathy"
 youtubeid: XgcB_z3LoxQ

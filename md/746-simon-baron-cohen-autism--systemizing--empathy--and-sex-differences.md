@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/64825484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-10%2F4dd30f48-5ac1-aaee-0cf6-518f0e003edb.m4a
-category: Psychology
 draft: false
 excerpt: 'Dr. Simon Baron-Cohen is Professor of Developmental Psychopathology at the
   University of Cambridge. He is the director of the university''s Autism Research
@@ -11,7 +10,11 @@ excerpt: 'Dr. Simon Baron-Cohen is Professor of Developmental Psychopathology at
   A New Theory of Human Invention.'
 id: '746'
 image: https://i.ytimg.com/vi/dI95gDMbSsY/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/746-simon-baron-cohen-autism-systemizing-empathy-and/id1451347236?i=1000600675031&uo=4
 publishDate: 2023-02-20
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/746-Simon-Baron-Cohen-Autism--Systemizing--Empathy--and-Sex-Differences-e1uoqmc
+tags:
+- Psychology
 title: '#746 Simon Baron-Cohen: Autism, Systemizing, Empathy, and Sex Differences'
 youtubeid: dI95gDMbSsY
 ---

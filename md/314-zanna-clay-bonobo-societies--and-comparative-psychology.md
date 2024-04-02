@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/9727886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703878-44100-2-5761c62e3d90f.m4a
-category: Biology
 draft: false
 excerpt: Dr. Zanna Clay is Associate Professor in the Department of Psychology at
   Durham University. She is a comparative and developmental psychologist with expertise
@@ -11,6 +10,10 @@ excerpt: Dr. Zanna Clay is Associate Professor in the Department of Psychology a
 id: '314'
 image: https://i.ytimg.com/vi/S76bSvOK2bE/maxresdefault.jpg
 publishDate: 2020-03-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/314-Zanna-Clay-Bonobo-Societies--And-Comparative-Psychology-ea7cee
+tags:
+- Biology
+- Psychology
 title: '#314 Zanna Clay: Bonobo Societies, And Comparative Psychology'
 youtubeid: S76bSvOK2bE
 ---

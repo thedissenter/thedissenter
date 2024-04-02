@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/2011085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735093-48000-2-555195e194cbb.mp3
-category: Neuroscience
 draft: false
 excerpt: "Dr. Nick Chater is Professor of Behavioural Science at Warwick Business\
   \ School. He works on rationality and language using a range of theoretical and\
@@ -15,6 +14,9 @@ excerpt: "Dr. Nick Chater is Professor of Behavioural Science at Warwick Busines
 id: '111'
 image: https://i.ytimg.com/vi/OWrSfZWTP4k/maxresdefault.jpg
 publishDate: 2018-12-13
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/111-Nick-Chater-The-Mind-Is-Flat--and-Our-Illusions-of-Mental-Depth-e2rsgd
+tags:
+- Neuroscience
 title: '#111 Nick Chater: The Mind Is Flat, and Our Illusions of Mental Depth'
 youtubeid: OWrSfZWTP4k
 ---

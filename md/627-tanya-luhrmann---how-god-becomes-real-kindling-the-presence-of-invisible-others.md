@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/47754156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F774ae149-4a91-f9cb-d862-844b590831f6.m4a
-category: Anthropology
 draft: false
 excerpt: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford
   Anthropology Department. She is a medical and psychological anthropologist, and
@@ -12,6 +11,9 @@ excerpt: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanf
 id: '627'
 image: https://i.ytimg.com/vi/vyE0hrx0mZ8/maxresdefault.jpg
 publishDate: 2022-05-19
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/627-Tanya-Luhrmann---How-God-Becomes-Real-Kindling-the-Presence-of-Invisible-Others-e1efrfc
+tags:
+- Anthropology
 title: '#627 Tanya Luhrmann - How God Becomes Real: Kindling the Presence of Invisible
   Others'
 youtubeid: vyE0hrx0mZ8

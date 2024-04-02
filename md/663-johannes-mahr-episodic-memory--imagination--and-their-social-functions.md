@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/52066525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-16%2Fd87489d3-e23f-e9d8-2bba-97565480b9a4.m4a
-category: Cognitive Science
 draft: false
 excerpt: Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab at
   Harvard University. He will be a professor of Philosophy at York University in Toronto.
@@ -12,6 +11,11 @@ excerpt: Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab a
 id: '663'
 image: https://i.ytimg.com/vi/2bODcrDOIi4/maxresdefault.jpg
 publishDate: 2022-08-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/663-Johannes-Mahr-Episodic-Memory--Imagination--and-their-Social-Functions-e1ijeot
+tags:
+- Cognitive Science
+- Philosophy
+- Psychology
 title: '#663 Johannes Mahr: Episodic Memory, Imagination, and their Social Functions'
 youtubeid: 2bODcrDOIi4
 ---

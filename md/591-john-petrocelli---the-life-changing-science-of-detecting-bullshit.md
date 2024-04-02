@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/43243856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2F995bb6d2-4cdc-b653-1b4d-1bfea31cbc69.m4a
-category: Psychology
 draft: false
 excerpt: Dr. John Petrocelli is Professor of Psychology at Wake Forest University.
   He is a social psychologist and his research involves experimental social cognition
@@ -10,6 +9,9 @@ excerpt: Dr. John Petrocelli is Professor of Psychology at Wake Forest Universit
 id: '591'
 image: https://i.ytimg.com/vi/TXk84VGJPhM/maxresdefault.jpg
 publishDate: 2022-02-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/591-John-Petrocelli---The-Life-Changing-Science-of-Detecting-Bullshit-e1a66sg
+tags:
+- Psychology
 title: '#591 John Petrocelli - The Life-Changing Science of Detecting Bullshit'
 youtubeid: TXk84VGJPhM
 ---

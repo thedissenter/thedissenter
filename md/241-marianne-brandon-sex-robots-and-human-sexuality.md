@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4248114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21094715-44100-2-25184e2c0d531.m4a
-category: Psychology
 draft: false
 excerpt: "Dr. Marianne Brandon is a clinical psychologist and Diplomate in sex therapy.\
   \ Dr. Brandon is the author of Monogamy: The Untold Story, the ebook Unlocking the\
@@ -23,6 +22,9 @@ excerpt: "Dr. Marianne Brandon is a clinical psychologist and Diplomate in sex t
 id: '241'
 image: https://i.ytimg.com/vi/U0p-L7RiypI/maxresdefault.jpg
 publishDate: 2019-10-11
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/241-Marianne-Brandon-Sex-Robots-And-Human-Sexuality-e5053i
+tags:
+- Psychology
 title: '#241 Marianne Brandon: Sex Robots And Human Sexuality'
 youtubeid: U0p-L7RiypI
 ---

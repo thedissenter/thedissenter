@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/20172289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F8d255ba2-9b4e-0335-b881-3a698d5fc9b6.m4a
-category: Biology
 draft: false
 excerpt: 'Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in the
   departments of Psychology and Ecology & Evolutionary Biology at the University of
@@ -14,6 +13,10 @@ excerpt: 'Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in t
 id: '397'
 image: https://i.ytimg.com/vi/9_yEhaD4DWk/maxresdefault.jpg
 publishDate: 2020-11-27
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/397-Gordon-Burghardt-The-Evolution-And-Function-of-Play-ek6421
+tags:
+- Biology
+- Psychology
 title: '#397 Gordon Burghardt: The Evolution And Function of Play'
 youtubeid: 9_yEhaD4DWk
 ---

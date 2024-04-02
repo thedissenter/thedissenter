@@ -1,6 +1,5 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/3721104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877752-44100-2-613161a374034.m4a
-category: General Science
 draft: false
 excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon\
   \ in 1996 after studying Physics at the University of Lisbon. He taught Mathematics\
@@ -17,6 +16,10 @@ excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of L
 id: '213'
 image: https://i.ytimg.com/vi/EMK2GaA-jjU/maxresdefault.jpg
 publishDate: 2019-08-08
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/213-Paulo-Castro-Philosophy-of-Quantum-Physics--Pilot-Wave-Theory--And-the-EmDrive-e4g2eg
+tags:
+- General Science
+- Philosophy
 title: '#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And the
   EmDrive'
 youtubeid: EMK2GaA-jjU

@@ -1,12 +1,14 @@
 ---
 audiourl: https://anchor.fm/s/822ba20/podcast/play/4637804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-13%2F23578854-44100-2-96a2e4d1e847.m4a
-category: Psychology
 draft: false
 excerpt: 'SORRY ABOUT THE ISSUES WITH THE VIDEO QUALITY. THE CONNECTION WAS A BIT
   WEAK.  '
 id: '236'
 image: https://i.ytimg.com/vi/9H9Zqwr7fSk/maxresdefault.jpg
 publishDate: 2019-09-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/236-Sarah-Hill-This-Is-Your-Brain-on-Birth-Control-e5c1lc
+tags:
+- Psychology
 title: '#236 Sarah Hill: This Is Your Brain on Birth Control'
 youtubeid: 9H9Zqwr7fSk
 ---
