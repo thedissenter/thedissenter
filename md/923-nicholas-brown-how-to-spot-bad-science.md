@@ -1,11 +1,17 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/78681881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-15%2F3e6923d3-8949-d55a-79ff-7be54d2461c6.m4a
 draft: false
 excerpt: Dr. Nicholas Brown is a Researcher at Linnaeus University, Sweden. He works
   on developing new research methods in psychology and on applying meta-scientific
   perspectives on psychology as a science.
 id: '923'
 image: https://i.ytimg.com/vi/0ovxk0s3UT8/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/923-nicholas-brown-how-to-spot-bad-science/id1451347236?i=1000651458615&uo=4
 publishDate: 2024-04-04
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/923-Nicholas-Brown-How-to-Spot-Bad-Science-e2bvmap
+tags:
+- General Science
+- Psychology
 title: '#923 Nicholas Brown: How to Spot Bad Science'
 youtubeid: 0ovxk0s3UT8
 ---

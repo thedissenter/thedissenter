@@ -1,4 +1,5 @@
 *.xml
+itunes.json
 .bash_history
 .bash_profile
 .bashrc

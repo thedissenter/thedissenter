@@ -18,10 +18,19 @@
         "Spotify": {
             "type": "rss",
             "url": "https://anchor.fm/s/822ba20/podcast/rss",
+            "only-new": true,
             "primary": false
         },
+        "itunes": {
+            "type": "itunes",
+            "primary": false,
+            "ignore": false,
+            "id": 1451347236,
+            "only-new": true
+        },        
         "AWS Transcribe": {
-            "type": "transcript"
+            "type": "transcript",
+            "ignore": false
         }
     },
     "bucket": "thedissenter",

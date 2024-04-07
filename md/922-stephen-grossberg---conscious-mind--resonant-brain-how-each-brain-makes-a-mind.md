@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/83032922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-22%2F91273133-2f3d-7a92-ce86-249c9ab25491.m4a
 draft: false
 excerpt: 'Dr. Stephen Grossberg is Wang Professor of Cognitive and Neural Systems,
   Professor Emeritus of Mathematics & Statistics, Psychological & Brain Sciences,
@@ -8,7 +9,11 @@ excerpt: 'Dr. Stephen Grossberg is Wang Professor of Cognitive and Neural System
   Resonant Brain: How Each Brain Makes a Mind.'
 id: '922'
 image: https://i.ytimg.com/vi/ydhhR5-auS0/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/922-stephen-grossberg-conscious-mind-resonant-brain/id1451347236?i=1000651102445&uo=4
 publishDate: 2024-04-01
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/922-Stephen-Grossberg---Conscious-Mind--Resonant-Brain-How-Each-Brain-Makes-a-Mind-e2g4fcq
+tags:
+- Neuroscience
 title: '#922 Stephen Grossberg - Conscious Mind, Resonant Brain: How Each Brain Makes
   a Mind'
 youtubeid: ydhhR5-auS0
