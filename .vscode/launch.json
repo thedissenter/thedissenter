@@ -11,9 +11,10 @@
             "program": "incharge-podcaster\\import.py",
             "console": "integratedTerminal",
             "args" : [
-                "--ignore=configfile=incharge-podcaster/test/incharge-podcaster-test.json",
                 "--ignore=To stand down a parameter, prefix with --ignore, like this",
-                "--configfile=incharge-podcaster.json",
+                "--configfile=incharge-podcaster/test/incharge-podcaster-test.json",
+                "--config={\"episode-folder\": \"episode\"}",
+                "--ignore=--configfile=incharge-podcaster.json",
                 "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-2s.json",
                 "--ignore=--configfile=incharge-podcaster/test/incharge-podcaster-spotify-transcribe-899.json",
                 "--ignore=--config={ \"source\": { \"Youtube via API\": { \"ignore\": False }}}",
