@@ -30,11 +30,49 @@ https://github.com/incharge/astrowind
     Pagefind official docs https://pagefind.app/docs/ui-usage/
     astro-pagefind GitHub https://github.com/shishkin/astro-pagefind
     Astro/PageFind Tutorial https://blog.otterlord.dev/posts/astro-search/
-- Astro component for embedding YouTube videos:
-    https://www.npmjs.com/package/@astro-community/astro-embed-youtube
-    https://github.com/delucis/astro-embed/tree/main/packages/astro-embed-youtube
-    astro-embed-youtube is an astro wrapper for lite-youtube-embed:
+- lite-youtube-embed YouTube video player:
     https://www.npmjs.com/package/lite-youtube-embed
+    https://github.com/paulirish/lite-youtube-embed
+    This is a wrapper for the YouTube IFrame Player API
+    https://developers.google.com/youtube/iframe_api_reference
+    Demo with skip https://paulirish.github.io/lite-youtube-embed/variants/js-api.html
+- VideoJs player, which is used to play audio
+    https://github.com/videojs/video.js
+    https://www.npmjs.com/package/video.js/v/7.0.3
+    https://docs.videojs.com/
+    https://videojs.com/guides
+    https://docs.videojs.com/control-bar_skip-buttons_skip-forward.js.html
+    https://videojs.com/guides/player-workflows/#showing-and-hiding-a-player
+    https://videojs.com/guides/player-workflows/#using-playback-information-functions
+    Note: VideoJs can play YouTube, but this is not used
+    https://github.com/videojs/videojs-youtube
+- Vanilla Cookie Consent
+	https://cookieconsent.orestbida.com/
+	https://github.com/orestbida/cookieconsent
+    https://playground.cookieconsent.orestbida.com/
+- Astro
+    https://docs.astro.build/en/getting-started/
+- Vite
+    https://vitejs.dev/config
+    https://vitejs.dev/guide/build.html
+    https://vitejs.dev/guide/env-and-mode#node-env-and-modes
+- Rollup
+    https://rollupjs.org/migration/
+- Tailwind
+    https://tailwindcss.com/docs/installation
+- HTML
+    https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+    https://html.spec.whatwg.org/
+    New features https://wicg.io/ and https://github.com/WICG
+- Bash
+    Bash cheat sheet https://devhints.io/bash
+    Man https://www.man7.org/linux/man-pages/
+- Python
+    https://docs.python.org/3/library/
+- AWS ClI
+    https://awscli.amazonaws.com/v2/documentation/api/latest/reference/index.html#cli-aws
+- VS Code
+    https://dax.tips/2020/10/21/use-visual-studio-code-to-autoformat-json/
 
 ### Start a bash shell
 ```
@@ -78,7 +116,7 @@ Browse to the link shown on the screen e.g. http://localhost:4321/thedissenter/
 ### Create header.png from YOUTUBE.psd
 - Delete all layers except the background (bottom layer)
 - Scale the image width to 1600, maintaining aspect ratio
-- Resize the canvass to 500 x 65
+- Resize the canvass to 500 x 100
 - Crop the background using the Crop tool & check the box marked Current layer only
 - Change foreground colour to: d0b0b0
 - Add a background layer & fill with foreground colour, move it to the bottom layer
@@ -86,3 +124,4 @@ Browse to the link shown on the screen e.g. http://localhost:4321/thedissenter/
 - Add layer mask with an invisible gradient, so the background colour shows on the right (See  https://daviesmediadesign.com/how-to-create-a-transparent-gradient-in-gimp/)
 - Export to header.png, omitting colour profile
 - Optimise the iamge e.g. https://tinypng.com/
+
