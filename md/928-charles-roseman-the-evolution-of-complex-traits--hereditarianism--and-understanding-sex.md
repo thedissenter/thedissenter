@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/83572790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F1ac97500-b588-1f82-5a6a-9faf244ff11c.m4a
 draft: false
 excerpt: Dr. Charles Roseman is an Associate Professor of evolution, ecology and behavior
   at the University of Illinois at Urbana-Champaign. He studies the evolution of complex
@@ -7,6 +8,7 @@ id: '928'
 image: https://i.ytimg.com/vi/5Usuozf02xs/maxresdefault.jpg
 itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/928-charles-roseman-the-evolution-of-complex/id1451347236?i=1000652525151&uo=4
 publishDate: 2024-04-15
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/928-Charles-Roseman-The-Evolution-of-Complex-Traits--Hereditarianism--and-Understanding-Sex-e2gkujm
 tags:
 - Anthropology
 title: '#928 Charles Roseman: The Evolution of Complex Traits, Hereditarianism, and
