@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/84250667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-19%2Fe06f4ac9-df94-1f40-3805-d1ea78543d78.m4a
 draft: false
 excerpt: 'Dr. Mazviita Chirimuuta is Senior Lecturer in Philosophy in the School of
   Philosophy, Psychology & Language Sciences at the University of Edinburgh. She has
@@ -11,6 +12,7 @@ excerpt: 'Dr. Mazviita Chirimuuta is Senior Lecturer in Philosophy in the School
 id: '935'
 image: https://i.ytimg.com/vi/UeFNPuoiQmY/maxresdefault.jpg
 publishDate: 2024-05-02
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/935-Mazviita-Chirimuuta-The-Brain-Abstracted-e2h9kjb
 tags:
 - Cognitive Science
 - Neuroscience
