@@ -34,6 +34,8 @@ jobs:
       run: |
           mkdir -p astrowind/src/content/post
           cp md/*.md astrowind/src/content/post/
+          mkdir -p astrowind/public/transcript
+          cp vtt/*.vtt astrowind/public/transcript/          
           cp playlists.yaml astrowind/src/
     - name: Install, build, and upload the site
       uses: withastro/action@v1
