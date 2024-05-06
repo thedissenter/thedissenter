@@ -16,6 +16,7 @@ spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes
 tags:
 - Psychology
 title: '#918 Antoine Marie: The Biases of People with Strong Political and Moral Convictions'
+transcript: 918.vtt
 youtubeid: QzvIfUZpELw
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

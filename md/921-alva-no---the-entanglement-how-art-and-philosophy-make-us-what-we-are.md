@@ -20,6 +20,7 @@ tags:
 - Psychology
 title: "#921 Alva No\xEB - The Entanglement: How Art and Philosophy Make Us What We\
   \ Are"
+transcript: 921.vtt
 youtubeid: Lb9LMPNKWvU
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -17,6 +17,7 @@ tags:
 - Psychology
 title: '#910 Daniel Simons - Nobody''s Fool: Why We Get Taken In and What We Can Do
   about It'
+transcript: 910.vtt
 youtubeid: VFDbbAJsVCs
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

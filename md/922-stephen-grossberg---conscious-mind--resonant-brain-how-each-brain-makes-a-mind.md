@@ -16,6 +16,7 @@ tags:
 - Neuroscience
 title: '#922 Stephen Grossberg - Conscious Mind, Resonant Brain: How Each Brain Makes
   a Mind'
+transcript: 922.vtt
 youtubeid: ydhhR5-auS0
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

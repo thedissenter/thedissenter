@@ -16,6 +16,7 @@ tags:
 - Psychology
 title: "#907 Katarina Kova\u010Devi\u0107: Epistemic Responsibility and Strategic\
   \ Ignorance"
+transcript: 907.vtt
 youtubeid: 4ysh3xTbCcM
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

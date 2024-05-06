@@ -13,6 +13,7 @@ spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes
 tags:
 - Philosophy
 title: '#920 Jean-Manuel Roubineau: The Dangerous Life and Ideas of Diogenes the Cynic'
+transcript: 920.vtt
 youtubeid: R_M56HMez1s
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

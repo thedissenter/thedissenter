@@ -17,6 +17,7 @@ tags:
 - Psychology
 title: '#911 Caleb Everett - A Myriad of Tongues: How Languages Reveal Differences
   in How We Think'
+transcript: 911.vtt
 youtubeid: JN1NJg3SbWA
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

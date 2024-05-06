@@ -18,6 +18,7 @@ tags:
 - Philosophy
 - Psychology
 title: '#848 Robert Sapolsky - Determined: A Science of Life without Free Will'
+transcript: 848.vtt
 youtubeid: _XUzWQJzxJg
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

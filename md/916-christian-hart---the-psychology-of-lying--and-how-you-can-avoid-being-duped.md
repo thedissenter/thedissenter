@@ -17,6 +17,7 @@ tags:
 - Psychology
 title: '#916 Christian Hart - The Psychology of Lying, and How You Can Avoid Being
   Duped'
+transcript: 916.vtt
 youtubeid: cXE75Yo4ta8
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

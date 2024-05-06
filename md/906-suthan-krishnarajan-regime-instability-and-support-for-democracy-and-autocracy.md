@@ -18,6 +18,7 @@ tags:
 - Politics
 title: '#906 Suthan Krishnarajan: Regime Instability and Support for Democracy and
   Autocracy'
+transcript: 906.vtt
 youtubeid: x9BgL2ngt-U
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

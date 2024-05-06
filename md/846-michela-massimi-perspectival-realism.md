@@ -19,6 +19,7 @@ spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes
 tags:
 - Philosophy
 title: '#846 Michela Massimi: Perspectival Realism'
+transcript: 846.vtt
 youtubeid: KwTyeSVSXG4
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

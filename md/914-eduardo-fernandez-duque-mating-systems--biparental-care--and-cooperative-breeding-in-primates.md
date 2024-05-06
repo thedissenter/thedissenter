@@ -21,6 +21,7 @@ tags:
 - Anthropology
 title: '#914 Eduardo Fernandez-Duque: Mating Systems, Biparental Care, and Cooperative
   Breeding in Primates'
+transcript: 914.vtt
 youtubeid: cTvJKUNIaJE
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

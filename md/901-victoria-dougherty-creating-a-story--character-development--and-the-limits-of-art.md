@@ -19,6 +19,7 @@ tags:
 - Art
 title: '#901 Victoria Dougherty: Creating a Story, Character Development, and the
   Limits of Art'
+transcript: 901.vtt
 youtubeid: rEzcRNW2-Bg
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

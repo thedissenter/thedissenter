@@ -16,6 +16,7 @@ tags:
 - Biology
 - Psychology
 title: '#899 Darcia Narvaez & Gay Bradshaw: The Evolved Nest'
+transcript: 899.vtt
 youtubeid: Sb-fGM9uLh4
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

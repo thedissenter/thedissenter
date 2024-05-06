@@ -17,6 +17,7 @@ tags:
 - Philosophy
 title: '#915 Bernard Reginster The Will to Nothingness: An Essay on Nietzsche''s On
   the Genealogy of Morality'
+transcript: 915.vtt
 youtubeid: QRpIFHuAAUk
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -15,6 +15,7 @@ tags:
 - Cognitive Science
 - Psychology
 title: '#919 Isabella Sarto-Jackson: How Social Interactions Shape the Human Mind'
+transcript: 919.vtt
 youtubeid: i6j6AYihE4I
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -16,6 +16,7 @@ tags:
 - Philosophy
 title: '#902 Joshua Knobe: How Morality Influences People''s Philosophical and Scientific
   Intuitions'
+transcript: 902.vtt
 youtubeid: 5OwECjl8Bs8
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

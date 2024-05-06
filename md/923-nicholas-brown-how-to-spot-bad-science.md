@@ -13,6 +13,7 @@ tags:
 - General Science
 - Psychology
 title: '#923 Nicholas Brown: How to Spot Bad Science'
+transcript: 923.vtt
 youtubeid: 0ovxk0s3UT8
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

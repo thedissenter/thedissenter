@@ -14,6 +14,7 @@ spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes
 tags:
 - Physics
 title: '#909 Paul Halpern: The Allure of the Multiverse'
+transcript: 909.vtt
 youtubeid: 10hTMxOWZGY
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -19,6 +19,7 @@ tags:
 - Psychology
 title: '#903 Luis Favela - The Ecological Brain: Unifying the Sciences of Brain, Body,
   and Environment'
+transcript: 903.vtt
 youtubeid: TLpop_LqHsE
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

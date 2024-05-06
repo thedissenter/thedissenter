@@ -1,0 +1,3406 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.980
+Hello everybody. Welcome to a new episode of the
+
+2
+00:00:03.048 --> 00:00:05.589
+Center. I'm your host as always Ricard Lobs.
+
+3
+00:00:05.828 --> 00:00:08.890
+And today I'm joined by Doctor Kaylyn o'connor. She
+
+4
+00:00:08.898 --> 00:00:11.689
+is professor in the Department of Logic and Philosophy of
+
+5
+00:00:11.698 --> 00:00:15.169
+Science at the University of California Herrin. She is
+
+6
+00:00:15.179 --> 00:00:18.774
+a philosopher of biology and be sciences, philosopher of
+
+7
+00:00:18.783 --> 00:00:23.033
+science and evolutionary game theorist. She is the author
+
+8
+00:00:23.045 --> 00:00:27.074
+of books like the Origins of Unfairness Games in the
+
+9
+00:00:27.083 --> 00:00:31.964
+Philosophy of Biology and the misinformation Age. And today
+
+10
+00:00:32.204 --> 00:00:36.423
+we're going to talk about some of her uh topics
+
+11
+00:00:36.435 --> 00:00:39.274
+. So some of the subjects she focus on.
+
+12
+00:00:39.283 --> 00:00:42.993
+So Doctor o'conner, welcome to the show. It's
+
+13
+00:00:43.005 --> 00:00:45.825
+a big pleasure to everyone. Oh, thanks for
+
+14
+00:00:45.834 --> 00:00:49.719
+having me, Ricardo. So let me start by
+
+15
+00:00:49.728 --> 00:00:54.090
+asking you since you apply a game theory in your
+
+16
+00:00:54.098 --> 00:00:56.728
+work or at least to some of your work.
+
+17
+00:00:56.889 --> 00:01:00.478
+So what is it basically? And to what kinds
+
+18
+00:01:00.490 --> 00:01:04.010
+of topics do you apply it? Uh Mostly.
+
+19
+00:01:06.260 --> 00:01:08.000
+Yeah. So game theory, it's um it's a
+
+20
+00:01:08.010 --> 00:01:12.900
+branch of math that is used to study strategic human
+
+21
+00:01:12.909 --> 00:01:15.620
+interactions. And so a strategic interaction. Is it
+
+22
+00:01:15.629 --> 00:01:19.230
+anything where you have two individuals who are interacting and
+
+23
+00:01:19.239 --> 00:01:23.329
+where they both care about what the other one does
+
+24
+00:01:23.338 --> 00:01:25.409
+. So I have some stake in the game and
+
+25
+00:01:25.418 --> 00:01:27.879
+what you're doing and the reverse is true. Um
+
+26
+00:01:29.620 --> 00:01:32.588
+Game theory when it was first developed was applied just
+
+27
+00:01:32.599 --> 00:01:38.040
+to humans. And usually the idea was we'll analyze
+
+28
+00:01:38.049 --> 00:01:40.730
+people as if they're fully rational and then use that
+
+29
+00:01:40.739 --> 00:01:42.239
+to predict what they might do or explain what we
+
+30
+00:01:42.250 --> 00:01:46.359
+see people doing. So assume that I think really
+
+31
+00:01:46.370 --> 00:01:48.278
+hard about what you're gonna do and then make my
+
+32
+00:01:48.290 --> 00:01:49.909
+best choice for an action based on what you're gonna
+
+33
+00:01:49.918 --> 00:01:53.058
+do and what I want to happen. Um Later
+
+34
+00:01:53.069 --> 00:01:57.588
+on, it was introduced to biology as well to
+
+35
+00:01:57.599 --> 00:02:00.709
+apply to different kinds of critters, you know,
+
+36
+00:02:00.719 --> 00:02:04.198
+to animals, even things like micro organisms sometimes,
+
+37
+00:02:04.519 --> 00:02:07.739
+and some of the assumptions were changed to think less
+
+38
+00:02:07.750 --> 00:02:13.210
+about like rationality and more about how um how animals
+
+39
+00:02:13.219 --> 00:02:15.639
+might learn to behave strategically or they might evolve to
+
+40
+00:02:15.649 --> 00:02:19.399
+behave strategically. So a lot of the work I
+
+41
+00:02:19.409 --> 00:02:23.719
+do uses those latter kinds of models or tools and
+
+42
+00:02:23.729 --> 00:02:27.919
+I've applied game theoretic models to all sorts of systems
+
+43
+00:02:27.929 --> 00:02:30.979
+. So I've used them to think about signaling in
+
+44
+00:02:30.990 --> 00:02:35.889
+biology and in humans. So things like human language
+
+45
+00:02:35.899 --> 00:02:38.020
+and how animals communicate with each other. I've used
+
+46
+00:02:38.028 --> 00:02:42.538
+them to think about like perception in the brain.
+
+47
+00:02:42.689 --> 00:02:46.819
+I've used them to think about things related to unfairness
+
+48
+00:02:46.830 --> 00:02:49.229
+, which is related to that book. You mentioned
+
+49
+00:02:49.409 --> 00:02:53.038
+like how to unfair norms emerge in human societies.
+
+50
+00:02:53.050 --> 00:02:55.008
+Um I've used them to think about the evolution of
+
+51
+00:02:55.020 --> 00:02:59.979
+moral emotions, like guilt and shame. Uh,
+
+52
+00:03:00.008 --> 00:03:04.508
+and also to some degree to think about stuff like
+
+53
+00:03:04.520 --> 00:03:07.058
+misinformation and the spread of knowledge and belief in humans
+
+54
+00:03:07.740 --> 00:03:12.000
+. Mhm. Yeah. And we'll get into some
+
+55
+00:03:12.008 --> 00:03:15.679
+of those topics, uh, later in our conversation
+
+56
+00:03:15.689 --> 00:03:17.618
+. But I would like to ask you now about
+
+57
+00:03:17.778 --> 00:03:23.979
+science, the institution of science and scientists themselves because
+
+58
+00:03:23.990 --> 00:03:25.819
+there's, that's also a topic that you study.
+
+59
+00:03:27.179 --> 00:03:34.629
+So are scientists themselves subject to social pressures? Uh
+
+60
+00:03:34.639 --> 00:03:38.770
+Yeah. OK. We're like jumping to different stuff
+
+61
+00:03:38.778 --> 00:03:43.889
+. So, yes, they are. This isn't
+
+62
+00:03:43.899 --> 00:03:47.308
+um an observation that's like new to me by any
+
+63
+00:03:47.319 --> 00:03:51.520
+means. It's something that people have been noticing and
+
+64
+00:03:51.528 --> 00:03:54.129
+talking about for decades and decades in thinking about how
+
+65
+00:03:54.139 --> 00:03:58.460
+science works. Uh So scientists of course, are
+
+66
+00:03:58.469 --> 00:04:02.669
+humans, they like other humans care about what other
+
+67
+00:04:02.679 --> 00:04:08.270
+people think they grew up in human societies. They
+
+68
+00:04:08.278 --> 00:04:12.409
+have human biases, human social tendencies. And there's
+
+69
+00:04:12.419 --> 00:04:15.969
+a lot of really compelling evidence showing that all of
+
+70
+00:04:15.979 --> 00:04:19.088
+that influences how science as an enterprise gets done.
+
+71
+00:04:21.079 --> 00:04:25.170
+Uh And I mean, one of the things that
+
+72
+00:04:25.178 --> 00:04:28.059
+uh we as humans are, at least to some
+
+73
+00:04:28.069 --> 00:04:32.108
+extent is we are conformist. So is conformity,
+
+74
+00:04:32.119 --> 00:04:35.778
+something that also happens in science and if so,
+
+75
+00:04:35.798 --> 00:04:40.600
+is it good or bad? Yeah. So this
+
+76
+00:04:40.608 --> 00:04:43.910
+is something that I've worked on with um a collaborator
+
+77
+00:04:43.920 --> 00:04:46.608
+of mine, Jim Weall. So the idea of
+
+78
+00:04:46.619 --> 00:04:50.879
+conformity of some sort mattering to science goes back a
+
+79
+00:04:50.889 --> 00:04:54.939
+pretty long way. So for example, Thomas Coon
+
+80
+00:04:54.949 --> 00:04:57.009
+, in this very famous book, The Structure of
+
+81
+00:04:57.019 --> 00:05:00.629
+Scientific Revolutions has this idea that, you know,
+
+82
+00:05:00.639 --> 00:05:03.428
+scientists tend to work within a paradigm and they'll all
+
+83
+00:05:03.439 --> 00:05:06.105
+be kind of attached to this para this way of
+
+84
+00:05:06.113 --> 00:05:10.014
+thinking about the world and there will be social pressure
+
+85
+00:05:10.024 --> 00:05:13.725
+sort of keeping people within the paradigm and supporting it
+
+86
+00:05:13.915 --> 00:05:15.434
+. And I think there's some idea there about people
+
+87
+00:05:15.444 --> 00:05:17.855
+conforming with each other. And then he has this
+
+88
+00:05:17.863 --> 00:05:21.634
+idea that like you get younger people who are less
+
+89
+00:05:21.644 --> 00:05:25.963
+part of this community coming up and challenging the old
+
+90
+00:05:25.975 --> 00:05:30.259
+notions in our work. What um Jim and I
+
+91
+00:05:30.269 --> 00:05:33.319
+did was thought about groups of learners who are getting
+
+92
+00:05:33.329 --> 00:05:36.298
+evidence from the world. So we built these models
+
+93
+00:05:36.309 --> 00:05:40.699
+of individuals who can gather evidence and share evidence.
+
+94
+00:05:41.100 --> 00:05:43.939
+And we asked, would they get better or worse
+
+95
+00:05:43.949 --> 00:05:46.509
+at learning if we made them want to conform?
+
+96
+00:05:46.600 --> 00:05:48.858
+And the way we included conformity in the model is
+
+97
+00:05:48.869 --> 00:05:50.720
+we assumed all the agents are in a network.
+
+98
+00:05:50.730 --> 00:05:54.920
+So this is something that represents their social connections.
+
+99
+00:05:54.928 --> 00:05:57.559
+Each node in the network is an individual and then
+
+100
+00:05:57.569 --> 00:06:00.319
+each link between them is like a social tie.
+
+101
+00:06:00.088 --> 00:06:04.869
+And so our agents um in deciding what evidence to
+
+102
+00:06:04.879 --> 00:06:08.730
+gather and what actions to take, they would both
+
+103
+00:06:08.738 --> 00:06:11.449
+take evidence that they had gathered or seen in the
+
+104
+00:06:11.459 --> 00:06:14.139
+past, but they would also think about what their
+
+105
+00:06:14.149 --> 00:06:15.278
+neighbors were doing. So, for example, if
+
+106
+00:06:15.290 --> 00:06:18.449
+I had a lot of evidence that say the COVID
+
+107
+00:06:18.459 --> 00:06:21.850
+vaccine is relatively low risk, but I had a
+
+108
+00:06:21.858 --> 00:06:26.259
+lot of neighbors who were not getting vaccinated. In
+
+109
+00:06:26.269 --> 00:06:28.970
+this model, I might choose not to get vaccinated
+
+110
+00:06:28.980 --> 00:06:30.720
+because I prefer to conform with neighbors. And then
+
+111
+00:06:30.730 --> 00:06:33.588
+we ask, how does that impact learning and decision
+
+112
+00:06:33.600 --> 00:06:35.338
+making in the group? And then these models,
+
+113
+00:06:35.350 --> 00:06:40.048
+we found that on average conformity would tend to make
+
+114
+00:06:40.059 --> 00:06:43.939
+the group worse at learning and individuals more likely to
+
+115
+00:06:43.949 --> 00:06:46.649
+take bad actions. And there were a couple of
+
+116
+00:06:46.660 --> 00:06:50.100
+reasons for that. So one thing is that conformity
+
+117
+00:06:50.108 --> 00:06:54.720
+would stop individuals from sharing good evidence. So say
+
+118
+00:06:54.730 --> 00:06:57.678
+, I think personally that vaccines are safe and I
+
+119
+00:06:57.689 --> 00:07:00.178
+have good evidence that that's the case. But I'm
+
+120
+00:07:00.189 --> 00:07:02.309
+with a bunch of people who aren't getting vaccinated if
+
+121
+00:07:02.319 --> 00:07:04.798
+I conform to them, I never tell them about
+
+122
+00:07:04.809 --> 00:07:06.959
+my good evidence. I never get vaccinated and let
+
+123
+00:07:06.970 --> 00:07:10.298
+them see what happens. So you create these kind
+
+124
+00:07:10.309 --> 00:07:14.178
+of information bottlenecks where good information isn't flowing in the
+
+125
+00:07:14.189 --> 00:07:18.750
+network, but the science or uh the science tend
+
+126
+00:07:18.759 --> 00:07:23.959
+to be a conservative enterprise. And if so,
+
+127
+00:07:23.970 --> 00:07:29.019
+what does that mean exactly within the domain of science
+
+128
+00:07:29.028 --> 00:07:33.600
+to be conservative? Yeah, that's a really um
+
+129
+00:07:33.608 --> 00:07:36.480
+a big question and I think a really hard one
+
+130
+00:07:36.488 --> 00:07:43.750
+to answer. So some people in philosophy of science
+
+131
+00:07:43.759 --> 00:07:47.519
+worry about conservatism in science and when they talk about
+
+132
+00:07:47.528 --> 00:07:49.519
+that. So this isn't, this is something I've
+
+133
+00:07:49.528 --> 00:07:51.028
+written a little bit on, but it's not like
+
+134
+00:07:51.040 --> 00:07:54.500
+a central topic for me. So just keep that
+
+135
+00:07:54.509 --> 00:07:58.439
+in mind when they talk about that. Um Usually
+
+136
+00:07:58.449 --> 00:08:01.588
+what they mean is something like there are forces or
+
+137
+00:08:01.600 --> 00:08:05.028
+structures in science that keep scientists working on the same
+
+138
+00:08:05.040 --> 00:08:09.040
+kinds of problems or keep them from, for example
+
+139
+00:08:09.910 --> 00:08:13.000
+, looking at questions that are too weird or too
+
+140
+00:08:13.009 --> 00:08:16.470
+outside the norm or that are, for example,
+
+141
+00:08:16.480 --> 00:08:18.619
+high risk, high reward or that are sometimes people
+
+142
+00:08:18.629 --> 00:08:24.509
+call it mavericky or um just more unusual. And
+
+143
+00:08:24.519 --> 00:08:28.569
+so a lot of people argue that there are forces
+
+144
+00:08:28.579 --> 00:08:31.428
+that kind of keep scientists from doing stuff that's too
+
+145
+00:08:31.438 --> 00:08:35.077
+different or too unusual. And sometimes people argue that
+
+146
+00:08:35.087 --> 00:08:39.609
+that's a bad thing that um what you want across
+
+147
+00:08:39.619 --> 00:08:41.697
+a community of science is to have at least a
+
+148
+00:08:41.707 --> 00:08:45.489
+good handful of people working on topics that maybe don't
+
+149
+00:08:45.499 --> 00:08:50.149
+seem right or hypotheses that people don't currently believe or
+
+150
+00:08:50.158 --> 00:08:52.739
+things that seem risky or strange. And if you
+
+151
+00:08:52.750 --> 00:08:54.840
+have that handful of people, maybe most of them
+
+152
+00:08:54.849 --> 00:08:58.119
+fail, but some of them do succeed. And
+
+153
+00:08:58.129 --> 00:09:01.678
+in doing so might discover things that are really unusual
+
+154
+00:09:01.690 --> 00:09:05.119
+or sort of revolutionize a science. So that's why
+
+155
+00:09:05.129 --> 00:09:07.658
+a lot of people are like, conservatism could be
+
+156
+00:09:07.668 --> 00:09:11.168
+bad in science. Um The different arguments I've heard
+
+157
+00:09:11.178 --> 00:09:15.029
+about like why you see conservatism in science are things
+
+158
+00:09:15.038 --> 00:09:20.269
+like uh well, increasingly the age of scientific investigators
+
+159
+00:09:20.279 --> 00:09:22.849
+is going up, increasingly it takes longer and longer
+
+160
+00:09:22.859 --> 00:09:24.558
+to get to the position where you're the head of
+
+161
+00:09:24.570 --> 00:09:26.779
+a lab and you might just be indoctrinated for a
+
+162
+00:09:26.788 --> 00:09:30.210
+very long time within a field before you're the one
+
+163
+00:09:30.219 --> 00:09:35.080
+picking the research choices. Um People argue that uh
+
+164
+00:09:35.090 --> 00:09:39.200
+grant giving agencies are inherently conservative because they're trying to
+
+165
+00:09:39.210 --> 00:09:41.058
+get these good outcomes. And so they tend to
+
+166
+00:09:41.070 --> 00:09:43.619
+give money to, to projects that look more safe
+
+167
+00:09:43.629 --> 00:09:48.658
+, more dependable, more reliable. Um Some agencies
+
+168
+00:09:48.070 --> 00:09:50.908
+have set up these sort of high risk, high
+
+169
+00:09:50.918 --> 00:09:52.849
+reward special grants to try to push against that.
+
+170
+00:09:54.899 --> 00:09:58.879
+I wrote this one paper that modeled scientific communities and
+
+171
+00:09:58.889 --> 00:10:01.649
+asked, OK, what would be the conditions under
+
+172
+00:10:01.658 --> 00:10:07.080
+which we'd expect conservative science to spread as people train
+
+173
+00:10:07.090 --> 00:10:09.320
+their students and then those students get jobs. And
+
+174
+00:10:09.330 --> 00:10:13.489
+the argument I made in that paper is that while
+
+175
+00:10:13.500 --> 00:10:18.330
+conservative science tends to be more like less risky,
+
+176
+00:10:18.450 --> 00:10:20.609
+you know, that you're gonna be able to get
+
+177
+00:10:20.619 --> 00:10:24.739
+some discovery and publish it compared to something that's more
+
+178
+00:10:24.750 --> 00:10:28.928
+high risk where maybe you're gonna get a huge payoff
+
+179
+00:10:28.940 --> 00:10:30.479
+, but maybe it's just not gonna turn out to
+
+180
+00:10:30.489 --> 00:10:33.869
+be anything interesting at all. Um And so in
+
+181
+00:10:33.879 --> 00:10:35.820
+my models, I made that assumption and I found
+
+182
+00:10:35.830 --> 00:10:39.090
+that often, in fact, high risk science would
+
+183
+00:10:39.099 --> 00:10:43.879
+be likely to spread because the people doing it are
+
+184
+00:10:43.889 --> 00:10:46.580
+getting these really high payoffs. They become, who
+
+185
+00:10:46.590 --> 00:10:48.739
+succeed, are getting these really high payoffs, they
+
+186
+00:10:48.750 --> 00:10:50.969
+become famous, their students can get jobs. But
+
+187
+00:10:50.979 --> 00:10:54.590
+the problem with that is that it's often hard to
+
+188
+00:10:54.599 --> 00:10:56.469
+repeat. So on the assumption that if I'm a
+
+189
+00:10:56.479 --> 00:10:58.450
+sort of risk taking scientist and I happen to be
+
+190
+00:10:58.460 --> 00:11:01.889
+successful, my students, if they try to take
+
+191
+00:11:01.899 --> 00:11:03.979
+risks, may or may not be, I find
+
+192
+00:11:03.989 --> 00:11:07.408
+that in those cases, conservatism can kind of dominate
+
+193
+00:11:07.418 --> 00:11:11.668
+in science. And I imagine that in this case
+
+194
+00:11:11.678 --> 00:11:16.649
+, it's high risk because it might imply several different
+
+195
+00:11:16.658 --> 00:11:20.950
+sorts of potential damage, like reputation damage and in
+
+196
+00:11:20.960 --> 00:11:24.759
+the extreme, perhaps losing one's own uh career and
+
+197
+00:11:24.769 --> 00:11:28.969
+academic credibility. I guess there can be those kinds
+
+198
+00:11:28.979 --> 00:11:31.219
+of risks and there can also just be the risk
+
+199
+00:11:31.229 --> 00:11:33.639
+that you spend a lot of time and effort on
+
+200
+00:11:33.649 --> 00:11:37.239
+some project and then you just don't get anything out
+
+201
+00:11:37.250 --> 00:11:39.058
+at the end. So for example, if you
+
+202
+00:11:39.070 --> 00:11:41.178
+think about someone who's trying to get tenure in an
+
+203
+00:11:41.190 --> 00:11:45.739
+academic system, they have to publish before the tenure
+
+204
+00:11:45.750 --> 00:11:46.908
+clock runs out. So if you take on a
+
+205
+00:11:46.918 --> 00:11:50.739
+project that like maybe it's gonna turn out great,
+
+206
+00:11:50.019 --> 00:11:52.168
+but there's a pretty good chance the whole project is
+
+207
+00:11:52.178 --> 00:11:56.178
+gonna fail, you can see why that might be
+
+208
+00:11:56.389 --> 00:12:00.590
+a bad choice for that individual. But these are
+
+209
+00:12:00.599 --> 00:12:03.750
+not easy problem. Uh These, these problems are
+
+210
+00:12:03.759 --> 00:12:05.279
+not easy to navigate, right? Because on the
+
+211
+00:12:05.288 --> 00:12:11.099
+one hand, it's understandable that uh looking at the
+
+212
+00:12:11.109 --> 00:12:15.308
+whole system, uh many times it's not worth it
+
+213
+00:12:15.320 --> 00:12:20.009
+to waste resources on research or ideas that won't produce
+
+214
+00:12:20.019 --> 00:12:22.489
+anything. Of course, I, I imagine that
+
+215
+00:12:22.649 --> 00:12:26.399
+it's hard before and to really know for sure what
+
+216
+00:12:26.408 --> 00:12:30.710
+would be wasteful or not. Uh, but on
+
+217
+00:12:30.719 --> 00:12:33.303
+the other hand, uh, we also very much
+
+218
+00:12:33.315 --> 00:12:37.024
+need, at least sometimes, uh, people who
+
+219
+00:12:37.033 --> 00:12:41.183
+think a little bit more outside of the box to
+
+220
+00:12:41.195 --> 00:12:43.433
+push the fields forward. Right. Yeah, that's
+
+221
+00:12:43.445 --> 00:12:45.984
+right. And I think, you know, say
+
+222
+00:12:45.994 --> 00:12:48.565
+you're the National Science Foundation in the US or say
+
+223
+00:12:48.575 --> 00:12:52.585
+you're, um, an eu grant giving body,
+
+224
+00:12:52.769 --> 00:12:58.349
+you're giving these grants, you are paid by tax
+
+225
+00:12:58.359 --> 00:13:01.190
+dollars and run through a government. And so you
+
+226
+00:13:01.200 --> 00:13:03.369
+need to justify to the people of, you know
+
+227
+00:13:03.379 --> 00:13:07.899
+, your country or your institution, why you're giving
+
+228
+00:13:07.908 --> 00:13:09.859
+the grants you're giving and what they're for. And
+
+229
+00:13:09.869 --> 00:13:11.899
+sometimes I think it can be really hard to say
+
+230
+00:13:11.908 --> 00:13:15.830
+like there was a good reason why we gave a
+
+231
+00:13:15.840 --> 00:13:16.759
+grant to this person who's doing this thing that sounds
+
+232
+00:13:16.769 --> 00:13:20.918
+kind of wacky or out there. Um And so
+
+233
+00:13:22.769 --> 00:13:26.989
+that I think there are like these very practical reasons
+
+234
+00:13:26.000 --> 00:13:31.038
+why you wouldn't necessarily want to support higher risk science
+
+235
+00:13:31.048 --> 00:13:31.989
+, even if you can make the argument like,
+
+236
+00:13:33.000 --> 00:13:35.239
+ok, but across a whole body of scientists,
+
+237
+00:13:35.250 --> 00:13:37.129
+we want to have at least some people doing this
+
+238
+00:13:37.139 --> 00:13:39.399
+higher risk stuff. Uh One of my colleagues,
+
+239
+00:13:39.408 --> 00:13:45.009
+Kyle Stanford has argued that um you know, changes
+
+240
+00:13:45.019 --> 00:13:48.418
+in funding, like have promoted conservatism in part because
+
+241
+00:13:48.658 --> 00:13:52.070
+when you had a good number of like independently wealthy
+
+242
+00:13:52.080 --> 00:13:54.529
+scientists, they could just do whatever they wanted,
+
+243
+00:13:54.538 --> 00:13:56.969
+right? Like they, you know, they didn't
+
+244
+00:13:56.979 --> 00:14:00.298
+have to answer to anybody if they think, like
+
+245
+00:14:00.389 --> 00:14:01.450
+, well, tomorrow I'm gonna go look at all
+
+246
+00:14:01.460 --> 00:14:05.379
+the earthworms all over England. Like Charles Darwin did
+
+247
+00:14:07.229 --> 00:14:09.308
+. Who's gonna say no? Yeah. Yeah.
+
+248
+00:14:09.788 --> 00:14:11.969
+Yeah. That, that was exactly one of the
+
+249
+00:14:11.979 --> 00:14:15.219
+things that was coming to my mind while you were
+
+250
+00:14:15.229 --> 00:14:16.229
+speaking because, uh, I mean, of course
+
+251
+00:14:16.239 --> 00:14:22.019
+, historically, we know that most of the people
+
+252
+00:14:22.029 --> 00:14:26.239
+who made a scientific progress were usually very, very
+
+253
+00:14:26.250 --> 00:14:30.359
+wealthy people, or at least people with, with
+
+254
+00:14:30.590 --> 00:14:33.340
+good enough, uh, monetary resources and other kinds
+
+255
+00:14:33.349 --> 00:14:37.788
+of resources to devote their time and they didn't have
+
+256
+00:14:37.798 --> 00:14:43.599
+to answer to anybody but mo for the most part
+
+257
+00:14:43.779 --> 00:14:46.349
+, uh, and they could dedicate as much time
+
+258
+00:14:46.359 --> 00:14:48.239
+as they wanted and as long as they wanted to
+
+259
+00:14:48.428 --> 00:14:52.639
+study any kind of subject like Charles Darwin in the
+
+260
+00:14:52.649 --> 00:14:54.440
+, in the 19th century. And I guess that
+
+261
+00:14:54.450 --> 00:15:00.609
+also to some extent, Einstein in the 20th century
+
+262
+00:15:00.619 --> 00:15:01.940
+. But, uh, I mean, um,
+
+263
+00:15:03.820 --> 00:15:07.320
+uh, uh, those were on the one hand
+
+264
+00:15:07.330 --> 00:15:09.759
+, lucky people and on the other hand, uh
+
+265
+00:15:09.769 --> 00:15:11.570
+, privileged people. And on the other hand,
+
+266
+00:15:11.580 --> 00:15:16.399
+I mean, if we are to really push science
+
+267
+00:15:16.408 --> 00:15:20.808
+forward more rapidly and involving more people, which I
+
+268
+00:15:20.820 --> 00:15:26.710
+imagine it's better than just rely on perhaps a handful
+
+269
+00:15:26.719 --> 00:15:31.090
+of lucky geniuses or something like that, uh,
+
+270
+00:15:31.099 --> 00:15:33.940
+I, I mean, it, it's not really
+
+271
+00:15:33.950 --> 00:15:39.369
+feasible to wait for that kind of thing to happen
+
+272
+00:15:39.009 --> 00:15:41.928
+. Right. No, I think, you know
+
+273
+00:15:41.940 --> 00:15:43.418
+, another point which a lot of people have made
+
+274
+00:15:43.428 --> 00:15:46.210
+and seems right? Also is that when we're thinking
+
+275
+00:15:46.219 --> 00:15:50.759
+about this desire to have science as a group working
+
+276
+00:15:50.769 --> 00:15:52.889
+on many, many different types of topics, um
+
+277
+00:15:54.558 --> 00:15:56.048
+like another way that you get that is by drawing
+
+278
+00:15:56.058 --> 00:16:00.450
+on different kinds of people with different backgrounds and concerns
+
+279
+00:16:00.460 --> 00:16:03.739
+. So in some way, like being, you
+
+280
+00:16:03.750 --> 00:16:04.629
+know, whatever a wealthy gentleman means, you have
+
+281
+00:16:04.639 --> 00:16:07.739
+all the freedom to work on whatever wacky thing you
+
+282
+00:16:07.750 --> 00:16:10.058
+want. But it was also the case that historically
+
+283
+00:16:10.070 --> 00:16:11.700
+in science, especially if we're looking at like Western
+
+284
+00:16:11.710 --> 00:16:15.729
+science since the scientific revolution. Well, it's like
+
+285
+00:16:15.739 --> 00:16:18.815
+a lot of wealthy, independent white European and men
+
+286
+00:16:18.825 --> 00:16:22.955
+, right? And so there's not as much diversity
+
+287
+00:16:22.965 --> 00:16:25.173
+as a perspective as you would see in a lot
+
+288
+00:16:25.183 --> 00:16:27.494
+of scientific communities now. And so people also think
+
+289
+00:16:27.504 --> 00:16:30.705
+, well, that kind of diversity of perspective is
+
+290
+00:16:30.715 --> 00:16:33.844
+another source for new ideas, different ideas, ideas
+
+291
+00:16:33.854 --> 00:16:38.099
+that will push science forward. Yeah. Also because
+
+292
+00:16:38.109 --> 00:16:41.739
+uh I don't know if this is something that you
+
+293
+00:16:41.750 --> 00:16:45.080
+look into specifically. But over the years I've been
+
+294
+00:16:45.090 --> 00:16:48.379
+talking on the show with um for example, cultural
+
+295
+00:16:48.389 --> 00:16:52.519
+psychologists and cognitive scientists and uh even people that come
+
+296
+00:16:52.529 --> 00:16:57.869
+from different cultural backgrounds tend to think about things in
+
+297
+00:16:57.879 --> 00:17:03.009
+different ways. And it's very much valuable to science
+
+298
+00:17:03.019 --> 00:17:07.828
+to have people with different cultural backgrounds and coming to
+
+299
+00:17:07.838 --> 00:17:11.709
+the table with different uh cognitions, I guess.
+
+300
+00:17:12.289 --> 00:17:15.549
+Yeah. And I think there's a lot of examples
+
+301
+00:17:15.559 --> 00:17:18.309
+from the history of science that demonstrate how that can
+
+302
+00:17:18.318 --> 00:17:22.640
+can be beneficial. Uh So since we're talking about
+
+303
+00:17:22.650 --> 00:17:26.630
+science, from the perspective of uh game theory or
+
+304
+00:17:26.640 --> 00:17:30.769
+trying to understand science through game theory or more specifically
+
+305
+00:17:30.779 --> 00:17:36.088
+evolutionary game theory, uh is the scientific community also
+
+306
+00:17:36.098 --> 00:17:41.890
+a population that undergoes selection, I think it can
+
+307
+00:17:41.900 --> 00:17:45.390
+be thought of that way. So there's been this
+
+308
+00:17:45.400 --> 00:17:52.039
+kind of handful of people using evolutionary models to think
+
+309
+00:17:52.439 --> 00:17:57.239
+about scientific communities. So the idea of thinking about
+
+310
+00:17:57.250 --> 00:18:02.358
+science as an evolutionary system goes back like much further
+
+311
+00:18:02.368 --> 00:18:03.328
+. So for example, David Hall wrote this very
+
+312
+00:18:03.338 --> 00:18:07.039
+influential book where he was thinking about the evolution of
+
+313
+00:18:07.049 --> 00:18:08.078
+science, but he was thinking of the units more
+
+314
+00:18:08.170 --> 00:18:11.269
+or as ideas where the ideas themselves are being selected
+
+315
+00:18:11.279 --> 00:18:15.680
+and changed. Whereas recently, a bunch of people
+
+316
+00:18:15.689 --> 00:18:18.729
+have been writing papers where the units are scientists and
+
+317
+00:18:18.739 --> 00:18:22.049
+you can ask questions like who remains within a scientific
+
+318
+00:18:22.059 --> 00:18:26.709
+community and why um given that scientists are using different
+
+319
+00:18:26.719 --> 00:18:29.328
+sorts of approaches, what approaches will tend to stay
+
+320
+00:18:29.338 --> 00:18:32.150
+in the community, what approaches will tend to spread
+
+321
+00:18:32.449 --> 00:18:33.828
+, uh which ones will be more prominent and so
+
+322
+00:18:33.838 --> 00:18:37.608
+will be copied more. And you know, this
+
+323
+00:18:37.618 --> 00:18:41.170
+isn't, it's not like um this is entirely novel
+
+324
+00:18:41.180 --> 00:18:44.229
+, you know, there's this whole field of cultural
+
+325
+00:18:44.239 --> 00:18:47.368
+evolutionary theory which thinks about how do we take evolutionary
+
+326
+00:18:47.380 --> 00:18:51.279
+theory and apply it to human practices and norms and
+
+327
+00:18:51.289 --> 00:18:53.640
+actions and beliefs and systems. And so you can
+
+328
+00:18:53.650 --> 00:18:56.338
+do the same thing within science. It, it
+
+329
+00:18:56.348 --> 00:19:00.368
+, time I think pretty successfully. Mhm. Bicultural
+
+330
+00:19:00.380 --> 00:19:04.160
+evolutionary theory, you mean, uh, the work
+
+331
+00:19:04.170 --> 00:19:08.098
+, uh, been being done by people like Robert
+
+332
+00:19:08.108 --> 00:19:11.769
+Boyd, Peter Richardson, Joe Eric and perhaps,
+
+333
+00:19:11.979 --> 00:19:15.078
+uh, more on the side of the Parisian school
+
+334
+00:19:15.088 --> 00:19:18.670
+than Spur, I mean, people like that.
+
+335
+00:19:18.199 --> 00:19:21.088
+Yeah, those are a bunch of the, like
+
+336
+00:19:21.098 --> 00:19:23.269
+, most prominent people doing cultural evolutionary theory though.
+
+337
+00:19:23.279 --> 00:19:26.578
+There's actually, there's a lot of threads of it
+
+338
+00:19:26.588 --> 00:19:27.759
+, you know, there's um people who do more
+
+339
+00:19:27.769 --> 00:19:30.969
+game theoretic approaches, people who do other types of
+
+340
+00:19:30.979 --> 00:19:33.390
+different sorts of approaches. There's a lot of uh
+
+341
+00:19:33.400 --> 00:19:37.779
+work in anthropology on cultural evolutionary theory that's less modeling
+
+342
+00:19:37.789 --> 00:19:42.618
+, more empirical. Um It's a thoroughly interdisciplinary area
+
+343
+00:19:42.630 --> 00:19:45.989
+. And so you have all these kind of different
+
+344
+00:19:45.140 --> 00:19:49.358
+paradigms or frameworks for thinking about cultural evolution. Yeah
+
+345
+00:19:49.368 --> 00:19:52.358
+. I it in fact, integrates a lot of
+
+346
+00:19:52.368 --> 00:19:56.180
+different things. There are people that work uh with
+
+347
+00:19:56.189 --> 00:20:02.068
+everything from evolutionary psychology to anthropology, cultural evolution,
+
+348
+00:20:02.170 --> 00:20:06.939
+human ecology. Basically they apply all of those tools
+
+349
+00:20:07.189 --> 00:20:10.799
+in cultural evolutionary theory, right? Yeah, that's
+
+350
+00:20:10.959 --> 00:20:14.838
+right. So uh let me ask you about another
+
+351
+00:20:14.848 --> 00:20:18.910
+topic regarding science just before we move on to other
+
+352
+00:20:18.920 --> 00:20:23.598
+subjects. So, um there are scientific retraction sometimes
+
+353
+00:20:23.608 --> 00:20:29.279
+uh when it happens, does it usually work or
+
+354
+00:20:29.289 --> 00:20:33.430
+not? Uh So this is I I take it
+
+355
+00:20:33.439 --> 00:20:34.309
+you're asking this question because I have this paper on
+
+356
+00:20:34.318 --> 00:20:38.568
+scientific retraction. Um This is a topic that has
+
+357
+00:20:38.578 --> 00:20:41.910
+been really interesting to me because, you know,
+
+358
+00:20:41.920 --> 00:20:45.380
+we think of science as this kind of, you
+
+359
+00:20:45.390 --> 00:20:48.650
+know, we would want science to be an ideal
+
+360
+00:20:48.660 --> 00:20:49.799
+community of learners, right? And that's what science
+
+361
+00:20:49.809 --> 00:20:52.479
+is trying to be a group of people who are
+
+362
+00:20:52.489 --> 00:20:56.219
+using the best methods, the best practices available to
+
+363
+00:20:56.229 --> 00:20:59.489
+learn about the world and develop good beliefs about the
+
+364
+00:20:59.500 --> 00:21:03.608
+world. And like science is pretty successful in doing
+
+365
+00:21:03.618 --> 00:21:06.000
+that. But of course, there are, it's
+
+366
+00:21:06.009 --> 00:21:07.019
+, it's all it's people in the end. So
+
+367
+00:21:07.029 --> 00:21:11.000
+it's not gonna be perfect. So one thing that's
+
+368
+00:21:11.009 --> 00:21:15.199
+been really widely observed in people who do empirical studies
+
+369
+00:21:15.209 --> 00:21:18.729
+of scientific communities is that retractions often fail or aren't
+
+370
+00:21:18.739 --> 00:21:23.838
+fully successful. So maybe someone um uh is caught
+
+371
+00:21:23.848 --> 00:21:27.180
+having committed fraud and some of their papers are retracted
+
+372
+00:21:27.420 --> 00:21:30.769
+often if you look later at those papers, they're
+
+373
+00:21:30.779 --> 00:21:33.680
+being cited in the literature and they're not being cited
+
+374
+00:21:33.689 --> 00:21:37.848
+as retracted or fraudulent papers, they're just being cited
+
+375
+00:21:37.858 --> 00:21:40.140
+sort of straightforward by people who don't know that they've
+
+376
+00:21:40.150 --> 00:21:41.848
+actually been retracted. And so this happens kind of
+
+377
+00:21:41.858 --> 00:21:45.098
+again and again and again. Um and then related
+
+378
+00:21:45.108 --> 00:21:48.779
+to that, I think you see similar things happening
+
+379
+00:21:48.789 --> 00:21:51.598
+outside of science just in broader societies. So for
+
+380
+00:21:51.608 --> 00:21:56.009
+example, during the COVID-19 pandemic, it happened dozens
+
+381
+00:21:56.019 --> 00:21:59.858
+of times that there would be some uh scientific claim
+
+382
+00:21:59.868 --> 00:22:03.578
+shared by journalists, you know, for example,
+
+383
+00:22:03.588 --> 00:22:07.420
+uh there was this very influential early study done in
+
+384
+00:22:07.430 --> 00:22:11.608
+Northern California that um claimed that the fatality rate of
+
+385
+00:22:11.618 --> 00:22:15.140
+COVID was much lower than it actually is that study
+
+386
+00:22:15.150 --> 00:22:18.779
+was really widely cited, uh turned out they had
+
+387
+00:22:18.789 --> 00:22:22.130
+, had an error in their initial reprint that they
+
+388
+00:22:22.140 --> 00:22:27.009
+quickly fixed, but their initial numbers propagated pretty far
+
+389
+00:22:27.019 --> 00:22:30.338
+. And I don't think the like report of the
+
+390
+00:22:30.348 --> 00:22:33.789
+error and the proper numbers propagated nearly as far.
+
+391
+00:22:33.799 --> 00:22:36.750
+Right. So people didn't get the message that their
+
+392
+00:22:36.759 --> 00:22:38.618
+initial numbers were wrong and in fact, underestimated the
+
+393
+00:22:38.630 --> 00:22:42.750
+fatality. Right. So that's another kind of instance
+
+394
+00:22:42.759 --> 00:22:45.750
+, they're both instances where you have these scientific claims
+
+395
+00:22:47.059 --> 00:22:52.189
+that have like viability legitimacy, they spread in social
+
+396
+00:22:52.199 --> 00:22:55.959
+networks when they are reversed or known to be false
+
+397
+00:22:56.390 --> 00:22:59.279
+. Not everyone finds out that they would were false
+
+398
+00:22:59.459 --> 00:23:02.640
+who initially found out about this claim. So some
+
+399
+00:23:02.650 --> 00:23:07.410
+co-author um Anders Guy and Travis Laquan and I built
+
+400
+00:23:07.420 --> 00:23:08.699
+models where we would have a network and we would
+
+401
+00:23:08.709 --> 00:23:11.449
+have something like a false claim spreading in the network
+
+402
+00:23:11.459 --> 00:23:15.838
+and then we'd introduce a retraction and let that spread
+
+403
+00:23:15.848 --> 00:23:17.130
+as well. And we would ask, well,
+
+404
+00:23:17.140 --> 00:23:18.338
+what are the situations where people find out about the
+
+405
+00:23:18.348 --> 00:23:21.519
+retraction? When do they continue to hold the false
+
+406
+00:23:21.529 --> 00:23:23.130
+belief, et cetera? Um And we found that
+
+407
+00:23:23.140 --> 00:23:25.969
+in a lot of cases, people would just hold
+
+408
+00:23:25.979 --> 00:23:27.078
+the false belief as an accident of history. You
+
+409
+00:23:27.088 --> 00:23:30.799
+know, you have these things spreading from person to
+
+410
+00:23:30.809 --> 00:23:33.469
+person. And so some people just get the false
+
+411
+00:23:33.479 --> 00:23:34.868
+thing and they never hear about the true thing.
+
+412
+00:23:34.880 --> 00:23:38.500
+It's just what happens randomly, right? Because of
+
+413
+00:23:38.509 --> 00:23:41.890
+chance. But we found some things like would influence
+
+414
+00:23:41.900 --> 00:23:45.140
+how often that happened. So for example, we
+
+415
+00:23:45.150 --> 00:23:49.269
+found that retractions or reversals that are instigated by the
+
+416
+00:23:49.279 --> 00:23:52.949
+original source are much more successful. So if I'm
+
+417
+00:23:52.959 --> 00:23:55.789
+hearing the network and I say something false, it
+
+418
+00:23:55.799 --> 00:23:56.848
+starts to spread. If I say oops, that
+
+419
+00:23:56.858 --> 00:24:00.250
+was false, that spreads to the same people and
+
+420
+00:24:00.259 --> 00:24:02.809
+they care about that. But if some other person
+
+421
+00:24:02.818 --> 00:24:03.608
+is like, no, they're wrong and they're not
+
+422
+00:24:03.618 --> 00:24:07.640
+sort of connected to the people finding out about this
+
+423
+00:24:07.650 --> 00:24:10.309
+false thing in the first place. People don't care
+
+424
+00:24:10.318 --> 00:24:11.189
+as much about this retraction, right? So they're
+
+425
+00:24:11.199 --> 00:24:14.989
+the right people who hold false beliefs aren't finding out
+
+426
+00:24:15.000 --> 00:24:17.630
+they're wrong. So that was one thing. Another
+
+427
+00:24:17.640 --> 00:24:21.150
+thing is that weirdly like very prominent false beliefs were
+
+428
+00:24:21.160 --> 00:24:26.078
+often more reversible because, you know, imagine,
+
+429
+00:24:26.088 --> 00:24:27.459
+um some study that turns out to be wrong but
+
+430
+00:24:27.469 --> 00:24:30.719
+nobody knows about it. Well, someone comes and
+
+431
+00:24:30.729 --> 00:24:32.838
+says this was wrong. Well, nobody cares.
+
+432
+00:24:32.848 --> 00:24:34.439
+Right. So there aren't that many people to spread
+
+433
+00:24:34.449 --> 00:24:38.029
+the retraction. Whereas a very prominent false belief,
+
+434
+00:24:38.039 --> 00:24:41.439
+if someone shows that it's wrong, there's a lot
+
+435
+00:24:41.449 --> 00:24:45.088
+of people to spread the retraction to spread that it
+
+436
+00:24:45.098 --> 00:24:47.229
+was wrong. So we found in our models that
+
+437
+00:24:47.239 --> 00:24:52.019
+sometimes uh some false belief being really widely held meant
+
+438
+00:24:52.029 --> 00:24:56.029
+that it was easier to reverse. Mhm. And
+
+439
+00:24:56.039 --> 00:25:00.000
+I mean, if that happens, um would you
+
+440
+00:25:00.009 --> 00:25:04.180
+have any suggestions as to how people should deal with
+
+441
+00:25:04.189 --> 00:25:07.900
+it? I mean, when the paper gets retracted
+
+442
+00:25:07.019 --> 00:25:11.219
+. If for some reason, there are some people
+
+443
+00:25:11.229 --> 00:25:15.410
+out there that never get to learn that it was
+
+444
+00:25:15.420 --> 00:25:19.618
+retracted and keep citing it in their own papers.
+
+445
+00:25:19.868 --> 00:25:25.858
+What would be perhaps good solutions to try to deal
+
+446
+00:25:25.868 --> 00:25:29.719
+with that? If we're talking about within science,
+
+447
+00:25:29.729 --> 00:25:33.259
+there are some things that we recommend that um other
+
+448
+00:25:33.269 --> 00:25:34.910
+people have talked about too. So one thing is
+
+449
+00:25:34.920 --> 00:25:40.289
+that authors and journals aren't usually incentivized to talk about
+
+450
+00:25:40.299 --> 00:25:42.430
+something being retracted because who wants to say like I
+
+451
+00:25:42.439 --> 00:25:45.578
+was wrong or we published a paper where the person
+
+452
+00:25:45.588 --> 00:25:51.209
+committed fraud. Uh So especially with journals, a
+
+453
+00:25:51.219 --> 00:25:52.689
+lot of them are not very active about sharing that
+
+454
+00:25:52.699 --> 00:25:55.809
+something's been retracted. You know, they're not like
+
+455
+00:25:55.818 --> 00:26:00.449
+splashing it on their front page. Uh They're often
+
+456
+00:26:00.459 --> 00:26:04.439
+not even like making a very clear sort of retraction
+
+457
+00:26:04.449 --> 00:26:07.759
+statement on the page where it might be linked.
+
+458
+00:26:07.769 --> 00:26:10.078
+Sometimes you'll just see ones where it just says retract
+
+459
+00:26:10.088 --> 00:26:11.098
+in like a tiny little word. So I think
+
+460
+00:26:11.108 --> 00:26:15.358
+journals should be much more active about communicating about retraction
+
+461
+00:26:15.640 --> 00:26:19.559
+. Um Search engines like Google scholar should be much
+
+462
+00:26:19.568 --> 00:26:22.920
+better about making clear when things are retracted. Like
+
+463
+00:26:22.930 --> 00:26:23.828
+have a big note on the top of a paper
+
+464
+00:26:23.838 --> 00:26:26.439
+when you search it saying that it's been retracted.
+
+465
+00:26:26.910 --> 00:26:33.630
+Um As much as possible individuals when they're being responsible
+
+466
+00:26:33.640 --> 00:26:36.189
+should share when they were wrong or when they cited
+
+467
+00:26:36.199 --> 00:26:37.118
+something wrong. But of course, it's hard to
+
+468
+00:26:37.130 --> 00:26:41.150
+get people to do that uh, the other thing
+
+469
+00:26:41.160 --> 00:26:41.900
+I think would be good is, you know,
+
+470
+00:26:41.910 --> 00:26:47.559
+when academic journals publish a paper, um, you
+
+471
+00:26:47.568 --> 00:26:48.828
+know, there's a whole process of like checking over
+
+472
+00:26:48.838 --> 00:26:52.019
+that paper, if we have a database of retracted
+
+473
+00:26:52.029 --> 00:26:56.098
+articles, that would be a natural time step to
+
+474
+00:26:56.108 --> 00:26:57.549
+just compare all the citations in the paper with things
+
+475
+00:26:57.559 --> 00:27:00.739
+that have been retracted and flag ones that might be
+
+476
+00:27:00.750 --> 00:27:06.500
+false as well. Mhm. So, changing topics
+
+477
+00:27:06.509 --> 00:27:10.380
+now, I mean, I've already had many discussions
+
+478
+00:27:10.390 --> 00:27:14.838
+on the show with moral philosophers, particularly moral philosophers
+
+479
+00:27:14.848 --> 00:27:17.910
+about this, but also with uh with uh some
+
+480
+00:27:17.920 --> 00:27:23.608
+scientists is naturalism congruent with any me ethics. I
+
+481
+00:27:23.618 --> 00:27:27.578
+mean, if we, if we tackle things from
+
+482
+00:27:27.588 --> 00:27:32.439
+a naturalistic perspective, I mean, are we committing
+
+483
+00:27:32.449 --> 00:27:37.400
+ourselves necessarily to, for example, moral realism or
+
+484
+00:27:37.410 --> 00:27:44.529
+moral anti realism? Um So I, like,
+
+485
+00:27:44.689 --> 00:27:45.670
+you know, as a grad student, I co
+
+486
+00:27:45.680 --> 00:27:48.640
+wrote a paper on this with like my advisor.
+
+487
+00:27:48.650 --> 00:27:52.410
+It's not, it's not really my area of study
+
+488
+00:27:52.750 --> 00:27:53.809
+. Um I mean, I can tell you what
+
+489
+00:27:53.818 --> 00:27:56.789
+we said in that, which was something like you
+
+490
+00:27:56.799 --> 00:28:00.719
+can both have a meta ethics that's thoroughly naturalistic,
+
+491
+00:28:00.729 --> 00:28:03.630
+you know, things that like human brains evolved the
+
+492
+00:28:03.640 --> 00:28:07.108
+way they did for all of these sort of practical
+
+493
+00:28:07.118 --> 00:28:11.309
+and pragmatic reasons that evolution explains why we have the
+
+494
+00:28:11.318 --> 00:28:14.150
+moral beliefs and instincts we have. So we wanna
+
+495
+00:28:14.160 --> 00:28:15.150
+say you can hold that true and at the same
+
+496
+00:28:15.160 --> 00:28:18.858
+time be like, but I have first order moral
+
+497
+00:28:18.868 --> 00:28:21.818
+beliefs and I still gonna argue for them with all
+
+498
+00:28:21.828 --> 00:28:22.890
+the sort of force that I did before. Like
+
+499
+00:28:22.900 --> 00:28:25.400
+, I can believe all that and still think,
+
+500
+00:28:25.410 --> 00:28:27.479
+like, hurting people is wrong. And so I
+
+501
+00:28:27.489 --> 00:28:30.509
+can still argue about what we ought to do and
+
+502
+00:28:30.519 --> 00:28:33.459
+not do whether or not I have a fully naturalistic
+
+503
+00:28:33.469 --> 00:28:37.838
+picture of human morality. Mhm. Uh, ok
+
+504
+00:28:37.848 --> 00:28:41.848
+. So another topic that you've, uh, wrote
+
+505
+00:28:41.858 --> 00:28:47.068
+a bit about is perceptual categories. So, do
+
+506
+00:28:47.078 --> 00:28:49.979
+we know if they have evolved to track properties of
+
+507
+00:28:49.989 --> 00:28:53.809
+the world or not? Yeah. So this is
+
+508
+00:28:53.818 --> 00:28:56.750
+something that, um, gets into a lot of
+
+509
+00:28:56.759 --> 00:29:03.098
+like really deep discussions and debate in philosophy, philosophy
+
+510
+00:29:03.108 --> 00:29:06.680
+of perception, but also in cognitive science, I
+
+511
+00:29:06.689 --> 00:29:10.979
+mean, obviously, so we have our perceptual senses
+
+512
+00:29:11.078 --> 00:29:12.489
+to mediate our behaviors in the world, right?
+
+513
+00:29:12.500 --> 00:29:15.199
+Where organisms, our goals, I mean, when
+
+514
+00:29:15.209 --> 00:29:18.809
+I put goals, our goals as shaped by evolution
+
+515
+00:29:18.818 --> 00:29:22.868
+are to like eat, drink sleep, keep our
+
+516
+00:29:22.880 --> 00:29:26.039
+bodies alive, eventually reproduce, right? Um,
+
+517
+00:29:26.049 --> 00:29:29.680
+and maybe keep our Children alive so that they can
+
+518
+00:29:29.689 --> 00:29:32.118
+reproduce. So we have bodies that are trying to
+
+519
+00:29:32.130 --> 00:29:33.729
+do those things. Perception is useful in as much
+
+520
+00:29:33.739 --> 00:29:37.479
+as it allows us to do those things. Um
+
+521
+00:29:37.509 --> 00:29:40.289
+, so some people like Don Hoffman have made arguments
+
+522
+00:29:40.299 --> 00:29:42.420
+like, well, there's no reason to think that
+
+523
+00:29:42.430 --> 00:29:47.199
+our perception needs to accurately track the world, then
+
+524
+00:29:47.219 --> 00:29:49.039
+all it needs to do is promote our fitness.
+
+525
+00:29:49.519 --> 00:29:52.779
+And so it could be the case that it promotes
+
+526
+00:29:52.789 --> 00:29:56.910
+our fitness in ways that, um, but by
+
+527
+00:29:56.920 --> 00:30:00.979
+, you know, creating perceptual categories or perceptual experiences
+
+528
+00:30:00.989 --> 00:30:03.979
+that don't sort of glom onto the stuff that's really
+
+529
+00:30:03.989 --> 00:30:08.269
+there, the structures that really exist. Uh Now
+
+530
+00:30:08.279 --> 00:30:11.920
+I think that, and then, and he says
+
+531
+00:30:11.930 --> 00:30:14.088
+for that reason, we have no reason to think
+
+532
+00:30:14.098 --> 00:30:18.180
+that our sort of perception and our perceptual experiences is
+
+533
+00:30:18.189 --> 00:30:19.689
+anything like what the world is like or tells us
+
+534
+00:30:19.699 --> 00:30:23.088
+about what the world is like. Um so he
+
+535
+00:30:23.098 --> 00:30:27.078
+uses models to do that. I use similar models
+
+536
+00:30:27.088 --> 00:30:30.949
+to make a different argument, which is something like
+
+537
+00:30:30.250 --> 00:30:33.559
+, uh, in fact, there's plenty of reason
+
+538
+00:30:33.568 --> 00:30:34.529
+to often think that the structure of the world is
+
+539
+00:30:34.539 --> 00:30:37.500
+really important in determining how our fitness is going to
+
+540
+00:30:37.509 --> 00:30:41.838
+look like. Um, that there's at least going
+
+541
+00:30:41.848 --> 00:30:44.279
+to be some reasons why our perception needs to tell
+
+542
+00:30:44.289 --> 00:30:48.239
+us veridical or world tracking things in order for us
+
+543
+00:30:48.250 --> 00:30:52.670
+to survive. And so making the jump to,
+
+544
+00:30:52.680 --> 00:30:53.549
+like, our perception has nothing to do with the
+
+545
+00:30:53.559 --> 00:30:56.818
+world seems like much too strong of a jump to
+
+546
+00:30:56.828 --> 00:30:59.759
+me for that reason. Yeah, I, I've
+
+547
+00:30:59.769 --> 00:31:03.098
+in fact already had, uh, Doctor Hoffman twice
+
+548
+00:31:03.108 --> 00:31:03.838
+on the show and the, yes, he,
+
+549
+00:31:03.848 --> 00:31:08.578
+he has at least some compelling arguments to support his
+
+550
+00:31:08.689 --> 00:31:11.880
+position. But, uh, I mean, since
+
+551
+00:31:11.890 --> 00:31:15.108
+you come from, uh, I'm not sure if
+
+552
+00:31:15.118 --> 00:31:17.880
+you would label it the opposite place or at,
+
+553
+00:31:17.890 --> 00:31:19.979
+but at least a different place. Uh, how
+
+554
+00:31:19.989 --> 00:31:22.049
+do you look at it exactly? Do you look
+
+555
+00:31:22.059 --> 00:31:26.479
+at it through a pragmatic lens, for example,
+
+556
+00:31:26.489 --> 00:31:29.900
+since you're also coming at it from an evolutionary perspective
+
+557
+00:31:30.358 --> 00:31:34.209
+. Yeah. So um I do think of perception
+
+558
+00:31:34.219 --> 00:31:37.400
+through this kind of pragmatic lens and like an evolutionary
+
+559
+00:31:37.410 --> 00:31:40.709
+lens where I assume, you know, there's some
+
+560
+00:31:40.719 --> 00:31:44.189
+things, some structures in the world, uh there
+
+561
+00:31:44.199 --> 00:31:47.479
+are actions that would be better or worse for organisms
+
+562
+00:31:47.489 --> 00:31:49.019
+to take in the presence of these different structures.
+
+563
+00:31:49.029 --> 00:31:52.979
+So for example, if humans are in the presence
+
+564
+00:31:52.989 --> 00:31:56.420
+of blackberries eating is a good action. If they're
+
+565
+00:31:56.430 --> 00:31:59.900
+in the presence of uh juniper berries eating is not
+
+566
+00:31:59.910 --> 00:32:02.459
+such a good action. Um So there are ways
+
+567
+00:32:02.469 --> 00:32:06.338
+in which the structure of the world impacts like our
+
+568
+00:32:06.348 --> 00:32:07.689
+fitness based on how we act. So I use
+
+569
+00:32:07.699 --> 00:32:12.789
+models that assume that and then, um I ask
+
+570
+00:32:12.799 --> 00:32:14.618
+in these models, well, what, what will
+
+571
+00:32:14.630 --> 00:32:16.750
+our perceptual categories look like? And there are certain
+
+572
+00:32:16.759 --> 00:32:20.650
+kinds of things that will often be the case.
+
+573
+00:32:20.660 --> 00:32:23.729
+So part of um Dawn's argument is that, for
+
+574
+00:32:23.739 --> 00:32:30.170
+example, uh you know, there might be things
+
+575
+00:32:30.180 --> 00:32:30.920
+in the world that are different from each other and
+
+576
+00:32:30.930 --> 00:32:32.848
+we should respond to them in the same way and
+
+577
+00:32:32.858 --> 00:32:37.750
+then we can categorize them together. So maybe something
+
+578
+00:32:37.979 --> 00:32:40.459
+like a lower level animal, say a dragon fly
+
+579
+00:32:40.828 --> 00:32:44.900
+can have the same perceptual experience for many different types
+
+580
+00:32:44.910 --> 00:32:46.910
+of food because all they need to do in response
+
+581
+00:32:46.920 --> 00:32:50.900
+to that food is eat. And so their reception
+
+582
+00:32:50.910 --> 00:32:53.750
+doesn't have to disambiguate those things um, and he
+
+583
+00:32:53.759 --> 00:32:57.068
+would say, well then their perception isn't tracking the
+
+584
+00:32:57.078 --> 00:33:00.900
+world. My response would be something like there's ways
+
+585
+00:33:00.910 --> 00:33:01.608
+in which it's not tracking the world in ways in
+
+586
+00:33:01.618 --> 00:33:05.118
+which it is, you know, it is putting
+
+587
+00:33:05.130 --> 00:33:07.598
+whatever all the, I don't know what Dragonflies eat
+
+588
+00:33:07.689 --> 00:33:08.759
+, all of that kind of little bug into the
+
+589
+00:33:08.769 --> 00:33:12.910
+same edible category. Right. And all of this
+
+590
+00:33:12.920 --> 00:33:14.959
+kind of bug are in the same category. So
+
+591
+00:33:14.969 --> 00:33:19.269
+it's tracking sameness among those different food sources. It's
+
+592
+00:33:19.279 --> 00:33:21.959
+failing to track difference between them. But that doesn't
+
+593
+00:33:21.969 --> 00:33:24.199
+mean there's no sort of important correspondence between perception and
+
+594
+00:33:24.209 --> 00:33:29.858
+the world. Mhm So uh I would like to
+
+595
+00:33:29.868 --> 00:33:37.809
+ask you now about learning generalization and evolutionarily stable strategy
+
+596
+00:33:37.818 --> 00:33:42.598
+. So, and to compare them as models for
+
+597
+00:33:42.608 --> 00:33:44.818
+learning basically. So uh first of all, tell
+
+598
+00:33:44.828 --> 00:33:50.338
+us what is learning generalization. Yeah. So this
+
+599
+00:33:50.348 --> 00:33:57.039
+is a completely like ubiquitous, widespread learning behavior where
+
+600
+00:33:57.049 --> 00:34:00.118
+um so an organism encounters something in the world,
+
+601
+00:34:00.559 --> 00:34:01.789
+it learns something about it. So maybe it learns
+
+602
+00:34:01.799 --> 00:34:07.250
+like touching good eating good, avoiding good, whatever
+
+603
+00:34:07.259 --> 00:34:13.429
+it learns. Um But that learned response is not
+
+604
+00:34:13.438 --> 00:34:15.469
+just applied to that single state that the organism encountered
+
+605
+00:34:15.478 --> 00:34:19.438
+, but to many similar states. So if I
+
+606
+00:34:19.449 --> 00:34:21.619
+try eating a blackberry and it tastes good, I
+
+607
+00:34:21.628 --> 00:34:23.668
+don't learn to eat only that exact blackberry with that
+
+608
+00:34:23.679 --> 00:34:27.500
+exact weight, that exact color, that exact smell
+
+609
+00:34:27.510 --> 00:34:30.300
+, that exact location I learned to eat blackberries in
+
+610
+00:34:30.309 --> 00:34:32.728
+general. Um And that sounds like, well,
+
+611
+00:34:32.739 --> 00:34:35.599
+Yeah, obviously, duh. Right. Of course
+
+612
+00:34:35.608 --> 00:34:37.858
+, you should do that, but it's actually a
+
+613
+00:34:37.867 --> 00:34:39.867
+nontrivial task, you know, uh when you expand
+
+614
+00:34:39.878 --> 00:34:43.349
+out from that first initial stimuli, how many things
+
+615
+00:34:43.358 --> 00:34:45.858
+do you include, like, how dissimilar, how
+
+616
+00:34:45.867 --> 00:34:47.088
+similar, what counts as something that you ought to
+
+617
+00:34:47.099 --> 00:34:52.938
+eat in response to this initial learning experience? Um
+
+618
+00:34:52.947 --> 00:34:55.137
+So that's what learning generalization is. Uh Do you
+
+619
+00:34:55.148 --> 00:34:58.858
+want me to talk about like why it's interesting from
+
+620
+00:34:58.867 --> 00:35:02.030
+the perspective of like, OK, so there's this
+
+621
+00:35:02.039 --> 00:35:07.679
+classic argument in evolutionary game theory. So the study
+
+622
+00:35:07.688 --> 00:35:12.079
+of the evolution of strategic behaviors uh having to do
+
+623
+00:35:12.090 --> 00:35:15.438
+with learning. So when you have these strategic situations
+
+624
+00:35:15.639 --> 00:35:19.719
+, there are certain kinds of behaviors that are um
+
+625
+00:35:20.679 --> 00:35:22.260
+are going to be the ones you expect to evolve
+
+626
+00:35:22.269 --> 00:35:24.820
+. Basically, the ones that can be stable in
+
+627
+00:35:24.829 --> 00:35:32.398
+an evolutionary scenario. And the argument is something like
+
+628
+00:35:32.409 --> 00:35:36.280
+this, you should only expect the selection of learning
+
+629
+00:35:36.289 --> 00:35:39.909
+that will learn those ideal strategies. Because if you
+
+630
+00:35:39.918 --> 00:35:43.760
+have a learner who doesn't learn those ideal strategies,
+
+631
+00:35:43.909 --> 00:35:45.938
+then they're gonna get a lower payoff than the ones
+
+632
+00:35:45.949 --> 00:35:47.628
+who do, then they should be selected against.
+
+633
+00:35:47.639 --> 00:35:52.228
+So expect organisms to learn these stable strategies in these
+
+634
+00:35:52.239 --> 00:35:58.550
+strategic scenarios. But, and you know, I've
+
+635
+00:35:58.559 --> 00:36:00.079
+done work arguing this other people have as well.
+
+636
+00:36:00.159 --> 00:36:02.878
+But the issue with that argument is that there are
+
+637
+00:36:02.889 --> 00:36:07.559
+tradeoffs and benefits in learning. So learning doesn't happen
+
+638
+00:36:07.570 --> 00:36:08.840
+all in one second. It takes time and you're
+
+639
+00:36:08.849 --> 00:36:12.648
+getting payoffs over the entire time that that's happening.
+
+640
+00:36:13.010 --> 00:36:15.429
+So learning generalization is a behavior that doesn't lead to
+
+641
+00:36:15.438 --> 00:36:22.039
+these ideal evolutionarily stable strategies. These perfect strategies basically
+
+642
+00:36:22.050 --> 00:36:24.199
+because it leads you to extend learning to situations where
+
+643
+00:36:24.208 --> 00:36:30.719
+you didn't uh experience the um the first learning experience
+
+644
+00:36:30.728 --> 00:36:34.449
+, right to new situations. And so you extend
+
+645
+00:36:34.458 --> 00:36:36.510
+your learning to situations where it might not be quite
+
+646
+00:36:36.519 --> 00:36:37.958
+as good as the ones where you learned it.
+
+647
+00:36:38.148 --> 00:36:40.030
+So I use models to show that this is the
+
+648
+00:36:40.039 --> 00:36:44.489
+case learning generalization isn't going to fit with this kind
+
+649
+00:36:44.500 --> 00:36:47.648
+of classic argument about learning, but very clearly,
+
+650
+00:36:47.659 --> 00:36:52.849
+it has evolved. And the reason is that it
+
+651
+00:36:52.860 --> 00:36:54.389
+helps you learn faster. So imagine if you had
+
+652
+00:36:54.398 --> 00:36:58.949
+to learn the right behavior in response to every single
+
+653
+00:36:58.958 --> 00:37:01.679
+blackberry you ever saw individually. Well, you're not
+
+654
+00:37:02.340 --> 00:37:06.050
+learning, you're not really learning at all, but
+
+655
+00:37:06.059 --> 00:37:07.159
+in any case, you're learning very, very,
+
+656
+00:37:07.168 --> 00:37:10.148
+very slowly. And so you're gonna have all these
+
+657
+00:37:10.159 --> 00:37:14.070
+times in your lifetime where you could have extended a
+
+658
+00:37:14.079 --> 00:37:16.050
+lesson to a useful scenario, but you didn't.
+
+659
+00:37:16.300 --> 00:37:19.128
+And so the idea is that selection is going to
+
+660
+00:37:19.139 --> 00:37:21.958
+account for that need for speed, even if this
+
+661
+00:37:21.969 --> 00:37:24.489
+kind of speedy learning behavior necessarily stops you from learning
+
+662
+00:37:24.500 --> 00:37:29.329
+kind of most perfect precise thing you could. Mhm
+
+663
+00:37:29.820 --> 00:37:37.030
+But does that mean then that learning generalization uh contradicts
+
+664
+00:37:37.039 --> 00:37:43.369
+evolutionarily stable strategies as a model for learning or does
+
+665
+00:37:43.378 --> 00:37:45.639
+it implement in any way? Well, so OK
+
+666
+00:37:45.648 --> 00:37:51.949
+, so evolutionarily stable strategies, they are um outcomes
+
+667
+00:37:51.958 --> 00:37:53.780
+in a game that you expect to evolve. So
+
+668
+00:37:53.789 --> 00:37:58.059
+that's a little bit separate from learning. It's not
+
+669
+00:37:58.070 --> 00:38:00.469
+the case that in fact, they always evolve even
+
+670
+00:38:00.478 --> 00:38:02.179
+in evolutionary models, but that's a whole separate thing
+
+671
+00:38:02.519 --> 00:38:07.148
+. Um So they're the sort of behaviors you expect
+
+672
+00:38:07.159 --> 00:38:08.978
+to evolve. But you can also ask what learning
+
+673
+00:38:08.989 --> 00:38:14.219
+behaviors get selected for. And so the argument is
+
+674
+00:38:14.228 --> 00:38:16.340
+about, will you see learning behaviors that always lead
+
+675
+00:38:16.349 --> 00:38:20.378
+to those evolutionarily stable strategies or will you see other
+
+676
+00:38:20.389 --> 00:38:22.530
+learning behaviors? And you know, the argument is
+
+677
+00:38:22.539 --> 00:38:25.958
+you'll see other learning behaviors because they're faster or have
+
+678
+00:38:25.969 --> 00:38:30.059
+other kinds of benefits besides getting to the perfect strategies
+
+679
+00:38:30.708 --> 00:38:35.039
+? Mhm So uh the last topic I would like
+
+680
+00:38:35.050 --> 00:38:39.989
+to get into today is misinformation during and about the
+
+681
+00:38:40.000 --> 00:38:45.739
+COVID-19 pandemic. So, uh first of all,
+
+682
+00:38:45.750 --> 00:38:47.458
+what do you think uh what were the questions that
+
+683
+00:38:47.469 --> 00:38:52.750
+you found more interesting uh about this topic from coming
+
+684
+00:38:52.760 --> 00:38:55.219
+from the perspective of the perspective of game theory?
+
+685
+00:38:58.679 --> 00:39:01.820
+Um Well, so I thought so not just coming
+
+686
+00:39:01.829 --> 00:39:04.978
+from the perspective of game theory. So a lot
+
+687
+00:39:04.989 --> 00:39:08.010
+of my work on um misinformation that isn't in game
+
+688
+00:39:08.019 --> 00:39:13.039
+theory but in other kinds of modeling. Uh But
+
+689
+00:39:13.050 --> 00:39:15.760
+so there were a lot of things that happened during
+
+690
+00:39:15.769 --> 00:39:19.019
+the pandemic that were like really interesting from the point
+
+691
+00:39:19.030 --> 00:39:22.139
+of view of thinking about misinformation, spread of beliefs
+
+692
+00:39:22.148 --> 00:39:24.340
+, social spread of beliefs, all this stuff.
+
+693
+00:39:24.800 --> 00:39:29.559
+So here was one thing. Um So Jim Weall
+
+694
+00:39:29.570 --> 00:39:31.599
+and I published this book in 2019, the misinformation
+
+695
+00:39:31.610 --> 00:39:35.820
+Age where one of the things we argued is that
+
+696
+00:39:36.398 --> 00:39:39.949
+in cases where false beliefs really hurt people, they
+
+697
+00:39:39.958 --> 00:39:43.269
+should be less likely to hold those false beliefs.
+
+698
+00:39:43.418 --> 00:39:46.260
+So for example, if everyone is like, oh
+
+699
+00:39:46.269 --> 00:39:51.119
+Red Kool Aid is the most delicious. It's even
+
+700
+00:39:51.128 --> 00:39:53.250
+if that were somehow not true, uh It's totally
+
+701
+00:39:53.260 --> 00:39:55.739
+fine for me to conform with everyone and drink Red
+
+702
+00:39:55.750 --> 00:40:00.369
+Kool Aid or to trust everyone in saying, say
+
+703
+00:40:00.378 --> 00:40:01.438
+they said it was nutritious to trust everyone and saying
+
+704
+00:40:01.449 --> 00:40:04.550
+it was nutritious. It doesn't matter. It's not
+
+705
+00:40:04.559 --> 00:40:06.449
+gonna hurt me if I drink Red Kool Aid,
+
+706
+00:40:06.458 --> 00:40:07.909
+right? It's just not that bad for me,
+
+707
+00:40:07.918 --> 00:40:10.119
+even if this belief was a little wrong. On
+
+708
+00:40:10.128 --> 00:40:14.010
+the other hand, if everyone was like, oh
+
+709
+00:40:14.309 --> 00:40:17.250
+it's safest to drink cyanide, we shouldn't see that
+
+710
+00:40:17.260 --> 00:40:22.409
+false belief spreading, right? We shouldn't see everyone
+
+711
+00:40:22.418 --> 00:40:23.869
+starting to drink that because it really matters to people
+
+712
+00:40:23.878 --> 00:40:28.329
+. If they get it wrong. Now with COVID
+
+713
+00:40:28.559 --> 00:40:30.320
+, I would have thought before the pandemic that this
+
+714
+00:40:30.329 --> 00:40:32.260
+would be a scenario. That's more like the latter
+
+715
+00:40:32.269 --> 00:40:37.090
+case because you could make choices during the pandemic where
+
+716
+00:40:37.099 --> 00:40:40.010
+if you make that choice today, it directly leads
+
+717
+00:40:40.019 --> 00:40:44.519
+to your death in 24 days, right? You
+
+718
+00:40:44.530 --> 00:40:49.199
+just die in a couple weeks and in particular exposure
+
+719
+00:40:49.208 --> 00:40:52.409
+, choices could put people at risk of death just
+
+720
+00:40:52.418 --> 00:40:54.898
+very directly and there's a pretty high fatality rate from
+
+721
+00:40:54.909 --> 00:41:00.478
+COVID, but you still saw all of these kinds
+
+722
+00:41:00.489 --> 00:41:04.668
+of social effects on belief and misinformation related to COVID
+
+723
+00:41:04.679 --> 00:41:08.369
+. In spite of its very prominent, like visible
+
+724
+00:41:08.378 --> 00:41:13.090
+real world danger to people, you still saw people
+
+725
+00:41:13.099 --> 00:41:15.728
+choosing to be exposed based on partisan identity, for
+
+726
+00:41:15.739 --> 00:41:20.289
+example, um or choosing whether or not to wear
+
+727
+00:41:20.300 --> 00:41:22.079
+masks based on their social identities or whether they were
+
+728
+00:41:22.090 --> 00:41:25.648
+conforming with other people in their social networks. Uh
+
+729
+00:41:25.659 --> 00:41:29.769
+So I thought that that was very interesting and surprised
+
+730
+00:41:29.780 --> 00:41:31.949
+me quite a lot actually. And, uh I
+
+731
+00:41:31.958 --> 00:41:36.750
+mean, how do you make sense of it then
+
+732
+00:41:37.739 --> 00:41:38.619
+? I mean, I guess the way I make
+
+733
+00:41:38.628 --> 00:41:42.478
+sense of it is thinking that like, you know
+
+734
+00:41:44.019 --> 00:41:46.128
+, social pressures are just stronger and more important to
+
+735
+00:41:46.139 --> 00:41:50.739
+people than maybe I initially would have thought. And
+
+736
+00:41:50.750 --> 00:41:52.820
+they're just, you know, a whole thesis of
+
+737
+00:41:52.829 --> 00:41:54.898
+this book was that like, social stuff matters to
+
+738
+00:41:54.909 --> 00:41:58.148
+belief a lot. And I feel like, oh
+
+739
+00:41:58.159 --> 00:41:59.809
+, I, I guess that was right, even
+
+740
+00:41:59.820 --> 00:42:02.320
+more right than I expected, you know, um
+
+741
+00:42:02.688 --> 00:42:09.489
+, that people would be influenced by these sort of
+
+742
+00:42:09.500 --> 00:42:13.110
+social factors so much that they would be willing to
+
+743
+00:42:13.119 --> 00:42:16.179
+take fairly significant risks to their home. But,
+
+744
+00:42:16.188 --> 00:42:19.789
+I mean, from the perspective, you've, you've
+
+745
+00:42:19.800 --> 00:42:24.269
+used to tackle this topic, uh do these beliefs
+
+746
+00:42:24.280 --> 00:42:30.500
+that are epistemic wrong, I guess, uh still
+
+747
+00:42:30.510 --> 00:42:37.550
+serve uh particular functions, namely social function functions.
+
+748
+00:42:37.559 --> 00:42:42.070
+And is that the main reason why they spread,
+
+749
+00:42:42.079 --> 00:42:46.030
+even though they might be harmful to people who believe
+
+750
+00:42:46.039 --> 00:42:50.378
+them and spread them Yeah, that's right. They
+
+751
+00:42:50.389 --> 00:42:53.139
+often can. So um this is something that I
+
+752
+00:42:53.148 --> 00:42:55.369
+haven't exactly model but, you know, I've looked
+
+753
+00:42:55.378 --> 00:42:59.739
+at other people's work on one thing that beliefs do
+
+754
+00:43:00.010 --> 00:43:04.070
+is play roles as far as in group out group
+
+755
+00:43:04.079 --> 00:43:07.978
+signaling, communicating your social identity, bonding with other
+
+756
+00:43:07.989 --> 00:43:12.909
+people, impressing other people. So holding beliefs and
+
+757
+00:43:12.918 --> 00:43:15.860
+sharing beliefs and taking actions based on belief, it
+
+758
+00:43:15.869 --> 00:43:19.409
+all has functions, you know, with respect to
+
+759
+00:43:19.418 --> 00:43:22.219
+like our bodies and their relation to the world,
+
+760
+00:43:22.228 --> 00:43:24.070
+but it also has functions with respect to us and
+
+761
+00:43:24.079 --> 00:43:28.260
+our social relationships. So for example, I might
+
+762
+00:43:28.269 --> 00:43:30.860
+put on a mega hat to signal to the people
+
+763
+00:43:30.869 --> 00:43:31.789
+. I want to signal to I'm part of your
+
+764
+00:43:31.800 --> 00:43:36.280
+in group and they will assume in my wearing that
+
+765
+00:43:36.289 --> 00:43:38.659
+hat that I also hold various sorts of beliefs about
+
+766
+00:43:38.668 --> 00:43:43.699
+the world and how it works. So do you
+
+767
+00:43:43.708 --> 00:43:47.978
+think that if we uh get a good understanding of
+
+768
+00:43:47.989 --> 00:43:52.090
+how all of these works? I mean, why
+
+769
+00:43:52.099 --> 00:43:54.958
+people hold certain beliefs and why they communicate them to
+
+770
+00:43:54.969 --> 00:43:59.559
+other people that perhaps we could, could use this
+
+771
+00:43:59.570 --> 00:44:05.059
+knowledge to tackle misinformation? I certainly think it can
+
+772
+00:44:05.070 --> 00:44:12.059
+help. Um So for example, understanding online platforms
+
+773
+00:44:12.070 --> 00:44:14.978
+and how the spread of belief works on online platforms
+
+774
+00:44:14.989 --> 00:44:17.958
+, I think can help those platforms develop better information
+
+775
+00:44:17.969 --> 00:44:22.510
+environments or better algorithms to protect people. So just
+
+776
+00:44:22.519 --> 00:44:23.579
+to give a little example, again, not my
+
+777
+00:44:23.590 --> 00:44:28.030
+research, other people's research, but um it seems
+
+778
+00:44:28.039 --> 00:44:31.208
+like emotional language has a big impact on how wide
+
+779
+00:44:31.219 --> 00:44:36.918
+widely spread things like tweets on Twitter are. Uh
+
+780
+00:44:37.769 --> 00:44:40.688
+And so knowing that can help a platform realize,
+
+781
+00:44:40.699 --> 00:44:44.478
+OK, if you have emotional language attached to say
+
+782
+00:44:44.489 --> 00:44:46.929
+misinformation, um maybe that's the sort of thing the
+
+783
+00:44:46.938 --> 00:44:52.438
+algorithm shouldn't actively promote. And so that's an example
+
+784
+00:44:52.449 --> 00:44:55.110
+of knowing something about how humans work, possibly helping
+
+785
+00:44:55.119 --> 00:45:00.519
+to improve information spread in a social group. Mhm
+
+786
+00:45:00.628 --> 00:45:02.030
+. Yeah. And perhaps, I guess that holding
+
+787
+00:45:02.039 --> 00:45:07.019
+certain very influential people accountable for what they say,
+
+788
+00:45:07.159 --> 00:45:12.159
+like for example, Donald Trump would also help a
+
+789
+00:45:12.168 --> 00:45:17.000
+little bit. Yeah. Ok. Yeah. Uh
+
+790
+00:45:17.010 --> 00:45:21.219
+ok. So Doctor o'connor, uh just before we
+
+791
+00:45:21.228 --> 00:45:22.659
+go, would you like to tell people where they
+
+792
+00:45:22.668 --> 00:45:27.878
+can find you and your work on the internet there
+
+793
+00:45:27.889 --> 00:45:30.239
+? I have a website. It's just my name
+
+794
+00:45:30.250 --> 00:45:32.039
+Kelly o'connor dot com. I put up all my
+
+795
+00:45:32.050 --> 00:45:36.239
+preprinted papers there. So any research that I've done
+
+796
+00:45:36.250 --> 00:45:39.239
+can be found there except my books. Um and
+
+797
+00:45:39.250 --> 00:45:43.228
+I'm also on Twitter. It's Ken Meister is my
+
+798
+00:45:43.239 --> 00:45:47.590
+handle like my name and then Meist er my dad
+
+799
+00:45:47.599 --> 00:45:50.590
+used to call me the Ken Meister and then when
+
+800
+00:45:50.599 --> 00:45:52.378
+I became, you know, when I actually got
+
+801
+00:45:52.389 --> 00:45:54.639
+a master's degree, like I thought it would be
+
+802
+00:45:54.648 --> 00:45:59.809
+funny. Yeah, it totally makes sense. Ok
+
+803
+00:45:59.820 --> 00:46:01.219
+, so uh I'm leaving links to that in the
+
+804
+00:46:01.228 --> 00:46:05.679
+description box of the interview and Doctor o'connor, thank
+
+805
+00:46:05.688 --> 00:46:07.269
+you so much again for taking the time to come
+
+806
+00:46:07.280 --> 00:46:09.559
+on the show. It's been really fun to talk
+
+807
+00:46:09.570 --> 00:46:12.500
+to you. Yeah, nice talking to you,
+
+808
+00:46:12.510 --> 00:46:15.148
+Ricardo and hopefully we'll catch each other around sometime.
+
+809
+00:46:16.128 --> 00:46:19.760
+Hi guys. Thank you for watching this interview.
+
+810
+00:46:19.769 --> 00:46:22.219
+Until the end. If you liked it, please
+
+811
+00:46:22.228 --> 00:46:25.269
+do not forget to like it, share, comment
+
+812
+00:46:25.409 --> 00:46:29.429
+and subscribe. And if you like more generally,
+
+813
+00:46:29.438 --> 00:46:32.550
+what I'm doing, please consider support the show on
+
+814
+00:46:32.559 --> 00:46:37.378
+Patreon or paypal. You have all of the links
+
+815
+00:46:37.389 --> 00:46:39.389
+in the description of this interview. This show is
+
+816
+00:46:39.398 --> 00:46:43.599
+brought to you by En Lights learning and development.
+
+817
+00:46:43.610 --> 00:46:47.000
+Done differently. Check their website at alights.com. I
+
+818
+00:46:47.010 --> 00:46:50.219
+would also like to give a huge thank you to
+
+819
+00:46:50.228 --> 00:46:53.559
+my main patrons and paypal supporters per Larson, Jerry
+
+820
+00:46:53.570 --> 00:46:59.128
+Mueller and Frederick Sunda Bernards O of Election and Visor
+
+821
+00:46:59.139 --> 00:47:01.800
+Adam Castle Matthew Whit Whitting Bear, no wolf,
+
+822
+00:47:01.809 --> 00:47:06.168
+Tim Hollis, Eric Alania, John Connors Philip Forrest
+
+823
+00:47:06.179 --> 00:47:09.489
+Connelly, Robert Winde Nai Z Mark Nevs Colin Holbrook
+
+824
+00:47:09.579 --> 00:47:14.119
+, Simon Columbus, Phil Kor Michael Stormer, Samuel
+
+825
+00:47:14.168 --> 00:47:19.074
+Andreev for the S Alexander Dan Bauer Fergal Ken Hall
+
+826
+00:47:19.224 --> 00:47:22.655
+, her og Michel Jonathan lebron Jars and the Samuel
+
+827
+00:47:22.664 --> 00:47:28.235
+K, Eric Heins Mark Smith Jan We Amal S
+
+828
+00:47:28.244 --> 00:47:31.313
+Franz David Sloan Wilson, Yasa, Des Roma Roach
+
+829
+00:47:32.594 --> 00:47:36.414
+Diego, Jannik Punter, Da Man Charlotte Bliss,
+
+830
+00:47:36.445 --> 00:47:39.405
+Nicole Barbar Wam and Pao Assy Naw Guy Madison,
+
+831
+00:47:39.414 --> 00:47:44.110
+Gary GH, some of the Adrian Yin Nick Golden
+
+832
+00:47:44.119 --> 00:47:46.239
+Paul talent in Ju Bar was Julian Price Edward Hall
+
+833
+00:47:46.728 --> 00:47:50.708
+, Eden Bronner, Douglas Fry Franca Bertolotti, Gabriel
+
+834
+00:47:50.719 --> 00:47:53.269
+Pan Cortez, Lelis Scott Zachary Fish, Tim Duffy
+
+835
+00:47:54.079 --> 00:47:58.500
+, Sonny Smith, John Wiesman, Martin Aland,
+
+836
+00:47:58.510 --> 00:48:01.289
+Daniel Friedman. William Buckner, Paul George Arnold Luke
+
+837
+00:48:01.300 --> 00:48:07.099
+Lo A Georges the often Chris Williamson, Peter Oren
+
+838
+00:48:07.320 --> 00:48:10.648
+, David Williams the Costa Anton Erickson Charles Murray,
+
+839
+00:48:12.019 --> 00:48:16.530
+Alex Shaw and Murray Martinez Chevalier, Bangalore atheists,
+
+840
+00:48:16.539 --> 00:48:22.059
+Larry Daley Junior Holt Eric B. Starry Michael Bailey
+
+841
+00:48:22.070 --> 00:48:25.860
+, then Sperber, Robert Grassy Rough the RP MD
+
+842
+00:48:27.340 --> 00:48:30.369
+, Ior Jeff mcmahon, Jake Zul Barnabas Radix,
+
+843
+00:48:30.840 --> 00:48:35.929
+Mark Campbell, Richard Bowen Thomas, the Dubner,
+
+844
+00:48:36.239 --> 00:48:39.139
+Luke Ni and Greece story, Manuel Oliveira, Kimberly
+
+845
+00:48:39.148 --> 00:48:44.530
+Johnson and Benjamin Gilbert. A special thanks to my
+
+846
+00:48:44.539 --> 00:48:46.760
+producers is our web gem Frank Luca Stefi, Tom
+
+847
+00:48:46.769 --> 00:48:51.750
+Weam Bernard ni Ortiz Dixon, Benedict Mueller Vege,
+
+848
+00:48:52.159 --> 00:48:55.510
+Gli Thomas Trumble, Catherine and Patrick Tobin, John
+
+849
+00:48:55.550 --> 00:49:00.260
+Carlo Montenegro, Robert Lewis and Al Nick Ortiz.
+
+850
+00:49:00.280 --> 00:49:02.349
+And to my executive producers, Matthew Lavender, Si
+
+851
+00:49:02.938 --> 00:49:06.478
+Adrian and Bogdan Kut. Thank you for all.
+

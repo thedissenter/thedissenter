@@ -18,6 +18,7 @@ tags:
 - History
 title: "#850 James McCann - Maize and Grace: A History of Africa\u2019s Encounter\
   \ with a New World Crop"
+transcript: 850.vtt
 youtubeid: 9Aq460SL0vk
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -18,6 +18,7 @@ spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes
 tags:
 - Biology
 title: '#917 Dale Greenwalt - Remnants of Ancient Life: The New Science of Old Fossils'
+transcript: 917.vtt
 youtubeid: a9FbgYKAKqo
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

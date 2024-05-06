@@ -16,6 +16,7 @@ tags:
 - Philosophy
 title: '#847 Lydia Moland: 19th-Century German Philosophy, Hegel, and Abolitionism
   in the US'
+transcript: 847.vtt
 youtubeid: aDOOvG5FNHo
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

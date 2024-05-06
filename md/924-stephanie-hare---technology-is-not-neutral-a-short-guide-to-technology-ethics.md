@@ -12,7 +12,7 @@ excerpt: "Dr. Stephanie Hare is a researcher, broadcaster and author focused on 
   \ including a year at the Universit\xE9 de la Sorbonne (Paris IV). She is the author\
   \ of Technology Is Not Neutral: A Short Guide to Technology Ethics."
 id: '924'
-image: https://i.ytimg.com/vi/viL16bni4DY/maxresdefault.jpg
+image: https://i.ytimg.com/vi/viL16bni4DY/mqdefault.jpg
 itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/924-stephanie-hare-technology-is-not-neutral-a/id1451347236?i=1000651572573&uo=4
 publishDate: 2024-04-05
 spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/924-Stephanie-Hare---Technology-Is-Not-Neutral-A-Short-Guide-to-Technology-Ethics-e275rpb
@@ -20,6 +20,7 @@ tags:
 - Philosophy
 title: '#924 Stephanie Hare - Technology Is Not Neutral: A Short Guide to Technology
   Ethics'
+transcript: 924.vtt
 youtubeid: viL16bni4DY
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -20,6 +20,7 @@ tags:
 - Anthropology
 - Psychology
 title: '#849 Claudio Tennie: The Differences Between Ape Culture and Human Culture'
+transcript: 849.vtt
 youtubeid: FB31IrHUQds
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

@@ -16,6 +16,7 @@ tags:
 - Psychology
 title: '#905 David Pinsof: The Alliance Theory of Political Belief Systems, Meaning
   of Life, and Morality'
+transcript: 905.vtt
 youtubeid: 7kMPxH0yxts
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

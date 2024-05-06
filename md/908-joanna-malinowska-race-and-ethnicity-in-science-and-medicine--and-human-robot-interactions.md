@@ -19,6 +19,7 @@ tags:
 - Philosophy
 title: '#908 Joanna Malinowska: Race and Ethnicity in Science and Medicine, and Human-Robot
   Interactions'
+transcript: 908.vtt
 youtubeid: w8sbV79CTeg
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

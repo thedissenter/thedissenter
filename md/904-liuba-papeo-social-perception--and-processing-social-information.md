@@ -19,6 +19,7 @@ tags:
 - Cognitive Science
 - Psychology
 title: '#904 Liuba Papeo: Social Perception, and Processing Social Information'
+transcript: 904.vtt
 youtubeid: IXZ0nojzRcM
 ---
 <a name="top"></a>[Jump to transcript](#transcript)

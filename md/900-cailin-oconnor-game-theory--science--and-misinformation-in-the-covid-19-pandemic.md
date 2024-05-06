@@ -17,6 +17,7 @@ tags:
 - Philosophy
 title: '#900 Cailin O''Connor: Game Theory, Science, and Misinformation in the COVID-19
   Pandemic'
+transcript: 900.vtt
 youtubeid: pKrNDb67ogQ
 ---
 <a name="top"></a>[Jump to transcript](#transcript)
