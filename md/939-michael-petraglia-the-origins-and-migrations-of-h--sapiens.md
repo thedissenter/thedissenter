@@ -10,6 +10,7 @@ excerpt: "Dr. Michael Petraglia is Director of the Australian Research Centre fo
   \ the relations between climate change and hominin dispersals."
 id: '939'
 image: https://i.ytimg.com/vi/5_zFelzX_LE/maxresdefault.jpg
+itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/939-michael-petraglia-the-origins-and-migrations/id1451347236?i=1000655205062&uo=4
 publishDate: 2024-05-10
 spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/939-Michael-Petraglia-The-Origins-and-Migrations-of-H--Sapiens-e2cr9u1
 tags:
