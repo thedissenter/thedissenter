@@ -12,3 +12,4 @@ bin
 installers
 win-code-node/
 playground/
+node_modules/

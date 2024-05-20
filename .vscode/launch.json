@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Proofread Transcript",
+            "type": "chrome",
+            "request":"launch",
+            "url":"http://localhost:8888?url=.%2Ftest%2F924-ic-pretty-local.json",
+            "webRoot":"${workspaceFolder}/proofread-transcript/"
+        },
+        {
             "name": "Debug: import.py",
             "type": "debugpy",
             "request": "launch",
