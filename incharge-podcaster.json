@@ -41,27 +41,27 @@
     },
     "episodes": [
         {
-            "id": "60",
+            "episodeid": "60",
             "interviewee": ["Fernanda Drumond"]
         },
         {
-            "id": "235",
+            "episodeid": "235",
             "interviewee": ["Daniel Glass", "Niruban Balachandran"]
         },
         {
-            "id": "461",
+            "episodeid": "461",
             "interviewee": ["David Buss"]
         },
         {
-            "id": "563",
+            "episodeid": "563",
             "interviewee": ["Robert Brooks"]
         },
         {
-            "id": "585",
+            "episodeid": "585",
             "interviewee": ["Philippe Rochat"]
         },
         {
-            "id": "619",
+            "episodeid": "619",
             "interviewee": ["Philip Dwyer"]
         }
     ]
