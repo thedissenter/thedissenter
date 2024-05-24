@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/70855603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-22%2F9325bc99-31fd-64e9-fa38-075d0597f748.m4a
 draft: false
 excerpt: "Dr. Cristina Baciu is Research Program Manager at Arizona State University,\
   \ Co-Founder and Co-Director at the Arizona Cancer Evolution Center, ACE Scholars\
@@ -13,6 +14,7 @@ excerpt: "Dr. Cristina Baciu is Research Program Manager at Arizona State Univer
 id: '945'
 image: https://i.ytimg.com/vi/pL_7a5czhc8/maxresdefault.jpg
 publishDate: 2024-05-24
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/945-Cristina-Baciu-When-and-How-E-Mentoring-Works-e24grfj
 tags:
 - General Science
 title: '#945 Cristina Baciu: When and How E-Mentoring Works'
