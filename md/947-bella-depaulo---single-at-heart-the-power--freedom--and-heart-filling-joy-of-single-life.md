@@ -1,4 +1,5 @@
 ---
+audiourl: https://anchor.fm/s/822ba20/podcast/play/84856921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-2%2Fa8d4f9d5-9e9b-9644-6efd-065bdf1dab3c.m4a
 draft: false
 excerpt: "Dr. Bella DePaulo is the leading expert on single life and has been described\
   \ by The Atlantic as \u201CAmerica\u2019s foremost thinker and writer on the single\
@@ -12,6 +13,7 @@ id: '947'
 image: https://i.ytimg.com/vi/Oy88NaXLmQQ/maxresdefault.jpg
 itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/947-bella-depaulo-single-at-heart-the-power-freedom/id1451347236?i=1000657322169&uo=4
 publishDate: 2024-05-30
+spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/947-Bella-DePaulo---Single-at-Heart-The-Power--Freedom--and-Heart-Filling-Joy-of-Single-Life-e2hs4kp
 tags:
 - Psychology
 title: '#947 Bella DePaulo - Single at Heart: The Power, Freedom, and Heart-Filling
