@@ -1,28 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65477727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F45ed77ed-6876-fdf5-65ae-4069980acf36.m4a
-draft: false
-excerpt: Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cognitive,
-  Linguistic and Psychological Sciences at Brown University. She has been the recipient
-  of several awards, including the Association for Psychological Science Rising Star
-  Award, the NARSAD Young Investigator Award from the Brain & Behavior Research Foundation,
-  the Herry Merritt Wriston Award for excellence in teaching and scholarship, and
-  the Social and Affective Neuroscience Society's Innovation Award. Dr. FeldmanHall's
-  research seeks to disentangle the cognitive and neural processes behind the complex
-  choices that form the basis of human social behavior.
-id: '794'
-image: https://i.ytimg.com/vi/-QkULG7EEFw/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/794-oriel-feldmanhall-the-social-neuroscience-of/id1451347236?i=1000616702190&uo=4
-publishDate: 2023-06-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/794-Oriel-FeldmanHall-The-Social-Neuroscience-of-Moral-Decision-Making-e1vcnkv
-tags:
-- Neuroscience
-- Economics
-- Psychology
-title: '#794 Oriel FeldmanHall: The Social Neuroscience of Moral Decision-Making'
-youtubeid: -QkULG7EEFw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65477727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F45ed77ed-6876-fdf5-65ae-4069980acf36.m4a",
+	"draft": false,
+	"episodeid": "794",
+	"excerpt": "Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cognitive, Linguistic and Psychological Sciences at Brown University. She has been the recipient of several awards, including the Association for Psychological Science Rising Star Award, the NARSAD Young Investigator Award from the Brain & Behavior Research Foundation, the Herry Merritt Wriston Award for excellence in teaching and scholarship, and the Social and Affective Neuroscience Society's Innovation Award. Dr. FeldmanHall's research seeks to disentangle the cognitive and neural processes behind the complex choices that form the basis of human social behavior.",
+	"image": "https://i.ytimg.com/vi/-QkULG7EEFw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/794-oriel-feldmanhall-the-social-neuroscience-of/id1451347236?i=1000616702190&uo=4",
+	"publishDate": 2023-06-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/794-Oriel-FeldmanHall-The-Social-Neuroscience-of-Moral-Decision-Making-e1vcnkv",
+	"tags": [
+		"Neuroscience",
+		"Economics",
+		"Psychology"
+	],
+	"title": "#794 Oriel FeldmanHall: The Social Neuroscience of Moral Decision-Making",
+	"youtubeid": "-QkULG7EEFw"
+}
 ---
-<div class="timelinks">
-
 Dr. Oriel FeldmanHall is the Alfred Manning Associate Professor of Cognitive, Linguistic and Psychological Sciences at Brown University. She has been the recipient of several awards, including the Association for Psychological Science Rising Star Award, the NARSAD Young Investigator Award from the Brain & Behavior Research Foundation, the Herry Merritt Wriston Award for excellence in teaching and scholarship, and the Social and Affective Neuroscience Society's Innovation Award. Dr. FeldmanHall's research seeks to disentangle the cognitive and neural processes behind the complex choices that form the basis of human social behavior.
 
 In this episode, we talk about morality from the perspective of social neuroscience. We discuss if it makes sense to talk about different psychological ingredients to morality, like moral foundations. We talk about the role of emotion in decision-making, and the regions of the brain that participate in moral decision-making. We discuss what drives us to help others, and if the question of whether we are selfish of selfless makes sense. We talk about how learning shapes our moral values; how social norms evolve, and why we comply to them; and how people weigh competing moral motivations. We talk about uncertainty in social contexts, and how people reduce it. We discuss the disconnect between people’s moral beliefs and their behavior. Finally, we address general questions, like the nature vs. nurture debate; how social neuroscience relates to the social sciences and neuroscience; and if there are objective moral values.
@@ -50,5 +44,3 @@ Follow Dr. FeldmanHall’s work:
 Faculty page: https://bit.ly/30TnTwC  
 FeldmanHall Lab: https://bit.ly/2OoRT0X  
 Works on ResearchGate: https://bit.ly/3yCgPrh
-</div>
-

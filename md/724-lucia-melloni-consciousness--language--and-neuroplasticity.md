@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/59089736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-15%2F3b2498e7-a421-49a6-cac2-9aaf3a7bfc5d.m4a
-draft: false
-excerpt: Dr. Lucia Melloni is a Research Leader of the Neural Circuits, Consciousness
-  and Cognition Group at the Max Planck Institute for Empirical Aesthetics. Her research
-  areas include domain-general cortical computations, neural mechanisms by which the
-  brain predictively controls sensory processing and perception, brain mechanism subserving
-  language comprehension, and possibilities and limits of brain plasticity to restore
-  cognitive functions.
-id: '724'
-image: https://i.ytimg.com/vi/b81uT4aTUtE/maxresdefault.jpg
-publishDate: 2022-12-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/724-Lucia-Melloni-Consciousness--Language--and-Neuroplasticity-e1p9pc8
-tags:
-- Neuroscience
-title: '#724 Lucia Melloni: Consciousness, Language, and Neuroplasticity'
-youtubeid: b81uT4aTUtE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/59089736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-15%2F3b2498e7-a421-49a6-cac2-9aaf3a7bfc5d.m4a",
+	"draft": false,
+	"episodeid": "724",
+	"excerpt": "Dr. Lucia Melloni is a Research Leader of the Neural Circuits, Consciousness and Cognition Group at the Max Planck Institute for Empirical Aesthetics. Her research areas include domain-general cortical computations, neural mechanisms by which the brain predictively controls sensory processing and perception, brain mechanism subserving language comprehension, and possibilities and limits of brain plasticity to restore cognitive functions.",
+	"image": "https://i.ytimg.com/vi/b81uT4aTUtE/maxresdefault.jpg",
+	"publishDate": 2022-12-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/724-Lucia-Melloni-Consciousness--Language--and-Neuroplasticity-e1p9pc8",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#724 Lucia Melloni: Consciousness, Language, and Neuroplasticity",
+	"youtubeid": "b81uT4aTUtE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 14th 2022.  
 Dr. Lucia Melloni is a Research Leader of the Neural Circuits, Consciousness and Cognition Group at the Max Planck Institute for Empirical Aesthetics. Her research areas include domain-general cortical computations, neural mechanisms by which the brain predictively controls sensory processing and perception, brain mechanism subserving language comprehension, and possibilities and limits of brain plasticity to restore cognitive functions.
 
@@ -39,5 +35,3 @@ Time Links:
 Follow Dr. Melloni’s work:  
 University page: https://bit.ly/3wPVBVm  
 Works on ResearchGate: https://bit.ly/3kCQIdh
-</div>
-

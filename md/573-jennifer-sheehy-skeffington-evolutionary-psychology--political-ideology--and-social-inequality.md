@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41134476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F92fe8d7c-5778-bd06-6eb1-2888f41d15b3.m4a
-draft: false
-excerpt: 'Dr. Jennifer Sheehy-Skeffington is Assistant Professor of Social Psychology
-  at the London School of Economics and Political Science. She is a social psychologist
-  interested in the mechanisms underlying our human sensitivity to power, status,
-  and group membership: their origins, interactions, and manifestation in societal
-  context.'
-id: '573'
-image: https://i.ytimg.com/vi/S7BHkmacx0w/maxresdefault.jpg
-publishDate: 2022-01-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/573-Jennifer-Sheehy-Skeffington-Evolutionary-Psychology--Political-Ideology--and-Social-Inequality-e185quc
-tags:
-- Psychology
-title: '#573 Jennifer Sheehy-Skeffington: Evolutionary Psychology, Political Ideology,
-  and Social Inequality'
-youtubeid: S7BHkmacx0w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41134476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F92fe8d7c-5778-bd06-6eb1-2888f41d15b3.m4a",
+	"draft": false,
+	"episodeid": "573",
+	"excerpt": "Dr. Jennifer Sheehy-Skeffington is Assistant Professor of Social Psychology at the London School of Economics and Political Science. She is a social psychologist interested in the mechanisms underlying our human sensitivity to power, status, and group membership: their origins, interactions, and manifestation in societal context.",
+	"image": "https://i.ytimg.com/vi/S7BHkmacx0w/maxresdefault.jpg",
+	"publishDate": 2022-01-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/573-Jennifer-Sheehy-Skeffington-Evolutionary-Psychology--Political-Ideology--and-Social-Inequality-e185quc",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#573 Jennifer Sheehy-Skeffington: Evolutionary Psychology, Political Ideology, and Social Inequality",
+	"youtubeid": "S7BHkmacx0w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 27th 2021.  
 Dr. Jennifer Sheehy-Skeffington is Assistant Professor of Social Psychology at the London School of Economics and Political Science. She is a social psychologist interested in the mechanisms underlying our human sensitivity to power, status, and group membership: their origins, interactions, and manifestation in societal context.
 
@@ -42,5 +38,3 @@ Faculty page: https://bit.ly/33bY6mN
 Website: https://bit.ly/2RdgB7Y  
 ResearchGate profile: https://bit.ly/2PHgWzi  
 Twitter handle: @jsskeffington
-</div>
-

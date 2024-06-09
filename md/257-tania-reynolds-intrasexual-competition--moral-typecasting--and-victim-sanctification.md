@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4902807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122439-44100-2-a7ac330aff488.m4a
-draft: false
-excerpt: "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the\
-  \ Kinsey Institute. She received her PhD in Social Psychology from Florida State\
-  \ University under Dr. Roy Baumeister and Dr. Jon Maner. Her research examines how\
-  \ pressure to compete for social and romantic partners asymmetrically affects the\
-  \ competitive behaviors and well-being of men and women. Through a joint appointment\
-  \ with the Gender Studies department, Dr. Reynolds offers courses on human sexuality\
-  \ and sex/gender differences. As a collaborative research team with Justin Garcia\
-  \ and Amanda Gesselman, she hopes to examine the dispositional predictors and physiological\
-  \ correlates of individuals\u2019 romantic relationship experiences, as well as\
-  \ how these associations may differ across gender and sexual orientation."
-id: '257'
-image: https://i.ytimg.com/vi/n6EWA_Wg3xI/maxresdefault.jpg
-publishDate: 2019-11-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/257-Tania-Reynolds-Intrasexual-Competition--Moral-Typecasting--And-Victim-Sanctification-e5k4en
-tags:
-- Psychology
-title: '#257 Tania Reynolds: Intrasexual Competition, Moral Typecasting, And Victim
-  Sanctification'
-youtubeid: n6EWA_Wg3xI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4902807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122439-44100-2-a7ac330aff488.m4a",
+	"draft": false,
+	"episodeid": "257",
+	"excerpt": "Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the Kinsey Institute. She received her PhD in Social Psychology from Florida State University under Dr. Roy Baumeister and Dr. Jon Maner. Her research examines how pressure to compete for social and romantic partners asymmetrically affects the competitive behaviors and well-being of men and women. Through a joint appointment with the Gender Studies department, Dr. Reynolds offers courses on human sexuality and sex/gender differences. As a collaborative research team with Justin Garcia and Amanda Gesselman, she hopes to examine the dispositional predictors and physiological correlates of individuals’ romantic relationship experiences, as well as how these associations may differ across gender and sexual orientation.",
+	"image": "https://i.ytimg.com/vi/n6EWA_Wg3xI/maxresdefault.jpg",
+	"publishDate": 2019-11-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/257-Tania-Reynolds-Intrasexual-Competition--Moral-Typecasting--And-Victim-Sanctification-e5k4en",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#257 Tania Reynolds: Intrasexual Competition, Moral Typecasting, And Victim Sanctification",
+	"youtubeid": "n6EWA_Wg3xI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 23rd, 2019.  
 Dr. Tania Reynolds is a Social Psychology postdoctoral researcher at the Kinsey Institute. She received her PhD in Social Psychology from Florida State University under Dr. Roy Baumeister and Dr. Jon Maner. Her research examines how pressure to compete for social and romantic partners asymmetrically affects the competitive behaviors and well-being of men and women. Through a joint appointment with the Gender Studies department, Dr. Reynolds offers courses on human sexuality and sex/gender differences. As a collaborative research team with Justin Garcia and Amanda Gesselman, she hopes to examine the dispositional predictors and physiological correlates of individuals’ romantic relationship experiences, as well as how these associations may differ across gender and sexual orientation.
 
@@ -53,5 +44,3 @@ Competing for Love: Applying Sexual Economics Theory to Mating Contests: http://
 One’s Better Half: Romantic Partners Function as Social Signals: https://fla.st/2kGp57F  
 Our grandmothers’ legacy: Challenges faced by female ancestors leave traces in modern women’s same-sex relationships (to be published)  
 Challenging Victim Sanctification in Era of Harm-Avoidance: Allegations, Taboos, and Implications for Management (to be published)
-</div>
-

@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9945622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-25%2F45145622-44100-2-34e53406d39db.m4a
-draft: false
-excerpt: "Dr. Jeff McMahan is White\u2019s Professor of Moral Philosophy at the University\
-  \ of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics.\
-  \ He\u2019s the author of books like The Morality of Nationalism, The Ethics of\
-  \ Killing: Problems at the Margins of Life, and Killing in War."
-id: '319'
-image: https://i.ytimg.com/vi/cNYQVJoF7JM/maxresdefault.jpg
-publishDate: 2020-04-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/319-Jeff-McMahan-The-Ethics-of-Killing-Abortion--Euthanasia--Suicide-eae12m
-tags:
-- Philosophy
-title: '#319 Jeff McMahan: The Ethics of Killing; Abortion, Euthanasia, Suicide'
-youtubeid: cNYQVJoF7JM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9945622/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-25%2F45145622-44100-2-34e53406d39db.m4a",
+	"draft": false,
+	"episodeid": "319",
+	"excerpt": "Dr. Jeff McMahan is White’s Professor of Moral Philosophy at the University of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics. He’s the author of books like The Morality of Nationalism, The Ethics of Killing: Problems at the Margins of Life, and Killing in War.",
+	"image": "https://i.ytimg.com/vi/cNYQVJoF7JM/maxresdefault.jpg",
+	"publishDate": 2020-04-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/319-Jeff-McMahan-The-Ethics-of-Killing-Abortion--Euthanasia--Suicide-eae12m",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#319 Jeff McMahan: The Ethics of Killing; Abortion, Euthanasia, Suicide",
+	"youtubeid": "cNYQVJoF7JM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 25th, 2020.  
 Dr. Jeff McMahan is White’s Professor of Moral Philosophy at the University of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics. He’s the author of books like The Morality of Nationalism, The Ethics of Killing: Problems at the Margins of Life, and Killing in War.
 
@@ -46,5 +44,3 @@ Personal website: http://bit.ly/36atClp
 Amazon page: https://amzn.to/2MNC1Ud  
 The Ethics of Killing: Problems at the Margins of Life: https://amzn.to/38BPs1K  
 Killing in War: https://amzn.to/36re5gj
-</div>
-

@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/67035825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-21%2Fc37fb6e8-4fec-fd04-3a1a-1370efa36b1e.m4a
-draft: false
-excerpt: Rebecka Hahnel-Peeters is a PhD student studying human behavior from an adaptationist
-  perspective in the Evolutionary Psychology Lab at the University of Texas at Austin
-  with Dr. David Buss. She joined the Buss Lab after finishing her MA Degree at California
-  State University, Fullerton in Spring 2021. In her Master's thesis, she sought to
-  understand individual differences in rape myth acceptance. She is currently interested
-  in sexual conflict and women's psychological adaptations against sexual exploitation.
-id: '821'
-image: https://i.ytimg.com/vi/mejO8Y5QJWI/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/821-rebecka-hahnel-peeters-who-accepts-rape-myths-and-why/id1451347236?i=1000624429748&uo=4
-publishDate: 2023-08-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/821-Rebecka-Hahnel-Peeters-Who-Accepts-Rape-Myths--and-Why-e20s97h
-tags:
-- Psychology
-title: '#821 Rebecka Hahnel-Peeters: Who Accepts Rape Myths, and Why?'
-youtubeid: mejO8Y5QJWI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/67035825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-21%2Fc37fb6e8-4fec-fd04-3a1a-1370efa36b1e.m4a",
+	"draft": false,
+	"episodeid": "821",
+	"excerpt": "Rebecka Hahnel-Peeters is a PhD student studying human behavior from an adaptationist perspective in the Evolutionary Psychology Lab at the University of Texas at Austin with Dr. David Buss. She joined the Buss Lab after finishing her MA Degree at California State University, Fullerton in Spring 2021. In her Master's thesis, she sought to understand individual differences in rape myth acceptance. She is currently interested in sexual conflict and women's psychological adaptations against sexual exploitation.",
+	"image": "https://i.ytimg.com/vi/mejO8Y5QJWI/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/821-rebecka-hahnel-peeters-who-accepts-rape-myths-and-why/id1451347236?i=1000624429748&uo=4",
+	"publishDate": 2023-08-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/821-Rebecka-Hahnel-Peeters-Who-Accepts-Rape-Myths--and-Why-e20s97h",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#821 Rebecka Hahnel-Peeters: Who Accepts Rape Myths, and Why?",
+	"youtubeid": "mejO8Y5QJWI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 21st 2023.  
 Rebecka Hahnel-Peeters is a PhD student studying human behavior from an adaptationist perspective in the Evolutionary Psychology Lab at the University of Texas at Austin with Dr. David Buss. She joined the Buss Lab after finishing her MA Degree at California State University, Fullerton in Spring 2021. In her Master's thesis, she sought to understand individual differences in rape myth acceptance. She is currently interested in sexual conflict and women's psychological adaptations against sexual exploitation.
 
@@ -43,5 +39,3 @@ University page: http://bit.ly/3kk1g3G
 Website: http://bit.ly/3Xdigr6  
 ResearchGate profile: https://bit.ly/3XaXJU8  
 Twitter handle: @RandomMutations
-</div>
-

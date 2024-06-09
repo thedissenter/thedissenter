@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8616495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-23%2F35387395-44100-2-01b8f9b3b524.m4a
-draft: false
-excerpt: Dr. Colin DeYoung is Associate Professor of Psychology at the University
-  of Minnesota. In his research in personality psychology, he has examined the theoretical
-  structure of personality and the biological basis of personality.
-id: '289'
-image: https://i.ytimg.com/vi/hVh22rn5doQ/maxresdefault.jpg
-publishDate: 2020-01-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/289-Colin-DeYoung-The-Big-Five-And-The-Ten-Aspects-Politics--Gender--And-Psychopathology-e95f3f
-tags:
-- Psychology
-title: '#289 Colin DeYoung: The Big Five And The Ten Aspects; Politics, Gender, And
-  Psychopathology'
-youtubeid: hVh22rn5doQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8616495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-23%2F35387395-44100-2-01b8f9b3b524.m4a",
+	"draft": false,
+	"episodeid": "289",
+	"excerpt": "Dr. Colin DeYoung is Associate Professor of Psychology at the University of Minnesota. In his research in personality psychology, he has examined the theoretical structure of personality and the biological basis of personality.",
+	"image": "https://i.ytimg.com/vi/hVh22rn5doQ/maxresdefault.jpg",
+	"publishDate": 2020-01-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/289-Colin-DeYoung-The-Big-Five-And-The-Ten-Aspects-Politics--Gender--And-Psychopathology-e95f3f",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#289 Colin DeYoung: The Big Five And The Ten Aspects; Politics, Gender, And Psychopathology",
+	"youtubeid": "hVh22rn5doQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 22nd, 2019.  
 Dr. Colin DeYoung is Associate Professor of Psychology at the University of Minnesota. In his research in personality psychology, he has examined the theoretical structure of personality and the biological basis of personality.
 
@@ -40,5 +38,3 @@ Faculty page: http://bit.ly/2nGDKRd
 The DeYoung Personality Lab: http://bit.ly/2n8Ncg0  
 ResearchGate profile: http://bit.ly/2lz2g68  
 Google Scholar page: http://bit.ly/2KKCKEw
-</div>
-

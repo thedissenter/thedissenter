@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54073035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-27%2Fed478881-57e7-59d3-9155-81f5d311e5e2.m4a
-draft: false
-excerpt: Dr. Hector Qirko is Professor of Anthropology at the College of Charleston.
-  His research interests include applied anthropology, organizational and institutional
-  cultures, evolutionary theory and cultural patterning, and popular culture and identity.
-id: '676'
-image: https://i.ytimg.com/vi/bRrSXNirP0U/maxresdefault.jpg
-publishDate: 2022-09-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/676-Hector-Qirko-Human-Cooperation--Altruism--Kinship--and-Institutions-e1kgm8b
-tags:
-- Anthropology
-title: '#676 Hector Qirko: Human Cooperation, Altruism, Kinship, and Institutions'
-youtubeid: bRrSXNirP0U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54073035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-27%2Fed478881-57e7-59d3-9155-81f5d311e5e2.m4a",
+	"draft": false,
+	"episodeid": "676",
+	"excerpt": "Dr. Hector Qirko is Professor of Anthropology at the College of Charleston. His research interests include applied anthropology, organizational and institutional cultures, evolutionary theory and cultural patterning, and popular culture and identity.",
+	"image": "https://i.ytimg.com/vi/bRrSXNirP0U/maxresdefault.jpg",
+	"publishDate": 2022-09-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/676-Hector-Qirko-Human-Cooperation--Altruism--Kinship--and-Institutions-e1kgm8b",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#676 Hector Qirko: Human Cooperation, Altruism, Kinship, and Institutions",
+	"youtubeid": "bRrSXNirP0U"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 27th 2022.  
 Dr. Hector Qirko is Professor of Anthropology at the College of Charleston. His research interests include applied anthropology, organizational and institutional cultures, evolutionary theory and cultural patterning, and popular culture and identity.
 
@@ -36,5 +35,3 @@ Time Links:
 Follow Dr. Qirko’s work:  
 Faculty page: https://bit.ly/3InS6KM  
 ResearchGate profile: https://bit.ly/33TRKN7
-</div>
-

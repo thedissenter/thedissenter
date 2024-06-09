@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4000351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666460-44100-2-172404c0c2472.m4a
-draft: false
-excerpt: Dr. Rutger Vos is an evolutionary biologist from Leiden University and the
-  Naturalis Biodiversity Center, both in The Netherlands. He does work in computational
-  biology and contributes to various open source software projects.
-id: '230'
-image: https://i.ytimg.com/vi/2HoHsixrFp4/maxresdefault.jpg
-publishDate: 2019-09-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/230-Rutger-Vos-Natural-Selection--Human-Behavior--Race--And-Adaptations-e4oj4v
-tags:
-- Biology
-title: '#230 Rutger Vos: Natural Selection, Human Behavior, Race, And Adaptations'
-youtubeid: 2HoHsixrFp4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4000351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666460-44100-2-172404c0c2472.m4a",
+	"draft": false,
+	"episodeid": "230",
+	"excerpt": "Dr. Rutger Vos is an evolutionary biologist from Leiden University and the Naturalis Biodiversity Center, both in The Netherlands. He does work in computational biology and contributes to various open source software projects.",
+	"image": "https://i.ytimg.com/vi/2HoHsixrFp4/maxresdefault.jpg",
+	"publishDate": 2019-09-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/230-Rutger-Vos-Natural-Selection--Human-Behavior--Race--And-Adaptations-e4oj4v",
+	"tags": [
+		"Biology"
+	],
+	"title": "#230 Rutger Vos: Natural Selection, Human Behavior, Race, And Adaptations",
+	"youtubeid": "2HoHsixrFp4"
+}
 ---
-<div class="timelinks">
-
 Dr. Rutger Vos is an evolutionary biologist from Leiden University and the Naturalis Biodiversity Center, both in The Netherlands. He does work in computational biology and contributes to various open source software projects.
 
 In this episode, we talk about some general topics in evolutionary biology. We first discuss the basic ingredients we need to have evolution by natural selection, and the mechanisms associated with it. We refer to some of the issues about the “extended evolutionary synthesis”, as proposed by some biologists. We then talk about the interplay between culture and biology in humans, and why human behavior is more complex than the behavior of other species. We also discuss the issues surrounding the concept of “race”, and how to properly think about human variation. Finally, we talk about how we can know that a trait is an adaptation in evolutionary biology.
@@ -41,5 +40,3 @@ Coursera profile: http://bit.ly/2Y7NPbl
 Twitter handle: @rvosa  
 Got Academy (YouTube): http://bit.ly/2K4Txkx  
 Got Academy (podcast): http://bit.ly/2SJedlL
-</div>
-

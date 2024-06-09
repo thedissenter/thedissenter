@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8467374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319246-44100-2-7bdd21e1c7f.m4a
-draft: false
-excerpt: "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science,\
-  \ and Professor of Internal Medicine and General Medicine at Yale University. He\u2019\
-  s a sociologist and physician known for his research on social networks and on the\
-  \ socioeconomic, biosocial, and evolutionary determinants of behavior, health, and\
-  \ longevity. Dr. Christakis was elected a Fellow of the Institute of Medicine of\
-  \ the National Academy of Sciences in 2006; of the American Association for the\
-  \ Advancement of Science in 2010; and of the American Academy of Arts and Sciences\
-  \ in 2017. In 2009, he was named to the Time 100, Time magazine's list of the 100\
-  \ most influential people in the world. In 2009 and again in 2010, he was named\
-  \ by Foreign Policy magazine to its list of top global thinkers. He\u2019s the author\
-  \ of Blueprint: The Evolutionary Origins of a Good Society."
-id: '285'
-image: https://i.ytimg.com/vi/oXPE17gN1sY/maxresdefault.jpg
-publishDate: 2020-01-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/285-Nicholas-Christakis-The-Evolutionary-Origins-of-a-Good-Society-e90tfe
-tags:
-- Anthropology
-- Psychology
-title: '#285 Nicholas Christakis: The Evolutionary Origins of a Good Society'
-youtubeid: oXPE17gN1sY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8467374/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319246-44100-2-7bdd21e1c7f.m4a",
+	"draft": false,
+	"episodeid": "285",
+	"excerpt": "Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science, and Professor of Internal Medicine and General Medicine at Yale University. He’s a sociologist and physician known for his research on social networks and on the socioeconomic, biosocial, and evolutionary determinants of behavior, health, and longevity. Dr. Christakis was elected a Fellow of the Institute of Medicine of the National Academy of Sciences in 2006; of the American Association for the Advancement of Science in 2010; and of the American Academy of Arts and Sciences in 2017. In 2009, he was named to the Time 100, Time magazine's list of the 100 most influential people in the world. In 2009 and again in 2010, he was named by Foreign Policy magazine to its list of top global thinkers. He’s the author of Blueprint: The Evolutionary Origins of a Good Society.",
+	"image": "https://i.ytimg.com/vi/oXPE17gN1sY/maxresdefault.jpg",
+	"publishDate": 2020-01-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/285-Nicholas-Christakis-The-Evolutionary-Origins-of-a-Good-Society-e90tfe",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#285 Nicholas Christakis: The Evolutionary Origins of a Good Society",
+	"youtubeid": "oXPE17gN1sY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 12th, 2019.  
 Dr. Nicholas Christakis is Sterling Professor of Social & Natural Science, and Professor of Internal Medicine and General Medicine at Yale University. He’s a sociologist and physician known for his research on social networks and on the socioeconomic, biosocial, and evolutionary determinants of behavior, health, and longevity. Dr. Christakis was elected a Fellow of the Institute of Medicine of the National Academy of Sciences in 2006; of the American Association for the Advancement of Science in 2010; and of the American Academy of Arts and Sciences in 2017. In 2009, he was named to the Time 100, Time magazine's list of the 100 most influential people in the world. In 2009 and again in 2010, he was named by Foreign Policy magazine to its list of top global thinkers. He’s the author of Blueprint: The Evolutionary Origins of a Good Society.
 
@@ -50,5 +41,3 @@ Human Nature Lab: http://bit.ly/32EaTfd
 Amazon page: https://amzn.to/2CE2kqg  
 Blueprint: https://amzn.to/2kvMNU5  
 Twitter handle: @NAChristakis
-</div>
-

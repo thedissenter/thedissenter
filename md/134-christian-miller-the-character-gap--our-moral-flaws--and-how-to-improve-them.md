@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778528-44100-2-562f5fef51ad8.m4a
-draft: false
-excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
-  \ Forest University. His research is primarily in contemporary ethics and philosophy\
-  \ of religion. He has written for the Wall Street Journal, Dallas Morning News,\
-  \ Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation,\
-  \ Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute\
-  \ of Art and Ideas, and Christianity Today. He\u2019s the author of three books,\
-  \ including Moral Character: An Empirical Theory, Character and Moral Psychology,\
-  \ and the most recent one, The Character Gap: How Good Are We?.   "
-id: '134'
-image: https://i.ytimg.com/vi/k_Cr4J7fAbY/maxresdefault.jpg
-publishDate: 2019-02-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/134-Christian-Miller-The-Character-Gap--Our-Moral-Flaws--and-How-to-Improve-Them-e2s259
-tags:
-- Philosophy
-title: '#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Improve
-  Them'
-youtubeid: k_Cr4J7fAbY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778528-44100-2-562f5fef51ad8.m4a",
+	"draft": false,
+	"episodeid": "134",
+	"excerpt": "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake Forest University. His research is primarily in contemporary ethics and philosophy of religion. He has written for the Wall Street Journal, Dallas Morning News, Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation, Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute of Art and Ideas, and Christianity Today. He’s the author of three books, including Moral Character: An Empirical Theory, Character and Moral Psychology, and the most recent one, The Character Gap: How Good Are We?.   ",
+	"image": "https://i.ytimg.com/vi/k_Cr4J7fAbY/maxresdefault.jpg",
+	"publishDate": 2019-02-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/134-Christian-Miller-The-Character-Gap--Our-Moral-Flaws--and-How-to-Improve-Them-e2s259",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#134 Christian Miller: The Character Gap, Our Moral Flaws, and How to Improve Them",
+	"youtubeid": "k_Cr4J7fAbY"
+}
 ---
-<div class="timelinks">
-
 Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake Forest University. His research is primarily in contemporary ethics and philosophy of religion. He has written for the Wall Street Journal, Dallas Morning News, Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation, Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute of Art and Ideas, and Christianity Today. He’s the author of three books, including Moral Character: An Empirical Theory, Character and Moral Psychology, and the most recent one, The Character Gap: How Good Are We?.   
 In this episode, our conversation focuses on Dr. Miller’s book, The Character Gap. We talk about moral realism, and alternative approaches to morality. We also refer to some psychological experiments that reveal our moral flaws, and how we can improve them. We also discuss utilitarianism and the effective altruism movement.  
 
@@ -43,5 +36,3 @@ Website: https://tinyurl.com/y7hsr77u
 The Character Project: http://www.thecharacterproject.com/  
 Books: https://tinyurl.com/y7n5xaht  
 Twitter handle: @CharacterGap
-</div>
-

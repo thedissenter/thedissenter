@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/64257164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F5caaf48e-43ca-fbee-b59c-d5a5193ee251.m4a
-draft: false
-excerpt: Dr. Paul Russell is Professor of Philosophy at Lund University (half-time
-  appointment since 2018). He also serves as Director of the Lund|Gothenburg Responsibility
-  Project (LGRP). Dr. Russell's interests cover the areas of free will and moral responsibility
-  along with various topics in early modern philosophy. Within the area of free will
-  and moral responsibility he is particularly interested in the challenge of skepticism
-  and theories of responsibility that appeal to reactive attitudes or moral sentiments.
-  On the subject of early modern philosophy, he is especially concerned with the philosophy
-  of David Hume and how his philosophy relates to problems of religion and atheism.
-id: '784'
-image: https://i.ytimg.com/vi/fM8uXdITg7s/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/784-paul-russell-free-will-and-moral-responsibility/id1451347236?i=1000613710774&uo=4
-publishDate: 2023-05-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/784-Paul-Russell-Free-Will-and-Moral-Responsibility-e1u7fmc
-tags:
-- Philosophy
-title: '#784 Paul Russell: Free Will and Moral Responsibility'
-youtubeid: fM8uXdITg7s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/64257164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F5caaf48e-43ca-fbee-b59c-d5a5193ee251.m4a",
+	"draft": false,
+	"episodeid": "784",
+	"excerpt": "Dr. Paul Russell is Professor of Philosophy at Lund University (half-time appointment since 2018). He also serves as Director of the Lund|Gothenburg Responsibility Project (LGRP). Dr. Russell's interests cover the areas of free will and moral responsibility along with various topics in early modern philosophy. Within the area of free will and moral responsibility he is particularly interested in the challenge of skepticism and theories of responsibility that appeal to reactive attitudes or moral sentiments. On the subject of early modern philosophy, he is especially concerned with the philosophy of David Hume and how his philosophy relates to problems of religion and atheism.",
+	"image": "https://i.ytimg.com/vi/fM8uXdITg7s/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/784-paul-russell-free-will-and-moral-responsibility/id1451347236?i=1000613710774&uo=4",
+	"publishDate": 2023-05-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/784-Paul-Russell-Free-Will-and-Moral-Responsibility-e1u7fmc",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#784 Paul Russell: Free Will and Moral Responsibility",
+	"youtubeid": "fM8uXdITg7s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 30th 2023.  
 Dr. Paul Russell is Professor of Philosophy at Lund University (half-time appointment since 2018). He also serves as Director of the Lund|Gothenburg Responsibility Project (LGRP). Dr. Russell's interests cover the areas of free will and moral responsibility along with various topics in early modern philosophy. Within the area of free will and moral responsibility he is particularly interested in the challenge of skepticism and theories of responsibility that appeal to reactive attitudes or moral sentiments. On the subject of early modern philosophy, he is especially concerned with the philosophy of David Hume and how his philosophy relates to problems of religion and atheism.
 
@@ -43,5 +37,3 @@ Follow Dr. Russell’s work:
 Faculty page: https://bit.ly/3qjtECS  
 Website: https://bit.ly/3Qrsi3A  
 PhilPeople profile: https://bit.ly/3AUNedI
-</div>
-

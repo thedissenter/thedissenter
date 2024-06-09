@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/64778748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2Fcfed26ad-10a4-5269-9add-6b6a57c84638.m4a
-draft: false
-excerpt: "Dr. Francesca Righetti is an Associate Professor at the Department of Experimental\
-  \ and Applied Psychology at the VU Amsterdam. Dr. Righetti\u2019s research focuses\
-  \ on close relationships. More specifically she studies sacrifice, ambivalence,\
-  \ and how dual processes shape relationship dynamics (e.g., implicit partner evaluations,\
-  \ self-control, automatic processes). Besides obtaining several grants (e.g., the\
-  \ VENI, ORA, and VIDI grants from NWO), she has also won several awards such as\
-  \ the Caryl Rusbult Early Career Award from Relationship Researchers Interest Group\
-  \ (RRIG), the Early Career Award from the European Association of Social Psychology\
-  \ (EASP) and the Raising Star Award from the Association for Psychological Science\
-  \ (APS)."
-id: '749'
-image: https://i.ytimg.com/vi/zjsThGy-2NE/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/749-francesca-righetti-the-psychology-of/id1451347236?i=1000601939342&uo=4
-publishDate: 2023-02-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/749-Francesca-Righetti-The-Psychology-of-Close-Relationships-e1und1s
-tags:
-- Psychology
-title: '#749 Francesca Righetti: The Psychology of Close Relationships'
-youtubeid: zjsThGy-2NE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/64778748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2Fcfed26ad-10a4-5269-9add-6b6a57c84638.m4a",
+	"draft": false,
+	"episodeid": "749",
+	"excerpt": "Dr. Francesca Righetti is an Associate Professor at the Department of Experimental and Applied Psychology at the VU Amsterdam. Dr. Righetti’s research focuses on close relationships. More specifically she studies sacrifice, ambivalence, and how dual processes shape relationship dynamics (e.g., implicit partner evaluations, self-control, automatic processes). Besides obtaining several grants (e.g., the VENI, ORA, and VIDI grants from NWO), she has also won several awards such as the Caryl Rusbult Early Career Award from Relationship Researchers Interest Group (RRIG), the Early Career Award from the European Association of Social Psychology (EASP) and the Raising Star Award from the Association for Psychological Science (APS).",
+	"image": "https://i.ytimg.com/vi/zjsThGy-2NE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/749-francesca-righetti-the-psychology-of/id1451347236?i=1000601939342&uo=4",
+	"publishDate": 2023-02-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/749-Francesca-Righetti-The-Psychology-of-Close-Relationships-e1und1s",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#749 Francesca Righetti: The Psychology of Close Relationships",
+	"youtubeid": "zjsThGy-2NE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 9th 2023.  
 Dr. Francesca Righetti is an Associate Professor at the Department of Experimental and Applied Psychology at the VU Amsterdam. Dr. Righetti’s research focuses on close relationships. More specifically she studies sacrifice, ambivalence, and how dual processes shape relationship dynamics (e.g., implicit partner evaluations, self-control, automatic processes). Besides obtaining several grants (e.g., the VENI, ORA, and VIDI grants from NWO), she has also won several awards such as the Caryl Rusbult Early Career Award from Relationship Researchers Interest Group (RRIG), the Early Career Award from the European Association of Social Psychology (EASP) and the Raising Star Award from the Association for Psychological Science (APS).
 
@@ -52,5 +44,3 @@ Faculty page: https://bit.ly/3y8BaVs
 Website: https://bit.ly/3e3rlRT  
 Works on ResearchGate: https://bit.ly/3LUcVjH  
 Twitter handle: @righettifra
-</div>
-

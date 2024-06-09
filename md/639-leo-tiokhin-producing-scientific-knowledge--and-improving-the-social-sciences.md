@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47114242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Ff7e107aa-bc9c-195c-d823-4993819d89c9.m4a
-draft: false
-excerpt: 'Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study at
-  the University of Amsterdam, an Interdisciplinary Research Specialist at Strategic
-  Alliance: TU/e, WUR, UU & UMC Utrecht, and a postdoctoral researcher at the Eindhoven
-  University of Technology. Dr. Tiokhin is a meta-scientist who studies the forces
-  that shape how scientists do their work and make inferences from the populations
-  that they study. Much of his research focuses on how incentive structures affect
-  scientific efficiency and reliability, and how we can improve the recognition and
-  reward structures in science. '
-id: '639'
-image: https://i.ytimg.com/vi/0TalDukieSA/maxresdefault.jpg
-publishDate: 2022-06-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/639-Leonid-Tiokhin-Producing-Scientific-Knowledge--and-Improving-the-Social-Sciences-e1dsai2
-tags:
-- General Science
-- Psychology
-title: '#639 Leo Tiokhin: Producing Scientific Knowledge, and Improving the Social
-  Sciences'
-youtubeid: 0TalDukieSA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47114242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Ff7e107aa-bc9c-195c-d823-4993819d89c9.m4a",
+	"draft": false,
+	"episodeid": "639",
+	"excerpt": "Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study at the University of Amsterdam, an Interdisciplinary Research Specialist at Strategic Alliance: TU/e, WUR, UU & UMC Utrecht, and a postdoctoral researcher at the Eindhoven University of Technology. Dr. Tiokhin is a meta-scientist who studies the forces that shape how scientists do their work and make inferences from the populations that they study. Much of his research focuses on how incentive structures affect scientific efficiency and reliability, and how we can improve the recognition and reward structures in science. ",
+	"image": "https://i.ytimg.com/vi/0TalDukieSA/maxresdefault.jpg",
+	"publishDate": 2022-06-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/639-Leonid-Tiokhin-Producing-Scientific-Knowledge--and-Improving-the-Social-Sciences-e1dsai2",
+	"tags": [
+		"General Science",
+		"Psychology"
+	],
+	"title": "#639 Leo Tiokhin: Producing Scientific Knowledge, and Improving the Social Sciences",
+	"youtubeid": "0TalDukieSA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 1st 2022.  
 Dr. Leo Tiokhin is Research Fellow at the Institute for Advanced Study at the University of Amsterdam, an Interdisciplinary Research Specialist at Strategic Alliance: TU/e, WUR, UU & UMC Utrecht, and a postdoctoral researcher at the Eindhoven University of Technology. Dr. Tiokhin is a meta-scientist who studies the forces that shape how scientists do their work and make inferences from the populations that they study. Much of his research focuses on how incentive structures affect scientific efficiency and reliability, and how we can improve the recognition and reward structures in science. 
 
@@ -49,5 +42,3 @@ Follow Dr. Tiokhin’s work:
 University page: https://bit.ly/3mpJSJK  
 Website: https://bit.ly/3BwHeGs  
 ResearchGate profile: https://bit.ly/2ZxqGAw
-</div>
-

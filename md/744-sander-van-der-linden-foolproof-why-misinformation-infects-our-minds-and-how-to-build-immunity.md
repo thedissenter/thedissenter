@@ -1,28 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63559930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-16%2F45bc93b7-b340-3cd4-574e-a4ee2dc23fb6.m4a
-draft: false
-excerpt: 'Dr. Sander van der Linden is Professor of Social Psychology in the Department
-  of Psychology at the University of Cambridge and Director of the Cambridge Social
-  Decision-Making Lab. His research interests center around the psychology of human
-  judgment, communication, and decision-making, including social norms and networks,
-  attitudes and polarization, reasoning about evidence, and the public understanding
-  of risk and uncertainty. He is the author of Foolproof: Why Misinformation Infects
-  Our Minds and How to Build Immunity.'
-id: '744'
-image: https://i.ytimg.com/vi/Sg0C6L4PSww/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/744-sander-van-der-linden-foolproof-why-misinformation/id1451347236?i=1000600047228&uo=4
-publishDate: 2023-02-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/744-Sander-van-der-Linden---Foolproof-Why-Misinformation-Infects-Our-Minds-and-How-to-Build-Immunity-e1ti6pq
-tags:
-- Politics
-- Cognitive Science
-- Psychology
-title: '#744 Sander van der Linden Foolproof: Why Misinformation Infects Our Minds
-  and How to Build Immunity'
-youtubeid: Sg0C6L4PSww
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63559930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-16%2F45bc93b7-b340-3cd4-574e-a4ee2dc23fb6.m4a",
+	"draft": false,
+	"episodeid": "744",
+	"excerpt": "Dr. Sander van der Linden is Professor of Social Psychology in the Department of Psychology at the University of Cambridge and Director of the Cambridge Social Decision-Making Lab. His research interests center around the psychology of human judgment, communication, and decision-making, including social norms and networks, attitudes and polarization, reasoning about evidence, and the public understanding of risk and uncertainty. He is the author of Foolproof: Why Misinformation Infects Our Minds and How to Build Immunity.",
+	"image": "https://i.ytimg.com/vi/Sg0C6L4PSww/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/744-sander-van-der-linden-foolproof-why-misinformation/id1451347236?i=1000600047228&uo=4",
+	"publishDate": 2023-02-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/744-Sander-van-der-Linden---Foolproof-Why-Misinformation-Infects-Our-Minds-and-How-to-Build-Immunity-e1ti6pq",
+	"tags": [
+		"Politics",
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#744 Sander van der Linden Foolproof: Why Misinformation Infects Our Minds and How to Build Immunity",
+	"youtubeid": "Sg0C6L4PSww"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 16th 2023.  
 Dr. Sander van der Linden is Professor of Social Psychology in the Department of Psychology at the University of Cambridge and Director of the Cambridge Social Decision-Making Lab. His research interests center around the psychology of human judgment, communication, and decision-making, including social norms and networks, attitudes and polarization, reasoning about evidence, and the public understanding of risk and uncertainty. He is the author of Foolproof: Why Misinformation Infects Our Minds and How to Build Immunity.
 
@@ -56,5 +50,3 @@ Faculty page: https://bit.ly/3pD88Gn
 ResearchGate profile: https://bit.ly/3aFbVyJ  
 Foolproof: https://bit.ly/3ilRM7y  
 Twitter handle: @Sander_vdLinden
-</div>
-

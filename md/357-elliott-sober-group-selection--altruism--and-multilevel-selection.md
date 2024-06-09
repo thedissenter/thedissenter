@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/16552989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F7c46b6f5-5e3e-6ca2-d696-30897f77a31c.m4a
-draft: false
-excerpt: "Dr. Elliott Sober is Hans Reichenbach Professor and William F. Vilas Research\
-  \ Professor in the Department of Philosophy at the University of Wisconsin\u2013\
-  Madison. Dr. Sober is noted for his work in philosophy of biology and general philosophy\
-  \ of science. He\u2019s the author of books like Philosophy of Biology, Unto Others:\
-  \ The Evolution and Psychology of Unselfish Behavior, and The Design Argument."
-id: '357'
-image: https://i.ytimg.com/vi/zsoUVzCtlxI/maxresdefault.jpg
-publishDate: 2020-08-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/357-Elliott-Sober-Group-Selection--Altruism--and-Multilevel-Selection-egnlit
-tags:
-- Biology
-- Psychology
-title: '#357 Elliott Sober: Group Selection, Altruism, and Multilevel Selection'
-youtubeid: zsoUVzCtlxI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/16552989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F7c46b6f5-5e3e-6ca2-d696-30897f77a31c.m4a",
+	"draft": false,
+	"episodeid": "357",
+	"excerpt": "Dr. Elliott Sober is Hans Reichenbach Professor and William F. Vilas Research Professor in the Department of Philosophy at the University of Wisconsin–Madison. Dr. Sober is noted for his work in philosophy of biology and general philosophy of science. He’s the author of books like Philosophy of Biology, Unto Others: The Evolution and Psychology of Unselfish Behavior, and The Design Argument.",
+	"image": "https://i.ytimg.com/vi/zsoUVzCtlxI/maxresdefault.jpg",
+	"publishDate": 2020-08-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/357-Elliott-Sober-Group-Selection--Altruism--and-Multilevel-Selection-egnlit",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#357 Elliott Sober: Group Selection, Altruism, and Multilevel Selection",
+	"youtubeid": "zsoUVzCtlxI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 10th, 2020.  
 Dr. Elliott Sober is Hans Reichenbach Professor and William F. Vilas Research Professor in the Department of Philosophy at the University of Wisconsin–Madison. Dr. Sober is noted for his work in philosophy of biology and general philosophy of science. He’s the author of books like Philosophy of Biology, Unto Others: The Evolution and Psychology of Unselfish Behavior, and The Design Argument.
 
@@ -49,5 +46,3 @@ PhilPeople page: https://bit.ly/2ZXsW0D
 Amazon page: https://amzn.to/38LrqCX  
 Unto Others: The Evolution and Psychology of Unselfish Behavior: https://amzn.to/3bpjmsb  
 Did Darwin Write the Origin Backwards?: https://amzn.to/3iMslYp
-</div>
-

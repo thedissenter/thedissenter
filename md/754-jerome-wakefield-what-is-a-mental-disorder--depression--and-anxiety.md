@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/61465426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-30%2Ff5726f4d-02b5-7828-7cbd-6c9f4c9eab28.m4a
-draft: false
-excerpt: "Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU University\
-  \ Professor with multidisciplinary appointments, particularly affiliate faculty\
-  \ in Philosophy and affiliate faculty in Bioethics.  Dr. Wakefield\u2019s scholarly\
-  \ specialty is the conceptual foundations of clinical theory. Much of his recent\
-  \ work has concerned the concept of mental disorder, especially how normal negative\
-  \ responses to a problematic social environment can be distinguished from mental\
-  \ disorder and how DSM diagnostic criteria fail to adequately draw this distinction.\
-  \ He\u2019s the author of several books, including The Loss of Sadness: How Psychiatry\
-  \ Transformed Normal Sorrow into Depressive Disorder, and All We Have to Fear: Psychiatry\u2019\
-  s Transformation of Natural Anxieties into Mental Disorders."
-id: '754'
-image: https://i.ytimg.com/vi/aUpj374i-og/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/754-jerome-wakefield-what-is-a-mental-disorder/id1451347236?i=1000603639956&uo=4
-publishDate: 2023-03-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/754-Jerome-Wakefield-What-is-a-Mental-Disorder--Depression--and-Anxiety-e1ri9ci
-tags:
-- Psychology
-title: '#754 Jerome Wakefield: What is a Mental Disorder?; Depression, and Anxiety'
-youtubeid: aUpj374i-og
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/61465426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-30%2Ff5726f4d-02b5-7828-7cbd-6c9f4c9eab28.m4a",
+	"draft": false,
+	"episodeid": "754",
+	"excerpt": "Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU University Professor with multidisciplinary appointments, particularly affiliate faculty in Philosophy and affiliate faculty in Bioethics.  Dr. Wakefield’s scholarly specialty is the conceptual foundations of clinical theory. Much of his recent work has concerned the concept of mental disorder, especially how normal negative responses to a problematic social environment can be distinguished from mental disorder and how DSM diagnostic criteria fail to adequately draw this distinction. He’s the author of several books, including The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder, and All We Have to Fear: Psychiatry’s Transformation of Natural Anxieties into Mental Disorders.",
+	"image": "https://i.ytimg.com/vi/aUpj374i-og/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/754-jerome-wakefield-what-is-a-mental-disorder/id1451347236?i=1000603639956&uo=4",
+	"publishDate": 2023-03-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/754-Jerome-Wakefield-What-is-a-Mental-Disorder--Depression--and-Anxiety-e1ri9ci",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#754 Jerome Wakefield: What is a Mental Disorder?; Depression, and Anxiety",
+	"youtubeid": "aUpj374i-og"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 30th 2022.  
 Dr. Jerome Wakefield is a Professor at NYU Silver as well as an NYU University Professor with multidisciplinary appointments, particularly affiliate faculty in Philosophy and affiliate faculty in Bioethics.  Dr. Wakefield’s scholarly specialty is the conceptual foundations of clinical theory. Much of his recent work has concerned the concept of mental disorder, especially how normal negative responses to a problematic social environment can be distinguished from mental disorder and how DSM diagnostic criteria fail to adequately draw this distinction. He’s the author of several books, including The Loss of Sadness: How Psychiatry Transformed Normal Sorrow into Depressive Disorder, and All We Have to Fear: Psychiatry’s Transformation of Natural Anxieties into Mental Disorders.
 
@@ -50,5 +42,3 @@ Works on ResearchGate: https://bit.ly/31S6VF3
 The Loss of Sadness: http://bit.ly/3AXgfq3  
 All We Have to Fear: http://bit.ly/3FcJ18q  
 Amazon page: http://bit.ly/3FhhN0G
-</div>
-

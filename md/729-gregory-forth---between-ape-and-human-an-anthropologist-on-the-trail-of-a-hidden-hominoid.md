@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55491729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-29%2F95d67139-4543-8a1f-42ce-8dbea5e3e0ed.m4a
-draft: false
-excerpt: 'Dr. Gregory Forth received his doctorate at Oxford and was a professor of
-  anthropology at the University of Alberta for more than three decades. He is a fellow
-  of the Royal Society of Canada and is the author of more than one hundred scholarly
-  papers and several academic books. His latest book is Between Ape and Human: An
-  Anthropologist on the Trail of a Hidden Hominoid.'
-id: '729'
-image: https://i.ytimg.com/vi/iVHPucjOT4I/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/729-gregory-forth-between-ape-and-human/id1451347236?i=1000594103522&uo=4
-publishDate: 2023-01-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/729-Gregory-Forth---Between-Ape-and-Human-An-Anthropologist-on-the-Trail-of-a-Hidden-Hominoid-e1lrvmh
-tags:
-- Anthropology
-title: '#729 Gregory Forth - Between Ape and Human: An Anthropologist on the Trail
-  of a Hidden Hominoid'
-youtubeid: iVHPucjOT4I
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55491729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-29%2F95d67139-4543-8a1f-42ce-8dbea5e3e0ed.m4a",
+	"draft": false,
+	"episodeid": "729",
+	"excerpt": "Dr. Gregory Forth received his doctorate at Oxford and was a professor of anthropology at the University of Alberta for more than three decades. He is a fellow of the Royal Society of Canada and is the author of more than one hundred scholarly papers and several academic books. His latest book is Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominoid.",
+	"image": "https://i.ytimg.com/vi/iVHPucjOT4I/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/729-gregory-forth-between-ape-and-human/id1451347236?i=1000594103522&uo=4",
+	"publishDate": 2023-01-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/729-Gregory-Forth---Between-Ape-and-Human-An-Anthropologist-on-the-Trail-of-a-Hidden-Hominoid-e1lrvmh",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#729 Gregory Forth - Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominoid",
+	"youtubeid": "iVHPucjOT4I"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 29th 2022.  
 Dr. Gregory Forth received his doctorate at Oxford and was a professor of anthropology at the University of Alberta for more than three decades. He is a fellow of the Royal Society of Canada and is the author of more than one hundred scholarly papers and several academic books. His latest book is Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominoid.
 
@@ -41,5 +37,3 @@ Faculty page: https://bit.ly/3QW4qGG
 Website: https://bit.ly/3bAEBfl  
 ResearchGate profile: https://bit.ly/3I1ncc0  
 Between Ape and Human: https://amzn.to/3xXtfcY
-</div>
-

@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41792270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fc1733773-1a8f-23a8-7189-8d5bb066f53c.m4a
-draft: false
-excerpt: Dr. Robert Larzelere is Professor and Research Methodologist in the College
-  of Education and Human Sciences at Oklahoma State University. He is interested in
-  collaborating with others who are concerned about the best scientific evidence on
-  important questions about family and family-type relationships. He investigates
-  specific disciplinary processes that account for the effectiveness of the authoritative
-  parenting combination of warmth, communication, just-firm-enough control and increasing
-  autonomy. He is interested in comparing the effectiveness of alternative disciplinary
-  responses to misbehavior and searching for alternative tactics that are more effective
-  than non-abusive spanking in situations where the latter has traditionally been
-  used.
-id: '581'
-image: https://i.ytimg.com/vi/QXxiaVqpUSA/maxresdefault.jpg
-publishDate: 2022-01-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/581-Robert-Larzelere-Parenting-Styles--Authoritative-Parenting--and-Spanking-e18ptae
-tags:
-- Psychology
-title: '#581 Robert Larzelere: Parenting Styles, Authoritative Parenting, and Spanking'
-youtubeid: QXxiaVqpUSA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41792270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fc1733773-1a8f-23a8-7189-8d5bb066f53c.m4a",
+	"draft": false,
+	"episodeid": "581",
+	"excerpt": "Dr. Robert Larzelere is Professor and Research Methodologist in the College of Education and Human Sciences at Oklahoma State University. He is interested in collaborating with others who are concerned about the best scientific evidence on important questions about family and family-type relationships. He investigates specific disciplinary processes that account for the effectiveness of the authoritative parenting combination of warmth, communication, just-firm-enough control and increasing autonomy. He is interested in comparing the effectiveness of alternative disciplinary responses to misbehavior and searching for alternative tactics that are more effective than non-abusive spanking in situations where the latter has traditionally been used.",
+	"image": "https://i.ytimg.com/vi/QXxiaVqpUSA/maxresdefault.jpg",
+	"publishDate": 2022-01-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/581-Robert-Larzelere-Parenting-Styles--Authoritative-Parenting--and-Spanking-e18ptae",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#581 Robert Larzelere: Parenting Styles, Authoritative Parenting, and Spanking",
+	"youtubeid": "QXxiaVqpUSA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 12th 2021.  
 Dr. Robert Larzelere is Professor and Research Methodologist in the College of Education and Human Sciences at Oklahoma State University. He is interested in collaborating with others who are concerned about the best scientific evidence on important questions about family and family-type relationships. He investigates specific disciplinary processes that account for the effectiveness of the authoritative parenting combination of warmth, communication, just-firm-enough control and increasing autonomy. He is interested in comparing the effectiveness of alternative disciplinary responses to misbehavior and searching for alternative tactics that are more effective than non-abusive spanking in situations where the latter has traditionally been used.
 
@@ -42,5 +34,3 @@ Follow Dr. Larzelere’s work:
 Faculty page: https://bit.ly/3B7m8ih  
 ResearchGate profile: https://bit.ly/3oOY3rg  
 Parental Discipline website: https://bit.ly/2YDOvGw
-</div>
-

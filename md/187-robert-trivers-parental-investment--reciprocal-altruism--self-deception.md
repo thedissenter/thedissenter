@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2991689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13206050-44100-2-72fab4fdca9cf.m4a
-draft: false
-excerpt: "Dr. Robert Trivers is an American evolutionary biologist and sociobiologist.\
-  \ He proposed the theories of reciprocal altruism (1971), parental investment (1972),\
-  \ facultative sex ratio determination (1973), and parent\u2013offspring conflict\
-  \ (1974). He has also contributed by explaining self-deception as an adaptive evolutionary\
-  \ strategy (first described in 1976) and discussing intragenomic conflict. Steven\
-  \ Pinker considers Dr. Trivers to be \"one of the great thinkers in the history\
-  \ of Western thought\". He\u2019s also the author of books like Social Evolution\
-  \ (1985), Genes in Conflict: The Biology of Selfish Genetic Elements (2006), Deceit\
-  \ and Self-Deception: Fooling Yourself the Better to Fool Others (2011), and Wild\
-  \ Life: Adventures of an Evolutionary Biologist (2015)."
-id: '187'
-image: https://i.ytimg.com/vi/GE6KlSaBuqw/maxresdefault.jpg
-publishDate: 2019-06-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/187-Robert-Trivers-Parental-Investment--Reciprocal-Altruism--Self-Deception-e3pq49
-tags:
-- Biology
-title: '#187 Robert Trivers: Parental Investment, Reciprocal Altruism, Self-Deception'
-youtubeid: GE6KlSaBuqw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2991689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13206050-44100-2-72fab4fdca9cf.m4a",
+	"draft": false,
+	"episodeid": "187",
+	"excerpt": "Dr. Robert Trivers is an American evolutionary biologist and sociobiologist. He proposed the theories of reciprocal altruism (1971), parental investment (1972), facultative sex ratio determination (1973), and parent–offspring conflict (1974). He has also contributed by explaining self-deception as an adaptive evolutionary strategy (first described in 1976) and discussing intragenomic conflict. Steven Pinker considers Dr. Trivers to be \"one of the great thinkers in the history of Western thought\". He’s also the author of books like Social Evolution (1985), Genes in Conflict: The Biology of Selfish Genetic Elements (2006), Deceit and Self-Deception: Fooling Yourself the Better to Fool Others (2011), and Wild Life: Adventures of an Evolutionary Biologist (2015).",
+	"image": "https://i.ytimg.com/vi/GE6KlSaBuqw/maxresdefault.jpg",
+	"publishDate": 2019-06-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/187-Robert-Trivers-Parental-Investment--Reciprocal-Altruism--Self-Deception-e3pq49",
+	"tags": [
+		"Biology"
+	],
+	"title": "#187 Robert Trivers: Parental Investment, Reciprocal Altruism, Self-Deception",
+	"youtubeid": "GE6KlSaBuqw"
+}
 ---
-<div class="timelinks">
-
 Dr. Robert Trivers is an American evolutionary biologist and sociobiologist. He proposed the theories of reciprocal altruism (1971), parental investment (1972), facultative sex ratio determination (1973), and parent–offspring conflict (1974). He has also contributed by explaining self-deception as an adaptive evolutionary strategy (first described in 1976) and discussing intragenomic conflict. Steven Pinker considers Dr. Trivers to be "one of the great thinkers in the history of Western thought". He’s also the author of books like Social Evolution (1985), Genes in Conflict: The Biology of Selfish Genetic Elements (2006), Deceit and Self-Deception: Fooling Yourself the Better to Fool Others (2011), and Wild Life: Adventures of an Evolutionary Biologist (2015).
 
 In this episode, we talk about all of the major contributions of Dr. Trivers’ to the field of Evolutionary Biology. First, we look through some of the major advancements in Evolutionary Biology since Darwin, particularly kin selection, inclusive fitness theory, and sexual selection. Dr. Trivers tells us about how we arrived at his theories of parental investment, reciprocal altruism, and parent-offspring conflict. We explore parental investment in its several dimensions and implications. Then, we discuss parent-offspring conflict and the many ways it can manifest across species. We also refer to reciprocal altruism and the situations where friends can be more aligned with our interests than our own family. After that, we talk about deceit and self-deception, how they work, and some of the domains where they might have the biggest impact. We briefly discuss the modularity of mind approach. Finally, Dr. Trivers comments on group selection, and I also ask him to tell us about his more recent work on the evolutionary bases of honor killings in humans societies.
@@ -55,5 +47,3 @@ Parent-Offspring Conflict: https://bit.ly/2OLpsIq
 Natural Selection of Parental Ability to Vary the Sex Ratio of Offspring: https://bit.ly/2TTyd4c  
 Deceit and self-deception (paper): https://bit.ly/2DbRQPl  
 The Evolution of Reciprocal Altruism: https://bit.ly/2GoMMtc
-</div>
-

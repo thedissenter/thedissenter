@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/62293727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-16%2F4c33381d-d60a-9625-03b8-ee7a93137005.m4a
-draft: false
-excerpt: Dr. Matteo Colombo is an Associate Professor in the Tilburg Center for Logic,
-  Ethics, and Philosophy of Science, and in the Department of Philosophy at Tilburg
-  University. Much of his work is in the foundations of computational neuroscience,
-  philosophy of science, philosophy of mind, and moral psychology. He is especially
-  interested in the places where these areas overlap.
-id: '765'
-image: https://i.ytimg.com/vi/ek6sWYW6n1w/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/765-matteo-colombo-philosophy-levels-of-explanation/id1451347236?i=1000607755429&uo=4
-publishDate: 2023-04-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/765-Matteo-Colombo-Philosophy--Levels-of-Explanation-in-Cognitive-Science--and-Values-in-Science-e1sbi8v
-tags:
-- Cognitive Science
-- Philosophy
-title: '#765 Matteo Colombo: Philosophy, Levels of Explanation in Cognitive Science,
-  and Values in Science'
-youtubeid: ek6sWYW6n1w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/62293727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-16%2F4c33381d-d60a-9625-03b8-ee7a93137005.m4a",
+	"draft": false,
+	"episodeid": "765",
+	"excerpt": "Dr. Matteo Colombo is an Associate Professor in the Tilburg Center for Logic, Ethics, and Philosophy of Science, and in the Department of Philosophy at Tilburg University. Much of his work is in the foundations of computational neuroscience, philosophy of science, philosophy of mind, and moral psychology. He is especially interested in the places where these areas overlap.",
+	"image": "https://i.ytimg.com/vi/ek6sWYW6n1w/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/765-matteo-colombo-philosophy-levels-of-explanation/id1451347236?i=1000607755429&uo=4",
+	"publishDate": 2023-04-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/765-Matteo-Colombo-Philosophy--Levels-of-Explanation-in-Cognitive-Science--and-Values-in-Science-e1sbi8v",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#765 Matteo Colombo: Philosophy, Levels of Explanation in Cognitive Science, and Values in Science",
+	"youtubeid": "ek6sWYW6n1w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 16th 2022.  
 Dr. Matteo Colombo is an Associate Professor in the Tilburg Center for Logic, Ethics, and Philosophy of Science, and in the Department of Philosophy at Tilburg University. Much of his work is in the foundations of computational neuroscience, philosophy of science, philosophy of mind, and moral psychology. He is especially interested in the places where these areas overlap.
 
@@ -44,5 +40,3 @@ Follow Dr. Colombo’s work:
 Faculty page: https://bit.ly/3QtJsP0  
 Website: https://bit.ly/3pkWyCb  
 PhilPeople profile: https://bit.ly/3QvlpPN
-</div>
-

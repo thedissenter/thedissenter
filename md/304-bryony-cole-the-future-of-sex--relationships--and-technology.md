@@ -1,29 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9339833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935667-44100-2-ba63b904bd719.m4a
-draft: false
-excerpt: "Bryony Cole is the host of sex tech podcast Future of Sex and works as a\
-  \ researcher and strategist in future human and technology fields. She is the world\u2019\
-  s leading authority on sextech. Since launching the top-rated podcast, Future of\
-  \ Sex, Bryony has been on stages across the world, defining the direction of sextech\
-  \ for governments, technology and entertainment companies. Her wide body of research\
-  \ and annual Future of Sex report are considered the lead in industry insights.\
-  \ Bryony is an international speaker, published writer and producer, who has been\
-  \ featured on shows like Viceland and Technopia, and articles in Wired, TechCrunch,\
-  \ The New York Times, Playboy, Mashable, Motherboard, ABC, Financial Review, Brides,\
-  \ Glamour and many other global media."
-id: '304'
-image: https://i.ytimg.com/vi/rYnPqtO9Heg/maxresdefault.jpg
-publishDate: 2020-03-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/304-Bryony-Cole-The-Future-of-Sex--Relationships--and-Technology-e9rhfp
-tags:
-- General Science
-- Philosophy
-- Psychology
-title: '#304 Bryony Cole: The Future of Sex, Relationships, and Technology'
-youtubeid: rYnPqtO9Heg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9339833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935667-44100-2-ba63b904bd719.m4a",
+	"draft": false,
+	"episodeid": "304",
+	"excerpt": "Bryony Cole is the host of sex tech podcast Future of Sex and works as a researcher and strategist in future human and technology fields. She is the world’s leading authority on sextech. Since launching the top-rated podcast, Future of Sex, Bryony has been on stages across the world, defining the direction of sextech for governments, technology and entertainment companies. Her wide body of research and annual Future of Sex report are considered the lead in industry insights. Bryony is an international speaker, published writer and producer, who has been featured on shows like Viceland and Technopia, and articles in Wired, TechCrunch, The New York Times, Playboy, Mashable, Motherboard, ABC, Financial Review, Brides, Glamour and many other global media.",
+	"image": "https://i.ytimg.com/vi/rYnPqtO9Heg/maxresdefault.jpg",
+	"publishDate": 2020-03-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/304-Bryony-Cole-The-Future-of-Sex--Relationships--and-Technology-e9rhfp",
+	"tags": [
+		"General Science",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#304 Bryony Cole: The Future of Sex, Relationships, and Technology",
+	"youtubeid": "rYnPqtO9Heg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 26th, 2019.  
 Bryony Cole is the host of sex tech podcast Future of Sex and works as a researcher and strategist in future human and technology fields. She is the world’s leading authority on sextech. Since launching the top-rated podcast, Future of Sex, Bryony has been on stages across the world, defining the direction of sextech for governments, technology and entertainment companies. Her wide body of research and annual Future of Sex report are considered the lead in industry insights. Bryony is an international speaker, published writer and producer, who has been featured on shows like Viceland and Technopia, and articles in Wired, TechCrunch, The New York Times, Playboy, Mashable, Motherboard, ABC, Financial Review, Brides, Glamour and many other global media.
 
@@ -54,5 +46,3 @@ Bryony’s Facebook page: http://bit.ly/39gbuIE
 Medium profile: http://bit.ly/2tSZ6Oy  
 Instagram profile: http://bit.ly/2scQCkZ  
 Twitter handle: @bryonycole
-</div>
-

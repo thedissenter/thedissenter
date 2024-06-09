@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51285698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-29%2Fad79b525-cc3c-523d-0a30-da1db2295d7a.m4a
-draft: false
-excerpt: 'Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr.
-  Reginster''s research has focused mostly on issues in ethics, metaethics, and moral
-  psychology in 19th century German philosophy. His new research interests include
-  the topics of identity and intersubjectivity, for which he considers ideas from
-  psychoanalytic theory, 20th century Continental philosophy, and contemporary Anglo-Saxon
-  philosophy. He is the author of The Affirmation of Life: Nietzsche on Overcoming
-  Nihilism, which offers a comprehensive interpretation of Nietzsche''s ethical thought
-  and includes substantial new interpretations of some of his immediate predecessors,
-  particularly Schopenhauer.'
-id: '651'
-image: https://i.ytimg.com/vi/Qac12mJMY8c/maxresdefault.jpg
-publishDate: 2022-07-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/651-Bernard-Reginster---The-Affirmation-of-Life-Nietzsche-on-Overcoming-Nihilism-e1hrk82
-tags:
-- Philosophy
-title: '#651 Bernard Reginster - The Affirmation of Life: Nietzsche on Overcoming
-  Nihilism'
-youtubeid: Qac12mJMY8c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51285698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-29%2Fad79b525-cc3c-523d-0a30-da1db2295d7a.m4a",
+	"draft": false,
+	"episodeid": "651",
+	"excerpt": "Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr. Reginster's research has focused mostly on issues in ethics, metaethics, and moral psychology in 19th century German philosophy. His new research interests include the topics of identity and intersubjectivity, for which he considers ideas from psychoanalytic theory, 20th century Continental philosophy, and contemporary Anglo-Saxon philosophy. He is the author of The Affirmation of Life: Nietzsche on Overcoming Nihilism, which offers a comprehensive interpretation of Nietzsche's ethical thought and includes substantial new interpretations of some of his immediate predecessors, particularly Schopenhauer.",
+	"image": "https://i.ytimg.com/vi/Qac12mJMY8c/maxresdefault.jpg",
+	"publishDate": 2022-07-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/651-Bernard-Reginster---The-Affirmation-of-Life-Nietzsche-on-Overcoming-Nihilism-e1hrk82",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#651 Bernard Reginster - The Affirmation of Life: Nietzsche on Overcoming Nihilism",
+	"youtubeid": "Qac12mJMY8c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 29th 2022.  
 Dr. Bernard Reginster is Professor of Philosophy at Brown University. Dr. Reginster's research has focused mostly on issues in ethics, metaethics, and moral psychology in 19th century German philosophy. His new research interests include the topics of identity and intersubjectivity, for which he considers ideas from psychoanalytic theory, 20th century Continental philosophy, and contemporary Anglo-Saxon philosophy. He is the author of The Affirmation of Life: Nietzsche on Overcoming Nihilism, which offers a comprehensive interpretation of Nietzsche's ethical thought and includes substantial new interpretations of some of his immediate predecessors, particularly Schopenhauer.
 
@@ -50,5 +42,3 @@ Faculty page: https://bit.ly/3b4ZLi4
 PhilPeople page: https://bit.ly/3b5UXZK  
 Amazon page: https://amzn.to/3gK3OUG  
 The Affirmation of Life: https://amzn.to/35IhwB4
-</div>
-

@@ -1,20 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600026-44100-2-1cbaea61d9252.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '22'
-image: https://i.ytimg.com/vi/Pqoil02RlOU/maxresdefault.jpg
-publishDate: 2018-05-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/22-Fernanda-Drumond-Gapminder--Dollar-Street--Progress-at-All-Levels-of-Income-e2r96c
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Economics
-title: '#22 Fernanda Drumond: Gapminder, Dollar Street, Progress at All Levels of
-  Income'
-youtubeid: Pqoil02RlOU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600026-44100-2-1cbaea61d9252.mp3",
+	"draft": false,
+	"episodeid": "22",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/Pqoil02RlOU/maxresdefault.jpg",
+	"publishDate": 2018-05-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/22-Fernanda-Drumond-Gapminder--Dollar-Street--Progress-at-All-Levels-of-Income-e2r96c",
+	"tags": [
+		"Entrevistas em Português",
+		"Economics"
+	],
+	"title": "#22 Fernanda Drumond: Gapminder, Dollar Street, Progress at All Levels of Income",
+	"youtubeid": "Pqoil02RlOU"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -38,5 +38,4 @@ Twitter handle: @Gapminder
 
 Follow Fernanda:  
 Twitter handle: @fecaroldrumond  
-Her favorite tool, Dollar Street: https://www.gapminder.org/dollar-street/matrix?thing=Families&countries=World&regions=World&zoom=4&row=1&lowIncome=26&highIncome=15000&lang=en</div>
-
+Her favorite tool, Dollar Street: https://www.gapminder.org/dollar-street/matrix?thing=Families&countries=World&regions=World&zoom=4&row=1&lowIncome=26&highIncome=15000&lang=en

@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/58962091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-12%2Fd34d8d40-0324-be36-a4bd-f56249b1b3ab.m4a
-draft: false
-excerpt: Dr. Sarah Mathew is Associate Professor in the School of Human Evolution
-  and Social Change at Arizona State University. She studies the evolution of human
-  ultra-sociality and the role of culture in enabling it. She is especially interested
-  in how humans evolved the capacity to cooperate with millions of genetically unrelated
-  individuals, and how this links to the origins of moral sentiments, prosocial behavior,
-  norms, and large-scale warfare. To address these issues, she directs a theoretically-informed
-  field research program among the Turkana, a subsistence pastoral society in Kenya
-  who cooperate at a large scale, including in lethal interethnic raids, without formal
-  centralized political institutions.
-id: '725'
-image: https://i.ytimg.com/vi/wM_5Fd6W8hE/maxresdefault.jpg
-publishDate: 2023-01-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/725-Sarah-Mathew-Human-Sociality--Cooperation--Reciprocity--and-Warfare-e1p5snb
-tags:
-- Anthropology
-title: '#725 Sarah Mathew: Human Sociality, Cooperation, Reciprocity, and Warfare'
-youtubeid: wM_5Fd6W8hE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/58962091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-12%2Fd34d8d40-0324-be36-a4bd-f56249b1b3ab.m4a",
+	"draft": false,
+	"episodeid": "725",
+	"excerpt": "Dr. Sarah Mathew is Associate Professor in the School of Human Evolution and Social Change at Arizona State University. She studies the evolution of human ultra-sociality and the role of culture in enabling it. She is especially interested in how humans evolved the capacity to cooperate with millions of genetically unrelated individuals, and how this links to the origins of moral sentiments, prosocial behavior, norms, and large-scale warfare. To address these issues, she directs a theoretically-informed field research program among the Turkana, a subsistence pastoral society in Kenya who cooperate at a large scale, including in lethal interethnic raids, without formal centralized political institutions.",
+	"image": "https://i.ytimg.com/vi/wM_5Fd6W8hE/maxresdefault.jpg",
+	"publishDate": 2023-01-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/725-Sarah-Mathew-Human-Sociality--Cooperation--Reciprocity--and-Warfare-e1p5snb",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#725 Sarah Mathew: Human Sociality, Cooperation, Reciprocity, and Warfare",
+	"youtubeid": "wM_5Fd6W8hE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 12th 2022.  
 Dr. Sarah Mathew is Associate Professor in the School of Human Evolution and Social Change at Arizona State University. She studies the evolution of human ultra-sociality and the role of culture in enabling it. She is especially interested in how humans evolved the capacity to cooperate with millions of genetically unrelated individuals, and how this links to the origins of moral sentiments, prosocial behavior, norms, and large-scale warfare. To address these issues, she directs a theoretically-informed field research program among the Turkana, a subsistence pastoral society in Kenya who cooperate at a large scale, including in lethal interethnic raids, without formal centralized political institutions.
 
@@ -45,5 +38,3 @@ Faculty page: https://bit.ly/3pUY26w
 Website: https://bit.ly/3b6hYz8  
 ResearchGate profile: https://bit.ly/39H4xoO  
 Twitter handle: @SarahMathew1
-</div>
-

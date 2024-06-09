@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/56641837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-25%2F74b3007e-9fc4-6c3e-6a61-aab83b55a095.m4a
-draft: false
-excerpt: "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake\
-  \ Forest University. His research is primarily in contemporary ethics and philosophy\
-  \ of religion. He has written for the Wall Street Journal, Dallas Morning News,\
-  \ Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation,\
-  \ Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute\
-  \ of Art and Ideas, and Christianity Today. He\u2019s the author of several books,\
-  \ the most recent one being Honesty: The Philosophy and Psychology of a Neglected\
-  \ Virtue."
-id: '705'
-image: https://i.ytimg.com/vi/O747TD4Wx_0/maxresdefault.jpg
-publishDate: 2022-11-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/705-Christian-Miller---Honesty-The-Philosophy-and-Psychology-of-a-Neglected-Virtue-e1mv2rd
-tags:
-- Philosophy
-title: '#705 Christian Miller - Honesty: The Philosophy and Psychology of a Neglected
-  Virtue'
-youtubeid: O747TD4Wx_0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/56641837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-25%2F74b3007e-9fc4-6c3e-6a61-aab83b55a095.m4a",
+	"draft": false,
+	"episodeid": "705",
+	"excerpt": "Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake Forest University. His research is primarily in contemporary ethics and philosophy of religion. He has written for the Wall Street Journal, Dallas Morning News, Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation, Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute of Art and Ideas, and Christianity Today. He’s the author of several books, the most recent one being Honesty: The Philosophy and Psychology of a Neglected Virtue.",
+	"image": "https://i.ytimg.com/vi/O747TD4Wx_0/maxresdefault.jpg",
+	"publishDate": 2022-11-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/705-Christian-Miller---Honesty-The-Philosophy-and-Psychology-of-a-Neglected-Virtue-e1mv2rd",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#705 Christian Miller - Honesty: The Philosophy and Psychology of a Neglected Virtue",
+	"youtubeid": "O747TD4Wx_0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 25th 2022.  
 Dr. Christian B. Miller is the A. C. Reid Professor of Philosophy at Wake Forest University. His research is primarily in contemporary ethics and philosophy of religion. He has written for the Wall Street Journal, Dallas Morning News, Slate, Prospect Magazine, Relevant Magazine, Michael Hyatt Magazine, The Conversation, Newsweek, Aeon, Greater Good Magazine, Nautilus Magazine, Fathom Magazine, Institute of Art and Ideas, and Christianity Today. He’s the author of several books, the most recent one being Honesty: The Philosophy and Psychology of a Neglected Virtue.
 
@@ -52,5 +45,3 @@ Website: https://bit.ly/3zAQoE8
 PhilPeople page: https://bit.ly/3PYPSVt  
 Honesty: https://amzn.to/3OAd1wy  
 Twitter handle: @CharacterGap
-</div>
-

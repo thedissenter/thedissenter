@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20860936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fafcaf4a3-ae6c-9a43-4f2e-db27478fedb7.m4a
-draft: false
-excerpt: "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology\
-  \ and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky\
-  \ is the author of several informative and comical books that present cutting edge\
-  \ psychoneurobiological knowledge in an enjoyable, easy to read format. He's also\
-  \ a renowned researcher and award-winning professor at Stanford University. He\u2019\
-  s the author of books like Why Zebras Don't Get Ulcers, The Trouble with Testosterone:\
-  \ And Other Essays on the Biology of the Human Predicament, A Primate's Memoir,\
-  \ Behave: The Biology of Humans at Our Best and Worst."
-id: '384'
-image: https://i.ytimg.com/vi/9q8h4C57mTw/maxresdefault.jpg
-publishDate: 2020-10-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/384-Robert-Sapolsky-Behavior--Self-control--Morality--Primates--Humans--and-Religion-ekr4i8
-tags:
-- Neuroscience
-- Primatology
-- Psychology
-title: '#384 Robert Sapolsky: Behavior, Self-control, Morality, Primates, Humans,
-  and Religion'
-youtubeid: 9q8h4C57mTw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20860936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fafcaf4a3-ae6c-9a43-4f2e-db27478fedb7.m4a",
+	"draft": false,
+	"episodeid": "384",
+	"excerpt": "Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky is the author of several informative and comical books that present cutting edge psychoneurobiological knowledge in an enjoyable, easy to read format. He's also a renowned researcher and award-winning professor at Stanford University. He’s the author of books like Why Zebras Don't Get Ulcers, The Trouble with Testosterone: And Other Essays on the Biology of the Human Predicament, A Primate's Memoir, Behave: The Biology of Humans at Our Best and Worst.",
+	"image": "https://i.ytimg.com/vi/9q8h4C57mTw/maxresdefault.jpg",
+	"publishDate": 2020-10-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/384-Robert-Sapolsky-Behavior--Self-control--Morality--Primates--Humans--and-Religion-ekr4i8",
+	"tags": [
+		"Neuroscience",
+		"Primatology",
+		"Psychology"
+	],
+	"title": "#384 Robert Sapolsky: Behavior, Self-control, Morality, Primates, Humans, and Religion",
+	"youtubeid": "9q8h4C57mTw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 7th 2020.  
 Dr. Robert Sapolsky is the John A. and Cynthia Fry Gunn Professor of Biology and Professor of Neurology and of Neurosurgery at Stanford University. Dr. Sapolsky is the author of several informative and comical books that present cutting edge psychoneurobiological knowledge in an enjoyable, easy to read format. He's also a renowned researcher and award-winning professor at Stanford University. He’s the author of books like Why Zebras Don't Get Ulcers, The Trouble with Testosterone: And Other Essays on the Biology of the Human Predicament, A Primate's Memoir, Behave: The Biology of Humans at Our Best and Worst.
 
@@ -49,5 +42,3 @@ Faculty page: https://stanford.io/2t1M8xQ
 ResearchGate profile: http://bit.ly/2tG25tw  
 Books on Amazon: https://amzn.to/2FvO9Ff  
 Human Behavioral Biology (YouTube): http://bit.ly/38LBf1Y
-</div>
-

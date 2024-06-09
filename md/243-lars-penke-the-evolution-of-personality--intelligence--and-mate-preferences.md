@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4248299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095778-44100-2-093ed0e489d64.m4a
-draft: false
-excerpt: "Dr. Lars Penke is Full Professor of Biological Personality Psychology at\
-  \ the Georg August University of G\xF6ttingen. His research interests include the\
-  \ evolutionary significance of individual differences, social endocrinology, links\
-  \ of somatometric measures of the body and face with psychological traits, the evolutionary\
-  \ psychology of mate choice, romantic relationships and sexuality, neurostructural\
-  \ indicators of intelligence and cognitive ageing, behavior genetics, and life history\
-  \ theory."
-id: '243'
-image: https://i.ytimg.com/vi/2Icgg1UrLLo/maxresdefault.jpg
-publishDate: 2019-10-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/243-Lars-Penke-The-Evolution-Of-Personality--Intelligence--And-Mate-Preferences-e5059b
-tags:
-- Psychology
-title: '#243 Lars Penke: The Evolution Of Personality, Intelligence, And Mate Preferences'
-youtubeid: 2Icgg1UrLLo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4248299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095778-44100-2-093ed0e489d64.m4a",
+	"draft": false,
+	"episodeid": "243",
+	"excerpt": "Dr. Lars Penke is Full Professor of Biological Personality Psychology at the Georg August University of Göttingen. His research interests include the evolutionary significance of individual differences, social endocrinology, links of somatometric measures of the body and face with psychological traits, the evolutionary psychology of mate choice, romantic relationships and sexuality, neurostructural indicators of intelligence and cognitive ageing, behavior genetics, and life history theory.",
+	"image": "https://i.ytimg.com/vi/2Icgg1UrLLo/maxresdefault.jpg",
+	"publishDate": 2019-10-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/243-Lars-Penke-The-Evolution-Of-Personality--Intelligence--And-Mate-Preferences-e5059b",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#243 Lars Penke: The Evolution Of Personality, Intelligence, And Mate Preferences",
+	"youtubeid": "2Icgg1UrLLo"
+}
 ---
-<div class="timelinks">
-
 Dr. Lars Penke is Full Professor of Biological Personality Psychology at the Georg August University of Göttingen. His research interests include the evolutionary significance of individual differences, social endocrinology, links of somatometric measures of the body and face with psychological traits, the evolutionary psychology of mate choice, romantic relationships and sexuality, neurostructural indicators of intelligence and cognitive ageing, behavior genetics, and life history theory.
 
 In this episode, we talk about personality, intelligence, and mate preferences from an evolutionary perspective. We start with personality, and go through the several different hypotheses for the evolutionary genetics of personality. We also discuss the literature on personality calibration, and the one on birth order effects. We refer to the limitations of personality inventories (including the Big Five), and then talk about how intelligence correlates with different indicators of robust brain development. We talk about the heritability of intelligence, and different approaches to try to identify the genes associated with it, like GWAS and GCTA. Finally, we discuss some literature on mate preferences. We talk about speed-dating scenarios, and what we can learn from them; and changes in women’s sexuality across their menstrual cycle, particularly in the ovulatory phase (or the luteal phase).
@@ -53,5 +48,3 @@ An integrative study of facultative personality calibration: http://bit.ly/33FaT
 Genomic analysis of family data reveals additional genetic effects on intelligence and personality: http://bit.ly/31Kl81F  
 Using 26 thousand diary entries to show ovulatory changes in sexual desire and behaviour: http://bit.ly/2Z8jkle  
 Does Ovulation Change Women’s Sexual Desire, After All?: http://bit.ly/2yYWAp1
-</div>
-

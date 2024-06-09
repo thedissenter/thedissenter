@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12664702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66050434-44100-2-2873417b0452d.m4a
-draft: false
-excerpt: "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy\
-  \ of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive\
-  \ scientist and empirical philosopher & historian of science, technology, and the\
-  \ senses. She divides her brain-time between the Department of History & Philosophy\
-  \ of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry)\
-  \ in early 2021. She\u2019s the author of Smellosophy: What the Nose tells the Mind."
-id: '337'
-image: https://i.ytimg.com/vi/gpkNIDy9Vw0/maxresdefault.jpg
-publishDate: 2020-05-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/337-Ann-Sophie-Barwich-Philosophy-of-Science--Neuroscience--And-Olfaction-ed10du
-tags:
-- Philosophy
-title: '#337 Ann-Sophie Barwich: Philosophy of Science, Neuroscience, and Olfaction'
-youtubeid: gpkNIDy9Vw0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12664702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66050434-44100-2-2873417b0452d.m4a",
+	"draft": false,
+	"episodeid": "337",
+	"excerpt": "Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive scientist and empirical philosopher & historian of science, technology, and the senses. She divides her brain-time between the Department of History & Philosophy of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry) in early 2021. She’s the author of Smellosophy: What the Nose tells the Mind.",
+	"image": "https://i.ytimg.com/vi/gpkNIDy9Vw0/maxresdefault.jpg",
+	"publishDate": 2020-05-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/337-Ann-Sophie-Barwich-Philosophy-of-Science--Neuroscience--And-Olfaction-ed10du",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#337 Ann-Sophie Barwich: Philosophy of Science, Neuroscience, and Olfaction",
+	"youtubeid": "gpkNIDy9Vw0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 15th, 2020.  
 Dr. Ann-Sophie Barwich is Assistant Professor of History and Philosophy of Science and Cognitive Science at Indiana University Bloomington. She is a cognitive scientist and empirical philosopher & historian of science, technology, and the senses. She divides her brain-time between the Department of History & Philosophy of Science and the Cognitive Science Program. Estimated begin of lab (EEG/Olfactometry) in early 2021. She’s the author of Smellosophy: What the Nose tells the Mind.
 
@@ -44,5 +40,3 @@ PhilPeople profile: https://bit.ly/2ylhMbJ
 ResearchGate profile: http://bit.ly/38yvRji  
 Smellosophy: What the Nose Tells the Mind: https://amzn.to/3cmpVLI  
 Twitter handle: @smellosopher
-</div>
-

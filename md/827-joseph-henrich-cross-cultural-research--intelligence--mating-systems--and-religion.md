@@ -1,21 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/74169759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-2%2F41b6c38b-867e-b17d-6cc8-1af92c9e7d50.m4a
-draft: false
-excerpt: 'Podcast: http://bit.ly/3FeSNqb'
-id: '827'
-image: https://i.ytimg.com/vi/YDye_PmZEqE/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/827-joseph-henrich-cross-cultural-research-intelligence/id1451347236?i=1000625993228&uo=4
-publishDate: 2023-08-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/827-Joseph-Henrich-Cross-Cultural-Research--Intelligence--Mating-Systems--and-Religion-e27lvuv
-tags:
-- Anthropology
-- Psychology
-title: '#827 Joseph Henrich: Cross-Cultural Research, Intelligence, Mating Systems,
-  and Religion'
-youtubeid: YDye_PmZEqE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/74169759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-2%2F41b6c38b-867e-b17d-6cc8-1af92c9e7d50.m4a",
+	"draft": false,
+	"episodeid": "827",
+	"excerpt": "Podcast: http://bit.ly/3FeSNqb",
+	"image": "https://i.ytimg.com/vi/YDye_PmZEqE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/827-joseph-henrich-cross-cultural-research-intelligence/id1451347236?i=1000625993228&uo=4",
+	"publishDate": 2023-08-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/827-Joseph-Henrich-Cross-Cultural-Research--Intelligence--Mating-Systems--and-Religion-e27lvuv",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#827 Joseph Henrich: Cross-Cultural Research, Intelligence, Mating Systems, and Religion",
+	"youtubeid": "YDye_PmZEqE"
+}
 ---
-<div class="timelinks">
-
 Podcast: http://bit.ly/3FeSNqb
 
 Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary Biology at Harvard University. He is interested in the question of how humans evolved from "being a relatively unremarkable primate a few million years ago to the most successful species on the globe", and how culture affected our genetic development. He is also the author of The Secret of Our Success, and The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous.
@@ -51,5 +51,3 @@ Culture, Cognition and Coevolution Lab (YT channel): https://bit.ly/2Aw0RVt
 Works on ResearchGate: https://bit.ly/35jLQku  
 Books on Amazon: https://amzn.to/30Ct4Vl  
 Twitter handle: @JoHenrich
-</div>
-

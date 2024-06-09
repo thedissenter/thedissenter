@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/34778565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2Fe921dde2-801f-122b-cf4f-04d6d4be267a.m4a
-draft: false
-excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton University.\
-  \ His research focuses on the biosocial, delving into the entanglement of biological\
-  \ systems with the social and cultural lives of humans, our ancestors, and a few\
-  \ of the other animals with whom humanity shares close relations. Dr. Fuentes was\
-  \ awarded the Inaugural Communication & Outreach Award from the American Association\
-  \ of Physical Anthropologists, the President\u2019s Award from the American Anthropological\
-  \ Association, and elected to the American Academy of Arts and Sciences. He is the\
-  \ author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths\
-  \ about Human Nature, and Why We Believe: Evolution and the Human Way of Being."
-id: '520'
-image: https://i.ytimg.com/vi/sokpvbG-tOU/maxresdefault.jpg
-publishDate: 2021-09-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/520-Agustn-Fuentes-Race--Gender--Monogamy--and-Darwins-Descent-of-Man-150th-anniversary-e123s05
-tags:
-- Anthropology
-title: "#520 Agust\xEDn Fuentes: Race, Gender, Monogamy, and Darwin's Descent of Man\
-  \ (150th anniversary)"
-youtubeid: sokpvbG-tOU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/34778565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2Fe921dde2-801f-122b-cf4f-04d6d4be267a.m4a",
+	"draft": false,
+	"episodeid": "520",
+	"excerpt": "Dr. Agustín Fuentes is Professor of Anthropology at Princeton University. His research focuses on the biosocial, delving into the entanglement of biological systems with the social and cultural lives of humans, our ancestors, and a few of the other animals with whom humanity shares close relations. Dr. Fuentes was awarded the Inaugural Communication & Outreach Award from the American Association of Physical Anthropologists, the President’s Award from the American Anthropological Association, and elected to the American Academy of Arts and Sciences. He is the author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths about Human Nature, and Why We Believe: Evolution and the Human Way of Being.",
+	"image": "https://i.ytimg.com/vi/sokpvbG-tOU/maxresdefault.jpg",
+	"publishDate": 2021-09-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/520-Agustn-Fuentes-Race--Gender--Monogamy--and-Darwins-Descent-of-Man-150th-anniversary-e123s05",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#520 Agustín Fuentes: Race, Gender, Monogamy, and Darwin's Descent of Man (150th anniversary)",
+	"youtubeid": "sokpvbG-tOU"
+}
 ---
-<div class="timelinks">
-
 Dr. Agustín Fuentes is Professor of Anthropology at Princeton University. His research focuses on the biosocial, delving into the entanglement of biological systems with the social and cultural lives of humans, our ancestors, and a few of the other animals with whom humanity shares close relations. Dr. Fuentes was awarded the Inaugural Communication & Outreach Award from the American Association of Physical Anthropologists, the President’s Award from the American Anthropological Association, and elected to the American Academy of Arts and Sciences. He is the author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths about Human Nature, and Why We Believe: Evolution and the Human Way of Being.
 
 This interview is part of the series on the 150th anniversary of Darwin’s Descent of Man.
@@ -49,5 +41,3 @@ Works on ResearchGate: https://bit.ly/3g50Ici
 Books on Amazon: https://amzn.to/3pk9VSj  
 A Most Interesting Problem: https://amzn.to/3rlLELU  
 Twitter handle: @Anthrofuentes
-</div>
-

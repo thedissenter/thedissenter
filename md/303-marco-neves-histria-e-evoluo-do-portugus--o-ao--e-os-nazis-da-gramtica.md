@@ -1,20 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9339763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935090-44100-2-3f46f1f988314.m4a
-draft: false
-excerpt: 'GRAVADA NO DIA 23 DE DEZEMBRO DE 2019.  '
-id: '303'
-image: https://i.ytimg.com/vi/XTU3QFfI8u0/maxresdefault.jpg
-publishDate: 2020-03-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/303-Marco-Neves-Histria-e-Evoluo-do-Portugus--o-AO--e-os-Nazis-da-Gramtica-e9rhdj
-tags:
-- Linguistics
-- "Entrevistas em Portugu\xEAs"
-title: "#303 Marco Neves: Hist\xF3ria e Evolu\xE7\xE3o do Portugu\xEAs, o AO, e os\
-  \ Nazis da Gram\xE1tica"
-youtubeid: XTU3QFfI8u0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9339763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40935090-44100-2-3f46f1f988314.m4a",
+	"draft": false,
+	"episodeid": "303",
+	"excerpt": "GRAVADA NO DIA 23 DE DEZEMBRO DE 2019.  ",
+	"image": "https://i.ytimg.com/vi/XTU3QFfI8u0/maxresdefault.jpg",
+	"publishDate": 2020-03-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/303-Marco-Neves-Histria-e-Evoluo-do-Portugus--o-AO--e-os-Nazis-da-Gramtica-e9rhdj",
+	"tags": [
+		"Linguistics",
+		"Entrevistas em Português"
+	],
+	"title": "#303 Marco Neves: História e Evolução do Português, o AO, e os Nazis da Gramática",
+	"youtubeid": "XTU3QFfI8u0"
+}
 ---
-<div class="timelinks">
-
 GRAVADA NO DIA 23 DE DEZEMBRO DE 2019.  
 THIS INTERVIEW IS IN PORTUGUESE.  
 Marco Neves é professor de tradução na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, tradutor e diretor do escritório de Lisboa da Eurologos e colunista no Sapo 24. É também autor do blogue Certas Palavras, e de livros como “A Incrível História Secreta da Língua Portuguesa”, “Dicionário de Erros Falsos e Mitos do Português”, “Gramática para Todos — O Português na Ponta da Língua” e “O Galego e o Português São a Mesma Língua?”.
@@ -41,5 +41,3 @@ Página de docente: http://bit.ly/2t17MSj
 Coluna no Sapo 24: http://bit.ly/36YEfHC  
 Blogue “Certas Palavras”: http://bit.ly/2PNPehr  
 Books on Wook: http://bit.ly/2PiBtaN
-</div>
-

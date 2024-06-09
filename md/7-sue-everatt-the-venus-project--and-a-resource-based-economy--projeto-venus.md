@@ -1,17 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571843-44100-2-e6a4a45234368.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '7'
-image: https://i.ytimg.com/vi/m6CBqTS2vxU/maxresdefault.jpg
-publishDate: 2018-03-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/7-Sue-Everatt-The-Venus-Project--and-a-Resource-Based-Economy--Projeto-Venus-e2r445
-title: '#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto
-  Venus'
-youtubeid: m6CBqTS2vxU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571843-44100-2-e6a4a45234368.mp3",
+	"draft": false,
+	"episodeid": "7",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/m6CBqTS2vxU/maxresdefault.jpg",
+	"publishDate": 2018-03-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/7-Sue-Everatt-The-Venus-Project--and-a-Resource-Based-Economy--Projeto-Venus-e2r445",
+	"title": "#7 Sue Everatt: The Venus Project, and a Resource-Based Economy | Projeto Venus",
+	"youtubeid": "m6CBqTS2vxU"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -45,5 +44,4 @@ Canal do Youtube: https://www.youtube.com/channel/UCPNMR_iABvyFmc3G9i1r3Lw
 Lista de emails dos Pontos de Contacto: https://docs.google.com/spreadsheets/d/1lAFtYjkkCuepHNI5Kybjhn-iSQgiJxdWZhsXKjiK3u8/edit#gid=0  
 Forum da Linguistic Team International: http://forum.linguisticteam.org/  
 Página do Facebook The Venus Project Global: https://www.facebook.com/TheVenusProjectGlobal/  
-TVP Support International: https://www.facebook.com/groups/TVP.Support/</div>
-
+TVP Support International: https://www.facebook.com/groups/TVP.Support/

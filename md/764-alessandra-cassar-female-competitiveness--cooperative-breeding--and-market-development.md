@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/62455217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-20%2Fc74c3e6d-5a5f-cd31-e557-edb9be354fc4.m4a
-draft: false
-excerpt: Dr. Alessandra Cassar is a Professor of Economics at the University of San
-  Francisco. She is the Vice-President for North America of the Economic Science Association.
-  Her current research concentrates on the under-studied areas of female competitiveness;
-  the consequences of conflict and disaster victimization for altruism, trust, religiosity,
-  risk, and time preferences; and the role of social networks for economic outcomes.
-id: '764'
-image: https://i.ytimg.com/vi/IS74XZmBymk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/764-alessandra-cassar-female-competitiveness-cooperative/id1451347236?i=1000607213587&uo=4
-publishDate: 2023-04-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/764-Alessandra-Cassar-Female-Competitiveness--Cooperative-Breeding--and-Market-Development-e1sgfvh
-tags:
-- Economics
-- Psychology
-title: '#764 Alessandra Cassar: Female Competitiveness, Cooperative Breeding, and
-  Market Development'
-youtubeid: IS74XZmBymk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/62455217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-20%2Fc74c3e6d-5a5f-cd31-e557-edb9be354fc4.m4a",
+	"draft": false,
+	"episodeid": "764",
+	"excerpt": "Dr. Alessandra Cassar is a Professor of Economics at the University of San Francisco. She is the Vice-President for North America of the Economic Science Association. Her current research concentrates on the under-studied areas of female competitiveness; the consequences of conflict and disaster victimization for altruism, trust, religiosity, risk, and time preferences; and the role of social networks for economic outcomes.",
+	"image": "https://i.ytimg.com/vi/IS74XZmBymk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/764-alessandra-cassar-female-competitiveness-cooperative/id1451347236?i=1000607213587&uo=4",
+	"publishDate": 2023-04-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/764-Alessandra-Cassar-Female-Competitiveness--Cooperative-Breeding--and-Market-Development-e1sgfvh",
+	"tags": [
+		"Economics",
+		"Psychology"
+	],
+	"title": "#764 Alessandra Cassar: Female Competitiveness, Cooperative Breeding, and Market Development",
+	"youtubeid": "IS74XZmBymk"
+}
 ---
-<div class="timelinks">
-
 Dr. Alessandra Cassar is a Professor of Economics at the University of San Francisco. She is the Vice-President for North America of the Economic Science Association. Her current research concentrates on the under-studied areas of female competitiveness; the consequences of conflict and disaster victimization for altruism, trust, religiosity, risk, and time preferences; and the role of social networks for economic outcomes.
 
 In this episode, we start by talking about female competitiveness and what motivates it; sex differences in competitiveness, and their effects in the workplace and the job market. We discuss the evolution of prosociality anchored to human cooperative breeding. We talk about differences in competition and cooperation between monogamous and polygynous households. We discuss how civil conflict affects trust and market development, and the effects of natural disasters on altruism. We get into how microfinancing works, and how social capital applies to it; the role of goals, incentives, and support groups in the success of microentrepreneurs; and what financial exclusion is, and how it affects people. Finally, we talk about networked markets, and trade with cheating; and coordination and cooperation in games played on local, random and small-world networks.
@@ -49,5 +45,3 @@ Faculty page: https://bit.ly/3Wa9863
 Website: https://bit.ly/3YysfrZ  
 ResearchGate profile: https://bit.ly/3FXR0GQ  
 Twitter handle: @Cassar_Ale
-</div>
-

@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/39719747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-2%2F7e77f567-615a-bb4b-efbb-e69bc61f21e9.m4a
-draft: false
-excerpt: "Dr. Anna Warrener is an assistant professor in the Anthropology department\
-  \ at University of Colorado Denver. Her research focuses on the evolution of the\
-  \ human musculoskeletal system using biomechanical techniques to assess how variation\
-  \ in physical structure affects locomotor performance. She is specifically interested\
-  \ in the human pelvis and how its unique anatomy impacts both locomotion and human\
-  \ birth. Dr. Warrener\u2019s research has been published in PNAS, PLOS ONE, The\
-  \ Anatomical Record and other peer-reviewed journals and has also been featured\
-  \ in the BBC documentary \u201CWhat Makes Us Human\u201D and on NPR."
-id: '561'
-image: https://i.ytimg.com/vi/1gnGdFE343Q/maxresdefault.jpg
-publishDate: 2021-12-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/561-Anna-Warrener-The-Evolution-of-the-Human-Pelvis--Bipedalism--and-Childbirth-e16qlc3
-tags:
-- Anthropology
-title: '#561 Anna Warrener: The Evolution of the Human Pelvis, Bipedalism, and Childbirth'
-youtubeid: 1gnGdFE343Q
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/39719747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-2%2F7e77f567-615a-bb4b-efbb-e69bc61f21e9.m4a",
+	"draft": false,
+	"episodeid": "561",
+	"excerpt": "Dr. Anna Warrener is an assistant professor in the Anthropology department at University of Colorado Denver. Her research focuses on the evolution of the human musculoskeletal system using biomechanical techniques to assess how variation in physical structure affects locomotor performance. She is specifically interested in the human pelvis and how its unique anatomy impacts both locomotion and human birth. Dr. Warrener’s research has been published in PNAS, PLOS ONE, The Anatomical Record and other peer-reviewed journals and has also been featured in the BBC documentary “What Makes Us Human” and on NPR.",
+	"image": "https://i.ytimg.com/vi/1gnGdFE343Q/maxresdefault.jpg",
+	"publishDate": 2021-12-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/561-Anna-Warrener-The-Evolution-of-the-Human-Pelvis--Bipedalism--and-Childbirth-e16qlc3",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#561 Anna Warrener: The Evolution of the Human Pelvis, Bipedalism, and Childbirth",
+	"youtubeid": "1gnGdFE343Q"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 31st 2021.  
 Dr. Anna Warrener is an assistant professor in the Anthropology department at University of Colorado Denver. Her research focuses on the evolution of the human musculoskeletal system using biomechanical techniques to assess how variation in physical structure affects locomotor performance. She is specifically interested in the human pelvis and how its unique anatomy impacts both locomotion and human birth. Dr. Warrener’s research has been published in PNAS, PLOS ONE, The Anatomical Record and other peer-reviewed journals and has also been featured in the BBC documentary “What Makes Us Human” and on NPR.
 
@@ -41,5 +35,3 @@ Time Links:
 Follow Dr. Warrener’s work:  
 Faculty page: https://bit.ly/3tn1ney  
 ResearchGate profile: https://bit.ly/3jlPzGT
-</div>
-

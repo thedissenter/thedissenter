@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/50261502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-7%2F0bbf84dd-e194-0de8-51ec-dd15ae803ca4.m4a
-draft: false
-excerpt: 'Dr. Russ Shafer-Landau is Professor of Philosophy at the University of Wisconsin-Madison.
-  His primary interest is in ethics. He is the author of Moral Realism: A Defence
-  (Oxford 2003), Whatever Happened to Good and Evil? (Oxford 2004), and The Fundamentals
-  of Ethics (Oxford 2010). He is the editor of Oxford Studies in Metaethics, and is
-  the founder and organizer of the annual Madison Metaethics Workshop (MadMeta). He
-  is also the director of the Marc Sanders Prize in Metaethics. '
-id: '646'
-image: https://i.ytimg.com/vi/_JIQrDDWkAg/maxresdefault.jpg
-publishDate: 2022-07-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/646-Russ-Shafer-Landau-Metaethics--and-Moral-Realism-e1gsc1u
-tags:
-- Philosophy
-title: '#646 Russ Shafer-Landau: Metaethics, and Moral Realism'
-youtubeid: _JIQrDDWkAg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/50261502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-7%2F0bbf84dd-e194-0de8-51ec-dd15ae803ca4.m4a",
+	"draft": false,
+	"episodeid": "646",
+	"excerpt": "Dr. Russ Shafer-Landau is Professor of Philosophy at the University of Wisconsin-Madison. His primary interest is in ethics. He is the author of Moral Realism: A Defence (Oxford 2003), Whatever Happened to Good and Evil? (Oxford 2004), and The Fundamentals of Ethics (Oxford 2010). He is the editor of Oxford Studies in Metaethics, and is the founder and organizer of the annual Madison Metaethics Workshop (MadMeta). He is also the director of the Marc Sanders Prize in Metaethics. ",
+	"image": "https://i.ytimg.com/vi/_JIQrDDWkAg/maxresdefault.jpg",
+	"publishDate": 2022-07-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/646-Russ-Shafer-Landau-Metaethics--and-Moral-Realism-e1gsc1u",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#646 Russ Shafer-Landau: Metaethics, and Moral Realism",
+	"youtubeid": "_JIQrDDWkAg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 7th 2022.  
 Dr. Russ Shafer-Landau is Professor of Philosophy at the University of Wisconsin-Madison. His primary interest is in ethics. He is the author of Moral Realism: A Defence (Oxford 2003), Whatever Happened to Good and Evil? (Oxford 2004), and The Fundamentals of Ethics (Oxford 2010). He is the editor of Oxford Studies in Metaethics, and is the founder and organizer of the annual Madison Metaethics Workshop (MadMeta). He is also the director of the Marc Sanders Prize in Metaethics. 
 
@@ -41,5 +37,3 @@ Follow Dr. Shafer-Landau’s work:
 Faculty page: https://bit.ly/3pKILpx  
 PhilPeople profile: https://bit.ly/32FP4ly  
 Amazon page: https://amzn.to/3mQMwIi
-</div>
-

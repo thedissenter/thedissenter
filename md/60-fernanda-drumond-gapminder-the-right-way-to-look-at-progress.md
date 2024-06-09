@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1997560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651377-44100-2-1780779145e2b.mp3
-draft: false
-excerpt: 'Gapminder Foundation is a non-profit venture based in Stockholm, Sweden,
-  that promotes sustainable global development and achievement of the United Nations
-  Millennium Development Goals by increased use and understanding of statistics and
-  other information about social, economic and environmental development at local,
-  national and global levels.  '
-id: '60'
-image: https://i.ytimg.com/vi/8OdjmgUhTnM/maxresdefault.jpg
-publishDate: 2018-08-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/60-Fernanda-Drumond-Gapminder-The-Right-Way-to-Look-at-Progress-e2rf9o
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Economics
-title: '#60 Fernanda Drumond (Gapminder): The Right Way to Look at Progress'
-youtubeid: 8OdjmgUhTnM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1997560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7651377-44100-2-1780779145e2b.mp3",
+	"draft": false,
+	"episodeid": "60",
+	"excerpt": "Gapminder Foundation is a non-profit venture based in Stockholm, Sweden, that promotes sustainable global development and achievement of the United Nations Millennium Development Goals by increased use and understanding of statistics and other information about social, economic and environmental development at local, national and global levels.  ",
+	"image": "https://i.ytimg.com/vi/8OdjmgUhTnM/maxresdefault.jpg",
+	"publishDate": 2018-08-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/60-Fernanda-Drumond-Gapminder-The-Right-Way-to-Look-at-Progress-e2rf9o",
+	"tags": [
+		"Entrevistas em Português",
+		"Economics"
+	],
+	"title": "#60 Fernanda Drumond (Gapminder): The Right Way to Look at Progress",
+	"youtubeid": "8OdjmgUhTnM"
+}
 ---
-<div class="timelinks">
-
 Gapminder Foundation is a non-profit venture based in Stockholm, Sweden, that promotes sustainable global development and achievement of the United Nations Millennium Development Goals by increased use and understanding of statistics and other information about social, economic and environmental development at local, national and global levels.  
 Fernanda Drumond is the Head of Operations at Gapminder. She holds a Master of Science degree in Development Studies, with background in International Relations. Fernanda likes to lecture about Dollar Street, showing how people really live across different income levels. She also talks about the mega misconceptions that skew people’s worldview in lectures and workshops to companies, universities, schools and non-profits.  
 In this episode, we talk about the possible consequences of having wrong ideas about progress and the current state of the world; the pros and cons of Big Data; a pragmatic attitude vs an ideological one in solving problems; if Gapminder could back up the effective altruism movement from a moral standpoint; the role of media in giving people a much more pessimistic and negative view of reality than it really is; how most problems stem from nature, and it is society that solves them; History as not being cyclic; the problem with predictions coming from specialists and activists; time and progress from a human perspective; and a perspective on climate change.   
@@ -54,5 +51,3 @@ Follow Fernanda:
 Our first interview: https://youtu.be/Pqoil02RlOU  
 Twitter handle: @fecaroldrumond  
 Her favorite tool, Dollar Street: https://tinyurl.com/n35ag6x
-</div>
-

@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601277-44100-2-1429ac7ba73c4.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '34'
-image: https://i.ytimg.com/vi/LlTZrxfqBtI/maxresdefault.jpg
-publishDate: 2018-06-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/34-Azar-Gat-War-and-Terrorism--from-the-Hunter-Gatherers-to-the-Long-Peace-e2r9jh
-title: '#34 Azar Gat: War and Terrorism, from the Hunter-Gatherers to the Long Peace'
-youtubeid: LlTZrxfqBtI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991729/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601277-44100-2-1429ac7ba73c4.mp3",
+	"draft": false,
+	"episodeid": "34",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/LlTZrxfqBtI/maxresdefault.jpg",
+	"publishDate": 2018-06-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/34-Azar-Gat-War-and-Terrorism--from-the-Hunter-Gatherers-to-the-Long-Peace-e2r9jh",
+	"title": "#34 Azar Gat: War and Terrorism, from the Hunter-Gatherers to the Long Peace",
+	"youtubeid": "LlTZrxfqBtI"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -28,5 +28,4 @@ Aqui, falamos sobre as bases evolucionistas da guerra na sociedade humana; a his
 
 Follow Dr. Gat’s work:  
 Faculty page: https://secdip.tau.ac.il/azargat  
-Books: https://www.amazon.com/Azar-Gat/e/B001IQZAOG/ref=sr_tc_2_0?qid=1525019759&sr=1-2-ent</div>
-
+Books: https://www.amazon.com/Azar-Gat/e/B001IQZAOG/ref=sr_tc_2_0?qid=1525019759&sr=1-2-ent

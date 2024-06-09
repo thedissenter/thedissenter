@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/52620389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-26%2Fd126414a-6a45-e232-2904-7d86475c051d.m4a
-draft: false
-excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape Town\
-  \ in Cape Town, South Africa. He is best known for his advocacy of anti-natalism\
-  \ in his book Better Never to Have Been: The Harm of Coming into Existence, in which\
-  \ he argues that coming into existence is a serious harm, regardless of the feelings\
-  \ of the existing being once brought into existence, and that, as a consequence,\
-  \ it is always morally wrong to create more sentient beings. His new book is The\
-  \ Fall of the University of Cape Town: Africa\u2019s Leading University in Decline."
-id: '657'
-image: https://i.ytimg.com/vi/R9KGLcsmRas/maxresdefault.jpg
-publishDate: 2022-07-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/657-David-Benatar---The-Fall-of-the-University-of-Cape-Town-Africas-Leading-University-in-Decline-e1j4bl5
-tags:
-- Philosophy
-title: "#657 David Benatar - The Fall of the University of Cape Town: Africa\u2019\
-  s Leading University in Decline"
-youtubeid: R9KGLcsmRas
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/52620389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-26%2Fd126414a-6a45-e232-2904-7d86475c051d.m4a",
+	"draft": false,
+	"episodeid": "657",
+	"excerpt": "Dr. David Benatar is professor of philosophy at the University of Cape Town in Cape Town, South Africa. He is best known for his advocacy of anti-natalism in his book Better Never to Have Been: The Harm of Coming into Existence, in which he argues that coming into existence is a serious harm, regardless of the feelings of the existing being once brought into existence, and that, as a consequence, it is always morally wrong to create more sentient beings. His new book is The Fall of the University of Cape Town: Africa’s Leading University in Decline.",
+	"image": "https://i.ytimg.com/vi/R9KGLcsmRas/maxresdefault.jpg",
+	"publishDate": 2022-07-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/657-David-Benatar---The-Fall-of-the-University-of-Cape-Town-Africas-Leading-University-in-Decline-e1j4bl5",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#657 David Benatar - The Fall of the University of Cape Town: Africa’s Leading University in Decline",
+	"youtubeid": "R9KGLcsmRas"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 5th 2022.  
 Dr. David Benatar is professor of philosophy at the University of Cape Town in Cape Town, South Africa. He is best known for his advocacy of anti-natalism in his book Better Never to Have Been: The Harm of Coming into Existence, in which he argues that coming into existence is a serious harm, regardless of the feelings of the existing being once brought into existence, and that, as a consequence, it is always morally wrong to create more sentient beings. His new book is The Fall of the University of Cape Town: Africa’s Leading University in Decline.
 
@@ -55,5 +49,3 @@ Faculty page: http://bit.ly/2IWPpmL
 Books on Amazon: https://amzn.to/2Ln3Qli  
 PhilPeople profile: http://bit.ly/2OSZ5lS  
 Twitter handle: @d_benatar
-</div>
-

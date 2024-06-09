@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7609667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945579-44100-2-bae5fc8123fbd.m4a
-draft: false
-excerpt: 'Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy
-  department and the Rutgers Honors College. He specializes in ethics, metaethics,
-  and AI. His work focuses on developing a secular moral realism that is compatible
-  with the problem of moral luck. He also hosts two philosophy podcasts: Philosophers
-  in Space and Embrace the Void. The goal of both shows is to make philosophy accessible
-  for everyone, using science fiction and existential horror.'
-id: '277'
-image: https://i.ytimg.com/vi/SQ2KqzEA93Y/maxresdefault.jpg
-publishDate: 2020-01-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/277-Aaron-Rabinowitz-Moral-Realism--and-Objective-Morality-e86ns3
-tags:
-- Philosophy
-title: '#277 Aaron Rabinowitz: Moral Realism, and Objective Morality'
-youtubeid: SQ2KqzEA93Y
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7609667/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945579-44100-2-bae5fc8123fbd.m4a",
+	"draft": false,
+	"episodeid": "277",
+	"excerpt": "Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy department and the Rutgers Honors College. He specializes in ethics, metaethics, and AI. His work focuses on developing a secular moral realism that is compatible with the problem of moral luck. He also hosts two philosophy podcasts: Philosophers in Space and Embrace the Void. The goal of both shows is to make philosophy accessible for everyone, using science fiction and existential horror.",
+	"image": "https://i.ytimg.com/vi/SQ2KqzEA93Y/maxresdefault.jpg",
+	"publishDate": 2020-01-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/277-Aaron-Rabinowitz-Moral-Realism--and-Objective-Morality-e86ns3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#277 Aaron Rabinowitz: Moral Realism, and Objective Morality",
+	"youtubeid": "SQ2KqzEA93Y"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 22nd, 2019.  
 Aaron Rabinowitz is an Adjunct Professor (PTL) in the Rutgers Philosophy department and the Rutgers Honors College. He specializes in ethics, metaethics, and AI. His work focuses on developing a secular moral realism that is compatible with the problem of moral luck. He also hosts two philosophy podcasts: Philosophers in Space and Embrace the Void. The goal of both shows is to make philosophy accessible for everyone, using science fiction and existential horror.
 
@@ -51,5 +47,3 @@ Embrace the Void: http://bit.ly/35YAdQ4
 Philosophers in Space (facebook group): http://bit.ly/32DBie1  
 Philosophers in Space (Twitter handle): @0gPhilosophy  
 Embrace the Void (Twitter handle): @ETVPod
-</div>
-

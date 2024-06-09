@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/70423685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-15%2F62855a6f-0d5b-786c-37ea-48753a612c42.m4a
-draft: false
-excerpt: 'Dr. Ursula Goodenough is a Professor of Biology Emerita at Washington University
-  in St. Louis where she engaged in research on eukaryotic algae. She has presented
-  the paradigm of Religious Naturalism and the Epic of Evolution in numerous venues
-  around the world. She currently serves as president of the Religious Naturalist
-  Association. She is the author of The Sacred Depths of Nature: How Life Has Emerged
-  and Evolved.'
-id: '832'
-image: https://i.ytimg.com/vi/AYlofmSoHHE/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/832-ursula-goodenough-the-sacred-depths-of-nature/id1451347236?i=1000627233554&uo=4
-publishDate: 2023-09-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/832-Ursula-Goodenough---The-Sacred-Depths-of-Nature-How-Life-Has-Emerged-and-Evolved-e243lm5
-tags:
-- Biology
-- General Science
-title: '#832 Ursula Goodenough - The Sacred Depths of Nature: How Life Has Emerged
-  and Evolved'
-youtubeid: AYlofmSoHHE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/70423685/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-15%2F62855a6f-0d5b-786c-37ea-48753a612c42.m4a",
+	"draft": false,
+	"episodeid": "832",
+	"excerpt": "Dr. Ursula Goodenough is a Professor of Biology Emerita at Washington University in St. Louis where she engaged in research on eukaryotic algae. She has presented the paradigm of Religious Naturalism and the Epic of Evolution in numerous venues around the world. She currently serves as president of the Religious Naturalist Association. She is the author of The Sacred Depths of Nature: How Life Has Emerged and Evolved.",
+	"image": "https://i.ytimg.com/vi/AYlofmSoHHE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/832-ursula-goodenough-the-sacred-depths-of-nature/id1451347236?i=1000627233554&uo=4",
+	"publishDate": 2023-09-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/832-Ursula-Goodenough---The-Sacred-Depths-of-Nature-How-Life-Has-Emerged-and-Evolved-e243lm5",
+	"tags": [
+		"Biology",
+		"General Science"
+	],
+	"title": "#832 Ursula Goodenough - The Sacred Depths of Nature: How Life Has Emerged and Evolved",
+	"youtubeid": "AYlofmSoHHE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 15th 2023.  
 Dr. Ursula Goodenough is a Professor of Biology Emerita at Washington University in St. Louis where she engaged in research on eukaryotic algae. She has presented the paradigm of Religious Naturalism and the Epic of Evolution in numerous venues around the world. She currently serves as president of the Religious Naturalist Association. She is the author of The Sacred Depths of Nature: How Life Has Emerged and Evolved.
 
@@ -52,5 +47,3 @@ Faculty page: http://bit.ly/3wakbAG
 Religious Naturalist Association: https://bit.ly/3W3sDhw  
 Works on ResearchGate: https://bit.ly/3QMfpTu  
 The Secret Depths of Nature: https://bit.ly/3GPflOu
-</div>
-

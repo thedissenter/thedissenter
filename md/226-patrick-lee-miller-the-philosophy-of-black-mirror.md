@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3721167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17878057-44100-2-13957ab6c2589.m4a
-draft: false
-excerpt: 'Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne
-  University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure
-  Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory
-  Readings in Ancient Greek and Roman Philosophy (Hackett, 2015). He also writes for
-  Quillette.'
-id: '226'
-image: https://i.ytimg.com/vi/xokhlikH74s/maxresdefault.jpg
-publishDate: 2019-09-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/226-Patrick-Lee-Miller-The-Philosophy-of-Black-Mirror-e4g2gf
-tags:
-- Philosophy
-title: '#226 Patrick Lee Miller: The Philosophy of Black Mirror'
-youtubeid: xokhlikH74s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3721167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17878057-44100-2-13957ab6c2589.m4a",
+	"draft": false,
+	"episodeid": "226",
+	"excerpt": "Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory Readings in Ancient Greek and Roman Philosophy (Hackett, 2015). He also writes for Quillette.",
+	"image": "https://i.ytimg.com/vi/xokhlikH74s/maxresdefault.jpg",
+	"publishDate": 2019-09-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/226-Patrick-Lee-Miller-The-Philosophy-of-Black-Mirror-e4g2gf",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#226 Patrick Lee Miller: The Philosophy of Black Mirror",
+	"youtubeid": "xokhlikH74s"
+}
 ---
-<div class="timelinks">
-
 Dr. Patrick Lee Miller is an associate professor of Philosophy at Duquesne University, in Pittsburgh, Pennsylvania. He is the author of Becoming God: Pure Reason in Early Greek Philosophy (Bloomsbury, 2012), and co-editor of Introductory Readings in Ancient Greek and Roman Philosophy (Hackett, 2015). He also writes for Quillette.
 
 In this episode, we talk about the philosophy of the Black Mirror series, by Charlie Brooker. We go through some of the general themes we were able to identify running through the series, including: the individual and social aspects of life, and their interplay; the role that technology plays, and if it leaves space open for human agency; personhood, the self, copies, simulations, and how we should deal with them; what it is to be the “true” person; the benefits of virtual reality, as well as its drawbacks; mortality, immortality, and the meaning of life; punishment and Nietzsche’s Eternal Return; how we should deal with memory and knowledge, and what we should know. In the latter part of the discussion, we also talk about the usefulness of thought experiments, the relationship between philosophy and science, and the Platonic soul.
@@ -50,5 +47,3 @@ Black Mirror:
 Wikipedia: https://bit.ly/2dCpfbt  
 Netflix: https://bit.ly/2GN2UBu  
 IMDB: https://imdb.to/2N5tedz
-</div>
-

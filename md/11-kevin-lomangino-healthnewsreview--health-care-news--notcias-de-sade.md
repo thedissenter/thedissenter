@@ -1,17 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571980-44100-2-0c27cc01c65be.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '11'
-image: https://i.ytimg.com/vi/Q8wsX75Z9yY/maxresdefault.jpg
-publishDate: 2018-04-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/11-Kevin-Lomangino-HealthNewsReview--Health-Care-News--Notcias-de-Sade-320-kbps-e2r45c
-title: "#11 Kevin Lomangino: HealthNewsReview, Health Care News | Not\xEDcias de Sa\xFA\
-  de"
-youtubeid: Q8wsX75Z9yY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571980-44100-2-0c27cc01c65be.mp3",
+	"draft": false,
+	"episodeid": "11",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/Q8wsX75Z9yY/maxresdefault.jpg",
+	"publishDate": 2018-04-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/11-Kevin-Lomangino-HealthNewsReview--Health-Care-News--Notcias-de-Sade-320-kbps-e2r45c",
+	"title": "#11 Kevin Lomangino: HealthNewsReview, Health Care News | Notícias de Saúde",
+	"youtubeid": "Q8wsX75Z9yY"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -30,5 +29,4 @@ Aqui, falamos sobre a HealthNewsReview, cuja missão é "melhorar o diálogo pú
 Kevin Lomangino Twitter: @KLomangino  
 HealthNewsReview website: https://www.healthnewsreview.org/  
 HealthNewsReview Facebook: https://www.facebook.com/HealthNewsReview.org   
-HealthNewsReview Twitter: @HealthNewsRevu</div>
-
+HealthNewsReview Twitter: @HealthNewsRevu

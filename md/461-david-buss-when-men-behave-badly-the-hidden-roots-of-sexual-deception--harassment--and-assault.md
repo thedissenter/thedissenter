@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/31830118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-20%2F6cd16c26-02ca-6982-1d6f-9838c203d814.m4a
-draft: false
-excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas at\
-  \ Austin. He\u2019s one of the founders of the field of evolutionary psychology.\
-  \ His primary research focus is on strategies of human mating. He\u2019s the author\
-  \ of many books, including The Evolution of Desire, and the first textbook in Evolutionary\
-  \ Psychology, Evolutionary Psychology: The New Science of the Mind. His most recent\
-  \ book is When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment,\
-  \ and Assault."
-id: '461'
-image: https://i.ytimg.com/vi/4wFLM6tZV-8/maxresdefault.jpg
-publishDate: 2021-04-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/461-David-Buss-When-Men-Behave-Badly-The-Hidden-Roots-of-Sexual-Deception--Harassment--and-Assault-ev9sl6
-tags:
-- Biology
-- Psychology
-title: '#461 David Buss When Men Behave Badly: The Hidden Roots of Sexual Deception,
-  Harassment, and Assault'
-youtubeid: 4wFLM6tZV-8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/31830118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-20%2F6cd16c26-02ca-6982-1d6f-9838c203d814.m4a",
+	"draft": false,
+	"episodeid": "461",
+	"excerpt": "Dr. David Buss is a Professor of Psychology at the University of Texas at Austin. He’s one of the founders of the field of evolutionary psychology. His primary research focus is on strategies of human mating. He’s the author of many books, including The Evolution of Desire, and the first textbook in Evolutionary Psychology, Evolutionary Psychology: The New Science of the Mind. His most recent book is When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault.",
+	"image": "https://i.ytimg.com/vi/4wFLM6tZV-8/maxresdefault.jpg",
+	"publishDate": 2021-04-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/461-David-Buss-When-Men-Behave-Badly-The-Hidden-Roots-of-Sexual-Deception--Harassment--and-Assault-ev9sl6",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#461 David Buss When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault",
+	"youtubeid": "4wFLM6tZV-8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 20th 2021.  
 Dr. David Buss is a Professor of Psychology at the University of Texas at Austin. He’s one of the founders of the field of evolutionary psychology. His primary research focus is on strategies of human mating. He’s the author of many books, including The Evolution of Desire, and the first textbook in Evolutionary Psychology, Evolutionary Psychology: The New Science of the Mind. His most recent book is When Men Behave Badly: The Hidden Roots of Sexual Deception, Harassment, and Assault.
 
@@ -48,5 +42,3 @@ Books on Amazon: https://amzn.to/2RG9aWU
 When Men Behave Badly: https://amzn.to/3arIVdl  
 Evolutionary Psychology: The New Science of the Mind (textbook, 6th edition): https://amzn.to/2Q8PElJ  
 Twitter handle: @ProfDavidBuss
-</div>
-

@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54573334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-8%2F6dd7dee1-08fd-8d73-7e52-03a689f772a1.m4a
-draft: false
-excerpt: Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Department
-  of Anthropology at Washington State University, where he studies long-distance relationships
-  and natural resource management in Tanzania in collaboration with Anne Pisor and
-  Monique Borgerhoff Mulder. This project applies evolutionary anthropology to better
-  understand how communities can work together to manage shared, open-access fisheries.
-  He previously worked as a research associate for the Geography of Philosophy Project,
-  led by Edouard Machery, Clark Barrett, and Stephen Stich, examining cultural variation
-  in folk concepts of knowledge, wisdom, and reasoning. He also worked with Coren
-  Apicella, studying how the Hadza hunter-gatherers of Tanzania maintain group cooperation
-  and what traits they prefer in potential social partners.
-id: '687'
-image: https://i.ytimg.com/vi/vBqKDXVh-9M/maxresdefault.jpg
-publishDate: 2022-10-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/687-Kristopher-Smith-Human-Cooperation--Partner-Choice--and-Long-Distance-Relationships-e1kvuqm
-tags:
-- Anthropology
-title: '#687 Kristopher Smith: Human Cooperation, Partner Choice, and Long-Distance
-  Relationships'
-youtubeid: vBqKDXVh-9M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54573334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-8%2F6dd7dee1-08fd-8d73-7e52-03a689f772a1.m4a",
+	"draft": false,
+	"episodeid": "687",
+	"excerpt": "Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Department of Anthropology at Washington State University, where he studies long-distance relationships and natural resource management in Tanzania in collaboration with Anne Pisor and Monique Borgerhoff Mulder. This project applies evolutionary anthropology to better understand how communities can work together to manage shared, open-access fisheries. He previously worked as a research associate for the Geography of Philosophy Project, led by Edouard Machery, Clark Barrett, and Stephen Stich, examining cultural variation in folk concepts of knowledge, wisdom, and reasoning. He also worked with Coren Apicella, studying how the Hadza hunter-gatherers of Tanzania maintain group cooperation and what traits they prefer in potential social partners.",
+	"image": "https://i.ytimg.com/vi/vBqKDXVh-9M/maxresdefault.jpg",
+	"publishDate": 2022-10-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/687-Kristopher-Smith-Human-Cooperation--Partner-Choice--and-Long-Distance-Relationships-e1kvuqm",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#687 Kristopher Smith: Human Cooperation, Partner Choice, and Long-Distance Relationships",
+	"youtubeid": "vBqKDXVh-9M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 8th 2022.  
 Dr. Kristopher Smith is a postdoc in the Human Sociality Lab in the Department of Anthropology at Washington State University, where he studies long-distance relationships and natural resource management in Tanzania in collaboration with Anne Pisor and Monique Borgerhoff Mulder. This project applies evolutionary anthropology to better understand how communities can work together to manage shared, open-access fisheries. He previously worked as a research associate for the Geography of Philosophy Project, led by Edouard Machery, Clark Barrett, and Stephen Stich, examining cultural variation in folk concepts of knowledge, wisdom, and reasoning. He also worked with Coren Apicella, studying how the Hadza hunter-gatherers of Tanzania maintain group cooperation and what traits they prefer in potential social partners.
 
@@ -48,5 +39,3 @@ Follow Dr. Smith’s work:
 University Page: https://bit.ly/3KWwxBN  
 ResearchGate profile: https://bit.ly/3Jqj1WU  
 Twitter handle: @kris_m_smith
-</div>
-

@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/56868215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-30%2Fc3b1952a-fa95-6a98-aa43-39d0ff462336.m4a
-draft: false
-excerpt: 'Dr. Mahtab Jafari is Professor of Pharmaceutical Sciences at the School
-  of Pharmacy and Pharmaceutical Sciences, Professor of Ecology & Evolutionary Biology
-  at the School of Biological Sciences, and Director of the UCI Center for Healthspan
-  Sciences at the University of California, Irvine. Her research interests include
-  Healthspan Pharmacology: the impact of botanical extracts and dietary supplements
-  on longevity and health; Anti-Aging Pharmacology; and Preventive Medicine. She is
-  the author of The Truth About Dietary Supplements: An Evidence-Based Guide to a
-  Safe Medicine Cabinet.'
-id: '677'
-image: https://i.ytimg.com/vi/mcON7PI5DMM/maxresdefault.jpg
-publishDate: 2022-09-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/677-Mahtab-Jafari-The-Truth-About-Dietary-Supplements-e1n5vtn
-tags:
-- Medicine
-- General Science
-title: '#677 Mahtab Jafari: The Truth About Dietary Supplements'
-youtubeid: mcON7PI5DMM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/56868215/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-30%2Fc3b1952a-fa95-6a98-aa43-39d0ff462336.m4a",
+	"draft": false,
+	"episodeid": "677",
+	"excerpt": "Dr. Mahtab Jafari is Professor of Pharmaceutical Sciences at the School of Pharmacy and Pharmaceutical Sciences, Professor of Ecology & Evolutionary Biology at the School of Biological Sciences, and Director of the UCI Center for Healthspan Sciences at the University of California, Irvine. Her research interests include Healthspan Pharmacology: the impact of botanical extracts and dietary supplements on longevity and health; Anti-Aging Pharmacology; and Preventive Medicine. She is the author of The Truth About Dietary Supplements: An Evidence-Based Guide to a Safe Medicine Cabinet.",
+	"image": "https://i.ytimg.com/vi/mcON7PI5DMM/maxresdefault.jpg",
+	"publishDate": 2022-09-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/677-Mahtab-Jafari-The-Truth-About-Dietary-Supplements-e1n5vtn",
+	"tags": [
+		"Medicine",
+		"General Science"
+	],
+	"title": "#677 Mahtab Jafari: The Truth About Dietary Supplements",
+	"youtubeid": "mcON7PI5DMM"
+}
 ---
-<div class="timelinks">
-
 Dr. Mahtab Jafari is Professor of Pharmaceutical Sciences at the School of Pharmacy and Pharmaceutical Sciences, Professor of Ecology & Evolutionary Biology at the School of Biological Sciences, and Director of the UCI Center for Healthspan Sciences at the University of California, Irvine. Her research interests include Healthspan Pharmacology: the impact of botanical extracts and dietary supplements on longevity and health; Anti-Aging Pharmacology; and Preventive Medicine. She is the author of The Truth About Dietary Supplements: An Evidence-Based Guide to a Safe Medicine Cabinet.
 
 In this episode, we focus on The Truth About Dietary Supplements. We start by talking about Dr. Jafari’s academic background, and what led her to writing this book. We then get into dietary supplements: what they are; who makes and sells them; if they are regulated and tested; and the reporting of adverse side effects. We ask if people generally need supplements. We talk about botanicals used in traditional societies. We discuss issues with the ingredients of supplements, and potential interactions with medication. We talk about how we can know that a supplement is trustworthy. We go through several communication issues regarding social media, celebrity influencers, anecdotes, and the “wellness industry”. We touch on pet supplements. Finally, we talk about how to know if one has some deficiency, what to ask healthcare providers about supplements, and how to monitor the effects of dietary supplements.
@@ -53,5 +47,3 @@ University page: https://bit.ly/3xFctkk
 Website: https://bit.ly/3JTbNKr  
 ResearchGate profile: https://bit.ly/3Qh5gNp  
 The Truth About Dietary Supplements: https://amzn.to/3QcS3VB
-</div>
-

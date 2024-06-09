@@ -1,21 +1,17 @@
 ---
-draft: false
-excerpt: 'Dr. Kathleen Stock is Professor of Philosophy at the University of Sussex.
-  She has published on aesthetics, fiction, imagination, and sexual objectification.
-  She is currently the vice-president of the British Society of Aesthetics. In her
-  monograph Only Imagine: Fiction, Interpretation and Imagination (2017) she examines
-  the nature of fictional content. She has expressed critical views on the UK Gender
-  Recognition Act and trans self-identification.'
-id: '260'
-image: https://i.ytimg.com/vi/kL-cDT5FRk4/maxresdefault.jpg
-publishDate: 2019-11-25
-tags:
-- Philosophy
-title: '#260 Kathleen Stock: Fiction, And Transgenderism'
-youtubeid: kL-cDT5FRk4
+{
+	"draft": false,
+	"episodeid": "260",
+	"excerpt": "Dr. Kathleen Stock is Professor of Philosophy at the University of Sussex. She has published on aesthetics, fiction, imagination, and sexual objectification. She is currently the vice-president of the British Society of Aesthetics. In her monograph Only Imagine: Fiction, Interpretation and Imagination (2017) she examines the nature of fictional content. She has expressed critical views on the UK Gender Recognition Act and trans self-identification.",
+	"image": "https://i.ytimg.com/vi/kL-cDT5FRk4/maxresdefault.jpg",
+	"publishDate": 2019-11-25,
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#260 Kathleen Stock: Fiction, And Transgenderism",
+	"youtubeid": "kL-cDT5FRk4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 19th, 2019.  
 Dr. Kathleen Stock is Professor of Philosophy at the University of Sussex. She has published on aesthetics, fiction, imagination, and sexual objectification. She is currently the vice-president of the British Society of Aesthetics. In her monograph Only Imagine: Fiction, Interpretation and Imagination (2017) she examines the nature of fictional content. She has expressed critical views on the UK Gender Recognition Act and trans self-identification.
 
@@ -39,5 +35,3 @@ Selected publications: http://bit.ly/2kUbNEr
 Quillette articles: http://bit.ly/2lYzxaK  
 Only Imagine: Fiction, Interpretation and Imagination: https://amzn.to/2kU7CbI  
 Twitter handle: @Docstockk
-</div>
-

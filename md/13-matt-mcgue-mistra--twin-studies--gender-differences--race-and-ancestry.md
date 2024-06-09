@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572207-44100-2-1416127a031f8.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '13'
-image: https://i.ytimg.com/vi/Wl_w9DJ1R88/maxresdefault.jpg
-publishDate: 2018-04-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/13-Matt-McGue-MISTRA--Twin-Studies--Gender-Differences--Race-and-Ancestry-e2r46v
-tags:
-- Psychology
-title: '#13 Matt McGue: MISTRA, Twin Studies, Gender Differences, Race and Ancestry'
-youtubeid: Wl_w9DJ1R88
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986207/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572207-44100-2-1416127a031f8.mp3",
+	"draft": false,
+	"episodeid": "13",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/Wl_w9DJ1R88/maxresdefault.jpg",
+	"publishDate": 2018-04-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/13-Matt-McGue-MISTRA--Twin-Studies--Gender-Differences--Race-and-Ancestry-e2r46v",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#13 Matt McGue: MISTRA, Twin Studies, Gender Differences, Race and Ancestry",
+	"youtubeid": "Wl_w9DJ1R88"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -27,5 +28,4 @@ Dr. Matt McGue is a behavior geneticist and Regents Professor of Psychology at t
 O Dr. Matt McGue é um geneticista comportamental e Professor Regente de Psicologia da Universidade de Minnesota, onde ele é codiretor do Minnesota Center for Twin and Family Research. O Dr. McGue é autor ou coautor de 375 artigos em jornais académicos. O seu h-index, de acordo com o Google Scholar, é 103. O Dr. McGue participou numa dos maiores feitos científicos de sempre, o MISTRA (Minnesota Study on Twins Reared Apart), ao lado de grandes nomes deste tipo de investigação, como Thomas Bouchard, Nancy Segal, Auke Tellegen e David Lykken. Aqui, falamos sobre Genética Comportamental; o MISTRA; os tipos de estudos que se fazem em Genética Comportamental Humana; o que é que os estudos com gémeos e adotados nos indicam acerca da natureza humana; alguns dos mais interessantes achados do MISTRA; respostas de pessoas que apenas querem saber de socialização; diferenças entre os géneros; o conceito de raça em Genética Comportamental, e as suas implicações. 
 
 Dr. McGue faculty page: https://cnbd.umn.edu/bio/cnbd-faculty-staff/matthew-mcgue  
-Dr. McGue’s MOOC on Introduction to Human Behavioral Genetics: https://www.coursera.org/learn/behavioralgenetics</div>
-
+Dr. McGue’s MOOC on Introduction to Human Behavioral Genetics: https://www.coursera.org/learn/behavioralgenetics

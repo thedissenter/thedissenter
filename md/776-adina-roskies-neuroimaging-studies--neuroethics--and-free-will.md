@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63396581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-12%2Feb6c29e3-f545-127f-7ed9-fa89f5626c4f.m4a
-draft: false
-excerpt: Dr. Adina Roskies is The Helman Family Distinguished Professor and Chair
-  of the Cognitive Science Program at Dartmouth College. She is affiliated faculty
-  with Psychological and Brain Sciences. Dr. Roskies' philosophical research interests
-  lie at the intersection of philosophy and neuroscience, and include philosophy of
-  mind, philosophy of science, and ethics. She was a member of the McDonnell Project
-  in Neurophilosophy, and the MacArthur Law and Neuroscience Project. Awards include
-  the William James Prize and the Stanton Prize, awarded by the Society of Philosophy
-  and Psychology, a Mellon New Directions Fellowship, and the Laurance S. Rockefeller
-  Visiting Faculty Fellowship from the Princeton University Center for Human Values.
-id: '776'
-image: https://i.ytimg.com/vi/Uoc3P563xuY/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/776-adina-roskies-neuroimaging-studies-neuroethics/id1451347236?i=1000611346000&uo=4
-publishDate: 2023-05-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/776-Adina-Roskies-Neuroimaging-Studies--Neuroethics--and-Free-Will-e1td795
-tags:
-- Neuroscience
-- Philosophy
-title: '#776 Adina Roskies: Neuroimaging Studies, Neuroethics, and Free Will'
-youtubeid: Uoc3P563xuY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63396581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-12%2Feb6c29e3-f545-127f-7ed9-fa89f5626c4f.m4a",
+	"draft": false,
+	"episodeid": "776",
+	"excerpt": "Dr. Adina Roskies is The Helman Family Distinguished Professor and Chair of the Cognitive Science Program at Dartmouth College. She is affiliated faculty with Psychological and Brain Sciences. Dr. Roskies' philosophical research interests lie at the intersection of philosophy and neuroscience, and include philosophy of mind, philosophy of science, and ethics. She was a member of the McDonnell Project in Neurophilosophy, and the MacArthur Law and Neuroscience Project. Awards include the William James Prize and the Stanton Prize, awarded by the Society of Philosophy and Psychology, a Mellon New Directions Fellowship, and the Laurance S. Rockefeller Visiting Faculty Fellowship from the Princeton University Center for Human Values.",
+	"image": "https://i.ytimg.com/vi/Uoc3P563xuY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/776-adina-roskies-neuroimaging-studies-neuroethics/id1451347236?i=1000611346000&uo=4",
+	"publishDate": 2023-05-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/776-Adina-Roskies-Neuroimaging-Studies--Neuroethics--and-Free-Will-e1td795",
+	"tags": [
+		"Neuroscience",
+		"Philosophy"
+	],
+	"title": "#776 Adina Roskies: Neuroimaging Studies, Neuroethics, and Free Will",
+	"youtubeid": "Uoc3P563xuY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 12th 2022.  
 Dr. Adina Roskies is The Helman Family Distinguished Professor and Chair of the Cognitive Science Program at Dartmouth College. She is affiliated faculty with Psychological and Brain Sciences. Dr. Roskies' philosophical research interests lie at the intersection of philosophy and neuroscience, and include philosophy of mind, philosophy of science, and ethics. She was a member of the McDonnell Project in Neurophilosophy, and the MacArthur Law and Neuroscience Project. Awards include the William James Prize and the Stanton Prize, awarded by the Society of Philosophy and Psychology, a Mellon New Directions Fellowship, and the Laurance S. Rockefeller Visiting Faculty Fellowship from the Princeton University Center for Human Values.
 
@@ -50,5 +43,3 @@ Time Links:
 Follow Dr. Roskies’ work:  
 Faculty page: https://bit.ly/3Bkdwr2  
 PhilPeople profile: https://bit.ly/3x2799c
-</div>
-

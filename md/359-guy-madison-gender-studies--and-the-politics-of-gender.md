@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/16553095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F94ea8337-d512-f80f-fade-312dd860f3ea.m4a
-draft: false
-excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at University\
-  \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\
-  \ Biology. "
-id: '359'
-image: https://i.ytimg.com/vi/9V68FlZDQqA/maxresdefault.jpg
-publishDate: 2020-08-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/359-Guy-Madison-Gender-Studies--and-the-Politics-of-Gender-egnlm7
-tags:
-- Psychology
-title: '#359 Guy Madison: Gender Studies, and the Politics of Gender'
-youtubeid: 9V68FlZDQqA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/16553095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F94ea8337-d512-f80f-fade-312dd860f3ea.m4a",
+	"draft": false,
+	"episodeid": "359",
+	"excerpt": "Dr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. ",
+	"image": "https://i.ytimg.com/vi/9V68FlZDQqA/maxresdefault.jpg",
+	"publishDate": 2020-08-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/359-Guy-Madison-Gender-Studies--and-the-Politics-of-Gender-egnlm7",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#359 Guy Madison: Gender Studies, and the Politics of Gender",
+	"youtubeid": "9V68FlZDQqA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 11th, 2020.  
 Dr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. 
 
@@ -36,5 +35,3 @@ Time Links:
 Follow Dr. Madison’s work:  
 Faculty page: https://bit.ly/2YbHaeO  
 ResearchGate profile: https://bit.ly/3hAj8S5
-</div>
-

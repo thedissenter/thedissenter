@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/52297945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-20%2F8121a3b6-2064-a538-0a2b-4190b8a3c553.m4a
-draft: false
-excerpt: Dr. Summer Mengelkoch has recently finished her PhD in experimental social
-  psychology at Texas Christian University. She has just accepted a postdoc position
-  at UCLA under George Slavich. She earned a B.A. from the University of Minnesota
-  in 2013, and an M.S. From Texas Christian University in 2020. Dr. Mengelkoch seeks
-  to better understand relationships between biology and behavior. To do so, she investigates
-  relationships between biological factors (including hormones, hormonal contraceptive
-  use, and immune function) and behaviors (including eating behavior, mate preferences,
-  cognition, and decision-making).
-id: '664'
-image: https://i.ytimg.com/vi/EzWmDrudlKk/maxresdefault.jpg
-publishDate: 2022-08-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/664-Summer-Mengelkoch-Early-Life-Stressors--Life-History--Physiology--and-Decision-Making-e1iqgop
-tags:
-- Psychology
-title: '#664 Summer Mengelkoch: Early Life Stressors, Life History, Physiology, and
-  Decision-Making'
-youtubeid: EzWmDrudlKk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/52297945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-20%2F8121a3b6-2064-a538-0a2b-4190b8a3c553.m4a",
+	"draft": false,
+	"episodeid": "664",
+	"excerpt": "Dr. Summer Mengelkoch has recently finished her PhD in experimental social psychology at Texas Christian University. She has just accepted a postdoc position at UCLA under George Slavich. She earned a B.A. from the University of Minnesota in 2013, and an M.S. From Texas Christian University in 2020. Dr. Mengelkoch seeks to better understand relationships between biology and behavior. To do so, she investigates relationships between biological factors (including hormones, hormonal contraceptive use, and immune function) and behaviors (including eating behavior, mate preferences, cognition, and decision-making).",
+	"image": "https://i.ytimg.com/vi/EzWmDrudlKk/maxresdefault.jpg",
+	"publishDate": 2022-08-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/664-Summer-Mengelkoch-Early-Life-Stressors--Life-History--Physiology--and-Decision-Making-e1iqgop",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#664 Summer Mengelkoch: Early Life Stressors, Life History, Physiology, and Decision-Making",
+	"youtubeid": "EzWmDrudlKk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 20th 2022.  
 Dr. Summer Mengelkoch has recently finished her PhD in experimental social psychology at Texas Christian University. She has just accepted a postdoc position at UCLA under George Slavich. She earned a B.A. from the University of Minnesota in 2013, and an M.S. From Texas Christian University in 2020. Dr. Mengelkoch seeks to better understand relationships between biology and behavior. To do so, she investigates relationships between biological factors (including hormones, hormonal contraceptive use, and immune function) and behaviors (including eating behavior, mate preferences, cognition, and decision-making).
 
@@ -45,5 +38,3 @@ Follow Dr. Mengelkoch’s work:
 Website: https://bit.ly/3rcg1ql  
 ResearchGate profile: https://bit.ly/3HhpqCA  
 Twitter handle: @PsychdOnScience
-</div>
-

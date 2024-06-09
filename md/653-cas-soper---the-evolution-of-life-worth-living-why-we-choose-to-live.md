@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54644400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F1f5195be-8db9-c94a-df28-c57b3edc928b.m4a
-draft: false
-excerpt: 'Dr. Cas Soper is a psychotherapist and psychologist in private practice.
-  Dr. Soper has degrees from the University of Cambridge and the University of London,
-  and is registered by the British Association for Counselling and Psychotherapy.
-  His therapeutic work specializes in helping people deal with addiction, depression,
-  bereavement and other life crises. He is the author of The Evolution of Suicide,
-  and, more recently, The Evolution of Life Worth Living: Why we choose to live.'
-id: '653'
-image: https://i.ytimg.com/vi/Dy9LgLZxVws/maxresdefault.jpg
-publishDate: 2022-07-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/653-Cas-Soper---The-Evolution-of-Life-Worth-Living-Why-we-choose-to-live-e1l247g
-tags:
-- Psychology
-title: '#653 Cas Soper - The Evolution of Life Worth Living: Why we choose to live'
-youtubeid: Dy9LgLZxVws
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54644400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F1f5195be-8db9-c94a-df28-c57b3edc928b.m4a",
+	"draft": false,
+	"episodeid": "653",
+	"excerpt": "Dr. Cas Soper is a psychotherapist and psychologist in private practice. Dr. Soper has degrees from the University of Cambridge and the University of London, and is registered by the British Association for Counselling and Psychotherapy. His therapeutic work specializes in helping people deal with addiction, depression, bereavement and other life crises. He is the author of The Evolution of Suicide, and, more recently, The Evolution of Life Worth Living: Why we choose to live.",
+	"image": "https://i.ytimg.com/vi/Dy9LgLZxVws/maxresdefault.jpg",
+	"publishDate": 2022-07-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/653-Cas-Soper---The-Evolution-of-Life-Worth-Living-Why-we-choose-to-live-e1l247g",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#653 Cas Soper - The Evolution of Life Worth Living: Why we choose to live",
+	"youtubeid": "Dy9LgLZxVws"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 10th 2022.  
 Dr. Cas Soper is a psychotherapist and psychologist in private practice. Dr. Soper has degrees from the University of Cambridge and the University of London, and is registered by the British Association for Counselling and Psychotherapy. His therapeutic work specializes in helping people deal with addiction, depression, bereavement and other life crises. He is the author of The Evolution of Suicide, and, more recently, The Evolution of Life Worth Living: Why we choose to live.
 
@@ -47,5 +43,3 @@ Website: http://soper.pt/
 ResearchGate profile: https://bit.ly/3MXMWrz  
 The Evolution of Life Worth Living: https://amzn.to/3Jfyc5b  
 Twitter handle: @C_A_Soper
-</div>
-

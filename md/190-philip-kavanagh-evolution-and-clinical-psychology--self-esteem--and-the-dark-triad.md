@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2991091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13203117-44100-2-e143c27a5efc8.m4a
-draft: false
-excerpt: Dr. Phillip Kavanagh is an Associate Professor of Evolutionary Psychology
-  at the Institute for Social Neuroscience, and Adjunct Associate Professor of Psychology
-  at the University of South Australia. Dr. Kavanagh lectures across both the undergraduate
-  and postgraduate psychology programs, provides research supervision to honors, master's,
-  and PhD students, and clinical supervision to students in the clinical program.
-id: '190'
-image: https://i.ytimg.com/vi/djqc2wHTUQs/maxresdefault.jpg
-publishDate: 2019-06-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/190-Philip-Kavanagh-Evolution-And-Clinical-Psychology--Self-Esteem--And-The-Dark-Triad-e3pphj
-tags:
-- Psychology
-title: '#190 Philip Kavanagh: Evolution And Clinical Psychology, Self-Esteem, And
-  The Dark Triad'
-youtubeid: djqc2wHTUQs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2991091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13203117-44100-2-e143c27a5efc8.m4a",
+	"draft": false,
+	"episodeid": "190",
+	"excerpt": "Dr. Phillip Kavanagh is an Associate Professor of Evolutionary Psychology at the Institute for Social Neuroscience, and Adjunct Associate Professor of Psychology at the University of South Australia. Dr. Kavanagh lectures across both the undergraduate and postgraduate psychology programs, provides research supervision to honors, master's, and PhD students, and clinical supervision to students in the clinical program.",
+	"image": "https://i.ytimg.com/vi/djqc2wHTUQs/maxresdefault.jpg",
+	"publishDate": 2019-06-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/190-Philip-Kavanagh-Evolution-And-Clinical-Psychology--Self-Esteem--And-The-Dark-Triad-e3pphj",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#190 Philip Kavanagh: Evolution And Clinical Psychology, Self-Esteem, And The Dark Triad",
+	"youtubeid": "djqc2wHTUQs"
+}
 ---
-<div class="timelinks">
-
 Dr. Phillip Kavanagh is an Associate Professor of Evolutionary Psychology at the Institute for Social Neuroscience, and Adjunct Associate Professor of Psychology at the University of South Australia. Dr. Kavanagh lectures across both the undergraduate and postgraduate psychology programs, provides research supervision to honors, master's, and PhD students, and clinical supervision to students in the clinical program.
 
 In this episode, we talk about the relationship between evolutionary psychology and clinical psychology, and the discipline of evolutionary clinical psychology. We go through some major issues, like how to properly classify something as a mental disorder/disease; how our modern environments differ in significant ways from the environments we evolved in, and the problems that brings, and the phenomenon of evolutionary mismatch; the several different schools of thought that we have in clinical psychology, and if it would be possible to unify them under a core theory; the difficulties in objectively evaluating patients; life history strategies, and the problems that arise when we have unfulfilled expectations. We also talk about personality variation, and the relevance of personality inventories, like the Big Five, in a clinical context; the sociometer theory, and its explanatory power; how our modern obsession with happiness might be problematic. Finally, we discuss recent literature on the Dark Triad and the Light Triad of human nature.
@@ -49,5 +45,3 @@ Are Expectations the Missing Link between Life History Strategies and Psychopath
 Social Exclusion, Self-Esteem, & Mating Relationships: Testing a Domain-Specific Variant of Sociometer Theory: https://bit.ly/2IvvtYW  
 Testing the Sociometer Model of Social Rejection: The Role of Self-Esteem as a Domain-Specific Mediator of Relationship Outcomes: https://bit.ly/2DbyHNI  
 The Light vs. Dark Triad of Personality: Contrasting Two Very Different Profiles of Human Nature: https://bit.ly/2Ip1stI
-</div>
-

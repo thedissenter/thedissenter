@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/27248419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F4ed1a543-c4a9-29e7-6d39-796e467cfb5c.m4a
-draft: false
-excerpt: 'Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Honorary
-  Professor of Philosophy at Macquarie University. He is also the Co-Director of the
-  Justice Without Retribution Network (JWRN) at the University of Aberdeen School
-  of Law. His research interests include free will, agency, and responsibility (both
-  moral and legal), as well as philosophy of mind, cognitive science, neuroethics,
-  moral psychology, criminal law, punishment, and public policy. His books include
-  Rejecting Retributivism: Free Will, Punishment, and Criminal Justice (2021), Just
-  Deserts: Debating Free Will (w/Daniel C. Dennett) (2021), Free Will and Consciousness:
-  A Determinist Account of the Illusion of Free Will (2012), Exploring the Illusion
-  of Free Will and Moral Responsibility (2013), Science and Religion: 5 Questions
-  (2014), Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience
-  (co-edited w/Owen Flanagan); and Free Will Skepticism in Law and Society (co-edited
-  w/Elizabeth Shaw and Derk Pereboom).'
-id: '436'
-image: https://i.ytimg.com/vi/gljr39s6Cjs/maxresdefault.jpg
-publishDate: 2021-02-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/436-Gregg-Caruso-Just-Deserts--and-Rejecting-Retributivism-equ2b3
-tags:
-- Philosophy
-title: '#436 Gregg Caruso: Just Deserts, and Rejecting Retributivism'
-youtubeid: gljr39s6Cjs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/27248419/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-23%2F4ed1a543-c4a9-29e7-6d39-796e467cfb5c.m4a",
+	"draft": false,
+	"episodeid": "436",
+	"excerpt": "Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Honorary Professor of Philosophy at Macquarie University. He is also the Co-Director of the Justice Without Retribution Network (JWRN) at the University of Aberdeen School of Law. His research interests include free will, agency, and responsibility (both moral and legal), as well as philosophy of mind, cognitive science, neuroethics, moral psychology, criminal law, punishment, and public policy. His books include Rejecting Retributivism: Free Will, Punishment, and Criminal Justice (2021), Just Deserts: Debating Free Will (w/Daniel C. Dennett) (2021), Free Will and Consciousness: A Determinist Account of the Illusion of Free Will (2012), Exploring the Illusion of Free Will and Moral Responsibility (2013), Science and Religion: 5 Questions (2014), Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience (co-edited w/Owen Flanagan); and Free Will Skepticism in Law and Society (co-edited w/Elizabeth Shaw and Derk Pereboom).",
+	"image": "https://i.ytimg.com/vi/gljr39s6Cjs/maxresdefault.jpg",
+	"publishDate": 2021-02-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/436-Gregg-Caruso-Just-Deserts--and-Rejecting-Retributivism-equ2b3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#436 Gregg Caruso: Just Deserts, and Rejecting Retributivism",
+	"youtubeid": "gljr39s6Cjs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 23rd 2021.  
 Dr. Gregg D. Caruso is Professor of Philosophy at SUNY Corning and Honorary Professor of Philosophy at Macquarie University. He is also the Co-Director of the Justice Without Retribution Network (JWRN) at the University of Aberdeen School of Law. His research interests include free will, agency, and responsibility (both moral and legal), as well as philosophy of mind, cognitive science, neuroethics, moral psychology, criminal law, punishment, and public policy. His books include Rejecting Retributivism: Free Will, Punishment, and Criminal Justice (2021), Just Deserts: Debating Free Will (w/Daniel C. Dennett) (2021), Free Will and Consciousness: A Determinist Account of the Illusion of Free Will (2012), Exploring the Illusion of Free Will and Moral Responsibility (2013), Science and Religion: 5 Questions (2014), Neuroexistentialism: Meaning, Morals, and Purpose in the Age of Neuroscience (co-edited w/Owen Flanagan); and Free Will Skepticism in Law and Society (co-edited w/Elizabeth Shaw and Derk Pereboom).
 
@@ -53,5 +42,3 @@ Amazon page: https://amzn.to/3btFJO9
 Just Deserts: https://amzn.to/3pKCSFF  
 Rejecting Retributivism: https://amzn.to/3aKnvcb  
 Twitter handle: @GreggDCaruso
-</div>
-

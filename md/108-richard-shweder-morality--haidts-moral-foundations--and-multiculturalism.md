@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734875-48000-2-16cd6c5f6495e.mp3
-draft: false
-excerpt: "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift\
-  \ Distinguished Service Professor of Human Development at the University of Chicago,\
-  \ US. He\u2019s the author of Thinking Through Cultures: Expeditions in Cultural\
-  \ Psychology and Why Do Men Barbecue? Recipes for Cultural Psychology, and editor\
-  \ or co-editor of many books in the areas of cultural psychology, psychological\
-  \ anthropology and comparative human development. Dr. Shweder has been the recipient\
-  \ of many awards, including a John Simon Guggenheim Fellowship (1985-86) and the\
-  \ American Association for the Advancement of Science Socio-Psychological Prize\
-  \ for his essay \u201CDoes the Concept of the Person Vary Cross-Culturally?\u201D\
-  . He is a Fellow of the American Academy of Arts and Sciences. He has served as\
-  \ President of the Society for Psychological Anthropology.  "
-id: '108'
-image: https://i.ytimg.com/vi/o-HRrzg6sM0/maxresdefault.jpg
-publishDate: 2018-12-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/108-Richard-Shweder-Morality--Haidts-Moral-Foundations--and-Multiculturalism-e2rses
-tags:
-- Psychology
-title: '#108 Richard Shweder: Morality, Haidt''s Moral Foundations, and Multiculturalism'
-youtubeid: o-HRrzg6sM0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011036/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734875-48000-2-16cd6c5f6495e.mp3",
+	"draft": false,
+	"episodeid": "108",
+	"excerpt": "Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift Distinguished Service Professor of Human Development at the University of Chicago, US. He’s the author of Thinking Through Cultures: Expeditions in Cultural Psychology and Why Do Men Barbecue? Recipes for Cultural Psychology, and editor or co-editor of many books in the areas of cultural psychology, psychological anthropology and comparative human development. Dr. Shweder has been the recipient of many awards, including a John Simon Guggenheim Fellowship (1985-86) and the American Association for the Advancement of Science Socio-Psychological Prize for his essay “Does the Concept of the Person Vary Cross-Culturally?”. He is a Fellow of the American Academy of Arts and Sciences. He has served as President of the Society for Psychological Anthropology.  ",
+	"image": "https://i.ytimg.com/vi/o-HRrzg6sM0/maxresdefault.jpg",
+	"publishDate": 2018-12-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/108-Richard-Shweder-Morality--Haidts-Moral-Foundations--and-Multiculturalism-e2rses",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#108 Richard Shweder: Morality, Haidt's Moral Foundations, and Multiculturalism",
+	"youtubeid": "o-HRrzg6sM0"
+}
 ---
-<div class="timelinks">
-
 Dr. Richard Shweder is a cultural anthropologist and the Harold H. Swift Distinguished Service Professor of Human Development at the University of Chicago, US. He’s the author of Thinking Through Cultures: Expeditions in Cultural Psychology and Why Do Men Barbecue? Recipes for Cultural Psychology, and editor or co-editor of many books in the areas of cultural psychology, psychological anthropology and comparative human development. Dr. Shweder has been the recipient of many awards, including a John Simon Guggenheim Fellowship (1985-86) and the American Association for the Advancement of Science Socio-Psychological Prize for his essay “Does the Concept of the Person Vary Cross-Culturally?”. He is a Fellow of the American Academy of Arts and Sciences. He has served as President of the Society for Psychological Anthropology.  
 In this episode, we talk about morality in its several dimensions (philosophical, cultural, evolutionary, psychological, anthropological). We also talk about Dr. Shweder’s three moral foundations (Autonomy, Community, Divinity), and how Jonathan Haidt contributed to their expansion. We also discuss Alan Fiske’s Relational Models, and what they are about. I ask Dr. Shweder to explain what is Cultural Psychology, and its objects of study in human societies. And we finish off by referring to multiculturalism, in what ways it might be problematic, and how to possibly tackle those issues.
 
@@ -46,5 +37,3 @@ Follow Dr. Shweder’s work:
 Faculty page: https://tinyurl.com/ybthlqa9  
 Books: https://tinyurl.com/y738pat9  
 Articles on Researchgate: https://tinyurl.com/y9a89m6r
-</div>
-

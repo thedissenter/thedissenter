@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18416176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F1d2719c0-a3d3-f11c-78e6-01ae56342f05.m4a
-draft: false
-excerpt: 'Dr. Melanie Mitchell is the Davis Professor of Complexity at the Santa Fe
-  Institute, and Professor of Computer Science at Portland State University.  Her
-  current research focuses on conceptual abstraction, analogy-making, and visual recognition
-  in artificial intelligence systems. Dr. Mitchell is the author or editor of six
-  books and numerous scholarly papers in the fields of artificial intelligence, cognitive
-  science, and complex systems. Her book Complexity: A Guided Tour (Oxford University
-  Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com
-  as one of the ten best science books of 2009. Her latest book is Artificial Intelligence:
-  A Guide for Thinking Humans (Farrar, Straus, and Giroux).'
-id: '373'
-image: https://i.ytimg.com/vi/xekprDnbpGw/maxresdefault.jpg
-publishDate: 2020-10-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/373-Melanie-Mitchell-AI--Complex-Systems--Human-Cognition--and-Algorithms-eigh3g
-tags:
-- Cognitive Science
-- Artificial Intelligence
-title: '#373 Melanie Mitchell: AI, Complex Systems, Human Cognition, and Algorithms'
-youtubeid: xekprDnbpGw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18416176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F1d2719c0-a3d3-f11c-78e6-01ae56342f05.m4a",
+	"draft": false,
+	"episodeid": "373",
+	"excerpt": "Dr. Melanie Mitchell is the Davis Professor of Complexity at the Santa Fe Institute, and Professor of Computer Science at Portland State University.  Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. Dr. Mitchell is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus, and Giroux).",
+	"image": "https://i.ytimg.com/vi/xekprDnbpGw/maxresdefault.jpg",
+	"publishDate": 2020-10-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/373-Melanie-Mitchell-AI--Complex-Systems--Human-Cognition--and-Algorithms-eigh3g",
+	"tags": [
+		"Cognitive Science",
+		"Artificial Intelligence"
+	],
+	"title": "#373 Melanie Mitchell: AI, Complex Systems, Human Cognition, and Algorithms",
+	"youtubeid": "xekprDnbpGw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 17th, 2020.  
 Dr. Melanie Mitchell is the Davis Professor of Complexity at the Santa Fe Institute, and Professor of Computer Science at Portland State University.  Her current research focuses on conceptual abstraction, analogy-making, and visual recognition in artificial intelligence systems. Dr. Mitchell is the author or editor of six books and numerous scholarly papers in the fields of artificial intelligence, cognitive science, and complex systems. Her book Complexity: A Guided Tour (Oxford University Press) won the 2010 Phi Beta Kappa Science Book Award and was named by Amazon.com as one of the ten best science books of 2009. Her latest book is Artificial Intelligence: A Guide for Thinking Humans (Farrar, Straus, and Giroux).
 
@@ -53,5 +46,3 @@ Amazon page: https://amzn.to/2RlRz44
 Complexity: A Guided Tour: https://amzn.to/344wXUJ  
 Artificial Intelligence: A Guide for Thinking Humans: https://amzn.to/31UGqLC  
 Twitter handle: @MelMitchell1
-</div>
-

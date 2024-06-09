@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40097163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F17038f6e-baf5-4ff3-dd1c-96ec79a24c20.m4a
-draft: false
-excerpt: "Dr. Joel Paris is Professor of Psychiatry at McGill University, and Research\
-  \ Associate in the Department of Psychiatry at Sir Mortimer B. Davis-Jewish General\
-  \ Hospital. His research interests include developmental factors in personality\
-  \ disorders (especially borderline personality), and culture and personality. He\u2019\
-  s the author of many books, including An Evidence-Based Critique of Contemporary\
-  \ Psychoanalysis, The Fall of an Icon: Psychoanalysis and Academic Psychiatry, and\
-  \ Fads and Fallacies in Psychiatry."
-id: '566'
-image: https://i.ytimg.com/vi/CwCrjb_GLkw/maxresdefault.jpg
-publishDate: 2021-12-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/566-Joel-Paris-The-Current-State-of-Psychiatry-and-Psychotherapy-e1765ub
-tags:
-- Medicine
-- Psychology
-title: '#566 Joel Paris: The Current State of Psychiatry and Psychotherapy'
-youtubeid: CwCrjb_GLkw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40097163/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F17038f6e-baf5-4ff3-dd1c-96ec79a24c20.m4a",
+	"draft": false,
+	"episodeid": "566",
+	"excerpt": "Dr. Joel Paris is Professor of Psychiatry at McGill University, and Research Associate in the Department of Psychiatry at Sir Mortimer B. Davis-Jewish General Hospital. His research interests include developmental factors in personality disorders (especially borderline personality), and culture and personality. He’s the author of many books, including An Evidence-Based Critique of Contemporary Psychoanalysis, The Fall of an Icon: Psychoanalysis and Academic Psychiatry, and Fads and Fallacies in Psychiatry.",
+	"image": "https://i.ytimg.com/vi/CwCrjb_GLkw/maxresdefault.jpg",
+	"publishDate": 2021-12-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/566-Joel-Paris-The-Current-State-of-Psychiatry-and-Psychotherapy-e1765ub",
+	"tags": [
+		"Medicine",
+		"Psychology"
+	],
+	"title": "#566 Joel Paris: The Current State of Psychiatry and Psychotherapy",
+	"youtubeid": "CwCrjb_GLkw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 10th 2021.  
 Dr. Joel Paris is Professor of Psychiatry at McGill University, and Research Associate in the Department of Psychiatry at Sir Mortimer B. Davis-Jewish General Hospital. His research interests include developmental factors in personality disorders (especially borderline personality), and culture and personality. He’s the author of many books, including An Evidence-Based Critique of Contemporary Psychoanalysis, The Fall of an Icon: Psychoanalysis and Academic Psychiatry, and Fads and Fallacies in Psychiatry.
 
@@ -47,5 +42,3 @@ Jewish General Hospital page: http://bit.ly/3mMmVx9
 Our first interview: https://youtu.be/qjhZi01sMMI  
 ResearchGate profile: https://bit.ly/2JpbHkI  
 Amazon page: https://amzn.to/2KVyGE8
-</div>
-

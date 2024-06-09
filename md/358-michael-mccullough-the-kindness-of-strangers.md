@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18415941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F17fe1662-2668-eb4a-1c80-555663f28315.m4a
-draft: false
-excerpt: "Dr. Michael McCullough is a professor of psychology at the University of\
-  \ California San Diego, where he directs the Evolution and Human Behavior Laboratory.\
-  \ Most of the research they conduct in the lab is focused on extending an evolutionary\
-  \ analysis to some of the key psychological features of human social life. He is\
-  \ the author of several books, including \u201CBeyond Revenge: The Evolution of\
-  \ the Forgiveness Instinct,\u201D and, the most recent one, \u201CThe Kindness of\
-  \ Strangers: How a Selfish Ape Invented a New Moral Code\u201D."
-id: '358'
-image: https://i.ytimg.com/vi/GumI6vP7CeE/maxresdefault.jpg
-publishDate: 2020-08-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/358-Michael-McCullough-The-Kindness-of-Strangers-eiggs5
-tags:
-- Psychology
-title: '#358 Michael McCullough: The Kindness of Strangers'
-youtubeid: GumI6vP7CeE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18415941/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F17fe1662-2668-eb4a-1c80-555663f28315.m4a",
+	"draft": false,
+	"episodeid": "358",
+	"excerpt": "Dr. Michael McCullough is a professor of psychology at the University of California San Diego, where he directs the Evolution and Human Behavior Laboratory. Most of the research they conduct in the lab is focused on extending an evolutionary analysis to some of the key psychological features of human social life. He is the author of several books, including “Beyond Revenge: The Evolution of the Forgiveness Instinct,” and, the most recent one, “The Kindness of Strangers: How a Selfish Ape Invented a New Moral Code”.",
+	"image": "https://i.ytimg.com/vi/GumI6vP7CeE/maxresdefault.jpg",
+	"publishDate": 2020-08-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/358-Michael-McCullough-The-Kindness-of-Strangers-eiggs5",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#358 Michael McCullough: The Kindness of Strangers",
+	"youtubeid": "GumI6vP7CeE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 20th 2020.  
 Dr. Michael McCullough is a professor of psychology at the University of California San Diego, where he directs the Evolution and Human Behavior Laboratory. Most of the research they conduct in the lab is focused on extending an evolutionary analysis to some of the key psychological features of human social life. He is the author of several books, including “Beyond Revenge: The Evolution of the Forgiveness Instinct,” and, the most recent one, “The Kindness of Strangers: How a Selfish Ape Invented a New Moral Code”.
 
@@ -56,5 +51,3 @@ ResearchGate profile: https://bit.ly/32eI3UJ
 Books on Amazon: https://amzn.to/3hgRRDQ  
 The Kindness of Strangers: https://amzn.to/31f0SaZ  
 Twitter handle: @ME_McCullough
-</div>
-

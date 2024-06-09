@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/61397887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-29%2F41c980b7-ee76-01c0-c5b2-2ac0bc27ef9d.m4a
-draft: false
-excerpt: Dr. R. Paul Thompson holds appointments as Professor in the Institute for
-  the History and Philosophy of Science and Technology and the Department of Ecology
-  and Evolutionary Biology at the University of Toronto. He has published extensively
-  on evolutionary theory, population genetics, mathematical modelling in biology,
-  theory structure in biology, philosophy of medicine, and ethics. He is the author
-  of Evolution, Morality and the Fabric of Society.
-id: '753'
-image: https://i.ytimg.com/vi/Dwxp83xbmcc/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/753-r-paul-thompson-evolution-morality-and-the/id1451347236?i=1000603491119&uo=4
-publishDate: 2023-03-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/753-R--Paul-Thompson-Evolution--Morality-and-the-Fabric-of-Society-e1rg7dv
-tags:
-- Biology
-- Philosophy
-title: '#753 R. Paul Thompson: Evolution, Morality and the Fabric of Society'
-youtubeid: Dwxp83xbmcc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/61397887/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-29%2F41c980b7-ee76-01c0-c5b2-2ac0bc27ef9d.m4a",
+	"draft": false,
+	"episodeid": "753",
+	"excerpt": "Dr. R. Paul Thompson holds appointments as Professor in the Institute for the History and Philosophy of Science and Technology and the Department of Ecology and Evolutionary Biology at the University of Toronto. He has published extensively on evolutionary theory, population genetics, mathematical modelling in biology, theory structure in biology, philosophy of medicine, and ethics. He is the author of Evolution, Morality and the Fabric of Society.",
+	"image": "https://i.ytimg.com/vi/Dwxp83xbmcc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/753-r-paul-thompson-evolution-morality-and-the/id1451347236?i=1000603491119&uo=4",
+	"publishDate": 2023-03-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/753-R--Paul-Thompson-Evolution--Morality-and-the-Fabric-of-Society-e1rg7dv",
+	"tags": [
+		"Biology",
+		"Philosophy"
+	],
+	"title": "#753 R. Paul Thompson: Evolution, Morality and the Fabric of Society",
+	"youtubeid": "Dwxp83xbmcc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 29th 2022.  
 Dr. R. Paul Thompson holds appointments as Professor in the Institute for the History and Philosophy of Science and Technology and the Department of Ecology and Evolutionary Biology at the University of Toronto. He has published extensively on evolutionary theory, population genetics, mathematical modelling in biology, theory structure in biology, philosophy of medicine, and ethics. He is the author of Evolution, Morality and the Fabric of Society.
 
@@ -48,5 +44,3 @@ Follow Dr. Thompson’s work:
 Faculty page: https://bit.ly/3aATT3y  
 Works on ResearchGate: https://bit.ly/3O5tnx0  
 Evolution, Morality and the Fabric of Society: https://amzn.to/3aBeAfC
-</div>
-

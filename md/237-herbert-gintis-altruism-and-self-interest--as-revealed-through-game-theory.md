@@ -1,32 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4166890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20636077-44100-2-8794d8ab20c74.m4a
-draft: false
-excerpt: 'Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and
-  Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project
-  that models such behaviors as empathy, reciprocity, insider/outsider behavior, vengefulness,
-  and other observed human behaviors not well handled by the traditional model of
-  the self-regarding agent. Professor Gintis is also author of several books including
-  Game Theory Evolving, The Bounds of Reason, A Cooperative Species, Game Theory in
-  Action, and Individuality and Entanglement and also coeditor, with Joe Henrich,
-  Robert Boyd, Samuel Bowles, Colin Camerer, and Ernst Fehr, of Foundations of Human
-  Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-scale
-  Societies,  and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments
-  and Material Interests: On the Foundations of Cooperation in Economic Life. '
-id: '237'
-image: https://i.ytimg.com/vi/yN8Aj2I82eE/maxresdefault.jpg
-publishDate: 2019-10-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/237-Herbert-Gintis-Altruism-And-Self-interest--As-Revealed-Through-Game-Theory-e4tlpa
-tags:
-- Game Theory
-- General Science
-- Anthropology
-- Psychology
-title: '#237 Herbert Gintis: Altruism And Self-interest, As Revealed Through Game
-  Theory'
-youtubeid: yN8Aj2I82eE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4166890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20636077-44100-2-8794d8ab20c74.m4a",
+	"draft": false,
+	"episodeid": "237",
+	"excerpt": "Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project that models such behaviors as empathy, reciprocity, insider/outsider behavior, vengefulness, and other observed human behaviors not well handled by the traditional model of the self-regarding agent. Professor Gintis is also author of several books including Game Theory Evolving, The Bounds of Reason, A Cooperative Species, Game Theory in Action, and Individuality and Entanglement and also coeditor, with Joe Henrich, Robert Boyd, Samuel Bowles, Colin Camerer, and Ernst Fehr, of Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-scale Societies,  and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments and Material Interests: On the Foundations of Cooperation in Economic Life. ",
+	"image": "https://i.ytimg.com/vi/yN8Aj2I82eE/maxresdefault.jpg",
+	"publishDate": 2019-10-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/237-Herbert-Gintis-Altruism-And-Self-interest--As-Revealed-Through-Game-Theory-e4tlpa",
+	"tags": [
+		"Game Theory",
+		"General Science",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#237 Herbert Gintis: Altruism And Self-interest, As Revealed Through Game Theory",
+	"youtubeid": "yN8Aj2I82eE"
+}
 ---
-<div class="timelinks">
-
 Dr. Herbert Gintis is External Professor at the Santa Fe Institute. He and Professor Robert Boyd (Anthropology, UCLA) headed a multidisciplinary research project that models such behaviors as empathy, reciprocity, insider/outsider behavior, vengefulness, and other observed human behaviors not well handled by the traditional model of the self-regarding agent. Professor Gintis is also author of several books including Game Theory Evolving, The Bounds of Reason, A Cooperative Species, Game Theory in Action, and Individuality and Entanglement and also coeditor, with Joe Henrich, Robert Boyd, Samuel Bowles, Colin Camerer, and Ernst Fehr, of Foundations of Human Sociality: Economic Experiments and Ethnographic Evidence from Fifteen Small-scale Societies,  and with Samuel Bowles, Robert Boyd and Ernst Fehr of Moral Sentiments and Material Interests: On the Foundations of Cooperation in Economic Life. 
 
 This interview is based on Chapter 3 (Game Theory and Human Behavior) of The Bounds of Reason: Game Theory and the Unification of the Behavioral Sciences.
@@ -60,5 +50,3 @@ Relevant books:
 The Bounds of Reason: Game Theory and the Unification of the Behavioral Sciences: https://amzn.to/31zDfY5  
 A Cooperative Species: Human Reciprocity and Its Evolution: https://amzn.to/2yQXHY1  
 Individuality and Entanglement: The Moral and Material Bases of Social Life: https://amzn.to/2KDQy2x
-</div>
-

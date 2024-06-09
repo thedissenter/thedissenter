@@ -1,17 +1,17 @@
 ---
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '35'
-image: https://i.ytimg.com/vi/hjL-13L6quE/maxresdefault.jpg
-publishDate: 2018-06-15
-tags:
-- Psychology
-title: '#35 Leda Cosmides: Everything You''ve Ever Wanted to Know About Evolutionary
-  Psychology'
-youtubeid: hjL-13L6quE
+{
+	"draft": false,
+	"episodeid": "35",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/hjL-13L6quE/maxresdefault.jpg",
+	"publishDate": 2018-06-15,
+	"tags": [
+		"Psychology"
+	],
+	"title": "#35 Leda Cosmides: Everything You've Ever Wanted to Know About Evolutionary Psychology",
+	"youtubeid": "hjL-13L6quE"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -63,5 +63,4 @@ Aqui, falamos sobre a história e desenvolvimento da Psicologia Evolutiva; os pr
 
 Follow Dr. Cosmides’ work:  
 Faculty page: https://www.psych.ucsb.edu/people/faculty/cosmides  
-Her books: https://www.amazon.com/Books-Leda-Cosmides/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ALeda%20Cosmides</div>
-
+Her books: https://www.amazon.com/Books-Leda-Cosmides/s?ie=UTF8&page=1&rh=n%3A283155%2Cp_27%3ALeda%20Cosmides

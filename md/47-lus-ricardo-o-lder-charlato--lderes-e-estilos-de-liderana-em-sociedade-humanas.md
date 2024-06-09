@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1997029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647775-44100-2-3fbf9d7353bf.mp3
-draft: false
-excerpt: "Lu\xEDs Ricardo \xE9 doutorado em Lideran\xE7a Educacional, e tem experi\xEA\
-  ncia como professor e como respons\xE1vel t\xE9cnico/comercial em empresas. Publicou\
-  \ v\xE1rios artigos sobre lideran\xE7a e \xE9 autor dos livros \u201CO L\xEDder\
-  \ e a Lideran\xE7a\u201D, \u201CO Fim do L\xEDder\u201D, e \u201CO L\xEDder Charlat\xE3\
-  o\u201D.  "
-id: '47'
-image: https://i.ytimg.com/vi/vP8XQO5SZq4/maxresdefault.jpg
-publishDate: 2018-07-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/47-Lus-Ricardo-O-Lder-Charlato--Lderes-e-Estilos-de-Liderana-em-Sociedade-Humanas-e2rep5
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Sociology
-title: "#47 Lu\xEDs Ricardo: O L\xEDder Charlat\xE3o, L\xEDderes e Estilos de Lideran\xE7\
-  a em Sociedade Humanas"
-youtubeid: vP8XQO5SZq4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1997029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647775-44100-2-3fbf9d7353bf.mp3",
+	"draft": false,
+	"episodeid": "47",
+	"excerpt": "Luís Ricardo é doutorado em Liderança Educacional, e tem experiência como professor e como responsável técnico/comercial em empresas. Publicou vários artigos sobre liderança e é autor dos livros “O Líder e a Liderança”, “O Fim do Líder”, e “O Líder Charlatão”.  ",
+	"image": "https://i.ytimg.com/vi/vP8XQO5SZq4/maxresdefault.jpg",
+	"publishDate": 2018-07-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/47-Lus-Ricardo-O-Lder-Charlato--Lderes-e-Estilos-de-Liderana-em-Sociedade-Humanas-e2rep5",
+	"tags": [
+		"Entrevistas em Português",
+		"Sociology"
+	],
+	"title": "#47 Luís Ricardo: O Líder Charlatão, Líderes e Estilos de Liderança em Sociedade Humanas",
+	"youtubeid": "vP8XQO5SZq4"
+}
 ---
-<div class="timelinks">
-
 Luís Ricardo é doutorado em Liderança Educacional, e tem experiência como professor e como responsável técnico/comercial em empresas. Publicou vários artigos sobre liderança e é autor dos livros “O Líder e a Liderança”, “O Fim do Líder”, e “O Líder Charlatão”.  
 Neste episódio, focamo-nos no seu livro mais recente, “O Líder Charlatão”, e falamos sobre liderança e o que é ser líder. Discutimos também a componente inata e circunstancial da liderança; se um líder o pode ser de forma isolada ou se depende da sua rede social; os aspetos positivos dos vários tipos de liderança, incluindo a liderança autoritária; e o que é ser um líder charlatão.
 
@@ -40,6 +36,4 @@ Livros de Luís Ricardo:
 O Líder Charlatão: https://www.wook.pt/livro/o-lider-charlatao-luis-ricardo/19551735  
 O Líder e a Liderança: https://www.fnac.pt/O-Lider-e-a-Lideranca-Luis-Ricardo/a809255  
 O Fim do Líder: https://www.wook.pt/livro/o-fim-do-lider-luis-ricardo/17436870
-
-</div>
 

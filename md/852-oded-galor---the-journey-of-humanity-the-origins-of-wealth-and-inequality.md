@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/71896474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-9%2Fdc7b6dba-2852-d9ac-658b-159a2bab62bf.m4a
-draft: false
-excerpt: 'Dr. Oded Galor is Herbert H. Goldberger Professor of Economics at Brown
-  University. Dr. Galor has advanced the field of Unified Growth Theory. He has contributed
-  to the understanding of the relationship between inequality and growth, human evolution,
-  and the process of development, demography, and growth, and the role of deep-rooted
-  factors in comparative economic development. He is the author of The Journey of
-  Humanity: The Origins of Wealth and Inequality.'
-id: '852'
-image: https://i.ytimg.com/vi/El9ZKQSSNcw/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/852-oded-galor-the-journey-of-humanity-the/id1451347236?i=1000632743776&uo=4
-publishDate: 2023-10-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/852-Oded-Galor---The-Journey-of-Humanity-The-Origins-of-Wealth-and-Inequality-e25gjuq
-tags:
-- Economics
-title: '#852 Oded Galor - The Journey of Humanity: The Origins of Wealth and Inequality'
-youtubeid: El9ZKQSSNcw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/71896474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-9%2Fdc7b6dba-2852-d9ac-658b-159a2bab62bf.m4a",
+	"draft": false,
+	"episodeid": "852",
+	"excerpt": "Dr. Oded Galor is Herbert H. Goldberger Professor of Economics at Brown University. Dr. Galor has advanced the field of Unified Growth Theory. He has contributed to the understanding of the relationship between inequality and growth, human evolution, and the process of development, demography, and growth, and the role of deep-rooted factors in comparative economic development. He is the author of The Journey of Humanity: The Origins of Wealth and Inequality.",
+	"image": "https://i.ytimg.com/vi/El9ZKQSSNcw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/852-oded-galor-the-journey-of-humanity-the/id1451347236?i=1000632743776&uo=4",
+	"publishDate": 2023-10-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/852-Oded-Galor---The-Journey-of-Humanity-The-Origins-of-Wealth-and-Inequality-e25gjuq",
+	"tags": [
+		"Economics"
+	],
+	"title": "#852 Oded Galor - The Journey of Humanity: The Origins of Wealth and Inequality",
+	"youtubeid": "El9ZKQSSNcw"
+}
 ---
-<div class="timelinks">
-
 Dr. Oded Galor is Herbert H. Goldberger Professor of Economics at Brown University. Dr. Galor has advanced the field of Unified Growth Theory. He has contributed to the understanding of the relationship between inequality and growth, human evolution, and the process of development, demography, and growth, and the role of deep-rooted factors in comparative economic development. He is the author of The Journey of Humanity: The Origins of Wealth and Inequality.
 
 In this episode, we focus on The Journey of Humanity. We talk about the two main mysteries addressed in the book: the mystery of growth, and the mystery of inequality. We talk about the migration of H. sapiens out of Africa. We discuss the Malthusian Trap, and the conditions where it applies. We discuss the factors behind the development of agriculture, and why it could be considered inevitable. We talk about what impacted human demographics the most across history. We talk about Dr. Galor’s Unified Growth Theory. We discuss the factors behind the industrial revolution. We talk about the relationship between diversity, innovation, and social cohesiveness. We discuss population growth and the Demographic Transition, and if we should worry about declining fertility rates. Finally, we address the mystery of inequality, why there is inequality across societies, and the future of inequality.
@@ -46,5 +42,3 @@ Faculty page: https://bit.ly/3Dcjgmo
 Website: https://bit.ly/3fd9F7d  
 The Journey of Humanity: https://bit.ly/3GNXW9P  
 Twitter handle: @GalorOded
-</div>
-

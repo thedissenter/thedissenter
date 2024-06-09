@@ -1,32 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/31138196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2Fb2bf04d0-df32-c717-87b8-9e7e5ad1694b.m4a
-draft: false
-excerpt: "Dr. Daniel A. Bell is Dean of the School of Political Science and Public\
-  \ Administration at Shandong University. He writes widely on Chinese politics and\
-  \ philosophy for the media including the New York Times, Financial times, Global\
-  \ Times, Nanfengchuang, Worldpost, Project Syndicate, and the Guardian\u2019s Comment\
-  \ Is Free blog. Dr. Bell received the Huilin Prize in 2018. He is the author of\
-  \ numerous books including The China Model: Political Meritocracy and the Limits\
-  \ of Democracy (2015), The Spirit of Cities: Why the Identity of a City Matters\
-  \ in a Global Age[coauthored with Avner de-Shalit] (2011), China\u2019s New Confucianism:\
-  \ Politics and Everyday Life in a Changing Society (2010), Beyond Liberal Democracy:\
-  \ Political Thinking for an East Asian Context (2006), East Meets West: Human Rights\
-  \ and Democracy in East Asia (2000), and, more recently, Just Hierarchy: Why Social\
-  \ Hierarchies Matter in China and the Rest of the World."
-id: '497'
-image: https://i.ytimg.com/vi/5C1mpNwFj8w/maxresdefault.jpg
-publishDate: 2021-07-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/497-Daniel-Bell---Just-Hierarchy-Why-Social-Hierarchies-Matter-in-China-and-the-Rest-of-the-World-eukouk
-tags:
-- Politics
-- Sociology
-- Philosophy
-title: '#497 Daniel Bell - Just Hierarchy: Why Social Hierarchies Matter in China
-  and the Rest of the World'
-youtubeid: 5C1mpNwFj8w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/31138196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2Fb2bf04d0-df32-c717-87b8-9e7e5ad1694b.m4a",
+	"draft": false,
+	"episodeid": "497",
+	"excerpt": "Dr. Daniel A. Bell is Dean of the School of Political Science and Public Administration at Shandong University. He writes widely on Chinese politics and philosophy for the media including the New York Times, Financial times, Global Times, Nanfengchuang, Worldpost, Project Syndicate, and the Guardian’s Comment Is Free blog. Dr. Bell received the Huilin Prize in 2018. He is the author of numerous books including The China Model: Political Meritocracy and the Limits of Democracy (2015), The Spirit of Cities: Why the Identity of a City Matters in a Global Age[coauthored with Avner de-Shalit] (2011), China’s New Confucianism: Politics and Everyday Life in a Changing Society (2010), Beyond Liberal Democracy: Political Thinking for an East Asian Context (2006), East Meets West: Human Rights and Democracy in East Asia (2000), and, more recently, Just Hierarchy: Why Social Hierarchies Matter in China and the Rest of the World.",
+	"image": "https://i.ytimg.com/vi/5C1mpNwFj8w/maxresdefault.jpg",
+	"publishDate": 2021-07-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/497-Daniel-Bell---Just-Hierarchy-Why-Social-Hierarchies-Matter-in-China-and-the-Rest-of-the-World-eukouk",
+	"tags": [
+		"Politics",
+		"Sociology",
+		"Philosophy"
+	],
+	"title": "#497 Daniel Bell - Just Hierarchy: Why Social Hierarchies Matter in China and the Rest of the World",
+	"youtubeid": "5C1mpNwFj8w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 10th 2021.  
 Dr. Daniel A. Bell is Dean of the School of Political Science and Public Administration at Shandong University. He writes widely on Chinese politics and philosophy for the media including the New York Times, Financial times, Global Times, Nanfengchuang, Worldpost, Project Syndicate, and the Guardian’s Comment Is Free blog. Dr. Bell received the Huilin Prize in 2018. He is the author of numerous books including The China Model: Political Meritocracy and the Limits of Democracy (2015), The Spirit of Cities: Why the Identity of a City Matters in a Global Age[coauthored with Avner de-Shalit] (2011), China’s New Confucianism: Politics and Everyday Life in a Changing Society (2010), Beyond Liberal Democracy: Political Thinking for an East Asian Context (2006), East Meets West: Human Rights and Democracy in East Asia (2000), and, more recently, Just Hierarchy: Why Social Hierarchies Matter in China and the Rest of the World.
 
@@ -50,5 +39,3 @@ Faculty page: https://bit.ly/3uwxicG
 Website: https://bit.ly/3opBqId  
 Works on Researchgate: https://bit.ly/2PTzg8h  
 Just Hierarchy: https://amzn.to/39tw0Yr
-</div>
-

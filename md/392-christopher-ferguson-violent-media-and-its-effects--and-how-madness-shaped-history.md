@@ -1,31 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/19799748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2Ff9c39d97-50d8-8cf0-e155-deebce0b550e.m4a
-draft: false
-excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson University.\
-  \ He is interested in media violence and, in particular, video games. He has been\
-  \ invited to speak at Vice President Biden's task force and a 2013 Institute of\
-  \ Medicine/CDC panel on the subject and in summer 2018 testified at the School Safety\
-  \ Commission. His research has generally indicated that exposure to media violence\
-  \ has little effect on societal violence. Dr. Ferguson has emphasized the idea that\
-  \ media effects must be studied independently rather than taking a \"one size fits\
-  \ all\" approach.  Thus, advertising may get us to switch from one product to another\
-  \ even if video games don't turn kids into mass killers.  Dr. Ferguson is also interested\
-  \ in the sociology of media research itself...how political pressure, social moral\
-  \ panics and culture war can distort media effects research into \"opinions with\
-  \ numbers.\". He\u2019s the author of How Madness Shaped History: An Eccentric Array\
-  \ of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries."
-id: '392'
-image: https://i.ytimg.com/vi/1G0tKXPWl_I/maxresdefault.jpg
-publishDate: 2020-11-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/392-Christopher-Ferguson-Violent-Media-and-Its-Effects--and-How-Madness-Shaped-History-ejqo84
-tags:
-- Psychology
-title: '#392 Christopher Ferguson: Violent Media and Its Effects, and How Madness
-  Shaped History'
-youtubeid: 1G0tKXPWl_I
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/19799748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2Ff9c39d97-50d8-8cf0-e155-deebce0b550e.m4a",
+	"draft": false,
+	"episodeid": "392",
+	"excerpt": "Dr. Christopher J. Ferguson is professor of psychology at Stetson University. He is interested in media violence and, in particular, video games. He has been invited to speak at Vice President Biden's task force and a 2013 Institute of Medicine/CDC panel on the subject and in summer 2018 testified at the School Safety Commission. His research has generally indicated that exposure to media violence has little effect on societal violence. Dr. Ferguson has emphasized the idea that media effects must be studied independently rather than taking a \"one size fits all\" approach.  Thus, advertising may get us to switch from one product to another even if video games don't turn kids into mass killers.  Dr. Ferguson is also interested in the sociology of media research itself...how political pressure, social moral panics and culture war can distort media effects research into \"opinions with numbers.\". He’s the author of How Madness Shaped History: An Eccentric Array of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries.",
+	"image": "https://i.ytimg.com/vi/1G0tKXPWl_I/maxresdefault.jpg",
+	"publishDate": 2020-11-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/392-Christopher-Ferguson-Violent-Media-and-Its-Effects--and-How-Madness-Shaped-History-ejqo84",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#392 Christopher Ferguson: Violent Media and Its Effects, and How Madness Shaped History",
+	"youtubeid": "1G0tKXPWl_I"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 17th 2020.  
 Dr. Christopher J. Ferguson is professor of psychology at Stetson University. He is interested in media violence and, in particular, video games. He has been invited to speak at Vice President Biden's task force and a 2013 Institute of Medicine/CDC panel on the subject and in summer 2018 testified at the School Safety Commission. His research has generally indicated that exposure to media violence has little effect on societal violence. Dr. Ferguson has emphasized the idea that media effects must be studied independently rather than taking a "one size fits all" approach.  Thus, advertising may get us to switch from one product to another even if video games don't turn kids into mass killers.  Dr. Ferguson is also interested in the sociology of media research itself...how political pressure, social moral panics and culture war can distort media effects research into "opinions with numbers.". He’s the author of How Madness Shaped History: An Eccentric Array of Maniacal Rulers, Raving Narcissists, and Psychotic Visionaries.
 
@@ -56,5 +44,3 @@ Website: https://bit.ly/2ZBxNFz
 Psychology Today blog: https://bit.ly/2Fw6Rjo  
 How Madness Shaped History: https://amzn.to/3khICo8  
 Twitter handle: @CJFerguson1111
-</div>
-

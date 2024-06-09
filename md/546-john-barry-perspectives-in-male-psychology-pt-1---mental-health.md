@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42760166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-3%2F50924ad3-4a35-89b2-a605-15450978d769.m4a
-draft: false
-excerpt: 'Dr. John Barry is a Chartered Psychologist and Associate Fellow of the British
-  Psychological Society (BPS), Honorary Lecturer in Psychology at University College
-  London, clinical hypnotherapist and author of around 70 peer-reviewed publications
-  on a variety of topics in psychology and health, including many on male psychology.
-  He has also co-authored letters to The Psychologist magazine to raise awareness
-  of issues relevant to male psychology. He is also co-author (with Louise Liddon)
-  of the new book Perspectives in Male Psychology: An Introduction. '
-id: '546'
-image: https://i.ytimg.com/vi/TR80d2N1E6c/maxresdefault.jpg
-publishDate: 2021-11-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/546-John-Barry-Perspectives-in-Male-Psychology-Pt-1---Mental-Health-e19neh6
-tags:
-- Psychology
-title: '#546 John Barry: Perspectives in Male Psychology (Pt.1) - Mental Health'
-youtubeid: TR80d2N1E6c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42760166/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-3%2F50924ad3-4a35-89b2-a605-15450978d769.m4a",
+	"draft": false,
+	"episodeid": "546",
+	"excerpt": "Dr. John Barry is a Chartered Psychologist and Associate Fellow of the British Psychological Society (BPS), Honorary Lecturer in Psychology at University College London, clinical hypnotherapist and author of around 70 peer-reviewed publications on a variety of topics in psychology and health, including many on male psychology. He has also co-authored letters to The Psychologist magazine to raise awareness of issues relevant to male psychology. He is also co-author (with Louise Liddon) of the new book Perspectives in Male Psychology: An Introduction. ",
+	"image": "https://i.ytimg.com/vi/TR80d2N1E6c/maxresdefault.jpg",
+	"publishDate": 2021-11-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/546-John-Barry-Perspectives-in-Male-Psychology-Pt-1---Mental-Health-e19neh6",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#546 John Barry: Perspectives in Male Psychology (Pt.1) - Mental Health",
+	"youtubeid": "TR80d2N1E6c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 3rd 2021.  
 Dr. John Barry is a Chartered Psychologist and Associate Fellow of the British Psychological Society (BPS), Honorary Lecturer in Psychology at University College London, clinical hypnotherapist and author of around 70 peer-reviewed publications on a variety of topics in psychology and health, including many on male psychology. He has also co-authored letters to The Psychologist magazine to raise awareness of issues relevant to male psychology. He is also co-author (with Louise Liddon) of the new book Perspectives in Male Psychology: An Introduction. 
 
@@ -45,5 +40,3 @@ Follow Dr. Barry’s work:
 Website: https://bit.ly/2NMBYeA  
 Perspectives in Male Psychology: https://amzn.to/3Ea6mV6  
 Twitter handle: @MalePsychology
-</div>
-

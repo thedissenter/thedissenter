@@ -1,17 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600260-44100-2-0ea069fade364.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '28'
-image: https://i.ytimg.com/vi/zZ3h00-huR4/maxresdefault.jpg
-publishDate: 2018-05-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/28-Edward-Slingerland-The-Cognitive-Science-of-Religion--And-What-Sicence-Offers-the-Humanities-e2r98c
-title: '#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence
-  Offers the Humanities'
-youtubeid: zZ3h00-huR4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991372/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600260-44100-2-0ea069fade364.mp3",
+	"draft": false,
+	"episodeid": "28",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/zZ3h00-huR4/maxresdefault.jpg",
+	"publishDate": 2018-05-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/28-Edward-Slingerland-The-Cognitive-Science-of-Religion--And-What-Sicence-Offers-the-Humanities-e2r98c",
+	"title": "#28 Edward Slingerland: The Cognitive Science of Religion, And What Sicence Offers the Humanities",
+	"youtubeid": "zZ3h00-huR4"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -32,5 +31,4 @@ Faculty Page: https://asia.ubc.ca/persons/edward-slingerland/
 MOOC The Science of Religion: https://www.edx.org/course/science-religion-ubcx-religionx  
 Book What Science Offers the Humanities: https://www.amazon.com/What-Science-Offers-Humanities-Integrating/dp/0521701511  
 Twitter handle: @slingerland20  
-Facebook Page: https://www.facebook.com/slingerland3</div>
-
+Facebook Page: https://www.facebook.com/slingerland3

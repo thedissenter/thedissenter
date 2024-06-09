@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a
-draft: false
-excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
-  \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
-  \ Social systems and Computer Science. His current project is 'Theory of cultural\
-  \ change based on evolutionary psychology, evolutionary biology, and cultural evolution.'\
-  \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
-  \ of Genes and Culture\u201D."
-id: '354'
-image: https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg
-publishDate: 2020-08-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/354-Agner-Fog-Warlike-and-Peaceful-Societies-egupqs
-tags:
-- Anthropology
-- Psychology
-title: '#354 Agner Fog: Warlike and Peaceful Societies'
-youtubeid: uTA24MyC9rQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a",
+	"draft": false,
+	"episodeid": "354",
+	"excerpt": "Dr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”.",
+	"image": "https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg",
+	"publishDate": 2020-08-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/354-Agner-Fog-Warlike-and-Peaceful-Societies-egupqs",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#354 Agner Fog: Warlike and Peaceful Societies",
+	"youtubeid": "uTA24MyC9rQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 18th, 2020.  
 Dr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”.
 
@@ -54,5 +50,3 @@ https://www.regality.info/
 ResearchGate profile: https://bit.ly/2WvdzLO  
 Amazon page: https://amzn.to/2Wxgjse  
 Warlike and Peaceful Societies: The Interaction of Genes and Culture: https://amzn.to/30CLIuL
-</div>
-

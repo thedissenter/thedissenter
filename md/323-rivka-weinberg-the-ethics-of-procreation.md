@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10231780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47237999-44100-2-3437151afaf17.m4a
-draft: false
-excerpt: ''
-id: '323'
-image: https://i.ytimg.com/vi/XnEGgDDtkEw/maxresdefault.jpg
-publishDate: 2020-04-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/323-Rivka-Weinberg-The-Ethics-of-Procreation-eamoh4
-tags:
-- Philosophy
-title: '#323 Rivka Weinberg: The Ethics of Procreation'
-youtubeid: XnEGgDDtkEw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10231780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47237999-44100-2-3437151afaf17.m4a",
+	"draft": false,
+	"episodeid": "323",
+	"excerpt": "",
+	"image": "https://i.ytimg.com/vi/XnEGgDDtkEw/maxresdefault.jpg",
+	"publishDate": 2020-04-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/323-Rivka-Weinberg-The-Ethics-of-Procreation-eamoh4",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#323 Rivka Weinberg: The Ethics of Procreation",
+	"youtubeid": "XnEGgDDtkEw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 6th, 2020.
 
 Dr. Rivka Weinberg is a professor of philosophy at Scripps College in Claremont, California. As a philosopher and bioethicist, Dr. Weinberg specializes in ethical and metaphysical issues regarding birth, death, and meaning. She’s the author of the book The Risk of a Lifetime: How, When, and Why Procreation May Be Permissible. 
@@ -41,5 +42,3 @@ Faculty page: http://bit.ly/38HYgnR
 PhilPeople profile: http://bit.ly/36ALDsO  
 ResearchGate profile: http://bit.ly/2PIp6n6  
 The Risk of a Lifetime: How, When, and Why Procreation May Be Permissible: https://amzn.to/2Pm0Isi
-</div>
-

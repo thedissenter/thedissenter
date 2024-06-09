@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4541759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706662-44100-2-f4e5dc5669bec.m4a
-draft: false
-excerpt: 'Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva Schools
-  at KGI, and a Research Affiliate at Yale University, where he is coordinating thechidlab.com.
-  His research interests are at the intersection of philosophy and psychology, with
-  a particular focus on the origins of prosocial behavior and moral judgment. '
-id: '255'
-image: https://i.ytimg.com/vi/B5K8OniMRLw/maxresdefault.jpg
-publishDate: 2019-11-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/255-Mark-Sheskin-Moral-Developmental-Psychology-e593rv
-tags:
-- Psychology
-title: '#255 Mark Sheskin: Moral Developmental Psychology'
-youtubeid: B5K8OniMRLw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4541759/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706662-44100-2-f4e5dc5669bec.m4a",
+	"draft": false,
+	"episodeid": "255",
+	"excerpt": "Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva Schools at KGI, and a Research Affiliate at Yale University, where he is coordinating thechidlab.com. His research interests are at the intersection of philosophy and psychology, with a particular focus on the origins of prosocial behavior and moral judgment. ",
+	"image": "https://i.ytimg.com/vi/B5K8OniMRLw/maxresdefault.jpg",
+	"publishDate": 2019-11-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/255-Mark-Sheskin-Moral-Developmental-Psychology-e593rv",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#255 Mark Sheskin: Moral Developmental Psychology",
+	"youtubeid": "B5K8OniMRLw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 5th, 2019.  
 Dr. Mark Sheskin is Assistant Professor of Social Sciences at Minerva Schools at KGI, and a Research Affiliate at Yale University, where he is coordinating thechidlab.com. His research interests are at the intersection of philosophy and psychology, with a particular focus on the origins of prosocial behavior and moral judgment. 
 
@@ -47,5 +45,3 @@ Some Equalities Are More Equal Than Others: Quality Equality Emerges Later Than 
 The Evolution of Morality: Which Aspects of Human Moral Concerns Are Shared With Nonhuman Primates?: http://bit.ly/2kx8LWH  
 The Needs of the Many Do Not Outweigh the Needs of the Few: The Limits of Individual Sacrifice across Diverse Cultures: http://bit.ly/2kx8VgL  
 Why people prefer unequal societies: http://bit.ly/2khTEjT
-</div>
-

@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47114006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fbb037a98-59ce-3ab6-679b-243775582dde.m4a
-draft: false
-excerpt: 'Dr. Philip Dwyer is Professor in the School of Humanities and Social Science
-  at the University of Newcastle, Australia. He has published widely on the Revolutionary
-  and Napoleonic eras, including a three-volume biography of Napoleon. He is the general
-  editor of a four volume Cambridge World History of Violence, and co-editor of the
-  Cambridge History of the Napoleonic Wars. He is the editor of The Darker Angels
-  of Our Nature: Refuting the Pinker Theory of History & Violence.'
-id: '619'
-image: https://i.ytimg.com/vi/BoZNJRytTsw/maxresdefault.jpg
-publishDate: 2022-04-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/619-Philip-Dwyer-The-Darker-Angels-of-Our-Nature-Refuting-the-Pinker-Theory-of-History--Violence-e1dsaam
-tags:
-- Politics
-- History
-- Anthropology
-title: '#619 Philip Dwyer The Darker Angels of Our Nature: Refuting the Pinker Theory
-  of History & Violence'
-youtubeid: BoZNJRytTsw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47114006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fbb037a98-59ce-3ab6-679b-243775582dde.m4a",
+	"draft": false,
+	"episodeid": "619",
+	"excerpt": "Dr. Philip Dwyer is Professor in the School of Humanities and Social Science at the University of Newcastle, Australia. He has published widely on the Revolutionary and Napoleonic eras, including a three-volume biography of Napoleon. He is the general editor of a four volume Cambridge World History of Violence, and co-editor of the Cambridge History of the Napoleonic Wars. He is the editor of The Darker Angels of Our Nature: Refuting the Pinker Theory of History & Violence.",
+	"image": "https://i.ytimg.com/vi/BoZNJRytTsw/maxresdefault.jpg",
+	"publishDate": 2022-04-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/619-Philip-Dwyer-The-Darker-Angels-of-Our-Nature-Refuting-the-Pinker-Theory-of-History--Violence-e1dsaam",
+	"tags": [
+		"Politics",
+		"History",
+		"Anthropology"
+	],
+	"title": "#619 Philip Dwyer The Darker Angels of Our Nature: Refuting the Pinker Theory of History & Violence",
+	"youtubeid": "BoZNJRytTsw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 31st 2022.  
 Dr. Philip Dwyer is Professor in the School of Humanities and Social Science at the University of Newcastle, Australia. He has published widely on the Revolutionary and Napoleonic eras, including a three-volume biography of Napoleon. He is the general editor of a four volume Cambridge World History of Violence, and co-editor of the Cambridge History of the Napoleonic Wars. He is the editor of The Darker Angels of Our Nature: Refuting the Pinker Theory of History & Violence.
 
@@ -47,5 +42,3 @@ Follow Dr. Dwyer’s work:
 Faculty page: https://bit.ly/3ImHyex  
 ResearchGate profile: https://bit.ly/33Azh86  
 The Darker Angels of Our Nature: https://amzn.to/3AgkYRW
-</div>
-

@@ -1,20 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10230445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47229878-44100-2-fcd721b618932.m4a
-draft: false
-excerpt: ''
-id: '321'
-image: https://i.ytimg.com/vi/mOK8fw4tsO8/maxresdefault.jpg
-publishDate: 2020-04-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/321-Dick-Swaab-The-Neuroscience-of-Gender-Identity-and-Sexual-Orientation-eamn7d
-tags:
-- Cognitive Science
-- Neuroscience
-- Psychology
-title: '#321 Dick Swaab: The Neuroscience of Gender Identity and Sexual Orientation'
-youtubeid: mOK8fw4tsO8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10230445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47229878-44100-2-fcd721b618932.m4a",
+	"draft": false,
+	"episodeid": "321",
+	"excerpt": "",
+	"image": "https://i.ytimg.com/vi/mOK8fw4tsO8/maxresdefault.jpg",
+	"publishDate": 2020-04-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/321-Dick-Swaab-The-Neuroscience-of-Gender-Identity-and-Sexual-Orientation-eamn7d",
+	"tags": [
+		"Cognitive Science",
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#321 Dick Swaab: The Neuroscience of Gender Identity and Sexual Orientation",
+	"youtubeid": "mOK8fw4tsO8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 3rd, 2020.
 
 Dr. Dick Swaab is an internationally renowned researcher in neuroscience, who received numerous awards and published over 540 scientific papers. He earned his medical and doctoral degrees at the University of Amsterdam and served as director of the Netherlands Institute for Neuroscience for 27 years. In 1985, Professor Swaab founded the Netherlands Brain Bank, which supplies the international research community with clinical and neuropathological brain tissue. Dr. Swaab is Emeritus Professor at the University of Amsterdam and Professor at Zhejiang University, Hang Zhou, China since 2007. His major research interest focusses on brain development, sexual differentiation, Alzheimer’s disease, the neurobiological basis of depression and eating disorders. In 2008, professor Swaab received the Academy medal for his significant role in national and international neuroscience. He is the author of the two volume monograph The Human Hypothalamus, which appeared in the Handbook of Clinical Neurology series, and of the Dutch bestseller We are our Brains, which is translated in German, Chinese and Italian.
@@ -46,5 +47,3 @@ Publications on PudMed: http://bit.ly/391RE2F
 ResearchGate profile: http://bit.ly/2RQLdu5  
 We Are Our Brains: From the Womb to Alzheimer's: https://amzn.to/31nAOsM  
 Our Creative Brains: https://amzn.to/2ScMev7
-</div>
-

@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76104922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F816ce5c8-caf7-c47a-cdb7-0ccc3bfe4f05.m4a
-draft: false
-excerpt: "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished University\
-  \ Professor Emeritus of Psychology and Research Professor Emeritus at the University\
-  \ of Michigan at Ann Arbor. He was the recipient of the Donald T. Campbell Award\
-  \ from the American Psychological Association in 1982, and he\u2019s a Guggenheim\
-  \ fellow. He\u2019s also the author of several books, including Culture of Honor,\
-  \ The Geography of Thought, Mindware, and Thinking: A memoir."
-id: '890'
-image: https://i.ytimg.com/vi/2ke9RzgePUI/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/890-richard-nisbett-attribution-theory-intelligence/id1451347236?i=1000642542782&uo=4
-publishDate: 2024-01-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/890-Richard-Nisbett-Attribution-Theory--Intelligence--and-Cognitive-Differences-Across-Cultures-e29h1oq
-tags:
-- Psychology
-title: '#890 Richard Nisbett: Attribution Theory, Intelligence, and Cognitive Differences
-  Across Cultures'
-youtubeid: 2ke9RzgePUI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76104922/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F816ce5c8-caf7-c47a-cdb7-0ccc3bfe4f05.m4a",
+	"draft": false,
+	"episodeid": "890",
+	"excerpt": "Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished University Professor Emeritus of Psychology and Research Professor Emeritus at the University of Michigan at Ann Arbor. He was the recipient of the Donald T. Campbell Award from the American Psychological Association in 1982, and he’s a Guggenheim fellow. He’s also the author of several books, including Culture of Honor, The Geography of Thought, Mindware, and Thinking: A memoir.",
+	"image": "https://i.ytimg.com/vi/2ke9RzgePUI/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/890-richard-nisbett-attribution-theory-intelligence/id1451347236?i=1000642542782&uo=4",
+	"publishDate": 2024-01-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/890-Richard-Nisbett-Attribution-Theory--Intelligence--and-Cognitive-Differences-Across-Cultures-e29h1oq",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#890 Richard Nisbett: Attribution Theory, Intelligence, and Cognitive Differences Across Cultures",
+	"youtubeid": "2ke9RzgePUI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 19th 2023.  
 Dr. Richard Nisbett is the Theodore M. Newcomb Distinguished University Professor Emeritus of Psychology and Research Professor Emeritus at the University of Michigan at Ann Arbor. He was the recipient of the Donald T. Campbell Award from the American Psychological Association in 1982, and he’s a Guggenheim fellow. He’s also the author of several books, including Culture of Honor, The Geography of Thought, Mindware, and Thinking: A memoir.
 
@@ -43,5 +38,3 @@ Our first interview: https://youtu.be/xMxhR-lCy1U
 Faculty page: https://bit.ly/3pzYcDR  
 ResearchGate profile: https://bit.ly/3PIeuVF  
 Books on Amazon: https://bit.ly/3O2GzG3
-</div>
-

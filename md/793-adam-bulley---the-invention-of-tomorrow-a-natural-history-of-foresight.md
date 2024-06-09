@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65449974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F6f72c7fe-0a3f-670b-5703-07a8e624e801.m4a
-draft: false
-excerpt: 'Dr. Adam Bulley is a postdoctoral fellow at the Brain and Mind Centre and
-  School of Psychology, The University of Sydney, and the Department of Psychology
-  at Harvard University. In his research he uses the tools of evolutionary and cognitive
-  psychology to study the mind and human behavior. Specifically, he investigates the
-  evolution, development, and psychological mechanisms of imagination, foresight,
-  decision-making, and emotion. He is the author (together with Thomas Suddendorf
-  and Jonathan Redshaw) of The Invention of Tomorrow: A Natural History of Foresight.'
-id: '793'
-image: https://i.ytimg.com/vi/TnTT7nQ4XvE/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/793-adam-bulley-the-invention-of-tomorrow/id1451347236?i=1000616318227&uo=4
-publishDate: 2023-06-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/793-Adam-Bulley---The-Invention-of-Tomorrow-A-Natural-History-of-Foresight-e1vbshm
-tags:
-- Psychology
-title: '#793 Adam Bulley - The Invention of Tomorrow: A Natural History of Foresight'
-youtubeid: TnTT7nQ4XvE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65449974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-22%2F6f72c7fe-0a3f-670b-5703-07a8e624e801.m4a",
+	"draft": false,
+	"episodeid": "793",
+	"excerpt": "Dr. Adam Bulley is a postdoctoral fellow at the Brain and Mind Centre and School of Psychology, The University of Sydney, and the Department of Psychology at Harvard University. In his research he uses the tools of evolutionary and cognitive psychology to study the mind and human behavior. Specifically, he investigates the evolution, development, and psychological mechanisms of imagination, foresight, decision-making, and emotion. He is the author (together with Thomas Suddendorf and Jonathan Redshaw) of The Invention of Tomorrow: A Natural History of Foresight.",
+	"image": "https://i.ytimg.com/vi/TnTT7nQ4XvE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/793-adam-bulley-the-invention-of-tomorrow/id1451347236?i=1000616318227&uo=4",
+	"publishDate": 2023-06-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/793-Adam-Bulley---The-Invention-of-Tomorrow-A-Natural-History-of-Foresight-e1vbshm",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#793 Adam Bulley - The Invention of Tomorrow: A Natural History of Foresight",
+	"youtubeid": "TnTT7nQ4XvE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 22nd 2023.  
 Dr. Adam Bulley is a postdoctoral fellow at the Brain and Mind Centre and School of Psychology, The University of Sydney, and the Department of Psychology at Harvard University. In his research he uses the tools of evolutionary and cognitive psychology to study the mind and human behavior. Specifically, he investigates the evolution, development, and psychological mechanisms of imagination, foresight, decision-making, and emotion. He is the author (together with Thomas Suddendorf and Jonathan Redshaw) of The Invention of Tomorrow: A Natural History of Foresight.
 
@@ -47,5 +42,3 @@ Follow Dr. Bulley’s work:
 Website: https://bit.ly/3rjzwNd  
 The Invention of Tomorrow: https://bit.ly/3I1ogyy  
 Twitter handle: 
-</div>
-

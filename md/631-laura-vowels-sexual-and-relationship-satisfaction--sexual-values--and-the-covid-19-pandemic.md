@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/48158056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-24%2F1e72093c-dd5c-96c5-6d5b-148d30b3c966.m4a
-draft: false
-excerpt: "Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) therapist\
-  \ and a junior lecturer/postdoctoral researcher at University of Lausanne, Switzerland.\
-  \ She has published extensively on topics pertaining to romantic relationships and\
-  \ sexual desire and well-being. She also works as a principal researcher for Blueheart.io.\
-  \ Blueheart\u2019s mission is to bring sex therapy to millions of couples in an\
-  \ app format to help couples navigate issues around sexual desire discrepancy."
-id: '631'
-image: https://i.ytimg.com/vi/A6KrxC-ZYSM/maxresdefault.jpg
-publishDate: 2022-05-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/631-Laura-Vowels-Sexual-and-Relationship-Satisfaction--Sexual-Values--and-the-COVID-19-Pandemic-e1es5t8
-tags:
-- Psychology
-title: '#631 Laura Vowels: Sexual and Relationship Satisfaction, Sexual Values, and
-  the COVID-19 Pandemic'
-youtubeid: A6KrxC-ZYSM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/48158056/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-24%2F1e72093c-dd5c-96c5-6d5b-148d30b3c966.m4a",
+	"draft": false,
+	"episodeid": "631",
+	"excerpt": "Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) therapist and a junior lecturer/postdoctoral researcher at University of Lausanne, Switzerland. She has published extensively on topics pertaining to romantic relationships and sexual desire and well-being. She also works as a principal researcher for Blueheart.io. Blueheart’s mission is to bring sex therapy to millions of couples in an app format to help couples navigate issues around sexual desire discrepancy.",
+	"image": "https://i.ytimg.com/vi/A6KrxC-ZYSM/maxresdefault.jpg",
+	"publishDate": 2022-05-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/631-Laura-Vowels-Sexual-and-Relationship-Satisfaction--Sexual-Values--and-the-COVID-19-Pandemic-e1es5t8",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#631 Laura Vowels: Sexual and Relationship Satisfaction, Sexual Values, and the COVID-19 Pandemic",
+	"youtubeid": "A6KrxC-ZYSM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 24th 2022.  
 Dr. Laura Vowels is an ICEEFT certified emotionally-focused (EFT) therapist and a junior lecturer/postdoctoral researcher at University of Lausanne, Switzerland. She has published extensively on topics pertaining to romantic relationships and sexual desire and well-being. She also works as a principal researcher for Blueheart.io. Blueheart’s mission is to bring sex therapy to millions of couples in an app format to help couples navigate issues around sexual desire discrepancy.
 
@@ -45,5 +40,3 @@ Website: https://bit.ly/3jPrB6N
 Blueheart: https://bit.ly/3HSXA04  
 ResearchGate profile: https://bit.ly/3bmgLR9  
 Twitter handle: @laura_vowels
-</div>
-

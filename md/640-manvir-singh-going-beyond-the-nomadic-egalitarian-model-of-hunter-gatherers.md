@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/49187960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-17%2Fd5ec4a75-3e5e-4872-e557-04c24a8ae6dd.m4a
-draft: false
-excerpt: Dr. Manvir Singh is Postdoctoral Research Fellow at the Institute of Advanced
-  Study in Toulouse.  His research program aims to explain why societies develop complex,
-  recurrent traditions such as shamanism, witchcraft, origin myths, property rights,
-  sharing norms, lullabies, dance, music, and gods, as these have appeared in all
-  types of societies across the globe, from nomadic hunter-gatherer bands to complex,
-  industrial, mega-urbanized states.
-id: '640'
-image: https://i.ytimg.com/vi/5D9CtvAiwa8/maxresdefault.jpg
-publishDate: 2022-06-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/640-Manvir-Singh-Going-Beyond-the-Nomadic-Egalitarian-Model-of-Hunter-Gatherers-e1frjlo
-tags:
-- Anthropology
-title: '#640 Manvir Singh: Going Beyond the Nomadic-Egalitarian Model of Hunter-Gatherers'
-youtubeid: 5D9CtvAiwa8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/49187960/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-17%2Fd5ec4a75-3e5e-4872-e557-04c24a8ae6dd.m4a",
+	"draft": false,
+	"episodeid": "640",
+	"excerpt": "Dr. Manvir Singh is Postdoctoral Research Fellow at the Institute of Advanced Study in Toulouse.  His research program aims to explain why societies develop complex, recurrent traditions such as shamanism, witchcraft, origin myths, property rights, sharing norms, lullabies, dance, music, and gods, as these have appeared in all types of societies across the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized states.",
+	"image": "https://i.ytimg.com/vi/5D9CtvAiwa8/maxresdefault.jpg",
+	"publishDate": 2022-06-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/640-Manvir-Singh-Going-Beyond-the-Nomadic-Egalitarian-Model-of-Hunter-Gatherers-e1frjlo",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#640 Manvir Singh: Going Beyond the Nomadic-Egalitarian Model of Hunter-Gatherers",
+	"youtubeid": "5D9CtvAiwa8"
+}
 ---
-<div class="timelinks">
-
 Dr. Manvir Singh is Postdoctoral Research Fellow at the Institute of Advanced Study in Toulouse.  His research program aims to explain why societies develop complex, recurrent traditions such as shamanism, witchcraft, origin myths, property rights, sharing norms, lullabies, dance, music, and gods, as these have appeared in all types of societies across the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized states.
 
 In this episode, we talk about a recent paper of his, “Human social organization during the Late Pleistocene: Beyond the nomadic-egalitarian model”. We break down the nomadic-egalitarian hunter-gatherer model. Dr. Singh presents his diverse histories model, and we discuss the implications it has for our evolved psychology, and how we think about evolutionary mismatches. We discuss how human societies get organized, the origins of agriculture, the transition to large-scale agricultural societies, and non-agricultural state societies. We also talk about the sympathetic plot in fiction, and its psychological origins. Finally, we discuss how to think about the functionality of beliefs.
@@ -48,5 +44,3 @@ Personal website: https://www.manvir.org/
 ResearchGate profile: https://bit.ly/2WeXaKF  
 Pieces on Aeon: https://bit.ly/3iU3Ath  
 Twitter handle: @mnvrsngh
-</div>
-

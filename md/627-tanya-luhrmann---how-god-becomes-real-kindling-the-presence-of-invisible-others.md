@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47754156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F774ae149-4a91-f9cb-d862-844b590831f6.m4a
-draft: false
-excerpt: 'Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford
-  Anthropology Department. She is a medical and psychological anthropologist, and
-  also an anthropologist of religion. More recently she describes her work as an anthropology
-  of mind. She was elected to the American Academy of Arts and Sciences in 2003 and
-  received a John Guggenheim Fellowship award in 2007. Her books include When God
-  Talks Back: Understanding the American Evangelical Relationship with God, and the
-  most recent one, How God Becomes Real: Kindling the Presence of Invisible Others.'
-id: '627'
-image: https://i.ytimg.com/vi/vyE0hrx0mZ8/maxresdefault.jpg
-publishDate: 2022-05-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/627-Tanya-Luhrmann---How-God-Becomes-Real-Kindling-the-Presence-of-Invisible-Others-e1efrfc
-tags:
-- Anthropology
-title: '#627 Tanya Luhrmann - How God Becomes Real: Kindling the Presence of Invisible
-  Others'
-youtubeid: vyE0hrx0mZ8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47754156/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F774ae149-4a91-f9cb-d862-844b590831f6.m4a",
+	"draft": false,
+	"episodeid": "627",
+	"excerpt": "Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford Anthropology Department. She is a medical and psychological anthropologist, and also an anthropologist of religion. More recently she describes her work as an anthropology of mind. She was elected to the American Academy of Arts and Sciences in 2003 and received a John Guggenheim Fellowship award in 2007. Her books include When God Talks Back: Understanding the American Evangelical Relationship with God, and the most recent one, How God Becomes Real: Kindling the Presence of Invisible Others.",
+	"image": "https://i.ytimg.com/vi/vyE0hrx0mZ8/maxresdefault.jpg",
+	"publishDate": 2022-05-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/627-Tanya-Luhrmann---How-God-Becomes-Real-Kindling-the-Presence-of-Invisible-Others-e1efrfc",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#627 Tanya Luhrmann - How God Becomes Real: Kindling the Presence of Invisible Others",
+	"youtubeid": "vyE0hrx0mZ8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 15th 2022.  
 Dr. Tanya Marie Luhrmann is the Albert Ray Lang Professor in the Stanford Anthropology Department. She is a medical and psychological anthropologist, and also an anthropologist of religion. More recently she describes her work as an anthropology of mind. She was elected to the American Academy of Arts and Sciences in 2003 and received a John Guggenheim Fellowship award in 2007. Her books include When God Talks Back: Understanding the American Evangelical Relationship with God, and the most recent one, How God Becomes Real: Kindling the Presence of Invisible Others.
 
@@ -54,5 +48,3 @@ Website: https://bit.ly/3ygpJJk
 ResearchGate profile: https://bit.ly/3v5fQfV  
 Amazon page: https://amzn.to/3l71qKm  
 How God Becomes Real: https://amzn.to/3eanRcC
-</div>
-

@@ -1,24 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51856473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-11%2Fbc482e62-9326-554b-d58c-8f11a624047b.m4a
-draft: false
-excerpt: 'Dr. Nick Chater is Professor of Behavioural Science at Warwick Business
-  School. He works on rationality and language using a range of theoretical and experimental
-  approaches. '
-id: '659'
-image: https://i.ytimg.com/vi/taPsHecl0Oc/maxresdefault.jpg
-publishDate: 2022-08-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/659-Nick-Chater--Morten-Christiansen---The-Language-Game-Language-as-a-Game-of-Charades-e1id1kp
-tags:
-- Linguistics
-- Cognitive Science
-- Anthropology
-- Psychology
-title: '#659 Nick Chater & Morten Christiansen - The Language Game; Language as a
-  Game of Charades'
-youtubeid: taPsHecl0Oc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51856473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-11%2Fbc482e62-9326-554b-d58c-8f11a624047b.m4a",
+	"draft": false,
+	"episodeid": "659",
+	"excerpt": "Dr. Nick Chater is Professor of Behavioural Science at Warwick Business School. He works on rationality and language using a range of theoretical and experimental approaches. ",
+	"image": "https://i.ytimg.com/vi/taPsHecl0Oc/maxresdefault.jpg",
+	"publishDate": 2022-08-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/659-Nick-Chater--Morten-Christiansen---The-Language-Game-Language-as-a-Game-of-Charades-e1id1kp",
+	"tags": [
+		"Linguistics",
+		"Cognitive Science",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#659 Nick Chater & Morten Christiansen - The Language Game; Language as a Game of Charades",
+	"youtubeid": "taPsHecl0Oc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 11th 2022.  
 Dr. Nick Chater is Professor of Behavioural Science at Warwick Business School. He works on rationality and language using a range of theoretical and experimental approaches. 
 
@@ -63,5 +61,3 @@ Amazon page: https://amzn.to/3uNvZJx
 Twitter handle: @MH_Christiansen
 
 The Language Game: https://amzn.to/3xxOfs8
-</div>
-

@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12067164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62148747-44100-2-f186e9b5f0298.m4a
-draft: false
-excerpt: "Dr. Bernard Wood is University Professor of Human Origins at the Center\
-  \ for the Advanced Study of Human Paleobiology at the Columbian College of Arts\
-  \ & Sciences at George Washington University. He is a medically trained paleoanthropologist.\
-  \ His research interests are all related in one way or another to a long-standing\
-  \ pre-occupation with hominin systematics. How can we improve our ability to recognize\
-  \ species in the fossil record, and how can we do a better job of reconstructing\
-  \ their phylogenetic relationships? His current research interests are phylogeny\
-  \ reconstruction, hominin systematics, dental evolution, evolvability within the\
-  \ hominin clade, and diet reconstruction. He\u2019s the author of several books,\
-  \ including Human Evolution: A Very Short Introduction, and Human Evolution: A Guide\
-  \ to Fossil Evidence."
-id: '333'
-image: https://i.ytimg.com/vi/2AuT3CE_w34/maxresdefault.jpg
-publishDate: 2020-05-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/333-Bernard-Wood-Paleoanthropology--Human-Systematics--And-Human-Evolution-eceoss
-tags:
-- Anthropology
-title: '#333 Bernard Wood: Paleoanthropology, Human Systematics, And Human Evolution'
-youtubeid: 2AuT3CE_w34
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12067164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62148747-44100-2-f186e9b5f0298.m4a",
+	"draft": false,
+	"episodeid": "333",
+	"excerpt": "Dr. Bernard Wood is University Professor of Human Origins at the Center for the Advanced Study of Human Paleobiology at the Columbian College of Arts & Sciences at George Washington University. He is a medically trained paleoanthropologist. His research interests are all related in one way or another to a long-standing pre-occupation with hominin systematics. How can we improve our ability to recognize species in the fossil record, and how can we do a better job of reconstructing their phylogenetic relationships? His current research interests are phylogeny reconstruction, hominin systematics, dental evolution, evolvability within the hominin clade, and diet reconstruction. He’s the author of several books, including Human Evolution: A Very Short Introduction, and Human Evolution: A Guide to Fossil Evidence.",
+	"image": "https://i.ytimg.com/vi/2AuT3CE_w34/maxresdefault.jpg",
+	"publishDate": 2020-05-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/333-Bernard-Wood-Paleoanthropology--Human-Systematics--And-Human-Evolution-eceoss",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#333 Bernard Wood: Paleoanthropology, Human Systematics, And Human Evolution",
+	"youtubeid": "2AuT3CE_w34"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 1st, 2020.  
 Dr. Bernard Wood is University Professor of Human Origins at the Center for the Advanced Study of Human Paleobiology at the Columbian College of Arts & Sciences at George Washington University. He is a medically trained paleoanthropologist. His research interests are all related in one way or another to a long-standing pre-occupation with hominin systematics. How can we improve our ability to recognize species in the fossil record, and how can we do a better job of reconstructing their phylogenetic relationships? His current research interests are phylogeny reconstruction, hominin systematics, dental evolution, evolvability within the hominin clade, and diet reconstruction. He’s the author of several books, including Human Evolution: A Very Short Introduction, and Human Evolution: A Guide to Fossil Evidence.
 
@@ -43,5 +34,3 @@ Time Links:
 Follow Dr. Wood’s work:  
 Faculty page: http://bit.ly/2LqH8cf  
 ResearchGate profile: http://bit.ly/2LaVe16
-</div>
-

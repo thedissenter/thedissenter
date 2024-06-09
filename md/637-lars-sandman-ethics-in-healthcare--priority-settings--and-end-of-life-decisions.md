@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/49033575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F348a8b7d-58f3-6975-7175-7c4c370755bd.m4a
-draft: false
-excerpt: "Dr. Lars Sandman is Professor of Healthcare Ethics at Link\xF6ping University,\
-  \ and Director at National Centre for Priorities in Health, in Sweden. His research\
-  \ area is organizational ethics in healthcare, focusing on priority setting and\
-  \ ethical analysis of healthcare methods. He is the author of A Good Death: On the\
-  \ Value of Death and Dying."
-id: '637'
-image: https://i.ytimg.com/vi/yOuX36Erss0/maxresdefault.jpg
-publishDate: 2022-06-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/637-Lars-Sandman-Ethics-in-Healthcare--Priority-Settings--and-End-of-Life-Decisions-e1fmst7
-tags:
-- Philosophy
-title: '#637 Lars Sandman: Ethics in Healthcare, Priority Settings, and End-of-Life
-  Decisions'
-youtubeid: yOuX36Erss0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/49033575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-14%2F348a8b7d-58f3-6975-7175-7c4c370755bd.m4a",
+	"draft": false,
+	"episodeid": "637",
+	"excerpt": "Dr. Lars Sandman is Professor of Healthcare Ethics at Linköping University, and Director at National Centre for Priorities in Health, in Sweden. His research area is organizational ethics in healthcare, focusing on priority setting and ethical analysis of healthcare methods. He is the author of A Good Death: On the Value of Death and Dying.",
+	"image": "https://i.ytimg.com/vi/yOuX36Erss0/maxresdefault.jpg",
+	"publishDate": 2022-06-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/637-Lars-Sandman-Ethics-in-Healthcare--Priority-Settings--and-End-of-Life-Decisions-e1fmst7",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#637 Lars Sandman: Ethics in Healthcare, Priority Settings, and End-of-Life Decisions",
+	"youtubeid": "yOuX36Erss0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 14th 2022.  
 Dr. Lars Sandman is Professor of Healthcare Ethics at Linköping University, and Director at National Centre for Priorities in Health, in Sweden. His research area is organizational ethics in healthcare, focusing on priority setting and ethical analysis of healthcare methods. He is the author of A Good Death: On the Value of Death and Dying.
 
@@ -44,5 +40,3 @@ Follow Dr. Sandman’s work:
 Faculty page: https://bit.ly/3nimNJ7  
 ResearchGate profile: https://bit.ly/3wOkUr3  
 A Good Death: https://amzn.to/3Cj67Ws
-</div>
-

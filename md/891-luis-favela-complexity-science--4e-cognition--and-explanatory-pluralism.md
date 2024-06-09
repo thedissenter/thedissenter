@@ -1,24 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76158273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-20%2F6398b9a3-6639-9b80-f628-a059fb89288b.m4a
-draft: false
-excerpt: Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences
-  (tenured) at the University of Central Florida. He is concurrently a Fellow in the
-  Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog
-  program. His research attempts to understand mind (i.e., behavior, cognition, and
-  consciousness) from a naturalistic and interdisciplinary perspective.
-id: '891'
-image: https://i.ytimg.com/vi/c2iMOqFgYKM/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/891-luis-favela-complexity-science-4e-cognition-and/id1451347236?i=1000642952152&uo=4
-publishDate: 2024-01-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/891-Luis-Favela-Complexity-Science--4E-Cognition--and-Explanatory-Pluralism-e29ils1
-tags:
-- Cognitive Science
-- Philosophy
-title: '#891 Luis Favela: Complexity Science, 4E Cognition, and Explanatory Pluralism'
-youtubeid: c2iMOqFgYKM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76158273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-20%2F6398b9a3-6639-9b80-f628-a059fb89288b.m4a",
+	"draft": false,
+	"episodeid": "891",
+	"excerpt": "Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences (tenured) at the University of Central Florida. He is concurrently a Fellow in the Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog program. His research attempts to understand mind (i.e., behavior, cognition, and consciousness) from a naturalistic and interdisciplinary perspective.",
+	"image": "https://i.ytimg.com/vi/c2iMOqFgYKM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/891-luis-favela-complexity-science-4e-cognition-and/id1451347236?i=1000642952152&uo=4",
+	"publishDate": 2024-01-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/891-Luis-Favela-Complexity-Science--4E-Cognition--and-Explanatory-Pluralism-e29ils1",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#891 Luis Favela: Complexity Science, 4E Cognition, and Explanatory Pluralism",
+	"youtubeid": "c2iMOqFgYKM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 20th 2023.  
 Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences (tenured) at the University of Central Florida. He is concurrently a Fellow in the Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog program. His research attempts to understand mind (i.e., behavior, cognition, and consciousness) from a naturalistic and interdisciplinary perspective.
 
@@ -45,5 +42,3 @@ Follow Dr. Favela’s work:
 Faculty page: https://bit.ly/43m4xAN  
 Website: https://bit.ly/3IH4isf  
 PhilPeople profile: https://bit.ly/3OxcT4A
-</div>
-

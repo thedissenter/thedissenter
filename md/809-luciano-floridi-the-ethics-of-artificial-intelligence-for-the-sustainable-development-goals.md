@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72926429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-3%2Fdf8238e8-6f91-39b4-6398-2692ef56082d.m4a
-draft: false
-excerpt: "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center\
-  \ and Professor of Cognitive Science at Yale University. His research concerns primarily\
-  \ Digital Ethics, the Philosophy of Information, and the Philosophy of Technology.\
-  \ He is editor of The Ethics of Artificial Intelligence for the Sustainable Development\
-  \ Goals, and author of the forthcoming The Ethics of Artificial Intelligence: Principles,\
-  \ Challenges, and Opportunities (OUP), and The Green and the Blue: Na\xEFve Ideas\
-  \ to Improve Politics in the Digital Age (Wiley)."
-id: '809'
-image: https://i.ytimg.com/vi/vBWG89wOYV4/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/809-luciano-floridi-the-ethics-of/id1451347236?i=1000621426329&uo=4
-publishDate: 2023-07-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/809-Luciano-Floridi-The-Ethics-of-Artificial-Intelligence-for-the-Sustainable-Development-Goals-e26g1ot
-tags:
-- Philosophy
-title: '#809 Luciano Floridi: The Ethics of Artificial Intelligence for the Sustainable
-  Development Goals'
-youtubeid: vBWG89wOYV4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72926429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-3%2Fdf8238e8-6f91-39b4-6398-2692ef56082d.m4a",
+	"draft": false,
+	"episodeid": "809",
+	"excerpt": "Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center and Professor of Cognitive Science at Yale University. His research concerns primarily Digital Ethics, the Philosophy of Information, and the Philosophy of Technology. He is editor of The Ethics of Artificial Intelligence for the Sustainable Development Goals, and author of the forthcoming The Ethics of Artificial Intelligence: Principles, Challenges, and Opportunities (OUP), and The Green and the Blue: Naïve Ideas to Improve Politics in the Digital Age (Wiley).",
+	"image": "https://i.ytimg.com/vi/vBWG89wOYV4/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/809-luciano-floridi-the-ethics-of/id1451347236?i=1000621426329&uo=4",
+	"publishDate": 2023-07-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/809-Luciano-Floridi-The-Ethics-of-Artificial-Intelligence-for-the-Sustainable-Development-Goals-e26g1ot",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#809 Luciano Floridi: The Ethics of Artificial Intelligence for the Sustainable Development Goals",
+	"youtubeid": "vBWG89wOYV4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 3rd 2023.  
 Dr. Luciano Floridi is the Founding Director of the Digital Ethics Center and Professor of Cognitive Science at Yale University. His research concerns primarily Digital Ethics, the Philosophy of Information, and the Philosophy of Technology. He is editor of The Ethics of Artificial Intelligence for the Sustainable Development Goals, and author of the forthcoming The Ethics of Artificial Intelligence: Principles, Challenges, and Opportunities (OUP), and The Green and the Blue: Naïve Ideas to Improve Politics in the Digital Age (Wiley).
 
@@ -47,5 +41,3 @@ ResearchGate profile: http://bit.ly/2Tt1AOh
 Books on Amazon: https://amzn.to/2Rp8EbV  
 YouTube channel: http://bit.ly/2VVWPxT  
 Twitter handle: @Floridi
-</div>
-

@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8604778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-22%2F35308739-44100-2-575936544a2a2.m4a
-draft: false
-excerpt: 'THIS INTERVIEW IS AUDIO-ONLY.  '
-id: '288'
-image: https://i.ytimg.com/vi/tePDaa4zSbE/maxresdefault.jpg
-publishDate: 2020-01-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/288-Joanna-Schug-Emotional-Expressions--And-Relational-Mobility-e953la
-tags:
-- Psychology
-title: '#288 Joanna Schug: Emotional Expressions, and Relational Mobility'
-youtubeid: tePDaa4zSbE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8604778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-22%2F35308739-44100-2-575936544a2a2.m4a",
+	"draft": false,
+	"episodeid": "288",
+	"excerpt": "THIS INTERVIEW IS AUDIO-ONLY.  ",
+	"image": "https://i.ytimg.com/vi/tePDaa4zSbE/maxresdefault.jpg",
+	"publishDate": 2020-01-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/288-Joanna-Schug-Emotional-Expressions--And-Relational-Mobility-e953la",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#288 Joanna Schug: Emotional Expressions, and Relational Mobility",
+	"youtubeid": "tePDaa4zSbE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 21st, 2019.  
 THIS INTERVIEW IS AUDIO-ONLY.  
 Dr. Joanna Schug is Associate Professor of Psychology and Undergraduate Studies Director at the College of William & Mary. Her areas of specialization include cross-cultural psychology, social psychology, and socio-ecological approaches to human behavior.
@@ -38,5 +39,3 @@ ResearchGate profile: http://bit.ly/2QIaZ35
 Relational Mobility: http://bit.ly/37se0L1  
 Relational mobility predicts social behaviors in 39 countries and is tied to historical farming and threat: http://bit.ly/2D37Vqh  
 Twitter handle: @joannaschug
-</div>
-

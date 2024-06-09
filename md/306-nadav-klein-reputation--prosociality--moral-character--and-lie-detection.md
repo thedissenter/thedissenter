@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9341473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40950065-44100-2-d9477145c2f8c.m4a
-draft: false
-excerpt: Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at
-  INSEAD. His research focuses on the basic processes of judgment that affect how
-  people make decisions, process information, and evaluate others and themselves.
-  Some of the findings Nadav has explored are the surprising reputational benefits
-  of being a little bit nice to other people, the ability of groups to detect lies,
-  people's weak desire to be seen as moral and strong desire not to be seen as immoral,
-  and people's overestimation of how much information they use to make decisions.
-id: '306'
-image: https://i.ytimg.com/vi/0G_rfxa5s98/maxresdefault.jpg
-publishDate: 2020-03-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/306-Nadav-Klein-Reputation--Prosociality--Moral-Character--and-Lie-Detection-e9rj31
-tags:
-- Psychology
-title: '#306 Nadav Klein: Reputation, Prosociality, Moral Character, and Lie Detection'
-youtubeid: 0G_rfxa5s98
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9341473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-27%2F40950065-44100-2-d9477145c2f8c.m4a",
+	"draft": false,
+	"episodeid": "306",
+	"excerpt": "Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at INSEAD. His research focuses on the basic processes of judgment that affect how people make decisions, process information, and evaluate others and themselves. Some of the findings Nadav has explored are the surprising reputational benefits of being a little bit nice to other people, the ability of groups to detect lies, people's weak desire to be seen as moral and strong desire not to be seen as immoral, and people's overestimation of how much information they use to make decisions.",
+	"image": "https://i.ytimg.com/vi/0G_rfxa5s98/maxresdefault.jpg",
+	"publishDate": 2020-03-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/306-Nadav-Klein-Reputation--Prosociality--Moral-Character--and-Lie-Detection-e9rj31",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#306 Nadav Klein: Reputation, Prosociality, Moral Character, and Lie Detection",
+	"youtubeid": "0G_rfxa5s98"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 27th, 2019.  
 Dr. Nadav Klein is an Assistant Professor of Organisational Behaviour at INSEAD. His research focuses on the basic processes of judgment that affect how people make decisions, process information, and evaluate others and themselves. Some of the findings Nadav has explored are the surprising reputational benefits of being a little bit nice to other people, the ability of groups to detect lies, people's weak desire to be seen as moral and strong desire not to be seen as immoral, and people's overestimation of how much information they use to make decisions.
 
@@ -43,5 +38,3 @@ Follow Dr. Klein’s work:
 Faculty page: http://bit.ly/2Qow54H  
 Google Scholar page: http://bit.ly/2PZaiSd  
 ResearchGate profile: http://bit.ly/2NcR0X6
-</div>
-

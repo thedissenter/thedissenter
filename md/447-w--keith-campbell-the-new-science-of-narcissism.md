@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25226459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F510e701e-a887-c735-1376-f56f4c1568d8.m4a
-draft: false
-excerpt: "Dr. William Keith Campbell is a professor in the Department of Psychology\
-  \ in the University of Georgia's Franklin College of Arts and Sciences. He has published\
-  \ over 120 peer-reviewed papers and a number of books, including The Handbook of\
-  \ Narcissism and Narcissistic Personality Disorder: Theoretical Approaches, Empirical\
-  \ Findings, and Treatments (with Joshua Miller) and The Narcissism Epidemic: Living\
-  \ in the Age of Entitlement (with Jean Twenge). Dr. Keith Campbell\u2019s new book,\
-  \ in collaboration with Grady College alumna Carolyn Crist, was recently released:\
-  \ \u201CThe New Science of Narcissism: Understanding one of the greatest Psychological\
-  \ challenges of our time \u2013 and what you can do about it\u201D."
-id: '447'
-image: https://i.ytimg.com/vi/MgEHg1lIS3U/maxresdefault.jpg
-publishDate: 2021-03-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/447-W--Keith-Campbell-The-New-Science-of-Narcissism-ep0bor
-tags:
-- Psychology
-title: '#447 W. Keith Campbell: The New Science of Narcissism'
-youtubeid: MgEHg1lIS3U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25226459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F510e701e-a887-c735-1376-f56f4c1568d8.m4a",
+	"draft": false,
+	"episodeid": "447",
+	"excerpt": "Dr. William Keith Campbell is a professor in the Department of Psychology in the University of Georgia's Franklin College of Arts and Sciences. He has published over 120 peer-reviewed papers and a number of books, including The Handbook of Narcissism and Narcissistic Personality Disorder: Theoretical Approaches, Empirical Findings, and Treatments (with Joshua Miller) and The Narcissism Epidemic: Living in the Age of Entitlement (with Jean Twenge). Dr. Keith Campbell’s new book, in collaboration with Grady College alumna Carolyn Crist, was recently released: “The New Science of Narcissism: Understanding one of the greatest Psychological challenges of our time – and what you can do about it”.",
+	"image": "https://i.ytimg.com/vi/MgEHg1lIS3U/maxresdefault.jpg",
+	"publishDate": 2021-03-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/447-W--Keith-Campbell-The-New-Science-of-Narcissism-ep0bor",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#447 W. Keith Campbell: The New Science of Narcissism",
+	"youtubeid": "MgEHg1lIS3U"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 11th 2021.  
 Dr. William Keith Campbell is a professor in the Department of Psychology in the University of Georgia's Franklin College of Arts and Sciences. He has published over 120 peer-reviewed papers and a number of books, including The Handbook of Narcissism and Narcissistic Personality Disorder: Theoretical Approaches, Empirical Findings, and Treatments (with Joshua Miller) and The Narcissism Epidemic: Living in the Age of Entitlement (with Jean Twenge). Dr. Keith Campbell’s new book, in collaboration with Grady College alumna Carolyn Crist, was recently released: “The New Science of Narcissism: Understanding one of the greatest Psychological challenges of our time – and what you can do about it”.
 
@@ -49,5 +42,3 @@ ResearchGate profile: http://bit.ly/2J3SNzv
 Amazon page: https://amzn.to/3q9VVts  
 The New Science of Narcissism: http://amzn.to/3nLe2oI  
 Twitter handle: @wkeithcampbell
-</div>
-

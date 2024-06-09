@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18032333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2Fb76c6371-c4aa-d90c-d7fd-f8afc7883059.m4a
-draft: false
-excerpt: "Dr. Martie Haselton is Professor in the Departments of Psychology and Communication\
-  \ as well as the ISG (Institute for Society and Genetics) at UCLA. Her research\
-  \ focuses on evolution and human behavior, social psychology, interpersonal communication,\
-  \ and social endocrinology. Her empirical work explores intimate relationships,\
-  \ sexuality, olfactory communication, psychological sex differences, social inference,\
-  \ evolution and health, and the effects of reproductive hormones on human behavior.\
-  \ She\u2019s the author of the book Hormonal: The Hidden Intelligence of Hormones\
-  \ -- How They Drive Desire, Shape Relationships, Influence Our Choices, and Make\
-  \ Us Wiser."
-id: '370'
-image: https://i.ytimg.com/vi/pektNG9J5MM/maxresdefault.jpg
-publishDate: 2020-09-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/370-Martie-Haselton---Hormonal-The-Hidden-Intelligence-of-Hormones-ei4q8d
-tags:
-- Psychology
-title: '#370 Martie Haselton - Hormonal: The Hidden Intelligence of Hormones'
-youtubeid: pektNG9J5MM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18032333/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2Fb76c6371-c4aa-d90c-d7fd-f8afc7883059.m4a",
+	"draft": false,
+	"episodeid": "370",
+	"excerpt": "Dr. Martie Haselton is Professor in the Departments of Psychology and Communication as well as the ISG (Institute for Society and Genetics) at UCLA. Her research focuses on evolution and human behavior, social psychology, interpersonal communication, and social endocrinology. Her empirical work explores intimate relationships, sexuality, olfactory communication, psychological sex differences, social inference, evolution and health, and the effects of reproductive hormones on human behavior. She’s the author of the book Hormonal: The Hidden Intelligence of Hormones -- How They Drive Desire, Shape Relationships, Influence Our Choices, and Make Us Wiser.",
+	"image": "https://i.ytimg.com/vi/pektNG9J5MM/maxresdefault.jpg",
+	"publishDate": 2020-09-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/370-Martie-Haselton---Hormonal-The-Hidden-Intelligence-of-Hormones-ei4q8d",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#370 Martie Haselton - Hormonal: The Hidden Intelligence of Hormones",
+	"youtubeid": "pektNG9J5MM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 13th, 2020.  
 Dr. Martie Haselton is Professor in the Departments of Psychology and Communication as well as the ISG (Institute for Society and Genetics) at UCLA. Her research focuses on evolution and human behavior, social psychology, interpersonal communication, and social endocrinology. Her empirical work explores intimate relationships, sexuality, olfactory communication, psychological sex differences, social inference, evolution and health, and the effects of reproductive hormones on human behavior. She’s the author of the book Hormonal: The Hidden Intelligence of Hormones -- How They Drive Desire, Shape Relationships, Influence Our Choices, and Make Us Wiser.
 
@@ -49,5 +42,3 @@ Website: https://bit.ly/31PUMwH
 ResearchGate profile: http://bit.ly/350HM6Z  
 Hormonal: https://amzn.to/2MzJmpW  
 Twitter handle: @haselton
-</div>
-

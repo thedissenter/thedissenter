@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24162507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2Ff8f506f7-9dfa-5d13-c70e-b326e3284b15.m4a
-draft: false
-excerpt: Dr. James Lenman is Professor of Philosophy at the University of Sheffield.
-  He is known for his expertise on ethics. Dr. Lenman is a former president of the
-  British Society for Ethical Theory (2002-2008).
-id: '440'
-image: https://i.ytimg.com/vi/fvx71UQKHUA/maxresdefault.jpg
-publishDate: 2021-03-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/440-James-Lenman-Ethics--Motives--Consequentialism--and-Morality-envsob
-tags:
-- Philosophy
-title: '#440 James Lenman: Ethics, Motives, Consequentialism, and Morality'
-youtubeid: fvx71UQKHUA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24162507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2Ff8f506f7-9dfa-5d13-c70e-b326e3284b15.m4a",
+	"draft": false,
+	"episodeid": "440",
+	"excerpt": "Dr. James Lenman is Professor of Philosophy at the University of Sheffield. He is known for his expertise on ethics. Dr. Lenman is a former president of the British Society for Ethical Theory (2002-2008).",
+	"image": "https://i.ytimg.com/vi/fvx71UQKHUA/maxresdefault.jpg",
+	"publishDate": 2021-03-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/440-James-Lenman-Ethics--Motives--Consequentialism--and-Morality-envsob",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#440 James Lenman: Ethics, Motives, Consequentialism, and Morality",
+	"youtubeid": "fvx71UQKHUA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 16th 2020.  
 Dr. James Lenman is Professor of Philosophy at the University of Sheffield. He is known for his expertise on ethics. Dr. Lenman is a former president of the British Society for Ethical Theory (2002-2008).
 
@@ -34,5 +33,3 @@ Follow Dr. Lenman’s work:
 Faculty page: http://bit.ly/34hhuzQ  
 Website: http://bit.ly/37p6Adx  
 PhilPeople page: https://bit.ly/3mqDgYi
-</div>
-

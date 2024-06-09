@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2005613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707186-44100-2-3c2b1d95e3c5e.mp3
-draft: false
-excerpt: "Dr. Robert Kurzban is a former Professor of Psychology at the University\
-  \ of Pennsylvania. His research focuses on the nature of evolved cognitive adaptations\
-  \ for social life. Dr. Kurzban has served as both the editor-in-chief of the journal\
-  \ Evolution & Human Behavior and President of the Human Behavior and Evolution Society.\
-  \ He\u2019s also the author of the books Why Everyone (Else) Is a Hypocrite, and\
-  \ The Hidden Agenda of the Political Mind. "
-id: '95'
-image: https://i.ytimg.com/vi/lCrzBJaqkbw/maxresdefault.jpg
-publishDate: 2018-11-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/95-Robert-Kurzban-The-Hidden-Agenda-of-Our-Minds--Modularity--and-Politics-e2rn5d
-tags:
-- Psychology
-title: '#95 Robert Kurzban: The Hidden Agenda of Our Minds, Modularity, and Politics'
-youtubeid: lCrzBJaqkbw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2005613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707186-44100-2-3c2b1d95e3c5e.mp3",
+	"draft": false,
+	"episodeid": "95",
+	"excerpt": "Dr. Robert Kurzban is a former Professor of Psychology at the University of Pennsylvania. His research focuses on the nature of evolved cognitive adaptations for social life. Dr. Kurzban has served as both the editor-in-chief of the journal Evolution & Human Behavior and President of the Human Behavior and Evolution Society. He’s also the author of the books Why Everyone (Else) Is a Hypocrite, and The Hidden Agenda of the Political Mind. ",
+	"image": "https://i.ytimg.com/vi/lCrzBJaqkbw/maxresdefault.jpg",
+	"publishDate": 2018-11-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/95-Robert-Kurzban-The-Hidden-Agenda-of-Our-Minds--Modularity--and-Politics-e2rn5d",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#95 Robert Kurzban: The Hidden Agenda of Our Minds, Modularity, and Politics",
+	"youtubeid": "lCrzBJaqkbw"
+}
 ---
-<div class="timelinks">
-
 Dr. Robert Kurzban is a former Professor of Psychology at the University of Pennsylvania. His research focuses on the nature of evolved cognitive adaptations for social life. Dr. Kurzban has served as both the editor-in-chief of the journal Evolution & Human Behavior and President of the Human Behavior and Evolution Society. He’s also the author of the books Why Everyone (Else) Is a Hypocrite, and The Hidden Agenda of the Political Mind. 
 
 In this episode, we talk about the approach to the mind as being composed by a multitude of evolved cognitive modules that helped us deal with problems during our evolutionary history. We go through some of the main topics of both of Dr. Kurzban’s books, and talk about how our subconscious mind works and some of the implications of it, particularly about a new perspective on phenomena like cognitive dissonance and self-deception. And we also go through some of the implications that it has for politics.
@@ -40,5 +36,3 @@ Follow Dr. Kurzban’s work:
 Personal website: http://www.robkurzban.com/  
 Articles on Researchgate: https://tinyurl.com/y9xuko7h  
 Books: https://tinyurl.com/y7kf7g37
-</div>
-

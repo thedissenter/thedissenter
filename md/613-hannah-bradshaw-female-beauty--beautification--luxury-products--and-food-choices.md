@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/46431930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2F50012c00-428b-d7f1-e8a2-5d6b8dfba65d.m4a
-draft: false
-excerpt: "Dr. Hannah K. Bradshaw is an assistant professor in the Department of Psychology\
-  \ at Washington and Jefferson College. Dr. Bradshaw is an interdisciplinary-minded\
-  \ psychologist who incorporates methodological tools from social psychology, marketing,\
-  \ health psychology, industrial/organizational psychology, and psychoneuroimmunology.\
-  \ Her research program explores how interpersonal and ecological cues might affect\
-  \ our perceptions and decisions in the broader social world. While she has a wide\
-  \ variety of research interests, she tends to gravitate towards questions that pertain\
-  \ to disgust sensitivity, women\u2019s sociality, and consumer preferences and behavior."
-id: '613'
-image: https://i.ytimg.com/vi/FgtR5V8NX3E/maxresdefault.jpg
-publishDate: 2022-04-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/613-Hannah-Bradshaw-Female-beauty--Beautification--Luxury-Products--and-Food-Choices-e1d7g7q
-tags:
-- Psychology
-title: '#613 Hannah Bradshaw: Female Beauty, Beautification, Luxury Products, and
-  Food Choices'
-youtubeid: FgtR5V8NX3E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/46431930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2F50012c00-428b-d7f1-e8a2-5d6b8dfba65d.m4a",
+	"draft": false,
+	"episodeid": "613",
+	"excerpt": "Dr. Hannah K. Bradshaw is an assistant professor in the Department of Psychology at Washington and Jefferson College. Dr. Bradshaw is an interdisciplinary-minded psychologist who incorporates methodological tools from social psychology, marketing, health psychology, industrial/organizational psychology, and psychoneuroimmunology. Her research program explores how interpersonal and ecological cues might affect our perceptions and decisions in the broader social world. While she has a wide variety of research interests, she tends to gravitate towards questions that pertain to disgust sensitivity, women’s sociality, and consumer preferences and behavior.",
+	"image": "https://i.ytimg.com/vi/FgtR5V8NX3E/maxresdefault.jpg",
+	"publishDate": 2022-04-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/613-Hannah-Bradshaw-Female-beauty--Beautification--Luxury-Products--and-Food-Choices-e1d7g7q",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#613 Hannah Bradshaw: Female Beauty, Beautification, Luxury Products, and Food Choices",
+	"youtubeid": "FgtR5V8NX3E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 20th 2022.  
 Dr. Hannah K. Bradshaw is an assistant professor in the Department of Psychology at Washington and Jefferson College. Dr. Bradshaw is an interdisciplinary-minded psychologist who incorporates methodological tools from social psychology, marketing, health psychology, industrial/organizational psychology, and psychoneuroimmunology. Her research program explores how interpersonal and ecological cues might affect our perceptions and decisions in the broader social world. While she has a wide variety of research interests, she tends to gravitate towards questions that pertain to disgust sensitivity, women’s sociality, and consumer preferences and behavior.
 
@@ -46,5 +39,3 @@ Faculty page: https://bit.ly/3t1qp3B
 Website: https://bit.ly/3gEHprE  
 ResearchGate profile: https://bit.ly/3pJJ2ZG  
 Twitter handle: @HKBradshaw
-</div>
-

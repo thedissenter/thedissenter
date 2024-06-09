@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25921392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2F160c2de6-5736-dec3-d3c0-59f32ce7cf75.m4a
-draft: false
-excerpt: "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford University\
-  \ and a Professor of Psychology and Education at Teachers College, Columbia University.\
-  \ Dr. Tversky specializes in cognitive psychology. She is an authority in the areas\
-  \ of visual-spatial reasoning and collaborative cognition. Dr. Tversky\u2019s research\
-  \ interests include language and communication, comprehension of events and narratives,\
-  \ and the mapping and modeling of cognitive processes. She is the author of Mind\
-  \ in Motion: How Action Shapes Thought."
-id: '455'
-image: https://i.ytimg.com/vi/3tKcLo6zU2s/maxresdefault.jpg
-publishDate: 2021-04-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/455-Barbara-Tversky---Mind-in-Motion-How-Action-Shapes-Thought-eplidg
-tags:
-- Cognitive Science
-- Psychology
-title: '#455 Barbara Tversky - Mind in Motion: How Action Shapes Thought'
-youtubeid: 3tKcLo6zU2s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25921392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2F160c2de6-5736-dec3-d3c0-59f32ce7cf75.m4a",
+	"draft": false,
+	"episodeid": "455",
+	"excerpt": "Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford University and a Professor of Psychology and Education at Teachers College, Columbia University. Dr. Tversky specializes in cognitive psychology. She is an authority in the areas of visual-spatial reasoning and collaborative cognition. Dr. Tversky’s research interests include language and communication, comprehension of events and narratives, and the mapping and modeling of cognitive processes. She is the author of Mind in Motion: How Action Shapes Thought.",
+	"image": "https://i.ytimg.com/vi/3tKcLo6zU2s/maxresdefault.jpg",
+	"publishDate": 2021-04-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/455-Barbara-Tversky---Mind-in-Motion-How-Action-Shapes-Thought-eplidg",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#455 Barbara Tversky - Mind in Motion: How Action Shapes Thought",
+	"youtubeid": "3tKcLo6zU2s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 29th 2021.  
 Dr. Barbara Tversky is a Professor Emerita of Psychology at Stanford University and a Professor of Psychology and Education at Teachers College, Columbia University. Dr. Tversky specializes in cognitive psychology. She is an authority in the areas of visual-spatial reasoning and collaborative cognition. Dr. Tversky’s research interests include language and communication, comprehension of events and narratives, and the mapping and modeling of cognitive processes. She is the author of Mind in Motion: How Action Shapes Thought.
 
@@ -43,5 +38,3 @@ Faculty page(Stanford): http://stanford.io/37yolqU
 Faculty page (Columbia): http://bit.ly/3py9nra  
 ResearchGate profile: https://bit.ly/39sC2bw  
 Mind in Motion: https://amzn.to/2KHz9tr
-</div>
-

@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/68534682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F310c436b-8acc-46a5-2917-d1b5a30ee0ac.m4a
-draft: false
-excerpt: 'Dr. Gareth Leng was one of the founders in 1983 of the British Society for
-  Neuroendocrinology. He was appointed as the Chair of Experimental Physiology at
-  the University of Edinburgh in 1994, after 17 years at what is now the Babraham
-  Institute, Cambridge. He is a former Editor-in-Chief of the Journal of Neuroendocrinology,
-  and a former President of the International Neuroendocrine Federation. He is the
-  author of The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.'
-id: '816'
-image: https://i.ytimg.com/vi/bqNT5xdAQyM/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/816-gareth-leng-the-matter-of-facts/id1451347236?i=1000623349606&uo=4
-publishDate: 2023-08-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/816-Gareth-Leng---The-Matter-of-Facts-Skepticism--Persuasion--and-Evidence-in-Science-e22a0uq
-tags:
-- General Science
-title: '#816 Gareth Leng - The Matter of Facts: Skepticism, Persuasion, and Evidence
-  in Science'
-youtubeid: bqNT5xdAQyM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/68534682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F310c436b-8acc-46a5-2917-d1b5a30ee0ac.m4a",
+	"draft": false,
+	"episodeid": "816",
+	"excerpt": "Dr. Gareth Leng was one of the founders in 1983 of the British Society for Neuroendocrinology. He was appointed as the Chair of Experimental Physiology at the University of Edinburgh in 1994, after 17 years at what is now the Babraham Institute, Cambridge. He is a former Editor-in-Chief of the Journal of Neuroendocrinology, and a former President of the International Neuroendocrine Federation. He is the author of The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.",
+	"image": "https://i.ytimg.com/vi/bqNT5xdAQyM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/816-gareth-leng-the-matter-of-facts/id1451347236?i=1000623349606&uo=4",
+	"publishDate": 2023-08-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/816-Gareth-Leng---The-Matter-of-Facts-Skepticism--Persuasion--and-Evidence-in-Science-e22a0uq",
+	"tags": [
+		"General Science"
+	],
+	"title": "#816 Gareth Leng - The Matter of Facts: Skepticism, Persuasion, and Evidence in Science",
+	"youtubeid": "bqNT5xdAQyM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 13th 2023.  
 Dr. Gareth Leng was one of the founders in 1983 of the British Society for Neuroendocrinology. He was appointed as the Chair of Experimental Physiology at the University of Edinburgh in 1994, after 17 years at what is now the Babraham Institute, Cambridge. He is a former Editor-in-Chief of the Journal of Neuroendocrinology, and a former President of the International Neuroendocrine Federation. He is the author of The Matter of Facts: Skepticism, Persuasion, and Evidence in Science.
 
@@ -44,5 +39,3 @@ Time Links:
 Follow Dr. Leng’s work:  
 ResearchGate profile: https://bit.ly/3YbhWJx  
 The Matter of Facts: https://bit.ly/3kVpphw
-</div>
-

@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/60250319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-7%2Fefcb4e82-b3a3-d1ca-aca0-0f6a2b06856e.m4a
-draft: false
-excerpt: 'Lucy Cooke is a New York Times best-selling author, award-winning documentary
-  filmmaker and broadcaster, National Geographic explorer and TED talker with a Masters
-  in Zoology from the University of Oxford. Her latest book is Bitch: On the Female
-  of the Species.'
-id: '713'
-image: https://i.ytimg.com/vi/22ESV-DLCFM/maxresdefault.jpg
-publishDate: 2022-12-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/713-Lucy-Cooke---Bitch-On-the-Female-of-the-Species-e1qd6of
-tags:
-- Biology
-title: '#713 Lucy Cooke - Bitch: On the Female of the Species'
-youtubeid: 22ESV-DLCFM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/60250319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-7%2Fefcb4e82-b3a3-d1ca-aca0-0f6a2b06856e.m4a",
+	"draft": false,
+	"episodeid": "713",
+	"excerpt": "Lucy Cooke is a New York Times best-selling author, award-winning documentary filmmaker and broadcaster, National Geographic explorer and TED talker with a Masters in Zoology from the University of Oxford. Her latest book is Bitch: On the Female of the Species.",
+	"image": "https://i.ytimg.com/vi/22ESV-DLCFM/maxresdefault.jpg",
+	"publishDate": 2022-12-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/713-Lucy-Cooke---Bitch-On-the-Female-of-the-Species-e1qd6of",
+	"tags": [
+		"Biology"
+	],
+	"title": "#713 Lucy Cooke - Bitch: On the Female of the Species",
+	"youtubeid": "22ESV-DLCFM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 7th 2022.  
 Lucy Cooke is a New York Times best-selling author, award-winning documentary filmmaker and broadcaster, National Geographic explorer and TED talker with a Masters in Zoology from the University of Oxford. Her latest book is Bitch: On the Female of the Species.
 
@@ -52,5 +50,3 @@ Follow Lucy’s work:
 Website: https://bit.ly/3z0aBTg  
 B*tch: https://amzn.to/3cbGOOE  
 Twitter handle: @mslucycooke
-</div>
-

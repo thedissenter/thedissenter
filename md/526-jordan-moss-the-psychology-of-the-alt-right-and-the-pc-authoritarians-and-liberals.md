@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/35727066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2F26972593-438e-eb49-42a3-90522cb80c2e.m4a
-draft: false
-excerpt: Jordan Moss is a psychology graduate and medical student at the University
-  of Sydney. He has research interests in individual differences, with particular
-  interest in personality theory and moral psychology.
-id: '526'
-image: https://i.ytimg.com/vi/_fmaKBtGtR8/maxresdefault.jpg
-publishDate: 2021-09-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/526-Jordan-Moss-The-Psychology-of-the-Alt-right-and-the-PC-Authoritarians-and-Liberals-e130q8q
-tags:
-- Psychology
-title: '#526 Jordan Moss: The Psychology of the Alt-right and the PC Authoritarians
-  and Liberals'
-youtubeid: _fmaKBtGtR8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/35727066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2F26972593-438e-eb49-42a3-90522cb80c2e.m4a",
+	"draft": false,
+	"episodeid": "526",
+	"excerpt": "Jordan Moss is a psychology graduate and medical student at the University of Sydney. He has research interests in individual differences, with particular interest in personality theory and moral psychology.",
+	"image": "https://i.ytimg.com/vi/_fmaKBtGtR8/maxresdefault.jpg",
+	"publishDate": 2021-09-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/526-Jordan-Moss-The-Psychology-of-the-Alt-right-and-the-PC-Authoritarians-and-Liberals-e130q8q",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#526 Jordan Moss: The Psychology of the Alt-right and the PC Authoritarians and Liberals",
+	"youtubeid": "_fmaKBtGtR8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 14th 2021.  
 Jordan Moss is a psychology graduate and medical student at the University of Sydney. He has research interests in individual differences, with particular interest in personality theory and moral psychology.
 
@@ -34,5 +32,3 @@ Time Links:
 
 Follow Jordan’s work:  
 ResearchGate profile: https://bit.ly/3pMqJBD
-</div>
-

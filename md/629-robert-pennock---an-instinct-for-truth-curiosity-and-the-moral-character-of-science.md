@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a
-draft: false
-excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan State
-  University, where he is on the faculty of Lyman Briggs College, the Departments
-  of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and
-  Behavior program. His research involves empirical and philosophical questions that
-  relate to evolutionary biology, cognitive science, and the scientific character,
-  such as the evolution of altruism, complexity, and intelligence. He is the author
-  of books like An Instinct for Truth: Curiosity and the Moral Character of Science.'
-id: '629'
-image: https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg
-publishDate: 2022-05-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/629-Robert-Pennock---An-Instinct-for-Truth-Curiosity-and-the-Moral-Character-of-Science-e1ep5nu
-tags:
-- General Science
-- Philosophy
-title: '#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character
-  of Science'
-youtubeid: P9I3S4wVZ44
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a",
+	"draft": false,
+	"episodeid": "629",
+	"excerpt": "Dr. Robert Pennock is University Distinguished Professor at Michigan State University, where he is on the faculty of Lyman Briggs College, the Departments of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and Behavior program. His research involves empirical and philosophical questions that relate to evolutionary biology, cognitive science, and the scientific character, such as the evolution of altruism, complexity, and intelligence. He is the author of books like An Instinct for Truth: Curiosity and the Moral Character of Science.",
+	"image": "https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg",
+	"publishDate": 2022-05-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/629-Robert-Pennock---An-Instinct-for-Truth-Curiosity-and-the-Moral-Character-of-Science-e1ep5nu",
+	"tags": [
+		"General Science",
+		"Philosophy"
+	],
+	"title": "#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character of Science",
+	"youtubeid": "P9I3S4wVZ44"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 22nd 2022.  
 Dr. Robert Pennock is University Distinguished Professor at Michigan State University, where he is on the faculty of Lyman Briggs College, the Departments of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and Behavior program. His research involves empirical and philosophical questions that relate to evolutionary biology, cognitive science, and the scientific character, such as the evolution of altruism, complexity, and intelligence. He is the author of books like An Instinct for Truth: Curiosity and the Moral Character of Science.
 
@@ -50,5 +44,3 @@ Faculty page: https://bit.ly/2ZDkaZz
 ResearchGate profile: https://bit.ly/3nHIGk6  
 Amazon page: https://amzn.to/3pP2Ag0  
 An Instinct for Truth: https://amzn.to/2ZwX9XM
-</div>
-

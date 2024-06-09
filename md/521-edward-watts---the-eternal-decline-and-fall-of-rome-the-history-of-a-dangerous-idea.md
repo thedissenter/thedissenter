@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/38391894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F9e2e3427-3f18-54ab-057c-6f6349a5b7f3.m4a
-draft: false
-excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek
-  History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic
-  Studies. His research interests center on the intellectual and religious history
-  of the Roman Empire and the early Byzantine Empire. He is the author of several
-  books on ancient history, including Mortal Republic: How Rome Fell Into Tyranny.
-  His new book is The Eternal Decline and Fall of Rome: The History of a Dangerous
-  Idea.'
-id: '521'
-image: https://i.ytimg.com/vi/J_JgVL3k-8o/maxresdefault.jpg
-publishDate: 2021-09-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/521-Edward-Watts---The-Eternal-Decline-and-Fall-of-Rome-The-History-of-a-Dangerous-Idea-e15i4km
-tags:
-- History
-title: '#521 Edward Watts - The Eternal Decline and Fall of Rome: The History of a
-  Dangerous Idea'
-youtubeid: J_JgVL3k-8o
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/38391894/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-6%2F9e2e3427-3f18-54ab-057c-6f6349a5b7f3.m4a",
+	"draft": false,
+	"episodeid": "521",
+	"excerpt": "Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic Studies. His research interests center on the intellectual and religious history of the Roman Empire and the early Byzantine Empire. He is the author of several books on ancient history, including Mortal Republic: How Rome Fell Into Tyranny. His new book is The Eternal Decline and Fall of Rome: The History of a Dangerous Idea.",
+	"image": "https://i.ytimg.com/vi/J_JgVL3k-8o/maxresdefault.jpg",
+	"publishDate": 2021-09-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/521-Edward-Watts---The-Eternal-Decline-and-Fall-of-Rome-The-History-of-a-Dangerous-Idea-e15i4km",
+	"tags": [
+		"History"
+	],
+	"title": "#521 Edward Watts - The Eternal Decline and Fall of Rome: The History of a Dangerous Idea",
+	"youtubeid": "J_JgVL3k-8o"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 5th 2021.  
 Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic Studies. His research interests center on the intellectual and religious history of the Roman Empire and the early Byzantine Empire. He is the author of several books on ancient history, including Mortal Republic: How Rome Fell Into Tyranny. His new book is The Eternal Decline and Fall of Rome: The History of a Dangerous Idea.
 
@@ -48,5 +42,3 @@ Faculty page: https://bit.ly/2SPNmW5
 Academia.edu page: https://bit.ly/3iWFxsd  
 Rome's Eternal Decline (YT channel): https://bit.ly/2VBJexu  
 The Eternal Decline and Fall of Rome: https://amzn.to/3zQWVHX
-</div>
-

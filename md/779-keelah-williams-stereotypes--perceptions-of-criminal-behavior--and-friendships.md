@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63625094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F089a889b-14cb-a5fe-e0fa-c743ab809580.m4a
-draft: false
-excerpt: Dr. Keelah Williams is an Assistant Professor of Psychology and Director
-  of Jurisprudence of Law and Justice Studies at Hamilton College. Her current research
-  explores how the perception of threats and opportunities in the environment may
-  shape stereotype content, punishment strategies, and legal decision-making. Her
-  work has been published in journals such as Proceedings of the National Academy
-  of Sciences.
-id: '779'
-image: https://i.ytimg.com/vi/JpcSIiRkfHk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/779-keelah-williams-stereotypes-perceptions-of/id1451347236?i=1000612217151&uo=4
-publishDate: 2023-05-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/779-Keelah-Williams-Stereotypes--Perceptions-of-Criminal-Behavior--and-Friendships-e1tk6e6
-tags:
-- Psychology
-title: '#779 Keelah Williams: Stereotypes, Perceptions of Criminal Behavior, and Friendships'
-youtubeid: JpcSIiRkfHk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63625094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F089a889b-14cb-a5fe-e0fa-c743ab809580.m4a",
+	"draft": false,
+	"episodeid": "779",
+	"excerpt": "Dr. Keelah Williams is an Assistant Professor of Psychology and Director of Jurisprudence of Law and Justice Studies at Hamilton College. Her current research explores how the perception of threats and opportunities in the environment may shape stereotype content, punishment strategies, and legal decision-making. Her work has been published in journals such as Proceedings of the National Academy of Sciences.",
+	"image": "https://i.ytimg.com/vi/JpcSIiRkfHk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/779-keelah-williams-stereotypes-perceptions-of/id1451347236?i=1000612217151&uo=4",
+	"publishDate": 2023-05-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/779-Keelah-Williams-Stereotypes--Perceptions-of-Criminal-Behavior--and-Friendships-e1tk6e6",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#779 Keelah Williams: Stereotypes, Perceptions of Criminal Behavior, and Friendships",
+	"youtubeid": "JpcSIiRkfHk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 17th 2023.  
 Dr. Keelah Williams is an Assistant Professor of Psychology and Director of Jurisprudence of Law and Justice Studies at Hamilton College. Her current research explores how the perception of threats and opportunities in the environment may shape stereotype content, punishment strategies, and legal decision-making. Her work has been published in journals such as Proceedings of the National Academy of Sciences.
 
@@ -47,5 +43,3 @@ Follow Dr. Williams’ work:
 Faculty page: https://bit.ly/3KXrUbj  
 Works on ResearchGate: https://bit.ly/3uVpuEq  
 Twitter handle: @kegwilliams
-</div>
-

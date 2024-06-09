@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/31132275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F5412ded3-8135-71e9-da7f-a404e6d6d272.m4a
-draft: false
-excerpt: "Dr. Edward Slingerland is a Professor of Asian Studies at the University\
-  \ of British Columbia, Vancouver, Canada. He\u2019s the Director of the Cultural\
-  \ Evolution of Religion Research Consortium (CERC), the Director of the Database\
-  \ of Religious History (DRH), and the Co-Director of the Centre for the Study of\
-  \ Human Evolution, Cognition and Culture (HECC). His most recent book is Drunk:\
-  \ How We Sipped, Danced, and Stumbled Our Way to Civilization."
-id: '476'
-image: https://i.ytimg.com/vi/DI_0hkiaUZ0/maxresdefault.jpg
-publishDate: 2021-05-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/476-Edward-Slingerland---Drunk-How-We-Sipped--Danced--and-Stumbled-Our-Way-to-Civilization-eukj5j
-tags:
-- History
-- Biology
-- Anthropology
-title: '#476 Edward Slingerland - Drunk: How We Sipped, Danced, and Stumbled Our Way
-  to Civilization'
-youtubeid: DI_0hkiaUZ0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/31132275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F5412ded3-8135-71e9-da7f-a404e6d6d272.m4a",
+	"draft": false,
+	"episodeid": "476",
+	"excerpt": "Dr. Edward Slingerland is a Professor of Asian Studies at the University of British Columbia, Vancouver, Canada. He’s the Director of the Cultural Evolution of Religion Research Consortium (CERC), the Director of the Database of Religious History (DRH), and the Co-Director of the Centre for the Study of Human Evolution, Cognition and Culture (HECC). His most recent book is Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization.",
+	"image": "https://i.ytimg.com/vi/DI_0hkiaUZ0/maxresdefault.jpg",
+	"publishDate": 2021-05-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/476-Edward-Slingerland---Drunk-How-We-Sipped--Danced--and-Stumbled-Our-Way-to-Civilization-eukj5j",
+	"tags": [
+		"History",
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#476 Edward Slingerland - Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization",
+	"youtubeid": "DI_0hkiaUZ0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 7th 2021.  
 Dr. Edward Slingerland is a Professor of Asian Studies at the University of British Columbia, Vancouver, Canada. He’s the Director of the Cultural Evolution of Religion Research Consortium (CERC), the Director of the Database of Religious History (DRH), and the Co-Director of the Centre for the Study of Human Evolution, Cognition and Culture (HECC). His most recent book is Drunk: How We Sipped, Danced, and Stumbled Our Way to Civilization.
 
@@ -47,5 +42,3 @@ ResearchGate profile: https://bit.ly/3cW5iZY
 Amazon page: https://amzn.to/3cYp7A9  
 Drunk: https://amzn.to/2PzwtkM  
 Twitter handle: @slingerland20
-</div>
-

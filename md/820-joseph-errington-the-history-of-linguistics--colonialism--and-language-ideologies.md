@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/68848250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-18%2Fc4caa795-2b3d-7ddd-9f8e-093982d29f33.m4a
-draft: false
-excerpt: 'Dr. Joseph Errington is Professor of Anthropology at Yale University. He
-  studies language change as a source of insight into the ways languages constitute
-  intimate parts of our everyday lives, and at the same time are foundational for
-  large-scale institutions, social groups, and social dynamics. He has worked mostly
-  in Indonesia, studying Javanese (90 million speakers), Indonesian (250 million speakers)
-  and a range of Malay dialects. He has also worked on questions of language ideology
-  and practice: how conceptions of language can shape and reflect social interests,
-  naturalize images of social groups, and shape everyday ways of talking. He is the
-  author of books like Language and Social Change in Java, Shifting Languages, and
-  Linguistics in a Colonial World.'
-id: '820'
-image: https://i.ytimg.com/vi/Wq8Hw3xlLf8/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/820-joseph-errington-the-history-of/id1451347236?i=1000624184620&uo=4
-publishDate: 2023-08-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/820-Joseph-Errington-The-History-of-Linguistics--Colonialism--and-Language-Ideologies-e22jj5q
-tags:
-- Linguistics
-title: '#820 Joseph Errington: The History of Linguistics, Colonialism, and Language
-  Ideologies'
-youtubeid: Wq8Hw3xlLf8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/68848250/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-18%2Fc4caa795-2b3d-7ddd-9f8e-093982d29f33.m4a",
+	"draft": false,
+	"episodeid": "820",
+	"excerpt": "Dr. Joseph Errington is Professor of Anthropology at Yale University. He studies language change as a source of insight into the ways languages constitute intimate parts of our everyday lives, and at the same time are foundational for large-scale institutions, social groups, and social dynamics. He has worked mostly in Indonesia, studying Javanese (90 million speakers), Indonesian (250 million speakers) and a range of Malay dialects. He has also worked on questions of language ideology and practice: how conceptions of language can shape and reflect social interests, naturalize images of social groups, and shape everyday ways of talking. He is the author of books like Language and Social Change in Java, Shifting Languages, and Linguistics in a Colonial World.",
+	"image": "https://i.ytimg.com/vi/Wq8Hw3xlLf8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/820-joseph-errington-the-history-of/id1451347236?i=1000624184620&uo=4",
+	"publishDate": 2023-08-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/820-Joseph-Errington-The-History-of-Linguistics--Colonialism--and-Language-Ideologies-e22jj5q",
+	"tags": [
+		"Linguistics"
+	],
+	"title": "#820 Joseph Errington: The History of Linguistics, Colonialism, and Language Ideologies",
+	"youtubeid": "Wq8Hw3xlLf8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 18th 2023.  
 Dr. Joseph Errington is Professor of Anthropology at Yale University. He studies language change as a source of insight into the ways languages constitute intimate parts of our everyday lives, and at the same time are foundational for large-scale institutions, social groups, and social dynamics. He has worked mostly in Indonesia, studying Javanese (90 million speakers), Indonesian (250 million speakers) and a range of Malay dialects. He has also worked on questions of language ideology and practice: how conceptions of language can shape and reflect social interests, naturalize images of social groups, and shape everyday ways of talking. He is the author of books like Language and Social Change in Java, Shifting Languages, and Linguistics in a Colonial World.
 
@@ -50,5 +41,3 @@ Follow Dr. Errington’s work:
 Faculty page: http://bit.ly/3kqdfNt  
 ResearchGate profile: https://bit.ly/3QQ3Qus  
 Amazon page: https://bit.ly/3iKW090
-</div>
-

@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22870244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2Ffbd2a56e-7c62-dd29-efc4-a1cfc50136b9.m4a
-draft: false
-excerpt: Dr. Andrew Delton is Associate Professor in the Department of Political Science
-  and the Center for Behavioral Political Economy at Stony Brook University. His research
-  is at the intersection of political science, evolutionary psychology, and behavioral
-  economics. Topics include collective action and public goods, generosity and redistribution,
-  voting and political mobilization, partisanship, risk and time preferences, and
-  emotions such as anger, compassion, and shame. Methods include behavioral economic
-  games, population-based surveys, decision making tasks, implicit social cognition
-  measures, game theoretic analysis, agent-based simulations, and cross-cultural data
-  collection.
-id: '423'
-image: https://i.ytimg.com/vi/UL6bo_rX1ss/maxresdefault.jpg
-publishDate: 2021-01-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/423-Andrew-Delton-Evolution--Politics--the-Welfare-State--Partisanship--and-Voting-Behavior-emoep4
-tags:
-- Psychology
-title: '#423 Andrew Delton: Evolution, Politics, the Welfare State, Partisanship,
-  and Voting Behavior'
-youtubeid: UL6bo_rX1ss
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22870244/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2Ffbd2a56e-7c62-dd29-efc4-a1cfc50136b9.m4a",
+	"draft": false,
+	"episodeid": "423",
+	"excerpt": "Dr. Andrew Delton is Associate Professor in the Department of Political Science and the Center for Behavioral Political Economy at Stony Brook University. His research is at the intersection of political science, evolutionary psychology, and behavioral economics. Topics include collective action and public goods, generosity and redistribution, voting and political mobilization, partisanship, risk and time preferences, and emotions such as anger, compassion, and shame. Methods include behavioral economic games, population-based surveys, decision making tasks, implicit social cognition measures, game theoretic analysis, agent-based simulations, and cross-cultural data collection.",
+	"image": "https://i.ytimg.com/vi/UL6bo_rX1ss/maxresdefault.jpg",
+	"publishDate": 2021-01-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/423-Andrew-Delton-Evolution--Politics--the-Welfare-State--Partisanship--and-Voting-Behavior-emoep4",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#423 Andrew Delton: Evolution, Politics, the Welfare State, Partisanship, and Voting Behavior",
+	"youtubeid": "UL6bo_rX1ss"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 18th 2020.  
 Dr. Andrew Delton is Associate Professor in the Department of Political Science and the Center for Behavioral Political Economy at Stony Brook University. His research is at the intersection of political science, evolutionary psychology, and behavioral economics. Topics include collective action and public goods, generosity and redistribution, voting and political mobilization, partisanship, risk and time preferences, and emotions such as anger, compassion, and shame. Methods include behavioral economic games, population-based surveys, decision making tasks, implicit social cognition measures, game theoretic analysis, agent-based simulations, and cross-cultural data collection.
 
@@ -42,5 +34,3 @@ Follow Dr. Delton’s work:
 Faculty page: https://bit.ly/3fdr2QL  
 Website: https://bit.ly/2IEn4VC  
 ResearchGate profile: https://bit.ly/36OmM6w
-</div>
-

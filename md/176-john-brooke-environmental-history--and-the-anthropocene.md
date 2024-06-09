@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2788745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145720-44100-2-db640823b88fe.m4a
-draft: false
-excerpt: 'Dr. John Brooke is Arts & Sciences Distinguished Professor of History, Professor
-  of Anthropology, and Director of the Ohio State University Center for Historical
-  Research. He is also the co-chair of the 2011-2012 Program: Disease, Health, and
-  Environment in Global History. In 2007-2008 he served as the president of the Society
-  of Historians of the Early American Republic. His teaching areas include Early American
-  History and Environmental History. His most recent book, Climate Change and the
-  Course of Global History: A Rough Journey, published in 2014, examines the long
-  material and natural history of the human condition.'
-id: '176'
-image: https://i.ytimg.com/vi/xXRfxuqSol8/maxresdefault.jpg
-publishDate: 2019-05-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/176-John-Brooke-Environmental-History--And-The-Anthropocene-e3jju9
-tags:
-- General Science
-title: '#176 John Brooke: Environmental History, And The Anthropocene'
-youtubeid: xXRfxuqSol8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2788745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-30%2F12145720-44100-2-db640823b88fe.m4a",
+	"draft": false,
+	"episodeid": "176",
+	"excerpt": "Dr. John Brooke is Arts & Sciences Distinguished Professor of History, Professor of Anthropology, and Director of the Ohio State University Center for Historical Research. He is also the co-chair of the 2011-2012 Program: Disease, Health, and Environment in Global History. In 2007-2008 he served as the president of the Society of Historians of the Early American Republic. His teaching areas include Early American History and Environmental History. His most recent book, Climate Change and the Course of Global History: A Rough Journey, published in 2014, examines the long material and natural history of the human condition.",
+	"image": "https://i.ytimg.com/vi/xXRfxuqSol8/maxresdefault.jpg",
+	"publishDate": 2019-05-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/176-John-Brooke-Environmental-History--And-The-Anthropocene-e3jju9",
+	"tags": [
+		"General Science"
+	],
+	"title": "#176 John Brooke: Environmental History, And The Anthropocene",
+	"youtubeid": "xXRfxuqSol8"
+}
 ---
-<div class="timelinks">
-
 Dr. John Brooke is Arts & Sciences Distinguished Professor of History, Professor of Anthropology, and Director of the Ohio State University Center for Historical Research. He is also the co-chair of the 2011-2012 Program: Disease, Health, and Environment in Global History. In 2007-2008 he served as the president of the Society of Historians of the Early American Republic. His teaching areas include Early American History and Environmental History. His most recent book, Climate Change and the Course of Global History: A Rough Journey, published in 2014, examines the long material and natural history of the human condition.
 
 In this episode, we talk about Dr. Brooke’s book, Climate Change and the Course of Global History, and about the discipline of Environmental History. We start with a definition of the discipline, and its objects of study, and then go through some of the major evolutionary steps in our History, like the development of culture and agriculture. Then we refer to how climate fluctuations played a role in the crash of societies since the advent of agriculture, and also the role of epidemics and war. We also talk about a recent study about how the arrival of Europeans in the Americas contributed to the death of the death of 55 million people and a drop in global temperatures. After that, we discuss the environmental conditions that favored the development of the industrial revolution in Northern Europe, and how it also might have contributed to the abolishment of slavery. Toward the end, we talk about the Anthropocene, and human-made climate change, and how to best tackle it, and also the relationship between Environmental History and Big History, and using energy/energy density as a common metric from Physics to History.
@@ -52,5 +46,3 @@ Referrenced books/articles:
 European colonisation of the Americas killed 10% of world population and caused global cooling: https://bit.ly/2SnCoJO  
 Earth system impacts of the European arrival and Great Dying in the Americas after 1492: https://bit.ly/2SigqqK  
 Revolutions that Made the Earth: https://amzn.to/2HP7ROl
-</div>
-

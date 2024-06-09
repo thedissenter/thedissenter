@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7683508-48000-2-957fe7cb44e97.mp3
-draft: false
-excerpt: 'Dr. Stephen Hicks teaches at Rockford University, where he also directs
-  the Center for Ethics and Entrepreneurship. He is the author of books like Explaining
-  Postmodernism: Skepticism and Socialism from Rousseau to Foucault, and Nietzsche
-  and the Nazis. Additionally, he has published articles and essays on a range of
-  subjects, including entrepreneurism, free speech in academia, the history and development
-  of modern art, Ayn Rand''s Objectivism, business ethics and the philosophy of education,
-  including a series of YouTube lectures.'
-id: '80'
-image: https://i.ytimg.com/vi/kSrLt14wQhA/maxresdefault.jpg
-publishDate: 2018-10-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/80-Stephen-Hicks-Nietzsche--the-Nazis--and-the-Postmodernists-e2rjh3
-tags:
-- Philosophy
-title: '#80 Stephen Hicks: Nietzsche, the Nazis, and the Postmodernists'
-youtubeid: kSrLt14wQhA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7683508-48000-2-957fe7cb44e97.mp3",
+	"draft": false,
+	"episodeid": "80",
+	"excerpt": "Dr. Stephen Hicks teaches at Rockford University, where he also directs the Center for Ethics and Entrepreneurship. He is the author of books like Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault, and Nietzsche and the Nazis. Additionally, he has published articles and essays on a range of subjects, including entrepreneurism, free speech in academia, the history and development of modern art, Ayn Rand's Objectivism, business ethics and the philosophy of education, including a series of YouTube lectures.",
+	"image": "https://i.ytimg.com/vi/kSrLt14wQhA/maxresdefault.jpg",
+	"publishDate": 2018-10-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/80-Stephen-Hicks-Nietzsche--the-Nazis--and-the-Postmodernists-e2rjh3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#80 Stephen Hicks: Nietzsche, the Nazis, and the Postmodernists",
+	"youtubeid": "kSrLt14wQhA"
+}
 ---
-<div class="timelinks">
-
 Dr. Stephen Hicks teaches at Rockford University, where he also directs the Center for Ethics and Entrepreneurship. He is the author of books like Explaining Postmodernism: Skepticism and Socialism from Rousseau to Foucault, and Nietzsche and the Nazis. Additionally, he has published articles and essays on a range of subjects, including entrepreneurism, free speech in academia, the history and development of modern art, Ayn Rand's Objectivism, business ethics and the philosophy of education, including a series of YouTube lectures.
 
 Dr. Hicks is a return guest on the show. Please go check out our first conversation, “Postmodernism: From Rousseau to the Present”: https://youtu.be/rBTPMBKCZLs
@@ -43,5 +38,3 @@ His book, Nietzsche and the Nazis: https://tinyurl.com/y8y2vyhf
 Also, Explaining Postmodernism: https://tinyurl.com/yarexghn  
 And follow him on Twitter: @SRCHicks  
  And Facebook: https://www.facebook.com/Stephen.R.C.Hicks
-</div>
-

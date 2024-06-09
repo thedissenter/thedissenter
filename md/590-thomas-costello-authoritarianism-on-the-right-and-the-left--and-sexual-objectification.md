@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/43234416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Ff0203b15-d3bc-e1df-b1db-eedfddfc7ef1.m4a
-draft: false
-excerpt: "Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality\
-  \ traits, thinking styles, and worldviews give rise to maladaptive political attitudes\
-  \ and behaviors, such as violence, extreme partisanship, and authoritarianism. Thomas\u2019\
-  \ research leverages the tools and expertise of personality psychology and clinical\
-  \ science to understand, measure, and statistically model the psychological causes\
-  \ and correlates of these attitudes and behaviors."
-id: '590'
-image: https://i.ytimg.com/vi/jvGZ1popoVo/maxresdefault.jpg
-publishDate: 2022-02-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/590-Thomas-Costello-Authoritarianism-on-the-Right-and-the-Left--and-Sexual-Objectification-e1a5tlg
-tags:
-- Psychology
-title: '#590 Thomas Costello: Authoritarianism on the Right and the Left, and Sexual
-  Objectification'
-youtubeid: jvGZ1popoVo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/43234416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Ff0203b15-d3bc-e1df-b1db-eedfddfc7ef1.m4a",
+	"draft": false,
+	"episodeid": "590",
+	"excerpt": "Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality traits, thinking styles, and worldviews give rise to maladaptive political attitudes and behaviors, such as violence, extreme partisanship, and authoritarianism. Thomas’ research leverages the tools and expertise of personality psychology and clinical science to understand, measure, and statistically model the psychological causes and correlates of these attitudes and behaviors.",
+	"image": "https://i.ytimg.com/vi/jvGZ1popoVo/maxresdefault.jpg",
+	"publishDate": 2022-02-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/590-Thomas-Costello-Authoritarianism-on-the-Right-and-the-Left--and-Sexual-Objectification-e1a5tlg",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#590 Thomas Costello: Authoritarianism on the Right and the Left, and Sexual Objectification",
+	"youtubeid": "jvGZ1popoVo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 10th 2021.  
 Thomas Costello is a Ph.D. Candidate at Emory University. Certain personality traits, thinking styles, and worldviews give rise to maladaptive political attitudes and behaviors, such as violence, extreme partisanship, and authoritarianism. Thomas’ research leverages the tools and expertise of personality psychology and clinical science to understand, measure, and statistically model the psychological causes and correlates of these attitudes and behaviors.
 
@@ -42,5 +37,3 @@ Follow Thomas’ work:
 Website: https://bit.ly/3xyiagz  
 ResearchGate profile: https://bit.ly/3qdtgFa  
 Twitter handle: @tomstello_
-</div>
-

@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/19799838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2F15100f00-6bdb-c21f-7f1e-da5bb71fa89c.m4a
-draft: false
-excerpt: Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department
-  of Physics at Oxford University. Her research interests include Quantum Theory of
-  Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology.
-  She is the recipient of numerous awards including the "Graduate Prize Scholarship"
-  at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione
-  Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo"
-  Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010.
-id: '394'
-image: https://i.ytimg.com/vi/9y5q7i9E1vU/maxresdefault.jpg
-publishDate: 2020-11-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/394-Chiara-Marletto-Quantum-Mechanics--Constructor-Theory--Free-Will--and-Reality-ejqoau
-tags:
-- Physics
-title: '#394 Chiara Marletto: Quantum Mechanics, Constructor Theory, Free Will, and
-  Reality'
-youtubeid: 9y5q7i9E1vU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/19799838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-18%2F15100f00-6bdb-c21f-7f1e-da5bb71fa89c.m4a",
+	"draft": false,
+	"episodeid": "394",
+	"excerpt": "Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department of Physics at Oxford University. Her research interests include Quantum Theory of Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology. She is the recipient of numerous awards including the \"Graduate Prize Scholarship\" at Merton College, 2012; \"Optime\" Award for Academic Excellence, offered by Unione Industriale di Torino, 2011; and the \"Ing. Vittorino Pollo e Dott.Ssa Zita Pollo\" Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010.",
+	"image": "https://i.ytimg.com/vi/9y5q7i9E1vU/maxresdefault.jpg",
+	"publishDate": 2020-11-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/394-Chiara-Marletto-Quantum-Mechanics--Constructor-Theory--Free-Will--and-Reality-ejqoau",
+	"tags": [
+		"Physics"
+	],
+	"title": "#394 Chiara Marletto: Quantum Mechanics, Constructor Theory, Free Will, and Reality",
+	"youtubeid": "9y5q7i9E1vU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 17th 2020.  
 Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department of Physics at Oxford University. Her research interests include Quantum Theory of Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology. She is the recipient of numerous awards including the "Graduate Prize Scholarship" at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo" Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010.
 
@@ -43,5 +37,3 @@ Oxford page: https://bit.ly/3iGLFWu
 Constructor Theory website: https://bit.ly/3cjTm2B  
 ResearchGate profile: https://bit.ly/3iGzWXW  
 The Science of Can and Can’t (upcoming book): https://amzn.to/32JMngd
-</div>
-

@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63146322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-6%2F68dca3f4-6bf0-574d-97b0-2a6e66095adb.m4a
-draft: false
-excerpt: Dr. Alexander Bor is a postdoc at the CEU Democracy Institute's Research
-  Group on De- and Re-Democratization and a Visiting Professor at CEU Vienna. He received
-  an MA in Political Science at the CEU in 2012, and a PhD in Political Science at
-  Aarhus University in 2018, where he also worked as a postdoc until 2022. His research
-  focuses on how the human mind navigates social and political challenges like political
-  polarization, online political hostility, the COVID-19 pandemic, or selecting and
-  evaluating political leaders. His work integrates insights from political behavior,
-  social and evolutionary psychology, and public health.
-id: '788'
-image: https://i.ytimg.com/vi/AUfL2bHy53s/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/788-alexander-bor-online-political-hostily-and/id1451347236?i=1000614896723&uo=4
-publishDate: 2023-05-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/788-Alexander-Bor-Online-Political-Hostily-and-the-Moralization-and-Political-Effects-of-COVID-19-e1t5isi
-tags:
-- Psychology
-title: '#788 Alexander Bor: Online Political Hostility; and the Moralization and Political
-  Effects of COVID'
-youtubeid: AUfL2bHy53s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63146322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-6%2F68dca3f4-6bf0-574d-97b0-2a6e66095adb.m4a",
+	"draft": false,
+	"episodeid": "788",
+	"excerpt": "Dr. Alexander Bor is a postdoc at the CEU Democracy Institute's Research Group on De- and Re-Democratization and a Visiting Professor at CEU Vienna. He received an MA in Political Science at the CEU in 2012, and a PhD in Political Science at Aarhus University in 2018, where he also worked as a postdoc until 2022. His research focuses on how the human mind navigates social and political challenges like political polarization, online political hostility, the COVID-19 pandemic, or selecting and evaluating political leaders. His work integrates insights from political behavior, social and evolutionary psychology, and public health.",
+	"image": "https://i.ytimg.com/vi/AUfL2bHy53s/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/788-alexander-bor-online-political-hostily-and/id1451347236?i=1000614896723&uo=4",
+	"publishDate": 2023-05-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/788-Alexander-Bor-Online-Political-Hostily-and-the-Moralization-and-Political-Effects-of-COVID-19-e1t5isi",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#788 Alexander Bor: Online Political Hostility; and the Moralization and Political Effects of COVID",
+	"youtubeid": "AUfL2bHy53s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 6th 2023.  
 Dr. Alexander Bor is a postdoc at the CEU Democracy Institute's Research Group on De- and Re-Democratization and a Visiting Professor at CEU Vienna. He received an MA in Political Science at the CEU in 2012, and a PhD in Political Science at Aarhus University in 2018, where he also worked as a postdoc until 2022. His research focuses on how the human mind navigates social and political challenges like political polarization, online political hostility, the COVID-19 pandemic, or selecting and evaluating political leaders. His work integrates insights from political behavior, social and evolutionary psychology, and public health.
 
@@ -49,5 +42,3 @@ University page:
 Website: https://bit.ly/3x2Iu4y  
 ResearchGate profile: https://bit.ly/3ATvvmQ  
 Twitter handle: @boralexander1
-</div>
-

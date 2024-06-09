@@ -1,20 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601833-44100-2-3a1bb4c4d390e.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '39'
-image: https://i.ytimg.com/vi/LqC-LLPf-oc/maxresdefault.jpg
-publishDate: 2018-06-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/39-Vera-Gomes-Doena-Inflamatria-do-Intestino-e-Sndrome-do-Intestino-Irritvel-e2r9or
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Medicine
-title: "#39 Vera Gomes: Doen\xE7a Inflamat\xF3ria do Intestino e S\xEDndrome do Intestino\
-  \ Irrit\xE1vel"
-youtubeid: LqC-LLPf-oc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601833-44100-2-3a1bb4c4d390e.mp3",
+	"draft": false,
+	"episodeid": "39",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/LqC-LLPf-oc/maxresdefault.jpg",
+	"publishDate": 2018-06-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/39-Vera-Gomes-Doena-Inflamatria-do-Intestino-e-Sndrome-do-Intestino-Irritvel-e2r9or",
+	"tags": [
+		"Entrevistas em Português",
+		"Medicine"
+	],
+	"title": "#39 Vera Gomes: Doença Inflamatória do Intestino e Síndrome do Intestino Irritável",
+	"youtubeid": "LqC-LLPf-oc"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -33,5 +33,4 @@ She’s the author of a blog, Escadinhas do Quebra Costas, in which she writes a
 In this episode, we talk about her personal experience while dealing with ulcerative colitis; what is inflammatory bowel disease (IBD), and how we can distinguish it from irritable bowel syndrome (IBS); in what ways IBD can affect the personal and professional lives of people who suffer from it; the difficulty in making a diagnosis; the petition that is being evaluated at the Republican Assembly (in Portugal) with proposals to improve the life conditions of these patients; and how they can be easy targets of propaganda coming from alternative medicine and therapies.
 
 Blogue Escadinhas do Quebra Costas: https://escadinhas.blogs.sapo.pt/  
-Associação Portuguesa da Doença Inflamatória do Intestino: http://www.apdi.org.pt/</div>
-
+Associação Portuguesa da Doença Inflamatória do Intestino: http://www.apdi.org.pt/

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681122-44100-2-6db7c7c746c3.mp3
-draft: false
-excerpt: Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cognitive
-  and Evolutionary Anthropology, at the University of Oxford. He received his PhD
-  from the London School of Economics in 2005. In addition to his research, which
-  focuses a lot on morality, Dr. Curry has previously taught courses on evolution
-  and human behavior, covering evolutionary theory, animal behavior, evolutionary
-  psychology, cross-cultural psychology, statistics and research methods. He is also
-  a consultant for kindness.org.
-id: '61'
-image: https://i.ytimg.com/vi/umspNRCv_1o/maxresdefault.jpg
-publishDate: 2018-08-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/61-Oliver-Scott-Curry-Morality-as-Cooperation--Moral-Foundations-e2rj38
-tags:
-- Anthropology
-title: '#61 Oliver Scott Curry: Morality as Cooperation, Moral Foundations'
-youtubeid: umspNRCv_1o
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681122-44100-2-6db7c7c746c3.mp3",
+	"draft": false,
+	"episodeid": "61",
+	"excerpt": "Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cognitive and Evolutionary Anthropology, at the University of Oxford. He received his PhD from the London School of Economics in 2005. In addition to his research, which focuses a lot on morality, Dr. Curry has previously taught courses on evolution and human behavior, covering evolutionary theory, animal behavior, evolutionary psychology, cross-cultural psychology, statistics and research methods. He is also a consultant for kindness.org.",
+	"image": "https://i.ytimg.com/vi/umspNRCv_1o/maxresdefault.jpg",
+	"publishDate": 2018-08-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/61-Oliver-Scott-Curry-Morality-as-Cooperation--Moral-Foundations-e2rj38",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#61 Oliver Scott Curry: Morality as Cooperation, Moral Foundations",
+	"youtubeid": "umspNRCv_1o"
+}
 ---
-<div class="timelinks">
-
 Dr. Oliver Scott Curry is a Senior Researcher at the Institute of Cognitive and Evolutionary Anthropology, at the University of Oxford. He received his PhD from the London School of Economics in 2005. In addition to his research, which focuses a lot on morality, Dr. Curry has previously taught courses on evolution and human behavior, covering evolutionary theory, animal behavior, evolutionary psychology, cross-cultural psychology, statistics and research methods. He is also a consultant for kindness.org.
 
 In this episode, topics of conversation include: the evolution of cooperation in humans; game theory; if human morality if evolved or cultural; culture via nature; the relation between the development of killing tools and cooperation; how do we deal with sociality in studies of morality; gossip; sociality and morality; kin selection and human life history; kin selection vs reciprocal altruism; cooperation and conflict; the periodic table of ethics as developed by Dr. Curry and colleagues; the shortcomings of Jonathan Haidt’s Moral Foundations and Alan Fiske’s Relational Models; the relation between morality and sociality; the problem with the term “moral norms”; and the relationship between Evolutionary Psychology and Evolutionary Anthropology. 
@@ -49,5 +44,3 @@ Time Links:
 Follow Dr. Curry’s work:  
 Faculty page: https://www.anthro.ox.ac.uk/people/dr-oliver-scott-curry  
 Twitter handle: @Oliver_S_Curry
-</div>
-

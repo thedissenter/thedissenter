@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/66206431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-8%2F2567933a-5067-7ee9-a2fb-489ea216c3ec.m4a
-draft: false
-excerpt: 'Dr. Jared Rubin is Professor of Economics and Co-Director of the Institute
-  for the Study of Religion, Economics, and Society at Chapman University. Dr. Rubin
-  is an economic historian interested in the political and religious economies of
-  the Middle East and Western Europe. His research focuses on historical relationships
-  between political and religious institutions and their role in economic development.
-  He is the author, together with Mark Koyama, of How the World Became Rich: The Historical
-  Origins of Economic Growth.'
-id: '802'
-image: https://i.ytimg.com/vi/x8cr2VXaugw/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/802-jared-rubin-how-the-world-became-rich-the/id1451347236?i=1000618906711&uo=4
-publishDate: 2023-06-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/802-Jared-Rubin---How-the-World-Became-Rich-The-Historical-Origins-of-Economic-Growth-e202v8v
-tags:
-- Economics
-title: '#802 Jared Rubin - How the World Became Rich: The Historical Origins of Economic
-  Growth'
-youtubeid: x8cr2VXaugw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/66206431/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-8%2F2567933a-5067-7ee9-a2fb-489ea216c3ec.m4a",
+	"draft": false,
+	"episodeid": "802",
+	"excerpt": "Dr. Jared Rubin is Professor of Economics and Co-Director of the Institute for the Study of Religion, Economics, and Society at Chapman University. Dr. Rubin is an economic historian interested in the political and religious economies of the Middle East and Western Europe. His research focuses on historical relationships between political and religious institutions and their role in economic development. He is the author, together with Mark Koyama, of How the World Became Rich: The Historical Origins of Economic Growth.",
+	"image": "https://i.ytimg.com/vi/x8cr2VXaugw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/802-jared-rubin-how-the-world-became-rich-the/id1451347236?i=1000618906711&uo=4",
+	"publishDate": 2023-06-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/802-Jared-Rubin---How-the-World-Became-Rich-The-Historical-Origins-of-Economic-Growth-e202v8v",
+	"tags": [
+		"Economics"
+	],
+	"title": "#802 Jared Rubin - How the World Became Rich: The Historical Origins of Economic Growth",
+	"youtubeid": "x8cr2VXaugw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 8th 2023.  
 Dr. Jared Rubin is Professor of Economics and Co-Director of the Institute for the Study of Religion, Economics, and Society at Chapman University. Dr. Rubin is an economic historian interested in the political and religious economies of the Middle East and Western Europe. His research focuses on historical relationships between political and religious institutions and their role in economic development. He is the author, together with Mark Koyama, of How the World Became Rich: The Historical Origins of Economic Growth.
 
@@ -50,5 +44,3 @@ Faculty page: https://bit.ly/3W8eteJ
 Website: https://bit.ly/3Wb3XTV  
 ResearchGate profile: https://bit.ly/3vy1Gpv  
 How the World Became Rich: https://bit.ly/3Q3bUry
-</div>
-

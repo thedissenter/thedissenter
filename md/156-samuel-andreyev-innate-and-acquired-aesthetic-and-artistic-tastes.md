@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2465635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379928-44100-2-8631d269d27a1.m4a
-draft: false
-excerpt: 'Samuel Andreyev is a Canadian music composer and writer residing in France.
-  He also has a YouTube channel with his name.  '
-id: '156'
-image: https://i.ytimg.com/vi/2-9DZ7MFddw/maxresdefault.jpg
-publishDate: 2019-03-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/156-Samuel-Andreyev-Innate-and-Acquired-Aesthetic-and-Artistic-Tastes-e39od3
-tags:
-- Philosophy
-title: '#156 Samuel Andreyev: Innate and Acquired Aesthetic and Artistic Tastes'
-youtubeid: 2-9DZ7MFddw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2465635/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10379928-44100-2-8631d269d27a1.m4a",
+	"draft": false,
+	"episodeid": "156",
+	"excerpt": "Samuel Andreyev is a Canadian music composer and writer residing in France. He also has a YouTube channel with his name.  ",
+	"image": "https://i.ytimg.com/vi/2-9DZ7MFddw/maxresdefault.jpg",
+	"publishDate": 2019-03-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/156-Samuel-Andreyev-Innate-and-Acquired-Aesthetic-and-Artistic-Tastes-e39od3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#156 Samuel Andreyev: Innate and Acquired Aesthetic and Artistic Tastes",
+	"youtubeid": "2-9DZ7MFddw"
+}
 ---
-<div class="timelinks">
-
 Samuel Andreyev is a Canadian music composer and writer residing in France. He also has a YouTube channel with his name.  
 This is my third interview with him, so please go check out the first two.  
 First interview, “Music Across Times and Cultures”: https://youtu.be/9UENs9ia6Zo  
@@ -38,5 +38,3 @@ His personal website: http://www.samuelandreyev.com/
 His Youtube channel: https://www.youtube.com/channel/UCI_dcH8Zr2UqNT1EqvMNgTg  
 Twitter handle: @SamuelAndreyev  
 Support Samuel’s work on Patreon: https://www.patreon.com/samuelandreyev
-</div>
-

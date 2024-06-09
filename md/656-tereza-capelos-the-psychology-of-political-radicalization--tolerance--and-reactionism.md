@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51555700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-5%2Fa01d4e3a-a33e-3c4d-6b31-3000fd4c16b7.m4a
-draft: false
-excerpt: Dr. Tereza Capelos is Associate Professor in Political Psychology at the
-  University of Birmingham, Director of the Institute for Conflict Cooperation and
-  Security, Director for the MSc in Political Psychology of International Relations,
-  and President of the International Society of Political Psychology (ISPP). Her research
-  focuses on the affective, cognitive and motivational determinants of political judgments.
-  She is particularly interested in the role of emotions and values on political radicalization
-  and tolerance, the formation and updating of institutional and individual reputations
-  and the role of trust and confidence on political accountability attributions.
-id: '656'
-image: https://i.ytimg.com/vi/3ueynyGX-ic/maxresdefault.jpg
-publishDate: 2022-07-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/656-Tereza-Capelos-The-Psychology-of-Political-Radicalization--Tolerance--and-Reactionism-e1i3rtk
-tags:
-- Politics
-- Psychology
-title: '#656 Tereza Capelos: The Psychology of Political Radicalization, Tolerance,
-  and Reactionism'
-youtubeid: 3ueynyGX-ic
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51555700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-5%2Fa01d4e3a-a33e-3c4d-6b31-3000fd4c16b7.m4a",
+	"draft": false,
+	"episodeid": "656",
+	"excerpt": "Dr. Tereza Capelos is Associate Professor in Political Psychology at the University of Birmingham, Director of the Institute for Conflict Cooperation and Security, Director for the MSc in Political Psychology of International Relations, and President of the International Society of Political Psychology (ISPP). Her research focuses on the affective, cognitive and motivational determinants of political judgments. She is particularly interested in the role of emotions and values on political radicalization and tolerance, the formation and updating of institutional and individual reputations and the role of trust and confidence on political accountability attributions.",
+	"image": "https://i.ytimg.com/vi/3ueynyGX-ic/maxresdefault.jpg",
+	"publishDate": 2022-07-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/656-Tereza-Capelos-The-Psychology-of-Political-Radicalization--Tolerance--and-Reactionism-e1i3rtk",
+	"tags": [
+		"Politics",
+		"Psychology"
+	],
+	"title": "#656 Tereza Capelos: The Psychology of Political Radicalization, Tolerance, and Reactionism",
+	"youtubeid": "3ueynyGX-ic"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 4th 2022.  
 Dr. Tereza Capelos is Associate Professor in Political Psychology at the University of Birmingham, Director of the Institute for Conflict Cooperation and Security, Director for the MSc in Political Psychology of International Relations, and President of the International Society of Political Psychology (ISPP). Her research focuses on the affective, cognitive and motivational determinants of political judgments. She is particularly interested in the role of emotions and values on political radicalization and tolerance, the formation and updating of institutional and individual reputations and the role of trust and confidence on political accountability attributions.
 
@@ -47,5 +40,3 @@ Follow Dr. Capelos’ work:
 Faculty page: https://bit.ly/3IMFaxU  
 ResearchGate profile: https://bit.ly/3obHVAT  
 International Society of Political Psychology (ISPP): https://ispp.org/
-</div>
-

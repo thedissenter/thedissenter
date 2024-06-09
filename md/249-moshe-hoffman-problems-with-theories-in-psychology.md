@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4339101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595481-44100-2-f3b8e5f41e311.m4a
-draft: false
-excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
-  Harvard's Department of Economics. He applies game theory, models of learning and
-  evolution, and experimental methods, to try to decipher the (often subconscious
-  and subtle) incentives that shape our social behavior, preferences, and ideologies.
-  Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth
-  School of Business and his B.S. in Economics from the University of Chicago. He
-  also co-designed and teaches "Game Theory and Social Behavior" which lays out a
-  lot of the evidence and models behind this approach.
-id: '249'
-image: https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg
-publishDate: 2019-10-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/249-Moshe-Hoffman-Problems-With-Theories-In-Psychology-e52tut
-tags:
-- Game Theory
-- Psychology
-title: '#249 Moshe Hoffman: Problems With Theories In Psychology'
-youtubeid: m9Uc0e130hA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4339101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595481-44100-2-f3b8e5f41e311.m4a",
+	"draft": false,
+	"episodeid": "249",
+	"excerpt": "Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at Harvard's Department of Economics. He applies game theory, models of learning and evolution, and experimental methods, to try to decipher the (often subconscious and subtle) incentives that shape our social behavior, preferences, and ideologies. Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth School of Business and his B.S. in Economics from the University of Chicago. He also co-designed and teaches \"Game Theory and Social Behavior\" which lays out a lot of the evidence and models behind this approach.",
+	"image": "https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg",
+	"publishDate": 2019-10-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/249-Moshe-Hoffman-Problems-With-Theories-In-Psychology-e52tut",
+	"tags": [
+		"Game Theory",
+		"Psychology"
+	],
+	"title": "#249 Moshe Hoffman: Problems With Theories In Psychology",
+	"youtubeid": "m9Uc0e130hA"
+}
 ---
-<div class="timelinks">
-
 Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at Harvard's Department of Economics. He applies game theory, models of learning and evolution, and experimental methods, to try to decipher the (often subconscious and subtle) incentives that shape our social behavior, preferences, and ideologies. Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth School of Business and his B.S. in Economics from the University of Chicago. He also co-designed and teaches "Game Theory and Social Behavior" which lays out a lot of the evidence and models behind this approach.
 
 In this episode, we talk about problems in how people come up with explanations to social phenomena in the social sciences, and more specifically, in social psychology. We discuss the levels of analysis through which we can study social phenomena, and why intuitive explanations don’t work. We also refer to perverse incentives in the social sciences. Dr. Hoffman then talks about the example of cognitive dissonance, and the correct interpretation of the phenomenon. In the latter part of the interview, we discuss the aspects of (social) behavior that evolutionary psychology explains well, and where it fails or is not enough.
@@ -55,5 +49,3 @@ The Twitter threads:
 “Why do I think our preferences and ideologies respond to incentives?”: http://bit.ly/31O3h9R  
 “A thread clarifying my criticism of Evolutionary Psychology”: http://bit.ly/31H8xfA  
 “Why do people have ridiculous beliefs?”: http://bit.ly/30mhb2M
-</div>
-

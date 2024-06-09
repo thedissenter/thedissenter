@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/59601928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-26%2F2a64fcf6-2303-412b-3a50-70a5fe03a82f.m4a
-draft: false
-excerpt: "Dr. Matthew Cobb is a Professor in the School of Biological Sciences at\
-  \ the University of Manchester, where his research focuses on the sense of smell,\
-  \ insect behavior and the history of science. He is also a historian of the French\
-  \ Resistance. He\u2019s the author of several books, including As Gods: A Moral\
-  \ History of the Genetic Age."
-id: '704'
-image: https://i.ytimg.com/vi/X-uPvfKWZCM/maxresdefault.jpg
-publishDate: 2022-11-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/704-Matthew-Cobb---As-Gods-A-Moral-History-of-the-Genetic-Age-e1ppdi8
-tags:
-- Biology
-- General Science
-title: '#704 Matthew Cobb - As Gods: A Moral History of the Genetic Age'
-youtubeid: X-uPvfKWZCM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/59601928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-26%2F2a64fcf6-2303-412b-3a50-70a5fe03a82f.m4a",
+	"draft": false,
+	"episodeid": "704",
+	"excerpt": "Dr. Matthew Cobb is a Professor in the School of Biological Sciences at the University of Manchester, where his research focuses on the sense of smell, insect behavior and the history of science. He is also a historian of the French Resistance. He’s the author of several books, including As Gods: A Moral History of the Genetic Age.",
+	"image": "https://i.ytimg.com/vi/X-uPvfKWZCM/maxresdefault.jpg",
+	"publishDate": 2022-11-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/704-Matthew-Cobb---As-Gods-A-Moral-History-of-the-Genetic-Age-e1ppdi8",
+	"tags": [
+		"Biology",
+		"General Science"
+	],
+	"title": "#704 Matthew Cobb - As Gods: A Moral History of the Genetic Age",
+	"youtubeid": "X-uPvfKWZCM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 26th 2022.  
 Dr. Matthew Cobb is a Professor in the School of Biological Sciences at the University of Manchester, where his research focuses on the sense of smell, insect behavior and the history of science. He is also a historian of the French Resistance. He’s the author of several books, including As Gods: A Moral History of the Genetic Age.
 
@@ -44,5 +41,3 @@ ResearchGate profile: https://bit.ly/33qDbMS
 As Gods: https://amzn.to/3N3rGBg  
 Genetic Dreams, Genetic Nightmares (BBC): https://bbc.in/3gIA799  
 Twitter handle: @matthewcobb
-</div>
-

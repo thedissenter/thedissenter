@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778072-44100-2-34b4c1c0f309e.m4a
-draft: false
-excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and Anthropology\
-  \ at Binghamton University. He applies evolutionary theory to all aspects of humanity\
-  \ in addition to the rest of life, both in his own research and as director of the\
-  \ Evolution Institute, a unique campus-wide evolutionary studies program that recently\
-  \ received NSF funding to expand into a nationwide consortium. His books include\
-  \ Darwin\u2019s Cathedral: Evolution, Religion, and the Nature of Society; Evolution\
-  \ for Everyone: How Darwin\u2019s Theory Can Change the Way We Think About Our Lives;\
-  \ The Neighborhood Project: Using Evolution to Improve My City, One Block at a Time\
-  \ and Does Altruism Exist? Culture, Genes, and the Welfare of Others; and a recently\
-  \ edited book, Evolution and Contextual Behavioral Science."
-id: '123'
-image: https://i.ytimg.com/vi/I3YQVV02MwI/maxresdefault.jpg
-publishDate: 2019-01-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/123-David-Sloan-Wilson-Evolution--Contextual-Behavioral-Science--Religion--and-Group-Selection-e2s21c
-tags:
-- Psychology
-title: '#123 David Sloan Wilson: Evolution, Contextual Behavioral Science, Religion,
-  and Group Selection'
-youtubeid: I3YQVV02MwI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778072-44100-2-34b4c1c0f309e.m4a",
+	"draft": false,
+	"episodeid": "123",
+	"excerpt": "Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and Anthropology at Binghamton University. He applies evolutionary theory to all aspects of humanity in addition to the rest of life, both in his own research and as director of the Evolution Institute, a unique campus-wide evolutionary studies program that recently received NSF funding to expand into a nationwide consortium. His books include Darwin’s Cathedral: Evolution, Religion, and the Nature of Society; Evolution for Everyone: How Darwin’s Theory Can Change the Way We Think About Our Lives; The Neighborhood Project: Using Evolution to Improve My City, One Block at a Time and Does Altruism Exist? Culture, Genes, and the Welfare of Others; and a recently edited book, Evolution and Contextual Behavioral Science.",
+	"image": "https://i.ytimg.com/vi/I3YQVV02MwI/maxresdefault.jpg",
+	"publishDate": 2019-01-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/123-David-Sloan-Wilson-Evolution--Contextual-Behavioral-Science--Religion--and-Group-Selection-e2s21c",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#123 David Sloan Wilson: Evolution, Contextual Behavioral Science, Religion, and Group Selection",
+	"youtubeid": "I3YQVV02MwI"
+}
 ---
-<div class="timelinks">
-
 Dr. David Sloan Wilson is SUNY Distinguished Professor of Biology and Anthropology at Binghamton University. He applies evolutionary theory to all aspects of humanity in addition to the rest of life, both in his own research and as director of the Evolution Institute, a unique campus-wide evolutionary studies program that recently received NSF funding to expand into a nationwide consortium. His books include Darwin’s Cathedral: Evolution, Religion, and the Nature of Society; Evolution for Everyone: How Darwin’s Theory Can Change the Way We Think About Our Lives; The Neighborhood Project: Using Evolution to Improve My City, One Block at a Time and Does Altruism Exist? Culture, Genes, and the Welfare of Others; and a recently edited book, Evolution and Contextual Behavioral Science.
 
 In this episode, our conversation we focused initially on Evolutionary and Contextual Behavioral Science, the recently published book edited by Dr. David Sloan Wilson and Dr. Steven C. Hayes. We discuss what evolutionary theory brings to the table, and its shortcomings in dealing with behavior (human and non-human), and the contributions of Skinner, behaviorism and contextual science that have been mostly ignored by mainstream Psychology. We then talk about the extended evolutionary synthesis, and how Lamarckism might still have a saying in how evolution by natural selection works. Finally, we briefly talk about religion as a human construct, and what the New Atheists get wrong about it; and about group selection included in a multilevel selection process.
@@ -58,5 +49,3 @@ Adaptive genetic variation and human evolutionary psychology: https://tinyurl.co
 Extended Evolutionary Synthesis: https://tinyurl.com/kx42lvh  
 Atheism as a Stealth Religion: https://tinyurl.com/y8f3glt5  
 Interview w/ Elliott Sober on group selection: https://tinyurl.com/y6uo9tm9
-</div>
-

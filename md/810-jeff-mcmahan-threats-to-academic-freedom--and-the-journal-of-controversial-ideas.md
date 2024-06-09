@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72975587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-4%2F9585fd7a-95f7-38d2-27b1-fafb7c34c0c1.m4a
-draft: false
-excerpt: "Dr. Jeff McMahan is Sekyra and White\u2019s Professor of Moral Philosophy\
-  \ at the University of Oxford. He specializes in Practical Ethics, Political Philosophy,\
-  \ and Ethics. He is editor of the Journal of Controversial Ideas. He\u2019s the\
-  \ author of books like The Morality of Nationalism, The Ethics of Killing: Problems\
-  \ at the Margins of Life, and Killing in War."
-id: '810'
-image: https://i.ytimg.com/vi/Z4crCag-4Q0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/810-jeff-mcmahan-threats-to-academic-freedom-and/id1451347236?i=1000621801646&uo=4
-publishDate: 2023-07-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/810-Jeff-McMahan-Threats-to-Academic-Freedom--and-the-Journal-of-Controversial-Ideas-e26hhp3
-tags:
-- Philosophy
-title: '#810 Jeff McMahan: Threats to Academic Freedom, and the Journal of Controversial
-  Ideas'
-youtubeid: Z4crCag-4Q0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72975587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-4%2F9585fd7a-95f7-38d2-27b1-fafb7c34c0c1.m4a",
+	"draft": false,
+	"episodeid": "810",
+	"excerpt": "Dr. Jeff McMahan is Sekyra and White’s Professor of Moral Philosophy at the University of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics. He is editor of the Journal of Controversial Ideas. He’s the author of books like The Morality of Nationalism, The Ethics of Killing: Problems at the Margins of Life, and Killing in War.",
+	"image": "https://i.ytimg.com/vi/Z4crCag-4Q0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/810-jeff-mcmahan-threats-to-academic-freedom-and/id1451347236?i=1000621801646&uo=4",
+	"publishDate": 2023-07-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/810-Jeff-McMahan-Threats-to-Academic-Freedom--and-the-Journal-of-Controversial-Ideas-e26hhp3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#810 Jeff McMahan: Threats to Academic Freedom, and the Journal of Controversial Ideas",
+	"youtubeid": "Z4crCag-4Q0"
+}
 ---
-<div class="timelinks">
-
 Dr. Jeff McMahan is Sekyra and White’s Professor of Moral Philosophy at the University of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics. He is editor of the Journal of Controversial Ideas. He’s the author of books like The Morality of Nationalism, The Ethics of Killing: Problems at the Margins of Life, and Killing in War.
 
 This is our third interview. You can watch the first one here: https://youtu.be/cNYQVJoF7JM  
@@ -50,5 +46,3 @@ Faculty Page: http://bit.ly/367MzFG
 PhilPeople page: http://bit.ly/2GjzJbE  
 Personal website: http://bit.ly/36atClp  
 Amazon page: https://amzn.to/2MNC1Ud
-</div>
-

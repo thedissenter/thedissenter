@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4000318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666278-44100-2-b767baacff95c.m4a
-draft: false
-excerpt: "Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at the\
-  \ Human Behaviour and Cultural Evolution Group at the University of Exeter\u2019\
-  s Cornwall Campus, UK. He studies cultural evolution, both in the lab and by constructing\
-  \ models and simulations of it. He\u2019s also the author of the book Cultural Evolution:\
-  \ How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences."
-id: '228'
-image: https://i.ytimg.com/vi/YhxskkTGuss/maxresdefault.jpg
-publishDate: 2019-09-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/228-Alex-Mesoudi-Studying-Cultural-Evolution--Migration-And-Transmission-e4oj3u
-tags:
-- Anthropology
-title: '#228 Alex Mesoudi: Studying Cultural Evolution, Migration, And Transmission'
-youtubeid: YhxskkTGuss
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4000318/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-27%2F19666278-44100-2-b767baacff95c.m4a",
+	"draft": false,
+	"episodeid": "228",
+	"excerpt": "Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at the Human Behaviour and Cultural Evolution Group at the University of Exeter’s Cornwall Campus, UK. He studies cultural evolution, both in the lab and by constructing models and simulations of it. He’s also the author of the book Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences.",
+	"image": "https://i.ytimg.com/vi/YhxskkTGuss/maxresdefault.jpg",
+	"publishDate": 2019-09-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/228-Alex-Mesoudi-Studying-Cultural-Evolution--Migration-And-Transmission-e4oj3u",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#228 Alex Mesoudi: Studying Cultural Evolution, Migration, And Transmission",
+	"youtubeid": "YhxskkTGuss"
+}
 ---
-<div class="timelinks">
-
 Dr. Alex Mesoudi is an Associate Professor of Cultural Evolution at the Human Behaviour and Cultural Evolution Group at the University of Exeter’s Cornwall Campus, UK. He studies cultural evolution, both in the lab and by constructing models and simulations of it. He’s also the author of the book Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences.
 
 In this episode, we talk about some of the theoretical foundations of cultural evolution. We first discuss the relationship between culture and biology, and how we can get differences between groups. We refer to cultural group selection. Also, to issues regarding traditional social science. We talk about integrating lab studies and ethnographic studies. We then get into the differences and similarities between cultural evolution and modern synthesis genetic evolution. Finally, we talk about Galton’s problem and how to be sure that the cultures we are studying are independent, and also about migration and cultural transmission.
@@ -43,5 +40,3 @@ ResearchGate profile: http://bit.ly/2M4z7e4
 Twitter handle: @amesoudi  
 Books on Amazon: https://amzn.to/2Z5cqtV  
 Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences: https://amzn.to/32FxoS9
-</div>
-

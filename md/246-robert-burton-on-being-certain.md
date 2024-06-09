@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4338902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594679-44100-2-1d95a0b1b0864.m4a
-draft: false
-excerpt: 'Dr. Robert A. Burton graduated from Yale University and the University of
-  California at San Francisco medical school, where he also completed his neurology
-  residency. At age thirty-three, he was appointed chief of the Division of Neurology
-  at UCSF Medical Center at Mt. Zion, where he subsequently became Associate Chief
-  of the Department of Neurosciences. His books include On Being Certain: Believing
-  You Are Right Even When You''re Not, A Skeptic''s Guide to the Mind; What Neuroscience
-  Can and Cannot Tell Us About Ourselves, and three critically acclaimed novels. He
-  has also written essays, book reviews and op-ed pieces for the New York Times, Salon.com,
-  Aeon, and Nautilus.'
-id: '246'
-image: https://i.ytimg.com/vi/xrd1Q55U7Ls/maxresdefault.jpg
-publishDate: 2019-10-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/246-Robert-Burton-On-Being-Certain-e52tom
-tags:
-- Cognitive Science
-- Psychology
-title: '#246 Robert Burton: On Being Certain'
-youtubeid: xrd1Q55U7Ls
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4338902/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594679-44100-2-1d95a0b1b0864.m4a",
+	"draft": false,
+	"episodeid": "246",
+	"excerpt": "Dr. Robert A. Burton graduated from Yale University and the University of California at San Francisco medical school, where he also completed his neurology residency. At age thirty-three, he was appointed chief of the Division of Neurology at UCSF Medical Center at Mt. Zion, where he subsequently became Associate Chief of the Department of Neurosciences. His books include On Being Certain: Believing You Are Right Even When You're Not, A Skeptic's Guide to the Mind; What Neuroscience Can and Cannot Tell Us About Ourselves, and three critically acclaimed novels. He has also written essays, book reviews and op-ed pieces for the New York Times, Salon.com, Aeon, and Nautilus.",
+	"image": "https://i.ytimg.com/vi/xrd1Q55U7Ls/maxresdefault.jpg",
+	"publishDate": 2019-10-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/246-Robert-Burton-On-Being-Certain-e52tom",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#246 Robert Burton: On Being Certain",
+	"youtubeid": "xrd1Q55U7Ls"
+}
 ---
-<div class="timelinks">
-
 Dr. Robert A. Burton graduated from Yale University and the University of California at San Francisco medical school, where he also completed his neurology residency. At age thirty-three, he was appointed chief of the Division of Neurology at UCSF Medical Center at Mt. Zion, where he subsequently became Associate Chief of the Department of Neurosciences. His books include On Being Certain: Believing You Are Right Even When You're Not, A Skeptic's Guide to the Mind; What Neuroscience Can and Cannot Tell Us About Ourselves, and three critically acclaimed novels. He has also written essays, book reviews and op-ed pieces for the New York Times, Salon.com, Aeon, and Nautilus.
 
 In this episode, we focus on some of the main topics of Dr. Burton’s books. We talk about the feelings of knowing, certainty, familiarity, clarity of thought, and déjà vu that we have. We also refer to phenomena like moral dumbfounding and post-hoc rationalization. We discuss the problem with our view of how reason and rationality work, and how we are mistaken about how our own thinking works. We also talk about how different people see the world in different ways, our individual differences, and how religiosity is not going away anytime soon. We refer to the placebo effect, and also to how scientists have to be careful about how their own intuitions might affect how they study the human mind. We end up by discussing a possible way to improve the way we think, through a process of cultural evolution.
@@ -48,5 +41,3 @@ Articles on Aeon: http://bit.ly/2Z8wEqD
 Other articles: http://bit.ly/2L2F1tS  
 On Being Certain: Believing You Are Right Even When You're Not: https://amzn.to/2zguWEl  
 A Skeptic's Guide to the Mind: What Neuroscience Can and Cannot Tell Us About Ourselves: https://amzn.to/2L2F6ha
-</div>
-

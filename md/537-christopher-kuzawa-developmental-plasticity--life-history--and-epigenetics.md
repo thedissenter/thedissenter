@@ -1,31 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/36965642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fa234cc25-5d87-d480-6615-4fcd8279895b.m4a
-draft: false
-excerpt: Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow at
-  the Institute for Policy Research at Northwestern University. He uses principles
-  from anthropology and evolutionary biology to gain insights into the biological
-  and health impacts of human developmental plasticity. His primary field research
-  is conducted in Cebu, the Philippines, where he works with a large birth cohort
-  study that enrolled more than 3,000 pregnant women in 1983 and has since followed
-  their offspring into adulthood (now 30 years old). He uses the nearly 3 decades
-  of data available for each study participant, and recruitment of generation 3 (the
-  grandoffspring of the original mothers), to gain a better understanding of the long-term
-  and intergenerational impacts of early life environments on adult biology, life
-  history, reproduction, and health. A theme of much of his work is the application
-  of principles of developmental plasticity and evolutionary biology to issues of
-  health.
-id: '537'
-image: https://i.ytimg.com/vi/13EmGmej1ks/maxresdefault.jpg
-publishDate: 2021-10-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/537-Christopher-Kuzawa-Developmental-Plasticity--Life-History--and-Epigenetics-e146jqa
-tags:
-- Biology
-- Anthropology
-title: '#537 Christopher Kuzawa: Developmental Plasticity, Life History, and Epigenetics'
-youtubeid: 13EmGmej1ks
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/36965642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fa234cc25-5d87-d480-6615-4fcd8279895b.m4a",
+	"draft": false,
+	"episodeid": "537",
+	"excerpt": "Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow at the Institute for Policy Research at Northwestern University. He uses principles from anthropology and evolutionary biology to gain insights into the biological and health impacts of human developmental plasticity. His primary field research is conducted in Cebu, the Philippines, where he works with a large birth cohort study that enrolled more than 3,000 pregnant women in 1983 and has since followed their offspring into adulthood (now 30 years old). He uses the nearly 3 decades of data available for each study participant, and recruitment of generation 3 (the grandoffspring of the original mothers), to gain a better understanding of the long-term and intergenerational impacts of early life environments on adult biology, life history, reproduction, and health. A theme of much of his work is the application of principles of developmental plasticity and evolutionary biology to issues of health.",
+	"image": "https://i.ytimg.com/vi/13EmGmej1ks/maxresdefault.jpg",
+	"publishDate": 2021-10-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/537-Christopher-Kuzawa-Developmental-Plasticity--Life-History--and-Epigenetics-e146jqa",
+	"tags": [
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#537 Christopher Kuzawa: Developmental Plasticity, Life History, and Epigenetics",
+	"youtubeid": "13EmGmej1ks"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 9th 2021.  
 Dr. Christopher Kuzawa is Professor of Anthropology and Faculty Fellow at the Institute for Policy Research at Northwestern University. He uses principles from anthropology and evolutionary biology to gain insights into the biological and health impacts of human developmental plasticity. His primary field research is conducted in Cebu, the Philippines, where he works with a large birth cohort study that enrolled more than 3,000 pregnant women in 1983 and has since followed their offspring into adulthood (now 30 years old). He uses the nearly 3 decades of data available for each study participant, and recruitment of generation 3 (the grandoffspring of the original mothers), to gain a better understanding of the long-term and intergenerational impacts of early life environments on adult biology, life history, reproduction, and health. A theme of much of his work is the application of principles of developmental plasticity and evolutionary biology to issues of health.
 
@@ -45,5 +34,3 @@ Time Links:
 Follow Dr. Kuzawa’s work:  
 Faculty page: https://bit.ly/3mxZiIK  
 ResearchGate profile: https://bit.ly/2TxRTQZ
-</div>
-

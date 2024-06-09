@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8523748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-18%2F34709972-44100-2-80127162191.m4a
-draft: false
-excerpt: "Dr. Indre Viskontas is a Professor of Psychology at the University of San\
-  \ Francisco, and serves on the faculty at the San Francisco Conservatory of Music.\
-  \ She is also the Creative Director of Pasadena Opera. Dr. Viskontas is a neuroscientist\
-  \ and operatic soprano. She holds a Ph.D. in cognitive neuroscience and a M.M. in\
-  \ opera. She\u2019s the author of How Music Can Make You Better."
-id: '262'
-image: https://i.ytimg.com/vi/d2UfQK2oHtM/maxresdefault.jpg
-publishDate: 2019-11-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/262-Indre-Viskontas-The-Psychology-of-Music-e92kh4
-tags:
-- Neuroscience
-- Psychology
-title: '#262 Indre Viskontas: The Psychology of Music'
-youtubeid: d2UfQK2oHtM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8523748/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-18%2F34709972-44100-2-80127162191.m4a",
+	"draft": false,
+	"episodeid": "262",
+	"excerpt": "Dr. Indre Viskontas is a Professor of Psychology at the University of San Francisco, and serves on the faculty at the San Francisco Conservatory of Music. She is also the Creative Director of Pasadena Opera. Dr. Viskontas is a neuroscientist and operatic soprano. She holds a Ph.D. in cognitive neuroscience and a M.M. in opera. She’s the author of How Music Can Make You Better.",
+	"image": "https://i.ytimg.com/vi/d2UfQK2oHtM/maxresdefault.jpg",
+	"publishDate": 2019-11-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/262-Indre-Viskontas-The-Psychology-of-Music-e92kh4",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#262 Indre Viskontas: The Psychology of Music",
+	"youtubeid": "d2UfQK2oHtM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 18th, 2019.  
 Dr. Indre Viskontas is a Professor of Psychology at the University of San Francisco, and serves on the faculty at the San Francisco Conservatory of Music. She is also the Creative Director of Pasadena Opera. Dr. Viskontas is a neuroscientist and operatic soprano. She holds a Ph.D. in cognitive neuroscience and a M.M. in opera. She’s the author of How Music Can Make You Better.
 
@@ -46,5 +43,3 @@ Inquiring Minds podcast: http://bit.ly/2KBGrMK
 Cadence podcast: http://bit.ly/2qpw3Rg  
 How Music Can Make You Better: https://amzn.to/2r8hSQl  
 Twitter handle: @indrevis
-</div>
-

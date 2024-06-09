@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12067663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62149378-44100-2-9028e79e266fe.m4a
-draft: false
-excerpt: "Dr. Iris Berent is Professor of Psychology at Northeastern University, US.\
-  \ Her research examines the nature of linguistic competence, its origins, and its\
-  \ interaction with reading ability. She\u2019s the author of the book The Phonological\
-  \ Mind. She is also the author of a new book, The Blind Storyteller: How We Reason\
-  \ About Human Nature. "
-id: '328'
-image: https://i.ytimg.com/vi/N-E6ifTX3YA/maxresdefault.jpg
-publishDate: 2020-05-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/328-Iris-Berent---The-Blind-Storyteller-How-We-Reason-About-Human-Nature-ecepcf
-tags:
-- Cognitive Science
-- Psychology
-title: '#328 Iris Berent - The Blind Storyteller: How We Reason About Human Nature'
-youtubeid: N-E6ifTX3YA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12067663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-6%2F62149378-44100-2-9028e79e266fe.m4a",
+	"draft": false,
+	"episodeid": "328",
+	"excerpt": "Dr. Iris Berent is Professor of Psychology at Northeastern University, US. Her research examines the nature of linguistic competence, its origins, and its interaction with reading ability. She’s the author of the book The Phonological Mind. She is also the author of a new book, The Blind Storyteller: How We Reason About Human Nature. ",
+	"image": "https://i.ytimg.com/vi/N-E6ifTX3YA/maxresdefault.jpg",
+	"publishDate": 2020-05-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/328-Iris-Berent---The-Blind-Storyteller-How-We-Reason-About-Human-Nature-ecepcf",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#328 Iris Berent - The Blind Storyteller: How We Reason About Human Nature",
+	"youtubeid": "N-E6ifTX3YA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 2nd, 2020.  
 Dr. Iris Berent is Professor of Psychology at Northeastern University, US. Her research examines the nature of linguistic competence, its origins, and its interaction with reading ability. She’s the author of the book The Phonological Mind. She is also the author of a new book, The Blind Storyteller: How We Reason About Human Nature. 
 
@@ -44,5 +41,3 @@ Faculty page: https://bit.ly/34bdSOD
 Phonology and Reading Laboratory: https://bit.ly/3ayWpC6  
 Amazon page: https://amzn.to/2UZRvHG  
 The Blind Storyteller: https://amzn.to/2JAcdZy
-</div>
-

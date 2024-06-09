@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/46819363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2F6c64fdb6-a4d0-bdfb-aef9-5f2ba6b1e58f.m4a
-draft: false
-excerpt: 'Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History
-  of Science at Boston University. He is interested in comparative methodology across
-  the natural and social sciences. He is the author of books like Post-Truth, and
-  The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience.
-  His new book is How to Talk to a Science Denier: Conversations with Flat Earthers,
-  Climate Deniers, and Others Who Defy Reason.'
-id: '618'
-image: https://i.ytimg.com/vi/paQWuuFKAS0/maxresdefault.jpg
-publishDate: 2022-04-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/618-Lee-McIntyre---How-to-Talk-to-a-Science-Denier-e1djaj3
-tags:
-- General Science
-- Philosophy
-title: '#618 Lee McIntyre - How to Talk to a Science Denier'
-youtubeid: paQWuuFKAS0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/46819363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-28%2F6c64fdb6-a4d0-bdfb-aef9-5f2ba6b1e58f.m4a",
+	"draft": false,
+	"episodeid": "618",
+	"excerpt": "Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History of Science at Boston University. He is interested in comparative methodology across the natural and social sciences. He is the author of books like Post-Truth, and The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience. His new book is How to Talk to a Science Denier: Conversations with Flat Earthers, Climate Deniers, and Others Who Defy Reason.",
+	"image": "https://i.ytimg.com/vi/paQWuuFKAS0/maxresdefault.jpg",
+	"publishDate": 2022-04-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/618-Lee-McIntyre---How-to-Talk-to-a-Science-Denier-e1djaj3",
+	"tags": [
+		"General Science",
+		"Philosophy"
+	],
+	"title": "#618 Lee McIntyre - How to Talk to a Science Denier",
+	"youtubeid": "paQWuuFKAS0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 28th 2022.  
 Dr. Lee McIntyre is a Research Fellow at the Center for Philosophy and History of Science at Boston University. He is interested in comparative methodology across the natural and social sciences. He is the author of books like Post-Truth, and The Scientific Attitude: Defending Science from Denial, Fraud, and Pseudoscience. His new book is How to Talk to a Science Denier: Conversations with Flat Earthers, Climate Deniers, and Others Who Defy Reason.
 
@@ -47,5 +43,3 @@ Website: https://bit.ly/3KTXRkW
 ResearchGate profile: https://bit.ly/37t4dWs  
 Amazon page: http://amzn.to/37rXQmp  
 How to Talk to a Science Denier: https://amzn.to/3npErul
-</div>
-

@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3721124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877850-44100-2-1326a1dbcb49.m4a
-draft: false
-excerpt: 'Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences at
-  Indiana University. His research focuses on developing animal models of cognition.
-  His current work focuses on episodic memory, source memory, and prospective memory
-  in rats. He has also developed rodent models to assess retrieval practice, working
-  memory, and metacognition. He is currently the Editor of Learning & Behavior, and
-  he recently served as President of the Comparative Cognition Society. '
-id: '214'
-image: https://i.ytimg.com/vi/KXNWeJ5Z1hY/maxresdefault.jpg
-publishDate: 2019-08-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/214-Jonathon-Crystal-Memory-and-Metacognition-in-Animal-Models-e4g2f4
-tags:
-- Cognitive Science
-- Psychology
-title: '#214 Jonathon Crystal: Memory and Metacognition in Animal Models'
-youtubeid: KXNWeJ5Z1hY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3721124/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877850-44100-2-1326a1dbcb49.m4a",
+	"draft": false,
+	"episodeid": "214",
+	"excerpt": "Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences at Indiana University. His research focuses on developing animal models of cognition. His current work focuses on episodic memory, source memory, and prospective memory in rats. He has also developed rodent models to assess retrieval practice, working memory, and metacognition. He is currently the Editor of Learning & Behavior, and he recently served as President of the Comparative Cognition Society. ",
+	"image": "https://i.ytimg.com/vi/KXNWeJ5Z1hY/maxresdefault.jpg",
+	"publishDate": 2019-08-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/214-Jonathon-Crystal-Memory-and-Metacognition-in-Animal-Models-e4g2f4",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#214 Jonathon Crystal: Memory and Metacognition in Animal Models",
+	"youtubeid": "KXNWeJ5Z1hY"
+}
 ---
-<div class="timelinks">
-
 Dr. Jonathon Crystal is Professor of Psychological and Brain Sciences at Indiana University. His research focuses on developing animal models of cognition. His current work focuses on episodic memory, source memory, and prospective memory in rats. He has also developed rodent models to assess retrieval practice, working memory, and metacognition. He is currently the Editor of Learning & Behavior, and he recently served as President of the Comparative Cognition Society. 
 
 In this episode, we talk about studying memory in nonhuman animals, primarily in rats. First, we talk about ways of classifying different types of memory. We then get into how Dr. Crystal designs experiments to study different types of memory and know if they even exist in other animals, including episodic memory and prospective memory. Toward the end, we also refer to metacognition.
@@ -45,5 +41,3 @@ Animal Models of Episodic Memory: https://bit.ly/2RIIHEl
 Episodic-like Memory in the Rat: https://bit.ly/2ZK1ZM5  
 Prospective memory in the rat: https://bit.ly/2X1JSjd  
 Metacognition in animals: https://bit.ly/31TqxnN
-</div>
-

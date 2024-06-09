@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3780595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281475-44100-2-7896ec68439a7.m4a
-draft: false
-excerpt: "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution\
-  \ and Social Change at Arizona State University. His background is in the evolution\
-  \ of animal social behavior and cognition. He graduated from Cambridge with a bachelor's\
-  \ in zoology in 2009, focusing on vertebrate evolution and behavioral ecology. He\
-  \ completed his doctorate in 2013 at the University of St. Andrews working with\
-  \ Kevin Laland to carry out a series of experiments testing evolutionary hypotheses\
-  \ about human social learning. From 2014 to 2016, he worked as a postdoctoral fellow\
-  \ with Tom Griffiths in the computational cognitive science lab at University of\
-  \ California at Berkeley where he developed a new platform for large-scale online\
-  \ social experiments called Dallinger. He joined the Adaptation, Behavior, Culture\
-  \ and Society group at Arizona State Unviersity in August 2016. He\u2019s interested\
-  \ in the psychological mechanisms that support culture and evolutionary explanations\
-  \ for how humans came to be. "
-id: '216'
-image: https://i.ytimg.com/vi/PquVDMPAbmo/maxresdefault.jpg
-publishDate: 2019-08-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/216-Thomas-Morgan-Cultural-Evolution-And-Transmission--And-Cumulative-Culture-e4hshj
-tags:
-- Anthropology
-title: '#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture'
-youtubeid: PquVDMPAbmo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3780595/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-6%2F18281475-44100-2-7896ec68439a7.m4a",
+	"draft": false,
+	"episodeid": "216",
+	"excerpt": "Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution and Social Change at Arizona State University. His background is in the evolution of animal social behavior and cognition. He graduated from Cambridge with a bachelor's in zoology in 2009, focusing on vertebrate evolution and behavioral ecology. He completed his doctorate in 2013 at the University of St. Andrews working with Kevin Laland to carry out a series of experiments testing evolutionary hypotheses about human social learning. From 2014 to 2016, he worked as a postdoctoral fellow with Tom Griffiths in the computational cognitive science lab at University of California at Berkeley where he developed a new platform for large-scale online social experiments called Dallinger. He joined the Adaptation, Behavior, Culture and Society group at Arizona State Unviersity in August 2016. He’s interested in the psychological mechanisms that support culture and evolutionary explanations for how humans came to be. ",
+	"image": "https://i.ytimg.com/vi/PquVDMPAbmo/maxresdefault.jpg",
+	"publishDate": 2019-08-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/216-Thomas-Morgan-Cultural-Evolution-And-Transmission--And-Cumulative-Culture-e4hshj",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#216 Thomas Morgan: Cultural Evolution And Transmission, And Cumulative Culture",
+	"youtubeid": "PquVDMPAbmo"
+}
 ---
-<div class="timelinks">
-
 Dr. Thomas Morgan is Assistant Professor in the School of Human Evolution and Social Change at Arizona State University. His background is in the evolution of animal social behavior and cognition. He graduated from Cambridge with a bachelor's in zoology in 2009, focusing on vertebrate evolution and behavioral ecology. He completed his doctorate in 2013 at the University of St. Andrews working with Kevin Laland to carry out a series of experiments testing evolutionary hypotheses about human social learning. From 2014 to 2016, he worked as a postdoctoral fellow with Tom Griffiths in the computational cognitive science lab at University of California at Berkeley where he developed a new platform for large-scale online social experiments called Dallinger. He joined the Adaptation, Behavior, Culture and Society group at Arizona State Unviersity in August 2016. He’s interested in the psychological mechanisms that support culture and evolutionary explanations for how humans came to be. 
 
 In this episode, we talk about cultural evolution. First, we discuss how we study the cognitive mechanisms that provide a biological basis for culture, and the relationship between biology and culture. We then get into Dr. Morgan’s work on conformist transmission, and sex differences in conformity and where they stem from. We also talk about the chicken-and-egg problem of culture, and issues with sociocultural constructionist approaches, and cross-cultural variation. Finally, we discuss what we can learn by studying other species, and about how peculiar is cumulative culture in the animal realm. 
@@ -53,5 +42,3 @@ Sex differences in confidence influence patterns of conformity: https://bit.ly/2
 The Biological Bases of Conformity: https://bit.ly/303khbn  
 The evolutionary basis of human social learning: https://bit.ly/2XFtoBs  
 What animals other than primates can tell us about human cultural transmission: https://bit.ly/2Xcdqe1
-</div>
-

@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10526275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-21%2F51601257-44100-2-7fe41f7378a5b.m4a
-draft: false
-excerpt: Dr. Cristine Legare is a professor of psychology and the director of the
-  Evolution, Variation, and Ontogeny of Learning Laboratory at The University of Texas
-  at Austin. Her research examines how the human mind enables us to learn, create,
-  and transmit culture. She conducts comparisons across age, culture, and species
-  to address fundamental questions about cognitive and cultural evolution.
-id: '326'
-image: https://i.ytimg.com/vi/Uq4vBag-f-M/maxresdefault.jpg
-publishDate: 2020-04-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/326-Cristine-Legare-Child-Development--Culture--And-Scientific-Reasoning-eavo43
-tags:
-- Anthropology
-- Psychology
-title: '#326 Cristine Legare: Child Development, Culture, and Scientific Reasoning'
-youtubeid: Uq4vBag-f-M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10526275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-21%2F51601257-44100-2-7fe41f7378a5b.m4a",
+	"draft": false,
+	"episodeid": "326",
+	"excerpt": "Dr. Cristine Legare is a professor of psychology and the director of the Evolution, Variation, and Ontogeny of Learning Laboratory at The University of Texas at Austin. Her research examines how the human mind enables us to learn, create, and transmit culture. She conducts comparisons across age, culture, and species to address fundamental questions about cognitive and cultural evolution.",
+	"image": "https://i.ytimg.com/vi/Uq4vBag-f-M/maxresdefault.jpg",
+	"publishDate": 2020-04-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/326-Cristine-Legare-Child-Development--Culture--And-Scientific-Reasoning-eavo43",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#326 Cristine Legare: Child Development, Culture, and Scientific Reasoning",
+	"youtubeid": "Uq4vBag-f-M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 19th, 2020.  
 Dr. Cristine Legare is a professor of psychology and the director of the Evolution, Variation, and Ontogeny of Learning Laboratory at The University of Texas at Austin. Her research examines how the human mind enables us to learn, create, and transmit culture. She conducts comparisons across age, culture, and species to address fundamental questions about cognitive and cultural evolution.
 
@@ -45,5 +42,3 @@ Faculty page: http://bit.ly/2qY2s1E
 Website: http://bit.ly/2RUtm5n  
 ResearchGate profile: http://bit.ly/35p20bG  
 Twitter handle: @CristineLegare
-</div>
-

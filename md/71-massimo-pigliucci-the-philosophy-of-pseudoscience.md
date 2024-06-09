@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681666-44100-2-c0f31af09776e.mp3
-draft: false
-excerpt: "Dr. Massimo Pigliucci is Professor of Philosophy at CUNY-City College, formerly\
-  \ co-host of the Rationally Speaking Podcast, and formerly the editor in chief for\
-  \ the online magazine Scientia Salon. He\u2019s also the author of several books,\
-  \ including Phenotypic Plasticity, Philosophy of Pseudoscience, and How to Be a\
-  \ Stoic."
-id: '71'
-image: https://i.ytimg.com/vi/a9Fl63Ca9pE/maxresdefault.jpg
-publishDate: 2018-09-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/71-Massimo-Pigliucci-The-Philosophy-of-Pseudoscience-e2rj6o
-tags:
-- Philosophy
-title: '#71 Massimo Pigliucci: The Philosophy of Pseudoscience'
-youtubeid: a9Fl63Ca9pE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681666-44100-2-c0f31af09776e.mp3",
+	"draft": false,
+	"episodeid": "71",
+	"excerpt": "Dr. Massimo Pigliucci is Professor of Philosophy at CUNY-City College, formerly co-host of the Rationally Speaking Podcast, and formerly the editor in chief for the online magazine Scientia Salon. He’s also the author of several books, including Phenotypic Plasticity, Philosophy of Pseudoscience, and How to Be a Stoic.",
+	"image": "https://i.ytimg.com/vi/a9Fl63Ca9pE/maxresdefault.jpg",
+	"publishDate": 2018-09-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/71-Massimo-Pigliucci-The-Philosophy-of-Pseudoscience-e2rj6o",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#71 Massimo Pigliucci: The Philosophy of Pseudoscience",
+	"youtubeid": "a9Fl63Ca9pE"
+}
 ---
-<div class="timelinks">
-
 Dr. Massimo Pigliucci is Professor of Philosophy at CUNY-City College, formerly co-host of the Rationally Speaking Podcast, and formerly the editor in chief for the online magazine Scientia Salon. He’s also the author of several books, including Phenotypic Plasticity, Philosophy of Pseudoscience, and How to Be a Stoic.
 
 In today’s episode, we talk about how we can demarcate pseudoscience from science. We go more specifically into certain criteria, like falsifiability, predictability, explicability, and replicability; the distinction between pseudoscience and anti-science; and we also discuss if science, in the end, is a cultural construct, though not as the postmoderns would have it.  
@@ -42,5 +39,3 @@ Faculty page: https://www.ccny.cuny.edu/profiles/massimo-pigliucci
 Facebook page: https://www.facebook.com/mpigliucci/  
 Books: https://tinyurl.com/yc6tq7ym  
 Twitter handle: @mpigliucci
-</div>
-

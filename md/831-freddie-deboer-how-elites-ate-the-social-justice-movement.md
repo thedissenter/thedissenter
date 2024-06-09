@@ -1,21 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/75314463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F732c32f0-f93f-07ab-d628-812ce74046a1.m4a
-draft: false
-excerpt: Fredrik DeBoer is a writer and academic. He writes a newsletter on culture
-  and politics. He is the author of The Cult of Smart, and, more recently, How Elites
-  Ate the Social Justice Movement.
-id: '831'
-image: https://i.ytimg.com/vi/XKeQnq48fSA/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/831-freddie-deboer-how-elites-ate-the-social-justice/id1451347236?i=1000627114812&uo=4
-publishDate: 2023-09-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/831-Freddie-deBoer-How-Elites-Ate-the-Social-Justice-Movement-e28otqv
-tags:
-- Politics
-title: '#831 Freddie deBoer: How Elites Ate the Social Justice Movement'
-youtubeid: XKeQnq48fSA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75314463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F732c32f0-f93f-07ab-d628-812ce74046a1.m4a",
+	"draft": false,
+	"episodeid": "831",
+	"excerpt": "Fredrik DeBoer is a writer and academic. He writes a newsletter on culture and politics. He is the author of The Cult of Smart, and, more recently, How Elites Ate the Social Justice Movement.",
+	"image": "https://i.ytimg.com/vi/XKeQnq48fSA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/831-freddie-deboer-how-elites-ate-the-social-justice/id1451347236?i=1000627114812&uo=4",
+	"publishDate": 2023-09-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/831-Freddie-deBoer-How-Elites-Ate-the-Social-Justice-Movement-e28otqv",
+	"tags": [
+		"Politics"
+	],
+	"title": "#831 Freddie deBoer: How Elites Ate the Social Justice Movement",
+	"youtubeid": "XKeQnq48fSA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 31st 2023.  
 Fredrik DeBoer is a writer and academic. He writes a newsletter on culture and politics. He is the author of The Cult of Smart, and, more recently, How Elites Ate the Social Justice Movement.
 
@@ -40,5 +39,3 @@ Follow Mr. deBoer’s work:
 Website: https://bit.ly/43WHxsf  
 Substack: https://bit.ly/3qh1aNS  
 How Elites Ate the Social Justice Movement: https://bit.ly/45dhv4P
-</div>
-

@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40786093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Fa284c53b-ce48-063a-8cae-c2b0c3087954.m4a
-draft: false
-excerpt: Dr. David Pietraszewski is Research Scientist at the Max Planck Institute
-  for Human Development. He is an experimental psychologist who applies evolutionary
-  theorizing to Social, Cognitive, and Developmental questions. He is particularly
-  interested in characterizing the psychology of multi-agent conflict and cooperation
-  ("coalitional psychology"). The goal of his research is to not simply describe behavior,
-  but rather to use behavior to make inferences about the mind---described at the
-  level of mechanisms (or functions). He also does theoretical work to address common
-  confusions surrounding this approach.
-id: '529'
-image: https://i.ytimg.com/vi/5v1qKir4nKE/maxresdefault.jpg
-publishDate: 2021-10-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/529-David-Pietraszewski-Modularity-of-Mind--Coalitional-Psychology--and-Politics-e17r6nd
-tags:
-- Psychology
-title: '#529 David Pietraszewski: Modularity of Mind, Coalitional Psychology, and
-  Politics'
-youtubeid: 5v1qKir4nKE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40786093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2Fa284c53b-ce48-063a-8cae-c2b0c3087954.m4a",
+	"draft": false,
+	"episodeid": "529",
+	"excerpt": "Dr. David Pietraszewski is Research Scientist at the Max Planck Institute for Human Development. He is an experimental psychologist who applies evolutionary theorizing to Social, Cognitive, and Developmental questions. He is particularly interested in characterizing the psychology of multi-agent conflict and cooperation (\"coalitional psychology\"). The goal of his research is to not simply describe behavior, but rather to use behavior to make inferences about the mind---described at the level of mechanisms (or functions). He also does theoretical work to address common confusions surrounding this approach.",
+	"image": "https://i.ytimg.com/vi/5v1qKir4nKE/maxresdefault.jpg",
+	"publishDate": 2021-10-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/529-David-Pietraszewski-Modularity-of-Mind--Coalitional-Psychology--and-Politics-e17r6nd",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#529 David Pietraszewski: Modularity of Mind, Coalitional Psychology, and Politics",
+	"youtubeid": "5v1qKir4nKE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 21st 2021.  
 Dr. David Pietraszewski is Research Scientist at the Max Planck Institute for Human Development. He is an experimental psychologist who applies evolutionary theorizing to Social, Cognitive, and Developmental questions. He is particularly interested in characterizing the psychology of multi-agent conflict and cooperation ("coalitional psychology"). The goal of his research is to not simply describe behavior, but rather to use behavior to make inferences about the mind---described at the level of mechanisms (or functions). He also does theoretical work to address common confusions surrounding this approach.
 
@@ -46,5 +39,3 @@ ResearchGate profile: https://bit.ly/3u4yRyN
 Twitter handle: @DavePietrasz
 
 Paper (Why evolutionary psychology should abandon modularity): https://bit.ly/2Z6OHOH
-</div>
-

@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2665944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456207-44100-2-3e7070bfdd9c5.m4a
-draft: false
-excerpt: "Dr. Bel\xE9n L\xF3pez-P\xE9rez is a Lecturer in Psychology at Liverpool\
-  \ Hope University in the UK, where she also directs the ChildLab. She concluded\
-  \ her PhD in Social psychology at Universidad Autonoma de Madrid in 2012, and her\
-  \ Postdoctoral research in Social and Developmental Psychology in the School of\
-  \ Psychology at Plymouth University. Her research interests include empathy and\
-  \ interpersonal emotion regulation across the lifespan, as well as happiness and\
-  \ wellbeing. Her current research projects are focused on interpersonal emotion\
-  \ regulation in childhood and developmental differences in emotion goals (i.e.,\
-  \ what people would like to feel in different contexts)."
-id: '173'
-image: https://i.ytimg.com/vi/IzPY07uhTmo/maxresdefault.jpg
-publishDate: 2019-05-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/173-Beln-Lpez-Prez-Cruel-To-Be-Kind--Empathy--Emotion-Regulation-And-Happiness-e3fs0o
-tags:
-- Psychology
-title: "#173 Bel\xE9n L\xF3pez-P\xE9rez: Cruel To Be Kind, Empathy, Emotion Regulation,\
-  \ and Happiness"
-youtubeid: IzPY07uhTmo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2665944/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11456207-44100-2-3e7070bfdd9c5.m4a",
+	"draft": false,
+	"episodeid": "173",
+	"excerpt": "Dr. Belén López-Pérez is a Lecturer in Psychology at Liverpool Hope University in the UK, where she also directs the ChildLab. She concluded her PhD in Social psychology at Universidad Autonoma de Madrid in 2012, and her Postdoctoral research in Social and Developmental Psychology in the School of Psychology at Plymouth University. Her research interests include empathy and interpersonal emotion regulation across the lifespan, as well as happiness and wellbeing. Her current research projects are focused on interpersonal emotion regulation in childhood and developmental differences in emotion goals (i.e., what people would like to feel in different contexts).",
+	"image": "https://i.ytimg.com/vi/IzPY07uhTmo/maxresdefault.jpg",
+	"publishDate": 2019-05-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/173-Beln-Lpez-Prez-Cruel-To-Be-Kind--Empathy--Emotion-Regulation-And-Happiness-e3fs0o",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#173 Belén López-Pérez: Cruel To Be Kind, Empathy, Emotion Regulation, and Happiness",
+	"youtubeid": "IzPY07uhTmo"
+}
 ---
-<div class="timelinks">
-
 Dr. Belén López-Pérez is a Lecturer in Psychology at Liverpool Hope University in the UK, where she also directs the ChildLab. She concluded her PhD in Social psychology at Universidad Autonoma de Madrid in 2012, and her Postdoctoral research in Social and Developmental Psychology in the School of Psychology at Plymouth University. Her research interests include empathy and interpersonal emotion regulation across the lifespan, as well as happiness and wellbeing. Her current research projects are focused on interpersonal emotion regulation in childhood and developmental differences in emotion goals (i.e., what people would like to feel in different contexts).
 
 In this episode, we talk about empathy, emotion regulation, and the unexpected relationship between empathy and cruelty. First, we talk about the several cognitive and emotional dimensions of empathy. Then, we discuss emotion regulation and how it relates to empathy, as well as the developmental stages children go through when it comes to emotion regulation. We also refer to the relationship between emotion regulation and happiness, and the perils of focusing too much on happiness. Finally, we talk about the relationship between empathy and cruelty.
@@ -52,5 +44,3 @@ Can empathic concern be generalized from one person to others? Another positive 
 Cruel to Be Kind: Factors Underlying Altruistic Efforts to Worsen Another Person’s Mood: https://bit.ly/2HBxnXh  
 Developmental differences in children’s interpersonal emotion regulation: https://bit.ly/2ClMil0  
 The role of cognitive emotion regulation on the vicarious emotional response: https://bit.ly/2UJlEKg
-</div>
-

@@ -1,30 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/39062579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F4af7cbb7-934b-a116-43e7-79eb512812c9.m4a
-draft: false
-excerpt: 'Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fellow
-  at the Department of Experimental Psychology and Principal Investigator at the Wellcome
-  Centre for Human Neuroimaging where he leads the Metacognition Group, at University
-  College London. The question that drives most his research is: what supports the
-  remarkable capacity for human self-awareness? To address this question, he combines
-  experimental and theoretical approaches (psychophysics, computational modelling,
-  neuroimaging) to understand how people become self-aware of aspects of their cognition
-  and behavior (such as perception, memory and decision-making), and why such awareness
-  is often impaired in psychiatric and neurological disorders. Current interests focus
-  on understanding contributions of human prefrontal cortex to metacognition, and
-  how self-awareness and social cognition may share a core neurocomputational basis.
-  He is the author of Know Thyself: The New Science of Self-Awareness.'
-id: '557'
-image: https://i.ytimg.com/vi/9MH52uNOA6w/maxresdefault.jpg
-publishDate: 2021-12-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/557-Stephen-Fleming---Know-Thyself-The-New-Science-of-Self-Awareness-e166jjj
-tags:
-- Neuroscience
-- Psychology
-title: '#557 Stephen Fleming - Know Thyself: The New Science of Self-Awareness'
-youtubeid: 9MH52uNOA6w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/39062579/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-20%2F4af7cbb7-934b-a116-43e7-79eb512812c9.m4a",
+	"draft": false,
+	"episodeid": "557",
+	"excerpt": "Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fellow at the Department of Experimental Psychology and Principal Investigator at the Wellcome Centre for Human Neuroimaging where he leads the Metacognition Group, at University College London. The question that drives most his research is: what supports the remarkable capacity for human self-awareness? To address this question, he combines experimental and theoretical approaches (psychophysics, computational modelling, neuroimaging) to understand how people become self-aware of aspects of their cognition and behavior (such as perception, memory and decision-making), and why such awareness is often impaired in psychiatric and neurological disorders. Current interests focus on understanding contributions of human prefrontal cortex to metacognition, and how self-awareness and social cognition may share a core neurocomputational basis. He is the author of Know Thyself: The New Science of Self-Awareness.",
+	"image": "https://i.ytimg.com/vi/9MH52uNOA6w/maxresdefault.jpg",
+	"publishDate": 2021-12-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/557-Stephen-Fleming---Know-Thyself-The-New-Science-of-Self-Awareness-e166jjj",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#557 Stephen Fleming - Know Thyself: The New Science of Self-Awareness",
+	"youtubeid": "9MH52uNOA6w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 17th 2021.  
 Dr. Stephen Fleming is Wellcome Trust/Royal Society Sir Henry Dale Fellow at the Department of Experimental Psychology and Principal Investigator at the Wellcome Centre for Human Neuroimaging where he leads the Metacognition Group, at University College London. The question that drives most his research is: what supports the remarkable capacity for human self-awareness? To address this question, he combines experimental and theoretical approaches (psychophysics, computational modelling, neuroimaging) to understand how people become self-aware of aspects of their cognition and behavior (such as perception, memory and decision-making), and why such awareness is often impaired in psychiatric and neurological disorders. Current interests focus on understanding contributions of human prefrontal cortex to metacognition, and how self-awareness and social cognition may share a core neurocomputational basis. He is the author of Know Thyself: The New Science of Self-Awareness.
 
@@ -49,5 +39,3 @@ Faculty page: https://bit.ly/3sjYiKY
 ResearchGate profile: https://bit.ly/3AGXWmc  
 Know Thyself: https://amzn.to/3tkl5YB  
 Twitter handle: @smfleming
-</div>
-

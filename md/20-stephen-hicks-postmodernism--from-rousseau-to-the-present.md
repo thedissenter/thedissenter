@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7573041-44100-2-a9efae21386eb.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '20'
-image: https://i.ytimg.com/vi/rBTPMBKCZLs/maxresdefault.jpg
-publishDate: 2018-04-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/20-Stephen-Hicks-Postmodernism--from-Rousseau-to-the-Present-e2r49a
-tags:
-- Philosophy
-title: '#20 Stephen Hicks: Postmodernism, from Rousseau to the Present'
-youtubeid: rBTPMBKCZLs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986282/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7573041-44100-2-a9efae21386eb.mp3",
+	"draft": false,
+	"episodeid": "20",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/rBTPMBKCZLs/maxresdefault.jpg",
+	"publishDate": 2018-04-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/20-Stephen-Hicks-Postmodernism--from-Rousseau-to-the-Present-e2r49a",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#20 Stephen Hicks: Postmodernism, from Rousseau to the Present",
+	"youtubeid": "rBTPMBKCZLs"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -31,5 +32,4 @@ Aqui, falamos sobre as diferenças entre modernismo e pós-modernismo; as influ�
 Please, check out Dr. Hicks’ work  
 His Website: http://www.stephenhicks.org/  
 His book, Explaining Postmodernism: https://www.amazon.com/Explaining-Postmodernism-Skepticism-Socialism-Rousseau/dp/0983258406 ; Em Português: https://www.amazon.com/Explicando-P%C3%B3s-modernismo-Ceticismo-socialismo-Portuguese-ebook/dp/B00B4FCGM0/  
-And follow him on Twitter: @SRCHicks ; and Facebook: https://www.facebook.com/Stephen.R.C.Hicks</div>
-
+And follow him on Twitter: @SRCHicks ; and Facebook: https://www.facebook.com/Stephen.R.C.Hicks

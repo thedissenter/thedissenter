@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/19452137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2Fae46e724-847a-5f5c-5a84-5fccbff244b7.m4a
-draft: false
-excerpt: "Dr. Matthew Cobb is Professor of Zoology at the University of Manchester,\
-  \ where his research focuses on the sense of smell, insect behavior and the history\
-  \ of science. He is also a historian of the French Resistance. He\u2019s the author\
-  \ of several books, including The Idea of the Brain: A History."
-id: '391'
-image: https://i.ytimg.com/vi/dlfNfI3wfM8/maxresdefault.jpg
-publishDate: 2020-11-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/391-Matthew-Cobb-The-Idea-of-the-Brain-ejg4p9
-tags:
-- Neuroscience
-title: '#391 Matthew Cobb: The Idea of the Brain'
-youtubeid: dlfNfI3wfM8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/19452137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-11%2Fae46e724-847a-5f5c-5a84-5fccbff244b7.m4a",
+	"draft": false,
+	"episodeid": "391",
+	"excerpt": "Dr. Matthew Cobb is Professor of Zoology at the University of Manchester, where his research focuses on the sense of smell, insect behavior and the history of science. He is also a historian of the French Resistance. He’s the author of several books, including The Idea of the Brain: A History.",
+	"image": "https://i.ytimg.com/vi/dlfNfI3wfM8/maxresdefault.jpg",
+	"publishDate": 2020-11-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/391-Matthew-Cobb-The-Idea-of-the-Brain-ejg4p9",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#391 Matthew Cobb: The Idea of the Brain",
+	"youtubeid": "dlfNfI3wfM8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 11th 2020.  
 Dr. Matthew Cobb is Professor of Zoology at the University of Manchester, where his research focuses on the sense of smell, insect behavior and the history of science. He is also a historian of the French Resistance. He’s the author of several books, including The Idea of the Brain: A History.
 
@@ -42,5 +40,3 @@ Faculty page: https://bit.ly/3ioNGX3
 ResearchGate profile: https://bit.ly/33qDbMS  
 The Idea of the Brain: https://amzn.to/3m8RuhD  
 Twitter handle: @matthewcobb
-</div>
-

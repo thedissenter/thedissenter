@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/33486497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F54f35bcb-1602-3dc3-bbd6-7c0ea08c5ab9.m4a
-draft: false
-excerpt: "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Political\
-  \ Economy, and formerly Chairman of the Department of Economics, at Harvard University.\
-  \ He joined the Harvard faculty in 1972. Dr Friedman\u2019s newest book is Religion\
-  \ and the Rise of Capitalism \u2013 a fundamental reassessment of the foundations\
-  \ of current-day economics, showing how religious thinking has shaped economic thinking\
-  \ ever since the beginnings of modern Western economics and how this influence continues\
-  \ to be relevant today especially in the United States. His two other general interest\
-  \ books have been The Moral Consequences of Economic Growth (Knopf) and Day of Reckoning:\
-  \ The Consequences of American Economic Policy Under Reagan and After (Random House)."
-id: '513'
-image: https://i.ytimg.com/vi/Lv12S05k1uw/maxresdefault.jpg
-publishDate: 2021-08-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/513-Benjamin-Friedman-Religion-and-the-Rise-of-Capitalism-e10se71
-tags:
-- Politics
-- History
-- Economy, Progress
-title: '#513 Benjamin Friedman: Religion and the Rise of Capitalism'
-youtubeid: Lv12S05k1uw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/33486497/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F54f35bcb-1602-3dc3-bbd6-7c0ea08c5ab9.m4a",
+	"draft": false,
+	"episodeid": "513",
+	"excerpt": "Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Political Economy, and formerly Chairman of the Department of Economics, at Harvard University. He joined the Harvard faculty in 1972. Dr Friedman’s newest book is Religion and the Rise of Capitalism – a fundamental reassessment of the foundations of current-day economics, showing how religious thinking has shaped economic thinking ever since the beginnings of modern Western economics and how this influence continues to be relevant today especially in the United States. His two other general interest books have been The Moral Consequences of Economic Growth (Knopf) and Day of Reckoning: The Consequences of American Economic Policy Under Reagan and After (Random House).",
+	"image": "https://i.ytimg.com/vi/Lv12S05k1uw/maxresdefault.jpg",
+	"publishDate": 2021-08-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/513-Benjamin-Friedman-Religion-and-the-Rise-of-Capitalism-e10se71",
+	"tags": [
+		"Politics",
+		"History",
+		"Economy, Progress"
+	],
+	"title": "#513 Benjamin Friedman: Religion and the Rise of Capitalism",
+	"youtubeid": "Lv12S05k1uw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 13th 2021.  
 Dr. Benjamin M. Friedman is the William Joseph Maier Professor of Political Economy, and formerly Chairman of the Department of Economics, at Harvard University. He joined the Harvard faculty in 1972. Dr Friedman’s newest book is Religion and the Rise of Capitalism – a fundamental reassessment of the foundations of current-day economics, showing how religious thinking has shaped economic thinking ever since the beginnings of modern Western economics and how this influence continues to be relevant today especially in the United States. His two other general interest books have been The Moral Consequences of Economic Growth (Knopf) and Day of Reckoning: The Consequences of American Economic Policy Under Reagan and After (Random House).
 
@@ -45,5 +38,3 @@ Follow Dr. Friedman’s work:
 University page: https://bit.ly/3k6O7qO  
 Works on ResearchGate: https://bit.ly/2QchsFL  
 Religion and the Rise of Capitalism: https://amzn.to/3hlogfe
-</div>
-

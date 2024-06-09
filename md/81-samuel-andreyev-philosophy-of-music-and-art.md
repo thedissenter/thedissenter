@@ -1,17 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2005447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706530-44100-2-9a1dc45e54622.mp3
-draft: false
-excerpt: Samuel Andreyev is a Canadian music composer and writer residing in France.
-  He also has a YouTube channel with his name.
-id: '81'
-image: https://i.ytimg.com/vi/HUiV4Hgw924/maxresdefault.jpg
-publishDate: 2018-10-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/81-Samuel-Andreyev-Philosophy-of-Music-and-Art-e2rn07
-title: '#81 Samuel Andreyev: Philosophy of Music and Art'
-youtubeid: HUiV4Hgw924
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2005447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706530-44100-2-9a1dc45e54622.mp3",
+	"draft": false,
+	"episodeid": "81",
+	"excerpt": "Samuel Andreyev is a Canadian music composer and writer residing in France. He also has a YouTube channel with his name.",
+	"image": "https://i.ytimg.com/vi/HUiV4Hgw924/maxresdefault.jpg",
+	"publishDate": 2018-10-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/81-Samuel-Andreyev-Philosophy-of-Music-and-Art-e2rn07",
+	"title": "#81 Samuel Andreyev: Philosophy of Music and Art",
+	"youtubeid": "HUiV4Hgw924"
+}
 ---
-<div class="timelinks">
-
 Samuel Andreyev is a Canadian music composer and writer residing in France. He also has a YouTube channel with his name.
 
 Mr. Andreyev is a return guest on the show. Please go check out our first conversation, “Music Across Times and Cultures”: https://youtu.be/9UENs9ia6Zo
@@ -41,5 +40,3 @@ His personal website: http://www.samuelandreyev.com/
 His Youtube channel: https://www.youtube.com/channel/UCI_dcH8Zr2UqNT1EqvMNgTg  
 Twitter handle: @SamuelAndreyev  
 Support Samuel’s work on Patreon: https://www.patreon.com/samuelandreyev
-</div>
-

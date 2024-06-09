@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8844737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881261-44100-2-889c58376f231.m4a
-draft: false
-excerpt: Dr. Kristin Andrews is York Research Chair in Animal Minds and Professor
-  of Philosophy at York University (Toronto), where she also helps coordinate the
-  Cognitive Science program and the Toronto Area Animal Cognition Discussion Group.
-  Dr. Andrews is on the board of directors of the Borneo Orangutan Society Canada,
-  a member of the College of the Royal Society of Canada, and the author of several
-  books on social minds, animal minds, and ethics.
-id: '293'
-image: https://i.ytimg.com/vi/raIpbVTh-pg/maxresdefault.jpg
-publishDate: 2020-02-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/293-Kristin-Andrews-Animal-Minds--Theory-of-Mind--And-Animal-Ethics-e9ce01
-tags:
-- Cognitive Science
-- Philosophy
-title: '#293 Kristin Andrews: Animal Minds, Theory of Mind, And Animal Ethics'
-youtubeid: raIpbVTh-pg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8844737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881261-44100-2-889c58376f231.m4a",
+	"draft": false,
+	"episodeid": "293",
+	"excerpt": "Dr. Kristin Andrews is York Research Chair in Animal Minds and Professor of Philosophy at York University (Toronto), where she also helps coordinate the Cognitive Science program and the Toronto Area Animal Cognition Discussion Group. Dr. Andrews is on the board of directors of the Borneo Orangutan Society Canada, a member of the College of the Royal Society of Canada, and the author of several books on social minds, animal minds, and ethics.",
+	"image": "https://i.ytimg.com/vi/raIpbVTh-pg/maxresdefault.jpg",
+	"publishDate": 2020-02-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/293-Kristin-Andrews-Animal-Minds--Theory-of-Mind--And-Animal-Ethics-e9ce01",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#293 Kristin Andrews: Animal Minds, Theory of Mind, And Animal Ethics",
+	"youtubeid": "raIpbVTh-pg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 3rd, 2019.  
 Dr. Kristin Andrews is York Research Chair in Animal Minds and Professor of Philosophy at York University (Toronto), where she also helps coordinate the Cognitive Science program and the Toronto Area Animal Cognition Discussion Group. Dr. Andrews is on the board of directors of the Borneo Orangutan Society Canada, a member of the College of the Royal Society of Canada, and the author of several books on social minds, animal minds, and ethics.
 
@@ -52,5 +48,3 @@ A Role for Folk Psychology in Animal Cognition Research: http://bit.ly/33Nw9zE
 Anthropomorphism, anthropectomy, and the null hypothesis: http://bit.ly/2RgyJMc  
 Chimpanzee Theory of Mind: Looking in All the Wrong Places?: http://bit.ly/3861gtU  
 Naïve Normativity: The Social Foundation of Moral Cognition: http://bit.ly/2DHkaJt
-</div>
-

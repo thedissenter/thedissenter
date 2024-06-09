@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4082153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20119122-44100-2-38ab9a94b605e.m4a
-draft: false
-excerpt: 'Dr. Samir Okasha is a Professor of Philosophy of Science at the University
-  of Bristol. He is a winner of the Lakatos Award for his book Evolution and the Levels
-  of Selection. He was appointed a Fellow of the British Academy in 2018, and he is
-  also the President of the European Philosophy of Science Association. He has broad
-  philosophical interests, though most of his research falls into two main areas:
-  (i) philosophy of biology / evolutionary theory; and (ii) epistemology /philosophy
-  of science. Within philosophy of biology, he is especially interested in foundational
-  and conceptual questions surrounding evolutionary theory. For many years, his research
-  focused on the ''levels of selection'' question in evolutionary biology, and the
-  related issue of individual versus group conflicts of interest.'
-id: '234'
-image: https://i.ytimg.com/vi/Z1f2uvSQ3ls/maxresdefault.jpg
-publishDate: 2019-09-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/234-Samir-Okasha-Natural-Selection--From-Genes-To-Groups-e4r319
-tags:
-- Biology
-- Philosophy
-title: '#234 Samir Okasha: Natural Selection, From Genes To Groups'
-youtubeid: Z1f2uvSQ3ls
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4082153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20119122-44100-2-38ab9a94b605e.m4a",
+	"draft": false,
+	"episodeid": "234",
+	"excerpt": "Dr. Samir Okasha is a Professor of Philosophy of Science at the University of Bristol. He is a winner of the Lakatos Award for his book Evolution and the Levels of Selection. He was appointed a Fellow of the British Academy in 2018, and he is also the President of the European Philosophy of Science Association. He has broad philosophical interests, though most of his research falls into two main areas: (i) philosophy of biology / evolutionary theory; and (ii) epistemology /philosophy of science. Within philosophy of biology, he is especially interested in foundational and conceptual questions surrounding evolutionary theory. For many years, his research focused on the 'levels of selection' question in evolutionary biology, and the related issue of individual versus group conflicts of interest.",
+	"image": "https://i.ytimg.com/vi/Z1f2uvSQ3ls/maxresdefault.jpg",
+	"publishDate": 2019-09-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/234-Samir-Okasha-Natural-Selection--From-Genes-To-Groups-e4r319",
+	"tags": [
+		"Biology",
+		"Philosophy"
+	],
+	"title": "#234 Samir Okasha: Natural Selection, From Genes To Groups",
+	"youtubeid": "Z1f2uvSQ3ls"
+}
 ---
-<div class="timelinks">
-
 Dr. Samir Okasha is a Professor of Philosophy of Science at the University of Bristol. He is a winner of the Lakatos Award for his book Evolution and the Levels of Selection. He was appointed a Fellow of the British Academy in 2018, and he is also the President of the European Philosophy of Science Association. He has broad philosophical interests, though most of his research falls into two main areas: (i) philosophy of biology / evolutionary theory; and (ii) epistemology /philosophy of science. Within philosophy of biology, he is especially interested in foundational and conceptual questions surrounding evolutionary theory. For many years, his research focused on the 'levels of selection' question in evolutionary biology, and the related issue of individual versus group conflicts of interest.
 
 In this episode, the main focus of our conversation is on philosophy of biology, and the levels of selection in evolutionary theory. We first discuss the several ways to think about levels of selection. We talk about the issue with group selection, the evolution of altruism, and multi-level selection theory. We also refer to the gene’s-eye view, and what it is about. We discuss the extended evolutionary synthesis, and non-genetic inheritance mechanisms like cultural evolution and epigenetics. Toward the end, we also briefly talk about the usefulness (or lack thereof) of a species-level selection perspective. 
@@ -47,5 +39,3 @@ Books on Amazon: https://amzn.to/2OBUXsi
 Evolution and the Levels of Selection: https://amzn.to/2OKInGW  
 Agents and Goals in Evolution: https://amzn.to/2OAvG1o  
 Philosophy of Biology: A Very Short Introduction (upcoming): https://amzn.to/2MAq8S3
-</div>
-

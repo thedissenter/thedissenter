@@ -1,27 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54880369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-15%2Fa9b092f2-3b6e-59ac-23ae-da9bf4c35d4d.m4a
-draft: false
-excerpt: 'Dr. Victor Kumar is Assistant Professor of Philosophy at Boston University.
-  He is director of the Mind and Morality Lab. He is also a member of the interdisciplinary
-  Moral Psychology Research Group. His primary philosophical interests are in ethics,
-  cognitive science, and evolutionary theory. He also has interests in epistemology,
-  philosophy of mind, feminist philosophy, and philosophy of race. He is the author
-  (with Richmond Campbell) of A Better Ape: The Evolution of the Moral Mind and How
-  it Made us Human.'
-id: '671'
-image: https://i.ytimg.com/vi/dOlWZQjZ0XU/maxresdefault.jpg
-publishDate: 2022-08-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/671-Victor-Kumar---A-Better-Ape-The-Evolution-of-the-Moral-Mind-and-How-it-Made-us-Human-e1l9alh
-tags:
-- Anthropology
-- Philosophy
-- Psychology
-title: '#671 Victor Kumar - A Better Ape: The Evolution of the Moral Mind and How
-  it Made us Human'
-youtubeid: dOlWZQjZ0XU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54880369/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-15%2Fa9b092f2-3b6e-59ac-23ae-da9bf4c35d4d.m4a",
+	"draft": false,
+	"episodeid": "671",
+	"excerpt": "Dr. Victor Kumar is Assistant Professor of Philosophy at Boston University. He is director of the Mind and Morality Lab. He is also a member of the interdisciplinary Moral Psychology Research Group. His primary philosophical interests are in ethics, cognitive science, and evolutionary theory. He also has interests in epistemology, philosophy of mind, feminist philosophy, and philosophy of race. He is the author (with Richmond Campbell) of A Better Ape: The Evolution of the Moral Mind and How it Made us Human.",
+	"image": "https://i.ytimg.com/vi/dOlWZQjZ0XU/maxresdefault.jpg",
+	"publishDate": 2022-08-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/671-Victor-Kumar---A-Better-Ape-The-Evolution-of-the-Moral-Mind-and-How-it-Made-us-Human-e1l9alh",
+	"tags": [
+		"Anthropology",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#671 Victor Kumar - A Better Ape: The Evolution of the Moral Mind and How it Made us Human",
+	"youtubeid": "dOlWZQjZ0XU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 15th 2022.  
 Dr. Victor Kumar is Assistant Professor of Philosophy at Boston University. He is director of the Mind and Morality Lab. He is also a member of the interdisciplinary Moral Psychology Research Group. His primary philosophical interests are in ethics, cognitive science, and evolutionary theory. He also has interests in epistemology, philosophy of mind, feminist philosophy, and philosophy of race. He is the author (with Richmond Campbell) of A Better Ape: The Evolution of the Moral Mind and How it Made us Human.
 
@@ -53,5 +47,3 @@ Faculty page: https://bit.ly/3JqjtEA
 Website: https://bit.ly/3JkDWKU  
 PhilPeople page: https://bit.ly/37u7Vlw  
 A Better Ape: https://amzn.to/3OedxAD
-</div>
-

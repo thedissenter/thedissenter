@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51068563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-25%2F34593d1c-8fc3-ec85-3899-872f5199df2e.m4a
-draft: false
-excerpt: 'Jack Symes is the producer of The Panpsycast Philosophy Podcast and editor
-  of the Bloomsbury series, Talking about Philosophy. He is currently Teacher and
-  Researcher of Philosophy at the University of Liverpool, UK. He is the editor of
-  Philosophers on Consciousness: Talking about the Mind.'
-id: '621'
-image: https://i.ytimg.com/vi/qgDbKdLKZ-U/maxresdefault.jpg
-publishDate: 2022-05-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/621-Jack-Symes---The-Panpsycast-Philosophy-Podcast-Philosophers-on-Consciousness-e1hl06j
-tags:
-- Philosophy
-title: '#621 Jack Symes - The Panpsycast Philosophy Podcast; Philosophers on Consciousness'
-youtubeid: qgDbKdLKZ-U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51068563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-25%2F34593d1c-8fc3-ec85-3899-872f5199df2e.m4a",
+	"draft": false,
+	"episodeid": "621",
+	"excerpt": "Jack Symes is the producer of The Panpsycast Philosophy Podcast and editor of the Bloomsbury series, Talking about Philosophy. He is currently Teacher and Researcher of Philosophy at the University of Liverpool, UK. He is the editor of Philosophers on Consciousness: Talking about the Mind.",
+	"image": "https://i.ytimg.com/vi/qgDbKdLKZ-U/maxresdefault.jpg",
+	"publishDate": 2022-05-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/621-Jack-Symes---The-Panpsycast-Philosophy-Podcast-Philosophers-on-Consciousness-e1hl06j",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#621 Jack Symes - The Panpsycast Philosophy Podcast; Philosophers on Consciousness",
+	"youtubeid": "qgDbKdLKZ-U"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 25th 2022.  
 Jack Symes is the producer of The Panpsycast Philosophy Podcast and editor of the Bloomsbury series, Talking about Philosophy. He is currently Teacher and Researcher of Philosophy at the University of Liverpool, UK. He is the editor of Philosophers on Consciousness: Talking about the Mind.
 
@@ -46,5 +44,3 @@ PhilPeople profile: https://bit.ly/35BlBe4
 Twitter handle: @_JackSymes  
 Panpsycast: https://bit.ly/3LAFyRr  
 Philosophers on Consciousness: https://bit.ly/3iY4RRf
-</div>
-

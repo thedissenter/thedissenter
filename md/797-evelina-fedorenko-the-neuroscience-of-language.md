@@ -1,24 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65699754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F1b177a67-1325-88da-bece-c193720ddaf8.m4a
-draft: false
-excerpt: Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscience
-  in the Brain and Cognitive Sciences department at MIT. Her research focuses on the
-  language system, including its internal architecture, and its relationship with
-  other cognitive systems. She uses behavioral, fMRI, intracranial recording, computational,
-  and genotyping methods in healthy adults and individuals with brain disorders.
-id: '797'
-image: https://i.ytimg.com/vi/1vGJJru9Smg/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/797-evelina-fedorenko-the-neuroscience-of-language/id1451347236?i=1000617603476&uo=4
-publishDate: 2023-06-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/797-Evelina-Fedorenko-The-Neuroscience-of-Language-e1vjgfa
-tags:
-- Neuroscience
-- Psychology
-title: '#797 Evelina Fedorenko: The Neuroscience of Language'
-youtubeid: 1vGJJru9Smg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65699754/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F1b177a67-1325-88da-bece-c193720ddaf8.m4a",
+	"draft": false,
+	"episodeid": "797",
+	"excerpt": "Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscience in the Brain and Cognitive Sciences department at MIT. Her research focuses on the language system, including its internal architecture, and its relationship with other cognitive systems. She uses behavioral, fMRI, intracranial recording, computational, and genotyping methods in healthy adults and individuals with brain disorders.",
+	"image": "https://i.ytimg.com/vi/1vGJJru9Smg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/797-evelina-fedorenko-the-neuroscience-of-language/id1451347236?i=1000617603476&uo=4",
+	"publishDate": 2023-06-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/797-Evelina-Fedorenko-The-Neuroscience-of-Language-e1vjgfa",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#797 Evelina Fedorenko: The Neuroscience of Language",
+	"youtubeid": "1vGJJru9Smg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 27th 2023.  
 Dr. Evelina Fedorenko is Middleton CD Associate Professor of Neuroscience in the Brain and Cognitive Sciences department at MIT. Her research focuses on the language system, including its internal architecture, and its relationship with other cognitive systems. She uses behavioral, fMRI, intracranial recording, computational, and genotyping methods in healthy adults and individuals with brain disorders.
 
@@ -46,5 +43,3 @@ Faculty page: https://bit.ly/3dzObzT
 EvLab: https://bit.ly/3bZ06qI  
 Works on ResearchGate: https://bit.ly/3SRl5fN  
 Twitter handle: @ev_fedorenko
-</div>
-

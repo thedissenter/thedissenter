@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/59008672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-13%2F5b4e885b-d358-b8f5-d8ae-c2121df5e481.m4a
-draft: false
-excerpt: "Dr. Susana Mons\xF3 is an Assistant Professor in the Department of Logic,\
-  \ History and Philosophy of Science at Universidad Nacional de Educaci\xF3n a Distancia.\
-  \ She has been a post-doc fellow at the University of Graz and at the Messerli Research\
-  \ Institute in Vienna, where she was the recipient of the Lise Meitner FWF Austrian\
-  \ Science Fund. Her work focuses on the socio-cognitive abilities of animals and\
-  \ their ethical implications. She is the author of \u201CLa zarig\xFCeya de Schr\xF6\
-  dinger: C\xF3mo viven y entienden la muerte los animales\u201D."
-id: '695'
-image: https://i.ytimg.com/vi/DhXS94-0QTo/maxresdefault.jpg
-publishDate: 2022-10-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/695-Susana-Mons-How-Animals-Experience-and-Understand-Death-e1p7a70
-tags:
-- Biology
-- Philosophy
-title: "#695 Susana Mons\xF3: How Animals Experience and Understand Death"
-youtubeid: DhXS94-0QTo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/59008672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-13%2F5b4e885b-d358-b8f5-d8ae-c2121df5e481.m4a",
+	"draft": false,
+	"episodeid": "695",
+	"excerpt": "Dr. Susana Monsó is an Assistant Professor in the Department of Logic, History and Philosophy of Science at Universidad Nacional de Educación a Distancia. She has been a post-doc fellow at the University of Graz and at the Messerli Research Institute in Vienna, where she was the recipient of the Lise Meitner FWF Austrian Science Fund. Her work focuses on the socio-cognitive abilities of animals and their ethical implications. She is the author of “La zarigüeya de Schrödinger: Cómo viven y entienden la muerte los animales”.",
+	"image": "https://i.ytimg.com/vi/DhXS94-0QTo/maxresdefault.jpg",
+	"publishDate": 2022-10-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/695-Susana-Mons-How-Animals-Experience-and-Understand-Death-e1p7a70",
+	"tags": [
+		"Biology",
+		"Philosophy"
+	],
+	"title": "#695 Susana Monsó: How Animals Experience and Understand Death",
+	"youtubeid": "DhXS94-0QTo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 13th 2022.  
 Dr. Susana Monsó is an Assistant Professor in the Department of Logic, History and Philosophy of Science at Universidad Nacional de Educación a Distancia. She has been a post-doc fellow at the University of Graz and at the Messerli Research Institute in Vienna, where she was the recipient of the Lise Meitner FWF Austrian Science Fund. Her work focuses on the socio-cognitive abilities of animals and their ethical implications. She is the author of “La zarigüeya de Schrödinger: Cómo viven y entienden la muerte los animales”.
 
@@ -55,5 +50,3 @@ Website: https://bit.ly/3QsxaGV
 PhilPeople page: https://bit.ly/3bbpbxW  
 La zarigüeya de Schrödinger: https://amzn.to/3ASlqrJ  
 Twitter handle: @Susana_MonsO
-</div>
-

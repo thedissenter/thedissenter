@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735274-48000-2-d62c2ec9e8c1c.mp3
-draft: false
-excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy at\
-  \ Duke University. He has been a visiting professor and fellow at the Center for\
-  \ the Philosophy of Science, at the University of Minnesota, as well as the University\
-  \ of California, Santa Cruz, and Oxford University, and a visiting fellow of the\
-  \ Philosophy Department at the Research School of Social Science, of the Australian\
-  \ National University. In 2016 he was the Benjamin Meaker Visiting Professor at\
-  \ the University of Bristol. He has held fellowships from the National Science Foundation,\
-  \ the American Council of Learned Societies, and the John Simon Guggenheim Foundation.\
-  \ In 1993, Dr. Rosenberg received the Lakatos Award in the philosophy of science.\
-  \ In 2006-2007 he held a fellowship at the National Humanities Center. He was also\
-  \ the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He\u2019s the author of both\
-  \ fictional and non-fictional literature, including The Atheist\u2019s Guide to\
-  \ Reality, The Girl from Krakow, and How History Gets Things Wrong.  "
-id: '115'
-image: https://i.ytimg.com/vi/Iii5P4HGf0g/maxresdefault.jpg
-publishDate: 2018-12-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/115-Alexander-Rosenberg-Theory-of-Mind--History--Mental-Illusions--and-Nihilism-e2rshp
-tags:
-- Philosophy
-title: '#115 Alexander Rosenberg: Theory of Mind, History, Mental Illusions, and Nihilism'
-youtubeid: Iii5P4HGf0g
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011129/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735274-48000-2-d62c2ec9e8c1c.mp3",
+	"draft": false,
+	"episodeid": "115",
+	"excerpt": "Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy at Duke University. He has been a visiting professor and fellow at the Center for the Philosophy of Science, at the University of Minnesota, as well as the University of California, Santa Cruz, and Oxford University, and a visiting fellow of the Philosophy Department at the Research School of Social Science, of the Australian National University. In 2016 he was the Benjamin Meaker Visiting Professor at the University of Bristol. He has held fellowships from the National Science Foundation, the American Council of Learned Societies, and the John Simon Guggenheim Foundation. In 1993, Dr. Rosenberg received the Lakatos Award in the philosophy of science. In 2006-2007 he held a fellowship at the National Humanities Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He’s the author of both fictional and non-fictional literature, including The Atheist’s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong.  ",
+	"image": "https://i.ytimg.com/vi/Iii5P4HGf0g/maxresdefault.jpg",
+	"publishDate": 2018-12-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/115-Alexander-Rosenberg-Theory-of-Mind--History--Mental-Illusions--and-Nihilism-e2rshp",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#115 Alexander Rosenberg: Theory of Mind, History, Mental Illusions, and Nihilism",
+	"youtubeid": "Iii5P4HGf0g"
+}
 ---
-<div class="timelinks">
-
 Dr. Alexander Rosenberg is the R. Taylor Cole Professor of Philosophy at Duke University. He has been a visiting professor and fellow at the Center for the Philosophy of Science, at the University of Minnesota, as well as the University of California, Santa Cruz, and Oxford University, and a visiting fellow of the Philosophy Department at the Research School of Social Science, of the Australian National University. In 2016 he was the Benjamin Meaker Visiting Professor at the University of Bristol. He has held fellowships from the National Science Foundation, the American Council of Learned Societies, and the John Simon Guggenheim Foundation. In 1993, Dr. Rosenberg received the Lakatos Award in the philosophy of science. In 2006-2007 he held a fellowship at the National Humanities Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He’s the author of both fictional and non-fictional literature, including The Atheist’s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong.  
 In this episode, we focus on Dr. Rosenberg’s most recent book, How History Gets Things Wrong, and also a little bit on some of the topics of The Atheist’s Guide to Reality. We talk about the theory of mind, and how it evolved; the errors with narrative History, and the negative consequences it might produce; mind-brain dualism; what neuroscience tells us about how our brain and cognition operate; social science, biology, and evolution; the role that evolutionary game theory can play in explaining historical events and social phenomena; why beliefs, motivations, desires, and other mental constructs might not exist at all, and the implications for moral philosophy; if AI could develop these same illusions; and nihilism.
 
@@ -52,5 +41,3 @@ Follow Dr. Rosenberg’s work:
 Faculty page: https://tinyurl.com/ydby3b5f  
 Website: http://www.alexrose46.com/  
 Books: https://tinyurl.com/yag2n2fn
-</div>
-

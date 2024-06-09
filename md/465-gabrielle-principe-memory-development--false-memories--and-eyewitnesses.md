@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/26619302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F4f3a1d89-bc88-b3f2-f84b-a870b67cd565.m4a
-draft: false
-excerpt: 'Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology
-  at the College of Charleston. Her research has been federally funded by the National
-  Institutes of Health and she has published her research in numerous scientific journals
-  including Psychological Science, Journal of Experimental Child Psychology, and Cognition
-  and Development. She has a lifelong fascination with the implications of evolutionary
-  ideas on cognitive development and a serious interest in translating the latest
-  scientific research about human development into information that parents and teachers
-  can use to better rear and educate children. She is the author of Your Brain on
-  Childhood: The Unexpected Side Effects of Classrooms, Ballparks, Family Rooms, and
-  the Minivan (Prometheus, 2011).'
-id: '465'
-image: https://i.ytimg.com/vi/1jDvF7AC42I/maxresdefault.jpg
-publishDate: 2021-05-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/465-Gabrielle-Principe-Memory-Development--False-Memories--and-Eyewitnesses-eqarv6
-tags:
-- Cognitive Science
-- Psychology
-title: '#465 Gabrielle Principe: Memory Development, False Memories, and Eyewitnesses'
-youtubeid: 1jDvF7AC42I
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/26619302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F4f3a1d89-bc88-b3f2-f84b-a870b67cd565.m4a",
+	"draft": false,
+	"episodeid": "465",
+	"excerpt": "Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology at the College of Charleston. Her research has been federally funded by the National Institutes of Health and she has published her research in numerous scientific journals including Psychological Science, Journal of Experimental Child Psychology, and Cognition and Development. She has a lifelong fascination with the implications of evolutionary ideas on cognitive development and a serious interest in translating the latest scientific research about human development into information that parents and teachers can use to better rear and educate children. She is the author of Your Brain on Childhood: The Unexpected Side Effects of Classrooms, Ballparks, Family Rooms, and the Minivan (Prometheus, 2011).",
+	"image": "https://i.ytimg.com/vi/1jDvF7AC42I/maxresdefault.jpg",
+	"publishDate": 2021-05-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/465-Gabrielle-Principe-Memory-Development--False-Memories--and-Eyewitnesses-eqarv6",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#465 Gabrielle Principe: Memory Development, False Memories, and Eyewitnesses",
+	"youtubeid": "1jDvF7AC42I"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 8th 2021.  
 Dr. Gabrielle Principe is Professor and Chair of the Department of Psychology at the College of Charleston. Her research has been federally funded by the National Institutes of Health and she has published her research in numerous scientific journals including Psychological Science, Journal of Experimental Child Psychology, and Cognition and Development. She has a lifelong fascination with the implications of evolutionary ideas on cognitive development and a serious interest in translating the latest scientific research about human development into information that parents and teachers can use to better rear and educate children. She is the author of Your Brain on Childhood: The Unexpected Side Effects of Classrooms, Ballparks, Family Rooms, and the Minivan (Prometheus, 2011).
 
@@ -46,5 +38,3 @@ Faculty page: http://bit.ly/2Ws2yL5
 ResearchGate profile: https://bit.ly/38mLBHc  
 Amazon page: https://amzn.to/3pZeH7b  
 Twitter handle: @GabPrincipe
-</div>
-

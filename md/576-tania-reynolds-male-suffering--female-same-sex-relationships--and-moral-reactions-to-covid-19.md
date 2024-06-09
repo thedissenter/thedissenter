@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41445727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fee16087d-e39c-8ef8-89f8-9627b1193772.m4a
-draft: false
-excerpt: Dr. Tania Reynolds is Assistant Professor in Psychology at the University
-  of New Mexico.
-id: '576'
-image: https://i.ytimg.com/vi/QZBS364fIlk/maxresdefault.jpg
-publishDate: 2022-01-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/576-Tania-Reynolds-Male-Suffering--Female-Same-Sex-Relationships--and-Moral-Reactions-to-Covid-19-e18fasv
-tags:
-- Psychology
-title: '#576 Tania Reynolds: Male Suffering, Female Same-Sex Relationships, and Moral
-  Reactions to Covid-19'
-youtubeid: QZBS364fIlk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41445727/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fee16087d-e39c-8ef8-89f8-9627b1193772.m4a",
+	"draft": false,
+	"episodeid": "576",
+	"excerpt": "Dr. Tania Reynolds is Assistant Professor in Psychology at the University of New Mexico.",
+	"image": "https://i.ytimg.com/vi/QZBS364fIlk/maxresdefault.jpg",
+	"publishDate": 2022-01-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/576-Tania-Reynolds-Male-Suffering--Female-Same-Sex-Relationships--and-Moral-Reactions-to-Covid-19-e18fasv",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#576 Tania Reynolds: Male Suffering, Female Same-Sex Relationships, and Moral Reactions to Covid-19",
+	"youtubeid": "QZBS364fIlk"
+}
 ---
-<div class="timelinks">
-
 Dr. Tania Reynolds is Assistant Professor in Psychology at the University of New Mexico.
 
 In this episode, we talk about male suffering, female same-sex relationships, discrimination in hiring, and moral reactions to covid-19 health responses. We start by talking about the ways men suffer and how they get derogated, and the evolutionary bases to all of that. We go into biases in moral typecasting, and discuss if people are insensitive to male suffering. We then get into what women evolved to look for in same-sex relationship, as well as the challenges they pose. We speculate a bit on the relationships women establish with their mothers-in-law, in the light of parent-offspring conflict. We talk about how women disguise intrasexual competition as prosociality or vulnerability. We also discuss how this applies to the modern workplace, and possible interventions to help women navigate these relationships. We then talk about racial discrimination in the hiring process, and the role played by ideology and “ressentiment”. We also discuss if the same applies to other kinds of discrimination. Finally, we ask if there moral reactions might stem from pathogen disgust.
@@ -46,5 +45,3 @@ Faculty page: https://bit.ly/2XRWnUB
 ResearchGate profile: http://bit.ly/2LHXWgj  
 Twitter handle: @TaniaArline  
 Our Grandmothers’ Legacy (paper): https://bit.ly/3i9D1Bn
-</div>
-

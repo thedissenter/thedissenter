@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55785361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-5%2F5031762d-acc9-bf92-58bd-0349eb0d9dac.m4a
-draft: false
-excerpt: 'Dr. Allan Horwitz is Board of Governors Professor Emeritus of Sociology
-  at Rutgers University. He has also chaired the Mental Health and Medical Sociology
-  Sections of the American Sociological Association, as well as the Psychiatric Sociology
-  Section of the Society for the Study of Social Problems. His research has focused
-  on the sociology of mental health and illness. In 2006, he received the Leonard
-  I. Pearlin Award for Distinguished Contributions to the Sociological Study of Mental
-  Health from the American Sociological Association''s Section on Sociology of Mental
-  Health. In addition, he has published several books, the most recent one being DSM:
-  A History of Psychiatry''s Bible.'
-id: '717'
-image: https://i.ytimg.com/vi/db-RS31E6i8/maxresdefault.jpg
-publishDate: 2022-12-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/717-Allan-Horwitz---DSM-A-History-of-Psychiatrys-Bible-e1m4ueh
-tags:
-- Sociology
-title: '#717 Allan Horwitz - DSM: A History of Psychiatry''s Bible'
-youtubeid: db-RS31E6i8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55785361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-5%2F5031762d-acc9-bf92-58bd-0349eb0d9dac.m4a",
+	"draft": false,
+	"episodeid": "717",
+	"excerpt": "Dr. Allan Horwitz is Board of Governors Professor Emeritus of Sociology at Rutgers University. He has also chaired the Mental Health and Medical Sociology Sections of the American Sociological Association, as well as the Psychiatric Sociology Section of the Society for the Study of Social Problems. His research has focused on the sociology of mental health and illness. In 2006, he received the Leonard I. Pearlin Award for Distinguished Contributions to the Sociological Study of Mental Health from the American Sociological Association's Section on Sociology of Mental Health. In addition, he has published several books, the most recent one being DSM: A History of Psychiatry's Bible.",
+	"image": "https://i.ytimg.com/vi/db-RS31E6i8/maxresdefault.jpg",
+	"publishDate": 2022-12-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/717-Allan-Horwitz---DSM-A-History-of-Psychiatrys-Bible-e1m4ueh",
+	"tags": [
+		"Sociology"
+	],
+	"title": "#717 Allan Horwitz - DSM: A History of Psychiatry's Bible",
+	"youtubeid": "db-RS31E6i8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 5th 2022.  
 Dr. Allan Horwitz is Board of Governors Professor Emeritus of Sociology at Rutgers University. He has also chaired the Mental Health and Medical Sociology Sections of the American Sociological Association, as well as the Psychiatric Sociology Section of the Society for the Study of Social Problems. His research has focused on the sociology of mental health and illness. In 2006, he received the Leonard I. Pearlin Award for Distinguished Contributions to the Sociological Study of Mental Health from the American Sociological Association's Section on Sociology of Mental Health. In addition, he has published several books, the most recent one being DSM: A History of Psychiatry's Bible.
 
@@ -50,5 +43,3 @@ Rutgers page: https://bit.ly/2KraOYI
 ResearchGate profile: https://bit.ly/37U6hWQ  
 Amazon page: https://amzn.to/2LzIMuU  
 DSM: https://amzn.to/3yMi744
-</div>
-

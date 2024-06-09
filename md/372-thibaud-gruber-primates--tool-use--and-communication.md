@@ -1,22 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18032469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F60623e05-ac22-b5f9-1b2a-c953893ceb1b.m4a
-draft: false
-excerpt: Dr. Thibaud Gruber is Assistant Professor of Psychology at the University
-  of Geneva, and he is also part of the Swiss Center for Affective Sciences. A primatologist
-  halfway between Switzerland and the UK. Working with chimps, orangutans and bonobos,
-  he is interested in the evolutionary origins of culture and language.
-id: '372'
-image: https://i.ytimg.com/vi/EqkKJURDEjo/maxresdefault.jpg
-publishDate: 2020-10-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/372-Thibaud-Gruber-Primates--Tool-Use--and-Communication-ei4qcl
-tags:
-- Biology
-- Primatology
-title: '#372 Thibaud Gruber: Primates, Tool Use, and Communication'
-youtubeid: EqkKJURDEjo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18032469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F60623e05-ac22-b5f9-1b2a-c953893ceb1b.m4a",
+	"draft": false,
+	"episodeid": "372",
+	"excerpt": "Dr. Thibaud Gruber is Assistant Professor of Psychology at the University of Geneva, and he is also part of the Swiss Center for Affective Sciences. A primatologist halfway between Switzerland and the UK. Working with chimps, orangutans and bonobos, he is interested in the evolutionary origins of culture and language.",
+	"image": "https://i.ytimg.com/vi/EqkKJURDEjo/maxresdefault.jpg",
+	"publishDate": 2020-10-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/372-Thibaud-Gruber-Primates--Tool-Use--and-Communication-ei4qcl",
+	"tags": [
+		"Biology",
+		"Primatology"
+	],
+	"title": "#372 Thibaud Gruber: Primates, Tool Use, and Communication",
+	"youtubeid": "EqkKJURDEjo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 12th, 2020.  
 Dr. Thibaud Gruber is Assistant Professor of Psychology at the University of Geneva, and he is also part of the Swiss Center for Affective Sciences. A primatologist halfway between Switzerland and the UK. Working with chimps, orangutans and bonobos, he is interested in the evolutionary origins of culture and language.
 
@@ -44,5 +42,3 @@ Faculty page: http://bit.ly/2TvUeJU
 Website: https://bit.ly/2PMc0W9  
 ResearchGate profile: https://bit.ly/2PMrdGI  
 Twitter handle: @bonobo_style
-</div>
-

@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2533321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725978-44100-2-b6262ac6ce23e.m4a
-draft: false
-excerpt: 'Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle University,
-  where he is a member of the cross-disciplinary Centre for Behaviour and Evolution.
-  He studies a number of different topics relating to behaviour, ageing and wellbeing.
-  He mainly studies humans, but sometimes other animals (especially starlings) too.
-  Dr. Nettle is the author of several books, most notably, Happiness: The Science
-  Behind Your Smile (2005), Personality: What Makes You the Way You Are (2007), and
-  Tyneside Neighbourhoods: Deprivation, Social Life and Social Behaviour in One English
-  City (2015).'
-id: '166'
-image: https://i.ytimg.com/vi/FDkEhOiksLw/maxresdefault.jpg
-publishDate: 2019-04-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/166-Daniel-Nettle-The-Evolution-of-Personality--Individual-Variation-And-Behavioral-Flexibility-e3bqg9
-tags:
-- Psychology
-title: '#166 Daniel Nettle: The Evolution of Personality, Individual Variation And
-  Behavioral Flexibility'
-youtubeid: FDkEhOiksLw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2533321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10725978-44100-2-b6262ac6ce23e.m4a",
+	"draft": false,
+	"episodeid": "166",
+	"excerpt": "Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle University, where he is a member of the cross-disciplinary Centre for Behaviour and Evolution. He studies a number of different topics relating to behaviour, ageing and wellbeing. He mainly studies humans, but sometimes other animals (especially starlings) too. Dr. Nettle is the author of several books, most notably, Happiness: The Science Behind Your Smile (2005), Personality: What Makes You the Way You Are (2007), and Tyneside Neighbourhoods: Deprivation, Social Life and Social Behaviour in One English City (2015).",
+	"image": "https://i.ytimg.com/vi/FDkEhOiksLw/maxresdefault.jpg",
+	"publishDate": 2019-04-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/166-Daniel-Nettle-The-Evolution-of-Personality--Individual-Variation-And-Behavioral-Flexibility-e3bqg9",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#166 Daniel Nettle: The Evolution of Personality, Individual Variation And Behavioral Flexibility",
+	"youtubeid": "FDkEhOiksLw"
+}
 ---
-<div class="timelinks">
-
 Dr. Daniel Nettle is Professor of Behavioural Science at Newcastle University, where he is a member of the cross-disciplinary Centre for Behaviour and Evolution. He studies a number of different topics relating to behaviour, ageing and wellbeing. He mainly studies humans, but sometimes other animals (especially starlings) too. Dr. Nettle is the author of several books, most notably, Happiness: The Science Behind Your Smile (2005), Personality: What Makes You the Way You Are (2007), and Tyneside Neighbourhoods: Deprivation, Social Life and Social Behaviour in One English City (2015).
 
 In this episode, we talk about personality from an evolutionary perspective. We refer to the importance of individual variation and things like behavioral flexibility. Also, the Big Five, and a couples of examples of how such traits might have evolved, and their neuroscientific underpinnings. Finally, how environmental effects are biologically mediated, and the ways by which personality changes during the life course of people.
@@ -55,5 +48,3 @@ Books/articles referenced in the interview:
 Personality: What Makes You the Way You Are: https://amzn.to/2TmiJta  
 Hanging on to the Edges: Essays on Science, Society and the Academic Life: https://bit.ly/2T1rUAe  
 Status and Mating Success Amongst Visual Artists: https://bit.ly/2XpW3rh
-</div>
-

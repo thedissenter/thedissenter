@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51942506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2Fab3859ce-3b5c-1272-4bbd-75e886f3e8f3.m4a
-draft: false
-excerpt: Dr. Christopher von Rueden is Associate Professor of Leadership Studies at
-  the University of Richmond. An anthropologist with expertise in traditional human
-  societies, his research focuses on how humans form status hierarchies, why we evolved
-  to do so, and the demographic and ecological factors that cause our hierarchies
-  to be more or less coercive. Relatedly, he studies the role of leader-follower relationships
-  in the evolution of human cooperation. In addition to his work on status and leadership,
-  he has published on topics such as why humans differ in personality traits and why
-  we have such unique life histories among primates.
-id: '662'
-image: https://i.ytimg.com/vi/G9PyMEZoPzw/maxresdefault.jpg
-publishDate: 2022-08-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/662-Christopher-von-Rueden-Leadership-and-Hierarchy-from-an-Evolutionary-Perspective-e1iflla
-tags:
-- Anthropology
-title: '#662 Christopher von Rueden: Leadership and Hierarchy from an Evolutionary
-  Perspective'
-youtubeid: G9PyMEZoPzw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51942506/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2Fab3859ce-3b5c-1272-4bbd-75e886f3e8f3.m4a",
+	"draft": false,
+	"episodeid": "662",
+	"excerpt": "Dr. Christopher von Rueden is Associate Professor of Leadership Studies at the University of Richmond. An anthropologist with expertise in traditional human societies, his research focuses on how humans form status hierarchies, why we evolved to do so, and the demographic and ecological factors that cause our hierarchies to be more or less coercive. Relatedly, he studies the role of leader-follower relationships in the evolution of human cooperation. In addition to his work on status and leadership, he has published on topics such as why humans differ in personality traits and why we have such unique life histories among primates.",
+	"image": "https://i.ytimg.com/vi/G9PyMEZoPzw/maxresdefault.jpg",
+	"publishDate": 2022-08-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/662-Christopher-von-Rueden-Leadership-and-Hierarchy-from-an-Evolutionary-Perspective-e1iflla",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#662 Christopher von Rueden: Leadership and Hierarchy from an Evolutionary Perspective",
+	"youtubeid": "G9PyMEZoPzw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 13th 2022.  
 Dr. Christopher von Rueden is Associate Professor of Leadership Studies at the University of Richmond. An anthropologist with expertise in traditional human societies, his research focuses on how humans form status hierarchies, why we evolved to do so, and the demographic and ecological factors that cause our hierarchies to be more or less coercive. Relatedly, he studies the role of leader-follower relationships in the evolution of human cooperation. In addition to his work on status and leadership, he has published on topics such as why humans differ in personality traits and why we have such unique life histories among primates.
 
@@ -46,5 +39,3 @@ Follow Dr. von Rueden’s work:
 Faculty page: https://bit.ly/3rc06II  
 Website: https://bit.ly/3N9ADYy  
 ResearchGate profile: https://bit.ly/3owAswL
-</div>
-

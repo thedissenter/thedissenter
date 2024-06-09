@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/50137146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-5%2F5074eb59-9436-c519-d3e9-8c77f729dbe3.m4a
-draft: false
-excerpt: Dr. Mathias Clasen is associate professor in literature and media at Aarhus
-  University. He is the Director of the Recreational Fear Lab, and Associate Editor
-  of Evolutionary Studies in Imaginative Culture. He studies horror fiction, and is
-  the author of Why Horror Seduces, and A Very Nervous Person's Guide to Horror Movies.
-id: '644'
-image: https://i.ytimg.com/vi/4eShgaEEcpo/maxresdefault.jpg
-publishDate: 2022-06-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/644-Mathias-Clasen-The-Evolutionary-Psychology-of-Horror--Apocalyptic-Stories--and-Villains-e1goijq
-tags:
-- Art
-- Psychology
-title: '#644 Mathias Clasen: The Evolutionary Psychology of Horror, Apocalyptic Stories,
-  and Villains'
-youtubeid: 4eShgaEEcpo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/50137146/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-5%2F5074eb59-9436-c519-d3e9-8c77f729dbe3.m4a",
+	"draft": false,
+	"episodeid": "644",
+	"excerpt": "Dr. Mathias Clasen is associate professor in literature and media at Aarhus University. He is the Director of the Recreational Fear Lab, and Associate Editor of Evolutionary Studies in Imaginative Culture. He studies horror fiction, and is the author of Why Horror Seduces, and A Very Nervous Person's Guide to Horror Movies.",
+	"image": "https://i.ytimg.com/vi/4eShgaEEcpo/maxresdefault.jpg",
+	"publishDate": 2022-06-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/644-Mathias-Clasen-The-Evolutionary-Psychology-of-Horror--Apocalyptic-Stories--and-Villains-e1goijq",
+	"tags": [
+		"Art",
+		"Psychology"
+	],
+	"title": "#644 Mathias Clasen: The Evolutionary Psychology of Horror, Apocalyptic Stories, and Villains",
+	"youtubeid": "4eShgaEEcpo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 5th 2022.  
 Dr. Mathias Clasen is associate professor in literature and media at Aarhus University. He is the Director of the Recreational Fear Lab, and Associate Editor of Evolutionary Studies in Imaginative Culture. He studies horror fiction, and is the author of Why Horror Seduces, and A Very Nervous Person's Guide to Horror Movies.
 
@@ -49,5 +46,3 @@ Faculty page: https://bit.ly/3t2HmfJ
 ResearchGate profile: https://bit.ly/3mQM3pw  
 A Very Nervous Person’s Guide to Horror Movies: https://amzn.to/3i3Ctg8  
 Twitter handle: @MathiasClasen
-</div>
-

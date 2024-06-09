@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682496-44100-2-af9111284a3f3.mp3
-draft: false
-excerpt: "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the University\
-  \ of York. She holds degrees in Philosophy from Yale, Oxford and Princeton and has\
-  \ taught in the USA, Canada, and Germany. Dr. Wilson teaches and writes in the history\
-  \ of modern philosophy and on early modern science and also works in the areas of\
-  \ ethics and aesthetics with a special interest in the evolution of morality and\
-  \ the science behind visual experience. She\u2019s the author of the book Moral\
-  \ Animals: Ideals and Constraints in Moral Theory."
-id: '78'
-image: https://i.ytimg.com/vi/cWKDCe2JdQw/maxresdefault.jpg
-publishDate: 2018-09-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/78-Catherine-Wilson-How-to-Reach-Morality--Egalitarianism--Affirmative-Action--and-Feminism-e2rjfs
-tags:
-- Philosophy
-title: '#78 Catherine Wilson: How to Reach Morality, Egalitarianism, Affirmative Action,
-  and Feminism'
-youtubeid: cWKDCe2JdQw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682496-44100-2-af9111284a3f3.mp3",
+	"draft": false,
+	"episodeid": "78",
+	"excerpt": "Dr. Catherine Wilson is Anniversary Professor of Philosophy at the University of York. She holds degrees in Philosophy from Yale, Oxford and Princeton and has taught in the USA, Canada, and Germany. Dr. Wilson teaches and writes in the history of modern philosophy and on early modern science and also works in the areas of ethics and aesthetics with a special interest in the evolution of morality and the science behind visual experience. She’s the author of the book Moral Animals: Ideals and Constraints in Moral Theory.",
+	"image": "https://i.ytimg.com/vi/cWKDCe2JdQw/maxresdefault.jpg",
+	"publishDate": 2018-09-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/78-Catherine-Wilson-How-to-Reach-Morality--Egalitarianism--Affirmative-Action--and-Feminism-e2rjfs",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#78 Catherine Wilson: How to Reach Morality, Egalitarianism, Affirmative Action, and Feminism",
+	"youtubeid": "cWKDCe2JdQw"
+}
 ---
-<div class="timelinks">
-
 Dr. Catherine Wilson is Anniversary Professor of Philosophy at the University of York. She holds degrees in Philosophy from Yale, Oxford and Princeton and has taught in the USA, Canada, and Germany. Dr. Wilson teaches and writes in the history of modern philosophy and on early modern science and also works in the areas of ethics and aesthetics with a special interest in the evolution of morality and the science behind visual experience. She’s the author of the book Moral Animals: Ideals and Constraints in Moral Theory.
 
 Today, the entire conversation revolves around the major topics covered in Dr. Wilson’s book, Moral Animals. We start with an exploration of the sources of morality, from primatology to science. We then move on to talk about some forms of morality, like moral realism, moral relativism, and Rawls’ veil of ignorance. And we end up with a discussion of some topics like egalitarianism, feminism, meritocracy, and income inequality.
@@ -49,5 +43,3 @@ Follow Dr. Wilson’s work:
 Faculty page: https://www.york.ac.uk/philosophy/staff/catherine-wilson/#profile  
 Book Moral Animals: https://tinyurl.com/y9rbtvbl  
 Free ebook Metaethics from a First Person Standpoint: https://tinyurl.com/yc7e4oc2
-</div>
-

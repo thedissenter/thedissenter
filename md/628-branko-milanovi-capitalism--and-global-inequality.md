@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47754299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F29e574c5-5bd9-6568-eb4e-9ca53bae33c9.m4a
-draft: false
-excerpt: "Dr. Branko Milanovi\u0107 is Presidential Professor at the Graduate Center\
-  \ and a senior fellow at the Stone Center on Socio-Economic Inequality at The City\
-  \ University of New York (CUNY). Dr. Milanovi\u0107\u2019s main area of work is\
-  \ income inequality, in individual countries and globally, as well as historically,\
-  \ among pre-industrial societies (Roman Empire, Byzantium, and France before the\
-  \ Revolution), and even inequality in soccer. His books include \u201CThe Haves\
-  \ and the Have-nots: A Brief and Idiosyncratic History of Global Inequality\u201D\
-  , \u201CGlobal Inequality: A New Approach for the Age of Globalization\u201D, and\
-  \ \u201CCapitalism, Alone\u201D."
-id: '628'
-image: https://i.ytimg.com/vi/engIPGdURnY/maxresdefault.jpg
-publishDate: 2022-05-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/628-Branko-Milanovi-Capitalism--and-Global-Inequality-e1efrjr
-tags:
-- Politics
-- Economy, Progress
-title: "#628 Branko Milanovi\u0107: Capitalism, and Global Inequality"
-youtubeid: engIPGdURnY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47754299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F29e574c5-5bd9-6568-eb4e-9ca53bae33c9.m4a",
+	"draft": false,
+	"episodeid": "628",
+	"excerpt": "Dr. Branko Milanović is Presidential Professor at the Graduate Center and a senior fellow at the Stone Center on Socio-Economic Inequality at The City University of New York (CUNY). Dr. Milanović’s main area of work is income inequality, in individual countries and globally, as well as historically, among pre-industrial societies (Roman Empire, Byzantium, and France before the Revolution), and even inequality in soccer. His books include “The Haves and the Have-nots: A Brief and Idiosyncratic History of Global Inequality”, “Global Inequality: A New Approach for the Age of Globalization”, and “Capitalism, Alone”.",
+	"image": "https://i.ytimg.com/vi/engIPGdURnY/maxresdefault.jpg",
+	"publishDate": 2022-05-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/628-Branko-Milanovi-Capitalism--and-Global-Inequality-e1efrjr",
+	"tags": [
+		"Politics",
+		"Economy, Progress"
+	],
+	"title": "#628 Branko Milanović: Capitalism, and Global Inequality",
+	"youtubeid": "engIPGdURnY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 16th 2022.  
 Dr. Branko Milanović is Presidential Professor at the Graduate Center and a senior fellow at the Stone Center on Socio-Economic Inequality at The City University of New York (CUNY). Dr. Milanović’s main area of work is income inequality, in individual countries and globally, as well as historically, among pre-industrial societies (Roman Empire, Byzantium, and France before the Revolution), and even inequality in soccer. His books include “The Haves and the Have-nots: A Brief and Idiosyncratic History of Global Inequality”, “Global Inequality: A New Approach for the Age of Globalization”, and “Capitalism, Alone”.
 
@@ -52,5 +45,3 @@ Substack: https://bit.ly/3Ly0Znb
 Books on Amazon: https://amzn.to/2WtDJS6  
 Capitalism, Alone: https://amzn.to/3aRONNc  
 Twitter handle: @BrankoMilan
-</div>
-

@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601769-44100-2-b40f74d15d3c3.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '38'
-image: https://i.ytimg.com/vi/mJIi3hT3SLw/maxresdefault.jpg
-publishDate: 2018-06-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/38-Monique-Borgerhoff-Mulder-Evolutionary-Anthropology--Gender-Roles--Sexual-Selection-e2r9oa
-tags:
-- Anthropology
-title: '#38 Monique Borgerhoff Mulder: Evolutionary Anthropology, Gender Roles, Sexual
-  Selection'
-youtubeid: mJIi3hT3SLw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601769-44100-2-b40f74d15d3c3.mp3",
+	"draft": false,
+	"episodeid": "38",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/mJIi3hT3SLw/maxresdefault.jpg",
+	"publishDate": 2018-06-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/38-Monique-Borgerhoff-Mulder-Evolutionary-Anthropology--Gender-Roles--Sexual-Selection-e2r9oa",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#38 Monique Borgerhoff Mulder: Evolutionary Anthropology, Gender Roles, Sexual Selection",
+	"youtubeid": "mJIi3hT3SLw"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -31,5 +31,4 @@ Aqui, falamos sobre o que é a Antropologia Evolutiva; a conciliação entre a P
 
 Follow Dr. Borgerhoff Mulder’s work:  
 Faculty page: http://anthropology.ucdavis.edu/people/fzborger  
-Her books: https://www.amazon.com/Monique-Borgerhoff-Mulder/e/B001H6U2MM</div>
-
+Her books: https://www.amazon.com/Monique-Borgerhoff-Mulder/e/B001H6U2MM

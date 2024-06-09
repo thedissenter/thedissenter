@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18416225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2Fa0cf2d2d-b197-32b1-952b-fafbbf7507cb.m4a
-draft: false
-excerpt: "Dr. Karenleigh A. Overmann is an associate professor of anthropology (adjunct)\
-  \ at the University of Colorado, Colorado Springs (UCCS) Center for Cognitive Archaeology.\
-  \ She recently completed two years of postdoctoral research at the University of\
-  \ Bergen (MSCA individual fellowship, EU project 785793). She earned her doctorate\
-  \ in archaeology from the University of Oxford as a Clarendon scholar. She also\
-  \ has a master's degree (psychology) and bachelor's (anthropology, philosophy, English)\
-  \ from UCCS. She\u2019s the editor of Squeezing Minds From Stones: Cognitive Archaeology\
-  \ and the Evolution of the Human Mind."
-id: '375'
-image: https://i.ytimg.com/vi/olLKlMiWMk8/maxresdefault.jpg
-publishDate: 2020-10-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/375-Karenleigh-Overmann-Cognitive-Archaeology--Numeracy--and-Language-eigh51
-tags:
-- Archaeology
-- Anthropology
-title: '#375 Karenleigh Overmann: Cognitive Archaeology, Numeracy, and Language'
-youtubeid: olLKlMiWMk8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18416225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2Fa0cf2d2d-b197-32b1-952b-fafbbf7507cb.m4a",
+	"draft": false,
+	"episodeid": "375",
+	"excerpt": "Dr. Karenleigh A. Overmann is an associate professor of anthropology (adjunct) at the University of Colorado, Colorado Springs (UCCS) Center for Cognitive Archaeology. She recently completed two years of postdoctoral research at the University of Bergen (MSCA individual fellowship, EU project 785793). She earned her doctorate in archaeology from the University of Oxford as a Clarendon scholar. She also has a master's degree (psychology) and bachelor's (anthropology, philosophy, English) from UCCS. She’s the editor of Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind.",
+	"image": "https://i.ytimg.com/vi/olLKlMiWMk8/maxresdefault.jpg",
+	"publishDate": 2020-10-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/375-Karenleigh-Overmann-Cognitive-Archaeology--Numeracy--and-Language-eigh51",
+	"tags": [
+		"Archaeology",
+		"Anthropology"
+	],
+	"title": "#375 Karenleigh Overmann: Cognitive Archaeology, Numeracy, and Language",
+	"youtubeid": "olLKlMiWMk8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 21st 2020.  
 Dr. Karenleigh A. Overmann is an associate professor of anthropology (adjunct) at the University of Colorado, Colorado Springs (UCCS) Center for Cognitive Archaeology. She recently completed two years of postdoctoral research at the University of Bergen (MSCA individual fellowship, EU project 785793). She earned her doctorate in archaeology from the University of Oxford as a Clarendon scholar. She also has a master's degree (psychology) and bachelor's (anthropology, philosophy, English) from UCCS. She’s the editor of Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind.
 
@@ -49,5 +43,3 @@ The Center for Cognitive Archaeology: https://bit.ly/2Yms9WV
 ResearchGate profile: https://bit.ly/3ldHMtV  
 Books on Amazon: https://amzn.to/3ggsErN  
 Squeezing Minds From Stones: https://amzn.to/31eeGCy
-</div>
-

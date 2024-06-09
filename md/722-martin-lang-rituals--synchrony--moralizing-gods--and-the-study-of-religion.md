@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/58196794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-27%2F42f29c15-835e-d6cc-f4a8-96e953b7a5cf.m4a
-draft: false
-excerpt: Dr. Martin Lang is an Assistant Professor at Masaryk University investigating
-  the evolution of ritual behavior and the relationship between anxiety and rituals.
-id: '722'
-image: https://i.ytimg.com/vi/oy3iYNtlNDc/maxresdefault.jpg
-publishDate: 2022-12-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/722-Martin-Lang-Rituals--Synchrony--Moralizing-Gods--and-the-Study-of-Religion-e1oehbq
-tags:
-- Anthropology
-title: '#722 Martin Lang: Rituals, Synchrony, Moralizing Gods, and the Study of Religion'
-youtubeid: oy3iYNtlNDc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/58196794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-27%2F42f29c15-835e-d6cc-f4a8-96e953b7a5cf.m4a",
+	"draft": false,
+	"episodeid": "722",
+	"excerpt": "Dr. Martin Lang is an Assistant Professor at Masaryk University investigating the evolution of ritual behavior and the relationship between anxiety and rituals.",
+	"image": "https://i.ytimg.com/vi/oy3iYNtlNDc/maxresdefault.jpg",
+	"publishDate": 2022-12-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/722-Martin-Lang-Rituals--Synchrony--Moralizing-Gods--and-the-Study-of-Religion-e1oehbq",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#722 Martin Lang: Rituals, Synchrony, Moralizing Gods, and the Study of Religion",
+	"youtubeid": "oy3iYNtlNDc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 27th 2022.  
 Dr. Martin Lang is an Assistant Professor at Masaryk University investigating the evolution of ritual behavior and the relationship between anxiety and rituals.
 
@@ -40,5 +40,3 @@ Faculty page: https://bit.ly/3NieAyN
 Website: https://bit.ly/3RbkaVZ  
 ResearchGate profile: https://bit.ly/3sGA0hb  
 Twitter handle: @martinlangcz
-</div>
-

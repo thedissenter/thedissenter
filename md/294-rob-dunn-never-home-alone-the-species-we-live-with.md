@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8844783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881458-44100-2-dd391cbb7e5f1.m4a
-draft: false
-excerpt: "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in the\
-  \ Department of Applied Ecology at North Carolina State University. He is known\
-  \ for efforts to involve the public as citizen scientists in arthropod surveys and\
-  \ bacterial flora studies. His projects include studies of belly button biodiversity,\
-  \ mites that live on human faces, ants in backyards, and fungi and bacteria in houses.\
-  \ He\u2019s the author of five books, his most recent one being Never Home Alone:\
-  \ From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History\
-  \ of Where We Live."
-id: '294'
-image: https://i.ytimg.com/vi/i-zl9pergMI/maxresdefault.jpg
-publishDate: 2020-02-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/294-Rob-Dunn-Never-Home-Alone-The-Species-We-Live-With-e9ce1f
-tags:
-- Biology
-title: '#294 Rob Dunn: Never Home Alone; The Species We Live With'
-youtubeid: i-zl9pergMI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8844783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-6%2F36881458-44100-2-dd391cbb7e5f1.m4a",
+	"draft": false,
+	"episodeid": "294",
+	"excerpt": "Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in the Department of Applied Ecology at North Carolina State University. He is known for efforts to involve the public as citizen scientists in arthropod surveys and bacterial flora studies. His projects include studies of belly button biodiversity, mites that live on human faces, ants in backyards, and fungi and bacteria in houses. He’s the author of five books, his most recent one being Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live.",
+	"image": "https://i.ytimg.com/vi/i-zl9pergMI/maxresdefault.jpg",
+	"publishDate": 2020-02-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/294-Rob-Dunn-Never-Home-Alone-The-Species-We-Live-With-e9ce1f",
+	"tags": [
+		"Biology"
+	],
+	"title": "#294 Rob Dunn: Never Home Alone; The Species We Live With",
+	"youtubeid": "i-zl9pergMI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 4th, 2019.  
 Dr. Robert Dunn is William Neal Reynolds Distinguished Professor in the Department of Applied Ecology at North Carolina State University. He is known for efforts to involve the public as citizen scientists in arthropod surveys and bacterial flora studies. His projects include studies of belly button biodiversity, mites that live on human faces, ants in backyards, and fungi and bacteria in houses. He’s the author of five books, his most recent one being Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, the Natural History of Where We Live.
 
@@ -48,5 +42,3 @@ ResearchGate profile: http://bit.ly/2ViJfCD
 Books: http://bit.ly/2rTJLwd  
 Never Home Alone: https://amzn.to/2VgeVIE  
 Twitter handle: @RRobDunn
-</div>
-

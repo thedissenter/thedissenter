@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8719339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36059188-44100-2-924133eb2a269.m4a
-draft: false
-excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the\
-  \ University of Porto. He does work in the areas of philosophy of mind, Nietzsche\u2019\
-  s philosophy, Kant\u2019s philosophy, 19th-century German philosophy, phenomenology,\
-  \ philosophy of perception, and philosophy of action."
-id: '292'
-image: https://i.ytimg.com/vi/sLkJLNkEFbY/maxresdefault.jpg
-publishDate: 2020-02-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/292-Mattia-Riccardi-Nietzsches-Psychology-And-Epistemology-e98jhb
-tags:
-- Philosophy
-title: '#292 Mattia Riccardi: Nietzsche''s Psychology and Epistemology'
-youtubeid: sLkJLNkEFbY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8719339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36059188-44100-2-924133eb2a269.m4a",
+	"draft": false,
+	"episodeid": "292",
+	"excerpt": "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the University of Porto. He does work in the areas of philosophy of mind, Nietzsche’s philosophy, Kant’s philosophy, 19th-century German philosophy, phenomenology, philosophy of perception, and philosophy of action.",
+	"image": "https://i.ytimg.com/vi/sLkJLNkEFbY/maxresdefault.jpg",
+	"publishDate": 2020-02-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/292-Mattia-Riccardi-Nietzsches-Psychology-And-Epistemology-e98jhb",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#292 Mattia Riccardi: Nietzsche's Psychology and Epistemology",
+	"youtubeid": "sLkJLNkEFbY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 29th, 2019.  
 Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the University of Porto. He does work in the areas of philosophy of mind, Nietzsche’s philosophy, Kant’s philosophy, 19th-century German philosophy, phenomenology, philosophy of perception, and philosophy of action.
 
@@ -37,5 +35,3 @@ Institute of Philosophy page: http://bit.ly/2kpG8uq
 Academia.edu profile: http://bit.ly/2OZ08z9  
 PhilPeople profile: http://bit.ly/2mlsB7K  
 Works on ResearchGate: http://bit.ly/2kIArYV
-</div>
-

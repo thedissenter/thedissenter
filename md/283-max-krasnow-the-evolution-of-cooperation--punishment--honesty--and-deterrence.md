@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8340921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33420462-44100-2-67e720e5a211d.m4a
-draft: false
-excerpt: "Dr. Max Krasnow is Associate Professor in the Department of Psychology at\
-  \ Harvard University. His research interests include: evolutionary psychology, evolution\
-  \ of sociality, psychology of cooperation and punishment, ecological rationality,\
-  \ and psychology of foraging. Dr. Krasnow\u2019s primary line of research focuses\
-  \ on the evolutionary origins and computational design of the mechanisms underlying\
-  \ human cooperation and social behavior. Why are we more generous, trusting and\
-  \ cooperative, but also vengeful and punitive than an otherwise rational analysis\
-  \ would predict? He has been exploring how the answers to these questions neatly\
-  \ fall out by considering reliable features of the ancestral ecology and simple\
-  \ cognitive mechanisms that could evolve to benefit from them."
-id: '283'
-image: https://i.ytimg.com/vi/6Vtfu9lM-bU/maxresdefault.jpg
-publishDate: 2020-01-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/283-Max-Krasnow-The-Evolution-of-Cooperation--Punishment--Honesty--and-Deterrence-e8t1vp
-tags:
-- Psychology
-title: '#283 Max Krasnow: The Evolution of Cooperation, Punishment, Honesty, and Deterrence'
-youtubeid: 6Vtfu9lM-bU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8340921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-8%2F33420462-44100-2-67e720e5a211d.m4a",
+	"draft": false,
+	"episodeid": "283",
+	"excerpt": "Dr. Max Krasnow is Associate Professor in the Department of Psychology at Harvard University. His research interests include: evolutionary psychology, evolution of sociality, psychology of cooperation and punishment, ecological rationality, and psychology of foraging. Dr. Krasnow’s primary line of research focuses on the evolutionary origins and computational design of the mechanisms underlying human cooperation and social behavior. Why are we more generous, trusting and cooperative, but also vengeful and punitive than an otherwise rational analysis would predict? He has been exploring how the answers to these questions neatly fall out by considering reliable features of the ancestral ecology and simple cognitive mechanisms that could evolve to benefit from them.",
+	"image": "https://i.ytimg.com/vi/6Vtfu9lM-bU/maxresdefault.jpg",
+	"publishDate": 2020-01-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/283-Max-Krasnow-The-Evolution-of-Cooperation--Punishment--Honesty--and-Deterrence-e8t1vp",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#283 Max Krasnow: The Evolution of Cooperation, Punishment, Honesty, and Deterrence",
+	"youtubeid": "6Vtfu9lM-bU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 8th, 2019.  
 Dr. Max Krasnow is Associate Professor in the Department of Psychology at Harvard University. His research interests include: evolutionary psychology, evolution of sociality, psychology of cooperation and punishment, ecological rationality, and psychology of foraging. Dr. Krasnow’s primary line of research focuses on the evolutionary origins and computational design of the mechanisms underlying human cooperation and social behavior. Why are we more generous, trusting and cooperative, but also vengeful and punitive than an otherwise rational analysis would predict? He has been exploring how the answers to these questions neatly fall out by considering reliable features of the ancestral ecology and simple cognitive mechanisms that could evolve to benefit from them.
 
@@ -53,5 +45,3 @@ Evolution of direct reciprocity under uncertainty can explain human generosity i
 Group Cooperation without Group Selection: Modest Punishment Can Recruit Much Cooperation: http://bit.ly/2NREKvs  
 The Importance of Being Honest?: Evidence that Deception May Not Pollute Social Science Subject Pools After All: http://bit.ly/2NZ2FJw  
 The psychology of deterrence explains why group membership matters for third-party punishment: http://bit.ly/36LwfL6
-</div>
-

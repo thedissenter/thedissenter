@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/49378734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-21%2Fd5e4547b-3c1d-5402-e7e9-4fc28a33cc79.m4a
-draft: false
-excerpt: Dr. Robert Barton is Professor in the Department of Anthropology, Member
-  of the Durham Cultural Evolution Research Centre at Durham University, UK. He is
-  an evolutionary biologist/anthropologist interested in brains, behavior and cognition,
-  using phylogenetic comparative methods to study how these traits evolved. He developed
-  and tested the 'Visual brain hypothesis' for primate brain size evolution. He is
-  currently interested in the underestimated role of the cerebellum in brain evolution
-  and cognition. He also works on the evolutionary and cultural significance of the
-  color red.
-id: '641'
-image: https://i.ytimg.com/vi/G-codWLb61c/maxresdefault.jpg
-publishDate: 2022-06-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/641-Robert-Barton-The-Evolution-of-the-Primate-Brain--The-Visual-Brain--and-the-Color-Red-e1g1dve
-tags:
-- Biology
-- Neuroscience
-- Anthropology
-title: '#641 Robert Barton: The Evolution of the Primate Brain, The Visual Brain,
-  and the Color Red'
-youtubeid: G-codWLb61c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/49378734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-21%2Fd5e4547b-3c1d-5402-e7e9-4fc28a33cc79.m4a",
+	"draft": false,
+	"episodeid": "641",
+	"excerpt": "Dr. Robert Barton is Professor in the Department of Anthropology, Member of the Durham Cultural Evolution Research Centre at Durham University, UK. He is an evolutionary biologist/anthropologist interested in brains, behavior and cognition, using phylogenetic comparative methods to study how these traits evolved. He developed and tested the 'Visual brain hypothesis' for primate brain size evolution. He is currently interested in the underestimated role of the cerebellum in brain evolution and cognition. He also works on the evolutionary and cultural significance of the color red.",
+	"image": "https://i.ytimg.com/vi/G-codWLb61c/maxresdefault.jpg",
+	"publishDate": 2022-06-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/641-Robert-Barton-The-Evolution-of-the-Primate-Brain--The-Visual-Brain--and-the-Color-Red-e1g1dve",
+	"tags": [
+		"Biology",
+		"Neuroscience",
+		"Anthropology"
+	],
+	"title": "#641 Robert Barton: The Evolution of the Primate Brain, The Visual Brain, and the Color Red",
+	"youtubeid": "G-codWLb61c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 21st 2022.  
 Dr. Robert Barton is Professor in the Department of Anthropology, Member of the Durham Cultural Evolution Research Centre at Durham University, UK. He is an evolutionary biologist/anthropologist interested in brains, behavior and cognition, using phylogenetic comparative methods to study how these traits evolved. He developed and tested the 'Visual brain hypothesis' for primate brain size evolution. He is currently interested in the underestimated role of the cerebellum in brain evolution and cognition. He also works on the evolutionary and cultural significance of the color red.
 
@@ -48,5 +41,3 @@ Follow Dr. Barton’s work:
 Faculty page: https://bit.ly/3tn4p3B  
 ResearchGate profile: https://bit.ly/3DxziWU  
 Twitter handle: @howbrainsevolve
-</div>
-

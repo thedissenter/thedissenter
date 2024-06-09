@@ -1,17 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1985994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571353-44100-2-430b4f6b5a283.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter'
-id: '3'
-image: https://i.ytimg.com/vi/6gJ_Y3eFaNc/maxresdefault.jpg
-publishDate: 2018-02-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/3-Louise-Mazanti-Alienation-in-the-Modern-World--Alienao-no-Mundo-Moderno-e2r40a
-title: "#3 Louise Mazanti: Alienation in the Modern World | Aliena\xE7\xE3o no Mundo\
-  \ Moderno"
-youtubeid: 6gJ_Y3eFaNc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1985994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571353-44100-2-430b4f6b5a283.mp3",
+	"draft": false,
+	"episodeid": "3",
+	"excerpt": "Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter",
+	"image": "https://i.ytimg.com/vi/6gJ_Y3eFaNc/maxresdefault.jpg",
+	"publishDate": 2018-02-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/3-Louise-Mazanti-Alienation-in-the-Modern-World--Alienao-no-Mundo-Moderno-e2r40a",
+	"title": "#3 Louise Mazanti: Alienation in the Modern World | Alienação no Mundo Moderno",
+	"youtubeid": "6gJ_Y3eFaNc"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso suporte em: https://www.patreon.com/thedissenter
 
 Follow me on / Sigam-me:  
@@ -34,5 +33,4 @@ Follow Dr. Mazanti / Sigam a Dra. Mazanti:
 Website: https://www.mazantilousada.com/  
 Twitter: https://twitter.com/louise_mazanti  
 Book Real Sex / Livro Real Sex: https://tinyurl.com/yaya8kw6  
-Youtube channel / Canal do Youtube: https://www.youtube.com/user/heartdaka</div>
-
+Youtube channel / Canal do Youtube: https://www.youtube.com/user/heartdaka

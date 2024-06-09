@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12282896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63583265-44100-2-7fbe12b608484.m4a
-draft: false
-excerpt: Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of
-  the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological
-  research has revolutionized the understanding of animal domestication. She has conducted
-  extensive fieldwork throughout the Near East, including in Iran, Israel, Turkey,
-  and Syria. Her research focuses on the origins of plant and animal domestication,
-  and the impacts of agriculture on human prehistory. She has also pioneered approaches
-  that combine archaeological and genetic analyses of plant and animal remains from
-  archaeological sites.
-id: '336'
-image: https://i.ytimg.com/vi/qjcf6K1zyQU/maxresdefault.jpg
-publishDate: 2020-05-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/336-Melinda-Zeder-Domestication--And-The-Origins-and-Dispersal-of-Agriculture-eclbig
-tags:
-- Archaeology
-- Anthropology
-title: '#336 Melinda Zeder: Domestication, And The Origins and Dispersal of Agriculture'
-youtubeid: qjcf6K1zyQU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12282896/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63583265-44100-2-7fbe12b608484.m4a",
+	"draft": false,
+	"episodeid": "336",
+	"excerpt": "Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological research has revolutionized the understanding of animal domestication. She has conducted extensive fieldwork throughout the Near East, including in Iran, Israel, Turkey, and Syria. Her research focuses on the origins of plant and animal domestication, and the impacts of agriculture on human prehistory. She has also pioneered approaches that combine archaeological and genetic analyses of plant and animal remains from archaeological sites.",
+	"image": "https://i.ytimg.com/vi/qjcf6K1zyQU/maxresdefault.jpg",
+	"publishDate": 2020-05-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/336-Melinda-Zeder-Domestication--And-The-Origins-and-Dispersal-of-Agriculture-eclbig",
+	"tags": [
+		"Archaeology",
+		"Anthropology"
+	],
+	"title": "#336 Melinda Zeder: Domestication, And The Origins and Dispersal of Agriculture",
+	"youtubeid": "qjcf6K1zyQU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 9th, 2020.  
 Dr. Melinda Zeder is Curator Emeritus in the Department of Anthropology of the National Museum of Natural History, Smithsonian Institution. Her zooarchaeological research has revolutionized the understanding of animal domestication. She has conducted extensive fieldwork throughout the Near East, including in Iran, Israel, Turkey, and Syria. Her research focuses on the origins of plant and animal domestication, and the impacts of agriculture on human prehistory. She has also pioneered approaches that combine archaeological and genetic analyses of plant and animal remains from archaeological sites.
 
@@ -43,5 +37,3 @@ Faculty page: https://s.si.edu/3bF1mu9
 Academia.edu profile: https://bit.ly/3aZ3Ouy  
 ResearchGate profile: http://bit.ly/2SuYqsq  
 YouTube videos: https://bit.ly/2xhmpDI
-</div>
-

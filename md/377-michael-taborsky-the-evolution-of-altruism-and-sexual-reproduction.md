@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/17068238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2Fdf411f94-7a91-06ec-cf8d-6ae6f0f8aa10.m4a
-draft: false
-excerpt: Dr. Michael Taborsky is the Director of the Behavioural Ecology Department
-  and Co-director of the Institute of Ecology and Evolution at the University of Bern,
-  Switzerland. His major research focus is the adaptive function of behavior, with
-  emphasis on cooperation and conflict, sociality and sexual reproduction.
-id: '377'
-image: https://i.ytimg.com/vi/nNsF86y6VyQ/maxresdefault.jpg
-publishDate: 2020-10-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/377-Michael-Taborsky-The-Evolution-of-Altruism-and-Sexual-Reproduction-eh7coe
-tags:
-- Biology
-title: '#377 Michael Taborsky: The Evolution of Altruism and Sexual Reproduction'
-youtubeid: nNsF86y6VyQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/17068238/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2Fdf411f94-7a91-06ec-cf8d-6ae6f0f8aa10.m4a",
+	"draft": false,
+	"episodeid": "377",
+	"excerpt": "Dr. Michael Taborsky is the Director of the Behavioural Ecology Department and Co-director of the Institute of Ecology and Evolution at the University of Bern, Switzerland. His major research focus is the adaptive function of behavior, with emphasis on cooperation and conflict, sociality and sexual reproduction.",
+	"image": "https://i.ytimg.com/vi/nNsF86y6VyQ/maxresdefault.jpg",
+	"publishDate": 2020-10-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/377-Michael-Taborsky-The-Evolution-of-Altruism-and-Sexual-Reproduction-eh7coe",
+	"tags": [
+		"Biology"
+	],
+	"title": "#377 Michael Taborsky: The Evolution of Altruism and Sexual Reproduction",
+	"youtubeid": "nNsF86y6VyQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 21st, 2020.  
 Dr. Michael Taborsky is the Director of the Behavioural Ecology Department and Co-director of the Institute of Ecology and Evolution at the University of Bern, Switzerland. His major research focus is the adaptive function of behavior, with emphasis on cooperation and conflict, sociality and sexual reproduction.
 
@@ -40,5 +38,3 @@ Follow Dr. Taborsky’s work:
 Faculty page: https://bit.ly/2Rp3Ynt  
 Institute of Ecology and Evolution: https://bit.ly/2CzSjhd  
 ResearchGate progile: https://bit.ly/2y9V7it
-</div>
-

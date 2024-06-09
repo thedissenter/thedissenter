@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2005484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706630-44100-2-75b759b203157.mp3
-draft: false
-excerpt: '------------------Support me---------  '
-id: '84'
-image: https://i.ytimg.com/vi/xPzaneVj7Oo/maxresdefault.jpg
-publishDate: 2018-10-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/84-Garett-Jones-Hive-Mind--The-Importance-of-National-IQ--and-Immigration-e2rn1c
-tags:
-- Economics
-title: '#84 Garett Jones: Hive Mind, The Importance of National IQ, and Immigration'
-youtubeid: xPzaneVj7Oo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2005484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706630-44100-2-75b759b203157.mp3",
+	"draft": false,
+	"episodeid": "84",
+	"excerpt": "------------------Support me---------  ",
+	"image": "https://i.ytimg.com/vi/xPzaneVj7Oo/maxresdefault.jpg",
+	"publishDate": 2018-10-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/84-Garett-Jones-Hive-Mind--The-Importance-of-National-IQ--and-Immigration-e2rn1c",
+	"tags": [
+		"Economics"
+	],
+	"title": "#84 Garett Jones: Hive Mind, The Importance of National IQ, and Immigration",
+	"youtubeid": "xPzaneVj7Oo"
+}
 ---
-<div class="timelinks">
-
 ------------------Support me---------  
 Patreon: https://www.patreon.com/thedissenter  
 PayPal: paypal.me/thedissenter
@@ -44,5 +45,3 @@ Follow Dr. Jones’s work:
 Faculty page: https://economics.gmu.edu/people/gjonesb  
 Hive Mind: https://tinyurl.com/y9w2rdea  
 Twitter handle: @GarettJones
-</div>
-

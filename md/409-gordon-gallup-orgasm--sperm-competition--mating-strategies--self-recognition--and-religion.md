@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/21242656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2Fbff71e51-4210-26e4-809c-e4a3ec35bc22.m4a
-draft: false
-excerpt: Dr. Gordon Gallup is Professor in the Department of Psychology at the University
-  of Albany. He is best known for developing the mirror test, also called the mirror
-  self-recognition test, or MSR, in 1970, which gauges self-awareness of animals.
-  He also studied tonic immobility, or "animal hypnosis,". His later work on animal
-  behavior focused on ethological approaches to the study of animal behavior under
-  laboratory conditions. Since the 1990s, Dr. Gallup has researched human evolutionary
-  psychology exclusively.
-id: '409'
-image: https://i.ytimg.com/vi/IdAYPfloKzo/maxresdefault.jpg
-publishDate: 2020-12-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/409-Gordon-Gallup-Orgasm--Sperm-Competition--Mating-Strategies--Self-Recognition--and-Religion-el6pb0
-tags:
-- Biology
-- Psychology
-title: '#409 Gordon Gallup: Orgasm, Sperm Competition, Mating Strategies, Self-Recognition,
-  and Religion'
-youtubeid: IdAYPfloKzo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/21242656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-17%2Fbff71e51-4210-26e4-809c-e4a3ec35bc22.m4a",
+	"draft": false,
+	"episodeid": "409",
+	"excerpt": "Dr. Gordon Gallup is Professor in the Department of Psychology at the University of Albany. He is best known for developing the mirror test, also called the mirror self-recognition test, or MSR, in 1970, which gauges self-awareness of animals. He also studied tonic immobility, or \"animal hypnosis,\". His later work on animal behavior focused on ethological approaches to the study of animal behavior under laboratory conditions. Since the 1990s, Dr. Gallup has researched human evolutionary psychology exclusively.",
+	"image": "https://i.ytimg.com/vi/IdAYPfloKzo/maxresdefault.jpg",
+	"publishDate": 2020-12-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/409-Gordon-Gallup-Orgasm--Sperm-Competition--Mating-Strategies--Self-Recognition--and-Religion-el6pb0",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#409 Gordon Gallup: Orgasm, Sperm Competition, Mating Strategies, Self-Recognition, and Religion",
+	"youtubeid": "IdAYPfloKzo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 14th 2020.  
 Dr. Gordon Gallup is Professor in the Department of Psychology at the University of Albany. He is best known for developing the mirror test, also called the mirror self-recognition test, or MSR, in 1970, which gauges self-awareness of animals. He also studied tonic immobility, or "animal hypnosis,". His later work on animal behavior focused on ethological approaches to the study of animal behavior under laboratory conditions. Since the 1990s, Dr. Gallup has researched human evolutionary psychology exclusively.
 
@@ -41,5 +35,3 @@ Time Links:
 Follow Dr. Gallup’s work:  
 Faculty page: https://bit.ly/2GQ9Mo5  
 ResearchGate profile: https://bit.ly/315Qulk
-</div>
-

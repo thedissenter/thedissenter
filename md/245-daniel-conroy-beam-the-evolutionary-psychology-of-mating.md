@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4338786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594066-44100-2-fdfc851af63f5.m4a
-draft: false
-excerpt: Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Department
-  of Psychological & Brain Sciences at the University of California, Santa Barbara
-  (UCSB). He uses an evolutionary perspective to understand how mate preferences are
-  linked to actual mating outcomes. Specifically, he is interested in how mate preferences
-  are integrated with one another computationally in order to make mating decisions.
-  His work combines agent-based modeling of mate choice evolution with studies of
-  real couples to compare and explore candidate algorithms for how people select their
-  mating strategies, evaluate potential mates, and regulate their relationships.
-id: '245'
-image: https://i.ytimg.com/vi/kt7-p53tcdM/maxresdefault.jpg
-publishDate: 2019-10-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/245-Daniel-Conroy-Beam-The-Evolutionary-Psychology-of-Mating-e52tl2
-tags:
-- Psychology
-title: '#245 Daniel Conroy-Beam: The Evolutionary Psychology of Mating'
-youtubeid: kt7-p53tcdM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4338786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21594066-44100-2-fdfc851af63f5.m4a",
+	"draft": false,
+	"episodeid": "245",
+	"excerpt": "Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Department of Psychological & Brain Sciences at the University of California, Santa Barbara (UCSB). He uses an evolutionary perspective to understand how mate preferences are linked to actual mating outcomes. Specifically, he is interested in how mate preferences are integrated with one another computationally in order to make mating decisions. His work combines agent-based modeling of mate choice evolution with studies of real couples to compare and explore candidate algorithms for how people select their mating strategies, evaluate potential mates, and regulate their relationships.",
+	"image": "https://i.ytimg.com/vi/kt7-p53tcdM/maxresdefault.jpg",
+	"publishDate": 2019-10-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/245-Daniel-Conroy-Beam-The-Evolutionary-Psychology-of-Mating-e52tl2",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#245 Daniel Conroy-Beam: The Evolutionary Psychology of Mating",
+	"youtubeid": "kt7-p53tcdM"
+}
 ---
-<div class="timelinks">
-
 Dr. Daniel Conroy-Beam is Assistant Professor of Psychology in the Department of Psychological & Brain Sciences at the University of California, Santa Barbara (UCSB). He uses an evolutionary perspective to understand how mate preferences are linked to actual mating outcomes. Specifically, he is interested in how mate preferences are integrated with one another computationally in order to make mating decisions. His work combines agent-based modeling of mate choice evolution with studies of real couples to compare and explore candidate algorithms for how people select their mating strategies, evaluate potential mates, and regulate their relationships.
 
 In this episode, we focus on human mating. We talk about some of the most well-established mate preferences. We then get into how people choose mates based on these same preferences, and we focus mostly on Euclidian algorithms, as explored by Dr. Conroy-Beam in his work, and all of the phenomena that we are able to study and understand through them. We specifically address things like relationship satisfaction, mate switching, and mate retention tactics. We also talk about studying sex differences using multivariate analyses, opposite-sex friendships, and mysteries in human mating that we have yet to answer. We end up by talking about some limitations in traditional evolutionary psychology, and how things are expected to progress in the near future.
@@ -54,5 +48,3 @@ Friends with Benefits: The Evolved Psychology of Same- and Opposite-Sex Friendsh
 How Sexually Dimorphic Are Human Mate Preferences?: http://bit.ly/2MpCjBT  
 The mate switching hypothesis: http://bit.ly/2ZklH4y  
 What predicts romantic relationship satisfaction and mate retention intensity: mate preference fulfillment or mate value discrepancies?: http://bit.ly/2Z9UuSf
-</div>
-

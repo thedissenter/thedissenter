@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12282602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63581294-44100-2-0622b22b4104d.m4a
-draft: false
-excerpt: Dr. Brian Hayden is Retired Professor in the Department of Archaeology at
-  Simon Fraser University, and he also holds a research position at the University
-  of British Columbia. His research topics include Cultural ecology and political
-  ecology; Hunting and gathering societies; transegalitarian societies; Aggrandizer
-  strategies, especially feasting and secret societies; Prehistory of religion & early
-  ritual structures; and lithic technology.
-id: '334'
-image: https://i.ytimg.com/vi/9WwxKj07f4M/maxresdefault.jpg
-publishDate: 2020-05-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/334-Brian-Hayden-Cultural-Ecology--Feasting--Ritual-Sanctuaries--And-Funerals-eclb9a
-tags:
-- Anthropology
-title: '#334 Brian Hayden: Cultural Ecology, Feasting, Ritual Sanctuaries, And Funerals'
-youtubeid: 9WwxKj07f4M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12282602/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-11%2F63581294-44100-2-0622b22b4104d.m4a",
+	"draft": false,
+	"episodeid": "334",
+	"excerpt": "Dr. Brian Hayden is Retired Professor in the Department of Archaeology at Simon Fraser University, and he also holds a research position at the University of British Columbia. His research topics include Cultural ecology and political ecology; Hunting and gathering societies; transegalitarian societies; Aggrandizer strategies, especially feasting and secret societies; Prehistory of religion & early ritual structures; and lithic technology.",
+	"image": "https://i.ytimg.com/vi/9WwxKj07f4M/maxresdefault.jpg",
+	"publishDate": 2020-05-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/334-Brian-Hayden-Cultural-Ecology--Feasting--Ritual-Sanctuaries--And-Funerals-eclb9a",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#334 Brian Hayden: Cultural Ecology, Feasting, Ritual Sanctuaries, And Funerals",
+	"youtubeid": "9WwxKj07f4M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 6th, 2020.  
 Dr. Brian Hayden is Retired Professor in the Department of Archaeology at Simon Fraser University, and he also holds a research position at the University of British Columbia. His research topics include Cultural ecology and political ecology; Hunting and gathering societies; transegalitarian societies; Aggrandizer strategies, especially feasting and secret societies; Prehistory of religion & early ritual structures; and lithic technology.
 
@@ -39,5 +35,3 @@ Follow Dr. Hayden’s work:
 Faculty page: http://bit.ly/2ul67bC  
 ResearchGate profile: http://bit.ly/2vhgq06  
 Amazon page: https://amzn.to/2XgvR4K
-</div>
-

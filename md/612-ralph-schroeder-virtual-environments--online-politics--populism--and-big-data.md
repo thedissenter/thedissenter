@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/46431740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2Fdef9d674-666c-f7c3-e349-0f8b6489dff3.m4a
-draft: false
-excerpt: 'Dr. Ralph Schroeder is Professor in Social Science of the Internet at the
-  Oxford Internet Institute.  Dr. Schroeder has interests in virtual environments,
-  the social aspects of e-science, and the sociology of science and technology. He
-  has written extensively about virtual reality technology. He is the author of several
-  books, including Knowledge Machines: Digital Transformations of the Sciences and
-  Humanities, and Social Theory After the Internet: Media, Technology, and Globalization.'
-id: '612'
-image: https://i.ytimg.com/vi/9twYG85lNFU/maxresdefault.jpg
-publishDate: 2022-04-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/612-Ralph-Schroeder-Virtual-Environments--Online-Politics--Populism--and-Big-Data-e1d7g1s
-tags:
-- Politics
-- Sociology
-title: '#612 Ralph Schroeder: Virtual Environments, Online Politics, Populism, and
-  Big Data'
-youtubeid: 9twYG85lNFU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/46431740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-20%2Fdef9d674-666c-f7c3-e349-0f8b6489dff3.m4a",
+	"draft": false,
+	"episodeid": "612",
+	"excerpt": "Dr. Ralph Schroeder is Professor in Social Science of the Internet at the Oxford Internet Institute.  Dr. Schroeder has interests in virtual environments, the social aspects of e-science, and the sociology of science and technology. He has written extensively about virtual reality technology. He is the author of several books, including Knowledge Machines: Digital Transformations of the Sciences and Humanities, and Social Theory After the Internet: Media, Technology, and Globalization.",
+	"image": "https://i.ytimg.com/vi/9twYG85lNFU/maxresdefault.jpg",
+	"publishDate": 2022-04-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/612-Ralph-Schroeder-Virtual-Environments--Online-Politics--Populism--and-Big-Data-e1d7g1s",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#612 Ralph Schroeder: Virtual Environments, Online Politics, Populism, and Big Data",
+	"youtubeid": "9twYG85lNFU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 19th 2022.  
 Dr. Ralph Schroeder is Professor in Social Science of the Internet at the Oxford Internet Institute.  Dr. Schroeder has interests in virtual environments, the social aspects of e-science, and the sociology of science and technology. He has written extensively about virtual reality technology. He is the author of several books, including Knowledge Machines: Digital Transformations of the Sciences and Humanities, and Social Theory After the Internet: Media, Technology, and Globalization.
 
@@ -41,5 +36,3 @@ Time Links:
 Follow Dr. Schroeder’s work:  
 Faculty page: https://bit.ly/3JQBv3j  
 Works on ResearchGate: https://bit.ly/3rjvqlD
-</div>
-

@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2241649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121828-44100-2-8818ebd12e42.m4a
-draft: false
-excerpt: "Dr. Paul Zak is an American neuroeconomist, who is known as a proponent\
-  \ of the field. His current work applies neuroscience to build high performance\
-  \ organizations and to understand and guide consumer decisions. Dr. Zak is the founding\
-  \ Director of the Center for Neuroeconomics Studies and Professor of Economics,\
-  \ Psychology and Management at Claremont Graduate University. He has degrees in\
-  \ mathematics and economics from San Diego State University, a Ph.D. in economics\
-  \ from University of Pennsylvania, and post-doctoral training in neuroimaging from\
-  \ Harvard. He\u2019s also the author of books like The Moral Molecule: The Source\
-  \ of Love and Prosperity, and Trust Factor: The Science of Creating High-Performance\
-  \ Companies."
-id: '140'
-image: https://i.ytimg.com/vi/zIuk3dIvmn0/maxresdefault.jpg
-publishDate: 2019-02-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/140-Paul-Zak-Neuroeconomics--Oxytocin--Trust--Companies-and-Society-e32tlh
-tags:
-- Neuroscience
-title: '#140 Paul Zak: Neuroeconomics, Oxytocin, Trust, Companies and Society'
-youtubeid: zIuk3dIvmn0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2241649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121828-44100-2-8818ebd12e42.m4a",
+	"draft": false,
+	"episodeid": "140",
+	"excerpt": "Dr. Paul Zak is an American neuroeconomist, who is known as a proponent of the field. His current work applies neuroscience to build high performance organizations and to understand and guide consumer decisions. Dr. Zak is the founding Director of the Center for Neuroeconomics Studies and Professor of Economics, Psychology and Management at Claremont Graduate University. He has degrees in mathematics and economics from San Diego State University, a Ph.D. in economics from University of Pennsylvania, and post-doctoral training in neuroimaging from Harvard. He’s also the author of books like The Moral Molecule: The Source of Love and Prosperity, and Trust Factor: The Science of Creating High-Performance Companies.",
+	"image": "https://i.ytimg.com/vi/zIuk3dIvmn0/maxresdefault.jpg",
+	"publishDate": 2019-02-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/140-Paul-Zak-Neuroeconomics--Oxytocin--Trust--Companies-and-Society-e32tlh",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#140 Paul Zak: Neuroeconomics, Oxytocin, Trust, Companies and Society",
+	"youtubeid": "zIuk3dIvmn0"
+}
 ---
-<div class="timelinks">
-
 Dr. Paul Zak is an American neuroeconomist, who is known as a proponent of the field. His current work applies neuroscience to build high performance organizations and to understand and guide consumer decisions. Dr. Zak is the founding Director of the Center for Neuroeconomics Studies and Professor of Economics, Psychology and Management at Claremont Graduate University. He has degrees in mathematics and economics from San Diego State University, a Ph.D. in economics from University of Pennsylvania, and post-doctoral training in neuroimaging from Harvard. He’s also the author of books like The Moral Molecule: The Source of Love and Prosperity, and Trust Factor: The Science of Creating High-Performance Companies.
 
 In this episode, we talk about neuroeconomics, and the role that oxytocin plays in attachment, and in promoting trust among people that are part of the same organization or society. We go through how oxytocin evolved, and the kinds of prosocial behavior that it mediates. We also refer to other hormones, like testosterone and cortisol, and how they interact with oxytocin and might change its behavioral effects. And, finally, we talk about how we can foster trust in companies and other sorts of human organizations, reduce stress, increase productivity, and empower employees.
@@ -47,5 +39,3 @@ Faculty page: https://tinyurl.com/y8ctlfue
 Personal website: https://www.pauljzak.com/  
 Ofactor: https://ofactor.com/  
 Books: https://tinyurl.com/ydygmv95
-</div>
-

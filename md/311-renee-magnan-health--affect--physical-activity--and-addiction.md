@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9605002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42870348-44100-2-b16582f2ef87f.m4a
-draft: false
-excerpt: "Dr. Renee Magnan is Associate Professor and Director of Experimental Training\
-  \ in the Department of Psychology at Washington State University. She applies social\
-  \ psychological theory to address issues in preventive health behaviors and health\
-  \ behavior promotion. Specifically, much of the research in her lab focuses on understanding\
-  \ the role that affect (e.g., worry) plays on health decisions and behavior (e.g.,\
-  \ smoking cessation, exercise, cannabis). She is interested in both how one\u2019\
-  s feelings about health behaviors may influence their decisions to engage in health\
-  \ behavior and also how health behaviors may influence one\u2019s feelings. Both\
-  \ perspectives can provide important insight to identify targets for interventions\
-  \ to prevent negative health consequences and promote wellness."
-id: '311'
-image: https://i.ytimg.com/vi/kAJKw5rMzQM/maxresdefault.jpg
-publishDate: 2020-03-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/311-Renee-Magnan-Health--Affect--Physical-Activity--And-Addiction-ea3kea
-tags:
-- Psychology
-title: '#311 Renee Magnan: Health, Affect, Physical Activity, And Addiction'
-youtubeid: kAJKw5rMzQM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9605002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42870348-44100-2-b16582f2ef87f.m4a",
+	"draft": false,
+	"episodeid": "311",
+	"excerpt": "Dr. Renee Magnan is Associate Professor and Director of Experimental Training in the Department of Psychology at Washington State University. She applies social psychological theory to address issues in preventive health behaviors and health behavior promotion. Specifically, much of the research in her lab focuses on understanding the role that affect (e.g., worry) plays on health decisions and behavior (e.g., smoking cessation, exercise, cannabis). She is interested in both how one’s feelings about health behaviors may influence their decisions to engage in health behavior and also how health behaviors may influence one’s feelings. Both perspectives can provide important insight to identify targets for interventions to prevent negative health consequences and promote wellness.",
+	"image": "https://i.ytimg.com/vi/kAJKw5rMzQM/maxresdefault.jpg",
+	"publishDate": 2020-03-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/311-Renee-Magnan-Health--Affect--Physical-Activity--And-Addiction-ea3kea",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#311 Renee Magnan: Health, Affect, Physical Activity, And Addiction",
+	"youtubeid": "kAJKw5rMzQM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 8th, 2020.  
 Dr. Renee Magnan is Associate Professor and Director of Experimental Training in the Department of Psychology at Washington State University. She applies social psychological theory to address issues in preventive health behaviors and health behavior promotion. Specifically, much of the research in her lab focuses on understanding the role that affect (e.g., worry) plays on health decisions and behavior (e.g., smoking cessation, exercise, cannabis). She is interested in both how one’s feelings about health behaviors may influence their decisions to engage in health behavior and also how health behaviors may influence one’s feelings. Both perspectives can provide important insight to identify targets for interventions to prevent negative health consequences and promote wellness.
 
@@ -45,5 +37,3 @@ Time Links:
 Follow Dr. Magnan’s work:  
 Faculty page: http://bit.ly/2r6nTxx  
 ResearchGate profile: http://bit.ly/2P2VWyp
-</div>
-

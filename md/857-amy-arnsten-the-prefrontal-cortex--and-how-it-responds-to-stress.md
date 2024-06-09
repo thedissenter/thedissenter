@@ -1,29 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72688848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-27%2F76fe4e56-5da4-1586-d8b3-fd18cccd3632.m4a
-draft: false
-excerpt: Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Professor
-  of Psychology, and member of the Kavli Institute of Neuroscience at Yale University.
-  Dr. Arnsten is an international expert on the molecular regulation of higher cortical
-  circuits, and a member of the National Academy of Medicine. Dr. Arnsten's research
-  examines the neural basis of higher cognition. Her work has revealed that the newly
-  evolved cortical circuits that underlie higher cognition are uniquely regulated
-  at the molecular level, conferring vulnerability in mental illness and age-related
-  cognitive disorders such as Alzheimer's Disease. Her research has led to new treatments
-  for cognitive disorders in humans, including the successful translation of guanfacine
-  (IntunivTM) for the treatment of ADHD and related prefrontal cortical disorders.
-id: '857'
-image: https://i.ytimg.com/vi/oFRGaqT8hko/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/857-amy-arnsten-the-prefrontal-cortex-and-how-it/id1451347236?i=1000633888224&uo=4
-publishDate: 2023-11-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/857-Amy-Arnsten-The-Prefrontal-Cortex--and-How-It-Responds-to-Stress-e268pog
-tags:
-- Neuroscience
-- Psychology
-title: '#857 Amy Arnsten: The Prefrontal Cortex, and How It Responds to Stress'
-youtubeid: oFRGaqT8hko
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72688848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-27%2F76fe4e56-5da4-1586-d8b3-fd18cccd3632.m4a",
+	"draft": false,
+	"episodeid": "857",
+	"excerpt": "Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Professor of Psychology, and member of the Kavli Institute of Neuroscience at Yale University. Dr. Arnsten is an international expert on the molecular regulation of higher cortical circuits, and a member of the National Academy of Medicine. Dr. Arnsten's research examines the neural basis of higher cognition. Her work has revealed that the newly evolved cortical circuits that underlie higher cognition are uniquely regulated at the molecular level, conferring vulnerability in mental illness and age-related cognitive disorders such as Alzheimer's Disease. Her research has led to new treatments for cognitive disorders in humans, including the successful translation of guanfacine (IntunivTM) for the treatment of ADHD and related prefrontal cortical disorders.",
+	"image": "https://i.ytimg.com/vi/oFRGaqT8hko/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/857-amy-arnsten-the-prefrontal-cortex-and-how-it/id1451347236?i=1000633888224&uo=4",
+	"publishDate": 2023-11-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/857-Amy-Arnsten-The-Prefrontal-Cortex--and-How-It-Responds-to-Stress-e268pog",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#857 Amy Arnsten: The Prefrontal Cortex, and How It Responds to Stress",
+	"youtubeid": "oFRGaqT8hko"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 27th 2023.  
 Dr. Amy Arnsten is Albert E. Kent Professor of Neuroscience and Professor of Psychology, and member of the Kavli Institute of Neuroscience at Yale University. Dr. Arnsten is an international expert on the molecular regulation of higher cortical circuits, and a member of the National Academy of Medicine. Dr. Arnsten's research examines the neural basis of higher cognition. Her work has revealed that the newly evolved cortical circuits that underlie higher cognition are uniquely regulated at the molecular level, conferring vulnerability in mental illness and age-related cognitive disorders such as Alzheimer's Disease. Her research has led to new treatments for cognitive disorders in humans, including the successful translation of guanfacine (IntunivTM) for the treatment of ADHD and related prefrontal cortical disorders.
 
@@ -48,5 +40,3 @@ Time Links:
 Follow Dr. Arnsten’s work:  
 Faculty page: https://bit.ly/3Ip0cVR  
 ResearchGate profile: https://bit.ly/3jZ10HQ
-</div>
-

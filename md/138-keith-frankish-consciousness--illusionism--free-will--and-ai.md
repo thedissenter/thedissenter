@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2241639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121805-44100-2-9b752afc9d777.m4a
-draft: false
-excerpt: "Dr. Keith Frankish is a British philosopher and writer, currently living\
-  \ in Crete, Greece. He\u2019s an Honorary Reader at the University of Sheffield,\
-  \ UK, a Visiting Research Fellow with The Open University, UK, and an Adjunct Professor\
-  \ with the Brain and Mind Programme at the University of Crete. He works mainly\
-  \ in philosophy of mind, also with interests in other areas of Philosophy. He\u2019\
-  s also the author of books like Mind and Supermind (2004) and Illusionism: As a\
-  \ Theory of Consciousness (2017)."
-id: '138'
-image: https://i.ytimg.com/vi/uXeqm2d1djo/maxresdefault.jpg
-publishDate: 2019-02-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/138-Keith-Frankish-Consciousness--Illusionism--Free-Will--and-AI-e32tl7
-tags:
-- Philosophy
-title: '#138 Keith Frankish: Consciousness, Illusionism, Free Will, and AI'
-youtubeid: uXeqm2d1djo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2241639/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121805-44100-2-9b752afc9d777.m4a",
+	"draft": false,
+	"episodeid": "138",
+	"excerpt": "Dr. Keith Frankish is a British philosopher and writer, currently living in Crete, Greece. He’s an Honorary Reader at the University of Sheffield, UK, a Visiting Research Fellow with The Open University, UK, and an Adjunct Professor with the Brain and Mind Programme at the University of Crete. He works mainly in philosophy of mind, also with interests in other areas of Philosophy. He’s also the author of books like Mind and Supermind (2004) and Illusionism: As a Theory of Consciousness (2017).",
+	"image": "https://i.ytimg.com/vi/uXeqm2d1djo/maxresdefault.jpg",
+	"publishDate": 2019-02-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/138-Keith-Frankish-Consciousness--Illusionism--Free-Will--and-AI-e32tl7",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#138 Keith Frankish: Consciousness, Illusionism, Free Will, and AI",
+	"youtubeid": "uXeqm2d1djo"
+}
 ---
-<div class="timelinks">
-
 Dr. Keith Frankish is a British philosopher and writer, currently living in Crete, Greece. He’s an Honorary Reader at the University of Sheffield, UK, a Visiting Research Fellow with The Open University, UK, and an Adjunct Professor with the Brain and Mind Programme at the University of Crete. He works mainly in philosophy of mind, also with interests in other areas of Philosophy. He’s also the author of books like Mind and Supermind (2004) and Illusionism: As a Theory of Consciousness (2017).
 
 In this episode, the central topic is consciousness. We talk about what is it; the hard problem of consciousness; illusionism; the evolutionary origins and function of consciousness; how consciousness relates to questions surrounding free will and determinism. Toward the end, we also discuss a little bit if AI could spontaneously develop consciousness in any way, or if we would need to program it into it. 
@@ -46,5 +41,3 @@ Twitter handle: @keithfrankish
 Other relevant links:  
 Daniel Dennett’s books: https://tinyurl.com/y7s5g58s  
 “The Meta-Problem of Conciousness”, by David Chalmers: https://tinyurl.com/yd8ej28n
-</div>
-

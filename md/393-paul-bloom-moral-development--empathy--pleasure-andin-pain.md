@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22531679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F6bbb308d-5a16-d2a4-dfd1-4d5c135c20ab.m4a
-draft: false
-excerpt: 'Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology and
-  cognitive science at Yale University. His research explores how children and adults
-  understand the physical and social world, with special focus on language, morality,
-  religion, fiction, and art. He is the author of books like How Children Learn the
-  Meanings of Words (2000), How Pleasure Works: The New Science of Why We Like What
-  We Like (2010), Just Babies: The Origins of Good and Evil (2013), and Against Empathy:
-  The Case for Rational Compassion (2016).'
-id: '393'
-image: https://i.ytimg.com/vi/iai9H0e2H2g/maxresdefault.jpg
-publishDate: 2020-11-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/393-Paul-Bloom-Moral-Development--Empathy--Pleasure-andin-Pain-eme44v
-tags:
-- Psychology
-title: '#393 Paul Bloom: Moral Development, Empathy, Pleasure and/in Pain'
-youtubeid: iai9H0e2H2g
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22531679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F6bbb308d-5a16-d2a4-dfd1-4d5c135c20ab.m4a",
+	"draft": false,
+	"episodeid": "393",
+	"excerpt": "Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology and cognitive science at Yale University. His research explores how children and adults understand the physical and social world, with special focus on language, morality, religion, fiction, and art. He is the author of books like How Children Learn the Meanings of Words (2000), How Pleasure Works: The New Science of Why We Like What We Like (2010), Just Babies: The Origins of Good and Evil (2013), and Against Empathy: The Case for Rational Compassion (2016).",
+	"image": "https://i.ytimg.com/vi/iai9H0e2H2g/maxresdefault.jpg",
+	"publishDate": 2020-11-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/393-Paul-Bloom-Moral-Development--Empathy--Pleasure-andin-Pain-eme44v",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#393 Paul Bloom: Moral Development, Empathy, Pleasure and/in Pain",
+	"youtubeid": "iai9H0e2H2g"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 10th 2020.  
 Dr. Paul Bloom is the Brooks and Suzanne Ragen Professor of psychology and cognitive science at Yale University. His research explores how children and adults understand the physical and social world, with special focus on language, morality, religion, fiction, and art. He is the author of books like How Children Learn the Meanings of Words (2000), How Pleasure Works: The New Science of Why We Like What We Like (2010), Just Babies: The Origins of Good and Evil (2013), and Against Empathy: The Case for Rational Compassion (2016).
 
@@ -41,5 +36,3 @@ Faculty page: https://bit.ly/3n6sruY
 ResearchGate profile: https://bit.ly/3eJfJ2B  
 Amazon page: https://amzn.to/35iQIrM  
 Twitter handle: @paulbloomatyale
-</div>
-

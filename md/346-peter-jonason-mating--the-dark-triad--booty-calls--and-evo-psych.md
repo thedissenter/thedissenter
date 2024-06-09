@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/14131873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75647799-44100-2-36f828462edcd.m4a
-draft: false
-excerpt: Dr. Peter Jonason is Associate Professor of Psychology at the University
-  of Padova, Italy. By training he is a social/personality psychologist who uses evolutionary
-  theory to derive predictions and account for observable phenomena in (mostly) personality,
-  individual differences, mating strategies, and sexuality.
-id: '346'
-image: https://i.ytimg.com/vi/Ql6wy4FUD_s/maxresdefault.jpg
-publishDate: 2020-06-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/346-Peter-Jonason-Mating--The-Dark-Triad--Booty-Calls--And-Evo-Psych-eedp71
-tags:
-- Psychology
-title: '#346 Peter Jonason: Mating, The Dark Triad, Booty Calls, And Evo Psych'
-youtubeid: Ql6wy4FUD_s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/14131873/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75647799-44100-2-36f828462edcd.m4a",
+	"draft": false,
+	"episodeid": "346",
+	"excerpt": "Dr. Peter Jonason is Associate Professor of Psychology at the University of Padova, Italy. By training he is a social/personality psychologist who uses evolutionary theory to derive predictions and account for observable phenomena in (mostly) personality, individual differences, mating strategies, and sexuality.",
+	"image": "https://i.ytimg.com/vi/Ql6wy4FUD_s/maxresdefault.jpg",
+	"publishDate": 2020-06-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/346-Peter-Jonason-Mating--The-Dark-Triad--Booty-Calls--And-Evo-Psych-eedp71",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#346 Peter Jonason: Mating, The Dark Triad, Booty Calls, And Evo Psych",
+	"youtubeid": "Ql6wy4FUD_s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 4th 2020.  
 Dr. Peter Jonason is Associate Professor of Psychology at the University of Padova, Italy. By training he is a social/personality psychologist who uses evolutionary theory to derive predictions and account for observable phenomena in (mostly) personality, individual differences, mating strategies, and sexuality.
 
@@ -40,5 +38,3 @@ ResearchGate profile: https://bit.ly/3c3bPPI
 Mentioned works by other people:  
 Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships: https://amzn.to/2W27d75  
 From Bacteria to Bach and Back: The Evolution of Minds: https://amzn.to/2z2J7jr
-</div>
-

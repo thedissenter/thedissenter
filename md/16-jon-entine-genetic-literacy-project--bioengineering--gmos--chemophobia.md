@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572294-48000-2-649049538652a.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '16'
-image: https://i.ytimg.com/vi/KX9GQLPAQrU/maxresdefault.jpg
-publishDate: 2018-04-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/16-Jon-Entine-Genetic-Literacy-Project--Bioengineering--GMOs--Chemophobia-e2r47p
-title: '#16 Jon Entine: Genetic Literacy Project, Bioengineering, GMOs, Chemophobia'
-youtubeid: KX9GQLPAQrU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572294-48000-2-649049538652a.mp3",
+	"draft": false,
+	"episodeid": "16",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/KX9GQLPAQrU/maxresdefault.jpg",
+	"publishDate": 2018-04-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/16-Jon-Entine-Genetic-Literacy-Project--Bioengineering--GMOs--Chemophobia-e2r47p",
+	"title": "#16 Jon Entine: Genetic Literacy Project, Bioengineering, GMOs, Chemophobia",
+	"youtubeid": "KX9GQLPAQrU"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -29,5 +29,4 @@ Aqui, falamos sobre o Genetic Literacy Project; genes e manipulação genética;
 Genetic Literacy Project website: https://geneticliteracyproject.org/  
 Genetic Literacy Project Facebook: https://www.facebook.com/GeneticLiteracyProject/  
 Genetic Literacy Project Twitter handle: @GeneticLiteracy  
-Jon Entine’s Twitter handle: @JonEntine</div>
-
+Jon Entine’s Twitter handle: @JonEntine

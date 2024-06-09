@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778174-44100-2-473621a31a64f.m4a
-draft: false
-excerpt: 'Dr. Sarah Hill is Associate Professor of Psychology at Texas Christian University.
-  She studies a range of topics, applying an evolutionary lens, including the interplay
-  between immune function and mating strategies; the impact of inflammation; poverty,
-  food regulation, and weight gain; hormonal contraceptives and mate choice; and other
-  topics under the rubric of life history theory.  '
-id: '126'
-image: https://i.ytimg.com/vi/CjoIp_gJB9Q/maxresdefault.jpg
-publishDate: 2019-01-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/126-Sarah-Hill-Life-History-Theory--Puberty--Immune-Function--and-Mating-Strategies-e2s229
-tags:
-- Psychology
-title: '#126 Sarah Hill: Life History Theory, Puberty, Immune Function, and Mating
-  Strategies'
-youtubeid: CjoIp_gJB9Q
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016777/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778174-44100-2-473621a31a64f.m4a",
+	"draft": false,
+	"episodeid": "126",
+	"excerpt": "Dr. Sarah Hill is Associate Professor of Psychology at Texas Christian University. She studies a range of topics, applying an evolutionary lens, including the interplay between immune function and mating strategies; the impact of inflammation; poverty, food regulation, and weight gain; hormonal contraceptives and mate choice; and other topics under the rubric of life history theory.  ",
+	"image": "https://i.ytimg.com/vi/CjoIp_gJB9Q/maxresdefault.jpg",
+	"publishDate": 2019-01-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/126-Sarah-Hill-Life-History-Theory--Puberty--Immune-Function--and-Mating-Strategies-e2s229",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#126 Sarah Hill: Life History Theory, Puberty, Immune Function, and Mating Strategies",
+	"youtubeid": "CjoIp_gJB9Q"
+}
 ---
-<div class="timelinks">
-
 Dr. Sarah Hill is Associate Professor of Psychology at Texas Christian University. She studies a range of topics, applying an evolutionary lens, including the interplay between immune function and mating strategies; the impact of inflammation; poverty, food regulation, and weight gain; hormonal contraceptives and mate choice; and other topics under the rubric of life history theory.  
 In this episode, we talk about life history theory; how life history varies between species, and also how environmental cues might trigger fast or slow life history strategies. We talk about how it all starts in the uterus; the environmental cues people pay more attention to; how personality and other psychological traits might produce individual variation in dealing with the same cues. The we get into specific topics, like immune function; age of puberty onset; inflammation; eating habits and weight gain; how contraceptives affect women’s mating strategies; and also how technology like online porn, dating websites, and sex robots might tweak men’s mating strategies toward preferring short-term relationships.
 
@@ -42,5 +38,3 @@ Follow Dr. Hill’s work:
 Faculty page: https://tinyurl.com/yc3drxaq  
 Personal website: https://www.sarahehill.com/  
 Articles on Researchgate: https://tinyurl.com/ydhuuggy
-</div>
-

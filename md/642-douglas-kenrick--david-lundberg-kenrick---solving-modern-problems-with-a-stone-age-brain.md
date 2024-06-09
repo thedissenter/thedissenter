@@ -1,21 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/53596371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-16%2F45f815b8-0e97-a231-de1c-0471ab2134d5.m4a
-draft: false
-excerpt: 'Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona
-  State University.   '
-id: '642'
-image: https://i.ytimg.com/vi/ZNpvj4pfwsg/maxresdefault.jpg
-publishDate: 2022-06-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/642-Douglas-Kenrick--David-Lundberg-Kenrick---Solving-Modern-Problems-with-a-Stone-Age-Brain-e1k24oj
-tags:
-- Anthropology
-- Psychology
-title: '#642 Douglas Kenrick & David Lundberg-Kenrick - Solving Modern Problems with
-  a Stone-Age Brain'
-youtubeid: ZNpvj4pfwsg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/53596371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-16%2F45f815b8-0e97-a231-de1c-0471ab2134d5.m4a",
+	"draft": false,
+	"episodeid": "642",
+	"excerpt": "Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona State University.   ",
+	"image": "https://i.ytimg.com/vi/ZNpvj4pfwsg/maxresdefault.jpg",
+	"publishDate": 2022-06-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/642-Douglas-Kenrick--David-Lundberg-Kenrick---Solving-Modern-Problems-with-a-Stone-Age-Brain-e1k24oj",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#642 Douglas Kenrick & David Lundberg-Kenrick - Solving Modern Problems with a Stone-Age Brain",
+	"youtubeid": "ZNpvj4pfwsg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 16th 2022.  
 Dr. Douglas Kenrick is a professor in the Department of Psychology at Arizona State University.   
 David E. Lundberg-Kenrick is Program Manager of Psychology at Arizona State University.  
@@ -52,5 +51,3 @@ Faculty page: https://bit.ly/3aI161D
 ResearchGate profile: https://bit.ly/3xnKghr  
 Amazon page: https://amzn.to/3NeO4af  
 Solving Modern Problems With a Stone-Age Brain: https://amzn.to/3mdjdPs
-</div>
-

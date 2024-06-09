@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/50083501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F272bd598-209b-cdf2-abd8-234204a3ed66.m4a
-draft: false
-excerpt: 'Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda University,
-  Japan. He is considered by many to be one of the most influential thinkers in the
-  current Japanese philosophical community, along with Hitoshi Nagai (Nihon University),
-  and Motoyoshi Irifuji  (Aoyama Gakuin University). He is the director of Tokyo Philosophy
-  Project, and the editor-in-chief of Journal of Philosophy of Life. He specializes
-  in philosophy of life, life studies, bioethics, gender studies, and criticism of
-  contemporary civilization. He is the author of books like Nihilism and the Meaning
-  of Life: A Philosophical Dialogue with James Tartaglia, and Manga Introduction to
-  Philosophy: An Exploration of Time, Existence, the Self, and the Meaning of Life.'
-id: '643'
-image: https://i.ytimg.com/vi/1Q3j7TTOwo8/maxresdefault.jpg
-publishDate: 2022-06-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/643-Masahiro-Morioka---Manga-Introduction-to-Philosophy-Life--Death--Time--and-the-Meaning-of-Life-e1gmu7d
-tags:
-- Philosophy
-title: '#643 Masahiro Morioka - Manga Introduction to Philosophy; Life, Death, Time,
-  and the Meaning of Life'
-youtubeid: 1Q3j7TTOwo8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/50083501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-4%2F272bd598-209b-cdf2-abd8-234204a3ed66.m4a",
+	"draft": false,
+	"episodeid": "643",
+	"excerpt": "Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda University, Japan. He is considered by many to be one of the most influential thinkers in the current Japanese philosophical community, along with Hitoshi Nagai (Nihon University), and Motoyoshi Irifuji  (Aoyama Gakuin University). He is the director of Tokyo Philosophy Project, and the editor-in-chief of Journal of Philosophy of Life. He specializes in philosophy of life, life studies, bioethics, gender studies, and criticism of contemporary civilization. He is the author of books like Nihilism and the Meaning of Life: A Philosophical Dialogue with James Tartaglia, and Manga Introduction to Philosophy: An Exploration of Time, Existence, the Self, and the Meaning of Life.",
+	"image": "https://i.ytimg.com/vi/1Q3j7TTOwo8/maxresdefault.jpg",
+	"publishDate": 2022-06-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/643-Masahiro-Morioka---Manga-Introduction-to-Philosophy-Life--Death--Time--and-the-Meaning-of-Life-e1gmu7d",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#643 Masahiro Morioka - Manga Introduction to Philosophy; Life, Death, Time, and the Meaning of Life",
+	"youtubeid": "1Q3j7TTOwo8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 4th 2022.  
 Dr. Masahiro Morioka is a professor of philosophy and ethics at Waseda University, Japan. He is considered by many to be one of the most influential thinkers in the current Japanese philosophical community, along with Hitoshi Nagai (Nihon University), and Motoyoshi Irifuji  (Aoyama Gakuin University). He is the director of Tokyo Philosophy Project, and the editor-in-chief of Journal of Philosophy of Life. He specializes in philosophy of life, life studies, bioethics, gender studies, and criticism of contemporary civilization. He is the author of books like Nihilism and the Meaning of Life: A Philosophical Dialogue with James Tartaglia, and Manga Introduction to Philosophy: An Exploration of Time, Existence, the Self, and the Meaning of Life.
 
@@ -52,5 +44,3 @@ PhilPeople profile: https://bit.ly/3sQnQ6r
 Amazon page: https://amzn.to/3zhADzT  
 Manga Introduction to Philosophy: https://amzn.to/35Weehg  
 Twitter handle: @masa_morioka
-</div>
-

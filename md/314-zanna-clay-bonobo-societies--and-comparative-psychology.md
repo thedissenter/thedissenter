@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9727886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703878-44100-2-5761c62e3d90f.m4a
-draft: false
-excerpt: Dr. Zanna Clay is Associate Professor in the Department of Psychology at
-  Durham University. She is a comparative and developmental psychologist with expertise
-  in primatology. She studies and compares great apes and young children in order
-  to investigate the evolutionary and developmental basis of hominid social cognition
-  and behavior. Her main interests are the development & evolution of social cognition
-  and communication, focusing on empathy, language and social learning.
-id: '314'
-image: https://i.ytimg.com/vi/S76bSvOK2bE/maxresdefault.jpg
-publishDate: 2020-03-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/314-Zanna-Clay-Bonobo-Societies--And-Comparative-Psychology-ea7cee
-tags:
-- Biology
-- Psychology
-title: '#314 Zanna Clay: Bonobo Societies, And Comparative Psychology'
-youtubeid: S76bSvOK2bE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9727886/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703878-44100-2-5761c62e3d90f.m4a",
+	"draft": false,
+	"episodeid": "314",
+	"excerpt": "Dr. Zanna Clay is Associate Professor in the Department of Psychology at Durham University. She is a comparative and developmental psychologist with expertise in primatology. She studies and compares great apes and young children in order to investigate the evolutionary and developmental basis of hominid social cognition and behavior. Her main interests are the development & evolution of social cognition and communication, focusing on empathy, language and social learning.",
+	"image": "https://i.ytimg.com/vi/S76bSvOK2bE/maxresdefault.jpg",
+	"publishDate": 2020-03-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/314-Zanna-Clay-Bonobo-Societies--And-Comparative-Psychology-ea7cee",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#314 Zanna Clay: Bonobo Societies, And Comparative Psychology",
+	"youtubeid": "S76bSvOK2bE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 14th, 2020.  
 Dr. Zanna Clay is Associate Professor in the Department of Psychology at Durham University. She is a comparative and developmental psychologist with expertise in primatology. She studies and compares great apes and young children in order to investigate the evolutionary and developmental basis of hominid social cognition and behavior. Her main interests are the development & evolution of social cognition and communication, focusing on empathy, language and social learning.
 
@@ -47,5 +43,3 @@ Faculty Page: http://bit.ly/2pOf62G
 ResearchGate profile: http://bit.ly/2L2THKD  
 Google Scholar profile: http://bit.ly/30uUsmd  
 Twitter handle: @zannaclay
-</div>
-

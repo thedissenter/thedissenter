@@ -1,22 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76735308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-3%2Ff8098d4b-eac2-2ec6-fcba-46cf96419dd1.m4a
-draft: false
-excerpt: 'Dr. Eli Merritt is a political historian at Vanderbilt University where
-  he researches the ethics of democracy, the interface of demagogues and democracy,
-  and the founding principles of the United States. He is the editor of How to Save
-  Democracy: Inspiration and Advice From 95 World Leaders.'
-id: '898'
-image: https://i.ytimg.com/vi/JpyexMOL7jc/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/898-eli-merritt-how-to-save-democracy/id1451347236?i=1000644798826&uo=4
-publishDate: 2024-02-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/898-Eli-Merritt-How-to-Save-Democracy-e2a49cc
-tags:
-- Politics
-title: '#898 Eli Merritt: How to Save Democracy'
-youtubeid: JpyexMOL7jc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76735308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-3%2Ff8098d4b-eac2-2ec6-fcba-46cf96419dd1.m4a",
+	"draft": false,
+	"episodeid": "898",
+	"excerpt": "Dr. Eli Merritt is a political historian at Vanderbilt University where he researches the ethics of democracy, the interface of demagogues and democracy, and the founding principles of the United States. He is the editor of How to Save Democracy: Inspiration and Advice From 95 World Leaders.",
+	"image": "https://i.ytimg.com/vi/JpyexMOL7jc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/898-eli-merritt-how-to-save-democracy/id1451347236?i=1000644798826&uo=4",
+	"publishDate": 2024-02-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/898-Eli-Merritt-How-to-Save-Democracy-e2a49cc",
+	"tags": [
+		"Politics"
+	],
+	"title": "#898 Eli Merritt: How to Save Democracy",
+	"youtubeid": "JpyexMOL7jc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 3rd 2023.  
 Dr. Eli Merritt is a political historian at Vanderbilt University where he researches the ethics of democracy, the interface of demagogues and democracy, and the founding principles of the United States. He is the editor of How to Save Democracy: Inspiration and Advice From 95 World Leaders.
 
@@ -42,5 +40,3 @@ Faculty page: https://bit.ly/3NhYmHH
 Website: https://bit.ly/3qYUfZq  
 Substack (American Commonwealth): https://bit.ly/3tbyXJg  
 How to Save Democracy: https://bit.ly/3O5JTiA
-</div>
-

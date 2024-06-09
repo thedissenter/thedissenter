@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4345693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-24%2F21638258-44100-2-c83b921244368.m4a
-draft: false
-excerpt: "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel\
-  \ Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers,\
-  \ killers, curses, and destinies. Her work has been published or profiled in the\
-  \ New York Times, USA Today, The International Herald Tribune, and elsewhere. Earlier\
-  \ in her career, while living in Prague, she co-founded Black Box Theater, translating,\
-  \ producing, and acting in several Czech plays. Her blog \u2013 COLD \u2013 features\
-  \ her short essays on faith, family, love, and writing. WordPress, the blogging\
-  \ platform that hosts some 70 million blogs worldwide, has singled out COLD as one\
-  \ of the Top 50 Recommended Blogs by writers or about writing. "
-id: '247'
-image: https://i.ytimg.com/vi/T6gTK0dZcQc/maxresdefault.jpg
-publishDate: 2019-10-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/247-Victoria-Dougherty-What-People-Want-From-Fiction--And-The-Art-Of-Worldbuilding-e534ct
-tags:
-- Art
-title: '#247 Victoria Dougherty: What People Want From Fiction, And The Art Of Worldbuilding'
-youtubeid: T6gTK0dZcQc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4345693/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-24%2F21638258-44100-2-c83b921244368.m4a",
+	"draft": false,
+	"episodeid": "247",
+	"excerpt": "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers, killers, curses, and destinies. Her work has been published or profiled in the New York Times, USA Today, The International Herald Tribune, and elsewhere. Earlier in her career, while living in Prague, she co-founded Black Box Theater, translating, producing, and acting in several Czech plays. Her blog – COLD – features her short essays on faith, family, love, and writing. WordPress, the blogging platform that hosts some 70 million blogs worldwide, has singled out COLD as one of the Top 50 Recommended Blogs by writers or about writing. ",
+	"image": "https://i.ytimg.com/vi/T6gTK0dZcQc/maxresdefault.jpg",
+	"publishDate": 2019-10-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/247-Victoria-Dougherty-What-People-Want-From-Fiction--And-The-Art-Of-Worldbuilding-e534ct",
+	"tags": [
+		"Art"
+	],
+	"title": "#247 Victoria Dougherty: What People Want From Fiction, And The Art Of Worldbuilding",
+	"youtubeid": "T6gTK0dZcQc"
+}
 ---
-<div class="timelinks">
-
 Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers, killers, curses, and destinies. Her work has been published or profiled in the New York Times, USA Today, The International Herald Tribune, and elsewhere. Earlier in her career, while living in Prague, she co-founded Black Box Theater, translating, producing, and acting in several Czech plays. Her blog – COLD – features her short essays on faith, family, love, and writing. WordPress, the blogging platform that hosts some 70 million blogs worldwide, has singled out COLD as one of the Top 50 Recommended Blogs by writers or about writing. 
 
 In this episode, we talk about fiction, and worldbuilding. We first focus on how to create compelling characters, and we refer to the Game of Thrones series finale as a bad example of it. We also explore the psychology of failed expectations. We then get into how people want meaning from fiction, and how tragedies like war might provide that. We also discuss popular genres and why they are so successful, and how politics and morality might ruin good literature. We finish by talking about how fiction can work as a thought-experiment, and how it is not so detached from things humans develop through culture.
@@ -47,5 +40,3 @@ Books on Amazon: https://amzn.to/2PrstSz
 Twitter handle: @vicdougherty
 
 Support Victoria on Patreon! : http://bit.ly/31VXqj1
-</div>
-

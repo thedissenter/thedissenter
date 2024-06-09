@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2991063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13202985-44100-2-78849b5eff0f2.m4a
-draft: false
-excerpt: "Dr. Hector A. Garcia is a clinical psychologist specializing in the treatment\
-  \ of combat-related post-traumatic stress disorder (PTSD). He\u2019s Assistant Professor\
-  \ at the Department of Psychiatry at the University of Texas Health Science Center\
-  \ at San Antonio. He has published extensively on the treatment of PTSD in combat\
-  \ veterans, masculine psychology in the aftermath of war, the evolutionary roots\
-  \ of political partisanship, and the interplay between religious practice and psychopathology.\
-  \ He\u2019s also the author of Alpha God: The Psychology of Religious Violence and\
-  \ Oppression, and Sex, Power, and Partisanship: How Evolutionary Science Makes Sense\
-  \ of Our Political Divide."
-id: '184'
-image: https://i.ytimg.com/vi/56X7BO1AZk0/maxresdefault.jpg
-publishDate: 2019-05-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/184-Hector-Garcia-Sex--Power--And-Partisanship-e3ppgn
-tags:
-- Psychology
-title: '#184 Hector Garcia: Sex, Power, And Partisanship'
-youtubeid: 56X7BO1AZk0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2991063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-20%2F13202985-44100-2-78849b5eff0f2.m4a",
+	"draft": false,
+	"episodeid": "184",
+	"excerpt": "Dr. Hector A. Garcia is a clinical psychologist specializing in the treatment of combat-related post-traumatic stress disorder (PTSD). He’s Assistant Professor at the Department of Psychiatry at the University of Texas Health Science Center at San Antonio. He has published extensively on the treatment of PTSD in combat veterans, masculine psychology in the aftermath of war, the evolutionary roots of political partisanship, and the interplay between religious practice and psychopathology. He’s also the author of Alpha God: The Psychology of Religious Violence and Oppression, and Sex, Power, and Partisanship: How Evolutionary Science Makes Sense of Our Political Divide.",
+	"image": "https://i.ytimg.com/vi/56X7BO1AZk0/maxresdefault.jpg",
+	"publishDate": 2019-05-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/184-Hector-Garcia-Sex--Power--And-Partisanship-e3ppgn",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#184 Hector Garcia: Sex, Power, And Partisanship",
+	"youtubeid": "56X7BO1AZk0"
+}
 ---
-<div class="timelinks">
-
 Dr. Hector A. Garcia is a clinical psychologist specializing in the treatment of combat-related post-traumatic stress disorder (PTSD). He’s Assistant Professor at the Department of Psychiatry at the University of Texas Health Science Center at San Antonio. He has published extensively on the treatment of PTSD in combat veterans, masculine psychology in the aftermath of war, the evolutionary roots of political partisanship, and the interplay between religious practice and psychopathology. He’s also the author of Alpha God: The Psychology of Religious Violence and Oppression, and Sex, Power, and Partisanship: How Evolutionary Science Makes Sense of Our Political Divide.
 
 In this episode, we focus our conversation on Dr. Garcia’s latest book, “Sex, Power, and Partisanship”. We talk about how the liberal and conservative political tribes evolved from the standard masculine and feminine psychologies. We discuss how traits that might have served an evolutionary function in the past are not necessarily good for us in our modern environments, the phenomenon of instinct blindness, and the naturalistic fallacy. We refer to the fact that most human societies have been patriarchal and how the systems of rule and law favored men, and allowed for them to control women’s behavior, with focus on their sexual behavior. Finally, we talk about our current polarized political environment, and how we can apply this knowledge to counter it, and also what could be the best ways to deal with gender equality in politics.
@@ -54,5 +47,3 @@ Psychology Today blog (Alpha God): https://bit.ly/2UzIKWP
 Books:  
 Alpha God: The Psychology of Religious Violence and Oppression: https://amzn.to/2EswYDk  
 Sex, Power, and Partisanship: How Evolutionary Science Makes Sense of Our Political Divide: https://amzn.to/2EEvszs
-</div>
-

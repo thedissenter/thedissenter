@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/30024160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Fb64673f8-ac3c-da11-0397-60b8e85e7cad.m4a
-draft: false
-excerpt: "Dr. David Papineau is Professor of Philosophy at King's College London,\
-  \ having previously taught for several years at Cambridge University where he was\
-  \ a fellow of Robinson College. He was President of the British Society for Philosophy\
-  \ of Science for 1993-5, President of the Mind Association for 2009-10, and President\
-  \ of the Aristotelian Society for 2013-14. He\u2019s also the author of 9 books,\
-  \ including Philosophical Naturalism, Thinking About Consciousness, and Knowing\
-  \ the Score. His new book is The Metaphysics of Sensory Experience."
-id: '462'
-image: https://i.ytimg.com/vi/aXhPCh1beaQ/maxresdefault.jpg
-publishDate: 2021-04-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/462-David-Papineau-The-Metaphysics-of-Sensory-Experience-etip10
-tags:
-- Philosophy
-title: '#462 David Papineau: The Metaphysics of Sensory Experience'
-youtubeid: aXhPCh1beaQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/30024160/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-26%2Fb64673f8-ac3c-da11-0397-60b8e85e7cad.m4a",
+	"draft": false,
+	"episodeid": "462",
+	"excerpt": "Dr. David Papineau is Professor of Philosophy at King's College London, having previously taught for several years at Cambridge University where he was a fellow of Robinson College. He was President of the British Society for Philosophy of Science for 1993-5, President of the Mind Association for 2009-10, and President of the Aristotelian Society for 2013-14. He’s also the author of 9 books, including Philosophical Naturalism, Thinking About Consciousness, and Knowing the Score. His new book is The Metaphysics of Sensory Experience.",
+	"image": "https://i.ytimg.com/vi/aXhPCh1beaQ/maxresdefault.jpg",
+	"publishDate": 2021-04-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/462-David-Papineau-The-Metaphysics-of-Sensory-Experience-etip10",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#462 David Papineau: The Metaphysics of Sensory Experience",
+	"youtubeid": "aXhPCh1beaQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 26th 2021.  
 Dr. David Papineau is Professor of Philosophy at King's College London, having previously taught for several years at Cambridge University where he was a fellow of Robinson College. He was President of the British Society for Philosophy of Science for 1993-5, President of the Mind Association for 2009-10, and President of the Aristotelian Society for 2013-14. He’s also the author of 9 books, including Philosophical Naturalism, Thinking About Consciousness, and Knowing the Score. His new book is The Metaphysics of Sensory Experience.
 
@@ -45,5 +40,3 @@ Personal website: https://bit.ly/3fdduXu
 Books: https://amzn.to/3vY3SFY  
 The Metaphysics of Sensory Experience: https://amzn.to/3w0AsXE  
 Twitter handle: @davidpapineau
-</div>
-

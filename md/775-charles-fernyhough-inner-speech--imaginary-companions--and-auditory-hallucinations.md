@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63301310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F1e670ebc-44dd-012b-c964-dcb330c53b96.m4a
-draft: false
-excerpt: 'Dr. Charles Fernyhough is a Professor of Psychology at Durham University,
-  where he is also Director of the Centre for Research into Inner Experience. He has
-  contributed to the understanding of how language and thought are related in child
-  development and beyond. The focus of his recent scientific work has been in applying
-  ideas from mainstream developmental psychology to the study of psychosis, particularly
-  the phenomenon of voice-hearing. He is the author of books like Pieces of Light:
-  The New Science of Memory, and The Voices Within: The History and Science of How
-  We Talk to Ourselves.'
-id: '775'
-image: https://i.ytimg.com/vi/0FIWXXdWwkw/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/775-charles-fernyhough-inner-speech-imaginary-companions/id1451347236?i=1000611055585&uo=4
-publishDate: 2023-04-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/775-Charles-Fernyhough-Inner-Speech--Imaginary-Companions--and-Auditory-Hallucinations-e1taa7u
-tags:
-- Psychology
-title: '#775 Charles Fernyhough: Inner Speech, Imaginary Companions, and Auditory
-  Hallucinations'
-youtubeid: 0FIWXXdWwkw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63301310/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F1e670ebc-44dd-012b-c964-dcb330c53b96.m4a",
+	"draft": false,
+	"episodeid": "775",
+	"excerpt": "Dr. Charles Fernyhough is a Professor of Psychology at Durham University, where he is also Director of the Centre for Research into Inner Experience. He has contributed to the understanding of how language and thought are related in child development and beyond. The focus of his recent scientific work has been in applying ideas from mainstream developmental psychology to the study of psychosis, particularly the phenomenon of voice-hearing. He is the author of books like Pieces of Light: The New Science of Memory, and The Voices Within: The History and Science of How We Talk to Ourselves.",
+	"image": "https://i.ytimg.com/vi/0FIWXXdWwkw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/775-charles-fernyhough-inner-speech-imaginary-companions/id1451347236?i=1000611055585&uo=4",
+	"publishDate": 2023-04-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/775-Charles-Fernyhough-Inner-Speech--Imaginary-Companions--and-Auditory-Hallucinations-e1taa7u",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#775 Charles Fernyhough: Inner Speech, Imaginary Companions, and Auditory Hallucinations",
+	"youtubeid": "0FIWXXdWwkw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 10th 2022.  
 Dr. Charles Fernyhough is a Professor of Psychology at Durham University, where he is also Director of the Centre for Research into Inner Experience. He has contributed to the understanding of how language and thought are related in child development and beyond. The focus of his recent scientific work has been in applying ideas from mainstream developmental psychology to the study of psychosis, particularly the phenomenon of voice-hearing. He is the author of books like Pieces of Light: The New Science of Memory, and The Voices Within: The History and Science of How We Talk to Ourselves.
 
@@ -50,5 +43,3 @@ Follow Dr. Fernyhough’s work:
 Faculty page: https://bit.ly/3x3BtAn  
 Website: https://bit.ly/3ASPKRO  
 ResearchGate profile: https://bit.ly/3cR2jF1
-</div>
-

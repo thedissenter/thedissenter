@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55182768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-22%2F138ff07b-ae9a-4245-9ee3-cf19176afc2e.m4a
-draft: false
-excerpt: "Dr. Kristina Durante is an evolutionary psychologist and Professor of Marketing,\
-  \ Marketing Department Vice Chair, and the marketing Ph.D. program coordinator at\
-  \ Rutgers Business School. She is a social psychologist interested in the biology\
-  \ of decision-making. Her research lies at the intersection of social psychology,\
-  \ evolutionary biology, and consumer decision-making. Her areas of expertise include\
-  \ women\u2019s consumer choice and luxury spending, family consumer decisions, hormones\
-  \ and behavior, and the psychological consequences of ambiguity."
-id: '661'
-image: https://i.ytimg.com/vi/xPY4YpDzwTA/maxresdefault.jpg
-publishDate: 2022-08-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/661-Kristina-Durante-The-Career-Family-Trade-Off-for-Modern-Women--and-Changing-Gender-Norms-e1lihvg
-tags:
-- Psychology
-title: '#661 Kristina Durante: The Career-Family Trade-Off for Modern Women, and Changing
-  Gender Norms'
-youtubeid: xPY4YpDzwTA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55182768/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-22%2F138ff07b-ae9a-4245-9ee3-cf19176afc2e.m4a",
+	"draft": false,
+	"episodeid": "661",
+	"excerpt": "Dr. Kristina Durante is an evolutionary psychologist and Professor of Marketing, Marketing Department Vice Chair, and the marketing Ph.D. program coordinator at Rutgers Business School. She is a social psychologist interested in the biology of decision-making. Her research lies at the intersection of social psychology, evolutionary biology, and consumer decision-making. Her areas of expertise include women’s consumer choice and luxury spending, family consumer decisions, hormones and behavior, and the psychological consequences of ambiguity.",
+	"image": "https://i.ytimg.com/vi/xPY4YpDzwTA/maxresdefault.jpg",
+	"publishDate": 2022-08-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/661-Kristina-Durante-The-Career-Family-Trade-Off-for-Modern-Women--and-Changing-Gender-Norms-e1lihvg",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#661 Kristina Durante: The Career-Family Trade-Off for Modern Women, and Changing Gender Norms",
+	"youtubeid": "xPY4YpDzwTA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 22nd 2020.  
 Dr. Kristina Durante is an evolutionary psychologist and Professor of Marketing, Marketing Department Vice Chair, and the marketing Ph.D. program coordinator at Rutgers Business School. She is a social psychologist interested in the biology of decision-making. Her research lies at the intersection of social psychology, evolutionary biology, and consumer decision-making. Her areas of expertise include women’s consumer choice and luxury spending, family consumer decisions, hormones and behavior, and the psychological consequences of ambiguity.
 
@@ -46,5 +40,3 @@ ResearchGate profile: https://bit.ly/344Rx5Q
 Working Women And The Curse of The Ancient Trade-Off (Forbes): https://bit.ly/3v2AfED  
 Our first talk (Female Intrasexual Competition, and Consumer Choices) here: https://youtu.be/YIGnwWCJvEA  
 Twitter handle: @KristinaDurante
-</div>
-

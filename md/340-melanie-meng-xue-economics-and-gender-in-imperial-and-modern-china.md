@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/12665700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66055421-44100-2-cb6b4e02f6294.m4a
-draft: false
-excerpt: "Dr. Melanie Meng Xue is assistant professor in the Social Science Division\
-  \ at New York University in Abu Dhabi. Her research lies at the intersection of\
-  \ economic history and political economy. She has studied the rise of gender-equitable\
-  \ beliefs and the deterioration of civil society in the context of imperial China.\
-  \ By tracing the impact of historical events over time and in various institutional\
-  \ settings, her work isolates the role of values, beliefs and norms in shaping economic\
-  \ and political disparities. Another strand of Dr. Meng Xue\u2019s research concerns\
-  \ the decoding of folklore and mythology as a new approach to understanding historical\
-  \ values."
-id: '340'
-image: https://i.ytimg.com/vi/EhoP1XXDXRU/maxresdefault.jpg
-publishDate: 2020-05-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/340-Melanie-Meng-Xue-Economics-And-Gender-In-Imperial-And-Modern-China-ed11d4
-tags:
-- Cultural Analytics
-title: '#340 Melanie Meng Xue: Economics And Gender In Imperial And Modern China'
-youtubeid: EhoP1XXDXRU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/12665700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66055421-44100-2-cb6b4e02f6294.m4a",
+	"draft": false,
+	"episodeid": "340",
+	"excerpt": "Dr. Melanie Meng Xue is assistant professor in the Social Science Division at New York University in Abu Dhabi. Her research lies at the intersection of economic history and political economy. She has studied the rise of gender-equitable beliefs and the deterioration of civil society in the context of imperial China. By tracing the impact of historical events over time and in various institutional settings, her work isolates the role of values, beliefs and norms in shaping economic and political disparities. Another strand of Dr. Meng Xue’s research concerns the decoding of folklore and mythology as a new approach to understanding historical values.",
+	"image": "https://i.ytimg.com/vi/EhoP1XXDXRU/maxresdefault.jpg",
+	"publishDate": 2020-05-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/340-Melanie-Meng-Xue-Economics-And-Gender-In-Imperial-And-Modern-China-ed11d4",
+	"tags": [
+		"Cultural Analytics"
+	],
+	"title": "#340 Melanie Meng Xue: Economics And Gender In Imperial And Modern China",
+	"youtubeid": "EhoP1XXDXRU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 16th, 2020.  
 Dr. Melanie Meng Xue is assistant professor in the Social Science Division at New York University in Abu Dhabi. Her research lies at the intersection of economic history and political economy. She has studied the rise of gender-equitable beliefs and the deterioration of civil society in the context of imperial China. By tracing the impact of historical events over time and in various institutional settings, her work isolates the role of values, beliefs and norms in shaping economic and political disparities. Another strand of Dr. Meng Xue’s research concerns the decoding of folklore and mythology as a new approach to understanding historical values.
 
@@ -43,5 +36,3 @@ Faculty page: http://bit.ly/37QSvCK
 Website: http://bit.ly/35EmvjZ  
 Papers on ResearchGate: https://bit.ly/3afzpXU  
 Twitter handle: @Melanie_Xue
-</div>
-

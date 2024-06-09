@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572336-44100-2-3870d96190601.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '18'
-image: https://i.ytimg.com/vi/ARZkYwT-H20/maxresdefault.jpg
-publishDate: 2018-04-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/18-Eric-Smith-The-Origin-and-Nature-of-Life-on-Earth-e2r488
-title: '#18 Eric Smith: The Origin and Nature of Life on Earth'
-youtubeid: ARZkYwT-H20
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572336-44100-2-3870d96190601.mp3",
+	"draft": false,
+	"episodeid": "18",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/ARZkYwT-H20/maxresdefault.jpg",
+	"publishDate": 2018-04-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/18-Eric-Smith-The-Origin-and-Nature-of-Life-on-Earth-e2r488",
+	"title": "#18 Eric Smith: The Origin and Nature of Life on Earth",
+	"youtubeid": "ARZkYwT-H20"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -28,5 +28,4 @@ Aqui, percorremos o conteúdo principal do seu livro de 2016, The Origin and Nat
 
 Faculty page at Tokyo Institute of Technology: http://www.elsi.jp/en/research/member/researcher/professor/Eric-Smith.html  
 Faculty page at Santa Fe Institute: https://www.santafe.edu/people/profile/d-eric-smith  
-Book The Origin and Nature of Life on Earth: https://www.amazon.com/Origin-Nature-Life-Earth-Emergence/dp/1107121884</div>
-
+Book The Origin and Nature of Life on Earth: https://www.amazon.com/Origin-Nature-Life-Earth-Emergence/dp/1107121884

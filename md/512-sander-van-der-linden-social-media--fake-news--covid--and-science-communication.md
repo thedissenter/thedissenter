@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/33486264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F9789b6b3-30b8-c2dd-9429-c2e64a71d6bb.m4a
-draft: false
-excerpt: Dr. Sander van der Linden is Professor of Social Psychology in the Department
-  of Psychology at the University of Cambridge and Director of the Cambridge Social
-  Decision-Making Lab. His research interests center around the psychology of human
-  judgment, communication, and decision-making, including social norms and networks,
-  attitudes and polarization, reasoning about evidence, and the public understanding
-  of risk and uncertainty.
-id: '512'
-image: https://i.ytimg.com/vi/gVwmPMM0N1Q/maxresdefault.jpg
-publishDate: 2021-08-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/512-Sander-van-der-Linden-Social-Media--Fake-News--COVID--and-Science-Communication-e10sdvo
-tags:
-- Politics
-- Sociology
-- Psychology
-title: '#512 Sander van der Linden: Social Media, Fake News, COVID, and Science Communication'
-youtubeid: gVwmPMM0N1Q
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/33486264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-14%2F9789b6b3-30b8-c2dd-9429-c2e64a71d6bb.m4a",
+	"draft": false,
+	"episodeid": "512",
+	"excerpt": "Dr. Sander van der Linden is Professor of Social Psychology in the Department of Psychology at the University of Cambridge and Director of the Cambridge Social Decision-Making Lab. His research interests center around the psychology of human judgment, communication, and decision-making, including social norms and networks, attitudes and polarization, reasoning about evidence, and the public understanding of risk and uncertainty.",
+	"image": "https://i.ytimg.com/vi/gVwmPMM0N1Q/maxresdefault.jpg",
+	"publishDate": 2021-08-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/512-Sander-van-der-Linden-Social-Media--Fake-News--COVID--and-Science-Communication-e10sdvo",
+	"tags": [
+		"Politics",
+		"Sociology",
+		"Psychology"
+	],
+	"title": "#512 Sander van der Linden: Social Media, Fake News, COVID, and Science Communication",
+	"youtubeid": "gVwmPMM0N1Q"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 12th 2021.  
 Dr. Sander van der Linden is Professor of Social Psychology in the Department of Psychology at the University of Cambridge and Director of the Cambridge Social Decision-Making Lab. His research interests center around the psychology of human judgment, communication, and decision-making, including social norms and networks, attitudes and polarization, reasoning about evidence, and the public understanding of risk and uncertainty.
 
@@ -41,5 +37,3 @@ Follow Dr. van der Linden’s work:
 Faculty page: https://bit.ly/3pD88Gn  
 ResearchGate profile: https://bit.ly/3aFbVyJ  
 Twitter handle: @Sander_vdLinden
-</div>
-

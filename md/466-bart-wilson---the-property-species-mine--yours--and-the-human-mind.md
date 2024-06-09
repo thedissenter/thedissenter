@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/26619462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2Fa106ee80-3414-7f4e-442c-61827099daa2.m4a
-draft: false
-excerpt: 'Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics and
-  Law at Chapman University. He is a founding member of the Economic Science Institute
-  and founding member and Director of the Smith Institute for Political Economy and
-  Philosophy. His research uses experimental economics to explore the foundations
-  of exchange and specialization and the origins of property. Another of his research
-  programs compares decision making in humans, apes, and monkeys. In 2019 he co-authored
-  with Vernon Smith a Cambridge University Press book entitled, "Humanomics: Moral
-  Sentiments and the Wealth of Nations for the Twenty-First Century." He is the author
-  of The Property Species: Mine, Yours, and the Human Mind.'
-id: '466'
-image: https://i.ytimg.com/vi/SLvTBdpDdN8/maxresdefault.jpg
-publishDate: 2021-05-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/466-Bart-Wilson---The-Property-Species-Mine--Yours--and-the-Human-Mind-eqas46
-tags:
-- Economy, Progress
-- Psychology
-title: '#466 Bart Wilson - The Property Species: Mine, Yours, and the Human Mind'
-youtubeid: SLvTBdpDdN8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/26619462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2Fa106ee80-3414-7f4e-442c-61827099daa2.m4a",
+	"draft": false,
+	"episodeid": "466",
+	"excerpt": "Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics and Law at Chapman University. He is a founding member of the Economic Science Institute and founding member and Director of the Smith Institute for Political Economy and Philosophy. His research uses experimental economics to explore the foundations of exchange and specialization and the origins of property. Another of his research programs compares decision making in humans, apes, and monkeys. In 2019 he co-authored with Vernon Smith a Cambridge University Press book entitled, \"Humanomics: Moral Sentiments and the Wealth of Nations for the Twenty-First Century.\" He is the author of The Property Species: Mine, Yours, and the Human Mind.",
+	"image": "https://i.ytimg.com/vi/SLvTBdpDdN8/maxresdefault.jpg",
+	"publishDate": 2021-05-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/466-Bart-Wilson---The-Property-Species-Mine--Yours--and-the-Human-Mind-eqas46",
+	"tags": [
+		"Economy, Progress",
+		"Psychology"
+	],
+	"title": "#466 Bart Wilson - The Property Species: Mine, Yours, and the Human Mind",
+	"youtubeid": "SLvTBdpDdN8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 9th 2021.  
 Dr. Bart J. Wilson is the Donald P. Kennedy Endowed Chair in Economics and Law at Chapman University. He is a founding member of the Economic Science Institute and founding member and Director of the Smith Institute for Political Economy and Philosophy. His research uses experimental economics to explore the foundations of exchange and specialization and the origins of property. Another of his research programs compares decision making in humans, apes, and monkeys. In 2019 he co-authored with Vernon Smith a Cambridge University Press book entitled, "Humanomics: Moral Sentiments and the Wealth of Nations for the Twenty-First Century." He is the author of The Property Species: Mine, Yours, and the Human Mind.
 
@@ -51,5 +44,3 @@ Google Scholar profile: https://bit.ly/3jwiRBb
 Amazon page: https://amzn.to/2OgVrEh  
 The Property Species: https://amzn.to/2YX4mN9  
 Twitter handle: @bartwilson
-</div>
-

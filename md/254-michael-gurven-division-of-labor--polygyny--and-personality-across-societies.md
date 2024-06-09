@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4541732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706594-44100-2-55192776195e4.m4a
-draft: false
-excerpt: 'Dr. Michael Gurven is a Professor at the Department of Anthropology at the
-  University of California, Santa Barbara, chair of the Integrative Anthropological
-  Sciences Unit, and also head of the Evolutionary Anthropology and Biodemography
-  Research Group. He is an evolutionary anthropologist aiming to explain behavior
-  and physiological systems as adaptive solutions to competing demands of limited
-  resource allocation. He employs ethnographic field settings as laboratories for
-  testing hypotheses about human variation in behavior, psychology and physiology.
-  Currently his research focuses on two broad, inter-related areas: biodemography
-  of human health, lifespan and aging; and transitions in social and economic behavior. '
-id: '254'
-image: https://i.ytimg.com/vi/p1DRuvoRQdg/maxresdefault.jpg
-publishDate: 2019-11-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/254-Michael-Gurven-Division-Of-Labor--Polygyny--And-Personality-Across-Societies-e593r4
-tags:
-- Anthropology
-title: '#254 Michael Gurven: Division of Labor, Polygyny, and Personality Across Societies'
-youtubeid: p1DRuvoRQdg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4541732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706594-44100-2-55192776195e4.m4a",
+	"draft": false,
+	"episodeid": "254",
+	"excerpt": "Dr. Michael Gurven is a Professor at the Department of Anthropology at the University of California, Santa Barbara, chair of the Integrative Anthropological Sciences Unit, and also head of the Evolutionary Anthropology and Biodemography Research Group. He is an evolutionary anthropologist aiming to explain behavior and physiological systems as adaptive solutions to competing demands of limited resource allocation. He employs ethnographic field settings as laboratories for testing hypotheses about human variation in behavior, psychology and physiology. Currently his research focuses on two broad, inter-related areas: biodemography of human health, lifespan and aging; and transitions in social and economic behavior. ",
+	"image": "https://i.ytimg.com/vi/p1DRuvoRQdg/maxresdefault.jpg",
+	"publishDate": 2019-11-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/254-Michael-Gurven-Division-Of-Labor--Polygyny--And-Personality-Across-Societies-e593r4",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#254 Michael Gurven: Division of Labor, Polygyny, and Personality Across Societies",
+	"youtubeid": "p1DRuvoRQdg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 3RD, 2019.  
 Dr. Michael Gurven is a Professor at the Department of Anthropology at the University of California, Santa Barbara, chair of the Integrative Anthropological Sciences Unit, and also head of the Evolutionary Anthropology and Biodemography Research Group. He is an evolutionary anthropologist aiming to explain behavior and physiological systems as adaptive solutions to competing demands of limited resource allocation. He employs ethnographic field settings as laboratories for testing hypotheses about human variation in behavior, psychology and physiology. Currently his research focuses on two broad, inter-related areas: biodemography of human health, lifespan and aging; and transitions in social and economic behavior. 
 
@@ -48,5 +41,3 @@ A bargaining approach to marriage and the sexual division of labor: http://bit.l
 Greater wealth inequality, less polygyny: rethinking the polygyny threshold model: http://bit.ly/2lAcOBy  
 How Universal Is the Big Five? Testing the Five-Factor Model of Personality Variation Among Forager-Farmers in the Bolivian Amazon: http://bit.ly/2k29n6u  
 Niche Diversity Can Explain Cross-Cultural Differences in Personality Structure: http://bit.ly/2lYEwZf
-</div>
-

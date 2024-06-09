@@ -1,29 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/5803691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-10%2F27460931-44100-2-c07f97937822f.m4a
-draft: false
-excerpt: "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management\
-  \ and Organizations at Northwestern University. She currently holds the James Padilla\
-  \ Chair for Arts and Sciences and a Faculty Fellowship for the Institute of Policy\
-  \ Research at Northwestern University. Her primary research contributions have been\
-  \ in the area of social psychology, as well as personality psychology and Industrial\
-  \ Organizational Psychology. Her research interests include the psychology of gender,\
-  \ especially sex differences and similarities in leadership, prosocial behavior,\
-  \ aggression, partner preferences, and sociopolitical attitudes. She\u2019s also\
-  \ interested in the content of stereotypes; social role theory as a theory of sex\
-  \ differences and similarities and of the origins of sex differences in social behavior;\
-  \ and attitude theory and research, especially attitudinal selectivity in information\
-  \ processing."
-id: '271'
-image: https://i.ytimg.com/vi/gPsXpDIE0LA/maxresdefault.jpg
-publishDate: 2019-12-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/271-Alice-Eagly-The-Psychology-Of-Gender--And-Gender-Equality-e6fk7b
-tags:
-- Psychology
-title: '#271 Alice Eagly: The Psychology Of Gender, and Gender Equality'
-youtubeid: gPsXpDIE0LA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/5803691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-10%2F27460931-44100-2-c07f97937822f.m4a",
+	"draft": false,
+	"episodeid": "271",
+	"excerpt": "Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management and Organizations at Northwestern University. She currently holds the James Padilla Chair for Arts and Sciences and a Faculty Fellowship for the Institute of Policy Research at Northwestern University. Her primary research contributions have been in the area of social psychology, as well as personality psychology and Industrial Organizational Psychology. Her research interests include the psychology of gender, especially sex differences and similarities in leadership, prosocial behavior, aggression, partner preferences, and sociopolitical attitudes. She’s also interested in the content of stereotypes; social role theory as a theory of sex differences and similarities and of the origins of sex differences in social behavior; and attitude theory and research, especially attitudinal selectivity in information processing.",
+	"image": "https://i.ytimg.com/vi/gPsXpDIE0LA/maxresdefault.jpg",
+	"publishDate": 2019-12-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/271-Alice-Eagly-The-Psychology-Of-Gender--And-Gender-Equality-e6fk7b",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#271 Alice Eagly: The Psychology Of Gender, and Gender Equality",
+	"youtubeid": "gPsXpDIE0LA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 10th, 2019.  
 Dr. Alice H. Eagly is Emerita Professor of Psychology and of Management and Organizations at Northwestern University. She currently holds the James Padilla Chair for Arts and Sciences and a Faculty Fellowship for the Institute of Policy Research at Northwestern University. Her primary research contributions have been in the area of social psychology, as well as personality psychology and Industrial Organizational Psychology. Her research interests include the psychology of gender, especially sex differences and similarities in leadership, prosocial behavior, aggression, partner preferences, and sociopolitical attitudes. She’s also interested in the content of stereotypes; social role theory as a theory of sex differences and similarities and of the origins of sex differences in social behavior; and attitude theory and research, especially attitudinal selectivity in information processing.
 
@@ -57,5 +47,3 @@ Gender Stereotypes Have Changed: A Cross-Temporal Meta-Analysis of U.S. Public O
 Sex Differences in Social Behavior: A Social-Role Interpretation: https://amzn.to/2om1BGQ  
 The Psychology of Gender: https://amzn.to/2q0IRwN  
 Through the Labyrinth: The Truth About How Women Become Leaders: https://amzn.to/313BAcn
-</div>
-

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20529187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F6a430aea-16b6-7bad-6382-abfc449c914b.m4a
-draft: false
-excerpt: Dr. Andrew Gallup is Assistant Professor of Psychology and the director of
-  the Adaptive Behavior and Cognition (ABC) Lab at SUNY Poly. His research spans a
-  variety of topics, including contagious behavior and comparative neuroanatomy, brain
-  thermoregulation and vigilance, collective behavior and social cognition, aggression
-  and sexual conflict, the evolution of cooperation, sports and athletic competition
-  from an evolutionary perspective, biomarkers of Darwinian fitness, and the effects
-  of neuromodulation on adaptive responses.
-id: '405'
-image: https://i.ytimg.com/vi/SdKIuJwgOXU/maxresdefault.jpg
-publishDate: 2020-12-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/405-Andrew-Gallup-The-Evolution-of-Aggression--and-Yawning-ekh0j3
-tags:
-- Psychology
-title: '#405 Andrew Gallup: The Evolution of Aggression, and Yawning'
-youtubeid: SdKIuJwgOXU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20529187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F6a430aea-16b6-7bad-6382-abfc449c914b.m4a",
+	"draft": false,
+	"episodeid": "405",
+	"excerpt": "Dr. Andrew Gallup is Assistant Professor of Psychology and the director of the Adaptive Behavior and Cognition (ABC) Lab at SUNY Poly. His research spans a variety of topics, including contagious behavior and comparative neuroanatomy, brain thermoregulation and vigilance, collective behavior and social cognition, aggression and sexual conflict, the evolution of cooperation, sports and athletic competition from an evolutionary perspective, biomarkers of Darwinian fitness, and the effects of neuromodulation on adaptive responses.",
+	"image": "https://i.ytimg.com/vi/SdKIuJwgOXU/maxresdefault.jpg",
+	"publishDate": 2020-12-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/405-Andrew-Gallup-The-Evolution-of-Aggression--and-Yawning-ekh0j3",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#405 Andrew Gallup: The Evolution of Aggression, and Yawning",
+	"youtubeid": "SdKIuJwgOXU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 2nd 2020.  
 Dr. Andrew Gallup is Assistant Professor of Psychology and the director of the Adaptive Behavior and Cognition (ABC) Lab at SUNY Poly. His research spans a variety of topics, including contagious behavior and comparative neuroanatomy, brain thermoregulation and vigilance, collective behavior and social cognition, aggression and sexual conflict, the evolution of cooperation, sports and athletic competition from an evolutionary perspective, biomarkers of Darwinian fitness, and the effects of neuromodulation on adaptive responses.
 
@@ -41,5 +36,3 @@ Follow Dr. Gallup’s work:
 Faculty page: https://bit.ly/3cTAFTG  
 ResearchGate profile: https://bit.ly/36pHXwX  
 Twitter handle: @acgallup
-</div>
-

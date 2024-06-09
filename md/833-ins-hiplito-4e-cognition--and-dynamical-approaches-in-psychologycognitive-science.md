@@ -1,34 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/75051440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F4737ae41-4ef4-81c6-cf5e-d5e8561f8c3d.m4a
-draft: false
-excerpt: "Dr. In\xEAs Hip\xF3lito is a faculty member at Macquarie University, where\
-  \ she serves as a Lecturer of Philosophy of AI and a researcher at the Ethics and\
-  \ Agency Research Center. She serves as a Co-Principal Investigator for the project\
-  \ \"Designing Urban Density: Neurourbanism as a Novel Approach in Global Health\"\
-  \ under the Berlin University Alliance. Furthermore, she holds the position of Ethicist\
-  \ of AI at Verses, a pioneering cognitive computing company specializing in next-generation\
-  \ AI, with Karl Friston serving as Chief Research bridging the gap between academia\
-  \ and industry, contributing to ethical considerations embedded within cutting-edge\
-  \ AI advancements. As a co-founder and vice-president of the International Society\
-  \ of the Philosophy of the Sciences of the Mind, she is a passionate advocate for\
-  \ diversity and inclusivity in the field, serving as an elected member of the Women\
-  \ in Philosophy Committee and the Committee in Diversity and Inclusivity at the\
-  \ Australasian Association of Philosophy."
-id: '833'
-image: https://i.ytimg.com/vi/HiJuTPn1w34/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/833-in%C3%AAs-hip%C3%B3lito-4e-cognition-and-dynamical/id1451347236?i=1000627511350&uo=4
-publishDate: 2023-09-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/833-Ins-Hiplito-4E-Cognition--and-Dynamical-Approaches-in-PsychologyCognitive-Science-e28gsvg
-tags:
-- Cognitive Science
-- Philosophy
-- Psychology
-title: "#833 In\xEAs Hip\xF3lito: 4E Cognition, and Dynamical Approaches in Psychology/Cognitive\
-  \ Science"
-youtubeid: HiJuTPn1w34
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75051440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F4737ae41-4ef4-81c6-cf5e-d5e8561f8c3d.m4a",
+	"draft": false,
+	"episodeid": "833",
+	"excerpt": "Dr. Inês Hipólito is a faculty member at Macquarie University, where she serves as a Lecturer of Philosophy of AI and a researcher at the Ethics and Agency Research Center. She serves as a Co-Principal Investigator for the project \"Designing Urban Density: Neurourbanism as a Novel Approach in Global Health\" under the Berlin University Alliance. Furthermore, she holds the position of Ethicist of AI at Verses, a pioneering cognitive computing company specializing in next-generation AI, with Karl Friston serving as Chief Research bridging the gap between academia and industry, contributing to ethical considerations embedded within cutting-edge AI advancements. As a co-founder and vice-president of the International Society of the Philosophy of the Sciences of the Mind, she is a passionate advocate for diversity and inclusivity in the field, serving as an elected member of the Women in Philosophy Committee and the Committee in Diversity and Inclusivity at the Australasian Association of Philosophy.",
+	"image": "https://i.ytimg.com/vi/HiJuTPn1w34/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/833-in%C3%AAs-hip%C3%B3lito-4e-cognition-and-dynamical/id1451347236?i=1000627511350&uo=4",
+	"publishDate": 2023-09-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/833-Ins-Hiplito-4E-Cognition--and-Dynamical-Approaches-in-PsychologyCognitive-Science-e28gsvg",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#833 Inês Hipólito: 4E Cognition, and Dynamical Approaches in Psychology/Cognitive Science",
+	"youtubeid": "HiJuTPn1w34"
+}
 ---
-<div class="timelinks">
-
 Dr. Inês Hipólito is a faculty member at Macquarie University, where she serves as a Lecturer of Philosophy of AI and a researcher at the Ethics and Agency Research Center. She serves as a Co-Principal Investigator for the project "Designing Urban Density: Neurourbanism as a Novel Approach in Global Health" under the Berlin University Alliance. Furthermore, she holds the position of Ethicist of AI at Verses, a pioneering cognitive computing company specializing in next-generation AI, with Karl Friston serving as Chief Research bridging the gap between academia and industry, contributing to ethical considerations embedded within cutting-edge AI advancements. As a co-founder and vice-president of the International Society of the Philosophy of the Sciences of the Mind, she is a passionate advocate for diversity and inclusivity in the field, serving as an elected member of the Women in Philosophy Committee and the Committee in Diversity and Inclusivity at the Australasian Association of Philosophy.
 
 This is our second talk. You can watch the first one here: https://youtu.be/04yvn-B7vRg
@@ -55,5 +43,3 @@ University page: http://bit.ly/3RLOU0U
 Website: http://bit.ly/3jKaxSW  
 PhilPeople profile: https://bit.ly/3YEKvzn  
 Twitter handle: @ineshipolito
-</div>
-

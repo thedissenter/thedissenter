@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/14548828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78308131-44100-2-bae4f4cb350e3.m4a
-draft: false
-excerpt: "Dr. Jean-Fran\xE7ois Bonnefon (PhD, cognitive psychology) is a Research\
-  \ Director at the French Centre National de la Recherche Scientifique, affiliated\
-  \ to the Toulouse School of Economics, the Toulouse School of Management, and the\
-  \ Institute for Advanced Study in Toulouse. He holds the Moral AI chair at the Artificial\
-  \ and Natural Intelligence Toulouse Institute, and is the president of the European\
-  \ Commission expert group on the ethics of driverless mobility. He conducts research\
-  \ on decisions which have a moral component, especially in the context of machine\
-  \ ethics and human-AI cooperation. His research appeared in 100+ academic articles,\
-  \ in outlets that include Science, Nature, and PNAS."
-id: '349'
-image: https://i.ytimg.com/vi/OpO1Y3BCdC0/maxresdefault.jpg
-publishDate: 2020-07-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/349-Jean-Franois-Bonnefon-Morality--Machine-Behavior--And-Moral-Machines-eeqgcs
-tags:
-- Cognitive Science
-- Psychology
-title: "#349 Jean-Fran\xE7ois Bonnefon: Morality, Machine Behavior, and Moral Machines"
-youtubeid: OpO1Y3BCdC0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/14548828/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-31%2F78308131-44100-2-bae4f4cb350e3.m4a",
+	"draft": false,
+	"episodeid": "349",
+	"excerpt": "Dr. Jean-François Bonnefon (PhD, cognitive psychology) is a Research Director at the French Centre National de la Recherche Scientifique, affiliated to the Toulouse School of Economics, the Toulouse School of Management, and the Institute for Advanced Study in Toulouse. He holds the Moral AI chair at the Artificial and Natural Intelligence Toulouse Institute, and is the president of the European Commission expert group on the ethics of driverless mobility. He conducts research on decisions which have a moral component, especially in the context of machine ethics and human-AI cooperation. His research appeared in 100+ academic articles, in outlets that include Science, Nature, and PNAS.",
+	"image": "https://i.ytimg.com/vi/OpO1Y3BCdC0/maxresdefault.jpg",
+	"publishDate": 2020-07-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/349-Jean-Franois-Bonnefon-Morality--Machine-Behavior--And-Moral-Machines-eeqgcs",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#349 Jean-François Bonnefon: Morality, Machine Behavior, and Moral Machines",
+	"youtubeid": "OpO1Y3BCdC0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 30th 2020.  
 Dr. Jean-François Bonnefon (PhD, cognitive psychology) is a Research Director at the French Centre National de la Recherche Scientifique, affiliated to the Toulouse School of Economics, the Toulouse School of Management, and the Institute for Advanced Study in Toulouse. He holds the Moral AI chair at the Artificial and Natural Intelligence Toulouse Institute, and is the president of the European Commission expert group on the ethics of driverless mobility. He conducts research on decisions which have a moral component, especially in the context of machine ethics and human-AI cooperation. His research appeared in 100+ academic articles, in outlets that include Science, Nature, and PNAS.
 
@@ -46,5 +39,3 @@ Follow Dr. Bonnefon’s work:
 Faculty page: https://bit.ly/2KLyC6O  
 ResearchGate profile: https://bit.ly/2KQy3IM  
 Twitter handle: @JFBonnefon
-</div>
-

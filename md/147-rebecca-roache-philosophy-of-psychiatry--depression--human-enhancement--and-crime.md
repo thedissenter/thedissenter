@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2465557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378955-44100-2-4033cb39f3963.m4a
-draft: false
-excerpt: "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University\
-  \ of London. She teaches practical ethics, logic, philosophy of mind, philosophy\
-  \ of psychiatry, philosophy of language, and early modern philosophy. She\u2019\
-  s also been Research Fellow at the Oxford Centre for Neuroethics and Programme Manager\
-  \ of the Oxford Loebel Lectures and Research Programme, at the University of Oxford.\
-  \ Before that, she was James Martin Research Fellow at the Future of Humanity Institute.\
-  \ Since 2013, Dr. Roache has been an Associate Editor of the Journal of Medical\
-  \ Ethics, and since 2007 she has also been a contributor to Oxford's Practical Ethics:\
-  \ Ethics in the News blog."
-id: '147'
-image: https://i.ytimg.com/vi/lE5VbXXZS50/maxresdefault.jpg
-publishDate: 2019-03-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/147-Rebecca-Roache-Philosophy-of-Psychiatry--Depression--Human-Enhancement--and-Crime-e39oal
-tags:
-- Philosophy
-title: '#147 Rebecca Roache: Philosophy of Psychiatry, Depression, Human Enhancement,
-  and Crime'
-youtubeid: lE5VbXXZS50
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2465557/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10378955-44100-2-4033cb39f3963.m4a",
+	"draft": false,
+	"episodeid": "147",
+	"excerpt": "Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University of London. She teaches practical ethics, logic, philosophy of mind, philosophy of psychiatry, philosophy of language, and early modern philosophy. She’s also been Research Fellow at the Oxford Centre for Neuroethics and Programme Manager of the Oxford Loebel Lectures and Research Programme, at the University of Oxford. Before that, she was James Martin Research Fellow at the Future of Humanity Institute. Since 2013, Dr. Roache has been an Associate Editor of the Journal of Medical Ethics, and since 2007 she has also been a contributor to Oxford's Practical Ethics: Ethics in the News blog.",
+	"image": "https://i.ytimg.com/vi/lE5VbXXZS50/maxresdefault.jpg",
+	"publishDate": 2019-03-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/147-Rebecca-Roache-Philosophy-of-Psychiatry--Depression--Human-Enhancement--and-Crime-e39oal",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#147 Rebecca Roache: Philosophy of Psychiatry, Depression, Human Enhancement, and Crime",
+	"youtubeid": "lE5VbXXZS50"
+}
 ---
-<div class="timelinks">
-
 Dr. Rebecca Roache is Senior Lecturer in Philosophy at Royal Holloway, University of London. She teaches practical ethics, logic, philosophy of mind, philosophy of psychiatry, philosophy of language, and early modern philosophy. She’s also been Research Fellow at the Oxford Centre for Neuroethics and Programme Manager of the Oxford Loebel Lectures and Research Programme, at the University of Oxford. Before that, she was James Martin Research Fellow at the Future of Humanity Institute. Since 2013, Dr. Roache has been an Associate Editor of the Journal of Medical Ethics, and since 2007 she has also been a contributor to Oxford's Practical Ethics: Ethics in the News blog.
 
 In this episode, the central topic of discussion is philosophy of psychiatry. We go through some of the difficulties in classifying something as a “mental disease”, and even the social and moral aspects of it. We also talk about certain specific issues, like depression, mental suffering, suicide and euthanasia; human enhancement in psychiatry, the difference between enhancement and therapy, and the ethics behind it; and also when and how people should resort to psychiatry and neuroscience in the penal system, and issue regarding free will and moral responsibility. Toward the end, Dr. Roache also tells us about her upcoming book on swearing.
@@ -44,5 +36,3 @@ Follow Dr. Roache’s work:
 Faculty page: https://tinyurl.com/yczpomcg  
 Personal website: https://rebeccaroache.weebly.com/  
 Twitter handle: @rebecca_roache
-</div>
-

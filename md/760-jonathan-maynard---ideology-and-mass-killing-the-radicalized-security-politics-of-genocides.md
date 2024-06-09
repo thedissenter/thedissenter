@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/61754656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F2378754a-058a-1d08-eaf4-6522e74e8090.m4a
-draft: false
-excerpt: 'Dr. Jonathan Maynard is a Lecturer in International Politics at King''s
-  College London''s Department of Political Economy. His research is primarily concerned
-  with the role of ideology in collective political violence, especially in forms
-  of violence against civilians such as genocides, mass atrocities and terrorism.
-  He works more broadly on a range of subjects relating to ideology, international
-  security, violent conflict and political extremism, and have secondary research
-  interests in political and ethical theories of political violence and political
-  speech, and on methodological debates in political theory and political science.
-  He is the author of Ideology and Mass Killing: The Radicalized Security Politics
-  of Genocides and Deadly Atrocities.'
-id: '760'
-image: https://i.ytimg.com/vi/iQt9pi8nmtc/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/760-jonathan-maynard-ideology-and-mass-killing/id1451347236?i=1000605787697&uo=4
-publishDate: 2023-03-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/760-Jonathan-Maynard---Ideology-and-Mass-Killing-The-Radicalized-Security-Politics-of-Genocides-e1rr3r0
-tags:
-- Politics
-title: '#760 Jonathan Maynard - Ideology and Mass Killing: The Radicalized Security
-  Politics of Genocides'
-youtubeid: iQt9pi8nmtc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/61754656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-6%2F2378754a-058a-1d08-eaf4-6522e74e8090.m4a",
+	"draft": false,
+	"episodeid": "760",
+	"excerpt": "Dr. Jonathan Maynard is a Lecturer in International Politics at King's College London's Department of Political Economy. His research is primarily concerned with the role of ideology in collective political violence, especially in forms of violence against civilians such as genocides, mass atrocities and terrorism. He works more broadly on a range of subjects relating to ideology, international security, violent conflict and political extremism, and have secondary research interests in political and ethical theories of political violence and political speech, and on methodological debates in political theory and political science. He is the author of Ideology and Mass Killing: The Radicalized Security Politics of Genocides and Deadly Atrocities.",
+	"image": "https://i.ytimg.com/vi/iQt9pi8nmtc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/760-jonathan-maynard-ideology-and-mass-killing/id1451347236?i=1000605787697&uo=4",
+	"publishDate": 2023-03-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/760-Jonathan-Maynard---Ideology-and-Mass-Killing-The-Radicalized-Security-Politics-of-Genocides-e1rr3r0",
+	"tags": [
+		"Politics"
+	],
+	"title": "#760 Jonathan Maynard - Ideology and Mass Killing: The Radicalized Security Politics of Genocides",
+	"youtubeid": "iQt9pi8nmtc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 6th 2022.  
 Dr. Jonathan Maynard is a Lecturer in International Politics at King's College London's Department of Political Economy. His research is primarily concerned with the role of ideology in collective political violence, especially in forms of violence against civilians such as genocides, mass atrocities and terrorism. He works more broadly on a range of subjects relating to ideology, international security, violent conflict and political extremism, and have secondary research interests in political and ethical theories of political violence and political speech, and on methodological debates in political theory and political science. He is the author of Ideology and Mass Killing: The Radicalized Security Politics of Genocides and Deadly Atrocities.
 
@@ -54,5 +45,3 @@ Website: https://bit.ly/3MrUCSY
 ResearchGate profile: https://bit.ly/3Ti1GUL  
 Ideology and Mass Killing: https://amzn.to/3TjJlqp  
 Twitter handle: @jleadermaynard
-</div>
-

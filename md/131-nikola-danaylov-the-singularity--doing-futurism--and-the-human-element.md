@@ -1,28 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778396-44100-2-007017c132a65.m4a
-draft: false
-excerpt: 'Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with the
-  Future, a Keynote Speaker, Futurist, Strategic Adviser, popular Blogger and Podcast
-  host, also known as Socrates in the Singularity community. In 1998, he moved to
-  Canada where he completed an HBA in Political Science, Philosophy & Economics at
-  the University of Toronto followed by an MA in Political Science at York University.
-  It was at YorkU that Mr. Danaylov became deeply interested in the Technological
-  Singularity and wrote "Hacking Destiny: Critical Security at the Intersection of
-  Human and Machine Intelligence." In 2011, he went to NASA''s Ames Research Center
-  in Mountain View, California and completed the Graduate Studies Program at Singularity
-  University. He has spoken at public events on topics ranging from technology, transhumanism
-  and the technological singularity to new media, blogging, and podcasting. He has
-  been profiled in Next Stage Rising Stars Magazine and has been interviewed himself
-  for numerous documentary films, blogs, podcasts, magazines, and newspapers.  '
-id: '131'
-image: https://i.ytimg.com/vi/71G6CCoKYoU/maxresdefault.jpg
-publishDate: 2019-01-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/131-Nikola-Danaylov-The-Singularity--Doing-Futurism--and-the-Human-Element-e2s243
-title: '#131 Nikola Danaylov: The Singularity, Doing Futurism, and the Human Element'
-youtubeid: 71G6CCoKYoU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778396-44100-2-007017c132a65.m4a",
+	"draft": false,
+	"episodeid": "131",
+	"excerpt": "Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with the Future, a Keynote Speaker, Futurist, Strategic Adviser, popular Blogger and Podcast host, also known as Socrates in the Singularity community. In 1998, he moved to Canada where he completed an HBA in Political Science, Philosophy & Economics at the University of Toronto followed by an MA in Political Science at York University. It was at YorkU that Mr. Danaylov became deeply interested in the Technological Singularity and wrote \"Hacking Destiny: Critical Security at the Intersection of Human and Machine Intelligence.\" In 2011, he went to NASA's Ames Research Center in Mountain View, California and completed the Graduate Studies Program at Singularity University. He has spoken at public events on topics ranging from technology, transhumanism and the technological singularity to new media, blogging, and podcasting. He has been profiled in Next Stage Rising Stars Magazine and has been interviewed himself for numerous documentary films, blogs, podcasts, magazines, and newspapers.  ",
+	"image": "https://i.ytimg.com/vi/71G6CCoKYoU/maxresdefault.jpg",
+	"publishDate": 2019-01-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/131-Nikola-Danaylov-The-Singularity--Doing-Futurism--and-the-Human-Element-e2s243",
+	"title": "#131 Nikola Danaylov: The Singularity, Doing Futurism, and the Human Element",
+	"youtubeid": "71G6CCoKYoU"
+}
 ---
-<div class="timelinks">
-
 Mr. Nikola Danaylov is a #1 Bestselling Author of Conversations with the Future, a Keynote Speaker, Futurist, Strategic Adviser, popular Blogger and Podcast host, also known as Socrates in the Singularity community. In 1998, he moved to Canada where he completed an HBA in Political Science, Philosophy & Economics at the University of Toronto followed by an MA in Political Science at York University. It was at YorkU that Mr. Danaylov became deeply interested in the Technological Singularity and wrote "Hacking Destiny: Critical Security at the Intersection of Human and Machine Intelligence." In 2011, he went to NASA's Ames Research Center in Mountain View, California and completed the Graduate Studies Program at Singularity University. He has spoken at public events on topics ranging from technology, transhumanism and the technological singularity to new media, blogging, and podcasting. He has been profiled in Next Stage Rising Stars Magazine and has been interviewed himself for numerous documentary films, blogs, podcasts, magazines, and newspapers.  
 In this episode, we talk about what is meant by the term “Singularity”, and its technological, social, economic, and scientific implications. We consider the technological and human aspects of the equation of economic and technologic growth, and human and moral progress. We also deal with more specific issues, like transhumanism, the ethics of enhancement, AI, and Big Data.
 
@@ -47,5 +35,3 @@ Follow Mr. Danaylov’s work:
 The Singularity Webblog: https://www.singularityweblog.com/  
 Book “Conversations with the Future”: https://tinyurl.com/y9wor8pu  
 Twitter handle: @singularityblog
-</div>
-

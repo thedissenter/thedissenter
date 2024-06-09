@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54267272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-1%2Fc4fa83df-5a8d-4af1-dc29-9b9c9060161b.m4a
-draft: false
-excerpt: Dr. Marjorie Prokosch is a Postdoctoral Scholar in the Disasters, Trust,
-  and Social Change Lab at the University of Florida, and an incoming Assistant Professor
-  at the Rochester Institute of Technology. She studies social and health-related
-  decision-making, with an emphasis on how environmental threats (such as the threat
-  posed by infectious disease) and our own condition (e.g., our immune system, developmental
-  experiences with harshness) motivate our perceptions and behavior. Specific areas
-  of interest include risk perception, self-regulation, and close relationships. In
-  her current role at UF, she is examining how environmental hazards (like hurricanes)
-  and climate change threats intersect with social inequality to impact decision-making.
-id: '681'
-image: https://i.ytimg.com/vi/1ILtCVGCH-w/maxresdefault.jpg
-publishDate: 2022-09-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/681-Marjorie-Prokosch-Harshness--the-Immune-System--and-Climate-Change-e1kmju8
-tags:
-- Psychology
-title: '#681 Marjorie Prokosch: Harshness, the Immune System, and Climate Change'
-youtubeid: 1ILtCVGCH-w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54267272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-1%2Fc4fa83df-5a8d-4af1-dc29-9b9c9060161b.m4a",
+	"draft": false,
+	"episodeid": "681",
+	"excerpt": "Dr. Marjorie Prokosch is a Postdoctoral Scholar in the Disasters, Trust, and Social Change Lab at the University of Florida, and an incoming Assistant Professor at the Rochester Institute of Technology. She studies social and health-related decision-making, with an emphasis on how environmental threats (such as the threat posed by infectious disease) and our own condition (e.g., our immune system, developmental experiences with harshness) motivate our perceptions and behavior. Specific areas of interest include risk perception, self-regulation, and close relationships. In her current role at UF, she is examining how environmental hazards (like hurricanes) and climate change threats intersect with social inequality to impact decision-making.",
+	"image": "https://i.ytimg.com/vi/1ILtCVGCH-w/maxresdefault.jpg",
+	"publishDate": 2022-09-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/681-Marjorie-Prokosch-Harshness--the-Immune-System--and-Climate-Change-e1kmju8",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#681 Marjorie Prokosch: Harshness, the Immune System, and Climate Change",
+	"youtubeid": "1ILtCVGCH-w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 29th 2022.  
 Dr. Marjorie Prokosch is a Postdoctoral Scholar in the Disasters, Trust, and Social Change Lab at the University of Florida, and an incoming Assistant Professor at the Rochester Institute of Technology. She studies social and health-related decision-making, with an emphasis on how environmental threats (such as the threat posed by infectious disease) and our own condition (e.g., our immune system, developmental experiences with harshness) motivate our perceptions and behavior. Specific areas of interest include risk perception, self-regulation, and close relationships. In her current role at UF, she is examining how environmental hazards (like hurricanes) and climate change threats intersect with social inequality to impact decision-making.
 
@@ -44,5 +37,3 @@ Website: https://bit.ly/3vqJlfz
 Disasters, Trust, and Social Change Lab: https://bit.ly/3nwdW61  
 ResearchGate profile: https://bit.ly/3JUlSXW  
 Twitter handle: @MlProkosch
-</div>
-

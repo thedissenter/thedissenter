@@ -1,32 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24638396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F6e66cc05-198a-5d1f-dd7d-8e80db5d94b3.m4a
-draft: false
-excerpt: "Dr. Stanley Fish is Professor of Law at Florida International University\
-  \ and Visiting Professor of Law at Cardoso Law School. In addition to being one\
-  \ of the country\u2019s leading public intellectuals, Professor Fish is an extraordinarily\
-  \ prolific author whose works include He has authored over 200 scholarly publications\
-  \ and books. While his research covers a variety of fields, Professor Dr. Fish has\
-  \ written for many of the country\u2019s leading law journals. including Stanford\
-  \ Law Review, Duke Law Journal, Yale Law Journal, University of Chicago Law Review,\
-  \ Columbia Law Review, and Texas Law Review. His books include Is there a Text in\
-  \ This Class? Interpretive Communities and the Sources of Authority (1980); There\u2019\
-  s No Such Thing as Free Speech, and It\u2019s a Good Thing, Too (1994); Professional\
-  \ Correctness: Literary Studies and Political Change (1995); The Trouble with Principle\
-  \ (1999); How Milton Works (2001); and The First: How to Think About Hate Speech,\
-  \ Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump (2019)."
-id: '428'
-image: https://i.ytimg.com/vi/ZWqbhW8-WLM/maxresdefault.jpg
-publishDate: 2021-02-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/428-Stanley-Fish---Theres-No-Such-Thing-as-Free-Speech-eoedfs
-tags:
-- Politics
-- Sociology
-- Philosophy
-title: '#428 Stanley Fish - There''s No Such Thing as Free Speech'
-youtubeid: ZWqbhW8-WLM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24638396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-1%2F6e66cc05-198a-5d1f-dd7d-8e80db5d94b3.m4a",
+	"draft": false,
+	"episodeid": "428",
+	"excerpt": "Dr. Stanley Fish is Professor of Law at Florida International University and Visiting Professor of Law at Cardoso Law School. In addition to being one of the country’s leading public intellectuals, Professor Fish is an extraordinarily prolific author whose works include He has authored over 200 scholarly publications and books. While his research covers a variety of fields, Professor Dr. Fish has written for many of the country’s leading law journals. including Stanford Law Review, Duke Law Journal, Yale Law Journal, University of Chicago Law Review, Columbia Law Review, and Texas Law Review. His books include Is there a Text in This Class? Interpretive Communities and the Sources of Authority (1980); There’s No Such Thing as Free Speech, and It’s a Good Thing, Too (1994); Professional Correctness: Literary Studies and Political Change (1995); The Trouble with Principle (1999); How Milton Works (2001); and The First: How to Think About Hate Speech, Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump (2019).",
+	"image": "https://i.ytimg.com/vi/ZWqbhW8-WLM/maxresdefault.jpg",
+	"publishDate": 2021-02-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/428-Stanley-Fish---Theres-No-Such-Thing-as-Free-Speech-eoedfs",
+	"tags": [
+		"Politics",
+		"Sociology",
+		"Philosophy"
+	],
+	"title": "#428 Stanley Fish - There's No Such Thing as Free Speech",
+	"youtubeid": "ZWqbhW8-WLM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 30th 2020.  
 Dr. Stanley Fish is Professor of Law at Florida International University and Visiting Professor of Law at Cardoso Law School. In addition to being one of the country’s leading public intellectuals, Professor Fish is an extraordinarily prolific author whose works include He has authored over 200 scholarly publications and books. While his research covers a variety of fields, Professor Dr. Fish has written for many of the country’s leading law journals. including Stanford Law Review, Duke Law Journal, Yale Law Journal, University of Chicago Law Review, Columbia Law Review, and Texas Law Review. His books include Is there a Text in This Class? Interpretive Communities and the Sources of Authority (1980); There’s No Such Thing as Free Speech, and It’s a Good Thing, Too (1994); Professional Correctness: Literary Studies and Political Change (1995); The Trouble with Principle (1999); How Milton Works (2001); and The First: How to Think About Hate Speech, Campus Speech, Religious Speech, Fake News, Post-Truth, and Donald Trump (2019).
 
@@ -50,5 +39,3 @@ Faculty page: http://bit.ly/37WEarh
 Amazon page: https://amzn.to/3pDIjXp  
 There's No Such Thing As Free Speech: http://amzn.to/34VItRY  
 The First: http://amzn.to/3rGA1jl
-</div>
-

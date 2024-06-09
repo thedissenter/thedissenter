@@ -1,22 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65572076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-24%2F3292fcf5-efed-c13b-655d-f14063ab7f22.m4a
-draft: false
-excerpt: Dr. Paul Harris is Victor S. Thomas Professor of Education at the Graduate
-  School of Education at Harvard University. He is interested in the early development
-  of cognition, emotion, and imagination. He is the author of several books, the most
-  recent one being Child Psychology in Twelve Questions.
-id: '796'
-image: https://i.ytimg.com/vi/5MIq0uu-QG0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/796-paul-harris-child-psychology-in-twelve-questions/id1451347236?i=1000617305458&uo=4
-publishDate: 2023-06-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/796-Paul-Harris---Child-Psychology-in-Twelve-Questions-e1vfjpc
-tags:
-- Psychology
-title: '#796 Paul Harris - Child Psychology in Twelve Questions'
-youtubeid: 5MIq0uu-QG0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65572076/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-24%2F3292fcf5-efed-c13b-655d-f14063ab7f22.m4a",
+	"draft": false,
+	"episodeid": "796",
+	"excerpt": "Dr. Paul Harris is Victor S. Thomas Professor of Education at the Graduate School of Education at Harvard University. He is interested in the early development of cognition, emotion, and imagination. He is the author of several books, the most recent one being Child Psychology in Twelve Questions.",
+	"image": "https://i.ytimg.com/vi/5MIq0uu-QG0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/796-paul-harris-child-psychology-in-twelve-questions/id1451347236?i=1000617305458&uo=4",
+	"publishDate": 2023-06-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/796-Paul-Harris---Child-Psychology-in-Twelve-Questions-e1vfjpc",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#796 Paul Harris - Child Psychology in Twelve Questions",
+	"youtubeid": "5MIq0uu-QG0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 24th 2023.  
 Dr. Paul Harris is Victor S. Thomas Professor of Education at the Graduate School of Education at Harvard University. He is interested in the early development of cognition, emotion, and imagination. He is the author of several books, the most recent one being Child Psychology in Twelve Questions.
 
@@ -48,5 +46,3 @@ Website: https://bit.ly/3UMOCIx
 Works on ResearchGate: https://bit.ly/3SunGeP  
 Child Psychology in Twelve Questions: https://bit.ly/3UCYqU8  
 Amazon page: https://bit.ly/3EA9xbd
-</div>
-

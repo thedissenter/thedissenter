@@ -1,27 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8494983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-17%2F34512851-44100-2-f3dc66249f613.m4a
-draft: false
-excerpt: Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist,
-  historian, political activist, and social critic. Sometimes called "the father of
-  modern linguistics", Dr. Chomsky is also a major figure in analytic philosophy and
-  one of the founders of the field of cognitive science. He holds a joint appointment
-  as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT)
-  and laureate professor at the University of Arizona, and is the author of over 100
-  books on topics such as linguistics, war, politics, and mass media.
-id: '261'
-image: https://i.ytimg.com/vi/HD7Fz0m51eg/maxresdefault.jpg
-publishDate: 2019-11-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/261-Noam-Chomsky-Cognitive-Revolution--Piaget--Foucault--And-Evolutionary-Psychology-e91oe7
-tags:
-- Cognitive Science
-- Philosophy
-- Psychology
-title: '#261 Noam Chomsky: Cognitive Revolution, Piaget, Foucault, And Evolutionary
-  Psychology'
-youtubeid: HD7Fz0m51eg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8494983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-17%2F34512851-44100-2-f3dc66249f613.m4a",
+	"draft": false,
+	"episodeid": "261",
+	"excerpt": "Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist, historian, political activist, and social critic. Sometimes called \"the father of modern linguistics\", Dr. Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science. He holds a joint appointment as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT) and laureate professor at the University of Arizona, and is the author of over 100 books on topics such as linguistics, war, politics, and mass media.",
+	"image": "https://i.ytimg.com/vi/HD7Fz0m51eg/maxresdefault.jpg",
+	"publishDate": 2019-11-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/261-Noam-Chomsky-Cognitive-Revolution--Piaget--Foucault--And-Evolutionary-Psychology-e91oe7",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#261 Noam Chomsky: Cognitive Revolution, Piaget, Foucault, And Evolutionary Psychology",
+	"youtubeid": "HD7Fz0m51eg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 16th, 2019.  
 Dr. Noam Chomsky is an American linguist, philosopher, cognitive scientist, historian, political activist, and social critic. Sometimes called "the father of modern linguistics", Dr. Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science. He holds a joint appointment as Institute Professor Emeritus at the Massachusetts Institute of Technology (MIT) and laureate professor at the University of Arizona, and is the author of over 100 books on topics such as linguistics, war, politics, and mass media.
 
@@ -47,5 +41,3 @@ Cognitive revolution: http://bit.ly/2qZ8NJT
 Language and Learning: The Debate Between Jean Piaget and Noam Chomsky: https://amzn.to/2rRYkQS  
 A Review of B. F. Skinner's Verbal Behavior: http://bit.ly/2NXMo8R  
 Debate Noam Chomsky & Michel Foucault - On human nature: http://bit.ly/2XlsUhn
-</div>
-

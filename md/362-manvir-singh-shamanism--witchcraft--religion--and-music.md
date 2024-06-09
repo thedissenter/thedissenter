@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/16553181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F100ab4e3-bfee-8c3b-5544-17d151fccbfc.m4a
-draft: false
-excerpt: Dr. Manvir Singh just graduated with a PhD in human evolutionary biology
-  from Harvard University, with a focus on cognitive and evolutionary anthropology.
-  His research program aims to explain why societies develop complex, recurrent traditions
-  such as shamanism, witchcraft, origin myths, property rights, sharing norms, lullabies,
-  dance, music, and gods, as these have appeared in all types of societies across
-  the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized
-  states.
-id: '362'
-image: https://i.ytimg.com/vi/Ijf8cNBgztA/maxresdefault.jpg
-publishDate: 2020-09-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/362-Manvir-Singh-Shamanism--Witchcraft--Religion--and-Music-egnlot
-tags:
-- Anthropology
-- Psychology
-- Psychology
-title: '#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music'
-youtubeid: Ijf8cNBgztA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/16553181/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-14%2F100ab4e3-bfee-8c3b-5544-17d151fccbfc.m4a",
+	"draft": false,
+	"episodeid": "362",
+	"excerpt": "Dr. Manvir Singh just graduated with a PhD in human evolutionary biology from Harvard University, with a focus on cognitive and evolutionary anthropology. His research program aims to explain why societies develop complex, recurrent traditions such as shamanism, witchcraft, origin myths, property rights, sharing norms, lullabies, dance, music, and gods, as these have appeared in all types of societies across the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized states.",
+	"image": "https://i.ytimg.com/vi/Ijf8cNBgztA/maxresdefault.jpg",
+	"publishDate": 2020-09-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/362-Manvir-Singh-Shamanism--Witchcraft--Religion--and-Music-egnlot",
+	"tags": [
+		"Anthropology",
+		"Psychology",
+		"Psychology"
+	],
+	"title": "#362 Manvir Singh: Shamanism, Witchcraft, Religion, and Music",
+	"youtubeid": "Ijf8cNBgztA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 11th, 2020.  
 Dr. Manvir Singh just graduated with a PhD in human evolutionary biology from Harvard University, with a focus on cognitive and evolutionary anthropology. His research program aims to explain why societies develop complex, recurrent traditions such as shamanism, witchcraft, origin myths, property rights, sharing norms, lullabies, dance, music, and gods, as these have appeared in all types of societies across the globe, from nomadic hunter-gatherer bands to complex, industrial, mega-urbanized states.
 
@@ -48,5 +43,3 @@ Publications: https://bit.ly/2OkOgb3
 ResearchGate profile: https://bit.ly/2WeXaKF  
 Pieces on Aeon: https://bit.ly/3iU3Ath  
 Twitter handle: @mnvrsngh
-</div>
-

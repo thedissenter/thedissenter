@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2241671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121915-44100-2-413bc84eb8faf.m4a
-draft: false
-excerpt: "Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct Associate\
-  \ Professor of Internal Medicine and Associate Professor of Philosophy at the University\
-  \ of Utah. His research focuses largely on the philosophy of science and applied\
-  \ ethics, as well as the intersection between those domains. On the philosophy of\
-  \ science side, he investigates questions of causation and explanation in biology;\
-  \ while on the applied ethics side, he explores how the answers to those questions\
-  \ have ethical, legal, and social implications. He\u2019s also the author of the\
-  \ book Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture."
-id: '142'
-image: https://i.ytimg.com/vi/b9N6ThmvtkA/maxresdefault.jpg
-publishDate: 2019-02-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/142-James-Tabery-The-Nature-Nurture-Debate--And-Its-Ethics-e32tm7
-tags:
-- Philosophy
-title: '#142 James Tabery: The Nature-Nurture Debate, And Its Ethics'
-youtubeid: b9N6ThmvtkA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2241671/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121915-44100-2-413bc84eb8faf.m4a",
+	"draft": false,
+	"episodeid": "142",
+	"excerpt": "Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct Associate Professor of Internal Medicine and Associate Professor of Philosophy at the University of Utah. His research focuses largely on the philosophy of science and applied ethics, as well as the intersection between those domains. On the philosophy of science side, he investigates questions of causation and explanation in biology; while on the applied ethics side, he explores how the answers to those questions have ethical, legal, and social implications. He’s also the author of the book Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture.",
+	"image": "https://i.ytimg.com/vi/b9N6ThmvtkA/maxresdefault.jpg",
+	"publishDate": 2019-02-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/142-James-Tabery-The-Nature-Nurture-Debate--And-Its-Ethics-e32tm7",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#142 James Tabery: The Nature-Nurture Debate, And Its Ethics",
+	"youtubeid": "b9N6ThmvtkA"
+}
 ---
-<div class="timelinks">
-
 Dr. James Tabery is Adjunct Associate Professor of Pediatrics, Adjunct Associate Professor of Internal Medicine and Associate Professor of Philosophy at the University of Utah. His research focuses largely on the philosophy of science and applied ethics, as well as the intersection between those domains. On the philosophy of science side, he investigates questions of causation and explanation in biology; while on the applied ethics side, he explores how the answers to those questions have ethical, legal, and social implications. He’s also the author of the book Beyond Versus: The Struggle to Understand the Interaction of Nature and Nurture.
 
 In this episode, we focus on some of the main topics of Dr. Tabery’s book, Beyond Versus. We go through the historical origins of the nature-nurture debate, and the early stages of Biology, and the influences of genetics and the study of development. Then, we address the complexity of the interaction between genes and the environment, and how they mediate each other’s effects on the organism. And we finish up with a couple of questions about the ethical implications of this science, including the dangers of focusing too much on nature, or believing in extreme environmentalism and views of the mind as a blank slate, and also the technical and ethical limitations to gene editing, human enhancement and eugenics.
@@ -46,5 +40,3 @@ Follow Dr. Tabery’s work:
 Stanford Encyclopedia of Philosophy’s entrances on genetics: https://tinyurl.com/y7qnpled  
 Faculty page: https://tinyurl.com/yde5znvp  
 Beyond Versus: https://tinyurl.com/ya9af47a
-</div>
-

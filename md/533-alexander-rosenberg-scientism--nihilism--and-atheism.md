@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/36587289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F88b61354-9fbf-1210-90b0-fdea10e15984.m4a
-draft: false
-excerpt: "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor of\
-  \ Philosophy at Duke University. He has been a visiting professor and fellow at\
-  \ the Center for the Philosophy of Science, at the University of Minnesota, as well\
-  \ as the University of California, Santa Cruz, and Oxford University, and a visiting\
-  \ fellow of the Philosophy Department at the Research School of Social Science,\
-  \ of the Australian National University. In 2016 he was the Benjamin Meaker Visiting\
-  \ Professor at the University of Bristol. He has held fellowships from the National\
-  \ Science Foundation, the American Council of Learned Societies, and the John Simon\
-  \ Guggenheim Foundation. In 1993, Dr. Rosenberg received the Lakatos Award in the\
-  \ philosophy of science. In 2006-2007 he held a fellowship at the National Humanities\
-  \ Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He\u2019\
-  s the author of both fictional and non-fictional literature, including The Atheist\u2019\
-  s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong."
-id: '533'
-image: https://i.ytimg.com/vi/LwpizkJstkw/maxresdefault.jpg
-publishDate: 2021-10-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/533-Alexander-Rosenberg-Scientism--Nihilism--and-Atheism-e13r2ap
-tags:
-- Philosophy
-title: '#533 Alexander Rosenberg: Scientism, Nihilism, and Atheism'
-youtubeid: LwpizkJstkw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/36587289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F88b61354-9fbf-1210-90b0-fdea10e15984.m4a",
+	"draft": false,
+	"episodeid": "533",
+	"excerpt": "Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor of Philosophy at Duke University. He has been a visiting professor and fellow at the Center for the Philosophy of Science, at the University of Minnesota, as well as the University of California, Santa Cruz, and Oxford University, and a visiting fellow of the Philosophy Department at the Research School of Social Science, of the Australian National University. In 2016 he was the Benjamin Meaker Visiting Professor at the University of Bristol. He has held fellowships from the National Science Foundation, the American Council of Learned Societies, and the John Simon Guggenheim Foundation. In 1993, Dr. Rosenberg received the Lakatos Award in the philosophy of science. In 2006-2007 he held a fellowship at the National Humanities Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He’s the author of both fictional and non-fictional literature, including The Atheist’s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong.",
+	"image": "https://i.ytimg.com/vi/LwpizkJstkw/maxresdefault.jpg",
+	"publishDate": 2021-10-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/533-Alexander-Rosenberg-Scientism--Nihilism--and-Atheism-e13r2ap",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#533 Alexander Rosenberg: Scientism, Nihilism, and Atheism",
+	"youtubeid": "LwpizkJstkw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 29th 2021.  
 Dr. Alexander Rosenberg is the R. Taylor Cole Distinguished Professor of Philosophy at Duke University. He has been a visiting professor and fellow at the Center for the Philosophy of Science, at the University of Minnesota, as well as the University of California, Santa Cruz, and Oxford University, and a visiting fellow of the Philosophy Department at the Research School of Social Science, of the Australian National University. In 2016 he was the Benjamin Meaker Visiting Professor at the University of Bristol. He has held fellowships from the National Science Foundation, the American Council of Learned Societies, and the John Simon Guggenheim Foundation. In 1993, Dr. Rosenberg received the Lakatos Award in the philosophy of science. In 2006-2007 he held a fellowship at the National Humanities Center. He was also the Phi Beta Kappa-Romanell Lecturer for 2006-2007. He’s the author of both fictional and non-fictional literature, including The Atheist’s Guide to Reality, The Girl from Krakow, and How History Gets Things Wrong.
 
@@ -49,5 +38,3 @@ Books: https://tinyurl.com/yag2n2fn
 
 The Atheist’s Guide to Reality: https://amzn.to/3dr7Hf7  
 How History Gets Things Wrong: https://amzn.to/3qCy5rN
-</div>
-

@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76411934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fa91fd9b2-2743-ff88-761c-e35c3a7e238f.m4a
-draft: false
-excerpt: "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where\
-  \ he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal\
-  \ cognition in plants. Dr. Calvo\u2019s interdisciplinary work combines insights\
-  \ from biology, philosophy, and cognitive science to explore the fascinating world\
-  \ of plant behavior, decision-making, and problem-solving. By investigating the\
-  \ complex interactions and adaptive responses exhibited by plants, Dr. Calvo has\
-  \ significantly contributed to our understanding of cognition beyond the animal\
-  \ kingdom, challenging conventional perspectives on intelligence and mental capacities.\
-  \ He is the author of Planta Sapiens: The New Science of Plant Intelligence."
-id: '894'
-image: https://i.ytimg.com/vi/mbvrEBajXPg/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/894-paco-calvo-planta-sapiens-the-new-science-of/id1451347236?i=1000643848416&uo=4
-publishDate: 2024-02-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/894-Paco-Calvo---Planta-Sapiens-The-New-Science-of-Plant-Intelligence-e29qdiu
-tags:
-- Biology
-title: '#894 Paco Calvo - Planta Sapiens: The New Science of Plant Intelligence'
-youtubeid: mbvrEBajXPg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76411934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fa91fd9b2-2743-ff88-761c-e35c3a7e238f.m4a",
+	"draft": false,
+	"episodeid": "894",
+	"excerpt": "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal cognition in plants. Dr. Calvo’s interdisciplinary work combines insights from biology, philosophy, and cognitive science to explore the fascinating world of plant behavior, decision-making, and problem-solving. By investigating the complex interactions and adaptive responses exhibited by plants, Dr. Calvo has significantly contributed to our understanding of cognition beyond the animal kingdom, challenging conventional perspectives on intelligence and mental capacities. He is the author of Planta Sapiens: The New Science of Plant Intelligence.",
+	"image": "https://i.ytimg.com/vi/mbvrEBajXPg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/894-paco-calvo-planta-sapiens-the-new-science-of/id1451347236?i=1000643848416&uo=4",
+	"publishDate": 2024-02-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/894-Paco-Calvo---Planta-Sapiens-The-New-Science-of-Plant-Intelligence-e29qdiu",
+	"tags": [
+		"Biology"
+	],
+	"title": "#894 Paco Calvo - Planta Sapiens: The New Science of Plant Intelligence",
+	"youtubeid": "mbvrEBajXPg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 26th 2023.  
 Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal cognition in plants. Dr. Calvo’s interdisciplinary work combines insights from biology, philosophy, and cognitive science to explore the fascinating world of plant behavior, decision-making, and problem-solving. By investigating the complex interactions and adaptive responses exhibited by plants, Dr. Calvo has significantly contributed to our understanding of cognition beyond the animal kingdom, challenging conventional perspectives on intelligence and mental capacities. He is the author of Planta Sapiens: The New Science of Plant Intelligence.
 
@@ -48,5 +41,3 @@ Follow Dr. Calvo’s work:
 Faculty page: https://bit.ly/3RnSnVq  
 ResearchGate profile: https://bit.ly/3RoBREA  
 Planta Sapiens: https://bit.ly/44WRBC1
-</div>
-

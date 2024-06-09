@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8962027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-12%2F38218257-44100-2-345c1d4b7397f.m4a
-draft: false
-excerpt: "Dr. David Benatar is professor of philosophy at the University of Cape Town\
-  \ in Cape Town, South Africa. He is best known for his advocacy of anti-natalism\
-  \ in his book Better Never to Have Been: The Harm of Coming into Existence, in which\
-  \ he argues that coming into existence is a serious harm, regardless of the feelings\
-  \ of the existing being once brought into existence, and that, as a consequence,\
-  \ it is always morally wrong to create more sentient beings. He\u2019s also the\
-  \ author of books like The Second Sexism: Discrimination Against Men and Boys (2012),\
-  \ and The Human Predicament: A Candid Guide to Life's Biggest Questions (2017)."
-id: '295'
-image: https://i.ytimg.com/vi/ecU9ZP9-aJ0/maxresdefault.jpg
-publishDate: 2020-02-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/295-David-Benatar-The-Second-Sexism-Discrimination-Against-Men-And-Boys-e9g0hb
-tags:
-- Philosophy
-title: '#295 David Benatar: The Second Sexism; Discrimination Against Men And Boys'
-youtubeid: ecU9ZP9-aJ0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8962027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-12%2F38218257-44100-2-345c1d4b7397f.m4a",
+	"draft": false,
+	"episodeid": "295",
+	"excerpt": "Dr. David Benatar is professor of philosophy at the University of Cape Town in Cape Town, South Africa. He is best known for his advocacy of anti-natalism in his book Better Never to Have Been: The Harm of Coming into Existence, in which he argues that coming into existence is a serious harm, regardless of the feelings of the existing being once brought into existence, and that, as a consequence, it is always morally wrong to create more sentient beings. He’s also the author of books like The Second Sexism: Discrimination Against Men and Boys (2012), and The Human Predicament: A Candid Guide to Life's Biggest Questions (2017).",
+	"image": "https://i.ytimg.com/vi/ecU9ZP9-aJ0/maxresdefault.jpg",
+	"publishDate": 2020-02-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/295-David-Benatar-The-Second-Sexism-Discrimination-Against-Men-And-Boys-e9g0hb",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#295 David Benatar: The Second Sexism; Discrimination Against Men And Boys",
+	"youtubeid": "ecU9ZP9-aJ0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 5th, 2019.  
 Dr. David Benatar is professor of philosophy at the University of Cape Town in Cape Town, South Africa. He is best known for his advocacy of anti-natalism in his book Better Never to Have Been: The Harm of Coming into Existence, in which he argues that coming into existence is a serious harm, regardless of the feelings of the existing being once brought into existence, and that, as a consequence, it is always morally wrong to create more sentient beings. He’s also the author of books like The Second Sexism: Discrimination Against Men and Boys (2012), and The Human Predicament: A Candid Guide to Life's Biggest Questions (2017).
 
@@ -58,5 +52,3 @@ PhilPeople profile: http://bit.ly/2OSZ5lS
 Works on ResearchGate: http://bit.ly/2MKydBZ
 
 Twitter handle: @d_benatar
-</div>
-

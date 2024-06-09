@@ -1,31 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41135175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F3eda870d-8aae-a62c-da89-f7d6a23e8e27.m4a
-draft: false
-excerpt: 'Dr. Andreas Jungherr is Professor for Political Science with a focus on
-  the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University
-  Bamberg. He examines the impact of digital media on politics and society. He has
-  worked on the uses of digital media and technology by publics, political actors,
-  and organizations in international comparison. He also addresses challenges for
-  scientific research in reaction to digital change in order to realize opportunities
-  emerging from new data sources and analytical approaches. In this, he has focused
-  on harnessing the potential of digital methods and computational social science
-  while addressing methodological challenges in its integration into the social sciences.
-  He is the author of books like Retooling Politics: How Digital Media are Shaping
-  Democracy, and Analyzing Political Communication with Digital Trace Data: The Role
-  of Twitter Messages in Social Science Research.'
-id: '574'
-image: https://i.ytimg.com/vi/v8yuU1NbFFI/maxresdefault.jpg
-publishDate: 2022-01-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/574-Andreas-Jungherr-Online-Political-Discourse--Digital-Media-and-Politics--and-Misinformation-e185rk7
-tags:
-- Sociology
-- Psychology
-title: '#574 Andreas Jungherr: Online Political Discourse, Digital Media and Politics,
-  and Misinformation'
-youtubeid: v8yuU1NbFFI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41135175/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F3eda870d-8aae-a62c-da89-f7d6a23e8e27.m4a",
+	"draft": false,
+	"episodeid": "574",
+	"excerpt": "Dr. Andreas Jungherr is Professor for Political Science with a focus on the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University Bamberg. He examines the impact of digital media on politics and society. He has worked on the uses of digital media and technology by publics, political actors, and organizations in international comparison. He also addresses challenges for scientific research in reaction to digital change in order to realize opportunities emerging from new data sources and analytical approaches. In this, he has focused on harnessing the potential of digital methods and computational social science while addressing methodological challenges in its integration into the social sciences. He is the author of books like Retooling Politics: How Digital Media are Shaping Democracy, and Analyzing Political Communication with Digital Trace Data: The Role of Twitter Messages in Social Science Research.",
+	"image": "https://i.ytimg.com/vi/v8yuU1NbFFI/maxresdefault.jpg",
+	"publishDate": 2022-01-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/574-Andreas-Jungherr-Online-Political-Discourse--Digital-Media-and-Politics--and-Misinformation-e185rk7",
+	"tags": [
+		"Sociology",
+		"Psychology"
+	],
+	"title": "#574 Andreas Jungherr: Online Political Discourse, Digital Media and Politics, and Misinformation",
+	"youtubeid": "v8yuU1NbFFI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 30th 2021.  
 Dr. Andreas Jungherr is Professor for Political Science with a focus on the Governance of Complex and Innovative Technical Systems at Otto-Friedrich-University Bamberg. He examines the impact of digital media on politics and society. He has worked on the uses of digital media and technology by publics, political actors, and organizations in international comparison. He also addresses challenges for scientific research in reaction to digital change in order to realize opportunities emerging from new data sources and analytical approaches. In this, he has focused on harnessing the potential of digital methods and computational social science while addressing methodological challenges in its integration into the social sciences. He is the author of books like Retooling Politics: How Digital Media are Shaping Democracy, and Analyzing Political Communication with Digital Trace Data: The Role of Twitter Messages in Social Science Research.
 
@@ -50,5 +39,3 @@ Faculty page: https://bit.ly/3zyvYIt
 Website: https://bit.ly/3aVpqKp  
 Amazon page: https://amzn.to/3tYB7s6  
 Twitter handle: @ajungherr
-</div>
-

@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42656228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F67fe621c-fecf-6b39-2fd4-aa14181d7c7f.m4a
-draft: false
-excerpt: 'Dr. Philippe Rochat is Professor of Psychology at Emory University. What
-  is the nature and origins of human self-conscious psychology? Driven by this question,
-  the main focus of Dr. Rochat''s research in the Emory Infant and Child Lab is on
-  the early sense of self, emerging self-concept, the development of social cognition
-  and relatedness, and the emergence of a moral sense during the preschool years in
-  children from all over the world growing up in different cultural environments and
-  socio-economic circumstances. Dr. Rochat has published five books, including Moral
-  Acrobatics: How We Avoid Ethical Ambiguity by Thinking in Black and White.'
-id: '585'
-image: https://i.ytimg.com/vi/f_1YO4q0Ly8/maxresdefault.jpg
-publishDate: 2022-02-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/585-Philippe-Rochat-Moral-Acrobatics-How-We-Avoid-Ethical-Ambiguity-by-Thinking-in-Black-and-White-e19k914
-tags:
-- Psychology
-title: '#585 Philippe Rochat Moral Acrobatics: How We Avoid Ethical Ambiguity by Thinking
-  in Black and White'
-youtubeid: f_1YO4q0Ly8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42656228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-1%2F67fe621c-fecf-6b39-2fd4-aa14181d7c7f.m4a",
+	"draft": false,
+	"episodeid": "585",
+	"excerpt": "Dr. Philippe Rochat is Professor of Psychology at Emory University. What is the nature and origins of human self-conscious psychology? Driven by this question, the main focus of Dr. Rochat's research in the Emory Infant and Child Lab is on the early sense of self, emerging self-concept, the development of social cognition and relatedness, and the emergence of a moral sense during the preschool years in children from all over the world growing up in different cultural environments and socio-economic circumstances. Dr. Rochat has published five books, including Moral Acrobatics: How We Avoid Ethical Ambiguity by Thinking in Black and White.",
+	"image": "https://i.ytimg.com/vi/f_1YO4q0Ly8/maxresdefault.jpg",
+	"publishDate": 2022-02-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/585-Philippe-Rochat-Moral-Acrobatics-How-We-Avoid-Ethical-Ambiguity-by-Thinking-in-Black-and-White-e19k914",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#585 Philippe Rochat Moral Acrobatics: How We Avoid Ethical Ambiguity by Thinking in Black and White",
+	"youtubeid": "f_1YO4q0Ly8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 1st 2021.  
 Dr. Philippe Rochat is Professor of Psychology at Emory University. What is the nature and origins of human self-conscious psychology? Driven by this question, the main focus of Dr. Rochat's research in the Emory Infant and Child Lab is on the early sense of self, emerging self-concept, the development of social cognition and relatedness, and the emergence of a moral sense during the preschool years in children from all over the world growing up in different cultural environments and socio-economic circumstances. Dr. Rochat has published five books, including Moral Acrobatics: How We Avoid Ethical Ambiguity by Thinking in Black and White.
 
@@ -47,5 +40,3 @@ University page: https://bit.ly/3aCRy5e
 ResearchGate profile: https://bit.ly/3ul5KXX  
 Books on Amazon: https://amzn.to/3nLlNfq  
 Moral Acrobatics: https://amzn.to/3eXJ1e2
-</div>
-

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10095225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46156243-44100-2-d9b05491824bf.m4a
-draft: false
-excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University
-  of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent
-  University in Turkey and a Visiting Fellow at the Institute for Advanced Study in
-  Berlin, Germany. Laith has taught and conducted research in several different countries,
-  and is a member of the Arab-German Young Academy (AGYA), as well as an academic
-  adviser at Ideas Beyond Borders (IBB).
-id: '296'
-image: https://i.ytimg.com/vi/keIP7rSMUSA/maxresdefault.jpg
-publishDate: 2020-02-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/296-Laith-Al-Shawaf-The-Theoretical-Bases-Of-Evolutionary-Psychology--And-Common-Misconceptions-eaij5p
-tags:
-- Psychology
-title: '#296 Laith Al-Shawaf: The Theoretical Bases Of Evolutionary Psychology, And
-  Common Misconceptions'
-youtubeid: keIP7rSMUSA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10095225/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46156243-44100-2-d9b05491824bf.m4a",
+	"draft": false,
+	"episodeid": "296",
+	"excerpt": "Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent University in Turkey and a Visiting Fellow at the Institute for Advanced Study in Berlin, Germany. Laith has taught and conducted research in several different countries, and is a member of the Arab-German Young Academy (AGYA), as well as an academic adviser at Ideas Beyond Borders (IBB).",
+	"image": "https://i.ytimg.com/vi/keIP7rSMUSA/maxresdefault.jpg",
+	"publishDate": 2020-02-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/296-Laith-Al-Shawaf-The-Theoretical-Bases-Of-Evolutionary-Psychology--And-Common-Misconceptions-eaij5p",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#296 Laith Al-Shawaf: The Theoretical Bases Of Evolutionary Psychology, And Common Misconceptions",
+	"youtubeid": "keIP7rSMUSA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 6th, 2019.  
 Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent University in Turkey and a Visiting Fellow at the Institute for Advanced Study in Berlin, Germany. Laith has taught and conducted research in several different countries, and is a member of the Arab-German Young Academy (AGYA), as well as an academic adviser at Ideas Beyond Borders (IBB).
 
@@ -55,5 +50,3 @@ Relevant papers:
 Evolutionary psychology: A how-to guide: http://bit.ly/2s72fZX  
 Context, Environment, and Learning in Evolutionary Psychology: http://bit.ly/35GTWTZ  
 Seven Key Misconceptions about Evolutionary Psychology – Areo: http://bit.ly/33F2fhh
-</div>
-

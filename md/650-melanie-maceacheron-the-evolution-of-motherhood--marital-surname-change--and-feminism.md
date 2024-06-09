@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51181859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-27%2Faa60da0e-eef0-0266-cb98-0d0bad282bad.m4a
-draft: false
-excerpt: Dr. Melanie MacEacheron is a Lecturer in the School of Social and Behavioral
-  Sciences at Arizona State University. Her current research focus is women's psychology
-  as potential or actual mothers or allomothers, and sex differences in mateships
-  and romantic relationships. Of particular interest to her, is our ability to creatively
-  label or act on evolved desires in order to serve our evolutionary interests, even
-  or especially where these are not consciously known to us, and to influence others.
-id: '650'
-image: https://i.ytimg.com/vi/FzHMnDZEQkc/maxresdefault.jpg
-publishDate: 2022-07-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/650-Melanie-MacEacheron-The-Evolution-of-Motherhood--Marital-Surname-Change--and-Feminism-e1hoer3
-tags:
-- Psychology
-title: '#650 Melanie MacEacheron: The Evolution of Motherhood, Marital Surname Change,
-  and Feminism'
-youtubeid: FzHMnDZEQkc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51181859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-27%2Faa60da0e-eef0-0266-cb98-0d0bad282bad.m4a",
+	"draft": false,
+	"episodeid": "650",
+	"excerpt": "Dr. Melanie MacEacheron is a Lecturer in the School of Social and Behavioral Sciences at Arizona State University. Her current research focus is women's psychology as potential or actual mothers or allomothers, and sex differences in mateships and romantic relationships. Of particular interest to her, is our ability to creatively label or act on evolved desires in order to serve our evolutionary interests, even or especially where these are not consciously known to us, and to influence others.",
+	"image": "https://i.ytimg.com/vi/FzHMnDZEQkc/maxresdefault.jpg",
+	"publishDate": 2022-07-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/650-Melanie-MacEacheron-The-Evolution-of-Motherhood--Marital-Surname-Change--and-Feminism-e1hoer3",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#650 Melanie MacEacheron: The Evolution of Motherhood, Marital Surname Change, and Feminism",
+	"youtubeid": "FzHMnDZEQkc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 27th 2022.  
 Dr. Melanie MacEacheron is a Lecturer in the School of Social and Behavioral Sciences at Arizona State University. Her current research focus is women's psychology as potential or actual mothers or allomothers, and sex differences in mateships and romantic relationships. Of particular interest to her, is our ability to creatively label or act on evolved desires in order to serve our evolutionary interests, even or especially where these are not consciously known to us, and to influence others.
 
@@ -45,5 +40,3 @@ Time Links:
 Follow Dr. MacEacheron’s work:  
 Faculty page: https://bit.ly/32Spp99  
 ResearchGate profile: https://bit.ly/3Js6KSa
-</div>
-

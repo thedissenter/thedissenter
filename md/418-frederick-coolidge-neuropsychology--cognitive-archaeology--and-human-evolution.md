@@ -1,33 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22531783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F559611f5-836f-d48c-9b98-a438236afa2a.m4a
-draft: false
-excerpt: "Dr. Frederick Coolidge is Professor of Psychology and Co-Director of Undergraduate\
-  \ Education in Psychology at the University of Colorado, Colorado Springs. He teaches\
-  \ introductory and advanced undergraduate statistics, cognitive evolution, evolutionary\
-  \ neuropsychology, abnormal psychology, and sleep and dreams. He has received three\
-  \ teaching awards including the lifetime designation, University of Colorado Presidential\
-  \ Teaching Scholar, and he received the UCCS Letters, Arts, and Sciences Annual\
-  \ Outstanding Research and Creative Works Award, in 2004, and the UCCS Annual Faculty\
-  \ Award for Excellence in Research in 2006. For the month of March 2015, he was\
-  \ appointed Senior Visiting Scholar at Oxford University, Keble College, UK. For\
-  \ the past 6 years, he has been a Visiting Professor at the Indian Institute of\
-  \ Technology Gandhinagar, India, teaching courses on brain evolution and sleep and\
-  \ dreams. He\u2019s the coeditor of Squeezing Minds From Stones: Cognitive Archaeology\
-  \ and the Evolution of the Human Mind."
-id: '418'
-image: https://i.ytimg.com/vi/f0wM58nAjiY/maxresdefault.jpg
-publishDate: 2021-01-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/418-Frederick-Coolidge-Neuropsychology--Cognitive-Archaeology--and-Human-Evolution-eme487
-tags:
-- Archaeology
-- Anthropology
-- Psychology
-title: '#418 Frederick Coolidge: Neuropsychology, Cognitive Archaeology, and Human
-  Evolution'
-youtubeid: f0wM58nAjiY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22531783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2F559611f5-836f-d48c-9b98-a438236afa2a.m4a",
+	"draft": false,
+	"episodeid": "418",
+	"excerpt": "Dr. Frederick Coolidge is Professor of Psychology and Co-Director of Undergraduate Education in Psychology at the University of Colorado, Colorado Springs. He teaches introductory and advanced undergraduate statistics, cognitive evolution, evolutionary neuropsychology, abnormal psychology, and sleep and dreams. He has received three teaching awards including the lifetime designation, University of Colorado Presidential Teaching Scholar, and he received the UCCS Letters, Arts, and Sciences Annual Outstanding Research and Creative Works Award, in 2004, and the UCCS Annual Faculty Award for Excellence in Research in 2006. For the month of March 2015, he was appointed Senior Visiting Scholar at Oxford University, Keble College, UK. For the past 6 years, he has been a Visiting Professor at the Indian Institute of Technology Gandhinagar, India, teaching courses on brain evolution and sleep and dreams. He’s the coeditor of Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind.",
+	"image": "https://i.ytimg.com/vi/f0wM58nAjiY/maxresdefault.jpg",
+	"publishDate": 2021-01-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/418-Frederick-Coolidge-Neuropsychology--Cognitive-Archaeology--and-Human-Evolution-eme487",
+	"tags": [
+		"Archaeology",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#418 Frederick Coolidge: Neuropsychology, Cognitive Archaeology, and Human Evolution",
+	"youtubeid": "f0wM58nAjiY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 11th 2020.  
 Dr. Frederick Coolidge is Professor of Psychology and Co-Director of Undergraduate Education in Psychology at the University of Colorado, Colorado Springs. He teaches introductory and advanced undergraduate statistics, cognitive evolution, evolutionary neuropsychology, abnormal psychology, and sleep and dreams. He has received three teaching awards including the lifetime designation, University of Colorado Presidential Teaching Scholar, and he received the UCCS Letters, Arts, and Sciences Annual Outstanding Research and Creative Works Award, in 2004, and the UCCS Annual Faculty Award for Excellence in Research in 2006. For the month of March 2015, he was appointed Senior Visiting Scholar at Oxford University, Keble College, UK. For the past 6 years, he has been a Visiting Professor at the Indian Institute of Technology Gandhinagar, India, teaching courses on brain evolution and sleep and dreams. He’s the coeditor of Squeezing Minds From Stones: Cognitive Archaeology and the Evolution of the Human Mind.
 
@@ -55,5 +43,3 @@ Research: https://bit.ly/2UvIwOV
 ResearchGate profile: https://bit.ly/38wU5gH  
 Squeezing Minds From Stones: https://amzn.to/3ePFj5M  
 Evolutionary Neuropsychology: https://amzn.to/36siCAR
-</div>
-

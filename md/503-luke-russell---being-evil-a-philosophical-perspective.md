@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/32037994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F6fdebcdc-eb79-b6e1-7981-f9ddde80d6d0.m4a
-draft: false
-excerpt: 'Dr. Luke Russell is Associate Professor in the Department of Philosophy
-  at the University of Sydney. His research explores moral philosophy and he has written
-  about evil, forgiveness, virtue and vice. Dr. Russell teaches ethics, moral psychology,
-  and critical thinking, as well as running the University''s high school philosophy
-  course, Mind and Morality. His new book is Being Evil: A Philosophical Perspective.'
-id: '503'
-image: https://i.ytimg.com/vi/IESu4qmyBmQ/maxresdefault.jpg
-publishDate: 2021-08-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/503-Luke-Russell---Being-Evil-A-Philosophical-Perspective-evg7la
-tags:
-- Philosophy
-title: '#503 Luke Russell - Being Evil: A Philosophical Perspective'
-youtubeid: IESu4qmyBmQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/32037994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2F6fdebcdc-eb79-b6e1-7981-f9ddde80d6d0.m4a",
+	"draft": false,
+	"episodeid": "503",
+	"excerpt": "Dr. Luke Russell is Associate Professor in the Department of Philosophy at the University of Sydney. His research explores moral philosophy and he has written about evil, forgiveness, virtue and vice. Dr. Russell teaches ethics, moral psychology, and critical thinking, as well as running the University's high school philosophy course, Mind and Morality. His new book is Being Evil: A Philosophical Perspective.",
+	"image": "https://i.ytimg.com/vi/IESu4qmyBmQ/maxresdefault.jpg",
+	"publishDate": 2021-08-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/503-Luke-Russell---Being-Evil-A-Philosophical-Perspective-evg7la",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#503 Luke Russell - Being Evil: A Philosophical Perspective",
+	"youtubeid": "IESu4qmyBmQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 22nd 2021.  
 Dr. Luke Russell is Associate Professor in the Department of Philosophy at the University of Sydney. His research explores moral philosophy and he has written about evil, forgiveness, virtue and vice. Dr. Russell teaches ethics, moral psychology, and critical thinking, as well as running the University's high school philosophy course, Mind and Morality. His new book is Being Evil: A Philosophical Perspective.
 
@@ -38,5 +35,3 @@ Follow Dr. Russell’s work:
 Faculty page: https://bit.ly/2NPUeDX  
 PhilPeople page: https://bit.ly/3tChm8F  
 Being Evil: https://amzn.to/39qJVOT
-</div>
-

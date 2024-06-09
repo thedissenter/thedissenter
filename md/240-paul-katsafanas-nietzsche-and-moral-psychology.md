@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4248058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21094432-44100-2-402301983715a.m4a
-draft: false
-excerpt: "Dr. Paul Katsafanas is Associate Professor in the Department of Philosophy\
-  \ at Boston University. He works on ethics, moral psychology, and nineteenth-century\
-  \ philosophy. He\u2019s the author of the books Agency and the Foundations of Ethics:\
-  \ Nietzschean Constitutivism, and The Nietzschean Self: Moral Psychology, Agency,\
-  \ and the Unconscious."
-id: '240'
-image: https://i.ytimg.com/vi/o7LxgsSZbZk/maxresdefault.jpg
-publishDate: 2019-10-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/240-Paul-Katsafanas-Nietzsche-And-Moral-Psychology-e5051q
-tags:
-- Philosophy
-title: '#240 Paul Katsafanas: Nietzsche and Moral Psychology'
-youtubeid: o7LxgsSZbZk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4248058/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21094432-44100-2-402301983715a.m4a",
+	"draft": false,
+	"episodeid": "240",
+	"excerpt": "Dr. Paul Katsafanas is Associate Professor in the Department of Philosophy at Boston University. He works on ethics, moral psychology, and nineteenth-century philosophy. He’s the author of the books Agency and the Foundations of Ethics: Nietzschean Constitutivism, and The Nietzschean Self: Moral Psychology, Agency, and the Unconscious.",
+	"image": "https://i.ytimg.com/vi/o7LxgsSZbZk/maxresdefault.jpg",
+	"publishDate": 2019-10-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/240-Paul-Katsafanas-Nietzsche-And-Moral-Psychology-e5051q",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#240 Paul Katsafanas: Nietzsche and Moral Psychology",
+	"youtubeid": "o7LxgsSZbZk"
+}
 ---
-<div class="timelinks">
-
 Dr. Paul Katsafanas is Associate Professor in the Department of Philosophy at Boston University. He works on ethics, moral psychology, and nineteenth-century philosophy. He’s the author of the books Agency and the Foundations of Ethics: Nietzschean Constitutivism, and The Nietzschean Self: Moral Psychology, Agency, and the Unconscious.
 
 In this episode, we talk about some of Nietzsche’s insights on human psychology, and how that relates to his moral philosophy. We start off by discussing the importance of studying human nature to do good moral philosophy, and the issues with some approaches in ethics like rationalism and intuitionism. Then we get into some of Nietzsche’s observations on the differences between reflective and unreflective action; the dynamical relationships between the conscious and the unconscious; and how concepts acquired through culture might influence our thinking. Referring to topics directly related to morality and ethics, we also talk about freedom, agency, and responsibility; Nietzschean drives; and the Will. We finally discuss Nietzsche’s morality, and if it was relativistic or subjective.
@@ -48,5 +45,3 @@ Relevant books:
 Agency and the Foundations of Ethics: Nietzschean Constitutivism: https://amzn.to/2Mcy38T  
 The Nietzschean Self: Moral Psychology, Agency, and the Unconscious: https://amzn.to/2TotusO  
 The Nietzschean Mind: https://amzn.to/2MRG0zM
-</div>
-

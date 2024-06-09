@@ -1,29 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/23851653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F2cb65e97-2988-9ad3-6778-0d76058c7f5c.m4a
-draft: false
-excerpt: "Dr. Michael Tomasello is an American developmental and comparative psychologist,\
-  \ as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary\
-  \ Anthropology in Leipzig, and professor of psychology at Duke University. Earning\
-  \ many prizes and awards from the end of the 1990s onward, he is considered one\
-  \ of today's most authoritative developmental and comparative psychologists. He\
-  \ is \"one of the few scientists worldwide who is acknowledged as an expert in multiple\
-  \ disciplines\". His \"pioneering research on the origins of social cognition has\
-  \ led to revolutionary insights in both developmental psychology and primate cognition.\"\
-  \ He\u2019s also the author of several books, including The Cultural Origins of\
-  \ Human Cognition (1999), A Natural History of Human Thinking (2014), A Natural\
-  \ History of Human Morality (2016), and Becoming Human: A Theory of Ontogeny (2019)."
-id: '422'
-image: https://i.ytimg.com/vi/yt9eS0pCsgo/maxresdefault.jpg
-publishDate: 2021-01-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/422-Michael-Tomasello-Interdependence--Shared-Intentionality--Culture--and-Morality-enmd65
-tags:
-- Psychology
-title: '#422 Michael Tomasello: Interdependence, Shared Intentionality, Culture, and
-  Morality'
-youtubeid: yt9eS0pCsgo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/23851653/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F2cb65e97-2988-9ad3-6778-0d76058c7f5c.m4a",
+	"draft": false,
+	"episodeid": "422",
+	"excerpt": "Dr. Michael Tomasello is an American developmental and comparative psychologist, as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary Anthropology in Leipzig, and professor of psychology at Duke University. Earning many prizes and awards from the end of the 1990s onward, he is considered one of today's most authoritative developmental and comparative psychologists. He is \"one of the few scientists worldwide who is acknowledged as an expert in multiple disciplines\". His \"pioneering research on the origins of social cognition has led to revolutionary insights in both developmental psychology and primate cognition.\" He’s also the author of several books, including The Cultural Origins of Human Cognition (1999), A Natural History of Human Thinking (2014), A Natural History of Human Morality (2016), and Becoming Human: A Theory of Ontogeny (2019).",
+	"image": "https://i.ytimg.com/vi/yt9eS0pCsgo/maxresdefault.jpg",
+	"publishDate": 2021-01-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/422-Michael-Tomasello-Interdependence--Shared-Intentionality--Culture--and-Morality-enmd65",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#422 Michael Tomasello: Interdependence, Shared Intentionality, Culture, and Morality",
+	"youtubeid": "yt9eS0pCsgo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 11th 2020.  
 Dr. Michael Tomasello is an American developmental and comparative psychologist, as well as linguist. He is Emeritus Director of the Max Planck Institute for Evolutionary Anthropology in Leipzig, and professor of psychology at Duke University. Earning many prizes and awards from the end of the 1990s onward, he is considered one of today's most authoritative developmental and comparative psychologists. He is "one of the few scientists worldwide who is acknowledged as an expert in multiple disciplines". His "pioneering research on the origins of social cognition has led to revolutionary insights in both developmental psychology and primate cognition." He’s also the author of several books, including The Cultural Origins of Human Cognition (1999), A Natural History of Human Thinking (2014), A Natural History of Human Morality (2016), and Becoming Human: A Theory of Ontogeny (2019).
 
@@ -52,5 +42,3 @@ Max Planck page: https://bit.ly/376G0ph
 Works on ResearchGate: https://bit.ly/377a9EM  
 Amazon page: https://amzn.to/3n96Xhy  
 Becoming Human: https://amzn.to/3mbVYm6
-</div>
-

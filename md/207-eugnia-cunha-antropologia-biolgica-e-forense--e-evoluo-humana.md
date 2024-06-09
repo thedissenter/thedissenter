@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3354892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848708-44100-2-6086dabb7ad87.m4a
-draft: false
-excerpt: "A Dra. Eug\xE9nia Cunha \xE9 Professora Catedr\xE1tica de Antropologia no\
-  \ Departamento de Ci\xEAncias da Vida da FCTUC (Faculdade de Ci\xEAncias e Tecnologia\
-  \ da Universidade de Coimbra). \xC9, desde 2018, Diretora do Instituto de Medicina\
-  \ Legal de Lisboa, Coordenadora do 2\xBA ciclo em Evolu\xE7\xE3o e Biologia Humana\
-  \ na FCTUC, sendo igualmente co-editora de um livro internacional em Antropologia\
-  \ Forense e autora de diversos artigos cient\xEDficos e de divulga\xE7\xE3o. A sua\
-  \ investiga\xE7\xE3o foca-se na biologia do esqueleto no \xE2mbito da Antropologia\
-  \ Forense e da Evolu\xE7\xE3o Humana."
-id: '207'
-image: https://i.ytimg.com/vi/g1UX4HfUmFc/maxresdefault.jpg
-publishDate: 2019-07-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/207-Eugnia-Cunha-Antropologia-Biolgica-e-Forense--e-Evoluo-Humana-e44sqc
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Anthropology
-title: "#207 Eug\xE9nia Cunha: Antropologia Biol\xF3gica e Forense, e Evolu\xE7\xE3\
-  o Humana"
-youtubeid: g1UX4HfUmFc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3354892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-24%2F15848708-44100-2-6086dabb7ad87.m4a",
+	"draft": false,
+	"episodeid": "207",
+	"excerpt": "A Dra. Eugénia Cunha é Professora Catedrática de Antropologia no Departamento de Ciências da Vida da FCTUC (Faculdade de Ciências e Tecnologia da Universidade de Coimbra). É, desde 2018, Diretora do Instituto de Medicina Legal de Lisboa, Coordenadora do 2º ciclo em Evolução e Biologia Humana na FCTUC, sendo igualmente co-editora de um livro internacional em Antropologia Forense e autora de diversos artigos científicos e de divulgação. A sua investigação foca-se na biologia do esqueleto no âmbito da Antropologia Forense e da Evolução Humana.",
+	"image": "https://i.ytimg.com/vi/g1UX4HfUmFc/maxresdefault.jpg",
+	"publishDate": 2019-07-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/207-Eugnia-Cunha-Antropologia-Biolgica-e-Forense--e-Evoluo-Humana-e44sqc",
+	"tags": [
+		"Entrevistas em Português",
+		"Anthropology"
+	],
+	"title": "#207 Eugénia Cunha: Antropologia Biológica e Forense, e Evolução Humana",
+	"youtubeid": "g1UX4HfUmFc"
+}
 ---
-<div class="timelinks">
-
 A Dra. Eugénia Cunha é Professora Catedrática de Antropologia no Departamento de Ciências da Vida da FCTUC (Faculdade de Ciências e Tecnologia da Universidade de Coimbra). É, desde 2018, Diretora do Instituto de Medicina Legal de Lisboa, Coordenadora do 2º ciclo em Evolução e Biologia Humana na FCTUC, sendo igualmente co-editora de um livro internacional em Antropologia Forense e autora de diversos artigos científicos e de divulgação. A sua investigação foca-se na biologia do esqueleto no âmbito da Antropologia Forense e da Evolução Humana.
 
 Neste episódio, falamos sobre Antropologia Biológica, Antropologia Forense e alguns aspetos da nossa história evolutiva. Começamos por falar sobre o que é a Antropologia Biológica, dificuldades e limitações em reconstruir a nossa história evolutiva, a descoberta recente do H. luzonensis, a iliteracia científica generalizada e o cuidado que é necessário ter na comunicação da ciência. Abordamos também tópicos específicos, como a classificação de espécies de hominídeos, o caso dos Neandertais e das suas capacidades e porque é que se extinguiram, e a evolução do bipedismo e da dieta humana. Terminamos com uma curta exposição acerca do que é a Antropologia Forense e aquilo que estuda.
@@ -55,5 +48,3 @@ Antropóloga Forense: https://bit.ly/2JwjV8O
 Eugenia Cunha - 5 MINUTOS COM UM CIENTISTA: https://bit.ly/2HwlS3b  
 Ossos: Eugénia Cunha at TEDxCoimbra: https://bit.ly/2VVvzRm  
 Ler Ossos | Eugénia Cunha | TEDxMatosinhos: https://bit.ly/2JvpggR
-</div>
-

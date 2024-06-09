@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41445932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fea6708a4-86de-190e-9c66-bd2ffb92cdda.m4a
-draft: false
-excerpt: "Dr. Russell Gray is the director to the Max Planck Institute for Evolutionary\
-  \ Anthropology in Leipzig. He also holds an adjunct position in the School of Psychology\
-  \ at the University of Auckland. Dr. Gray\u2019s research spans the areas of cultural\
-  \ evolution, linguistics, animal cognition, and the philosophy of biology. He helped\
-  \ pioneer the application of computational evolutionary methods to questions about\
-  \ linguistic prehistory and cultural evolution. His work has shed new insights on\
-  \ the 200 year-old debate on the origin of Indo-European languages."
-id: '577'
-image: https://i.ytimg.com/vi/RGML2mMAaEI/maxresdefault.jpg
-publishDate: 2022-01-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/577-Russell-Gray-Language-Evolution--Big-Gods-and-Rituals--and-Animal-Cognition-e18fb3c
-tags:
-- Linguistics
-- Biology
-- Anthropology
-title: '#577 Russell Gray: Language Evolution, Big Gods and Rituals, and Animal Cognition'
-youtubeid: RGML2mMAaEI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41445932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2Fea6708a4-86de-190e-9c66-bd2ffb92cdda.m4a",
+	"draft": false,
+	"episodeid": "577",
+	"excerpt": "Dr. Russell Gray is the director to the Max Planck Institute for Evolutionary Anthropology in Leipzig. He also holds an adjunct position in the School of Psychology at the University of Auckland. Dr. Gray’s research spans the areas of cultural evolution, linguistics, animal cognition, and the philosophy of biology. He helped pioneer the application of computational evolutionary methods to questions about linguistic prehistory and cultural evolution. His work has shed new insights on the 200 year-old debate on the origin of Indo-European languages.",
+	"image": "https://i.ytimg.com/vi/RGML2mMAaEI/maxresdefault.jpg",
+	"publishDate": 2022-01-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/577-Russell-Gray-Language-Evolution--Big-Gods-and-Rituals--and-Animal-Cognition-e18fb3c",
+	"tags": [
+		"Linguistics",
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#577 Russell Gray: Language Evolution, Big Gods and Rituals, and Animal Cognition",
+	"youtubeid": "RGML2mMAaEI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 6th 2021.  
 Dr. Russell Gray is the director to the Max Planck Institute for Evolutionary Anthropology in Leipzig. He also holds an adjunct position in the School of Psychology at the University of Auckland. Dr. Gray’s research spans the areas of cultural evolution, linguistics, animal cognition, and the philosophy of biology. He helped pioneer the application of computational evolutionary methods to questions about linguistic prehistory and cultural evolution. His work has shed new insights on the 200 year-old debate on the origin of Indo-European languages.
 
@@ -47,5 +42,3 @@ Time Links:
 Follow Dr. Gray’s work:  
 University page http://bit.ly/3nu6HKe  
 ResearchGate profile: http://bit.ly/3gYEgBO
-</div>
-

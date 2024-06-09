@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/31485679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F87e0ca86-c9a7-eafe-be30-98e0da26df3d.m4a
-draft: false
-excerpt: 'Dr. Nicolas Bommarito is Assistant Professor of Philosophy at Simon Fraser
-  University. His research focuses on questions in virtue ethics, moral psychology,
-  and Buddhist philosophy, particularly Tibetan Buddhism. He is the author of Seeing
-  Clearly: A Buddhist Guide to Life.'
-id: '499'
-image: https://i.ytimg.com/vi/uIy00E3WQw0/maxresdefault.jpg
-publishDate: 2021-07-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/499-Nic-Bommarito---Seeing-Clearly-A-Buddhist-Guide-to-Life-euvc9f
-tags:
-- Philosophy
-title: '#499 Nic Bommarito - Seeing Clearly: A Buddhist Guide to Life'
-youtubeid: uIy00E3WQw0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/31485679/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-15%2F87e0ca86-c9a7-eafe-be30-98e0da26df3d.m4a",
+	"draft": false,
+	"episodeid": "499",
+	"excerpt": "Dr. Nicolas Bommarito is Assistant Professor of Philosophy at Simon Fraser University. His research focuses on questions in virtue ethics, moral psychology, and Buddhist philosophy, particularly Tibetan Buddhism. He is the author of Seeing Clearly: A Buddhist Guide to Life.",
+	"image": "https://i.ytimg.com/vi/uIy00E3WQw0/maxresdefault.jpg",
+	"publishDate": 2021-07-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/499-Nic-Bommarito---Seeing-Clearly-A-Buddhist-Guide-to-Life-euvc9f",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#499 Nic Bommarito - Seeing Clearly: A Buddhist Guide to Life",
+	"youtubeid": "uIy00E3WQw0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 13th 2021.  
 Dr. Nicolas Bommarito is Assistant Professor of Philosophy at Simon Fraser University. His research focuses on questions in virtue ethics, moral psychology, and Buddhist philosophy, particularly Tibetan Buddhism. He is the author of Seeing Clearly: A Buddhist Guide to Life.
 
@@ -38,5 +36,3 @@ PhilPeople profile: https://bit.ly/3e1YWI3
 Amazon page: https://amzn.to/2OJGf3f  
 Seeing Clearly: https://amzn.to/2MxUsic  
 Twitter handle: @bu_chung
-</div>
-

@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72325673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-19%2F285ade6c-ef69-32b0-753b-38fe0a33ec45.m4a
-draft: false
-excerpt: "Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer in\
-  \ Philosophy at Cardiff University. Her research falls at the intersection of philosophy\
-  \ of art, philosophy of language, and political philosophy. She explores how visual\
-  \ art behaves like speech, and how curators and interpreters can affect what an\
-  \ artwork communicates to its audience. Her current project concerns unjust aesthetics\
-  \ and aesthetic injustice, focusing on artistic hate speech, aesthetic \u2018counterspeech\u2019\
-  , and deceptive art. Her teaching interests span aesthetics, philosophy of language,\
-  \ ethics, and feminist philosophy. She is also a practicing artist in paint and\
-  \ sound."
-id: '800'
-image: https://i.ytimg.com/vi/CLsfD_T4Yrk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/800-daisy-dixon-art-as-speech-artistic-hate-speech/id1451347236?i=1000618394421&uo=4
-publishDate: 2023-06-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/800-Daisy-Dixon-Art-as-Speech--Artistic-Hate-Speech--and-Immoral-Artists-e25tn39
-tags:
-- Art
-- Philosophy
-title: '#800 Daisy Dixon: Art as Speech, Artistic Hate Speech, and Immoral Artists'
-youtubeid: CLsfD_T4Yrk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72325673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-19%2F285ade6c-ef69-32b0-753b-38fe0a33ec45.m4a",
+	"draft": false,
+	"episodeid": "800",
+	"excerpt": "Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer in Philosophy at Cardiff University. Her research falls at the intersection of philosophy of art, philosophy of language, and political philosophy. She explores how visual art behaves like speech, and how curators and interpreters can affect what an artwork communicates to its audience. Her current project concerns unjust aesthetics and aesthetic injustice, focusing on artistic hate speech, aesthetic ‘counterspeech’, and deceptive art. Her teaching interests span aesthetics, philosophy of language, ethics, and feminist philosophy. She is also a practicing artist in paint and sound.",
+	"image": "https://i.ytimg.com/vi/CLsfD_T4Yrk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/800-daisy-dixon-art-as-speech-artistic-hate-speech/id1451347236?i=1000618394421&uo=4",
+	"publishDate": 2023-06-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/800-Daisy-Dixon-Art-as-Speech--Artistic-Hate-Speech--and-Immoral-Artists-e25tn39",
+	"tags": [
+		"Art",
+		"Philosophy"
+	],
+	"title": "#800 Daisy Dixon: Art as Speech, Artistic Hate Speech, and Immoral Artists",
+	"youtubeid": "CLsfD_T4Yrk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 19th 2023.  
 Dr. Daisy Dixon is a philosopher of art and an artist, and a Lecturer in Philosophy at Cardiff University. Her research falls at the intersection of philosophy of art, philosophy of language, and political philosophy. She explores how visual art behaves like speech, and how curators and interpreters can affect what an artwork communicates to its audience. Her current project concerns unjust aesthetics and aesthetic injustice, focusing on artistic hate speech, aesthetic ‘counterspeech’, and deceptive art. Her teaching interests span aesthetics, philosophy of language, ethics, and feminist philosophy. She is also a practicing artist in paint and sound.
 
@@ -49,5 +42,3 @@ Follow Dr. Dixon’s work:
 Website: https://bit.ly/3HTCNuo  
 PhilPeople profile: https://bit.ly/3K91WUB  
 Twitter handle: @daisyldixon
-</div>
-

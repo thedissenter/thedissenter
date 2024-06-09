@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/48097185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-23%2Fbda0af95-41f0-4642-7ef5-af39adcd16df.m4a
-draft: false
-excerpt: Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University of
-  London. Her research spans the areas of metametaphysics, the metaphysics of pregnancy,
-  the epistemology of logic, and feminist and queer theory. She is the editor of 'Women
-  of Ideas' published with Oxford University Press which is a selection of interviews
-  with women from Philosophy Bites. She is an Associate Fellow of the Higher Education
-  Academy; she is on the Executive Committee for the Society for Women in Philosophy
-  UK; she is on the Council for the Royal Institute of Philosophy; and she is a Union
-  Committee member for RHUL UCU.
-id: '630'
-image: https://i.ytimg.com/vi/7gmTZ9m-Sd0/maxresdefault.jpg
-publishDate: 2022-05-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/630-Suki-Finn-Epistemology-of-Logic--the-Philosophy-of-Love--and-the-Metaphysics-of-Pregnancy-e1eqaf1
-tags:
-- Philosophy
-title: '#630 Suki Finn: Epistemology of Logic, the Philosophy of Love, and the Metaphysics
-  of Pregnancy'
-youtubeid: 7gmTZ9m-Sd0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/48097185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-23%2Fbda0af95-41f0-4642-7ef5-af39adcd16df.m4a",
+	"draft": false,
+	"episodeid": "630",
+	"excerpt": "Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University of London. Her research spans the areas of metametaphysics, the metaphysics of pregnancy, the epistemology of logic, and feminist and queer theory. She is the editor of 'Women of Ideas' published with Oxford University Press which is a selection of interviews with women from Philosophy Bites. She is an Associate Fellow of the Higher Education Academy; she is on the Executive Committee for the Society for Women in Philosophy UK; she is on the Council for the Royal Institute of Philosophy; and she is a Union Committee member for RHUL UCU.",
+	"image": "https://i.ytimg.com/vi/7gmTZ9m-Sd0/maxresdefault.jpg",
+	"publishDate": 2022-05-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/630-Suki-Finn-Epistemology-of-Logic--the-Philosophy-of-Love--and-the-Metaphysics-of-Pregnancy-e1eqaf1",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#630 Suki Finn: Epistemology of Logic, the Philosophy of Love, and the Metaphysics of Pregnancy",
+	"youtubeid": "7gmTZ9m-Sd0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 23rd 2022.  
 Dr. Suki Finn is a Lecturer in Philosophy at Royal Holloway University of London. Her research spans the areas of metametaphysics, the metaphysics of pregnancy, the epistemology of logic, and feminist and queer theory. She is the editor of 'Women of Ideas' published with Oxford University Press which is a selection of interviews with women from Philosophy Bites. She is an Associate Fellow of the Higher Education Academy; she is on the Executive Committee for the Society for Women in Philosophy UK; she is on the Council for the Royal Institute of Philosophy; and she is a Union Committee member for RHUL UCU.
 
@@ -49,5 +42,3 @@ University page: https://bit.ly/3vThjY0
 Website: https://bit.ly/3bmWA5C  
 PhilPeople page: https://bit.ly/3CpZAKg  
 Articles on Aeon: https://bit.ly/3GBAxGS
-</div>
-

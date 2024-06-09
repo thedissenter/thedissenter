@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2241700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9122009-44100-2-9f7ffcbe1b082.m4a
-draft: false
-excerpt: "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher in\
-  \ ethics and political philosophy at the Institute for Philosophy of the Nova University\
-  \ of Lisbon (IFILNOVA). Furthermore, he lectures on subjects of his expertise at\
-  \ the Faculty of Social and Human Sciences/Nova. Previously, he earned his PhD in\
-  \ Political Theory (2016) from King\u2019s College London and his master degree\
-  \ in Philosophy, Politics and Economics (2011) from the University of East Anglia.\
-  \ He also taught within the areas of political theory and political economy at King\u2019\
-  s College London. His main research interest lies in applying the insights of the\
-  \ behavioural and evolutionary sciences to issues in social and political philosophy."
-id: '145'
-image: https://i.ytimg.com/vi/EqtijLQRPRU/maxresdefault.jpg
-publishDate: 2019-03-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/145-Filipe-Nobre-Faria-Evolutionary-Theory--Philosophy--Politics--Ethics--and-Market-Liberalism-e32tn4
-tags:
-- Philosophy
-title: '#145 Filipe Nobre Faria: Evolutionary Theory, Philosophy, Politics, Ethics,
-  and Market Liberalism'
-youtubeid: EqtijLQRPRU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2241700/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9122009-44100-2-9f7ffcbe1b082.m4a",
+	"draft": false,
+	"episodeid": "145",
+	"excerpt": "Dr. Filipe Nobre Faria currently works as a post-doctoral researcher in ethics and political philosophy at the Institute for Philosophy of the Nova University of Lisbon (IFILNOVA). Furthermore, he lectures on subjects of his expertise at the Faculty of Social and Human Sciences/Nova. Previously, he earned his PhD in Political Theory (2016) from King’s College London and his master degree in Philosophy, Politics and Economics (2011) from the University of East Anglia. He also taught within the areas of political theory and political economy at King’s College London. His main research interest lies in applying the insights of the behavioural and evolutionary sciences to issues in social and political philosophy.",
+	"image": "https://i.ytimg.com/vi/EqtijLQRPRU/maxresdefault.jpg",
+	"publishDate": 2019-03-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/145-Filipe-Nobre-Faria-Evolutionary-Theory--Philosophy--Politics--Ethics--and-Market-Liberalism-e32tn4",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#145 Filipe Nobre Faria: Evolutionary Theory, Philosophy, Politics, Ethics, and Market Liberalism",
+	"youtubeid": "EqtijLQRPRU"
+}
 ---
-<div class="timelinks">
-
 Dr. Filipe Nobre Faria currently works as a post-doctoral researcher in ethics and political philosophy at the Institute for Philosophy of the Nova University of Lisbon (IFILNOVA). Furthermore, he lectures on subjects of his expertise at the Faculty of Social and Human Sciences/Nova. Previously, he earned his PhD in Political Theory (2016) from King’s College London and his master degree in Philosophy, Politics and Economics (2011) from the University of East Anglia. He also taught within the areas of political theory and political economy at King’s College London. His main research interest lies in applying the insights of the behavioural and evolutionary sciences to issues in social and political philosophy.
 
 In this episode, we talk about the relationship between evolutionary theory, philosophy, ethics and politics. We refer to the role of philosophy in a scientific world; the importance of selfishness and altruism in moral philosophy; evolutionary processes like kin selection, reciprocal altruism and group selection; how our moral values are influences by our personality and other innate proclivities; what is mora important for societies; the is-ought dichotomy, and if the naturalistic fallacy really exists; and also about the work of Friedrich Hayek, Karl Polanyi, and the positive aspects and limitations of market liberal morality, both at the individual and collective levels. 
@@ -47,5 +39,3 @@ Follow Dr. Nobre Faria’s work:
 Faculty page: https://tinyurl.com/ydcomgnj  
 Articles on Researchgate: https://tinyurl.com/y7jakylj   
 Twitter handle: @filipefaria
-</div>
-

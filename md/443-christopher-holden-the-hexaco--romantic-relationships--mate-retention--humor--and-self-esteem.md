@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24162826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3aadb497-0c30-34c8-c16d-c96ff09e32b1.m4a
-draft: false
-excerpt: Dr. Christopher Holden is Professor of Psychology and Principal Investigator
-  of the Personality and Romantic Relationships Lab at Appalachian State University.
-  His research focuses on topics like personality and evolutionary psychology, romantic
-  relationships, the HEXACO model of personality, self-esteem, mate retention behavior,
-  and others.
-id: '443'
-image: https://i.ytimg.com/vi/hHT4NEsp15M/maxresdefault.jpg
-publishDate: 2021-03-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/443-Christopher-Holden-The-HEXACO--Romantic-Relationships--Mate-Retention--Humor--and-Self-esteem-envt2a
-tags:
-- Psychology
-title: '#443 Christopher Holden: The HEXACO, Romantic Relationships, Mate Retention,
-  Humor, and Self-esteem'
-youtubeid: hHT4NEsp15M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24162826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3aadb497-0c30-34c8-c16d-c96ff09e32b1.m4a",
+	"draft": false,
+	"episodeid": "443",
+	"excerpt": "Dr. Christopher Holden is Professor of Psychology and Principal Investigator of the Personality and Romantic Relationships Lab at Appalachian State University. His research focuses on topics like personality and evolutionary psychology, romantic relationships, the HEXACO model of personality, self-esteem, mate retention behavior, and others.",
+	"image": "https://i.ytimg.com/vi/hHT4NEsp15M/maxresdefault.jpg",
+	"publishDate": 2021-03-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/443-Christopher-Holden-The-HEXACO--Romantic-Relationships--Mate-Retention--Humor--and-Self-esteem-envt2a",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#443 Christopher Holden: The HEXACO, Romantic Relationships, Mate Retention, Humor, and Self-esteem",
+	"youtubeid": "hHT4NEsp15M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 18th 2020.  
 Dr. Christopher Holden is Professor of Psychology and Principal Investigator of the Personality and Romantic Relationships Lab at Appalachian State University. His research focuses on topics like personality and evolutionary psychology, romantic relationships, the HEXACO model of personality, self-esteem, mate retention behavior, and others.
 
@@ -41,5 +37,3 @@ Faculty page: http://bit.ly/3aloQ9t
 Website: http://bit.ly/2KiZxdx  
 ResearchGate profile: https://bit.ly/3albeuG  
 Twitter handle: @profcjholden
-</div>
-

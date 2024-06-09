@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7957460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-1%2F32086651-44100-2-fde7f9ebcc74e.m4a
-draft: false
-excerpt: "Dr. Manuel Vargas is a professor in the Department of Philosophy at UC San\
-  \ Diego, where he teaches classes on various topics, including ethics, the history\
-  \ of Mexican philosophy, and whatever it is he\u2019s thinking about with respect\
-  \ to agency, moral psychology, and sociality."
-id: '280'
-image: https://i.ytimg.com/vi/ZgNa4ZsP2Ho/maxresdefault.jpg
-publishDate: 2020-01-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/280-Manuel-Vargas-Free-Will--Moral-Responsibility--And-Social-Justice-e8hbgk
-tags:
-- Philosophy
-title: '#280 Manuel Vargas: Free Will, Moral Responsibility, And Social Justice'
-youtubeid: ZgNa4ZsP2Ho
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7957460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-1%2F32086651-44100-2-fde7f9ebcc74e.m4a",
+	"draft": false,
+	"episodeid": "280",
+	"excerpt": "Dr. Manuel Vargas is a professor in the Department of Philosophy at UC San Diego, where he teaches classes on various topics, including ethics, the history of Mexican philosophy, and whatever it is he’s thinking about with respect to agency, moral psychology, and sociality.",
+	"image": "https://i.ytimg.com/vi/ZgNa4ZsP2Ho/maxresdefault.jpg",
+	"publishDate": 2020-01-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/280-Manuel-Vargas-Free-Will--Moral-Responsibility--And-Social-Justice-e8hbgk",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#280 Manuel Vargas: Free Will, Moral Responsibility, And Social Justice",
+	"youtubeid": "ZgNa4ZsP2Ho"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 29th, 2019.  
 Dr. Manuel Vargas is a professor in the Department of Philosophy at UC San Diego, where he teaches classes on various topics, including ethics, the history of Mexican philosophy, and whatever it is he’s thinking about with respect to agency, moral psychology, and sociality.
 
@@ -41,5 +39,3 @@ Faculty page: http://bit.ly/2q0B8is
 Personal website: http://bit.ly/2NEC3P6  
 ResearchGate profile: http://bit.ly/2PlGT6n  
 PhilPapers profile: http://bit.ly/34b8ABn
-</div>
-

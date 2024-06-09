@@ -1,23 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/73795034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F742b1df0-0181-07b3-598f-e52b4057a5e5.m4a
-draft: false
-excerpt: Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy
-  at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral
-  psychology, and cross-cultural philosophy. He is co-author of Against Happiness.
-id: '823'
-image: https://i.ytimg.com/vi/zRR5UHiVACY/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/823-owen-flanagan-against-happiness/id1451347236?i=1000624912905&uo=4
-publishDate: 2023-08-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/823-Owen-Flanagan-Against-Happiness-e27ai0q
-tags:
-- Anthropology
-- Philosophy
-- Psychology
-title: '#823 Owen Flanagan: Against Happiness'
-youtubeid: zRR5UHiVACY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/73795034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F742b1df0-0181-07b3-598f-e52b4057a5e5.m4a",
+	"draft": false,
+	"episodeid": "823",
+	"excerpt": "Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is co-author of Against Happiness.",
+	"image": "https://i.ytimg.com/vi/zRR5UHiVACY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/823-owen-flanagan-against-happiness/id1451347236?i=1000624912905&uo=4",
+	"publishDate": 2023-08-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/823-Owen-Flanagan-Against-Happiness-e27ai0q",
+	"tags": [
+		"Anthropology",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#823 Owen Flanagan: Against Happiness",
+	"youtubeid": "zRR5UHiVACY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 24th 2023.  
 Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is co-author of Against Happiness.
 
@@ -48,5 +47,3 @@ Follow Dr. Flanagan’s work:
 Faculty page: https://bit.ly/3uZ4xHX  
 PhilPeople profile: https://bit.ly/3hC6nvk  
 Against Happiness: https://bit.ly/44Hbw96
-</div>
-

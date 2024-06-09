@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54717816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F449adf8c-3523-0cc2-229f-9097b47c6627.m4a
-draft: false
-excerpt: Dr. Catherine Molho is an Assistant Professor of Social Psychology at VU
-  Amsterdam. Dr. Molho is a psychologist studying human cooperation, morality, and
-  the role of emotions in decision-making. She draws upon insights from social and
-  evolutionary psychology, behavioral economics, and evolutionary biology to better
-  understand the factors underlying cooperative and punitive decisions. In her work,
-  she uses decision-making experiments, questionnaires, and intensive experience sampling
-  methods.
-id: '690'
-image: https://i.ytimg.com/vi/2dSgEXTzhmA/maxresdefault.jpg
-publishDate: 2022-10-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/690-Catherine-Molho-Norms--Punishment--Moral-Emotions--Disgust--and-Interdependence-e1l4bto
-tags:
-- Psychology
-title: '#690 Catherine Molho: Norms, Punishment, Moral Emotions, Disgust, and Interdependence'
-youtubeid: 2dSgEXTzhmA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54717816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-12%2F449adf8c-3523-0cc2-229f-9097b47c6627.m4a",
+	"draft": false,
+	"episodeid": "690",
+	"excerpt": "Dr. Catherine Molho is an Assistant Professor of Social Psychology at VU Amsterdam. Dr. Molho is a psychologist studying human cooperation, morality, and the role of emotions in decision-making. She draws upon insights from social and evolutionary psychology, behavioral economics, and evolutionary biology to better understand the factors underlying cooperative and punitive decisions. In her work, she uses decision-making experiments, questionnaires, and intensive experience sampling methods.",
+	"image": "https://i.ytimg.com/vi/2dSgEXTzhmA/maxresdefault.jpg",
+	"publishDate": 2022-10-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/690-Catherine-Molho-Norms--Punishment--Moral-Emotions--Disgust--and-Interdependence-e1l4bto",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#690 Catherine Molho: Norms, Punishment, Moral Emotions, Disgust, and Interdependence",
+	"youtubeid": "2dSgEXTzhmA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 12th 2022.  
 Dr. Catherine Molho is an Assistant Professor of Social Psychology at VU Amsterdam. Dr. Molho is a psychologist studying human cooperation, morality, and the role of emotions in decision-making. She draws upon insights from social and evolutionary psychology, behavioral economics, and evolutionary biology to better understand the factors underlying cooperative and punitive decisions. In her work, she uses decision-making experiments, questionnaires, and intensive experience sampling methods.
 
@@ -46,5 +41,3 @@ Faculty page: https://bit.ly/3CLFJI3
 Website: https://bit.ly/3MZA9VF  
 ResearchGate profile: https://bit.ly/3Ikvh9W  
 Twitter handle: @catherinemolho
-</div>
-

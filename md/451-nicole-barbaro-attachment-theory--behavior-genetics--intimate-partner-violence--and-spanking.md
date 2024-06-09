@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/29490452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2Fcacca978-817f-b5dd-a4d8-d4a35e763241.m4a
-draft: false
-excerpt: Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an Adjunct
-  Professor at Utah Valley University, and the Communications Officer for the Human
-  Behavior and Evolution Society. Her interests are in human sexual psychology and
-  behavior, including application of life history theory and sperm competition theory.
-id: '451'
-image: https://i.ytimg.com/vi/llVelypdD0s/maxresdefault.jpg
-publishDate: 2021-04-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/451-Nicole-Barbaro-Attachment-Theory--Behavior-Genetics--Intimate-Partner-Violence--and-Spanking-et2fqk
-tags:
-- Psychology
-title: '#451 Nicole Barbaro: Attachment Theory, Behavior Genetics, Intimate Partner
-  Violence, and Spanking'
-youtubeid: llVelypdD0s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/29490452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-20%2Fcacca978-817f-b5dd-a4d8-d4a35e763241.m4a",
+	"draft": false,
+	"episodeid": "451",
+	"excerpt": "Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an Adjunct Professor at Utah Valley University, and the Communications Officer for the Human Behavior and Evolution Society. Her interests are in human sexual psychology and behavior, including application of life history theory and sperm competition theory.",
+	"image": "https://i.ytimg.com/vi/llVelypdD0s/maxresdefault.jpg",
+	"publishDate": 2021-04-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/451-Nicole-Barbaro-Attachment-Theory--Behavior-Genetics--Intimate-Partner-Violence--and-Spanking-et2fqk",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#451 Nicole Barbaro: Attachment Theory, Behavior Genetics, Intimate Partner Violence, and Spanking",
+	"youtubeid": "llVelypdD0s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 18th 2021.  
 Dr. Nicole Barbaro is Educational Research Scientist for WGU Labs, an Adjunct Professor at Utah Valley University, and the Communications Officer for the Human Behavior and Evolution Society. Her interests are in human sexual psychology and behavior, including application of life history theory and sperm competition theory.
 
@@ -43,5 +40,3 @@ Follow Nicole’s work:
 Website: https://www.nicolebarbaro.com/  
 Articles of Researchgate: https://bit.ly/2TQs0eg  
 Twitter handle: @NicoleBarbaro
-</div>
-

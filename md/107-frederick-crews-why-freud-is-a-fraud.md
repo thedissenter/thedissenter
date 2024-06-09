@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734800-48000-2-42a55fd0d6c3f.mp3
-draft: false
-excerpt: "I\u2019M SORRY FOR THE VIDEO BEING A BIT DESYNCHRONIZED. IT MUST HAVE BEEN\
-  \ SOME SORT OF RECORDING ISSUE. THANK YOU FOR YOUR UNDERSTANDING."
-id: '107'
-image: https://i.ytimg.com/vi/No9qHtuIvbk/maxresdefault.jpg
-publishDate: 2018-12-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/107-Frederick-Crews-Why-Freud-is-a-Fraud-e2rsec
-tags:
-- Psychology
-title: '#107 Frederick Crews: Why Freud is a Fraud'
-youtubeid: No9qHtuIvbk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011020/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734800-48000-2-42a55fd0d6c3f.mp3",
+	"draft": false,
+	"episodeid": "107",
+	"excerpt": "I’M SORRY FOR THE VIDEO BEING A BIT DESYNCHRONIZED. IT MUST HAVE BEEN SOME SORT OF RECORDING ISSUE. THANK YOU FOR YOUR UNDERSTANDING.",
+	"image": "https://i.ytimg.com/vi/No9qHtuIvbk/maxresdefault.jpg",
+	"publishDate": 2018-12-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/107-Frederick-Crews-Why-Freud-is-a-Fraud-e2rsec",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#107 Frederick Crews: Why Freud is a Fraud",
+	"youtubeid": "No9qHtuIvbk"
+}
 ---
-<div class="timelinks">
-
 I’M SORRY FOR THE VIDEO BEING A BIT DESYNCHRONIZED. IT MUST HAVE BEEN SOME SORT OF RECORDING ISSUE. THANK YOU FOR YOUR UNDERSTANDING.
 
 Dr. Frederick Crews is an American essayist and literary critic, and Professor Emeritus of English at the University of California, Berkeley. Also, a prominent participant in the "Freud wars" of the 1980s and 1990s, a debate over the reputation, scholarship and impact on the 20th century of the founder of psychoanalysis, Freud. He’s the author of many books, including the ones that are relevant to our conversation today, The Memory Wars: Freud’s Legacy in Dispute, and Freud: The Making of an Illusion.
@@ -40,5 +40,3 @@ Time Links:
 Follow Dr. Crews’ work:  
 Books: https://tinyurl.com/ybyhfbjh  
 Freud: The Making of an Illusion: https://tinyurl.com/y9dwsbuw
-</div>
-

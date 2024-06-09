@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601617-44100-2-3f647be841dba.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '36'
-image: https://i.ytimg.com/vi/JCWMXH09rSc/maxresdefault.jpg
-publishDate: 2018-06-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/36-Jacy-Reese-The-End-of-Animal-Farming--Veganism--Animal-Welfare--Enviromentalism-e2r9na
-title: '#36 Jacy Reese: The End of Animal Farming, Veganism, Animal Welfare, Enviromentalism'
-youtubeid: JCWMXH09rSc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7601617-44100-2-3f647be841dba.mp3",
+	"draft": false,
+	"episodeid": "36",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/JCWMXH09rSc/maxresdefault.jpg",
+	"publishDate": 2018-06-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/36-Jacy-Reese-The-End-of-Animal-Farming--Veganism--Animal-Welfare--Enviromentalism-e2r9na",
+	"title": "#36 Jacy Reese: The End of Animal Farming, Veganism, Animal Welfare, Enviromentalism",
+	"youtubeid": "JCWMXH09rSc"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -33,5 +33,4 @@ Its Twitter handle: @SentienceInst
 Book The End of Animal Farming: https://www.amazon.com/End-Animal-Farming-Entrepreneurs-Animal-Free/dp/0807019453  
 Jacy’s Ted Talk: https://www.youtube.com/watch?v=PBmbVphZKYc  
 His personal website: http://jacyreese.com/  
-And his Twitter handle: @jacyreese</div>
-
+And his Twitter handle: @jacyreese

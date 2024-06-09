@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681370-44100-2-533fd50eeb27.mp3
-draft: false
-excerpt: 'Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center
-  for Cognitive Neuroscience, at Duke University. He was elected to the National Academy
-  of Sciences in 1989 for his work on neural development and synaptic plasticity.
-  He is a fellow of the American Academy of Arts and Sciences and the National Academy
-  of Medicine. He is the author of many books, including Principles of Neural Development,
-  and Brains: How they Seem to Work, and also the lead author on the textbooks Neuroscience,
-  and Principles of Cognitive Neuroscience. His research during the last 15 years
-  has sought to explain why we see and hear what we do, focusing on the visual perception
-  of lightness, color, form, and motion, and the auditory perception of music and
-  speech.'
-id: '65'
-image: https://i.ytimg.com/vi/6vB2znTPFMk/maxresdefault.jpg
-publishDate: 2018-08-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/65-Dale-Purves-How-Perception-and-Cognition-Work-e2rj55
-tags:
-- Neuroscience
-title: '#65 Dale Purves: How Perception and Cognition Work'
-youtubeid: 6vB2znTPFMk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681370-44100-2-533fd50eeb27.mp3",
+	"draft": false,
+	"episodeid": "65",
+	"excerpt": "Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center for Cognitive Neuroscience, at Duke University. He was elected to the National Academy of Sciences in 1989 for his work on neural development and synaptic plasticity. He is a fellow of the American Academy of Arts and Sciences and the National Academy of Medicine. He is the author of many books, including Principles of Neural Development, and Brains: How they Seem to Work, and also the lead author on the textbooks Neuroscience, and Principles of Cognitive Neuroscience. His research during the last 15 years has sought to explain why we see and hear what we do, focusing on the visual perception of lightness, color, form, and motion, and the auditory perception of music and speech.",
+	"image": "https://i.ytimg.com/vi/6vB2znTPFMk/maxresdefault.jpg",
+	"publishDate": 2018-08-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/65-Dale-Purves-How-Perception-and-Cognition-Work-e2rj55",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#65 Dale Purves: How Perception and Cognition Work",
+	"youtubeid": "6vB2znTPFMk"
+}
 ---
-<div class="timelinks">
-
 Dr. Dale Purves is Geller Professor of Neurobiology Emeritus at the Center for Cognitive Neuroscience, at Duke University. He was elected to the National Academy of Sciences in 1989 for his work on neural development and synaptic plasticity. He is a fellow of the American Academy of Arts and Sciences and the National Academy of Medicine. He is the author of many books, including Principles of Neural Development, and Brains: How they Seem to Work, and also the lead author on the textbooks Neuroscience, and Principles of Cognitive Neuroscience. His research during the last 15 years has sought to explain why we see and hear what we do, focusing on the visual perception of lightness, color, form, and motion, and the auditory perception of music and speech.
 
 In this episode, we talk about how perception evolved and works; how our cognitive systems have an innate structural organization, but also allow for neuroplasticity at the same time; what are illusions; if there’s any direct relation between conscious perception and the production of behavior, as when we’re driving and thinking about something, and not consciously aware of our surroundings; understanding perception in wholly empirical terms; and the proper way to look at the relationship between perception and reality as such.
@@ -45,5 +37,3 @@ Follow Dr. Purves’ work:
 Purves Lab: http://purveslab.net/  
 Faculty page: https://dibs.duke.edu/scholars/dale-purves  
 Books: https://tinyurl.com/yc7etryp
-</div>
-

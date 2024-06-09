@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3118956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-2%2F13991084-44100-2-b5191790aa3ef.m4a
-draft: false
-excerpt: Dr. Azim Shariff is Associate Professor and Canada Research Chair at the
-  University of British Columbia, Canada. He is a social psychologist whose research
-  focuses on where morality intersects with religion, cultural attitudes and economics.
-  Another rapidly expanding part of his research looks at human-technology interactions
-  and the ethics of automation, including self-driving cars.
-id: '177'
-image: https://i.ytimg.com/vi/mjWveAPPoSk/maxresdefault.jpg
-publishDate: 2019-05-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/177-Azim-Shariff-The-Science-of-Religion--Morality--And-Self-Driving-Cars-e3tmdc
-tags:
-- Psychology
-title: '#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars'
-youtubeid: mjWveAPPoSk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3118956/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-4-2%2F13991084-44100-2-b5191790aa3ef.m4a",
+	"draft": false,
+	"episodeid": "177",
+	"excerpt": "Dr. Azim Shariff is Associate Professor and Canada Research Chair at the University of British Columbia, Canada. He is a social psychologist whose research focuses on where morality intersects with religion, cultural attitudes and economics. Another rapidly expanding part of his research looks at human-technology interactions and the ethics of automation, including self-driving cars.",
+	"image": "https://i.ytimg.com/vi/mjWveAPPoSk/maxresdefault.jpg",
+	"publishDate": 2019-05-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/177-Azim-Shariff-The-Science-of-Religion--Morality--And-Self-Driving-Cars-e3tmdc",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#177 Azim Shariff: The Science of Religion, Morality, And Self-Driving Cars",
+	"youtubeid": "mjWveAPPoSk"
+}
 ---
-<div class="timelinks">
-
 Dr. Azim Shariff is Associate Professor and Canada Research Chair at the University of British Columbia, Canada. He is a social psychologist whose research focuses on where morality intersects with religion, cultural attitudes and economics. Another rapidly expanding part of his research looks at human-technology interactions and the ethics of automation, including self-driving cars.
 
 In this episode, we talk about the science of religion, and the ethics of self-driving cars. First, we refer to the role that the science of religion plays in the integration of the Humanities and the Sciences. Then, we address the prosocial and moral aspects of religion, starting with the role that Big Gods played in allowing for cohesion in large societies, and also the traits that work better in them. Also, why it is more difficult to explain religious misbelief than religious thinking. Finally, we discuss the ethics of self-driving cars, what people prefer to be their decisions, and what the future might hold for this technology.
@@ -47,5 +44,3 @@ Complex societies precede moralizing gods
 throughout world history  
 Complex societies precede moralizing gods throughout world history: https://go.nature.com/2CxTVoy  
 Corrected analyses show that moralizing gods precede complex societies but serious data concerns remain: https://psyarxiv.com/jwa2n
-</div>
-

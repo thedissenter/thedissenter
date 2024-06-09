@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/32950359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fe12ae837-3a35-1e86-203a-7917fd989a4a.m4a
-draft: false
-excerpt: "Dr. Christian Pieter Hoffmann is Professor of Communication Management and\
-  \ Political Communication at the Institute of Communication and Media Studies at\
-  \ the University of Leipzig, Germany. In addition, he is responsible for teaching\
-  \ in the field of political communication in cooperation with the Institute for\
-  \ Political Science. Dr. Hoffmann is a lecturer at the University of St. Gallen,\
-  \ Singapore Management University, Johannes Gutenberg-University of Mainz and the\
-  \ University of Applied Sciences Zurich. His research interests include strategic\
-  \ communication management, financial communication and political communication\
-  \ \u2013 with a particular focus on the challenges and opportunities provided by\
-  \ new media."
-id: '509'
-image: https://i.ytimg.com/vi/XRtxZaNIE8E/maxresdefault.jpg
-publishDate: 2021-08-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/509-Christian-Hoffmann-Social-Media--Fake-News--and-Political-Polarization-e10c2kn
-tags:
-- Politics
-- Sociology
-title: '#509 Christian Hoffmann: Social Media, Fake News, and Political Polarization'
-youtubeid: XRtxZaNIE8E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/32950359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2Fe12ae837-3a35-1e86-203a-7917fd989a4a.m4a",
+	"draft": false,
+	"episodeid": "509",
+	"excerpt": "Dr. Christian Pieter Hoffmann is Professor of Communication Management and Political Communication at the Institute of Communication and Media Studies at the University of Leipzig, Germany. In addition, he is responsible for teaching in the field of political communication in cooperation with the Institute for Political Science. Dr. Hoffmann is a lecturer at the University of St. Gallen, Singapore Management University, Johannes Gutenberg-University of Mainz and the University of Applied Sciences Zurich. His research interests include strategic communication management, financial communication and political communication – with a particular focus on the challenges and opportunities provided by new media.",
+	"image": "https://i.ytimg.com/vi/XRtxZaNIE8E/maxresdefault.jpg",
+	"publishDate": 2021-08-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/509-Christian-Hoffmann-Social-Media--Fake-News--and-Political-Polarization-e10c2kn",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#509 Christian Hoffmann: Social Media, Fake News, and Political Polarization",
+	"youtubeid": "XRtxZaNIE8E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 6th 2021.  
 Dr. Christian Pieter Hoffmann is Professor of Communication Management and Political Communication at the Institute of Communication and Media Studies at the University of Leipzig, Germany. In addition, he is responsible for teaching in the field of political communication in cooperation with the Institute for Political Science. Dr. Hoffmann is a lecturer at the University of St. Gallen, Singapore Management University, Johannes Gutenberg-University of Mainz and the University of Applied Sciences Zurich. His research interests include strategic communication management, financial communication and political communication – with a particular focus on the challenges and opportunities provided by new media.
 
@@ -47,5 +39,3 @@ Financialcommunication.org: https://bit.ly/3uvdDdO
 Digital-participation.org: https://bit.ly/3h6QfiW  
 ResearchGate profile: https://bit.ly/3xObewy  
 Twitter handle: @cphoffmann
-</div>
-

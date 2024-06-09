@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9604908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42869622-44100-2-e3c075a973407.m4a
-draft: false
-excerpt: 'Dr. Hal Whitehead is Professor in the Department of Biology at Dalhousie
-  University. His work focuses mainly on the behavior, ecology, population biology
-  and conservation of two species of deep-diving whale: the sperm and northern bottlenose.
-  He and his team have ongoing research projects on sperm whales in the eastern Pacific
-  (since 1985) and Atlantic (since 2004) on northern bottlenose whales off Nova Scotia
-  (since 1998), and on pilot whales off Nova Scotia Isince 1998). They spend periods
-  of weeks at sea on board ocean-going sailing boats collecting acoustic, visual,
-  photographic, genetic and oceanographic data.'
-id: '310'
-image: https://i.ytimg.com/vi/KCnWsD4ZS54/maxresdefault.jpg
-publishDate: 2020-03-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/310-Hal-Whitehead-The-Sociality-And-Culture-Of-Whales-ea3kbc
-tags:
-- Biology
-title: '#310 Hal Whitehead: The Sociality And Culture Of Whales'
-youtubeid: KCnWsD4ZS54
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9604908/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42869622-44100-2-e3c075a973407.m4a",
+	"draft": false,
+	"episodeid": "310",
+	"excerpt": "Dr. Hal Whitehead is Professor in the Department of Biology at Dalhousie University. His work focuses mainly on the behavior, ecology, population biology and conservation of two species of deep-diving whale: the sperm and northern bottlenose. He and his team have ongoing research projects on sperm whales in the eastern Pacific (since 1985) and Atlantic (since 2004) on northern bottlenose whales off Nova Scotia (since 1998), and on pilot whales off Nova Scotia Isince 1998). They spend periods of weeks at sea on board ocean-going sailing boats collecting acoustic, visual, photographic, genetic and oceanographic data.",
+	"image": "https://i.ytimg.com/vi/KCnWsD4ZS54/maxresdefault.jpg",
+	"publishDate": 2020-03-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/310-Hal-Whitehead-The-Sociality-And-Culture-Of-Whales-ea3kbc",
+	"tags": [
+		"Biology"
+	],
+	"title": "#310 Hal Whitehead: The Sociality And Culture Of Whales",
+	"youtubeid": "KCnWsD4ZS54"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 7th, 2020.  
 Dr. Hal Whitehead is Professor in the Department of Biology at Dalhousie University. His work focuses mainly on the behavior, ecology, population biology and conservation of two species of deep-diving whale: the sperm and northern bottlenose. He and his team have ongoing research projects on sperm whales in the eastern Pacific (since 1985) and Atlantic (since 2004) on northern bottlenose whales off Nova Scotia (since 1998), and on pilot whales off Nova Scotia Isince 1998). They spend periods of weeks at sea on board ocean-going sailing boats collecting acoustic, visual, photographic, genetic and oceanographic data.
 
@@ -44,5 +38,3 @@ Faculty page: http://bit.ly/2T00zwX
 Hal Whitehead’s Research Group: http://bit.ly/2sMa6x4  
 Works on ResearchGate: http://bit.ly/32kfd3d  
 Watch whales on YouTube: http://bit.ly/2QurBuO
-</div>
-

@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/17736560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-8%2F3e0a96f4-4e5e-898f-0f0f-e89ad765c417.m4a
-draft: false
-excerpt: Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology at
-  The Pennsylvania State University.  A biological anthropologist and paleobiologist,
-  she studies the evolution of adaptations to the environment in Old World primates
-  including humans. Her research program is focused in two major areas.  Her paleoanthropological
-  research concerns the evolutionary history of Old World monkeys, and currently includes
-  an active field project in China.  Her research on the evolution of human adaptations
-  to the environment centers on the evolution of human skin and skin pigmentation,
-  and includes an active field project examining the relationship between skin pigmentation
-  and vitamin D production.
-id: '363'
-image: https://i.ytimg.com/vi/DbqKLH9lo1w/maxresdefault.jpg
-publishDate: 2020-09-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/363-Nina-Jablonski-The-Evolution-of-Human-Skin--and-Racism-ehrpdg
-tags:
-- Anthropology
-title: '#363 Nina Jablonski: The Evolution of Human Skin, and Racism'
-youtubeid: DbqKLH9lo1w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/17736560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-8%2F3e0a96f4-4e5e-898f-0f0f-e89ad765c417.m4a",
+	"draft": false,
+	"episodeid": "363",
+	"excerpt": "Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology at The Pennsylvania State University.  A biological anthropologist and paleobiologist, she studies the evolution of adaptations to the environment in Old World primates including humans. Her research program is focused in two major areas.  Her paleoanthropological research concerns the evolutionary history of Old World monkeys, and currently includes an active field project in China.  Her research on the evolution of human adaptations to the environment centers on the evolution of human skin and skin pigmentation, and includes an active field project examining the relationship between skin pigmentation and vitamin D production.",
+	"image": "https://i.ytimg.com/vi/DbqKLH9lo1w/maxresdefault.jpg",
+	"publishDate": 2020-09-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/363-Nina-Jablonski-The-Evolution-of-Human-Skin--and-Racism-ehrpdg",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#363 Nina Jablonski: The Evolution of Human Skin, and Racism",
+	"youtubeid": "DbqKLH9lo1w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 7th, 2020.  
 Dr. Nina G. Jablonski is Evan Pugh University Professor of Anthropology at The Pennsylvania State University.  A biological anthropologist and paleobiologist, she studies the evolution of adaptations to the environment in Old World primates including humans. Her research program is focused in two major areas.  Her paleoanthropological research concerns the evolutionary history of Old World monkeys, and currently includes an active field project in China.  Her research on the evolution of human adaptations to the environment centers on the evolution of human skin and skin pigmentation, and includes an active field project examining the relationship between skin pigmentation and vitamin D production.
 
@@ -46,5 +39,3 @@ Human Evolution and Diversity Lab: https://bit.ly/3kjMLsm
 ResearchGate profile: https://bit.ly/3kkFush  
 Amazon page: https://amzn.to/2PEDLQh  
 TED talk: https://bit.ly/3gDPNWa
-</div>
-

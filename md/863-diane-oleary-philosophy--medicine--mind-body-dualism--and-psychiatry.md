@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/73336122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2F9c667579-0466-7fef-6641-3c19f5d1c9f2.m4a
-draft: false
-excerpt: "Dr. Diane O\u2019Leary is a Public Voices Fellow for Advancing the Rights\
-  \ of Women and Girls with Equality Now and the op-ed project. She has a PhD in philosophy\
-  \ from University of Sydney, and an MA in philosophy from Syracuse University. \
-  \ In both cases her focus was metaphysics, though for the PhD she gave her attention\
-  \ to Plato, and the application of his metaphysical views to his choices as writer.\
-  \ In her work she focuses on philosophy of mind, clinical medicine, and gender equity."
-id: '863'
-image: https://i.ytimg.com/vi/610dKJEbbL0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/863-diane-oleary-philosophy-medicine-mind-body-dualism/id1451347236?i=1000635463482&uo=4
-publishDate: 2023-11-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry-e26shrq
-tags:
-- Medicine
-- Philosophy
-title: '#863 Diane O''Leary: Philosophy, Medicine, Mind-Body Dualism, and Psychiatry'
-youtubeid: 610dKJEbbL0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/73336122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-12%2F9c667579-0466-7fef-6641-3c19f5d1c9f2.m4a",
+	"draft": false,
+	"episodeid": "863",
+	"excerpt": "Dr. Diane O’Leary is a Public Voices Fellow for Advancing the Rights of Women and Girls with Equality Now and the op-ed project. She has a PhD in philosophy from University of Sydney, and an MA in philosophy from Syracuse University.  In both cases her focus was metaphysics, though for the PhD she gave her attention to Plato, and the application of his metaphysical views to his choices as writer. In her work she focuses on philosophy of mind, clinical medicine, and gender equity.",
+	"image": "https://i.ytimg.com/vi/610dKJEbbL0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/863-diane-oleary-philosophy-medicine-mind-body-dualism/id1451347236?i=1000635463482&uo=4",
+	"publishDate": 2023-11-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/863-Diane-OLeary-Philosophy--Medicine--Mind-Body-Dualism--and-Psychiatry-e26shrq",
+	"tags": [
+		"Medicine",
+		"Philosophy"
+	],
+	"title": "#863 Diane O'Leary: Philosophy, Medicine, Mind-Body Dualism, and Psychiatry",
+	"youtubeid": "610dKJEbbL0"
+}
 ---
-<div class="timelinks">
-
 Dr. Diane O’Leary is a Public Voices Fellow for Advancing the Rights of Women and Girls with Equality Now and the op-ed project. She has a PhD in philosophy from University of Sydney, and an MA in philosophy from Syracuse University.  In both cases her focus was metaphysics, though for the PhD she gave her attention to Plato, and the application of his metaphysical views to his choices as writer. In her work she focuses on philosophy of mind, clinical medicine, and gender equity.
 
 In this episode, we talk about topics in the philosophy of medicine. We talk about the relationship between philosophy and medicine. We discuss the issues with how medicine deals with mind-body dualism, and property dualism. We talk about objectivity and subjectivity in medicine. We discuss how psychosomatic symptoms are dealt with, and the specific case of the history of chronic fatigue syndrome. We talk about how medically unexplained symptoms are dealt with institutionally and in research, and the importance of taking patients’ claims seriously. We talk about limitations of the biopsychosocial model. We discuss gender bias in healthcare and psychiatry, the legacy of the diagnosis of hysteria, and why women go to the doctor more often. Finally, we discuss why philosophy is still relevant.
@@ -48,5 +44,3 @@ Follow Dr. O’Leary’s work:
 Website: https://bit.ly/3ZHSZ9w  
 PhilPeople profile: https://bit.ly/3Ymj64F  
 Twitter handle: @DianeOLeary
-</div>
-

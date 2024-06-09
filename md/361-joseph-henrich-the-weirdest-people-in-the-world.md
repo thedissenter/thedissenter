@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a
-draft: false
-excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary
-  Biology at Harvard University. He is interested in the question of how humans evolved
-  from "being a relatively unremarkable primate a few million years ago to the most
-  successful species on the globe", and how culture affected our genetic development.
-  He is also the author of The Secret of Our Success and The WEIRDest People in the
-  World: How the West Became Psychologically Peculiar and Particularly Prosperous.'
-id: '361'
-image: https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg
-publishDate: 2020-09-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/361-Joseph-Henrich-The-WEIRDest-People-in-the-World-eigh1l
-tags:
-- Anthropology
-- Psychology
-title: '#361 Joseph Henrich: The WEIRDest People in the World'
-youtubeid: cN3w_cSAsmg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a",
+	"draft": false,
+	"episodeid": "361",
+	"excerpt": "Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary Biology at Harvard University. He is interested in the question of how humans evolved from \"being a relatively unremarkable primate a few million years ago to the most successful species on the globe\", and how culture affected our genetic development. He is also the author of The Secret of Our Success and The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous.",
+	"image": "https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg",
+	"publishDate": 2020-09-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/361-Joseph-Henrich-The-WEIRDest-People-in-the-World-eigh1l",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#361 Joseph Henrich: The WEIRDest People in the World",
+	"youtubeid": "cN3w_cSAsmg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 19th 2020.  
 Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary Biology at Harvard University. He is interested in the question of how humans evolved from "being a relatively unremarkable primate a few million years ago to the most successful species on the globe", and how culture affected our genetic development. He is also the author of The Secret of Our Success and The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous.
 
@@ -58,5 +54,3 @@ Works on ResearchGate: https://bit.ly/35jLQku
 Books on Amazon: https://amzn.to/30Ct4Vl  
 The WEIRDest People in the World: https://amzn.to/3gdZvNM  
 Twitter handle: @JoHenrich
-</div>
-

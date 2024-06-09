@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/26619724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F393250cc-5c26-43e8-89bd-7492ee25c7cd.m4a
-draft: false
-excerpt: 'Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the University
-  of Louisville. He specializes in the philosophical study of the mind and has published
-  extensively on the nature of emotions (especially, boredom), consciousness, and
-  cognition. He is best known for his work on the function and value of boredom. He
-  is the co-author of Consciousness and Physicalism: A Defense of a Research Program
-  (Routledge, 2018), the co-editor of Philosophy of Mind and Phenomenology: Conceptual
-  and Empirical Approaches (Routledge, 2016), and the author of the recent book, Propelled:
-  How Boredom, Frustration, and Anticipation Lead us to the Good Life.'
-id: '468'
-image: https://i.ytimg.com/vi/2NiUBd-ykOs/maxresdefault.jpg
-publishDate: 2021-05-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/468-Andreas-Elpidorou-How-Boredom--Frustration--and-Anticipation-Lead-us-to-the-Good-Life-eqascc
-tags:
-- Philosophy
-title: '#468 Andreas Elpidorou: How Boredom, Frustration, and Anticipation Lead us
-  to the Good Life'
-youtubeid: 2NiUBd-ykOs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/26619724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-12%2F393250cc-5c26-43e8-89bd-7492ee25c7cd.m4a",
+	"draft": false,
+	"episodeid": "468",
+	"excerpt": "Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the University of Louisville. He specializes in the philosophical study of the mind and has published extensively on the nature of emotions (especially, boredom), consciousness, and cognition. He is best known for his work on the function and value of boredom. He is the co-author of Consciousness and Physicalism: A Defense of a Research Program (Routledge, 2018), the co-editor of Philosophy of Mind and Phenomenology: Conceptual and Empirical Approaches (Routledge, 2016), and the author of the recent book, Propelled: How Boredom, Frustration, and Anticipation Lead us to the Good Life.",
+	"image": "https://i.ytimg.com/vi/2NiUBd-ykOs/maxresdefault.jpg",
+	"publishDate": 2021-05-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/468-Andreas-Elpidorou-How-Boredom--Frustration--and-Anticipation-Lead-us-to-the-Good-Life-eqascc",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#468 Andreas Elpidorou: How Boredom, Frustration, and Anticipation Lead us to the Good Life",
+	"youtubeid": "2NiUBd-ykOs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 10th 2021.  
 Dr. Andreas Elpidorou is an Associate Professor of Philosophy at the University of Louisville. He specializes in the philosophical study of the mind and has published extensively on the nature of emotions (especially, boredom), consciousness, and cognition. He is best known for his work on the function and value of boredom. He is the co-author of Consciousness and Physicalism: A Defense of a Research Program (Routledge, 2018), the co-editor of Philosophy of Mind and Phenomenology: Conceptual and Empirical Approaches (Routledge, 2016), and the author of the recent book, Propelled: How Boredom, Frustration, and Anticipation Lead us to the Good Life.
 
@@ -48,5 +41,3 @@ PhilPeople page: http://bit.ly/3jDEHD0
 Amazon page: https://amzn.to/3a8uPhr  
 Propelled: https://amzn.to/2LAzcYY  
 Twitter handle: @aelpidorou
-</div>
-

@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22892303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2F607c70d3-9fe9-a228-2cf6-a0ea2e0ab1b9.m4a
-draft: false
-excerpt: 'Dr. Stuart Russell is a Professor of Computer Science at the University
-  of California, Berkeley, where he also holds the Smith-Zadeh Chair in Engineering.
-  He founded and leads the Center for Human-Compatible Artificial Intelligence there.
-  His research covers a wide range of topics in artificial intelligence including
-  machine learning, probabilistic reasoning, knowledge representation, planning, real-time
-  decision making, multitarget tracking, computer vision, computational physiology,
-  global seismic monitoring, and philosophical foundations. His current concerns include
-  the threat of autonomous weapons and the long-term future of artificial intelligence
-  and its relation to humanity. Dr. Russell is co-author of the most popular textbook
-  in the field of artificial intelligence: Artificial Intelligence: A Modern Approach
-  used in more than 1,400 universities in 128 countries. His most recent book is Human
-  Compatible: Artificial Intelligence and the Problem of Control.'
-id: '398'
-image: https://i.ytimg.com/vi/cZ4U2TKoNXs/maxresdefault.jpg
-publishDate: 2020-11-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/398-Stuart-Russell-Human-Level-AI--How-Worried-We-Should-Be-About-AI--and-Its-Present-and-Future-emp4af
-tags:
-- Artificial Intelligence
-title: '#398 Stuart Russell: Human-Level AI, How Worried We Should Be About AI, and
-  Its Present and Future'
-youtubeid: cZ4U2TKoNXs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22892303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-20%2F607c70d3-9fe9-a228-2cf6-a0ea2e0ab1b9.m4a",
+	"draft": false,
+	"episodeid": "398",
+	"excerpt": "Dr. Stuart Russell is a Professor of Computer Science at the University of California, Berkeley, where he also holds the Smith-Zadeh Chair in Engineering. He founded and leads the Center for Human-Compatible Artificial Intelligence there. His research covers a wide range of topics in artificial intelligence including machine learning, probabilistic reasoning, knowledge representation, planning, real-time decision making, multitarget tracking, computer vision, computational physiology, global seismic monitoring, and philosophical foundations. His current concerns include the threat of autonomous weapons and the long-term future of artificial intelligence and its relation to humanity. Dr. Russell is co-author of the most popular textbook in the field of artificial intelligence: Artificial Intelligence: A Modern Approach used in more than 1,400 universities in 128 countries. His most recent book is Human Compatible: Artificial Intelligence and the Problem of Control.",
+	"image": "https://i.ytimg.com/vi/cZ4U2TKoNXs/maxresdefault.jpg",
+	"publishDate": 2020-11-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/398-Stuart-Russell-Human-Level-AI--How-Worried-We-Should-Be-About-AI--and-Its-Present-and-Future-emp4af",
+	"tags": [
+		"Artificial Intelligence"
+	],
+	"title": "#398 Stuart Russell: Human-Level AI, How Worried We Should Be About AI, and Its Present and Future",
+	"youtubeid": "cZ4U2TKoNXs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 20th 2020.  
 Dr. Stuart Russell is a Professor of Computer Science at the University of California, Berkeley, where he also holds the Smith-Zadeh Chair in Engineering. He founded and leads the Center for Human-Compatible Artificial Intelligence there. His research covers a wide range of topics in artificial intelligence including machine learning, probabilistic reasoning, knowledge representation, planning, real-time decision making, multitarget tracking, computer vision, computational physiology, global seismic monitoring, and philosophical foundations. His current concerns include the threat of autonomous weapons and the long-term future of artificial intelligence and its relation to humanity. Dr. Russell is co-author of the most popular textbook in the field of artificial intelligence: Artificial Intelligence: A Modern Approach used in more than 1,400 universities in 128 countries. His most recent book is Human Compatible: Artificial Intelligence and the Problem of Control.
 
@@ -53,5 +42,3 @@ Faculty page: https://bit.ly/3kQA0V6
 Website:  https://bit.ly/392lfMY  
 Research works on ResearchGate: https://bit.ly/3pXhz58  
 Books on Amazon: https://amzn.to/3lOfiGY
-</div>
-

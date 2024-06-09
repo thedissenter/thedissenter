@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/62130863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2Ff7f0b8f4-903c-dd4c-73ec-65761541b7bd.m4a
-draft: false
-excerpt: "Dr. Mitch Brown is an instructor and researcher in Psychology at the University\
-  \ of Arkansas. His research uses complementary social and evolutionary perspectives\
-  \ in understanding how fundamental social motives shape social perceptions and interpersonal\
-  \ preferences. This work primarily considers (1) the tradeoffs people invoke to\
-  \ avoid disease and belong to groups, (2) the prioritization of physical features\
-  \ and behaviors in shaping preferences for short-term and long-term mates, and (3)\
-  \ how inferences of men\u2019s formidability inform stereotypes of personality and\
-  \ social functions. From an increasingly applied standpoint, his research considers\
-  \ how evolutionary motives impede fair treatment of individuals under the U.S. Constitution."
-id: '763'
-image: https://i.ytimg.com/vi/R4SU9EbJDe8/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/763-mitch-brown-pathogen-avoidance-mate-preferences/id1451347236?i=1000606798990&uo=4
-publishDate: 2023-03-31
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/763-Mitch-Brown-Pathogen-Avoidance--Mate-Preferences-for-Facial-Features--and-Humor-e1s6j7f
-tags:
-- Psychology
-title: '#763 Mitch Brown: Pathogen Avoidance, Mate Preferences for Facial Features,
-  and Humor'
-youtubeid: R4SU9EbJDe8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/62130863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2Ff7f0b8f4-903c-dd4c-73ec-65761541b7bd.m4a",
+	"draft": false,
+	"episodeid": "763",
+	"excerpt": "Dr. Mitch Brown is an instructor and researcher in Psychology at the University of Arkansas. His research uses complementary social and evolutionary perspectives in understanding how fundamental social motives shape social perceptions and interpersonal preferences. This work primarily considers (1) the tradeoffs people invoke to avoid disease and belong to groups, (2) the prioritization of physical features and behaviors in shaping preferences for short-term and long-term mates, and (3) how inferences of men’s formidability inform stereotypes of personality and social functions. From an increasingly applied standpoint, his research considers how evolutionary motives impede fair treatment of individuals under the U.S. Constitution.",
+	"image": "https://i.ytimg.com/vi/R4SU9EbJDe8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/763-mitch-brown-pathogen-avoidance-mate-preferences/id1451347236?i=1000606798990&uo=4",
+	"publishDate": 2023-03-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/763-Mitch-Brown-Pathogen-Avoidance--Mate-Preferences-for-Facial-Features--and-Humor-e1s6j7f",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#763 Mitch Brown: Pathogen Avoidance, Mate Preferences for Facial Features, and Humor",
+	"youtubeid": "R4SU9EbJDe8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 13th 2022.  
 Dr. Mitch Brown is an instructor and researcher in Psychology at the University of Arkansas. His research uses complementary social and evolutionary perspectives in understanding how fundamental social motives shape social perceptions and interpersonal preferences. This work primarily considers (1) the tradeoffs people invoke to avoid disease and belong to groups, (2) the prioritization of physical features and behaviors in shaping preferences for short-term and long-term mates, and (3) how inferences of men’s formidability inform stereotypes of personality and social functions. From an increasingly applied standpoint, his research considers how evolutionary motives impede fair treatment of individuals under the U.S. Constitution.
 
@@ -48,5 +40,3 @@ University page: https://bit.ly/3dnemtB
 Social Perception and Human Evolution Research Lab: https://bit.ly/3rGVQAn  
 ResearchGate profile: https://bit.ly/3dztF2m  
 Twitter handle: @ExtravertedFace
-</div>
-

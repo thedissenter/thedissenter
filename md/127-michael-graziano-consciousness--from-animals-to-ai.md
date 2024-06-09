@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778197-44100-2-aeb0905f3ddcb.m4a
-draft: false
-excerpt: 'Dr. Michael Graziano is a Professor of Psychology and Neuroscience at Princeton
-  University. His scientific research focuses on the brain basis of awareness. He
-  has proposed the "attention schema" theory, an explanation of how, and for what
-  adaptive advantage, brains attribute the property of awareness to themselves. His
-  previous work focused on how the cerebral cortex monitors the space around the body
-  and controls movement within that space. Notably he has suggested that the classical
-  map of the body in motor cortex, the homunculus, is not correct and is better described
-  as a map of complex actions that make up the behavioral repertoire. He''s also the
-  author of 13 books, including Consciousness and the Social Brain (2013), and The
-  Spaces Between Us: A Story of Neuroscience, Evolution, and Human Nature (2018).'
-id: '127'
-image: https://i.ytimg.com/vi/w7xR0Rpg4-s/maxresdefault.jpg
-publishDate: 2019-01-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/127-Michael-Graziano-Consciousness--From-Animals-To-AI-e2s22c
-tags:
-- Neuroscience
-title: '#127 Michael Graziano: Consciousness, From Animals To AI'
-youtubeid: w7xR0Rpg4-s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778197-44100-2-aeb0905f3ddcb.m4a",
+	"draft": false,
+	"episodeid": "127",
+	"excerpt": "Dr. Michael Graziano is a Professor of Psychology and Neuroscience at Princeton University. His scientific research focuses on the brain basis of awareness. He has proposed the \"attention schema\" theory, an explanation of how, and for what adaptive advantage, brains attribute the property of awareness to themselves. His previous work focused on how the cerebral cortex monitors the space around the body and controls movement within that space. Notably he has suggested that the classical map of the body in motor cortex, the homunculus, is not correct and is better described as a map of complex actions that make up the behavioral repertoire. He's also the author of 13 books, including Consciousness and the Social Brain (2013), and The Spaces Between Us: A Story of Neuroscience, Evolution, and Human Nature (2018).",
+	"image": "https://i.ytimg.com/vi/w7xR0Rpg4-s/maxresdefault.jpg",
+	"publishDate": 2019-01-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/127-Michael-Graziano-Consciousness--From-Animals-To-AI-e2s22c",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#127 Michael Graziano: Consciousness, From Animals To AI",
+	"youtubeid": "w7xR0Rpg4-s"
+}
 ---
-<div class="timelinks">
-
 Dr. Michael Graziano is a Professor of Psychology and Neuroscience at Princeton University. His scientific research focuses on the brain basis of awareness. He has proposed the "attention schema" theory, an explanation of how, and for what adaptive advantage, brains attribute the property of awareness to themselves. His previous work focused on how the cerebral cortex monitors the space around the body and controls movement within that space. Notably he has suggested that the classical map of the body in motor cortex, the homunculus, is not correct and is better described as a map of complex actions that make up the behavioral repertoire. He's also the author of 13 books, including Consciousness and the Social Brain (2013), and The Spaces Between Us: A Story of Neuroscience, Evolution, and Human Nature (2018).
 
 In this episode, we focus our conversation on the topic of consciousness. Basically, what is consciousness, from a scientific perspective, and its relationship to other cognitive components of our brains. Also, the interplay between attention, awareness, and consciousness. The evolutionary relevance of consciousness for social species, and theory of mind. How we can tackle the hard problem of consciousness. “Illusionism”, or consciousness as an illusion of the mind. And, finally, we address the current limitations in studying consciousness in other animals; if we are close to create conscious AI; and also António Damásio’s proposal about how consciousness is build up from lower-order neurological processes.
@@ -50,5 +42,3 @@ Time Links:
 Follow Dr. Graziano’s work:  
 Faculty page: https://tinyurl.com/y8j68f5u  
 Website: http://www.princeton.edu/~graziano/
-</div>
-

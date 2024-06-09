@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/79009319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-22%2F39beb27f-b397-0cc4-4e8f-2ddbaea3b642.m4a
-draft: false
-excerpt: "Dr. \xC9mile Torres is a post-doc researcher at Case Western Reserve University.\
-  \ Their work over the past decade has centered around a single theme: eschatology,\
-  \ whether religious, secular, or scientific. Recently, their work has been focused\
-  \ on the nature and causes of human extinction, its ethical implications, and the\
-  \ history of the idea.  They are the author of Morality, Foresight, and Human Flourishing:\
-  \ An Introduction to Existential Risks, and their latest book is Human Extinction:\
-  \ A History of the Science and Ethics of Annihilation."
-id: '876'
-image: https://i.ytimg.com/vi/6NLTyUPGhH0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/876-%C3%A9mile-torres-human-extinction-part-2-existential/id1451347236?i=1000639371154&uo=4
-publishDate: 2023-12-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/876-mile-Torres---Human-Extinction-Part-2-Existential-Ethics-e2c9m37
-tags:
-- Philosophy
-title: "#876 \xC9mile Torres - Human Extinction (Part 2): Existential Ethics"
-youtubeid: 6NLTyUPGhH0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/79009319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-22%2F39beb27f-b397-0cc4-4e8f-2ddbaea3b642.m4a",
+	"draft": false,
+	"episodeid": "876",
+	"excerpt": "Dr. Émile Torres is a post-doc researcher at Case Western Reserve University. Their work over the past decade has centered around a single theme: eschatology, whether religious, secular, or scientific. Recently, their work has been focused on the nature and causes of human extinction, its ethical implications, and the history of the idea.  They are the author of Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks, and their latest book is Human Extinction: A History of the Science and Ethics of Annihilation.",
+	"image": "https://i.ytimg.com/vi/6NLTyUPGhH0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/876-%C3%A9mile-torres-human-extinction-part-2-existential/id1451347236?i=1000639371154&uo=4",
+	"publishDate": 2023-12-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/876-mile-Torres---Human-Extinction-Part-2-Existential-Ethics-e2c9m37",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#876 Émile Torres - Human Extinction (Part 2): Existential Ethics",
+	"youtubeid": "6NLTyUPGhH0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 22nd 2023.  
 Dr. Émile Torres is a post-doc researcher at Case Western Reserve University. Their work over the past decade has centered around a single theme: eschatology, whether religious, secular, or scientific. Recently, their work has been focused on the nature and causes of human extinction, its ethical implications, and the history of the idea.  They are the author of Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks, and their latest book is Human Extinction: A History of the Science and Ethics of Annihilation.
 
@@ -45,5 +40,3 @@ University page: https://bit.ly/3BUcz8j
 Website: https://bit.ly/3qbrU1S  
 Human Extinction: https://bit.ly/3OGrXgi  
 Twitter handle: @xriskology
-</div>
-

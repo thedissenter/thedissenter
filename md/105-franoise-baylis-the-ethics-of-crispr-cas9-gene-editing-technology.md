@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734729-48000-2-22f57832cc559.mp3
-draft: false
-excerpt: "UPDATE: Fran\xE7oise Baylis \u201CDeliberate Design: The Ethics of Human\
-  \ Genome Editing\u201D (forthcoming, Harvard University Press, 2019)."
-id: '105'
-image: https://i.ytimg.com/vi/qSdPb-vvbpE/maxresdefault.jpg
-publishDate: 2018-11-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/105-Franoise-Baylis-The-Ethics-of-CRISPR-cas9-Gene-Editing-Technology-e2rsds
-tags:
-- Philosophy
-title: "#105 Fran\xE7oise Baylis: The Ethics of CRISPR-cas9 Gene Editing Technology"
-youtubeid: qSdPb-vvbpE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7734729-48000-2-22f57832cc559.mp3",
+	"draft": false,
+	"episodeid": "105",
+	"excerpt": "UPDATE: Françoise Baylis “Deliberate Design: The Ethics of Human Genome Editing” (forthcoming, Harvard University Press, 2019).",
+	"image": "https://i.ytimg.com/vi/qSdPb-vvbpE/maxresdefault.jpg",
+	"publishDate": 2018-11-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/105-Franoise-Baylis-The-Ethics-of-CRISPR-cas9-Gene-Editing-Technology-e2rsds",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#105 Françoise Baylis: The Ethics of CRISPR-cas9 Gene Editing Technology",
+	"youtubeid": "qSdPb-vvbpE"
+}
 ---
-<div class="timelinks">
-
 UPDATE: Françoise Baylis “Deliberate Design: The Ethics of Human Genome Editing” (forthcoming, Harvard University Press, 2019).
 
 Dr. Françoise Baylis is University Research Professor at Dalhousie University, Canada. She is a frequent guest on CBC and Radio Canada. The focus of her research is on issues of women's health and assisted reproductive technologies, but her research and publication record also extend to such topics as research involving humans (including human embryo research), gene editing, novel genetic technologies, public health, the role of bioethics consultants, and neuroethics. She has a forthcoming book on ethics and heritable genome editing with Harvard University Press.
@@ -42,5 +42,3 @@ Follow Dr. Baylis’ work:
 Faculty page: https://tinyurl.com/ya7oxlgd  
 Books: https://tinyurl.com/y8x39y24  
 Twitter handle: @FrancoiseBaylis
-</div>
-

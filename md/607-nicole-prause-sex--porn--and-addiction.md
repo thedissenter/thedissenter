@@ -1,22 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/45279997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-24%2F7ab86c8f-c0a8-1dda-444b-d1aac8edb918.m4a
-draft: false
-excerpt: Dr. Nicole Prause is a neuroscientist researching human sexual behavior,
-  addiction, and the physiology of sexual response. She is also the founder of Liberos
-  LLC, an independent research institute.
-id: '607'
-image: https://i.ytimg.com/vi/zu7ykaxn1TY/maxresdefault.jpg
-publishDate: 2022-04-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/607-Nicole-Prause-Sex--Porn--and-Addiction-e1c4b9t
-tags:
-- Biology
-- Neuroscience
-- Psychology
-title: '#607 Nicole Prause: Sex, Porn, and Addiction'
-youtubeid: zu7ykaxn1TY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/45279997/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-24%2F7ab86c8f-c0a8-1dda-444b-d1aac8edb918.m4a",
+	"draft": false,
+	"episodeid": "607",
+	"excerpt": "Dr. Nicole Prause is a neuroscientist researching human sexual behavior, addiction, and the physiology of sexual response. She is also the founder of Liberos LLC, an independent research institute.",
+	"image": "https://i.ytimg.com/vi/zu7ykaxn1TY/maxresdefault.jpg",
+	"publishDate": 2022-04-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/607-Nicole-Prause-Sex--Porn--and-Addiction-e1c4b9t",
+	"tags": [
+		"Biology",
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#607 Nicole Prause: Sex, Porn, and Addiction",
+	"youtubeid": "zu7ykaxn1TY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 23rd 2021.  
 Dr. Nicole Prause is a neuroscientist researching human sexual behavior, addiction, and the physiology of sexual response. She is also the founder of Liberos LLC, an independent research institute.
 
@@ -42,5 +41,3 @@ Follow Dr. Prause’s work:
 Liberos Center: https://bit.ly/3oG84sb  
 ResearchGate profile: https://bit.ly/3AVU5lF  
 Twitter handle: @NicoleRPrause
-</div>
-

@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42705958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-2%2F81112e40-d740-f1c6-cf12-132655879107.m4a
-draft: false
-excerpt: Dr. Marianna Ganapini is an Assistant Professor in the Philosophy Department
-  at Union College (NY). She works primarily in contemporary philosophy of mind and
-  epistemology. She also has related interests in the ethics and epistemology of AI.
-id: '586'
-image: https://i.ytimg.com/vi/CooZlBJSS2c/maxresdefault.jpg
-publishDate: 2022-02-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/586-Marianna-Ganapini-Beliefs--Confabulations--Rationalizations--and-AI-Systems-e19lpj6
-tags:
-- Philosophy
-title: '#586 Marianna Ganapini: Beliefs, Confabulations, Rationalizations, and AI
-  Systems'
-youtubeid: CooZlBJSS2c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42705958/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-2%2F81112e40-d740-f1c6-cf12-132655879107.m4a",
+	"draft": false,
+	"episodeid": "586",
+	"excerpt": "Dr. Marianna Ganapini is an Assistant Professor in the Philosophy Department at Union College (NY). She works primarily in contemporary philosophy of mind and epistemology. She also has related interests in the ethics and epistemology of AI.",
+	"image": "https://i.ytimg.com/vi/CooZlBJSS2c/maxresdefault.jpg",
+	"publishDate": 2022-02-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/586-Marianna-Ganapini-Beliefs--Confabulations--Rationalizations--and-AI-Systems-e19lpj6",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#586 Marianna Ganapini: Beliefs, Confabulations, Rationalizations, and AI Systems",
+	"youtubeid": "CooZlBJSS2c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 2nd 2021.  
 Dr. Marianna Ganapini is an Assistant Professor in the Philosophy Department at Union College (NY). She works primarily in contemporary philosophy of mind and epistemology. She also has related interests in the ethics and epistemology of AI.
 
@@ -42,5 +40,3 @@ Faculty page: https://bit.ly/3aTJoW0
 Website: https://bit.ly/2PKnzRu  
 PhilPeople page: https://bit.ly/332AvFe  
 Twitter handle: @MariannaBergama
-</div>
-

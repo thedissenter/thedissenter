@@ -1,21 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/15367980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83333082-44100-2-76ff6bb985bd5.m4a
-draft: false
-excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at University\
-  \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\
-  \ Biology. "
-id: '353'
-image: https://i.ytimg.com/vi/hMHPqjF27q4/maxresdefault.jpg
-publishDate: 2020-08-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/353-Guy-Madison-The-Psychology-of-Music-efjgbc
-tags:
-- Cognitive Science
-- Psychology
-title: '#353 Guy Madison: The Psychology of Music'
-youtubeid: hMHPqjF27q4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/15367980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83333082-44100-2-76ff6bb985bd5.m4a",
+	"draft": false,
+	"episodeid": "353",
+	"excerpt": "Dr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. ",
+	"image": "https://i.ytimg.com/vi/hMHPqjF27q4/maxresdefault.jpg",
+	"publishDate": 2020-08-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/353-Guy-Madison-The-Psychology-of-Music-efjgbc",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#353 Guy Madison: The Psychology of Music",
+	"youtubeid": "hMHPqjF27q4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 17th, 2020.  
 Dr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. 
 
@@ -40,5 +39,3 @@ Time Links:
 Follow Dr. Madison’s work:  
 Faculty page: https://bit.ly/2YbHaeO  
 ResearchGate profile: https://bit.ly/3hAj8S5
-</div>
-

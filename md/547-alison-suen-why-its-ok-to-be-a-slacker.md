@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/38008457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F45d21e20-ba3c-23bd-804c-d50a2cfc4f99.m4a
-draft: false
-excerpt: "Dr. Alison Suen is Associate Professor of Philosophy at Iona College, New\
-  \ York. She is the volume editor of Response Ethics (2018), the author of The Speaking\
-  \ Animal: Ethics, Language and the Human Animal Divide (2015), and Why It\u2019\
-  s OK to Be a Slacker."
-id: '547'
-image: https://i.ytimg.com/vi/__HU0dK-6Sw/maxresdefault.jpg
-publishDate: 2021-11-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/547-Alison-Suen-Why-Its-OK-to-Be-a-Slacker-e156e69
-tags:
-- Philosophy
-title: '#547 Alison Suen: Why It''s OK to Be a Slacker'
-youtubeid: __HU0dK-6Sw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/38008457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F45d21e20-ba3c-23bd-804c-d50a2cfc4f99.m4a",
+	"draft": false,
+	"episodeid": "547",
+	"excerpt": "Dr. Alison Suen is Associate Professor of Philosophy at Iona College, New York. She is the volume editor of Response Ethics (2018), the author of The Speaking Animal: Ethics, Language and the Human Animal Divide (2015), and Why It’s OK to Be a Slacker.",
+	"image": "https://i.ytimg.com/vi/__HU0dK-6Sw/maxresdefault.jpg",
+	"publishDate": 2021-11-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/547-Alison-Suen-Why-Its-OK-to-Be-a-Slacker-e156e69",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#547 Alison Suen: Why It's OK to Be a Slacker",
+	"youtubeid": "__HU0dK-6Sw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 29th 2021.  
 Dr. Alison Suen is Associate Professor of Philosophy at Iona College, New York. She is the volume editor of Response Ethics (2018), the author of The Speaking Animal: Ethics, Language and the Human Animal Divide (2015), and Why It’s OK to Be a Slacker.
 
@@ -40,5 +38,3 @@ Follow Dr. Suen’s work:
 Faculty page: https://bit.ly/3kXzYPh  
 PhilPeople page: https://bit.ly/3x0vs4C  
 Why It’s OK to Be a Slacker: https://bit.ly/36S7g9Z
-</div>
-

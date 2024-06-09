@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4903002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122687-44100-2-4a409dc1bca18.m4a
-draft: false
-excerpt: "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University\
-  \ of Technology and the Australian Catholic University. Dr. Alfano uses tools and\
-  \ methods from philosophy and the sciences to explore topics in moral psychology,\
-  \ epistemology, and digital humanities. He studies how people become and remain\
-  \ virtuous, how values become integrated into people's lives, and how these virtues\
-  \ and values are (or fail to be) manifested in their perception, thoughts, feelings,\
-  \ deliberations, and behavior. One of the guiding themes of his work is that moral\
-  \ philosophy without psychological content is empty, but psychological investigation\
-  \ without philosophical insight is blind. He\u2019s the author of books like Character\
-  \ as Moral Fiction, and Nietzsche's Moral Psychology."
-id: '263'
-image: https://i.ytimg.com/vi/uJ_iDgD9xGY/maxresdefault.jpg
-publishDate: 2019-12-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/263-Mark-Alfano-Virtue-Ethics--And-Moral-Psychology-e5k4kq
-tags:
-- Philosophy
-title: '#263 Mark Alfano: Virtue Ethics, And Moral Psychology'
-youtubeid: uJ_iDgD9xGY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4903002/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122687-44100-2-4a409dc1bca18.m4a",
+	"draft": false,
+	"episodeid": "263",
+	"excerpt": "Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University of Technology and the Australian Catholic University. Dr. Alfano uses tools and methods from philosophy and the sciences to explore topics in moral psychology, epistemology, and digital humanities. He studies how people become and remain virtuous, how values become integrated into people's lives, and how these virtues and values are (or fail to be) manifested in their perception, thoughts, feelings, deliberations, and behavior. One of the guiding themes of his work is that moral philosophy without psychological content is empty, but psychological investigation without philosophical insight is blind. He’s the author of books like Character as Moral Fiction, and Nietzsche's Moral Psychology.",
+	"image": "https://i.ytimg.com/vi/uJ_iDgD9xGY/maxresdefault.jpg",
+	"publishDate": 2019-12-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/263-Mark-Alfano-Virtue-Ethics--And-Moral-Psychology-e5k4kq",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#263 Mark Alfano: Virtue Ethics, And Moral Psychology",
+	"youtubeid": "uJ_iDgD9xGY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 24th, 2019.  
 Dr. Mark Alfano is Associate Professor of Philosophy at the Delft University of Technology and the Australian Catholic University. Dr. Alfano uses tools and methods from philosophy and the sciences to explore topics in moral psychology, epistemology, and digital humanities. He studies how people become and remain virtuous, how values become integrated into people's lives, and how these virtues and values are (or fail to be) manifested in their perception, thoughts, feelings, deliberations, and behavior. One of the guiding themes of his work is that moral philosophy without psychological content is empty, but psychological investigation without philosophical insight is blind. He’s the author of books like Character as Moral Fiction, and Nietzsche's Moral Psychology.
 
@@ -53,5 +45,3 @@ Relevant books:
 Character as Moral Fiction: https://amzn.to/2GmZJTI  
 Moral Psychology: An Introduction: https://amzn.to/2YfkR8L  
 Nietzsche's Moral Psychology: https://amzn.to/2mkX7P8
-</div>
-

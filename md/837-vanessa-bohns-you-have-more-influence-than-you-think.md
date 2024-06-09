@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/70620927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2Fd7b32336-4ab7-a4e1-b61d-135d9242a513.m4a
-draft: false
-excerpt: 'Dr. Vanessa Bohns is a social psychologist and a Professor of Organizational
-  Behavior at Cornell University. Her research focuses broadly on social influence
-  and the psychology of compliance and consent. She is the author of You Have More
-  Influence Than You Think: How We Underestimate Our Power of Persuasion, and Why
-  It Matters.'
-id: '837'
-image: https://i.ytimg.com/vi/RrB6FCTmoLs/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/837-vanessa-bohns-you-have-more-influence-than-you-think/id1451347236?i=1000628739416&uo=4
-publishDate: 2023-09-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/837-Vanessa-Bohns-You-Have-More-Influence-Than-You-Think-e249m9v
-tags:
-- Psychology
-title: '#837 Vanessa Bohns: You Have More Influence Than You Think'
-youtubeid: RrB6FCTmoLs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/70620927/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2Fd7b32336-4ab7-a4e1-b61d-135d9242a513.m4a",
+	"draft": false,
+	"episodeid": "837",
+	"excerpt": "Dr. Vanessa Bohns is a social psychologist and a Professor of Organizational Behavior at Cornell University. Her research focuses broadly on social influence and the psychology of compliance and consent. She is the author of You Have More Influence Than You Think: How We Underestimate Our Power of Persuasion, and Why It Matters.",
+	"image": "https://i.ytimg.com/vi/RrB6FCTmoLs/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/837-vanessa-bohns-you-have-more-influence-than-you-think/id1451347236?i=1000628739416&uo=4",
+	"publishDate": 2023-09-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/837-Vanessa-Bohns-You-Have-More-Influence-Than-You-Think-e249m9v",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#837 Vanessa Bohns: You Have More Influence Than You Think",
+	"youtubeid": "RrB6FCTmoLs"
+}
 ---
-<div class="timelinks">
-
 Dr. Vanessa Bohns is a social psychologist and a Professor of Organizational Behavior at Cornell University. Her research focuses broadly on social influence and the psychology of compliance and consent. She is the author of You Have More Influence Than You Think: How We Underestimate Our Power of Persuasion, and Why It Matters.
 
 In this episode, we focus on You Have More Influence Than You Think. We discuss how much we impact other people, and go through topics like compliments; expressing gratitude; the invisibility cloak illusion, and the spotlight effect; what people really pay attention to; audience tuning, and the “saying-is-believing effect”; behavioral contagion; first impressions; assertiveness; the domains where people think they are below-average; how people react to requests; why it’s hard to say “no”; why people in positions of power underestimate the negative impact they have on others; and other topics. We talk about ways by which we can become more aware and mindful of our influence on others. Finally, we discuss if influencers and gurus are preying on our insecurities to sell their products.
@@ -50,5 +47,3 @@ Faculty page: http://bit.ly/4004Dwp
 Website: http://bit.ly/3ZCCGev  
 You Have More Influence Than You Think: https://bit.ly/3JctO82  
 Twitter handle: @profbohns
-</div>
-

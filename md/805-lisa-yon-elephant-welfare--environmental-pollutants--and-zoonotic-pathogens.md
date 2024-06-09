@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/66469716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-13%2F3dfc1364-8286-5507-0469-42c54852e6be.m4a
-draft: false
-excerpt: Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at the
-  School of Veterinary Medicine and Science at the University of Nottingham. She is
-  Head of the Behaviour Subgroup, and Vice Chair, of BIAZA's Elephant Welfare Group.
-  She is a member of the Health and Welfare Committee at Twycross Zoo, and served
-  for 8 years as a member of the Ethics Committee for the Zoological Society of London
-  and. She is a member of the IUCN Wildlife Health Specialist Group. She is a member
-  of the Board of Trustees of the Frozen Ark Project. She is a Member of the Royal
-  College of Veterinary Surgeons. She is interested in the health, welfare and conservation
-  of captive and free-living wildlife (with a particular focus on elephants), which
-  includes a One Health approach looking at the interface between humans/domestic
-  animals/wildlife and their environment.
-id: '805'
-image: https://i.ytimg.com/vi/t39KduI6p80/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/805-lisa-yon-elephant-welfare-environmental-pollutants/id1451347236?i=1000619932649&uo=4
-publishDate: 2023-07-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/805-Lisa-Yon-Elephant-Welfare--Environmental-Pollutants--and-Zoonotic-Pathogens-e20b0ck
-tags:
-- Biology
-title: '#805 Lisa Yon: Elephant Welfare, Environmental Pollutants, and Zoonotic Pathogens'
-youtubeid: t39KduI6p80
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/66469716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-13%2F3dfc1364-8286-5507-0469-42c54852e6be.m4a",
+	"draft": false,
+	"episodeid": "805",
+	"excerpt": "Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at the School of Veterinary Medicine and Science at the University of Nottingham. She is Head of the Behaviour Subgroup, and Vice Chair, of BIAZA's Elephant Welfare Group. She is a member of the Health and Welfare Committee at Twycross Zoo, and served for 8 years as a member of the Ethics Committee for the Zoological Society of London and. She is a member of the IUCN Wildlife Health Specialist Group. She is a member of the Board of Trustees of the Frozen Ark Project. She is a Member of the Royal College of Veterinary Surgeons. She is interested in the health, welfare and conservation of captive and free-living wildlife (with a particular focus on elephants), which includes a One Health approach looking at the interface between humans/domestic animals/wildlife and their environment.",
+	"image": "https://i.ytimg.com/vi/t39KduI6p80/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/805-lisa-yon-elephant-welfare-environmental-pollutants/id1451347236?i=1000619932649&uo=4",
+	"publishDate": 2023-07-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/805-Lisa-Yon-Elephant-Welfare--Environmental-Pollutants--and-Zoonotic-Pathogens-e20b0ck",
+	"tags": [
+		"Biology"
+	],
+	"title": "#805 Lisa Yon: Elephant Welfare, Environmental Pollutants, and Zoonotic Pathogens",
+	"youtubeid": "t39KduI6p80"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 13th 2023.  
 Dr. Lisa Yon is an Associate Professor in Zoo and Wildlife Medicine at the School of Veterinary Medicine and Science at the University of Nottingham. She is Head of the Behaviour Subgroup, and Vice Chair, of BIAZA's Elephant Welfare Group. She is a member of the Health and Welfare Committee at Twycross Zoo, and served for 8 years as a member of the Ethics Committee for the Zoological Society of London and. She is a member of the IUCN Wildlife Health Specialist Group. She is a member of the Board of Trustees of the Frozen Ark Project. She is a Member of the Royal College of Veterinary Surgeons. She is interested in the health, welfare and conservation of captive and free-living wildlife (with a particular focus on elephants), which includes a One Health approach looking at the interface between humans/domestic animals/wildlife and their environment.
 
@@ -45,5 +36,3 @@ Follow Dr. Yon’s work:
 Elephant Welfare Project: http://bit.ly/3T8AqJq  
 Faculty page: https://bit.ly/3DjSbxP  
 ResearchGate profile: https://bit.ly/3SLhBdy
-</div>
-

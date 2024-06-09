@@ -1,27 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41485626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Fca925ec0-2ee2-69be-3b17-136953ab63cb.m4a
-draft: false
-excerpt: Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of
-  the Institute for Health Innovation and Vice President for Health Innovation at
-  Northern Kentucky University. Dr. Hardcastle specializes in philosophy of neuroscience/biology,
-  philosophy of cognitive science, philosophy of psychology, and philosophical implications
-  of psychiatry. She researches bioethics/neuroethics, behavioral neuroscience, neuropsychology,
-  cognitive psychology, and philosophy of mind. She teaches metaphysics, science studies,
-  feminist philosophy of science. She is the author of several books, including Locating
-  Consciousness, The Myth of Pain, and Constructing the Self.
-id: '579'
-image: https://i.ytimg.com/vi/U0n64729aIQ/maxresdefault.jpg
-publishDate: 2022-01-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/579-Valerie-Hardcastle-The-Self--Consciousness--Pain--and-Abnormal-Psychology-e18ghrq
-tags:
-- Neuroscience
-- Philosophy
-- Psychology
-title: '#579 Valerie Hardcastle: The Self, Consciousness, Pain, and Abnormal Psychology'
-youtubeid: U0n64729aIQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41485626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-8%2Fca925ec0-2ee2-69be-3b17-136953ab63cb.m4a",
+	"draft": false,
+	"episodeid": "579",
+	"excerpt": "Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of the Institute for Health Innovation and Vice President for Health Innovation at Northern Kentucky University. Dr. Hardcastle specializes in philosophy of neuroscience/biology, philosophy of cognitive science, philosophy of psychology, and philosophical implications of psychiatry. She researches bioethics/neuroethics, behavioral neuroscience, neuropsychology, cognitive psychology, and philosophy of mind. She teaches metaphysics, science studies, feminist philosophy of science. She is the author of several books, including Locating Consciousness, The Myth of Pain, and Constructing the Self.",
+	"image": "https://i.ytimg.com/vi/U0n64729aIQ/maxresdefault.jpg",
+	"publishDate": 2022-01-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/579-Valerie-Hardcastle-The-Self--Consciousness--Pain--and-Abnormal-Psychology-e18ghrq",
+	"tags": [
+		"Neuroscience",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#579 Valerie Hardcastle: The Self, Consciousness, Pain, and Abnormal Psychology",
+	"youtubeid": "U0n64729aIQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 8th 2021.  
 Dr. Valerie Hardcastle is St. Elizabeth Healthcare Executive Director of the Institute for Health Innovation and Vice President for Health Innovation at Northern Kentucky University. Dr. Hardcastle specializes in philosophy of neuroscience/biology, philosophy of cognitive science, philosophy of psychology, and philosophical implications of psychiatry. She researches bioethics/neuroethics, behavioral neuroscience, neuropsychology, cognitive psychology, and philosophy of mind. She teaches metaphysics, science studies, feminist philosophy of science. She is the author of several books, including Locating Consciousness, The Myth of Pain, and Constructing the Self.
 
@@ -41,5 +35,3 @@ Time Links:
 Follow Dr. Hardcastle’s work:  
 ResearchGate profile: https://bit.ly/3vkiui5  
 Amazon page: https://amzn.to/39FvgPa
-</div>
-

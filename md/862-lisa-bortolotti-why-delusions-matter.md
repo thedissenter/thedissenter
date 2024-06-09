@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76234364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fca699bbb-b067-15d4-b2ab-34c55ef9d856.m4a
-draft: false
-excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,
-  affiliated with the Philosophy Department in the School of Philosophy, Theology,
-  and Religion; and with the Institute for Mental Health in the School of Psychology.
-  Her research is in the philosophy of the cognitive sciences. She is the author of
-  The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions
-  Matter.
-id: '862'
-image: https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/862-lisa-bortolotti-why-delusions-matter/id1451347236?i=1000635213154&uo=4
-publishDate: 2023-11-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/862-Lisa-Bortolotti-Why-Delusions-Matter-e29l05s
-tags:
-- Cognitive Science
-- Philosophy
-title: '#862 Lisa Bortolotti: Why Delusions Matter'
-youtubeid: UkU7gA0lZfo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76234364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fca699bbb-b067-15d4-b2ab-34c55ef9d856.m4a",
+	"draft": false,
+	"episodeid": "862",
+	"excerpt": "Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She is the author of The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions Matter.",
+	"image": "https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/862-lisa-bortolotti-why-delusions-matter/id1451347236?i=1000635213154&uo=4",
+	"publishDate": 2023-11-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/862-Lisa-Bortolotti-Why-Delusions-Matter-e29l05s",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#862 Lisa Bortolotti: Why Delusions Matter",
+	"youtubeid": "UkU7gA0lZfo"
+}
 ---
-<div class="timelinks">
-
 Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She is the author of The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions Matter.
 
 This is our second talk. You can watch the first one, on The Epistemic Innocence of Irrational Beliefs, here: https://youtu.be/v13m30R_xbY
@@ -52,5 +48,3 @@ Website/blog: https://bit.ly/2Hejl0c
 PhilPeople page: https://bit.ly/3f8xs3B  
 Why Delusions Matter: https://bit.ly/3rm0WVE  
 Twitter handle: @lisabortolotti
-</div>
-

@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8467414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319483-44100-2-1ca2cedc07864.m4a
-draft: false
-excerpt: "Dr. Andrew Piper is Professor in the Department of Languages, Literatures,\
-  \ and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural\
-  \ analytics at McGill, and is also an editor of the Journal of Cultural Analytics.\
-  \ His work focuses on applying the tools and techniques of data science to the study\
-  \ of literature and culture, with a particular emphasis on questions of cultural\
-  \ equality. He has on-going projects that address questions of cultural capital,\
-  \ academic publishing and power, and the visibility of knowledge. He\u2019s the\
-  \ author of books like \u201CDreaming in Books: The Making of the Bibliographic\
-  \ Imagination in the Romantic Age\u201D, and \u201CEnumerations: Data and Literary\
-  \ Study\u201D."
-id: '286'
-image: https://i.ytimg.com/vi/RMyQIF2qllY/maxresdefault.jpg
-publishDate: 2020-01-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/286-Andrew-Piper-Data-Science--Reading--And-Literary-Criticism-e90tgm
-tags:
-- Cultural Analytics
-title: '#286 Andrew Piper: Data Science, Reading, And Literary Criticism'
-youtubeid: RMyQIF2qllY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8467414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34319483-44100-2-1ca2cedc07864.m4a",
+	"draft": false,
+	"episodeid": "286",
+	"excerpt": "Dr. Andrew Piper is Professor in the Department of Languages, Literatures, and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural analytics at McGill, and is also an editor of the Journal of Cultural Analytics. His work focuses on applying the tools and techniques of data science to the study of literature and culture, with a particular emphasis on questions of cultural equality. He has on-going projects that address questions of cultural capital, academic publishing and power, and the visibility of knowledge. He’s the author of books like “Dreaming in Books: The Making of the Bibliographic Imagination in the Romantic Age”, and “Enumerations: Data and Literary Study”.",
+	"image": "https://i.ytimg.com/vi/RMyQIF2qllY/maxresdefault.jpg",
+	"publishDate": 2020-01-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/286-Andrew-Piper-Data-Science--Reading--And-Literary-Criticism-e90tgm",
+	"tags": [
+		"Cultural Analytics"
+	],
+	"title": "#286 Andrew Piper: Data Science, Reading, And Literary Criticism",
+	"youtubeid": "RMyQIF2qllY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 13th, 2019.  
 Dr. Andrew Piper is Professor in the Department of Languages, Literatures, and Cultures at McGill University. He directs .txtLAB, a laboratory for cultural analytics at McGill, and is also an editor of the Journal of Cultural Analytics. His work focuses on applying the tools and techniques of data science to the study of literature and culture, with a particular emphasis on questions of cultural equality. He has on-going projects that address questions of cultural capital, academic publishing and power, and the visibility of knowledge. He’s the author of books like “Dreaming in Books: The Making of the Bibliographic Imagination in the Romantic Age”, and “Enumerations: Data and Literary Study”.
 
@@ -48,5 +40,3 @@ Website: http://bit.ly/2mqRVcH
 ResearchGate profile: http://bit.ly/2kVvsUH  
 TxtLab: http://bit.ly/2CIZ9gQ  
 Books on Amazon: https://amzn.to/33KrAXV
-</div>
-

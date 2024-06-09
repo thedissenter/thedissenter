@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24162214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F19327b53-a552-e9cc-2149-78b48ea35317.m4a
-draft: false
-excerpt: "Dr. Allan Horwitz is Board of Governors Professor in the Department of Sociology\
-  \ and Institute for Health, Health Care Policy, and Aging Research at Rutgers University.\
-  \ He has also chaired the Mental Health and Medical Sociology Sections of the American\
-  \ Sociological Association, as well as the Psychiatric Sociology Section of the\
-  \ Society for the Study of Social Problems. His research has focused on the sociology\
-  \ of mental health and illness. In 2006, he received the Leonard I. Pearlin Award\
-  \ for Distinguished Contributions to the Sociological Study of Mental Health from\
-  \ the American Sociological Association's Section on Sociology of Mental Health.\
-  \ In addition, he has published several books including What\u2019s Normal? Reconciling\
-  \ Biology and Culture (Oxford University Press, 2016)."
-id: '437'
-image: https://i.ytimg.com/vi/syZ1FKcFwLU/maxresdefault.jpg
-publishDate: 2021-03-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/437-Allan-Horwitz-Whats-Normal--Reconciling-Biology-and-Culture-envsf6
-tags:
-- Sociology
-title: '#437 Allan Horwitz: What''s Normal? Reconciling Biology and Culture'
-youtubeid: syZ1FKcFwLU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24162214/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F19327b53-a552-e9cc-2149-78b48ea35317.m4a",
+	"draft": false,
+	"episodeid": "437",
+	"excerpt": "Dr. Allan Horwitz is Board of Governors Professor in the Department of Sociology and Institute for Health, Health Care Policy, and Aging Research at Rutgers University. He has also chaired the Mental Health and Medical Sociology Sections of the American Sociological Association, as well as the Psychiatric Sociology Section of the Society for the Study of Social Problems. His research has focused on the sociology of mental health and illness. In 2006, he received the Leonard I. Pearlin Award for Distinguished Contributions to the Sociological Study of Mental Health from the American Sociological Association's Section on Sociology of Mental Health. In addition, he has published several books including What’s Normal? Reconciling Biology and Culture (Oxford University Press, 2016).",
+	"image": "https://i.ytimg.com/vi/syZ1FKcFwLU/maxresdefault.jpg",
+	"publishDate": 2021-03-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/437-Allan-Horwitz-Whats-Normal--Reconciling-Biology-and-Culture-envsf6",
+	"tags": [
+		"Sociology"
+	],
+	"title": "#437 Allan Horwitz: What's Normal? Reconciling Biology and Culture",
+	"youtubeid": "syZ1FKcFwLU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 14th 2020.  
 Dr. Allan Horwitz is Board of Governors Professor in the Department of Sociology and Institute for Health, Health Care Policy, and Aging Research at Rutgers University. He has also chaired the Mental Health and Medical Sociology Sections of the American Sociological Association, as well as the Psychiatric Sociology Section of the Society for the Study of Social Problems. His research has focused on the sociology of mental health and illness. In 2006, he received the Leonard I. Pearlin Award for Distinguished Contributions to the Sociological Study of Mental Health from the American Sociological Association's Section on Sociology of Mental Health. In addition, he has published several books including What’s Normal? Reconciling Biology and Culture (Oxford University Press, 2016).
 
@@ -49,5 +41,3 @@ Rutgers page: https://bit.ly/2KraOYI
 ResearchGate profile: https://bit.ly/37U6hWQ  
 Amazon page: https://amzn.to/2LzIMuU  
 What’s Normal: https://amzn.to/3oP1f4P
-</div>
-

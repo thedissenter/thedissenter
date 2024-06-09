@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1997164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7648429-44100-2-356c336e4e5a4.m4a
-draft: false
-excerpt: "Dr. Robin Hanson is an Associate Professor of Economics at George Mason\
-  \ University and a research associate at the Future of Humanity Institute of Oxford\
-  \ University. He\u2019s also the author of books like The Age of Em, and The Elephant\
-  \ in the Brain.  "
-id: '54'
-image: https://i.ytimg.com/vi/ySExrgejEDE/maxresdefault.jpg
-publishDate: 2018-08-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/54-Robin-Hanson-The-Elephant-in-the-Brain--Selfishness-and-Prosociality--Social-Progress-e2retc
-tags:
-- Psychology
-title: '#54 Robin Hanson: The Elephant in the Brain, Selfishness and Prosociality,
-  Social Progress'
-youtubeid: ySExrgejEDE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1997164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7648429-44100-2-356c336e4e5a4.m4a",
+	"draft": false,
+	"episodeid": "54",
+	"excerpt": "Dr. Robin Hanson is an Associate Professor of Economics at George Mason University and a research associate at the Future of Humanity Institute of Oxford University. He’s also the author of books like The Age of Em, and The Elephant in the Brain.  ",
+	"image": "https://i.ytimg.com/vi/ySExrgejEDE/maxresdefault.jpg",
+	"publishDate": 2018-08-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/54-Robin-Hanson-The-Elephant-in-the-Brain--Selfishness-and-Prosociality--Social-Progress-e2retc",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#54 Robin Hanson: The Elephant in the Brain, Selfishness and Prosociality, Social Progress",
+	"youtubeid": "ySExrgejEDE"
+}
 ---
-<div class="timelinks">
-
 Dr. Robin Hanson is an Associate Professor of Economics at George Mason University and a research associate at the Future of Humanity Institute of Oxford University. He’s also the author of books like The Age of Em, and The Elephant in the Brain.  
 In this episode, the conversation centers around the book The Elephant in the Brain. We talk about subconscious motivations; selfishness and prosociality; rationalizations; strong and weak social norms; personality variability and hidden motivations; conspicuous consumption; prestige status; bragging and self-esteem; costly signaling; self-deception; the social role of laughter; the limits of comedy; the social importance of gossip; the prosociality of nepotism; the social aspects of advertising; art and conspicuous signaling; charity, waste, and effective altruism; the social value of education; conspicuous effort and waste in medicine; the narrative of the self; enlightened self-interest; being humble; individual vs collective change; niche communities; capitalism and social progress; and related topics.
 
@@ -68,5 +65,3 @@ Faculty page: https://economics.gmu.edu/people/rhanson
 Book The Age of Em: https://ageofem.com/  
 Book The Elephant in the Brain: http://elephantinthebrain.com/  
 Twitter handle: @robinhanson
-</div>
-

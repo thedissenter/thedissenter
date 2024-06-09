@@ -1,22 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/73374233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-13%2F9261c876-651d-75f3-2b3a-01a556901b55.m4a
-draft: false
-excerpt: Dr. Colin DeYoung is Associate Professor of Psychology at the University
-  of Minnesota. In his research in personality psychology, he has examined the theoretical
-  structure of personality and the biological basis of personality.
-id: '864'
-image: https://i.ytimg.com/vi/O4OdA_V9RWo/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/864-colin-deyoung-personality-and-psychopathology/id1451347236?i=1000636359724&uo=4
-publishDate: 2023-11-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/864-Colin-DeYoung-Personality-and-Psychopathology-e26tn2p
-tags:
-- Neuroscience
-- Psychology
-title: '#864 Colin DeYoung: Personality and Psychopathology'
-youtubeid: O4OdA_V9RWo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/73374233/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-13%2F9261c876-651d-75f3-2b3a-01a556901b55.m4a",
+	"draft": false,
+	"episodeid": "864",
+	"excerpt": "Dr. Colin DeYoung is Associate Professor of Psychology at the University of Minnesota. In his research in personality psychology, he has examined the theoretical structure of personality and the biological basis of personality.",
+	"image": "https://i.ytimg.com/vi/O4OdA_V9RWo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/864-colin-deyoung-personality-and-psychopathology/id1451347236?i=1000636359724&uo=4",
+	"publishDate": 2023-11-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/864-Colin-DeYoung-Personality-and-Psychopathology-e26tn2p",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#864 Colin DeYoung: Personality and Psychopathology",
+	"youtubeid": "O4OdA_V9RWo"
+}
 ---
-<div class="timelinks">
-
 Dr. Colin DeYoung is Associate Professor of Psychology at the University of Minnesota. In his research in personality psychology, he has examined the theoretical structure of personality and the biological basis of personality.
 
 This is our second talk. You can watch the first one, on the Big Five personality traits, here: https://youtu.be/hVh22rn5doQ
@@ -43,5 +42,3 @@ Follow Dr. DeYoung’s work:
 Faculty page: http://bit.ly/2nGDKRd  
 The DeYoung Personality Lab: http://bit.ly/2n8Ncg0  
 ResearchGate profile: http://bit.ly/2lz2g68
-</div>
-

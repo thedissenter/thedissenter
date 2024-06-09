@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41134629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F015d6ca0-4d6e-cfae-5712-f8adcccf1f88.m4a
-draft: false
-excerpt: 'Dr. Charles Foster is a Fellow of Green Templeton College, a member of the
-  Oxford Law Faculty (where he is a Visiting Professor), a Senior Research Associate
-  at the Uehiro Institute for Practical Ethics (within the Faculty of Philosophy),
-  and a Research Associate at the Ethox Centre and the Helex Centre (both within the
-  Faculty of Medicine). His main areas of interest are medical law and ethics. Recently
-  he has been focused particularly on questions of identity, personhood, and authenticity,
-  on whether theories of human dignity can do any real work in the law, and on the
-  use of intuitions in moral and legal reasoning. He is the author of many books,
-  including his most recent one, Being a Human: Adventures in Forty Thousand Years
-  of Consciousness.'
-id: '541'
-image: https://i.ytimg.com/vi/QV4npAUQAck/maxresdefault.jpg
-publishDate: 2021-10-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/541-Charles-Foster---Being-a-Human-Adventures-in-Forty-Thousand-Years-of-Consciousness-e185r35
-tags:
-- History
-- Anthropology
-title: '#541 Charles Foster - Being a Human: Adventures in Forty Thousand Years of
-  Consciousness'
-youtubeid: QV4npAUQAck
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41134629/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F015d6ca0-4d6e-cfae-5712-f8adcccf1f88.m4a",
+	"draft": false,
+	"episodeid": "541",
+	"excerpt": "Dr. Charles Foster is a Fellow of Green Templeton College, a member of the Oxford Law Faculty (where he is a Visiting Professor), a Senior Research Associate at the Uehiro Institute for Practical Ethics (within the Faculty of Philosophy), and a Research Associate at the Ethox Centre and the Helex Centre (both within the Faculty of Medicine). His main areas of interest are medical law and ethics. Recently he has been focused particularly on questions of identity, personhood, and authenticity, on whether theories of human dignity can do any real work in the law, and on the use of intuitions in moral and legal reasoning. He is the author of many books, including his most recent one, Being a Human: Adventures in Forty Thousand Years of Consciousness.",
+	"image": "https://i.ytimg.com/vi/QV4npAUQAck/maxresdefault.jpg",
+	"publishDate": 2021-10-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/541-Charles-Foster---Being-a-Human-Adventures-in-Forty-Thousand-Years-of-Consciousness-e185r35",
+	"tags": [
+		"History",
+		"Anthropology"
+	],
+	"title": "#541 Charles Foster - Being a Human: Adventures in Forty Thousand Years of Consciousness",
+	"youtubeid": "QV4npAUQAck"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 29th 2021.  
 Dr. Charles Foster is a Fellow of Green Templeton College, a member of the Oxford Law Faculty (where he is a Visiting Professor), a Senior Research Associate at the Uehiro Institute for Practical Ethics (within the Faculty of Philosophy), and a Research Associate at the Ethox Centre and the Helex Centre (both within the Faculty of Medicine). His main areas of interest are medical law and ethics. Recently he has been focused particularly on questions of identity, personhood, and authenticity, on whether theories of human dignity can do any real work in the law, and on the use of intuitions in moral and legal reasoning. He is the author of many books, including his most recent one, Being a Human: Adventures in Forty Thousand Years of Consciousness.
 
@@ -48,5 +39,3 @@ Website: https://bit.ly/3nVdhfS
 Amazon page: https://amzn.to/3EEOMJO  
 Being a Human: https://amzn.to/3zALPWN  
 Twitter handle: @tweedpipe
-</div>
-

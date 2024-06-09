@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/23545634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F5a748edd-9278-5b48-91db-5298e9caf616.m4a
-draft: false
-excerpt: "Dr. Christopher Freiman is Associate Professor of Philosophy at the College\
-  \ of William & Mary. His research interests include democratic theory, distributive\
-  \ justice, and immigration. He\u2019s the author of two books, Unequivocal Justice,\
-  \ and the most recent one, Why It\u2019s OK to Ignore Politics. His work has appeared\
-  \ in venues such as the Australasian Journal of Philosophy, Philosophical Studies,\
-  \ Philosophy and Phenomenological Research, The Journal of Ethics and Social Philosophy,\
-  \ Politics, Philosophy, and Economics, and The Oxford Handbook of Political Philosophy."
-id: '403'
-image: https://i.ytimg.com/vi/vayjt6i3QYc/maxresdefault.jpg
-publishDate: 2020-12-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/403-Christopher-Freiman---Why-Its-OK-to-Ignore-Politics-end2b2
-tags:
-- Philosophy
-title: '#403 Christopher Freiman - Why It''s OK to Ignore Politics'
-youtubeid: vayjt6i3QYc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/23545634/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F5a748edd-9278-5b48-91db-5298e9caf616.m4a",
+	"draft": false,
+	"episodeid": "403",
+	"excerpt": "Dr. Christopher Freiman is Associate Professor of Philosophy at the College of William & Mary. His research interests include democratic theory, distributive justice, and immigration. He’s the author of two books, Unequivocal Justice, and the most recent one, Why It’s OK to Ignore Politics. His work has appeared in venues such as the Australasian Journal of Philosophy, Philosophical Studies, Philosophy and Phenomenological Research, The Journal of Ethics and Social Philosophy, Politics, Philosophy, and Economics, and The Oxford Handbook of Political Philosophy.",
+	"image": "https://i.ytimg.com/vi/vayjt6i3QYc/maxresdefault.jpg",
+	"publishDate": 2020-12-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/403-Christopher-Freiman---Why-Its-OK-to-Ignore-Politics-end2b2",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#403 Christopher Freiman - Why It's OK to Ignore Politics",
+	"youtubeid": "vayjt6i3QYc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 2nd 2020.  
 Dr. Christopher Freiman is Associate Professor of Philosophy at the College of William & Mary. His research interests include democratic theory, distributive justice, and immigration. He’s the author of two books, Unequivocal Justice, and the most recent one, Why It’s OK to Ignore Politics. His work has appeared in venues such as the Australasian Journal of Philosophy, Philosophical Studies, Philosophy and Phenomenological Research, The Journal of Ethics and Social Philosophy, Politics, Philosophy, and Economics, and The Oxford Handbook of Political Philosophy.
 
@@ -45,5 +40,3 @@ Website: https://bit.ly/37xioce
 PhilPeople page: https://bit.ly/2JskG4y  
 Books on Amazon: https://amzn.to/36uDc4O  
 Why It’s OK to Ignore Politics: https://amzn.to/3mr8X4t
-</div>
-

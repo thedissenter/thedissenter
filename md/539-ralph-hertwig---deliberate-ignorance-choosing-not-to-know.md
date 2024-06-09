@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/37607179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F6bbf875f-5efc-fd82-5e8e-d18db6beb29d.m4a
-draft: false
-excerpt: 'Dr. Ralph Hertwig is Director of the Center for Adaptive Rationality at
-  the Max Planck Institute for Human Development in Berlin, Germany. His research
-  interests include models of bounded and ecological rationality; decisions from experience;
-  the psychology of risk; lifespan development of decision making; and evidence-based
-  public policy. He is the editor of Deliberate Ignorance: Choosing Not to Know.'
-id: '539'
-image: https://i.ytimg.com/vi/88g4RhjMm6E/maxresdefault.jpg
-publishDate: 2021-10-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/539-Ralph-Hertwig---Deliberate-Ignorance-Choosing-Not-to-Know-e14q6ab
-tags:
-- Psychology
-title: '#539 Ralph Hertwig - Deliberate Ignorance: Choosing Not to Know'
-youtubeid: 88g4RhjMm6E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/37607179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F6bbf875f-5efc-fd82-5e8e-d18db6beb29d.m4a",
+	"draft": false,
+	"episodeid": "539",
+	"excerpt": "Dr. Ralph Hertwig is Director of the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin, Germany. His research interests include models of bounded and ecological rationality; decisions from experience; the psychology of risk; lifespan development of decision making; and evidence-based public policy. He is the editor of Deliberate Ignorance: Choosing Not to Know.",
+	"image": "https://i.ytimg.com/vi/88g4RhjMm6E/maxresdefault.jpg",
+	"publishDate": 2021-10-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/539-Ralph-Hertwig---Deliberate-Ignorance-Choosing-Not-to-Know-e14q6ab",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#539 Ralph Hertwig - Deliberate Ignorance: Choosing Not to Know",
+	"youtubeid": "88g4RhjMm6E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 19th 2021.  
 Dr. Ralph Hertwig is Director of the Center for Adaptive Rationality at the Max Planck Institute for Human Development in Berlin, Germany. His research interests include models of bounded and ecological rationality; decisions from experience; the psychology of risk; lifespan development of decision making; and evidence-based public policy. He is the editor of Deliberate Ignorance: Choosing Not to Know.
 
@@ -41,5 +38,3 @@ University page: https://bit.ly/3cgOMDR
 ResearchGate profile: https://bit.ly/36D7IbZ  
 Amazon page: https://amzn.to/3hKFTVE  
 Deliberate Ignorance: https://amzn.to/3ceadoX
-</div>
-

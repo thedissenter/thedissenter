@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41136620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2Ff44600b2-cfea-7094-f8c3-0776acfd4a9f.m4a
-draft: false
-excerpt: Dr. J. Michael Bailey is an American psychologist, behavioral geneticist,
-  and professor at Northwestern University. His interests include sexual orientation,
-  gender nonconformity, sexual arousal, behavior genetics, and evolutionary psychology.
-  He maintains that sexual orientation is heavily influenced by biology and male homosexuality
-  is most likely inborn. Dr. Bailey wrote The Man Who Would Be Queen, a book intended
-  to explain the biology of male sexual orientation and gender to a general audience,
-  focusing on gender nonconforming boys, gay men and male-to-female transsexuals.
-id: '575'
-image: https://i.ytimg.com/vi/T_IWt5gvBrg/maxresdefault.jpg
-publishDate: 2022-01-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/575-J--Michael-Bailey-Sexual-Orientation--Sexual-Arousal--and-Gender-Identity-e185t1c
-tags:
-- Psychology
-title: '#575 J. Michael Bailey: Sexual Orientation, Sexual Arousal, and Gender Identity'
-youtubeid: T_IWt5gvBrg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41136620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2Ff44600b2-cfea-7094-f8c3-0776acfd4a9f.m4a",
+	"draft": false,
+	"episodeid": "575",
+	"excerpt": "Dr. J. Michael Bailey is an American psychologist, behavioral geneticist, and professor at Northwestern University. His interests include sexual orientation, gender nonconformity, sexual arousal, behavior genetics, and evolutionary psychology. He maintains that sexual orientation is heavily influenced by biology and male homosexuality is most likely inborn. Dr. Bailey wrote The Man Who Would Be Queen, a book intended to explain the biology of male sexual orientation and gender to a general audience, focusing on gender nonconforming boys, gay men and male-to-female transsexuals.",
+	"image": "https://i.ytimg.com/vi/T_IWt5gvBrg/maxresdefault.jpg",
+	"publishDate": 2022-01-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/575-J--Michael-Bailey-Sexual-Orientation--Sexual-Arousal--and-Gender-Identity-e185t1c",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#575 J. Michael Bailey: Sexual Orientation, Sexual Arousal, and Gender Identity",
+	"youtubeid": "T_IWt5gvBrg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 1st 2021.  
 Dr. J. Michael Bailey is an American psychologist, behavioral geneticist, and professor at Northwestern University. His interests include sexual orientation, gender nonconformity, sexual arousal, behavior genetics, and evolutionary psychology. He maintains that sexual orientation is heavily influenced by biology and male homosexuality is most likely inborn. Dr. Bailey wrote The Man Who Would Be Queen, a book intended to explain the biology of male sexual orientation and gender to a general audience, focusing on gender nonconforming boys, gay men and male-to-female transsexuals.
 
@@ -42,5 +37,3 @@ Follow Dr. Bailey’s work:
 Faculty page: https://bit.ly/2RC0ukZ  
 ResearchGate profile: https://bit.ly/3wvVKfl  
 Amazon page: https://amzn.to/3fLyjI6
-</div>
-

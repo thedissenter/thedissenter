@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25226597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F05e83468-5586-3dba-1a7a-221187ca7825.m4a
-draft: false
-excerpt: "Dr. Tour\xE9 Reed is a professor in the History department at Illinois State\
-  \ University. Dr. Reed earned his BA in American Studies from Hampshire College\
-  \ (Amherst, MA), and his PhD in History from Columbia University (New York, NY).\
-  \ Dr. Reed's research interests center on race, class, and inequality. He\u2019\
-  s the author of Toward Freedom: The Case Against Race Reductionism."
-id: '448'
-image: https://i.ytimg.com/vi/UzhvWCh_dtM/maxresdefault.jpg
-publishDate: 2021-03-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/448-Tour-Reed---Toward-Freedom-The-Case-Against-Race-Reductionism-ep0bt5
-tags:
-- History
-- Sociology
-title: "#448 Tour\xE9 Reed - Toward Freedom: The Case Against Race Reductionism"
-youtubeid: UzhvWCh_dtM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25226597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F05e83468-5586-3dba-1a7a-221187ca7825.m4a",
+	"draft": false,
+	"episodeid": "448",
+	"excerpt": "Dr. Touré Reed is a professor in the History department at Illinois State University. Dr. Reed earned his BA in American Studies from Hampshire College (Amherst, MA), and his PhD in History from Columbia University (New York, NY). Dr. Reed's research interests center on race, class, and inequality. He’s the author of Toward Freedom: The Case Against Race Reductionism.",
+	"image": "https://i.ytimg.com/vi/UzhvWCh_dtM/maxresdefault.jpg",
+	"publishDate": 2021-03-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/448-Tour-Reed---Toward-Freedom-The-Case-Against-Race-Reductionism-ep0bt5",
+	"tags": [
+		"History",
+		"Sociology"
+	],
+	"title": "#448 Touré Reed - Toward Freedom: The Case Against Race Reductionism",
+	"youtubeid": "UzhvWCh_dtM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 13th 2021.  
 Dr. Touré Reed is a professor in the History department at Illinois State University. Dr. Reed earned his BA in American Studies from Hampshire College (Amherst, MA), and his PhD in History from Columbia University (New York, NY). Dr. Reed's research interests center on race, class, and inequality. He’s the author of Toward Freedom: The Case Against Race Reductionism.
 
@@ -44,5 +41,3 @@ Faculty page: http://bit.ly/37xpQW8
 ResearchGate profile: https://bit.ly/3skb5yh  
 Amazon page: https://amzn.to/3oHY27I  
 Toward Freedom: https://amzn.to/34shDk0
-</div>
-

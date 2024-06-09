@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/36962822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fab6652b4-fed9-8870-d410-bc5b1b21fe0c.m4a
-draft: false
-excerpt: Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts
-  and Professor of Psychology at the University of Texas at Austin. He and his students
-  are exploring natural language use, group dynamics, and personality in both laboratory
-  and real-world settings. His earlier work on expressive writing found that physical
-  health and work performance can improve by simple writing and/or talking exercises.
-  His cross-disciplinary research is related to linguistics, clinical and cognitive
-  psychology, communications, medicine, and computer science. Author or editor of
-  12 books and over 300 articles, Pennebaker has received numerous research and teaching
-  awards and honors.
-id: '536'
-image: https://i.ytimg.com/vi/BK3wNfCW1vI/maxresdefault.jpg
-publishDate: 2021-10-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/536-James-Pennebaker-Language-Use--Writing--Personality--and-Stories-e146h26
-tags:
-- Psychology
-title: '#536 James Pennebaker: Language Use, Writing, Personality, and Stories'
-youtubeid: BK3wNfCW1vI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/36962822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-9%2Fab6652b4-fed9-8870-d410-bc5b1b21fe0c.m4a",
+	"draft": false,
+	"episodeid": "536",
+	"excerpt": "Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts and Professor of Psychology at the University of Texas at Austin. He and his students are exploring natural language use, group dynamics, and personality in both laboratory and real-world settings. His earlier work on expressive writing found that physical health and work performance can improve by simple writing and/or talking exercises. His cross-disciplinary research is related to linguistics, clinical and cognitive psychology, communications, medicine, and computer science. Author or editor of 12 books and over 300 articles, Pennebaker has received numerous research and teaching awards and honors.",
+	"image": "https://i.ytimg.com/vi/BK3wNfCW1vI/maxresdefault.jpg",
+	"publishDate": 2021-10-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/536-James-Pennebaker-Language-Use--Writing--Personality--and-Stories-e146h26",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#536 James Pennebaker: Language Use, Writing, Personality, and Stories",
+	"youtubeid": "BK3wNfCW1vI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 7th 2021.  
 Dr. James Pennebaker is the Regents Centennial Professor of Liberal Arts and Professor of Psychology at the University of Texas at Austin. He and his students are exploring natural language use, group dynamics, and personality in both laboratory and real-world settings. His earlier work on expressive writing found that physical health and work performance can improve by simple writing and/or talking exercises. His cross-disciplinary research is related to linguistics, clinical and cognitive psychology, communications, medicine, and computer science. Author or editor of 12 books and over 300 articles, Pennebaker has received numerous research and teaching awards and honors.
 
@@ -43,5 +36,3 @@ Follow Dr. Pennebaker’s work:
 Faculty page: https://bit.ly/3vQ5EsR  
 ResearchGate profile: https://bit.ly/39bkP66  
 Amazon page: https://amzn.to/2TwKRMv
-</div>
-

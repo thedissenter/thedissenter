@@ -1,20 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40786435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2F04100792-2bb6-ff7b-e2f5-dd7debaecc98.m4a
-draft: false
-excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
-id: '571'
-image: https://i.ytimg.com/vi/fxffd8Mgkj4/maxresdefault.jpg
-publishDate: 2022-01-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/571-Snia-Frota-Aquisio-de-Linguagem--Prosdia--o-Baby-Lab--e-o-Portugus-e17r723
-tags:
-- Linguistics
-- "Entrevistas em Portugu\xEAs"
-title: "#571 S\xF3nia Frota: Aquisi\xE7\xE3o de Linguagem, Pros\xF3dia, o Baby Lab,\
-  \ e o Portugu\xEAs"
-youtubeid: fxffd8Mgkj4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40786435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-24%2F04100792-2bb6-ff7b-e2f5-dd7debaecc98.m4a",
+	"draft": false,
+	"episodeid": "571",
+	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
+	"image": "https://i.ytimg.com/vi/fxffd8Mgkj4/maxresdefault.jpg",
+	"publishDate": 2022-01-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/571-Snia-Frota-Aquisio-de-Linguagem--Prosdia--o-Baby-Lab--e-o-Portugus-e17r723",
+	"tags": [
+		"Linguistics",
+		"Entrevistas em Português"
+	],
+	"title": "#571 Sónia Frota: Aquisição de Linguagem, Prosódia, o Baby Lab, e o Português",
+	"youtubeid": "fxffd8Mgkj4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 23rd 2021.  
 THIS INTERVIEW IS IN PORTUGUESE.  
 A Dra. Sónia Frota é Professora no Departamento de Linguística da Faculdade de Letras da Universidade de Lisboa. Ela é coordenadora científica do Centro de Linguística da Universidade de Lisbao e Diretora do Lisbon Baby Lab. É editora-chefe do Journal of Portuguese Linguistics, e diretora associada do Phonetics. A sua investigação foca-se na perceção de discurso precoce e no desenvolvimento linguístico, e na prosódia. 
@@ -41,5 +41,3 @@ Página da universidade/website: https://bit.ly/3CkQuhC
 Lisbon Baby Lab: https://bit.ly/3CDEho9  
 Perfil do ResearchGate: https://bit.ly/3nFM3tG  
 Livros na Amazon: https://amzn.to/3lzaCpd
-</div>
-

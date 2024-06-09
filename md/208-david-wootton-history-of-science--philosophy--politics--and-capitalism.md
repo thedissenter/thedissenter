@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3575626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-15%2F17013287-44100-2-f4c968931f114.m4a
-draft: false
-excerpt: "Dr. David Wootton is Anniversary Professor of History at the University\
-  \ of York. He works on the intellectual and cultural history of the English-speaking\
-  \ countries, Italy, and France, from the 17th to the 19th centuries. His most recent\
-  \ book is Power, Pleasure, and Profit published by Harvard University Press, and\
-  \ he\u2019s also the author of The Invention of Science: A New History of the Scientific\
-  \ Revolution. He has given the Carlyle and Besterman Lectures at Oxford, the Raleigh\
-  \ Lecture at the British Academy and the Benedict Lectures at Boston."
-id: '208'
-image: https://i.ytimg.com/vi/MbHwUVTok4o/maxresdefault.jpg
-publishDate: 2019-07-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/208-David-Wootton-History-of-Science--Philosophy--Politics--And-Capitalism-e4bkca
-tags:
-- History
-- General Science
-title: '#208 David Wootton: History of Science, Philosophy, Politics, And Capitalism'
-youtubeid: MbHwUVTok4o
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3575626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-15%2F17013287-44100-2-f4c968931f114.m4a",
+	"draft": false,
+	"episodeid": "208",
+	"excerpt": "Dr. David Wootton is Anniversary Professor of History at the University of York. He works on the intellectual and cultural history of the English-speaking countries, Italy, and France, from the 17th to the 19th centuries. His most recent book is Power, Pleasure, and Profit published by Harvard University Press, and he’s also the author of The Invention of Science: A New History of the Scientific Revolution. He has given the Carlyle and Besterman Lectures at Oxford, the Raleigh Lecture at the British Academy and the Benedict Lectures at Boston.",
+	"image": "https://i.ytimg.com/vi/MbHwUVTok4o/maxresdefault.jpg",
+	"publishDate": 2019-07-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/208-David-Wootton-History-of-Science--Philosophy--Politics--And-Capitalism-e4bkca",
+	"tags": [
+		"History",
+		"General Science"
+	],
+	"title": "#208 David Wootton: History of Science, Philosophy, Politics, And Capitalism",
+	"youtubeid": "MbHwUVTok4o"
+}
 ---
-<div class="timelinks">
-
 Dr. David Wootton is Anniversary Professor of History at the University of York. He works on the intellectual and cultural history of the English-speaking countries, Italy, and France, from the 17th to the 19th centuries. His most recent book is Power, Pleasure, and Profit published by Harvard University Press, and he’s also the author of The Invention of Science: A New History of the Scientific Revolution. He has given the Carlyle and Besterman Lectures at Oxford, the Raleigh Lecture at the British Academy and the Benedict Lectures at Boston.
 
 In this episode, we talk about some of the main topics explored by Dr. Wootton in The Invention of Science. We discuss the historical precursors of science, and the new conceptual framework that developed around the 17th century. We also refer to the progress of science, where Thomas Kuhn failed, the relationship between philosophy and science, and science as a cultural construct. We go through the earliest developments in Astronomy and Earth geography, the discovery of the Americas and the historical relationship between science and political power. We discuss some hypotheses for why China did not get to develop science before Europe, and the relationship between science and technology. Finally, we look into how science might have influenced the development of capitalism (and vice-versa).
@@ -46,5 +41,3 @@ Faculty page: https://bit.ly/2Ia4zoC
 Personal website: http://www.davidwootton.com/  
 The Invention of Science: A New History of the Scientific Revolution: https://amzn.to/2X54ElY  
 Power, Pleasure, and Profit: Insatiable Appetites from Machiavelli to Madison: https://amzn.to/2MJTW0l
-</div>
-

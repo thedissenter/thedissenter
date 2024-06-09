@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/56301957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-17%2Fa2b6db9e-d917-a7eb-2b36-3fe9c4be13b9.m4a
-draft: false
-excerpt: Dr. Eric Schniter is a Lecturer in Anthropology at California State University,
-  Fullerton, and a Visiting Research Associate at the Economic Science Institute at
-  Chapman University. Dr. Schniter does research in evolutionary anthropology, behavioral
-  economics, and evolutionary psychology. He has been examining the development of
-  skill, knowledge, and material production across the lifespan. This work has led
-  him to investigate relationship maintenance, which is central to fostering material
-  and knowledge transfers over the life course. Finally, Dr. Schniter is interested
-  in how emotions calibrate personal and interpersonal behaviors, contributing to
-  relationship maintenance and well-being.
-id: '702'
-image: https://i.ytimg.com/vi/SLrAuXzT2H0/maxresdefault.jpg
-publishDate: 2022-11-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/702-Eric-Schniter-Skill-and-Knowledge-Acquisition--and-Trust-Based-Interactions-e1mkmu5
-tags:
-- Anthropology
-- Psychology
-title: '#702 Eric Schniter: Skill and Knowledge Acquisition, and Trust-Based Interactions'
-youtubeid: SLrAuXzT2H0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/56301957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-17%2Fa2b6db9e-d917-a7eb-2b36-3fe9c4be13b9.m4a",
+	"draft": false,
+	"episodeid": "702",
+	"excerpt": "Dr. Eric Schniter is a Lecturer in Anthropology at California State University, Fullerton, and a Visiting Research Associate at the Economic Science Institute at Chapman University. Dr. Schniter does research in evolutionary anthropology, behavioral economics, and evolutionary psychology. He has been examining the development of skill, knowledge, and material production across the lifespan. This work has led him to investigate relationship maintenance, which is central to fostering material and knowledge transfers over the life course. Finally, Dr. Schniter is interested in how emotions calibrate personal and interpersonal behaviors, contributing to relationship maintenance and well-being.",
+	"image": "https://i.ytimg.com/vi/SLrAuXzT2H0/maxresdefault.jpg",
+	"publishDate": 2022-11-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/702-Eric-Schniter-Skill-and-Knowledge-Acquisition--and-Trust-Based-Interactions-e1mkmu5",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#702 Eric Schniter: Skill and Knowledge Acquisition, and Trust-Based Interactions",
+	"youtubeid": "SLrAuXzT2H0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 17th 2022.  
 Dr. Eric Schniter is a Lecturer in Anthropology at California State University, Fullerton, and a Visiting Research Associate at the Economic Science Institute at Chapman University. Dr. Schniter does research in evolutionary anthropology, behavioral economics, and evolutionary psychology. He has been examining the development of skill, knowledge, and material production across the lifespan. This work has led him to investigate relationship maintenance, which is central to fostering material and knowledge transfers over the life course. Finally, Dr. Schniter is interested in how emotions calibrate personal and interpersonal behaviors, contributing to relationship maintenance and well-being.
 
@@ -50,5 +43,3 @@ University page (Chapman): https://bit.ly/3CdyPeI
 Website: https://bit.ly/3K1oHHW  
 Google Scholar page: https://bit.ly/3CdOn2m  
 ResearchGate profile: https://bit.ly/3cocGzD
-</div>
-

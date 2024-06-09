@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7249439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29808773-44100-2-8d691566511.m4a
-draft: false
-excerpt: "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at\
-  \ Trinity College Dublin. He is interested in the development of connectivity in\
-  \ the brain, specifically in how this process is controlled by genes and how mutations\
-  \ in such genes affect the connectivity of neuronal circuits, influence behavior\
-  \ and perception and contribute to disease. His research group uses genetic approaches\
-  \ in the mouse to address these questions, and they are also involved in collaborative\
-  \ research looking at the genetics and phenotypic manifestations of synaesthesia\
-  \ and schizophrenia in humans. He\u2019s the author of a book that came out last\
-  \ year, Innate: How the Wiring of Our Brains Shapes Who We Are."
-id: '274'
-image: https://i.ytimg.com/vi/VBc9Ava4Dgg/maxresdefault.jpg
-publishDate: 2019-12-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/274-Kevin-Mitchell-Innate--How-the-Wiring-of-Our-Brains-Shapes-Who-We-Are-e7ro2v
-tags:
-- Neuroscience
-- Psychology
-title: '#274 Kevin Mitchell - Innate: How the Wiring of Our Brains Shapes Who We Are'
-youtubeid: VBc9Ava4Dgg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7249439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29808773-44100-2-8d691566511.m4a",
+	"draft": false,
+	"episodeid": "274",
+	"excerpt": "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at Trinity College Dublin. He is interested in the development of connectivity in the brain, specifically in how this process is controlled by genes and how mutations in such genes affect the connectivity of neuronal circuits, influence behavior and perception and contribute to disease. His research group uses genetic approaches in the mouse to address these questions, and they are also involved in collaborative research looking at the genetics and phenotypic manifestations of synaesthesia and schizophrenia in humans. He’s the author of a book that came out last year, Innate: How the Wiring of Our Brains Shapes Who We Are.",
+	"image": "https://i.ytimg.com/vi/VBc9Ava4Dgg/maxresdefault.jpg",
+	"publishDate": 2019-12-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/274-Kevin-Mitchell-Innate--How-the-Wiring-of-Our-Brains-Shapes-Who-We-Are-e7ro2v",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#274 Kevin Mitchell - Innate: How the Wiring of Our Brains Shapes Who We Are",
+	"youtubeid": "VBc9Ava4Dgg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 16th, 2019.  
 Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at Trinity College Dublin. He is interested in the development of connectivity in the brain, specifically in how this process is controlled by genes and how mutations in such genes affect the connectivity of neuronal circuits, influence behavior and perception and contribute to disease. His research group uses genetic approaches in the mouse to address these questions, and they are also involved in collaborative research looking at the genetics and phenotypic manifestations of synaesthesia and schizophrenia in humans. He’s the author of a book that came out last year, Innate: How the Wiring of Our Brains Shapes Who We Are.
 
@@ -51,5 +44,3 @@ Wiring the Brain (blog): http://bit.ly/2MKhzCA
 ResearchGate profile: http://bit.ly/2LVNCBJ  
 Twitter handle: @WiringTheBrain  
 Innate: How the Wiring of Our Brains Shapes Who We Are: https://amzn.to/33zDy60
-</div>
-

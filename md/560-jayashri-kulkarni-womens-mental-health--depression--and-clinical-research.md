@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/39440991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F3437f1b3-11d4-ff65-0e0c-96afc24a0af4.m4a
-draft: false
-excerpt: Dr. Jayashri Kulkarni is a Professor of Psychiatry at the Monash University
-  who works in the area of women's mental health. She has written about Premenstrual
-  syndrome. She has used hormones to treat schizophrenia, bipolar disorder and depression
-  in women. She founded and heads the Monash Alfred Psychiatry Research Centre.
-id: '560'
-image: https://i.ytimg.com/vi/QKmJCAJz078/maxresdefault.jpg
-publishDate: 2021-12-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/560-Jayashri-Kulkarni-Womens-Mental-Health--Depression--and-Clinical-Research-e16i54v
-tags:
-- Medicine
-title: '#560 Jayashri Kulkarni: Women''s Mental Health, Depression, and Clinical Research'
-youtubeid: QKmJCAJz078
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/39440991/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F3437f1b3-11d4-ff65-0e0c-96afc24a0af4.m4a",
+	"draft": false,
+	"episodeid": "560",
+	"excerpt": "Dr. Jayashri Kulkarni is a Professor of Psychiatry at the Monash University who works in the area of women's mental health. She has written about Premenstrual syndrome. She has used hormones to treat schizophrenia, bipolar disorder and depression in women. She founded and heads the Monash Alfred Psychiatry Research Centre.",
+	"image": "https://i.ytimg.com/vi/QKmJCAJz078/maxresdefault.jpg",
+	"publishDate": 2021-12-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/560-Jayashri-Kulkarni-Womens-Mental-Health--Depression--and-Clinical-Research-e16i54v",
+	"tags": [
+		"Medicine"
+	],
+	"title": "#560 Jayashri Kulkarni: Women's Mental Health, Depression, and Clinical Research",
+	"youtubeid": "QKmJCAJz078"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 25th 2021.  
 Dr. Jayashri Kulkarni is a Professor of Psychiatry at the Monash University who works in the area of women's mental health. She has written about Premenstrual syndrome. She has used hormones to treat schizophrenia, bipolar disorder and depression in women. She founded and heads the Monash Alfred Psychiatry Research Centre.
 
@@ -40,5 +38,3 @@ Faculty page: https://bit.ly/3mS0KaG
 ResearchGate profile: https://bit.ly/2QtMUyN  
 MAPRC: https://bit.ly/3mADM9J  
 Twitter handle: @jayashrikulkar1
-</div>
-

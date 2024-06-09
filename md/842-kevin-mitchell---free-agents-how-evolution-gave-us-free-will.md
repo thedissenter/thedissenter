@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72739954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2Fa4d4e8d7-0114-902d-0fde-352ec166a27a.m4a
-draft: false
-excerpt: 'Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at
-  Trinity College Dublin. He is interested in the development of connectivity in the
-  brain, specifically in how this process is controlled by genes and how mutations
-  in such genes affect the connectivity of neuronal circuits, influence behavior and
-  perception and contribute to disease. His latest book is Free Agents: How Evolution
-  Gave Us Free Will.'
-id: '842'
-image: https://i.ytimg.com/vi/Euv_pwsAkkQ/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/842-kevin-mitchell-free-agents-how-evolution-gave-us/id1451347236?i=1000629944597&uo=4
-publishDate: 2023-10-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/842-Kevin-Mitchell---Free-Agents-How-Evolution-Gave-Us-Free-Will-e26abli
-tags:
-- Neuroscience
-title: '#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will'
-youtubeid: Euv_pwsAkkQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72739954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-28%2Fa4d4e8d7-0114-902d-0fde-352ec166a27a.m4a",
+	"draft": false,
+	"episodeid": "842",
+	"excerpt": "Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at Trinity College Dublin. He is interested in the development of connectivity in the brain, specifically in how this process is controlled by genes and how mutations in such genes affect the connectivity of neuronal circuits, influence behavior and perception and contribute to disease. His latest book is Free Agents: How Evolution Gave Us Free Will.",
+	"image": "https://i.ytimg.com/vi/Euv_pwsAkkQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/842-kevin-mitchell-free-agents-how-evolution-gave-us/id1451347236?i=1000629944597&uo=4",
+	"publishDate": 2023-10-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/842-Kevin-Mitchell---Free-Agents-How-Evolution-Gave-Us-Free-Will-e26abli",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#842 Kevin Mitchell - Free Agents: How Evolution Gave Us Free Will",
+	"youtubeid": "Euv_pwsAkkQ"
+}
 ---
-<div class="timelinks">
-
 Dr. Kevin Mitchell is Associate Professor of Genetics and Neuroscience at Trinity College Dublin. He is interested in the development of connectivity in the brain, specifically in how this process is controlled by genes and how mutations in such genes affect the connectivity of neuronal circuits, influence behavior and perception and contribute to disease. His latest book is Free Agents: How Evolution Gave Us Free Will.
 
 In this episode, we focus on Free Agents. We start by discussing how scientists approach free will, and if we should define free will. We go through some of the major steps in the evolution of free will, and talk about the origins of life on Earth; informational causation; the purpose of life; meaning and value; the evolution of decision making; agency; the evolution of nervous systems; the neocortex; and self-awareness. We talk about how we simulate different courses of action, and how we should understand decision making as a process. We discuss indeterminacy in Physics and Neuroscience. We talk about the Libet experiments, and studies of brain legions. We discuss personality traits and other psychological predispositions. We talk about constraints and top-down causation. Finally, we discuss the link between free will and moral responsibility.
@@ -55,5 +51,3 @@ Free Agents: https://bit.ly/3GX0TEZ
 Wiring the Brain (blog): http://bit.ly/2MKhzCA  
 ResearchGate profile: http://bit.ly/2LVNCBJ  
 Twitter handle: @WiringTheBrain
-</div>
-

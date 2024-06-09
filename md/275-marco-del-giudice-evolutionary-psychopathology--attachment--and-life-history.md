@@ -1,29 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7249863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29809625-44100-2-95559fecaaabd.m4a
-draft: false
-excerpt: "Dr. Marco Del Giudice is Associate Professor in the Department of Psychology\
-  \ at the University of New Mexico. In his work he explores a wide range of topics\
-  \ at the intersection of human behavior, evolution, and development. His approach\
-  \ is interdisciplinary and driven by the quest for theoretical synthesis. Over the\
-  \ years he has developed some broad, integrative models: the Adaptive Calibration\
-  \ Model of individual differences in stress responsivity (with Bruce Ellis and Birdie\
-  \ Shirtcliff); an evolutionary-developmental model of sex differences in attachment\
-  \ styles; and a unifying life history framework for evolutionary psychopathology.\
-  \ Most of his current empirical work is devoted to testing, advancing, and refining\
-  \ these models with a variety of research methods. He\u2019s the author of Evolutionary\
-  \ Psychopathology: A Unified Approach."
-id: '275'
-image: https://i.ytimg.com/vi/am0fbTEGXQg/maxresdefault.jpg
-publishDate: 2019-12-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/275-Marco-Del-Giudice-Evolutionary-Psychopathology--Attachment--And-Life-History-e7rog7
-tags:
-- Psychology
-title: '#275 Marco Del Giudice: Evolutionary Psychopathology, Attachment, And Life
-  History'
-youtubeid: am0fbTEGXQg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7249863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-18%2F29809625-44100-2-95559fecaaabd.m4a",
+	"draft": false,
+	"episodeid": "275",
+	"excerpt": "Dr. Marco Del Giudice is Associate Professor in the Department of Psychology at the University of New Mexico. In his work he explores a wide range of topics at the intersection of human behavior, evolution, and development. His approach is interdisciplinary and driven by the quest for theoretical synthesis. Over the years he has developed some broad, integrative models: the Adaptive Calibration Model of individual differences in stress responsivity (with Bruce Ellis and Birdie Shirtcliff); an evolutionary-developmental model of sex differences in attachment styles; and a unifying life history framework for evolutionary psychopathology. Most of his current empirical work is devoted to testing, advancing, and refining these models with a variety of research methods. He’s the author of Evolutionary Psychopathology: A Unified Approach.",
+	"image": "https://i.ytimg.com/vi/am0fbTEGXQg/maxresdefault.jpg",
+	"publishDate": 2019-12-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/275-Marco-Del-Giudice-Evolutionary-Psychopathology--Attachment--And-Life-History-e7rog7",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#275 Marco Del Giudice: Evolutionary Psychopathology, Attachment, And Life History",
+	"youtubeid": "am0fbTEGXQg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 17th, 2019.  
 Dr. Marco Del Giudice is Associate Professor in the Department of Psychology at the University of New Mexico. In his work he explores a wide range of topics at the intersection of human behavior, evolution, and development. His approach is interdisciplinary and driven by the quest for theoretical synthesis. Over the years he has developed some broad, integrative models: the Adaptive Calibration Model of individual differences in stress responsivity (with Bruce Ellis and Birdie Shirtcliff); an evolutionary-developmental model of sex differences in attachment styles; and a unifying life history framework for evolutionary psychopathology. Most of his current empirical work is devoted to testing, advancing, and refining these models with a variety of research methods. He’s the author of Evolutionary Psychopathology: A Unified Approach.
 
@@ -48,5 +38,3 @@ Faculty page: http://bit.ly/33TOSL7
 Personal website: https://marcodg.net/  
 ResearchGate profile: http://bit.ly/2zgDbAn  
 Evolutionary Psychopathology: A Unified Approach: https://amzn.to/2ZbilSn
-</div>
-

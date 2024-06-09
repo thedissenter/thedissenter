@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47460323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-10%2F6019ecdd-05a7-8516-6d7a-08a4ed90426e.m4a
-draft: false
-excerpt: 'Dr. David Leiser is a professor of economic and social psychology at Ben-Gurion
-  University of the Negev. Dr. Leiser has served as President of the Economic Psychology
-  division of the International Association of Applied Psychology (IAAP) since 2014.
-  He is the author of Cognitive Science and Genetic Epistemology - a Case Study of
-  Understanding, and How We Misunderstand Economics And Why It Matters: The Psychology
-  of Bias, Distortion and Conspiracy.'
-id: '624'
-image: https://i.ytimg.com/vi/SDQL7omze_k/maxresdefault.jpg
-publishDate: 2022-05-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/624-David-Leiser---How-We-Misunderstand-Economics-And-Why-It-Matters-e1e6sh3
-tags:
-- Economy, Progress
-- Psychology
-title: '#624 David Leiser - How We Misunderstand Economics And Why It Matters'
-youtubeid: SDQL7omze_k
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47460323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-10%2F6019ecdd-05a7-8516-6d7a-08a4ed90426e.m4a",
+	"draft": false,
+	"episodeid": "624",
+	"excerpt": "Dr. David Leiser is a professor of economic and social psychology at Ben-Gurion University of the Negev. Dr. Leiser has served as President of the Economic Psychology division of the International Association of Applied Psychology (IAAP) since 2014. He is the author of Cognitive Science and Genetic Epistemology - a Case Study of Understanding, and How We Misunderstand Economics And Why It Matters: The Psychology of Bias, Distortion and Conspiracy.",
+	"image": "https://i.ytimg.com/vi/SDQL7omze_k/maxresdefault.jpg",
+	"publishDate": 2022-05-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/624-David-Leiser---How-We-Misunderstand-Economics-And-Why-It-Matters-e1e6sh3",
+	"tags": [
+		"Economy, Progress",
+		"Psychology"
+	],
+	"title": "#624 David Leiser - How We Misunderstand Economics And Why It Matters",
+	"youtubeid": "SDQL7omze_k"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 7th 2022.  
 Dr. David Leiser is a professor of economic and social psychology at Ben-Gurion University of the Negev. Dr. Leiser has served as President of the Economic Psychology division of the International Association of Applied Psychology (IAAP) since 2014. He is the author of Cognitive Science and Genetic Epistemology - a Case Study of Understanding, and How We Misunderstand Economics And Why It Matters: The Psychology of Bias, Distortion and Conspiracy.
 
@@ -45,5 +41,3 @@ Website: https://bit.ly/34yheiZ
 ResearchGate profile: https://bit.ly/3GIQnQ3  
 Amazon page: https://amzn.to/3mwT2Ep  
 How We Misunderstand Economics and Why it Matters: https://amzn.to/2XUbqNJ
-</div>
-

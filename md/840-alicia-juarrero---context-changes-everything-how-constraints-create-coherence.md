@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76054145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-18%2Fc7aca338-cc86-bd75-6c5e-573c5354a47f.m4a
-draft: false
-excerpt: 'Dr. Alicia Juarrero is President and Founder of VectorAnalytica. Her research
-  in neurophilosophy has been focused on the causal role of context-sensitive constraints
-  in the emergence of mental events such as intentions. She is the author of several
-  books, the most recent one being Context Changes Everything: How Constraints Create
-  Coherence.'
-id: '840'
-image: https://i.ytimg.com/vi/XKamoQkahxw/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/840-alicia-juarrero-context-changes-everything-how/id1451347236?i=1000629556122&uo=4
-publishDate: 2023-09-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/840-Alicia-Juarrero---Context-Changes-Everything-How-Constraints-Create-Coherence-e29fg61
-tags:
-- Cognitive Science
-- Philosophy
-title: '#840 Alicia Juarrero - Context Changes Everything: How Constraints Create
-  Coherence'
-youtubeid: XKamoQkahxw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76054145/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-18%2Fc7aca338-cc86-bd75-6c5e-573c5354a47f.m4a",
+	"draft": false,
+	"episodeid": "840",
+	"excerpt": "Dr. Alicia Juarrero is President and Founder of VectorAnalytica. Her research in neurophilosophy has been focused on the causal role of context-sensitive constraints in the emergence of mental events such as intentions. She is the author of several books, the most recent one being Context Changes Everything: How Constraints Create Coherence.",
+	"image": "https://i.ytimg.com/vi/XKamoQkahxw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/840-alicia-juarrero-context-changes-everything-how/id1451347236?i=1000629556122&uo=4",
+	"publishDate": 2023-09-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/840-Alicia-Juarrero---Context-Changes-Everything-How-Constraints-Create-Coherence-e29fg61",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#840 Alicia Juarrero - Context Changes Everything: How Constraints Create Coherence",
+	"youtubeid": "XKamoQkahxw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 18th 2023.  
 Dr. Alicia Juarrero is President and Founder of VectorAnalytica. Her research in neurophilosophy has been focused on the causal role of context-sensitive constraints in the emergence of mental events such as intentions. She is the author of several books, the most recent one being Context Changes Everything: How Constraints Create Coherence.
 
@@ -45,5 +41,3 @@ Time Links:
 Follow Dr. Juarrero’s work:  
 ResearchGate profile: https://bit.ly/3BS8Rfx  
 Context Changes Everything: https://bit.ly/3JOeSyl
-</div>
-

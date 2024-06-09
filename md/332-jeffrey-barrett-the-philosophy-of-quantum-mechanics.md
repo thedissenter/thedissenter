@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/11653339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-28%2F59678249-44100-2-b2da15a69124.m4a
-draft: false
-excerpt: "Dr. Jeffrey Barrett is Chancellor\u2019s Professor of Logic and Philosophy\
-  \ of Science at the University of California, Irvine. His current research involves\
-  \ two general topics. First, he is interested in attempts to resolve the measurement\
-  \ problem in quantum mechanics. Second, he is interested in using decision theory\
-  \ and evolutionary game theory to model basic features of empirical and mathematical\
-  \ inquiry. In particular, he has been modeling the coevolution of descriptive language\
-  \ and predictive theory in the context of Skyrms-Lewis sender-receiver games. "
-id: '332'
-image: https://i.ytimg.com/vi/hVp1RjCu1nU/maxresdefault.jpg
-publishDate: 2020-05-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/332-Jeffrey-Barrett-The-Philosophy-of-Quantum-Mechanics-ec24or
-tags:
-- Philosophy
-title: '#332 Jeffrey Barrett: The Philosophy of Quantum Mechanics'
-youtubeid: hVp1RjCu1nU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/11653339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-2-28%2F59678249-44100-2-b2da15a69124.m4a",
+	"draft": false,
+	"episodeid": "332",
+	"excerpt": "Dr. Jeffrey Barrett is Chancellor’s Professor of Logic and Philosophy of Science at the University of California, Irvine. His current research involves two general topics. First, he is interested in attempts to resolve the measurement problem in quantum mechanics. Second, he is interested in using decision theory and evolutionary game theory to model basic features of empirical and mathematical inquiry. In particular, he has been modeling the coevolution of descriptive language and predictive theory in the context of Skyrms-Lewis sender-receiver games. ",
+	"image": "https://i.ytimg.com/vi/hVp1RjCu1nU/maxresdefault.jpg",
+	"publishDate": 2020-05-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/332-Jeffrey-Barrett-The-Philosophy-of-Quantum-Mechanics-ec24or",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#332 Jeffrey Barrett: The Philosophy of Quantum Mechanics",
+	"youtubeid": "hVp1RjCu1nU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON March 27th, 2020.  
 Dr. Jeffrey Barrett is Chancellor’s Professor of Logic and Philosophy of Science at the University of California, Irvine. His current research involves two general topics. First, he is interested in attempts to resolve the measurement problem in quantum mechanics. Second, he is interested in using decision theory and evolutionary game theory to model basic features of empirical and mathematical inquiry. In particular, he has been modeling the coevolution of descriptive language and predictive theory in the context of Skyrms-Lewis sender-receiver games. 
 
@@ -43,5 +38,3 @@ Follow Dr. Barrett’s work:
 Faculty page/website: http://bit.ly/36XzCgP  
 ResearchGate profile: http://bit.ly/36ZcjmC  
 The Conceptual Foundations of Quantum Mechanics: https://amzn.to/3btXDyE
-</div>
-

@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4248198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095098-44100-2-168c169efd8d7.m4a
-draft: false
-excerpt: "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London\
-  \ School of Economics, Visiting Professor of Philosophy at the New College of the\
-  \ Humanities, and Senior Member at Darwin College, Cambridge. Dr. Humphrey is a\
-  \ theoretical psychologist, who is known for his work on the evolution of human\
-  \ intelligence and consciousness. His interests are wide ranging. He studied mountain\
-  \ gorillas with Dian Fossey in Rwanda, he was the first to demonstrate the existence\
-  \ of \u201Cblindsight\u201D after brain damage in monkeys, he proposed the celebrated\
-  \ theory of the \"social function of intellect\", and he is the only scientist ever\
-  \ to edit the literary journal Granta. His books include Consciousness Regained,\
-  \ The Inner Eye, A History of the Mind, Leaps of Faith, The Mind Made Flesh, Seeing\
-  \ Red and, most recently, Soul Dust. He has been the recipient of several honors,\
-  \ including the Martin Luther King Memorial Prize, the British Psychological Society\u2019\
-  s book award, the Pufendorf Medal, and the International Mind and Brain Prize."
-id: '242'
-image: https://i.ytimg.com/vi/O3y1NWGTEDI/maxresdefault.jpg
-publishDate: 2019-10-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/242-Nicholas-Humphrey-The-Psychology-Of-Consciousness-And-Intelligence-e50566
-tags:
-- Psychology
-title: '#242 Nicholas Humphrey: The Psychology Of Consciousness And Intelligence'
-youtubeid: O3y1NWGTEDI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4248198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-16%2F21095098-44100-2-168c169efd8d7.m4a",
+	"draft": false,
+	"episodeid": "242",
+	"excerpt": "Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London School of Economics, Visiting Professor of Philosophy at the New College of the Humanities, and Senior Member at Darwin College, Cambridge. Dr. Humphrey is a theoretical psychologist, who is known for his work on the evolution of human intelligence and consciousness. His interests are wide ranging. He studied mountain gorillas with Dian Fossey in Rwanda, he was the first to demonstrate the existence of “blindsight” after brain damage in monkeys, he proposed the celebrated theory of the \"social function of intellect\", and he is the only scientist ever to edit the literary journal Granta. His books include Consciousness Regained, The Inner Eye, A History of the Mind, Leaps of Faith, The Mind Made Flesh, Seeing Red and, most recently, Soul Dust. He has been the recipient of several honors, including the Martin Luther King Memorial Prize, the British Psychological Society’s book award, the Pufendorf Medal, and the International Mind and Brain Prize.",
+	"image": "https://i.ytimg.com/vi/O3y1NWGTEDI/maxresdefault.jpg",
+	"publishDate": 2019-10-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/242-Nicholas-Humphrey-The-Psychology-Of-Consciousness-And-Intelligence-e50566",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#242 Nicholas Humphrey: The Psychology Of Consciousness And Intelligence",
+	"youtubeid": "O3y1NWGTEDI"
+}
 ---
-<div class="timelinks">
-
 Dr. Nicholas Humphrey is Emeritus Professor of Psychology at the London School of Economics, Visiting Professor of Philosophy at the New College of the Humanities, and Senior Member at Darwin College, Cambridge. Dr. Humphrey is a theoretical psychologist, who is known for his work on the evolution of human intelligence and consciousness. His interests are wide ranging. He studied mountain gorillas with Dian Fossey in Rwanda, he was the first to demonstrate the existence of “blindsight” after brain damage in monkeys, he proposed the celebrated theory of the "social function of intellect", and he is the only scientist ever to edit the literary journal Granta. His books include Consciousness Regained, The Inner Eye, A History of the Mind, Leaps of Faith, The Mind Made Flesh, Seeing Red and, most recently, Soul Dust. He has been the recipient of several honors, including the Martin Luther King Memorial Prize, the British Psychological Society’s book award, the Pufendorf Medal, and the International Mind and Brain Prize.
 
 In this episode, we talk about the evolution of consciousness and intelligence. We start with consciousness, and discuss the fact that it does not have a universal definition, and if that’s problematic; evolutionary approaches to it; the self; if we should take people’s reports of their own consciousness seriously; if any version of mind-brain dualism can still be relevant; if we can know for sure that other animals are conscious, and what we can learn from their behavior. We then also discuss the evolution of intelligence, and the importance of social life both for consciousness and intelligence. Finally, Dr. Humphrey gives us his account of the evolution of suicide, and its relationship with consciousness.
@@ -52,5 +41,3 @@ Website: http://bit.ly/2YIkxQO
 Books an Amazon: https://amzn.to/2N4QX0L  
 ResearchGate profile: http://bit.ly/2N3defB  
 The lure of death: Suicide and human evolution: http://bit.ly/2KxrXxK
-</div>
-

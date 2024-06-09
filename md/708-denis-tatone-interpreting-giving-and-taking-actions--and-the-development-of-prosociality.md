@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/57436778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-12%2F03cd1d2b-cca4-5853-bac3-d5a289515707.m4a
-draft: false
-excerpt: Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development Center
-  at Central European University. He is a cognitive scientist broadly interested in
-  the evolution and development of social cognition. His research focuses on how the
-  mind represents the social world in terms of its constituent interactions, relations,
-  and structures. He strives to develop a mechanistically tractable account of how
-  humans from the first years of life form and flexibly transition among these representations.
-id: '708'
-image: https://i.ytimg.com/vi/QPJjyIkSjPo/maxresdefault.jpg
-publishDate: 2022-11-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/708-Denis-Tatone-Interpreting-Giving-and-Taking-Actions--and-the-Development-of-Prosociality-e1nnb5a
-tags:
-- Psychology
-title: '#708 Denis Tatone: Interpreting Giving and Taking Actions, and the Development
-  of Prosociality'
-youtubeid: QPJjyIkSjPo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/57436778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-12%2F03cd1d2b-cca4-5853-bac3-d5a289515707.m4a",
+	"draft": false,
+	"episodeid": "708",
+	"excerpt": "Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development Center at Central European University. He is a cognitive scientist broadly interested in the evolution and development of social cognition. His research focuses on how the mind represents the social world in terms of its constituent interactions, relations, and structures. He strives to develop a mechanistically tractable account of how humans from the first years of life form and flexibly transition among these representations.",
+	"image": "https://i.ytimg.com/vi/QPJjyIkSjPo/maxresdefault.jpg",
+	"publishDate": 2022-11-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/708-Denis-Tatone-Interpreting-Giving-and-Taking-Actions--and-the-Development-of-Prosociality-e1nnb5a",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#708 Denis Tatone: Interpreting Giving and Taking Actions, and the Development of Prosociality",
+	"youtubeid": "QPJjyIkSjPo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 12th 2022.  
 Dr. Denis Tatone is a Postdoctoral Fellow in the Cognitive Development Center at Central European University. He is a cognitive scientist broadly interested in the evolution and development of social cognition. His research focuses on how the mind represents the social world in terms of its constituent interactions, relations, and structures. He strives to develop a mechanistically tractable account of how humans from the first years of life form and flexibly transition among these representations.
 
@@ -44,5 +39,3 @@ University page: https://bit.ly/3Mn3BnX
 Website: https://bit.ly/3AkyJAH  
 ResearchGate profile: https://bit.ly/3MpT631  
 Twitter handle: @Denis_Tatone
-</div>
-

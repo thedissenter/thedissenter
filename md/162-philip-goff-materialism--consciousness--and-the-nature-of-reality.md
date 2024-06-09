@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2465763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380437-44100-2-be3e748e69f5f.m4a
-draft: false
-excerpt: "Dr. Philip Goff is a philosopher and consciousness researcher at Durham\
-  \ University, UK. His main research focus is trying to explain how the brain produces\
-  \ consciousness. He thinks we need to radically rethink our understanding of matter\
-  \ in order to explain consciousness, in something like the way Einstein radically\
-  \ rethought the nature of space and time. Dr. Goff also has a sideline in political\
-  \ philosophy, focusing on issues pertaining to taxation, globalization and social\
-  \ justice. He\u2019s also the author of the book Consciousness and Fundamental Reality."
-id: '162'
-image: https://i.ytimg.com/vi/CCvG_lX70L4/maxresdefault.jpg
-publishDate: 2019-04-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/162-Philip-Goff-Materialism--Consciousness--And-The-Nature-of-Reality-e39oh3
-tags:
-- Philosophy
-title: '#162 Philip Goff: Materialism, Consciousness, And The Nature of Reality'
-youtubeid: CCvG_lX70L4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2465763/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-23%2F10380437-44100-2-be3e748e69f5f.m4a",
+	"draft": false,
+	"episodeid": "162",
+	"excerpt": "Dr. Philip Goff is a philosopher and consciousness researcher at Durham University, UK. His main research focus is trying to explain how the brain produces consciousness. He thinks we need to radically rethink our understanding of matter in order to explain consciousness, in something like the way Einstein radically rethought the nature of space and time. Dr. Goff also has a sideline in political philosophy, focusing on issues pertaining to taxation, globalization and social justice. He’s also the author of the book Consciousness and Fundamental Reality.",
+	"image": "https://i.ytimg.com/vi/CCvG_lX70L4/maxresdefault.jpg",
+	"publishDate": 2019-04-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/162-Philip-Goff-Materialism--Consciousness--And-The-Nature-of-Reality-e39oh3",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#162 Philip Goff: Materialism, Consciousness, And The Nature of Reality",
+	"youtubeid": "CCvG_lX70L4"
+}
 ---
-<div class="timelinks">
-
 Dr. Philip Goff is a philosopher and consciousness researcher at Durham University, UK. His main research focus is trying to explain how the brain produces consciousness. He thinks we need to radically rethink our understanding of matter in order to explain consciousness, in something like the way Einstein radically rethought the nature of space and time. Dr. Goff also has a sideline in political philosophy, focusing on issues pertaining to taxation, globalization and social justice. He’s also the author of the book Consciousness and Fundamental Reality.
 
 In this episode, we talk about consciousness, materialism and the nature of reality. We start off by discussing the philosophy of materialism and its limitations when it comes to account for phenomena like consciousness. We also talk about illusionism as a theory of consciousness, and the difficulties in trying to understand consciousness from an objectivist perspective, and the inherent limitations that our theory of mind has. Then, Dr. Goff explains his approach to consciousness, and what he thinks is the best way to know its nature, based on Russellian monism and panpsychism. 
@@ -50,5 +45,3 @@ Some relevant links:
 Russellian monism: https://tinyurl.com/y6qsb989 / https://tinyurl.com/yyuft4pp  
 Materialism (philosophy): https://tinyurl.com/mqsundk  
 Interview w/ Dr. Keith Frankish: https://youtu.be/uXeqm2d1djo
-</div>
-

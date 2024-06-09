@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/60811501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-17%2F524a892b-150c-e6d4-d38c-1d69313d3625.m4a
-draft: false
-excerpt: 'Dr. Zoe Liberman is Associate Professor of Psychology at the University
-  of California Santa Barbara. Dr. Liberman investigates the origins and development
-  of human social cognition. She is particularly interested in how infants begin to
-  understand our complicated social world, as well as how this understanding changes
-  across development and is shaped by experience. Her research focuses on early social
-  categorization. Dr. Liberman is also interested in the malleability of early social
-  categorization, including the effects of growing up in a multilingual (or otherwise
-  diverse) environment. '
-id: '742'
-image: https://i.ytimg.com/vi/-TqByn9INH8/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/742-zoe-liberman-infant-social-cognition-social-categorization/id1451347236?i=1000599083203&uo=4
-publishDate: 2023-02-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/742-Zoe-Liberman-Infant-Social-Cognition--Social-Categorization--Gossip--and-Ritual-e1quapd
-tags:
-- Psychology
-title: '#742 Zoe Liberman: Infant Social Cognition, Social Categorization, Gossip,
-  and Ritual'
-youtubeid: -TqByn9INH8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/60811501/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-17%2F524a892b-150c-e6d4-d38c-1d69313d3625.m4a",
+	"draft": false,
+	"episodeid": "742",
+	"excerpt": "Dr. Zoe Liberman is Associate Professor of Psychology at the University of California Santa Barbara. Dr. Liberman investigates the origins and development of human social cognition. She is particularly interested in how infants begin to understand our complicated social world, as well as how this understanding changes across development and is shaped by experience. Her research focuses on early social categorization. Dr. Liberman is also interested in the malleability of early social categorization, including the effects of growing up in a multilingual (or otherwise diverse) environment. ",
+	"image": "https://i.ytimg.com/vi/-TqByn9INH8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/742-zoe-liberman-infant-social-cognition-social-categorization/id1451347236?i=1000599083203&uo=4",
+	"publishDate": 2023-02-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/742-Zoe-Liberman-Infant-Social-Cognition--Social-Categorization--Gossip--and-Ritual-e1quapd",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#742 Zoe Liberman: Infant Social Cognition, Social Categorization, Gossip, and Ritual",
+	"youtubeid": "-TqByn9INH8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 17th 2022.  
 Dr. Zoe Liberman is Associate Professor of Psychology at the University of California Santa Barbara. Dr. Liberman investigates the origins and development of human social cognition. She is particularly interested in how infants begin to understand our complicated social world, as well as how this understanding changes across development and is shaped by experience. Her research focuses on early social categorization. Dr. Liberman is also interested in the malleability of early social categorization, including the effects of growing up in a multilingual (or otherwise diverse) environment. 
 
@@ -45,5 +38,3 @@ Faculty page: https://bit.ly/3O5rFvA
 Liberman Child Studies Lab: https://bit.ly/3BFyz6n  
 ResearchGate profile: https://bit.ly/3Rt7vOV  
 Twitter handle: @zoeliberman
-</div>
-

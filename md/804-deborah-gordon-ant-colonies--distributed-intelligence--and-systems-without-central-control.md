@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/66256835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-9%2Ff2e882ad-e930-b829-f2ae-50058a152f07.m4a
-draft: false
-excerpt: Dr. Deborah Gordon is a Professor in the Department of Biology at Stanford
-  University. She studies how ant colonies work without central control using networks
-  of simple interactions, and how these networks evolve in relation to changing environments.
-  Her projects include a long-term study of a population of harvester ant colonies
-  in Arizona, studies of the invasive Argentine ant in northern California, arboreal
-  ant trail networks and ant-plant mutualisms in Central America.
-id: '804'
-image: https://i.ytimg.com/vi/q335XnMx09s/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/804-deborah-gordon-ant-colonies-distributed-intelligence/id1451347236?i=1000619602402&uo=4
-publishDate: 2023-07-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/804-Deborah-Gordon-Ant-Colonies--Distributed-Intelligence--and-Systems-Without-Central-Control-e204gg3
-tags:
-- Biology
-title: '#804 Deborah Gordon: Ant Colonies, Distributed Intelligence, and Systems Without
-  Central Control'
-youtubeid: q335XnMx09s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/66256835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-9%2Ff2e882ad-e930-b829-f2ae-50058a152f07.m4a",
+	"draft": false,
+	"episodeid": "804",
+	"excerpt": "Dr. Deborah Gordon is a Professor in the Department of Biology at Stanford University. She studies how ant colonies work without central control using networks of simple interactions, and how these networks evolve in relation to changing environments. Her projects include a long-term study of a population of harvester ant colonies in Arizona, studies of the invasive Argentine ant in northern California, arboreal ant trail networks and ant-plant mutualisms in Central America.",
+	"image": "https://i.ytimg.com/vi/q335XnMx09s/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/804-deborah-gordon-ant-colonies-distributed-intelligence/id1451347236?i=1000619602402&uo=4",
+	"publishDate": 2023-07-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/804-Deborah-Gordon-Ant-Colonies--Distributed-Intelligence--and-Systems-Without-Central-Control-e204gg3",
+	"tags": [
+		"Biology"
+	],
+	"title": "#804 Deborah Gordon: Ant Colonies, Distributed Intelligence, and Systems Without Central Control",
+	"youtubeid": "q335XnMx09s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 9th 2023.  
 Dr. Deborah Gordon is a Professor in the Department of Biology at Stanford University. She studies how ant colonies work without central control using networks of simple interactions, and how these networks evolve in relation to changing environments. Her projects include a long-term study of a population of harvester ant colonies in Arizona, studies of the invasive Argentine ant in northern California, arboreal ant trail networks and ant-plant mutualisms in Central America.
 
@@ -48,5 +43,3 @@ Faculty page: https://bit.ly/3I9QbML
 The Gordon Lab: https://bit.ly/3WO4xq2  
 ResearchGate profile: https://bit.ly/3sMaarH  
 Amazon page: https://bit.ly/3vrFBsN
-</div>
-

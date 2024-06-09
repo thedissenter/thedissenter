@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10095328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46166502-44100-2-97af92474d3b4.m4a
-draft: false
-excerpt: "Max Beilby is a Management and Organizational Psychologist and author of\
-  \ the Darwinian Business blog. He\u2019s currently working as a practitioner in\
-  \ the banking industry."
-id: '320'
-image: https://i.ytimg.com/vi/yXYWlN1pU44/maxresdefault.jpg
-publishDate: 2020-04-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/320-Max-Beilby-Evolutionary-Organizational-Psychology-eaij90
-tags:
-- Psychology
-title: '#320 Max Beilby: Evolutionary Organizational Psychology'
-youtubeid: yXYWlN1pU44
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10095328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-31%2F46166502-44100-2-97af92474d3b4.m4a",
+	"draft": false,
+	"episodeid": "320",
+	"excerpt": "Max Beilby is a Management and Organizational Psychologist and author of the Darwinian Business blog. He’s currently working as a practitioner in the banking industry.",
+	"image": "https://i.ytimg.com/vi/yXYWlN1pU44/maxresdefault.jpg",
+	"publishDate": 2020-04-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/320-Max-Beilby-Evolutionary-Organizational-Psychology-eaij90",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#320 Max Beilby: Evolutionary Organizational Psychology",
+	"youtubeid": "yXYWlN1pU44"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 29th, 2020.  
 Max Beilby is a Management and Organizational Psychologist and author of the Darwinian Business blog. He’s currently working as a practitioner in the banking industry.
 
@@ -42,5 +41,3 @@ This View of Business: http://bit.ly/2GwYOA3
 Applied Evolutionary Psychology Society: http://bit.ly/2YPdEwm  
 Evolutionary Psychology in the Business Sciences: https://amzn.to/3aRiH2z  
 The Biological Foundations of Organizational Behavior: https://amzn.to/2RCHTT1
-</div>
-

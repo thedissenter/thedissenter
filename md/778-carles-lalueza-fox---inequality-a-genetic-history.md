@@ -1,23 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63770559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2F2cd16b59-b10d-fe2c-5f28-7fceb7653b80.m4a
-draft: false
-excerpt: 'Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Barcelona.
-  He participated in the Neanderthal Genome Project and led the first retrieval of
-  the genome of an 8,000-year-old European hunter-gatherer. He is the author of Inequality:
-  A Genetic History.'
-id: '778'
-image: https://i.ytimg.com/vi/aYST6VOGgSU/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/778-carles-lalueza-fox-inequality-a-genetic-history/id1451347236?i=1000611920587&uo=4
-publishDate: 2023-05-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/778-Carles-Lalueza-Fox---Inequality-A-Genetic-History-e1tokfv
-tags:
-- Biology
-- Anthropology
-title: '#778 Carles Lalueza-Fox - Inequality: A Genetic History'
-youtubeid: aYST6VOGgSU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63770559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-20%2F2cd16b59-b10d-fe2c-5f28-7fceb7653b80.m4a",
+	"draft": false,
+	"episodeid": "778",
+	"excerpt": "Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Barcelona. He participated in the Neanderthal Genome Project and led the first retrieval of the genome of an 8,000-year-old European hunter-gatherer. He is the author of Inequality: A Genetic History.",
+	"image": "https://i.ytimg.com/vi/aYST6VOGgSU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/778-carles-lalueza-fox-inequality-a-genetic-history/id1451347236?i=1000611920587&uo=4",
+	"publishDate": 2023-05-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/778-Carles-Lalueza-Fox---Inequality-A-Genetic-History-e1tokfv",
+	"tags": [
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#778 Carles Lalueza-Fox - Inequality: A Genetic History",
+	"youtubeid": "aYST6VOGgSU"
+}
 ---
-<div class="timelinks">
-
 Dr. Carles Lalueza-Fox is Director of the Natural Science Museum in Barcelona. He participated in the Neanderthal Genome Project and led the first retrieval of the genome of an 8,000-year-old European hunter-gatherer. He is the author of Inequality: A Genetic History.
 
 In this episode, we focus on Inequality. We start by talking about the premise of the book, and the current state of global inequality, with its social and political consequences. We get into the scientific tools we can use to study inequality in the past. We discuss sexual selection and assortative mating; if inequality is the result of individual traits or social structures; unequal patterns of reproduction; and the transition from foraging to agriculture. We discuss if the concept of “race” makes sense in genetics. We talk about archaeology; patrilocality and high female mobility; a gender bias in reproduction; and mating systems (polygyny and monogamy). We go through two examples of historical events that shaped population genetics and inequality, including the European colonization of the Americas and the slave trade across the Atlantic, and the Mongol empire. We discuss the impact of gene-editing techniques on science and society. Finally, we talk about the future of inequality, and discuss if inequality is an inevitable feature of human society.
@@ -49,5 +47,3 @@ Follow Dr. Lalueza-Fox’s work:
 Natural Science Museum in Barcelona: http://bit.ly/3wiKswW  
 ResearchGate profile: http://bit.ly/3GcU96h  
 Inequality: http://bit.ly/3ObeU47
-</div>
-

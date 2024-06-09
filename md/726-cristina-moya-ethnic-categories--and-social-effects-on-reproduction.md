@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/57919536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-21%2F86c4b8bb-80e9-6243-bc6b-b6b6ae0b8d96.m4a
-draft: false
-excerpt: 'Dr. Cristina Moya is Assistant Professor of Anthropology at the University
-  of California, Davis. She is an evolutionary anthropologist interested in how humans
-  respond adaptively to culturally structured social worlds. Two main foci of her
-  research are: intergroup interactions and social cognition; and cross-cultural variation
-  in social effects on reproduction.'
-id: '726'
-image: https://i.ytimg.com/vi/2M7tiqzMCJ0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/726-cristina-moya-ethnic-categories-and-social/id1451347236?i=1000592753333&uo=4
-publishDate: 2023-01-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/726-Cristina-Moya-Ethnic-Categories--and-Social-Effects-on-Reproduction-e1o62jg
-tags:
-- Anthropology
-title: '#726 Cristina Moya: Ethnic Categories, and Social Effects on Reproduction'
-youtubeid: 2M7tiqzMCJ0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/57919536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-21%2F86c4b8bb-80e9-6243-bc6b-b6b6ae0b8d96.m4a",
+	"draft": false,
+	"episodeid": "726",
+	"excerpt": "Dr. Cristina Moya is Assistant Professor of Anthropology at the University of California, Davis. She is an evolutionary anthropologist interested in how humans respond adaptively to culturally structured social worlds. Two main foci of her research are: intergroup interactions and social cognition; and cross-cultural variation in social effects on reproduction.",
+	"image": "https://i.ytimg.com/vi/2M7tiqzMCJ0/maxresdefault.jpg",
+	"publishDate": 2023-01-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/726-Cristina-Moya-Ethnic-Categories--and-Social-Effects-on-Reproduction-e1o62jg",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#726 Cristina Moya: Ethnic Categories, and Social Effects on Reproduction",
+	"youtubeid": "2M7tiqzMCJ0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 21st 2022.  
 Dr. Cristina Moya is Assistant Professor of Anthropology at the University of California, Davis. She is an evolutionary anthropologist interested in how humans respond adaptively to culturally structured social worlds. Two main foci of her research are: intergroup interactions and social cognition; and cross-cultural variation in social effects on reproduction.
 
@@ -46,5 +42,3 @@ Faculty page: https://bit.ly/38zBPWn
 Website: https://bit.ly/3dyGiLG  
 ResearchGate profile: https://bit.ly/3wAsV35  
 Twitter handle: @HyperadaptHyrax
-</div>
-

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/21538427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2F979b3725-4cdd-4815-fd26-9bfa0c6f3a86.m4a
-draft: false
-excerpt: 'Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek
-  History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic
-  Studies. His research interests center on the intellectual and religious history
-  of the Roman Empire and the early Byzantine Empire. He is the author of several
-  books on ancient history, the most recent one being Mortal Republic: How Rome Fell
-  Into Tyranny. He also has a new book coming out in 2021, The Eternal Decline and
-  Fall of Rome: The History of a Dangerous Idea.'
-id: '410'
-image: https://i.ytimg.com/vi/SemLGgZROw4/maxresdefault.jpg
-publishDate: 2020-12-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/410-Edward-Watts---Mortal-Republic-How-Rome-Fell-into-Tyranny-elfq5r
-tags:
-- History
-title: '#410 Edward Watts - Mortal Republic: How Rome Fell into Tyranny'
-youtubeid: SemLGgZROw4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/21538427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2F979b3725-4cdd-4815-fd26-9bfa0c6f3a86.m4a",
+	"draft": false,
+	"episodeid": "410",
+	"excerpt": "Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic Studies. His research interests center on the intellectual and religious history of the Roman Empire and the early Byzantine Empire. He is the author of several books on ancient history, the most recent one being Mortal Republic: How Rome Fell Into Tyranny. He also has a new book coming out in 2021, The Eternal Decline and Fall of Rome: The History of a Dangerous Idea.",
+	"image": "https://i.ytimg.com/vi/SemLGgZROw4/maxresdefault.jpg",
+	"publishDate": 2020-12-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/410-Edward-Watts---Mortal-Republic-How-Rome-Fell-into-Tyranny-elfq5r",
+	"tags": [
+		"History"
+	],
+	"title": "#410 Edward Watts - Mortal Republic: How Rome Fell into Tyranny",
+	"youtubeid": "SemLGgZROw4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 12th 2020.  
 Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek History at UC San Diego, where he was formerly Co-Director of the Center for Hellenic Studies. His research interests center on the intellectual and religious history of the Roman Empire and the early Byzantine Empire. He is the author of several books on ancient history, the most recent one being Mortal Republic: How Rome Fell Into Tyranny. He also has a new book coming out in 2021, The Eternal Decline and Fall of Rome: The History of a Dangerous Idea.
 
@@ -41,5 +36,3 @@ Follow Dr. Watts’ work:
 Faculty page: https://bit.ly/2SPNmW5  
 Academia.edu page: https://bit.ly/3iWFxsd  
 Mortal Republic: https://amzn.to/3lC5rDw
-</div>
-

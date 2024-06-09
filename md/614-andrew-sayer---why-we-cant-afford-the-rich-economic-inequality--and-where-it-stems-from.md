@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/46114429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F1d2ecdf4-7c91-9ca5-d1c5-46495ad49e29.m4a
-draft: false
-excerpt: Dr. Andrew Sayer is Emeritus Professor of Social Theory and Political Economy
-  at Lancaster University. He is known for significant contributions to methodology
-  and theory in the social sciences. He is the author of multiple books, including
-  Why We Can't Afford the Rich.
-id: '614'
-image: https://i.ytimg.com/vi/tkFLXRJTh30/maxresdefault.jpg
-publishDate: 2022-04-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/614-Andrew-Sayer---Why-We-Cant-Afford-the-Rich-Economic-Inequality--And-Where-It-Stems-From-e1ctq5t
-tags:
-- Politics
-- Economy, Progress
-title: '#614 Andrew Sayer - Why We Can''t Afford the Rich; Economic Inequality, And
-  Where It Stems From'
-youtubeid: tkFLXRJTh30
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/46114429/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F1d2ecdf4-7c91-9ca5-d1c5-46495ad49e29.m4a",
+	"draft": false,
+	"episodeid": "614",
+	"excerpt": "Dr. Andrew Sayer is Emeritus Professor of Social Theory and Political Economy at Lancaster University. He is known for significant contributions to methodology and theory in the social sciences. He is the author of multiple books, including Why We Can't Afford the Rich.",
+	"image": "https://i.ytimg.com/vi/tkFLXRJTh30/maxresdefault.jpg",
+	"publishDate": 2022-04-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/614-Andrew-Sayer---Why-We-Cant-Afford-the-Rich-Economic-Inequality--And-Where-It-Stems-From-e1ctq5t",
+	"tags": [
+		"Politics",
+		"Economy, Progress"
+	],
+	"title": "#614 Andrew Sayer - Why We Can't Afford the Rich; Economic Inequality, And Where It Stems From",
+	"youtubeid": "tkFLXRJTh30"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 11th 2022.  
 Dr. Andrew Sayer is Emeritus Professor of Social Theory and Political Economy at Lancaster University. He is known for significant contributions to methodology and theory in the social sciences. He is the author of multiple books, including Why We Can't Afford the Rich.
 
@@ -47,5 +44,3 @@ Follow Dr. Sayer’s work:
 Faculty page: https://bit.ly/3jp6oAR  
 Works on ResearchGate: https://bit.ly/3eEdHS1  
 Why We Can’t Afford the Rich: https://amzn.to/3kAjxGq
-</div>
-

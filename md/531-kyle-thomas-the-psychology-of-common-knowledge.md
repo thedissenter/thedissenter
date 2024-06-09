@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/36155159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-25%2F35e35493-67d6-241d-6e80-60b42f6a83af.m4a
-draft: false
-excerpt: "Dr. Kyle Thomas recently received his Ph.D. in experimental psychology from\
-  \ Harvard University, where he developed his research program on the psychology\
-  \ of common knowledge under his advisor, Steven Pinker. He is currently the Chief\
-  \ Scientist at MotiveMetrics, where they turn cutting-edge psychological science\
-  \ into software tools that can accurately reveal true motivations from publicly\
-  \ available data. In short, they help marketers understand why people buy\u2014\
-  or don\u2019t\u2014at the click of a button. Software hasn\u2019t eaten marketing\
-  \ research yet, but they\u2019re working very hard to change that."
-id: '531'
-image: https://i.ytimg.com/vi/4m-Kl_vJKBY/maxresdefault.jpg
-publishDate: 2021-10-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/531-Kyle-Thomas-The-Psychology-of-Common-Knowledge-e13dsan
-tags:
-- Psychology
-title: '#531 Kyle Thomas: The Psychology of Common Knowledge'
-youtubeid: 4m-Kl_vJKBY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/36155159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-25%2F35e35493-67d6-241d-6e80-60b42f6a83af.m4a",
+	"draft": false,
+	"episodeid": "531",
+	"excerpt": "Dr. Kyle Thomas recently received his Ph.D. in experimental psychology from Harvard University, where he developed his research program on the psychology of common knowledge under his advisor, Steven Pinker. He is currently the Chief Scientist at MotiveMetrics, where they turn cutting-edge psychological science into software tools that can accurately reveal true motivations from publicly available data. In short, they help marketers understand why people buy—or don’t—at the click of a button. Software hasn’t eaten marketing research yet, but they’re working very hard to change that.",
+	"image": "https://i.ytimg.com/vi/4m-Kl_vJKBY/maxresdefault.jpg",
+	"publishDate": 2021-10-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/531-Kyle-Thomas-The-Psychology-of-Common-Knowledge-e13dsan",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#531 Kyle Thomas: The Psychology of Common Knowledge",
+	"youtubeid": "4m-Kl_vJKBY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 23rd 2021.  
 Dr. Kyle Thomas recently received his Ph.D. in experimental psychology from Harvard University, where he developed his research program on the psychology of common knowledge under his advisor, Steven Pinker. He is currently the Chief Scientist at MotiveMetrics, where they turn cutting-edge psychological science into software tools that can accurately reveal true motivations from publicly available data. In short, they help marketers understand why people buy—or don’t—at the click of a button. Software hasn’t eaten marketing research yet, but they’re working very hard to change that.
 
@@ -43,5 +37,3 @@ Website: https://bit.ly/3an4rAV
 MotiveMetrics: https://bit.ly/2SJ45Ov  
 ResearchGate profile: https://bit.ly/2SHaObC  
 Twitter handle: @surfkt
-</div>
-

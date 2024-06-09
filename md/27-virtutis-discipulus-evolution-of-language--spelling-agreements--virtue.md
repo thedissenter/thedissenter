@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600226-48000-2-e9abc02433e76.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '27'
-image: https://i.ytimg.com/vi/Ix9unxtU7FY/maxresdefault.jpg
-publishDate: 2018-05-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/27-Virtutis-Discipulus-Evolution-of-Language--Spelling-Agreements--Virtue-e2r981
-title: '#27 Virtutis Discipulus: Evolution of Language, Spelling Agreements, Virtue'
-youtubeid: Ix9unxtU7FY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600226-48000-2-e9abc02433e76.mp3",
+	"draft": false,
+	"episodeid": "27",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/Ix9unxtU7FY/maxresdefault.jpg",
+	"publishDate": 2018-05-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/27-Virtutis-Discipulus-Evolution-of-Language--Spelling-Agreements--Virtue-e2r981",
+	"title": "#27 Virtutis Discipulus: Evolution of Language, Spelling Agreements, Virtue",
+	"youtubeid": "Ix9unxtU7FY"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -27,5 +27,4 @@ O meu convidado, hoje, é o Virtutis Discipulus, o anfitrião do canal do Youtub
 Aqui, falamos sobre as suas “lecturas”, e o trabalho de pesquisa que faz para as preparar; a evolução da língua; o mais recente Acordo Ortográfico implementado em Portugal e noutros países de Língua Portuguesa, e os seus críticos; a relação entre a forma como falamos e a forma como escrevemos; e tópicos relacionados.
 
 Virtutis Discipulus Youtube channel: https://www.youtube.com/channel/UCJMeIROyniRsLzIFDQoxB6w  
-Facebook page: https://www.facebook.com/VirtutisDiscipulus/</div>
-
+Facebook page: https://www.facebook.com/VirtutisDiscipulus/

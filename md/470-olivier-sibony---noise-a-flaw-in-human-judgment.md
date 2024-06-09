@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/32040387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fadc36c44-d447-0b01-bc73-b4fa49a39a35.m4a
-draft: false
-excerpt: 'Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer,
-  educator and consultant specializing in strategy, strategic decision making and
-  the organization of decision processes. His research interests center on the effect
-  of heuristics and biases in strategic decision making and procedures to improve
-  the quality of decisions. He is the author of Cracked It!, You''re About to Make
-  a Terrible Mistake, and, more recently, Noise: A Flaw in Human Judgment.'
-id: '470'
-image: https://i.ytimg.com/vi/FdP0_QwI3JA/maxresdefault.jpg
-publishDate: 2021-05-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/470-Olivier-Sibony---Noise-A-Flaw-in-Human-Judgment-evga03
-tags:
-- Cognitive Science
-- Psychology
-title: '#470 Olivier Sibony - Noise: A Flaw in Human Judgment'
-youtubeid: FdP0_QwI3JA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/32040387/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-23%2Fadc36c44-d447-0b01-bc73-b4fa49a39a35.m4a",
+	"draft": false,
+	"episodeid": "470",
+	"excerpt": "Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer, educator and consultant specializing in strategy, strategic decision making and the organization of decision processes. His research interests center on the effect of heuristics and biases in strategic decision making and procedures to improve the quality of decisions. He is the author of Cracked It!, You're About to Make a Terrible Mistake, and, more recently, Noise: A Flaw in Human Judgment.",
+	"image": "https://i.ytimg.com/vi/FdP0_QwI3JA/maxresdefault.jpg",
+	"publishDate": 2021-05-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/470-Olivier-Sibony---Noise-A-Flaw-in-Human-Judgment-evga03",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#470 Olivier Sibony - Noise: A Flaw in Human Judgment",
+	"youtubeid": "FdP0_QwI3JA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 23rd 2021.  
 Dr. Olivier Sibony is Associate Professor at HEC Paris. He is a writer, educator and consultant specializing in strategy, strategic decision making and the organization of decision processes. His research interests center on the effect of heuristics and biases in strategic decision making and procedures to improve the quality of decisions. He is the author of Cracked It!, You're About to Make a Terrible Mistake, and, more recently, Noise: A Flaw in Human Judgment.
 
@@ -43,5 +39,3 @@ Website: https://bit.ly/3auhjEj
 ResearchGate profile: https://bit.ly/3tPhke0  
 Noise: https://amzn.to/3srvEZ5  
 Twitter handle: @SibOliv
-</div>
-

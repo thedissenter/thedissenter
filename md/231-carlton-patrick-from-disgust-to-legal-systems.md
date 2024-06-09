@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4082095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20118920-44100-2-85e746dde3f6d.m4a
-draft: false
-excerpt: 'Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College
-  of Community, Innovation and Education at the University of Central Florida. Dr.
-  Patrick studies the psychology of legal decision-making, often from an evolutionary
-  perspective. His research combines doctrinal legal analysis with the methodologies
-  and perspectives of the behavioral sciences to examine the roots of human behavior
-  in legally-relevant contexts. He is the coauthor, together with Debra Lieberman,
-  of the book Objection: Disgust, Morality, and the Law.'
-id: '231'
-image: https://i.ytimg.com/vi/9APpLDc5tsw/maxresdefault.jpg
-publishDate: 2019-09-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/231-Carlton-Patrick-From-Disgust-To-Legal-Systems-e4r2vf
-tags:
-- Psychology
-title: '#231 Carlton Patrick: From Disgust To Legal Systems'
-youtubeid: 9APpLDc5tsw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4082095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-3%2F20118920-44100-2-85e746dde3f6d.m4a",
+	"draft": false,
+	"episodeid": "231",
+	"excerpt": "Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College of Community, Innovation and Education at the University of Central Florida. Dr. Patrick studies the psychology of legal decision-making, often from an evolutionary perspective. His research combines doctrinal legal analysis with the methodologies and perspectives of the behavioral sciences to examine the roots of human behavior in legally-relevant contexts. He is the coauthor, together with Debra Lieberman, of the book Objection: Disgust, Morality, and the Law.",
+	"image": "https://i.ytimg.com/vi/9APpLDc5tsw/maxresdefault.jpg",
+	"publishDate": 2019-09-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/231-Carlton-Patrick-From-Disgust-To-Legal-Systems-e4r2vf",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#231 Carlton Patrick: From Disgust To Legal Systems",
+	"youtubeid": "9APpLDc5tsw"
+}
 ---
-<div class="timelinks">
-
 Dr. Carlton Patrick is Assistant Professor of Legal Studies at the College of Community, Innovation and Education at the University of Central Florida. Dr. Patrick studies the psychology of legal decision-making, often from an evolutionary perspective. His research combines doctrinal legal analysis with the methodologies and perspectives of the behavioral sciences to examine the roots of human behavior in legally-relevant contexts. He is the coauthor, together with Debra Lieberman, of the book Objection: Disgust, Morality, and the Law.
 
 This is the second episode where I talk about the book Objection: Disgust Morality, and the Law. The first one was with the other coauthor, Dr. Debra Lieberman (https://www.youtube.com/watch?v=F7KCXBPvRlg).   
@@ -44,5 +39,3 @@ SSRN profile: http://bit.ly/2YtrekJ
 Objection: Disgust, Morality, and the Law: https://amzn.to/2GDMKgN
 
 Interview w/ Dr. Debra Lieberman, “Disgust, Morality, and the Law”: http://bit.ly/2KftkzE
-</div>
-

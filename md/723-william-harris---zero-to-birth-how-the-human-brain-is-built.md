@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/58366414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2Fd6857736-4e88-7253-77d4-cbeceb6fe76f.m4a
-draft: false
-excerpt: 'Dr. William Harris is Professor Emeritus of Anatomy at Cambridge University
-  and fellow of Clare College, Cambridge. He was head of the Department of Physiology,
-  Development and Neuroscience since its formation in 2006 until his retirement in
-  2018. He was elected a Fellow of the Royal Society in 2007, a Fellow of the Academy
-  of Medical Sciences in 2007, and a member of the European Molecular Biology Organisation
-  in 2012. In 2017, he was awarded the Waddington Medal by the British Society for
-  Developmental Biology for his work on the development of the visual system. He is
-  the author of Zero to Birth: How the Human Brain Is Built.'
-id: '723'
-image: https://i.ytimg.com/vi/swFWxI_OFrY/maxresdefault.jpg
-publishDate: 2022-12-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/723-William-Harris---Zero-to-Birth-How-the-Human-Brain-Is-Built-e1ojn0e
-tags:
-- Neuroscience
-title: '#723 William Harris - Zero to Birth: How the Human Brain Is Built'
-youtubeid: swFWxI_OFrY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/58366414/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2Fd6857736-4e88-7253-77d4-cbeceb6fe76f.m4a",
+	"draft": false,
+	"episodeid": "723",
+	"excerpt": "Dr. William Harris is Professor Emeritus of Anatomy at Cambridge University and fellow of Clare College, Cambridge. He was head of the Department of Physiology, Development and Neuroscience since its formation in 2006 until his retirement in 2018. He was elected a Fellow of the Royal Society in 2007, a Fellow of the Academy of Medical Sciences in 2007, and a member of the European Molecular Biology Organisation in 2012. In 2017, he was awarded the Waddington Medal by the British Society for Developmental Biology for his work on the development of the visual system. He is the author of Zero to Birth: How the Human Brain Is Built.",
+	"image": "https://i.ytimg.com/vi/swFWxI_OFrY/maxresdefault.jpg",
+	"publishDate": 2022-12-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/723-William-Harris---Zero-to-Birth-How-the-Human-Brain-Is-Built-e1ojn0e",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#723 William Harris - Zero to Birth: How the Human Brain Is Built",
+	"youtubeid": "swFWxI_OFrY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 30th 2022.  
 Dr. William Harris is Professor Emeritus of Anatomy at Cambridge University and fellow of Clare College, Cambridge. He was head of the Department of Physiology, Development and Neuroscience since its formation in 2006 until his retirement in 2018. He was elected a Fellow of the Royal Society in 2007, a Fellow of the Academy of Medical Sciences in 2007, and a member of the European Molecular Biology Organisation in 2012. In 2017, he was awarded the Waddington Medal by the British Society for Developmental Biology for his work on the development of the visual system. He is the author of Zero to Birth: How the Human Brain Is Built.
 
@@ -50,5 +44,3 @@ Follow Dr. Harris’ work:
 Faculty page: https://bit.ly/3Lg3Yza  
 ResearchGate profile: https://bit.ly/3weL4E1  
 Zero to Birth: https://amzn.to/3LqPWe6
-</div>
-

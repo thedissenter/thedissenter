@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/26252975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fccaa77d3-16a8-075d-0195-c8be0ba6531c.m4a
-draft: false
-excerpt: 'Dr. Michael Strevens is Professor of Philosophy at New York University.
-  He works on the philosophy of science, where his interests include explanation,
-  complex systems, probability, confirmation, the social structure of science, and
-  causation; the psychology of concepts; and the philosophical applications of cognitive
-  science. He is the author of The Knowledge Machine: How Irrationality Created Modern
-  Science.'
-id: '457'
-image: https://i.ytimg.com/vi/xkvpYRDi2OY/maxresdefault.jpg
-publishDate: 2021-04-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/457-Michael-Strevens---The-Knowledge-Machine-How-Irrationality-Created-Modern-Science-epvm7f
-tags:
-- Philosophy
-title: '#457 Michael Strevens - The Knowledge Machine: How Irrationality Created Modern
-  Science'
-youtubeid: xkvpYRDi2OY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/26252975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2Fccaa77d3-16a8-075d-0195-c8be0ba6531c.m4a",
+	"draft": false,
+	"episodeid": "457",
+	"excerpt": "Dr. Michael Strevens is Professor of Philosophy at New York University. He works on the philosophy of science, where his interests include explanation, complex systems, probability, confirmation, the social structure of science, and causation; the psychology of concepts; and the philosophical applications of cognitive science. He is the author of The Knowledge Machine: How Irrationality Created Modern Science.",
+	"image": "https://i.ytimg.com/vi/xkvpYRDi2OY/maxresdefault.jpg",
+	"publishDate": 2021-04-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/457-Michael-Strevens---The-Knowledge-Machine-How-Irrationality-Created-Modern-Science-epvm7f",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#457 Michael Strevens - The Knowledge Machine: How Irrationality Created Modern Science",
+	"youtubeid": "xkvpYRDi2OY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 1st 2021.  
 Dr. Michael Strevens is Professor of Philosophy at New York University. He works on the philosophy of science, where his interests include explanation, complex systems, probability, confirmation, the social structure of science, and causation; the psychology of concepts; and the philosophical applications of cognitive science. He is the author of The Knowledge Machine: How Irrationality Created Modern Science.
 
@@ -47,5 +42,3 @@ Website: http://bit.ly/2YzWVvs
 PhilPeople profile: http://bit.ly/36v3vYd  
 Amazon page: https://amzn.to/3j5s5nA  
 The Knowledge Machine: http://amzn.to/2WtRhK9
-</div>
-

@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24162690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F7c4b17d1-79c0-8bd2-c3ea-55629fbdd904.m4a
-draft: false
-excerpt: 'Dr. Nathan H. Lents is Professor of Biology and director of the honors program
-  and the campus Macaulay Honors College program at John Jay College. Dr. Lents is
-  noted for his work in cell biology, genetics, and forensic science, as well as his
-  popular science writing and blogging on the evolution of human biology and behavior.
-  He is the author of books like Not So Different: Finding Human Nature in Animals,
-  and Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes.'
-id: '442'
-image: https://i.ytimg.com/vi/MMr202BtrLE/maxresdefault.jpg
-publishDate: 2021-03-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/442-Nathan-Lents---Human-Errors-A-Panorama-of-Our-Glitches--from-Pointless-Bones-to-Broken-Genes-envsu2
-tags:
-- Biology
-- Psychology
-title: '#442 Nathan Lents - Human Errors: A Panorama of Our Glitches, from Pointless
-  Bones to Broken Genes'
-youtubeid: MMr202BtrLE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24162690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F7c4b17d1-79c0-8bd2-c3ea-55629fbdd904.m4a",
+	"draft": false,
+	"episodeid": "442",
+	"excerpt": "Dr. Nathan H. Lents is Professor of Biology and director of the honors program and the campus Macaulay Honors College program at John Jay College. Dr. Lents is noted for his work in cell biology, genetics, and forensic science, as well as his popular science writing and blogging on the evolution of human biology and behavior. He is the author of books like Not So Different: Finding Human Nature in Animals, and Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes.",
+	"image": "https://i.ytimg.com/vi/MMr202BtrLE/maxresdefault.jpg",
+	"publishDate": 2021-03-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/442-Nathan-Lents---Human-Errors-A-Panorama-of-Our-Glitches--from-Pointless-Bones-to-Broken-Genes-envsu2",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#442 Nathan Lents - Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes",
+	"youtubeid": "MMr202BtrLE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 17th 2020.  
 Dr. Nathan H. Lents is Professor of Biology and director of the honors program and the campus Macaulay Honors College program at John Jay College. Dr. Lents is noted for his work in cell biology, genetics, and forensic science, as well as his popular science writing and blogging on the evolution of human biology and behavior. He is the author of books like Not So Different: Finding Human Nature in Animals, and Human Errors: A Panorama of Our Glitches, from Pointless Bones to Broken Genes.
 
@@ -51,5 +46,3 @@ Beastly Behavior (Psychology Today blog): http://bit.ly/34m9AVR
 Amazon page: https://amzn.to/37rFyCk  
 Human Errors: https://amzn.to/3r7wUQS  
 Twitter handle: @nathanlents
-</div>
-

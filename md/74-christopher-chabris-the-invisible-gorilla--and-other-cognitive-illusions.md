@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682039-44100-2-a4843a671da15.mp3
-draft: false
-excerpt: 'Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare
-  system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study
-  in Toulouse, France. He has taught at Union College and Harvard University. He received
-  his Ph.D. in psychology and A.B. in computer science from Harvard. His research
-  focuses on attention, intelligence (individual, collective, and social), behavior
-  genetics, and decision-making. His work has been published in leading journals including
-  Science, Nature, PNAS, Psychological Science, Perception, and Cognitive Science.
-  Chris is also co-author of the bestselling book The Invisible Gorilla: How Our Intuitions
-  Deceive Us, published in 20 languages. '
-id: '74'
-image: https://i.ytimg.com/vi/p4rz_8sjW9Y/maxresdefault.jpg
-publishDate: 2018-09-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/74-Christopher-Chabris-The-Invisible-Gorilla--and-Other-Cognitive-Illusions-e2rj94
-tags:
-- Psychology
-title: '#74 Christopher Chabris: The Invisible Gorilla, and Other Cognitive Illusions'
-youtubeid: p4rz_8sjW9Y
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001636/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7682039-44100-2-a4843a671da15.mp3",
+	"draft": false,
+	"episodeid": "74",
+	"excerpt": "Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study in Toulouse, France. He has taught at Union College and Harvard University. He received his Ph.D. in psychology and A.B. in computer science from Harvard. His research focuses on attention, intelligence (individual, collective, and social), behavior genetics, and decision-making. His work has been published in leading journals including Science, Nature, PNAS, Psychological Science, Perception, and Cognitive Science. Chris is also co-author of the bestselling book The Invisible Gorilla: How Our Intuitions Deceive Us, published in 20 languages. ",
+	"image": "https://i.ytimg.com/vi/p4rz_8sjW9Y/maxresdefault.jpg",
+	"publishDate": 2018-09-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/74-Christopher-Chabris-The-Invisible-Gorilla--and-Other-Cognitive-Illusions-e2rj94",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#74 Christopher Chabris: The Invisible Gorilla, and Other Cognitive Illusions",
+	"youtubeid": "p4rz_8sjW9Y"
+}
 ---
-<div class="timelinks">
-
 Dr. Christopher Chabris is a Professor at Geisinger, an integrated healthcare system in Pennsylvania, and a Visiting Fellow at the Institute for Advanced Study in Toulouse, France. He has taught at Union College and Harvard University. He received his Ph.D. in psychology and A.B. in computer science from Harvard. His research focuses on attention, intelligence (individual, collective, and social), behavior genetics, and decision-making. His work has been published in leading journals including Science, Nature, PNAS, Psychological Science, Perception, and Cognitive Science. Chris is also co-author of the bestselling book The Invisible Gorilla: How Our Intuitions Deceive Us, published in 20 languages. 
 
 In this episode, we center the conversation around the book The Invisible Gorilla, and we go through all of the cognitive illusions covered there. Topics include: illusions of attention; illusions of memory; illusions of confidence; illusions of knowledge; illusions of cause; illusions of potential; and how to counter their negative effects.
@@ -46,5 +39,3 @@ Book The Invisible Gorilla: https://tinyurl.com/ycl3352y
 Twitter handle: @cfchabris
 
 Also, watch the video on which The Invisible Gorilla is based: https://www.youtube.com/watch?v=IGQmdoK_ZfY
-</div>
-

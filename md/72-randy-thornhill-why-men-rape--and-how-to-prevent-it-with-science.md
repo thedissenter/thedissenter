@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681696-44100-2-d260782c75af.mp3
-draft: false
-excerpt: "Dr. Randy Thornhill is an American entomologist and evolutionary biologist.\
-  \ He is a professor of biology at the University of New Mexico, and was president\
-  \ of the Human Behavior and Evolution Society from 2011 to 2013. He is known for\
-  \ his evolutionary explanation of rape as well as his work on insect mating systems\
-  \ and the parasite-stress theory. He\u2019s the author of several books, including\
-  \ A Natural History of Rape, and The Parasite-Stress Theory of Values and Sociality."
-id: '72'
-image: https://i.ytimg.com/vi/9IpitBTww4c/maxresdefault.jpg
-publishDate: 2018-09-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/72-Randy-Thornhill-Why-Men-Rape--and-How-to-Prevent-It-With-Science-e2rj73
-tags:
-- Psychology
-title: '#72 Randy Thornhill: Why Men Rape, and How to Prevent It With Science'
-youtubeid: 9IpitBTww4c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681696-44100-2-d260782c75af.mp3",
+	"draft": false,
+	"episodeid": "72",
+	"excerpt": "Dr. Randy Thornhill is an American entomologist and evolutionary biologist. He is a professor of biology at the University of New Mexico, and was president of the Human Behavior and Evolution Society from 2011 to 2013. He is known for his evolutionary explanation of rape as well as his work on insect mating systems and the parasite-stress theory. He’s the author of several books, including A Natural History of Rape, and The Parasite-Stress Theory of Values and Sociality.",
+	"image": "https://i.ytimg.com/vi/9IpitBTww4c/maxresdefault.jpg",
+	"publishDate": 2018-09-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/72-Randy-Thornhill-Why-Men-Rape--and-How-to-Prevent-It-With-Science-e2rj73",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#72 Randy Thornhill: Why Men Rape, and How to Prevent It With Science",
+	"youtubeid": "9IpitBTww4c"
+}
 ---
-<div class="timelinks">
-
 Dr. Randy Thornhill is an American entomologist and evolutionary biologist. He is a professor of biology at the University of New Mexico, and was president of the Human Behavior and Evolution Society from 2011 to 2013. He is known for his evolutionary explanation of rape as well as his work on insect mating systems and the parasite-stress theory. He’s the author of several books, including A Natural History of Rape, and The Parasite-Stress Theory of Values and Sociality.
 
 In this episode, we focus on the main topics of Dr. Thornhill’s book, A Natural History of Rape (https://tinyurl.com/yaad244x). We explore the evolutionary bases of rape; the sex differences and optimal sexual strategies that give rise to it; why women suffer so much from it, and the possible social consequences; what’s wrong with social constructionist theories of rape, and why don’t really help the victims or with its prevention; and science-based solutions to it.
@@ -42,5 +38,3 @@ Time Links:
 Follow Dr. Thornhill’s work:  
 Faculty page: http://biology.unm.edu/Thornhill/rthorn.htm  
 Books: https://tinyurl.com/y95a5myn
-</div>
-

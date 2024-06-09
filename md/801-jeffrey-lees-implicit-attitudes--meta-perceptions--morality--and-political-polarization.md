@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/66126150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-7%2Fb232f30b-16be-0f62-6f9d-8560fcc54e58.m4a
-draft: false
-excerpt: Dr. Jeffrey Lees is Associate Research Scholar in the Behavioral Science
-  for Policy Lab at Princeton University. He received his Ph.D. in Organizational
-  Behavior & Psychology from Harvard University in 2020. He is a behavioral scientist
-  studying the consequences of inaccurate beliefs for organizations, politics, and
-  society.
-id: '801'
-image: https://i.ytimg.com/vi/mIZ9mqcgE20/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/801-jeffrey-lees-implicit-attitudes-meta-perceptions/id1451347236?i=1000618784131&uo=4
-publishDate: 2023-06-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/801-Jeffrey-Lees-Implicit-Attitudes--Meta-Perceptions--Morality--and-Political-Polarization-e200gs6
-tags:
-- Psychology
-title: '#801 Jeffrey Lees: Implicit Attitudes, Meta-Perceptions, Morality, and Political
-  Polarization'
-youtubeid: mIZ9mqcgE20
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/66126150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-7%2Fb232f30b-16be-0f62-6f9d-8560fcc54e58.m4a",
+	"draft": false,
+	"episodeid": "801",
+	"excerpt": "Dr. Jeffrey Lees is Associate Research Scholar in the Behavioral Science for Policy Lab at Princeton University. He received his Ph.D. in Organizational Behavior & Psychology from Harvard University in 2020. He is a behavioral scientist studying the consequences of inaccurate beliefs for organizations, politics, and society.",
+	"image": "https://i.ytimg.com/vi/mIZ9mqcgE20/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/801-jeffrey-lees-implicit-attitudes-meta-perceptions/id1451347236?i=1000618784131&uo=4",
+	"publishDate": 2023-06-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/801-Jeffrey-Lees-Implicit-Attitudes--Meta-Perceptions--Morality--and-Political-Polarization-e200gs6",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#801 Jeffrey Lees: Implicit Attitudes, Meta-Perceptions, Morality, and Political Polarization",
+	"youtubeid": "mIZ9mqcgE20"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 7th 2023.  
 Dr. Jeffrey Lees is Associate Research Scholar in the Behavioral Science for Policy Lab at Princeton University. He received his Ph.D. in Organizational Behavior & Psychology from Harvard University in 2020. He is a behavioral scientist studying the consequences of inaccurate beliefs for organizations, politics, and society.
 
@@ -43,5 +39,3 @@ Time Links:
 Follow Dr. Lees’ work:  
 Website: https://bit.ly/3DmCGoG  
 Works on ResearchGate: https://bit.ly/3TLc1cg
-</div>
-

@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55047864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-19%2F067bd8b4-f4d7-4509-630b-e0c2a47c8b20.m4a
-draft: false
-excerpt: "Dr. Radu Umbre\u0219 is a Lecturer at the Faculty of Political Science at\
-  \ the National School for Political Studies and Public Administration, Romania.\
-  \ Dr. Umbre\u0219 does research in Social Anthropology, Cognitive Science and Evolutionary\
-  \ Psychology. He is the author of Living with Distrust: Morality and Cooperation\
-  \ in a Romanian Village."
-id: '691'
-image: https://i.ytimg.com/vi/AGQr-dAu9bc/maxresdefault.jpg
-publishDate: 2022-10-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/691-Radu-Umbre---Living-with-Distrust-Morality-and-Cooperation-in-a-Romanian-Village-e1lee7o
-tags:
-- Anthropology
-title: "#691 Radu Umbre\u0219 - Living with Distrust: Morality and Cooperation in\
-  \ a Romanian Village"
-youtubeid: AGQr-dAu9bc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55047864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-19%2F067bd8b4-f4d7-4509-630b-e0c2a47c8b20.m4a",
+	"draft": false,
+	"episodeid": "691",
+	"excerpt": "Dr. Radu Umbreș is a Lecturer at the Faculty of Political Science at the National School for Political Studies and Public Administration, Romania. Dr. Umbreș does research in Social Anthropology, Cognitive Science and Evolutionary Psychology. He is the author of Living with Distrust: Morality and Cooperation in a Romanian Village.",
+	"image": "https://i.ytimg.com/vi/AGQr-dAu9bc/maxresdefault.jpg",
+	"publishDate": 2022-10-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/691-Radu-Umbre---Living-with-Distrust-Morality-and-Cooperation-in-a-Romanian-Village-e1lee7o",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#691 Radu Umbreș - Living with Distrust: Morality and Cooperation in a Romanian Village",
+	"youtubeid": "AGQr-dAu9bc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 19th 2022.  
 Dr. Radu Umbreș is a Lecturer at the Faculty of Political Science at the National School for Political Studies and Public Administration, Romania. Dr. Umbreș does research in Social Anthropology, Cognitive Science and Evolutionary Psychology. He is the author of Living with Distrust: Morality and Cooperation in a Romanian Village.
 
@@ -42,5 +38,3 @@ Time Links:
 Follow Dr. Umbreș’ work:  
 ResearchGate profile: https://bit.ly/3KUBvPK  
 Living with Distrust: https://amzn.to/3Nj23uE
-</div>
-

@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/52066525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-16%2Fd87489d3-e23f-e9d8-2bba-97565480b9a4.m4a
-draft: false
-excerpt: Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab at
-  Harvard University. He will be a professor of Philosophy at York University in Toronto.
-  Before that, he was a Mind, Brain, and Behavior Fellow with a joint appointment
-  in the Departments of Philosophy and Psychology at Harvard. He completed his PhD
-  in Cognitive Science under the supervision of Gergely Csibra and Dan Sperber at
-  Central European University. His work combines philosophical and empirical approaches
-  to study episodic memory, imagination, and human communication.
-id: '663'
-image: https://i.ytimg.com/vi/2bODcrDOIi4/maxresdefault.jpg
-publishDate: 2022-08-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/663-Johannes-Mahr-Episodic-Memory--Imagination--and-their-Social-Functions-e1ijeot
-tags:
-- Cognitive Science
-- Philosophy
-- Psychology
-title: '#663 Johannes Mahr: Episodic Memory, Imagination, and their Social Functions'
-youtubeid: 2bODcrDOIi4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/52066525/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-16%2Fd87489d3-e23f-e9d8-2bba-97565480b9a4.m4a",
+	"draft": false,
+	"episodeid": "663",
+	"excerpt": "Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab at Harvard University. He will be a professor of Philosophy at York University in Toronto. Before that, he was a Mind, Brain, and Behavior Fellow with a joint appointment in the Departments of Philosophy and Psychology at Harvard. He completed his PhD in Cognitive Science under the supervision of Gergely Csibra and Dan Sperber at Central European University. His work combines philosophical and empirical approaches to study episodic memory, imagination, and human communication.",
+	"image": "https://i.ytimg.com/vi/2bODcrDOIi4/maxresdefault.jpg",
+	"publishDate": 2022-08-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/663-Johannes-Mahr-Episodic-Memory--Imagination--and-their-Social-Functions-e1ijeot",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#663 Johannes Mahr: Episodic Memory, Imagination, and their Social Functions",
+	"youtubeid": "2bODcrDOIi4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 16th 2022.  
 Dr. Johannes Mahr is a Postdoctoral Fellow in the Schacter Memory Lab at Harvard University. He will be a professor of Philosophy at York University in Toronto. Before that, he was a Mind, Brain, and Behavior Fellow with a joint appointment in the Departments of Philosophy and Psychology at Harvard. He completed his PhD in Cognitive Science under the supervision of Gergely Csibra and Dan Sperber at Central European University. His work combines philosophical and empirical approaches to study episodic memory, imagination, and human communication.
 
@@ -45,5 +40,3 @@ University page: https://bit.ly/3Gk4KsE
 Website: https://bit.ly/35BZGTF  
 ResearchGate profile: https://bit.ly/3IJpStC  
 Twitter handle: @JoBMahr
-</div>
-

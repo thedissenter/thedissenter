@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/62553028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-22%2F5b9e2540-be2e-4979-d5f3-7956924f1e72.m4a
-draft: false
-excerpt: "Dr. Catarina Dutilh Novaes is Professor and University Research Chair at\
-  \ the Department of Philosophy of the VU Amsterdam. She is also a Professorial Fellow\
-  \ at Arch\xE9 in St. Andrews (2019-2024). She is currently running the ERC Consolidator\
-  \ project 'The Social Epistemology of Argumentation' (2018-2023). Her main fields\
-  \ of research are history and philosophy of logic, philosophy of mathematics, and\
-  \ social epistemology. Dr. Novaes also has general interests in medieval philosophy,\
-  \ philosophy of psychology and cognitive science, general philosophy of science,\
-  \ philosophy of mind, issues pertaining to gender and race, and empirically-informed\
-  \ approaches to philosophy in general."
-id: '773'
-image: https://i.ytimg.com/vi/mQL819vCthc/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/773-catarina-dutilh-novaes-argumentation-reason-and/id1451347236?i=1000610457814&uo=4
-publishDate: 2023-04-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/773-Catarina-Dutilh-Novaes-Argumentation--Reason--and-Disinformation-e1sjfg4
-tags:
-- Philosophy
-title: '#773 Catarina Dutilh Novaes: Argumentation, Reason, and Disinformation'
-youtubeid: mQL819vCthc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/62553028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-22%2F5b9e2540-be2e-4979-d5f3-7956924f1e72.m4a",
+	"draft": false,
+	"episodeid": "773",
+	"excerpt": "Dr. Catarina Dutilh Novaes is Professor and University Research Chair at the Department of Philosophy of the VU Amsterdam. She is also a Professorial Fellow at Arché in St. Andrews (2019-2024). She is currently running the ERC Consolidator project 'The Social Epistemology of Argumentation' (2018-2023). Her main fields of research are history and philosophy of logic, philosophy of mathematics, and social epistemology. Dr. Novaes also has general interests in medieval philosophy, philosophy of psychology and cognitive science, general philosophy of science, philosophy of mind, issues pertaining to gender and race, and empirically-informed approaches to philosophy in general.",
+	"image": "https://i.ytimg.com/vi/mQL819vCthc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/773-catarina-dutilh-novaes-argumentation-reason-and/id1451347236?i=1000610457814&uo=4",
+	"publishDate": 2023-04-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/773-Catarina-Dutilh-Novaes-Argumentation--Reason--and-Disinformation-e1sjfg4",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#773 Catarina Dutilh Novaes: Argumentation, Reason, and Disinformation",
+	"youtubeid": "mQL819vCthc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 22nd 2022.  
 Dr. Catarina Dutilh Novaes is Professor and University Research Chair at the Department of Philosophy of the VU Amsterdam. She is also a Professorial Fellow at Arché in St. Andrews (2019-2024). She is currently running the ERC Consolidator project 'The Social Epistemology of Argumentation' (2018-2023). Her main fields of research are history and philosophy of logic, philosophy of mathematics, and social epistemology. Dr. Novaes also has general interests in medieval philosophy, philosophy of psychology and cognitive science, general philosophy of science, philosophy of mind, issues pertaining to gender and race, and empirically-informed approaches to philosophy in general.
 
@@ -51,5 +44,3 @@ Website: https://bit.ly/3zXwwK5
 PhilPeople profile: https://bit.ly/3SUuQKg  
 Mastodon page: https://bit.ly/3WGJqWR  
 Twitter handle: @cdutilhnovaes
-</div>
-

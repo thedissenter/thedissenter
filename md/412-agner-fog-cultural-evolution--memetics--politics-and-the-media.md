@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/21538859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2Fd05960a2-1086-d332-7285-30e85f8ddbda.m4a
-draft: false
-excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
-  \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
-  \ Social systems and Computer Science. His current project is 'Theory of cultural\
-  \ change based on evolutionary psychology, evolutionary biology, and cultural evolution.'\
-  \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
-  \ of Genes and Culture\u201D, and \u201CCultural Selection\u201D. "
-id: '412'
-image: https://i.ytimg.com/vi/AiHTfqAAHUI/maxresdefault.jpg
-publishDate: 2021-01-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/412-Agner-Fog-Cultural-Evolution--Memetics--Politics-and-the-Media-elfqjb
-tags:
-- Anthropology
-title: '#412 Agner Fog: Cultural Evolution, Memetics, Politics and the Media'
-youtubeid: AiHTfqAAHUI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/21538859/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-23%2Fd05960a2-1086-d332-7285-30e85f8ddbda.m4a",
+	"draft": false,
+	"episodeid": "412",
+	"excerpt": "Dr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”, and “Cultural Selection”. ",
+	"image": "https://i.ytimg.com/vi/AiHTfqAAHUI/maxresdefault.jpg",
+	"publishDate": 2021-01-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/412-Agner-Fog-Cultural-Evolution--Memetics--Politics-and-the-Media-elfqjb",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#412 Agner Fog: Cultural Evolution, Memetics, Politics and the Media",
+	"youtubeid": "AiHTfqAAHUI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 23rd 2020.  
 Dr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”, and “Cultural Selection”. 
 
@@ -49,5 +45,3 @@ https://www.regality.info/
 ResearchGate profile: https://bit.ly/2WvdzLO  
 Amazon page: https://amzn.to/2Wxgjse  
 Cultural Selection: https://bit.ly/3jlprZp
-</div>
-

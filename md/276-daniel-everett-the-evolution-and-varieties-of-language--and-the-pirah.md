@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7609618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945253-44100-2-be9e04409760b.m4a
-draft: false
-excerpt: "Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentley\
-  \ University. He holds a ScD and a Masters of Linguistics from the Universidade\
-  \ Estadual in Campinas (UNICAMP). He is well-known for his many years of field research\
-  \ among the Pirah\xE3 people of the Brazilian Amazon jungle. Dr. Everett's books\
-  \ include Dark Matter of the Mind: The Culturally Articulated Unconscious, and How\
-  \ Language Began: The Story of Humanity's Greatest Invention."
-id: '276'
-image: https://i.ytimg.com/vi/5KhTl0l0L0M/maxresdefault.jpg
-publishDate: 2020-01-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/276-Daniel-Everett-The-Evolution-and-Varieties-of-Language--and-the-Pirah-e86nqi
-tags:
-- Linguistics
-- Cognitive Science
-title: "#276 Daniel Everett: The Evolution and Varieties of Language, and the Pirah\xE3"
-youtubeid: 5KhTl0l0L0M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7609618/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30945253-44100-2-be9e04409760b.m4a",
+	"draft": false,
+	"episodeid": "276",
+	"excerpt": "Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentley University. He holds a ScD and a Masters of Linguistics from the Universidade Estadual in Campinas (UNICAMP). He is well-known for his many years of field research among the Pirahã people of the Brazilian Amazon jungle. Dr. Everett's books include Dark Matter of the Mind: The Culturally Articulated Unconscious, and How Language Began: The Story of Humanity's Greatest Invention.",
+	"image": "https://i.ytimg.com/vi/5KhTl0l0L0M/maxresdefault.jpg",
+	"publishDate": 2020-01-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/276-Daniel-Everett-The-Evolution-and-Varieties-of-Language--and-the-Pirah-e86nqi",
+	"tags": [
+		"Linguistics",
+		"Cognitive Science"
+	],
+	"title": "#276 Daniel Everett: The Evolution and Varieties of Language, and the Pirahã",
+	"youtubeid": "5KhTl0l0L0M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 21st, 2019.  
 Dr. Daniel Everett is Trustee Professor of Cognitive Sciences at Bentley University. He holds a ScD and a Masters of Linguistics from the Universidade Estadual in Campinas (UNICAMP). He is well-known for his many years of field research among the Pirahã people of the Brazilian Amazon jungle. Dr. Everett's books include Dark Matter of the Mind: The Culturally Articulated Unconscious, and How Language Began: The Story of Humanity's Greatest Invention.
 
@@ -47,5 +43,3 @@ ResearchGate profile: http://bit.ly/2lDCv4c
 Books on Amazon: https://amzn.to/2lzXu8h  
 How Language Began: The Story of Humanity's Greatest Invention: https://amzn.to/2pCdfNS  
 Don't Sleep, There Are Snakes: Life and Language in the Amazonian Jungle: https://amzn.to/2qsvRAg
-</div>
-

@@ -1,23 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65523063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F82829df2-9ebb-a27f-04f6-f538d5e6ad26.m4a
-draft: false
-excerpt: 'Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy
-  at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral
-  psychology, and cross-cultural philosophy. He is the author of The Geography of
-  Morals: Varieties of Moral Possibility.'
-id: '795'
-image: https://i.ytimg.com/vi/1jEyXTmzdzM/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/795-owen-flanagan-the-geography-of-morals/id1451347236?i=1000617183730&uo=4
-publishDate: 2023-06-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/795-Owen-Flanagan---The-Geography-of-Morals-Varieties-of-Moral-Possibility-e1ve3tn
-tags:
-- Anthropology
-- Philosophy
-title: '#795 Owen Flanagan - The Geography of Morals: Varieties of Moral Possibility'
-youtubeid: 1jEyXTmzdzM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65523063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F82829df2-9ebb-a27f-04f6-f538d5e6ad26.m4a",
+	"draft": false,
+	"episodeid": "795",
+	"excerpt": "Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is the author of The Geography of Morals: Varieties of Moral Possibility.",
+	"image": "https://i.ytimg.com/vi/1jEyXTmzdzM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/795-owen-flanagan-the-geography-of-morals/id1451347236?i=1000617183730&uo=4",
+	"publishDate": 2023-06-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/795-Owen-Flanagan---The-Geography-of-Morals-Varieties-of-Moral-Possibility-e1ve3tn",
+	"tags": [
+		"Anthropology",
+		"Philosophy"
+	],
+	"title": "#795 Owen Flanagan - The Geography of Morals: Varieties of Moral Possibility",
+	"youtubeid": "1jEyXTmzdzM"
+}
 ---
-<div class="timelinks">
-
 Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is the author of The Geography of Morals: Varieties of Moral Possibility.
 
 In this episode, we focus on The Geography of Morals. We talk about what it means to do ethics in a more culturally attuned way, and going beyond WEIRD societies. We discuss minority cultures, and some of the challenges with living in multicultural societies. We touch on honor cultures, and individual differences. We discuss if philosophers can really identify what is good or right independently of history or culture, and how moral philosophers are influenced by their own culture. We talk about political morality and interpersonal morality. We discuss where our moral values come from, and delve into moral foundations theory. We discuss if it makes sense to talk about inherently good and inherently bad emotions, and focus on the case of anger. We talk about the possibility of sociomoral change inside particular traditions. We discuss if thought experiments in moral philosophy are ecologically valid, and what motivates people to produce moral arguments. Finally, we discuss criticisms put forth by postmodernists against the hegemony of Western philosophy.
@@ -48,5 +46,3 @@ Follow Dr. Flanagan’s work:
 Faculty page: https://bit.ly/3uZ4xHX  
 PhilPeople profile: https://bit.ly/3hC6nvk  
 The Geography of Morals: https://bit.ly/3FJXQyC
-</div>
-

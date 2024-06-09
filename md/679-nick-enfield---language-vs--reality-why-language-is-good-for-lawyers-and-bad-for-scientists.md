@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55633104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2F6f678d88-00fd-6992-0ed8-cc0ea9f49b02.m4a
-draft: false
-excerpt: 'Dr. Nick Enfield is Professor and Chair of Linguistics at the University
-  of Sydney and director of the Sydney Centre for Language Research. His research
-  on language, culture, cognition and social life is based on long-term fieldwork
-  in mainland Southeast Asia, especially Laos. His latest book is Language vs. Reality:
-  Why Language Is Good for Lawyers and Bad for Scientists.'
-id: '679'
-image: https://i.ytimg.com/vi/yzIPEHvZpEU/maxresdefault.jpg
-publishDate: 2022-09-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/679-Nick-Enfield---Language-vs--Reality-Why-Language-Is-Good-for-Lawyers-and-Bad-for-Scientists-e1m09og
-tags:
-- Linguistics
-- Cognitive Science
-title: '#679 Nick Enfield - Language vs. Reality: Why Language Is Good for Lawyers
-  and Bad for Scientists'
-youtubeid: yzIPEHvZpEU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55633104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-2%2F6f678d88-00fd-6992-0ed8-cc0ea9f49b02.m4a",
+	"draft": false,
+	"episodeid": "679",
+	"excerpt": "Dr. Nick Enfield is Professor and Chair of Linguistics at the University of Sydney and director of the Sydney Centre for Language Research. His research on language, culture, cognition and social life is based on long-term fieldwork in mainland Southeast Asia, especially Laos. His latest book is Language vs. Reality: Why Language Is Good for Lawyers and Bad for Scientists.",
+	"image": "https://i.ytimg.com/vi/yzIPEHvZpEU/maxresdefault.jpg",
+	"publishDate": 2022-09-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/679-Nick-Enfield---Language-vs--Reality-Why-Language-Is-Good-for-Lawyers-and-Bad-for-Scientists-e1m09og",
+	"tags": [
+		"Linguistics",
+		"Cognitive Science"
+	],
+	"title": "#679 Nick Enfield - Language vs. Reality: Why Language Is Good for Lawyers and Bad for Scientists",
+	"youtubeid": "yzIPEHvZpEU"
+}
 ---
-<div class="timelinks">
-
 Dr. Nick Enfield is Professor and Chair of Linguistics at the University of Sydney and director of the Sydney Centre for Language Research. His research on language, culture, cognition and social life is based on long-term fieldwork in mainland Southeast Asia, especially Laos. His latest book is Language vs. Reality: Why Language Is Good for Lawyers and Bad for Scientists.
 
 In this episode, we focus on Language vs. Reality. We talk about the premise of the book of language as both destroyer and creator. We discuss how language and reasoning are more about convincing people, rather than getting at the truth. We talk about perception and language as two steps of reduction of reality, and the idea of language as an interface for coordination. We discuss how different languages capture different aspects of reality. We get into psychological phenomena like priming and framing. We talk about framing in politics and the media. We discuss the idea of public discourse as a market for justifications, rather than a market for ideas. We go through the functions of stories. We discuss the Sapir-Whorf hypothesis. Finally, we ask if we can know what are the best ways of talking about things.
@@ -50,5 +46,3 @@ Website: https://bit.ly/3Mc0FKc
 ResearchGate profile: https://bit.ly/3uyYGt1  
 Language vs. Reality: https://amzn.to/3Eugs4g  
 Twitter handle: @njenfield
-</div>
-

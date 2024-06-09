@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/64618396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-6%2Feffd9622-0d02-8b0e-6e84-37e639c42441.m4a
-draft: false
-excerpt: "Dr. Christopher J. Ferguson is professor of psychology at Stetson University.\
-  \ He is interested in media violence and, in particular, video games. He\u2019s\
-  \ the author of Catastrophe!: How Psychology Explains Why Good People Make Bad Situations\
-  \ Worse."
-id: '745'
-image: https://i.ytimg.com/vi/1MPBx3t5_7U/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/745-christopher-ferguson-catastrophe-why-good-people/id1451347236?i=1000600259413&uo=4
-publishDate: 2023-02-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/745-Christopher-Ferguson---Catastrophe--Why-Good-People-Make-Bad-Situations-Worse-e1uiges
-tags:
-- Psychology
-title: '#745 Christopher Ferguson - Catastrophe!; Why Good People Make Bad Situations
-  Worse'
-youtubeid: 1MPBx3t5_7U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/64618396/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-6%2Feffd9622-0d02-8b0e-6e84-37e639c42441.m4a",
+	"draft": false,
+	"episodeid": "745",
+	"excerpt": "Dr. Christopher J. Ferguson is professor of psychology at Stetson University. He is interested in media violence and, in particular, video games. He’s the author of Catastrophe!: How Psychology Explains Why Good People Make Bad Situations Worse.",
+	"image": "https://i.ytimg.com/vi/1MPBx3t5_7U/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/745-christopher-ferguson-catastrophe-why-good-people/id1451347236?i=1000600259413&uo=4",
+	"publishDate": 2023-02-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/745-Christopher-Ferguson---Catastrophe--Why-Good-People-Make-Bad-Situations-Worse-e1uiges",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#745 Christopher Ferguson - Catastrophe!; Why Good People Make Bad Situations Worse",
+	"youtubeid": "1MPBx3t5_7U"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 6th 2023.  
 Dr. Christopher J. Ferguson is professor of psychology at Stetson University. He is interested in media violence and, in particular, video games. He’s the author of Catastrophe!: How Psychology Explains Why Good People Make Bad Situations Worse.
 
@@ -49,5 +46,3 @@ Website: https://bit.ly/2ZBxNFz
 Psychology Today blog: https://bit.ly/2Fw6Rjo  
 Catastrophe!: https://bit.ly/3VLi0ih  
 Twitter handle: @CJFerguson1111
-</div>
-

@@ -1,31 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/5747843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-8%2F27155297-44100-2-4ae7d37963a29.m4a
-draft: false
-excerpt: "Dr. Christopher Stringer is a British physical anthropologist noted for\
-  \ his work on human evolution. He is a Research Leader in Human Origins at the Natural\
-  \ History Museum. His early research was on the relationship of Neanderthals and\
-  \ early modern humans in Europe, but through his work on the Recent African Origin\
-  \ model for modern human origins, he now collaborates with archaeologists, dating\
-  \ specialists, and geneticists in attempting to reconstruct the evolution of modern\
-  \ humans globally. He has excavated at sites in Britain and abroad, and he directed\
-  \ the Ancient Human Occupation of Britain project from 2001 until it finished in\
-  \ 2013. Now he\u2019s co-director of the follow-up Pathways to Ancient Britain project,\
-  \ as part of their funding from the Calleva Foundation, which has also contributed\
-  \ to the foundation of their new Centre for Human Evolution Research. As well as\
-  \ many scientific papers, he\u2019s also written a number of books, most recently,\
-  \ Britain: one million years of the human story (2014, with Rob Dinnis) and Our\
-  \ Human Story (2018, with Louise Humphrey)."
-id: '270'
-image: https://i.ytimg.com/vi/GlvbKXrGo34/maxresdefault.jpg
-publishDate: 2019-12-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/270-Christopher-Stringer-The-Past-And-Future-Of-Human-Evolution-e6dtm3
-tags:
-- Anthropology
-title: '#270 Christopher Stringer: The Past and Future of Human Evolution'
-youtubeid: GlvbKXrGo34
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/5747843/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-8%2F27155297-44100-2-4ae7d37963a29.m4a",
+	"draft": false,
+	"episodeid": "270",
+	"excerpt": "Dr. Christopher Stringer is a British physical anthropologist noted for his work on human evolution. He is a Research Leader in Human Origins at the Natural History Museum. His early research was on the relationship of Neanderthals and early modern humans in Europe, but through his work on the Recent African Origin model for modern human origins, he now collaborates with archaeologists, dating specialists, and geneticists in attempting to reconstruct the evolution of modern humans globally. He has excavated at sites in Britain and abroad, and he directed the Ancient Human Occupation of Britain project from 2001 until it finished in 2013. Now he’s co-director of the follow-up Pathways to Ancient Britain project, as part of their funding from the Calleva Foundation, which has also contributed to the foundation of their new Centre for Human Evolution Research. As well as many scientific papers, he’s also written a number of books, most recently, Britain: one million years of the human story (2014, with Rob Dinnis) and Our Human Story (2018, with Louise Humphrey).",
+	"image": "https://i.ytimg.com/vi/GlvbKXrGo34/maxresdefault.jpg",
+	"publishDate": 2019-12-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/270-Christopher-Stringer-The-Past-And-Future-Of-Human-Evolution-e6dtm3",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#270 Christopher Stringer: The Past and Future of Human Evolution",
+	"youtubeid": "GlvbKXrGo34"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 7th, 2019.  
 Dr. Christopher Stringer is a British physical anthropologist noted for his work on human evolution. He is a Research Leader in Human Origins at the Natural History Museum. His early research was on the relationship of Neanderthals and early modern humans in Europe, but through his work on the Recent African Origin model for modern human origins, he now collaborates with archaeologists, dating specialists, and geneticists in attempting to reconstruct the evolution of modern humans globally. He has excavated at sites in Britain and abroad, and he directed the Ancient Human Occupation of Britain project from 2001 until it finished in 2013. Now he’s co-director of the follow-up Pathways to Ancient Britain project, as part of their funding from the Calleva Foundation, which has also contributed to the foundation of their new Centre for Human Evolution Research. As well as many scientific papers, he’s also written a number of books, most recently, Britain: one million years of the human story (2014, with Rob Dinnis) and Our Human Story (2018, with Louise Humphrey).
 
@@ -54,5 +42,3 @@ ResearchGate Profile: http://bit.ly/2Yj49WI
 Twitter handle: @ChrisStringer65  
 Amazon page: https://amzn.to/2p35MHb  
 Our Human Story: https://amzn.to/2noHO8Z
-</div>
-

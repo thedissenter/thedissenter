@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25460734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2Fe5646fb6-d191-eda6-a7e1-173c78657fcd.m4a
-draft: false
-excerpt: Dr. Kirsty Graham is Research Associate at the University of St. Andrews.
-  Her PhD research, supervised by Prof. Richard Byrne, catalogued the full gestural
-  repertoire of wild bonobos. She examined individual differences in repertoire size
-  and usage. Most importantly, she defined the meaning of each gesture type by determining
-  the reaction given by the recipient that satisfies the signaller. Understanding
-  meanings or ambiguity of meanings for wild bonobo gestural communication provides
-  insights into the evolution of our own complex communication system.
-id: '450'
-image: https://i.ytimg.com/vi/40D_v4P5C7s/maxresdefault.jpg
-publishDate: 2021-04-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/450-Kirsty-Graham-Gestural-Communication-in-Primates-ep7ghu
-tags:
-- Biology
-title: '#450 Kirsty Graham: Gestural Communication in Primates'
-youtubeid: 40D_v4P5C7s
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25460734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2Fe5646fb6-d191-eda6-a7e1-173c78657fcd.m4a",
+	"draft": false,
+	"episodeid": "450",
+	"excerpt": "Dr. Kirsty Graham is Research Associate at the University of St. Andrews. Her PhD research, supervised by Prof. Richard Byrne, catalogued the full gestural repertoire of wild bonobos. She examined individual differences in repertoire size and usage. Most importantly, she defined the meaning of each gesture type by determining the reaction given by the recipient that satisfies the signaller. Understanding meanings or ambiguity of meanings for wild bonobo gestural communication provides insights into the evolution of our own complex communication system.",
+	"image": "https://i.ytimg.com/vi/40D_v4P5C7s/maxresdefault.jpg",
+	"publishDate": 2021-04-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/450-Kirsty-Graham-Gestural-Communication-in-Primates-ep7ghu",
+	"tags": [
+		"Biology"
+	],
+	"title": "#450 Kirsty Graham: Gestural Communication in Primates",
+	"youtubeid": "40D_v4P5C7s"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 20th 2021.  
 Dr. Kirsty Graham is Research Associate at the University of St. Andrews. Her PhD research, supervised by Prof. Richard Byrne, catalogued the full gestural repertoire of wild bonobos. She examined individual differences in repertoire size and usage. Most importantly, she defined the meaning of each gesture type by determining the reaction given by the recipient that satisfies the signaller. Understanding meanings or ambiguity of meanings for wild bonobo gestural communication provides insights into the evolution of our own complex communication system.
 
@@ -43,5 +38,3 @@ University page: http://bit.ly/3iBPdtW
 Website: http://bit.ly/3sODeOr  
 ResearchGate profile: http://bit.ly/2WwmwUM  
 Twitter handle: @kirstyegraham
-</div>
-

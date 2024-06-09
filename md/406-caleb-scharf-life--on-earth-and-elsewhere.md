@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20860728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fe21d68a2-982a-36a4-1698-d44998574b48.m4a
-draft: false
-excerpt: "Dr. Caleb Scharf is the director of the multidisciplinary Columbia Astrobiology\
-  \ Center at Columbia University. He works in the fields of exoplanetary science\
-  \ and astrobiology, and writes extensively about science for a popular audience.\
-  \ One ultimate goal of his research is to find planets that could harbor recognizable\
-  \ life, and to detect the presence of that life\u2014an effort that falls under\
-  \ the banner of astrobiology."
-id: '406'
-image: https://i.ytimg.com/vi/xmiSimXhuMA/maxresdefault.jpg
-publishDate: 2020-12-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/406-Caleb-Scharf-Life--on-Earth-and-Elsewhere-ekr4bo
-tags:
-- General Science
-title: '#406 Caleb Scharf: Life, on Earth and Elsewhere'
-youtubeid: xmiSimXhuMA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20860728/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2Fe21d68a2-982a-36a4-1698-d44998574b48.m4a",
+	"draft": false,
+	"episodeid": "406",
+	"excerpt": "Dr. Caleb Scharf is the director of the multidisciplinary Columbia Astrobiology Center at Columbia University. He works in the fields of exoplanetary science and astrobiology, and writes extensively about science for a popular audience. One ultimate goal of his research is to find planets that could harbor recognizable life, and to detect the presence of that life—an effort that falls under the banner of astrobiology.",
+	"image": "https://i.ytimg.com/vi/xmiSimXhuMA/maxresdefault.jpg",
+	"publishDate": 2020-12-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/406-Caleb-Scharf-Life--on-Earth-and-Elsewhere-ekr4bo",
+	"tags": [
+		"General Science"
+	],
+	"title": "#406 Caleb Scharf: Life, on Earth and Elsewhere",
+	"youtubeid": "xmiSimXhuMA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 5th 2020.  
 Dr. Caleb Scharf is the director of the multidisciplinary Columbia Astrobiology Center at Columbia University. He works in the fields of exoplanetary science and astrobiology, and writes extensively about science for a popular audience. One ultimate goal of his research is to find planets that could harbor recognizable life, and to detect the presence of that life—an effort that falls under the banner of astrobiology.
 
@@ -41,5 +37,3 @@ Website: https://bit.ly/3itzs6p
 ResearchGate profile: https://bit.ly/2SuvHTK  
 Amazon page: https://amzn.to/33wWfdv  
 Twitter handle: @caleb_scharf
-</div>
-

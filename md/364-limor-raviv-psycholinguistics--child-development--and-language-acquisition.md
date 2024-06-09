@@ -1,22 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/18032082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F44e0637a-4d45-d302-bef8-76a294a86897.m4a
-draft: false
-excerpt: Dr. Limor Raviv is a research associate at the University of Madison, Wisconsin.
-  Her research focuses on the cultural evolution of languages in different social
-  environments. Specifically, she studies how the social structure of the environment
-  affects the grammatical structure of languages.
-id: '364'
-image: https://i.ytimg.com/vi/DsoDtYV2NwY/maxresdefault.jpg
-publishDate: 2020-09-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/364-Limor-Raviv-Psycholinguistics--Child-Development--and-Language-Acquisition-ei4q0i
-tags:
-- Linguistics
-- Psychology
-title: '#364 Limor Raviv: Psycholinguistics, Child Development, and Language Acquisition'
-youtubeid: DsoDtYV2NwY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/18032082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-14%2F44e0637a-4d45-d302-bef8-76a294a86897.m4a",
+	"draft": false,
+	"episodeid": "364",
+	"excerpt": "Dr. Limor Raviv is a research associate at the University of Madison, Wisconsin. Her research focuses on the cultural evolution of languages in different social environments. Specifically, she studies how the social structure of the environment affects the grammatical structure of languages.",
+	"image": "https://i.ytimg.com/vi/DsoDtYV2NwY/maxresdefault.jpg",
+	"publishDate": 2020-09-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/364-Limor-Raviv-Psycholinguistics--Child-Development--and-Language-Acquisition-ei4q0i",
+	"tags": [
+		"Linguistics",
+		"Psychology"
+	],
+	"title": "#364 Limor Raviv: Psycholinguistics, Child Development, and Language Acquisition",
+	"youtubeid": "DsoDtYV2NwY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 10th, 2020.  
 Dr. Limor Raviv is a research associate at the University of Madison, Wisconsin. Her research focuses on the cultural evolution of languages in different social environments. Specifically, she studies how the social structure of the environment affects the grammatical structure of languages.
 
@@ -44,5 +42,3 @@ Follow Dr. Raviv’s work:
 Max Planck page: https://bit.ly/2WUCsla  
 ResearchGate profile: https://bit.ly/2JrGTfk  
 Twitter handle: @Limor_Raviv
-</div>
-

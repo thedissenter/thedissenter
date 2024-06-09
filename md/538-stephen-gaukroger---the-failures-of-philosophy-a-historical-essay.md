@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/37293751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F473e8a2f-f579-7092-8e4a-2e6d328fdb06.m4a
-draft: false
-excerpt: "Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy and\
-  \ History of Science at the University of Sydney. Dr. Gaukroger has completed a\
-  \ long-term project on the emergence and consolidation of a scientific culture in\
-  \ the West from 1210 to 1935: The Emergence of a Scientific Culture (Oxford, 2006),The\
-  \ Collapse of Mechanism and the Rise of Sensibility(Oxford, 2010),The Natural and\
-  \ the Human (Oxford, 2016), Civilization and the Culture of Science (Oxford, 2020).\
-  \ His re-working of the history of philosophy, The Failures of Philosophy (Princeton),\
-  \ was published in 2020. His current project is \u2018The Uniqueness of the West:\
-  \ Classical Antiquity, the Orient, and the Construction of a European Cultural Identity,\
-  \ 1550-1914\u2019. His new book is The Failures of Philosophy: A Historical Essay. "
-id: '538'
-image: https://i.ytimg.com/vi/MCcOeHTYnZA/maxresdefault.jpg
-publishDate: 2021-10-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/538-Stephen-Gaukroger---The-Failures-of-Philosophy-A-Historical-Essay-e14gk7n
-tags:
-- Philosophy
-title: '#538 Stephen Gaukroger - The Failures of Philosophy: A Historical Essay'
-youtubeid: MCcOeHTYnZA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/37293751/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-15%2F473e8a2f-f579-7092-8e4a-2e6d328fdb06.m4a",
+	"draft": false,
+	"episodeid": "538",
+	"excerpt": "Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy and History of Science at the University of Sydney. Dr. Gaukroger has completed a long-term project on the emergence and consolidation of a scientific culture in the West from 1210 to 1935: The Emergence of a Scientific Culture (Oxford, 2006),The Collapse of Mechanism and the Rise of Sensibility(Oxford, 2010),The Natural and the Human (Oxford, 2016), Civilization and the Culture of Science (Oxford, 2020). His re-working of the history of philosophy, The Failures of Philosophy (Princeton), was published in 2020. His current project is ‘The Uniqueness of the West: Classical Antiquity, the Orient, and the Construction of a European Cultural Identity, 1550-1914’. His new book is The Failures of Philosophy: A Historical Essay. ",
+	"image": "https://i.ytimg.com/vi/MCcOeHTYnZA/maxresdefault.jpg",
+	"publishDate": 2021-10-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/538-Stephen-Gaukroger---The-Failures-of-Philosophy-A-Historical-Essay-e14gk7n",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#538 Stephen Gaukroger - The Failures of Philosophy: A Historical Essay",
+	"youtubeid": "MCcOeHTYnZA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 14th 2021.  
 Dr. Stephen Gaukroger is Emeritus Professor of History of Philosophy and History of Science at the University of Sydney. Dr. Gaukroger has completed a long-term project on the emergence and consolidation of a scientific culture in the West from 1210 to 1935: The Emergence of a Scientific Culture (Oxford, 2006),The Collapse of Mechanism and the Rise of Sensibility(Oxford, 2010),The Natural and the Human (Oxford, 2016), Civilization and the Culture of Science (Oxford, 2020). His re-working of the history of philosophy, The Failures of Philosophy (Princeton), was published in 2020. His current project is ‘The Uniqueness of the West: Classical Antiquity, the Orient, and the Construction of a European Cultural Identity, 1550-1914’. His new book is The Failures of Philosophy: A Historical Essay. 
 
@@ -41,5 +33,3 @@ Time Links:
 Follow Dr. Gaukroger’s work:  
 Faculty page: https://bit.ly/3yL8901  
 The Failures of Philosophy: https://amzn.to/2ZyntO9
-</div>
-

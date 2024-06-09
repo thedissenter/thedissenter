@@ -1,28 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7609723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30946153-44100-2-9b167b642e144.m4a
-draft: false
-excerpt: "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard University.\
-  \ Professor Kagan's research, on the cognitive and emotional development of a child\
-  \ during the first decade of life, focuses on the origins of temperament. He has\
-  \ tracked the development of inhibited and uninhibited children from infancy to\
-  \ adolescence. Dr. Kagan\u2019s research indicates that shyness and other temperamental\
-  \ differences in adults and children have both environmental and genetic influences.\
-  \ A shy adult is more likely to have been high-reactive (fearful) in infancy and\
-  \ childhood than their bold and sociable counterparts, who were most likely low-reactive.\
-  \ He has served on the National Institute of Mental Health and on the National Research\
-  \ Council. His books include Galen\u2019s Prophecy: Temperament in Human Nature\
-  \ and Three Seductive Ideas."
-id: '278'
-image: https://i.ytimg.com/vi/wtZF_hpZCPg/maxresdefault.jpg
-publishDate: 2020-01-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/278-Jerome-Kagan-Temperament--Feelings--Emotions--and-Personality-e86ntr
-tags:
-- Psychology
-title: '#278 Jerome Kagan: Temperament, Feelings, Emotions, and Personality'
-youtubeid: wtZF_hpZCPg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7609723/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30946153-44100-2-9b167b642e144.m4a",
+	"draft": false,
+	"episodeid": "278",
+	"excerpt": "Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard University. Professor Kagan's research, on the cognitive and emotional development of a child during the first decade of life, focuses on the origins of temperament. He has tracked the development of inhibited and uninhibited children from infancy to adolescence. Dr. Kagan’s research indicates that shyness and other temperamental differences in adults and children have both environmental and genetic influences. A shy adult is more likely to have been high-reactive (fearful) in infancy and childhood than their bold and sociable counterparts, who were most likely low-reactive. He has served on the National Institute of Mental Health and on the National Research Council. His books include Galen’s Prophecy: Temperament in Human Nature and Three Seductive Ideas.",
+	"image": "https://i.ytimg.com/vi/wtZF_hpZCPg/maxresdefault.jpg",
+	"publishDate": 2020-01-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/278-Jerome-Kagan-Temperament--Feelings--Emotions--and-Personality-e86ntr",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#278 Jerome Kagan: Temperament, Feelings, Emotions, and Personality",
+	"youtubeid": "wtZF_hpZCPg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 23rd, 2019.  
 Dr. Jerome Kagan is Professor of Psychology Emeritus at Harvard University. Professor Kagan's research, on the cognitive and emotional development of a child during the first decade of life, focuses on the origins of temperament. He has tracked the development of inhibited and uninhibited children from infancy to adolescence. Dr. Kagan’s research indicates that shyness and other temperamental differences in adults and children have both environmental and genetic influences. A shy adult is more likely to have been high-reactive (fearful) in infancy and childhood than their bold and sociable counterparts, who were most likely low-reactive. He has served on the National Institute of Mental Health and on the National Research Council. His books include Galen’s Prophecy: Temperament in Human Nature and Three Seductive Ideas.
 
@@ -52,5 +43,3 @@ The Temperamental Thread: How Genes, Culture, Time and Luck make Us Who We Are: 
 Three Seductive Ideas: https://amzn.to/2JhJdpD  
 The Second Year: https://amzn.to/31DoHWP  
 Galen's Prophecy: Temperament In Human Nature: https://amzn.to/31Bngs5
-</div>
-

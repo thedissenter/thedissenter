@@ -1,27 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55086110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-20%2Fb9912829-3da6-f47e-6b84-79ab0e6ab718.m4a
-draft: false
-excerpt: 'Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who specializes
-  in belief in superstitions and critical thinking. He is a contributing editor for
-  Skeptical Inquirer magazine. He has written personal and professional essays in
-  a variety of places, including the Observer, Medium, The Atlantic, The Good Men
-  Project, Tablet, and Time. His book Believing in Magic: The Psychology of Superstition
-  won the American Psychological Association''s William James Book Award. His latest
-  book is The Uses of Delusion: Why It''s Not Always Rational to Be Rational.'
-id: '693'
-image: https://i.ytimg.com/vi/c2T5hIn3w08/maxresdefault.jpg
-publishDate: 2022-10-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/693-Stuart-Vyse---The-Uses-of-Delusion-Why-Its-Not-Always-Rational-to-Be-Rational-e1lfjiu
-tags:
-- General Science
-- Philosophy
-- Psychology
-title: '#693 Stuart Vyse - The Uses of Delusion: Why It''s Not Always Rational to
-  Be Rational'
-youtubeid: c2T5hIn3w08
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55086110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-20%2Fb9912829-3da6-f47e-6b84-79ab0e6ab718.m4a",
+	"draft": false,
+	"episodeid": "693",
+	"excerpt": "Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who specializes in belief in superstitions and critical thinking. He is a contributing editor for Skeptical Inquirer magazine. He has written personal and professional essays in a variety of places, including the Observer, Medium, The Atlantic, The Good Men Project, Tablet, and Time. His book Believing in Magic: The Psychology of Superstition won the American Psychological Association's William James Book Award. His latest book is The Uses of Delusion: Why It's Not Always Rational to Be Rational.",
+	"image": "https://i.ytimg.com/vi/c2T5hIn3w08/maxresdefault.jpg",
+	"publishDate": 2022-10-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/693-Stuart-Vyse---The-Uses-of-Delusion-Why-Its-Not-Always-Rational-to-Be-Rational-e1lfjiu",
+	"tags": [
+		"General Science",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#693 Stuart Vyse - The Uses of Delusion: Why It's Not Always Rational to Be Rational",
+	"youtubeid": "c2T5hIn3w08"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 20th 2022.  
 Dr. Stuart Vyse is a psychologist, teacher, speaker, and author who specializes in belief in superstitions and critical thinking. He is a contributing editor for Skeptical Inquirer magazine. He has written personal and professional essays in a variety of places, including the Observer, Medium, The Atlantic, The Good Men Project, Tablet, and Time. His book Believing in Magic: The Psychology of Superstition won the American Psychological Association's William James Book Award. His latest book is The Uses of Delusion: Why It's Not Always Rational to Be Rational.
 
@@ -51,5 +45,3 @@ Website: https://bit.ly/3LaRgCn
 Amazon page: https://amzn.to/3OFnW8u  
 The Uses of Delusion: https://amzn.to/3MX8GnB  
 Twitter handle: @stuartvyse
-</div>
-

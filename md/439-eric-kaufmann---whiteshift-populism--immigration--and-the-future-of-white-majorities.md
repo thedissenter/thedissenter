@@ -1,24 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25921187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2Fd1f99b83-b4a9-7cf7-2729-5bd8c9e62360.m4a
-draft: false
-excerpt: "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, University\
-  \ of London, UK.  He is principally interested in cultural politics: ethnicity,\
-  \ national identity and religion. He\u2019s the author of Whiteshift: Populism,\
-  \ Immigration, and the Future of White Majorities."
-id: '439'
-image: https://i.ytimg.com/vi/8vrxUHPMjQQ/maxresdefault.jpg
-publishDate: 2021-03-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/439-Eric-Kaufmann---Whiteshift-Populism--Immigration--and-the-Future-of-White-Majorities-epli73
-tags:
-- Politics
-- Economy, Progress
-- Sociology
-title: '#439 Eric Kaufmann - Whiteshift: Populism, Immigration, and the Future of
-  White Majorities'
-youtubeid: 8vrxUHPMjQQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25921187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-29%2Fd1f99b83-b4a9-7cf7-2729-5bd8c9e62360.m4a",
+	"draft": false,
+	"episodeid": "439",
+	"excerpt": "Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, University of London, UK.  He is principally interested in cultural politics: ethnicity, national identity and religion. He’s the author of Whiteshift: Populism, Immigration, and the Future of White Majorities.",
+	"image": "https://i.ytimg.com/vi/8vrxUHPMjQQ/maxresdefault.jpg",
+	"publishDate": 2021-03-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/439-Eric-Kaufmann---Whiteshift-Populism--Immigration--and-the-Future-of-White-Majorities-epli73",
+	"tags": [
+		"Politics",
+		"Economy, Progress",
+		"Sociology"
+	],
+	"title": "#439 Eric Kaufmann - Whiteshift: Populism, Immigration, and the Future of White Majorities",
+	"youtubeid": "8vrxUHPMjQQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 27th 2021.  
 Dr. Eric Kaufmann is Professor of Politics at Birkbeck College, University of London, UK.  He is principally interested in cultural politics: ethnicity, national identity and religion. He’s the author of Whiteshift: Populism, Immigration, and the Future of White Majorities.
 
@@ -49,5 +46,3 @@ ResearchGate profile: https://bit.ly/39nM5id
 Amazon page: https://amzn.to/2MuuNXw  
 Whiteshift: https://amzn.to/2WuYHgo  
 Twitter handle: @epkaufm
-</div>
-

@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735001-48000-2-476a49c2e5d71.mp3
-draft: false
-excerpt: "THIS TIME, IT\u2019S AUDIO-ONLY. I\u2019VE BEEN HAVING SOME ISSUES WITH\
-  \ THE RECORDING PROGRAM THAT I HOPE TO SOLVE DEFINITELLY IN THE NEAR FUTURE. PLEASE\
-  \ ENJOY!"
-id: '109'
-image: https://i.ytimg.com/vi/HOZiYYOZ1sE/maxresdefault.jpg
-publishDate: 2018-12-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/109-Simon-DeDeo-From-Atoms-to-Societies--Emergentism-and-Reductionism-e2rsfu
-tags:
-- General Science
-title: '#109 Simon DeDeo: From Atoms to Societies, Emergentism and Reductionism'
-youtubeid: HOZiYYOZ1sE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735001-48000-2-476a49c2e5d71.mp3",
+	"draft": false,
+	"episodeid": "109",
+	"excerpt": "THIS TIME, IT’S AUDIO-ONLY. I’VE BEEN HAVING SOME ISSUES WITH THE RECORDING PROGRAM THAT I HOPE TO SOLVE DEFINITELLY IN THE NEAR FUTURE. PLEASE ENJOY!",
+	"image": "https://i.ytimg.com/vi/HOZiYYOZ1sE/maxresdefault.jpg",
+	"publishDate": 2018-12-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/109-Simon-DeDeo-From-Atoms-to-Societies--Emergentism-and-Reductionism-e2rsfu",
+	"tags": [
+		"General Science"
+	],
+	"title": "#109 Simon DeDeo: From Atoms to Societies, Emergentism and Reductionism",
+	"youtubeid": "HOZiYYOZ1sE"
+}
 ---
-<div class="timelinks">
-
 THIS TIME, IT’S AUDIO-ONLY. I’VE BEEN HAVING SOME ISSUES WITH THE RECORDING PROGRAM THAT I HOPE TO SOLVE DEFINITELLY IN THE NEAR FUTURE. PLEASE ENJOY!
 
 Dr. Simon DeDeo is an Assistant Professor in Social and Decision Sciences at Carnegie Mellon University, and External Professor at the Santa Fe Institute. He also runs the Laboratory for Social Minds, were he and his team undertake empirical investigations, and build mathematical theories, of both historical and contemporary phenomena.
@@ -41,5 +40,3 @@ Follow Dr. DeDeo’ work:
 Faculty page: https://tinyurl.com/ybwzw2ee  
 Articles on Researchgate: https://tinyurl.com/ycpwv7c4  
 Twitter handle: @SimonDeDeo
-</div>
-

@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41446164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2F0dcebdc2-0b43-0f1b-fe3b-d5ac377e267f.m4a
-draft: false
-excerpt: Dr. Drew Bailey is Associate Professor in the School of Education at the
-  University of California, Irvine. His research interests include mathematical development,
-  individual differences, and longitudinal methods.
-id: '578'
-image: https://i.ytimg.com/vi/6A-uJJbRMIE/maxresdefault.jpg
-publishDate: 2022-01-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/578-Drew-Bailey-Educational-Attainment--Educational-Interventions--and-Sex-Differences-e18fbak
-tags:
-- Psychology
-title: '#578 Drew Bailey: Educational Attainment, Educational Interventions, and Sex
-  Differences'
-youtubeid: 6A-uJJbRMIE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41446164/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-7%2F0dcebdc2-0b43-0f1b-fe3b-d5ac377e267f.m4a",
+	"draft": false,
+	"episodeid": "578",
+	"excerpt": "Dr. Drew Bailey is Associate Professor in the School of Education at the University of California, Irvine. His research interests include mathematical development, individual differences, and longitudinal methods.",
+	"image": "https://i.ytimg.com/vi/6A-uJJbRMIE/maxresdefault.jpg",
+	"publishDate": 2022-01-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/578-Drew-Bailey-Educational-Attainment--Educational-Interventions--and-Sex-Differences-e18fbak",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#578 Drew Bailey: Educational Attainment, Educational Interventions, and Sex Differences",
+	"youtubeid": "6A-uJJbRMIE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 7th 2021.  
 Dr. Drew Bailey is Associate Professor in the School of Education at the University of California, Irvine. His research interests include mathematical development, individual differences, and longitudinal methods.
 
@@ -39,5 +37,3 @@ Follow Dr. Bailey’s work:
 Faculty page: https://bit.ly/3wKTJfB  
 ResearchGate profile: https://bit.ly/3vmcBkG  
 Twitter handle: @drewhalbailey
-</div>
-

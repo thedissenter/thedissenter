@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/30651934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-3%2F25d351a0-d1eb-07ea-ee63-e01c6977d4d1.m4a
-draft: false
-excerpt: "Dr. Hrishikesh Joshi is Assistant Professor of Philosophy at Bowling Green\
-  \ State University. He works on moral and political philosophy. He is the author\
-  \ of Why It\u2019s OK to Speak Your Mind."
-id: '492'
-image: https://i.ytimg.com/vi/vViTppXwRgc/maxresdefault.jpg
-publishDate: 2021-07-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/492-Hrishikesh-Joshi-Why-Its-OK-to-Speak-Your-Mind-eu5u2u
-tags:
-- Philosophy
-title: '#492 Hrishikesh Joshi: Why It''s OK to Speak Your Mind'
-youtubeid: vViTppXwRgc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/30651934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-3%2F25d351a0-d1eb-07ea-ee63-e01c6977d4d1.m4a",
+	"draft": false,
+	"episodeid": "492",
+	"excerpt": "Dr. Hrishikesh Joshi is Assistant Professor of Philosophy at Bowling Green State University. He works on moral and political philosophy. He is the author of Why It’s OK to Speak Your Mind.",
+	"image": "https://i.ytimg.com/vi/vViTppXwRgc/maxresdefault.jpg",
+	"publishDate": 2021-07-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/492-Hrishikesh-Joshi-Why-Its-OK-to-Speak-Your-Mind-eu5u2u",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#492 Hrishikesh Joshi: Why It's OK to Speak Your Mind",
+	"youtubeid": "vViTppXwRgc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 3rd 2021.  
 Dr. Hrishikesh Joshi is Assistant Professor of Philosophy at Bowling Green State University. He works on moral and political philosophy. He is the author of Why It’s OK to Speak Your Mind.
 
@@ -44,5 +43,3 @@ Website: https://bit.ly/2Pmngw1
 PhilPeople page: https://bit.ly/3sNIwct  
 Why It’s OK to Speak Your Mind: https://amzn.to/3mihNlC  
 Twitter handle: @HSJSpeaks
-</div>
-

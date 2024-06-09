@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/73126302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-7%2Fbb44100a-53b4-e19f-0172-0befa9dd2430.m4a
-draft: false
-excerpt: "L\xE9o Fitouchi is a PhD candidate in evolutionary and cognitive social\
-  \ sciences at \xC9cole Normale Sup\xE9rieure in Paris (Department of Cognitive Science).\
-  \ He is part of the Evolution and Social Cognition team of the Institut Jean-Nicod.\
-  \ He is mostly interested in understanding how human social behavior and cultural\
-  \ traditions are shaped by evolved cognitive mechanisms and cultural evolutionary\
-  \ processes \u2013\u2013 with a particular focus on moral intuitions, supernatural\
-  \ beliefs, and social norms and institutions."
-id: '861'
-image: https://i.ytimg.com/vi/Nv1XIcW2uCY/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/861-l%C3%A9o-fitouchi-moral-emotions-punishment-and/id1451347236?i=1000635082002&uo=4
-publishDate: 2023-11-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/861-Lo-Fitouchi-Moral-Emotions--Punishment--and-Puritanical-Morality-e26m4uu
-tags:
-- Psychology
-title: "#861 L\xE9o Fitouchi: Moral Emotions, Punishment, and Puritanical Morality"
-youtubeid: Nv1XIcW2uCY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/73126302/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-7%2Fbb44100a-53b4-e19f-0172-0befa9dd2430.m4a",
+	"draft": false,
+	"episodeid": "861",
+	"excerpt": "Léo Fitouchi is a PhD candidate in evolutionary and cognitive social sciences at École Normale Supérieure in Paris (Department of Cognitive Science). He is part of the Evolution and Social Cognition team of the Institut Jean-Nicod. He is mostly interested in understanding how human social behavior and cultural traditions are shaped by evolved cognitive mechanisms and cultural evolutionary processes –– with a particular focus on moral intuitions, supernatural beliefs, and social norms and institutions.",
+	"image": "https://i.ytimg.com/vi/Nv1XIcW2uCY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/861-l%C3%A9o-fitouchi-moral-emotions-punishment-and/id1451347236?i=1000635082002&uo=4",
+	"publishDate": 2023-11-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/861-Lo-Fitouchi-Moral-Emotions--Punishment--and-Puritanical-Morality-e26m4uu",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#861 Léo Fitouchi: Moral Emotions, Punishment, and Puritanical Morality",
+	"youtubeid": "Nv1XIcW2uCY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 7th 2023.  
 Léo Fitouchi is a PhD candidate in evolutionary and cognitive social sciences at École Normale Supérieure in Paris (Department of Cognitive Science). He is part of the Evolution and Social Cognition team of the Institut Jean-Nicod. He is mostly interested in understanding how human social behavior and cultural traditions are shaped by evolved cognitive mechanisms and cultural evolutionary processes –– with a particular focus on moral intuitions, supernatural beliefs, and social norms and institutions.
 
@@ -47,5 +42,3 @@ University page: https://bit.ly/3L50we6
 Website: https://bit.ly/3ZDM3dd  
 ResearchGate profile: https://bit.ly/3ZwL9PQ  
 Twitter handle: @LFitouchi
-</div>
-

@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/75864459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2F81199c9c-5a59-515e-0d42-4e2b8dbe9054.m4a
-draft: false
-excerpt: Dr. Carol Ember is President of the Human Relations Area Files at Yale University
-  and the editor of the journal Cross-Cultural Research. Most of her research career
-  has been devoted to cross-cultural research on variation in marriage, family, kin
-  groups, gender roles, predictors of war and other forms of violence, but for the
-  last eight years she has been working on cultural adaptations to natural hazards
-  and other resource stressors. She is interested in research that integrates the
-  fields of anthropology as well as anthropology with other disciplines. She is the
-  first author (with Melvin Ember) of Cultural Anthropology, now in its 15th edition
-  and Anthropology (with Melvin Ember and Peter N. Peregrine), now in its 15th edition.
-id: '887'
-image: https://i.ytimg.com/vi/0zew8DVP3q0/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/887-carol-ember-tight-and-loose-cultures-sexuality/id1451347236?i=1000641753337&uo=4
-publishDate: 2024-01-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/887-Carol-Ember-Tight-and-Loose-Cultures--Sexuality--Gender-Differences--and-Cultural-Databases-e299mub
-tags:
-- Anthropology
-title: '#887 Carol Ember: Tight and Loose Cultures, Sexuality, Gender Differences,
-  and Cultural Databases'
-youtubeid: 0zew8DVP3q0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75864459/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-13%2F81199c9c-5a59-515e-0d42-4e2b8dbe9054.m4a",
+	"draft": false,
+	"episodeid": "887",
+	"excerpt": "Dr. Carol Ember is President of the Human Relations Area Files at Yale University and the editor of the journal Cross-Cultural Research. Most of her research career has been devoted to cross-cultural research on variation in marriage, family, kin groups, gender roles, predictors of war and other forms of violence, but for the last eight years she has been working on cultural adaptations to natural hazards and other resource stressors. She is interested in research that integrates the fields of anthropology as well as anthropology with other disciplines. She is the first author (with Melvin Ember) of Cultural Anthropology, now in its 15th edition and Anthropology (with Melvin Ember and Peter N. Peregrine), now in its 15th edition.",
+	"image": "https://i.ytimg.com/vi/0zew8DVP3q0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/887-carol-ember-tight-and-loose-cultures-sexuality/id1451347236?i=1000641753337&uo=4",
+	"publishDate": 2024-01-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/887-Carol-Ember-Tight-and-Loose-Cultures--Sexuality--Gender-Differences--and-Cultural-Databases-e299mub",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#887 Carol Ember: Tight and Loose Cultures, Sexuality, Gender Differences, and Cultural Databases",
+	"youtubeid": "0zew8DVP3q0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 13th 2023.  
 Dr. Carol Ember is President of the Human Relations Area Files at Yale University and the editor of the journal Cross-Cultural Research. Most of her research career has been devoted to cross-cultural research on variation in marriage, family, kin groups, gender roles, predictors of war and other forms of violence, but for the last eight years she has been working on cultural adaptations to natural hazards and other resource stressors. She is interested in research that integrates the fields of anthropology as well as anthropology with other disciplines. She is the first author (with Melvin Ember) of Cultural Anthropology, now in its 15th edition and Anthropology (with Melvin Ember and Peter N. Peregrine), now in its 15th edition.
 
@@ -49,5 +41,3 @@ Faculty page: https://bit.ly/43s6agF
 eHRAF (Human Relations Area Files) World Cultures: https://bit.ly/3LoNkQN  
 ResearchGate profile: https://bit.ly/3pYk9w0  
 Books on Amazon: https://bit.ly/3NQICNj
-</div>
-

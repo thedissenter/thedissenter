@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/63444834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F7045ddd1-5051-f7c5-9bfb-64ae64090029.m4a
-draft: false
-excerpt: Dr. Gil Greengross is a Lecturer in Psychology at Aberystwyth University.
-  He is an evolutionary psychologist, studying the evolutionary roots of everyday
-  behaviors and emotions. His main area of research focuses on the evolution of humor
-  and laughter, what makes people laugh, and how humor is used in mating and mate
-  choice. He also has a strong interest in studying people with extreme creative abilities,
-  such as stand-up comedians, magicians, and other artists.
-id: '777'
-image: https://i.ytimg.com/vi/8OKbtZ6ojtk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/777-gil-greengross-the-evolutionary-psychology-of/id1451347236?i=1000611770975&uo=4
-publishDate: 2023-05-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/777-Gil-Greengross-The-Evolutionary-Psychology-of-Humor--Laughter--and-Comedians-e1temd2
-tags:
-- Psychology
-title: '#777 Gil Greengross: The (Evolutionary) Psychology of Humor, Laughter, and
-  Comedians'
-youtubeid: 8OKbtZ6ojtk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/63444834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F7045ddd1-5051-f7c5-9bfb-64ae64090029.m4a",
+	"draft": false,
+	"episodeid": "777",
+	"excerpt": "Dr. Gil Greengross is a Lecturer in Psychology at Aberystwyth University. He is an evolutionary psychologist, studying the evolutionary roots of everyday behaviors and emotions. His main area of research focuses on the evolution of humor and laughter, what makes people laugh, and how humor is used in mating and mate choice. He also has a strong interest in studying people with extreme creative abilities, such as stand-up comedians, magicians, and other artists.",
+	"image": "https://i.ytimg.com/vi/8OKbtZ6ojtk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/777-gil-greengross-the-evolutionary-psychology-of/id1451347236?i=1000611770975&uo=4",
+	"publishDate": 2023-05-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/777-Gil-Greengross-The-Evolutionary-Psychology-of-Humor--Laughter--and-Comedians-e1temd2",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#777 Gil Greengross: The (Evolutionary) Psychology of Humor, Laughter, and Comedians",
+	"youtubeid": "8OKbtZ6ojtk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 13th 2022.  
 Dr. Gil Greengross is a Lecturer in Psychology at Aberystwyth University. He is an evolutionary psychologist, studying the evolutionary roots of everyday behaviors and emotions. His main area of research focuses on the evolution of humor and laughter, what makes people laugh, and how humor is used in mating and mate choice. He also has a strong interest in studying people with extreme creative abilities, such as stand-up comedians, magicians, and other artists.
 
@@ -47,5 +42,3 @@ Follow Dr. Greengross’s work:
 Faculty page: https://bit.ly/3eu8ob9  
 ResearchGate profile: https://bit.ly/3RGlFLL  
 Twitter handle: @Giligg
-</div>
-

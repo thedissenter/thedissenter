@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41792787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2F6d083bd4-c6f9-4002-0ab6-4a20cc850ea4.m4a
-draft: false
-excerpt: "Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber State\
-  \ University. She received her Ph.D. from Yale University and writes primarily in\
-  \ aesthetics and blogs at aestheticsforbirds.com. She is the author of Why It\u2019\
-  s OK to Enjoy the Work of Immoral Artists."
-id: '582'
-image: https://i.ytimg.com/vi/QpMIR45wZHs/maxresdefault.jpg
-publishDate: 2022-02-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/582-Mary-Beth-Willard-Why-Its-OK-to-Enjoy-the-Work-of-Immoral-Artists-e18ptqj
-tags:
-- Philosophy
-title: "#582 Mary Beth Willard: Why It\u2019s OK to Enjoy the Work of Immoral Artists"
-youtubeid: QpMIR45wZHs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41792787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2F6d083bd4-c6f9-4002-0ab6-4a20cc850ea4.m4a",
+	"draft": false,
+	"episodeid": "582",
+	"excerpt": "Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber State University. She received her Ph.D. from Yale University and writes primarily in aesthetics and blogs at aestheticsforbirds.com. She is the author of Why It’s OK to Enjoy the Work of Immoral Artists.",
+	"image": "https://i.ytimg.com/vi/QpMIR45wZHs/maxresdefault.jpg",
+	"publishDate": 2022-02-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/582-Mary-Beth-Willard-Why-Its-OK-to-Enjoy-the-Work-of-Immoral-Artists-e18ptqj",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#582 Mary Beth Willard: Why It’s OK to Enjoy the Work of Immoral Artists",
+	"youtubeid": "QpMIR45wZHs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 13th 2021.  
 Dr. Mary Beth Willard is an Associate Professor of Philosophy at Weber State University. She received her Ph.D. from Yale University and writes primarily in aesthetics and blogs at aestheticsforbirds.com. She is the author of Why It’s OK to Enjoy the Work of Immoral Artists.
 
@@ -39,5 +37,3 @@ Follow Willard’s work:
 Website: https://bit.ly/3bQltXO  
 PhilPeople profile: https://bit.ly/3a0ny28  
 Why It’s OK to Enjoy the Work of Immoral Artists: https://amzn.to/3fgjLBo
-</div>
-

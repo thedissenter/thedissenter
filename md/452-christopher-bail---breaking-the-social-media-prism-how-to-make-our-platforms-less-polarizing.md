@@ -1,30 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/30433620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-31%2Fd26d6901-7a2f-5897-a8ba-3b38c786078b.m4a
-draft: false
-excerpt: "Dr. Christopher Bail is Professor of Sociology, Public Policy, and Data\
-  \ Science at Duke University, where he directs the Polarization Lab. A leader in\
-  \ the emerging field of computational social science, Dr. Bail\u2019s research examines\
-  \ fundamental questions of social psychology, extremism, and political polarization\
-  \ using social media data, bots, and the latest advances in machine learning. Dr.\
-  \ Bail is the recipient of Guggenheim and Carnegie Fellowships. His research appears\
-  \ in top journals, such as Science, the Proceedings of the National Academy of Sciences,\
-  \ and the American Sociological Review. His book, Terrified: How Anti-Muslim Fringe\
-  \ Organizations Became Mainstream, received three awards and resulted in an invitation\
-  \ to address the 2016 Democratic National Convention. He is the author of the recent\
-  \ book, Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing."
-id: '452'
-image: https://i.ytimg.com/vi/2THC1-nCR0E/maxresdefault.jpg
-publishDate: 2021-04-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/452-Christopher-Bail---Breaking-the-Social-Media-Prism-How-to-Make-Our-Platforms-Less-Polarizing-etv8sk
-tags:
-- Politics
-- Sociology
-title: '#452 Christopher Bail - Breaking the Social Media Prism: How to Make Our Platforms
-  Less Polarizing'
-youtubeid: 2THC1-nCR0E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/30433620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-31%2Fd26d6901-7a2f-5897-a8ba-3b38c786078b.m4a",
+	"draft": false,
+	"episodeid": "452",
+	"excerpt": "Dr. Christopher Bail is Professor of Sociology, Public Policy, and Data Science at Duke University, where he directs the Polarization Lab. A leader in the emerging field of computational social science, Dr. Bail’s research examines fundamental questions of social psychology, extremism, and political polarization using social media data, bots, and the latest advances in machine learning. Dr. Bail is the recipient of Guggenheim and Carnegie Fellowships. His research appears in top journals, such as Science, the Proceedings of the National Academy of Sciences, and the American Sociological Review. His book, Terrified: How Anti-Muslim Fringe Organizations Became Mainstream, received three awards and resulted in an invitation to address the 2016 Democratic National Convention. He is the author of the recent book, Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing.",
+	"image": "https://i.ytimg.com/vi/2THC1-nCR0E/maxresdefault.jpg",
+	"publishDate": 2021-04-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/452-Christopher-Bail---Breaking-the-Social-Media-Prism-How-to-Make-Our-Platforms-Less-Polarizing-etv8sk",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#452 Christopher Bail - Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing",
+	"youtubeid": "2THC1-nCR0E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 31st 2021.  
 Dr. Christopher Bail is Professor of Sociology, Public Policy, and Data Science at Duke University, where he directs the Polarization Lab. A leader in the emerging field of computational social science, Dr. Bail’s research examines fundamental questions of social psychology, extremism, and political polarization using social media data, bots, and the latest advances in machine learning. Dr. Bail is the recipient of Guggenheim and Carnegie Fellowships. His research appears in top journals, such as Science, the Proceedings of the National Academy of Sciences, and the American Sociological Review. His book, Terrified: How Anti-Muslim Fringe Organizations Became Mainstream, received three awards and resulted in an invitation to address the 2016 Democratic National Convention. He is the author of the recent book, Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing.
 
@@ -53,5 +43,3 @@ Website: https://bit.ly/2M6EnAp
 ResearchGate profile: https://bit.ly/2O77kwP  
 Breaking the Social Media Prism: https://amzn.to/2QPcgaF  
 Twitter handle: @chris_bail
-</div>
-

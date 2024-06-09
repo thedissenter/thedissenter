@@ -1,31 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/34414871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Fc908075f-8fc2-8517-b755-2e4795b27ca7.m4a
-draft: false
-excerpt: "Dr. James Costa is Executive Director of the Highlands Biological Station\
-  \ and Professor of Evolutionary Biology at Western Carolina University, where he\
-  \ has taught courses in genetics, entomology, evolution, and biogeography since\
-  \ 1996. His many interests include insect behavior and ecology, environmental history\
-  \ and philosophy, conservation biology, and the history of science. His research\
-  \ has focused in recent years on Charles Darwin, Alfred Russel Wallace, and the\
-  \ history of evolutionary thought. He has authored numerous research papers, reviews,\
-  \ magazine articles, and 7 books, including Darwin's Backyard: How Small Experiments\
-  \ Led to a Big Theory (W. W. Norton, 2017) \u2014 a finalist for the American Association\
-  \ for the Advancement of Science/Subaru Prize \u2014 and the co-edited volume An\
-  \ Alfred Russel Wallace Companion (Chicago, 2019)."
-id: '517'
-image: https://i.ytimg.com/vi/ct4KCl58bak/maxresdefault.jpg
-publishDate: 2021-09-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/517-James-Costa-Darwin--Wallace--The-Origin-of-Species--and-The-Descent-of-Man-150th-anniversary-e11ooqn
-tags:
-- Biology
-- Anthropology
-- Philosophy
-title: '#517 James Costa: Darwin, Wallace, The Origin of Species, and The Descent
-  of Man (150th anniversary)'
-youtubeid: ct4KCl58bak
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/34414871/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Fc908075f-8fc2-8517-b755-2e4795b27ca7.m4a",
+	"draft": false,
+	"episodeid": "517",
+	"excerpt": "Dr. James Costa is Executive Director of the Highlands Biological Station and Professor of Evolutionary Biology at Western Carolina University, where he has taught courses in genetics, entomology, evolution, and biogeography since 1996. His many interests include insect behavior and ecology, environmental history and philosophy, conservation biology, and the history of science. His research has focused in recent years on Charles Darwin, Alfred Russel Wallace, and the history of evolutionary thought. He has authored numerous research papers, reviews, magazine articles, and 7 books, including Darwin's Backyard: How Small Experiments Led to a Big Theory (W. W. Norton, 2017) — a finalist for the American Association for the Advancement of Science/Subaru Prize — and the co-edited volume An Alfred Russel Wallace Companion (Chicago, 2019).",
+	"image": "https://i.ytimg.com/vi/ct4KCl58bak/maxresdefault.jpg",
+	"publishDate": 2021-09-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/517-James-Costa-Darwin--Wallace--The-Origin-of-Species--and-The-Descent-of-Man-150th-anniversary-e11ooqn",
+	"tags": [
+		"Biology",
+		"Anthropology",
+		"Philosophy"
+	],
+	"title": "#517 James Costa: Darwin, Wallace, The Origin of Species, and The Descent of Man (150th anniversary)",
+	"youtubeid": "ct4KCl58bak"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 27th 2021.  
 Dr. James Costa is Executive Director of the Highlands Biological Station and Professor of Evolutionary Biology at Western Carolina University, where he has taught courses in genetics, entomology, evolution, and biogeography since 1996. His many interests include insect behavior and ecology, environmental history and philosophy, conservation biology, and the history of science. His research has focused in recent years on Charles Darwin, Alfred Russel Wallace, and the history of evolutionary thought. He has authored numerous research papers, reviews, magazine articles, and 7 books, including Darwin's Backyard: How Small Experiments Led to a Big Theory (W. W. Norton, 2017) — a finalist for the American Association for the Advancement of Science/Subaru Prize — and the co-edited volume An Alfred Russel Wallace Companion (Chicago, 2019).
 
@@ -50,5 +40,3 @@ Faculty page: https://bit.ly/3hXxyOM
 Website: https://bit.ly/3wAMyGz  
 ResearchGate profile: https://bit.ly/3bpMXmn  
 Amazon page: https://amzn.to/3hUTdHB
-</div>
-

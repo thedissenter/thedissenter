@@ -1,30 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8984628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38453697-44100-2-406a801b5c62e.m4a
-draft: false
-excerpt: "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind\
-  \ Center and the Department of Cognitive Science, at Central European University,\
-  \ Budapest. In particular he studies communication, and how it makes us human. His\
-  \ first book, Speaking Our Minds, was reviewed as \u201CThe most important and the\
-  \ best book ever written on the evolution of language\u201D and \u201CThe best linguistics\
-  \ book I\u2019ve read in 10 years\u201D. He\u2019s written short pieces for outlets\
-  \ such as Aeon, Scientific American, The Conversation; and he has given public talks\
-  \ for TEDx, British Humanist Association, Skeptics In The Pub, Digital Science and\
-  \ others. His academic articles and broader interests span cultural evolution, primate\
-  \ communication, language acquisition, philosophy of language, and others."
-id: '299'
-image: https://i.ytimg.com/vi/hBkdOrXR9nY/maxresdefault.jpg
-publishDate: 2020-02-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/299-Thom-Scott-Phillips-The-Biological-And-Cultural-Bases-Of-Language-e9gmjk
-tags:
-- Linguistics
-- Biology
-- Anthropology
-- Psychology
-title: '#299 Thom Scott-Phillips: The Biological And Cultural Bases Of Language'
-youtubeid: hBkdOrXR9nY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8984628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38453697-44100-2-406a801b5c62e.m4a",
+	"draft": false,
+	"episodeid": "299",
+	"excerpt": "Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind Center and the Department of Cognitive Science, at Central European University, Budapest. In particular he studies communication, and how it makes us human. His first book, Speaking Our Minds, was reviewed as “The most important and the best book ever written on the evolution of language” and “The best linguistics book I’ve read in 10 years”. He’s written short pieces for outlets such as Aeon, Scientific American, The Conversation; and he has given public talks for TEDx, British Humanist Association, Skeptics In The Pub, Digital Science and others. His academic articles and broader interests span cultural evolution, primate communication, language acquisition, philosophy of language, and others.",
+	"image": "https://i.ytimg.com/vi/hBkdOrXR9nY/maxresdefault.jpg",
+	"publishDate": 2020-02-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/299-Thom-Scott-Phillips-The-Biological-And-Cultural-Bases-Of-Language-e9gmjk",
+	"tags": [
+		"Linguistics",
+		"Biology",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#299 Thom Scott-Phillips: The Biological And Cultural Bases Of Language",
+	"youtubeid": "hBkdOrXR9nY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 11th, 2019.  
 Dr. Thomas Scott-Phillips is a Senior Research Scientist in the Social Mind Center and the Department of Cognitive Science, at Central European University, Budapest. In particular he studies communication, and how it makes us human. His first book, Speaking Our Minds, was reviewed as “The most important and the best book ever written on the evolution of language” and “The best linguistics book I’ve read in 10 years”. He’s written short pieces for outlets such as Aeon, Scientific American, The Conversation; and he has given public talks for TEDx, British Humanist Association, Skeptics In The Pub, Digital Science and others. His academic articles and broader interests span cultural evolution, primate communication, language acquisition, philosophy of language, and others.
 
@@ -55,5 +47,3 @@ Personal website: http://bit.ly/2k02PoL
 Research works on ResearchGate: http://bit.ly/2lA03qV  
 Speaking Our Minds: Why human communication is different, and how language evolved to make it special: https://amzn.to/2LKp9O6  
 Twitter handle: @tscottphillips
-</div>
-

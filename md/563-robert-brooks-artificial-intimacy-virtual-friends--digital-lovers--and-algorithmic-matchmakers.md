@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/44074370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F59d87a3d-767c-9d48-74d9-01f13a5b59b7.m4a
-draft: false
-excerpt: "Dr. Robert Brooks is Professor of Evolution at the University of New South\
-  \ Wales in Sydney, Australia. He studies the evolution of mate choice, the costs\
-  \ of being attractive, sexual conflict, the reason animals age and the links between\
-  \ sex, diet, obesity and death. He is the author of Sex, Genes & Rock \u2018n\u2019\
-  \ Roll: How Evolution has Shaped the Modern World, and, more recently, Artificial\
-  \ Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers."
-id: '563'
-image: https://i.ytimg.com/vi/qiSGH9UVokY/maxresdefault.jpg
-publishDate: 2021-12-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/563-Robert-Brooks-Artificial-Intimacy-Virtual-Friends--Digital-Lovers--and-Algorithmic-Matchmakers-e1avhu2
-tags:
-- Biology
-- Psychology
-title: '#563 Robert Brooks Artificial Intimacy: Virtual Friends, Digital Lovers, and
-  Algorithmic Matchmakers'
-youtubeid: qiSGH9UVokY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/44074370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F59d87a3d-767c-9d48-74d9-01f13a5b59b7.m4a",
+	"draft": false,
+	"episodeid": "563",
+	"excerpt": "Dr. Robert Brooks is Professor of Evolution at the University of New South Wales in Sydney, Australia. He studies the evolution of mate choice, the costs of being attractive, sexual conflict, the reason animals age and the links between sex, diet, obesity and death. He is the author of Sex, Genes & Rock ‘n’ Roll: How Evolution has Shaped the Modern World, and, more recently, Artificial Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers.",
+	"image": "https://i.ytimg.com/vi/qiSGH9UVokY/maxresdefault.jpg",
+	"publishDate": 2021-12-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/563-Robert-Brooks-Artificial-Intimacy-Virtual-Friends--Digital-Lovers--and-Algorithmic-Matchmakers-e1avhu2",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#563 Robert Brooks Artificial Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers",
+	"youtubeid": "qiSGH9UVokY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 29th 2021.  
 Dr. Robert Brooks is Professor of Evolution at the University of New South Wales in Sydney, Australia. He studies the evolution of mate choice, the costs of being attractive, sexual conflict, the reason animals age and the links between sex, diet, obesity and death. He is the author of Sex, Genes & Rock ‘n’ Roll: How Evolution has Shaped the Modern World, and, more recently, Artificial Intimacy: Virtual Friends, Digital Lovers, and Algorithmic Matchmakers.
 
@@ -44,5 +39,3 @@ Follow Dr. Brooks’ work:
 Faculty page: https://bit.ly/3wJQLrL  
 Works on ResearchGate: https://bit.ly/3ofTO8j  
 Artificial Intimacy: https://amzn.to/35COPWg
-</div>
-

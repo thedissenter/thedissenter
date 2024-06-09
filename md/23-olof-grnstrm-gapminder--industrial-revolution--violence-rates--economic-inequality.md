@@ -1,19 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600075-44100-2-8dc5331707da5.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '23'
-image: https://i.ytimg.com/vi/3y-KOM2YiVY/maxresdefault.jpg
-publishDate: 2018-05-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/23-Olof-Grnstrm-Gapminder--Industrial-Revolution--Violence-Rates--Economic-Inequality-e2r96q
-tags:
-- Economics
-title: "#23 Olof Gr\xE4nstr\xF6m: Gapminder, Industrial Revolution, Violence Rates,\
-  \ Economic Inequality"
-youtubeid: 3y-KOM2YiVY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600075-44100-2-8dc5331707da5.mp3",
+	"draft": false,
+	"episodeid": "23",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/3y-KOM2YiVY/maxresdefault.jpg",
+	"publishDate": 2018-05-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/23-Olof-Grnstrm-Gapminder--Industrial-Revolution--Violence-Rates--Economic-Inequality-e2r96q",
+	"tags": [
+		"Economics"
+	],
+	"title": "#23 Olof Gränström: Gapminder, Industrial Revolution, Violence Rates, Economic Inequality",
+	"youtubeid": "3y-KOM2YiVY"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -32,5 +32,4 @@ Aqui, falamos sobre a história da Gapminder e do Dr. Hans Rosling; as fontes pa
 Follow Gapminder:  
 Website: https://www.gapminder.org/  
 Book Factfulness: https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250107814  
-Twitter handle: @Gapminder</div>
-
+Twitter handle: @Gapminder

@@ -1,31 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3721104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877752-44100-2-613161a374034.m4a
-draft: false
-excerpt: "Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon\
-  \ in 1996 after studying Physics at the University of Lisbon. He taught Mathematics\
-  \ and IT in Secondary and Polythecnical schools. In 2014 he obtained his PhD in\
-  \ the Philosophy of Contemporary Thought at the Universidade Lus\xF3fona de Humanidades\
-  \ e Tecnologias, with the dissertation \u201CThe Epistemology of Choice \u2013 On\
-  \ the possibility of artificial simulation of human intelligence\u201D. In 2015\
-  \ Dr. Castro became a member of the Center for Philosophy of Science of the University\
-  \ of Lisbon in the Philosophy of Nature Sciences Research Group, working on Philosophy\
-  \ of Quantum Physics. Recently, and pursuing more foundational questions in Physics,\
-  \ he\u2019s started working on the Philosophy of Quantum Gravity. He is also very\
-  \ interested in both Artificial Intelligence and Environmental Philosophy, related\
-  \ to Sustainability."
-id: '213'
-image: https://i.ytimg.com/vi/EMK2GaA-jjU/maxresdefault.jpg
-publishDate: 2019-08-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/213-Paulo-Castro-Philosophy-of-Quantum-Physics--Pilot-Wave-Theory--And-the-EmDrive-e4g2eg
-tags:
-- General Science
-- Philosophy
-title: '#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And the
-  EmDrive'
-youtubeid: EMK2GaA-jjU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3721104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-5-30%2F17877752-44100-2-613161a374034.m4a",
+	"draft": false,
+	"episodeid": "213",
+	"excerpt": "Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon in 1996 after studying Physics at the University of Lisbon. He taught Mathematics and IT in Secondary and Polythecnical schools. In 2014 he obtained his PhD in the Philosophy of Contemporary Thought at the Universidade Lusófona de Humanidades e Tecnologias, with the dissertation “The Epistemology of Choice – On the possibility of artificial simulation of human intelligence”. In 2015 Dr. Castro became a member of the Center for Philosophy of Science of the University of Lisbon in the Philosophy of Nature Sciences Research Group, working on Philosophy of Quantum Physics. Recently, and pursuing more foundational questions in Physics, he’s started working on the Philosophy of Quantum Gravity. He is also very interested in both Artificial Intelligence and Environmental Philosophy, related to Sustainability.",
+	"image": "https://i.ytimg.com/vi/EMK2GaA-jjU/maxresdefault.jpg",
+	"publishDate": 2019-08-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/213-Paulo-Castro-Philosophy-of-Quantum-Physics--Pilot-Wave-Theory--And-the-EmDrive-e4g2eg",
+	"tags": [
+		"General Science",
+		"Philosophy"
+	],
+	"title": "#213 Paulo Castro: Philosophy of Quantum Physics, Pilot Wave Theory, And the EmDrive",
+	"youtubeid": "EMK2GaA-jjU"
+}
 ---
-<div class="timelinks">
-
 Dr. PauIo Castro graduated in Anthropology at the NOVA University of Lisbon in 1996 after studying Physics at the University of Lisbon. He taught Mathematics and IT in Secondary and Polythecnical schools. In 2014 he obtained his PhD in the Philosophy of Contemporary Thought at the Universidade Lusófona de Humanidades e Tecnologias, with the dissertation “The Epistemology of Choice – On the possibility of artificial simulation of human intelligence”. In 2015 Dr. Castro became a member of the Center for Philosophy of Science of the University of Lisbon in the Philosophy of Nature Sciences Research Group, working on Philosophy of Quantum Physics. Recently, and pursuing more foundational questions in Physics, he’s started working on the Philosophy of Quantum Gravity. He is also very interested in both Artificial Intelligence and Environmental Philosophy, related to Sustainability.
 
 In this episode, we get into the Philosophy of Quantum Mechanics. We talk about the pilot wave theory, quantum gravity, and the EmDrive, or the radio frequency (RF) resonant cavity thruster. In the last part of the interview, we also discuss the relationship between philosophy and science in the modern era. 
@@ -57,5 +46,3 @@ Pilot wave theory: https://bit.ly/2DJqJ14
 This Overlooked Theory Could Be The Missing Piece That Explains How The EM Drive Works: https://bit.ly/2ITiyyx  
 RF resonant cavity thruster (EmDrive): https://bit.ly/2CR2T1x  
 Newton's Third Law: https://bit.ly/2PWcKH9
-</div>
-

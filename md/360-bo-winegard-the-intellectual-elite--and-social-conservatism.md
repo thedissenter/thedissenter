@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/17368864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F9df2e3ab-f06e-674a-22d8-30785389be3a.m4a
-draft: false
-excerpt: "Dr. Bo Winegard generally approaches psychological puzzles from an evolutionary\
-  \ perspective, applying Darwin's theory of natural selection to the human mind.\
-  \ He focuses mostly on status, group differences, individual differences, bias,\
-  \ methods, and political psychology. He\u2019s also the cohost, together with Cory\
-  \ Clark, of the Psyphilopod podcast."
-id: '360'
-image: https://i.ytimg.com/vi/lteZOrSDtwE/maxresdefault.jpg
-publishDate: 2020-09-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/360-Bo-Winegard-The-Intellectual-Elite--and-Social-Conservatism-ehgib0
-tags:
-- Psychology
-title: '#360 Bo Winegard: The Intellectual Elite, and Social Conservatism'
-youtubeid: lteZOrSDtwE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/17368864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F9df2e3ab-f06e-674a-22d8-30785389be3a.m4a",
+	"draft": false,
+	"episodeid": "360",
+	"excerpt": "Dr. Bo Winegard generally approaches psychological puzzles from an evolutionary perspective, applying Darwin's theory of natural selection to the human mind. He focuses mostly on status, group differences, individual differences, bias, methods, and political psychology. He’s also the cohost, together with Cory Clark, of the Psyphilopod podcast.",
+	"image": "https://i.ytimg.com/vi/lteZOrSDtwE/maxresdefault.jpg",
+	"publishDate": 2020-09-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/360-Bo-Winegard-The-Intellectual-Elite--and-Social-Conservatism-ehgib0",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#360 Bo Winegard: The Intellectual Elite, and Social Conservatism",
+	"youtubeid": "lteZOrSDtwE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 31st, 2020.  
 Dr. Bo Winegard generally approaches psychological puzzles from an evolutionary perspective, applying Darwin's theory of natural selection to the human mind. He focuses mostly on status, group differences, individual differences, bias, methods, and political psychology. He’s also the cohost, together with Cory Clark, of the Psyphilopod podcast.
 
@@ -42,5 +39,3 @@ Quillette essays: https://tinyurl.com/y2ght8va
 Psyphilopod podcast: https://tinyurl.com/y3ny5tkw  
 Patreon account: https://bit.ly/3fiUq6o  
 Twitter handle: @EPoe187
-</div>
-

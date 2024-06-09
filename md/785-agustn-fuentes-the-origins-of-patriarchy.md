@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/64668343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F2e9a8a14-916c-dbf6-4ddb-458b9f95545a.m4a
-draft: false
-excerpt: "Dr. Agust\xEDn Fuentes is Professor of Anthropology at Princeton University.\
-  \ His research focuses on the biosocial, delving into the entanglement of biological\
-  \ systems with the social and cultural lives of humans, our ancestors, and a few\
-  \ of the other animals with whom humanity shares close relations. Dr. Fuentes was\
-  \ awarded the Inaugural Communication & Outreach Award from the American Association\
-  \ of Physical Anthropologists, the President\u2019s Award from the American Anthropological\
-  \ Association, and elected to the American Academy of Arts and Sciences. He is the\
-  \ author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths\
-  \ about Human Nature, and Why We Believe: Evolution and the Human Way of Being."
-id: '785'
-image: https://i.ytimg.com/vi/-WBf8O3--qg/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/785-agust%C3%ADn-fuentes-the-origins-of-patriarchy/id1451347236?i=1000614034558&uo=4
-publishDate: 2023-05-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/785-Agustn-Fuentes-The-Origins-of-Patriarchy-e1uk17n
-tags:
-- Anthropology
-title: "#785 Agust\xEDn Fuentes: The Origins of Patriarchy"
-youtubeid: -WBf8O3--qg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/64668343/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-7%2F2e9a8a14-916c-dbf6-4ddb-458b9f95545a.m4a",
+	"draft": false,
+	"episodeid": "785",
+	"excerpt": "Dr. Agustín Fuentes is Professor of Anthropology at Princeton University. His research focuses on the biosocial, delving into the entanglement of biological systems with the social and cultural lives of humans, our ancestors, and a few of the other animals with whom humanity shares close relations. Dr. Fuentes was awarded the Inaugural Communication & Outreach Award from the American Association of Physical Anthropologists, the President’s Award from the American Anthropological Association, and elected to the American Academy of Arts and Sciences. He is the author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths about Human Nature, and Why We Believe: Evolution and the Human Way of Being.",
+	"image": "https://i.ytimg.com/vi/-WBf8O3--qg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/785-agust%C3%ADn-fuentes-the-origins-of-patriarchy/id1451347236?i=1000614034558&uo=4",
+	"publishDate": 2023-05-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/785-Agustn-Fuentes-The-Origins-of-Patriarchy-e1uk17n",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#785 Agustín Fuentes: The Origins of Patriarchy",
+	"youtubeid": "-WBf8O3--qg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 7th 2023.  
 Dr. Agustín Fuentes is Professor of Anthropology at Princeton University. His research focuses on the biosocial, delving into the entanglement of biological systems with the social and cultural lives of humans, our ancestors, and a few of the other animals with whom humanity shares close relations. Dr. Fuentes was awarded the Inaugural Communication & Outreach Award from the American Association of Physical Anthropologists, the President’s Award from the American Anthropological Association, and elected to the American Academy of Arts and Sciences. He is the author of books like Race, Monogamy, and Other Lies They Told You: Busting Myths about Human Nature, and Why We Believe: Evolution and the Human Way of Being.
 
@@ -50,5 +43,3 @@ Faculty page: https://bit.ly/3qkFfPM
 Works on ResearchGate: https://bit.ly/3g50Ici  
 Books on Amazon: https://amzn.to/3pk9VSj  
 Twitter handle: @Anthrofuentes
-</div>
-

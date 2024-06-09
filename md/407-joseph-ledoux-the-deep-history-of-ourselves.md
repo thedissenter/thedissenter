@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20861358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2F44a976aa-9821-038b-bac9-e662b8911600.m4a
-draft: false
-excerpt: "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Professor\
-  \ of Neural Science, Professor of Psychiatry, and Professor of Child and Adolescent\
-  \ Psychiatry at New York University. His work is focused on the brain mechanisms\
-  \ of emotion and memory. He\u2019s the author of many books, the most recent one\
-  \ being The Deep History of Ourselves: The Four-Billion-Year Story of How We Got\
-  \ Conscious Brains."
-id: '407'
-image: https://i.ytimg.com/vi/TzhqTRtHx8w/maxresdefault.jpg
-publishDate: 2020-12-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/407-Joseph-LeDoux-The-Deep-History-of-Ourselves-ekr4ve
-tags:
-- Neuroscience
-title: '#407 Joseph LeDoux: The Deep History of Ourselves'
-youtubeid: TzhqTRtHx8w
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20861358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-9%2F44a976aa-9821-038b-bac9-e662b8911600.m4a",
+	"draft": false,
+	"episodeid": "407",
+	"excerpt": "Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Professor of Neural Science, Professor of Psychiatry, and Professor of Child and Adolescent Psychiatry at New York University. His work is focused on the brain mechanisms of emotion and memory. He’s the author of many books, the most recent one being The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains.",
+	"image": "https://i.ytimg.com/vi/TzhqTRtHx8w/maxresdefault.jpg",
+	"publishDate": 2020-12-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/407-Joseph-LeDoux-The-Deep-History-of-Ourselves-ekr4ve",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#407 Joseph LeDoux: The Deep History of Ourselves",
+	"youtubeid": "TzhqTRtHx8w"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 8th 2020.  
 Dr. Joseph LeDoux is the Henry and Lucy Moses Professor of Science, Professor of Neural Science, Professor of Psychiatry, and Professor of Child and Adolescent Psychiatry at New York University. His work is focused on the brain mechanisms of emotion and memory. He’s the author of many books, the most recent one being The Deep History of Ourselves: The Four-Billion-Year Story of How We Got Conscious Brains.
 
@@ -39,5 +35,3 @@ Personal website: http://bit.ly/2sjuZzv
 Books on Amazon: https://amzn.to/3nsP6Tn  
 The Deep History of Ourselves: https://amzn.to/2Qq0L5L  
 Twitter handle: @theamygdaloid
-</div>
-

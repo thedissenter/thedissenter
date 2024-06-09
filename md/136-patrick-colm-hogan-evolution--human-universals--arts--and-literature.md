@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2016892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778581-44100-2-8baf83d4f32a1.m4a
-draft: false
-excerpt: "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of English,\
-  \ and the Institute for Brain and Cognitive Sciences, at the University of Connecticut,\
-  \ US. His specialties are: literary theory, cognitive and affective science of literature,\
-  \ and world literature. He\u2019s the author of several books, including The Mind\
-  \ and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity.\
-  \  "
-id: '136'
-image: https://i.ytimg.com/vi/pcbSQQEfiZc/maxresdefault.jpg
-publishDate: 2019-02-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/136-Patrick-Colm-Hogan-Evolution--Human-Universals--Arts--and-Literature-e2s25s
-tags:
-- Neuroscience
-title: '#136 Patrick Colm Hogan: Evolution, Human Universals, Arts, and Literature'
-youtubeid: pcbSQQEfiZc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2016892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7778581-44100-2-8baf83d4f32a1.m4a",
+	"draft": false,
+	"episodeid": "136",
+	"excerpt": "Dr. Patrick Colm Hogan is Distinguished Professor of the Department of English, and the Institute for Brain and Cognitive Sciences, at the University of Connecticut, US. His specialties are: literary theory, cognitive and affective science of literature, and world literature. He’s the author of several books, including The Mind and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity.  ",
+	"image": "https://i.ytimg.com/vi/pcbSQQEfiZc/maxresdefault.jpg",
+	"publishDate": 2019-02-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/136-Patrick-Colm-Hogan-Evolution--Human-Universals--Arts--and-Literature-e2s25s",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#136 Patrick Colm Hogan: Evolution, Human Universals, Arts, and Literature",
+	"youtubeid": "pcbSQQEfiZc"
+}
 ---
-<div class="timelinks">
-
 Dr. Patrick Colm Hogan is Distinguished Professor of the Department of English, and the Institute for Brain and Cognitive Sciences, at the University of Connecticut, US. His specialties are: literary theory, cognitive and affective science of literature, and world literature. He’s the author of several books, including The Mind and Its Stories, What Literature Teaches Us About Emotion, and Beauty and Sublimity.  
 In this episode, we talk about human universals. First, we discuss what are human universals, and how we can determine them. Then, we talk more specifically about aesthetic human universals, including their evolutionary bases; sexual selection; Individual and social experiences of aesthetics; universals in literary fiction; the social function of literature; and literature, storytelling and theory of mind.
 
@@ -42,5 +38,3 @@ Literary Universals Project: https://literary-universals.uconn.edu/
 Faculty page: https://tinyurl.com/y8py757c  
 Articles on Researchgate: https://tinyurl.com/y92n42be  
 Books: https://tinyurl.com/y7tz3fcd
-</div>
-

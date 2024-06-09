@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/14131988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75648906-44100-2-4f07093509306.m4a
-draft: false
-excerpt: "Dr. Laura Crucianelli currently works as a postdoctoral researcher in Henrik\
-  \ Erhsson\u2019s lab at the Karolinska Institute, in Stockholm. Dr. Crucianelli\
-  \ completed her PhD at the Department of Psychology, University of Hertfordshire,\
-  \ and in collaboration with University College London under the supervision of Dr.\
-  \ Paul Jenkinson and Dr. Katerina Fotopoulou.  Her PhD project investigated affective\
-  \ touch, sense of body ownership and interoceptive awareness in both healthy and\
-  \ clinical populations."
-id: '347'
-image: https://i.ytimg.com/vi/1jvKL3Jaetk/maxresdefault.jpg
-publishDate: 2020-07-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/347-Laura-Crucianelli-Interoception--Affective-Touch--And-Anorexia-Nervosa-eedpak
-tags:
-- Psychology
-title: '#347 Laura Crucianelli: Interoception, Affective Touch, And Anorexia Nervosa'
-youtubeid: 1jvKL3Jaetk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/14131988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75648906-44100-2-4f07093509306.m4a",
+	"draft": false,
+	"episodeid": "347",
+	"excerpt": "Dr. Laura Crucianelli currently works as a postdoctoral researcher in Henrik Erhsson’s lab at the Karolinska Institute, in Stockholm. Dr. Crucianelli completed her PhD at the Department of Psychology, University of Hertfordshire, and in collaboration with University College London under the supervision of Dr. Paul Jenkinson and Dr. Katerina Fotopoulou.  Her PhD project investigated affective touch, sense of body ownership and interoceptive awareness in both healthy and clinical populations.",
+	"image": "https://i.ytimg.com/vi/1jvKL3Jaetk/maxresdefault.jpg",
+	"publishDate": 2020-07-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/347-Laura-Crucianelli-Interoception--Affective-Touch--And-Anorexia-Nervosa-eedpak",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#347 Laura Crucianelli: Interoception, Affective Touch, And Anorexia Nervosa",
+	"youtubeid": "1jvKL3Jaetk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 6th 2020.  
 Dr. Laura Crucianelli currently works as a postdoctoral researcher in Henrik Erhsson’s lab at the Karolinska Institute, in Stockholm. Dr. Crucianelli completed her PhD at the Department of Psychology, University of Hertfordshire, and in collaboration with University College London under the supervision of Dr. Paul Jenkinson and Dr. Katerina Fotopoulou.  Her PhD project investigated affective touch, sense of body ownership and interoceptive awareness in both healthy and clinical populations.
 
@@ -43,5 +38,3 @@ Faculty page: https://bit.ly/2W7qTq0
 Brain, Body & Self Laboratory: https://bit.ly/3fsz4Vo  
 ResearchGate profile: http://bit.ly/36YfwTq  
 Twitter handle: @lauracrucianel1
-</div>
-

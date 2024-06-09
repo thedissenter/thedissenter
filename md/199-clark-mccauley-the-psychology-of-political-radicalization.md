@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3215395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623248-44100-2-7a2b9f3577db5.m4a
-draft: false
-excerpt: "Dr. Clark McCauley is a Research Professor of Psychology and co-director\
-  \ of the Solomon Asch Center for the Study of Ethnopolitical Conflict at Bryn Mawr\
-  \ College.  His research interests include the psychology of group identification,\
-  \ group dynamics and intergroup conflict, and the psychological foundations of ethnic\
-  \ conflict and genocide.  He is founding editor of the journal Dynamics of Asymmetric\
-  \ Conflict: Pathways toward Terrorism and Genocide. He\u2019s also the author of\
-  \ several books, including Why Not Kill Them All? The Logic and Prevention of Mass\
-  \ Political Murder (2006), Friction: How Conflict Radicalizes Them and Us (2011),\
-  \ and The Marvel of Martyrdom: The Power of Self-Sacrifice in a Selfish World (2018)."
-id: '199'
-image: https://i.ytimg.com/vi/9YoHF6wvtvs/maxresdefault.jpg
-publishDate: 2019-07-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/199-Clark-McCauley-The-Psychology-of-Political-Radicalization-e40kj3
-tags:
-- Psychology
-title: '#199 Clark McCauley: The Psychology of Political Radicalization'
-youtubeid: 9YoHF6wvtvs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3215395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-4-12%2F14623248-44100-2-7a2b9f3577db5.m4a",
+	"draft": false,
+	"episodeid": "199",
+	"excerpt": "Dr. Clark McCauley is a Research Professor of Psychology and co-director of the Solomon Asch Center for the Study of Ethnopolitical Conflict at Bryn Mawr College.  His research interests include the psychology of group identification, group dynamics and intergroup conflict, and the psychological foundations of ethnic conflict and genocide.  He is founding editor of the journal Dynamics of Asymmetric Conflict: Pathways toward Terrorism and Genocide. He’s also the author of several books, including Why Not Kill Them All? The Logic and Prevention of Mass Political Murder (2006), Friction: How Conflict Radicalizes Them and Us (2011), and The Marvel of Martyrdom: The Power of Self-Sacrifice in a Selfish World (2018).",
+	"image": "https://i.ytimg.com/vi/9YoHF6wvtvs/maxresdefault.jpg",
+	"publishDate": 2019-07-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/199-Clark-McCauley-The-Psychology-of-Political-Radicalization-e40kj3",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#199 Clark McCauley: The Psychology of Political Radicalization",
+	"youtubeid": "9YoHF6wvtvs"
+}
 ---
-<div class="timelinks">
-
 Dr. Clark McCauley is a Research Professor of Psychology and co-director of the Solomon Asch Center for the Study of Ethnopolitical Conflict at Bryn Mawr College.  His research interests include the psychology of group identification, group dynamics and intergroup conflict, and the psychological foundations of ethnic conflict and genocide.  He is founding editor of the journal Dynamics of Asymmetric Conflict: Pathways toward Terrorism and Genocide. He’s also the author of several books, including Why Not Kill Them All? The Logic and Prevention of Mass Political Murder (2006), Friction: How Conflict Radicalizes Them and Us (2011), and The Marvel of Martyrdom: The Power of Self-Sacrifice in a Selfish World (2018).
 
 In this episode, we focus on political radicalization mechanisms. We talk about the three levels of political radicalization (individual, group, mass), and some of the main mechanisms that go associated with them, with particular focus on social disconnection, grievance (individual and group), and slippery slope processes. We also discuss how people react to threats and what they perceive to be social and political instability. We also cover essentialist thinking and dehumanization, and the hard-to-understand cases of self-sacrifice and lone-wolf terrorism. Toward the end, we also have time to discuss the mismatch between ideology and action, and some solutions to counter (and mostly to prevent) political radicalization.
@@ -53,5 +46,3 @@ Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder: https
 Friction: How Conflict Radicalizes Them and Us: https://amzn.to/2Va1Q1O  
 The Marvel of Martyrdom: The Power of Self-Sacrifice in a Selfish World: https://amzn.to/302z6Ml  
 Explaining Homegrown Western Jihadists: The Importance of Western Foreign Policy: https://bit.ly/2VfhXvi
-</div>
-

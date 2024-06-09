@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4434234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138158-44100-2-2f3a51ff07018.m4a
-draft: false
-excerpt: Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the University
-  of Texas, Austin, US, under the supervision of David Buss. She is currently a senior
-  lecturer of Psychology at the University of Portsmouth, as well as a member of the
-  Comparative and Evolutionary Psychology group there. Her research interests are
-  hormonal influences on behavior, human sexuality, disgust and, recently, the interface
-  of evolutionary psychology and behaviorism.
-id: '251'
-image: https://i.ytimg.com/vi/o8L6AjJg5OM/maxresdefault.jpg
-publishDate: 2019-11-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/251-Diana-Fleischman-Sex-Robots--Technology--And-The-Future-Of-Human-Relationships-e55qrq
-tags:
-- Psychology
-title: '#251 Diana Fleischman: Sex Robots, Technology, And The Future Of Human Relationships'
-youtubeid: o8L6AjJg5OM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4434234/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138158-44100-2-2f3a51ff07018.m4a",
+	"draft": false,
+	"episodeid": "251",
+	"excerpt": "Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the University of Texas, Austin, US, under the supervision of David Buss. She is currently a senior lecturer of Psychology at the University of Portsmouth, as well as a member of the Comparative and Evolutionary Psychology group there. Her research interests are hormonal influences on behavior, human sexuality, disgust and, recently, the interface of evolutionary psychology and behaviorism.",
+	"image": "https://i.ytimg.com/vi/o8L6AjJg5OM/maxresdefault.jpg",
+	"publishDate": 2019-11-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/251-Diana-Fleischman-Sex-Robots--Technology--And-The-Future-Of-Human-Relationships-e55qrq",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#251 Diana Fleischman: Sex Robots, Technology, And The Future Of Human Relationships",
+	"youtubeid": "o8L6AjJg5OM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 29TH, 2019.  
 Dr. Diana Fleischman completed a PhD in Evolutionary Psychology at the University of Texas, Austin, US, under the supervision of David Buss. She is currently a senior lecturer of Psychology at the University of Portsmouth, as well as a member of the Comparative and Evolutionary Psychology group there. Her research interests are hormonal influences on behavior, human sexuality, disgust and, recently, the interface of evolutionary psychology and behaviorism.
 
@@ -47,5 +43,3 @@ Twitter handle: @sentientist
 Relevant articles:  
 Uncanny Vulvas: http://bit.ly/2TuikCX  
 Will Sex Robots Bring About the End of Civilization? (Glenn Geher): http://bit.ly/2OTVBRO
-</div>
-

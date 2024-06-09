@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9179454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-21%2F40054427-44100-2-28c132a8af3f5.m4a
-draft: false
-excerpt: 'Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research
-  centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial
-  morphology, and how competition among these features may act to constrain the eye
-  and surrounding ocular tissues during ontogeny, as it relates to the disparate incidence
-  & severity of astigmatism and juvenile-onset myopia. Further research interests
-  center on investigating hominin biocultural evolution, astrobiology, astronomy and
-  the physics of time as they relate to the UFO phenomenon. On that pic, he has written
-  a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the
-  UFO Phenomenon.'
-id: '301'
-image: https://i.ytimg.com/vi/j0r6ig0S3Jc/maxresdefault.jpg
-publishDate: 2020-02-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/301-Michael-Masters-The-Anthropology-Of-Identified-Flying-Objects-e9mkru
-tags:
-- Anthropology
-title: '#301 Michael Masters: The Anthropology Of Identified Flying Objects'
-youtubeid: j0r6ig0S3Jc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9179454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-21%2F40054427-44100-2-28c132a8af3f5.m4a",
+	"draft": false,
+	"episodeid": "301",
+	"excerpt": "Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial morphology, and how competition among these features may act to constrain the eye and surrounding ocular tissues during ontogeny, as it relates to the disparate incidence & severity of astigmatism and juvenile-onset myopia. Further research interests center on investigating hominin biocultural evolution, astrobiology, astronomy and the physics of time as they relate to the UFO phenomenon. On that pic, he has written a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon.",
+	"image": "https://i.ytimg.com/vi/j0r6ig0S3Jc/maxresdefault.jpg",
+	"publishDate": 2020-02-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/301-Michael-Masters-The-Anthropology-Of-Identified-Flying-Objects-e9mkru",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#301 Michael Masters: The Anthropology Of Identified Flying Objects",
+	"youtubeid": "j0r6ig0S3Jc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 16th, 2019.  
 Dr. Michael Masters is Professor of Anthropology at Montana Tech. His research centers on investigating human ocular, orbital, midfacial, cerebral and neurocranial morphology, and how competition among these features may act to constrain the eye and surrounding ocular tissues during ontogeny, as it relates to the disparate incidence & severity of astigmatism and juvenile-onset myopia. Further research interests center on investigating hominin biocultural evolution, astrobiology, astronomy and the physics of time as they relate to the UFO phenomenon. On that pic, he has written a book, Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon.
 
@@ -47,5 +40,3 @@ Website: http://bit.ly/2sz5Hgc
 ResearchGate profile: http://bit.ly/2pJOijK  
 Identified Flying Objects: A Multidisciplinary Scientific Approach to the UFO Phenomenon: https://amzn.to/2obda3j  
 Twitter handle: @MorphoTime
-</div>
-

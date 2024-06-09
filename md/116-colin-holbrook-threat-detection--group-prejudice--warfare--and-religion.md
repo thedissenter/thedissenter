@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2011142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735335-44100-2-50dad65c33d1e.mp3
-draft: false
-excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
-  at the University of California, Los Angeles (UCLA). He researches decision-making
-  under contexts of threat, with particular focus on political orientation, group
-  prejudice, and the representation of mental states.
-id: '116'
-image: https://i.ytimg.com/vi/jnrIPHokpVM/maxresdefault.jpg
-publishDate: 2018-12-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/116-Colin-Holbrook-Threat-Detection--Group-Prejudice--Warfare--and-Religion-e2rsi6
-tags:
-- Psychology
-title: '#116 Colin Holbrook: Threat Detection, Group Prejudice, Warfare, and Religion'
-youtubeid: jnrIPHokpVM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2011142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7735335-44100-2-50dad65c33d1e.mp3",
+	"draft": false,
+	"episodeid": "116",
+	"excerpt": "Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California, Los Angeles (UCLA). He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.",
+	"image": "https://i.ytimg.com/vi/jnrIPHokpVM/maxresdefault.jpg",
+	"publishDate": 2018-12-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/116-Colin-Holbrook-Threat-Detection--Group-Prejudice--Warfare--and-Religion-e2rsi6",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#116 Colin Holbrook: Threat Detection, Group Prejudice, Warfare, and Religion",
+	"youtubeid": "jnrIPHokpVM"
+}
 ---
-<div class="timelinks">
-
 Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California, Los Angeles (UCLA). He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.
 
 In this episode, we talk about threat detection; the relationship between threat and fight-or-flight responses; how threat instigates group prejudice; threat in the context of politics and warfare; religion and social cohesion; and the hyperactive agency detection device.
@@ -37,5 +35,3 @@ Follow Dr. Holbrook’s work:
 Faculty page: https://tinyurl.com/ybev97qp  
 Personal website: http://cholbrook01.bol.ucla.edu/  
 Articles on Researchgate: https://tinyurl.com/y6vvu66d
-</div>
-

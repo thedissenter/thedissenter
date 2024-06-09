@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9727811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703524-44100-2-67e5c61564a68.m4a
-draft: false
-excerpt: "Dr. Robert Kelly is Professor of Archaeology at the University of Wyoming.\
-  \ Dr. Kelly has shaped and contributed much to our understanding of hunter-gatherer\
-  \ societies. He has a deep interest in Western North American archaeology, especially\
-  \ in the Great Basin area. Current understanding of hunter-gatherer mobility and\
-  \ foraging patterns are also influenced strongly by his research, fieldwork, and\
-  \ ethnology. By examining the Pleistocene colonization of the Americas by examining\
-  \ artifacts and lithic technology, Dr. Kelly reconstructs past life-ways and compares\
-  \ them to current foraging societies, and examines human adaptation to climate change\
-  \ during different periods in the past. He\u2019s the author of books like The Foraging\
-  \ Spectrum: Diversity in Hunter-Gatherer Lifeways, and The Fifth Beginning: What\
-  \ Six Million Years of Human History Can Tell Us about Our Future."
-id: '313'
-image: https://i.ytimg.com/vi/oiT_S2v6Gfc/maxresdefault.jpg
-publishDate: 2020-03-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/313-Robert-Kelly-The-Fifth-Beginning--And-The-Lifeways-Of-Hunter-Gatherers-ea7cc3
-tags:
-- Archaeology
-- Anthropology
-title: '#313 Robert Kelly: The Fifth Beginning, And The Lifeways Of Hunter-Gatherers'
-youtubeid: oiT_S2v6Gfc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9727811/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-16%2F43703524-44100-2-67e5c61564a68.m4a",
+	"draft": false,
+	"episodeid": "313",
+	"excerpt": "Dr. Robert Kelly is Professor of Archaeology at the University of Wyoming. Dr. Kelly has shaped and contributed much to our understanding of hunter-gatherer societies. He has a deep interest in Western North American archaeology, especially in the Great Basin area. Current understanding of hunter-gatherer mobility and foraging patterns are also influenced strongly by his research, fieldwork, and ethnology. By examining the Pleistocene colonization of the Americas by examining artifacts and lithic technology, Dr. Kelly reconstructs past life-ways and compares them to current foraging societies, and examines human adaptation to climate change during different periods in the past. He’s the author of books like The Foraging Spectrum: Diversity in Hunter-Gatherer Lifeways, and The Fifth Beginning: What Six Million Years of Human History Can Tell Us about Our Future.",
+	"image": "https://i.ytimg.com/vi/oiT_S2v6Gfc/maxresdefault.jpg",
+	"publishDate": 2020-03-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/313-Robert-Kelly-The-Fifth-Beginning--And-The-Lifeways-Of-Hunter-Gatherers-ea7cc3",
+	"tags": [
+		"Archaeology",
+		"Anthropology"
+	],
+	"title": "#313 Robert Kelly: The Fifth Beginning, And The Lifeways Of Hunter-Gatherers",
+	"youtubeid": "oiT_S2v6Gfc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 13th, 2020.  
 Dr. Robert Kelly is Professor of Archaeology at the University of Wyoming. Dr. Kelly has shaped and contributed much to our understanding of hunter-gatherer societies. He has a deep interest in Western North American archaeology, especially in the Great Basin area. Current understanding of hunter-gatherer mobility and foraging patterns are also influenced strongly by his research, fieldwork, and ethnology. By examining the Pleistocene colonization of the Americas by examining artifacts and lithic technology, Dr. Kelly reconstructs past life-ways and compares them to current foraging societies, and examines human adaptation to climate change during different periods in the past. He’s the author of books like The Foraging Spectrum: Diversity in Hunter-Gatherer Lifeways, and The Fifth Beginning: What Six Million Years of Human History Can Tell Us about Our Future.
 
@@ -54,5 +45,3 @@ ResearchGate profile: http://bit.ly/36xbQsR
 Books on Amazon: https://amzn.to/2Cd0ign  
 The Fifth Beginning: What Six Million Years of Human History Can Tell Us about Our Future: https://amzn.to/2POOXeI  
 The Lifeways of Hunter-Gatherers: The Foraging Spectrum: https://amzn.to/2FIdI63
-</div>
-

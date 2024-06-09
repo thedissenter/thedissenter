@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/25460655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2F250ff052-5ba3-36c2-9920-8e250d568b98.m4a
-draft: false
-excerpt: "Dr. Menelaos Apostolou is currently an Associate Professor at the University\
-  \ of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate\
-  \ and graduate studies in the United Kingdom. He has published several peer-reviewed\
-  \ papers, books and chapters in books in the area of evolutionary psychology. He\u2019\
-  s the author of a new book, The Evolution of Same-Sex Attraction."
-id: '431'
-image: https://i.ytimg.com/vi/sVskQ3LVMNw/maxresdefault.jpg
-publishDate: 2021-02-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/431-Menelaos-Apostolou-The-Evolution-of-Same-Sex-Attraction-ep7gff
-tags:
-- Biology
-- Psychology
-title: '#431 Menelaos Apostolou: The Evolution of Same-Sex Attraction'
-youtubeid: sVskQ3LVMNw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/25460655/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-20%2F250ff052-5ba3-36c2-9920-8e250d568b98.m4a",
+	"draft": false,
+	"episodeid": "431",
+	"excerpt": "Dr. Menelaos Apostolou is currently an Associate Professor at the University of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate and graduate studies in the United Kingdom. He has published several peer-reviewed papers, books and chapters in books in the area of evolutionary psychology. He’s the author of a new book, The Evolution of Same-Sex Attraction.",
+	"image": "https://i.ytimg.com/vi/sVskQ3LVMNw/maxresdefault.jpg",
+	"publishDate": 2021-02-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/431-Menelaos-Apostolou-The-Evolution-of-Same-Sex-Attraction-ep7gff",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#431 Menelaos Apostolou: The Evolution of Same-Sex Attraction",
+	"youtubeid": "sVskQ3LVMNw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 19th 2021.  
 Dr. Menelaos Apostolou is currently an Associate Professor at the University of Nicosia, Cyprus. He was born in Athens, Greece and he completed his post-graduate and graduate studies in the United Kingdom. He has published several peer-reviewed papers, books and chapters in books in the area of evolutionary psychology. He’s the author of a new book, The Evolution of Same-Sex Attraction.
 
@@ -42,5 +39,3 @@ ResearchGate profile: http://bit.ly/2psxair
 Amazon page: https://amzn.to/2Nqk9zm  
 Sexual Selection Under Parental Choice: https://amzn.to/2Nqk9zm  
 The Evolution of Same-Sex Attraction: http://amzn.to/38UFbAQ
-</div>
-

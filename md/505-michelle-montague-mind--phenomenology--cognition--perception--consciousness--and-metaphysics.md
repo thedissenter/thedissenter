@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/32565300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2Ff9d2b57b-1e93-48ad-05c3-8db8b9bd64c0.m4a
-draft: false
-excerpt: 'Dr. Michelle Montague is Professor of Philosophy at The University of Texas
-  at Austin. She is interested in philosophy of mind and metaphysics. Dr. Montague
-  is the editor of Non-Propositional Intentionality, Cognitive Phenomenology, and
-  Philosophical Writings by P.F. Strawson (co-edited with Galen Strawson). She is
-  the author of The Given: experience and its content.'
-id: '505'
-image: https://i.ytimg.com/vi/OgRqi_yw_x4/maxresdefault.jpg
-publishDate: 2021-08-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/505-Michelle-Montague-Mind--Phenomenology--Cognition--Perception--Consciousness--and-Metaphysics-e100ajk
-tags:
-- Philosophy
-title: '#505 Michelle Montague: Mind, Phenomenology, Cognition, Perception, Consciousness,
-  and Metaphysics'
-youtubeid: OgRqi_yw_x4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/32565300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2Ff9d2b57b-1e93-48ad-05c3-8db8b9bd64c0.m4a",
+	"draft": false,
+	"episodeid": "505",
+	"excerpt": "Dr. Michelle Montague is Professor of Philosophy at The University of Texas at Austin. She is interested in philosophy of mind and metaphysics. Dr. Montague is the editor of Non-Propositional Intentionality, Cognitive Phenomenology, and Philosophical Writings by P.F. Strawson (co-edited with Galen Strawson). She is the author of The Given: experience and its content.",
+	"image": "https://i.ytimg.com/vi/OgRqi_yw_x4/maxresdefault.jpg",
+	"publishDate": 2021-08-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/505-Michelle-Montague-Mind--Phenomenology--Cognition--Perception--Consciousness--and-Metaphysics-e100ajk",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#505 Michelle Montague: Mind, Phenomenology, Cognition, Perception, Consciousness, and Metaphysics",
+	"youtubeid": "OgRqi_yw_x4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 29th 2021.  
 Dr. Michelle Montague is Professor of Philosophy at The University of Texas at Austin. She is interested in philosophy of mind and metaphysics. Dr. Montague is the editor of Non-Propositional Intentionality, Cognitive Phenomenology, and Philosophical Writings by P.F. Strawson (co-edited with Galen Strawson). She is the author of The Given: experience and its content.
 
@@ -43,5 +39,3 @@ Faculty page: https://bit.ly/3cmHHlm
 PhilPeople page: https://bit.ly/32VKRqj  
 Works on ResearchGate: https://bit.ly/2YmxIEu  
 The Given: https://amzn.to/3sXYxfe
-</div>
-

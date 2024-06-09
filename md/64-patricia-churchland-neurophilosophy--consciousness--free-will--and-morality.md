@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681241-48000-2-77b3413bcb4b7.mp3
-draft: false
-excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her\
-  \ contributions to neurophilosophy and the philosophy of mind. She is UC President's\
-  \ Professor of Philosophy Emerita at the University of California, San Diego (UCSD).\
-  \ She has also held an adjunct professorship at the Salk Institute for Biological\
-  \ Studies since 1989. She is a member of the Board of Trustees Moscow Center for\
-  \ Consciousness Studies of Philosophy Department, at Moscow State University. In\
-  \ 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She\u2019\
-  s also the author of a number of books, including Neurophilosophy: Toward a Unified\
-  \ Science of the Mind-Brain, and Braintrust: What Neuroscience Tells Us about Morality."
-id: '64'
-image: https://i.ytimg.com/vi/3gL63V7aKHU/maxresdefault.jpg
-publishDate: 2018-08-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/64-Patricia-Churchland-Neurophilosophy--Consciousness--Free-Will--and-Morality-e2rj4b
-tags:
-- Philosophy
-title: '#64 Patricia Churchland: Neurophilosophy, Consciousness, Free Will, and Morality'
-youtubeid: 3gL63V7aKHU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681241-48000-2-77b3413bcb4b7.mp3",
+	"draft": false,
+	"episodeid": "64",
+	"excerpt": "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her contributions to neurophilosophy and the philosophy of mind. She is UC President's Professor of Philosophy Emerita at the University of California, San Diego (UCSD). She has also held an adjunct professorship at the Salk Institute for Biological Studies since 1989. She is a member of the Board of Trustees Moscow Center for Consciousness Studies of Philosophy Department, at Moscow State University. In 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She’s also the author of a number of books, including Neurophilosophy: Toward a Unified Science of the Mind-Brain, and Braintrust: What Neuroscience Tells Us about Morality.",
+	"image": "https://i.ytimg.com/vi/3gL63V7aKHU/maxresdefault.jpg",
+	"publishDate": 2018-08-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/64-Patricia-Churchland-Neurophilosophy--Consciousness--Free-Will--and-Morality-e2rj4b",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#64 Patricia Churchland: Neurophilosophy, Consciousness, Free Will, and Morality",
+	"youtubeid": "3gL63V7aKHU"
+}
 ---
-<div class="timelinks">
-
 Dr. Patricia Churchland is a Canadian-American Philosopher noted for her contributions to neurophilosophy and the philosophy of mind. She is UC President's Professor of Philosophy Emerita at the University of California, San Diego (UCSD). She has also held an adjunct professorship at the Salk Institute for Biological Studies since 1989. She is a member of the Board of Trustees Moscow Center for Consciousness Studies of Philosophy Department, at Moscow State University. In 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She’s also the author of a number of books, including Neurophilosophy: Toward a Unified Science of the Mind-Brain, and Braintrust: What Neuroscience Tells Us about Morality.
 
 In this episode, we talk about neurophilosophy and the philosophy of mind. Topics include: how neuroscience informs philosophy; some implications to Epistemology; the issue with evolutionary psychology and cognitive modules; consciousness; the notion of “self”; morality in the brain; free will and moral responsibility; reductionism and emergentism; the future of Philosophy; science and the meaning of life.
@@ -48,5 +41,3 @@ Follow Dr. Churchland’s work:
 Website: http://patriciachurchland.com/  
 Books: https://tinyurl.com/y8zmcex9  
 Twitter handle: @patchurchland
-</div>
-

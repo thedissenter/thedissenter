@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/69258593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1c075f62-f86b-9bd7-0b91-c0695df7d6d1.m4a
-draft: false
-excerpt: "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology\
-  \ at the Department of Philosophy at the University of Vienna. He is former President\
-  \ of the Society for Philosophy and Technology (SPT) and a member of the steering\
-  \ committee of ETHICOMP. Dr. Coeckelbergh is member of the High Level Expert Group\
-  \ on Artificial Intelligence for the European Commission, the Rat f\xFCr Robotik,\
-  \ as well as member of the Technical Expert Committee (TEC) for the Foundation for\
-  \ Responsible Robotics. His work is focused on the area of philosophy of technology.\
-  \ He is the author of several books, including his most recent one, Self-Improvement:\
-  \ Technologies of the Soul in the Age of Artificial Intelligence."
-id: '825'
-image: https://i.ytimg.com/vi/ruTMVM0JSNc/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/825-mark-coeckelbergh-self-improvement-technologies/id1451347236?i=1000625583543&uo=4
-publishDate: 2023-08-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/825-Mark-Coeckelbergh---Self-Improvement-Technologies-of-the-Soul-in-the-Age-of-Artificial-Intelligence-e2303t1
-tags:
-- Philosophy
-title: '#825 Mark Coeckelbergh - Self-Improvement, Technology, and Altruism'
-youtubeid: ruTMVM0JSNc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/69258593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-25%2F1c075f62-f86b-9bd7-0b91-c0695df7d6d1.m4a",
+	"draft": false,
+	"episodeid": "825",
+	"excerpt": "Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology at the Department of Philosophy at the University of Vienna. He is former President of the Society for Philosophy and Technology (SPT) and a member of the steering committee of ETHICOMP. Dr. Coeckelbergh is member of the High Level Expert Group on Artificial Intelligence for the European Commission, the Rat für Robotik, as well as member of the Technical Expert Committee (TEC) for the Foundation for Responsible Robotics. His work is focused on the area of philosophy of technology. He is the author of several books, including his most recent one, Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence.",
+	"image": "https://i.ytimg.com/vi/ruTMVM0JSNc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/825-mark-coeckelbergh-self-improvement-technologies/id1451347236?i=1000625583543&uo=4",
+	"publishDate": 2023-08-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/825-Mark-Coeckelbergh---Self-Improvement-Technologies-of-the-Soul-in-the-Age-of-Artificial-Intelligence-e2303t1",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#825 Mark Coeckelbergh - Self-Improvement, Technology, and Altruism",
+	"youtubeid": "ruTMVM0JSNc"
+}
 ---
-<div class="timelinks">
-
 Dr. Mark Coeckelbergh is Professor of Philosophy of Media and Technology at the Department of Philosophy at the University of Vienna. He is former President of the Society for Philosophy and Technology (SPT) and a member of the steering committee of ETHICOMP. Dr. Coeckelbergh is member of the High Level Expert Group on Artificial Intelligence for the European Commission, the Rat für Robotik, as well as member of the Technical Expert Committee (TEC) for the Foundation for Responsible Robotics. His work is focused on the area of philosophy of technology. He is the author of several books, including his most recent one, Self-Improvement: Technologies of the Soul in the Age of Artificial Intelligence.
 
 In this episode, we focus on Self-Improvement. We start by talking about the philosophical history behind the culture of self-improvement. We discuss how we present ourselves on social media, and the idea of “authenticity”. We talk about spiritual narcissism, and the current popularity of stoicism. We discuss how we obsess with self-improvement, and ignore collective solutions and political and socioeconomic issues. We talk about self-improvement as a means of class signaling, and “technosolutionist” approaches involving transhumanism and self-enhancement. We discuss how neoliberalism ties to self-improvement ideas, and how obsessed we are with being productive. Finally, we talk about how we can reframe self-improvement, and a positive role for technology.
@@ -48,5 +41,3 @@ Faculty page: http://bit.ly/3BkiSCC
 Website: http://bit.ly/3Bkjatc  
 PhilPeople profile: http://bit.ly/3EHw1HX  
 Self-Improvement: http://bit.ly/3UF5dxj
-</div>
-

@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65154584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-16%2F38529dce-5402-eb2b-fa7b-e368eaa0ccfa.m4a
-draft: false
-excerpt: 'Dr. Kennon Sheldon is Curator''s Distinguished Professor in the Department
-  of Psychological Sciences at the University of Missouri. His research is in the
-  areas of well-being, motivation, self-determination theory, personality, and positive
-  psychology. In 2002 he was a recipient of a Templeton Foundation "Positive Psychology"
-  prize, and in 2014 received the Ed and Carol Diener award for mid-career achievement
-  in personality psychology. He is the author of several books, the most recent one
-  being Freely Determined: What the New Psychology of the Self Teaches Us About How
-  to Live.'
-id: '787'
-image: https://i.ytimg.com/vi/Xb5frvOUjGo/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/787-kennon-sheldon-freely-determined-the-new/id1451347236?i=1000614637753&uo=4
-publishDate: 2023-05-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/787-Kennon-Sheldon---Freely-Determined-The-New-Psychology-of-the-Self--and-How-to-Live-e1v2s2o
-tags:
-- Psychology
-title: '#787 Kennon Sheldon - Freely Determined; The New Psychology of the Self, and
-  How to Live'
-youtubeid: Xb5frvOUjGo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65154584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-16%2F38529dce-5402-eb2b-fa7b-e368eaa0ccfa.m4a",
+	"draft": false,
+	"episodeid": "787",
+	"excerpt": "Dr. Kennon Sheldon is Curator's Distinguished Professor in the Department of Psychological Sciences at the University of Missouri. His research is in the areas of well-being, motivation, self-determination theory, personality, and positive psychology. In 2002 he was a recipient of a Templeton Foundation \"Positive Psychology\" prize, and in 2014 received the Ed and Carol Diener award for mid-career achievement in personality psychology. He is the author of several books, the most recent one being Freely Determined: What the New Psychology of the Self Teaches Us About How to Live.",
+	"image": "https://i.ytimg.com/vi/Xb5frvOUjGo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/787-kennon-sheldon-freely-determined-the-new/id1451347236?i=1000614637753&uo=4",
+	"publishDate": 2023-05-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/787-Kennon-Sheldon---Freely-Determined-The-New-Psychology-of-the-Self--and-How-to-Live-e1v2s2o",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#787 Kennon Sheldon - Freely Determined; The New Psychology of the Self, and How to Live",
+	"youtubeid": "Xb5frvOUjGo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 16th 2023.  
 Dr. Kennon Sheldon is Curator's Distinguished Professor in the Department of Psychological Sciences at the University of Missouri. His research is in the areas of well-being, motivation, self-determination theory, personality, and positive psychology. In 2002 he was a recipient of a Templeton Foundation "Positive Psychology" prize, and in 2014 received the Ed and Carol Diener award for mid-career achievement in personality psychology. He is the author of several books, the most recent one being Freely Determined: What the New Psychology of the Self Teaches Us About How to Live.
 
@@ -49,5 +42,3 @@ Follow Dr. Sheldon’s work:
 Faculty page: https://bit.ly/3McflKN  
 ResearchGate profile: https://bit.ly/3Y8OIMd  
 Freely Determined: https://bit.ly/3uCB32s
-</div>
-

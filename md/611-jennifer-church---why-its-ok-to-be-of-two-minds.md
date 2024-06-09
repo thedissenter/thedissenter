@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/46114546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F8f86186c-8d0a-a55c-a7f6-5076e94b4f51.m4a
-draft: false
-excerpt: "Dr. Jennifer Church is a Professor of Philosophy at Vassar College in Poughkeepsie,\
-  \ New York. Her research addresses various topics in the philosophy of mind. She\
-  \ is the author of Possibilities of Perception (Oxford UP, 2013), and Why It\u2019\
-  s OK to Be of Two Minds."
-id: '611'
-image: https://i.ytimg.com/vi/9qpPg-h6scs/maxresdefault.jpg
-publishDate: 2022-04-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/611-Jennifer-Church---Why-Its-Ok-to-be-of-Two-Minds-e1ctq9i
-tags:
-- Philosophy
-title: "#611 Jennifer Church - Why It\u2019s Ok to be of Two Minds"
-youtubeid: 9qpPg-h6scs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/46114546/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F8f86186c-8d0a-a55c-a7f6-5076e94b4f51.m4a",
+	"draft": false,
+	"episodeid": "611",
+	"excerpt": "Dr. Jennifer Church is a Professor of Philosophy at Vassar College in Poughkeepsie, New York. Her research addresses various topics in the philosophy of mind. She is the author of Possibilities of Perception (Oxford UP, 2013), and Why It’s OK to Be of Two Minds.",
+	"image": "https://i.ytimg.com/vi/9qpPg-h6scs/maxresdefault.jpg",
+	"publishDate": 2022-04-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/611-Jennifer-Church---Why-Its-Ok-to-be-of-Two-Minds-e1ctq9i",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#611 Jennifer Church - Why It’s Ok to be of Two Minds",
+	"youtubeid": "9qpPg-h6scs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JANUARY 12th 2022.  
 Dr. Jennifer Church is a Professor of Philosophy at Vassar College in Poughkeepsie, New York. Her research addresses various topics in the philosophy of mind. She is the author of Possibilities of Perception (Oxford UP, 2013), and Why It’s OK to Be of Two Minds.
 
@@ -40,5 +38,3 @@ Follow Dr. Church’s work:
 Faculty page: https://bit.ly/3gG7TsG  
 PhilPeople profile: https://bit.ly/38n9X46  
 Why It’s OK to be of Two Minds: https://amzn.to/3jnuWKw
-</div>
-

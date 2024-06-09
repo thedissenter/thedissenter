@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/47754004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F3028a34d-fd24-d1bd-d9b2-8d899b1c75f8.m4a
-draft: false
-excerpt: "Dr. Tanisha Fazal is a Professor of Political Science at the University\
-  \ of Minnesota. Her research and teaching focus on sovereignty, international law,\
-  \ medical care in conflict zones, and armed conflict. From 2021\u20132023, she is\
-  \ also an Andrew Carnegie Fellow. She is the author of State Death: The Politics\
-  \ and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended\
-  \ Consequences in the Regulation of Armed Conflict."
-id: '626'
-image: https://i.ytimg.com/vi/PiJ6q-Ro1yE/maxresdefault.jpg
-publishDate: 2022-05-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/626-Tanisha-Fazal---Wars-of-Law-Unintended-Consequences-in-the-Regulation-of-Armed-Conflict-e1efrak
-tags:
-- Politics
-title: '#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulation
-  of Armed Conflict'
-youtubeid: PiJ6q-Ro1yE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/47754004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-16%2F3028a34d-fd24-d1bd-d9b2-8d899b1c75f8.m4a",
+	"draft": false,
+	"episodeid": "626",
+	"excerpt": "Dr. Tanisha Fazal is a Professor of Political Science at the University of Minnesota. Her research and teaching focus on sovereignty, international law, medical care in conflict zones, and armed conflict. From 2021–2023, she is also an Andrew Carnegie Fellow. She is the author of State Death: The Politics and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended Consequences in the Regulation of Armed Conflict.",
+	"image": "https://i.ytimg.com/vi/PiJ6q-Ro1yE/maxresdefault.jpg",
+	"publishDate": 2022-05-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/626-Tanisha-Fazal---Wars-of-Law-Unintended-Consequences-in-the-Regulation-of-Armed-Conflict-e1efrak",
+	"tags": [
+		"Politics"
+	],
+	"title": "#626 Tanisha Fazal - Wars of Law: Unintended Consequences in the Regulation of Armed Conflict",
+	"youtubeid": "PiJ6q-Ro1yE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 14th 2022.  
 Dr. Tanisha Fazal is a Professor of Political Science at the University of Minnesota. Her research and teaching focus on sovereignty, international law, medical care in conflict zones, and armed conflict. From 2021–2023, she is also an Andrew Carnegie Fellow. She is the author of State Death: The Politics and Geography of Conquest, Occupation, and Annexation; and Wars of Law: Unintended Consequences in the Regulation of Armed Conflict.
 
@@ -52,5 +47,3 @@ ResearchGate profile: https://bit.ly/3bokOMG
 Amazon page: https://amzn.to/2ZvMLQe  
 Wars of Law: https://amzn.to/2ZvMRHA  
 Twitter handle: @tanishafazal
-</div>
-

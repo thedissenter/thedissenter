@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4541704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706525-44100-2-df88a361ce7c2.m4a
-draft: false
-excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and\
-  \ Conflict Studies at the University of North Carolina at Greensboro. He has written\
-  \ extensively on aggression, conflict, and conflict resolution in his own books\
-  \ and in journals such as Science and American Anthropologist. His work frequently\
-  \ engages the debate surrounding the origins of war, arguing against claims that\
-  \ war or lethal aggression is rooted in human evolution. He\u2019s the author or\
-  \ editor of books like The Human Potential for Peace; Beyond War; War, Peace, and\
-  \ Human Nature; and Nurturing Our Humanity."
-id: '253'
-image: https://i.ytimg.com/vi/uz9xPBQ_CO0/maxresdefault.jpg
-publishDate: 2019-11-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/253-Douglas-Fry-Is-War-Part-Of-Human-Nature-e593q8
-tags:
-- Anthropology
-title: '#253 Douglas Fry: Is War Part Of Human Nature?'
-youtubeid: uz9xPBQ_CO0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4541704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706525-44100-2-df88a361ce7c2.m4a",
+	"draft": false,
+	"episodeid": "253",
+	"excerpt": "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and Conflict Studies at the University of North Carolina at Greensboro. He has written extensively on aggression, conflict, and conflict resolution in his own books and in journals such as Science and American Anthropologist. His work frequently engages the debate surrounding the origins of war, arguing against claims that war or lethal aggression is rooted in human evolution. He’s the author or editor of books like The Human Potential for Peace; Beyond War; War, Peace, and Human Nature; and Nurturing Our Humanity.",
+	"image": "https://i.ytimg.com/vi/uz9xPBQ_CO0/maxresdefault.jpg",
+	"publishDate": 2019-11-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/253-Douglas-Fry-Is-War-Part-Of-Human-Nature-e593q8",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#253 Douglas Fry: Is War Part Of Human Nature?",
+	"youtubeid": "uz9xPBQ_CO0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 4th, 2019.  
 Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and Conflict Studies at the University of North Carolina at Greensboro. He has written extensively on aggression, conflict, and conflict resolution in his own books and in journals such as Science and American Anthropologist. His work frequently engages the debate surrounding the origins of war, arguing against claims that war or lethal aggression is rooted in human evolution. He’s the author or editor of books like The Human Potential for Peace; Beyond War; War, Peace, and Human Nature; and Nurturing Our Humanity.
 
@@ -49,5 +43,3 @@ Nurturing Our Humanity: https://amzn.to/2lClyHk
 The Evolutionary Logic of Human Peaceful Behavior: http://bit.ly/2kjeC1R  
 The Original Partnership Societies: http://bit.ly/2lxuXjy  
 Complete list of references: https://drive.google.com/open?id=1jvVX8mL8sqWjhOe7_TtDgGQtCkLSthrg
-</div>
-

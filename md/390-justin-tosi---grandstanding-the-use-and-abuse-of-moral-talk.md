@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22160351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2F2289563d-ba7c-bf8f-1804-fe2b55804d95.m4a
-draft: false
-excerpt: "Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech University.\
-  \ He works in social, political, legal, and moral philosophy, and especially on\
-  \ state legitimacy, special obligations, and social morality. He\u2019s the author\
-  \ of Grandstanding: The Use and Abuse of Moral Talk (co-authored with Brandon Warmke)."
-id: '390'
-image: https://i.ytimg.com/vi/RdACwMJojcc/maxresdefault.jpg
-publishDate: 2020-11-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/390-Justin-Tosi---Grandstanding-The-Use-and-Abuse-of-Moral-Talk-em2pgv
-tags:
-- Philosophy
-title: '#390 Justin Tosi - Grandstanding: The Use and Abuse of Moral Talk'
-youtubeid: RdACwMJojcc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22160351/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-5%2F2289563d-ba7c-bf8f-1804-fe2b55804d95.m4a",
+	"draft": false,
+	"episodeid": "390",
+	"excerpt": "Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech University. He works in social, political, legal, and moral philosophy, and especially on state legitimacy, special obligations, and social morality. He’s the author of Grandstanding: The Use and Abuse of Moral Talk (co-authored with Brandon Warmke).",
+	"image": "https://i.ytimg.com/vi/RdACwMJojcc/maxresdefault.jpg",
+	"publishDate": 2020-11-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/390-Justin-Tosi---Grandstanding-The-Use-and-Abuse-of-Moral-Talk-em2pgv",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#390 Justin Tosi - Grandstanding: The Use and Abuse of Moral Talk",
+	"youtubeid": "RdACwMJojcc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 2nd 2020.  
 Dr. Justin Tosi is Assistant Professor of Philosophy at Texas Tech University. He works in social, political, legal, and moral philosophy, and especially on state legitimacy, special obligations, and social morality. He’s the author of Grandstanding: The Use and Abuse of Moral Talk (co-authored with Brandon Warmke).
 
@@ -41,5 +39,3 @@ Faculty page: https://bit.ly/2HY4wPe
 Website: https://bit.ly/34RDGRJ  
 PhilPeople page: https://bit.ly/361VYzi  
 Grandstanding: https://amzn.to/3eptSl2
-</div>
-

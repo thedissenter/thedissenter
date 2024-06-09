@@ -1,19 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9604800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42868777-44100-2-eebee62e4d3e1.m4a
-draft: false
-excerpt: 'GRAVADA NO DIA 6 DE JANEIRO DE 2020.  '
-id: '308'
-image: https://i.ytimg.com/vi/6F43pKQILd0/maxresdefault.jpg
-publishDate: 2020-03-16
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/308-Pedro-Galvo-O-Que--A-tica---Aborto-E-Eutansia-ea3k80
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Philosophy
-title: "#308 Pedro Galv\xE3o: O Que \xC9 A \xC9tica? + Aborto E Eutan\xE1sia"
-youtubeid: 6F43pKQILd0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9604800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-0-10%2F42868777-44100-2-eebee62e4d3e1.m4a",
+	"draft": false,
+	"episodeid": "308",
+	"excerpt": "GRAVADA NO DIA 6 DE JANEIRO DE 2020.  ",
+	"image": "https://i.ytimg.com/vi/6F43pKQILd0/maxresdefault.jpg",
+	"publishDate": 2020-03-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/308-Pedro-Galvo-O-Que--A-tica---Aborto-E-Eutansia-ea3k80",
+	"tags": [
+		"Entrevistas em Português",
+		"Philosophy"
+	],
+	"title": "#308 Pedro Galvão: O Que É A Ética? + Aborto E Eutanásia",
+	"youtubeid": "6F43pKQILd0"
+}
 ---
-<div class="timelinks">
-
 GRAVADA NO DIA 6 DE JANEIRO DE 2020.  
 THIS INTERVIEW IS IN PORTUGUESE.  
 O Dr. Pedro Galvão ensina no Departamento de Filosofia da Faculdade de Letras da Universidade de Lisboa, onde também é membro do Centro de Filosofia. Nesta unidade de investigação, pertence ao grupo LanCog.  É Diretor de Curso da Licenciatura em Filosofia e do Doutoramento em Ética, Democracia e Desafios Societais. Interessa-se por ética filosófica e também por várias questões de metafísica. No campo da história da filosofia, tem-se concentrado nos grandes filósofos dos séculos XVII e XVIII, bem como na filosofia moral britânica da Era Vitoriana. Tem vindo a defender obsessivamente o consequencialismo das regras, que consiste, grosso modo, na ideia de que devemos agir segundo o código moral cuja aceitação colectiva resultaria nas melhores consequências. Traduziu para Português os Métodos do Sidgwick, o Utilitarismo do Mill e outras obras filosóficas. Escreve também ficção especulativa.
@@ -47,5 +48,3 @@ Página de docente: http://bit.ly/2KwfkSZ
 Website pessoal: http://bit.ly/2qegpIw  
 Ética Com Razões: http://bit.ly/2Qx478t  
 A Ética do Aborto: http://bit.ly/2sVAG6T
-</div>
-

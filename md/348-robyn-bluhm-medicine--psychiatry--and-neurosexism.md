@@ -1,27 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/14132154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75649864-44100-2-19626772eace2.m4a
-draft: false
-excerpt: 'Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the
-  Department of Philosophy and Lyman Briggs College at Michigan State University.
-  Her research examines philosophical issues in neuroscience and in medicine, with
-  a particular focus on the relationship between ethical and epistemological questions
-  in these areas. She has written extensively on the philosophy of evidence-based
-  practice and on the use of functional neuroimaging in psychiatry. She is a co-editor
-  of Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science.'
-id: '348'
-image: https://i.ytimg.com/vi/UXm_7WVjNdo/maxresdefault.jpg
-publishDate: 2020-07-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/348-Robyn-Bluhm-Medicine--Psychiatry--And-Neurosexism-eedpfq
-tags:
-- Cognitive Science
-- Neuroscience
-- Philosophy
-- Psychology
-title: '#348 Robyn Bluhm: Medicine, Psychiatry, And Neurosexism'
-youtubeid: UXm_7WVjNdo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/14132154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-22%2F75649864-44100-2-19626772eace2.m4a",
+	"draft": false,
+	"episodeid": "348",
+	"excerpt": "Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the Department of Philosophy and Lyman Briggs College at Michigan State University. Her research examines philosophical issues in neuroscience and in medicine, with a particular focus on the relationship between ethical and epistemological questions in these areas. She has written extensively on the philosophy of evidence-based practice and on the use of functional neuroimaging in psychiatry. She is a co-editor of Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science.",
+	"image": "https://i.ytimg.com/vi/UXm_7WVjNdo/maxresdefault.jpg",
+	"publishDate": 2020-07-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/348-Robyn-Bluhm-Medicine--Psychiatry--And-Neurosexism-eedpfq",
+	"tags": [
+		"Cognitive Science",
+		"Neuroscience",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#348 Robyn Bluhm: Medicine, Psychiatry, And Neurosexism",
+	"youtubeid": "UXm_7WVjNdo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 7th 2020.  
 Dr. Robyn Bluhm is an Associate Professor with a joint appointment in the Department of Philosophy and Lyman Briggs College at Michigan State University. Her research examines philosophical issues in neuroscience and in medicine, with a particular focus on the relationship between ethical and epistemological questions in these areas. She has written extensively on the philosophy of evidence-based practice and on the use of functional neuroimaging in psychiatry. She is a co-editor of Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science.
 
@@ -52,5 +47,3 @@ Academia.edu profile: https://bit.ly/2YORTfA
 PhilPeople profile: http://bit.ly/33j4gB9  
 Scientific contributions on ResearchGate: https://bit.ly/2LaRtIt  
 Neurofeminism: Issues at the Intersection of Feminist Theory and Cognitive Science: https://bit.ly/3b9Bkxz
-</div>
-

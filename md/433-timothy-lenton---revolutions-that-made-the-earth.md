@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/23826406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F1376576a-1c36-028b-5945-9a8129a5a071.m4a
-draft: false
-excerpt: "Dr. Timothy Lenton is Professor of Climate Change and Earth System Science\
-  \ at the University of Exeter and Director of the Global Systems Institute. He has\
-  \ over 20 years of research experience in studying the Earth as a system, and developing\
-  \ and using models to understand its behavior. He is particularly interested in\
-  \ how life has reshaped the planet in the past, and what lessons we can draw from\
-  \ this as we proceed to reshape the planet now. These topics are covered in his\
-  \ books \u2018Earth System Science: A Very Short Introduction\u2019 (OUP, 2016)\
-  \ and (with Andrew Watson) \u2019Revolutions that Made the Earth\u2019 (OUP, 2011)."
-id: '433'
-image: https://i.ytimg.com/vi/6NKLoPeppjo/maxresdefault.jpg
-publishDate: 2021-02-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/433-Timothy-Lenton---Revolutions-that-Made-the-Earth-enlkh6
-tags:
-- General Science
-title: '#433 Timothy Lenton - Revolutions that Made the Earth'
-youtubeid: 6NKLoPeppjo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/23826406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2F1376576a-1c36-028b-5945-9a8129a5a071.m4a",
+	"draft": false,
+	"episodeid": "433",
+	"excerpt": "Dr. Timothy Lenton is Professor of Climate Change and Earth System Science at the University of Exeter and Director of the Global Systems Institute. He has over 20 years of research experience in studying the Earth as a system, and developing and using models to understand its behavior. He is particularly interested in how life has reshaped the planet in the past, and what lessons we can draw from this as we proceed to reshape the planet now. These topics are covered in his books ‘Earth System Science: A Very Short Introduction’ (OUP, 2016) and (with Andrew Watson) ’Revolutions that Made the Earth’ (OUP, 2011).",
+	"image": "https://i.ytimg.com/vi/6NKLoPeppjo/maxresdefault.jpg",
+	"publishDate": 2021-02-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/433-Timothy-Lenton---Revolutions-that-Made-the-Earth-enlkh6",
+	"tags": [
+		"General Science"
+	],
+	"title": "#433 Timothy Lenton - Revolutions that Made the Earth",
+	"youtubeid": "6NKLoPeppjo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 7th 2020.  
 Dr. Timothy Lenton is Professor of Climate Change and Earth System Science at the University of Exeter and Director of the Global Systems Institute. He has over 20 years of research experience in studying the Earth as a system, and developing and using models to understand its behavior. He is particularly interested in how life has reshaped the planet in the past, and what lessons we can draw from this as we proceed to reshape the planet now. These topics are covered in his books ‘Earth System Science: A Very Short Introduction’ (OUP, 2016) and (with Andrew Watson) ’Revolutions that Made the Earth’ (OUP, 2011).
 
@@ -48,5 +42,3 @@ Global Systems Institute: https://bit.ly/37DCrG6
 Research works on ResearchGate: https://bit.ly/3qHEFNB  
 Books on Amazon: https://amzn.to/2LfvvHK  
 Revolutions that Made the Earth: https://amzn.to/39Q0jcu
-</div>
-

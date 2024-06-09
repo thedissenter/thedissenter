@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/70496373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-16%2F7b42def5-095a-189d-80d5-0bf561f367aa.m4a
-draft: false
-excerpt: "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumitomo\
-  \ Professor Emeritus of Japanese Studies at Yale University. A noted authority on\
-  \ the social and historical anthropology of Japan, Dr. Kelly focused much of his\
-  \ research for two decades on regional society in Japan, based on extensive fieldwork\
-  \ in the Sh\u014Dnai area of Yamagata Prefecture. He has also written widely on\
-  \ the broader dynamics of class formation in Japanese society. At the same time,\
-  \ much of his research for the past two decades has explored sport and body culture\
-  \ and their significance in modern Japan. He has also written on the history of\
-  \ Japan anthropology and its importance for Japan studies and for sociocultural\
-  \ anthropology."
-id: '835'
-image: https://i.ytimg.com/vi/kikAsqvKCdE/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/835-william-kelly-the-sociocultural-anthropology-of-japan/id1451347236?i=1000628037593&uo=4
-publishDate: 2023-09-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/835-William-Kelly-The-Sociocultural-Anthropology-of-Japan-e245sll
-tags:
-- Anthropology
-title: '#835 William Kelly: The Sociocultural Anthropology of Japan'
-youtubeid: kikAsqvKCdE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/70496373/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-16%2F7b42def5-095a-189d-80d5-0bf561f367aa.m4a",
+	"draft": false,
+	"episodeid": "835",
+	"excerpt": "Dr. William Kelly is Professor Emeritus of Anthropology and the Sumitomo Professor Emeritus of Japanese Studies at Yale University. A noted authority on the social and historical anthropology of Japan, Dr. Kelly focused much of his research for two decades on regional society in Japan, based on extensive fieldwork in the Shōnai area of Yamagata Prefecture. He has also written widely on the broader dynamics of class formation in Japanese society. At the same time, much of his research for the past two decades has explored sport and body culture and their significance in modern Japan. He has also written on the history of Japan anthropology and its importance for Japan studies and for sociocultural anthropology.",
+	"image": "https://i.ytimg.com/vi/kikAsqvKCdE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/835-william-kelly-the-sociocultural-anthropology-of-japan/id1451347236?i=1000628037593&uo=4",
+	"publishDate": 2023-09-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/835-William-Kelly-The-Sociocultural-Anthropology-of-Japan-e245sll",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#835 William Kelly: The Sociocultural Anthropology of Japan",
+	"youtubeid": "kikAsqvKCdE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 16th 2023.  
 Dr. William Kelly is Professor Emeritus of Anthropology and the Sumitomo Professor Emeritus of Japanese Studies at Yale University. A noted authority on the social and historical anthropology of Japan, Dr. Kelly focused much of his research for two decades on regional society in Japan, based on extensive fieldwork in the Shōnai area of Yamagata Prefecture. He has also written widely on the broader dynamics of class formation in Japanese society. At the same time, much of his research for the past two decades has explored sport and body culture and their significance in modern Japan. He has also written on the history of Japan anthropology and its importance for Japan studies and for sociocultural anthropology.
 
@@ -44,5 +36,3 @@ Follow Dr. Kelly’s work:
 Faculty page: http://bit.ly/3IWIj1m  
 Website: https://bit.ly/3wajwzh  
 Works on ResearchGate: https://bit.ly/3XJ9Ibv
-</div>
-

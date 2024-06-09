@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1997084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647974-44100-2-a48578569213b.mp3
-draft: false
-excerpt: "Dr. Nancy Segal is Professor of Developmental Psychology and Director of\
-  \ the Twin Studies Center, at California State University, Fullerton. She\u2019\
-  s been the recipient of many awards and distinctions. She served as Assistant Director\
-  \ of the Minnesota Center for Twin and Adoption Research, in the Department of Psychology\
-  \ at the University of Minnesota, from 1985 to 1991. She\u2019s also the author\
-  \ of many books, including Entwined Lives, Indivisible by Two, Someone Else's Twin,\
-  \ Born Together-Reared Apart, and, the latest one, Accidental Brothers: The Story\
-  \ of Twins Exchanged at Birth and the Power of Nature and Nurture."
-id: '50'
-image: https://i.ytimg.com/vi/z5ULh9Bv73c/maxresdefault.jpg
-publishDate: 2018-07-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/50-Nancy-Segal-Accidental-Brothers--Twin-Studies--Nature-and-Nurture--Epigenetics--More-e2reqs
-tags:
-- Psychology
-title: '#50 Nancy Segal: Accidental Brothers, Twin Studies, Nature and Nurture, Epigenetics
-  & More'
-youtubeid: z5ULh9Bv73c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1997084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-28%2F7647974-44100-2-a48578569213b.mp3",
+	"draft": false,
+	"episodeid": "50",
+	"excerpt": "Dr. Nancy Segal is Professor of Developmental Psychology and Director of the Twin Studies Center, at California State University, Fullerton. She’s been the recipient of many awards and distinctions. She served as Assistant Director of the Minnesota Center for Twin and Adoption Research, in the Department of Psychology at the University of Minnesota, from 1985 to 1991. She’s also the author of many books, including Entwined Lives, Indivisible by Two, Someone Else's Twin, Born Together-Reared Apart, and, the latest one, Accidental Brothers: The Story of Twins Exchanged at Birth and the Power of Nature and Nurture.",
+	"image": "https://i.ytimg.com/vi/z5ULh9Bv73c/maxresdefault.jpg",
+	"publishDate": 2018-07-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/50-Nancy-Segal-Accidental-Brothers--Twin-Studies--Nature-and-Nurture--Epigenetics--More-e2reqs",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#50 Nancy Segal: Accidental Brothers, Twin Studies, Nature and Nurture, Epigenetics & More",
+	"youtubeid": "z5ULh9Bv73c"
+}
 ---
-<div class="timelinks">
-
 Dr. Nancy Segal is Professor of Developmental Psychology and Director of the Twin Studies Center, at California State University, Fullerton. She’s been the recipient of many awards and distinctions. She served as Assistant Director of the Minnesota Center for Twin and Adoption Research, in the Department of Psychology at the University of Minnesota, from 1985 to 1991. She’s also the author of many books, including Entwined Lives, Indivisible by Two, Someone Else's Twin, Born Together-Reared Apart, and, the latest one, Accidental Brothers: The Story of Twins Exchanged at Birth and the Power of Nature and Nurture.
 
 The central theme of this episode is Dr. Segal’s latest book, Accidental Brothers. We start the conversation with some personal questions, about what it was for Dr. Segal to live as and have a relationship with her fraternal twin, and also what she deemed to be the most interesting findings coming from the MISTRA (Minnesota Study of Twins Reared Apart). Subsequent topics include: studies with identical, fraternal and virtual twins, and triplets, and what they teach us about human nature; how people express themselves more fully as they get independent from their family; the nature vs nurture dichotomy, and also nurture via nature and nature via nurture approaches; the role of chance in people’s lives; epigenetics and the prenatal environment; how behavioral genetics might inform parenting practices; and related subjects.  
@@ -51,5 +44,3 @@ Follow Dr. Segal’s work:
 Faculty page: http://psych.fullerton.edu/nsegal/  
 Personal website: http://drnancysegaltwins.org/  
 Twitter handle: @nlsegal
-</div>
-

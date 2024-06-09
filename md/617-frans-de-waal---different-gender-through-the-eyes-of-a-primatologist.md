@@ -1,24 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/50758713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-18%2Fdeadc7ef-1315-42a6-82d1-25abf8a9a111.m4a
-draft: false
-excerpt: "Dr. Frans de Waal is a Dutch primatologist and ethologist. He is Emeritus\
-  \ Candler Professor at Emory University, and Emeritus Professor at the University\
-  \ of Utrecht, and author of numerous books including Chimpanzee Politics, The Bonobo\
-  \ and the Atheist, Mamma\u2019s Last Hug, and, more recently, Different: Gender\
-  \ Through the Eyes of a Primatologist."
-id: '617'
-image: https://i.ytimg.com/vi/3DfnQdXsWqQ/maxresdefault.jpg
-publishDate: 2022-04-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/617-Frans-de-Waal---Different-Gender-Through-the-Eyes-of-a-Primatologist-e1hbhjp
-tags:
-- Primatology
-- Anthropology
-- Psychology
-title: '#617 Frans de Waal - Different: Gender Through the Eyes of a Primatologist'
-youtubeid: 3DfnQdXsWqQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/50758713/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-18%2Fdeadc7ef-1315-42a6-82d1-25abf8a9a111.m4a",
+	"draft": false,
+	"episodeid": "617",
+	"excerpt": "Dr. Frans de Waal is a Dutch primatologist and ethologist. He is Emeritus Candler Professor at Emory University, and Emeritus Professor at the University of Utrecht, and author of numerous books including Chimpanzee Politics, The Bonobo and the Atheist, Mamma’s Last Hug, and, more recently, Different: Gender Through the Eyes of a Primatologist.",
+	"image": "https://i.ytimg.com/vi/3DfnQdXsWqQ/maxresdefault.jpg",
+	"publishDate": 2022-04-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/617-Frans-de-Waal---Different-Gender-Through-the-Eyes-of-a-Primatologist-e1hbhjp",
+	"tags": [
+		"Primatology",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#617 Frans de Waal - Different: Gender Through the Eyes of a Primatologist",
+	"youtubeid": "3DfnQdXsWqQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 18th 2022.  
 Dr. Frans de Waal is a Dutch primatologist and ethologist. He is Emeritus Candler Professor at Emory University, and Emeritus Professor at the University of Utrecht, and author of numerous books including Chimpanzee Politics, The Bonobo and the Atheist, Mamma’s Last Hug, and, more recently, Different: Gender Through the Eyes of a Primatologist.
 
@@ -46,5 +43,3 @@ Follow Dr. de Waal’s work:
 Faculty page: https://bit.ly/3NmD9M2  
 Works on ResearchGate: https://bit.ly/3NhHPmp  
 Different: https://amzn.to/3NzWzNJ
-</div>
-

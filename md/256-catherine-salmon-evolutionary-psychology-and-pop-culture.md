@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4541796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706779-44100-2-ca744d73f178d.m4a
-draft: false
-excerpt: 'Dr. Catherine Salmon is a Full Professor in the psychology department at
-  the University of Redlands. She is the co-author (with Donald Symons) of Warrior
-  Lovers: Erotic fiction, evolution and female sexuality. She has written chapters
-  in numerous books including Buss'' Handbook of Evolutionary Psychology and The Literary
-  Animal. She is also a co-editor of the books Evolutionary Psychology: Public Policy
-  and Personal Decisions (with Charles Crawford) Family Psychology: An Evolutionary
-  Perspective and the Oxford Handbook of Evolutionary Family Psychology (both with
-  Todd Shackelford), and co-author with Katrin Schuman of The Secret Power of Middle
-  Children. Her primary research interests include birth order and the family, reproductive
-  suppression and dieting behavior, and female sexuality, particularly with regard
-  to prostitution and pornography. Her interest in pop culture also led to co-authoring
-  a chapter on female wrestling fans and their fantasies in Steel Chair to the Head:
-  The Pleasure and Pain of Professional Wrestling.'
-id: '256'
-image: https://i.ytimg.com/vi/pz9XQeX33Kk/maxresdefault.jpg
-publishDate: 2019-11-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/256-Catherine-Salmon-Evolutionary-Psychology-And-Pop-Culture-e593t4
-tags:
-- Psychology
-title: '#256 Catherine Salmon: Evolutionary Psychology And Pop Culture'
-youtubeid: pz9XQeX33Kk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4541796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-7%2F22706779-44100-2-ca744d73f178d.m4a",
+	"draft": false,
+	"episodeid": "256",
+	"excerpt": "Dr. Catherine Salmon is a Full Professor in the psychology department at the University of Redlands. She is the co-author (with Donald Symons) of Warrior Lovers: Erotic fiction, evolution and female sexuality. She has written chapters in numerous books including Buss' Handbook of Evolutionary Psychology and The Literary Animal. She is also a co-editor of the books Evolutionary Psychology: Public Policy and Personal Decisions (with Charles Crawford) Family Psychology: An Evolutionary Perspective and the Oxford Handbook of Evolutionary Family Psychology (both with Todd Shackelford), and co-author with Katrin Schuman of The Secret Power of Middle Children. Her primary research interests include birth order and the family, reproductive suppression and dieting behavior, and female sexuality, particularly with regard to prostitution and pornography. Her interest in pop culture also led to co-authoring a chapter on female wrestling fans and their fantasies in Steel Chair to the Head: The Pleasure and Pain of Professional Wrestling.",
+	"image": "https://i.ytimg.com/vi/pz9XQeX33Kk/maxresdefault.jpg",
+	"publishDate": 2019-11-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/256-Catherine-Salmon-Evolutionary-Psychology-And-Pop-Culture-e593t4",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#256 Catherine Salmon: Evolutionary Psychology And Pop Culture",
+	"youtubeid": "pz9XQeX33Kk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 6th, 2019.  
 Dr. Catherine Salmon is a Full Professor in the psychology department at the University of Redlands. She is the co-author (with Donald Symons) of Warrior Lovers: Erotic fiction, evolution and female sexuality. She has written chapters in numerous books including Buss' Handbook of Evolutionary Psychology and The Literary Animal. She is also a co-editor of the books Evolutionary Psychology: Public Policy and Personal Decisions (with Charles Crawford) Family Psychology: An Evolutionary Perspective and the Oxford Handbook of Evolutionary Family Psychology (both with Todd Shackelford), and co-author with Katrin Schuman of The Secret Power of Middle Children. Her primary research interests include birth order and the family, reproductive suppression and dieting behavior, and female sexuality, particularly with regard to prostitution and pornography. Her interest in pop culture also led to co-authoring a chapter on female wrestling fans and their fantasies in Steel Chair to the Head: The Pleasure and Pain of Professional Wrestling.
 
@@ -59,5 +48,3 @@ Birth order, sex of child, and perceptions of parental favoritism: http://bit.ly
 Life History Strategy and Disordered Eating Behavior: http://bit.ly/2k3VwMZ  
 Slash Fiction and Human Mating Psychology: http://bit.ly/2lZltxG  
 The Pop Culture of Sex: An Evolutionary Window on the Worlds of Pornography and Romance: http://bit.ly/2lCVcFg
-</div>
-

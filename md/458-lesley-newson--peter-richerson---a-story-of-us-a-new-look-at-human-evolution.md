@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/30572517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F5a3cc46f-eec3-0f90-686a-08f7ae5e6f9b.m4a
-draft: false
-excerpt: "Dr. Lesley Newson is honorary post-doc at University of California, Davis.\
-  \ She studies the cultural evolutionary process known as \u201Cmodernization\u201D\
-  \ which most human populations are now experiencing. Her first degree was in biology.\
-  \ After that she worked for over 20 years as a science writer and television producer\
-  \ before getting a PhD in psychology.  "
-id: '458'
-image: https://i.ytimg.com/vi/RJEm7baBdTs/maxresdefault.jpg
-publishDate: 2021-04-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/458-Lesley-Newson--Peter-Richerson---A-Story-of-Us-A-New-Look-at-Human-Evolution-eu3gh5
-tags:
-- Biology
-- Anthropology
-title: '#458 Lesley Newson & Peter Richerson - A Story of Us: A New Look at Human
-  Evolution'
-youtubeid: RJEm7baBdTs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/30572517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F5a3cc46f-eec3-0f90-686a-08f7ae5e6f9b.m4a",
+	"draft": false,
+	"episodeid": "458",
+	"excerpt": "Dr. Lesley Newson is honorary post-doc at University of California, Davis. She studies the cultural evolutionary process known as “modernization” which most human populations are now experiencing. Her first degree was in biology. After that she worked for over 20 years as a science writer and television producer before getting a PhD in psychology.  ",
+	"image": "https://i.ytimg.com/vi/RJEm7baBdTs/maxresdefault.jpg",
+	"publishDate": 2021-04-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/458-Lesley-Newson--Peter-Richerson---A-Story-of-Us-A-New-Look-at-Human-Evolution-eu3gh5",
+	"tags": [
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#458 Lesley Newson & Peter Richerson - A Story of Us: A New Look at Human Evolution",
+	"youtubeid": "RJEm7baBdTs"
+}
 ---
-<div class="timelinks">
-
 Dr. Lesley Newson is honorary post-doc at University of California, Davis. She studies the cultural evolutionary process known as “modernization” which most human populations are now experiencing. Her first degree was in biology. After that she worked for over 20 years as a science writer and television producer before getting a PhD in psychology.  
 Dr. Peter Richerson is Distinguished Professor Emeritus of the Department of Environmental Science and Policy at the University of California, Davis. He’s a biologist with interest in cultural evolution, animal social learning and mathematical models. He’s also the author of books like Culture and the Evolutionary Process, Not by Genes Alone: How Culture Transformed Human Evolution, and The Origin and Evolution of Cultures, all written in collaboration with Dr. Robert Boyd.  
 They are both authors of a recent book, A Story of Us: A New Look at Human Evolution.
@@ -50,5 +46,3 @@ Books: https://amzn.to/39oCdUU
 Dr. Newson:  
 ResearchGate profile: https://bit.ly/3cy0Ccw  
 A Story of Us: https://amzn.to/3w8vmsA
-</div>
-

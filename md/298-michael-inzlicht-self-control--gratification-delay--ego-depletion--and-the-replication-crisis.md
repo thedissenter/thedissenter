@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8984536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38452733-44100-2-0bd7c19a9eebc.m4a
-draft: false
-excerpt: Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University
-  of Toronto. His primary appointment is as Professor in the Department of Psychology,
-  but he is also cross-appointed as Professor at the Rotman School of Management.
-  Dr. Inzlicht conducts research that sits at the boundaries of social psychology,
-  cognitive science, and neuroscience. Although he has published papers on the topics
-  of prejudice, academic performance, and religion, his most recent interests have
-  been in the topics of self-control, where he borrows methods from affective and
-  cognitive neuroscience to understand the underlying nature of self-control, including
-  how it is driven by motivation.
-id: '298'
-image: https://i.ytimg.com/vi/fuA1l7bL954/maxresdefault.jpg
-publishDate: 2020-02-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/298-Michael-Inzlicht-Self-control--Gratification-Delay--Ego-depletion--And-The-Replication-Crisis-e9gmgo
-tags:
-- Psychology
-title: '#298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And
-  The Replication Crisis'
-youtubeid: fuA1l7bL954
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8984536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38452733-44100-2-0bd7c19a9eebc.m4a",
+	"draft": false,
+	"episodeid": "298",
+	"excerpt": "Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University of Toronto. His primary appointment is as Professor in the Department of Psychology, but he is also cross-appointed as Professor at the Rotman School of Management. Dr. Inzlicht conducts research that sits at the boundaries of social psychology, cognitive science, and neuroscience. Although he has published papers on the topics of prejudice, academic performance, and religion, his most recent interests have been in the topics of self-control, where he borrows methods from affective and cognitive neuroscience to understand the underlying nature of self-control, including how it is driven by motivation.",
+	"image": "https://i.ytimg.com/vi/fuA1l7bL954/maxresdefault.jpg",
+	"publishDate": 2020-02-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/298-Michael-Inzlicht-Self-control--Gratification-Delay--Ego-depletion--And-The-Replication-Crisis-e9gmgo",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis",
+	"youtubeid": "fuA1l7bL954"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 10th, 2019.  
 Dr. Michael Inzlicht is a Research Excellence Faculty Scholar at the University of Toronto. His primary appointment is as Professor in the Department of Psychology, but he is also cross-appointed as Professor at the Rotman School of Management. Dr. Inzlicht conducts research that sits at the boundaries of social psychology, cognitive science, and neuroscience. Although he has published papers on the topics of prejudice, academic performance, and religion, his most recent interests have been in the topics of self-control, where he borrows methods from affective and cognitive neuroscience to understand the underlying nature of self-control, including how it is driven by motivation.
 
@@ -55,5 +47,3 @@ Twitter handle: @minzlicht
 Some relevant papers/sources:  
 Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Gratification Delay and Later Outcomes: http://bit.ly/2YxaESS  
 Did the Marshmallow Test Fail to Replicate?: http://bit.ly/2RE22rX
-</div>
-

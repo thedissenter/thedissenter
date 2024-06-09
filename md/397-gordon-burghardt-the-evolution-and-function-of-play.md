@@ -1,27 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20172289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F8d255ba2-9b4e-0335-b881-3a698d5fc9b6.m4a
-draft: false
-excerpt: 'Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in the
-  departments of Psychology and Ecology & Evolutionary Biology at the University of
-  Tennessee. His research focus has been on comparative studies of behavioral development
-  in animals with special attention to reptiles, bears, and the evolution of play,
-  as well as historical and theoretical issues in ethology and psychology. He has
-  served as editor or editorial board member of numerous journals and is past president
-  of the Animal Behavior Society and the Society for Behavioral Neuroscience and Comparative
-  Psychology (APA Div. 6). He has edited or co-edited 6 books and authored The Genesis
-  of Animal Play: Testing the Limits (MIT Press, 2005).'
-id: '397'
-image: https://i.ytimg.com/vi/9_yEhaD4DWk/maxresdefault.jpg
-publishDate: 2020-11-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/397-Gordon-Burghardt-The-Evolution-And-Function-of-Play-ek6421
-tags:
-- Biology
-- Psychology
-title: '#397 Gordon Burghardt: The Evolution And Function of Play'
-youtubeid: 9_yEhaD4DWk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20172289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F8d255ba2-9b4e-0335-b881-3a698d5fc9b6.m4a",
+	"draft": false,
+	"episodeid": "397",
+	"excerpt": "Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in the departments of Psychology and Ecology & Evolutionary Biology at the University of Tennessee. His research focus has been on comparative studies of behavioral development in animals with special attention to reptiles, bears, and the evolution of play, as well as historical and theoretical issues in ethology and psychology. He has served as editor or editorial board member of numerous journals and is past president of the Animal Behavior Society and the Society for Behavioral Neuroscience and Comparative Psychology (APA Div. 6). He has edited or co-edited 6 books and authored The Genesis of Animal Play: Testing the Limits (MIT Press, 2005).",
+	"image": "https://i.ytimg.com/vi/9_yEhaD4DWk/maxresdefault.jpg",
+	"publishDate": 2020-11-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/397-Gordon-Burghardt-The-Evolution-And-Function-of-Play-ek6421",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#397 Gordon Burghardt: The Evolution And Function of Play",
+	"youtubeid": "9_yEhaD4DWk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 23rd 2020.  
 Dr. Gordon M. Burghardt is Alumni Distinguished Service Professor in the departments of Psychology and Ecology & Evolutionary Biology at the University of Tennessee. His research focus has been on comparative studies of behavioral development in animals with special attention to reptiles, bears, and the evolution of play, as well as historical and theoretical issues in ethology and psychology. He has served as editor or editorial board member of numerous journals and is past president of the Animal Behavior Society and the Society for Behavioral Neuroscience and Comparative Psychology (APA Div. 6). He has edited or co-edited 6 books and authored The Genesis of Animal Play: Testing the Limits (MIT Press, 2005).
 
@@ -49,5 +42,3 @@ Follow Dr. Burghardt’s work:
 Faculty page: https://bit.ly/33TrwGn  
 ResearchGate profile: https://bit.ly/2RQ1w98  
 The Genesis of Play: https://amzn.to/3kIcVnW
-</div>
-

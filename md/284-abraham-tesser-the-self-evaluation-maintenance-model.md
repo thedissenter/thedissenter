@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8467349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34318946-44100-2-9842bf9ce9e94.m4a
-draft: false
-excerpt: Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psychology
-  at the University of Georgia. His research has made significant contributions to
-  several areas in the field of Social Psychology. He created the self-evaluation
-  maintenance model, a theory in social psychology that focuses on the motives for
-  self-enhancement.
-id: '284'
-image: https://i.ytimg.com/vi/7o-D5B_0QQk/maxresdefault.jpg
-publishDate: 2020-01-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/284-Abraham-Tesser-The-Self-evaluation-Maintenance-Model-e90tel
-tags:
-- Psychology
-title: '#284 Abraham Tesser: The Self-evaluation Maintenance Model'
-youtubeid: 7o-D5B_0QQk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8467349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-15%2F34318946-44100-2-9842bf9ce9e94.m4a",
+	"draft": false,
+	"episodeid": "284",
+	"excerpt": "Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psychology at the University of Georgia. His research has made significant contributions to several areas in the field of Social Psychology. He created the self-evaluation maintenance model, a theory in social psychology that focuses on the motives for self-enhancement.",
+	"image": "https://i.ytimg.com/vi/7o-D5B_0QQk/maxresdefault.jpg",
+	"publishDate": 2020-01-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/284-Abraham-Tesser-The-Self-evaluation-Maintenance-Model-e90tel",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#284 Abraham Tesser: The Self-evaluation Maintenance Model",
+	"youtubeid": "7o-D5B_0QQk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 11th, 2019.  
 Dr. Abraham Tesser is Distinguished Research Professor Emeritus of Psychology at the University of Georgia. His research has made significant contributions to several areas in the field of Social Psychology. He created the self-evaluation maintenance model, a theory in social psychology that focuses on the motives for self-enhancement.
 
@@ -42,5 +39,3 @@ Follow Dr. Tesser’s work:
 Faculty page: http://bit.ly/32EMN3U  
 Social Psychology Network profile: http://bit.ly/2Cv0vMa  
 ResearchGate profile: http://bit.ly/2mi6Tl0
-</div>
-

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20529043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F8fcf97fe-a2a5-d20b-7196-706b600bf28a.m4a
-draft: false
-excerpt: Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht University.
-  His main research interests are in moral psychology and empirically informed metaethics.
-  He is interested in whether and how we can bring empirical data from diverse disciplines
-  such as social psychology, neuroscience or cognitive science to bear on questions
-  of normative and/or metaethical interests, and what the limits of this approach
-  are. He is the author of Moral Judgments as Educated Intuitions (2017), Debunking
-  Arguments in Ethics (2018), and Moral Thinking, Fast and Slow (2018).
-id: '404'
-image: https://i.ytimg.com/vi/Jpit7l0ALpA/maxresdefault.jpg
-publishDate: 2020-12-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/404-Hanno-Sauer-Ethics--Moral-Realism--Moral-Progress--and-Human-Rationality-ekh0ej
-tags:
-- Philosophy
-title: '#404 Hanno Sauer: Ethics, Moral Realism, Moral Progress, and Human Rationality'
-youtubeid: Jpit7l0ALpA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20529043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-2%2F8fcf97fe-a2a5-d20b-7196-706b600bf28a.m4a",
+	"draft": false,
+	"episodeid": "404",
+	"excerpt": "Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht University. His main research interests are in moral psychology and empirically informed metaethics. He is interested in whether and how we can bring empirical data from diverse disciplines such as social psychology, neuroscience or cognitive science to bear on questions of normative and/or metaethical interests, and what the limits of this approach are. He is the author of Moral Judgments as Educated Intuitions (2017), Debunking Arguments in Ethics (2018), and Moral Thinking, Fast and Slow (2018).",
+	"image": "https://i.ytimg.com/vi/Jpit7l0ALpA/maxresdefault.jpg",
+	"publishDate": 2020-12-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/404-Hanno-Sauer-Ethics--Moral-Realism--Moral-Progress--and-Human-Rationality-ekh0ej",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#404 Hanno Sauer: Ethics, Moral Realism, Moral Progress, and Human Rationality",
+	"youtubeid": "Jpit7l0ALpA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 30th 2020.  
 Dr. Hanno Sauer is Assistant Professor of Philosophy at Utrecht University. His main research interests are in moral psychology and empirically informed metaethics. He is interested in whether and how we can bring empirical data from diverse disciplines such as social psychology, neuroscience or cognitive science to bear on questions of normative and/or metaethical interests, and what the limits of this approach are. He is the author of Moral Judgments as Educated Intuitions (2017), Debunking Arguments in Ethics (2018), and Moral Thinking, Fast and Slow (2018).
 
@@ -48,5 +43,3 @@ PhilPeople profile: https://bit.ly/33fPnRF
 Debunking Arguments in Ethics: https://amzn.to/2G2MWcr  
 Moral Judgments as Educated Intuitions: https://amzn.to/3ieoilZ  
 Moral Thinking, Fast and Slow: https://amzn.to/3cGywum
-</div>
-

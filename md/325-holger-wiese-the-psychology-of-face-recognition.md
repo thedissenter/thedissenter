@@ -1,19 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10384892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49310541-44100-2-f14475e4dbe72.m4a
-draft: false
-excerpt: ''
-id: '325'
-image: https://i.ytimg.com/vi/WPWst9HQvwA/maxresdefault.jpg
-publishDate: 2020-04-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/325-Holger-Wiese-The-Psychology-of-Face-Recognition-eare1s
-tags:
-- Cognitive Science
-- Psychology
-title: '#325 Holger Wiese: The Psychology of Face Recognition'
-youtubeid: WPWst9HQvwA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10384892/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-14%2F49310541-44100-2-f14475e4dbe72.m4a",
+	"draft": false,
+	"episodeid": "325",
+	"excerpt": "",
+	"image": "https://i.ytimg.com/vi/WPWst9HQvwA/maxresdefault.jpg",
+	"publishDate": 2020-04-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/325-Holger-Wiese-The-Psychology-of-Face-Recognition-eare1s",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#325 Holger Wiese: The Psychology of Face Recognition",
+	"youtubeid": "WPWst9HQvwA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 13th, 2020.
 
 Dr. Holger Wiese is Associate Professor in the Department of Psychology at Durham University, where he runs an EEG lab. He is mainly interested in face recognition and face perception. He investigates how we recognize familiar faces, how we learn new facial identities, why people are more accurate at remembering faces of their own ethnic and age groups, how we perceive age, sex, and attractiveness in unfamiliar faces, and how our knowledge about other people is structured in semantic memory. He is also interested in how these aspects of face and person perception change across the adult lifespan.
@@ -42,5 +43,3 @@ Faculty page: http://bit.ly/2RUsJZz
 Wiese Lab: http://bit.ly/34h9rjO  
 ResearchGate profile: http://bit.ly/36DlMAl  
 Twitter handle: @WieseHolger
-</div>
-

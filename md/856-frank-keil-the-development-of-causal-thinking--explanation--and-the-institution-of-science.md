@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72634211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-26%2Fbb494fdd-8c57-02cc-b59d-0601ad4d75cd.m4a
-draft: false
-excerpt: 'Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychology
-  & Linguistics and Director of the Cognition and Development lab at Yale University.
-  At the most general level, he is interested in how we come to make sense of the
-  world around us. One set of his studies is examining a level of explanatory insight
-  that functions without knowledge of specific mechanisms and instead involves knowing
-  what sorts of properties are causally potent in a domain and how they are likely
-  to interact. He also asks how emerging knowledge of concrete mechanisms can link
-  up frequency-based information with abstract explanatory principles as well as cause
-  distortions in judgment. He is the author of Developmental Psychology: The Growth
-  of Mind and Behavior, and other books.'
-id: '856'
-image: https://i.ytimg.com/vi/_3Br_iGfRaQ/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/856-frank-keil-the-development-of-causal/id1451347236?i=1000633629070&uo=4
-publishDate: 2023-11-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/856-Frank-Keil-The-Development-of-Causal-Thinking--Explanation--and-the-Institution-of-Science-e2674d3
-tags:
-- Psychology
-title: '#856 Frank Keil: The Development of Causal Thinking, Explanation, and the
-  Institution of Science'
-youtubeid: _3Br_iGfRaQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72634211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-26%2Fbb494fdd-8c57-02cc-b59d-0601ad4d75cd.m4a",
+	"draft": false,
+	"episodeid": "856",
+	"excerpt": "Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychology & Linguistics and Director of the Cognition and Development lab at Yale University. At the most general level, he is interested in how we come to make sense of the world around us. One set of his studies is examining a level of explanatory insight that functions without knowledge of specific mechanisms and instead involves knowing what sorts of properties are causally potent in a domain and how they are likely to interact. He also asks how emerging knowledge of concrete mechanisms can link up frequency-based information with abstract explanatory principles as well as cause distortions in judgment. He is the author of Developmental Psychology: The Growth of Mind and Behavior, and other books.",
+	"image": "https://i.ytimg.com/vi/_3Br_iGfRaQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/856-frank-keil-the-development-of-causal/id1451347236?i=1000633629070&uo=4",
+	"publishDate": 2023-11-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/856-Frank-Keil-The-Development-of-Causal-Thinking--Explanation--and-the-Institution-of-Science-e2674d3",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#856 Frank Keil: The Development of Causal Thinking, Explanation, and the Institution of Science",
+	"youtubeid": "_3Br_iGfRaQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 26th 2023.  
 Dr. Frank Keil is Charles C. & Dorathea S. Dilley Professor of Psychology & Linguistics and Director of the Cognition and Development lab at Yale University. At the most general level, he is interested in how we come to make sense of the world around us. One set of his studies is examining a level of explanatory insight that functions without knowledge of specific mechanisms and instead involves knowing what sorts of properties are causally potent in a domain and how they are likely to interact. He also asks how emerging knowledge of concrete mechanisms can link up frequency-based information with abstract explanatory principles as well as cause distortions in judgment. He is the author of Developmental Psychology: The Growth of Mind and Behavior, and other books.
 
@@ -47,5 +38,3 @@ Follow Dr. Keil’s work:
 Faculty page: https://bit.ly/3RYkQQ2  
 Works on ResearchGate: https://bit.ly/3I0xSrt  
 Books on Amazon: https://bit.ly/3S2a6Af
-</div>
-

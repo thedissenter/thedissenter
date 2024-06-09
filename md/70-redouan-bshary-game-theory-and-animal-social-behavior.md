@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681559-44100-2-72f81567e2e77.mp3
-draft: false
-excerpt: "Dr. Redouan Bshary is Ordinary Professor of Eco-ethology at the Universit\xE9\
-  \ de Neuch\xE2tel, Switzerland. His research is focused on cooperation within and\
-  \ between species (mutualism), making use of game theoretic models. He also studies\
-  \ links between game theoretic approaches, animal cognition and behavioral endocrinology. "
-id: '70'
-image: https://i.ytimg.com/vi/TSC6WxrqnUk/maxresdefault.jpg
-publishDate: 2018-09-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/70-Redouan-Bshary-Game-Theory-and-Animal-Social-Behavior-e2rj69
-tags:
-- Biology
-title: '#70 Redouan Bshary: Game Theory and Animal Social Behavior'
-youtubeid: TSC6WxrqnUk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681559-44100-2-72f81567e2e77.mp3",
+	"draft": false,
+	"episodeid": "70",
+	"excerpt": "Dr. Redouan Bshary is Ordinary Professor of Eco-ethology at the Université de Neuchâtel, Switzerland. His research is focused on cooperation within and between species (mutualism), making use of game theoretic models. He also studies links between game theoretic approaches, animal cognition and behavioral endocrinology. ",
+	"image": "https://i.ytimg.com/vi/TSC6WxrqnUk/maxresdefault.jpg",
+	"publishDate": 2018-09-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/70-Redouan-Bshary-Game-Theory-and-Animal-Social-Behavior-e2rj69",
+	"tags": [
+		"Biology"
+	],
+	"title": "#70 Redouan Bshary: Game Theory and Animal Social Behavior",
+	"youtubeid": "TSC6WxrqnUk"
+}
 ---
-<div class="timelinks">
-
 Dr. Redouan Bshary is Ordinary Professor of Eco-ethology at the Université de Neuchâtel, Switzerland. His research is focused on cooperation within and between species (mutualism), making use of game theoretic models. He also studies links between game theoretic approaches, animal cognition and behavioral endocrinology. 
 
 In this episode, we talk about game theory in the studying of animal social behavior. Topics include cleaning mutualism in fish; the cognitive tools necessary for social behavior; what are evolutionarily stable strategies; the importance of the environment and development, and not just genetics; endocrinology and behavior; one-on-one vs collective dynamics; group selection in humans.
@@ -36,5 +34,3 @@ Time Links:
 Follow Dr. Bshary’s work:  
 Faculty page: https://www.unine.ch/biologie/home/collaborateurs/laboratoire-deco-ethologie/redouan-bshary.html  
 Google Scholar page: https://scholar.google.com/citations?user=HdqFjgMAAAAJ&hl=en
-</div>
-

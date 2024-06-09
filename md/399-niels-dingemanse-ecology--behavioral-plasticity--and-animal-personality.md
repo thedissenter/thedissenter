@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/20172440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F3c008f04-12f4-1082-62b0-4c2f5332ec64.m4a
-draft: false
-excerpt: Dr. Niels Dingemanse is Tenured Professor in Behavioural Ecology in the Department
-  of Biology at the Ludwig Maximilians University, Germany. He conducts evolutionary
-  behavioral ecology research, asking questions about the adaptive evolution of behavioral
-  strategies, and their genetic architectures, within an ecological context. His research
-  is motivated by behavioral ecology, life-history, and quantitative genetics theory,
-  and seeks to test predictions and assumptions of adaptive theory using observational
-  and experimental approaches in the laboratory and the wild.
-id: '399'
-image: https://i.ytimg.com/vi/TZ76B9ro1oc/maxresdefault.jpg
-publishDate: 2020-12-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/399-Niels-Dingemanse-Ecology--Behavioral-Plasticity--and-Animal-Personality-ek646o
-tags:
-- Biology
-- Psychology
-title: '#399 Niels Dingemanse: Ecology, Behavioral Plasticity, and Animal Personality'
-youtubeid: TZ76B9ro1oc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/20172440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-25%2F3c008f04-12f4-1082-62b0-4c2f5332ec64.m4a",
+	"draft": false,
+	"episodeid": "399",
+	"excerpt": "Dr. Niels Dingemanse is Tenured Professor in Behavioural Ecology in the Department of Biology at the Ludwig Maximilians University, Germany. He conducts evolutionary behavioral ecology research, asking questions about the adaptive evolution of behavioral strategies, and their genetic architectures, within an ecological context. His research is motivated by behavioral ecology, life-history, and quantitative genetics theory, and seeks to test predictions and assumptions of adaptive theory using observational and experimental approaches in the laboratory and the wild.",
+	"image": "https://i.ytimg.com/vi/TZ76B9ro1oc/maxresdefault.jpg",
+	"publishDate": 2020-12-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/399-Niels-Dingemanse-Ecology--Behavioral-Plasticity--and-Animal-Personality-ek646o",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#399 Niels Dingemanse: Ecology, Behavioral Plasticity, and Animal Personality",
+	"youtubeid": "TZ76B9ro1oc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 24th 2020.  
 Dr. Niels Dingemanse is Tenured Professor in Behavioural Ecology in the Department of Biology at the Ludwig Maximilians University, Germany. He conducts evolutionary behavioral ecology research, asking questions about the adaptive evolution of behavioral strategies, and their genetic architectures, within an ecological context. His research is motivated by behavioral ecology, life-history, and quantitative genetics theory, and seeks to test predictions and assumptions of adaptive theory using observational and experimental approaches in the laboratory and the wild.
 
@@ -42,5 +37,3 @@ Follow Dr. Dingemanse’s work:
 Faculty page: https://bit.ly/3cz6HnK  
 ResearchGate profile: https://bit.ly/360HyB2  
 Twitter handle: @DingemanseLab
-</div>
-

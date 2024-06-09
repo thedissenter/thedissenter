@@ -1,19 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/33970678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-21%2F6eb2b868-b957-b8fe-6d11-8e9cacbe2537.m4a
-draft: false
-excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
-id: '502'
-image: https://i.ytimg.com/vi/JGf9LESv5CA/maxresdefault.jpg
-publishDate: 2021-07-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/502-Marco-Neves-Histria-do-Portugus-Desde-o-Big-Bang-e11b71m
-tags:
-- Linguistics
-- "Entrevistas em Portugu\xEAs"
-title: "#502 Marco Neves: Hist\xF3ria do Portugu\xEAs Desde o Big Bang"
-youtubeid: JGf9LESv5CA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/33970678/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-21%2F6eb2b868-b957-b8fe-6d11-8e9cacbe2537.m4a",
+	"draft": false,
+	"episodeid": "502",
+	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
+	"image": "https://i.ytimg.com/vi/JGf9LESv5CA/maxresdefault.jpg",
+	"publishDate": 2021-07-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/502-Marco-Neves-Histria-do-Portugus-Desde-o-Big-Bang-e11b71m",
+	"tags": [
+		"Linguistics",
+		"Entrevistas em Português"
+	],
+	"title": "#502 Marco Neves: História do Português Desde o Big Bang",
+	"youtubeid": "JGf9LESv5CA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 21st 2021.  
 THIS INTERVIEW IS IN PORTUGUESE.  
 Marco Neves é professor de tradução na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, tradutor e diretor do escritório de Lisboa da Eurologos e colunista no Sapo 24. É também autor do blogue Certas Palavras, e de livros como “A Incrível História Secreta da Língua Portuguesa”, “Dicionário de Erros Falsos e Mitos do Português”, “Gramática para Todos — O Português na Ponta da Língua” e “O Galego e o Português São a Mesma Língua?”. O seu novo livro é “História do Português Desde o Big Bang”.
@@ -40,5 +41,3 @@ Coluna no Sapo 24: http://bit.ly/36YEfHC
 Blogue “Certas Palavras”: http://bit.ly/2PNPehr  
 Livros na Wook: http://bit.ly/2PiBtaN  
 História do Português Desde o Big Bang: https://bit.ly/3fxLfkP
-</div>
-

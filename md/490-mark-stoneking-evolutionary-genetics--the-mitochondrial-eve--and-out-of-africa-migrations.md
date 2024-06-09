@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/30572676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F2df0b762-4f9b-7f78-0d40-991552c9fe47.m4a
-draft: false
-excerpt: "Dr. Mark Stoneking directs the Human Population History Group in the Department\
-  \ of Evolutionary Genetics at the Max Planck Institute for Evolutionary Anthropology\
-  \ in Leipzig, Germany. He is also Honorary Professor of Biological Anthropology\
-  \ at the University of Leipzig. Dr. Stoneking\u2019s research uses molecular genetic\
-  \ approaches to address questions of anthropological interest concerning the origins,\
-  \ migrations, structure, and relationships of human populations. He, along with\
-  \ his doctoral advisor Allan Wilson and a fellow researcher Rebecca L. Cann, contributed\
-  \ to the Out of Africa Theory in 1987 by introducing the concept of Mitochondrial\
-  \ Eve, a hypothetical common mother of all living humans based on mitochondrial\
-  \ DNA."
-id: '490'
-image: https://i.ytimg.com/vi/wlpFN3C1OPQ/maxresdefault.jpg
-publishDate: 2021-07-02
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/490-Mark-Stoneking-Evolutionary-Genetics--The-Mitochondrial-Eve--and-Out-of-Africa-Migrations-eu3gm4
-tags:
-- Biology
-- Anthropology
-title: '#490 Mark Stoneking: Evolutionary Genetics, The Mitochondrial Eve, and Out
-  of Africa Migrations'
-youtubeid: wlpFN3C1OPQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/30572676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-2%2F2df0b762-4f9b-7f78-0d40-991552c9fe47.m4a",
+	"draft": false,
+	"episodeid": "490",
+	"excerpt": "Dr. Mark Stoneking directs the Human Population History Group in the Department of Evolutionary Genetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. He is also Honorary Professor of Biological Anthropology at the University of Leipzig. Dr. Stoneking’s research uses molecular genetic approaches to address questions of anthropological interest concerning the origins, migrations, structure, and relationships of human populations. He, along with his doctoral advisor Allan Wilson and a fellow researcher Rebecca L. Cann, contributed to the Out of Africa Theory in 1987 by introducing the concept of Mitochondrial Eve, a hypothetical common mother of all living humans based on mitochondrial DNA.",
+	"image": "https://i.ytimg.com/vi/wlpFN3C1OPQ/maxresdefault.jpg",
+	"publishDate": 2021-07-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/490-Mark-Stoneking-Evolutionary-Genetics--The-Mitochondrial-Eve--and-Out-of-Africa-Migrations-eu3gm4",
+	"tags": [
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#490 Mark Stoneking: Evolutionary Genetics, The Mitochondrial Eve, and Out of Africa Migrations",
+	"youtubeid": "wlpFN3C1OPQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 1st 2021.  
 Dr. Mark Stoneking directs the Human Population History Group in the Department of Evolutionary Genetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. He is also Honorary Professor of Biological Anthropology at the University of Leipzig. Dr. Stoneking’s research uses molecular genetic approaches to address questions of anthropological interest concerning the origins, migrations, structure, and relationships of human populations. He, along with his doctoral advisor Allan Wilson and a fellow researcher Rebecca L. Cann, contributed to the Out of Africa Theory in 1987 by introducing the concept of Mitochondrial Eve, a hypothetical common mother of all living humans based on mitochondrial DNA.
 
@@ -49,5 +40,3 @@ Follow Dr. Stoneking’s work:
 Faculty page: https://bit.ly/3cDO9Ej  
 ResearchGate profile: https://bit.ly/2NM6ntr  
 Max Planck Institute for Evolutionary Anthropology: https://bit.ly/3ugq8cj
-</div>
-

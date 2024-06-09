@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/28008075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2F9a357980-4591-1c40-1e6a-659dea92410e.m4a
-draft: false
-excerpt: 'Dr. Ilana Redstone is an Associate Professor of Sociology at the University
-  of Illinois at Urbana-Champaign. Dr. Redstone''s work has focused on legal permanent
-  residents to the United States. Using a quantitative analytic approach, she has
-  addressed questions surrounding a variety of dimensions of immigrant adaptation
-  to the U.S. She has also written on the discipline of Sociology and the divisions
-  therein. Dr. Redstone''s current work focuses on campus climate and viewpoint diversity.
-  She is the author of Unassailable Ideas: How Unwritten Rules and Social Media Shape
-  Discourse in American Higher Education.'
-id: '477'
-image: https://i.ytimg.com/vi/XvMfykZ0Qso/maxresdefault.jpg
-publishDate: 2021-06-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/477-Ilana-Redstone---Unassailable-Ideas--Social-Media--and-Discourse-in-American-Higher-Education-erl86b
-tags:
-- Sociology
-title: '#477 Ilana Redstone - Unassailable Ideas, Social Media, and Discourse in American
-  Higher Education'
-youtubeid: XvMfykZ0Qso
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/28008075/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-5%2F9a357980-4591-1c40-1e6a-659dea92410e.m4a",
+	"draft": false,
+	"episodeid": "477",
+	"excerpt": "Dr. Ilana Redstone is an Associate Professor of Sociology at the University of Illinois at Urbana-Champaign. Dr. Redstone's work has focused on legal permanent residents to the United States. Using a quantitative analytic approach, she has addressed questions surrounding a variety of dimensions of immigrant adaptation to the U.S. She has also written on the discipline of Sociology and the divisions therein. Dr. Redstone's current work focuses on campus climate and viewpoint diversity. She is the author of Unassailable Ideas: How Unwritten Rules and Social Media Shape Discourse in American Higher Education.",
+	"image": "https://i.ytimg.com/vi/XvMfykZ0Qso/maxresdefault.jpg",
+	"publishDate": 2021-06-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/477-Ilana-Redstone---Unassailable-Ideas--Social-Media--and-Discourse-in-American-Higher-Education-erl86b",
+	"tags": [
+		"Sociology"
+	],
+	"title": "#477 Ilana Redstone - Unassailable Ideas, Social Media, and Discourse in American Higher Education",
+	"youtubeid": "XvMfykZ0Qso"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 2nd 2021.  
 Dr. Ilana Redstone is an Associate Professor of Sociology at the University of Illinois at Urbana-Champaign. Dr. Redstone's work has focused on legal permanent residents to the United States. Using a quantitative analytic approach, she has addressed questions surrounding a variety of dimensions of immigrant adaptation to the U.S. She has also written on the discipline of Sociology and the divisions therein. Dr. Redstone's current work focuses on campus climate and viewpoint diversity. She is the author of Unassailable Ideas: How Unwritten Rules and Social Media Shape Discourse in American Higher Education.
 
@@ -49,5 +42,3 @@ Diverse Perspectives Consulting: http://bit.ly/2PlWGTb
 Beyond Bigots and Snowflakes (playlist): http://bit.ly/3uL0tcZ  
 Unassailable Ideas: https://amzn.to/3aWMPfp  
 Twitter handle: @irakresh
-</div>
-

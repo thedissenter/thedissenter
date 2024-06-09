@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/64978516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F62e1051d-2c30-f0ef-71e2-9dbe63f172af.m4a
-draft: false
-excerpt: 'Dr. Marissa Harrison is Associate Professor of Psychology in the School
-  of Behavioral Sciences and Education, and Interim Chair of Social Sciences and Psychology
-  at Penn State Harrisburg. She is a research psychologist who investigates serial
-  murder, and interest in serial murder, from an evolutionary and other psychological
-  perspectives. She is the author of Just as Deadly: The Psychology of Female Serial
-  Killers.'
-id: '813'
-image: https://i.ytimg.com/vi/qjvNtKUz6hQ/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/813-marissa-harrison-just-as-deadly-the-psychology/id1451347236?i=1000622554087&uo=4
-publishDate: 2023-07-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/813-Marissa-Harrison---Just-as-Deadly-The-Psychology-of-Female-Serial-Killers-e1utg4k
-tags:
-- Psychology
-title: '#813 Marissa Harrison - Just as Deadly: The Psychology of Female Serial Killers'
-youtubeid: qjvNtKUz6hQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/64978516/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F62e1051d-2c30-f0ef-71e2-9dbe63f172af.m4a",
+	"draft": false,
+	"episodeid": "813",
+	"excerpt": "Dr. Marissa Harrison is Associate Professor of Psychology in the School of Behavioral Sciences and Education, and Interim Chair of Social Sciences and Psychology at Penn State Harrisburg. She is a research psychologist who investigates serial murder, and interest in serial murder, from an evolutionary and other psychological perspectives. She is the author of Just as Deadly: The Psychology of Female Serial Killers.",
+	"image": "https://i.ytimg.com/vi/qjvNtKUz6hQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/813-marissa-harrison-just-as-deadly-the-psychology/id1451347236?i=1000622554087&uo=4",
+	"publishDate": 2023-07-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/813-Marissa-Harrison---Just-as-Deadly-The-Psychology-of-Female-Serial-Killers-e1utg4k",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#813 Marissa Harrison - Just as Deadly: The Psychology of Female Serial Killers",
+	"youtubeid": "qjvNtKUz6hQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 13th 2023.  
 Dr. Marissa Harrison is Associate Professor of Psychology in the School of Behavioral Sciences and Education, and Interim Chair of Social Sciences and Psychology at Penn State Harrisburg. She is a research psychologist who investigates serial murder, and interest in serial murder, from an evolutionary and other psychological perspectives. She is the author of Just as Deadly: The Psychology of Female Serial Killers.
 
@@ -48,5 +44,3 @@ Website: https://bit.ly/3V0FcIg
 ResearchGate profile: https://bit.ly/3PyZKXg  
 Just as Deadly: https://bit.ly/3Fx3bsO  
 Twitter handle: @MHarrisonPSU
-</div>
-

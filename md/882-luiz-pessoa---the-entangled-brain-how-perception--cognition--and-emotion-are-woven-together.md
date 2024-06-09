@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/75461885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-4%2Ffcea7d6c-ee40-3288-7fb4-232135537220.m4a
-draft: false
-excerpt: 'Dr. Luiz Pessoa is a Professor in the Department of Psychology at the University
-  of Maryland, and Director of the Maryland Neuroimaging Center. Dr. Pessoa uses behavioral
-  and functional MRI methods to study cognition and emotion (as manipulated, for instance,
-  via the threat of shock), with an emphasis on the interactions between cognitive
-  and emotional brain systems. He also studies interactions between cognition and
-  motivation (as manipulated, for instance, via cash reward). An additional focus
-  of his research centers on the development of statistical and computational tools
-  for the analysis of fMRI data, particularly methods to link moment-to-moment fluctuations
-  in behavior to single-trial brain responses. He is the author of The Entangled Brain:
-  How Perception, Cognition, and Emotion Are Woven Together.'
-id: '882'
-image: https://i.ytimg.com/vi/gxdQXTAGlio/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/882-luiz-pessoa-the-entangled-brain-how-perception/id1451347236?i=1000640575550&uo=4
-publishDate: 2024-01-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/882-Luiz-Pessoa---The-Entangled-Brain-How-Perception--Cognition--and-Emotion-Are-Woven-Together-e28tdpt
-tags:
-- Neuroscience
-title: '#882 Luiz Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion
-  Are Woven Together'
-youtubeid: gxdQXTAGlio
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75461885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-4%2Ffcea7d6c-ee40-3288-7fb4-232135537220.m4a",
+	"draft": false,
+	"episodeid": "882",
+	"excerpt": "Dr. Luiz Pessoa is a Professor in the Department of Psychology at the University of Maryland, and Director of the Maryland Neuroimaging Center. Dr. Pessoa uses behavioral and functional MRI methods to study cognition and emotion (as manipulated, for instance, via the threat of shock), with an emphasis on the interactions between cognitive and emotional brain systems. He also studies interactions between cognition and motivation (as manipulated, for instance, via cash reward). An additional focus of his research centers on the development of statistical and computational tools for the analysis of fMRI data, particularly methods to link moment-to-moment fluctuations in behavior to single-trial brain responses. He is the author of The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together.",
+	"image": "https://i.ytimg.com/vi/gxdQXTAGlio/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/882-luiz-pessoa-the-entangled-brain-how-perception/id1451347236?i=1000640575550&uo=4",
+	"publishDate": 2024-01-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/882-Luiz-Pessoa---The-Entangled-Brain-How-Perception--Cognition--and-Emotion-Are-Woven-Together-e28tdpt",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#882 Luiz Pessoa - The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together",
+	"youtubeid": "gxdQXTAGlio"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 4th 2023.  
 Dr. Luiz Pessoa is a Professor in the Department of Psychology at the University of Maryland, and Director of the Maryland Neuroimaging Center. Dr. Pessoa uses behavioral and functional MRI methods to study cognition and emotion (as manipulated, for instance, via the threat of shock), with an emphasis on the interactions between cognitive and emotional brain systems. He also studies interactions between cognition and motivation (as manipulated, for instance, via cash reward). An additional focus of his research centers on the development of statistical and computational tools for the analysis of fMRI data, particularly methods to link moment-to-moment fluctuations in behavior to single-trial brain responses. He is the author of The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together.
 
@@ -49,5 +40,3 @@ Faculty page: https://bit.ly/3BQj4t1
 ResearchGate profile: https://bit.ly/43saPiB  
 The Entangled Brain: https://bit.ly/45n3ClL  
 Twitter handle: @PessoaBrain
-</div>
-

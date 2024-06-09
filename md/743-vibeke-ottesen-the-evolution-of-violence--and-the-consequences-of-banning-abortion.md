@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/60897006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-19%2Ff782fcac-bb95-47d0-5457-950198245edf.m4a
-draft: false
-excerpt: "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how\
-  \ nature and nurture combined create human behavior. She has a popular science blog\
-  \ \u2013 Biosocial - where she comments on news, scientific findings and literature\
-  \ relevant to her subject \u2013 more often than not with an evolutionary informed\
-  \ approach to understanding the subject matter. She has held numerous lectures on\
-  \ the benefits of an evolutionary informed approach to understanding the cross-cultural\
-  \ sex and age differences in anti-social and criminal behavior. "
-id: '743'
-image: https://i.ytimg.com/vi/TUSicyNlQ8M/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/743-vibeke-ottesen-the-evolution-of/id1451347236?i=1000599421599&uo=4
-publishDate: 2023-02-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/743-Vibeke-Ottesen-The-Evolution-of-Violence--and-the-Consequences-of-Banning-Abortion-e1r0u9e
-tags:
-- Psychology
-title: '#743 Vibeke Ottesen: The Evolution of Violence, and the Consequences of Banning
-  Abortion'
-youtubeid: TUSicyNlQ8M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/60897006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-19%2Ff782fcac-bb95-47d0-5457-950198245edf.m4a",
+	"draft": false,
+	"episodeid": "743",
+	"excerpt": "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how nature and nurture combined create human behavior. She has a popular science blog – Biosocial - where she comments on news, scientific findings and literature relevant to her subject – more often than not with an evolutionary informed approach to understanding the subject matter. She has held numerous lectures on the benefits of an evolutionary informed approach to understanding the cross-cultural sex and age differences in anti-social and criminal behavior. ",
+	"image": "https://i.ytimg.com/vi/TUSicyNlQ8M/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/743-vibeke-ottesen-the-evolution-of/id1451347236?i=1000599421599&uo=4",
+	"publishDate": 2023-02-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/743-Vibeke-Ottesen-The-Evolution-of-Violence--and-the-Consequences-of-Banning-Abortion-e1r0u9e",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#743 Vibeke Ottesen: The Evolution of Violence, and the Consequences of Banning Abortion",
+	"youtubeid": "TUSicyNlQ8M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 19th 2022.  
 Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how nature and nurture combined create human behavior. She has a popular science blog – Biosocial - where she comments on news, scientific findings and literature relevant to her subject – more often than not with an evolutionary informed approach to understanding the subject matter. She has held numerous lectures on the benefits of an evolutionary informed approach to understanding the cross-cultural sex and age differences in anti-social and criminal behavior. 
 
@@ -45,5 +39,3 @@ Our first interview: https://youtu.be/4VxwKrCjAVQ
 Blog: https://bit.ly/3sRWbyD  
 Works on ResearchGate: https://bit.ly/2SMtqXi  
 Twitter handle: @biososial
-</div>
-

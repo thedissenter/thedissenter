@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/69867077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-5%2Fcef46b8b-371f-a0a6-1caa-8f02f5118e51.m4a
-draft: false
-excerpt: 'Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and Cognitive
-  Science at Rutgers University, where she holds a secondary appointment at the Rutgers
-  Center for Cognitive Science. She specializes in epistemology, philosophy of mind,
-  and philosophy of language and is best known for her work on perceptual experience,
-  evidence, capacities, mental content, and imagination. She is the recipient of numerous
-  awards, including a Guggenheim Award, a Humboldt Prize, and a Mellon New Directions
-  Fellowship for a project on the Neuroscience of Perception. She is the author of
-  The Unity of Perception: Content, Consciousness, Evidence.'
-id: '829'
-image: https://i.ytimg.com/vi/gLIJlnWFwKk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/829-susanna-schellenberg-the-unity-of-perception/id1451347236?i=1000626489325&uo=4
-publishDate: 2023-09-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/829-Susanna-Schellenberg---The-Unity-of-Perception-Content--Consciousness--Evidence-e23im45
-tags:
-- Cognitive Science
-- Philosophy
-title: '#829 Susanna Schellenberg - The Unity of Perception: Content, Consciousness,
-  Evidence'
-youtubeid: gLIJlnWFwKk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/69867077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-5%2Fcef46b8b-371f-a0a6-1caa-8f02f5118e51.m4a",
+	"draft": false,
+	"episodeid": "829",
+	"excerpt": "Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and Cognitive Science at Rutgers University, where she holds a secondary appointment at the Rutgers Center for Cognitive Science. She specializes in epistemology, philosophy of mind, and philosophy of language and is best known for her work on perceptual experience, evidence, capacities, mental content, and imagination. She is the recipient of numerous awards, including a Guggenheim Award, a Humboldt Prize, and a Mellon New Directions Fellowship for a project on the Neuroscience of Perception. She is the author of The Unity of Perception: Content, Consciousness, Evidence.",
+	"image": "https://i.ytimg.com/vi/gLIJlnWFwKk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/829-susanna-schellenberg-the-unity-of-perception/id1451347236?i=1000626489325&uo=4",
+	"publishDate": 2023-09-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/829-Susanna-Schellenberg---The-Unity-of-Perception-Content--Consciousness--Evidence-e23im45",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#829 Susanna Schellenberg - The Unity of Perception: Content, Consciousness, Evidence",
+	"youtubeid": "gLIJlnWFwKk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 5th 2023.  
 Dr. Susanna Schellenberg is Distinguished Professor of Philosophy and Cognitive Science at Rutgers University, where she holds a secondary appointment at the Rutgers Center for Cognitive Science. She specializes in epistemology, philosophy of mind, and philosophy of language and is best known for her work on perceptual experience, evidence, capacities, mental content, and imagination. She is the recipient of numerous awards, including a Guggenheim Award, a Humboldt Prize, and a Mellon New Directions Fellowship for a project on the Neuroscience of Perception. She is the author of The Unity of Perception: Content, Consciousness, Evidence.
 
@@ -49,5 +42,3 @@ Faculty page: http://bit.ly/3YyQxlg
 Website: http://bit.ly/40ZFdAv  
 PhilPeople profile: https://bit.ly/40VGR60  
 The Unity of Perception: https://bit.ly/3lD6tEH
-</div>
-

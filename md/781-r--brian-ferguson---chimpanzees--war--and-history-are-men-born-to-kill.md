@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/62505011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-21%2F304217285-44100-2-f4fb47a096743.m4a
-draft: false
-excerpt: "Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers University\
-  \ Newark. His expertise lies in cultural anthropology, the anthropology of war,\
-  \ ethnic conflict, state-tribe interaction, policing, and Puerto Rico. Dr. Ferguson\
-  \ has published many papers critical of biological perspectives in anthropology,\
-  \ especially explanations of war. His latest book is \u201CChimpanzees, War, and\
-  \ History: Are Men Born to Kill?\u201D."
-id: '781'
-image: https://i.ytimg.com/vi/f4gk3IN6UEY/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/781-r-brian-ferguson-chimpanzees-war-and-history-are/id1451347236?i=1000612818945&uo=4
-publishDate: 2023-05-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/781-R--Brian-Ferguson---Chimpanzees--War--and-History-Are-Men-Born-to-Kill-e1si0jj
-tags:
-- Anthropology
-title: '#781 R. Brian Ferguson - Chimpanzees, War, and History: Are Men Born to Kill?'
-youtubeid: f4gk3IN6UEY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/62505011/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-21%2F304217285-44100-2-f4fb47a096743.m4a",
+	"draft": false,
+	"episodeid": "781",
+	"excerpt": "Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers University Newark. His expertise lies in cultural anthropology, the anthropology of war, ethnic conflict, state-tribe interaction, policing, and Puerto Rico. Dr. Ferguson has published many papers critical of biological perspectives in anthropology, especially explanations of war. His latest book is “Chimpanzees, War, and History: Are Men Born to Kill?”.",
+	"image": "https://i.ytimg.com/vi/f4gk3IN6UEY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/781-r-brian-ferguson-chimpanzees-war-and-history-are/id1451347236?i=1000612818945&uo=4",
+	"publishDate": 2023-05-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/781-R--Brian-Ferguson---Chimpanzees--War--and-History-Are-Men-Born-to-Kill-e1si0jj",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#781 R. Brian Ferguson - Chimpanzees, War, and History: Are Men Born to Kill?",
+	"youtubeid": "f4gk3IN6UEY"
+}
 ---
-<div class="timelinks">
-
 Dr. R. Brian Ferguson is Professor of Anthropology at Rutgers University Newark. His expertise lies in cultural anthropology, the anthropology of war, ethnic conflict, state-tribe interaction, policing, and Puerto Rico. Dr. Ferguson has published many papers critical of biological perspectives in anthropology, especially explanations of war. His latest book is “Chimpanzees, War, and History: Are Men Born to Kill?”.
 
 In this episode, we focus on Chimpanzees, War, and History. We start by talking about the history of the belief in a “death instinct” and aggressive drives, and what is war. We go through different cases of chimpanzee groups – Gombe, Mahale, and Kibale -, and get into detail about the Four-Year War; human interference; chimp territoriality; the rise of sociobiology; the Imbalance of Power Hypothesis; the Resource Competition Hypothesis; the Human Impact Hypothesis; the Display Violence Hypothesis; when chimps resort to violence; the aftermath of the war; and issues with counting killings. We discuss the best ways to study violence in chimpanzees. We also talk about bonobos, the demonic perspective applied to human warfare, and Dr. Ferguson’s anthropological theory of war.
@@ -58,5 +54,3 @@ Faculty page: https://bit.ly/3w7mXHy
 Website: https://bit.ly/3PJeGlr  
 ResearchGate profile: https://bit.ly/3Ci5EqS  
 Chimpanzees, War, and History: https://bit.ly/3yYolNr
-</div>
-

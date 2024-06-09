@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/35729743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2Fe55eb8e6-e0b2-fa7e-c6f8-288621ae8ac8.m4a
-draft: false
-excerpt: "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and\
-  \ Conflict Studies at the University of North Carolina at Greensboro. He has written\
-  \ extensively on aggression, conflict, and conflict resolution in his own books\
-  \ and in journals such as Science and American Anthropologist. His work frequently\
-  \ engages the debate surrounding the origins of war, arguing against claims that\
-  \ war or lethal aggression is rooted in human evolution. He\u2019s the author or\
-  \ editor of books like The Human Potential for Peace; Beyond War; War, Peace, and\
-  \ Human Nature; and Nurturing Our Humanity."
-id: '519'
-image: https://i.ytimg.com/vi/Pr5-JqcAo6c/maxresdefault.jpg
-publishDate: 2021-09-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/519-Douglas-Fry-The-Origins-and-Causes-of-War--and-Peace-Social-Systems-and-How-to-Maintain-Them-e130ssf
-tags:
-- Anthropology
-title: '#519 Douglas Fry: The Origins and Causes of War, and Peace Social Systems
-  and How to Maintain Them'
-youtubeid: Pr5-JqcAo6c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/35729743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-18%2Fe55eb8e6-e0b2-fa7e-c6f8-288621ae8ac8.m4a",
+	"draft": false,
+	"episodeid": "519",
+	"excerpt": "Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and Conflict Studies at the University of North Carolina at Greensboro. He has written extensively on aggression, conflict, and conflict resolution in his own books and in journals such as Science and American Anthropologist. His work frequently engages the debate surrounding the origins of war, arguing against claims that war or lethal aggression is rooted in human evolution. He’s the author or editor of books like The Human Potential for Peace; Beyond War; War, Peace, and Human Nature; and Nurturing Our Humanity.",
+	"image": "https://i.ytimg.com/vi/Pr5-JqcAo6c/maxresdefault.jpg",
+	"publishDate": 2021-09-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/519-Douglas-Fry-The-Origins-and-Causes-of-War--and-Peace-Social-Systems-and-How-to-Maintain-Them-e130ssf",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#519 Douglas Fry: The Origins and Causes of War, and Peace Social Systems and How to Maintain Them",
+	"youtubeid": "Pr5-JqcAo6c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 18th 2021.  
 Dr. Douglas P. Fry is Professor and Chair in the Department of Peace and Conflict Studies at the University of North Carolina at Greensboro. He has written extensively on aggression, conflict, and conflict resolution in his own books and in journals such as Science and American Anthropologist. His work frequently engages the debate surrounding the origins of war, arguing against claims that war or lethal aggression is rooted in human evolution. He’s the author or editor of books like The Human Potential for Peace; Beyond War; War, Peace, and Human Nature; and Nurturing Our Humanity.
 
@@ -50,5 +43,3 @@ Papers:
 Social complexity, inequality and war before farming: congruence of comparative forager and archaeological data: https://bit.ly/3wPOsDy  
 New insights on interpersonal violence in the Late Pleistocene base on the Nile valley cemetery of Jebel Sahaba: https://go.nature.com/3q6kXuM  
 Societies within peace systems avoid war and build positive intergroup relationships: https://go.nature.com/3cR2Svf
-</div>
-

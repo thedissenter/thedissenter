@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40391147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2F0af8800a-ef64-6995-40f1-31228eaa7850.m4a
-draft: false
-excerpt: "Dr. Chris Knight is Honorary Professor in the Department of Anthropology\
-  \ at University College London. Over many years, he has been exploring the idea\
-  \ that human language and culture emerged in our species not purely through gradual\
-  \ Darwinian evolution but in a cumulative process culminating in sudden revolutionary\
-  \ change. The details of his \u2018sex strike\u2019 theory remain controversial,\
-  \ but the general idea that the transition to language was a \u2018major transition\u2019\
-  \ or \u2018revolution\u2019 (often termed the human revolution) has been current\
-  \ for many years and is now widely agreed."
-id: '567'
-image: https://i.ytimg.com/vi/MncLaFg8TuA/maxresdefault.jpg
-publishDate: 2021-12-30
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/567-Chris-Knight-The-Cultural-and-Social-Bases-of-Language-e17f51b
-tags:
-- Anthropology
-title: '#567 Chris Knight: The Cultural and Social Bases of Language'
-youtubeid: MncLaFg8TuA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40391147/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2F0af8800a-ef64-6995-40f1-31228eaa7850.m4a",
+	"draft": false,
+	"episodeid": "567",
+	"excerpt": "Dr. Chris Knight is Honorary Professor in the Department of Anthropology at University College London. Over many years, he has been exploring the idea that human language and culture emerged in our species not purely through gradual Darwinian evolution but in a cumulative process culminating in sudden revolutionary change. The details of his ‘sex strike’ theory remain controversial, but the general idea that the transition to language was a ‘major transition’ or ‘revolution’ (often termed the human revolution) has been current for many years and is now widely agreed.",
+	"image": "https://i.ytimg.com/vi/MncLaFg8TuA/maxresdefault.jpg",
+	"publishDate": 2021-12-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/567-Chris-Knight-The-Cultural-and-Social-Bases-of-Language-e17f51b",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#567 Chris Knight: The Cultural and Social Bases of Language",
+	"youtubeid": "MncLaFg8TuA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 15th 2021.  
 Dr. Chris Knight is Honorary Professor in the Department of Anthropology at University College London. Over many years, he has been exploring the idea that human language and culture emerged in our species not purely through gradual Darwinian evolution but in a cumulative process culminating in sudden revolutionary change. The details of his ‘sex strike’ theory remain controversial, but the general idea that the transition to language was a ‘major transition’ or ‘revolution’ (often termed the human revolution) has been current for many years and is now widely agreed.
 
@@ -45,5 +39,3 @@ Follow Dr. Knight’s work:
 Website: https://bit.ly/3pu7mwr  
 Science and Revolution blog: https://bit.ly/3zeBIae  
 ResearchGate profile: https://bit.ly/3A08bSV
-</div>
-

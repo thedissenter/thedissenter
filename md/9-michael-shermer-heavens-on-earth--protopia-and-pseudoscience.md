@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571921-44100-2-0ca9ba74dc338.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '9'
-image: https://i.ytimg.com/vi/19FM-_qShDw/maxresdefault.jpg
-publishDate: 2018-03-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/9-Michael-Shermer-Heavens-on-Earth--Protopia-and-Pseudoscience-e2r44k
-title: '#9 Michael Shermer: Heavens on Earth, Protopia and Pseudoscience'
-youtubeid: 19FM-_qShDw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986132/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7571921-44100-2-0ca9ba74dc338.mp3",
+	"draft": false,
+	"episodeid": "9",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/19FM-_qShDw/maxresdefault.jpg",
+	"publishDate": 2018-03-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/9-Michael-Shermer-Heavens-on-Earth--Protopia-and-Pseudoscience-e2r44k",
+	"title": "#9 Michael Shermer: Heavens on Earth, Protopia and Pseudoscience",
+	"youtubeid": "19FM-_qShDw"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -33,5 +33,4 @@ Heavens on Earth European version: https://www.amazon.co.uk/Heavens-Earth-Scient
 Heavens on Earth original version: https://www.amazon.com/Heavens-Earth-Scientific-Afterlife-Immortality/dp/1627798579  
 Support Skeptic on Patreon: https://www.patreon.com/skeptic  
 More books by Dr. Shermer and others at Skeptic: https://shop.skeptic.com/merchant.mvc?Screen=CTGY&Store_Code=SS&Category_Code=B  
-Dr. Shermer’s Twitter handle: @michaelshermer</div>
-
+Dr. Shermer’s Twitter handle: @michaelshermer

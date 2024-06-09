@@ -1,22 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/21907339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2F9a87d866-ee3b-f493-89ee-cf4132e2ce58.m4a
-draft: false
-excerpt: 'Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of
-  Philosophy at the Center for Mind, Brain, and Culture, at Emory University.   '
-id: '414'
-image: https://i.ytimg.com/vi/ukHIz30b3nI/maxresdefault.jpg
-publishDate: 2021-01-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/414-Robert-McCauley--George-Graham-Hearing-Voices-and-Other-Matters-of-the-Mind-elr2eb
-tags:
-- Cognitive Science
-- Anthropology
-- Philosophy
-title: '#414 Robert McCauley & George Graham: Hearing Voices and Other Matters of
-  the Mind'
-youtubeid: ukHIz30b3nI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/21907339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-9-31%2F9a87d866-ee3b-f493-89ee-cf4132e2ce58.m4a",
+	"draft": false,
+	"episodeid": "414",
+	"excerpt": "Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of Philosophy at the Center for Mind, Brain, and Culture, at Emory University.   ",
+	"image": "https://i.ytimg.com/vi/ukHIz30b3nI/maxresdefault.jpg",
+	"publishDate": 2021-01-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/414-Robert-McCauley--George-Graham-Hearing-Voices-and-Other-Matters-of-the-Mind-elr2eb",
+	"tags": [
+		"Cognitive Science",
+		"Anthropology",
+		"Philosophy"
+	],
+	"title": "#414 Robert McCauley & George Graham: Hearing Voices and Other Matters of the Mind",
+	"youtubeid": "ukHIz30b3nI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 30th 2020.  
 Dr. Robert McCauley is the William Rand Kenan Jr. University Professor of Philosophy at the Center for Mind, Brain, and Culture, at Emory University.   
 Dr. George Graham is former Professor of Philosophy at the University of Alabama at Birmingham and Georgia State University, and the AC Reid Professor of Philosophy at Wake Forest University.  
@@ -49,5 +48,3 @@ Faculty page: https://tinyurl.com/ybe3beqz
 Personal website: http://www.robertmccauley.com/  
 Books: https://tinyurl.com/ycn8kaxo  
 The book (Hearing Voices and Other Matters of the Mind): 
-</div>
-

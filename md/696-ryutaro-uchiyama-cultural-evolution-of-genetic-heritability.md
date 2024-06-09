@@ -1,22 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/55436150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-28%2F26af0b0a-fdf9-f55b-9a4d-32379c186bcc.m4a
-draft: false
-excerpt: Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological University,
-  Singapore. His research interests include cultural evolution, cognitive plasticity,
-  and developmental psychobiology.
-id: '696'
-image: https://i.ytimg.com/vi/j7HIP0AQwno/maxresdefault.jpg
-publishDate: 2022-10-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/696-Ryutaro-Uchiyama-Cultural-Evolution-of-Genetic-Heritability-e1lq9dm
-tags:
-- Cognitive Science
-- Anthropology
-- Psychology
-title: '#696 Ryutaro Uchiyama: Cultural Evolution of Genetic Heritability'
-youtubeid: j7HIP0AQwno
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/55436150/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-28%2F26af0b0a-fdf9-f55b-9a4d-32379c186bcc.m4a",
+	"draft": false,
+	"episodeid": "696",
+	"excerpt": "Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological University, Singapore. His research interests include cultural evolution, cognitive plasticity, and developmental psychobiology.",
+	"image": "https://i.ytimg.com/vi/j7HIP0AQwno/maxresdefault.jpg",
+	"publishDate": 2022-10-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/696-Ryutaro-Uchiyama-Cultural-Evolution-of-Genetic-Heritability-e1lq9dm",
+	"tags": [
+		"Cognitive Science",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#696 Ryutaro Uchiyama: Cultural Evolution of Genetic Heritability",
+	"youtubeid": "j7HIP0AQwno"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 28th 2022.  
 Dr. Ryutaro Uchiyama is a Research Fellow at Nanyang Technological University, Singapore. His research interests include cultural evolution, cognitive plasticity, and developmental psychobiology.
 
@@ -47,5 +46,3 @@ Works on ResearchGate: https://bit.ly/3OHiQbO
 Cultural evolutionary production of human psychobiological variation and function: https://bit.ly/3vlAV82  
 Cultural Evolution of Genetic Heritability: https://bit.ly/3cQ470Q  
 Twitter handle: @RyutaroUchiyama
-</div>
-

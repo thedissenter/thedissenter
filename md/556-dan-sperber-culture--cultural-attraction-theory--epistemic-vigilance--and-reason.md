@@ -1,29 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42177434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2Fbd039b98-251f-30cd-4ab2-a94fa256589b.m4a
-draft: false
-excerpt: "Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a professor\
-  \ in cognitive science and philosophy at the Central European University in Budapest.\
-  \ He is Corresponding Fellow of the British Academy, Foreign honorary member of\
-  \ the American Academy of Arts and Sciences, and member of the Academia Europaea.\
-  \ He has been the first laureate of the Claude L\xE9vi-Strauss Prize in 2009. He\
-  \ is the author of numerous articles in anthropology, linguistics, philosophy and\
-  \ psychology and of several books, including Meaning and Relevance (with Deirdre\
-  \ Wilson), Relevance: Communication and Cognition (with Deirdre Wilson), and The\
-  \ Enigma of Reason (with Hugo Mercier)."
-id: '556'
-image: https://i.ytimg.com/vi/inCsk5vY3Wk/maxresdefault.jpg
-publishDate: 2021-12-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/556-Dan-Sperber-Culture--Cultural-Attraction-Theory--Epistemic-Vigilance--and-Reason-e195leq
-tags:
-- Anthropology
-- Philosophy
-- Psychology
-title: '#556 Dan Sperber: Culture, Cultural Attraction Theory, Epistemic Vigilance,
-  and Reason'
-youtubeid: inCsk5vY3Wk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42177434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2Fbd039b98-251f-30cd-4ab2-a94fa256589b.m4a",
+	"draft": false,
+	"episodeid": "556",
+	"excerpt": "Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a professor in cognitive science and philosophy at the Central European University in Budapest. He is Corresponding Fellow of the British Academy, Foreign honorary member of the American Academy of Arts and Sciences, and member of the Academia Europaea. He has been the first laureate of the Claude Lévi-Strauss Prize in 2009. He is the author of numerous articles in anthropology, linguistics, philosophy and psychology and of several books, including Meaning and Relevance (with Deirdre Wilson), Relevance: Communication and Cognition (with Deirdre Wilson), and The Enigma of Reason (with Hugo Mercier).",
+	"image": "https://i.ytimg.com/vi/inCsk5vY3Wk/maxresdefault.jpg",
+	"publishDate": 2021-12-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/556-Dan-Sperber-Culture--Cultural-Attraction-Theory--Epistemic-Vigilance--and-Reason-e195leq",
+	"tags": [
+		"Anthropology",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#556 Dan Sperber: Culture, Cultural Attraction Theory, Epistemic Vigilance, and Reason",
+	"youtubeid": "inCsk5vY3Wk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 22nd 2021.  
 Dr. Dan Sperber is a researcher at the Institut Jean Nicod, and a professor in cognitive science and philosophy at the Central European University in Budapest. He is Corresponding Fellow of the British Academy, Foreign honorary member of the American Academy of Arts and Sciences, and member of the Academia Europaea. He has been the first laureate of the Claude Lévi-Strauss Prize in 2009. He is the author of numerous articles in anthropology, linguistics, philosophy and psychology and of several books, including Meaning and Relevance (with Deirdre Wilson), Relevance: Communication and Cognition (with Deirdre Wilson), and The Enigma of Reason (with Hugo Mercier).
 
@@ -51,5 +43,3 @@ Faculty page (CEU): https://bit.ly/3fjthDP
 Website: https://bit.ly/3ariwvG  
 ResearchGate profile: https://bit.ly/3vkq7Fx  
 Amazon page: https://amzn.to/3hVEqwa
-</div>
-

@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51397283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-2%2F70bdbe8d-87e3-cc84-e617-a01f84af9ec6.m4a
-draft: false
-excerpt: 'Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emerging
-  Technologies, and a Laureate of the International Academy of Humanism. He holds
-  an honorary appointment as Conjoint Senior Lecturer in Philosophy at the University
-  of Newcastle. He is the author of several books, including Freedom of Religion and
-  the Secular State, 50 Great Myths About Atheism, The Mystery of Moral Authority,
-  and The Tyranny of Opinion: Conformity and the Future of Liberalism.'
-id: '654'
-image: https://i.ytimg.com/vi/ga7g94VOJjg/maxresdefault.jpg
-publishDate: 2022-07-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/654-Russell-Blackford-Religious-Freedom--Atheism--Scientism--Nihilism--and-Morality-e1hv173
-tags:
-- Philosophy
-title: '#654 Russell Blackford: Religious Freedom, Atheism, Scientism, Nihilism, and
-  Morality'
-youtubeid: ga7g94VOJjg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51397283/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-2%2F70bdbe8d-87e3-cc84-e617-a01f84af9ec6.m4a",
+	"draft": false,
+	"episodeid": "654",
+	"excerpt": "Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emerging Technologies, and a Laureate of the International Academy of Humanism. He holds an honorary appointment as Conjoint Senior Lecturer in Philosophy at the University of Newcastle. He is the author of several books, including Freedom of Religion and the Secular State, 50 Great Myths About Atheism, The Mystery of Moral Authority, and The Tyranny of Opinion: Conformity and the Future of Liberalism.",
+	"image": "https://i.ytimg.com/vi/ga7g94VOJjg/maxresdefault.jpg",
+	"publishDate": 2022-07-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/654-Russell-Blackford-Religious-Freedom--Atheism--Scientism--Nihilism--and-Morality-e1hv173",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#654 Russell Blackford: Religious Freedom, Atheism, Scientism, Nihilism, and Morality",
+	"youtubeid": "ga7g94VOJjg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 2nd 2022.  
 Dr. Russell Blackford is a Fellow of the Institute for Ethics and Emerging Technologies, and a Laureate of the International Academy of Humanism. He holds an honorary appointment as Conjoint Senior Lecturer in Philosophy at the University of Newcastle. He is the author of several books, including Freedom of Religion and the Secular State, 50 Great Myths About Atheism, The Mystery of Moral Authority, and The Tyranny of Opinion: Conformity and the Future of Liberalism.
 
@@ -43,5 +38,3 @@ Follow Dr. Blackford’s work:
 Faculty page: https://bit.ly/3vXRuGd  
 Website: https://bit.ly/3xHa5Gt  
 Amazon page: https://amzn.to/3qhsnM2
-</div>
-

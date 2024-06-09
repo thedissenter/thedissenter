@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/75174466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-28%2F9c05f4fd-4ed9-d8dd-da80-a0cb85321044.m4a
-draft: false
-excerpt: "Dr. \xC9mile Torres is a researcher at Leibniz Universit\xE4t Hannover,\
-  \ in Germany. Their work over the past decade has centered around a single theme:\
-  \ eschatology, whether religious, secular, or scientific. Recently, their work has\
-  \ been focused on the nature and causes of human extinction, its ethical implications,\
-  \ and the history of the idea.  They are the author of Morality, Foresight, and\
-  \ Human Flourishing: An Introduction to Existential Risks, and their latest book\
-  \ is Human Extinction: A History of the Science and Ethics of Annihilation."
-id: '843'
-image: https://i.ytimg.com/vi/8ckRT2hhz7c/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/843-%C3%A9mile-torres-human-extinction-a-history-of/id1451347236?i=1000630338673&uo=4
-publishDate: 2023-10-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/843-mile-Torres---Human-Extinction-A-History-of-the-Science-and-Ethics-of-Annihilation-e28kl42
-tags:
-- Philosophy
-title: "#843 \xC9mile Torres - Human Extinction: A History of the Science and Ethics\
-  \ of Annihilation (Part 1)"
-youtubeid: 8ckRT2hhz7c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75174466/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-28%2F9c05f4fd-4ed9-d8dd-da80-a0cb85321044.m4a",
+	"draft": false,
+	"episodeid": "843",
+	"excerpt": "Dr. Émile Torres is a researcher at Leibniz Universität Hannover, in Germany. Their work over the past decade has centered around a single theme: eschatology, whether religious, secular, or scientific. Recently, their work has been focused on the nature and causes of human extinction, its ethical implications, and the history of the idea.  They are the author of Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks, and their latest book is Human Extinction: A History of the Science and Ethics of Annihilation.",
+	"image": "https://i.ytimg.com/vi/8ckRT2hhz7c/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/843-%C3%A9mile-torres-human-extinction-a-history-of/id1451347236?i=1000630338673&uo=4",
+	"publishDate": 2023-10-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/843-mile-Torres---Human-Extinction-A-History-of-the-Science-and-Ethics-of-Annihilation-e28kl42",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#843 Émile Torres - Human Extinction: A History of the Science and Ethics of Annihilation (Part 1)",
+	"youtubeid": "8ckRT2hhz7c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 28th 2023.  
 Dr. Émile Torres is a researcher at Leibniz Universität Hannover, in Germany. Their work over the past decade has centered around a single theme: eschatology, whether religious, secular, or scientific. Recently, their work has been focused on the nature and causes of human extinction, its ethical implications, and the history of the idea.  They are the author of Morality, Foresight, and Human Flourishing: An Introduction to Existential Risks, and their latest book is Human Extinction: A History of the Science and Ethics of Annihilation.
 
@@ -46,5 +40,3 @@ University page: https://bit.ly/3BUcz8j
 Website: https://bit.ly/3qbrU1S  
 Human Extinction: https://bit.ly/3OGrXgi  
 Twitter handle: @xriskology
-</div>
-

@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/51748596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-9%2F74ea6ac8-bfa1-0dd2-f169-a85c4a0fc055.m4a
-draft: false
-excerpt: 'Dr. Todd Kashdan is Professor of Psychology at George Mason University.
-  He has been named Distinguished Faculty Member of the Year at George Mason University
-  and received the American Psychological Association''s Distinguished Scientific
-  Award for Early Career Contribution to Psychology. His new book is The Art of Insubordination:
-  How to Dissent and Defy Effectively.'
-id: '658'
-image: https://i.ytimg.com/vi/GadlKjkoRjU/maxresdefault.jpg
-publishDate: 2022-07-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/658-Todd-Kashdan---The-Art-of-Insubordination-How-to-Dissent-and-Defy-Effectively-e1i9o9k
-tags:
-- Psychology
-title: '#658 Todd Kashdan - The Art of Insubordination: How to Dissent and Defy Effectively'
-youtubeid: GadlKjkoRjU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/51748596/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-9%2F74ea6ac8-bfa1-0dd2-f169-a85c4a0fc055.m4a",
+	"draft": false,
+	"episodeid": "658",
+	"excerpt": "Dr. Todd Kashdan is Professor of Psychology at George Mason University. He has been named Distinguished Faculty Member of the Year at George Mason University and received the American Psychological Association's Distinguished Scientific Award for Early Career Contribution to Psychology. His new book is The Art of Insubordination: How to Dissent and Defy Effectively.",
+	"image": "https://i.ytimg.com/vi/GadlKjkoRjU/maxresdefault.jpg",
+	"publishDate": 2022-07-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/658-Todd-Kashdan---The-Art-of-Insubordination-How-to-Dissent-and-Defy-Effectively-e1i9o9k",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#658 Todd Kashdan - The Art of Insubordination: How to Dissent and Defy Effectively",
+	"youtubeid": "GadlKjkoRjU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 9th 2022.  
 Dr. Todd Kashdan is Professor of Psychology at George Mason University. He has been named Distinguished Faculty Member of the Year at George Mason University and received the American Psychological Association's Distinguished Scientific Award for Early Career Contribution to Psychology. His new book is The Art of Insubordination: How to Dissent and Defy Effectively.
 
@@ -48,5 +45,3 @@ ResearchGate profile: https://bit.ly/3rxSZdw
 Amazon page: https://amzn.to/3jNwvRr  
 The Art of Insubordination: https://amzn.to/3rZgYli  
 Twitter handle: @toddkashdan
-</div>
-

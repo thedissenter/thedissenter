@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4166830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635541-44100-2-bdbbc7209544e.m4a
-draft: false
-excerpt: "Dr. Daniel Glass is a clinician and researcher in the disciplines of evolutionary\
-  \ and clinical psychology. He has published sixteen peer-reviewed scholarly articles\
-  \ in the fields of psychology, medicine, and evolutionary studies, on subjects ranging\
-  \ from human emotions to peer bullying/victimization to Alzheimer\u2019s disease.\
-  \ He received his doctorate in clinical psychology from Suffolk University and is\
-  \ currently a postdoctoral fellow at a private practice in Connecticut. His dissertation\
-  \ is on the emotional processing function of dreaming.  "
-id: '235'
-image: https://i.ytimg.com/vi/x8zqPExrnIs/maxresdefault.jpg
-publishDate: 2019-09-27
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/235-RoundTable-1-What-is-PsychTable--ft--Daniel-Glass--Niruban-Balachandran-e4tlne
-tags:
-- RoundTable
-- Psychology
-title: '#235 RoundTable 1: What is PsychTable? ft. Daniel Glass & Niruban Balachandran'
-youtubeid: x8zqPExrnIs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4166830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-10%2F20635541-44100-2-bdbbc7209544e.m4a",
+	"draft": false,
+	"episodeid": "235",
+	"excerpt": "Dr. Daniel Glass is a clinician and researcher in the disciplines of evolutionary and clinical psychology. He has published sixteen peer-reviewed scholarly articles in the fields of psychology, medicine, and evolutionary studies, on subjects ranging from human emotions to peer bullying/victimization to Alzheimer’s disease. He received his doctorate in clinical psychology from Suffolk University and is currently a postdoctoral fellow at a private practice in Connecticut. His dissertation is on the emotional processing function of dreaming.  ",
+	"image": "https://i.ytimg.com/vi/x8zqPExrnIs/maxresdefault.jpg",
+	"publishDate": 2019-09-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/235-RoundTable-1-What-is-PsychTable--ft--Daniel-Glass--Niruban-Balachandran-e4tlne",
+	"tags": [
+		"RoundTable",
+		"Psychology"
+	],
+	"title": "#235 RoundTable 1: What is PsychTable? ft. Daniel Glass & Niruban Balachandran",
+	"youtubeid": "x8zqPExrnIs"
+}
 ---
-<div class="timelinks">
-
 Dr. Daniel Glass is a clinician and researcher in the disciplines of evolutionary and clinical psychology. He has published sixteen peer-reviewed scholarly articles in the fields of psychology, medicine, and evolutionary studies, on subjects ranging from human emotions to peer bullying/victimization to Alzheimer’s disease. He received his doctorate in clinical psychology from Suffolk University and is currently a postdoctoral fellow at a private practice in Connecticut. His dissertation is on the emotional processing function of dreaming.  
 Mr. Niruban Balachandran was a winner of the World Bank's Innovation Challenge Prize and the International Society for Human Ethology's Linda Mealey Award. He is widely published in scholarly journals and print media, and is a frequently-invited speaker at international conferences. He is a Master of Public Administration (MPA) graduate of Harvard University's John F. Kennedy School of Government, as well as a Bachelor of psychology graduate from Rutgers. He was also a member of the Harvard Behavioral Insights Group.  
 They are both project co-leaders of PsychTable.
@@ -51,5 +46,3 @@ Applied Evolutionary Psychology Society (AEPS): http://bit.ly/2YPdEwm
 Relevant literature:  
 Evaluating evidence of psychological adaptation: how do we know one when we see one?: http://bit.ly/2YylKuc  
 The Adapted Mind: Evolutionary Psychology and the Generation of Culture: https://amzn.to/2Kyg1dF
-</div>
-

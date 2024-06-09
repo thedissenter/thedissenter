@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4903339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123224-44100-2-894b229080166.m4a
-draft: false
-excerpt: "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School\
-  \ of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies\
-  \ Institute, at University of the Witwatersrand, South Africa. She directs a Wits-recognized\
-  \ programme called ACACIA (Ancient Cognition and Culture in Africa). Her specialty\
-  \ is the African Stone Age: Middle Stone Age (which lasted from approximately 300,000\
-  \ to 25,000 years ago) and Later Stone Age (the last 25,000 years). She began her\
-  \ career researching social and ecological issues during the past 25,000 years of\
-  \ the Later Stone Age in southern Africa. Data for her interpretations were obtained\
-  \ from sites in Namibia and South Africa. Dr. Wadley\u2019s current research is\
-  \ dedicated to the cognition of people who lived in the Middle Stone Age."
-id: '266'
-image: https://i.ytimg.com/vi/AQpkmNLs7ls/maxresdefault.jpg
-publishDate: 2019-12-09
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/266-Lyn-Wadley-Archaeology--And-The-Evolution-of-Human-Cognition-e5k4vb
-tags:
-- Archaeology
-- Anthropology
-title: '#266 Lyn Wadley: Archaeology, And The Evolution of Human Cognition'
-youtubeid: AQpkmNLs7ls
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4903339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25123224-44100-2-894b229080166.m4a",
+	"draft": false,
+	"episodeid": "266",
+	"excerpt": "Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies Institute, at University of the Witwatersrand, South Africa. She directs a Wits-recognized programme called ACACIA (Ancient Cognition and Culture in Africa). Her specialty is the African Stone Age: Middle Stone Age (which lasted from approximately 300,000 to 25,000 years ago) and Later Stone Age (the last 25,000 years). She began her career researching social and ecological issues during the past 25,000 years of the Later Stone Age in southern Africa. Data for her interpretations were obtained from sites in Namibia and South Africa. Dr. Wadley’s current research is dedicated to the cognition of people who lived in the Middle Stone Age.",
+	"image": "https://i.ytimg.com/vi/AQpkmNLs7ls/maxresdefault.jpg",
+	"publishDate": 2019-12-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/266-Lyn-Wadley-Archaeology--And-The-Evolution-of-Human-Cognition-e5k4vb",
+	"tags": [
+		"Archaeology",
+		"Anthropology"
+	],
+	"title": "#266 Lyn Wadley: Archaeology, And The Evolution of Human Cognition",
+	"youtubeid": "AQpkmNLs7ls"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 27th, 2019.  
 Dr. Lyn Wadley is jointly Honorary Professor of Archaeology in the School of Geography, Archaeology and Environmental Studies, and the Evolutionary Studies Institute, at University of the Witwatersrand, South Africa. She directs a Wits-recognized programme called ACACIA (Ancient Cognition and Culture in Africa). Her specialty is the African Stone Age: Middle Stone Age (which lasted from approximately 300,000 to 25,000 years ago) and Later Stone Age (the last 25,000 years). She began her career researching social and ecological issues during the past 25,000 years of the Later Stone Age in southern Africa. Data for her interpretations were obtained from sites in Namibia and South Africa. Dr. Wadley’s current research is dedicated to the cognition of people who lived in the Middle Stone Age.
 
@@ -53,5 +45,3 @@ Recognizing Complex Cognition through Innovative Technology in Stone Age and Pal
 Compound‐Adhesive Manufacture as a Behavioral Proxy for Complex Cognition in the Middle Stone Age: http://bit.ly/2lCDyC0  
 Technological Transformations Imply Cultural Transformations and Complex Cognition: http://bit.ly/2nGUWGg  
 Changing Social Behaviour: The Pen Age to Internet Age: http://bit.ly/2lDEHcy
-</div>
-

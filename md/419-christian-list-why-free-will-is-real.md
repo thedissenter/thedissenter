@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22531913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2Fbf5eee63-d4ed-5c63-e803-bd88003c5ee7.m4a
-draft: false
-excerpt: "Dr. Christian List is Professor of Philosophy and Decision Theory at LMU\
-  \ Munich and Co-Director of the Munich Center for Mathematical Philosophy. He\u2019\
-  s the author of Why Free Will Is Real."
-id: '419'
-image: https://i.ytimg.com/vi/XHmdhDjLGwA/maxresdefault.jpg
-publishDate: 2021-01-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/419-Christian-List-Why-Free-Will-Is-Real-eme4c9
-tags:
-- Philosophy
-title: '#419 Christian List: Why Free Will Is Real'
-youtubeid: XHmdhDjLGwA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22531913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-13%2Fbf5eee63-d4ed-5c63-e803-bd88003c5ee7.m4a",
+	"draft": false,
+	"episodeid": "419",
+	"excerpt": "Dr. Christian List is Professor of Philosophy and Decision Theory at LMU Munich and Co-Director of the Munich Center for Mathematical Philosophy. He’s the author of Why Free Will Is Real.",
+	"image": "https://i.ytimg.com/vi/XHmdhDjLGwA/maxresdefault.jpg",
+	"publishDate": 2021-01-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/419-Christian-List-Why-Free-Will-Is-Real-eme4c9",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#419 Christian List: Why Free Will Is Real",
+	"youtubeid": "XHmdhDjLGwA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 12th 2020.  
 Dr. Christian List is Professor of Philosophy and Decision Theory at LMU Munich and Co-Director of the Munich Center for Mathematical Philosophy. He’s the author of Why Free Will Is Real.
 
@@ -38,5 +37,3 @@ Faculty page: https://bit.ly/2IpMm9j
 Website: https://bit.ly/3lov8YE  
 PhilPeople page: https://bit.ly/3ksNs1g  
 Why Free Will Is Real: https://amzn.to/2Iu7VpD
-</div>
-

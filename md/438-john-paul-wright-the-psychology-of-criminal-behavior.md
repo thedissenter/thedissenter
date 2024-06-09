@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24162383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3743c894-117c-e68d-1b56-3cd3f5ef98d8.m4a
-draft: false
-excerpt: Dr. John Paul Wright is Professor of Criminal Justice in the Division of
-  Criminal Justice at the University of Cincinnati. Dr. Wright was rated as the most
-  productive associate professor in criminology and was recently evaluated as one
-  of the most cited criminologists in the United States.  He earned his undergraduate
-  degrees in criminology from Indiana State University and his Ph.D. from the University
-  of Cincinnati. He has published over 130 scholarly articles in criminology, psychology,
-  behavioral genetics, and molecular genetics journals and is a frequent lecturer
-  to professional organizations interested in the development of serious, violent
-  offending. The winner of four teaching awards, he teaches in the area of life-course
-  development and biosocial criminology.
-id: '438'
-image: https://i.ytimg.com/vi/YXGWfkI3nDY/maxresdefault.jpg
-publishDate: 2021-03-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/438-John-Paul-Wright-The-Psychology-of-Criminal-Behavior-envskf
-tags:
-- Psychology
-title: '#438 John Paul Wright: The Psychology of Criminal Behavior'
-youtubeid: YXGWfkI3nDY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24162383/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-18%2F3743c894-117c-e68d-1b56-3cd3f5ef98d8.m4a",
+	"draft": false,
+	"episodeid": "438",
+	"excerpt": "Dr. John Paul Wright is Professor of Criminal Justice in the Division of Criminal Justice at the University of Cincinnati. Dr. Wright was rated as the most productive associate professor in criminology and was recently evaluated as one of the most cited criminologists in the United States.  He earned his undergraduate degrees in criminology from Indiana State University and his Ph.D. from the University of Cincinnati. He has published over 130 scholarly articles in criminology, psychology, behavioral genetics, and molecular genetics journals and is a frequent lecturer to professional organizations interested in the development of serious, violent offending. The winner of four teaching awards, he teaches in the area of life-course development and biosocial criminology.",
+	"image": "https://i.ytimg.com/vi/YXGWfkI3nDY/maxresdefault.jpg",
+	"publishDate": 2021-03-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/438-John-Paul-Wright-The-Psychology-of-Criminal-Behavior-envskf",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#438 John Paul Wright: The Psychology of Criminal Behavior",
+	"youtubeid": "YXGWfkI3nDY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 15th 2020.  
 Dr. John Paul Wright is Professor of Criminal Justice in the Division of Criminal Justice at the University of Cincinnati. Dr. Wright was rated as the most productive associate professor in criminology and was recently evaluated as one of the most cited criminologists in the United States.  He earned his undergraduate degrees in criminology from Indiana State University and his Ph.D. from the University of Cincinnati. He has published over 130 scholarly articles in criminology, psychology, behavioral genetics, and molecular genetics journals and is a frequent lecturer to professional organizations interested in the development of serious, violent offending. The winner of four teaching awards, he teaches in the area of life-course development and biosocial criminology.
 
@@ -47,5 +39,3 @@ Time Links:
 Follow Dr. Wright’s work:  
 Faculty page: http://bit.ly/2KoF1Yz  
 Works on ResearchGate: https://bit.ly/2K8MCdU
-</div>
-

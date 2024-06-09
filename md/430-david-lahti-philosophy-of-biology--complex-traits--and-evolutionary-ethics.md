@@ -1,23 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/23545684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F39e09831-cdd1-95e6-4a3e-0bea3ab889ab.m4a
-draft: false
-excerpt: Dr. David C. Lahti is an Associate Professor of Biology at Queens College,
-  City University of New York, where he runs a Behavior & Evolution laboratory. His
-  work focuses on evolutionary and behavioral ecology, especially the evolution of
-  complex and learned traits in birds and humans.
-id: '430'
-image: https://i.ytimg.com/vi/A169YpFWj6o/maxresdefault.jpg
-publishDate: 2021-02-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/430-David-Lahti-Philosophy-of-Biology--Complex-Traits--and-Evolutionary-Ethics-end2ck
-tags:
-- Biology
-- Philosophy
-title: '#430 David Lahti: Philosophy of Biology, Complex Traits, and Evolutionary
-  Ethics'
-youtubeid: A169YpFWj6o
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/23545684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-5%2F39e09831-cdd1-95e6-4a3e-0bea3ab889ab.m4a",
+	"draft": false,
+	"episodeid": "430",
+	"excerpt": "Dr. David C. Lahti is an Associate Professor of Biology at Queens College, City University of New York, where he runs a Behavior & Evolution laboratory. His work focuses on evolutionary and behavioral ecology, especially the evolution of complex and learned traits in birds and humans.",
+	"image": "https://i.ytimg.com/vi/A169YpFWj6o/maxresdefault.jpg",
+	"publishDate": 2021-02-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/430-David-Lahti-Philosophy-of-Biology--Complex-Traits--and-Evolutionary-Ethics-end2ck",
+	"tags": [
+		"Biology",
+		"Philosophy"
+	],
+	"title": "#430 David Lahti: Philosophy of Biology, Complex Traits, and Evolutionary Ethics",
+	"youtubeid": "A169YpFWj6o"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 4th 2020.  
 Dr. David C. Lahti is an Associate Professor of Biology at Queens College, City University of New York, where he runs a Behavior & Evolution laboratory. His work focuses on evolutionary and behavioral ecology, especially the evolution of complex and learned traits in birds and humans.
 
@@ -44,5 +41,3 @@ Website: https://bit.ly/36CXSbe
 The Lahti Lab: https://bit.ly/36zUxJL  
 ResearchGate profile: https://bit.ly/33H9Nmj  
 Twitter handle: @davidclahti
-</div>
-

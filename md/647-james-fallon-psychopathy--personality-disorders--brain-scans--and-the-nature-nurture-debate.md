@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/50318229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Ff207f13a-2bc9-a2ba-a872-dc85027c7a80.m4a
-draft: false
-excerpt: 'Dr. James Fallon is professor of psychiatry and human behavior and emeritus
-  professor of anatomy and neurobiology in the University of California, Irvine School
-  of Medicine. His research interests include adult stem cells, chemical neuroanatomy
-  and circuitry, higher brain functions, and brain imaging. He is the author of The
-  Psychopath Inside: A Neuroscientist''s Personal Journey into the Dark Side of the
-  Brain.'
-id: '647'
-image: https://i.ytimg.com/vi/Kg7TBXxgH7k/maxresdefault.jpg
-publishDate: 2022-07-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/647-James-Fallon-Psychopathy--Personality-Disorders--Brain-Scans--and-the-Nature-Nurture-Debate-e1gu3el
-tags:
-- Neuroscience
-- Psychology
-title: '#647 James Fallon: Psychopathy, Personality Disorders, Brain Scans, and the
-  Nature-Nurture Debate'
-youtubeid: Kg7TBXxgH7k
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/50318229/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-8%2Ff207f13a-2bc9-a2ba-a872-dc85027c7a80.m4a",
+	"draft": false,
+	"episodeid": "647",
+	"excerpt": "Dr. James Fallon is professor of psychiatry and human behavior and emeritus professor of anatomy and neurobiology in the University of California, Irvine School of Medicine. His research interests include adult stem cells, chemical neuroanatomy and circuitry, higher brain functions, and brain imaging. He is the author of The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain.",
+	"image": "https://i.ytimg.com/vi/Kg7TBXxgH7k/maxresdefault.jpg",
+	"publishDate": 2022-07-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/647-James-Fallon-Psychopathy--Personality-Disorders--Brain-Scans--and-the-Nature-Nurture-Debate-e1gu3el",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#647 James Fallon: Psychopathy, Personality Disorders, Brain Scans, and the Nature-Nurture Debate",
+	"youtubeid": "Kg7TBXxgH7k"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 8th 2022.  
 Dr. James Fallon is professor of psychiatry and human behavior and emeritus professor of anatomy and neurobiology in the University of California, Irvine School of Medicine. His research interests include adult stem cells, chemical neuroanatomy and circuitry, higher brain functions, and brain imaging. He is the author of The Psychopath Inside: A Neuroscientist's Personal Journey into the Dark Side of the Brain.
 
@@ -43,5 +38,3 @@ Faculty page: https://bit.ly/3qEWLR4
 ResearchGate profile: https://bit.ly/3FU606o  
 The Psychopath Inside: https://amzn.to/3FM6BXB  
 Twitter handle: @jameshfallon
-</div>
-

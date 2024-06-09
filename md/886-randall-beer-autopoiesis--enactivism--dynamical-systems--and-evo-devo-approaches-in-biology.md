@@ -1,28 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/74615071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-14%2F838c372d-f47d-6c49-1aa3-88622bf4e5a6.m4a
-draft: false
-excerpt: Dr. Randall Beer is Professor of Cognitive Science and Informatics at Indiana
-  University Bloomington. Dr. Beer's primary research interest is in understanding
-  how coordinated behavior arises from the dynamical interaction of an animal's nervous
-  system, its body and its environment. Toward this end, he works on the evolution
-  and analysis of dynamical "nervous systems" for model agents, neuromechanical modeling
-  of animals, biologically-inspired robotics, and dynamical systems approaches to
-  behavior and cognition. More generally, he is interested in computational and theoretical
-  biology, including models of metabolism, gene regulation and development.
-id: '886'
-image: https://i.ytimg.com/vi/1YcSgczYqKk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/886-randall-beer-autopoiesis-enactivism-dynamical-systems/id1451347236?i=1000641472703&uo=4
-publishDate: 2024-01-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/886-Randall-Beer-Autopoiesis--Enactivism--Dynamical-Systems--and-Evo-Devo-Approaches-in-Biology-e283iqv
-tags:
-- Cognitive Science
-- Biology
-title: '#886 Randall Beer: Autopoiesis, Enactivism, Dynamical Systems, and Evo-Devo
-  Approaches in Biology'
-youtubeid: 1YcSgczYqKk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/74615071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-14%2F838c372d-f47d-6c49-1aa3-88622bf4e5a6.m4a",
+	"draft": false,
+	"episodeid": "886",
+	"excerpt": "Dr. Randall Beer is Professor of Cognitive Science and Informatics at Indiana University Bloomington. Dr. Beer's primary research interest is in understanding how coordinated behavior arises from the dynamical interaction of an animal's nervous system, its body and its environment. Toward this end, he works on the evolution and analysis of dynamical \"nervous systems\" for model agents, neuromechanical modeling of animals, biologically-inspired robotics, and dynamical systems approaches to behavior and cognition. More generally, he is interested in computational and theoretical biology, including models of metabolism, gene regulation and development.",
+	"image": "https://i.ytimg.com/vi/1YcSgczYqKk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/886-randall-beer-autopoiesis-enactivism-dynamical-systems/id1451347236?i=1000641472703&uo=4",
+	"publishDate": 2024-01-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/886-Randall-Beer-Autopoiesis--Enactivism--Dynamical-Systems--and-Evo-Devo-Approaches-in-Biology-e283iqv",
+	"tags": [
+		"Cognitive Science",
+		"Biology"
+	],
+	"title": "#886 Randall Beer: Autopoiesis, Enactivism, Dynamical Systems, and Evo-Devo Approaches in Biology",
+	"youtubeid": "1YcSgczYqKk"
+}
 ---
-<div class="timelinks">
-
 Dr. Randall Beer is Professor of Cognitive Science and Informatics at Indiana University Bloomington. Dr. Beer's primary research interest is in understanding how coordinated behavior arises from the dynamical interaction of an animal's nervous system, its body and its environment. Toward this end, he works on the evolution and analysis of dynamical "nervous systems" for model agents, neuromechanical modeling of animals, biologically-inspired robotics, and dynamical systems approaches to behavior and cognition. More generally, he is interested in computational and theoretical biology, including models of metabolism, gene regulation and development.
 
 In this episode, we talk about biology and cognitive science. We first discuss autopoiesis, the work of Humberto Maturana and Francisco Varela, and how it relates to cognition. We talk about motor behavior, a brain-body-environment framework, studying locomotion in C. elegans, and connectomics. We discuss the relationship between biology and cognition, and enactivism. We talk about computational-representationalist approaches, and dynamical approaches in cognitive science. We go through the history of the situated, embodied, and dynamical framework in cognitive science, and 4E cognition. We discuss minimally cognitive agents, and AI systems. Finally, we talk about evo-devo approaches in biology, developmental bias, and the extended evolutionary synthesis.
@@ -51,5 +44,3 @@ Time Links:
 Follow Dr. Beer’s work:  
 Faculty page: https://bit.ly/3KEyswD  
 Works on ResearchGate: https://bit.ly/3KEyu7J
-</div>
-

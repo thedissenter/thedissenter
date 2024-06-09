@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/26253231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2F152270839-44100-2-546eee1292e95.m4a
-draft: false
-excerpt: Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University
-  of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent
-  University in Turkey and a Visiting Fellow at the Institute for Advanced Study in
-  Berlin, Germany. Laith has taught and conducted research in several different countries,
-  and is a member of the Arab-German Young Academy (AGYA), as well as an academic
-  adviser at Ideas Beyond Borders (IBB).
-id: '432'
-image: https://i.ytimg.com/vi/bK506Z9bjGw/maxresdefault.jpg
-publishDate: 2021-02-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/432-Laith-Al-Shawaf-Evolutionary-Psychology--Just-so-Stories--Anger-and-Disgust--and-Culture-epvmff
-tags:
-- Psychology
-title: '#432 Laith Al-Shawaf: Evolutionary Psychology, Just-so Stories, Anger and
-  Disgust, and Culture'
-youtubeid: bK506Z9bjGw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/26253231/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-5%2F152270839-44100-2-546eee1292e95.m4a",
+	"draft": false,
+	"episodeid": "432",
+	"excerpt": "Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent University in Turkey and a Visiting Fellow at the Institute for Advanced Study in Berlin, Germany. Laith has taught and conducted research in several different countries, and is a member of the Arab-German Young Academy (AGYA), as well as an academic adviser at Ideas Beyond Borders (IBB).",
+	"image": "https://i.ytimg.com/vi/bK506Z9bjGw/maxresdefault.jpg",
+	"publishDate": 2021-02-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/432-Laith-Al-Shawaf-Evolutionary-Psychology--Just-so-Stories--Anger-and-Disgust--and-Culture-epvmff",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#432 Laith Al-Shawaf: Evolutionary Psychology, Just-so Stories, Anger and Disgust, and Culture",
+	"youtubeid": "bK506Z9bjGw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 2nd 2021.  
 Dr. Laith Al-Shawaf is an Associate Professor of Psychology at the University of Colorado Colorado Springs (UCCS). Before, he was an Assistant Professor at Bilkent University in Turkey and a Visiting Fellow at the Institute for Advanced Study in Berlin, Germany. Laith has taught and conducted research in several different countries, and is a member of the Arab-German Young Academy (AGYA), as well as an academic adviser at Ideas Beyond Borders (IBB).
 
@@ -44,5 +39,3 @@ Personal website: http://bit.ly/2pnIwnK
 ResearchGate profile: http://bit.ly/32mGrqD  
 Articles on Areo Magazine: http://bit.ly/3oFsHS8  
 Twitter handle: @LaithAlShawaf
-</div>
-

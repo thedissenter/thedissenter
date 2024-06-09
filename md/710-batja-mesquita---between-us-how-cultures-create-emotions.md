@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/60362470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F3bec5d09-2259-9450-40e5-82b2fd29114f.m4a
-draft: false
-excerpt: 'Dr. Batja Mesquita is Distinguished Professor of Psychology at the University
-  of Leuven, Belgium, where she studies the role of culture in emotions, and of emotions
-  in culture and society. She is director of the Center for Social and Cultural Psychology
-  in Leuven. She is the author of Between Us: How Cultures Create Emotions.'
-id: '710'
-image: https://i.ytimg.com/vi/eyTBsgOU24E/maxresdefault.jpg
-publishDate: 2022-11-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/710-Batja-Mesquita---Between-Us-How-Cultures-Create-Emotions-e1qgk96
-tags:
-- Psychology
-title: '#710 Batja Mesquita - Between Us: How Cultures Create Emotions'
-youtubeid: eyTBsgOU24E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/60362470/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F3bec5d09-2259-9450-40e5-82b2fd29114f.m4a",
+	"draft": false,
+	"episodeid": "710",
+	"excerpt": "Dr. Batja Mesquita is Distinguished Professor of Psychology at the University of Leuven, Belgium, where she studies the role of culture in emotions, and of emotions in culture and society. She is director of the Center for Social and Cultural Psychology in Leuven. She is the author of Between Us: How Cultures Create Emotions.",
+	"image": "https://i.ytimg.com/vi/eyTBsgOU24E/maxresdefault.jpg",
+	"publishDate": 2022-11-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/710-Batja-Mesquita---Between-Us-How-Cultures-Create-Emotions-e1qgk96",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#710 Batja Mesquita - Between Us: How Cultures Create Emotions",
+	"youtubeid": "eyTBsgOU24E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 9th 2022.  
 Dr. Batja Mesquita is Distinguished Professor of Psychology at the University of Leuven, Belgium, where she studies the role of culture in emotions, and of emotions in culture and society. She is director of the Center for Social and Cultural Psychology in Leuven. She is the author of Between Us: How Cultures Create Emotions.
 
@@ -52,5 +50,3 @@ Faculty page: https://bit.ly/3Po10Ln
 Website: https://bit.ly/3Sa3DSC  
 ResearchGate profile: https://bit.ly/3Rv6jKZ  
 Between Us: https://amzn.to/3Rt1wtr
-</div>
-

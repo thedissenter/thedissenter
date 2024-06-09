@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40395833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2Fce5d075b-b8dc-f446-39a9-8731c2dc2857.m4a
-draft: false
-excerpt: Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK.
-  His research is concerned with the differences in mating strategies within and between
-  the sexes. This includes environmental and social factors which contribute to this
-  variance and whether mating preferences themselves are reactive to environmental
-  changes over short-term periods. He also has a secondary interest in cyber-psychology
-  and online interaction; particularly how one represents oneself using internet avatars
-  and aliases.
-id: '569'
-image: https://i.ytimg.com/vi/0qnj1VkeVnE/maxresdefault.jpg
-publishDate: 2022-01-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/569-Andrew-Thomas-Ovulation--Mate-Preferences--and-Mating-Strategies-e17f9jp
-tags:
-- Psychology
-title: '#569 Andrew Thomas: Ovulation, Mate Preferences, and Mating Strategies'
-youtubeid: 0qnj1VkeVnE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40395833/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-16%2Fce5d075b-b8dc-f446-39a9-8731c2dc2857.m4a",
+	"draft": false,
+	"episodeid": "569",
+	"excerpt": "Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK. His research is concerned with the differences in mating strategies within and between the sexes. This includes environmental and social factors which contribute to this variance and whether mating preferences themselves are reactive to environmental changes over short-term periods. He also has a secondary interest in cyber-psychology and online interaction; particularly how one represents oneself using internet avatars and aliases.",
+	"image": "https://i.ytimg.com/vi/0qnj1VkeVnE/maxresdefault.jpg",
+	"publishDate": 2022-01-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/569-Andrew-Thomas-Ovulation--Mate-Preferences--and-Mating-Strategies-e17f9jp",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#569 Andrew Thomas: Ovulation, Mate Preferences, and Mating Strategies",
+	"youtubeid": "0qnj1VkeVnE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 13th 2021.  
 Dr. Andrew Thomas is a Lecturer in Psychology at Swansea University, UK. His research is concerned with the differences in mating strategies within and between the sexes. This includes environmental and social factors which contribute to this variance and whether mating preferences themselves are reactive to environmental changes over short-term periods. He also has a secondary interest in cyber-psychology and online interaction; particularly how one represents oneself using internet avatars and aliases.
 
@@ -44,5 +39,3 @@ ResearchGate profile: https://bit.ly/3E2vTQF
 Psychology Today blog: https://bit.ly/3z9qraW  
 Darwin Does Dating (Twitter): @DatingDarwin  
 Twitter handle: @DrThomasAG
-</div>
-

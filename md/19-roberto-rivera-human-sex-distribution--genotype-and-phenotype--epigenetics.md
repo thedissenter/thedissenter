@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1986259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572358-44100-2-c22e5dca46be2.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '19'
-image: https://i.ytimg.com/vi/2DxJl_vPohI/maxresdefault.jpg
-publishDate: 2018-04-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/19-Roberto-Rivera-Human-Sex-Distribution--Genotype-and-Phenotype--Epigenetics-e2r48j
-title: '#19 Roberto Rivera: Human Sex Distribution, Genotype and Phenotype, Epigenetics'
-youtubeid: 2DxJl_vPohI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1986259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-26%2F7572358-44100-2-c22e5dca46be2.mp3",
+	"draft": false,
+	"episodeid": "19",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/2DxJl_vPohI/maxresdefault.jpg",
+	"publishDate": 2018-04-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/19-Roberto-Rivera-Human-Sex-Distribution--Genotype-and-Phenotype--Epigenetics-e2r48j",
+	"title": "#19 Roberto Rivera: Human Sex Distribution, Genotype and Phenotype, Epigenetics",
+	"youtubeid": "2DxJl_vPohI"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -28,5 +28,4 @@ O Roberto Caldazilla Rivera estudou Biologia e Matemática na Universidade de Po
 Decidi convidar o Roberto para o canal, uma vez que em fevereiro tivemos uma discussão no Twitter sobre sexo humano, e distribuição do sexo em humanos.  
 Assim, aqui falamos sobre sexo cromossomal e anisogamia; como lidar com pessoas intersexo em termos de distribuição de sexo; sexo de acasalamento e gâmetas; genótipo e fenótipo; e um pouco sobre epigenética.
 
-Follow Roberto on Twitter: @HaldanesGhost</div>
-
+Follow Roberto on Twitter: @HaldanesGhost

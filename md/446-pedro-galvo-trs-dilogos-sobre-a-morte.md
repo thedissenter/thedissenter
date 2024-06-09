@@ -1,19 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/24955734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F665c6173-131c-8026-3422-c5c3389bb92f.m4a
-draft: false
-excerpt: 'THIS INTERVIEW IS IN PORTUGUESE.  '
-id: '446'
-image: https://i.ytimg.com/vi/wojn8gFUiw4/maxresdefault.jpg
-publishDate: 2021-03-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/446-Pedro-Galvo-Trs-Dilogos-Sobre-a-Morte-eoo3cm
-tags:
-- "Entrevistas em Portugu\xEAs"
-- Philosophy
-title: "#446 Pedro Galv\xE3o: Tr\xEAs Di\xE1logos Sobre a Morte"
-youtubeid: wojn8gFUiw4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/24955734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-9%2F665c6173-131c-8026-3422-c5c3389bb92f.m4a",
+	"draft": false,
+	"episodeid": "446",
+	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
+	"image": "https://i.ytimg.com/vi/wojn8gFUiw4/maxresdefault.jpg",
+	"publishDate": 2021-03-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/446-Pedro-Galvo-Trs-Dilogos-Sobre-a-Morte-eoo3cm",
+	"tags": [
+		"Entrevistas em Português",
+		"Philosophy"
+	],
+	"title": "#446 Pedro Galvão: Três Diálogos Sobre a Morte",
+	"youtubeid": "wojn8gFUiw4"
+}
 ---
-<div class="timelinks">
-
 THIS INTERVIEW IS IN PORTUGUESE.  
 O Dr. Pedro Galvão ensina no Departamento de Filosofia da Faculdade de Letras da Universidade de Lisboa, onde também é membro do Centro de Filosofia. Nesta unidade de investigação, pertence ao grupo LanCog.  É Diretor de Curso da Licenciatura em Filosofia e do Doutoramento em Ética, Democracia e Desafios Societais. Interessa-se por ética filosófica e também por várias questões de metafísica. Traduziu para Português os Métodos do Sidgwick, o Utilitarismo do Mill e outras obras filosóficas. Escreve também ficção especulativa. É autor do recente livro, Três Diálogos sobre a Morte.
 
@@ -38,5 +39,3 @@ Sigam o trabalho do Pedro:
 Página de docente: http://bit.ly/2KwfkSZ  
 Website pessoal: http://bit.ly/2qegpIw  
 Três Diálogos sobre a Morte: http://bit.ly/2XoQACp
-</div>
-

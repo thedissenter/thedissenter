@@ -1,26 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/32564989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2F8faaf11d-b4cc-a9b0-fd89-17228dad46fd.m4a
-draft: false
-excerpt: Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlangen,
-  and in the Department of English Language and Linguistics at Birmingham University.
-  Her research interests include cognitive linguistics, language acquisition, the
-  mental status of rules, and individual differences in linguistic knowledge. She
-  has published monographs on the semantics of case and the relationship between linguistics
-  and other disciplines studying language, and numerous articles. She is the editor
-  of Cognitive Linguistics and Vice President of the UK Cognitive Linguistics Association.
-id: '504'
-image: https://i.ytimg.com/vi/U07H3vm-wv8/maxresdefault.jpg
-publishDate: 2021-08-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/504-Ewa-Dabrowska-Linguistics--and-Native-and-Second-Language-Attainment-e100a9t
-tags:
-- Linguistics
-- Cognitive Science
-- Psychology
-title: '#504 Ewa Dabrowska: Linguistics, and Native and Second Language Attainment'
-youtubeid: U07H3vm-wv8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/32564989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-30%2F8faaf11d-b4cc-a9b0-fd89-17228dad46fd.m4a",
+	"draft": false,
+	"episodeid": "504",
+	"excerpt": "Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlangen, and in the Department of English Language and Linguistics at Birmingham University. Her research interests include cognitive linguistics, language acquisition, the mental status of rules, and individual differences in linguistic knowledge. She has published monographs on the semantics of case and the relationship between linguistics and other disciplines studying language, and numerous articles. She is the editor of Cognitive Linguistics and Vice President of the UK Cognitive Linguistics Association.",
+	"image": "https://i.ytimg.com/vi/U07H3vm-wv8/maxresdefault.jpg",
+	"publishDate": 2021-08-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/504-Ewa-Dabrowska-Linguistics--and-Native-and-Second-Language-Attainment-e100a9t",
+	"tags": [
+		"Linguistics",
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#504 Ewa Dabrowska: Linguistics, and Native and Second Language Attainment",
+	"youtubeid": "U07H3vm-wv8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 27th 2021.  
 Dr. Ewa Dabrowska is Professor at Friedrich Alexander University, Erlangen, and in the Department of English Language and Linguistics at Birmingham University. Her research interests include cognitive linguistics, language acquisition, the mental status of rules, and individual differences in linguistic knowledge. She has published monographs on the semantics of case and the relationship between linguistics and other disciplines studying language, and numerous articles. She is the editor of Cognitive Linguistics and Vice President of the UK Cognitive Linguistics Association.
 
@@ -39,5 +34,3 @@ Time Links:
 Follow Dr. Dabrowska’s work:  
 Faculty page: https://bit.ly/2R643PK  
 ResearchGate profile: https://bit.ly/32NGvSe
-</div>
-

@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/38731187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2Fb5b2ab4f-c099-bc8c-1721-83ea4e573816.m4a
-draft: false
-excerpt: Dr. April Bleske-Rechek is a Professor of Psychology at the University of
-  Wisconsin-Eau Claire. As a researcher, she focuses on human mating, friendship,
-  cognitive abilities and intellectual giftedness, and science literacy.
-id: '553'
-image: https://i.ytimg.com/vi/XnPep3HSyKM/maxresdefault.jpg
-publishDate: 2021-11-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/553-April-Bleske-Rechek-Gender-Roles--Division-of-Labor--Occupation-and-Educational-Choices-e15sfvj
-tags:
-- Psychology
-title: '#553 April Bleske-Rechek: Gender Roles, Division of Labor, Occupation and
-  Educational Choices'
-youtubeid: XnPep3HSyKM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/38731187/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-13%2Fb5b2ab4f-c099-bc8c-1721-83ea4e573816.m4a",
+	"draft": false,
+	"episodeid": "553",
+	"excerpt": "Dr. April Bleske-Rechek is a Professor of Psychology at the University of Wisconsin-Eau Claire. As a researcher, she focuses on human mating, friendship, cognitive abilities and intellectual giftedness, and science literacy.",
+	"image": "https://i.ytimg.com/vi/XnPep3HSyKM/maxresdefault.jpg",
+	"publishDate": 2021-11-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/553-April-Bleske-Rechek-Gender-Roles--Division-of-Labor--Occupation-and-Educational-Choices-e15sfvj",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#553 April Bleske-Rechek: Gender Roles, Division of Labor, Occupation and Educational Choices",
+	"youtubeid": "XnPep3HSyKM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 12th 2021.  
 Dr. April Bleske-Rechek is a Professor of Psychology at the University of Wisconsin-Eau Claire. As a researcher, she focuses on human mating, friendship, cognitive abilities and intellectual giftedness, and science literacy.
 
@@ -41,5 +39,3 @@ Website: https://bit.ly/3CoZP8P
 ResearchGate profile: https://bit.ly/3xyeOts  
 Our first interview: https://youtu.be/GMC-O4jBFdo  
 Gendered Perspectives on Sharing the Load: https://bit.ly/37mV7Kn
-</div>
-

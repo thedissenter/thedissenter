@@ -1,31 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/17068320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2F974f6d24-b949-b84d-0df2-f023ecf3b368.m4a
-draft: false
-excerpt: "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University\
-  \ of Regina\u2019s Hill/Levene Schools of Business. He\u2019s also an Associate\
-  \ Member of the Department of Psychology. He\u2019s a member of the editorial board\
-  \ for Thinking & Reasoning and a consulting editor for Judgment and Decision Making.\
-  \ His research focus is on reasoning and decision-making, broadly defined. He investigates\
-  \ the distinction between intuitive processes (\u201Cgut feelings\u201D) and more\
-  \ deliberative (\u201Canalytic\u201D) reasoning processes and is principally interested\
-  \ in the causes (a) and consequences (b) of analytic thinking. Dr. Pennycook has\
-  \ published on religious belief, sleep paralysis, morality, creativity, smartphone\
-  \ use, health beliefs (e.g., homeopathy), language use among climate change deniers,\
-  \ pseudo-profound bullshit, delusional ideation, fake news (and disinformation more\
-  \ broadly), political ideology, and science beliefs. He\u2019s also interested in\
-  \ the methodological and theoretical issues that pertain to the measurement of cognitive\
-  \ reflection and motivated reasoning."
-id: '380'
-image: https://i.ytimg.com/vi/-yFgMVbpH0Q/maxresdefault.jpg
-publishDate: 2020-10-19
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/380-Gordon-Pennycook-Analytic-Thinking--Reasoning--and-Fake-News-eh7cr0
-tags:
-- Psychology
-title: '#380 Gordon Pennycook: Analytic Thinking, Reasoning, and Fake News'
-youtubeid: -yFgMVbpH0Q
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/17068320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-25%2F974f6d24-b949-b84d-0df2-f023ecf3b368.m4a",
+	"draft": false,
+	"episodeid": "380",
+	"excerpt": "Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University of Regina’s Hill/Levene Schools of Business. He’s also an Associate Member of the Department of Psychology. He’s a member of the editorial board for Thinking & Reasoning and a consulting editor for Judgment and Decision Making. His research focus is on reasoning and decision-making, broadly defined. He investigates the distinction between intuitive processes (“gut feelings”) and more deliberative (“analytic”) reasoning processes and is principally interested in the causes (a) and consequences (b) of analytic thinking. Dr. Pennycook has published on religious belief, sleep paralysis, morality, creativity, smartphone use, health beliefs (e.g., homeopathy), language use among climate change deniers, pseudo-profound bullshit, delusional ideation, fake news (and disinformation more broadly), political ideology, and science beliefs. He’s also interested in the methodological and theoretical issues that pertain to the measurement of cognitive reflection and motivated reasoning.",
+	"image": "https://i.ytimg.com/vi/-yFgMVbpH0Q/maxresdefault.jpg",
+	"publishDate": 2020-10-19,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/380-Gordon-Pennycook-Analytic-Thinking--Reasoning--and-Fake-News-eh7cr0",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#380 Gordon Pennycook: Analytic Thinking, Reasoning, and Fake News",
+	"youtubeid": "-yFgMVbpH0Q"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 22nd, 2020.  
 Dr. Gordon Pennycook is Assistant Professor of Behavioural Science at University of Regina’s Hill/Levene Schools of Business. He’s also an Associate Member of the Department of Psychology. He’s a member of the editorial board for Thinking & Reasoning and a consulting editor for Judgment and Decision Making. His research focus is on reasoning and decision-making, broadly defined. He investigates the distinction between intuitive processes (“gut feelings”) and more deliberative (“analytic”) reasoning processes and is principally interested in the causes (a) and consequences (b) of analytic thinking. Dr. Pennycook has published on religious belief, sleep paralysis, morality, creativity, smartphone use, health beliefs (e.g., homeopathy), language use among climate change deniers, pseudo-profound bullshit, delusional ideation, fake news (and disinformation more broadly), political ideology, and science beliefs. He’s also interested in the methodological and theoretical issues that pertain to the measurement of cognitive reflection and motivated reasoning.
 
@@ -56,5 +44,3 @@ Faculty page: https://bit.ly/2KNLRng
 Website: https://bit.ly/35nLWaI  
 ResearchGate profile: https://bit.ly/3bWURCw  
 Twitter handle: @GordPennycook
-</div>
-

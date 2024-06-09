@@ -1,23 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/66555376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-14%2F663e5ce0-6dcf-073a-2b8a-567720a84152.m4a
-draft: false
-excerpt: 'Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell
-  University. His research and teaching interests revolve around the intersections
-  of space, politics, and everyday practice. He is the author of Adventure Capitalism:
-  A History of Libertarian Exit, from the Era of Decolonization to the Digital Age.'
-id: '807'
-image: https://i.ytimg.com/vi/nQDDmJr3Cw4/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/807-raymond-craib-adventure-capitalism-a-history/id1451347236?i=1000621052398&uo=4
-publishDate: 2023-07-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/807-Raymond-Craib---Adventure-Capitalism-A-History-of-Libertarian-Exit--from-the-Era-of-Decolonization-to-the-Digital-Age-e20dk1g
-tags:
-- History
-- Economics
-title: '#807 Raymond Craib - Adventure Capitalism; A History of Libertarian Exit'
-youtubeid: nQDDmJr3Cw4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/66555376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-14%2F663e5ce0-6dcf-073a-2b8a-567720a84152.m4a",
+	"draft": false,
+	"episodeid": "807",
+	"excerpt": "Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell University. His research and teaching interests revolve around the intersections of space, politics, and everyday practice. He is the author of Adventure Capitalism: A History of Libertarian Exit, from the Era of Decolonization to the Digital Age.",
+	"image": "https://i.ytimg.com/vi/nQDDmJr3Cw4/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/807-raymond-craib-adventure-capitalism-a-history/id1451347236?i=1000621052398&uo=4",
+	"publishDate": 2023-07-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/807-Raymond-Craib---Adventure-Capitalism-A-History-of-Libertarian-Exit--from-the-Era-of-Decolonization-to-the-Digital-Age-e20dk1g",
+	"tags": [
+		"History",
+		"Economics"
+	],
+	"title": "#807 Raymond Craib - Adventure Capitalism; A History of Libertarian Exit",
+	"youtubeid": "nQDDmJr3Cw4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 14th 2023.  
 Dr. Raymond Craib is Marie Underhill Noll Professor of History at Cornell University. His research and teaching interests revolve around the intersections of space, politics, and everyday practice. He is the author of Adventure Capitalism: A History of Libertarian Exit, from the Era of Decolonization to the Digital Age.
 
@@ -41,5 +39,3 @@ Follow Dr. Craib’s work:
 Faculty page: https://bit.ly/3NjE3Jv  
 Adventure Capitalism: https://bit.ly/3WN6lQB  
 Twitter handle: @raycraib
-</div>
-

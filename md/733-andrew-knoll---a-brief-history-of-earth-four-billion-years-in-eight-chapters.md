@@ -1,32 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/59725677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-28%2F316f5f40-ecdd-6c4c-449e-5e2b7af3514e.m4a
-draft: false
-excerpt: "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard University.\
-  \ Dr. Knoll\u2019s research focuses on the early evolution of life, Earth\u2019\
-  s environmental history, and, especially, the interconnections between the two.\
-  \ For the past decade, he has served on the science team for NASA\u2019s MER mission\
-  \ to Mars. Professor Knoll\u2019s honors include the Walcott Medal and the Mary\
-  \ Clark Thompson Medal of the National Academy of Sciences, the Phi Beta Kappa Book\
-  \ Award in Science (for his 2003 book Life on a Young Planet), the Moore Medal of\
-  \ the Society for Sedimentary Geology, the Paleontological Society Medal, and the\
-  \ Wollaston Medal of the Geological Society of London. Dr. Knoll is a member of\
-  \ the National Academy of Sciences, the American Academy of Arts and Sciences, the\
-  \ American Philosophical Society, and the American Academy of Microbiology. He is\
-  \ the author of A Brief History of Earth: Four Billion Years in Eight Chapters."
-id: '733'
-image: https://i.ytimg.com/vi/LUuxfDsGs0c/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/733-andrew-knoll-a-brief-history-of-earth-four/id1451347236?i=1000595795602&uo=4
-publishDate: 2023-01-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/733-Andrew-Knoll---A-Brief-History-of-Earth-Four-Billion-Years-in-Eight-Chapters-e1pt6dd
-tags:
-- Biology
-- General Science
-title: '#733 Andrew Knoll - A Brief History of Earth: Four Billion Years in Eight
-  Chapters'
-youtubeid: LUuxfDsGs0c
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/59725677/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-28%2F316f5f40-ecdd-6c4c-449e-5e2b7af3514e.m4a",
+	"draft": false,
+	"episodeid": "733",
+	"excerpt": "Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard University. Dr. Knoll’s research focuses on the early evolution of life, Earth’s environmental history, and, especially, the interconnections between the two. For the past decade, he has served on the science team for NASA’s MER mission to Mars. Professor Knoll’s honors include the Walcott Medal and the Mary Clark Thompson Medal of the National Academy of Sciences, the Phi Beta Kappa Book Award in Science (for his 2003 book Life on a Young Planet), the Moore Medal of the Society for Sedimentary Geology, the Paleontological Society Medal, and the Wollaston Medal of the Geological Society of London. Dr. Knoll is a member of the National Academy of Sciences, the American Academy of Arts and Sciences, the American Philosophical Society, and the American Academy of Microbiology. He is the author of A Brief History of Earth: Four Billion Years in Eight Chapters.",
+	"image": "https://i.ytimg.com/vi/LUuxfDsGs0c/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/733-andrew-knoll-a-brief-history-of-earth-four/id1451347236?i=1000595795602&uo=4",
+	"publishDate": 2023-01-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/733-Andrew-Knoll---A-Brief-History-of-Earth-Four-Billion-Years-in-Eight-Chapters-e1pt6dd",
+	"tags": [
+		"Biology",
+		"General Science"
+	],
+	"title": "#733 Andrew Knoll - A Brief History of Earth: Four Billion Years in Eight Chapters",
+	"youtubeid": "LUuxfDsGs0c"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 28th 2022.  
 Dr. Andrew Knoll is the Fisher Professor of Natural History at Harvard University. Dr. Knoll’s research focuses on the early evolution of life, Earth’s environmental history, and, especially, the interconnections between the two. For the past decade, he has served on the science team for NASA’s MER mission to Mars. Professor Knoll’s honors include the Walcott Medal and the Mary Clark Thompson Medal of the National Academy of Sciences, the Phi Beta Kappa Book Award in Science (for his 2003 book Life on a Young Planet), the Moore Medal of the Society for Sedimentary Geology, the Paleontological Society Medal, and the Wollaston Medal of the Geological Society of London. Dr. Knoll is a member of the National Academy of Sciences, the American Academy of Arts and Sciences, the American Philosophical Society, and the American Academy of Microbiology. He is the author of A Brief History of Earth: Four Billion Years in Eight Chapters.
 
@@ -54,5 +43,3 @@ Follow Dr. Knoll’s work:
 Faculty page: https://bit.ly/3xylUAl  
 ResearchGate profile: https://bit.ly/3MWOHnK  
 A Brief History of Earth: https://amzn.to/3xYm4lV
-</div>
-

@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65874162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-2%2F758bd71a-ed02-5b14-4fe1-866ad201658f.m4a
-draft: false
-excerpt: 'Dr. Paul Bloom is Professor of Psychology at the University of Toronto,
-  and Brooks and Suzanne Ragen Professor Emeritus of Psychology at Yale University.
-  Dr. Bloom studies how children and adults make sense of the world, with special
-  focus on pleasure, morality, religion, fiction, and art. He has won numerous awards
-  for his research and teaching. He is past-president of the Society for Philosophy
-  and Psychology, and co-editor of Behavioral and Brain Sciences. He is the author
-  of seven books, including his latest Psych: The Story of the Human Mind.'
-id: '752'
-image: https://i.ytimg.com/vi/9BV3Oci3YfY/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/752-paul-bloom-psych-the-story-of-the-human-mind/id1451347236?i=1000603027435&uo=4
-publishDate: 2023-03-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/752-Paul-Bloom---Psych-The-Story-of-the-Human-Mind-e1voqpi
-tags:
-- Psychology
-title: '#752 Paul Bloom - Psych: The Story of the Human Mind'
-youtubeid: 9BV3Oci3YfY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65874162/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-2%2F758bd71a-ed02-5b14-4fe1-866ad201658f.m4a",
+	"draft": false,
+	"episodeid": "752",
+	"excerpt": "Dr. Paul Bloom is Professor of Psychology at the University of Toronto, and Brooks and Suzanne Ragen Professor Emeritus of Psychology at Yale University. Dr. Bloom studies how children and adults make sense of the world, with special focus on pleasure, morality, religion, fiction, and art. He has won numerous awards for his research and teaching. He is past-president of the Society for Philosophy and Psychology, and co-editor of Behavioral and Brain Sciences. He is the author of seven books, including his latest Psych: The Story of the Human Mind.",
+	"image": "https://i.ytimg.com/vi/9BV3Oci3YfY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/752-paul-bloom-psych-the-story-of-the-human-mind/id1451347236?i=1000603027435&uo=4",
+	"publishDate": 2023-03-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/752-Paul-Bloom---Psych-The-Story-of-the-Human-Mind-e1voqpi",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#752 Paul Bloom - Psych: The Story of the Human Mind",
+	"youtubeid": "9BV3Oci3YfY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 2nd 2023.  
 Dr. Paul Bloom is Professor of Psychology at the University of Toronto, and Brooks and Suzanne Ragen Professor Emeritus of Psychology at Yale University. Dr. Bloom studies how children and adults make sense of the world, with special focus on pleasure, morality, religion, fiction, and art. He has won numerous awards for his research and teaching. He is past-president of the Society for Philosophy and Psychology, and co-editor of Behavioral and Brain Sciences. He is the author of seven books, including his latest Psych: The Story of the Human Mind.
 
@@ -54,5 +49,3 @@ ResearchGate profile: https://bit.ly/3eJfJ2B
 Amazon page: https://amzn.to/35iQIrM  
 Psych: https://bit.ly/3WnhdEt  
 Twitter handle: @paulbloomatyale
-</div>
-

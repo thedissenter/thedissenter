@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/48782703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2Ff8cf8ba2-7b6b-b4b1-a249-e3cdf908f153.m4a
-draft: false
-excerpt: "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the\
-  \ University of Porto. He does work in the areas of philosophy of mind, Nietzsche\u2019\
-  s philosophy, Kant\u2019s philosophy, 19th-century German philosophy, phenomenology,\
-  \ philosophy of perception, and philosophy of action. He is the author of Nietzsche\u2019\
-  s Philosophical Psychology."
-id: '635'
-image: https://i.ytimg.com/vi/rq_llEbXT8Y/maxresdefault.jpg
-publishDate: 2022-06-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/635-Mattia-Riccardi-Nietzsches-Philosophical-Psychology-e1ff7tf
-tags:
-- Philosophy
-title: "#635 Mattia Riccardi: Nietzsche\u2019s Philosophical Psychology"
-youtubeid: rq_llEbXT8Y
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/48782703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-9%2Ff8cf8ba2-7b6b-b4b1-a249-e3cdf908f153.m4a",
+	"draft": false,
+	"episodeid": "635",
+	"excerpt": "Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the University of Porto. He does work in the areas of philosophy of mind, Nietzsche’s philosophy, Kant’s philosophy, 19th-century German philosophy, phenomenology, philosophy of perception, and philosophy of action. He is the author of Nietzsche’s Philosophical Psychology.",
+	"image": "https://i.ytimg.com/vi/rq_llEbXT8Y/maxresdefault.jpg",
+	"publishDate": 2022-06-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/635-Mattia-Riccardi-Nietzsches-Philosophical-Psychology-e1ff7tf",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#635 Mattia Riccardi: Nietzsche’s Philosophical Psychology",
+	"youtubeid": "rq_llEbXT8Y"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 9th 2022.  
 Dr. Mattia Riccardi is Assistant Professor at the Faculty of Arts at the University of Porto. He does work in the areas of philosophy of mind, Nietzsche’s philosophy, Kant’s philosophy, 19th-century German philosophy, phenomenology, philosophy of perception, and philosophy of action. He is the author of Nietzsche’s Philosophical Psychology.
 
@@ -50,5 +47,3 @@ PhilPeople profile: http://bit.ly/2mlsB7K
 Works on ResearchGate: http://bit.ly/2kIArYV  
 Our first interview (Nietzsche's Psychology And Epistemology): https://youtu.be/sLkJLNkEFbY  
 Nietzsche’s Philosophical Psychology: https://bit.ly/3LFgiKF
-</div>
-

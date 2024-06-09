@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54422512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-5%2Ffcad67e9-9a85-6180-60d9-e2b9a0dc6c2c.m4a
-draft: false
-excerpt: 'Dr. Daniel Willingham is Professor of Psychology at the University of Virginia.
-  Until about 2000, his research focused solely on the brain basis of learning and
-  memory. Today, all of his research concerns the application of cognitive psychology
-  to K-16 education. He is the author of books like Cognition: The Thinking Animal,
-  Why Don''t Students Like School?: A Cognitive Scientist Answers Questions About
-  How the Mind Works and What It Means for the Classroom, and Outsmart Your Brain.'
-id: '682'
-image: https://i.ytimg.com/vi/s8Uy6EcYNLI/maxresdefault.jpg
-publishDate: 2022-09-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/682-Daniel-Willingham-Why-Dont-Students-Like-School-e1krbhg
-tags:
-- Neuroscience
-- Psychology
-title: '#682 Daniel Willingham: Why Don''t Students Like School?'
-youtubeid: s8Uy6EcYNLI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54422512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-5%2Ffcad67e9-9a85-6180-60d9-e2b9a0dc6c2c.m4a",
+	"draft": false,
+	"episodeid": "682",
+	"excerpt": "Dr. Daniel Willingham is Professor of Psychology at the University of Virginia. Until about 2000, his research focused solely on the brain basis of learning and memory. Today, all of his research concerns the application of cognitive psychology to K-16 education. He is the author of books like Cognition: The Thinking Animal, Why Don't Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom, and Outsmart Your Brain.",
+	"image": "https://i.ytimg.com/vi/s8Uy6EcYNLI/maxresdefault.jpg",
+	"publishDate": 2022-09-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/682-Daniel-Willingham-Why-Dont-Students-Like-School-e1krbhg",
+	"tags": [
+		"Neuroscience",
+		"Psychology"
+	],
+	"title": "#682 Daniel Willingham: Why Don't Students Like School?",
+	"youtubeid": "s8Uy6EcYNLI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 5th 2022.  
 Dr. Daniel Willingham is Professor of Psychology at the University of Virginia. Until about 2000, his research focused solely on the brain basis of learning and memory. Today, all of his research concerns the application of cognitive psychology to K-16 education. He is the author of books like Cognition: The Thinking Animal, Why Don't Students Like School?: A Cognitive Scientist Answers Questions About How the Mind Works and What It Means for the Classroom, and Outsmart Your Brain.
 
@@ -48,5 +44,3 @@ ResearchGate profile: https://bit.ly/3tqzcNN
 Amazon page: https://amzn.to/3NHonix  
 Why Don’t Students Like School: https://amzn.to/3xorzJa  
 Twitter handle: @DTWillingham
-</div>
-

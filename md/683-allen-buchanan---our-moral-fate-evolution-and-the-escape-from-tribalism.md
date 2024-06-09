@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/53811963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F96ccbb2a-0fcc-3c12-a4fb-43c505102754.m4a
-draft: false
-excerpt: 'Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of
-  Philosophy at Duke University, and Laureate Professor of Philosophy at the University
-  of Arizona. He has written six books covering such topics as applied ethics (especially
-  bio-medical ethics), social justice, and international justice, including the foundations
-  of international law. He is the author of Our Moral Fate: Evolution and the Escape
-  from Tribalism.'
-id: '683'
-image: https://i.ytimg.com/vi/gZbbD40FWuw/maxresdefault.jpg
-publishDate: 2022-09-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/683-Allen-Buchanan---Our-Moral-Fate-Evolution-and-the-Escape-from-Tribalism-e1k8n9r
-tags:
-- Anthropology
-- Philosophy
-- Psychology
-title: '#683 Allen Buchanan - Our Moral Fate: Evolution and the Escape from Tribalism'
-youtubeid: gZbbD40FWuw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/53811963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F96ccbb2a-0fcc-3c12-a4fb-43c505102754.m4a",
+	"draft": false,
+	"episodeid": "683",
+	"excerpt": "Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University, and Laureate Professor of Philosophy at the University of Arizona. He has written six books covering such topics as applied ethics (especially bio-medical ethics), social justice, and international justice, including the foundations of international law. He is the author of Our Moral Fate: Evolution and the Escape from Tribalism.",
+	"image": "https://i.ytimg.com/vi/gZbbD40FWuw/maxresdefault.jpg",
+	"publishDate": 2022-09-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/683-Allen-Buchanan---Our-Moral-Fate-Evolution-and-the-Escape-from-Tribalism-e1k8n9r",
+	"tags": [
+		"Anthropology",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#683 Allen Buchanan - Our Moral Fate: Evolution and the Escape from Tribalism",
+	"youtubeid": "gZbbD40FWuw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 21st 2022.  
 Dr. Allen Buchanan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University, and Laureate Professor of Philosophy at the University of Arizona. He has written six books covering such topics as applied ethics (especially bio-medical ethics), social justice, and international justice, including the foundations of international law. He is the author of Our Moral Fate: Evolution and the Escape from Tribalism.
 
@@ -50,5 +46,3 @@ Follow Dr. Buchanan’s work:
 Faculty page: https://bit.ly/327EdQL  
 ResearchGate profile: https://bit.ly/3p3itOu  
 Our Moral Fate: https://amzn.to/3kHlbqS
-</div>
-

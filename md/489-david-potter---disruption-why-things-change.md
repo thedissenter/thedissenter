@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/35295201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F40b5b119-9c28-5099-df6b-ba40acf49ce8.m4a
-draft: false
-excerpt: 'Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek and
-  Roman History and Arthur F. Thurnau Professor at the University of Michigan. His
-  books include The Origin of Empire: Rome from the Republic to Hadrian, Constantine
-  the Emperor, The Victor''s Crown: A History of Ancient Sport from Homer to Byzantium,
-  and Theodora: Actress, Empress, Saint. His new book is Disruption: Why Things Change.'
-id: '489'
-image: https://i.ytimg.com/vi/dY-Kqxe-k-I/maxresdefault.jpg
-publishDate: 2021-07-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/489-David-Potter---Disruption-Why-Things-Change-e12jkh1
-tags:
-- History
-title: '#489 David Potter - Disruption: Why Things Change'
-youtubeid: dY-Kqxe-k-I
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/35295201/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-11%2F40b5b119-9c28-5099-df6b-ba40acf49ce8.m4a",
+	"draft": false,
+	"episodeid": "489",
+	"excerpt": "Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek and Roman History and Arthur F. Thurnau Professor at the University of Michigan. His books include The Origin of Empire: Rome from the Republic to Hadrian, Constantine the Emperor, The Victor's Crown: A History of Ancient Sport from Homer to Byzantium, and Theodora: Actress, Empress, Saint. His new book is Disruption: Why Things Change.",
+	"image": "https://i.ytimg.com/vi/dY-Kqxe-k-I/maxresdefault.jpg",
+	"publishDate": 2021-07-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/489-David-Potter---Disruption-Why-Things-Change-e12jkh1",
+	"tags": [
+		"History"
+	],
+	"title": "#489 David Potter - Disruption: Why Things Change",
+	"youtubeid": "dY-Kqxe-k-I"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 9th 2021.  
 Dr. David Potter is Francis W. Kelsey Collegiate Professor of Greek and Roman History and Arthur F. Thurnau Professor at the University of Michigan. His books include The Origin of Empire: Rome from the Republic to Hadrian, Constantine the Emperor, The Victor's Crown: A History of Ancient Sport from Homer to Byzantium, and Theodora: Actress, Empress, Saint. His new book is Disruption: Why Things Change.
 
@@ -41,5 +38,3 @@ Follow Dr. Potter’s work:
 Faculty page: https://bit.ly/3uYerqZ  
 ResearchGate profile: https://bit.ly/3v6J4dE  
 Disruption: https://amzn.to/2SiP1aa
-</div>
-

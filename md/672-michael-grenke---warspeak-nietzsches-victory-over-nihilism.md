@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/49547402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-24%2F26539d8c-939c-afc1-2602-4848f295dbe0.m4a
-draft: false
-excerpt: 'Dr. Michael Grenke is a Professor at St. John''s College, with a BA from
-  University of Chicago and PhD in Political Science and Government from Boston College.
-  He has published numerous commentaries and translations on Nietzsche, and is a preeminent
-  expert on that thinker. He wrote the Introduction to Warspeak: Nietzsche''s Victory
-  over Nihilism, authored by Dr. Lise van Boxel.'
-id: '672'
-image: https://i.ytimg.com/vi/3HQfunwTj_Y/maxresdefault.jpg
-publishDate: 2022-09-01
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/672-Michael-Grenke---Warspeak-Nietzsches-Victory-over-Nihilism-e1g6ima
-tags:
-- Philosophy
-title: '#672 Michael Grenke - Warspeak: Nietzsche''s Victory over Nihilism'
-youtubeid: 3HQfunwTj_Y
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/49547402/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-24%2F26539d8c-939c-afc1-2602-4848f295dbe0.m4a",
+	"draft": false,
+	"episodeid": "672",
+	"excerpt": "Dr. Michael Grenke is a Professor at St. John's College, with a BA from University of Chicago and PhD in Political Science and Government from Boston College. He has published numerous commentaries and translations on Nietzsche, and is a preeminent expert on that thinker. He wrote the Introduction to Warspeak: Nietzsche's Victory over Nihilism, authored by Dr. Lise van Boxel.",
+	"image": "https://i.ytimg.com/vi/3HQfunwTj_Y/maxresdefault.jpg",
+	"publishDate": 2022-09-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/672-Michael-Grenke---Warspeak-Nietzsches-Victory-over-Nihilism-e1g6ima",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#672 Michael Grenke - Warspeak: Nietzsche's Victory over Nihilism",
+	"youtubeid": "3HQfunwTj_Y"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 24th 2022.  
 Dr. Michael Grenke is a Professor at St. John's College, with a BA from University of Chicago and PhD in Political Science and Government from Boston College. He has published numerous commentaries and translations on Nietzsche, and is a preeminent expert on that thinker. He wrote the Introduction to Warspeak: Nietzsche's Victory over Nihilism, authored by Dr. Lise van Boxel.
 
@@ -42,5 +39,3 @@ Time Links:
 
 Follow Dr. Grenke’s work:  
 Warspeak: https://amzn.to/3nlfvo6
-</div>
-

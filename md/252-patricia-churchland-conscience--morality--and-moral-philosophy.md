@@ -1,29 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/7609563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30944884-44100-2-b27b063564dc6.m4a
-draft: false
-excerpt: "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her\
-  \ contributions to neurophilosophy and the philosophy of mind. She is UC President's\
-  \ Professor of Philosophy Emerita at the University of California, San Diego (UCSD).\
-  \ She has also held an adjunct professorship at the Salk Institute for Biological\
-  \ Studies since 1989. She is a member of the Board of Trustees Moscow Center for\
-  \ Consciousness Studies of Philosophy Department, at Moscow State University. In\
-  \ 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She\u2019\
-  s also the author of a number of books, including Neurophilosophy: Toward a Unified\
-  \ Science of the Mind-Brain, Braintrust: What Neuroscience Tells Us about Morality,\
-  \ and Conscience: The Origins of Moral Intuition."
-id: '252'
-image: https://i.ytimg.com/vi/tZjNtEnAYFI/maxresdefault.jpg
-publishDate: 2019-11-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/252-Patricia-Churchland-Conscience--Morality--and-Moral-Philosophy-e86nor
-tags:
-- Cognitive Science
-- Neuroscience
-- Philosophy
-title: '#252 Patricia Churchland: Conscience, Morality, and Moral Philosophy'
-youtubeid: tZjNtEnAYFI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/7609563/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-25%2F30944884-44100-2-b27b063564dc6.m4a",
+	"draft": false,
+	"episodeid": "252",
+	"excerpt": "Dr. Patricia Churchland is a Canadian-American Philosopher noted for her contributions to neurophilosophy and the philosophy of mind. She is UC President's Professor of Philosophy Emerita at the University of California, San Diego (UCSD). She has also held an adjunct professorship at the Salk Institute for Biological Studies since 1989. She is a member of the Board of Trustees Moscow Center for Consciousness Studies of Philosophy Department, at Moscow State University. In 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She’s also the author of a number of books, including Neurophilosophy: Toward a Unified Science of the Mind-Brain, Braintrust: What Neuroscience Tells Us about Morality, and Conscience: The Origins of Moral Intuition.",
+	"image": "https://i.ytimg.com/vi/tZjNtEnAYFI/maxresdefault.jpg",
+	"publishDate": 2019-11-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/252-Patricia-Churchland-Conscience--Morality--and-Moral-Philosophy-e86nor",
+	"tags": [
+		"Cognitive Science",
+		"Neuroscience",
+		"Philosophy"
+	],
+	"title": "#252 Patricia Churchland: Conscience, Morality, and Moral Philosophy",
+	"youtubeid": "tZjNtEnAYFI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 25th, 2019.  
 Dr. Patricia Churchland is a Canadian-American Philosopher noted for her contributions to neurophilosophy and the philosophy of mind. She is UC President's Professor of Philosophy Emerita at the University of California, San Diego (UCSD). She has also held an adjunct professorship at the Salk Institute for Biological Studies since 1989. She is a member of the Board of Trustees Moscow Center for Consciousness Studies of Philosophy Department, at Moscow State University. In 2015, she was elected a Fellow of the American Academy of Arts & Sciences. She’s also the author of a number of books, including Neurophilosophy: Toward a Unified Science of the Mind-Brain, Braintrust: What Neuroscience Tells Us about Morality, and Conscience: The Origins of Moral Intuition.
 
@@ -52,5 +44,3 @@ ResearchGate profile: http://bit.ly/2Jn35Ia
 Amazon page: https://amzn.to/2p4jxGk  
 Conscience: The Origins of Moral Intuition: https://amzn.to/2Pbqa5Q  
 Twitter handle: @patchurchland
-</div>
-

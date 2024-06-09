@@ -1,27 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/53206875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-8%2Fa2270eb4-37d2-5f03-3c77-dea7521a506f.m4a
-draft: false
-excerpt: "Dr. David Sloan Wilson is SUNY Distinguished Professor Emeritus of Biology\
-  \ and Anthropology at Binghamton University. He applies evolutionary theory to all\
-  \ aspects of humanity in addition to the rest of life, both in his own research\
-  \ and as director of the Evolution Institute, a unique campus-wide evolutionary\
-  \ studies program that recently received NSF funding to expand into a nationwide\
-  \ consortium. His books include Darwin\u2019s Cathedral: Evolution, Religion, and\
-  \ the Nature of Society; and This View of Life: Completing the Darwinian Revolution."
-id: '675'
-image: https://i.ytimg.com/vi/kuBIF_AOUPM/maxresdefault.jpg
-publishDate: 2022-09-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/675-David-Sloan-Wilson-Religion--Multilevel-Selection--Group-Selection--and-Designing-Society-e1jm8cr
-tags:
-- Biology
-- Anthropology
-- Psychology
-title: '#675 David Sloan Wilson: Religion, Multilevel Selection, Group Selection,
-  and Designing Society'
-youtubeid: kuBIF_AOUPM
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/53206875/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-8%2Fa2270eb4-37d2-5f03-3c77-dea7521a506f.m4a",
+	"draft": false,
+	"episodeid": "675",
+	"excerpt": "Dr. David Sloan Wilson is SUNY Distinguished Professor Emeritus of Biology and Anthropology at Binghamton University. He applies evolutionary theory to all aspects of humanity in addition to the rest of life, both in his own research and as director of the Evolution Institute, a unique campus-wide evolutionary studies program that recently received NSF funding to expand into a nationwide consortium. His books include Darwin’s Cathedral: Evolution, Religion, and the Nature of Society; and This View of Life: Completing the Darwinian Revolution.",
+	"image": "https://i.ytimg.com/vi/kuBIF_AOUPM/maxresdefault.jpg",
+	"publishDate": 2022-09-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/675-David-Sloan-Wilson-Religion--Multilevel-Selection--Group-Selection--and-Designing-Society-e1jm8cr",
+	"tags": [
+		"Biology",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#675 David Sloan Wilson: Religion, Multilevel Selection, Group Selection, and Designing Society",
+	"youtubeid": "kuBIF_AOUPM"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 8th 2022.  
 Dr. David Sloan Wilson is SUNY Distinguished Professor Emeritus of Biology and Anthropology at Binghamton University. He applies evolutionary theory to all aspects of humanity in addition to the rest of life, both in his own research and as director of the Evolution Institute, a unique campus-wide evolutionary studies program that recently received NSF funding to expand into a nationwide consortium. His books include Darwin’s Cathedral: Evolution, Religion, and the Nature of Society; and This View of Life: Completing the Darwinian Revolution.
 
@@ -53,5 +47,3 @@ ResearchGate profile: https://bit.ly/3szboHk
 Our first interview (Evolution, Contextual Behavioral Science, Religion, and Group Selection): https://youtu.be/I3YQVV02MwI  
 The Evolution Institute: http://bit.ly/2uJmiPs  
 Books on Amazon: https://amzn.to/3wnOELn
-</div>
-

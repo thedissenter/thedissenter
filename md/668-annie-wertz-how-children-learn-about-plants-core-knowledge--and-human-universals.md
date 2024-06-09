@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/53521739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-15%2Fe2029ca5-88fd-0147-9162-3557d74d052f.m4a
-draft: false
-excerpt: Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Social
-  Cognition at the Max Planck Institute for Human Development, Berlin. Her research
-  investigates how infants and young children think about and learn from other people
-  in naturalistic circumstances. Her work provided the first evidence that human infants
-  do indeed possess behavioral and social learning strategies that are selective to
-  plants (e.g., infants avoid plant dangers and selectively learn that some plants
-  are edible). Her research provides a window into the complex interplay of evolutionary
-  and developmental factors that allow human beings to learn from others and accumulate
-  cultural knowledge.
-id: '668'
-image: https://i.ytimg.com/vi/snoPcQoG_gE/maxresdefault.jpg
-publishDate: 2022-08-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/668-Annie-Wertz-How-Children-Learn-About-Plants-Core-Knowledge--and-Human-Universals-e1jvrsb
-tags:
-- Psychology
-title: '#668 Annie Wertz: How Children Learn About Plants; Core Knowledge, and Human
-  Universals'
-youtubeid: snoPcQoG_gE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/53521739/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-15%2Fe2029ca5-88fd-0147-9162-3557d74d052f.m4a",
+	"draft": false,
+	"episodeid": "668",
+	"excerpt": "Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Social Cognition at the Max Planck Institute for Human Development, Berlin. Her research investigates how infants and young children think about and learn from other people in naturalistic circumstances. Her work provided the first evidence that human infants do indeed possess behavioral and social learning strategies that are selective to plants (e.g., infants avoid plant dangers and selectively learn that some plants are edible). Her research provides a window into the complex interplay of evolutionary and developmental factors that allow human beings to learn from others and accumulate cultural knowledge.",
+	"image": "https://i.ytimg.com/vi/snoPcQoG_gE/maxresdefault.jpg",
+	"publishDate": 2022-08-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/668-Annie-Wertz-How-Children-Learn-About-Plants-Core-Knowledge--and-Human-Universals-e1jvrsb",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#668 Annie Wertz: How Children Learn About Plants; Core Knowledge, and Human Universals",
+	"youtubeid": "snoPcQoG_gE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 15th 2022.  
 Dr. Annie Wertz is Research Group Leader of the MPRG Naturalistic Social Cognition at the Max Planck Institute for Human Development, Berlin. Her research investigates how infants and young children think about and learn from other people in naturalistic circumstances. Her work provided the first evidence that human infants do indeed possess behavioral and social learning strategies that are selective to plants (e.g., infants avoid plant dangers and selectively learn that some plants are edible). Her research provides a window into the complex interplay of evolutionary and developmental factors that allow human beings to learn from others and accumulate cultural knowledge.
 
@@ -51,5 +43,3 @@ Follow Dr. Wertz’s work:
 University page: https://bit.ly/3jnvgcc  
 Works on ResearchGate: https://bit.ly/3sXxlyS  
 Twitter handle: @AnnieWertz
-</div>
-

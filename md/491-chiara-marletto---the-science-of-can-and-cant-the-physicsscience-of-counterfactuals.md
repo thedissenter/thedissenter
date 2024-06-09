@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/34775771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2F8de3490a-1853-4fb2-77a0-914563c97eb0.m4a
-draft: false
-excerpt: 'Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department
-  of Physics at Oxford University. Her research interests include Quantum Theory of
-  Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology.
-  She is the recipient of numerous awards including the "Graduate Prize Scholarship"
-  at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione
-  Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo"
-  Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010. She
-  is the author of The Science of Can and Can''t: A Physicist''s Journey through the
-  Land of Counterfactuals.'
-id: '491'
-image: https://i.ytimg.com/vi/anerMroeLM8/maxresdefault.jpg
-publishDate: 2021-07-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/491-Chiara-Marletto---The-Science-of-Can-and-Cant-The-PhysicsScience-of-Counterfactuals-e123p8r
-tags:
-- Physics
-- Philosophy
-title: '#491 Chiara Marletto - The Science of Can and Can''t; The Physics/Science
-  of Counterfactuals'
-youtubeid: anerMroeLM8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/34775771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-3%2F8de3490a-1853-4fb2-77a0-914563c97eb0.m4a",
+	"draft": false,
+	"episodeid": "491",
+	"excerpt": "Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department of Physics at Oxford University. Her research interests include Quantum Theory of Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology. She is the recipient of numerous awards including the \"Graduate Prize Scholarship\" at Merton College, 2012; \"Optime\" Award for Academic Excellence, offered by Unione Industriale di Torino, 2011; and the \"Ing. Vittorino Pollo e Dott.Ssa Zita Pollo\" Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010. She is the author of The Science of Can and Can't: A Physicist's Journey through the Land of Counterfactuals.",
+	"image": "https://i.ytimg.com/vi/anerMroeLM8/maxresdefault.jpg",
+	"publishDate": 2021-07-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/491-Chiara-Marletto---The-Science-of-Can-and-Cant-The-PhysicsScience-of-Counterfactuals-e123p8r",
+	"tags": [
+		"Physics",
+		"Philosophy"
+	],
+	"title": "#491 Chiara Marletto - The Science of Can and Can't; The Physics/Science of Counterfactuals",
+	"youtubeid": "anerMroeLM8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 31st 2021.  
 Dr. Chiara Marletto is Postdoctoral Research Assistant in the Department of Physics at Oxford University. Her research interests include Quantum Theory of Computation, Foundations of Physics, Condensed-Matter Physics and Quantum Biology. She is the recipient of numerous awards including the "Graduate Prize Scholarship" at Merton College, 2012; "Optime" Award for Academic Excellence, offered by Unione Industriale di Torino, 2011; and the "Ing. Vittorino Pollo e Dott.Ssa Zita Pollo" Award for Academic Excellence, offered by Fondazione Giovanni Agnelli, 2010. She is the author of The Science of Can and Can't: A Physicist's Journey through the Land of Counterfactuals.
 
@@ -53,5 +45,3 @@ Constructor Theory website: https://bit.ly/3cjTm2B
 Personal website: https://bit.ly/3c1y8Yf  
 ResearchGate profile: https://bit.ly/3iGzWXW  
 The Science of Can and Can’t: https://amzn.to/32JMngd
-</div>
-

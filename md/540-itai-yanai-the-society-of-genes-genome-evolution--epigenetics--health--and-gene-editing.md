@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/37607353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F59c49fc5-db42-26fa-a4e5-1ccd57761a9b.m4a
-draft: false
-excerpt: Dr. Itai Yanai is Founding Director of the Institute for Computational Medicine
-  at the NYU Grossman School of Medicine. He is also a Professor in the Department
-  of Biochemistry and Molecular Pharmacology at NYU. He does research on cancer, computational
-  biology, developmental genetics, genomics, microbiome, systems biology, single-cell
-  transcriptomics, gene expression atlas construction, genome evolution. He is the
-  author of The Society of Genes.
-id: '540'
-image: https://i.ytimg.com/vi/Pg6b6za9cTg/maxresdefault.jpg
-publishDate: 2021-10-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/540-Itai-Yanai-The-Society-of-Genes-Genome-Evolution--Epigenetics--Health--and-Gene-Editing-e14q6fp
-tags:
-- Medicine
-- Biology
-title: '#540 Itai Yanai: The Society of Genes; Genome Evolution, Epigenetics, Health,
-  and Gene Editing'
-youtubeid: Pg6b6za9cTg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/37607353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-21%2F59c49fc5-db42-26fa-a4e5-1ccd57761a9b.m4a",
+	"draft": false,
+	"episodeid": "540",
+	"excerpt": "Dr. Itai Yanai is Founding Director of the Institute for Computational Medicine at the NYU Grossman School of Medicine. He is also a Professor in the Department of Biochemistry and Molecular Pharmacology at NYU. He does research on cancer, computational biology, developmental genetics, genomics, microbiome, systems biology, single-cell transcriptomics, gene expression atlas construction, genome evolution. He is the author of The Society of Genes.",
+	"image": "https://i.ytimg.com/vi/Pg6b6za9cTg/maxresdefault.jpg",
+	"publishDate": 2021-10-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/540-Itai-Yanai-The-Society-of-Genes-Genome-Evolution--Epigenetics--Health--and-Gene-Editing-e14q6fp",
+	"tags": [
+		"Medicine",
+		"Biology"
+	],
+	"title": "#540 Itai Yanai: The Society of Genes; Genome Evolution, Epigenetics, Health, and Gene Editing",
+	"youtubeid": "Pg6b6za9cTg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 20th 2021.  
 Dr. Itai Yanai is Founding Director of the Institute for Computational Medicine at the NYU Grossman School of Medicine. He is also a Professor in the Department of Biochemistry and Molecular Pharmacology at NYU. He does research on cancer, computational biology, developmental genetics, genomics, microbiome, systems biology, single-cell transcriptomics, gene expression atlas construction, genome evolution. He is the author of The Society of Genes.
 
@@ -48,5 +43,3 @@ The Night Science podcast: https://bit.ly/2V1JS7b
 Amazon page: https://amzn.to/3hIZhSO  
 The Society of Genes: https://amzn.to/2LMKCIR  
 Twitter handle: @ItaiYanai
-</div>
-

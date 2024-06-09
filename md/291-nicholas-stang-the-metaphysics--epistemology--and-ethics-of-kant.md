@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8719303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36058992-44100-2-588fed7bc24bd.m4a
-draft: false
-excerpt: "Dr. Nicholas Stang is Associate Professor in the Philosophy Department of\
-  \ the University of Toronto, and also a Humboldt Research Fellow at the Humboldt\
-  \ University in Berlin. His primary research interests are metaphysics and its history\
-  \ (mainly in German philosophy). His first book, Kant\u2019s Modal Metaphysics,\
-  \ was published by Oxford University Press in 2016. While most of Dr. Stang\u2019\
-  s published work has been about Kant, he is increasingly interested in pre-Kantian\
-  \ rationalism (Leibniz, Spinoza) and in post-Kantian figures, especially Hegel and\
-  \ Heidegger. He also works on contemporary metaphysics and aesthetics. His side\
-  \ interests include: Jewish philosophy, early analytic philosophy, philosophy of\
-  \ mathematics, and critical theory."
-id: '291'
-image: https://i.ytimg.com/vi/5F5mUeq2M_E/maxresdefault.jpg
-publishDate: 2020-02-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/291-Nicholas-Stang-The-Metaphysics--Epistemology--And-Ethics-of-Kant-e98jg7
-tags:
-- Philosophy
-title: '#291 Nicholas Stang: The Metaphysics, Epistemology, and Ethics of Kant'
-youtubeid: 5F5mUeq2M_E
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8719303/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-29%2F36058992-44100-2-588fed7bc24bd.m4a",
+	"draft": false,
+	"episodeid": "291",
+	"excerpt": "Dr. Nicholas Stang is Associate Professor in the Philosophy Department of the University of Toronto, and also a Humboldt Research Fellow at the Humboldt University in Berlin. His primary research interests are metaphysics and its history (mainly in German philosophy). His first book, Kant’s Modal Metaphysics, was published by Oxford University Press in 2016. While most of Dr. Stang’s published work has been about Kant, he is increasingly interested in pre-Kantian rationalism (Leibniz, Spinoza) and in post-Kantian figures, especially Hegel and Heidegger. He also works on contemporary metaphysics and aesthetics. His side interests include: Jewish philosophy, early analytic philosophy, philosophy of mathematics, and critical theory.",
+	"image": "https://i.ytimg.com/vi/5F5mUeq2M_E/maxresdefault.jpg",
+	"publishDate": 2020-02-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/291-Nicholas-Stang-The-Metaphysics--Epistemology--And-Ethics-of-Kant-e98jg7",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#291 Nicholas Stang: The Metaphysics, Epistemology, and Ethics of Kant",
+	"youtubeid": "5F5mUeq2M_E"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 27th, 2019.  
 Dr. Nicholas Stang is Associate Professor in the Philosophy Department of the University of Toronto, and also a Humboldt Research Fellow at the Humboldt University in Berlin. His primary research interests are metaphysics and its history (mainly in German philosophy). His first book, Kant’s Modal Metaphysics, was published by Oxford University Press in 2016. While most of Dr. Stang’s published work has been about Kant, he is increasingly interested in pre-Kantian rationalism (Leibniz, Spinoza) and in post-Kantian figures, especially Hegel and Heidegger. He also works on contemporary metaphysics and aesthetics. His side interests include: Jewish philosophy, early analytic philosophy, philosophy of mathematics, and critical theory.
 
@@ -47,5 +39,3 @@ Academia.edu profile: http://bit.ly/2XQSxXC
 PhilPeople profile: http://bit.ly/2Mb8YbP  
 Works on ResearchGate: http://bit.ly/30KT0dQ  
 Twitter handle: @sturmundstang
-</div>
-

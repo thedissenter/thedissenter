@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2241645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121816-44100-2-a0002f4ef56ff.m4a
-draft: false
-excerpt: SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK.
-  HOPE YOU ENJOY IT.
-id: '139'
-image: https://i.ytimg.com/vi/jeGebFnF9Fw/maxresdefault.jpg
-publishDate: 2019-02-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/139-Peter-Richerson-Biology-and-Culture--Cultural-Evolution--Cognition--and-Group-Selection-e32tld
-tags:
-- Biology
-title: '#139 Peter Richerson: Biology and Culture, Cultural Evolution, Cognition,
-  and Group Selection'
-youtubeid: jeGebFnF9Fw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2241645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-31%2F9121816-44100-2-a0002f4ef56ff.m4a",
+	"draft": false,
+	"episodeid": "139",
+	"excerpt": "SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK. HOPE YOU ENJOY IT.",
+	"image": "https://i.ytimg.com/vi/jeGebFnF9Fw/maxresdefault.jpg",
+	"publishDate": 2019-02-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/139-Peter-Richerson-Biology-and-Culture--Cultural-Evolution--Cognition--and-Group-Selection-e32tld",
+	"tags": [
+		"Biology"
+	],
+	"title": "#139 Peter Richerson: Biology and Culture, Cultural Evolution, Cognition, and Group Selection",
+	"youtubeid": "jeGebFnF9Fw"
+}
 ---
-<div class="timelinks">
-
 SORRY ABOUT THE AUDIO AND VIDEO ISSUES, THE INTERNET CONNECTION WAS WEAK. HOPE YOU ENJOY IT.
 
 Dr. Peter Richerson is Distinguished Professor Emeritus of the Department of Environmental Science and Policy at the University of California, Davis. He’s a biologist with interest in cultural evolution, animal social learning and mathematical models. He’s also the author of books like Culture and the Evolutionary Process, Not by Genes Alone: How Culture Transformed Human Evolution, and The Origin and Evolution of Cultures, all written in collaboration with Dr. Robert Boyd.
@@ -45,5 +44,3 @@ Follow Dr. Richerson’s work:
 Faculty page: https://tinyurl.com/ya8h54z3  
 Articles on Researchgate: https://tinyurl.com/y7zgx29d  
 Books: https://tinyurl.com/y8236hn6
-</div>
-

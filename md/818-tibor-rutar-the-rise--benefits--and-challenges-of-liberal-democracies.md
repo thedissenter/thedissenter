@@ -1,26 +1,22 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72420971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2F063fc893-f8cb-e85d-2c09-9e0541b0a5f6.m4a
-draft: false
-excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University of
-  Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies
-  in Maribor, and Researcher at the Research Center for Strategy and Governance at
-  the University of Ljubljana. His last two books are Rational Choice and Democratic
-  Government: A Sociological Approach (Routledge, 2021) and Capitalism for Realists:
-  Virtues and Vices of the Modern Economy (Routledge, 2022).'
-id: '818'
-image: https://i.ytimg.com/vi/3x_LdtB1pG8/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/818-tibor-rutar-the-rise-benefits-and-challenges/id1451347236?i=1000623715156&uo=4
-publishDate: 2023-08-07
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/818-Tibor-Rutar-The-Rise--Benefits--and-Challenges-of-Liberal-Democracies-e260k5b
-tags:
-- Politics
-- Economics
-- Sociology
-title: '#818 Tibor Rutar: The Rise, Benefits, and Challenges of Liberal Democracies'
-youtubeid: 3x_LdtB1pG8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72420971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-21%2F063fc893-f8cb-e85d-2c09-9e0541b0a5f6.m4a",
+	"draft": false,
+	"episodeid": "818",
+	"excerpt": "Dr. Tibor Rutar is Assistant Professor of Sociology at the University of Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies in Maribor, and Researcher at the Research Center for Strategy and Governance at the University of Ljubljana. His last two books are Rational Choice and Democratic Government: A Sociological Approach (Routledge, 2021) and Capitalism for Realists: Virtues and Vices of the Modern Economy (Routledge, 2022).",
+	"image": "https://i.ytimg.com/vi/3x_LdtB1pG8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/818-tibor-rutar-the-rise-benefits-and-challenges/id1451347236?i=1000623715156&uo=4",
+	"publishDate": 2023-08-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/818-Tibor-Rutar-The-Rise--Benefits--and-Challenges-of-Liberal-Democracies-e260k5b",
+	"tags": [
+		"Politics",
+		"Economics",
+		"Sociology"
+	],
+	"title": "#818 Tibor Rutar: The Rise, Benefits, and Challenges of Liberal Democracies",
+	"youtubeid": "3x_LdtB1pG8"
+}
 ---
-<div class="timelinks">
-
 Dr. Tibor Rutar is Assistant Professor of Sociology at the University of Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies in Maribor, and Researcher at the Research Center for Strategy and Governance at the University of Ljubljana. His last two books are Rational Choice and Democratic Government: A Sociological Approach (Routledge, 2021) and Capitalism for Realists: Virtues and Vices of the Modern Economy (Routledge, 2022).
 
 This is our second talk. You can watch the first one here: https://youtu.be/b5-tB-SrHyI
@@ -51,5 +47,3 @@ Follow Dr. Rutar’s work:
 University page (Ljubljana): http://bit.ly/3J5XZj6  
 ResearchGate profile: https://bit.ly/3Wthd52  
 Books on Amazon: https://bit.ly/3R0kAzA
-</div>
-

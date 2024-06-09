@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/39722359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-2%2F532c9223-4f55-509d-4ed7-ee1208041d59.m4a
-draft: false
-excerpt: "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia\
-  \ University. He\u2019s a theoretical sociologist who seeks to develop general explanations\
-  \ of human behavior, his work focuses primarily on conflict and social control,\
-  \ including various means of expressing grievances, handling disputes, and punishing\
-  \ offenses. Within this area he specializes in violent conflict, particularly in\
-  \ self-destructive forms of violence such as protest suicide, homicide-suicide,\
-  \ and suicide terrorism. His other interests include the sociology of science, sociology\
-  \ of religion, and neoDarwinian theories of culture. He is the author of Suicide:\
-  \ The Social Causes of Self-Destruction."
-id: '562'
-image: https://i.ytimg.com/vi/qF1ciw3yl_M/maxresdefault.jpg
-publishDate: 2021-12-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/562-Jason-Manning---Suicide-The-Social-Causes-of-Self-Destruction-e16qntn
-tags:
-- Sociology
-title: '#562 Jason Manning - Suicide: The Social Causes of Self-Destruction'
-youtubeid: qF1ciw3yl_M
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/39722359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-2%2F532c9223-4f55-509d-4ed7-ee1208041d59.m4a",
+	"draft": false,
+	"episodeid": "562",
+	"excerpt": "Dr. Jason Manning is an Associate Professor of Sociology at West Virginia University. He’s a theoretical sociologist who seeks to develop general explanations of human behavior, his work focuses primarily on conflict and social control, including various means of expressing grievances, handling disputes, and punishing offenses. Within this area he specializes in violent conflict, particularly in self-destructive forms of violence such as protest suicide, homicide-suicide, and suicide terrorism. His other interests include the sociology of science, sociology of religion, and neoDarwinian theories of culture. He is the author of Suicide: The Social Causes of Self-Destruction.",
+	"image": "https://i.ytimg.com/vi/qF1ciw3yl_M/maxresdefault.jpg",
+	"publishDate": 2021-12-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/562-Jason-Manning---Suicide-The-Social-Causes-of-Self-Destruction-e16qntn",
+	"tags": [
+		"Sociology"
+	],
+	"title": "#562 Jason Manning - Suicide: The Social Causes of Self-Destruction",
+	"youtubeid": "qF1ciw3yl_M"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 2nd 2021.  
 Dr. Jason Manning is an Associate Professor of Sociology at West Virginia University. He’s a theoretical sociologist who seeks to develop general explanations of human behavior, his work focuses primarily on conflict and social control, including various means of expressing grievances, handling disputes, and punishing offenses. Within this area he specializes in violent conflict, particularly in self-destructive forms of violence such as protest suicide, homicide-suicide, and suicide terrorism. His other interests include the sociology of science, sociology of religion, and neoDarwinian theories of culture. He is the author of Suicide: The Social Causes of Self-Destruction.
 
@@ -49,5 +42,3 @@ ResearchGate profile: https://bit.ly/3jlJUk2
 Books on Amazon: https://amzn.to/3DnAAnX  
 Suicide: https://amzn.to/3gEpqRR  
 Twitter handle: @SocialGeometer
-</div>
-

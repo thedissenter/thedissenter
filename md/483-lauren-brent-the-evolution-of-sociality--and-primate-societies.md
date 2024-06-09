@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/28580262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-10%2Faf69552d-9f89-05bc-c91a-e4114163efb1.m4a
-draft: false
-excerpt: Dr. Lauren Brent is Associate Professor in the Centre for Research in Animal
-  Behaviour at the University of Exeter. She is a biologist interested in the evolution
-  of sociality. Her research asks why social relationships are formed and how they
-  are maintained. Her work focuses on highly gregarious, group-living animals. She
-  works mostly with data collected from wild or free-ranging groups, and specialize
-  on study systems with uniquely long-term datasets. She uses a diverse set of methods,
-  including techniques from ethology, evolutionary biology, quantitative and functional
-  genetics, life-history evolution, endocrinology, comparative psychology, and cognitive
-  neuroscience.
-id: '483'
-image: https://i.ytimg.com/vi/8cKeZhX-GFs/maxresdefault.jpg
-publishDate: 2021-06-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/483-Lauren-Brent-The-Evolution-of-Sociality--and-Primate-Societies-es6mv6
-tags:
-- Biology
-title: '#483 Lauren Brent: The Evolution of Sociality, and Primate Societies'
-youtubeid: 8cKeZhX-GFs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/28580262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-10%2Faf69552d-9f89-05bc-c91a-e4114163efb1.m4a",
+	"draft": false,
+	"episodeid": "483",
+	"excerpt": "Dr. Lauren Brent is Associate Professor in the Centre for Research in Animal Behaviour at the University of Exeter. She is a biologist interested in the evolution of sociality. Her research asks why social relationships are formed and how they are maintained. Her work focuses on highly gregarious, group-living animals. She works mostly with data collected from wild or free-ranging groups, and specialize on study systems with uniquely long-term datasets. She uses a diverse set of methods, including techniques from ethology, evolutionary biology, quantitative and functional genetics, life-history evolution, endocrinology, comparative psychology, and cognitive neuroscience.",
+	"image": "https://i.ytimg.com/vi/8cKeZhX-GFs/maxresdefault.jpg",
+	"publishDate": 2021-06-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/483-Lauren-Brent-The-Evolution-of-Sociality--and-Primate-Societies-es6mv6",
+	"tags": [
+		"Biology"
+	],
+	"title": "#483 Lauren Brent: The Evolution of Sociality, and Primate Societies",
+	"youtubeid": "8cKeZhX-GFs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MARCH 9th 2021.  
 Dr. Lauren Brent is Associate Professor in the Centre for Research in Animal Behaviour at the University of Exeter. She is a biologist interested in the evolution of sociality. Her research asks why social relationships are formed and how they are maintained. Her work focuses on highly gregarious, group-living animals. She works mostly with data collected from wild or free-ranging groups, and specialize on study systems with uniquely long-term datasets. She uses a diverse set of methods, including techniques from ethology, evolutionary biology, quantitative and functional genetics, life-history evolution, endocrinology, comparative psychology, and cognitive neuroscience.
 
@@ -47,5 +40,3 @@ Faculty page: https://bit.ly/3n31gkD
 Website: https://bit.ly/35069EH  
 ResearchGate profile: https://bit.ly/3kX4uXc  
 Twitter handle: @ljnbrent
-</div>
-

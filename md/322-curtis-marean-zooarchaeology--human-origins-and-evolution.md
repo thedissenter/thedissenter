@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/10231547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47236741-44100-2-b5f7cff614381.m4a
-draft: false
-excerpt: ''
-id: '322'
-image: https://i.ytimg.com/vi/Wyxt6rWesSg/maxresdefault.jpg
-publishDate: 2020-04-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/322-Curtis-Marean-Zooarchaeology--Human-Origins-And-Evolution-eamo9r
-tags:
-- Anthropology
-title: '#322 Curtis Marean: Zooarchaeology, Human Origins And Evolution'
-youtubeid: Wyxt6rWesSg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/10231547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-7%2F47236741-44100-2-b5f7cff614381.m4a",
+	"draft": false,
+	"episodeid": "322",
+	"excerpt": "",
+	"image": "https://i.ytimg.com/vi/Wyxt6rWesSg/maxresdefault.jpg",
+	"publishDate": 2020-04-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/322-Curtis-Marean-Zooarchaeology--Human-Origins-And-Evolution-eamo9r",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#322 Curtis Marean: Zooarchaeology, Human Origins And Evolution",
+	"youtubeid": "Wyxt6rWesSg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON FEBRUARY 5th, 2020.
 
 Dr. Curtis Marean is Foundation Professor and Associate Director at the Institute of Human Origins at Arizona State University. Dr. Marean’s research interests focus on the origins of modern humans, the prehistory of Africa, the study of animal bones from archaeological sites and climates and environments of the past. In the area of the origins of modern humans, he is particularly interested in questions about foraging strategies and the evolution of modern human behavior. He has a special interest in human occupation of grassland and coastal ecosystems.
@@ -40,5 +41,3 @@ Faculty page: http://bit.ly/2PohGqd
 Scientific contributions on ResearchGate: http://bit.ly/2Pn2ysM
 
 Referenced paper: https://go.nature.com/2ueh92i
-</div>
-

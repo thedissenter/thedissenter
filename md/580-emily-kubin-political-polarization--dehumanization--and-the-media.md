@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/41792102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fd7fefdaa-26c4-0ae6-b91d-a5927c201f6c.m4a
-draft: false
-excerpt: "Emily Kubin is a PhD student in the Political Psychology & Communication\
-  \ Lab at the University of Koblenz-Landau (at Landau). She studies political communication.\
-  \ Specifically, she focuses on how political opponents view and interact with one\
-  \ another, and the role media play in opponents\u2019 perceptions of one another.\
-  \ She places a special focus on studying strategies political opponents (and the\
-  \ media) can use to reduce affective polarization."
-id: '580'
-image: https://i.ytimg.com/vi/f_Ywfbit9x0/maxresdefault.jpg
-publishDate: 2022-01-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/580-Emily-Kubin-Political-Polarization--Dehumanization--and-the-Media-e18pt56
-tags:
-- Politics
-- Sociology
-- Psychology
-title: '#580 Emily Kubin: Political Polarization, Dehumanization, and the Media'
-youtubeid: f_Ywfbit9x0
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/41792102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2Fd7fefdaa-26c4-0ae6-b91d-a5927c201f6c.m4a",
+	"draft": false,
+	"episodeid": "580",
+	"excerpt": "Emily Kubin is a PhD student in the Political Psychology & Communication Lab at the University of Koblenz-Landau (at Landau). She studies political communication. Specifically, she focuses on how political opponents view and interact with one another, and the role media play in opponents’ perceptions of one another. She places a special focus on studying strategies political opponents (and the media) can use to reduce affective polarization.",
+	"image": "https://i.ytimg.com/vi/f_Ywfbit9x0/maxresdefault.jpg",
+	"publishDate": 2022-01-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/580-Emily-Kubin-Political-Polarization--Dehumanization--and-the-Media-e18pt56",
+	"tags": [
+		"Politics",
+		"Sociology",
+		"Psychology"
+	],
+	"title": "#580 Emily Kubin: Political Polarization, Dehumanization, and the Media",
+	"youtubeid": "f_Ywfbit9x0"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 11th 2021.  
 Emily Kubin is a PhD student in the Political Psychology & Communication Lab at the University of Koblenz-Landau (at Landau). She studies political communication. Specifically, she focuses on how political opponents view and interact with one another, and the role media play in opponents’ perceptions of one another. She places a special focus on studying strategies political opponents (and the media) can use to reduce affective polarization.
 
@@ -43,5 +39,3 @@ Follow Emily’s work:
 University page: https://bit.ly/3hSi9iM  
 ResearchGate profile: https://bit.ly/3vlydh2  
 Twitter handle: @emily_kubin
-</div>
-

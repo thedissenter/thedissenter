@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3852257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715674-44100-2-6e2e88b80c0ae.m4a
-draft: false
-excerpt: 'Dr. Cory Clark is an Assistant Professor of Social Psychology at Durham
-  University, UK. Dr. Clark does research in Moral Psychology, Political Psychology,
-  Experimental Philosophy, and Motivated Cognition.   '
-id: '220'
-image: https://i.ytimg.com/vi/WfkvDOZBqZk/maxresdefault.jpg
-publishDate: 2019-08-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/220-Cory-Clark--Bo-Winegard-The-Biggest-Issues-in-Psychology-e4k2h1
-tags:
-- Psychology
-title: '#220 Cory Clark & Bo Winegard: The Biggest Issues in Psychology'
-youtubeid: WfkvDOZBqZk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3852257/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715674-44100-2-6e2e88b80c0ae.m4a",
+	"draft": false,
+	"episodeid": "220",
+	"excerpt": "Dr. Cory Clark is an Assistant Professor of Social Psychology at Durham University, UK. Dr. Clark does research in Moral Psychology, Political Psychology, Experimental Philosophy, and Motivated Cognition.   ",
+	"image": "https://i.ytimg.com/vi/WfkvDOZBqZk/maxresdefault.jpg",
+	"publishDate": 2019-08-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/220-Cory-Clark--Bo-Winegard-The-Biggest-Issues-in-Psychology-e4k2h1",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#220 Cory Clark & Bo Winegard: The Biggest Issues in Psychology",
+	"youtubeid": "WfkvDOZBqZk"
+}
 ---
-<div class="timelinks">
-
 Dr. Cory Clark is an Assistant Professor of Social Psychology at Durham University, UK. Dr. Clark does research in Moral Psychology, Political Psychology, Experimental Philosophy, and Motivated Cognition.   
 Dr. Bo Winegard is Assistant Professor of Psychology at Marietta College. He generally approaches psychological puzzles from an evolutionary perspective, applying Darwin's theory of natural selection to the human mind. He focuses mostly on status, group differences, individual differences, bias, methods, and political psychology.   
 They are both cohosts of the Psyphilopod podcast.
@@ -46,6 +45,4 @@ Quillette essays: https://tinyurl.com/y2ght8va
 Twitter handle: @EPoe187
 
 And the Psyphilopod podcast!: https://tinyurl.com/y3ny5tkw
-
-</div>
 

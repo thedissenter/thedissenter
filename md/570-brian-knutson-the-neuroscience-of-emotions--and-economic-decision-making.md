@@ -1,26 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/40096856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F9cd4e702-e5e4-bae8-ace9-aca5a9db6383.m4a
-draft: false
-excerpt: Dr. Brian Knutson is a Professor of Psychology and Neuroscience at Stanford
-  University. His research focuses on the neural basis of emotional experience and
-  expression. His long-term goal is to understand the neurochemical and neuroanatomical
-  mechanisms responsible for emotional experience, and to explore the implications
-  of these findings for the assessment and treatment of clinical disorders as well
-  as for economic behavior. He is a fellow of the Academy for Behavioral Medicine
-  Research and the Association for Psychological Science, and his research has been
-  funded by the National Science Foundation, National Institutes of Health, and numerous
-  private foundations.
-id: '570'
-image: https://i.ytimg.com/vi/1cCLzDZ1GvQ/maxresdefault.jpg
-publishDate: 2022-01-06
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/570-Brian-Knutson-The-Neuroscience-of-Emotions--and-Economic-Decision-Making-e1765ko
-tags:
-- Neuroscience
-title: '#570 Brian Knutson: The Neuroscience of Emotions, and Economic Decision-Making'
-youtubeid: 1cCLzDZ1GvQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/40096856/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-10%2F9cd4e702-e5e4-bae8-ace9-aca5a9db6383.m4a",
+	"draft": false,
+	"episodeid": "570",
+	"excerpt": "Dr. Brian Knutson is a Professor of Psychology and Neuroscience at Stanford University. His research focuses on the neural basis of emotional experience and expression. His long-term goal is to understand the neurochemical and neuroanatomical mechanisms responsible for emotional experience, and to explore the implications of these findings for the assessment and treatment of clinical disorders as well as for economic behavior. He is a fellow of the Academy for Behavioral Medicine Research and the Association for Psychological Science, and his research has been funded by the National Science Foundation, National Institutes of Health, and numerous private foundations.",
+	"image": "https://i.ytimg.com/vi/1cCLzDZ1GvQ/maxresdefault.jpg",
+	"publishDate": 2022-01-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/570-Brian-Knutson-The-Neuroscience-of-Emotions--and-Economic-Decision-Making-e1765ko",
+	"tags": [
+		"Neuroscience"
+	],
+	"title": "#570 Brian Knutson: The Neuroscience of Emotions, and Economic Decision-Making",
+	"youtubeid": "1cCLzDZ1GvQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 9th 2021.  
 Dr. Brian Knutson is a Professor of Psychology and Neuroscience at Stanford University. His research focuses on the neural basis of emotional experience and expression. His long-term goal is to understand the neurochemical and neuroanatomical mechanisms responsible for emotional experience, and to explore the implications of these findings for the assessment and treatment of clinical disorders as well as for economic behavior. He is a fellow of the Academy for Behavioral Medicine Research and the Association for Psychological Science, and his research has been funded by the National Science Foundation, National Institutes of Health, and numerous private foundations.
 
@@ -44,5 +37,3 @@ Time Links:
 Follow Dr. Knutson’s work:  
 University page: https://stanford.io/3nByxoK  
 ResearchGate profile: https://bit.ly/3aTWO46
-</div>
-

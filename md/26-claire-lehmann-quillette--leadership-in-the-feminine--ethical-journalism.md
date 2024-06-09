@@ -1,16 +1,16 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/1991355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600209-44100-2-680097a4a73ef.mp3
-draft: false
-excerpt: 'Support me on Patreon / Deem-me o vosso apoio em:   '
-id: '26'
-image: https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg
-publishDate: 2018-05-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/26-Claire-Lehmann-Quillette--Leadership-in-the-Feminine--Ethical-Journalism-e2r97r
-title: '#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism'
-youtubeid: nDRiIm0SBL8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/1991355/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-27%2F7600209-44100-2-680097a4a73ef.mp3",
+	"draft": false,
+	"episodeid": "26",
+	"excerpt": "Support me on Patreon / Deem-me o vosso apoio em:   ",
+	"image": "https://i.ytimg.com/vi/nDRiIm0SBL8/maxresdefault.jpg",
+	"publishDate": 2018-05-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/26-Claire-Lehmann-Quillette--Leadership-in-the-Feminine--Ethical-Journalism-e2r97r",
+	"title": "#26 Claire Lehmann: Quillette, Leadership in the Feminine, Ethical Journalism",
+	"youtubeid": "nDRiIm0SBL8"
+}
 ---
-<div class="timelinks">
-
 Support me on Patreon / Deem-me o vosso apoio em:   
 https://www.patreon.com/thedissenter
 
@@ -33,5 +33,4 @@ Her Twitter handle: @clairlemon
 And follow and support Quillette:  
 Website: http://quillette.com/  
 Twitter handle: @QuilletteM  
-Patreon: https://www.patreon.com/Quillette</div>
-
+Patreon: https://www.patreon.com/Quillette

@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/72793632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-29%2F5ee4c74f-b8a8-a77d-b6bf-55ef8f98cc0c.m4a
-draft: false
-excerpt: 'Dr. Raymond Hames is Professor of Anthropology at the University of Nebraska-Lincoln.
-  His research interests are in behavioral ecology, food and labor exchange, human
-  ecology, marriage, and kin and parental investment. He is a member of the National
-  Academy of Sciences (anthropology section), past-president of the Evolutionary Anthropology
-  Society of the American Anthropological Association, consulting editor for Human
-  Nature, and for ten years he served as treasurer of the Human Behavior and Evolution
-  Society. '
-id: '817'
-image: https://i.ytimg.com/vi/e6jz_f83FZk/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/817-raymond-hames-hunting-mating-systems-warfare-and/id1451347236?i=1000623469444&uo=4
-publishDate: 2023-08-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/817-Raymond-Hames-Hunting--Mating-Systems--Warfare--and-Evolutionary-Anthropology-e26c030
-tags:
-- Anthropology
-title: '#817 Raymond Hames: Hunting, Mating Systems, Warfare, and Evolutionary Anthropology'
-youtubeid: e6jz_f83FZk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/72793632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-29%2F5ee4c74f-b8a8-a77d-b6bf-55ef8f98cc0c.m4a",
+	"draft": false,
+	"episodeid": "817",
+	"excerpt": "Dr. Raymond Hames is Professor of Anthropology at the University of Nebraska-Lincoln. His research interests are in behavioral ecology, food and labor exchange, human ecology, marriage, and kin and parental investment. He is a member of the National Academy of Sciences (anthropology section), past-president of the Evolutionary Anthropology Society of the American Anthropological Association, consulting editor for Human Nature, and for ten years he served as treasurer of the Human Behavior and Evolution Society. ",
+	"image": "https://i.ytimg.com/vi/e6jz_f83FZk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/817-raymond-hames-hunting-mating-systems-warfare-and/id1451347236?i=1000623469444&uo=4",
+	"publishDate": 2023-08-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/817-Raymond-Hames-Hunting--Mating-Systems--Warfare--and-Evolutionary-Anthropology-e26c030",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#817 Raymond Hames: Hunting, Mating Systems, Warfare, and Evolutionary Anthropology",
+	"youtubeid": "e6jz_f83FZk"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 8th 2023.  
 Dr. Raymond Hames is Professor of Anthropology at the University of Nebraska-Lincoln. His research interests are in behavioral ecology, food and labor exchange, human ecology, marriage, and kin and parental investment. He is a member of the National Academy of Sciences (anthropology section), past-president of the Evolutionary Anthropology Society of the American Anthropological Association, consulting editor for Human Nature, and for ten years he served as treasurer of the Human Behavior and Evolution Society. 
 
@@ -46,5 +41,3 @@ Follow Dr. Hames’ work:
 Faculty page: https://bit.ly/3RXcyb6  
 ResearchGate profile: https://bit.ly/3lB0LTR  
 Twitter handle: @HamesRaymond
-</div>
-

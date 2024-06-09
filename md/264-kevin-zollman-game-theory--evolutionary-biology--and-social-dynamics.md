@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a
-draft: false
-excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy\
-  \ at Carnegie Mellon University. In addition to his primary appointment at Carnegie\
-  \ Mellon, he is an associate fellow at the Center for Philosophy of Science at the\
-  \ University of Pittsburgh, a visiting professor at the Munich Center for Mathematical\
-  \ Philosophy (part of Ludwig-Maximilians Universit\xE4t), and an associate editor\
-  \ of the journal Philosophy of Science. With Paul Raeburn, he is the author of The\
-  \ Game Theorist's Guide to Parenting."
-id: '264'
-image: https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg
-publishDate: 2019-12-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/264-Kevin-Zollman-Game-Theory--Evolutionary-Biology--And-Social-Dynamics-e5k4pc
-tags:
-- Game Theory
-- Philosophy
-title: '#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics'
-youtubeid: f_JjVtsaTiw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a",
+	"draft": false,
+	"episodeid": "264",
+	"excerpt": "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy at Carnegie Mellon University. In addition to his primary appointment at Carnegie Mellon, he is an associate fellow at the Center for Philosophy of Science at the University of Pittsburgh, a visiting professor at the Munich Center for Mathematical Philosophy (part of Ludwig-Maximilians Universität), and an associate editor of the journal Philosophy of Science. With Paul Raeburn, he is the author of The Game Theorist's Guide to Parenting.",
+	"image": "https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg",
+	"publishDate": 2019-12-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/264-Kevin-Zollman-Game-Theory--Evolutionary-Biology--And-Social-Dynamics-e5k4pc",
+	"tags": [
+		"Game Theory",
+		"Philosophy"
+	],
+	"title": "#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics",
+	"youtubeid": "f_JjVtsaTiw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 25th, 2019.  
 Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy at Carnegie Mellon University. In addition to his primary appointment at Carnegie Mellon, he is an associate fellow at the Center for Philosophy of Science at the University of Pittsburgh, a visiting professor at the Munich Center for Mathematical Philosophy (part of Ludwig-Maximilians Universität), and an associate editor of the journal Philosophy of Science. With Paul Raeburn, he is the author of The Game Theorist's Guide to Parenting.
 
@@ -56,5 +51,3 @@ Methodology in Biological Game Theory: http://bit.ly/2lahdvq
 Signaling games: The dynamics of evolution and learning: http://bit.ly/2lIL665  
 The Stability of Strategic Plasticity: http://bit.ly/2l0WvxM  
 The Communication Structure of Epistemic Communities: http://bit.ly/2ndwTi3
-</div>
-

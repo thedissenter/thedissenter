@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/44647862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F3156707a-13c0-6ece-4598-3acc24bb135f.m4a
-draft: false
-excerpt: "Dr. Daniel Kreiss is Professor at the University of North Carolina at Chapel\
-  \ Hill\u2019s Hussman School of Journalism and Media. Dr. Kreiss\u2019 research\
-  \ explores the impact of technological change on the public sphere and political\
-  \ practice. He is the author of books like Taking Our Country Back: The Crafting\
-  \ of Networked Politics from Howard Dean to Barack Obama, and Prototype Politics:\
-  \ The Making and Unmaking of Technological Innovation in the Republican and Democratic\
-  \ Parties, 2000-2014."
-id: '603'
-image: https://i.ytimg.com/vi/4At2a1x4kPc/maxresdefault.jpg
-publishDate: 2022-03-24
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/603-Daniel-Kreiss-Digital-Media--Political-Campaigns--Journalism--and-Partisan-Identity-e1bh1vm
-tags:
-- Politics
-- Sociology
-title: '#603 Daniel Kreiss: Digital Media, Political Campaigns, Journalism, and Partisan
-  Identity'
-youtubeid: 4At2a1x4kPc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/44647862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F3156707a-13c0-6ece-4598-3acc24bb135f.m4a",
+	"draft": false,
+	"episodeid": "603",
+	"excerpt": "Dr. Daniel Kreiss is Professor at the University of North Carolina at Chapel Hill’s Hussman School of Journalism and Media. Dr. Kreiss’ research explores the impact of technological change on the public sphere and political practice. He is the author of books like Taking Our Country Back: The Crafting of Networked Politics from Howard Dean to Barack Obama, and Prototype Politics: The Making and Unmaking of Technological Innovation in the Republican and Democratic Parties, 2000-2014.",
+	"image": "https://i.ytimg.com/vi/4At2a1x4kPc/maxresdefault.jpg",
+	"publishDate": 2022-03-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/603-Daniel-Kreiss-Digital-Media--Political-Campaigns--Journalism--and-Partisan-Identity-e1bh1vm",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#603 Daniel Kreiss: Digital Media, Political Campaigns, Journalism, and Partisan Identity",
+	"youtubeid": "4At2a1x4kPc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 9th 2021.  
 Dr. Daniel Kreiss is Professor at the University of North Carolina at Chapel Hill’s Hussman School of Journalism and Media. Dr. Kreiss’ research explores the impact of technological change on the public sphere and political practice. He is the author of books like Taking Our Country Back: The Crafting of Networked Politics from Howard Dean to Barack Obama, and Prototype Politics: The Making and Unmaking of Technological Innovation in the Republican and Democratic Parties, 2000-2014.
 
@@ -46,5 +40,3 @@ Follow Dr. Kreiss’ work:
 Faculty page: https://unc.live/3kVmEIX  
 Website: https://bit.ly/3ACrUaU  
 ResearchGate profile: https://bit.ly/3qe8Z0I
-</div>
-

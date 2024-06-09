@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681146-44100-2-86c3825f430f.mp3
-draft: false
-excerpt: Dr. Lewis Goldberg is an American personality psychologist and a Professor
-  Emeritus at the University of Oregon. He is closely associated with the lexical
-  hypothesis, that says that any culturally important personality characteristic will
-  be represented in the language of the particular culture. This hypothesis led to
-  the discovery of a five-factor structure of personality trait adjectives (which
-  he dubbed the Big Five).
-id: '62'
-image: https://i.ytimg.com/vi/TNVpiFbAk-A/maxresdefault.jpg
-publishDate: 2018-08-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/62-Lewis-Goldberg-The-Development-and-Scientific-Relevance-of-the-BIG-FIVE-e2rj3e
-tags:
-- Psychology
-title: '#62 Lewis Goldberg: The Development and Scientific Relevance of the BIG FIVE'
-youtubeid: TNVpiFbAk-A
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681146-44100-2-86c3825f430f.mp3",
+	"draft": false,
+	"episodeid": "62",
+	"excerpt": "Dr. Lewis Goldberg is an American personality psychologist and a Professor Emeritus at the University of Oregon. He is closely associated with the lexical hypothesis, that says that any culturally important personality characteristic will be represented in the language of the particular culture. This hypothesis led to the discovery of a five-factor structure of personality trait adjectives (which he dubbed the Big Five).",
+	"image": "https://i.ytimg.com/vi/TNVpiFbAk-A/maxresdefault.jpg",
+	"publishDate": 2018-08-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/62-Lewis-Goldberg-The-Development-and-Scientific-Relevance-of-the-BIG-FIVE-e2rj3e",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#62 Lewis Goldberg: The Development and Scientific Relevance of the BIG FIVE",
+	"youtubeid": "TNVpiFbAk-A"
+}
 ---
-<div class="timelinks">
-
 Dr. Lewis Goldberg is an American personality psychologist and a Professor Emeritus at the University of Oregon. He is closely associated with the lexical hypothesis, that says that any culturally important personality characteristic will be represented in the language of the particular culture. This hypothesis led to the discovery of a five-factor structure of personality trait adjectives (which he dubbed the Big Five).
 
 In this episode, we talk about: the scientific history behind the lexical hypothesis; what happened in the 70’s that led to the development of the Big Five personality inventory; the limitations of the Big Five, and comparison with other personality inventories, like the HEXACO and the Myers-Briggs; personality traits in other animals; the distinction between temperament and personality; the ten aspects of the Big Five; the possibility of applying the Big Five to clinical psychology; and the International Personality Item Pool (IPIP). 
@@ -43,5 +39,3 @@ Time Links:
 Follow Dr. Goldberg’s work:  
 Faculty page: https://psychology.uoregon.edu/profile/lewg/  
 International Personality Item Pool (IPIP): https://ipip.ori.org/
-</div>
-

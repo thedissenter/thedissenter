@@ -1,30 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4434309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138507-44100-2-a5cffd9d132c9.m4a
-draft: false
-excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
-  \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\
-  \ for both Teaching and Research. In addition to teaching various courses and directing\
-  \ the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director\
-  \ of the campus\u2019 Evolutionary Studies (EvoS) program. He is also credited as\
-  \ the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has\
-  \ also published several books including Evolutionary Psychology 101, Mating Intelligence\
-  \ Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward\
-  \ Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence,\
-  \ his Psychology Today blog, Dr. Geher addresses various topics related to the human\
-  \ condition. He has recently released a new book, Positive Evolutionary Psychology:\
-  \ Darwin's Guide to Living a Richer Life."
-id: '232'
-image: https://i.ytimg.com/vi/aUCEml0DyYI/maxresdefault.jpg
-publishDate: 2019-09-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/232-Glenn-Geher-Positive-Evolutionary-Psychology--Darwins-Guide-to-Living-a-Richer-Life-e55qu5
-tags:
-- Psychology
-title: '#232 Glenn Geher: Positive Evolutionary Psychology, Darwin''s Guide to Living
-  a Richer Life'
-youtubeid: aUCEml0DyYI
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4434309/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-30%2F22138507-44100-2-a5cffd9d132c9.m4a",
+	"draft": false,
+	"episodeid": "232",
+	"excerpt": "Dr. Glenn Geher is Professor of Psychology at the State University of New York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence for both Teaching and Research. In addition to teaching various courses and directing the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director of the campus’ Evolutionary Studies (EvoS) program. He is also credited as the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has also published several books including Evolutionary Psychology 101, Mating Intelligence Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence, his Psychology Today blog, Dr. Geher addresses various topics related to the human condition. He has recently released a new book, Positive Evolutionary Psychology: Darwin's Guide to Living a Richer Life.",
+	"image": "https://i.ytimg.com/vi/aUCEml0DyYI/maxresdefault.jpg",
+	"publishDate": 2019-09-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/232-Glenn-Geher-Positive-Evolutionary-Psychology--Darwins-Guide-to-Living-a-Richer-Life-e55qu5",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#232 Glenn Geher: Positive Evolutionary Psychology, Darwin's Guide to Living a Richer Life",
+	"youtubeid": "aUCEml0DyYI"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 30TH, 2019.  
 Dr. Glenn Geher is Professor of Psychology at the State University of New York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence for both Teaching and Research. In addition to teaching various courses and directing the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director of the campus’ Evolutionary Studies (EvoS) program. He is also credited as the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has also published several books including Evolutionary Psychology 101, Mating Intelligence Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence, his Psychology Today blog, Dr. Geher addresses various topics related to the human condition. He has recently released a new book, Positive Evolutionary Psychology: Darwin's Guide to Living a Richer Life.
 
@@ -55,5 +44,3 @@ Twitter handle: @glenngeher
 Buy the book!  
 Oxford University Press: http://bit.ly/2LWKiGf  
 Amazon: https://amzn.to/2Zu5Tx9
-</div>
-

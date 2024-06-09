@@ -1,31 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/44146904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F9254e8af-642a-5365-5d9d-9cef75652187.m4a
-draft: false
-excerpt: "Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor of\
-  \ Russian and Slavic Studies, and an affiliated Professor of Data Science at New\
-  \ York University.  He is the Director of NYU\u2019s Jordan Center for Advanced\
-  \ Study of Russia, a co-director of the NYU Center for Social Media and Politics\
-  \ (CSMaP) and the Social Media and Political Participation (SMaPP) lab, and a co-editor\
-  \ of the award-winning politics and policy blog The Monkey Cage at The Washington\
-  \ Post. For most of his career, he studied comparative politics with an emphasis\
-  \ on mass politics, including elections and voting, the development of partisan\
-  \ attachment, public opinion formation, and political protest, as well as how social\
-  \ media usage affects all of these types of political behavior. More recently, he\
-  \ has been spending a lot of time working on studying the relationship between social\
-  \ media, politics, and political participation."
-id: '599'
-image: https://i.ytimg.com/vi/n-XdqCj6uxw/maxresdefault.jpg
-publishDate: 2022-03-14
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/599-Joshua-Tucker-Social-Media--Politics--Echo-Chambers--and-Organizing-Political-Action-Online-e1b1ooo
-tags:
-- Politics
-- Sociology
-title: '#599 Joshua Tucker: Social Media, Politics, Echo Chambers, and Organizing
-  Political Action Online'
-youtubeid: n-XdqCj6uxw
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/44146904/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F9254e8af-642a-5365-5d9d-9cef75652187.m4a",
+	"draft": false,
+	"episodeid": "599",
+	"excerpt": "Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor of Russian and Slavic Studies, and an affiliated Professor of Data Science at New York University.  He is the Director of NYU’s Jordan Center for Advanced Study of Russia, a co-director of the NYU Center for Social Media and Politics (CSMaP) and the Social Media and Political Participation (SMaPP) lab, and a co-editor of the award-winning politics and policy blog The Monkey Cage at The Washington Post. For most of his career, he studied comparative politics with an emphasis on mass politics, including elections and voting, the development of partisan attachment, public opinion formation, and political protest, as well as how social media usage affects all of these types of political behavior. More recently, he has been spending a lot of time working on studying the relationship between social media, politics, and political participation.",
+	"image": "https://i.ytimg.com/vi/n-XdqCj6uxw/maxresdefault.jpg",
+	"publishDate": 2022-03-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/599-Joshua-Tucker-Social-Media--Politics--Echo-Chambers--and-Organizing-Political-Action-Online-e1b1ooo",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#599 Joshua Tucker: Social Media, Politics, Echo Chambers, and Organizing Political Action Online",
+	"youtubeid": "n-XdqCj6uxw"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 30th 2021.  
 Dr. Joshua Tucker is a Professor of Politics, an affiliated Professor of Russian and Slavic Studies, and an affiliated Professor of Data Science at New York University.  He is the Director of NYU’s Jordan Center for Advanced Study of Russia, a co-director of the NYU Center for Social Media and Politics (CSMaP) and the Social Media and Political Participation (SMaPP) lab, and a co-editor of the award-winning politics and policy blog The Monkey Cage at The Washington Post. For most of his career, he studied comparative politics with an emphasis on mass politics, including elections and voting, the development of partisan attachment, public opinion formation, and political protest, as well as how social media usage affects all of these types of political behavior. More recently, he has been spending a lot of time working on studying the relationship between social media, politics, and political participation.
 
@@ -46,5 +35,3 @@ Follow Dr. Tucker’s work:
 Faculty page: https://bit.ly/3k5S66Y  
 ResearchGate profile: https://bit.ly/3pGiPrY  
 Twitter handle: @j_a_tucker
-</div>
-

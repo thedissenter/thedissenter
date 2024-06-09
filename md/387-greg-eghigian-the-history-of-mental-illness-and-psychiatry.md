@@ -1,28 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/19111280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2F54cc0e50-7a3e-dcc2-6c6b-8373790e6a93.m4a
-draft: false
-excerpt: 'Dr. Greg Eghigian is Professor of History at Pennsylvania State University.
-  A historian of both the human sciences and modern Europe, he is particularly interested
-  in how societies grapple with the questions and problems associated with modernity
-  through the vehicles of science, technology, and medicine. His research has largely
-  focused on the nature of power and the relationship between the state, science,
-  and medicine in understanding and managing things such as disability, deviance,
-  criminality, mental illness, and security. And he regularly writes articles and
-  present papers on the general history of madness and psychiatry. In recent years,
-  his interests have moved into studying the history of supernatural and paranormal
-  phenomena. '
-id: '387'
-image: https://i.ytimg.com/vi/BJ_jomnPaqE/maxresdefault.jpg
-publishDate: 2020-11-05
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/387-Greg-Eghigian-The-History-of-Mental-Illness-and-Psychiatry-ej5ntg
-tags:
-- History
-- Psychology
-title: '#387 Greg Eghigian: The History of Mental Illness and Psychiatry'
-youtubeid: BJ_jomnPaqE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/19111280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-8-5%2F54cc0e50-7a3e-dcc2-6c6b-8373790e6a93.m4a",
+	"draft": false,
+	"episodeid": "387",
+	"excerpt": "Dr. Greg Eghigian is Professor of History at Pennsylvania State University. A historian of both the human sciences and modern Europe, he is particularly interested in how societies grapple with the questions and problems associated with modernity through the vehicles of science, technology, and medicine. His research has largely focused on the nature of power and the relationship between the state, science, and medicine in understanding and managing things such as disability, deviance, criminality, mental illness, and security. And he regularly writes articles and present papers on the general history of madness and psychiatry. In recent years, his interests have moved into studying the history of supernatural and paranormal phenomena. ",
+	"image": "https://i.ytimg.com/vi/BJ_jomnPaqE/maxresdefault.jpg",
+	"publishDate": 2020-11-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/387-Greg-Eghigian-The-History-of-Mental-Illness-and-Psychiatry-ej5ntg",
+	"tags": [
+		"History",
+		"Psychology"
+	],
+	"title": "#387 Greg Eghigian: The History of Mental Illness and Psychiatry",
+	"youtubeid": "BJ_jomnPaqE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 4th 2020.  
 Dr. Greg Eghigian is Professor of History at Pennsylvania State University. A historian of both the human sciences and modern Europe, he is particularly interested in how societies grapple with the questions and problems associated with modernity through the vehicles of science, technology, and medicine. His research has largely focused on the nature of power and the relationship between the state, science, and medicine in understanding and managing things such as disability, deviance, criminality, mental illness, and security. And he regularly writes articles and present papers on the general history of madness and psychiatry. In recent years, his interests have moved into studying the history of supernatural and paranormal phenomena. 
 
@@ -51,5 +43,3 @@ Follow Dr. Eghigian’s work:
 Faculty page: https://bit.ly/2Z9Z3ui  
 H-madness blog: https://bit.ly/2Gx0tbZ  
 Books on Amazon: https://amzn.to/3jKP7PU
-</div>
-

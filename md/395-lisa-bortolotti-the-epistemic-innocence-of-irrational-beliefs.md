@@ -1,29 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/22707130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-17%2F5368a122-d18c-4479-e704-7b881979e963.m4a
-draft: false
-excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,
-  affiliated with the Philosophy Department in the School of Philosophy, Theology,
-  and Religion; and with the Institute for Mental Health in the School of Psychology.
-  Her research is in the philosophy of the cognitive sciences. She writes about the
-  limitations of human cognition and human agency, investigating faulty reasoning
-  and irrational beliefs, delusions, confabulations, distorted memories, poor knowledge
-  of the self, unreliable self-narratives, self-deception, inconsistencies between
-  attitudes and behavior, unrealistic optimism, and other positive illusions. She
-  is also interested in the philosophy of medicine and how health, wellbeing, rationality,
-  and agency interact. She is the author of The Epistemic Innocence of Irrational
-  Beliefs.
-id: '395'
-image: https://i.ytimg.com/vi/v13m30R_xbY/maxresdefault.jpg
-publishDate: 2020-11-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/395-Lisa-Bortolotti-The-Epistemic-Innocence-of-Irrational-Beliefs-emjffq
-tags:
-- Cognitive Science
-- Philosophy
-title: '#395 Lisa Bortolotti: The Epistemic Innocence of Irrational Beliefs'
-youtubeid: v13m30R_xbY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/22707130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-17%2F5368a122-d18c-4479-e704-7b881979e963.m4a",
+	"draft": false,
+	"episodeid": "395",
+	"excerpt": "Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She writes about the limitations of human cognition and human agency, investigating faulty reasoning and irrational beliefs, delusions, confabulations, distorted memories, poor knowledge of the self, unreliable self-narratives, self-deception, inconsistencies between attitudes and behavior, unrealistic optimism, and other positive illusions. She is also interested in the philosophy of medicine and how health, wellbeing, rationality, and agency interact. She is the author of The Epistemic Innocence of Irrational Beliefs.",
+	"image": "https://i.ytimg.com/vi/v13m30R_xbY/maxresdefault.jpg",
+	"publishDate": 2020-11-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/395-Lisa-Bortolotti-The-Epistemic-Innocence-of-Irrational-Beliefs-emjffq",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#395 Lisa Bortolotti: The Epistemic Innocence of Irrational Beliefs",
+	"youtubeid": "v13m30R_xbY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 17th 2020.  
 Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She writes about the limitations of human cognition and human agency, investigating faulty reasoning and irrational beliefs, delusions, confabulations, distorted memories, poor knowledge of the self, unreliable self-narratives, self-deception, inconsistencies between attitudes and behavior, unrealistic optimism, and other positive illusions. She is also interested in the philosophy of medicine and how health, wellbeing, rationality, and agency interact. She is the author of The Epistemic Innocence of Irrational Beliefs.
 
@@ -50,5 +41,3 @@ PhilPeople page: https://bit.ly/3f8xs3B
 Books on Amazon: https://amzn.to/3nxpUKA  
 The Epistemic Innocence of Irrational Beliefs: https://amzn.to/2KjKQqp  
 Twitter handle: @lisabortolotti
-</div>
-

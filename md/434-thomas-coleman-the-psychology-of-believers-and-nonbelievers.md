@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/23826421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2Fd845f7f6-40a2-0bb2-a4b0-6c78b1731f71.m4a
-draft: false
-excerpt: 'Thomas Coleman III is PhD student at Coventry University, and a Postdoctoral
-  Researcher at the University of Bialystok as part of the Society and Cognition Unit.
-  He draws on multiple approaches from across the sciences and humanities, to study
-  the origins, development, and maintenance of (non)religious worldviews. His research
-  focuses on three areas: Identifying and measuring components of nonreligious worldviews;
-  computer simulated models of the cognitive and social dynamics leading to (non)belief
-  in supernatural agents; investigating how and why moral motivations are stereotypically
-  attributed to religious, as opposed to nonreligious factors.'
-id: '434'
-image: https://i.ytimg.com/vi/VXoH3MUoODQ/maxresdefault.jpg
-publishDate: 2021-02-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/434-Thomas-Coleman-The-Psychology-of-Believers-and-Nonbelievers-enlkhl
-tags:
-- Anthropology
-- Psychology
-title: '#434 Thomas Coleman: The Psychology of Believers and Nonbelievers'
-youtubeid: VXoH3MUoODQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/23826421/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-11%2Fd845f7f6-40a2-0bb2-a4b0-6c78b1731f71.m4a",
+	"draft": false,
+	"episodeid": "434",
+	"excerpt": "Thomas Coleman III is PhD student at Coventry University, and a Postdoctoral Researcher at the University of Bialystok as part of the Society and Cognition Unit. He draws on multiple approaches from across the sciences and humanities, to study the origins, development, and maintenance of (non)religious worldviews. His research focuses on three areas: Identifying and measuring components of nonreligious worldviews; computer simulated models of the cognitive and social dynamics leading to (non)belief in supernatural agents; investigating how and why moral motivations are stereotypically attributed to religious, as opposed to nonreligious factors.",
+	"image": "https://i.ytimg.com/vi/VXoH3MUoODQ/maxresdefault.jpg",
+	"publishDate": 2021-02-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/434-Thomas-Coleman-The-Psychology-of-Believers-and-Nonbelievers-enlkhl",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#434 Thomas Coleman: The Psychology of Believers and Nonbelievers",
+	"youtubeid": "VXoH3MUoODQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 10th 2020.  
 Thomas Coleman III is PhD student at Coventry University, and a Postdoctoral Researcher at the University of Bialystok as part of the Society and Cognition Unit. He draws on multiple approaches from across the sciences and humanities, to study the origins, development, and maintenance of (non)religious worldviews. His research focuses on three areas: Identifying and measuring components of nonreligious worldviews; computer simulated models of the cognitive and social dynamics leading to (non)belief in supernatural agents; investigating how and why moral motivations are stereotypically attributed to religious, as opposed to nonreligious factors.
 
@@ -48,5 +42,3 @@ Website: https://bit.ly/3oGoApy
 Society and Cognition Unit: https://bit.ly/376IkMM  
 The RIP project https://bit.ly/341reOG  
 ResearchGate page: https://bit.ly/2KdOXUx
-</div>
-

@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/54229674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F6e61cf0a-7445-2683-8fea-9bfce2c997bb.m4a
-draft: false
-excerpt: Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and Anthropology
-  and a Founder of the Department of Sexuality Studies and the National Sexuality
-  Resource Center at San Francisco State University. He founded the Summer Institute
-  on Sexuality and Society at the University of Amsterdam (1996). He founded the PhD
-  Program in Human Sexuality at the California Institute for Integral Studies, San
-  Francisco (2013). He conducted long-term fieldwork among the Sambia people of Papua
-  New Guinea, and has written widely on the nature and variation in human sexual expression
-  in Papua New Guinea, Melanesia, and across cultures.
-id: '678'
-image: https://i.ytimg.com/vi/JmFEd1LpQxA/maxresdefault.jpg
-publishDate: 2022-09-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/678-Gilbert-Herdt-The-Anthropology-of-Sexual-Orientation-e1klf7a
-tags:
-- Anthropology
-title: '#678 Gilbert Herdt: The Anthropology of Sexual Orientation'
-youtubeid: JmFEd1LpQxA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/54229674/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F6e61cf0a-7445-2683-8fea-9bfce2c997bb.m4a",
+	"draft": false,
+	"episodeid": "678",
+	"excerpt": "Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and Anthropology and a Founder of the Department of Sexuality Studies and the National Sexuality Resource Center at San Francisco State University. He founded the Summer Institute on Sexuality and Society at the University of Amsterdam (1996). He founded the PhD Program in Human Sexuality at the California Institute for Integral Studies, San Francisco (2013). He conducted long-term fieldwork among the Sambia people of Papua New Guinea, and has written widely on the nature and variation in human sexual expression in Papua New Guinea, Melanesia, and across cultures.",
+	"image": "https://i.ytimg.com/vi/JmFEd1LpQxA/maxresdefault.jpg",
+	"publishDate": 2022-09-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/678-Gilbert-Herdt-The-Anthropology-of-Sexual-Orientation-e1klf7a",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#678 Gilbert Herdt: The Anthropology of Sexual Orientation",
+	"youtubeid": "JmFEd1LpQxA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 30th 2022.  
 Dr. Gilbert Herdt is Emeritus Professor of Human Sexuality Studies and Anthropology and a Founder of the Department of Sexuality Studies and the National Sexuality Resource Center at San Francisco State University. He founded the Summer Institute on Sexuality and Society at the University of Amsterdam (1996). He founded the PhD Program in Human Sexuality at the California Institute for Integral Studies, San Francisco (2013). He conducted long-term fieldwork among the Sambia people of Papua New Guinea, and has written widely on the nature and variation in human sexual expression in Papua New Guinea, Melanesia, and across cultures.
 
@@ -43,5 +37,3 @@ Follow Dr. Herdt’s work:
 Faculty page: https://bit.ly/3sjl9tn  
 ResearchGate profile: https://bit.ly/35xc7zV  
 Books on Amazon: https://amzn.to/3NLm3Xn
-</div>
-

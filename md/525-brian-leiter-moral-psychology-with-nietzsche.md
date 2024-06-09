@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/39440774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F71bec331-c69f-de24-faf3-df99aef7637a.m4a
-draft: false
-excerpt: Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the University
-  of Chicago Law School and founder and Director of Chicago's Center for Law, Philosophy
-  and Human Values. His teaching and research interests are in moral, political, and
-  legal philosophy, in both the Anglophone and Continental European traditions, and
-  the law of evidence. He is the author of books like Nietzsche on Morality, Naturalizing
-  Jurisprudence, Why Tolerate Religion? and, more recently, Moral Psychology with
-  Nietzsche.
-id: '525'
-image: https://i.ytimg.com/vi/L3H9P1igGXY/maxresdefault.jpg
-publishDate: 2021-09-23
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/525-Brian-Leiter-Moral-Psychology-with-Nietzsche-e16i4u6
-tags:
-- Philosophy
-title: '#525 Brian Leiter: Moral Psychology with Nietzsche'
-youtubeid: L3H9P1igGXY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/39440774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-27%2F71bec331-c69f-de24-faf3-df99aef7637a.m4a",
+	"draft": false,
+	"episodeid": "525",
+	"excerpt": "Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the University of Chicago Law School and founder and Director of Chicago's Center for Law, Philosophy and Human Values. His teaching and research interests are in moral, political, and legal philosophy, in both the Anglophone and Continental European traditions, and the law of evidence. He is the author of books like Nietzsche on Morality, Naturalizing Jurisprudence, Why Tolerate Religion? and, more recently, Moral Psychology with Nietzsche.",
+	"image": "https://i.ytimg.com/vi/L3H9P1igGXY/maxresdefault.jpg",
+	"publishDate": 2021-09-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/525-Brian-Leiter-Moral-Psychology-with-Nietzsche-e16i4u6",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#525 Brian Leiter: Moral Psychology with Nietzsche",
+	"youtubeid": "L3H9P1igGXY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON AUGUST 24th 2021.  
 Dr. Brian Leiter is Karl N. Llewellyn Professor of Jurisprudence at the University of Chicago Law School and founder and Director of Chicago's Center for Law, Philosophy and Human Values. His teaching and research interests are in moral, political, and legal philosophy, in both the Anglophone and Continental European traditions, and the law of evidence. He is the author of books like Nietzsche on Morality, Naturalizing Jurisprudence, Why Tolerate Religion? and, more recently, Moral Psychology with Nietzsche.
 
@@ -50,5 +45,3 @@ Leiter Reports: https://bit.ly/2RwNBId
 PhilPeople page: https://bit.ly/3AY9Ng4  
 Amazon page: https://amzn.to/3ATRl8f  
 Moral Psychology with Nietzsche: https://amzn.to/2RFXXWB
-</div>
-

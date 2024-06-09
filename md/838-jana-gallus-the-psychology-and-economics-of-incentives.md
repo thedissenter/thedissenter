@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/70688366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-19%2F0b0e84f1-61d8-3062-646a-09adeed2823c.m4a
-draft: false
-excerpt: Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decision
-  Making at UCLA Anderson School of Management. Her research interests lie in behavioral
-  economics, strategy, and innovation, with a focus on recognition incentives and
-  their effects on decision-making. She investigates how incentive schemes can be
-  designed to enhance employee motivation and organizational performance in the private,
-  public, and nonprofit sectors.
-id: '838'
-image: https://i.ytimg.com/vi/PDxqSLeZsEQ/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/838-jana-gallus-the-psychology-and-economics-of-incentives/id1451347236?i=1000628854924&uo=4
-publishDate: 2023-09-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/838-Jana-Gallus-The-Psychology-and-Economics-of-Incentives-e24bo5e
-tags:
-- Economics
-- Psychology
-title: '#838 Jana Gallus: The Psychology and Economics of Incentives'
-youtubeid: PDxqSLeZsEQ
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/70688366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-19%2F0b0e84f1-61d8-3062-646a-09adeed2823c.m4a",
+	"draft": false,
+	"episodeid": "838",
+	"excerpt": "Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decision Making at UCLA Anderson School of Management. Her research interests lie in behavioral economics, strategy, and innovation, with a focus on recognition incentives and their effects on decision-making. She investigates how incentive schemes can be designed to enhance employee motivation and organizational performance in the private, public, and nonprofit sectors.",
+	"image": "https://i.ytimg.com/vi/PDxqSLeZsEQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/838-jana-gallus-the-psychology-and-economics-of-incentives/id1451347236?i=1000628854924&uo=4",
+	"publishDate": 2023-09-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/838-Jana-Gallus-The-Psychology-and-Economics-of-Incentives-e24bo5e",
+	"tags": [
+		"Economics",
+		"Psychology"
+	],
+	"title": "#838 Jana Gallus: The Psychology and Economics of Incentives",
+	"youtubeid": "PDxqSLeZsEQ"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON MAY 10th 2023.  
 Dr. Jana Gallus is Associate Professor of Strategy and Behavioral Decision Making at UCLA Anderson School of Management. Her research interests lie in behavioral economics, strategy, and innovation, with a focus on recognition incentives and their effects on decision-making. She investigates how incentive schemes can be designed to enhance employee motivation and organizational performance in the private, public, and nonprofit sectors.
 
@@ -45,5 +41,3 @@ Faculty page: http://bit.ly/3GSKWyu
 Website: http://bit.ly/3Wl1bKF  
 ResearchGate profile: https://bit.ly/3iMRWVP  
 Twitter handle: @janagallus
-</div>
-

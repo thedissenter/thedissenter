@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42816542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F9a1d5368-1cc2-1042-f3f7-5d08d757c84f.m4a
-draft: false
-excerpt: Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy
-  at Northwestern University. Jennifer Lackey specializes in epistemology, with a
-  particular emphasis on a broad range of issues in social epistemology. Her recent
-  work focuses on false confessions, the criminal justice system, the duty to object,
-  norms of credibility, the epistemic status of punishment, the epistemology of groups,
-  expertise, and the distribution of epistemic goods. She is the author of several
-  books, including The Epistemology of Groups.
-id: '588'
-image: https://i.ytimg.com/vi/OnW93tV_Ky8/maxresdefault.jpg
-publishDate: 2022-02-17
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/588-Jennifer-Lackey-The-Epistemology-of-Groups-Groups-Assertions--Groups-Lies--and-Responsibility-e19p5iu
-tags:
-- Philosophy
-title: '#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups
-  Lies, and Responsibility'
-youtubeid: OnW93tV_Ky8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42816542/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-4%2F9a1d5368-1cc2-1042-f3f7-5d08d757c84f.m4a",
+	"draft": false,
+	"episodeid": "588",
+	"excerpt": "Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy at Northwestern University. Jennifer Lackey specializes in epistemology, with a particular emphasis on a broad range of issues in social epistemology. Her recent work focuses on false confessions, the criminal justice system, the duty to object, norms of credibility, the epistemic status of punishment, the epistemology of groups, expertise, and the distribution of epistemic goods. She is the author of several books, including The Epistemology of Groups.",
+	"image": "https://i.ytimg.com/vi/OnW93tV_Ky8/maxresdefault.jpg",
+	"publishDate": 2022-02-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/588-Jennifer-Lackey-The-Epistemology-of-Groups-Groups-Assertions--Groups-Lies--and-Responsibility-e19p5iu",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#588 Jennifer Lackey: The Epistemology of Groups; Groups Assertions, Groups Lies, and Responsibility",
+	"youtubeid": "OnW93tV_Ky8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 4th 2021.  
 Dr. Jennifer Lackey is Wayne and Elizabeth Jones Professor of Philosophy at Northwestern University. Jennifer Lackey specializes in epistemology, with a particular emphasis on a broad range of issues in social epistemology. Her recent work focuses on false confessions, the criminal justice system, the duty to object, norms of credibility, the epistemic status of punishment, the epistemology of groups, expertise, and the distribution of epistemic goods. She is the author of several books, including The Epistemology of Groups.
 
@@ -50,5 +44,3 @@ Faculty page: https://bit.ly/3xwV7m4
 PhilPeople page: https://bit.ly/3cValtk  
 Amazon page: https://amzn.to/35F7Ya1  
 The Epistemology of Groups: https://amzn.to/30Yv4JT
-</div>
-

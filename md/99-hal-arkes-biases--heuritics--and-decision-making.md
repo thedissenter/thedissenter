@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2005664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707363-44100-2-a76585d2d6e4.mp3
-draft: false
-excerpt: "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State University.\
-  \ His research focuses primarily on areas like judgement/decision-making, medical\
-  \ decision-making, and economic decision making. He\u2019s received several honors\
-  \ and awards over the years, such as President of the Society for Judgment and Decision\
-  \ Making (1996-1997); Elected \"Fellow\" of the American Psychological Society in\
-  \ 1997; College of Arts & Sciences Outstanding Teacher Award (Ohio University) in\
-  \ 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990."
-id: '99'
-image: https://i.ytimg.com/vi/UGxyeA0I3jg/maxresdefault.jpg
-publishDate: 2018-11-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/99-Hal-Arkes-Biases--Heuritics--and-Decision-Making-e2rn70
-tags:
-- Psychology
-title: '#99 Hal Arkes: Biases, Heuritics, and Decision-Making'
-youtubeid: UGxyeA0I3jg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2005664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7707363-44100-2-a76585d2d6e4.mp3",
+	"draft": false,
+	"episodeid": "99",
+	"excerpt": "Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State University. His research focuses primarily on areas like judgement/decision-making, medical decision-making, and economic decision making. He’s received several honors and awards over the years, such as President of the Society for Judgment and Decision Making (1996-1997); Elected \"Fellow\" of the American Psychological Society in 1997; College of Arts & Sciences Outstanding Teacher Award (Ohio University) in 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990.",
+	"image": "https://i.ytimg.com/vi/UGxyeA0I3jg/maxresdefault.jpg",
+	"publishDate": 2018-11-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/99-Hal-Arkes-Biases--Heuritics--and-Decision-Making-e2rn70",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#99 Hal Arkes: Biases, Heuritics, and Decision-Making",
+	"youtubeid": "UGxyeA0I3jg"
+}
 ---
-<div class="timelinks">
-
 Dr. Hal Arkes is Emeritus Professor of Psychology at Ohio State University. His research focuses primarily on areas like judgement/decision-making, medical decision-making, and economic decision making. He’s received several honors and awards over the years, such as President of the Society for Judgment and Decision Making (1996-1997); Elected "Fellow" of the American Psychological Society in 1997; College of Arts & Sciences Outstanding Teacher Award (Ohio University) in 1987; and Provost's Teaching Recognition Award (Ohio University) in 1989 and 1990.
 
 In this episode, we talk about some of the main cognitive biases and heuristics (mental short-cuts) that affect decision-making, and particularly when applied to experts and professionals. Topics include: how everyone falls for biases; the bias blind spot; the hindsight bias; the outcome bias; being overconfident; situations where nonexperts perform better than experts; the familiarity effect; the availability heuristic; the sunk cost fallacy; and how to help people and experts make better decisions.
@@ -42,5 +37,3 @@ Time Links:
 Follow Dr. Arkes’ work:  
 Faculty page: https://psychology.osu.edu/people/arkes.1  
 Articles on Researchgate: https://www.researchgate.net/profile/Hal_Arkes
-</div>
-

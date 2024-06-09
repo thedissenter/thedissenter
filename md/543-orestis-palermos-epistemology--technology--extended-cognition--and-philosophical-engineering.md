@@ -1,23 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/38006695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F9efca694-2861-1afc-59ba-eb20015b337a.m4a
-draft: false
-excerpt: 'Dr. Orestis Palermos is Lecturer in the School of English, Communication
-  and Philosophy at Cardiff University. He works at the intersection of philosophy
-  of mind and cognitive science, epistemology, philosophy of science and philosophy
-  of technology. He is interested in the idea of philosophical engineering: the way
-  philosophy can impact the design of emerging technologies and socio-technical systems.'
-id: '543'
-image: https://i.ytimg.com/vi/1xool2IrIxY/maxresdefault.jpg
-publishDate: 2021-11-04
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/543-Orestis-Palermos-Epistemology--Technology--Extended-Cognition--and-Philosophical-Engineering-e156cf7
-tags:
-- Philosophy
-title: '#543 Orestis Palermos: Epistemology, Technology, Extended Cognition, and Philosophical
-  Engineering'
-youtubeid: 1xool2IrIxY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/38006695/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2F9efca694-2861-1afc-59ba-eb20015b337a.m4a",
+	"draft": false,
+	"episodeid": "543",
+	"excerpt": "Dr. Orestis Palermos is Lecturer in the School of English, Communication and Philosophy at Cardiff University. He works at the intersection of philosophy of mind and cognitive science, epistemology, philosophy of science and philosophy of technology. He is interested in the idea of philosophical engineering: the way philosophy can impact the design of emerging technologies and socio-technical systems.",
+	"image": "https://i.ytimg.com/vi/1xool2IrIxY/maxresdefault.jpg",
+	"publishDate": 2021-11-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/543-Orestis-Palermos-Epistemology--Technology--Extended-Cognition--and-Philosophical-Engineering-e156cf7",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#543 Orestis Palermos: Epistemology, Technology, Extended Cognition, and Philosophical Engineering",
+	"youtubeid": "1xool2IrIxY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 26th 2021.  
 Dr. Orestis Palermos is Lecturer in the School of English, Communication and Philosophy at Cardiff University. He works at the intersection of philosophy of mind and cognitive science, epistemology, philosophy of science and philosophy of technology. He is interested in the idea of philosophical engineering: the way philosophy can impact the design of emerging technologies and socio-technical systems.
 
@@ -43,5 +39,3 @@ Faculty page: https://bit.ly/3clAtOp
 Website: https://bit.ly/2Uuojg0  
 PhilPeople page: https://bit.ly/36Qa1Zu  
 Amazon page: https://amzn.to/3iFXmO8
-</div>
-

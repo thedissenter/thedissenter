@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/65038457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-14%2F289cfee1-bb2e-7b0d-4544-08646a66d680.m4a
-draft: false
-excerpt: 'Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University
-  of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural
-  psychology, moral psychology, and psychology of positive emotions. He has developed
-  long-term empirical research on theoretically and socially critical issues regarding
-  religion, spirituality, fundamentalism, and atheism, in interaction with social
-  behavior: prosociality, submission, ethnoreligious & ideological prejudice, sexism,
-  homophobia; personality, emotions, and health: personality traits, birth order effects,
-  awe, humor; and more.'
-id: '786'
-image: https://i.ytimg.com/vi/m9_zwC7pdTo/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/786-vassilis-saroglou-the-psychological-traits/id1451347236?i=1000614509131&uo=4
-publishDate: 2023-05-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/786-Vassilis-Saroglou-The-Psychological-Traits-of-Religious-People-e1uvalp
-tags:
-- Psychology
-title: '#786 Vassilis Saroglou: The Psychological Traits of Religious People'
-youtubeid: m9_zwC7pdTo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/65038457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-14%2F289cfee1-bb2e-7b0d-4544-08646a66d680.m4a",
+	"draft": false,
+	"episodeid": "786",
+	"excerpt": "Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural psychology, moral psychology, and psychology of positive emotions. He has developed long-term empirical research on theoretically and socially critical issues regarding religion, spirituality, fundamentalism, and atheism, in interaction with social behavior: prosociality, submission, ethnoreligious & ideological prejudice, sexism, homophobia; personality, emotions, and health: personality traits, birth order effects, awe, humor; and more.",
+	"image": "https://i.ytimg.com/vi/m9_zwC7pdTo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/786-vassilis-saroglou-the-psychological-traits/id1451347236?i=1000614509131&uo=4",
+	"publishDate": 2023-05-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/786-Vassilis-Saroglou-The-Psychological-Traits-of-Religious-People-e1uvalp",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#786 Vassilis Saroglou: The Psychological Traits of Religious People",
+	"youtubeid": "m9_zwC7pdTo"
+}
 ---
-<div class="timelinks">
-
 Dr. Vassilis Saroglou is Full Professor of Psychology at the UCL-University of Louvain, with expertise in psychology of religion, personality, social, and cross-cultural psychology, moral psychology, and psychology of positive emotions. He has developed long-term empirical research on theoretically and socially critical issues regarding religion, spirituality, fundamentalism, and atheism, in interaction with social behavior: prosociality, submission, ethnoreligious & ideological prejudice, sexism, homophobia; personality, emotions, and health: personality traits, birth order effects, awe, humor; and more.
 
 In this episode, we talk about the psychology of religion. We talk about the distinction between intrinsic religiosity and extrinsic religiosity, and between devotional religion and coalitional religion. We discuss the relationship between religiosity and spirituality. We talk about the psychological traits of religious fundamentalists, and religious orientations marked by positive and negative emotionality. We discuss what fundamentalists and atheists get wrong about religion. We talk about the psychological differences between believers and nonbelievers, and the processes of convertion and de-convertion. We discuss if we are naturally predisposed to religiosity, if adolescents lean toward becoming nonbelievers, and if old people are bigots. We talk about the relationship between religiosity and prosociality, out-group discrimination, and psychopathology. Finally, we discuss if religiosity is in decline.
@@ -51,5 +45,3 @@ Faculty page: https://bit.ly/3e4cvdQ
 Website: https://bit.ly/3VxjSLE  
 Works on ResearchGate: https://bit.ly/3Cm55w6  
 The Psychology of Religion: https://bit.ly/3E6ps0u
-</div>
-

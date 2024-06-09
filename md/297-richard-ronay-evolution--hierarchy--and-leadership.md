@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/8984432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38451948-44100-2-6c258337902dc.m4a
-draft: false
-excerpt: Dr. Richard Ronay is Associate Professor of Leadership and Management at
-  University of Amsterdam Business School. His research interests include power and
-  status; social hierarchy; leadership; inequality; overconfidence; social intelligence;
-  decision making; evolutionary psychology; and social neuroendocrinology.
-id: '297'
-image: https://i.ytimg.com/vi/-bQQp6ylrkE/maxresdefault.jpg
-publishDate: 2020-02-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/297-Richard-Ronay-Evolution--Hierarchy--And-Leadership-e9gmdg
-tags:
-- Psychology
-title: '#297 Richard Ronay: Evolution, Hierarchy, And Leadership'
-youtubeid: -bQQp6ylrkE
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/8984432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-13%2F38451948-44100-2-6c258337902dc.m4a",
+	"draft": false,
+	"episodeid": "297",
+	"excerpt": "Dr. Richard Ronay is Associate Professor of Leadership and Management at University of Amsterdam Business School. His research interests include power and status; social hierarchy; leadership; inequality; overconfidence; social intelligence; decision making; evolutionary psychology; and social neuroendocrinology.",
+	"image": "https://i.ytimg.com/vi/-bQQp6ylrkE/maxresdefault.jpg",
+	"publishDate": 2020-02-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/297-Richard-Ronay-Evolution--Hierarchy--And-Leadership-e9gmdg",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#297 Richard Ronay: Evolution, Hierarchy, And Leadership",
+	"youtubeid": "-bQQp6ylrkE"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 9th, 2019.  
 Dr. Richard Ronay is Associate Professor of Leadership and Management at University of Amsterdam Business School. His research interests include power and status; social hierarchy; leadership; inequality; overconfidence; social intelligence; decision making; evolutionary psychology; and social neuroendocrinology.
 
@@ -49,5 +47,3 @@ The evolutionary psychology of leadership: Theory, review, and roadmap: http://b
 Sensitivity to Changing Contingencies Predicts Social Success: http://bit.ly/358GQyc  
 When Hierarchical Differentiation Increases Group Effectiveness: http://bit.ly/2RCnX2S  
 The Presence of an Attractive Woman Elevates Testosterone and Physical Risk Taking in Young Men: http://bit.ly/2P6whGt
-</div>
-

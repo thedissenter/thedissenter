@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2001523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681450-44100-2-13371c5a0c739.mp3
-draft: false
-excerpt: "Dr. Martin Schaefer is a former Professor of Evolutionary Biology and Animal\
-  \ Ecology of the University of Freiburg, Germany. Now, he\u2019s leading a conservation\
-  \ NGO, Fundaci\xF3n Jocotoco (www.fjocotoco.org), based in Ecuador.   "
-id: '67'
-image: https://i.ytimg.com/vi/ybmpvHD9irc/maxresdefault.jpg
-publishDate: 2018-09-03
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/67-Martin-Schaefer-The-Right-Way-to-Preserve-Biodiversity-e2rj5j
-tags:
-- General Science
-title: '#67 Martin Schaefer: The Right Way to Preserve Biodiversity'
-youtubeid: ybmpvHD9irc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2001523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-29%2F7681450-44100-2-13371c5a0c739.mp3",
+	"draft": false,
+	"episodeid": "67",
+	"excerpt": "Dr. Martin Schaefer is a former Professor of Evolutionary Biology and Animal Ecology of the University of Freiburg, Germany. Now, he’s leading a conservation NGO, Fundación Jocotoco (www.fjocotoco.org), based in Ecuador.   ",
+	"image": "https://i.ytimg.com/vi/ybmpvHD9irc/maxresdefault.jpg",
+	"publishDate": 2018-09-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/67-Martin-Schaefer-The-Right-Way-to-Preserve-Biodiversity-e2rj5j",
+	"tags": [
+		"General Science"
+	],
+	"title": "#67 Martin Schaefer: The Right Way to Preserve Biodiversity",
+	"youtubeid": "ybmpvHD9irc"
+}
 ---
-<div class="timelinks">
-
 Dr. Martin Schaefer is a former Professor of Evolutionary Biology and Animal Ecology of the University of Freiburg, Germany. Now, he’s leading a conservation NGO, Fundación Jocotoco (www.fjocotoco.org), based in Ecuador.   
 In this episode, we talk about the conservation of endangered species, what biological aspects should be taken into consideration, and how to best canalize our efforts and resources. We also talk a little bit about the work Dr. Schaefer is doing at Fundación Jocotoco, in Ecuador. Topics include: the importance of genetic diversity, and its interplay with climate change; range sizes; species and environments that are more vulnerable to climate change; the risk coming from new pathogens and parasites; respecting each species sociality; and aiming at preserving biodiversity, and not particular species.
 
@@ -31,5 +30,3 @@ Time Links:
 ---
 
 Please visit the website of Fundación Jocotoco, and support it: http://www.fjocotoco.org/
-</div>
-

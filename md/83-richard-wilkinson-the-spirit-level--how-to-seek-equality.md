@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/2005467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706601-44100-2-e332b9def9499.mp3
-draft: false
-excerpt: "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the\
-  \ University of Nottingham, having retired in 2008. He is also Honorary Professor\
-  \ of Epidemiology and Public Health at University College London and Visiting Professor\
-  \ at the University of York. In 2009, he co-founded The Equality Trust. He was also\
-  \ awarded a 2013 Silver Rose Award from Solidar for championing equality and the\
-  \ 2014 Charles Cully Memorial Medal by the Irish Cancer Society. Finally, he\u2019\
-  s the co-author of the greatly influential book, along with his wife, Dr. Kate Pickett,\
-  \ The Spirit Level: Why More Equal Societies Almost Always Do Better."
-id: '83'
-image: https://i.ytimg.com/vi/YdvyAiR92oo/maxresdefault.jpg
-publishDate: 2018-10-08
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/83-Richard-Wilkinson-The-Spirit-Level--How-to-Seek-Equality-e2rn0r
-tags:
-- Economics
-title: '#83 Richard Wilkinson: The Spirit Level, How to Seek Equality'
-youtubeid: YdvyAiR92oo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/2005467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706601-44100-2-e332b9def9499.mp3",
+	"draft": false,
+	"episodeid": "83",
+	"excerpt": "Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the University of Nottingham, having retired in 2008. He is also Honorary Professor of Epidemiology and Public Health at University College London and Visiting Professor at the University of York. In 2009, he co-founded The Equality Trust. He was also awarded a 2013 Silver Rose Award from Solidar for championing equality and the 2014 Charles Cully Memorial Medal by the Irish Cancer Society. Finally, he’s the co-author of the greatly influential book, along with his wife, Dr. Kate Pickett, The Spirit Level: Why More Equal Societies Almost Always Do Better.",
+	"image": "https://i.ytimg.com/vi/YdvyAiR92oo/maxresdefault.jpg",
+	"publishDate": 2018-10-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/83-Richard-Wilkinson-The-Spirit-Level--How-to-Seek-Equality-e2rn0r",
+	"tags": [
+		"Economics"
+	],
+	"title": "#83 Richard Wilkinson: The Spirit Level, How to Seek Equality",
+	"youtubeid": "YdvyAiR92oo"
+}
 ---
-<div class="timelinks">
-
 Dr. Richard Wilkinson is Professor Emeritus of Social Epidemiology at the University of Nottingham, having retired in 2008. He is also Honorary Professor of Epidemiology and Public Health at University College London and Visiting Professor at the University of York. In 2009, he co-founded The Equality Trust. He was also awarded a 2013 Silver Rose Award from Solidar for championing equality and the 2014 Charles Cully Memorial Medal by the Irish Cancer Society. Finally, he’s the co-author of the greatly influential book, along with his wife, Dr. Kate Pickett, The Spirit Level: Why More Equal Societies Almost Always Do Better.
 
 In this episode, we focus on Dr. Wilkinson’s book, The Spirit Level, and discuss some of the main topics about economic inequality. Topics include: how to define economic inequality; the social and individual benefits of equality; Martin Daly’s work and sexual inequality; the case of Scandinavian countries; possible ways to fight inequality and its effects; and Universal Basic Income. 
@@ -46,5 +40,3 @@ The Equality Trust: https://www.equalitytrust.org.uk/
 The Spirit Level: https://tinyurl.com/y98rujpl  
 The Inner Level: https://tinyurl.com/yax4ek7k  
 Twitter handle: @ProfRGWilkinson
-</div>
-

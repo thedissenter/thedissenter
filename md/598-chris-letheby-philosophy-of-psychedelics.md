@@ -1,24 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/43937114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F4a9dc001-3d4c-d9e5-d966-1fefcf420c46.m4a
-draft: false
-excerpt: Dr. Chris Letheby is Lecturer in Philosophy at the University of Western
-  Australia, and a postdoctoral researcher at the University of Adelaide. Dr. Letheby
-  is a philosopher of mind and cognitive science, working on issues arising from the
-  use of psychedelic drugs in psychiatry and neuroscience. His doctoral research,
-  conducted at the University of Adelaide, presented the first systematic analysis
-  of psychedelic experience within the framework of 21st century philosophy of cognitive
-  science. He is the author of Philosophy of Psychedelics.
-id: '598'
-image: https://i.ytimg.com/vi/rDPhcAwd-4Q/maxresdefault.jpg
-publishDate: 2022-03-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/598-Chris-Letheby-Philosophy-of-Psychedelics-e1arbsq
-tags:
-- Philosophy
-title: '#598 Chris Letheby: Philosophy of Psychedelics'
-youtubeid: rDPhcAwd-4Q
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/43937114/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F4a9dc001-3d4c-d9e5-d966-1fefcf420c46.m4a",
+	"draft": false,
+	"episodeid": "598",
+	"excerpt": "Dr. Chris Letheby is Lecturer in Philosophy at the University of Western Australia, and a postdoctoral researcher at the University of Adelaide. Dr. Letheby is a philosopher of mind and cognitive science, working on issues arising from the use of psychedelic drugs in psychiatry and neuroscience. His doctoral research, conducted at the University of Adelaide, presented the first systematic analysis of psychedelic experience within the framework of 21st century philosophy of cognitive science. He is the author of Philosophy of Psychedelics.",
+	"image": "https://i.ytimg.com/vi/rDPhcAwd-4Q/maxresdefault.jpg",
+	"publishDate": 2022-03-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/598-Chris-Letheby-Philosophy-of-Psychedelics-e1arbsq",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#598 Chris Letheby: Philosophy of Psychedelics",
+	"youtubeid": "rDPhcAwd-4Q"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 26th 2021.  
 Dr. Chris Letheby is Lecturer in Philosophy at the University of Western Australia, and a postdoctoral researcher at the University of Adelaide. Dr. Letheby is a philosopher of mind and cognitive science, working on issues arising from the use of psychedelic drugs in psychiatry and neuroscience. His doctoral research, conducted at the University of Adelaide, presented the first systematic analysis of psychedelic experience within the framework of 21st century philosophy of cognitive science. He is the author of Philosophy of Psychedelics.
 
@@ -45,5 +40,3 @@ Faculty page: https://bit.ly/3gJbWoA
 Website: https://bit.ly/3mVIoXS  
 PhilPeople page: https://bit.ly/3wwzJhv  
 Philosophy of Psychedelics: https://bit.ly/3mWiSSa
-</div>
-

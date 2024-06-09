@@ -1,25 +1,21 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/76345584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-25%2F433c579a-8193-9149-fff3-88eedb244ee3.m4a
-draft: false
-excerpt: 'Dr. Sarah Hart is an Emerita Professor of Mathematics at Birkbeck, University
-  of London. Educated at Oxford and Manchester, Dr. Hart is also the thirty-third
-  Gresham Professor of Geometry, the first woman to hold the position since its inception
-  in 1597. She is the author of Once Upon a Prime: The Wondrous Connections Between
-  Mathematics and Literature.'
-id: '893'
-image: https://i.ytimg.com/vi/_vkZBGso-pA/maxresdefault.jpg
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/893-sarah-hart-once-upon-a-prime-the/id1451347236?i=1000643425127&uo=4
-publishDate: 2024-01-29
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/893-Sarah-Hart---Once-Upon-a-Prime-The-Wondrous-Connections-Between-Mathematics-and-Literature-e29ocpg
-tags:
-- Art
-- General Science
-title: '#893 Sarah Hart - Once Upon a Prime: The Wondrous Connections Between Mathematics
-  and Literature'
-youtubeid: _vkZBGso-pA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/76345584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-25%2F433c579a-8193-9149-fff3-88eedb244ee3.m4a",
+	"draft": false,
+	"episodeid": "893",
+	"excerpt": "Dr. Sarah Hart is an Emerita Professor of Mathematics at Birkbeck, University of London. Educated at Oxford and Manchester, Dr. Hart is also the thirty-third Gresham Professor of Geometry, the first woman to hold the position since its inception in 1597. She is the author of Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature.",
+	"image": "https://i.ytimg.com/vi/_vkZBGso-pA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/893-sarah-hart-once-upon-a-prime-the/id1451347236?i=1000643425127&uo=4",
+	"publishDate": 2024-01-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/893-Sarah-Hart---Once-Upon-a-Prime-The-Wondrous-Connections-Between-Mathematics-and-Literature-e29ocpg",
+	"tags": [
+		"Art",
+		"General Science"
+	],
+	"title": "#893 Sarah Hart - Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature",
+	"youtubeid": "_vkZBGso-pA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 25th 2023.  
 Dr. Sarah Hart is an Emerita Professor of Mathematics at Birkbeck, University of London. Educated at Oxford and Manchester, Dr. Hart is also the thirty-third Gresham Professor of Geometry, the first woman to hold the position since its inception in 1597. She is the author of Once Upon a Prime: The Wondrous Connections Between Mathematics and Literature.
 
@@ -45,5 +41,3 @@ Faculty page: https://bit.ly/47H3i2g
 ResearchGate profile: https://bit.ly/44n7xxd  
 Once Upon a Prime: https://bit.ly/44gHYgZ  
 Twitter handle: @sarahlovesmaths
-</div>
-

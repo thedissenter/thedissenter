@@ -1,18 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4743614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382446-44100-2-f0fa646f2d22c.m4a
-draft: false
-excerpt: ''
-id: '258'
-image: https://i.ytimg.com/vi/AWP4mHAx9UA/maxresdefault.jpg
-publishDate: 2019-11-21
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/258-Mark-Silcox-The-Experience-Machine--Simulation--And-Videogames-e5f8vu
-tags:
-- Philosophy
-title: '#258 Mark Silcox: The Experience Machine, Simulation, and Videogames'
-youtubeid: AWP4mHAx9UA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4743614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382446-44100-2-f0fa646f2d22c.m4a",
+	"draft": false,
+	"episodeid": "258",
+	"excerpt": "",
+	"image": "https://i.ytimg.com/vi/AWP4mHAx9UA/maxresdefault.jpg",
+	"publishDate": 2019-11-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/258-Mark-Silcox-The-Experience-Machine--Simulation--And-Videogames-e5f8vu",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#258 Mark Silcox: The Experience Machine, Simulation, and Videogames",
+	"youtubeid": "AWP4mHAx9UA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 17th, 2019.
 
 Dr. Mark Silcox is a Professor and Chair of de Department of Humanities and Philosophy at the University of Central Oklahoma. He is the co-author (with Jon Cogburn) of Philosophy Through Video Games (Taylor & Francis, 2008) and their co-edited Open Court Volume Dungeons & Dragons and Philosophy: Raiding the Temple of Wisdom came out in late 2012. He is mainly interested in metaethics, aesthetics, the philosophy of language, and the philosophy of games.
@@ -43,5 +44,3 @@ Books on Amazon: https://amzn.to/2mkPYhR
 Philosophy Through Video Games: https://amzn.to/2khnuEW  
 Experience Machines: The Philosophy of Virtual Worlds: https://amzn.to/2lZT4HH  
 A Defense of Simulated Experience: New Noble Lies: https://amzn.to/2mgjrJD
-</div>
-

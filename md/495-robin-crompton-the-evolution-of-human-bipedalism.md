@@ -1,21 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/31133955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F9020335c-d0f1-058e-ddf5-2a8027c88e3b.m4a
-draft: false
-excerpt: Dr. Robin Huw Crompton is professor of musculoskeletal biology at the University
-  of Liverpool in the Institute of Ageing and Chronic Disease. He has developed the
-  Fossil Footprint Archive jointly with Matthew Bennett of Bournemouth University.
-id: '495'
-image: https://i.ytimg.com/vi/oXmDureNqD8/maxresdefault.jpg
-publishDate: 2021-07-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/495-Robin-Crompton-The-Evolution-of-Human-Bipedalism-eukkq3
-tags:
-- Biology
-- Anthropology
-title: '#495 Robin Crompton: The Evolution of Human Bipedalism'
-youtubeid: oXmDureNqD8
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/31133955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-10%2F9020335c-d0f1-058e-ddf5-2a8027c88e3b.m4a",
+	"draft": false,
+	"episodeid": "495",
+	"excerpt": "Dr. Robin Huw Crompton is professor of musculoskeletal biology at the University of Liverpool in the Institute of Ageing and Chronic Disease. He has developed the Fossil Footprint Archive jointly with Matthew Bennett of Bournemouth University.",
+	"image": "https://i.ytimg.com/vi/oXmDureNqD8/maxresdefault.jpg",
+	"publishDate": 2021-07-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/495-Robin-Crompton-The-Evolution-of-Human-Bipedalism-eukkq3",
+	"tags": [
+		"Biology",
+		"Anthropology"
+	],
+	"title": "#495 Robin Crompton: The Evolution of Human Bipedalism",
+	"youtubeid": "oXmDureNqD8"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON APRIL 8th 2021.  
 Dr. Robin Huw Crompton is professor of musculoskeletal biology at the University of Liverpool in the Institute of Ageing and Chronic Disease. He has developed the Fossil Footprint Archive jointly with Matthew Bennett of Bournemouth University.
 
@@ -35,5 +34,3 @@ Time Links:
 Follow Dr. Crompton’s work:  
 Faculty Page: https://bit.ly/39QHkgN  
 ResearchGate profile: https://bit.ly/3fOvCY3
-</div>
-

@@ -1,30 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/36589084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F20441a21-a615-bbaf-d607-fbe7c6b7351b.m4a
-draft: false
-excerpt: "Dr. Glenn Geher is Professor of Psychology at the State University of New\
-  \ York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence\
-  \ for both Teaching and Research. In addition to teaching various courses and directing\
-  \ the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director\
-  \ of the campus\u2019 Evolutionary Studies (EvoS) program. He is also credited as\
-  \ the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has\
-  \ also published several books including Evolutionary Psychology 101, Mating Intelligence\
-  \ Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward\
-  \ Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence,\
-  \ his Psychology Today blog, Dr. Geher addresses various topics related to the human\
-  \ condition. His most recent book is Positive Evolutionary Psychology: Darwin's\
-  \ Guide to Living a Richer Life."
-id: '535'
-image: https://i.ytimg.com/vi/Q3XVnbQBw0A/maxresdefault.jpg
-publishDate: 2021-10-15
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/535-Glenn-Geher-Politics-and-Academic-Values-in-Higher-Education-e13r42s
-tags:
-- Politics
-- Psychology
-title: '#535 Glenn Geher: Politics and Academic Values in Higher Education'
-youtubeid: Q3XVnbQBw0A
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/36589084/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-2%2F20441a21-a615-bbaf-d607-fbe7c6b7351b.m4a",
+	"draft": false,
+	"episodeid": "535",
+	"excerpt": "Dr. Glenn Geher is Professor of Psychology at the State University of New York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence for both Teaching and Research. In addition to teaching various courses and directing the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director of the campus’ Evolutionary Studies (EvoS) program. He is also credited as the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has also published several books including Evolutionary Psychology 101, Mating Intelligence Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence, his Psychology Today blog, Dr. Geher addresses various topics related to the human condition. His most recent book is Positive Evolutionary Psychology: Darwin's Guide to Living a Richer Life.",
+	"image": "https://i.ytimg.com/vi/Q3XVnbQBw0A/maxresdefault.jpg",
+	"publishDate": 2021-10-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/535-Glenn-Geher-Politics-and-Academic-Values-in-Higher-Education-e13r42s",
+	"tags": [
+		"Politics",
+		"Psychology"
+	],
+	"title": "#535 Glenn Geher: Politics and Academic Values in Higher Education",
+	"youtubeid": "Q3XVnbQBw0A"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 2nd 2021.  
 Dr. Glenn Geher is Professor of Psychology at the State University of New York at New Paltz where he has been awarded SUNY Chancellor Awards for Excellence for both Teaching and Research. In addition to teaching various courses and directing the New Paltz Evolutionary Psychology Lab, Dr. Geher serves as founding director of the campus’ Evolutionary Studies (EvoS) program. He is also credited as the founder of the NorthEastern Evolutionary Psychology Society (NEEPS). He has also published several books including Evolutionary Psychology 101, Mating Intelligence Unleashed: The Role of the Mind in Sex, Dating, and Love, and Straightforward Statistics. In Darwin's Subterranean World: Evolution, Mind, and Mating Intelligence, his Psychology Today blog, Dr. Geher addresses various topics related to the human condition. His most recent book is Positive Evolutionary Psychology: Darwin's Guide to Living a Richer Life.
 
@@ -49,5 +39,3 @@ Articles on Researchgate: http://bit.ly/2ZlFO34
 Twitter handle: @glenngeher
 
 Paper: https://bit.ly/2Tan9p6
-</div>
-

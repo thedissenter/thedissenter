@@ -1,20 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/9420603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-31%2F41442362-44100-2-c2d9d7d9ae8c7.m4a
-draft: false
-excerpt: 'THIS IS AN AUDIO-ONLY INTERVIEW.  '
-id: '307'
-image: https://i.ytimg.com/vi/jbRNhCDp5yU/maxresdefault.jpg
-publishDate: 2020-03-13
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/307-Elizabeth-Loftus-Memory--Eyewitness-Testimony--and-Recovered-Memory-Therapy-e9u0br
-tags:
-- Law
-- Psychology
-title: '#307 Elizabeth Loftus: Memory, Eyewitness Testimony, and Recovered Memory
-  Therapy'
-youtubeid: jbRNhCDp5yU
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/9420603/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-31%2F41442362-44100-2-c2d9d7d9ae8c7.m4a",
+	"draft": false,
+	"episodeid": "307",
+	"excerpt": "THIS IS AN AUDIO-ONLY INTERVIEW.  ",
+	"image": "https://i.ytimg.com/vi/jbRNhCDp5yU/maxresdefault.jpg",
+	"publishDate": 2020-03-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/307-Elizabeth-Loftus-Memory--Eyewitness-Testimony--and-Recovered-Memory-Therapy-e9u0br",
+	"tags": [
+		"Law",
+		"Psychology"
+	],
+	"title": "#307 Elizabeth Loftus: Memory, Eyewitness Testimony, and Recovered Memory Therapy",
+	"youtubeid": "jbRNhCDp5yU"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON DECEMBER 30th, 2019.  
 THIS IS AN AUDIO-ONLY INTERVIEW.  
 Dr. Elizabeth Loftus is a Distinguished Professor of Psychological Science and Law, and of Cognitive Science in the Departments of Psychological Science, and Criminology, Law, and Society at University of California, Irvine. She is also Fellow of the Center for the Neurobiology of Learning and Memory. Dr. Loftus is best known for her ground-breaking work on the misinformation effect and eyewitness memory, and the creation and nature of false memories, including recovered memories of childhood sexual abuse. As well as her work inside the laboratory, she has been involved in applying her research to legal settings.
@@ -43,5 +43,3 @@ Follow Dr. Loftus’ work:
 Faculty page/website: http://bit.ly/34f3Dbn  
 ResearchGate profile: http://bit.ly/2OAbQQK  
 Books on Amazon: https://amzn.to/2ZzBsT0
-</div>
-

@@ -1,26 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/43606656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2Fa4100f13-20a5-1dc8-3933-efac5691ab4d.m4a
-draft: false
-excerpt: "Dr. Rodolfo Leyva is a Fellow in the London School of Economics and Political\
-  \ Science, and Lecturer in the University of Birmingham. He has a PhD in Political\
-  \ Sociology from the King\u2019s College London School of Education, Communication\
-  \ and Society. Prior to his current appointment, he has been a lecturer at several\
-  \ universities and have led various quantitative and qualitative research methods,\
-  \ sociology, and media modules. He has also worked as a post-doctoral research assistant\
-  \ on various mixed-methods communications, psychology, and education studies."
-id: '592'
-image: https://i.ytimg.com/vi/vbjs6SljdZo/maxresdefault.jpg
-publishDate: 2022-02-25
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/592-Rodolfo-Leyva-Neoliberalism--Social-Media--Fake-News--and-Political-Polarization-e1ah960
-tags:
-- Politics
-- Sociology
-title: '#592 Rodolfo Leyva: Neoliberalism, Social Media, Fake News, and Political
-  Polarization'
-youtubeid: vbjs6SljdZo
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/43606656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-19%2Fa4100f13-20a5-1dc8-3933-efac5691ab4d.m4a",
+	"draft": false,
+	"episodeid": "592",
+	"excerpt": "Dr. Rodolfo Leyva is a Fellow in the London School of Economics and Political Science, and Lecturer in the University of Birmingham. He has a PhD in Political Sociology from the King’s College London School of Education, Communication and Society. Prior to his current appointment, he has been a lecturer at several universities and have led various quantitative and qualitative research methods, sociology, and media modules. He has also worked as a post-doctoral research assistant on various mixed-methods communications, psychology, and education studies.",
+	"image": "https://i.ytimg.com/vi/vbjs6SljdZo/maxresdefault.jpg",
+	"publishDate": 2022-02-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/592-Rodolfo-Leyva-Neoliberalism--Social-Media--Fake-News--and-Political-Polarization-e1ah960",
+	"tags": [
+		"Politics",
+		"Sociology"
+	],
+	"title": "#592 Rodolfo Leyva: Neoliberalism, Social Media, Fake News, and Political Polarization",
+	"youtubeid": "vbjs6SljdZo"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 15th 2021.  
 Dr. Rodolfo Leyva is a Fellow in the London School of Economics and Political Science, and Lecturer in the University of Birmingham. He has a PhD in Political Sociology from the King’s College London School of Education, Communication and Society. Prior to his current appointment, he has been a lecturer at several universities and have led various quantitative and qualitative research methods, sociology, and media modules. He has also worked as a post-doctoral research assistant on various mixed-methods communications, psychology, and education studies.
 
@@ -45,5 +39,3 @@ University page: https://bit.ly/37zC5kN
 Birmingham page: https://bit.ly/3qNnJr4  
 ResearchGate profile: https://bit.ly/3aEsef8  
 Brains, Media and Politics: https://amzn.to/3eBsNbJ
-</div>
-

@@ -1,24 +1,24 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4743631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382528-44100-2-fbebec993de1d.m4a
-draft: false
-excerpt: "I\u2019M SORRY ABOUT THE MISSING BITS OF AUDIO HERE AND THERE, BUT THE CONNECTION\
-  \ WAS A BIT WEAK.  "
-id: '259'
-image: https://i.ytimg.com/vi/xxXetRFYnbs/maxresdefault.jpg
-publishDate: 2019-11-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/259-Tyler-Volk-From-Quarks-to-Culture-e5f90f
-tags:
-- Physics
-- Biology
-- General Science
-- Anthropology
-- Philosophy
-- Psychology
-title: '#259 Tyler Volk: From Quarks to Culture'
-youtubeid: xxXetRFYnbs
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4743631/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-20%2F24382528-44100-2-fbebec993de1d.m4a",
+	"draft": false,
+	"episodeid": "259",
+	"excerpt": "I’M SORRY ABOUT THE MISSING BITS OF AUDIO HERE AND THERE, BUT THE CONNECTION WAS A BIT WEAK.  ",
+	"image": "https://i.ytimg.com/vi/xxXetRFYnbs/maxresdefault.jpg",
+	"publishDate": 2019-11-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/259-Tyler-Volk-From-Quarks-to-Culture-e5f90f",
+	"tags": [
+		"Physics",
+		"Biology",
+		"General Science",
+		"Anthropology",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#259 Tyler Volk: From Quarks to Culture",
+	"youtubeid": "xxXetRFYnbs"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 18th, 2019.  
 I’M SORRY ABOUT THE MISSING BITS OF AUDIO HERE AND THERE, BUT THE CONNECTION WAS A BIT WEAK.  
 Dr. Tyler Volk is Professor of Biology and Environmental Studies at New York University. His areas of interest include principles of form and function in systems (described as metapatterns), environmental challenges to global prosperity, CO2 and global change, biosphere theory and the role of life in earth dynamics. Dr. Volk has authored seven books, most recently, Quarks to Culture: How We Came to Be. His previous books include: CO2 Rising: The World’s Greatest Environmental Challenge, What is Death?: A Scientist Looks at the Cycle of Life, Gaia's Body: Toward a Physiology of Earth, and Metapatterns: Across Space, Time, and Mind.
@@ -44,5 +44,3 @@ Books on Amazon: https://amzn.to/2kE7ugF
 
 Buy the book!  
 Quarks to Culture: How We Came to Be: https://amzn.to/2lW4lsI
-</div>
-

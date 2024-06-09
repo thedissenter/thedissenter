@@ -1,22 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/4339034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595027-44100-2-635466c0e4e1e.m4a
-draft: false
-excerpt: 'Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology
-  at Oakland University, as well as the Co-Director of the Evolutionary Psychology
-  Lab there. He is the editor in chief of the academic journals Evolutionary Psychology
-  and Evolutionary Psychological Science. He is a fellow of the American Psychological
-  Association and the Association for Psychological Science.  '
-id: '248'
-image: https://i.ytimg.com/vi/Obio7sl495U/maxresdefault.jpg
-publishDate: 2019-10-28
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/248-Todd-Shackelford--Viviana-Weekes-Shackelford-Mating-After-Children-e52tsq
-tags:
-- Psychology
-title: '#248 Todd Shackelford & Viviana Weekes-Shackelford: Mating After Children'
-youtubeid: Obio7sl495U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/4339034/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595027-44100-2-635466c0e4e1e.m4a",
+	"draft": false,
+	"episodeid": "248",
+	"excerpt": "Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology at Oakland University, as well as the Co-Director of the Evolutionary Psychology Lab there. He is the editor in chief of the academic journals Evolutionary Psychology and Evolutionary Psychological Science. He is a fellow of the American Psychological Association and the Association for Psychological Science.  ",
+	"image": "https://i.ytimg.com/vi/Obio7sl495U/maxresdefault.jpg",
+	"publishDate": 2019-10-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/248-Todd-Shackelford--Viviana-Weekes-Shackelford-Mating-After-Children-e52tsq",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#248 Todd Shackelford & Viviana Weekes-Shackelford: Mating After Children",
+	"youtubeid": "Obio7sl495U"
+}
 ---
-<div class="timelinks">
-
 Dr. Todd Shackelford is a Distinguished Professor and Chair of Psychology at Oakland University, as well as the Co-Director of the Evolutionary Psychology Lab there. He is the editor in chief of the academic journals Evolutionary Psychology and Evolutionary Psychological Science. He is a fellow of the American Psychological Association and the Association for Psychological Science.  
 Dr. Viviana Weekes-Shackelford received her Ph.D. in evolutionary developmental psychology in 2011 from Florida Atlantic University. She is currently Visiting Assistant Professor in Sociology and Criminal Justice at Oakland University and Co-Director of the Evolutionary Psychology Lab. Her research over the years has been evolutionarily inspired and has had the broader goal of gaining a more comprehensive understanding of violence and conflict in families and romantic relationships. Her research interests and record cut across the psychological domains of forensics, development, social, personality, clinical, and criminology.
 
@@ -50,5 +47,3 @@ Twitter handle (Viviana): @darwiniandiva
 ResearchGate profile (Todd): http://bit.ly/2TYraZF  
 Edited books on Amazon (Todd): https://amzn.to/2KMjQNU  
 Twitter handle (Todd): @TKShackelford
-</div>
-

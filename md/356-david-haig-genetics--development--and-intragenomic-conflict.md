@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/17368718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F349bc94c-f18c-000e-e13e-c6e610645773.m4a
-draft: false
-excerpt: "Dr. David Haig is an evolutionary biologist, geneticist, and professor in\
-  \ Harvard University's Department of Organismic and Evolutionary Biology. He is\
-  \ interested in intragenomic conflict, genomic imprinting and parent\u2013offspring\
-  \ conflict, and wrote the book Genomic Imprinting and Kinship. His major contribution\
-  \ to the field of evolutionary theory is the kinship theory of genomic imprinting.\
-  \ He\u2019s the author of several books, including the most recent one, From Darwin\
-  \ to Derrida: Selfish Genes, Social Selves, and the Meanings of Life."
-id: '356'
-image: https://i.ytimg.com/vi/2qopUqpmdiA/maxresdefault.jpg
-publishDate: 2020-08-20
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/356-David-Haig-Genetics--Development--and-Intragenomic-Conflict-ehgi6e
-tags:
-- Biology
-- Philosophy
-title: '#356 David Haig: Genetics, Development, and Intragenomic Conflict'
-youtubeid: 2qopUqpmdiA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/17368718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-31%2F349bc94c-f18c-000e-e13e-c6e610645773.m4a",
+	"draft": false,
+	"episodeid": "356",
+	"excerpt": "Dr. David Haig is an evolutionary biologist, geneticist, and professor in Harvard University's Department of Organismic and Evolutionary Biology. He is interested in intragenomic conflict, genomic imprinting and parent–offspring conflict, and wrote the book Genomic Imprinting and Kinship. His major contribution to the field of evolutionary theory is the kinship theory of genomic imprinting. He’s the author of several books, including the most recent one, From Darwin to Derrida: Selfish Genes, Social Selves, and the Meanings of Life.",
+	"image": "https://i.ytimg.com/vi/2qopUqpmdiA/maxresdefault.jpg",
+	"publishDate": 2020-08-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/356-David-Haig-Genetics--Development--and-Intragenomic-Conflict-ehgi6e",
+	"tags": [
+		"Biology",
+		"Philosophy"
+	],
+	"title": "#356 David Haig: Genetics, Development, and Intragenomic Conflict",
+	"youtubeid": "2qopUqpmdiA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JULY 28th, 2020.  
 Dr. David Haig is an evolutionary biologist, geneticist, and professor in Harvard University's Department of Organismic and Evolutionary Biology. He is interested in intragenomic conflict, genomic imprinting and parent–offspring conflict, and wrote the book Genomic Imprinting and Kinship. His major contribution to the field of evolutionary theory is the kinship theory of genomic imprinting. He’s the author of several books, including the most recent one, From Darwin to Derrida: Selfish Genes, Social Selves, and the Meanings of Life.
 
@@ -46,5 +41,3 @@ Faculty page: https://bit.ly/39yAFGO
 Works on ResearchGate: https://bit.ly/39yAPho  
 Amazon page: https://amzn.to/30XLBKj  
 From Darwin to Derrida: Selfish Genes, Social Selves, and the Meanings of Life: https://amzn.to/3hEtSy0
-</div>
-

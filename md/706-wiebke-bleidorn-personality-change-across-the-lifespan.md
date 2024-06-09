@@ -1,25 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/57671492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-16%2F18d137c8-10ef-84f7-df2c-901b074c5879.m4a
-draft: false
-excerpt: Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Zurich.
-  Dr. Bleidorn examines the conditions, mechanisms, and consequences of personality
-  change. Personality change is an emerging subfield that straddles the areas of personality,
-  developmental, and social psychology. Dr. Bleidorn's work sits at this intersection.
-  Her current research involves questions about the cultural and social conditions
-  under which people change, the genetic and environmental mechanisms that account
-  for change, and the consequences of these changes for psychological functioning
-  and important life outcomes.
-id: '706'
-image: https://i.ytimg.com/vi/UrLwP5MVJ5U/maxresdefault.jpg
-publishDate: 2022-11-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/706-Wiebke-Bleidorn-Personality-Change-Across-the-Lifespan-e1nugc4
-tags:
-- Psychology
-title: '#706 Wiebke Bleidorn: Personality Change Across the Lifespan'
-youtubeid: UrLwP5MVJ5U
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/57671492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-16%2F18d137c8-10ef-84f7-df2c-901b074c5879.m4a",
+	"draft": false,
+	"episodeid": "706",
+	"excerpt": "Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Zurich. Dr. Bleidorn examines the conditions, mechanisms, and consequences of personality change. Personality change is an emerging subfield that straddles the areas of personality, developmental, and social psychology. Dr. Bleidorn's work sits at this intersection. Her current research involves questions about the cultural and social conditions under which people change, the genetic and environmental mechanisms that account for change, and the consequences of these changes for psychological functioning and important life outcomes.",
+	"image": "https://i.ytimg.com/vi/UrLwP5MVJ5U/maxresdefault.jpg",
+	"publishDate": 2022-11-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/706-Wiebke-Bleidorn-Personality-Change-Across-the-Lifespan-e1nugc4",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#706 Wiebke Bleidorn: Personality Change Across the Lifespan",
+	"youtubeid": "UrLwP5MVJ5U"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON SEPTEMBER 16th 2022.  
 Dr. Wiebke Bleidorn is a Professor of Psychology at the University of Zurich. Dr. Bleidorn examines the conditions, mechanisms, and consequences of personality change. Personality change is an emerging subfield that straddles the areas of personality, developmental, and social psychology. Dr. Bleidorn's work sits at this intersection. Her current research involves questions about the cultural and social conditions under which people change, the genetic and environmental mechanisms that account for change, and the consequences of these changes for psychological functioning and important life outcomes.
 
@@ -43,5 +37,3 @@ Follow Dr. Bleidorn’s work:
 Faculty page: https://bit.ly/3dgUSqW  
 ResearchGate profile: https://bit.ly/3JE3m6e  
 Twitter handle: @WiebkeBleidorn
-</div>
-

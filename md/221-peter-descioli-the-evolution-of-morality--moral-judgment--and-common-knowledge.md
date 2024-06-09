@@ -1,29 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/3852286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715805-44100-2-2783773ab16ea.m4a
-draft: false
-excerpt: Dr. Peter DeScioli is Assistant Professor in the Department of Political
-  Science at Stony Brook University. His research investigates how the human mind
-  uses principles of strategy to solve problems in the social world. Much of his work
-  has focused on moral condemnation, especially the functions of morally judging other
-  people, moralistic punishment, and moral impartiality. In another line of work,
-  he studies how people form alliances, how they choose their loyalties to others,
-  and how they display and conceal their loyalties. A third project looks at our sense
-  of ownership by using a virtual environment to observe resource disputes in the
-  laboratory. In recent years, he has been designing online games for experiments
-  about politics, including redistribution of wealth, social safety nets, alliance
-  formation, and political negotiation.
-id: '221'
-image: https://i.ytimg.com/vi/z4RrlcuDpTc/maxresdefault.jpg
-publishDate: 2019-08-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/221-Peter-Descioli-The-Evolution-of-Morality--Moral-Judgment--And-Common-Knowledge-e4k2hu
-tags:
-- Psychology
-title: '#221 Peter DeScioli: The Evolution of Morality, Moral Judgment, and Common
-  Knowledge'
-youtubeid: z4RrlcuDpTc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/3852286/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-6-13%2F18715805-44100-2-2783773ab16ea.m4a",
+	"draft": false,
+	"episodeid": "221",
+	"excerpt": "Dr. Peter DeScioli is Assistant Professor in the Department of Political Science at Stony Brook University. His research investigates how the human mind uses principles of strategy to solve problems in the social world. Much of his work has focused on moral condemnation, especially the functions of morally judging other people, moralistic punishment, and moral impartiality. In another line of work, he studies how people form alliances, how they choose their loyalties to others, and how they display and conceal their loyalties. A third project looks at our sense of ownership by using a virtual environment to observe resource disputes in the laboratory. In recent years, he has been designing online games for experiments about politics, including redistribution of wealth, social safety nets, alliance formation, and political negotiation.",
+	"image": "https://i.ytimg.com/vi/z4RrlcuDpTc/maxresdefault.jpg",
+	"publishDate": 2019-08-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/221-Peter-Descioli-The-Evolution-of-Morality--Moral-Judgment--And-Common-Knowledge-e4k2hu",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#221 Peter DeScioli: The Evolution of Morality, Moral Judgment, and Common Knowledge",
+	"youtubeid": "z4RrlcuDpTc"
+}
 ---
-<div class="timelinks">
-
 Dr. Peter DeScioli is Assistant Professor in the Department of Political Science at Stony Brook University. His research investigates how the human mind uses principles of strategy to solve problems in the social world. Much of his work has focused on moral condemnation, especially the functions of morally judging other people, moralistic punishment, and moral impartiality. In another line of work, he studies how people form alliances, how they choose their loyalties to others, and how they display and conceal their loyalties. A third project looks at our sense of ownership by using a virtual environment to observe resource disputes in the laboratory. In recent years, he has been designing online games for experiments about politics, including redistribution of wealth, social safety nets, alliance formation, and political negotiation.
 
 In this episode, we talk about the evolution of (human) morality, and several of its features, mostly based on a presentation by Dr. DeScioli. First, he tells us about some of the basics on the evolutionary psychology of morality. We talk specifically about evolved algorithms of the mind and moral modules. We then get into how we go from moral intuitions to explicit moral rules, and the role of culture. After that, we discuss moral judgment and the side-taking hypothesis, as well as some of the moral mysteries that it solves. Finally, we discuss the psychology of coordination and common knowledge.
@@ -55,5 +45,3 @@ Adaptationist punishment in humans: https://bit.ly/30pRFJs
 The Alliance Hypothesis for Human Friendship: https://bit.ly/2JDdBu9  
 The side-taking hypothesis for moral judgment: https://bit.ly/2YJol09  
 The Psychology of Coordination and Common Knowledge: https://bit.ly/2Lcedde
-</div>
-

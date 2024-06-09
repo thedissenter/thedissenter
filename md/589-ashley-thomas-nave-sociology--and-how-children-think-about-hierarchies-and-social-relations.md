@@ -1,27 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/43234239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fc8c73c0a-0659-6342-6fc0-c8eadb0076f8.m4a
-draft: false
-excerpt: Dr. Ashley Thomas is a postdoctoral fellow at the center for research on
-  open and equitable scholarship at MIT. She is interested in humans as a social species.
-  She investigates what infants, toddlers, and children think about social relationships
-  (i.e., their naive sociology). She has studied how they think and feel about social
-  hierarchy (i.e. situations where there is a 'winner' and a 'loser' or when someone
-  is 'in charge.'). Currently, she is working with Elizabeth Spelke and Rebecca Saxe,
-  and they are investigating how infants interpret social interactions that involve
-  their own caregivers as well as how infants, toddlers, and children think about
-  social intimacy. She has also studied people's moral judgments of parenting decisions.
-id: '589'
-image: https://i.ytimg.com/vi/Tksbpc29W2Y/maxresdefault.jpg
-publishDate: 2022-02-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/589-Ashley-Thomas-Nave-Sociology--and-How-Children-Think-About-Hierarchies-and-Social-Relations-e1a5tfv
-tags:
-- Psychology
-title: "#589 Ashley Thomas: Na\xEFve Sociology, and How Children Think About Hierarchies\
-  \ and Social Relations"
-youtubeid: Tksbpc29W2Y
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/43234239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-12%2Fc8c73c0a-0659-6342-6fc0-c8eadb0076f8.m4a",
+	"draft": false,
+	"episodeid": "589",
+	"excerpt": "Dr. Ashley Thomas is a postdoctoral fellow at the center for research on open and equitable scholarship at MIT. She is interested in humans as a social species. She investigates what infants, toddlers, and children think about social relationships (i.e., their naive sociology). She has studied how they think and feel about social hierarchy (i.e. situations where there is a 'winner' and a 'loser' or when someone is 'in charge.'). Currently, she is working with Elizabeth Spelke and Rebecca Saxe, and they are investigating how infants interpret social interactions that involve their own caregivers as well as how infants, toddlers, and children think about social intimacy. She has also studied people's moral judgments of parenting decisions.",
+	"image": "https://i.ytimg.com/vi/Tksbpc29W2Y/maxresdefault.jpg",
+	"publishDate": 2022-02-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/589-Ashley-Thomas-Nave-Sociology--and-How-Children-Think-About-Hierarchies-and-Social-Relations-e1a5tfv",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#589 Ashley Thomas: Naïve Sociology, and How Children Think About Hierarchies and Social Relations",
+	"youtubeid": "Tksbpc29W2Y"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 8th 2021.  
 Dr. Ashley Thomas is a postdoctoral fellow at the center for research on open and equitable scholarship at MIT. She is interested in humans as a social species. She investigates what infants, toddlers, and children think about social relationships (i.e., their naive sociology). She has studied how they think and feel about social hierarchy (i.e. situations where there is a 'winner' and a 'loser' or when someone is 'in charge.'). Currently, she is working with Elizabeth Spelke and Rebecca Saxe, and they are investigating how infants interpret social interactions that involve their own caregivers as well as how infants, toddlers, and children think about social intimacy. She has also studied people's moral judgments of parenting decisions.
 
@@ -49,5 +41,3 @@ University page: https://bit.ly/3xAwjcV
 Website: https://bit.ly/3cTQ6vZ  
 ResearchGate profile: https://bit.ly/35IH6Gh  
 Twitter handle: @AshleyJ_Thomas
-</div>
-

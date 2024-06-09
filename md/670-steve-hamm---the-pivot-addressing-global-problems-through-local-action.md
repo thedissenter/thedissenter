@@ -1,21 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/53147891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-7%2Fdce0db36-f25b-b925-c644-369ba2f4a6ad.m4a
-draft: false
-excerpt: 'Steve Hamm is a freelance writer, journalist and documentary filmmaker.
-  He is the author of The Pivot: Addressing Global Problems Through Local Action,
-  and Bangalore Tiger, and co-author with John Kelly of Smart Machines.'
-id: '670'
-image: https://i.ytimg.com/vi/2-IYuVr5QSY/maxresdefault.jpg
-publishDate: 2022-08-26
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/670-Steve-Hamm---The-Pivot-Addressing-Global-Problems-Through-Local-Action-e1jkepj
-tags:
-- Politics
-- Economics
-title: '#670 Steve Hamm - The Pivot: Addressing Global Problems Through Local Action'
-youtubeid: 2-IYuVr5QSY
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/53147891/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-7%2Fdce0db36-f25b-b925-c644-369ba2f4a6ad.m4a",
+	"draft": false,
+	"episodeid": "670",
+	"excerpt": "Steve Hamm is a freelance writer, journalist and documentary filmmaker. He is the author of The Pivot: Addressing Global Problems Through Local Action, and Bangalore Tiger, and co-author with John Kelly of Smart Machines.",
+	"image": "https://i.ytimg.com/vi/2-IYuVr5QSY/maxresdefault.jpg",
+	"publishDate": 2022-08-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/670-Steve-Hamm---The-Pivot-Addressing-Global-Problems-Through-Local-Action-e1jkepj",
+	"tags": [
+		"Politics",
+		"Economics"
+	],
+	"title": "#670 Steve Hamm - The Pivot: Addressing Global Problems Through Local Action",
+	"youtubeid": "2-IYuVr5QSY"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 7th 2022.  
 Steve Hamm is a freelance writer, journalist and documentary filmmaker. He is the author of The Pivot: Addressing Global Problems Through Local Action, and Bangalore Tiger, and co-author with John Kelly of Smart Machines.
 
@@ -42,5 +41,3 @@ Follow Mr. Hamm’s work:
 Website: https://bit.ly/3rZNR21  
 The Pivot: https://amzn.to/3urAzNV  
 Twitter handle: @stevehamm31
-</div>
-

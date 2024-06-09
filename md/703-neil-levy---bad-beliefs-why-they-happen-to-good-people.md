@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/56594248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-24%2F51fa21d9-c250-766e-e1f0-d26288019d32.m4a
-draft: false
-excerpt: 'Dr. Neil Levy is Senior Research Fellow at the Oxford Uehiro Centre for
-  Practical Ethics. He is a wide-ranging philosopher, working principally at the intersection
-  of philosophy of mind and psychology and ethics. He is the author of several books,
-  including Bad Beliefs: Why They Happen to Good People.'
-id: '703'
-image: https://i.ytimg.com/vi/lD7MTle4nGk/maxresdefault.jpg
-publishDate: 2022-11-11
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/703-Neil-Levy---Bad-Beliefs-Why-They-Happen-to-Good-People-e1mtkc8
-tags:
-- Philosophy
-title: '#703 Neil Levy - Bad Beliefs: Why They Happen to Good People'
-youtubeid: lD7MTle4nGk
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/56594248/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-24%2F51fa21d9-c250-766e-e1f0-d26288019d32.m4a",
+	"draft": false,
+	"episodeid": "703",
+	"excerpt": "Dr. Neil Levy is Senior Research Fellow at the Oxford Uehiro Centre for Practical Ethics. He is a wide-ranging philosopher, working principally at the intersection of philosophy of mind and psychology and ethics. He is the author of several books, including Bad Beliefs: Why They Happen to Good People.",
+	"image": "https://i.ytimg.com/vi/lD7MTle4nGk/maxresdefault.jpg",
+	"publishDate": 2022-11-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/703-Neil-Levy---Bad-Beliefs-Why-They-Happen-to-Good-People-e1mtkc8",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#703 Neil Levy - Bad Beliefs: Why They Happen to Good People",
+	"youtubeid": "lD7MTle4nGk"
+}
 ---
-<div class="timelinks">
-
 Dr. Neil Levy is Senior Research Fellow at the Oxford Uehiro Centre for Practical Ethics. He is a wide-ranging philosopher, working principally at the intersection of philosophy of mind and psychology and ethics. He is the author of several books, including Bad Beliefs: Why They Happen to Good People.
 
 In this episode, we focus on Bad Beliefs. We start by discussing what are rational beliefs, and concepts like higher-order evidence, and the epistemic environment. We discuss why sometimes people express beliefs they don’t really hold. We talk about how levels of intelligence and education predispose people to holding inaccurate beliefs, and the role played by political ideology. We talk about individual cognition, group deliberation, and knowledge as a social phenomenon. We ask if the “solitary genius” is a myth, and if people really have “belief systems”. We talk about belief revision, and how beliefs are shallow. We discuss the social and institutional cues on which beliefs depend. We also get into virtue epistemology, critical thinking, and nudging. Finally, we discuss if people respond to evidence, and if humans are rational.
@@ -52,5 +50,3 @@ Faculty page: https://bit.ly/3uVqTea
 PhilPeople page: https://bit.ly/3Ok1Hpn  
 Amazon page: https://amzn.to/3oxsYca  
 Bad Beliefs: https://amzn.to/3KZ4baL
-</div>
-

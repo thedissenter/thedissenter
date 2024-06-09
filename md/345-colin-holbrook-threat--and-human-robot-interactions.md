@@ -1,21 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a
-draft: false
-excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
-  at the University of California Merced. He researches decision-making under contexts
-  of threat, with particular focus on political orientation, group prejudice, and
-  the representation of mental states.
-id: '345'
-image: https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg
-publishDate: 2020-06-22
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/345-Colin-Holbrook-Threat--And-Human-Robot-Interaction-Part-1-edg6qn
-tags:
-- Psychology
-title: '#345 Colin Holbrook: Threat, And Human-Robot Interactions'
-youtubeid: XIocAsPszzc
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a",
+	"draft": false,
+	"episodeid": "345",
+	"excerpt": "Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California Merced. He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.",
+	"image": "https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg",
+	"publishDate": 2020-06-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/345-Colin-Holbrook-Threat--And-Human-Robot-Interaction-Part-1-edg6qn",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#345 Colin Holbrook: Threat, And Human-Robot Interactions",
+	"youtubeid": "XIocAsPszzc"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON April 29th 2020.  
 Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California Merced. He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.
 
@@ -37,5 +35,3 @@ Faculty page: http://bit.ly/38NtXeP
 Personal website: http://bit.ly/2vTL8g6  
 ResearchGate profile: http://bit.ly/2VaHGIT  
 Our first interview (Threat Detection, Group Prejudice, Warfare, and Religion): https://youtu.be/jnrIPHokpVM
-</div>
-

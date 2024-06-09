@@ -1,25 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/43936983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F32e48601-cc27-96b5-c262-62fb8fb3f459.m4a
-draft: false
-excerpt: 'Dr. Talya Miron-Shatz is an author, consultant, speaker, and researcher,
-  who studies medical decision-making in a humanistic way, aiming to guarantee that
-  people understand, and are genuinely part of, their care. She has a Ph.D. in psychology
-  and is an internationally acclaimed expert in medical decision-making, with notable
-  experience in both academia and in the healthcare industry, which has led to significant
-  public outreach. She is the author of Your Life Depends on It: What You Can Do to
-  Make Better Choices About Your Health.'
-id: '597'
-image: https://i.ytimg.com/vi/5hh4CKvXlb4/maxresdefault.jpg
-publishDate: 2022-03-10
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/597-Talya-Miron-Shatz---Your-Life-Depends-on-It-Medical-Decision-Making-e1arbon
-tags:
-- Medicine
-- Psychology
-title: '#597 Talya Miron-Shatz - Your Life Depends on It; Medical Decision-Making'
-youtubeid: 5hh4CKvXlb4
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/43936983/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-26%2F32e48601-cc27-96b5-c262-62fb8fb3f459.m4a",
+	"draft": false,
+	"episodeid": "597",
+	"excerpt": "Dr. Talya Miron-Shatz is an author, consultant, speaker, and researcher, who studies medical decision-making in a humanistic way, aiming to guarantee that people understand, and are genuinely part of, their care. She has a Ph.D. in psychology and is an internationally acclaimed expert in medical decision-making, with notable experience in both academia and in the healthcare industry, which has led to significant public outreach. She is the author of Your Life Depends on It: What You Can Do to Make Better Choices About Your Health.",
+	"image": "https://i.ytimg.com/vi/5hh4CKvXlb4/maxresdefault.jpg",
+	"publishDate": 2022-03-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/597-Talya-Miron-Shatz---Your-Life-Depends-on-It-Medical-Decision-Making-e1arbon",
+	"tags": [
+		"Medicine",
+		"Psychology"
+	],
+	"title": "#597 Talya Miron-Shatz - Your Life Depends on It; Medical Decision-Making",
+	"youtubeid": "5hh4CKvXlb4"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON NOVEMBER 25th 2021.  
 Dr. Talya Miron-Shatz is an author, consultant, speaker, and researcher, who studies medical decision-making in a humanistic way, aiming to guarantee that people understand, and are genuinely part of, their care. She has a Ph.D. in psychology and is an internationally acclaimed expert in medical decision-making, with notable experience in both academia and in the healthcare industry, which has led to significant public outreach. She is the author of Your Life Depends on It: What You Can Do to Make Better Choices About Your Health.
 
@@ -41,5 +36,3 @@ Time Links:
 Follow Dr. Miron-Shatz’s work:  
 Website: https://bit.ly/35CHLc3  
 Your Life Depends on It: https://amzn.to/3cWAdoW
-</div>
-

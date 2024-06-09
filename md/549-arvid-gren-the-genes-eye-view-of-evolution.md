@@ -1,20 +1,19 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/42134646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2Fa2250a7d-ca8e-0453-1837-d056ef57b22d.m4a
-draft: false
-excerpt: "Dr. Arvid \xC5gren is Wenner-Gren Fellow in the Department of Evolutionary\
-  \ Biology at Uppsala University. He is an evolutionary biologist studying genomic\
-  \ conflicts. He is the author of The Gene's-Eye View of Evolution."
-id: '549'
-image: https://i.ytimg.com/vi/f5zIinKYCEA/maxresdefault.jpg
-publishDate: 2021-11-18
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/549-Arvid-gren-The-Genes-Eye-View-of-Evolution-e194blm
-tags:
-- Biology
-title: "#549 Arvid \xC5gren: The Gene's-Eye View of Evolution"
-youtubeid: f5zIinKYCEA
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/42134646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-21%2Fa2250a7d-ca8e-0453-1837-d056ef57b22d.m4a",
+	"draft": false,
+	"episodeid": "549",
+	"excerpt": "Dr. Arvid Ågren is Wenner-Gren Fellow in the Department of Evolutionary Biology at Uppsala University. He is an evolutionary biologist studying genomic conflicts. He is the author of The Gene's-Eye View of Evolution.",
+	"image": "https://i.ytimg.com/vi/f5zIinKYCEA/maxresdefault.jpg",
+	"publishDate": 2021-11-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/549-Arvid-gren-The-Genes-Eye-View-of-Evolution-e194blm",
+	"tags": [
+		"Biology"
+	],
+	"title": "#549 Arvid Ågren: The Gene's-Eye View of Evolution",
+	"youtubeid": "f5zIinKYCEA"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON OCTOBER 19th 2021.  
 Dr. Arvid Ågren is Wenner-Gren Fellow in the Department of Evolutionary Biology at Uppsala University. He is an evolutionary biologist studying genomic conflicts. He is the author of The Gene's-Eye View of Evolution.
 
@@ -45,5 +44,3 @@ Website: https://bit.ly/3oJZA3I
 Works on ResearchGate: https://bit.ly/2WUPmSD  
 The Gene's-Eye View of Evolution: https://amzn.to/3iLgKKq  
 Twitter handle: @arvidagren
-</div>
-

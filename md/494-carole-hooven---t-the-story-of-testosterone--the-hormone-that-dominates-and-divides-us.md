@@ -1,24 +1,20 @@
 ---
-audiourl: https://anchor.fm/s/822ba20/podcast/play/35830654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F5b93cb01-4d4f-2155-c098-e5e09c5d4072.m4a
-draft: false
-excerpt: 'Dr. Carole Hooven is Co-Director of Undergraduate Studies and Lecturer in
-  Human Evolutionary Biology at Harvard University. Her research Interests include
-  behavioral endocrinology and evolution of sex differences in humans (physiology,
-  behavior and cognition). She is the author of T: The Story of Testosterone, the
-  Hormone that Dominates and Divides Us.'
-id: '494'
-image: https://i.ytimg.com/vi/ormlF1fhEMg/maxresdefault.jpg
-publishDate: 2021-07-12
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/494-Carole-Hooven---T-The-Story-of-Testosterone--the-Hormone-that-Dominates-and-Divides-Us-e133vdu
-tags:
-- Biology
-- Psychology
-title: '#494 Carole Hooven - T: The Story of Testosterone, the Hormone that Dominates
-  and Divides Us'
-youtubeid: ormlF1fhEMg
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/35830654/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F5b93cb01-4d4f-2155-c098-e5e09c5d4072.m4a",
+	"draft": false,
+	"episodeid": "494",
+	"excerpt": "Dr. Carole Hooven is Co-Director of Undergraduate Studies and Lecturer in Human Evolutionary Biology at Harvard University. Her research Interests include behavioral endocrinology and evolution of sex differences in humans (physiology, behavior and cognition). She is the author of T: The Story of Testosterone, the Hormone that Dominates and Divides Us.",
+	"image": "https://i.ytimg.com/vi/ormlF1fhEMg/maxresdefault.jpg",
+	"publishDate": 2021-07-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/494-Carole-Hooven---T-The-Story-of-Testosterone--the-Hormone-that-Dominates-and-Divides-Us-e133vdu",
+	"tags": [
+		"Biology",
+		"Psychology"
+	],
+	"title": "#494 Carole Hooven - T: The Story of Testosterone, the Hormone that Dominates and Divides Us",
+	"youtubeid": "ormlF1fhEMg"
+}
 ---
-<div class="timelinks">
-
 RECORDED ON JUNE 17th 2021.  
 Dr. Carole Hooven is Co-Director of Undergraduate Studies and Lecturer in Human Evolutionary Biology at Harvard University. Her research Interests include behavioral endocrinology and evolution of sex differences in humans (physiology, behavior and cognition). She is the author of T: The Story of Testosterone, the Hormone that Dominates and Divides Us.
 
@@ -45,5 +41,3 @@ ResearchGate profile: https://bit.ly/3vrFriD
 Website: http://www.carolehooven.com/  
 T: https://amzn.to/3gBSFE6  
 Twitter handle: @hoovlet
-</div>
-
