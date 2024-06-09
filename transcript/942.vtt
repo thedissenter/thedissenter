@@ -1,0 +1,4806 @@
+WEBVTT
+
+1
+00:00:00.289 --> 00:00:03.009
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:03.059 --> 00:00:05.619
+Decent. I'm your host as always Ricardo Lobs. And
+
+3
+00:00:05.630 --> 00:00:08.529
+today I'm joined by Doctor Fernando Freya. She is
+
+4
+00:00:08.539 --> 00:00:11.760
+distinguished Professor of Psychology at the University of California
+
+5
+00:00:11.770 --> 00:00:15.939
+Davis. Her area of research is psycholinguistics. She uses
+
+6
+00:00:15.949 --> 00:00:20.870
+basic insights from formal linguistic, special theories in sentence
+
+7
+00:00:20.879 --> 00:00:24.840
+phonology and syntax to develop models of processing. And
+
+8
+00:00:24.850 --> 00:00:30.770
+today we're talking about modifiers, speech disfluencies, misinterpretations and
+
+9
+00:00:30.780 --> 00:00:33.529
+how people deal with them, the study of reading
+
+10
+00:00:33.540 --> 00:00:37.630
+and information processing through wide tracking and some other
+
+11
+00:00:37.639 --> 00:00:40.569
+related topics. So, Doctor Ferreira, welcome to the show.
+
+12
+00:00:40.580 --> 00:00:41.990
+It's a big pleasure to everyone.
+
+13
+00:00:43.080 --> 00:00:44.840
+Thank you very much. It's really great to be
+
+14
+00:00:44.849 --> 00:00:46.380
+here. Thanks for the invitation.
+
+15
+00:00:47.369 --> 00:00:53.110
+Great. So perhaps to introduce people to the topics
+
+16
+00:00:53.119 --> 00:00:55.439
+we're going to explore here and also to you
+
+17
+00:00:55.450 --> 00:00:58.099
+a little bit more. Could you please start by
+
+18
+00:00:58.110 --> 00:01:02.080
+telling us about the kind of work you specifically
+
+19
+00:01:02.090 --> 00:01:05.870
+do the questions from linguistics you are most interested
+
+20
+00:01:05.879 --> 00:01:08.550
+in and how you got into it?
+
+21
+00:01:10.750 --> 00:01:14.120
+Ok. Um I guess I'll start at the highest
+
+22
+00:01:14.129 --> 00:01:16.300
+sort of at a high level of, of um
+
+23
+00:01:16.309 --> 00:01:20.949
+generalization. I'm interested in language. I've always been interested
+
+24
+00:01:20.959 --> 00:01:25.449
+in how language works. And I began to be
+
+25
+00:01:25.459 --> 00:01:28.610
+interested in the question of how humans process language.
+
+26
+00:01:28.750 --> 00:01:34.930
+When I was an undergraduate, um I became fascinated
+
+27
+00:01:34.940 --> 00:01:39.830
+by questions of uh you know, human nature and
+
+28
+00:01:39.839 --> 00:01:44.870
+what made humans unique. What are the, what are
+
+29
+00:01:44.879 --> 00:01:48.099
+the, what is it, the balance between nature and
+
+30
+00:01:48.110 --> 00:01:51.879
+nurture and those sorts of questions? And in the
+
+31
+00:01:51.889 --> 00:01:55.129
+course of pursuing those, those topics, I ended up
+
+32
+00:01:55.139 --> 00:01:59.790
+taking classes in philosophy of mind and epistemology as
+
+33
+00:01:59.800 --> 00:02:03.110
+well as classes in psychology of course. And I
+
+34
+00:02:03.120 --> 00:02:05.150
+never actually took a class in linguistics when I
+
+35
+00:02:05.160 --> 00:02:07.220
+was an undergraduate because we didn't really have a
+
+36
+00:02:07.230 --> 00:02:11.759
+linguistics program. But through some of these other courses,
+
+37
+00:02:11.770 --> 00:02:15.619
+I began to realize that there was this area
+
+38
+00:02:15.630 --> 00:02:20.369
+of research this that looked at language processing from
+
+39
+00:02:20.380 --> 00:02:22.899
+a science from or looked at language from a
+
+40
+00:02:22.910 --> 00:02:26.429
+kind of a computational and biological point of view.
+
+41
+00:02:26.440 --> 00:02:29.619
+And then with psycholinguistics, I discovered an area where
+
+42
+00:02:29.630 --> 00:02:34.509
+people were looking at questions from a processing computational
+
+43
+00:02:34.520 --> 00:02:37.779
+psychological view and trying to understand how the language
+
+44
+00:02:37.789 --> 00:02:42.289
+system worked together with other cognitive systems, like memory
+
+45
+00:02:42.300 --> 00:02:46.479
+and uh decision making and attention and how all
+
+46
+00:02:46.490 --> 00:02:50.440
+those cognitive systems that are not specifically dedicated to
+
+47
+00:02:50.449 --> 00:02:55.634
+language combined with language systems to enable us to
+
+48
+00:02:55.645 --> 00:03:00.205
+speak and to understand each other. So uh in
+
+49
+00:03:00.214 --> 00:03:04.274
+my own research, I focused on questions like how
+
+50
+00:03:04.285 --> 00:03:08.675
+we use the grammar of our language to in
+
+51
+00:03:08.684 --> 00:03:15.115
+real time to process sentences. So, uh for example,
+
+52
+00:03:15.125 --> 00:03:18.929
+we know that in English, uh we tend to
+
+53
+00:03:18.940 --> 00:03:23.470
+place our modifiers of nouns um before the noun.
+
+54
+00:03:23.479 --> 00:03:26.889
+Whereas in Portuguese, they, they come after the noun.
+
+55
+00:03:27.110 --> 00:03:29.949
+And so this is um the kind of information
+
+56
+00:03:30.160 --> 00:03:35.500
+that a listener can use online to anticipate what
+
+57
+00:03:35.509 --> 00:03:38.279
+sort of word type is likely to be coming
+
+58
+00:03:38.289 --> 00:03:41.449
+up next. And in production, it's information that would
+
+59
+00:03:41.460 --> 00:03:44.169
+be we would be using to constrain the form
+
+60
+00:03:44.179 --> 00:03:48.460
+of our, of our sentences. So um I guess
+
+61
+00:03:48.470 --> 00:03:51.729
+then my general approach to studying language has been
+
+62
+00:03:51.740 --> 00:03:57.369
+to use primarily behavioral methods and I trying to
+
+63
+00:03:57.380 --> 00:04:03.619
+understand how people generate linguistic representations in real time
+
+64
+00:04:03.630 --> 00:04:07.529
+and how the language system works cooperatively with other
+
+65
+00:04:07.539 --> 00:04:11.830
+cognitive systems to allow these representations to get generated,
+
+66
+00:04:11.839 --> 00:04:14.300
+whether it's in comprehension or in production.
+
+67
+00:04:14.910 --> 00:04:19.548
+Mhm. So let's get into some more specific questions.
+
+68
+00:04:19.559 --> 00:04:22.450
+Uh I would also want to ask you uh
+
+69
+00:04:22.459 --> 00:04:25.179
+some of the methods you use in your research,
+
+70
+00:04:25.190 --> 00:04:27.619
+but perhaps it's easier to get into some of
+
+71
+00:04:27.630 --> 00:04:30.420
+the topics and then we'll, we can go through
+
+72
+00:04:30.510 --> 00:04:33.420
+some of the methods as we talk about them.
+
+73
+00:04:33.429 --> 00:04:37.170
+So uh you are interested, for example, in uncovering
+
+74
+00:04:37.179 --> 00:04:40.859
+the mechanisms that enable humans to understand and generate
+
+75
+00:04:40.869 --> 00:04:44.269
+language in real time and in cooper operation with
+
+76
+00:04:44.279 --> 00:04:49.640
+other cognitive systems. So what are these uh mechanisms
+
+77
+00:04:49.649 --> 00:04:52.940
+and how do you approach these kinds of questions?
+
+78
+00:04:54.640 --> 00:04:59.369
+Um Well, so one kind of mechanism that people
+
+79
+00:04:59.380 --> 00:05:03.220
+use when they are um trying to understand language
+
+80
+00:05:03.440 --> 00:05:08.109
+is that they uh there's a, so there's a
+
+81
+00:05:08.119 --> 00:05:11.799
+term we use in psycholinguistics and computational linguistics. We
+
+82
+00:05:11.809 --> 00:05:15.779
+refer to the parser and the parser is the
+
+83
+00:05:15.790 --> 00:05:20.079
+component of the language system that takes this continuous
+
+84
+00:05:20.089 --> 00:05:24.005
+stream of input, whether it's auditory or signed or
+
+85
+00:05:24.015 --> 00:05:29.325
+visual um in the visual modality and breaks it
+
+86
+00:05:29.334 --> 00:05:35.045
+up into pieces like words and grammatical phrases and
+
+87
+00:05:35.135 --> 00:05:40.285
+uses those phrases to obtain uh an understanding of
+
+88
+00:05:40.295 --> 00:05:43.845
+what a sentence might mean. And so uh the
+
+89
+00:05:43.855 --> 00:05:47.000
+parser in order to do this is going to
+
+90
+00:05:47.010 --> 00:05:52.320
+consult grammatical information. So information about the rules of
+
+91
+00:05:52.329 --> 00:05:55.570
+the language that allow words to be put together
+
+92
+00:05:55.609 --> 00:05:58.920
+and possibly um in some languages, at least rules
+
+93
+00:05:58.929 --> 00:06:03.299
+about things like um agreement like grammatical agreement. So
+
+94
+00:06:03.309 --> 00:06:04.859
+in English, we don't have a lot of it,
+
+95
+00:06:04.869 --> 00:06:07.769
+but like in Portuguese, for example, we have um
+
+96
+00:06:07.779 --> 00:06:11.570
+gender agreement and that kind of information can help
+
+97
+00:06:11.579 --> 00:06:15.220
+the processor figure out how to chunk this continuous
+
+98
+00:06:15.230 --> 00:06:19.100
+stream of sound or of squiggles on a computer
+
+99
+00:06:19.109 --> 00:06:24.149
+screen into discrete units like words and phrases and
+
+100
+00:06:24.160 --> 00:06:27.579
+so on. And so in the research, I've looked
+
+101
+00:06:27.589 --> 00:06:30.450
+at the question of how this grammatical knowledge is
+
+102
+00:06:30.459 --> 00:06:34.859
+consulted in real time and what the language processing
+
+103
+00:06:34.869 --> 00:06:37.690
+system does when it's faced with more than one
+
+104
+00:06:37.700 --> 00:06:42.029
+possible interpretation that it could draw of a constituent.
+
+105
+00:06:42.149 --> 00:06:45.290
+Um BECAUSE there's a lot of ambiguity in language,
+
+106
+00:06:45.299 --> 00:06:49.350
+there's a lot of situations or, or the parser
+
+107
+00:06:49.359 --> 00:06:52.700
+will often find itself confronted with input that can
+
+108
+00:06:52.709 --> 00:06:57.190
+receive more than one grammatical analysis. Um Things like
+
+109
+00:06:57.200 --> 00:07:00.570
+um I si saw the, I saw the boy,
+
+110
+00:07:00.579 --> 00:07:02.940
+I saw the boy with the binoculars, you know,
+
+111
+00:07:02.950 --> 00:07:06.779
+in that sentence. Um There are two possible grammatical
+
+112
+00:07:06.790 --> 00:07:10.820
+analysis. You used binoculars to see the boy or
+
+113
+00:07:10.829 --> 00:07:13.959
+you saw a boy who had, who had binoculars
+
+114
+00:07:13.970 --> 00:07:17.179
+on him, on his person in some way. And
+
+115
+00:07:17.190 --> 00:07:19.779
+so the question is, you know, which of how
+
+116
+00:07:19.790 --> 00:07:23.579
+does the processing system decide which interpretation to get?
+
+117
+00:07:23.700 --> 00:07:25.450
+And a lot of my work has been centered
+
+118
+00:07:25.459 --> 00:07:28.929
+around questions like that where we focus on information
+
+119
+00:07:28.940 --> 00:07:32.450
+sources like, well, maybe the system tries to compute
+
+120
+00:07:32.459 --> 00:07:36.329
+the simplest analysis. And if that simple analysis is
+
+121
+00:07:36.339 --> 00:07:39.769
+not sufficient or gets blocked in some way, then
+
+122
+00:07:39.779 --> 00:07:42.690
+the system has to construct an alternate, then it
+
+123
+00:07:42.700 --> 00:07:46.049
+goes to it to the more difficult analysis. But
+
+124
+00:07:46.059 --> 00:07:49.279
+the default is to construct a simple analysis. Um
+
+125
+00:07:49.290 --> 00:07:52.750
+OR maybe the system looks at the context and
+
+126
+00:07:52.760 --> 00:07:56.769
+says, well, uh in a situation like this, it's
+
+127
+00:07:56.779 --> 00:07:59.489
+very likely that somebody would be using binoculars as
+
+128
+00:07:59.500 --> 00:08:01.989
+an instrument. And therefore I'm going to compute that
+
+129
+00:08:02.000 --> 00:08:05.670
+analysis. Um MAYBE pros plays a role. So the
+
+130
+00:08:05.679 --> 00:08:08.239
+way that the sentence is pronounced. So if I
+
+131
+00:08:08.250 --> 00:08:12.972
+say um I saw the boy with binoculars, um
+
+132
+00:08:12.983 --> 00:08:16.583
+I might be sort of indicating that actually, as
+
+133
+00:08:16.592 --> 00:08:17.893
+I say that I don't know which one would
+
+134
+00:08:17.903 --> 00:08:19.942
+be more likely. But there are claims in the
+
+135
+00:08:19.953 --> 00:08:22.953
+literature that one way of saying it versus another
+
+136
+00:08:22.963 --> 00:08:26.252
+way will push you in one towards one analysis
+
+137
+00:08:26.263 --> 00:08:29.186
+or another. So in my research, we, we have
+
+138
+00:08:29.196 --> 00:08:33.705
+tried to understand these questions using methods like um
+
+139
+00:08:33.716 --> 00:08:37.416
+anything from acceptability judgments which are very cheap and
+
+140
+00:08:37.426 --> 00:08:40.575
+easy to get all the way to um things
+
+141
+00:08:40.585 --> 00:08:43.035
+like eye tracking. And we have done some F
+
+142
+00:08:43.046 --> 00:08:46.375
+MRI and er P research as well. Although cognitive
+
+143
+00:08:46.385 --> 00:08:48.895
+neuroscience is not my core area of research,
+
+144
+00:08:50.080 --> 00:08:53.299
+uh we will come back to eye tracking and
+
+145
+00:08:53.309 --> 00:08:56.530
+also to how people deal with, as you said,
+
+146
+00:08:56.539 --> 00:09:00.659
+their, the ambiguities of language. But now, uh I
+
+147
+00:09:00.669 --> 00:09:04.169
+have another uh uh aspect of your work that
+
+148
+00:09:04.179 --> 00:09:06.780
+I would like to explore here. So you've also
+
+149
+00:09:06.789 --> 00:09:11.200
+done some work on how the position of modifiers
+
+150
+00:09:11.210 --> 00:09:16.770
+in English specifically influences how words are encoded and,
+
+151
+00:09:16.880 --> 00:09:21.679
+and later on retrieved from memory. So, uh how
+
+152
+00:09:21.690 --> 00:09:25.270
+does that occur? And is there a difference between
+
+153
+00:09:25.280 --> 00:09:30.090
+how people in code and process pre modifiers versus
+
+154
+00:09:30.169 --> 00:09:33.809
+post modifiers? And, and by the way, what are
+
+155
+00:09:33.820 --> 00:09:35.900
+modifiers to begin with?
+
+156
+00:09:36.719 --> 00:09:40.710
+Ok. So um I'm actually looking at a presentation
+
+157
+00:09:40.719 --> 00:09:42.479
+that I gave on this topic just to help
+
+158
+00:09:42.489 --> 00:09:46.119
+me remember some details. And then a very important
+
+159
+00:09:46.130 --> 00:09:50.059
+um to begin with is that the work on
+
+160
+00:09:50.070 --> 00:09:53.140
+pre nominal versus post nominal modifiers that I've done
+
+161
+00:09:53.150 --> 00:09:57.280
+is entirely led by my former graduate student Hussein
+
+162
+00:09:57.289 --> 00:10:00.950
+Karimi and Hussein is now at Mississippi State University.
+
+163
+00:10:01.070 --> 00:10:02.960
+Um When he worked with me, he was really
+
+164
+00:10:02.969 --> 00:10:08.090
+interested in this question of how modifiers influence our
+
+165
+00:10:08.099 --> 00:10:14.179
+interpretations of language. And so he partly came to
+
+166
+00:10:14.469 --> 00:10:16.830
+Davis to work with me because he wanted to
+
+167
+00:10:16.840 --> 00:10:18.890
+explore this topic with me. But I need to
+
+168
+00:10:18.900 --> 00:10:22.590
+give credit to Hussein that this research was um
+
+169
+00:10:22.599 --> 00:10:25.489
+designed by him, led by him. Um He's the
+
+170
+00:10:25.500 --> 00:10:28.520
+one who kind of formulated the specific research questions
+
+171
+00:10:28.530 --> 00:10:30.840
+that we would ask, but that we asked, but
+
+172
+00:10:30.849 --> 00:10:34.299
+he started from work that I had done before.
+
+173
+00:10:34.690 --> 00:10:36.760
+I got to know him probably when he was
+
+174
+00:10:36.770 --> 00:10:38.609
+still a little boy or maybe not even born
+
+175
+00:10:38.619 --> 00:10:40.940
+yet work that I had done with my partner
+
+176
+00:10:40.950 --> 00:10:46.739
+John Henderson, where we looked at the um interpretation
+
+177
+00:10:46.750 --> 00:10:49.900
+of garden path sentences. So these garden path sentences
+
+178
+00:10:49.909 --> 00:10:53.049
+are sentences that have an, an a syntactic ambiguity
+
+179
+00:10:53.059 --> 00:10:56.109
+in them and they're called garden path because you
+
+180
+00:10:56.119 --> 00:10:58.630
+tend to go one way in your interpretation of
+
+181
+00:10:58.640 --> 00:11:01.789
+the ambiguity and the subsequent material in the sentence
+
+182
+00:11:02.119 --> 00:11:04.695
+contradicts that analysis and forces you to have to
+
+183
+00:11:04.705 --> 00:11:07.825
+go the other way with the sentence. And the
+
+184
+00:11:07.835 --> 00:11:11.054
+classic example is the horse raced past the barn
+
+185
+00:11:11.065 --> 00:11:14.405
+fell which everybody hates and it doesn't really make
+
+186
+00:11:14.414 --> 00:11:16.354
+a lot of sense, but it does have a
+
+187
+00:11:16.364 --> 00:11:19.924
+legitimate analysis. The horse that was raced past the
+
+188
+00:11:19.934 --> 00:11:23.590
+barn fell, that's what the sentence actually means. And
+
+189
+00:11:23.599 --> 00:11:25.780
+in English, we can delete some of those optional
+
+190
+00:11:25.789 --> 00:11:28.640
+function words. So when people get the horse race
+
+191
+00:11:28.650 --> 00:11:31.080
+past the barn, they think they're done they think
+
+192
+00:11:31.090 --> 00:11:33.719
+they have a complete active clause and then they
+
+193
+00:11:33.729 --> 00:11:36.000
+get this verb fell and it's like, what am
+
+194
+00:11:36.010 --> 00:11:37.780
+I supposed to do with this? I can't figure
+
+195
+00:11:37.789 --> 00:11:39.830
+out where this is supposed to go. And so
+
+196
+00:11:39.840 --> 00:11:41.739
+they have, and so they struggle and they finally
+
+197
+00:11:41.750 --> 00:11:44.940
+reanalyze the sentence. Um IN the work that I
+
+198
+00:11:44.950 --> 00:11:48.500
+did with John Henderson, we looked at sentences like
+
+199
+00:11:48.789 --> 00:11:53.590
+uh while Mary bathed the baby played and in
+
+200
+00:11:53.599 --> 00:11:57.059
+a sentence like that uh if you get while
+
+201
+00:11:57.070 --> 00:12:00.239
+Mary bathed the baby, you or would be tempted
+
+202
+00:12:00.250 --> 00:12:02.429
+to treat that as a chunk that Mary's bathing
+
+203
+00:12:02.440 --> 00:12:04.460
+the baby. So you get while Mary bathes the
+
+204
+00:12:04.469 --> 00:12:07.280
+baby and then you get a word like played
+
+205
+00:12:07.289 --> 00:12:09.559
+and you're you've been led down the garden path,
+
+206
+00:12:09.570 --> 00:12:12.159
+it turns out the baby is playing and Mary's
+
+207
+00:12:12.169 --> 00:12:16.289
+bathing herself. And so in that work, John, in
+
+208
+00:12:16.299 --> 00:12:18.059
+the work that I did with John, we showed
+
+209
+00:12:18.070 --> 00:12:21.409
+that if you take that phrase while Mary ba
+
+210
+00:12:21.419 --> 00:12:24.469
+the baby plate, if you take the baby and
+
+211
+00:12:24.479 --> 00:12:27.599
+you lengthen it with modifiers, so you have the
+
+212
+00:12:27.609 --> 00:12:30.979
+baby that was cute and cuddly. So the full
+
+213
+00:12:30.989 --> 00:12:33.750
+sentences while Mary bathes the baby, that was cute
+
+214
+00:12:33.760 --> 00:12:37.820
+and cuddly played, you really make the garden path
+
+215
+00:12:37.830 --> 00:12:40.799
+more severe. The garden path becomes far more uh
+
+216
+00:12:40.809 --> 00:12:45.340
+hard, it becomes far harder to recover from. And
+
+217
+00:12:45.349 --> 00:12:47.309
+yet we show that if you have a sentence
+
+218
+00:12:47.320 --> 00:12:50.369
+like while Mary bathed the cute and cuddly baby
+
+219
+00:12:50.380 --> 00:12:55.729
+played, that's not harder than just the baby. So
+
+220
+00:12:56.320 --> 00:12:58.219
+the core idea here is that we've got a
+
+221
+00:12:58.229 --> 00:13:01.429
+noun phrase the baby and it can be modified
+
+222
+00:13:01.440 --> 00:13:04.520
+with something like cute and cuddly like all babies
+
+223
+00:13:04.530 --> 00:13:07.030
+are cute and cuddly, right? So it can, and
+
+224
+00:13:07.039 --> 00:13:09.510
+in English, we can either say the cute and
+
+225
+00:13:09.520 --> 00:13:12.789
+cuddly baby or we can say the baby that's
+
+226
+00:13:12.799 --> 00:13:16.210
+cute and cuddly. And that's the pre nominal versus
+
+227
+00:13:16.219 --> 00:13:19.169
+post nominal distinction. We can either put the adjectives
+
+228
+00:13:19.179 --> 00:13:21.989
+before the noun which is kind of the default
+
+229
+00:13:22.000 --> 00:13:24.719
+or we can put them after the noun. And
+
+230
+00:13:24.729 --> 00:13:26.489
+so what this work that I did with John
+
+231
+00:13:26.500 --> 00:13:28.979
+Henderson showed a long time ago is that if
+
+232
+00:13:28.989 --> 00:13:31.820
+you put the modifiers after the noun, you make
+
+233
+00:13:31.830 --> 00:13:36.559
+the garden path more severe. So Hussein Karimi came
+
+234
+00:13:36.570 --> 00:13:40.030
+to me in the mid two thousands to work.
+
+235
+00:13:40.039 --> 00:13:43.960
+Uh uh ACTUALLY after 2010 to work with me
+
+236
+00:13:43.969 --> 00:13:48.349
+on this to pursue this issue further where he
+
+237
+00:13:48.359 --> 00:13:51.590
+wanted to look at the possibility that modified nouns
+
+238
+00:13:51.599 --> 00:13:54.780
+in general are richer and that we remember them
+
+239
+00:13:54.789 --> 00:13:58.500
+better. So if you have a sentence, like I
+
+240
+00:13:58.510 --> 00:14:01.960
+saw the cute and cuddly baby versus just I
+
+241
+00:14:01.969 --> 00:14:07.479
+saw the baby cute and cuddly adds information that
+
+242
+00:14:07.489 --> 00:14:12.539
+makes the concept of baby more memorable. And, and
+
+243
+00:14:12.549 --> 00:14:15.440
+so we started out with doing some experiments where
+
+244
+00:14:15.450 --> 00:14:18.130
+we showed exactly that, that any noun in a
+
+245
+00:14:18.140 --> 00:14:21.739
+sentence that's modified will tend to be remembered better
+
+246
+00:14:21.750 --> 00:14:24.989
+than a noun that isn't modified. So that just
+
+247
+00:14:25.000 --> 00:14:29.919
+kind of established this enhanced um memorability of any
+
+248
+00:14:29.929 --> 00:14:33.609
+noun in a sentence that has received a modifier.
+
+249
+00:14:34.260 --> 00:14:35.690
+Um Let me know if I'm going on too
+
+250
+00:14:35.700 --> 00:14:37.159
+much or is this? OK.
+
+251
+00:14:37.169 --> 00:14:39.359
+No, no, no, no, that's perfectly fine.
+
+252
+00:14:39.400 --> 00:14:44.090
+Yeah. OK. So, so having shown that a noun
+
+253
+00:14:44.099 --> 00:14:47.070
+in a sentence that has been modified is has
+
+254
+00:14:47.080 --> 00:14:51.239
+a richer representation in memory. Um Hussein then wanted
+
+255
+00:14:51.250 --> 00:14:55.070
+to know whether it matters if it's, I saw
+
+256
+00:14:55.080 --> 00:14:57.309
+the cute and cuddly baby or I saw the
+
+257
+00:14:57.320 --> 00:15:01.159
+baby that's cute and cuddly. In other words, is
+
+258
+00:15:01.169 --> 00:15:05.250
+we already know that modification makes the noun richer.
+
+259
+00:15:05.260 --> 00:15:08.250
+But is there a difference in how rich it
+
+260
+00:15:08.260 --> 00:15:11.979
+becomes with modification? Depending on whether the modifiers are
+
+261
+00:15:11.989 --> 00:15:15.000
+pre nominal, that is they occur before the noun
+
+262
+00:15:15.010 --> 00:15:18.859
+or post nominal, they occur after the noun. And
+
+263
+00:15:18.869 --> 00:15:22.090
+so we did a series of experiments where we
+
+264
+00:15:22.099 --> 00:15:28.229
+showed that if you give people sentence with something
+
+265
+00:15:28.239 --> 00:15:33.679
+like uh the dog chased the angry cat, people
+
+266
+00:15:33.690 --> 00:15:36.700
+are more likely to continue to, to write a
+
+267
+00:15:36.710 --> 00:15:39.849
+follow up sentence that is about the cat than
+
+268
+00:15:39.859 --> 00:15:42.780
+about the dog. And we show that that effect
+
+269
+00:15:42.789 --> 00:15:47.359
+is even greater if the modifier is after cat
+
+270
+00:15:47.369 --> 00:15:51.510
+rather than before the cat. And in um other
+
+271
+00:15:51.520 --> 00:15:55.289
+work, um Let me just consult this present this
+
+272
+00:15:55.409 --> 00:15:57.659
+uh summary that I have here just to make
+
+273
+00:15:57.669 --> 00:16:03.159
+sure I don't get anything wrong. Um Right. And
+
+274
+00:16:03.169 --> 00:16:06.580
+um the information and a noun phrase is read
+
+275
+00:16:06.590 --> 00:16:09.989
+faster when it's when it has post nominal modifiers
+
+276
+00:16:10.000 --> 00:16:13.719
+and what has pre nominal modifiers. So, in general,
+
+277
+00:16:13.729 --> 00:16:17.479
+what this seems to suggest is that when you
+
+278
+00:16:17.489 --> 00:16:20.840
+have a, when you have a phrase and you're
+
+279
+00:16:20.849 --> 00:16:24.150
+trying to interpret it as a listener or reader,
+
+280
+00:16:24.500 --> 00:16:28.429
+you get something like the, and then the best
+
+281
+00:16:28.440 --> 00:16:33.210
+thing is to get the noun next because the
+
+282
+00:16:33.219 --> 00:16:37.380
+noun is the the boss of the phrase. So
+
+283
+00:16:37.390 --> 00:16:39.330
+the cute and c if I'm saying in English,
+
+284
+00:16:39.340 --> 00:16:42.590
+the cute and cuddly, you know, your processing system
+
+285
+00:16:42.599 --> 00:16:44.530
+is in a state of limbo of like the
+
+286
+00:16:44.539 --> 00:16:48.599
+cute and cuddly. What um if you say the
+
+287
+00:16:48.609 --> 00:16:52.330
+baby that's OK. Now you, you, you have been
+
+288
+00:16:52.340 --> 00:16:55.140
+told what is the entity that's at issue here
+
+289
+00:16:55.150 --> 00:16:57.469
+and then you get the modifier and you can
+
+290
+00:16:57.479 --> 00:17:01.539
+kind of conveniently attach that modification to something that
+
+291
+00:17:01.549 --> 00:17:04.420
+you already have a token in your mental representation
+
+292
+00:17:04.430 --> 00:17:09.540
+for. So our um work suggests then that the
+
+293
+00:17:09.550 --> 00:17:12.969
+head of the phrase is the boss and is
+
+294
+00:17:12.979 --> 00:17:17.108
+the thing that you're processing is centered around. And
+
+295
+00:17:17.118 --> 00:17:20.209
+so this leads to some really interesting questions like
+
+296
+00:17:20.219 --> 00:17:22.449
+why does English work the way it does? And
+
+297
+00:17:22.459 --> 00:17:25.939
+why in general are there any languages where the
+
+298
+00:17:25.949 --> 00:17:30.069
+the head occurs after its constituent after its arguments
+
+299
+00:17:30.079 --> 00:17:34.040
+or after its modifiers? So English is a language
+
+300
+00:17:34.050 --> 00:17:39.369
+that is um generally heads occur first, but noun
+
+301
+00:17:39.380 --> 00:17:42.689
+phrases are the one place where we actually post
+
+302
+00:17:42.699 --> 00:17:45.270
+can postpone the head. And what we show is
+
+303
+00:17:45.280 --> 00:17:49.469
+that, that actually leads to processing costs. So, um
+
+304
+00:17:49.479 --> 00:17:53.150
+really it would be better if languages worked. So
+
+305
+00:17:53.160 --> 00:17:57.270
+that heads always occurred first and consist recently occurred
+
+306
+00:17:57.280 --> 00:18:00.199
+first. Um But of course, there probably are other
+
+307
+00:18:00.209 --> 00:18:04.689
+tradeoffs that are making head initial languages not necessarily
+
+308
+00:18:04.699 --> 00:18:08.400
+more efficient than head final languages. Um But at
+
+309
+00:18:08.410 --> 00:18:10.290
+any rate, that's kind of the, that's kind of
+
+310
+00:18:10.300 --> 00:18:13.540
+the story about head initial versus uh well about
+
+311
+00:18:13.550 --> 00:18:16.699
+pre nominal versus post nominal modification.
+
+312
+00:18:18.189 --> 00:18:20.300
+So another topic I would like to ask you
+
+313
+00:18:20.310 --> 00:18:25.369
+about is speech disfluency. So, first of all, what
+
+314
+00:18:25.380 --> 00:18:29.810
+are speech disfluencies? And uh if I got this
+
+315
+00:18:29.819 --> 00:18:32.650
+correctly, I got from your work and your of
+
+316
+00:18:32.660 --> 00:18:35.449
+the work of other people that there are four
+
+317
+00:18:35.459 --> 00:18:39.989
+different types of disfluency filled puzzles like mm and
+
+318
+00:18:40.000 --> 00:18:45.010
+uh and stuff like that. Unfilled puzzles, repetitions and
+
+319
+00:18:45.020 --> 00:18:47.810
+repair. So, could you tell us about that?
+
+320
+00:18:48.890 --> 00:18:51.910
+Um Sure. So no doubt in this um uh
+
+321
+00:18:51.920 --> 00:18:55.339
+video, you've already heard a lot of examples of
+
+322
+00:18:55.349 --> 00:19:01.050
+disfluencies. Um BECAUSE of all of us use disfluencies
+
+323
+00:19:01.060 --> 00:19:06.469
+and, and uh display disfluencies when we're speaking. Uh
+
+324
+00:19:06.479 --> 00:19:10.719
+The idea is that, um see, there we go,
+
+325
+00:19:10.729 --> 00:19:13.300
+there is a disfluency right there. Um Yeah, you
+
+326
+00:19:13.310 --> 00:19:16.099
+basically laid out the, the types of disfluencies that
+
+327
+00:19:16.109 --> 00:19:19.489
+are out there there. The first three, the filled
+
+328
+00:19:19.500 --> 00:19:22.880
+pauses, unfilled pauses and repeats are kind of um
+
+329
+00:19:22.890 --> 00:19:27.729
+tactics for buying time. And then the repairs are
+
+330
+00:19:27.739 --> 00:19:29.800
+the kind of disc fluency that we have to
+
+331
+00:19:29.810 --> 00:19:34.040
+invoke when we didn't quite plan as effectively as
+
+332
+00:19:34.050 --> 00:19:36.119
+we could have. And we've made a mistake and
+
+333
+00:19:36.130 --> 00:19:38.520
+we need to correct it. We could actually even
+
+334
+00:19:38.530 --> 00:19:41.439
+talk about another kind of disfluency, which we could
+
+335
+00:19:41.449 --> 00:19:44.680
+maybe refer to as an undetected error where we
+
+336
+00:19:44.689 --> 00:19:48.790
+say something incorrect. And our interlocutor might say, put
+
+337
+00:19:48.800 --> 00:19:50.400
+the milk in the, put the milk in the
+
+338
+00:19:50.410 --> 00:19:52.942
+stove, you mean the fridge, right? And you say,
+
+339
+00:19:52.953 --> 00:19:54.312
+oh yeah, yeah. You know, you know what I
+
+340
+00:19:54.322 --> 00:19:58.682
+mean kind of thing. Um So uh disfluencies are
+
+341
+00:19:58.692 --> 00:20:03.052
+really fascinating because they are a really great example
+
+342
+00:20:03.062 --> 00:20:06.703
+of the way that we have this, these linguistic
+
+343
+00:20:06.713 --> 00:20:09.892
+representations. We have these grammars that we can consult,
+
+344
+00:20:09.922 --> 00:20:13.223
+that enable us to produce and understand sentences. But
+
+345
+00:20:13.233 --> 00:20:16.365
+when we're applying them in real time, we we
+
+346
+00:20:16.375 --> 00:20:21.326
+often find ourselves not able to retrieve the information
+
+347
+00:20:21.336 --> 00:20:23.745
+that we need as quickly as we would like
+
+348
+00:20:23.755 --> 00:20:27.156
+to, to maintain full fluency. So there might be
+
+349
+00:20:27.166 --> 00:20:29.895
+a word that's uh that's rare or that's escaping
+
+350
+00:20:29.906 --> 00:20:32.615
+us or I can't quite remember your name. So
+
+351
+00:20:32.625 --> 00:20:35.855
+I put in an ah or I pause um
+
+352
+00:20:36.135 --> 00:20:38.485
+or I just say the the, you know, the
+
+353
+00:20:38.495 --> 00:20:42.670
+the as a way of getting extra time. So,
+
+354
+00:20:42.680 --> 00:20:47.660
+disfluencies um um that uh where disfluencies tend to
+
+355
+00:20:47.670 --> 00:20:52.439
+occur can give us some insights into what kinds
+
+356
+00:20:52.449 --> 00:20:57.469
+of constituents or other or words or phrases are
+
+357
+00:20:57.479 --> 00:21:00.640
+hard for the linguistic system to retrieve or from
+
+358
+00:21:00.650 --> 00:21:03.640
+the memory system to retrieve. And in work I
+
+359
+00:21:03.650 --> 00:21:07.699
+did recently with my graduate students. Um uh Nora
+
+360
+00:21:07.709 --> 00:21:11.300
+Beer and Nae Chanta Von. Um BOTH of whom
+
+361
+00:21:11.310 --> 00:21:13.310
+are now now have their phd S and have
+
+362
+00:21:13.319 --> 00:21:16.550
+moved on. We actually try to look at the
+
+363
+00:21:16.560 --> 00:21:20.099
+question of whether people as they become older, become
+
+364
+00:21:20.109 --> 00:21:25.189
+more disfluent. So o older adults are thought to
+
+365
+00:21:25.989 --> 00:21:28.890
+become more our impression is that they become more
+
+366
+00:21:28.900 --> 00:21:32.089
+disfluent as they age, they say um and uh
+
+367
+00:21:32.160 --> 00:21:36.050
+and they pause more than younger people do. Um
+
+368
+00:21:36.060 --> 00:21:38.829
+But the evidence on this point has been really
+
+369
+00:21:38.839 --> 00:21:41.609
+mixed in the literature. And as you can imagine,
+
+370
+00:21:41.619 --> 00:21:45.810
+it's pretty hard to study how disfluencies change with
+
+371
+00:21:45.819 --> 00:21:48.469
+age because what you really want to do is
+
+372
+00:21:48.479 --> 00:21:51.410
+follow somebody longitudinally. You want to start with someone
+
+373
+00:21:51.420 --> 00:21:54.530
+in their twenties, record how many disfluencies they produce,
+
+374
+00:21:54.540 --> 00:21:56.910
+then record them in their thirties and then they're
+
+375
+00:21:56.920 --> 00:21:58.810
+in their forties and then in their seventies and
+
+376
+00:21:58.819 --> 00:22:01.060
+eighties, of course, no one's gonna live long enough
+
+377
+00:22:01.069 --> 00:22:04.160
+to do that to do that study. So it's
+
+378
+00:22:04.170 --> 00:22:06.670
+really a tough question to address. So most of
+
+379
+00:22:06.680 --> 00:22:08.650
+the work that's being done is what we call
+
+380
+00:22:08.660 --> 00:22:11.829
+cross sectional, which means you compare some young people
+
+381
+00:22:11.839 --> 00:22:14.500
+count how many disciplines they produce and some old
+
+382
+00:22:14.510 --> 00:22:17.989
+people. But that introduces all kinds of confounds. It's
+
+383
+00:22:18.000 --> 00:22:20.069
+not the most powerful way to get at the
+
+384
+00:22:20.079 --> 00:22:23.869
+question. So in this study, what we did, um
+
+385
+00:22:23.880 --> 00:22:28.599
+and it was inspired actually by um uh uh
+
+386
+00:22:28.880 --> 00:22:31.099
+an incident where I was listening to a news
+
+387
+00:22:31.439 --> 00:22:34.280
+to the news and they were interviewing our former
+
+388
+00:22:34.290 --> 00:22:38.915
+governor of California. Jerry Brown, who was Governor of
+
+389
+00:22:38.925 --> 00:22:42.405
+California fairly recently. And he was also governor of
+
+390
+00:22:42.415 --> 00:22:46.255
+California in the 19 seventies. And I listened to
+
+391
+00:22:46.265 --> 00:22:49.305
+him in the current times. I was struck by
+
+392
+00:22:49.314 --> 00:22:52.145
+how disfluent he was, not that he was super
+
+393
+00:22:52.155 --> 00:22:55.425
+disfluent, but I remember in the seventies he was
+
+394
+00:22:55.939 --> 00:22:59.099
+just smooth, you know, you just seem to make
+
+395
+00:22:59.109 --> 00:23:01.959
+no mistakes at all. He's talked the way people
+
+396
+00:23:01.969 --> 00:23:04.199
+could, you know, would read a speech or something.
+
+397
+00:23:04.449 --> 00:23:06.410
+And I thought jeez, you know, this would be
+
+398
+00:23:06.420 --> 00:23:08.339
+a really cool way to look at this question
+
+399
+00:23:08.349 --> 00:23:12.599
+longitudinally is to go on youtube and find videos
+
+400
+00:23:12.609 --> 00:23:16.130
+of people being interviewed at multiple times in their
+
+401
+00:23:16.140 --> 00:23:19.672
+lives, you know, take somebody like uh Jerry Brown,
+
+402
+00:23:19.682 --> 00:23:22.633
+they're very well. There are recordings of him being
+
+403
+00:23:22.642 --> 00:23:25.353
+interviewed at different stages of his life. So what
+
+404
+00:23:25.363 --> 00:23:30.152
+we did was to collect youtube videos of people
+
+405
+00:23:30.162 --> 00:23:34.942
+like Oprah Winfrey, David Bowie, Jerry Brown, you know,
+
+406
+00:23:34.953 --> 00:23:38.603
+all kinds of people who by necessity are famous
+
+407
+00:23:38.802 --> 00:23:41.956
+because most people who will be interested multiple times
+
+408
+00:23:41.965 --> 00:23:44.245
+over their lives and you on you and who's
+
+409
+00:23:44.255 --> 00:23:46.105
+would then be up on youtube would tend to
+
+410
+00:23:46.115 --> 00:23:48.225
+have a little bit of, of fame associated with
+
+411
+00:23:48.235 --> 00:23:51.426
+them. And we counted the the disfluencies in their
+
+412
+00:23:51.436 --> 00:23:54.855
+speech at the different times of their lives. And
+
+413
+00:23:54.865 --> 00:23:57.265
+what we discovered is that actually people do not
+
+414
+00:23:57.276 --> 00:24:01.276
+become more disfluent as they age. Um Contrary to
+
+415
+00:24:01.286 --> 00:24:05.390
+what anyone would have expected. What we did observe
+
+416
+00:24:05.400 --> 00:24:10.609
+is that older adults have what's called enhanced lexical
+
+417
+00:24:10.619 --> 00:24:13.290
+diversity. Meaning that if you look at the set
+
+418
+00:24:13.300 --> 00:24:15.930
+of words that people produce as they get older,
+
+419
+00:24:16.069 --> 00:24:20.550
+they come from, they display richer vocabulary. So older
+
+420
+00:24:20.560 --> 00:24:24.030
+people have access to more words and we know
+
+421
+00:24:24.040 --> 00:24:26.930
+this from lots and lots of, of research on
+
+422
+00:24:26.939 --> 00:24:29.666
+aging. There's one thing that happens to you with
+
+423
+00:24:29.735 --> 00:24:32.286
+increasing age, that's good is that, you know, more
+
+424
+00:24:32.296 --> 00:24:34.916
+and more words. Um But as you know, more
+
+425
+00:24:34.926 --> 00:24:37.485
+and more words, they do get harder and harder
+
+426
+00:24:37.495 --> 00:24:40.316
+to retrieve because it's sort of like rummaging in
+
+427
+00:24:40.326 --> 00:24:43.336
+a drawer that's full of stuff and the more
+
+428
+00:24:43.345 --> 00:24:45.645
+stuff that's in there, the harder it can be
+
+429
+00:24:45.656 --> 00:24:49.586
+to find the exact thing that you want. And
+
+430
+00:24:49.595 --> 00:24:52.962
+so the slight tendency for more dis fluency that
+
+431
+00:24:52.972 --> 00:24:55.802
+we did observe in older adults could be pretty
+
+432
+00:24:55.812 --> 00:24:59.621
+much entirely explained in terms of their wish to
+
+433
+00:24:59.631 --> 00:25:01.991
+retrieve a word that was a little bit more
+
+434
+00:25:02.001 --> 00:25:05.842
+precise, a little bit less frequent that um was
+
+435
+00:25:05.852 --> 00:25:08.641
+there probably a little bit hard to retrieve and
+
+436
+00:25:08.651 --> 00:25:10.432
+they needed a little bit of extra time in
+
+437
+00:25:10.442 --> 00:25:12.722
+order to pull it out of their um mental
+
+438
+00:25:12.732 --> 00:25:16.020
+dictionary or lexicon? Um So sorry, that's like a
+
+439
+00:25:16.030 --> 00:25:19.280
+very long winded description. But it tells us that
+
+440
+00:25:19.290 --> 00:25:22.599
+we can look at questions like um how do
+
+441
+00:25:22.609 --> 00:25:25.060
+people age? What happens to the language system with
+
+442
+00:25:25.069 --> 00:25:28.319
+the age? What's the relationship between memory and language
+
+443
+00:25:28.479 --> 00:25:33.329
+uh by examining something as simple as just people's
+
+444
+00:25:33.339 --> 00:25:36.469
+speech and counting up how many uh and ums
+
+445
+00:25:36.479 --> 00:25:41.000
+and repairs they produce in that speech. So that's
+
+446
+00:25:41.010 --> 00:25:43.660
+all on the language production end. Um I haven't
+
+447
+00:25:43.670 --> 00:25:47.959
+talked about language comprehension and fluency. So I'll just
+
+448
+00:25:47.969 --> 00:25:50.050
+tell you really briefly that the question that we
+
+449
+00:25:50.060 --> 00:25:52.500
+can ask. And uh is it OK. Do you
+
+450
+00:25:52.510 --> 00:25:53.660
+want me to continue with it?
+
+451
+00:25:53.670 --> 00:25:57.140
+Yes. Yes. And then, uh we'll also have some
+
+452
+00:25:57.150 --> 00:26:00.439
+follow up questions to all of what you're saying
+
+453
+00:26:00.449 --> 00:26:02.219
+there. But yes, please go ahead.
+
+454
+00:26:02.780 --> 00:26:06.619
+OK. So the thing with disfluencies and comprehension is
+
+455
+00:26:06.630 --> 00:26:11.880
+that when I um um um when I'm doing
+
+456
+00:26:11.890 --> 00:26:14.839
+that you as a listener are kind of on
+
+457
+00:26:14.849 --> 00:26:19.199
+hold, you're waiting, your, so your parser, your language
+
+458
+00:26:19.209 --> 00:26:22.729
+processing system that's been engaged is now in a
+
+459
+00:26:22.739 --> 00:26:27.300
+state of being on hold waiting for the speaker
+
+460
+00:26:27.310 --> 00:26:32.170
+to kind of resume the, the processing. Um Similarly,
+
+461
+00:26:32.180 --> 00:26:35.839
+if I produce a mistake and then have to
+
+462
+00:26:35.849 --> 00:26:39.430
+engage in a repair, you, you as the comprehend,
+
+463
+00:26:39.689 --> 00:26:45.430
+have to invoke probably inhibition mechanisms that delete the
+
+464
+00:26:45.439 --> 00:26:48.359
+word that I said and replace it with the
+
+465
+00:26:48.369 --> 00:26:51.030
+word that I meant to say. So if I
+
+466
+00:26:51.040 --> 00:26:53.979
+say something like I did this research with Nora,
+
+467
+00:26:53.989 --> 00:26:58.380
+I mean, with Hussein, you initially built a representation
+
+468
+00:26:58.390 --> 00:27:00.969
+where you understood me to be saying that I
+
+469
+00:27:00.979 --> 00:27:03.979
+did this research with Nora. But if I then
+
+470
+00:27:03.989 --> 00:27:07.819
+say no, I mean, Hussein, you need to strike
+
+471
+00:27:07.829 --> 00:27:09.609
+that from the record kind of like a jury
+
+472
+00:27:09.619 --> 00:27:12.540
+that's told by a judge, forget what you were
+
+473
+00:27:12.550 --> 00:27:15.140
+just told, you need to remove that from your
+
+474
+00:27:15.150 --> 00:27:18.930
+mental representation and replace what I said with the
+
+475
+00:27:18.939 --> 00:27:22.010
+correct word that I intended. And what we showed
+
+476
+00:27:22.020 --> 00:27:24.890
+in some really, um I think fun research that
+
+477
+00:27:24.900 --> 00:27:27.640
+I did with a former postdoc named Matthew Lauder
+
+478
+00:27:27.650 --> 00:27:30.180
+who's now at the University of Richmond. What Matt
+
+479
+00:27:30.189 --> 00:27:33.000
+and I showed is that when people get something
+
+480
+00:27:33.010 --> 00:27:37.119
+like put the milk back in the stove, which
+
+481
+00:27:37.130 --> 00:27:39.300
+is going to be corrected because that's a very
+
+482
+00:27:39.310 --> 00:27:41.920
+common kind of speech error that people will make.
+
+483
+00:27:42.349 --> 00:27:46.130
+Um WHAT listeners do is they right away begin
+
+484
+00:27:46.140 --> 00:27:49.400
+to detect that you have made a mistake because
+
+485
+00:27:49.410 --> 00:27:51.420
+it's, it's not plausible to put milk in a
+
+486
+00:27:51.430 --> 00:27:54.540
+stove. And what we showed using something called a
+
+487
+00:27:54.550 --> 00:27:58.880
+visual world paradigm, which is about eye tracking, which
+
+488
+00:27:58.890 --> 00:28:01.199
+I guess is something we'll get to later is
+
+489
+00:28:01.209 --> 00:28:03.510
+that if you show people pictures of things in
+
+490
+00:28:03.520 --> 00:28:07.160
+a kitchen, um and I say, put the casserole
+
+491
+00:28:07.170 --> 00:28:09.270
+in the stove, your eyes go to a picture
+
+492
+00:28:09.280 --> 00:28:11.270
+of a casserole, your eyes go to the image
+
+493
+00:28:11.280 --> 00:28:13.569
+of the stove. But if I say put the
+
+494
+00:28:13.579 --> 00:28:16.390
+milk in the stove, your eyes will go to
+
+495
+00:28:16.400 --> 00:28:18.410
+the milk, but they don't even tend to go
+
+496
+00:28:18.420 --> 00:28:20.780
+to the stove. They go, you, you look directly
+
+497
+00:28:20.790 --> 00:28:25.109
+at the fridge as if your autocorrect brain mechanisms
+
+498
+00:28:25.119 --> 00:28:29.599
+as you're processing language are saying, forget stove, that's
+
+499
+00:28:29.609 --> 00:28:32.770
+not what the person meant. That's a mistake. So
+
+500
+00:28:32.780 --> 00:28:37.130
+we process disfluencies really efficiently because we're, we're able
+
+501
+00:28:37.140 --> 00:28:41.089
+to use what some people in cognitive science refer
+
+502
+00:28:41.099 --> 00:28:43.550
+to as our priors where a or you can
+
+503
+00:28:43.560 --> 00:28:46.500
+just think of it as world knowledge and plausibility
+
+504
+00:28:46.510 --> 00:28:49.650
+information which tells us that milk doesn't belong in
+
+505
+00:28:49.660 --> 00:28:52.250
+a stove, that stove and fridge or words that
+
+506
+00:28:52.260 --> 00:28:55.650
+people are likely to confuse with each other. And
+
+507
+00:28:55.660 --> 00:28:58.209
+what you're trying to do as a listener is
+
+508
+00:28:58.219 --> 00:29:01.859
+to uncover the communicative intention behind what the speaker
+
+509
+00:29:01.869 --> 00:29:04.890
+is saying. You're not only using the literal world
+
+510
+00:29:04.900 --> 00:29:09.310
+words in order to do that. Um So that's
+
+511
+00:29:09.319 --> 00:29:11.869
+another thing then we can learn from by studying
+
+512
+00:29:11.880 --> 00:29:14.949
+disfluencies this time in comprehension, we can get a
+
+513
+00:29:14.959 --> 00:29:18.829
+really good window into the way that our brains
+
+514
+00:29:18.839 --> 00:29:23.829
+autocorrect um and filling in mechanisms work. So it's
+
+515
+00:29:23.839 --> 00:29:26.089
+not just our phones and our devices that are
+
+516
+00:29:26.099 --> 00:29:30.050
+good at um correcting our mistakes, but our brains
+
+517
+00:29:30.060 --> 00:29:31.500
+are good at doing that too.
+
+518
+00:29:32.979 --> 00:29:37.040
+Ok. So several questions about all of that. So
+
+519
+00:29:37.050 --> 00:29:40.910
+the first one is uh is it that every
+
+520
+00:29:40.920 --> 00:29:45.579
+time people use a field pause, an unfilled pause,
+
+521
+00:29:45.589 --> 00:29:50.380
+a repetition or a repair, you classify it as
+
+522
+00:29:50.439 --> 00:29:53.040
+a this fluency? I mean, I'm asking you that
+
+523
+00:29:53.050 --> 00:29:58.630
+because since it's so common that we use these
+
+524
+00:29:58.640 --> 00:30:02.880
+kinds of uh this fluent or have this, this
+
+525
+00:30:02.890 --> 00:30:07.709
+sort of this fluent behaviors while talking, I was
+
+526
+00:30:07.719 --> 00:30:13.939
+wondering if it's always problematic. I mean, cognitively, for
+
+527
+00:30:13.949 --> 00:30:17.969
+example, since you also mentioned there, uh comparing younger
+
+528
+00:30:17.979 --> 00:30:21.060
+people to older people in terms of rates of
+
+529
+00:30:21.069 --> 00:30:24.060
+this fluency and all of that, I was wondering
+
+530
+00:30:24.069 --> 00:30:26.810
+if it would also be tied to perhaps some
+
+531
+00:30:26.819 --> 00:30:32.329
+sort of uh cognitive issues, cognitive decline or something
+
+532
+00:30:32.339 --> 00:30:35.079
+like that. So I I, is it always a
+
+533
+00:30:35.099 --> 00:30:41.079
+cognitively problematic if we use these sorts of these
+
+534
+00:30:41.089 --> 00:30:41.849
+fluence?
+
+535
+00:30:43.489 --> 00:30:46.579
+So I, that's a really interesting, that's a really
+
+536
+00:30:46.589 --> 00:30:50.849
+important question. So in production, what we have shown
+
+537
+00:30:50.859 --> 00:30:52.599
+in other work that I did, I did with
+
+538
+00:30:52.609 --> 00:30:55.469
+a former colleague named Joel ***, who's an expert
+
+539
+00:30:55.479 --> 00:30:57.829
+on ad DH D. We looked at in, at
+
+540
+00:30:57.839 --> 00:31:01.719
+adults who had been diagnosed with, it had received
+
+541
+00:31:01.729 --> 00:31:03.959
+an official diagnosis of A DH D when they
+
+542
+00:31:03.969 --> 00:31:09.069
+were young and we compared them to demographically demographic
+
+543
+00:31:09.079 --> 00:31:12.985
+control. So people who are same education level, roughly
+
+544
+00:31:12.995 --> 00:31:16.495
+the same age, who had the same um income
+
+545
+00:31:16.505 --> 00:31:18.895
+level and so on who had not ever received
+
+546
+00:31:18.906 --> 00:31:22.265
+an A DH D diagnosis. And interestingly what we
+
+547
+00:31:22.276 --> 00:31:24.686
+showed is that people with a DH D do
+
+548
+00:31:24.696 --> 00:31:28.355
+not produce more disfluencies than people who had never
+
+549
+00:31:28.365 --> 00:31:31.215
+been diagnosed with a DH D except for the
+
+550
+00:31:31.225 --> 00:31:35.556
+repair type. So what that seems to suggest is
+
+551
+00:31:35.566 --> 00:31:39.041
+that if you've had a DH, perhaps as you
+
+552
+00:31:39.052 --> 00:31:43.401
+might expect, your inhibition, inhibition mechanisms aren't working quite
+
+553
+00:31:43.411 --> 00:31:46.112
+as well or as efficiently as they might in
+
+554
+00:31:46.121 --> 00:31:48.712
+other people. And as a result, you'll say the
+
+555
+00:31:48.722 --> 00:31:51.401
+wrong word a little bit more frequently than someone
+
+556
+00:31:51.411 --> 00:31:53.921
+who's never had ad a DH D and have
+
+557
+00:31:53.932 --> 00:31:56.781
+to make a repair. So, what this kind of
+
+558
+00:31:56.791 --> 00:31:59.991
+suggests is that us and, ums and pauses are
+
+559
+00:32:00.001 --> 00:32:04.650
+actually a good way to plan. Ok. So I
+
+560
+00:32:04.660 --> 00:32:07.790
+was talking about the, that in cases of a
+
+561
+00:32:07.800 --> 00:32:12.699
+DH D, uh, we can see that disfluencies are
+
+562
+00:32:12.709 --> 00:32:16.329
+by comparing, uh, individuals who've had a DH D
+
+563
+00:32:16.339 --> 00:32:18.500
+to those who haven't, we can get a picture
+
+564
+00:32:18.510 --> 00:32:22.000
+that tells us that pauses are an effective way
+
+565
+00:32:22.010 --> 00:32:24.520
+to buy time. And that in some ways, it's
+
+566
+00:32:24.530 --> 00:32:27.829
+not a matter of never being disfluent. It's kind
+
+567
+00:32:27.839 --> 00:32:29.660
+of like picking your poison. Do you want to
+
+568
+00:32:29.670 --> 00:32:33.880
+be disfluent by carefully planning and pausing and saying
+
+569
+00:32:33.890 --> 00:32:35.459
+us? And um so that you don't make a
+
+570
+00:32:35.469 --> 00:32:40.510
+mistake or are you gonna wait more heavily, the
+
+571
+00:32:40.520 --> 00:32:43.599
+system operating so that you don't make any pauses?
+
+572
+00:32:43.609 --> 00:32:46.910
+But, and that increases the likelihood of errors. So
+
+573
+00:32:46.920 --> 00:32:49.349
+it's not really a matter of ever. I don't
+
+574
+00:32:49.359 --> 00:32:53.609
+think any mere mortal can ever be perfectly fluent.
+
+575
+00:32:53.780 --> 00:32:57.160
+And it just is a matter of whether you're
+
+576
+00:32:57.170 --> 00:33:00.550
+in a situation where you're going to wait precision
+
+577
+00:33:00.560 --> 00:33:04.410
+very carefully and therefore produce maybe more pauses or
+
+578
+00:33:04.420 --> 00:33:08.060
+whether you're going to wait fluency more heavily and
+
+579
+00:33:08.069 --> 00:33:11.650
+therefore increase the potential for making errors which will
+
+580
+00:33:11.660 --> 00:33:15.670
+necessitate a repair. Um That's on the production side,
+
+581
+00:33:15.680 --> 00:33:19.790
+on the comprehension side, it's super interesting to think
+
+582
+00:33:19.800 --> 00:33:24.020
+about disfluencies as cues. And in fact, if we
+
+583
+00:33:24.030 --> 00:33:26.050
+go back to the work of the pioneers in
+
+584
+00:33:26.060 --> 00:33:29.229
+this field like Herb Clark and Tom Wo this
+
+585
+00:33:29.239 --> 00:33:32.430
+is actually what they've argued that when people are
+
+586
+00:33:32.439 --> 00:33:38.050
+um interpreting language, they use disfluencies as information. Um
+
+587
+00:33:38.060 --> 00:33:42.819
+For example, if I say the um cat like
+
+588
+00:33:42.829 --> 00:33:45.369
+that's a little bit un unexpected because cats are
+
+589
+00:33:45.380 --> 00:33:48.829
+pretty easy word to retrieve. If I say the
+
+590
+00:33:48.839 --> 00:33:52.050
+um feline like that is the um is a
+
+591
+00:33:52.060 --> 00:33:55.199
+little bit more expected because feline is a slightly
+
+592
+00:33:55.290 --> 00:33:58.255
+rarer word. So if you hear me produce an
+
+593
+00:33:58.265 --> 00:34:02.074
+R and um perhaps you can get yourself prepped
+
+594
+00:34:02.084 --> 00:34:07.265
+for a slightly less expected word or concept. And
+
+595
+00:34:07.275 --> 00:34:10.495
+there's really cool research by people like Jennifer Arnold
+
+596
+00:34:10.504 --> 00:34:14.293
+demonstrating that this is true that you can use
+
+597
+00:34:14.304 --> 00:34:18.849
+disfluencies as cues that somebody is about to refer
+
+598
+00:34:18.858 --> 00:34:24.069
+to something that's not, yes yet, maybe introduced or
+
+599
+00:34:24.079 --> 00:34:26.438
+has not been talked about for a little while.
+
+600
+00:34:26.447 --> 00:34:28.849
+And in research I did with Carl Bailey, we
+
+601
+00:34:28.858 --> 00:34:32.719
+showed that disfluencies can tell you that you're about
+
+602
+00:34:32.728 --> 00:34:36.040
+to begin a new clause in a sentence because
+
+603
+00:34:36.050 --> 00:34:40.149
+we tend to produce um before the beginnings of
+
+604
+00:34:40.159 --> 00:34:43.208
+at the beginnings of clauses, nobody's just fluent at
+
+605
+00:34:43.219 --> 00:34:45.560
+the end of the sentence. So nobody says John
+
+606
+00:34:45.570 --> 00:34:48.639
+went to the store um like that doesn't make
+
+607
+00:34:48.649 --> 00:34:51.918
+any sense, but we would say um John went
+
+608
+00:34:51.929 --> 00:34:55.340
+to the store. So these disfluencies can be used
+
+609
+00:34:55.350 --> 00:34:59.320
+as information about what a speaker is likely to
+
+610
+00:34:59.330 --> 00:35:01.739
+say. So they help the listener get a head
+
+611
+00:35:01.750 --> 00:35:04.919
+start on what's about to happen. Plus there's one
+
+612
+00:35:04.929 --> 00:35:08.510
+more function of disfluencies, I should say because we
+
+613
+00:35:08.520 --> 00:35:11.639
+now have disfluencies in written language as well. So
+
+614
+00:35:11.649 --> 00:35:15.229
+if you uh especially in casual writing, like uh
+
+615
+00:35:15.239 --> 00:35:20.310
+social media or um in instant messaging or direct
+
+616
+00:35:20.320 --> 00:35:24.100
+messages to people will often in insert um or
+
+617
+00:35:24.110 --> 00:35:26.820
+an uh because we know that they actually convey
+
+618
+00:35:26.830 --> 00:35:29.219
+a little bit of meaning. If I say something
+
+619
+00:35:29.229 --> 00:35:33.189
+like I heard about your um story, you know,
+
+620
+00:35:33.199 --> 00:35:36.729
+that sort of is um I'm using um there
+
+621
+00:35:36.739 --> 00:35:41.070
+as kind of a word to suggest skepticism about
+
+622
+00:35:41.080 --> 00:35:45.040
+your um uh that story is, you know, about
+
+623
+00:35:45.050 --> 00:35:48.290
+the concept of, of the story here. So uh
+
+624
+00:35:48.300 --> 00:35:53.389
+disfluencies have a, have a number of potentially useful
+
+625
+00:35:53.399 --> 00:35:54.189
+functions.
+
+626
+00:35:54.979 --> 00:36:00.419
+Mhm And with all of those disfluencies that we
+
+627
+00:36:00.429 --> 00:36:04.510
+tend to have and sometimes misspoken words or using
+
+628
+00:36:04.520 --> 00:36:08.370
+even the incorrect words. And uh all of that,
+
+629
+00:36:08.379 --> 00:36:14.770
+how of how, how often do comprehend misinterpret language
+
+630
+00:36:14.790 --> 00:36:18.209
+actually? Does, does it occur often or not? And
+
+631
+00:36:18.219 --> 00:36:21.139
+with all of course, with all the ambiguity surrounding
+
+632
+00:36:21.149 --> 00:36:22.489
+language and all of that,
+
+633
+00:36:24.459 --> 00:36:27.989
+that's I'll give you two answers to that question.
+
+634
+00:36:28.300 --> 00:36:31.370
+One is we can't really know and the other
+
+635
+00:36:31.379 --> 00:36:35.600
+is that based on what we know, probably less
+
+636
+00:36:35.610 --> 00:36:40.510
+often than we might worry, we misinterpret each other.
+
+637
+00:36:40.540 --> 00:36:43.800
+So, on the one hand, it's very hard to
+
+638
+00:36:43.810 --> 00:36:47.239
+know how often we misinterpret each other because misinterpretations
+
+639
+00:36:47.250 --> 00:36:52.750
+are private, I can't tell by just sort of
+
+640
+00:36:52.760 --> 00:36:55.489
+looking at you, right. Now, to what extent you
+
+641
+00:36:55.500 --> 00:36:59.419
+are understanding each and every word that I've said
+
+642
+00:36:59.820 --> 00:37:03.000
+because I don't have access to your mental states.
+
+643
+00:37:03.580 --> 00:37:07.520
+And we know that uh well, you know, before
+
+644
+00:37:07.530 --> 00:37:09.479
+this interview started, we, we talked a little bit
+
+645
+00:37:09.489 --> 00:37:12.879
+about speaking Portuguese. And um you know, I can
+
+646
+00:37:12.889 --> 00:37:16.120
+understand Portuguese far, far more easily than I can
+
+647
+00:37:16.129 --> 00:37:19.530
+speak it because I can piece things together. I
+
+648
+00:37:19.540 --> 00:37:22.760
+can use context and comprehension and I can fake
+
+649
+00:37:22.770 --> 00:37:25.389
+it. I can pretend that I'm understanding and then
+
+650
+00:37:25.399 --> 00:37:29.850
+hope that something the person says uh subsequently clarifies
+
+651
+00:37:29.860 --> 00:37:32.360
+the word that I don't actually know. And I
+
+652
+00:37:32.370 --> 00:37:34.050
+don't want to admit that I don't know it.
+
+653
+00:37:34.060 --> 00:37:36.830
+So I'm pretending. Um So we really need to
+
+654
+00:37:36.840 --> 00:37:42.050
+do experiments in order to get at misinterpretations. And
+
+655
+00:37:42.060 --> 00:37:44.629
+what experiments like the ones we've done in my
+
+656
+00:37:44.639 --> 00:37:48.340
+lab with people like Kyle Christiansen, for example, have
+
+657
+00:37:48.350 --> 00:37:53.300
+shown is that indeed people can be quite bad
+
+658
+00:37:53.310 --> 00:37:57.524
+at understanding language. They misinterpret the syntactic structure. They
+
+659
+00:37:57.534 --> 00:38:00.965
+even get, get the words in the sentence wrong.
+
+660
+00:38:01.054 --> 00:38:03.885
+We've shown that people interpret a sentence like the
+
+661
+00:38:03.895 --> 00:38:06.294
+dog was bitten by the man to mean that
+
+662
+00:38:06.304 --> 00:38:08.844
+the dog bit the man because it's much more
+
+663
+00:38:08.854 --> 00:38:12.284
+likely that a dog would bite a human than
+
+664
+00:38:12.294 --> 00:38:16.750
+the other way around. Um And so there, and
+
+665
+00:38:16.760 --> 00:38:19.510
+we know from really interesting work going back to
+
+666
+00:38:19.520 --> 00:38:23.000
+the seventies that Lynn reader, for example, did on
+
+667
+00:38:23.010 --> 00:38:26.629
+the, what's the, the so called Moses illusion? Um
+
+668
+00:38:26.639 --> 00:38:28.830
+Where if I ask you how many of each
+
+669
+00:38:28.840 --> 00:38:31.530
+kind of animal did Moses take on the Ark?
+
+670
+00:38:31.540 --> 00:38:34.560
+A lot of people will just say, 02. Um
+
+671
+00:38:34.570 --> 00:38:37.239
+But what they really should say is uh you
+
+672
+00:38:37.250 --> 00:38:40.750
+mean Noah, not Moses because that um you know
+
+673
+00:38:40.760 --> 00:38:42.840
+the way the story goes, it was Noah and
+
+674
+00:38:42.850 --> 00:38:47.149
+not Moses. So the Moses illusion reveals that people
+
+675
+00:38:47.229 --> 00:38:52.939
+often will, we will not understand the language correctly.
+
+676
+00:38:52.949 --> 00:38:57.870
+And these autocorrect mechanisms are so robust that sometimes
+
+677
+00:38:57.879 --> 00:39:00.489
+they work in such a way that they're fixing
+
+678
+00:39:00.500 --> 00:39:02.669
+the input for us and we're not even aware
+
+679
+00:39:02.679 --> 00:39:05.330
+of it. Um And I might be trying to
+
+680
+00:39:05.340 --> 00:39:09.370
+tell you something unexpected, but your uh systems of
+
+681
+00:39:09.379 --> 00:39:14.879
+for processing noisy information are smoothing it out, but
+
+682
+00:39:14.889 --> 00:39:17.250
+it may be distorting the message that I'm trying
+
+683
+00:39:17.260 --> 00:39:21.330
+to convey. So that's one answer is that we
+
+684
+00:39:21.340 --> 00:39:23.850
+know from a lot of research that people misinterpret
+
+685
+00:39:23.860 --> 00:39:28.899
+each other fairly often in our experiments. But now
+
+686
+00:39:28.959 --> 00:39:32.649
+real life, how often do people actually in real
+
+687
+00:39:32.659 --> 00:39:35.189
+life misinterpret each other? Because the thing is in
+
+688
+00:39:35.199 --> 00:39:38.899
+our experiments, we've designed our stimuli to be confusing.
+
+689
+00:39:38.929 --> 00:39:41.100
+We've designed, we know the dog was bitten by
+
+690
+00:39:41.110 --> 00:39:44.120
+the man. I've used the passive structure there. I've
+
+691
+00:39:44.129 --> 00:39:47.370
+told you about something implausible because I want to
+
+692
+00:39:48.250 --> 00:39:51.629
+lure you into misunderstanding that sentence. And the same
+
+693
+00:39:51.639 --> 00:39:55.030
+goes for garden path sentences. So we can't, based
+
+694
+00:39:55.040 --> 00:39:57.760
+on our estimates on how often people misinterpret each
+
+695
+00:39:57.770 --> 00:40:01.070
+other in misinterpret language on the results of experiments
+
+696
+00:40:01.080 --> 00:40:05.489
+because those experiments are designed to elicit misinterpretations. But
+
+697
+00:40:05.500 --> 00:40:10.409
+what we can, but in when we've, what some
+
+698
+00:40:10.419 --> 00:40:14.580
+researchers have done, not me, um I think people
+
+699
+00:40:14.590 --> 00:40:17.800
+like um Doug Roland and uh Jan uh Jassy
+
+700
+00:40:18.250 --> 00:40:20.360
+have done this kind of work is to look
+
+701
+00:40:20.370 --> 00:40:23.629
+at cor big corpora of language, you know, just
+
+702
+00:40:23.639 --> 00:40:28.824
+big chunks, naturally spoken language and looked at how
+
+703
+00:40:29.034 --> 00:40:34.284
+truly ambiguous things are in real context. And what
+
+704
+00:40:34.294 --> 00:40:37.665
+they show is that when you take into account
+
+705
+00:40:37.675 --> 00:40:42.304
+all this additional sources of information that people can
+
+706
+00:40:42.314 --> 00:40:46.225
+rely on language isn't as ambiguous as we might
+
+707
+00:40:46.235 --> 00:40:49.014
+think. And so it's probably the case that we
+
+708
+00:40:49.024 --> 00:40:53.199
+misunderstand each other a lot less. Then our experiments
+
+709
+00:40:53.209 --> 00:40:56.770
+would suggest because we normally have a lot of
+
+710
+00:40:56.780 --> 00:41:02.159
+opportunities to clarify what we meant. And just generally,
+
+711
+00:41:02.169 --> 00:41:06.770
+the signal in real conversations is much richer than
+
+712
+00:41:06.780 --> 00:41:09.020
+it is in an experiment in experiments. People are
+
+713
+00:41:09.030 --> 00:41:11.550
+in a darkened room and they're, you know, looking
+
+714
+00:41:11.560 --> 00:41:14.260
+at single sentences on a computer screen in real
+
+715
+00:41:14.270 --> 00:41:17.550
+life, you can use my speech, but you can
+
+716
+00:41:17.560 --> 00:41:20.629
+also use my, you know, my gestures, you can
+
+717
+00:41:20.639 --> 00:41:23.479
+use um the what I've said in the previous
+
+718
+00:41:23.489 --> 00:41:26.110
+45 minutes, you know, all of these things to
+
+719
+00:41:26.120 --> 00:41:28.360
+help you and you might also know some things
+
+720
+00:41:28.370 --> 00:41:31.270
+about me. So you might know that certain errors
+
+721
+00:41:31.280 --> 00:41:34.120
+that I tend to make in speech. So it's
+
+722
+00:41:34.129 --> 00:41:37.860
+kind of a different situation in real language. So
+
+723
+00:41:37.870 --> 00:41:41.530
+what I would say is that language. Fortunately, the
+
+724
+00:41:41.540 --> 00:41:44.889
+language systems have evolved to be very, very efficient
+
+725
+00:41:44.899 --> 00:41:47.879
+and to enable us to communicate. Nevertheless, we can
+
+726
+00:41:47.889 --> 00:41:50.919
+say that we always understand each other correctly, right?
+
+727
+00:41:52.250 --> 00:41:54.540
+The world is full of misunderstandings.
+
+728
+00:41:54.870 --> 00:41:57.409
+Yeah, I I was actually going to say and
+
+729
+00:41:57.419 --> 00:42:00.129
+if anything that I'm about to say is incorrect,
+
+730
+00:42:00.139 --> 00:42:02.649
+please correct me. But I was going to say
+
+731
+00:42:02.659 --> 00:42:06.060
+that in real life. I mean, as you said,
+
+732
+00:42:06.070 --> 00:42:09.969
+there, we have many more cues to draw from
+
+733
+00:42:09.979 --> 00:42:15.649
+like for example, non verbal cues, body language gestures.
+
+734
+00:42:15.659 --> 00:42:19.459
+And so for example, if I hear someone using
+
+735
+00:42:19.469 --> 00:42:23.030
+an incorrect word, perhaps they're pointing at something and
+
+736
+00:42:23.040 --> 00:42:27.340
+I immediately understand what, what they meant by what
+
+737
+00:42:27.350 --> 00:42:31.500
+they were saying, right? And sometimes by intonation or
+
+738
+00:42:31.510 --> 00:42:35.780
+something like that or uh uh or perhaps sometimes
+
+739
+00:42:35.790 --> 00:42:42.110
+uh people misspeak, but they the the next sentence,
+
+740
+00:42:42.120 --> 00:42:45.699
+uh they, I mean, clarify what they mean or
+
+741
+00:42:45.709 --> 00:42:49.669
+perhaps with the next sentence, we have added context
+
+742
+00:42:49.679 --> 00:42:53.149
+to what they said previously. And then we understand
+
+743
+00:42:53.159 --> 00:42:56.229
+really what they were trying to say. And also
+
+744
+00:42:56.239 --> 00:42:59.830
+I guess that even the talker, the peop the
+
+745
+00:42:59.840 --> 00:43:05.949
+person who's speaking also react to how the other
+
+746
+00:43:05.959 --> 00:43:10.389
+person reacts to them talking. And perhaps there are
+
+747
+00:43:10.399 --> 00:43:15.449
+instances where we understand that perhaps we said something
+
+748
+00:43:15.459 --> 00:43:18.520
+that the other person might have misunderstood or we
+
+749
+00:43:18.530 --> 00:43:22.010
+might have misspoken in some way and we go
+
+750
+00:43:22.020 --> 00:43:26.780
+back and add more information or correct ourselves. Or
+
+751
+00:43:26.840 --> 00:43:30.870
+sometimes I guess what happens is that we just
+
+752
+00:43:30.879 --> 00:43:34.770
+misinterpret what people said, but it's just something that
+
+753
+00:43:34.919 --> 00:43:38.590
+doesn't matter that much. And so it makes no
+
+754
+00:43:38.760 --> 00:43:42.489
+difference at all for our interaction, for our life
+
+755
+00:43:42.500 --> 00:43:43.669
+and stuff like that.
+
+756
+00:43:44.090 --> 00:43:47.280
+Right. Right. Uh, I think I, that's all of
+
+757
+00:43:47.290 --> 00:43:50.689
+that is absolutely correct. And it makes a, helps
+
+758
+00:43:50.699 --> 00:43:52.820
+to make a point that I've often tried to
+
+759
+00:43:52.830 --> 00:43:56.270
+communicate in my work, which is that when we
+
+760
+00:43:56.280 --> 00:44:00.790
+look at misinterpretations and ambiguity and how ambiguities are
+
+761
+00:44:00.800 --> 00:44:04.489
+resolved, we're not doing it because we think this
+
+762
+00:44:04.500 --> 00:44:07.550
+is a general problem in language. Garden Path sentences,
+
+763
+00:44:07.560 --> 00:44:11.429
+for example, don't happen very often in real language.
+
+764
+00:44:11.479 --> 00:44:13.590
+What we're trying to do is to uncover the
+
+765
+00:44:13.600 --> 00:44:18.409
+mechanisms that the language processing system uses. And just
+
+766
+00:44:18.419 --> 00:44:23.820
+like we have to invent devices for telling us
+
+767
+00:44:23.830 --> 00:44:26.959
+for giving us measures that we can use to
+
+768
+00:44:26.969 --> 00:44:30.739
+record what's happening. We have to invent sentences or
+
+769
+00:44:30.750 --> 00:44:34.979
+stimuli that kind of crack the system they break.
+
+770
+00:44:34.989 --> 00:44:37.530
+So by the reason we, we like sentences with
+
+771
+00:44:37.540 --> 00:44:40.104
+ambiguities in them or sentences that are likely to
+
+772
+00:44:40.114 --> 00:44:43.965
+be misinterpreted is because in some ways by showing
+
+773
+00:44:43.975 --> 00:44:47.885
+where the system breaks, we can get an idea
+
+774
+00:44:47.895 --> 00:44:51.925
+of the mechanisms that are involved in normal language
+
+775
+00:44:51.935 --> 00:44:55.465
+processing. So we will, we know for example, that
+
+776
+00:44:55.705 --> 00:45:01.110
+uh people uh seem to treat the heads of
+
+777
+00:45:01.120 --> 00:45:04.409
+phrases as particularly important. Um And we know that
+
+778
+00:45:04.419 --> 00:45:06.850
+on the basis of these experiments that we've done
+
+779
+00:45:06.860 --> 00:45:09.820
+that manipulate whether there's a garden path or not
+
+780
+00:45:10.070 --> 00:45:13.090
+and the point isn't what happens in Garden Path
+
+781
+00:45:13.100 --> 00:45:16.350
+sentences. The point is how do people interpret heads
+
+782
+00:45:16.360 --> 00:45:19.320
+of phrases and heads of phrases of course occur,
+
+783
+00:45:19.899 --> 00:45:22.719
+you know, by definition, you know, every phrase has
+
+784
+00:45:22.729 --> 00:45:24.979
+a head, so heads of phrases are all over
+
+785
+00:45:24.989 --> 00:45:28.399
+the place. So that's just one example to make
+
+786
+00:45:28.409 --> 00:45:30.500
+the point that yes, exactly what you say is
+
+787
+00:45:30.510 --> 00:45:33.620
+true, which doesn't mean that it's pointless to study
+
+788
+00:45:33.629 --> 00:45:36.020
+these weird sentences or to look at how people
+
+789
+00:45:36.030 --> 00:45:40.439
+misinterpret each other. But that it tells us what
+
+790
+00:45:40.449 --> 00:45:44.659
+is the architecture that's enabling the language system to
+
+791
+00:45:44.669 --> 00:45:46.020
+be so robust.
+
+792
+00:45:46.729 --> 00:45:48.600
+Uh uh No, of course, the point I was
+
+793
+00:45:48.610 --> 00:45:51.330
+making was just that perhaps we don't have to
+
+794
+00:45:51.340 --> 00:45:56.709
+be too worried about misinterpreting language because someone might
+
+795
+00:45:56.870 --> 00:46:01.500
+misunderstand what you were saying there or what I
+
+796
+00:46:01.510 --> 00:46:03.870
+was saying just a few seconds ago and think
+
+797
+00:46:03.879 --> 00:46:08.300
+that, oh my God, we're misinterpreting language all the
+
+798
+00:46:08.310 --> 00:46:08.870
+time.
+
+799
+00:46:09.830 --> 00:46:11.870
+Of course, there are situations, you know, like in
+
+800
+00:46:11.879 --> 00:46:13.929
+a courtroom, for example, where you have to be
+
+801
+00:46:13.939 --> 00:46:18.070
+very careful not to get misinterpreted. But fortunately, normally
+
+802
+00:46:18.080 --> 00:46:23.989
+we're not, we're not being um questioned or grilled
+
+803
+00:46:24.000 --> 00:46:25.949
+about anything. So we don't have to worry about
+
+804
+00:46:25.959 --> 00:46:28.189
+that level of precision. You know, when you teach
+
+805
+00:46:28.199 --> 00:46:30.389
+also though, you know, you're very conscious of the
+
+806
+00:46:30.399 --> 00:46:34.389
+fact that you can get misinterpreted. You can say
+
+807
+00:46:34.399 --> 00:46:37.229
+something in a way that's unclear, use a word
+
+808
+00:46:37.239 --> 00:46:39.709
+that a student doesn't know that you haven't bothered
+
+809
+00:46:39.719 --> 00:46:42.800
+to define yet. So a lot of language processing
+
+810
+00:46:42.810 --> 00:46:46.560
+is about not only saying what you want to
+
+811
+00:46:46.570 --> 00:46:50.310
+say, but formulating a model of your interlocutor so
+
+812
+00:46:50.320 --> 00:46:56.100
+that you can uh produce utterances or write sentences
+
+813
+00:46:56.110 --> 00:46:58.959
+that are likely to be understood. So the burden
+
+814
+00:46:58.969 --> 00:47:01.399
+is not just on the comprehend or to understand,
+
+815
+00:47:01.570 --> 00:47:04.239
+but the burden is also on the speaker or
+
+816
+00:47:04.250 --> 00:47:08.639
+the writer or the signer to produce uh sentences
+
+817
+00:47:08.649 --> 00:47:13.139
+that are appropriate to the person they're communicating with.
+
+818
+00:47:15.110 --> 00:47:19.290
+So, still on the topic of uh fluency of
+
+819
+00:47:19.300 --> 00:47:24.469
+language production, does it have any relationship at all
+
+820
+00:47:24.479 --> 00:47:27.850
+with individual differences? Like for example, in terms of
+
+821
+00:47:27.860 --> 00:47:31.290
+intelligence and executive function?
+
+822
+00:47:32.810 --> 00:47:37.000
+Um Yeah, so that's something that I looked at
+
+823
+00:47:37.010 --> 00:47:40.209
+in some of my earlier work. And um and
+
+824
+00:47:40.219 --> 00:47:41.729
+I mentioned the work that we had done on
+
+825
+00:47:41.739 --> 00:47:45.709
+A DH D and it, there is some evidence
+
+826
+00:47:45.719 --> 00:47:54.010
+that the that's comprehend well. So for, let's take
+
+827
+00:47:54.020 --> 00:47:58.300
+an obvious example, like vocabulary. So a component of
+
+828
+00:47:58.310 --> 00:48:02.689
+language production is producing words and producing words that
+
+829
+00:48:02.699 --> 00:48:05.439
+fit the meaning that you're trying to convey as
+
+830
+00:48:05.449 --> 00:48:09.649
+accurately as possible. Um That's going to be related
+
+831
+00:48:09.659 --> 00:48:12.070
+to the size of your vocabulary. And we already
+
+832
+00:48:12.080 --> 00:48:15.350
+talked about lexical diversity in the context of, you
+
+833
+00:48:15.360 --> 00:48:18.350
+know, older adults who've had more time and experience
+
+834
+00:48:18.360 --> 00:48:22.870
+in which to acquire bigger vocabularies. Um We also
+
+835
+00:48:22.879 --> 00:48:25.909
+know that whatever you might think of the validity
+
+836
+00:48:25.919 --> 00:48:31.060
+of um standardized assessments like IQ tests and um
+
+837
+00:48:31.149 --> 00:48:34.340
+GREs and things like that. A big component of
+
+838
+00:48:34.350 --> 00:48:38.360
+those tests is vocabulary. And so uh the people
+
+839
+00:48:38.370 --> 00:48:41.780
+with bigger vocabularies tend to end up with higher
+
+840
+00:48:41.790 --> 00:48:45.219
+scores on things like IQ tests and um other
+
+841
+00:48:45.229 --> 00:48:49.139
+kinds of standardized assessments. And so that would suggest
+
+842
+00:48:49.159 --> 00:48:54.439
+that there's a relationship between IQ and uh language
+
+843
+00:48:54.449 --> 00:48:59.639
+production, but it's really um probably mediated by other
+
+844
+00:48:59.649 --> 00:49:03.110
+things that we don't really understand very well, like
+
+845
+00:49:03.399 --> 00:49:06.610
+uh how that vocabulary is acquired, what kinds of
+
+846
+00:49:06.620 --> 00:49:10.030
+experiences have gone into the opportunities that people have
+
+847
+00:49:10.040 --> 00:49:13.050
+had to acquire vocabulary. And then some of the
+
+848
+00:49:13.060 --> 00:49:16.810
+factors you've also mentioned like inhibition. Um So, uh
+
+849
+00:49:16.820 --> 00:49:23.129
+the relationship between inhibition and and other cognitive systems
+
+850
+00:49:23.139 --> 00:49:25.770
+is something that we're only beginning to understand. But
+
+851
+00:49:25.780 --> 00:49:29.199
+there are teams of researchers um like Al Kim
+
+852
+00:49:29.209 --> 00:49:33.219
+and Jared Novik, for example, who've been focusing heavily
+
+853
+00:49:33.229 --> 00:49:35.639
+on the role that inhibition might be playing in
+
+854
+00:49:35.659 --> 00:49:40.129
+individual differences in language processing. So, um I think
+
+855
+00:49:40.139 --> 00:49:42.800
+it's a really interesting question. I think it's really,
+
+856
+00:49:42.810 --> 00:49:46.330
+really hard to study because uh there's so many
+
+857
+00:49:46.340 --> 00:49:49.050
+dimensions on which people can differ from each other.
+
+858
+00:49:49.060 --> 00:49:52.949
+But in general, um there's, it's almost certainly going
+
+859
+00:49:52.959 --> 00:49:56.360
+to be the case that individual differences in cognitive
+
+860
+00:49:56.370 --> 00:50:00.090
+skills are going to correlate with language production and
+
+861
+00:50:00.100 --> 00:50:02.050
+comprehension skills as well.
+
+862
+00:50:03.439 --> 00:50:06.310
+By the way, on the topic of comprehension, in
+
+863
+00:50:06.320 --> 00:50:11.389
+what ways does redundant information contribute to it?
+
+864
+00:50:12.300 --> 00:50:17.459
+OK. So that's a really big question. Um Right.
+
+865
+00:50:17.469 --> 00:50:22.620
+So, redundancy in language has been a topic that
+
+866
+00:50:22.629 --> 00:50:26.840
+we've been, it's motivated linguistic and psycholinguistics theories for
+
+867
+00:50:26.850 --> 00:50:29.360
+decades and decades. And it goes back back to
+
+868
+00:50:29.370 --> 00:50:31.989
+the gray and maxims about, you know, to be
+
+869
+00:50:32.000 --> 00:50:33.770
+brief is, you know, one of the things you're
+
+870
+00:50:33.780 --> 00:50:37.750
+supposed to do and being brief means don't produce
+
+871
+00:50:37.760 --> 00:50:44.500
+any unnecessary words. Uh And there, there are views
+
+872
+00:50:44.510 --> 00:50:48.020
+currently of the efficiency of the language processing system
+
+873
+00:50:48.149 --> 00:50:51.239
+that kind of go along with that idea that,
+
+874
+00:50:51.250 --> 00:50:55.540
+you know, generally speaking uses up metabolic uh is,
+
+875
+00:50:55.550 --> 00:50:59.429
+you know, is metabolically demanding. So I want to
+
+876
+00:50:59.439 --> 00:51:02.780
+communicate my ideas as efficiently as I possibly can.
+
+877
+00:51:02.840 --> 00:51:06.489
+Redundancy would seem to be um inconsistent with that
+
+878
+00:51:06.500 --> 00:51:09.669
+goal. Um So, you know, Bryce would seem to
+
+879
+00:51:09.679 --> 00:51:11.260
+be on the right track when he says that
+
+880
+00:51:11.270 --> 00:51:14.030
+people should not be redundant. But as more and
+
+881
+00:51:14.040 --> 00:51:18.919
+more work is showing speakers are redundant and listeners
+
+882
+00:51:18.929 --> 00:51:23.939
+benefit from that redundancy. Uh So, for example, um
+
+883
+00:51:23.949 --> 00:51:27.379
+what uh Grace would say is that, for example,
+
+884
+00:51:27.429 --> 00:51:29.590
+I should not call this a green pen. I
+
+885
+00:51:29.600 --> 00:51:32.639
+should just call it a pen because there's no
+
+886
+00:51:32.649 --> 00:51:35.639
+other pen right now in the discourse. So to
+
+887
+00:51:35.649 --> 00:51:40.439
+include the color at modifier is pointless. It's, it's
+
+888
+00:51:40.449 --> 00:51:44.280
+information that you don't need. Um But what we
+
+889
+00:51:44.290 --> 00:51:46.919
+now know from a lot of research is that
+
+890
+00:51:46.929 --> 00:51:50.830
+for example, color as a trait is an extremely
+
+891
+00:51:50.949 --> 00:51:55.129
+salient property. And in fact, there's research showing that
+
+892
+00:51:55.139 --> 00:51:57.439
+I'm more likely to call this a green pen
+
+893
+00:51:57.459 --> 00:52:01.135
+in English. Um This is worked by Rubio Fernandez.
+
+894
+00:52:01.145 --> 00:52:02.784
+Um I'm more likely to call this a green
+
+895
+00:52:02.794 --> 00:52:05.245
+pen when I'm speaking in English than I would
+
+896
+00:52:05.254 --> 00:52:07.195
+if I were speaking in Spanish or they say
+
+897
+00:52:07.205 --> 00:52:11.935
+Portuguese because the adjective comes first. And if I'm
+
+898
+00:52:11.945 --> 00:52:14.945
+speaking in English, and I'm going to say the,
+
+899
+00:52:15.425 --> 00:52:19.189
+you know, by producing green, you know what I'm
+
+900
+00:52:19.199 --> 00:52:22.179
+referring to because in this context, I can't quite
+
+901
+00:52:22.189 --> 00:52:24.169
+see what's in my background. But the green things
+
+902
+00:52:24.179 --> 00:52:27.530
+are this pen, maybe that plant and the stuff
+
+903
+00:52:27.540 --> 00:52:30.989
+in the outside the window. So by producing a
+
+904
+00:52:31.000 --> 00:52:33.860
+redundant adjective and or at least an adjective that
+
+905
+00:52:33.870 --> 00:52:37.100
+isn't necessary in the context because it's the only
+
+906
+00:52:37.110 --> 00:52:40.419
+pencil, I actually will help you to identify the
+
+907
+00:52:40.429 --> 00:52:45.120
+referent more quickly. Um So, and we also know
+
+908
+00:52:45.129 --> 00:52:51.580
+that people say things like uh repeat again and
+
+909
+00:52:51.590 --> 00:52:54.250
+repeat again is redundant. Um And I have a
+
+910
+00:52:54.260 --> 00:52:58.209
+phd student working with me named um Casey Felton
+
+911
+00:52:58.389 --> 00:53:02.060
+and he's looking at uh people's production of things
+
+912
+00:53:02.070 --> 00:53:06.840
+like lift up. So in English, we say lift
+
+913
+00:53:06.850 --> 00:53:10.340
+up the table. Um BUT the meaning of lift
+
+914
+00:53:10.350 --> 00:53:14.620
+is to elevate. And so you don't need that
+
+915
+00:53:14.629 --> 00:53:18.860
+particle in theory, it's, it is truly redundant. Um
+
+916
+00:53:18.870 --> 00:53:23.340
+But this is so, so common in com in
+
+917
+00:53:23.350 --> 00:53:27.739
+regular language, we say add in subtract out, mix
+
+918
+00:53:27.750 --> 00:53:32.689
+together uh combine together it's, you know, just all
+
+919
+00:53:32.699 --> 00:53:33.600
+over the place.
+
+920
+00:53:33.830 --> 00:53:38.389
+So all of those expressions redundant expressions we also
+
+921
+00:53:38.399 --> 00:53:42.429
+have in Portuguese like for example, repeat again, we
+
+922
+00:53:42.439 --> 00:53:46.830
+say Ruperto Trevis something like that. So we're always
+
+923
+00:53:46.840 --> 00:53:48.330
+saying that as well,
+
+924
+00:53:49.060 --> 00:53:52.149
+which suggests that it's a general tendency on the
+
+925
+00:53:52.159 --> 00:53:57.800
+part of humans that they are redundant. So I
+
+926
+00:53:57.810 --> 00:53:59.729
+think then the question gets to be, well, what
+
+927
+00:53:59.739 --> 00:54:04.550
+is efficiency and efficiency isn't just producing the fewest
+
+928
+00:54:04.560 --> 00:54:08.850
+syllables per unit of meaning it could be efficient
+
+929
+00:54:08.889 --> 00:54:13.409
+to provide listeners with redundancy because it does give
+
+930
+00:54:13.419 --> 00:54:16.070
+them multiple opportunities to get your message. And we
+
+931
+00:54:16.080 --> 00:54:19.949
+had just been talking about the uh the opportunities
+
+932
+00:54:19.959 --> 00:54:23.199
+for misinterpretation that are in language and how perhaps
+
+933
+00:54:23.209 --> 00:54:26.370
+in real conversations we're not so bad at understanding
+
+934
+00:54:26.379 --> 00:54:30.709
+each other. Maybe it's because we're redundant and repeat
+
+935
+00:54:30.719 --> 00:54:35.030
+again in is technically redundant. And your teachers would
+
+936
+00:54:35.040 --> 00:54:37.320
+yell at you for saying that. But in real
+
+937
+00:54:37.330 --> 00:54:40.270
+life, if I'm teaching my class and I say,
+
+938
+00:54:40.280 --> 00:54:43.469
+OK, I want you to redo this again. Um
+
+939
+00:54:43.632 --> 00:54:45.372
+I tend not to say that but imagine if
+
+940
+00:54:45.382 --> 00:54:49.392
+I said I'm giving my students two chances to
+
+941
+00:54:49.402 --> 00:54:52.241
+get my meaning. I give them the re on
+
+942
+00:54:52.261 --> 00:54:54.572
+redo and I give them again as a separate
+
+943
+00:54:54.582 --> 00:54:58.822
+word. And now my meaning becomes clear. Um I
+
+944
+00:54:58.832 --> 00:55:00.761
+see this a lot in, I don't know if
+
+945
+00:55:00.771 --> 00:55:04.892
+you ever do like online um exercise videos and
+
+946
+00:55:04.902 --> 00:55:07.852
+things where the instructor will say, OK, so let's
+
+947
+00:55:07.862 --> 00:55:10.894
+repeat that again. And you know, because it's really
+
+948
+00:55:10.904 --> 00:55:14.233
+important that you understand that we're going to now
+
+949
+00:55:14.243 --> 00:55:16.894
+do the same exercise that we just did. And,
+
+950
+00:55:16.904 --> 00:55:19.134
+you know, you need to understand that that's what's
+
+951
+00:55:19.144 --> 00:55:22.593
+coming next. So repeat again, is very healthy or
+
+952
+00:55:22.604 --> 00:55:26.553
+helpful, healthy. Um There, there was this feature. Um
+
+953
+00:55:26.993 --> 00:55:32.783
+So in general, I think redundancy is valuable. Um
+
+954
+00:55:33.035 --> 00:55:39.645
+PARTLY because listeners attention wanders and they uh they
+
+955
+00:55:39.656 --> 00:55:42.095
+might not know what you meant at this point,
+
+956
+00:55:42.105 --> 00:55:43.315
+but they will know what you mean at a
+
+957
+00:55:43.325 --> 00:55:45.775
+later point in the sentence. So there's more and
+
+958
+00:55:45.785 --> 00:55:49.635
+more of an appreciation and a respect for redundancy
+
+959
+00:55:49.645 --> 00:55:53.575
+in language that it actually benefits the comprehend or
+
+960
+00:55:53.615 --> 00:55:56.696
+uh and allows the speaker to convey their message
+
+961
+00:55:56.706 --> 00:56:00.236
+more clearly. It also is just less, less abrupt.
+
+962
+00:56:00.246 --> 00:56:05.219
+So lift, lift that versus lift that up, you
+
+963
+00:56:05.229 --> 00:56:09.649
+know, the up is somehow gentler it g it
+
+964
+00:56:09.659 --> 00:56:13.290
+makes the instruction a little bit gentler and um
+
+965
+00:56:13.300 --> 00:56:15.129
+I don't quite know what's going on with that,
+
+966
+00:56:15.139 --> 00:56:17.080
+but I have that as an intuition.
+
+967
+00:56:17.699 --> 00:56:21.909
+Yeah. So I have two more topics I would
+
+968
+00:56:21.919 --> 00:56:24.949
+like to ask you about. Uh WE'VE already mentioned
+
+969
+00:56:24.959 --> 00:56:28.590
+eye tracking several times here today. So how do
+
+970
+00:56:28.600 --> 00:56:33.770
+you actually study reading and information processing through eye
+
+971
+00:56:33.780 --> 00:56:37.300
+tracking? And what can we learn from it
+
+972
+00:56:37.330 --> 00:56:42.790
+exactly? So we know that the eyeball is structured
+
+973
+00:56:42.800 --> 00:56:45.750
+so that there is a, so we know about
+
+974
+00:56:45.760 --> 00:56:47.530
+the retina on the back of the eye, you
+
+975
+00:56:47.540 --> 00:56:50.969
+know, the collection of cells that are responsible for
+
+976
+00:56:50.979 --> 00:56:54.449
+our ability to um process visual details, especially the
+
+977
+00:56:54.459 --> 00:56:57.149
+cones, right? The cones are the the cells that
+
+978
+00:56:57.159 --> 00:57:02.149
+are allowing us to, to read essentially or to
+
+979
+00:57:02.179 --> 00:57:07.500
+extract visual detail. And the this foveal area vision
+
+980
+00:57:07.510 --> 00:57:12.020
+is actually quite small. And what that means is
+
+981
+00:57:12.030 --> 00:57:14.179
+that we need to make eye movements in order
+
+982
+00:57:14.189 --> 00:57:18.350
+to process the information in the environment. And eye
+
+983
+00:57:18.360 --> 00:57:22.459
+trackers capitalize on that fact. So when we read
+
+984
+00:57:22.639 --> 00:57:25.530
+and imagine we're reading text like English or Portuguese
+
+985
+00:57:25.540 --> 00:57:28.620
+that's read left to right top to bottom. Um
+
+986
+00:57:28.629 --> 00:57:34.719
+We will, our eyes will land on to right
+
+987
+00:57:34.729 --> 00:57:37.060
+around the middle of a word. Typically, it's a
+
+988
+00:57:37.070 --> 00:57:39.760
+little bit left of center. Um BUT right about
+
+989
+00:57:39.770 --> 00:57:42.209
+the middle of a word and then we move
+
+990
+00:57:42.219 --> 00:57:44.300
+our eyes to the next word and then we
+
+991
+00:57:44.310 --> 00:57:46.580
+move our eyes to the next word and we,
+
+992
+00:57:46.590 --> 00:57:50.080
+and we're basically reading each and every word in
+
+993
+00:57:50.090 --> 00:57:52.419
+a text except for words like the and of
+
+994
+00:57:52.429 --> 00:57:54.959
+which we tend to skip over probably could because
+
+995
+00:57:54.969 --> 00:57:58.280
+we can see them in our peripheral vision and
+
+996
+00:57:58.290 --> 00:58:03.399
+they're also highly constrained contextually. So we, when we
+
+997
+00:58:03.409 --> 00:58:05.719
+look at a visual scene, it's the same thing.
+
+998
+00:58:05.729 --> 00:58:08.040
+So when you look at like what's behind me
+
+999
+00:58:08.149 --> 00:58:10.360
+in order, you can get a sense in in
+
+1000
+00:58:10.370 --> 00:58:12.370
+one fixation that you're looking at some kind of
+
+1001
+00:58:12.379 --> 00:58:15.889
+a home office. But you in order to identify
+
+1002
+00:58:15.899 --> 00:58:18.219
+what are the actual objects in the scene, you
+
+1003
+00:58:18.229 --> 00:58:20.560
+have to make fixations all around it. You know
+
+1004
+00:58:20.570 --> 00:58:22.719
+that there's a clock over here and that there's
+
+1005
+00:58:22.729 --> 00:58:24.959
+a picture on the floor for some weird reason
+
+1006
+00:58:24.969 --> 00:58:28.590
+underneath the window, you know, et cetera. So, um
+
+1007
+00:58:29.899 --> 00:58:32.340
+what this means then is that the position of
+
+1008
+00:58:32.350 --> 00:58:35.469
+the eye is giving us information about what the
+
+1009
+00:58:35.479 --> 00:58:39.149
+comprehend is attending to. So, if I want to
+
+1010
+00:58:39.159 --> 00:58:42.300
+know what word you're paying, you're currently processing. When
+
+1011
+00:58:42.310 --> 00:58:45.919
+you're reading some information on a computer screen, you,
+
+1012
+00:58:45.929 --> 00:58:48.320
+the position of your eyeball is gonna tell me
+
+1013
+00:58:48.330 --> 00:58:50.709
+that. So what I need is an eye movement
+
+1014
+00:58:50.719 --> 00:58:54.189
+monitoring system that essentially records the position of the
+
+1015
+00:58:54.199 --> 00:58:58.899
+pupil that tells me where you're looking. And that
+
+1016
+00:58:58.909 --> 00:59:03.350
+eye movement recording system allows me to identify the
+
+1017
+00:59:03.360 --> 00:59:07.610
+exact word that you're currently looking at and even
+
+1018
+00:59:07.620 --> 00:59:10.459
+the character within the world that you're looking at.
+
+1019
+00:59:10.669 --> 00:59:12.250
+Um In fact that you can even get more
+
+1020
+00:59:12.260 --> 00:59:15.360
+precision than, than a single character on a computer
+
+1021
+00:59:15.370 --> 00:59:19.350
+screen. So what we've learned from this kind of
+
+1022
+00:59:19.360 --> 00:59:22.810
+eye tracking research is that, as I've mentioned, people
+
+1023
+00:59:22.820 --> 00:59:25.830
+tend to fixate on each individual word except for
+
+1024
+00:59:25.840 --> 00:59:29.229
+some highly predictable, highly frequent words and that the
+
+1025
+00:59:29.239 --> 00:59:33.719
+fixation durations. So the length of an individual fixation
+
+1026
+00:59:33.945 --> 00:59:38.104
+correlates with the difficulty of the word that's currently
+
+1027
+00:59:38.114 --> 00:59:42.205
+being processed. So a word like cat would be,
+
+1028
+00:59:42.215 --> 00:59:44.334
+would receive a shorter fixation than a word like
+
+1029
+00:59:44.344 --> 00:59:47.955
+feline because feline is a longer word, but also
+
+1030
+00:59:47.965 --> 00:59:51.580
+because it's a less common word. And we also
+
+1031
+00:59:51.590 --> 00:59:54.629
+know that when people get garden path sentences, when
+
+1032
+00:59:54.639 --> 00:59:57.459
+they get to the part of the sentence where
+
+1033
+00:59:57.469 --> 01:00:01.419
+they realize they've messed up, they will exhibit long
+
+1034
+01:00:01.429 --> 01:00:05.820
+fixations and they'll also do multiple fixations. So they
+
+1035
+01:00:05.830 --> 01:00:07.959
+usually, you only look, you only fixate on a
+
+1036
+01:00:07.969 --> 01:00:11.100
+word once or twice. But if this, the sentences
+
+1037
+01:00:11.110 --> 01:00:14.530
+become confusing, you'll look at it multiple times and
+
+1038
+01:00:14.540 --> 01:00:17.236
+you'll actually also make a backwards eye movement called
+
+1039
+01:00:17.246 --> 01:00:20.406
+a regression as if you're sort of going. Oh
+
+1040
+01:00:20.716 --> 01:00:23.416
+This is hopeless. Let me start again here and
+
+1041
+01:00:23.426 --> 01:00:26.196
+you go backwards and skilled readers make a lot
+
+1042
+01:00:26.206 --> 01:00:29.115
+of regressions. It's not a sign that of failure.
+
+1043
+01:00:29.125 --> 01:00:31.956
+It's actually what efficient reading looks like. So we
+
+1044
+01:00:31.966 --> 01:00:34.966
+use the eye movement monitoring system or eye tracking
+
+1045
+01:00:35.065 --> 01:00:38.075
+to give us. Uh YOU know, I mentioned before
+
+1046
+01:00:38.085 --> 01:00:42.122
+that language processing comprehension is, but we can actually
+
+1047
+01:00:42.132 --> 01:00:44.912
+make it a little less private by monitoring the
+
+1048
+01:00:44.922 --> 01:00:47.451
+position of your eyes. I can tell if I
+
+1049
+01:00:47.461 --> 01:00:49.931
+put you on an eye tracker, what words you're
+
+1050
+01:00:49.941 --> 01:00:53.072
+looking at, how long you're spending on that word.
+
+1051
+01:00:53.122 --> 01:00:56.662
+Um How long the eye movement is over to
+
+1052
+01:00:56.672 --> 01:00:59.031
+the next word, et cetera. And that gives us
+
+1053
+01:00:59.041 --> 01:01:02.981
+a lot of valuable information about information processing uh
+
+1054
+01:01:03.041 --> 01:01:04.941
+during language comprehension.
+
+1055
+01:01:06.459 --> 01:01:10.280
+So I have one final question. Then this is
+
+1056
+01:01:10.290 --> 01:01:13.879
+a topic that is I guess unrelated to the
+
+1057
+01:01:13.889 --> 01:01:16.820
+others to some extent. But when it comes to
+
+1058
+01:01:16.830 --> 01:01:20.159
+language learning, and I guess that many people out
+
+1059
+01:01:20.169 --> 01:01:22.820
+there would be interested in language learning because they
+
+1060
+01:01:22.830 --> 01:01:26.510
+are parents or educators or they, they are interested
+
+1061
+01:01:26.520 --> 01:01:30.560
+in knowing if we can improve language learning, particularly
+
+1062
+01:01:30.570 --> 01:01:36.000
+in Children, I guess. So can singing facilitate language
+
+1063
+01:01:36.010 --> 01:01:36.560
+learning.
+
+1064
+01:01:38.090 --> 01:01:41.199
+Oh, gosh, that's also, that's also a study I
+
+1065
+01:01:41.209 --> 01:01:44.860
+probably should have suggested we not try to go
+
+1066
+01:01:44.870 --> 01:01:47.149
+into in too much detail because I'm going to
+
+1067
+01:01:47.159 --> 01:01:48.570
+tell you. So, what I'm gonna do is I'm
+
+1068
+01:01:48.580 --> 01:01:51.649
+gonna hijack this part of our conversation to tell
+
+1069
+01:01:51.659 --> 01:01:54.149
+you a little bit about how we often do
+
+1070
+01:01:54.239 --> 01:01:58.750
+science. So that study is a complete one off.
+
+1071
+01:01:58.760 --> 01:02:01.879
+It's a study that I did with, um, uh
+
+1072
+01:02:01.889 --> 01:02:06.300
+Katie Overly and her phd student at the time
+
+1073
+01:02:06.330 --> 01:02:08.320
+when I was at Edinburgh and I served on
+
+1074
+01:02:08.330 --> 01:02:11.360
+the committee of the graduate student who was working
+
+1075
+01:02:11.370 --> 01:02:15.729
+on that project. And what we showed in that
+
+1076
+01:02:15.739 --> 01:02:19.729
+study is that, yeah, it looks like um, singing
+
+1077
+01:02:19.739 --> 01:02:22.010
+can help people to learn, you know, a second
+
+1078
+01:02:22.020 --> 01:02:25.729
+language. Um But that was a study that I
+
+1079
+01:02:25.739 --> 01:02:30.229
+worked on um completely as just sort of like
+
+1080
+01:02:30.239 --> 01:02:32.899
+I said this one off, I've never really pursued
+
+1081
+01:02:32.909 --> 01:02:35.300
+it again. So I couldn't tell you what the
+
+1082
+01:02:35.310 --> 01:02:39.610
+current literature on that topic looks like. I also
+
+1083
+01:02:39.620 --> 01:02:43.860
+would emphasize that that study focused on learning second
+
+1084
+01:02:43.870 --> 01:02:47.169
+language. I believe it was Hungarian. Um THAT, that
+
+1085
+01:02:47.179 --> 01:02:50.179
+she was focusing on as, and she used that
+
+1086
+01:02:50.189 --> 01:02:53.189
+just because it was unlikely that very many of
+
+1087
+01:02:53.199 --> 01:02:55.219
+the subjects we would want to test already learn
+
+1088
+01:02:55.229 --> 01:02:58.550
+New Hungarian and, or maybe it was Czech, see,
+
+1089
+01:02:58.560 --> 01:03:00.909
+I can't even remember what the second language was
+
+1090
+01:03:00.919 --> 01:03:04.580
+that we were looking at. And um, but that's
+
+1091
+01:03:04.590 --> 01:03:08.729
+probably a different process from what we see in
+
+1092
+01:03:08.739 --> 01:03:12.810
+first language learning in Children. Although we know that
+
+1093
+01:03:12.820 --> 01:03:17.110
+teachers and you know, educators, parents like to use
+
+1094
+01:03:17.120 --> 01:03:19.770
+songs as a way to teach kids words. Um
+
+1095
+01:03:19.780 --> 01:03:22.810
+Maybe it makes them more memorable, memorable, makes them
+
+1096
+01:03:22.820 --> 01:03:26.709
+uh the repet repetition helps them to learn. Um
+
+1097
+01:03:26.719 --> 01:03:29.300
+Also it helps Children I think to learn phonological
+
+1098
+01:03:29.310 --> 01:03:32.689
+patterns. So in, in song, you tend to get
+
+1099
+01:03:32.699 --> 01:03:37.199
+rhymes and so rhymes are going to facilitate phonological
+
+1100
+01:03:37.209 --> 01:03:41.330
+awareness and phonological awareness we know is really important
+
+1101
+01:03:41.340 --> 01:03:43.699
+for learning how to read. Um In fact, you
+
+1102
+01:03:43.709 --> 01:03:45.090
+might know, I don't know if you know about
+
+1103
+01:03:45.100 --> 01:03:48.790
+the studies that were done a few decades ago
+
+1104
+01:03:48.800 --> 01:03:53.500
+on um on Portuguese illite illiterates. Um So people
+
+1105
+01:03:53.510 --> 01:03:57.469
+who after the revolution were um put into literacy
+
+1106
+01:03:57.479 --> 01:04:00.229
+programs in Portugal. So adults who had never had
+
+1107
+01:04:00.239 --> 01:04:03.389
+the opportunity to learn to read. And um so
+
+1108
+01:04:03.399 --> 01:04:07.260
+like uh um oh his name is escaping me,
+
+1109
+01:04:07.270 --> 01:04:10.399
+a Portuguese researcher who spent his, most of his
+
+1110
+01:04:10.409 --> 01:04:12.729
+career in Belgium did a lot of these um
+
+1111
+01:04:12.739 --> 01:04:16.100
+studies along with Jos Allegria and some other people
+
+1112
+01:04:16.110 --> 01:04:19.159
+anyway, they show that people who are, who do
+
+1113
+01:04:19.169 --> 01:04:21.350
+not read and write. Adults who did not know
+
+1114
+01:04:21.360 --> 01:04:25.149
+how to read and write had very little phonological
+
+1115
+01:04:25.159 --> 01:04:27.540
+awareness. They could tell you how many syllables were
+
+1116
+01:04:27.550 --> 01:04:30.129
+in a word. They kind of intuitively understood things
+
+1117
+01:04:30.139 --> 01:04:32.469
+like syllables, but they didn't understand the things like
+
+1118
+01:04:32.479 --> 01:04:34.899
+phone names. And once they learned to read the
+
+1119
+01:04:34.909 --> 01:04:37.719
+same adults could tell you that a word like
+
+1120
+01:04:37.729 --> 01:04:42.199
+um stick has four sounds to it. Um Whereas
+
+1121
+01:04:42.209 --> 01:04:45.110
+prior to literacy, they would say it had maybe
+
+1122
+01:04:45.120 --> 01:04:48.560
+three sounds to it. Um You know, if that
+
+1123
+01:04:48.570 --> 01:04:50.590
+anyway, so all of that is to say that
+
+1124
+01:04:50.610 --> 01:04:54.659
+phonological awareness which could be something that is conveyed
+
+1125
+01:04:54.669 --> 01:04:59.620
+through music, helps people to become literate or is
+
+1126
+01:04:59.629 --> 01:05:02.590
+a consequence of becoming literate. It's probably both a
+
+1127
+01:05:02.610 --> 01:05:06.000
+cause and a consequence and in that way is
+
+1128
+01:05:06.010 --> 01:05:08.639
+sort of related to language learning. But here I'm
+
+1129
+01:05:08.649 --> 01:05:12.120
+kind of speculating and I'm in some ways out
+
+1130
+01:05:12.129 --> 01:05:14.840
+of my specific area of expertise. So,
+
+1131
+01:05:15.040 --> 01:05:19.629
+no, that, that's fair enough. So, Doctor Freud, just
+
+1132
+01:05:19.639 --> 01:05:22.080
+before we go, would you like just to tell
+
+1133
+01:05:22.090 --> 01:05:24.639
+people where they can find you and your work
+
+1134
+01:05:24.649 --> 01:05:25.679
+on the internet?
+
+1135
+01:05:26.780 --> 01:05:30.010
+Um Yeah, so I, you can find me in
+
+1136
+01:05:30.020 --> 01:05:33.399
+Davis, California most of the time. Um OR in
+
+1137
+01:05:33.409 --> 01:05:36.320
+San Diego where my brother lives with his child.
+
+1138
+01:05:36.330 --> 01:05:39.379
+My brother is also a psycho linguist. Um So
+
+1139
+01:05:39.389 --> 01:05:42.334
+here at the University of California, San Diego, um
+
+1140
+01:05:42.344 --> 01:05:45.935
+but on the internet, if you Google, my name,
+
+1141
+01:05:45.945 --> 01:05:49.225
+um you usually, I will come up pretty, pretty
+
+1142
+01:05:49.235 --> 01:05:52.395
+much the first or second item on your search.
+
+1143
+01:05:52.405 --> 01:05:54.804
+There is a Fernando Ferreira in Brazil who's a
+
+1144
+01:05:54.814 --> 01:05:59.689
+volleyball player. That's not me. Um But uh I,
+
+1145
+01:05:59.699 --> 01:06:04.550
+and if you Google Fernando Ferreira Davis, then you,
+
+1146
+01:06:04.560 --> 01:06:07.790
+then you will find me pretty easily. So, yeah,
+
+1147
+01:06:07.989 --> 01:06:10.429
+I'm easy to find Fernando Ferreira as I tell
+
+1148
+01:06:10.439 --> 01:06:14.320
+people is a very common name. Um BUT not
+
+1149
+01:06:14.330 --> 01:06:16.709
+so much in cognitive science. So
+
+1150
+01:06:17.229 --> 01:06:21.169
+yeah, probably in Portugal it would be much more
+
+1151
+01:06:21.179 --> 01:06:21.790
+common,
+
+1152
+01:06:22.139 --> 01:06:24.350
+I guess. And Brazil, it seems like it's quite
+
+1153
+01:06:24.360 --> 01:06:28.199
+common in Brazil. So um yeah, yeah, when people
+
+1154
+01:06:28.209 --> 01:06:31.120
+say your name, it's so unusual. It's like only
+
+1155
+01:06:31.129 --> 01:06:31.919
+here.
+
+1156
+01:06:33.479 --> 01:06:37.000
+Great. So I'm leaving some links to your work
+
+1157
+01:06:37.010 --> 01:06:39.489
+in the description box of the interview and thank
+
+1158
+01:06:39.500 --> 01:06:41.620
+you so much again for taking the time to
+
+1159
+01:06:41.629 --> 01:06:43.669
+come on the show. It's been a real pleasure
+
+1160
+01:06:43.679 --> 01:06:44.409
+to talk with you.
+
+1161
+01:06:45.169 --> 01:06:47.459
+Thank you for the opportunity. I've really enjoyed this
+
+1162
+01:06:47.469 --> 01:06:49.379
+conversation. So thanks.
+
+1163
+01:06:50.340 --> 01:06:53.070
+Hi guys. Thank you for watching this interview. Until
+
+1164
+01:06:53.080 --> 01:06:55.239
+the end. If you liked it, please share it.
+
+1165
+01:06:55.250 --> 01:06:58.050
+Leave a like and hit the subscription button. The
+
+1166
+01:06:58.060 --> 01:07:00.159
+show is brought to you by N Lights learning
+
+1167
+01:07:00.169 --> 01:07:03.179
+and development. Then differently check the website at N
+
+1168
+01:07:03.189 --> 01:07:07.139
+lights.com and also please consider supporting the show on
+
+1169
+01:07:07.149 --> 01:07:10.189
+Patreon or paypal. I would also like to give
+
+1170
+01:07:10.199 --> 01:07:12.500
+a huge thank you to my main patrons and
+
+1171
+01:07:12.510 --> 01:07:16.719
+paypal supporters, Perera Larson, Jerry Muller and Frederick Suno
+
+1172
+01:07:16.770 --> 01:07:19.840
+Bernard Seche O of Alex Adam Castle Matthew Whitting
+
+1173
+01:07:19.879 --> 01:07:23.120
+B no wolf, Tim Ho Erica LJ Connors, Philip
+
+1174
+01:07:23.129 --> 01:07:26.040
+Forrest Connolly. Then the Met Robert Wine in Nai
+
+1175
+01:07:26.659 --> 01:07:30.639
+Zuk Mar Nevs called Hofi Governor Mikel Stormer Samuel
+
+1176
+01:07:30.840 --> 01:07:34.820
+Andre Francis for Agns Ferger Ken Herz J and
+
+1177
+01:07:35.439 --> 01:07:38.409
+Lain Jung Y and the Samuel K. Hes Mark
+
+1178
+01:07:38.419 --> 01:07:42.260
+Smith, J. Tom Hummel s friends, David Sloan Wilson.
+
+1179
+01:07:42.340 --> 01:07:47.770
+Yasa dear, Roman Roach Diego, Jan Punter, Romani Charlotte
+
+1180
+01:07:47.780 --> 01:07:51.409
+Bli Nico Barba, Adam Hunt, Pavlo Stass Nale Me,
+
+1181
+01:07:51.760 --> 01:07:55.770
+Gary G Alman, Samos, Ari and YPJ Barboza Julian
+
+1182
+01:07:55.780 --> 01:08:00.330
+Price Edward Hall, Eden Broner Douglas Fry Franca, Bela
+
+1183
+01:08:00.810 --> 01:08:07.870
+Gil Cortez Solis Scott Zachary. Ftw Daniel Friedman, William
+
+1184
+01:08:07.879 --> 01:08:12.310
+Buckner, Paul Giorgino, Luke Loki, Georgio Theophano Chris Williams
+
+1185
+01:08:12.320 --> 01:08:16.149
+and Peter Wo David Williams Di A Costa Anton
+
+1186
+01:08:16.160 --> 01:08:20.560
+Erickson Charles Murray, Alex Chao, Marie Martinez, Coralie Chevalier,
+
+1187
+01:08:21.790 --> 01:08:26.520
+Bangalore Fist Dey Junior, Old Eon Starry Michael Bailey.
+
+1188
+01:08:26.529 --> 01:08:30.279
+Then Spur by Robert Grassy Zorn. Jeff mcmahon, Jake
+
+1189
+01:08:30.290 --> 01:08:34.490
+Zul Barnabas Radis Mark Temple, Thomas Dvor Luke Neeson,
+
+1190
+01:08:34.500 --> 01:08:38.890
+Chris to Kimberley Johnson, Benjamin Gilbert Jessica. No, Linda
+
+1191
+01:08:38.899 --> 01:08:44.399
+Brendan Nicholas Carlson Ismael Bensley Man, George Katis Valentine
+
+1192
+01:08:44.410 --> 01:08:50.089
+Steinman, Perlis Kate Van Goler, Alexander Abert Liam Dan
+
+1193
+01:08:50.450 --> 01:08:56.319
+Biar Masoud Ali Mohammadi Perpendicular Janner Urla. Good enough,
+
+1194
+01:08:56.560 --> 01:09:00.209
+Gregory Hastings David Pins of Sean Nelson, Mike Levin
+
+1195
+01:09:00.689 --> 01:09:04.029
+and Jos Net. A special thanks to my producers
+
+1196
+01:09:04.040 --> 01:09:06.899
+is our web, Jim Frank Luca stuffin, Tom Veg
+
+1197
+01:09:06.919 --> 01:09:10.779
+and Bernard N Cortes Dixon Bendik Muller Thomas Trumble,
+
+1198
+01:09:10.830 --> 01:09:14.399
+Catherine and Patrick Tobin, John Carlman Negro, Nick Ortiz
+
+1199
+01:09:14.410 --> 01:09:17.419
+and Nick Golden. And to my executive producers, Matthew
+
+1200
+01:09:17.430 --> 01:09:21.029
+Lavender, Si Adrian Bogdan Knits and Rosie. Thank you
+
+1201
+01:09:21.040 --> 01:09:21.500
+for all.
+

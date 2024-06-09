@@ -1,0 +1,5118 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:03.029
+Hello everybody. Welcome to a new episode of the
+
+2
+00:00:03.079 --> 00:00:06.019
+Center. I'm your host, Ricard Lobs. And today I'm
+
+3
+00:00:06.030 --> 00:00:10.609
+joined by Doctors Andrew Dalton and Talbot Andrews. Doctor
+
+4
+00:00:10.619 --> 00:00:13.239
+Andrew Dalton is a returned guest. He is associate
+
+5
+00:00:13.250 --> 00:00:16.790
+professor in the Department of Political Science, the Center
+
+6
+00:00:16.799 --> 00:00:20.620
+for Behavioral Political Economy and the College of Business
+
+7
+00:00:20.629 --> 00:00:24.950
+at Stony Brook University. And Dr Talbot Andrews is
+
+8
+00:00:24.959 --> 00:00:27.790
+assistant Professor of Political Science at the University of
+
+9
+00:00:27.799 --> 00:00:32.240
+Connecticut. And they are both authors of climate games
+
+10
+00:00:32.250 --> 00:00:38.209
+experiments on how people prevent disaster and uh say
+
+11
+00:00:38.220 --> 00:00:40.990
+something, Doctor Dalton for people to, to see
+
+12
+00:00:41.069 --> 00:00:44.080
+this book. Uh The book just came out. Um
+
+13
+00:00:44.090 --> 00:00:47.880
+It's available on Amazon in both paperback and hardback
+
+14
+00:00:47.889 --> 00:00:50.310
+and you can also get it directly through University
+
+15
+00:00:50.319 --> 00:00:52.970
+of Michigan Press's website. And if you go to
+
+16
+00:00:52.979 --> 00:00:56.040
+their website, uh the book is actually available completely
+
+17
+00:00:56.119 --> 00:00:58.520
+free as a download too. So if you just
+
+18
+00:00:58.529 --> 00:01:00.740
+want an electronic copy of the entire thing, it's
+
+19
+00:01:00.750 --> 00:01:03.139
+a one stop shop, just download it for free.
+
+20
+00:01:03.319 --> 00:01:05.940
+Um And if you go to either my website
+
+21
+00:01:05.949 --> 00:01:08.779
+or Talbot's website, there'll be links. So you don't,
+
+22
+00:01:08.790 --> 00:01:10.809
+don't remember any specifics, you know, just remember one
+
+23
+00:01:10.819 --> 00:01:12.300
+of our names and you can find the book
+
+24
+00:01:12.309 --> 00:01:14.849
+if you decide you're interested in following up after
+
+25
+00:01:14.860 --> 00:01:15.260
+today.
+
+26
+00:01:15.940 --> 00:01:19.029
+Great. So uh I'm leaving links to that in
+
+27
+00:01:19.040 --> 00:01:21.720
+the description down below by the way. So uh
+
+28
+00:01:21.730 --> 00:01:24.809
+to start off with before we get into the
+
+29
+00:01:24.819 --> 00:01:28.970
+sort of game theory slash psychology of all of
+
+30
+00:01:28.980 --> 00:01:32.660
+these, and now tackling climate change is a sort
+
+31
+00:01:32.669 --> 00:01:37.620
+of, let's say global coordinations game. Uh Just to
+
+32
+00:01:37.629 --> 00:01:40.800
+set up the stage, let me ask you first.
+
+33
+00:01:41.339 --> 00:01:45.750
+At what point do we find ourselves uh at
+
+34
+00:01:45.760 --> 00:01:48.360
+right now when it comes to climate change, I,
+
+35
+00:01:48.370 --> 00:01:51.099
+I mean, how much are we into it? And
+
+36
+00:01:51.110 --> 00:01:55.419
+what are some of the worst potential effects and
+
+37
+00:01:55.430 --> 00:01:57.139
+consequences of it?
+
+38
+00:01:58.550 --> 00:02:02.410
+Yeah. So climate change is this huge complicated problem
+
+39
+00:02:02.419 --> 00:02:05.599
+and we're unfortunately already seeing the impacts of climate
+
+40
+00:02:05.610 --> 00:02:09.050
+change. So we're seeing especially more extreme weather, we're
+
+41
+00:02:09.059 --> 00:02:12.570
+seeing more severe hurricane seasons, we're seeing longer and
+
+42
+00:02:12.580 --> 00:02:16.880
+more severe wildfire seasons and as of right now,
+
+43
+00:02:16.889 --> 00:02:19.649
+it's mostly just going to get worse. Um But
+
+44
+00:02:19.660 --> 00:02:22.350
+where we are in fighting climate change is it's
+
+45
+00:02:22.360 --> 00:02:26.490
+no longer just a technological problem. We know how
+
+46
+00:02:26.500 --> 00:02:28.600
+to stop climate change. We have all these tools
+
+47
+00:02:28.610 --> 00:02:31.610
+available to us. The main challenge now is a
+
+48
+00:02:31.619 --> 00:02:34.729
+more political problem. How do we govern and implement
+
+49
+00:02:34.740 --> 00:02:36.940
+all of these different tools that are available to
+
+50
+00:02:36.949 --> 00:02:39.160
+us and that's where our work comes. And so
+
+51
+00:02:39.169 --> 00:02:41.669
+we're specifically interested in the public side of the
+
+52
+00:02:41.679 --> 00:02:45.350
+problem. How do we get everyday people to care
+
+53
+00:02:45.360 --> 00:02:48.479
+about climate change, to spend money, to support these
+
+54
+00:02:48.490 --> 00:02:52.190
+often expensive policies. And how do we design policies
+
+55
+00:02:52.199 --> 00:02:55.320
+that will most get people involved in paying for
+
+56
+00:02:55.330 --> 00:02:57.919
+climate change mitigation and disaster prevention?
+
+57
+00:02:59.339 --> 00:03:01.720
+And so I I mean, we're going to get
+
+58
+00:03:01.729 --> 00:03:04.639
+more into that as we go through the questions
+
+59
+00:03:04.649 --> 00:03:08.820
+here, but just uh give us perhaps a brief,
+
+60
+00:03:08.860 --> 00:03:12.919
+a brief overview of what would be the best
+
+61
+00:03:12.929 --> 00:03:16.649
+solutions that we are that we have available right
+
+62
+00:03:16.660 --> 00:03:19.639
+now. And the uh that are the ones that
+
+63
+00:03:19.649 --> 00:03:23.130
+we would need to implement and convince people to
+
+64
+00:03:23.139 --> 00:03:23.759
+implement.
+
+65
+00:03:24.710 --> 00:03:28.610
+Yeah, unfortunately, there is no one thing that we
+
+66
+00:03:28.619 --> 00:03:31.330
+can do that will totally stop climate change. But
+
+67
+00:03:31.339 --> 00:03:33.490
+thankfully, we have a lot of different tools available
+
+68
+00:03:33.500 --> 00:03:35.940
+to us. So one thing we absolutely have to
+
+69
+00:03:35.949 --> 00:03:38.610
+do is we have to reduce the amount of
+
+70
+00:03:38.619 --> 00:03:41.660
+electricity we generate from burning fossil fuels. We need
+
+71
+00:03:41.669 --> 00:03:45.000
+to be building renewable energy infrastructure like wind power
+
+72
+00:03:45.009 --> 00:03:48.490
+and solar power, but alone, that's not enough. So
+
+73
+00:03:48.500 --> 00:03:50.350
+on top of that, we also need to be
+
+74
+00:03:50.360 --> 00:03:53.550
+building more infrastructure to adapt to the disasters that
+
+75
+00:03:53.559 --> 00:03:56.330
+are already happening. We're already feeling some of these
+
+76
+00:03:56.339 --> 00:03:59.369
+impacts of climate change. Even if we switch to
+
+77
+00:03:59.380 --> 00:04:03.929
+completely fossil fuel free electricity today, we would still
+
+78
+00:04:03.940 --> 00:04:06.570
+face some of those impacts because of inertia in
+
+79
+00:04:06.580 --> 00:04:08.710
+the climate system. So we also need to be
+
+80
+00:04:08.720 --> 00:04:13.169
+investing in climate change adaptation and infrastructure. Uh This
+
+81
+00:04:13.179 --> 00:04:15.580
+one's a little bit more controversial but we probably
+
+82
+00:04:15.589 --> 00:04:18.899
+also need to be investing in technologies to help
+
+83
+00:04:18.910 --> 00:04:22.320
+buy us more time for this transition to renewable
+
+84
+00:04:22.329 --> 00:04:25.399
+energy. So investing in research on different types of
+
+85
+00:04:25.410 --> 00:04:29.420
+geoengineering, so technologies that help either temporarily cool the
+
+86
+00:04:29.429 --> 00:04:32.459
+planet or that help take carbon dioxide out of
+
+87
+00:04:32.470 --> 00:04:35.299
+the atmosphere. This doesn't solve the problem of us
+
+88
+00:04:35.309 --> 00:04:37.779
+still emitting a lot of fossil fuels, but it
+
+89
+00:04:37.790 --> 00:04:39.880
+just buys us some more time before we see
+
+90
+00:04:39.890 --> 00:04:42.220
+the worst impacts of climate change to make that
+
+91
+00:04:42.230 --> 00:04:45.609
+transition. So it's a huge problem and we're going
+
+92
+00:04:45.619 --> 00:04:48.540
+to need a whole collection of different solutions. Some
+
+93
+00:04:48.549 --> 00:04:49.470
+combination of these
+
+94
+00:04:49.480 --> 00:04:54.739
+things amongst the technological solutions, you will uh I
+
+95
+00:04:54.750 --> 00:04:58.320
+mean, they would also include the things like renewable
+
+96
+00:04:58.329 --> 00:05:01.339
+energy and nuclear power, right.
+
+97
+00:05:02.059 --> 00:05:04.500
+Yeah. Anything that will help us reduce the amount
+
+98
+00:05:04.510 --> 00:05:06.230
+of carbon dioxide that we're emitting.
+
+99
+00:05:07.109 --> 00:05:11.000
+Yeah. Uh And by the way, when we're talking
+
+100
+00:05:11.010 --> 00:05:15.190
+about solutions here, what would these solutions be for?
+
+101
+00:05:15.200 --> 00:05:18.950
+I mean, because uh basically what I'm asking you
+
+102
+00:05:18.959 --> 00:05:23.739
+is at this point is climate change still reversible
+
+103
+00:05:23.750 --> 00:05:26.329
+in any way or are we just talking about
+
+104
+00:05:26.339 --> 00:05:29.070
+mitigating climate change?
+
+105
+00:05:29.450 --> 00:05:33.720
+Yeah, so I'm really optimistic about these things. Um
+
+106
+00:05:33.730 --> 00:05:36.019
+I maybe would go a little bit insane studying
+
+107
+00:05:36.029 --> 00:05:37.929
+the problem if I didn't think it was somewhat
+
+108
+00:05:37.940 --> 00:05:41.049
+reversible. But my read of the science at least
+
+109
+00:05:41.059 --> 00:05:42.839
+is that it's on my side that it's not
+
+110
+00:05:42.850 --> 00:05:45.679
+too late to do something, we are certainly going
+
+111
+00:05:45.690 --> 00:05:48.609
+to see some negative impacts and we already are,
+
+112
+00:05:48.619 --> 00:05:51.049
+but we do still have time to reverse some
+
+113
+00:05:51.059 --> 00:05:53.399
+of the worst impacts of climate change. It's just
+
+114
+00:05:53.410 --> 00:05:55.959
+going to take a lot of coordinating a lot
+
+115
+00:05:55.970 --> 00:05:58.329
+of investment to make that happen effectively.
+
+116
+00:05:59.839 --> 00:06:03.739
+And uh so getting into the game theoretical side
+
+117
+00:06:03.750 --> 00:06:06.700
+of things now, why do you call the book
+
+118
+00:06:06.709 --> 00:06:11.190
+Climate Change Global Social Dilemma with the?
+
+119
+00:06:12.130 --> 00:06:15.350
+Yeah, good question. Um So uh the the first
+
+120
+00:06:15.359 --> 00:06:17.609
+thing to understand is the idea of a social
+
+121
+00:06:17.619 --> 00:06:21.070
+dilemma is a huge topic going back decades and
+
+122
+00:06:21.079 --> 00:06:26.524
+decades in political science, sociology, psychology, biology. So one
+
+123
+00:06:26.535 --> 00:06:30.214
+classic example of a social social dilemma is basic
+
+124
+00:06:30.225 --> 00:06:32.584
+law and order in a society. So, you know,
+
+125
+00:06:32.595 --> 00:06:34.915
+it's good for each one of us that we
+
+126
+00:06:34.924 --> 00:06:37.265
+don't have to worry too much that criminals will
+
+127
+00:06:37.274 --> 00:06:39.524
+assault us or that if we're brought before a
+
+128
+00:06:39.535 --> 00:06:42.524
+court, we won't be treated fairly. Um So, you
+
+129
+00:06:42.535 --> 00:06:44.515
+know, basic law and order is good for everybody.
+
+130
+00:06:44.964 --> 00:06:47.434
+But if you think of a fairly large society,
+
+131
+00:06:47.445 --> 00:06:49.165
+like even just, you know, a state in the
+
+132
+00:06:49.174 --> 00:06:50.795
+United States, not in the whole country, there's a
+
+133
+00:06:50.804 --> 00:06:54.649
+state. Um WHEN in order to fund law and
+
+134
+00:06:54.660 --> 00:06:56.760
+order, you know, we think of taxes pay for
+
+135
+00:06:56.769 --> 00:06:59.570
+that but you as an individual citizen, your taxes
+
+136
+00:06:59.579 --> 00:07:02.079
+are a tiny, tiny drop in a pretty large
+
+137
+00:07:02.089 --> 00:07:05.929
+bucket. So even though you benefit because crime is
+
+138
+00:07:05.940 --> 00:07:08.640
+being deterred by the work of police and the
+
+139
+00:07:08.649 --> 00:07:12.350
+court system, um there's really no individual benefit for
+
+140
+00:07:12.359 --> 00:07:14.299
+you in paying your taxes. If you withheld your
+
+141
+00:07:14.309 --> 00:07:18.010
+taxes, you'd have that money. And really the courts
+
+142
+00:07:18.019 --> 00:07:20.850
+would function, the police would function just as before.
+
+143
+00:07:21.329 --> 00:07:23.029
+So it's, you know, that's so, it's, that's why
+
+144
+00:07:23.040 --> 00:07:25.010
+it's called a dilemma. It's a social dilemma because
+
+145
+00:07:25.019 --> 00:07:27.390
+we're all better off when this thing is providing.
+
+146
+00:07:27.609 --> 00:07:30.109
+Um, BUT we, you know, individually, it might make
+
+147
+00:07:30.119 --> 00:07:32.869
+sense if we could somehow shirk uh contributing to
+
+148
+00:07:32.880 --> 00:07:35.260
+it for the kind of social dilemmas like law
+
+149
+00:07:35.269 --> 00:07:38.070
+and order or things like national defense, the, the
+
+150
+00:07:38.079 --> 00:07:40.529
+one, you know, a centralized state like the US
+
+151
+00:07:40.540 --> 00:07:43.130
+government steps in um you know, makes us pay
+
+152
+00:07:43.140 --> 00:07:45.820
+taxes and then, you know, that, that solves that
+
+153
+00:07:45.829 --> 00:07:49.000
+problem in, in that way. So that's a basic
+
+154
+00:07:49.010 --> 00:07:51.339
+social dilemma when it comes to the reason we
+
+155
+00:07:51.350 --> 00:07:54.679
+call um climate change and a mi and emissions,
+
+156
+00:07:54.690 --> 00:07:57.640
+a global social dilemma is they happen, it ha
+
+157
+00:07:57.649 --> 00:08:00.890
+it happens beyond the national borders, emissions that are
+
+158
+00:08:00.899 --> 00:08:03.559
+emitted anywhere in the world are going to affect
+
+159
+00:08:03.570 --> 00:08:06.600
+the entire world. Um So, and, and it's a
+
+160
+00:08:06.609 --> 00:08:08.450
+social dilemma in many of the same ways, you
+
+161
+00:08:08.459 --> 00:08:11.489
+know, everyone would benefit if the climate isn't changed.
+
+162
+00:08:11.649 --> 00:08:14.570
+But if you as an individual, human being, any
+
+163
+00:08:14.579 --> 00:08:17.510
+emissions you make are a high ky drop in
+
+164
+00:08:17.519 --> 00:08:20.630
+a very large bucket. So just like with your
+
+165
+00:08:20.640 --> 00:08:24.399
+taxes and law and order, why bother restricting yourself
+
+166
+00:08:24.410 --> 00:08:27.149
+when it comes to contributing uh emissions that might
+
+167
+00:08:27.160 --> 00:08:30.820
+change the atmosphere. In fact, even some, some, you
+
+168
+00:08:30.829 --> 00:08:33.229
+know, the US is not this way, but some
+
+169
+00:08:33.239 --> 00:08:36.030
+countries are small enough that it really doesn't matter
+
+170
+00:08:36.039 --> 00:08:37.770
+much what they do. Like a pretty small country
+
+171
+00:08:37.780 --> 00:08:40.780
+with a couple 100,000 people. Their choices aren't gonna
+
+172
+00:08:40.789 --> 00:08:43.010
+matter too much compared to huge juggernauts like the
+
+173
+00:08:43.020 --> 00:08:47.200
+US or China. Now, what makes climate change and
+
+174
+00:08:47.210 --> 00:08:50.599
+global, you know, emissions a, a difference from law
+
+175
+00:08:50.609 --> 00:08:53.750
+and order is that there's no centralized government. We
+
+176
+00:08:53.760 --> 00:08:56.070
+don't live under a one world government. So we
+
+177
+00:08:56.080 --> 00:08:59.159
+can't look to, I guess there's no single leviathan
+
+178
+00:08:59.219 --> 00:09:01.830
+that is overseeing us all who can force us
+
+179
+00:09:01.840 --> 00:09:04.349
+to do something that might be beneficial for everybody.
+
+180
+00:09:04.789 --> 00:09:07.250
+Um So what that means is that if we're
+
+181
+00:09:07.260 --> 00:09:09.650
+going to solve a problem, a global social dilemma,
+
+182
+00:09:09.690 --> 00:09:12.750
+it involves independent actors. In this case, the world
+
+183
+00:09:12.760 --> 00:09:15.489
+states or the world's nations working together to, to
+
+184
+00:09:15.500 --> 00:09:19.630
+solve the problem with no one, no one entity
+
+185
+00:09:19.640 --> 00:09:21.669
+who can, you know, make everyone do something they
+
+186
+00:09:21.679 --> 00:09:23.000
+might not otherwise want to do.
+
+187
+00:09:23.630 --> 00:09:27.630
+And I mean, we're probably talking about the largest
+
+188
+00:09:27.640 --> 00:09:32.090
+scale social co ordination problem that we probably have
+
+189
+00:09:32.099 --> 00:09:34.890
+at our, in our hands now right now, right?
+
+190
+00:09:34.900 --> 00:09:37.770
+Because I mean, it would have to involve the
+
+191
+00:09:37.780 --> 00:09:41.299
+entire globe, it would have to be done on
+
+192
+00:09:41.309 --> 00:09:45.500
+a global scale, right? And there's probably nothing bigger
+
+193
+00:09:45.510 --> 00:09:48.219
+than that when it comes to social coordinations,
+
+194
+00:09:48.590 --> 00:09:50.190
+right? Yeah, that's yeah, a lot of what we
+
+195
+00:09:50.200 --> 00:09:52.469
+explore in the book are all the problems that
+
+196
+00:09:52.479 --> 00:09:54.869
+come along with the fact that you're trying to
+
+197
+00:09:54.880 --> 00:09:58.700
+coordinate, you know, people with potentially different interests, different
+
+198
+00:09:58.710 --> 00:10:03.849
+motivations, different sorts of knowledge, different resources um as
+
+199
+00:10:03.859 --> 00:10:05.890
+is, you know, the actual case with the world's
+
+200
+00:10:05.900 --> 00:10:08.489
+countries. Um AND the people in the world. Yeah.
+
+201
+00:10:08.500 --> 00:10:10.460
+So it's a huge, uh you know, one of
+
+202
+00:10:10.469 --> 00:10:12.695
+the more complex kind of social and people have
+
+203
+00:10:12.705 --> 00:10:16.325
+dealt with usually social dilemmas are at best national
+
+204
+00:10:16.335 --> 00:10:18.934
+or maybe subnation or it might be like, how
+
+205
+00:10:18.945 --> 00:10:21.174
+do we manage, you know, the a particular fishery
+
+206
+00:10:21.184 --> 00:10:23.604
+off the uh the coast of Alaska? How do
+
+207
+00:10:23.614 --> 00:10:26.705
+we manage a water supply like the Colorado River,
+
+208
+00:10:26.715 --> 00:10:28.924
+which is already, you know, a challenging enough thing,
+
+209
+00:10:29.025 --> 00:10:30.804
+but this is much, you know, a much bigger
+
+210
+00:10:30.815 --> 00:10:33.215
+scale than any of those kind of uh you
+
+211
+00:10:33.224 --> 00:10:35.804
+know, classic real world examples of a social dilemma.
+
+212
+00:10:36.239 --> 00:10:38.950
+Mhm A and when we get into the economic
+
+213
+00:10:38.960 --> 00:10:41.539
+games, we present in the book, we'll probably come
+
+214
+00:10:41.549 --> 00:10:45.659
+back to uh why doing this at such a
+
+215
+00:10:45.669 --> 00:10:49.369
+scale will is also a complication. But in the
+
+216
+00:10:49.380 --> 00:10:54.210
+book, you get into some strategic challenges of climate
+
+217
+00:10:54.219 --> 00:10:58.599
+change. You talked for example about uncertainty, deciding for
+
+218
+00:10:58.609 --> 00:11:03.289
+others self created disaster, tensions between policymakers and the
+
+219
+00:11:03.299 --> 00:11:05.719
+public. Could you tell us a little bit about
+
+220
+00:11:05.729 --> 00:11:09.000
+that? I mean, what are these challenges and how
+
+221
+00:11:09.010 --> 00:11:11.520
+did you uh come up with them?
+
+222
+00:11:12.229 --> 00:11:13.659
+Yeah. So the, the reason we came up with
+
+223
+00:11:13.669 --> 00:11:17.330
+these um is just, you know, there's many challenges
+
+224
+00:11:17.340 --> 00:11:20.950
+we thought these were ones that were interesting that
+
+225
+00:11:20.960 --> 00:11:23.119
+were and were tractable to study with the kind
+
+226
+00:11:23.130 --> 00:11:25.570
+of tech tools we uh we are experts in
+
+227
+00:11:25.580 --> 00:11:27.919
+using. Uh SO that we're certainly not saying these
+
+228
+00:11:27.929 --> 00:11:30.690
+are just, these are the only challenges uh that
+
+229
+00:11:30.700 --> 00:11:32.380
+are involved in the prom. So one of, one
+
+230
+00:11:32.390 --> 00:11:35.650
+of the, the ones you mentioned is uncertainty. So
+
+231
+00:11:35.700 --> 00:11:39.340
+um the I PC uh IPCC, the Inter uh
+
+232
+00:11:39.359 --> 00:11:42.770
+Intergovernmental Panel on climate change, they regularly release reports
+
+233
+00:11:42.780 --> 00:11:45.380
+where they try to summarize the evidence on various
+
+234
+00:11:45.390 --> 00:11:48.640
+aspects aspects of climate change. Um A few years
+
+235
+00:11:48.650 --> 00:11:50.950
+ago, one of their reports said that they have
+
+236
+00:11:50.960 --> 00:11:55.190
+high confidence that things like tropical cyclones are going
+
+237
+00:11:55.200 --> 00:11:58.330
+to increase but less confidence for other types of
+
+238
+00:11:58.340 --> 00:12:01.080
+precipitation due to climate change. So there's different levels
+
+239
+00:12:01.090 --> 00:12:04.390
+of certainty with various elements of what's gonna happen
+
+240
+00:12:04.549 --> 00:12:07.250
+uh in the climate. And if we don't exactly
+
+241
+00:12:07.260 --> 00:12:09.409
+know what the targets are that we're trying to
+
+242
+00:12:09.419 --> 00:12:11.489
+avoid or things we're trying to hit. So there's
+
+243
+00:12:11.500 --> 00:12:14.880
+also uncertainty and things like how will a potential
+
+244
+00:12:14.890 --> 00:12:17.520
+technology work out if you try to scale it?
+
+245
+00:12:17.530 --> 00:12:20.239
+Like carbon capture and storage? What's you know, what's
+
+246
+00:12:20.250 --> 00:12:22.419
+gonna, what are the upsides or downsides of that?
+
+247
+00:12:22.630 --> 00:12:26.130
+What are the upsides of geoengineering or solar radiation
+
+248
+00:12:26.140 --> 00:12:29.960
+management uh techniques that involve speeding the atmosphere with
+
+249
+00:12:29.969 --> 00:12:32.900
+aerosols? If we're not sure how these things are
+
+250
+00:12:32.909 --> 00:12:34.729
+going to work out or what their effects will
+
+251
+00:12:34.739 --> 00:12:38.880
+be downstream, it's harder for countries to figure out?
+
+252
+00:12:38.890 --> 00:12:40.270
+Well, do I want to support this? Do I
+
+253
+00:12:40.280 --> 00:12:42.369
+not want to support this? Do I care whether
+
+254
+00:12:42.380 --> 00:12:45.030
+other people are going to support this? So, uncertainty
+
+255
+00:12:45.039 --> 00:12:47.659
+is a big problem in figuring out what we
+
+256
+00:12:47.669 --> 00:12:49.450
+should do if I don't know what you're gonna
+
+257
+00:12:49.460 --> 00:12:51.169
+do? How do I know what I should do?
+
+258
+00:12:51.539 --> 00:12:55.840
+Um Another problem that we investigate is deciding for
+
+259
+00:12:55.849 --> 00:12:58.929
+other people. So this is a very common kind
+
+260
+00:12:58.940 --> 00:13:02.909
+of political problem where often decision makers are at
+
+261
+00:13:02.919 --> 00:13:05.510
+a remove uh from the people who are gonna
+
+262
+00:13:05.520 --> 00:13:08.309
+be most affected by their decisions. One example we
+
+263
+00:13:08.320 --> 00:13:11.320
+use in our book is a tiny little island
+
+264
+00:13:11.330 --> 00:13:14.979
+nation called Kiribati. In the Pacific. There's about 100,000
+
+265
+00:13:14.989 --> 00:13:18.919
+people who live on this island country. Um AND
+
+266
+00:13:18.940 --> 00:13:22.270
+various project projections lead to different numbers, but many
+
+267
+00:13:22.280 --> 00:13:25.030
+projections suggest the water is gonna ocean is gonna
+
+268
+00:13:25.039 --> 00:13:28.780
+rise substantially in the vicinity of this island. Several
+
+269
+00:13:28.789 --> 00:13:31.429
+years ago, the World Bank used the island as
+
+270
+00:13:31.440 --> 00:13:33.780
+what they call the demonstration project to try to,
+
+271
+00:13:33.789 --> 00:13:36.690
+you know, to try to show that outside experts
+
+272
+00:13:36.700 --> 00:13:40.630
+investing millions of dollars can help a small country
+
+273
+00:13:40.659 --> 00:13:43.650
+uh avoid disaster. One of the things they did
+
+274
+00:13:43.659 --> 00:13:46.429
+was to help the country build what are called
+
+275
+00:13:46.440 --> 00:13:50.210
+sea walls, essentially walls that help stem the water
+
+276
+00:13:50.219 --> 00:13:53.440
+from, you know, rising water won't get farther inland
+
+277
+00:13:54.359 --> 00:13:56.750
+and it turned out that the sea walls ended
+
+278
+00:13:56.760 --> 00:14:00.784
+up being an embarrassing disaster. Uh Some people in
+
+279
+00:14:00.794 --> 00:14:03.734
+the area called them part of a larger graveyard
+
+280
+00:14:03.744 --> 00:14:07.215
+of short term investments in infrastructure. And at least
+
+281
+00:14:07.224 --> 00:14:09.025
+one of the act, one of the reasons people
+
+282
+00:14:09.034 --> 00:14:12.215
+thought they turned out so poorly is because they
+
+283
+00:14:12.224 --> 00:14:14.625
+were spearheaded to, to a large degree by people
+
+284
+00:14:14.635 --> 00:14:18.315
+who were remote, at a distant distant advisors. Uh
+
+285
+00:14:18.325 --> 00:14:21.085
+Not just not, you know, we didn't have a
+
+286
+00:14:21.094 --> 00:14:24.255
+full understanding of what local people wanted or how
+
+287
+00:14:24.265 --> 00:14:27.070
+to deal with the local environment. Uh So, you
+
+288
+00:14:27.080 --> 00:14:29.190
+know, that's just an example of this larger political
+
+289
+00:14:29.200 --> 00:14:32.520
+problem. Outsiders often don't have the same knowledge or
+
+290
+00:14:32.530 --> 00:14:35.219
+motivations of the people who are local. Um YOU
+
+291
+00:14:35.229 --> 00:14:37.059
+know, people who are working at the World Bank,
+
+292
+00:14:37.340 --> 00:14:40.260
+they wanna help Kiribati, but they also have the
+
+293
+00:14:40.270 --> 00:14:42.590
+funders and the bosses above them who are even
+
+294
+00:14:42.599 --> 00:14:45.419
+more remote and who maybe are pulling them in
+
+295
+00:14:45.429 --> 00:14:48.530
+different directions. And this is, you know, a general
+
+296
+00:14:48.539 --> 00:14:52.239
+problem with climate change because often many important decisions
+
+297
+00:14:52.250 --> 00:14:55.669
+will be made by people who are not especially
+
+298
+00:14:55.679 --> 00:14:59.650
+um affected by the potential for disaster. So people
+
+299
+00:14:59.679 --> 00:15:02.479
+in rich, you know, industrial countries will make a
+
+300
+00:15:02.489 --> 00:15:04.960
+lot of important choices. But it turns out it's
+
+301
+00:15:04.969 --> 00:15:08.539
+people in, you know, poor developing countries that face
+
+302
+00:15:08.549 --> 00:15:12.750
+larger risk of disaster. And of course many important
+
+303
+00:15:12.760 --> 00:15:15.349
+decisions will be made by people who are alive
+
+304
+00:15:15.359 --> 00:15:18.349
+right now. Uh But it's gonna be mostly people
+
+305
+00:15:18.359 --> 00:15:20.799
+in the future who are affected. Um So that's,
+
+306
+00:15:20.809 --> 00:15:22.669
+you know, this, this general problem of you know,
+
+307
+00:15:22.679 --> 00:15:24.590
+how do we make good decisions? Can we make
+
+308
+00:15:24.599 --> 00:15:27.099
+good decisions when those of us who are making
+
+309
+00:15:27.109 --> 00:15:29.719
+these decisions, aren't the people most affected by them?
+
+310
+00:15:31.270 --> 00:15:34.130
+Uh So let me just ask you one question
+
+311
+00:15:34.140 --> 00:15:37.409
+about, uh I guess that this would fit into
+
+312
+00:15:37.419 --> 00:15:40.669
+uncertainty but when it comes to the fact that
+
+313
+00:15:40.869 --> 00:15:45.409
+it's very hard for us, at least intuitively to
+
+314
+00:15:45.419 --> 00:15:51.465
+connect uh gas emissions with uh climate change or,
+
+315
+00:15:51.474 --> 00:15:54.585
+or to climate change. Does uh would that fall
+
+316
+00:15:54.594 --> 00:15:57.494
+into uncertainty? I mean, because uh for people who
+
+317
+00:15:57.505 --> 00:16:02.594
+are not scientifically literate, it's really, really hard for
+
+318
+00:16:02.604 --> 00:16:07.364
+them to understand how would that connection work? Would
+
+319
+00:16:07.375 --> 00:16:09.705
+that also play out here or not?
+
+320
+00:16:11.469 --> 00:16:12.750
+Yeah, I think so. I think that, yeah, I
+
+321
+00:16:12.760 --> 00:16:15.200
+think that would tie into the same theme of
+
+322
+00:16:15.210 --> 00:16:18.190
+uncertainty. There's all, there's all sorts of uncertainty, there's
+
+323
+00:16:18.200 --> 00:16:22.010
+uncertainty in what, how is what we're doing now
+
+324
+00:16:22.020 --> 00:16:24.969
+affecting the climate, how are technologies we could roll
+
+325
+00:16:24.979 --> 00:16:28.130
+out? How do those affect the climate? Um How
+
+326
+00:16:28.140 --> 00:16:30.859
+does economic choices we make? How are those going
+
+327
+00:16:30.869 --> 00:16:33.929
+to affect living standard? Um And so there's also
+
+328
+00:16:33.940 --> 00:16:37.239
+a balancing act between um you know, making good
+
+329
+00:16:37.250 --> 00:16:39.909
+choices uh that, that aren't going, you know, you,
+
+330
+00:16:40.270 --> 00:16:42.169
+you're not trying, you don't want to impoverish people
+
+331
+00:16:42.179 --> 00:16:44.289
+because that's, that, that's kind of defeating the purpose
+
+332
+00:16:44.299 --> 00:16:47.080
+of solving the problem. Um So there's uncertainty all
+
+333
+00:16:47.090 --> 00:16:48.159
+the way, I guess, I think we used the
+
+334
+00:16:48.169 --> 00:16:50.330
+phrase multiple times in the book, uncertainty all the
+
+335
+00:16:50.340 --> 00:16:52.369
+way down about a lot of these things.
+
+336
+00:16:53.690 --> 00:16:57.789
+And so why did you decide to focus specifically
+
+337
+00:16:57.799 --> 00:17:02.080
+on economic games in the book? What kinds of
+
+338
+00:17:02.090 --> 00:17:05.608
+knowledge can we get from those types of games
+
+339
+00:17:05.618 --> 00:17:09.890
+that would be relevant for a co ordination problems
+
+340
+00:17:09.900 --> 00:17:11.589
+such as climate change?
+
+341
+00:17:12.160 --> 00:17:13.739
+Yeah. So what you know, one thing we, we
+
+342
+00:17:13.750 --> 00:17:15.959
+want to make very clear is we're behavioral scientists.
+
+343
+00:17:15.969 --> 00:17:18.900
+So we're not people who are crunching the numbers
+
+344
+00:17:18.910 --> 00:17:22.510
+on major economic policy uh policies. We're not the
+
+345
+00:17:22.520 --> 00:17:26.630
+ones who are directly designing uh uh technology for
+
+346
+00:17:26.640 --> 00:17:29.780
+engaging in carbon capture and storage. So what we
+
+347
+00:17:29.790 --> 00:17:32.619
+study is how people think and we want to
+
+348
+00:17:32.630 --> 00:17:34.920
+study how people think about the problems of climate
+
+349
+00:17:34.930 --> 00:17:37.895
+change. There's lots of tools that we use other
+
+350
+00:17:37.905 --> 00:17:40.464
+social sciences use to study how people think about
+
+351
+00:17:40.474 --> 00:17:44.645
+political issues, things like survey experiments or public opinion
+
+352
+00:17:44.655 --> 00:17:47.645
+polling or focus groups. Uh What we want to
+
+353
+00:17:47.655 --> 00:17:50.685
+do is use our comparative advantage. So our research
+
+354
+00:17:50.694 --> 00:17:54.405
+team uh myself Talbot and our co-author uh Ruben
+
+355
+00:17:54.415 --> 00:17:57.094
+Klein, who couldn't be here today. Um All of
+
+356
+00:17:57.104 --> 00:17:59.045
+what what all of us do is in addition
+
+357
+00:17:59.055 --> 00:18:01.525
+to other kinds of techniques we use uh experimental
+
+358
+00:18:01.535 --> 00:18:04.569
+economic games. So the basic idea of these things,
+
+359
+00:18:04.579 --> 00:18:07.459
+it's really simple. What you're trying to do is
+
+360
+00:18:07.469 --> 00:18:11.369
+to simulate in a laboratory, the kinds of strategic
+
+361
+00:18:11.380 --> 00:18:14.520
+problems people and politicians face out there in the
+
+362
+00:18:14.530 --> 00:18:17.349
+real world, but you do it in a laboratory
+
+363
+00:18:17.359 --> 00:18:19.890
+and in a way that makes it really transparent
+
+364
+00:18:19.900 --> 00:18:23.380
+to the researcher. So basically, it's you, it's called
+
+365
+00:18:23.390 --> 00:18:25.430
+a game for a reason. You're literally given a
+
+366
+00:18:25.439 --> 00:18:29.000
+series of rules and you can make choices within
+
+367
+00:18:29.010 --> 00:18:31.589
+these rules that affect how much money you and
+
+368
+00:18:31.599 --> 00:18:34.369
+other people earn. So one of the classic games
+
+369
+00:18:34.380 --> 00:18:36.650
+in this, I'll get two quick examples. One of
+
+370
+00:18:36.660 --> 00:18:38.719
+the classic games that maybe uh many of your
+
+371
+00:18:38.729 --> 00:18:41.410
+listeners are familiar with is called the dictator game
+
+372
+00:18:41.869 --> 00:18:44.310
+in the dictator game. Um We might, if I
+
+373
+00:18:44.319 --> 00:18:46.989
+was the researcher, I might pair you and tal
+
+374
+00:18:47.160 --> 00:18:50.449
+it up anonymously through a computer network, randomly pick
+
+375
+00:18:50.459 --> 00:18:53.569
+one of you give you $10 and say you
+
+376
+00:18:53.579 --> 00:18:56.050
+can divide this $10 any way you want between
+
+377
+00:18:56.060 --> 00:18:58.890
+yourself and the other anonymous player. And that's the
+
+378
+00:18:58.900 --> 00:19:02.319
+simplest possible uh game that people typically study, you
+
+379
+00:19:02.329 --> 00:19:03.979
+know, how would you divide a fixed sum of
+
+380
+00:19:03.989 --> 00:19:06.489
+money and then one. So that's, that's it. We
+
+381
+00:19:06.500 --> 00:19:08.219
+can see what would you do. So if you
+
+382
+00:19:08.229 --> 00:19:10.859
+give a lot, we might infer that you're generous
+
+383
+00:19:10.869 --> 00:19:13.339
+or that you're reversed to inequality or if you
+
+384
+00:19:13.349 --> 00:19:15.290
+keep a lot, we might infer the opposite that
+
+385
+00:19:15.300 --> 00:19:18.280
+you're stingy or that you're happy with inequality, things
+
+386
+00:19:18.290 --> 00:19:20.520
+of that nature. And then to make it just
+
+387
+00:19:20.530 --> 00:19:22.630
+a little bit more complicated, a variation on that
+
+388
+00:19:22.640 --> 00:19:26.619
+game uh called the ultimatum game simulates bargaining. So
+
+389
+00:19:26.630 --> 00:19:29.689
+that one's very similar. So in, but instead of
+
+390
+00:19:29.699 --> 00:19:32.599
+you Ricardo making a, a decision all on your
+
+391
+00:19:32.609 --> 00:19:36.069
+own. You make a proposal essentially an ultimatum to
+
+392
+00:19:36.079 --> 00:19:38.250
+Talbot. Uh So you might say out of this
+
+393
+00:19:38.260 --> 00:19:41.510
+$10 Talbot, I'm gonna give you $1 and keep
+
+394
+00:19:41.520 --> 00:19:43.810
+nine. And again, this is usually anonymous, but I'll
+
+395
+00:19:43.819 --> 00:19:46.949
+use people's names. So Talbot then considers that proposal
+
+396
+00:19:47.060 --> 00:19:50.869
+and she might decide. Um, WELL, no, thanks. She
+
+397
+00:19:50.880 --> 00:19:53.979
+rejects your proposal. And in that case, uh what
+
+398
+00:19:53.989 --> 00:19:56.050
+happens is essentially the money, you know, bursts in
+
+399
+00:19:56.060 --> 00:19:58.420
+the fire and disappears. So no one gets anything.
+
+400
+00:19:58.520 --> 00:20:00.329
+So if you Ricardo don't make a, a uh
+
+401
+00:20:00.339 --> 00:20:04.170
+a proposal that Talbot's willing to accept, no one
+
+402
+00:20:04.180 --> 00:20:06.829
+gets anything. Uh And so that's designed to simulate
+
+403
+00:20:06.839 --> 00:20:09.910
+kind of a high stakes one shot bargaining situation.
+
+404
+00:20:10.979 --> 00:20:13.359
+So the benefit of this. So, you know, that
+
+405
+00:20:13.369 --> 00:20:15.160
+we and we'll come to the games we, we
+
+406
+00:20:15.170 --> 00:20:17.140
+tended to use. But again, the benefit is by
+
+407
+00:20:17.150 --> 00:20:21.109
+making these things really concrete and very transparent to
+
+408
+00:20:21.119 --> 00:20:24.560
+the researchers, we can try to understand uh very
+
+409
+00:20:24.569 --> 00:20:26.930
+what you all are doing. The problem is if
+
+410
+00:20:26.939 --> 00:20:28.829
+we try to just look at the real world
+
+411
+00:20:28.839 --> 00:20:31.060
+now, that's important. Many me, you know, a lot
+
+412
+00:20:31.069 --> 00:20:33.439
+of useful research does that, but the problem with
+
+413
+00:20:33.449 --> 00:20:36.286
+the real world is we don't know all the
+
+414
+00:20:36.296 --> 00:20:40.026
+rules, all the institutions, all the constraints, all the
+
+415
+00:20:40.036 --> 00:20:42.836
+material incentives or other types of incentives that people
+
+416
+00:20:42.845 --> 00:20:45.995
+face like a real president making some decision about,
+
+417
+00:20:46.005 --> 00:20:49.176
+say going to war. We don't know what intelligence
+
+418
+00:20:49.186 --> 00:20:52.015
+the president had privy to, we don't know what
+
+419
+00:20:52.026 --> 00:20:54.546
+kinds of pressure groups we're putting the most behind
+
+420
+00:20:54.556 --> 00:20:57.232
+the scenes, you know, pressure on them, all sorts
+
+421
+00:20:57.241 --> 00:20:59.291
+of things. We might not know that led to
+
+422
+00:20:59.302 --> 00:21:01.312
+their decision. So it's important to, you know, to
+
+423
+00:21:01.322 --> 00:21:04.891
+understand how real presidents make decisions, how real policymakers
+
+424
+00:21:04.901 --> 00:21:08.511
+make decisions. But we like these games because you
+
+425
+00:21:08.521 --> 00:21:11.352
+can really dig in and see exactly how people
+
+426
+00:21:11.362 --> 00:21:14.751
+respond to problems that you as a researcher create.
+
+427
+00:21:14.761 --> 00:21:17.761
+So you know, everything about the little world that
+
+428
+00:21:17.771 --> 00:21:19.552
+your research participants are facing.
+
+429
+00:21:20.640 --> 00:21:23.609
+But just before we get into the specific kinds
+
+430
+00:21:23.619 --> 00:21:26.599
+of games you explore in the book, there's perhaps
+
+431
+00:21:26.609 --> 00:21:30.160
+two sets of important questions here. So the first
+
+432
+00:21:30.170 --> 00:21:34.619
+one is um I mean, what are the limitations
+
+433
+00:21:34.630 --> 00:21:38.479
+of these games in terms of how much should
+
+434
+00:21:38.489 --> 00:21:43.849
+we expect them to really translate into real life?
+
+435
+00:21:43.859 --> 00:21:46.310
+Right? I mean, because there's all, there's always the
+
+436
+00:21:46.319 --> 00:21:50.510
+issue when we study things in the lab that
+
+437
+00:21:50.520 --> 00:21:56.130
+they might not have uh much ecological validity, let's
+
+438
+00:21:56.140 --> 00:21:59.650
+say that they wouldn't work the same way uh
+
+439
+00:21:59.660 --> 00:22:03.949
+outside of the lab in an ecologically valid uh
+
+440
+00:22:03.959 --> 00:22:08.119
+setting, let's say. So, I mean, to what extent
+
+441
+00:22:08.130 --> 00:22:11.010
+does that criticism apply here?
+
+442
+00:22:11.280 --> 00:22:13.469
+Yeah, so there's kind of two types of data
+
+443
+00:22:13.479 --> 00:22:15.069
+that I I would point to. So of course,
+
+444
+00:22:15.079 --> 00:22:18.180
+that's a reasonable worry, very reasonable worry. One type
+
+445
+00:22:18.189 --> 00:22:20.790
+of data I would point to is a an
+
+446
+00:22:20.800 --> 00:22:23.699
+obvious concern you might have is uh you know,
+
+447
+00:22:23.709 --> 00:22:27.290
+I use an example of $10. Now, almost any
+
+448
+00:22:27.300 --> 00:22:29.989
+real world political problem that we care about has
+
+449
+00:22:30.000 --> 00:22:33.430
+stakes much bigger than $10. So you might worry
+
+450
+00:22:33.439 --> 00:22:36.050
+that these games because the stake sizes are gonna
+
+451
+00:22:36.060 --> 00:22:38.109
+be relatively small on the order of a few
+
+452
+00:22:38.119 --> 00:22:41.780
+dollars, $10.20 dollars, uh, that they don't, might not
+
+453
+00:22:41.859 --> 00:22:45.099
+tell us anything. So, researchers actually have tested that.
+
+454
+00:22:45.359 --> 00:22:47.959
+Um, SOMETIMES, you know, researchers with lots of money
+
+455
+00:22:47.969 --> 00:22:50.819
+have put pretty big stakes on the line and
+
+456
+00:22:50.829 --> 00:22:55.000
+you find um not ex not quantitatively identical results,
+
+457
+00:22:55.010 --> 00:22:57.369
+but people play the game pretty much the same
+
+458
+00:22:57.380 --> 00:23:00.199
+way, even if the stake sizes are, are dramatically
+
+459
+00:23:00.209 --> 00:23:03.219
+a larger, like some great examples of this come
+
+460
+00:23:03.229 --> 00:23:06.479
+from work uh by anthropologists who took game like
+
+461
+00:23:06.489 --> 00:23:08.579
+the ultimatum game and the dictator game around the
+
+462
+00:23:08.589 --> 00:23:12.229
+world. And if you're from a, you know, relatively
+
+463
+00:23:12.239 --> 00:23:15.930
+rich industrialized society yourself with reasonable grant money and
+
+464
+00:23:15.939 --> 00:23:18.880
+you go to a small scale forging or horticulturalist
+
+465
+00:23:18.890 --> 00:23:22.010
+society, the kind of money you have available, you're
+
+466
+00:23:22.020 --> 00:23:24.869
+able to pay what for them might represent the
+
+467
+00:23:24.880 --> 00:23:27.479
+wages they would earn over a week or even
+
+468
+00:23:27.489 --> 00:23:30.050
+a month for a single brief session of these
+
+469
+00:23:30.060 --> 00:23:33.500
+games. When anthropologists do that, they tend to find
+
+470
+00:23:33.510 --> 00:23:37.680
+some quanti quantitative variation uh society from society, but
+
+471
+00:23:37.689 --> 00:23:40.380
+broadly speaking, like in the dictator game, um you,
+
+472
+00:23:40.390 --> 00:23:43.369
+you tend to find that across huge changes in
+
+473
+00:23:43.380 --> 00:23:45.770
+the type of ecology, the type of the place
+
+474
+00:23:45.780 --> 00:23:47.780
+in the world people are living, they tend to
+
+475
+00:23:47.790 --> 00:23:51.449
+give away 25% to 50% of the stake. Um
+
+476
+00:23:51.459 --> 00:23:53.469
+So they tend to kind of a narrow range
+
+477
+00:23:53.479 --> 00:23:55.449
+they give and again, that's like with a huge
+
+478
+00:23:55.459 --> 00:23:57.359
+amount of money, sometimes a week or a month
+
+479
+00:23:57.369 --> 00:24:00.089
+of wages on the line. Um Another way you
+
+480
+00:24:00.099 --> 00:24:02.550
+could look at like, well, do, what do these
+
+481
+00:24:02.560 --> 00:24:06.689
+games capture particularly for our purposes? Lay people like
+
+482
+00:24:06.699 --> 00:24:10.079
+the people who are normal experimental participants, random people
+
+483
+00:24:10.089 --> 00:24:13.579
+who are willing to participate online or ST undergraduates
+
+484
+00:24:13.589 --> 00:24:16.449
+at a university, they're not the people who are
+
+485
+00:24:16.459 --> 00:24:19.380
+in the room when governments make big decisions, right?
+
+486
+00:24:19.390 --> 00:24:22.420
+So you might worry that lay people don't behave
+
+487
+00:24:22.430 --> 00:24:25.900
+like politicians. Uh But other political scientists have taken
+
+488
+00:24:25.910 --> 00:24:28.239
+the gains similar to the ones I've been talking
+
+489
+00:24:28.250 --> 00:24:30.900
+about or other kind of decision tasks that, you
+
+490
+00:24:30.910 --> 00:24:34.640
+know, um that psychologists have studied for decades on,
+
+491
+00:24:34.650 --> 00:24:38.020
+on lay people and have asked various samples of
+
+492
+00:24:38.030 --> 00:24:41.459
+actual politicians to play these games or other people
+
+493
+00:24:41.469 --> 00:24:43.834
+who are uh elites in some way or another,
+
+494
+00:24:43.844 --> 00:24:46.535
+maybe not politicians themselves, but people who might have
+
+495
+00:24:46.545 --> 00:24:48.734
+worked at the state department or worked in major
+
+496
+00:24:48.744 --> 00:24:51.484
+corporations. And when you do this, you also, you
+
+497
+00:24:51.494 --> 00:24:53.694
+find that these people tend to play the game
+
+498
+00:24:53.704 --> 00:24:57.935
+again, not literally identically with laypeople but broadly in
+
+499
+00:24:57.944 --> 00:24:59.844
+the same way. Um So if you, you know,
+
+500
+00:24:59.854 --> 00:25:03.025
+if you drive, you Ricardo a layperson, drive a
+
+501
+00:25:03.035 --> 00:25:05.324
+hard bargain and most people might drive a hard
+
+502
+00:25:05.334 --> 00:25:07.834
+bargain, then these elites will drive a hard bargain
+
+503
+00:25:08.025 --> 00:25:11.069
+in a similarly constructed game. So those are kind
+
+504
+00:25:11.079 --> 00:25:12.780
+of two kinds of evidence. I would point to
+
+505
+00:25:12.790 --> 00:25:16.719
+that suggest um these games are to the typical
+
+506
+00:25:16.729 --> 00:25:19.920
+way these games are played for laypeople playing for
+
+507
+00:25:19.930 --> 00:25:23.930
+smallish stakes are still likely to capture um at
+
+508
+00:25:23.939 --> 00:25:26.260
+least some important elements about the real world. One
+
+509
+00:25:26.270 --> 00:25:28.410
+thing you that it is more difficult to create
+
+510
+00:25:28.420 --> 00:25:31.000
+in the game just real briefly would be to
+
+511
+00:25:31.010 --> 00:25:34.410
+create long term identities that are important to people.
+
+512
+00:25:34.449 --> 00:25:36.829
+I can't tell people to just suddenly be a
+
+513
+00:25:36.839 --> 00:25:40.219
+Democrat or be a Republican when playing my game,
+
+514
+00:25:40.229 --> 00:25:42.069
+if that's not who they are in real life,
+
+515
+00:25:42.079 --> 00:25:45.020
+right? Uh So those kind of issues are, are
+
+516
+00:25:45.030 --> 00:25:48.300
+difficult to experimentally create. Although of course, you can
+
+517
+00:25:48.310 --> 00:25:50.319
+bring in Democrats and see how they play or
+
+518
+00:25:50.329 --> 00:25:53.380
+bring in Republicans, but you can't easily create these
+
+519
+00:25:53.390 --> 00:25:56.050
+long term enduring identities in a game or like
+
+520
+00:25:56.060 --> 00:25:59.380
+nationalities. Of course. So if you're interested in that,
+
+521
+00:25:59.390 --> 00:26:01.140
+you can, you can study people, but you can't
+
+522
+00:26:01.150 --> 00:26:03.900
+exactly create that in the same way, we can
+
+523
+00:26:03.910 --> 00:26:08.150
+create a similar acronym of trying to cooper uh
+
+524
+00:26:08.160 --> 00:26:10.180
+for mutual benefits. So I think those are, you
+
+525
+00:26:10.189 --> 00:26:11.969
+know, those are there are, you know, this is
+
+526
+00:26:11.979 --> 00:26:14.109
+why we shouldn't, we're not saying you should only
+
+527
+00:26:14.119 --> 00:26:16.310
+use games. It's just this one source of data
+
+528
+00:26:16.510 --> 00:26:18.829
+that, you know, we think that's our comparative advantage
+
+529
+00:26:18.839 --> 00:26:21.369
+here is to use that to understand how climate
+
+530
+00:26:21.410 --> 00:26:22.790
+uh people think about the climate.
+
+531
+00:26:23.849 --> 00:26:26.630
+Uh But then, uh I mean, to what extent
+
+532
+00:26:26.640 --> 00:26:30.310
+should we expect the results of these games to
+
+533
+00:26:30.609 --> 00:26:34.589
+uh scale up in the sense that they would
+
+534
+00:26:34.599 --> 00:26:38.390
+apply to? Uh I mean, in this case, a
+
+535
+00:26:38.400 --> 00:26:42.329
+global, potentially a global scale because that's the scale
+
+536
+00:26:42.339 --> 00:26:45.849
+we're talking about here uh be because I mean,
+
+537
+00:26:45.859 --> 00:26:50.030
+you mentioned for example, politicians and also regular people,
+
+538
+00:26:50.040 --> 00:26:54.989
+but we need both and ideally the entire world
+
+539
+00:26:55.000 --> 00:26:58.349
+in the sort of coordinations game. So uh to
+
+540
+00:26:58.359 --> 00:27:02.119
+what extent can we say that for example, the
+
+541
+00:27:02.130 --> 00:27:06.670
+results we get from uh making people play these
+
+542
+00:27:06.680 --> 00:27:09.880
+games in the lab and in different kinds of
+
+543
+00:27:09.890 --> 00:27:14.910
+controlled settings would uh scale up, let's say,
+
+544
+00:27:16.689 --> 00:27:18.750
+yeah. So I, I think what I would say
+
+545
+00:27:18.760 --> 00:27:22.829
+about this is the mechanisms that we observe in
+
+546
+00:27:22.839 --> 00:27:25.949
+the lab, we believe persist outside of the lab.
+
+547
+00:27:26.390 --> 00:27:29.130
+But there are all sorts of other mechanisms that
+
+548
+00:27:29.140 --> 00:27:31.560
+we're holding constant within the lab that are then
+
+549
+00:27:31.569 --> 00:27:33.790
+operating outside of the lab. And so I I
+
+550
+00:27:33.800 --> 00:27:35.989
+think that the things we observe and the insights
+
+551
+00:27:36.000 --> 00:27:39.359
+that we find are real and they persist. The
+
+552
+00:27:39.369 --> 00:27:42.449
+more complicated question is how do they interact with
+
+553
+00:27:42.459 --> 00:27:44.449
+the other things happening in the world that might
+
+554
+00:27:44.459 --> 00:27:47.459
+shape that behavior? Um But so one example of
+
+555
+00:27:47.469 --> 00:27:50.079
+this in some of my own ongoing work, I'm
+
+556
+00:27:50.089 --> 00:27:52.719
+now asking people to contribute real money, not to
+
+557
+00:27:52.729 --> 00:27:56.709
+prevent simulated disaster, but to contribute real money to
+
+558
+00:27:56.719 --> 00:28:00.430
+actual charities after disaster to engage in that kind
+
+559
+00:28:00.439 --> 00:28:03.015
+of relief in the insights that we find from
+
+560
+00:28:03.025 --> 00:28:06.744
+the book are persisting outside of the lab. And
+
+561
+00:28:06.755 --> 00:28:10.135
+so not only would we say you shouldn't only
+
+562
+00:28:10.145 --> 00:28:12.744
+do econ games, but we as researchers are also
+
+563
+00:28:12.755 --> 00:28:16.305
+engaged in taking those insights to other methods and
+
+564
+00:28:16.314 --> 00:28:18.885
+are observing that those mechanisms are still working.
+
+565
+00:28:20.469 --> 00:28:24.290
+And which kinds of specific economic games do you
+
+566
+00:28:24.300 --> 00:28:28.680
+think better capture the aspects of social coordinations that
+
+567
+00:28:28.689 --> 00:28:32.170
+are most relevant to solving climate change?
+
+568
+00:28:33.160 --> 00:28:37.060
+Yeah. So we we specifically rely on a threshold
+
+569
+00:28:37.069 --> 00:28:39.500
+public goods game, we call it the disaster game.
+
+570
+00:28:39.510 --> 00:28:41.239
+And uh we'll talk a little bit more about
+
+571
+00:28:41.250 --> 00:28:44.150
+that in a minute. Um But to use a
+
+572
+00:28:44.160 --> 00:28:47.640
+pretty famous quote that I love very much, all
+
+573
+00:28:47.650 --> 00:28:50.920
+models are wrong, but some models are useful from
+
+574
+00:28:50.930 --> 00:28:54.410
+George Box, right? So kind change is a huge
+
+575
+00:28:54.420 --> 00:28:57.839
+complicated problem and we are specifically interested in the
+
+576
+00:28:57.849 --> 00:29:00.890
+social dilemma nature of climate change and how do
+
+577
+00:29:00.900 --> 00:29:03.780
+we get people to contribute despite there being an
+
+578
+00:29:03.790 --> 00:29:07.390
+incentive to free ride off of everybody else's contributions.
+
+579
+00:29:07.589 --> 00:29:10.609
+So in this case, a modified public goods game
+
+580
+00:29:10.619 --> 00:29:14.390
+makes sense because it captures that social dilemma. But
+
+581
+00:29:14.400 --> 00:29:17.489
+there are other dimensions of the climate problem that
+
+582
+00:29:17.500 --> 00:29:20.910
+could be modeled with very different types of experiments
+
+583
+00:29:20.920 --> 00:29:22.800
+that I think would also give us insights into
+
+584
+00:29:22.810 --> 00:29:25.979
+the problem. So for example, other people have brought
+
+585
+00:29:25.989 --> 00:29:29.839
+up that climate change is also a distributive problem
+
+586
+00:29:29.849 --> 00:29:32.819
+who's going to pay for climate change and also
+
+587
+00:29:32.829 --> 00:29:35.770
+who's going to benefit from climate change, climate change
+
+588
+00:29:35.780 --> 00:29:39.739
+mitigation isn't just costly. It also creates all sorts
+
+589
+00:29:39.750 --> 00:29:41.640
+of benefits for all sorts of different types of
+
+590
+00:29:41.650 --> 00:29:45.380
+people. And so there's room for very, very different
+
+591
+00:29:45.390 --> 00:29:47.910
+types of games that could also give us insights
+
+592
+00:29:47.920 --> 00:29:50.010
+into the problem just because the scale of the
+
+593
+00:29:50.020 --> 00:29:51.219
+problem is so big.
+
+594
+00:29:52.800 --> 00:29:57.630
+And so let's perhaps explore some of the specific
+
+595
+00:29:57.640 --> 00:30:01.260
+kinds of issues that these games could apply to.
+
+596
+00:30:01.270 --> 00:30:04.420
+And I mean, the different kinds of factors that
+
+597
+00:30:04.430 --> 00:30:07.869
+play a role in how we coordinate our behaviors
+
+598
+00:30:07.880 --> 00:30:11.310
+when it comes to tackling climate change. So uh
+
+599
+00:30:11.319 --> 00:30:13.979
+in the book, at a certain point, you talk
+
+600
+00:30:13.989 --> 00:30:18.119
+about how we can use the disaster game specifically
+
+601
+00:30:18.130 --> 00:30:22.050
+to study how people respond to different technologies to
+
+602
+00:30:22.060 --> 00:30:26.515
+stop climate change. So, uh I mean, could you
+
+603
+00:30:26.525 --> 00:30:30.035
+tell us a little bit about that, which factors
+
+604
+00:30:30.045 --> 00:30:34.114
+play a role in this specific case and what
+
+605
+00:30:34.125 --> 00:30:37.265
+tend to be the kinds of reactions that people
+
+606
+00:30:37.484 --> 00:30:40.854
+uh have to this kind of game
+
+607
+00:30:40.864 --> 00:30:42.814
+here? Sure, tell me, do you want to lead
+
+608
+00:30:42.824 --> 00:30:45.314
+us through the basic game? And I'll take on
+
+609
+00:30:45.324 --> 00:30:47.984
+like how one of the earlier studies we did
+
+610
+00:30:47.994 --> 00:30:48.795
+on technology?
+
+611
+00:30:49.369 --> 00:30:51.530
+Yeah. So just to give you a foundation of
+
+612
+00:30:51.540 --> 00:30:54.310
+what does the disaster game look like, um the
+
+613
+00:30:54.319 --> 00:30:57.189
+way it works is that players are in groups
+
+614
+00:30:57.199 --> 00:30:59.989
+of 4 to 6 people depending on the experiment.
+
+615
+00:31:00.369 --> 00:31:04.079
+Uh And together, they face an oncoming simulated disaster
+
+616
+00:31:04.089 --> 00:31:06.770
+that's going to destroy their money that they have
+
+617
+00:31:06.780 --> 00:31:09.310
+at the start of the game. They have to
+
+618
+00:31:09.319 --> 00:31:13.420
+simultaneously uh decide whether and how much they're going
+
+619
+00:31:13.430 --> 00:31:17.439
+to contribute to disaster prevention. If together they contribute
+
+620
+00:31:17.449 --> 00:31:20.400
+enough, then disaster stopped. They get to keep the
+
+621
+00:31:20.410 --> 00:31:24.199
+remaining money. Um If they don't contribute enough disaster,
+
+622
+00:31:24.209 --> 00:31:27.060
+still strikes. And either way, whatever they've contributed to
+
+623
+00:31:27.069 --> 00:31:31.079
+disaster prevention is gone forever. So the basics of
+
+624
+00:31:31.089 --> 00:31:34.599
+this game captures two of the most important dimensions
+
+625
+00:31:34.609 --> 00:31:37.020
+of the climate problem. So first, it's a social
+
+626
+00:31:37.030 --> 00:31:40.719
+dilemma, everybody's better off if they contribute enough money
+
+627
+00:31:40.729 --> 00:31:43.969
+to stop the disaster. But everybody also has an
+
+628
+00:31:43.979 --> 00:31:46.550
+incentive to contribute nothing and hope the rest of
+
+629
+00:31:46.560 --> 00:31:49.369
+their group will carry the burden of stopping disaster.
+
+630
+00:31:49.800 --> 00:31:52.239
+And then second, it captures this threshold nature of
+
+631
+00:31:52.250 --> 00:31:54.989
+climate change. And I think this is really important
+
+632
+00:31:55.000 --> 00:31:57.890
+in two different ways. So first thinking broadly about
+
+633
+00:31:57.900 --> 00:32:01.560
+the climate problem, you've probably heard if global mean
+
+634
+00:32:01.569 --> 00:32:05.449
+temperature rise exceeds two °C, this is where we're
+
+635
+00:32:05.459 --> 00:32:09.089
+certainly going to see more and worse damages. So
+
+636
+00:32:09.170 --> 00:32:12.229
+there's not a linear relationship between how much carbon
+
+637
+00:32:12.239 --> 00:32:15.130
+dioxide we emit and how bad climate change is
+
+638
+00:32:15.140 --> 00:32:17.520
+going to be. There are these tipping points in
+
+639
+00:32:17.530 --> 00:32:20.079
+the system where if we pass these tipping points,
+
+640
+00:32:20.109 --> 00:32:22.160
+things are going to get a lot worse, much
+
+641
+00:32:22.170 --> 00:32:25.319
+more quickly and potentially be irreversible. And so that
+
+642
+00:32:25.329 --> 00:32:29.310
+threshold captures that dimension on a more local level,
+
+643
+00:32:29.319 --> 00:32:33.390
+this is also important um building half a levy
+
+644
+00:32:33.400 --> 00:32:36.859
+to prevent a flood, doesn't prevent half a flood,
+
+645
+00:32:36.869 --> 00:32:39.900
+right? You have to actually finish building this kind
+
+646
+00:32:39.910 --> 00:32:43.310
+of prevention, infrastructure to reap those benefits. And so
+
+647
+00:32:43.319 --> 00:32:45.689
+that's what the disaster game is meant to capture.
+
+648
+00:32:45.699 --> 00:32:48.069
+And then throughout the book, we have all sorts
+
+649
+00:32:48.079 --> 00:32:50.550
+of different ways that we change that basic framework
+
+650
+00:32:50.560 --> 00:32:52.869
+to answer all of these questions. So Andy, do
+
+651
+00:32:52.880 --> 00:32:54.510
+you wanna take it away with the first?
+
+652
+00:32:54.920 --> 00:32:56.420
+Yeah. So one of our, one of the first
+
+653
+00:32:56.430 --> 00:32:59.560
+projects we worked on as a team, um The
+
+654
+00:32:59.589 --> 00:33:02.160
+kind of the starting point was that organizations like
+
+655
+00:33:02.170 --> 00:33:06.060
+the Intergovernmental panel on climate change, the IPCC, they,
+
+656
+00:33:06.069 --> 00:33:09.880
+they argue that uh we're not going to decelerate
+
+657
+00:33:09.890 --> 00:33:12.069
+temperature rises fast enough if we use kind of
+
+658
+00:33:12.079 --> 00:33:15.359
+straightforward mitigation, um we're gonna have to use, they,
+
+659
+00:33:15.369 --> 00:33:16.939
+they argue at least that we might need to
+
+660
+00:33:16.949 --> 00:33:20.719
+consider technologies like carbon capture and storage. So we're
+
+661
+00:33:20.729 --> 00:33:23.250
+not gonna just omit less. We might have to,
+
+662
+00:33:23.260 --> 00:33:25.449
+for instance, suck some carbon out of the air.
+
+663
+00:33:25.959 --> 00:33:29.140
+And in a sense, these technologies are risky. Uh
+
+664
+00:33:29.150 --> 00:33:32.420
+Not because they might blow up in a nuclear
+
+665
+00:33:32.430 --> 00:33:36.119
+holocaust or something, but because they have potentially high
+
+666
+00:33:36.130 --> 00:33:39.150
+upsides, but no one's ever scaled them before. So
+
+667
+00:33:39.160 --> 00:33:41.060
+it could be a lot of investment that just
+
+668
+00:33:41.069 --> 00:33:43.900
+Peters out and leads nowhere. So we need to,
+
+669
+00:33:43.969 --> 00:33:46.800
+the I PC IPCC argues we need to try
+
+670
+00:33:46.810 --> 00:33:49.579
+them but you know, maybe they'll be a dead
+
+671
+00:33:49.589 --> 00:33:53.849
+end. Um So what we wanted to know is,
+
+672
+00:33:53.859 --> 00:33:57.729
+will, you know, will people be able to integrate
+
+673
+00:33:57.939 --> 00:34:00.050
+the problems they face? Like how, you know, t
+
+674
+00:34:00.109 --> 00:34:02.540
+Talbot mentioned, this is like a threshold, how high
+
+675
+00:34:02.550 --> 00:34:06.180
+is the threshold with how much risk they're willing
+
+676
+00:34:06.189 --> 00:34:08.260
+to bear in order to try to meet that
+
+677
+00:34:08.270 --> 00:34:10.510
+threshold. So again, imagine yourself in one of our
+
+678
+00:34:10.520 --> 00:34:13.228
+games, you're in a four person team. Um And
+
+679
+00:34:13.239 --> 00:34:16.358
+we tell you, you each got some money and
+
+680
+00:34:16.368 --> 00:34:18.009
+uh let's say you have, you know, you have
+
+681
+00:34:18.018 --> 00:34:23.178
+$20 and the way that you can prevent disaster
+
+682
+00:34:23.188 --> 00:34:26.748
+is by contributing to this threshold, we give you
+
+683
+00:34:26.759 --> 00:34:29.888
+a monetary amount. But um we give you two
+
+684
+00:34:29.898 --> 00:34:32.378
+ways to contribute. If you want to contribute, you
+
+685
+00:34:32.388 --> 00:34:35.780
+can just give your money directly or you can
+
+686
+00:34:35.790 --> 00:34:38.500
+basically put it into a slot machine and if
+
+687
+00:34:38.510 --> 00:34:41.418
+you win your money is doubled, but if you
+
+688
+00:34:41.429 --> 00:34:44.620
+lose your money just disappears. So the idea is
+
+689
+00:34:44.629 --> 00:34:47.580
+that this is sort of simulating the contrast between,
+
+690
+00:34:47.860 --> 00:34:50.969
+you know, more traditional mitigation ideas like making more
+
+691
+00:34:50.978 --> 00:34:54.219
+windmills or uh finding ways to emit less by
+
+692
+00:34:54.228 --> 00:34:57.379
+more efficient vehicles or something of that nature versus
+
+693
+00:34:57.389 --> 00:34:59.639
+this sort of big picture big, you know, kind
+
+694
+00:34:59.649 --> 00:35:02.129
+of go go big or go home technology where
+
+695
+00:35:02.139 --> 00:35:04.780
+maybe it will pay off, but maybe the investment
+
+696
+00:35:04.790 --> 00:35:07.929
+will just go Kaput. Uh So will people uh
+
+697
+00:35:07.939 --> 00:35:09.949
+you know, how will people decide how to invest
+
+698
+00:35:09.959 --> 00:35:12.770
+their money between these two forms. So the what
+
+699
+00:35:12.780 --> 00:35:14.570
+we did then in these experiments was again, if
+
+700
+00:35:14.580 --> 00:35:16.860
+you were in our group, imagine, you know, there's
+
+701
+00:35:16.989 --> 00:35:19.699
+uh ever if you, some groups have a really
+
+702
+00:35:19.709 --> 00:35:22.750
+low threshold where it's easy to just contribute some
+
+703
+00:35:22.840 --> 00:35:25.580
+money directly and you can probably meet the problem.
+
+704
+00:35:25.739 --> 00:35:27.800
+Other groups are giving a higher and higher and
+
+705
+00:35:27.810 --> 00:35:30.860
+higher threshold. And if you do the math, um
+
+706
+00:35:30.870 --> 00:35:33.739
+you know, some very complex math, you would discover
+
+707
+00:35:33.750 --> 00:35:35.620
+that it's probably in your interest then as a
+
+708
+00:35:35.629 --> 00:35:38.179
+group to have a lot of people engage in
+
+709
+00:35:38.189 --> 00:35:41.629
+these risky investments. And so we wondered whether normal
+
+710
+00:35:41.639 --> 00:35:43.510
+people who were the ones who they don't make
+
+711
+00:35:43.520 --> 00:35:45.659
+the decisions in the big rooms with presidents, but
+
+712
+00:35:45.669 --> 00:35:47.840
+they are the ones who elect presidents and prime
+
+713
+00:35:47.850 --> 00:35:50.959
+ministers. So their opinion still matters quite a bit.
+
+714
+00:35:50.969 --> 00:35:53.500
+Would they understand this problem and being, uh, you
+
+715
+00:35:53.510 --> 00:35:56.449
+know, be, be willing to engage in risk to
+
+716
+00:35:56.459 --> 00:36:00.580
+solve ever higher thresholds? So, um, that's what we
+
+717
+00:36:00.590 --> 00:36:02.360
+did. We tested whether people could do that and
+
+718
+00:36:02.370 --> 00:36:04.399
+we actually, there's different kind of theories out there.
+
+719
+00:36:04.409 --> 00:36:07.919
+Some theories are pretty pessimistic about people's abilities to
+
+720
+00:36:07.929 --> 00:36:12.860
+reason correctly about risk and about complex decisions. Um,
+
+721
+00:36:12.870 --> 00:36:14.969
+BUT, uh our back, some of my background and
+
+722
+00:36:14.979 --> 00:36:17.909
+Talbot's background is both, uh, we're from partially trained
+
+723
+00:36:17.919 --> 00:36:21.419
+in evolutionary psychology and it turns out that evolutionary
+
+724
+00:36:21.429 --> 00:36:25.143
+biologists, um, and, and psychologists have discovered animals and
+
+725
+00:36:25.153 --> 00:36:28.982
+humans are actually really good at balancing riskiness with
+
+726
+00:36:28.992 --> 00:36:31.752
+the kinds of thresholds that they face. So we
+
+727
+00:36:31.762 --> 00:36:33.693
+were, we were thinking that people would actually be
+
+728
+00:36:33.702 --> 00:36:35.853
+pretty good at this problem. And in fact, the
+
+729
+00:36:35.863 --> 00:36:38.452
+quality of their decisions astounded even us, even though
+
+730
+00:36:38.462 --> 00:36:41.163
+we were already kind of optimistic, people were really
+
+731
+00:36:41.193 --> 00:36:44.072
+sensitive to the threshold and did a very good
+
+732
+00:36:44.083 --> 00:36:47.446
+job of balancing which kind of investment to make,
+
+733
+00:36:47.456 --> 00:36:50.196
+depending on just how difficult meeting that threshold would
+
+734
+00:36:50.206 --> 00:36:53.885
+be. Um So, you know, uh basically, when people,
+
+735
+00:36:53.895 --> 00:36:57.885
+when averting disaster became ever more difficult, people were
+
+736
+00:36:57.895 --> 00:37:01.166
+more likely to, you know, take a gamble on
+
+737
+00:37:01.186 --> 00:37:04.406
+this sort of a stylized choice meant to simulate
+
+738
+00:37:04.416 --> 00:37:08.476
+real world uh technology like carbon capture and storage.
+
+739
+00:37:10.590 --> 00:37:13.189
+Uh So, but uh I mean, tell us perhaps
+
+740
+00:37:13.199 --> 00:37:19.570
+about specific kinds of technologies that you've studied in
+
+741
+00:37:19.580 --> 00:37:22.510
+these games and I mean, what kinds of reactions
+
+742
+00:37:22.520 --> 00:37:24.530
+do people tend to have to them?
+
+743
+00:37:26.770 --> 00:37:29.370
+Yeah. So in other work, what we've looked at,
+
+744
+00:37:29.379 --> 00:37:31.219
+so this is that was a study on like
+
+745
+00:37:31.229 --> 00:37:34.850
+carbon capture and storage. Um We've also done ones
+
+746
+00:37:34.860 --> 00:37:37.750
+that are designed to to more simulate things like
+
+747
+00:37:37.830 --> 00:37:42.030
+um uh solar radiation management, a fancy word for
+
+748
+00:37:42.320 --> 00:37:45.050
+doing any doing things in the atmosphere to reflect
+
+749
+00:37:45.060 --> 00:37:48.189
+light back into space. So one kind of thing
+
+750
+00:37:48.199 --> 00:37:51.320
+that's actually in the grand scheme of things relatively
+
+751
+00:37:51.330 --> 00:37:54.389
+cheap is seeding the atmosphere with aerosols or other
+
+752
+00:37:54.399 --> 00:37:57.409
+types of chemicals that could reflect light back into
+
+753
+00:37:57.419 --> 00:38:02.030
+space. Um And that's risky in a different way.
+
+754
+00:38:02.040 --> 00:38:04.929
+So I mentioned the carbon capture stuff. The big
+
+755
+00:38:04.939 --> 00:38:07.560
+risk of that is it just doesn't pay off,
+
+756
+00:38:07.570 --> 00:38:11.169
+but when it comes to messing with the atmosphere
+
+757
+00:38:11.179 --> 00:38:13.770
+in other ways, adding more chemicals in the air,
+
+758
+00:38:13.780 --> 00:38:16.790
+they're supposed to redirect light. Uh THAT could, there's
+
+759
+00:38:16.800 --> 00:38:19.550
+various, you know, worries that that could change other
+
+760
+00:38:19.560 --> 00:38:22.550
+aspects like weather patterns throughout the world. So not
+
+761
+00:38:22.560 --> 00:38:25.459
+only could that simply fail, that could actually back
+
+762
+00:38:25.564 --> 00:38:28.375
+fire um and hurt people. Um And if you
+
+763
+00:38:28.385 --> 00:38:30.604
+try to implement that. And so in some of
+
+764
+00:38:30.614 --> 00:38:32.955
+our studies, we tried to simulate that kind of
+
+765
+00:38:32.965 --> 00:38:35.784
+problem where you have the choice of a technology
+
+766
+00:38:35.794 --> 00:38:39.375
+that could actively hurt other people. And what we
+
+767
+00:38:39.385 --> 00:38:40.804
+did there was you would play in these groups
+
+768
+00:38:40.814 --> 00:38:44.270
+as before in one version of the experiment, you
+
+769
+00:38:44.280 --> 00:38:46.229
+would have to make your decisions just as a
+
+770
+00:38:46.239 --> 00:38:49.510
+group. Um Another version there would be oh and
+
+771
+00:38:49.520 --> 00:38:52.010
+and one person would be one person in your
+
+772
+00:38:52.020 --> 00:38:55.510
+group would also have the option of uh choosing
+
+773
+00:38:55.520 --> 00:38:57.370
+whether to try, you know, to basically see the
+
+774
+00:38:57.379 --> 00:39:00.030
+atmosphere with these aerosols. So we're, we're kind of
+
+775
+00:39:00.040 --> 00:39:03.270
+proceeding along two tracks. Everyone in the group can
+
+776
+00:39:03.280 --> 00:39:05.590
+try to just directly contribute to, you know, this
+
+777
+00:39:05.600 --> 00:39:09.229
+threshold. Another person can try like a silver bullet
+
+778
+00:39:09.239 --> 00:39:12.419
+that might meet the threshold immediately, but it could
+
+779
+00:39:12.429 --> 00:39:15.219
+backfire and literally it hurt everyone in the group.
+
+780
+00:39:15.879 --> 00:39:18.219
+So that's one version of the experiment in another
+
+781
+00:39:18.229 --> 00:39:20.419
+version of the experiment just like what I said.
+
+782
+00:39:20.510 --> 00:39:23.120
+Except the person who gets to decide whether there's
+
+783
+00:39:23.129 --> 00:39:26.580
+geoengineering is a total outsider to the group. So
+
+784
+00:39:26.590 --> 00:39:29.000
+they have no role in the group whatsoever. They
+
+785
+00:39:29.010 --> 00:39:32.840
+don't suffer any personal costs or benefits whatsoever. So,
+
+786
+00:39:33.270 --> 00:39:35.689
+you know, maybe they won't care enough to make
+
+787
+00:39:35.699 --> 00:39:38.540
+a good decision or maybe they even be too
+
+788
+00:39:38.550 --> 00:39:40.469
+risk taking. Maybe they're just like hell, yeah, let's
+
+789
+00:39:40.479 --> 00:39:43.030
+just do this and see what happens. But in
+
+790
+00:39:43.040 --> 00:39:45.979
+fact, when we, and when we run these experiments,
+
+791
+00:39:45.989 --> 00:39:49.679
+people in the outsider role do exactly what insiders
+
+792
+00:39:49.689 --> 00:39:52.280
+would have done in their place. So insiders are
+
+793
+00:39:52.290 --> 00:39:55.110
+pretty good about picking when to use or not
+
+794
+00:39:55.120 --> 00:39:58.050
+use geoengineering based on things like the size of
+
+795
+00:39:58.060 --> 00:40:02.209
+the threshold, uh outsiders just as thoughtful, just as
+
+796
+00:40:02.219 --> 00:40:04.820
+sensitive, they do exactly what insiders would have wanted
+
+797
+00:40:04.830 --> 00:40:06.629
+them to do. So that's not. So that's, you
+
+798
+00:40:06.639 --> 00:40:09.639
+know, another kind of technology um that we've tried
+
+799
+00:40:09.649 --> 00:40:13.300
+to simulate in the lab. And also um uh
+
+800
+00:40:13.310 --> 00:40:15.699
+you know, example of like this, the theme of
+
+801
+00:40:15.709 --> 00:40:18.219
+making decisions on behalf of other people too.
+
+802
+00:40:20.010 --> 00:40:24.010
+Uh So that's about the technological side of things.
+
+803
+00:40:24.020 --> 00:40:28.610
+But uh how about helping other groups of people?
+
+804
+00:40:28.620 --> 00:40:31.620
+I mean, how do you study that through economic
+
+805
+00:40:31.629 --> 00:40:35.610
+games? And what kinds of results uh do you
+
+806
+00:40:35.620 --> 00:40:35.989
+get?
+
+807
+00:40:36.500 --> 00:40:39.189
+Yeah. So real briefly, you know, the, the earlier
+
+808
+00:40:39.199 --> 00:40:41.429
+games I I mentioned. So the ones where uh
+
+809
+00:40:41.469 --> 00:40:44.580
+it's about capturing a car uh excuse me, uh
+
+810
+00:40:44.590 --> 00:40:48.120
+carbon capture and storage. So those ones we initially
+
+811
+00:40:48.129 --> 00:40:50.739
+had people play just on their own behalf. So
+
+812
+00:40:50.750 --> 00:40:53.439
+you have to delicately manage the size of your
+
+813
+00:40:53.449 --> 00:40:57.159
+threshold and whether you contribute directly to it or
+
+814
+00:40:57.169 --> 00:40:58.879
+will you take a gamble? Will you play a
+
+815
+00:40:58.889 --> 00:41:02.399
+slot machine in other work? Um What we did
+
+816
+00:41:02.409 --> 00:41:05.000
+was very simple, tweak. We had some people continue
+
+817
+00:41:05.010 --> 00:41:06.840
+to do that as before and we had other
+
+818
+00:41:06.850 --> 00:41:11.300
+people, uh, who were, uh, told you're gonna make
+
+819
+00:41:11.310 --> 00:41:13.850
+these decisions, but they're only going to affect a
+
+820
+00:41:13.860 --> 00:41:16.209
+bunch of strangers, they're not going to affect you
+
+821
+00:41:16.219 --> 00:41:19.080
+directly. So just like the games where things could
+
+822
+00:41:19.090 --> 00:41:22.489
+backfire with the uh aerosols in the air here,
+
+823
+00:41:22.500 --> 00:41:25.179
+similar kind of deal where a bunch of outsiders
+
+824
+00:41:25.189 --> 00:41:28.370
+have to make decisions for insiders. But the the
+
+825
+00:41:28.379 --> 00:41:30.600
+difference here is this is back to a group
+
+826
+00:41:30.610 --> 00:41:32.489
+of people. So now it's not just you in
+
+827
+00:41:32.500 --> 00:41:35.790
+isolation being like the president making decisions, you're back
+
+828
+00:41:35.800 --> 00:41:37.760
+to a group. There's still this kind of social
+
+829
+00:41:37.770 --> 00:41:40.699
+dilemma aspect, but it's a social dilemma that impacts
+
+830
+00:41:40.709 --> 00:41:43.800
+other people. So what do you do? Well, surpri
+
+831
+00:41:43.810 --> 00:41:46.159
+like, like this is many points in our research
+
+832
+00:41:46.169 --> 00:41:50.379
+program, we were frankly shocked at how nice and
+
+833
+00:41:50.389 --> 00:41:53.310
+uh strategic people were. So in our games where
+
+834
+00:41:53.320 --> 00:41:55.959
+the group making these decisions about whether to take
+
+835
+00:41:55.969 --> 00:41:59.030
+a gamble or not, they were just as happy
+
+836
+00:41:59.060 --> 00:42:02.120
+to contribute to a bunch of strangers as to
+
+837
+00:42:02.129 --> 00:42:04.429
+contribute to preventing their own disaster. So they were
+
+838
+00:42:04.439 --> 00:42:08.260
+very generous with helping other people prevent disaster. That's
+
+839
+00:42:08.270 --> 00:42:11.560
+interesting. But you might wonder. Well, are they not
+
+840
+00:42:11.570 --> 00:42:13.489
+good at doing that though? Do they not pay
+
+841
+00:42:13.500 --> 00:42:15.560
+as much attention when they're doing it for other
+
+842
+00:42:15.570 --> 00:42:19.169
+people? But no, they were just as uh accurate
+
+843
+00:42:19.179 --> 00:42:22.360
+at, you know, t trading their riskiness with the
+
+844
+00:42:22.370 --> 00:42:24.659
+quality of the, the difficulty of the problem they
+
+845
+00:42:24.669 --> 00:42:27.590
+faced. So whether you're making decisions for yourself or
+
+846
+00:42:27.600 --> 00:42:29.979
+for others, um, people were just as good as
+
+847
+00:42:29.989 --> 00:42:33.050
+managing this kind of multiple kind of technological problems.
+
+848
+00:42:33.179 --> 00:42:35.800
+So again, we were frankly kind of surprised how,
+
+849
+00:42:35.810 --> 00:42:38.639
+how kind and, and good people were at making
+
+850
+00:42:38.649 --> 00:42:39.360
+these decisions.
+
+851
+00:42:40.290 --> 00:42:43.590
+Ok. So I guess that's already some reason for
+
+852
+00:42:43.600 --> 00:42:47.760
+optimism. But uh le let's talk now about the
+
+853
+00:42:47.770 --> 00:42:53.050
+fact that as you mentioned earlier here, uh most
+
+854
+00:42:53.060 --> 00:42:57.219
+of the costs are going to be paid very
+
+855
+00:42:57.229 --> 00:43:02.350
+unfortunately by more vulnerable people, people from poorer countries.
+
+856
+00:43:02.360 --> 00:43:06.540
+So how willing are people? Uh I mean, uh
+
+857
+00:43:06.550 --> 00:43:09.399
+what extent are they willing to go in order
+
+858
+00:43:09.409 --> 00:43:13.070
+to avoid disaster for other people? I mean, they've
+
+859
+00:43:13.080 --> 00:43:16.360
+also said that. So what do we know about
+
+860
+00:43:16.370 --> 00:43:16.560
+it?
+
+861
+00:43:17.040 --> 00:43:18.800
+So, yeah, we do have some data on that
+
+862
+00:43:18.810 --> 00:43:21.810
+with these are some studies with our colleagues, Alessandro
+
+863
+00:43:21.820 --> 00:43:24.719
+Delponte and Nick Seltzer along with our, our, the
+
+864
+00:43:24.729 --> 00:43:27.159
+colleague who wrote this book with us Ruben Klein.
+
+865
+00:43:27.379 --> 00:43:30.820
+Um WHAT we tested in those studies was, would
+
+866
+00:43:30.830 --> 00:43:33.870
+people in these kind of games be willing to
+
+867
+00:43:33.879 --> 00:43:36.870
+constrain their own behavior to, you know, kind of
+
+868
+00:43:36.879 --> 00:43:40.979
+pass up benefits to prevent other people from experiencing
+
+869
+00:43:40.989 --> 00:43:43.629
+disaster. So let me make this concrete in these
+
+870
+00:43:43.639 --> 00:43:45.989
+games. We sort of, we tried to simulate sort
+
+871
+00:43:46.000 --> 00:43:48.560
+of the broad sweep of human history where at
+
+872
+00:43:48.570 --> 00:43:52.149
+one stage of world history, we engaged in economic
+
+873
+00:43:52.159 --> 00:43:55.469
+development and industrialization where you know, you could take
+
+874
+00:43:55.479 --> 00:43:57.750
+some, you could essentially in our game. We simulated
+
+875
+00:43:57.760 --> 00:43:59.600
+that by just saying, hey, you can take some
+
+876
+00:43:59.610 --> 00:44:01.520
+money from a common pool if you want, just
+
+877
+00:44:01.530 --> 00:44:04.889
+take some cash totally cool. The problem is the
+
+878
+00:44:04.899 --> 00:44:08.229
+more cash you take at that early industrialization, economic
+
+879
+00:44:08.239 --> 00:44:11.330
+development stage. In a later stage of the game,
+
+880
+00:44:11.370 --> 00:44:14.310
+you're gonna play the disaster game. And when you
+
+881
+00:44:14.320 --> 00:44:16.729
+face that, you know, we have this threshold problem
+
+882
+00:44:16.739 --> 00:44:18.780
+can you can you meet the threshold to prevent
+
+883
+00:44:18.790 --> 00:44:22.129
+disaster from coming. Well, the more you take earlier,
+
+884
+00:44:22.629 --> 00:44:25.100
+the higher the threshold gets. So there's sort of
+
+885
+00:44:25.110 --> 00:44:29.870
+this balancing act between um you know, industrializing and
+
+886
+00:44:29.949 --> 00:44:32.709
+make have an economic development versus some sort of
+
+887
+00:44:32.719 --> 00:44:35.770
+economic uh environmental problems that you create later on.
+
+888
+00:44:36.239 --> 00:44:38.909
+So in one version of the game, you yourself
+
+889
+00:44:38.919 --> 00:44:41.340
+have to balance those two problems, your group has
+
+890
+00:44:41.350 --> 00:44:43.969
+to. So there, you know, we using some game
+
+891
+00:44:43.979 --> 00:44:46.820
+theory math, we could predict, you know, what, how
+
+892
+00:44:46.830 --> 00:44:50.479
+much people should uh take from in the earlier
+
+893
+00:44:50.489 --> 00:44:53.570
+stage of industrialization in order to sort of maximize
+
+894
+00:44:53.580 --> 00:44:56.860
+their earnings across both of these stages. That's, that's
+
+895
+00:44:56.870 --> 00:44:58.979
+easy. Uh But the problem is that's not the
+
+896
+00:44:58.989 --> 00:45:01.290
+real world. It's different sets of people who are
+
+897
+00:45:01.300 --> 00:45:04.080
+facing these two different kinds of choices. So we
+
+898
+00:45:04.090 --> 00:45:08.409
+also had a condition where uh earlier different sets
+
+899
+00:45:08.419 --> 00:45:11.770
+of people are harvesting money in the economic development
+
+900
+00:45:11.780 --> 00:45:15.520
+stage and a separate set faces the environmental threshold
+
+901
+00:45:15.530 --> 00:45:19.219
+problem that was created by the earlier people. So
+
+902
+00:45:19.229 --> 00:45:21.270
+what we found was unlike some of our other
+
+903
+00:45:21.280 --> 00:45:25.189
+results, people didn't literally play uh exactly as they
+
+904
+00:45:25.199 --> 00:45:27.459
+would want to have played for themselves. They did
+
+905
+00:45:27.469 --> 00:45:30.679
+take some more money, but they, they were relatively
+
+906
+00:45:30.689 --> 00:45:32.530
+constrained in how much they took. So they were
+
+907
+00:45:32.540 --> 00:45:36.169
+pretty good about not sending like a ridiculously hard
+
+908
+00:45:36.179 --> 00:45:39.449
+problem on to future generations. So that's, that's, you
+
+909
+00:45:39.459 --> 00:45:42.409
+know, kind of a, a reassuring finding. And one
+
+910
+00:45:42.419 --> 00:45:44.780
+of the things we did too was most of,
+
+911
+00:45:44.790 --> 00:45:47.110
+you know, some of our people are students playing
+
+912
+00:45:47.120 --> 00:45:49.830
+in our lab in the uh in New York.
+
+913
+00:45:49.909 --> 00:45:52.699
+On one version though we had people playing online
+
+914
+00:45:53.120 --> 00:45:56.379
+uh Americans who are either creating problems for other
+
+915
+00:45:56.389 --> 00:46:00.379
+Americans or Americans creating problems that were then sent
+
+916
+00:46:00.389 --> 00:46:03.379
+to players in India. So a different country entirely
+
+917
+00:46:03.389 --> 00:46:05.080
+on the other side of the world. So you
+
+918
+00:46:05.090 --> 00:46:06.719
+might think when they send them to a totally
+
+919
+00:46:06.729 --> 00:46:10.360
+different nationality, they stop caring as much. In fact,
+
+920
+00:46:10.419 --> 00:46:13.280
+that didn't make any difference whatsoever. People were just
+
+921
+00:46:13.290 --> 00:46:17.169
+as circumspect in creating environmental problems where they were,
+
+922
+00:46:17.260 --> 00:46:20.439
+they sent it to Cocom Patriots um versus, you
+
+923
+00:46:20.449 --> 00:46:23.800
+know, an out group member on another continent. So,
+
+924
+00:46:23.959 --> 00:46:26.580
+um you know, again another set of like findings
+
+925
+00:46:26.590 --> 00:46:28.939
+that sort of astounded us and how like quality,
+
+926
+00:46:28.959 --> 00:46:31.870
+the quality of people's decisions and how reasonably generous
+
+927
+00:46:31.879 --> 00:46:32.479
+they were.
+
+928
+00:46:34.179 --> 00:46:38.840
+But another very relevant question here is as individual
+
+929
+00:46:38.850 --> 00:46:42.840
+citizens, it would also be ideal if we changed
+
+930
+00:46:42.850 --> 00:46:46.050
+some of our habits and particularly people in more
+
+931
+00:46:46.060 --> 00:46:50.034
+developed countries because we consume more and we have
+
+932
+00:46:50.044 --> 00:46:55.044
+certain luxuries that we don't want to abdicate. I
+
+933
+00:46:55.054 --> 00:46:59.175
+mean, how willing are we to constrain ourselves a
+
+934
+00:46:59.185 --> 00:47:03.475
+bit more to avoid uh emissions? I mean, how
+
+935
+00:47:03.485 --> 00:47:05.074
+do we study that?
+
+936
+00:47:07.699 --> 00:47:10.600
+Uh HM I don't know if we directly studied
+
+937
+00:47:10.610 --> 00:47:14.090
+that particular question. We studied other questions that involve
+
+938
+00:47:14.100 --> 00:47:18.370
+inequality between people but not whether inequality between people
+
+939
+00:47:18.379 --> 00:47:21.949
+uh leads them to constrain themselves. Uh MORE, more
+
+940
+00:47:21.959 --> 00:47:23.750
+or less. Yeah, Talbot, do you have any thoughts
+
+941
+00:47:23.760 --> 00:47:24.149
+on that?
+
+942
+00:47:25.159 --> 00:47:27.620
+So that we have not done this work? There
+
+943
+00:47:27.629 --> 00:47:30.229
+is interesting work taking place outside of the lab
+
+944
+00:47:30.239 --> 00:47:33.050
+on how do you get everyday people to actually
+
+945
+00:47:33.659 --> 00:47:37.649
+ait less? And it, it's a huge complicated problem
+
+946
+00:47:37.659 --> 00:47:40.389
+um with some fantastic work that's more focused on
+
+947
+00:47:40.399 --> 00:47:41.929
+what are people doing in their day to day
+
+948
+00:47:41.939 --> 00:47:42.679
+lives.
+
+949
+00:47:44.520 --> 00:47:49.939
+So uh another topic then would be uh tensions
+
+950
+00:47:49.949 --> 00:47:55.550
+between leaders and citizens and their relationship. So uh
+
+951
+00:47:55.590 --> 00:48:00.020
+when it comes to the more, let's say economic
+
+952
+00:48:00.030 --> 00:48:04.719
+or game theoretical aspect or approach to this question,
+
+953
+00:48:05.030 --> 00:48:08.060
+I mean, how do you approach it? And what
+
+954
+00:48:08.070 --> 00:48:11.729
+are some of the most important aspects to tackle
+
+955
+00:48:11.739 --> 00:48:12.060
+here.
+
+956
+00:48:12.919 --> 00:48:15.959
+Yeah. So here, what we're really interested is the
+
+957
+00:48:15.969 --> 00:48:19.699
+interface between publics and elites. So when does the
+
+958
+00:48:19.709 --> 00:48:24.399
+public trust elites to deliver effective mitigation policy? And
+
+959
+00:48:24.409 --> 00:48:28.760
+when do elites trust the public to behave accordingly
+
+960
+00:48:28.770 --> 00:48:31.500
+and to support those effective mitigation policies? So to
+
+961
+00:48:31.510 --> 00:48:34.679
+be clear in these experiments, we hold aside climate
+
+962
+00:48:34.689 --> 00:48:38.145
+change denial, we hold aside partisan polarization and really
+
+963
+00:48:38.155 --> 00:48:42.604
+focus on how different institutions might change people's trust.
+
+964
+00:48:42.614 --> 00:48:45.875
+So take, for example, from the public side, the
+
+965
+00:48:45.885 --> 00:48:49.735
+case of disaster prevention, um there's this big puzzle
+
+966
+00:48:49.745 --> 00:48:53.324
+in the literature that finds the public tends not
+
+967
+00:48:53.334 --> 00:48:56.804
+actually to be very supportive of disaster prevention spending,
+
+968
+00:48:57.030 --> 00:49:00.129
+which is a huge problem. Um Disaster prevention spending
+
+969
+00:49:00.139 --> 00:49:02.969
+is much more economically efficient than just spending on
+
+970
+00:49:02.979 --> 00:49:06.250
+relief after a disaster happens. But there are also
+
+971
+00:49:06.260 --> 00:49:09.459
+all sorts of things that you can't bring back
+
+972
+00:49:09.469 --> 00:49:12.780
+that you could have prevented. So for example, loss
+
+973
+00:49:12.790 --> 00:49:15.679
+of life, you can save people with disaster prevention,
+
+974
+00:49:15.689 --> 00:49:18.510
+but you can't bring someone back after a disaster
+
+975
+00:49:18.520 --> 00:49:23.070
+has struck. And this has been historically, largely interpreted
+
+976
+00:49:23.080 --> 00:49:25.679
+as evidence that voters are just not that sophisticated
+
+977
+00:49:25.840 --> 00:49:27.820
+that they don't realize they would be much better
+
+978
+00:49:27.830 --> 00:49:30.780
+off if they were spending on disaster prevention. But
+
+979
+00:49:30.790 --> 00:49:34.679
+there's another possibility. Um So the problem with disaster
+
+980
+00:49:34.689 --> 00:49:39.399
+prevention is it's hard to know how bad would
+
+981
+00:49:39.409 --> 00:49:43.489
+a disaster have been without the prevention because we
+
+982
+00:49:43.500 --> 00:49:46.129
+just don't observe that world the way with relief
+
+983
+00:49:46.139 --> 00:49:48.540
+I can see like there is a person getting
+
+984
+00:49:48.550 --> 00:49:52.600
+rescued and there are like firemen coming and dealing
+
+985
+00:49:52.610 --> 00:49:54.409
+with this problem. You just don't get the same
+
+986
+00:49:54.419 --> 00:49:58.179
+thing with disaster prevention and this is especially problematic
+
+987
+00:49:58.189 --> 00:50:01.179
+when politicians have a lot of discretion over those
+
+988
+00:50:01.189 --> 00:50:04.699
+prevention funds. Um So one of my favorite examples
+
+989
+00:50:04.709 --> 00:50:08.739
+of this, the mayor of Kingfisher Oklahoma, which is
+
+990
+00:50:08.750 --> 00:50:11.909
+this tiny little town in Oklahoma that's built between
+
+991
+00:50:11.919 --> 00:50:14.939
+these two rivers that floods every few years. He
+
+992
+00:50:14.949 --> 00:50:18.090
+got this huge grant from the state of Oklahoma
+
+993
+00:50:18.280 --> 00:50:20.760
+to deal with this cyclical flooding that the town
+
+994
+00:50:20.770 --> 00:50:23.560
+had. And he took the money and just um
+
+995
+00:50:23.570 --> 00:50:26.270
+bought out all of his own businesses that were
+
+996
+00:50:26.280 --> 00:50:29.129
+on the floodplain and used his own construction company
+
+997
+00:50:29.139 --> 00:50:31.260
+to do that. And it was one of those
+
+998
+00:50:31.270 --> 00:50:34.340
+cases where this is disaster prevention, but it's much
+
+999
+00:50:34.350 --> 00:50:37.620
+harder for the public to pay attention to that,
+
+1000
+00:50:37.629 --> 00:50:39.520
+the way that they can with relief and to
+
+1001
+00:50:39.530 --> 00:50:42.189
+monitor that. And so what we did to test
+
+1002
+00:50:42.199 --> 00:50:44.570
+this to test whether voters just don't realize they
+
+1003
+00:50:44.580 --> 00:50:47.260
+should be investing in prevention or whether they're worried
+
+1004
+00:50:47.270 --> 00:50:49.939
+about that kind of corruption. And taking advantage of
+
+1005
+00:50:49.949 --> 00:50:53.939
+the spending is we ran experiments where we introduced
+
+1006
+00:50:53.949 --> 00:50:56.399
+a leader. So the way that this worked is
+
+1007
+00:50:56.409 --> 00:50:59.459
+that players didn't know exactly how much it costs
+
+1008
+00:50:59.469 --> 00:51:03.000
+to prevent disaster and their leader does know and
+
+1009
+00:51:03.010 --> 00:51:05.020
+then their leader tells them like, hey, it's actually
+
+1010
+00:51:05.030 --> 00:51:08.590
+pretty inexpensive or I'm sorry, but disaster prevention is
+
+1011
+00:51:08.600 --> 00:51:12.000
+just going to be really expensive. And we essentially
+
+1012
+00:51:12.010 --> 00:51:15.520
+manipulated whether the leader had an incentive to be
+
+1013
+00:51:15.530 --> 00:51:18.909
+corrupt, could they skim money off the top? And
+
+1014
+00:51:18.919 --> 00:51:21.959
+we find that players are incredibly sensitive to this,
+
+1015
+00:51:22.030 --> 00:51:25.070
+that they're much more trusting of leaders who don't
+
+1016
+00:51:25.080 --> 00:51:27.570
+have that incentive to behave in a corrupt kind
+
+1017
+00:51:27.580 --> 00:51:30.189
+of way that essentially these funds are pre committed.
+
+1018
+00:51:30.379 --> 00:51:32.949
+The leader doesn't get to skim. And in this
+
+1019
+00:51:32.959 --> 00:51:37.149
+instance, voters really support disaster prevention policy. And so
+
+1020
+00:51:37.159 --> 00:51:39.800
+we interpret this much more optimistically that some of
+
+1021
+00:51:39.810 --> 00:51:42.929
+these roadblocks to getting voters to support climate change
+
+1022
+00:51:42.939 --> 00:51:46.780
+mitigation and to support disaster prevention aren't because they
+
+1023
+00:51:46.790 --> 00:51:49.830
+just don't realize it's important. But instead it's an
+
+1024
+00:51:49.840 --> 00:51:53.489
+opportunity to design institutions that will increase support for
+
+1025
+00:51:53.500 --> 00:51:57.820
+this kind of spending. Um From the leader side,
+
+1026
+00:51:57.830 --> 00:52:01.010
+we were also curious whether leaders could anticipate this
+
+1027
+00:52:01.020 --> 00:52:03.889
+kind of sophistication. And we looked at this in
+
+1028
+00:52:03.899 --> 00:52:06.280
+a slightly different domain. So we looked at this
+
+1029
+00:52:06.290 --> 00:52:09.560
+again with the case of geoengineering and solar radiation
+
+1030
+00:52:09.570 --> 00:52:13.419
+management. Um A big concern in the policy space
+
+1031
+00:52:13.429 --> 00:52:17.840
+is that if we deploy geoengineering, if we research
+
+1032
+00:52:17.850 --> 00:52:22.260
+geoengineering, if we even talk about geoengineering that basically
+
+1033
+00:52:22.270 --> 00:52:25.679
+people will stop supporting climate change mitigation, they'll say
+
+1034
+00:52:25.689 --> 00:52:28.750
+like, oh I trust this. Um LIKE wild technology
+
+1035
+00:52:28.760 --> 00:52:31.149
+is just going to solve the problem. So why
+
+1036
+00:52:31.159 --> 00:52:34.030
+would I bother like supporting building more expensive wind
+
+1037
+00:52:34.040 --> 00:52:36.760
+turbines which is a problem because we need to,
+
+1038
+00:52:36.770 --> 00:52:38.919
+we need to still build wind turbines, we need
+
+1039
+00:52:38.929 --> 00:52:41.080
+both of those things even if we do successfully
+
+1040
+00:52:41.090 --> 00:52:44.360
+deploy geoengineering. And so this is called uh a
+
+1041
+00:52:44.370 --> 00:52:48.550
+moral hazard. Um WHERE deploying geoengineering will leave everybody
+
+1042
+00:52:48.560 --> 00:52:51.320
+worse off because they won't support climate change mitigation.
+
+1043
+00:52:52.199 --> 00:52:57.500
+We find limited, no evidence that everyday people actually
+
+1044
+00:52:57.510 --> 00:53:00.139
+engage in that moral hazard. And this is echoed
+
+1045
+00:53:00.149 --> 00:53:02.320
+by a ton of survey research, a ton of
+
+1046
+00:53:02.330 --> 00:53:06.280
+other experiments showing that people still support climate change
+
+1047
+00:53:06.290 --> 00:53:10.040
+mitigation even when geoengineering is brought up. In fact,
+
+1048
+00:53:10.050 --> 00:53:13.870
+sometimes they want mitigation even more because they think
+
+1049
+00:53:13.879 --> 00:53:16.250
+the idea of spraying aerosols in the air to
+
+1050
+00:53:16.260 --> 00:53:19.120
+reflect sunlight is terrifying and horrible. And so they
+
+1051
+00:53:19.129 --> 00:53:21.000
+say I will build as many wind turbines if
+
+1052
+00:53:21.010 --> 00:53:22.850
+you want me to build, if you promise not
+
+1053
+00:53:22.860 --> 00:53:26.169
+to do that. But from the leader side, we
+
+1054
+00:53:26.179 --> 00:53:30.419
+find that people anticipate others will engage in a
+
+1055
+00:53:30.429 --> 00:53:33.949
+moral hazard. And so they propose policies that are
+
+1056
+00:53:33.959 --> 00:53:38.010
+less effective because they underestimate the sophistication of their
+
+1057
+00:53:38.020 --> 00:53:40.850
+peers. And so we get this sort of backfiring
+
+1058
+00:53:40.860 --> 00:53:44.189
+effect and this is largely what we're interested in
+
+1059
+00:53:44.199 --> 00:53:46.610
+is this interface between the public and the elite
+
+1060
+00:53:46.620 --> 00:53:48.939
+when it comes to designing and getting support for
+
+1061
+00:53:48.949 --> 00:53:50.530
+effective mitigation policy.
+
+1062
+00:53:51.620 --> 00:53:54.649
+So this has a lot to do with trust,
+
+1063
+00:53:54.659 --> 00:53:58.899
+right? I mean, to what extent, particularly common people
+
+1064
+00:53:58.909 --> 00:54:03.840
+can trust their leaders to really communicate a good
+
+1065
+00:54:03.850 --> 00:54:08.939
+and valuable information and really do what they say
+
+1066
+00:54:08.949 --> 00:54:11.860
+they're going to do or achieve the results. They
+
+1067
+00:54:11.870 --> 00:54:18.070
+say they want to achieve. Right. Mhm. Uh Do
+
+1068
+00:54:18.080 --> 00:54:20.560
+you have anything to add to that? Doctor Dalton
+
+1069
+00:54:20.570 --> 00:54:21.030
+or?
+
+1070
+00:54:22.260 --> 00:54:24.110
+Yeah, I let me just add one more thing
+
+1071
+00:54:24.120 --> 00:54:26.879
+on the, the question of trust. Um We focus
+
+1072
+00:54:27.100 --> 00:54:31.560
+specifically on institutions and how institutions constraining leaders can
+
+1073
+00:54:31.570 --> 00:54:34.389
+generate trust. So I trust a leader not to
+
+1074
+00:54:34.399 --> 00:54:37.419
+behave in a corrupt way because they're operating within
+
+1075
+00:54:37.429 --> 00:54:39.479
+an institution that doesn't let them behave in a
+
+1076
+00:54:39.489 --> 00:54:41.959
+corrupt way. I think this is one of the
+
+1077
+00:54:41.969 --> 00:54:45.669
+points where taking the insights outside of the lab
+
+1078
+00:54:45.679 --> 00:54:48.639
+is going to be especially critical because unfortunately, we
+
+1079
+00:54:48.649 --> 00:54:52.550
+know in other political science research that we tend
+
+1080
+00:54:52.560 --> 00:54:56.790
+to trust messages from political elites who we already
+
+1081
+00:54:56.800 --> 00:55:00.889
+trusted. And so Democrats like, aren't listening to Republican
+
+1082
+00:55:00.899 --> 00:55:05.070
+senators telling them about disaster prevention. Republicans aren't listening
+
+1083
+00:55:05.080 --> 00:55:06.840
+to the New York Times when it's telling them
+
+1084
+00:55:06.850 --> 00:55:09.469
+about disaster prevention. And so this is a place
+
+1085
+00:55:09.479 --> 00:55:11.570
+where I'm excited to see more of the marrying
+
+1086
+00:55:11.580 --> 00:55:15.320
+between these sort of incentivized games and the political
+
+1087
+00:55:15.330 --> 00:55:17.729
+complexity, especially in the United States.
+
+1088
+00:55:19.229 --> 00:55:23.780
+So um another way by which people have used
+
+1089
+00:55:23.790 --> 00:55:27.639
+disaster games is to study inequality. I mean, I
+
+1090
+00:55:27.649 --> 00:55:31.580
+we've already mentioned the issue of inequality as it
+
+1091
+00:55:31.590 --> 00:55:35.500
+applies to climate change as well because of course,
+
+1092
+00:55:35.510 --> 00:55:40.195
+people from different backgrounds, different countries, poorer regions more
+
+1093
+00:55:40.205 --> 00:55:44.544
+vulnerable will suffer more from climate change than we
+
+1094
+00:55:44.554 --> 00:55:47.975
+in the more developed countries, for example. So what
+
+1095
+00:55:47.985 --> 00:55:53.034
+can we learn about inequality through disaster games?
+
+1096
+00:55:54.030 --> 00:55:56.860
+Yeah, so we we've run the disaster game and
+
+1097
+00:55:56.870 --> 00:56:00.620
+others have used the disaster game to add inequality.
+
+1098
+00:56:00.629 --> 00:56:03.639
+So there can be inequality in the risks that
+
+1099
+00:56:03.649 --> 00:56:06.239
+people face. How likely is it the disaster will
+
+1100
+00:56:06.250 --> 00:56:08.540
+strike or how much is disaster going to take
+
+1101
+00:56:08.550 --> 00:56:12.100
+from you? There can also be inequality in the
+
+1102
+00:56:12.110 --> 00:56:14.979
+resources people have to fight climate change. And so
+
+1103
+00:56:14.989 --> 00:56:17.330
+maybe some individuals are given more of an endowment,
+
+1104
+00:56:17.340 --> 00:56:19.340
+some of them are given less of an endowment.
+
+1105
+00:56:20.199 --> 00:56:22.959
+Unfortunately, we find inequality is one of the biggest
+
+1106
+00:56:22.969 --> 00:56:26.159
+impediments to getting people to coordinate around successful climate
+
+1107
+00:56:26.169 --> 00:56:29.820
+change medication. So when there's inequality in the risks
+
+1108
+00:56:29.830 --> 00:56:33.080
+people face or in the resources people have to
+
+1109
+00:56:33.090 --> 00:56:35.679
+fight climate change mitigation, it still tends to work
+
+1110
+00:56:35.689 --> 00:56:39.219
+out pretty well. The problem is when there's inequality
+
+1111
+00:56:39.229 --> 00:56:42.250
+in both, when some people face very high risk
+
+1112
+00:56:42.260 --> 00:56:44.620
+and those people have the fewest resources to fight
+
+1113
+00:56:44.629 --> 00:56:47.939
+climate change is where we see depressed levels of
+
+1114
+00:56:47.949 --> 00:56:52.320
+success. Um And unfortunately, that's probably the situation that
+
+1115
+00:56:52.330 --> 00:56:56.620
+closest mirrors what's happening in the real world. However,
+
+1116
+00:56:56.629 --> 00:57:00.040
+even in these situations where we see the worst
+
+1117
+00:57:00.050 --> 00:57:04.270
+outcomes, they're still pretty good. We almost never observe
+
+1118
+00:57:04.280 --> 00:57:07.379
+a situation. We never observe a situation where more
+
+1119
+00:57:07.389 --> 00:57:10.699
+than a handful of people refuse to contribute anything.
+
+1120
+00:57:11.080 --> 00:57:13.790
+And so even though there's decreased cooper operation with
+
+1121
+00:57:13.800 --> 00:57:17.050
+this extreme inequality, there are still very high levels
+
+1122
+00:57:17.060 --> 00:57:20.030
+of co-operation in what tends to help are clearly
+
+1123
+00:57:20.040 --> 00:57:23.879
+defining people's responsibilities, is making sure that people are
+
+1124
+00:57:23.889 --> 00:57:27.850
+contributing according to their resources or according to their
+
+1125
+00:57:27.860 --> 00:57:31.820
+risk and coordinating around who is responsible for addressing
+
+1126
+00:57:31.830 --> 00:57:35.010
+this problem can really alleviate those problems of inequality.
+
+1127
+00:57:36.729 --> 00:57:39.729
+Great. So uh let me just ask you both
+
+1128
+00:57:39.739 --> 00:57:43.709
+one final general question. So we've talked about he
+
+1129
+00:57:43.719 --> 00:57:47.469
+here about how we can apply disaster games and
+
+1130
+00:57:47.479 --> 00:57:51.810
+probably also other kinds of games to understand uh
+
+1131
+00:57:51.830 --> 00:57:56.870
+people's psychology that is particularly relevant to how we
+
+1132
+00:57:56.879 --> 00:58:01.050
+can tackle climate change. And we've talked about uh
+
+1133
+00:58:01.060 --> 00:58:05.449
+helping other groups of people, for example, how the
+
+1134
+00:58:05.459 --> 00:58:09.610
+tension between leaders and their citizens and other topics
+
+1135
+00:58:09.620 --> 00:58:14.129
+here. Uh Looking at all of these studies and
+
+1136
+00:58:14.139 --> 00:58:17.560
+results that you and other people got. I mean,
+
+1137
+00:58:17.590 --> 00:58:22.770
+are you optimistic about tackling climate change or not?
+
+1138
+00:58:23.570 --> 00:58:25.870
+Yeah, I think um I think our, our book
+
+1139
+00:58:25.879 --> 00:58:28.479
+is pretty optimistic. We and we are pretty optimistic
+
+1140
+00:58:28.489 --> 00:58:30.580
+people about it. Um You know, if we to
+
+1141
+00:58:30.590 --> 00:58:32.590
+summarize very, you know, very quickly, the kind of
+
+1142
+00:58:32.600 --> 00:58:35.469
+like what we found, we find, uh people are
+
+1143
+00:58:35.479 --> 00:58:39.389
+delighted seemingly to not only work together for, to,
+
+1144
+00:58:39.399 --> 00:58:41.550
+to help themselves as a group, but to help
+
+1145
+00:58:41.560 --> 00:58:44.989
+complete strangers. Um THAT if you design things, the
+
+1146
+00:58:45.000 --> 00:58:47.804
+correct way, leaders and citizens don't need to be
+
+1147
+00:58:47.814 --> 00:58:50.554
+at odds, they can trust each other and often
+
+1148
+00:58:50.564 --> 00:58:54.854
+they want to work together effectively. Um And that
+
+1149
+00:58:54.864 --> 00:58:57.905
+uh people are pretty good at making these kinds
+
+1150
+00:58:57.915 --> 00:58:59.625
+of many of these kinds of decisions, at least
+
+1151
+00:58:59.635 --> 00:59:01.534
+the ones we discovered. So like the stuff about
+
+1152
+00:59:01.544 --> 00:59:04.364
+balancing risk and reward. People are great at that.
+
+1153
+00:59:04.584 --> 00:59:07.334
+Uh In the closing chapter of our book, um
+
+1154
+00:59:07.629 --> 00:59:09.399
+we, we kind of, we summarize this and we
+
+1155
+00:59:09.409 --> 00:59:11.489
+kind of outline what we see as the big
+
+1156
+00:59:11.500 --> 00:59:14.110
+challenge going forward, which is that given that people
+
+1157
+00:59:14.120 --> 00:59:18.209
+seem really cooper really intelligent about this stuff. We
+
+1158
+00:59:18.219 --> 00:59:20.330
+think that the bigger the big issue going forward
+
+1159
+00:59:20.340 --> 00:59:23.639
+is uh that scientists who actually so not us,
+
+1160
+00:59:23.649 --> 00:59:26.389
+we're behavioral scientists, but scientists who study the climate
+
+1161
+00:59:26.570 --> 00:59:30.189
+and people who are technologists, you know, they, they
+
+1162
+00:59:30.199 --> 00:59:32.649
+and with the help of behavioral scientists, we need
+
+1163
+00:59:32.659 --> 00:59:35.780
+to convince citizens that we actually do understand these
+
+1164
+00:59:35.790 --> 00:59:40.500
+problems accurately. And the solutions being proposed are reasonable
+
+1165
+00:59:40.510 --> 00:59:44.100
+and appropriate solutions to those problems. Once citizens buy
+
+1166
+00:59:44.110 --> 00:59:46.850
+in to those things, the problem is so is
+
+1167
+00:59:46.860 --> 00:59:50.620
+described correctly and the solutions are described correctly, our
+
+1168
+00:59:50.639 --> 00:59:52.959
+game suggests then they're, they're happy to do the
+
+1169
+00:59:52.969 --> 00:59:56.060
+right thing. Um 11 interesting thing about our, our
+
+1170
+00:59:56.070 --> 00:59:58.429
+games is that, you know, we, we directly give
+
+1171
+00:59:58.439 --> 01:00:00.870
+you the rules, we give you the stakes and
+
+1172
+01:00:00.879 --> 01:00:04.070
+people believe us. So we have people leaving uh
+
+1173
+01:00:04.080 --> 01:00:06.429
+open ended comments at the end of our experiments
+
+1174
+01:00:06.439 --> 01:00:09.320
+and people who uh you know, scream that climate
+
+1175
+01:00:09.330 --> 01:00:13.235
+change, complete hoax. Um THEY play just like everybody
+
+1176
+01:00:13.245 --> 01:00:16.205
+else, right? So uh they, they once they buy
+
+1177
+01:00:16.215 --> 01:00:18.254
+in and they know these are the rules, these
+
+1178
+01:00:18.264 --> 01:00:20.735
+are the stakes, it doesn't matter what their, their
+
+1179
+01:00:20.745 --> 01:00:22.895
+beliefs about the Real World were so in the
+
+1180
+01:00:22.905 --> 01:00:25.094
+real world then, um We think that's one of
+
+1181
+01:00:25.104 --> 01:00:27.905
+the most important um, elements that is creating this
+
+1182
+01:00:27.915 --> 01:00:30.594
+buy in and in, in the public. Um So,
+
+1183
+01:00:30.604 --> 01:00:32.715
+you know, you know, gaining the trust of the
+
+1184
+01:00:32.725 --> 01:00:35.264
+public as far as the scientific facts about the
+
+1185
+01:00:35.274 --> 01:00:35.754
+problem.
+
+1186
+01:00:37.540 --> 01:00:39.699
+Uh Would you have anything to add to that?
+
+1187
+01:00:39.709 --> 01:00:41.620
+Doctor Andrews or?
+
+1188
+01:00:41.649 --> 01:00:44.169
+Yeah, just that I agree with Andy, we have
+
+1189
+01:00:44.179 --> 01:00:48.239
+a lot of reasons to be very optimistic. Um
+
+1190
+01:00:48.250 --> 01:00:50.260
+Which is maybe not what you would assume, thinking
+
+1191
+01:00:50.270 --> 01:00:54.050
+about studying climate change and climate disaster. Um And
+
+1192
+01:00:54.060 --> 01:00:56.439
+the question is, how do we get people to
+
+1193
+01:00:56.449 --> 01:01:00.110
+believe in these rules of the game that climate
+
+1194
+01:01:00.120 --> 01:01:02.709
+change is a problem that it is caused by
+
+1195
+01:01:02.760 --> 01:01:05.820
+our emitting carbon dioxide to get people coordinating around
+
+1196
+01:01:05.830 --> 01:01:06.520
+this issue?
+
+1197
+01:01:08.000 --> 01:01:12.189
+Great. So the book is again Climate Games experiments
+
+1198
+01:01:12.199 --> 01:01:17.050
+on how people prevent disaster. Uh I'm leaving of
+
+1199
+01:01:17.060 --> 01:01:19.350
+course, a link to it in the description box
+
+1200
+01:01:19.360 --> 01:01:23.850
+down below. And uh doctors Dalton and Andrews, would
+
+1201
+01:01:23.860 --> 01:01:26.179
+you like just to tell the audience where they
+
+1202
+01:01:26.189 --> 01:01:29.060
+can find you and your work on the internet?
+
+1203
+01:01:29.520 --> 01:01:33.179
+Sure. Yeah. Uh If you uh type in Andrew
+
+1204
+01:01:33.280 --> 01:01:36.310
+dalton.com, that'll take you to my web page or
+
+1205
+01:01:36.320 --> 01:01:38.750
+you can go to uh to Twitter or X
+
+1206
+01:01:38.760 --> 01:01:42.469
+at at Andy Dalton uh that also eventually lead
+
+1207
+01:01:42.479 --> 01:01:43.959
+you to my web page and there's links for
+
+1208
+01:01:43.969 --> 01:01:46.199
+the book, like I said, it's free to download.
+
+1209
+01:01:46.209 --> 01:01:48.419
+If you go to University of Michigan Press website.
+
+1210
+01:01:48.570 --> 01:01:50.989
+Um So, oh, and also I would just as
+
+1211
+01:01:51.000 --> 01:01:54.159
+a plug, the book is written so that you
+
+1212
+01:01:54.169 --> 01:01:56.429
+are able to pick and choose what chapters you
+
+1213
+01:01:56.439 --> 01:01:58.129
+want to read, depending on what topic. So if
+
+1214
+01:01:58.139 --> 01:02:00.300
+one of the topics we talked about is really
+
+1215
+01:02:00.310 --> 01:02:02.159
+interesting, interesting to you and you don't care about
+
+1216
+01:02:02.169 --> 01:02:04.709
+anything else that's fine. The book is designed to
+
+1217
+01:02:04.719 --> 01:02:06.330
+be modular in that way. So just, you know,
+
+1218
+01:02:06.340 --> 01:02:08.020
+feel free to download and just read what you're
+
+1219
+01:02:08.030 --> 01:02:08.760
+interested in
+
+1220
+01:02:10.469 --> 01:02:13.739
+and Doctor Andrews, where can people find you on
+
+1221
+01:02:13.750 --> 01:02:14.239
+being through that?
+
+1222
+01:02:14.929 --> 01:02:19.629
+Yeah, my website is Talbot dash. Andrews.com. So you
+
+1223
+01:02:19.639 --> 01:02:21.790
+can see a lot more of my ongoing work
+
+1224
+01:02:21.800 --> 01:02:25.669
+there. Um You can also find me on X
+
+1225
+01:02:25.679 --> 01:02:28.350
+and on blue Sky. Thankfully, there aren't that many
+
+1226
+01:02:28.360 --> 01:02:30.350
+talbots out there. So I'm pretty easy to track
+
+1227
+01:02:30.360 --> 01:02:33.330
+down on both of those sites. Um And just
+
+1228
+01:02:33.340 --> 01:02:35.699
+to add to Andy's plug about our book, it's
+
+1229
+01:02:35.709 --> 01:02:38.929
+free to download. Uh It has a pretty clear
+
+1230
+01:02:38.939 --> 01:02:42.300
+crash course in why use behavioral economics at all.
+
+1231
+01:02:42.310 --> 01:02:45.649
+So even if you're teaching something related to climate
+
+1232
+01:02:45.659 --> 01:02:48.770
+change, but about econ games, we have what I
+
+1233
+01:02:48.780 --> 01:02:51.639
+think is a pretty nice introduction to that method
+
+1234
+01:02:51.649 --> 01:02:52.370
+as well.
+
+1235
+01:02:53.500 --> 01:02:56.750
+Great. So I'm leaving links to all of that
+
+1236
+01:02:56.760 --> 01:02:59.540
+uh in the description of the interview and thank
+
+1237
+01:02:59.550 --> 01:03:01.669
+you both so much for taking the time to
+
+1238
+01:03:01.679 --> 01:03:03.639
+come on the show. It's been a real pleasure
+
+1239
+01:03:03.649 --> 01:03:05.239
+to talk with you. Thank you, Ricardo.
+
+1240
+01:03:05.729 --> 01:03:06.939
+Thank you for having us.
+
+1241
+01:03:08.379 --> 01:03:11.110
+Hi guys. Thank you for watching this interview. Until
+
+1242
+01:03:11.120 --> 01:03:13.280
+the end. If you liked it, please share it.
+
+1243
+01:03:13.290 --> 01:03:16.090
+Leave a like and hit the subscription button. The
+
+1244
+01:03:16.100 --> 01:03:17.750
+show is brought to you by the N Lights
+
+1245
+01:03:17.760 --> 01:03:20.969
+learning and development. Then differently check the website at
+
+1246
+01:03:20.979 --> 01:03:24.780
+N lights.com and also please consider supporting the show
+
+1247
+01:03:24.820 --> 01:03:27.939
+on Patreon or paypal. I would also like to
+
+1248
+01:03:27.949 --> 01:03:30.389
+give a huge thank you to my main patrons
+
+1249
+01:03:30.399 --> 01:03:34.580
+and paypal supporters, Perera Larson, Jerry Muller and Frederick
+
+1250
+01:03:34.659 --> 01:03:37.510
+Suno Bernard Seche O of Alex Adam, Castle Matthew
+
+1251
+01:03:37.520 --> 01:03:40.790
+Whitten Bear. No wolf, Tim Ho Erica LJ Condors
+
+1252
+01:03:40.800 --> 01:03:43.570
+Philip Forrest Connelly. Then the Met Robert Wine in
+
+1253
+01:03:43.580 --> 01:03:47.129
+NAI Z Mark Nevs calling in Holbrook Field, Governor
+
+1254
+01:03:47.429 --> 01:03:51.290
+Mikel Stormer Samuel Andre Francis for Agns Ferus and
+
+1255
+01:03:51.620 --> 01:03:54.659
+H Her me and Lain Jung Y and the
+
+1256
+01:03:55.649 --> 01:03:59.189
+K Hes Mark Smith J. Tom Hummel. S Friends,
+
+1257
+01:03:59.239 --> 01:04:03.899
+David Sloan Wilson, Ya de Ro Ro Die, Jan
+
+1258
+01:04:04.239 --> 01:04:07.810
+Punter, Romani Charlotte Bli Nico Barba, Adam Hunt Pavlo
+
+1259
+01:04:07.969 --> 01:04:11.379
+Stassi Nale medicine, Gary G Alman Sam of ZED
+
+1260
+01:04:11.500 --> 01:04:17.320
+YPJ Barboa, Julian Price Edward Hall, Eden Broner Douglas
+
+1261
+01:04:17.330 --> 01:04:21.669
+Fry Franca, Beto Lati Cortez or Solis Scott Zachary
+
+1262
+01:04:21.689 --> 01:04:26.939
+FTD and W Daniel Friedman, William Buckner, Paul Giorgio,
+
+1263
+01:04:27.689 --> 01:04:31.149
+Luke Loki, Georges, Theophano Chris Williams and Peter Wo
+
+1264
+01:04:31.810 --> 01:04:35.969
+David Williams, the Ausa Anton Erickson Charles Murray, Alex
+
+1265
+01:04:36.209 --> 01:04:41.389
+Shaw, Marie Martinez, Coralie Chevalier, Bangalore Larry Dey Junior,
+
+1266
+01:04:41.419 --> 01:04:45.760
+Old Ebon Starry Michael Bailey. Then spur by Robert
+
+1267
+01:04:45.770 --> 01:04:50.449
+Grassy Zorn Jeff mcmahon, Jake, Zul Barnabas Radis. Mark
+
+1268
+01:04:50.459 --> 01:04:54.469
+Kemple Thomas Dvor Luke Neeson, Chris to Kimberley Johnson,
+
+1269
+01:04:54.600 --> 01:04:59.199
+Benjamin Gilbert Jessica. No, Linda Brendan, Nicholas Carlson, Ismael
+
+1270
+01:04:59.209 --> 01:05:04.219
+Bensley Man, George Katis Valentine Steinman, Perras, Kate Van
+
+1271
+01:05:04.229 --> 01:05:10.399
+Goler, Alexander Abert Liam Dan Biar Masoud Ali Mohammadi
+
+1272
+01:05:11.169 --> 01:05:16.010
+Perpendicular Jer Urla. Good enough, Gregory Hastings David Pins
+
+1273
+01:05:16.270 --> 01:05:20.044
+of Sean Nelson, Mike Levin and Jos Net. A
+
+1274
+01:05:20.235 --> 01:05:23.044
+special thanks to my producers is our web, Jim
+
+1275
+01:05:23.054 --> 01:05:26.314
+Frank Luca Toni, Tom Vig and Bernard N Cortes
+
+1276
+01:05:26.655 --> 01:05:30.314
+Dixon Bendik Muller Thomas Trumble, Catherine and Patrick Tobin,
+
+1277
+01:05:30.324 --> 01:05:33.705
+John Carlman, Negro, Nick Ortiz and Nick Golden. And
+
+1278
+01:05:33.715 --> 01:05:37.264
+to my executive producers, Matthew Lavender, Si Adrian Bogdan
+
+1279
+01:05:37.885 --> 01:05:39.534
+Knits and Rosie. Thank you for all.
+

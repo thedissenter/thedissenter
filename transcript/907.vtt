@@ -1,3362 +1,3338 @@
 WEBVTT
 
 1
-00:00:00.430 --> 00:00:03.129
+00:00:00.430 --> 00:00:03.130
 Hello everybody. Welcome to a new episode of the
 
 2
-00:00:03.140 --> 00:00:05.658
-Decent. I'm your host, Ricardo Lops. And
+00:00:03.140 --> 00:00:06.309
+Decent. I'm your host, Ricardo Lops. And today I'm
 
 3
-00:00:05.669 --> 00:00:09.130
-today I'm joined by Katerina Kovacevic. She is a
+00:00:06.320 --> 00:00:10.550
+joined by Katerina Kovacevic. She is a phd candidate
 
 4
-00:00:09.140 --> 00:00:13.050
-phd candidate in the Department of Cognitive Science at Central
+00:00:10.560 --> 00:00:13.529
+in the Department of Cognitive Science at Central European
 
 5
-00:00:13.060 --> 00:00:17.458
-European University. Her main research interest is responsibility.
+00:00:13.539 --> 00:00:18.450
+University. Her main research interest is responsibility. She investigates
 
 6
-00:00:17.469 --> 00:00:21.929
-She investigates how people ascribe responsibility for good and bad
+00:00:18.459 --> 00:00:22.500
+how people ascribe responsibility for good and bad outcomes
 
 7
-00:00:21.940 --> 00:00:27.500
-outcomes across various situations. And today we're focusing on
+00:00:22.510 --> 00:00:27.600
+across various situations. And today we're focusing on uh
 
 8
-00:00:27.579 --> 00:00:32.978
-uh responsibility and strategic ignorance. So Karina, welcome
+00:00:27.649 --> 00:00:33.200
+responsibility and strategic ignorance. So Karina, welcome to the
 
 9
-00:00:32.990 --> 00:00:34.990
-to the show. It's a big pleasure to everyone
+00:00:33.209 --> 00:00:36.009
+show. It's a big pleasure to everyone. Thank
 
 10
-00:00:35.649 --> 00:00:38.969
-. Thank you. It's also a pleasure from OK
+00:00:36.020 --> 00:00:37.520
+you. It's also a pleasure from
 
 11
-00:00:38.978 --> 00:00:42.348
-. So uh actually, this is very interesting because
+00:00:38.540 --> 00:00:42.349
+OK. So uh actually, this is very interesting because
 
 12
-00:00:42.359 --> 00:00:47.520
-uh I've already talked about responsibility with philosophers on the
+00:00:42.360 --> 00:00:47.369
+uh I've already talked about responsibility with philosophers on
 
 13
-00:00:47.529 --> 00:00:50.520
-show, but not with someone who approaches it from
+00:00:47.380 --> 00:00:50.220
+the show, but not with someone who approaches it
 
 14
-00:00:50.529 --> 00:00:55.950
-a sort of uh psychological slash cognitive science perspective.
+00:00:50.229 --> 00:00:55.110
+from a sort of uh psychological slash cognitive science
 
 15
-00:00:55.959 --> 00:01:00.329
-So, uh how do you approach responsibility from that
+00:00:55.119 --> 00:01:00.029
+perspective. So, uh how do you approach responsibility from
 
 16
-00:01:00.340 --> 00:01:03.548
-perspective? And what kinds of questions are you trying
+00:01:00.040 --> 00:01:03.060
+that perspective? And what kinds of questions are you
 
 17
-00:01:03.560 --> 00:01:07.569
-to answer in your research actually? Yeah, that's
+00:01:03.069 --> 00:01:06.489
+trying to answer in your research actually?
 
 18
-00:01:07.579 --> 00:01:10.698
-a good question to make some kind of a distinction
+00:01:07.129 --> 00:01:09.519
+Yeah, that's a good question to make some kind
 
 19
-00:01:10.799 --> 00:01:14.049
-in the approach of philosophers and psychologists uh to this
+00:01:09.529 --> 00:01:12.699
+of a distinction in the approach of philosophers and
 
 20
-00:01:14.058 --> 00:01:18.760
-type of topics. Um The main difference is that
+00:01:12.709 --> 00:01:16.470
+psychologists uh to this type of topics. Um The
 
 21
-00:01:18.769 --> 00:01:23.379
-we in psychology approach from the descriptive perspective, which
+00:01:16.480 --> 00:01:20.900
+main difference is that we in psychology approach from
 
 22
-00:01:23.388 --> 00:01:25.778
-means that we don't want to say what is right
+00:01:20.910 --> 00:01:24.300
+the descriptive perspective, which means that we don't want
 
 23
-00:01:25.790 --> 00:01:27.799
-, what is wrong how people should ascribe responsibility in
+00:01:24.309 --> 00:01:26.739
+to say what is right, what is wrong how
 
 24
-00:01:27.808 --> 00:01:32.388
-which cases, but rather how people do that,
+00:01:26.750 --> 00:01:30.800
+people should ascribe responsibility in which cases, but rather
 
 25
-00:01:32.400 --> 00:01:37.969
-what are people's moral intuitions? Um And um when
+00:01:30.809 --> 00:01:35.110
+how people do that, what are people's moral intuitions?
 
 26
-00:01:37.980 --> 00:01:41.558
-do they feel like it's um um good to,
+00:01:35.510 --> 00:01:39.419
+Um And um when do they feel like it's
 
 27
-00:01:41.569 --> 00:01:45.469
-to um ascribe responsibility, what are some relevant factors
+00:01:39.430 --> 00:01:44.260
+um um good to, to um ascribe responsibility, what
 
 28
-00:01:45.480 --> 00:01:48.558
-for them that influences their intuitions and their, their
+00:01:44.269 --> 00:01:47.480
+are some relevant factors for them that influences their
 
 29
-00:01:48.569 --> 00:01:53.500
-decisions? And um when we talk about the methodology
+00:01:47.489 --> 00:01:52.150
+intuitions and their, their decisions? And um when we
 
 30
-00:01:53.510 --> 00:01:57.000
-, so how I approach this um is uh mostly
+00:01:52.160 --> 00:01:55.099
+talk about the methodology, so how I approach this
 
 31
-00:01:57.010 --> 00:02:00.010
-through V studies uh which is when you write a
+00:01:55.110 --> 00:01:59.580
+um is uh mostly through V studies uh which
 
 32
-00:02:00.019 --> 00:02:06.500
-certain story um about some hypothetical agents. And then
+00:01:59.589 --> 00:02:04.010
+is when you write a certain story um about
 
 33
-00:02:06.510 --> 00:02:09.550
-you ask the person um some questions about their moral
+00:02:04.019 --> 00:02:08.089
+some hypothetical agents. And then you ask the person
 
 34
-00:02:09.558 --> 00:02:14.288
-judgments such as um is the person responsible for the
+00:02:08.139 --> 00:02:11.610
+um some questions about their moral judgments such as
 
 35
-00:02:14.300 --> 00:02:17.288
-certain outcome um in the story. And since I'm
+00:02:11.940 --> 00:02:15.330
+um is the person responsible for the certain outcome
 
 36
-00:02:17.300 --> 00:02:23.159
-interested in um different factors that could influence the description
+00:02:15.339 --> 00:02:19.100
+um in the story. And since I'm interested in
 
 37
-00:02:23.169 --> 00:02:27.139
-of responsibility, then I just vary uh the context
+00:02:19.110 --> 00:02:23.190
+um different factors that could influence the description of
 
 38
-00:02:27.149 --> 00:02:29.229
-of the story, what the agent knew what they
+00:02:23.199 --> 00:02:27.240
+responsibility, then I just vary uh the context of
 
 39
-00:02:29.240 --> 00:02:31.770
-didn't know uh what were their intentions and similar to
+00:02:27.250 --> 00:02:29.649
+the story, what the agent knew what they didn't
 
 40
-00:02:31.778 --> 00:02:37.569
-see whether that would trigger different intuitions, uh moral
+00:02:29.660 --> 00:02:32.770
+know uh what were their intentions and similar to
 
 41
-00:02:37.580 --> 00:02:42.058
-intuitions in, in participants. Um Yeah, and
+00:02:32.779 --> 00:02:37.570
+see whether that would trigger different intuitions, uh moral
 
 42
-00:02:42.069 --> 00:02:47.118
-also what psychologists do um when investigating responsibility and some
+00:02:37.580 --> 00:02:42.740
+intuitions in, in participants. Um Yeah, and also what
 
 43
-00:02:47.129 --> 00:02:51.419
-other moral judgments is uh especially in my department because
+00:02:42.750 --> 00:02:48.330
+psychologists do um when investigating responsibility and some other
 
 44
-00:02:51.429 --> 00:02:55.258
-I'm a cognitive scientist, we um discover the processes
+00:02:48.339 --> 00:02:51.419
+moral judgments is uh especially in my department because
 
 45
-00:02:55.520 --> 00:03:00.169
-behind uh this moral judgment. So what kind of
+00:02:51.429 --> 00:02:56.259
+I'm a cognitive scientist, we um discover the processes
 
 46
-00:03:00.179 --> 00:03:04.909
-cognitive process lies behind certain intuitions? In my case
+00:02:56.520 --> 00:03:00.169
+behind uh this moral judgment. So what kind of
 
 47
-00:03:04.919 --> 00:03:07.679
-, I talk a lot about counterfactual thinking, for
+00:03:00.179 --> 00:03:04.910
+cognitive process lies behind certain intuitions? In my case,
 
 48
-00:03:07.689 --> 00:03:09.979
-example, that is a thinking of possible alternatives.
+00:03:04.919 --> 00:03:08.270
+I talk a lot about counterfactual thinking, for example,
 
 49
-00:03:10.000 --> 00:03:13.909
-If this didn't happen, then something else wouldn't have
+00:03:08.279 --> 00:03:11.509
+that is a thinking of possible alternatives. If this
 
 50
-00:03:13.919 --> 00:03:15.788
-happened. Um So yeah, that's like a,
+00:03:11.520 --> 00:03:15.119
+didn't happen, then something else wouldn't have happened. Um
 
 51
-00:03:15.800 --> 00:03:22.258
-a crash course on what um psychologist does in uh
+00:03:15.130 --> 00:03:18.110
+So yeah, that's like a, a crash course on
 
 52
-00:03:22.270 --> 00:03:24.319
-in this type of a field. Yeah. OK
+00:03:18.119 --> 00:03:23.509
+what um psychologist does in uh in this type
 
 53
-00:03:24.330 --> 00:03:28.699
-. So let's get into some of your results and
+00:03:23.520 --> 00:03:24.380
+of a field. Yeah.
 
 54
-00:03:28.710 --> 00:03:31.800
-what we know about how people ascribe responsibility to others
+00:03:24.880 --> 00:03:28.500
+OK. So let's get into some of your results
 
 55
-00:03:31.808 --> 00:03:35.599
-in different kinds of situations and so on. So
+00:03:28.509 --> 00:03:32.059
+and what we know about how people ascribe responsibility
 
 56
-00:03:35.729 --> 00:03:40.460
-when exactly do people as ascribe responsibility to others?
+00:03:32.070 --> 00:03:34.929
+to others in different kinds of situations and so
 
 57
-00:03:42.719 --> 00:03:46.028
-Um So I will start first from a more bro
+00:03:34.940 --> 00:03:40.110
+on. So when exactly do people as ascribe responsibility
 
 58
-00:03:46.038 --> 00:03:49.750
-broad answer. So, um when I talk about
+00:03:40.119 --> 00:03:41.460
+to others?
 
 59
-00:03:49.758 --> 00:03:52.558
-responsibility, I, I talk mostly in my current
+00:03:42.720 --> 00:03:45.800
+Um So I will start first from a more
 
 60
-00:03:52.569 --> 00:03:57.149
-research about responsibility for the negative outcome. Um Then
+00:03:45.809 --> 00:03:49.750
+bro broad answer. So, um when I talk about
 
 61
-00:03:57.159 --> 00:04:02.189
-I see um which factors influence um people to ascribe
+00:03:49.759 --> 00:03:53.160
+responsibility, I, I talk mostly in my current research
 
 62
-00:04:02.199 --> 00:04:05.219
-responsibility more or less likely. So what are some
+00:03:53.169 --> 00:03:57.190
+about responsibility for the negative outcome. Um Then I
 
 63
-00:04:05.229 --> 00:04:10.669
-kind of a mitigating factors in ascribing responsibility? And
+00:03:57.199 --> 00:04:03.190
+see um which factors influence um people to ascribe
 
 64
-00:04:10.868 --> 00:04:14.949
-what I be shown by now is that um something
+00:04:03.199 --> 00:04:06.220
+responsibility more or less likely. So what are some
 
 65
-00:04:14.960 --> 00:04:17.088
-that has been already known um to an extent that
+00:04:06.229 --> 00:04:10.669
+kind of a mitigating factors in ascribing responsibility? And
 
 66
-00:04:17.100 --> 00:04:20.980
-epistemic states a relevant factor, so whether the agent
+00:04:10.869 --> 00:04:14.320
+what I be shown by now is that um
 
 67
-00:04:20.988 --> 00:04:25.040
-uh knew what would be the possible consequences of their
+00:04:14.330 --> 00:04:17.070
+something that has been already known um to an
 
 68
-00:04:25.048 --> 00:04:28.709
-actions or they didn't know. So some kind of
+00:04:17.079 --> 00:04:21.190
+extent that epistemic states a relevant factor, so whether
 
 69
-00:04:28.720 --> 00:04:31.699
-beliefs about the situation and what could happen, the
+00:04:21.200 --> 00:04:23.929
+the agent uh knew what would be the possible
 
 70
-00:04:31.709 --> 00:04:38.420
-level of knowledge and information. Um And um moreover
+00:04:23.940 --> 00:04:27.260
+consequences of their actions or they didn't know. So
 
 71
-00:04:38.428 --> 00:04:40.410
-, which is not a factor that I, that
+00:04:27.839 --> 00:04:31.519
+some kind of beliefs about the situation and what
 
 72
-00:04:40.420 --> 00:04:42.720
-I provide in my studies, but it is important
+00:04:31.690 --> 00:04:35.589
+could happen, the level of knowledge and information. Um
 
 73
-00:04:42.730 --> 00:04:46.278
-to mention is um intentions that they don't have.
+00:04:36.059 --> 00:04:39.679
+And um moreover, which is not a factor that
 
 74
-00:04:46.759 --> 00:04:50.278
-Um So if you have desire to harm the others
+00:04:39.690 --> 00:04:42.119
+I, that I provide in my studies, but it
 
 75
-00:04:50.290 --> 00:04:53.678
-, uh then it's more likely that you will be
+00:04:42.130 --> 00:04:45.619
+is important to mention is um intentions that they
 
 76
-00:04:53.689 --> 00:04:56.949
-ascribed as responsible uh for uh some kind of a
+00:04:45.630 --> 00:04:50.040
+don't have. Um So if you have desire to
 
 77
-00:04:56.959 --> 00:04:59.769
-bad outcome. But in my research, I mostly
+00:04:50.049 --> 00:04:53.209
+harm the others, uh then it's more likely that
 
 78
-00:04:59.778 --> 00:05:03.829
-focus on um this peculiar case of agents, uh
+00:04:53.220 --> 00:04:56.260
+you will be ascribed as responsible uh for uh
 
 79
-00:05:04.230 --> 00:05:08.670
-, who could have had the knowledge, um,
+00:04:56.269 --> 00:04:58.829
+some kind of a bad outcome. But in my
 
 80
-00:05:08.678 --> 00:05:13.170
-to see how people ascribe responsibility to them, um
+00:04:58.839 --> 00:05:02.950
+research, I mostly focus on um this peculiar case
 
 81
-00:05:13.319 --> 00:05:15.629
-, in, um, so to see how people
+00:05:02.959 --> 00:05:07.589
+of agents, uh, who could have had the knowledge,
 
 82
-00:05:15.639 --> 00:05:17.209
-react to ignorant agents and how they, uh,
+00:05:08.089 --> 00:05:11.910
+um, to see how people ascribe responsibility to them,
 
 83
-00:05:17.220 --> 00:05:19.910
-distinguish them from the people who have the knowledge.
+00:05:12.380 --> 00:05:15.920
+um, in, um, so to see how people react
 
 84
-00:05:20.290 --> 00:05:24.069
-Um, yeah, because it's, it's been shown
+00:05:15.929 --> 00:05:19.279
+to ignorant agents and how they, uh, distinguish them
 
 85
-00:05:24.509 --> 00:05:27.569
-like, um, that when you have the knowledge
+00:05:19.290 --> 00:05:22.190
+from the people who have the knowledge. Um, YEAH,
 
 86
-00:05:27.670 --> 00:05:30.819
-you're more likely to be responsible but the fact that
+00:05:22.200 --> 00:05:26.420
+because it's, it's been shown like, um, that when
 
 87
-00:05:30.829 --> 00:05:35.528
-you're ignorant is not always escalating. So that's interesting
+00:05:26.429 --> 00:05:29.130
+you have the knowledge you're more likely to be
 
 88
-00:05:35.540 --> 00:05:39.850
-to see when it is and when it isn't exculpating
+00:05:29.140 --> 00:05:33.079
+responsible but the fact that you're ignorant is not
 
 89
-00:05:40.069 --> 00:05:44.928
-. Yeah. So you're mostly interested here in epistemic
+00:05:33.089 --> 00:05:37.410
+always escalating. So that's interesting to see when it
 
 90
-00:05:44.939 --> 00:05:48.309
-responsibility, correct? Yeah, but just a bit
+00:05:37.420 --> 00:05:40.320
+is and when it isn't exculpating. Yeah.
 
 91
-00:05:48.319 --> 00:05:51.750
-of a disclaimer. Um I, I'm pretty sure
+00:05:40.739 --> 00:05:47.119
+So you're mostly interested here in epistemic responsibility, correct?
 
 92
-00:05:51.759 --> 00:05:55.988
-that philosophers will have a different definition of what epistemic
+00:05:47.540 --> 00:05:51.149
+Yeah, but just a bit of a disclaimer. Um
 
 93
-00:05:56.000 --> 00:05:59.588
-responsibility is. Uh whether there's a duty to know
+00:05:51.160 --> 00:05:54.059
+I, I'm pretty sure that philosophers will have a
 
 94
-00:05:59.600 --> 00:06:03.350
-enough about before forming certain attitudes, how I operationalize
+00:05:54.070 --> 00:05:58.390
+different definition of what epistemic responsibility is. Uh WHETHER
 
 95
-00:06:03.480 --> 00:06:08.790
-epistemic responsibility in my case is more something like epistemic
+00:05:58.399 --> 00:06:01.540
+there's a duty to know enough about before forming
 
 96
-00:06:08.798 --> 00:06:13.389
-duty, which is a duty to get informed before
+00:06:01.549 --> 00:06:06.549
+certain attitudes, how I operationalize epistemic responsibility in my
 
 97
-00:06:13.399 --> 00:06:17.048
-acting. Um And that means that if you have
+00:06:06.559 --> 00:06:11.320
+case is more something like epistemic duty, which is
 
 98
-00:06:17.059 --> 00:06:23.178
-a certain sufficient care for other people, you,
+00:06:11.329 --> 00:06:16.190
+a duty to get informed before acting. Um And
 
 99
-00:06:23.189 --> 00:06:26.420
-there is some kind of a normative expectation that you
+00:06:16.200 --> 00:06:20.179
+that means that if you have a certain sufficient
 
 100
-00:06:26.428 --> 00:06:30.298
-would take certain precautionary measures or certain actions to get
+00:06:20.440 --> 00:06:23.880
+care for other people, you, there is some kind
 
 101
-00:06:30.309 --> 00:06:35.000
-informed um before uh doing something that could hire mothers
+00:06:23.890 --> 00:06:28.420
+of a normative expectation that you would take certain
 
 102
-00:06:35.009 --> 00:06:39.750
-uh or similar. So that is what I I
+00:06:28.429 --> 00:06:32.679
+precautionary measures or certain actions to get informed um
 
 103
-00:06:39.759 --> 00:06:43.629
-talk about when I talk about epistemic responsibility. So
+00:06:32.690 --> 00:06:36.019
+before uh doing something that could hire mothers uh
 
 104
-00:06:43.639 --> 00:06:46.528
-basically that there is um when you have sufficient care
+00:06:36.029 --> 00:06:40.440
+or similar. So that is what I I talk
 
 105
-00:06:46.540 --> 00:06:50.088
-for others, you have epistemic intention, which is
+00:06:40.450 --> 00:06:44.320
+about when I talk about epistemic responsibility. So basically
 
 106
-00:06:50.100 --> 00:06:55.769
-intention to learn the relevant information that leads to checking
+00:06:44.329 --> 00:06:47.529
+that there is um when you have sufficient care
 
 107
-00:06:56.028 --> 00:06:59.939
-and that leads to preventing the negative outcome from happening
+00:06:47.540 --> 00:06:51.640
+for others, you have epistemic intention, which is intention
 
 108
-00:06:59.949 --> 00:07:02.449
-because now you have the relevant adequate knowledge for that
+00:06:51.649 --> 00:06:55.769
+to learn the relevant information that leads to checking
 
 109
-00:07:03.000 --> 00:07:08.369
-. So let's get a little bit into more detail
+00:06:56.029 --> 00:06:59.519
+and that leads to preventing the negative outcome from
 
 110
-00:07:08.379 --> 00:07:13.738
-here. So what if people act without relevant or
+00:06:59.529 --> 00:07:02.690
+happening because now you have the relevant adequate knowledge
 
 111
-00:07:13.750 --> 00:07:16.428
-sufficient knowledge in their possession? I mean, are
+00:07:02.700 --> 00:07:03.450
+for that.
 
 112
-00:07:16.439 --> 00:07:20.079
-they, are they held responsible or not or are
+00:07:04.000 --> 00:07:08.369
+So let's get a little bit into more detail
 
 113
-00:07:20.088 --> 00:07:26.028
-they held responsible in particular situations and not others?
+00:07:08.380 --> 00:07:13.739
+here. So what if people act without relevant or
 
 114
-00:07:26.040 --> 00:07:29.608
-How does it work? Exactly? Well, as
+00:07:13.750 --> 00:07:17.859
+sufficient knowledge in their possession? I mean, are they,
 
 115
-00:07:29.619 --> 00:07:31.048
-uh my b A professor, like to say,
+00:07:17.869 --> 00:07:21.269
+are they held responsible or not or are they
 
 116
-00:07:31.059 --> 00:07:34.100
-uh the best answer is it depends. Uh but
+00:07:21.279 --> 00:07:26.359
+held responsible in particular situations and not others? How
 
 117
-00:07:34.108 --> 00:07:36.699
-now I will, I will explain why it depends
+00:07:26.369 --> 00:07:27.660
+does it work? Exactly?
 
 118
-00:07:38.129 --> 00:07:41.139
-. Um So what we know by now is that
+00:07:28.549 --> 00:07:31.410
+Well, as uh my b A professor, like to
 
 119
-00:07:41.149 --> 00:07:43.129
-in a lot of cases, as I already mentioned
+00:07:31.420 --> 00:07:34.730
+say, uh the best answer is it depends. Uh
 
 120
-00:07:43.139 --> 00:07:47.910
-to repeat is that uh being knowledgeable um is um
+00:07:34.739 --> 00:07:37.010
+BUT now I will, I will explain why it
 
 121
-00:07:48.009 --> 00:07:51.769
-more um being, being more judged than, than
+00:07:37.019 --> 00:07:40.910
+depends. Um So what we know by now is
 
 122
-00:07:53.019 --> 00:07:57.470
-having a lack of knowledge about certain situations. But
+00:07:40.920 --> 00:07:42.640
+that in a lot of cases, as I already
 
 123
-00:07:57.480 --> 00:08:01.420
-the fact that you didn't know about something uh is
+00:07:42.649 --> 00:07:47.329
+mentioned to repeat is that uh being knowledgeable um
 
 124
-00:08:01.428 --> 00:08:05.730
-not enough. Um in some cases, for example
+00:07:47.339 --> 00:07:52.130
+is um more um being, being more judged than,
 
 125
-00:08:05.738 --> 00:08:07.209
-, you cannot say if you travel to another country
+00:07:52.140 --> 00:07:56.570
+than having a lack of knowledge about certain situations.
 
 126
-00:08:07.220 --> 00:08:11.338
-and you didn't buy the transport ticket, you cannot
+00:07:57.170 --> 00:08:00.309
+But the fact that you didn't know about something
 
 127
-00:08:11.350 --> 00:08:11.769
-say, oh, I didn't know how to use
+00:08:00.540 --> 00:08:04.950
+uh is not enough. Um IN some cases, for
 
 128
-00:08:11.778 --> 00:08:15.790
-the machine, um which could be the truth that
+00:08:04.959 --> 00:08:07.709
+example, you cannot say if you travel to another
 
 129
-00:08:15.798 --> 00:08:18.269
-you didn't know how to exactly buy the ticket,
+00:08:07.720 --> 00:08:11.049
+country and you didn't buy the transport ticket, you
 
 130
-00:08:18.278 --> 00:08:20.509
-but it was your, your obligation to get informed
+00:08:11.059 --> 00:08:12.769
+cannot say, oh, I didn't know how to use
 
 131
-00:08:20.519 --> 00:08:24.540
-how to do that. Um So um or when
+00:08:12.779 --> 00:08:15.790
+the machine, um which could be the truth that
 
 132
-00:08:24.548 --> 00:08:28.278
-you produce some kind of um uh very bad uh
+00:08:15.799 --> 00:08:18.269
+you didn't know how to exactly buy the ticket,
 
 133
-00:08:28.290 --> 00:08:31.389
-consequences, for example, you're a doctor and you
+00:08:18.279 --> 00:08:20.510
+but it was your, your obligation to get informed
 
 134
-00:08:31.399 --> 00:08:33.830
-didn't check some important allergy when you are prescribed the
+00:08:20.519 --> 00:08:25.540
+how to do that. Um So um or when
 
 135
-00:08:33.840 --> 00:08:37.349
-, the, the the medication. Um you cannot
+00:08:25.549 --> 00:08:28.260
+you produce some kind of um uh very bad
 
 136
-00:08:37.359 --> 00:08:39.389
-say, oh, I didn't know about that because
+00:08:28.269 --> 00:08:31.390
+uh consequences, for example, you're a doctor and you
 
 137
-00:08:39.399 --> 00:08:41.869
-it was kind of an obligation to get informed about
+00:08:31.399 --> 00:08:34.659
+didn't check some important allergy when you are prescribed
 
 138
-00:08:41.879 --> 00:08:45.629
-that. Um But what we show in, in
+00:08:34.669 --> 00:08:37.609
+the, the, the the medication. Um YOU cannot say,
 
 139
-00:08:45.639 --> 00:08:50.279
-our research as a very important factor in this case
+00:08:37.619 --> 00:08:39.770
+oh, I didn't know about that because it was
 
 140
-00:08:50.288 --> 00:08:54.440
-is whether there was an opportunity to learn the information
+00:08:39.780 --> 00:08:42.190
+kind of an obligation to get informed about that.
 
 141
-00:08:54.899 --> 00:08:58.269
-that is very important. Um If there was no
+00:08:42.869 --> 00:08:46.599
+Um But what we show in, in our research
 
 142
-00:08:58.279 --> 00:09:01.038
-opportunity to learn the information, the relevant quant factual
+00:08:46.609 --> 00:08:50.960
+as a very important factor in this case is
 
 143
-00:09:01.048 --> 00:09:05.639
-. So this relevant alternative is about some external factors
+00:08:51.099 --> 00:08:54.440
+whether there was an opportunity to learn the information
 
 144
-00:09:05.649 --> 00:09:07.808
-. So if it would have been possible to learn
+00:08:54.900 --> 00:08:58.270
+that is very important. Um If there was no
 
 145
-00:09:07.840 --> 00:09:11.710
-the relevant information, then the person would have done
+00:08:58.280 --> 00:09:02.039
+opportunity to learn the information, the relevant quant factual.
 
 146
-00:09:11.719 --> 00:09:15.779
-that. But if there was the opportunity to learn
+00:09:02.049 --> 00:09:05.640
+So this relevant alternative is about some external factors.
 
 147
-00:09:15.788 --> 00:09:18.849
-something relevant, but you deliberately chose not to do
+00:09:05.650 --> 00:09:08.809
+So if it would have been possible to learn
 
 148
-00:09:18.859 --> 00:09:24.009
-that, then you're more likely to be as scrapped
+00:09:08.840 --> 00:09:11.710
+the relevant information, then the person would have done
 
 149
-00:09:24.019 --> 00:09:30.349
-as responsible. Um And concretely in our um experiments
+00:09:11.719 --> 00:09:15.780
+that. But if there was the opportunity to learn
 
 150
-00:09:30.840 --> 00:09:33.908
-, those agents who uh didn't take the opportunity to
+00:09:15.789 --> 00:09:19.849
+something relevant, but you deliberately chose not to do
 
 151
-00:09:33.918 --> 00:09:39.590
-learn that they had were um they ascribe responsibility almost
+00:09:19.859 --> 00:09:24.010
+that, then you're more likely to be as scrapped
 
 152
-00:09:39.599 --> 00:09:43.259
-the same as the agents who knew about the possible
+00:09:24.020 --> 00:09:30.349
+as responsible. Um And concretely in our um experiments,
 
 153
-00:09:43.269 --> 00:09:48.058
-negative consequences. For example, um If uh you
+00:09:30.840 --> 00:09:34.909
+those agents who uh didn't take the opportunity to
 
 154
-00:09:48.070 --> 00:09:52.109
-see there is a sign that parking spots are maybe
+00:09:34.919 --> 00:09:40.150
+learn that they had were um they ascribe responsibility
 
 155
-00:09:52.119 --> 00:09:56.759
-uh reserved, but you don't really approach to check
+00:09:40.159 --> 00:09:43.690
+almost the same as the agents who knew about
 
 156
-00:09:56.769 --> 00:10:00.989
-it because you're rushing for your dentist appointment um that's
+00:09:43.700 --> 00:09:48.890
+the possible negative consequences. For example, um If uh
 
 157
-00:10:01.000 --> 00:10:05.029
-seen as negative and you are described as responsible.
+00:09:48.900 --> 00:09:52.090
+you see there is a sign that parking spots
 
 158
-00:10:05.090 --> 00:10:09.798
-Um statistically even the same as uh as a person
+00:09:52.099 --> 00:09:56.299
+are maybe uh reserved, but you don't really approach
 
 159
-00:10:09.808 --> 00:10:13.229
-who sees that the the spot is re uh reserved
+00:09:56.309 --> 00:09:58.799
+to check it because you're rushing for your dentist
 
 160
-00:10:13.239 --> 00:10:16.779
-, but just doesn't do anything about that. So
+00:09:58.809 --> 00:10:03.200
+appointment um that's seen as negative and you are
 
 161
-00:10:16.788 --> 00:10:20.349
-there is something in this opportunity to learn that people
+00:10:03.210 --> 00:10:08.719
+described as responsible. Um STATISTICALLY even the same as
 
 162
-00:10:20.969 --> 00:10:26.058
-um take is important. Um We interpret this as
+00:10:08.729 --> 00:10:11.599
+uh as a person who sees that the the
 
 163
-00:10:26.070 --> 00:10:33.048
-that um people think about um counter factuals that are
+00:10:11.609 --> 00:10:14.849
+spot is re uh reserved, but just doesn't do
 
 164
-00:10:33.058 --> 00:10:35.889
-related to epistemic intentions. So explain this a bit
+00:10:14.859 --> 00:10:18.239
+anything about that. So there is something in this
 
 165
-00:10:35.899 --> 00:10:39.219
-more what I mean by this is that people think
+00:10:18.250 --> 00:10:23.750
+opportunity to learn that people um take is important.
 
 166
-00:10:39.229 --> 00:10:43.190
-whether there would have been uh an agent who had
+00:10:24.260 --> 00:10:30.299
+Um We interpret this as that um people think
 
 167
-00:10:43.200 --> 00:10:46.750
-a better um more sufficient concern for others who would
+00:10:30.309 --> 00:10:34.000
+about um counter factuals that are related to epistemic
 
 168
-00:10:46.759 --> 00:10:52.619
-have done things differently if there is an agent who
+00:10:34.010 --> 00:10:37.700
+intentions. So explain this a bit more what I
 
 169
-00:10:52.639 --> 00:10:56.408
-uh cared more about the welfare of others. Um
+00:10:37.710 --> 00:10:40.900
+mean by this is that people think whether there
 
 170
-00:10:56.418 --> 00:11:01.009
-Would he um check if uh if the spot is
+00:10:40.909 --> 00:10:43.210
+would have been uh an agent who had a
 
 171
-00:11:01.019 --> 00:11:03.849
-reserved and if the answer is yes, then the
+00:10:43.219 --> 00:10:47.750
+better um more sufficient concern for others who would
 
 172
-00:11:03.859 --> 00:11:07.450
-person who didn't check if the spot was reserved is
+00:10:47.760 --> 00:10:51.739
+have done things differently if there is an agent
 
 173
-00:11:07.460 --> 00:11:11.048
-responsible. But then to complicate the story a bit
+00:10:51.750 --> 00:10:55.380
+who uh cared more about the welfare of others.
 
 174
-00:11:11.058 --> 00:11:13.109
-more, we added some other factors in, in
+00:10:55.750 --> 00:11:00.169
+Um Would he um check if uh if the
 
 175
-00:11:13.119 --> 00:11:16.950
-the question. So now we say, OK,
+00:11:00.179 --> 00:11:03.369
+spot is reserved and if the answer is yes,
 
 176
-00:11:16.960 --> 00:11:20.928
-the opportunity to learn the information is, is relevant
+00:11:03.380 --> 00:11:05.909
+then the person who didn't check if the spot
 
 177
-00:11:22.259 --> 00:11:24.479
-. Um But then we can ask, is a
+00:11:05.919 --> 00:11:10.330
+was reserved is responsible. But then to complicate the
 
 178
-00:11:24.489 --> 00:11:30.960
-person always um obliged to use that opportunity to learn
+00:11:10.340 --> 00:11:13.280
+story a bit more, we added some other factors
 
 179
-00:11:30.969 --> 00:11:35.719
-something and maybe intuitively, um we are not expected
+00:11:13.289 --> 00:11:17.950
+in, in the question. So now we say, OK,
 
 180
-00:11:35.729 --> 00:11:39.798
-to know everything about everything, right? So when
+00:11:17.960 --> 00:11:21.929
+the opportunity to learn the information is, is relevant.
 
 181
-00:11:39.808 --> 00:11:43.239
-it is very, it is more important uh to
+00:11:22.260 --> 00:11:26.030
+Um But then we can ask, is a person
 
 182
-00:11:43.250 --> 00:11:46.969
-get, to get informed. And one of the
+00:11:26.039 --> 00:11:30.960
+always um obliged to use that opportunity to learn
 
 183
-00:11:46.979 --> 00:11:48.979
-interesting factors that, that, that we write is
+00:11:30.969 --> 00:11:36.719
+something and maybe intuitively, um we are not expected
 
 184
-00:11:50.210 --> 00:11:56.200
-how effortful this action of getting the the adequate information
+00:11:36.729 --> 00:11:41.049
+to know everything about everything, right? So when it
 
 185
-00:11:56.210 --> 00:12:01.440
-is. So with the hypothesis that if um if
+00:11:41.059 --> 00:11:44.520
+is very, it is more important uh to get,
 
 186
-00:12:01.450 --> 00:12:05.710
-the action is very effortful and too costly for the
+00:11:44.530 --> 00:11:47.809
+to get informed. And one of the interesting factors
 
 187
-00:12:05.719 --> 00:12:09.729
-agent, uh that will be some mitigating factor,
+00:11:47.820 --> 00:11:52.809
+that, that, that we write is how effortful this
 
 188
-00:12:09.739 --> 00:12:13.168
-and uh there will be less expectation from this agent
+00:11:52.820 --> 00:11:58.570
+action of getting the the adequate information is. So
 
 189
-00:12:13.178 --> 00:12:15.619
-to engage in the action that is very costly for
+00:11:58.580 --> 00:12:03.349
+with the hypothesis that if um if the action
 
 190
-00:12:15.629 --> 00:12:20.469
-them. Um So, um we showed that that
+00:12:03.359 --> 00:12:06.330
+is very effortful and too costly for the agent,
 
 191
-00:12:20.479 --> 00:12:24.979
-this was the relevant factor and when there were two
+00:12:06.690 --> 00:12:10.229
+uh that will be some mitigating factor, and uh
 
 192
-00:12:24.989 --> 00:12:30.609
-agents who both didn't engage um in the um action
+00:12:10.239 --> 00:12:13.299
+there will be less expectation from this agent to
 
 193
-00:12:30.619 --> 00:12:33.580
-of checking, uh the one who needed less effort
+00:12:13.309 --> 00:12:15.619
+engage in the action that is very costly for
 
 194
-00:12:33.879 --> 00:12:39.340
-uh to do this action um is where as was
+00:12:15.630 --> 00:12:21.960
+them. Um So, um we showed that that this
 
 195
-00:12:39.349 --> 00:12:41.509
-described as, as more responsible to give you an
+00:12:21.969 --> 00:12:24.979
+was the relevant factor and when there were two
 
 196
-00:12:41.519 --> 00:12:45.820
-example. Um If you just need to read the
+00:12:24.989 --> 00:12:30.099
+agents who both didn't engage um in the um
 
 197
-00:12:45.830 --> 00:12:48.558
-sign uh to check whether the spot is reserved or
+00:12:30.109 --> 00:12:33.820
+action of checking, uh the one who needed less
 
 198
-00:12:48.570 --> 00:12:52.038
-not. Um And you didn't engage in such a
+00:12:33.830 --> 00:12:38.809
+effort uh to do this action um is where
 
 199
-00:12:52.048 --> 00:12:54.908
-simple action that would not be costly for you,
+00:12:38.820 --> 00:12:42.380
+as was described as, as more responsible to give
 
 200
-00:12:56.590 --> 00:13:00.119
-then you are s ascribe responsible. But if this
+00:12:42.390 --> 00:12:45.500
+you an example. Um If you just need to
 
 201
-00:13:00.129 --> 00:13:03.428
-action involved waiting for a parking attendant to come and
+00:12:45.510 --> 00:12:48.820
+read the sign uh to check whether the spot
 
 202
-00:13:03.440 --> 00:13:05.460
-you don't know when he's coming and you're in a
+00:12:48.830 --> 00:12:52.710
+is reserved or not. Um And you didn't engage
 
 203
-00:13:05.469 --> 00:13:09.710
-rush because you will um miss your appointment, then
+00:12:52.719 --> 00:12:54.789
+in such a simple action that would not be
 
 204
-00:13:09.719 --> 00:13:15.168
-a person, people are a bit um more um
+00:12:54.799 --> 00:12:59.039
+costly for you, then you are s ascribe responsible.
 
 205
-00:13:15.178 --> 00:13:20.168
-empathizing with the situation and they ascribe uh less responsibility
+00:12:59.210 --> 00:13:02.760
+But if this action involved waiting for a parking
 
 206
-00:13:20.590 --> 00:13:22.808
-. So in this case, when they come back
+00:13:02.770 --> 00:13:05.409
+attendant to come and you don't know when he's
 
 207
-00:13:22.820 --> 00:13:26.639
-to this counterfactual theory, we can say that even
+00:13:05.419 --> 00:13:07.929
+coming and you're in a rush because you will
 
 208
-00:13:26.649 --> 00:13:31.359
-the agent who had sufficient care for others uh maybe
+00:13:07.979 --> 00:13:11.979
+um miss your appointment, then a person, people are
 
 209
-00:13:31.369 --> 00:13:35.529
-wouldn't um check in this situation when the costs are
+00:13:11.989 --> 00:13:17.059
+a bit um more um empathizing with the situation
 
 210
-00:13:35.538 --> 00:13:37.080
-too high. So there is kind of a benefit
+00:13:17.070 --> 00:13:21.400
+and they ascribe uh less responsibility. So in this
 
 211
-00:13:37.090 --> 00:13:39.139
-of a doubt given to this to this person.
+00:13:21.409 --> 00:13:24.780
+case, when they come back to this counterfactual theory,
 
 212
-00:13:39.149 --> 00:13:41.750
-And we can say that the relevant counterfactual becomes,
+00:13:25.630 --> 00:13:28.520
+we can say that even the agent who had
 
 213
-00:13:41.830 --> 00:13:46.369
-if the action was not so effortful, then the
+00:13:28.530 --> 00:13:33.840
+sufficient care for others uh maybe wouldn't um check
 
 214
-00:13:46.379 --> 00:13:50.570
-agent would have done it. Um Yeah, so
+00:13:33.849 --> 00:13:36.169
+in this situation when the costs are too high.
 
 215
-00:13:50.950 --> 00:13:54.928
-there is some relevant factor. There are some um
+00:13:36.270 --> 00:13:38.159
+So there is kind of a benefit of a
 
 216
-00:13:54.940 --> 00:13:58.219
-other ones, but let's say these, these are
+00:13:38.169 --> 00:13:40.369
+doubt given to this to this person. And we
 
 217
-00:13:58.229 --> 00:14:00.340
-some, some of the most relevant. We also
+00:13:40.380 --> 00:13:44.140
+can say that the relevant counterfactual becomes, if the
 
 218
-00:14:00.349 --> 00:14:05.250
-checked um the weather. Um the probability of the
+00:13:44.150 --> 00:13:48.369
+action was not so effortful, then the agent would
 
 219
-00:14:05.259 --> 00:14:11.349
-navigate outcome happening is what is relevant. Um With
+00:13:48.380 --> 00:13:52.650
+have done it. Um Yeah, so there is some
 
 220
-00:14:11.359 --> 00:14:16.750
-, uh with the idea that if it is highly
+00:13:52.659 --> 00:13:56.530
+relevant factor. There are some um other ones, but
 
 221
-00:14:16.759 --> 00:14:20.678
-unlikely that something uh negative would happen, are you
+00:13:56.539 --> 00:13:59.010
+let's say these, these are some, some of the
 
 222
-00:14:20.690 --> 00:14:24.739
-still asked to, to check? Um and to
+00:13:59.020 --> 00:14:05.169
+most relevant. We also checked um the weather. Um
 
 223
-00:14:24.750 --> 00:14:28.340
-, to put some uh put some effort in order
+00:14:05.179 --> 00:14:09.320
+THE probability of the navigate outcome happening is what
 
 224
-00:14:28.349 --> 00:14:31.899
-to, to check what is uh what is the
+00:14:09.330 --> 00:14:13.909
+is relevant. Um With, uh with the idea that
 
 225
-00:14:31.908 --> 00:14:35.769
-relevant information about that event or to prevent? Um
+00:14:15.320 --> 00:14:19.270
+if it is highly unlikely that something uh negative
 
 226
-00:14:35.428 --> 00:14:41.340
-But this factor didn't seem to be uh relevant.
+00:14:19.280 --> 00:14:23.619
+would happen, are you still asked to, to check?
 
 227
-00:14:41.849 --> 00:14:43.869
-I mean, there may be reasons that uh the
+00:14:23.900 --> 00:14:27.380
+Um AND to, to put some uh put some
 
 228
-00:14:43.879 --> 00:14:48.798
-probabilities that we had were still above some threshold,
+00:14:27.390 --> 00:14:30.900
+effort in order to, to check what is uh
 
 229
-00:14:48.808 --> 00:14:52.129
-above which it is expected from people to act.
+00:14:31.419 --> 00:14:33.770
+what is the relevant information about that event or
 
 230
-00:14:52.139 --> 00:14:54.710
-So if, even if it's like 30 40% probability
+00:14:33.780 --> 00:14:39.900
+to prevent? Um But this factor didn't seem to
 
 231
-00:14:54.719 --> 00:14:58.548
-of something negative happening, if the action is so
+00:14:39.909 --> 00:14:43.690
+be uh relevant. I mean, there may be reasons
 
 232
-00:14:58.558 --> 00:15:01.960
-uh effortless, such as just reading the sign,
+00:14:43.700 --> 00:14:47.349
+that uh the probabilities that we had were still
 
 233
-00:15:01.969 --> 00:15:03.279
-you're expected to do it if you can prevent some
+00:14:47.359 --> 00:14:51.200
+above some threshold, above which it is expected from
 
 234
-00:15:03.288 --> 00:15:05.798
-harm to others. But this factor is still a
+00:14:51.210 --> 00:14:53.140
+people to act. So if, even if it's like
 
 235
-00:15:05.808 --> 00:15:09.869
-bit uh something that, that is, that should
+00:14:53.150 --> 00:14:57.349
+30 40% probability of something negative happening, if the
 
 236
-00:15:09.879 --> 00:15:13.690
-be researched more. Yeah. So, I mean
+00:14:57.359 --> 00:15:01.369
+action is so uh effortless, such as just reading
 
 237
-00:15:13.700 --> 00:15:16.408
-, uh it's not the case that people always hold
+00:15:01.380 --> 00:15:03.429
+the sign, you're expected to do it if you
 
 238
-00:15:16.418 --> 00:15:20.729
-people responsible. If they haven't gathered all the relevant
+00:15:03.440 --> 00:15:06.289
+can prevent some harm to others. But this factor
 
 239
-00:15:20.739 --> 00:15:24.070
-information, it depends. Uh I mean, a
+00:15:06.299 --> 00:15:09.219
+is still a bit uh something that, that is,
 
 240
-00:15:24.080 --> 00:15:28.190
-little bit on how much effort you have to put
+00:15:09.400 --> 00:15:11.070
+that should be researched more. Yeah.
 
 241
-00:15:28.200 --> 00:15:31.440
-into it to gather all the relevant information. But
+00:15:12.299 --> 00:15:15.700
+So, I mean, uh it's not the case that
 
 242
-00:15:31.450 --> 00:15:33.879
-I would, I mean, in terms of the
+00:15:15.710 --> 00:15:20.679
+people always hold people responsible. If they haven't gathered
 
 243
-00:15:33.889 --> 00:15:37.440
-effort, I would imagine that there are particular instances
+00:15:20.690 --> 00:15:25.049
+all the relevant information, it depends. Uh I mean,
 
 244
-00:15:37.450 --> 00:15:41.349
-where people, even if it would take a lot
+00:15:25.059 --> 00:15:28.489
+a little bit on how much effort you have
 
 245
-00:15:41.359 --> 00:15:46.234
-of effort would still hold you responsible. I mean
+00:15:28.500 --> 00:15:31.520
+to put into it to gather all the relevant
 
 246
-00:15:46.244 --> 00:15:48.514
-, just one clear, I guess example that comes
+00:15:31.530 --> 00:15:33.739
+information. But I would, I mean, in terms of
 
 247
-00:15:48.524 --> 00:15:52.974
-to mind is in health related situations. I mean
+00:15:33.750 --> 00:15:36.830
+the effort, I would imagine that there are particular
 
 248
-00:15:52.984 --> 00:15:58.224
-, if a doctor for some reason gets across a
+00:15:37.070 --> 00:15:41.919
+instances where people, even if it would take a
 
 249
-00:15:58.234 --> 00:16:03.379
-patient with a very rare condition and just because it's
+00:15:41.929 --> 00:15:45.974
+lot of effort would still hold you responsible. I
 
 250
-00:16:03.389 --> 00:16:06.580
-very rare and it would take him or her a
+00:15:45.984 --> 00:15:49.515
+mean, just one clear, I guess example that comes
 
 251
-00:16:06.590 --> 00:16:10.590
-lot of uh uh g uh a lot of time
+00:15:49.525 --> 00:15:53.974
+to mind is in health related situations. I mean,
 
 252
-00:16:10.599 --> 00:16:14.969
-to gather enough information to really understand how that rare
+00:15:53.984 --> 00:15:58.224
+if a doctor for some reason gets across a
 
 253
-00:16:14.979 --> 00:16:18.820
-condition works and how it might interfere with treatments and
+00:15:58.234 --> 00:16:03.179
+patient with a very rare condition and just because
 
 254
-00:16:18.830 --> 00:16:26.090
-other uh comorbidities. For example, people probably people
+00:16:03.190 --> 00:16:06.010
+it's very rare and it would take him or
 
 255
-00:16:26.099 --> 00:16:27.668
-in that specific case because they are dealing with a
+00:16:06.020 --> 00:16:09.690
+her a lot of uh uh g uh a
 
 256
-00:16:27.788 --> 00:16:34.739
-supposed experts would be less lenient in terms of,
+00:16:09.700 --> 00:16:13.440
+lot of time to gather enough information to really
 
 257
-00:16:34.788 --> 00:16:40.009
-I mean, not holding them responsible, particularly if
+00:16:13.450 --> 00:16:16.340
+understand how that rare condition works and how it
 
 258
-00:16:40.019 --> 00:16:44.989
-something bad happens because of that. Yes. Um
+00:16:16.349 --> 00:16:21.500
+might interfere with treatments and other uh comorbidities. For
 
 259
-00:16:45.019 --> 00:16:47.190
-Yes, that's, that's a very important what you're
+00:16:21.510 --> 00:16:27.669
+example, people probably people in that specific case because
 
 260
-00:16:47.200 --> 00:16:49.788
-saying. Um I see two relevant things there in
+00:16:27.679 --> 00:16:32.299
+they are dealing with a supposed experts would be
 
 261
-00:16:49.798 --> 00:16:55.178
-your example, one is um the responsibility that comes
+00:16:32.349 --> 00:16:37.219
+less lenient in terms of, I mean, not holding
 
 262
-00:16:55.190 --> 00:16:56.960
-with the obligations with the roles. So we can
+00:16:37.229 --> 00:16:43.119
+them responsible, particularly if something bad happens because of
 
 263
-00:16:56.969 --> 00:17:02.219
-talk about the normative expectations of certain roles. So
+00:16:43.130 --> 00:16:43.460
+that.
 
 264
-00:17:02.229 --> 00:17:07.318
-um like doctors, lawyers or some certain um roles
+00:16:43.820 --> 00:16:47.010
+Yes. Um Yes, that's, that's a very important what
 
 265
-00:17:07.328 --> 00:17:10.795
-in the society that are connected to some certain behaviors
+00:16:47.020 --> 00:16:50.700
+you're saying. Um I see two relevant things there
 
 266
-00:17:11.164 --> 00:17:12.963
-. And we expect more, more uh from a
+00:16:50.710 --> 00:16:54.940
+in your example, one is um the responsibility that
 
 267
-00:17:12.973 --> 00:17:17.404
-doctor, especially in this situation than of some person
+00:16:54.950 --> 00:16:57.809
+comes with the obligations with the roles. So we
 
 268
-00:17:17.414 --> 00:17:19.555
-who is not an expert in the field and didn't
+00:16:57.820 --> 00:17:01.390
+can talk about the normative expectations of certain roles.
 
 269
-00:17:19.564 --> 00:17:23.424
-oblige to help others and similar. The other relevant
+00:17:01.400 --> 00:17:06.479
+So um like doctors, lawyers or some certain um
 
 270
-00:17:23.434 --> 00:17:26.943
-factor that I see there is mostly when we talk
+00:17:06.489 --> 00:17:09.479
+roles in the society that are connected to some
 
 271
-00:17:26.953 --> 00:17:30.943
-about health and especially in this situation where there is
+00:17:09.733 --> 00:17:13.944
+certain behaviors. And we expect more, more uh from
 
 272
-00:17:30.953 --> 00:17:33.703
-a serious rare disease we talk about a very severe
+00:17:13.954 --> 00:17:16.905
+a doctor, especially in this situation than of some
 
 273
-00:17:33.713 --> 00:17:38.469
-outcomes. Um And this is something, this effect
+00:17:16.915 --> 00:17:20.015
+person who is not an expert in the field
 
 274
-00:17:38.479 --> 00:17:41.068
-of severity of the outcome is something that has been
+00:17:20.025 --> 00:17:23.854
+and didn't oblige to help others and similar. The
 
 275
-00:17:41.078 --> 00:17:45.410
-studied. Um um in some other context, um
+00:17:23.864 --> 00:17:27.483
+other relevant factor that I see there is mostly
 
 276
-00:17:45.420 --> 00:17:48.699
-uh when, for example, negligence. Um and
+00:17:27.493 --> 00:17:29.714
+when we talk about health and especially in this
 
 277
-00:17:48.709 --> 00:17:52.660
-it, it does make a difference, people ascribe
+00:17:29.724 --> 00:17:33.015
+situation where there is a serious rare disease we
 
 278
-00:17:52.670 --> 00:17:56.420
-more moral blame uh for agents who uh who produce
+00:17:33.025 --> 00:17:37.939
+talk about a very severe outcomes. Um And this
 
 279
-00:17:56.430 --> 00:18:00.900
-more severe um outcomes. Um But in this context
+00:17:37.949 --> 00:17:41.060
+is something, this effect of severity of the outcome
 
 280
-00:18:00.910 --> 00:18:03.098
-, when we talk about ignorant agents who didn't get
+00:17:41.069 --> 00:17:44.250
+is something that has been studied. Um um IN
 
 281
-00:18:03.108 --> 00:18:07.049
-informed and some, some bad happened. Um Then
+00:17:44.260 --> 00:17:48.689
+some other context, um uh when, for example, negligence.
 
 282
-00:18:07.059 --> 00:18:07.598
-that, that's a factor that I would, I
+00:17:48.699 --> 00:17:52.199
+Um AND it, it does make a difference, people
 
 283
-00:18:07.608 --> 00:18:11.209
-would uh like to uh to investigate in some of
+00:17:52.209 --> 00:17:55.719
+ascribe more moral blame uh for agents who uh
 
 284
-00:18:11.219 --> 00:18:18.039
-my future experiments. What my intuition about it uh
+00:17:55.729 --> 00:18:00.170
+who produce more severe um outcomes. Um But in
 
 285
-00:18:18.160 --> 00:18:23.848
-is now is that people are um computing the the
+00:18:00.180 --> 00:18:02.500
+this context, when we talk about ignorant agents who
 
 286
-00:18:23.858 --> 00:18:27.380
-utilities and maybe this now sounds uh sounds weird but
+00:18:02.510 --> 00:18:06.479
+didn't get informed and some, some bad happened. Um
 
 287
-00:18:27.390 --> 00:18:30.239
-maybe this is the behavioral economist side of me.
+00:18:06.489 --> 00:18:08.599
+Then that, that's a factor that I would, I
 
 288
-00:18:30.539 --> 00:18:36.199
-Um But I believe that people do um um consider
+00:18:08.609 --> 00:18:12.130
+would uh like to uh to investigate in some
 
 289
-00:18:36.209 --> 00:18:38.709
-uh the benefits, cost costs and benefits. Um
+00:18:12.140 --> 00:18:18.010
+of my future experiments. What my intuition about it
 
 290
-00:18:38.769 --> 00:18:44.449
-And this case, when um the potential harm is
+00:18:18.030 --> 00:18:24.119
+uh is now is that people are um computing
 
 291
-00:18:44.539 --> 00:18:48.799
-so severe, then um the ratio between uh the
+00:18:24.300 --> 00:18:26.969
+the the utilities and maybe this now sounds uh
 
 292
-00:18:48.809 --> 00:18:52.818
-cost for the agent who needs to put some effort
+00:18:26.979 --> 00:18:30.400
+sounds weird but maybe this is the behavioral economist
 
 293
-00:18:52.449 --> 00:18:56.910
-is still lower than the cost. Um The uh
+00:18:30.410 --> 00:18:33.640
+side of me. Um But I believe that people
 
 294
-00:18:56.920 --> 00:19:00.150
-of uh of the agent who would suffer uh from
+00:18:33.650 --> 00:18:37.800
+do um um consider uh the benefits, cost costs
 
 295
-00:19:00.160 --> 00:19:02.588
-uh the lack of this prevention. So, in
+00:18:37.810 --> 00:18:42.479
+and benefits. Um And this case, when um the
 
 296
-00:19:02.598 --> 00:19:07.068
-this case, um the more severe the outcome is
+00:18:42.489 --> 00:18:48.439
+potential harm is so severe, then um the ratio
 
 297
-00:19:07.078 --> 00:19:11.229
-I believe that people hold more expectations from agents to
+00:18:48.449 --> 00:18:51.280
+between uh the cost for the agent who needs
 
 298
-00:19:11.239 --> 00:19:17.189
-check the relevant information. Um I cannot claim this
+00:18:51.290 --> 00:18:54.910
+to put some effort is still lower than the
 
 299
-00:19:17.199 --> 00:19:18.189
-as for my, from my data, but this
+00:18:54.920 --> 00:18:58.199
+cost. Um The uh of uh of the agent
 
 300
-00:19:18.199 --> 00:19:21.809
-is my my, my strong intuition about this.
+00:18:58.209 --> 00:19:00.930
+who would suffer uh from uh the lack of
 
 301
-00:19:22.299 --> 00:19:23.880
-Um So let's see, maybe some uh next time
+00:19:00.939 --> 00:19:05.560
+this prevention. So, in this case, um the more
 
 302
-00:19:23.890 --> 00:19:27.529
-I can, I can give you a empirical answer
+00:19:05.569 --> 00:19:09.250
+severe the outcome is I believe that people hold
 
 303
-00:19:27.539 --> 00:19:30.500
-to that question. Um But yeah, this,
+00:19:09.260 --> 00:19:13.969
+more expectations from agents to check the relevant information.
 
 304
-00:19:30.509 --> 00:19:33.078
-this is what I uh what I think uh for
+00:19:14.630 --> 00:19:18.060
+Um I cannot claim this as for my, from
 
 305
-00:19:33.088 --> 00:19:37.348
-now. So uh we'll get back to outcomes in
+00:19:18.069 --> 00:19:20.550
+my data, but this is my my, my strong
 
 306
-00:19:37.358 --> 00:19:40.939
-a second. But let me just ask you one
+00:19:20.560 --> 00:19:24.119
+intuition about this. Um So let's see, maybe some
 
 307
-00:19:40.949 --> 00:19:45.430
-relate relevant information because I was just thinking about what
+00:19:24.130 --> 00:19:26.959
+uh next time I can, I can give you
 
 308
-00:19:45.439 --> 00:19:52.229
-people usually consider relevant information to be. I mean
+00:19:26.969 --> 00:19:31.209
+a empirical answer to that question. Um But yeah,
 
 309
-00:19:52.239 --> 00:19:53.459
-, of course, we would have to look perhaps
+00:19:31.219 --> 00:19:33.500
+this, this is what I uh what I think
 
 310
-00:19:53.469 --> 00:19:57.979
-at specific cases, specific examples. But for example
+00:19:33.510 --> 00:19:34.420
+uh for now.
 
 311
-00:19:57.989 --> 00:20:00.750
-, going back to the case of, I mean
+00:19:35.430 --> 00:19:38.369
+So uh we'll get back to outcomes in a
 
 312
-00:20:00.759 --> 00:20:04.750
-, relevant information, what if for some reason,
+00:19:38.380 --> 00:19:41.800
+second. But let me just ask you one relate
 
 313
-00:20:04.930 --> 00:20:11.449
-the person cannot have access to particular kinds of relevant
+00:19:42.160 --> 00:19:46.430
+relevant information because I was just thinking about what
 
 314
-00:20:11.459 --> 00:20:18.519
-information or if what people think is relevant information is
+00:19:46.439 --> 00:19:52.229
+people usually consider relevant information to be. I mean,
 
 315
-00:20:18.529 --> 00:20:21.920
-not even there because for example, we don't know
+00:19:52.239 --> 00:19:54.800
+of course, we would have to look perhaps at
 
 316
-00:20:21.930 --> 00:20:25.739
-enough about a particular disease. It has not been
+00:19:54.880 --> 00:19:59.589
+specific cases, specific examples. But for example, going back
 
 317
-00:20:25.750 --> 00:20:30.309
-studied enough, there are particular aspects of it that
+00:19:59.599 --> 00:20:03.660
+to the case of, I mean, relevant information, what
 
 318
-00:20:30.318 --> 00:20:33.578
-we don't know about yet. So, uh I
+00:20:03.670 --> 00:20:09.859
+if for some reason, the person cannot have access
 
 319
-00:20:33.588 --> 00:20:36.068
-mean, uh basically, what I'm trying to understand
+00:20:09.869 --> 00:20:15.140
+to particular kinds of relevant information or if what
 
 320
-00:20:36.078 --> 00:20:42.828
-is uh what people tend to consider relevant information basically
+00:20:15.150 --> 00:20:20.160
+people think is relevant information is not even there
 
 321
-00:20:44.539 --> 00:20:47.519
-. Oh yeah, that's an interesting question. Well
+00:20:20.170 --> 00:20:23.410
+because for example, we don't know enough about a
 
 322
-00:20:47.529 --> 00:20:49.979
-, 11 thing that I would like to mention here
+00:20:23.420 --> 00:20:26.849
+particular disease. It has not been studied enough, there
 
 323
-00:20:49.989 --> 00:20:53.739
-is that um the factor that I was uh I
+00:20:26.859 --> 00:20:31.160
+are particular aspects of it that we don't know
 
 324
-00:20:53.750 --> 00:20:57.259
-was uh talking about previously is this opportunity to learn
+00:20:31.170 --> 00:20:35.000
+about yet. So, uh I mean, uh basically, what
 
 325
-00:20:57.529 --> 00:21:00.709
-. And of course, there is no opportunity to
+00:20:35.010 --> 00:20:38.739
+I'm trying to understand is uh what people tend
 
 326
-00:21:00.719 --> 00:21:04.539
-get some information. Um Even the doctor wouldn't be
+00:20:38.750 --> 00:20:43.829
+to consider relevant information basically.
 
 327
-00:21:04.559 --> 00:21:07.939
-uh found responsible if there is just no, the
+00:20:44.540 --> 00:20:49.369
+Oh yeah, that's an interesting question. Well, 11 thing
 
 328
-00:21:07.949 --> 00:21:11.229
-medicine did not develop to the extent that could help
+00:20:49.380 --> 00:20:51.560
+that I would like to mention here is that
 
 329
-00:21:11.239 --> 00:21:15.689
-a person or there is no medication available in a
+00:20:52.000 --> 00:20:55.459
+um the factor that I was uh I was
 
 330
-00:21:15.699 --> 00:21:18.939
-certain context. And uh of course, in this
+00:20:55.469 --> 00:20:58.260
+uh talking about previously is this opportunity to learn.
 
 331
+00:20:58.530 --> 00:21:01.280
+And of course, there is no opportunity to get
+
+332
+00:21:01.390 --> 00:21:05.569
+some information. Um Even the doctor wouldn't be uh
+
+333
+00:21:05.579 --> 00:21:09.589
+found responsible if there is just no, the medicine
+
+334
+00:21:09.599 --> 00:21:12.229
+did not develop to the extent that could help
+
+335
+00:21:12.239 --> 00:21:15.670
+a person or there is no medication available in
+
+336
+00:21:15.680 --> 00:21:18.939
+a certain context. And uh of course, in this
+
+337
 00:21:18.949 --> 00:21:22.229
 case, situations when there is no opportunity to act
 
-332
-00:21:22.239 --> 00:21:26.338
-differently and then the the relevant quant factuals are about
-
-333
-00:21:26.348 --> 00:21:29.318
-some external factors, right? But this question,
-
-334
-00:21:29.328 --> 00:21:33.108
-what is the relevant information? Uh I mean,
-
-335
-00:21:33.118 --> 00:21:36.670
-I'm gonna get a bit uh theoretical but when I
-
-336
-00:21:36.680 --> 00:21:38.979
-talk about what the relevant information is, I talk
-
-337
-00:21:38.989 --> 00:21:42.229
-about information that has the power to change the outcome
-
 338
-00:21:44.229 --> 00:21:45.848
-. OK. Um And that's true what you say
+00:21:22.239 --> 00:21:25.969
+differently and then the the relevant quant factuals are
 
 339
-00:21:45.858 --> 00:21:51.529
-that it's not always obvious what type of information uh
+00:21:25.979 --> 00:21:29.530
+about some external factors, right? But this question, what
 
 340
-00:21:51.539 --> 00:21:55.098
-could change the outcome, right? Especially if you're
+00:21:29.540 --> 00:21:33.589
+is the relevant information? Uh I mean, I'm gonna
 
 341
-00:21:55.108 --> 00:21:57.250
-a doctor and you need to uh check for multiple
+00:21:33.599 --> 00:21:36.979
+get a bit uh theoretical but when I talk
 
 342
-00:21:57.259 --> 00:22:00.920
-options, then you don't know exactly which information would
+00:21:36.989 --> 00:21:40.310
+about what the relevant information is, I talk about
 
 343
-00:22:00.930 --> 00:22:04.910
-answer your questions. But if we talk about um
+00:21:40.319 --> 00:21:43.229
+information that has the power to change the outcome.
 
 344
-00:22:06.459 --> 00:22:11.640
-some other interpersonal relations, uh for example, um
+00:21:44.229 --> 00:21:47.000
+OK. Um And that's true what you say that
 
 345
-00:22:11.650 --> 00:22:14.489
-you want to take a car of your sibling um
+00:21:47.010 --> 00:21:51.530
+it's not always obvious what type of information uh
 
 346
+00:21:51.540 --> 00:21:55.119
+could change the outcome, right? Especially if you're a
+
+347
+00:21:55.130 --> 00:21:58.250
+doctor and you need to uh check for multiple
+
+348
+00:21:58.260 --> 00:22:01.920
+options, then you don't know exactly which information would
+
+349
+00:22:01.930 --> 00:22:05.910
+answer your questions. But if we talk about um
+
+350
+00:22:06.459 --> 00:22:11.920
+some other interpersonal relations, uh for example, um you
+
+351
+00:22:11.930 --> 00:22:14.489
+want to take a car of your sibling um
+
+352
 00:22:14.500 --> 00:22:18.439
 that you share um the relevant information would be,
 
-347
-00:22:18.769 --> 00:22:22.650
+353
+00:22:18.770 --> 00:22:22.650
 does my sibling need the car for today? Um
 
-348
+354
 00:22:22.660 --> 00:22:26.140
 And um you would call, call them to check
 
-349
-00:22:26.150 --> 00:22:29.949
-um about this. So, uh sometimes what is
-
-350
-00:22:29.959 --> 00:22:32.930
-the relevant information is very obvious uh such as in
-
-351
-00:22:32.939 --> 00:22:37.838
-the case of um checking what reading the parking sign
-
-352
-00:22:37.848 --> 00:22:40.670
-and reading if the spot is, is reserved or
-
-353
-00:22:40.680 --> 00:22:42.289
-not, can you park there or not? And
-
-354
-00:22:42.299 --> 00:22:45.410
-the relevant information is yes or no, right?
-
 355
-00:22:45.650 --> 00:22:48.880
-Uh Because that could change the course of the outcome
+00:22:26.150 --> 00:22:30.050
+um about this. So, uh sometimes what is the
 
 356
-00:22:48.890 --> 00:22:51.838
-if a person, uh, who needs this space
+00:22:30.060 --> 00:22:32.930
+relevant information is very obvious uh such as in
 
 357
-00:22:51.848 --> 00:22:53.828
-cannot park there. Right. Uh, but,
+00:22:32.939 --> 00:22:37.290
+the case of um checking what reading the parking
 
 358
-00:22:53.838 --> 00:22:56.318
-uh, I mean, I, I agree in
+00:22:37.300 --> 00:22:40.530
+sign and reading if the spot is, is reserved
 
 359
-00:22:56.328 --> 00:22:59.400
-some situations, um, what is relevant to be
+00:22:40.540 --> 00:22:43.290
+or not, can you park there or not? And
 
 360
-00:22:59.410 --> 00:23:02.180
-known, uh, is not so obvious. Yeah
+00:22:43.300 --> 00:22:45.670
+the relevant information is yes or no, right? Uh
 
 361
-00:23:02.959 --> 00:23:04.719
-, that's true. Yeah. And going back to
+00:22:45.680 --> 00:22:48.880
+Because that could change the course of the outcome
 
 362
-00:23:04.729 --> 00:23:10.259
-the outcomes because we've already talked here about how,
+00:22:48.890 --> 00:22:52.099
+if a person, uh, who needs this space cannot
 
 363
-00:23:10.269 --> 00:23:14.779
-uh, if it's a severe outcome, people usually
+00:22:52.109 --> 00:22:55.750
+park there. Right. Uh, BUT, uh, I mean, I,
 
 364
-00:23:15.000 --> 00:23:18.338
-tend to ascribe more responsibility to the person. But
+00:22:55.760 --> 00:22:59.119
+I agree in some situations, um, what is relevant
 
 365
-00:23:18.519 --> 00:23:23.094
-what if, uh, people get a good outcome
+00:22:59.130 --> 00:23:02.180
+to be known, uh, is not so obvious. Yeah,
 
 366
-00:23:23.104 --> 00:23:26.354
-even if they didn't hold, uh, uh,
+00:23:02.959 --> 00:23:03.530
+that's
 
 367
-00:23:26.364 --> 00:23:32.654
-the relevant information that it was just a good outcome
+00:23:03.540 --> 00:23:07.199
+true. Yeah. And going back to the outcomes because
 
 368
-00:23:32.664 --> 00:23:36.584
-basically by chance. Do, does that matter to
+00:23:07.209 --> 00:23:11.189
+we've already talked here about how, uh, if it's
 
 369
-00:23:36.594 --> 00:23:40.868
-people or not? Mhm. Um, but do
+00:23:11.199 --> 00:23:16.699
+a severe outcome, people usually tend to ascribe more
 
 370
-00:23:40.880 --> 00:23:45.108
-you mean there, whether a person would be responsible
+00:23:16.709 --> 00:23:21.314
+responsibility to the person. But what if, uh, people
 
 371
-00:23:45.318 --> 00:23:48.019
-? Um, or for, I mean, if
+00:23:21.324 --> 00:23:26.895
+get a good outcome even if they didn't hold,
 
 372
-00:23:48.029 --> 00:23:49.910
-, in that case, so let's say that uh
+00:23:27.114 --> 00:23:30.685
+uh, uh, the relevant information that it was just
 
 373
-00:23:51.140 --> 00:23:55.588
-, they get, they got a good outcome but
+00:23:30.915 --> 00:23:35.535
+a good outcome basically by chance. Do, does that
 
 374
-00:23:55.598 --> 00:24:00.459
-later people learn that it was mostly by chance because
+00:23:35.545 --> 00:23:38.525
+matter to people or not?
 
 375
-00:24:00.469 --> 00:24:03.250
-the person didn't really, uh have, uh,
+00:23:39.170 --> 00:23:41.989
+Mhm. Um, BUT do you mean there, whether a
 
 376
-00:24:03.259 --> 00:24:07.894
-the relevant information. I mean, just basically did
+00:23:42.000 --> 00:23:46.989
+person would be responsible? Um, OR for,
 
 377
-00:24:07.904 --> 00:24:11.914
-things they went into it blind, let's say,
+00:23:47.180 --> 00:23:49.709
+I mean, if, in that case, so let's say
 
 378
-00:24:11.924 --> 00:24:14.104
-and they got a good outcome. I mean,
+00:23:49.719 --> 00:23:54.989
+that uh, they get, they got a good outcome
 
 379
-00:24:14.114 --> 00:24:18.243
-does that matter? Do people care about that at
+00:23:55.000 --> 00:23:59.310
+but later people learn that it was mostly by
 
 380
-00:24:18.255 --> 00:24:21.795
-all or not? I mean, does that over
+00:23:59.319 --> 00:24:04.250
+chance because the person didn't really, uh have, uh,
 
 381
-00:24:21.805 --> 00:24:25.594
-, is that more important to people than the fact
+00:24:04.260 --> 00:24:08.685
+the relevant information. I mean, just basically did things
 
 382
-00:24:25.604 --> 00:24:29.795
-that they just got a good outcome or not?
+00:24:08.694 --> 00:24:12.244
+they went into it blind, let's say, and they
 
 383
-00:24:29.963 --> 00:24:30.904
-Um, that, that's a good question when we
+00:24:12.255 --> 00:24:15.915
+got a good outcome. I mean, does that matter?
 
 384
-00:24:30.914 --> 00:24:36.068
-talk about responsibility, the way I define responsibility is
+00:24:15.925 --> 00:24:19.694
+Do people care about that at all or not?
 
 385
-00:24:36.078 --> 00:24:38.969
-that, uh, some certain outcome is needed because
+00:24:19.704 --> 00:24:24.224
+I mean, does that over, is that more important
 
 386
-00:24:38.979 --> 00:24:44.719
-responsibility can be seen as a, um, response
+00:24:24.234 --> 00:24:26.944
+to people than the fact that they just got
 
 387
-00:24:44.729 --> 00:24:47.799
-to something So when something happens, we can talk
+00:24:26.954 --> 00:24:29.795
+a good outcome or not?
 
 388
-00:24:47.809 --> 00:24:52.328
-about who is responsible for that certain outcome. Um
+00:24:29.964 --> 00:24:32.185
+Um, THAT, that's a good question when we talk
 
 389
-00:24:52.338 --> 00:24:59.670
-But there are other moral judgments that would take these
+00:24:32.194 --> 00:24:36.500
+about responsibility, the way I define responsibility is that,
 
 390
-00:24:59.680 --> 00:25:03.890
-uh mental states more into account. And that uh
+00:24:37.130 --> 00:24:40.829
+uh, some certain outcome is needed because responsibility can
 
 391
-00:25:03.900 --> 00:25:08.588
-for example, um um Cushman theory, Cushman is
+00:24:40.839 --> 00:24:45.859
+be seen as a, um, response to something So
 
 392
-00:25:08.598 --> 00:25:15.680
-talking about um this how for um judgments of blame
+00:24:45.869 --> 00:24:49.729
+when something happens, we can talk about who is
 
 393
-00:25:15.689 --> 00:25:18.890
-and punishment outcome is, is uh what is very
+00:24:49.739 --> 00:24:53.969
+responsible for that certain outcome. Um But there are
 
 394
-00:25:18.900 --> 00:25:22.789
-important and more important than when we talk about the
+00:24:53.979 --> 00:25:00.510
+other moral judgments that would take these uh mental
 
 395
-00:25:22.799 --> 00:25:26.949
-judgment of moral wrongness, for example. So in
+00:25:00.520 --> 00:25:05.500
+states more into account. And that uh for example,
 
 396
-00:25:26.959 --> 00:25:30.618
-this case, when somebody, um even when there
+00:25:05.640 --> 00:25:10.849
+um um Cushman theory, Cushman is talking about um
 
 397
-00:25:30.630 --> 00:25:33.078
-is no negative outcome, we can still maybe not
+00:25:10.859 --> 00:25:16.699
+this how for um judgments of blame and punishment
 
 398
-00:25:33.088 --> 00:25:36.299
-talk about whether the person is responsible because nothing bad
+00:25:16.849 --> 00:25:20.880
+outcome is, is uh what is very important and
 
 399
-00:25:36.309 --> 00:25:37.838
-happened, but we can talk about whether they acted
+00:25:20.890 --> 00:25:24.410
+more important than when we talk about the judgment
 
 400
-00:25:37.848 --> 00:25:41.920
-morally wrongly. Um for not gathering the right information
+00:25:24.420 --> 00:25:27.760
+of moral wrongness, for example. So in this case,
 
 401
-00:25:42.078 --> 00:25:45.549
-such as a doctor who didn't really check for some
+00:25:27.770 --> 00:25:31.319
+when somebody, um even when there is no negative
 
 402
-00:25:45.559 --> 00:25:49.078
-relevant conditions before giving the medication that could have produced
+00:25:31.329 --> 00:25:34.000
+outcome, we can still maybe not talk about whether
 
 403
-00:25:49.088 --> 00:25:53.029
-some negative consequences. So in that case, I
+00:25:34.010 --> 00:25:37.219
+the person is responsible because nothing bad happened, but
 
 404
-00:25:53.039 --> 00:25:57.180
-wouldn't talk about responsibility, but I could talk about
+00:25:37.229 --> 00:25:40.010
+we can talk about whether they acted morally wrongly.
 
 405
-00:25:57.189 --> 00:26:00.219
-whether it was right or wrong. Um Not to
+00:25:40.050 --> 00:25:43.569
+Um FOR not gathering the right information such as
 
 406
-00:26:00.229 --> 00:26:04.219
-have a certain information. Um That is the case
+00:25:43.579 --> 00:25:46.000
+a doctor who didn't really check for some relevant
 
 407
-00:26:04.229 --> 00:26:07.959
-of, for example, uh drunk driving, you
+00:25:46.010 --> 00:25:50.079
+conditions before giving the medication that could have produced
 
 408
-00:26:07.969 --> 00:26:11.479
-can be morally judged for driving drunk, even if
+00:25:50.089 --> 00:25:54.439
+some negative consequences. So in that case, I wouldn't
 
 409
-00:26:11.489 --> 00:26:15.449
-you came home safely by pure luck, right?
+00:25:54.449 --> 00:25:58.579
+talk about responsibility, but I could talk about whether
 
 410
-00:26:15.900 --> 00:26:18.848
-So we can, we can judge this action and
+00:25:58.589 --> 00:26:01.500
+it was right or wrong. Um Not to have
 
 411
-00:26:18.858 --> 00:26:21.838
-your behavior as not being the good one, but
+00:26:01.510 --> 00:26:05.489
+a certain information. Um That is the case of,
 
 412
-00:26:21.848 --> 00:26:25.979
-we cannot make you responsible for an outcome that didn't
+00:26:05.500 --> 00:26:09.979
+for example, uh drunk driving, you can be morally
 
 413
-00:26:25.989 --> 00:26:27.969
-happen, right? Um This is my take on
+00:26:09.989 --> 00:26:13.319
+judged for driving drunk, even if you came home
 
 414
-00:26:27.979 --> 00:26:32.019
-this, that uh when I talk about responsibility in
+00:26:13.329 --> 00:26:16.910
+safely by pure luck, right? So we can, we
 
 415
-00:26:32.029 --> 00:26:33.578
-this case, I talk about the, the responsibility
+00:26:16.920 --> 00:26:20.280
+can judge this action and your behavior as not
 
 416
-00:26:33.588 --> 00:26:37.430
-for something that happened, um, some people would
+00:26:20.290 --> 00:26:22.579
+being the good one, but we cannot make you
 
 417
-00:26:37.439 --> 00:26:41.479
-maybe talk about responsibility, like, um, and
+00:26:22.589 --> 00:26:27.520
+responsible for an outcome that didn't happen, right? Um
 
 418
-00:26:41.489 --> 00:26:45.630
-that assigning responsibility to people to do certain actions,
+00:26:27.530 --> 00:26:30.260
+This is my take on this, that uh when
 
 419
-00:26:45.640 --> 00:26:48.189
-like some kind of obligations. But, um,
+00:26:30.270 --> 00:26:32.920
+I talk about responsibility in this case, I talk
 
 420
-00:26:48.199 --> 00:26:52.108
-I talk mostly about the, the responsibility for the
+00:26:32.930 --> 00:26:37.439
+about the, the responsibility for something that happened, um,
 
 421
-00:26:52.118 --> 00:26:55.029
-harm that, that happened in this case but we're
+00:26:37.449 --> 00:26:41.750
+some people would maybe talk about responsibility, like, um,
 
 422
-00:26:55.039 --> 00:26:56.049
-sure we can talk about whether the, the,
+00:26:42.280 --> 00:26:46.099
+and that assigning responsibility to people to do certain
 
 423
-00:26:56.059 --> 00:26:59.578
-the, the lack of knowledge, uh, was
+00:26:46.109 --> 00:26:49.310
+actions, like some kind of obligations. But, um, I
 
 424
-00:26:59.588 --> 00:27:03.539
-bad. Right. Mhm. Right. So let's
+00:26:49.319 --> 00:26:52.949
+talk mostly about the, the responsibility for the harm
 
 425
-00:27:03.549 --> 00:27:07.130
-get now into strategic ignorance since we're talking about also
+00:26:52.959 --> 00:26:55.310
+that, that happened in this case but we're sure
 
 426
-00:27:07.140 --> 00:27:11.019
-epistemic responsibility here. I guess that this ties very
+00:26:55.319 --> 00:26:57.349
+we can talk about whether the, the, the, the
 
 427
-00:27:11.029 --> 00:27:15.779
-well to that. So what is strategic ignorance?
+00:26:57.359 --> 00:27:01.069
+lack of knowledge, uh, was bad. Right.
 
 428
-00:27:15.789 --> 00:27:22.358
-Exactly. Yes. So we talked about different situations
+00:27:01.400 --> 00:27:06.180
+Mhm. Right. So let's get now into strategic ignorance
 
 429
-00:27:22.368 --> 00:27:25.559
-in which agents are ignorant, right? And there
+00:27:06.189 --> 00:27:10.189
+since we're talking about also epistemic responsibility here. I
 
 430
-00:27:25.568 --> 00:27:30.130
-can be multiple causes why somebody um it was left
+00:27:10.199 --> 00:27:13.359
+guess that this ties very well to that. So
 
 431
-00:27:30.140 --> 00:27:34.818
-ignorant. Strategic ignorance is this specific situation uh when
+00:27:13.369 --> 00:27:16.459
+what is strategic ignorance? Exactly.
 
 432
-00:27:34.828 --> 00:27:40.779
-uh people are using as Dan and colleagues say this
+00:27:17.599 --> 00:27:23.099
+Yes. So we talked about different situations in which
 
 433
-00:27:40.789 --> 00:27:45.229
-moral wiggle room, uh what it means it means
+00:27:23.109 --> 00:27:26.339
+agents are ignorant, right? And there can be multiple
 
 434
-00:27:45.239 --> 00:27:48.239
-that since we talked about how in um a lot
+00:27:26.349 --> 00:27:31.760
+causes why somebody um it was left ignorant. Strategic
 
 435
-00:27:48.250 --> 00:27:52.189
-of cases, the fact that didn't, didn't know
+00:27:31.770 --> 00:27:37.339
+ignorance is this specific situation uh when uh people
 
 436
-00:27:52.549 --> 00:27:56.400
-that something bad can happen, can mitigate the responsibility
+00:27:37.349 --> 00:27:41.500
+are using as Dan and colleagues say this moral
 
 437
-00:27:56.568 --> 00:28:00.699
-. People can use this space to say, oh
+00:27:41.510 --> 00:27:45.569
+wiggle room, uh what it means it means that
 
 438
-00:28:00.709 --> 00:28:04.118
-I didn't know such as this case with not buying
+00:27:45.579 --> 00:27:49.239
+since we talked about how in um a lot
 
 439
-00:28:04.130 --> 00:28:07.269
-a transport ticket. Oh I didn't know how to
+00:27:49.250 --> 00:27:52.750
+of cases, the fact that didn't, didn't know that
 
 440
-00:28:07.279 --> 00:28:10.930
-buy a transport ticket. Um So I'm I'm not
+00:27:52.760 --> 00:27:58.069
+something bad can happen, can mitigate the responsibility. People
 
 441
-00:28:10.939 --> 00:28:12.739
-responsible for um I shouldn't be punished for this,
+00:27:58.079 --> 00:28:02.239
+can use this space to say, oh I didn't
 
 442
-00:28:12.750 --> 00:28:18.479
-right? So strategic ignorance is ignoring some relevant information
+00:28:02.250 --> 00:28:05.140
+know such as this case with not buying a
 
 443
-00:28:18.259 --> 00:28:23.279
-in order to run away from uh the responsibility of
+00:28:05.150 --> 00:28:07.479
+transport ticket. Oh I didn't know how to buy
 
 444
-00:28:23.289 --> 00:28:27.068
-of your actions. Um In my case, we
+00:28:07.489 --> 00:28:11.640
+a transport ticket. Um So I'm I'm not responsible
 
 445
-00:28:27.078 --> 00:28:32.160
-call it fearful ignorance, but still in these cases
+00:28:11.650 --> 00:28:14.160
+for um I shouldn't be punished for this, right?
 
 446
-00:28:32.170 --> 00:28:33.939
-, um, that I mentioned to you such as
+00:28:14.400 --> 00:28:19.410
+So strategic ignorance is ignoring some relevant information in
 
 447
-00:28:33.949 --> 00:28:38.420
-a person not checking the parking sign, um,
+00:28:19.420 --> 00:28:24.280
+order to run away from uh the responsibility of
 
 448
-00:28:40.670 --> 00:28:42.309
-we can say that the person did that on purpose
+00:28:24.290 --> 00:28:28.290
+of your actions. Um In my case, we call
 
 449
-00:28:42.318 --> 00:28:45.750
-so that they are not late for their appointment because
+00:28:28.300 --> 00:28:32.229
+it fearful ignorance, but still in these cases, um,
 
 450
-00:28:45.759 --> 00:28:48.588
-in this case, they would need to change uh
+00:28:32.239 --> 00:28:34.500
+that I mentioned to you such as a person
 
 451
-00:28:48.598 --> 00:28:52.269
-the spot. Uh, they would need to park
+00:28:34.510 --> 00:28:41.410
+not checking the parking sign, um, we can say
 
 452
-00:28:52.279 --> 00:28:56.078
-and lose some time. So they strategically ignore this
+00:28:41.420 --> 00:28:44.150
+that the person did that on purpose so that
 
 453
-00:28:56.088 --> 00:29:00.170
-in order not to be uh not to feel morally
+00:28:44.500 --> 00:28:46.810
+they are not late for their appointment because in
 
 454
-00:29:00.180 --> 00:29:03.809
-obliged to change their actions. That's the idea.
+00:28:46.819 --> 00:28:49.819
+this case, they would need to change uh the
 
 455
-00:29:03.299 --> 00:29:07.930
-Um Either to themselves um or to other people.
+00:28:49.829 --> 00:28:52.540
+spot. Uh, THEY would need to park and lose
 
 456
-00:29:07.939 --> 00:29:11.799
-So basically, to save some kind of a positive
+00:28:52.550 --> 00:28:56.569
+some time. So they strategically ignore this in order
 
 457
-00:29:11.809 --> 00:29:15.009
-picture of themselves or they want other people to think
+00:28:56.579 --> 00:29:00.800
+not to be uh not to feel morally obliged
 
 458
-00:29:15.019 --> 00:29:17.009
-more positively of them. So if you say,
+00:29:00.810 --> 00:29:05.329
+to change their actions. That's the idea. Um Either
 
 459
-00:29:17.019 --> 00:29:18.459
-oh, I didn't know I took somebody else's spot
+00:29:05.339 --> 00:29:09.630
+to themselves um or to other people. So basically,
 
 460
-00:29:18.699 --> 00:29:22.348
-, um It's not the same as saying, oh
+00:29:09.640 --> 00:29:12.449
+to save some kind of a positive picture of
 
 461
-00:29:22.358 --> 00:29:23.108
-yeah, I, I knew that was reserved,
+00:29:12.459 --> 00:29:15.199
+themselves or they want other people to think more
 
 462
-00:29:23.118 --> 00:29:29.289
-but I didn't care. Right. Um And there
+00:29:15.209 --> 00:29:17.180
+positively of them. So if you say, oh, I
 
 463
-00:29:29.299 --> 00:29:32.900
-are interesting experiments of, of Dan and colleagues.
+00:29:17.189 --> 00:29:20.689
+didn't know I took somebody else's spot, um It's
 
 464
-00:29:33.269 --> 00:29:37.719
-Um you know, dictator games. Um So this
+00:29:20.699 --> 00:29:22.849
+not the same as saying, oh yeah, I, I
 
 465
-00:29:37.729 --> 00:29:45.338
-economic games where um you give certain um um certain
+00:29:22.859 --> 00:29:26.130
+knew that was reserved, but I didn't care. Right.
 
 466
-00:29:45.348 --> 00:29:48.029
-um outcomes for people. If you get six points
+00:29:26.719 --> 00:29:32.030
+Um And there are interesting experiments of, of Dan
 
 467
-00:29:48.039 --> 00:29:51.259
-, a person will, or$6 a person will
+00:29:32.040 --> 00:29:37.449
+and colleagues. Um YOU know, dictator games. Um So
 
 468
-00:29:51.269 --> 00:29:53.670
-get$1. But uh if you choose to have
+00:29:37.459 --> 00:29:42.579
+this economic games where um you give certain um
 
 469
-00:29:53.680 --> 00:29:56.739
-um$5 a person will also have$5 and then
+00:29:44.250 --> 00:29:48.180
+um certain um outcomes for people. If you get
 
 470
-00:29:56.750 --> 00:30:00.189
-you are asked to choose which outcome uh would,
+00:29:48.189 --> 00:29:51.119
+six points, a person will, or $6 a person
 
 471
-00:30:00.199 --> 00:30:06.630
-would you prefer? Um And basically what these type
+00:29:51.130 --> 00:29:53.910
+will get $1. But uh if you choose to
 
 472
-00:30:06.640 --> 00:30:08.098
-of games are testing is whether there is some kind
+00:29:53.920 --> 00:29:57.430
+have um $5 a person will also have $5
 
 473
-00:30:08.108 --> 00:30:11.500
-of a uh prosocial, so whether people would uh
+00:29:57.439 --> 00:29:59.699
+and then you are asked to choose which outcome
 
 474
-00:30:11.559 --> 00:30:15.318
-also think about other people's welfare and not only their
+00:30:00.010 --> 00:30:05.910
+uh would, would you prefer? Um And basically what
 
 475
-00:30:15.328 --> 00:30:18.229
-own, right? Um And when you show this
+00:30:05.920 --> 00:30:08.560
+these type of games are testing is whether there
 
 476
-00:30:18.239 --> 00:30:22.630
-information transparent like that, so what is the outcome
+00:30:08.569 --> 00:30:11.459
+is some kind of a uh prosocial, so whether
 
 477
-00:30:22.640 --> 00:30:26.650
-for you and for the other person? Um people
+00:30:11.469 --> 00:30:15.479
+people would uh also think about other people's welfare
 
 478
-00:30:26.660 --> 00:30:30.598
-in a lot of cases um are doing, choosing
+00:30:15.489 --> 00:30:18.589
+and not only their own, right? Um And when
 
 479
-00:30:30.608 --> 00:30:34.078
-a prosocial answer. So choosing such as that they
+00:30:18.599 --> 00:30:21.969
+you show this information transparent like that, so what
 
 480
-00:30:34.088 --> 00:30:37.660
-maximize or optimize the developer for the other person.
+00:30:21.979 --> 00:30:23.660
+is the outcome for you and for the other
 
 481
-00:30:37.670 --> 00:30:41.729
-So what they would rather choose, rather choose five
+00:30:23.670 --> 00:30:29.069
+person? Um PEOPLE in a lot of cases um
 
 482
-00:30:41.739 --> 00:30:44.269
-for both than six for them and one for the
+00:30:29.079 --> 00:30:34.640
+are doing, choosing a prosocial answer. So choosing such
 
 483
-00:30:44.279 --> 00:30:48.699
-other person. But what's interesting is that if you
+00:30:34.650 --> 00:30:37.979
+as that they maximize or optimize the developer for
 
 484
-00:30:48.709 --> 00:30:52.630
-cover um what is the outcome for the other person
+00:30:37.989 --> 00:30:40.040
+the other person. So what they would rather choose,
 
 485
-00:30:53.769 --> 00:30:59.209
-? And you say it's 50% chance that it's either
+00:30:40.050 --> 00:30:43.569
+rather choose five for both than six for them
 
 486
-00:30:59.219 --> 00:31:03.858
-one or five. Um So a person who chooses
+00:30:43.579 --> 00:30:47.800
+and one for the other person. But what's interesting
 
 487
-00:31:03.868 --> 00:31:06.309
-, doesn't know what would be the possible outcome for
+00:30:47.810 --> 00:30:52.150
+is that if you cover um what is the
 
 488
-00:31:06.318 --> 00:31:11.059
-the other person. And then the question is um
+00:30:52.160 --> 00:30:56.390
+outcome for the other person? And you say it's
 
 489
-00:31:11.068 --> 00:31:14.699
-they, the people have the opportunity to cover,
+00:30:56.400 --> 00:31:02.180
+50% chance that it's either one or five. Um
 
 490
-00:31:14.709 --> 00:31:18.318
-to uncover this and to learn what would be the
+00:31:02.189 --> 00:31:05.000
+So a person who chooses, doesn't know what would
 
 491
-00:31:18.328 --> 00:31:19.529
-outcome for the other person. So they have this
+00:31:05.010 --> 00:31:08.459
+be the possible outcome for the other person. And
 
 492
-00:31:19.539 --> 00:31:25.180
-like uh reveal, reveal part, the a lot
+00:31:08.469 --> 00:31:12.670
+then the question is um they, the people have
 
 493
-00:31:25.189 --> 00:31:26.250
-of people they don't choose to reveal, that's the
+00:31:12.680 --> 00:31:16.560
+the opportunity to cover, to uncover this and to
 
 494
-00:31:26.259 --> 00:31:30.880
-thing. Uh less than 60% percent of um of
+00:31:16.569 --> 00:31:19.099
+learn what would be the outcome for the other
 
 495
-00:31:30.890 --> 00:31:34.699
-people choose to reveal what would be the outcome for
+00:31:19.109 --> 00:31:22.550
+person. So they have this like uh reveal, reveal
 
 496
-00:31:34.709 --> 00:31:38.489
-the other person and why they do this. So
+00:31:22.560 --> 00:31:26.239
+part, the a lot of people they don't choose
 
 497
-00:31:38.500 --> 00:31:41.390
-they, they con they can continue choosing more for
+00:31:26.250 --> 00:31:29.959
+to reveal, that's the thing. Uh LESS than 60%
 
 498
-00:31:41.400 --> 00:31:45.469
-them without feeling bad because they have some kind of
+00:31:29.969 --> 00:31:34.780
+percent of um of people choose to reveal what
 
 499
-00:31:45.479 --> 00:31:48.519
-a benefit of a doubt or this moral wiggle room
+00:31:34.790 --> 00:31:37.800
+would be the outcome for the other person and
 
 500
-00:31:48.529 --> 00:31:51.289
-. So you say, well, I choose more
+00:31:37.969 --> 00:31:40.380
+why they do this. So they, they con they
 
 501
-00:31:51.299 --> 00:31:52.118
-for me, but I didn't know what the other
+00:31:40.390 --> 00:31:44.930
+can continue choosing more for them without feeling bad
 
 502
-00:31:52.130 --> 00:31:56.199
-person would get and they can be, they can
+00:31:45.150 --> 00:31:47.109
+because they have some kind of a benefit of
 
 503
-00:31:56.209 --> 00:31:59.660
-save their self uh self picture. And also how
+00:31:47.119 --> 00:31:49.719
+a doubt or this moral wiggle room. So you
 
 504
-00:31:59.670 --> 00:32:02.130
-other people see them, they can be, they
+00:31:49.729 --> 00:31:51.849
+say, well, I choose more for me, but I
 
 505
-00:32:02.140 --> 00:32:06.420
-can remain perceived as, as a fair person.
+00:31:51.859 --> 00:31:55.010
+didn't know what the other person would get and
 
 506
-00:32:06.689 --> 00:32:08.578
-That that's the idea of that. Of course,
+00:31:55.020 --> 00:31:58.040
+they can be, they can save their self uh
 
 507
-00:32:08.588 --> 00:32:13.559
-if they choose to reveal, then people would choose
+00:31:58.050 --> 00:32:01.199
+self picture. And also how other people see them,
 
 508
-00:32:13.568 --> 00:32:15.689
-an option that uh mostly choose the option that maximizes
+00:32:01.209 --> 00:32:05.369
+they can be, they can remain perceived as, as
 
 509
-00:32:15.699 --> 00:32:20.459
-also the benefit for the other person. Um So
+00:32:05.380 --> 00:32:08.099
+a fair person. That that's the idea of that.
 
 510
-00:32:20.469 --> 00:32:22.979
-this type of strategic ignorance is, is, is
+00:32:08.719 --> 00:32:12.640
+Of course, if they choose to reveal, then people
 
 511
-00:32:22.989 --> 00:32:27.539
-very interesting. Um But now in real life,
+00:32:12.650 --> 00:32:15.560
+would choose an option that uh mostly choose the
 
 512
-00:32:27.549 --> 00:32:30.209
-some examples apart from this, not reading the parking
+00:32:15.569 --> 00:32:17.949
+option that maximizes also the benefit for the other
 
 513
-00:32:30.219 --> 00:32:37.618
-sign and parking wherever you want are um even some
+00:32:17.959 --> 00:32:22.359
+person. Um So this type of strategic ignorance is,
 
 514
-00:32:37.630 --> 00:32:40.910
-like health related things like you are, you don't
+00:32:22.369 --> 00:32:27.109
+is, is very interesting. Um But now in real
 
 515
-00:32:40.920 --> 00:32:45.400
-want to know how bad smoking actually is because uh
+00:32:27.119 --> 00:32:30.579
+life, some examples apart from this, not reading the
 
 516
-00:32:47.049 --> 00:32:52.449
-with smoking or you don't want to learn particular information
+00:32:30.589 --> 00:32:36.089
+parking sign and parking wherever you want are um
 
 517
-00:32:52.459 --> 00:32:54.848
-about your group that you belong to because you don't
+00:32:36.849 --> 00:32:41.079
+even some like health related things like you are,
 
 518
-00:32:54.858 --> 00:33:00.078
-want to um think more about your group identity and
+00:32:41.130 --> 00:32:44.719
+you don't want to know how bad smoking actually
 
 519
-00:33:00.088 --> 00:33:04.328
-reconsider it. Um And uh or for example,
+00:32:44.729 --> 00:32:51.140
+is because uh with smoking or you don't want
 
 520
-00:33:04.338 --> 00:33:07.430
-you don't want to see how mu how many um
+00:32:51.150 --> 00:32:54.650
+to learn particular information about your group that you
 
 521
-00:33:07.439 --> 00:33:12.420
-sugar, how much sugar your favorite drink has because
+00:32:54.660 --> 00:32:57.949
+belong to because you don't want to um think
 
 522
-00:33:12.430 --> 00:33:15.088
-you just want to continue drinking it um and similar
+00:32:57.959 --> 00:33:02.170
+more about your group identity and reconsider it. Um
 
 523
-00:33:15.219 --> 00:33:17.578
-. So people do this in, in a lot
+00:33:02.420 --> 00:33:05.089
+And uh or for example, you don't want to
 
 524
-00:33:17.588 --> 00:33:21.680
-of cases that are related to others or, or
+00:33:05.099 --> 00:33:09.540
+see how mu how many um sugar, how much
 
 525
-00:33:21.689 --> 00:33:25.088
-just related to themselves. And um yeah, um
+00:33:09.550 --> 00:33:12.939
+sugar your favorite drink has because you just want
 
 526
-00:33:25.098 --> 00:33:29.489
-and to be able to uh to continue with doing
+00:33:12.949 --> 00:33:16.770
+to continue drinking it um and similar. So people
 
 527
-00:33:29.500 --> 00:33:34.559
-what they want to do but still um having some
+00:33:16.780 --> 00:33:19.530
+do this in, in a lot of cases that
 
 528
-00:33:34.568 --> 00:33:37.848
-nice, some good picture about themselves. And there's
+00:33:19.540 --> 00:33:22.489
+are related to others or, or just related to
 
 529
-00:33:37.858 --> 00:33:42.318
-also a problem with some certain ecological behaviors that people
+00:33:22.500 --> 00:33:27.089
+themselves. And um yeah, um and to be able
 
 530
-00:33:42.328 --> 00:33:45.588
-are ignoring how they affect the community. The,
+00:33:27.099 --> 00:33:30.099
+to uh to continue with doing what they want
 
 531
-00:33:45.598 --> 00:33:49.049
-the, the, the, the ecology uh because
+00:33:30.109 --> 00:33:35.839
+to do but still um having some nice, some
 
 532
-00:33:49.059 --> 00:33:52.739
-changing their behavior to start recycling um et cetera can
+00:33:35.849 --> 00:33:38.540
+good picture about themselves. And there's also a problem
 
 533
-00:33:52.750 --> 00:33:57.289
-be effortful and not something that they want to change
+00:33:38.550 --> 00:33:43.369
+with some certain ecological behaviors that people are ignoring
 
 534
-00:33:58.068 --> 00:34:01.019
-. Um Maybe some people would call this rather deliberate
+00:33:43.380 --> 00:33:46.689
+how they affect the community. The, the, the, the,
 
 535
-00:34:01.029 --> 00:34:07.380
-ignorance than strategic ignorance. So this uh terminology is
+00:33:46.699 --> 00:33:51.020
+the ecology uh because changing their behavior to start
 
 536
-00:34:07.390 --> 00:34:12.188
-sometimes a bit confusing because you have uh strategic ignorance
+00:33:51.030 --> 00:33:55.500
+recycling um et cetera can be effortful and not
 
 537
-00:34:12.199 --> 00:34:15.500
-, deliberate ignorance, skillful ignorance, uh et cetera
+00:33:55.510 --> 00:33:59.630
+something that they want to change. Um Maybe some
 
 538
-00:34:15.030 --> 00:34:17.449
-. Maybe I would say the strategic ignorance is more
+00:33:59.640 --> 00:34:03.479
+people would call this rather deliberate ignorance than strategic
 
 539
-00:34:17.458 --> 00:34:22.550
-concerned with this uh that relates for others to others
+00:34:03.489 --> 00:34:08.188
+ignorance. So this uh terminology is sometimes a bit
 
 540
-00:34:22.378 --> 00:34:25.079
-, such as kind of this justification. Why you
+00:34:08.199 --> 00:34:13.228
+confusing because you have uh strategic ignorance, deliberate ignorance,
 
 541
-00:34:25.090 --> 00:34:30.409
-did something or being perceived as positive in the eyes
+00:34:13.239 --> 00:34:16.958
+skillful ignorance, uh et cetera. Maybe I would say
 
 542
-00:34:30.418 --> 00:34:32.110
-of other people. But so maybe I would call
+00:34:16.969 --> 00:34:20.290
+the strategic ignorance is more concerned with this uh
 
 543
-00:34:32.119 --> 00:34:38.550
-deliberate ignorance um this um behavior that are related to
+00:34:20.300 --> 00:34:24.620
+that relates for others to others, such as kind
 
 544
-00:34:38.559 --> 00:34:43.867
-your health, choices and stuff. Um Hertwig and
+00:34:24.629 --> 00:34:27.500
+of this justification. Why you did something or being
 
 545
-00:34:43.878 --> 00:34:46.197
-people from the Max Planck Institute for Human Development have
+00:34:27.510 --> 00:34:31.530
+perceived as positive in the eyes of other people.
 
 546
-00:34:46.208 --> 00:34:49.818
-a lot of papers on deliberate ignorance. Um And
+00:34:31.540 --> 00:34:36.010
+But so maybe I would call deliberate ignorance um
 
 547
-00:34:49.829 --> 00:34:52.677
-then they use this terminology. Um So, so
+00:34:36.060 --> 00:34:40.070
+this um behavior that are related to your health,
 
 548
-00:34:52.688 --> 00:34:55.588
-yeah, those are some also some interesting literature to
+00:34:40.080 --> 00:34:44.569
+choices and stuff. Um Hertwig and people from the
 
 549
-00:34:55.599 --> 00:34:58.548
-check on this topic. Who is more interested?
+00:34:44.579 --> 00:34:47.438
+Max Planck Institute for Human Development have a lot
 
 550
-00:34:58.559 --> 00:35:00.958
-Yeah. Yeah, great. So uh this will
+00:34:47.447 --> 00:34:50.279
+of papers on deliberate ignorance. Um And then they
 
 551
-00:35:00.969 --> 00:35:04.878
-probably be my last uh question. But I would
+00:34:50.289 --> 00:34:54.228
+use this terminology. Um So, so yeah, those are
 
 552
-00:35:04.889 --> 00:35:07.809
-also like to get into uh perhaps some more concrete
+00:34:54.239 --> 00:34:57.208
+some also some interesting literature to check on this
 
 553
-00:35:07.820 --> 00:35:13.000
-example, uh health care related example. You al
+00:34:57.218 --> 00:34:58.779
+topic. Who is more interested? Yeah.
 
 554
-00:35:13.059 --> 00:35:15.840
-you also mentioned health there. So because the there
+00:34:59.959 --> 00:35:02.820
+Yeah, great. So uh this will probably be my
 
 555
-00:35:15.849 --> 00:35:19.019
-are particular cases. And I also read about this
+00:35:02.830 --> 00:35:05.639
+last uh question. But I would also like to
 
 556
-00:35:19.030 --> 00:35:22.840
-in the literature where people actually use strategic ignorance but
+00:35:05.649 --> 00:35:09.870
+get into uh perhaps some more concrete example, uh
 
 557
-00:35:22.849 --> 00:35:28.679
-are really a little bit more severe in terms of
+00:35:09.879 --> 00:35:14.090
+health care related example. You al you also mentioned
 
 558
-00:35:28.688 --> 00:35:31.309
-the possible outcomes. It can have, I mean
+00:35:14.100 --> 00:35:17.419
+health there. So because the there are particular cases.
 
 559
-00:35:31.320 --> 00:35:34.739
-, people, when they read about it, many
+00:35:17.429 --> 00:35:19.860
+And I also read about this in the literature
 
 560
-00:35:34.750 --> 00:35:36.929
-people think, oh my God, why would people
+00:35:19.870 --> 00:35:25.379
+where people actually use strategic ignorance but are really
 
 561
-00:35:36.938 --> 00:35:37.789
-do that? So when it comes to, for
+00:35:25.389 --> 00:35:28.939
+a little bit more severe in terms of the
 
 562
-00:35:37.800 --> 00:35:43.789
-example, uh, sexually transmitted infections or ST s
+00:35:28.949 --> 00:35:33.159
+possible outcomes. It can have, I mean, people, when
 
 563
-00:35:44.360 --> 00:35:46.909
-, there are actually cases where people, I mean
+00:35:33.169 --> 00:35:35.879
+they read about it, many people think, oh my
 
 564
-00:35:46.918 --> 00:35:52.824
-, they might think that they might have been exposed
+00:35:35.889 --> 00:35:38.169
+God, why would people do that? So when it
 
 565
-00:35:52.833 --> 00:35:55.864
-to an ST I, and they might have got
+00:35:38.179 --> 00:35:42.820
+comes to, for example, uh, sexually transmitted infections or
 
 566
-00:35:55.875 --> 00:36:00.675
-it but they don't want to get tested, uh
+00:35:42.830 --> 00:35:47.520
+ST s, there are actually cases where people, I
 
 567
-00:36:00.684 --> 00:36:04.244
-, in that particular case and sometimes it might be
+00:35:47.530 --> 00:35:52.834
+mean, they might think that they might have been
 
 568
-00:36:04.253 --> 00:36:07.594
-something very serious like A I DS or something like
+00:35:52.844 --> 00:35:56.274
+exposed to an ST I, and they might have
 
 569
-00:36:07.603 --> 00:36:09.449
-that. So, uh, a and in that
+00:35:56.284 --> 00:36:00.675
+got it but they don't want to get tested,
 
 570
-00:36:09.458 --> 00:36:12.849
-particular case, I guess that people find it a
+00:36:01.044 --> 00:36:03.995
+uh, in that particular case and sometimes it might
 
 571
-00:36:12.860 --> 00:36:15.340
-bit weird, that kind of literature because, uh
+00:36:04.004 --> 00:36:07.915
+be something very serious like A I DS or
 
 572
-00:36:15.349 --> 00:36:17.159
-, I mean, if it's, for example,
+00:36:07.925 --> 00:36:10.449
+something like that. So, uh, a and in that
 
 573
-00:36:17.250 --> 00:36:21.039
-uh, tobacco use or if you're, uh,
+00:36:10.459 --> 00:36:12.850
+particular case, I guess that people find it a
 
 574
-00:36:21.070 --> 00:36:24.199
-consuming too much su sugar, people might think that
+00:36:12.860 --> 00:36:16.449
+bit weird, that kind of literature because, uh, I
 
 575
-00:36:24.208 --> 00:36:27.780
-, ok, that's not great, but at least
+00:36:16.459 --> 00:36:20.169
+mean, if it's, for example, uh, tobacco use or
 
 576
-00:36:27.789 --> 00:36:31.012
-you're not affecting other people or potentially harming other people
+00:36:20.179 --> 00:36:24.250
+if you're, uh, consuming too much su sugar, people
 
 577
-00:36:31.021 --> 00:36:35.762
-. It's just yourself. But in that particular case
+00:36:24.260 --> 00:36:27.379
+might think that, ok, that's not great, but at
 
 578
-00:36:36.103 --> 00:36:39.302
-, I mean, there's a very big potential there
+00:36:27.389 --> 00:36:31.373
+least you're not affecting other people or potentially harming
 
 579
-00:36:39.311 --> 00:36:44.731
-that you will be harming other people. And in
+00:36:31.383 --> 00:36:35.103
+other people. It's just yourself. But in that particular
 
 580
-00:36:44.742 --> 00:36:46.001
-that specific, I mean, it, it could
+00:36:35.113 --> 00:36:40.302
+case, I mean, there's a very big potential there
 
 581
-00:36:46.012 --> 00:36:50.242
-be the case that in a particular case you were
+00:36:40.312 --> 00:36:44.732
+that you will be harming other people. And in
 
 582
-00:36:50.251 --> 00:36:54.195
-exposed accidentally an sti, I mean, it could
+00:36:44.742 --> 00:36:47.292
+that specific, I mean, it, it could be the
 
 583
-00:36:54.206 --> 00:36:59.005
-have not been transmitted sexually and you didn't know at
+00:36:47.302 --> 00:36:51.282
+case that in a particular case you were exposed
 
 584
-00:36:59.016 --> 00:37:01.114
-all. And so that's a different thing. But
+00:36:51.292 --> 00:36:55.595
+accidentally an sti, I mean, it could have not
 
 585
-00:37:01.166 --> 00:37:05.916
-if you think that you might have got it,
+00:36:55.605 --> 00:36:59.615
+been transmitted sexually and you didn't know at all.
 
 586
-00:37:05.925 --> 00:37:07.875
-then, I mean, that's completely different, right
+00:36:59.625 --> 00:37:03.115
+And so that's a different thing. But if you
 
 587
-00:37:07.885 --> 00:37:12.496
-? So why, why, why do people do
+00:37:03.525 --> 00:37:06.895
+think that you might have got it, then, I
 
 588
-00:37:12.505 --> 00:37:15.436
-that? Exactly. That's a great, uh,
+00:37:06.906 --> 00:37:10.545
+mean, that's completely different, right? So why, why, why
 
 589
-00:37:15.445 --> 00:37:17.659
-comment. Now I can get a bit more personal
+00:37:10.555 --> 00:37:13.766
+do people do that? Exactly.
 
 590
-00:37:17.668 --> 00:37:21.648
-as to why did they choose to start working on
+00:37:14.216 --> 00:37:17.820
+That's a great, uh, comment. Now I can get
 
 591
-00:37:21.659 --> 00:37:22.860
-this topic? That is not exactly the example that
+00:37:17.830 --> 00:37:19.620
+a bit more personal as to why did they
 
 592
-00:37:22.869 --> 00:37:28.869
-you mentioned, but, um, how this question
+00:37:19.629 --> 00:37:22.530
+choose to start working on this topic? That is
 
 593
-00:37:28.898 --> 00:37:31.559
-of how much should we know? How much should
+00:37:22.540 --> 00:37:26.540
+not exactly the example that you mentioned, but, um,
 
 594
-00:37:31.570 --> 00:37:35.360
-we check? How much should we care of not
+00:37:26.629 --> 00:37:31.760
+how this question of how much should we know?
 
 595
-00:37:35.369 --> 00:37:39.260
-affecting other people? All these questions were always some
+00:37:31.770 --> 00:37:34.629
+How much should we check? How much should we
 
 596
-00:37:39.269 --> 00:37:43.010
-kind of my interest. Um and this concern for
+00:37:34.639 --> 00:37:38.669
+care of not affecting other people? All these questions
 
 597
-00:37:43.019 --> 00:37:45.719
-others. But when we talk about health, it
+00:37:38.770 --> 00:37:42.219
+were always some kind of my interest. Um AND
 
 598
-00:37:45.728 --> 00:37:49.769
-especially arose when I moved to Austria. So I
+00:37:42.229 --> 00:37:44.719
+this concern for others. But when we talk about
 
 599
-00:37:49.789 --> 00:37:52.260
-disclaimer, I moved to Austria in the time of
+00:37:44.729 --> 00:37:48.699
+health, it especially arose when I moved to Austria.
 
 600
-00:37:52.269 --> 00:37:57.780
-COVID. So 2021 and in Austria, the lockdown
+00:37:49.429 --> 00:37:52.629
+So I disclaimer, I moved to Austria in the
 
 601
-00:37:57.789 --> 00:38:00.840
-measures, the COVID testing measures were very severe.
+00:37:52.639 --> 00:37:57.179
+time of COVID. So 2021 and in Austria, the
 
 602
-00:38:00.119 --> 00:38:06.559
-So I moved from Serbia where PC R tests were
+00:37:57.189 --> 00:38:00.840
+lockdown measures, the COVID testing measures were very severe.
 
 603
-00:38:06.570 --> 00:38:08.648
-not possible to be done by your own choice.
+00:38:01.120 --> 00:38:05.969
+So I moved from Serbia where PC R tests
 
 604
-00:38:08.659 --> 00:38:12.360
-Only if you have symptoms, if you wanted to
+00:38:06.110 --> 00:38:08.989
+were not possible to be done by your own
 
 605
-00:38:12.369 --> 00:38:15.809
-do it just to check if you maybe were exposed
+00:38:09.000 --> 00:38:12.250
+choice. Only if you have symptoms, if you wanted
 
 606
-00:38:15.139 --> 00:38:19.398
-, uh or you think that uh you were exposed
+00:38:12.260 --> 00:38:14.620
+to do it just to check if you maybe
 
 607
-00:38:19.409 --> 00:38:22.769
-or similar, you needed to pay€60 let's say
+00:38:14.629 --> 00:38:18.800
+were exposed, uh or you think that uh you
 
 608
-00:38:22.179 --> 00:38:27.489
-then I moved to Austria where testing is the easiest
+00:38:18.810 --> 00:38:22.149
+were exposed or similar, you needed to pay €60
 
 609
-00:38:27.500 --> 00:38:30.260
-thing ever. You just do it at your home
+00:38:22.159 --> 00:38:26.570
+let's say then I moved to Austria where testing
 
 610
-00:38:30.269 --> 00:38:30.688
-. It's for free. You can do it every
+00:38:26.580 --> 00:38:29.479
+is the easiest thing ever. You just do it
 
 611
-00:38:30.699 --> 00:38:34.409
-day at the time when I moved. And then
+00:38:29.489 --> 00:38:31.350
+at your home. It's for free. You can do
 
 612
-00:38:34.418 --> 00:38:37.148
-I felt obliged to do the test almost every day
+00:38:31.360 --> 00:38:33.209
+it every day at the time when I moved.
 
 613
-00:38:37.159 --> 00:38:42.188
-because I felt, what is the justification of not
+00:38:33.810 --> 00:38:37.229
+And then I felt obliged to do the test
 
 614
-00:38:42.199 --> 00:38:45.070
-doing the test it for free? It's easy.
+00:38:37.239 --> 00:38:40.679
+almost every day because I felt, what is the
 
 615
-00:38:45.340 --> 00:38:46.458
-There is no reason not to do it. So
+00:38:40.689 --> 00:38:44.090
+justification of not doing the test it for free?
 
 616
-00:38:46.469 --> 00:38:50.869
-I felt even a bit obsessed with, with this
+00:38:44.100 --> 00:38:46.850
+It's easy. There is no reason not to do
 
 617
-00:38:50.878 --> 00:38:53.208
-because I felt so responsible to check, right?
+00:38:46.860 --> 00:38:50.179
+it. So I felt even a bit obsessed with,
 
 618
-00:38:54.250 --> 00:38:57.239
-Um And then I was asking this question. So
+00:38:50.189 --> 00:38:53.750
+with this because I felt so responsible to check,
 
 619
-00:38:57.250 --> 00:38:59.478
-why do I feel like this, you know how
+00:38:53.760 --> 00:38:57.110
+right? Um And then I was asking this question.
 
 620
-00:38:59.489 --> 00:39:04.590
-this moving change these expectations for myself so much?
+00:38:57.120 --> 00:38:58.750
+So why do I feel like this, you know
 
 621
-00:39:05.099 --> 00:39:07.780
-And um and yeah, I mean, this kind
+00:38:58.760 --> 00:39:04.010
+how this moving change these expectations for myself so
 
 622
-00:39:07.789 --> 00:39:10.550
-of a, um, um, thinking that maybe
+00:39:04.020 --> 00:39:07.780
+much? And um and yeah, I mean, this kind
 
 623
-00:39:10.559 --> 00:39:14.030
-you are, uh, you have the disease or
+00:39:07.790 --> 00:39:12.600
+of a, um, um, thinking that maybe you are,
 
 624
-00:39:14.039 --> 00:39:15.769
-similar can be translated to the example that, that
+00:39:12.610 --> 00:39:15.169
+uh, you have the disease or similar can be
 
 625
-00:39:15.780 --> 00:39:19.989
-you mentioned. And indeed this uh, question of
+00:39:15.179 --> 00:39:18.090
+translated to the example that, that you mentioned. And
 
 626
-00:39:20.000 --> 00:39:22.989
-transmissible sexually transmissible diseases is very, very important.
+00:39:18.100 --> 00:39:22.320
+indeed this uh, question of transmissible sexually transmissible diseases
 
 627
-00:39:23.458 --> 00:39:27.659
-Um, and I think I'm not sure, uh
+00:39:22.330 --> 00:39:26.770
+is very, very important. Um, AND I think I'm
 
 628
-00:39:27.668 --> 00:39:30.478
-, we could ask legal um, practitioners but,
+00:39:26.780 --> 00:39:30.899
+not sure, uh, we could ask legal um, practitioners
 
 629
-00:39:30.489 --> 00:39:34.429
-uh, that even transmitting, uh, transmitting some
+00:39:30.909 --> 00:39:35.199
+but, uh, that even transmitting, uh, transmitting some serious,
 
 630
-00:39:34.438 --> 00:39:37.760
-serious, uh, sexually transmittable diseases is, um
+00:39:35.250 --> 00:39:40.360
+uh, sexually transmittable diseases is, um, is illegal if
 
 631
-00:39:37.769 --> 00:39:40.570
-, is illegal if not to, to, to
+00:39:40.370 --> 00:39:43.250
+not to, to, to dis, to disclose that you
 
 632
-00:39:40.590 --> 00:39:44.320
-dis, to disclose that you have them, right
+00:39:43.260 --> 00:39:47.300
+have them, right? Um, SO it's a very serious
 
 633
-00:39:44.898 --> 00:39:46.860
-? Um, so it's a very serious problem.
+00:39:47.310 --> 00:39:53.120
+problem. Um And, um, of course, here we have
 
 634
-00:39:47.269 --> 00:39:52.840
-Um And, um, of course, here we
+00:39:53.129 --> 00:39:59.040
+the similar, um, motivation for not checking, which is,
 
 635
-00:39:52.849 --> 00:39:57.800
-have the similar, um, motivation for not checking
+00:39:59.050 --> 00:40:03.139
+um, in case of some uh transmittable diseases, um,
 
 636
-00:39:58.039 --> 00:40:00.860
-, which is, um, in case of some
+00:40:03.149 --> 00:40:06.560
+is that you want to continue, um, doing what
 
 637
-00:40:00.869 --> 00:40:02.969
-uh transmittable diseases, um, is that you want
+00:40:06.570 --> 00:40:10.560
+you want, um, which is having some, some, some
 
 638
-00:40:02.978 --> 00:40:07.280
-to continue, um, doing what you want,
-
-639
-00:40:07.000 --> 00:40:09.559
-um, which is having some, some, some
-
-640
-00:40:09.570 --> 00:40:13.438
+00:40:10.570 --> 00:40:13.439
 pleasure and you don't want to talk about that.
 
-641
-00:40:13.449 --> 00:40:15.898
+639
+00:40:13.449 --> 00:40:15.899
 You don't want to maybe stop for some time,
 
+640
+00:40:16.159 --> 00:40:19.489
+uh, and similar. Um, AND then this, there is
+
+641
+00:40:19.500 --> 00:40:22.550
+this strategic motivation I'm not gonna check because then
+
 642
-00:40:15.159 --> 00:40:19.099
-uh, and similar. Um, and then this
+00:40:22.560 --> 00:40:25.860
+I can continue doing what I'm doing. Um, AND
 
 643
-00:40:19.110 --> 00:40:22.090
-, there is this strategic motivation I'm not gonna check
+00:40:25.870 --> 00:40:29.540
+I don't feel so guilty about it. Right. The
 
 644
-00:40:22.099 --> 00:40:23.438
-because then I can continue doing what I'm doing.
+00:40:29.550 --> 00:40:34.350
+other part of that, um, that doesn't include this
 
 645
-00:40:23.639 --> 00:40:27.949
-Um, and I don't feel so guilty about it
+00:40:34.360 --> 00:40:37.179
+lack of care for others, which I would say
 
 646
-00:40:27.958 --> 00:40:31.739
-. Right. The other part of that, um
+00:40:37.189 --> 00:40:39.139
+it's a lack of care for others if you,
 
 647
-00:40:31.750 --> 00:40:36.070
-, that doesn't include this lack of care for others
+00:40:39.719 --> 00:40:43.300
+um, have a serious suspicion, especially that you could
 
 648
-00:40:36.228 --> 00:40:37.030
-, which I would say it's a lack of care
+00:40:43.310 --> 00:40:47.239
+be, um, infected, but you don't check the other
 
 649
-00:40:37.039 --> 00:40:40.019
-for others if you, um, have a serious
+00:40:47.250 --> 00:40:51.189
+part of that, um, is connected with the emotional
 
 650
-00:40:40.030 --> 00:40:44.619
-suspicion, especially that you could be, um,
+00:40:51.199 --> 00:40:54.840
+regulation, which is also a case with some other
 
 651
-00:40:44.628 --> 00:40:46.679
-infected, but you don't check the other part of
+00:40:54.850 --> 00:40:59.459
+diseases. Um THAT people don't want to know if
 
 652
-00:40:46.688 --> 00:40:52.159
-that, um, is connected with the emotional regulation
+00:40:59.469 --> 00:41:01.719
+they are sick. Uh So even if they have
 
 653
-00:40:52.179 --> 00:40:54.769
-, which is also a case with some other diseases
+00:41:01.729 --> 00:41:08.399
+some symptoms, they are afraid of some um some
 
 654
-00:40:55.329 --> 00:40:59.639
-. Um that people don't want to know if they
+00:41:08.409 --> 00:41:12.419
+negative information, especially if you, if, if some very
 
 655
-00:40:59.648 --> 00:41:00.878
-are sick. Uh So even if they have some
+00:41:12.429 --> 00:41:15.770
+serious transmittable diseases are in question that you may
 
 656
-00:41:00.889 --> 00:41:07.800
-symptoms, they are afraid of some um some negative
+00:41:15.780 --> 00:41:19.479
+feel uh afraid to learn uh that you have
 
 657
-00:41:07.809 --> 00:41:12.139
-information, especially if you, if, if some
+00:41:19.489 --> 00:41:23.070
+some of them. Um And this fear is stopping
 
 658
-00:41:12.148 --> 00:41:15.769
-very serious transmittable diseases are in question that you may
+00:41:23.080 --> 00:41:26.919
+you from, from checking. Um But of course, I
 
 659
-00:41:15.780 --> 00:41:19.679
-feel uh afraid to learn uh that you have some
+00:41:26.929 --> 00:41:29.939
+mean, what my research would say about that is
 
 660
-00:41:19.688 --> 00:41:22.239
-of them. Um And this fear is stopping you
+00:41:29.949 --> 00:41:32.729
+that um if there is some reason to, to
 
 661
-00:41:22.250 --> 00:41:25.898
-from, from checking. Um But of course,
+00:41:32.739 --> 00:41:36.969
+be suspicious, especially and uh if you have um
 
 662
-00:41:25.909 --> 00:41:29.739
-I mean, what my research would say about that
+00:41:36.979 --> 00:41:41.580
+and a sufficient care for others that uh it
 
 663
-00:41:29.750 --> 00:41:31.610
-is that um if there is some reason to,
-
-664
-00:41:31.619 --> 00:41:36.000
-to be suspicious, especially and uh if you have
-
-665
-00:41:36.309 --> 00:41:40.579
-um and a sufficient care for others that uh it
-
-666
-00:41:40.590 --> 00:41:44.550
+00:41:41.590 --> 00:41:44.550
 is expected like that you would have have checked,
 
-667
-00:41:44.559 --> 00:41:47.188
+664
+00:41:44.560 --> 00:41:48.189
 especially if it's uh if it's available to you.
 
-668
-00:41:47.199 --> 00:41:51.090
+665
+00:41:48.199 --> 00:41:51.090
 But since if we talk about something very serious,
 
-669
-00:41:51.099 --> 00:41:52.750
+666
+00:41:51.100 --> 00:41:53.750
 then I get to go back to my question.
 
+667
+00:41:53.760 --> 00:41:57.159
+People would consider the utility and if it's uh
+
+668
+00:41:57.169 --> 00:42:01.469
+it's an important uh topic as such here, transmittable
+
+669
+00:42:01.479 --> 00:42:04.409
+diseases, you could put a bit more effort uh
+
 670
-00:41:52.760 --> 00:41:57.519
-People would consider the utility and if it's uh it's
+00:42:04.419 --> 00:42:08.010
+to find out whether you have something that could
 
 671
-00:41:57.530 --> 00:42:01.059
-an important uh topic as such here, transmittable diseases
+00:42:08.020 --> 00:42:08.919
+harm others.
 
 672
-00:42:01.070 --> 00:42:04.929
-, you could put a bit more effort uh to
+00:42:09.649 --> 00:42:12.260
+Yeah. A and in the particular case of, uh,
 
 673
-00:42:04.938 --> 00:42:07.918
-find out whether you have something that could harm others
+00:42:12.270 --> 00:42:15.969
+STIs, for example. And in the law, II, I
 
 674
-00:42:08.648 --> 00:42:12.110
-. Yeah. A and in the particular case of
+00:42:15.979 --> 00:42:18.719
+mean, of course, I'm not a law expert or
 
 675
-00:42:12.119 --> 00:42:14.449
-, uh, STIs, for example. And in
+00:42:18.729 --> 00:42:21.159
+anything like that and I don't know the laws
 
 676
-00:42:14.458 --> 00:42:15.800
-the law, II, I mean, of course
+00:42:21.169 --> 00:42:25.949
+of different countries but I would imagine just intuitively,
 
 677
-00:42:15.809 --> 00:42:19.668
-, I'm not a law expert or anything like that
+00:42:26.260 --> 00:42:31.729
+uh, someone simply suspecting that they might have been
 
 678
-00:42:19.679 --> 00:42:22.418
-and I don't know the laws of different countries but
+00:42:31.739 --> 00:42:36.120
+infected and not testing, uh, in the eyes of
 
 679
-00:42:22.429 --> 00:42:28.719
-I would imagine just intuitively, uh, someone simply
+00:42:36.129 --> 00:42:39.610
+the law would be different than actually having tested
 
 680
-00:42:28.728 --> 00:42:34.628
-suspecting that they might have been infected and not testing
+00:42:39.620 --> 00:42:42.800
+and know for sure that you have the disease
 
 681
-00:42:35.010 --> 00:42:36.739
-, uh, in the eyes of the law would
+00:42:42.810 --> 00:42:46.550
+and still continue on with the behavior and infecting
 
 682
-00:42:36.750 --> 00:42:40.398
-be different than actually having tested and know for sure
+00:42:46.560 --> 00:42:49.320
+other people. Because in the first case, you might
 
 683
-00:42:40.409 --> 00:42:45.000
-that you have the disease and still continue on with
+00:42:49.330 --> 00:42:52.580
+still have some plausible deniability. Right.
 
 684
-00:42:45.010 --> 00:42:46.688
-the behavior and infecting other people. Because in the
+00:42:53.020 --> 00:42:56.989
+Yes. Um Yes, that's true. And as far as
 
 685
-00:42:46.699 --> 00:42:52.159
-first case, you might still have some plausible deniability
+00:42:57.000 --> 00:43:00.520
+I know, as I think, I know, um this,
 
 686
-00:42:52.168 --> 00:42:54.599
-. Right. Yes. Um Yes, that's true
+00:43:00.530 --> 00:43:06.290
+uh I like um punishment, uh like legal punishment
 
 687
-00:42:54.728 --> 00:42:58.039
-. And as far as I know, as I
+00:43:06.300 --> 00:43:07.889
+for that behavior is only in the case if
 
 688
-00:42:58.050 --> 00:43:01.139
-think, I know, um this, uh I
+00:43:07.899 --> 00:43:12.580
+you know. Um But since I was working on
 
 689
-00:43:01.148 --> 00:43:06.570
-like um punishment, uh like legal punishment for that
+00:43:12.590 --> 00:43:14.870
+this case of beautiful ignorance, I was reading a
 
 690
-00:43:06.579 --> 00:43:07.469
-behavior is only in the case if you know.
+00:43:14.879 --> 00:43:18.800
+lot even about some uh philosophy of law and
 
 691
-00:43:07.978 --> 00:43:13.389
-Um But since I was working on this case of
+00:43:18.810 --> 00:43:23.040
+some law articles. And in some cases, some philosophers
 
 692
-00:43:13.398 --> 00:43:15.750
-beautiful ignorance, I was reading a lot even about
+00:43:23.050 --> 00:43:27.780
+even claim um that in some cases, the willful
 
 693
-00:43:15.760 --> 00:43:19.869
-some uh philosophy of law and some law articles.
+00:43:27.790 --> 00:43:34.600
+ignorance can be perceived similarly to knowledge. Uh BECAUSE
 
 694
-00:43:19.878 --> 00:43:24.260
-And in some cases, some philosophers even claim um
+00:43:34.899 --> 00:43:36.800
+in, in view of the mens rea which is
 
 695
-00:43:24.269 --> 00:43:28.719
-that in some cases, the willful ignorance can be
+00:43:36.810 --> 00:43:41.070
+this guilty mind and if there was a sufficient
 
 696
-00:43:28.728 --> 00:43:35.280
-perceived similarly to knowledge. Uh because in, in
+00:43:41.080 --> 00:43:47.699
+suspicion. Yeah. Um, DID that you could have checked,
 
 697
-00:43:35.289 --> 00:43:37.840
-view of the mens rea which is this guilty mind
+00:43:48.239 --> 00:43:52.679
+that could be also punishable. I think it depends
 
 698
-00:43:37.780 --> 00:43:43.090
-and if there was a sufficient suspicion. Yeah.
+00:43:52.689 --> 00:43:55.040
+on the country on the legal system. It's a
 
 699
-00:43:43.289 --> 00:43:47.559
-Um, did that you could have checked, that
+00:43:55.050 --> 00:43:59.010
+question whether it's just like, um, now some kind
 
 700
-00:43:47.570 --> 00:43:52.860
-could be also punishable. I think it depends on
-
-701
-00:43:52.869 --> 00:43:54.539
-the country on the legal system. It's a question
-
-702
-00:43:54.550 --> 00:43:59.010
-whether it's just like, um, now some kind
-
-703
-00:43:59.019 --> 00:44:01.039
+00:43:59.020 --> 00:44:02.040
 of a open discussion, I'm not sure exactly about
 
-704
-00:44:01.050 --> 00:44:04.590
+701
+00:44:02.050 --> 00:44:04.590
 this because again, I'm not a legal practitioner just
 
+702
+00:44:04.600 --> 00:44:07.879
+interested in this topic. So, uh, I come, uh,
+
+703
+00:44:07.945 --> 00:44:11.725
+to read some, some certain stuff like this. Um,
+
+704
+00:44:11.955 --> 00:44:16.544
+BUT, uh, yeah, in some cases being, um, having
+
 705
-00:44:04.599 --> 00:44:06.860
-interested in this topic. So, uh, I
-
-706
-00:44:06.869 --> 00:44:08.405
-come, uh, to read some, some certain
-
-707
-00:44:08.414 --> 00:44:13.034
-stuff like this. Um, but, uh,
-
-708
-00:44:13.043 --> 00:44:15.543
-yeah, in some cases being, um, having
-
-709
-00:44:15.554 --> 00:44:20.135
+00:44:16.554 --> 00:44:20.135
 a reasonable suspicion, such in this case is your
 
-710
-00:44:20.304 --> 00:44:22.204
-three ex partners of yours told you that they have
+706
+00:44:20.304 --> 00:44:22.925
+three ex partners of yours told you that they
 
-711
-00:44:22.215 --> 00:44:25.844
-HPV, uh, or you have some certain symptoms
+707
+00:44:22.935 --> 00:44:26.844
+have HPV, uh, or you have some certain symptoms
 
-712
-00:44:25.853 --> 00:44:30.619
+708
+00:44:26.854 --> 00:44:30.620
 of it. I'm not sure how this particular case
 
-713
-00:44:30.628 --> 00:44:32.760
+709
+00:44:30.629 --> 00:44:33.760
 would be treated in the legal system. Um uh
 
+710
+00:44:33.770 --> 00:44:37.600
+OR uh when we talk about um some, some
+
+711
+00:44:37.610 --> 00:44:43.459
+other diseases. Um BUT uh but that, that um
+
+712
+00:44:43.500 --> 00:44:49.719
+this reasonable suspicion can sometimes be even enough. Um
+
+713
+00:44:49.729 --> 00:44:52.479
+Yeah, maybe not in this health context but in
+
 714
-00:44:32.769 --> 00:44:37.599
-or uh when we talk about um some, some
+00:44:52.489 --> 00:44:55.090
+some other context when you're harming others or killing
 
 715
-00:44:37.610 --> 00:44:42.478
-other diseases. Um but uh but that, that
+00:44:55.100 --> 00:44:59.159
+someone extent. Um AND it's similar, maybe in these
 
 716
-00:44:42.489 --> 00:44:47.719
-um this reasonable suspicion can sometimes be even enough.
+00:44:59.169 --> 00:45:06.250
+cases, this having enough reasons to be suspicious could,
 
 717
-00:44:47.958 --> 00:44:52.438
-Um Yeah, maybe not in this health context but
+00:45:06.439 --> 00:45:09.550
+could lead to more severe judgments. Yes.
 
 718
-00:44:52.449 --> 00:44:54.090
-in some other context when you're harming others or killing
+00:45:10.000 --> 00:45:13.979
+Yeah. The only reason why I brought that distinction
 
 719
-00:44:54.099 --> 00:44:59.000
-someone extent. Um and it's similar, maybe in
+00:45:13.989 --> 00:45:17.590
+to the table between actually knowing that you have
 
 720
-00:44:59.010 --> 00:45:05.449
-these cases, this having enough reasons to be suspicious
+00:45:17.600 --> 00:45:21.239
+the disease and just suspecting that you might have
 
 721
-00:45:05.458 --> 00:45:08.550
-could, could lead to more severe judgments. Yes
+00:45:21.250 --> 00:45:27.750
+it, but not really testing is that psychologically speaking
 
 722
-00:45:09.000 --> 00:45:13.110
-. Yeah. The only reason why I brought that
+00:45:27.760 --> 00:45:30.810
+and from the perspective of psychology and cognitive science,
 
 723
-00:45:13.119 --> 00:45:16.590
-distinction to the table between actually knowing that you have
+00:45:30.820 --> 00:45:35.169
+perhaps uh for people who actually do not care
 
 724
-00:45:16.599 --> 00:45:21.349
-the disease and just suspecting that you might have it
+00:45:35.179 --> 00:45:39.070
+about harming others and just want to go on
 
 725
-00:45:21.360 --> 00:45:27.958
-, but not really testing is that psychologically speaking and
+00:45:39.080 --> 00:45:43.110
+having fun or something like that, then in the
 
 726
-00:45:27.969 --> 00:45:30.418
-from the perspective of psychology and cognitive science, perhaps
+00:45:43.120 --> 00:45:47.860
+case where they don't test, I, I mean, in
 
 727
-00:45:30.708 --> 00:45:36.369
-uh for people who actually do not care about harming
+00:45:47.870 --> 00:45:52.300
+their own self interest. Uh, IT would be better
 
 728
-00:45:36.378 --> 00:45:39.478
-others and just want to go on having fun or
+00:45:52.310 --> 00:45:56.260
+for them because that, because then they would, if
 
 729
-00:45:39.489 --> 00:45:44.688
-something like that, then in the case where they
+00:45:56.270 --> 00:45:58.959
+they are ready, do not care about harming others,
 
 730
-00:45:44.699 --> 00:45:47.119
-don't test, I, I mean, in their
+00:45:58.969 --> 00:46:03.000
+then adding to that they would have more plausible
 
 731
-00:45:47.128 --> 00:45:52.300
-own self interest. Uh, it would be better
+00:46:03.010 --> 00:46:06.870
+deniability because I didn't even actually test it. So
 
 732
-00:45:52.309 --> 00:45:54.119
-for them because that, because then they would,
+00:46:06.879 --> 00:46:07.649
+I didn't know
 
 733
-00:45:54.168 --> 00:45:58.519
-if they are ready, do not care about harming
+00:46:08.080 --> 00:46:10.850
+that the idea of this moral wiggle room and
 
 734
-00:45:58.530 --> 00:46:01.119
-others, then adding to that they would have more
+00:46:10.860 --> 00:46:15.399
+that was strategic, strategic ignorance is using this fact
 
 735
-00:46:01.128 --> 00:46:06.628
-plausible deniability because I didn't even actually test it.
+00:46:15.409 --> 00:46:21.149
+that sometimes not knowing, uh is mitigating your moral
 
 736
-00:46:06.639 --> 00:46:08.648
-So I didn't know that the idea of this moral
+00:46:21.159 --> 00:46:25.449
+judgment towards you. And you're using this moral wiggle
 
 737
-00:46:08.659 --> 00:46:13.519
-wiggle room and that was strategic, strategic ignorance is
+00:46:25.459 --> 00:46:30.429
+room of not saying, oh, I didn't know exactly
 
 738
-00:46:13.829 --> 00:46:19.099
-using this fact that sometimes not knowing, uh is
+00:46:30.719 --> 00:46:32.580
+that's the problem. But what I want to claim
 
 739
-00:46:19.110 --> 00:46:23.469
-mitigating your moral judgment towards you. And you're using
+00:46:32.590 --> 00:46:35.669
+there is that, well, that's, that's not always the
 
 740
-00:46:23.478 --> 00:46:28.780
-this moral wiggle room of not saying, oh,
+00:46:35.679 --> 00:46:38.689
+excuse, you know, maybe we're supposed to know, maybe
 
 741
-00:46:28.789 --> 00:46:30.769
-I didn't know exactly that's the problem. But what
+00:46:38.699 --> 00:46:41.000
+we're supposed to care more and then if you
 
 742
-00:46:30.780 --> 00:46:34.289
-I want to claim there is that, well,
+00:46:41.010 --> 00:46:44.149
+cared more, then you will know. And uh yeah,
 
 743
-00:46:34.300 --> 00:46:36.320
-that's, that's not always the excuse, you know
+00:46:44.159 --> 00:46:47.540
+some, some philosophers would agree with this. Um um
 
 744
-00:46:36.329 --> 00:46:38.300
-, maybe we're supposed to know, maybe we're supposed
+00:46:47.550 --> 00:46:51.149
+BECAUSE what we do sometimes is as moral psychologist,
 
 745
-00:46:38.309 --> 00:46:40.570
-to care more and then if you cared more,
+00:46:51.159 --> 00:46:55.979
+we um can take some, some notions from, from
 
 746
-00:46:40.579 --> 00:46:44.570
-then you will know. And uh yeah, some
+00:46:55.989 --> 00:46:59.419
+philosophy, some uh prescriptive theories and then test them
 
 747
-00:46:44.579 --> 00:46:46.539
-, some philosophers would agree with this. Um um
+00:46:59.429 --> 00:47:03.149
+empirically. And um some people do talk about the
 
 748
-00:46:46.550 --> 00:46:51.148
-because what we do sometimes is as moral psychologist,
+00:47:03.159 --> 00:47:07.100
+quality of y and uh this uh recognizing whether
 
 749
-00:46:51.159 --> 00:46:54.579
-we um can take some, some notions from,
+00:47:07.110 --> 00:47:11.520
+the agent uh had uh in consideration the, the,
 
 750
-00:46:54.750 --> 00:46:59.239
-from philosophy, some uh prescriptive theories and then test
+00:47:11.530 --> 00:47:16.159
+the welfare of others, even if come to produce
 
 751
-00:46:59.250 --> 00:47:02.090
-them empirically. And um some people do talk about
+00:47:16.169 --> 00:47:20.760
+some negative outcomes. Um They, they would be not
 
 752
-00:47:02.099 --> 00:47:07.099
-the quality of y and uh this uh recognizing whether
+00:47:20.770 --> 00:47:25.510
+judged as blame, very irresponsible. Um Yeah, so um
 
 753
-00:47:07.110 --> 00:47:10.519
-the agent uh had uh in consideration the, the
+00:47:26.300 --> 00:47:29.229
+yeah, II I want to, to study this more
 
 754
-00:47:10.530 --> 00:47:15.719
-, the welfare of others, even if come to
+00:47:29.239 --> 00:47:33.639
+in my future research, this for sociality and care
 
 755
-00:47:15.728 --> 00:47:19.699
-produce some negative outcomes. Um They, they would
+00:47:33.649 --> 00:47:38.270
+for others. Um And how it influences some certain
 
 756
-00:47:19.708 --> 00:47:23.000
-be not judged as blame, very irresponsible. Um
+00:47:38.280 --> 00:47:42.350
+decisions that we make and certain expectations uh from
 
 757
-00:47:23.010 --> 00:47:27.800
-Yeah, so um yeah, II I want to
+00:47:42.360 --> 00:47:45.639
+people. Um Yeah, I think it's important to take
 
 758
-00:47:27.809 --> 00:47:30.679
-, to study this more in my future research,
+00:47:45.649 --> 00:47:47.439
+other people into because I mean, that's my personal
 
 759
-00:47:30.208 --> 00:47:36.059
-this for sociality and care for others. Um And
+00:47:47.449 --> 00:47:50.510
+value. I would say uh taking some other people
 
 760
-00:47:36.070 --> 00:47:39.260
-how it influences some certain decisions that we make and
+00:47:50.520 --> 00:47:53.699
+in the consideration when you make certain decisions and
 
 761
-00:47:39.269 --> 00:47:44.199
-certain expectations uh from people. Um Yeah, I
+00:47:53.709 --> 00:47:57.239
+then to see what, to what extent it is,
 
 762
-00:47:44.208 --> 00:47:45.519
-think it's important to take other people into because I
+00:47:57.250 --> 00:48:00.330
+uh it is reasonable to what extent people uh
 
 763
-00:47:45.530 --> 00:47:47.360
-mean, that's my personal value. I would say
+00:48:00.340 --> 00:48:04.429
+people think it is reasonable. Um Yeah, let's, let's
 
 764
-00:47:47.739 --> 00:47:52.219
-uh taking some other people in the consideration when you
+00:48:04.439 --> 00:48:05.000
+say like that.
 
 765
-00:47:52.228 --> 00:47:54.849
-make certain decisions and then to see what, to
+00:48:05.340 --> 00:48:08.580
+Ok, great. So let's leave it. Uh Let's leave
 
 766
-00:47:54.860 --> 00:47:58.699
-what extent it is, uh it is reasonable to
+00:48:08.590 --> 00:48:12.439
+that as perhaps a teaser for a possible future
 
 767
-00:47:58.708 --> 00:48:01.559
-what extent people uh people think it is reasonable.
+00:48:12.449 --> 00:48:17.469
+conversation once you've finished your phd. So just before
 
 768
-00:48:01.570 --> 00:48:05.000
-Um Yeah, let's, let's say like that.
+00:48:17.479 --> 00:48:19.760
+we go, would you like to tell people where
 
 769
-00:48:05.340 --> 00:48:07.478
-Ok, great. So let's leave it. Uh
+00:48:19.770 --> 00:48:21.820
+they can find you and your work on the
 
 770
-00:48:07.489 --> 00:48:10.840
-Let's leave that as perhaps a teaser for a possible
+00:48:21.830 --> 00:48:22.360
+internet?
 
 771
-00:48:10.849 --> 00:48:16.148
-future conversation once you've finished your phd. So just
+00:48:23.459 --> 00:48:28.399
+Um Yes. So we recently published a preprint that
 
 772
-00:48:16.159 --> 00:48:19.519
-before we go, would you like to tell people
+00:48:28.409 --> 00:48:32.520
+um is um called, you should have checked and
 
 773
-00:48:19.530 --> 00:48:21.820
-where they can find you and your work on the
+00:48:32.540 --> 00:48:35.429
+uh the importance of epistemic intentions in description of
 
 774
-00:48:21.829 --> 00:48:25.550
-internet? Um Yes. So we recently published a
+00:48:35.439 --> 00:48:39.560
+responsibility um with my co authors, Francesca Bonna Lomi
 
 775
-00:48:25.559 --> 00:48:30.938
-preprint that um is um called, you should have
+00:48:39.570 --> 00:48:43.020
+and Christoph Heinz, my supervisor. Um Also you can
 
 776
-00:48:30.949 --> 00:48:35.398
-checked and uh the importance of epistemic intentions in description
+00:48:43.030 --> 00:48:47.270
+find me on the Aces um like the Cards
 
 777
-00:48:35.409 --> 00:48:38.199
-of responsibility um with my co authors, Francesca Bonna
+00:48:47.290 --> 00:48:50.879
+Aces uh page uh at CEO, which is the,
 
 778
-00:48:38.398 --> 00:48:42.648
-Lomi and Christoph Heinz, my supervisor. Um Also
+00:48:50.889 --> 00:48:56.290
+the name of my lab. Um um So, so
 
 779
-00:48:42.659 --> 00:48:45.800
-you can find me on the Aces um like the
+00:48:56.300 --> 00:48:59.229
+yeah, um those are some, some places you can
 
 780
-00:48:45.809 --> 00:48:50.780
-Cards Aces uh page uh at CEO, which is
+00:48:59.239 --> 00:49:00.889
+find me and there you can see my email
 
 781
-00:48:50.789 --> 00:48:53.938
-the, the name of my lab. Um um
+00:49:00.899 --> 00:49:04.820
+address on the CEO website. Um So yes, if
 
 782
-00:48:53.949 --> 00:48:58.300
-So, so yeah, um those are some,
+00:49:04.830 --> 00:49:07.560
+you, if you have any questions, please feel free
 
 783
-00:48:58.309 --> 00:49:00.260
-some places you can find me and there you can
+00:49:07.570 --> 00:49:10.530
+to, to uh to uh email me. Yeah, for
 
 784
-00:49:00.269 --> 00:49:02.369
-see my email address on the CEO website. Um
+00:49:10.540 --> 00:49:13.459
+sure. Or always on linkedin, you can find me.
 
 785
-00:49:02.378 --> 00:49:05.489
-So yes, if you, if you have any
+00:49:13.469 --> 00:49:16.959
+So I'm, I'm on multiple locations.
 
 786
-00:49:05.500 --> 00:49:08.250
-questions, please feel free to, to uh to
+00:49:17.520 --> 00:49:20.379
+Ok, great. So Luke Karin, thank you so much
 
 787
-00:49:08.260 --> 00:49:10.559
-uh email me. Yeah, for sure. Or
+00:49:20.389 --> 00:49:22.580
+again for taking the time to come on the
 
 788
-00:49:10.570 --> 00:49:13.739
-always on linkedin, you can find me. So
+00:49:22.590 --> 00:49:24.830
+show. It's been a real pleasure to talk to
 
 789
-00:49:13.750 --> 00:49:17.360
-I'm, I'm on multiple locations. Ok, great
+00:49:24.840 --> 00:49:26.620
+you. Thank you so much.
 
 790
-00:49:17.369 --> 00:49:20.820
-. So Luke Karin, thank you so much again
+00:49:26.919 --> 00:49:27.540
+Thanks.
 
 791
-00:49:20.829 --> 00:49:22.800
-for taking the time to come on the show.
+00:49:28.469 --> 00:49:31.330
+Ok, great. So Luke Karin, thank you so much
 
 792
-00:49:22.809 --> 00:49:24.039
-It's been a real pleasure to talk to you.
+00:49:31.340 --> 00:49:33.530
+again for taking the time to come on the
 
 793
-00:49:24.590 --> 00:49:29.320
-Thank you so much. Thanks. Ok, great
+00:49:33.540 --> 00:49:35.780
+show. It's been a real pleasure to talk to
 
 794
-00:49:29.329 --> 00:49:30.769
-. So Luke Karin, thank you so much again
+00:49:35.790 --> 00:49:40.040
+you. Thank you so much. Hi, everyone. Thank you
 
 795
-00:49:30.780 --> 00:49:32.769
-for taking the time to come on the show.
+00:49:40.050 --> 00:49:42.360
+for watching this interview. Until the end. If you
 
 796
-00:49:32.780 --> 00:49:35.989
-It's been a real pleasure to talk to you.
+00:49:42.370 --> 00:49:45.739
+like what I'm doing, please consider supporting the show
 
 797
-00:49:36.539 --> 00:49:38.938
-Thank you so much. Hi, everyone. Thank
+00:49:45.750 --> 00:49:48.479
+on Patreon or paypal. You can find the links
 
 798
-00:49:38.949 --> 00:49:42.059
-you for watching this interview. Until the end.
+00:49:48.489 --> 00:49:51.540
+in the description box down below and if you
 
 799
-00:49:42.070 --> 00:49:45.280
-If you like what I'm doing, please consider supporting
+00:49:51.550 --> 00:49:54.020
+like the interview, please share it, leave a like
 
 800
-00:49:45.289 --> 00:49:47.039
-the show on Patreon or paypal. You can find
+00:49:54.030 --> 00:49:57.370
+hit the subscription button and comment. The show is
 
 801
-00:49:47.050 --> 00:49:51.438
-the links in the description box down below and if
+00:49:57.379 --> 00:50:00.260
+brought to you by N Lights learning and development
 
 802
-00:49:51.449 --> 00:49:52.489
-you like the interview, please share it, leave
+00:50:00.270 --> 00:50:04.370
+and differently check their website at N lights.com. I
 
 803
-00:49:52.500 --> 00:49:57.019
-a like hit the subscription button and comment. The
+00:50:04.379 --> 00:50:06.159
+would also like to give a huge thank you
 
 804
-00:49:57.030 --> 00:49:59.530
-show is brought to you by N Lights learning and
+00:50:06.169 --> 00:50:10.159
+to my main patrons and paypal supporters, Pero Larson,
 
 805
-00:49:59.539 --> 00:50:02.820
-development and differently check their website at N lights.com.
+00:50:10.169 --> 00:50:13.370
+Jerry Mueller and Frederick Sunder Bernard. So all of
 
 806
-00:50:04.148 --> 00:50:06.159
-I would also like to give a huge thank you
+00:50:13.389 --> 00:50:17.189
+Alex Adam, Castle Matthew Whittenberg, Arno Wolf, Tim Hollis,
 
 807
-00:50:06.168 --> 00:50:09.159
-to my main patrons and paypal supporters, Pero Larson
+00:50:17.219 --> 00:50:20.669
+Eric Alan J con Philip Forrest Connolly. Then the
 
 808
-00:50:09.168 --> 00:50:13.188
-, Jerry Mueller and Frederick Sunder Bernard. So all
+00:50:20.679 --> 00:50:23.909
+mere Robert Windier ruin. Nai Z Mark Nebs Colin
 
 809
-00:50:13.349 --> 00:50:15.409
-of Alex Adam, Castle Matthew Whittenberg, Arno Wolf
+00:50:23.919 --> 00:50:29.173
+hope Mikel Storm Andre Francis for the Agn Fergal
 
 810
-00:50:15.418 --> 00:50:19.418
-, Tim Hollis, Eric Alan J con Philip Forrest
+00:50:29.812 --> 00:50:36.393
+Ken Harl hero, Jonathan lebron and Eric Heinz Mark
 
 811
-00:50:19.429 --> 00:50:22.128
-Connolly. Then the mere Robert Windier ruin. Nai
+00:50:36.403 --> 00:50:45.625
+Smith Hummels are friends, David Wr Ro Romani Charlotte,
 
 812
-00:50:22.599 --> 00:50:28.362
-Z Mark Nebs Colin hope Mikel Storm Andre Francis for
+00:50:45.635 --> 00:50:49.325
+Bli Nicolo, Barbaro, Adam hunt Palo Stassi, Nele Bach
 
 813
-00:50:28.532 --> 00:50:32.672
-the Agn Fergal Ken Harl hero, Jonathan lebron and
+00:50:49.486 --> 00:50:52.575
+Guy, Madison, Gary G Hellman, Samo Zal, Adrian Yi
 
 814
-00:50:34.913 --> 00:50:39.561
-Eric Heinz Mark Smith Hummels are friends, David Wr
+00:50:53.145 --> 00:50:58.145
+Paul Tolentino. Julian Price Edward Hall, Eden Bruner Douglas
 
 815
-00:50:40.041 --> 00:50:46.155
-Ro Romani Charlotte, Bli Nicolo, Barbaro, Adam
+00:50:58.156 --> 00:51:01.736
+Fre Franco Bartolo Gabriel Pan Cortez or Lalit Scott
 
 816
-00:50:46.166 --> 00:50:50.324
-hunt Palo Stassi, Nele Bach Guy, Madison,
+00:51:01.865 --> 00:51:05.295
+Zachary Fish, Tim Duffy and Smith John Wiesman, Daniel
 
 817
-00:50:50.335 --> 00:50:52.545
-Gary G Hellman, Samo Zal, Adrian Yi Paul
+00:51:05.305 --> 00:51:09.236
+Friedman, William Buckner, Paul Georgina, L Lo A Georges,
 
 818
-00:50:52.726 --> 00:50:58.144
-Tolentino. Julian Price Edward Hall, Eden Bruner Douglas
+00:51:09.506 --> 00:51:13.580
+Theo Chris Williams and Peter W David Williams the
 
 819
-00:50:58.155 --> 00:51:01.105
-Fre Franco Bartolo Gabriel Pan Cortez or Lalit Scott Zachary
+00:51:13.649 --> 00:51:17.870
+Costa Anton Erickson Charles Murray, Alex Shower, Marie Martinez,
 
 820
-00:51:01.114 --> 00:51:05.295
-Fish, Tim Duffy and Smith John Wiesman, Daniel
+00:51:17.879 --> 00:51:22.949
+Coralie Chevalier, Bangalore atheists, Larry D Lee Junior, Old
 
 821
-00:51:05.304 --> 00:51:07.476
-Friedman, William Buckner, Paul Georgina, L Lo
+00:51:22.959 --> 00:51:27.409
+Harri Bon Starry Michael Bailey. Then Sperber, Robert Grass
 
 822
-00:51:07.666 --> 00:51:12.978
-A Georges, Theo Chris Williams and Peter W David
+00:51:27.500 --> 00:51:31.834
+is a Jeff mcmahon, Jake Zul Barnabas Radix Mark
 
 823
-00:51:12.989 --> 00:51:15.610
-Williams the Costa Anton Erickson Charles Murray, Alex Shower
+00:51:31.875 --> 00:51:36.395
+Temple, Thomas Dubner, Luke Neeson, Chris to Kimberley Johnson,
 
 824
-00:51:15.789 --> 00:51:20.389
-, Marie Martinez, Coralie Chevalier, Bangalore atheists,
+00:51:36.604 --> 00:51:42.094
+Benjamin GALT, Jessica Nowicki Linda Brandon, Nicholas Carlson, Ismael
 
 825
-00:51:20.398 --> 00:51:24.478
-Larry D Lee Junior, Old Harri Bon Starry Michael
+00:51:42.104 --> 00:51:47.804
+Bensley Man, George Kiss Valentin Steinman, Per Rowley, Kate
 
 826
-00:51:24.489 --> 00:51:28.675
-Bailey. Then Sperber, Robert Grass is a Jeff
+00:51:47.814 --> 00:51:53.649
+Von Goler, Alexander Robert Liam Donaway br Masoud Ali
 
 827
-00:51:28.684 --> 00:51:31.954
-mcmahon, Jake Zul Barnabas Radix Mark Temple, Thomas
+00:51:53.659 --> 00:51:59.929
+Mohammadi Perpendicular, Jonas Herner, Ursula. Good enough, Gregory Hastings
 
 828
-00:51:31.965 --> 00:51:36.394
-Dubner, Luke Neeson, Chris to Kimberley Johnson,
+00:51:59.939 --> 00:52:04.899
+David Pins of Sean Nelson and Mike Levin. A
 
 829
-00:51:36.603 --> 00:51:40.273
-Benjamin GALT, Jessica Nowicki Linda Brandon, Nicholas Carlson
+00:52:04.909 --> 00:52:08.090
+special thanks to my producers is our web, Jim
 
 830
-00:51:40.494 --> 00:51:45.394
-, Ismael Bensley Man, George Kiss Valentin Steinman,
+00:52:08.100 --> 00:52:12.300
+Frank Luca Stefi, Tom Ween, Bernard Yugi Cortes Dixon
 
 831
-00:51:45.635 --> 00:51:51.090
-Per Rowley, Kate Von Goler, Alexander Robert Liam
+00:52:12.310 --> 00:52:16.419
+Benedict Muller Thomas Trumble, Catherine and Patrick Tobin, John
 
 832
-00:51:51.099 --> 00:51:55.820
-Donaway br Masoud Ali Mohammadi Perpendicular, Jonas Herner,
+00:52:16.429 --> 00:52:19.969
+Carl Montenegro, Alick Ortiz and Nick Golden. And to
 
 833
-00:51:57.128 --> 00:52:00.949
-Ursula. Good enough, Gregory Hastings David Pins of
+00:52:19.979 --> 00:52:24.540
+my executive producers, Matthew Lavender, Sergi, Adriano Bogdan Knits
 
 834
-00:52:00.489 --> 00:52:06.188
-Sean Nelson and Mike Levin. A special thanks to
-
-835
-00:52:06.199 --> 00:52:08.219
-my producers is our web, Jim Frank Luca Stefi
-
-836
-00:52:08.579 --> 00:52:13.329
-, Tom Ween, Bernard Yugi Cortes Dixon Benedict Muller
-
-837
-00:52:13.340 --> 00:52:15.750
-Thomas Trumble, Catherine and Patrick Tobin, John Carl
-
-838
-00:52:15.760 --> 00:52:19.969
-Montenegro, Alick Ortiz and Nick Golden. And to
-
-839
-00:52:19.978 --> 00:52:22.389
-my executive producers, Matthew Lavender, Sergi, Adriano
-
-840
-00:52:22.398 --> 00:52:25.750
-Bogdan Knits and Rosie. Thank you for all
+00:52:24.939 --> 00:52:26.750
+and Rosie. Thank you for all
 

@@ -1,0 +1,5614 @@
+WEBVTT
+
+1
+00:00:00.219 --> 00:00:02.980
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:02.990 --> 00:00:05.900
+Decent. I'm your host, Richard Lobs. And today I'm
+
+3
+00:00:05.909 --> 00:00:09.350
+Jen by Doctor Paul Fert. He is distinguished Professor
+
+4
+00:00:09.359 --> 00:00:13.229
+Emeritus of Philosophy at the University of Waterloo. And
+
+5
+00:00:13.239 --> 00:00:17.920
+today we're talking about his latest book, Falsehoods Fly.
+
+6
+00:00:17.930 --> 00:00:21.559
+Why Misinformation Spreads and How to stop it. So,
+
+7
+00:00:21.670 --> 00:00:24.319
+Doctor FEG, welcome to the show. It's a pleasure
+
+8
+00:00:24.329 --> 00:00:24.959
+to everyone.
+
+9
+00:00:25.469 --> 00:00:26.840
+Uh Thank you very much for having me.
+
+10
+00:00:28.110 --> 00:00:31.549
+So we're going to talk a lot about misinformation
+
+11
+00:00:31.559 --> 00:00:34.080
+here today. But I guess that before we get
+
+12
+00:00:34.090 --> 00:00:38.130
+into misinformation itself, it would be important for people
+
+13
+00:00:38.139 --> 00:00:41.049
+to understand a little bit better what we're talking
+
+14
+00:00:41.060 --> 00:00:46.340
+about when we talk about information itself. So what
+
+15
+00:00:46.349 --> 00:00:49.729
+do you think? I it's are the most important
+
+16
+00:00:49.740 --> 00:00:53.889
+aspects of information that people should know to then
+
+17
+00:00:54.259 --> 00:00:59.180
+uh have a better understanding of what misinformation is?
+
+18
+00:00:59.590 --> 00:01:01.880
+Yeah, that's exactly the right place to start because
+
+19
+00:01:01.889 --> 00:01:04.940
+you can't have account of misinformation or disinformation unless
+
+20
+00:01:04.949 --> 00:01:07.150
+you have an account of what information is. That's
+
+21
+00:01:07.160 --> 00:01:10.839
+a surprisingly hard problem. There's an old mathematical field
+
+22
+00:01:10.849 --> 00:01:15.830
+called information theory that was developed by telecommunication scientists
+
+23
+00:01:15.839 --> 00:01:19.209
+to describe signals going through. But it's not useful
+
+24
+00:01:19.220 --> 00:01:21.610
+for our purposes, our purposes are to figure out
+
+25
+00:01:21.620 --> 00:01:24.019
+what's information for people, not just sort of abstract
+
+26
+00:01:24.029 --> 00:01:26.290
+probabilities, we need to have something that can be
+
+27
+00:01:26.300 --> 00:01:29.099
+true or false. So how does it go? Well,
+
+28
+00:01:29.110 --> 00:01:31.730
+one key word to go into it is representation.
+
+29
+00:01:31.739 --> 00:01:34.150
+A representation is something that stands for something in
+
+30
+00:01:34.160 --> 00:01:36.519
+the world. So when you get a representation, it
+
+31
+00:01:36.529 --> 00:01:37.889
+could be a sentence or it could be a
+
+32
+00:01:37.900 --> 00:01:40.980
+picture or it could be uh a song. These
+
+33
+00:01:40.989 --> 00:01:42.910
+are all things that can stand for things in
+
+34
+00:01:42.919 --> 00:01:45.080
+the world. So that's what a representation is. So
+
+35
+00:01:45.089 --> 00:01:48.690
+information should be meaningful, it should be representational should
+
+36
+00:01:48.699 --> 00:01:51.019
+stand for stuff. And now of course, if you
+
+37
+00:01:51.029 --> 00:01:53.209
+can do that, if it can represent the world,
+
+38
+00:01:53.220 --> 00:01:55.779
+it can also misrepresent the world. And that's where
+
+39
+00:01:55.790 --> 00:01:57.690
+you get misinformation, you end up with something that's
+
+40
+00:01:57.699 --> 00:02:00.300
+false. So if something can be true or false
+
+41
+00:02:00.309 --> 00:02:02.790
+of the world or accurate or useful, those are
+
+42
+00:02:02.800 --> 00:02:04.650
+all things that go under the head of, of
+
+43
+00:02:04.660 --> 00:02:08.050
+of good information of real information, then you've got
+
+44
+00:02:08.059 --> 00:02:10.600
+something that can really make a difference in human
+
+45
+00:02:10.610 --> 00:02:11.320
+communication.
+
+46
+00:02:12.610 --> 00:02:17.100
+But how exactly do we go about distinguishing information
+
+47
+00:02:17.110 --> 00:02:20.210
+from misinformation? I guess that's a very important question
+
+48
+00:02:20.220 --> 00:02:24.910
+to tackle here because many times if people make
+
+49
+00:02:24.919 --> 00:02:30.860
+claims, usually based on conspiracy theories about how what
+
+50
+00:02:30.869 --> 00:02:36.134
+the experts, the media, the classifier as misinformation, it's
+
+51
+00:02:36.145 --> 00:02:41.375
+just what some people, some elite out there uh
+
+52
+00:02:41.464 --> 00:02:49.225
+establishes as misinformation or decides is information or misinformation,
+
+53
+00:02:49.235 --> 00:02:52.875
+right? So how do we do it properly?
+
+54
+00:02:53.440 --> 00:02:55.580
+OK. The key question then is what's the difference
+
+55
+00:02:55.589 --> 00:02:59.449
+between information that's real and information, which is misinformation,
+
+56
+00:02:59.460 --> 00:03:02.850
+which is one of three things here. I actually
+
+57
+00:03:02.860 --> 00:03:05.059
+got this from the US surgeon general who gave
+
+58
+00:03:05.070 --> 00:03:07.360
+a good account of it. Uh The surgeon general
+
+59
+00:03:07.369 --> 00:03:09.149
+in the US, the top health official is really
+
+60
+00:03:09.160 --> 00:03:11.509
+worried because he knows that there's vast amounts of
+
+61
+00:03:11.520 --> 00:03:14.750
+misinformation about health out there thinking about COVID about
+
+62
+00:03:14.759 --> 00:03:17.429
+vaccines and constant other things. But he came up
+
+63
+00:03:17.440 --> 00:03:20.729
+with a nice one. He said, misinformation is information
+
+64
+00:03:20.740 --> 00:03:24.699
+which is false, inaccurate or misleading. Um So the
+
+65
+00:03:24.710 --> 00:03:28.100
+key question there is accuracy, does it actually reflect
+
+66
+00:03:28.110 --> 00:03:30.419
+what goes on in the world? So my, my
+
+67
+00:03:30.429 --> 00:03:33.070
+account of information is correctly representing what's in the
+
+68
+00:03:33.080 --> 00:03:35.910
+world. Assume there's a world, this is already something
+
+69
+00:03:35.919 --> 00:03:38.410
+that people disagree about. But I think there's lots
+
+70
+00:03:38.419 --> 00:03:40.770
+of reasons to believe. Yes, there is a real
+
+71
+00:03:40.779 --> 00:03:42.429
+world out there and we can either get it
+
+72
+00:03:42.440 --> 00:03:46.589
+right or get it wrong information that's done properly.
+
+73
+00:03:46.600 --> 00:03:49.899
+Real information gets it right. Misinformation gets it wrong.
+
+74
+00:03:49.970 --> 00:03:51.949
+It can be because it's got sentences that are
+
+75
+00:03:51.960 --> 00:03:55.270
+false or pictures that are, are inaccurate or just
+
+76
+00:03:55.279 --> 00:03:57.100
+things that are misleading because they're a little bit
+
+77
+00:03:57.110 --> 00:03:59.619
+off and they give the wrong sense of what,
+
+78
+00:03:59.630 --> 00:04:04.509
+what's important. So, misinformation is information which is false,
+
+79
+00:04:04.520 --> 00:04:08.410
+inaccurate or misleading or often all three and we
+
+80
+00:04:08.419 --> 00:04:10.889
+find loads of it uh in all the different
+
+81
+00:04:10.899 --> 00:04:12.529
+fields that I talk about in my book, you
+
+82
+00:04:12.539 --> 00:04:15.039
+find it in medical domains, you find in science,
+
+83
+00:04:15.050 --> 00:04:17.570
+you find lots of it in politics, uh lots
+
+84
+00:04:17.579 --> 00:04:21.260
+of it in arguments about um equality. And the
+
+85
+00:04:21.269 --> 00:04:22.970
+example that I used to sum it all up
+
+86
+00:04:22.980 --> 00:04:25.809
+about is in the Ukraine war where the Russians
+
+87
+00:04:25.820 --> 00:04:29.260
+in particular use a lot of propaganda to tell
+
+88
+00:04:29.269 --> 00:04:32.339
+lies about Ukraine to try to justify it. So
+
+89
+00:04:32.350 --> 00:04:35.630
+real information about the Ukraine War is what actually
+
+90
+00:04:35.640 --> 00:04:38.179
+happened, who attacked who, what kinds of governments do
+
+91
+00:04:38.190 --> 00:04:40.959
+the different places have? That's real information because it
+
+92
+00:04:40.970 --> 00:04:44.739
+corresponds to reality. But when Vladimir Putin says that
+
+93
+00:04:44.750 --> 00:04:49.760
+their, their invasion is justified because the Ukrainian government
+
+94
+00:04:49.769 --> 00:04:53.420
+is run by Nazis. Well, that's false and it's
+
+95
+00:04:53.429 --> 00:04:56.540
+inaccurate and it's extremely misleading because it's being used
+
+96
+00:04:56.549 --> 00:04:59.260
+to justify an invasion for which there is no
+
+97
+00:04:59.269 --> 00:05:00.380
+justification.
+
+98
+00:05:02.019 --> 00:05:08.079
+And why should we worry about misinformation? Exactly. Because
+
+99
+00:05:08.089 --> 00:05:11.040
+for example, I've already talked with people on my
+
+100
+00:05:11.049 --> 00:05:15.959
+show who have been doing work on misinformation, how
+
+101
+00:05:15.970 --> 00:05:19.559
+it spreads on the internet, for example. And uh
+
+102
+00:05:19.570 --> 00:05:23.480
+over the course of almost all of those interviews,
+
+103
+00:05:23.489 --> 00:05:27.562
+people have told me, for example, that it's usually
+
+104
+00:05:27.572 --> 00:05:33.352
+just a small minority of people basically putting information
+
+105
+00:05:33.363 --> 00:05:37.352
+out on the internet and spreading it. And most
+
+106
+00:05:37.363 --> 00:05:42.222
+people do not fall for misinformation and even the
+
+107
+00:05:42.233 --> 00:05:44.812
+ones who fall for it, we have probably to
+
+108
+00:05:44.822 --> 00:05:48.562
+look a little bit into their political and social
+
+109
+00:05:48.735 --> 00:05:54.015
+affiliations to understand why they, uh, I mean, tend
+
+110
+00:05:54.026 --> 00:05:57.226
+to believe in specific kinds of misinformation and so
+
+111
+00:05:57.235 --> 00:05:59.936
+on. So, uh I, I mean, there, there are
+
+112
+00:05:59.946 --> 00:06:05.286
+arguments, I guess for saying that uh perhaps sometimes
+
+113
+00:06:05.295 --> 00:06:09.205
+we exaggerate a little bit the social impact, the
+
+114
+00:06:09.216 --> 00:06:12.529
+political and social impact of misinformation. But, uh I
+
+115
+00:06:12.540 --> 00:06:16.459
+mean, why should we worry about it? Exactly.
+
+116
+00:06:16.640 --> 00:06:18.989
+Well, I don't know where the people were saying
+
+117
+00:06:19.000 --> 00:06:20.940
+this but they're obviously not aware of what's happening
+
+118
+00:06:20.950 --> 00:06:23.320
+in the United States right now. There's a high
+
+119
+00:06:23.329 --> 00:06:26.190
+probability that the next president of the United States
+
+120
+00:06:26.200 --> 00:06:28.640
+is going to be Donald Trump who is a
+
+121
+00:06:28.649 --> 00:06:33.230
+massive purveyor of misinformation. So he's still saying that
+
+122
+00:06:33.239 --> 00:06:37.290
+Biden stole the last election. He's still saying that
+
+123
+00:06:37.299 --> 00:06:39.929
+the economy is doing horrible. He's saying everything is
+
+124
+00:06:39.940 --> 00:06:42.910
+Biden's fault and that he was perfect leader. So
+
+125
+00:06:42.920 --> 00:06:46.350
+there's massive amounts of misinformation and everything he says.
+
+126
+00:06:46.459 --> 00:06:48.559
+Uh WELL, even while he was president, one of
+
+127
+00:06:48.570 --> 00:06:51.510
+the presses, I think it was the Washington Post
+
+128
+00:06:51.519 --> 00:06:55.929
+tracked his statements and they found 15,000 lies and
+
+129
+00:06:55.940 --> 00:06:59.510
+these lies are enabling him to take control of
+
+130
+00:06:59.519 --> 00:07:02.239
+the world's most powerful country. Now, maybe he'll get
+
+131
+00:07:02.250 --> 00:07:03.739
+beaten and that would be good. But right now
+
+132
+00:07:03.750 --> 00:07:05.410
+he's leading in the polls and he's definitely going
+
+133
+00:07:05.420 --> 00:07:08.380
+to be the Republican candidate. So anyone who thinks
+
+134
+00:07:08.390 --> 00:07:11.029
+that misinformation is a problem is not a problem,
+
+135
+00:07:11.040 --> 00:07:13.799
+hasn't been paying attention to that or consider health
+
+136
+00:07:13.809 --> 00:07:17.049
+right now. Measles is spreading in Europe and in
+
+137
+00:07:17.059 --> 00:07:20.399
+Canada Canada hasn't had cases of measles for decades
+
+138
+00:07:20.410 --> 00:07:23.940
+because there is general vaccination starting in the sixties.
+
+139
+00:07:24.079 --> 00:07:27.190
+But because of misinformation about vaccines in general and
+
+140
+00:07:27.200 --> 00:07:30.040
+about the measles vaccine in particular, people are starting
+
+141
+00:07:30.049 --> 00:07:32.079
+to get sick again. There are still people dying
+
+142
+00:07:32.089 --> 00:07:34.500
+of COVID despite the fact that there are excellent
+
+143
+00:07:34.510 --> 00:07:38.420
+uh vaccines available. So the problem, the reason we
+
+144
+00:07:38.429 --> 00:07:40.779
+have to worry about misinformation is that people get
+
+145
+00:07:40.790 --> 00:07:45.079
+harmed, severely harmed by having fascist leaders in power
+
+146
+00:07:45.089 --> 00:07:47.700
+or by having diseases spread when they don't need
+
+147
+00:07:47.709 --> 00:07:50.760
+to when there are good medical treatments available. So,
+
+148
+00:07:50.769 --> 00:07:54.579
+misinformation is just very, very, very harmful. Uh EVEN
+
+149
+00:07:54.589 --> 00:07:57.945
+most recent uh I mean, Putin is still justifying
+
+150
+00:07:57.954 --> 00:08:00.755
+his invasion of the Ukraine. What's the harm there?
+
+151
+00:08:00.765 --> 00:08:05.434
+Well, 30,000 Ukrainian soldiers, countless Ukrainian civilians have been
+
+152
+00:08:05.445 --> 00:08:07.654
+killed as a result of this invasion, which he
+
+153
+00:08:07.665 --> 00:08:11.375
+justifies by layers of misinformation. Not only the claim
+
+154
+00:08:11.385 --> 00:08:14.350
+that Ukraine is run by Nazis, but also of
+
+155
+00:08:14.359 --> 00:08:17.019
+false historical theories about Ukraine is really part of
+
+156
+00:08:17.029 --> 00:08:22.059
+Russia. And so these false beliefs, this misinformation is
+
+157
+00:08:22.070 --> 00:08:25.459
+justifying the causation of immense amounts of harm to
+
+158
+00:08:25.470 --> 00:08:28.149
+human beings. So it's not just the fact that
+
+159
+00:08:28.160 --> 00:08:30.809
+there's a bunch of people talking nonsense on tiktok,
+
+160
+00:08:30.820 --> 00:08:32.919
+I mean that that's not so important unless, but
+
+161
+00:08:32.929 --> 00:08:35.150
+when they start saying what are the causes of
+
+162
+00:08:35.159 --> 00:08:38.489
+diseases, what's the political way to deal with the
+
+163
+00:08:38.500 --> 00:08:42.750
+current problems in society? Then misinformation is causing real
+
+164
+00:08:42.760 --> 00:08:45.210
+harms. And that's why the first sense of my
+
+165
+00:08:45.219 --> 00:08:49.460
+book is Misinformation Kills. And it clearly does. Uh
+
+166
+00:08:49.479 --> 00:08:51.830
+I give also examples from climate change. There are
+
+167
+00:08:51.840 --> 00:08:54.270
+already people who died because of climate change because
+
+168
+00:08:54.280 --> 00:08:57.159
+of heatwaves and wildfires and things like that. And
+
+169
+00:08:57.299 --> 00:09:00.150
+all the information, the real information that we get
+
+170
+00:09:00.159 --> 00:09:03.250
+from government bodies is that this problem is going
+
+171
+00:09:03.260 --> 00:09:05.690
+to get worse and worse and worse that there
+
+172
+00:09:05.700 --> 00:09:09.030
+were a few million people died from the COVID
+
+173
+00:09:09.320 --> 00:09:13.270
+um epidemic, but it's going to be many more
+
+174
+00:09:13.280 --> 00:09:15.650
+million people are gonna die as climate change gets
+
+175
+00:09:15.659 --> 00:09:18.679
+worse. Uh IN accord with the best scientific information.
+
+176
+00:09:19.070 --> 00:09:21.700
+So it's not just that there's these little harms
+
+177
+00:09:21.710 --> 00:09:24.270
+and these little unfortunate things that happen because people
+
+178
+00:09:24.280 --> 00:09:28.909
+gossip on Twitter or tiktok or Instagram, people die
+
+179
+00:09:28.960 --> 00:09:30.630
+as a result of misinformation.
+
+180
+00:09:32.150 --> 00:09:35.590
+So let's get now a little bit into before
+
+181
+00:09:35.599 --> 00:09:38.210
+we get into some of the examples you mentioned
+
+182
+00:09:38.219 --> 00:09:40.400
+there and explore them a little bit more like
+
+183
+00:09:40.409 --> 00:09:44.599
+the Ukraine War, scientific misinformation, medical misinformation and so
+
+184
+00:09:44.609 --> 00:09:47.760
+on. In the book, you bring into the book,
+
+185
+00:09:47.770 --> 00:09:52.044
+a particular framework that you call the A theory
+
+186
+00:09:52.054 --> 00:09:55.724
+of information and misinformation or the A I MS
+
+187
+00:09:55.734 --> 00:10:00.885
+because it stands for acquisition, influence memory and spread.
+
+188
+00:10:01.135 --> 00:10:03.364
+Uh Could you tell us a little bit about
+
+189
+00:10:03.375 --> 00:10:07.724
+these for general processes? What do they correspond to
+
+190
+00:10:07.734 --> 00:10:09.385
+how and how they work?
+
+191
+00:10:10.179 --> 00:10:12.659
+Sure, it was about five years ago, I realized
+
+192
+00:10:12.669 --> 00:10:14.609
+I needed a theory of information. It was because
+
+193
+00:10:14.619 --> 00:10:17.159
+of another project. I was doing about energy and
+
+194
+00:10:17.169 --> 00:10:19.520
+the philosophy of mind. But I kept running across
+
+195
+00:10:19.530 --> 00:10:21.559
+information. And so I went to look and see
+
+196
+00:10:21.919 --> 00:10:24.809
+what are the current theories of information. And there's
+
+197
+00:10:24.820 --> 00:10:26.919
+still the old theory that I mentioned coming out
+
+198
+00:10:26.929 --> 00:10:30.000
+of telecommunications theory uh is around. But there wasn't
+
+199
+00:10:30.010 --> 00:10:33.179
+a good theory that would actually cover information here.
+
+200
+00:10:33.190 --> 00:10:35.580
+My background in philosophy of science was relevant along
+
+201
+00:10:35.590 --> 00:10:38.059
+with other philosophies of science. I've been arguing that
+
+202
+00:10:38.070 --> 00:10:40.590
+scientific theories by and large, at least a lot
+
+203
+00:10:40.599 --> 00:10:43.719
+of the most important ones are descriptions of mechanisms.
+
+204
+00:10:44.030 --> 00:10:45.650
+So if you want to explain how the body
+
+205
+00:10:45.659 --> 00:10:48.219
+works, how life works, you look for mechanisms, you've
+
+206
+00:10:48.229 --> 00:10:50.479
+got the heart and the veins for as part
+
+207
+00:10:50.489 --> 00:10:54.260
+of the uh cardiovascular system, you've got the breathing
+
+208
+00:10:54.270 --> 00:10:57.150
+system, you've got cell division. So you can explain
+
+209
+00:10:57.159 --> 00:11:00.299
+all of life by having a bunch of mechanisms
+
+210
+00:11:00.309 --> 00:11:03.150
+in mind. So what's a mechanism? Well, if you
+
+211
+00:11:03.159 --> 00:11:04.719
+know what a bicycle is, you've got a good
+
+212
+00:11:04.729 --> 00:11:07.520
+example because with a bicycle, you've got the different
+
+213
+00:11:07.530 --> 00:11:10.559
+parts, you've got the handlebars and the frame and
+
+214
+00:11:10.570 --> 00:11:13.799
+the wheels and the crank and all those things.
+
+215
+00:11:13.809 --> 00:11:15.400
+So if you want to explain how a bicycle
+
+216
+00:11:15.409 --> 00:11:17.479
+works, it's the same as how you explain how
+
+217
+00:11:17.489 --> 00:11:20.679
+the body works, you identify mechanisms. So the question
+
+218
+00:11:20.690 --> 00:11:24.239
+I asked myself, what are the mechanisms of information
+
+219
+00:11:24.549 --> 00:11:26.179
+as far as I know? No one's ever asked
+
+220
+00:11:26.190 --> 00:11:28.200
+that question because they were just sort of using
+
+221
+00:11:28.210 --> 00:11:30.760
+it informally as a kind of story or they
+
+222
+00:11:30.770 --> 00:11:34.320
+were relying on Claude Shannon's old uh mathematical definition.
+
+223
+00:11:34.590 --> 00:11:36.789
+But this turned out to be really interesting because
+
+224
+00:11:36.799 --> 00:11:40.479
+I started to think about what makes information work
+
+225
+00:11:40.489 --> 00:11:43.070
+in the real world and these high level problems
+
+226
+00:11:43.080 --> 00:11:45.409
+that deal that matter to human beings. And I
+
+227
+00:11:45.419 --> 00:11:48.280
+came up with a total of eight mechanisms that
+
+228
+00:11:48.289 --> 00:11:50.919
+fit very nicely under these four headings because it
+
+229
+00:11:50.929 --> 00:11:52.770
+too hard to remember at once. So I boil
+
+230
+00:11:52.780 --> 00:11:56.159
+it down to A I MS. So A is
+
+231
+00:11:56.169 --> 00:11:59.679
+acquisition. So acquisition is not just what you get
+
+232
+00:11:59.690 --> 00:12:01.280
+from other people like. That's what I mean called
+
+233
+00:12:01.289 --> 00:12:04.280
+mean by spread. It's acquisition from the world. So
+
+234
+00:12:04.289 --> 00:12:06.750
+how do we acquire information from the world? And
+
+235
+00:12:06.760 --> 00:12:10.140
+that divides into two parts collecting and representing. So
+
+236
+00:12:10.150 --> 00:12:12.140
+how do we collect information from the world? Well,
+
+237
+00:12:12.150 --> 00:12:13.849
+for a start, we use our senses, we use
+
+238
+00:12:13.859 --> 00:12:16.400
+our eyes and our ears and our touch and
+
+239
+00:12:16.409 --> 00:12:19.659
+so on or smell. And so that's collecting, which
+
+240
+00:12:19.669 --> 00:12:21.859
+is the key part of acquisition. So that's the
+
+241
+00:12:21.869 --> 00:12:24.140
+way to do it, right? And obviously, we know
+
+242
+00:12:24.150 --> 00:12:26.119
+how to do it better now than people did
+
+243
+00:12:26.369 --> 00:12:30.179
+100,000 years ago. Because we not only use observation,
+
+244
+00:12:30.469 --> 00:12:33.210
+we've also developed great techniques in science to do
+
+245
+00:12:33.219 --> 00:12:37.140
+systematic observations with lots of people to use instruments.
+
+246
+00:12:37.409 --> 00:12:40.030
+Instruments are wonderful because you can measure things, you
+
+247
+00:12:40.039 --> 00:12:43.859
+use telescopes, microscopes, rulers, x ray machines. So we've
+
+248
+00:12:43.869 --> 00:12:45.809
+got all these instruments and one of the most
+
+249
+00:12:45.820 --> 00:12:49.070
+important things that we've learned how to acquire information
+
+250
+00:12:49.119 --> 00:12:52.900
+is experiments. You don't just observe, you change the
+
+251
+00:12:52.909 --> 00:12:55.630
+world and see what happens. You do a manipulation.
+
+252
+00:12:55.640 --> 00:12:56.690
+So he said, well, if I change this a
+
+253
+00:12:56.700 --> 00:12:58.750
+little bit, what's gonna happen and that's really great
+
+254
+00:12:58.760 --> 00:13:02.710
+because that gets us causal information. So acquisition is
+
+255
+00:13:02.719 --> 00:13:05.489
+really the first part of getting real information if
+
+256
+00:13:05.500 --> 00:13:09.190
+you do it right. Unfortunately, we often don't do
+
+257
+00:13:09.200 --> 00:13:12.059
+it right. The opposite of, of this kind of
+
+258
+00:13:12.070 --> 00:13:15.140
+acquisition, sometimes it could be sloppy experiments. But what
+
+259
+00:13:15.150 --> 00:13:16.580
+it is in a lot of cases of what
+
+260
+00:13:16.590 --> 00:13:19.309
+I talked about, including people like Vladimir Putin and
+
+261
+00:13:19.320 --> 00:13:22.619
+Donald Trump, it's making stuff up and people don't
+
+262
+00:13:22.630 --> 00:13:26.700
+understand the difference between observing the world experimenting on
+
+263
+00:13:26.710 --> 00:13:28.700
+it, using instruments, on the one hand that actually
+
+264
+00:13:28.710 --> 00:13:31.789
+works and making stuff up, which doesn't work at
+
+265
+00:13:31.799 --> 00:13:33.419
+all. I mean, because that can be whatever you
+
+266
+00:13:33.429 --> 00:13:36.989
+want to believe. So that's the acquisition part. The
+
+267
+00:13:37.000 --> 00:13:39.690
+second part is inference because you want to just
+
+268
+00:13:39.700 --> 00:13:41.780
+rely on what you observe, you want to make
+
+269
+00:13:41.789 --> 00:13:44.669
+inferences and go beyond that. We want scientific theories,
+
+270
+00:13:44.679 --> 00:13:46.969
+we want to know the causes of stuff. And
+
+271
+00:13:47.179 --> 00:13:50.179
+science again has, and philosophy have found really good
+
+272
+00:13:50.190 --> 00:13:52.400
+ways to do this. We can make inference to
+
+273
+00:13:52.409 --> 00:13:54.900
+theories that are the best explanations of the evidence.
+
+274
+00:13:55.179 --> 00:13:58.080
+That's great. It's not always guaranteed. Sometimes we get
+
+275
+00:13:58.090 --> 00:13:59.969
+it wrong, but that's just a terrific way of
+
+276
+00:13:59.979 --> 00:14:03.619
+going. Well, what goes on with misinformation, it's very
+
+277
+00:14:03.630 --> 00:14:05.890
+different. It's not this kind of inference to the
+
+278
+00:14:05.900 --> 00:14:09.679
+best explanation of the best theory. It's very often
+
+279
+00:14:09.690 --> 00:14:10.960
+there's a bunch of things that go wrong. But
+
+280
+00:14:10.969 --> 00:14:13.000
+the most, the often thing that goes awful thing
+
+281
+00:14:13.010 --> 00:14:15.869
+that goes wrong is called motivated reasoning. This is
+
+282
+00:14:15.880 --> 00:14:18.669
+an idea that psychologists have developed that. It covers
+
+283
+00:14:18.679 --> 00:14:21.200
+cases where you believe something, not because you have
+
+284
+00:14:21.210 --> 00:14:23.440
+evidence for it, but because you want it to
+
+285
+00:14:23.450 --> 00:14:26.099
+be true. Uh And we all do this and
+
+286
+00:14:26.109 --> 00:14:28.450
+you don't have to be the, the, the awful
+
+287
+00:14:28.460 --> 00:14:30.059
+leaders I mentioned to do this. We all do
+
+288
+00:14:30.070 --> 00:14:32.140
+it. We all have things that we want to
+
+289
+00:14:32.150 --> 00:14:34.640
+believe. We all want to believe that we're healthy
+
+290
+00:14:34.650 --> 00:14:37.140
+and we're going to be successful and our, and
+
+291
+00:14:37.150 --> 00:14:38.880
+our, and our Children are great and we've got
+
+292
+00:14:38.890 --> 00:14:41.659
+all these beliefs that we want to believe, well,
+
+293
+00:14:41.669 --> 00:14:43.289
+they may have evidence for them. But if we
+
+294
+00:14:43.299 --> 00:14:45.929
+just do it on the basis of motivated reasoning,
+
+295
+00:14:45.940 --> 00:14:47.830
+we can get into real trouble because that just
+
+296
+00:14:47.840 --> 00:14:51.450
+becomes a very sophisticated kind of wishful thinking. And
+
+297
+00:14:51.460 --> 00:14:53.390
+so most of the views that you find in
+
+298
+00:14:53.400 --> 00:14:57.510
+conspiracy theories in this, he lies about science and
+
+299
+00:14:57.520 --> 00:15:00.609
+medicine and these political lies. They're just, it's just
+
+300
+00:15:00.619 --> 00:15:03.950
+motivated reasoning. People believe it not because there's any
+
+301
+00:15:03.960 --> 00:15:07.489
+evidence for it, but because they want to believe
+
+302
+00:15:07.500 --> 00:15:10.349
+it because it fits with their desires for power
+
+303
+00:15:10.359 --> 00:15:13.880
+or financial gain. Uh So that's, that's the difference
+
+304
+00:15:13.890 --> 00:15:16.469
+at the inference part. OK. So that's two, that's
+
+305
+00:15:16.479 --> 00:15:19.840
+acquisition and inference. The next one is memory. Memory
+
+306
+00:15:19.849 --> 00:15:22.679
+is really important because we can't just make things
+
+307
+00:15:22.690 --> 00:15:25.580
+up all along. We just can't keep rediscovering things.
+
+308
+00:15:25.590 --> 00:15:27.630
+We need to remember what we learned. And so
+
+309
+00:15:27.640 --> 00:15:30.169
+human memory is quite powerful and so we store
+
+310
+00:15:30.179 --> 00:15:32.580
+the things that are important to us, but memory
+
+311
+00:15:32.590 --> 00:15:35.469
+is fallible and we can do something that's called
+
+312
+00:15:35.479 --> 00:15:38.950
+motivated memory. And so instead of memory, we're learning
+
+313
+00:15:38.960 --> 00:15:41.309
+what's actually true of the world, we can actually
+
+314
+00:15:41.320 --> 00:15:42.669
+just sort of again make it up. And so
+
+315
+00:15:42.679 --> 00:15:45.739
+it goes into our memory, not because it's warranted,
+
+316
+00:15:45.799 --> 00:15:49.219
+but because it's um it just suits our goals.
+
+317
+00:15:49.719 --> 00:15:52.299
+Uh The fourth is spread, uh spread is what
+
+318
+00:15:52.309 --> 00:15:54.809
+happens in between people. So most of what we
+
+319
+00:15:54.820 --> 00:15:56.880
+learn, we learn not from directly interacting with the
+
+320
+00:15:56.890 --> 00:15:58.669
+world, it comes from other people could come from
+
+321
+00:15:58.679 --> 00:16:01.900
+the media, come from social media, come from talking
+
+322
+00:16:01.909 --> 00:16:04.880
+to other people and media can be incredibly important.
+
+323
+00:16:04.890 --> 00:16:07.859
+If you get it, your information from reliable sources.
+
+324
+00:16:08.099 --> 00:16:11.590
+I have a set of TV, uh news shows
+
+325
+00:16:11.599 --> 00:16:13.940
+and, and newspapers that I trust because I know
+
+326
+00:16:13.950 --> 00:16:16.000
+they've got a good track record. But where do
+
+327
+00:16:16.010 --> 00:16:19.679
+people get their spread of information today? Increasingly, it's
+
+328
+00:16:19.690 --> 00:16:22.260
+from social media. I was shocked the other day
+
+329
+00:16:22.270 --> 00:16:25.469
+to read that uh lots of young people, people
+
+330
+00:16:25.479 --> 00:16:27.760
+in their teens and early twenties get their news
+
+331
+00:16:27.770 --> 00:16:32.119
+from tiktok. Tik Tok is an astonishingly unreliable uh
+
+332
+00:16:32.130 --> 00:16:34.599
+source of information because anybody can do it. They
+
+333
+00:16:34.609 --> 00:16:37.869
+create these little catchy videos and it's not curated
+
+334
+00:16:37.880 --> 00:16:41.190
+at all. The people who own tiktok don't care
+
+335
+00:16:41.200 --> 00:16:44.599
+about truth, they just care about highballs, they want
+
+336
+00:16:44.609 --> 00:16:46.469
+people to be engaged because then they can sell
+
+337
+00:16:46.479 --> 00:16:50.710
+ads. And that's true also for Instagram and Twitter
+
+338
+00:16:50.719 --> 00:16:53.340
+now called X. Um And so the social media
+
+339
+00:16:53.349 --> 00:16:56.289
+and it's true for Facebook. So this was actually
+
+340
+00:16:56.299 --> 00:16:59.840
+a drastic change in the spread of information. It
+
+341
+00:16:59.849 --> 00:17:02.070
+started only about 20 years ago when these became
+
+342
+00:17:02.080 --> 00:17:04.469
+available because there used to be at least some
+
+343
+00:17:04.479 --> 00:17:07.890
+kind of gatekeeping that went on at the mostly
+
+344
+00:17:07.900 --> 00:17:11.630
+respectable newspapers and television programs because they thought they
+
+345
+00:17:11.640 --> 00:17:14.598
+had an obligation, a journalistic obligation to tell the
+
+346
+00:17:14.608 --> 00:17:17.819
+truth. And so they would screen information. But with
+
+347
+00:17:17.829 --> 00:17:21.550
+social media, somebody has a crazy idea and boom,
+
+348
+00:17:21.699 --> 00:17:23.140
+they can get it out to millions of other
+
+349
+00:17:23.150 --> 00:17:27.670
+people. And this actually has been the single busy
+
+350
+00:17:27.680 --> 00:17:30.530
+uh biggest cause for the dramatic increase of misinformation
+
+351
+00:17:30.540 --> 00:17:34.000
+that's available. It's because social media has changed spread.
+
+352
+00:17:34.010 --> 00:17:38.530
+That's my fourth category of of mechanism, social spread
+
+353
+00:17:38.540 --> 00:17:40.800
+from something where there's at least some constraints on
+
+354
+00:17:40.810 --> 00:17:43.640
+it to totally unconstrained where people who are working
+
+355
+00:17:43.650 --> 00:17:48.000
+just with making stuff up and motivated reasoning and
+
+356
+00:17:48.010 --> 00:17:51.310
+biased memories can then send it out to not
+
+357
+00:17:51.319 --> 00:17:53.750
+just thousands of other people but literally millions of
+
+358
+00:17:53.760 --> 00:17:57.459
+other people. So that's why we've got this huge
+
+359
+00:17:57.469 --> 00:18:01.829
+amounts of misinformation about political conspiracies and vaccines and
+
+360
+00:18:01.839 --> 00:18:04.530
+and so on. Uh So that's why spread is
+
+361
+00:18:04.540 --> 00:18:06.920
+the real the fourth one. So we need acquisition
+
+362
+00:18:07.290 --> 00:18:10.500
+uh inference memory and spread and when those things
+
+363
+00:18:10.510 --> 00:18:13.510
+are done, right? And in some areas they are
+
+364
+00:18:13.520 --> 00:18:16.869
+done right by responsible journalists or by or by
+
+365
+00:18:16.880 --> 00:18:19.699
+scientific research. Well, that's great. We get real information
+
+366
+00:18:19.969 --> 00:18:22.489
+but when they're done badly as they are are
+
+367
+00:18:22.500 --> 00:18:25.589
+increasingly today, then we get misinformation.
+
+368
+00:18:26.699 --> 00:18:30.380
+And what can we do exactly with this framework?
+
+369
+00:18:30.390 --> 00:18:34.119
+If I understand it correctly, we can both understand
+
+370
+00:18:34.229 --> 00:18:38.869
+how each specific type of misinformation. Like for example,
+
+371
+00:18:38.880 --> 00:18:44.439
+scientific misinformation, political misinformation works. Looking back at different
+
+372
+00:18:44.449 --> 00:18:48.094
+kinds of misinformation out there. Uh AND how each
+
+373
+00:18:48.104 --> 00:18:52.604
+of these different processes played out and understand how
+
+374
+00:18:52.614 --> 00:18:56.885
+that particular kind of misinformation spread over time. But
+
+375
+00:18:56.895 --> 00:19:01.084
+we can also use it to tackle each specific
+
+376
+00:19:01.094 --> 00:19:04.364
+kind of misinformation and try to uh counter it.
+
+377
+00:19:04.925 --> 00:19:07.005
+OK. Let, let me give you an analogy. I
+
+378
+00:19:07.015 --> 00:19:09.805
+think there's an analogy between this problem which is
+
+379
+00:19:09.814 --> 00:19:12.890
+huge and what goes on in medicine. So what's
+
+380
+00:19:12.900 --> 00:19:15.280
+good health, good health basic basically means that all
+
+381
+00:19:15.290 --> 00:19:18.569
+the mechanisms in your body are working. What's disease,
+
+382
+00:19:18.579 --> 00:19:21.119
+disease is when they break down your heart stops
+
+383
+00:19:21.130 --> 00:19:24.479
+beating, or your cells start dividing and become cancer.
+
+384
+00:19:24.640 --> 00:19:27.650
+And so good health is the mechanisms are working.
+
+385
+00:19:27.660 --> 00:19:30.359
+Disease is when the mechanisms break down. But of
+
+386
+00:19:30.369 --> 00:19:32.670
+course, we have medicine. What does medicine do? It
+
+387
+00:19:32.680 --> 00:19:34.500
+has cures well, how does it do that? It
+
+388
+00:19:34.510 --> 00:19:37.520
+intervenes with the mechanisms to make things work. It
+
+389
+00:19:37.530 --> 00:19:39.729
+fixes your heart or it fixes your lungs or
+
+390
+00:19:39.739 --> 00:19:42.239
+it stops the cell division. So what we need
+
+391
+00:19:42.250 --> 00:19:45.689
+for misinformation is something that's analogous. We need something
+
+392
+00:19:45.699 --> 00:19:48.290
+that's like a cure to fix the broken mechanisms.
+
+393
+00:19:48.619 --> 00:19:50.599
+And what I do is I in the book
+
+394
+00:19:50.609 --> 00:19:53.569
+is identify a whole set of these, not ones
+
+395
+00:19:53.579 --> 00:19:56.329
+that I've invented myself, but I compiled them and
+
+396
+00:19:56.339 --> 00:19:58.410
+formulated them and fit in a way that fits
+
+397
+00:19:58.420 --> 00:20:01.300
+with the mechanism account. So I can give you
+
+398
+00:20:01.310 --> 00:20:03.459
+a bunch of different examples. Well, the first one
+
+399
+00:20:03.469 --> 00:20:07.239
+is have a willingness to identify the difference between
+
+400
+00:20:07.250 --> 00:20:11.119
+truth and falsity. When uh Rudy Giuliani was defending
+
+401
+00:20:11.130 --> 00:20:13.280
+Donald Trump. He said, well, truth is not truth.
+
+402
+00:20:13.810 --> 00:20:15.589
+First of all, if you throw truth out, if
+
+403
+00:20:15.599 --> 00:20:17.140
+you don't think there's a reality that you're trying
+
+404
+00:20:17.150 --> 00:20:19.219
+to get right? Uh THEN you're in big problems.
+
+405
+00:20:19.229 --> 00:20:21.380
+But the first thing is to recognize that yes,
+
+406
+00:20:21.390 --> 00:20:24.079
+there's a world out there for medicine and for
+
+407
+00:20:24.089 --> 00:20:25.920
+science and for politics and we're trying to get
+
+408
+00:20:25.930 --> 00:20:28.189
+it right. And you have to be aware then
+
+409
+00:20:28.209 --> 00:20:31.040
+that people are often saying things that are false.
+
+410
+00:20:31.050 --> 00:20:33.560
+So you have to have falsehood detectors going. You
+
+411
+00:20:33.569 --> 00:20:37.300
+also have a way of scrutinizing your sources, who's
+
+412
+00:20:37.310 --> 00:20:39.939
+saying it? Do they have good sources? So anything
+
+413
+00:20:39.949 --> 00:20:41.920
+that Donald Trump says is likely to be false
+
+414
+00:20:41.930 --> 00:20:43.670
+because he just says whatever he wants to suit
+
+415
+00:20:43.680 --> 00:20:45.670
+his own needs. On the other hand, there are
+
+416
+00:20:45.680 --> 00:20:48.500
+some good sources like the newspapers or the TV
+
+417
+00:20:48.510 --> 00:20:51.500
+sources that I mentioned. Um But then for deeper
+
+418
+00:20:51.510 --> 00:20:54.099
+purposes, there's other things we can bring in. For
+
+419
+00:20:54.109 --> 00:20:57.449
+many years. I taught critical thinking. Critical thinking is
+
+420
+00:20:57.459 --> 00:21:00.010
+a process where first of all, you identify the
+
+421
+00:21:00.020 --> 00:21:03.250
+thinking errors that people are making things like motivated
+
+422
+00:21:03.260 --> 00:21:06.369
+reasoning, which everyone succumbs to. But then you try
+
+423
+00:21:06.380 --> 00:21:09.410
+to counter that with good ways of reasoning such
+
+424
+00:21:09.420 --> 00:21:14.520
+as evaluating theories based on the evidence. So, critical
+
+425
+00:21:14.530 --> 00:21:16.849
+thinking is this two steps. First of all, what
+
+426
+00:21:16.859 --> 00:21:18.930
+errors are people making in their thinking? And secondly,
+
+427
+00:21:18.939 --> 00:21:21.290
+how can we fix it? Another way of doing
+
+428
+00:21:21.300 --> 00:21:23.089
+this that other people have thought up in a
+
+429
+00:21:23.099 --> 00:21:25.170
+quite different role that I that I just became
+
+430
+00:21:25.180 --> 00:21:29.439
+to appreciate is called motivational interviewing. It actually makes
+
+431
+00:21:29.449 --> 00:21:32.079
+belief change less like critical thinking and more like
+
+432
+00:21:32.089 --> 00:21:35.780
+therapy. Uh This was invented originally for people who
+
+433
+00:21:35.790 --> 00:21:38.589
+were being helped with addiction. So if somebody is
+
+434
+00:21:38.599 --> 00:21:41.729
+addicted to alcohol or to or to heroin or
+
+435
+00:21:41.739 --> 00:21:44.010
+to some other drug, it's hard to give just
+
+436
+00:21:44.020 --> 00:21:46.410
+reason with them because they've got an addiction. Uh
+
+437
+00:21:46.420 --> 00:21:49.229
+BUT motivational interviewing was invented as a sort of
+
+438
+00:21:49.239 --> 00:21:52.479
+therapeutic way of actually trying to understand people have
+
+439
+00:21:52.489 --> 00:21:56.130
+empathy with them, understand what's going on. Well, why
+
+440
+00:21:56.140 --> 00:21:58.219
+are you drinking so much or why is heroin
+
+441
+00:21:58.229 --> 00:22:01.250
+so important to you? And it actually has been
+
+442
+00:22:01.260 --> 00:22:03.030
+found to be effective. It's, it's sort of, it's
+
+443
+00:22:03.040 --> 00:22:05.000
+much nicer than critical thinking which sounds kind of
+
+444
+00:22:05.010 --> 00:22:08.979
+like cold hearted logic. This is being empathic and
+
+445
+00:22:08.989 --> 00:22:11.349
+understanding and helping. And actually one of the most
+
+446
+00:22:11.359 --> 00:22:14.699
+interesting applications is it works with people who are
+
+447
+00:22:14.709 --> 00:22:17.599
+vaccine deniers, people who don't want to vaccinate their
+
+448
+00:22:17.609 --> 00:22:21.339
+Children. Uh And so trying to give the pure
+
+449
+00:22:21.349 --> 00:22:24.189
+scientific argument doesn't work. But if you can talk
+
+450
+00:22:24.199 --> 00:22:25.329
+to these people, a lot of the people who
+
+451
+00:22:25.339 --> 00:22:27.750
+are vaccine deniers are actually really nice people, Their
+
+452
+00:22:27.760 --> 00:22:31.180
+parents are just caring about their Children. Uh And
+
+453
+00:22:31.189 --> 00:22:32.660
+they want to do what's best for the Children.
+
+454
+00:22:32.670 --> 00:22:37.500
+Unfortunately, through social media or, or lying politicians, they've
+
+455
+00:22:37.510 --> 00:22:40.969
+gotten misinformation. But if you empathize with them and
+
+456
+00:22:40.979 --> 00:22:43.479
+understand their worries about their Children, how they want
+
+457
+00:22:43.489 --> 00:22:45.569
+to do the best thing you can gradually nudge
+
+458
+00:22:45.579 --> 00:22:48.680
+them over. So they realize that vaccines is worthwhile.
+
+459
+00:22:48.689 --> 00:22:52.750
+So that's a technique called motivational interviewing. So there's
+
+460
+00:22:52.760 --> 00:22:54.959
+a whole battery of, of things many of which
+
+461
+00:22:54.969 --> 00:22:57.810
+have been tested out by psychologists that can help
+
+462
+00:22:57.819 --> 00:23:00.069
+you do this. Uh I made up the word
+
+463
+00:23:00.079 --> 00:23:04.609
+preform information by analogy to preventive medicine. So in
+
+464
+00:23:04.619 --> 00:23:07.339
+medicine, it's well known that it's hard to cure
+
+465
+00:23:07.349 --> 00:23:09.310
+people once they've got a disease. But if you
+
+466
+00:23:09.319 --> 00:23:12.430
+can prevent the disease, that's really great. So curing
+
+467
+00:23:12.439 --> 00:23:16.170
+cancer is hard but preventing cancer by making sure
+
+468
+00:23:16.180 --> 00:23:19.630
+people don't smoke or live in bad environments or
+
+469
+00:23:19.640 --> 00:23:22.310
+eat rotten food and that, that's much more effective.
+
+470
+00:23:22.660 --> 00:23:24.750
+So I made up the term preform information to
+
+471
+00:23:24.760 --> 00:23:28.140
+cover a whole set of ideas that psychologists have
+
+472
+00:23:28.150 --> 00:23:31.439
+introduced, that are ways of keeping people from getting
+
+473
+00:23:31.449 --> 00:23:34.189
+bad information in the first place. Uh One of
+
+474
+00:23:34.199 --> 00:23:37.010
+them is called uh pre bunking. So, debunking is
+
+475
+00:23:37.020 --> 00:23:40.300
+correcting misinformation. Pre bunking means get in there and
+
+476
+00:23:40.310 --> 00:23:41.550
+make sure people don't get it in the first
+
+477
+00:23:41.560 --> 00:23:43.560
+place. And so I think that's a really nice
+
+478
+00:23:43.569 --> 00:23:46.790
+technique that psychologists have, have invented. Another one they
+
+479
+00:23:46.800 --> 00:23:50.790
+call is inoculation. So you try to warn people,
+
+480
+00:23:51.079 --> 00:23:53.969
+uh it's not working with respect to Donald Trump
+
+481
+00:23:53.979 --> 00:23:55.579
+if, if, especially if he's gonna be the next
+
+482
+00:23:55.589 --> 00:23:58.010
+president, but there are millions and millions of people
+
+483
+00:23:58.020 --> 00:24:01.229
+who haven't been warned that you can't believe what
+
+484
+00:24:01.239 --> 00:24:03.579
+he says because he's just concerned with his own
+
+485
+00:24:03.589 --> 00:24:06.810
+power and his own fortune. But that's the kind
+
+486
+00:24:06.819 --> 00:24:11.000
+of pre bunking or inoculation that might operate in
+
+487
+00:24:11.010 --> 00:24:13.310
+some cases to help people to get taken in.
+
+488
+00:24:13.579 --> 00:24:15.800
+So there's a whole set of different ways in
+
+489
+00:24:15.849 --> 00:24:20.060
+which we can try to correct misinformation or even
+
+490
+00:24:20.069 --> 00:24:22.869
+more effectively in some cases, prevent it from arising
+
+491
+00:24:22.880 --> 00:24:24.910
+in the first place. So that's why this isn't
+
+492
+00:24:24.920 --> 00:24:27.099
+hopeless. It's not just, oh my God, we can
+
+493
+00:24:27.109 --> 00:24:28.680
+throw up our hands and realize there's just so
+
+494
+00:24:28.689 --> 00:24:32.099
+much misinformation that it can't work well. No, there
+
+495
+00:24:32.109 --> 00:24:33.219
+are some things we can do.
+
+496
+00:24:34.369 --> 00:24:37.599
+So you use the term cognitive error at a
+
+497
+00:24:37.609 --> 00:24:42.150
+certain point there, what counts as a cognitive error.
+
+498
+00:24:42.160 --> 00:24:44.310
+And also in the book, at a certain point,
+
+499
+00:24:44.319 --> 00:24:49.680
+you distinguish between psychological and social mechanisms be that
+
+500
+00:24:49.689 --> 00:24:54.505
+drive cognitive error. So what is the distinction and
+
+501
+00:24:54.515 --> 00:24:58.104
+why is it important to establish the distinction?
+
+502
+00:24:58.234 --> 00:25:01.405
+OK. So a cognitive error is a pattern of
+
+503
+00:25:01.415 --> 00:25:06.025
+thinking that leads to falsehoods. And here we can
+
+504
+00:25:06.035 --> 00:25:08.964
+really draw on in the case of psychology, decades
+
+505
+00:25:08.974 --> 00:25:11.214
+of research in the case of philosophy, hundreds of
+
+506
+00:25:11.224 --> 00:25:13.954
+years of research really going back to Aristotle. So
+
+507
+00:25:13.964 --> 00:25:18.265
+psychologist, psychologists call these biases cognitive biases. There's a
+
+508
+00:25:18.275 --> 00:25:22.109
+large literature that began with Conon Tasy and it's
+
+509
+00:25:22.119 --> 00:25:26.369
+really well documented mistakes that people commonly make in
+
+510
+00:25:26.380 --> 00:25:29.680
+their inferences. So there's these biases, but even older
+
+511
+00:25:29.689 --> 00:25:32.739
+is a tradition in philosophy called fallacies. And so
+
+512
+00:25:32.750 --> 00:25:34.390
+we know that there are patterns of reasoning. But
+
+513
+00:25:34.400 --> 00:25:36.689
+going back to Aristotle, people realize no, they're all
+
+514
+00:25:36.699 --> 00:25:39.339
+fallacies that people make all the time. And so
+
+515
+00:25:39.349 --> 00:25:42.050
+there are lists of literally hundreds of these, maybe
+
+516
+00:25:42.060 --> 00:25:45.280
+probably 50 biases, 50 fallacies and they're all well
+
+517
+00:25:45.290 --> 00:25:48.189
+understood. So our cognitive error come from these fallacies.
+
+518
+00:25:48.469 --> 00:25:51.810
+Let me just give you one philosophical example. Um
+
+519
+00:25:51.819 --> 00:25:55.199
+Post Hawk, Ergo hater, Ergo Proctor Hawk is the
+
+520
+00:25:55.209 --> 00:25:59.000
+Latin for after this. Therefore, because of this, sometimes
+
+521
+00:25:59.010 --> 00:26:00.640
+one thing happens and another big thing happens and
+
+522
+00:26:00.650 --> 00:26:03.160
+people think they're causally related, well, sometimes they are,
+
+523
+00:26:03.170 --> 00:26:05.489
+but often they're not, that's a mistake that people
+
+524
+00:26:05.500 --> 00:26:12.329
+naturally make. So psychology and philosophy have documented people's
+
+525
+00:26:12.339 --> 00:26:15.520
+tendency to fall into these kinds of errors which
+
+526
+00:26:15.530 --> 00:26:18.439
+are kinds of thinking that leads to mistakes. You
+
+527
+00:26:18.449 --> 00:26:20.260
+might wonder. Well, how could people be prone to
+
+528
+00:26:20.270 --> 00:26:23.189
+this when we're managing to survive in the world?
+
+529
+00:26:23.199 --> 00:26:25.739
+Well, surviving in the world doesn't take that much
+
+530
+00:26:25.750 --> 00:26:27.900
+thinking. You have to be able to survive and
+
+531
+00:26:27.910 --> 00:26:31.020
+reproduce and it really doesn't take that sophisticated thinking
+
+532
+00:26:31.030 --> 00:26:33.260
+just to survive and reproduce. But now we're really
+
+533
+00:26:33.270 --> 00:26:36.500
+leaving this rich, complicated world and having to deal
+
+534
+00:26:36.510 --> 00:26:40.469
+with complicated situations and the cognitive errors really tend
+
+535
+00:26:40.479 --> 00:26:44.439
+to draw us in uh that list from cognitive
+
+536
+00:26:44.449 --> 00:26:49.310
+biases and, and you and fallacies, philosophical fallacies misses
+
+537
+00:26:49.319 --> 00:26:50.810
+out on what I've already mentioned. What I think
+
+538
+00:26:50.819 --> 00:26:53.660
+is the most important one which is motivated reasoning.
+
+539
+00:26:53.859 --> 00:26:56.709
+This is where people believe something because it suits
+
+540
+00:26:56.719 --> 00:26:59.270
+their goals, it makes them happy, it's not just
+
+541
+00:26:59.280 --> 00:27:02.479
+wishful thinking, it means you there's something you want
+
+542
+00:27:02.489 --> 00:27:05.109
+and so you find reasons for it. So this
+
+543
+00:27:05.119 --> 00:27:08.630
+research was done by uh initially by a psychologist
+
+544
+00:27:08.640 --> 00:27:11.310
+named Ziva Kunda who actually was my late wife
+
+545
+00:27:11.560 --> 00:27:13.550
+and which is brilliant work. It's been cited out
+
+546
+00:27:13.560 --> 00:27:16.530
+10,000 times and the citation rate even though this
+
+547
+00:27:16.540 --> 00:27:19.670
+work was done 30 years ago is is just
+
+548
+00:27:19.680 --> 00:27:22.119
+zooming 1000 times in the last year or so
+
+549
+00:27:22.130 --> 00:27:24.709
+because people realize that this is the basis. So
+
+550
+00:27:24.719 --> 00:27:28.219
+you have to realize that everybody is prone to
+
+551
+00:27:28.229 --> 00:27:30.800
+motivated reasoning thinking, they're healthier than they are or
+
+552
+00:27:30.810 --> 00:27:32.920
+prone to be richer than they are. And so
+
+553
+00:27:32.930 --> 00:27:34.880
+I think that belongs as one of the, the,
+
+554
+00:27:34.939 --> 00:27:37.359
+the thinking errors that we have to watch out
+
+555
+00:27:37.369 --> 00:27:39.489
+for, uh, your other part of your question was
+
+556
+00:27:39.500 --> 00:27:43.219
+about social errors. Um Now the social error part
+
+557
+00:27:43.380 --> 00:27:45.479
+connects up with the fact that most of the
+
+558
+00:27:45.489 --> 00:27:47.770
+information, as I said, we get from other people.
+
+559
+00:27:47.780 --> 00:27:51.000
+That's the spread part. And the problem here is
+
+560
+00:27:51.010 --> 00:27:53.849
+you have to worry about who you trust. Uh,
+
+561
+00:27:53.859 --> 00:27:57.469
+YOU shouldn't trust anybody on Tik Tok because they're
+
+562
+00:27:57.479 --> 00:28:00.099
+not screened any, any, any 16 year old can
+
+563
+00:28:00.109 --> 00:28:02.199
+set up a Tik Tok account and declare themselves
+
+564
+00:28:02.209 --> 00:28:03.770
+a new source and who knows where they get
+
+565
+00:28:03.780 --> 00:28:09.109
+their news. So tiktok's utterly, uh, unreliable source and
+
+566
+00:28:09.119 --> 00:28:11.010
+that's gonna be true for a lot of other
+
+567
+00:28:11.020 --> 00:28:13.500
+social media. On the other hand, I've got a
+
+568
+00:28:13.510 --> 00:28:15.689
+list of newspapers that I think are really pretty
+
+569
+00:28:15.699 --> 00:28:18.400
+good, uh, and, uh, not perfect but really pretty
+
+570
+00:28:18.410 --> 00:28:21.089
+good in a number of TV programs TV, news
+
+571
+00:28:21.099 --> 00:28:25.449
+shows like the Canadian Broadcasting Corporation, uh, that I,
+
+572
+00:28:25.459 --> 00:28:27.729
+I think is, they're usually right. There are people
+
+573
+00:28:27.739 --> 00:28:30.479
+certainly who really care about getting things right. They're
+
+574
+00:28:30.489 --> 00:28:33.689
+not just caring about pushing a particular political agenda.
+
+575
+00:28:33.910 --> 00:28:36.260
+Whereas you have other news sources in the US.
+
+576
+00:28:36.270 --> 00:28:38.300
+You've got Fox News, you can't believe anything on
+
+577
+00:28:38.310 --> 00:28:41.650
+Fox News. They're just pushing their Pro Trump agenda
+
+578
+00:28:42.030 --> 00:28:44.449
+and, and so they're as bad as social media
+
+579
+00:28:44.459 --> 00:28:47.849
+or, or religious texts. So you've got to be
+
+580
+00:28:47.859 --> 00:28:50.569
+able to distinguish these ways and figure out who
+
+581
+00:28:50.579 --> 00:28:52.290
+you can trust. So I've got a bunch of
+
+582
+00:28:52.300 --> 00:28:56.089
+people who I know have, are well informed, care
+
+583
+00:28:56.099 --> 00:28:58.410
+about the truth. If they tell me something, I'm
+
+584
+00:28:58.420 --> 00:29:00.709
+gonna believe it most of the time because they're,
+
+585
+00:29:00.719 --> 00:29:02.750
+I think they're reliable sources. So that's the social
+
+586
+00:29:02.760 --> 00:29:06.729
+part, the social part is acquire your information from
+
+587
+00:29:06.739 --> 00:29:09.859
+sources, you know, to be reliable rather than from
+
+588
+00:29:09.869 --> 00:29:11.920
+ones, you've got good reason to believe are highly
+
+589
+00:29:11.930 --> 00:29:12.650
+unreliable.
+
+590
+00:29:13.500 --> 00:29:15.670
+And by the way, since you, you mentioned new
+
+591
+00:29:15.680 --> 00:29:19.510
+sources there, how do we go about establishing the
+
+592
+00:29:19.520 --> 00:29:24.760
+credibility of different news sources? What, uh, factors do
+
+593
+00:29:24.770 --> 00:29:27.160
+we look into? Exactly?
+
+594
+00:29:27.920 --> 00:29:30.390
+That's really good question. It, it takes a lot
+
+595
+00:29:30.400 --> 00:29:32.319
+of time. Actually, you've got to follow these sources
+
+596
+00:29:32.329 --> 00:29:34.520
+for a while. Occasionally I'll encounter a new news
+
+597
+00:29:34.530 --> 00:29:38.280
+source and, uh, I wonder, are they reliable? So
+
+598
+00:29:38.290 --> 00:29:40.180
+when I was doing the research, for example, on
+
+599
+00:29:40.189 --> 00:29:46.500
+the, uh, um, conspiracies and, and the Russia Ukraine,
+
+600
+00:29:46.630 --> 00:29:50.449
+suddenly I was running across news sources like Russia
+
+601
+00:29:50.459 --> 00:29:53.709
+dot TV. Uh, AND, uh, well, first of all
+
+602
+00:29:53.719 --> 00:29:55.229
+I knew that Russia was unreliable and so I
+
+603
+00:29:55.239 --> 00:29:57.109
+had a hunch that Russia dot TV. But then
+
+604
+00:29:57.119 --> 00:29:58.760
+I looked at some of their content and you
+
+605
+00:29:58.770 --> 00:30:00.540
+could see they're just making things up that are,
+
+606
+00:30:00.550 --> 00:30:02.979
+that are announced by the Russian government. So it's
+
+607
+00:30:02.989 --> 00:30:06.079
+probably by association with good or bad people, but
+
+608
+00:30:06.089 --> 00:30:07.550
+sometimes you just have to follow it for a
+
+609
+00:30:07.560 --> 00:30:10.170
+long time. So I've got some of these newspaper
+
+610
+00:30:10.180 --> 00:30:13.150
+sources. One of my favorites is the British newspaper
+
+611
+00:30:13.160 --> 00:30:15.250
+called The Guardian that I've been reading for many,
+
+612
+00:30:15.260 --> 00:30:17.530
+many years and occasionally they do things that I
+
+613
+00:30:17.540 --> 00:30:19.630
+think are not quite right, but by and large,
+
+614
+00:30:19.640 --> 00:30:21.469
+I've been tracking what they say, what I get
+
+615
+00:30:21.479 --> 00:30:24.489
+from other sources that I think are reliable. And
+
+616
+00:30:24.500 --> 00:30:27.469
+uh so you, you have to track places for,
+
+617
+00:30:27.479 --> 00:30:29.430
+for a long period of time and see the
+
+618
+00:30:29.439 --> 00:30:31.079
+extent to which they turn out to be right
+
+619
+00:30:31.089 --> 00:30:32.229
+or turn out to be wrong.
+
+620
+00:30:33.130 --> 00:30:35.829
+So just before we dive into some of the
+
+621
+00:30:35.839 --> 00:30:39.349
+examples of misinformation where you explore in the book,
+
+622
+00:30:39.359 --> 00:30:42.640
+we illustrate all of what we've been talking about
+
+623
+00:30:42.650 --> 00:30:45.229
+here. Just tell us a little bit more about
+
+624
+00:30:45.239 --> 00:30:48.589
+a motivated reasoning because uh I would like to
+
+625
+00:30:48.599 --> 00:30:54.079
+understand here what's behind it, what drives motivated reasoning,
+
+626
+00:30:54.089 --> 00:30:58.069
+cognitively, emotionally and otherwise. Yeah,
+
+627
+00:30:58.079 --> 00:31:01.540
+that's a, that's a really deep question because people
+
+628
+00:31:01.550 --> 00:31:03.949
+used to think that the brain was sort of
+
+629
+00:31:03.959 --> 00:31:07.380
+divided up neatly that you've got intelligence on the
+
+630
+00:31:07.390 --> 00:31:09.709
+one hand and emotion on the other part. And
+
+631
+00:31:09.719 --> 00:31:11.959
+you should be able to distinguish that it goes
+
+632
+00:31:11.969 --> 00:31:14.959
+back to Plato. He said we should ana analyze
+
+633
+00:31:14.969 --> 00:31:17.430
+the human as being like you've got a um
+
+634
+00:31:17.439 --> 00:31:21.609
+a charier and uh three horses and you got
+
+635
+00:31:21.619 --> 00:31:23.290
+to kind of keep them under control and keep
+
+636
+00:31:23.300 --> 00:31:26.410
+cognition and emotion. So, but, but, but that now,
+
+637
+00:31:26.420 --> 00:31:28.390
+now that we have neuroscience, we know this isn't
+
+638
+00:31:28.400 --> 00:31:30.250
+right at all. If you look at the brain,
+
+639
+00:31:30.560 --> 00:31:33.380
+you've got cognitive areas and emotional areas, but they're
+
+640
+00:31:33.390 --> 00:31:39.459
+intensely interconnected. So our intelligence isn't just our raw
+
+641
+00:31:39.469 --> 00:31:42.099
+cognitive thinking ability. That's, that's an old view that
+
+642
+00:31:42.109 --> 00:31:44.939
+doesn't hold up now. But it's, in fact, depends
+
+643
+00:31:44.949 --> 00:31:49.099
+on a really sophisticated interaction between cognition and motion
+
+644
+00:31:49.109 --> 00:31:52.369
+between our, our cortex and our, our limbic system,
+
+645
+00:31:52.380 --> 00:31:54.989
+which concludes areas like the Amygdala. And the emotion
+
+646
+00:31:55.000 --> 00:31:57.670
+is actually really important because emotions tell us what's
+
+647
+00:31:57.680 --> 00:32:00.219
+important. It's not just a question of what's true,
+
+648
+00:32:00.229 --> 00:32:02.680
+it's what's important, what's gonna enable us to survive
+
+649
+00:32:02.689 --> 00:32:06.300
+and operate in the world. And so the view
+
+650
+00:32:06.310 --> 00:32:09.890
+of, of thinking, I get this mostly from Antonio
+
+651
+00:32:09.900 --> 00:32:12.890
+Damasio, but there's loads of subsequent support for. It
+
+652
+00:32:13.089 --> 00:32:16.930
+depends on this really tight interaction between our cognitions
+
+653
+00:32:16.939 --> 00:32:21.050
+and our emotions. The problem is there's no firewall,
+
+654
+00:32:21.199 --> 00:32:24.569
+there's no sharp division between cognition and emotion or
+
+655
+00:32:24.579 --> 00:32:26.520
+to put it in the terms that economic economists
+
+656
+00:32:26.530 --> 00:32:29.270
+might know, there's no sharp division between probabilities and
+
+657
+00:32:29.280 --> 00:32:31.520
+utilities. These things should be completely separate, but they're
+
+658
+00:32:31.530 --> 00:32:34.689
+not, they're all interactive in our brain. And often
+
+659
+00:32:34.699 --> 00:32:36.439
+this does it well because we're figuring out what's
+
+660
+00:32:36.449 --> 00:32:37.790
+in the world and we're figuring out what we
+
+661
+00:32:37.800 --> 00:32:39.510
+need to do. We have to avoid predators, we
+
+662
+00:32:39.520 --> 00:32:41.540
+have to find food. And so our emotions and
+
+663
+00:32:41.550 --> 00:32:46.569
+cognitions work well together, but they interact constantly and
+
+664
+00:32:46.579 --> 00:32:49.150
+sometimes this gets us into trouble. So it gets
+
+665
+00:32:49.160 --> 00:32:53.010
+into trouble where instead of our cognitions, depending on
+
+666
+00:32:53.449 --> 00:32:55.969
+how we're observing the world and what getting good
+
+667
+00:32:55.979 --> 00:32:59.369
+information sources, it gets tied in with our emotions.
+
+668
+00:32:59.489 --> 00:33:01.780
+And so you think? Oh, I know what I
+
+669
+00:33:01.790 --> 00:33:05.229
+want. So to take an extreme example. This happened
+
+670
+00:33:05.239 --> 00:33:07.310
+to a friend of mine, uh, he discovered a,
+
+671
+00:33:07.319 --> 00:33:10.689
+a lump in his armpit. Oh, that's nothing. I'm
+
+672
+00:33:10.699 --> 00:33:13.900
+young. I'm healthy. This can't possibly be a problem.
+
+673
+00:33:14.239 --> 00:33:16.339
+Well, a year later it finally got bad enough
+
+674
+00:33:16.349 --> 00:33:17.589
+that he got it checked out and turned out
+
+675
+00:33:17.599 --> 00:33:20.599
+to be Melanoma, which obviously is serious. But all
+
+676
+00:33:20.609 --> 00:33:22.810
+of us have a tendency to be somewhat uh
+
+677
+00:33:23.250 --> 00:33:25.619
+uh at least, at least I do and lots
+
+678
+00:33:25.630 --> 00:33:27.530
+of other people do think, oh, that's nothing. That
+
+679
+00:33:27.540 --> 00:33:30.560
+little bump is nothing. But that's a motivated reason
+
+680
+00:33:30.569 --> 00:33:33.560
+because that's what you want to believe. Uh So
+
+681
+00:33:33.569 --> 00:33:36.739
+this is something that happens because our cognitions and
+
+682
+00:33:36.750 --> 00:33:38.880
+our emotions are basically all tied together in the
+
+683
+00:33:38.890 --> 00:33:43.390
+brain. So uh that's uh that's, that's so that's
+
+684
+00:33:43.400 --> 00:33:45.770
+why it's such a serious problem and it means
+
+685
+00:33:45.780 --> 00:33:49.380
+that people who not only do it themselves but
+
+686
+00:33:49.449 --> 00:33:52.949
+realize that they can manipulate other people can do
+
+687
+00:33:52.959 --> 00:33:56.849
+the same thing. So Donald Trump is always tying
+
+688
+00:33:56.859 --> 00:34:00.380
+into people's emotions. He's getting people afraid of immigrants
+
+689
+00:34:00.560 --> 00:34:05.160
+uh concerned about their cost of living, afraid of
+
+690
+00:34:05.170 --> 00:34:08.050
+the so called the liberal elites who he claims
+
+691
+00:34:08.060 --> 00:34:11.199
+are running their lives. And so he's just absolutely
+
+692
+00:34:11.469 --> 00:34:16.760
+uh fiendish about manipulating people's emotions tapping into something
+
+693
+00:34:16.770 --> 00:34:18.830
+which is part of all of our thinking because
+
+694
+00:34:18.840 --> 00:34:21.478
+our cognitions and our emotions are so tightly interconnected.
+
+695
+00:34:22.219 --> 00:34:25.530
+So that's why motivated reasoning is so natural to
+
+696
+00:34:25.540 --> 00:34:28.438
+all of us because we don't have cognition in
+
+697
+00:34:28.449 --> 00:34:30.399
+one part of our brain and emotion in the
+
+698
+00:34:30.409 --> 00:34:33.649
+other. They're all interconnected with lots of going back
+
+699
+00:34:33.659 --> 00:34:36.800
+and forth. And so we all can be misled
+
+700
+00:34:36.810 --> 00:34:40.350
+into motivated reasoning as opposed to considering the evidence
+
+701
+00:34:40.360 --> 00:34:43.239
+that's important if we really care about our health
+
+702
+00:34:43.250 --> 00:34:45.360
+or about our political well being.
+
+703
+00:34:46.699 --> 00:34:50.280
+So in your book, you go through different kinds
+
+704
+00:34:50.290 --> 00:34:53.750
+of misinformation and the first one you tackle is
+
+705
+00:34:53.760 --> 00:34:58.310
+medical misinformation and a concrete example. And a very
+
+706
+00:34:58.320 --> 00:35:02.149
+recent example of that is the COVID-19 pandemic. So
+
+707
+00:35:02.239 --> 00:35:05.469
+in what ways does the framework we we talked
+
+708
+00:35:05.479 --> 00:35:08.840
+about before the A S or the A A
+
+709
+00:35:08.989 --> 00:35:12.010
+I MS framework apply here? Exactly.
+
+710
+00:35:12.370 --> 00:35:14.649
+Yeah, I think it provides a good account both
+
+711
+00:35:14.659 --> 00:35:17.679
+of why there's so much terrific real information about
+
+712
+00:35:17.689 --> 00:35:20.570
+COVID-19 and other diseases and also why there's so
+
+713
+00:35:20.580 --> 00:35:24.739
+much misinformation. So let's do real information first. Uh
+
+714
+00:35:24.790 --> 00:35:28.179
+I think that COVID-19 is one of the great
+
+715
+00:35:28.189 --> 00:35:31.209
+medical success stories. If you think of the fact
+
+716
+00:35:31.219 --> 00:35:33.669
+that the disease only showed up about a little
+
+717
+00:35:33.679 --> 00:35:37.239
+over four years ago and almost immediately the cause
+
+718
+00:35:37.250 --> 00:35:40.340
+was discovered, they found the virus and then within
+
+719
+00:35:40.350 --> 00:35:43.169
+a year, they found a vaccine that could uh
+
+720
+00:35:43.179 --> 00:35:46.729
+really diminish a lot. People either getting the disease
+
+721
+00:35:46.739 --> 00:35:49.120
+or the severity of the disease. Uh JUST a
+
+722
+00:35:49.129 --> 00:35:53.280
+fabulous success. So the amounts of real information that
+
+723
+00:35:53.290 --> 00:35:56.889
+came about from observation and experiment and theorizing is
+
+724
+00:35:56.899 --> 00:35:59.929
+just fabulous. So that's a great success story of
+
+725
+00:35:59.939 --> 00:36:03.280
+real information coming up in COVID-19 and there's lots
+
+726
+00:36:03.290 --> 00:36:05.129
+of other diseases for which we've done that as
+
+727
+00:36:05.139 --> 00:36:09.040
+well. But what got me interested in misinformation actually
+
+728
+00:36:09.050 --> 00:36:11.370
+in the first place is that four years ago,
+
+729
+00:36:11.949 --> 00:36:14.129
+at the same time as these wonderful advances were
+
+730
+00:36:14.139 --> 00:36:17.120
+being made, the amount of garbage being spread about.
+
+731
+00:36:17.129 --> 00:36:20.679
+It was just enormous. People were making up possible
+
+732
+00:36:20.689 --> 00:36:23.290
+cures. They were saying, oh, we can just use
+
+733
+00:36:23.300 --> 00:36:25.979
+bleach. That's one that Donald Trump did on television
+
+734
+00:36:26.080 --> 00:36:28.479
+or uh they came up with different theories about
+
+735
+00:36:28.489 --> 00:36:31.399
+the causation. Also, this was just created in a
+
+736
+00:36:31.409 --> 00:36:34.330
+in a uh uh Chinese lab. Well, it might
+
+737
+00:36:34.340 --> 00:36:35.659
+have been, but other people said it was no,
+
+738
+00:36:35.669 --> 00:36:37.909
+it was created an American lab. And other people
+
+739
+00:36:37.919 --> 00:36:41.709
+said no, the causes are actually um cell phone
+
+740
+00:36:41.719 --> 00:36:44.649
+towers. And so people generated all sorts of just
+
+741
+00:36:44.659 --> 00:36:47.969
+completely Bonkers theories about the origin as well as
+
+742
+00:36:47.979 --> 00:36:51.669
+all sorts of completely Bonkers theories about which kinds
+
+743
+00:36:51.679 --> 00:36:55.280
+of medicine could treat it. Uh There's also uh
+
+744
+00:36:56.300 --> 00:36:58.870
+early experiments within the next year or two that
+
+745
+00:36:58.879 --> 00:37:01.179
+show that the vaccines work really pretty well with
+
+746
+00:37:01.189 --> 00:37:04.469
+very minimal side effects. But other people started telling
+
+747
+00:37:04.479 --> 00:37:07.989
+stories about how they cause other problems or how
+
+748
+00:37:08.000 --> 00:37:11.229
+they don't really work. And so COVID-19 was just
+
+749
+00:37:11.239 --> 00:37:14.100
+a great case where we get terrific real information
+
+750
+00:37:14.110 --> 00:37:17.850
+by reliable methods at the same time as various
+
+751
+00:37:17.860 --> 00:37:21.580
+amounts of misinformation is being spread. So one question
+
+752
+00:37:21.590 --> 00:37:22.850
+is, well what are the, what are, what are
+
+753
+00:37:22.860 --> 00:37:25.719
+the motivations? Well, if you look at a lot
+
+754
+00:37:25.729 --> 00:37:29.479
+of the COVID-19 misinformation, it comes from websites where
+
+755
+00:37:29.489 --> 00:37:34.120
+people sell nutritional things. If they basically say, just
+
+756
+00:37:34.129 --> 00:37:35.679
+listen to us, we'll tell you all the things
+
+757
+00:37:35.689 --> 00:37:38.520
+that's wrong and they're selling pe, they're trying to
+
+758
+00:37:38.530 --> 00:37:42.250
+get people to buy drugs or nutritional supplements that
+
+759
+00:37:42.260 --> 00:37:44.429
+don't work at all. Um, SO there's a lot
+
+760
+00:37:44.439 --> 00:37:46.379
+of lies being told just to sell sorts of
+
+761
+00:37:46.389 --> 00:37:48.070
+things and some of the lies are also being
+
+762
+00:37:48.080 --> 00:37:51.989
+told for political purposes because people didn't want to
+
+763
+00:37:52.000 --> 00:37:55.219
+have the government require that people get vaccinated, they
+
+764
+00:37:55.229 --> 00:37:57.709
+just wanted absolute freedom. And so they would make
+
+765
+00:37:57.719 --> 00:38:01.070
+up stuff to, to people. So it was just
+
+766
+00:38:01.080 --> 00:38:05.260
+a really great study of both real information coming
+
+767
+00:38:05.270 --> 00:38:09.479
+by scientific means, but also misinformation coming from lies
+
+768
+00:38:09.489 --> 00:38:13.560
+and motivated reasoning and social media being used as
+
+769
+00:38:13.570 --> 00:38:16.959
+a source of information rather than good journalistic sources
+
+770
+00:38:16.969 --> 00:38:18.199
+or scientific journals.
+
+771
+00:38:19.510 --> 00:38:23.469
+So, using your framework, is it possible for us
+
+772
+00:38:23.479 --> 00:38:28.209
+to identify what we could have done better in
+
+773
+00:38:28.219 --> 00:38:32.409
+order in order to prevent the spread of misinformation
+
+774
+00:38:32.419 --> 00:38:33.729
+during the pandemic?
+
+775
+00:38:34.760 --> 00:38:36.330
+Well, it's hard to put it to work in
+
+776
+00:38:36.340 --> 00:38:39.229
+something quite that specific, but there's certainly lots of
+
+777
+00:38:39.239 --> 00:38:41.449
+more general things that needed to be done. I
+
+778
+00:38:41.459 --> 00:38:43.590
+mean, part of this, in the sense of preform
+
+779
+00:38:43.600 --> 00:38:46.580
+information has to start much earlier, critical thinking isn't
+
+780
+00:38:46.590 --> 00:38:47.850
+something you can just sort of pull out of
+
+781
+00:38:47.860 --> 00:38:49.840
+the hat when you've got a real problem. It's
+
+782
+00:38:49.850 --> 00:38:51.959
+something that people should be taught. I mean, I
+
+783
+00:38:51.969 --> 00:38:54.810
+taught at the university level but there are countries
+
+784
+00:38:54.820 --> 00:38:56.510
+like Finland that teach it at the high school
+
+785
+00:38:56.520 --> 00:38:59.479
+level. I think every high school student and possibly
+
+786
+00:38:59.489 --> 00:39:02.800
+even some elementary school should be taught. Here's the
+
+787
+00:39:02.810 --> 00:39:06.780
+difference between good ways of getting information and the
+
+788
+00:39:06.790 --> 00:39:09.489
+kinds of mistakes that people naturally make and ways
+
+789
+00:39:09.500 --> 00:39:11.939
+to correct it. So I don't see any reason
+
+790
+00:39:11.949 --> 00:39:14.120
+why critical thinking shouldn't be taught in the high
+
+791
+00:39:14.129 --> 00:39:17.270
+schools and quite pro quite possibly in the upper
+
+792
+00:39:17.280 --> 00:39:19.669
+levels of grade schools as, as happens in Finland.
+
+793
+00:39:19.909 --> 00:39:23.219
+So I think you need education going way, way
+
+794
+00:39:23.229 --> 00:39:25.149
+down to a lower level. So it's not just
+
+795
+00:39:25.159 --> 00:39:27.830
+the few university students who take courses in critical
+
+796
+00:39:27.840 --> 00:39:30.370
+thinking, you get exposed to this. So that's one
+
+797
+00:39:30.379 --> 00:39:32.320
+thing that should be there. But once you're in
+
+798
+00:39:32.330 --> 00:39:35.739
+the throes, then you can start to, as lots
+
+799
+00:39:35.750 --> 00:39:38.530
+of people have tried to make the distinction. What's
+
+800
+00:39:38.540 --> 00:39:43.000
+the difference between a scientific journal article and uh
+
+801
+00:39:43.010 --> 00:39:46.330
+a post on Twitter or X? Well, there's a
+
+802
+00:39:46.340 --> 00:39:48.959
+huge difference but people don't understand that. They think
+
+803
+00:39:48.969 --> 00:39:51.050
+that if Elon Musk post something on, well, he's,
+
+804
+00:39:51.060 --> 00:39:54.159
+he's pretty, he's pretty reputable. He's, he's, he's got
+
+805
+00:39:54.169 --> 00:39:57.600
+$200 billion he must know something. But of course,
+
+806
+00:39:57.610 --> 00:39:59.489
+he's just getting his views from other people on
+
+807
+00:39:59.500 --> 00:40:02.629
+Twitter and on, on X and so you got
+
+808
+00:40:02.639 --> 00:40:04.840
+to know the difference between reliable sources and not.
+
+809
+00:40:04.850 --> 00:40:06.659
+So that's a big part of it. Then once
+
+810
+00:40:06.669 --> 00:40:08.010
+you're in the throes of it, you can start
+
+811
+00:40:08.020 --> 00:40:11.050
+to juxtapose, hey, those people are saying things with
+
+812
+00:40:11.060 --> 00:40:14.969
+no evidence, with no good inferences, they're just making
+
+813
+00:40:14.979 --> 00:40:16.939
+it up. Uh And so that's the battle you
+
+814
+00:40:16.949 --> 00:40:17.770
+have to fight.
+
+815
+00:40:18.010 --> 00:40:21.189
+Uh So do you think that uh what we
+
+816
+00:40:21.199 --> 00:40:26.219
+can learn about how misinformation originated and, and spread
+
+817
+00:40:26.229 --> 00:40:30.399
+during the COVID-19 pandemic could serve as an illustrative
+
+818
+00:40:30.409 --> 00:40:36.510
+example of how medical misinformation more generally uh gets
+
+819
+00:40:36.520 --> 00:40:38.520
+generated and spread.
+
+820
+00:40:39.050 --> 00:40:42.129
+Sure. The problem is universal. Uh People take all
+
+821
+00:40:42.139 --> 00:40:45.300
+sorts of bogus cures. Uh They read somewhere and
+
+822
+00:40:45.310 --> 00:40:47.250
+they, oh that supplement works, it says and so
+
+823
+00:40:47.260 --> 00:40:49.610
+they, they try it. I mean, there are obviously
+
+824
+00:40:49.620 --> 00:40:51.439
+lots of drugs that are effective, but there are
+
+825
+00:40:51.449 --> 00:40:53.050
+lots of things that are just a complete waste
+
+826
+00:40:53.060 --> 00:40:56.800
+of time. So all across medicine, there are kinds
+
+827
+00:40:56.810 --> 00:40:59.050
+of treatments that are bogus. There are kinds of
+
+828
+00:40:59.060 --> 00:41:01.459
+drugs that don't actually work. How do we know
+
+829
+00:41:01.469 --> 00:41:03.659
+what's good or what's not? But the answer is
+
+830
+00:41:03.669 --> 00:41:07.239
+actually well established in medicine. You use clinical trials,
+
+831
+00:41:07.250 --> 00:41:11.000
+clinical trials are very sophisticated kinds of experiments where
+
+832
+00:41:11.010 --> 00:41:12.800
+if you want to know whether a drug works,
+
+833
+00:41:12.810 --> 00:41:15.840
+you take one group of people who get the
+
+834
+00:41:15.850 --> 00:41:18.520
+drug and another group of people who get something
+
+835
+00:41:18.530 --> 00:41:20.679
+else, a placebo, but you don't just sort of
+
+836
+00:41:20.689 --> 00:41:22.840
+pick them or let them choose themselves. You'd use
+
+837
+00:41:22.850 --> 00:41:26.189
+random assignment. You randomly divide people into two different
+
+838
+00:41:26.199 --> 00:41:28.409
+conditions and then if you want to do it
+
+839
+00:41:28.419 --> 00:41:31.669
+really carefully, you make them blind and you blind
+
+840
+00:41:31.679 --> 00:41:33.899
+to who's getting what. So people don't know whether
+
+841
+00:41:33.909 --> 00:41:37.770
+they're getting the drug or the control condition. And
+
+842
+00:41:37.780 --> 00:41:39.929
+then once you've done this and you've controlled for
+
+843
+00:41:39.939 --> 00:41:43.995
+all the different possible ways of confusion, then you
+
+844
+00:41:44.004 --> 00:41:46.554
+will figure out does it work or does it
+
+845
+00:41:46.564 --> 00:41:48.854
+not work? Well, the clinical trials have only been
+
+846
+00:41:48.864 --> 00:41:51.354
+around since about the 19 forties. But it's a
+
+847
+00:41:51.364 --> 00:41:54.945
+really solid well-established way to figure out whether a
+
+848
+00:41:54.955 --> 00:41:58.629
+drug actually causes people to get better. So medicine's
+
+849
+00:41:58.639 --> 00:42:02.169
+got this very good way of proceeding, namely controlled
+
+850
+00:42:02.179 --> 00:42:05.489
+clinical trials, sometimes other kinds of studies are useful
+
+851
+00:42:05.500 --> 00:42:07.419
+too. So we got a great way of doing
+
+852
+00:42:07.429 --> 00:42:09.679
+this in medicine. So that's how we do it.
+
+853
+00:42:09.689 --> 00:42:12.360
+What we don't do is oh, Joe took that
+
+854
+00:42:12.370 --> 00:42:14.219
+drug that he got off a mail order and
+
+855
+00:42:14.229 --> 00:42:17.110
+it made him happier. Well, that's not, that's not
+
+856
+00:42:17.120 --> 00:42:20.520
+science. That's not evidence. That's just an anecdote. People
+
+857
+00:42:20.530 --> 00:42:23.899
+often say, well, the plural of anecdote is not,
+
+858
+00:42:24.500 --> 00:42:27.409
+is it's not data. That data means you do
+
+859
+00:42:27.419 --> 00:42:30.229
+an experiment, you do a controlled experiment. So medicine
+
+860
+00:42:30.239 --> 00:42:32.060
+knows how to do this well, and that's how
+
+861
+00:42:32.070 --> 00:42:33.939
+we get our information if we're doing it right.
+
+862
+00:42:34.320 --> 00:42:39.189
+And unfortunately people are getting their information about measles
+
+863
+00:42:39.199 --> 00:42:42.770
+and vaccines and various drugs from social media or
+
+864
+00:42:42.780 --> 00:42:44.439
+they're getting it from websites or just trying to
+
+865
+00:42:44.449 --> 00:42:48.600
+sell stuff. And so it's motivated reasoning and misinformation.
+
+866
+00:42:48.949 --> 00:42:50.580
+So we know how to do this right? Medicine,
+
+867
+00:42:50.590 --> 00:42:53.429
+contemporary medicine is very sophisticated. But if we do
+
+868
+00:42:53.439 --> 00:42:56.159
+it wrong, then we're gonna make people less healthy
+
+869
+00:42:56.310 --> 00:42:58.250
+rather than more healthy, which is what medicine is
+
+870
+00:42:58.260 --> 00:42:58.969
+supposed to do.
+
+871
+00:43:00.100 --> 00:43:03.199
+Another kind of misinformation that you cover in the
+
+872
+00:43:03.209 --> 00:43:07.239
+book is Scientific misinformation and you go through the
+
+873
+00:43:07.250 --> 00:43:09.919
+example of climate change. So I I think this
+
+874
+00:43:09.929 --> 00:43:12.530
+is a very good example for us to understand
+
+875
+00:43:12.540 --> 00:43:16.090
+a little bit better. What might, what could be
+
+876
+00:43:16.100 --> 00:43:20.370
+the consequences of people being exposed to misinformation? So
+
+877
+00:43:20.379 --> 00:43:22.719
+what would you say are perhaps some of the
+
+878
+00:43:22.729 --> 00:43:27.959
+biggest misconceptions surrounding climate change and what are the
+
+879
+00:43:27.969 --> 00:43:32.669
+worst consequences we're having to deal with and we
+
+880
+00:43:32.679 --> 00:43:34.790
+have to deal with in the future?
+
+881
+00:43:35.139 --> 00:43:39.350
+Yeah, I think climate change illustrates um information, information
+
+882
+00:43:39.360 --> 00:43:42.550
+just as well as COVID-19 does. So is there
+
+883
+00:43:42.560 --> 00:43:46.409
+real information about climate change? Sure, that's what the
+
+884
+00:43:46.419 --> 00:43:50.409
+legions of scientists in the IPCC produced by the
+
+885
+00:43:50.419 --> 00:43:53.350
+United Nations Intergovernmental Panel on climate change has been
+
+886
+00:43:53.360 --> 00:43:55.870
+doing for decades now. So we've got huge amounts
+
+887
+00:43:55.879 --> 00:43:58.409
+of good information. How's it done? It's done by
+
+888
+00:43:58.709 --> 00:44:01.820
+um measurements, it's done by observations, it's done by
+
+889
+00:44:01.830 --> 00:44:05.620
+instruments. So we've got huge amounts of information that's
+
+890
+00:44:05.629 --> 00:44:08.139
+also led to inferences. And so people have built
+
+891
+00:44:08.149 --> 00:44:10.510
+these climate models that allow us to make inferences
+
+892
+00:44:10.520 --> 00:44:13.820
+about what's likely to happen if global warming continues.
+
+893
+00:44:14.159 --> 00:44:18.179
+So there are these 1000 page documents produced by
+
+894
+00:44:18.189 --> 00:44:22.239
+the IPCC that are very closely reasoned, full of,
+
+895
+00:44:22.250 --> 00:44:25.560
+of empirical information that tell us what we should
+
+896
+00:44:25.570 --> 00:44:27.939
+expect and what we should worry about. So there
+
+897
+00:44:27.949 --> 00:44:30.959
+real information is, is all available, but we just
+
+898
+00:44:30.969 --> 00:44:32.479
+need to put it to work in making our
+
+899
+00:44:32.489 --> 00:44:35.600
+decisions about how to run our society. But what's
+
+900
+00:44:35.610 --> 00:44:38.659
+the difference? Well, on the other side, you've got
+
+901
+00:44:38.669 --> 00:44:42.080
+lies and huge amounts of motivated reasoning. Why is
+
+902
+00:44:42.090 --> 00:44:44.469
+it motivated reasoning? What's the motivation of people who
+
+903
+00:44:44.479 --> 00:44:47.629
+are climate change deniers? Well, it varies. A lot
+
+904
+00:44:47.639 --> 00:44:50.149
+of it though, comes from the oil companies, the
+
+905
+00:44:50.159 --> 00:44:52.770
+oil companies have been producing huge amounts of fossil
+
+906
+00:44:52.780 --> 00:44:54.889
+fuels. They, they get lots, they get billions of
+
+907
+00:44:54.899 --> 00:44:57.139
+dollars of profits out of it. They don't want
+
+908
+00:44:57.149 --> 00:44:59.360
+to be reined in because if there's less oil
+
+909
+00:44:59.370 --> 00:45:02.149
+being sold, less gasoline being used, their profits will
+
+910
+00:45:02.159 --> 00:45:05.129
+be hurt and so that will make their companies
+
+911
+00:45:05.139 --> 00:45:07.689
+less profitable for the executives, it will make their
+
+912
+00:45:07.699 --> 00:45:11.310
+powerless, it will make their, their salaries less. And
+
+913
+00:45:11.320 --> 00:45:14.389
+so you'd have the, the, these companies that would
+
+914
+00:45:14.399 --> 00:45:17.110
+be hurt by control on the use of fossil
+
+915
+00:45:17.120 --> 00:45:20.889
+fuels because obviously the, the one way to get
+
+916
+00:45:20.899 --> 00:45:23.270
+climate change under control is to reduce the amount
+
+917
+00:45:23.280 --> 00:45:25.830
+of fossil fuels that are being used. So that's
+
+918
+00:45:25.840 --> 00:45:28.969
+why the companies are, are biased. What about the
+
+919
+00:45:28.979 --> 00:45:32.879
+politicians? Well, there are a lot of politicians that
+
+920
+00:45:32.889 --> 00:45:36.040
+are basically in bed with the companies because that's
+
+921
+00:45:36.050 --> 00:45:38.689
+where they get their funding. So that's major oil
+
+922
+00:45:38.699 --> 00:45:42.389
+companies and the owners of the oil companies fund
+
+923
+00:45:42.399 --> 00:45:45.270
+politicians to say what they want. And so the
+
+924
+00:45:45.280 --> 00:45:49.320
+politicians will say, oh, we don't want to restrict
+
+925
+00:45:49.330 --> 00:45:52.959
+fossil fuels. Um, AND there's so they make up
+
+926
+00:45:52.969 --> 00:45:55.850
+stories about what's going on. What are the stories
+
+927
+00:45:55.860 --> 00:45:57.139
+that make up? Well, I say all this is
+
+928
+00:45:57.149 --> 00:46:00.120
+just to try to get control over people and
+
+929
+00:46:00.129 --> 00:46:03.935
+affect people's freedom. Well, freedom is definitely an issue
+
+930
+00:46:03.945 --> 00:46:05.794
+here because if you tell people no, you can't
+
+931
+00:46:05.804 --> 00:46:08.155
+have a gas guzzling car and, and you have
+
+932
+00:46:08.165 --> 00:46:10.885
+to pay taxes for on your use of carbon.
+
+933
+00:46:10.975 --> 00:46:12.935
+Yeah, that does limit people's freedom. I think it's
+
+934
+00:46:12.945 --> 00:46:15.504
+a justified one because it, it's in people's good.
+
+935
+00:46:15.764 --> 00:46:18.985
+But there's some politicians, the conservative politicians both tend
+
+936
+00:46:18.995 --> 00:46:21.044
+to be in bed with the fossil fuel companies.
+
+937
+00:46:21.054 --> 00:46:23.614
+But also they like the idea of freedom uh
+
+938
+00:46:23.625 --> 00:46:27.044
+as a sort of abstraction, irrespective of whether it's
+
+939
+00:46:27.054 --> 00:46:30.290
+in people's good, good or not. So you have
+
+940
+00:46:30.300 --> 00:46:33.409
+motivated reasoning on the side of the oil companies
+
+941
+00:46:33.419 --> 00:46:36.070
+and motivated reasoning on the side of some politicians
+
+942
+00:46:36.199 --> 00:46:39.129
+and then they're convinced that climate change isn't the
+
+943
+00:46:39.139 --> 00:46:40.850
+problem. And so they tell the lies and other
+
+944
+00:46:40.860 --> 00:46:41.649
+people believe them.
+
+945
+00:46:42.850 --> 00:46:44.889
+So I wanted to ask you now and I
+
+946
+00:46:44.899 --> 00:46:47.590
+guess that this would apply to a certain extent
+
+947
+00:46:47.600 --> 00:46:52.709
+to some of the misinformation going on uh in
+
+948
+00:46:52.719 --> 00:46:56.629
+social media and elsewhere surrounding climate change and also
+
+949
+00:46:56.860 --> 00:47:01.030
+anti some anti vaccine or anti-vaxxer attitudes that people
+
+950
+00:47:01.040 --> 00:47:05.669
+have. Uh HOW do you approach conspiracy theories through
+
+951
+00:47:05.679 --> 00:47:08.510
+the framework that you present in the book and
+
+952
+00:47:08.520 --> 00:47:12.629
+how do they relate to misinformation more generally?
+
+953
+00:47:13.419 --> 00:47:14.939
+OK. I mean, first of all, there are real
+
+954
+00:47:14.949 --> 00:47:18.600
+conspiracies. So the information part is, yes, I mean,
+
+955
+00:47:18.610 --> 00:47:20.620
+there actually are conspiracies in the world. I give
+
+956
+00:47:20.629 --> 00:47:24.280
+two examples. One is the conspiracies that the Roman
+
+957
+00:47:24.290 --> 00:47:27.639
+senators used to kill Julius Caesar. They got together
+
+958
+00:47:27.649 --> 00:47:29.500
+and said, let's kill Caesar and they did. So
+
+959
+00:47:29.510 --> 00:47:32.959
+that's a real conspiracy much more recently. It's well
+
+960
+00:47:32.969 --> 00:47:36.489
+documented now that there were conspiracies around the attempt
+
+961
+00:47:36.500 --> 00:47:38.409
+to have an insurrection in the United States after
+
+962
+00:47:38.419 --> 00:47:42.860
+the last election. The huge up uh up uh
+
+963
+00:47:42.870 --> 00:47:45.830
+roar that took place in the invasion of the
+
+964
+00:47:45.840 --> 00:47:48.909
+US Capitol. That was a conspiracy, the Oath Keepers
+
+965
+00:47:48.919 --> 00:47:51.270
+and the Proud Boys, they planned it and they
+
+966
+00:47:51.280 --> 00:47:54.439
+led a big attack that killed people and uh
+
+967
+00:47:54.649 --> 00:47:57.399
+and was an attempt to overthrow the government. So
+
+968
+00:47:57.409 --> 00:48:01.030
+that's a real conspiracy that's well documented. But what
+
+969
+00:48:01.040 --> 00:48:04.909
+you find a lot, especially among uh right wing
+
+970
+00:48:05.209 --> 00:48:09.510
+commentators is conspiracies that are just made up. Um
+
+971
+00:48:09.520 --> 00:48:11.250
+So I use two examples. I used the Qanon
+
+972
+00:48:11.399 --> 00:48:14.500
+conspiracy. There's never any evidence for that for a
+
+973
+00:48:14.510 --> 00:48:18.899
+real conspiracy. There's evidence we have documents that indicated
+
+974
+00:48:18.909 --> 00:48:20.969
+what the Proud Boys were up to. We got
+
+975
+00:48:20.979 --> 00:48:23.629
+emails we can know, see in fact they were
+
+976
+00:48:23.639 --> 00:48:25.850
+getting together to plan the interaction so we can
+
+977
+00:48:25.860 --> 00:48:31.149
+use observations and um and things like emails, letters
+
+978
+00:48:31.570 --> 00:48:34.620
+to indicate that something is a real conspiracy. But
+
+979
+00:48:34.629 --> 00:48:37.949
+for the fake conspiracies, there's no evidence, there's no
+
+980
+00:48:37.959 --> 00:48:39.989
+evidence that Q and on was any kind of
+
+981
+00:48:40.000 --> 00:48:42.429
+reliable source and that the things that were being
+
+982
+00:48:42.439 --> 00:48:47.600
+said about a supposed uh conspiracy among democratic politicians
+
+983
+00:48:47.610 --> 00:48:50.550
+who are pedophiles to do all sorts of horrible
+
+984
+00:48:50.560 --> 00:48:52.659
+things that's just all made up. And so we
+
+985
+00:48:52.669 --> 00:48:55.850
+can use the difference between real information and good
+
+986
+00:48:55.860 --> 00:48:59.830
+observations versus making stuff up to distinguish the difference
+
+987
+00:48:59.840 --> 00:49:05.199
+between real conspiracies and fake conspiracies. Probably the most
+
+988
+00:49:05.419 --> 00:49:09.560
+nasty ongoing conspiracy is called the Great Replacement theory.
+
+989
+00:49:09.659 --> 00:49:12.540
+It's popular in, in uh some parts of Europe
+
+990
+00:49:12.550 --> 00:49:14.620
+as well as in the United States. This is
+
+991
+00:49:14.629 --> 00:49:17.139
+the idea that there's a kind of left wing
+
+992
+00:49:17.149 --> 00:49:23.290
+plot to bring in nonwhite people to take over
+
+993
+00:49:23.300 --> 00:49:26.209
+to take over the country. Uh That's no, there's
+
+994
+00:49:26.219 --> 00:49:28.659
+lots of good reasons for immigration, but this is
+
+995
+00:49:28.669 --> 00:49:31.639
+saying, oh no, this is happening because there's because
+
+996
+00:49:31.649 --> 00:49:34.550
+there's just a conspiracy, but they've never been able
+
+997
+00:49:34.560 --> 00:49:37.520
+to document who's involved with conspiracy. How are they
+
+998
+00:49:37.530 --> 00:49:40.010
+talking to each other? What's the paper trail? What's
+
+999
+00:49:40.020 --> 00:49:42.870
+the email trail? It's just made up? Uh And
+
+1000
+00:49:42.879 --> 00:49:44.629
+people believe it, why do they make, why do
+
+1001
+00:49:44.639 --> 00:49:47.659
+they believe it? It's motivated reasoning. People are afraid
+
+1002
+00:49:47.669 --> 00:49:49.850
+of immigrants, they get afraid, they think, oh we
+
+1003
+00:49:49.860 --> 00:49:51.870
+got to do something to stop this. And so
+
+1004
+00:49:51.879 --> 00:49:54.919
+we've got to get really good leaders, people like
+
+1005
+00:49:55.000 --> 00:49:57.520
+uh Donald Trump or the right wing leaders in
+
+1006
+00:49:57.530 --> 00:49:59.360
+Europe and they're the ones that will help us
+
+1007
+00:49:59.370 --> 00:50:01.699
+because they've got to stop the Great Replacement, but
+
+1008
+00:50:01.709 --> 00:50:03.959
+great replacement was just made up. It was a
+
+1009
+00:50:03.969 --> 00:50:07.939
+completely fictional conspiracy. So it fits perfectly under the
+
+1010
+00:50:07.949 --> 00:50:11.459
+account of misinformation that I gave because how is
+
+1011
+00:50:11.469 --> 00:50:13.780
+it made up? Well, again, it's motivated reasoning. People
+
+1012
+00:50:13.790 --> 00:50:18.290
+wanted power. People wanted to get lots of followers.
+
+1013
+00:50:18.300 --> 00:50:21.850
+People were trying to convince people that there were
+
+1014
+00:50:21.860 --> 00:50:24.709
+threats that weren't really there because that enabled them
+
+1015
+00:50:24.719 --> 00:50:26.790
+to get more power. So that's really greed for
+
+1016
+00:50:26.800 --> 00:50:28.770
+power as much as it is greed for money.
+
+1017
+00:50:29.139 --> 00:50:34.669
+So greed fuels motivated reasoning which fuels bad communication,
+
+1018
+00:50:34.679 --> 00:50:40.290
+which follow which fuels misinformation and that flies in
+
+1019
+00:50:40.300 --> 00:50:42.139
+the face of real information that we can have
+
+1020
+00:50:42.149 --> 00:50:45.550
+about real conspiracies that do sometimes occur. So the
+
+1021
+00:50:45.560 --> 00:50:49.969
+aims theory fits just as perfectly with conspiracy theories
+
+1022
+00:50:49.979 --> 00:50:53.020
+as it did with COVID and with um climate
+
+1023
+00:50:53.030 --> 00:50:53.469
+change.
+
+1024
+00:50:54.159 --> 00:50:56.070
+A and you give the example of the grid
+
+1025
+00:50:56.080 --> 00:51:00.610
+replacement conspiracy theory there. And I guess another interesting
+
+1026
+00:51:00.620 --> 00:51:03.050
+aspect here and please correct me if I'm wrong.
+
+1027
+00:51:03.060 --> 00:51:06.760
+But uh I would imagine that uh one interesting
+
+1028
+00:51:06.770 --> 00:51:09.659
+aspect of some of these conspiracy theories is that
+
+1029
+00:51:09.669 --> 00:51:13.120
+they seem to be recurrent there is they, they
+
+1030
+00:51:13.129 --> 00:51:16.300
+come and go, they come into fashion, they go
+
+1031
+00:51:16.310 --> 00:51:19.929
+out of fashion because the great Replacement theory, if
+
+1032
+00:51:19.939 --> 00:51:24.850
+I remember correctly is much older than the past.
+
+1033
+00:51:24.860 --> 00:51:27.780
+I don't know, 1015 years, I guess it's more
+
+1034
+00:51:27.790 --> 00:51:31.080
+than 100 years old, at least it's from the
+
+1035
+00:51:31.090 --> 00:51:36.360
+time of eugenics in the 20th century, Nazism and
+
+1036
+00:51:36.370 --> 00:51:37.000
+all of that.
+
+1037
+00:51:37.239 --> 00:51:38.750
+Yeah. So it's an old one but they're even
+
+1038
+00:51:38.760 --> 00:51:41.094
+older ones take any semi, which has been around
+
+1039
+00:51:41.104 --> 00:51:44.175
+for at least 1000 years. The view that Jews
+
+1040
+00:51:44.185 --> 00:51:46.665
+are in a conspiracy to take over the world,
+
+1041
+00:51:46.925 --> 00:51:51.284
+uh, still, still very popular, uh but entirely made
+
+1042
+00:51:51.294 --> 00:51:54.235
+up. Um So the, uh but it's been around
+
+1043
+00:51:54.245 --> 00:51:56.195
+for, as I said, more than 1000 years.
+
+1044
+00:51:57.770 --> 00:52:00.389
+So could you give us then an example of
+
+1045
+00:52:00.399 --> 00:52:06.229
+political misinformation and what counts as political misinformation or
+
+1046
+00:52:06.239 --> 00:52:09.270
+that you would classify as such?
+
+1047
+00:52:10.010 --> 00:52:12.840
+Well, I've given some examples already such as that
+
+1048
+00:52:12.929 --> 00:52:18.860
+the 19, the 2020 American election was stolen. Uh
+
+1049
+00:52:18.870 --> 00:52:21.739
+So Trump is always talking about elections being stolen.
+
+1050
+00:52:21.750 --> 00:52:23.429
+So that's one way that it could be done.
+
+1051
+00:52:23.620 --> 00:52:25.239
+Uh But there are other things that can be
+
+1052
+00:52:25.250 --> 00:52:27.350
+done to people that are, that are more subtle.
+
+1053
+00:52:27.520 --> 00:52:30.939
+Uh Their lies told for example, about the economy.
+
+1054
+00:52:31.229 --> 00:52:34.909
+So after COVID uh Western economies went through big
+
+1055
+00:52:34.919 --> 00:52:38.540
+problems of inflation and it was really bad. Inflation
+
+1056
+00:52:38.550 --> 00:52:40.760
+was hitting a 10% a year and that was
+
+1057
+00:52:40.770 --> 00:52:43.889
+really causing problems because people who live uh pay
+
+1058
+00:52:43.899 --> 00:52:46.500
+paycheck to paycheck and suddenly found their food was
+
+1059
+00:52:46.510 --> 00:52:49.360
+costing considerably more. This was a really serious problem
+
+1060
+00:52:49.370 --> 00:52:52.820
+for a lot of people and the politicians who
+
+1061
+00:52:52.830 --> 00:52:57.139
+want to accuse the government of constantly being uh
+
+1062
+00:52:57.350 --> 00:53:01.479
+irresponsible emphasize. Oh, we still got inflation. But if
+
+1063
+00:53:01.489 --> 00:53:03.830
+you actually look at the numbers in Canada and
+
+1064
+00:53:03.840 --> 00:53:07.959
+the United States and Europe, inflation has actually gotten
+
+1065
+00:53:07.969 --> 00:53:10.120
+pretty much under control. It's down to maybe around
+
+1066
+00:53:10.129 --> 00:53:13.239
+3% in most countries. And so people are still
+
+1067
+00:53:13.250 --> 00:53:16.010
+feeling it because inflation was really great for a
+
+1068
+00:53:16.020 --> 00:53:19.379
+few years. So it's in the interest of politicians
+
+1069
+00:53:19.389 --> 00:53:22.419
+who want to overturn the current government to say,
+
+1070
+00:53:22.429 --> 00:53:24.540
+oh, affordability is a huge problem. Well, it is
+
+1071
+00:53:24.550 --> 00:53:26.840
+a problem but it's a problem that in fact
+
+1072
+00:53:26.850 --> 00:53:29.260
+has largely been gotten under control because the inflation
+
+1073
+00:53:29.270 --> 00:53:31.580
+rate is down to reasonable levels. So it's a
+
+1074
+00:53:31.590 --> 00:53:35.879
+case where the extent of the affordability problem and
+
+1075
+00:53:35.889 --> 00:53:38.100
+it's certainly the causes of it can be lied
+
+1076
+00:53:38.110 --> 00:53:41.810
+about by politicians rather than the careful economists who
+
+1077
+00:53:41.820 --> 00:53:43.560
+try to say. Yeah. Ok, we had had a
+
+1078
+00:53:43.570 --> 00:53:45.969
+big problem around coming out of COVID. But now
+
+1079
+00:53:45.979 --> 00:53:48.669
+thanks to things like tightening of money and higher
+
+1080
+00:53:48.679 --> 00:53:51.139
+interest rates, it looks like it's pretty much under
+
+1081
+00:53:51.149 --> 00:53:54.070
+control. So that's another case where you get political
+
+1082
+00:53:54.080 --> 00:53:55.929
+um po political misinformation.
+
+1083
+00:53:56.800 --> 00:53:59.840
+And in the book, you also talk about misinformation
+
+1084
+00:53:59.850 --> 00:54:04.620
+about inequality but isn't it, isn't it uh a
+
+1085
+00:54:04.629 --> 00:54:09.719
+sort of uh a kind of political misinformation or
+
+1086
+00:54:09.729 --> 00:54:12.100
+not? Am I misunderstanding it here?
+
+1087
+00:54:12.405 --> 00:54:14.145
+Oh, it, it's a lot of it has to
+
+1088
+00:54:14.155 --> 00:54:16.554
+do with politics. It's certainly true because the governments
+
+1089
+00:54:16.564 --> 00:54:20.344
+have to make decisions about uh fighting inequality. So
+
+1090
+00:54:20.354 --> 00:54:23.074
+if someone says, for example, oh, we've got to
+
+1091
+00:54:23.084 --> 00:54:24.985
+raise taxes on the rich so that we can
+
+1092
+00:54:24.995 --> 00:54:27.564
+provide services to the poor. That's a political question.
+
+1093
+00:54:27.814 --> 00:54:29.975
+But it's broader than that. It happens in other
+
+1094
+00:54:29.985 --> 00:54:33.205
+areas too. Um So it happens, for example, in,
+
+1095
+00:54:33.215 --> 00:54:37.489
+in education, uh education, these are sort of political
+
+1096
+00:54:37.500 --> 00:54:39.879
+decisions because, but, but it, it's coming up in
+
+1097
+00:54:39.889 --> 00:54:41.520
+a lot of different ways but just even in
+
+1098
+00:54:41.530 --> 00:54:46.760
+ordinary life and think about uh um relationships, social
+
+1099
+00:54:46.770 --> 00:54:52.179
+relationships, romantic relationships, uh sexist ideas uh involve all
+
+1100
+00:54:52.189 --> 00:54:54.530
+sorts of kinds of inequality. The things that have
+
+1101
+00:54:54.540 --> 00:54:57.969
+to take a really extreme example if someone says,
+
+1102
+00:54:57.979 --> 00:55:01.750
+oh men should be in charge of their marriages
+
+1103
+00:55:01.760 --> 00:55:04.489
+because they have bigger brains than women. OK. So
+
+1104
+00:55:04.500 --> 00:55:06.270
+men should be in charge because they got bigger
+
+1105
+00:55:06.280 --> 00:55:09.629
+brains. So they're smarter a whole layers of, of,
+
+1106
+00:55:09.639 --> 00:55:12.979
+of misinformation there that isn't political, it has to
+
+1107
+00:55:12.989 --> 00:55:16.409
+do with biology. Uh What's the misinformation? Well, actually,
+
+1108
+00:55:16.419 --> 00:55:18.419
+men do have bigger brains than women, but that's
+
+1109
+00:55:18.429 --> 00:55:21.409
+only because in women, the neurons are more densely
+
+1110
+00:55:21.419 --> 00:55:23.600
+connected and more densely packed in. They got the
+
+1111
+00:55:23.610 --> 00:55:27.100
+same number of neurons and by any objective measure,
+
+1112
+00:55:27.110 --> 00:55:28.810
+they're just as smart as men. So that's one
+
+1113
+00:55:28.820 --> 00:55:31.419
+piece of inequality. Uh SORRY, one piece of inequality
+
+1114
+00:55:31.429 --> 00:55:35.530
+based misinformation. And it can be used to justify
+
+1115
+00:55:35.979 --> 00:55:39.370
+uh different kinds of uh of patriarchy that men
+
+1116
+00:55:39.379 --> 00:55:41.889
+should be running because they got better brains and
+
+1117
+00:55:41.899 --> 00:55:44.159
+other sort of things that could go into that
+
+1118
+00:55:44.169 --> 00:55:46.770
+of all sorts of stereotypes of women as being
+
+1119
+00:55:46.780 --> 00:55:50.239
+inferior in other ways as being more emotional, it,
+
+1120
+00:55:50.250 --> 00:55:52.530
+it's all made up stuff uh not based on
+
+1121
+00:55:52.540 --> 00:55:55.129
+anything that's empirical about the brain or coming from
+
+1122
+00:55:55.139 --> 00:55:59.350
+empirical psychology. So that's a case where interpersonal relationships
+
+1123
+00:55:59.360 --> 00:56:02.399
+that don't necessarily involve the government can be distorted
+
+1124
+00:56:02.409 --> 00:56:05.649
+by misinformation about inequality.
+
+1125
+00:56:07.060 --> 00:56:11.520
+And when it comes to the Russia Ukraine, ongoing
+
+1126
+00:56:11.530 --> 00:56:15.639
+conflict, in what ways would you say misinformation might
+
+1127
+00:56:15.649 --> 00:56:19.159
+have played a role here? I would imagine both
+
+1128
+00:56:19.169 --> 00:56:22.560
+in the initiation of the conflict but also uh
+
+1129
+00:56:22.570 --> 00:56:26.760
+in driving the conflict, the conflict forward.
+
+1130
+00:56:27.770 --> 00:56:31.760
+Well, war always involves lies. It's whoever is in
+
+1131
+00:56:31.770 --> 00:56:34.320
+a war, they're always motivated to make things look
+
+1132
+00:56:34.330 --> 00:56:36.570
+good for them and bad for the other. Uh
+
+1133
+00:56:36.709 --> 00:56:39.669
+And uh Ukraine wasn't perfect about this by and
+
+1134
+00:56:39.679 --> 00:56:42.159
+large. I think they've been accurate reporting, but there
+
+1135
+00:56:42.169 --> 00:56:44.100
+were some stories that came out of the early
+
+1136
+00:56:44.110 --> 00:56:46.639
+stage of, of the war that made it made
+
+1137
+00:56:46.649 --> 00:56:49.000
+them sound really good. They had various kinds of
+
+1138
+00:56:49.010 --> 00:56:51.919
+heroic things that supposedly happened that turned out not
+
+1139
+00:56:51.929 --> 00:56:54.500
+to be well documented, but that, that was just
+
+1140
+00:56:54.510 --> 00:56:58.159
+minor stuff. Whereas with Russia and the kinds of
+
+1141
+00:56:58.189 --> 00:57:01.500
+misinformation that I mentioned earlier, things that they're claiming
+
+1142
+00:57:01.510 --> 00:57:04.939
+that the recurring is run by Nazis or that
+
+1143
+00:57:04.949 --> 00:57:06.739
+they've got this historical right to it. I mean,
+
+1144
+00:57:06.750 --> 00:57:09.179
+that's much more serious and, but on the, as
+
+1145
+00:57:09.189 --> 00:57:12.100
+things go on, they've got various uh lies about
+
+1146
+00:57:12.110 --> 00:57:14.620
+who's winning and who's losing. So, misinformation is a
+
+1147
+00:57:14.629 --> 00:57:16.469
+big problem in all wars. But in this case,
+
+1148
+00:57:16.510 --> 00:57:19.439
+given it's clear that it was a, a just
+
+1149
+00:57:19.449 --> 00:57:22.750
+war on the part of the Ukrainians defending themselves
+
+1150
+00:57:22.760 --> 00:57:25.219
+and an unjust war on the part of the
+
+1151
+00:57:25.229 --> 00:57:28.260
+Russians who invaded. There's really an asymmetry there. And
+
+1152
+00:57:28.270 --> 00:57:31.620
+so the, the misinformation spread by Russia is, is
+
+1153
+00:57:31.629 --> 00:57:32.739
+far more serious.
+
+1154
+00:57:34.149 --> 00:57:36.659
+Uh So let me ask you one question about
+
+1155
+00:57:36.669 --> 00:57:40.489
+these different kinds of types or domains of misinformation
+
+1156
+00:57:40.500 --> 00:57:42.739
+that you go through in the book. So we've
+
+1157
+00:57:42.750 --> 00:57:49.169
+covered medical scientific, political misinformation, misinformation about inequality and
+
+1158
+00:57:49.179 --> 00:57:53.709
+specifically also the Russian Ukraine conflict. There's also social
+
+1159
+00:57:53.719 --> 00:57:57.840
+misinformation, but we'll leave that for the uh audience
+
+1160
+00:57:57.850 --> 00:57:59.919
+to read about it in your book. But uh
+
+1161
+00:57:59.929 --> 00:58:05.770
+why exactly do you distinguish between these different domains
+
+1162
+00:58:05.780 --> 00:58:08.300
+or kinds of misinformation? I mean, are they to
+
+1163
+00:58:08.310 --> 00:58:13.040
+be understood as completely separate or how do we,
+
+1164
+00:58:13.050 --> 00:58:15.370
+how should we think about it about
+
+1165
+00:58:15.379 --> 00:58:17.250
+them? But the important thing from my point of
+
+1166
+00:58:17.260 --> 00:58:19.780
+view is that they all get explained by my
+
+1167
+00:58:19.790 --> 00:58:23.739
+theory, my aims theory with acquisition inference memory and
+
+1168
+00:58:23.750 --> 00:58:26.699
+spread applies perfectly well to all of them. And
+
+1169
+00:58:26.709 --> 00:58:28.580
+so it gives a unified theory for all these
+
+1170
+00:58:28.590 --> 00:58:30.620
+different ones. And of course, there's other kinds of
+
+1171
+00:58:30.629 --> 00:58:32.989
+misinformation as well that I did talk about. But
+
+1172
+00:58:33.000 --> 00:58:34.570
+I think what's really cool from my point of
+
+1173
+00:58:34.580 --> 00:58:37.620
+view is I've got a unifying theory that not
+
+1174
+00:58:37.629 --> 00:58:40.850
+only explains how we get real information, but also
+
+1175
+00:58:40.860 --> 00:58:45.310
+explains how misinformation arises, but also gives some hints
+
+1176
+00:58:45.320 --> 00:58:47.179
+at what we can do to try to prevent
+
+1177
+00:58:47.189 --> 00:58:49.469
+it and cure it. So that's what a good
+
+1178
+00:58:49.479 --> 00:58:51.389
+theory does. How do things work when they work?
+
+1179
+00:58:51.399 --> 00:58:53.389
+Well, how do they break and how can we
+
+1180
+00:58:53.399 --> 00:58:56.639
+fix it? So I don't particularly care about whether
+
+1181
+00:58:56.649 --> 00:58:59.689
+something falls under social or political or, or romantic
+
+1182
+00:58:59.699 --> 00:59:02.689
+misinformation. The important thing is that all these really
+
+1183
+00:59:02.699 --> 00:59:07.610
+rich aspects of human life can be explained by
+
+1184
+00:59:07.620 --> 00:59:10.189
+a common theory of information and disinformation.
+
+1185
+00:59:11.699 --> 00:59:18.540
+Earlier, uh you mentioned ways of uh tackling misinformation,
+
+1186
+00:59:18.550 --> 00:59:23.030
+like for example, inoculation, pre bunking at this point
+
+1187
+00:59:23.040 --> 00:59:26.729
+in time, what do we know about the effectiveness
+
+1188
+00:59:26.739 --> 00:59:31.040
+of each of those uh measures, let's say uh
+
+1189
+00:59:31.050 --> 00:59:34.500
+I mean, which one works best as far as
+
+1190
+00:59:34.510 --> 00:59:35.699
+we know. That's
+
+1191
+00:59:35.709 --> 00:59:37.489
+a wonderful question for which we don't really have
+
+1192
+00:59:37.500 --> 00:59:40.479
+an answer yet. I mean, the the analogous medical
+
+1193
+00:59:40.489 --> 00:59:42.209
+question is look, we got these different kinds of
+
+1194
+00:59:42.219 --> 00:59:45.290
+drugs or antibiotics uh which work on works best.
+
+1195
+00:59:45.300 --> 00:59:47.250
+So you got to do a, a complicated clinical
+
+1196
+00:59:47.260 --> 00:59:48.879
+trial, you get a whole bunch of people, some
+
+1197
+00:59:48.889 --> 00:59:50.570
+people get one drug other people get a different
+
+1198
+00:59:50.580 --> 00:59:53.449
+one, different kinds of treatment. This hasn't been done.
+
+1199
+00:59:53.750 --> 00:59:56.489
+A bunch of these things have been tested sort
+
+1200
+00:59:56.500 --> 00:59:59.810
+of individually that is there are experiments done by
+
+1201
+01:00:00.209 --> 01:00:03.850
+good psychologists that show, yeah, sometimes pre bunking works
+
+1202
+01:00:03.860 --> 01:00:07.790
+and sometimes uh motivational interviewing works, sometimes critical thinking
+
+1203
+01:00:07.800 --> 01:00:11.729
+works. But we haven't had these kinds of giant
+
+1204
+01:00:11.739 --> 01:00:15.530
+clinical trials that would tell us when you've got
+
+1205
+01:00:15.540 --> 01:00:18.250
+misinformation, spreading through a population of a lot of
+
+1206
+01:00:18.260 --> 01:00:22.050
+people. Exactly which of these techniques works best under
+
+1207
+01:00:22.060 --> 01:00:25.179
+which circumstances, it would be wonderful to have that.
+
+1208
+01:00:25.330 --> 01:00:28.189
+But these experiments are hard to do and no
+
+1209
+01:00:28.199 --> 01:00:30.050
+one's been able to do anything of that scale.
+
+1210
+01:00:30.080 --> 01:00:31.669
+So I think that's a great question and I'd
+
+1211
+01:00:31.679 --> 01:00:33.639
+love to see that kind of research being done.
+
+1212
+01:00:33.860 --> 01:00:36.070
+But by and large, all we can do now
+
+1213
+01:00:36.080 --> 01:00:39.379
+is trial and error and in particular situations and
+
+1214
+01:00:39.389 --> 01:00:42.540
+see what's the thing to do. One thing I
+
+1215
+01:00:42.550 --> 01:00:44.550
+didn't talk about as a, as a way of
+
+1216
+01:00:44.560 --> 01:00:47.679
+operating in these situations. Sometimes none of these psychological
+
+1217
+01:00:47.689 --> 01:00:50.949
+things are gonna work. Sometimes. Basically what you need
+
+1218
+01:00:50.959 --> 01:00:55.250
+is political action. So if you've got Vladimir Putin
+
+1219
+01:00:55.340 --> 01:00:58.850
+spreading lies, if you got Donald Trump spreading lies,
+
+1220
+01:00:58.860 --> 01:01:01.229
+you're not going to convince Putin that he's wrong,
+
+1221
+01:01:01.239 --> 01:01:03.290
+you're not gonna convince Trump that he's wrong. What
+
+1222
+01:01:03.300 --> 01:01:05.689
+you've got to do is have political movements that
+
+1223
+01:01:05.699 --> 01:01:08.120
+can get these people out of power in the
+
+1224
+01:01:08.129 --> 01:01:10.300
+US. It can be done by ensuring you don't
+
+1225
+01:01:10.310 --> 01:01:12.669
+vote for Donald Trump in the Soviet Union or
+
+1226
+01:01:12.679 --> 01:01:14.429
+sorry, in Russia, it's much harder because he's a
+
+1227
+01:01:14.439 --> 01:01:16.820
+dictator. That's exactly where Trump wants to be as
+
+1228
+01:01:16.830 --> 01:01:19.879
+well. But at least if you're a democratic company
+
+1229
+01:01:19.889 --> 01:01:24.665
+country, you can make sure you vote for leaders
+
+1230
+01:01:24.675 --> 01:01:26.524
+who have a commitment to truth, to have a
+
+1231
+01:01:26.534 --> 01:01:31.344
+commitment to scientific ways of collecting evidence and making
+
+1232
+01:01:31.354 --> 01:01:34.254
+their society better on the basis of these reliable
+
+1233
+01:01:34.264 --> 01:01:37.475
+methods rather than just relying on making stuff up
+
+1234
+01:01:37.485 --> 01:01:41.435
+and motivated inference and communication by lies. So it
+
+1235
+01:01:41.445 --> 01:01:45.330
+puts a big onus on, in fact, individual voters
+
+1236
+01:01:45.340 --> 01:01:48.320
+in these situations. Unfortunately, in, in Europe and in,
+
+1237
+01:01:48.379 --> 01:01:51.229
+in North America, we we do have the electoral
+
+1238
+01:01:51.239 --> 01:01:52.879
+means to do this and you have to vote
+
+1239
+01:01:52.889 --> 01:01:55.750
+the liars out of power. That's the political action
+
+1240
+01:01:55.760 --> 01:02:00.969
+side of trying to prefer information over real information
+
+1241
+01:02:00.979 --> 01:02:04.830
+over misinformation. So it becomes a political question, not
+
+1242
+01:02:04.840 --> 01:02:07.270
+just a cognitive or psychological one.
+
+1243
+01:02:08.270 --> 01:02:11.610
+And do you think that a content regulation or
+
+1244
+01:02:11.620 --> 01:02:15.360
+moderation on social media should also be a tool
+
+1245
+01:02:15.370 --> 01:02:17.129
+in our toolbox here?
+
+1246
+01:02:17.290 --> 01:02:21.639
+Definitely that's really badly needed. It's very strange the
+
+1247
+01:02:21.649 --> 01:02:23.889
+way that social media kind of grew up without
+
+1248
+01:02:23.899 --> 01:02:26.120
+any kind of control in the US. It was
+
+1249
+01:02:26.129 --> 01:02:28.540
+quite explicit. They passed a law that said that
+
+1250
+01:02:28.550 --> 01:02:31.209
+the social media companies aren't responsible for the people
+
+1251
+01:02:31.219 --> 01:02:33.780
+who post to them. Well, newspapers aren't like that
+
+1252
+01:02:33.790 --> 01:02:37.679
+if someone says in a public newspaper, a complete
+
+1253
+01:02:37.689 --> 01:02:40.879
+lie, well, they can be charged with libel or
+
+1254
+01:02:40.889 --> 01:02:43.489
+slander or things like that. Anyone can say anything
+
+1255
+01:02:43.500 --> 01:02:45.600
+they want, but there needs to be tightening up
+
+1256
+01:02:45.610 --> 01:02:47.780
+on the social media so that people can be
+
+1257
+01:02:47.790 --> 01:02:51.030
+held responsible for what they've said. Uh There's some
+
+1258
+01:02:51.040 --> 01:02:52.590
+movements to try to do that, but it's really
+
+1259
+01:02:52.600 --> 01:02:55.110
+hard because these media companies are really powerful. They're
+
+1260
+01:02:55.120 --> 01:02:58.229
+really rich. The European Union has actually been much
+
+1261
+01:02:58.239 --> 01:03:00.459
+better at this than North America. They brought in
+
+1262
+01:03:00.469 --> 01:03:03.169
+various ways of trying to control social media. One
+
+1263
+01:03:03.179 --> 01:03:05.330
+of the advances in the European Union that I'm
+
+1264
+01:03:05.340 --> 01:03:08.090
+really impressed by is they're bringing in new rules
+
+1265
+01:03:08.100 --> 01:03:12.090
+for controlling what happens with generative A I, which
+
+1266
+01:03:12.100 --> 01:03:15.229
+is a huge new source of, of misinformation. It
+
+1267
+01:03:15.239 --> 01:03:17.669
+was only uh a little bit of a problem
+
+1268
+01:03:17.679 --> 01:03:20.590
+when I wrote that book. But now that the
+
+1269
+01:03:20.600 --> 01:03:22.750
+book is out, it's a huge problem because it's
+
+1270
+01:03:22.760 --> 01:03:26.489
+really easy to generate not just words but also
+
+1271
+01:03:26.500 --> 01:03:30.080
+pictures using generative A I, it's just taken off
+
+1272
+01:03:30.090 --> 01:03:32.969
+in the last year. So that's really dangerous. But
+
+1273
+01:03:32.979 --> 01:03:36.070
+the European Union is thinking hard about this. Unfortunately,
+
+1274
+01:03:36.175 --> 01:03:38.405
+they um Canada and the US are have been
+
+1275
+01:03:38.415 --> 01:03:40.514
+much slower in the US. It's tricky because you've
+
+1276
+01:03:40.524 --> 01:03:44.594
+got all sorts of political forces that don't want
+
+1277
+01:03:44.625 --> 01:03:48.445
+control by government. Uh The European Union I think
+
+1278
+01:03:48.455 --> 01:03:51.104
+is doing a really good job of, of looking
+
+1279
+01:03:51.114 --> 01:03:53.675
+at social media and looking at generative A I
+
+1280
+01:03:53.844 --> 01:03:58.354
+as ways of potentially being great sources of misinformation.
+
+1281
+01:03:58.919 --> 01:04:01.300
+So politics can work. Sometimes you just have to
+
+1282
+01:04:01.429 --> 01:04:04.610
+work with leaders and voting to get people into
+
+1283
+01:04:04.620 --> 01:04:07.860
+place who will work for the sake of human
+
+1284
+01:04:07.870 --> 01:04:10.969
+needs rather than for the greed of people who
+
+1285
+01:04:10.979 --> 01:04:12.300
+are wealthy and powerful.
+
+1286
+01:04:13.280 --> 01:04:16.340
+And when it comes to generative A I and
+
+1287
+01:04:16.350 --> 01:04:20.860
+also now with video, audio images, deep fakes, for
+
+1288
+01:04:20.870 --> 01:04:25.959
+example, I guess that it not only affects uh
+
+1289
+01:04:25.969 --> 01:04:29.899
+uh social, I mean, society in general and politics
+
+1290
+01:04:30.070 --> 01:04:34.080
+but it can also affect individual people if they
+
+1291
+01:04:34.090 --> 01:04:37.909
+have misinformation in the form of video, audio and
+
+1292
+01:04:37.919 --> 01:04:42.649
+so on about them over on the internet. And
+
+1293
+01:04:42.709 --> 01:04:45.810
+that as a form of music information.
+
+1294
+01:04:46.469 --> 01:04:49.510
+Yeah, but they, but, but really directly harmful. There's
+
+1295
+01:04:49.520 --> 01:04:53.280
+problems in Canadian high schools where some of the
+
+1296
+01:04:53.290 --> 01:04:57.449
+students are creating porn videos using pictures of their,
+
+1297
+01:04:57.520 --> 01:04:59.669
+there's all these techniques that are now available that
+
+1298
+01:04:59.679 --> 01:05:02.780
+can cause immense harm. Obviously, it's really dangerous for
+
+1299
+01:05:02.790 --> 01:05:07.209
+political purposes too because it's very easy to create
+
+1300
+01:05:07.459 --> 01:05:10.590
+uh pictures of people saying things that they never
+
+1301
+01:05:10.600 --> 01:05:13.629
+said I've got all sorts of videos online. People
+
+1302
+01:05:13.639 --> 01:05:16.290
+could produce another video with me saying the opposite
+
+1303
+01:05:16.300 --> 01:05:19.010
+of what I actually believe. So these are new
+
+1304
+01:05:19.020 --> 01:05:21.469
+sources of misinformation that are just getting worse and
+
+1305
+01:05:21.479 --> 01:05:24.729
+worse as the technology gets more and more advanced.
+
+1306
+01:05:25.989 --> 01:05:30.449
+Are there ways by which you think uh individual
+
+1307
+01:05:30.459 --> 01:05:33.919
+people, uh I mean, something that they can do
+
+1308
+01:05:33.929 --> 01:05:36.909
+in their daily lives in their personal lives to
+
+1309
+01:05:36.919 --> 01:05:41.889
+try to be less susceptible to misinformation?
+
+1310
+01:05:42.709 --> 01:05:43.610
+You know, there are a lot of things that
+
+1311
+01:05:43.620 --> 01:05:45.770
+people can do. Some of them are more sophisticated,
+
+1312
+01:05:45.780 --> 01:05:48.189
+like engaging in critical thinking, which requires a lot
+
+1313
+01:05:48.199 --> 01:05:50.370
+of background. But something that I think it's just
+
+1314
+01:05:50.379 --> 01:05:53.449
+really basic ask what is the source of that
+
+1315
+01:05:53.459 --> 01:05:56.850
+information and what is the motivation of that source?
+
+1316
+01:05:57.030 --> 01:05:59.639
+If you just ask that question, then you're gonna
+
+1317
+01:05:59.649 --> 01:06:01.250
+be able to wonder. Well, is there, are they
+
+1318
+01:06:01.260 --> 01:06:03.500
+saying it because it's true or because they're just
+
+1319
+01:06:03.510 --> 01:06:05.469
+trying to trick me into buying some product from
+
+1320
+01:06:05.479 --> 01:06:09.229
+them. So if, if people, instead of just automatically
+
+1321
+01:06:09.239 --> 01:06:11.350
+getting something in social media and then passing it
+
+1322
+01:06:11.360 --> 01:06:12.889
+on to other people, which people do all the
+
+1323
+01:06:12.899 --> 01:06:15.070
+time, they get, they get a link. That's interesting.
+
+1324
+01:06:15.080 --> 01:06:17.959
+I'll send it to my friends but always stop
+
+1325
+01:06:17.969 --> 01:06:21.419
+and think, stop and think who's sending this? Is
+
+1326
+01:06:21.429 --> 01:06:24.320
+it true? What's their motivation? If you just ask
+
+1327
+01:06:24.330 --> 01:06:28.790
+yourself those three questions that's already going to dramatically
+
+1328
+01:06:28.800 --> 01:06:32.939
+slow down the spread of misinformation through particular communities.
+
+1329
+01:06:33.969 --> 01:06:36.709
+So let me just ask you one last question
+
+1330
+01:06:36.719 --> 01:06:40.050
+then uh do you think that there are ways
+
+1331
+01:06:40.060 --> 01:06:44.709
+by which this book connects to some of your
+
+1332
+01:06:44.719 --> 01:06:48.129
+other work? Like for example, your book, The Cognitive
+
+1333
+01:06:48.139 --> 01:06:50.949
+Science of Science or, or not,
+
+1334
+01:06:51.919 --> 01:06:53.260
+you know, a lot of this comes out of
+
+1335
+01:06:53.270 --> 01:06:56.090
+the work I've done in Philosophy of Science. So
+
+1336
+01:06:56.100 --> 01:06:58.129
+a lot of that work I've talked about, say
+
+1337
+01:06:58.139 --> 01:07:02.350
+the difference between good evidence and, and making stuff
+
+1338
+01:07:02.360 --> 01:07:07.260
+up or the difference between uh evaluating theories carefully,
+
+1339
+01:07:07.270 --> 01:07:09.070
+which is something that goes back to my phd
+
+1340
+01:07:09.080 --> 01:07:12.530
+dissertation as opposed to just believing what you want.
+
+1341
+01:07:12.679 --> 01:07:15.560
+And so yes, my background in philosophy of science
+
+1342
+01:07:15.570 --> 01:07:19.179
+definitely fed into this whole account of misinformation.
+
+1343
+01:07:20.340 --> 01:07:24.760
+So the book is again, falsehoods Fly. Why misinformation
+
+1344
+01:07:24.770 --> 01:07:27.469
+spreads and how to stop it. I'm leaving a
+
+1345
+01:07:27.479 --> 01:07:29.439
+link to it in the description box of the
+
+1346
+01:07:29.449 --> 01:07:33.399
+interview and doctor F just before we go apart
+
+1347
+01:07:33.409 --> 01:07:35.760
+from the book, would you like to tell people
+
+1348
+01:07:35.770 --> 01:07:38.100
+where they can find you and your work on
+
+1349
+01:07:38.110 --> 01:07:38.800
+the internet?
+
+1350
+01:07:39.530 --> 01:07:41.699
+By far? The easiest is my main website is
+
+1351
+01:07:41.709 --> 01:07:46.290
+Paul thagard.com. So there you'll find information about my
+
+1352
+01:07:46.300 --> 01:07:49.689
+books, copies of hundreds of articles. You can also
+
+1353
+01:07:49.699 --> 01:07:51.709
+find a link to my blog post. If you
+
+1354
+01:07:51.719 --> 01:07:54.909
+want a sort of non technical introduction to my
+
+1355
+01:07:54.919 --> 01:07:58.360
+work, I've got almost 100 and 70 blog posts
+
+1356
+01:07:58.370 --> 01:08:00.870
+there that cover some of this in a really
+
+1357
+01:08:00.879 --> 01:08:03.070
+quite non technical way that people in general can
+
+1358
+01:08:03.080 --> 01:08:07.469
+understand. So go to Paul thr.com and that'll get
+
+1359
+01:08:07.479 --> 01:08:09.290
+you a po a pointer to the blogs as
+
+1360
+01:08:09.300 --> 01:08:09.659
+well.
+
+1361
+01:08:10.600 --> 01:08:13.649
+Great. So thank you so much again for taking
+
+1362
+01:08:13.659 --> 01:08:15.419
+the time to come on the show. It's been
+
+1363
+01:08:15.429 --> 01:08:17.799
+a real pleasure to talk with you. Thank
+
+1364
+01:08:17.810 --> 01:08:19.250
+you for asking great questions.
+
+1365
+01:08:20.140 --> 01:08:22.879
+Hi guys. Thank you for watching this interview. Until
+
+1366
+01:08:22.890 --> 01:08:25.040
+the end. If you liked it, please share it,
+
+1367
+01:08:25.049 --> 01:08:27.850
+leave a like and hit the subscription button. The
+
+1368
+01:08:27.859 --> 01:08:29.959
+show is brought to you by N Lights Learning
+
+1369
+01:08:29.970 --> 01:08:32.979
+and development. Then differently check the website at N
+
+1370
+01:08:32.990 --> 01:08:36.939
+lights.com and also please consider supporting the show on
+
+1371
+01:08:36.950 --> 01:08:39.990
+Patreon or paypal. I would also like to give
+
+1372
+01:08:40.000 --> 01:08:42.299
+a huge thank you to my main patrons and
+
+1373
+01:08:42.310 --> 01:08:46.520
+paypal supporters, Perera Larson, Jerry Muller and Frederick Suno
+
+1374
+01:08:46.569 --> 01:08:49.640
+Bernard Seche O of Alex Adam, Castle Matthew Whitting
+
+1375
+01:08:49.680 --> 01:08:52.919
+B no wolf, Tim Ho Erica LJ Connors Philip
+
+1376
+01:08:52.930 --> 01:08:55.837
+Forrest Connolly. Then the Met Robert Wine in NAI
+
+1377
+01:08:56.229 --> 01:08:59.587
+Z Mark Nevs calling in Holbrook Field, Governor Mikel
+
+1378
+01:08:59.599 --> 01:09:03.429
+Stormer Samuel Andre Francis for Agns Ferger Ken Herz
+
+1379
+01:09:04.457 --> 01:09:07.868
+J and Lain Jung Y and the K Hes
+
+1380
+01:09:07.877 --> 01:09:12.627
+Mark Smith J. Tom Hummel Sran, David Wilson, the
+
+1381
+01:09:13.179 --> 01:09:17.790
+desario Roman Roach Diego, Jan Punter Romani Charlotte Bli
+
+1382
+01:09:17.970 --> 01:09:21.819
+Nicole Barba, Adam Hunt, Pavlo Stassi Nale Me, Gary
+
+1383
+01:09:21.899 --> 01:09:25.569
+G Alman, Samo Zal Ari and YPJ Barboza Julian
+
+1384
+01:09:25.580 --> 01:09:30.270
+Price Edward Hall, Eden Broner Douglas Fry Franca Lati
+
+1385
+01:09:30.609 --> 01:09:37.169
+Gilon Cortez or Solis Scott Zachary FTW Daniel Friedman,
+
+1386
+01:09:37.180 --> 01:09:41.589
+William Buckner, Paul Giorgino, Luke Lova Georgio, Theophano, Chris
+
+1387
+01:09:41.600 --> 01:09:45.520
+Williams and Peter Wo David Will Di A Costa
+
+1388
+01:09:45.529 --> 01:09:49.729
+Anton Erickson Charles Murray, Alex Chao Marie Martinez, Coralie
+
+1389
+01:09:49.740 --> 01:09:55.890
+Chevalier, Bangalore Larry Dey junior, old Eon Starry Michael
+
+1390
+01:09:55.899 --> 01:09:59.600
+Bailey. Then Spur by Robert Grassy Zorn, Jeff mcmahon,
+
+1391
+01:09:59.609 --> 01:10:03.830
+Jake Zul Barnabas Radick Mark Temple, Thomas Dvor Luke
+
+1392
+01:10:03.839 --> 01:10:08.120
+Neeson, Chris to Kimberley Johnson, Benjamin Gilbert Jessica. No.
+
+1393
+01:10:08.439 --> 01:10:13.729
+Linda Brendan Nicholas Carlson, Ismael Bensley Man, George Katis
+
+1394
+01:10:13.740 --> 01:10:19.560
+Valentine Steinman, Perlis, Kate Van Goler, Alexander Abert Liam
+
+1395
+01:10:19.729 --> 01:10:25.000
+Dan Biar Masoud Ali Mohammadi Perpendicular J Ner Urla.
+
+1396
+01:10:25.399 --> 01:10:29.379
+Good enough, Gregory Hastings David Pins of Sean Nelson,
+
+1397
+01:10:29.390 --> 01:10:33.044
+Mike Levin and Jos Net. A special thanks to
+
+1398
+01:10:33.055 --> 01:10:35.904
+my producers is our web, Jim Frank Luca Stina,
+
+1399
+01:10:35.944 --> 01:10:39.634
+Tom Vig and Bernard N Cortes Dixon, Benedikt Muller
+
+1400
+01:10:39.645 --> 01:10:43.375
+Thomas Trumble Catherine and Patrick Tobin, John Carl Negro,
+
+1401
+01:10:43.584 --> 01:10:46.285
+Nick Ortiz and Nick Golden. And to my executive
+
+1402
+01:10:46.294 --> 01:10:50.334
+producers, Matthew Lavender, Si, Adrian Bogdan Knit and Rosie.
+
+1403
+01:10:50.345 --> 01:10:51.294
+Thank you for all.
+
