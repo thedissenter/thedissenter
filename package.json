@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@incharge/transcript-cli": "^0.0.4-alpha.10",
+    "@incharge/transcript-core": "^0.0.4-alpha.9"
+  }
 }
