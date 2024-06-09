@@ -5,6 +5,37 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Node.js createIc",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/transcript-cli",
+            "program": "bin/cli.js",
+            "args" : [
+                "createid"
+            ]
+        },
+        {
+            "name": "Node.js AwsToIc",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/transcript-cli",
+            "program": "bin/cli.js",
+            "args" : [
+                "awstoic",
+                "test/924-aws-pretty.json",
+                "test/924-ic-test.json",
+            ]
+        },
+        {
+            "name": "Node.js Create Pages",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/transcript-cli",
+            "program": "bin/createpages.ts",
+            "ignore-preLaunchTask": "tsc: build - tsconfig.json",
+            "ignore-outFiles": ["${workspaceFolder}/out/**/*.js"]
+        },
+        {
             "name": "Proofread Transcript",
             "type": "chrome",
             "request":"launch",
