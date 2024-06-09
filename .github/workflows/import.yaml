@@ -8,7 +8,7 @@ on:
   # Cron spec is quoted because * is a special character in YAML
   # Run at 20:00, then again at 20:15 by when the transcription should have completed
   #        M     H   DoM M   DoW
-  - cron: '0,15  20  *   *   *'
+  - cron: '5,20  19  *   *   *'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
