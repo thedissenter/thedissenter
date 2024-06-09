@@ -1,49 +1,22 @@
-excerpt: 'Dr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht University.
-  His research centers on climate ethics and on investigating the nature of socially
-  disruptive technologies.  '
-filename: 867-jeroen-hopster--julia-hermann--ibo-van-de-poel-ethics-of-socially-disruptive-technologies
-id: '867'
-image: https://i.ytimg.com/vi/Q9D4wlp8yrg/maxresdefault.jpg
-interviewee:
-- Jeroen Hopster
-- Julia Hermann
-- Ibo van de Poel
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/867-jeroen-hopster-julia-hermann-ibo-van-de-poel/id1451347236?i=1000637081451&uo=4
-published: '2023-11-30'
-shownotes: "RECORDED ON NOVEMBER 10th 2023.  \nDr. Jeroen Hopster is an Assistant\
-  \ Professor of ethics at Utrecht University. His research centers on climate ethics\
-  \ and on investigating the nature of socially disruptive technologies.  \nDr. Julia\
-  \ Hermann is an Assistant Professor of philosophy and ethics at the University of\
-  \ Twente where she works on ectogestative technology, care robots, technomoral change\
-  \ and progress, and new methodologies in the ethics of technology.  \nDr. Ibo van\
-  \ de Poel is a Professor in ethics of technology at Delft University of Technology.\
-  \ His research focuses on values, technology and design and how values, and related\
-  \ concepts that address ethical issues in technology (can) change over time.  \n\
-  They are editors of Ethics of Socially Disruptive Technologies: An Introduction.\n\
-  \nIn this episode, we focus on Ethics of Socially Disruptive Technologies. We start\
-  \ by discussing the ethics of technology, what socially disruptive technologies\
-  \ are, and the intercultural outlook of the book. We then go through social media,\
-  \ social robots, climate engineering, and ectogestative technology. We also discuss\
-  \ who should be held responsible for social disruption, and whether technology is\
-  \ neutral.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:48</time> How\
-  \ the book came about  \n<time>02:18</time> The ethics of technology  \n<time>03:53</time>\
-  \ What are socially disruptive technologies?  \n<time>08:36</time> An intercultural\
-  \ outlook on technology  \n<time>15:53</time> Social media and democracy  \n<time>20:27</time>\
-  \ Social robots, and what is unique about humans  \n<time>35:19</time> Climate engineering\
-  \  \n<time>46:11</time> Ectogestative technology, parenting, and gender roles  \n\
-  <time>55:39</time> Who should be held responsible for social disruption?  \n<time>59:56</time>\
-  \ Is technology neutral?  \n<time>1:02:55</time> Final messages  \n<time>1:07:03</time>\
-  \ Follow Drs. Hopster, Hermann, and van de Poel\u2019s work!\n\n---\n\nEthics of\
-  \ Socially Disruptive Technologies: https://bit.ly/48DshUP\n\nFollow Dr. Hopster\u2019\
-  s work:  \nWebsite: http://bit.ly/3bEajE3  \nPhilPeople profile: https://bit.ly/2wleHbf\n\
-  \nAnd Dr. Hermann\u2019s work:  \nFaculty page: https://bit.ly/45ZCM2F  \nAcademia.edu\
-  \ page: https://bit.ly/3Zvt1qU\n\nAnd Dr. van de Poel\u2019s work:  \nFaculty page:\
-  \ https://bit.ly/3EPmRs4  \nResearchGate profile: https://bit.ly/3PrUVzo\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/78444137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F6d33ab18-d913-614b-85dc-91bf634ad3a7.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/867-Jeroen-Hopster--Julia-Hermann--Ibo-van-de-Poel-Ethics-of-Socially-Disruptive-Technologies-e2boe59
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1699618746823-9496bb5def199.jpg
-tags:
-- Philosophy
-title: '#867 Jeroen Hopster, Julia Hermann & Ibo van de Poel: Ethics of Socially Disruptive
-  Technologies'
-youtubeid: Q9D4wlp8yrg
+{
+	"excerpt": "Dr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht University. His research centers on climate ethics and on investigating the nature of socially disruptive technologies.  ",
+	"filename": "867-jeroen-hopster--julia-hermann--ibo-van-de-poel-ethics-of-socially-disruptive-technologies",
+	"image": "https://i.ytimg.com/vi/Q9D4wlp8yrg/maxresdefault.jpg",
+	"interviewee": [
+		"Jeroen Hopster",
+		"Julia Hermann",
+		"Ibo van de Poel"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/867-jeroen-hopster-julia-hermann-ibo-van-de-poel/id1451347236?i=1000637081451&uo=4",
+	"published": "2023-11-30",
+	"shownotes": "RECORDED ON NOVEMBER 10th 2023.  \nDr. Jeroen Hopster is an Assistant Professor of ethics at Utrecht University. His research centers on climate ethics and on investigating the nature of socially disruptive technologies.  \nDr. Julia Hermann is an Assistant Professor of philosophy and ethics at the University of Twente where she works on ectogestative technology, care robots, technomoral change and progress, and new methodologies in the ethics of technology.  \nDr. Ibo van de Poel is a Professor in ethics of technology at Delft University of Technology. His research focuses on values, technology and design and how values, and related concepts that address ethical issues in technology (can) change over time.  \nThey are editors of Ethics of Socially Disruptive Technologies: An Introduction.\n\nIn this episode, we focus on Ethics of Socially Disruptive Technologies. We start by discussing the ethics of technology, what socially disruptive technologies are, and the intercultural outlook of the book. We then go through social media, social robots, climate engineering, and ectogestative technology. We also discuss who should be held responsible for social disruption, and whether technology is neutral.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:48</time> How the book came about  \n<time>02:18</time> The ethics of technology  \n<time>03:53</time> What are socially disruptive technologies?  \n<time>08:36</time> An intercultural outlook on technology  \n<time>15:53</time> Social media and democracy  \n<time>20:27</time> Social robots, and what is unique about humans  \n<time>35:19</time> Climate engineering  \n<time>46:11</time> Ectogestative technology, parenting, and gender roles  \n<time>55:39</time> Who should be held responsible for social disruption?  \n<time>59:56</time> Is technology neutral?  \n<time>1:02:55</time> Final messages  \n<time>1:07:03</time> Follow Drs. Hopster, Hermann, and van de Poel’s work!\n\n---\n\nEthics of Socially Disruptive Technologies: https://bit.ly/48DshUP\n\nFollow Dr. Hopster’s work:  \nWebsite: http://bit.ly/3bEajE3  \nPhilPeople profile: https://bit.ly/2wleHbf\n\nAnd Dr. Hermann’s work:  \nFaculty page: https://bit.ly/45ZCM2F  \nAcademia.edu page: https://bit.ly/3Zvt1qU\n\nAnd Dr. van de Poel’s work:  \nFaculty page: https://bit.ly/3EPmRs4  \nResearchGate profile: https://bit.ly/3PrUVzo\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/78444137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F6d33ab18-d913-614b-85dc-91bf634ad3a7.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/867-Jeroen-Hopster--Julia-Hermann--Ibo-van-de-Poel-Ethics-of-Socially-Disruptive-Technologies-e2boe59",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1699618746823-9496bb5def199.jpg",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#867 Jeroen Hopster, Julia Hermann & Ibo van de Poel: Ethics of Socially Disruptive Technologies",
+	"youtubeid": "Q9D4wlp8yrg",
+	"episodeid": "867"
+}

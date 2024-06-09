@@ -1,40 +1,19 @@
-excerpt: "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cornell\
-  \ University. He works in philosophy of cognitive science. Most of his research\
-  \ concerns the psychological foundations of philosophical thought. Recently he\u2019\
-  s been drawing on learning theory to try to understand how people acquire philosophically\
-  \ significant concepts and distinctions, especially in the domain of morality."
-filename: 339-shaun-nichols-the-philosophy-and-psychology-of-morality
-id: '339'
-image: https://i.ytimg.com/vi/OppfzA7oTf0/maxresdefault.jpg
-interviewee:
-- Shaun Nichols
-published: '2020-05-28'
-shownotes: "RECORDED ON April 15th, 2020.  \nDr. Shaun Nichols is Professor in the\
-  \ Sage School of Philosophy at Cornell University. He works in philosophy of cognitive\
-  \ science. Most of his research concerns the psychological foundations of philosophical\
-  \ thought. Recently he\u2019s been drawing on learning theory to try to understand\
-  \ how people acquire philosophically significant concepts and distinctions, especially\
-  \ in the domain of morality.\n\nIn this episode, we talk about morality. We approach\
-  \ it from a philosophical and scientific perspective. We discuss the role that emotions\
-  \ and other mental mechanisms play. We also refer to child development, learning,\
-  \ and human universals and the folk psychology of morality. Then, we talk about\
-  \ psychopathy and moral rationalism; the link between morality and violence; and\
-  \ the is-ought dichotomy. Finally, we discuss a possible new kind of moral realism.\n\
-  \nTime Links:  \n<time>00:45</time> Morality from a philosophical and scientific\
-  \ perspective  \n<time>05:36</time> Are emotions that important?  \n<time>09:07</time>\
-  \ The most important mental mechanisms  \n<time>20:11</time> Development, Piaget,\
-  \ and learning  \n<time>23:23</time> Human universals in morality  \n<time>25:18</time>\
-  \ The folk psychology of morality  \n<time>32:15</time> Psychopathy and moral rationalism\
-  \  \n<time>41:17</time> The link between morality and violence  \n<time>42:44</time>\
-  \ The is-ought dichotomy, moral psychology and philosophical ethics  \n<time>46:45</time>\
-  \ A new kind of moral realism?  \n<time>51:01</time> Follow Dr. Nichols\u2019 work!\n\
-  \n---\n\nFollow Dr. Nichols\u2019 work:  \nFaculty page: http://bit.ly/2SNizJ3 \
-  \ \nWebsite: https://bit.ly/34DRr51  \nGoogle Scholar profile: https://bit.ly/2K9ugpB\
-  \  \nPhilPeople profile: https://bit.ly/2VeLk3K  \nResearchGate profile: https://bit.ly/2z6myKO\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/12665137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66052586-44100-2-fa1facb40fc72.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/339-Shaun-Nichols-The-Philosophy-And-Psychology-Of-Morality-ed10rh
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1587382128059-1b486bbc389ca.jpg
-tags:
-- Philosophy
-title: '#339 Shaun Nichols: The Philosophy And Psychology Of Morality'
-youtubeid: OppfzA7oTf0
+{
+	"excerpt": "Dr. Shaun Nichols is Professor in the Sage School of Philosophy at Cornell University. He works in philosophy of cognitive science. Most of his research concerns the psychological foundations of philosophical thought. Recently he’s been drawing on learning theory to try to understand how people acquire philosophically significant concepts and distinctions, especially in the domain of morality.",
+	"filename": "339-shaun-nichols-the-philosophy-and-psychology-of-morality",
+	"image": "https://i.ytimg.com/vi/OppfzA7oTf0/maxresdefault.jpg",
+	"interviewee": [
+		"Shaun Nichols"
+	],
+	"published": "2020-05-28",
+	"shownotes": "RECORDED ON April 15th, 2020.  \nDr. Shaun Nichols is Professor in the Sage School of Philosophy at Cornell University. He works in philosophy of cognitive science. Most of his research concerns the psychological foundations of philosophical thought. Recently he’s been drawing on learning theory to try to understand how people acquire philosophically significant concepts and distinctions, especially in the domain of morality.\n\nIn this episode, we talk about morality. We approach it from a philosophical and scientific perspective. We discuss the role that emotions and other mental mechanisms play. We also refer to child development, learning, and human universals and the folk psychology of morality. Then, we talk about psychopathy and moral rationalism; the link between morality and violence; and the is-ought dichotomy. Finally, we discuss a possible new kind of moral realism.\n\nTime Links:  \n<time>00:45</time> Morality from a philosophical and scientific perspective  \n<time>05:36</time> Are emotions that important?  \n<time>09:07</time> The most important mental mechanisms  \n<time>20:11</time> Development, Piaget, and learning  \n<time>23:23</time> Human universals in morality  \n<time>25:18</time> The folk psychology of morality  \n<time>32:15</time> Psychopathy and moral rationalism  \n<time>41:17</time> The link between morality and violence  \n<time>42:44</time> The is-ought dichotomy, moral psychology and philosophical ethics  \n<time>46:45</time> A new kind of moral realism?  \n<time>51:01</time> Follow Dr. Nichols’ work!\n\n---\n\nFollow Dr. Nichols’ work:  \nFaculty page: http://bit.ly/2SNizJ3  \nWebsite: https://bit.ly/34DRr51  \nGoogle Scholar profile: https://bit.ly/2K9ugpB  \nPhilPeople profile: https://bit.ly/2VeLk3K  \nResearchGate profile: https://bit.ly/2z6myKO\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/12665137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-20%2F66052586-44100-2-fa1facb40fc72.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/339-Shaun-Nichols-The-Philosophy-And-Psychology-Of-Morality-ed10rh",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1587382128059-1b486bbc389ca.jpg",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#339 Shaun Nichols: The Philosophy And Psychology Of Morality",
+	"youtubeid": "OppfzA7oTf0",
+	"episodeid": "339"
+}

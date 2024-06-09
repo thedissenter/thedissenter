@@ -1,48 +1,20 @@
-excerpt: 'Dr. Robert Pennock is University Distinguished Professor at Michigan State
-  University, where he is on the faculty of Lyman Briggs College, the Departments
-  of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and
-  Behavior program. His research involves empirical and philosophical questions that
-  relate to evolutionary biology, cognitive science, and the scientific character,
-  such as the evolution of altruism, complexity, and intelligence. He is the author
-  of books like An Instinct for Truth: Curiosity and the Moral Character of Science.'
-filename: 629-robert-pennock---an-instinct-for-truth-curiosity-and-the-moral-character-of-science
-id: '629'
-image: https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg
-interviewee:
-- Robert Pennock
-published: '2022-05-23'
-shownotes: "RECORDED ON FEBRUARY 22nd 2022.  \nDr. Robert Pennock is University Distinguished\
-  \ Professor at Michigan State University, where he is on the faculty of Lyman Briggs\
-  \ College, the Departments of Philosophy and Computer Science & Engineering, and\
-  \ the Ecology, Evolution and Behavior program. His research involves empirical and\
-  \ philosophical questions that relate to evolutionary biology, cognitive science,\
-  \ and the scientific character, such as the evolution of altruism, complexity, and\
-  \ intelligence. He is the author of books like An Instinct for Truth: Curiosity\
-  \ and the Moral Character of Science.\n\nIn this episode, we focus on An Instinct\
-  \ for Truth. We go through some of the traits that characterize (or should characterize)\
-  \ scientists, like curiosity, honesty, skepticism, and intellectual humility. We\
-  \ talk about moral values that orient science, and the importance of failure. We\
-  \ discuss the scientific method, the demarcation problem, and pseudoscience. We\
-  \ talk about the relationship between science and ethics. Finally, we ask if science\
-  \ is a cultural construct.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:51</time>\
-  \ The traits of a scientist  \n<time>05:43</time> Are we innately predisposed to\
-  \ science?  \n<time>08:22</time> Curiosity  \n<time>09:48</time> Is there a set\
-  \ of moral values that orient science?  \n<time>13:50</time> Are virtues inherent\
-  \ to scientists or derived from their social milieu?  \n<time>19:27</time> Honesty\
-  \  \n<time>23:59</time> Skepticism  \n<time>29:26</time> Intellectual humility \
-  \ \n<time>32:10</time> The importance of failure  \n<time>34:31</time> The scientific\
-  \ method, and the demarcation problem  \n<time>45:16</time> Pseudoscience  \n<time>49:17</time>\
-  \ A relationship between science and ethics  \n<time>59:49</time> Is science a cultural\
-  \ construct?  \n<time>1:04:02</time> Follow Dr. Pennock\u2019s work!\n\n---\n\n\
-  Follow Dr. Pennock\u2019s work:  \nFaculty page: https://bit.ly/2ZDkaZz  \nResearchGate\
-  \ profile: https://bit.ly/3nHIGk6  \nAmazon page: https://amzn.to/3pP2Ag0  \nAn\
-  \ Instinct for Truth: https://amzn.to/2ZwX9XM\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/629-Robert-Pennock---An-Instinct-for-Truth-Curiosity-and-the-Moral-Character-of-Science-e1ep5nu
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1645563838221-3d13dd84085c9.jpg
-tags:
-- General Science
-- Philosophy
-title: '#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character
-  of Science'
-youtubeid: P9I3S4wVZ44
+{
+	"excerpt": "Dr. Robert Pennock is University Distinguished Professor at Michigan State University, where he is on the faculty of Lyman Briggs College, the Departments of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and Behavior program. His research involves empirical and philosophical questions that relate to evolutionary biology, cognitive science, and the scientific character, such as the evolution of altruism, complexity, and intelligence. He is the author of books like An Instinct for Truth: Curiosity and the Moral Character of Science.",
+	"filename": "629-robert-pennock---an-instinct-for-truth-curiosity-and-the-moral-character-of-science",
+	"image": "https://i.ytimg.com/vi/P9I3S4wVZ44/maxresdefault.jpg",
+	"interviewee": [
+		"Robert Pennock"
+	],
+	"published": "2022-05-23",
+	"shownotes": "RECORDED ON FEBRUARY 22nd 2022.  \nDr. Robert Pennock is University Distinguished Professor at Michigan State University, where he is on the faculty of Lyman Briggs College, the Departments of Philosophy and Computer Science & Engineering, and the Ecology, Evolution and Behavior program. His research involves empirical and philosophical questions that relate to evolutionary biology, cognitive science, and the scientific character, such as the evolution of altruism, complexity, and intelligence. He is the author of books like An Instinct for Truth: Curiosity and the Moral Character of Science.\n\nIn this episode, we focus on An Instinct for Truth. We go through some of the traits that characterize (or should characterize) scientists, like curiosity, honesty, skepticism, and intellectual humility. We talk about moral values that orient science, and the importance of failure. We discuss the scientific method, the demarcation problem, and pseudoscience. We talk about the relationship between science and ethics. Finally, we ask if science is a cultural construct.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:51</time> The traits of a scientist  \n<time>05:43</time> Are we innately predisposed to science?  \n<time>08:22</time> Curiosity  \n<time>09:48</time> Is there a set of moral values that orient science?  \n<time>13:50</time> Are virtues inherent to scientists or derived from their social milieu?  \n<time>19:27</time> Honesty  \n<time>23:59</time> Skepticism  \n<time>29:26</time> Intellectual humility  \n<time>32:10</time> The importance of failure  \n<time>34:31</time> The scientific method, and the demarcation problem  \n<time>45:16</time> Pseudoscience  \n<time>49:17</time> A relationship between science and ethics  \n<time>59:49</time> Is science a cultural construct?  \n<time>1:04:02</time> Follow Dr. Pennock’s work!\n\n---\n\nFollow Dr. Pennock’s work:  \nFaculty page: https://bit.ly/2ZDkaZz  \nResearchGate profile: https://bit.ly/3nHIGk6  \nAmazon page: https://amzn.to/3pP2Ag0  \nAn Instinct for Truth: https://amzn.to/2ZwX9XM\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/48059582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-22%2F8503eacf-3965-17b9-9c44-3b2814d6be17.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/629-Robert-Pennock---An-Instinct-for-Truth-Curiosity-and-the-Moral-Character-of-Science-e1ep5nu",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1645563838221-3d13dd84085c9.jpg",
+	"tags": [
+		"General Science",
+		"Philosophy"
+	],
+	"title": "#629 Robert Pennock - An Instinct for Truth: Curiosity and the Moral Character of Science",
+	"youtubeid": "P9I3S4wVZ44",
+	"episodeid": "629"
+}

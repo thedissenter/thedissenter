@@ -1,49 +1,20 @@
-excerpt: "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where\
-  \ he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal\
-  \ cognition in plants. Dr. Calvo\u2019s interdisciplinary work combines insights\
-  \ from biology, philosophy, and cognitive science to explore the fascinating world\
-  \ of plant behavior, decision-making, and problem-solving. By investigating the\
-  \ complex interactions and adaptive responses exhibited by plants, Dr. Calvo has\
-  \ significantly contributed to our understanding of cognition beyond the animal\
-  \ kingdom, challenging conventional perspectives on intelligence and mental capacities.\
-  \ He is the author of Planta Sapiens: The New Science of Plant Intelligence."
-filename: 894-paco-calvo---planta-sapiens-the-new-science-of-plant-intelligence
-id: '894'
-image: https://i.ytimg.com/vi/mbvrEBajXPg/maxresdefault.jpg
-interviewee:
-- Paco Calvo
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/894-paco-calvo-planta-sapiens-the-new-science-of/id1451347236?i=1000643848416&uo=4
-published: '2024-02-01'
-shownotes: "RECORDED ON SEPTEMBER 26th 2023.  \nDr. Paco Calvo is a Professor at the\
-  \ University of Murcia in Spain, where he leads the Minimal Intelligence Lab (MINT\
-  \ Lab), focusing on the study of minimal cognition in plants. Dr. Calvo\u2019s interdisciplinary\
-  \ work combines insights from biology, philosophy, and cognitive science to explore\
-  \ the fascinating world of plant behavior, decision-making, and problem-solving.\
-  \ By investigating the complex interactions and adaptive responses exhibited by\
-  \ plants, Dr. Calvo has significantly contributed to our understanding of cognition\
-  \ beyond the animal kingdom, challenging conventional perspectives on intelligence\
-  \ and mental capacities. He is the author of Planta Sapiens: The New Science of\
-  \ Plant Intelligence.\n\nIn this episode, we focus on Planta Sapiens. We start by\
-  \ discussing what intelligence means, and how to maintain some degree of skepticism\
-  \ when it comes to comparing plants to animals. We talk about how plants behave,\
-  \ cognitive behavior, how they learn, how they communicate, differences between\
-  \ domesticated plants and wild plants, and plant biochemistry. We discuss whether\
-  \ plants can have minds, and whether they can experience emotions, pain, and consciousness.\
-  \ Finally, we talk about the potential ethical implications.\n\nTime Links:  \n\
-  <time>00:00</time> Intro  \n<time>00:33</time> What is intelligence?  \n<time>11:00</time>\
-  \ Maintaining some skepticism when it comes to comparing plants to animals  \n<time>19:42</time>\
-  \ How do plants behave?  \n<time>27:15</time> Cognitive behavior  \n<time>29:29</time>\
-  \ Do plants learn?  \n<time>37:10</time> How plants communicate  \n<time>44:30</time>\
-  \ Differences between domesticated plants and wild plants  \n<time>49:12</time>\
-  \ Plant biochemistry  \n<time>57:10</time> Can plants have minds?  \n<time>1:03:20</time>\
-  \ Can plants experience emotions, pain, and consciousness?  \n<time>1:09:15</time>\
-  \ Ethical implications  \n<time>1:14:56</time> Follow Dr. Calvo\u2019s work!\n\n\
-  ---\n\nFollow Dr. Calvo\u2019s work:  \nFaculty page: https://bit.ly/3RnSnVq  \n\
-  ResearchGate profile: https://bit.ly/3RoBREA  \nPlanta Sapiens: https://bit.ly/44WRBC1\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/76411934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fa91fd9b2-2743-ff88-761c-e35c3a7e238f.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/894-Paco-Calvo---Planta-Sapiens-The-New-Science-of-Plant-Intelligence-e29qdiu
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1695749086861-b18230f875c99.jpg
-tags:
-- Biology
-title: '#894 Paco Calvo - Planta Sapiens: The New Science of Plant Intelligence'
-youtubeid: mbvrEBajXPg
+{
+	"excerpt": "Dr. Paco Calvo is a Professor at the University of Murcia in Spain, where he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal cognition in plants. Dr. Calvo’s interdisciplinary work combines insights from biology, philosophy, and cognitive science to explore the fascinating world of plant behavior, decision-making, and problem-solving. By investigating the complex interactions and adaptive responses exhibited by plants, Dr. Calvo has significantly contributed to our understanding of cognition beyond the animal kingdom, challenging conventional perspectives on intelligence and mental capacities. He is the author of Planta Sapiens: The New Science of Plant Intelligence.",
+	"filename": "894-paco-calvo---planta-sapiens-the-new-science-of-plant-intelligence",
+	"image": "https://i.ytimg.com/vi/mbvrEBajXPg/maxresdefault.jpg",
+	"interviewee": [
+		"Paco Calvo"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/894-paco-calvo-planta-sapiens-the-new-science-of/id1451347236?i=1000643848416&uo=4",
+	"published": "2024-02-01",
+	"shownotes": "RECORDED ON SEPTEMBER 26th 2023.  \nDr. Paco Calvo is a Professor at the University of Murcia in Spain, where he leads the Minimal Intelligence Lab (MINT Lab), focusing on the study of minimal cognition in plants. Dr. Calvo’s interdisciplinary work combines insights from biology, philosophy, and cognitive science to explore the fascinating world of plant behavior, decision-making, and problem-solving. By investigating the complex interactions and adaptive responses exhibited by plants, Dr. Calvo has significantly contributed to our understanding of cognition beyond the animal kingdom, challenging conventional perspectives on intelligence and mental capacities. He is the author of Planta Sapiens: The New Science of Plant Intelligence.\n\nIn this episode, we focus on Planta Sapiens. We start by discussing what intelligence means, and how to maintain some degree of skepticism when it comes to comparing plants to animals. We talk about how plants behave, cognitive behavior, how they learn, how they communicate, differences between domesticated plants and wild plants, and plant biochemistry. We discuss whether plants can have minds, and whether they can experience emotions, pain, and consciousness. Finally, we talk about the potential ethical implications.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:33</time> What is intelligence?  \n<time>11:00</time> Maintaining some skepticism when it comes to comparing plants to animals  \n<time>19:42</time> How do plants behave?  \n<time>27:15</time> Cognitive behavior  \n<time>29:29</time> Do plants learn?  \n<time>37:10</time> How plants communicate  \n<time>44:30</time> Differences between domesticated plants and wild plants  \n<time>49:12</time> Plant biochemistry  \n<time>57:10</time> Can plants have minds?  \n<time>1:03:20</time> Can plants experience emotions, pain, and consciousness?  \n<time>1:09:15</time> Ethical implications  \n<time>1:14:56</time> Follow Dr. Calvo’s work!\n\n---\n\nFollow Dr. Calvo’s work:  \nFaculty page: https://bit.ly/3RnSnVq  \nResearchGate profile: https://bit.ly/3RoBREA  \nPlanta Sapiens: https://bit.ly/44WRBC1\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/76411934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-26%2Fa91fd9b2-2743-ff88-761c-e35c3a7e238f.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/894-Paco-Calvo---Planta-Sapiens-The-New-Science-of-Plant-Intelligence-e29qdiu",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1695749086861-b18230f875c99.jpg",
+	"tags": [
+		"Biology"
+	],
+	"title": "#894 Paco Calvo - Planta Sapiens: The New Science of Plant Intelligence",
+	"youtubeid": "mbvrEBajXPg",
+	"episodeid": "894"
+}

@@ -1,52 +1,23 @@
-excerpt: 'Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences
-  (tenured) at the University of Central Florida. He is concurrently a Fellow in the
-  Research Corporation for Science Advancement''s Molecular Basis of Cognition Scialog
-  program. His research attempts to understand mind (i.e., behavior, cognition, and
-  consciousness) from a naturalistic and interdisciplinary perspective. He is the
-  author of The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment.'
-filename: 903-luis-favela---the-ecological-brain-unifying-the-sciences-of-brain--body--and-environment
-id: '903'
-image: https://i.ytimg.com/vi/TLpop_LqHsE/maxresdefault.jpg
-interviewee:
-- Luis Favela
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/903-luis-favela-the-ecological-brain-unifying/id1451347236?i=1000646434965&uo=4
-published: '2024-02-22'
-shownotes: "RECORDED ON JANUARY 3rd 2024.  \nDr. Luis Favela is an Associate Professor\
-  \ of Philosophy and Cognitive Sciences (tenured) at the University of Central Florida.\
-  \ He is concurrently a Fellow in the Research Corporation for Science Advancement's\
-  \ Molecular Basis of Cognition Scialog program. His research attempts to understand\
-  \ mind (i.e., behavior, cognition, and consciousness) from a naturalistic and interdisciplinary\
-  \ perspective. He is the author of The Ecological Brain: Unifying the Sciences of\
-  \ Brain, Body, and Environment.\n\nIn this episode, we focus on The Ecological Brain.\
-  \ We first discuss ecological psychology, and neuroscience, how they split historically,\
-  \ and why it seems hard to reconcile them. We talk about two traditions in neuroscience:\
-  \ one focusing on biological features of neurons, and the other focusing on abstract\
-  \ features of neurons. We discuss complexity science. We get into Dr. Favela\u2019\
-  s NExT (NeuroEcological Nexus Theory) framework, the hypotheses derived from it,\
-  \ and limitations of brain-centered approaches. We discuss what the ecological brain\
-  \ is. Finally, we talk about the main challenges to the NExT framework, non-mechanistic\
-  \ explanations, and the importance of interdisciplinarity.\n\nTime Links:  \n<time>00:00</time>\
-  \ Intro  \n<time>00:39</time> What is ecological psychology?  \n<time>11:17</time>\
-  \ Why ecological psychology and neuroscience diverged historically  \n<time>17:31</time>\
-  \ Two traditions in neuroscience  \n<time>27:00</time> Ecological neuroscience \
-  \ \n<time>32:16</time> Complexity science  \n<time>35:34</time> The NExT (NeuroEcological\
-  \ Nexus Theory) framework  \n<time>47:40</time> The limitations of brain-centered\
-  \ approaches  \n<time>55:06</time> What is the ecological brain, then?  \n<time>1:02:42</time>\
-  \ The main challenges to the NExT framework  \n<time>1:06:55</time> Non-mechanistic\
-  \ explanations  \n<time>1:16:08</time> The importance of interdisciplinarity  \n\
-  <time>1:26:35</time> Follow Dr. Favela\u2019s work!\n\n---\n\nFollow Dr. Favela\u2019\
-  s work:  \nOur first interview: https://youtu.be/c2iMOqFgYKM  \nFaculty page: https://bit.ly/43m4xAN\
-  \  \nWebsite: https://bit.ly/3IH4isf  \nPhilPeople profile: https://bit.ly/3OxcT4A\
-  \  \nThe Ecological Brain: http://tinyurl.com/phk9d4jm (Discount code for the book:\
-  \ EFL04, valid until March 31st 2024)\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/81314574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2Fe9f1bbb2-04bc-a5ed-fd0d-8c0937794c8c.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/903-Luis-Favela---The-Ecological-Brain-Unifying-the-Sciences-of-Brain--Body--and-Environment-e2eg1ae
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1705347852882-f8467dc87cef3.jpg
-tags:
-- Cognitive Science
-- Neuroscience
-- Philosophy
-- Psychology
-title: '#903 Luis Favela - The Ecological Brain: Unifying the Sciences of Brain, Body,
-  and Environment'
-youtubeid: TLpop_LqHsE
+{
+	"excerpt": "Dr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences (tenured) at the University of Central Florida. He is concurrently a Fellow in the Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog program. His research attempts to understand mind (i.e., behavior, cognition, and consciousness) from a naturalistic and interdisciplinary perspective. He is the author of The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment.",
+	"filename": "903-luis-favela---the-ecological-brain-unifying-the-sciences-of-brain--body--and-environment",
+	"image": "https://i.ytimg.com/vi/TLpop_LqHsE/maxresdefault.jpg",
+	"interviewee": [
+		"Luis Favela"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/903-luis-favela-the-ecological-brain-unifying/id1451347236?i=1000646434965&uo=4",
+	"published": "2024-02-22",
+	"shownotes": "RECORDED ON JANUARY 3rd 2024.  \nDr. Luis Favela is an Associate Professor of Philosophy and Cognitive Sciences (tenured) at the University of Central Florida. He is concurrently a Fellow in the Research Corporation for Science Advancement's Molecular Basis of Cognition Scialog program. His research attempts to understand mind (i.e., behavior, cognition, and consciousness) from a naturalistic and interdisciplinary perspective. He is the author of The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment.\n\nIn this episode, we focus on The Ecological Brain. We first discuss ecological psychology, and neuroscience, how they split historically, and why it seems hard to reconcile them. We talk about two traditions in neuroscience: one focusing on biological features of neurons, and the other focusing on abstract features of neurons. We discuss complexity science. We get into Dr. Favela’s NExT (NeuroEcological Nexus Theory) framework, the hypotheses derived from it, and limitations of brain-centered approaches. We discuss what the ecological brain is. Finally, we talk about the main challenges to the NExT framework, non-mechanistic explanations, and the importance of interdisciplinarity.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:39</time> What is ecological psychology?  \n<time>11:17</time> Why ecological psychology and neuroscience diverged historically  \n<time>17:31</time> Two traditions in neuroscience  \n<time>27:00</time> Ecological neuroscience  \n<time>32:16</time> Complexity science  \n<time>35:34</time> The NExT (NeuroEcological Nexus Theory) framework  \n<time>47:40</time> The limitations of brain-centered approaches  \n<time>55:06</time> What is the ecological brain, then?  \n<time>1:02:42</time> The main challenges to the NExT framework  \n<time>1:06:55</time> Non-mechanistic explanations  \n<time>1:16:08</time> The importance of interdisciplinarity  \n<time>1:26:35</time> Follow Dr. Favela’s work!\n\n---\n\nFollow Dr. Favela’s work:  \nOur first interview: https://youtu.be/c2iMOqFgYKM  \nFaculty page: https://bit.ly/43m4xAN  \nWebsite: https://bit.ly/3IH4isf  \nPhilPeople profile: https://bit.ly/3OxcT4A  \nThe Ecological Brain: http://tinyurl.com/phk9d4jm (Discount code for the book: EFL04, valid until March 31st 2024)\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/81314574/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-15%2Fe9f1bbb2-04bc-a5ed-fd0d-8c0937794c8c.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/903-Luis-Favela---The-Ecological-Brain-Unifying-the-Sciences-of-Brain--Body--and-Environment-e2eg1ae",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1705347852882-f8467dc87cef3.jpg",
+	"tags": [
+		"Cognitive Science",
+		"Neuroscience",
+		"Philosophy",
+		"Psychology"
+	],
+	"title": "#903 Luis Favela - The Ecological Brain: Unifying the Sciences of Brain, Body, and Environment",
+	"youtubeid": "TLpop_LqHsE",
+	"episodeid": "903"
+}

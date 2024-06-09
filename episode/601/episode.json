@@ -1,40 +1,21 @@
-excerpt: "Dr. Henrik H\xF8gh-Olesen is Professor of Psychology at Aarhus University.\
-  \ His research interests include Evolutionary psychology, Comparative psychology/Ethology,\
-  \ Primatology, Aesthetics, Psychology of religion, and History of psychology. He\
-  \ is the author of 13 scientific books, including The Aesthetic Animal."
-filename: 601-henrik-hgh-olesen---the-aesthetic-animal
-id: '601'
-image: https://i.ytimg.com/vi/m7pMOpAFozk/maxresdefault.jpg
-interviewee:
-- "Henrik H\xF8gh-Olesen"
-published: '2022-03-18'
-shownotes: "RECORDED ON DECEMBER 7th 2021.  \nDr. Henrik H\xF8gh-Olesen is Professor\
-  \ of Psychology at Aarhus University. His research interests include Evolutionary\
-  \ psychology, Comparative psychology/Ethology, Primatology, Aesthetics, Psychology\
-  \ of religion, and History of psychology. He is the author of 13 scientific books,\
-  \ including The Aesthetic Animal.\n\nIn this episode, we focus on The Aesthetic\
-  \ Animal. We talk about the aesthetic impulse, and the evolution of art and aesthetic\
-  \ appreciation. We also discuss individual differences in art appreciation. We go\
-  \ through the evolution and social functions of body ornamentation, song, dance,\
-  \ music, and fiction. We talk a bit about the neuroscience of aesthetics, and the\
-  \ role existential uncertainty might play in art production. Finally, we talk about\
-  \ how we can improve human wellbeing by learning more about our \u201Caesthetic\
-  \ impulse\u201D, mostly through architecture.\n\nTime Links:  \n<time>00:00</time>\
-  \ Intro  \n<time>00:34</time> The aesthetic impulse  \n<time>01:40</time> The evolution\
-  \ of art and aesthetic appreciation  \n<time>17:07</time> Individual differences\
-  \ in art appreciation  \n<time>21:09</time> Body ornamentation  \n<time>26:14</time>\
-  \ Song, dance, music  \n<time>29:47</time> Fiction  \n<time>33:12</time> The neuroscience\
-  \ of aesthetics  \n<time>34:24</time> Existential uncertainty  \n<time>37:37</time>\
-  \ Improving human wellbeing through art  \n<time>42:27</time> Follow Dr. H\xF8gh-Olesen\u2019\
-  s work!\n\n---\n\nFollow Dr. H\xF8gh-Olesen\u2019s work:  \nFaculty page: https://bit.ly/2O7WCGv\
-  \  \nResearchGate profile: https://bit.ly/3echnLL  \nBooks on Amazon: https://amzn.to/2SlFMWK\
-  \  \nThe Aesthetic Animal: https://amzn.to/2MOAss3\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/44647740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F56ab91ac-c51b-6e22-0aa7-2cc85f232e9b.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/601-Henrik-Hgh-Olesen---The-Aesthetic-Animal-e1bh1rs
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1639134907304-c6cb6a49a994d.jpg
-tags:
-- Art
-- Biology
-- Psychology
-title: "#601 Henrik H\xF8gh-Olesen - The Aesthetic Animal"
-youtubeid: m7pMOpAFozk
+{
+	"excerpt": "Dr. Henrik Høgh-Olesen is Professor of Psychology at Aarhus University. His research interests include Evolutionary psychology, Comparative psychology/Ethology, Primatology, Aesthetics, Psychology of religion, and History of psychology. He is the author of 13 scientific books, including The Aesthetic Animal.",
+	"filename": "601-henrik-hgh-olesen---the-aesthetic-animal",
+	"image": "https://i.ytimg.com/vi/m7pMOpAFozk/maxresdefault.jpg",
+	"interviewee": [
+		"Henrik Høgh-Olesen"
+	],
+	"published": "2022-03-18",
+	"shownotes": "RECORDED ON DECEMBER 7th 2021.  \nDr. Henrik Høgh-Olesen is Professor of Psychology at Aarhus University. His research interests include Evolutionary psychology, Comparative psychology/Ethology, Primatology, Aesthetics, Psychology of religion, and History of psychology. He is the author of 13 scientific books, including The Aesthetic Animal.\n\nIn this episode, we focus on The Aesthetic Animal. We talk about the aesthetic impulse, and the evolution of art and aesthetic appreciation. We also discuss individual differences in art appreciation. We go through the evolution and social functions of body ornamentation, song, dance, music, and fiction. We talk a bit about the neuroscience of aesthetics, and the role existential uncertainty might play in art production. Finally, we talk about how we can improve human wellbeing by learning more about our “aesthetic impulse”, mostly through architecture.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:34</time> The aesthetic impulse  \n<time>01:40</time> The evolution of art and aesthetic appreciation  \n<time>17:07</time> Individual differences in art appreciation  \n<time>21:09</time> Body ornamentation  \n<time>26:14</time> Song, dance, music  \n<time>29:47</time> Fiction  \n<time>33:12</time> The neuroscience of aesthetics  \n<time>34:24</time> Existential uncertainty  \n<time>37:37</time> Improving human wellbeing through art  \n<time>42:27</time> Follow Dr. Høgh-Olesen’s work!\n\n---\n\nFollow Dr. Høgh-Olesen’s work:  \nFaculty page: https://bit.ly/2O7WCGv  \nResearchGate profile: https://bit.ly/3echnLL  \nBooks on Amazon: https://amzn.to/2SlFMWK  \nThe Aesthetic Animal: https://amzn.to/2MOAss3\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/44647740/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F56ab91ac-c51b-6e22-0aa7-2cc85f232e9b.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/601-Henrik-Hgh-Olesen---The-Aesthetic-Animal-e1bh1rs",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1639134907304-c6cb6a49a994d.jpg",
+	"tags": [
+		"Art",
+		"Biology",
+		"Psychology"
+	],
+	"title": "#601 Henrik Høgh-Olesen - The Aesthetic Animal",
+	"youtubeid": "m7pMOpAFozk",
+	"episodeid": "601"
+}

@@ -1,52 +1,21 @@
-excerpt: Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,
-  affiliated with the Philosophy Department in the School of Philosophy, Theology,
-  and Religion; and with the Institute for Mental Health in the School of Psychology.
-  Her research is in the philosophy of the cognitive sciences. She is the author of
-  The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions
-  Matter.
-filename: 862-lisa-bortolotti-why-delusions-matter
-id: '862'
-image: https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg
-interviewee:
-- Lisa Bortolotti
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/862-lisa-bortolotti-why-delusions-matter/id1451347236?i=1000635213154&uo=4
-published: '2023-11-17'
-shownotes: "Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham,\
-  \ affiliated with the Philosophy Department in the School of Philosophy, Theology,\
-  \ and Religion; and with the Institute for Mental Health in the School of Psychology.\
-  \ Her research is in the philosophy of the cognitive sciences. She is the author\
-  \ of The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions\
-  \ Matter.\n\nThis is our second talk. You can watch the first one, on The Epistemic\
-  \ Innocence of Irrational Beliefs, here: https://youtu.be/v13m30R_xbY\n\nIn this\
-  \ episode, we focus on Why Delusions Matter. We start by defining delusions, and\
-  \ the criteria used to classify them. We discuss if there are different types of\
-  \ delusions, and if the term \u201Cdelusion\u201D is problematic. We talk about\
-  \ what we learn about human cognition by studying delusions, the epistemic needs\
-  \ they fulfill, personal identity, their social component, and their costs and benefits\
-  \ to speakers and interpreters. We discuss how delusions exemplify the strengths\
-  \ of human cognition, and implications for social and political epistemology. Finally,\
-  \ we talk about creating better epistemic environments, and the issue of epistemic\
-  \ responsibility.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:43</time>\
-  \ What are delusions?  \n<time>11:55</time> Why is it that some unusual beliefs\
-  \ are considered delusions and others aren\u2019t?  \n<time>17:12</time> Being false\
-  \ or badly supported by the evidence  \n<time>22:03</time> Different types of delusions?\
-  \  \n<time>24:17</time> Is the term \u201Cdelusion\u201D problematic?  \n<time>28:26</time>\
-  \ Why do delusions matter?  \n<time>35:16</time> The needs delusions fulfill  \n\
-  <time>40:52</time> Personal identity  \n<time>46:38</time> Are delusions a social\
-  \ phenomenon?  \n<time>53:36</time> Costs and benefits for speakers and interpreters\
-  \  \n<time>58:44</time> How delusions exemplify the strengths of human cognition\
-  \  \n<time>1:02:15</time> Implications for social and political epistemology  \n\
-  <time>1:05:30</time> Creating better epistemic environments  \n<time>1:11:01</time>\
-  \ Epistemic responsibility: individual or societal?  \n<time>1:17:12</time> Follow\
-  \ Dr. Bortolotti\u2019s work!\n\n---\n\nFollow Dr. Bortolotti\u2019s work:  \nFaculty\
-  \ page: https://bit.ly/3lDjPvz  \nWebsite/blog: https://bit.ly/2Hejl0c  \nPhilPeople\
-  \ page: https://bit.ly/3f8xs3B  \nWhy Delusions Matter: https://bit.ly/3rm0WVE \
-  \ \nTwitter handle: @lisabortolotti\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/76234364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fca699bbb-b067-15d4-b2ab-34c55ef9d856.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/862-Lisa-Bortolotti-Why-Delusions-Matter-e29l05s
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1695388282719-83db023eef35d.jpg
-tags:
-- Cognitive Science
-- Philosophy
-title: '#862 Lisa Bortolotti: Why Delusions Matter'
-youtubeid: UkU7gA0lZfo
+{
+	"excerpt": "Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She is the author of The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions Matter.",
+	"filename": "862-lisa-bortolotti-why-delusions-matter",
+	"image": "https://i.ytimg.com/vi/UkU7gA0lZfo/maxresdefault.jpg",
+	"interviewee": [
+		"Lisa Bortolotti"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/862-lisa-bortolotti-why-delusions-matter/id1451347236?i=1000635213154&uo=4",
+	"published": "2023-11-17",
+	"shownotes": "Dr. Lisa Bortolotti is Professor of Philosophy at the University of Birmingham, affiliated with the Philosophy Department in the School of Philosophy, Theology, and Religion; and with the Institute for Mental Health in the School of Psychology. Her research is in the philosophy of the cognitive sciences. She is the author of The Epistemic Innocence of Irrational Beliefs, and more recently, Why Delusions Matter.\n\nThis is our second talk. You can watch the first one, on The Epistemic Innocence of Irrational Beliefs, here: https://youtu.be/v13m30R_xbY\n\nIn this episode, we focus on Why Delusions Matter. We start by defining delusions, and the criteria used to classify them. We discuss if there are different types of delusions, and if the term “delusion” is problematic. We talk about what we learn about human cognition by studying delusions, the epistemic needs they fulfill, personal identity, their social component, and their costs and benefits to speakers and interpreters. We discuss how delusions exemplify the strengths of human cognition, and implications for social and political epistemology. Finally, we talk about creating better epistemic environments, and the issue of epistemic responsibility.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:43</time> What are delusions?  \n<time>11:55</time> Why is it that some unusual beliefs are considered delusions and others aren’t?  \n<time>17:12</time> Being false or badly supported by the evidence  \n<time>22:03</time> Different types of delusions?  \n<time>24:17</time> Is the term “delusion” problematic?  \n<time>28:26</time> Why do delusions matter?  \n<time>35:16</time> The needs delusions fulfill  \n<time>40:52</time> Personal identity  \n<time>46:38</time> Are delusions a social phenomenon?  \n<time>53:36</time> Costs and benefits for speakers and interpreters  \n<time>58:44</time> How delusions exemplify the strengths of human cognition  \n<time>1:02:15</time> Implications for social and political epistemology  \n<time>1:05:30</time> Creating better epistemic environments  \n<time>1:11:01</time> Epistemic responsibility: individual or societal?  \n<time>1:17:12</time> Follow Dr. Bortolotti’s work!\n\n---\n\nFollow Dr. Bortolotti’s work:  \nFaculty page: https://bit.ly/3lDjPvz  \nWebsite/blog: https://bit.ly/2Hejl0c  \nPhilPeople page: https://bit.ly/3f8xs3B  \nWhy Delusions Matter: https://bit.ly/3rm0WVE  \nTwitter handle: @lisabortolotti\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/76234364/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-22%2Fca699bbb-b067-15d4-b2ab-34c55ef9d856.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/862-Lisa-Bortolotti-Why-Delusions-Matter-e29l05s",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1695388282719-83db023eef35d.jpg",
+	"tags": [
+		"Cognitive Science",
+		"Philosophy"
+	],
+	"title": "#862 Lisa Bortolotti: Why Delusions Matter",
+	"youtubeid": "UkU7gA0lZfo",
+	"episodeid": "862"
+}

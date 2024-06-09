@@ -1,54 +1,20 @@
-excerpt: 'Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary
-  Biology at Harvard University. He is interested in the question of how humans evolved
-  from "being a relatively unremarkable primate a few million years ago to the most
-  successful species on the globe", and how culture affected our genetic development.
-  He is also the author of The Secret of Our Success and The WEIRDest People in the
-  World: How the West Became Psychologically Peculiar and Particularly Prosperous.'
-filename: 361-joseph-henrich-the-weirdest-people-in-the-world
-id: '361'
-image: https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg
-interviewee:
-- Joseph Henrich
-published: '2020-09-04'
-shownotes: "RECORDED ON JUNE 19th 2020.  \nDr. Joseph Henrich is Professor and chair\
-  \ of the Department of Human Evolutionary Biology at Harvard University. He is interested\
-  \ in the question of how humans evolved from \"being a relatively unremarkable primate\
-  \ a few million years ago to the most successful species on the globe\", and how\
-  \ culture affected our genetic development. He is also the author of The Secret\
-  \ of Our Success and The WEIRDest People in the World: How the West Became Psychologically\
-  \ Peculiar and Particularly Prosperous.\n\nIn this episode, we focus on Dr. Henrich\u2019\
-  s new book, The WEIRDest People in the World. We first talk about innate anchors,\
-  \ how societies evolved in complexity, the role that agriculture played, and the\
-  \ various aspects of WEIRD psychology. We then get into the Catholic Church\u2019\
-  s Marriage and Family Program of the Middle Ages, and the different aspects of sociality\
-  \ that it influenced, including marriage, monogamy, urbanization, legal systems,\
-  \ work ethics, and even science and the Enlightenment values. We also talk about\
-  \ how we might evolve psychologically in the future, social engineering, and the\
-  \ replication crisis in social psychology. Toward the end, we answer some questions\
-  \ from a follower.\n\nTime Links:  \n<time>00:42</time> Innate anchors  \n<time>06:00</time>\
-  \ The rise of chiefdoms  \n<time>08:18</time> What agriculture changed  \n<time>12:17</time>\
-  \ WEIRD and non-WEIRD psychologies  \n<time>14:51</time> Emotions, guilt and shame\
-  \  \n<time>20:40</time> Impersonal prosociality  \n<time>23:48</time> Can harmful\
-  \ norms and institutions last in human societies?  \n<time>27:22</time> The Catholic\
-  \ Church\u2019s Marriage and Family Program  \n<time>40:07</time> Kinship in China,\
-  \ and rice cultivation and irrigation  \n<time>41:59</time> Monogamous marriage\
-  \  \n<time>44:15</time> Market integration  \n<time>45:57</time> New systems of\
-  \ law  \n<time>48:24</time> Values of the Enlightenment  \n<time>55:42</time> Work\
-  \ ethics  \n<time>1:00:04</time> The development of science  \n<time>1:03:37</time>\
-  \ The industrial revolution in England  \n<time>1:06:32</time> The future  \n<time>1:08:12</time>\
-  \ Social engineering  \n<time>1:09:29</time> The replication crisis in social psychology\
-  \  \n<time>1:11:42</time> Questions from a follower  \n<time>1:23:20</time> Follow\
-  \ Dr. Henrich\u2019s work!\n\n---\n\nFollow Dr. Henrich\u2019s work:  \nFaculty\
-  \ page: https://bit.ly/3aQSlww  \nWebsite: https://bit.ly/2MW4oPE  \nCulture, Cognition\
-  \ and Coevolution Lab: https://bit.ly/3cUV4pz  \nCulture, Cognition and Coevolution\
-  \ Lab (YT channel): https://bit.ly/2Aw0RVt  \nWorks on ResearchGate: https://bit.ly/35jLQku\
-  \  \nBooks on Amazon: https://amzn.to/30Ct4Vl  \nThe WEIRDest People in the World:\
-  \ https://amzn.to/3gdZvNM  \nTwitter handle: @JoHenrich\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/361-Joseph-Henrich-The-WEIRDest-People-in-the-World-eigh1l
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1598092738285-d8d4a133894bb.jpg
-tags:
-- Anthropology
-- Psychology
-title: '#361 Joseph Henrich: The WEIRDest People in the World'
-youtubeid: cN3w_cSAsmg
+{
+	"excerpt": "Dr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary Biology at Harvard University. He is interested in the question of how humans evolved from \"being a relatively unremarkable primate a few million years ago to the most successful species on the globe\", and how culture affected our genetic development. He is also the author of The Secret of Our Success and The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous.",
+	"filename": "361-joseph-henrich-the-weirdest-people-in-the-world",
+	"image": "https://i.ytimg.com/vi/cN3w_cSAsmg/maxresdefault.jpg",
+	"interviewee": [
+		"Joseph Henrich"
+	],
+	"published": "2020-09-04",
+	"shownotes": "RECORDED ON JUNE 19th 2020.  \nDr. Joseph Henrich is Professor and chair of the Department of Human Evolutionary Biology at Harvard University. He is interested in the question of how humans evolved from \"being a relatively unremarkable primate a few million years ago to the most successful species on the globe\", and how culture affected our genetic development. He is also the author of The Secret of Our Success and The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous.\n\nIn this episode, we focus on Dr. Henrich’s new book, The WEIRDest People in the World. We first talk about innate anchors, how societies evolved in complexity, the role that agriculture played, and the various aspects of WEIRD psychology. We then get into the Catholic Church’s Marriage and Family Program of the Middle Ages, and the different aspects of sociality that it influenced, including marriage, monogamy, urbanization, legal systems, work ethics, and even science and the Enlightenment values. We also talk about how we might evolve psychologically in the future, social engineering, and the replication crisis in social psychology. Toward the end, we answer some questions from a follower.\n\nTime Links:  \n<time>00:42</time> Innate anchors  \n<time>06:00</time> The rise of chiefdoms  \n<time>08:18</time> What agriculture changed  \n<time>12:17</time> WEIRD and non-WEIRD psychologies  \n<time>14:51</time> Emotions, guilt and shame  \n<time>20:40</time> Impersonal prosociality  \n<time>23:48</time> Can harmful norms and institutions last in human societies?  \n<time>27:22</time> The Catholic Church’s Marriage and Family Program  \n<time>40:07</time> Kinship in China, and rice cultivation and irrigation  \n<time>41:59</time> Monogamous marriage  \n<time>44:15</time> Market integration  \n<time>45:57</time> New systems of law  \n<time>48:24</time> Values of the Enlightenment  \n<time>55:42</time> Work ethics  \n<time>1:00:04</time> The development of science  \n<time>1:03:37</time> The industrial revolution in England  \n<time>1:06:32</time> The future  \n<time>1:08:12</time> Social engineering  \n<time>1:09:29</time> The replication crisis in social psychology  \n<time>1:11:42</time> Questions from a follower  \n<time>1:23:20</time> Follow Dr. Henrich’s work!\n\n---\n\nFollow Dr. Henrich’s work:  \nFaculty page: https://bit.ly/3aQSlww  \nWebsite: https://bit.ly/2MW4oPE  \nCulture, Cognition and Coevolution Lab: https://bit.ly/3cUV4pz  \nCulture, Cognition and Coevolution Lab (YT channel): https://bit.ly/2Aw0RVt  \nWorks on ResearchGate: https://bit.ly/35jLQku  \nBooks on Amazon: https://amzn.to/30Ct4Vl  \nThe WEIRDest People in the World: https://amzn.to/3gdZvNM  \nTwitter handle: @JoHenrich\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/18416117/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-7-22%2F03f8400a-26ef-83de-ae04-cfb14acc5894.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/361-Joseph-Henrich-The-WEIRDest-People-in-the-World-eigh1l",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1598092738285-d8d4a133894bb.jpg",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#361 Joseph Henrich: The WEIRDest People in the World",
+	"youtubeid": "cN3w_cSAsmg",
+	"episodeid": "361"
+}

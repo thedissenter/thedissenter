@@ -1,41 +1,19 @@
-excerpt: "Dr. David Buss is a Professor of Psychology at the University of Texas at\
-  \ Austin. He\u2019s one of the founders of the field of evolutionary psychology.\
-  \ His primary research focus is on strategies of human mating. He\u2019s the author\
-  \ of many books, including The Evolution of Desire, and the first textbook in Evolutionary\
-  \ Psychology, Evolutionary Psychology: The New Science of the Mind."
-filename: 88-david-buss-evolutionary-psychology--and-the-basics-of-human-mating
-id: '88'
-image: https://i.ytimg.com/vi/BgmE8wHLol8/maxresdefault.jpg
-interviewee:
-- David Buss
-published: '2018-10-19'
-shownotes: "Dr. David Buss is a Professor of Psychology at the University of Texas\
-  \ at Austin. He\u2019s one of the founders of the field of evolutionary psychology.\
-  \ His primary research focus is on strategies of human mating. He\u2019s the author\
-  \ of many books, including The Evolution of Desire, and the first textbook in Evolutionary\
-  \ Psychology, Evolutionary Psychology: The New Science of the Mind.\n\nIn this episode,\
-  \ we start off by talking a bit about Dr. Buss\u2019 background, and what led him\
-  \ to Evolutionary Psychology. Then, we get into his research on human mating, from\
-  \ the conceptual foundations to universal sex differences in mate preferences, and\
-  \ mate retention tactics. We also discuss how modern technology might be tweaking\
-  \ our brains into preferring short-term mating strategies, namely with things like\
-  \ dating websites and online pornography. And we finish with some current work he\u2019\
-  s doing on sexual morality, and if all of this knowledge can help couples with their\
-  \ intimate relationships.\n\nTime Links:  \n<time>00:51</time> How Dr. Buss got\
-  \ into Evolutionary Psychology   \n<time>05:13</time> What is Evolutionary Psychology?\
-  \            \n<time>08:35</time> Basic concepts to understand human mating    \n\
-  <time>18:59</time> Universal sex differences in mate preferences    \n<time>28:46</time>\
-  \ Mate retention tactics and jealousy      \n<time>41:15</time> Sexual effects of\
-  \ dating websites and online pornography           \n<time>47:40</time> Sexual morality\
-  \  \n<time>51:20</time> Can we use Evo Psych to improve intimate relationships?\
-  \  \n<time>54:03</time> Follow Dr. Buss\u2019 work!\n\n---\n\nFollow Dr. Buss\u2019\
-  \ work:  \nBuss Lab: https://labs.la.utexas.edu/buss/  \nArticles on Researchgate:\
-  \ https://tinyurl.com/ycfdj4a2  \nBooks: https://tinyurl.com/ybpered3  \nTwitter\
-  \ handle: @ProfDavidBuss\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/2005527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706806-44100-2-07d31f84b53dc.mp3
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/88-David-Buss-Evolutionary-Psychology--and-the-Basics-of-Human-Mating-e2rn2n
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1546166352791-8e40f318dff7c.jpg
-tags:
-- Psychology
-title: '#88 David Buss: Evolutionary Psychology, and the Basics of Human Mating'
-youtubeid: BgmE8wHLol8
+{
+	"excerpt": "Dr. David Buss is a Professor of Psychology at the University of Texas at Austin. He’s one of the founders of the field of evolutionary psychology. His primary research focus is on strategies of human mating. He’s the author of many books, including The Evolution of Desire, and the first textbook in Evolutionary Psychology, Evolutionary Psychology: The New Science of the Mind.",
+	"filename": "88-david-buss-evolutionary-psychology--and-the-basics-of-human-mating",
+	"image": "https://i.ytimg.com/vi/BgmE8wHLol8/maxresdefault.jpg",
+	"interviewee": [
+		"David Buss"
+	],
+	"published": "2018-10-19",
+	"shownotes": "Dr. David Buss is a Professor of Psychology at the University of Texas at Austin. He’s one of the founders of the field of evolutionary psychology. His primary research focus is on strategies of human mating. He’s the author of many books, including The Evolution of Desire, and the first textbook in Evolutionary Psychology, Evolutionary Psychology: The New Science of the Mind.\n\nIn this episode, we start off by talking a bit about Dr. Buss’ background, and what led him to Evolutionary Psychology. Then, we get into his research on human mating, from the conceptual foundations to universal sex differences in mate preferences, and mate retention tactics. We also discuss how modern technology might be tweaking our brains into preferring short-term mating strategies, namely with things like dating websites and online pornography. And we finish with some current work he’s doing on sexual morality, and if all of this knowledge can help couples with their intimate relationships.\n\nTime Links:  \n<time>00:51</time> How Dr. Buss got into Evolutionary Psychology   \n<time>05:13</time> What is Evolutionary Psychology?            \n<time>08:35</time> Basic concepts to understand human mating    \n<time>18:59</time> Universal sex differences in mate preferences    \n<time>28:46</time> Mate retention tactics and jealousy      \n<time>41:15</time> Sexual effects of dating websites and online pornography           \n<time>47:40</time> Sexual morality  \n<time>51:20</time> Can we use Evo Psych to improve intimate relationships?  \n<time>54:03</time> Follow Dr. Buss’ work!\n\n---\n\nFollow Dr. Buss’ work:  \nBuss Lab: https://labs.la.utexas.edu/buss/  \nArticles on Researchgate: https://tinyurl.com/ycfdj4a2  \nBooks: https://tinyurl.com/ybpered3  \nTwitter handle: @ProfDavidBuss\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/2005527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-30%2F7706806-44100-2-07d31f84b53dc.mp3",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/88-David-Buss-Evolutionary-Psychology--and-the-Basics-of-Human-Mating-e2rn2n",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1546166352791-8e40f318dff7c.jpg",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#88 David Buss: Evolutionary Psychology, and the Basics of Human Mating",
+	"youtubeid": "BgmE8wHLol8",
+	"episodeid": "88"
+}

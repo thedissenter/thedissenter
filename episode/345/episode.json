@@ -1,37 +1,19 @@
-excerpt: Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences
-  at the University of California Merced. He researches decision-making under contexts
-  of threat, with particular focus on political orientation, group prejudice, and
-  the representation of mental states.
-filename: 345-colin-holbrook-threat--and-human-robot-interactions
-id: '345'
-image: https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg
-interviewee:
-- Colin Holbrook
-published: '2020-06-22'
-shownotes: "RECORDED ON April 29th 2020.  \nDr. Colin Holbrook is Assistant Professor\
-  \ of Cognitive and Information Sciences at the University of California Merced.\
-  \ He researches decision-making under contexts of threat, with particular focus\
-  \ on political orientation, group prejudice, and the representation of mental states.\n\
-  \nIn this episode, we focus on the psychology of threat, threat detection, threat\
-  \ salience, and response to threat. We first ask what threat is really about, and\
-  \ the kinds of threat that exist, as well as how people respond to it. We also talk\
-  \ about how threat might change group dynamics of competition and cooperation, and\
-  \ the effects that religiousness has on the psychological impact of threat. Finally,\
-  \ we mention some of the topics that Dr. Holbrook is exploring in the domain of\
-  \ human-robot interaction, something that, if all goes well, we will be digging\
-  \ deeper later this year.\n\nTime Links:  \n<time>00:41</time> What is threat? \
-  \ \n<time>07:11</time> The kinds of threats people respond to  \n<time>13:30</time>\
-  \ The responses threat elicits  \n<time>20:46</time> How groups respond to threat\
-  \ in terms of cooperation and competition  \n<time>27:36</time> Religiousness and\
-  \ response to threat  \n<time>43:29</time> Human-robot interaction (part 1)  \n\
-  <time>52:41</time> Follow Dr. Holbrook\u2019s work!\n\n---\n\nFollow Dr. Holbrook\u2019\
-  s work:  \nFaculty page: http://bit.ly/38NtXeP  \nPersonal website: http://bit.ly/2vTL8g6\
-  \  \nResearchGate profile: http://bit.ly/2VaHGIT  \nOur first interview (Threat\
-  \ Detection, Group Prejudice, Warfare, and Religion): https://youtu.be/jnrIPHokpVM\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/345-Colin-Holbrook-Threat--And-Human-Robot-Interaction-Part-1-edg6qn
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1588346108171-d4c1df5acdad.jpg
-tags:
-- Psychology
-title: '#345 Colin Holbrook: Threat, And Human-Robot Interactions'
-youtubeid: XIocAsPszzc
+{
+	"excerpt": "Dr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California Merced. He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.",
+	"filename": "345-colin-holbrook-threat--and-human-robot-interactions",
+	"image": "https://i.ytimg.com/vi/XIocAsPszzc/maxresdefault.jpg",
+	"interviewee": [
+		"Colin Holbrook"
+	],
+	"published": "2020-06-22",
+	"shownotes": "RECORDED ON April 29th 2020.  \nDr. Colin Holbrook is Assistant Professor of Cognitive and Information Sciences at the University of California Merced. He researches decision-making under contexts of threat, with particular focus on political orientation, group prejudice, and the representation of mental states.\n\nIn this episode, we focus on the psychology of threat, threat detection, threat salience, and response to threat. We first ask what threat is really about, and the kinds of threat that exist, as well as how people respond to it. We also talk about how threat might change group dynamics of competition and cooperation, and the effects that religiousness has on the psychological impact of threat. Finally, we mention some of the topics that Dr. Holbrook is exploring in the domain of human-robot interaction, something that, if all goes well, we will be digging deeper later this year.\n\nTime Links:  \n<time>00:41</time> What is threat?  \n<time>07:11</time> The kinds of threats people respond to  \n<time>13:30</time> The responses threat elicits  \n<time>20:46</time> How groups respond to threat in terms of cooperation and competition  \n<time>27:36</time> Religiousness and response to threat  \n<time>43:29</time> Human-robot interaction (part 1)  \n<time>52:41</time> Follow Dr. Holbrook’s work!\n\n---\n\nFollow Dr. Holbrook’s work:  \nFaculty page: http://bit.ly/38NtXeP  \nPersonal website: http://bit.ly/2vTL8g6  \nResearchGate profile: http://bit.ly/2VaHGIT  \nOur first interview (Threat Detection, Group Prejudice, Warfare, and Religion): https://youtu.be/jnrIPHokpVM\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/13162775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-1%2F69297259-44100-2-877762012d4b2.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/345-Colin-Holbrook-Threat--And-Human-Robot-Interaction-Part-1-edg6qn",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1588346108171-d4c1df5acdad.jpg",
+	"tags": [
+		"Psychology"
+	],
+	"title": "#345 Colin Holbrook: Threat, And Human-Robot Interactions",
+	"youtubeid": "XIocAsPszzc",
+	"episodeid": "345"
+}

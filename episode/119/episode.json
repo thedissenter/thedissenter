@@ -1,54 +1,19 @@
-excerpt: "Dr. Terrence Deacon is currently Professor of Anthropology and member of\
-  \ the Cognitive Science faculty at the University of California, Berkeley. His theoretical\
-  \ interests include the study of evolution-like processes at multiple levels, including\
-  \ their role in embryonic development, neural signal processing, language change,\
-  \ social processes, and focusing especially on how these different processes interact\
-  \ and depend on each other. Professor Deacon's research has combined human evolutionary\
-  \ biology and neuroscience, with the aim of investigating the evolution of human\
-  \ cognition. He\u2019s the author of The Symbolic Species: The Coevolution of Language\
-  \ and the Brain, and his most recent book, Incomplete Nature: How Mind Emerged from\
-  \ Matter, explores the relationship between thermodynamic, self-organizing, evolutionary\
-  \ and semiotic processes and provides a new technical conception of information\
-  \ that explains both its representational and normative properties."
-filename: 119-terrence-deacon-incomplete-nature--from-physics-to-mind
-id: '119'
-image: https://i.ytimg.com/vi/N7GFTdQumAw/maxresdefault.jpg
-interviewee:
-- Terrence Deacon
-published: '2018-12-31'
-shownotes: "Dr. Terrence Deacon is currently Professor of Anthropology and member\
-  \ of the Cognitive Science faculty at the University of California, Berkeley. His\
-  \ theoretical interests include the study of evolution-like processes at multiple\
-  \ levels, including their role in embryonic development, neural signal processing,\
-  \ language change, social processes, and focusing especially on how these different\
-  \ processes interact and depend on each other. Professor Deacon's research has combined\
-  \ human evolutionary biology and neuroscience, with the aim of investigating the\
-  \ evolution of human cognition. He\u2019s the author of The Symbolic Species: The\
-  \ Coevolution of Language and the Brain, and his most recent book, Incomplete Nature:\
-  \ How Mind Emerged from Matter, explores the relationship between thermodynamic,\
-  \ self-organizing, evolutionary and semiotic processes and provides a new technical\
-  \ conception of information that explains both its representational and normative\
-  \ properties.\n\nIn this episode, we cover some of the major topics of Incomplete\
-  \ Nature, including: the second law of thermodynamics; absence and constraints;\
-  \ homeodynamics, morphodynamics, and teleodynamics; information; emergence; how\
-  \ we get from Physics to mental phenomena. We also talk about language and semiotics,\
-  \ including the biological bases of language, and how to study its evolution.\n\n\
-  Time Links:  \n<time>01:32</time> Dr. Deacon\u2019s interdisciplinary approach \
-  \ \n<time>06:04</time> Life and the second law of thermodynamics               \
-  \     \n<time>09:38</time> The concept of absence and constraints              \
-  \    \n<time>17:02</time> Homeodynamics, morphodynamics, and teleodynamics     \
-  \        \n<time>26:22</time> Information from a Physics perspective           \
-  \  \n<time>37:04</time> Emergence and how to get to mental phenomena      \n<time>49:13</time>\
-  \ Consciousness, and unconscious mental processes  \n<time>56:05</time> Semiotics,\
-  \ and studying how we deal with symbols    \n<time>1:06:04</time> The biological\
-  \ bases of language    \n<time>1:17:43</time> Cultural sources to understand the\
-  \ evolution of language      \n<time>1:29:52</time> Follow Dr. Deacon\u2019s work!\
-  \    \n\n---\n\nFollow Dr. Deacon\u2019s work:  \nFaculty page: https://tinyurl.com/y83a3cov\
-  \  \nThe Symbolic Species: https://tinyurl.com/yc3tv5du  \nIncomplete Nature: https://tinyurl.com/y9mkubr4\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/2016065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774831-44100-2-fcc1d0ad59c4f.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/119-Terrence-Deacon-Incomplete-Nature--from-Physics-to-Mind-e2s1c1
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1546342558544-7a63f216aa996.jpg
-tags:
-- Anthropology
-title: '#119 Terrence Deacon: Incomplete Nature, from Physics to Mind'
-youtubeid: N7GFTdQumAw
+{
+	"excerpt": "Dr. Terrence Deacon is currently Professor of Anthropology and member of the Cognitive Science faculty at the University of California, Berkeley. His theoretical interests include the study of evolution-like processes at multiple levels, including their role in embryonic development, neural signal processing, language change, social processes, and focusing especially on how these different processes interact and depend on each other. Professor Deacon's research has combined human evolutionary biology and neuroscience, with the aim of investigating the evolution of human cognition. He’s the author of The Symbolic Species: The Coevolution of Language and the Brain, and his most recent book, Incomplete Nature: How Mind Emerged from Matter, explores the relationship between thermodynamic, self-organizing, evolutionary and semiotic processes and provides a new technical conception of information that explains both its representational and normative properties.",
+	"filename": "119-terrence-deacon-incomplete-nature--from-physics-to-mind",
+	"image": "https://i.ytimg.com/vi/N7GFTdQumAw/maxresdefault.jpg",
+	"interviewee": [
+		"Terrence Deacon"
+	],
+	"published": "2018-12-31",
+	"shownotes": "Dr. Terrence Deacon is currently Professor of Anthropology and member of the Cognitive Science faculty at the University of California, Berkeley. His theoretical interests include the study of evolution-like processes at multiple levels, including their role in embryonic development, neural signal processing, language change, social processes, and focusing especially on how these different processes interact and depend on each other. Professor Deacon's research has combined human evolutionary biology and neuroscience, with the aim of investigating the evolution of human cognition. He’s the author of The Symbolic Species: The Coevolution of Language and the Brain, and his most recent book, Incomplete Nature: How Mind Emerged from Matter, explores the relationship between thermodynamic, self-organizing, evolutionary and semiotic processes and provides a new technical conception of information that explains both its representational and normative properties.\n\nIn this episode, we cover some of the major topics of Incomplete Nature, including: the second law of thermodynamics; absence and constraints; homeodynamics, morphodynamics, and teleodynamics; information; emergence; how we get from Physics to mental phenomena. We also talk about language and semiotics, including the biological bases of language, and how to study its evolution.\n\nTime Links:  \n<time>01:32</time> Dr. Deacon’s interdisciplinary approach  \n<time>06:04</time> Life and the second law of thermodynamics                    \n<time>09:38</time> The concept of absence and constraints                  \n<time>17:02</time> Homeodynamics, morphodynamics, and teleodynamics             \n<time>26:22</time> Information from a Physics perspective             \n<time>37:04</time> Emergence and how to get to mental phenomena      \n<time>49:13</time> Consciousness, and unconscious mental processes  \n<time>56:05</time> Semiotics, and studying how we deal with symbols    \n<time>1:06:04</time> The biological bases of language    \n<time>1:17:43</time> Cultural sources to understand the evolution of language      \n<time>1:29:52</time> Follow Dr. Deacon’s work!    \n\n---\n\nFollow Dr. Deacon’s work:  \nFaculty page: https://tinyurl.com/y83a3cov  \nThe Symbolic Species: https://tinyurl.com/yc3tv5du  \nIncomplete Nature: https://tinyurl.com/y9mkubr4\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/2016065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-1%2F7774831-44100-2-fcc1d0ad59c4f.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/119-Terrence-Deacon-Incomplete-Nature--from-Physics-to-Mind-e2s1c1",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1546342558544-7a63f216aa996.jpg",
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#119 Terrence Deacon: Incomplete Nature, from Physics to Mind",
+	"youtubeid": "N7GFTdQumAw",
+	"episodeid": "119"
+}

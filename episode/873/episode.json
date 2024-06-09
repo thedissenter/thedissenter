@@ -1,36 +1,20 @@
-excerpt: 'Podcast: http://bit.ly/3FeSNqb'
-filename: 873-hanno-sauer---moral-teleology-a-theory-of-progress
-id: '873'
-image: https://i.ytimg.com/vi/33VKpmCQ7Sg/maxresdefault.jpg
-interviewee:
-- Hanno Sauer
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/873-hanno-sauer-moral-teleology-a-theory-of-progress/id1451347236?i=1000638604213&uo=4
-published: '2023-12-14'
-shownotes: "Podcast: http://bit.ly/3FeSNqb\n\nRECORDED ON AUGUST 11th 2023.  \nDr.\
-  \ Hanno Sauer is Associate Professor of Philosophy at Utrecht University. His main\
-  \ research interests are in moral psychology and empirically informed metaethics.\
-  \ He is interested in whether and how we can bring empirical data from diverse disciplines\
-  \ such as social psychology, neuroscience or cognitive science to bear on questions\
-  \ of normative and/or metaethical interests, and what the limits of this approach\
-  \ are. His latest book is Moral Teleology: A Theory of Progress.\n\nIn this episode,\
-  \ we focus on Moral Teleology. We start by discussing what moral progress is, if\
-  \ it is possible, and we get into a moral anti-realist account of moral progress.\
-  \ We talk about how we can naturalize teleology. We discuss moral regress, and reactionary\
-  \ conservatism. Finally, we talk about institutions of moral progress, and what\
-  \ causes it.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:35</time> What\
-  \ is moral progress?  \n<time>04:29</time> A moral anti-realist account of moral\
-  \ progress  \n<time>13:53</time> Is moral progress possible?  \n<time>17:19</time>\
-  \ Naturalizing teleology  \n<time>29:44</time> Moral regress  \n<time>32:32</time>\
-  \ Reactionary conservatism  \n<time>56:43</time> Institutions of moral progress\
-  \  \n<time>1:03:38</time> What causes moral progress?  \n<time>1:09:05</time> Follow\
-  \ Dr. Sauer\u2019s work!\n\n---\n\nFollow Dr. Sauer\u2019s work:  \nOur first interview:\
-  \ https://youtu.be/Jpit7l0ALpA  \nFaculty page: https://bit.ly/3iaOmhS  \nWebsite:\
-  \ https://bit.ly/3lctdWH  \nPhilPeople profile: https://bit.ly/33fPnRF  \nMoral\
-  \ Teleology: https://bit.ly/3QmDWjU\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/74506550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F0017b3c0-8fbe-21f3-4893-653ff2f2445f.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/873-Hanno-Sauer---Moral-Teleology-A-Theory-of-Progress-e2808rm
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1691750504188-8382e34a85742.jpg
-tags:
-- Philosophy
-title: '#873 Hanno Sauer - Moral Teleology: A Theory of Progress'
-youtubeid: 33VKpmCQ7Sg
+{
+	"excerpt": "Podcast: http://bit.ly/3FeSNqb",
+	"filename": "873-hanno-sauer---moral-teleology-a-theory-of-progress",
+	"image": "https://i.ytimg.com/vi/33VKpmCQ7Sg/maxresdefault.jpg",
+	"interviewee": [
+		"Hanno Sauer"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/873-hanno-sauer-moral-teleology-a-theory-of-progress/id1451347236?i=1000638604213&uo=4",
+	"published": "2023-12-14",
+	"shownotes": "Podcast: http://bit.ly/3FeSNqb\n\nRECORDED ON AUGUST 11th 2023.  \nDr. Hanno Sauer is Associate Professor of Philosophy at Utrecht University. His main research interests are in moral psychology and empirically informed metaethics. He is interested in whether and how we can bring empirical data from diverse disciplines such as social psychology, neuroscience or cognitive science to bear on questions of normative and/or metaethical interests, and what the limits of this approach are. His latest book is Moral Teleology: A Theory of Progress.\n\nIn this episode, we focus on Moral Teleology. We start by discussing what moral progress is, if it is possible, and we get into a moral anti-realist account of moral progress. We talk about how we can naturalize teleology. We discuss moral regress, and reactionary conservatism. Finally, we talk about institutions of moral progress, and what causes it.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:35</time> What is moral progress?  \n<time>04:29</time> A moral anti-realist account of moral progress  \n<time>13:53</time> Is moral progress possible?  \n<time>17:19</time> Naturalizing teleology  \n<time>29:44</time> Moral regress  \n<time>32:32</time> Reactionary conservatism  \n<time>56:43</time> Institutions of moral progress  \n<time>1:03:38</time> What causes moral progress?  \n<time>1:09:05</time> Follow Dr. Sauer’s work!\n\n---\n\nFollow Dr. Sauer’s work:  \nOur first interview: https://youtu.be/Jpit7l0ALpA  \nFaculty page: https://bit.ly/3iaOmhS  \nWebsite: https://bit.ly/3lctdWH  \nPhilPeople profile: https://bit.ly/33fPnRF  \nMoral Teleology: https://bit.ly/3QmDWjU\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/74506550/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F0017b3c0-8fbe-21f3-4893-653ff2f2445f.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/873-Hanno-Sauer---Moral-Teleology-A-Theory-of-Progress-e2808rm",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1691750504188-8382e34a85742.jpg",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#873 Hanno Sauer - Moral Teleology: A Theory of Progress",
+	"youtubeid": "33VKpmCQ7Sg",
+	"episodeid": "873"
+}

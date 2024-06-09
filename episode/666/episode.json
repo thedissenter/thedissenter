@@ -1,36 +1,19 @@
-excerpt: Dr. Luana Maroja is Professor of Biology at Williams College. She is interested
-  in the evolution of barriers to gene exchange, speciation, population genetics and
-  phylogeography. Her study systems are crickets (Gryllus), artic plants and butterflies
-  (heliconius).
-filename: 666-luana-maroja-gene-exchange--adaptation--speciation--and-phylogeography
-id: '666'
-image: https://i.ytimg.com/vi/ixJdk3PtwPg/maxresdefault.jpg
-interviewee:
-- Luana Maroja
-published: '2022-08-18'
-shownotes: "RECORDED ON MAY 25th 2022.  \nDr. Luana Maroja is Professor of Biology\
-  \ at Williams College. She is interested in the evolution of barriers to gene exchange,\
-  \ speciation, population genetics and phylogeography. Her study systems are crickets\
-  \ (Gryllus), artic plants and butterflies (heliconius).\n\nIn this episode, we talk\
-  \ about gene exchange, adaptation, speciation, and phylogeography. We start with\
-  \ gene exchange, and talk about how it occurs, gene transfers between species, and\
-  \ barriers to gene exchange. We talk about modular expression of genes. We discuss\
-  \ adaptations, how we can understand their evolution, and how to identify genes\
-  \ associated with them. We talk about speciation, and how we know it is occurring.\
-  \ We also talk about phylogeography, landscape genetics, and what leads to more\
-  \ diversity of species.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:43</time>\
-  \ Gene exchange, how it occurs, and its barriers  \n<time>24:21</time> Modular expression\
-  \ of genes  \n<time>27:17</time> Understanding how adaptations evolve  \n<time>32:24</time>\
-  \ Identifying genes associated with particular adaptations  \n<time>38:26</time>\
-  \ Speciation, and how we know when it is occurring  \n<time>41:24</time> Phylogeography\
-  \  \n<time>43:09</time> What leads to species diversity  \n<time>45:45</time> Landscape\
-  \ genetics  \n<time>51:22</time> Follow Dr. Maroja\u2019s work!\n\n---\n\nFollow\
-  \ Dr. Maroja\u2019s work:  \nFaculty page: https://bit.ly/37xYC1x  \nResearchGate\
-  \ profile: https://bit.ly/3MFd0XM\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/52553568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-25%2Fd677da20-07ed-e2ef-5d0b-65b58849c73c.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/666-Luana-Maroja-Gene-Exchange--Adaptation--Speciation--and-Phylogeography-e1j2ad0
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1660597700252-0bd7e884c26d4.jpg
-tags:
-- Biology
-title: '#666 Luana Maroja: Gene Exchange, Adaptation, Speciation, and Phylogeography'
-youtubeid: ixJdk3PtwPg
+{
+	"excerpt": "Dr. Luana Maroja is Professor of Biology at Williams College. She is interested in the evolution of barriers to gene exchange, speciation, population genetics and phylogeography. Her study systems are crickets (Gryllus), artic plants and butterflies (heliconius).",
+	"filename": "666-luana-maroja-gene-exchange--adaptation--speciation--and-phylogeography",
+	"image": "https://i.ytimg.com/vi/ixJdk3PtwPg/maxresdefault.jpg",
+	"interviewee": [
+		"Luana Maroja"
+	],
+	"published": "2022-08-18",
+	"shownotes": "RECORDED ON MAY 25th 2022.  \nDr. Luana Maroja is Professor of Biology at Williams College. She is interested in the evolution of barriers to gene exchange, speciation, population genetics and phylogeography. Her study systems are crickets (Gryllus), artic plants and butterflies (heliconius).\n\nIn this episode, we talk about gene exchange, adaptation, speciation, and phylogeography. We start with gene exchange, and talk about how it occurs, gene transfers between species, and barriers to gene exchange. We talk about modular expression of genes. We discuss adaptations, how we can understand their evolution, and how to identify genes associated with them. We talk about speciation, and how we know it is occurring. We also talk about phylogeography, landscape genetics, and what leads to more diversity of species.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:43</time> Gene exchange, how it occurs, and its barriers  \n<time>24:21</time> Modular expression of genes  \n<time>27:17</time> Understanding how adaptations evolve  \n<time>32:24</time> Identifying genes associated with particular adaptations  \n<time>38:26</time> Speciation, and how we know when it is occurring  \n<time>41:24</time> Phylogeography  \n<time>43:09</time> What leads to species diversity  \n<time>45:45</time> Landscape genetics  \n<time>51:22</time> Follow Dr. Maroja’s work!\n\n---\n\nFollow Dr. Maroja’s work:  \nFaculty page: https://bit.ly/37xYC1x  \nResearchGate profile: https://bit.ly/3MFd0XM\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/52553568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-25%2Fd677da20-07ed-e2ef-5d0b-65b58849c73c.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/666-Luana-Maroja-Gene-Exchange--Adaptation--Speciation--and-Phylogeography-e1j2ad0",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1660597700252-0bd7e884c26d4.jpg",
+	"tags": [
+		"Biology"
+	],
+	"title": "#666 Luana Maroja: Gene Exchange, Adaptation, Speciation, and Phylogeography",
+	"youtubeid": "ixJdk3PtwPg",
+	"episodeid": "666"
+}

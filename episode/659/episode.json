@@ -1,53 +1,23 @@
-excerpt: 'Dr. Nick Chater is Professor of Behavioural Science at Warwick Business
-  School. He works on rationality and language using a range of theoretical and experimental
-  approaches. '
-filename: 659-nick-chater--morten-christiansen---the-language-game-language-as-a-game-of-charades
-id: '659'
-image: https://i.ytimg.com/vi/taPsHecl0Oc/maxresdefault.jpg
-interviewee:
-- Nick Chater
-- Morten Christiansen
-published: '2022-08-01'
-shownotes: "RECORDED ON MAY 11th 2022.  \nDr. Nick Chater is Professor of Behavioural\
-  \ Science at Warwick Business School. He works on rationality and language using\
-  \ a range of theoretical and experimental approaches. \n\nDr. Morten Christiansen\
-  \ is William R. Kenan, Jr. Professor of Psychology in the Department of Psychology\
-  \ at Cornell University. His research focuses on the interaction of biological and\
-  \ environmental constraints in the evolution, acquisition and processing of language.\n\
-  \nThey are both authors of The Language Game: How Improvisation Created Language\
-  \ and Changed the World.\n\nIn this episode, we focus on The Language Game. Topics\
-  \ include: the importance of language; language as a game of charades; cognitive\
-  \ mechanisms necessary for language; how languages evolved; linguistic communication\
-  \ as a cooperation process; improvisation; how we keep up with and chunk language;\
-  \ the meanings of words; Universal Grammar; why other species do not use language;\
-  \ if language is in decline; improving children\u2019s language skills; if language\
-  \ influences thought; and how language might shield us from the technological singularity.\n\
-  \nTime Links:  \n<time>00:00</time> Intro  \n<time>00:56</time> The importance of\
-  \ language  \n<time>02:07</time> Language as a game of charades  \n<time>05:28</time>\
-  \ Do we need to know rules?  \n<time>07:13</time> Cognitive mechanisms for language\
-  \  \n<time>09:35</time> The evolution of language  \n<time>18:57</time> Linguistic\
-  \ communication as a cooperation process  \n<time>20:45</time> Improvisation  \n\
-  <time>22:33</time> How do we keep up with language?  \n<time>28:40</time> Do words\
-  \ have specific meanings?  \n<time>35:22</time> Universal Grammar  \n<time>44:29</time>\
-  \ Why other species do not use language  \n<time>53:45</time> Language and the evolution\
-  \ of culture  \n<time>55:24</time> Is language in decline?  \n<time>58:25</time>\
-  \ Improving children\u2019s language skills  \n<time>1:00:15</time> Does language\
-  \ influence thought?  \n<time>1:07:57</time> Language and the technological singularity\
-  \  \n<time>1:14:16</time> Follow Drs. Chater and Christiansen\u2019s work!\n\n---\n\
-  \nFollow Dr. Chater\u2019s work:  \nFaculty page: https://bit.ly/3xu5jz1  \nResearchGate\
-  \ profile: https://bit.ly/3jI4qLl  \nAmazon page: https://amzn.to/3uLGugb  \nTwitter\
-  \ handle: @NickJChater\n\nFollow Dr. Christiansen\u2019s work:   \nFaculty page:\
-  \ https://bit.ly/3K1eWIp  \nResearchGate profile: https://bit.ly/3OiGuMH  \nAmazon\
-  \ page: https://amzn.to/3uNvZJx  \nTwitter handle: @MH_Christiansen\n\nThe Language\
-  \ Game: https://amzn.to/3xxOfs8\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/51856473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-11%2Fbc482e62-9326-554b-d58c-8f11a624047b.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/659-Nick-Chater--Morten-Christiansen---The-Language-Game-Language-as-a-Game-of-Charades-e1id1kp
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1659171461711-3f648bbad3701.jpg
-tags:
-- Linguistics
-- Cognitive Science
-- Anthropology
-- Psychology
-title: '#659 Nick Chater & Morten Christiansen - The Language Game; Language as a
-  Game of Charades'
-youtubeid: taPsHecl0Oc
+{
+	"excerpt": "Dr. Nick Chater is Professor of Behavioural Science at Warwick Business School. He works on rationality and language using a range of theoretical and experimental approaches. ",
+	"filename": "659-nick-chater--morten-christiansen---the-language-game-language-as-a-game-of-charades",
+	"image": "https://i.ytimg.com/vi/taPsHecl0Oc/maxresdefault.jpg",
+	"interviewee": [
+		"Nick Chater",
+		"Morten Christiansen"
+	],
+	"published": "2022-08-01",
+	"shownotes": "RECORDED ON MAY 11th 2022.  \nDr. Nick Chater is Professor of Behavioural Science at Warwick Business School. He works on rationality and language using a range of theoretical and experimental approaches. \n\nDr. Morten Christiansen is William R. Kenan, Jr. Professor of Psychology in the Department of Psychology at Cornell University. His research focuses on the interaction of biological and environmental constraints in the evolution, acquisition and processing of language.\n\nThey are both authors of The Language Game: How Improvisation Created Language and Changed the World.\n\nIn this episode, we focus on The Language Game. Topics include: the importance of language; language as a game of charades; cognitive mechanisms necessary for language; how languages evolved; linguistic communication as a cooperation process; improvisation; how we keep up with and chunk language; the meanings of words; Universal Grammar; why other species do not use language; if language is in decline; improving children’s language skills; if language influences thought; and how language might shield us from the technological singularity.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:56</time> The importance of language  \n<time>02:07</time> Language as a game of charades  \n<time>05:28</time> Do we need to know rules?  \n<time>07:13</time> Cognitive mechanisms for language  \n<time>09:35</time> The evolution of language  \n<time>18:57</time> Linguistic communication as a cooperation process  \n<time>20:45</time> Improvisation  \n<time>22:33</time> How do we keep up with language?  \n<time>28:40</time> Do words have specific meanings?  \n<time>35:22</time> Universal Grammar  \n<time>44:29</time> Why other species do not use language  \n<time>53:45</time> Language and the evolution of culture  \n<time>55:24</time> Is language in decline?  \n<time>58:25</time> Improving children’s language skills  \n<time>1:00:15</time> Does language influence thought?  \n<time>1:07:57</time> Language and the technological singularity  \n<time>1:14:16</time> Follow Drs. Chater and Christiansen’s work!\n\n---\n\nFollow Dr. Chater’s work:  \nFaculty page: https://bit.ly/3xu5jz1  \nResearchGate profile: https://bit.ly/3jI4qLl  \nAmazon page: https://amzn.to/3uLGugb  \nTwitter handle: @NickJChater\n\nFollow Dr. Christiansen’s work:   \nFaculty page: https://bit.ly/3K1eWIp  \nResearchGate profile: https://bit.ly/3OiGuMH  \nAmazon page: https://amzn.to/3uNvZJx  \nTwitter handle: @MH_Christiansen\n\nThe Language Game: https://amzn.to/3xxOfs8\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/51856473/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-11%2Fbc482e62-9326-554b-d58c-8f11a624047b.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/659-Nick-Chater--Morten-Christiansen---The-Language-Game-Language-as-a-Game-of-Charades-e1id1kp",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1659171461711-3f648bbad3701.jpg",
+	"tags": [
+		"Linguistics",
+		"Cognitive Science",
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#659 Nick Chater & Morten Christiansen - The Language Game; Language as a Game of Charades",
+	"youtubeid": "taPsHecl0Oc",
+	"episodeid": "659"
+}

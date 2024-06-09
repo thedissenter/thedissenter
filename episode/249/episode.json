@@ -1,59 +1,20 @@
-excerpt: Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at
-  Harvard's Department of Economics. He applies game theory, models of learning and
-  evolution, and experimental methods, to try to decipher the (often subconscious
-  and subtle) incentives that shape our social behavior, preferences, and ideologies.
-  Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth
-  School of Business and his B.S. in Economics from the University of Chicago. He
-  also co-designed and teaches "Game Theory and Social Behavior" which lays out a
-  lot of the evidence and models behind this approach.
-filename: 249-moshe-hoffman-problems-with-theories-in-psychology
-id: '249'
-image: https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg
-interviewee:
-- Moshe Hoffman
-published: '2019-10-31'
-shownotes: "Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer\
-  \ at Harvard's Department of Economics. He applies game theory, models of learning\
-  \ and evolution, and experimental methods, to try to decipher the (often subconscious\
-  \ and subtle) incentives that shape our social behavior, preferences, and ideologies.\
-  \ Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth\
-  \ School of Business and his B.S. in Economics from the University of Chicago. He\
-  \ also co-designed and teaches \"Game Theory and Social Behavior\" which lays out\
-  \ a lot of the evidence and models behind this approach.\n\nIn this episode, we\
-  \ talk about problems in how people come up with explanations to social phenomena\
-  \ in the social sciences, and more specifically, in social psychology. We discuss\
-  \ the levels of analysis through which we can study social phenomena, and why intuitive\
-  \ explanations don\u2019t work. We also refer to perverse incentives in the social\
-  \ sciences. Dr. Hoffman then talks about the example of cognitive dissonance, and\
-  \ the correct interpretation of the phenomenon. In the latter part of the interview,\
-  \ we discuss the aspects of (social) behavior that evolutionary psychology explains\
-  \ well, and where it fails or is not enough.\n\nTime Links:  \n<time>00:55</time>\
-  \ Issues with how people study social phenomena (particularly in social psychology)\
-  \  \n<time>04:40</time> Levels of analysis for studying behavioral/social phenomena\
-  \  \n<time>11:28</time> The problem with explanations in social psychology  \n<time>16:22</time>\
-  \ Why intuitive explanations don\u2019t work  \n<time>21:42</time> Perverse incentives\
-  \ in the social sciences  \n<time>27:42</time> The example of cognitive dissonance\
-  \  \n<time>38:28</time> Why we can\u2019t change people\u2019s thinking and behavior\
-  \ with facts  \n<time>44:09</time> The interplay between evolutionary psychology\
-  \ and game theory  \n<time>1:01:28</time> Cultural traditions (and the example of\
-  \ the use of spices in food)  \n<time>1:03:25</time> Applying evolutionary psychology\
-  \ to understand social incentives  \n<time>1:12:53</time> Critique to Steven Pinker\u2019\
-  s take on \u201Cmoral progress\u201D  \n<time>48:53</time> Follow Dr. Hoffman\u2019\
-  s work!\n\n---\n\nFollow Dr. Hoffman\u2019s work:  \nFaculty page: https://tinyurl.com/y7g2ubal\
-  \  \nPersonal website: https://tinyurl.com/yboyxvxu  \nArticles on Researchgate:\
-  \ https://tinyurl.com/ybxwknfs  \nTwitter handle: @Moshe_Hoffman\n\nThe Twitter\
-  \ threads:  \n\u201CThe problems w/ \u201Ctheories\u201D in psychology.\u201D: http://bit.ly/30hRgt6\
-  \  \n\u201CBest criticism of social-psychology I have seen\u201D: http://bit.ly/30jBY6W\
-  \  \n\u201CSome thoughts on how to spot bull-shit in science/academia\u201D: http://bit.ly/2KNRdys\
-  \  \n\u201CA good theory should\u201D: http://bit.ly/2NiMMyA  \n\u201CWhy do I think\
-  \ our preferences and ideologies respond to incentives?\u201D: http://bit.ly/31O3h9R\
-  \  \n\u201CA thread clarifying my criticism of Evolutionary Psychology\u201D: http://bit.ly/31H8xfA\
-  \  \n\u201CWhy do people have ridiculous beliefs?\u201D: http://bit.ly/30mhb2M\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/4339101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595481-44100-2-f3b8e5f41e311.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/249-Moshe-Hoffman-Problems-With-Theories-In-Psychology-e52tut
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1566590263628-55f67c365c3da.jpg
-tags:
-- Game Theory
-- Psychology
-title: '#249 Moshe Hoffman: Problems With Theories In Psychology'
-youtubeid: m9Uc0e130hA
+{
+	"excerpt": "Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at Harvard's Department of Economics. He applies game theory, models of learning and evolution, and experimental methods, to try to decipher the (often subconscious and subtle) incentives that shape our social behavior, preferences, and ideologies. Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth School of Business and his B.S. in Economics from the University of Chicago. He also co-designed and teaches \"Game Theory and Social Behavior\" which lays out a lot of the evidence and models behind this approach.",
+	"filename": "249-moshe-hoffman-problems-with-theories-in-psychology",
+	"image": "https://i.ytimg.com/vi/m9Uc0e130hA/maxresdefault.jpg",
+	"interviewee": [
+		"Moshe Hoffman"
+	],
+	"published": "2019-10-31",
+	"shownotes": "Dr. Moshe Hoffman is a Research Scientist at MIT Media Lab & Lecturer at Harvard's Department of Economics. He applies game theory, models of learning and evolution, and experimental methods, to try to decipher the (often subconscious and subtle) incentives that shape our social behavior, preferences, and ideologies. Dr. Hoffman obtained his Ph.D. in Economics from the University of Chicago, Booth School of Business and his B.S. in Economics from the University of Chicago. He also co-designed and teaches \"Game Theory and Social Behavior\" which lays out a lot of the evidence and models behind this approach.\n\nIn this episode, we talk about problems in how people come up with explanations to social phenomena in the social sciences, and more specifically, in social psychology. We discuss the levels of analysis through which we can study social phenomena, and why intuitive explanations don’t work. We also refer to perverse incentives in the social sciences. Dr. Hoffman then talks about the example of cognitive dissonance, and the correct interpretation of the phenomenon. In the latter part of the interview, we discuss the aspects of (social) behavior that evolutionary psychology explains well, and where it fails or is not enough.\n\nTime Links:  \n<time>00:55</time> Issues with how people study social phenomena (particularly in social psychology)  \n<time>04:40</time> Levels of analysis for studying behavioral/social phenomena  \n<time>11:28</time> The problem with explanations in social psychology  \n<time>16:22</time> Why intuitive explanations don’t work  \n<time>21:42</time> Perverse incentives in the social sciences  \n<time>27:42</time> The example of cognitive dissonance  \n<time>38:28</time> Why we can’t change people’s thinking and behavior with facts  \n<time>44:09</time> The interplay between evolutionary psychology and game theory  \n<time>1:01:28</time> Cultural traditions (and the example of the use of spices in food)  \n<time>1:03:25</time> Applying evolutionary psychology to understand social incentives  \n<time>1:12:53</time> Critique to Steven Pinker’s take on “moral progress”  \n<time>48:53</time> Follow Dr. Hoffman’s work!\n\n---\n\nFollow Dr. Hoffman’s work:  \nFaculty page: https://tinyurl.com/y7g2ubal  \nPersonal website: https://tinyurl.com/yboyxvxu  \nArticles on Researchgate: https://tinyurl.com/ybxwknfs  \nTwitter handle: @Moshe_Hoffman\n\nThe Twitter threads:  \n“The problems w/ “theories” in psychology.”: http://bit.ly/30hRgt6  \n“Best criticism of social-psychology I have seen”: http://bit.ly/30jBY6W  \n“Some thoughts on how to spot bull-shit in science/academia”: http://bit.ly/2KNRdys  \n“A good theory should”: http://bit.ly/2NiMMyA  \n“Why do I think our preferences and ideologies respond to incentives?”: http://bit.ly/31O3h9R  \n“A thread clarifying my criticism of Evolutionary Psychology”: http://bit.ly/31H8xfA  \n“Why do people have ridiculous beliefs?”: http://bit.ly/30mhb2M\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/4339101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-23%2F21595481-44100-2-f3b8e5f41e311.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/249-Moshe-Hoffman-Problems-With-Theories-In-Psychology-e52tut",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1566590263628-55f67c365c3da.jpg",
+	"tags": [
+		"Game Theory",
+		"Psychology"
+	],
+	"title": "#249 Moshe Hoffman: Problems With Theories In Psychology",
+	"youtubeid": "m9Uc0e130hA",
+	"episodeid": "249"
+}

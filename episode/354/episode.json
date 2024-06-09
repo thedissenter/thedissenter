@@ -1,55 +1,20 @@
-excerpt: "Dr. Agner Fog is associate professor of computer science at Technical University\
-  \ of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology,\
-  \ Social systems and Computer Science. His current project is 'Theory of cultural\
-  \ change based on evolutionary psychology, evolutionary biology, and cultural evolution.'\
-  \ He\u2019s the author of \u201CWarlike and Peaceful Societies: The Interaction\
-  \ of Genes and Culture\u201D."
-filename: 354-agner-fog-warlike-and-peaceful-societies
-id: '354'
-image: https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg
-interviewee:
-- Agner Fog
-published: '2020-08-13'
-shownotes: "RECORDED ON JULY 18th, 2020.  \nDr. Agner Fog is associate professor of\
-  \ computer science at Technical University of Denmark. Dr. Fog does research in\
-  \ Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer\
-  \ Science. His current project is 'Theory of cultural change based on evolutionary\
-  \ psychology, evolutionary biology, and cultural evolution.' He\u2019s the author\
-  \ of \u201CWarlike and Peaceful Societies: The Interaction of Genes and Culture\u201D\
-  .\n\nIn this episode, we talk about warlike and peaceful societies. We discuss if\
-  \ war is part of human nature, and the ecological conditions that favor war and\
-  \ peace. We also mention the social structure of warlike societies. We ask why most\
-  \ warriors and chiefs are men. We then get into regality theory, and the differences\
-  \ between what Dr. Fog calls regal and kungic societies. We talk about the different\
-  \ types of war, focusing mostly on civil wars, and we also about terrorism and counterterrorist\
-  \ measures. We also refer to the Long Peace, authoritarianism on the right and the\
-  \ left, and scaremongering (in mass media). Finally, we talk about why Scandinavian\
-  \ peoples are the happiest in the world, and if regality theory can help us prevent\
-  \ and end wars, and change political systems.\n\nTime Links:  \n<time>00:54</time>\
-  \ Is war part of human nature?  \n<time>04:41</time> The ecological conditions that\
-  \ favor war and peace  \n<time>08:26</time> The social structure of warlike societies\
-  \  \n<time>20:54</time> Why are most warriors and chiefs men?  \n<time>24:10</time>\
-  \ What is regality theory? What are regal and kungic societies?  \n<time>31:47</time>\
-  \ Has war fueled innovation and civilization?  \n<time>34:59</time> Different types\
-  \ of war  \n<time>40:03</time> The conditions that favor civil wars  \n<time>42:57</time>\
-  \ Terrorism  \n<time>47:32</time> Do counterterrorist measures work?  \n<time>49:13</time>\
-  \ Are military external interventions a good strategy?  \n<time>51:16</time> The\
-  \ Long Peace  \n<time>54:32</time> Authoritarianism, and the connection with tightness/looseness\
-  \ theory  \n<time>1:05:02</time> Scaremongering, and the role of mass media    \n\
-  <time>1:07:07</time> More distinctions between regal and kungic societies (fertility\
-  \ rates, treatment of children, religion, and the arts)  \n<time>1:12:51</time>\
-  \ Why people in the Scandinavian countries are the happiest in the world  \n<time>1:15:21</time>\
-  \ Can regality theory help us prevent and end wars?  \n<time>1:20:11</time> Can\
-  \ we change societies?  \n<time>1:22:33</time> Follow Dr. Fog\u2019s work!\n\n---\n\
-  \nFollow Dr. Fog\u2019s work:  \nFaculty page: https://bit.ly/3jfvXlK  \nPersonal\
-  \ website: https://www.agner.org/  \nhttps://www.regality.info/  \nResearchGate\
-  \ profile: https://bit.ly/2WvdzLO  \nAmazon page: https://amzn.to/2Wxgjse  \nWarlike\
-  \ and Peaceful Societies: The Interaction of Genes and Culture: https://amzn.to/30CLIuL\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/354-Agner-Fog-Warlike-and-Peaceful-Societies-egupqs
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1595161020688-bc14ffd177c5c.jpg
-tags:
-- Anthropology
-- Psychology
-title: '#354 Agner Fog: Warlike and Peaceful Societies'
-youtubeid: uTA24MyC9rQ
+{
+	"excerpt": "Dr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”.",
+	"filename": "354-agner-fog-warlike-and-peaceful-societies",
+	"image": "https://i.ytimg.com/vi/uTA24MyC9rQ/maxresdefault.jpg",
+	"interviewee": [
+		"Agner Fog"
+	],
+	"published": "2020-08-13",
+	"shownotes": "RECORDED ON JULY 18th, 2020.  \nDr. Agner Fog is associate professor of computer science at Technical University of Denmark. Dr. Fog does research in Evolutionary Anthropology, Cultural Anthropology, Social systems and Computer Science. His current project is 'Theory of cultural change based on evolutionary psychology, evolutionary biology, and cultural evolution.' He’s the author of “Warlike and Peaceful Societies: The Interaction of Genes and Culture”.\n\nIn this episode, we talk about warlike and peaceful societies. We discuss if war is part of human nature, and the ecological conditions that favor war and peace. We also mention the social structure of warlike societies. We ask why most warriors and chiefs are men. We then get into regality theory, and the differences between what Dr. Fog calls regal and kungic societies. We talk about the different types of war, focusing mostly on civil wars, and we also about terrorism and counterterrorist measures. We also refer to the Long Peace, authoritarianism on the right and the left, and scaremongering (in mass media). Finally, we talk about why Scandinavian peoples are the happiest in the world, and if regality theory can help us prevent and end wars, and change political systems.\n\nTime Links:  \n<time>00:54</time> Is war part of human nature?  \n<time>04:41</time> The ecological conditions that favor war and peace  \n<time>08:26</time> The social structure of warlike societies  \n<time>20:54</time> Why are most warriors and chiefs men?  \n<time>24:10</time> What is regality theory? What are regal and kungic societies?  \n<time>31:47</time> Has war fueled innovation and civilization?  \n<time>34:59</time> Different types of war  \n<time>40:03</time> The conditions that favor civil wars  \n<time>42:57</time> Terrorism  \n<time>47:32</time> Do counterterrorist measures work?  \n<time>49:13</time> Are military external interventions a good strategy?  \n<time>51:16</time> The Long Peace  \n<time>54:32</time> Authoritarianism, and the connection with tightness/looseness theory  \n<time>1:05:02</time> Scaremongering, and the role of mass media    \n<time>1:07:07</time> More distinctions between regal and kungic societies (fertility rates, treatment of children, religion, and the arts)  \n<time>1:12:51</time> Why people in the Scandinavian countries are the happiest in the world  \n<time>1:15:21</time> Can regality theory help us prevent and end wars?  \n<time>1:20:11</time> Can we change societies?  \n<time>1:22:33</time> Follow Dr. Fog’s work!\n\n---\n\nFollow Dr. Fog’s work:  \nFaculty page: https://bit.ly/3jfvXlK  \nPersonal website: https://www.agner.org/  \nhttps://www.regality.info/  \nResearchGate profile: https://bit.ly/2WvdzLO  \nAmazon page: https://amzn.to/2Wxgjse  \nWarlike and Peaceful Societies: The Interaction of Genes and Culture: https://amzn.to/30CLIuL\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/16786716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-6-19%2Fd2f1f302-79e8-6e02-d78b-618b16533e4e.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/354-Agner-Fog-Warlike-and-Peaceful-Societies-egupqs",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1595161020688-bc14ffd177c5c.jpg",
+	"tags": [
+		"Anthropology",
+		"Psychology"
+	],
+	"title": "#354 Agner Fog: Warlike and Peaceful Societies",
+	"youtubeid": "uTA24MyC9rQ",
+	"episodeid": "354"
+}

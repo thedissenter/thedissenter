@@ -1,58 +1,22 @@
-excerpt: 'Dr. Tibor Rutar is Assistant Professor of Sociology at the University of
-  Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies
-  in Maribor, and Researcher at the Research Center for Strategy and Governance at
-  the University of Ljubljana. His scholarly work is currently focused on political,
-  economic and historical sociology, particularly longstanding social issues related
-  to democracy and capitalism. His lastest book is Capitalism for Realists: Virtues
-  and Vices of the Modern Economy (Routledge, 2022).'
-filename: 740-tibor-rutar---capitalism-for-realists-virtues-and-vices-of-the-modern-economy
-id: '740'
-image: https://i.ytimg.com/vi/b5-tB-SrHyI/maxresdefault.jpg
-interviewee:
-- Tibor Rutar
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/740-tibor-rutar-capitalism-for-realists-virtues-and/id1451347236?i=1000598327862&uo=4
-published: '2023-02-06'
-shownotes: "RECORDED ON JANUARY 25th 2023.  \nDr. Tibor Rutar is Assistant Professor\
-  \ of Sociology at the University of Maribor, Slovenia, Researcher at the Center\
-  \ for the Study of Post-Socialist Societies in Maribor, and Researcher at the Research\
-  \ Center for Strategy and Governance at the University of Ljubljana. His scholarly\
-  \ work is currently focused on political, economic and historical sociology, particularly\
-  \ longstanding social issues related to democracy and capitalism. His lastest book\
-  \ is Capitalism for Realists: Virtues and Vices of the Modern Economy (Routledge,\
-  \ 2022).\n\nIn this episode, we focus on Capitalism for Realists. We start by defining\
-  \ capitalism, and talk about people\u2019s current views on capitalism and socialism.\
-  \ We discuss what Marx got wrong about capitalism, Marxist and libertarian perspectives,\
-  \ and Dr. Rutar\u2019s approach. We talk about different explanations for the origins\
-  \ of capitalism, from Weber, Henrich, and Mokyr; an alternative explanation for\
-  \ its development in 15th and 16th-century England; and we also address explanations\
-  \ based on cultural superiority. We get into topics like market exploitation and\
-  \ the minimum wage; the relationship between capitalism and poverty; economic inequality;\
-  \ the term \u201Cneoliberalism\u201D; and claims about the moral effects of markets.\
-  \ Finally, we talk about climate change, and discuss if it is caused by capitalism.\n\
-  \nTime Links:  \n<time>00:00</time> Intro  \n<time>00:52</time> Defining capitalism\
-  \  \n<time>04:24</time> People\u2019s views on capitalism and socialism  \n<time>07:12</time>\
-  \ What did Marx get wrong about capitalism?  \n<time>12:09</time> Marxist and libertarian\
-  \ perspectives, and Dr. Rutar\u2019s approach  \n<time>14:57</time> The origins\
-  \ of capitalism: Weber\u2019s, Henrich\u2019s, and Mokyr\u2019s explanations  \n\
-  <time>19:00</time> An alternative explanation for the development of capitalism\
-  \ in 15th and 16th-century England  \n<time>25:18</time> Explanations based on cultural\
-  \ superiority  \n<time>28:10</time> Market exploitation and the minimum wage  \n\
-  <time>35:18</time> The relationship between capitalism and poverty  \n<time>42:01</time>\
-  \ Economic inequality: is it on the rise? What drives it? What are its effects?\
-  \  \n<time>52:26</time> \u201CNeoliberalism\u201D: what does it mean? Is it a useful\
-  \ concept?  \n<time>1:01:42</time> Morals of the market  \n<time>1:06:22</time>\
-  \ Climate change: did capitalism cause it? Can it ease its effects?  \n<time>1:14:46</time>\
-  \ A final observation  \n<time>1:18:13</time> Follow Dr. Rutar\u2019s work!\n\n\
-  ---\n\nFollow Dr. Rutar\u2019s work:  \nUniversity page (Ljubljana): http://bit.ly/3J5XZj6\
-  \  \nCenter for the Study of Post-Socialist Societies page: http://bit.ly/3Ws4S18\
-  \  \nResearchGate profile: https://bit.ly/3Wthd52  \nCapitalism for Realists: https://bit.ly/3XK5ZKD\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/64011772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-25%2F4101d0fe-acb5-a89e-d0c0-552009a6a005.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/740-Tibor-Rutar---Capitalism-for-Realists-Virtues-and-Vices-of-the-Modern-Economy-e1u001s
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1674648045662-04729f9f16cf2.jpg
-tags:
-- Politics
-- Economics
-- Sociology
-title: '#740 Tibor Rutar - Capitalism for Realists: Virtues and Vices of the Modern
-  Economy'
-youtubeid: b5-tB-SrHyI
+{
+	"excerpt": "Dr. Tibor Rutar is Assistant Professor of Sociology at the University of Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies in Maribor, and Researcher at the Research Center for Strategy and Governance at the University of Ljubljana. His scholarly work is currently focused on political, economic and historical sociology, particularly longstanding social issues related to democracy and capitalism. His lastest book is Capitalism for Realists: Virtues and Vices of the Modern Economy (Routledge, 2022).",
+	"filename": "740-tibor-rutar---capitalism-for-realists-virtues-and-vices-of-the-modern-economy",
+	"image": "https://i.ytimg.com/vi/b5-tB-SrHyI/maxresdefault.jpg",
+	"interviewee": [
+		"Tibor Rutar"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/740-tibor-rutar-capitalism-for-realists-virtues-and/id1451347236?i=1000598327862&uo=4",
+	"published": "2023-02-06",
+	"shownotes": "RECORDED ON JANUARY 25th 2023.  \nDr. Tibor Rutar is Assistant Professor of Sociology at the University of Maribor, Slovenia, Researcher at the Center for the Study of Post-Socialist Societies in Maribor, and Researcher at the Research Center for Strategy and Governance at the University of Ljubljana. His scholarly work is currently focused on political, economic and historical sociology, particularly longstanding social issues related to democracy and capitalism. His lastest book is Capitalism for Realists: Virtues and Vices of the Modern Economy (Routledge, 2022).\n\nIn this episode, we focus on Capitalism for Realists. We start by defining capitalism, and talk about people’s current views on capitalism and socialism. We discuss what Marx got wrong about capitalism, Marxist and libertarian perspectives, and Dr. Rutar’s approach. We talk about different explanations for the origins of capitalism, from Weber, Henrich, and Mokyr; an alternative explanation for its development in 15th and 16th-century England; and we also address explanations based on cultural superiority. We get into topics like market exploitation and the minimum wage; the relationship between capitalism and poverty; economic inequality; the term “neoliberalism”; and claims about the moral effects of markets. Finally, we talk about climate change, and discuss if it is caused by capitalism.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:52</time> Defining capitalism  \n<time>04:24</time> People’s views on capitalism and socialism  \n<time>07:12</time> What did Marx get wrong about capitalism?  \n<time>12:09</time> Marxist and libertarian perspectives, and Dr. Rutar’s approach  \n<time>14:57</time> The origins of capitalism: Weber’s, Henrich’s, and Mokyr’s explanations  \n<time>19:00</time> An alternative explanation for the development of capitalism in 15th and 16th-century England  \n<time>25:18</time> Explanations based on cultural superiority  \n<time>28:10</time> Market exploitation and the minimum wage  \n<time>35:18</time> The relationship between capitalism and poverty  \n<time>42:01</time> Economic inequality: is it on the rise? What drives it? What are its effects?  \n<time>52:26</time> “Neoliberalism”: what does it mean? Is it a useful concept?  \n<time>1:01:42</time> Morals of the market  \n<time>1:06:22</time> Climate change: did capitalism cause it? Can it ease its effects?  \n<time>1:14:46</time> A final observation  \n<time>1:18:13</time> Follow Dr. Rutar’s work!\n\n---\n\nFollow Dr. Rutar’s work:  \nUniversity page (Ljubljana): http://bit.ly/3J5XZj6  \nCenter for the Study of Post-Socialist Societies page: http://bit.ly/3Ws4S18  \nResearchGate profile: https://bit.ly/3Wthd52  \nCapitalism for Realists: https://bit.ly/3XK5ZKD\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/64011772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-25%2F4101d0fe-acb5-a89e-d0c0-552009a6a005.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/740-Tibor-Rutar---Capitalism-for-Realists-Virtues-and-Vices-of-the-Modern-Economy-e1u001s",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/1264936/1264936-1674648045662-04729f9f16cf2.jpg",
+	"tags": [
+		"Politics",
+		"Economics",
+		"Sociology"
+	],
+	"title": "#740 Tibor Rutar - Capitalism for Realists: Virtues and Vices of the Modern Economy",
+	"youtubeid": "b5-tB-SrHyI",
+	"episodeid": "740"
+}

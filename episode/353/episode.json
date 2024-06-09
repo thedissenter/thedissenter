@@ -1,34 +1,20 @@
-excerpt: "Dr. Guy Madison is Professor at the Department of Psychology at University\
-  \ of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary\
-  \ Biology. "
-filename: 353-guy-madison-the-psychology-of-music
-id: '353'
-image: https://i.ytimg.com/vi/hMHPqjF27q4/maxresdefault.jpg
-interviewee:
-- Guy Madison
-published: '2020-08-10'
-shownotes: "RECORDED ON JUNE 17th, 2020.  \nDr. Guy Madison is Professor at the Department\
-  \ of Psychology at University of Ume\xE5, Sweden. Dr. Madison does research in Neuroscience,\
-  \ Genetics and Evolutionary Biology. \n\nIn this episode, we talk about the psychology\
-  \ of music, and several of the topics studied in this discipline. We talk about\
-  \ the possible evolutionary bases of music, including the role of sexual selection.\
-  \ We also discuss the genetic basis of musical ability, how it relates to personality\
-  \ and IQ, how music might improve certain kinds of physical exercise, isochrony\
-  \ and human rhythm, and how people develop their musical preferences.\n\nTime Links:\
-  \  \n<time>00:41</time> The psychology of music  \n<time>05:19</time> The evolutionary\
-  \ bases of music  \n<time>09:42</time> Sexual selection and musical abilities  \n\
-  <time>13:17</time> Do other animals have music?  \n<time>15:15</time> The genetics\
-  \ of music  \n<time>22:21</time> Motivations to learn and practice music  \n<time>27:12</time>\
-  \ IQ and musical abilities  \n<time>29:51</time> Does practice make perfect?  \n\
-  <time>34:43</time> Music and physical exercise  \n<time>38:05</time> Isochrony and\
-  \ human rhythm  \n<time>45:54</time> How musical preferences develop  \n<time>1:04:07</time>\
-  \ Follow Dr. Madison\u2019s work!\n\n---\n\nFollow Dr. Madison\u2019s work:  \n\
-  Faculty page: https://bit.ly/2YbHaeO  \nResearchGate profile: https://bit.ly/3hAj8S5\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/15367980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83333082-44100-2-76ff6bb985bd5.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/353-Guy-Madison-The-Psychology-of-Music-efjgbc
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1592485937675-7d5fafbed4fec.jpg
-tags:
-- Cognitive Science
-- Psychology
-title: '#353 Guy Madison: The Psychology of Music'
-youtubeid: hMHPqjF27q4
+{
+	"excerpt": "Dr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. ",
+	"filename": "353-guy-madison-the-psychology-of-music",
+	"image": "https://i.ytimg.com/vi/hMHPqjF27q4/maxresdefault.jpg",
+	"interviewee": [
+		"Guy Madison"
+	],
+	"published": "2020-08-10",
+	"shownotes": "RECORDED ON JUNE 17th, 2020.  \nDr. Guy Madison is Professor at the Department of Psychology at University of Umeå, Sweden. Dr. Madison does research in Neuroscience, Genetics and Evolutionary Biology. \n\nIn this episode, we talk about the psychology of music, and several of the topics studied in this discipline. We talk about the possible evolutionary bases of music, including the role of sexual selection. We also discuss the genetic basis of musical ability, how it relates to personality and IQ, how music might improve certain kinds of physical exercise, isochrony and human rhythm, and how people develop their musical preferences.\n\nTime Links:  \n<time>00:41</time> The psychology of music  \n<time>05:19</time> The evolutionary bases of music  \n<time>09:42</time> Sexual selection and musical abilities  \n<time>13:17</time> Do other animals have music?  \n<time>15:15</time> The genetics of music  \n<time>22:21</time> Motivations to learn and practice music  \n<time>27:12</time> IQ and musical abilities  \n<time>29:51</time> Does practice make perfect?  \n<time>34:43</time> Music and physical exercise  \n<time>38:05</time> Isochrony and human rhythm  \n<time>45:54</time> How musical preferences develop  \n<time>1:04:07</time> Follow Dr. Madison’s work!\n\n---\n\nFollow Dr. Madison’s work:  \nFaculty page: https://bit.ly/2YbHaeO  \nResearchGate profile: https://bit.ly/3hAj8S5\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/15367980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-18%2F83333082-44100-2-76ff6bb985bd5.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/353-Guy-Madison-The-Psychology-of-Music-efjgbc",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1592485937675-7d5fafbed4fec.jpg",
+	"tags": [
+		"Cognitive Science",
+		"Psychology"
+	],
+	"title": "#353 Guy Madison: The Psychology of Music",
+	"youtubeid": "hMHPqjF27q4",
+	"episodeid": "353"
+}

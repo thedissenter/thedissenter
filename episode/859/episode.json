@@ -1,47 +1,20 @@
-excerpt: Anna Riedl is a cognitive scientist, specialized in rational decision-making.
-  She is an active public speaker and science communicator. She was a researcher at
-  the Viennese Institute for Artificial Intelligence and Decision Support. Anna is
-  also a member of the Global Shapers Community organized by the World Economic Forum
-  and served as curator for the Vienna Hub.
-filename: 859-anna-riedl-historical-map-of-the-cognitive-sciences--and-the-great-rationality-debate
-id: '859'
-image: https://i.ytimg.com/vi/0aQebCENIjg/maxresdefault.jpg
-interviewee:
-- Anna Riedl
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/859-anna-riedl-historical-map-of-the-cognitive/id1451347236?i=1000634415061&uo=4
-published: '2023-11-10'
-shownotes: "RECORDED ON OCTOBER 31st 2023.  \nAnna Riedl is a cognitive scientist,\
-  \ specialized in rational decision-making. She is an active public speaker and science\
-  \ communicator. She was a researcher at the Viennese Institute for Artificial Intelligence\
-  \ and Decision Support. Anna is also a member of the Global Shapers Community organized\
-  \ by the World Economic Forum and served as curator for the Vienna Hub.\n\nIn this\
-  \ episode, we start by talking about Anna\u2019s Historical Map of (the) Cognitive\
-  \ Science(s) project. We discuss what counts as cognitive science, and go through\
-  \ some of the big theories and paradigms in cognitive science from the 19th century\
-  \ to the 21st century. We then talk about the Great Rationality Debate, and discuss\
-  \ topics like biases and heuristics, ecological rationality, and relevance realization.\
-  \ We also discuss whether rationality is mostly an individual or a social phenomenon,\
-  \ whether the rationality debate might have daily life applications, and the current\
-  \ state and future of the debate.\n\nTime Links:  \n<time>00:00</time> Intro  \n\
-  <time>00:38</time> A Historical Map of (the) Cognitive Science(s)  \n<time>04:09</time>\
-  \ What is cognitive science?  \n<time>08:27</time> The 19th century  \n<time>11:17</time>\
-  \ The 20th century, and its the big theories and paradigms  \n<time>23:32</time>\
-  \ The 21st century  \n<time>28:21</time> The big historical paradigms in cognitive\
-  \ science  \n<time>31:54</time> The present and future of cognitive science  \n\
-  <time>35:00</time> The Great Rationality Debate  \n<time>40:09</time> Biases and\
-  \ heuristics: mental shortcuts or errors?  \n<time>43:37</time> Ecological rationality\
-  \  \n<time>45:08</time> Two conflicts: efficiency-robustness, and speed-accuracy\
-  \  \n<time>50:14</time> Uncertainty  \n<time>51:43</time> Relevance realization\
-  \  \n<time>58:50</time> Is rationality an individual or a social phenomenon?  \n\
-  <time>1:01:40</time> Daily life applications, and self-knowledge  \n<time>1:06:53</time>\
-  \ The current state of the rationality debate  \n<time>1:11:53</time> Follow Anna\u2019\
-  s work!\n\n---\n\nFollow Anna\u2019s work:  \nWebsite: https://bit.ly/46hbh59  \n\
-  Academia.edu page: https://bit.ly/48LFye2  \nTwitter handle: @AnnaLeptikon\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/77976914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-31%2F8c989e1c-eefd-4043-1bce-78a95dc5be8b.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/859-Anna-Riedl-Historical-Map-of-the-Cognitive-Sciences--and-the-Great-Rationality-Debate-e2ba5si
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1698766510758-27d4dc10be3f9.jpg
-tags:
-- Cognitive Science
-title: '#859 Anna Riedl: Historical Map of the Cognitive Sciences, and the Great Rationality
-  Debate'
-youtubeid: 0aQebCENIjg
+{
+	"excerpt": "Anna Riedl is a cognitive scientist, specialized in rational decision-making. She is an active public speaker and science communicator. She was a researcher at the Viennese Institute for Artificial Intelligence and Decision Support. Anna is also a member of the Global Shapers Community organized by the World Economic Forum and served as curator for the Vienna Hub.",
+	"filename": "859-anna-riedl-historical-map-of-the-cognitive-sciences--and-the-great-rationality-debate",
+	"image": "https://i.ytimg.com/vi/0aQebCENIjg/maxresdefault.jpg",
+	"interviewee": [
+		"Anna Riedl"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/859-anna-riedl-historical-map-of-the-cognitive/id1451347236?i=1000634415061&uo=4",
+	"published": "2023-11-10",
+	"shownotes": "RECORDED ON OCTOBER 31st 2023.  \nAnna Riedl is a cognitive scientist, specialized in rational decision-making. She is an active public speaker and science communicator. She was a researcher at the Viennese Institute for Artificial Intelligence and Decision Support. Anna is also a member of the Global Shapers Community organized by the World Economic Forum and served as curator for the Vienna Hub.\n\nIn this episode, we start by talking about Anna’s Historical Map of (the) Cognitive Science(s) project. We discuss what counts as cognitive science, and go through some of the big theories and paradigms in cognitive science from the 19th century to the 21st century. We then talk about the Great Rationality Debate, and discuss topics like biases and heuristics, ecological rationality, and relevance realization. We also discuss whether rationality is mostly an individual or a social phenomenon, whether the rationality debate might have daily life applications, and the current state and future of the debate.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:38</time> A Historical Map of (the) Cognitive Science(s)  \n<time>04:09</time> What is cognitive science?  \n<time>08:27</time> The 19th century  \n<time>11:17</time> The 20th century, and its the big theories and paradigms  \n<time>23:32</time> The 21st century  \n<time>28:21</time> The big historical paradigms in cognitive science  \n<time>31:54</time> The present and future of cognitive science  \n<time>35:00</time> The Great Rationality Debate  \n<time>40:09</time> Biases and heuristics: mental shortcuts or errors?  \n<time>43:37</time> Ecological rationality  \n<time>45:08</time> Two conflicts: efficiency-robustness, and speed-accuracy  \n<time>50:14</time> Uncertainty  \n<time>51:43</time> Relevance realization  \n<time>58:50</time> Is rationality an individual or a social phenomenon?  \n<time>1:01:40</time> Daily life applications, and self-knowledge  \n<time>1:06:53</time> The current state of the rationality debate  \n<time>1:11:53</time> Follow Anna’s work!\n\n---\n\nFollow Anna’s work:  \nWebsite: https://bit.ly/46hbh59  \nAcademia.edu page: https://bit.ly/48LFye2  \nTwitter handle: @AnnaLeptikon\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/77976914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-31%2F8c989e1c-eefd-4043-1bce-78a95dc5be8b.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/859-Anna-Riedl-Historical-Map-of-the-Cognitive-Sciences--and-the-Great-Rationality-Debate-e2ba5si",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1698766510758-27d4dc10be3f9.jpg",
+	"tags": [
+		"Cognitive Science"
+	],
+	"title": "#859 Anna Riedl: Historical Map of the Cognitive Sciences, and the Great Rationality Debate",
+	"youtubeid": "0aQebCENIjg",
+	"episodeid": "859"
+}

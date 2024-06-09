@@ -1,52 +1,20 @@
-excerpt: "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy\
-  \ at Carnegie Mellon University. In addition to his primary appointment at Carnegie\
-  \ Mellon, he is an associate fellow at the Center for Philosophy of Science at the\
-  \ University of Pittsburgh, a visiting professor at the Munich Center for Mathematical\
-  \ Philosophy (part of Ludwig-Maximilians Universit\xE4t), and an associate editor\
-  \ of the journal Philosophy of Science. With Paul Raeburn, he is the author of The\
-  \ Game Theorist's Guide to Parenting."
-filename: 264-kevin-zollman-game-theory--evolutionary-biology--and-social-dynamics
-id: '264'
-image: https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg
-interviewee:
-- Kevin Zollman
-published: '2019-12-05'
-shownotes: "RECORDED ON SEPTEMBER 25th, 2019.  \nDr. Kevin Zollman is an Associate\
-  \ Professor in the Department of Philosophy at Carnegie Mellon University. In addition\
-  \ to his primary appointment at Carnegie Mellon, he is an associate fellow at the\
-  \ Center for Philosophy of Science at the University of Pittsburgh, a visiting professor\
-  \ at the Munich Center for Mathematical Philosophy (part of Ludwig-Maximilians Universit\xE4\
-  t), and an associate editor of the journal Philosophy of Science. With Paul Raeburn,\
-  \ he is the author of The Game Theorist's Guide to Parenting.\n\nIn this episode,\
-  \ we talk about game theory applied to biological phenomena and social dynamics.\
-  \ We go through several topics, including evolutionary stable strategies; signaling\
-  \ theory; honest communication and language; behavioral plasticity, and the evolution\
-  \ of culture; social norms; and epistemic communities, and how to improve science\
-  \ production.\n\nTime Links:  \n<time>00:48</time> Game theory, evolution, and social\
-  \ dynamics  \n<time>06:58</time> Evolutionary Stable Strategies (ESS)  \n<time>12:00</time>\
-  \ Signaling theory, the handicap principle, and other theories of signaling  \n\
-  <time>18:31</time> Honest communication and language, and cheater detection  \n\
-  <time>27:51</time> The evolution of behavioral plasticity  \n<time>34:16</time>\
-  \ Behavioral plasticity, and the evolution of culture  \n<time>36:41</time> How\
-  \ we get social norms  \n<time>40:12</time> The interplay between individuals and\
-  \ societies  \n<time>48:32</time> \u201CAssortative\u201D sociology  \n<time>53:03</time>\
-  \ Epistemic communities  \n<time>56:00</time> Improving science by understanding\
-  \ scientists\u2019 social dynamics  \n<time>1:02:33</time> Follow Dr. Zollman\u2019\
-  s work!\n\n---\n\nFollow Dr. Zollman\u2019s work:  \nFaculty page: http://bit.ly/2MQWyb2\
-  \  \nPersonal website: http://bit.ly/2lwP7e4  \nResearchGate profile: http://bit.ly/2KGqHXO\
-  \  \nTwitter handle: @KevinZollman  \nThe Game Theorist's Guide to Parenting: https://amzn.to/2mJmKct\
-  \  \nNicky Case: http://bit.ly/2n9sMU4\n\nRelevant papers:  \nAn Evolutionary Comparison\
-  \ of the Handicap Principle and Hybrid Equilibrium Theories of Signaling: http://bit.ly/2l3ph0M\
-  \  \nBetween Cheap and Costly Signals: The Evolution of Partially Honest Communication:\
-  \ http://bit.ly/2lFJKZV  \nMethodology in Biological Game Theory: http://bit.ly/2lahdvq\
-  \  \nSignaling games: The dynamics of evolution and learning: http://bit.ly/2lIL665\
-  \  \nThe Stability of Strategic Plasticity: http://bit.ly/2l0WvxM  \nThe Communication\
-  \ Structure of Epistemic Communities: http://bit.ly/2ndwTi3\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/264-Kevin-Zollman-Game-Theory--Evolutionary-Biology--And-Social-Dynamics-e5k4pc
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1569587032207-f75bdc5c0982.jpg
-tags:
-- Game Theory
-- Philosophy
-title: '#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics'
-youtubeid: f_JjVtsaTiw
+{
+	"excerpt": "Dr. Kevin Zollman is an Associate Professor in the Department of Philosophy at Carnegie Mellon University. In addition to his primary appointment at Carnegie Mellon, he is an associate fellow at the Center for Philosophy of Science at the University of Pittsburgh, a visiting professor at the Munich Center for Mathematical Philosophy (part of Ludwig-Maximilians Universität), and an associate editor of the journal Philosophy of Science. With Paul Raeburn, he is the author of The Game Theorist's Guide to Parenting.",
+	"filename": "264-kevin-zollman-game-theory--evolutionary-biology--and-social-dynamics",
+	"image": "https://i.ytimg.com/vi/f_JjVtsaTiw/maxresdefault.jpg",
+	"interviewee": [
+		"Kevin Zollman"
+	],
+	"published": "2019-12-05",
+	"shownotes": "RECORDED ON SEPTEMBER 25th, 2019.  \nDr. Kevin Zollman is an Associate Professor in the Department of Philosophy at Carnegie Mellon University. In addition to his primary appointment at Carnegie Mellon, he is an associate fellow at the Center for Philosophy of Science at the University of Pittsburgh, a visiting professor at the Munich Center for Mathematical Philosophy (part of Ludwig-Maximilians Universität), and an associate editor of the journal Philosophy of Science. With Paul Raeburn, he is the author of The Game Theorist's Guide to Parenting.\n\nIn this episode, we talk about game theory applied to biological phenomena and social dynamics. We go through several topics, including evolutionary stable strategies; signaling theory; honest communication and language; behavioral plasticity, and the evolution of culture; social norms; and epistemic communities, and how to improve science production.\n\nTime Links:  \n<time>00:48</time> Game theory, evolution, and social dynamics  \n<time>06:58</time> Evolutionary Stable Strategies (ESS)  \n<time>12:00</time> Signaling theory, the handicap principle, and other theories of signaling  \n<time>18:31</time> Honest communication and language, and cheater detection  \n<time>27:51</time> The evolution of behavioral plasticity  \n<time>34:16</time> Behavioral plasticity, and the evolution of culture  \n<time>36:41</time> How we get social norms  \n<time>40:12</time> The interplay between individuals and societies  \n<time>48:32</time> “Assortative” sociology  \n<time>53:03</time> Epistemic communities  \n<time>56:00</time> Improving science by understanding scientists’ social dynamics  \n<time>1:02:33</time> Follow Dr. Zollman’s work!\n\n---\n\nFollow Dr. Zollman’s work:  \nFaculty page: http://bit.ly/2MQWyb2  \nPersonal website: http://bit.ly/2lwP7e4  \nResearchGate profile: http://bit.ly/2KGqHXO  \nTwitter handle: @KevinZollman  \nThe Game Theorist's Guide to Parenting: https://amzn.to/2mJmKct  \nNicky Case: http://bit.ly/2n9sMU4\n\nRelevant papers:  \nAn Evolutionary Comparison of the Handicap Principle and Hybrid Equilibrium Theories of Signaling: http://bit.ly/2l3ph0M  \nBetween Cheap and Costly Signals: The Evolution of Partially Honest Communication: http://bit.ly/2lFJKZV  \nMethodology in Biological Game Theory: http://bit.ly/2lahdvq  \nSignaling games: The dynamics of evolution and learning: http://bit.ly/2lIL665  \nThe Stability of Strategic Plasticity: http://bit.ly/2l0WvxM  \nThe Communication Structure of Epistemic Communities: http://bit.ly/2ndwTi3\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/4903148/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-8-27%2F25122939-44100-2-5b333d66c0912.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/264-Kevin-Zollman-Game-Theory--Evolutionary-Biology--And-Social-Dynamics-e5k4pc",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1264936/1264936-1569587032207-f75bdc5c0982.jpg",
+	"tags": [
+		"Game Theory",
+		"Philosophy"
+	],
+	"title": "#264 Kevin Zollman: Game Theory, Evolutionary Biology, And Social Dynamics",
+	"youtubeid": "f_JjVtsaTiw",
+	"episodeid": "264"
+}

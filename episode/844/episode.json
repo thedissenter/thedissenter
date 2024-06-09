@@ -1,53 +1,21 @@
-excerpt: 'Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness
-  at Riken Institute. He works on the neural mechanisms of conscious perception, attention,
-  and sensory metacognition, using human fMRI and Bayesian computational modeling.
-  He is the author of In Consciousness We Trust: The Cognitive Neuroscience of Subjective
-  Experience.'
-filename: 844-hakwan-lau---in-consciousness-we-trust-the-cognitive-neuroscience-of-subjective-experience
-id: '844'
-image: https://i.ytimg.com/vi/MrWoLH3IUNo/maxresdefault.jpg
-interviewee:
-- Hakwan Lau
-itunesEpisodeUrl: https://podcasts.apple.com/us/podcast/844-hakwan-lau-in-consciousness-we-trust-the/id1451347236?i=1000630466337&uo=4
-published: '2023-10-06'
-shownotes: "Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness\
-  \ at Riken Institute. He works on the neural mechanisms of conscious perception,\
-  \ attention, and sensory metacognition, using human fMRI and Bayesian computational\
-  \ modeling. He is the author of In Consciousness We Trust: The Cognitive Neuroscience\
-  \ of Subjective Experience.\n\nIn this episode, we focus on In Consciousness We\
-  \ Trust. We talk about approaching consciousness from the perspective of cognitive\
-  \ neuroscience, and issues with approaches from physics and philosophy. We discuss\
-  \ different notions of consciousness, and the distinction between global and local\
-  \ theories of consciousness. We talk about the neural correlates of consciousness\
-  \ line of research, lesion and simulation studies, and localizationist and modular\
-  \ perspectives of the brain. We also talk about Michael Gazzaniga, the split-brain\
-  \ patients, and the interpretative theory of consciousness. We discuss the functions\
-  \ of consciousness. We talk about what we can learn from AI research. We discuss\
-  \ what we really know about animal consciousness, and if AI can be conscious. We\
-  \ talk about how social and clinical scientists approach consciousness. Finally,\
-  \ we discuss the hard problem of consciousness.\n\nTime Links:  \n<time>00:00</time>\
-  \ Intro  \n<time>00:42</time> Approaching consciousness from the perspective of\
-  \ cognitive neuroscience  \n<time>03:18</time> Approaches from physics and philosophy\
-  \  \n<time>08:24</time> Different notions of consciousness  \n<time>12:10</time>\
-  \ Global versus local theories of consciousness  \n<time>15:17</time> The neural\
-  \ correlates of consciousness  \n<time>21:07</time> Lesion and stimulation studies\
-  \  \n<time>28:26</time> Localizationist and modular perspectives of the brain  \n\
-  <time>31:24</time> Michael Gazzaniga, the split-brain patients, and the interpretative\
-  \ theory of consciousness  \n<time>35:41</time> The functions of consciousness \
-  \ \n<time>43:44</time> A centrist approach to consciousness  \n<time>44:44</time>\
-  \ What we can learn from AI research  \n<time>48:32</time> What do we know about\
-  \ animal consciousness?  \n<time>55:29</time> Can AI be conscious?  \n<time>1:02:56</time>\
-  \ How social and clinical scientists approach consciousness  \n<time>1:05:54</time>\
-  \ The hard problem of consciousness  \n<time>1:10:44</time> Follow Dr. Lau\u2019\
-  s work!\n\n---\n\nFollow Dr. Lau\u2019s work:  \nUniversity page: http://bit.ly/3wcWiss\
-  \  \nWebsite: http://bit.ly/3Xiva77  \nResearchGate profile: https://bit.ly/3XpRUSP\
-  \  \nIn Consciousness We Trust: https://bit.ly/42aGxQi  \nTwitter handle: @hakwanlau\n"
-spotifyAudioUrl: https://anchor.fm/s/822ba20/podcast/play/71156794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-28%2F7b8271dd-bb92-a5a3-fd1b-6697baa7bf51.m4a
-spotifyEpisodeUrl: https://podcasters.spotify.com/pod/show/thedissenter/episodes/844-Hakwan-Lau---In-Consciousness-We-Trust-The-Cognitive-Neuroscience-of-Subjective-Experience-e24q1jq
-spotifyImageUrl: https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1685270770276-7651de8cff83c.jpg
-tags:
-- Cognitive Science
-- Neuroscience
-title: '#844 Hakwan Lau - In Consciousness We Trust: The Cognitive Neuroscience of
-  Subjective Experience'
-youtubeid: MrWoLH3IUNo
+{
+	"excerpt": "Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness at Riken Institute. He works on the neural mechanisms of conscious perception, attention, and sensory metacognition, using human fMRI and Bayesian computational modeling. He is the author of In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience.",
+	"filename": "844-hakwan-lau---in-consciousness-we-trust-the-cognitive-neuroscience-of-subjective-experience",
+	"image": "https://i.ytimg.com/vi/MrWoLH3IUNo/maxresdefault.jpg",
+	"interviewee": [
+		"Hakwan Lau"
+	],
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/844-hakwan-lau-in-consciousness-we-trust-the/id1451347236?i=1000630466337&uo=4",
+	"published": "2023-10-06",
+	"shownotes": "Dr. Hakwan Lau is Principal Investigator for the Laboratory for Consciousness at Riken Institute. He works on the neural mechanisms of conscious perception, attention, and sensory metacognition, using human fMRI and Bayesian computational modeling. He is the author of In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience.\n\nIn this episode, we focus on In Consciousness We Trust. We talk about approaching consciousness from the perspective of cognitive neuroscience, and issues with approaches from physics and philosophy. We discuss different notions of consciousness, and the distinction between global and local theories of consciousness. We talk about the neural correlates of consciousness line of research, lesion and simulation studies, and localizationist and modular perspectives of the brain. We also talk about Michael Gazzaniga, the split-brain patients, and the interpretative theory of consciousness. We discuss the functions of consciousness. We talk about what we can learn from AI research. We discuss what we really know about animal consciousness, and if AI can be conscious. We talk about how social and clinical scientists approach consciousness. Finally, we discuss the hard problem of consciousness.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:42</time> Approaching consciousness from the perspective of cognitive neuroscience  \n<time>03:18</time> Approaches from physics and philosophy  \n<time>08:24</time> Different notions of consciousness  \n<time>12:10</time> Global versus local theories of consciousness  \n<time>15:17</time> The neural correlates of consciousness  \n<time>21:07</time> Lesion and stimulation studies  \n<time>28:26</time> Localizationist and modular perspectives of the brain  \n<time>31:24</time> Michael Gazzaniga, the split-brain patients, and the interpretative theory of consciousness  \n<time>35:41</time> The functions of consciousness  \n<time>43:44</time> A centrist approach to consciousness  \n<time>44:44</time> What we can learn from AI research  \n<time>48:32</time> What do we know about animal consciousness?  \n<time>55:29</time> Can AI be conscious?  \n<time>1:02:56</time> How social and clinical scientists approach consciousness  \n<time>1:05:54</time> The hard problem of consciousness  \n<time>1:10:44</time> Follow Dr. Lau’s work!\n\n---\n\nFollow Dr. Lau’s work:  \nUniversity page: http://bit.ly/3wcWiss  \nWebsite: http://bit.ly/3Xiva77  \nResearchGate profile: https://bit.ly/3XpRUSP  \nIn Consciousness We Trust: https://bit.ly/42aGxQi  \nTwitter handle: @hakwanlau\n",
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/71156794/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-28%2F7b8271dd-bb92-a5a3-fd1b-6697baa7bf51.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/844-Hakwan-Lau---In-Consciousness-We-Trust-The-Cognitive-Neuroscience-of-Subjective-Experience-e24q1jq",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1685270770276-7651de8cff83c.jpg",
+	"tags": [
+		"Cognitive Science",
+		"Neuroscience"
+	],
+	"title": "#844 Hakwan Lau - In Consciousness We Trust: The Cognitive Neuroscience of Subjective Experience",
+	"youtubeid": "MrWoLH3IUNo",
+	"episodeid": "844"
+}
