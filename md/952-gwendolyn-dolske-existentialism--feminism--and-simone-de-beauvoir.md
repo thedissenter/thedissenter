@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/87420479/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F4ccf23f4-39b0-4656-90b5-8a2fb40d5d37.m4a",
 	"draft": false,
 	"episodeid": "952",
 	"excerpt": "Dr. Gwendolyn Dolske is Professor of Philosophy at California State Polytechnic University, Pomona, and host of the Good Is In The Details Podcast - @goodisinthedetialspodcast",
 	"image": "https://i.ytimg.com/vi/rQX90QvqaC0/maxresdefault.jpg",
 	"publishDate": 2024-06-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/952-Gwendolyn-Dolske-Existentialism--Feminism--and-Simone-de-Beauvoir-e2kac3v",
 	"tags": [
 		"Philosophy"
 	],
