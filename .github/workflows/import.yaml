@@ -30,6 +30,9 @@ jobs:
   # Import job
   import:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [22.x]
     outputs:
       result: ${{ steps.import.outputs.result }}
     steps:
@@ -52,6 +55,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f incharge-podcaster/requirements.txt ]; then pip install -r incharge-podcaster/requirements.txt; fi
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+    - run: npm install
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v4
       with:
