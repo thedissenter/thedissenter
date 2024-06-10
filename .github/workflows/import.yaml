@@ -65,7 +65,8 @@ jobs:
         echo "result=$IMPORT_RESULT" >> $GITHUB_OUTPUT
       env:
         GOOGLE_API_KEY: ${{ vars.GOOGLE_API_KEY }}
-
+        NODE_ENV: ${{ vars.NODE_ENV }}
+          
   deploy:
     needs: import
     if: ${{ needs.import.outputs.result == 'PUSHED' }}
