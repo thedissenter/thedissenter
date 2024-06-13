@@ -5,13 +5,16 @@
 	"episodeid": "953",
 	"excerpt": "Dr. Cat Bohannon is a researcher and author with a Ph.D. from Columbia University in the evolution of narrative and cognition. Her essays and poems have appeared in Scientific American, Mind, Science Magazine, The Best American Nonrequired Reading, The Georgia Review, The Story Collider, and Poets Against the War. She is the author of Eve: How the Female Body Drove 200 Million Years of Human Evolution.",
 	"image": "https://i.ytimg.com/vi/JE_nPp48vQE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/953-cat-bohannon-eve-how-the-female-body-drove-200/id1451347236?i=1000658945880&uo=4",
 	"publishDate": 2024-06-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/953-Cat-Bohannon---Eve-How-the-Female-Body-Drove-200-Million-Years-of-Human-Evolution-e2gpan6",
 	"tags": [
 		"Biology"
 	],
 	"title": "#953 Cat Bohannon - Eve: How the Female Body Drove 200 Million Years of Human Evolution",
-	"youtubeid": "JE_nPp48vQE"
+	"vtt": "953.vtt",
+	"youtubeid": "JE_nPp48vQE",
+	"transcript": "953.lines.json"
 }
 ---
 RECORDED ON MARCH 7th 2024.  
