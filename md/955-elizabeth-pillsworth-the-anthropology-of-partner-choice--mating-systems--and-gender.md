@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/84961788/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-4%2Fd85b868e-1581-1214-c043-c8921659e656.m4a",
 	"draft": false,
 	"episodeid": "955",
 	"excerpt": "Dr. Elizabeth Pillsworth is Professor of Anthropology at the College of Humanities and Social Sciences at California State University, Fullerton. Her research questions include patterns of mate preferences, mate choice, sexuality, gender, romantic love, and reproduction. Her research projects include studies with U.S. populations and 15 years of fieldwork with an indigenous hunter-horticultural population in Amazonian Ecuador.",
 	"image": "https://i.ytimg.com/vi/_zs4I3bMqxE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/955-elizabeth-pillsworth-the-anthropology-of/id1451347236?i=1000659307500&uo=4",
 	"publishDate": 2024-06-17,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/955-Elizabeth-Pillsworth-The-Anthropology-of-Partner-Choice--Mating-Systems--and-Gender-e2hvb1s",
 	"tags": [
 		"Anthropology"
 	],
