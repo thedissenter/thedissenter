@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/81732569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-24%2Ff2d42fc4-ba3e-6f0d-076d-b3e4444cb398.m4a",
 	"draft": false,
 	"episodeid": "958",
 	"excerpt": "Dr. Robert McKenna is Senior Lecturer in Philosophy at the University of Liverpool. Most of his work is in epistemology, but he is also interested in philosophy of language, philosophy of science and ethics. Within epistemology, he is increasingly interested in applied epistemology, feminist epistemology and social epistemology more broadly. Current topics of interest include the epistemology of persuasion, the epistemology of climate change denial (and of \"dysfunctional epistemologies\" more broadly), epistemic injustice and social constructivism. He is the author of Non-Ideal Epistemology.",
 	"image": "https://i.ytimg.com/vi/0432gMOEGtM/maxresdefault.jpg",
 	"publishDate": 2024-06-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/958-Robin-McKenna-Non-Ideal-Epistemology-e2espgp",
 	"tags": [
 		"Philosophy"
 	],
