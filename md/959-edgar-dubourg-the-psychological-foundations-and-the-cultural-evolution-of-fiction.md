@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/81818834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-26%2Fba7b4e16-5f6c-140e-3c52-e08089916955.m4a",
 	"draft": false,
 	"episodeid": "959",
 	"excerpt": "Edgar Dubourg is a PhD candidate in cognitive science at the Département d’Études Cognitives at the École Normale supérieure (ENS-PSL). He uses insights from both the natural sciences (behavioral ecology, evolutionary psychology, cognitive neuroscience) and the humanities (literary theory, literary history, cultural studies), and both computational and experimental methods, to explain the psychological foundations and the cultural evolution of fictions.",
 	"image": "https://i.ytimg.com/vi/M-LdAfytf9s/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/959-edgar-dubourg-the-psychological-foundations/id1451347236?i=1000660465882&uo=4",
 	"publishDate": 2024-06-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/959-Edgar-Dubourg-The-Psychological-Foundations-and-the-Cultural-Evolution-of-Fiction-e2evdoi",
 	"tags": [
 		"Psychology"
 	],
