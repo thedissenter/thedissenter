@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#956 Edward Watts - Hypatia: The Life and Legend of an Ancient Philosopher",
-	"youtubeid": "TeWWR6l5S-4"
+	"vtt": "956.vtt",
+	"youtubeid": "TeWWR6l5S-4",
+	"transcript": "956.lines.json"
 }
 ---
 RECORDED ON JANUARY 19th 2024.  

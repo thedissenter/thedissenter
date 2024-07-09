@@ -13,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#960 Grace Blakeley: Vulture Capitalism",
-	"youtubeid": "y2wiFfyvR5w"
+	"vtt": "960.vtt",
+	"youtubeid": "y2wiFfyvR5w",
+	"transcript": "960.lines.json"
 }
 ---
 RECORDED ON MAY 16th 2024.  

@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#959 Edgar Dubourg: The Psychological Foundations and the Cultural Evolution of Fiction",
-	"youtubeid": "M-LdAfytf9s"
+	"vtt": "959.vtt",
+	"youtubeid": "M-LdAfytf9s",
+	"transcript": "959.lines.json"
 }
 ---
 RECORDED ON JANUARY 31st 2024.  

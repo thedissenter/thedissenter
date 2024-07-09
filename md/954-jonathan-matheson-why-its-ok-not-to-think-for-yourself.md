@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#954 Jonathan Matheson: Why It's OK Not to Think for Yourself",
-	"youtubeid": "UpJsyMrYrRU"
+	"vtt": "954.vtt",
+	"youtubeid": "UpJsyMrYrRU",
+	"transcript": "954.lines.json"
 }
 ---
 RECORDED ON JANUARY 17th 2024.  

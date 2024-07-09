@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#957 Adam Toon - Mind as Metaphor: A Defence of Mental Fictionalism",
-	"youtubeid": "zJcfqLKBGqk"
+	"vtt": "957.vtt",
+	"youtubeid": "zJcfqLKBGqk",
+	"transcript": "957.lines.json"
 }
 ---
 RECORDED ON JANUARY 23rd 2024.  

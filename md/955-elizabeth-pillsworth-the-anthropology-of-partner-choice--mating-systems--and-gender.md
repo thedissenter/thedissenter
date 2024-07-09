@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#955 Elizabeth Pillsworth: The Anthropology of Partner Choice, Mating Systems, and Gender",
-	"youtubeid": "_zs4I3bMqxE"
+	"vtt": "955.vtt",
+	"youtubeid": "_zs4I3bMqxE",
+	"transcript": "955.lines.json"
 }
 ---
 RECORDED ON APRIL 4th 2024.  

@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#963 Abraham Newman - Underground Empire: How America Weaponized the World Economy",
-	"youtubeid": "xoH-QUuNP6A"
+	"vtt": "963.vtt",
+	"youtubeid": "xoH-QUuNP6A",
+	"transcript": "963.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 2nd 2024.  

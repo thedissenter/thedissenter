@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#962 Lydia Moland: The Abolitionism and Feminism of Lydia Maria Child",
-	"youtubeid": "3Iukm_5xsm0"
+	"vtt": "962.vtt",
+	"youtubeid": "3Iukm_5xsm0",
+	"transcript": "962.lines.json"
 }
 ---
 RECORDED ON JUNE 28th 2024.  
