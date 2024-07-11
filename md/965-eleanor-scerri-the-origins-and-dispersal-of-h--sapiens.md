@@ -11,7 +11,9 @@
 		"Anthropology"
 	],
 	"title": "#965 Eleanor Scerri: The Origins and Dispersal of H. Sapiens",
-	"youtubeid": "0RYkpK8BkOc"
+	"vtt": "965.vtt",
+	"youtubeid": "0RYkpK8BkOc",
+	"transcript": "965.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 5th 2024.  
