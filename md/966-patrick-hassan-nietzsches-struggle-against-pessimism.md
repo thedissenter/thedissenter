@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#966 Patrick Hassan: Nietzsche's Struggle Against Pessimism",
-	"youtubeid": "BmvB4Gb1MJ4"
+	"vtt": "966.vtt",
+	"youtubeid": "BmvB4Gb1MJ4",
+	"transcript": "966.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 6th 2024.  
