@@ -5,6 +5,7 @@
 	"episodeid": "965",
 	"excerpt": "Dr. Eleanor Scerri is Professor at the Max Planck Institute of Geoanthropology, where she is the Head of the independent Max Planck Human Palaeosystems Research Group. She is an archaeological scientist interested in exploring the articulation between material culture, genetics, and biogeography to further theoretical, methodological and scientific advances in the field of human evolution. Her group is exploring the pan-African evolution of our species, Homo sapiens through a number of diverse projects.",
 	"image": "https://i.ytimg.com/vi/0RYkpK8BkOc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/965-eleanor-scerri-the-origins-and-dispersal-of-h-sapiens/id1451347236?i=1000661936249&uo=4",
 	"publishDate": 2024-07-11,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/965-Eleanor-Scerri-The-Origins-and-Dispersal-of-H--Sapiens-e2fd0iv",
 	"tags": [
