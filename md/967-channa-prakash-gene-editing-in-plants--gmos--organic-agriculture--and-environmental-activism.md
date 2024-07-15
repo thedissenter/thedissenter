@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#967 Channa Prakash: Gene Editing in Plants, GMOs, Organic Agriculture, and Environmental Activism",
-	"youtubeid": "jWN1TNywdcM"
+	"vtt": "967.vtt",
+	"youtubeid": "jWN1TNywdcM",
+	"transcript": "967.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 7th 2024.  
