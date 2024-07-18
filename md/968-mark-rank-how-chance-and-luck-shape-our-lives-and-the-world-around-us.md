@@ -13,7 +13,9 @@
 		"Sociology"
 	],
 	"title": "#968 Mark Rank: How Chance and Luck Shape Our Lives and the World around Us",
-	"youtubeid": "R7gm17wOBiM"
+	"vtt": "968.vtt",
+	"youtubeid": "R7gm17wOBiM",
+	"transcript": "968.lines.json"
 }
 ---
 RECORDED ON MAY 27th 2024.  
