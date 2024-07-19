@@ -11,7 +11,9 @@
 		"Philosophy"
 	],
 	"title": "#969 Seth Robertson: Moral Realism and Anti-Realism, Confucian Ethics, and Epistemic Injustice",
-	"youtubeid": "qH-l3YHZO3g"
+	"vtt": "969.vtt",
+	"youtubeid": "qH-l3YHZO3g",
+	"transcript": "969.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 12th 2024.  
