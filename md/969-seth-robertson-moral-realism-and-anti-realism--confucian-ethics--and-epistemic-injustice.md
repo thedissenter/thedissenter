@@ -5,6 +5,7 @@
 	"episodeid": "969",
 	"excerpt": "Dr. Seth Robertson is a Lecturer in Philosophy and Associate Director of Undergraduate Studies at Harvard University. His research interests include moral psychology, the history of ethics, early Chinese ethics, social epistemology, virtue ethics, and metaethics. Dr. Robertson’s research focuses on ways in which non-normative information should constrain our normative theorizing. He has written about the intersection of social intelligence and virtue ethics as well as situationist psychology and moral development in the context of early Confucian ethics, and is currently working on epistemic injustice and rhetorical manipulation.",
 	"image": "https://i.ytimg.com/vi/qH-l3YHZO3g/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/969-seth-robertson-moral-realism-and-anti-realism/id1451347236?i=1000662772784&uo=4",
 	"publishDate": 2024-07-19,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/969-Seth-Robertson-Moral-Realism-and-Anti-Realism--Confucian-Ethics--and-Epistemic-Injustice-e2fmftu",
 	"tags": [
