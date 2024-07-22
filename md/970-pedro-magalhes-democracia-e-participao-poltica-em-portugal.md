@@ -13,7 +13,9 @@
 		"Entrevistas em Português"
 	],
 	"title": "#970 Pedro Magalhães: Democracia e Participação Política em Portugal",
-	"youtubeid": "aehAtZ0vQyQ"
+	"vtt": "970.vtt",
+	"youtubeid": "aehAtZ0vQyQ",
+	"transcript": "970.lines.json"
 }
 ---
 RECORDED ON JULY 2nd 2024.  
