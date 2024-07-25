@@ -12,7 +12,9 @@
 		"Sociology"
 	],
 	"title": "#971 Philip Cohen: Does It Make Sense To Talk About Generations?",
-	"youtubeid": "98nzTnxZvvo"
+	"vtt": "971.vtt",
+	"youtubeid": "98nzTnxZvvo",
+	"transcript": "971.lines.json"
 }
 ---
 RECORDED ON JUNE 6th 2024.  
