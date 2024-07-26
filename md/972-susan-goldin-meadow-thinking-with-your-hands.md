@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/82669810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F2ab43c5a-beaa-2dd3-bd99-a4f2c832945b.m4a",
 	"draft": false,
 	"episodeid": "972",
 	"excerpt": "Dr. Susan Goldin-Meadow is the Beardsley Ruml Distinguished Service Professor in the Department of Psychology and Committee on Human Development at the University of Chicago. She has made pioneering contributions to the study of how language is created and learned, and how the gestures that go along with speech facilitate learning and communication. Dr. Goldin-Meadow is a member of the National Academy of Sciences, the American Academy of Arts and Sciences, and the American Association for the Advancement of Science. She’s received a Guggenheim Fellowship, a James McKeen Cattell Fund Fellowship, and the David E. Rumelhart Prize. She is the author of several books, including Thinking with Your Hands: The Surprising Science Behind How Gestures Shape Our Thoughts.",
 	"image": "https://i.ytimg.com/vi/2I5yaSZnCtY/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/972-susan-goldin-meadow-thinking-with-your-hands/id1451347236?i=1000663463302&uo=4",
 	"publishDate": 2024-07-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/972-Susan-Goldin-Meadow-Thinking-with-Your-Hands-e2fpcpi",
 	"tags": [
 		"Cognitive Science",
 		"Psychology"
