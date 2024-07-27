@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#972 Susan Goldin-Meadow: Thinking with Your Hands",
-	"youtubeid": "2I5yaSZnCtY"
+	"vtt": "972.vtt",
+	"youtubeid": "2I5yaSZnCtY",
+	"transcript": "972.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 14th 2024.  
