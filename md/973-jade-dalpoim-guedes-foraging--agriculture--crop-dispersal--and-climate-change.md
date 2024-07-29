@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#973 Jade d'Alpoim Guedes: Foraging, Agriculture, Crop Dispersal, and Climate Change",
-	"youtubeid": "NMDcKTYJRFU"
+	"vtt": "973.vtt",
+	"youtubeid": "NMDcKTYJRFU",
+	"transcript": "973.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 17th 2024.  
