@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#974 Robert Welshon: Nietzsche's On The Genealogy of Morality",
-	"youtubeid": "elopBfSkat0"
+	"vtt": "974.vtt",
+	"youtubeid": "elopBfSkat0",
+	"transcript": "974.lines.json"
 }
 ---
 RECORDED ON MAY 28th 2024.  
