@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/89327651/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F4d920dde-3f16-80ee-c5f6-bc5fe117999f.m4a",
 	"draft": false,
 	"episodeid": "975",
 	"excerpt": "Dr. Gregory Retallack is Professor Emeritus in the Department of Earth Sciences at the University of Oregon. His research has examined the fossil record of soils through major events in Earth history, extending back some 4.6 billion years. He is the author of books like “Soils of the past: an introduction to paleopedology”, and “Soil grown tall: the epic saga of life from earth”.",
 	"image": "https://i.ytimg.com/vi/6Ny3fJqXvYw/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/975-gregory-retallack-paleopedology-and-the-link/id1451347236?i=1000664165654&uo=4",
 	"publishDate": 2024-08-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/975-Gregory-Retallack-Paleopedology--and-the-Link-Between-Life-and-the-Soil-e2m4ij3",
 	"tags": [
 		"Biology",
 		"General Science"
