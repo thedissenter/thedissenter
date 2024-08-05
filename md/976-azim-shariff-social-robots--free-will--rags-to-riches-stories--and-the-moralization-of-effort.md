@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#976 Azim Shariff: Social Robots, Free Will, Rags-To-Riches Stories, and the Moralization of Effort",
-	"youtubeid": "lOheBBKKuuc"
+	"vtt": "976.vtt",
+	"youtubeid": "lOheBBKKuuc",
+	"transcript": "976.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 20th 2024.  

@@ -1,0 +1,357 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everybody. Welcome to a new episode of the Center. I'm your host as always Ricardo Lob. And today I'm joined for a second time by Dr Azim Sharif. He's professor and Canada research chair at the University of British Columbia in Canada. And today we're talking about cultural differences in how people react to robots A I and so on robot preachers, people's belief in free will and the political ramifications of that. Why people love rags to riches stories, causal attributions to poverty, the moralization of effort and some other related topics. So, Doctor Sharif, welcome back to the show. It's always a pleasure to talk to you."
+	},
+	{
+		"start_time": "00:39",
+		"speaker": "Azim Shariff",
+		"words": "Oh, it's great to be here, Ricardo. I, you know, I was looking at the all the interviews that you've done in apparently the five years uh since we last talked and you have built such an incredible corpus of interviews. I think you have probably had in depth conversations with a wider range of interesting psychologists and social scientists than anyone on the planet, which is a thing, right? I mean, I think I can't think of somebody who's done more than that."
+	},
+	{
+		"start_time": "01:08",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, I, I mean, I don't know, but I thank you very much for that kind of words."
+	},
+	{
+		"start_time": "01:14",
+		"speaker": "Azim Shariff",
+		"words": "Well, what makes me think here, here's what it makes me wonder. Um, YOU have these conversations on a weekly basis you're talking to really interesting people. Uh You must synthesize a lot of really interesting points and I'd be curious about what the kind of uh synthesis you're making. What kind of summaries, what kind of connections you're making between all of these? Have you thought about doing some of you, like producing something of your own? Like maybe uh so a couple ways you, you could do this and, and we'll get into talking about um my research eventually. But uh for one, you could cut interviews topically. So you bring, say you had a um a topic of cultural evolution and you, you bring all the different cultural evolution people you talk to and like do, do little clips. Alternatively, you could produce some sort of like book or, or your own lectures that were based on bringing these insights together and you can have little clips of, of many of the interviews. I mean, I think you probably have in your head right now. Uh JUST a, an unrivaled amount of psychological knowledge."
+	},
+	{
+		"start_time": "02:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, uh le let's see if uh some A I tools in the near future will help me with that because with the enormous amount of content I already have just thinking about going to the hundreds of interviews and clipping them and then putting it together. I mean, it's, it's just a nightmare in my head. So hopefully a I will help here. So, uh in the near future. So, but, but thank you so much for the suggestions, by the way. Uh AND so to get into the topics here today. Uh Yeah, I know. II, I mean, you study a broad, broad range of topics, but let's get into some of the work you've done on how people uh react and deal with robots, algorithms, artificial intelligence because it seems that there are cultural differences here,"
+	},
+	{
+		"start_time": "03:20",
+		"speaker": "Azim Shariff",
+		"words": "right? Yeah. So one of the things that we see is that uh most of this research tends to be put out and most of the discussion of this tends to be put out as most things tend to be put up by the United States, the United States as well as Canada where I live. Um TEND to be outliers in terms of their fear of A I. Uh If you look across the world, other countries tend to be much more embracing of it. Um And so, uh I think a lot of the discourse is probably dominated by an unrepresented, un unrepresentative fear of uh uh a global fear of A I that probably doesn't exist everywhere."
+	},
+	{
+		"start_time": "04:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh And so, but what are some of the cultural differences that you found? And what cultures did you study particularly?"
+	},
+	{
+		"start_time": "04:11",
+		"speaker": "Azim Shariff",
+		"words": "Well, we've, we've looked at it in a few different ways. Um, I think the biggest differences and maybe the most interesting differences emerged between, uh, the West and East Asia. Um, AND when I say the west, I mean, I guess I could say even more, more specifically North America and East Asia. Um, YOU see, as I mentioned, the most fear and worry in, uh, in the US and Canada and you see much, much less in East Asia, you see much more, uh, willingness to engage with social robots, you see much more willingness to engage with uh uh chatbot buddies. Um uh So a lot of the things which freak people out in the US seem to be just fine in, in places like Japan, China, Korea."
+	},
+	{
+		"start_time": "04:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh And why is it that uh we find these differences? I mean, where is it in the culture of people from East Asia that make them more receptive to these kinds of technologies than people in North America, for example."
+	},
+	{
+		"start_time": "05:15",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. So we've, this is work that was led by um Yan Kai Chi. Uh HE goes by Sam. So com Sam. Um WE, we can only speculate about various reasons for this. Um But I think there are some interesting kind of foundational cultural differences which then get exaggerated through a sort of positive feedback loop, right? So you have a what could be a, a potentially pretty small cultural difference which then leads to different levels of exposure, right? So historically, the, well, let's OK. So there's there's some religious differences, right? So, in, in uh Buddhism and Shintoism, there's more of an embracing of animism. Whereas in, say the Abrahamic religions, there's, it's very centered on human exceptionalism, right? It's, it's much more about separating humans from all the other creatures of the world and putting humans on this, this interesting pedestal. So that can lead to a bit of a uh a competition between humans and any other types of creatures where other types of creatures including like, you know, we here maybe in, in um North America, think about the terminator as a anthropomorphic uh quintessentially terrible uh robot. Whereas what you tend to see in terms of these social robots in East Asia are kind of like cuddly robot, like like ro robotic seals and, and things like that, which um they seem much more willing to embrace potentially because of this connection, this, this willingness to embrace animism than a more animated world to see uh agency among animals. Um Now, that could be a very small difference which then leads to, as I mentioned, uh a few changes in terms of how fiction portrays these robots, you know, the terminator versus Astro boy and that could lead to then uh a difference in the exposure. So, so in, in Japan, you had social robots quite a bit earlier. Uh PEOPLE have been exposed to them, people who are, you know, my age or your age now have grown up within their whole lives, uh which means that, that they're much more comfortable with them entirely. And so that can kind of lead to these positive feedback loops which draws the cultures in, in different directions."
+	},
+	{
+		"start_time": "07:32",
+		"speaker": "Ricardo Lopes",
+		"words": "That that's actually very interesting because I'm a big anime and manga fan and follower. And I, I mean, I've been following it for 10 plus years and you see, even in this sort of artistic mediums out, people in Japan tend to be much more receptive to technological innovations and how even sometimes they tend to think about them as just part, even of the natural environment. I mean, it's something that humans create but they look at them more in a more natural way than people in the west, I guess."
+	},
+	{
+		"start_time": "08:07",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. Yeah. Um, THERE'S a, there's a few other explanations, right? So, in another project, um, unpublished uh project right now, we've been looking at how fear of A I uh relates to people's belief about how well, uh about the capacities for A I for placing particular jobs, right. So you can imagine that one of the jobs that you probably, uh, that I probably wouldn't want an A I to do though there's some, maybe exceptions to this is, is being a judge, having the, the moral decision making. Um, AND, and most people around the world have some hesitancy about, about a, is taking over the, the role of judges or of religious leaders or whatever. Um, BUT it does vary between countries. And the, the variation between countries seems to be explained by a belief that, well, actually the requirements of such a job uh are not outside of the requirement of the abilities of a, of a particular uh A I or robot. And the more you see the A I able to fulfill those positions, the less you tend to fear A I and so big a big difference for this is, is in Japan versus in, say the United States care workers. Japan sees a is or robots to be very uh capable of, of breaching the requirements of being a care worker. Whereas in the United States, that's not the case. Uh And that seems to correspond to the country's uh uh fear of A I as well. And there's another um interesting uh this is not my paper, this is Noah Costello I think, did this really interesting study where he found that uh people from more corrupt countries, countries with higher levels of corruption uh have uh less algorithm aversion. So they're less averse to algorithms, making decisions for them rather than the humans themselves. Um And that makes sense if you think that, well, I trust humans because I trust them to be able to make complex moral decisions. But if I'm coming from a place where, well those moral decisions tend to be made in very corrupt ways, then I'm po potentially going to trust the algorithm that it uh it is more fair minded or more objective in terms of its decisions, less willing to give into favoritism. Humans are flawed in that way. Maybe the algorithms wouldn't be. Uh, SO you do see that cultural variation as well."
+	},
+	{
+		"start_time": "10:25",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, I, I guess that in that case people would prefer algorithms if they are not corrupt themselves, otherwise they probably would prefer to deal with other people. Right."
+	},
+	{
+		"start_time": "10:37",
+		"speaker": "Azim Shariff",
+		"words": "That's right. So, and, and, and furthermore, the, the beneficiaries of corruption are probably gonna prefer the humans or the corrupt algorithms above more fair minded ones as well."
+	},
+	{
+		"start_time": "10:47",
+		"speaker": "Ricardo Lopes",
+		"words": "A and so you mentioned something there that uh in regards to people who occupy certain positions and something that you've done work on is about robot preachers. So, what results did you get there? And what implications would it have to cultural evolutionary theories of religion?"
+	},
+	{
+		"start_time": "11:10",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. So this was um a another study that involved Sam and, and, and Josh Jackson. Um YOU should speak to Josh if you haven't already. I don't know if you have um where we did a couple of experiments um field experiments. First one was in a Buddhist temple in Japan uh where we looked at people who had visited. They have this interesting robot preacher called Minar um that exists in a, in a pretty well known old Buddhist temple uh which creates an interesting juxtaposition. And you have um we looked at people who had, who had heard a sermon delivered by mind versus a human preacher. And then we looked at um how willing they were to donate to the temple. Uh AND, and um other measures of support for the religion or the temple. And then another study and this was a more controlled experiment. This was in a temple in Singapore. We uh uh randomly assigned on, well, not randomly assigned. We had, we had on different days, we had a robot preacher appear or not. Um So that was a, a more controlled experiment in terms of who got the humans and who got, who got the uh preachers. And again, measured things like willingness to donate, willingness to share flyers about their religion to spread the word of the religion, uh et cetera. Uh And what we found there, I probably won't surprise many, which is that when people engaged with a uh a robot preacher, they showed less support. Um They, they gave, they were willing to give less to their, to their uh temple. Um They were less willing to spread the word of the religion. It, it decreased their commitment to the religion. And the, the result I, I don't think is super surprising, but I think what's interesting is the theory that surrounds it, right? Why, why is it that we would react differently in the context of religious leaders to uh robot preachers versus human preachers? And as we're thinking about this, one of the things that we, we, you know, talked about was that a lot of the discussion about what jobs, uh, robots and A I can take over and which ones they can't, uh, seem to be focused on the current, uh, capabilities of the robot. And what's interesting about that is that what we've seen over the last, I guess, 15 months, is that the capabilities of A I are just expanding so rapidly that it's, that's an ever shrinking, uh, a space of things, right? Um Even when you see the the modern robots that they're able to engage in, in surprisingly nimble fine motor patterns. Um So, so in terms of capabilities that the jobs that uh A I don't have the capability to do are are shrinking, but we were looking at a separate thing instead of looking at capability, we were looking at at credibility. And I think this capability, credibility distinction is interesting because credibility depends on more than just your ability to improve the technology of um uh of A I for credibility. It seems to rely on um something about what the uh uh the the person who's passing on the information to you uh has experienced or is as a person. And so this, this uh digs into cultural evolutionary theories, dual inheritance theories about the fact that when we get ideas or when we uh absorb rituals or um different norms and practices, values, beliefs, morals. Um WE do so not solely based on the content, it's not simply what the content of the ritual is that, that determines whether we accept it to what degree. Um, IT also depends greatly on the, the context and in particular, uh, the person who's delivering it to us, the person who's telling us about the ritual or trying to teach it to us or trying to pass on the, the, the moral, uh, pass on the, um, sermon or whatever. And, uh, there are various things which increase the credibility of the, uh, the person passing it on. Um, uh Joe Henri has talked about these in the context of uh credibility enhancing displays. There's various things which the credibility, um, and the canonical example of what a credibility enhancing display is, is, is something that it would be very, um, it would be costly to the, uh uh to the model, the cultural model if they didn't actually believe it. Um And so a, if a, if a cultural model, like a, an elder or something is, uh, uh trying to get you to eat a blue mushroom and they eat the blue mushroom themselves, that's a very credibility enhancing display. Uh Because if that, if they didn't believe that that mushroom uh was safe, they wouldn't eat it themselves. Uh Now, in order to have this credibility, you have to have some sort of level of mind uh to actually believe in what you're doing, uh which a is don't have as far as we know. Um And, or uh some ability to suffer for the consequences. And again, as far as we know, a, I don't, don't yet suffer. And so without those abilities, without things that you see for, um, uh, among religious leaders, like, say, uh, a priest who, um, uh, are celibate for life, that's a pretty credibility enhancing display. They're going to a lot of expense to show that they are somebody who firmly believes in, in the religion. Uh, Those things aren't gonna affect it. Uh, AN A I, they're not gonna be, they're, they're not gonna be credibility enhancing if you, if you say, oh, well, this preacher never had sex in their life. You know, it's like, no, that doesn't tell me much about them."
+	},
+	{
+		"start_time": "17:09",
+		"speaker": "Ricardo Lopes",
+		"words": "That, that, that's very interesting. And, and by the way, just out of curiosity, these robot preachers, I mean, can they perform a mess?"
+	},
+	{
+		"start_time": "17:19",
+		"speaker": "Azim Shariff",
+		"words": "Well, yeah, so they, they can, now it's not, it's not as charismatic and elegant and even fluid, uh as, as a human would, would do. But the point about the capabilities is, well, that's a, that's a gap that can be easily closed. Uh So at some point, possibly soon they will be able to do this charismatic and, and uh uh fluidly as a human, but that credibility gap probably won't be closing. And you can see that not just for Rob robot preachers, but you can see that in other, um, and other uh uh professions where credibility matters as well, and so, um, one that I think about a lot and I find really interesting. My wife is a psychiatrist. Um, AND so in the, in the realm of therapy, uh, there has been some, uh, uh, a lot of progress with, uh, therapy chat bots, uh, because they can rapidly, uh, or, or massively expand the, they, they reduce the cost and massively expand the number of people who, who can have access to therapy and for some reasons, uh, for some, yeah, for some functions, they've been shown to be very effective. But what they don't have, what they don't have is is the credibility and that might be a limiting, uh, uh, factor for how effective they can actually be. Uh, Ricardo. Have you seen Good Will hunting? Yes. Yes. I think most people have seen good will hunting most. Hopefully most of your audience has seen Good Will hunting. But one of the interesting things about that is you have the Matt Damon character who's incredibly capable, right? This disturbed genius. And then you have the, um, Robin Williams character, the, the therapist who is not as smart as Matt Damon, right? Like Matt Damon goes through all these therapists because he's just, he can outsmart them and they're, they're, he's much more capable than they are at any intellectual feat. And eventually what you see is that, well, the Robin Williams character has this credibility. He has this credibility because he has this depth of feeling he has this experience of, of, of being in the war and then having his, his wife die of cancer. And he's this deep feeler and that credibility is what ultimately gets to Matt Damon and ends up helping him."
+	},
+	{
+		"start_time": "19:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. No, no, that's very interesting. And I guess that in the case of chat bots to help with mental health, perhaps to, uh, benefits that they would have in comparison to human psychotherapists or someone like that is that they would have more readily access to uh a bigger amount of data from the patient and also better memory, I guess in terms of what the patients have and all of that."
+	},
+	{
+		"start_time": "19:56",
+		"speaker": "Azim Shariff",
+		"words": "That's right. That's right. And there's a third benefit which is that um they're not human, uh which means that they don't come with all the judgment or the uh uh uh a perceived judgment that a human comes with. So people might be more willing to admit things or talk about things with a nonhuman chat bot than they would with an actual human therapist as, as empathetic and, and um a good listener as they are."
+	},
+	{
+		"start_time": "20:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let's get into another topic. Now, where do people's belief or lack thereof in free will comes from?"
+	},
+	{
+		"start_time": "20:32",
+		"speaker": "Azim Shariff",
+		"words": "Yeah, good question. So, I mean, 101 answer to that question would be uh uh uh philosophy, right? So it could, you know, there's the saying that behind every living person, there's a dead philosopher and and what they mean by that is that, you know, it's not that, you know, everybody's read David Hume or whatever, but those ideas do penetrate the culture and affect us. And so I ideas that philosophers from days of Yore have bestowed upon our culture have have affected us growing up. So that's one explanation. Another explanation is that there's something um uh just uh intuitive about it that our brains are constructed in a way which has us believe if we will. Um But another explanation is that there are situational factors that, that, that determine when and in what context and for whom we believe in free will. And this can be kind of flexibly allocated. And iii I take from your question that you're, you're pushing me towards the research that we've done on these flexible uh free will beliefs. Um WHICH I, I find, I, I think it's a really interesting body of research. This is led by uh Corey Clark who I think you have spoken with. Uh AND, and for her. So behind that living person, the dead philosopher is uh Nietzsche uh who said, um who, who pointed out, you know, among the various various forms of morality that he didn't, he didn't like he said this, this, this reprehensible idea of free will uh that people flexibly uh uh deploy when they want to punish somebody uh that we use it as a justification. We say that that person has free will because I want to punish them for what they did. And I want, and, and in order to do so, I need to be able to hold them responsible. I need it to be their fault and for it to be their fault, they have to have been able to have done otherwise, which means they have to have free will. And so in, in the work that I've done with Corey and uh others, uh we, we find that in all these different circumstances when, when we make it such that people really want to punish that other people, that other person, they raise their level of free will belief. So one of the best studies of this in the, in the first package we did on this was um Corey was teaching two classes, two sections of a class. I don't know, it was Corey was teaching. But anyway, somebody was teaching two sections of the class. Um And in one of them, uh she said that there was a cheater on the last midterm. Uh And so riled up everybody's, you know, oh no, that person screwing us all over. And in the other condition, the other section, she didn't say that. Um And then she had all of them do a free will uh scale. And in the case where people were told that there was a cheater where people had this sense, this desire to punish somebody to see, to enforce the uh the retribution for moral wrongness. Well, in that case, they believe in free world more and there's a bunch of more controlled vignette studies which, which share that."
+	},
+	{
+		"start_time": "23:33",
+		"speaker": "Ricardo Lopes",
+		"words": "But apart from these more situational aspects of whether you want to punish someone or not, are there individual differences in the degree to which people believe in free will?"
+	},
+	{
+		"start_time": "23:46",
+		"speaker": "Azim Shariff",
+		"words": "Um, THERE, there's some, uh, there's some personality correlates. Uh, SO people hire and I think openness and extroversion believe in free will more. Uh I think there's no relationship with IQ or anything like that. Um You do find in, in this potentially this, this causal direction goes in the, in the opposite direction. Uh People who are happier who have higher life satisfaction tend to believe in free will more. Um It might be that people who believe in free will more uh as a consequence of are happier. Um One of the more interesting and very reliable group differences that we find is that conservatives tend to believe in free will more than do liberals and, and that sort of fits with some of our stereotypes about uh what liberals and conservatives believe, right? Conservatives tend to all be all about the individual picking themselves up by their own bootstraps, everybody's accountable, responsible, you know, go clean your room, et cetera. Whereas liberals are like, oh no, everything was systemic. Nothing. Is anybody any individuals doing. It's all because of the structures that, that surround us. So liberals tend to believe in free will less and that comes up over and over again. Um When, when those studies tend to be done, they tend to use this. Um uh Well, you, you, you find it with a variety of free will measures, it tends to be in these very philosophical, free will measures that are measuring people's philosophical commitments to free will. But oftentimes when people read those, they think about it in the political sphere. So they think about it on constraints of freedom. So that kind of what that liberal conservative difference that we were talking about about the systemic versus individual accountability."
+	},
+	{
+		"start_time": "25:33",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to that more political side of things do people who believe in free will. And I guess that in this particular case, it would be more conservatives than liberals support economic inequality, more. Is there any relationship there?"
+	},
+	{
+		"start_time": "25:49",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. So um conservatives tend to have uh more tolerance for economic inequality than, than liberals do. Uh AS you know, um interestingly though we have a, an interesting paper that go that, that looks at again unpublished. Uh THAT shows that um when you look at uh liberals and conservatives, economic preferences, if you look at uh economic preferences for different ways that you could slice up the pie or grow the pie or different goals that you have alleviating poverty versus say reducing inequality versus just growing the amount of wealth for everybody. Uh Both liberals and conservatives by far their primary goal is to alleviate poverty, but they don't think that about each other. So liberals think that what conservatives are really after is just growing the pie and increasing the amount of money for the rich. And uh conservatives think that liberals just want to reduce inequality when in reality, both groups really just want to alleviate poverty. But um where you were going with that was that uh do we find that people with different, that, that free will beliefs actually seem to affect um a support for inequality? We tested that. Uh WE tried to test that in a few different ways and we never found uh overwhelming support for that. Um So we, we did publish a paper reporting our no results for that. So I, I, I have no evidence to, to, to support that. That's, that's the case."
+	},
+	{
+		"start_time": "27:15",
+		"speaker": "Ricardo Lopes",
+		"words": "By the way, do you think that studying a free will or belief in free will through a psychological perspective and really having this understanding that uh the degree to which people believe in free will varies according to the situation and their own, perhaps individual characteristics? Do you think it has any bearing on the free will debate and whether free will itself is real or not or not at all?"
+	},
+	{
+		"start_time": "27:45",
+		"speaker": "Azim Shariff",
+		"words": "No, not really. Uh Free will either exists or it doesn't. And it's, I mean, ii, I don't think the beliefs that all these like psychological consequences of beliefs uh reflect on in the same way that I think it, it, for religion. Right. You know, religion and morality is a big, uh, topic of research for mind, whether religion causes people to be more moral or not, doesn't really have any bearing on whether God exists."
+	},
+	{
+		"start_time": "28:13",
+		"speaker": "Ricardo Lopes",
+		"words": "No, no. But that's an interesting question because there are many people who pick on these studies and this kind of knowledge to say, oh, you see, it's just people, uh, people just attribute free will to other people when they want and when they, when they don't, they don't do it. And so free will doesn't exist at all. I mean, just to support uh deterministic uh stance, let's say,"
+	},
+	{
+		"start_time": "28:38",
+		"speaker": "Azim Shariff",
+		"words": "yeah, I think they're reasonably independent uh your belief about free will and the actual existence of free will where I guess you could have some, OK, let's think about this. So, in I, I'm, I'm extrapolating now from the example of religion. So one of the things where the research, the psychological research on religion would probably have a bearing on whether uh God exists is that it can produce alternative explanations for why we believe in God. Uh So, um in that sense, it gives you uh the belief in God could be over determined and I guess free will belief could also be over determined, it could exist and we could believe it, we could believe it for reasons that are unrelated to why it exists. I don't know. My sense is that it, they're pretty, um, independent. Yeah."
+	},
+	{
+		"start_time": "29:25",
+		"speaker": "Ricardo Lopes",
+		"words": "So, and since we were just, uh, on the topic of politics, uh, another thing that you've studied and I wanted to ask you about is when it comes to voting behavior and supporting specific political candidates or leaders, do people always follow their own self-interest? Because that's something that we hear a lot. That, that's what people do. So,"
+	},
+	{
+		"start_time": "29:49",
+		"speaker": "Azim Shariff",
+		"words": "yeah. Um, SO I guess it depends what you mean by the self. Um People can expand, you know what, before we tackle that, I just want to mention one more thing about the, the free will and politics thing because we did this very big paper uh with, with Jim Everett. Um LOOKING at uh those the two things about free will that we talked about, right? So we talked about this, this flexible um uh deployment of, of free will attributions uh when people want to punish somebody. And, and we talked then about the, the politics. We combined both of those into that paper to show that one of them, one of the a, a driving factor, uh which is, I think what we say in, in the paper. But what the paper actually showed is one of the primary factors about why those differences in free will beliefs exist between liberals and conservatives is because uh in general, conservatives tend to moralize a broader array of things and thus want to punish more things. And as a result, simply because they want to punish more things, they want to hold people more accountable for all these different moral transgressions. They ramp up their, their belief in free will in order to, to justify doing that. And, and we demonstrate this in a few different ways. But one, I think the most interesting is that when you look at topics that, uh, liberals and conservatives, uh, uh, moralized to the same degree, uh, they don't differ in terms of their free will beliefs about that. And four topics that, that liberals actually moralize to a greater degree, uh then liberals will now believe in free will uh more for those types of things. And so again, it gets to that, that flexibility that um yes, it's the case that by and large conservatives believe in and believe in free will more. But when it's inconvenient for them to do so, and when it's convenient for liberals to do so, they will flip."
+	},
+	{
+		"start_time": "31:45",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. No, that's, that's very interesting. And, and so just going back to the self-interest, self-interest uh aspect here. So, uh I mean, do people actually in their voting behavior and support for political candidates for always follow their self-interest or not?"
+	},
+	{
+		"start_time": "32:05",
+		"speaker": "Azim Shariff",
+		"words": "Uh N no. So um it seems that people have people's uh group identities matter a lot to them. And um oftentimes they will vote against their obvious uh individualistic economic self interest, say uh in order to uh uh maintain their loyalty to the group or to make sure that their particular uh cultural interests, uh broader cultural interests uh win out over a competing group. Um So, um uh when, when, so I guess this would argue against that, that famous James Carville, um a point that it's the economy stupid that people always vote with their, with their pocketbooks and to some degree they do. But we, we ran a study um Steve Rathje and uh Simone uh Chanel um on, uh on Trump voters, uh who had disappointing tax returns. And we, we ran a longitudinal study which said, uh what do you expect for your to get for your tax return? Um And because this was when there were some uh changes in the tax record, I'm trying to remember what happened. There are all these crazy things that happened during that, that those years and, and one of the things was like a rejiggering of the state taxes and the federal taxes such that uh people's tax returns were gonna change and, and their predictions were gonna be off. And so we looked at Trump voters and asked, uh, how important is, are your taxes to whom you vote for? Um And what do you expect for your taxes? Uh And then we followed them up and for those people who had um disappointing tax uh uh records, we asked, will you still vote for, for Trump for re election? They said yes. And then we asked, well, how much do your taxes matter to your voting. And they said, well, well, now much less. Uh, SO they, they downgraded how important that factor was because that factor wasn't really what was driving their voting intentions. They just, they just kind of thought that maybe it is, maybe I'm, I'm gonna care about things which affect me, but really there, there are larger group political commitments. Uh, uh I'm trying not to use the word trumped their, their other concerns. So overrode their other concerns. And when we published that it took us a little while to publish it. Um And by the time we did Trump was out of office and Biden was in, we were like, ok, well, I guess this will be a nice historical record. It's not gonna be that relevant anymore, but of course, now it seems like there's a really competitive election going on and it might be relevant all over."
+	},
+	{
+		"start_time": "34:45",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh I, I mean, there are many different follow up questions that I uh interesting follow up questions that I could ask you. But with our time limit in mind, let me just ask you one. So, uh does it make any sense to think that perhaps since a political candidate usually proposes several different kinds of policies and not just one that let's say, even if people are voting against their own self-interest when it comes to, for example, uh taxation, they would be voting uh for their own self-interest when it comes to, for example, it, if that's something that they care more about, I mean, that,"
+	},
+	{
+		"start_time": "35:29",
+		"speaker": "Azim Shariff",
+		"words": "that's, that, yeah, that does make sense though. I suspect there you also have uh the group commitment. So for instance, if an individual was going to be negatively, let's say an individual was going to be positively affected by immigration or they were, they were personally going to be positively affected by uh a restriction and I don't know how that's gonna work. So let's say a liberalizing of abortion laws. Um uh I think that if their group uh was going against that, so if it differentially affected them versus their group and they were very uh fused with their group, they had a lot of uh uh uh uh their identity tied in with the group. They would still go against the immigration policy or the abortion policy that favored themselves the most in order to, to stand by their group."
+	},
+	{
+		"start_time": "36:21",
+		"speaker": "Ricardo Lopes",
+		"words": "So sort of related to economics here. Why do people tend to like rags to riches stories? And I mean, do people tend to have more positive views of those who become rich than those who are born rich or not?"
+	},
+	{
+		"start_time": "36:39",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. So I'm interested and I'm interested in whether, where you are Poland, right. Poland,"
+	},
+	{
+		"start_time": "36:48",
+		"speaker": "Ricardo Lopes",
+		"words": "Portugal, Portugal,"
+	},
+	{
+		"start_time": "36:50",
+		"speaker": "Azim Shariff",
+		"words": "you're in Portugal. I haven't thought this whole time. Well, I'd be more interested in what, what people in Poland would say, but I'm also interested in what, what people in Portugal think in the US, this is a really big thing. The rags to stories are part of the American mythos. And, and I, I've been marinated in the American Canadian culture since I was born. Um, AND so to me it seems like, well, people, uh, people love these stories because they show that it's possible, uh, and it shows that it's earned. Uh, AND so people really want to think that both of those things are true. It's system justifying to, to believe that we live in a place where, uh, uh, we're, we're not restricted by our accidents of birth. Um And, uh, and so what you tend to see, uh, in North America, we measured it in the United States that yes, people, people much prefer, uh, those who've become rich, uh, to those who are born rich. Um, AND, and we have many, many examples in the us of these great stories of the Oprah Winfrey and, um, all these people, um, Bill Clinton is another good example and when these happen, which they occasionally do because it's a big country. Uh, PEOPLE will like shout it from the rooftops because they really wanna wanna believe that's possible. Um, I was, uh, I'll tell you a story. So I was, uh, uh, Thanksgiving dinner. No, fourth of July. Uh, I was living in the U SI was actually, um, in on vacation with, uh, my girlfriend at the time with a bunch of her friends. Um, Fourth of July. Uh, uh, WE were in Mexico and we were having dinner and I, I, there's this really cheesy thing that they did, I guess these people really liked America and they said, let's go around the table and everybody say what they love about America. And there were these two guys who were there, uh, both of whom were like, they were, they were finance bros, but they had very different backgrounds. So one had, one came from money, uh, and um, had done everything he could to lose it. He'd been like a beach bum and whatever and he could not, he just, he was just destined to stay rich. Um And the other guy was the exact opposite. So he was, uh he, he clawed his way up from, from poverty. He was a poor student, remedial student and he just like worked his ass off to become rich. And uh we were going around the table and it first came to that guy, the guy who had become rich. Um And he said, well, the great thing about America is that anybody can make it here if you just work hard enough. If you just work hard enough, uh anybody can become rich, they can succeed like I have, I don't know if he said like I have. Um, AND then it went to the next guy and he's just the, the rich guy who's always been rich and he was just staring at him and he goes, no, they can't. I've looked at the data, people who are born rich, stay rich and people are born poor, uh stay poor on average. And his experiences suggested that and um and so I tho those two different perspectives are, are very interesting. Um What, what you, what we find is that like I said, people tend to like the became rich people better. What's interesting is they also think that they became rich people. The people who had clawed their way up from poverty will be more sympathetic to and supportive of the plight of the poor. Uh BECAUSE uh they come, they, they have the uh a totally reasonable conclusion that those people have been there. Um They have more sympathy, the, the rich people, the, the Rockefellers, whatever. They, they're out of touch, they don't know what it's like to be poor. Why, why would they want to help the poor? And what we find in reality is the opposite. Um Even though people perceive that things are gonna be like that way. In reality, the people who were born rich tend to be more supportive of the poor, more sympathetic to the plight of the poor, more willing to engage in redistribution than the people who uh became rich. And the explanation we find is that for those people who've clawed their way up, they believe that it is possible for everybody because they've done it themselves. And if they believe that it's possible for everybody. They hold other people accountable for it. Not having happened for them. Well, if it hasn't happened for them, it's because they didn't try hard enough. I tried hard enough and it happened for me. Whereas the people like the, the rich surfer guy, he's like, you know what? I, I tried to lose money and I couldn't, and people down there probably tried to make money and they couldn't. So, it's not because of the, their individual abilities or efforts or merit. It's because these are structural things."
+	},
+	{
+		"start_time": "41:38",
+		"speaker": "Ricardo Lopes",
+		"words": "You know, where you see that a lot where people who become rich are really, uh, against. II, I don't know, poverty alleviation or more taxation or something like that among, uh, immigrants who succeeded. I mean, immigrants who succeeded. No, no one from their, uh, original country likes them because they are just annoying. They, they think that anyone can do it and if you don't have it, it's because you don't work hard enough or something like that. So, yeah."
+	},
+	{
+		"start_time": "42:12",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. Yeah. It's, uh, it's very important to pay attention to the headwinds and the tailwinds that affect people and how they go where they are."
+	},
+	{
+		"start_time": "42:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. A and so does this relate in any way to support for social welfare? I mean, is it that people who became rich also tend to support social welfare less than the ones who were born rich?"
+	},
+	{
+		"start_time": "42:39",
+		"speaker": "Azim Shariff",
+		"words": "You know what I'm not sure about that. I think I think we saw some evidence for that and we mentioned it in the paper that we wrote. Certainly you can think of examples, but of course, these are cherry picked examples, right? You think of uh the Roosevelts, right? The Roosevelts came from a very, very wealthy family, landowning New York family. Uh AND they were some of the more progressive presidents. Um But I think you could probably come up with counterexamples of that pretty easily. So uh let's not quote me on any of that. Um The data out there, I just can't remember what they say."
+	},
+	{
+		"start_time": "43:12",
+		"speaker": "Ricardo Lopes",
+		"words": "And so um when it comes to causal attributions for poverty, do they relate to attitudes towards inequality? And by and by the way, what tend to be the, the more common causal attributions here"
+	},
+	{
+		"start_time": "43:28",
+		"speaker": "Azim Shariff",
+		"words": "for, for poverty?"
+	},
+	{
+		"start_time": "43:31",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. No,"
+	},
+	{
+		"start_time": "43:31",
+		"speaker": "Azim Shariff",
+		"words": "for poverty. Yeah. Yeah. So um in America, uh people tend to believe um more so than I would have suspected. They tend to believe that that the poor are responsible for being poor. Um WHICH is, um which is interesting because they're, they're often given a lot of evidence to the contrary. Um MAYBE that's in the media that I'm exposed to. But uh uh they believe that that more than other places and they believe that more than I would have suspected in the US, by the way, in, in Korea. This is just some new data that um the lead author on that uh former student of mine, Hyun Jin Koo uh collected. Uh SHE found that in South Korea, uh people also have this preference uh for the no people also believe that they became rich uh would be more sympathetic to the poor. But unlike in America, where people prefer to be the became rich in South Korea, people prefer to be the born rich and she suspects and this is what she's measuring currently is that that's due to a sense of uh social class fatalism. So in Korea, they have this metaphor of being born with either a golden spoon or a clay spoon. And so you're a gold spoon or a clay spoon type of person. And people want to be the people who are born with the gold spoon because that, that stays with you, regardless of whether your economics changes, you're a gold spoon person or, or a clay spoon person. And I think one of the things that uh the American ethos is about is that, well, nobody is essentially their class. Uh THAT America is a place which, which doesn't have those essential characteristics and, and, and you don't have to be a clay spoon your whole life if you were born."
+	},
+	{
+		"start_time": "45:20",
+		"speaker": "Ricardo Lopes",
+		"words": "So, I mean, if people tend to believe that uh people who are poor, it's because of their own, it's their own fault. It's because of the bad decisions they made. They also tend to be more uh accepting of inequality in their society,"
+	},
+	{
+		"start_time": "45:39",
+		"speaker": "Azim Shariff",
+		"words": "right? That's Right. Yeah, that's right. So um uh yeah, so um we, we see that across countries. So places where there's a greater uh uh belief in um uh where there's a greater belief in social mobility, there's a greater tolerance for inequality. And in fact, that's a greater predictor of the level of inequality of, of the support for inequality than the level of inequality in that country itself. Um So when people believe that you're able to get out of your position, uh they're gonna be less willing to help you for not having done it."
+	},
+	{
+		"start_time": "46:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So to get into the last topic, what is the moralization of effort? I mean, what, what is it really about? And what do these plays of effort signal socially to other people?"
+	},
+	{
+		"start_time": "46:37",
+		"speaker": "Azim Shariff",
+		"words": "Yeah. So this is uh work I want to keep giving credit to, to all the, the first authors and students on this. So this is a work by, um it was led by Jared Sneer. Um It's based on some, some other work um as well by, by various researchers. But basically what we found there is that, um even for people who don't produce, uh um more than somebody else, somebody who's putting a lot of effort into their uh behaviors, whether it's at work, whether it's in their hobbies, uh they're seen as a more moral person. Um So if you see the, the actual, the um the uh anecdote I give about this is that one of the co authors on the paper. Paul Piff, he's a good friend of mine. Um, AND he, he's a runner. He, he runs in the movie. He's a jogger. He's a jogger. Let's be, let's be real. Um, AND he, uh, when I, when I met him II, I moved, I moved to this when I was UC Irvine, he was a UC Irvine and I kept hearing he would go on these jogs and I find people who jog kind of annoying because they're all like holier than now and whatever. Um But then one day I saw him jogging and I expected when he was jogging, he just be like, you know, like smiling at the beautiful Californian sun and just like taking it easy and just being in like, you know, this Mr perfect kind of guy, but he was like hobbling over, he was like one leg wasn't working and it was dripping in sweat and he had this look of just agony on his face and it made me have that much more respect for him because he was putting in that much more effort uh to, you know, a task which, which didn't really help anybody. Um It was just for him. Uh IT has no bearing on, on uh harming or helping anybody else, but it did make him seem like a, a more moral person for some reason. Um And so the theory behind it is that we are constantly uh trying to figure out amongst the market for people, uh, who is going to be a good cooperator, who's going to be a good moral person. We want to surround ourselves with people who are dependable, trustworthy, uh, moral people. And so we're looking for any cue that actually would, would suggest that somebody is like that somebody would be a good cooper partner. And effort is a really good one. SO effort, uh, is, um, tells you whether if you needed help, if you needed somebody to actually do something for you, that that's somebody who's willing to invest effort into things. And in a way, potentially, we don't have evidence for this. But in a way, you could imagine that the people who are willing to invest effort into the most meaningless things are the people who are even that much more trustworthy because they would put in effort to, uh, to, to whatever whatever you needed them, uh for not just things which have economic uh benefits. And so we showed in a number of different, um studies that, yeah, so people who uh are shown. So like if you have two widget makers and they produce the same amount of widgets, the one for whom it's hard works really hard. That person is seen as more moral and you'd want them as a, as a partner, you want them as a trust partner. Uh More than the person who, who, who it comes easily to"
+	},
+	{
+		"start_time": "49:55",
+		"speaker": "Ricardo Lopes",
+		"words": "do, do you like soccer?"
+	},
+	{
+		"start_time": "49:58",
+		"speaker": "Azim Shariff",
+		"words": "I don't like soccer. I mean, I, I have nothing against soccer but"
+	},
+	{
+		"start_time": "50:01",
+		"speaker": "Ricardo Lopes",
+		"words": "no, no, no, no, no. But, but I, I'm mentioning that because one very famous example of how people look at effort and how they moralize it is the debate between who's the best soccer player ever. Cristiano Ronaldo or Messi because since Cristiano Ronaldo is always on social media, advertising his work ethic people and many, many people out there tend to think that he's the best soccer player ever because he puts in more effort than Messi, which by the way is wrong because Messi has also improved his play through the years. So he trains a lot. But anyway, that's just an example."
+	},
+	{
+		"start_time": "50:41",
+		"speaker": "Azim Shariff",
+		"words": "I mean, another good example of this uh is in basketball with uh Kobe Bryant and, and Shaquille o'neal because Shaq was born with these amazing natural gifts and Kobe was like the hardest working person in the NBA. And, and you really, if you, uh if I were to try to pick somebody who's, I, I mean, I guess Kobe had those sexual assault allegations, but, you know, he seemed, I guess the, the work ethic does make him seem seem like a more moral uh person. Um Yeah, and, and I think there's probably many examples of that and I think we, we do venerate people who are seen as hard working. And I was thinking even, you know, even some of these, these memes or these trends that take off on social media. Uh I was thinking about this cold plunge thing. You know, these people who like wake up in the morning, they jump in a, like a bunch of ice cubes. Um I don't know if that helps people, but I imagine that people, people venerate the people who go through that simply because it's like a grit your teeth and bear, it's hard to do And it seems to just have this automatic, I respect that person. I think that person is good because they're doing this really hard thing. Uh, I think we tend to do that. I think we tend to, to think of people who are, um, just willing to put in a lot of effort for things. We see them as, as very, as very moral. There's an interesting paper, uh, in behavioral brain science, Leo Fushi was the, I don't know how to pronounce his last name. I hope that's right. Uh, WAS the lead author on it, which was looking at this idea of a Puritan, a puritan moralizing that their argument was that the reason why people moralize these things, which tend not to have, uh, uh, victims or beneficiaries, um, like, uh, eating too much or, uh, drinking, gambling, all these kinds of things. Their argument was that, well, those things lead people to have less self control. But I think, I think that's insightful. Uh, BUT I think a small tweak on that is that those things signal who has high self control and who doesn't. And so if you see somebody who's engaging in, uh, eating too much or, uh, is, is giving into gambling too much or whatever, that's a signal to you that, well, if you really needed them, you don't know that they'll be able to come through because they, they indulge, they can't, they don't have the self control to, um, uh to, to um uh to, to, to, to, to rein in their behavior when, when they really need to. And um, so I gave a, a talk, I give a uh a talk on this effort, moralization thing was up on youtube. And um, of course, I, I made the mistake of reading the comments, um which were generally positive, but then 111 comment which I can't forget was like uh talking about. Um, YEAH, uh all this uh effort important for self control. Uh You should know that self control is also relating to uh hair grooming, bro. It was like accusing me of being unkempt. Uh WHICH I guess I am. Um And it made me realize that even those types of cues, right? Like being clean, shaven, well kept a well groomed people. That's a, that's a another demonstration of uh fastidiousness, discipline, uh self control, I guess. Uh HARD work, I guess it's hard to, to stay well groomed. Um All these cues, we constantly surveying the social landscape to find these cues of who's gonna be a dependable partner and then we moralize everything. Uh, THAT, that is, is such a queue."
+	},
+	{
+		"start_time": "54:20",
+		"speaker": "Ricardo Lopes",
+		"words": "We, well, perhaps that would be another reason why so many people nowadays advertise on social media, they're going to the gym, I guess."
+	},
+	{
+		"start_time": "54:29",
+		"speaker": "Azim Shariff",
+		"words": "Yes. Exactly. Yeah. That's right. It's a, it's a, it's a great example of effort, moralization. It doesn't help anybody. I guess it may be eases some pressure on the health care system. But, uh, yeah, I don't know, I think people respect people who do that more, uh, for better or worse."
+	},
+	{
+		"start_time": "54:48",
+		"speaker": "Ricardo Lopes",
+		"words": "But, but when it comes to the more rational aspects of this, I mean, is it actually rational to value effort for efforts sake, even if it is sometimes unproductive or, or at least doesn't reach, doesn't help reaching the goals that we have in mind."
+	},
+	{
+		"start_time": "55:06",
+		"speaker": "Azim Shariff",
+		"words": "Well, it depends on what you mean by those goals. Right. So, so I think that if I think that we are constantly, uh, whether we like to think of it or, or, or, or not because it seems inauthentic but we are constantly trying to send out signals to other people, uh, to show that we're the type of people that we want to be wanted or something like that or, or, or desired as, as good cooper partners, even to our own friends and partners, we want to show, uh, commitment, trustworthiness, all these kinds of things. And so when we engage in this seemingly at least economically unproductive effort. It is productive in this other sphere. It is productive for signaling to other people that we are uh reliable partners. Uh WHICH I think is an important thing to do. I think. So, in that sense, it does have whether this is the reason that we do it uh consciously or not, it does have that sort of deep rationality to it. Um Yeah. Uh I think one of the problems comes when it pops up in uh contexts which are then removed from that signal, right? So, because we venerate hard work so much, we now construct an entire ll labor system that rewards hard work uh Even when it's economically unproductive. Um And it's not serving that interpersonal process. So if a boss is, if we're trying to show that we are the hardest working person in the office, uh when that doesn't accomplish the interpersonal benefits and it doesn't accomplish the economic goals of the company. Uh Then it's just draining people's time that could be spent doing other things."
+	},
+	{
+		"start_time": "56:53",
+		"speaker": "Ricardo Lopes",
+		"words": "A and so just one last question, does this phenomenon of moralization of effort connect in any way to support for social welfare?"
+	},
+	{
+		"start_time": "57:04",
+		"speaker": "Azim Shariff",
+		"words": "So that's a good question. That's uh uh a project that uh Jared, the, the lead author has wanted to do. Uh We haven't gotten to it yet. Um Right now, you, you see examples of that all the time that people uh uh are reticent to give social welfare when it's not connected to work. Even if the work doesn't produce anything, people want to see people work. They don't, they get turned off by, uh, people not working because they perceive it as laziness, which makes you not respect the person, not like the person, not think of the person, moral, not think of the person is deserving. And as a result, probably you're less willing to extend uh social welfare to them. So again, back to those attributions that we talked about earlier, those really matter because those determine uh what you feel about the people uh to whom you would be um either donating money to or, or giving taxes for."
+	},
+	{
+		"start_time": "57:59",
+		"speaker": "Ricardo Lopes",
+		"words": "And I would imagine, I mean, this just came to my mind that in the case, for example, of homeless people, then there would be many social signals in their case that would signal to people that I they are not putting in the effort because they are on the street. They are probably not working, they are not groomed again that bit from a few minutes ago. So"
+	},
+	{
+		"start_time": "58:24",
+		"speaker": "Azim Shariff",
+		"words": "all of that. Yeah. And, and similarly, um you know, they might have uh here in Vancouver a lot of uh drug addiction problems. Uh So they have that cue as well. Uh So all those things which people might attribute to just being low quality uh social partners, even if that person is not going to be a social partner to you. So that's a good example of a misfiring, right? Because you then make all these attributions, the, the person you don't like them, you see them as immoral, uh, because they would be a bad social partner, but you aren't evaluating them to be a social partner. You're evaluating them as to whether they're gonna be the recipient of help."
+	},
+	{
+		"start_time": "59:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Per, perhaps that's also why we evolved psychology misfiring in our huge societies where we no longer interact just with 150 people where we know everyone around."
+	},
+	{
+		"start_time": "59:16",
+		"speaker": "Azim Shariff",
+		"words": "Right. Yeah, that's right. And, and um uh you know, I've, I've written a couple of papers on this idea that um the environmental change that we've undergone in the last 20 years, moving from the real world to a world that's more like this uh where we look at screens, we interact with many, many strangers, millions of people that environmental change from the real world to a virtual world to an online world is probably bigger than the environmental change that we went through 10, 12,000 years ago when we moved from being uh nomadic people to sedentary city dwellers. That was a big change. It had all these uh uh cultural evolutionary consequences. This one might be actually bigger and happening way faster."
+	},
+	{
+		"start_time": "1:00:01",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So let's wrap up the interview here, Doctor Chri. And uh do, would you like to tell people where they can find you when you work on the internet."
+	},
+	{
+		"start_time": "1:00:11",
+		"speaker": "Azim Shariff",
+		"words": "Oh, good question. Uh uh Google scholar. You can find my work there. Uh Google scholar. Uh I'm also on Twitter um at Azim Sharif. Uh Yeah. Yeah. Oh, and I have a website but I don't really update it very much. That's Shari lab.com. Really Google scholar, research, Gator. Probably the places you can get papers."
+	},
+	{
+		"start_time": "1:00:33",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. And of course, I will also leave the link to our first interview in the description of this one. So thank you so much again for taking the time to come on the show. It's always a pleasure to talk with you."
+	},
+	{
+		"start_time": "1:00:44",
+		"speaker": "Azim Shariff",
+		"words": "Great to see you again. Take care."
+	},
+	{
+		"start_time": "1:00:47",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys. Thank you for watching this interview. Until the end. If you liked it, please share it. Leave a like and hit the subscription button. The show is brought to you by the N Lights learning and development. Then differently check the website at N lights.com and also please consider supporting the show on Patreon or paypal. I would also like to give a huge thank you to my main patrons and paypal supporters, Perego Larson, Jerry Muller and Frederick Suno Bernard Seche O of Alex Adam, Castle Matthew Whitten bear. No wolf, Tim Ho Erica LJ Condors Philip Forrest Connolly. Then the Met Robert Wine in NAI Z Mark Nevs calling in Holbrook Field, Governor Mikel Stormer, Samuel Andre Francis for Agns Ferus and H her meal and Lain Jung Y and the Samuel K. Hes Mark Smith J Tom Hummel s friends, David Sloan Wilson. Ya dear, Roman Roach Diego and Jan Punter Romani Charlotte, Bli Nico Barba, Adam Hunt, Pavla Stassi na Me, Gary G Alman, Sam Ofri and YPJ Barboa, Julian Price Edward Hall, Eden Broner Douglas Fry Franca, Beto Lati Cortez or Solis Scott Zachary FTD and W Daniel Friedman, William Buckner, Paul Giorgio, Luke Loki, Georgio Theophano Chris Williams and Peter Wo David Williams, the Ausa Anton Erickson Charles Murray, Alex Shaw, Marie Martinez, Coralie Chevalier, Bangalore Larry Dey junior, Old Ebon, Starry Michael Bailey. Then Spur by Robert Grassy Zorn, Jeff mcmahon, Jake Zul Barnabas Radick, Mark Kempel Thomas Dvor Luke Neeson, Chris Tory Kimberley Johnson, Benjamin Gilbert Jessica. No week, Linda Brendan Nicholas Carlson Ismael Bensley Man, George Katis, Valentine Steinman, Perras, Kate Van Goler, Alexander, Abert Liam Dan Biar, Masoud Ali Mohammadi Perpendicular Jer Urla. Good enough, Gregory Hastings David Pins of Sean Nelson, Mike Levin and Jos Net. A special thanks to my producers is our web, Jim Frank Luca Stein, Tom Veg and Bernard N Corti Dixon Bendik Muller Thomas Trumble Catherine and Patrick Tobin John Carlman, Negro, Nick Ortiz and Nick Golden. And to my executive producers, Matthew Lavender, Si, Adrian Bogdan Knits and Rosie. Thank you for all."
+	}
+]
