@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#977 Susan Charles: How Well-Being Varies Across the Lifespan",
-	"youtubeid": "AVf5-u5pGZI"
+	"vtt": "977.vtt",
+	"youtubeid": "AVf5-u5pGZI",
+	"transcript": "977.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 27th 2024.  
