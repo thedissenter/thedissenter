@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#978 Sophie Scott-Brown: European Political Thought, Anarchism, and Steven Pinker's Progressivism",
-	"youtubeid": "OLwgjkMdYqg"
+	"vtt": "978.vtt",
+	"youtubeid": "OLwgjkMdYqg",
+	"transcript": "978.lines.json"
 }
 ---
 RECORDED ON JUNE 27th 2024.  
