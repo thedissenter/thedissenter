@@ -5,6 +5,7 @@
 	"episodeid": "978",
 	"excerpt": "Dr. Sophie Scott-Brown is a Research Fellow at the University of St. Andrews, and Future Fellow at Remarque Institute, NYU. She is also Founder of the Everyday Democracy project with Open Society Foundation. She is well-known for her historical work on left-wing politics, especially the post-war British left, and for her intellectual biography of Raphael Samuel entitled The Histories of Raphael Samuel - A Portrait of A People’s Historian (2017).",
 	"image": "https://i.ytimg.com/vi/OLwgjkMdYqg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/978-sophie-scott-brown-european-political-thought-anarchism/id1451347236?i=1000664847163&uo=4",
 	"publishDate": 2024-08-09,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/978-Sophie-Scott-Brown-European-Political-Thought--Anarchism--and-Steven-Pinkers-Progressivism-e2ls6si",
 	"tags": [
