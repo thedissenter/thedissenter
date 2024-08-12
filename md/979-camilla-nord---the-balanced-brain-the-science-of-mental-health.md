@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/83270696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-27%2Fee417c48-a433-a51a-d60d-1b135d9f1617.m4a",
 	"draft": false,
 	"episodeid": "979",
 	"excerpt": "Dr. Camilla Nord is an Assistant Professor of Cognitive Neuroscience at the University of Cambridge. She is currently particularly interested in understanding the overlap between homeostatic processes in the brain and body and mental health disorders. She is the author of The Balanced Brain: The Science of Mental Health.",
 	"image": "https://i.ytimg.com/vi/_aHsDaSB1TE/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/979-camilla-nord-the-balanced-brain-the-science/id1451347236?i=1000665065848&uo=4",
 	"publishDate": 2024-08-12,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/979-Camilla-Nord---The-Balanced-Brain-The-Science-of-Mental-Health-e2gbnj8",
 	"tags": [
 		"Neuroscience",
 		"Medicine"
