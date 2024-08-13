@@ -13,7 +13,9 @@
 		"Medicine"
 	],
 	"title": "#979 Camilla Nord - The Balanced Brain: The Science of Mental Health",
-	"youtubeid": "_aHsDaSB1TE"
+	"vtt": "979.vtt",
+	"youtubeid": "_aHsDaSB1TE",
+	"transcript": "979.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 27th 2024.  
