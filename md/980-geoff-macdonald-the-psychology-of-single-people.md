@@ -11,7 +11,9 @@
 		"Psychology"
 	],
 	"title": "#980 Geoff MacDonald: The Psychology of Single People",
-	"youtubeid": "2uv4lj0g2pI"
+	"vtt": "980.vtt",
+	"youtubeid": "2uv4lj0g2pI",
+	"transcript": "980.lines.json"
 }
 ---
 Dr. Geoff MacDonald is a Professor in the Department of Psychology at the University of Toronto. In general, his research focuses on issues of social connection and disconnection. One emerging theme of his lab’s work is the intersection of singlehood and sexuality. He is trying to understand what predicts well-being in singlehood. Some broader issues that interest Dr. MacDonald now include thinking about attachment theory in light of longitudinal findings on the relatively small role of childhood treatment in adult attachment security, the role of Big 5 personality traits in attraction and maintenance of relationships, and better understanding what people are doing psychologically when they let go of a close relationship.
