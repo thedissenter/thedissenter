@@ -5,7 +5,7 @@
 	"episodeid": "981",
 	"excerpt": "Dr. Mikkel Borch-Jacobsen is Professor Emeritus of Comparative Literature and French at the University of Washington in Seattle. His research interests include Critical Theory, French literary criticism, psychoanalysis, and psychology. He is the author of several books, his latest one being Freud’s Thinking: An Introduction.",
 	"image": "https://i.ytimg.com/vi/jJvLcNeDtKE/maxresdefault.jpg",
-	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/981-mikkel-borch-jacobsen-was-freud-really-a-scientist/id1451347236?i=1000665658348&uo=4",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/981-mikkel-borch-jacobsen-freuds-thinking-an-introduction/id1451347236?i=1000665658348&uo=4",
 	"publishDate": 2024-08-16,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/981-Mikkel-Borch-Jacobsen-Was-Freud-Really-a-Scientist-e2gda9u",
 	"tags": [
@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#981 Mikkel Borch-Jacobsen: Was Freud Really a Scientist?",
-	"youtubeid": "jJvLcNeDtKE"
+	"vtt": "981.vtt",
+	"youtubeid": "jJvLcNeDtKE",
+	"transcript": "981.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 28th 2024.  
