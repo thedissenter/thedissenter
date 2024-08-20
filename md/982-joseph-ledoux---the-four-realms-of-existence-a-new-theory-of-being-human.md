@@ -14,7 +14,9 @@
 		"General Science"
 	],
 	"title": "#982 Joseph LeDoux - The Four Realms of Existence: A New Theory of Being Human",
-	"youtubeid": "UkPE4M7SuU4"
+	"vtt": "982.vtt",
+	"youtubeid": "UkPE4M7SuU4",
+	"transcript": "982.lines.json"
 }
 ---
 RECORDED ON MARCH 5th 2024.  
