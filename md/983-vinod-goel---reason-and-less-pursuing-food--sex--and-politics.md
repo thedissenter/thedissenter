@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#983 Vinod Goel - Reason and Less: Pursuing Food, Sex, and Politics",
-	"youtubeid": "YPWRGPZP2Tc"
+	"vtt": "983.vtt",
+	"youtubeid": "YPWRGPZP2Tc",
+	"transcript": "983.lines.json"
 }
 ---
 RECORDED ON DECEMBER 8th 2023.  
