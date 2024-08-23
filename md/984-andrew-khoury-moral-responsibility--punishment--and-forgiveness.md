@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/78898973/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2Ffef8d8da-cfe1-ffc2-38b4-97c632f6af2a.m4a",
 	"draft": false,
 	"episodeid": "984",
 	"excerpt": "Dr. Andrew Khoury is an Assistant Teaching Professor of Philosophy at Arizona State University. He works primarily at the intersection of moral philosophy, moral psychology, and metaphysics on issues surrounding free will and moral responsibility.",
 	"image": "https://i.ytimg.com/vi/8cE19CG_uec/maxresdefault.jpg",
 	"publishDate": 2024-08-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/984-Andrew-Khoury-Moral-Responsibility--Punishment--and-Forgiveness-e2c6aat",
 	"tags": [
 		"Philosophy"
 	],
