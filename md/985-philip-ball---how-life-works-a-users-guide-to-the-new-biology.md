@@ -14,7 +14,9 @@
 		"General Science"
 	],
 	"title": "#985 Philip Ball - How Life Works: A User’s Guide to the New Biology",
-	"youtubeid": "qZKsJ6oVxkU"
+	"vtt": "985.vtt",
+	"youtubeid": "qZKsJ6oVxkU",
+	"transcript": "985.lines.json"
 }
 ---
 Dr. Philip Ball is a freelance science writer, with a BA in Chemistry from the University of Oxford and a PhD in Physics from the University of Bristol. He was an editor at Nature for over 20 years. He is the author of many popular books on science, the latest one being How Life Works: A User’s Guide to the New Biology.
