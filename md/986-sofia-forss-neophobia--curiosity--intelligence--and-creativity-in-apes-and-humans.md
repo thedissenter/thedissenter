@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#986 Sofia Forss: Neophobia, Curiosity, Intelligence, and Creativity in Apes and Humans",
-	"youtubeid": "lD2nluMUFV8"
+	"vtt": "986.vtt",
+	"youtubeid": "lD2nluMUFV8",
+	"transcript": "986.lines.json"
 }
 ---
 RECORDED ON MARCH 8th 2024.  
