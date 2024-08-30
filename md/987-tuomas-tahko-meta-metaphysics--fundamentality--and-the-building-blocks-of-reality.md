@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#987 Tuomas Tahko: Meta-Metaphysics, Fundamentality, and the Building Blocks of Reality",
-	"youtubeid": "0e2GRLyexa4"
+	"vtt": "987.vtt",
+	"youtubeid": "0e2GRLyexa4",
+	"transcript": "987.lines.json"
 }
 ---
 RECORDED ON MARCH 12th 2024.  
