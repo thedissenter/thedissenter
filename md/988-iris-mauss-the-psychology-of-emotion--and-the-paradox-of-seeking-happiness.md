@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/84048247/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-14%2Fa87e2e33-52db-e42d-a7da-c0113cdf0c37.m4a",
 	"draft": false,
 	"episodeid": "988",
 	"excerpt": "Dr. Iris Mauss is a Professor in the Department of Psychology at the University of California, Berkeley.  Her research focuses on emotions and emotion regulation, with an emphasis on their links to psychological and physical health. In her research, she uses measures of emotion experience, behavior, and physiological responding, and combine laboratory, daily-diary, and longitudinal survey approaches.",
 	"image": "https://i.ytimg.com/vi/1J2DVD486RA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/988-iris-mauss-the-psychology-of-emotion-and/id1451347236?i=1000668079433&uo=4",
 	"publishDate": 2024-09-02,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/988-Iris-Mauss-The-Psychology-of-Emotion--and-the-Paradox-of-Seeking-Happiness-e2h3etn",
 	"tags": [
 		"Psychology"
 	],
