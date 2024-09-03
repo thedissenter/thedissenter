@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#988 Iris Mauss: The Psychology of Emotion, and the Paradox of Seeking Happiness",
-	"youtubeid": "1J2DVD486RA"
+	"vtt": "988.vtt",
+	"youtubeid": "1J2DVD486RA",
+	"transcript": "988.lines.json"
 }
 ---
 RECORDED ON MARCH 14th 2024.  
