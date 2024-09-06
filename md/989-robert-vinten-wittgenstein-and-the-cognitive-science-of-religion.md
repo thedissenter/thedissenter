@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#989 Robert Vinten: Wittgenstein and the Cognitive Science of Religion",
-	"youtubeid": "nodv3cQO-os"
+	"vtt": "989.vtt",
+	"youtubeid": "nodv3cQO-os",
+	"transcript": "989.lines.json"
 }
 ---
 RECORDED ON MARCH 13th 2024.  
