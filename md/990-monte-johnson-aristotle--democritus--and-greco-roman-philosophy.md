@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#990 Monte Johnson: Aristotle, Democritus, and Greco-Roman Philosophy",
-	"youtubeid": "Qh5EOUctX8M"
+	"vtt": "990.vtt",
+	"youtubeid": "Qh5EOUctX8M",
+	"transcript": "990.lines.json"
 }
 ---
 RECORDED ON MARCH 18th 2024.  
