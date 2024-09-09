@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#991 Kostas Kampourakis - Ancestry Reimagined: Dismantling the Myth of Genetic Ethnicities",
-	"youtubeid": "d59CoJEqw20"
+	"vtt": "991.vtt",
+	"youtubeid": "d59CoJEqw20",
+	"transcript": "991.lines.json"
 }
 ---
 RECORDED ON JUNE 13th 2024.  
