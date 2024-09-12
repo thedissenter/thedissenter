@@ -5,6 +5,7 @@
 	"episodeid": "992",
 	"excerpt": "Dr. Jerald Mosley is a former California Supervising Deputy Attorney General, and he has been researching, writing and speaking on law and sex work. He is the author of Sex Workers and Their Clients: In Their Own Words.",
 	"image": "https://i.ytimg.com/vi/R10RICXGEMQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/992-jerald-mosley-sex-workers-and-their-clients-in/id1451347236?i=1000669338522&uo=4",
 	"publishDate": 2024-09-12,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/992-Jerald-Mosley---Sex-Workers-and-Their-Clients-In-Their-Own-Words-e2ndup5",
 	"tags": [
