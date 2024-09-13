@@ -5,6 +5,7 @@
 	"episodeid": "993",
 	"excerpt": "Dr. Peter Etchells is Professor of Psychology and Science Communication at Bath Spa University, UK. His research looks at the behavioral and wellbeing effects of playing video games, and he is also interested in metascientific issues regarding best practice in digital technology effects research. He is the author of Lost in a Good Game, and more recently, Unlocked: The Real Science of Screen Time (and how to spend it better).",
 	"image": "https://i.ytimg.com/vi/htJowzq27eQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/993-peter-etchells-unlocked-the-real-science-of/id1451347236?i=1000669472888&uo=4",
 	"publishDate": 2024-09-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/993-Peter-Etchells---Unlocked-The-Real-Science-of-Screen-Time-and-how-to-spend-it-better-e2l52dj",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#993 Peter Etchells - Unlocked: The Real Science of Screen Time (and how to spend it better)",
-	"youtubeid": "htJowzq27eQ"
+	"vtt": "993.vtt",
+	"youtubeid": "htJowzq27eQ",
+	"transcript": "993.lines.json"
 }
 ---
 RECORDED ON JUNE 21st 2024.  
