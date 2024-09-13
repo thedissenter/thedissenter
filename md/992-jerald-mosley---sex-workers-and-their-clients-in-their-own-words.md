@@ -14,7 +14,9 @@
 		"Philosophy"
 	],
 	"title": "#992 Jerald Mosley - Sex Workers and Their Clients: In Their Own Words",
-	"youtubeid": "R10RICXGEMQ"
+	"vtt": "992.vtt",
+	"youtubeid": "R10RICXGEMQ",
+	"transcript": "992.lines.json"
 }
 ---
 Dr. Jerald Mosley is a former California Supervising Deputy Attorney General, and he has been researching, writing and speaking on law and sex work. He is the author of Sex Workers and Their Clients: In Their Own Words.
