@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/91280392/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-4%2F62190a0f-2639-a9b3-4ff0-87d8454472e0.m4a",
 	"draft": false,
 	"episodeid": "994",
 	"excerpt": "Louis Bachaud is a PhD student at the University of Kent and the University of Lille. His research investigates the history and sociology of science. In particular, he studies the contemporary (mis)understandings of evolutionary sciences and their appropriations in online debates around sex and gender.",
 	"image": "https://i.ytimg.com/vi/a7hxurN7hTA/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/994-louis-bachaud-bad-science-and-misogyny-in/id1451347236?i=1000669733782&uo=4",
 	"publishDate": 2024-09-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/994-Louis-Bachaud-Bad-Science-and-Misogyny-in-the-Manosphere-e2o05i8",
 	"tags": [
 		"Sociology",
 		"Psychology"
