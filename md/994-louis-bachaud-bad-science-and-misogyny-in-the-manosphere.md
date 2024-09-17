@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#994 Louis Bachaud: Bad Science and Misogyny in the Manosphere",
-	"youtubeid": "a7hxurN7hTA"
+	"vtt": "994.vtt",
+	"youtubeid": "a7hxurN7hTA",
+	"transcript": "994.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 4th 2024.  
