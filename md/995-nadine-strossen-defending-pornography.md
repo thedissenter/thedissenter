@@ -5,6 +5,7 @@
 	"episodeid": "995",
 	"excerpt": "Dr. Nadine Strossen is the John Marshall Harlan II Professor of Law Emerita at New York Law School and past President of the American Civil Liberties Union (1991-2008). She is also a Senior Fellow with FIRE (the Foundation for Individual Rights and Education) and a leading expert and frequent speaker/media commentator on constitutional law and civil liberties. She serves on the advisory boards of the ACLU, Academic Freedom Alliance, Heterodox Academy, National Coalition Against Censorship, and the University of Austin. Her latest book is Defending Pornography: Free Speech, Sex, and the Fight for Women's Rights.",
 	"image": "https://i.ytimg.com/vi/tclUq7MIeYE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/995-nadine-strossen-defending-pornography/id1451347236?i=1000670083169&uo=4",
 	"publishDate": 2024-09-19,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/995-Nadine-Strossen-Defending-Pornography-e2nktbu",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#995 Nadine Strossen: Defending Pornography",
-	"youtubeid": "tclUq7MIeYE"
+	"vtt": "995.vtt",
+	"youtubeid": "tclUq7MIeYE",
+	"transcript": "995.lines.json"
 }
 ---
 RECORDED ON AUGUST 26th 2024.  
