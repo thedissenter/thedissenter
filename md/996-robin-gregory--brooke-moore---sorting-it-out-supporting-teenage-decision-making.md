@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#996 Robin Gregory & Brooke Moore - Sorting It Out: Supporting Teenage Decision Making",
-	"youtubeid": "2sofNs7JOjI"
+	"vtt": "996.vtt",
+	"youtubeid": "2sofNs7JOjI",
+	"transcript": "996.lines.json"
 }
 ---
 RECORDED ON MARCH 27th 2024.  
