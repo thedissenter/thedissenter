@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#997 Sheri Berman: The History of the Left, Social Democracy, and Right-Wing Populism",
-	"youtubeid": "JE9NTCgXorY"
+	"vtt": "997.vtt",
+	"youtubeid": "JE9NTCgXorY",
+	"transcript": "997.lines.json"
 }
 ---
 RECORDED ON APRIL 11th 2024.  
