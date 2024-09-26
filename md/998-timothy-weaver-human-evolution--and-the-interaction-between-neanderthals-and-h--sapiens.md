@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#998 Timothy Weaver: Human Evolution, and the Interaction between Neanderthals and H. Sapiens",
-	"youtubeid": "1eTVPFLjRi0"
+	"vtt": "998.vtt",
+	"youtubeid": "1eTVPFLjRi0",
+	"transcript": "998.lines.json"
 }
 ---
 RECORDED ON APRIL 3rd 2024.  
