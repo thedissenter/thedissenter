@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/81461094/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2Ffffb950f-23ac-2537-9858-7965ad967653.m4a",
 	"draft": false,
 	"episodeid": "999",
 	"excerpt": "Dr. Tobias Gerstenberg is an Assistant Professor of Psychology at Stanford University, where he leads the Causality in Cognition Lab (CICL). Dr. Gerstenberg's research is highly interdisciplinary. It combines ideas from philosophy, linguistics, computer science, and the legal sciences to better understand higher-level cognitive phenomena such as causal inference and moral judgment.",
 	"image": "https://i.ytimg.com/vi/6iqd6rE-UeU/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/999-tobias-gerstenberg-how-we-think-about-causality/id1451347236?i=1000670991375&uo=4",
 	"publishDate": 2024-09-27,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/999-Tobias-Gerstenberg-How-We-Think-About-Causality-and-Moral-Responsibility-e2ekgd6",
 	"tags": [
 		"Psychology"
 	],
