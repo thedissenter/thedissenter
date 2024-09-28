@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#999 Tobias Gerstenberg: How We Think About Causality and Moral Responsibility",
-	"youtubeid": "6iqd6rE-UeU"
+	"vtt": "999.vtt",
+	"youtubeid": "6iqd6rE-UeU",
+	"transcript": "999.lines.json"
 }
 ---
 RECORDED ON JANUARY 18th 2024.  

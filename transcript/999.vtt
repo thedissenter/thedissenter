@@ -1,0 +1,7562 @@
+WEBVTT
+
+1
+00:00:00.230 --> 00:00:03.009
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:03.059 --> 00:00:05.780
+Center. I'm your host, Ricardo Loops. And today I'm
+
+3
+00:00:05.789 --> 00:00:09.970
+joined by Dr Tobias Gerstenberg. He is an assistant
+
+4
+00:00:09.979 --> 00:00:13.710
+professor of psychology at Stanford University where he leads
+
+5
+00:00:13.720 --> 00:00:17.670
+the causality cognition lab, his research is focused on
+
+6
+00:00:17.680 --> 00:00:21.790
+higher level cognitive phenomena such as causal influence and
+
+7
+00:00:21.799 --> 00:00:25.569
+moral judgment. And today we're talking about causal cognition,
+
+8
+00:00:25.750 --> 00:00:29.579
+how basically people think about causality and how it
+
+9
+00:00:29.590 --> 00:00:35.009
+connects to attributions of moral responsibility. So Doctor Gerstenberg,
+
+10
+00:00:35.020 --> 00:00:37.240
+welcome to the show. It's a huge pleasure to
+
+11
+00:00:37.250 --> 00:00:37.779
+everyone.
+
+12
+00:00:38.139 --> 00:00:40.060
+Awesome. Yeah. Thanks so much for having me.
+
+13
+00:00:40.860 --> 00:00:44.700
+So let me start with perhaps a basic question.
+
+14
+00:00:44.709 --> 00:00:48.330
+So what is causal cognition? I mean, as a
+
+15
+00:00:48.340 --> 00:00:52.950
+psychologist, when you study this phenomenon, what are you
+
+16
+00:00:52.959 --> 00:00:57.139
+really interested in? What kinds of questions do you
+
+17
+00:00:57.150 --> 00:00:59.319
+usually tackle?
+
+18
+00:01:00.009 --> 00:01:01.590
+Yeah. So I think there's at least sort of
+
+19
+00:01:01.599 --> 00:01:03.590
+maybe two aspects to to the answer to that
+
+20
+00:01:03.599 --> 00:01:06.059
+question. One of which being is that, you know,
+
+21
+00:01:06.069 --> 00:01:09.480
+causal cognition, partly studies how people think about causality
+
+22
+00:01:09.489 --> 00:01:11.879
+in the world. And but then it also relates
+
+23
+00:01:11.889 --> 00:01:15.110
+to how causality shapes the way that we think,
+
+24
+00:01:15.220 --> 00:01:17.440
+right? And so when thinking about the world, I
+
+25
+00:01:17.449 --> 00:01:20.110
+think it's sort of useful to maybe delineate like
+
+26
+00:01:20.120 --> 00:01:23.559
+three different areas like of causal cognition and there's
+
+27
+00:01:23.569 --> 00:01:25.540
+the area of causal learning. So that's how we
+
+28
+00:01:25.550 --> 00:01:27.559
+learn about the causal structure of the world. And
+
+29
+00:01:27.569 --> 00:01:28.989
+might also be just how we learn about the
+
+30
+00:01:29.000 --> 00:01:32.400
+relationship between particular variables where this could be like
+
+31
+00:01:32.629 --> 00:01:35.300
+um figuring out whether some, you know, drug actually
+
+32
+00:01:35.309 --> 00:01:38.620
+cures diseases or not. Um BUT also learning more
+
+33
+00:01:38.629 --> 00:01:42.089
+complex things like how, how several you know, variables
+
+34
+00:01:42.099 --> 00:01:44.129
+of phenomena in the world are related to one
+
+35
+00:01:44.139 --> 00:01:47.300
+another or how certain kind of causal mechanisms work.
+
+36
+00:01:47.610 --> 00:01:49.910
+And that can be studied from a developmental perspective,
+
+37
+00:01:49.919 --> 00:01:51.989
+how Children learn about the causal structure of the
+
+38
+00:01:52.000 --> 00:01:54.430
+world. But even for adults, we do causal learning
+
+39
+00:01:54.440 --> 00:01:57.339
+often as we encounter new, you know, domains play
+
+40
+00:01:57.349 --> 00:02:00.480
+new games or something like that. So then as
+
+41
+00:02:00.489 --> 00:02:03.650
+a secondary, there's the area of causal reasoning, right
+
+42
+00:02:03.660 --> 00:02:06.059
+there, the idea is OK, we already know now
+
+43
+00:02:06.069 --> 00:02:08.660
+to some extent how the causal world works and
+
+44
+00:02:08.669 --> 00:02:11.550
+how do we now use that knowledge um to
+
+45
+00:02:11.559 --> 00:02:13.669
+be effective in the world, right? And that could
+
+46
+00:02:13.679 --> 00:02:15.580
+be things like predicting what's going to happen in
+
+47
+00:02:15.589 --> 00:02:18.240
+the future. It could be things like making inferences
+
+48
+00:02:18.250 --> 00:02:20.350
+about what may have happened in the past, like
+
+49
+00:02:20.360 --> 00:02:22.600
+a detective who comes to a crime scene and
+
+50
+00:02:22.610 --> 00:02:24.809
+now wants to figure out OK, what happened, right?
+
+51
+00:02:24.820 --> 00:02:28.470
+Given the kind of evidence that they're seeing um
+
+52
+00:02:28.479 --> 00:02:30.330
+and it could also be things like thinking about
+
+53
+00:02:30.339 --> 00:02:32.119
+how things could have played out differently from how
+
+54
+00:02:32.130 --> 00:02:33.990
+they actually did, like sort of reasoning, you know,
+
+55
+00:02:34.000 --> 00:02:36.929
+counter factually and, and planning and taking good actions.
+
+56
+00:02:36.940 --> 00:02:39.710
+Those are all things that um causal reasoning um
+
+57
+00:02:39.720 --> 00:02:44.089
+relates to. And then there's also like um a
+
+58
+00:02:44.100 --> 00:02:46.539
+separate area maybe. And that's the area that I've
+
+59
+00:02:46.550 --> 00:02:48.589
+maybe mo most focused on in my research and
+
+60
+00:02:48.600 --> 00:02:50.949
+that's how we um make causal judgments and how
+
+61
+00:02:50.960 --> 00:02:53.380
+we give explanations of what happened, right? So when
+
+62
+00:02:53.389 --> 00:02:55.630
+there is, you know, some phenomenon that come came
+
+63
+00:02:55.639 --> 00:02:57.960
+about and often there might be multiple factors that
+
+64
+00:02:57.970 --> 00:03:00.580
+contributed to it. How do we decide when somebody
+
+65
+00:03:00.589 --> 00:03:03.089
+asks us? OK, why did this happen? How do
+
+66
+00:03:03.100 --> 00:03:06.100
+we give explanations to those kinds of questions? So,
+
+67
+00:03:06.110 --> 00:03:08.179
+so those are sort of separate areas of causal
+
+68
+00:03:08.190 --> 00:03:11.039
+cognition, I would say, right, causal learning, causal reasoning
+
+69
+00:03:11.139 --> 00:03:14.350
+and causal judgment and then another separate area, but
+
+70
+00:03:14.360 --> 00:03:16.789
+not sure that it falls within causal cognition is
+
+71
+00:03:16.800 --> 00:03:19.889
+causal perception, right? That's just how we sometimes get
+
+72
+00:03:19.899 --> 00:03:22.690
+the impression that we can really um quite immediately
+
+73
+00:03:22.699 --> 00:03:25.059
+perceive causal events in the world. But if you
+
+74
+00:03:25.070 --> 00:03:27.110
+see like, you know, 2 billion balls kind of
+
+75
+00:03:27.119 --> 00:03:29.330
+colliding on a screen, we have the sense if
+
+76
+00:03:29.339 --> 00:03:31.270
+they have the right sort of structure to this
+
+77
+00:03:31.279 --> 00:03:33.410
+collision that we can directly see that. Yeah, that,
+
+78
+00:03:33.419 --> 00:03:35.839
+that first one caused the second one to move.
+
+79
+00:03:36.100 --> 00:03:38.399
+Um BUT there's a little bit of a discussion
+
+80
+00:03:38.410 --> 00:03:39.679
+and or quite a bit of a discussion in
+
+81
+00:03:39.690 --> 00:03:42.880
+cognitive science and about the relationship between, you know,
+
+82
+00:03:42.889 --> 00:03:45.449
+perception and cognition. So that's why I'm not quite
+
+83
+00:03:45.460 --> 00:03:47.160
+sure whether I should put it into the, the,
+
+84
+00:03:47.169 --> 00:03:50.119
+the field of causal cognition. But it's another area
+
+85
+00:03:50.270 --> 00:03:53.169
+to do with causality that people in, in psychology
+
+86
+00:03:53.179 --> 00:03:54.800
+and cognitive science are very interested in.
+
+87
+00:03:55.929 --> 00:03:59.610
+But what, what is causality exactly from a psychological
+
+88
+00:03:59.619 --> 00:04:04.339
+perspective? What does it mean to attribute causality to
+
+89
+00:04:04.350 --> 00:04:07.470
+something to an event or something like that?
+
+90
+00:04:07.850 --> 00:04:09.839
+Yeah, that's a great question also. And it's probably
+
+91
+00:04:09.850 --> 00:04:12.759
+something that at least I've also taken inspiration from
+
+92
+00:04:12.770 --> 00:04:15.919
+work and philosophy, right? So because they are also,
+
+93
+00:04:16.230 --> 00:04:19.619
+you know, very interested often in the metaphysical questions,
+
+94
+00:04:19.630 --> 00:04:21.450
+right? That the sort of what it is, right?
+
+95
+00:04:21.459 --> 00:04:23.059
+And then maybe I'll talk a little bit about
+
+96
+00:04:23.070 --> 00:04:24.790
+that and then kind of maybe what it is
+
+97
+00:04:24.799 --> 00:04:28.720
+from a psychological perspective. So the inspiration for me
+
+98
+00:04:28.730 --> 00:04:30.869
+from the philosophical literature has been that there were
+
+99
+00:04:30.880 --> 00:04:34.239
+these um two large uh and different kind of
+
+100
+00:04:34.250 --> 00:04:36.950
+frameworks for how people um have thought about kind
+
+101
+00:04:36.959 --> 00:04:40.660
+of what causality is. And there's one kind of
+
+102
+00:04:40.670 --> 00:04:43.700
+framework of theories that are sometimes called um process
+
+103
+00:04:43.709 --> 00:04:46.540
+and theories of causation. And, and for them, what
+
+104
+00:04:46.549 --> 00:04:49.250
+causality really is is a sort of some transfer
+
+105
+00:04:49.260 --> 00:04:51.220
+of some quantity. Again, if you think about kind
+
+106
+00:04:51.230 --> 00:04:53.700
+of billiard ball collisions as the sort of paradigmatic
+
+107
+00:04:53.709 --> 00:04:56.540
+case of causality. So what it means therefore for
+
+108
+00:04:56.549 --> 00:04:58.920
+something to have caused another is that this one
+
+109
+00:04:58.929 --> 00:05:02.660
+ball uh um transferred some kind of quantity, maybe
+
+110
+00:05:02.670 --> 00:05:05.079
+like momentum, you know, to the other ball. And
+
+111
+00:05:05.089 --> 00:05:07.869
+that's what made it move, right? And so this
+
+112
+00:05:07.880 --> 00:05:10.880
+kind of thinking about causation is very well suited,
+
+113
+00:05:10.890 --> 00:05:12.980
+you know, to thinking about the physical world, but
+
+114
+00:05:12.989 --> 00:05:14.910
+sometimes a little bit less clear of how we
+
+115
+00:05:14.920 --> 00:05:17.929
+would apply such a notion of causation to other
+
+116
+00:05:17.940 --> 00:05:20.549
+kind of more complex phenomena like, you know, the
+
+117
+00:05:20.559 --> 00:05:23.970
+economy or even when people, you know, um do
+
+118
+00:05:23.980 --> 00:05:25.989
+things in the world and when, when, when it's
+
+119
+00:05:26.000 --> 00:05:28.350
+their thoughts that cause their actions, it's not so
+
+120
+00:05:28.359 --> 00:05:31.049
+clear how this more a force based or process
+
+121
+00:05:31.059 --> 00:05:34.529
+based model could explain those kinds of phenomenon. Then
+
+122
+00:05:34.540 --> 00:05:37.190
+there's another camp of thinking about causation also from
+
+123
+00:05:37.200 --> 00:05:40.299
+philosophy that I call sometimes more like dependence theories
+
+124
+00:05:40.309 --> 00:05:43.589
+of causation. And then so and the basic ideas
+
+125
+00:05:43.600 --> 00:05:45.829
+of what it means for something to cause the
+
+126
+00:05:45.839 --> 00:05:48.149
+other thing is that these things are dependent on
+
+127
+00:05:48.160 --> 00:05:50.510
+each other in a particular kind of way, right?
+
+128
+00:05:50.760 --> 00:05:54.059
+And then different um dependence theories characterized what this
+
+129
+00:05:54.070 --> 00:05:57.230
+dependence means in different ways. And I'll just highlight
+
+130
+00:05:57.239 --> 00:05:59.119
+one of them because it's the closest to home
+
+131
+00:05:59.130 --> 00:06:01.779
+for me. And that's what's called a counterfactual theory
+
+132
+00:06:01.790 --> 00:06:04.160
+of causation. And what that basically says. So in
+
+133
+00:06:04.170 --> 00:06:05.980
+simple terms is to say, well, what does it
+
+134
+00:06:05.989 --> 00:06:08.500
+mean for A to have caused B let's say
+
+135
+00:06:08.510 --> 00:06:10.589
+to happen? Right? It's to say that B would
+
+136
+00:06:10.600 --> 00:06:13.640
+not have happened if a had not happened and
+
+137
+00:06:13.649 --> 00:06:17.010
+it's a more kind of um generic notion of
+
+138
+00:06:17.019 --> 00:06:20.809
+um of counterfactual dependence. That's also sometimes then um
+
+139
+00:06:20.820 --> 00:06:23.250
+kind of fleshed out in more particular ways. And
+
+140
+00:06:23.260 --> 00:06:24.709
+we can talk about that in a moment. That's
+
+141
+00:06:24.720 --> 00:06:27.609
+what's called like an an interventionist framework. So that
+
+142
+00:06:27.619 --> 00:06:29.170
+and says like, oh, what it really means to
+
+143
+00:06:29.179 --> 00:06:31.000
+cause something is to say like, well, if I
+
+144
+00:06:31.010 --> 00:06:33.450
+did something about this first thing, something to the
+
+145
+00:06:33.459 --> 00:06:35.510
+second thing would happen, right? If I, if I
+
+146
+00:06:35.519 --> 00:06:38.000
+were to wiggle in a, something should happen to
+
+147
+00:06:38.010 --> 00:06:41.809
+be. Um AND what's appealing about this notion of
+
+148
+00:06:41.820 --> 00:06:43.769
+causation is that it's kind of much more uh
+
+149
+00:06:43.829 --> 00:06:46.089
+general and you could see how that could also
+
+150
+00:06:46.100 --> 00:06:48.250
+apply to something like an economic system that we
+
+151
+00:06:48.260 --> 00:06:50.429
+might, we might ask like, oh, you know, did
+
+152
+00:06:50.440 --> 00:06:52.399
+the Lehman Brothers, the fall of the Lehman Brothers
+
+153
+00:06:52.410 --> 00:06:54.750
+back then cause the financial crisis, we could at
+
+154
+00:06:54.760 --> 00:06:56.630
+least sort of entertain this kind of factual of
+
+155
+00:06:56.640 --> 00:06:58.190
+what would have happened if they had been bailed
+
+156
+00:06:58.200 --> 00:07:00.480
+out. Um WHAT could have happened to the financial
+
+157
+00:07:00.489 --> 00:07:02.950
+system. So it's in some sense, a more flexible
+
+158
+00:07:02.959 --> 00:07:05.359
+notion of thinking about causation that can apply to
+
+159
+00:07:05.369 --> 00:07:08.709
+a variety of um uh of phenomena. And, and
+
+160
+00:07:08.720 --> 00:07:11.079
+that view of causation has also been quite popular,
+
+161
+00:07:11.089 --> 00:07:13.000
+I would say in, in psychology.
+
+162
+00:07:14.220 --> 00:07:16.420
+And so when it comes to the sort of
+
+163
+00:07:16.429 --> 00:07:21.799
+counterfactual model of causation, what do we need that
+
+164
+00:07:21.809 --> 00:07:24.600
+for? I mean, why do we need to imagine
+
+165
+00:07:24.609 --> 00:07:28.760
+particular scenarios that might have happened because if they
+
+166
+00:07:28.769 --> 00:07:33.459
+might have happened, but didn't happen. Why does that
+
+167
+00:07:33.470 --> 00:07:35.600
+matter to us? Psychologically?
+
+168
+00:07:36.200 --> 00:07:38.070
+Yeah. No, that's a great question too. So, and,
+
+169
+00:07:38.420 --> 00:07:40.309
+um, and, and I should say again in philosophy,
+
+170
+00:07:40.320 --> 00:07:43.549
+that's what some, um, some philosophers don't like counterfactual
+
+171
+00:07:43.559 --> 00:07:44.980
+because they say they have this kind of, yeah,
+
+172
+00:07:44.989 --> 00:07:48.260
+metaphysically dubious status, let's say just as you put
+
+173
+00:07:48.269 --> 00:07:49.980
+it like, oh, why should it matter? Something that,
+
+174
+00:07:49.989 --> 00:07:52.279
+you know, never really mattered, right? That, that, that
+
+175
+00:07:52.290 --> 00:07:54.730
+never really happened because that's kind of in the
+
+176
+00:07:54.739 --> 00:07:57.149
+word, right? Of the counterfactual. It's counter to fact
+
+177
+00:07:57.160 --> 00:08:01.299
+it did not happen, right? And so, um and,
+
+178
+00:08:01.309 --> 00:08:02.739
+and, and maybe I'll build it up a little
+
+179
+00:08:02.750 --> 00:08:04.829
+bit that the answer to that question if you
+
+180
+00:08:04.839 --> 00:08:06.769
+know, if, if that's OK. So, first of all,
+
+181
+00:08:06.779 --> 00:08:08.519
+yeah, what is, what is a counterfactual, right? A
+
+182
+00:08:08.529 --> 00:08:11.220
+counterfactual. Um At least when we think about, you
+
+183
+00:08:11.230 --> 00:08:14.019
+know, from a psychological perspective is a thought about
+
+184
+00:08:14.029 --> 00:08:17.019
+something that, you know, didn't happen and thinking about
+
+185
+00:08:17.029 --> 00:08:20.149
+how um maybe it could have happened differently from
+
+186
+00:08:20.160 --> 00:08:22.299
+how it actually did and what the consequences of
+
+187
+00:08:22.309 --> 00:08:24.920
+that would have been. Right? And so now you
+
+188
+00:08:24.929 --> 00:08:27.100
+ask kind of, you know, what's what that's useful
+
+189
+00:08:27.109 --> 00:08:29.859
+for, right? And so, so they'll take kind of
+
+190
+00:08:29.869 --> 00:08:33.010
+inspiration from Judea Pearl who is a, you know,
+
+191
+00:08:33.020 --> 00:08:37.979
+touring award winning um computer scientist. Um AND, and
+
+192
+00:08:37.989 --> 00:08:40.380
+he's delineated what he calls like a ladder of
+
+193
+00:08:40.390 --> 00:08:42.500
+causation, a ladder like the kind of ladder that
+
+194
+00:08:42.510 --> 00:08:43.750
+you climb on, you know, when you try to
+
+195
+00:08:43.760 --> 00:08:46.289
+go up the um go up somewhere in this
+
+196
+00:08:46.299 --> 00:08:48.380
+case, the letter only has three rungs. So it's
+
+197
+00:08:48.390 --> 00:08:52.059
+a short letter. Um AND, and, and, and, and,
+
+198
+00:08:52.070 --> 00:08:53.609
+and what he puts is like that the kind
+
+199
+00:08:53.619 --> 00:08:55.890
+of causal knowledge that we, that we have about
+
+200
+00:08:55.900 --> 00:08:58.719
+the world can be characterized by these um different
+
+201
+00:08:58.729 --> 00:09:01.309
+rungs on the letter. And on the first rung
+
+202
+00:09:01.469 --> 00:09:04.179
+is what, what he says, he puts them um
+
+203
+00:09:04.190 --> 00:09:07.409
+the level of, you know, correlation and and sometimes
+
+204
+00:09:07.419 --> 00:09:08.989
+they can also be sort of thought of as
+
+205
+00:09:09.000 --> 00:09:10.979
+the kind of, you know, conditional reasoning that we
+
+206
+00:09:10.989 --> 00:09:12.739
+can do about the world, sort of like, you
+
+207
+00:09:12.750 --> 00:09:15.960
+know, if A then B right? And um and
+
+208
+00:09:15.969 --> 00:09:18.780
+correlations are really helpful for making predictions about the
+
+209
+00:09:18.789 --> 00:09:21.200
+world and making inferences about the world. But we
+
+210
+00:09:21.210 --> 00:09:23.400
+probably also, you know, many of us may have
+
+211
+00:09:23.409 --> 00:09:25.580
+learned from their, you know, stats classes on school
+
+212
+00:09:25.590 --> 00:09:28.700
+that, that, you know, and correlation doesn't equal causation,
+
+213
+00:09:28.820 --> 00:09:31.289
+right? And just to give sort of an intuitive
+
+214
+00:09:31.299 --> 00:09:33.390
+example, maybe of what that means. So imagine that,
+
+215
+00:09:33.400 --> 00:09:35.299
+you know, you have the flu and there's like
+
+216
+00:09:35.309 --> 00:09:37.210
+two symptoms that you have from the flu, right?
+
+217
+00:09:37.219 --> 00:09:39.260
+You and it causes you to have a fever
+
+218
+00:09:39.369 --> 00:09:41.809
+and it also causes you to have a cough,
+
+219
+00:09:41.820 --> 00:09:45.270
+let's say um but we now happen to know
+
+220
+00:09:45.280 --> 00:09:47.960
+the causal model of that, right. That it's sort
+
+221
+00:09:47.969 --> 00:09:50.130
+of, you know, the flu that causes the fever
+
+222
+00:09:50.140 --> 00:09:51.960
+and that causes the cough. But maybe you, maybe,
+
+223
+00:09:51.969 --> 00:09:53.280
+let's say you didn't know you just had these
+
+224
+00:09:53.289 --> 00:09:55.989
+three different variables and all you had was like
+
+225
+00:09:56.000 --> 00:09:59.849
+information about how they co occur over time, right?
+
+226
+00:09:59.859 --> 00:10:03.359
+Just correlational information. So just based on that, for
+
+227
+00:10:03.369 --> 00:10:05.809
+example, um you could be inclined to think that
+
+228
+00:10:05.820 --> 00:10:09.000
+it's actually, you know, the cough that causes the
+
+229
+00:10:09.010 --> 00:10:11.159
+fever or that it's the fever that causes the
+
+230
+00:10:11.169 --> 00:10:14.859
+cough. Um OR that like um you know, the
+
+231
+00:10:14.869 --> 00:10:17.219
+fever causes the flu or something like that, right?
+
+232
+00:10:17.229 --> 00:10:19.159
+So, because you can say like, oh if I
+
+233
+00:10:19.169 --> 00:10:21.479
+have a cough, then I have a fever. Um
+
+234
+00:10:21.489 --> 00:10:24.630
+So the correlations in themselves doesn't give, they give
+
+235
+00:10:24.640 --> 00:10:27.640
+some hints about possible causal relationships, but they don't
+
+236
+00:10:27.650 --> 00:10:31.320
+give it away, right? Um So that's the first
+
+237
+00:10:31.330 --> 00:10:33.179
+run, right? It's just like being able to observe
+
+238
+00:10:33.190 --> 00:10:35.840
+correlations in the world that help us make predictions
+
+239
+00:10:35.849 --> 00:10:39.340
+or make inferences from one thing to another on
+
+240
+00:10:39.349 --> 00:10:41.840
+the second one is then the level of causation.
+
+241
+00:10:42.049 --> 00:10:44.880
+And um and the key difference between um thinking
+
+242
+00:10:44.890 --> 00:10:47.799
+causally and thinking just in terms of um um
+
+243
+00:10:47.890 --> 00:10:51.159
+you know, well, conditionally about correlations between events is
+
+244
+00:10:51.169 --> 00:10:55.280
+that um causes support interventions, right? The idea is
+
+245
+00:10:55.289 --> 00:10:57.070
+not to say like, well, if I know that
+
+246
+00:10:57.080 --> 00:10:59.099
+is a causal structure and I know that A
+
+247
+00:10:59.109 --> 00:11:02.190
+causes b let's say, or that the um that
+
+248
+00:11:02.200 --> 00:11:04.690
+the flu in this case causes the fever. I
+
+249
+00:11:04.700 --> 00:11:06.809
+know that if I want the fever to stop,
+
+250
+00:11:06.820 --> 00:11:09.359
+I have to do something about the flu, right.
+
+251
+00:11:09.609 --> 00:11:11.950
+But if I want the flu to stop uh
+
+252
+00:11:11.960 --> 00:11:14.030
+intervening in the fever is not really going to
+
+253
+00:11:14.039 --> 00:11:16.690
+be helpful, right. That might, you know, again, cure
+
+254
+00:11:16.700 --> 00:11:18.320
+a symptom, but it's not going to cure the
+
+255
+00:11:18.330 --> 00:11:21.719
+cause of the disease, right. So by being able
+
+256
+00:11:21.729 --> 00:11:25.650
+to distinguish between um yeah, these kind of interventions
+
+257
+00:11:25.859 --> 00:11:28.729
+and, and others just sort of correlational relationships, we
+
+258
+00:11:28.739 --> 00:11:31.520
+get this distinction between the run one and run
+
+259
+00:11:31.530 --> 00:11:34.219
+two and, and that's often like much of the
+
+260
+00:11:34.229 --> 00:11:36.510
+sciences sort of stay there in these two things.
+
+261
+00:11:36.520 --> 00:11:38.450
+That's often all we can do, even in like,
+
+262
+00:11:38.690 --> 00:11:41.469
+you know, in psychology, we can do randomized control
+
+263
+00:11:41.479 --> 00:11:44.500
+trials. And that's essentially sort of the the run
+
+264
+00:11:44.510 --> 00:11:47.489
+two thing where we kind of intervene by randomly
+
+265
+00:11:47.500 --> 00:11:49.830
+assigning one group of people to the treatment and
+
+266
+00:11:49.840 --> 00:11:51.820
+the other people not to the treatment. And then
+
+267
+00:11:51.830 --> 00:11:53.640
+as an outcome of that, we get like a
+
+268
+00:11:53.650 --> 00:11:56.429
+difference between the two that tells us something about,
+
+269
+00:11:56.530 --> 00:11:59.159
+you know, whether there is some um yeah, difference
+
+270
+00:11:59.169 --> 00:12:02.750
+that the that the cause makes um then on
+
+271
+00:12:02.760 --> 00:12:05.320
+the third level like, and so that's not enough,
+
+272
+00:12:05.330 --> 00:12:07.409
+right? There's a third level and that's the level
+
+273
+00:12:07.419 --> 00:12:10.460
+according to um um pearl of counterfactual reasoning or
+
+274
+00:12:10.469 --> 00:12:13.690
+the level also um at which we give explanations
+
+275
+00:12:14.239 --> 00:12:16.900
+and this is answering kind of why questions like
+
+276
+00:12:16.909 --> 00:12:19.880
+why did something happen, right? And, and maybe if
+
+277
+00:12:19.890 --> 00:12:22.250
+we go back to this example of the, um,
+
+278
+00:12:22.260 --> 00:12:24.690
+you know, of the, um, of the, of the
+
+279
+00:12:24.700 --> 00:12:27.340
+Randomized Control trial, right? So let's say you, you
+
+280
+00:12:27.349 --> 00:12:30.219
+do this, you, you, you know, have 20 participants,
+
+281
+00:12:30.539 --> 00:12:33.419
+um, um, you put 20 of them in the,
+
+282
+00:12:33.429 --> 00:12:35.539
+in the, in the group without a treatment and
+
+283
+00:12:35.549 --> 00:12:37.890
+then let's say kind of 10, you know, be
+
+284
+00:12:37.900 --> 00:12:41.080
+good afterwards and 10 don't. Right. And then you
+
+285
+00:12:41.090 --> 00:12:43.599
+put uh 20 people in the group, um with
+
+286
+00:12:43.609 --> 00:12:46.440
+the treatment and now, you know, 16 people, um,
+
+287
+00:12:46.450 --> 00:12:49.070
+feel good afterwards and, and four people don't. Right.
+
+288
+00:12:50.289 --> 00:12:52.309
+Um So that gives you some sense that like,
+
+289
+00:12:52.320 --> 00:12:55.349
+ok, overall there is an an average effect like
+
+290
+00:12:55.359 --> 00:12:57.369
+of that treatment, right? It seems to people are
+
+291
+00:12:57.380 --> 00:12:59.750
+better with it than, than they are. Um, WITHOUT
+
+292
+00:12:59.760 --> 00:13:01.969
+it, maybe with these small numbers, you wouldn't really,
+
+293
+00:13:01.979 --> 00:13:03.250
+you would still be a little bit unsure. But
+
+294
+00:13:03.260 --> 00:13:05.440
+that was just, you know, for the example. But
+
+295
+00:13:05.450 --> 00:13:07.799
+ultimately, you might now take the perspective of one
+
+296
+00:13:07.809 --> 00:13:10.000
+of the people, maybe one of the 16 people
+
+297
+00:13:10.010 --> 00:13:12.369
+in the, in the treatment group and they now
+
+298
+00:13:12.380 --> 00:13:15.690
+ask themselves, did I actually get better because of
+
+299
+00:13:15.700 --> 00:13:19.059
+the treatment? And that's a kind of actual question
+
+300
+00:13:19.070 --> 00:13:20.919
+in some sense, right? Because it's sort of asking
+
+301
+00:13:21.010 --> 00:13:23.880
+from that person's perspective. Had I not gotten the
+
+302
+00:13:23.890 --> 00:13:27.400
+treatment? Would I not also have been good? Right?
+
+303
+00:13:27.409 --> 00:13:30.039
+It's sort of basically asking the question was the
+
+304
+00:13:30.049 --> 00:13:33.400
+treatment, the cause of me getting better. Right. And
+
+305
+00:13:33.409 --> 00:13:36.080
+there's many possible combinations that could arise for this
+
+306
+00:13:36.090 --> 00:13:38.479
+difference. But it could be like, actually the treatment,
+
+307
+00:13:38.489 --> 00:13:40.679
+you know, helped some people who would have otherwise
+
+308
+00:13:40.690 --> 00:13:42.940
+been worse. But it's also possible that there's a
+
+309
+00:13:42.950 --> 00:13:45.340
+small proportion for whom the treatment was actually bad.
+
+310
+00:13:45.349 --> 00:13:47.010
+You know, they would have been, you know, better
+
+311
+00:13:47.020 --> 00:13:48.679
+off. Maybe some of these four people who had
+
+312
+00:13:48.690 --> 00:13:50.770
+got, um, who, you know, didn't, didn't have a
+
+313
+00:13:50.780 --> 00:13:52.919
+good outcome, maybe a few of them would have
+
+314
+00:13:52.929 --> 00:13:55.239
+been good, had they not gotten the treatment? Right?
+
+315
+00:13:55.739 --> 00:13:58.469
+So in some sense, right, like coming back now
+
+316
+00:13:58.479 --> 00:13:59.960
+to the question, what the kind of factuals are
+
+317
+00:13:59.969 --> 00:14:02.309
+useful for? They're ultimately the kind of thing that
+
+318
+00:14:02.320 --> 00:14:05.750
+we want to rely on when giving explanations, when
+
+319
+00:14:05.760 --> 00:14:09.000
+answering why questions. And my, my colleague here at
+
+320
+00:14:09.650 --> 00:14:13.239
+Stanford and Thomas Eicher in philosophy and his student
+
+321
+00:14:13.250 --> 00:14:15.369
+um delegate, I have sort of also put it
+
+322
+00:14:15.380 --> 00:14:17.369
+in this way as saying, so the difference between
+
+323
+00:14:17.380 --> 00:14:18.609
+level one and two is sort of, you know,
+
+324
+00:14:18.619 --> 00:14:21.469
+correlation is not causation. And then the difference between
+
+325
+00:14:21.479 --> 00:14:23.919
+level two and three is also saying causation is
+
+326
+00:14:23.929 --> 00:14:26.650
+not explanation. So just having causal knowledge of the
+
+327
+00:14:26.659 --> 00:14:29.190
+world is not enough necessarily to give explanations of
+
+328
+00:14:29.200 --> 00:14:32.030
+why something happened. And that's often what we are
+
+329
+00:14:32.039 --> 00:14:34.630
+in psychology interested in. Like, you know, why did
+
+330
+00:14:34.640 --> 00:14:36.950
+this crime happen? Who was it? Uh WHY did
+
+331
+00:14:36.960 --> 00:14:39.030
+they do it? And, and that's what we need
+
+332
+00:14:39.039 --> 00:14:40.469
+kind of factual reasoning for.
+
+333
+00:14:41.109 --> 00:14:45.849
+Mhm. Uh, SO, I mean, in people's daily lives,
+
+334
+00:14:45.859 --> 00:14:48.739
+I guess that it's not very often that we
+
+335
+00:14:48.750 --> 00:14:53.960
+have access or can do randomized control trials. So,
+
+336
+00:14:53.969 --> 00:14:57.859
+I guess that when it comes to learning about
+
+337
+00:14:57.869 --> 00:15:03.469
+specific causes behind specific events, taking into account that,
+
+338
+00:15:03.479 --> 00:15:07.330
+uh, sort of interventionist approach, that's also something that
+
+339
+00:15:07.340 --> 00:15:11.890
+people many times rely on to learn about or
+
+340
+00:15:11.900 --> 00:15:16.880
+try to infer as best as possible what causes
+
+341
+00:15:16.890 --> 00:15:19.039
+a particular thing to happen.
+
+342
+00:15:19.510 --> 00:15:22.020
+That's right. Yeah. And, and it's true that, you
+
+343
+00:15:22.030 --> 00:15:25.159
+know, we randomly, oh, sorry, rarely find ourselves in
+
+344
+00:15:25.169 --> 00:15:27.729
+the position to, to do such a randomized control
+
+345
+00:15:27.739 --> 00:15:31.000
+trial, right? We, we certainly do experiment, you know,
+
+346
+00:15:31.030 --> 00:15:33.520
+with ourselves, like in our everyday lives, like we
+
+347
+00:15:33.530 --> 00:15:35.710
+say like, oh, you know, you have an upset
+
+348
+00:15:35.719 --> 00:15:37.659
+stomach and you might, you might change around, but
+
+349
+00:15:37.669 --> 00:15:39.059
+it is that you eat right, but it's kind
+
+350
+00:15:39.070 --> 00:15:41.539
+of hard, right? Also to trace back the causality
+
+351
+00:15:41.719 --> 00:15:44.090
+uh in those kinds of cases and they're never
+
+352
+00:15:44.099 --> 00:15:47.059
+as clean, let's say, as the randomized control trials
+
+353
+00:15:47.070 --> 00:15:50.070
+are because part of one important thing is that
+
+354
+00:15:50.080 --> 00:15:53.349
+there's a high cause of dependence right? Between me
+
+355
+00:15:53.359 --> 00:15:55.909
+yesterday and me today and so on that you
+
+356
+00:15:55.919 --> 00:15:59.270
+can kind of break when, um, when doing RCTS.
+
+357
+00:15:59.919 --> 00:16:02.619
+And, but on the other hand, you know, we
+
+358
+00:16:02.630 --> 00:16:06.059
+often already have quite good, um, what I, and,
+
+359
+00:16:06.070 --> 00:16:08.739
+and, and, and others in, in, in psychology have
+
+360
+00:16:08.750 --> 00:16:11.539
+called intuitive theories of how the world works, right?
+
+361
+00:16:11.549 --> 00:16:13.900
+We have good kind of intuitive theories about how
+
+362
+00:16:13.909 --> 00:16:16.929
+the physical world works, right? How, you know, objects
+
+363
+00:16:16.940 --> 00:16:20.349
+interact with each other and you know, make stuff
+
+364
+00:16:20.359 --> 00:16:22.659
+happen again, could be in big balls world. But
+
+365
+00:16:22.669 --> 00:16:24.900
+like, you know, all lots of sports are good
+
+366
+00:16:24.909 --> 00:16:27.530
+examples for how good, you know, our intuitive theories
+
+367
+00:16:27.539 --> 00:16:29.619
+and how impressive, you know, they, they can be.
+
+368
+00:16:30.260 --> 00:16:33.039
+Um AND similarly, we have good intuitive theories about
+
+369
+00:16:33.049 --> 00:16:36.840
+psychology about how people work, right? And so those
+
+370
+00:16:36.849 --> 00:16:39.159
+are things that we can draw on um to
+
+371
+00:16:39.169 --> 00:16:42.369
+try and give answers to those why questions, right?
+
+372
+00:16:42.380 --> 00:16:44.859
+If I want to. Um AND, and the law,
+
+373
+00:16:44.869 --> 00:16:48.150
+for example, also often, you know, asks jury members,
+
+374
+00:16:48.159 --> 00:16:50.090
+you know, to do so, it asks them to
+
+375
+00:16:50.099 --> 00:16:53.150
+apply different kind of counterfactual tests, for example, when,
+
+376
+00:16:53.159 --> 00:16:56.330
+when establishing, you know, causation. So it sometimes asks
+
+377
+00:16:56.340 --> 00:16:58.469
+them to say like, OK, you know, was the
+
+378
+00:16:58.479 --> 00:17:01.489
+action that the defender took, was that the cause
+
+379
+00:17:01.500 --> 00:17:03.340
+of the, of the negative outcome? Would it not
+
+380
+00:17:03.349 --> 00:17:06.878
+have happened? Had they not done that? Um And,
+
+381
+00:17:06.888 --> 00:17:09.088
+and similarly, they might ask something like whether a
+
+382
+00:17:09.098 --> 00:17:12.269
+reasonable person would have um you know, acted the
+
+383
+00:17:12.279 --> 00:17:14.178
+same way as the defender did in a particular
+
+384
+00:17:14.188 --> 00:17:17.398
+situation. That's also quite a sophisticated counterfactual test, right?
+
+385
+00:17:17.409 --> 00:17:19.667
+Where we now have to imagine putting that reasonable
+
+386
+00:17:19.678 --> 00:17:22.218
+person into that situation and then sort of running
+
+387
+00:17:22.229 --> 00:17:24.579
+in our minds like how this whole situation would
+
+388
+00:17:24.589 --> 00:17:27.410
+have unfolded if the reasonable person, whoever that is,
+
+389
+00:17:27.420 --> 00:17:29.459
+would have been in the same situation, right? But
+
+390
+00:17:29.469 --> 00:17:32.459
+our capacity to have these mental models of the
+
+391
+00:17:32.469 --> 00:17:35.060
+world and to make changes in them in our
+
+392
+00:17:35.069 --> 00:17:37.750
+minds, right? Where the intervention is not actually happening
+
+393
+00:17:37.760 --> 00:17:39.420
+in the real world in some sense where the
+
+394
+00:17:39.430 --> 00:17:42.640
+intervention is just happening in my mind. And but
+
+395
+00:17:42.650 --> 00:17:45.560
+because I have this structured knowledge of the world,
+
+396
+00:17:45.569 --> 00:17:48.079
+I'm capable of doing that, I'm capable of imagining
+
+397
+00:17:48.089 --> 00:17:50.359
+how would the scene have unfolded if some object
+
+398
+00:17:50.369 --> 00:17:53.079
+had not been there and then simulating the consequence
+
+399
+00:17:53.089 --> 00:17:55.989
+of that in my mind and thereby kind of
+
+400
+00:17:56.420 --> 00:17:58.380
+give a potential answer to the question of whether
+
+401
+00:17:58.390 --> 00:17:59.849
+it happened, you know, because of that.
+
+402
+00:18:00.729 --> 00:18:03.609
+So it's also useful because it allows for us
+
+403
+00:18:03.619 --> 00:18:07.150
+to at least to a certain extent, acquire further
+
+404
+00:18:07.160 --> 00:18:12.989
+knowledge about how things work even without necessarily having
+
+405
+00:18:13.000 --> 00:18:15.819
+to try them out also because I would imagine
+
+406
+00:18:15.829 --> 00:18:19.709
+that in particular instances, it wouldn't be feasible or
+
+407
+00:18:19.719 --> 00:18:23.375
+it could even be injuries depending on what we're
+
+408
+00:18:23.385 --> 00:18:24.275
+talking about.
+
+409
+00:18:24.625 --> 00:18:26.694
+Yeah. Yeah, that's right. And, and I think that's
+
+410
+00:18:26.704 --> 00:18:28.224
+right. And that's still like I would also say
+
+411
+00:18:28.234 --> 00:18:31.714
+a really sort of deep puzzle, I think that
+
+412
+00:18:31.724 --> 00:18:34.415
+hasn't been solved and that I've been sort of
+
+413
+00:18:34.425 --> 00:18:36.765
+mulling over for some time and I'll, I'll maybe
+
+414
+00:18:36.775 --> 00:18:38.125
+try to get a hint of, you know, what
+
+415
+00:18:38.135 --> 00:18:41.630
+the puzzle here is, at least because um um
+
+416
+00:18:41.640 --> 00:18:43.890
+as you put it right, it, it, um and
+
+417
+00:18:43.900 --> 00:18:46.510
+there's several frameworks that also say that but more
+
+418
+00:18:46.520 --> 00:18:49.689
+kind of um you know, conceptual theories, maybe theories
+
+419
+00:18:49.699 --> 00:18:52.270
+that haven't really been worked out in concrete detail
+
+420
+00:18:52.280 --> 00:18:54.989
+yet computationally. But where the idea is that, yeah,
+
+421
+00:18:55.079 --> 00:18:57.229
+I learned something like through doing these kind of
+
+422
+00:18:57.239 --> 00:19:01.359
+factual simulations, right? Um And, and intuitively, we, we
+
+423
+00:19:01.369 --> 00:19:03.329
+might often sense that, right? We might say like,
+
+424
+00:19:03.339 --> 00:19:05.869
+oh I did something, it turned out poorly, I
+
+425
+00:19:05.880 --> 00:19:08.310
+regret it, right? And even the feeling of regret
+
+426
+00:19:08.319 --> 00:19:11.589
+already is a counterfactual emotion, right? Because it's basically
+
+427
+00:19:11.599 --> 00:19:13.310
+saying, you know, what does it mean to feel
+
+428
+00:19:13.319 --> 00:19:15.069
+regret? Well, it means that I feel like I
+
+429
+00:19:15.079 --> 00:19:17.439
+could have done something different and I believe that
+
+430
+00:19:17.449 --> 00:19:19.400
+doing something different would have resulted in a better
+
+431
+00:19:19.410 --> 00:19:23.630
+outcome, right? Um Now, the curious thing about um
+
+432
+00:19:23.640 --> 00:19:26.420
+that being a signal to potentially learning about the
+
+433
+00:19:26.430 --> 00:19:29.660
+world is that in order to um compute, you
+
+434
+00:19:29.670 --> 00:19:32.520
+know, what the counterfactual is, I need to use
+
+435
+00:19:32.530 --> 00:19:35.459
+my intuitive understanding of how the world works, right?
+
+436
+00:19:35.689 --> 00:19:37.869
+So that's wrong, right. Let's say I have the
+
+437
+00:19:37.880 --> 00:19:40.300
+wrong theory about how, you know, the physical world
+
+438
+00:19:40.310 --> 00:19:42.719
+works or about how somebody would have done when
+
+439
+00:19:42.729 --> 00:19:45.859
+I now simulate that counterfactual. I'm not getting the
+
+440
+00:19:45.869 --> 00:19:48.260
+correct answer, but I'm just getting like an incorrect
+
+441
+00:19:48.270 --> 00:19:50.959
+answer. That's based on my theory. So it's kind
+
+442
+00:19:50.969 --> 00:19:53.339
+of curious a little bit um how it is
+
+443
+00:19:53.349 --> 00:19:55.359
+that we can learn from that, right? Because it
+
+444
+00:19:55.369 --> 00:19:57.880
+feels like in order to simulate it I need
+
+445
+00:19:57.890 --> 00:19:59.760
+my theory of how the world works. But if
+
+446
+00:19:59.770 --> 00:20:01.760
+my theory is wrong, I'm going to simulate the
+
+447
+00:20:01.770 --> 00:20:03.800
+wrong thing. So how could I learn from that?
+
+448
+00:20:03.939 --> 00:20:05.270
+So, it's a little bit like the, you know,
+
+449
+00:20:05.280 --> 00:20:08.609
+the cat, um, biting itself in its tail and,
+
+450
+00:20:08.619 --> 00:20:10.869
+um, uh, or the snake, I don't know who,
+
+451
+00:20:10.880 --> 00:20:14.260
+what animal bites itself in his tail. But, um,
+
+452
+00:20:14.270 --> 00:20:16.160
+and so that's still like a, a puzzle because
+
+453
+00:20:16.170 --> 00:20:17.540
+on the one hand, it feels like, yeah, it
+
+454
+00:20:17.550 --> 00:20:19.329
+serves as a learning signal. But on the other
+
+455
+00:20:19.339 --> 00:20:21.660
+hand, it's also not quite clear how that could
+
+456
+00:20:21.670 --> 00:20:23.920
+be the case. So, so that's still something that
+
+457
+00:20:23.930 --> 00:20:26.219
+we as cognitive scientists have have to figure out.
+
+458
+00:20:26.770 --> 00:20:30.030
+But when it comes to the intuitive ideas or
+
+459
+00:20:30.040 --> 00:20:32.719
+models of the world that we have that you
+
+460
+00:20:32.729 --> 00:20:36.310
+mentioned there, do we have any idea if some
+
+461
+00:20:36.319 --> 00:20:40.609
+of those intuitions are innate to us or if
+
+462
+00:20:40.619 --> 00:20:44.819
+they are the result of some development and learning?
+
+463
+00:20:44.829 --> 00:20:46.910
+I mean, is it that we are born with
+
+464
+00:20:46.920 --> 00:20:52.989
+certain psychological predispositions to expect things to be in
+
+465
+00:20:53.165 --> 00:20:56.704
+certain way when it comes to the physical world,
+
+466
+00:20:56.714 --> 00:20:59.785
+other people? And if so would that connect in
+
+467
+00:20:59.795 --> 00:21:04.204
+any way to what some psychologists and anthropologists study
+
+468
+00:21:04.214 --> 00:21:08.224
+and call a core knowledge. There is folk physics,
+
+469
+00:21:08.234 --> 00:21:10.494
+folk psychology and so on.
+
+470
+00:21:11.055 --> 00:21:13.555
+Yeah, those are deeply connected. You're, you're exactly right.
+
+471
+00:21:13.564 --> 00:21:16.464
+I'm, I'm, you know, not a developmental psychologist myself
+
+472
+00:21:16.474 --> 00:21:18.354
+although I dabble in it and take, you know,
+
+473
+00:21:18.364 --> 00:21:21.660
+inspiration from it. And um and there's certainly this
+
+474
+00:21:21.670 --> 00:21:23.699
+idea also coming back to causality, right? Like, I
+
+475
+00:21:23.709 --> 00:21:26.900
+mean, Emmanuel Kant also famously says that that's just
+
+476
+00:21:26.910 --> 00:21:29.900
+like, that's a sort of a core principle like,
+
+477
+00:21:29.910 --> 00:21:33.810
+um and then later, you know, we rediscovered or
+
+478
+00:21:33.819 --> 00:21:35.579
+just like, reworded is that people think like, yeah,
+
+479
+00:21:35.589 --> 00:21:37.839
+that's just the basic building block of thinking. We
+
+480
+00:21:37.849 --> 00:21:40.400
+can't help but think causally, that's just sort of
+
+481
+00:21:40.410 --> 00:21:43.439
+how our mind works, right? And then with respect
+
+482
+00:21:43.449 --> 00:21:45.880
+to these um kind of folk theories or intuitive
+
+483
+00:21:45.890 --> 00:21:48.760
+theories, how they're sometimes called in cognitive signs. Um
+
+484
+00:21:48.770 --> 00:21:51.560
+Yes, there is a lot of work looking specifically
+
+485
+00:21:51.569 --> 00:21:54.680
+also like into uh as you mentioned um and
+
+486
+00:21:55.000 --> 00:21:57.810
+um infants intuitive theory of, of the physical world
+
+487
+00:21:57.819 --> 00:22:00.760
+and infants intuitive theory of, you know, um the
+
+488
+00:22:00.770 --> 00:22:03.369
+the psychological world, the social world. And there are
+
+489
+00:22:03.380 --> 00:22:06.130
+certain principles that come, you know, very early in
+
+490
+00:22:06.140 --> 00:22:08.869
+age, right? Like um so really almost like, I
+
+491
+00:22:08.880 --> 00:22:12.040
+don't remember, you know, how young, how, how how
+
+492
+00:22:12.050 --> 00:22:14.550
+many months the Children have to be like for
+
+493
+00:22:14.560 --> 00:22:17.030
+a while, like, you know, Jean Pierre famously also
+
+494
+00:22:17.040 --> 00:22:19.670
+thought that it took a while for Children to
+
+495
+00:22:19.849 --> 00:22:23.310
+um or for, you know, young babies to realize
+
+496
+00:22:23.319 --> 00:22:25.589
+um object permanence, right? It was the idea like,
+
+497
+00:22:25.599 --> 00:22:27.189
+oh if it's not, you know, out of sight,
+
+498
+00:22:27.199 --> 00:22:29.709
+out of mind, kind of, right? And then Elizabeth
+
+499
+00:22:29.719 --> 00:22:32.270
+Spy did these very beautiful experiments, right? Where I
+
+500
+00:22:32.280 --> 00:22:33.930
+don't know whether you know of those but where
+
+501
+00:22:33.939 --> 00:22:36.939
+it's like um you know, this contraption where there's
+
+502
+00:22:36.949 --> 00:22:40.040
+an object, a little cube behind this kind of
+
+503
+00:22:40.050 --> 00:22:44.300
+flapping, um you know, wooden board, right? And the
+
+504
+00:22:44.310 --> 00:22:46.219
+idea is that the board comes up so that
+
+505
+00:22:46.229 --> 00:22:48.900
+the infant cannot see the object behind anymore. But
+
+506
+00:22:48.910 --> 00:22:50.800
+then the board goes all the way down like
+
+507
+00:22:50.810 --> 00:22:54.109
+flat. And when that happens, the the the infant
+
+508
+00:22:54.119 --> 00:22:57.969
+is surprised, right? And um so looks longer than
+
+509
+00:22:57.979 --> 00:23:00.520
+in the situation in which it stops at the
+
+510
+00:23:00.530 --> 00:23:02.839
+time where, you know, the object is there, right?
+
+511
+00:23:03.010 --> 00:23:04.939
+And so this kind of beautiful experiment shows that
+
+512
+00:23:04.949 --> 00:23:06.959
+like even from the very young age, right? Um
+
+513
+00:23:06.969 --> 00:23:10.459
+And again, unfortunately, I forgot exactly how old the
+
+514
+00:23:10.469 --> 00:23:13.599
+Children were but very young, um they already have
+
+515
+00:23:13.609 --> 00:23:15.729
+that sense of object permanence, right? And then in
+
+516
+00:23:15.739 --> 00:23:17.910
+a similar way, they also have a sense of
+
+517
+00:23:17.920 --> 00:23:20.890
+continuity in, in motion, right? So that objects don't
+
+518
+00:23:20.900 --> 00:23:22.560
+suddenly kind of like, you know, speed up and
+
+519
+00:23:22.569 --> 00:23:25.229
+slow down and so on. And, and so there
+
+520
+00:23:25.239 --> 00:23:27.810
+are these very basic building blocks that um that
+
+521
+00:23:27.819 --> 00:23:29.810
+I think we start off with and then sort
+
+522
+00:23:29.819 --> 00:23:31.939
+of, you know, bootstrap our way as we are
+
+523
+00:23:31.949 --> 00:23:34.469
+sort of having direct experiences with the world. But
+
+524
+00:23:34.479 --> 00:23:36.739
+also, you know, using our minds to think about
+
+525
+00:23:36.750 --> 00:23:39.530
+the world to build the more, you know, sophisticated
+
+526
+00:23:39.540 --> 00:23:42.219
+knowledge of, of the world um that we have
+
+527
+00:23:42.229 --> 00:23:44.800
+later on in a similar way. Um MAYBE in
+
+528
+00:23:44.810 --> 00:23:48.329
+people's intuitive understanding of the psychological world. Right. Um,
+
+529
+00:23:48.339 --> 00:23:51.089
+EVEN infants might already have a sense that, um,
+
+530
+00:23:51.099 --> 00:23:54.540
+agents are driven by goals. Right. And, and desires
+
+531
+00:23:54.699 --> 00:23:56.650
+and that they tend to pursue those goals in
+
+532
+00:23:56.660 --> 00:23:59.219
+efficient ways. Right. That it's, if they want to
+
+533
+00:23:59.229 --> 00:24:00.369
+get from A to B, they're not going to
+
+534
+00:24:00.380 --> 00:24:02.140
+take some very roundabout way to get to A
+
+535
+00:24:02.150 --> 00:24:04.209
+to B or they would find that surprising. Right.
+
+536
+00:24:04.339 --> 00:24:07.229
+But then there's additional components to our intuitive, um
+
+537
+00:24:07.239 --> 00:24:10.329
+understanding of psychology, such as the appreciation that people
+
+538
+00:24:10.339 --> 00:24:12.439
+can have, you know, beliefs about the world and
+
+539
+00:24:12.449 --> 00:24:14.709
+that sometimes these beliefs might be wrong. But then
+
+540
+00:24:14.719 --> 00:24:17.270
+we have false beliefs about the world and that
+
+541
+00:24:17.280 --> 00:24:19.199
+we can understand that somebody would act in a
+
+542
+00:24:19.209 --> 00:24:22.750
+way. Um That's, you know, from my perspective, um
+
+543
+00:24:22.760 --> 00:24:24.989
+you know, stupid but, but just because they know
+
+544
+00:24:25.000 --> 00:24:28.040
+something different, right? And that appreciation like develops, you
+
+545
+00:24:28.050 --> 00:24:30.209
+know, much later. But again, I think the assumption
+
+546
+00:24:30.219 --> 00:24:32.349
+often is this just as you put it that
+
+547
+00:24:32.359 --> 00:24:35.880
+there are certain core knowledge. Um uh SO certain
+
+548
+00:24:35.890 --> 00:24:38.310
+things that come from very, very early on and
+
+549
+00:24:38.319 --> 00:24:40.319
+that we then just have a very powerful kind
+
+550
+00:24:40.329 --> 00:24:43.489
+of general inference machine powered to a large extent,
+
+551
+00:24:43.500 --> 00:24:46.050
+you know, by causality that then allows us to
+
+552
+00:24:46.060 --> 00:24:49.479
+build much more sophisticated um theories of, of how
+
+553
+00:24:49.489 --> 00:24:50.329
+the world works.
+
+554
+00:24:51.170 --> 00:24:55.030
+No, I I am aware, aware of those experiments
+
+555
+00:24:55.040 --> 00:24:58.630
+done by Dr Elizabeth Spelke. They are really fascinating
+
+556
+00:24:58.640 --> 00:25:02.000
+and I, unfortunately, I haven't had the opportunity of
+
+557
+00:25:02.010 --> 00:25:05.464
+having her on the show perhaps some day I
+
+558
+00:25:05.474 --> 00:25:08.545
+would really love to talk with her about them
+
+559
+00:25:08.555 --> 00:25:12.964
+because they are really interesting. So, let me ask
+
+560
+00:25:12.974 --> 00:25:17.295
+you another thing now. So what is causation by
+
+561
+00:25:17.305 --> 00:25:18.055
+a mission?
+
+562
+00:25:19.415 --> 00:25:21.204
+Yeah. So that's that phenomenon, right? So you can
+
+563
+00:25:21.214 --> 00:25:24.910
+sort of contrast and uh mission. So that's sort
+
+564
+00:25:24.920 --> 00:25:28.410
+of like stuff happening. So, like some event happens,
+
+565
+00:25:28.420 --> 00:25:31.000
+like I, you know, somebody throws the ball at
+
+566
+00:25:31.010 --> 00:25:33.530
+me and I hit it with the baseball bat
+
+567
+00:25:33.540 --> 00:25:35.290
+and you know, it flies through the air, you
+
+568
+00:25:35.300 --> 00:25:37.109
+might say, ok, that's a case of, you know,
+
+569
+00:25:37.359 --> 00:25:40.660
+um, causation by commission, right? But now let's take
+
+570
+00:25:40.670 --> 00:25:42.920
+a different example, right? Somebody throws the ball at
+
+571
+00:25:42.930 --> 00:25:45.810
+me. I miss it, right? I strike past it
+
+572
+00:25:45.819 --> 00:25:48.150
+and the ball hits a window like in the,
+
+573
+00:25:48.160 --> 00:25:49.869
+you know, and the window shatters like behind me.
+
+574
+00:25:49.880 --> 00:25:51.469
+But I was playing with my friends, let's say,
+
+575
+00:25:51.979 --> 00:25:54.819
+um, and now you might, you might ask yourself
+
+576
+00:25:54.829 --> 00:25:58.369
+like, oh, you know, the window shatter because Toby
+
+577
+00:25:58.380 --> 00:26:01.839
+missed the ball, right? Um And so, so here
+
+578
+00:26:01.849 --> 00:26:04.540
+missing, missing the ball, right is like something that
+
+579
+00:26:04.550 --> 00:26:07.140
+didn't happen, right? Not hitting the ball. How could
+
+580
+00:26:07.150 --> 00:26:09.939
+that be a cause? Right? Of something that happens?
+
+581
+00:26:10.430 --> 00:26:13.349
+And intuitively we do that quite often though, right?
+
+582
+00:26:13.359 --> 00:26:15.469
+We might say like, ok, you know, if I
+
+583
+00:26:15.479 --> 00:26:17.569
+hit the ball like, you know, 100 times now,
+
+584
+00:26:17.579 --> 00:26:19.369
+every time the person, you know, lobbed it to
+
+585
+00:26:19.380 --> 00:26:21.849
+me and on, on the 101st time the other
+
+586
+00:26:21.859 --> 00:26:23.560
+person loves the ball just as they do every
+
+587
+00:26:23.569 --> 00:26:25.770
+time, but I miss it. Right? And it goes
+
+588
+00:26:25.780 --> 00:26:27.680
+through, through the window, you might think like, yeah,
+
+589
+00:26:27.699 --> 00:26:30.030
+that was the, that was the cause, right? And,
+
+590
+00:26:30.040 --> 00:26:32.875
+and not like the person actually threw the ball
+
+591
+00:26:32.885 --> 00:26:34.275
+right where you might say like, OK, that's the
+
+592
+00:26:34.285 --> 00:26:37.675
+kind of more process like cause right, where from
+
+593
+00:26:37.685 --> 00:26:40.035
+throwing the ball to like hitting the window, there's
+
+594
+00:26:40.045 --> 00:26:43.145
+this kind of nice um causal process, right? That
+
+595
+00:26:43.155 --> 00:26:46.135
+connects these events. Um But nonetheless, we still might
+
+596
+00:26:46.145 --> 00:26:48.685
+be more inclined to, you know, blame the person
+
+597
+00:26:48.694 --> 00:26:50.584
+or say that it happened because of the person
+
+598
+00:26:50.665 --> 00:26:52.994
+in this case, me who missed the ball, right?
+
+599
+00:26:53.550 --> 00:26:55.439
+And so this is this kind of phenomenon, right?
+
+600
+00:26:55.449 --> 00:26:58.250
+When is it that we would cite an omission,
+
+601
+00:26:58.260 --> 00:27:01.300
+something not happening as a cause, right? The law
+
+602
+00:27:01.310 --> 00:27:03.530
+also again, does it, you know, very often there's
+
+603
+00:27:03.540 --> 00:27:06.390
+a notion of negligence, right? A negligence means that
+
+604
+00:27:06.400 --> 00:27:08.910
+a person, you know, failed to do something that
+
+605
+00:27:08.920 --> 00:27:11.020
+they should have done and something happened, you know,
+
+606
+00:27:11.030 --> 00:27:14.140
+because of that. Um THERE'S some um so, so
+
+607
+00:27:14.150 --> 00:27:17.239
+certainly psychologically something we do, you know, all the
+
+608
+00:27:17.250 --> 00:27:20.270
+time, right? It might not be. Um YEAH, the
+
+609
+00:27:20.280 --> 00:27:22.290
+kind of things again that are cited as causes
+
+610
+00:27:22.300 --> 00:27:23.479
+like in some sort of, you know, in the
+
+611
+00:27:23.530 --> 00:27:27.290
+physical world. Although of course, causation like in physics
+
+612
+00:27:27.300 --> 00:27:29.579
+is a separate sort of complicated um uh uh
+
+613
+00:27:29.790 --> 00:27:34.030
+problem. Um But, but, but just to also highlight
+
+614
+00:27:34.040 --> 00:27:36.030
+like, one of the problems that arises with that
+
+615
+00:27:36.040 --> 00:27:38.479
+is to say like, OK, um So let's say
+
+616
+00:27:38.489 --> 00:27:42.099
+we are citing certain events of uh certain omissions
+
+617
+00:27:42.109 --> 00:27:45.140
+like as causes and, and again, these kind of
+
+618
+00:27:45.150 --> 00:27:48.319
+also counterfactual theories, they're kind of OK with that,
+
+619
+00:27:48.329 --> 00:27:50.920
+right? Because you can say like, yeah, uh it's
+
+620
+00:27:50.930 --> 00:27:52.920
+Toby missing the ball that caused, you know, the
+
+621
+00:27:52.930 --> 00:27:55.310
+window to shatter in this case. And, and what
+
+622
+00:27:55.319 --> 00:27:57.349
+one might mean by saying that is like had
+
+623
+00:27:57.359 --> 00:28:00.150
+Toby not, you know, missed the ball, then everything
+
+624
+00:28:00.160 --> 00:28:03.540
+would have been fine, right? Um But on the
+
+625
+00:28:03.550 --> 00:28:05.760
+other hand, if we now allow for that, like,
+
+626
+00:28:05.770 --> 00:28:07.219
+you know, why is it to be missing the
+
+627
+00:28:07.229 --> 00:28:09.500
+ball that caused the window to shatter and not
+
+628
+00:28:09.510 --> 00:28:12.099
+like, you know, some other person missing the ball,
+
+629
+00:28:12.109 --> 00:28:13.599
+like there could have been someone else, but you
+
+630
+00:28:13.609 --> 00:28:15.270
+could have blocked it. Maybe the queen of England
+
+631
+00:28:15.280 --> 00:28:17.619
+could have been, well, she's not alive anymore. Now,
+
+632
+00:28:17.630 --> 00:28:20.500
+maybe the king of England, you know, the queen
+
+633
+00:28:20.510 --> 00:28:22.339
+of England was used as a standard example, I
+
+634
+00:28:22.349 --> 00:28:26.040
+guess, but that needs to be revised now. Um
+
+635
+00:28:26.050 --> 00:28:27.500
+SO the king of England could have hit the
+
+636
+00:28:27.510 --> 00:28:30.040
+ball, right? In principle, you know, no reason not
+
+637
+00:28:30.050 --> 00:28:32.560
+to. So the problem is that like, you know,
+
+638
+00:28:32.619 --> 00:28:35.130
+uh by allowing for omissions to count as cause
+
+639
+00:28:35.214 --> 00:28:38.555
+you arrive what's sometimes called this kind of proliferation
+
+640
+00:28:38.564 --> 00:28:41.515
+problem of causation, right? Because now every anything goes,
+
+641
+00:28:41.525 --> 00:28:44.515
+right? Like, because, because if you allow for emissions,
+
+642
+00:28:44.525 --> 00:28:46.834
+you know, to be as causes, there's, there's an
+
+643
+00:28:46.844 --> 00:28:49.785
+infinite number of omissions at any given point in
+
+644
+00:28:49.795 --> 00:28:52.795
+time, right? Um And so then this question arises
+
+645
+00:28:52.805 --> 00:28:54.435
+like, OK, how do we pick out, you know,
+
+646
+00:28:54.444 --> 00:28:57.795
+some omissions um but not others, but as the,
+
+647
+00:28:57.805 --> 00:29:01.599
+as the relevant causal factors and there are at
+
+648
+00:29:01.609 --> 00:29:04.390
+least what sort of, you know, cognitive scientists have
+
+649
+00:29:04.400 --> 00:29:07.150
+um sort of, you know, um come up with
+
+650
+00:29:07.160 --> 00:29:09.329
+as a, as a sort of natural explanation that
+
+651
+00:29:09.339 --> 00:29:13.560
+covers um many people's intuition intuitions is that expectations
+
+652
+00:29:13.569 --> 00:29:15.750
+are really critical for this case, right. So that
+
+653
+00:29:15.760 --> 00:29:18.630
+we have expectations about how things, you know, should
+
+654
+00:29:18.640 --> 00:29:21.209
+be done. Um So these might be, um these
+
+655
+00:29:21.219 --> 00:29:23.900
+might be prescriptive expectations, right. That's kind of, yeah,
+
+656
+00:29:23.910 --> 00:29:26.079
+how it should be done. They might be or,
+
+657
+00:29:26.089 --> 00:29:29.329
+or sort of normative expectations, they might be statistical
+
+658
+00:29:29.339 --> 00:29:32.050
+expectations that are just based on how things, you
+
+659
+00:29:32.060 --> 00:29:34.550
+know, tend to be, right? They might also be
+
+660
+00:29:34.560 --> 00:29:37.790
+sometimes they're called, um, you know, functional norms or
+
+661
+00:29:37.800 --> 00:29:40.750
+norms of proper functioning. That just means again, it's
+
+662
+00:29:40.760 --> 00:29:43.150
+not kind of prescriptive in the moral sense, but
+
+663
+00:29:43.160 --> 00:29:45.010
+it's prescriptive in the like, you know, if you
+
+664
+00:29:45.020 --> 00:29:46.930
+have some, you know, if you have your phone,
+
+665
+00:29:46.939 --> 00:29:48.530
+the phone is supposed to work in a particular
+
+666
+00:29:48.540 --> 00:29:50.819
+way, right? When I press that button, it's supposed
+
+667
+00:29:50.829 --> 00:29:52.670
+to turn on. Right. And if it didn't turn
+
+668
+00:29:52.680 --> 00:29:54.829
+on there would something be wrong about, you know,
+
+669
+00:29:54.839 --> 00:29:57.619
+um it's, it's, it's functioning so it's these kind
+
+670
+00:29:57.630 --> 00:30:01.890
+of normative expectations that affect um what we think
+
+671
+00:30:01.900 --> 00:30:04.609
+should happen. And when, then, and then when this
+
+672
+00:30:04.619 --> 00:30:09.290
+expectation is violated, um and when we think that
+
+673
+00:30:09.300 --> 00:30:11.810
+um had the thing happened, you know, the outcome
+
+674
+00:30:11.819 --> 00:30:14.780
+would have been different, then we might cite that
+
+675
+00:30:14.790 --> 00:30:17.469
+um as a cause, right? So just to give
+
+676
+00:30:17.479 --> 00:30:20.650
+11 other example, like someone's drowning in the ocean,
+
+677
+00:30:20.660 --> 00:30:23.949
+right? And nobody comes to, to help them, right?
+
+678
+00:30:23.959 --> 00:30:25.979
+And, and now we say like, OK, you know,
+
+679
+00:30:25.989 --> 00:30:28.319
+why did the person drown? Right? If there was
+
+680
+00:30:28.329 --> 00:30:31.199
+a lifeguard, you know, on the beach, right? And
+
+681
+00:30:31.209 --> 00:30:34.859
+they didn't go. Yes, definitely. Like the lifeguard, it's
+
+682
+00:30:34.869 --> 00:30:37.469
+the lifeguards fault. This person drowned because, you know,
+
+683
+00:30:37.510 --> 00:30:39.920
+the lifeguard didn't jump into the water because that's
+
+684
+00:30:39.930 --> 00:30:41.859
+their job, right? They have the expectation of them
+
+685
+00:30:41.869 --> 00:30:44.160
+to do that and them not doing it is
+
+686
+00:30:44.170 --> 00:30:46.579
+something that I would count as a cause, you
+
+687
+00:30:46.589 --> 00:30:49.989
+know, of this person um a drowning. But if
+
+688
+00:30:50.000 --> 00:30:52.650
+it's someone who can swim, right, who's also there,
+
+689
+00:30:52.660 --> 00:30:55.369
+they also don't do anything, right? But I would
+
+690
+00:30:55.380 --> 00:30:57.250
+not say that that's because of them, you know
+
+691
+00:30:57.260 --> 00:30:59.420
+that the other person, you know, drowned because they
+
+692
+00:30:59.430 --> 00:31:02.420
+just didn't have right, the capacity to, to do
+
+693
+00:31:02.430 --> 00:31:05.680
+the relevant and counterfactual thing. And so I would
+
+694
+00:31:05.689 --> 00:31:08.199
+not write um judge that, yeah, this person drowned
+
+695
+00:31:08.209 --> 00:31:10.770
+because this person who cannot swim um you know,
+
+696
+00:31:10.780 --> 00:31:12.719
+didn't jump into the water because that wouldn't have
+
+697
+00:31:12.729 --> 00:31:14.040
+been helpful. Then there would have been two people
+
+698
+00:31:14.050 --> 00:31:16.670
+who drowned. Right. And so, so that's sort of
+
+699
+00:31:16.680 --> 00:31:19.589
+like, um, so it's interesting phenomenon, right? Causation by
+
+700
+00:31:19.599 --> 00:31:23.849
+omission, it's counterfactual theories apply well to it. But
+
+701
+00:31:23.869 --> 00:31:26.540
+uh to, to deal with the problem of proliferation,
+
+702
+00:31:26.550 --> 00:31:28.250
+we also then need to take into account the
+
+703
+00:31:28.260 --> 00:31:31.420
+role that expectations play when people choose what things
+
+704
+00:31:31.430 --> 00:31:33.069
+to, to cite as a cause.
+
+705
+00:31:34.280 --> 00:31:36.449
+So I, I guess we're already getting here a
+
+706
+00:31:36.459 --> 00:31:40.569
+little bit also into moral judgment and we'll come
+
+707
+00:31:40.579 --> 00:31:43.229
+back to that in a second. But I guess
+
+708
+00:31:43.239 --> 00:31:45.900
+that uh just to comment and perhaps this would
+
+709
+00:31:45.910 --> 00:31:49.780
+be more of a philosophical comment than a psychological
+
+710
+00:31:49.790 --> 00:31:52.859
+one because what it, what matters here from the
+
+711
+00:31:52.869 --> 00:31:56.260
+perspective of psychology is how people think and now
+
+712
+00:31:56.270 --> 00:32:00.020
+and not how they should think or uh if
+
+713
+00:32:00.030 --> 00:32:03.579
+it's weird or not how people think, but it's
+
+714
+00:32:03.589 --> 00:32:05.599
+actually, I would say I would say a bit
+
+715
+00:32:05.609 --> 00:32:07.619
+of both actually on that, on that front, right.
+
+716
+00:32:07.694 --> 00:32:09.974
+It's a, it's true that sometimes, you know, we
+
+717
+00:32:09.984 --> 00:32:12.594
+might push the normative to the, to the philosophers
+
+718
+00:32:12.604 --> 00:32:15.964
+or so, right? But I think also often like,
+
+719
+00:32:15.974 --> 00:32:18.234
+you know, in, in psychology, we be asked these
+
+720
+00:32:18.244 --> 00:32:21.224
+normative questions, right? Because, and that's interesting also for
+
+721
+00:32:21.234 --> 00:32:23.795
+phenomenon like causal judgment, it's like, you know, what's
+
+722
+00:32:23.805 --> 00:32:26.025
+the point, right? You might ask, right? Why do
+
+723
+00:32:26.035 --> 00:32:28.114
+we do this stuff in the first place? Right.
+
+724
+00:32:28.430 --> 00:32:30.670
+And can we be wrong about it, right? Because
+
+725
+00:32:30.680 --> 00:32:32.439
+it feels like if this is something that we
+
+726
+00:32:32.449 --> 00:32:35.160
+are kind of, you know, generally engaging it, then,
+
+727
+00:32:35.170 --> 00:32:37.430
+then hopefully it should play some kind of role,
+
+728
+00:32:37.439 --> 00:32:40.530
+right? Like you were saying earlier with um maybe
+
+729
+00:32:40.540 --> 00:32:44.689
+there is something um useful about the capacity to
+
+730
+00:32:44.699 --> 00:32:47.949
+um uh simulate counter factuals because it helps us
+
+731
+00:32:47.959 --> 00:32:49.770
+learn about the world, right? It helps us build
+
+732
+00:32:49.780 --> 00:32:52.359
+better models of how the world works. It's certainly
+
+733
+00:32:52.369 --> 00:32:56.515
+critical for uh communicating well about the world. Again,
+
+734
+00:32:56.526 --> 00:32:58.336
+if you ask me some kind of why question
+
+735
+00:32:58.345 --> 00:33:01.105
+it's very natural for me to answer it by
+
+736
+00:33:01.115 --> 00:33:03.546
+referring to a counterfactual. Oh, this happened because of
+
+737
+00:33:03.556 --> 00:33:06.166
+this and it wouldn't have happened otherwise. And this
+
+738
+00:33:06.176 --> 00:33:08.656
+helps you now learn about the world and that's
+
+739
+00:33:08.666 --> 00:33:10.686
+and that's a normative thing, right? I could then
+
+740
+00:33:10.696 --> 00:33:14.456
+also say, right, oh, there's different possible possible explanations
+
+741
+00:33:14.465 --> 00:33:16.635
+that I could give this one is better than
+
+742
+00:33:16.645 --> 00:33:18.456
+some of the other ones. And what does it
+
+743
+00:33:18.465 --> 00:33:19.936
+mean for it to be better in that case?
+
+744
+00:33:20.151 --> 00:33:23.362
+Well, there's, there's a few options but it could
+
+745
+00:33:23.371 --> 00:33:26.072
+be like it's better because you now have a
+
+746
+00:33:26.082 --> 00:33:27.891
+better model in your mind of how the world
+
+747
+00:33:27.901 --> 00:33:31.582
+works, right? Or uh or, or sort of and,
+
+748
+00:33:31.592 --> 00:33:34.302
+or um you are now in a better position
+
+749
+00:33:34.312 --> 00:33:36.781
+to take actions that allow you to pursue the
+
+750
+00:33:36.791 --> 00:33:39.261
+goals that are relevant to you, right? And so
+
+751
+00:33:39.271 --> 00:33:42.362
+in that sense, they're also they're also normative, right?
+
+752
+00:33:42.371 --> 00:33:44.692
+So I'm, I'm certainly interested in that perspective because
+
+753
+00:33:44.702 --> 00:33:47.380
+often it turns out if you have the right
+
+754
+00:33:47.390 --> 00:33:50.099
+um understanding of what the goal is that the
+
+755
+00:33:50.560 --> 00:33:52.939
+cognitive system or the person is, um, is, is
+
+756
+00:33:52.949 --> 00:33:56.780
+pursuing that helps you, you know, um, describe the
+
+757
+00:33:56.790 --> 00:33:59.410
+phenomenon. Well, so I think they're kind of deeply
+
+758
+00:33:59.420 --> 00:34:00.079
+connected.
+
+759
+00:34:00.750 --> 00:34:03.130
+No, no, for sure. Uh I was just going
+
+760
+00:34:03.140 --> 00:34:05.800
+to say with the example of, let's say a
+
+761
+00:34:05.810 --> 00:34:09.760
+medical doctor that I mean, it's, it's if you
+
+762
+00:34:09.770 --> 00:34:11.668
+stop to think about it for a, for a
+
+763
+00:34:11.679 --> 00:34:15.649
+bit, it's still perhaps a little bit weird why
+
+764
+00:34:15.947 --> 00:34:19.467
+uh through things like for example, negligence, we would
+
+765
+00:34:19.478 --> 00:34:23.428
+attribute causality to those kinds of things because let's
+
+766
+00:34:23.438 --> 00:34:27.309
+say that the doctor uh makes the incorrect diagnosis
+
+767
+00:34:27.319 --> 00:34:30.868
+and fails to deliver or provide the correct treatment
+
+768
+00:34:30.878 --> 00:34:35.039
+and the person dies from cancer. Let's say I,
+
+769
+00:34:35.339 --> 00:34:38.688
+I mean, the cause of death, there is the
+
+770
+00:34:38.697 --> 00:34:42.239
+cancer. It, it's not the v in willing to
+
+771
+00:34:42.248 --> 00:34:44.779
+provide the treatment. I mean, the doctor, if the
+
+772
+00:34:44.789 --> 00:34:47.790
+doctor had provided the treatment, it would have been
+
+773
+00:34:47.800 --> 00:34:51.478
+the cause of the person living, right? So yeah,
+
+774
+00:34:51.570 --> 00:34:54.418
+but, but yeah, it's, it's, it's a bit weird.
+
+775
+00:34:54.469 --> 00:34:55.978
+No, no. Yeah, you're right. It's a bit weird.
+
+776
+00:34:55.989 --> 00:34:57.860
+It's just like an example also maybe that I
+
+777
+00:34:57.870 --> 00:35:00.840
+had earlier with, you know, me, me missing the
+
+778
+00:35:00.850 --> 00:35:03.639
+the baseball, right? Somebody might say like, no, it's
+
+779
+00:35:03.649 --> 00:35:05.729
+the person who threw the baseball, right? That's the
+
+780
+00:35:05.739 --> 00:35:08.489
+the cancer in your example. That's the cause of
+
+781
+00:35:08.500 --> 00:35:11.459
+the window shattering, right? And of course, if, if,
+
+782
+00:35:11.469 --> 00:35:13.360
+if there was no person, you know, standing there
+
+783
+00:35:13.370 --> 00:35:14.570
+to hit the ball, of course, that would be
+
+784
+00:35:14.580 --> 00:35:17.739
+the case, right? Um But, but nonetheless, right, it's
+
+785
+00:35:17.750 --> 00:35:21.290
+the world is complicated, right? And often outcomes um
+
+786
+00:35:21.300 --> 00:35:24.139
+are the result of many kind of, let's say,
+
+787
+00:35:24.429 --> 00:35:26.659
+um causes that are sort of like of the
+
+788
+00:35:26.669 --> 00:35:29.760
+commission kind, right? Things that are actually, um but
+
+789
+00:35:29.770 --> 00:35:32.340
+then also like often a number of causes that
+
+790
+00:35:32.350 --> 00:35:34.500
+might be of the omission kind, right? And it's
+
+791
+00:35:34.510 --> 00:35:37.500
+partly, then um two people might disagree and that
+
+792
+00:35:37.510 --> 00:35:40.540
+often often also happens, but we may not disagree
+
+793
+00:35:40.550 --> 00:35:44.270
+about the actual facts. We may, ok, we, we
+
+794
+00:35:44.280 --> 00:35:45.969
+um you know, when we disagree about something, it
+
+795
+00:35:45.979 --> 00:35:48.100
+might be that we have different models of what
+
+796
+00:35:48.110 --> 00:35:50.090
+happened. It might be, it might be that we
+
+797
+00:35:50.100 --> 00:35:52.649
+have different models of the world that influence um
+
+798
+00:35:52.659 --> 00:35:55.320
+how the counterfactual might be different. But it could
+
+799
+00:35:55.330 --> 00:35:57.449
+also be that we have exactly the same uh
+
+800
+00:35:57.459 --> 00:36:00.679
+understanding of what actually happened. We share exactly the
+
+801
+00:36:00.689 --> 00:36:03.290
+same model um such that if we were to
+
+802
+00:36:03.300 --> 00:36:05.310
+think about certain kind of factuals, we would also
+
+803
+00:36:05.320 --> 00:36:08.770
+agree. But nonetheless, we might still pick different causes,
+
+804
+00:36:08.780 --> 00:36:11.070
+right? You might still say like, yeah, I, you
+
+805
+00:36:11.080 --> 00:36:14.209
+know, I share everything that you think, but I
+
+806
+00:36:14.219 --> 00:36:16.550
+think it was because of the cancer and I
+
+807
+00:36:16.560 --> 00:36:18.500
+think it was because of the doctor, right? And
+
+808
+00:36:18.510 --> 00:36:20.439
+that might then have to do also partly with,
+
+809
+00:36:20.570 --> 00:36:22.590
+you know, what it is that we want, you
+
+810
+00:36:22.600 --> 00:36:24.739
+know, the person who we're talking to, for example,
+
+811
+00:36:24.750 --> 00:36:27.510
+to focus on and, and, and to potentially change
+
+812
+00:36:27.520 --> 00:36:30.889
+and so on. So we're communicating maybe um uh
+
+813
+00:36:30.899 --> 00:36:33.350
+our beliefs about what we take to be important
+
+814
+00:36:33.360 --> 00:36:35.760
+in selecting and specific causes.
+
+815
+00:36:36.080 --> 00:36:40.100
+Mhm. So that's the point where probably things like
+
+816
+00:36:40.110 --> 00:36:44.250
+social norms or our own self interests play a
+
+817
+00:36:44.260 --> 00:36:47.699
+role perhaps in the way that we are motivated
+
+818
+00:36:47.709 --> 00:36:51.820
+to thinking about certain aspects of causation.
+
+819
+00:36:52.169 --> 00:36:54.439
+That's right. Yeah. And just to get one kind
+
+820
+00:36:54.449 --> 00:36:56.780
+of, you know, um, um, you know, a terrible
+
+821
+00:36:56.790 --> 00:36:59.239
+example that unfortunately comes up here, you know, in
+
+822
+00:36:59.250 --> 00:37:01.850
+the US quite frequently take, take the example of,
+
+823
+00:37:01.860 --> 00:37:04.199
+you know, school shootings. That's a, that's a, that's
+
+824
+00:37:04.209 --> 00:37:07.699
+a terrible, you know, um, um, outcome but then
+
+825
+00:37:07.709 --> 00:37:10.850
+also whenever these things happen, right, you, you see
+
+826
+00:37:10.860 --> 00:37:14.620
+people, uh they don't necessarily disagree about the facts,
+
+827
+00:37:14.629 --> 00:37:17.979
+you know, that OK, someone who, um, you know,
+
+828
+00:37:17.989 --> 00:37:21.550
+um had, uh certainly kind of mental, um, you
+
+829
+00:37:21.560 --> 00:37:24.409
+know, mental issues and also had a gun, you
+
+830
+00:37:24.419 --> 00:37:27.739
+know, uh went into the school and, and, and,
+
+831
+00:37:27.750 --> 00:37:30.500
+and, and shot others but then the cause that
+
+832
+00:37:30.510 --> 00:37:33.159
+people then, you know, cite as, OK, why it
+
+833
+00:37:33.169 --> 00:37:35.020
+is that this happened and what it is that
+
+834
+00:37:35.030 --> 00:37:37.540
+we need to do about it, those differ, right?
+
+835
+00:37:37.550 --> 00:37:39.939
+With some people saying we need more strict gun
+
+836
+00:37:39.949 --> 00:37:42.500
+laws and then other people saying it's a mental
+
+837
+00:37:42.510 --> 00:37:46.580
+health, you know, um, uh, crisis. Right. And, and
+
+838
+00:37:46.590 --> 00:37:49.459
+so people don't disagree in some sense that both
+
+839
+00:37:49.469 --> 00:37:52.070
+of these factors, you know, happen, but they give
+
+840
+00:37:52.080 --> 00:37:55.739
+different explanations because of course they have their motivations
+
+841
+00:37:55.750 --> 00:37:57.860
+about how they would like, um, the world to
+
+842
+00:37:57.870 --> 00:38:00.600
+change and some people don't want any gun laws.
+
+843
+00:38:00.610 --> 00:38:03.040
+So they cite the mental health that other people
+
+844
+00:38:03.050 --> 00:38:05.560
+think it's, it's terrible, you know, to have, um,
+
+845
+00:38:05.570 --> 00:38:08.560
+such loose gun laws. Um And, and this kind
+
+846
+00:38:08.570 --> 00:38:10.360
+of thing doesn't happen in other countries where other
+
+847
+00:38:10.370 --> 00:38:12.969
+people also have mental health problems and they cite
+
+848
+00:38:12.979 --> 00:38:14.889
+a different cause. And
+
+849
+00:38:15.040 --> 00:38:18.879
+actually, yeah, actually there's also people who think that
+
+850
+00:38:18.889 --> 00:38:22.570
+we, we would need even more guns because if
+
+851
+00:38:22.580 --> 00:38:24.429
+the teachers were armed
+
+852
+00:38:25.209 --> 00:38:25.330
+they
+
+853
+00:38:25.770 --> 00:38:26.000
+have
+
+854
+00:38:27.969 --> 00:38:30.270
+that's doubling down in some sense. But yeah, you're
+
+855
+00:38:30.280 --> 00:38:33.229
+right. That's another, that's another way of responding, you
+
+856
+00:38:33.239 --> 00:38:34.060
+know. Yeah.
+
+857
+00:38:34.929 --> 00:38:38.169
+So uh but why is it that when there
+
+858
+00:38:38.179 --> 00:38:42.399
+are several causes contributing to an outcome? I mean,
+
+859
+00:38:42.409 --> 00:38:46.949
+how do people choose or single out one particular
+
+860
+00:38:46.959 --> 00:38:50.739
+cause? And why is it that even uh when
+
+861
+00:38:50.750 --> 00:38:54.459
+they perhaps notice that there might have been different
+
+862
+00:38:54.469 --> 00:38:59.389
+causes at play, they usually go for one single
+
+863
+00:38:59.399 --> 00:38:59.909
+cause?
+
+864
+00:39:00.310 --> 00:39:02.790
+Yeah. Yeah. Yeah. I think part of the things
+
+865
+00:39:02.800 --> 00:39:04.449
+that we talked about, you know, touched on this
+
+866
+00:39:04.459 --> 00:39:07.090
+question already and it's partly also, yeah, what is
+
+867
+00:39:07.100 --> 00:39:09.370
+the goal of that? Right. There's some kind of
+
+868
+00:39:09.379 --> 00:39:12.070
+why question that might often happen also in, in
+
+869
+00:39:12.080 --> 00:39:14.550
+communication, right? It might be, I mean, sometimes it's
+
+870
+00:39:14.560 --> 00:39:18.169
+possible that I ask this question like myself, right?
+
+871
+00:39:18.179 --> 00:39:20.489
+Is like, oh, you know, I come, I come
+
+872
+00:39:20.500 --> 00:39:21.929
+to the fridge, the door is open. It's like,
+
+873
+00:39:21.939 --> 00:39:23.969
+oh, why is the fridge door open? Right. And
+
+874
+00:39:23.979 --> 00:39:25.500
+then I think like, oh, ok, it turns out,
+
+875
+00:39:25.510 --> 00:39:27.290
+you know, the, the milk was a little bit
+
+876
+00:39:27.300 --> 00:39:29.530
+tilted here. And so I, I put the milk
+
+877
+00:39:29.540 --> 00:39:32.350
+back close, the fridge, done. RIGHT? I've solved the
+
+878
+00:39:32.360 --> 00:39:35.389
+crime uh in, in this case, but very often
+
+879
+00:39:35.399 --> 00:39:37.790
+it's a, it's a, it's a communicative act, right?
+
+880
+00:39:37.800 --> 00:39:39.949
+Somebody asks me, oh, you know, why did this
+
+881
+00:39:39.959 --> 00:39:43.580
+happen? And now, and now I, I get to
+
+882
+00:39:43.590 --> 00:39:46.229
+choose what answer to give to that question, right?
+
+883
+00:39:46.889 --> 00:39:48.870
+And um and there's two things I think that
+
+884
+00:39:48.879 --> 00:39:52.199
+we've touched on that I think are particularly important
+
+885
+00:39:52.209 --> 00:39:54.419
+to this choice, right? This is also like um
+
+886
+00:39:54.699 --> 00:39:57.330
+um um a kind of phenomenon that sometimes in
+
+887
+00:39:57.340 --> 00:40:00.939
+philosophy goes under the problem of causal selection, right?
+
+888
+00:40:00.949 --> 00:40:04.370
+It's like, yeah, there's always a plethora of causes.
+
+889
+00:40:04.379 --> 00:40:06.860
+Um But how do I, so sometimes one could
+
+890
+00:40:06.870 --> 00:40:08.870
+put this in a way. There's like there's very
+
+891
+00:40:08.879 --> 00:40:11.010
+many things that would count as a cause of
+
+892
+00:40:11.020 --> 00:40:13.739
+the outcome. Um But we nevertheless pick just a
+
+893
+00:40:13.750 --> 00:40:16.679
+few things, maybe sometimes just one as the cause
+
+894
+00:40:16.689 --> 00:40:19.479
+of the outcome, right? To give one example, you
+
+895
+00:40:19.489 --> 00:40:21.159
+might say like, you know, the Big Bang is
+
+896
+00:40:21.169 --> 00:40:23.629
+a, is a cause of everything, right? But it's
+
+897
+00:40:23.639 --> 00:40:25.409
+hardly ever the thing that we cite as the
+
+898
+00:40:25.419 --> 00:40:28.399
+cause of something, right? So we didn't say like,
+
+899
+00:40:28.409 --> 00:40:30.429
+oh yeah, that window shattered because of the big
+
+900
+00:40:30.439 --> 00:40:33.229
+bang, you know, that's not really a very satisfying
+
+901
+00:40:33.239 --> 00:40:35.909
+um explanation. So now what are the kind of
+
+902
+00:40:35.919 --> 00:40:39.110
+things that determine how we choose to go from,
+
+903
+00:40:39.120 --> 00:40:41.540
+you know, a cause to the cause? Right. And
+
+904
+00:40:41.550 --> 00:40:43.290
+the two things that we touched upon that I
+
+905
+00:40:43.300 --> 00:40:45.270
+think are quite relevant here is on the one
+
+906
+00:40:45.280 --> 00:40:48.030
+hand, yeah, the kind of normative expectations that we
+
+907
+00:40:48.040 --> 00:40:52.199
+have because uh I am interested, right? When, when
+
+908
+00:40:52.209 --> 00:40:54.399
+somebody asks me a question, there's certain things that
+
+909
+00:40:54.409 --> 00:40:56.250
+I can take for granted that I think like,
+
+910
+00:40:56.260 --> 00:40:59.340
+OK, they definitely know that part already, right? So,
+
+911
+00:40:59.540 --> 00:41:02.229
+um there's a classic example when, when like, let's
+
+912
+00:41:02.239 --> 00:41:04.760
+say, um there's a wildfire and somebody dropped a
+
+913
+00:41:04.770 --> 00:41:07.530
+match, you might say like, OK, you know, why,
+
+914
+00:41:07.540 --> 00:41:09.530
+why was there wildfire? Well, because somebody dropped the
+
+915
+00:41:09.540 --> 00:41:12.179
+match, not because there was oxygen, right? Even though
+
+916
+00:41:12.189 --> 00:41:13.679
+if there hadn't been oxygen, you know, there wouldn't
+
+917
+00:41:13.689 --> 00:41:15.790
+have been a wildfire, but that would be a
+
+918
+00:41:15.800 --> 00:41:17.770
+weird thing to cite, right, in this kind of
+
+919
+00:41:17.780 --> 00:41:20.209
+context? Because I already assume that, you know, that
+
+920
+00:41:20.219 --> 00:41:22.850
+there was oxygen present in the scene, right? So
+
+921
+00:41:22.860 --> 00:41:25.489
+partly it's that we tend to often cite um
+
+922
+00:41:26.030 --> 00:41:29.729
+unusual events like a abnormal events. Um BECAUSE we
+
+923
+00:41:29.739 --> 00:41:31.530
+think that those are things that likely the other
+
+924
+00:41:31.540 --> 00:41:34.020
+person doesn't already know. So I'm helping them by
+
+925
+00:41:34.030 --> 00:41:36.550
+citing this cause and giving them a more accurate
+
+926
+00:41:36.750 --> 00:41:39.750
+uh kind of mental model of what happened. So
+
+927
+00:41:39.760 --> 00:41:42.469
+that's one component I think. Um BUT there's also
+
+928
+00:41:42.479 --> 00:41:43.899
+some research that has shown and, and for a
+
+929
+00:41:43.909 --> 00:41:47.139
+long time, uh we um people thought, yeah, that's,
+
+930
+00:41:47.149 --> 00:41:50.070
+that's the thing, right? There's even like um um
+
+931
+00:41:50.080 --> 00:41:54.429
+a book by um um art and honorary. So
+
+932
+00:41:54.439 --> 00:41:57.629
+to um legal legal scholars, causation in the law
+
+933
+00:41:57.949 --> 00:42:00.290
+um where that's really the focus, right of saying
+
+934
+00:42:00.300 --> 00:42:02.810
+that, yeah, people focus on these abnormal events. There's
+
+935
+00:42:02.820 --> 00:42:05.830
+some models also in psychology called the abnormal uh
+
+936
+00:42:05.840 --> 00:42:09.419
+focus condition model or something like that. And um
+
+937
+00:42:09.429 --> 00:42:12.179
+but then um some colleagues of mine and I
+
+938
+00:42:12.189 --> 00:42:14.929
+myself at some point discovered that's not always actually
+
+939
+00:42:14.939 --> 00:42:17.020
+what people choose as a cause and I'm going
+
+940
+00:42:17.030 --> 00:42:19.659
+to try to illustrate them um the example here
+
+941
+00:42:19.669 --> 00:42:22.159
+and it's a little bit um you know, well,
+
+942
+00:42:22.169 --> 00:42:23.850
+let me, let me take this uh this version
+
+943
+00:42:23.860 --> 00:42:27.580
+of it. So there's two characters who um who
+
+944
+00:42:27.590 --> 00:42:29.469
+go into their office, let's say at the same
+
+945
+00:42:29.479 --> 00:42:33.060
+time. And um and when, um and there's a
+
+946
+00:42:33.070 --> 00:42:35.530
+kind of a motion detector in the office, maybe
+
+947
+00:42:35.540 --> 00:42:36.929
+the one that just like turns the turns the
+
+948
+00:42:36.939 --> 00:42:39.070
+light on, you know, in the office. And this
+
+949
+00:42:39.080 --> 00:42:41.370
+is either set up in a way such that
+
+950
+00:42:41.379 --> 00:42:43.949
+um it turns on when, you know, either of
+
+951
+00:42:43.959 --> 00:42:45.820
+the people like turn up. So it only needs
+
+952
+00:42:45.830 --> 00:42:47.520
+one, you know, to turn on the motion detector
+
+953
+00:42:47.530 --> 00:42:49.270
+or it needs two people to turn on this
+
+954
+00:42:49.280 --> 00:42:53.310
+motion detector. And now, like, in some day, like
+
+955
+00:42:53.320 --> 00:42:55.629
+the, the, the boss tells one of the people,
+
+956
+00:42:55.639 --> 00:42:58.989
+um, say Ricardo, he tells Ricardo tomorrow, don't come
+
+957
+00:42:59.000 --> 00:43:01.739
+into the office. Right? And then, and then he
+
+958
+00:43:01.750 --> 00:43:04.780
+tells, um, Toby, come, come into the office, you
+
+959
+00:43:04.790 --> 00:43:06.479
+know, so I'm supposed to go, you're not supposed
+
+960
+00:43:06.489 --> 00:43:09.090
+to go. Now, we both turn up, Uh But
+
+961
+00:43:09.100 --> 00:43:12.350
+nonetheless, we both turn up, right? And the, and
+
+962
+00:43:12.360 --> 00:43:14.620
+the motion detector turns on and then you ask
+
+963
+00:43:14.629 --> 00:43:16.959
+people, OK, why did the motion detector turn on?
+
+964
+00:43:16.969 --> 00:43:18.820
+You know, was it because of, you know, Ricardo
+
+965
+00:43:18.830 --> 00:43:20.959
+or was it because of Toby? But we didn't
+
+966
+00:43:20.969 --> 00:43:22.310
+give them the option to say like it was
+
+967
+00:43:22.320 --> 00:43:24.139
+because of both in this case, just to see
+
+968
+00:43:24.149 --> 00:43:25.899
+whether they would have a preference between the two
+
+969
+00:43:26.610 --> 00:43:28.949
+and, and what turns out is that in, in
+
+970
+00:43:28.959 --> 00:43:31.669
+conjunctive scenarios where both of us are needed to
+
+971
+00:43:31.679 --> 00:43:34.229
+make the outcome happen, people have a strong preference
+
+972
+00:43:34.239 --> 00:43:35.850
+for the abnormal cause. So that would have been
+
+973
+00:43:35.860 --> 00:43:37.889
+you in this case, who wasn't supposed to turn
+
+974
+00:43:37.899 --> 00:43:40.709
+up, right? But when it's a disjunctive scenario, so
+
+975
+00:43:40.719 --> 00:43:43.310
+that means that either of the causes, it's individually
+
+976
+00:43:43.320 --> 00:43:45.679
+sufficient to make it happen. So it just needs
+
+977
+00:43:45.689 --> 00:43:47.090
+one of us to turn up to make this
+
+978
+00:43:47.100 --> 00:43:49.790
+motion detector turn on. In that case, they actually
+
+979
+00:43:49.800 --> 00:43:51.770
+se select me as the cause. So the one
+
+980
+00:43:51.780 --> 00:43:54.060
+who was supposed to turn up, right? And so
+
+981
+00:43:54.070 --> 00:43:55.800
+we were puzzled by this for a while, like,
+
+982
+00:43:55.810 --> 00:43:58.520
+oh why is it that in certain causal structures,
+
+983
+00:43:58.530 --> 00:44:01.590
+people select the normal event as the cause and
+
+984
+00:44:01.600 --> 00:44:03.979
+in other structures, they select the abnormal event as
+
+985
+00:44:03.989 --> 00:44:06.419
+the cause. And our idea was here is that
+
+986
+00:44:06.429 --> 00:44:08.679
+they're in addition, right, too often like wanting to
+
+987
+00:44:08.689 --> 00:44:11.629
+communicate something that's um you know, unknown to the
+
+988
+00:44:11.639 --> 00:44:14.540
+other person which drives us generally towards mentioning abnormal
+
+989
+00:44:14.550 --> 00:44:18.199
+events. We also care about um equipping the other
+
+990
+00:44:18.209 --> 00:44:20.219
+person with the kind of knowledge that's useful for
+
+991
+00:44:20.229 --> 00:44:22.620
+them to take good actions in the world. And
+
+992
+00:44:22.629 --> 00:44:24.360
+this again relates back a little bit also to
+
+993
+00:44:24.370 --> 00:44:26.810
+our sort of, you know, school shooting example, like
+
+994
+00:44:26.820 --> 00:44:28.669
+the reason for why people might choose one or
+
+995
+00:44:28.679 --> 00:44:31.219
+the other is not, it's not that they're communicating
+
+996
+00:44:31.229 --> 00:44:33.760
+something that the other person doesn't already know, but
+
+997
+00:44:33.770 --> 00:44:35.780
+they're differing in their beliefs about what the good
+
+998
+00:44:35.790 --> 00:44:38.959
+actions are, the things that we should change, right?
+
+999
+00:44:39.239 --> 00:44:41.159
+And, and bringing it back to this example of
+
+1000
+00:44:41.169 --> 00:44:44.280
+the multiple causes. It's, it's it, it turns out
+
+1001
+00:44:44.290 --> 00:44:45.750
+and it might be a little bit tricky to
+
+1002
+00:44:45.760 --> 00:44:47.879
+go into the details here without, you know, um
+
+1003
+00:44:47.889 --> 00:44:49.979
+being able to sort of, you know, draw and
+
+1004
+00:44:49.989 --> 00:44:52.449
+show stuff. But it turns out that um uh
+
+1005
+00:44:52.459 --> 00:44:55.340
+generally if you want the other person to, um
+
+1006
+00:44:55.350 --> 00:44:56.969
+if you think that what the other person wants
+
+1007
+00:44:56.979 --> 00:44:59.060
+to, to be is be in a situation where
+
+1008
+00:44:59.070 --> 00:45:00.840
+they can make a difference to the outcome, right?
+
+1009
+00:45:00.850 --> 00:45:03.030
+Where they can take action such that, oh If
+
+1010
+00:45:03.040 --> 00:45:04.989
+I want to make it happen, I should focus
+
+1011
+00:45:05.000 --> 00:45:06.449
+on this. If I want to prevent it from
+
+1012
+00:45:06.459 --> 00:45:09.469
+happening, I should focus on that. So telling you
+
+1013
+00:45:09.479 --> 00:45:11.800
+about the normal event in the destructive um um
+
+1014
+00:45:11.810 --> 00:45:15.250
+situation puts you in a better position to make
+
+1015
+00:45:15.260 --> 00:45:17.139
+a difference because that's the thing that you want
+
+1016
+00:45:17.149 --> 00:45:19.510
+to focus on Because for example, if you want
+
+1017
+00:45:19.520 --> 00:45:21.790
+to make it happen, it doesn't matter which of
+
+1018
+00:45:21.800 --> 00:45:24.399
+the two you make happen in the disjunctive situation.
+
+1019
+00:45:24.540 --> 00:45:26.129
+But if you want to prevent it from happening,
+
+1020
+00:45:26.139 --> 00:45:27.610
+you really want to focus on the thing that
+
+1021
+00:45:27.620 --> 00:45:30.949
+normally happens. And so, so this is the sort
+
+1022
+00:45:30.959 --> 00:45:33.780
+of like second key component, I think that, that
+
+1023
+00:45:33.790 --> 00:45:35.580
+I've at least, you know, um and others have
+
+1024
+00:45:35.590 --> 00:45:38.580
+come up with say, yeah, when choosing how to
+
+1025
+00:45:38.590 --> 00:45:40.500
+um how to choose among all those things that
+
+1026
+00:45:40.510 --> 00:45:42.600
+were causes of the outcome, which ones to decide.
+
+1027
+00:45:42.719 --> 00:45:44.870
+Well, the ones that will are useful for you
+
+1028
+00:45:44.879 --> 00:45:47.939
+to um you know, updating your beliefs about, you
+
+1029
+00:45:47.949 --> 00:45:50.459
+know, what happened or how the world works. And
+
+1030
+00:45:50.469 --> 00:45:52.770
+then the ones that are helpful for you, if
+
+1031
+00:45:52.780 --> 00:45:54.760
+you had to, if you found yourself in a
+
+1032
+00:45:54.770 --> 00:45:57.780
+situation like that and you wanted to take good
+
+1033
+00:45:57.790 --> 00:46:00.540
+actions, I'll, I'll point out to you that I
+
+1034
+00:46:00.550 --> 00:46:03.149
+think um uh is the, is the most useful
+
+1035
+00:46:03.159 --> 00:46:06.629
+one. And then again, one other interesting thing that
+
+1036
+00:46:06.639 --> 00:46:09.790
+that maybe um relates to is that from some,
+
+1037
+00:46:09.800 --> 00:46:13.030
+from an explanation that somebody chooses, you can make
+
+1038
+00:46:13.040 --> 00:46:16.330
+inferences about, you know, their beliefs about how the
+
+1039
+00:46:16.340 --> 00:46:20.030
+world works and also their motivations, right? Bringing it
+
+1040
+00:46:20.040 --> 00:46:22.229
+back to the example, right? Of the, of the,
+
+1041
+00:46:22.239 --> 00:46:24.870
+of the school shooting, if somebody cites, you know,
+
+1042
+00:46:24.879 --> 00:46:28.100
+mental health as a problem as the cause you
+
+1043
+00:46:28.110 --> 00:46:30.169
+know of the school shooting that tells you something
+
+1044
+00:46:30.179 --> 00:46:32.280
+about them, right? It tells you something about what
+
+1045
+00:46:32.290 --> 00:46:34.850
+their motivations are, how they think the world works,
+
+1046
+00:46:35.080 --> 00:46:38.149
+what they think should be changed, right? And so
+
+1047
+00:46:38.159 --> 00:46:41.570
+we can make inferences um about the person about
+
+1048
+00:46:41.580 --> 00:46:44.770
+their beliefs about their goals, uh from the explanations
+
+1049
+00:46:44.780 --> 00:46:45.590
+that they give
+
+1050
+00:46:46.689 --> 00:46:50.840
+actually that bit about motivations also, I guess, played
+
+1051
+00:46:50.850 --> 00:46:54.350
+a big role during the pandemic when people were
+
+1052
+00:46:54.360 --> 00:46:59.669
+talking about uh dying of COVID or dying with
+
+1053
+00:46:59.679 --> 00:47:02.649
+COVID. Like, for example, there were many people that
+
+1054
+00:47:02.659 --> 00:47:07.550
+were against the lockdowns and the vaccines and other
+
+1055
+00:47:07.560 --> 00:47:12.209
+safety measures that whenever uh people on the news
+
+1056
+00:47:12.219 --> 00:47:16.850
+were talking about the new deaths from COVID, uh
+
+1057
+00:47:16.860 --> 00:47:20.133
+they were like, oh yeah, from those deaths, how
+
+1058
+00:47:20.143 --> 00:47:23.722
+many of them were people who were obese or
+
+1059
+00:47:23.732 --> 00:47:26.673
+people who have cancer because it was then the
+
+1060
+00:47:26.683 --> 00:47:29.883
+obesity or the cancer that killed them were not
+
+1061
+00:47:29.992 --> 00:47:30.282
+COVID?
+
+1062
+00:47:30.883 --> 00:47:32.772
+Yeah. Yeah. Yeah. So those are, yeah, those are
+
+1063
+00:47:32.782 --> 00:47:35.853
+also super interesting questions and they, and they, they
+
+1064
+00:47:35.863 --> 00:47:38.583
+sort of any sort of like disjunctive scenarios also
+
+1065
+00:47:38.593 --> 00:47:41.125
+that cause some problems actually for simple on a
+
+1066
+00:47:41.135 --> 00:47:43.595
+factual theories because you in your setting, right? It
+
+1067
+00:47:43.605 --> 00:47:45.406
+might very well be like, yeah, this person would
+
+1068
+00:47:45.416 --> 00:47:49.256
+have died anyhow, right? But now that doesn't mean
+
+1069
+00:47:49.266 --> 00:47:51.075
+that we don't want to cite any of these
+
+1070
+00:47:51.085 --> 00:47:53.305
+things like as a cause I'll give another kind
+
+1071
+00:47:53.315 --> 00:47:56.686
+of gruesome example of, of this uh scenario. So,
+
+1072
+00:47:56.756 --> 00:47:59.555
+so take a, take a firing squad, right? Where,
+
+1073
+00:47:59.565 --> 00:48:02.375
+where several people are shooting, you know, one person,
+
+1074
+00:48:02.385 --> 00:48:04.979
+you know, to, to kill them. And now according
+
+1075
+00:48:04.989 --> 00:48:07.239
+to some simple counterfactual theory, each of them might
+
+1076
+00:48:07.250 --> 00:48:09.209
+say like, well, I wasn't the cause of the
+
+1077
+00:48:09.219 --> 00:48:11.530
+person's death, right? Because if I hadn't shot, the
+
+1078
+00:48:11.540 --> 00:48:14.129
+person would still have died anyhow, right? Because this
+
+1079
+00:48:14.139 --> 00:48:16.280
+is a situation in which the outcome is causally
+
+1080
+00:48:16.290 --> 00:48:19.489
+over determined where there are many um causes that
+
+1081
+00:48:19.500 --> 00:48:22.409
+are individually already sufficient to make the outcome happen,
+
+1082
+00:48:22.419 --> 00:48:25.110
+right? And of course, and this is sometimes raised
+
+1083
+00:48:25.120 --> 00:48:27.800
+also as a problem, you know, for counterfactual theories,
+
+1084
+00:48:27.810 --> 00:48:31.070
+right? Um But people have, you know, addressed that
+
+1085
+00:48:31.080 --> 00:48:33.780
+right by saying that, OK, maybe the simple kind
+
+1086
+00:48:33.790 --> 00:48:36.459
+of factual theory is insufficient in these kinds of
+
+1087
+00:48:36.469 --> 00:48:38.750
+cases. So it's not just like imagining if the
+
+1088
+00:48:38.760 --> 00:48:41.179
+person hadn't done something. Um BUT you have to
+
+1089
+00:48:41.189 --> 00:48:43.949
+expand it and think about OK, what are possible
+
+1090
+00:48:43.959 --> 00:48:47.189
+counterfactual contingencies under which the person's action could have
+
+1091
+00:48:47.199 --> 00:48:49.810
+made a difference, right? And so, and that's, and
+
+1092
+00:48:49.820 --> 00:48:51.639
+these accounts have then been sort of, you know,
+
+1093
+00:48:51.649 --> 00:48:53.860
+worked out that make it such that, yeah, in
+
+1094
+00:48:53.870 --> 00:48:56.229
+this scenario, it's still the case that each person,
+
+1095
+00:48:56.239 --> 00:48:58.090
+you know, counts as a cause of the outcome
+
+1096
+00:48:58.620 --> 00:49:00.209
+that we might also have. And this relates a
+
+1097
+00:49:00.219 --> 00:49:02.179
+little bit to, you know what we were saying,
+
+1098
+00:49:02.189 --> 00:49:03.389
+we were going to get it at some point,
+
+1099
+00:49:03.399 --> 00:49:06.239
+you know, like responsibility and morality, you might still
+
+1100
+00:49:06.250 --> 00:49:08.399
+have a sense that their, that their degree of
+
+1101
+00:49:08.409 --> 00:49:12.050
+responsibility is reduced in such settings, right? That like
+
+1102
+00:49:12.060 --> 00:49:14.409
+when outcomes are strongly over determined, so this could
+
+1103
+00:49:14.419 --> 00:49:16.100
+happen in the firing squad, but it could also
+
+1104
+00:49:16.110 --> 00:49:19.135
+happen in an election, right? Um And it might
+
+1105
+00:49:19.145 --> 00:49:20.794
+make quite a big difference. But if you think
+
+1106
+00:49:20.804 --> 00:49:23.334
+like, let's take a small election, right? If the
+
+1107
+00:49:23.344 --> 00:49:26.375
+outcome was, you know, 10 against one versus the
+
+1108
+00:49:26.385 --> 00:49:28.564
+outcome was six versus five, but if it was
+
+1109
+00:49:28.574 --> 00:49:30.885
+six versus five, then each person probably feels high
+
+1110
+00:49:30.895 --> 00:49:33.145
+degree of responsibility for the outcome because if they
+
+1111
+00:49:33.155 --> 00:49:35.594
+just had voted differently, the outcome would have changed.
+
+1112
+00:49:35.899 --> 00:49:37.850
+Whereas if it's 10 to 1, then each of
+
+1113
+00:49:37.860 --> 00:49:40.739
+the person doesn't maybe feel as responsible because it
+
+1114
+00:49:40.750 --> 00:49:42.379
+would have needed a few other people, right? Uh
+
+1115
+00:49:42.389 --> 00:49:44.649
+TO change their mind such that they would have
+
+1116
+00:49:44.659 --> 00:49:46.419
+been in the position that they could have changed
+
+1117
+00:49:46.429 --> 00:49:49.719
+the outcome, right? And so, so, so yeah, so
+
+1118
+00:49:49.729 --> 00:49:52.600
+those things I think are um uh are interesting
+
+1119
+00:49:52.610 --> 00:49:54.540
+like that, that you pointed out in the COVID
+
+1120
+00:49:54.550 --> 00:49:57.479
+example, right? Those were examples of where outcomes were
+
+1121
+00:49:57.489 --> 00:50:01.219
+potentially causally over determined, right? And again, now you
+
+1122
+00:50:01.229 --> 00:50:02.810
+have a little bit of a choice, but you
+
+1123
+00:50:02.820 --> 00:50:05.000
+can say, oh, I choose this one and somebody
+
+1124
+00:50:05.010 --> 00:50:07.510
+says, well, I choose that one, right? And so,
+
+1125
+00:50:07.560 --> 00:50:07.899
+yeah,
+
+1126
+00:50:08.729 --> 00:50:13.429
+so before we get specifically into moral judgment and
+
+1127
+00:50:13.439 --> 00:50:17.810
+how people attribute moral, uh I mean, how basically
+
+1128
+00:50:17.820 --> 00:50:21.949
+they attribute moral responsibility, uh I have just one
+
+1129
+00:50:21.959 --> 00:50:24.389
+more thing that I wanted to ask you about.
+
+1130
+00:50:24.399 --> 00:50:28.044
+You also then work on how people learn about
+
+1131
+00:50:28.054 --> 00:50:32.794
+causal structure in a continuous time setting. So could
+
+1132
+00:50:32.804 --> 00:50:34.564
+you tell us about that? First of all, what
+
+1133
+00:50:34.574 --> 00:50:38.675
+is a continuous time setting? And then what do
+
+1134
+00:50:38.685 --> 00:50:40.594
+you study there specifically?
+
+1135
+00:50:41.239 --> 00:50:42.939
+Yeah, so this is much more in the, in
+
+1136
+00:50:42.949 --> 00:50:44.889
+the branch, right that I mentioned at the beginning,
+
+1137
+00:50:44.899 --> 00:50:46.580
+I mentioned these sort of, you know, three different
+
+1138
+00:50:46.679 --> 00:50:49.709
+uh domains, right of causal cognition, the causal learning
+
+1139
+00:50:49.719 --> 00:50:52.870
+part, the causal reasoning part and the causal judgment
+
+1140
+00:50:52.879 --> 00:50:55.469
+part. Um Most of my work has focused on
+
+1141
+00:50:55.479 --> 00:50:58.159
+the causal judgment explanation part also a little bit
+
+1142
+00:50:58.169 --> 00:51:00.550
+on the causal reasoning part like um that we
+
+1143
+00:51:00.560 --> 00:51:02.979
+have some work on how people can make inferences
+
+1144
+00:51:02.989 --> 00:51:05.810
+about what happened by using evidence from different sense
+
+1145
+00:51:05.820 --> 00:51:08.520
+modalities. Like so more like Sherlock Holmes, like um
+
+1146
+00:51:08.530 --> 00:51:10.939
+you know, vision and sound and in the causal
+
+1147
+00:51:10.949 --> 00:51:13.560
+learning domain, I've primarily worked with um a colleague
+
+1148
+00:51:13.570 --> 00:51:16.280
+of mine um he's a professor at um or
+
+1149
+00:51:16.290 --> 00:51:19.679
+lecturer at University of Edinburgh, Neil Bramley. Um AND,
+
+1150
+00:51:19.689 --> 00:51:21.040
+and he has done a really a lot of
+
+1151
+00:51:21.050 --> 00:51:23.239
+great work. Um AND, and, and in this case,
+
+1152
+00:51:23.250 --> 00:51:24.199
+some of the work that I'm going to be
+
+1153
+00:51:24.209 --> 00:51:27.010
+talking about is with his phd student, um Tia
+
+1154
+00:51:27.169 --> 00:51:31.760
+Wang Tia Gong. Um AND um on sort of
+
+1155
+00:51:31.770 --> 00:51:35.199
+causal learning and continuous time, right? Um So they're
+
+1156
+00:51:35.209 --> 00:51:37.010
+the ideas, right? So, so some of the work
+
+1157
+00:51:37.020 --> 00:51:39.669
+in causal learning and psychology has taken this kind
+
+1158
+00:51:39.679 --> 00:51:43.070
+of uh format where people get data that's kind
+
+1159
+00:51:43.080 --> 00:51:45.199
+of like in a contingency table, like you say,
+
+1160
+00:51:45.209 --> 00:51:47.919
+like sort of discrete chunks, right? It's like, you
+
+1161
+00:51:47.929 --> 00:51:51.040
+know, here are observations of, you know, let's say
+
+1162
+00:51:51.050 --> 00:51:53.110
+day one are this observations of day two are
+
+1163
+00:51:53.120 --> 00:51:54.959
+this or day three are this and maybe not
+
+1164
+00:51:54.969 --> 00:51:58.000
+even with days just like this kind of independent
+
+1165
+00:51:58.010 --> 00:52:01.040
+kind of, you know, discreet samples. And, and there's
+
+1166
+00:52:01.050 --> 00:52:03.270
+the realization that at least again, like you were
+
+1167
+00:52:03.280 --> 00:52:05.709
+saying, we ra we rarely do RCTS in our
+
+1168
+00:52:05.719 --> 00:52:08.360
+everyday life. Like our experience is not quite like
+
+1169
+00:52:08.370 --> 00:52:11.120
+that, right? When we interact with the world, of
+
+1170
+00:52:11.129 --> 00:52:14.179
+course, we experience the world in continuous time that
+
+1171
+00:52:14.189 --> 00:52:16.590
+just means like that time is not discreet, but
+
+1172
+00:52:16.600 --> 00:52:19.270
+it's just sort of, you know, ticking or yeah.
+
+1173
+00:52:19.540 --> 00:52:23.189
+Um um AND um and, and, and, and that
+
+1174
+00:52:23.199 --> 00:52:25.129
+often we don't know, kind of when, when let's
+
+1175
+00:52:25.139 --> 00:52:27.350
+say the first trial ends and the second trial
+
+1176
+00:52:27.360 --> 00:52:29.320
+begins, that's what we have in an experiment. But
+
+1177
+00:52:29.330 --> 00:52:30.909
+in the real world, we don't know. Right. If
+
+1178
+00:52:30.919 --> 00:52:33.189
+I'm again trying to figure out, you know, why,
+
+1179
+00:52:33.199 --> 00:52:35.669
+why my stomach is upset, you know, I don't
+
+1180
+00:52:35.679 --> 00:52:37.219
+know. Was it because of something that I ate,
+
+1181
+00:52:37.229 --> 00:52:39.379
+you know, yesterday or, or two days ago or
+
+1182
+00:52:39.389 --> 00:52:42.219
+because I'm stressed or? Right. There's many, many things
+
+1183
+00:52:42.229 --> 00:52:44.959
+and I sometimes don't know exactly uh, what the
+
+1184
+00:52:44.969 --> 00:52:48.840
+delays are between like, some, some cause. Right. And,
+
+1185
+00:52:48.850 --> 00:52:51.520
+and the effect and that makes, that makes this
+
+1186
+00:52:51.530 --> 00:52:54.750
+a very challenging problem, right? To make causal inferences
+
+1187
+00:52:54.760 --> 00:52:58.659
+in, in continuous time. And so, um but then,
+
+1188
+00:52:58.669 --> 00:53:00.179
+yeah, with Neil and Tia, we sort of, you
+
+1189
+00:53:00.189 --> 00:53:04.100
+know, tackled, tackled that problem um by using again
+
+1190
+00:53:04.110 --> 00:53:06.070
+this kind of paradigm that's quite often used in
+
+1191
+00:53:06.080 --> 00:53:08.379
+causal learning where you think of some kind of
+
+1192
+00:53:08.389 --> 00:53:10.629
+um graph structure. So you have sort of separate
+
+1193
+00:53:10.639 --> 00:53:12.770
+variables from the graphs and what you're trying to
+
+1194
+00:53:12.780 --> 00:53:14.939
+figure out is how those variables are connected to
+
+1195
+00:53:14.949 --> 00:53:17.860
+one another, right? Is it like that A causes
+
+1196
+00:53:17.870 --> 00:53:19.979
+B or that B causes A and so on?
+
+1197
+00:53:20.250 --> 00:53:22.189
+But now in the setting, right, we could, we,
+
+1198
+00:53:22.199 --> 00:53:25.820
+we observed the activations of those variables or which
+
+1199
+00:53:25.830 --> 00:53:27.639
+was little blobs like on the screen, you know,
+
+1200
+00:53:27.649 --> 00:53:30.719
+the participants would see in continuous time. So something
+
+1201
+00:53:30.729 --> 00:53:32.830
+would put up, something else would pop up and
+
+1202
+00:53:32.840 --> 00:53:34.489
+so on. So you would see these kind of
+
+1203
+00:53:34.500 --> 00:53:37.580
+like, you know, patterns of things flashing. Um And
+
+1204
+00:53:37.590 --> 00:53:39.060
+you were trying to figure out, OK, you know
+
+1205
+00:53:39.070 --> 00:53:41.409
+what causes what here and it's a challenging problem.
+
+1206
+00:53:41.419 --> 00:53:44.110
+And, but we allowed participants also in that setup
+
+1207
+00:53:44.120 --> 00:53:47.540
+to then um uh take interventions. So make one
+
+1208
+00:53:47.550 --> 00:53:49.860
+of the blobs, you know, cause it yourself, right?
+
+1209
+00:53:50.120 --> 00:53:53.030
+And also interventions that would turn things off, right?
+
+1210
+00:53:53.040 --> 00:53:54.459
+So you could say like, no, I don't want,
+
+1211
+00:53:54.469 --> 00:53:55.919
+I want to turn this part off now the
+
+1212
+00:53:55.929 --> 00:53:58.810
+system and turn this one on and, and there's
+
+1213
+00:53:58.820 --> 00:54:00.409
+a lot of details like in kind of, you
+
+1214
+00:54:00.419 --> 00:54:01.580
+know, what it is that we found, but I
+
+1215
+00:54:01.590 --> 00:54:04.899
+just sort of highlight um, a few things. Um,
+
+1216
+00:54:04.909 --> 00:54:06.840
+IT turns out this is the kind of paradigm
+
+1217
+00:54:06.850 --> 00:54:09.469
+where, where then uh in terms of causal learning,
+
+1218
+00:54:09.479 --> 00:54:12.219
+people hit like a limit in what it is
+
+1219
+00:54:12.229 --> 00:54:14.719
+that they can process like, you know, relatively quickly.
+
+1220
+00:54:14.729 --> 00:54:16.489
+So if you take some kind of, you know,
+
+1221
+00:54:16.500 --> 00:54:19.324
+normative model here, that doesn't have any, um, kind
+
+1222
+00:54:19.334 --> 00:54:22.915
+of memory constraints, you know, perceives everything, then for
+
+1223
+00:54:22.925 --> 00:54:26.364
+such a model, like more stuff is always better,
+
+1224
+00:54:26.375 --> 00:54:28.205
+right? So it's sort of, um, it could, it
+
+1225
+00:54:28.215 --> 00:54:31.314
+could, it can, it can tease everything, um, apart
+
+1226
+00:54:31.324 --> 00:54:33.604
+and it can, um, whereas for, for a human
+
+1227
+00:54:33.614 --> 00:54:36.639
+learner, that's not necessarily true, right? It's like, um,
+
+1228
+00:54:36.649 --> 00:54:38.219
+sort of like, you know, when you drink from
+
+1229
+00:54:38.229 --> 00:54:40.340
+a, from a fire hose, right? And you all
+
+1230
+00:54:40.350 --> 00:54:42.110
+the water splashes in your face, you're not going
+
+1231
+00:54:42.120 --> 00:54:43.189
+to be able to drink from it, but you'd
+
+1232
+00:54:43.199 --> 00:54:45.260
+have to sort of sip a little bit from
+
+1233
+00:54:45.270 --> 00:54:46.989
+the side right to actually be able to drink
+
+1234
+00:54:47.000 --> 00:54:49.300
+water from, from a, from a fire hose. And
+
+1235
+00:54:49.310 --> 00:54:51.139
+that's what we saw roughly what people were doing
+
+1236
+00:54:51.149 --> 00:54:52.949
+in a paradigm like that. Right. They were really
+
+1237
+00:54:52.959 --> 00:54:57.239
+orchestrating evidence by sort of preventing things from happening
+
+1238
+00:54:57.250 --> 00:54:59.780
+in such a way such that, um, they would
+
+1239
+00:54:59.790 --> 00:55:02.850
+get, um, a good amount of information that they
+
+1240
+00:55:02.860 --> 00:55:05.129
+could still deal with, right, to make inferences about
+
+1241
+00:55:05.139 --> 00:55:08.159
+the underlying structure, um, but would not be overwhelmed
+
+1242
+00:55:08.169 --> 00:55:10.830
+with information such that they wouldn't be able to
+
+1243
+00:55:10.840 --> 00:55:13.800
+um process it anymore. So this was sort of
+
+1244
+00:55:13.810 --> 00:55:15.489
+um one of the high level findings that we
+
+1245
+00:55:15.500 --> 00:55:17.489
+had um in, in that kind of work.
+
+1246
+00:55:18.080 --> 00:55:23.610
+Mhm So let's get into responsibility here then. So
+
+1247
+00:55:23.770 --> 00:55:28.679
+how does causal cognition? Basically everything we've been talking
+
+1248
+00:55:28.689 --> 00:55:33.449
+about here connect to all people, attribute responsibility to
+
+1249
+00:55:33.459 --> 00:55:34.419
+other people.
+
+1250
+00:55:34.830 --> 00:55:37.909
+Yeah. Yeah. So I think we're quite closely connected
+
+1251
+00:55:37.919 --> 00:55:40.760
+um to, to one another and, and, and I
+
+1252
+00:55:40.770 --> 00:55:43.040
+personally, at least when I, when I think about
+
+1253
+00:55:43.050 --> 00:55:45.560
+um responsibility, I think that there are at least
+
+1254
+00:55:45.570 --> 00:55:48.350
+like two higher level questions or kind of key
+
+1255
+00:55:48.360 --> 00:55:51.399
+questions that we um kind of need to ask
+
+1256
+00:55:51.409 --> 00:55:54.040
+ourselves when thinking about the extent to which we
+
+1257
+00:55:54.050 --> 00:55:56.889
+think somebody um you know, is responsible for some
+
+1258
+00:55:56.899 --> 00:56:00.449
+outcome. And one is really sort of just the
+
+1259
+00:56:00.459 --> 00:56:03.030
+causal question, right? It's just saying like, OK, to
+
+1260
+00:56:03.040 --> 00:56:05.250
+what extent do I believe that the actions that
+
+1261
+00:56:05.260 --> 00:56:09.500
+they took? Right? Cause this negative outcome to happen.
+
+1262
+00:56:09.540 --> 00:56:11.270
+Right. And there, we just back to kind of,
+
+1263
+00:56:11.280 --> 00:56:15.229
+you know, a counterfactual world. Um, AND, and, and,
+
+1264
+00:56:15.239 --> 00:56:17.500
+but also kind of counterfactual world, of course, becomes
+
+1265
+00:56:17.510 --> 00:56:19.560
+a little bit more difficult when we now have,
+
+1266
+00:56:19.570 --> 00:56:21.379
+you know, people as the target where we're trying
+
+1267
+00:56:21.389 --> 00:56:23.669
+to think about as opposed to, again, some physical
+
+1268
+00:56:23.679 --> 00:56:25.679
+object or so, because when we're thinking about a
+
+1269
+00:56:25.689 --> 00:56:28.439
+physical object, maybe it's the kind of factual that
+
+1270
+00:56:28.449 --> 00:56:30.179
+comes to mind is sort of natural. Well, what
+
+1271
+00:56:30.189 --> 00:56:32.179
+if that object hadn't been there? But when we
+
+1272
+00:56:32.189 --> 00:56:35.330
+think about people as causes, it's not necessarily clear
+
+1273
+00:56:35.340 --> 00:56:37.560
+that the right kind of factual is them not
+
+1274
+00:56:37.570 --> 00:56:39.699
+having been there, right? If I think for example
+
+1275
+00:56:39.709 --> 00:56:43.030
+about um, oh, to what extent is, you know,
+
+1276
+00:56:43.040 --> 00:56:47.360
+Steph Curry, the point guard of the, of the
+
+1277
+00:56:47.370 --> 00:56:49.689
+warriors and to what extent is he responsible, you
+
+1278
+00:56:49.699 --> 00:56:51.810
+know, for the performance of the warriors? It's not
+
+1279
+00:56:51.820 --> 00:56:53.649
+that you're going to think like, ok, what would
+
+1280
+00:56:53.659 --> 00:56:55.590
+have happened if they had played four against five
+
+1281
+00:56:55.600 --> 00:56:57.989
+instead, right? Just removing him, you know, from from
+
+1282
+00:56:58.000 --> 00:57:00.590
+the scene. But maybe the right kind of counter
+
+1283
+00:57:00.629 --> 00:57:03.030
+factual in this case. And my, my, my student,
+
+1284
+00:57:03.040 --> 00:57:04.830
+Sarah Wu has done some great work on that.
+
+1285
+00:57:04.840 --> 00:57:07.455
+But thinking about the kind of factual operation here
+
+1286
+00:57:07.465 --> 00:57:10.395
+as an operation of replacement, right? Thinking about, well,
+
+1287
+00:57:10.405 --> 00:57:12.935
+what would have happened because replacement seems the relevant
+
+1288
+00:57:12.945 --> 00:57:14.754
+kind of factual intervention here because we know how
+
+1289
+00:57:14.764 --> 00:57:16.875
+basketball works is like, if one player is not
+
+1290
+00:57:16.885 --> 00:57:19.574
+there, they're replaced with someone else, right? And then
+
+1291
+00:57:19.584 --> 00:57:21.054
+the idea is like, how well would they have
+
+1292
+00:57:21.064 --> 00:57:23.635
+done, you know, with this person, you know. Um
+
+1293
+00:57:23.645 --> 00:57:28.399
+SO, so the causal analysis becomes more complicated potentially
+
+1294
+00:57:28.409 --> 00:57:30.989
+when we think about people. But nonetheless, I think
+
+1295
+00:57:31.000 --> 00:57:33.360
+that um counterfactual theories are still like a key
+
+1296
+00:57:33.370 --> 00:57:36.590
+part to answering that causal question. So that's one
+
+1297
+00:57:36.600 --> 00:57:38.649
+key component, what caused a role that the person's
+
+1298
+00:57:38.659 --> 00:57:42.060
+action play in bringing about the outcome. And then
+
+1299
+00:57:42.070 --> 00:57:44.679
+a second key component I believe is what the
+
+1300
+00:57:44.689 --> 00:57:48.729
+action actually tells us about the person, right? And
+
+1301
+00:57:48.739 --> 00:57:51.399
+they sort of our intuitive psychology is critical, right?
+
+1302
+00:57:51.409 --> 00:57:53.520
+So we, we, of course, don't get to observe
+
+1303
+00:57:53.530 --> 00:57:56.199
+people's mental states, you know, directly, all we get
+
+1304
+00:57:56.209 --> 00:57:58.000
+to see is the actions that they take, you
+
+1305
+00:57:58.010 --> 00:57:59.760
+know, the words that they say and so on.
+
+1306
+00:58:00.179 --> 00:58:02.899
+But from those we can make inferences because again,
+
+1307
+00:58:02.909 --> 00:58:05.500
+we have a causal understanding of how people work,
+
+1308
+00:58:05.510 --> 00:58:08.459
+right? Where at least a simple kind of intuitive
+
+1309
+00:58:08.469 --> 00:58:10.610
+theory of psychology is something along the lines of
+
+1310
+00:58:10.620 --> 00:58:14.320
+like, ok, people have beliefs and desires and maybe
+
+1311
+00:58:14.330 --> 00:58:16.489
+they form intentions as part of that and those
+
+1312
+00:58:16.500 --> 00:58:19.510
+intentions bring about actions, right? And so now if
+
+1313
+00:58:19.520 --> 00:58:21.889
+I observe some action and maybe I know something
+
+1314
+00:58:21.899 --> 00:58:23.899
+about what the beliefs of the person are that
+
+1315
+00:58:23.909 --> 00:58:26.179
+allows me to make inferences about what their desires
+
+1316
+00:58:26.189 --> 00:58:29.280
+must have been, right? And so if I believe
+
+1317
+00:58:29.290 --> 00:58:32.479
+that this action um that I observed somebody taking
+
+1318
+00:58:32.489 --> 00:58:35.860
+is actually indicative of a bad desire, right? Like,
+
+1319
+00:58:35.870 --> 00:58:38.159
+oh they wanted for this negative outcome to happen.
+
+1320
+00:58:38.250 --> 00:58:41.419
+Then this is also something that will contribute to
+
+1321
+00:58:41.429 --> 00:58:45.149
+my assessment of responsibility, right? It's saying like um
+
+1322
+00:58:45.439 --> 00:58:48.629
+intuitively, right? If something happens accidentally as an outcome,
+
+1323
+00:58:48.639 --> 00:58:50.489
+I realize like, oh yeah, they were the cause
+
+1324
+00:58:50.540 --> 00:58:52.949
+but they didn't want that, right? I'm not gonna
+
+1325
+00:58:52.959 --> 00:58:56.100
+attribute them as much responsibility. Then when I believe
+
+1326
+00:58:56.110 --> 00:58:59.080
+that they actually brought this about intentionally, they wanted
+
+1327
+00:58:59.090 --> 00:59:01.379
+for this to happen. Um And so I think
+
+1328
+00:59:01.389 --> 00:59:03.989
+these two components are sort of critical when thinking
+
+1329
+00:59:04.000 --> 00:59:06.649
+about responsibility, there may be other factors but those
+
+1330
+00:59:06.659 --> 00:59:08.540
+are things that I have, I'm focused on in,
+
+1331
+00:59:08.550 --> 00:59:09.620
+in, in my research.
+
+1332
+00:59:10.830 --> 00:59:16.899
+Uh AND what about specifically evaluating uh or re
+
+1333
+00:59:16.939 --> 00:59:22.080
+I, I mean, attributing moral judgments to people uh
+
+1334
+00:59:22.090 --> 00:59:26.149
+in function uh of their knowledge, I mean, if
+
+1335
+00:59:26.159 --> 00:59:30.149
+they were knowledgeable or if they were ignorant, I
+
+1336
+00:59:30.159 --> 00:59:34.449
+mean, basically what they knew beforehand, does that matter
+
+1337
+00:59:34.459 --> 00:59:39.090
+to how we hold them responsible for a particular
+
+1338
+00:59:39.100 --> 00:59:40.199
+negative outcome?
+
+1339
+00:59:40.689 --> 00:59:42.750
+Yeah, it certainly does. And I think it actually
+
+1340
+00:59:42.760 --> 00:59:46.469
+affects both of those components, right? Um Because so
+
+1341
+00:59:46.479 --> 00:59:48.370
+the components write about what sort of kind of
+
+1342
+00:59:48.379 --> 00:59:51.800
+factuals come to mind as well, which, which are
+
+1343
+00:59:51.810 --> 00:59:54.879
+relevant to the causal assessment of what, what, you
+
+1344
+00:59:54.889 --> 00:59:56.879
+know, what role the action played as well as
+
+1345
+00:59:56.889 --> 00:59:58.389
+the kind of inferences that I make about the
+
+1346
+00:59:58.399 --> 01:00:01.389
+person, right? But the first part, right. The kind
+
+1347
+01:00:01.399 --> 01:00:03.320
+of factuals that come to mind about, you know,
+
+1348
+01:00:03.330 --> 01:00:06.245
+what they could have done differently will differ. Depending
+
+1349
+01:00:06.254 --> 01:00:08.465
+on if I, if I believe that they knew,
+
+1350
+01:00:08.475 --> 01:00:11.064
+right. If they, if I believe that they knew
+
+1351
+01:00:11.125 --> 01:00:14.044
+what the consequences of their action are, right, then
+
+1352
+01:00:14.054 --> 01:00:16.044
+I think like, well, why did you do that?
+
+1353
+01:00:16.054 --> 01:00:18.324
+You should have done something differently. Right. If I
+
+1354
+01:00:18.334 --> 01:00:20.824
+believe that they were ignorant about what the consequences
+
+1355
+01:00:20.834 --> 01:00:23.004
+of their actions, you know, would be, then there's
+
+1356
+01:00:23.014 --> 01:00:26.219
+no reason to kind of see them in that
+
+1357
+01:00:26.229 --> 01:00:28.729
+sense as the cause of the outcome because it's
+
+1358
+01:00:28.739 --> 01:00:30.590
+not like, you know, they didn't know. So it's
+
+1359
+01:00:30.600 --> 01:00:33.689
+not like they, they um it's a natural thought
+
+1360
+01:00:33.699 --> 01:00:35.110
+to think about, oh, they should have done something
+
+1361
+01:00:35.120 --> 01:00:38.489
+different, right? So the, so the knowledge component influences
+
+1362
+01:00:38.500 --> 01:00:40.870
+what kind of factuals come to mind when assessing
+
+1363
+01:00:40.879 --> 01:00:43.689
+the causal role. And it also matters for the
+
+1364
+01:00:43.699 --> 01:00:45.729
+kind of inferences that we make about the person,
+
+1365
+01:00:45.739 --> 01:00:48.250
+right? Because again, if we know that somebody knew
+
+1366
+01:00:48.260 --> 01:00:50.260
+that this would have a negative consequence that this
+
+1367
+01:00:50.270 --> 01:00:53.570
+would harm someone and they did it nonetheless. Well,
+
+1368
+01:00:53.580 --> 01:00:56.090
+that tells me that they wanted that, that they
+
+1369
+01:00:56.100 --> 01:00:57.429
+wanted that to happen or that they were at
+
+1370
+01:00:57.439 --> 01:00:59.909
+least willing, you know, to make it happen. Whereas
+
+1371
+01:00:59.919 --> 01:01:02.479
+if somebody did not know that this was going
+
+1372
+01:01:02.489 --> 01:01:04.929
+to harm someone, I'm not licensed to make that
+
+1373
+01:01:04.939 --> 01:01:07.090
+inference, right? I can still think like, oh, they
+
+1374
+01:01:07.100 --> 01:01:09.090
+actually didn't know that was gonna happen, they didn't
+
+1375
+01:01:09.100 --> 01:01:11.669
+want for this to happen. So, so on both
+
+1376
+01:01:11.679 --> 01:01:13.879
+of those uh both for both of those parts,
+
+1377
+01:01:13.889 --> 01:01:16.580
+right? Knowledge is sort of um uh really critical
+
+1378
+01:01:17.060 --> 01:01:19.459
+and one interesting kind of um project also that
+
+1379
+01:01:19.469 --> 01:01:22.030
+I kind of quickly um you know, give a
+
+1380
+01:01:22.040 --> 01:01:23.449
+shout out to you on that front is from
+
+1381
+01:01:23.459 --> 01:01:26.439
+my um uh from my postdoc Lara Kel, she's
+
+1382
+01:01:26.449 --> 01:01:28.330
+looked at, at willful ignorance. So this is an
+
+1383
+01:01:28.340 --> 01:01:31.550
+interesting phenomenon where, where somebody is, you know, willingly
+
+1384
+01:01:31.560 --> 01:01:34.580
+ignorant, right? Um And you know, maybe some of
+
+1385
+01:01:34.590 --> 01:01:36.300
+us can kind of, you know, resonate with that
+
+1386
+01:01:36.310 --> 01:01:38.280
+idea. Maybe some of us have, have sort of,
+
+1387
+01:01:38.290 --> 01:01:40.760
+you know, um you know, in, in Germany, if
+
+1388
+01:01:40.770 --> 01:01:43.739
+you take the, you know, the underground and um
+
+1389
+01:01:43.750 --> 01:01:46.419
+in Berlin, like, you know, you, you can board
+
+1390
+01:01:46.429 --> 01:01:48.389
+without a ticket, right? And you could try and
+
+1391
+01:01:48.399 --> 01:01:49.560
+get away with saying, oh, I didn't know you
+
+1392
+01:01:49.570 --> 01:01:51.090
+needed a ticket. I mean, you're probably not going
+
+1393
+01:01:51.100 --> 01:01:53.500
+to get away with that, right? Because, um, you
+
+1394
+01:01:53.510 --> 01:01:56.590
+know, in this case, like the ignorance doesn't protect
+
+1395
+01:01:56.600 --> 01:01:59.229
+you from, from the punishment in this case. Uh
+
+1396
+01:01:59.239 --> 01:02:01.949
+But nonetheless, it sometimes feels like, yeah, we, we,
+
+1397
+01:02:01.959 --> 01:02:04.489
+we are shielding ourselves from certain knowledge. We don't
+
+1398
+01:02:04.500 --> 01:02:07.030
+want to know certain things partly because maybe sometimes
+
+1399
+01:02:07.040 --> 01:02:10.040
+you might think that um um if I knew
+
+1400
+01:02:10.050 --> 01:02:11.949
+that that might give me a reason not to
+
+1401
+01:02:11.959 --> 01:02:15.560
+do it, right? Um So, so one example is
+
+1402
+01:02:15.570 --> 01:02:17.239
+like, people might, a lot of people might be
+
+1403
+01:02:17.250 --> 01:02:20.780
+quite willfully ignorant about, you know, how, how, you
+
+1404
+01:02:20.790 --> 01:02:23.580
+know, a cow is being turned into a steak.
+
+1405
+01:02:23.590 --> 01:02:26.250
+Right. So, they know it's happening, right. But they
+
+1406
+01:02:26.260 --> 01:02:29.060
+don't necessarily want to see the process, right. Because
+
+1407
+01:02:29.070 --> 01:02:31.320
+they really like eating steaks and they feel like
+
+1408
+01:02:31.330 --> 01:02:34.520
+having the relevant knowledge of how this happens might
+
+1409
+01:02:34.530 --> 01:02:38.219
+make them enjoy the steak somewhat less. Right. Um,
+
+1410
+01:02:38.239 --> 01:02:40.639
+AND there's many sort of, you know, phenomenon uh
+
+1411
+01:02:40.649 --> 01:02:42.800
+like that. And so we were just interested right,
+
+1412
+01:02:42.810 --> 01:02:46.489
+in how, how people attribute responsibility to willfully ignorant
+
+1413
+01:02:46.500 --> 01:02:50.219
+agents, right? So agents that um uh make it
+
+1414
+01:02:50.229 --> 01:02:52.290
+such that they don't know. Right? And we find
+
+1415
+01:02:52.300 --> 01:02:55.110
+that it does attenuate the responsibility, attribution like to
+
+1416
+01:02:55.120 --> 01:02:58.149
+some extent. Um But it's not like the same
+
+1417
+01:02:58.159 --> 01:02:59.830
+on the same level as somebody who is, you
+
+1418
+01:02:59.840 --> 01:03:03.620
+know, ignorant. So without, you know, having, um um
+
+1419
+01:03:03.639 --> 01:03:06.620
+having sort of taken actions to get into that
+
+1420
+01:03:06.629 --> 01:03:09.620
+um position of, of ignorance. So, so, yeah, in
+
+1421
+01:03:09.629 --> 01:03:13.010
+short, you know, uh the states of knowledge are
+
+1422
+01:03:13.020 --> 01:03:16.020
+key, right? For both of those components. And um,
+
+1423
+01:03:16.030 --> 01:03:19.040
+yeah, willful ignorance is this interesting intermediate state that,
+
+1424
+01:03:19.050 --> 01:03:21.489
+that, that I at least have only started to
+
+1425
+01:03:21.500 --> 01:03:21.979
+explore.
+
+1426
+01:03:22.340 --> 01:03:27.340
+Mhm. So perhaps there's an element of plausible deniability
+
+1427
+01:03:27.350 --> 01:03:30.699
+here when it comes to willful ignorance because if
+
+1428
+01:03:30.709 --> 01:03:36.320
+you actually don't know, even though perhaps you, you
+
+1429
+01:03:36.330 --> 01:03:41.399
+suspect that you should try to learn about that
+
+1430
+01:03:41.409 --> 01:03:44.959
+specific thing, perhaps it's easier for you to deny
+
+1431
+01:03:45.050 --> 01:03:46.199
+responsibility
+
+1432
+01:03:46.530 --> 01:03:49.370
+that you're, you're exactly right. That's one key motivation
+
+1433
+01:03:49.379 --> 01:03:51.639
+that we think for why sometimes people may choose
+
+1434
+01:03:51.649 --> 01:03:54.020
+to be willfully ignorant. Right. They might, they might
+
+1435
+01:03:54.030 --> 01:03:57.030
+choose it in a situation where they, they're pretty
+
+1436
+01:03:57.040 --> 01:03:59.739
+sure you know what it would be, but they
+
+1437
+01:03:59.750 --> 01:04:02.320
+don't want to know for sure such that when
+
+1438
+01:04:02.330 --> 01:04:04.979
+it happens they can be in the situation of
+
+1439
+01:04:04.989 --> 01:04:07.530
+plausible deniability and then say, like, well, I didn't
+
+1440
+01:04:07.540 --> 01:04:10.159
+know. Right. And so that might be, and, and
+
+1441
+01:04:10.169 --> 01:04:13.989
+that only works, right? Because of course, people are
+
+1442
+01:04:14.000 --> 01:04:16.923
+sensitive to knowledge, right? The fact that that could
+
+1443
+01:04:16.933 --> 01:04:18.822
+in principle count as an excuse, right? That you
+
+1444
+01:04:18.833 --> 01:04:22.113
+didn't know already shows that, um, right. That's a
+
+1445
+01:04:22.123 --> 01:04:25.153
+relevant component when people are attributing, you know, um,
+
+1446
+01:04:25.163 --> 01:04:28.062
+when people are making moral judgments or attributing responsibility,
+
+1447
+01:04:28.312 --> 01:04:32.423
+I imagine that probably one of the darker examples
+
+1448
+01:04:32.433 --> 01:04:35.333
+of that would be someone who suspects that they
+
+1449
+01:04:35.343 --> 01:04:39.173
+might be infected with an ST I, but then
+
+1450
+01:04:39.183 --> 01:04:42.083
+they don't test for it because they want to
+
+1451
+01:04:42.093 --> 01:04:45.805
+keep having sex or, or whatever. I mean, just
+
+1452
+01:04:45.815 --> 01:04:52.666
+partying without assuming responsibility for what they might do
+
+1453
+01:04:52.676 --> 01:04:53.825
+to other people.
+
+1454
+01:04:53.996 --> 01:04:56.865
+That's, that's right. Or, or also like COVID again
+
+1455
+01:04:56.875 --> 01:04:59.865
+is another example. Right. So you, you suspect that
+
+1456
+01:04:59.875 --> 01:05:01.256
+you might have it, you know, you have a
+
+1457
+01:05:01.266 --> 01:05:04.305
+cold, you coughing, but there's this event that you
+
+1458
+01:05:04.315 --> 01:05:06.446
+really want to go to. Right? And so you're
+
+1459
+01:05:06.456 --> 01:05:08.045
+not going to do the test because you don't
+
+1460
+01:05:08.055 --> 01:05:09.916
+want to find out, right? And then it feels,
+
+1461
+01:05:09.926 --> 01:05:11.506
+and then you sort of feel like, oh, I
+
+1462
+01:05:11.516 --> 01:05:14.070
+didn't know, you know that I have it. And
+
+1463
+01:05:14.080 --> 01:05:16.330
+whereas of course, if you did do the test
+
+1464
+01:05:16.340 --> 01:05:18.090
+and you found out you had it, you might
+
+1465
+01:05:18.100 --> 01:05:20.120
+feel like uh now I feel even more shitty,
+
+1466
+01:05:20.129 --> 01:05:21.530
+you know, it's a goal. So this is another
+
+1467
+01:05:21.540 --> 01:05:24.280
+kind of example that probably uh people can kind
+
+1468
+01:05:24.290 --> 01:05:25.370
+of, you know, relate to.
+
+1469
+01:05:26.090 --> 01:05:30.310
+So you mentioned intentions earlier, tell us a little
+
+1470
+01:05:30.320 --> 01:05:33.219
+bit more about that. What role does an agent's
+
+1471
+01:05:33.229 --> 01:05:38.669
+intentions play in the evaluation of moral permissibility, basically?
+
+1472
+01:05:39.010 --> 01:05:41.129
+Yeah, so intentions I think are really key, right?
+
+1473
+01:05:41.139 --> 01:05:44.139
+So intentions give us about give us information again
+
+1474
+01:05:44.149 --> 01:05:46.110
+often we don't, we don't know it directly but
+
+1475
+01:05:46.120 --> 01:05:49.189
+we just know what action somebody took. But intention
+
+1476
+01:05:49.199 --> 01:05:51.489
+is that yes, OK, that's the thing that they,
+
+1477
+01:05:51.500 --> 01:05:53.689
+that they wanted to bring about, right? That was
+
+1478
+01:05:53.699 --> 01:05:58.080
+the goal like of their action. And um and
+
+1479
+01:05:58.090 --> 01:06:00.360
+so um to kind of give maybe a little
+
+1480
+01:06:00.370 --> 01:06:02.209
+bit of a sort of intuition about how we
+
+1481
+01:06:02.219 --> 01:06:04.629
+can tell, you know, one thing apart from another,
+
+1482
+01:06:04.639 --> 01:06:06.129
+right? So we can say like, OK, if somebody
+
+1483
+01:06:06.139 --> 01:06:08.739
+takes some action, there might be like an intended
+
+1484
+01:06:08.750 --> 01:06:11.500
+consequence of that action. So that's the, that's the
+
+1485
+01:06:11.510 --> 01:06:14.360
+outcome that they want to make happen. That's the,
+
+1486
+01:06:14.679 --> 01:06:17.120
+that's the the cause of them acting in that
+
+1487
+01:06:17.129 --> 01:06:19.290
+way. And there might also be certain side effects
+
+1488
+01:06:19.300 --> 01:06:21.300
+that are happening from the action that they're taking.
+
+1489
+01:06:21.310 --> 01:06:24.659
+But those side effects were not necessarily intended, right?
+
+1490
+01:06:24.669 --> 01:06:26.780
+Those were just like things that they also foresaw
+
+1491
+01:06:26.790 --> 01:06:30.620
+maybe would happen. Um, um, AND so, so in
+
+1492
+01:06:30.629 --> 01:06:32.100
+the, in the case, unfortunately, we have a lot
+
+1493
+01:06:32.110 --> 01:06:33.979
+of, you know, wars going on at the moment.
+
+1494
+01:06:34.209 --> 01:06:36.510
+Uh, NOW, so what you might say, oh, intended
+
+1495
+01:06:36.520 --> 01:06:39.320
+things are like, you know, harming like the enemy
+
+1496
+01:06:39.330 --> 01:06:42.810
+and then side effects would be harming civilians, right?
+
+1497
+01:06:42.820 --> 01:06:45.199
+Um And you know, that's not what you want
+
+1498
+01:06:45.209 --> 01:06:47.889
+to do, but certain actions like on, you know,
+
+1499
+01:06:47.899 --> 01:06:51.110
+the enemies cannot be taken without, you know, also,
+
+1500
+01:06:51.280 --> 01:06:54.820
+um bringing about the the unintended side effect in
+
+1501
+01:06:54.830 --> 01:06:57.659
+this case and, and how can we tell apart,
+
+1502
+01:06:57.669 --> 01:06:59.820
+at least in principle kind of what's what, right?
+
+1503
+01:07:00.010 --> 01:07:02.360
+The idea is here that you can again use
+
+1504
+01:07:02.370 --> 01:07:06.179
+a counterfactual analysis. Um And, but now the counterfactual
+
+1505
+01:07:06.189 --> 01:07:08.219
+is applied like, you know, because now it's in
+
+1506
+01:07:08.229 --> 01:07:09.889
+our mind, right? Like the intention is, is a
+
+1507
+01:07:09.899 --> 01:07:12.169
+mental state, right? The counter factual is not applied
+
+1508
+01:07:12.179 --> 01:07:14.110
+now in some sense, you know, to something in
+
+1509
+01:07:14.120 --> 01:07:16.439
+the world like to the relationship between like the
+
+1510
+01:07:16.449 --> 01:07:19.439
+action and the outcome, but rather to the relationship
+
+1511
+01:07:19.449 --> 01:07:24.080
+between um um yeah, the the intended outcome in
+
+1512
+01:07:24.090 --> 01:07:26.659
+the world and the kind of decision the plan
+
+1513
+01:07:26.669 --> 01:07:28.870
+that the person made. So the idea is that
+
+1514
+01:07:28.879 --> 01:07:30.959
+if you want to tell apart um from, you
+
+1515
+01:07:30.969 --> 01:07:32.870
+know, what somebody did, what was intended and what
+
+1516
+01:07:32.879 --> 01:07:35.610
+wasn't the intended thing is the thing that makes
+
+1517
+01:07:35.620 --> 01:07:37.830
+a difference to the person's decision or to the
+
+1518
+01:07:37.840 --> 01:07:40.830
+person's plan, right? Such that if that had been
+
+1519
+01:07:40.840 --> 01:07:43.290
+different, the person would have taken a different decision,
+
+1520
+01:07:43.300 --> 01:07:45.530
+would have taken a different action. Whereas the side
+
+1521
+01:07:45.540 --> 01:07:48.909
+effect, that's not the thing that changes the person's
+
+1522
+01:07:48.919 --> 01:07:51.879
+kind of decision or plan. Right. And so, um
+
+1523
+01:07:51.889 --> 01:07:55.320
+with my colleague, Max Kleinman Weiner, we've explored this
+
+1524
+01:07:55.330 --> 01:07:56.889
+in the context of sort of, you know, trolley
+
+1525
+01:07:56.899 --> 01:08:00.239
+dilemmas. So that's a very, you know, uh common,
+
+1526
+01:08:00.250 --> 01:08:03.959
+um you know, uh paradigm in, in moral psychology,
+
+1527
+01:08:03.969 --> 01:08:05.899
+right? That maybe most people are familiar with where
+
+1528
+01:08:05.909 --> 01:08:08.760
+there's a runaway trolley and then somebody has to
+
+1529
+01:08:08.770 --> 01:08:11.189
+decide whether or not to turn a switch where
+
+1530
+01:08:11.199 --> 01:08:13.239
+the switch would redirect the trolley, right? If they
+
+1531
+01:08:13.250 --> 01:08:15.530
+don't turn the switch, um the people who are
+
+1532
+01:08:15.540 --> 01:08:17.370
+on the main track, you know, would die, maybe
+
+1533
+01:08:17.379 --> 01:08:19.240
+there's five people like on the main track, you
+
+1534
+01:08:19.250 --> 01:08:22.100
+know, who would die. Um And, but if, if
+
+1535
+01:08:22.109 --> 01:08:23.759
+the person turns the switch, then the trolley is
+
+1536
+01:08:23.770 --> 01:08:26.149
+redirected to a sidetrack and then somebody on that
+
+1537
+01:08:26.160 --> 01:08:29.100
+sidetrack is gonna die. And so now let's take
+
+1538
+01:08:29.109 --> 01:08:31.229
+maybe like the standard, one of the standard scenarios,
+
+1539
+01:08:31.240 --> 01:08:32.740
+there's five people on the main track and there's
+
+1540
+01:08:32.750 --> 01:08:35.220
+one person on the side track. And maybe I'll
+
+1541
+01:08:35.229 --> 01:08:37.319
+ask you in this case, would it be permissible
+
+1542
+01:08:37.330 --> 01:08:39.609
+for, let's call him Hank in this case, would
+
+1543
+01:08:39.620 --> 01:08:41.740
+it be permissible for Hank to throw the switch
+
+1544
+01:08:41.750 --> 01:08:43.180
+in that scenario. What do you think?
+
+1545
+01:08:44.339 --> 01:08:48.459
+Uh II, I, I'm not a good test subject
+
+1546
+01:08:48.549 --> 01:08:53.560
+for these kinds of experiments because I, I'm usually,
+
+1547
+01:08:53.569 --> 01:08:55.939
+I, I mean, if people ask me, oh, if
+
+1548
+01:08:55.950 --> 01:08:59.520
+you pull the switch or something like that, uh,
+
+1549
+01:08:59.529 --> 01:09:03.839
+and you deviate the, the direction of the trolley
+
+1550
+01:09:03.850 --> 01:09:07.459
+toward one person or otherwise it would have been
+
+1551
+01:09:07.470 --> 01:09:10.649
+five. I'm just like, oh, but I have nothing
+
+1552
+01:09:10.660 --> 01:09:12.990
+to do with that. Like it just kill the
+
+1553
+01:09:13.000 --> 01:09:13.330
+five.
+
+1554
+01:09:14.310 --> 01:09:16.790
+Yeah. Yeah. So, so that's, that's a very common
+
+1555
+01:09:16.799 --> 01:09:18.750
+response but people don't want to, you know, play
+
+1556
+01:09:18.759 --> 01:09:21.120
+God like they don't want to interfere when it
+
+1557
+01:09:21.129 --> 01:09:23.600
+is about decisions of life and death, right? And
+
+1558
+01:09:23.609 --> 01:09:25.509
+they say like, ok, I'm just gonna close my
+
+1559
+01:09:25.520 --> 01:09:27.319
+eyes, you know, and let nature do its thing
+
+1560
+01:09:27.330 --> 01:09:29.979
+kind of, right? And so that would be an
+
+1561
+01:09:29.990 --> 01:09:32.160
+omission also, right? That you would prefer in this
+
+1562
+01:09:32.169 --> 01:09:33.939
+case, I just don't want to act, you know,
+
+1563
+01:09:34.459 --> 01:09:37.640
+um uh in general though, like if you, if
+
+1564
+01:09:37.649 --> 01:09:39.609
+you make the scenario in this kind of way
+
+1565
+01:09:39.620 --> 01:09:41.410
+and Hank, you know, and, and you ask people,
+
+1566
+01:09:41.419 --> 01:09:42.959
+is it morally permissible for Hank to throw the
+
+1567
+01:09:42.970 --> 01:09:45.600
+switch? Most people do say in the scenario. Yes,
+
+1568
+01:09:45.609 --> 01:09:48.490
+it is morally permissible, right? Um Of course, if
+
+1569
+01:09:48.500 --> 01:09:50.049
+you flipped like how many people are on the
+
+1570
+01:09:50.060 --> 01:09:53.020
+different tracks? Definitely not permissible, not permissible for him
+
+1571
+01:09:53.029 --> 01:09:54.529
+to change it, you know, from one person to
+
+1572
+01:09:54.540 --> 01:09:57.629
+five, right? Um So, but then part is like
+
+1573
+01:09:57.640 --> 01:09:59.529
+also here like, OK, what was the intention? Right.
+
+1574
+01:09:59.540 --> 01:10:02.120
+What was the desire of Hank, um that, that
+
+1575
+01:10:02.129 --> 01:10:07.009
+underlined that decision, right? And presumably the intention was
+
+1576
+01:10:07.020 --> 01:10:10.049
+to save the five, right? The intention was not
+
+1577
+01:10:10.060 --> 01:10:12.669
+to kill the one, even though in some sense,
+
+1578
+01:10:12.680 --> 01:10:14.549
+right? The action is consistent with both of those
+
+1579
+01:10:14.560 --> 01:10:16.569
+things if Hank had wanted to kill the one,
+
+1580
+01:10:16.580 --> 01:10:18.700
+right? And you could change the scenario. Maybe the,
+
+1581
+01:10:18.709 --> 01:10:22.700
+maybe the one person is this absolutely horrible person,
+
+1582
+01:10:22.709 --> 01:10:24.850
+right? Who if they're going to survive, I gonna
+
+1583
+01:10:24.859 --> 01:10:26.890
+cause a lot of trouble in the world, right?
+
+1584
+01:10:27.240 --> 01:10:29.620
+So now the same scenario, you might not say,
+
+1585
+01:10:29.629 --> 01:10:33.689
+well, actually, uh it is more impermissible still. But
+
+1586
+01:10:33.700 --> 01:10:35.399
+now the reason I think for why they did
+
+1587
+01:10:35.410 --> 01:10:38.770
+it was maybe to save the five, right? But
+
+1588
+01:10:38.779 --> 01:10:41.660
+partly really to kill the one, right? And, and
+
+1589
+01:10:41.669 --> 01:10:43.270
+the difference, right, that you could see between these
+
+1590
+01:10:43.279 --> 01:10:46.750
+two scenarios is like, imagine the five hadn't been
+
+1591
+01:10:46.759 --> 01:10:49.209
+there, right? If your intention was to save the
+
+1592
+01:10:49.220 --> 01:10:51.979
+five, in this case, you would not change the
+
+1593
+01:10:51.990 --> 01:10:54.779
+trolley, right? Because now, you know, the reason for
+
+1594
+01:10:54.790 --> 01:10:57.459
+you acting is not there anymore. Whereas if your
+
+1595
+01:10:57.470 --> 01:10:59.049
+intention was to kill the one, right? In the
+
+1596
+01:10:59.060 --> 01:11:01.540
+scenario where the horrible person is on track one,
+
+1597
+01:11:01.589 --> 01:11:03.740
+now, you would still, even if the five weren't
+
+1598
+01:11:03.750 --> 01:11:07.520
+there, you would still switch it, right? And so,
+
+1599
+01:11:07.609 --> 01:11:09.560
+um, so this is kind of this idea, right?
+
+1600
+01:11:09.569 --> 01:11:12.709
+That like you can, you can try to infer
+
+1601
+01:11:12.720 --> 01:11:16.250
+what somebody intended to happen by thinking about what
+
+1602
+01:11:16.259 --> 01:11:19.629
+were the, the outcomes of their decisions that actually
+
+1603
+01:11:19.640 --> 01:11:21.750
+affected, you know, their planning, the way that they
+
+1604
+01:11:21.759 --> 01:11:24.470
+made their decision? And, and then I think about,
+
+1605
+01:11:24.720 --> 01:11:28.020
+um, from that right, that affects whether I take
+
+1606
+01:11:28.029 --> 01:11:30.549
+the action to be more morally permissible. So for
+
+1607
+01:11:30.560 --> 01:11:33.200
+moral permissibility, it's like what inferences can I make
+
+1608
+01:11:33.209 --> 01:11:35.310
+about what it is that they intended? And then
+
+1609
+01:11:35.319 --> 01:11:38.169
+I also care about um actually sort of again,
+
+1610
+01:11:38.180 --> 01:11:40.319
+the consequences of their actions similar to when I
+
+1611
+01:11:40.330 --> 01:11:42.279
+was saying in responsibility, right? It's sort of the,
+
+1612
+01:11:42.290 --> 01:11:44.359
+the causal role that the action played and what
+
+1613
+01:11:44.370 --> 01:11:46.180
+it is that the action told me about them.
+
+1614
+01:11:46.189 --> 01:11:48.399
+So in this case, right, the, the, the causal
+
+1615
+01:11:48.410 --> 01:11:50.529
+consequences kind of how many people died and in
+
+1616
+01:11:50.540 --> 01:11:53.689
+general you want fewer people to die. Um And
+
+1617
+01:11:53.700 --> 01:11:55.600
+then what does it tell me like about the
+
+1618
+01:11:55.609 --> 01:11:57.220
+person in this case? What it is that they
+
+1619
+01:11:57.229 --> 01:11:59.000
+intended to happen?
+
+1620
+01:11:59.649 --> 01:12:02.140
+Well, it just came to my mind, this never
+
+1621
+01:12:02.149 --> 01:12:05.040
+crossed my mind before that when you were talking
+
+1622
+01:12:05.049 --> 01:12:08.660
+about intentions and diverting the trolley from the five
+
+1623
+01:12:08.669 --> 01:12:12.169
+people track to the one person track. What if
+
+1624
+01:12:12.180 --> 01:12:15.259
+there was someone like a psychopath that was like,
+
+1625
+01:12:15.270 --> 01:12:18.410
+oh, now I have the opportunity of killing one
+
+1626
+01:12:18.419 --> 01:12:22.950
+person and I will get away with her because
+
+1627
+01:12:22.959 --> 01:12:24.879
+it will be me causing the
+
+1628
+01:12:25.459 --> 01:12:28.040
+Yeah. Yeah. Yeah, you're right. And, and if that's
+
+1629
+01:12:28.049 --> 01:12:29.899
+the, again, you know, if that's the person, right?
+
+1630
+01:12:29.910 --> 01:12:32.390
+You think, like, ok, well, I'm not sure how
+
+1631
+01:12:32.399 --> 01:12:35.680
+permissible that is. Right? Because in some sense, you
+
+1632
+01:12:35.689 --> 01:12:38.720
+know, it didn't change anything about and it's interesting
+
+1633
+01:12:38.729 --> 01:12:41.040
+related to, right, like this, this idea now with
+
+1634
+01:12:41.049 --> 01:12:43.779
+the, with the psychopath, right? And often, you know,
+
+1635
+01:12:43.790 --> 01:12:46.359
+there's this, these, these things are sometimes set up
+
+1636
+01:12:46.370 --> 01:12:48.779
+in a way that, such that, you know, utilitarian
+
+1637
+01:12:48.790 --> 01:12:51.899
+principles, the principles about, you know, trying to bring,
+
+1638
+01:12:51.910 --> 01:12:53.609
+you know, the greatest good to the, you know,
+
+1639
+01:12:53.620 --> 01:12:56.609
+most people or in this case, avoiding harm, you
+
+1640
+01:12:56.620 --> 01:12:59.500
+know, to the most people come in conflict with
+
+1641
+01:12:59.509 --> 01:13:02.500
+um other principles like deontological principles of, you know,
+
+1642
+01:13:02.509 --> 01:13:05.700
+moral action that pertain more to like uh following
+
+1643
+01:13:05.709 --> 01:13:09.470
+certain rules like, you know, thou shalt not kill,
+
+1644
+01:13:09.479 --> 01:13:13.089
+right? And, and sometimes there's interesting conflict, right? There
+
+1645
+01:13:13.100 --> 01:13:15.959
+might be certain actions that are from a utilitarian
+
+1646
+01:13:15.970 --> 01:13:19.640
+perspective, potentially justifiable, right? But at the same time,
+
+1647
+01:13:19.649 --> 01:13:22.140
+it would be pretty, you know, gruesome to do,
+
+1648
+01:13:22.149 --> 01:13:25.479
+right? Um There's one example of that kind again,
+
+1649
+01:13:25.490 --> 01:13:26.720
+that might not be a great example, but it
+
+1650
+01:13:26.729 --> 01:13:28.792
+could be like, oh, you know, there's five people
+
+1651
+01:13:28.803 --> 01:13:31.053
+who need organs, right? And then there's one person
+
+1652
+01:13:31.062 --> 01:13:33.123
+and you just, you know, kill that person to
+
+1653
+01:13:33.132 --> 01:13:34.792
+give the organs to the other people and save
+
+1654
+01:13:34.803 --> 01:13:38.103
+the five, right? Um So, you know, maybe that's
+
+1655
+01:13:38.112 --> 01:13:39.993
+not justifiable on any perspective, but you could at
+
+1656
+01:13:40.002 --> 01:13:42.623
+least see in principle from a utilitarian calculus that,
+
+1657
+01:13:42.632 --> 01:13:43.962
+that it could be the kind of thing that
+
+1658
+01:13:43.973 --> 01:13:46.462
+could be justifiable. Right. But it also would be
+
+1659
+01:13:46.473 --> 01:13:50.583
+really psychopath style, right? For someone to, you know,
+
+1660
+01:13:50.592 --> 01:13:53.215
+to, to do that. Right. And so, so there's
+
+1661
+01:13:53.226 --> 01:13:56.655
+sometimes this, um, disconnect between, like, ok, you know,
+
+1662
+01:13:56.945 --> 01:13:58.925
+and, and some studies have shown that, that they
+
+1663
+01:13:58.936 --> 01:14:00.846
+might think, like, ok, yeah, that's a more morally
+
+1664
+01:14:00.855 --> 01:14:02.916
+permissible thing to do in a situation, but I
+
+1665
+01:14:02.925 --> 01:14:05.625
+would not want to be their friend if that
+
+1666
+01:14:05.636 --> 01:14:08.145
+makes sense. Right. And that's a disconnect, right? Between
+
+1667
+01:14:08.155 --> 01:14:10.596
+again, the two components, right? The sort of causal
+
+1668
+01:14:10.616 --> 01:14:12.755
+role. OK. Maybe that's good. But the inference that
+
+1669
+01:14:12.766 --> 01:14:14.990
+I make about the person is like, yeah, they're
+
+1670
+01:14:15.000 --> 01:14:16.850
+kind of a psychopath. So that's not the kind
+
+1671
+01:14:16.859 --> 01:14:18.500
+of person who I would want to be with.
+
+1672
+01:14:18.509 --> 01:14:18.979
+Right.
+
+1673
+01:14:19.370 --> 01:14:22.129
+So, so those things also happen for, for moral
+
+1674
+01:14:22.140 --> 01:14:22.700
+judgments.
+
+1675
+01:14:22.970 --> 01:14:26.779
+Yeah, because actually the outcome is very different uh
+
+1676
+01:14:26.790 --> 01:14:30.390
+in the, the two scenarios. But there, there's this
+
+1677
+01:14:30.399 --> 01:14:34.220
+very strong intuition that if uh something that you
+
+1678
+01:14:34.229 --> 01:14:36.629
+didn't do, you didn't put the people on the
+
+1679
+01:14:36.640 --> 01:14:40.919
+tracks and you didn't want the trolley running. I
+
+1680
+01:14:40.930 --> 01:14:43.080
+mean, you have nothing to do with that. But
+
+1681
+01:14:43.089 --> 01:14:46.330
+if you pull the lever now you have something
+
+1682
+01:14:46.339 --> 01:14:47.189
+to do with it.
+
+1683
+01:14:47.200 --> 01:14:49.339
+That's right. Yeah. Yeah. Yeah. That's right. And it's,
+
+1684
+01:14:49.439 --> 01:14:50.979
+again, there's a lot of work, right? Showing that
+
+1685
+01:14:50.990 --> 01:14:53.660
+in these kind of situations, people often get default
+
+1686
+01:14:53.669 --> 01:14:56.229
+to not, you know, to omitting right? To not
+
+1687
+01:14:56.240 --> 01:14:57.759
+wanting to do anything about it.
+
+1688
+01:14:58.290 --> 01:15:00.959
+Yeah. So, I, I mean, I guess that we
+
+1689
+01:15:00.970 --> 01:15:04.160
+could say here then that and this is very
+
+1690
+01:15:04.169 --> 01:15:09.540
+counterintuitive but there's somewhat of a relationship between intuitive
+
+1691
+01:15:09.549 --> 01:15:13.330
+physics and intuitive psychology on the one hand, and
+
+1692
+01:15:13.339 --> 01:15:15.779
+moral judgment, on the other hand,
+
+1693
+01:15:16.430 --> 01:15:19.129
+yeah, I'm not sure how counterintuitive that is. Hopefully
+
+1694
+01:15:19.140 --> 01:15:22.259
+not. But, um, but my sense is right that,
+
+1695
+01:15:22.270 --> 01:15:25.540
+yeah, in many, you know, everyday situations, even, like,
+
+1696
+01:15:25.549 --> 01:15:27.240
+I mean, the trolley is sort of a simple
+
+1697
+01:15:27.250 --> 01:15:30.830
+one because maybe my intuitive physical understanding here is
+
+1698
+01:15:30.839 --> 01:15:33.720
+not, you know, strained all that much, but still,
+
+1699
+01:15:33.729 --> 01:15:35.359
+you know, you needed it, right? I needed to
+
+1700
+01:15:35.370 --> 01:15:36.810
+be able to tell you that the trolley was
+
+1701
+01:15:36.819 --> 01:15:38.609
+going to go this way and otherwise it would
+
+1702
+01:15:38.620 --> 01:15:40.569
+go that way and that there was a switch,
+
+1703
+01:15:40.580 --> 01:15:42.979
+you know, that would make the difference. So, so
+
+1704
+01:15:42.990 --> 01:15:45.020
+in many situations that when we are, at least
+
+1705
+01:15:45.029 --> 01:15:47.109
+in our sort of embedded in our everyday lives,
+
+1706
+01:15:47.120 --> 01:15:50.910
+we, we don't get um sometimes let's say this
+
+1707
+01:15:50.919 --> 01:15:53.359
+kind of stylized information that we might use, you
+
+1708
+01:15:53.370 --> 01:15:56.100
+know, in, in vignettes or scenarios in a, in
+
+1709
+01:15:56.109 --> 01:15:58.910
+a psychology experiment, right? We have to derive that
+
+1710
+01:15:58.919 --> 01:16:02.089
+information from seeing people interact, you know, in, in
+
+1711
+01:16:02.100 --> 01:16:05.200
+the physical world. And um and a lot of
+
+1712
+01:16:05.209 --> 01:16:07.890
+a lot of factors, you know, are of relevance
+
+1713
+01:16:07.899 --> 01:16:10.589
+and play out in these situations. Take for example,
+
+1714
+01:16:10.600 --> 01:16:13.060
+like a notion of a capacity or ability that
+
+1715
+01:16:13.069 --> 01:16:15.359
+somebody might have. We touched a little bit on
+
+1716
+01:16:15.370 --> 01:16:18.720
+that again, in a sort of discreet stylized version
+
+1717
+01:16:18.729 --> 01:16:21.359
+of it with the lifeguard, right? That's an ability,
+
+1718
+01:16:21.370 --> 01:16:23.740
+right? That the person has or doesn't have. Um
+
+1719
+01:16:23.750 --> 01:16:26.560
+um BUT again, you know, it's a simple example,
+
+1720
+01:16:26.569 --> 01:16:29.160
+but I need to bring together, right? My physical
+
+1721
+01:16:29.169 --> 01:16:32.080
+understanding, namely somebody jumping in the water and being
+
+1722
+01:16:32.089 --> 01:16:35.540
+able to swim, right? With my kind of intuitive
+
+1723
+01:16:35.549 --> 01:16:40.040
+psychological uh um understanding, right? It's like, ok, what
+
+1724
+01:16:40.049 --> 01:16:41.709
+can somebody do and what they were supposed to
+
+1725
+01:16:41.720 --> 01:16:44.299
+do? Right. And now you could imagine, right? Just
+
+1726
+01:16:44.310 --> 01:16:46.799
+kind of in not necessarily a nice experiment in
+
+1727
+01:16:46.810 --> 01:16:48.859
+this case, but again, a plausible one, you know,
+
+1728
+01:16:48.870 --> 01:16:51.200
+manipulate how far it is that the person is
+
+1729
+01:16:51.209 --> 01:16:53.609
+away, you know, from the beach when they're drowning,
+
+1730
+01:16:53.620 --> 01:16:55.520
+right? And so you could now think about, OK,
+
+1731
+01:16:55.529 --> 01:16:57.640
+was this something that the person, you know, could
+
+1732
+01:16:57.649 --> 01:17:01.520
+have achieved? Right? Um And so there's sort of
+
+1733
+01:17:01.529 --> 01:17:03.430
+physical knowledge that comes to bear like on this
+
+1734
+01:17:03.439 --> 01:17:06.910
+question, um that combines right with the, with the
+
+1735
+01:17:06.919 --> 01:17:09.600
+psycho psychological knowledge or again, maybe in a non
+
+1736
+01:17:09.609 --> 01:17:11.580
+moral domain, but something that at least some of
+
+1737
+01:17:11.589 --> 01:17:14.700
+the uh listeners, particularly, maybe the American ones can
+
+1738
+01:17:14.709 --> 01:17:16.970
+kind of relate to. Um SO kind of factuals
+
+1739
+01:17:16.979 --> 01:17:19.100
+also come up there in, in, in many sports.
+
+1740
+01:17:19.109 --> 01:17:22.089
+So there's a um there's a, there's a um
+
+1741
+01:17:22.330 --> 01:17:25.089
+there's a foul like in American football called, you
+
+1742
+01:17:25.100 --> 01:17:27.970
+know, pass interference and, and what that foul is
+
+1743
+01:17:27.979 --> 01:17:29.930
+like if it basically is when the, you know,
+
+1744
+01:17:29.939 --> 01:17:33.020
+when the quarterback and I know relatively little about,
+
+1745
+01:17:33.029 --> 01:17:35.160
+uh, about American football, but this is one thing,
+
+1746
+01:17:35.169 --> 01:17:37.040
+hopefully that I get roughly, right. So when
+
+1747
+01:17:37.049 --> 01:17:42.160
+I'm also more about soccer, like normal football,
+
+1748
+01:17:43.160 --> 01:17:44.669
+a kind of fact has come out there too,
+
+1749
+01:17:44.680 --> 01:17:46.509
+but like, you know, I'll use this example for
+
+1750
+01:17:46.520 --> 01:17:48.339
+now. So the quarterback throws the ball right and
+
+1751
+01:17:48.350 --> 01:17:52.180
+then the receiver before the receiver catches the ball,
+
+1752
+01:17:52.220 --> 01:17:54.330
+Um the defender is not allowed to interfere with
+
+1753
+01:17:54.339 --> 01:17:55.810
+the receiver. So they're not allowed to like kind
+
+1754
+01:17:55.819 --> 01:17:57.759
+of push them, they can try to, you know,
+
+1755
+01:17:57.770 --> 01:18:00.240
+catch the ball, but they're not allowed to interfere
+
+1756
+01:18:00.250 --> 01:18:04.279
+with the receiver. But now, and, and pass interference
+
+1757
+01:18:04.290 --> 01:18:06.339
+is the foul call when the, when the referees
+
+1758
+01:18:06.350 --> 01:18:11.140
+believe that the defender actually interfered with the receiver
+
+1759
+01:18:11.149 --> 01:18:13.160
+before the receiver was able to kind of catch
+
+1760
+01:18:13.169 --> 01:18:16.129
+the ball, right. But now importantly, it's only past
+
+1761
+01:18:16.140 --> 01:18:19.419
+interference when the receiver could have caught the ball,
+
+1762
+01:18:20.149 --> 01:18:22.509
+right. So that's a counterfactual, right? So, and that's
+
+1763
+01:18:22.520 --> 01:18:24.609
+a call for the referees to decide like, yeah,
+
+1764
+01:18:24.620 --> 01:18:26.709
+that's the kind of ball that the receiver could
+
+1765
+01:18:26.720 --> 01:18:29.959
+have in principle caught and only if that's the
+
+1766
+01:18:29.970 --> 01:18:32.580
+case, is it a foul? Right? So again, this
+
+1767
+01:18:32.589 --> 01:18:34.930
+is not necessarily moral reasoning in this case here,
+
+1768
+01:18:34.939 --> 01:18:36.640
+but it sort of brings to mind that like,
+
+1769
+01:18:36.649 --> 01:18:38.850
+yeah, our ability to think about how people are
+
+1770
+01:18:38.859 --> 01:18:41.180
+interacting with each other in the physical world, what
+
+1771
+01:18:41.189 --> 01:18:43.330
+kind of abilities they have because even like in
+
+1772
+01:18:43.339 --> 01:18:46.270
+the past interference call, right. Uh It might be
+
+1773
+01:18:46.279 --> 01:18:49.049
+past interference for, you know, some ex but football
+
+1774
+01:18:49.060 --> 01:18:51.569
+player that wouldn't have been past interference for me
+
+1775
+01:18:51.640 --> 01:18:54.060
+because I'm slow. Right? And whereas this person is
+
+1776
+01:18:54.069 --> 01:18:56.319
+really fast, so thinking about what that person could
+
+1777
+01:18:56.330 --> 01:18:58.209
+have done is different from what I could have
+
+1778
+01:18:58.220 --> 01:19:00.270
+done. And that brings together again the knowledge of
+
+1779
+01:19:00.279 --> 01:19:02.750
+the physical world and our knowledge of people to
+
+1780
+01:19:02.759 --> 01:19:05.080
+simulate what these relevant counter factuals would have looked
+
+1781
+01:19:05.089 --> 01:19:08.160
+like. And so, so they really come together when
+
+1782
+01:19:08.169 --> 01:19:12.180
+deciding um uh about whether whether what's morally permissible
+
+1783
+01:19:12.189 --> 01:19:14.810
+or not. Um Mostly through this mechanism of thinking
+
+1784
+01:19:14.819 --> 01:19:17.649
+about what the possibilities are, what the person could
+
+1785
+01:19:17.660 --> 01:19:19.580
+have achieved, could not have achieved what they should
+
+1786
+01:19:19.589 --> 01:19:21.359
+have done and should not have done and so
+
+1787
+01:19:21.370 --> 01:19:21.669
+on.
+
+1788
+01:19:22.859 --> 01:19:26.430
+Great. So, Doctor Gerstenberg, I think that this would
+
+1789
+01:19:26.439 --> 01:19:29.160
+probably be a good point to end the interview
+
+1790
+01:19:29.169 --> 01:19:32.029
+on uh just before we go, would you like
+
+1791
+01:19:32.040 --> 01:19:34.250
+to tell people where they can find you and
+
+1792
+01:19:34.259 --> 01:19:36.600
+your work on the internet? And I don't know
+
+1793
+01:19:36.609 --> 01:19:39.509
+if you also want to mention what you're working
+
+1794
+01:19:39.520 --> 01:19:41.759
+on at the moment. So, yeah,
+
+1795
+01:19:41.770 --> 01:19:43.544
+sure. So you can find me on the internet.
+
+1796
+01:19:43.555 --> 01:19:46.035
+I mean, probably just by Googling. Uh MY name,
+
+1797
+01:19:46.044 --> 01:19:48.865
+right. I'm also on, on Twitter at uh X
+
+1798
+01:19:48.964 --> 01:19:51.904
+now, I guess it's called the handle Toby GBG
+
+1799
+01:19:51.915 --> 01:19:53.674
+and I'm also on blue sky. So those are
+
+1800
+01:19:53.685 --> 01:19:55.785
+places you can find me, my lab, the causality
+
+1801
+01:19:55.794 --> 01:19:58.404
+and cognition lab also has a youtube channel, you
+
+1802
+01:19:58.415 --> 01:19:59.955
+know, once this is out, I think I will
+
+1803
+01:19:59.964 --> 01:20:02.584
+link to it um as well. Um So those
+
+1804
+01:20:02.595 --> 01:20:04.475
+are places where you can find about, find out
+
+1805
+01:20:04.484 --> 01:20:06.455
+about, you know, myself and, and, and my work
+
+1806
+01:20:07.129 --> 01:20:08.919
+and then in terms of things that we're currently
+
+1807
+01:20:08.930 --> 01:20:11.290
+working about 11 area that I didn't, you know,
+
+1808
+01:20:11.299 --> 01:20:14.069
+get to talk so much in our, um um
+
+1809
+01:20:14.250 --> 01:20:16.729
+you know, right now, but that I'm excited about
+
+1810
+01:20:16.740 --> 01:20:18.750
+is more on the kind of, you know, we,
+
+1811
+01:20:18.759 --> 01:20:20.759
+we mostly talked about the causal learning and the
+
+1812
+01:20:20.770 --> 01:20:23.939
+causal judgment part. But I've also been quite interested
+
+1813
+01:20:23.950 --> 01:20:26.069
+in the causal reasoning part. And there's a bigger
+
+1814
+01:20:26.080 --> 01:20:28.120
+project that we're interested in is really in how
+
+1815
+01:20:28.129 --> 01:20:30.700
+people, you know, how people are sort of like
+
+1816
+01:20:30.709 --> 01:20:34.290
+intuitive detectives, sometimes like Sherlock Holmes or Miss Marple
+
+1817
+01:20:34.330 --> 01:20:36.660
+and how they can draw on different sources of
+
+1818
+01:20:36.669 --> 01:20:39.799
+evidence often. So there's visual evidence, but sometimes also
+
+1819
+01:20:39.810 --> 01:20:42.370
+we have auditory evidence, the kind of sounds, you
+
+1820
+01:20:42.379 --> 01:20:44.930
+know, that happened, um and how we can use
+
+1821
+01:20:44.939 --> 01:20:47.399
+these different pieces of information to figure out what
+
+1822
+01:20:47.410 --> 01:20:49.060
+happened in the past. So just to give you
+
+1823
+01:20:49.069 --> 01:20:51.729
+maybe like one intuitive example, so imagine that you,
+
+1824
+01:20:51.930 --> 01:20:54.060
+um you know, the person who you live with,
+
+1825
+01:20:54.069 --> 01:20:55.689
+you know, your partner or roommate or something does
+
+1826
+01:20:55.700 --> 01:20:58.490
+something in the kitchen, you just hear the sounds,
+
+1827
+01:20:58.649 --> 01:21:00.419
+but based on the sounds, you know, exactly what
+
+1828
+01:21:00.430 --> 01:21:01.990
+it is that they're doing right. You might even
+
+1829
+01:21:02.000 --> 01:21:03.839
+know exactly what it is that they're cooking just
+
+1830
+01:21:03.850 --> 01:21:05.229
+by hearing, like, oh, they're going to the fridge
+
+1831
+01:21:05.240 --> 01:21:06.939
+now. They're picking up these things. Oh, I can
+
+1832
+01:21:06.950 --> 01:21:08.740
+hear they're cracking the eggs or they're making an
+
+1833
+01:21:08.750 --> 01:21:11.259
+omelet, you know, and so all this stuff in
+
+1834
+01:21:11.270 --> 01:21:13.200
+some sense, all you have is just the sounds.
+
+1835
+01:21:13.209 --> 01:21:15.310
+But be, because, you know, kind of your kitchen
+
+1836
+01:21:15.319 --> 01:21:17.819
+and, you know, what people roughly do, you can
+
+1837
+01:21:17.830 --> 01:21:19.819
+kind of reconstruct in your mind, what it is
+
+1838
+01:21:19.830 --> 01:21:23.604
+that they're doing um by combining these auditory information
+
+1839
+01:21:23.615 --> 01:21:25.935
+with your intuitive theory of how the world works.
+
+1840
+01:21:26.145 --> 01:21:28.584
+And that's something that I'm quite excited about, kind
+
+1841
+01:21:28.595 --> 01:21:30.875
+of studying that and understanding that better. But the
+
+1842
+01:21:30.884 --> 01:21:33.524
+limits are of people doing it, doing that and
+
+1843
+01:21:33.535 --> 01:21:36.535
+how they draw. Yeah, from these different sense modalities
+
+1844
+01:21:36.544 --> 01:21:39.955
+to figure out what happened by mentally simulating possibilities
+
+1845
+01:21:39.964 --> 01:21:41.575
+in their mind. So that's one of the things
+
+1846
+01:21:41.584 --> 01:21:42.645
+that I'm quite excited about.
+
+1847
+01:21:43.290 --> 01:21:45.950
+Great. So thank you so much again for taking
+
+1848
+01:21:45.959 --> 01:21:47.740
+the time to come on the show. It's been
+
+1849
+01:21:47.750 --> 01:21:49.299
+really fun to talk with you.
+
+1850
+01:21:49.529 --> 01:21:50.979
+Awesome. Yeah, I had a great time. Thanks so
+
+1851
+01:21:50.990 --> 01:21:51.580
+much, Ricardo.
+
+1852
+01:21:53.140 --> 01:21:55.870
+Hi guys. Thank you for watching this interview. Until
+
+1853
+01:21:55.879 --> 01:21:58.040
+the end. If you liked it, please share it.
+
+1854
+01:21:58.049 --> 01:22:00.850
+Leave a like and hit the subscription button. The
+
+1855
+01:22:00.859 --> 01:22:02.959
+show is brought to you by N Lights Learning
+
+1856
+01:22:02.970 --> 01:22:05.979
+and development. Then differently check the website at N
+
+1857
+01:22:05.990 --> 01:22:09.939
+lights.com and also please consider supporting the show on
+
+1858
+01:22:09.950 --> 01:22:12.990
+Patreon or paypal. I would also like to give
+
+1859
+01:22:13.000 --> 01:22:15.299
+a huge thank you to my main patrons and
+
+1860
+01:22:15.310 --> 01:22:19.520
+paypal supporters, Perera Larson, Jerry Muller and Frederick Suno
+
+1861
+01:22:19.569 --> 01:22:22.640
+Bernard Seche O of Alex Adam Castle Matthew Whitting
+
+1862
+01:22:22.680 --> 01:22:25.919
+B no wolf, Tim Ho Erica LJ Connors, Philip
+
+1863
+01:22:25.930 --> 01:22:28.839
+Forrest Connelly. Then the Met Robert Wine in NAI
+
+1864
+01:22:29.200 --> 01:22:32.589
+Z Mark Nevs called in Holbrook Field, Governor Mikel
+
+1865
+01:22:32.600 --> 01:22:36.430
+Stormer Samuel Andre Francis for Agns Ferger Ken Herz
+
+1866
+01:22:37.310 --> 01:22:40.870
+J and Lain Jung Y and the K Hes
+
+1867
+01:22:40.879 --> 01:22:44.470
+Mark Smith J. Tom Hummel. S Friends, David Sloan
+
+1868
+01:22:44.560 --> 01:22:49.060
+Wilson. Ya dear, Roman Roach Diego and Jan Punter
+
+1869
+01:22:49.779 --> 01:22:52.799
+Romani Charlotte Bli Nicole Barba, Adam Hunt Pavlo Stassi,
+
+1870
+01:22:53.270 --> 01:22:56.419
+Nale Me, Gary G Alman, Samo, Zal Ari and
+
+1871
+01:22:56.490 --> 01:23:02.080
+YPJ Barboza Julian Price Edward Hall, Eden Broner Douglas
+
+1872
+01:23:02.089 --> 01:23:08.930
+Fry Franca Lati Gilon Cortez or Sole Scott ZFTW,
+
+1873
+01:23:09.109 --> 01:23:13.609
+Daniel Friedman, William Buckner, Paul Giorgino, Luke Loki, Georgio
+
+1874
+01:23:14.020 --> 01:23:17.720
+Theophanous. Chris Williams and Peter Wo David Williams Di
+
+1875
+01:23:18.270 --> 01:23:22.339
+Costa Anton Erickson Charles Murray, Alex Chao, Marie Martinez,
+
+1876
+01:23:22.350 --> 01:23:28.479
+Coralie Chevalier, Bangalore Larry Dey junior, Old Einon Starry
+
+1877
+01:23:28.490 --> 01:23:31.919
+Michael Bailey. Then Spur by Robert Grassy Zorn, Jeff
+
+1878
+01:23:31.930 --> 01:23:36.189
+mcmahon, Jake Zul Barnabas Radis Mark Temple, Thomas Dvor
+
+1879
+01:23:36.500 --> 01:23:40.990
+Luke Neeson, Chris to Kimberley Johnson, Benjamin Gilbert Jessica.
+
+1880
+01:23:41.000 --> 01:23:45.919
+No, Linda Brendan Nicholas Carlson Ismael Bensley Man George
+
+1881
+01:23:46.509 --> 01:23:51.410
+Katis Valentine Steinman Perros, Kate Von Goler, Alexander Abert
+
+1882
+01:23:51.479 --> 01:23:57.240
+Liam Dan Biar Masoud Ali Mohammadi Perpendicular J Ner
+
+1883
+01:23:57.819 --> 01:24:01.310
+Urla. Good enough Gregory Hastings David Pins of Sean
+
+1884
+01:24:01.770 --> 01:24:05.955
+Nelson, Mike Levin and Jos Net. A special thanks
+
+1885
+01:24:05.964 --> 01:24:08.334
+to my producers is our web, Jim Frank Luca
+
+1886
+01:24:08.854 --> 01:24:12.234
+Stina, Tom Vig and Bernard N Cortes Dixon Bendik
+
+1887
+01:24:12.245 --> 01:24:16.375
+Muller Thomas Trumble, Catherine and Patrick Tobin Carlman, Negro.
+
+1888
+01:24:16.584 --> 01:24:19.285
+Nick Ortiz and Nick Golden. And to my executive
+
+1889
+01:24:19.294 --> 01:24:23.334
+producers, Matthew lavender, Sergi, Adrian Bogdan Knits and Rosie.
+
+1890
+01:24:23.345 --> 01:24:24.294
+Thank you for all.
+
