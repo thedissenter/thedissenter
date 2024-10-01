@@ -1,0 +1,8110 @@
+WEBVTT
+
+1
+00:00:00.119 --> 00:00:02.960
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.029 --> 00:00:06.000
+Center. I'm your host, Ricardo Lobs. And today I'm
+
+3
+00:00:06.010 --> 00:00:08.750
+here. I have a very special guest, Doctor Carl
+
+4
+00:00:08.760 --> 00:00:12.399
+Freston. He is Professor of Imaging Neuroscience and welcome
+
+5
+00:00:12.409 --> 00:00:16.850
+principal research fellow of Imaging Neuroscience at University College
+
+6
+00:00:16.860 --> 00:00:21.309
+London. He is a theoretical neuroscientist and his main
+
+7
+00:00:21.319 --> 00:00:26.110
+contribution to theoretical neurobiology has been a free energy
+
+8
+00:00:26.120 --> 00:00:30.170
+principle for action and perception. And today we're going
+
+9
+00:00:30.180 --> 00:00:32.700
+to focus a lot on the free energy principle.
+
+10
+00:00:32.709 --> 00:00:35.514
+And let's say what point we can get to
+
+11
+00:00:35.525 --> 00:00:41.525
+because there are many topics that Doctor Freston researchers
+
+12
+00:00:41.534 --> 00:00:43.825
+that, that I would be interested in talking with
+
+13
+00:00:43.834 --> 00:00:47.564
+him about about today. But let's see where we
+
+14
+00:00:47.575 --> 00:00:49.904
+can get. So, Doctor Frisson, welcome to the show.
+
+15
+00:00:49.915 --> 00:00:51.095
+It's a pleasure to have everyone.
+
+16
+00:00:51.830 --> 00:00:53.310
+Thank you very much for inviting me. It's a
+
+17
+00:00:53.319 --> 00:00:54.409
+great pleasure to be here.
+
+18
+00:00:55.750 --> 00:00:59.810
+OK. So the free energy principle, first of all,
+
+19
+00:00:59.819 --> 00:01:04.129
+could you tell us in the simplest terms possible?
+
+20
+00:01:04.138 --> 00:01:07.610
+What is, what the free energy principle is about?
+
+21
+00:01:07.779 --> 00:01:09.669
+And could you tell us perhaps also a little
+
+22
+00:01:09.680 --> 00:01:14.410
+bit about uh the history behind its development?
+
+23
+00:01:14.750 --> 00:01:19.209
+Yes, the free energy principle is in effect the
+
+24
+00:01:19.540 --> 00:01:26.500
+physics backstory to um a move in cognitive neuroscience
+
+25
+00:01:26.510 --> 00:01:31.650
+towards understanding brain function in terms of predictive predictive
+
+26
+00:01:31.660 --> 00:01:38.949
+processing and specifically the way in which we actively
+
+27
+00:01:39.470 --> 00:01:44.150
+get information to process and to predict. Um AND
+
+28
+00:01:44.160 --> 00:01:46.889
+that's sometimes in my world referred to as active
+
+29
+00:01:46.900 --> 00:01:51.300
+inference. So the free energy principle is the physicists
+
+30
+00:01:51.309 --> 00:01:57.260
+or the mathematicians foundation from which you can build
+
+31
+00:01:57.269 --> 00:01:59.800
+a story about how we make sense of our
+
+32
+00:01:59.809 --> 00:02:03.639
+world. And I repeat how we actively engage with
+
+33
+00:02:03.650 --> 00:02:06.559
+the world to get the right kinds of sensations
+
+34
+00:02:06.569 --> 00:02:08.000
+to make sense of our world.
+
+35
+00:02:09.449 --> 00:02:15.350
+So when applied to, for example, perception and cognition,
+
+36
+00:02:15.479 --> 00:02:18.660
+you call it active inference is that it
+
+37
+00:02:19.100 --> 00:02:23.990
+Yeah, absolutely. So active inference which um I read
+
+38
+00:02:24.000 --> 00:02:28.660
+as synonymous with predictive processing provided there's an active
+
+39
+00:02:28.669 --> 00:02:34.669
+and embodied aspect to uh predictive processing. Um IS
+
+40
+00:02:34.679 --> 00:02:38.770
+an application of the free energy principle. Um SOMETIMES
+
+41
+00:02:38.919 --> 00:02:43.690
+in explaining the free energy principle, um one can
+
+42
+00:02:43.699 --> 00:02:46.839
+take a low road or a high road and
+
+43
+00:02:46.850 --> 00:02:49.080
+by the low road and the high road, I
+
+44
+00:02:49.089 --> 00:02:55.190
+mean a an intuitive um theological account of what,
+
+45
+00:02:55.199 --> 00:02:58.050
+what it means to engage in active inference and
+
+46
+00:02:58.059 --> 00:03:02.210
+predictive processing um where the the high road will
+
+47
+00:03:02.220 --> 00:03:06.389
+be the physicists way of telling exactly the same
+
+48
+00:03:06.399 --> 00:03:10.630
+story. So um you, you asked for a simple
+
+49
+00:03:10.639 --> 00:03:13.350
+explanation, so perhaps I'll go for the uh the
+
+50
+00:03:13.360 --> 00:03:17.710
+low road explanation um which I think he could
+
+51
+00:03:17.720 --> 00:03:22.070
+probably um start with the ideas of Plato and
+
+52
+00:03:22.080 --> 00:03:26.669
+and his students in terms of um the Allegorical
+
+53
+00:03:26.679 --> 00:03:32.179
+Cave. Um BUT perhaps best developed by um Herman
+
+54
+00:03:32.190 --> 00:03:37.740
+Helmholtz, predicated on his understanding of not only physics,
+
+55
+00:03:37.750 --> 00:03:41.399
+but of course, um perception in the brain as
+
+56
+00:03:41.410 --> 00:03:45.419
+an anatomist and physiologist, possibly predicated on the ideas
+
+57
+00:03:45.429 --> 00:03:48.419
+of Kant that were prevalent at that time. So
+
+58
+00:03:48.429 --> 00:03:52.529
+this um if we start with um Helmholtz and
+
+59
+00:03:52.539 --> 00:03:57.429
+his notion of unconscious inference, the idea here is
+
+60
+00:03:57.440 --> 00:04:01.179
+that we make sense of the world by internally
+
+61
+00:04:01.190 --> 00:04:06.279
+generating a hypothesis, an explanation in our head that
+
+62
+00:04:06.289 --> 00:04:10.190
+could best account for the sensory impressions on our
+
+63
+00:04:10.199 --> 00:04:13.360
+ears, on, on our eyes and all our sensory
+
+64
+00:04:13.369 --> 00:04:19.700
+epithelia. So as Andy Clark puts it where turning
+
+65
+00:04:19.709 --> 00:04:23.920
+the usual conception of perception on its head. So
+
+66
+00:04:24.040 --> 00:04:27.420
+in the 20th century, people thought that perception was
+
+67
+00:04:27.429 --> 00:04:32.540
+basically an outside in process. So sensory information impressed
+
+68
+00:04:32.549 --> 00:04:36.679
+itself upon the sensory organs that was registered by
+
+69
+00:04:36.690 --> 00:04:42.790
+the brain. And somehow this sensory information provided was
+
+70
+00:04:42.799 --> 00:04:47.660
+successively refined and then provided the basis for perception.
+
+71
+00:04:48.829 --> 00:04:53.220
+The predictive processing or active inference story is exactly
+
+72
+00:04:53.230 --> 00:04:57.100
+the other way around. The perception rests upon an
+
+73
+00:04:57.109 --> 00:05:01.510
+inside out process that you are actively and constructively
+
+74
+00:05:01.670 --> 00:05:08.209
+generating hypotheses. Explanations. Sometimes you can think of these
+
+75
+00:05:08.220 --> 00:05:13.670
+as hallucinations or fantasies that are fit for purpose
+
+76
+00:05:13.679 --> 00:05:18.829
+in terms of explaining what I am actually encountering
+
+77
+00:05:19.100 --> 00:05:21.459
+and perhaps the best way of understanding that would
+
+78
+00:05:21.470 --> 00:05:25.359
+be through the lens of predictive coding. So, predictive
+
+79
+00:05:25.369 --> 00:05:29.720
+coding is a scheme in fact, originally invented to
+
+80
+00:05:29.730 --> 00:05:34.859
+compress sound files in the 19 fifties. But more
+
+81
+00:05:34.869 --> 00:05:37.010
+recently, over the past few decades, it has become
+
+82
+00:05:37.019 --> 00:05:41.420
+a very popular scheme for understanding how the brain
+
+83
+00:05:41.429 --> 00:05:46.709
+works in terms of message passing and technically belief,
+
+84
+00:05:46.720 --> 00:05:49.980
+updating. And it's very simple. All that happens is
+
+85
+00:05:49.989 --> 00:05:54.709
+that if I had an idea or a hypothesis
+
+86
+00:05:54.959 --> 00:05:58.609
+about the cause of this pattern of visual input,
+
+87
+00:05:58.619 --> 00:06:02.130
+say it was you and your face that I
+
+88
+00:06:02.140 --> 00:06:04.130
+would be able to predict what I would see
+
+89
+00:06:04.140 --> 00:06:07.480
+if I was right. And I can compare my
+
+90
+00:06:07.489 --> 00:06:11.510
+prediction to what I'm actually sensing. So if I
+
+91
+00:06:11.519 --> 00:06:15.239
+am correct, then there should be no difference between
+
+92
+00:06:15.250 --> 00:06:20.850
+my prediction and my sensations. And that difference is
+
+93
+00:06:20.859 --> 00:06:23.829
+scored by a prediction error. So if I can
+
+94
+00:06:23.839 --> 00:06:28.399
+eliminate or resolve prediction errors, I've got the right
+
+95
+00:06:28.410 --> 00:06:31.959
+explanation for states of affairs in the world out
+
+96
+00:06:31.970 --> 00:06:34.880
+there. And when I say out there, what I,
+
+97
+00:06:34.970 --> 00:06:38.910
+what I'm implying is that the brain can't, doesn't
+
+98
+00:06:38.920 --> 00:06:42.640
+have direct access to the world. It can only
+
+99
+00:06:42.649 --> 00:06:46.010
+sample it all it has access to are very
+
+100
+00:06:46.019 --> 00:06:50.950
+sparse sensory signals afforded by our eyes, our ears,
+
+101
+00:06:50.959 --> 00:06:53.760
+our skin and our body, all our all our
+
+102
+00:06:53.769 --> 00:07:00.029
+sense organs. So this picture puts prediction error at
+
+103
+00:07:00.040 --> 00:07:05.260
+the center of driving changes in our beliefs. So
+
+104
+00:07:05.269 --> 00:07:08.480
+if we have a large prediction error, that basically
+
+105
+00:07:08.489 --> 00:07:14.739
+means our perception, our belief, I should qualify this.
+
+106
+00:07:14.750 --> 00:07:17.329
+When I say belief, I mean a mathematical belief,
+
+107
+00:07:17.339 --> 00:07:21.709
+a representation. If you like an encoding of the
+
+108
+00:07:21.720 --> 00:07:26.839
+cause of a sensation by some neuronal uh activity.
+
+109
+00:07:27.980 --> 00:07:31.209
+So if I have a belief that is not
+
+110
+00:07:31.260 --> 00:07:35.079
+able to predict what I'm currently seeing, I can
+
+111
+00:07:35.089 --> 00:07:39.429
+now use that prediction error to change my mind
+
+112
+00:07:39.440 --> 00:07:42.769
+to. So using the prediction error, the prediction error
+
+113
+00:07:42.779 --> 00:07:48.380
+will drive belief updating until it eliminates itself. And
+
+114
+00:07:48.390 --> 00:07:52.250
+this can be um described in many ways but
+
+115
+00:07:52.260 --> 00:07:56.209
+has a very nice description in relation to the
+
+116
+00:07:56.220 --> 00:08:00.029
+wiring in the brain. And in particular, the sort
+
+117
+00:08:00.040 --> 00:08:03.480
+of hierarchical structure of our brains where there is
+
+118
+00:08:03.489 --> 00:08:11.820
+recurrent message passing or um or influences between successive
+
+119
+00:08:11.829 --> 00:08:15.399
+levels of a hierarchical brain, very much like say
+
+120
+00:08:15.410 --> 00:08:17.739
+an onion. If you imagine the brain being an
+
+121
+00:08:17.750 --> 00:08:20.459
+onion and the surface is in receipt of all
+
+122
+00:08:20.470 --> 00:08:23.799
+the sensory impressions. But there are layers upon layers
+
+123
+00:08:23.809 --> 00:08:26.720
+and layers, literally giving you a very deep structure
+
+124
+00:08:26.769 --> 00:08:29.500
+and deep is used exactly in the sense of
+
+125
+00:08:29.510 --> 00:08:32.219
+deep learning. For example, in machine learning, it's the
+
+126
+00:08:32.229 --> 00:08:35.698
+hierarchical depth that is implied by this steepness. And
+
+127
+00:08:35.707 --> 00:08:39.758
+in the brain, there are connections between one level
+
+128
+00:08:39.768 --> 00:08:43.658
+and a deeper level, which suggests that we can
+
+129
+00:08:43.669 --> 00:08:48.328
+understand these reciprocal or recurrent connections in terms of
+
+130
+00:08:48.338 --> 00:08:51.528
+prediction errors being passed from a low level to
+
+131
+00:08:51.539 --> 00:08:54.518
+a deeper level or a higher level, changing the
+
+132
+00:08:54.528 --> 00:09:00.340
+beliefs. So that the recurrent or the inside out
+
+133
+00:09:00.349 --> 00:09:05.580
+connections now convey the predictions that are the result
+
+134
+00:09:05.590 --> 00:09:08.140
+of my belief updating and the predictions come back
+
+135
+00:09:08.150 --> 00:09:10.780
+down again. They are compared with the input from
+
+136
+00:09:10.789 --> 00:09:13.190
+the lower levels get the prediction error and then
+
+137
+00:09:13.200 --> 00:09:15.840
+that was sent forward. So you have this view
+
+138
+00:09:15.849 --> 00:09:18.559
+of recurrent message passing in the brain where at
+
+139
+00:09:18.570 --> 00:09:22.309
+each level you are trying to minimize the prediction
+
+140
+00:09:22.320 --> 00:09:24.469
+error. And if you can do that in a
+
+141
+00:09:24.479 --> 00:09:29.820
+hierarchical context, then you've got an apt description of
+
+142
+00:09:29.830 --> 00:09:32.349
+the state of the world at multiple levels of
+
+143
+00:09:32.359 --> 00:09:37.869
+abstraction, all driven by these ascending messages ascending deep
+
+144
+00:09:37.880 --> 00:09:42.140
+into the hierarchy that can be construed as prediction
+
+145
+00:09:42.150 --> 00:09:45.770
+errors. So that's if you like the sort of
+
+146
+00:09:46.729 --> 00:09:50.650
+I I mentioned sort of a teen explanation. So
+
+147
+00:09:50.659 --> 00:09:53.950
+the one concern, the objective of the brain is
+
+148
+00:09:53.960 --> 00:09:57.650
+to make sense of the world by finding an
+
+149
+00:09:57.659 --> 00:10:01.500
+appropriate explanation for everything that it is currently sensing.
+
+150
+00:10:01.859 --> 00:10:06.039
+Um And if you take that view and generalize
+
+151
+00:10:06.049 --> 00:10:10.590
+it to um the consequences of action, you can
+
+152
+00:10:10.599 --> 00:10:14.719
+now tell a story whereby some of the things
+
+153
+00:10:14.729 --> 00:10:17.440
+that you're predicting some of the sensations you're predicting
+
+154
+00:10:17.450 --> 00:10:21.479
+are basically reporting the state of your, your body.
+
+155
+00:10:22.030 --> 00:10:24.229
+And this can be in two flavors. It can
+
+156
+00:10:24.239 --> 00:10:28.190
+either be um in terms of the state of
+
+157
+00:10:28.200 --> 00:10:32.059
+your muscles, you know, physically where your limbs are
+
+158
+00:10:32.070 --> 00:10:34.599
+and how the degree to which various muscles are
+
+159
+00:10:34.609 --> 00:10:39.140
+stretched, or it could be um more autonomic, you
+
+160
+00:10:39.169 --> 00:10:41.099
+know. So we can only really affect the world
+
+161
+00:10:41.109 --> 00:10:42.840
+in one of two ways. We can only act
+
+162
+00:10:42.849 --> 00:10:44.070
+upon the world in one or two ways. We
+
+163
+00:10:44.080 --> 00:10:48.770
+can either move a muscle, um striated muscle would
+
+164
+00:10:48.780 --> 00:10:52.059
+be those muscles that we can move, volitionally. Um
+
+165
+00:10:52.070 --> 00:10:55.359
+OR smooth muscle means that we can secrete things
+
+166
+00:10:55.369 --> 00:10:58.229
+or the kind of muscles we find in the
+
+167
+00:10:58.239 --> 00:11:02.169
+heart or the gut. But they're both in essence,
+
+168
+00:11:02.179 --> 00:11:05.299
+providing the brain with signals about the state of
+
+169
+00:11:05.309 --> 00:11:08.309
+the motor system, sometimes known as the motor plant.
+
+170
+00:11:08.719 --> 00:11:11.450
+So notice if I've now got a good prediction
+
+171
+00:11:11.690 --> 00:11:15.380
+of what's happening in the world that includes a
+
+172
+00:11:15.390 --> 00:11:19.289
+prediction of what I should feel my muscles and
+
+173
+00:11:19.299 --> 00:11:22.760
+my autonomic nervous system doing. I can then use
+
+174
+00:11:22.770 --> 00:11:27.799
+that prediction to basically realize or make that prediction
+
+175
+00:11:27.809 --> 00:11:32.280
+come true. And that's um effectively equipping a predictive
+
+176
+00:11:32.289 --> 00:11:38.059
+coding scheme with reflexes. So this this perspective on
+
+177
+00:11:38.099 --> 00:11:45.640
+active sensing, active prediction, um active inference um can
+
+178
+00:11:45.650 --> 00:11:48.590
+be told in many different ways. For example, um
+
+179
+00:11:49.080 --> 00:11:52.580
+in robotics, it would be model predictive control. If
+
+180
+00:11:52.590 --> 00:11:55.960
+you were a motor physiologist, you might describe it
+
+181
+00:11:55.969 --> 00:11:59.250
+in terms of the equilibrium point hypothesis that some
+
+182
+00:11:59.260 --> 00:12:03.080
+people like perceptual control theory. The idea is that
+
+183
+00:12:03.090 --> 00:12:06.770
+you specify you predict the state of your body
+
+184
+00:12:07.510 --> 00:12:11.840
+and then you reflexively fulfill those predictions. And that
+
+185
+00:12:11.849 --> 00:12:16.190
+now takes you beyond this perception, but now subsumes
+
+186
+00:12:16.200 --> 00:12:23.169
+action under this generic imperative to minimize prediction error.
+
+187
+00:12:23.609 --> 00:12:28.340
+And that is one way of understanding um perception
+
+188
+00:12:28.349 --> 00:12:31.900
+and action within the same frame. And then you
+
+189
+00:12:31.909 --> 00:12:33.940
+can sort of add cognition on that and that
+
+190
+00:12:33.950 --> 00:12:36.570
+all this perception has to be contextualized. You have
+
+191
+00:12:36.580 --> 00:12:40.059
+to attend to various things, you have to have
+
+192
+00:12:40.070 --> 00:12:43.390
+the history um of things that have just happened
+
+193
+00:12:43.400 --> 00:12:47.080
+and also crucially roll out into the future. It's
+
+194
+00:12:47.090 --> 00:12:50.900
+certainly if you want to make predictions about your
+
+195
+00:12:51.010 --> 00:12:55.280
+um your behavior that unfolds in terms of policies
+
+196
+00:12:55.289 --> 00:12:59.559
+and plans and narratives of your, what's going to
+
+197
+00:12:59.570 --> 00:13:02.820
+happen to me, what should I do? Um Given
+
+198
+00:13:02.830 --> 00:13:06.640
+I have some predictions about the consequences of acting
+
+199
+00:13:06.650 --> 00:13:09.239
+in this way, uh act or acting in that
+
+200
+00:13:09.250 --> 00:13:13.000
+way. And the link to the free energy principle
+
+201
+00:13:13.229 --> 00:13:17.280
+is that roughly speaking, the total amount of prediction
+
+202
+00:13:17.289 --> 00:13:21.590
+error can be regarded as free energy from the
+
+203
+00:13:21.599 --> 00:13:25.619
+point of view of a theorist um um an
+
+204
+00:13:25.630 --> 00:13:29.559
+information theorist or a physicist. So the free energy
+
+205
+00:13:29.570 --> 00:13:35.590
+of the free energy principle is effectively scoring the
+
+206
+00:13:35.599 --> 00:13:40.119
+prediction er the overall prediction error or the implausibility
+
+207
+00:13:40.330 --> 00:13:43.039
+that if I was right, if my model of
+
+208
+00:13:43.049 --> 00:13:45.969
+the world as it is at the moment was
+
+209
+00:13:45.979 --> 00:13:51.700
+correct, then I'm going to want to um that
+
+210
+00:13:51.710 --> 00:13:53.919
+if it was correct, then the probability of getting
+
+211
+00:13:53.929 --> 00:13:56.770
+these sensory data will be very high and the
+
+212
+00:13:56.780 --> 00:14:00.640
+free energy scores a negative log probability of, of
+
+213
+00:14:00.650 --> 00:14:05.070
+um of, of these data given a particular model
+
+214
+00:14:05.080 --> 00:14:10.140
+of those data um sometimes known as surprise. So
+
+215
+00:14:10.150 --> 00:14:12.820
+you can see immediately that sort of prediction error
+
+216
+00:14:13.070 --> 00:14:18.669
+scores also or reflects the surprise. Technically, uh surprisal.
+
+217
+00:14:18.710 --> 00:14:22.400
+Again, if you're doing information theory, the mathematical description
+
+218
+00:14:22.409 --> 00:14:26.359
+of this is called self information. And that's important
+
+219
+00:14:26.369 --> 00:14:30.669
+because from the point of view of the physicist
+
+220
+00:14:30.679 --> 00:14:34.510
+to thinking about self organizing systems, like you and
+
+221
+00:14:34.520 --> 00:14:39.150
+me, but also like um macro molecules and viruses
+
+222
+00:14:39.159 --> 00:14:47.049
+possibly even to biospheres. Then the minimization of prediction
+
+223
+00:14:47.059 --> 00:14:50.989
+error means the minimization of surprise, which means the
+
+224
+00:14:51.000 --> 00:14:55.090
+minimization of self information. And the key thing here
+
+225
+00:14:55.140 --> 00:14:58.109
+is that the average of the self information is
+
+226
+00:14:58.119 --> 00:15:02.500
+also known as entropy, which means that self-organization of
+
+227
+00:15:02.510 --> 00:15:06.679
+this inactive sort where the system is actually acting
+
+228
+00:15:06.690 --> 00:15:11.289
+upon the world to realize its predictions, or basically
+
+229
+00:15:11.299 --> 00:15:17.830
+means you're resisting um the natural tendency of systems
+
+230
+00:15:17.840 --> 00:15:22.200
+to increase in their entropy, to decay, to dissipate,
+
+231
+00:15:22.229 --> 00:15:27.719
+to die, um to become more disordered. So things
+
+232
+00:15:27.729 --> 00:15:31.390
+that self organize according to the free energy principle
+
+233
+00:15:31.400 --> 00:15:35.640
+resist this entropic erosion. If you are a physiologist,
+
+234
+00:15:35.650 --> 00:15:38.260
+it's just a statement of homeostasis. It just means
+
+235
+00:15:38.270 --> 00:15:41.119
+that I've got certain predictions that I should be
+
+236
+00:15:41.130 --> 00:15:44.640
+say at a particular temperature. And if I sense
+
+237
+00:15:44.650 --> 00:15:49.640
+that my temperature is deviating from these predictions, then
+
+238
+00:15:49.650 --> 00:15:54.789
+that is surprising in a non propositional sense. Um
+
+239
+00:15:54.799 --> 00:15:58.679
+It entails a prediction error because the, you know,
+
+240
+00:15:58.690 --> 00:16:02.799
+my prediction and my sensation are now not in
+
+241
+00:16:02.809 --> 00:16:06.570
+accord. And if I now act in a way
+
+242
+00:16:06.580 --> 00:16:09.570
+to eliminate that prediction error, I will act in
+
+243
+00:16:09.580 --> 00:16:11.979
+a way that brings my temperature back towards my
+
+244
+00:16:11.989 --> 00:16:17.489
+preferred, my preferred homeostatic set point. So there are
+
+245
+00:16:17.500 --> 00:16:19.900
+lots of ways of telling this story depending upon
+
+246
+00:16:19.909 --> 00:16:23.099
+whether you're a physiologist or whether you're an economist
+
+247
+00:16:23.109 --> 00:16:28.080
+or, you know, a mythologist. But they all basically
+
+248
+00:16:28.090 --> 00:16:31.760
+speak to the importance of having a model of
+
+249
+00:16:31.770 --> 00:16:37.659
+the world that prescribes certain behaviors so that you
+
+250
+00:16:37.669 --> 00:16:42.539
+can sample the world so that everything is unsurprising
+
+251
+00:16:42.590 --> 00:16:44.570
+from your point of view, given the kind of
+
+252
+00:16:44.580 --> 00:16:47.250
+thing that you are. Uh I'll just conclude with
+
+253
+00:16:47.260 --> 00:16:50.539
+a couple of um a couple of key points.
+
+254
+00:16:50.590 --> 00:16:54.650
+I'm talking about a model uh very um deliberately
+
+255
+00:16:54.840 --> 00:16:57.690
+because at the heart of this is the notion
+
+256
+00:16:57.700 --> 00:17:00.260
+of a generative model that can generate the predictions.
+
+257
+00:17:00.820 --> 00:17:09.800
+Um So this um this perspective um places center
+
+258
+00:17:09.810 --> 00:17:14.910
+stage, the notion of an agent or anything that
+
+259
+00:17:14.920 --> 00:17:20.290
+has some kind of sentient behavior. Um It means
+
+260
+00:17:20.300 --> 00:17:23.130
+that you can always describe the behavior of this
+
+261
+00:17:23.140 --> 00:17:27.108
+kind of thing in terms of the agent or
+
+262
+00:17:27.118 --> 00:17:29.790
+the system, having a generative model that can generate
+
+263
+00:17:29.800 --> 00:17:33.790
+predictions which it actively pursues and and tries to
+
+264
+00:17:34.050 --> 00:17:37.329
+uh and tries to fulfill. So, you know, the
+
+265
+00:17:37.339 --> 00:17:40.780
+notion of a generative model brings us exactly back
+
+266
+00:17:40.790 --> 00:17:45.359
+to the low road discussion um in the sense
+
+267
+00:17:45.369 --> 00:17:51.349
+that I have models hypotheses, explanations in my mind
+
+268
+00:17:51.500 --> 00:17:56.109
+that I'm actively revising through this process of basing
+
+269
+00:17:56.119 --> 00:18:00.920
+belief, updating another way of describing this. Um um
+
+270
+00:18:01.170 --> 00:18:05.479
+IN order to realize my predictions, given my model
+
+271
+00:18:05.489 --> 00:18:08.290
+of the world that effectively I am, you know,
+
+272
+00:18:08.300 --> 00:18:12.609
+everything that defines my characteristics, sensations and exchange with
+
+273
+00:18:12.619 --> 00:18:16.750
+the world can be described as a generative model.
+
+274
+00:18:17.140 --> 00:18:23.209
+The final point just to explain why people might,
+
+275
+00:18:23.219 --> 00:18:25.260
+terms of people might come across if they read
+
+276
+00:18:25.270 --> 00:18:29.510
+this literature, particularly the philos philosophical literature. It so
+
+277
+00:18:29.520 --> 00:18:34.920
+happens that that's surprise that self information um which
+
+278
+00:18:34.930 --> 00:18:39.609
+mathematically is a negative logarithm of the probability of
+
+279
+00:18:39.729 --> 00:18:43.479
+my sensory data given my model or given me
+
+280
+00:18:43.829 --> 00:18:49.770
+um is also known as the negative log evidence.
+
+281
+00:18:50.829 --> 00:18:54.459
+And the evidence is the evidence for your model
+
+282
+00:18:54.469 --> 00:18:58.670
+of the world, which means you can describe active
+
+283
+00:18:58.680 --> 00:19:02.500
+inference and this active sampling of the data to
+
+284
+00:19:02.510 --> 00:19:06.270
+minimize free energy or prediction error as exactly the
+
+285
+00:19:06.280 --> 00:19:08.819
+same as gathering evidence for your model of the
+
+286
+00:19:08.829 --> 00:19:13.880
+world sometimes refer to as self evidencing. So that's
+
+287
+00:19:13.890 --> 00:19:17.469
+something that Jacob Hai has promoted, which I think
+
+288
+00:19:17.479 --> 00:19:21.239
+is a very neat summary of this kind of
+
+289
+00:19:21.250 --> 00:19:25.189
+explanation. We're just in the game of gathering evidence
+
+290
+00:19:25.209 --> 00:19:28.290
+for our model of the lived or possibly sensed
+
+291
+00:19:28.300 --> 00:19:28.680
+world.
+
+292
+00:19:29.540 --> 00:19:32.180
+Mhm No, it is a great summary. And before
+
+293
+00:19:32.189 --> 00:19:36.250
+we delve deeper into the cognitive science and the
+
+294
+00:19:36.260 --> 00:19:39.119
+neuroscience of it, because there are also a few
+
+295
+00:19:39.130 --> 00:19:41.859
+concepts, there are terms that you use that I
+
+296
+00:19:41.869 --> 00:19:45.079
+would like you to uh explain a little bit
+
+297
+00:19:45.089 --> 00:19:50.614
+better. Like for example, generative model, autonomous states, hierarchical
+
+298
+00:19:50.625 --> 00:19:53.375
+organization. Before we get into all of that, let's
+
+299
+00:19:53.385 --> 00:19:57.244
+go step by step here. So one concept that
+
+300
+00:19:57.255 --> 00:20:00.094
+I would like you to explain to people who
+
+301
+00:20:00.104 --> 00:20:03.984
+are not familiar with the free energy principle is
+
+302
+00:20:03.994 --> 00:20:06.604
+what are Markov blankets?
+
+303
+00:20:08.119 --> 00:20:10.170
+That was the one thing that I didn't include
+
+304
+00:20:10.180 --> 00:20:16.750
+in my long, long, well spotted, right? So the
+
+305
+00:20:16.760 --> 00:20:23.339
+physics um um story, the free energy principle has
+
+306
+00:20:23.349 --> 00:20:28.000
+to derive the self evidencing. I've just described the
+
+307
+00:20:28.010 --> 00:20:31.449
+predictive pressing I have just described from first principles.
+
+308
+00:20:32.099 --> 00:20:36.369
+So how does, how does one do that? Um
+
+309
+00:20:36.380 --> 00:20:40.739
+It's relatively straightforward, although it does involve um um
+
+310
+00:20:41.020 --> 00:20:44.739
+some esoteric maths if you're not, if you're not
+
+311
+00:20:44.750 --> 00:20:47.660
+uh a physicist. Uh BUT the arguments are quite
+
+312
+00:20:47.670 --> 00:20:52.619
+straightforward. THE, you f you basically start by asking
+
+313
+00:20:52.630 --> 00:20:56.209
+the question, if you want to talk about self-organization,
+
+314
+00:20:56.589 --> 00:21:00.959
+what is a self? And that's quite a deep
+
+315
+00:21:00.969 --> 00:21:04.560
+question. So the first thing you realize is that
+
+316
+00:21:04.569 --> 00:21:08.109
+you have to be able to mathematically in a,
+
+317
+00:21:08.119 --> 00:21:12.839
+in a principled way, individuate the states of the
+
+318
+00:21:12.849 --> 00:21:16.199
+self from everything else that is not the self.
+
+319
+00:21:17.479 --> 00:21:21.660
+How would you do that? Well, as a physicist,
+
+320
+00:21:21.869 --> 00:21:25.680
+you can't assume that the self is closed. So
+
+321
+00:21:25.689 --> 00:21:28.219
+you can't assume the kind of physics that you
+
+322
+00:21:28.229 --> 00:21:31.300
+would have been taught at school where there is
+
+323
+00:21:31.310 --> 00:21:35.020
+an equilibrium in a closed system. So for example,
+
+324
+00:21:35.030 --> 00:21:39.060
+the second law of thermodynamics only applies to closed
+
+325
+00:21:39.069 --> 00:21:45.099
+systems where there is no openness of the self,
+
+326
+00:21:45.109 --> 00:21:50.160
+to the environment, to the eco niche um to
+
+327
+00:21:50.170 --> 00:21:53.010
+other selves. So we are now talking about the
+
+328
+00:21:53.020 --> 00:21:58.119
+physics of open systems. And in so doing, we
+
+329
+00:21:58.130 --> 00:22:02.400
+have to now distinguish the states of a self
+
+330
+00:22:02.410 --> 00:22:08.000
+or anything, anything basically from everything else or nothing.
+
+331
+00:22:08.689 --> 00:22:11.160
+And that's where the Markov blanket comes into play.
+
+332
+00:22:11.410 --> 00:22:16.060
+So the Markov blanket is a set of states
+
+333
+00:22:16.699 --> 00:22:22.130
+that intervene between the states that are internal to
+
+334
+00:22:22.550 --> 00:22:25.550
+let's call it an agent. It could be anything,
+
+335
+00:22:25.560 --> 00:22:27.469
+it could be any self, let's call it, call
+
+336
+00:22:27.479 --> 00:22:29.790
+it an agent, but it could be a particle,
+
+337
+00:22:29.800 --> 00:22:30.800
+it could be a person, it could be a
+
+338
+00:22:30.810 --> 00:22:34.079
+population, but we'll call it an agent. So the
+
+339
+00:22:34.199 --> 00:22:38.459
+Markov blanket is a way of drawing a boundary
+
+340
+00:22:38.920 --> 00:22:42.290
+around the states that are internal to the agent
+
+341
+00:22:42.680 --> 00:22:47.020
+that separates the internal states from the external states.
+
+342
+00:22:47.030 --> 00:22:50.329
+And the external states are now the environment and
+
+343
+00:22:50.339 --> 00:22:52.680
+the Markov blanket very much in the same way
+
+344
+00:22:52.689 --> 00:22:55.780
+that we talked about before that the brain is
+
+345
+00:22:55.790 --> 00:22:58.300
+in the darkness of the skull and only has
+
+346
+00:22:58.310 --> 00:23:02.689
+access to the environment through the sensory impressions. So
+
+347
+00:23:02.699 --> 00:23:07.189
+the Markov blanket contains all the sensory impressions that
+
+348
+00:23:07.199 --> 00:23:11.739
+the external states provide on the blanket. These are
+
+349
+00:23:11.750 --> 00:23:16.290
+sensations and then those sensory states that are part
+
+350
+00:23:16.300 --> 00:23:18.920
+of the boundary of the blanket then affect the
+
+351
+00:23:18.930 --> 00:23:22.300
+intern states in the neuronal activity. But the Markov
+
+352
+00:23:22.310 --> 00:23:27.410
+blanket also contains those states that mediate the influence
+
+353
+00:23:27.420 --> 00:23:30.650
+of the inside on the outside and they refer
+
+354
+00:23:30.660 --> 00:23:33.719
+to as active states. So you've got this notion
+
+355
+00:23:33.729 --> 00:23:36.479
+that there's a set of states, the internal states
+
+356
+00:23:36.489 --> 00:23:40.650
+say my brain, I've got my external states, the
+
+357
+00:23:40.660 --> 00:23:44.300
+rest of the universe. And then there are the
+
+358
+00:23:44.310 --> 00:23:47.000
+boundary or the blanket states. This is a Markov
+
+359
+00:23:47.030 --> 00:23:50.300
+blanket and they are split into two and the
+
+360
+00:23:50.310 --> 00:23:53.359
+sensory states mediate the effects of the outside on
+
+361
+00:23:53.369 --> 00:23:57.469
+the inside and the active states mediate the effects
+
+362
+00:23:57.479 --> 00:24:00.729
+of the inside on the outside. So this is
+
+363
+00:24:00.739 --> 00:24:04.880
+the physics and the Markov blanket has a very
+
+364
+00:24:04.890 --> 00:24:12.109
+particular definition. It simply means that the the um
+
+365
+00:24:12.290 --> 00:24:17.359
+the sensory states cannot be influenced by the internal
+
+366
+00:24:17.369 --> 00:24:22.150
+states and the active states cannot be influenced by
+
+367
+00:24:22.160 --> 00:24:25.010
+the external states. So let me try and make
+
+368
+00:24:25.020 --> 00:24:28.609
+that even simpler. Um If you were a systems
+
+369
+00:24:28.619 --> 00:24:32.099
+theorist, you would define any given system. So now
+
+370
+00:24:32.109 --> 00:24:34.979
+our agent is now a system um in terms
+
+371
+00:24:34.989 --> 00:24:39.349
+of its inputs and outputs and the active and
+
+372
+00:24:39.359 --> 00:24:43.229
+sensory states are just the outputs and the inputs
+
+373
+00:24:43.239 --> 00:24:45.750
+of a particular system. So it's a way of
+
+374
+00:24:45.760 --> 00:24:49.959
+defining a system or an agent in terms of
+
+375
+00:24:49.969 --> 00:24:53.010
+its relationship to everything else through its inputs and
+
+376
+00:24:53.020 --> 00:24:57.390
+outputs. And the Markov blanket condition requires that the
+
+377
+00:24:57.400 --> 00:25:00.469
+inputs to a system cannot be affected by the
+
+378
+00:25:00.479 --> 00:25:04.829
+system that is being into which the inputs are
+
+379
+00:25:04.839 --> 00:25:09.589
+being supplied. Similarly, the outputs of a system can't
+
+380
+00:25:09.599 --> 00:25:13.670
+be influenced by the, by the external states that
+
+381
+00:25:13.680 --> 00:25:16.550
+are receiving that output. And with that very, very
+
+382
+00:25:16.560 --> 00:25:22.310
+simple rule or definition of some thing, an agent
+
+383
+00:25:22.319 --> 00:25:25.810
+or a system. Um IN terms of Markov blankets,
+
+384
+00:25:25.869 --> 00:25:28.599
+you can then show that there is always a
+
+385
+00:25:28.609 --> 00:25:33.670
+description of the observable aspects of the system which
+
+386
+00:25:33.680 --> 00:25:36.680
+are just the uh the blanket state. So you
+
+387
+00:25:36.689 --> 00:25:41.000
+can never see inside you observing me means that
+
+388
+00:25:41.010 --> 00:25:43.800
+all you can see are my blanket states, my
+
+389
+00:25:43.810 --> 00:25:47.599
+surface, my boundary. Uh And usually you can only
+
+390
+00:25:47.609 --> 00:25:51.439
+see the consequences of my, of my action. Um
+
+391
+00:25:52.849 --> 00:25:58.030
+So given those, um given those um uh those
+
+392
+00:25:58.040 --> 00:26:01.660
+conditions and the existence of a Markov blanket, um
+
+393
+00:26:01.719 --> 00:26:06.180
+it is then fairly straightforward to show mathematically that
+
+394
+00:26:06.189 --> 00:26:09.689
+the internal states and the active states have to
+
+395
+00:26:09.699 --> 00:26:14.520
+minimize free energy if this system has some characteristic
+
+396
+00:26:14.530 --> 00:26:18.010
+states and it has to have characteristic states, otherwise
+
+397
+00:26:18.020 --> 00:26:20.750
+it wouldn't have a markoff blanket. So what you're
+
+398
+00:26:20.760 --> 00:26:23.709
+saying is that anything that exists in the sense
+
+399
+00:26:23.719 --> 00:26:28.660
+of possessing a Markov blanket or a boundary that
+
+400
+00:26:28.670 --> 00:26:32.680
+persists over a certain amount of time can always
+
+401
+00:26:32.689 --> 00:26:38.040
+be described as self evidencing, can always be described
+
+402
+00:26:38.109 --> 00:26:40.839
+as if it is engaging in some kind of
+
+403
+00:26:40.849 --> 00:26:44.469
+active infant sense making and acting on the basis
+
+404
+00:26:44.479 --> 00:26:47.430
+of, of that sense making. So the mark of
+
+405
+00:26:47.449 --> 00:26:50.359
+black is absolutely crucial because that's where the story
+
+406
+00:26:50.369 --> 00:26:54.560
+starts really. And it also it takes you beyond
+
+407
+00:26:54.589 --> 00:26:58.630
+um physics as we know and love it. Um
+
+408
+00:26:58.819 --> 00:27:03.420
+IN the sense that um this description of the
+
+409
+00:27:03.430 --> 00:27:08.040
+dynamics of something or an agent is in terms
+
+410
+00:27:08.050 --> 00:27:15.619
+of the, the internal states holding mathematical or probabilistic
+
+411
+00:27:15.630 --> 00:27:20.069
+beliefs about external states. This is quite unique to
+
+412
+00:27:20.079 --> 00:27:22.189
+the free energy principle. Normally, when people talk about
+
+413
+00:27:22.199 --> 00:27:26.359
+probability distributions, they are talking about a probability distribution
+
+414
+00:27:26.369 --> 00:27:30.949
+over some states. When you're, when you're talking about
+
+415
+00:27:31.209 --> 00:27:35.449
+um the free energy principle and what some people
+
+416
+00:27:35.459 --> 00:27:39.250
+refer to as the basing mechanics that ensues you're
+
+417
+00:27:39.260 --> 00:27:44.489
+talking now truly about um beliefs encoded by the
+
+418
+00:27:44.500 --> 00:27:49.420
+internal states about something. So it's information beyond Shannon,
+
+419
+00:27:49.520 --> 00:27:54.189
+it's, you know, it's truly representational beliefs. And I
+
+420
+00:27:54.199 --> 00:27:57.469
+introduced the notion of basing mechanics because um just
+
+421
+00:27:57.479 --> 00:28:02.140
+to reassure you that the maths that underwrites the
+
+422
+00:28:02.150 --> 00:28:07.310
+basic mechanics um is exactly the same maths that
+
+423
+00:28:07.319 --> 00:28:11.930
+you will find in quantum mechanics in statistical mechanics.
+
+424
+00:28:11.939 --> 00:28:15.819
+And in classical mechanics, it's all the same maths.
+
+425
+00:28:15.829 --> 00:28:19.750
+The only difference um or the only special thing
+
+426
+00:28:20.079 --> 00:28:23.510
+required by the basing mechanics is the existence of,
+
+427
+00:28:23.520 --> 00:28:27.640
+of this separation. Uh The Markov blanket that separates
+
+428
+00:28:27.880 --> 00:28:30.959
+the states of something from the states that are
+
+429
+00:28:30.969 --> 00:28:33.189
+not part of, of the thing in question.
+
+430
+00:28:34.839 --> 00:28:39.089
+And is it possible to determine precisely where the
+
+431
+00:28:39.099 --> 00:28:43.199
+boundary or the mark of blanket is located and
+
+432
+00:28:43.209 --> 00:28:47.459
+how we separate internal states from external states?
+
+433
+00:28:48.349 --> 00:28:52.130
+Yes. Uh YOU know, with, with a formal and
+
+434
+00:28:52.140 --> 00:28:56.050
+um um mathematically crisp definition. Yes, it is. So
+
+435
+00:28:56.099 --> 00:29:00.489
+um um you and there are if you like
+
+436
+00:29:00.500 --> 00:29:05.260
+numerical um studies illustrating, how you can identify markoff
+
+437
+00:29:05.270 --> 00:29:09.729
+blankets, given some data. Um I have colleagues um
+
+438
+00:29:10.760 --> 00:29:14.520
+um in academia and in industry working on Markov
+
+439
+00:29:14.550 --> 00:29:19.689
+blanket discovery algorithms. Um So it certainly is possible
+
+440
+00:29:19.699 --> 00:29:23.369
+and what you're basically looking for is um an
+
+441
+00:29:23.380 --> 00:29:27.099
+absence of, of influence or coupling that it's this
+
+442
+00:29:27.109 --> 00:29:33.099
+sparsity um that emerges from, oh sorry, that underpins
+
+443
+00:29:33.209 --> 00:29:38.250
+Marko blankets. And interestingly in um some work by,
+
+444
+00:29:38.260 --> 00:29:42.459
+by my friend Dalton shows that for any um
+
+445
+00:29:42.770 --> 00:29:47.380
+technically any random uh random dynamical system with sparse
+
+446
+00:29:47.390 --> 00:29:51.250
+coupling, there will always be with probability 11 or
+
+447
+00:29:51.260 --> 00:29:55.150
+more markoff blankets in any system. So, you know,
+
+448
+00:29:55.160 --> 00:29:58.280
+these are not remarkable things, you know, it can
+
+449
+00:29:58.290 --> 00:30:00.564
+be no, the way for any random, you know,
+
+450
+00:30:00.785 --> 00:30:06.015
+any random dynamical system that has um that persists
+
+451
+00:30:06.025 --> 00:30:10.005
+it doesn't sort of diverge exponentially into nothing as
+
+452
+00:30:10.015 --> 00:30:12.464
+long as it persists and has technically what's called
+
+453
+00:30:12.474 --> 00:30:14.755
+a pull back a tractor, then you will have
+
+454
+00:30:14.765 --> 00:30:19.420
+markoff blankets having said that um you have to
+
+455
+00:30:19.430 --> 00:30:25.119
+pick the scale and the internal states to define
+
+456
+00:30:25.130 --> 00:30:28.660
+the Markov blanket. So there's not one Markov blanket,
+
+457
+00:30:28.750 --> 00:30:34.060
+there are possibly uncountable, countably large number of Markov
+
+458
+00:30:34.150 --> 00:30:37.099
+blankets and you can have Markov blankets within Markov
+
+459
+00:30:37.180 --> 00:30:41.010
+blankets. You can have Markov blankets of Markov blankets.
+
+460
+00:30:41.239 --> 00:30:44.859
+So you, you have to, if you actually wanted
+
+461
+00:30:44.869 --> 00:30:48.180
+to identify a Markov blanket and there are lots
+
+462
+00:30:48.189 --> 00:30:49.760
+of good reasons why you might want to do
+
+463
+00:30:49.770 --> 00:30:52.829
+that. You really have to specify the scale at
+
+464
+00:30:52.839 --> 00:30:55.000
+which you are doing it. So if you were
+
+465
+00:30:55.010 --> 00:30:58.599
+a molecular biologist, the Markov blanket or a cellular
+
+466
+00:30:58.609 --> 00:31:02.109
+biologist, you might draw a Markov blanket around a
+
+467
+00:31:02.119 --> 00:31:06.329
+particular cell of interest. If you were a cognitive
+
+468
+00:31:06.339 --> 00:31:09.939
+neuroscientist, you might draw it around the brain. If
+
+469
+00:31:09.949 --> 00:31:14.410
+you were a theoretical biologist interested in evolution, you
+
+470
+00:31:14.420 --> 00:31:17.219
+might draw it around a species. If you were
+
+471
+00:31:17.229 --> 00:31:20.089
+doing climate change, you might draw it around certain
+
+472
+00:31:20.099 --> 00:31:24.380
+aspects of the biosphere. So uh and each one
+
+473
+00:31:24.390 --> 00:31:27.489
+of these Markov blankets would, would contextualize all the,
+
+474
+00:31:27.500 --> 00:31:30.410
+all the smaller Markov blankets within it and at
+
+475
+00:31:30.420 --> 00:31:34.489
+different scales. So I I'm trying to emphasize there
+
+476
+00:31:34.500 --> 00:31:37.079
+is no wrong Markov blanket. But as soon as
+
+477
+00:31:37.089 --> 00:31:40.540
+you identify some thing, then it must, by definition
+
+478
+00:31:40.550 --> 00:31:43.589
+have a markoff blanket. So if it is a
+
+479
+00:31:43.599 --> 00:31:47.040
+natural kind, then it must have a Markov blanket
+
+480
+00:31:47.050 --> 00:31:49.020
+just to describe it. So a cell has a
+
+481
+00:31:49.030 --> 00:31:54.150
+markoff blanket. Um A organ has a markoff blanket,
+
+482
+00:31:54.329 --> 00:31:56.459
+a set of organs, a phenotype has a markoff
+
+483
+00:31:56.489 --> 00:32:00.979
+blanket. A family has a markoff blanket, a community,
+
+484
+00:32:00.989 --> 00:32:04.579
+a population, they all have their inputs and outputs.
+
+485
+00:32:04.630 --> 00:32:07.719
+And I repeat because you've got a very precise
+
+486
+00:32:07.729 --> 00:32:11.199
+specification of what it means how you define the
+
+487
+00:32:11.209 --> 00:32:13.979
+Markov blanket. All you have to do is to
+
+488
+00:32:13.989 --> 00:32:17.130
+identify the sparse coupling. You just have to identify
+
+489
+00:32:17.140 --> 00:32:20.670
+what is not influenced by what. And once you've
+
+490
+00:32:20.680 --> 00:32:24.209
+done that, there are easy mathematical recipes for identifying
+
+491
+00:32:24.290 --> 00:32:28.219
+the Markov blanket just for your entertainment. Um The
+
+492
+00:32:28.229 --> 00:32:31.209
+the Marko blanket of any given state or set
+
+493
+00:32:31.219 --> 00:32:37.150
+of states is effectively the parents of by which
+
+494
+00:32:37.160 --> 00:32:40.420
+I mean, those things that influence the parents of
+
+495
+00:32:40.430 --> 00:32:45.780
+your internal states, the Children, which are your active
+
+496
+00:32:45.790 --> 00:32:49.310
+states, the things that you influence in the things
+
+497
+00:32:49.319 --> 00:32:52.349
+that the internal states influence and the parents of
+
+498
+00:32:52.359 --> 00:32:56.300
+the Children. So, if you think about the the
+
+499
+00:32:56.310 --> 00:32:59.739
+two rules, I said that the sensory states cannot
+
+500
+00:32:59.750 --> 00:33:03.040
+be influenced by the internal states and the active
+
+501
+00:33:03.050 --> 00:33:06.300
+states cannot be influenced by the external states. Then
+
+502
+00:33:06.390 --> 00:33:10.969
+the complete set of parents and Children and parents
+
+503
+00:33:10.979 --> 00:33:13.790
+of the Children are just the blanket state. It
+
+504
+00:33:13.810 --> 00:33:16.560
+is sensitive based on the active states. So you
+
+505
+00:33:16.569 --> 00:33:20.069
+can identify that using matrix algebra and dynamical systems
+
+506
+00:33:20.079 --> 00:33:23.390
+theory. Um OR you can infer that by using
+
+507
+00:33:23.400 --> 00:33:25.349
+Markov blanket discovery algorithms.
+
+508
+00:33:26.180 --> 00:33:31.880
+Mhm But there's a bidirectional interaction between the internal
+
+509
+00:33:31.890 --> 00:33:33.910
+states and the external states.
+
+510
+00:33:33.920 --> 00:33:37.709
+Correct. Absolutely. And, and that, I mean that that
+
+511
+00:33:37.719 --> 00:33:40.910
+is a key construct uh that the Markov blanket
+
+512
+00:33:41.060 --> 00:33:43.390
+uh brings to the table, you've got this sort
+
+513
+00:33:43.400 --> 00:33:47.170
+of um boundary that allows you to say no,
+
+514
+00:33:47.180 --> 00:33:49.849
+these are the states of the agent or the
+
+515
+00:33:49.859 --> 00:33:52.569
+system in question. And these are the state of
+
+516
+00:33:52.579 --> 00:33:56.890
+the environment um or the external states, but they
+
+517
+00:33:56.900 --> 00:34:02.099
+are uh bidirectionally coupled. So the system is vicariously
+
+518
+00:34:02.109 --> 00:34:06.819
+open to everything else, but only through this two
+
+519
+00:34:06.829 --> 00:34:10.679
+way street, which is the Markov blanket. And you
+
+520
+00:34:10.688 --> 00:34:13.879
+know, and that reciprocal aspect that you you foregrounded
+
+521
+00:34:13.889 --> 00:34:16.889
+there is really important. And that's just why I
+
+522
+00:34:16.899 --> 00:34:20.000
+made such a big point about saying there are
+
+523
+00:34:20.010 --> 00:34:23.989
+sensory and active parts of the Markov blanket sometimes
+
+524
+00:34:24.000 --> 00:34:27.310
+referred to as sectors. Um And I say that
+
+525
+00:34:27.320 --> 00:34:29.739
+because the, you know, you can think of the
+
+526
+00:34:29.748 --> 00:34:34.239
+Markov blanket in terms of inputs and outputs. Um
+
+527
+00:34:34.248 --> 00:34:38.289
+But you can also um apply quantum information theory.
+
+528
+00:34:38.299 --> 00:34:40.549
+Um And people like chris fields have done this
+
+529
+00:34:40.559 --> 00:34:42.918
+and then the Markov blanket becomes something known as
+
+530
+00:34:42.928 --> 00:34:46.408
+a holographic screen. And the holographic principle says that
+
+531
+00:34:46.518 --> 00:34:51.368
+all the information that is accessible um from an
+
+532
+00:34:51.378 --> 00:34:55.043
+observer from the outside about the internal states on
+
+533
+00:34:55.054 --> 00:34:58.725
+the other side of the holographic screen is available
+
+534
+00:34:58.774 --> 00:35:01.915
+on the holographic screen. So that's all, that's what
+
+535
+00:35:01.925 --> 00:35:05.324
+I was intimating before. When I, you know, when
+
+536
+00:35:05.334 --> 00:35:08.564
+I'm looking at you, I'm basically looking at your
+
+537
+00:35:08.574 --> 00:35:12.205
+Markov blanket or your holographic screen at the scale
+
+538
+00:35:12.215 --> 00:35:14.284
+that you know that we are actually communicating.
+
+539
+00:35:15.629 --> 00:35:19.459
+So if we want to talk about causality here,
+
+540
+00:35:19.469 --> 00:35:23.699
+would there be a circular causality between the internal
+
+541
+00:35:23.709 --> 00:35:26.219
+states and the external states? Is that it?
+
+542
+00:35:26.229 --> 00:35:29.649
+Yes. Yeah, that, that, that, that is another really
+
+543
+00:35:29.659 --> 00:35:34.820
+important point. Yes. Um So, first of all, just
+
+544
+00:35:34.830 --> 00:35:40.149
+to be very clear and precise about um causal
+
+545
+00:35:40.280 --> 00:35:44.719
+causality in this framework. Um So this framework, the
+
+546
+00:35:44.729 --> 00:35:48.270
+three principle always stays very close to the physics.
+
+547
+00:35:48.449 --> 00:35:52.330
+So causality here is very, very clear. It is
+
+548
+00:35:52.449 --> 00:35:58.260
+basically the influence of one state on another state
+
+549
+00:35:58.270 --> 00:36:01.879
+that is expressed in time, usually expressed in terms
+
+550
+00:36:01.889 --> 00:36:04.469
+of a stochastic differential equation, which would be one
+
+551
+00:36:04.479 --> 00:36:07.580
+way of writing down a random dynamical system such
+
+552
+00:36:07.590 --> 00:36:09.699
+as I say a long random system. So we're
+
+553
+00:36:09.709 --> 00:36:14.409
+using causality in a mathematical sense. Um um THAT
+
+554
+00:36:14.419 --> 00:36:17.590
+could also be read as in a controlled theoretic
+
+555
+00:36:17.600 --> 00:36:21.629
+sense I cause changes in you simply by having
+
+556
+00:36:21.639 --> 00:36:24.899
+an influence on you. So is that causal structure
+
+557
+00:36:26.149 --> 00:36:29.889
+that defines the Markov blanket? Now notice there is
+
+558
+00:36:29.899 --> 00:36:36.330
+another whole universe of causality which does not rest
+
+559
+00:36:36.340 --> 00:36:39.899
+upon control theory or dynamical systems theory or random
+
+560
+00:36:39.909 --> 00:36:44.739
+dynamical systems. Um You know, the French principle is
+
+561
+00:36:44.750 --> 00:36:47.810
+not interested in that kind of causality. It's just
+
+562
+00:36:47.820 --> 00:36:50.899
+interested in exactly the kind of causality that underwrites
+
+563
+00:36:50.909 --> 00:36:54.979
+the uh the market blanket. And simply because we've
+
+564
+00:36:54.989 --> 00:36:59.919
+got these bidirectional influences causal inferences, you're absolutely right.
+
+565
+00:36:59.929 --> 00:37:03.600
+There's c causality and that circular causality just as
+
+566
+00:37:03.610 --> 00:37:08.330
+the action perception cycle. And that becomes really important
+
+567
+00:37:08.340 --> 00:37:11.330
+when you think about two agents or an ensemble
+
+568
+00:37:11.340 --> 00:37:15.820
+of agents all communicating with each other or coupled
+
+569
+00:37:15.830 --> 00:37:19.580
+through their own bound markoff boundaries or markoff blankets
+
+570
+00:37:19.590 --> 00:37:24.540
+with each other, no one system causes the others,
+
+571
+00:37:24.550 --> 00:37:27.370
+they all cause each other. Uh And you even
+
+572
+00:37:27.379 --> 00:37:30.580
+see that uh within the o let's take, let's
+
+573
+00:37:30.590 --> 00:37:34.219
+come back to this notion of the brain as
+
+574
+00:37:34.229 --> 00:37:38.750
+a hierarchical generative model. Then the hierarchies are defined
+
+575
+00:37:38.760 --> 00:37:41.120
+by their Markov blankets. So you've got nested Markov
+
+576
+00:37:41.169 --> 00:37:44.739
+blankets in the brain. And we were saying before
+
+577
+00:37:44.750 --> 00:37:55.560
+that one functional architecture that is um necessary, not
+
+578
+00:37:55.870 --> 00:38:00.540
+that is necessary in terms of the Markov banker,
+
+579
+00:38:00.550 --> 00:38:03.280
+but also necessary to understand the predicted coding is
+
+580
+00:38:03.290 --> 00:38:05.969
+the sort of they are sending and descending messages,
+
+581
+00:38:05.979 --> 00:38:09.250
+predictions and prediction errors. So again, you know, you've
+
+582
+00:38:09.260 --> 00:38:12.250
+got circular causality. Does the prediction cause a prediction
+
+583
+00:38:12.260 --> 00:38:16.649
+error or does the prediction revise your prediction. So
+
+584
+00:38:16.739 --> 00:38:19.709
+circular circular causality wherever you look.
+
+585
+00:38:20.159 --> 00:38:23.260
+Mhm Perhaps this is a good point to introduce.
+
+586
+00:38:23.270 --> 00:38:27.020
+Then another concept, what is an autonomous state,
+
+587
+00:38:28.639 --> 00:38:32.070
+an autonomous state in the context of a Markov
+
+588
+00:38:32.189 --> 00:38:36.629
+blanket partition is just a description of those states
+
+589
+00:38:36.840 --> 00:38:41.580
+that can be described as minimizing free energy and
+
+590
+00:38:41.590 --> 00:38:44.370
+very simply they are just the internal states and
+
+591
+00:38:44.379 --> 00:38:50.929
+the active states. So mathematically, um it's just those
+
+592
+00:38:50.939 --> 00:38:55.010
+states, those subset, those states of a particular agent
+
+593
+00:38:55.370 --> 00:38:58.250
+um that can be described as if they are
+
+594
+00:38:58.260 --> 00:39:03.739
+minimizing prediction error or free energy. So the nice
+
+595
+00:39:03.750 --> 00:39:07.280
+thing about having that split of autonomous states into
+
+596
+00:39:07.290 --> 00:39:10.800
+internal states and active states, then you can say
+
+597
+00:39:10.810 --> 00:39:14.020
+that it must be the case that the internal
+
+598
+00:39:14.030 --> 00:39:17.270
+states are minimizing free energy. So it looks as
+
+599
+00:39:17.280 --> 00:39:19.340
+if they are minimizing their prediction. So it looks
+
+600
+00:39:19.350 --> 00:39:22.520
+as if they are doing perception while the active
+
+601
+00:39:22.530 --> 00:39:25.439
+states which are the other part of the autonomous
+
+602
+00:39:25.449 --> 00:39:29.459
+states um are also minimizing exactly the same quantity
+
+603
+00:39:29.469 --> 00:39:31.830
+which is the prediction error. But in this instance,
+
+604
+00:39:31.840 --> 00:39:35.219
+in the productions of the felt body, technically the
+
+605
+00:39:35.229 --> 00:39:40.449
+proprioceptive or inceptive um uh predictions. And of course,
+
+606
+00:39:40.459 --> 00:39:43.270
+that's just action. So again, you've got a nice
+
+607
+00:39:43.280 --> 00:39:47.199
+if you like a common framework or a first
+
+608
+00:39:47.209 --> 00:39:52.949
+principle account that ties together action and perception through
+
+609
+00:39:52.959 --> 00:39:56.679
+a common application of the free energy principle to,
+
+610
+00:39:56.689 --> 00:39:58.899
+to those states to which the free energy principle
+
+611
+00:39:58.909 --> 00:40:01.419
+applies, which are just the internal states and the
+
+612
+00:40:01.429 --> 00:40:03.979
+active states. So notice the sensory states don't do
+
+613
+00:40:03.989 --> 00:40:07.729
+that. The sensory states don't minimize prediction error because
+
+614
+00:40:07.739 --> 00:40:10.320
+they are influenced by the external states. But the
+
+615
+00:40:10.330 --> 00:40:15.790
+active states by construction are only influenced, they are
+
+616
+00:40:15.800 --> 00:40:19.040
+not influenced by the external states and the internal
+
+617
+00:40:19.050 --> 00:40:21.979
+states are not influenced directly by the external states
+
+618
+00:40:21.989 --> 00:40:25.860
+because they are hidden behind or sequestered by the
+
+619
+00:40:25.870 --> 00:40:29.840
+Markov blanket. So the autonomous states, the active states
+
+620
+00:40:30.209 --> 00:40:34.149
+and the internal states are unique in the sense
+
+621
+00:40:34.159 --> 00:40:36.919
+that they are not directly influenced or caused by
+
+622
+00:40:36.929 --> 00:40:41.189
+external states. And that's, you know, that then um
+
+623
+00:40:41.300 --> 00:40:44.639
+leads you to this interpretation in terms of inference,
+
+624
+00:40:44.649 --> 00:40:47.340
+in terms of, you know, the internal states holding
+
+625
+00:40:47.350 --> 00:40:50.669
+beliefs about the external states and using those beliefs
+
+626
+00:40:50.679 --> 00:40:52.989
+to predict how they're going to act, act upon
+
+627
+00:40:53.000 --> 00:40:53.399
+the world.
+
+628
+00:40:54.350 --> 00:40:58.600
+Mhm You've already explained here more or less how
+
+629
+00:40:58.610 --> 00:41:02.669
+this framework might apply to different kinds of systems.
+
+630
+00:41:02.679 --> 00:41:06.719
+But how do we get to living systems? I
+
+631
+00:41:06.729 --> 00:41:09.919
+mean, what is the difference between a living system
+
+632
+00:41:09.929 --> 00:41:11.689
+and the nonliving system?
+
+633
+00:41:13.000 --> 00:41:17.149
+Um Yeah, that's an excellent question. Um I think
+
+634
+00:41:17.159 --> 00:41:19.199
+probably best tackled from the point of view, the
+
+635
+00:41:19.209 --> 00:41:22.979
+free energy principle. Um So you've got this um
+
+636
+00:41:23.610 --> 00:41:27.340
+this description of any kind of particle, any kind
+
+637
+00:41:27.500 --> 00:41:31.340
+of thing um in terms of its markoff blanket
+
+638
+00:41:31.350 --> 00:41:36.050
+partition. Now that means that there are different kinds
+
+639
+00:41:36.060 --> 00:41:38.800
+of things. And your question I think is at
+
+640
+00:41:38.810 --> 00:41:42.459
+what point would you call this particle living or
+
+641
+00:41:42.469 --> 00:41:46.820
+biotic? And at which point would it um take
+
+642
+00:41:46.830 --> 00:41:51.360
+on the um the attribute that would associate with
+
+643
+00:41:51.370 --> 00:41:55.590
+agency and possibly sentience? Um So we just work
+
+644
+00:41:55.600 --> 00:41:59.419
+through it again, it's relatively straightforward. So we can
+
+645
+00:41:59.429 --> 00:42:03.010
+have things where the mark where the active sector
+
+646
+00:42:03.020 --> 00:42:06.919
+of the markoff blanket is empty. So we're talking
+
+647
+00:42:06.929 --> 00:42:09.489
+about things that cannot act upon the world, they
+
+648
+00:42:09.500 --> 00:42:11.600
+can still sense the world, they can still be
+
+649
+00:42:11.610 --> 00:42:15.389
+affected by the universe, but they can't act. So,
+
+650
+00:42:15.399 --> 00:42:17.919
+you know, one might imagine a rock on the
+
+651
+00:42:17.929 --> 00:42:21.540
+moon, for example, or something that, that, that does
+
+652
+00:42:21.550 --> 00:42:24.790
+not have the um does not have a full
+
+653
+00:42:24.800 --> 00:42:27.679
+complement of autonomous states in the sense that if
+
+654
+00:42:27.689 --> 00:42:30.500
+the autonomous states are the internal states and the
+
+655
+00:42:30.510 --> 00:42:32.810
+active states, if they don't have the active states,
+
+656
+00:42:32.820 --> 00:42:36.820
+they can't move. So you wouldn't call these kinds
+
+657
+00:42:36.830 --> 00:42:42.320
+of inert systems or inert particles. Um um Living,
+
+658
+00:42:43.510 --> 00:42:46.489
+would you call them uh living if they were
+
+659
+00:42:46.500 --> 00:42:51.889
+able to move basically um active states that express
+
+660
+00:42:51.899 --> 00:42:55.209
+themselves by acting upon the environment? We were just
+
+661
+00:42:55.219 --> 00:42:57.889
+talking about things that move effectively in a, in
+
+662
+00:42:57.919 --> 00:43:02.360
+a classical uh context. Um AND things that move
+
+663
+00:43:02.370 --> 00:43:04.770
+in a way that depends on and only on
+
+664
+00:43:04.780 --> 00:43:07.610
+the internal states and not the external states. So
+
+665
+00:43:07.620 --> 00:43:11.459
+there will be another definition of autonomous dynamics. Then
+
+666
+00:43:11.469 --> 00:43:17.219
+I think you're probably getting closer to biological self-organization
+
+667
+00:43:17.229 --> 00:43:21.590
+or biotic self-organization. Uh Is it living um at
+
+668
+00:43:21.600 --> 00:43:26.989
+this point, um probably not there, there's an extra
+
+669
+00:43:27.000 --> 00:43:30.179
+uh if you like condition that you would probably
+
+670
+00:43:30.189 --> 00:43:33.590
+want to apply before you would say that this
+
+671
+00:43:33.600 --> 00:43:38.500
+is biotic or biological uh self organization. And that
+
+672
+00:43:38.510 --> 00:43:44.020
+is the precision or the reproducibility of the movement.
+
+673
+00:43:44.330 --> 00:43:48.120
+So, if something is very, very small, it usually
+
+674
+00:43:48.129 --> 00:43:51.860
+comes along with lots of random fluctuations. So usually
+
+675
+00:43:51.870 --> 00:43:55.379
+things fluctuate very quickly. They have a higher temperature
+
+676
+00:43:55.389 --> 00:43:57.550
+from the point of view of cis mechanics. When
+
+677
+00:43:57.560 --> 00:43:59.290
+they are very, very small. And in the limit
+
+678
+00:43:59.300 --> 00:44:03.429
+of quantum uh physics, it's all uh it's all
+
+679
+00:44:03.439 --> 00:44:08.169
+random effectively um or occurring so quickly, you can't
+
+680
+00:44:08.179 --> 00:44:09.790
+measure it. So you can only describe it in
+
+681
+00:44:09.800 --> 00:44:14.149
+terms of probability distributions. Um But living things have
+
+682
+00:44:14.159 --> 00:44:18.510
+characteristic states that they keep on revisiting that you
+
+683
+00:44:18.520 --> 00:44:22.879
+can recognize um you know, when um in, you
+
+684
+00:44:22.889 --> 00:44:27.399
+know, in a life form simply because um there
+
+685
+00:44:27.409 --> 00:44:31.750
+is some systematic revisiting of certain states. And that
+
+686
+00:44:31.760 --> 00:44:35.560
+tells you two things about self-organization of biological, of
+
+687
+00:44:35.570 --> 00:44:39.550
+a biological sort or a living sort. It tells
+
+688
+00:44:39.560 --> 00:44:44.179
+you that they have to be realized in systems
+
+689
+00:44:44.189 --> 00:44:47.969
+that are sufficiently large for the random fluctuations to
+
+690
+00:44:47.979 --> 00:44:51.209
+be averaged away. So you won't find living things
+
+691
+00:44:51.219 --> 00:44:54.989
+at the quantum level. Um But you may find
+
+692
+00:44:55.000 --> 00:44:58.409
+it at the level of um say a virus
+
+693
+00:44:58.419 --> 00:45:00.100
+and you'll certainly find it at the level of
+
+694
+00:45:00.110 --> 00:45:01.860
+a cell as you get to sort of, you
+
+695
+00:45:01.870 --> 00:45:04.889
+know, hundreds of microns or you know, even millimeters.
+
+696
+00:45:05.139 --> 00:45:07.959
+Uh AND when you get to something, our size,
+
+697
+00:45:07.969 --> 00:45:12.129
+then if something, our size moves around of its
+
+698
+00:45:12.139 --> 00:45:15.330
+own accord because it, it has active states that
+
+699
+00:45:15.340 --> 00:45:17.409
+are driven by turn. So you'll say yes, that
+
+700
+00:45:17.419 --> 00:45:21.379
+that is certainly living. Um So size really does
+
+701
+00:45:21.389 --> 00:45:24.419
+matter. The scale really does matter, I think. Um
+
+702
+00:45:24.550 --> 00:45:28.520
+And the reason that scale is so important is
+
+703
+00:45:28.530 --> 00:45:32.520
+as things get bigger, all the random fluctuations disappear
+
+704
+00:45:32.560 --> 00:45:34.929
+and things get much more precise in terms of
+
+705
+00:45:34.939 --> 00:45:38.409
+their dynamics that flowed. But the other interesting aspect
+
+706
+00:45:38.419 --> 00:45:45.120
+of this and interestingly um this inherits from the
+
+707
+00:45:45.129 --> 00:45:48.639
+physics work of Helmholtz when he was trying to
+
+708
+00:45:48.649 --> 00:45:53.760
+understand the flow of systems, say for example, turbulence
+
+709
+00:45:53.770 --> 00:45:58.120
+in water. Um YOU know, is there any way
+
+710
+00:45:58.129 --> 00:46:01.419
+that you can sort of classify the dynamics of
+
+711
+00:46:01.429 --> 00:46:03.959
+the flow or the movement of states in some
+
+712
+00:46:03.969 --> 00:46:08.800
+state in some abstract state space? And the Helmholtz
+
+713
+00:46:08.850 --> 00:46:15.419
+decomposition says yes, you can divide things into those
+
+714
+00:46:15.429 --> 00:46:20.340
+flows that try to minimize their energy. And for
+
+715
+00:46:20.350 --> 00:46:23.120
+our invasive mechanics, this is the variation of free
+
+716
+00:46:23.129 --> 00:46:25.850
+energy in classical mechanics. It would be things like
+
+717
+00:46:25.860 --> 00:46:29.270
+gravity in thermodynamics. It would be things like a
+
+718
+00:46:29.280 --> 00:46:36.050
+potential potential energy. So systems can be described in
+
+719
+00:46:36.060 --> 00:46:39.110
+terms of their flows, you know, so I'm using
+
+720
+00:46:39.120 --> 00:46:43.120
+flows and dynamics interchangeably here. So and the flow
+
+721
+00:46:43.129 --> 00:46:45.610
+can be split into two parts. The first part
+
+722
+00:46:45.620 --> 00:46:48.510
+is known as a dissipative flow. And it's that
+
+723
+00:46:48.520 --> 00:46:52.610
+which can be described as flowing downhill, like literally
+
+724
+00:46:52.620 --> 00:46:56.860
+water flowing um flowing down a valley or down
+
+725
+00:46:56.870 --> 00:47:02.820
+a potential gradient. And that dissipative um aspect underwrites.
+
+726
+00:47:02.909 --> 00:47:06.040
+Um A lot of cis mechanics in terms of
+
+727
+00:47:06.050 --> 00:47:10.969
+fluctuation dissipation theorems. Uh um um uh AND a
+
+728
+00:47:10.979 --> 00:47:15.959
+lot of the rhetoric surrounding c mechanics like heat
+
+729
+00:47:15.969 --> 00:47:19.399
+and work all speaks to the way in which
+
+730
+00:47:19.409 --> 00:47:24.540
+heat is dissipated or work with work due to
+
+731
+00:47:24.550 --> 00:47:27.139
+this kind of flow. There's another kind of flow.
+
+732
+00:47:27.149 --> 00:47:31.310
+So if you imagine a valley and you've got
+
+733
+00:47:31.320 --> 00:47:36.469
+flows down the valley and these flows are equipped
+
+734
+00:47:36.479 --> 00:47:38.760
+with random fluctuation, so you never settle at the
+
+735
+00:47:38.770 --> 00:47:41.959
+bottom of the valley. You, you, you um uh
+
+736
+00:47:42.070 --> 00:47:43.570
+because as soon as you get there, there will
+
+737
+00:47:43.580 --> 00:47:47.050
+be some random fluctuation that pushes you away. So
+
+738
+00:47:47.060 --> 00:47:49.560
+there'll be a little um a little regime at
+
+739
+00:47:49.570 --> 00:47:52.399
+the bottom of the valley that every you have
+
+740
+00:47:52.409 --> 00:47:54.600
+flown down into and then you're perturbed by the
+
+741
+00:47:54.610 --> 00:47:59.149
+random fluctuations that's thermodynamic equilibrium. And that will be
+
+742
+00:47:59.159 --> 00:48:03.879
+the dissipative physics that you know, the statistical mechanics
+
+743
+00:48:03.889 --> 00:48:06.820
+is based on. But there's another really important kind
+
+744
+00:48:06.830 --> 00:48:11.899
+of flow which emerges in non equilibrium systems. Um
+
+745
+00:48:12.050 --> 00:48:16.610
+And that's flow around the iso contours around the
+
+746
+00:48:16.620 --> 00:48:20.909
+rim or any given level of the bowl. So
+
+747
+00:48:20.919 --> 00:48:23.969
+this conserves the energy or the height of the
+
+748
+00:48:23.979 --> 00:48:29.760
+bowl. So it's called conservative uh mechanics. Um And
+
+749
+00:48:29.820 --> 00:48:34.340
+um this is really important. So in the limit
+
+750
+00:48:34.350 --> 00:48:37.830
+that things get very, very, very, very big, the
+
+751
+00:48:37.840 --> 00:48:42.159
+random fluctuations are almost zero. And so what do
+
+752
+00:48:42.169 --> 00:48:46.550
+you see, you just see this conservative flow, like
+
+753
+00:48:46.560 --> 00:48:49.030
+for example, the motion of a heavenly body like
+
+754
+00:48:49.040 --> 00:48:53.639
+the moon orbits. Now, these things have a certain
+
+755
+00:48:53.649 --> 00:48:56.899
+aspect which brings us back to um what we're
+
+756
+00:48:56.909 --> 00:48:59.770
+talking about for in terms of biological self-organization, which
+
+757
+00:48:59.780 --> 00:49:03.199
+is revisiting states that you were once in characteristic
+
+758
+00:49:03.209 --> 00:49:07.620
+states that you sometimes wander away from um with
+
+759
+00:49:07.629 --> 00:49:10.439
+an itinerant trajectory, but you always come back again.
+
+760
+00:49:10.709 --> 00:49:13.250
+Um So in the limit of being very, very
+
+761
+00:49:13.260 --> 00:49:16.239
+big, much bigger than you and me, uh then,
+
+762
+00:49:16.250 --> 00:49:19.739
+then we now conform to conservative mechanics and we
+
+763
+00:49:19.750 --> 00:49:23.790
+have this c this circular flow. This is sometimes
+
+764
+00:49:23.800 --> 00:49:26.860
+a solenoid flow as well. And you can read
+
+765
+00:49:26.870 --> 00:49:29.110
+about that if you look at you know basic
+
+766
+00:49:29.120 --> 00:49:33.409
+descriptions of things like fluid, fluid mechanics. But that
+
+767
+00:49:33.419 --> 00:49:37.889
+decomposition or variance of it holds for any kind
+
+768
+00:49:37.899 --> 00:49:41.600
+of state including the states that comprise the Markov
+
+769
+00:49:41.689 --> 00:49:45.830
+blanket partition into internal blanket states and external states.
+
+770
+00:49:46.330 --> 00:49:48.659
+And this is so this is to my mind
+
+771
+00:49:48.669 --> 00:49:51.840
+is so important because what it says is if
+
+772
+00:49:52.199 --> 00:49:56.060
+the random fluctuations are sufficiently small that I can
+
+773
+00:49:56.070 --> 00:50:02.429
+see the steroidal flow, what that means is things
+
+774
+00:50:02.439 --> 00:50:07.860
+of a certain scale will always revisit states that
+
+775
+00:50:07.870 --> 00:50:10.810
+they were once in. And then you just think
+
+776
+00:50:10.820 --> 00:50:13.889
+about this at different scales. What you are talking
+
+777
+00:50:13.899 --> 00:50:17.439
+about is either very, very fast oscillations, for example,
+
+778
+00:50:17.449 --> 00:50:21.239
+in your brain cells or they could be the
+
+779
+00:50:21.250 --> 00:50:26.189
+cardiac cycle going around these um itinerant orbits just
+
+780
+00:50:26.199 --> 00:50:28.879
+like the move but much more complicated now and
+
+781
+00:50:28.889 --> 00:50:32.679
+uh slightly fuzzy because you're sufficiently small um to
+
+782
+00:50:32.689 --> 00:50:36.540
+actually have random fluctuations there. Um It could be
+
+783
+00:50:36.550 --> 00:50:39.560
+walking or it could be by sleep weight cycle.
+
+784
+00:50:40.000 --> 00:50:42.840
+It could in fact be reproduction or replication at
+
+785
+00:50:42.850 --> 00:50:46.610
+an evolutionary scale. At every scale, you've got this
+
+786
+00:50:46.620 --> 00:50:51.870
+characteristic solenoid dynamics, this conservative aspect that I think
+
+787
+00:50:51.879 --> 00:50:56.919
+is definitive of biological self-organization. So essentially things that
+
+788
+00:50:56.929 --> 00:51:01.929
+have biorhythms and life cycles. Um MEAN that um
+
+789
+00:51:02.419 --> 00:51:06.709
+well put it another way, if um biological, if
+
+790
+00:51:06.719 --> 00:51:12.879
+living things have evinced spy RMS and life cycles,
+
+791
+00:51:12.979 --> 00:51:15.040
+then that means that they must belong to a
+
+792
+00:51:15.050 --> 00:51:19.139
+certain class of um things at a particular scale,
+
+793
+00:51:19.149 --> 00:51:21.159
+they have to be bigger than the quantum scale,
+
+794
+00:51:21.350 --> 00:51:24.469
+but to be sufficiently itinerant, um they have to
+
+795
+00:51:24.479 --> 00:51:27.419
+be smaller than the, you know, the, the cosmological
+
+796
+00:51:27.429 --> 00:51:30.479
+scale you we can go on if you wanted
+
+797
+00:51:30.489 --> 00:51:32.969
+to, you know, there are, there are, there's one
+
+798
+00:51:32.979 --> 00:51:38.260
+final um kind of thing that has this um
+
+799
+00:51:38.600 --> 00:51:45.040
+this um conservative aspect, um the solenoid um um
+
+800
+00:51:45.189 --> 00:51:50.330
+aspect to it. And that's when the dynamics become
+
+801
+00:51:50.340 --> 00:51:53.780
+very, very precise. Um WHICH means that you can
+
+802
+00:51:53.790 --> 00:51:57.479
+effectively roll out into the future. And if you
+
+803
+00:51:57.489 --> 00:52:00.370
+can run out into the future, that means not
+
+804
+00:52:00.379 --> 00:52:03.510
+only can you predict the state at the moment
+
+805
+00:52:03.520 --> 00:52:07.300
+that um um this um uh this system is
+
+806
+00:52:07.310 --> 00:52:11.929
+in but the long term future And if the
+
+807
+00:52:11.989 --> 00:52:14.149
+uh if you can predict the long term future,
+
+808
+00:52:14.419 --> 00:52:16.530
+it will look as though certain kinds of things
+
+809
+00:52:16.540 --> 00:52:19.110
+like you may plan into the future we have
+
+810
+00:52:19.120 --> 00:52:22.239
+intentions. And I think now we're now getting very
+
+811
+00:52:22.250 --> 00:52:27.520
+close to um life forms with agency. Um So,
+
+812
+00:52:27.530 --> 00:52:31.840
+you know, to uh cut a long story short.
+
+813
+00:52:31.850 --> 00:52:35.149
+Um um So the answer to your question is
+
+814
+00:52:35.159 --> 00:52:37.860
+yes, there are certainly different kinds of physical systems
+
+815
+00:52:38.100 --> 00:52:42.280
+uh at different scales with different degrees of random
+
+816
+00:52:42.290 --> 00:52:47.139
+fluctuations um and different kinds of dynamics. Um And
+
+817
+00:52:47.149 --> 00:52:51.689
+I would posit that life is basically um uh
+
+818
+00:52:51.699 --> 00:52:55.229
+a special kind of thing. Um THAT would subsume
+
+819
+00:52:55.239 --> 00:52:59.229
+things that are um properly a gent in the
+
+820
+00:52:59.239 --> 00:53:01.189
+sense that they plan and some things that are
+
+821
+00:53:01.199 --> 00:53:04.340
+not, I don't think viruses plan. Um Whereas I
+
+822
+00:53:04.350 --> 00:53:06.409
+do think, say b is a new, you and
+
+823
+00:53:06.419 --> 00:53:10.090
+I plan into the future. Um And, but we
+
+824
+00:53:10.100 --> 00:53:13.290
+are quite special. We're in a goldilocks regime between
+
+825
+00:53:13.300 --> 00:53:15.899
+being very, very small and being very, very big.
+
+826
+00:53:17.090 --> 00:53:20.899
+So would this framework help us deal with the,
+
+827
+00:53:20.909 --> 00:53:26.060
+with questions surrounding what separates exactly the organic from
+
+828
+00:53:26.070 --> 00:53:30.439
+the inorganic and particular kinds of entities like viruses?
+
+829
+00:53:30.449 --> 00:53:34.459
+Because viruses in particularly are very people debate a
+
+830
+00:53:34.469 --> 00:53:39.129
+lot about whether they are living systems or nonliving
+
+831
+00:53:39.139 --> 00:53:39.889
+systems,
+
+832
+00:53:39.899 --> 00:53:44.010
+right? Yeah. Um I mean, you could certainly use
+
+833
+00:53:44.020 --> 00:53:48.870
+this framework um to happily accommodate the vagueness and
+
+834
+00:53:48.879 --> 00:53:51.379
+I'm using vagueness now in a philosophical sense. Yeah.
+
+835
+00:53:51.649 --> 00:53:54.409
+How many grains of sand, make a pile of
+
+836
+00:53:54.419 --> 00:53:56.949
+sand. So at what point would a virus be
+
+837
+00:53:56.959 --> 00:53:59.929
+called living when it was sufficiently big or complicated?
+
+838
+00:54:00.040 --> 00:54:04.429
+You can certainly locate a vague notion of um,
+
+839
+00:54:04.520 --> 00:54:08.909
+living versus nonliving. Um And even to, uh I
+
+840
+00:54:08.919 --> 00:54:11.500
+think to a certain extent agents versus non agents
+
+841
+00:54:11.510 --> 00:54:16.110
+or sentient, but versus non agent on, on this
+
+842
+00:54:16.120 --> 00:54:19.929
+space afforded by, um, the, the Markov blanket and
+
+843
+00:54:19.939 --> 00:54:23.070
+implicitly the free Engine principle. Absolutely. Uh You know,
+
+844
+00:54:23.080 --> 00:54:27.500
+could you draw bright lines um between, um you
+
+845
+00:54:27.510 --> 00:54:32.939
+know, is, I think you possibly could draw some
+
+846
+00:54:32.949 --> 00:54:40.500
+bright lines. Um um YOU know, in, for example,
+
+847
+00:54:40.600 --> 00:54:45.669
+you could say, well, in the limit that the
+
+848
+00:54:45.679 --> 00:54:49.870
+random fluctuations disappear on the inside, that might be
+
+849
+00:54:49.879 --> 00:54:54.000
+a bright line between things that are biotic and
+
+850
+00:54:54.010 --> 00:54:58.409
+not biotic. Um That's not to say that, you
+
+851
+00:54:58.419 --> 00:55:01.520
+know, so a virus would certainly be biotic. Um
+
+852
+00:55:01.530 --> 00:55:05.389
+It would have, it would have recognizable um states
+
+853
+00:55:05.399 --> 00:55:08.199
+and trajectories and character and it would have this
+
+854
+00:55:08.209 --> 00:55:10.239
+solo aspect. It will, it will have a life
+
+855
+00:55:10.250 --> 00:55:13.260
+cycle, it will, you know, survive in a particular
+
+856
+00:55:13.270 --> 00:55:18.169
+eco niche. So usually intracellular one. BUT you wouldn't
+
+857
+00:55:18.179 --> 00:55:20.889
+necessarily say it was living. So you ask, well,
+
+858
+00:55:20.899 --> 00:55:23.030
+what does it have to, what does it mean
+
+859
+00:55:23.040 --> 00:55:26.860
+to, to, to, to, to live? Um um AND
+
+860
+00:55:26.870 --> 00:55:30.189
+in particular, what does it mean to, I, I
+
+861
+00:55:30.199 --> 00:55:33.810
+think be um to be an agent in, in,
+
+862
+00:55:33.820 --> 00:55:37.159
+in a sort of, in the sense that um
+
+863
+00:55:37.229 --> 00:55:41.860
+there is that kind of anthropomorphic agency and autonomy,
+
+864
+00:55:41.870 --> 00:55:44.780
+autonomy. And I think that the bright line there
+
+865
+00:55:44.790 --> 00:55:49.159
+is that the um the system can be described
+
+866
+00:55:49.169 --> 00:55:51.310
+as if it has a garr model of the
+
+867
+00:55:51.320 --> 00:55:54.840
+consequences of its own active states. I think that
+
+868
+00:55:54.850 --> 00:55:56.939
+is a, that possibly is a bright line that,
+
+869
+00:55:56.949 --> 00:56:00.719
+that helps basically give you an ontology of different
+
+870
+00:56:00.729 --> 00:56:04.489
+kinds of things. Um And, you know, if you've
+
+871
+00:56:04.500 --> 00:56:08.139
+got, if so, I'm now appealing to you, if
+
+872
+00:56:08.149 --> 00:56:09.699
+you recall at the beginning, I was setting up
+
+873
+00:56:09.709 --> 00:56:13.080
+the notion of a model as foundational. Um So
+
+874
+00:56:13.090 --> 00:56:17.439
+the jar model is just basically a description of
+
+875
+00:56:17.479 --> 00:56:22.320
+a pro description of the characteristic states of the
+
+876
+00:56:22.330 --> 00:56:26.919
+thing in question. Um And if you, if your
+
+877
+00:56:26.929 --> 00:56:32.360
+generative model is such that it includes uh paths
+
+878
+00:56:32.389 --> 00:56:36.100
+into the future and because the future is caused
+
+879
+00:56:36.110 --> 00:56:39.250
+because of the circular, circular causality you mentioned before,
+
+880
+00:56:39.260 --> 00:56:43.159
+which is acting upon the world, then implicitly, you've
+
+881
+00:56:43.169 --> 00:56:47.629
+got a generative model or at least your internal
+
+882
+00:56:47.780 --> 00:56:52.530
+dynamics can be described as having an internal model
+
+883
+00:56:52.540 --> 00:56:55.209
+of the consequences of your action in the future.
+
+884
+00:56:55.729 --> 00:56:58.649
+And at that point, I think you are starting
+
+885
+00:56:58.659 --> 00:57:02.780
+to talk about minimal agency, not minimal self hood.
+
+886
+00:57:03.010 --> 00:57:07.010
+This kind of system doesn't know it's an agent,
+
+887
+00:57:07.020 --> 00:57:10.689
+but it now has a minimal kind of agency
+
+888
+00:57:10.699 --> 00:57:13.219
+in the sense it represents the consequences of its
+
+889
+00:57:13.229 --> 00:57:17.989
+actions and can be understood or read as selecting
+
+890
+00:57:18.000 --> 00:57:21.510
+among a number of different actions. And choosing the
+
+891
+00:57:21.520 --> 00:57:23.419
+one that is most probable for that kind of
+
+892
+00:57:23.429 --> 00:57:26.409
+thing, that kind of thing that it is. So,
+
+893
+00:57:26.419 --> 00:57:28.580
+yeah, I think I'm not quite sure what a
+
+894
+00:57:28.590 --> 00:57:32.469
+virus would, um, the virus would not plan. Um
+
+895
+00:57:32.679 --> 00:57:36.959
+So it's certainly biotic. Is it an agent? Is
+
+896
+00:57:36.969 --> 00:57:42.189
+a thermostat agent? Um You know, probably not.
+
+897
+00:57:42.699 --> 00:57:46.909
+So earlier, we've talked about the need to reduce
+
+898
+00:57:46.919 --> 00:57:51.120
+prediction errors. And in your work, you talk about
+
+899
+00:57:51.129 --> 00:57:56.050
+existential imperative. So what is an existential imperative in
+
+900
+00:57:56.159 --> 00:57:59.159
+this particular context? What does that mean?
+
+901
+00:58:00.239 --> 00:58:06.449
+Um It's just another way of um putting a
+
+902
+00:58:06.459 --> 00:58:10.939
+teleology, a theological understanding or description on the physics
+
+903
+00:58:10.949 --> 00:58:15.020
+backstory. So um in the same way that you
+
+904
+00:58:15.030 --> 00:58:19.530
+can describe the behavior of anything in terms of
+
+905
+00:58:19.540 --> 00:58:23.439
+self evidencing which we rehearsed in terms of gathering
+
+906
+00:58:23.449 --> 00:58:27.409
+evidence from my model of the world, um existential
+
+907
+00:58:27.419 --> 00:58:30.870
+imperatives are what it would look like to be
+
+908
+00:58:30.879 --> 00:58:35.429
+something. So the free energy principle actually turns this
+
+909
+00:58:35.439 --> 00:58:38.199
+on its head and says, if you exist in
+
+910
+00:58:38.209 --> 00:58:42.729
+the sense of possessing a markoff blanket which itself
+
+911
+00:58:42.739 --> 00:58:47.139
+implies or entails a set of attracting or characteristic
+
+912
+00:58:47.149 --> 00:58:49.969
+states, that is the gerit model that is the
+
+913
+00:58:49.979 --> 00:58:53.719
+pullback attractor when described um oh sorry, that is
+
+914
+00:58:53.729 --> 00:58:57.560
+the pullback attract tractor that when described probabilistically is
+
+915
+00:58:57.570 --> 00:59:02.379
+the gerit model. That means if you exist, you
+
+916
+00:59:02.389 --> 00:59:06.830
+will um look as if you are conforming to
+
+917
+00:59:06.840 --> 00:59:10.820
+certain imperatives, namely minimizing your prediction error or your
+
+918
+00:59:10.830 --> 00:59:16.080
+free energy. So this the minimization of free energy
+
+919
+00:59:16.310 --> 00:59:19.989
+is a consequence of existing I exist. Therefore, I
+
+920
+00:59:20.000 --> 00:59:24.139
+can be described as thinking and inferring and perceiving
+
+921
+00:59:24.149 --> 00:59:28.429
+and acting. Um But you can sort of turn
+
+922
+00:59:28.439 --> 00:59:30.899
+that on its head and say if you wanted
+
+923
+00:59:30.909 --> 00:59:33.429
+to, you are licensed to tell a much more
+
+924
+00:59:33.469 --> 00:59:39.379
+theological function story now to exist. I must infer
+
+925
+00:59:39.389 --> 00:59:41.969
+I must perceive and act. I must have a
+
+926
+00:59:41.979 --> 00:59:45.120
+generative model of my lived world in order to
+
+927
+00:59:45.129 --> 00:59:50.139
+act sensibly in that world. So that's the um
+
+928
+00:59:50.149 --> 00:59:53.780
+the genesis of the existential imperative that if I
+
+929
+00:59:53.790 --> 00:59:58.419
+do not uh minimize my free energy, then I
+
+930
+00:59:58.429 --> 01:00:02.489
+cannot exist. It's a slight of hand, it's, it's,
+
+931
+01:00:02.500 --> 01:00:06.570
+it's slightly cheeky because the physics. So the other
+
+932
+01:00:06.580 --> 01:00:09.620
+way around the physics says that if you exist,
+
+933
+01:00:10.189 --> 01:00:14.449
+um then you can always be described as minimizing
+
+934
+01:00:14.459 --> 01:00:17.179
+uh of conforming to the looking as if you
+
+935
+01:00:17.189 --> 01:00:19.790
+are minimizing your free energy. So that means you
+
+936
+01:00:19.800 --> 01:00:23.389
+can be described as if you like optimizing something
+
+937
+01:00:23.399 --> 01:00:28.810
+extremis something complying with a principle of least action
+
+938
+01:00:28.820 --> 01:00:32.010
+which means that you can, it looks as if
+
+939
+01:00:32.020 --> 01:00:35.875
+you are complying with it to minimize um you
+
+940
+01:00:35.885 --> 01:00:38.614
+know, to minimize your free energy. Uh JU just
+
+941
+01:00:38.625 --> 01:00:40.844
+for um people who are not familiar with the
+
+942
+01:00:40.854 --> 01:00:44.895
+principle of least action action here um as in
+
+943
+01:00:44.925 --> 01:00:49.675
+um is read as time times free energy. Um
+
+944
+01:00:49.824 --> 01:00:53.735
+So it's, it's, it's uh technically, it's the area
+
+945
+01:00:53.745 --> 01:00:56.314
+under the curve as you move forward in time.
+
+946
+01:00:57.320 --> 01:00:59.739
+But the ba mechanics just is a principle of
+
+947
+01:00:59.750 --> 01:01:02.360
+least action in exactly the same way that Hamilton's
+
+948
+01:01:02.370 --> 01:01:05.620
+principle of least action just describes the motion of
+
+949
+01:01:05.629 --> 01:01:11.600
+massive bodies. All we're doing here is describing the
+
+950
+01:01:11.610 --> 01:01:15.050
+motion or the dynamics of internal states in terms
+
+951
+01:01:15.060 --> 01:01:18.500
+of them holding beliefs about external states and then
+
+952
+01:01:18.510 --> 01:01:21.340
+acting upon. It's the exactly the same kind of
+
+953
+01:01:21.350 --> 01:01:23.050
+maths. Mhm.
+
+954
+01:01:23.530 --> 01:01:25.530
+So I would like to get now a little
+
+955
+01:01:25.540 --> 01:01:29.229
+bit more into nervous systems and the brain. But
+
+956
+01:01:29.239 --> 01:01:32.949
+there's another concept that you touched on briefly earlier
+
+957
+01:01:32.959 --> 01:01:35.760
+that I think it's important for you to explain
+
+958
+01:01:35.770 --> 01:01:38.379
+a bit better just for people to understand what
+
+959
+01:01:38.389 --> 01:01:41.040
+we're going to talk about here. So what is
+
+960
+01:01:41.050 --> 01:01:46.330
+self-organization and specifically biological self-organization?
+
+961
+01:01:47.520 --> 01:01:54.040
+Well, self organization um is a term U usually
+
+962
+01:01:54.050 --> 01:02:01.409
+used um by um physicists to describe um uh
+
+963
+01:02:01.419 --> 01:02:06.370
+how systems, how the dynamics of systems bring about
+
+964
+01:02:06.379 --> 01:02:11.290
+particular states. Um And it's effectively what we have
+
+965
+01:02:11.300 --> 01:02:13.219
+just been talking about. I mean, I've slipped in
+
+966
+01:02:13.229 --> 01:02:18.429
+some technical words like pullback tractors. Um um So
+
+967
+01:02:18.439 --> 01:02:23.760
+you want to understand the physics or more specifically
+
+968
+01:02:23.770 --> 01:02:30.639
+the mechanics um behind um the uh propensity or
+
+969
+01:02:30.649 --> 01:02:33.080
+the existence of certain systems that seem to be
+
+970
+01:02:33.090 --> 01:02:36.600
+drawn to, you know, to certain attracting states. So
+
+971
+01:02:36.610 --> 01:02:40.360
+the simplest example of that is uh equilibrium physics,
+
+972
+01:02:40.379 --> 01:02:42.679
+you know, why is it that things cool down,
+
+973
+01:02:42.689 --> 01:02:45.560
+you know, why is it that you can um
+
+974
+01:02:45.899 --> 01:02:48.780
+why do we have the second law? Um YOU
+
+975
+01:02:48.790 --> 01:02:53.280
+know, what, why do things settle to a free
+
+976
+01:02:53.290 --> 01:02:56.179
+energy minimum when isolated from the world, when, when
+
+977
+01:02:56.189 --> 01:03:00.179
+they, when they're closed systems. So the physics of
+
+978
+01:03:00.189 --> 01:03:04.120
+closed systems is just a way of writing down
+
+979
+01:03:04.389 --> 01:03:07.899
+the physics or the laws, literally, you know, the
+
+980
+01:03:07.909 --> 01:03:12.419
+equations of motion of states that describe the behavior
+
+981
+01:03:12.429 --> 01:03:14.659
+of things that are isolated and they just settle
+
+982
+01:03:14.669 --> 01:03:18.969
+down to the, the lowest energy point. Um uh
+
+983
+01:03:19.909 --> 01:03:24.600
+One when one moves um to systems that are
+
+984
+01:03:24.610 --> 01:03:29.090
+now open, that also now induces the circular causality
+
+985
+01:03:29.100 --> 01:03:32.530
+you're picking up on before. Then one now moves
+
+986
+01:03:32.540 --> 01:03:36.820
+to self-organization the context of non equilibrium. So non
+
+987
+01:03:36.899 --> 01:03:41.679
+equilibrium physics because there are no equilibria anymore because,
+
+988
+01:03:41.689 --> 01:03:44.760
+you know, because of this circular causality and then
+
+989
+01:03:44.770 --> 01:03:48.360
+one, what, what one is aspiring to understand is
+
+990
+01:03:48.370 --> 01:03:52.350
+the um the ability or the existence of certain
+
+991
+01:03:52.360 --> 01:03:57.040
+systems that have um what can be described as
+
+992
+01:03:57.050 --> 01:03:59.840
+a non equilibrium steady state, which is just a
+
+993
+01:03:59.850 --> 01:04:02.409
+way of saying that, you know, if I wait
+
+994
+01:04:02.419 --> 01:04:07.689
+long enough, um my system will confine itself to
+
+995
+01:04:07.699 --> 01:04:11.149
+a set of characteristic states. Um And it will
+
+996
+01:04:11.159 --> 01:04:13.449
+never leave those states. So do so just, you
+
+997
+01:04:13.459 --> 01:04:18.439
+know, probabilistically or um um very sporadically, that's the
+
+998
+01:04:18.449 --> 01:04:22.219
+attracting set, that's the pullback attractor. So you want
+
+999
+01:04:22.229 --> 01:04:26.040
+to understand how do things converge upon their, their
+
+1000
+01:04:26.050 --> 01:04:30.790
+attracting uh states, their characteristic states and characteristic states
+
+1001
+01:04:30.800 --> 01:04:35.169
+here is just a euphemism for um being a
+
+1002
+01:04:35.179 --> 01:04:38.739
+member of this attracting set that is characteristic of
+
+1003
+01:04:38.750 --> 01:04:40.229
+me. And you can actually score it with a
+
+1004
+01:04:40.239 --> 01:04:45.300
+characteristic function. The characteristic function is one if, if
+
+1005
+01:04:45.310 --> 01:04:47.879
+uh I'm in one of my characteristic states and
+
+1006
+01:04:47.889 --> 01:04:50.090
+zero, if I'm not, if I'm, you know, long
+
+1007
+01:04:50.110 --> 01:04:54.229
+temperature or um in two pieces or um or
+
+1008
+01:04:54.239 --> 01:04:58.780
+anything else that would be inconsistent um and violate
+
+1009
+01:04:58.790 --> 01:05:04.800
+those existential imperatives. So, self-organization, you know, it is
+
+1010
+01:05:04.810 --> 01:05:08.830
+an umbrella term to, that starts to get really
+
+1011
+01:05:08.840 --> 01:05:15.179
+um interesting certainly in physics, when you're talking about
+
+1012
+01:05:15.219 --> 01:05:18.659
+non uh non equilibria and open systems,
+
+1013
+01:05:19.379 --> 01:05:23.300
+and how does it apply specifically in the case
+
+1014
+01:05:23.310 --> 01:05:26.699
+of nervous systems? What does it mean for a
+
+1015
+01:05:26.709 --> 01:05:29.820
+nervous system to be self organizing?
+
+1016
+01:05:30.489 --> 01:05:34.090
+Well, self-organization, strictly speaking, um can be applied to
+
+1017
+01:05:34.100 --> 01:05:37.030
+any system that possesses this characteristic based. But of
+
+1018
+01:05:37.040 --> 01:05:38.830
+course, the most interesting for people like you and
+
+1019
+01:05:38.840 --> 01:05:41.889
+me is, is is the nervous system. Um BUT
+
+1020
+01:05:41.899 --> 01:05:44.110
+you know, the principles should be exactly the same.
+
+1021
+01:05:44.310 --> 01:05:51.889
+Um So the self-organization um um usually um is
+
+1022
+01:05:51.899 --> 01:05:56.939
+manifest at a number of different scales. Um And
+
+1023
+01:05:56.949 --> 01:06:01.449
+at each scale, you're basically looking for an explanation
+
+1024
+01:06:01.459 --> 01:06:03.590
+which um from the point of view of the
+
+1025
+01:06:03.600 --> 01:06:06.729
+Free engine principle is a minimization of free energy,
+
+1026
+01:06:06.739 --> 01:06:09.929
+but at different scales. So at a very fast
+
+1027
+01:06:09.939 --> 01:06:12.419
+scale, well, actually, now let's start off with a
+
+1028
+01:06:12.429 --> 01:06:15.850
+very large uh large scales and then sort of
+
+1029
+01:06:15.860 --> 01:06:19.219
+winnow down. So at the, you know, at an
+
+1030
+01:06:19.229 --> 01:06:24.570
+evolutionary timescale, we are now looking for processes, self-organizing
+
+1031
+01:06:24.580 --> 01:06:28.800
+processes uh where the where speciation is you know,
+
+1032
+01:06:28.929 --> 01:06:33.000
+uh a self organizing uh phenomena at the level
+
+1033
+01:06:33.010 --> 01:06:38.649
+of evolution itself. Um AND you know, things like
+
+1034
+01:06:38.659 --> 01:06:41.830
+adaptive fitness and indeed, the definition of the species
+
+1035
+01:06:41.860 --> 01:06:46.810
+entails a persistence over time with characteristic states, characteristic
+
+1036
+01:06:46.820 --> 01:06:50.560
+pheno states. So what kind of basing mechanics would
+
+1037
+01:06:50.570 --> 01:06:54.120
+you be looking at if you were applying the
+
+1038
+01:06:54.129 --> 01:06:57.000
+free energy principle? Well, you'd be looking at those
+
+1039
+01:06:57.010 --> 01:07:00.489
+free energy minimizing processes that have this uh notion
+
+1040
+01:07:00.500 --> 01:07:03.629
+of selecting the good phenotypes that are a good
+
+1041
+01:07:03.639 --> 01:07:08.000
+match minimum prediction error with their environment. Um In
+
+1042
+01:07:08.010 --> 01:07:11.070
+statistics, this is known as Bayesian model selection. So
+
+1043
+01:07:11.080 --> 01:07:15.020
+selecting a number of different generative models, which we
+
+1044
+01:07:15.030 --> 01:07:17.879
+can now read as the phenotype. So, before I
+
+1045
+01:07:17.889 --> 01:07:20.600
+am my genitive model, I am seeking evidence from
+
+1046
+01:07:20.610 --> 01:07:23.419
+my own existence because I am seeking evidence from
+
+1047
+01:07:23.429 --> 01:07:27.110
+my model and I am my model. So now
+
+1048
+01:07:27.120 --> 01:07:31.340
+I can label each phenotype each uh each baby
+
+1049
+01:07:31.360 --> 01:07:35.040
+um uh uh um as a model and I
+
+1050
+01:07:35.050 --> 01:07:39.120
+can score the adaptive fitness of that model in
+
+1051
+01:07:39.129 --> 01:07:43.159
+terms of um that baby's um well, that over
+
+1052
+01:07:43.169 --> 01:07:46.320
+the lifetime, um we can take the uh the
+
+1053
+01:07:46.330 --> 01:07:48.489
+free energy over the lifetime or the pathogen or
+
+1054
+01:07:48.500 --> 01:07:51.679
+the free action um and that would be adaptive
+
+1055
+01:07:51.689 --> 01:07:55.959
+fitness. So now we've got be model selection now
+
+1056
+01:07:55.969 --> 01:08:00.350
+is just natural selection. So evolution is nature's way
+
+1057
+01:08:00.360 --> 01:08:03.989
+of doing be model selection to select the free
+
+1058
+01:08:04.000 --> 01:08:08.000
+engine minimizing generative model with her Markov blanket. That
+
+1059
+01:08:08.010 --> 01:08:11.070
+is the phenotype. What does that mean from the
+
+1060
+01:08:11.080 --> 01:08:13.969
+point of view of neurodevelopment at a slightly sort
+
+1061
+01:08:13.979 --> 01:08:16.879
+of faster time scale. Well, it means that the
+
+1062
+01:08:16.890 --> 01:08:19.899
+model that I've inherited from my genotype of my
+
+1063
+01:08:19.910 --> 01:08:24.220
+parents and this basic model selection of, you know,
+
+1064
+01:08:24.229 --> 01:08:30.950
+over millennia means that I can now um learn
+
+1065
+01:08:30.959 --> 01:08:35.160
+my environment quickly and efficiently in an adaptive way
+
+1066
+01:08:35.169 --> 01:08:38.270
+in a free and minimizing way. Also, it means
+
+1067
+01:08:38.279 --> 01:08:42.009
+that my environment is actually built to be learnable.
+
+1068
+01:08:42.529 --> 01:08:45.810
+So the self-organization that you'd expect to see during
+
+1069
+01:08:45.819 --> 01:08:50.609
+um uh neurodevelopment um say development of the brain
+
+1070
+01:08:50.899 --> 01:08:55.000
+in um in utron then crucially during early developmental
+
+1071
+01:08:55.009 --> 01:09:00.359
+periods is basically a um a selection of the
+
+1072
+01:09:00.370 --> 01:09:04.959
+neuronal elements and systems and connectivity. The connectome um
+
+1073
+01:09:05.129 --> 01:09:10.709
+that is fit for purpose to um to provide
+
+1074
+01:09:10.720 --> 01:09:15.250
+a good generative model of this phenotype of this
+
+1075
+01:09:15.259 --> 01:09:19.520
+infant's world where this world is carefully crafted by
+
+1076
+01:09:19.529 --> 01:09:22.830
+the mother by school, you know, by carers um
+
+1077
+01:09:23.000 --> 01:09:26.790
+by teachers to make it as learnable as possible.
+
+1078
+01:09:26.859 --> 01:09:29.500
+And then you'd be asking uh if you're a
+
+1079
+01:09:29.509 --> 01:09:32.140
+neurobiologist, what are the mechanisms of this? Well, there
+
+1080
+01:09:32.149 --> 01:09:36.740
+are all sorts of um um um levels on
+
+1081
+01:09:36.750 --> 01:09:39.680
+which you can study this sort of epigen specification
+
+1082
+01:09:39.689 --> 01:09:44.979
+and of neurodevelopment right through to experience dependent plasticity
+
+1083
+01:09:44.990 --> 01:09:49.359
+where neurons or brain cells that wi together fire
+
+1084
+01:09:49.370 --> 01:09:53.479
+together. This itself is a free energy minimizing process.
+
+1085
+01:09:54.149 --> 01:10:02.410
+It's also known as heavy plasticity and effectively the
+
+1086
+01:10:02.419 --> 01:10:06.479
+the connectivity as it grows. Well, interestingly, in fact,
+
+1087
+01:10:06.490 --> 01:10:09.000
+we're usually born with too many connections. It's a
+
+1088
+01:10:09.009 --> 01:10:11.850
+bit like being a large language model that we
+
+1089
+01:10:11.859 --> 01:10:14.270
+have to actually prove. So it's actually a question
+
+1090
+01:10:14.279 --> 01:10:17.049
+of the right level of sparsity. So we actually
+
+1091
+01:10:17.060 --> 01:10:20.575
+lose redundant connections as we grow up and become
+
+1092
+01:10:20.584 --> 01:10:23.865
+old and wise and sparse in our uh our
+
+1093
+01:10:23.875 --> 01:10:27.794
+much simpler and more efficient uh generative model. But
+
+1094
+01:10:27.975 --> 01:10:31.524
+um irrespective of that, um all of this can
+
+1095
+01:10:31.535 --> 01:10:35.654
+be written down as uh effectively learning in exactly
+
+1096
+01:10:35.665 --> 01:10:38.365
+the same way that machine learning uses recurrent neural
+
+1097
+01:10:38.375 --> 01:10:43.560
+networks to um um identify the the best weights
+
+1098
+01:10:43.569 --> 01:10:47.009
+that the best explain the content to which this
+
+1099
+01:10:47.120 --> 01:10:53.020
+um um recurrent ne network was exposed. Uh For
+
+1100
+01:10:53.029 --> 01:10:56.060
+example, for, you know, for example, a large language
+
+1101
+01:10:56.069 --> 01:11:00.089
+model. So this will be plasticity of a developmental
+
+1102
+01:11:00.100 --> 01:11:03.939
+sort but also experience dependent plasticity um that we
+
+1103
+01:11:03.950 --> 01:11:06.200
+still enjoy today, we, we can still learn to
+
+1104
+01:11:06.209 --> 01:11:07.959
+drive a car when we're quite old or you
+
+1105
+01:11:07.970 --> 01:11:10.279
+can now go off and learn a new sport
+
+1106
+01:11:10.290 --> 01:11:12.270
+or you could run away from fires in a,
+
+1107
+01:11:12.279 --> 01:11:14.750
+in a way that you've never, never done before.
+
+1108
+01:11:14.850 --> 01:11:17.080
+Um So we, you know, we still have this
+
+1109
+01:11:17.089 --> 01:11:20.629
+capacity to learn. Um And we also have the
+
+1110
+01:11:20.640 --> 01:11:24.450
+capacity to revise the very structure of our models
+
+1111
+01:11:24.459 --> 01:11:29.669
+of the kind that is um prescribed epigenetic at
+
+1112
+01:11:29.680 --> 01:11:32.450
+birth. Uh You know, when we go to sleep
+
+1113
+01:11:32.459 --> 01:11:35.189
+at night, for example, you know, we are eliminating
+
+1114
+01:11:35.200 --> 01:11:39.569
+certain synaptic connections that are redundant that have accumulated
+
+1115
+01:11:39.580 --> 01:11:42.750
+through experience dependent during the day. So this is
+
+1116
+01:11:42.759 --> 01:11:47.569
+self organ organization over a timescale of years, developmentally
+
+1117
+01:11:47.930 --> 01:11:51.140
+um days, in terms of the sleep wake cycle
+
+1118
+01:11:51.149 --> 01:11:53.430
+and hours, in terms of learning a new skill,
+
+1119
+01:11:54.410 --> 01:11:57.229
+and then we go to um a faster um
+
+1120
+01:11:57.240 --> 01:12:03.189
+um uh level of um self-organization um which um
+
+1121
+01:12:03.200 --> 01:12:06.410
+would be um framed now, not in terms of
+
+1122
+01:12:06.419 --> 01:12:10.600
+hours, but in terms of milliseconds and seconds. And
+
+1123
+01:12:10.609 --> 01:12:13.990
+this would be the kind of self-organization that would
+
+1124
+01:12:14.000 --> 01:12:18.669
+be appropriate for describing the dynamics, not neuroplasticity, not
+
+1125
+01:12:18.680 --> 01:12:21.490
+the efficacy of the strength of neural connections, but
+
+1126
+01:12:21.500 --> 01:12:25.200
+the actual activity, the neural activity, the dynamics themselves,
+
+1127
+01:12:25.209 --> 01:12:27.709
+the amount to which brain cells are spiking or
+
+1128
+01:12:27.720 --> 01:12:31.540
+shouting or trying to influence each other through message
+
+1129
+01:12:31.549 --> 01:12:36.180
+passing and depolarization events. And this is the inference
+
+1130
+01:12:36.189 --> 01:12:38.910
+part, this is the perception and the active part.
+
+1131
+01:12:39.609 --> 01:12:42.069
+So what is this kind of self organization? Well,
+
+1132
+01:12:42.080 --> 01:12:45.520
+we've just said it's neuronal dynamics that have, that
+
+1133
+01:12:45.529 --> 01:12:48.419
+can be described in terms of space mechanics that
+
+1134
+01:12:48.479 --> 01:12:51.470
+can be read as perception of action, changing your
+
+1135
+01:12:51.479 --> 01:12:55.540
+mind in the moment to predict accommodate and to
+
+1136
+01:12:55.549 --> 01:13:00.140
+realize predictions about the sensorium given the way that
+
+1137
+01:13:00.149 --> 01:13:02.660
+you are sampling your sensorium. And then you get
+
+1138
+01:13:02.669 --> 01:13:05.520
+into the world of cold in neuroscience, even rated
+
+1139
+01:13:05.529 --> 01:13:09.319
+potentials and things that change very, very quickly. So
+
+1140
+01:13:09.330 --> 01:13:13.410
+we've moved away from learning and ethology um into
+
+1141
+01:13:13.419 --> 01:13:18.649
+the world of self-organization over milliseconds. There's an interesting
+
+1142
+01:13:18.660 --> 01:13:22.169
+intermediate scale which I just slip in. Um WHICH
+
+1143
+01:13:22.180 --> 01:13:25.770
+I think makes us um intelligent and, and cognitive,
+
+1144
+01:13:25.810 --> 01:13:29.709
+which is uh being able to recognize the context
+
+1145
+01:13:30.200 --> 01:13:34.910
+um in further context you are in and make
+
+1146
+01:13:34.919 --> 01:13:39.029
+short term adjustments to the connectivity that it has
+
+1147
+01:13:39.040 --> 01:13:42.330
+been learned. Um And this is often framed in
+
+1148
+01:13:42.339 --> 01:13:48.220
+terms of representation of uncertainty or confidence or precision
+
+1149
+01:13:48.500 --> 01:13:52.580
+ascribed to different sources of evidence in psychology. It
+
+1150
+01:13:52.589 --> 01:13:57.990
+would be attention. Um um um So this is
+
+1151
+01:13:58.000 --> 01:14:03.310
+not actually recognizing or inferring the particular content at
+
+1152
+01:14:03.319 --> 01:14:06.040
+the moment or in the future, but the context
+
+1153
+01:14:06.049 --> 01:14:10.850
+in which the ability that your brain has to
+
+1154
+01:14:10.859 --> 01:14:14.640
+recognize you're in the dark and therefore make appropriate
+
+1155
+01:14:14.649 --> 01:14:19.609
+adjustments in terms of pupillary dilatation. Um um um
+
+1156
+01:14:19.759 --> 01:14:23.500
+SORT of, you know, adapt your photoreceptors uh in
+
+1157
+01:14:23.509 --> 01:14:27.430
+a way that knows that there's a different dynamic
+
+1158
+01:14:27.439 --> 01:14:30.419
+range range at hand. So being in the dark
+
+1159
+01:14:30.430 --> 01:14:33.729
+provides a context that outlives in time, the very
+
+1160
+01:14:33.740 --> 01:14:37.069
+fast sense making they get from say visually avert
+
+1161
+01:14:37.080 --> 01:14:40.629
+responses. I mentioned that because that's quite important, attention
+
+1162
+01:14:40.640 --> 01:14:44.209
+is quite important when it comes to talking about
+
+1163
+01:14:44.220 --> 01:14:49.439
+things like sentience and phenomenal experience and possibly mental
+
+1164
+01:14:49.450 --> 01:14:53.700
+action. Because if you've got the ability to recognize
+
+1165
+01:14:53.709 --> 01:14:56.479
+the context in which you are making sense, it
+
+1166
+01:14:56.490 --> 01:14:58.350
+may be that a higher level of the brain
+
+1167
+01:14:58.359 --> 01:15:02.419
+in this deep architecture is able to now act
+
+1168
+01:15:02.430 --> 01:15:06.250
+upon lower levels to say it's in this context,
+
+1169
+01:15:06.259 --> 01:15:08.720
+you're making you're doing your predictive coding or it's
+
+1170
+01:15:08.729 --> 01:15:11.020
+in that context. And now you've got the notion
+
+1171
+01:15:11.029 --> 01:15:14.500
+of action on the inside, not just through moving
+
+1172
+01:15:14.509 --> 01:15:17.819
+your bodies. And that mental action, which I repeat,
+
+1173
+01:15:17.830 --> 01:15:23.729
+it could be just optimizing or seen as optimizing
+
+1174
+01:15:23.740 --> 01:15:26.759
+your intentional set or in the active domain, your
+
+1175
+01:15:26.770 --> 01:15:30.229
+intentional set may be an important if you like
+
+1176
+01:15:30.240 --> 01:15:34.700
+facility that thermostats don't have and possibly insects don't
+
+1177
+01:15:34.709 --> 01:15:37.319
+have it. Certainly, you and I have this sort
+
+1178
+01:15:37.330 --> 01:15:42.270
+of, um, fast but not very fast. Um, SCALE
+
+1179
+01:15:42.279 --> 01:15:46.569
+of self organization, coordinating things in, you know, 300
+
+1180
+01:15:46.580 --> 01:15:49.129
+milliseconds through to several seconds, for example.
+
+1181
+01:15:50.100 --> 01:15:54.359
+Mhm And still on the topic of nervous systems
+
+1182
+01:15:54.370 --> 01:15:58.399
+and the brain more specifically, uh earlier, you mentioned
+
+1183
+01:15:58.410 --> 01:16:01.180
+another concept that I said, I would need to
+
+1184
+01:16:01.189 --> 01:16:05.240
+ask you more about what is hierarchy in this
+
+1185
+01:16:05.250 --> 01:16:07.640
+context. What does it mean for the brain to
+
+1186
+01:16:07.649 --> 01:16:09.319
+be hierarchical?
+
+1187
+01:16:10.370 --> 01:16:13.919
+Right? So again, that's an excellent question. So um
+
+1188
+01:16:14.919 --> 01:16:22.209
+hierarchy um simply means um that there are separable
+
+1189
+01:16:22.220 --> 01:16:27.799
+levels or scales of some thing and implicitly lots
+
+1190
+01:16:27.810 --> 01:16:30.990
+of things because there's things at every scale. Um
+
+1191
+01:16:31.250 --> 01:16:34.810
+So, from the point of view of a physicist,
+
+1192
+01:16:35.259 --> 01:16:39.390
+uh there's another kind of circular causality which you'll
+
+1193
+01:16:39.399 --> 01:16:43.180
+find in um non equilibrium physics. And in particular,
+
+1194
+01:16:43.459 --> 01:16:47.720
+um the uh synergetics of, of the sort that
+
+1195
+01:16:47.729 --> 01:16:50.709
+Herman Hagen is famous for was, was, was famous
+
+1196
+01:16:50.720 --> 01:16:57.299
+for um he unfortunately died very recently. Um So
+
+1197
+01:16:57.310 --> 01:17:02.180
+this circular causality is a circular causality between scales.
+
+1198
+01:17:02.490 --> 01:17:04.189
+And you think of this as a sort of
+
+1199
+01:17:04.200 --> 01:17:08.069
+a hierarchical ladder So the hierarchy very much as
+
+1200
+01:17:08.080 --> 01:17:11.169
+in an organization or in a caste system means
+
+1201
+01:17:11.180 --> 01:17:13.620
+that there is a certain ordering. So you can
+
+1202
+01:17:13.629 --> 01:17:16.410
+be low in the hierarchy or high in the
+
+1203
+01:17:16.419 --> 01:17:24.220
+hierarchy. Um And this hierarchical structure always exists in
+
+1204
+01:17:24.229 --> 01:17:28.959
+the universe. Um SIMPLY because you can take small
+
+1205
+01:17:28.970 --> 01:17:33.500
+fast fluctuations at any given scale and take the
+
+1206
+01:17:33.509 --> 01:17:38.129
+averages of these. And then what happens is that
+
+1207
+01:17:38.140 --> 01:17:40.569
+the fast stuff gets averaged away, you're left with
+
+1208
+01:17:40.580 --> 01:17:44.419
+slightly slower, larger scale things. So you've got a
+
+1209
+01:17:44.430 --> 01:17:47.229
+representation of the fast stuff at the lowest, at
+
+1210
+01:17:47.240 --> 01:17:50.189
+any given level. And then at the higher level
+
+1211
+01:17:50.580 --> 01:17:55.569
+there, um things slow down. There are um they
+
+1212
+01:17:55.580 --> 01:18:01.520
+are if you like um caused by or subtended
+
+1213
+01:18:01.529 --> 01:18:05.450
+by the fasting simply because the fast things are
+
+1214
+01:18:06.779 --> 01:18:11.240
+um uh added together to create the slow things.
+
+1215
+01:18:11.660 --> 01:18:15.759
+So um um but at the same time, the
+
+1216
+01:18:15.770 --> 01:18:19.430
+slow things provide a context for the fast things.
+
+1217
+01:18:19.649 --> 01:18:23.549
+And this is the kind of circular causality um
+
+1218
+01:18:23.580 --> 01:18:29.290
+celebrated in synergetics. And that providing the context means
+
+1219
+01:18:29.299 --> 01:18:32.700
+that you can write down mathematically akin to things
+
+1220
+01:18:32.709 --> 01:18:36.279
+like the center manifold theorem. Um A notion that
+
+1221
+01:18:36.290 --> 01:18:40.540
+the slow things at the higher scale enslave the
+
+1222
+01:18:40.549 --> 01:18:44.109
+fast fluctuations to particular manifolds on which the slow
+
+1223
+01:18:44.120 --> 01:18:49.129
+things operate. Um And, and you repeat that you
+
+1224
+01:18:49.140 --> 01:18:51.680
+can rinse swash and repeat. Now you've got the
+
+1225
+01:18:51.689 --> 01:18:53.740
+slow things that can be averaged to make even
+
+1226
+01:18:53.750 --> 01:18:56.669
+slower things. And if it is a case as
+
+1227
+01:18:56.680 --> 01:18:59.930
+it probably is. Um AND certainly from the point
+
+1228
+01:18:59.939 --> 01:19:02.810
+of view that the energy it is relatively easy
+
+1229
+01:19:02.819 --> 01:19:05.290
+to show it is the case uh if it
+
+1230
+01:19:05.299 --> 01:19:09.399
+is the case that the dynamics, uh the functional
+
+1231
+01:19:09.410 --> 01:19:12.830
+form of the dynamics expressed as a Lagrangian or
+
+1232
+01:19:12.839 --> 01:19:16.879
+in terms of the equations of motion are conserved
+
+1233
+01:19:16.890 --> 01:19:20.319
+over scales with different scaling properties. But you know,
+
+1234
+01:19:20.330 --> 01:19:22.060
+the functional forms the same you have what they
+
+1235
+01:19:22.080 --> 01:19:25.350
+call the renormalization group. So what that means is
+
+1236
+01:19:25.359 --> 01:19:30.620
+that the world out there has this hierarchical structure
+
+1237
+01:19:30.959 --> 01:19:34.740
+where slow things contextualize and enslave fast things and
+
+1238
+01:19:34.750 --> 01:19:39.620
+the fast things effectively um are coarse grained in
+
+1239
+01:19:39.629 --> 01:19:43.500
+order to summarize and create the slow things. So
+
+1240
+01:19:43.509 --> 01:19:47.620
+this is a circular causality that um that emerges
+
+1241
+01:19:47.629 --> 01:19:51.259
+from the slaving principle in physics. Why is that
+
+1242
+01:19:51.270 --> 01:19:55.580
+interesting? Well, remember before, the free energy principle says
+
+1243
+01:19:55.589 --> 01:19:58.810
+that um an existential imperative is to have a
+
+1244
+01:19:58.819 --> 01:20:03.319
+good uh um narrative model of your lived world.
+
+1245
+01:20:03.870 --> 01:20:06.959
+Um And by good, it just basically means that
+
+1246
+01:20:06.970 --> 01:20:09.990
+the probability of the data being provided by of
+
+1247
+01:20:10.000 --> 01:20:12.600
+the sensory input being provided by this world is
+
+1248
+01:20:12.609 --> 01:20:14.770
+very high on your model, which means that you
+
+1249
+01:20:14.779 --> 01:20:16.629
+have to have a good model of the world
+
+1250
+01:20:16.899 --> 01:20:21.959
+because I'm using that expression um with a nod
+
+1251
+01:20:21.970 --> 01:20:24.919
+to an acknowledgment of things like the good regulator
+
+1252
+01:20:24.930 --> 01:20:29.069
+theorem and the law of requisite variety that was
+
+1253
+01:20:29.359 --> 01:20:33.439
+established in the early days of cybernetics. And what
+
+1254
+01:20:33.450 --> 01:20:36.669
+this basically says is that if I am in
+
+1255
+01:20:36.680 --> 01:20:39.169
+an open exchange with my environment. And if I
+
+1256
+01:20:39.180 --> 01:20:42.220
+could control and measure, if I can act upon
+
+1257
+01:20:42.229 --> 01:20:47.509
+and sense my environment um in the language of
+
+1258
+01:20:47.520 --> 01:20:50.060
+the good regulator there, if I can regulate this
+
+1259
+01:20:50.069 --> 01:20:53.220
+environment, then I have to be a good model
+
+1260
+01:20:53.229 --> 01:20:56.919
+of that environment. So this is just another statement
+
+1261
+01:20:56.930 --> 01:20:59.169
+of the free energy principle. In the sense that
+
+1262
+01:20:59.180 --> 01:21:01.649
+um um to be a good model means that
+
+1263
+01:21:01.660 --> 01:21:04.279
+my model evidence is very high. And if I
+
+1264
+01:21:04.290 --> 01:21:08.240
+maximize my model evidence, I'm imply minimizing my surprise
+
+1265
+01:21:08.250 --> 01:21:11.879
+or, or my free energy. Um But we've said
+
+1266
+01:21:11.890 --> 01:21:15.529
+that the world has to have a hierarchical structure,
+
+1267
+01:21:15.759 --> 01:21:18.129
+which means that my brain as a good model
+
+1268
+01:21:18.140 --> 01:21:20.850
+of this world has to have a hierarchical structure.
+
+1269
+01:21:21.410 --> 01:21:23.540
+So, what would that look like? Well, it would
+
+1270
+01:21:23.549 --> 01:21:27.830
+look like um effectively bits of the brain sitting
+
+1271
+01:21:27.839 --> 01:21:30.750
+very close to the sensory input, responding very, very
+
+1272
+01:21:30.759 --> 01:21:34.310
+quickly um to what's going on. And then there
+
+1273
+01:21:34.319 --> 01:21:37.430
+would be a level above it, a level above
+
+1274
+01:21:37.439 --> 01:21:40.229
+another part of the brain, a brain system that's
+
+1275
+01:21:40.240 --> 01:21:43.229
+looking at the level below as if it was
+
+1276
+01:21:43.240 --> 01:21:45.839
+the Sensorium as if it was a sensory interface,
+
+1277
+01:21:45.850 --> 01:21:49.189
+as if it was the Markov blanket. And indeed,
+
+1278
+01:21:50.279 --> 01:21:54.240
+and then you've got a third level or scale
+
+1279
+01:21:54.660 --> 01:21:58.500
+that's looking at the second level. Um And it's
+
+1280
+01:21:58.509 --> 01:22:01.930
+enacting in this um in the spirit of the
+
+1281
+01:22:01.939 --> 01:22:04.629
+renormalization group, it's doing exactly the same thing. In
+
+1282
+01:22:04.640 --> 01:22:06.959
+fact, it's doing predicted coding, which is minimizing free
+
+1283
+01:22:06.970 --> 01:22:09.600
+energy that that is the, the Lagrange in this
+
+1284
+01:22:09.609 --> 01:22:13.149
+instance. Um uh And so that gives you a
+
+1285
+01:22:13.160 --> 01:22:16.029
+view of the, of the brain as basically layer
+
+1286
+01:22:16.040 --> 01:22:18.470
+upon layer, very much like that onion analogy. Uh
+
+1287
+01:22:18.479 --> 01:22:21.689
+We had before where each layer is trying to
+
+1288
+01:22:21.700 --> 01:22:26.310
+make sense of the layer towards the outside, the
+
+1289
+01:22:26.319 --> 01:22:29.500
+lower layer, the layer or the level that is
+
+1290
+01:22:29.509 --> 01:22:34.270
+closer to the fast sensory fluctuations that are provided
+
+1291
+01:22:34.279 --> 01:22:38.879
+by vision or hearing or interception and making sense
+
+1292
+01:22:38.890 --> 01:22:44.470
+of means um being able to predict um um
+
+1293
+01:22:45.379 --> 01:22:49.350
+vertically and simply um um in the, in the
+
+1294
+01:22:49.359 --> 01:22:53.310
+spirit of minimizing or maximizing model evidence or minimizing
+
+1295
+01:22:53.330 --> 01:22:57.870
+um free energy. Um And that basically can always
+
+1296
+01:22:57.879 --> 01:23:02.569
+be read as providing a simple account that is
+
+1297
+01:23:02.580 --> 01:23:05.770
+accurate of what's going on at the level below.
+
+1298
+01:23:06.250 --> 01:23:09.129
+Uh And I use that language because um the
+
+1299
+01:23:09.140 --> 01:23:12.089
+simplicity is important here um in the sense that
+
+1300
+01:23:12.100 --> 01:23:14.609
+the model evidence, the, well, let's put it the
+
+1301
+01:23:14.620 --> 01:23:17.810
+other way, the free energy can always be expressed
+
+1302
+01:23:17.819 --> 01:23:21.149
+as complexity minus accuracy. So if I want to
+
+1303
+01:23:21.160 --> 01:23:25.919
+minimize my free energy or maximize my model evidence
+
+1304
+01:23:25.990 --> 01:23:29.279
+or minimize my prediction error or minimize my surprise,
+
+1305
+01:23:29.410 --> 01:23:34.649
+I'm effectively trying to find the minimally complex explanation
+
+1306
+01:23:34.660 --> 01:23:37.390
+that retains an accurate account. So I'm always trying
+
+1307
+01:23:37.399 --> 01:23:40.120
+to simplify, I'm always trying to compress, I'm always
+
+1308
+01:23:40.129 --> 01:23:43.700
+trying to dimension reduce, I'm always trying to summarize
+
+1309
+01:23:43.709 --> 01:23:49.439
+coarse grain without losing accuracy. So it's lossy compression,
+
+1310
+01:23:49.450 --> 01:23:53.229
+but the least lossy in terms of the amount
+
+1311
+01:23:53.240 --> 01:23:55.709
+of information. So this notion of compression is really
+
+1312
+01:23:55.720 --> 01:23:59.250
+important because this is where um a lot of
+
+1313
+01:23:59.259 --> 01:24:04.509
+people think about um uh the the existential imperatives
+
+1314
+01:24:04.520 --> 01:24:07.390
+can also be seen not as minimizing prediction, but
+
+1315
+01:24:07.399 --> 01:24:11.540
+just by compressing. Uh JUST arac in coarse brain
+
+1316
+01:24:11.549 --> 01:24:14.629
+away what really matters in describing what's really going
+
+1317
+01:24:14.640 --> 01:24:19.629
+on and increasingly longer and larger spatial scales. So
+
+1318
+01:24:19.640 --> 01:24:21.709
+as you send the hierarchy in the brain, as
+
+1319
+01:24:21.720 --> 01:24:24.430
+you move deeper into the brain, in terms of
+
+1320
+01:24:24.439 --> 01:24:28.520
+this anion analogy, then you see more of the
+
+1321
+01:24:28.529 --> 01:24:32.600
+surface. Um So, you know, after a certain uh
+
+1322
+01:24:32.669 --> 01:24:35.589
+uh after a certain depth, there will be brain
+
+1323
+01:24:35.600 --> 01:24:38.890
+systems that are multimodal, they will be receiving say
+
+1324
+01:24:38.899 --> 01:24:42.609
+prediction errors from the visual brain, from the hearing
+
+1325
+01:24:42.620 --> 01:24:45.390
+brain from the intercepted brain from the, you know,
+
+1326
+01:24:45.399 --> 01:24:48.810
+the proceed brain, they will be multimodal, they will
+
+1327
+01:24:48.819 --> 01:24:53.330
+be a modal, they will be domain general. And
+
+1328
+01:24:53.339 --> 01:24:57.859
+furthermore, because this scaling as um as we were
+
+1329
+01:24:57.870 --> 01:25:03.470
+emphasizing when describing the slaving principle, um the the
+
+1330
+01:25:03.479 --> 01:25:07.020
+the compression will be into slower and slower narratives.
+
+1331
+01:25:07.319 --> 01:25:10.580
+So receptive fields inside the visual cortex in the
+
+1332
+01:25:10.589 --> 01:25:12.689
+back of the brain at the very the very
+
+1333
+01:25:12.700 --> 01:25:18.540
+lowest hierarchical level, um the one primary visual cortex,
+
+1334
+01:25:18.890 --> 01:25:21.529
+they just see a very small part of the
+
+1335
+01:25:21.540 --> 01:25:24.069
+visual scene and they, you know, and they respond
+
+1336
+01:25:24.080 --> 01:25:29.200
+to very little transient changes, little bars and you
+
+1337
+01:25:29.209 --> 01:25:31.955
+know, very, very quickly. Um And if you go
+
+1338
+01:25:31.964 --> 01:25:33.805
+right down to the brain stem. You know, you're
+
+1339
+01:25:33.814 --> 01:25:40.845
+talking about very fast processing in less than less
+
+1340
+01:25:40.854 --> 01:25:44.254
+than 100 100 milliseconds. But as you get out,
+
+1341
+01:25:44.265 --> 01:25:48.895
+say to the prefrontal cortex or intermediately parietal cortex,
+
+1342
+01:25:49.075 --> 01:25:53.625
+then things you start to get notions of things
+
+1343
+01:25:53.634 --> 01:25:57.290
+moving visual motion, which means that something has to
+
+1344
+01:25:57.299 --> 01:25:59.220
+move for a period of time before you can
+
+1345
+01:25:59.229 --> 01:26:02.020
+actually estimate, you know how fast this thing is
+
+1346
+01:26:02.029 --> 01:26:04.140
+moving. Is it a bird or is it an
+
+1347
+01:26:04.149 --> 01:26:08.649
+airplane? Meaning that the spatial temporal receptive fields increase
+
+1348
+01:26:08.660 --> 01:26:12.040
+in size crucially in time as well. So you
+
+1349
+01:26:12.049 --> 01:26:14.649
+might argue that when you get to very high
+
+1350
+01:26:14.660 --> 01:26:20.919
+levels, say hippocampus, you've got whole narratives lasting encoding,
+
+1351
+01:26:20.930 --> 01:26:23.890
+you know where I've been and where I'm going,
+
+1352
+01:26:23.899 --> 01:26:28.759
+uh you know, seconds into the future. So this
+
+1353
+01:26:28.770 --> 01:26:31.430
+would be um yeah. So that would be the
+
+1354
+01:26:31.439 --> 01:26:37.750
+implication of having a world which has this renormalized
+
+1355
+01:26:37.779 --> 01:26:40.140
+structure, which it always has to, it has had
+
+1356
+01:26:40.149 --> 01:26:45.080
+different levels of description. Um HOW that hierarchical structure
+
+1357
+01:26:45.089 --> 01:26:48.810
+gets installed into the neur anatomy of a brain
+
+1358
+01:26:49.149 --> 01:26:57.660
+that has this increasingly deep, slow compressed representation of
+
+1359
+01:26:58.399 --> 01:27:04.089
+a narrative self that transcends any given moment. So
+
+1360
+01:27:04.100 --> 01:27:08.140
+there is no present. We are just representing things
+
+1361
+01:27:08.149 --> 01:27:11.049
+that are unfolding very, very, very slowly. So perhaps
+
+1362
+01:27:11.060 --> 01:27:14.129
+language is a good example here, the primary auditory
+
+1363
+01:27:14.140 --> 01:27:18.350
+cortex will be perfectly attuned and respond to a
+
+1364
+01:27:18.359 --> 01:27:21.470
+particular frequency glide. Then there will be sort of
+
+1365
+01:27:21.479 --> 01:27:26.020
+per Aitor cortices that may respond to phones the
+
+1366
+01:27:26.029 --> 01:27:28.839
+the the higher levels that may start responding to
+
+1367
+01:27:28.990 --> 01:27:31.850
+the words and the lexical structure of words, there
+
+1368
+01:27:31.859 --> 01:27:35.290
+will be higher levels that actually look over increasing
+
+1369
+01:27:35.299 --> 01:27:39.399
+numbers uh periods, extended periods of time and start
+
+1370
+01:27:39.410 --> 01:27:43.750
+to look at the, the, the put semantics in
+
+1371
+01:27:43.759 --> 01:27:46.645
+the con of syntax. And then you have higher
+
+1372
+01:27:46.654 --> 01:27:52.944
+levels that have, you know, representing the narrative. And
+
+1373
+01:27:52.955 --> 01:27:56.015
+then the genre of the book say that you're
+
+1374
+01:27:56.024 --> 01:28:00.294
+reading. So each level you're moving up same principles
+
+1375
+01:28:00.305 --> 01:28:02.694
+that play out at different different scales.
+
+1376
+01:28:03.560 --> 01:28:06.470
+So when it comes to studying the brain, we
+
+1377
+01:28:06.479 --> 01:28:10.209
+have different methodologies, different ways we can do it.
+
+1378
+01:28:10.220 --> 01:28:16.359
+Like for example, neuroimaging lesion studies, brain stimulation studies,
+
+1379
+01:28:16.370 --> 01:28:19.549
+animal models and so on. Uh I would like
+
+1380
+01:28:19.629 --> 01:28:22.870
+to start by talking a little bit about neuroimaging
+
+1381
+01:28:22.879 --> 01:28:26.049
+because that's an area where you've done lots of
+
+1382
+01:28:26.060 --> 01:28:29.799
+work. So what can we learn about the brain
+
+1383
+01:28:29.810 --> 01:28:34.569
+by studying it through imaging? What are the limitations
+
+1384
+01:28:34.580 --> 01:28:35.859
+of neuroimaging?
+
+1385
+01:28:36.259 --> 01:28:42.970
+Um Well, neuroimaging read as brain mapping. Um I
+
+1386
+01:28:42.979 --> 01:28:47.430
+think is a way of testing hypotheses about functional
+
+1387
+01:28:47.439 --> 01:28:50.290
+brain architectures. And we've just been, we've spent, you
+
+1388
+01:28:50.299 --> 01:28:53.350
+know, 20 minutes talking about some really important aspects
+
+1389
+01:28:53.359 --> 01:28:56.830
+of, of, of, of functional brain architectures. Um But
+
+1390
+01:28:56.839 --> 01:28:59.919
+as we said, at the beginning, uh I can't
+
+1391
+01:28:59.930 --> 01:29:03.209
+peer beneath your Markov blanket without breaking you. So
+
+1392
+01:29:03.220 --> 01:29:05.319
+if your Markov blanket goes away, you're no longer
+
+1393
+01:29:05.330 --> 01:29:08.529
+you. Um So that, that, that, that presents an
+
+1394
+01:29:08.540 --> 01:29:10.939
+interesting problem if I want to understand how I
+
+1395
+01:29:10.950 --> 01:29:14.640
+work. I can't use my own brain because if
+
+1396
+01:29:14.649 --> 01:29:18.379
+I use my own brain, it, um I will
+
+1397
+01:29:18.390 --> 01:29:21.129
+disturb all the perception and action that underwrites me,
+
+1398
+01:29:21.140 --> 01:29:23.520
+trying to understand and experiment my own. But I
+
+1399
+01:29:23.529 --> 01:29:25.939
+could study your brain. But can I? Well, no,
+
+1400
+01:29:25.950 --> 01:29:30.560
+I can't. Well, perhaps I could study um things
+
+1401
+01:29:30.569 --> 01:29:34.850
+like your brain. Uh Perhaps I could study um
+
+1402
+01:29:35.279 --> 01:29:38.990
+the uh the brain um of uh your um
+
+1403
+01:29:39.000 --> 01:29:41.459
+great grandparents after they died and I could do
+
+1404
+01:29:41.470 --> 01:29:45.819
+some neuron after and dissect dead dead brains. Um
+
+1405
+01:29:46.279 --> 01:29:48.250
+So that would be, you know, if you just
+
+1406
+01:29:48.259 --> 01:29:51.899
+look at the history of neuroscience, it all starts
+
+1407
+01:29:51.910 --> 01:29:55.589
+with dissecting dead ones where the thing doesn't exist
+
+1408
+01:29:55.600 --> 01:29:58.370
+anymore. So its Marko blanket has disappeared and you
+
+1409
+01:29:58.379 --> 01:30:01.279
+can intervene as you look at the structure and
+
+1410
+01:30:01.290 --> 01:30:06.189
+get a lot of insights into the function simply
+
+1411
+01:30:06.200 --> 01:30:09.540
+by looking at the structure. So just discovering hierarchical
+
+1412
+01:30:09.549 --> 01:30:15.129
+organizations, just discovering the preponderance of connections in the
+
+1413
+01:30:15.140 --> 01:30:17.879
+brain. Um So if you just think about that,
+
+1414
+01:30:17.890 --> 01:30:19.979
+that's interesting from the point of view of that
+
+1415
+01:30:19.990 --> 01:30:23.580
+good regulator theorem. I was saying before, if you
+
+1416
+01:30:23.589 --> 01:30:26.709
+were able to dissect the brain, you would be
+
+1417
+01:30:26.720 --> 01:30:30.500
+amazed that nearly all of it is wire, there
+
+1418
+01:30:30.509 --> 01:30:33.310
+are, there's only a very small part of it
+
+1419
+01:30:33.540 --> 01:30:38.200
+mostly on the surface like a cauliflower uh covered
+
+1420
+01:30:38.209 --> 01:30:41.740
+um with the um you know, the cortex, which
+
+1421
+01:30:41.839 --> 01:30:43.680
+literally means that, you know, that which is on
+
+1422
+01:30:43.689 --> 01:30:45.700
+the on the surface which is just a few
+
+1423
+01:30:45.709 --> 01:30:48.950
+millimeters deep. That's where all your brain cells are.
+
+1424
+01:30:49.229 --> 01:30:52.540
+All the rest of it to a certain approximation
+
+1425
+01:30:52.709 --> 01:30:57.930
+uh is just wiring. Um And that wiring is
+
+1426
+01:30:57.959 --> 01:31:02.950
+uh um very sparse uh mediated by axons that
+
+1427
+01:31:02.959 --> 01:31:07.779
+conduct um or have influences over um a whole
+
+1428
+01:31:07.790 --> 01:31:11.000
+range of distances. Um YOU know, uh you know,
+
+1429
+01:31:11.009 --> 01:31:14.580
+up up to several centimeters um in some instances
+
+1430
+01:31:14.589 --> 01:31:17.810
+with a, with a certain fasula and they are
+
+1431
+01:31:17.819 --> 01:31:20.850
+able to conduct with high fidelity and influence other
+
+1432
+01:31:20.859 --> 01:31:23.850
+neurons by being wrapped in myelin, which is a
+
+1433
+01:31:23.859 --> 01:31:28.569
+fatty insulator like a cable. And that fatty substance
+
+1434
+01:31:28.580 --> 01:31:30.950
+looks white. So it's called white matter. So the
+
+1435
+01:31:30.959 --> 01:31:34.990
+cortex is gray matter, the interior, most of the
+
+1436
+01:31:35.000 --> 01:31:37.770
+interior of the collectivity is white matter. That is
+
+1437
+01:31:37.779 --> 01:31:40.000
+interesting because what it means is if you are
+
+1438
+01:31:40.009 --> 01:31:45.379
+AJ model of your world, then your world basically
+
+1439
+01:31:45.390 --> 01:31:48.799
+must be of the sort where there is action
+
+1440
+01:31:48.810 --> 01:31:51.819
+at a distance and it is quite sparse, which
+
+1441
+01:31:51.830 --> 01:31:53.560
+is interesting, isn't it? Because by,
+
+1442
+01:31:53.569 --> 01:31:56.790
+by the way, sorry for interrupting you, what does
+
+1443
+01:31:56.799 --> 01:32:01.270
+the term sparse or sparsity mean in the context
+
+1444
+01:32:01.279 --> 01:32:02.680
+of neuroscience?
+
+1445
+01:32:03.350 --> 01:32:06.450
+Um Well, it's used, I think in the same
+
+1446
+01:32:06.459 --> 01:32:09.540
+context everywhere. It just means that it's, it's it's
+
+1447
+01:32:09.549 --> 01:32:17.229
+um can be used um us refers to um
+
+1448
+01:32:17.580 --> 01:32:24.549
+um distributions. So a very sparse distribution um would
+
+1449
+01:32:24.560 --> 01:32:27.890
+for example be where there are a very, very
+
+1450
+01:32:27.899 --> 01:32:30.430
+small number of big things and a large number,
+
+1451
+01:32:30.439 --> 01:32:33.430
+a very large number of, of, of small things
+
+1452
+01:32:33.640 --> 01:32:36.060
+when used in the context of connectivity, which is
+
+1453
+01:32:36.069 --> 01:32:38.069
+a sense in which we've been using it throughout
+
+1454
+01:32:38.080 --> 01:32:43.620
+this conversation. Um uh Either in terms of coupling
+
+1455
+01:32:43.629 --> 01:32:47.339
+in random dynamic systems and causal inferences or in
+
+1456
+01:32:47.350 --> 01:32:50.129
+terms of brain connections that are if you like
+
+1457
+01:32:50.140 --> 01:32:55.410
+the physical instantiation of those causal causal influences. Um
+
+1458
+01:32:55.609 --> 01:32:59.109
+Then we're talking about uh we can envisage a
+
+1459
+01:32:59.339 --> 01:33:02.729
+matrix, a big square with lots of elements where
+
+1460
+01:33:02.740 --> 01:33:06.529
+there's where there's an entry when one thing is
+
+1461
+01:33:06.540 --> 01:33:10.250
+connected to another thing. So if everything was connected
+
+1462
+01:33:10.259 --> 01:33:15.839
+to everything that matrix would be populated with nonzero
+
+1463
+01:33:15.850 --> 01:33:18.709
+elements everywhere and it would be dense. So it
+
+1464
+01:33:18.720 --> 01:33:21.399
+would be a non sparse matrix. On the other
+
+1465
+01:33:21.410 --> 01:33:26.290
+hand, if everything is just connected to one other
+
+1466
+01:33:26.299 --> 01:33:28.899
+thing, then for every column in that matrix, there
+
+1467
+01:33:28.910 --> 01:33:32.209
+would just be one entry. So although you have
+
+1468
+01:33:32.220 --> 01:33:36.089
+N squared possible connections, there will only be a
+
+1469
+01:33:36.100 --> 01:33:39.189
+small number in that particular simple example, just N
+
+1470
+01:33:39.200 --> 01:33:42.779
+connections. So that's a sparse matrix. So what people
+
+1471
+01:33:42.790 --> 01:33:46.029
+are looking for when they look at connectomes of
+
+1472
+01:33:46.040 --> 01:33:49.779
+connectivity or adjacency matrix in graph theory they're looking
+
+1473
+01:33:49.790 --> 01:33:54.060
+for um or they expect to see um sparse
+
+1474
+01:33:54.069 --> 01:33:58.120
+sparse connections. So of all the possible connectivity, only
+
+1475
+01:33:58.129 --> 01:34:02.259
+a very small number of connections are actually evident
+
+1476
+01:34:02.270 --> 01:34:06.850
+or or present. So the brain um has, you
+
+1477
+01:34:06.859 --> 01:34:10.569
+know, billions of neurons. Um So you can imagine
+
+1478
+01:34:10.580 --> 01:34:15.209
+an enormous big connectivity matrix sometimes calls them called
+
+1479
+01:34:15.220 --> 01:34:18.459
+an adjacency matrix that I'm next to you. If
+
+1480
+01:34:18.470 --> 01:34:22.040
+I'm connected to you, a massive billion times of
+
+1481
+01:34:22.049 --> 01:34:26.160
+billions, billions times billions of potential entries. But the
+
+1482
+01:34:26.169 --> 01:34:29.899
+actual number of connections is a tiny, tiny fraction
+
+1483
+01:34:30.200 --> 01:34:33.259
+of all the possible connections. And that's what people
+
+1484
+01:34:33.270 --> 01:34:36.470
+mean when they say spars, people who are experts
+
+1485
+01:34:36.479 --> 01:34:42.160
+in this field nowadays dubbed connectome say from, in
+
+1486
+01:34:42.169 --> 01:34:45.160
+terms of the connectivity, the brain is almost empty
+
+1487
+01:34:45.450 --> 01:34:47.720
+of all the possible ways it could be, you
+
+1488
+01:34:47.729 --> 01:34:51.100
+know, wires you could have, there's hardly anything there.
+
+1489
+01:34:51.109 --> 01:34:52.970
+And yet, of course, it takes up most of
+
+1490
+01:34:52.979 --> 01:34:56.200
+the uh the wiring at most of the space.
+
+1491
+01:34:56.229 --> 01:35:00.319
+So that's what sparsity means. It's an important point
+
+1492
+01:35:00.330 --> 01:35:03.470
+to pick up on because um you know, again,
+
+1493
+01:35:03.479 --> 01:35:09.160
+this theme that the brain is or entails the
+
+1494
+01:35:09.169 --> 01:35:13.009
+model of the lived world, it means that your
+
+1495
+01:35:13.020 --> 01:35:18.330
+world has very sparse causal structure. And of course,
+
+1496
+01:35:18.669 --> 01:35:21.859
+that's exactly where we started with the definition of
+
+1497
+01:35:21.870 --> 01:35:24.270
+things in terms of Markov blankets. So if I
+
+1498
+01:35:24.279 --> 01:35:29.689
+live in a universe that is constituted by things
+
+1499
+01:35:30.390 --> 01:35:33.290
+that just means I live in a universe with
+
+1500
+01:35:33.299 --> 01:35:36.970
+lots of Markov blankets at a particular scale, if
+
+1501
+01:35:36.979 --> 01:35:38.919
+I live in a universe with lots of markup
+
+1502
+01:35:38.930 --> 01:35:40.839
+blankets at a particular scale, that means it has
+
+1503
+01:35:40.850 --> 01:35:45.029
+to be sparsely coupled. And if my self-organization in
+
+1504
+01:35:45.040 --> 01:35:49.959
+terms of synaptic plasticity is a way of learning
+
+1505
+01:35:49.970 --> 01:35:52.810
+that sparse, you know, where those sparse connections or
+
+1506
+01:35:52.819 --> 01:35:57.100
+couplings are, that means that my brain should have
+
+1507
+01:35:57.109 --> 01:35:59.890
+a sparse connectivity and it does. So that, that,
+
+1508
+01:35:59.899 --> 01:36:02.049
+you know, sorry, we wander away from your question
+
+1509
+01:36:02.060 --> 01:36:04.359
+about brain imaging. But I'm just saying you can
+
+1510
+01:36:04.370 --> 01:36:07.629
+learn a lot about the anatomy. Yeah, just knowing,
+
+1511
+01:36:07.640 --> 01:36:10.700
+just being able to dissect a dead brain, it
+
+1512
+01:36:10.709 --> 01:36:13.600
+tells me a lot about the world that this
+
+1513
+01:36:13.609 --> 01:36:16.759
+brain used to be in and the principles, you
+
+1514
+01:36:16.790 --> 01:36:19.490
+know, and you know, and the scale at which,
+
+1515
+01:36:19.509 --> 01:36:22.740
+you know, this brain was operating and it also
+
+1516
+01:36:22.750 --> 01:36:25.930
+tells you about the different modalities. Then he then,
+
+1517
+01:36:26.240 --> 01:36:30.209
+then he moved to neuropsychology. So, and they, you
+
+1518
+01:36:30.220 --> 01:36:33.899
+know, af after you had all the famous um
+
+1519
+01:36:33.990 --> 01:36:39.399
+natural scientists um doing that section of dead bodies,
+
+1520
+01:36:39.410 --> 01:36:43.600
+then came along the ability to um do um
+
+1521
+01:36:43.979 --> 01:36:47.740
+uh lesion experiments on, you know, on animals, for
+
+1522
+01:36:47.750 --> 01:36:51.120
+example, on electrical stimulation experiments. So there's a lot
+
+1523
+01:36:51.129 --> 01:36:55.040
+of work in the 17th and 18th century um
+
+1524
+01:36:55.049 --> 01:37:00.529
+asking a really simple question is the brain plural
+
+1525
+01:37:00.609 --> 01:37:05.839
+potential in the sense that every capacity, perceptual or
+
+1526
+01:37:05.850 --> 01:37:13.040
+cognitive capacity that we enjoy involves or entails every
+
+1527
+01:37:13.049 --> 01:37:17.700
+neuron in a distributed fashion or are certain parts
+
+1528
+01:37:17.709 --> 01:37:22.500
+of the brain specialized for particular functions. So, you
+
+1529
+01:37:22.509 --> 01:37:25.060
+know, there were sort of uh and this, this
+
+1530
+01:37:25.069 --> 01:37:28.640
+debate raged even into the 20th century in terms
+
+1531
+01:37:28.649 --> 01:37:31.100
+of sort of lash's law of mass action, for
+
+1532
+01:37:31.109 --> 01:37:33.779
+example, you know, if I take a little mouse
+
+1533
+01:37:33.790 --> 01:37:38.040
+brain and I just scoop out a thumbnail or
+
+1534
+01:37:38.049 --> 01:37:40.600
+less, does it matter where I do it in
+
+1535
+01:37:40.609 --> 01:37:44.439
+terms of what function I have now compromised in
+
+1536
+01:37:44.450 --> 01:37:48.200
+this little animal. Um And one could argue no
+
+1537
+01:37:48.209 --> 01:37:51.700
+uh that, that it was a bad argument because
+
+1538
+01:37:51.709 --> 01:37:54.549
+it does matter. But yeah, that was, that was
+
+1539
+01:37:54.560 --> 01:37:57.950
+what people were trying to understand was there. And
+
+1540
+01:37:57.959 --> 01:38:03.000
+this uh you know, became known subsequently as um
+
+1541
+01:38:03.049 --> 01:38:06.979
+the principle of functional specialization or segregation that different
+
+1542
+01:38:06.990 --> 01:38:11.450
+parts of our brain are specialized for modeling different
+
+1543
+01:38:11.459 --> 01:38:14.560
+modalities in different parts of the world. Um AND
+
+1544
+01:38:14.569 --> 01:38:16.870
+different aspects of the world at different temporal scales,
+
+1545
+01:38:16.879 --> 01:38:20.180
+for example. So most of the uh the compelling
+
+1546
+01:38:20.189 --> 01:38:26.759
+work in terms of um lesioning studies, usually um
+
+1547
+01:38:26.779 --> 01:38:29.399
+use certainly with humans. The only lesions that you
+
+1548
+01:38:29.410 --> 01:38:33.879
+could use were those that were um occur naturally
+
+1549
+01:38:33.890 --> 01:38:38.689
+as in terms of strokes, for example, um or
+
+1550
+01:38:38.810 --> 01:38:43.520
+if you were um involved as you know, as
+
+1551
+01:38:43.529 --> 01:38:45.700
+a war medic, you, you had the opportunity to
+
+1552
+01:38:45.709 --> 01:38:48.689
+discover lesions caused by bullets, for example, in say
+
+1553
+01:38:48.700 --> 01:38:52.089
+World War One that became known as neuropsychology. So,
+
+1554
+01:38:52.100 --> 01:38:57.060
+neuropsychology just is uh understanding the deficits that follow
+
+1555
+01:38:57.069 --> 01:38:59.799
+from a lesion to the brain. Um YOU know,
+
+1556
+01:38:59.810 --> 01:39:02.379
+you can then say, well, if I've lost this
+
+1557
+01:39:02.390 --> 01:39:04.700
+function, I have this, you know, by appeal to
+
+1558
+01:39:04.709 --> 01:39:07.620
+this lesion deficit model, if I've lost this function
+
+1559
+01:39:07.950 --> 01:39:12.339
+when I've had a stroke here, whereas I've lost
+
+1560
+01:39:12.350 --> 01:39:14.049
+this function. When I've had a stroke here, you've
+
+1561
+01:39:14.060 --> 01:39:16.779
+got a double dissociation. That's one of the main
+
+1562
+01:39:16.790 --> 01:39:20.580
+workhorses of neuropsychology and that sort of means that
+
+1563
+01:39:20.589 --> 01:39:22.250
+that part of the brain might be specialized for
+
+1564
+01:39:22.259 --> 01:39:25.180
+this kind of function, whereas that might be specialized
+
+1565
+01:39:25.189 --> 01:39:28.080
+for another one. So you are starting to segregate
+
+1566
+01:39:28.089 --> 01:39:32.649
+the functional specialization anatomically. So it's also known as
+
+1567
+01:39:32.660 --> 01:39:37.899
+functional segregation. So functional segregation would be the anatomical
+
+1568
+01:39:37.910 --> 01:39:41.660
+segregation of functionally specialized brain areas. And we're talking
+
+1569
+01:39:41.669 --> 01:39:44.500
+about brain areas that at different scales cover the
+
+1570
+01:39:44.509 --> 01:39:48.430
+entire lobe load that say doing right down to
+
+1571
+01:39:48.439 --> 01:39:55.140
+little thumbnail sized patches of the brain, say B
+
+1572
+01:39:55.149 --> 01:39:58.930
+five also known in animal research as NT have
+
+1573
+01:39:58.959 --> 01:40:02.200
+been specialized for visual motion. So this was uh
+
+1574
+01:40:02.209 --> 01:40:06.939
+this was if you like um the, the whole
+
+1575
+01:40:06.950 --> 01:40:12.140
+set of um really important questions um pertaining to
+
+1576
+01:40:12.149 --> 01:40:16.580
+is the functional specialization is a functional segregation in
+
+1577
+01:40:16.589 --> 01:40:19.520
+the brain. We think there is because you look
+
+1578
+01:40:19.540 --> 01:40:24.459
+at all these beautiful neuropsychology experiments, all these very
+
+1579
+01:40:24.470 --> 01:40:29.979
+fine neur anatomy and tracing studies. Um EVERYTHING points
+
+1580
+01:40:29.990 --> 01:40:34.290
+to functional specialization, but no one knew, no one
+
+1581
+01:40:34.299 --> 01:40:39.089
+knew until brain imaging came along. It's strange. But
+
+1582
+01:40:39.100 --> 01:40:43.330
+before really before the sort of the late eighties,
+
+1583
+01:40:43.339 --> 01:40:46.990
+early nineties, this was just a hypothesis. It was
+
+1584
+01:40:47.000 --> 01:40:50.069
+only when you could actually measure the entire brain
+
+1585
+01:40:50.740 --> 01:40:54.720
+doing one thing that you could say yes, this
+
+1586
+01:40:54.729 --> 01:40:57.479
+part of the brain was involved in visual motion
+
+1587
+01:40:57.790 --> 01:41:01.290
+and it didn't activate anything else. And this part
+
+1588
+01:41:01.299 --> 01:41:04.560
+of the brain was involved in processing visual color
+
+1589
+01:41:05.129 --> 01:41:07.479
+and it's not the visual motion area and it
+
+1590
+01:41:07.490 --> 01:41:10.390
+didn't activate anything else? So it's only when you
+
+1591
+01:41:10.399 --> 01:41:14.140
+were able to do imaging proper by which I,
+
+1592
+01:41:14.330 --> 01:41:16.879
+I'm assuming that your question is about being able
+
+1593
+01:41:16.890 --> 01:41:20.529
+to form pictures of the entire brain natural. Yeah.
+
+1594
+01:41:20.729 --> 01:41:24.069
+Uh So at that point, all of these, um
+
+1595
+01:41:24.080 --> 01:41:28.490
+I mean, unsurprising but, but strictly speaking, all up
+
+1596
+01:41:28.500 --> 01:41:32.520
+until that, up until that time, functional specialization and
+
+1597
+01:41:32.529 --> 01:41:35.899
+segregation and all the theories about uh that intend
+
+1598
+01:41:35.910 --> 01:41:38.790
+in terms of uh functional brain architectures were just
+
+1599
+01:41:38.799 --> 01:41:42.189
+hypotheses. No one actually knew until you could actually
+
+1600
+01:41:42.200 --> 01:41:47.359
+measure the brain responding or executing a particular function
+
+1601
+01:41:47.370 --> 01:41:50.540
+or engage in a particular kind of perception. Uh
+
+1602
+01:41:50.759 --> 01:41:53.770
+um um Until you can actually see that and
+
+1603
+01:41:53.779 --> 01:41:59.189
+see the anatomical segregation in the images that we
+
+1604
+01:41:59.200 --> 01:42:02.569
+knew that was the case. And that having established
+
+1605
+01:42:03.319 --> 01:42:07.970
+the principle of functional specialization or segregation, the next
+
+1606
+01:42:07.979 --> 01:42:10.459
+stage was to turn to the second principle which
+
+1607
+01:42:10.470 --> 01:42:16.569
+was um which is in my word referred to
+
+1608
+01:42:16.580 --> 01:42:19.270
+as the principle of functional integration. So now you've
+
+1609
+01:42:19.279 --> 01:42:21.660
+got this notion, you've got lots of different sort
+
+1610
+01:42:21.669 --> 01:42:27.589
+of centers and anatomically segregated specialized processing brain regions.
+
+1611
+01:42:27.970 --> 01:42:29.680
+Now, you want to know how they talk to
+
+1612
+01:42:29.689 --> 01:42:33.890
+each other, how are the messages passed around? How
+
+1613
+01:42:33.899 --> 01:42:37.160
+does one system influence another or contextualize another? What
+
+1614
+01:42:37.169 --> 01:42:41.379
+is the nature of the distributed processing? And that
+
+1615
+01:42:41.390 --> 01:42:44.609
+really requires you to understand the connectivity. So we
+
+1616
+01:42:44.620 --> 01:42:47.060
+we're back now to the adjacent sea matrices and
+
+1617
+01:42:47.069 --> 01:42:49.839
+the collective and the causal influences of one region
+
+1618
+01:42:49.850 --> 01:42:53.660
+on another region that is going to recapitulate or
+
+1619
+01:42:53.669 --> 01:42:57.509
+install that causal architecture out there. You know that
+
+1620
+01:42:57.520 --> 01:43:00.609
+it matters. You know, when you're speaking that I
+
+1621
+01:43:00.620 --> 01:43:02.930
+can either infer what you are saying through the
+
+1622
+01:43:02.939 --> 01:43:05.819
+movement of your lips, through the visual modality or
+
+1623
+01:43:05.830 --> 01:43:08.439
+through my ears. In terms of the sound waves
+
+1624
+01:43:08.450 --> 01:43:11.660
+that you you produce, there is a common cause
+
+1625
+01:43:11.669 --> 01:43:13.359
+and therefore there has to be part of the
+
+1626
+01:43:13.370 --> 01:43:16.919
+brain in which there is audio visual integration is
+
+1627
+01:43:16.930 --> 01:43:25.120
+mechanistically evinced through connections between or through convergence into
+
+1628
+01:43:25.129 --> 01:43:29.279
+these a modal domain general readers through these hierarchical
+
+1629
+01:43:29.290 --> 01:43:33.520
+structures. So this then became the focus of um
+
+1630
+01:43:33.529 --> 01:43:36.959
+decades of research ongoing uh in brain imaging to
+
+1631
+01:43:36.970 --> 01:43:39.549
+understand the connectivity and the uh and how the
+
+1632
+01:43:39.560 --> 01:43:45.890
+connections um underwrite patterns of activation and systems uh
+
+1633
+01:43:45.930 --> 01:43:52.899
+you know a different scales so that um understanding
+
+1634
+01:43:52.910 --> 01:43:56.259
+the integration of these functionally specialized regions was very
+
+1635
+01:43:56.270 --> 01:44:00.129
+important for me. Um And many people like me.
+
+1636
+01:44:00.240 --> 01:44:05.810
+Um ONE important aspect of functional integration in the
+
+1637
+01:44:05.819 --> 01:44:09.290
+brain was this hierarchical structure. So the very first
+
+1638
+01:44:09.299 --> 01:44:14.720
+paper in cerebral cortex and the first issue was
+
+1639
+01:44:14.729 --> 01:44:18.439
+a very famous Fellow of Vanessen paper just looking
+
+1640
+01:44:18.450 --> 01:44:23.770
+at the connectivity studies usually in primates of post
+
+1641
+01:44:23.819 --> 01:44:27.649
+mortem studies, looking at great detail about the nature
+
+1642
+01:44:27.660 --> 01:44:29.990
+and the lambda specificity of different connections. And they
+
+1643
+01:44:30.000 --> 01:44:32.689
+came up with a wiring diagram that was the
+
+1644
+01:44:32.700 --> 01:44:35.689
+visual hierarchy. And a lot of work since that
+
+1645
+01:44:35.700 --> 01:44:39.700
+time has now been trying to understand the hierarchical
+
+1646
+01:44:39.709 --> 01:44:44.229
+relationship in terms established by the connections by using
+
+1647
+01:44:44.240 --> 01:44:47.100
+brain imaging to measure not just which brain areas
+
+1648
+01:44:47.109 --> 01:44:50.990
+are activated, but can you infer the influence that
+
+1649
+01:44:51.000 --> 01:44:53.169
+this brain area has on this brain area?
+
+1650
+01:44:53.910 --> 01:44:57.330
+Right. And so uh we've been talking a lot
+
+1651
+01:44:57.339 --> 01:45:01.319
+about brain imaging, but are there ways by which
+
+1652
+01:45:01.330 --> 01:45:06.310
+we can integrate the more coarse grained approaches to
+
+1653
+01:45:06.319 --> 01:45:09.060
+the brain with the more fine grained approaches? And
+
+1654
+01:45:09.069 --> 01:45:15.319
+for example, integrates the smaller sort of microscopic aspects
+
+1655
+01:45:15.330 --> 01:45:20.680
+of brain physiology with the more abstract understanding of
+
+1656
+01:45:20.689 --> 01:45:24.149
+the mind, like what we have in psychiatry or
+
+1657
+01:45:24.160 --> 01:45:24.950
+psychology.
+
+1658
+01:45:25.830 --> 01:45:30.779
+Yeah. No, that's an excellent question. Um um And
+
+1659
+01:45:30.790 --> 01:45:33.870
+in essence, yes, you know, there is, you know
+
+1660
+01:45:33.879 --> 01:45:36.729
+that that would be the holy grail of um
+
+1661
+01:45:37.169 --> 01:45:41.600
+um um certainly translational neuroscience in the context of
+
+1662
+01:45:41.609 --> 01:45:45.799
+translating into a clinical context, neurology or or psychiatry
+
+1663
+01:45:45.919 --> 01:45:49.240
+to do that usefully as you intimate, you really
+
+1664
+01:45:49.250 --> 01:45:52.879
+need to link the scales. So sometimes um um
+
+1665
+01:45:53.000 --> 01:45:57.169
+framed in terms of from um from molecules to
+
+1666
+01:45:57.180 --> 01:46:02.069
+behavior. Uh I like from sin, the sentience. Um
+
+1667
+01:46:02.220 --> 01:46:05.399
+So how, how do you bridge that gap? Um
+
+1668
+01:46:05.640 --> 01:46:08.250
+I if you want, if you want my honest
+
+1669
+01:46:08.259 --> 01:46:10.700
+and personal answer, you, you, you need to have
+
+1670
+01:46:10.709 --> 01:46:13.009
+a generative model of the brain. So we've been
+
+1671
+01:46:13.020 --> 01:46:16.080
+talking about the brain as a generative model but
+
+1672
+01:46:16.089 --> 01:46:18.549
+a lot of the maths um behind the the
+
+1673
+01:46:18.680 --> 01:46:22.370
+energy principle that kind that, that description of self
+
+1674
+01:46:22.399 --> 01:46:27.759
+organizing self-organization in the brain inherited from the problem
+
+1675
+01:46:27.770 --> 01:46:32.080
+of actually analyzing brain imaging data and integrating data
+
+1676
+01:46:32.089 --> 01:46:36.430
+at different scales and different modalities. And the secret
+
+1677
+01:46:36.439 --> 01:46:40.279
+behind it is to have a model of how
+
+1678
+01:46:40.290 --> 01:46:43.470
+you think the brain works that can generate predictions
+
+1679
+01:46:43.479 --> 01:46:45.509
+of the data that you would get if you
+
+1680
+01:46:45.520 --> 01:46:48.240
+measured it at this scale versus that scale. So
+
+1681
+01:46:48.250 --> 01:46:51.620
+what normally happens is that people um specialize in
+
+1682
+01:46:51.629 --> 01:46:53.580
+a particular scale. So you can be a molecular
+
+1683
+01:46:53.589 --> 01:46:59.379
+biologist and work with um um um all the
+
+1684
+01:46:59.390 --> 01:47:04.339
+the the delicate and, and sometimes overwhelming plurality of
+
+1685
+01:47:04.350 --> 01:47:08.169
+um of, of different in intercellular mechanisms and biochemical
+
+1686
+01:47:08.180 --> 01:47:11.069
+pathways and or even the genetics and genomics and
+
+1687
+01:47:11.080 --> 01:47:14.104
+all this. Uh SO the whole universe just looking
+
+1688
+01:47:14.115 --> 01:47:18.234
+at not just one cell but even mitochondria within
+
+1689
+01:47:18.245 --> 01:47:20.584
+one cell. You know, there are people who know
+
+1690
+01:47:20.595 --> 01:47:24.095
+more than I could possibly know about the entire
+
+1691
+01:47:24.104 --> 01:47:27.745
+brain, you know, just about the dynamics and the
+
+1692
+01:47:27.754 --> 01:47:31.654
+structure of organelles and, and things like, you know,
+
+1693
+01:47:31.665 --> 01:47:34.924
+I repeat mitochondria in the cell right through to
+
+1694
+01:47:35.084 --> 01:47:38.680
+eho you know, who just look at um uh
+
+1695
+01:47:38.729 --> 01:47:42.529
+stigma, look, look at ant colonies, for example, uh
+
+1696
+01:47:42.549 --> 01:47:46.930
+sort of multiple individuals or psychologists uh um of
+
+1697
+01:47:46.939 --> 01:47:48.709
+a certain b who are, you know, interested in
+
+1698
+01:47:48.720 --> 01:47:52.859
+the social neuroscience. Um So all of these people
+
+1699
+01:47:52.870 --> 01:47:55.200
+work at different scale, but in principle, you should
+
+1700
+01:47:55.209 --> 01:47:58.120
+be able to link the scales. Um And that
+
+1701
+01:47:58.129 --> 01:48:01.720
+means you have to have um you have to
+
+1702
+01:48:01.729 --> 01:48:05.229
+have again, another instance of this sort of hierarchical
+
+1703
+01:48:05.240 --> 01:48:08.359
+scale free modeling, which means you need to have
+
+1704
+01:48:08.370 --> 01:48:12.189
+the right principles. So, you know, just to come
+
+1705
+01:48:12.200 --> 01:48:15.509
+back to where we started, you know, the rates
+
+1706
+01:48:15.520 --> 01:48:17.930
+on debt for the free principles to identify these
+
+1707
+01:48:17.939 --> 01:48:20.779
+scale free principles that you should find operating at
+
+1708
+01:48:20.790 --> 01:48:22.970
+every level so that you can start to link
+
+1709
+01:48:22.979 --> 01:48:26.879
+the levels. So just experimentally, what one is looking
+
+1710
+01:48:26.890 --> 01:48:31.040
+for is at a very, very fine scale to
+
+1711
+01:48:31.049 --> 01:48:36.950
+try and estimate certain dynamics rate constants connectivity structures.
+
+1712
+01:48:37.240 --> 01:48:41.979
+Um IN a way that allows you now to
+
+1713
+01:48:41.990 --> 01:48:48.759
+constrain um estimates um in more elaborate higher scale
+
+1714
+01:48:48.770 --> 01:48:51.640
+models of what's going on. Uh So just to
+
+1715
+01:48:51.649 --> 01:48:56.700
+give you a concrete example, say take psychiatry um
+
+1716
+01:48:57.020 --> 01:49:03.979
+and you're uh predicating your understanding of psychiatry, say
+
+1717
+01:49:03.990 --> 01:49:10.140
+psychosis in terms of a predisposition to hallucinations. And
+
+1718
+01:49:10.149 --> 01:49:14.870
+you can start to look for models psychological models
+
+1719
+01:49:14.879 --> 01:49:18.100
+of hallucinations and do brain scanning when people are
+
+1720
+01:49:18.109 --> 01:49:22.640
+hallucinating versus not hallucinating at a very large scale
+
+1721
+01:49:22.649 --> 01:49:27.279
+level. And then start to say does this kind
+
+1722
+01:49:27.290 --> 01:49:32.509
+of paradigm and the emergent brain activations and effective
+
+1723
+01:49:32.520 --> 01:49:39.520
+connectivity um um matter in terms of uh identifying
+
+1724
+01:49:39.529 --> 01:49:42.569
+people with and without say schizophrenia or some kind
+
+1725
+01:49:42.580 --> 01:49:47.490
+of volcanic psycho syndrome or um um uh snap.
+
+1726
+01:49:48.660 --> 01:49:49.220
+Um
+
+1727
+01:49:50.020 --> 01:49:52.549
+WHAT do you sign up top? Sorry,
+
+1728
+01:49:53.009 --> 01:49:58.669
+a pathology of synapses? So, um um so the
+
+1729
+01:49:58.680 --> 01:50:01.430
+connection, the connectivity we've been talking about is uh
+
+1730
+01:50:01.439 --> 01:50:09.430
+connections between nerve cells or neurons. Those connections come
+
+1731
+01:50:09.439 --> 01:50:11.649
+in many different flavors. And how people argue that,
+
+1732
+01:50:11.660 --> 01:50:14.680
+you know, they are also um non neuron cells
+
+1733
+01:50:14.689 --> 01:50:17.970
+are important in in in message passing and self-organization.
+
+1734
+01:50:18.080 --> 01:50:22.649
+But the primary way in which one nerve cell
+
+1735
+01:50:22.660 --> 01:50:26.950
+or population of nerve cells, neurons talk to another
+
+1736
+01:50:26.959 --> 01:50:31.370
+uh population is through this, these axons, the wires
+
+1737
+01:50:31.850 --> 01:50:38.109
+and these wires basically um impinge upon receptors, dendritic
+
+1738
+01:50:38.120 --> 01:50:43.370
+trees uh of the of the recipient neuron. And
+
+1739
+01:50:43.379 --> 01:50:46.669
+the actual connection is very much like a little
+
+1740
+01:50:46.680 --> 01:50:49.830
+plug and socket. It's called a synapse. So, so
+
+1741
+01:50:49.839 --> 01:50:53.029
+this is a very, very small um um uh
+
+1742
+01:50:53.319 --> 01:50:57.979
+plug and socket um that has an amazing physiology
+
+1743
+01:50:57.990 --> 01:51:00.430
+and, and it can, it can be tuned much
+
+1744
+01:51:00.439 --> 01:51:04.549
+like a transistor or, or uh you know, modern
+
+1745
+01:51:04.569 --> 01:51:08.839
+day implementations of chips and but much more complicated
+
+1746
+01:51:08.959 --> 01:51:13.640
+than you'll find in the computer. Um So that's
+
+1747
+01:51:13.649 --> 01:51:19.279
+the synapse, a pathology of synaptic communications transmission. Um
+
+1748
+01:51:19.609 --> 01:51:34.279
+um IS a synaptophysin transmission. It is the understanding
+
+1749
+01:51:34.290 --> 01:51:37.080
+of the biochemistry, the Nero and the genomics and
+
+1750
+01:51:37.089 --> 01:51:41.160
+the physiology of how one neuron nerve cell talks
+
+1751
+01:51:41.169 --> 01:51:44.080
+to another through these synapses and it can go
+
+1752
+01:51:44.089 --> 01:51:52.040
+wrong in all sorts of ways. So, synaptophysin communication,
+
+1753
+01:51:52.049 --> 01:51:54.770
+if you are machine learning, it would be basically
+
+1754
+01:51:54.810 --> 01:51:59.009
+breaking the connection weights. Um There are lots and
+
+1755
+01:51:59.020 --> 01:52:00.729
+lots of different ways in which it can be
+
+1756
+01:52:00.740 --> 01:52:05.810
+changed. Um USUALLY associated with neurodegenerative conditions. But also
+
+1757
+01:52:05.819 --> 01:52:10.930
+you can generalize the notion that because this synaptic
+
+1758
+01:52:10.939 --> 01:52:17.770
+communication involves, involves neurotransmitters and the neurotransmitters cause their
+
+1759
+01:52:17.779 --> 01:52:22.430
+effects in the post synaptic cell by latching onto
+
+1760
+01:52:22.439 --> 01:52:26.790
+receptors. Those receptors are the targets of drugs. So
+
+1761
+01:52:26.799 --> 01:52:29.089
+nearly all the fact that all the drugs that
+
+1762
+01:52:29.100 --> 01:52:32.500
+we use. Nearly all the drugs that we use
+
+1763
+01:52:32.509 --> 01:52:38.830
+in neurology and psychiatry are those drugs that affect
+
+1764
+01:52:38.839 --> 01:52:43.910
+synaptic transmission. Interestingly not to usually directly cause a
+
+1765
+01:52:43.919 --> 01:52:49.149
+response but to attenuate or augment the impact of
+
+1766
+01:52:49.160 --> 01:52:52.950
+an existing input. So it's like switching again on
+
+1767
+01:52:52.959 --> 01:52:55.310
+the synaptic connections much in the way that we
+
+1768
+01:52:55.319 --> 01:53:02.910
+could imagine increasing the gain on connectivity in the
+
+1769
+01:53:02.919 --> 01:53:06.770
+brain by deploying attention attending over here. As opposed
+
+1770
+01:53:06.779 --> 01:53:10.680
+to over there means that I can use certain
+
+1771
+01:53:10.689 --> 01:53:16.819
+mechanisms, usually neuromodulatory mechanisms to modulate the gain of
+
+1772
+01:53:16.830 --> 01:53:21.299
+the synaptic transmission, sometimes known as post synaptic gain
+
+1773
+01:53:21.310 --> 01:53:25.120
+or sensitivity. Um So, you know, if that those
+
+1774
+01:53:25.129 --> 01:53:28.319
+systems go wrong, then you've got now um a
+
+1775
+01:53:28.330 --> 01:53:31.790
+very small scale and you understand the mechanics because
+
+1776
+01:53:31.799 --> 01:53:34.850
+you've done all the um the neuropharmacology and the
+
+1777
+01:53:34.859 --> 01:53:39.325
+molecular biology. Um um I studied these cells in
+
+1778
+01:53:39.334 --> 01:53:43.924
+context in microcircuits. If you understand that you've now
+
+1779
+01:53:43.935 --> 01:53:50.285
+got a link between the the macro scale belief,
+
+1780
+01:53:50.294 --> 01:53:55.000
+updating that underlies a hallucination and what could possibly
+
+1781
+01:53:55.009 --> 01:54:00.120
+cause the difference in the propensity for illusory or
+
+1782
+01:54:00.129 --> 01:54:03.479
+hallucinatory perception in this group of people versus that
+
+1783
+01:54:03.490 --> 01:54:06.629
+group of people predicated on an understanding of the
+
+1784
+01:54:06.899 --> 01:54:10.720
+mear biology or the drug status of these people
+
+1785
+01:54:10.729 --> 01:54:14.779
+because he started to understand the biophysics of the
+
+1786
+01:54:14.790 --> 01:54:19.009
+message passing that ultimately, that just is the neural
+
+1787
+01:54:19.080 --> 01:54:23.620
+dynamics of the internal states. But because you've now
+
+1788
+01:54:23.629 --> 01:54:29.450
+got a principled account of how the internal dynamics
+
+1789
+01:54:29.609 --> 01:54:33.180
+can manifest in terms of perception. You've now got
+
+1790
+01:54:33.189 --> 01:54:37.120
+an explanation at the level of perception and hallucinations
+
+1791
+01:54:37.259 --> 01:54:40.910
+and belief, updating, and failures of belief, updating like
+
+1792
+01:54:40.919 --> 01:54:44.020
+delusions. Or in fact, if you think about it,
+
+1793
+01:54:44.029 --> 01:54:49.370
+nearly every psychiatric syndrome can be thought of as
+
+1794
+01:54:49.379 --> 01:54:53.750
+some kind of false inference whether it's anorexia, nervosa
+
+1795
+01:54:54.620 --> 01:54:57.910
+and I have I falsely infer that I am
+
+1796
+01:54:57.919 --> 01:55:01.109
+much fatter than I am. So I just morph
+
+1797
+01:55:01.129 --> 01:55:03.950
+a phobia. So it's quite natural. If I, if
+
+1798
+01:55:03.959 --> 01:55:08.109
+I infer and believe that I'm grossly obese, then
+
+1799
+01:55:08.120 --> 01:55:10.589
+it's quite understandable. I'm going to be very resistant
+
+1800
+01:55:10.600 --> 01:55:16.810
+to overeating um through to um you know, um
+
+1801
+01:55:16.819 --> 01:55:19.939
+delusional systems of paranoia. For example, if I, you
+
+1802
+01:55:19.950 --> 01:55:24.250
+know, falsely infer that you have some antagonistic view
+
+1803
+01:55:24.259 --> 01:55:26.750
+or I falsely infer that the TV presenter is
+
+1804
+01:55:26.759 --> 01:55:29.319
+actually talking to me personally, you know, of, you
+
+1805
+01:55:29.330 --> 01:55:31.890
+know, a failure of attribution of uh a failure
+
+1806
+01:55:31.899 --> 01:55:35.370
+of attribution of kind of false inference right through
+
+1807
+01:55:35.379 --> 01:55:40.580
+to um you know, um the kind of the,
+
+1808
+01:55:40.589 --> 01:55:44.220
+you know, the influences that need new learning for
+
+1809
+01:55:44.330 --> 01:55:46.430
+if I, if we lose a loved one in
+
+1810
+01:55:46.439 --> 01:55:48.569
+our lives, you know, the grief reaction requires a
+
+1811
+01:55:48.580 --> 01:55:52.419
+lot of new learning, which um you know, um
+
+1812
+01:55:52.430 --> 01:55:55.279
+means that for a certain amount of time, um
+
+1813
+01:55:55.290 --> 01:55:57.850
+you will be making false influence, I expect, you
+
+1814
+01:55:57.859 --> 01:55:59.720
+know, my daily life to be like this and
+
+1815
+01:55:59.729 --> 01:56:01.729
+the loved one is not there. You know, you
+
+1816
+01:56:01.740 --> 01:56:04.950
+have to completely relearn a new world model or
+
+1817
+01:56:04.959 --> 01:56:07.430
+a new challenge of model where that person is
+
+1818
+01:56:07.439 --> 01:56:10.439
+no longer there that can be very painful. Um
+
+1819
+01:56:10.450 --> 01:56:13.140
+AND involve lots of mistakes and high free energy
+
+1820
+01:56:13.149 --> 01:56:16.169
+which you try to repair by, by learning a
+
+1821
+01:56:16.180 --> 01:56:18.810
+new way. I think, slowly coming to terms with
+
+1822
+01:56:18.819 --> 01:56:20.839
+what with what has happened.
+
+1823
+01:56:21.450 --> 01:56:24.750
+Could that also apply to depression? And in this
+
+1824
+01:56:24.759 --> 01:56:27.859
+case, depression, what would it be like? Would it
+
+1825
+01:56:27.870 --> 01:56:33.890
+be sort of having pessimistic generative models of the
+
+1826
+01:56:33.899 --> 01:56:35.799
+world or something like that?
+
+1827
+01:56:36.669 --> 01:56:40.410
+Yeah, there are lots of interesting counts of depression
+
+1828
+01:56:41.180 --> 01:56:43.709
+under the free energy principle, more particularly sort of
+
+1829
+01:56:43.720 --> 01:56:48.529
+active influence focusing on different aspect of it. You
+
+1830
+01:56:48.589 --> 01:56:52.700
+know, there is an argument that depression is not
+
+1831
+01:56:52.709 --> 01:56:55.250
+false inference in the sense that it is actually
+
+1832
+01:56:55.270 --> 01:56:59.029
+veridical and the very fact that we have depression
+
+1833
+01:56:59.040 --> 01:57:02.799
+after millennia of natural selection means that there must
+
+1834
+01:57:02.810 --> 01:57:05.470
+be something good about, about the ability to be
+
+1835
+01:57:05.479 --> 01:57:08.410
+depressed. Um And of course, you know, if you
+
+1836
+01:57:08.419 --> 01:57:12.919
+read depression in a very simple way as avoidance
+
+1837
+01:57:12.930 --> 01:57:18.669
+behavior that restricts that precludes um putting yourself in
+
+1838
+01:57:18.680 --> 01:57:22.089
+situations where you will be surprised or hurt or
+
+1839
+01:57:22.100 --> 01:57:26.120
+damaged or embarrassed or upset, um in some way,
+
+1840
+01:57:26.390 --> 01:57:29.970
+um then it can be very protective. Um So
+
+1841
+01:57:29.979 --> 01:57:33.450
+it's quite good to be de depressed and withdrawn
+
+1842
+01:57:33.459 --> 01:57:37.350
+in situations where if you didn't withdraw from this
+
+1843
+01:57:37.359 --> 01:57:42.810
+different if you didn't preclude or um um preclude
+
+1844
+01:57:42.819 --> 01:57:45.390
+that interaction, you could actually end up being more
+
+1845
+01:57:45.399 --> 01:57:50.959
+surprised and, and, and um agitated or upset than
+
+1846
+01:57:50.970 --> 01:57:54.680
+if you did the problem with depression. Um IS
+
+1847
+01:57:54.689 --> 01:58:00.569
+when you, when that base optimal um response, active
+
+1848
+01:58:00.580 --> 01:58:08.589
+inference response, um um outlives the circumstances that caused
+
+1849
+01:58:08.600 --> 01:58:11.700
+it. So say I have a bad experience, but,
+
+1850
+01:58:11.709 --> 01:58:14.540
+you know, you can see how the argument could
+
+1851
+01:58:14.549 --> 01:58:17.680
+be extended to all sorts of phobias and obsession
+
+1852
+01:58:17.689 --> 01:58:20.560
+compulsive disorder. But let's just simplicity, say I have
+
+1853
+01:58:20.569 --> 01:58:23.669
+a very bad experience. That means that if I
+
+1854
+01:58:23.720 --> 01:58:26.790
+leave my house, I am going to be very
+
+1855
+01:58:26.799 --> 01:58:30.689
+surprised. I, I um by something awful happening, whether
+
+1856
+01:58:30.700 --> 01:58:34.770
+it's a social, uh socially awful thing or emotionally
+
+1857
+01:58:34.779 --> 01:58:38.189
+aw awful thing or physically awful thing. Um, YOU
+
+1858
+01:58:38.200 --> 01:58:40.290
+know, I'm going to be in excruciating pain or,
+
+1859
+01:58:40.459 --> 01:58:44.479
+um, or feel terrified, uh have a panic attack
+
+1860
+01:58:44.490 --> 01:58:47.450
+if I leave the house. Um This will happen
+
+1861
+01:58:47.459 --> 01:58:50.569
+to me because it happened to me once. Therefore,
+
+1862
+01:58:50.580 --> 01:58:52.770
+this is the kind of thing I don't do
+
+1863
+01:58:52.779 --> 01:58:55.060
+because I don't have panic attacks. And I don't,
+
+1864
+01:58:55.069 --> 01:58:57.750
+you know, I don't, uh um I don't get
+
+1865
+01:58:57.759 --> 01:59:01.089
+upset by uh by, by other people. Um You
+
+1866
+01:59:01.100 --> 01:59:03.500
+know, I have um I have this kind of
+
+1867
+01:59:03.509 --> 01:59:06.209
+self model, therefore, it's highly unlikely that something like
+
+1868
+01:59:06.220 --> 01:59:08.509
+me will leave the house. So I end up
+
+1869
+01:59:08.520 --> 01:59:12.950
+socially withdrawn. Uh I avoid social media, for example,
+
+1870
+01:59:12.959 --> 01:59:19.000
+you know, um and that can be very functional
+
+1871
+01:59:19.009 --> 01:59:22.450
+if you have, if it's actually quite dangerous out
+
+1872
+01:59:22.459 --> 01:59:26.270
+there, but now say the world changes and all
+
+1873
+01:59:26.279 --> 01:59:29.250
+your friends are missing you and they don't know
+
+1874
+01:59:29.259 --> 01:59:32.359
+where you are, but you don't have the opportunity
+
+1875
+01:59:32.370 --> 01:59:34.790
+to revise your prior beliefs that if I go
+
+1876
+01:59:34.799 --> 01:59:38.950
+outside, I'm going to get hurt simply because your
+
+1877
+01:59:38.959 --> 01:59:43.720
+behavior has prevented you from self evidencing from gathering
+
+1878
+01:59:43.729 --> 01:59:47.720
+evidence to revise your self model or your model
+
+1879
+01:59:47.729 --> 01:59:50.330
+of the consequences of your behavior. So there are
+
+1880
+01:59:50.339 --> 01:59:56.939
+some certain pernicious responses, active um inference that mean
+
+1881
+01:59:56.950 --> 01:59:59.720
+you can never get out of that behavior because
+
+1882
+01:59:59.729 --> 02:00:04.819
+you're not exploring, you're not always seeking evidence for
+
+1883
+02:00:04.830 --> 02:00:08.629
+this way of being and that way of being.
+
+1884
+02:00:08.839 --> 02:00:11.700
+So this is sometimes framed in terms of literally
+
+1885
+02:00:11.709 --> 02:00:14.240
+getting stuck in a rut because you can't get
+
+1886
+02:00:14.250 --> 02:00:15.979
+out of the rut, you can't get out of
+
+1887
+02:00:15.990 --> 02:00:18.839
+the valley because you've got no evidence that's going
+
+1888
+02:00:18.850 --> 02:00:21.470
+to cause prediction errors to drive you to change
+
+1889
+02:00:21.479 --> 02:00:25.129
+your mind. So what you need to do in
+
+1890
+02:00:25.140 --> 02:00:29.490
+these situations such as depression is to basically um
+
+1891
+02:00:29.669 --> 02:00:32.850
+make the sides of the valley shallower to allow
+
+1892
+02:00:32.859 --> 02:00:35.709
+people to escape again and to, to, to allow
+
+1893
+02:00:35.720 --> 02:00:39.009
+the prediction errors to uh you know, drive to,
+
+1894
+02:00:39.020 --> 02:00:44.350
+to seek out information um to um um resolve
+
+1895
+02:00:44.359 --> 02:00:48.660
+uncertainty to where uncertainty is expected, surprise and expected
+
+1896
+02:00:48.669 --> 02:00:51.660
+free energy. And to do that, you can do,
+
+1897
+02:00:51.669 --> 02:00:52.919
+you can do it in one of two ways.
+
+1898
+02:00:52.930 --> 02:00:57.220
+You can either create an environment where the patient
+
+1899
+02:00:57.359 --> 02:01:01.180
+feels safe so that they can explore different ways
+
+1900
+02:01:01.189 --> 02:01:03.569
+of interacting and you'd be thinking about. So di
+
+1901
+02:01:04.500 --> 02:01:09.310
+um um either cognitive behavioral therapy or, or psychotherapy,
+
+1902
+02:01:09.319 --> 02:01:14.509
+talking therapy and psychoanalysis um with uh or you
+
+1903
+02:01:14.520 --> 02:01:16.339
+can think about doing it chemically if you understand
+
+1904
+02:01:16.350 --> 02:01:21.709
+the men, if you understand um how we encode
+
+1905
+02:01:21.779 --> 02:01:25.330
+the precision, the conviction, the depth of our, you
+
+1906
+02:01:25.339 --> 02:01:27.470
+know, I'm stuck in this flat and I've got
+
+1907
+02:01:27.479 --> 02:01:29.830
+no latitude to move. So you've got very, very
+
+1908
+02:01:29.839 --> 02:01:33.149
+precise beliefs that are holding you in place. Do
+
+1909
+02:01:33.160 --> 02:01:39.799
+you understand what neurochemically and biophysical is representing that
+
+1910
+02:01:39.810 --> 02:01:43.500
+particular belief? Which is, this is about the, about
+
+1911
+02:01:43.509 --> 02:01:46.770
+the precision of your conviction that this is the
+
+1912
+02:01:46.779 --> 02:01:49.729
+way I behave. And then you can actually give
+
+1913
+02:01:49.740 --> 02:01:52.720
+drugs to try and relax that to try and
+
+1914
+02:01:52.729 --> 02:01:55.910
+uh um relax the constraints. So people can start
+
+1915
+02:01:55.919 --> 02:01:58.790
+to explore other ways. Uh You know, so you
+
+1916
+02:01:58.799 --> 02:02:02.779
+can understand a lot of uh pharmacotherapy uh in
+
+1917
+02:02:02.790 --> 02:02:09.560
+terms of the uh uh retuning um the encoding
+
+1918
+02:02:09.569 --> 02:02:13.669
+of uncertainty or precision, which is if you remember
+
+1919
+02:02:13.890 --> 02:02:17.129
+that sort of slow but not very fast sort
+
+1920
+02:02:17.140 --> 02:02:21.250
+of thing between inference and learning. So this is
+
+1921
+02:02:21.259 --> 02:02:24.109
+the contextual inference. This is the attention, this is
+
+1922
+02:02:24.120 --> 02:02:27.000
+the, you know, the way that we encode uncertainty
+
+1923
+02:02:27.009 --> 02:02:32.120
+in the brain. Um And if, if surprise expected,
+
+1924
+02:02:32.129 --> 02:02:36.790
+surprise is uncertainty, which it is self information is
+
+1925
+02:02:36.799 --> 02:02:42.270
+expected. Self information, average self information is entropy. Um
+
+1926
+02:02:42.279 --> 02:02:47.169
+PUT in layman's language or the vernacular would basically
+
+1927
+02:02:47.259 --> 02:02:50.830
+the surprise I expect is uh uh is uncertainty
+
+1928
+02:02:50.839 --> 02:02:52.979
+then I'm in the, you know, I am always
+
+1929
+02:02:52.990 --> 02:02:55.459
+in the game of reducing uncertainty under the free
+
+1930
+02:02:55.470 --> 02:03:00.660
+energy principle, reducing expected surprise. But to do that,
+
+1931
+02:03:00.669 --> 02:03:05.240
+I've also got to recognize my level of uncertainty,
+
+1932
+02:03:05.250 --> 02:03:09.189
+my level of surprise or average surprise, which brings
+
+1933
+02:03:09.200 --> 02:03:12.700
+us back to this sort of crucial um um
+
+1934
+02:03:12.709 --> 02:03:17.779
+ability to recognize the context in terms of how
+
+1935
+02:03:17.790 --> 02:03:21.970
+confident I am in my beliefs. And that relates
+
+1936
+02:03:22.000 --> 02:03:26.779
+to microscopic on the molecular level, to synaptic fish
+
+1937
+02:03:26.879 --> 02:03:29.299
+p the same post synaptic gain and all the
+
+1938
+02:03:29.310 --> 02:03:31.270
+neuromodulation that we've been talking about.
+
+1939
+02:03:32.529 --> 02:03:36.629
+Mhm So, Doctor Frieden, I would really love to
+
+1940
+02:03:36.640 --> 02:03:40.209
+get into other topics like for example, the application
+
+1941
+02:03:40.220 --> 02:03:44.990
+of active influence to explaining or understanding certain social
+
+1942
+02:03:45.000 --> 02:03:48.529
+phenomena like social conformity. And then I would like
+
+1943
+02:03:48.540 --> 02:03:51.589
+to ask you about culture, but I, I'm just
+
+1944
+02:03:51.600 --> 02:03:54.259
+seeing that we've already done two hours. So do
+
+1945
+02:03:54.270 --> 02:03:56.879
+you think it would be better for us to
+
+1946
+02:03:57.149 --> 02:03:59.950
+uh do it? Uh Again, another time,
+
+1947
+02:04:01.069 --> 02:04:03.060
+I would be very happy to come back and
+
+1948
+02:04:03.069 --> 02:04:06.740
+do all those, we have to come back a
+
+1949
+02:04:06.750 --> 02:04:09.040
+few times to do to do all that.
+
+1950
+02:04:09.959 --> 02:04:12.649
+Yeah, because if we get, if we get into
+
+1951
+02:04:12.660 --> 02:04:17.040
+the topic of social expectations, culture and all of
+
+1952
+02:04:17.049 --> 02:04:19.990
+that, we will be here for another two hours.
+
+1953
+02:04:20.000 --> 02:04:23.879
+Probably. Yes, if not longer. Now, I I now
+
+1954
+02:04:23.890 --> 02:04:26.120
+I now need to go neuromodulation and have a
+
+1955
+02:04:26.129 --> 02:04:28.319
+nice cigarette and a cup of coffee to think
+
+1956
+02:04:28.330 --> 02:04:30.089
+about what we've been talking about.
+
+1957
+02:04:31.319 --> 02:04:35.830
+Great. So, just before we finish this interview, are
+
+1958
+02:04:35.839 --> 02:04:39.220
+there any places on the internet where people can
+
+1959
+02:04:39.229 --> 02:04:40.540
+find your work?
+
+1960
+02:04:41.629 --> 02:04:45.450
+Uh Yes, there are. Uh I mean, it's not
+
+1961
+02:04:45.459 --> 02:04:47.870
+really my work. I mean, the, the active influence
+
+1962
+02:04:47.879 --> 02:04:52.069
+is now, you know, growing well beyond, um, even
+
+1963
+02:04:52.080 --> 02:04:54.899
+that, which I know about. Um, SO there, there's
+
+1964
+02:04:54.910 --> 02:04:57.149
+a, a large literature in all of the fields
+
+1965
+02:04:57.160 --> 02:04:59.200
+that we've, we've spoke about. So I think you
+
+1966
+02:04:59.209 --> 02:05:02.600
+just, you know, Google, active infants and um but
+
+1967
+02:05:02.609 --> 02:05:06.129
+specifically that there um there's something called the Active
+
+1968
+02:05:06.140 --> 02:05:11.729
+Inference Institute. Um The um um and it's based
+
+1969
+02:05:11.740 --> 02:05:14.589
+in California and it's, it, it, it, it provides
+
+1970
+02:05:14.600 --> 02:05:17.919
+an excellent resource of teaching materials and possible live
+
+1971
+02:05:17.930 --> 02:05:20.779
+streams and mentorship uh for people who are interested
+
+1972
+02:05:20.790 --> 02:05:23.330
+in sharing ideas or just learning about how, you
+
+1973
+02:05:23.339 --> 02:05:27.279
+know, um um active influence in its various um
+
+1974
+02:05:27.620 --> 02:05:32.819
+various fields of application. There's also international workshops where
+
+1975
+02:05:32.830 --> 02:05:36.000
+the community gets together and um tells each other,
+
+1976
+02:05:36.009 --> 02:05:38.439
+tell each other what what's happening and what's exciting
+
+1977
+02:05:38.450 --> 02:05:42.839
+in the field. Uh So uh active Inference Institute,
+
+1978
+02:05:42.850 --> 02:05:45.140
+but otherwise you're just looking at the theoretical neuro
+
+1979
+02:05:45.399 --> 02:05:47.520
+literature in the field in the field of your,
+
+1980
+02:05:47.529 --> 02:05:50.740
+your inquiry don't necessarily look for my name. As
+
+1981
+02:05:50.750 --> 02:05:54.359
+I say, it's, it's go, it's gone, it's gone
+
+1982
+02:05:54.370 --> 02:05:57.629
+past me. I'm now an admiring spectator of uh
+
+1983
+02:05:57.640 --> 02:05:58.479
+on the applications.
+
+1984
+02:05:59.640 --> 02:06:02.810
+Great. So look this has been a really fascinating
+
+1985
+02:06:02.819 --> 02:06:05.810
+conversation. We've covered a lot of ground when it
+
+1986
+02:06:05.819 --> 02:06:10.029
+comes to the free energy principle nervous systems, active
+
+1987
+02:06:10.040 --> 02:06:13.419
+influence. So I'm very much looking forward to our
+
+1988
+02:06:13.430 --> 02:06:16.640
+next talk. Excellent. I look forward to that.
+
+1989
+02:06:18.810 --> 02:06:21.540
+Hi guys. Thank you for watching this interview. Until
+
+1990
+02:06:21.549 --> 02:06:23.709
+the end. If you liked it, please share it.
+
+1991
+02:06:23.720 --> 02:06:26.520
+Leave a like and hit the subscription button. The
+
+1992
+02:06:26.529 --> 02:06:28.609
+show is brought to you by N Lights learning
+
+1993
+02:06:28.620 --> 02:06:31.649
+and development. Then differently check the website at N
+
+1994
+02:06:31.660 --> 02:06:35.609
+lights.com and also please consider supporting the show on
+
+1995
+02:06:35.620 --> 02:06:38.660
+Patreon or paypal. I would also like to give
+
+1996
+02:06:38.669 --> 02:06:40.970
+a huge thank you to my main patrons and
+
+1997
+02:06:40.979 --> 02:06:45.189
+paypal supporters, Perego Larson, Jerry Muller and Frederick Suno
+
+1998
+02:06:45.240 --> 02:06:48.310
+Bernard Seche O of Alex Adam, Castle Matthew Whitting
+
+1999
+02:06:48.350 --> 02:06:51.589
+Bear, no wolf, Tim Ho Erica LJ Connors, Philip
+
+2000
+02:06:51.600 --> 02:06:54.509
+Forrest Connelly. Then the Met Robert Wine in Nai
+
+2001
+02:06:54.859 --> 02:06:59.109
+Z Mar Nevs calling Hobel Governor Mikel Stormer Samuel
+
+2002
+02:06:59.299 --> 02:07:02.379
+Andre Francis for Agns Ferger Ken Hall, her ma
+
+2003
+02:07:03.129 --> 02:07:06.279
+J and Lain Jung Y and the Samuel K
+
+2004
+02:07:06.470 --> 02:07:09.970
+Hes Mark Smith J Tom Hummel S friends, David
+
+2005
+02:07:10.100 --> 02:07:15.609
+Sloan Wilson, Yaar, Roman Roach Diego, Jan Punter, Romani
+
+2006
+02:07:15.830 --> 02:07:19.049
+Charlotte Bli Nicole Barba, Adam Hunt Pavla Stassi Na
+
+2007
+02:07:19.729 --> 02:07:23.660
+me, Gary G Almansa Zal Ari and YPJ Barboza
+
+2008
+02:07:23.950 --> 02:07:28.319
+Julian Price Edward Hall, Eden Broner Douglas Fry Franca,
+
+2009
+02:07:28.759 --> 02:07:35.830
+Bela Gil Cortez Solis Scott Zachary ftdw Daniel Friedman,
+
+2010
+02:07:35.839 --> 02:07:40.259
+William Buckner, Paul Giorgio, Luke Loki, Georgio Theophano Chris
+
+2011
+02:07:40.270 --> 02:07:44.180
+Williams and Peter Wo David Williams Di A Costa
+
+2012
+02:07:44.189 --> 02:07:48.390
+Anton Erickson. Charles Murray, Alex Shaw, Marie Martinez, Coralie
+
+2013
+02:07:48.399 --> 02:07:54.140
+Chevalier, Bangalore Fists Larry Dey Junior, Old Ebon, Starry
+
+2014
+02:07:54.149 --> 02:07:57.589
+Michael Bailey. Then Spur by Robert Grassy Zorn. Jeff
+
+2015
+02:07:57.600 --> 02:08:01.850
+mcmahon, Jake Zul Barnabas, Radis Mark Temple, Thomas Dvor
+
+2016
+02:08:02.169 --> 02:08:06.740
+Luke Neeson, Chris Tory Kimberly Johnson, Benjamin Gilbert Jessica
+
+2017
+02:08:06.790 --> 02:08:11.580
+Week, Linda Brendan, Nicholas Carlson, Ismael Bensley Man George
+
+2018
+02:08:12.180 --> 02:08:17.080
+Katis Valentine Steinman Perros, Kate Van Goler Alexander, Abert
+
+2019
+02:08:17.149 --> 02:08:22.910
+Liam Dan Biar Masoud Ali Mohammadi Perpendicular J Ner
+
+2020
+02:08:23.470 --> 02:08:27.319
+Urla. Good enough Gregory Hastings David Pins of Sean
+
+2021
+02:08:27.439 --> 02:08:31.625
+Nelson, Mike Levin and Jos Net. A special thanks
+
+2022
+02:08:31.634 --> 02:08:34.004
+to my producers, these our web, Jim Frank Luca
+
+2023
+02:08:34.524 --> 02:08:37.904
+Stina, Tom Vig and Bernard N Cortes Dixon, Bendik,
+
+2024
+02:08:37.915 --> 02:08:41.595
+Muller Thomas Trumble, Catherine and Patrick Tobin, John Carlman,
+
+2025
+02:08:41.975 --> 02:08:44.334
+Negro, Nick Ortiz and Nick Golden. And to my
+
+2026
+02:08:44.345 --> 02:08:48.564
+executive producers, Matthew Lavender, Sergi, Adrian Bogdan Knits and
+
+2027
+02:08:48.575 --> 02:08:49.964
+Rosie. Thank you for all.
+

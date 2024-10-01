@@ -13,7 +13,9 @@
 		"Neuroscience"
 	],
 	"title": "#1000 Karl Friston: The Free Energy Principle and Active Inference: From Physics to Mind",
-	"youtubeid": "2BzmKnDtCCI"
+	"vtt": "1000.vtt",
+	"youtubeid": "2BzmKnDtCCI",
+	"transcript": "1000.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 18th 2024.  
