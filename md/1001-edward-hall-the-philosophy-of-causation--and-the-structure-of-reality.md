@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/75755184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-11%2Fba43528b-7c82-7265-1718-49307fe12aa8.m4a",
 	"draft": false,
 	"episodeid": "1001",
 	"excerpt": "Dr. Edward Hall is Norman E. Vuilleumier Professor of Philosophy at Harvard University. He works on a range of topics in metaphysics and epistemology that overlap with philosophy of science.",
 	"image": "https://i.ytimg.com/vi/_SCcQ6W_Mf0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1001-edward-hall-the-philosophy-of-causation/id1451347236?i=1000671697487&uo=4",
 	"publishDate": 2024-10-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1001-Edward-Hall-The-Philosophy-of-Causation--and-the-Structure-of-Reality-e296c7g",
 	"tags": [
 		"Philosophy"
 	],
