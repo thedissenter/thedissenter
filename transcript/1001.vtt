@@ -1,0 +1,4194 @@
+WEBVTT
+
+1
+00:00:00.189 --> 00:00:02.930
+Hello everybody. Welcome to a new episode of the
+
+2
+00:00:02.990 --> 00:00:05.730
+Decent. I'm your host as always Ricardo Lob. And
+
+3
+00:00:05.739 --> 00:00:08.539
+today I'm joined by Doctor Edward Hall. He is
+
+4
+00:00:08.550 --> 00:00:12.729
+Norman Eve Willem, Professor of Philosophy at Harvard University.
+
+5
+00:00:12.739 --> 00:00:15.439
+He works on a range of topics in metaphysics
+
+6
+00:00:15.449 --> 00:00:19.629
+and epistemology that overlap with philosophy of science. And
+
+7
+00:00:19.639 --> 00:00:24.420
+today we're focusing mostly on the philosophy of causation
+
+8
+00:00:24.639 --> 00:00:27.510
+and we'll talk a little bit about some aspects
+
+9
+00:00:27.520 --> 00:00:31.899
+of the nature of reality that might overlap with
+
+10
+00:00:31.909 --> 00:00:35.069
+the philosophy of causation. So, Doctor Hall, welcome to
+
+11
+00:00:35.080 --> 00:00:36.860
+the show. It's a big pleasure to everyone.
+
+12
+00:00:37.479 --> 00:00:39.290
+Oh, thank you very much for having me. I'm
+
+13
+00:00:39.299 --> 00:00:40.139
+delighted to be here.
+
+14
+00:00:41.130 --> 00:00:45.150
+OK. So how do you approach the issue of
+
+15
+00:00:45.159 --> 00:00:50.500
+causation from a philosophical perspective, particularly from the perspective
+
+16
+00:00:50.509 --> 00:00:54.189
+of philosophy of science? What is causation exactly?
+
+17
+00:00:55.720 --> 00:00:57.970
+Oh, so let me separate the question of how
+
+18
+00:00:57.979 --> 00:01:01.110
+I approach the topic and, and the much harder
+
+19
+00:01:01.119 --> 00:01:05.430
+question of what causation is. Um So I'll, I'll
+
+20
+00:01:05.440 --> 00:01:06.900
+put this in a little bit of kind of
+
+21
+00:01:06.910 --> 00:01:11.099
+autobiographical context. I used to approach the study of
+
+22
+00:01:11.110 --> 00:01:13.610
+causation in a way that I learned from my,
+
+23
+00:01:13.620 --> 00:01:17.250
+one of my teachers, David Lewis, which was to
+
+24
+00:01:17.900 --> 00:01:20.959
+take it that the main task for us as
+
+25
+00:01:20.970 --> 00:01:22.800
+philosophers is to come up with some kind of
+
+26
+00:01:22.809 --> 00:01:26.629
+informative analysis of causation. That's kind of a way
+
+27
+00:01:26.639 --> 00:01:29.319
+of filling in the blanks. Um In the following
+
+28
+00:01:29.330 --> 00:01:33.459
+equation X causes why if and only if blank,
+
+29
+00:01:33.550 --> 00:01:38.580
+no. And David Lewis famously uh defended a kind
+
+30
+00:01:38.589 --> 00:01:40.580
+of way of filling in those blanks that that
+
+31
+00:01:40.589 --> 00:01:44.769
+appealed to counterfactual. So the very simplest version of
+
+32
+00:01:44.779 --> 00:01:48.800
+the kind of theory or analysis that he endorsed
+
+33
+00:01:48.809 --> 00:01:51.239
+was X causes why if and only if if
+
+34
+00:01:51.250 --> 00:01:53.500
+X had not occurred, why would not have occurred.
+
+35
+00:01:53.790 --> 00:01:56.879
+And we might add just to for clarity, X
+
+36
+00:01:56.889 --> 00:02:00.029
+and Y both do in fact occur. So Susie
+
+37
+00:02:00.040 --> 00:02:02.309
+throws a rock at a window, the window breaks.
+
+38
+00:02:02.319 --> 00:02:04.330
+What does it mean to say that her throat
+
+39
+00:02:04.339 --> 00:02:07.230
+caused the window to break? It's to say first,
+
+40
+00:02:07.239 --> 00:02:09.949
+she threw the rock, second, the window broke and
+
+41
+00:02:09.960 --> 00:02:12.160
+third, and this is the crucial element. If she
+
+42
+00:02:12.169 --> 00:02:14.149
+hadn't thrown the rock, the window wouldn't have broken.
+
+43
+00:02:15.059 --> 00:02:19.300
+Um That wasn't Lewis's preferred analysis. He added some
+
+44
+00:02:19.309 --> 00:02:21.759
+complexity to it, but it gives you the flavor.
+
+45
+00:02:22.110 --> 00:02:26.339
+Um And one of the things to emphasize is
+
+46
+00:02:26.350 --> 00:02:29.119
+that for Lewis, the way to proceed was to
+
+47
+00:02:29.130 --> 00:02:32.059
+construct analyses like this and then test them against
+
+48
+00:02:32.070 --> 00:02:37.059
+our intuitively held judgments about cases. So for example,
+
+49
+00:02:37.339 --> 00:02:40.100
+the analysis I just gave you looks like it
+
+50
+00:02:40.110 --> 00:02:43.139
+runs into trouble if we um just think of
+
+51
+00:02:43.149 --> 00:02:46.050
+the right kinds of cases. Suppose Suzie and Billy
+
+52
+00:02:46.059 --> 00:02:49.250
+are both throwing rocks at the same window, but
+
+53
+00:02:49.259 --> 00:02:51.979
+Susie is a little faster. So it's her rock
+
+54
+00:02:51.990 --> 00:02:54.539
+that hits the window, whereas Billy's was just a
+
+55
+00:02:54.550 --> 00:02:59.600
+split second too late. So it's intuitively still the
+
+56
+00:02:59.610 --> 00:03:02.119
+case that her throat caused the window to break.
+
+57
+00:03:02.220 --> 00:03:04.029
+And yet if she hadn't thrown the window would
+
+58
+00:03:04.039 --> 00:03:06.690
+have broken all the same. Thanks to thanks to
+
+59
+00:03:06.699 --> 00:03:09.360
+the backup. And so this gives you a kind
+
+60
+00:03:09.369 --> 00:03:12.839
+of capsule summary, a kind of illustration of a
+
+61
+00:03:12.850 --> 00:03:17.089
+way of proceeding here. Philosophically, you propose an analysis,
+
+62
+00:03:17.100 --> 00:03:19.589
+you come up with cases that make trouble, you
+
+63
+00:03:19.600 --> 00:03:22.009
+go back and revise the analysis or maybe try
+
+64
+00:03:22.020 --> 00:03:24.839
+something different. And quite a lot of work on
+
+65
+00:03:24.850 --> 00:03:28.210
+causation in the last I think 50 years has
+
+66
+00:03:28.220 --> 00:03:32.600
+that flavor kind of proposal and counterexample drawing heavily
+
+67
+00:03:32.610 --> 00:03:36.410
+on our, on our intuitive reactions to cases. And
+
+68
+00:03:36.589 --> 00:03:38.929
+I've come to think that a different way of
+
+69
+00:03:38.940 --> 00:03:42.100
+proceeding is much more helpful. And it's one where
+
+70
+00:03:42.110 --> 00:03:44.360
+I've been inspired by the work of, of James
+
+71
+00:03:44.369 --> 00:03:48.289
+Woodward on causation, where, where we should step back
+
+72
+00:03:48.300 --> 00:03:51.889
+and ask what having a concept of causation or
+
+73
+00:03:51.899 --> 00:03:56.199
+more generally, what thinking about the world in causal
+
+74
+00:03:56.210 --> 00:03:58.750
+terms does for us? Why is this a valuable
+
+75
+00:03:58.759 --> 00:04:03.690
+thing? Yeah. Um And for me, one way to
+
+76
+00:04:03.699 --> 00:04:06.210
+focus this is to, is, is to start with
+
+77
+00:04:06.220 --> 00:04:09.869
+what looks like a kind of like obvious truth,
+
+78
+00:04:10.089 --> 00:04:12.850
+like maybe even trivial truth about the sciences, which
+
+79
+00:04:12.860 --> 00:04:16.839
+is the sciences. Aim to discover and articulate the
+
+80
+00:04:16.850 --> 00:04:19.928
+causal structure of the world. Um THAT can seem
+
+81
+00:04:19.940 --> 00:04:23.230
+obvious. Um But if we approach that question in
+
+82
+00:04:23.239 --> 00:04:25.700
+the way Woodward recommends we should ask like, well,
+
+83
+00:04:25.709 --> 00:04:27.910
+what is causation need to mean in order for
+
+84
+00:04:27.920 --> 00:04:31.630
+this to be a useful characterization of what's important
+
+85
+00:04:31.640 --> 00:04:37.049
+in science? And, and then no, that's, that gets
+
+86
+00:04:37.059 --> 00:04:40.450
+very complicated. Uh We need to think about like,
+
+87
+00:04:40.459 --> 00:04:43.609
+well, what are the different kinds of value that
+
+88
+00:04:43.619 --> 00:04:46.589
+causal thinking in causal terms can have for us?
+
+89
+00:04:46.790 --> 00:04:48.779
+And I don't have a settled view about that.
+
+90
+00:04:48.790 --> 00:04:52.010
+I think, I, I think Woodward's own view, which
+
+91
+00:04:52.019 --> 00:04:54.239
+is that we think in causal terms because we're
+
+92
+00:04:54.250 --> 00:04:58.209
+very concerned, not merely to passively record what goes
+
+93
+00:04:58.220 --> 00:05:00.799
+on around us and passively predict it, but to
+
+94
+00:05:00.809 --> 00:05:04.760
+intervene and navigate and control and manipulate, that's, that's
+
+95
+00:05:04.769 --> 00:05:07.899
+important and causal concepts helps observe that. But I
+
+96
+00:05:07.910 --> 00:05:09.459
+think a lot of the way we think about
+
+97
+00:05:09.470 --> 00:05:12.489
+causation is also structured by the need to have
+
+98
+00:05:12.500 --> 00:05:16.279
+a kind of organized view of the world. Um
+
+99
+00:05:16.480 --> 00:05:20.059
+So I think that it's a very deep seated
+
+100
+00:05:20.070 --> 00:05:22.459
+part of the way we humans think about causal
+
+101
+00:05:22.470 --> 00:05:26.510
+structure that we look for connecting processes. And so
+
+102
+00:05:26.519 --> 00:05:28.239
+if I go back to the Suzie and Billy,
+
+103
+00:05:28.250 --> 00:05:31.040
+both throwing rocks at the window example and ask
+
+104
+00:05:31.049 --> 00:05:33.600
+like, well, what are we focusing on when we
+
+105
+00:05:33.609 --> 00:05:36.679
+immediately judge in the case where they're both throwing
+
+106
+00:05:37.109 --> 00:05:40.119
+that? It's Susie's throw that causes the window break
+
+107
+00:05:40.130 --> 00:05:42.600
+to break and not Billy's, we're focusing on a
+
+108
+00:05:42.609 --> 00:05:46.040
+very characteristic kind of process that links her throat
+
+109
+00:05:46.049 --> 00:05:48.230
+to the windows breaking. It just consists of a
+
+110
+00:05:48.239 --> 00:05:51.709
+rock flying through the air and making contact. And,
+
+111
+00:05:51.880 --> 00:05:55.589
+and this is something II I do not have
+
+112
+00:05:55.600 --> 00:05:57.859
+again, a settled view about, but I think one
+
+113
+00:05:57.869 --> 00:06:00.619
+way or another, that notion of process is really
+
+114
+00:06:00.630 --> 00:06:04.109
+important to us. And so when I come back
+
+115
+00:06:04.119 --> 00:06:07.309
+to your question, what is causation? I tend to
+
+116
+00:06:07.320 --> 00:06:10.309
+want to rewrite that question and, and pose it
+
+117
+00:06:10.320 --> 00:06:13.250
+as like what are the most helpful, functional, useful
+
+118
+00:06:13.260 --> 00:06:15.529
+ways to think about the world in causal terms?
+
+119
+00:06:15.940 --> 00:06:17.779
+And now things are gonna are gonna get very
+
+120
+00:06:17.790 --> 00:06:20.670
+hand wavy very fast. I think that it's got
+
+121
+00:06:20.679 --> 00:06:23.500
+to be some combination of thinking about the world
+
+122
+00:06:23.510 --> 00:06:28.339
+in terms as divided up into separately identifiable processes.
+
+123
+00:06:29.000 --> 00:06:32.339
+But where those processes also have something, some interesting
+
+124
+00:06:32.350 --> 00:06:36.489
+kind of dependent structure to them. No, like the
+
+125
+00:06:36.500 --> 00:06:38.730
+the fact that a rock flying through the window,
+
+126
+00:06:38.890 --> 00:06:43.429
+sorry through the air and and striking window appears
+
+127
+00:06:43.440 --> 00:06:46.130
+to us as an important process is partly because
+
+128
+00:06:46.369 --> 00:06:48.390
+that kind of process has a lot of internal
+
+129
+00:06:48.399 --> 00:06:53.890
+connections. No earlier stages. Um SORRY, later stages of
+
+130
+00:06:53.899 --> 00:06:56.670
+it depend on earlier stages. The final stage depends
+
+131
+00:06:56.679 --> 00:06:59.450
+on initial stages, at least when nothing in the
+
+132
+00:06:59.459 --> 00:07:02.649
+environment like in another throw, you know, from another
+
+133
+00:07:02.660 --> 00:07:05.329
+vandal like Billy is going on to mask that
+
+134
+00:07:05.339 --> 00:07:09.799
+dependency. Um So, so in earlier work of mine,
+
+135
+00:07:09.809 --> 00:07:12.790
+II I sort of ambitiously thought, well, we just
+
+136
+00:07:12.799 --> 00:07:15.089
+have two distinct concepts of causation. There's a kind
+
+137
+00:07:15.100 --> 00:07:17.649
+of concept that is just captured by this notion
+
+138
+00:07:17.660 --> 00:07:19.910
+of dependence. And then there's a concept that I
+
+139
+00:07:19.920 --> 00:07:22.160
+called production, which is somehow captured by the notion
+
+140
+00:07:22.170 --> 00:07:24.769
+of connecting process. And I now think it's not
+
+141
+00:07:24.779 --> 00:07:27.829
+that simple, that both of these strands in our
+
+142
+00:07:27.839 --> 00:07:30.350
+thinking are very, very important. But how exactly we
+
+143
+00:07:30.359 --> 00:07:34.299
+knit them together is a complicated matter. So that
+
+144
+00:07:34.309 --> 00:07:36.700
+was a long answer, Ricardo. But hopefully that can
+
+145
+00:07:36.970 --> 00:07:40.579
+no, I understand this is a very complicated subject.
+
+146
+00:07:41.309 --> 00:07:45.320
+Uh But I mean, here just to make things
+
+147
+00:07:45.329 --> 00:07:48.549
+clearer because we are approaching things from the perspective
+
+148
+00:07:48.559 --> 00:07:52.970
+of philosophy of science. And I mean, just thinking
+
+149
+00:07:52.980 --> 00:07:56.010
+about science and looking for example, across the several
+
+150
+00:07:56.019 --> 00:08:02.079
+different disciplines from physics, chemistry to geology, biology and
+
+151
+00:08:02.089 --> 00:08:07.399
+the social sciences. I mean, ii I have perhaps
+
+152
+00:08:07.410 --> 00:08:09.679
+two questions I want to ask you. I mean,
+
+153
+00:08:09.690 --> 00:08:12.480
+is it that what you're trying to do here
+
+154
+00:08:12.489 --> 00:08:19.040
+as a philosopher is trying to understand um causality
+
+155
+00:08:19.049 --> 00:08:24.549
+uh as it works across all different fields, all
+
+156
+00:08:24.559 --> 00:08:27.779
+different areas and in all different kinds of circumstances,
+
+157
+00:08:27.790 --> 00:08:31.390
+I mean, basically have a, an overall framework as
+
+158
+00:08:31.399 --> 00:08:35.570
+to how we can determine that something caused another
+
+159
+00:08:35.580 --> 00:08:37.780
+or a couple of things caused uh uh uh
+
+160
+00:08:37.789 --> 00:08:44.190
+something else, whatever or uh for example, uh I'm
+
+161
+00:08:44.200 --> 00:08:46.380
+asking you this because of course, if we look
+
+162
+00:08:46.390 --> 00:08:49.390
+across the several different scientific disciplines, it seems that
+
+163
+00:08:49.400 --> 00:08:53.320
+the way we determine that something caused another uh
+
+164
+00:08:53.330 --> 00:08:57.440
+is different. So for example, if we look at
+
+165
+00:08:57.640 --> 00:09:01.229
+physics, the way we determine that something caused another,
+
+166
+00:09:01.239 --> 00:09:04.940
+there, it seems very different or it seems I
+
+167
+00:09:04.950 --> 00:09:07.309
+might be wrong, but it seems very different from
+
+168
+00:09:07.549 --> 00:09:11.299
+the way we determine that uh I mean, the
+
+169
+00:09:11.309 --> 00:09:14.640
+cause of a particular behavior of a human or
+
+170
+00:09:14.650 --> 00:09:19.390
+another animal. In, for example, biology, psychology, I mean,
+
+171
+00:09:19.400 --> 00:09:23.520
+iii I in a very simplistic way, I guess
+
+172
+00:09:23.530 --> 00:09:26.429
+it would seem that things become more and more
+
+173
+00:09:26.440 --> 00:09:31.640
+complicated as we move through levels of analysis. So
+
+174
+00:09:31.650 --> 00:09:34.190
+again, going back to the question, I was trying
+
+175
+00:09:34.200 --> 00:09:36.059
+to ask you, are you trying to come up
+
+176
+00:09:36.070 --> 00:09:41.549
+with the a universal framework to determine causation, whatever
+
+177
+00:09:41.559 --> 00:09:45.030
+kind of scientific discipline we're talking about? Or do
+
+178
+00:09:45.039 --> 00:09:50.349
+you think that we should understand causation depending on
+
+179
+00:09:50.679 --> 00:09:54.799
+the object of study or the question we are
+
+180
+00:09:54.809 --> 00:09:56.429
+trying to answer?
+
+181
+00:09:57.320 --> 00:09:59.340
+I think it's a great question. I will say
+
+182
+00:09:59.349 --> 00:10:03.979
+my own ambition, which I recognize is absurd is
+
+183
+00:10:03.989 --> 00:10:07.010
+to come up with a universal account. It's exactly
+
+184
+00:10:07.020 --> 00:10:11.239
+to do that. But at the same time, it's
+
+185
+00:10:11.250 --> 00:10:14.400
+obvious that there are differences between the fields and
+
+186
+00:10:14.409 --> 00:10:18.599
+in how they, you know, just the methodologies for
+
+187
+00:10:18.609 --> 00:10:21.320
+trying to figure out what causes what and, and
+
+188
+00:10:21.330 --> 00:10:25.549
+maybe even for um but in some loose sense,
+
+189
+00:10:25.559 --> 00:10:28.530
+they, they mean by causation now, I, I wanted
+
+190
+00:10:28.539 --> 00:10:30.580
+to say that's a loose sense. II I think
+
+191
+00:10:30.590 --> 00:10:32.929
+part part of the reason I have this kind
+
+192
+00:10:32.940 --> 00:10:35.090
+of absurd ambition is I, I don't think it's
+
+193
+00:10:35.099 --> 00:10:37.599
+just some weird linguistic accident that we use the
+
+194
+00:10:37.609 --> 00:10:41.530
+same term so fluently in so many different areas.
+
+195
+00:10:41.929 --> 00:10:44.820
+Um, um, I mean, it might be, no, it,
+
+196
+00:10:44.830 --> 00:10:45.969
+it might be that at the end of the
+
+197
+00:10:45.979 --> 00:10:49.080
+day we should just think that social scientists should
+
+198
+00:10:49.090 --> 00:10:52.080
+use a different word from physicists and they should
+
+199
+00:10:52.090 --> 00:10:54.369
+use a different word from biologists And we'd all
+
+200
+00:10:54.380 --> 00:10:56.419
+do a much better job of not confusing each
+
+201
+00:10:56.429 --> 00:11:00.039
+other if we sort of jettison the single word
+
+202
+00:11:00.049 --> 00:11:02.900
+cause. But, but I, I don't think that's right.
+
+203
+00:11:02.909 --> 00:11:05.140
+Um Now, that's just a hunch, it's a working
+
+204
+00:11:05.150 --> 00:11:10.640
+hypothesis. Um um But it, it may be that
+
+205
+00:11:10.650 --> 00:11:12.799
+in order to fulfill that ambition of having a
+
+206
+00:11:12.809 --> 00:11:16.700
+universal theory, we, we need an approach that recognizes
+
+207
+00:11:16.710 --> 00:11:18.659
+that there are gonna be a number of different
+
+208
+00:11:18.669 --> 00:11:21.539
+parameters to pay attention to and in some fields,
+
+209
+00:11:21.570 --> 00:11:24.679
+those parameters will have one setting and in another
+
+210
+00:11:24.690 --> 00:11:27.059
+field, they'll have a different setting and that will
+
+211
+00:11:27.070 --> 00:11:30.719
+make a comparatively superficial difference to how people talk
+
+212
+00:11:30.729 --> 00:11:34.659
+about causation, even though the underlying no structure of,
+
+213
+00:11:34.669 --> 00:11:37.239
+of thought is very similar. Um That's again a
+
+214
+00:11:37.250 --> 00:11:40.229
+working hypothesis. But I'll give you one example of
+
+215
+00:11:40.239 --> 00:11:43.859
+where I think that plays out sometimes in some
+
+216
+00:11:43.869 --> 00:11:48.340
+settings, we, we work with a, a fairly clear
+
+217
+00:11:48.349 --> 00:11:52.320
+understanding of normal conditions. And on the one hand,
+
+218
+00:11:52.330 --> 00:11:55.280
+and deviations from those conditions, on the other hand,
+
+219
+00:11:55.809 --> 00:11:59.349
+um So even in my little prosaic example of
+
+220
+00:11:59.359 --> 00:12:02.280
+Susie, throwing a rock at a window, you know,
+
+221
+00:12:02.559 --> 00:12:05.159
+throwing a rock is a deviation from something like
+
+222
+00:12:05.169 --> 00:12:08.080
+normal conditions where she just like sitting around or
+
+223
+00:12:08.090 --> 00:12:11.169
+the rock stays idle on the ground. No rock
+
+224
+00:12:11.179 --> 00:12:13.440
+being propelled through the air is a deviation from,
+
+225
+00:12:13.780 --> 00:12:16.479
+you know, what we might think of as like
+
+226
+00:12:16.489 --> 00:12:20.289
+the normal conditions for rock in those circumstances. Um
+
+227
+00:12:20.299 --> 00:12:22.880
+IN physics, it might be even clearer. And we,
+
+228
+00:12:22.890 --> 00:12:25.200
+the, the easiest examples from physics will take us
+
+229
+00:12:25.210 --> 00:12:28.320
+back to Newton. So they're a bit dated. But
+
+230
+00:12:28.330 --> 00:12:32.159
+the whole idea of a force um is under
+
+231
+00:12:32.169 --> 00:12:35.880
+conceptualized as something that's a deviation from a background
+
+232
+00:12:35.890 --> 00:12:38.950
+condition. The kind of default condition for an object
+
+233
+00:12:38.960 --> 00:12:41.630
+is to have no force on it. And by
+
+234
+00:12:41.640 --> 00:12:45.169
+default, we don't mean common. Now, Newton was perfectly
+
+235
+00:12:45.179 --> 00:12:48.210
+aware that most objects, maybe all objects at all
+
+236
+00:12:48.219 --> 00:12:50.609
+times have forces acting on them. But if you
+
+237
+00:12:50.619 --> 00:12:52.190
+think about how we set up his laws of
+
+238
+00:12:52.200 --> 00:12:54.739
+motion, the first law of motion is an object
+
+239
+00:12:54.750 --> 00:12:56.780
+not acted upon by a force moves with constant
+
+240
+00:12:56.789 --> 00:13:03.330
+velocity. And that, you know, that's a mathematically that
+
+241
+00:13:03.340 --> 00:13:05.679
+law is a trivial consequence of the second law
+
+242
+00:13:05.690 --> 00:13:08.309
+that says f equals ma force equals mass times
+
+243
+00:13:08.320 --> 00:13:11.440
+acceleration. Because if you know force is zero, then
+
+244
+00:13:11.450 --> 00:13:14.000
+by that equation acceleration is zero. So velocity is
+
+245
+00:13:14.010 --> 00:13:17.409
+constant. So why did he single out, you know
+
+246
+00:13:17.419 --> 00:13:21.210
+this one case as for special attention? Well, I
+
+247
+00:13:21.219 --> 00:13:23.450
+think it was to set it up a a
+
+248
+00:13:23.460 --> 00:13:27.489
+certain conceptual structure where we think of the world
+
+249
+00:13:27.500 --> 00:13:30.450
+when we have our Newtonian glasses on as a
+
+250
+00:13:30.460 --> 00:13:34.599
+world where the kind of the default no behavior,
+
+251
+00:13:34.609 --> 00:13:38.119
+the kind of behavior provided nothing is interfering of
+
+252
+00:13:38.130 --> 00:13:40.919
+any object is to just move with constant velocity.
+
+253
+00:13:40.929 --> 00:13:43.250
+And then of course, is a deviation from that.
+
+254
+00:13:44.020 --> 00:13:45.599
+And that can be very important in how we
+
+255
+00:13:45.609 --> 00:13:48.380
+think about causation. It already structures things a certain
+
+256
+00:13:48.390 --> 00:13:51.590
+way. It's natural when you have a really rich
+
+257
+00:13:51.599 --> 00:13:55.500
+conception of default versus de default states versus deviations
+
+258
+00:13:55.559 --> 00:13:58.070
+there from, to think of causes as things that
+
+259
+00:13:58.299 --> 00:14:00.080
+in the first instance, whatever else they are, they
+
+260
+00:14:00.090 --> 00:14:03.109
+need to be deviations. And it also helps with
+
+261
+00:14:03.119 --> 00:14:06.960
+understanding counterfactual. So in my example, and I said,
+
+262
+00:14:06.969 --> 00:14:08.460
+like if Susie hadn't thrown the rock at the
+
+263
+00:14:08.469 --> 00:14:10.500
+window, the window wouldn't have broken. This is the
+
+264
+00:14:10.510 --> 00:14:13.309
+original case where we don't have Pesky Billy in
+
+265
+00:14:13.320 --> 00:14:15.179
+the background trying to break it. At the same
+
+266
+00:14:15.190 --> 00:14:18.169
+time. You, you know, you and your listeners probably
+
+267
+00:14:18.179 --> 00:14:20.830
+heard that counterfactual thought. Yeah, that's obviously right. If
+
+268
+00:14:20.840 --> 00:14:22.919
+she hadn't thrown, no, nothing else was going to
+
+269
+00:14:22.929 --> 00:14:25.340
+do it. So it wouldn't have broken. But notice,
+
+270
+00:14:25.349 --> 00:14:28.820
+I didn't say when I asked you to entertain
+
+271
+00:14:28.830 --> 00:14:32.669
+that kind of counterfactual supposition, suppose she hadn't thrown,
+
+272
+00:14:32.679 --> 00:14:36.340
+then what would have happened? I didn't say, you
+
+273
+00:14:36.349 --> 00:14:40.309
+know, she was doing anything else. No. In fact,
+
+274
+00:14:40.320 --> 00:14:43.890
+I didn't specify much about what she's doing in
+
+275
+00:14:43.900 --> 00:14:46.900
+that kind of factual situation aside from the mere
+
+276
+00:14:46.909 --> 00:14:50.590
+fact that she's not throwing a rock. Well, who
+
+277
+00:14:50.599 --> 00:14:52.520
+knows, maybe she's running up and kicking the window
+
+278
+00:14:52.530 --> 00:14:55.760
+instead, but you didn't hear it that way. You
+
+279
+00:14:55.770 --> 00:14:57.210
+didn't hear it that way at all. What you,
+
+280
+00:14:57.219 --> 00:14:59.260
+you probably did is like, like said, well, some
+
+281
+00:14:59.270 --> 00:15:03.059
+kind of default state replaces the actual deviation where
+
+282
+00:15:03.070 --> 00:15:07.159
+she's throwing and, and the default state for the
+
+283
+00:15:07.169 --> 00:15:09.000
+rock in particular would be one where it's still
+
+284
+00:15:09.010 --> 00:15:12.159
+on the ground. No, and no other processes have
+
+285
+00:15:12.169 --> 00:15:13.880
+been set in motion that are aimed at the
+
+286
+00:15:13.890 --> 00:15:17.210
+wind, breaking the window. Ok? But it doesn't always
+
+287
+00:15:17.219 --> 00:15:20.460
+work like that. Like think about causation in our
+
+288
+00:15:20.469 --> 00:15:27.349
+mental lives. Suppose. Um um TRYING to think of
+
+289
+00:15:27.359 --> 00:15:32.609
+a good example. Um SUPPOSE I'm, you know, trying
+
+290
+00:15:32.619 --> 00:15:34.210
+to decide what to do and a bunch of
+
+291
+00:15:34.219 --> 00:15:36.059
+thoughts are running through my head and they lead
+
+292
+00:15:36.070 --> 00:15:38.909
+me to a certain conclusion and we ask like,
+
+293
+00:15:38.919 --> 00:15:42.830
+what would have happened if I hadn't? No drawing
+
+294
+00:15:42.840 --> 00:15:44.929
+that one inference I did at a certain step.
+
+295
+00:15:45.650 --> 00:15:49.109
+No, in my mental thought. Well, when you play
+
+296
+00:15:49.119 --> 00:15:51.390
+out examples like this, it might be that the
+
+297
+00:15:51.400 --> 00:15:52.950
+first thing that comes to mind is like, who
+
+298
+00:15:52.960 --> 00:15:57.710
+knows? Like there's no obvious like default status for
+
+299
+00:15:57.719 --> 00:16:01.359
+my mental life. No, to revert to in the
+
+300
+00:16:01.369 --> 00:16:06.369
+counterfactual situation. Um A maybe clear example of, of
+
+301
+00:16:06.380 --> 00:16:08.599
+how there can be no default is like, suppose
+
+302
+00:16:08.609 --> 00:16:12.539
+I ask like, suppose I had been, um, had
+
+303
+00:16:12.549 --> 00:16:14.479
+grown up to be taller than I in fact
+
+304
+00:16:14.489 --> 00:16:17.070
+am. So, I'm a little bit under 6 ft.
+
+305
+00:16:18.390 --> 00:16:22.390
+How tall would I have been? So, so I'll
+
+306
+00:16:22.400 --> 00:16:24.119
+ask you that, Ricardo. Like, what, what do you
+
+307
+00:16:24.130 --> 00:16:25.940
+think? Like, how should we answer a question like
+
+308
+00:16:25.950 --> 00:16:33.510
+that? I don't know. Exactly. Yeah. It's like, I
+
+309
+00:16:33.520 --> 00:16:37.299
+don't know, you know, 6 ft or above somewhere,
+
+310
+00:16:37.359 --> 00:16:40.219
+but it's indeterminate. We think, like, if I had
+
+311
+00:16:40.229 --> 00:16:42.969
+been taller, we don't think like there's any very
+
+312
+00:16:42.979 --> 00:16:45.340
+determinate story about how much taller it would have
+
+313
+00:16:45.349 --> 00:16:47.299
+been. And that's because there, there's no kind of
+
+314
+00:16:47.309 --> 00:16:49.710
+default setting for us to go to. So if,
+
+315
+00:16:49.719 --> 00:16:52.330
+if all I say is I'm not this tall.
+
+316
+00:16:52.479 --> 00:16:56.429
+No. Um THEN, then we're left, it's left wide
+
+317
+00:16:56.440 --> 00:16:59.049
+open how to fill in the details. Whereas very
+
+318
+00:16:59.059 --> 00:17:02.450
+often when we're using causal concepts and using counterfactual
+
+319
+00:17:02.460 --> 00:17:05.030
+to try to unpack them, it's not wide open
+
+320
+00:17:05.040 --> 00:17:08.069
+how to fill in the details. No. Um But
+
+321
+00:17:08.079 --> 00:17:10.709
+that's something that I think can vary between disciplines.
+
+322
+00:17:10.750 --> 00:17:15.670
+No. Um NO another, another parameter that can vary
+
+323
+00:17:15.680 --> 00:17:19.550
+is in some disciplines, there's a kind of natural
+
+324
+00:17:19.560 --> 00:17:23.060
+way to carve up any situation into different variables
+
+325
+00:17:23.069 --> 00:17:26.829
+that we can in principle, at least tweak or
+
+326
+00:17:26.839 --> 00:17:31.060
+toggle or very independently of one another. Um This
+
+327
+00:17:31.069 --> 00:17:33.170
+is like the idea of a controlled experiment if
+
+328
+00:17:33.180 --> 00:17:34.290
+I have some piece of the world and I'm
+
+329
+00:17:34.300 --> 00:17:37.380
+doing a controlled experiment, the first thought you have
+
+330
+00:17:37.390 --> 00:17:40.260
+maybe even without even noticing it is OK. There's
+
+331
+00:17:40.270 --> 00:17:42.989
+some variables that characterize the thing in a controlled
+
+332
+00:17:43.000 --> 00:17:46.000
+experiment consists in manipulating one or more of them
+
+333
+00:17:46.010 --> 00:17:50.020
+while holding the others fixed. OK. Um But in,
+
+334
+00:17:50.030 --> 00:17:52.900
+in the social settings, we can't always do that.
+
+335
+00:17:53.219 --> 00:17:57.849
+Um CONSIDER for example, how people dress what people's
+
+336
+00:17:57.859 --> 00:18:02.579
+biological, perceived, biological sexes and when whether people are
+
+337
+00:18:02.589 --> 00:18:05.310
+gender, non conforming. So this is an example I
+
+338
+00:18:05.319 --> 00:18:07.939
+learned from one of my phd students, she, she
+
+339
+00:18:07.949 --> 00:18:10.339
+asked you to imagine like Billy goes in for
+
+340
+00:18:10.349 --> 00:18:14.569
+a job interview and he's clearly presents as male.
+
+341
+00:18:15.040 --> 00:18:18.160
+Now, maybe has a beard and just his, his
+
+342
+00:18:18.170 --> 00:18:22.650
+physique would, um, and facial structure like would, would
+
+343
+00:18:22.660 --> 00:18:26.619
+immediately signal to anyone like, ok, he's male. Um,
+
+344
+00:18:26.979 --> 00:18:30.709
+BUT he's wearing a dress and makeup and carrying
+
+345
+00:18:30.719 --> 00:18:34.569
+a purse. Ok. And we might wonder if social
+
+346
+00:18:34.579 --> 00:18:40.660
+psychologists how he'll be received by the interviewer. Um
+
+347
+00:18:40.930 --> 00:18:43.510
+And offhand, there are three things that the interviewer
+
+348
+00:18:43.520 --> 00:18:48.260
+might be paying attention to his sex. No, that
+
+349
+00:18:48.270 --> 00:18:50.880
+like or, or might care about, say even have
+
+350
+00:18:50.890 --> 00:18:53.010
+biases about. It might be that the interviewer is
+
+351
+00:18:53.020 --> 00:18:56.060
+biased against males. It might be, the interview is
+
+352
+00:18:56.069 --> 00:18:59.660
+biased against people who wear dresses and makeup doesn't
+
+353
+00:18:59.670 --> 00:19:02.390
+matter whether they're male or female might be. The
+
+354
+00:19:02.400 --> 00:19:04.390
+interview is biased against people who dress in a
+
+355
+00:19:04.400 --> 00:19:07.310
+gender, non conforming way. They don't have a problem
+
+356
+00:19:07.319 --> 00:19:08.829
+with males. They don't have a problem with females.
+
+357
+00:19:08.839 --> 00:19:10.180
+They don't have a problem with wearing dresses, et
+
+358
+00:19:10.189 --> 00:19:12.640
+cetera, but it's got a match in their mind,
+
+359
+00:19:12.650 --> 00:19:15.459
+right. So here are three parameters, all of which
+
+360
+00:19:15.469 --> 00:19:19.880
+could causally matter his sex, his physical dress and
+
+361
+00:19:19.890 --> 00:19:24.030
+appearance, and whether he's gender conforming in his dress,
+
+362
+00:19:24.880 --> 00:19:27.939
+all this can matter. But notice you can't toggle
+
+363
+00:19:27.949 --> 00:19:31.150
+those independently of each other. There's no such thing
+
+364
+00:19:31.160 --> 00:19:33.500
+as a controlled experiment that isolates one of them
+
+365
+00:19:33.510 --> 00:19:36.000
+and holds and manipulates one of them while holding
+
+366
+00:19:36.010 --> 00:19:39.489
+the others fixed. And once you see this point,
+
+367
+00:19:39.500 --> 00:19:41.250
+this is due to Lily, who, who's now a
+
+368
+00:19:41.260 --> 00:19:44.260
+philosopher at Yale, you see this is like widespread
+
+369
+00:19:44.270 --> 00:19:47.199
+across the social world. You know, we have, we
+
+370
+00:19:47.209 --> 00:19:53.319
+regularly work with characteristics or parameters or variables that
+
+371
+00:19:53.329 --> 00:19:56.869
+we want to attribute some causal status to. But
+
+372
+00:19:56.880 --> 00:19:59.160
+where we can't think of them as like independently
+
+373
+00:19:59.170 --> 00:20:04.099
+manipulable. OK. So there's, there's a, there's a, there's
+
+374
+00:20:04.109 --> 00:20:06.699
+a sort of very specific way in which the
+
+375
+00:20:06.709 --> 00:20:10.109
+social sciences differ from other sciences where we can
+
+376
+00:20:10.319 --> 00:20:13.310
+analyze things in terms of independently manipulable variables. And
+
+377
+00:20:13.319 --> 00:20:15.949
+that's gonna make a difference to how we think
+
+378
+00:20:15.959 --> 00:20:18.979
+about causation. Um But going back to your original
+
+379
+00:20:18.989 --> 00:20:22.439
+point, it doesn't, to me at least immediately ruin
+
+380
+00:20:22.449 --> 00:20:24.699
+the the prospect of coming up with a universal
+
+381
+00:20:24.709 --> 00:20:27.400
+account. It just means a universal account has to
+
+382
+00:20:27.410 --> 00:20:32.280
+be flexible enough to sort of like know how
+
+383
+00:20:32.290 --> 00:20:34.550
+to apply in a case where you've got independently
+
+384
+00:20:34.560 --> 00:20:36.660
+manipulable variables and how to apply in a case
+
+385
+00:20:36.670 --> 00:20:38.500
+where you don't to know how to apply in
+
+386
+00:20:38.510 --> 00:20:40.800
+a case where you've got a clear distinction between
+
+387
+00:20:40.819 --> 00:20:43.819
+a default state and deviations there from and how
+
+388
+00:20:43.829 --> 00:20:45.260
+to apply in a case where you don't and
+
+389
+00:20:45.270 --> 00:20:45.819
+so on.
+
+390
+00:20:47.420 --> 00:20:49.400
+So let me ask you a different kind of
+
+391
+00:20:49.410 --> 00:20:54.380
+question. Now. Um What is the metaphysical status of
+
+392
+00:20:54.390 --> 00:20:59.280
+causation? I mean, is causation itself part of the
+
+393
+00:20:59.290 --> 00:21:03.979
+structure of reality or is it just the things
+
+394
+00:21:03.989 --> 00:21:07.390
+that have a cause or relation between themselves that
+
+395
+00:21:07.400 --> 00:21:09.199
+are part of reality?
+
+396
+00:21:10.530 --> 00:21:14.310
+That's a great, great question. I, I don't know
+
+397
+00:21:14.699 --> 00:21:16.829
+myself. I don't think any of us do. I
+
+398
+00:21:16.839 --> 00:21:21.420
+guess I do like to think about that question
+
+399
+00:21:21.430 --> 00:21:26.939
+by relocating it to a question about fundamental laws
+
+400
+00:21:26.949 --> 00:21:30.760
+of nature. And the reason I do that relocation
+
+401
+00:21:30.770 --> 00:21:33.979
+is already committing me on the metaphysics of causation
+
+402
+00:21:34.180 --> 00:21:37.459
+because in general, and we ask whether something is
+
+403
+00:21:37.469 --> 00:21:40.180
+a genuine part of reality kind of independent from
+
+404
+00:21:40.189 --> 00:21:43.229
+us or is perhaps like an illusion or maybe
+
+405
+00:21:43.239 --> 00:21:45.859
+a projection onto reality of some aspect of our
+
+406
+00:21:45.869 --> 00:21:49.680
+psychology. Um EVEN if we take it to be
+
+407
+00:21:49.689 --> 00:21:51.660
+a genuine part of reality, we can ask where
+
+408
+00:21:51.670 --> 00:21:55.180
+it's located, like how fundamental is it. So just
+
+409
+00:21:55.189 --> 00:21:58.130
+to help clarify that, I, I think that there
+
+410
+00:21:58.140 --> 00:22:00.729
+are lots of properties of material objects that they
+
+411
+00:22:00.739 --> 00:22:03.180
+have quite independently of us. For example, I think
+
+412
+00:22:03.510 --> 00:22:06.300
+that the table, that's the, the coffee table that's
+
+413
+00:22:06.310 --> 00:22:08.689
+next to me right now is a solid object
+
+414
+00:22:09.489 --> 00:22:11.810
+and, and more or less rigid. It's a rigid,
+
+415
+00:22:11.819 --> 00:22:15.319
+solid object. Um And I don't think that has
+
+416
+00:22:15.329 --> 00:22:17.050
+anything to do with me or anyone else. I
+
+417
+00:22:17.060 --> 00:22:20.349
+think it just is that way intrinsically independently of
+
+418
+00:22:20.359 --> 00:22:25.119
+how humans think about it. Um And, but even
+
+419
+00:22:25.130 --> 00:22:26.900
+if I'm right about that, it's not as if
+
+420
+00:22:26.910 --> 00:22:31.660
+solidity or rigidity, those two properties are fundamental. It's
+
+421
+00:22:31.670 --> 00:22:35.020
+not like quirks, you know, are solid and rigid
+
+422
+00:22:35.030 --> 00:22:36.969
+or not, you know, it's just not a, a
+
+423
+00:22:36.979 --> 00:22:40.390
+category that applies at that stage. So it's natural
+
+424
+00:22:40.400 --> 00:22:43.619
+to think in, in some sense, these properties of
+
+425
+00:22:43.630 --> 00:22:47.420
+the table are derivative of something deeper. And I
+
+426
+00:22:47.430 --> 00:22:50.359
+tend to favor approaches to causation that assume that
+
+427
+00:22:50.369 --> 00:22:52.130
+if it's part of the real furniture of the
+
+428
+00:22:52.140 --> 00:22:55.729
+world, it is. So in a derivative sense doesn't
+
+429
+00:22:55.739 --> 00:22:57.550
+make it any less real, just means it's not
+
+430
+00:22:57.560 --> 00:23:00.229
+fundamental now, that might not be right, but let's
+
+431
+00:23:00.239 --> 00:23:02.829
+run with it for a minute, right? Um Then
+
+432
+00:23:02.839 --> 00:23:05.310
+we can ask if it is derivative, what's it
+
+433
+00:23:05.319 --> 00:23:10.290
+derivative on? And to me, the most crucial ingredient
+
+434
+00:23:10.300 --> 00:23:12.680
+down at the foundations would be something like fundamental
+
+435
+00:23:12.689 --> 00:23:15.089
+loss of nature, you know, the aspects of the
+
+436
+00:23:15.099 --> 00:23:18.939
+real of reality that distinguish between what in a
+
+437
+00:23:18.949 --> 00:23:21.770
+kind of physical sense can happen and what can't
+
+438
+00:23:21.780 --> 00:23:25.770
+happen. Um And then we can ask, OK, well,
+
+439
+00:23:25.780 --> 00:23:28.819
+what about those elements of reality? Are they or
+
+440
+00:23:28.829 --> 00:23:30.890
+sorry? Elements of our description of reality? I should
+
+441
+00:23:30.900 --> 00:23:34.579
+be more careful, are they really part of reality
+
+442
+00:23:34.589 --> 00:23:37.020
+or are they simply something like a, a conceptual
+
+443
+00:23:37.030 --> 00:23:41.420
+overlay we impose on reality and there, I, I
+
+444
+00:23:41.430 --> 00:23:44.380
+don't know, I mean, depending on the time of
+
+445
+00:23:44.390 --> 00:23:47.790
+day and how much coffee I've had and what
+
+446
+00:23:47.800 --> 00:23:49.829
+mood I'm in, I'll sort of lean one way
+
+447
+00:23:49.839 --> 00:23:53.229
+or the other. Um, AND I think that some
+
+448
+00:23:53.239 --> 00:23:55.369
+of the most interesting recent work in metaphysics and
+
+449
+00:23:55.380 --> 00:23:57.930
+philosophy, science has been about this question and there's
+
+450
+00:23:57.939 --> 00:24:00.829
+a kind of divide between people on one side
+
+451
+00:24:00.839 --> 00:24:03.930
+who view themselves as heirs to David Hume and
+
+452
+00:24:03.939 --> 00:24:06.949
+think like no reality itself doesn't have any law
+
+453
+00:24:06.969 --> 00:24:10.260
+or necessity in it. Um It's rather that we
+
+454
+00:24:10.270 --> 00:24:12.459
+can describe it in certain ways that are useful
+
+455
+00:24:12.469 --> 00:24:15.010
+to us. Now, we can pick out certain claims
+
+456
+00:24:15.020 --> 00:24:16.819
+about reality or at least could if we knew
+
+457
+00:24:16.829 --> 00:24:21.959
+enough as being the laws, not because they're metaphysically
+
+458
+00:24:21.969 --> 00:24:25.760
+special, but because those claims are particularly useful to
+
+459
+00:24:25.770 --> 00:24:27.800
+us in organizing our view of the world. That's
+
+460
+00:24:27.810 --> 00:24:30.459
+a kind of quick overview of like one way
+
+461
+00:24:30.469 --> 00:24:33.949
+of thinking about um law. Um And then there
+
+462
+00:24:33.959 --> 00:24:35.380
+are people on the other side who think no,
+
+463
+00:24:35.390 --> 00:24:38.359
+no, the world really does have necessity in it.
+
+464
+00:24:38.369 --> 00:24:41.709
+There are lots of variations on that second view.
+
+465
+00:24:41.890 --> 00:24:44.300
+Um But, but I find it, I find that
+
+466
+00:24:44.310 --> 00:24:47.939
+a really deep question and it's not clear how
+
+467
+00:24:47.949 --> 00:24:49.880
+to get to the bottom of it right now.
+
+468
+00:24:49.890 --> 00:24:52.599
+I think the most productive work is being done
+
+469
+00:24:52.609 --> 00:24:55.359
+just trying to lay out those options with as
+
+470
+00:24:55.369 --> 00:24:58.359
+much clarity and depth as possible so that we
+
+471
+00:24:58.369 --> 00:25:00.530
+can get to the point where we can ask
+
+472
+00:25:00.540 --> 00:25:02.920
+this harder question, how would we decide between them?
+
+473
+00:25:03.130 --> 00:25:04.430
+But I don't think we're there yet.
+
+474
+00:25:06.329 --> 00:25:08.750
+I mean, I guess that if we wanted to
+
+475
+00:25:08.760 --> 00:25:13.040
+really complicate this question about the metaphysical status of
+
+476
+00:25:13.050 --> 00:25:16.170
+position to the maximum extent, I guess we could
+
+477
+00:25:16.180 --> 00:25:19.449
+say something like or start with something like OK,
+
+478
+00:25:19.459 --> 00:25:24.000
+so uh uh uh in my question, I mentioned
+
+479
+00:25:24.010 --> 00:25:27.979
+uh things and then I mentioned causal causal relations
+
+480
+00:25:27.989 --> 00:25:31.770
+between them. But even mentioning things themselves is already
+
+481
+00:25:31.780 --> 00:25:36.719
+starting from an assumption that there are actually things
+
+482
+00:25:36.750 --> 00:25:40.280
+in the world. I mean, sort of optic perspective
+
+483
+00:25:40.290 --> 00:25:42.739
+of the world because if you get into stuff
+
+484
+00:25:42.750 --> 00:25:47.959
+like there are people coming from complexity theory and
+
+485
+00:25:47.969 --> 00:25:52.319
+dynamical systems theory, chaos theory that I intend to
+
+486
+00:25:52.329 --> 00:25:58.040
+talk more about relations processes and they don't like
+
+487
+00:25:58.520 --> 00:26:02.699
+things, they don't really like to talk about things
+
+488
+00:26:02.709 --> 00:26:06.199
+or whatever I think might be and then uh
+
+489
+00:26:06.430 --> 00:26:10.760
+to complicate even further, we might get into stuff
+
+490
+00:26:10.770 --> 00:26:15.510
+like neuroscience and cognitive science and say, and physics
+
+491
+00:26:15.520 --> 00:26:18.939
+as well and say, but look even the things
+
+492
+00:26:18.949 --> 00:26:22.859
+you are referring to are not there really because
+
+493
+00:26:22.869 --> 00:26:25.510
+that's only what you see, what we see through
+
+494
+00:26:25.520 --> 00:26:30.300
+our perception. And so whatever we are referring to
+
+495
+00:26:30.530 --> 00:26:34.140
+that is also not part of the structure of
+
+496
+00:26:34.150 --> 00:26:38.890
+reality itself and that's another complication. Uh And then,
+
+497
+00:26:39.260 --> 00:26:41.439
+and then, I mean, there are people II, I
+
+498
+00:26:41.449 --> 00:26:44.339
+mean, I mentioned the people who prefer things like
+
+499
+00:26:44.349 --> 00:26:47.099
+relations or processes. But then on the other side,
+
+500
+00:26:47.109 --> 00:26:50.160
+people who prefer to talk about things, they might
+
+501
+00:26:50.170 --> 00:26:55.219
+say that, I mean, possibly causation is not even
+
+502
+00:26:55.229 --> 00:26:58.020
+part of the structure of reality itself. It's just,
+
+503
+00:26:58.030 --> 00:27:03.099
+it's just how we experience uh I mean, events
+
+504
+00:27:03.109 --> 00:27:07.939
+happening or things I interacting with, with one another.
+
+505
+00:27:08.109 --> 00:27:13.869
+It's just moral, uh let's say an epistemological approach
+
+506
+00:27:13.880 --> 00:27:18.589
+to whatever we experienced or something along those lines.
+
+507
+00:27:18.599 --> 00:27:21.949
+But wherever the case, I mean, it doesn't matter
+
+508
+00:27:21.959 --> 00:27:26.339
+if people from complexity theory or some other similar
+
+509
+00:27:26.349 --> 00:27:30.729
+approach or the atomist are, right? Uh uh But
+
+510
+00:27:31.349 --> 00:27:35.410
+uh if one or the other is right, also
+
+511
+00:27:35.540 --> 00:27:42.010
+the way we understand causation itself, it changes completely,
+
+512
+00:27:42.250 --> 00:27:45.900
+right? And so I guess that what I'm trying
+
+513
+00:27:45.910 --> 00:27:50.170
+to say is that when considering the metaphysical or
+
+514
+00:27:50.189 --> 00:27:54.699
+ontological status of causation, we could get into all
+
+515
+00:27:54.709 --> 00:27:57.150
+of these sorts of complications.
+
+516
+00:27:57.780 --> 00:28:00.140
+Yeah, I think, I think one of one of
+
+517
+00:28:00.150 --> 00:28:02.790
+the things that attracts me to thinking of causation
+
+518
+00:28:03.750 --> 00:28:07.050
+as derivative is it allows you to be flexible
+
+519
+00:28:07.060 --> 00:28:10.849
+in no, like I, if any time we take
+
+520
+00:28:10.859 --> 00:28:13.810
+something to be fundamental, the question naturally arises like,
+
+521
+00:28:13.819 --> 00:28:16.660
+well, which category are you putting it in? No.
+
+522
+00:28:16.689 --> 00:28:20.290
+Um um No, it would be, it might be
+
+523
+00:28:20.300 --> 00:28:22.689
+weird to say there are things that are fundamental
+
+524
+00:28:22.699 --> 00:28:25.770
+and there are also processes that are fundamental and
+
+525
+00:28:25.780 --> 00:28:28.380
+there are, you know, events that are fundamental, you
+
+526
+00:28:28.390 --> 00:28:31.900
+know, all together. No. Um BUT but I I'm
+
+527
+00:28:31.910 --> 00:28:34.050
+a kind of like, I'm hopeful that we, when
+
+528
+00:28:34.060 --> 00:28:36.270
+it comes to causation, we can be ecumenical and
+
+529
+00:28:36.280 --> 00:28:38.609
+say like, well for certain purposes, it might be
+
+530
+00:28:38.869 --> 00:28:41.530
+useful to think about some part of the world
+
+531
+00:28:41.829 --> 00:28:45.770
+as carved up into processes, not distinct things say.
+
+532
+00:28:46.239 --> 00:28:50.040
+Um um But you can still like, especially if
+
+533
+00:28:50.050 --> 00:28:53.689
+you take a broadly counterfactual approach, talk about dependence,
+
+534
+00:28:53.699 --> 00:28:56.930
+relations between different stages of a process just as
+
+535
+00:28:56.939 --> 00:29:00.439
+you can talk about like dependence, relations between something
+
+536
+00:29:00.449 --> 00:29:02.199
+that a thing is doing at one time and
+
+537
+00:29:02.209 --> 00:29:04.030
+something that some other thing is doing at another
+
+538
+00:29:04.040 --> 00:29:07.060
+time. Um I do think though, like your, your
+
+539
+00:29:07.069 --> 00:29:10.800
+comment made me like realize that there's more to
+
+540
+00:29:10.810 --> 00:29:13.900
+say about this reality question when it comes to
+
+541
+00:29:13.910 --> 00:29:19.560
+distinctions between different kinds of causes. Um Because when
+
+542
+00:29:19.569 --> 00:29:21.810
+we think about the world, it's not just that
+
+543
+00:29:21.819 --> 00:29:23.849
+we think about the world in causal terms, we
+
+544
+00:29:23.859 --> 00:29:27.969
+also have causal taxonomies. Um No, we think of
+
+545
+00:29:27.979 --> 00:29:33.250
+flammability as a distinct power from solubility, say um
+
+546
+00:29:33.260 --> 00:29:34.540
+or if I want to do it in terms
+
+547
+00:29:34.550 --> 00:29:39.920
+of processes, we think that no, when, when Susie
+
+548
+00:29:39.930 --> 00:29:42.510
+throws a rock at a window and Billy throws
+
+549
+00:29:42.520 --> 00:29:44.439
+a rock at a window, maybe they're throwing it
+
+550
+00:29:44.449 --> 00:29:47.560
+separate windows now and both windows break that it's
+
+551
+00:29:47.569 --> 00:29:50.199
+the same kind of process in each case that
+
+552
+00:29:50.209 --> 00:29:53.489
+led to the windows breaking. Whereas, you know, if,
+
+553
+00:29:53.500 --> 00:29:56.920
+if an airplane goes by and breaks the sound
+
+554
+00:29:56.930 --> 00:29:59.209
+barrier and the Sonic boom breaks the window. That's
+
+555
+00:29:59.219 --> 00:30:02.459
+a different kind of process. And that seems very
+
+556
+00:30:02.469 --> 00:30:04.569
+important in the sciences too. I remember, you know,
+
+557
+00:30:04.579 --> 00:30:06.609
+way, way back, I won't tell you how long
+
+558
+00:30:06.619 --> 00:30:09.329
+ago that's that secret. But when I was studying
+
+559
+00:30:09.339 --> 00:30:12.729
+chemistry as an undergraduate, um part of what we
+
+560
+00:30:12.739 --> 00:30:14.949
+had to learn when we were learning organic chemistry
+
+561
+00:30:14.959 --> 00:30:18.560
+is distinct reaction mechanisms. That was a basic explanatory
+
+562
+00:30:18.569 --> 00:30:20.489
+notion in the field, the notion of a distinct
+
+563
+00:30:20.500 --> 00:30:23.660
+reaction mechanism. And that's a causal notion we're thinking
+
+564
+00:30:23.670 --> 00:30:26.800
+about like there are chemical reactions about in the
+
+565
+00:30:26.810 --> 00:30:29.810
+world. A lot of particular chemical reactions gazillions of
+
+566
+00:30:29.819 --> 00:30:33.410
+them happening all the time. And we categorize those
+
+567
+00:30:33.420 --> 00:30:37.939
+causal processes, those individual discrete causal processes into types
+
+568
+00:30:37.949 --> 00:30:40.189
+and say like, well, all these reactions are the
+
+569
+00:30:40.199 --> 00:30:42.989
+same and all these reactions are different but similar
+
+570
+00:30:43.000 --> 00:30:45.290
+in the following way and so on. And it's
+
+571
+00:30:45.300 --> 00:30:47.630
+really, really important to the advancement of science that
+
+572
+00:30:47.640 --> 00:30:50.979
+we have an effective way of doing that like
+
+573
+00:30:50.989 --> 00:30:57.209
+a useful, flexible illuminating taxonomy of causal types. OK?
+
+574
+00:30:57.489 --> 00:31:00.670
+Is, are those distinctions real we can ask your
+
+575
+00:31:00.680 --> 00:31:04.369
+question? Um OR they are they somehow imposed by
+
+576
+00:31:04.380 --> 00:31:06.630
+us now? Like you could put it this way
+
+577
+00:31:06.640 --> 00:31:09.750
+from a God's eye view. Are there any distinctions
+
+578
+00:31:10.020 --> 00:31:13.989
+but like built in distinctions between causal types? Um
+
+579
+00:31:14.000 --> 00:31:17.619
+OR, or any such distinctions that are special? No,
+
+580
+00:31:17.729 --> 00:31:19.780
+we can draw distinctions all over the place. But
+
+581
+00:31:20.229 --> 00:31:21.969
+when in fact, what we do is we draw
+
+582
+00:31:21.979 --> 00:31:24.430
+them in very particular ways we say like, no,
+
+583
+00:31:24.439 --> 00:31:28.000
+this reaction is really fundamentally different from this reaction
+
+584
+00:31:28.010 --> 00:31:31.989
+mechanism. Um But in saying that, are we tracking
+
+585
+00:31:32.000 --> 00:31:34.020
+a distinction that's like out there in the world
+
+586
+00:31:34.030 --> 00:31:36.530
+and we're simply discovering it or are we imposing
+
+587
+00:31:36.540 --> 00:31:39.640
+a kind of taxonomic structure on the world? That's
+
+588
+00:31:39.650 --> 00:31:43.160
+another question I find really interesting. Um And I,
+
+589
+00:31:43.170 --> 00:31:45.469
+I think this is gonna sound wishy washy. I
+
+590
+00:31:45.479 --> 00:31:47.229
+think this is a theme in, in my work.
+
+591
+00:31:47.239 --> 00:31:50.689
+But I think somehow there's a combination somehow like
+
+592
+00:31:50.699 --> 00:31:52.989
+there's a lot of imposition on the world that
+
+593
+00:31:53.000 --> 00:31:56.020
+we do. Um But the world lends itself to
+
+594
+00:31:56.030 --> 00:31:58.979
+being imposed on by creatures like us in some
+
+595
+00:31:58.989 --> 00:32:00.109
+ways better than others.
+
+596
+00:32:01.270 --> 00:32:04.449
+Yeah, I think that that last bit connects to
+
+597
+00:32:04.599 --> 00:32:07.969
+one of the brief things I mentioned in my
+
+598
+00:32:07.979 --> 00:32:12.770
+previous question when I said that uh perhaps we
+
+599
+00:32:12.780 --> 00:32:16.770
+should think if something is just part of the
+
+600
+00:32:16.780 --> 00:32:21.959
+way we epistemological approach the world or part of
+
+601
+00:32:21.969 --> 00:32:26.300
+reality itself because, and, and that's a very, I
+
+602
+00:32:26.380 --> 00:32:31.560
+guess, complicated question because to, to know what the
+
+603
+00:32:31.569 --> 00:32:34.459
+world is about the nature of reality, we have
+
+604
+00:32:34.469 --> 00:32:40.114
+to approach it with some epistemological framework in mind.
+
+605
+00:32:40.484 --> 00:32:45.915
+But then, but then separating what is epistemology from
+
+606
+00:32:45.925 --> 00:32:51.435
+what is metaphysics is very, very complicated and sometimes
+
+607
+00:32:51.525 --> 00:32:56.685
+we as humans might get uh iii I mean,
+
+608
+00:32:56.694 --> 00:33:02.989
+might find ourselves uh confusing what is part of
+
+609
+00:33:03.000 --> 00:33:09.380
+the epistemological framework with what is reality itself.
+
+610
+00:33:09.390 --> 00:33:12.270
+Yeah, I think that's, that's exactly Right. And that's
+
+611
+00:33:12.280 --> 00:33:15.869
+a really important insight and, and going back to
+
+612
+00:33:15.979 --> 00:33:18.099
+your first question about like, how, how do I
+
+613
+00:33:18.109 --> 00:33:21.900
+approach the study of causation part of what ended
+
+614
+00:33:21.910 --> 00:33:24.199
+up making me a little frustrated with the old
+
+615
+00:33:24.209 --> 00:33:27.089
+fashioned way of like, we just amass, just generate
+
+616
+00:33:27.099 --> 00:33:29.010
+intuitions about cases and try to come up with
+
+617
+00:33:29.020 --> 00:33:31.579
+a good analysis. Is it, is it, it's kind
+
+618
+00:33:31.589 --> 00:33:35.420
+of blind to this point you're making no, like
+
+619
+00:33:35.430 --> 00:33:38.689
+you wonder like, well, why are like, like what's
+
+620
+00:33:38.699 --> 00:33:41.119
+the value in the analysis? Is it getting at
+
+621
+00:33:41.130 --> 00:33:43.439
+the the way like if we have a successful
+
+622
+00:33:43.449 --> 00:33:46.449
+analysis, has it revealed to us the metaphysical nature
+
+623
+00:33:46.459 --> 00:33:48.569
+of causation? Or is it simply revealed to us
+
+624
+00:33:48.579 --> 00:33:51.359
+something about our own minds and how we find
+
+625
+00:33:51.369 --> 00:33:54.369
+it convenient to think? And, and I think it
+
+626
+00:33:54.380 --> 00:33:56.609
+can be, it can be good but very difficult
+
+627
+00:33:56.619 --> 00:33:59.729
+to just front load that question, right? And, and
+
+628
+00:33:59.739 --> 00:34:03.819
+ask like, what, what kinds of epistemic and practical
+
+629
+00:34:03.829 --> 00:34:06.609
+needs do we have such that thinking in one
+
+630
+00:34:06.619 --> 00:34:08.790
+way rather than another is gonna be effective at
+
+631
+00:34:08.800 --> 00:34:12.620
+meeting those needs? And once we're sufficiently aware of
+
+632
+00:34:12.629 --> 00:34:15.699
+that, how should we rethink that metaphysics epistemology divide?
+
+633
+00:34:16.040 --> 00:34:20.688
+You know, 11 area that I think could use
+
+634
+00:34:20.909 --> 00:34:24.540
+more attention here, believe it or not, is mathematics
+
+635
+00:34:24.790 --> 00:34:26.659
+now, we don't think of causation is happening in
+
+636
+00:34:26.668 --> 00:34:31.610
+mathematics. Um But, but we do talk about explanation
+
+637
+00:34:31.620 --> 00:34:34.550
+and we do work with a conception of mathematics
+
+638
+00:34:34.560 --> 00:34:38.610
+that is structured like even the basic distinction between
+
+639
+00:34:38.620 --> 00:34:40.899
+what counts as an axiom of a certain branch
+
+640
+00:34:40.909 --> 00:34:45.069
+of mathematics versus a theorem um is, is kind
+
+641
+00:34:45.079 --> 00:34:48.697
+of imposing some structure on, on the subject matter.
+
+642
+00:34:49.069 --> 00:34:51.789
+And there too, like there, II I think one
+
+643
+00:34:51.799 --> 00:34:53.728
+thing that can be helpful about thinking about mathematics
+
+644
+00:34:53.739 --> 00:34:56.539
+is it's, it's a little more tractable. Like I,
+
+645
+00:34:56.549 --> 00:34:58.928
+I tend to think for ex if we go
+
+646
+00:34:58.938 --> 00:35:01.708
+back to the, the, the distinction between axioms and
+
+647
+00:35:01.718 --> 00:35:05.368
+theorems that there's nothing in metaphysical reality that draws
+
+648
+00:35:05.378 --> 00:35:10.540
+a distinction between axioms and theorems. Whether um or,
+
+649
+00:35:10.550 --> 00:35:13.139
+or, or at least not just out in metaphysical
+
+650
+00:35:13.149 --> 00:35:16.800
+reality. What's true is that certain claims strike us
+
+651
+00:35:16.810 --> 00:35:21.290
+as obvious? No. Um MAYBE so obvious that they
+
+652
+00:35:21.300 --> 00:35:23.510
+wouldn't become more obvious if we proved them from
+
+653
+00:35:23.520 --> 00:35:27.760
+other mathematical claims. And for those reasons and maybe
+
+654
+00:35:27.770 --> 00:35:31.600
+because they're like sufficiently powerful enough that we can
+
+655
+00:35:31.610 --> 00:35:34.000
+prove lots of things from them, we over time
+
+656
+00:35:34.010 --> 00:35:36.860
+settle on some is playing the role of axioms
+
+657
+00:35:37.290 --> 00:35:40.250
+now. But there's a nice example if, if that's
+
+658
+00:35:40.260 --> 00:35:42.840
+right of a distinction where it could be really
+
+659
+00:35:42.850 --> 00:35:45.810
+easy to be tempted by the metaphysical picture, like
+
+660
+00:35:45.840 --> 00:35:48.610
+some truths about arithmetic or about the numbers are
+
+661
+00:35:48.620 --> 00:35:53.060
+just metaphysically fundamental. And those are the axioms, you
+
+662
+00:35:53.070 --> 00:35:55.479
+don't have to go that way and, and it's
+
+663
+00:35:55.489 --> 00:35:57.590
+more productive, I think, to step back and ask
+
+664
+00:35:57.600 --> 00:36:00.320
+like, well, why, what is the notion of axiom
+
+665
+00:36:00.330 --> 00:36:02.110
+do for us? Why do we need it? And
+
+666
+00:36:02.120 --> 00:36:04.709
+then you can start reflecting that well, we need
+
+667
+00:36:04.719 --> 00:36:07.659
+to regulate our practice with each other of, you
+
+668
+00:36:07.669 --> 00:36:10.239
+know, doing mathematics, say, doing the theory of arithmetic
+
+669
+00:36:10.250 --> 00:36:11.879
+in a certain way. And it's helpful to have
+
+670
+00:36:11.889 --> 00:36:13.699
+some statements that we can all point to as
+
+671
+00:36:13.709 --> 00:36:16.080
+ones that, that in principle, at least should be
+
+672
+00:36:16.090 --> 00:36:19.209
+starting points and, and so on. And likewise, in
+
+673
+00:36:19.219 --> 00:36:21.629
+the case of causation, I think it's, it's useful
+
+674
+00:36:21.639 --> 00:36:25.030
+to think like what does structuring our conception of
+
+675
+00:36:25.040 --> 00:36:27.050
+the world or some portion of the world in
+
+676
+00:36:27.060 --> 00:36:30.659
+causal terms do for us collectively? And how, how
+
+677
+00:36:30.669 --> 00:36:34.850
+might getting clear about that about our own epistemic
+
+678
+00:36:34.860 --> 00:36:37.830
+and practical needs and the way they drive the
+
+679
+00:36:37.840 --> 00:36:39.949
+way we set up our thought, how could that
+
+680
+00:36:39.959 --> 00:36:43.169
+get us to rethink the metaphysics epistemology divide? That's
+
+681
+00:36:43.179 --> 00:36:46.350
+a really great um question. And I think a
+
+682
+00:36:46.360 --> 00:36:49.389
+really productive area for inquiry in philosophy.
+
+683
+00:36:49.879 --> 00:36:53.189
+Yeah. And I mean, you mentioned mathematics there and
+
+684
+00:36:53.199 --> 00:36:56.040
+it's very interesting because there's also this never ending
+
+685
+00:36:56.050 --> 00:37:02.040
+discussion about if uh the numbers, mathematics, I know
+
+686
+00:37:02.050 --> 00:37:07.889
+geometric structures are part of reality itself or if
+
+687
+00:37:08.179 --> 00:37:11.780
+mathematics uh the entire field of mathematics is just
+
+688
+00:37:11.790 --> 00:37:15.040
+a human invention. And we can't really attribute any
+
+689
+00:37:15.409 --> 00:37:21.679
+metaphysical reality to numbers and geometrical structures. And all
+
+690
+00:37:21.689 --> 00:37:24.560
+of that, I mean, II, I have to admit
+
+691
+00:37:24.570 --> 00:37:27.479
+that there are parts of it that if, if,
+
+692
+00:37:27.489 --> 00:37:32.260
+for example, if it's true that reality itself is
+
+693
+00:37:32.270 --> 00:37:37.000
+just uh some geometric structure or something like that.
+
+694
+00:37:37.540 --> 00:37:41.449
+Uh ME as a human, I can't understand what
+
+695
+00:37:41.459 --> 00:37:43.639
+that really means. I might, I mean, I might
+
+696
+00:37:43.649 --> 00:37:47.719
+understand the mathematics itself. I might be able to
+
+697
+00:37:47.729 --> 00:37:52.820
+visualize to some extent the geometric structure, but I,
+
+698
+00:37:52.830 --> 00:37:53.689
+I don't know.
+
+699
+00:37:53.729 --> 00:37:54.469
+Right.
+
+700
+00:37:54.570 --> 00:37:56.919
+With the real implications.
+
+701
+00:37:56.929 --> 00:38:00.399
+That's right. Right. Right. Right. One of the more
+
+702
+00:38:00.409 --> 00:38:02.449
+radical views I've come across is the view that
+
+703
+00:38:02.459 --> 00:38:06.870
+reality itself just is a mathematical object. And I,
+
+704
+00:38:06.879 --> 00:38:09.909
+I share your bafflement at that, but it's fascinating.
+
+705
+00:38:09.919 --> 00:38:11.429
+I mean, this is a great thing about philosophy,
+
+706
+00:38:11.439 --> 00:38:14.310
+you get to explore these completely wacky ideas and
+
+707
+00:38:14.320 --> 00:38:17.669
+as long as you do so rigorously, yeah. And
+
+708
+00:38:17.679 --> 00:38:19.870
+I just like one follow up to that your,
+
+709
+00:38:19.879 --> 00:38:22.500
+your point about just numbers in general, like, like,
+
+710
+00:38:22.510 --> 00:38:26.149
+or, or mathematical objects, maybe they're not part of
+
+711
+00:38:26.159 --> 00:38:28.919
+reality in some sense that you can kind of
+
+712
+00:38:28.929 --> 00:38:31.649
+zoom out and notice that this divide between metaphysics
+
+713
+00:38:31.659 --> 00:38:34.340
+and epistemology. Can you, you, you could have different
+
+714
+00:38:34.350 --> 00:38:36.949
+views about where it comes up. So I, I
+
+715
+00:38:36.959 --> 00:38:40.510
+might think that mathematics is entirely kind of, you
+
+716
+00:38:40.520 --> 00:38:44.459
+know, epistemology if you like no, that like there,
+
+717
+00:38:44.469 --> 00:38:46.870
+as far as the metaphysics of mathematical objects are
+
+718
+00:38:46.879 --> 00:38:48.739
+concerned, maybe I, I might think there's nothing to
+
+719
+00:38:48.750 --> 00:38:52.270
+say they're not, they're not real but uh like,
+
+720
+00:38:52.409 --> 00:38:54.699
+maybe they are useful fiction or, I mean, I'll
+
+721
+00:38:54.709 --> 00:38:56.939
+have to tell some story about what we're doing
+
+722
+00:38:56.949 --> 00:38:59.250
+when we do mathematics. But even if I'm a
+
+723
+00:38:59.260 --> 00:39:02.620
+platonist about like numbers, suppose, I think numbers really
+
+724
+00:39:02.629 --> 00:39:06.250
+exist independently of us and have their mathematical properties
+
+725
+00:39:06.260 --> 00:39:09.870
+independently of us. I still might be as, or
+
+726
+00:39:09.879 --> 00:39:13.030
+an epistemology about the distinction between axioms and theorems,
+
+727
+00:39:13.070 --> 00:39:16.870
+considering the numbers, right? That distinction, just because I'm
+
+728
+00:39:16.879 --> 00:39:19.439
+a realist about one part of mathematics doesn't mean
+
+729
+00:39:19.449 --> 00:39:22.120
+I'm a realist about everything, every part of mathematical
+
+730
+00:39:22.129 --> 00:39:25.409
+practice. Um, AND same so too, you know, with
+
+731
+00:39:25.419 --> 00:39:27.830
+causation and laws of nature and things like that,
+
+732
+00:39:27.840 --> 00:39:28.260
+I think.
+
+733
+00:39:29.030 --> 00:39:32.320
+Mhm. But uh by the way, since you mentioned
+
+734
+00:39:32.330 --> 00:39:36.290
+laws of nature, um what, what is the law
+
+735
+00:39:36.300 --> 00:39:39.510
+of nature? Exactly? Because I guess that should be
+
+736
+00:39:39.520 --> 00:39:44.469
+a very controversial uh thing, right? I, I mean,
+
+737
+00:39:44.479 --> 00:39:48.050
+of course, for example, in science, if we're talking
+
+738
+00:39:48.060 --> 00:39:52.040
+about physics, OK, I guess there's no big deal
+
+739
+00:39:52.050 --> 00:39:56.530
+in using uh a word like law there. But
+
+740
+00:39:56.540 --> 00:40:00.000
+if we get into something like, I mean, if
+
+741
+00:40:00.010 --> 00:40:02.879
+we look at it as different levels of analysis,
+
+742
+00:40:02.889 --> 00:40:04.889
+of course, we can have a different view of
+
+743
+00:40:04.899 --> 00:40:07.570
+it. But if we go with that and we
+
+744
+00:40:07.580 --> 00:40:12.790
+go even one step above physics, then using something
+
+745
+00:40:12.800 --> 00:40:17.090
+like law or law of nature already gets very,
+
+746
+00:40:17.100 --> 00:40:21.489
+very controversial. So what does that mean exactly in
+
+747
+00:40:21.500 --> 00:40:25.489
+this context of trying to figure out what the
+
+748
+00:40:25.969 --> 00:40:30.810
+compositional structure of reality is and also associated with
+
+749
+00:40:30.820 --> 00:40:33.010
+the philosophy of causation?
+
+750
+00:40:33.929 --> 00:40:38.590
+Right? Great question. Um I mean, my, my own
+
+751
+00:40:38.600 --> 00:40:40.870
+view is that the concept of love of nature
+
+752
+00:40:42.270 --> 00:40:44.810
+has, has a few roles to play. But, but
+
+753
+00:40:44.820 --> 00:40:47.620
+that we should start by distinguishing like fundamental laws
+
+754
+00:40:47.629 --> 00:40:49.570
+of nature and other things that we might loosely
+
+755
+00:40:49.580 --> 00:40:52.600
+call laws of nature and that fundamental laws of
+
+756
+00:40:52.610 --> 00:40:56.409
+nature are whatever it is um about reality or
+
+757
+00:40:56.419 --> 00:41:01.199
+perhaps about our conception of reality that draws it
+
+758
+00:41:01.209 --> 00:41:04.250
+a, a basic distinction between what can happen and
+
+759
+00:41:04.260 --> 00:41:08.350
+what can't um where the can and can't have
+
+760
+00:41:08.360 --> 00:41:11.649
+to be understood in an appropriately kind of physical
+
+761
+00:41:11.659 --> 00:41:15.850
+sense. No. Um uh Sometimes philosophers talk about what's
+
+762
+00:41:15.860 --> 00:41:20.729
+metaphysically possible. No. And, and they know the imagination
+
+763
+00:41:20.739 --> 00:41:22.959
+runs wild, but when we're talking about what's physically
+
+764
+00:41:22.969 --> 00:41:27.120
+possible, we can strain ourselves. Um And, and I
+
+765
+00:41:27.129 --> 00:41:29.770
+think that that so understood that the notion is
+
+766
+00:41:29.780 --> 00:41:32.070
+tied to things in our ordinary experience. Now, if
+
+767
+00:41:32.080 --> 00:41:34.689
+I have like here's my phone, for example, if
+
+768
+00:41:34.699 --> 00:41:37.090
+I let it go, you know, it's gonna fall
+
+769
+00:41:37.100 --> 00:41:40.020
+onto my lap. Um And it's not just that
+
+770
+00:41:40.030 --> 00:41:41.800
+it's going to, but in some sense, it has
+
+771
+00:41:41.810 --> 00:41:45.300
+to given that there's nothing supported, supporting it, you
+
+772
+00:41:45.310 --> 00:41:49.040
+know, other kinds of behavior would be impossible. So
+
+773
+00:41:49.050 --> 00:41:51.340
+we recognize this distinction in a kind of in
+
+774
+00:41:51.350 --> 00:41:53.219
+coate way just all the time in our ordinary
+
+775
+00:41:53.229 --> 00:41:55.590
+life when we think, you know, there, there are
+
+776
+00:41:55.600 --> 00:41:58.840
+things that could happen and things that couldn't. Um
+
+777
+00:41:58.989 --> 00:42:03.080
+And fundamentally in, in the, it, maybe I should
+
+778
+00:42:03.090 --> 00:42:05.199
+be careful about over using the word fundamentally. But
+
+779
+00:42:05.209 --> 00:42:07.459
+at bottom, I think we want a notion of
+
+780
+00:42:07.469 --> 00:42:09.870
+law of nature to draw that kind of distinction.
+
+781
+00:42:10.179 --> 00:42:14.139
+Um And then the um the, the like astonishing
+
+782
+00:42:14.149 --> 00:42:18.129
+ambition of modern physics is to articulate the structure
+
+783
+00:42:18.139 --> 00:42:21.550
+of what's possible in this incredibly mathematically elegant fashion.
+
+784
+00:42:22.000 --> 00:42:26.449
+No. And uh that physicists like um like uh
+
+785
+00:42:26.510 --> 00:42:28.699
+draw attention to when they talk about things like
+
+786
+00:42:28.709 --> 00:42:31.179
+Newton's laws which uh they didn't quite work or
+
+787
+00:42:31.189 --> 00:42:35.580
+Maxwell's equations or the shorting and so on. Um
+
+788
+00:42:35.820 --> 00:42:38.610
+But I think, I think that there's a way
+
+789
+00:42:38.620 --> 00:42:42.020
+of, of there's another way in and here I'm
+
+790
+00:42:42.030 --> 00:42:44.810
+again, inspired by the work of Jim Woodward. Uh
+
+791
+00:42:44.820 --> 00:42:47.780
+TO think that there, there are claims about the
+
+792
+00:42:47.790 --> 00:42:51.090
+world that don't have that status, but that are
+
+793
+00:42:51.100 --> 00:42:54.090
+still really important to, to us. Jim calls them
+
+794
+00:42:54.100 --> 00:42:57.750
+highly invariant generalizations. So, so there might be some
+
+795
+00:42:57.760 --> 00:43:01.340
+generalization that's true about the world and would have
+
+796
+00:43:01.350 --> 00:43:05.449
+remained true under a wide range of different circumstances.
+
+797
+00:43:06.129 --> 00:43:09.360
+Um So chemistry is chock full of things like
+
+798
+00:43:09.370 --> 00:43:12.729
+this like, you know, um there's a generalization that
+
+799
+00:43:12.739 --> 00:43:15.750
+if you take a hydrocarbon and, and mix it
+
+800
+00:43:15.760 --> 00:43:20.110
+with oxygen and add enough energy, you'll get combustion,
+
+801
+00:43:20.370 --> 00:43:23.560
+you know. Um BUT that's not a law of
+
+802
+00:43:23.570 --> 00:43:27.280
+nature in the physicist sense there, they're interfering conditions
+
+803
+00:43:27.290 --> 00:43:30.179
+that could make it not happen. It's, it's sort
+
+804
+00:43:30.189 --> 00:43:33.699
+of probabilistic, it's not absolutely guaranteed to happen, you
+
+805
+00:43:33.709 --> 00:43:36.209
+know, like you could have just a weird way
+
+806
+00:43:36.219 --> 00:43:39.149
+in which the hydrocarbons and oxygen are configured relative
+
+807
+00:43:39.159 --> 00:43:40.810
+to each other where they just happen, not to
+
+808
+00:43:40.820 --> 00:43:43.489
+be able to react. Um But it's still, it's
+
+809
+00:43:43.500 --> 00:43:46.830
+a fairly robust generalization um invariant under a wide
+
+810
+00:43:46.840 --> 00:43:49.290
+range of circumstances. And there's a way you could
+
+811
+00:43:49.300 --> 00:43:51.770
+think of what the physicists are after as the
+
+812
+00:43:51.780 --> 00:43:56.000
+most invariant generalizations. No, the maximally invariant ones, the
+
+813
+00:43:56.010 --> 00:43:59.169
+ones where you don't have to worry about anything
+
+814
+00:43:59.179 --> 00:44:02.870
+interfering because the law itself is so comprehensive that
+
+815
+00:44:02.879 --> 00:44:06.350
+it covers anything that could qualify as an interference.
+
+816
+00:44:06.750 --> 00:44:09.760
+Um So I, I tend to think like in,
+
+817
+00:44:09.770 --> 00:44:11.750
+in the history of philosophy, science, I think there,
+
+818
+00:44:11.760 --> 00:44:14.409
+there was an overemphasis on laws of nature as
+
+819
+00:44:14.879 --> 00:44:19.419
+as um kind of showing up in the same
+
+820
+00:44:19.429 --> 00:44:22.780
+way across different disciplines. You saw this in Carl
+
+821
+00:44:22.790 --> 00:44:27.469
+Hempel um deductive nomology kind of explanation where the
+
+822
+00:44:27.479 --> 00:44:30.560
+notion of law of nature was central there. But
+
+823
+00:44:30.570 --> 00:44:32.770
+he didn't really distinguish between the laws as they
+
+824
+00:44:32.780 --> 00:44:36.620
+show up in fundamental physics and quote unquote laws
+
+825
+00:44:36.629 --> 00:44:40.100
+where I would think with Woodward Ie highly invariant,
+
+826
+00:44:40.189 --> 00:44:43.489
+you know, generalizations that show up in, in other
+
+827
+00:44:43.500 --> 00:44:49.419
+um disciplines. Um But if, if we um again,
+
+828
+00:44:49.429 --> 00:44:51.199
+if we go back and, and ask like, well,
+
+829
+00:44:51.209 --> 00:44:55.060
+what's the core distinction we're after? I think it's
+
+830
+00:44:55.070 --> 00:44:57.520
+really the distinction between what in a physical sense
+
+831
+00:44:57.530 --> 00:44:59.979
+can happen and what can't happen. And then other
+
+832
+00:44:59.989 --> 00:45:02.530
+distinctions like among things that can happen, there may
+
+833
+00:45:02.540 --> 00:45:05.020
+also be distinction between how likely they are in
+
+834
+00:45:05.030 --> 00:45:06.879
+an objective sense. This is where we start getting
+
+835
+00:45:06.889 --> 00:45:08.649
+into probabilistic laws,
+
+836
+00:45:10.219 --> 00:45:13.360
+right? So, uh I, I think that perhaps we
+
+837
+00:45:13.370 --> 00:45:17.179
+have time just for one more question. So let
+
+838
+00:45:17.189 --> 00:45:19.639
+me ask you this, then that is something we
+
+839
+00:45:19.649 --> 00:45:22.959
+haven't got into yet. At least not very much.
+
+840
+00:45:22.969 --> 00:45:28.699
+So, is the causal structure of a process intrinsic
+
+841
+00:45:28.709 --> 00:45:28.939
+to it?
+
+842
+00:45:29.889 --> 00:45:34.110
+Oh Right. Yeah. So I used to think that
+
+843
+00:45:34.120 --> 00:45:36.139
+the answer is yes, that, that was a defining
+
+844
+00:45:36.149 --> 00:45:38.510
+feature of what we meant by a causal process.
+
+845
+00:45:39.409 --> 00:45:44.419
+Um And now I think um partly from thinking
+
+846
+00:45:44.429 --> 00:45:50.419
+seriously about processes in the social world that um
+
+847
+00:45:50.790 --> 00:45:54.169
+that the answer is, is no, not in general.
+
+848
+00:45:54.500 --> 00:45:59.520
+Um So, so why should we give a no
+
+849
+00:45:59.530 --> 00:46:01.909
+answer? Well, let me think if I can. So
+
+850
+00:46:01.919 --> 00:46:05.689
+suppose we're suppose the process we're considering is a
+
+851
+00:46:05.699 --> 00:46:10.899
+financial transaction. So an exchange of money for goods
+
+852
+00:46:10.909 --> 00:46:13.560
+or services and, and we think it's a causal
+
+853
+00:46:13.570 --> 00:46:16.979
+structure, like it's not just that Susie handed over
+
+854
+00:46:16.989 --> 00:46:19.909
+some paper and then, you know, like took a
+
+855
+00:46:19.919 --> 00:46:22.340
+cup of coffee, like one led to the other,
+
+856
+00:46:22.350 --> 00:46:25.540
+like there's a genuine process there. Um Now you
+
+857
+00:46:25.550 --> 00:46:28.000
+could analyze that process at the level of physics,
+
+858
+00:46:28.010 --> 00:46:31.669
+like there's just like two co some complicated physical
+
+859
+00:46:31.679 --> 00:46:36.129
+system, Susie, the barista, the machinery, you know, that
+
+860
+00:46:36.139 --> 00:46:38.120
+generates the coffee and they're all sort of interacting
+
+861
+00:46:38.129 --> 00:46:40.820
+in a way that begins with her, making certain
+
+862
+00:46:40.830 --> 00:46:44.340
+motions and ends with her like making certain motions.
+
+863
+00:46:44.909 --> 00:46:47.280
+But, but you can also describe that process in
+
+864
+00:46:47.290 --> 00:46:51.560
+a more illuminating way as an economic transaction. And,
+
+865
+00:46:51.570 --> 00:46:53.929
+and I don't think that's kind of incidental, I
+
+866
+00:46:53.939 --> 00:46:57.629
+think like we are, you know, describing it correctly
+
+867
+00:46:57.639 --> 00:47:01.760
+when we say like she, you know, uh paying
+
+868
+00:47:01.770 --> 00:47:06.399
+the, the uh barista caused the barista to give
+
+869
+00:47:06.409 --> 00:47:10.110
+her some coffee. OK. Um But now if we
+
+870
+00:47:10.120 --> 00:47:12.040
+just ask, step back and ask like, well, what,
+
+871
+00:47:12.050 --> 00:47:16.449
+what makes something count as paying? No, it has
+
+872
+00:47:16.459 --> 00:47:18.260
+to be a transfer of money. What makes something
+
+873
+00:47:18.270 --> 00:47:21.229
+count as money? Well, it's not what's intrinsic there.
+
+874
+00:47:22.020 --> 00:47:24.030
+No, like in fact, what makes something count as
+
+875
+00:47:24.040 --> 00:47:26.629
+money is complicated? It has something to do with
+
+876
+00:47:26.639 --> 00:47:30.820
+a whole network of common expectations about how certain,
+
+877
+00:47:31.510 --> 00:47:34.120
+you know, bits of paper or coin or, or
+
+878
+00:47:34.129 --> 00:47:37.979
+you know, data in a in a bank somewhere
+
+879
+00:47:37.989 --> 00:47:40.370
+is to be used. Um But at any rate,
+
+880
+00:47:40.379 --> 00:47:45.159
+what what makes that causal process can't like count
+
+881
+00:47:45.169 --> 00:47:47.959
+as a financial transaction is not intrinsic to it.
+
+882
+00:47:48.949 --> 00:47:51.179
+And yet I think it's being a financial transaction
+
+883
+00:47:51.189 --> 00:47:53.449
+is part of it's like, like that's essential to
+
+884
+00:47:53.459 --> 00:47:59.169
+its causal structure. Um So, so really simple thought,
+
+885
+00:47:59.179 --> 00:48:01.250
+which is like if I have a causal process
+
+886
+00:48:01.550 --> 00:48:05.810
+and I simply duplicate it perfectly intrinsically somewhere else,
+
+887
+00:48:05.820 --> 00:48:08.040
+then it'll still be the an instance of the
+
+888
+00:48:08.050 --> 00:48:11.110
+same causal process that that can't be right? I
+
+889
+00:48:11.120 --> 00:48:14.780
+don't think. Um BUT that said, I think it
+
+890
+00:48:14.790 --> 00:48:16.409
+is part of the way we think about causal
+
+891
+00:48:16.429 --> 00:48:20.929
+processes that, that over a wide range of circumstances,
+
+892
+00:48:20.939 --> 00:48:24.899
+duplicates of them will share their causal characteristics. So
+
+893
+00:48:24.969 --> 00:48:28.840
+in a normal economy another transaction that looked like
+
+894
+00:48:28.850 --> 00:48:30.419
+a bit of behavior that looked just like that
+
+895
+00:48:30.429 --> 00:48:33.050
+between Susie and the barista would still count as
+
+896
+00:48:33.060 --> 00:48:36.129
+a financial transaction even though if we like plucked
+
+897
+00:48:36.139 --> 00:48:38.270
+it out and I don't know, had, had a
+
+898
+00:48:38.280 --> 00:48:41.060
+perfect duplicate of this process happening out in space,
+
+899
+00:48:41.209 --> 00:48:43.260
+you know, with nothing around, it wouldn't be a
+
+900
+00:48:43.270 --> 00:48:46.760
+financial transaction there. It would be like two very
+
+901
+00:48:46.770 --> 00:48:50.260
+perplexed short lived beings, you know, doing some motions,
+
+902
+00:48:50.500 --> 00:48:53.979
+you know, um that's OK. As long as like
+
+903
+00:48:53.989 --> 00:48:57.189
+in a relevant set of circumstances, duplicating the process
+
+904
+00:48:57.199 --> 00:49:00.189
+duplicates its causal structure too. And that I think
+
+905
+00:49:00.199 --> 00:49:03.909
+is the crucial um idea I and if we
+
+906
+00:49:03.919 --> 00:49:05.820
+go back to the idea that thinking about the
+
+907
+00:49:05.830 --> 00:49:08.399
+world in causal terms is highly functional for us,
+
+908
+00:49:08.459 --> 00:49:10.409
+well, it kind of makes sense that we'd want
+
+909
+00:49:10.419 --> 00:49:15.159
+a way of thinking about processes causally structured processes
+
+910
+00:49:15.189 --> 00:49:18.330
+that allows us to acquaint ourselves with them in
+
+911
+00:49:18.340 --> 00:49:21.489
+some circumstances and having so acquainted ourselves with them,
+
+912
+00:49:21.590 --> 00:49:24.810
+then port those processes that kind of process like
+
+913
+00:49:24.820 --> 00:49:27.979
+over into other circumstances and still think about it
+
+914
+00:49:27.989 --> 00:49:31.320
+in the same causal way. And that doesn't require
+
+915
+00:49:31.330 --> 00:49:34.979
+something as strong as like a bold like intrinsic,
+
+916
+00:49:34.989 --> 00:49:36.699
+this thesis which I is what I used to
+
+917
+00:49:36.709 --> 00:49:39.629
+think, but it it requires a kind of softer,
+
+918
+00:49:39.639 --> 00:49:41.310
+you know, variant on that I think.
+
+919
+00:49:42.000 --> 00:49:42.500
+Mhm
+
+920
+00:49:42.820 --> 00:49:46.179
+And I think the structure is almost intrinsic. Yeah.
+
+921
+00:49:46.929 --> 00:49:48.989
+And, and I guess that and this is not
+
+922
+00:49:49.000 --> 00:49:52.620
+a comment on the, exactly the question I asked
+
+923
+00:49:52.629 --> 00:49:56.540
+before. But uh the example you gave of the
+
+924
+00:49:56.550 --> 00:50:00.020
+financial transaction, buying a cup of coffee, for example,
+
+925
+00:50:00.030 --> 00:50:03.600
+I guess that uh it's a very good illustrative
+
+926
+00:50:03.610 --> 00:50:07.050
+example of uh uh the idea that in this
+
+927
+00:50:07.060 --> 00:50:12.520
+particular case, understanding what causes, for example, that particular
+
+928
+00:50:12.530 --> 00:50:16.659
+behavior in that context. I mean, o of course,
+
+929
+00:50:16.669 --> 00:50:19.360
+perhaps it would be a way, I don't know
+
+930
+00:50:19.370 --> 00:50:24.149
+how to describe it just in purely physical terms,
+
+931
+00:50:24.159 --> 00:50:27.169
+but I it uh I mean, at least from
+
+932
+00:50:27.179 --> 00:50:30.320
+the point of view of a human and I
+
+933
+00:50:30.330 --> 00:50:32.489
+mean, that's the point of view we have to
+
+934
+00:50:32.500 --> 00:50:38.570
+work with uh not adding the psychological and the
+
+935
+00:50:38.580 --> 00:50:44.050
+cultural context to it is not uh as informative.
+
+936
+00:50:44.060 --> 00:50:46.159
+Uh I, I mean, we need to have that
+
+937
+00:50:46.169 --> 00:50:50.399
+context for it to be more informative than just
+
+938
+00:50:50.409 --> 00:50:53.610
+trying to describe things in terms of, I don't
+
+939
+00:50:53.620 --> 00:50:57.110
+know, anthems or molecules or something like that,
+
+940
+00:50:57.530 --> 00:51:00.600
+right? That seems right to me and, and, and
+
+941
+00:51:00.610 --> 00:51:04.010
+you could generalize that and say there, there's obviously
+
+942
+00:51:04.020 --> 00:51:06.689
+some deep value for us as humans to having
+
+943
+00:51:06.889 --> 00:51:10.399
+multiple ways to describe different, you know what? Well,
+
+944
+00:51:10.409 --> 00:51:11.770
+I should say one in the same part of
+
+945
+00:51:11.780 --> 00:51:16.780
+reality we're looking at now. Um And, and here,
+
+946
+00:51:16.790 --> 00:51:19.739
+there's controversy here, like as, as you know, like
+
+947
+00:51:19.750 --> 00:51:21.989
+you could get yourself into a frame of mind
+
+948
+00:51:22.000 --> 00:51:24.000
+where you think like, well, the only thing that's
+
+949
+00:51:24.010 --> 00:51:27.000
+real is physics and everything else is a kind
+
+950
+00:51:27.010 --> 00:51:31.020
+of, you know, projection of human epistemic interests onto
+
+951
+00:51:31.030 --> 00:51:31.580
+the world.
+
+952
+00:51:32.030 --> 00:51:35.340
+Yeah. Or, or the only thing that's really geometric
+
+953
+00:51:35.350 --> 00:51:36.060
+structure.
+
+954
+00:51:36.070 --> 00:51:41.500
+Yes. That's right. Yeah. Yeah. Yeah. Even better. Um,
+
+955
+00:51:41.770 --> 00:51:43.610
+um, AND I, I think it's hard to sort
+
+956
+00:51:43.620 --> 00:51:45.760
+out, you know, whether that could be right. I
+
+957
+00:51:45.770 --> 00:51:47.870
+mean, one thing that's puzzling about that if, is,
+
+958
+00:51:47.879 --> 00:51:51.409
+if you, if you, if you remove too much
+
+959
+00:51:51.419 --> 00:51:54.429
+from your conception of reality, do you still have
+
+960
+00:51:54.489 --> 00:51:57.090
+the human element that's supposed to explain why you
+
+961
+00:51:57.100 --> 00:51:59.500
+were misled into thinking that, that the other stuff
+
+962
+00:51:59.510 --> 00:52:02.729
+was there in the first place? No. Um Like
+
+963
+00:52:02.739 --> 00:52:04.840
+if like if I really strictly say the only
+
+964
+00:52:04.850 --> 00:52:07.770
+thing that's real is what physics talks about, well,
+
+965
+00:52:07.780 --> 00:52:11.010
+physics doesn't talk about humans and their epistemological and
+
+966
+00:52:11.020 --> 00:52:14.479
+practical needs. So those aren't real. So what kind
+
+967
+00:52:14.489 --> 00:52:16.439
+of explanation is it to say? Like we only
+
+968
+00:52:16.449 --> 00:52:18.679
+think that chemistry is real because of our human
+
+969
+00:52:18.699 --> 00:52:21.729
+practical and epistemic needs or, or sociology or what
+
+970
+00:52:21.739 --> 00:52:26.179
+or whatever? Um Yeah, II, I tend to like,
+
+971
+00:52:26.189 --> 00:52:29.360
+start feeling vertigo when I encounter questions like that
+
+972
+00:52:29.370 --> 00:52:30.879
+and think like, well, let's go back and just
+
+973
+00:52:30.889 --> 00:52:34.520
+like, like slow down and probe like again, what
+
+974
+00:52:34.530 --> 00:52:36.610
+does it do for us to have multiple levels
+
+975
+00:52:36.620 --> 00:52:38.989
+at which we can describe or multiple time and
+
+976
+00:52:39.000 --> 00:52:41.179
+length scales at which we can describe a phenomenon,
+
+977
+00:52:41.189 --> 00:52:44.020
+there's some kind of illumination or insight we get.
+
+978
+00:52:44.260 --> 00:52:46.110
+And I, and I should say this is maybe
+
+979
+00:52:46.120 --> 00:52:51.010
+AAA good places to um no for the conversation
+
+980
+00:52:51.020 --> 00:52:55.340
+to lead. No. Um BEHIND all this interesting causation
+
+981
+00:52:55.350 --> 00:52:58.290
+and laws of nature and related concepts, I think
+
+982
+00:52:58.449 --> 00:53:03.399
+is an interesting explanation. No, that is the kind
+
+983
+00:53:03.409 --> 00:53:05.209
+of thing we're after when we say we don't
+
+984
+00:53:05.219 --> 00:53:08.610
+merely want a catalog of facts about the world,
+
+985
+00:53:08.729 --> 00:53:12.010
+but we want insight and understanding and, and we
+
+986
+00:53:12.020 --> 00:53:14.439
+think learning about what causes, what gives us that
+
+987
+00:53:14.449 --> 00:53:16.409
+we think, learning about laws of nature gives us
+
+988
+00:53:16.419 --> 00:53:18.760
+that. But it, it in a way if we
+
+989
+00:53:18.770 --> 00:53:22.939
+want to like really probe the question, why is
+
+990
+00:53:22.949 --> 00:53:25.090
+it good for us humans to think of the
+
+991
+00:53:25.100 --> 00:53:27.820
+world in causal terms? A prior question might be,
+
+992
+00:53:27.830 --> 00:53:30.149
+why is it good for us to, to ask
+
+993
+00:53:30.159 --> 00:53:32.949
+not only like what, where when questions but why
+
+994
+00:53:32.959 --> 00:53:33.629
+questions?
+
+995
+00:53:34.550 --> 00:53:39.000
+Yeah. OK, great. So look, I'm getting mindful of
+
+996
+00:53:39.010 --> 00:53:41.530
+your time. So perhaps that's a good point to
+
+997
+00:53:41.540 --> 00:53:45.870
+wrap up the interview on. So uh just before
+
+998
+00:53:45.879 --> 00:53:48.610
+we go, would you like to tell people where
+
+999
+00:53:48.620 --> 00:53:50.669
+they can find you and your work on the
+
+1000
+00:53:50.679 --> 00:53:51.189
+internet?
+
+1001
+00:53:52.280 --> 00:53:55.639
+Oh Phil papers.org is probably the best place because
+
+1002
+00:53:55.649 --> 00:53:59.199
+my website is like out of date. Um THOUGH
+
+1003
+00:53:59.209 --> 00:54:01.699
+though one of my projects, once I get myself
+
+1004
+00:54:01.709 --> 00:54:05.379
+organized is is to, to change that. Yeah, the
+
+1005
+00:54:05.389 --> 00:54:08.510
+film papers.org is like the ideal location.
+
+1006
+00:54:09.510 --> 00:54:11.689
+OK, great. I'm leaving a link to it in
+
+1007
+00:54:11.699 --> 00:54:15.129
+the description box of the interview and uh nev
+
+1008
+00:54:15.139 --> 00:54:17.770
+thank you so much again for taking the time
+
+1009
+00:54:17.780 --> 00:54:19.649
+to come on the show. It's been really fun.
+
+1010
+00:54:19.669 --> 00:54:23.659
+Katie. Thank you, Ricardo Wonder. Wonderful, wonderful questions. Really
+
+1011
+00:54:23.669 --> 00:54:24.649
+enjoyed talking with you.
+
+1012
+00:54:25.669 --> 00:54:28.340
+Hi guys. Thank you for watching this interview. Until
+
+1013
+00:54:28.350 --> 00:54:30.449
+the end. If you like what I'm doing, please
+
+1014
+00:54:30.459 --> 00:54:35.409
+do not forget to share like, subscribe, comment and
+
+1015
+00:54:35.419 --> 00:54:38.770
+to keep the channel sustainable. Please consider supporting it
+
+1016
+00:54:38.780 --> 00:54:41.310
+on Patreon or paypal. You can find the links
+
+1017
+00:54:41.320 --> 00:54:44.149
+in the description box of the interview. The show
+
+1018
+00:54:44.159 --> 00:54:46.419
+is brought to you by N Lights learning and
+
+1019
+00:54:46.429 --> 00:54:50.389
+development. Then differently check their website at N lights.com.
+
+1020
+00:54:50.600 --> 00:54:52.350
+I would also like to give a huge thank
+
+1021
+00:54:52.360 --> 00:54:55.290
+you to my main patrons and paypal supporters, Perga
+
+1022
+00:54:55.310 --> 00:54:58.500
+Larson, Jerry Mull Lawrence Frederick Sune Bernard. So all
+
+1023
+00:54:58.639 --> 00:55:01.669
+of Alex Adam Kessel Matthew Winten beg are no
+
+1024
+00:55:01.760 --> 00:55:05.110
+W Tim Hollows, Erica J Connors Philip for Connolly.
+
+1025
+00:55:05.120 --> 00:55:09.084
+Then the mere Robert winger ruin, Mark Nevs Colin
+
+1026
+00:55:09.094 --> 00:55:12.925
+Holbrook, Simon Columbus, Phil Kavanagh, Mikel. Stormer Samuel Andre
+
+1027
+00:55:13.104 --> 00:55:16.334
+Francis for the Agns Fergal K and Hale Herzog
+
+1028
+00:55:17.594 --> 00:55:32.084
+and Hes Mark S Wilson JP Charlotte Adam Pas
+
+1029
+00:55:33.959 --> 00:55:38.270
+Nele Bach Guy Madison, Gary G Almansa Zal Adrian
+
+1030
+00:55:38.280 --> 00:55:42.520
+Bunin, Jean Barbo Julian Price Edward Hall, Eden Bruner
+
+1031
+00:55:42.820 --> 00:55:46.820
+Douglas Fra Franco BTO Lotti Gabriel Cortez, Orlik Scott
+
+1032
+00:55:46.939 --> 00:55:50.409
+Zachary Fish, Tim Duffy, Sonny Smith, John Wan Daniel
+
+1033
+00:55:50.419 --> 00:55:56.479
+Friedman, William Buckner, Paul Giorgino Luke Lovas, Theo Williams
+
+1034
+00:55:56.489 --> 00:56:00.449
+and Peter Walla and David Williams Di Costa Anton
+
+1035
+00:56:00.459 --> 00:56:05.875
+Erickson Charles More Shower, Marie Martinez, Coralie Chevalier, Bangalore
+
+1036
+00:56:06.405 --> 00:56:12.024
+Larry D Lee Junior, Old Ebon Starry Michael Bailey,
+
+1037
+00:56:12.034 --> 00:56:16.614
+then Sperber, Robert Grassy, Zor and Jeff. Mcmahon, Jake
+
+1038
+00:56:16.675 --> 00:56:21.114
+Zul Barnabas Radick, Mark Campbell Thomas Dubner, Luke Neeson,
+
+1039
+00:56:21.125 --> 00:56:26.185
+Chris Story, Kimberly Johnson, Benjamin GALT, Jessica Nowicki Linda
+
+1040
+00:56:26.195 --> 00:56:31.850
+Brandon, Nicholas Carlson, Ismael Bens Leman, George Katis, Valentin
+
+1041
+00:56:31.860 --> 00:56:36.840
+Steinman, Per Rawles, Kate Von Goler, Alexander Hubert, Liam
+
+1042
+00:56:36.850 --> 00:56:42.820
+Donnay Bi Ma Ma Ali Mohammadi Perpendicular and I
+
+1043
+00:56:43.270 --> 00:56:46.850
+Herner, a special thanks to my producers is our
+
+1044
+00:56:47.320 --> 00:56:51.580
+Frank Luca Stina, Tom Ween, Bernard, Ni Fortis Dixon,
+
+1045
+00:56:51.590 --> 00:56:55.550
+Benedikt Mueller Thomas Trumble, Catherine and Patrick Tobin. Jean
+
+1046
+00:56:55.669 --> 00:56:58.830
+Carlo, Mon Negro, Al Ortiz, and Nick Golden. And
+
+1047
+00:56:58.840 --> 00:57:02.280
+to my executive producers, Mafi Lavender as you could
+
+1048
+00:57:02.649 --> 00:57:04.850
+and Bogdan K I thank you for all.
+

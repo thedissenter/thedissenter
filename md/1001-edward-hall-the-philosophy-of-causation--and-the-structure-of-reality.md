@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1001 Edward Hall: The Philosophy of Causation, and the Structure of Reality",
-	"youtubeid": "_SCcQ6W_Mf0"
+	"vtt": "1001.vtt",
+	"youtubeid": "_SCcQ6W_Mf0",
+	"transcript": "1001.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 11th 2023.  
