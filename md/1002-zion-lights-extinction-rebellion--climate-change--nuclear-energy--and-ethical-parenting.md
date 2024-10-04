@@ -5,13 +5,16 @@
 	"episodeid": "1002",
 	"excerpt": "Zion Lights is a science communicator. She currently has the Scientific Section Presidency for Education for the British Science Festival.  She is the author of The Ultimate Guide to Green Parenting and Only a Moment, founder of Emergency Reactor, and former Editor of The Hourglass newspaper and Spokesperson for Extinction Rebellion.",
 	"image": "https://i.ytimg.com/vi/gFH6pbIvAug/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1002-zion-lights-extinction-rebellion-climate-change/id1451347236?i=1000671809142&uo=4",
 	"publishDate": 2024-10-04,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1002-Zion-Lights-Extinction-Rebellion--Climate-Change--Nuclear-Energy--and-Ethical-Parenting-e2ie2j0",
 	"tags": [
 		"General Science"
 	],
 	"title": "#1002 Zion Lights: Extinction Rebellion, Climate Change, Nuclear Energy, and Ethical Parenting",
-	"youtubeid": "gFH6pbIvAug"
+	"vtt": "1002.vtt",
+	"youtubeid": "gFH6pbIvAug",
+	"transcript": "1002.lines.json"
 }
 ---
 RECORDED ON APRIL 15th 2024.  
