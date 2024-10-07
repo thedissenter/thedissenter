@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1003 Andy Clark - The Experience Machine: How Our Minds Predict and Shape Reality",
-	"youtubeid": "FEgs7SL6xg0"
+	"vtt": "1003.vtt",
+	"youtubeid": "FEgs7SL6xg0",
+	"transcript": "1003.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 24th 2024.  
