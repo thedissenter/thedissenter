@@ -11,7 +11,9 @@
 		"Philosophy"
 	],
 	"title": "#1004 Lawrence Anton (@LawrenceAnton) - Antinatalism: Birth, Death, Consent, and Extinction",
-	"youtubeid": "tVmv2zYVA5o"
+	"vtt": "1004.vtt",
+	"youtubeid": "tVmv2zYVA5o",
+	"transcript": "1004.lines.json"
 }
 ---
 RECORDED ON JULY 7th 2024.  
