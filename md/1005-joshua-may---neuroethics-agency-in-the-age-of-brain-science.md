@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1005 Joshua May - Neuroethics: Agency in the Age of Brain Science",
-	"youtubeid": "Qp1EoJK0JKs"
+	"vtt": "1005.vtt",
+	"youtubeid": "Qp1EoJK0JKs",
+	"transcript": "1005.lines.json"
 }
 ---
 RECORDED ON APRIL 24th 2024.  
