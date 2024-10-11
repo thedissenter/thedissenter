@@ -1,19 +1,20 @@
 {
 	"episodeid": "1004",
-	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/91734686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-15%2Fe65da4cb-f6de-3290-ef64-1bab82d0b608.m4a",
-	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1004-Lawrence-Anton---Antinatalism-Birth--Death--Consent--and-Extinction-e2oe16u",
-	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1726412455784-dda529bcd30cb.jpg",
-	"title": "#1004 Lawrence Anton (@LawrenceAnton) - Antinatalism: Birth, Death, Consent, and Extinction",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1004-lawrence-anton-antinatalism-birth-death-consent/id1451347236?i=1000672546073&uo=4",
+	"title": "#1004 Lawrence Anton - Antinatalism: Birth, Death, Consent, and Extinction",
 	"published": "2024-10-10",
 	"shownotes": "RECORDED ON JULY 7th 2024.  \nLawrence Anton has a YouTube channel on antinatalism - @LawrenceAnton.\n\nIn this episode, we discuss antinatalism. We start by talking about how Lawrence got into antinatalism. We then explore some of the most common arguments for antinatalism, like the asymmetry argument, whether we can say that life is objectively bad, whether death is a harm, and the argument based on consent. We also talk about the most compelling arguments against antinatalism. We discuss a thought experiment about being able to choose to never be born. We talk about the selfishness of arguments for having kids. Finally, we discuss extinctionism, whether human extinction would be good or bad, and arguments put forth by transhumanists and longtermists.\n\nTime Links:  \n<time>00:00</time> Intro  \n<time>00:40</time> How Lawrence got into antinatalism  \n<time>12:32</time> The asymmetry argument  \n<time>22:03</time> Is life objectively bad?  \n<time>37:14</time> Is death really a harm?  \n<time>45:42</time> The consent argument  \n<time>53:29</time> Compelling arguments against antinatalism  \n<time>58:03</time> A thought experiment  \n<time>1:01:46</time> Arguments for having kids  \n<time>1:05:31</time> Transhumanism and longtermism  \n<time>1:08:32</time> Would human extinction be good?  \n<time>1:19:54</time> Follow Anton\u2019s work!\n\n---\n\nFollow Anton\u2019s work:  \nAn Antinatalist Handbook: https://antinatalisthandbook.org  \nAntinatalist Advocacy: https://antinatalistadvocacy.org  \nPatreon page: https://tinyurl.com/mr4bdczu  \nTwitter handle: @lawrence_anton1\n\nMentioned videos:  \nStockholm Syndrome: https://youtu.be/6t08ihh8EK0  \nBeing glad to be born: https://youtu.be/AgtcI_Bx9t4  \nAntinatalism and extinction: https://youtu.be/EjPWAu37yk4\n",
-	"filename": "1004-lawrence-anton-lawrenceanton---antinatalism-birth--death--consent--and-extinction",
+	"filename": "1004-lawrence-anton---antinatalism-birth--death--consent--and-extinction",
 	"excerpt": "Lawrence Anton has a YouTube channel on antinatalism - @LawrenceAnton.",
 	"youtubeid": "tVmv2zYVA5o",
 	"image": "https://i.ytimg.com/vi/tVmv2zYVA5o/maxresdefault.jpg",
 	"interviewee": [
-		"Lawrence Anton (@LawrenceAnton)"
+		"Lawrence Anton"
 	],
 	"tags": [
 		"Philosophy"
-	]
+	],
+	"spotifyAudioUrl": "https://anchor.fm/s/822ba20/podcast/play/91734686/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-15%2Fe65da4cb-f6de-3290-ef64-1bab82d0b608.m4a",
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1004-Lawrence-Anton---Antinatalism-Birth--Death--Consent--and-Extinction-e2oe16u",
+	"spotifyImageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/1264936/1264936-1726412455784-dda529bcd30cb.jpg"
 }
