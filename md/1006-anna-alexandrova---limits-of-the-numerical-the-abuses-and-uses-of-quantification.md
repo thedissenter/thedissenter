@@ -5,6 +5,7 @@
 	"episodeid": "1006",
 	"excerpt": "Dr. Anna Alexandrova is a Professor in Philosophy of Science at the Department of History and Philosophy of Science at the University of Cambridge and a Fellow of King's College. She does work in philosophy of economics, philosophy of social science, measurement in social and medical sciences, social organization of science, philosophy of mental health/psychotherapy/wellbeing, evidence-based policy and role of science in governance; and more. She is the editor of Limits of the Numerical: The Abuses and Uses of Quantification.",
 	"image": "https://i.ytimg.com/vi/CfcTFGwpxN4/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1006-anna-alexandrova-limits-of-the-numerical/id1451347236?i=1000673061001&uo=4",
 	"publishDate": 2024-10-14,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1006-Anna-Alexandrova---Limits-of-the-Numerical-The-Abuses-and-Uses-of-Quantification-e2e5med",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1006 Anna Alexandrova - Limits of the Numerical: The Abuses and Uses of Quantification",
-	"youtubeid": "CfcTFGwpxN4"
+	"vtt": "1006.vtt",
+	"youtubeid": "CfcTFGwpxN4",
+	"transcript": "1006.lines.json"
 }
 ---
 RECORDED ON JANUARY 8th 2024.  

@@ -1,0 +1,4226 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.819
+Hello everybody. Welcome to a new episode of the
+
+2
+00:00:02.849 --> 00:00:05.650
+Decent. I'm your host, Ricardo Loops. And today I'm
+
+3
+00:00:05.659 --> 00:00:09.189
+joined by Doctor Anna Alexandrova. She's a professor in
+
+4
+00:00:09.199 --> 00:00:11.989
+Philosophy of Science at the Department of History and
+
+5
+00:00:12.000 --> 00:00:15.039
+Philosophy of Science at the University of Cambridge, and
+
+6
+00:00:15.050 --> 00:00:18.809
+a Fellow of King's College. And today we're focusing
+
+7
+00:00:18.819 --> 00:00:23.209
+on her edited book Limits of the numerical, the
+
+8
+00:00:23.219 --> 00:00:27.690
+abuses and the uses of quantification. So, Doctor Alexandrova,
+
+9
+00:00:27.700 --> 00:00:30.010
+welcome to the show. It's a pleasure to everyone.
+
+10
+00:00:31.059 --> 00:00:32.598
+Thank you for having me Ricardo.
+
+11
+00:00:33.700 --> 00:00:38.080
+So perhaps let's start with a fundamental question here
+
+12
+00:00:38.090 --> 00:00:41.979
+and also referring to the subtitle of your book.
+
+13
+00:00:42.290 --> 00:00:47.189
+What is quantification exactly? What are we referring to,
+
+14
+00:00:47.200 --> 00:00:50.360
+particularly in the philosophy of science? But in science,
+
+15
+00:00:50.369 --> 00:00:54.520
+more generally, when we use this term,
+
+16
+00:00:56.720 --> 00:00:59.750
+um it might, it sounds a simpler question than
+
+17
+00:00:59.759 --> 00:01:04.379
+it actually is um the simplest introduction. The simplest
+
+18
+00:01:04.388 --> 00:01:08.760
+definition of quantification is just putting numbers on things.
+
+19
+00:01:09.250 --> 00:01:12.519
+Uh BUT it's very easy to put arbitrary numbers
+
+20
+00:01:12.529 --> 00:01:16.610
+on things and it wouldn't be any good. So
+
+21
+00:01:16.620 --> 00:01:21.330
+when uh um we talk about quantification of phenomena
+
+22
+00:01:21.339 --> 00:01:25.410
+in science. So, for example, you know, figuring out
+
+23
+00:01:25.419 --> 00:01:30.069
+measures of uh light of distance of time we're
+
+24
+00:01:30.080 --> 00:01:36.550
+talking about um putting on warranted and justified numbers
+
+25
+00:01:36.559 --> 00:01:41.010
+that reflect some uh deeper structures such as the
+
+26
+00:01:41.019 --> 00:01:43.989
+amount of thing or the quantity of things. And
+
+27
+00:01:44.000 --> 00:01:46.910
+in order to do that, you need a very
+
+28
+00:01:46.919 --> 00:01:50.885
+thorough justification of what numbers you're putting in and
+
+29
+00:01:50.934 --> 00:01:54.324
+whether those numbers are um you know, have uh
+
+30
+00:01:54.495 --> 00:02:00.474
+you represent uh just levels or quantities or uh
+
+31
+00:02:00.504 --> 00:02:05.055
+mere uh a possibility of, of comparisons. So in
+
+32
+00:02:05.065 --> 00:02:08.133
+the book that uh we've edited, we've used um
+
+33
+00:02:08.798 --> 00:02:13.809
+uh definition of quantification um as follows. Quantification is
+
+34
+00:02:13.819 --> 00:02:17.268
+the deployment of numerical representation where these did not
+
+35
+00:02:17.279 --> 00:02:21.688
+exist before, to describe reality and to affect change.
+
+36
+00:02:21.819 --> 00:02:25.869
+And as you see there, uh there's uh several
+
+37
+00:02:25.878 --> 00:02:32.339
+ingredients uh deployment of numerical representation or could unpack
+
+38
+00:02:32.348 --> 00:02:36.229
+that. What exactly does that mean where there was
+
+39
+00:02:36.240 --> 00:02:38.389
+none before? So, so we defined it as a
+
+40
+00:02:38.399 --> 00:02:44.089
+process of like bringing in numerical representations to features
+
+41
+00:02:44.100 --> 00:02:48.630
+that were not represented numerically before that we talked
+
+42
+00:02:48.639 --> 00:02:52.970
+about, you know, quality of education well being uh
+
+43
+00:02:52.979 --> 00:02:58.759
+health and these are all very uh controversial things
+
+44
+00:02:58.770 --> 00:03:03.160
+to quantify and finally to describe reality or to
+
+45
+00:03:03.169 --> 00:03:06.570
+affect change. And that would just also reflects the
+
+46
+00:03:06.580 --> 00:03:11.199
+fact that quantification plays um uh many different roles.
+
+47
+00:03:11.210 --> 00:03:14.639
+So this is a long answer to a question
+
+48
+00:03:14.669 --> 00:03:17.279
+and probably not long enough because the question you've
+
+49
+00:03:17.289 --> 00:03:19.360
+asked is so difficult
+
+50
+00:03:20.449 --> 00:03:23.830
+and when it comes to quantitative data, of course,
+
+51
+00:03:23.839 --> 00:03:26.369
+we tend to have uh I guess among the
+
+52
+00:03:26.380 --> 00:03:29.539
+scientific community. But also in the culture, m more
+
+53
+00:03:29.550 --> 00:03:32.809
+generally, we tend to have or attribute this sort
+
+54
+00:03:32.820 --> 00:03:37.470
+of special or to numbers. If there's a number
+
+55
+00:03:37.479 --> 00:03:41.289
+associated with such something, we uh assume that we
+
+56
+00:03:41.300 --> 00:03:45.500
+should take it more seriously. Uh At least in
+
+57
+00:03:45.509 --> 00:03:49.399
+comparison to when we only have qualitative data, for
+
+58
+00:03:49.410 --> 00:03:57.210
+example, but are quantitative data, really precise value free
+
+59
+00:03:57.250 --> 00:04:01.179
+and objective or at least are they always like
+
+60
+00:04:01.190 --> 00:04:01.479
+that?
+
+61
+00:04:04.339 --> 00:04:09.869
+Um uh VERY much not um the um the,
+
+62
+00:04:09.880 --> 00:04:16.730
+the, the idea that uh uh quantities reflect um
+
+63
+00:04:17.420 --> 00:04:22.359
+uh a deeper reality than, than qualities is as
+
+64
+00:04:22.369 --> 00:04:26.230
+long standing as it is controversial. Lots of philosophers
+
+65
+00:04:26.239 --> 00:04:29.459
+throughout history did not think that our world is
+
+66
+00:04:29.470 --> 00:04:32.730
+a world of quantities. Uh BUT rather thought that
+
+67
+00:04:32.739 --> 00:04:35.079
+our world is a world of qualities on which
+
+68
+00:04:35.089 --> 00:04:40.279
+we impose quantities for a particular purpose. And then
+
+69
+00:04:40.290 --> 00:04:44.750
+uh when we impose a quantity on something, um
+
+70
+00:04:45.040 --> 00:04:49.160
+for example, uh well being uh uh how, how
+
+71
+00:04:49.170 --> 00:04:53.190
+is it possible to talk about uh precision value,
+
+72
+00:04:53.200 --> 00:04:57.839
+freedom and objectivity? Well, much harder than when you
+
+73
+00:04:57.850 --> 00:05:01.679
+think about uh numbers like uh you know, number
+
+74
+00:05:01.690 --> 00:05:05.149
+of deaths from COVID, even number of deaths from
+
+75
+00:05:05.160 --> 00:05:09.260
+COVID is uh uh it's very hard to achieve
+
+76
+00:05:09.269 --> 00:05:14.480
+precision value, freedom and objectivity because values hide in
+
+77
+00:05:14.489 --> 00:05:18.049
+your decision about what counts as a death that
+
+78
+00:05:18.059 --> 00:05:21.140
+can be attributed to COVID. How much after a
+
+79
+00:05:21.149 --> 00:05:23.579
+diagnosis do you have to die in order to
+
+80
+00:05:23.589 --> 00:05:27.040
+count as uh being a death from COVID. Um
+
+81
+00:05:27.049 --> 00:05:30.739
+So even with cases like this, uh uh there's
+
+82
+00:05:30.750 --> 00:05:34.070
+a lot of um uh value judgments uh and
+
+83
+00:05:34.079 --> 00:05:37.290
+background knowledge that has to come and with uh
+
+84
+00:05:37.299 --> 00:05:42.600
+things like um well being uh health uh quality
+
+85
+00:05:42.609 --> 00:05:48.980
+of life, um development, uh sustainability and all the
+
+86
+00:05:48.989 --> 00:05:52.799
+progress, uh it, it becomes all that much harder
+
+87
+00:05:52.940 --> 00:05:57.290
+which uh which doesn't mean that um you know,
+
+88
+00:05:57.299 --> 00:06:00.489
+values of precision, value, freedom and objectivity are not
+
+89
+00:06:00.500 --> 00:06:04.299
+genuine values. I, I share those values sometimes at
+
+90
+00:06:04.309 --> 00:06:07.779
+least, but we need to um bear in mind
+
+91
+00:06:07.790 --> 00:06:11.380
+that uh uh some quantities that we care about.
+
+92
+00:06:11.489 --> 00:06:14.429
+Uh THEY, they, they will be valued and that
+
+93
+00:06:14.440 --> 00:06:17.940
+would be good. Uh And they will, they will,
+
+94
+00:06:17.950 --> 00:06:19.859
+they will not be objective in the sense of
+
+95
+00:06:19.869 --> 00:06:24.260
+reflecting some uh um you know, reality that wouldn't
+
+96
+00:06:24.269 --> 00:06:27.059
+be there if people weren't there also not true,
+
+97
+00:06:27.070 --> 00:06:31.179
+but that doesn't make them any less good. So
+
+98
+00:06:31.190 --> 00:06:34.809
+um both precision value, freedom and objectivity. Those are
+
+99
+00:06:34.820 --> 00:06:38.260
+the things that need to be unpacked. Uh And
+
+100
+00:06:38.279 --> 00:06:40.790
+uh yeah, made more precise, so to speak in
+
+101
+00:06:40.799 --> 00:06:45.500
+order to uh uh to, to, to uh realize
+
+102
+00:06:45.510 --> 00:06:48.619
+the potential of numbers which is very important. And
+
+103
+00:06:48.679 --> 00:06:56.119
+numbers a enable uh comparison reasoning, allocation, decision making
+
+104
+00:06:56.200 --> 00:07:02.140
+uh representation uh uh m mu much better um
+
+105
+00:07:02.170 --> 00:07:08.410
+than uh uh qualities alone, right? You, you, you,
+
+106
+00:07:08.420 --> 00:07:12.230
+if you, especially if those numbers are um well
+
+107
+00:07:12.239 --> 00:07:14.920
+justified and combined with other information
+
+108
+00:07:16.089 --> 00:07:23.660
+and are qualitative data necessarily of inferior value scientifically
+
+109
+00:07:23.670 --> 00:07:24.149
+speaking.
+
+110
+00:07:26.359 --> 00:07:32.410
+Um So let's, let's think of an example. Um
+
+111
+00:07:33.329 --> 00:07:37.029
+um You asked me, uh so something that I've
+
+112
+00:07:37.040 --> 00:07:41.589
+been working a lot, um is uh well being
+
+113
+00:07:41.600 --> 00:07:45.140
+I've been thinking about that uh for the last
+
+114
+00:07:45.149 --> 00:07:49.209
+uh 15 years or so. Um So say you
+
+115
+00:07:49.220 --> 00:07:55.880
+and I have a conversation um um uh in
+
+116
+00:07:55.890 --> 00:07:57.760
+uh I don't know, we're, we're good friends and
+
+117
+00:07:57.769 --> 00:08:00.500
+I ask you, Ricardo, how are you doing? Uh
+
+118
+00:08:00.510 --> 00:08:03.880
+AND you give me a lot of information um
+
+119
+00:08:03.890 --> 00:08:09.790
+uh about your life um that concerns your priorities,
+
+120
+00:08:09.799 --> 00:08:15.040
+how you're handling challenges that you're meeting. Um What
+
+121
+00:08:15.049 --> 00:08:18.640
+kind of environment you live in? Right. And uh
+
+122
+00:08:19.089 --> 00:08:23.019
+um what kind of uh pressures do you feel?
+
+123
+00:08:23.420 --> 00:08:27.440
+And uh what are your dreams and your priorities
+
+124
+00:08:27.619 --> 00:08:31.989
+and whether you're flourishing and, you know, uh whether
+
+125
+00:08:32.000 --> 00:08:35.219
+you are sleeping well at night and things like
+
+126
+00:08:35.229 --> 00:08:41.330
+that. So let's call that altogether, qualitative information about
+
+127
+00:08:41.340 --> 00:08:45.159
+your well being. Um And let me, uh and
+
+128
+00:08:45.169 --> 00:08:49.950
+let me ask you now instead, um uh from
+
+129
+00:08:49.960 --> 00:08:52.880
+uh uh 0 to 10, how satisfied are you
+
+130
+00:08:52.890 --> 00:08:56.710
+Ricardo with your life as a whole? And uh
+
+131
+00:08:56.719 --> 00:08:58.539
+do you have a, a number that you would
+
+132
+00:08:58.549 --> 00:08:59.710
+give me, for example,
+
+133
+00:08:59.809 --> 00:09:00.900
+um Seven
+
+134
+00:09:01.840 --> 00:09:05.169
+seven is a favorite. Everybody loves seven and it's
+
+135
+00:09:05.179 --> 00:09:08.190
+very hard in science to get past that seven,
+
+136
+00:09:08.200 --> 00:09:11.520
+you know, and that seven doesn't really budge very
+
+137
+00:09:11.530 --> 00:09:15.669
+much um uh in response to uh you know,
+
+138
+00:09:15.679 --> 00:09:18.969
+changes in life. But in any case, you've given
+
+139
+00:09:18.979 --> 00:09:21.940
+me a seven. WHAT is the difference between the
+
+140
+00:09:21.950 --> 00:09:26.049
+two kinds of information that um that, that, that,
+
+141
+00:09:26.059 --> 00:09:29.030
+that you've given me the qualitative and the quantitative?
+
+142
+00:09:29.039 --> 00:09:32.409
+Like, what's your first uh I impression about in
+
+143
+00:09:32.419 --> 00:09:35.919
+value richness, importance of one or the other?
+
+144
+00:09:36.880 --> 00:09:39.820
+Well, actually, at least at first sight and in
+
+145
+00:09:39.830 --> 00:09:43.719
+my own opinion, I would imagine that the first
+
+146
+00:09:43.729 --> 00:09:49.940
+kind of information, the qualitative information seems more detailed
+
+147
+00:09:49.950 --> 00:09:53.955
+and richer than just the number a lot because
+
+148
+00:09:53.965 --> 00:09:57.594
+at least I have more specific information in terms
+
+149
+00:09:57.604 --> 00:10:00.604
+of the several different factors that play a role
+
+150
+00:10:00.614 --> 00:10:05.984
+into uh my uh play uh my manifesting uh
+
+151
+00:10:05.994 --> 00:10:10.094
+general seven as well being. So
+
+152
+00:10:10.799 --> 00:10:13.859
+that, that's great. That's my impression too. But can
+
+153
+00:10:13.869 --> 00:10:17.229
+you think of situations in which the latter uh
+
+154
+00:10:17.250 --> 00:10:23.119
+uh information that the number seven is more appropriate
+
+155
+00:10:23.130 --> 00:10:26.989
+or more sort of apt and is uh you
+
+156
+00:10:27.000 --> 00:10:31.039
+know, contains more information than, than the, than the
+
+157
+00:10:31.049 --> 00:10:32.049
+first kind?
+
+158
+00:10:33.619 --> 00:10:36.729
+Well, I mean, when it comes to well being,
+
+159
+00:10:37.299 --> 00:10:40.640
+uh I don't know, perhaps I'm missing something here
+
+160
+00:10:40.650 --> 00:10:44.409
+or forgetting something. But uh a as I said,
+
+161
+00:10:44.419 --> 00:10:47.510
+with the other kinds of information you have about
+
+162
+00:10:47.520 --> 00:10:52.989
+me qualitatively speaking, I would still think that perhaps
+
+163
+00:10:53.000 --> 00:10:58.789
+uh apart from perhaps uh statistically treating the data,
+
+164
+00:10:59.070 --> 00:11:03.679
+the first kind of information would still be more
+
+165
+00:11:03.929 --> 00:11:06.690
+informative, at least in my opinion. So,
+
+166
+00:11:08.539 --> 00:11:11.090
+yeah, yeah. So I, I mean, I, I agree
+
+167
+00:11:11.099 --> 00:11:14.200
+with you. It's very hard not to see the
+
+168
+00:11:14.210 --> 00:11:17.159
+the, uh, not, not, not to think that the
+
+169
+00:11:17.169 --> 00:11:20.369
+first kind is, you know, superior and better reflects
+
+170
+00:11:20.380 --> 00:11:23.059
+well being. But you can also imagine that if
+
+171
+00:11:23.070 --> 00:11:26.000
+you had a lot and lot of uh answers
+
+172
+00:11:26.010 --> 00:11:30.840
+to the, uh life satisfaction, quantitative question and if
+
+173
+00:11:30.849 --> 00:11:35.429
+you had those answers over time, then, uh they,
+
+174
+00:11:35.440 --> 00:11:38.390
+you would be able to see the patterns, um,
+
+175
+00:11:38.400 --> 00:11:40.159
+that you wouldn't be able to see in the
+
+176
+00:11:40.169 --> 00:11:44.549
+first kind. Uh Right. So let's just start with
+
+177
+00:11:44.559 --> 00:11:50.000
+that initial obvious observation that there's a richness that's
+
+178
+00:11:50.010 --> 00:11:55.150
+reflected in an answer um uh that you give
+
+179
+00:11:55.159 --> 00:11:58.869
+to a friend how you're really doing. And that
+
+180
+00:11:58.880 --> 00:12:03.099
+richness is suddenly completely lost when you uh just
+
+181
+00:12:03.109 --> 00:12:06.320
+put a single number on it. But then suddenly
+
+182
+00:12:06.330 --> 00:12:10.250
+if those numbers are combined with other numbers, then
+
+183
+00:12:10.260 --> 00:12:13.130
+then a certain kind of new richness arises that
+
+184
+00:12:13.140 --> 00:12:17.109
+wasn't there before. Uh RIGHT, the richness of being
+
+185
+00:12:17.119 --> 00:12:19.380
+able to see change and be able to see
+
+186
+00:12:19.390 --> 00:12:23.960
+patterns and being able to see differences and inequalities
+
+187
+00:12:23.969 --> 00:12:28.590
+between people. So I think it is the first
+
+188
+00:12:28.599 --> 00:12:32.320
+thing is to recognize that uh qualitative and quantitative
+
+189
+00:12:32.330 --> 00:12:36.609
+information carries different kind of uh uh value and
+
+190
+00:12:36.619 --> 00:12:40.750
+different kind of uh priorities and, and different kind
+
+191
+00:12:40.760 --> 00:12:45.080
+of information. And uh it's, it's obvious that there
+
+192
+00:12:45.090 --> 00:12:48.020
+isn't a single answer to the question, which information
+
+193
+00:12:48.030 --> 00:12:50.320
+is better, well, which information is better for what
+
+194
+00:12:50.330 --> 00:12:55.369
+purpose? Right. Uh So yeah, your question was our
+
+195
+00:12:55.380 --> 00:13:00.070
+qualitative data of inferior value. Uh Well, Yeah. So
+
+196
+00:13:00.080 --> 00:13:04.679
+obviously not, but neither is it the case that
+
+197
+00:13:04.690 --> 00:13:09.400
+uh uh qualitative data are always of uh superior
+
+198
+00:13:09.409 --> 00:13:10.500
+value? Right.
+
+199
+00:13:11.500 --> 00:13:13.979
+Yeah. So uh do you think that it would
+
+200
+00:13:13.989 --> 00:13:18.429
+be safe to say that when trying to evaluate
+
+201
+00:13:18.440 --> 00:13:23.270
+if in particular cases it is better to have
+
+202
+00:13:23.280 --> 00:13:27.770
+qualitative or quantitative information that it also at least
+
+203
+00:13:27.780 --> 00:13:32.429
+to some extent depends on the goals we have?
+
+204
+00:13:32.440 --> 00:13:36.030
+Definitely. So let's use that with uh let's try
+
+205
+00:13:36.039 --> 00:13:40.739
+and insert some goals in our example. So you've
+
+206
+00:13:40.750 --> 00:13:43.880
+got uh you've got two kinds of information. Uh
+
+207
+00:13:43.890 --> 00:13:45.619
+The first one is the one you give to
+
+208
+00:13:45.630 --> 00:13:51.090
+a friend, the rich narrative. Um Suppose your friend,
+
+209
+00:13:51.099 --> 00:13:54.119
+suppose it is, it is uh the conversation happens
+
+210
+00:13:54.130 --> 00:13:56.929
+with your life coach or your therapist or your,
+
+211
+00:13:56.940 --> 00:14:00.280
+your rabbi or somebody who is a really important
+
+212
+00:14:00.289 --> 00:14:02.059
+mentor who is trying to help you with uh
+
+213
+00:14:02.070 --> 00:14:08.919
+difficult important decisions. Um They might ask you um
+
+214
+00:14:08.960 --> 00:14:12.140
+well, tell me how has your life changed as
+
+215
+00:14:12.150 --> 00:14:14.869
+a result of something? They, they'll still be, they'll
+
+216
+00:14:14.880 --> 00:14:18.109
+still want to get some kind of quantitative information
+
+217
+00:14:18.119 --> 00:14:21.049
+if, if they're gonna want to make comparisons, right?
+
+218
+00:14:21.239 --> 00:14:24.340
+How has your subjective sense of how you are
+
+219
+00:14:24.349 --> 00:14:27.650
+doing evolved over time? Right. And are you doing
+
+220
+00:14:27.659 --> 00:14:32.890
+better than before? So they might uh even even
+
+221
+00:14:32.900 --> 00:14:36.750
+in situations like this, ask for some kind of
+
+222
+00:14:37.030 --> 00:14:40.429
+uh um uh quantitative information and in the, in
+
+223
+00:14:40.440 --> 00:14:44.349
+the sense of uh relation between other values, right?
+
+224
+00:14:44.359 --> 00:14:47.409
+If that's what we mean by a quantity. Um
+
+225
+00:14:47.460 --> 00:14:50.260
+AND you think that would be really great. Uh
+
+226
+00:14:50.270 --> 00:14:53.809
+On the other hand, um you could see uh
+
+227
+00:14:53.820 --> 00:14:57.520
+like, uh you know, a policy maker, um you
+
+228
+00:14:57.530 --> 00:15:00.539
+who needs to decide how much money to spend
+
+229
+00:15:00.549 --> 00:15:03.450
+uh to in a community or in a particular
+
+230
+00:15:03.460 --> 00:15:08.780
+initiative. Um What, what information do do they have
+
+231
+00:15:08.789 --> 00:15:11.979
+to have? Well, again, if uh if all they
+
+232
+00:15:11.989 --> 00:15:17.359
+have are life satisfaction judgments uh from um you
+
+233
+00:15:17.369 --> 00:15:19.669
+know, of the kind that you have given me
+
+234
+00:15:19.679 --> 00:15:22.570
+seven out of 10 and you know, well, but
+
+235
+00:15:22.580 --> 00:15:25.840
+from a bunch of people over time, you know,
+
+236
+00:15:25.849 --> 00:15:29.010
+even then you might think that, you know, that
+
+237
+00:15:29.020 --> 00:15:32.710
+information, that's much better information for them to have
+
+238
+00:15:32.719 --> 00:15:36.150
+for, for their decision. But again, in order to
+
+239
+00:15:36.479 --> 00:15:40.330
+decide whether or not to invest in uh say,
+
+240
+00:15:40.340 --> 00:15:43.099
+you know, a new playground or a new library
+
+241
+00:15:43.109 --> 00:15:48.650
+or a new piece of infrastructure, um it's not
+
+242
+00:15:48.659 --> 00:15:50.799
+enough for them to just have those life satisfaction
+
+243
+00:15:50.809 --> 00:15:54.349
+judgments because life satisfaction judgments cover so much. They
+
+244
+00:15:54.359 --> 00:15:57.359
+don't really, you know, they're not very detailed there,
+
+245
+00:15:57.369 --> 00:16:00.190
+they speak umbrella terms that, that, that, that the
+
+246
+00:16:00.200 --> 00:16:04.049
+black box, a lot of information. Uh So it
+
+247
+00:16:04.059 --> 00:16:06.510
+would be much better if they were also able
+
+248
+00:16:06.520 --> 00:16:09.260
+to have some qualitative information about, you know, how
+
+249
+00:16:09.270 --> 00:16:13.309
+do people feel about uh a particular resource and
+
+250
+00:16:13.320 --> 00:16:16.349
+how do, what does it mean for them? Right.
+
+251
+00:16:16.489 --> 00:16:18.690
+So in, in all of, you know, in every
+
+252
+00:16:18.700 --> 00:16:21.950
+situation uh we encounter the ideal is to have
+
+253
+00:16:21.960 --> 00:16:25.979
+some kind of a mix between a qualitative and
+
+254
+00:16:25.989 --> 00:16:28.750
+quantitative, but exactly what kind of mix it is.
+
+255
+00:16:29.159 --> 00:16:33.830
+And uh you know, where that, that will definitely
+
+256
+00:16:33.840 --> 00:16:36.229
+depend on the situation. You might think that a
+
+257
+00:16:36.239 --> 00:16:41.469
+policy maker who merely relies on uh um you
+
+258
+00:16:41.479 --> 00:16:46.070
+know, the sort of qualitative reports about what people
+
+259
+00:16:46.080 --> 00:16:49.669
+told them, them about uh uh a new piece
+
+260
+00:16:49.679 --> 00:16:53.190
+of infrastructure, they are making decisions on the basis
+
+261
+00:16:53.200 --> 00:16:57.229
+of anecdotal data, right? They aren't really uh doing
+
+262
+00:16:57.239 --> 00:17:01.400
+their homework properly. Um Whereas that kind of an
+
+263
+00:17:01.539 --> 00:17:07.040
+anecdotal uh data is uh is, is, is perfectly
+
+264
+00:17:07.050 --> 00:17:10.709
+enough if you are trying to help a friend,
+
+265
+00:17:10.719 --> 00:17:14.560
+make a difficult decision, right? So these are uh
+
+266
+00:17:15.400 --> 00:17:18.530
+and there is no situation in science that I
+
+267
+00:17:18.540 --> 00:17:21.949
+think is one or the other most situations in
+
+268
+00:17:21.959 --> 00:17:24.890
+which we make judgments of uh well being or
+
+269
+00:17:24.900 --> 00:17:27.939
+health will be a complex mix and the hard
+
+270
+00:17:27.949 --> 00:17:31.819
+thing will be figure around figuring out um the
+
+271
+00:17:31.829 --> 00:17:33.079
+the appropriate mix.
+
+272
+00:17:34.030 --> 00:17:37.969
+And so uh since you mentioned political decisions there,
+
+273
+00:17:37.979 --> 00:17:41.530
+and because as I mentioned a couple of questions
+
+274
+00:17:41.540 --> 00:17:46.930
+ago that there's this sort of uh stereotype surrounding
+
+275
+00:17:47.060 --> 00:17:52.520
+uh strict division between quantitative and qualitative data. And
+
+276
+00:17:52.530 --> 00:17:55.859
+there's even perhaps, I think we could say two
+
+277
+00:17:55.869 --> 00:17:59.849
+different cultures surrounding these two different kinds of data.
+
+278
+00:18:00.199 --> 00:18:05.775
+What are the potential social and political consequences of
+
+279
+00:18:05.785 --> 00:18:10.454
+having a framework like that where people think that
+
+280
+00:18:10.464 --> 00:18:13.675
+there's a strict division and they perhaps should take
+
+281
+00:18:13.685 --> 00:18:20.535
+more seriously where as a quantitative uh aspect to
+
+282
+00:18:20.545 --> 00:18:20.844
+it,
+
+283
+00:18:21.550 --> 00:18:25.150
+right, a very important question. So, the idea of
+
+284
+00:18:25.160 --> 00:18:29.479
+there being two cultures is um um a very
+
+285
+00:18:29.489 --> 00:18:34.099
+important idea from uh um uh a British thinker,
+
+286
+00:18:34.109 --> 00:18:37.939
+writer CP Snow. Um That's a culture of a
+
+287
+00:18:37.949 --> 00:18:41.329
+humanities thinker and a culture of a science thinker
+
+288
+00:18:41.339 --> 00:18:46.229
+fundamentally at odds. And um uh how, how, how
+
+289
+00:18:46.239 --> 00:18:49.209
+good it would be uh if they weren't. Uh
+
+290
+00:18:49.219 --> 00:18:52.900
+So in that sort of meme of two cultures
+
+291
+00:18:52.910 --> 00:18:56.380
+uh evolves and uh comes with, comes uh in
+
+292
+00:18:56.390 --> 00:19:00.270
+our age uh in slightly different ways. And if
+
+293
+00:19:00.280 --> 00:19:02.319
+you don't mind again, I will use the example
+
+294
+00:19:02.329 --> 00:19:05.030
+of, of well being to, to, to focus us.
+
+295
+00:19:05.449 --> 00:19:09.569
+So, uh in some ways, the um well being
+
+296
+00:19:09.579 --> 00:19:16.109
+research has uh existed um historically, very much in
+
+297
+00:19:16.119 --> 00:19:20.800
+the humanities culture. Uh uh It's a, it's a
+
+298
+00:19:20.810 --> 00:19:25.729
+purview of um uh writers of literary scholars of
+
+299
+00:19:25.739 --> 00:19:33.089
+historians of uh psychoanalysts of um um uh religious
+
+300
+00:19:33.099 --> 00:19:36.680
+thinkers, right? And because it's about who we are
+
+301
+00:19:37.959 --> 00:19:41.329
+at the same time, there's a long history um
+
+302
+00:19:41.339 --> 00:19:44.989
+from in economics and psychology, at least from the
+
+303
+00:19:45.000 --> 00:19:49.229
+age of enlightenment of uh attempts to quantify it
+
+304
+00:19:49.239 --> 00:19:53.000
+and impose uh uh a quantity of utility, for
+
+305
+00:19:53.010 --> 00:19:57.109
+example, that's supposed to represent uh uh uh welfare.
+
+306
+00:19:57.569 --> 00:20:01.969
+So by the time that uh comes uh um
+
+307
+00:20:02.000 --> 00:20:05.280
+uh uh to, to us in about, you know,
+
+308
+00:20:05.290 --> 00:20:09.170
+about 3020 years ago, there is the story that
+
+309
+00:20:09.180 --> 00:20:14.989
+you keep hearing uh um well being can replace
+
+310
+00:20:15.000 --> 00:20:19.819
+uh um uh gross domestic product, for example, or
+
+311
+00:20:19.829 --> 00:20:23.819
+gross national product is the, the the the the
+
+312
+00:20:23.829 --> 00:20:30.170
+really important quantity um for, for decision making, if
+
+313
+00:20:30.180 --> 00:20:33.890
+only we figure out and we, we collect proper
+
+314
+00:20:33.900 --> 00:20:39.439
+uh data about them, right? So um if only
+
+315
+00:20:39.449 --> 00:20:43.849
+we turn uh well being from one culture to
+
+316
+00:20:43.859 --> 00:20:47.569
+the other culture. So the sciences of well being
+
+317
+00:20:47.579 --> 00:20:51.849
+as I know them, uh um the social sciences
+
+318
+00:20:51.859 --> 00:20:57.500
+are dominated largely by psychologists and economists arises out
+
+319
+00:20:57.510 --> 00:21:02.560
+of that idea that um um you know, let's
+
+320
+00:21:02.569 --> 00:21:06.439
+uh let, let's appropriate well being from the uh
+
+321
+00:21:06.449 --> 00:21:09.150
+from the humanities culture and let's make it an
+
+322
+00:21:09.160 --> 00:21:13.939
+object of science so that we can um use
+
+323
+00:21:13.949 --> 00:21:18.390
+this as a much more appropriate and, and the
+
+324
+00:21:18.400 --> 00:21:22.630
+justification for that is very idealistic, right? The justification
+
+325
+00:21:22.640 --> 00:21:26.979
+for that is otherwise we're gonna be stuck evaluating
+
+326
+00:21:26.989 --> 00:21:32.290
+our societies by wrong yardstick of money. Um So
+
+327
+00:21:32.300 --> 00:21:35.630
+let's evaluate it with better yardstick with things that
+
+328
+00:21:35.640 --> 00:21:38.449
+people actually care about if we figure out how
+
+329
+00:21:38.459 --> 00:21:43.380
+to measure them properly. Uh So, ironically, this very
+
+330
+00:21:43.390 --> 00:21:48.780
+idealistic story isn't is actually um yeah, so has
+
+331
+00:21:48.790 --> 00:21:51.130
+a darker side in my view and that is
+
+332
+00:21:51.140 --> 00:21:55.630
+because in order to quantify it, it, it, it
+
+333
+00:21:55.640 --> 00:21:59.109
+something like well being, you have to really cut
+
+334
+00:21:59.119 --> 00:22:02.650
+a lot of corners, uh uh you have to
+
+335
+00:22:02.660 --> 00:22:06.119
+simplify what it is, you have to ignore a
+
+336
+00:22:06.140 --> 00:22:10.810
+lot of um problems with, um you know, measurement
+
+337
+00:22:10.819 --> 00:22:15.099
+doesn't actually allow you to, to average over uh
+
+338
+00:22:15.109 --> 00:22:19.199
+uh data that is uh nearly original. Um I
+
+339
+00:22:19.209 --> 00:22:22.439
+think we're coming to that shortly in our conversation.
+
+340
+00:22:22.849 --> 00:22:25.500
+All this is to say that in order to
+
+341
+00:22:25.510 --> 00:22:27.790
+turn well being into an object of science, you
+
+342
+00:22:27.800 --> 00:22:30.599
+have to make a lot of compromises. And the
+
+343
+00:22:30.609 --> 00:22:35.400
+question is whether these compromises um uh are compatible
+
+344
+00:22:35.410 --> 00:22:39.310
+with that idealistic vision, that's uh that people who
+
+345
+00:22:39.319 --> 00:22:43.489
+propose uh uh quantity of well being is I
+
+346
+00:22:43.500 --> 00:22:47.060
+don't think it is because if, if you, if
+
+347
+00:22:47.069 --> 00:22:50.469
+you leave everything else, like as is that means
+
+348
+00:22:50.479 --> 00:22:52.819
+if you don't change the idea that in order
+
+349
+00:22:52.829 --> 00:22:55.750
+to make good decisions, you need to justify them
+
+350
+00:22:55.910 --> 00:23:00.439
+by quantitative measures, then uh turning well being into
+
+351
+00:23:00.449 --> 00:23:04.319
+quantitative measure isn't progress because you also have to
+
+352
+00:23:04.619 --> 00:23:08.579
+uh change that perception, you have that the only
+
+353
+00:23:08.589 --> 00:23:13.560
+evidence based decision is a decision that's justifiable by
+
+354
+00:23:13.569 --> 00:23:14.119
+numbers.
+
+355
+00:23:15.489 --> 00:23:21.040
+And so focusing on quantification, are there different types
+
+356
+00:23:21.050 --> 00:23:21.569
+of it?
+
+357
+00:23:24.310 --> 00:23:27.920
+Yeah. Um WE probably should have brought that in
+
+358
+00:23:27.930 --> 00:23:32.010
+already. So uh let's just make uh one very
+
+359
+00:23:32.020 --> 00:23:38.839
+familiar um distinction between ordinal and uh interval data.
+
+360
+00:23:38.849 --> 00:23:42.329
+So, or uh data are data that allow you
+
+361
+00:23:42.339 --> 00:23:48.619
+to just compare, um say that 11 state is
+
+362
+00:23:48.630 --> 00:23:52.160
+uh uh greater better or has more of it
+
+363
+00:23:52.170 --> 00:23:57.550
+than another. So if you say um I'm satisfied
+
+364
+00:23:57.560 --> 00:24:00.900
+with my life uh as a whole, it you
+
+365
+00:24:00.910 --> 00:24:05.810
+at uh uh seven me actually at eight and
+
+366
+00:24:05.829 --> 00:24:08.739
+then all we could infer from ordinal data is
+
+367
+00:24:08.750 --> 00:24:11.949
+that I'm better off than you. Um Assuming that,
+
+368
+00:24:11.959 --> 00:24:13.989
+you know, you and I are using the scale
+
+369
+00:24:14.000 --> 00:24:18.579
+uh in the same way. However, if uh we
+
+370
+00:24:18.589 --> 00:24:21.810
+thought that we had interval data, that means if
+
+371
+00:24:21.819 --> 00:24:25.130
+we had uh quantities that in uh that give
+
+372
+00:24:25.140 --> 00:24:28.140
+us not just order, but also the distance between
+
+373
+00:24:28.150 --> 00:24:31.479
+them, then we'd be able to say that, you
+
+374
+00:24:31.489 --> 00:24:34.260
+know, I am happier. I have a better higher
+
+375
+00:24:34.270 --> 00:24:38.619
+well being than you buy that much. And uh
+
+376
+00:24:38.630 --> 00:24:43.420
+so, so, and then you could, you could uh
+
+377
+00:24:43.430 --> 00:24:48.400
+make that complicate, further complicate, complicate this further by
+
+378
+00:24:48.410 --> 00:24:50.199
+asking, you know, is there such thing as a
+
+379
+00:24:50.209 --> 00:24:54.969
+zero point um where you are, you know, neither
+
+380
+00:24:54.979 --> 00:24:58.569
+uh badly off nor well off. Uh And you
+
+381
+00:24:58.579 --> 00:25:03.709
+would call that ratio data. Uh So, um there
+
+382
+00:25:03.719 --> 00:25:07.199
+are very many different types of quantification and because
+
+383
+00:25:07.209 --> 00:25:10.500
+it's not written in the sky, what quantity is
+
+384
+00:25:10.839 --> 00:25:14.619
+in some ways people invent uh uh what counts
+
+385
+00:25:14.630 --> 00:25:21.579
+as a numerical representation. Um And uh sometimes those
+
+386
+00:25:21.589 --> 00:25:27.160
+mix the, the, the different numerical representations mix. So
+
+387
+00:25:27.170 --> 00:25:32.640
+people use merely or replies and then average them
+
+388
+00:25:33.140 --> 00:25:38.000
+in statistics. Um uh uh THEREFORE trying to derive
+
+389
+00:25:38.010 --> 00:25:42.160
+interval answers from ordinal data. And some people say
+
+390
+00:25:42.170 --> 00:25:44.520
+you can't do that. Some people say actually you
+
+391
+00:25:44.530 --> 00:25:48.170
+can um uh uh but all this is to
+
+392
+00:25:48.180 --> 00:25:52.800
+say that um you know, just uh when, when
+
+393
+00:25:52.810 --> 00:25:55.369
+people just tell you that I've got quantitative data,
+
+394
+00:25:55.880 --> 00:25:58.150
+you can still ask a lot of questions about
+
+395
+00:25:58.160 --> 00:26:01.390
+what kind of data you have and whether um
+
+396
+00:26:01.400 --> 00:26:03.729
+you know, yeah, it's very easy to put numbers
+
+397
+00:26:03.739 --> 00:26:08.790
+on something but uh doing it well uh is,
+
+398
+00:26:08.800 --> 00:26:11.989
+is a, is a, is a whole other um
+
+399
+00:26:12.000 --> 00:26:14.410
+complications. So, yeah, I don't think there is uh
+
+400
+00:26:14.420 --> 00:26:19.510
+right now any kind of um uh interval uh
+
+401
+00:26:19.599 --> 00:26:23.630
+data about well-being. Um That is that is possible
+
+402
+00:26:23.640 --> 00:26:28.670
+to have, I think ordinal quantification about well-being is
+
+403
+00:26:28.680 --> 00:26:33.099
+conceivable, but that's different for other uh objects, right?
+
+404
+00:26:33.109 --> 00:26:37.780
+So uh you know, interval data about uh length
+
+405
+00:26:37.790 --> 00:26:42.479
+is fine, interval, data about time is fine. Um
+
+406
+00:26:42.579 --> 00:26:46.420
+uh HEALTH is more complicated. Um So the story
+
+407
+00:26:46.430 --> 00:26:49.459
+of quantification is the story of trying to figure
+
+408
+00:26:49.469 --> 00:26:53.180
+out what exactly are the rules for quantities in
+
+409
+00:26:53.189 --> 00:26:58.520
+different spheres, right? And the, the big philosophical story
+
+410
+00:26:58.530 --> 00:27:01.219
+there is, you know, we, we want to try
+
+411
+00:27:01.229 --> 00:27:04.640
+and figure out context free rules for how to
+
+412
+00:27:04.650 --> 00:27:08.209
+quantify things. But that's not really possible because how
+
+413
+00:27:08.219 --> 00:27:10.869
+to quantify something has to depend on that thing
+
+414
+00:27:10.880 --> 00:27:14.680
+that you're quantifying and knowledge about that thing is
+
+415
+00:27:14.689 --> 00:27:16.849
+necessary for you to even begin to have a
+
+416
+00:27:16.859 --> 00:27:21.040
+conversation about what um yeah, what a quantity is.
+
+417
+00:27:22.000 --> 00:27:24.969
+So these next two questions, I think that in
+
+418
+00:27:24.979 --> 00:27:29.300
+a sense we've already been talking about them. Uh
+
+419
+00:27:29.310 --> 00:27:33.579
+But what would you say are the limits of
+
+420
+00:27:33.589 --> 00:27:34.660
+quantification?
+
+421
+00:27:36.199 --> 00:27:42.459
+Um uh LIMITS of quantification is uh OK. First,
+
+422
+00:27:42.530 --> 00:27:49.060
+by what kind of quantification. Um uh MINIMALLY quantification
+
+423
+00:27:49.069 --> 00:27:54.290
+requires uh, setting in um, a level of something,
+
+424
+00:27:54.689 --> 00:27:57.969
+um, relative to another level and another level and
+
+425
+00:27:57.979 --> 00:28:00.739
+another level in such a way as you'd be
+
+426
+00:28:00.750 --> 00:28:04.839
+able to compare different levels, right? And you have
+
+427
+00:28:04.849 --> 00:28:08.469
+to be able to compare it across, uh, uh
+
+428
+00:28:08.489 --> 00:28:13.540
+people who you're quantifying or states that you're quantifying
+
+429
+00:28:14.099 --> 00:28:18.290
+and you across context as well. So, um, you
+
+430
+00:28:18.300 --> 00:28:19.869
+have to, if you know, if you've taken a
+
+431
+00:28:19.880 --> 00:28:24.910
+questionnaire in uh in uh Porto and I've taken
+
+432
+00:28:24.920 --> 00:28:28.310
+a questionnaire in Cambridge, England. Uh We need to
+
+433
+00:28:28.319 --> 00:28:31.310
+be able to say that it means uh it
+
+434
+00:28:31.319 --> 00:28:34.880
+is comparable. We can, we can derive things from
+
+435
+00:28:34.890 --> 00:28:38.510
+it or, you know, people who study uh economic
+
+436
+00:28:38.520 --> 00:28:42.410
+inequality and they've got data about um you know,
+
+437
+00:28:42.420 --> 00:28:46.400
+the, the um how unequal is distribution of resources
+
+438
+00:28:46.410 --> 00:28:49.810
+in Porto versus in, in, in Cambridge. Again, we're
+
+439
+00:28:49.819 --> 00:28:53.969
+gonna have to uh be sure that tho those
+
+440
+00:28:53.979 --> 00:28:57.849
+things we've got are comparable, right? And if for
+
+441
+00:28:57.859 --> 00:29:01.000
+them to be comparable, we need, we need to
+
+442
+00:29:01.010 --> 00:29:04.520
+know that certain things remain uh the same, you
+
+443
+00:29:04.530 --> 00:29:07.069
+know, that that certain level of wealth means the
+
+444
+00:29:07.079 --> 00:29:10.689
+same in Cambridge as it means in, in, in
+
+445
+00:29:10.699 --> 00:29:15.694
+Porto, et cetera. So the biggest limit to quantification
+
+446
+00:29:15.704 --> 00:29:20.145
+is uh uh uh the fact that it is
+
+447
+00:29:20.155 --> 00:29:26.045
+difficult to justify such comparisons. We want these comparisons.
+
+448
+00:29:26.324 --> 00:29:29.045
+It is uh you know, we all are very
+
+449
+00:29:29.055 --> 00:29:37.089
+happily con con consume. Uh A about um uh
+
+450
+00:29:37.579 --> 00:29:40.859
+yeah, how much more unequal is a uh is
+
+451
+00:29:40.869 --> 00:29:44.540
+certain country than another, how much more happy is
+
+452
+00:29:44.550 --> 00:29:48.260
+a certain country than another, how much more developed
+
+453
+00:29:48.270 --> 00:29:51.310
+is a certain country than another. But in order
+
+454
+00:29:51.319 --> 00:29:55.339
+to make these justifications, uh the, the, these kind
+
+455
+00:29:55.349 --> 00:30:00.339
+of quantifications, you have to uh be sure that
+
+456
+00:30:00.349 --> 00:30:03.060
+uh that, that you are not comparing apples with
+
+457
+00:30:03.069 --> 00:30:06.300
+oranges, that you are turning things into all apples
+
+458
+00:30:06.310 --> 00:30:10.319
+or all oranges. So, um what is the, what's
+
+459
+00:30:10.329 --> 00:30:13.619
+the, what's the limit? It's the fact that people
+
+460
+00:30:13.630 --> 00:30:19.989
+forget how much uh controversial uh assumption goes into
+
+461
+00:30:20.000 --> 00:30:23.750
+a single uh uh even even what looks like
+
+462
+00:30:23.760 --> 00:30:26.510
+a simple ordinal uh quantification.
+
+463
+00:30:27.329 --> 00:30:31.630
+Mhm And what would you say are then the
+
+464
+00:30:31.640 --> 00:30:36.989
+biggest strengths or the strongest arguments in favor of
+
+465
+00:30:37.000 --> 00:30:37.949
+quantification?
+
+466
+00:30:40.280 --> 00:30:44.719
+Yeah, great. Let's go back to our um our
+
+467
+00:30:44.729 --> 00:30:48.560
+example of two kinds of information you could give
+
+468
+00:30:48.829 --> 00:30:52.869
+about uh uh well being of someone. So we've
+
+469
+00:30:52.880 --> 00:30:59.310
+already discussed how it's true that information about your
+
+470
+00:30:59.319 --> 00:31:03.170
+life, deep information about your life carries carries a
+
+471
+00:31:03.180 --> 00:31:08.770
+lot of uh really relevant content whereas a single
+
+472
+00:31:08.780 --> 00:31:12.380
+number doesn't. But when a single number is combined
+
+473
+00:31:12.390 --> 00:31:15.790
+with a lot of other numbers, it might carry
+
+474
+00:31:15.800 --> 00:31:18.760
+a lot of uh you know, I information that
+
+475
+00:31:18.770 --> 00:31:22.849
+wasn't there before. So in economics, for example, strongest
+
+476
+00:31:22.859 --> 00:31:29.359
+arguments, uh um strongest things that quantification has uh
+
+477
+00:31:29.369 --> 00:31:33.880
+uh enabled. He is um uh yeah, being able
+
+478
+00:31:33.890 --> 00:31:39.760
+to uh make very transparent, very clear and very
+
+479
+00:31:39.770 --> 00:31:47.239
+digestible arguments about uh say superiority of one policy
+
+480
+00:31:47.250 --> 00:31:51.780
+over another. Um uh When uh uh there is
+
+481
+00:31:51.790 --> 00:31:54.640
+a really important book called Trust In Numbers by
+
+482
+00:31:54.650 --> 00:31:58.650
+Ted Porter. Um And that uh tells the story
+
+483
+00:31:58.660 --> 00:32:01.619
+of how cost benefit analysis came to be, which
+
+484
+00:32:01.630 --> 00:32:05.160
+is one of the uh great examples of triumph
+
+485
+00:32:05.170 --> 00:32:08.079
+of quantification in the social sphere. There is no
+
+486
+00:32:08.510 --> 00:32:14.300
+uh there's no big, well, hardly any big decisions
+
+487
+00:32:14.310 --> 00:32:18.199
+uh made without cost benefit analysis in today's democracy.
+
+488
+00:32:18.209 --> 00:32:22.420
+Well, Brexit was uh uh but that's uh uh
+
+489
+00:32:22.430 --> 00:32:26.900
+but that's another story. Um But why is uh
+
+490
+00:32:26.910 --> 00:32:31.079
+cost benefit analysis? Uh A nice thing to, to,
+
+491
+00:32:31.089 --> 00:32:34.020
+to do and to have, well, it's because if
+
+492
+00:32:34.030 --> 00:32:37.599
+you are um if you, if you have rules
+
+493
+00:32:37.609 --> 00:32:40.920
+about how you quantify all the benefits and all
+
+494
+00:32:40.930 --> 00:32:44.719
+the costs and then lay them out that enables
+
+495
+00:32:44.729 --> 00:32:47.699
+other people to check that you have done a
+
+496
+00:32:47.709 --> 00:32:54.239
+good job. It, it creates a very transparent system
+
+497
+00:32:54.439 --> 00:32:59.880
+that can uh provide accountability for decisions and it
+
+498
+00:32:59.890 --> 00:33:05.000
+enables democracy, it enables participation and it enables oversight.
+
+499
+00:33:06.010 --> 00:33:10.150
+So um sure it will introduce a lot of
+
+500
+00:33:10.160 --> 00:33:14.790
+simplification because how could you possibly quantify something um
+
+501
+00:33:15.010 --> 00:33:18.280
+as big and philosophical as a cost and the
+
+502
+00:33:18.290 --> 00:33:23.089
+benefit. But if you, if you do it thoroughly
+
+503
+00:33:23.369 --> 00:33:28.449
+with uh systematic procedures and treat all cases alike
+
+504
+00:33:28.550 --> 00:33:31.729
+and uh um uh put in the work, then
+
+505
+00:33:31.739 --> 00:33:34.050
+other people will be able to check your work,
+
+506
+00:33:34.530 --> 00:33:38.199
+right? And then we have something to talk about.
+
+507
+00:33:38.469 --> 00:33:40.250
+Uh ABOUT whether or not you've made a good
+
+508
+00:33:40.260 --> 00:33:43.979
+decision, whether you, whether the evidence justifies investment in
+
+509
+00:33:43.989 --> 00:33:47.900
+a particular piece of infrastructure. So that kind of
+
+510
+00:33:47.910 --> 00:33:54.959
+enabling of accountability, oversight and then representation as well.
+
+511
+00:33:55.180 --> 00:33:58.199
+You know, the there is no way if you,
+
+512
+00:33:58.209 --> 00:34:02.560
+if you really want to expose a certain injustice,
+
+513
+00:34:03.010 --> 00:34:06.640
+there's nothing like showing the numbers behind it. There's
+
+514
+00:34:06.650 --> 00:34:11.610
+nothing like showing um uh for example, level of
+
+515
+00:34:11.620 --> 00:34:17.179
+um uh sexual violence or levels of uh um
+
+516
+00:34:17.478 --> 00:34:21.659
+um a certain kind of uh uh I don't
+
+517
+00:34:21.668 --> 00:34:24.399
+know, economic injustice. If you, if you put the
+
+518
+00:34:24.409 --> 00:34:26.909
+numbers in, in front of people, look how ter
+
+519
+00:34:27.040 --> 00:34:30.070
+how look how unequal outcomes are for different groups
+
+520
+00:34:30.080 --> 00:34:34.219
+of people um for, for, for, in a particular
+
+521
+00:34:34.228 --> 00:34:39.989
+context. Um Numbers are amazing at that. Uh So
+
+522
+00:34:40.000 --> 00:34:43.600
+and ignoring numbers is uh a very, very big
+
+523
+00:34:43.610 --> 00:34:47.830
+mistake and trying to, to, to, to get away
+
+524
+00:34:47.840 --> 00:34:49.590
+from them is a, is a very big mistake.
+
+525
+00:34:49.600 --> 00:34:53.260
+So numbers have uh a power, a power that
+
+526
+00:34:53.270 --> 00:34:56.370
+can be abused. Well, that's the case with everything,
+
+527
+00:34:56.379 --> 00:34:59.020
+right? Uh So, and which is why I think
+
+528
+00:34:59.030 --> 00:35:02.600
+it is uh uh a really big mistake to
+
+529
+00:35:03.120 --> 00:35:06.219
+sort of um uh speak in a blanket ways
+
+530
+00:35:06.229 --> 00:35:11.600
+about uh uh Yeah. Good quantification, good or quantification
+
+531
+00:35:11.610 --> 00:35:13.020
+bad. Mhm
+
+532
+00:35:13.510 --> 00:35:18.899
+So earlier, we've talked about CPS, no idea of
+
+533
+00:35:18.909 --> 00:35:23.320
+the two cultures in science. And uh the, the,
+
+534
+00:35:23.330 --> 00:35:26.469
+the way that we tend to think about quantitative
+
+535
+00:35:26.479 --> 00:35:32.020
+and qualitative data as strictly separate but ha have
+
+536
+00:35:32.030 --> 00:35:37.530
+you seen that uh society's relationship to numerical data
+
+537
+00:35:37.540 --> 00:35:41.469
+has changed over time? And if so, in what
+
+538
+00:35:41.479 --> 00:35:42.229
+direction
+
+539
+00:35:44.080 --> 00:35:47.530
+on the one hand, um we live in a,
+
+540
+00:35:47.850 --> 00:35:51.959
+a more quantified world than ever. Um Many of
+
+541
+00:35:51.969 --> 00:35:56.209
+us were um uh trackers uh that uh you
+
+542
+00:35:56.219 --> 00:35:58.290
+know, tell us how many steps we take a
+
+543
+00:35:58.300 --> 00:36:02.169
+day and how mu how many hours of sleep
+
+544
+00:36:02.179 --> 00:36:06.090
+we get, we get um we are more surveyed
+
+545
+00:36:06.100 --> 00:36:10.649
+than ever before. Um uh You know, every time
+
+546
+00:36:10.659 --> 00:36:15.409
+you uh post a video on youtube, you will
+
+547
+00:36:15.419 --> 00:36:20.040
+know how many views it got and your impact
+
+548
+00:36:20.050 --> 00:36:23.379
+and your growth will be often evaluated on the
+
+549
+00:36:23.389 --> 00:36:27.360
+basis of these numbers. So, on the one hand,
+
+550
+00:36:27.370 --> 00:36:31.360
+uh um uh we've uh you, you could think
+
+551
+00:36:31.370 --> 00:36:34.520
+that of modern history is a triumph of quantification
+
+552
+00:36:35.260 --> 00:36:40.429
+at the same time. Uh uh uh uh CON
+
+553
+00:36:40.629 --> 00:36:45.100
+construction of numbers uh um requires a great deal
+
+554
+00:36:45.110 --> 00:36:49.520
+of expertise and some uh uh of these numbers
+
+555
+00:36:49.530 --> 00:36:54.379
+will be greatly uh questioned more than others. So,
+
+556
+00:36:54.600 --> 00:36:57.659
+uh what is known and what, what, what I
+
+557
+00:36:57.669 --> 00:36:59.840
+think is familiar to many of us as a
+
+558
+00:36:59.850 --> 00:37:03.179
+crisis of expertise or a rise of uh a
+
+559
+00:37:03.189 --> 00:37:08.810
+special rejection of expertise. Um WHETHER it is about
+
+560
+00:37:08.820 --> 00:37:14.800
+uh pandemic policy or economic policy or, or anything
+
+561
+00:37:14.810 --> 00:37:18.719
+else or, you know, rejection, for example of um
+
+562
+00:37:19.370 --> 00:37:23.760
+uh cer certain uh kind of medical advice uh
+
+563
+00:37:24.060 --> 00:37:30.149
+right, all of that um uh is often comes
+
+564
+00:37:30.159 --> 00:37:32.560
+out out of skepticism for the numbers that are
+
+565
+00:37:32.570 --> 00:37:36.520
+being, uh, that are being put forward. So, you
+
+566
+00:37:36.530 --> 00:37:39.989
+know, you can quantify, uh, uh, a lot of
+
+567
+00:37:40.000 --> 00:37:46.500
+things, um, astrologically you could measure people's heads. Uh,
+
+568
+00:37:46.510 --> 00:37:51.129
+YOU could measure the number of words they use
+
+569
+00:37:51.370 --> 00:37:54.120
+or, you know, or the, whatever the number of
+
+570
+00:37:54.129 --> 00:37:57.219
+brain cells, uh, they have, you could have them
+
+571
+00:37:57.229 --> 00:38:03.959
+have, uh, do, do questionnaires about, uh, IQ and
+
+572
+00:38:03.969 --> 00:38:07.750
+you could be fantastically skeptical about those numbers, meaning
+
+573
+00:38:07.760 --> 00:38:10.260
+anything at all, right? And you could have all
+
+574
+00:38:10.270 --> 00:38:12.790
+sorts of reasons to ignore them. So which is
+
+575
+00:38:12.800 --> 00:38:16.310
+why it is that the story of quantification is
+
+576
+00:38:16.320 --> 00:38:18.899
+not a story necessarily of triumph.
+
+577
+00:38:20.060 --> 00:38:26.169
+Mhm So before we move beyond our discussion about
+
+578
+00:38:26.179 --> 00:38:30.020
+quantification, I have uh one more question about it.
+
+579
+00:38:30.030 --> 00:38:33.699
+So uh do you think that it would be
+
+580
+00:38:33.709 --> 00:38:41.209
+ethical for, for example, politicians, political institutions to manipulate
+
+581
+00:38:41.219 --> 00:38:46.870
+the public with numbers if that has some sort
+
+582
+00:38:46.879 --> 00:38:49.699
+of good social effects?
+
+583
+00:38:49.860 --> 00:38:53.189
+Well, it's easy to say uh no, it wouldn't
+
+584
+00:38:53.199 --> 00:38:57.679
+be right because mani manipulation is always wrong, but
+
+585
+00:38:57.689 --> 00:39:01.050
+you look uh uh closely to it and it
+
+586
+00:39:01.360 --> 00:39:07.090
+begins to look more complicated. So, um if you
+
+587
+00:39:07.100 --> 00:39:09.209
+know, for example, you know, if you as a
+
+588
+00:39:09.219 --> 00:39:15.350
+doctor presenting a patient with certain options, um and
+
+589
+00:39:15.360 --> 00:39:17.699
+the patient has a lot less information and a
+
+590
+00:39:17.709 --> 00:39:22.850
+lot less expertise than you do about it. And
+
+591
+00:39:22.860 --> 00:39:26.780
+uh you have an idea about uh uh what
+
+592
+00:39:26.790 --> 00:39:32.479
+is better for that uh patient, right? Um uh
+
+593
+00:39:32.750 --> 00:39:35.000
+YOU know, what, what is, what will save their
+
+594
+00:39:35.010 --> 00:39:39.699
+life. Uh For example, you may, well, you, you
+
+595
+00:39:39.709 --> 00:39:43.500
+wouldn't be mani, would it be manipulating to present
+
+596
+00:39:43.510 --> 00:39:46.080
+uh those data that make it more likely for
+
+597
+00:39:46.090 --> 00:39:49.800
+the patient to agree to a procedure? Uh I
+
+598
+00:39:49.810 --> 00:39:55.929
+mean, yes and no. Right. Yeah. Um So exactly.
+
+599
+00:39:55.939 --> 00:40:00.479
+Uh OR for example, as the government that uh
+
+600
+00:40:00.790 --> 00:40:05.090
+um uh you know, has certain data about uh
+
+601
+00:40:05.550 --> 00:40:09.530
+um uh the, the, the effect of smoking on.
+
+602
+00:40:10.199 --> 00:40:13.949
+Yeah, health and cancer. Um uh Well, are they
+
+603
+00:40:13.959 --> 00:40:17.939
+manipulating these data if they, if they present them
+
+604
+00:40:17.949 --> 00:40:20.409
+in such a way as makes it more likely
+
+605
+00:40:20.610 --> 00:40:28.510
+that people stop smoking? Um uh I think uh
+
+606
+00:40:28.760 --> 00:40:34.070
+in general, um oh yeah, of course, we've, you
+
+607
+00:40:34.080 --> 00:40:37.800
+know, we know how we know how mu how,
+
+608
+00:40:37.909 --> 00:40:41.020
+how much uh abuse can happen with a certain
+
+609
+00:40:41.030 --> 00:40:45.760
+deployment of statistics, um certain deployment of numbers, but
+
+610
+00:40:45.770 --> 00:40:49.300
+then abuse can happen with deployment of narratives as
+
+611
+00:40:49.310 --> 00:40:53.570
+well. Uh It's actually, yeah, very easy to uh
+
+612
+00:40:53.580 --> 00:40:57.159
+you know, tell a story and, and capture imagination
+
+613
+00:40:57.169 --> 00:41:01.040
+and uh and destroy uh uh a wealth of
+
+614
+00:41:01.050 --> 00:41:05.860
+expert knowledge um uh just with a single story.
+
+615
+00:41:06.500 --> 00:41:10.889
+So um uh I think manipulation, all this is
+
+616
+00:41:10.899 --> 00:41:14.120
+to say that manipulation will happen either way. Uh
+
+617
+00:41:14.129 --> 00:41:18.250
+And I don't think uh the manipulation of numerical
+
+618
+00:41:18.649 --> 00:41:22.139
+is uh any less problematic or any more problematic
+
+619
+00:41:22.149 --> 00:41:26.610
+than the manipulation of the qualitative. And the only
+
+620
+00:41:26.620 --> 00:41:29.080
+thing we can do to resist that is to
+
+621
+00:41:29.090 --> 00:41:34.080
+have uh um yes, to have uh to, to
+
+622
+00:41:34.090 --> 00:41:37.790
+support people in our democracies who, whose job it
+
+623
+00:41:37.800 --> 00:41:42.000
+is when they look, when they see something that's
+
+624
+00:41:42.010 --> 00:41:48.169
+wrong and that's false. Who say so? Right. And
+
+625
+00:41:48.179 --> 00:41:52.590
+who say so without fear of being attacked? Um,
+
+626
+00:41:52.600 --> 00:41:55.800
+SO a class of uh experts that are able
+
+627
+00:41:55.810 --> 00:42:00.000
+to uh see uh b yes, so to speak.
+
+628
+00:42:00.209 --> 00:42:04.479
+Um, AND know that it is there and be,
+
+629
+00:42:04.489 --> 00:42:07.320
+be able to speak up. They are completely essential
+
+630
+00:42:07.330 --> 00:42:10.399
+to our democracies and our welfare.
+
+631
+00:42:11.149 --> 00:42:14.899
+Mhm So another topic that I would like to
+
+632
+00:42:14.909 --> 00:42:19.840
+ask you about today is uh a thick concept.
+
+633
+00:42:19.850 --> 00:42:23.090
+So what are a thick concepts exactly?
+
+634
+00:42:24.340 --> 00:42:27.439
+Uh Thank you for asking a thick concept is
+
+635
+00:42:28.239 --> 00:42:34.419
+a notion that philosophers have known about um um
+
+636
+00:42:34.760 --> 00:42:39.100
+since mid 20th century, philosophers like Bernard Williams and
+
+637
+00:42:39.110 --> 00:42:44.310
+Elizabeth Anderson and uh uh uh Hillary Putnam have
+
+638
+00:42:44.379 --> 00:42:48.810
+uh written on it extensively. Uh Thick concepts are
+
+639
+00:42:48.820 --> 00:42:54.620
+interesting because they both uh describe and they evaluate.
+
+640
+00:42:54.899 --> 00:42:59.399
+So for example, a concept like uh uh shame
+
+641
+00:42:59.409 --> 00:43:03.060
+or courage, it tells you what a person is
+
+642
+00:43:03.070 --> 00:43:06.780
+like as well as saying that it is a
+
+643
+00:43:06.790 --> 00:43:10.739
+virtuous person and, or, or a, or a vicious
+
+644
+00:43:10.750 --> 00:43:14.010
+one in, in a particular way. And uh the
+
+645
+00:43:14.020 --> 00:43:16.669
+reason why they are really tricky and interesting from
+
+646
+00:43:16.679 --> 00:43:19.709
+philosophical point of view is that sometimes the descriptive
+
+647
+00:43:19.719 --> 00:43:23.709
+and the evaluative cannot be uh uh separated and
+
+648
+00:43:23.719 --> 00:43:26.479
+they are entangled in a way. So philosophers of
+
+649
+00:43:26.489 --> 00:43:31.810
+language Um uh And ethicists often pore over the
+
+650
+00:43:31.820 --> 00:43:36.580
+significance of this uh uh concepts that are, you
+
+651
+00:43:36.590 --> 00:43:40.300
+know, both describe and evaluate and apparently can in
+
+652
+00:43:40.310 --> 00:43:43.699
+a way that cannot be separated. I however, am
+
+653
+00:43:43.709 --> 00:43:46.850
+interested in the concept as a philosopher of science
+
+654
+00:43:47.120 --> 00:43:50.459
+because I think a lot of objects of science
+
+655
+00:43:50.469 --> 00:43:55.129
+um in the social and biomedical sciences are thick
+
+656
+00:43:55.340 --> 00:44:03.810
+and they are uh um health um um security,
+
+657
+00:44:03.860 --> 00:44:11.739
+sustainability, uh well being quality of life, frailty um
+
+658
+00:44:11.750 --> 00:44:15.419
+resilience uh and so on. I can, I can
+
+659
+00:44:15.429 --> 00:44:22.010
+go on. Um So modern science studies thick concepts
+
+660
+00:44:22.560 --> 00:44:26.020
+because otherwise it wouldn't be studying, if it didn't
+
+661
+00:44:26.030 --> 00:44:28.540
+study the concepts, it wouldn't be studying things that
+
+662
+00:44:28.550 --> 00:44:32.959
+are of interest to uh communities that enable them.
+
+663
+00:44:33.760 --> 00:44:38.290
+It's a, it's a responsibility of sciences to study
+
+664
+00:44:38.729 --> 00:44:43.500
+phenomena denoted by thick concepts. And yet they raise
+
+665
+00:44:43.510 --> 00:44:47.439
+a genuine challenge to science because they require making
+
+666
+00:44:47.449 --> 00:44:53.669
+value judgments and scientists um aren't particularly trained to
+
+667
+00:44:53.679 --> 00:44:57.489
+make good value judgments and are, aren't particularly trained
+
+668
+00:44:57.500 --> 00:45:03.379
+to oversee each other's value judgments. Peer review isn't
+
+669
+00:45:03.389 --> 00:45:06.179
+particularly good at handling, you know, have you made
+
+670
+00:45:06.189 --> 00:45:09.780
+your thick concepts? Well, and apt so as a
+
+671
+00:45:09.790 --> 00:45:13.860
+result, um when scientists study thick concepts, they're very,
+
+672
+00:45:13.870 --> 00:45:16.679
+they're often tempted turning them to turn them into
+
+673
+00:45:16.689 --> 00:45:20.030
+thin thin concepts that are just technical terms. Well,
+
+674
+00:45:20.040 --> 00:45:22.300
+I don't care what well being is, I'll just
+
+675
+00:45:22.310 --> 00:45:25.379
+say life satisfaction rating, that's what well being is.
+
+676
+00:45:25.760 --> 00:45:29.239
+So that's called operational. And you know, when you,
+
+677
+00:45:29.250 --> 00:45:31.679
+when you say that, you know, the thing that
+
+678
+00:45:31.689 --> 00:45:34.879
+I study is, is what I can measure and
+
+679
+00:45:34.889 --> 00:45:37.020
+I'm not interested in what that thing really is.
+
+680
+00:45:37.850 --> 00:45:41.560
+Um, OR, you know, or, or they, or they
+
+681
+00:45:41.570 --> 00:45:45.649
+say that, you know, well, uh, you know, I
+
+682
+00:45:45.659 --> 00:45:48.510
+know what well being is and I know well
+
+683
+00:45:48.520 --> 00:45:50.629
+being is amount of pleasure. So I'm just gonna
+
+684
+00:45:50.639 --> 00:45:52.879
+go ahead and measure the amount of pleasure and
+
+685
+00:45:52.889 --> 00:45:56.270
+call that well being in both of those cases,
+
+686
+00:45:56.280 --> 00:45:59.270
+whether you're turning something into a technical term or
+
+687
+00:45:59.280 --> 00:46:01.510
+with the way you, you were deciding to make
+
+688
+00:46:01.520 --> 00:46:05.100
+the uh well being judgment, the value judgment yourself.
+
+689
+00:46:05.570 --> 00:46:10.270
+Um You're not doing very good responsible science because
+
+690
+00:46:10.280 --> 00:46:13.290
+um about exactly what is responsible science when it
+
+691
+00:46:13.300 --> 00:46:17.280
+comes to fake concepts uh isn't clear. Uh So
+
+692
+00:46:17.290 --> 00:46:19.560
+that's what, that's something I've been talking. I've been
+
+693
+00:46:19.570 --> 00:46:23.050
+writing about with my uh uh co-author uh like
+
+694
+00:46:23.060 --> 00:46:27.330
+Mark Fabian Diane Coyle, Alexandra Basso is, how would
+
+695
+00:46:27.340 --> 00:46:32.080
+you um responsibly treat uh things like thick concepts
+
+696
+00:46:32.090 --> 00:46:34.699
+and whether do they need special rules uh in
+
+697
+00:46:34.709 --> 00:46:38.929
+scientific method? Um I, I think that's an open
+
+698
+00:46:38.939 --> 00:46:41.229
+question. I don't have all the answers, but it's
+
+699
+00:46:41.239 --> 00:46:43.709
+a really urgent question that I think philosophers need
+
+700
+00:46:43.719 --> 00:46:46.879
+to be uh talking about and scientists too. That's
+
+701
+00:46:46.889 --> 00:46:47.580
+the hope
+
+702
+00:46:48.760 --> 00:46:52.459
+it's an open question. And in your work linking
+
+703
+00:46:52.469 --> 00:46:56.379
+this to another idea you talk about, for example,
+
+704
+00:46:56.389 --> 00:47:01.979
+the democratization of measurement. And uh you suggest that
+
+705
+00:47:01.989 --> 00:47:05.780
+perhaps a way of dealing with issues as you
+
+706
+00:47:05.790 --> 00:47:09.955
+mentioned there, as you described there surrounding thick concepts
+
+707
+00:47:09.965 --> 00:47:15.685
+would be actually this to democratize measurement. So what
+
+708
+00:47:15.695 --> 00:47:20.435
+is uh the democratization of measurement exactly? And what
+
+709
+00:47:20.445 --> 00:47:23.715
+would it entail for science?
+
+710
+00:47:25.050 --> 00:47:29.149
+Suppose you agreed that thick concepts are important to,
+
+711
+00:47:29.159 --> 00:47:33.699
+to study and thick concepts are inimitable. That means
+
+712
+00:47:33.709 --> 00:47:38.239
+you agree that scientists need to make value judgments
+
+713
+00:47:38.270 --> 00:47:42.800
+in order to um proceed even with such basic
+
+714
+00:47:42.810 --> 00:47:48.899
+activities as measurement. Um AND then who's gonna be
+
+715
+00:47:48.909 --> 00:47:52.810
+making those value judgments? So for example, suppose you're
+
+716
+00:47:52.820 --> 00:47:58.189
+tasked with measuring well being as a um as
+
+717
+00:47:58.199 --> 00:48:01.639
+a psychologist, is it OK for you to just
+
+718
+00:48:01.649 --> 00:48:05.699
+say, well, well-being is how people feel. Therefore, I'm
+
+719
+00:48:05.709 --> 00:48:10.139
+going to measure how people feel. Oh really? Well,
+
+720
+00:48:10.560 --> 00:48:12.959
+are you sure? Well being is how people feel,
+
+721
+00:48:12.969 --> 00:48:17.080
+how people feel about what exactly uh you, if
+
+722
+00:48:17.090 --> 00:48:19.820
+you, if you're doing this all by yourself, you
+
+723
+00:48:19.830 --> 00:48:22.550
+or if you're doing it by relying on uh
+
+724
+00:48:22.600 --> 00:48:25.250
+I don't know what your predecessors have done you
+
+725
+00:48:25.260 --> 00:48:29.219
+in some ways, monopolizing judgments about well being in
+
+726
+00:48:29.229 --> 00:48:31.979
+a way that is wrong because you're not actually
+
+727
+00:48:31.989 --> 00:48:37.300
+qualified to do that. Um If you took seriously
+
+728
+00:48:37.350 --> 00:48:42.590
+the duty of uh a studying phenomena denoted by
+
+729
+00:48:42.600 --> 00:48:46.439
+the concept, you would want to involve other types
+
+730
+00:48:46.449 --> 00:48:53.000
+of expertise in deciding um what the third concept
+
+731
+00:48:53.010 --> 00:48:57.510
+denotes and how it can be responsibly measured. Maybe
+
+732
+00:48:57.520 --> 00:49:01.600
+some people will have lived experience uh of, of,
+
+733
+00:49:01.610 --> 00:49:04.840
+of this phenomenon. Suppose you want to measure um
+
+734
+00:49:05.139 --> 00:49:08.810
+uh what it means to thrive under uh uh
+
+735
+00:49:08.820 --> 00:49:13.919
+financial insecurity. That's a project that I've done recently
+
+736
+00:49:13.929 --> 00:49:17.399
+with a UK charity called Turn To Us. Um
+
+737
+00:49:17.719 --> 00:49:20.540
+It would be really wrong. Uh I've had a
+
+738
+00:49:20.550 --> 00:49:23.399
+lot of different kinds of insecurity in my life.
+
+739
+00:49:23.409 --> 00:49:26.310
+Um You know, I'm an immigrant uh uh uh
+
+740
+00:49:26.320 --> 00:49:30.580
+from a country with a bad passport. Uh BUT
+
+741
+00:49:30.590 --> 00:49:35.320
+I have not really known um homelessness, right. But
+
+742
+00:49:35.330 --> 00:49:37.750
+it, so it would be wrong for me to
+
+743
+00:49:37.760 --> 00:49:42.570
+decide what is thriving, having never experienced homelessness and
+
+744
+00:49:42.580 --> 00:49:45.469
+having not talked to people who have. So when
+
+745
+00:49:45.479 --> 00:49:49.050
+we talk about democratization of measurement, we're talking about
+
+746
+00:49:49.060 --> 00:49:53.750
+involvement of people with different kinds of expertise, including
+
+747
+00:49:53.760 --> 00:49:57.870
+lived in expertise in the very delineation of the
+
+748
+00:49:57.879 --> 00:50:02.090
+object of study. And I don't see how it
+
+749
+00:50:02.100 --> 00:50:06.290
+is possible to be a responsible scientist uh interested
+
+750
+00:50:06.300 --> 00:50:10.379
+in the concept without doing something like that. But
+
+751
+00:50:10.389 --> 00:50:13.189
+there are different ways of involving uh you know,
+
+752
+00:50:13.199 --> 00:50:16.250
+it doesn't mean you have to, you know, always
+
+753
+00:50:16.260 --> 00:50:20.270
+open up your measures to a democratic vote, but
+
+754
+00:50:20.280 --> 00:50:23.949
+you definitely do have a responsibility not to monopolize
+
+755
+00:50:23.959 --> 00:50:26.129
+as a scientist, the value judgment.
+
+756
+00:50:26.800 --> 00:50:29.639
+Mhm uh Could you tell us a little bit
+
+757
+00:50:29.649 --> 00:50:34.419
+more about that case study that you did with
+
+758
+00:50:34.429 --> 00:50:38.120
+uh turn to us to understand perhaps a little
+
+759
+00:50:38.129 --> 00:50:43.840
+bit better about how uh coal production would work
+
+760
+00:50:43.850 --> 00:50:48.780
+uh within this framework of democratizing measurement.
+
+761
+00:50:49.659 --> 00:50:53.120
+Thank you. So, coproduction is a word uh that
+
+762
+00:50:53.129 --> 00:50:56.169
+gets used in very many different ways in philosophy
+
+763
+00:50:56.179 --> 00:50:59.379
+and science studies. Uh Some people say that uh
+
+764
+00:50:59.389 --> 00:51:02.570
+um yeah, co production is uh you know, a
+
+765
+00:51:02.580 --> 00:51:07.540
+co evolution of science and uh uh technology and
+
+766
+00:51:07.550 --> 00:51:11.929
+society at once. And other people talk about co
+
+767
+00:51:12.090 --> 00:51:16.800
+production as uh you know, creating uh products um
+
+768
+00:51:16.810 --> 00:51:21.310
+with users in mind. Uh CO production as Mark
+
+769
+00:51:21.320 --> 00:51:25.800
+Fabian and I um uh have explored um because
+
+770
+00:51:25.810 --> 00:51:30.280
+of our uh uh experience of working with uh
+
+771
+00:51:30.620 --> 00:51:33.820
+uh the, the anti poverty charity turned to us
+
+772
+00:51:34.040 --> 00:51:38.040
+is uh the following sense, we want to figure
+
+773
+00:51:38.050 --> 00:51:44.290
+out how to croce definitions and measures of uh
+
+774
+00:51:44.320 --> 00:51:49.040
+uh uh phenomena denoted by thick concepts in a
+
+775
+00:51:49.050 --> 00:51:53.840
+way that includes different types of experts. So we
+
+776
+00:51:53.850 --> 00:51:57.510
+think there are three different sources of expertise. If
+
+777
+00:51:57.520 --> 00:52:00.760
+you are interested in ethic concept, like well being
+
+778
+00:52:00.770 --> 00:52:05.889
+or sustainability or resilience, there's your expertise as a,
+
+779
+00:52:05.899 --> 00:52:10.010
+as a scientist or, or a philosopher where, you
+
+780
+00:52:10.020 --> 00:52:12.919
+know, you know, relevant theories and you know, how
+
+781
+00:52:12.929 --> 00:52:16.239
+measures work, you know, psychometrics, you know, metrology, you
+
+782
+00:52:16.250 --> 00:52:19.340
+know, how difficult it is to quantify things. Uh
+
+783
+00:52:19.350 --> 00:52:22.429
+Then there is the lived expertise of what it's
+
+784
+00:52:22.439 --> 00:52:26.600
+like, for example, to um gain resilience as a
+
+785
+00:52:26.610 --> 00:52:30.419
+person or a community uh or what it's like
+
+786
+00:52:30.429 --> 00:52:33.739
+to live in um uh to, to be able
+
+787
+00:52:33.750 --> 00:52:38.419
+to thrive um uh under financial insecurity. Um So
+
+788
+00:52:38.429 --> 00:52:42.500
+that's a second kind. And then the third kind
+
+789
+00:52:42.510 --> 00:52:47.360
+is professional expertise, expertise of uh you know, front
+
+790
+00:52:47.370 --> 00:52:52.780
+level, uh front line bureaucrats um of social workers,
+
+791
+00:52:52.790 --> 00:52:56.310
+of charity workers who try to figure out um
+
+792
+00:52:56.320 --> 00:52:59.580
+how to provide certain services, how to uh to
+
+793
+00:52:59.590 --> 00:53:03.939
+relief. So there probably are other cases. Uh THERE
+
+794
+00:53:03.949 --> 00:53:06.489
+probably are other sources of expertise, but those are
+
+795
+00:53:06.500 --> 00:53:09.699
+the three that we thought was uh enough for
+
+796
+00:53:09.709 --> 00:53:13.229
+our case. So if you really want to cope
+
+797
+00:53:13.239 --> 00:53:18.280
+uh to democratize measurement of uh scientific uh of
+
+798
+00:53:18.290 --> 00:53:22.129
+thick concepts uh to coro you want, you want
+
+799
+00:53:22.139 --> 00:53:24.919
+to croce them and to croce them, you want
+
+800
+00:53:24.929 --> 00:53:28.989
+to include all three types of expertise. And then
+
+801
+00:53:29.000 --> 00:53:32.520
+if you manage to produce, maybe they will maybe,
+
+802
+00:53:32.590 --> 00:53:35.919
+maybe nothing will ari arouse of maybe maybe no
+
+803
+00:53:35.929 --> 00:53:41.449
+single concept can uh respond to all three, right?
+
+804
+00:53:41.459 --> 00:53:44.360
+And can can maybe there will be no agreement
+
+805
+00:53:44.679 --> 00:53:47.729
+in the end between three types of expertise in
+
+806
+00:53:47.760 --> 00:53:51.270
+which case, you're not gonna have a measure. But
+
+807
+00:53:51.439 --> 00:53:55.229
+if you thought, you know, if you, if you
+
+808
+00:53:55.239 --> 00:53:58.479
+did, then that would be the, the, the co
+
+809
+00:53:58.560 --> 00:54:01.919
+production ideal uh that, that we're looking for and
+
+810
+00:54:01.929 --> 00:54:03.780
+we think it is sometimes possible.
+
+811
+00:54:04.419 --> 00:54:08.510
+Mhm You know, a a very interesting thing that
+
+812
+00:54:08.520 --> 00:54:11.340
+I would like to comment on and perhaps ask
+
+813
+00:54:11.350 --> 00:54:13.929
+you another question about the uh that you mentioned
+
+814
+00:54:13.939 --> 00:54:18.879
+there is the fact that you also include lived
+
+815
+00:54:18.889 --> 00:54:23.899
+expertise or lived experts in this endeavor because I
+
+816
+00:54:23.909 --> 00:54:28.070
+mean, we've already talked here today about how we
+
+817
+00:54:28.080 --> 00:54:33.360
+tend to put uh quantitative data above qualitative data
+
+818
+00:54:33.435 --> 00:54:37.455
+in terms of rigorousness, for example, and how seriously
+
+819
+00:54:37.465 --> 00:54:42.225
+we should take those data scientifically. But i, it's
+
+820
+00:54:42.235 --> 00:54:47.235
+even more common perhaps for the people, even many
+
+821
+00:54:47.245 --> 00:54:53.024
+times, scientists themselves to uh dismiss um, the, the
+
+822
+00:54:53.034 --> 00:54:58.524
+lived experiences of people they are studying and perhaps
+
+823
+00:54:58.655 --> 00:55:02.830
+when it comes to trying to understand uh their
+
+824
+00:55:02.840 --> 00:55:10.409
+psychology, for example, imposing certain ways of rationalizing their
+
+825
+00:55:10.419 --> 00:55:16.060
+own experiences when they themselves perhaps have not experienced
+
+826
+00:55:16.070 --> 00:55:16.449
+it.
+
+827
+00:55:16.879 --> 00:55:24.360
+Right. Mhm. Um There'll be a number of biases
+
+828
+00:55:24.399 --> 00:55:29.870
+that any expert is prone to make. Uh And
+
+829
+00:55:29.879 --> 00:55:31.610
+that will be true whether or not you're a
+
+830
+00:55:31.620 --> 00:55:35.100
+lift expert, whether or not you are an academic
+
+831
+00:55:35.110 --> 00:55:38.429
+expert or whether or not you are a professional
+
+832
+00:55:38.439 --> 00:55:44.070
+expert. And uh there is no reason to focus
+
+833
+00:55:44.790 --> 00:55:50.459
+uh more or exclusively on the biases connected to
+
+834
+00:55:50.510 --> 00:55:55.639
+the lived expertise than any other. Uh So my
+
+835
+00:55:55.649 --> 00:55:59.770
+worry with uh philosophers who uh and scholars who
+
+836
+00:55:59.780 --> 00:56:05.610
+say, well, we can't include the people um in
+
+837
+00:56:05.620 --> 00:56:11.770
+our studies because they're biased or they are ideological
+
+838
+00:56:12.510 --> 00:56:19.669
+or they are um misinformed. Um Because uh yeah,
+
+839
+00:56:19.679 --> 00:56:24.219
+for obvious reason that that's uh um tends to
+
+840
+00:56:24.229 --> 00:56:28.969
+represent uh you as not being subjected to such
+
+841
+00:56:28.979 --> 00:56:34.129
+biases. So it's very difficult to do co production.
+
+842
+00:56:34.149 --> 00:56:37.290
+Uh YOU, it will force uh if we really
+
+843
+00:56:37.300 --> 00:56:42.239
+did that systematically as, as I'm asking scientists to
+
+844
+00:56:42.250 --> 00:56:47.000
+do, we would uh be forced into many uncomfortable
+
+845
+00:56:47.010 --> 00:56:50.250
+situation talking to people that, uh you know, with
+
+846
+00:56:50.260 --> 00:56:53.939
+views that we hate talking to uh people who,
+
+847
+00:56:53.949 --> 00:56:56.939
+who are uh you know, much more ignorant and
+
+848
+00:56:56.949 --> 00:57:03.959
+dismissive about each other's work. Um uh So, yeah,
+
+849
+00:57:03.969 --> 00:57:07.139
+it will be uncomfortable. It will be a time
+
+850
+00:57:07.149 --> 00:57:09.750
+suck. It will be, it will, it, it will
+
+851
+00:57:09.760 --> 00:57:12.500
+put us out of our comfort zone. It will
+
+852
+00:57:12.510 --> 00:57:16.370
+jeopardize projects. It will make science much more difficult,
+
+853
+00:57:16.379 --> 00:57:21.610
+much more ex expensive. But that's the price of
+
+854
+00:57:21.620 --> 00:57:23.050
+studying the concepts.
+
+855
+00:57:23.899 --> 00:57:28.290
+Mhm. And perhaps in certain situations, it would force
+
+856
+00:57:28.300 --> 00:57:32.479
+researchers, scientists to go back to the drawing board
+
+857
+00:57:32.489 --> 00:57:36.520
+when it comes to the way they have conceptualized
+
+858
+00:57:36.530 --> 00:57:41.800
+or operationalized uh their own objects of study.
+
+859
+00:57:42.389 --> 00:57:44.360
+That's a great way to put it. Thank you.
+
+860
+00:57:45.399 --> 00:57:49.479
+So, uh one last uh topic then that I
+
+861
+00:57:49.489 --> 00:57:52.020
+would like to ask you about what is uh
+
+862
+00:57:52.030 --> 00:57:56.659
+pluralism from the perspective of philosophy of science and
+
+863
+00:57:56.669 --> 00:58:03.540
+particularly with this conceptual and methodological pluralism entail
+
+864
+00:58:06.629 --> 00:58:11.800
+pluralism is um uh a big topic nowadays. And
+
+865
+00:58:11.810 --> 00:58:15.199
+because um a lot of philosophers of science are
+
+866
+00:58:15.209 --> 00:58:19.590
+exploring ideas that it would be uh good uh
+
+867
+00:58:19.600 --> 00:58:23.469
+for science to be more pluralistic about its um
+
+868
+00:58:23.719 --> 00:58:26.909
+you know, choice of methods and choice of uh
+
+869
+00:58:26.919 --> 00:58:31.500
+theories. Um It's also a controversial topic because, you
+
+870
+00:58:31.510 --> 00:58:35.199
+know, as soon as you introduce pluralism, uh then
+
+871
+00:58:35.209 --> 00:58:37.689
+uh uh uh for many people, you're opening the
+
+872
+00:58:37.699 --> 00:58:41.169
+gates of hell and opening uh um the, the
+
+873
+00:58:41.179 --> 00:58:44.669
+gates of um you know, well, let's be pluralist
+
+874
+00:58:44.679 --> 00:58:46.909
+about whether or not vaccines work and let's be
+
+875
+00:58:46.919 --> 00:58:51.090
+pluralist about whether or not um uh they cause
+
+876
+00:58:51.100 --> 00:58:54.479
+autism and things like that and uh you won't
+
+877
+00:58:54.489 --> 00:58:58.229
+always want uh to, to do that. So I,
+
+878
+00:58:58.239 --> 00:59:01.080
+I don't think it is helpful in general to
+
+879
+00:59:01.090 --> 00:59:03.250
+talk about whether pluralism is a good thing or
+
+880
+00:59:03.260 --> 00:59:05.709
+a bad thing uh In, in science. I mean,
+
+881
+00:59:05.719 --> 00:59:10.800
+I have colleagues who have articulated certain um conceptions
+
+882
+00:59:10.810 --> 00:59:15.239
+of pluralism. Um BUT, you know, for, for, for
+
+883
+00:59:15.250 --> 00:59:17.199
+the general case, but I'm not one of them,
+
+884
+00:59:17.600 --> 00:59:24.510
+I'm interested in pluralism in um um uh things
+
+885
+00:59:24.520 --> 00:59:28.300
+like thick concepts so well being and that um
+
+886
+00:59:28.310 --> 00:59:32.500
+I have uh studied at length, I think uh
+
+887
+00:59:32.510 --> 00:59:36.500
+the sciences of well being would really benefit from
+
+888
+00:59:36.510 --> 00:59:41.649
+um a certain kind of very principled uh pluralism.
+
+889
+00:59:41.850 --> 00:59:46.320
+So, and there is a big uh uh temptation
+
+890
+00:59:46.560 --> 00:59:51.169
+uh to um settle for example, on a single
+
+891
+00:59:51.179 --> 00:59:55.340
+number, a small number of core metrics of well
+
+892
+00:59:55.350 --> 01:00:00.850
+being um or mental health. Because if we all
+
+893
+01:00:00.860 --> 01:00:04.229
+collect data on the same thing, we'll be able
+
+894
+01:00:04.239 --> 01:00:08.300
+to co collate this data and to figure out
+
+895
+01:00:08.310 --> 01:00:11.709
+the effect sizes of certain in interventions and we'll
+
+896
+01:00:11.719 --> 01:00:15.120
+be able to uh act on, on, on that
+
+897
+01:00:15.129 --> 01:00:18.699
+material, right? So a lot of people, there's a
+
+898
+01:00:18.709 --> 01:00:21.959
+even a hashtag common measures on, on Twitter that
+
+899
+01:00:21.969 --> 01:00:25.790
+you could look up. Uh PEOPLE advocate um a
+
+900
+01:00:26.770 --> 01:00:30.439
+recent article says uh measures and are not like
+
+901
+01:00:30.449 --> 01:00:35.909
+toothbrushes, it's OK to re reuse them. Um Sure.
+
+902
+01:00:35.919 --> 01:00:39.429
+Yeah, it's OK to reuse them. Um But if
+
+903
+01:00:39.439 --> 01:00:42.510
+you, if you really are studying a thick concept
+
+904
+01:00:42.520 --> 01:00:44.429
+and a thick concept that is grounded in the
+
+905
+01:00:44.439 --> 01:00:48.790
+context in which it is used, then um uh
+
+906
+01:00:48.820 --> 01:00:54.610
+uh common measures won't work. Um And common measures
+
+907
+01:00:54.620 --> 01:00:57.449
+uh are great if you, if you think you
+
+908
+01:00:57.459 --> 01:01:00.459
+have a phenomenon that is, that has the same
+
+909
+01:01:00.469 --> 01:01:04.020
+definition across all contexts and means the same to
+
+910
+01:01:04.030 --> 01:01:07.120
+the same people, to, to, to different people and
+
+911
+01:01:07.129 --> 01:01:10.729
+doesn't need and, and can easily be transported from
+
+912
+01:01:10.739 --> 01:01:14.550
+Porto to Cambridge England. But that won't always be
+
+913
+01:01:14.560 --> 01:01:20.239
+the case. Um So, um I think pluralism about
+
+914
+01:01:20.649 --> 01:01:24.580
+uh measurement of uh well-being, pluralism about methods to
+
+915
+01:01:24.590 --> 01:01:27.530
+approach well-being is a recognition of the fact that
+
+916
+01:01:27.919 --> 01:01:30.550
+uh the concepts that we are interested in are
+
+917
+01:01:30.560 --> 01:01:33.959
+often grounded in the, in the little experience of
+
+918
+01:01:33.969 --> 01:01:38.070
+our uh existence and in the, the, the priorities
+
+919
+01:01:38.080 --> 01:01:42.340
+that our communities have. And um I, I do
+
+920
+01:01:42.350 --> 01:01:46.419
+realize that advocating that kind of uh pluralism, for
+
+921
+01:01:46.429 --> 01:01:53.060
+example, you know, like, you know, resist uh measurement
+
+922
+01:01:53.070 --> 01:01:57.949
+of life satisfaction for, for everyone because it doesn't
+
+923
+01:01:57.959 --> 01:02:02.510
+really carry enough information. Uh I, I realized that
+
+924
+01:02:02.520 --> 01:02:05.800
+it's controversial because yes, then it, you know, goes
+
+925
+01:02:05.810 --> 01:02:09.580
+against that idea of, you know, accumulating information and
+
+926
+01:02:09.590 --> 01:02:13.530
+cumulative science and building building on it. But it's
+
+927
+01:02:13.540 --> 01:02:15.959
+also the right thing to do I think because
+
+928
+01:02:15.969 --> 01:02:18.879
+uh we are not always studying the same thing.
+
+929
+01:02:19.209 --> 01:02:21.010
+So the kind of pluralism that I would like
+
+930
+01:02:21.020 --> 01:02:25.189
+to uh uh put my name under and uh
+
+931
+01:02:25.199 --> 01:02:29.060
+uh and, and explore and advocate is uh uh
+
+932
+01:02:29.070 --> 01:02:33.520
+a pluralism about measurement that is motivated explicitly uh
+
+933
+01:02:33.550 --> 01:02:37.790
+by the fact that uh the objects that we
+
+934
+01:02:37.800 --> 01:02:42.969
+study in science are often not very easily transportable
+
+935
+01:02:42.979 --> 01:02:45.870
+from one context to another. A lot of work
+
+936
+01:02:45.879 --> 01:02:48.580
+needs to be done in order to transport them.
+
+937
+01:02:49.110 --> 01:02:52.250
+Um And when they are transported, they often distort
+
+938
+01:02:52.260 --> 01:02:58.310
+reality uh and making signs more local and more
+
+939
+01:02:58.429 --> 01:03:03.070
+uh um yeah, less ambitious in some ways is,
+
+940
+01:03:03.080 --> 01:03:05.290
+is not a bad thing in those cases.
+
+941
+01:03:06.610 --> 01:03:10.959
+And so just to wrap up the interview, um
+
+942
+01:03:11.340 --> 01:03:14.429
+I mean, in the particular case of well being,
+
+943
+01:03:14.780 --> 01:03:19.830
+that would imply for example, that we would expect
+
+944
+01:03:19.840 --> 01:03:25.750
+that cross culturally, we would probably get a different
+
+945
+01:03:25.760 --> 01:03:31.270
+understandings of what, what well being is and perhaps
+
+946
+01:03:31.280 --> 01:03:34.510
+how it should be measured. Would that would that
+
+947
+01:03:34.520 --> 01:03:35.389
+be an example?
+
+948
+01:03:36.540 --> 01:03:41.030
+Definitely the rise of cross cultural measurement of well
+
+949
+01:03:41.040 --> 01:03:44.120
+being is one of the most interesting and controversial
+
+950
+01:03:44.129 --> 01:03:47.340
+trends uh in, in, in my view. And that
+
+951
+01:03:47.350 --> 01:03:51.169
+is because um there's a lot of demand uh
+
+952
+01:03:51.179 --> 01:03:53.949
+in the media even for these uh kind of
+
+953
+01:03:53.959 --> 01:03:59.159
+reports. World Happiness Report or, you know, world well
+
+954
+01:03:59.169 --> 01:04:03.060
+being ranking like is Finland always going to be
+
+955
+01:04:03.070 --> 01:04:06.030
+on top? What is it that the Finland Finland
+
+956
+01:04:06.040 --> 01:04:09.189
+has that other countries don't have that or you
+
+957
+01:04:09.199 --> 01:04:11.739
+know, Iberian countries in Latin America always comes out
+
+958
+01:04:11.750 --> 01:04:15.270
+quite good uh for on, on those, on those
+
+959
+01:04:15.280 --> 01:04:20.629
+rankings. Um uh AND Eastern Europe uh usually very
+
+960
+01:04:20.639 --> 01:04:27.760
+poorly. Uh Probably more so even now. Um uh
+
+961
+01:04:27.810 --> 01:04:33.399
+ARE these meaningful projects, are they? Well, um I
+
+962
+01:04:33.409 --> 01:04:36.310
+suppose it depends what your goal is, right? If
+
+963
+01:04:36.320 --> 01:04:40.149
+your goal is to um I don't know, maximally
+
+964
+01:04:40.159 --> 01:04:45.080
+compare countries possibly, but if your goal is to
+
+965
+01:04:45.090 --> 01:04:49.050
+really understand what well being means in different contexts
+
+966
+01:04:49.500 --> 01:04:52.780
+and uh how is it that people flourish in
+
+967
+01:04:52.790 --> 01:04:58.110
+different contexts? Uh Then um you probably, well, I
+
+968
+01:04:58.120 --> 01:05:00.820
+don't want to say that it's that, that it's
+
+969
+01:05:00.830 --> 01:05:03.290
+a bad idea to compare because compare is how
+
+970
+01:05:03.300 --> 01:05:07.169
+we learn and compare is how we um how
+
+971
+01:05:07.179 --> 01:05:10.010
+we make progress and how we, you know how
+
+972
+01:05:10.020 --> 01:05:13.000
+we make sense of each other. But comparison always
+
+973
+01:05:13.010 --> 01:05:15.590
+comes with a cost. Yes. And I do think
+
+974
+01:05:15.600 --> 01:05:19.830
+that uh it's important to really take the big
+
+975
+01:05:19.840 --> 01:05:23.250
+cross cultural comparisons with a grain of salt. But
+
+976
+01:05:23.260 --> 01:05:25.840
+it's also really important to figure out how to
+
+977
+01:05:25.850 --> 01:05:29.870
+do uh signs of well being in a way
+
+978
+01:05:29.879 --> 01:05:35.060
+that uh communicate the richness across and then in
+
+979
+01:05:35.070 --> 01:05:38.840
+and in a way that exposes um how many
+
+980
+01:05:38.850 --> 01:05:41.949
+different conceptions of well being there are across the
+
+981
+01:05:41.959 --> 01:05:44.409
+world and how they bleed into each other and
+
+982
+01:05:44.419 --> 01:05:48.459
+change and affect each other. So uh that's the
+
+983
+01:05:48.469 --> 01:05:50.320
+big circle that I would like to square
+
+984
+01:05:51.590 --> 01:05:55.409
+Great. So just to mention the book, we've been
+
+985
+01:05:55.419 --> 01:05:59.520
+focusing mostly on today. Again, limits of the numerical
+
+986
+01:05:59.530 --> 01:06:04.179
+abuses and uses of quantification. Um I'm leaving a
+
+987
+01:06:04.189 --> 01:06:06.030
+link to it in the description box of the
+
+988
+01:06:06.040 --> 01:06:10.169
+interview. And Doctor Alexandrova, apart from the book, would
+
+989
+01:06:10.179 --> 01:06:12.469
+you like to tell people where they can find
+
+990
+01:06:12.479 --> 01:06:14.770
+you and your work on the internet?
+
+991
+01:06:16.030 --> 01:06:21.840
+Uh Thank you. So I am um um I
+
+992
+01:06:21.850 --> 01:06:24.280
+teach and do most of my work in uh
+
+993
+01:06:24.290 --> 01:06:28.530
+Cambridge England and I have a great uh uh
+
+994
+01:06:28.929 --> 01:06:32.820
+commitment to open access of my work to the
+
+995
+01:06:32.830 --> 01:06:36.699
+extent that I can. Um I therefore um uh
+
+996
+01:06:36.709 --> 01:06:40.479
+place uh you know, all of the writings to
+
+997
+01:06:40.489 --> 01:06:44.179
+the extent that it is legal uh of on
+
+998
+01:06:44.189 --> 01:06:49.239
+various um uh platforms such as fill papers or
+
+999
+01:06:49.250 --> 01:06:54.439
+my university's open access scheme. Uh I am uh
+
+1000
+01:06:54.449 --> 01:06:57.600
+um as a, as a, as far as media
+
+1001
+01:06:57.610 --> 01:07:01.770
+engagement is concerned, I'm on uh blue sky um
+
+1002
+01:07:01.780 --> 01:07:05.520
+right now uh no longer on Twitter. And I
+
+1003
+01:07:05.530 --> 01:07:09.719
+really uh welcome uh feedback and I welcome es
+
+1004
+01:07:09.729 --> 01:07:17.820
+especially uh um scientists and practitioners experience about uh
+
+1005
+01:07:18.060 --> 01:07:21.810
+uh studying what might look like a thick concept
+
+1006
+01:07:21.820 --> 01:07:24.739
+in doing that uh uh with uh kind of
+
+1007
+01:07:24.750 --> 01:07:28.939
+responsible recognition of the value judgments involved. I, I
+
+1008
+01:07:28.949 --> 01:07:34.780
+welcome very much uh uh feedback and also sharing
+
+1009
+01:07:34.790 --> 01:07:37.780
+uh people's experience of how to do that well.
+
+1010
+01:07:38.550 --> 01:07:42.110
+Mhm Very well. So I will be also leaving
+
+1011
+01:07:42.120 --> 01:07:44.649
+some links to the rest of your work in
+
+1012
+01:07:44.659 --> 01:07:47.270
+the description box of the interview. And thank you
+
+1013
+01:07:47.280 --> 01:07:49.399
+so much again for taking the time to come
+
+1014
+01:07:49.409 --> 01:07:51.709
+on the show. It's been really a pleasure to
+
+1015
+01:07:51.719 --> 01:07:52.229
+talk to you.
+
+1016
+01:07:53.070 --> 01:07:55.409
+Thank you for your work, Ricardo. I really appreciate
+
+1017
+01:07:55.419 --> 01:07:56.330
+the opportunity.
+
+1018
+01:07:57.580 --> 01:08:00.310
+Hi guys. Thank you for watching this interview. Until
+
+1019
+01:08:00.320 --> 01:08:02.479
+the end. If you liked it, please share it.
+
+1020
+01:08:02.489 --> 01:08:05.290
+Leave a like and hit the subscription button. The
+
+1021
+01:08:05.300 --> 01:08:06.949
+show is brought to you by the N Lights
+
+1022
+01:08:06.959 --> 01:08:10.169
+learning and development. Then differently check the website at
+
+1023
+01:08:10.179 --> 01:08:13.979
+N lights.com and also please consider supporting the show
+
+1024
+01:08:14.020 --> 01:08:17.140
+on Patreon or paypal. I would also like to
+
+1025
+01:08:17.149 --> 01:08:19.600
+give a huge thank you to my main patrons
+
+1026
+01:08:19.609 --> 01:08:23.779
+and paypal supporters, Perera Larson, Jerry Muller and Frederick
+
+1027
+01:08:23.859 --> 01:08:26.709
+Suno Bernard Seche O of Alex Adam Castle Matthew
+
+1028
+01:08:26.720 --> 01:08:29.609
+Whitten Bear. No wolf, Tim Ho Erica LJ Connors,
+
+1029
+01:08:30.000 --> 01:08:32.769
+Philip Forrest Connolly. Then the Met Robert Wine in
+
+1030
+01:08:32.778 --> 01:08:36.328
+NAI Z Mark Nevs calling in Holbrook Field, Governor
+
+1031
+01:08:36.618 --> 01:08:40.488
+Mikel Stormer Samuel Andre Francis for Agns Ferger and
+
+1032
+01:08:40.818 --> 01:08:43.858
+H her meal and Lain Jung Y and the
+
+1033
+01:08:44.028 --> 01:08:47.738
+Samuel K Hes. Mark Smith J Tom Hummel s
+
+1034
+01:08:48.078 --> 01:08:53.099
+Friends, David Sloan Wilson Yaar, Ro Ro Die Jan
+
+1035
+01:08:53.438 --> 01:08:56.858
+Punter, Romani Charlotte, Bli Nicole Barba, Adam Hunt, Pavla
+
+1036
+01:08:57.167 --> 01:09:00.849
+Stassi Nale medicine, Gary G Almansa Zal Ari and
+
+1037
+01:09:00.898 --> 01:09:06.519
+YPJ Barboza Julian Price Edward Hall, Eden Broner Douglas
+
+1038
+01:09:06.528 --> 01:09:12.127
+Fry, Franka La Cortez or Solis Scott Zachary FTD
+
+1039
+01:09:12.707 --> 01:09:17.258
+and W Daniel Friedman, William Buckner, Paul Giorgio, Luke
+
+1040
+01:09:17.269 --> 01:09:21.479
+Loki, Georgio Theophano, Chris Williams and Peter Wo David
+
+1041
+01:09:21.488 --> 01:09:25.587
+Williams Di Costa Anton Erickson Charles Murray, Alex Shaw,
+
+1042
+01:09:25.688 --> 01:09:31.059
+Marie Martinez, Coralie Chevalier, Bangalore, Larry Dey Junior, Old
+
+1043
+01:09:31.587 --> 01:09:35.490
+Ebon Starry Michael Bailey. Then spur by Robert Grassy
+
+1044
+01:09:35.600 --> 01:09:40.089
+Zorn, Jeff mcmahon, Jake. Zul Barnabas Radick, Mark Kempel,
+
+1045
+01:09:40.100 --> 01:09:44.430
+Thomas Dvor. Luke Neeson, Chris Tory Kimberley Johnson, Benjamin
+
+1046
+01:09:44.439 --> 01:09:48.410
+Gilbert Jessica. No week, Linda Brendan, Nicholas Carlson, Ismael
+
+1047
+01:09:48.419 --> 01:09:53.419
+Bensley Man, George Katis Valentine Steinman, Perras, Kate Van
+
+1048
+01:09:53.430 --> 01:09:59.600
+Goler, Alexander Abert Liam Dan Biar Masoud Ali Mohammadi
+
+1049
+01:10:00.370 --> 01:10:05.209
+Perpendicular Jer Urla. Good enough, Gregory Hastings David Pins
+
+1050
+01:10:05.470 --> 01:10:09.245
+of Sean Nelson, Mike Levin and Jos Net. A
+
+1051
+01:10:09.435 --> 01:10:12.245
+special thanks to my producers is our web, Jim
+
+1052
+01:10:12.254 --> 01:10:15.515
+Frank Luca Toni, Tom Vig and Bernard N Cortes
+
+1053
+01:10:15.854 --> 01:10:19.515
+Dixon, Bendik Muller Thomas Trumble, Catherine and Patrick Tobin,
+
+1054
+01:10:19.524 --> 01:10:22.904
+John Carl Negro, Nick Ortiz and Nick Golden. And
+
+1055
+01:10:22.915 --> 01:10:26.464
+to my executive producers, Matthew Lavender, Si Adrian Bogdan
+
+1056
+01:10:27.084 --> 01:10:28.734
+Knits and Rosie. Thank you for all.
+
