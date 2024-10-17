@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1007 Brian Talbot: The End of Epistemology As We Know It",
-	"youtubeid": "IZoK59Bcq94"
+	"vtt": "1007.vtt",
+	"youtubeid": "IZoK59Bcq94",
+	"transcript": "1007.lines.json"
 }
 ---
 RECORDED ON MARCH 26th 2024.  

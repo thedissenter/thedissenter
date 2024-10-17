@@ -1,0 +1,4270 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:03.069
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:03.130 --> 00:00:05.989
+Center. I'm your host as always Ricard Lobs. And
+
+3
+00:00:06.000 --> 00:00:08.880
+today I'm joined by Doctor Brian Talbot. He is
+
+4
+00:00:08.890 --> 00:00:12.600
+assistant professor at the University of Colorado Boulder. He
+
+5
+00:00:12.609 --> 00:00:16.649
+is the author of the End of Epistemology as
+
+6
+00:00:16.659 --> 00:00:19.690
+we know it. So, Doctor Talbot, welcome to the
+
+7
+00:00:19.700 --> 00:00:22.370
+show. It's a pleasure to everyone. Thank you. It's
+
+8
+00:00:22.379 --> 00:00:26.510
+great to be here. So, tell us first what's
+
+9
+00:00:26.520 --> 00:00:30.260
+behind uh this book, I mean, what motivated you
+
+10
+00:00:30.270 --> 00:00:34.479
+to write the book and what's basically the main
+
+11
+00:00:34.490 --> 00:00:37.209
+premise here? I mean, what do you mean exactly
+
+12
+00:00:37.220 --> 00:00:41.110
+by the end of Epistemology as we know it?
+
+13
+00:00:42.180 --> 00:00:44.790
+Uh I should say, you know, it's important, it's
+
+14
+00:00:44.799 --> 00:00:47.740
+important to have catchy titles, but a title doesn't
+
+15
+00:00:47.750 --> 00:00:49.900
+have to be strictly speaking. True to be a
+
+16
+00:00:49.909 --> 00:00:56.659
+good title. So, um so the title, so Epistemology
+
+17
+00:00:56.669 --> 00:00:59.560
+is like very roughly study of like, what we
+
+18
+00:00:59.569 --> 00:01:02.580
+should and shouldn't believe and why, why we shouldn't,
+
+19
+00:01:02.590 --> 00:01:06.370
+shouldn't believe it. Um Sort of what makes beliefs
+
+20
+00:01:06.379 --> 00:01:09.290
+better or worse or like more or less rational.
+
+21
+00:01:09.620 --> 00:01:13.510
+And um the, the title is sort of like
+
+22
+00:01:13.529 --> 00:01:19.040
+kind of a pun play on words because uh
+
+23
+00:01:20.040 --> 00:01:22.779
+in my opinion to determine like what we should
+
+24
+00:01:22.790 --> 00:01:25.309
+and shouldn't be uh believe we need to in
+
+25
+00:01:25.319 --> 00:01:27.989
+some sense, kind of think about what the, what
+
+26
+00:01:28.000 --> 00:01:31.379
+our goals are. Um So what is the end,
+
+27
+00:01:31.419 --> 00:01:34.559
+the, the, the thing at which we're aiming in
+
+28
+00:01:34.569 --> 00:01:38.620
+some sense, uh when we believe? And so I
+
+29
+00:01:38.629 --> 00:01:40.720
+think the book is an attempt to call into
+
+30
+00:01:40.730 --> 00:01:46.150
+question a lot of um views and in contemporary
+
+31
+00:01:46.160 --> 00:01:48.730
+and kind of historical standard epistemology sort of has
+
+32
+00:01:48.739 --> 00:01:50.790
+been done for a long time. I want to
+
+33
+00:01:50.800 --> 00:01:52.279
+call a lot of that into question, say we
+
+34
+00:01:52.290 --> 00:01:54.900
+need to do things very differently in many ways.
+
+35
+00:01:54.910 --> 00:01:57.480
+So at the end of epistemology, as we know
+
+36
+00:01:57.489 --> 00:02:00.209
+in that sense, but also it's about trying to
+
+37
+00:02:00.220 --> 00:02:03.569
+drive our thinking about what we shouldn't, shouldn't believe
+
+38
+00:02:04.019 --> 00:02:07.250
+um by thinking about what we're trying to accomplish
+
+39
+00:02:07.260 --> 00:02:09.449
+when we have beliefs. So it's, we're thinking about
+
+40
+00:02:09.460 --> 00:02:12.320
+epistemology by thinking about what are our goals first
+
+41
+00:02:12.389 --> 00:02:15.630
+and then deriving all the norms, all the rules
+
+42
+00:02:15.639 --> 00:02:20.100
+um in a sense from that. Um And what,
+
+43
+00:02:20.110 --> 00:02:22.389
+what I was thinking about, what motivated me to
+
+44
+00:02:22.399 --> 00:02:24.110
+write this book. I mean, there's so many things
+
+45
+00:02:24.119 --> 00:02:25.539
+and it takes so long to write a book.
+
+46
+00:02:25.550 --> 00:02:27.509
+And even before you start writing, there's so much
+
+47
+00:02:27.520 --> 00:02:30.130
+going on. So a lot to say, but uh
+
+48
+00:02:30.139 --> 00:02:32.899
+when I first started thinking about this stuff, years
+
+49
+00:02:32.910 --> 00:02:37.169
+and years and years ago, um so my research
+
+50
+00:02:37.179 --> 00:02:40.710
+at the time was on like the epistemology of
+
+51
+00:02:40.720 --> 00:02:45.860
+philosophy, like, how do we know roughly philosophical stuff?
+
+52
+00:02:46.509 --> 00:02:49.130
+Like, what is it that makes our beliefs about
+
+53
+00:02:49.139 --> 00:02:51.179
+philosophical questions reasonable? And that was a lot of
+
+54
+00:02:51.190 --> 00:02:54.039
+what my work was on. But my teaching was
+
+55
+00:02:54.050 --> 00:03:00.070
+really heavily about philosophy of law, political philosophy, um
+
+56
+00:03:00.080 --> 00:03:02.839
+and ethics. So I was thinking a lot about
+
+57
+00:03:02.850 --> 00:03:06.020
+um ethics and the law for my students. And
+
+58
+00:03:06.029 --> 00:03:09.130
+I was thinking a lot about philosophical methodology and
+
+59
+00:03:09.570 --> 00:03:12.619
+epistemology from my own research. And I was, uh
+
+60
+00:03:12.630 --> 00:03:14.369
+you know, in the ethics and the law, there's
+
+61
+00:03:14.380 --> 00:03:18.539
+a lot of thinking about uh the structure of
+
+62
+00:03:18.550 --> 00:03:21.539
+reasons and the structure of norms and rules and
+
+63
+00:03:21.550 --> 00:03:24.639
+what makes rules or norms better or worse. And
+
+64
+00:03:24.649 --> 00:03:27.770
+people thought a lot about that stuff and I
+
+65
+00:03:27.779 --> 00:03:30.410
+started applying some of that thinking from law and
+
+66
+00:03:30.419 --> 00:03:34.360
+ethics to work in epistemology that was trying to
+
+67
+00:03:34.369 --> 00:03:39.240
+explain what's so good about having uh reasonable beliefs.
+
+68
+00:03:39.479 --> 00:03:41.720
+And I just sort of felt like what people
+
+69
+00:03:41.729 --> 00:03:46.740
+were saying about um what makes belief reasonable and
+
+70
+00:03:46.750 --> 00:03:48.820
+why is it important to be reasonable? What people
+
+71
+00:03:48.830 --> 00:03:53.300
+were saying about that wasn't really matching up with
+
+72
+00:03:53.309 --> 00:03:57.410
+what they thought reasonableness was or reasonable belief was
+
+73
+00:03:57.419 --> 00:04:00.160
+or justified belief or knowledge. And there just seem
+
+74
+00:04:00.169 --> 00:04:02.690
+to be this mismatch, especially when you start thinking
+
+75
+00:04:02.699 --> 00:04:05.539
+about these things through the lens of law and,
+
+76
+00:04:05.710 --> 00:04:08.270
+and, and ethics where they really, I think more
+
+77
+00:04:08.300 --> 00:04:13.059
+a developed thought about um what makes norms or
+
+78
+00:04:13.070 --> 00:04:15.360
+rules, good norms or rules. And so I started
+
+79
+00:04:15.369 --> 00:04:23.299
+thinking there's just this mismatch and, um, what people,
+
+80
+00:04:23.309 --> 00:04:25.799
+yeah, what people were saying we need to pursue
+
+81
+00:04:25.809 --> 00:04:27.769
+the truth and that's what the, the, the, the
+
+82
+00:04:27.779 --> 00:04:31.109
+norms epistemology is about. But then what they said
+
+83
+00:04:31.119 --> 00:04:34.820
+the norms were, wasn't really well suited for the
+
+84
+00:04:34.829 --> 00:04:39.049
+pursuit of the truth. Uh And so, um, there's
+
+85
+00:04:39.059 --> 00:04:41.019
+a sort of a, a parable in the book
+
+86
+00:04:41.029 --> 00:04:42.820
+that I got from my friend Daniel is a
+
+87
+00:04:42.829 --> 00:04:44.809
+really nice, it's like a little story. So you
+
+88
+00:04:44.820 --> 00:04:47.540
+imagine, you know, you run into somebody and you're
+
+89
+00:04:47.549 --> 00:04:49.089
+talking to them and they say, oh, you know,
+
+90
+00:04:49.100 --> 00:04:50.720
+you're talking about their interests and they say, oh,
+
+91
+00:04:50.730 --> 00:04:53.369
+I really love books. Uh And I, and you
+
+92
+00:04:53.380 --> 00:04:55.410
+say back, oh, you love books. What's your favorite
+
+93
+00:04:55.420 --> 00:04:58.230
+book? And they say, oh, I don't, I don't
+
+94
+00:04:58.239 --> 00:05:00.160
+have a favorite book. I love every book. Exactly
+
+95
+00:05:00.170 --> 00:05:02.679
+the same as every other book. So I love,
+
+96
+00:05:02.690 --> 00:05:05.399
+you know, Windows 95 for dummies, this outdated book
+
+97
+00:05:05.410 --> 00:05:07.859
+on, on computer software. Exactly. As much as the
+
+98
+00:05:07.869 --> 00:05:10.690
+brothers K Matzo, this great work of literature. And
+
+99
+00:05:10.700 --> 00:05:12.980
+so you think this person doesn't really love books
+
+100
+00:05:13.100 --> 00:05:14.600
+or they don't love books in the right way,
+
+101
+00:05:14.609 --> 00:05:16.380
+or they don't love the right things about books.
+
+102
+00:05:16.489 --> 00:05:18.799
+And I really felt like that's what you were
+
+103
+00:05:18.809 --> 00:05:21.179
+seeing in, in epistemology. It was supposed to be
+
+104
+00:05:21.190 --> 00:05:23.540
+about the pursuit of the truth, but the way
+
+105
+00:05:23.549 --> 00:05:25.910
+the norms are structured and what you were allowed
+
+106
+00:05:25.920 --> 00:05:28.649
+to do and what was reasonable to do wasn't
+
+107
+00:05:28.660 --> 00:05:31.559
+always the stuff that was really aimed at pursuing
+
+108
+00:05:31.570 --> 00:05:33.559
+the truth and especially not aimed at pursuing the
+
+109
+00:05:33.570 --> 00:05:37.750
+important truths. Um And so I thought there's something
+
+110
+00:05:37.760 --> 00:05:39.970
+wrong going, there's something going on wrong here. And
+
+111
+00:05:39.980 --> 00:05:41.670
+I, that's why I started thinking about the material
+
+112
+00:05:41.679 --> 00:05:42.140
+in the book
+
+113
+00:05:43.500 --> 00:05:47.989
+and when it comes to these norms or could
+
+114
+00:05:48.000 --> 00:05:51.309
+you give us some examples of those epistemic norms?
+
+115
+00:05:51.320 --> 00:05:55.000
+I mean, when it comes to, uh, I don't
+
+116
+00:05:55.010 --> 00:05:59.420
+know, mainstream philosophy, is there a set of epistemic
+
+117
+00:05:59.429 --> 00:06:04.279
+norms that most philosophers tend to follow or not?
+
+118
+00:06:04.339 --> 00:06:04.420
+Yeah.
+
+119
+00:06:05.190 --> 00:06:10.690
+Um So here's a very, here's probably the least
+
+120
+00:06:10.700 --> 00:06:16.029
+controversial one. Don't contradict yourself. Mhm. So you don't
+
+121
+00:06:16.040 --> 00:06:19.119
+believe two things that are contradictory, that's a very
+
+122
+00:06:19.130 --> 00:06:20.940
+standard or you should, you know, you put, if
+
+123
+00:06:20.950 --> 00:06:22.299
+you want to put it as a should, you
+
+124
+00:06:22.309 --> 00:06:25.670
+shouldn't believe contradictory things. It's unreasonable to believe contradictory
+
+125
+00:06:25.679 --> 00:06:29.519
+things that's in, I think pretty much close to
+
+126
+00:06:29.529 --> 00:06:35.799
+universally accepted. Um If your evidence really clearly tells
+
+127
+00:06:35.809 --> 00:06:38.570
+you that something is false, you shouldn't believe that
+
+128
+00:06:38.980 --> 00:06:43.760
+that's a very widely held uh norm. Um More
+
+129
+00:06:43.769 --> 00:06:45.570
+generally, people think that you should believe what your
+
+130
+00:06:45.579 --> 00:06:50.339
+evidence tells you is true. Um It's fairly common,
+
+131
+00:06:50.350 --> 00:06:54.040
+although not universal for people to think. Um, DON'T
+
+132
+00:06:54.049 --> 00:06:57.059
+believe things you don't know, stuff like that. Um
+
+133
+00:06:57.070 --> 00:07:00.029
+But the, don't contradict yourself, believe what your evidence
+
+134
+00:07:00.040 --> 00:07:01.670
+tells. You don't believe what your evidence tells you
+
+135
+00:07:01.679 --> 00:07:03.959
+is false kind of stuff. Those are very, very
+
+136
+00:07:03.970 --> 00:07:08.000
+standard. Uh um Like the fact pretty close to
+
+137
+00:07:08.010 --> 00:07:10.959
+pretty close to universally accepted norms in epistemology.
+
+138
+00:07:12.230 --> 00:07:15.380
+But there's a very important question I think to
+
+139
+00:07:15.390 --> 00:07:19.100
+tackle here. So why is it that we should
+
+140
+00:07:19.109 --> 00:07:23.859
+even care about epistemic norms at all? I mean,
+
+141
+00:07:23.869 --> 00:07:27.320
+why do they matter at all to begin with?
+
+142
+00:07:28.589 --> 00:07:36.100
+So, um not everybody agrees on this question. Uh
+
+143
+00:07:36.109 --> 00:07:40.630
+I think everybody in epistemology. Well, yeah. So part
+
+144
+00:07:40.640 --> 00:07:42.739
+of the structure of the book is to consider
+
+145
+00:07:43.049 --> 00:07:45.660
+a range of different possible answers to that question.
+
+146
+00:07:46.269 --> 00:07:48.660
+And to think about, you know, I, I all
+
+147
+00:07:48.670 --> 00:07:50.100
+there's a bunch of answers to that question. I
+
+148
+00:07:50.109 --> 00:07:53.179
+think all are, are relatively plausible to some extent.
+
+149
+00:07:53.190 --> 00:07:58.459
+So here's an easy answer. Um, IF you have,
+
+150
+00:07:58.470 --> 00:08:01.720
+if you be the better your beliefs are the
+
+151
+00:08:01.730 --> 00:08:05.220
+more able you are to act well, right. If
+
+152
+00:08:05.230 --> 00:08:07.989
+your, if your beliefs are totally disconnected from reality,
+
+153
+00:08:08.529 --> 00:08:11.049
+you're not gonna be very successful in, in doing
+
+154
+00:08:11.059 --> 00:08:13.160
+the things you wanna do. That's a, that's a
+
+155
+00:08:13.170 --> 00:08:18.529
+pretty common view. So, um, epistemic norms are supposed
+
+156
+00:08:18.540 --> 00:08:22.179
+to be like rules or, or, uh, standards for
+
+157
+00:08:22.190 --> 00:08:25.130
+evaluating. Are you thinking? Well, uh And then if
+
+158
+00:08:25.140 --> 00:08:27.329
+you conform to those, you're more likely to be
+
+159
+00:08:27.339 --> 00:08:29.609
+able to act. Well, that's a pretty standard view,
+
+160
+00:08:30.880 --> 00:08:32.989
+but I don't think it's all just about action
+
+161
+00:08:33.000 --> 00:08:34.489
+and, and a lot of people, most people I
+
+162
+00:08:34.500 --> 00:08:35.880
+think probably don't think it's all about action. There's
+
+163
+00:08:35.890 --> 00:08:38.479
+things we're just curious about that. Don't have a
+
+164
+00:08:38.489 --> 00:08:43.760
+lot of like practical significance. Um So here's a,
+
+165
+00:08:43.770 --> 00:08:46.989
+so it's, it's hard to disentangle curiosity from practical
+
+166
+00:08:47.000 --> 00:08:49.780
+significance, but here's one I really would like to
+
+167
+00:08:49.789 --> 00:08:53.299
+know if there's intelligent life on other planets. Um,
+
+168
+00:08:53.340 --> 00:08:55.289
+BUT I'm never gonna meet any of those. If
+
+169
+00:08:55.299 --> 00:08:56.750
+there are, they are probably never going to meet
+
+170
+00:08:56.760 --> 00:08:58.570
+them but not gonna have any impact on what
+
+171
+00:08:58.580 --> 00:09:01.299
+I do, I suspect. But I would really like
+
+172
+00:09:01.309 --> 00:09:02.539
+to know. So I'm like, that's the thing I'm
+
+173
+00:09:02.549 --> 00:09:05.260
+genuinely curious about that. I don't have any think
+
+174
+00:09:05.270 --> 00:09:10.539
+has any practical significance. So, um often we think
+
+175
+00:09:11.429 --> 00:09:13.049
+to be curious is to want to know the
+
+176
+00:09:13.059 --> 00:09:17.659
+answer to a question very roughly. So uh we're
+
+177
+00:09:17.669 --> 00:09:20.150
+interested in the truth about things in a way
+
+178
+00:09:20.159 --> 00:09:26.369
+that's not just practical. Um And um having good
+
+179
+00:09:26.380 --> 00:09:29.820
+beliefs is the having normative beliefs, having reasonable beliefs
+
+180
+00:09:29.830 --> 00:09:31.260
+is supposed to be the best way of getting
+
+181
+00:09:31.270 --> 00:09:33.270
+to the truth. So that's a way in which
+
+182
+00:09:33.280 --> 00:09:38.000
+it's supposed to matter. Um We need to socially
+
+183
+00:09:38.010 --> 00:09:41.030
+coordinate ourselves with other people and to some extent
+
+184
+00:09:41.039 --> 00:09:44.090
+that requires having coordinations what we believe, who we
+
+185
+00:09:44.099 --> 00:09:48.099
+trust, who we don't trust, um about what topics
+
+186
+00:09:48.109 --> 00:09:51.750
+and stuff like that. And so um norms, you
+
+187
+00:09:51.760 --> 00:09:53.590
+can think of norms as rules that help us
+
+188
+00:09:53.599 --> 00:09:55.359
+all kind of get on the same page in
+
+189
+00:09:55.369 --> 00:09:57.599
+terms of how to form beliefs and who to
+
+190
+00:09:57.609 --> 00:10:00.919
+trust. So they play that kind of role. Um
+
+191
+00:10:00.929 --> 00:10:04.030
+So there's a bunch of different explanations for, um,
+
+192
+00:10:04.679 --> 00:10:08.059
+why it matters, uh to have good beliefs or
+
+193
+00:10:08.070 --> 00:10:10.520
+to have reasonable beliefs or to have justified beliefs.
+
+194
+00:10:10.909 --> 00:10:13.640
+Um, YOU know, in terms of practical success, in
+
+195
+00:10:13.650 --> 00:10:15.760
+terms of, you know, just getting the truth because
+
+196
+00:10:15.770 --> 00:10:18.049
+we care about it in terms of social coordinations,
+
+197
+00:10:18.059 --> 00:10:19.299
+stuff like that. And I think those are all
+
+198
+00:10:19.309 --> 00:10:23.369
+very reasonable answers. Um And so I don't wanna
+
+199
+00:10:23.380 --> 00:10:25.309
+say any one of them is the single correct
+
+200
+00:10:25.320 --> 00:10:27.570
+answer. I think they're probably also all true to
+
+201
+00:10:27.580 --> 00:10:30.840
+some extent. And so we need to think about
+
+202
+00:10:30.849 --> 00:10:34.940
+given uh these different explanations for the importance of
+
+203
+00:10:34.950 --> 00:10:37.760
+being reasonable or having good beliefs. What does it
+
+204
+00:10:37.770 --> 00:10:39.679
+mean? What, what should it mean to be reasonable
+
+205
+00:10:39.690 --> 00:10:40.559
+or have good beliefs?
+
+206
+00:10:42.039 --> 00:10:45.090
+But I think that there's perhaps a broader question
+
+207
+00:10:45.099 --> 00:10:48.479
+here that might have some bearing on what you
+
+208
+00:10:48.489 --> 00:10:51.690
+explore in the book. So, uh does the question
+
+209
+00:10:51.700 --> 00:10:56.809
+of whether anything really matters at all also have
+
+210
+00:10:56.820 --> 00:11:00.500
+any bearing here? Because I would imagine that, for
+
+211
+00:11:00.510 --> 00:11:04.150
+example, if you were talking to a radical skeptic
+
+212
+00:11:04.159 --> 00:11:07.450
+or a nihilist or someone along those lines, they
+
+213
+00:11:07.460 --> 00:11:12.239
+would just say, look who cares if anything is
+
+214
+00:11:12.250 --> 00:11:15.450
+true or not because, uh that doesn't even mean
+
+215
+00:11:15.460 --> 00:11:17.859
+anything. I mean, something along those lines.
+
+216
+00:11:18.590 --> 00:11:20.210
+Yeah. So this is, there's, there's a lot to
+
+217
+00:11:20.219 --> 00:11:23.640
+say here, but I'm gonna, I'll, I'll, I'll, uh,
+
+218
+00:11:24.229 --> 00:11:27.080
+I'm gonna skip a lot of it. Uh Maybe
+
+219
+00:11:27.090 --> 00:11:29.719
+you, so maybe nothing really matters. That's a, that's
+
+220
+00:11:29.729 --> 00:11:33.280
+an open possibility. Part of my approach to philosophy
+
+221
+00:11:33.289 --> 00:11:37.650
+is to try to, um when you, when you
+
+222
+00:11:37.659 --> 00:11:39.429
+write to only argue about the things you need
+
+223
+00:11:39.440 --> 00:11:41.640
+to argue about. So, in the book, I'm like,
+
+224
+00:11:41.650 --> 00:11:43.900
+hey, you know, some people think nothing really matters
+
+225
+00:11:43.909 --> 00:11:48.169
+for a variety of different reasons and uh I'm
+
+226
+00:11:48.179 --> 00:11:50.900
+not going to try to convince them otherwise. So
+
+227
+00:11:50.909 --> 00:11:52.599
+I think here's the thing to say, even if
+
+228
+00:11:52.609 --> 00:11:56.309
+nothing really matters in some sense of like, objectively,
+
+229
+00:11:56.320 --> 00:12:01.159
+nothing really matters or, you know, uh, in some
+
+230
+00:12:01.169 --> 00:12:03.140
+deep fundamental way, the universe doesn't care if we
+
+231
+00:12:03.150 --> 00:12:07.380
+live or die, whatever. Um Even if that's true,
+
+232
+00:12:07.390 --> 00:12:11.510
+which I'm not convinced by, um, things matter to
+
+233
+00:12:11.520 --> 00:12:15.039
+us, I mean, very, I mean, the, the very
+
+234
+00:12:15.049 --> 00:12:17.979
+limit things matter to me. Uh I suspect something
+
+235
+00:12:17.989 --> 00:12:20.510
+matters to you. Uh, AND it does seem like
+
+236
+00:12:20.520 --> 00:12:22.849
+things matter to us, at least to some significant
+
+237
+00:12:22.859 --> 00:12:27.969
+extent. And so even if nothing really matters, things
+
+238
+00:12:27.979 --> 00:12:29.619
+matter to us and what more could you want?
+
+239
+00:12:29.630 --> 00:12:31.229
+I mean, well, you could want things to really
+
+240
+00:12:31.239 --> 00:12:34.330
+matter. Uh, BUT if nothing can really matter, then
+
+241
+00:12:34.340 --> 00:12:36.890
+there's nothing more to want than what matters to
+
+242
+00:12:36.900 --> 00:12:41.500
+you. And then the question is, uh, I suspect,
+
+243
+00:12:42.010 --> 00:12:44.090
+well, not a question but I suspect if something
+
+244
+00:12:44.099 --> 00:12:47.590
+matters to you acting decently matters to you, achieving
+
+245
+00:12:47.599 --> 00:12:49.969
+your goals matters to you. Most people are curious
+
+246
+00:12:49.979 --> 00:12:52.190
+about some things, even if those things don't really
+
+247
+00:12:52.200 --> 00:12:54.890
+matter, this curiosity matters to them and So they
+
+248
+00:12:54.900 --> 00:12:58.429
+should, again, if there are norms or rules for
+
+249
+00:12:58.440 --> 00:13:02.830
+belief or standards for evaluating belief that are good
+
+250
+00:13:02.840 --> 00:13:05.570
+to conform to, in order to act, well, in
+
+251
+00:13:05.580 --> 00:13:08.739
+order to satisfy your curiosity, we want, it matters
+
+252
+00:13:08.750 --> 00:13:10.349
+to us that we know what those norms are,
+
+253
+00:13:10.359 --> 00:13:12.159
+that we figure out what those norms are. So
+
+254
+00:13:12.169 --> 00:13:14.659
+nothing needs to really matter as long as things
+
+255
+00:13:14.669 --> 00:13:16.849
+matter to us. And I think it's un without
+
+256
+00:13:16.859 --> 00:13:18.299
+a doubt, things matter to us.
+
+257
+00:13:19.520 --> 00:13:22.979
+So, but as long as something mattered to us,
+
+258
+00:13:22.989 --> 00:13:26.659
+we also have different sets of norms. So for
+
+259
+00:13:26.669 --> 00:13:29.640
+example, in the book, you focus on epistemic norms,
+
+260
+00:13:29.650 --> 00:13:34.059
+but we also have moral norms. So uh how
+
+261
+00:13:34.070 --> 00:13:37.590
+do you think we should approach things here if
+
+262
+00:13:37.599 --> 00:13:40.950
+there's, for example, a conflict between these two different
+
+263
+00:13:40.960 --> 00:13:43.880
+sets of norms or even if it's not moral
+
+264
+00:13:43.890 --> 00:13:47.469
+norms and the other kinds of norms that are
+
+265
+00:13:47.479 --> 00:13:49.130
+not epistemic.
+
+266
+00:13:50.020 --> 00:13:52.719
+Yeah. So this is the uh the notion of
+
+267
+00:13:52.729 --> 00:13:54.369
+mattering is a, is a, is a, is a
+
+268
+00:13:54.380 --> 00:13:57.250
+term I use throughout the book. And I partly
+
+269
+00:13:57.260 --> 00:14:00.229
+chose that because it wasn't a term that another
+
+270
+00:14:00.239 --> 00:14:03.239
+philosopher had already grasped on to and, and used
+
+271
+00:14:03.250 --> 00:14:04.599
+it for themselves. So I wanted to use it
+
+272
+00:14:04.609 --> 00:14:07.809
+for my own self. And part of what I,
+
+273
+00:14:07.820 --> 00:14:09.760
+what I'm thinking about when I talk about norms,
+
+274
+00:14:09.770 --> 00:14:14.880
+mattering is, is exactly this question of when two
+
+275
+00:14:14.890 --> 00:14:17.520
+norms conflict from different kind of domains. When you
+
+276
+00:14:17.530 --> 00:14:20.440
+know, it's you're curious about something but it would
+
+277
+00:14:20.450 --> 00:14:22.510
+make you unhappy to know the answer. So I'm
+
+278
+00:14:22.520 --> 00:14:24.700
+curious about whether or not there's intelligent life on
+
+279
+00:14:24.710 --> 00:14:26.780
+another planet. But if I found out there was
+
+280
+00:14:26.789 --> 00:14:28.479
+not, it would, I would be really bummed out.
+
+281
+00:14:29.010 --> 00:14:31.260
+Um, SO there's a, I mean, and that's true,
+
+282
+00:14:31.270 --> 00:14:32.750
+by the way I really wanted, I would still
+
+283
+00:14:32.760 --> 00:14:34.400
+really be curious but it would really be sad
+
+284
+00:14:34.409 --> 00:14:36.000
+to know the answer if the answer is no.
+
+285
+00:14:36.409 --> 00:14:41.010
+Um So there's a conflict there between what I'm
+
+286
+00:14:41.020 --> 00:14:44.400
+curious about in some sense was epidemically good. What
+
+287
+00:14:44.409 --> 00:14:46.380
+epidemic, you know, I want to know the truth.
+
+288
+00:14:46.690 --> 00:14:50.229
+But also uh what is good for me, we
+
+289
+00:14:50.239 --> 00:14:52.679
+call prudential sometimes was. So there's a conflict in
+
+290
+00:14:52.690 --> 00:14:55.320
+a prudential norm and we have this question, the
+
+291
+00:14:55.330 --> 00:14:58.400
+prudential norms say, don't believe there are no aliens
+
+292
+00:14:58.409 --> 00:15:01.369
+on other planets, no intelligent life, the maybe the
+
+293
+00:15:01.380 --> 00:15:03.130
+epistemic norms, they do believe it because that's what
+
+294
+00:15:03.140 --> 00:15:06.150
+my evidence tells me, let's say. So I have
+
+295
+00:15:06.159 --> 00:15:09.169
+this conflict and there's, then I have this question.
+
+296
+00:15:09.179 --> 00:15:11.409
+Well, what should I believe? Now? There's a really
+
+297
+00:15:11.419 --> 00:15:14.500
+boring set of answers which is, well, prudentially, you
+
+298
+00:15:14.510 --> 00:15:18.090
+should believe what prudence says and epidemically you should
+
+299
+00:15:18.099 --> 00:15:20.609
+believe what the epistemic norms say. And there's nothing
+
+300
+00:15:20.619 --> 00:15:22.669
+more to say and this is what people think.
+
+301
+00:15:22.679 --> 00:15:24.400
+There's nothing really matters. That's kind of what they're
+
+302
+00:15:24.409 --> 00:15:26.630
+trying to argue for is that there's nothing to
+
+303
+00:15:26.640 --> 00:15:29.210
+say other than there's the prudent answer. And the
+
+304
+00:15:29.219 --> 00:15:31.739
+epistemic answer, there's no more answers. And I just
+
+305
+00:15:31.750 --> 00:15:35.239
+think, well, there's at least the answer with in
+
+306
+00:15:35.250 --> 00:15:37.750
+this case, what's more important, what, what matters more
+
+307
+00:15:37.760 --> 00:15:39.510
+to me is that the epistemic stuff or the
+
+308
+00:15:39.520 --> 00:15:42.890
+prudential stuff? Uh And I think we can systematically
+
+309
+00:15:42.900 --> 00:15:47.840
+think about that. Um And so in normative conflicts,
+
+310
+00:15:49.169 --> 00:15:51.659
+you should follow the norm that matters more in
+
+311
+00:15:51.669 --> 00:15:54.229
+that case. That's the kind of, that's the sort
+
+312
+00:15:54.239 --> 00:15:57.619
+of schematic answer. Then the question is, well, what
+
+313
+00:15:57.630 --> 00:15:59.609
+norm matters more in that case? And in order
+
+314
+00:15:59.619 --> 00:16:01.390
+to think about that, we need to think really
+
+315
+00:16:01.400 --> 00:16:07.570
+deeply about why norms matter. Um And so, um
+
+316
+00:16:09.500 --> 00:16:11.419
+part of the goal of the book is to
+
+317
+00:16:11.429 --> 00:16:14.119
+say, let's try to figure out why epistemic norms
+
+318
+00:16:14.130 --> 00:16:16.640
+could matter because that will help us think about
+
+319
+00:16:16.650 --> 00:16:22.229
+how much they do matter. Um And because if
+
+320
+00:16:22.239 --> 00:16:25.909
+they don't matter at all, then every time it
+
+321
+00:16:25.919 --> 00:16:27.830
+makes me feel sad to believe the truth, I
+
+322
+00:16:27.840 --> 00:16:29.750
+should always ignore the truth because that would make
+
+323
+00:16:29.760 --> 00:16:31.140
+me sad. And I would think that would be
+
+324
+00:16:31.150 --> 00:16:35.650
+very surprising. Um So that doesn't really answer your
+
+325
+00:16:35.659 --> 00:16:38.909
+question because I haven't told you whether you should
+
+326
+00:16:38.919 --> 00:16:42.450
+ever believe the truth over being sad. You know,
+
+327
+00:16:42.460 --> 00:16:43.549
+that even if it makes you sad. But I
+
+328
+00:16:43.559 --> 00:16:46.369
+do think yes, but I don't actually answer that
+
+329
+00:16:46.380 --> 00:16:49.250
+question in the book. Uh What I wanna do
+
+330
+00:16:49.260 --> 00:16:51.789
+is say, let's think about how the epistemic norms
+
+331
+00:16:51.799 --> 00:16:54.859
+could be genuinely, really important and what that would
+
+332
+00:16:54.869 --> 00:16:57.559
+have to look like, but I don't try to
+
+333
+00:16:57.570 --> 00:17:01.510
+argue that they're, that they are more important than
+
+334
+00:17:01.520 --> 00:17:03.190
+other stuff in some cases. I think they almost
+
+335
+00:17:03.200 --> 00:17:06.569
+definitely are. I think there are pretty clearly cases
+
+336
+00:17:06.579 --> 00:17:09.519
+in which you should believe the truth, even though
+
+337
+00:17:09.529 --> 00:17:13.569
+it's upsetting. Um, EVEN though even in some cases
+
+338
+00:17:13.579 --> 00:17:15.199
+you should believe the truth, even if it's gonna
+
+339
+00:17:15.209 --> 00:17:18.608
+make you act worse. I think that's true sometimes.
+
+340
+00:17:18.959 --> 00:17:21.270
+Um, BUT I don't try to argue for that
+
+341
+00:17:21.280 --> 00:17:23.699
+in the book. Um I'm mostly trying to think
+
+342
+00:17:23.709 --> 00:17:26.368
+what would it have to look like if the
+
+343
+00:17:26.729 --> 00:17:30.089
+tic norms ever, epistemic norms ever could matter a
+
+344
+00:17:30.099 --> 00:17:33.339
+lot. Um But I don't try to argue, I
+
+345
+00:17:33.349 --> 00:17:35.729
+don't try to really like work out those conflicts
+
+346
+00:17:35.739 --> 00:17:37.050
+between them and other norms.
+
+347
+00:17:38.369 --> 00:17:40.989
+So another thing that you do in your book
+
+348
+00:17:41.000 --> 00:17:45.239
+is that you explore the difference between knowledge and
+
+349
+00:17:45.250 --> 00:17:49.329
+true belief and also then you go through different
+
+350
+00:17:49.339 --> 00:17:53.869
+kinds of beliefs. So, uh to start off with
+
+351
+00:17:53.880 --> 00:17:57.660
+what is the difference there between knowledge and true
+
+352
+00:17:57.670 --> 00:17:58.229
+belief?
+
+353
+00:17:58.939 --> 00:18:03.400
+Well, I don't know. Um I suspect nobody knows
+
+354
+00:18:04.390 --> 00:18:10.150
+we, I mean, that's a hu very hotly contested
+
+355
+00:18:10.880 --> 00:18:14.359
+debated area of philosophy. We don't know. I don't
+
+356
+00:18:14.369 --> 00:18:18.189
+think anybody knows, they think people have views. I
+
+357
+00:18:18.199 --> 00:18:19.920
+don't think anybody knows the difference between knowledge and
+
+358
+00:18:19.930 --> 00:18:23.069
+true belief completely. But what we do know is
+
+359
+00:18:23.079 --> 00:18:25.800
+there's these clear cases that are knowledge and there's
+
+360
+00:18:25.810 --> 00:18:28.810
+clear cases that are true beliefs but not knowledge.
+
+361
+00:18:28.819 --> 00:18:30.849
+So we, we know, these kind of clear difference
+
+362
+00:18:30.859 --> 00:18:34.400
+cases. So, I mean, the easy example is, um,
+
+363
+00:18:34.949 --> 00:18:37.300
+let's say, you know, I think what I ask
+
+364
+00:18:37.310 --> 00:18:38.880
+you what's my birthday and you're like, I don't
+
+365
+00:18:38.890 --> 00:18:41.430
+know, you just guess totally randomly unless say you
+
+366
+00:18:41.439 --> 00:18:44.790
+guess it, right. Um, BUT I don't tell you,
+
+367
+00:18:44.800 --> 00:18:46.089
+you just guess you form a belief in your
+
+368
+00:18:46.099 --> 00:18:48.109
+head totally randomly about what my birthday is and
+
+369
+00:18:48.119 --> 00:18:50.630
+you, you know, like, and you believe it even
+
+370
+00:18:50.640 --> 00:18:51.949
+if you got it, right? So you'd have a
+
+371
+00:18:51.959 --> 00:18:57.430
+true belief un controversially among, in, among philosophers, you
+
+372
+00:18:57.439 --> 00:19:01.839
+don't know my birthday. Um So that, but then
+
+373
+00:19:01.849 --> 00:19:03.410
+once I tell you what my birthday is, then
+
+374
+00:19:03.420 --> 00:19:05.569
+you do know it. So that's like kind of
+
+375
+00:19:05.579 --> 00:19:07.689
+a clear case, like guessing isn't gonna give you
+
+376
+00:19:07.699 --> 00:19:09.640
+knowledge even though it can give you true belief.
+
+377
+00:19:10.329 --> 00:19:14.420
+Um YOU know, forming beliefs in an unreasonable manner
+
+378
+00:19:14.430 --> 00:19:16.040
+isn't supposed to give you knowledge even though it
+
+379
+00:19:16.050 --> 00:19:18.130
+can sometimes you luck out and get true beliefs.
+
+380
+00:19:18.630 --> 00:19:21.109
+Um And then of course, what unreasonable means is
+
+381
+00:19:21.469 --> 00:19:24.849
+hotly contested as well. Um So I don't know
+
+382
+00:19:24.859 --> 00:19:26.250
+the difference between knowledge and true belief. And so
+
+383
+00:19:26.260 --> 00:19:27.569
+in the book, I have to talk about knowledge
+
+384
+00:19:27.579 --> 00:19:29.660
+a lot because knowledge is like one of the
+
+385
+00:19:29.670 --> 00:19:34.930
+most standard uh paradigmatic things that standard epistemology thinks
+
+386
+00:19:34.939 --> 00:19:37.040
+about. And that is so I have to criticize
+
+387
+00:19:37.050 --> 00:19:38.569
+how they think about knowledge because I want to
+
+388
+00:19:38.579 --> 00:19:41.729
+criticize standard epistemology, but I don't know what knowledge
+
+389
+00:19:41.739 --> 00:19:43.890
+is So I have to, like, focus on fairly
+
+390
+00:19:43.900 --> 00:19:47.270
+uncontroversial claims that everybody's gonna agree on about the
+
+391
+00:19:47.280 --> 00:19:48.900
+difference between knowledge and true belief.
+
+392
+00:19:50.290 --> 00:19:55.069
+And are there any pointless beliefs? And if so
+
+393
+00:19:55.079 --> 00:19:58.500
+what does it mean to call a belief? Uh,
+
+394
+00:19:58.510 --> 00:19:59.750
+POINTLESS.
+
+395
+00:20:00.609 --> 00:20:03.050
+Yeah. Almost every possible belief is pointless. That's a
+
+396
+00:20:03.060 --> 00:20:06.020
+real, that's a real bummer. Uh, SO pointless belief.
+
+397
+00:20:06.030 --> 00:20:12.560
+Uh, uh, IS a belief such that it basically
+
+398
+00:20:12.569 --> 00:20:15.160
+doesn't matter if you get it right or not.
+
+399
+00:20:16.439 --> 00:20:18.449
+So, I'll give you an example a fairly standard
+
+400
+00:20:18.459 --> 00:20:21.510
+example. So outside of, uh, there's a park across
+
+401
+00:20:21.520 --> 00:20:23.290
+the street from me and it's got a law,
+
+402
+00:20:23.300 --> 00:20:26.400
+it's got grass on that lawn. Um, I could
+
+403
+00:20:26.410 --> 00:20:28.150
+know it would be a real pain in the
+
+404
+00:20:28.160 --> 00:20:30.319
+neck, but I could know with a lot of
+
+405
+00:20:30.329 --> 00:20:32.459
+work how many blades of grass are in that
+
+406
+00:20:32.469 --> 00:20:36.589
+long, but it doesn't matter. That's like, not a
+
+407
+00:20:36.599 --> 00:20:39.640
+good thing to know. It's like, uh, even if
+
+408
+00:20:39.650 --> 00:20:41.589
+it was easy to know it, it wouldn't be
+
+409
+00:20:41.599 --> 00:20:47.109
+particularly valuable to know that. So, um, it, there
+
+410
+00:20:47.119 --> 00:20:48.790
+a belief about the number of blades in the
+
+411
+00:20:48.800 --> 00:20:51.050
+grass on the lawn can still be reasonable in
+
+412
+00:20:51.060 --> 00:20:53.160
+a very standard sense. It can fit my evidence.
+
+413
+00:20:53.670 --> 00:20:56.400
+Uh It can specify all the standard norms on,
+
+414
+00:20:56.410 --> 00:20:57.900
+on what is a good belief. It can be
+
+415
+00:20:57.910 --> 00:21:01.430
+knowledge, but it just doesn't matter one way or
+
+416
+00:21:01.439 --> 00:21:03.770
+the other if I just guessed how many blades
+
+417
+00:21:03.780 --> 00:21:06.410
+of grass on the lawn. So like even whether
+
+418
+00:21:06.420 --> 00:21:08.109
+or not if, I guess it totally unreasonably, who
+
+419
+00:21:08.119 --> 00:21:10.839
+cares. Uh And so that's an example of a
+
+420
+00:21:10.849 --> 00:21:13.579
+pointless belief. I have some other work prior to
+
+421
+00:21:13.589 --> 00:21:17.170
+the book where, um, I do, I'll, I do
+
+422
+00:21:17.180 --> 00:21:20.000
+some like proofs to show there's a limit to
+
+423
+00:21:20.010 --> 00:21:24.609
+the possible value of pointless beliefs effectively. Uh Either
+
+424
+00:21:24.619 --> 00:21:27.969
+they have no value or they're effectively infinitely small,
+
+425
+00:21:28.660 --> 00:21:34.030
+um infinitely little value. Um And I think that's
+
+426
+00:21:34.040 --> 00:21:36.319
+really important. So, and so first of all, that's
+
+427
+00:21:36.329 --> 00:21:38.670
+like just one example, but it turns out that
+
+428
+00:21:38.680 --> 00:21:41.430
+like when you think hard about pointless beliefs, which,
+
+429
+00:21:42.209 --> 00:21:43.949
+uh, it's weird to have a research project where
+
+430
+00:21:43.959 --> 00:21:45.140
+you have to think where you have to think
+
+431
+00:21:45.150 --> 00:21:47.310
+a lot about what's, what's not worth thinking about.
+
+432
+00:21:47.319 --> 00:21:51.270
+But that's my job. Uh Almost everything you could
+
+433
+00:21:51.280 --> 00:21:54.569
+possibly believe is pointless because did not be so
+
+434
+00:21:55.510 --> 00:21:58.719
+for every interesting question, there's a bunch of really
+
+435
+00:21:58.729 --> 00:22:02.609
+uninteresting related questions. Um So I think, I, I
+
+436
+00:22:02.619 --> 00:22:03.880
+think I use this example of the book, I
+
+437
+00:22:03.890 --> 00:22:05.660
+love my wife and I'm really interested in a
+
+438
+00:22:05.670 --> 00:22:07.609
+lot of things about her, but like, I could
+
+439
+00:22:07.619 --> 00:22:10.079
+count the, the hairs on her arm, I guess.
+
+440
+00:22:10.089 --> 00:22:11.599
+And that would give me some knowledge about my
+
+441
+00:22:11.609 --> 00:22:13.839
+wife, but I think that's pointless, right? And so
+
+442
+00:22:13.849 --> 00:22:17.199
+for almost every topic that we're interested in is
+
+443
+00:22:17.209 --> 00:22:19.359
+actually most of that topic is really kind of
+
+444
+00:22:19.369 --> 00:22:23.329
+boring. Um And so it just turns out the,
+
+445
+00:22:23.689 --> 00:22:26.180
+uh, there is really interesting stuff in the world
+
+446
+00:22:26.189 --> 00:22:27.829
+that we're genuinely curious about and that we should
+
+447
+00:22:27.839 --> 00:22:32.109
+be curious about probably. Um But most things are
+
+448
+00:22:32.119 --> 00:22:35.300
+not worth knowing and like provably not worth knowing.
+
+449
+00:22:35.310 --> 00:22:37.599
+Uh And there's some, I have some interesting proofs
+
+450
+00:22:37.609 --> 00:22:41.280
+uh in some of my earlier work. Uh And
+
+451
+00:22:41.290 --> 00:22:44.270
+so that's important, I think partly because it shows
+
+452
+00:22:44.280 --> 00:22:48.790
+us that just being knowledge is not enough to
+
+453
+00:22:48.800 --> 00:22:51.709
+make something particularly valuable, just being true is not
+
+454
+00:22:51.719 --> 00:22:54.060
+enough to make a belief, particularly valuable, just being
+
+455
+00:22:54.069 --> 00:22:56.030
+a fit fit to your evidence is not particularly
+
+456
+00:22:56.040 --> 00:22:59.630
+valuable. In fact, almost everything that you could believe
+
+457
+00:22:59.640 --> 00:23:01.599
+that was true and knowledge and fitted into your
+
+458
+00:23:01.609 --> 00:23:05.650
+evidence would be not particularly valuable. Um Because again,
+
+459
+00:23:05.660 --> 00:23:07.890
+it mostly be like little facts about how many
+
+460
+00:23:07.900 --> 00:23:10.170
+atoms in the wall behind me and like, you
+
+461
+00:23:10.180 --> 00:23:14.359
+know, how many miles between me and your, your
+
+462
+00:23:14.369 --> 00:23:17.189
+mother's best friend, you know, what was the phone
+
+463
+00:23:17.199 --> 00:23:20.459
+number of your grandparents in 1946? Stuff like that?
+
+464
+00:23:20.469 --> 00:23:22.469
+Right? There's all that facts out there that just
+
+465
+00:23:22.479 --> 00:23:27.239
+aren't, aren't particularly worth knowing. Um And so that
+
+466
+00:23:27.250 --> 00:23:30.420
+opens this question, like if just being knowledge or
+
+467
+00:23:30.430 --> 00:23:33.329
+just being reasonable in a standard sense of reasonable
+
+468
+00:23:33.660 --> 00:23:37.290
+or just being fitted to your evidence, that doesn't
+
+469
+00:23:37.300 --> 00:23:40.229
+make things good automatically because almost everything that does
+
+470
+00:23:40.239 --> 00:23:42.760
+that isn't good. And so then you're like, does
+
+471
+00:23:42.770 --> 00:23:46.099
+it ever make anything good? Is that really what's
+
+472
+00:23:46.109 --> 00:23:49.589
+important? Being knowledge, being reasonable, being true or is
+
+473
+00:23:49.599 --> 00:23:51.140
+there something else going on and that's kind of
+
+474
+00:23:51.150 --> 00:23:53.250
+got part of what got me started thinking about
+
+475
+00:23:53.260 --> 00:23:53.770
+this book,
+
+476
+00:23:55.069 --> 00:23:59.810
+but that's about pointless beliefs. But what are mundane
+
+477
+00:23:59.819 --> 00:24:03.119
+beliefs? Because that's another kind here, I guess.
+
+478
+00:24:03.640 --> 00:24:05.489
+Yeah. In the book, I talk about three categories
+
+479
+00:24:05.500 --> 00:24:08.069
+of belief and these are just sort of very
+
+480
+00:24:08.079 --> 00:24:11.459
+rough categories to kind of help frame thinking. Obviously
+
+481
+00:24:11.469 --> 00:24:14.500
+there's a lot of questions that, yeah. Anyway, it's
+
+482
+00:24:14.510 --> 00:24:16.329
+more complicated than this. But I, but I, but
+
+483
+00:24:16.339 --> 00:24:17.930
+you have to simplify things a little bit and,
+
+484
+00:24:17.939 --> 00:24:21.060
+and when you're writing so pointless beliefs, ba basically
+
+485
+00:24:21.069 --> 00:24:24.550
+don't matter at all. Um What I there's something
+
+486
+00:24:24.560 --> 00:24:27.569
+I call interesting beliefs, right? Those are ones that
+
+487
+00:24:27.579 --> 00:24:30.530
+like, it's good to know those. And then this
+
+488
+00:24:30.540 --> 00:24:33.150
+kind of middle category of mundane which are beliefs
+
+489
+00:24:33.160 --> 00:24:35.339
+that are worth the things that are kind of
+
+490
+00:24:35.800 --> 00:24:38.849
+uh important to. Uh, BUT only because they're useful
+
+491
+00:24:39.569 --> 00:24:42.380
+and if they weren't useful, they would be pointless.
+
+492
+00:24:42.680 --> 00:24:47.410
+Um And whereas the sort of interesting stuff is
+
+493
+00:24:47.420 --> 00:24:50.130
+uh important, kind of independent of its usefulness, it's
+
+494
+00:24:50.140 --> 00:24:53.510
+more important than it is useful. So, you know,
+
+495
+00:24:53.520 --> 00:24:56.750
+like, um, I know my wife's phone number, I
+
+496
+00:24:56.760 --> 00:24:59.890
+know my mom's phone number. But like, you know,
+
+497
+00:25:00.290 --> 00:25:02.989
+uh if I was somehow no longer able to
+
+498
+00:25:03.000 --> 00:25:06.630
+use that information, you know, if like aliens came
+
+499
+00:25:06.640 --> 00:25:08.250
+to earth and said, hey, Brian, we're just gonna
+
+500
+00:25:08.260 --> 00:25:11.040
+stop you from ever texting or calling your wife
+
+501
+00:25:11.050 --> 00:25:13.520
+ever again. I'd be really upset about that. But
+
+502
+00:25:13.530 --> 00:25:15.599
+it also would make that information useless to me.
+
+503
+00:25:15.609 --> 00:25:19.150
+Right. So, I wanna know my wife's phone number,
+
+504
+00:25:19.699 --> 00:25:22.469
+but if I couldn't use it, I wouldn't wanna
+
+505
+00:25:22.479 --> 00:25:24.719
+know it anymore. Or I wouldn't care if I
+
+506
+00:25:24.729 --> 00:25:26.109
+knew it one way or another. So that's, am
+
+507
+00:25:26.229 --> 00:25:28.910
+an example of mundane belief. It's worth a belief
+
+508
+00:25:28.920 --> 00:25:33.569
+that's worth having just because it's useful. And then
+
+509
+00:25:33.880 --> 00:25:36.219
+there's, this raises a set of issues which are
+
+510
+00:25:36.449 --> 00:25:41.290
+sometimes true beliefs are useful, but sometimes false beliefs
+
+511
+00:25:41.810 --> 00:25:46.010
+are about as useful as true beliefs. Um, SO,
+
+512
+00:25:46.869 --> 00:25:49.020
+you know, I wanna make salad later on, let's
+
+513
+00:25:49.030 --> 00:25:50.520
+say, and I want to put radishes in that
+
+514
+00:25:50.530 --> 00:25:53.079
+salad because I like radishes and I think I
+
+515
+00:25:53.089 --> 00:25:56.650
+got 37 radishes in my fridge. Well, if I
+
+516
+00:25:56.660 --> 00:26:00.930
+had 36 instead, that's probably still useful, that's probably
+
+517
+00:26:00.939 --> 00:26:03.739
+I'm still gonna act it basically the same. Uh,
+
+518
+00:26:03.750 --> 00:26:05.630
+I wanna know that I have, I want to
+
+519
+00:26:05.640 --> 00:26:07.339
+know something about those radishes but it doesn't need
+
+520
+00:26:07.349 --> 00:26:09.439
+to be like, strictly speaking true. That's actually not
+
+521
+00:26:09.449 --> 00:26:11.849
+a great example. But, uh, it's the simplest one
+
+522
+00:26:11.859 --> 00:26:12.739
+I could think of off the top of my
+
+523
+00:26:12.750 --> 00:26:16.530
+head. Uh There's some really interesting complicated examples in
+
+524
+00:26:16.540 --> 00:26:19.500
+ethics. Actually, in legal philosophy, this comes up all
+
+525
+00:26:19.510 --> 00:26:24.010
+the time. So in legal philosophy, a very common
+
+526
+00:26:24.020 --> 00:26:27.229
+view of the law is that one function of
+
+527
+00:26:27.239 --> 00:26:30.060
+the law is to give us advice. But in
+
+528
+00:26:30.069 --> 00:26:31.989
+order to give us advice, the law sometimes has
+
+529
+00:26:32.000 --> 00:26:34.630
+to be a little bit more simple than reality
+
+530
+00:26:34.640 --> 00:26:37.150
+is if the law was as perfectly, it was
+
+531
+00:26:37.160 --> 00:26:40.280
+so complicated that it was perfectly matching the reality
+
+532
+00:26:40.290 --> 00:26:42.530
+in every possible case, it would be too complicated
+
+533
+00:26:42.540 --> 00:26:45.270
+to understand. You couldn't use it. So, fairly common
+
+534
+00:26:45.280 --> 00:26:46.630
+in view of the law is that the law
+
+535
+00:26:46.640 --> 00:26:48.920
+has to be kind of like a slightly dumbed
+
+536
+00:26:48.930 --> 00:26:54.650
+down version of, um, morality. And if that's right,
+
+537
+00:26:54.660 --> 00:26:57.699
+then the law sometimes gives you bad advice. But
+
+538
+00:26:57.709 --> 00:26:59.209
+in the long run, it's supposed to, if it
+
+539
+00:26:59.219 --> 00:27:01.280
+does its job, it's supposed to give you, uh,
+
+540
+00:27:01.290 --> 00:27:03.500
+you're supposed to do better on a very standard
+
+541
+00:27:03.510 --> 00:27:05.989
+view. Follow. If the law is well made, you'll
+
+542
+00:27:06.000 --> 00:27:07.760
+do better in the long run following the law
+
+543
+00:27:07.770 --> 00:27:09.339
+than you will sort of thinking for yourself in
+
+544
+00:27:09.349 --> 00:27:12.729
+every possible case. That's a controversial view. You don't
+
+545
+00:27:12.739 --> 00:27:14.500
+have to believe that, but it's a pretty common
+
+546
+00:27:14.510 --> 00:27:16.989
+view of what good law looks like. And so
+
+547
+00:27:17.000 --> 00:27:21.530
+in that case, if you believe the law, uh,
+
+548
+00:27:21.859 --> 00:27:23.439
+you would be, you would act better in the
+
+549
+00:27:23.449 --> 00:27:26.500
+long run, but your belief would be slightly false
+
+550
+00:27:26.510 --> 00:27:27.739
+would be a little bit off because the law
+
+551
+00:27:27.750 --> 00:27:30.530
+is oversimplified. So that's a case in which, uh,
+
+552
+00:27:30.560 --> 00:27:33.579
+you might do better with a oversimplified belief that
+
+553
+00:27:33.589 --> 00:27:35.949
+you can use, but which is slight, which is
+
+554
+00:27:35.959 --> 00:27:38.630
+strictly speaking false, you would act better using that,
+
+555
+00:27:38.640 --> 00:27:40.869
+that false belief than you would if you had
+
+556
+00:27:40.880 --> 00:27:42.430
+a totally true belief because it be the true
+
+557
+00:27:42.439 --> 00:27:45.839
+belief would be too complicated to use. Uh And
+
+558
+00:27:45.849 --> 00:27:48.849
+so then we have this question if sometimes, if,
+
+559
+00:27:48.859 --> 00:27:51.760
+what, what we care about from mundane places, their
+
+560
+00:27:51.770 --> 00:27:55.390
+usefulness and false beliefs can sometimes be as or
+
+561
+00:27:55.400 --> 00:28:01.099
+more useful than true beliefs. Why the, then we
+
+562
+00:28:01.109 --> 00:28:04.300
+wouldn't always really wanna have true beliefs in mundane
+
+563
+00:28:04.310 --> 00:28:07.380
+contexts, sometimes false beliefs would be just as good
+
+564
+00:28:07.390 --> 00:28:10.949
+and then epistemic norms as we generally understand them
+
+565
+00:28:10.959 --> 00:28:12.979
+are all about the truth. But then they're not
+
+566
+00:28:12.989 --> 00:28:16.290
+really well matched to mundane the youth, the value
+
+567
+00:28:16.300 --> 00:28:20.540
+of mundane beliefs because mundane beliefs about usefulness, truth
+
+568
+00:28:20.550 --> 00:28:23.550
+and usefulness can come apart. So the epistemic norms
+
+569
+00:28:23.560 --> 00:28:26.160
+that they're standardly understood are not tracking what we
+
+570
+00:28:26.170 --> 00:28:28.209
+really are interested in what we really want out
+
+571
+00:28:28.219 --> 00:28:29.199
+of mundane beliefs.
+
+572
+00:28:31.119 --> 00:28:35.140
+So I, I want to ask you about non-standard
+
+573
+00:28:35.150 --> 00:28:38.219
+epistemic norms. We've already talked a little bit about
+
+574
+00:28:38.229 --> 00:28:41.619
+the standard epistemic norms. You gave a few examples
+
+575
+00:28:41.630 --> 00:28:45.280
+earlier. But before we get into that specifically, could
+
+576
+00:28:45.290 --> 00:28:49.300
+you tell us about this idea of epistemic consequentialism?
+
+577
+00:28:49.599 --> 00:28:50.349
+What is that?
+
+578
+00:28:50.359 --> 00:28:53.819
+Yeah. So in ethics, consequentialism is the view that
+
+579
+00:28:54.280 --> 00:28:57.199
+basically what you, what what you should do is
+
+580
+00:28:57.209 --> 00:29:01.380
+determined by what produces the best long run consequences.
+
+581
+00:29:02.420 --> 00:29:06.040
+And very roughly epidemic consequentialism is that idea. But
+
+582
+00:29:06.050 --> 00:29:09.939
+in epistemology, so it's like what you should believe
+
+583
+00:29:10.699 --> 00:29:16.079
+uh is determined by the consequences of those beliefs.
+
+584
+00:29:16.300 --> 00:29:19.380
+So the epidemic consequences. So like what you should
+
+585
+00:29:19.390 --> 00:29:22.900
+believe is determined by uh what the rules are,
+
+586
+00:29:22.910 --> 00:29:26.040
+the norms for belief are determined by uh what
+
+587
+00:29:26.050 --> 00:29:28.770
+norms are best for you to follow in terms
+
+588
+00:29:28.780 --> 00:29:31.760
+of getting, have informed, having good beliefs. So, if
+
+589
+00:29:31.770 --> 00:29:33.349
+you follow these norms in the long run, you'll
+
+590
+00:29:33.359 --> 00:29:35.020
+have better beliefs than if you don't follow these
+
+591
+00:29:35.030 --> 00:29:35.489
+norms.
+
+592
+00:29:37.250 --> 00:29:42.449
+And how does that connect them to non-standard epistemic
+
+593
+00:29:42.459 --> 00:29:42.869
+norm?
+
+594
+00:29:43.989 --> 00:29:48.890
+Well, so uh the discussion and epistemology, at least
+
+595
+00:29:48.900 --> 00:29:53.930
+historically uh has looked consequential. So people say, why
+
+596
+00:29:53.939 --> 00:29:56.839
+does it matter that my beliefs are reasonable? Uh
+
+597
+00:29:56.849 --> 00:29:58.869
+Why does it matter that? I believe what my
+
+598
+00:29:58.880 --> 00:30:01.050
+evidence tells me? And the answer is supposed to
+
+599
+00:30:01.060 --> 00:30:03.189
+be, if you do that, you're more gonna have
+
+600
+00:30:03.199 --> 00:30:05.729
+more true beliefs than you would if you didn't
+
+601
+00:30:05.739 --> 00:30:09.010
+do that. So it looks consequentialist, you're justifying, you're
+
+602
+00:30:09.020 --> 00:30:11.699
+explaining the norms in terms of, you're gonna get
+
+603
+00:30:11.709 --> 00:30:15.430
+true beliefs, you follow norms. But of course, uh
+
+604
+00:30:16.729 --> 00:30:18.680
+there are gonna be cases in which forming one
+
+605
+00:30:18.689 --> 00:30:21.790
+false belief is potentially going to give you more
+
+606
+00:30:21.800 --> 00:30:24.349
+true beliefs in the long run. So use the,
+
+607
+00:30:24.359 --> 00:30:27.989
+the law example I just gave, uh, let's as,
+
+608
+00:30:28.880 --> 00:30:31.550
+let's assume that the law is well made, not
+
+609
+00:30:31.560 --> 00:30:34.089
+a good assumption in many countries, but let's assume
+
+610
+00:30:34.099 --> 00:30:35.380
+that we live in a country where the law
+
+611
+00:30:35.390 --> 00:30:40.579
+is well made. And so, uh the average citizen
+
+612
+00:30:40.589 --> 00:30:43.709
+who just believes what the law tells them, who
+
+613
+00:30:43.719 --> 00:30:46.739
+just believe the law is right, is gonna act
+
+614
+00:30:46.750 --> 00:30:49.130
+better more often than if they use their own
+
+615
+00:30:49.140 --> 00:30:56.040
+judgment. Um If that's right, then believing that the
+
+616
+00:30:56.050 --> 00:30:59.239
+law is correct is false because the law is
+
+617
+00:30:59.250 --> 00:31:01.459
+not entirely correct. If you just believe the laws
+
+618
+00:31:01.469 --> 00:31:04.020
+inside you believe the law is entirely correct, that's
+
+619
+00:31:04.030 --> 00:31:07.270
+a false belief. But that, having that false belief
+
+620
+00:31:07.280 --> 00:31:09.250
+will give you more true beliefs in the long
+
+621
+00:31:09.260 --> 00:31:11.829
+run about what you should do in particular situations.
+
+622
+00:31:12.229 --> 00:31:18.270
+It'll give you more true beliefs than having the
+
+623
+00:31:18.280 --> 00:31:22.239
+true belief. That law is incorrect. Um, IF that's
+
+624
+00:31:22.250 --> 00:31:23.719
+right again, there's a lot of ifs there. But
+
+625
+00:31:23.729 --> 00:31:25.989
+we can just imagine that's true. If that were
+
+626
+00:31:26.000 --> 00:31:28.869
+true for a person, then forming one false belief
+
+627
+00:31:28.880 --> 00:31:31.430
+about that, the law is always correct will give
+
+628
+00:31:31.439 --> 00:31:34.380
+them more true beliefs in the long run than
+
+629
+00:31:34.390 --> 00:31:35.969
+if they'd formed the true belief that the law
+
+630
+00:31:35.979 --> 00:31:39.180
+is not entirely correct. So that would be what
+
+631
+00:31:39.189 --> 00:31:41.430
+I called the trade off, uh was often called
+
+632
+00:31:41.439 --> 00:31:44.420
+a trade off. You form one false belief because
+
+633
+00:31:44.430 --> 00:31:46.780
+having that false belief will give you more true
+
+634
+00:31:46.790 --> 00:31:48.949
+beliefs in the long run. And if you're an
+
+635
+00:31:48.959 --> 00:31:53.040
+epidemic, consequentialist, you should say, yeah, that sounds great.
+
+636
+00:31:53.810 --> 00:31:58.540
+But uh everybody who is an epidemic, almost everybody
+
+637
+00:31:58.569 --> 00:32:01.189
+who's an epidemic, consequentialist has tried to deny that
+
+638
+00:32:01.199 --> 00:32:05.319
+this is a consequence of their view. Um So
+
+639
+00:32:05.329 --> 00:32:08.640
+not every single person the last couple of years,
+
+640
+00:32:08.650 --> 00:32:10.939
+like for example, Richard Pettigrew said, yeah, maybe we
+
+641
+00:32:10.949 --> 00:32:14.280
+could be OK with that. Um But historically, people
+
+642
+00:32:14.290 --> 00:32:17.760
+who are epidemic consequentialist have tried to deny that
+
+643
+00:32:17.770 --> 00:32:20.430
+tradeoffs are we should make tradeoffs. Uh But it
+
+644
+00:32:20.439 --> 00:32:23.180
+looks like a natural fit that you should say,
+
+645
+00:32:23.189 --> 00:32:25.199
+forming a false belief, gives you more true beliefs
+
+646
+00:32:25.209 --> 00:32:26.280
+in the long run. That's the right thing to
+
+647
+00:32:26.290 --> 00:32:29.050
+do according to consequentialism. But people want to deny
+
+648
+00:32:29.060 --> 00:32:33.969
+this. Um That's one aspect of it really, really
+
+649
+00:32:33.979 --> 00:32:38.390
+quickly. Also epidemic consequentialist in contemporary work tend to
+
+650
+00:32:38.400 --> 00:32:42.489
+be like maximizer which means that you should form
+
+651
+00:32:42.569 --> 00:32:47.199
+the best beliefs. You can. And uh I think
+
+652
+00:32:47.209 --> 00:32:49.410
+that is the wrong approach in epistemology. You should
+
+653
+00:32:49.420 --> 00:32:54.369
+be a satisfy or uh what's called scalar consequentialist.
+
+654
+00:32:54.380 --> 00:32:57.579
+That's a view that comes from Alison Norcross mostly
+
+655
+00:32:58.130 --> 00:33:02.500
+uh and satisfying and scalar consequentialist don't think you
+
+656
+00:33:02.510 --> 00:33:07.349
+should always believe what's best. Um And if that's
+
+657
+00:33:07.359 --> 00:33:10.859
+right, you, it causes all these really difficult problems
+
+658
+00:33:10.869 --> 00:33:12.910
+for contemporary consequential theories.
+
+659
+00:33:14.339 --> 00:33:17.119
+And in the book, sort of related to that,
+
+660
+00:33:17.130 --> 00:33:21.959
+you also talk about epistemic tradeoffs, what are those?
+
+661
+00:33:21.969 --> 00:33:25.410
+And how do they apply to these discussions surrounding
+
+662
+00:33:25.770 --> 00:33:28.280
+non-standard epistemic norms?
+
+663
+00:33:28.859 --> 00:33:31.130
+Yeah. So tradeoffs are cases in which you form
+
+664
+00:33:31.140 --> 00:33:35.150
+one belief that is bad in some way uh
+
+665
+00:33:35.699 --> 00:33:38.969
+in order to form other because it's likely to
+
+666
+00:33:38.979 --> 00:33:41.650
+benefit you in terms of producing other good beliefs.
+
+667
+00:33:41.660 --> 00:33:44.560
+So forming a bad belief about what you should
+
+668
+00:33:44.569 --> 00:33:48.640
+like about uh some rule for action might uh
+
+669
+00:33:48.650 --> 00:33:51.099
+give you more good beliefs about how to act
+
+670
+00:33:51.109 --> 00:33:54.300
+in the long run. Or another example uh from
+
+671
+00:33:54.310 --> 00:33:59.319
+the book, uh John Doris has this uh uh
+
+672
+00:33:59.329 --> 00:34:03.199
+work where he argues that having false beliefs about,
+
+673
+00:34:03.209 --> 00:34:08.540
+uh, your behavior and your personal relationships can lead
+
+674
+00:34:08.550 --> 00:34:10.889
+you to act better in the long run. Also
+
+675
+00:34:10.899 --> 00:34:15.159
+very depressing. Um, AND, uh, if he's right, then
+
+676
+00:34:15.168 --> 00:34:17.570
+it may be that those false beliefs about, um,
+
+677
+00:34:17.580 --> 00:34:20.550
+about the relationship can also lead to other true
+
+678
+00:34:20.560 --> 00:34:22.870
+beliefs about how to act well in your relationship.
+
+679
+00:34:23.330 --> 00:34:25.780
+By the way. Could you give us an example
+
+680
+00:34:25.790 --> 00:34:26.310
+of that?
+
+681
+00:34:26.790 --> 00:34:29.280
+No, that's, that's, that's John's work. So that's, that's,
+
+682
+00:34:29.350 --> 00:34:31.219
+I don't know that, I don't know, that works
+
+683
+00:34:31.899 --> 00:34:34.570
+well enough. Um I'll give you a more an
+
+684
+00:34:34.580 --> 00:34:37.639
+example. I do know a little bit better. Um
+
+685
+00:34:37.649 --> 00:34:41.379
+There is some research that suggests that overconfident academics
+
+686
+00:34:42.199 --> 00:34:47.358
+publish better. Um So, and there's some reason to
+
+687
+00:34:47.368 --> 00:34:50.878
+think that thinking you're a better researcher than you,
+
+688
+00:34:50.888 --> 00:34:52.858
+in fact, are that you're more capable than you,
+
+689
+00:34:52.868 --> 00:34:57.378
+in fact, are leads to more discoveries. So that'd
+
+690
+00:34:57.388 --> 00:34:59.039
+be a way in which forming a belief that's
+
+691
+00:34:59.049 --> 00:35:01.319
+false thinking. You're a better researcher than you really
+
+692
+00:35:01.329 --> 00:35:03.698
+are. This is not only false, it probably goes
+
+693
+00:35:03.708 --> 00:35:08.500
+against your evidence. Um, UNREASONABLE belief. Uh That's one
+
+694
+00:35:08.510 --> 00:35:10.709
+bad belief you can form, but if you form
+
+695
+00:35:10.719 --> 00:35:13.770
+that bad belief, you're somewhat more likely to learn
+
+696
+00:35:13.780 --> 00:35:16.439
+things in the future. And if that's true, you've
+
+697
+00:35:16.449 --> 00:35:19.959
+traded off, you've sacrificed your belief about your abilities.
+
+698
+00:35:19.969 --> 00:35:22.260
+You had this one's bad for the benefit of
+
+699
+00:35:22.270 --> 00:35:25.229
+these other long term benefits in terms of learning
+
+700
+00:35:25.239 --> 00:35:28.169
+other new thing, other interesting things. Sorry. One second,
+
+701
+00:35:28.510 --> 00:35:33.010
+it's probably, it's probably basically the idea that if
+
+702
+00:35:33.020 --> 00:35:36.439
+I think I'm not good enough to become, I
+
+703
+00:35:36.449 --> 00:35:40.159
+don't know, an academic, for example, it's even pointless
+
+704
+00:35:40.169 --> 00:35:44.149
+for me to study or to uh apply to
+
+705
+00:35:44.159 --> 00:35:44.419
+it.
+
+706
+00:35:44.860 --> 00:35:46.570
+Right. Yeah. So this is, of course, that's an
+
+707
+00:35:46.580 --> 00:35:49.590
+empirical question. Like what actually works. So I'm a
+
+708
+00:35:49.600 --> 00:35:51.639
+philosopher, not a, not a scientist. So I can't
+
+709
+00:35:51.649 --> 00:35:54.659
+tell you if it's really true, that being overconfident
+
+710
+00:35:54.669 --> 00:35:57.810
+will help you. But if it is true, then
+
+711
+00:35:57.820 --> 00:36:01.419
+uh that would be a epistemic trade off. If
+
+712
+00:36:01.429 --> 00:36:04.110
+being overconfident helped you learn new things, that would
+
+713
+00:36:04.120 --> 00:36:07.889
+be a trade off where you're sacrificing one belief
+
+714
+00:36:07.899 --> 00:36:10.189
+and making that bad in order to get other
+
+715
+00:36:10.199 --> 00:36:12.449
+good things. And yeah, I think it's plausible although
+
+716
+00:36:12.459 --> 00:36:14.510
+again, I don't think it's been studied well enough
+
+717
+00:36:14.520 --> 00:36:16.560
+that we can be 100% certain, but it's an
+
+718
+00:36:16.570 --> 00:36:18.330
+interesting example to think about.
+
+719
+00:36:19.899 --> 00:36:24.439
+So tell us now about the methodology that you,
+
+720
+00:36:24.449 --> 00:36:27.129
+you use in the book when it comes to
+
+721
+00:36:27.139 --> 00:36:31.120
+trying to come up with rep what you, you
+
+722
+00:36:31.129 --> 00:36:33.149
+call replacement norms.
+
+723
+00:36:34.350 --> 00:36:41.830
+Yeah. So um methodology is basically start with what
+
+724
+00:36:41.979 --> 00:36:46.709
+uh people have said um their explanations they've given
+
+725
+00:36:46.719 --> 00:36:49.149
+for why the epistemic norms are supposed to matter.
+
+726
+00:36:50.199 --> 00:36:55.290
+So for example, the consequentialist explanation, which is the
+
+727
+00:36:55.300 --> 00:36:57.189
+epidemic norms are supposed to matter because if we
+
+728
+00:36:57.199 --> 00:37:01.889
+conform to them, we form more good beliefs or
+
+729
+00:37:02.149 --> 00:37:04.860
+um there's a social view that says the epistemic
+
+730
+00:37:04.870 --> 00:37:07.570
+norms are supposed to matter because if we all
+
+731
+00:37:07.580 --> 00:37:09.510
+sort of follow the same rules. We can better
+
+732
+00:37:09.520 --> 00:37:11.889
+figure out who to listen to and who not
+
+733
+00:37:11.899 --> 00:37:15.080
+listen to or the action view, which is that
+
+734
+00:37:15.090 --> 00:37:19.090
+if we uh have good beliefs, that's gonna be
+
+735
+00:37:19.100 --> 00:37:22.139
+good for action in various ways. So each chapter
+
+736
+00:37:22.149 --> 00:37:24.050
+of the book or many of the chapters start
+
+737
+00:37:24.060 --> 00:37:26.669
+with, this is what philosophers said about why the
+
+738
+00:37:26.679 --> 00:37:29.370
+epic norms are supposed to matter. Let's just assume
+
+739
+00:37:29.379 --> 00:37:36.250
+they're right. And then ask what would norms that
+
+740
+00:37:36.260 --> 00:37:38.729
+do what these people are talking about look like?
+
+741
+00:37:39.540 --> 00:37:43.860
+So what would norms that uh produce better action
+
+742
+00:37:43.870 --> 00:37:46.459
+look like? What would norms that enable good social
+
+743
+00:37:46.469 --> 00:37:50.689
+coordinations look like? Um And we don't, so typically,
+
+744
+00:37:50.699 --> 00:37:54.469
+that's assumed that these, these stories are gonna um
+
+745
+00:37:55.260 --> 00:37:58.360
+vindicate uh the norms that we typically accept in
+
+746
+00:37:58.370 --> 00:38:01.280
+philosophy, but I don't assume that. So I say,
+
+747
+00:38:01.290 --> 00:38:03.469
+let's just take this the, the answer very seriously,
+
+748
+00:38:03.479 --> 00:38:06.090
+the idea very seriously. Let's not assume anything about
+
+749
+00:38:06.100 --> 00:38:08.139
+what the norms actually do look like and just
+
+750
+00:38:08.149 --> 00:38:10.449
+say if you started from this idea and you
+
+751
+00:38:10.459 --> 00:38:11.889
+just went, what would you get?
+
+752
+00:38:14.110 --> 00:38:16.889
+And what do you think would be some of
+
+753
+00:38:16.899 --> 00:38:22.270
+the biggest objections to the kind of way you
+
+754
+00:38:22.280 --> 00:38:25.770
+approach things here basically to your methodology?
+
+755
+00:38:26.560 --> 00:38:33.919
+Yeah. Um So I've gotten different objections from different
+
+756
+00:38:33.929 --> 00:38:39.429
+people. Um One objection is the epistemic norms aren't
+
+757
+00:38:39.439 --> 00:38:44.439
+supposed to matter. So who cares? Um That, that
+
+758
+00:38:44.449 --> 00:38:46.330
+always makes that, that always makes me a little
+
+759
+00:38:46.340 --> 00:38:47.969
+bit sad if they don't matter why are we
+
+760
+00:38:47.979 --> 00:38:53.129
+thinking about them so much? Um So another objection
+
+761
+00:38:53.139 --> 00:38:57.270
+is even if I'm right in a sense, the,
+
+762
+00:38:57.280 --> 00:39:00.830
+the, the non-standard norms that I'm interested in, we
+
+763
+00:39:00.840 --> 00:39:04.219
+can't follow them. So, for example, we can't, like,
+
+764
+00:39:04.229 --> 00:39:08.360
+intentionally form false beliefs. If, even if that's gonna
+
+765
+00:39:08.370 --> 00:39:09.780
+give us true beliefs in the long run, that's
+
+766
+00:39:09.790 --> 00:39:12.739
+a pretty standard view. Like, even if you knew
+
+767
+00:39:12.750 --> 00:39:15.939
+that being overconfident was gonna give you more, would
+
+768
+00:39:15.949 --> 00:39:17.989
+help you out in the long run. You can't
+
+769
+00:39:18.000 --> 00:39:22.129
+just make yourself overconfident on that basis. Uh Some
+
+770
+00:39:22.139 --> 00:39:25.649
+people think that's impossible. And so there are, people
+
+771
+00:39:25.659 --> 00:39:28.600
+are like, well, so then, so what um if
+
+772
+00:39:28.610 --> 00:39:31.620
+we can't follow these norms, they, they're not that
+
+773
+00:39:31.629 --> 00:39:34.590
+they're not the right norms. That's like probably the
+
+774
+00:39:34.600 --> 00:39:40.250
+most uh common uh objection. Yeah. And then it
+
+775
+00:39:40.260 --> 00:39:42.330
+sort of, I guess one other objection is just
+
+776
+00:39:42.679 --> 00:39:47.350
+uh people have cared about knowledge and justified belief
+
+777
+00:39:47.360 --> 00:39:49.070
+in the sort of standard sense for all of
+
+778
+00:39:49.080 --> 00:39:52.070
+history, uh All of philosophical history. So there's no
+
+779
+00:39:52.080 --> 00:39:53.879
+way I can, I can be right. I can't.
+
+780
+00:39:53.889 --> 00:39:58.500
+So I'm saying they've always been mistaken. Uh So
+
+781
+00:39:58.510 --> 00:40:00.699
+I must be wrong because I'm disagreeing with Plato
+
+782
+00:40:00.739 --> 00:40:03.239
+uh for and everybody else. So that's a, I
+
+783
+00:40:03.250 --> 00:40:05.820
+think a very reasonable objection. Um
+
+784
+00:40:07.750 --> 00:40:11.449
+uh And, and I mean, how would you reply
+
+785
+00:40:11.459 --> 00:40:14.719
+to those objections? I mean, do you think that
+
+786
+00:40:14.729 --> 00:40:19.179
+at least uh those people would have a point
+
+787
+00:40:19.189 --> 00:40:20.570
+or not?
+
+788
+00:40:21.300 --> 00:40:24.639
+Yeah. So I mean, I think it's, I do
+
+789
+00:40:24.649 --> 00:40:28.219
+think it's a very reasonable worry if you disagree
+
+790
+00:40:28.229 --> 00:40:32.260
+with everybody, it's good evidence that you're wrong. Um,
+
+791
+00:40:32.629 --> 00:40:39.439
+BUT I think, um, the approach that I'm taking
+
+792
+00:40:39.449 --> 00:40:41.939
+to these questions is an approach that I don't
+
+793
+00:40:41.949 --> 00:40:47.409
+think people have taken uh enough previously. And so,
+
+794
+00:40:47.669 --> 00:40:53.709
+um, yeah, so there's all this work outside of
+
+795
+00:40:53.719 --> 00:40:57.409
+epistemology on why norms matter. Right. So again, I
+
+796
+00:40:57.419 --> 00:41:00.169
+do a lot of uh work in ethics and
+
+797
+00:41:00.179 --> 00:41:03.580
+legal philosophy. And, you know, in legal philosophy, people
+
+798
+00:41:03.590 --> 00:41:06.719
+thought about all they always think about, there are
+
+799
+00:41:06.729 --> 00:41:08.669
+the laws and then there are the justification for
+
+800
+00:41:08.679 --> 00:41:10.870
+the laws. And if the, if the justification for
+
+801
+00:41:10.879 --> 00:41:13.429
+the laws doesn't actually mean the laws are good,
+
+802
+00:41:13.439 --> 00:41:15.929
+then we should change the law, right? Um And
+
+803
+00:41:15.939 --> 00:41:18.239
+so, and same thing, ethics, we thought a lot
+
+804
+00:41:18.250 --> 00:41:21.830
+about like why uh people thought a lot about
+
+805
+00:41:21.840 --> 00:41:24.649
+why it's good to be ethical in various ways.
+
+806
+00:41:24.909 --> 00:41:26.909
+And so what I've really tried to do in
+
+807
+00:41:26.919 --> 00:41:30.159
+the book is take these ideas that are these,
+
+808
+00:41:30.169 --> 00:41:33.830
+these discussions from outside of epistemology about the nature
+
+809
+00:41:33.840 --> 00:41:36.239
+of social norms or the nature of respect or
+
+810
+00:41:36.250 --> 00:41:40.229
+the nature of consequentialism, all the stuff and bring
+
+811
+00:41:40.239 --> 00:41:41.860
+them into epistemology in a way that I don't
+
+812
+00:41:41.870 --> 00:41:44.830
+think has been done as much previously as it
+
+813
+00:41:44.840 --> 00:41:48.679
+should have. And so it does give you surprising
+
+814
+00:41:48.689 --> 00:41:53.120
+results. Um But I don't think that is a
+
+815
+00:41:53.129 --> 00:41:57.989
+devastating problem because um if everybody's dis if I'm
+
+816
+00:41:58.000 --> 00:42:00.760
+disagreeing with everybody, but they haven't been approaching things
+
+817
+00:42:00.770 --> 00:42:03.840
+in this way that I'm thinking about things. Um
+
+818
+00:42:03.850 --> 00:42:05.189
+And by the way, I should say, I'm not
+
+819
+00:42:05.199 --> 00:42:08.070
+disagreeing with literally every everybody, not literally everybody, I'm
+
+820
+00:42:08.080 --> 00:42:10.699
+not the only person to have questioned uh sort
+
+821
+00:42:10.709 --> 00:42:12.379
+of standard technology. Quite a few people have done
+
+822
+00:42:12.389 --> 00:42:13.830
+that. So, like, I don't want to say, I'm
+
+823
+00:42:13.840 --> 00:42:17.159
+like the pi I, I'm not even a pioneer,
+
+824
+00:42:17.169 --> 00:42:18.750
+I'm like following in the footsteps of a lot
+
+825
+00:42:18.760 --> 00:42:21.209
+of really important philosophers. Uh So I should, I
+
+826
+00:42:21.219 --> 00:42:22.620
+don't want to puff myself up too much, but
+
+827
+00:42:22.629 --> 00:42:25.219
+I'm disagreeing with a lot of people. Um And
+
+828
+00:42:25.229 --> 00:42:29.350
+so I think it's not surprising because I uh
+
+829
+00:42:29.360 --> 00:42:33.040
+I'm trying to bring a method to this discussion
+
+830
+00:42:33.050 --> 00:42:36.750
+that has not been used often enough. And so
+
+831
+00:42:36.979 --> 00:42:39.500
+uh it's not surprising that people have gotten different
+
+832
+00:42:39.510 --> 00:42:44.020
+results because they haven't as much used. Uh The
+
+833
+00:42:44.030 --> 00:42:47.719
+method I'm using again, other people have, I'm not
+
+834
+00:42:47.729 --> 00:42:49.489
+the only person I've done it this way. But
+
+835
+00:42:49.500 --> 00:42:53.330
+um um most people don't, don't do purchasing this
+
+836
+00:42:53.340 --> 00:42:56.320
+way. And then there's this other question like, well,
+
+837
+00:42:56.330 --> 00:43:00.600
+if we can't do this, uh then why does
+
+838
+00:43:00.610 --> 00:43:04.750
+it matter? Um And it's true, I don't think
+
+839
+00:43:04.760 --> 00:43:08.510
+we can, you can't just like just um most
+
+840
+00:43:08.520 --> 00:43:10.659
+of the time you can't just decide to believe
+
+841
+00:43:10.669 --> 00:43:16.110
+something. Um But you can do things to try
+
+842
+00:43:16.120 --> 00:43:22.020
+to cultivate uh a character that means you'll believe,
+
+843
+00:43:22.030 --> 00:43:26.649
+have better beliefs. Um Even if you can't choose
+
+844
+00:43:26.659 --> 00:43:29.419
+in any particular situation what to believe. You can
+
+845
+00:43:29.429 --> 00:43:31.659
+are like, there's reasons I think you can cultivate
+
+846
+00:43:31.669 --> 00:43:33.520
+being the kind of person that will believe the
+
+847
+00:43:33.530 --> 00:43:36.659
+kinds of things you should believe. And then uh
+
+848
+00:43:36.669 --> 00:43:39.030
+so it still can be interesting to think how
+
+849
+00:43:39.040 --> 00:43:41.899
+we cultivated in ourselves, the right kind of character
+
+850
+00:43:42.290 --> 00:43:43.780
+to believe the right things. And then of course,
+
+851
+00:43:43.790 --> 00:43:44.899
+we want to know what are the right things
+
+852
+00:43:44.909 --> 00:43:45.419
+to believe.
+
+853
+00:43:47.510 --> 00:43:51.489
+And so what kinds of replacement norms do you
+
+854
+00:43:51.500 --> 00:43:52.330
+suggest?
+
+855
+00:43:53.919 --> 00:43:57.399
+Um It's gonna depend on why the epistemic norms
+
+856
+00:43:57.409 --> 00:44:00.000
+are supposed to matter. So again, the norms that
+
+857
+00:44:00.010 --> 00:44:02.179
+would be the right norms if all we care
+
+858
+00:44:02.189 --> 00:44:05.149
+about is acting well, are gonna be different from
+
+859
+00:44:05.159 --> 00:44:08.100
+the norms that uh if we partly care about
+
+860
+00:44:08.110 --> 00:44:11.939
+satisfying our curiosity. Um BECAUSE acting well is more
+
+861
+00:44:11.949 --> 00:44:15.699
+disconnected from the truth, more often than curiosity, whereas
+
+862
+00:44:15.709 --> 00:44:18.959
+curiosity is often about the pursuit of truth. Um
+
+863
+00:44:19.070 --> 00:44:21.379
+So it's really gonna depend on what the right
+
+864
+00:44:21.389 --> 00:44:23.709
+answer to the question is. Why did the epidemic
+
+865
+00:44:23.729 --> 00:44:25.929
+no matter in the first place? And I, since
+
+866
+00:44:25.939 --> 00:44:27.500
+I think there's a lot of different good answers
+
+867
+00:44:27.510 --> 00:44:29.860
+to that question, I can't sort of univocity say
+
+868
+00:44:30.219 --> 00:44:33.379
+what should replace it. But I have some general
+
+869
+00:44:33.709 --> 00:44:38.929
+thoughts. Every view about why the norms matter is
+
+870
+00:44:38.939 --> 00:44:41.360
+gonna tell us that sometimes we should make tradeoffs.
+
+871
+00:44:41.689 --> 00:44:43.860
+Sometimes you should form one bad belief in order
+
+872
+00:44:43.870 --> 00:44:46.929
+to form the benefit in other uh epidemically relevant
+
+873
+00:44:46.939 --> 00:44:50.179
+ways. Um WHEN you should form tradeoffs is gonna
+
+874
+00:44:50.189 --> 00:44:53.560
+vary depending on what the good real epidemic good
+
+875
+00:44:53.570 --> 00:44:56.169
+is supposed to be. But all the, all the
+
+876
+00:44:56.179 --> 00:44:58.929
+views I consider end up saying you should make
+
+877
+00:44:58.939 --> 00:45:02.030
+tradeoffs sometimes which are hugely controversial. So that's part
+
+878
+00:45:02.040 --> 00:45:04.780
+of the interest of the book. So the Replacement
+
+879
+00:45:04.790 --> 00:45:06.149
+Norms, the ones that are gonna be the right
+
+880
+00:45:06.159 --> 00:45:09.169
+norms are gonna say make trade off sometimes. Um
+
+881
+00:45:09.179 --> 00:45:13.959
+And then the other thing is the standard asemic
+
+882
+00:45:13.989 --> 00:45:16.850
+norms, say never contradict yourself, never believe anything that's
+
+883
+00:45:16.860 --> 00:45:19.110
+like clearly against your evidence, stuff like that, never
+
+884
+00:45:19.120 --> 00:45:22.850
+believe anything is clearly false. And the replacement norms
+
+885
+00:45:22.860 --> 00:45:25.479
+aren't gonna agree with that. So they'll say you
+
+886
+00:45:25.489 --> 00:45:27.810
+should contradict yourself if that's helpful in the long
+
+887
+00:45:27.820 --> 00:45:29.469
+run, you should believe false things if that's helpful
+
+888
+00:45:29.479 --> 00:45:35.070
+in the long run, but also sometimes believing false
+
+889
+00:45:35.080 --> 00:45:39.709
+things is good enough. Um uh We don't have
+
+890
+00:45:39.719 --> 00:45:43.020
+to have perfect beliefs, we can have beliefs that
+
+891
+00:45:43.030 --> 00:45:45.370
+are good enough. Uh And I think that's gonna
+
+892
+00:45:45.379 --> 00:45:48.959
+be true basically on every view, although what counts
+
+893
+00:45:48.969 --> 00:45:51.770
+as good enough and when, when a false belief
+
+894
+00:45:51.780 --> 00:45:53.659
+can be good enough is gonna depend on what
+
+895
+00:45:53.669 --> 00:45:56.370
+view. So it's not like a, an abdication of
+
+896
+00:45:56.379 --> 00:45:58.350
+the truth. The truth is really important in a
+
+897
+00:45:58.360 --> 00:46:05.659
+lot of contexts. Um But um getting completely to
+
+898
+00:46:05.669 --> 00:46:08.469
+the truth is not always as important in every
+
+899
+00:46:08.479 --> 00:46:10.830
+context, you can get close to the truth of
+
+900
+00:46:10.840 --> 00:46:12.300
+all the, you know. So here's the truth and
+
+901
+00:46:12.310 --> 00:46:14.219
+here's like all the false things you could believe
+
+902
+00:46:14.379 --> 00:46:16.179
+sometimes being like right here really close to the
+
+903
+00:46:16.189 --> 00:46:20.979
+truth, but still wrong is good enough and, you
+
+904
+00:46:20.989 --> 00:46:25.189
+know, it's gonna depend from situation to situation. Um
+
+905
+00:46:25.620 --> 00:46:29.600
+But um I think all the replacement norms are
+
+906
+00:46:29.610 --> 00:46:32.889
+gonna say sometimes getting close enough to the truth
+
+907
+00:46:32.899 --> 00:46:36.350
+is good enough and then in pointless cases, being
+
+908
+00:46:36.360 --> 00:46:37.959
+far from the truth is probably fun in a
+
+909
+00:46:37.969 --> 00:46:42.149
+lot of cases. Um So, yeah, so all the
+
+910
+00:46:42.159 --> 00:46:44.949
+replacement norms are gonna say, make trade off sometimes.
+
+911
+00:46:45.399 --> 00:46:48.330
+And I think they're all gonna say you don't
+
+912
+00:46:48.340 --> 00:46:49.669
+need to get all the way to the truth
+
+913
+00:46:49.679 --> 00:46:53.389
+in every possible situation. And that's a fairly radical
+
+914
+00:46:53.399 --> 00:46:54.310
+view in philosophy.
+
+915
+00:46:55.979 --> 00:46:59.889
+I mean, it's fairly radical but isn't it more
+
+916
+00:46:59.899 --> 00:47:04.439
+realistic to assume that most of the beliefs we
+
+917
+00:47:04.449 --> 00:47:08.889
+have are just at best good enough? I mean,
+
+918
+00:47:08.899 --> 00:47:13.320
+even when it comes to most of the knowledge
+
+919
+00:47:13.330 --> 00:47:15.659
+that is out there to be acquired, I mean,
+
+920
+00:47:15.669 --> 00:47:17.600
+first of all, I guess we don't even have
+
+921
+00:47:17.610 --> 00:47:20.760
+enough time to process all that information and then
+
+922
+00:47:20.840 --> 00:47:25.679
+to form uh correct beliefs or true beliefs. But
+
+923
+00:47:25.689 --> 00:47:30.540
+then, I mean, even as we move along, as,
+
+924
+00:47:30.550 --> 00:47:34.260
+I mean, as time passes, we, as humanity keep
+
+925
+00:47:34.510 --> 00:47:38.429
+acquiring more and more knowledge that we don't have
+
+926
+00:47:38.750 --> 00:47:43.020
+yet have there to, to learn about, you
+
+927
+00:47:43.030 --> 00:47:46.649
+know, I, I think that's definitely right. Um And
+
+928
+00:47:46.659 --> 00:47:48.760
+this is actually a thing I'm, I'm in my
+
+929
+00:47:49.320 --> 00:47:52.540
+upcoming work, I'm really interested in. So one thing
+
+930
+00:47:52.550 --> 00:47:54.270
+people could say in response to what you're saying,
+
+931
+00:47:54.280 --> 00:47:57.070
+so I'm very sympathetic with this view. People could
+
+932
+00:47:57.080 --> 00:48:01.439
+say, well, it's true that like, as a whole,
+
+933
+00:48:02.300 --> 00:48:04.340
+we don't, we don't really have, like, we can
+
+934
+00:48:04.350 --> 00:48:06.959
+always improve as a whole, but they might say
+
+935
+00:48:07.159 --> 00:48:11.979
+individual beliefs are either true or false and individual
+
+936
+00:48:11.989 --> 00:48:14.959
+beliefs can be knowledge or not. And so, you
+
+937
+00:48:14.969 --> 00:48:17.350
+know, even if we keep making progress, like at
+
+938
+00:48:17.360 --> 00:48:20.120
+the holistic level, they would say, don't, you shouldn't
+
+939
+00:48:20.129 --> 00:48:22.139
+believe something if it's not true yet, like if
+
+940
+00:48:22.149 --> 00:48:24.399
+you don't know the truth, don't believe it um
+
+941
+00:48:24.409 --> 00:48:26.540
+about individual things. And they say, well, you can
+
+942
+00:48:26.550 --> 00:48:29.159
+know individual things and you get the truth about
+
+943
+00:48:29.169 --> 00:48:31.639
+individual things, even if we keep progressing as a
+
+944
+00:48:31.649 --> 00:48:35.729
+whole. Uh But I actually think this kind of
+
+945
+00:48:35.739 --> 00:48:39.209
+emphasis on individual bits of knowledge and truth is
+
+946
+00:48:39.219 --> 00:48:42.040
+often a mistake and we should be kind of
+
+947
+00:48:42.050 --> 00:48:46.429
+emphasizing like kind of collective kind of. Uh SO
+
+948
+00:48:47.379 --> 00:48:51.770
+are kind of big picture holistic um set of
+
+949
+00:48:51.780 --> 00:48:53.949
+beliefs. Uh What I in the book called The
+
+950
+00:48:53.959 --> 00:48:56.570
+Picture of the world around us. Um I think
+
+951
+00:48:56.580 --> 00:48:58.989
+that might be really what's more important than that.
+
+952
+00:48:59.229 --> 00:49:01.939
+That is what you're saying is 100% applies to
+
+953
+00:49:01.949 --> 00:49:05.149
+that as we acquire new information, our picture gets
+
+954
+00:49:05.159 --> 00:49:07.510
+better and better and better. But like, it's definitely
+
+955
+00:49:07.520 --> 00:49:10.570
+as a whole picture never gonna be completely accurate.
+
+956
+00:49:11.020 --> 00:49:12.360
+And so we have to think if we kind
+
+957
+00:49:12.370 --> 00:49:13.929
+of evaluate our kind of picture of the world
+
+958
+00:49:13.939 --> 00:49:16.100
+as a whole. We can't hold it up to
+
+959
+00:49:16.110 --> 00:49:18.350
+this ideal standard because we're never gonna get there.
+
+960
+00:49:18.860 --> 00:49:20.540
+Um And we have to say, was it, what
+
+961
+00:49:20.550 --> 00:49:21.780
+does it mean for the picture of the world?
+
+962
+00:49:21.790 --> 00:49:23.209
+It's a holistic thing to be good enough. And
+
+963
+00:49:23.219 --> 00:49:25.810
+I actually think that's the right way of thinking.
+
+964
+00:49:26.120 --> 00:49:28.550
+I suspect that's the right way of thinking about
+
+965
+00:49:28.560 --> 00:49:32.780
+epidemic values, kind of more holistically than atomically, rather
+
+966
+00:49:32.790 --> 00:49:35.300
+not about individual beliefs, but about kind of collective
+
+967
+00:49:35.310 --> 00:49:36.159
+sets of beliefs.
+
+968
+00:49:37.229 --> 00:49:43.610
+So one final question then are epistemic norms categorical?
+
+969
+00:49:43.620 --> 00:49:46.489
+And what does it mean for them to be
+
+970
+00:49:46.500 --> 00:49:49.489
+categorical? What does that word mean here?
+
+971
+00:49:50.239 --> 00:49:55.290
+Um Well, here's what I think it means. And
+
+972
+00:49:55.300 --> 00:49:56.520
+then you can tell me if that's what if
+
+973
+00:49:56.530 --> 00:50:00.179
+that's what you think it means. Uh WHEN philosophers
+
+974
+00:50:00.189 --> 00:50:04.439
+talk about non being categorical, they typically wanna say
+
+975
+00:50:04.449 --> 00:50:08.780
+something like it applies to everybody at all times,
+
+976
+00:50:08.790 --> 00:50:13.550
+regardless of their desires and interests. Is that kind
+
+977
+00:50:13.560 --> 00:50:14.500
+of what you had in mind?
+
+978
+00:50:14.840 --> 00:50:19.689
+Yeah, that's usually what I think about when someone
+
+979
+00:50:19.699 --> 00:50:20.870
+mentions that word.
+
+980
+00:50:21.050 --> 00:50:26.770
+Yeah. So our episode of norms, categorical, it depends.
+
+981
+00:50:26.830 --> 00:50:30.239
+Uh So it again depends on the function of
+
+982
+00:50:30.250 --> 00:50:33.570
+epistemic norms. So I think moral norms are categorical.
+
+983
+00:50:34.669 --> 00:50:37.629
+And if you think that the, that the moral
+
+984
+00:50:37.639 --> 00:50:41.889
+norms kind of involve uh have implications for what
+
+985
+00:50:41.899 --> 00:50:45.239
+we should believe, then the epistemic, then at least
+
+986
+00:50:45.250 --> 00:50:47.760
+some epistemic norms will be categorical because they'll be
+
+987
+00:50:47.770 --> 00:50:52.620
+derivative of the moral norms. But if you think
+
+988
+00:50:52.629 --> 00:50:57.199
+the epistemic norms also have to do with satisfying
+
+989
+00:50:57.209 --> 00:51:03.760
+our curiosity. Um, THEN you might think, well, whether
+
+990
+00:51:03.770 --> 00:51:07.209
+or not they're categorical, then depends on if there
+
+991
+00:51:07.219 --> 00:51:09.429
+are sort of categorical requirements and what we should
+
+992
+00:51:09.439 --> 00:51:12.719
+be curious about. So if you think there are
+
+993
+00:51:12.729 --> 00:51:14.909
+certain things that everybody ought to be curious about
+
+994
+00:51:15.879 --> 00:51:18.699
+and that, then they're gonna be categorical requirements on
+
+995
+00:51:18.709 --> 00:51:20.280
+what you should think about and how you should
+
+996
+00:51:20.290 --> 00:51:22.449
+think about it in order to satisfy that curiosity,
+
+997
+00:51:23.040 --> 00:51:24.879
+but I'm not convinced of that. I think that's
+
+998
+00:51:24.889 --> 00:51:29.649
+an open question. Uh And if curiosity is more
+
+999
+00:51:29.659 --> 00:51:32.330
+subjective and like just you get to be curious
+
+1000
+00:51:32.340 --> 00:51:35.909
+about whatever you're curious about, then, then there wouldn't
+
+1001
+00:51:35.919 --> 00:51:39.310
+be any categorical norms that are connected to curiosity.
+
+1002
+00:51:39.320 --> 00:51:41.649
+So it depends a lot on sort of what,
+
+1003
+00:51:42.459 --> 00:51:44.580
+what the end of epistemology really is. If it's
+
+1004
+00:51:44.590 --> 00:51:47.080
+about morality, if it's about action, if it's about
+
+1005
+00:51:47.090 --> 00:51:50.520
+curiosity, if it's about something else, the category, uh
+
+1006
+00:51:50.530 --> 00:51:52.360
+the categorical nature is just gonna kind of come
+
+1007
+00:51:52.370 --> 00:51:53.040
+along with that.
+
+1008
+00:51:54.959 --> 00:51:58.419
+A and so that would be what in your
+
+1009
+00:51:58.429 --> 00:52:03.300
+mind, it would determine whether they should or shouldn't
+
+1010
+00:52:03.310 --> 00:52:05.659
+be categorical, is that it?
+
+1011
+00:52:06.250 --> 00:52:09.280
+Yeah, you figure out what is supposed to, why
+
+1012
+00:52:09.290 --> 00:52:11.929
+they're supposed to matter first and then you can
+
+1013
+00:52:11.939 --> 00:52:13.790
+answer the question of whether or not they're categorical.
+
+1014
+00:52:15.540 --> 00:52:18.320
+Great. So the book is again the end of
+
+1015
+00:52:18.330 --> 00:52:21.899
+epistemology as we know it, I'm leaving a link
+
+1016
+00:52:21.909 --> 00:52:24.419
+to it in the description of the interview and
+
+1017
+00:52:24.429 --> 00:52:27.639
+Dr Talbot just before we go apart from the
+
+1018
+00:52:27.649 --> 00:52:29.879
+book, would you like to tell people where they
+
+1019
+00:52:29.889 --> 00:52:32.679
+can find you and your work on the internet?
+
+1020
+00:52:33.510 --> 00:52:41.770
+Yeah. Uh Doctor Brian talbot.com/philosophy. Um Yeah, doctor and,
+
+1021
+00:52:41.780 --> 00:52:43.659
+and if you just, if you Google Brian Talbot
+
+1022
+00:52:43.669 --> 00:52:46.290
+philosophy, you're gonna find me pretty quickly. So
+
+1023
+00:52:47.729 --> 00:52:50.669
+great. So thank you so much again for taking
+
+1024
+00:52:50.679 --> 00:52:52.389
+the time to come on the show. It's been
+
+1025
+00:52:52.399 --> 00:52:53.550
+fun to talk with you.
+
+1026
+00:52:53.989 --> 00:52:55.620
+Thank you. It's my pleasure. Thanks for having me.
+
+1027
+00:52:55.629 --> 00:52:56.189
+I appreciate it.
+
+1028
+00:52:57.310 --> 00:53:00.040
+Hi guys. Thank you for watching this interview. Until
+
+1029
+00:53:00.050 --> 00:53:02.209
+the end. If you liked it, please share it.
+
+1030
+00:53:02.219 --> 00:53:05.020
+Leave a like and hit the subscription button. The
+
+1031
+00:53:05.030 --> 00:53:07.110
+show is brought to you by N Lights learning
+
+1032
+00:53:07.120 --> 00:53:10.149
+and development. Then differently check the website at N
+
+1033
+00:53:10.159 --> 00:53:14.110
+lights.com and also please consider supporting the show on
+
+1034
+00:53:14.120 --> 00:53:17.159
+Patreon or paypal. I would also like to give
+
+1035
+00:53:17.169 --> 00:53:19.459
+a huge thank you to my main patrons and
+
+1036
+00:53:19.469 --> 00:53:23.689
+paypal supporters, Perego Larson, Jerry Muller and Frederick Suno
+
+1037
+00:53:23.739 --> 00:53:26.810
+Bernard Seche O of Alex Adam, Castle Matthew Whitting
+
+1038
+00:53:26.850 --> 00:53:30.090
+be no wolf, Tim Ho Erica LJ Conners, Philip
+
+1039
+00:53:30.100 --> 00:53:33.010
+Forrest Connelly. Then the Met Robert Wine in NAI
+
+1040
+00:53:33.360 --> 00:53:36.729
+Z Mar Nevs calling in Holbrook Field, Governor Mikel
+
+1041
+00:53:36.739 --> 00:53:40.429
+Stormer Samuel Andre Francis for Agns Ferger Ken Hall.
+
+1042
+00:53:40.540 --> 00:53:43.590
+Her ma J and Lain Jung Y and the
+
+1043
+00:53:43.760 --> 00:53:47.489
+Samuel K. Hes Mark Smith, J. Tom Hummel s
+
+1044
+00:53:47.810 --> 00:53:51.219
+friends, David Sloan Wilson, Yasa dear. Roman Roach Diego,
+
+1045
+00:53:52.800 --> 00:53:56.489
+Jan Punter, Romani Charlotte, Bli Nicole Barba, Adam Hunt,
+
+1046
+00:53:56.689 --> 00:53:59.909
+Pavlo Stassi Na Me, Gary G Alman, Sam of
+
+1047
+00:54:00.179 --> 00:54:04.280
+Z Ari and YPJ Barboza Julian Price Edward Hall,
+
+1048
+00:54:04.360 --> 00:54:09.659
+Eden Broder Douglas Fry Franca Gilon Cortez or Solis
+
+1049
+00:54:09.750 --> 00:54:15.870
+Scott Zachary ftdw Daniel Friedman, William Buckner, Paul Giorgio,
+
+1050
+00:54:16.620 --> 00:54:20.080
+Luke Loki, Georgio Theophano, Chris Williams and Peter Wo
+
+1051
+00:54:20.739 --> 00:54:24.899
+David Williams, the Ausa Anton Erickson, Charles Murray, Alex
+
+1052
+00:54:25.139 --> 00:54:29.689
+Shaw, Marie Martinez, Coralie Chevalier, Bangalore Fists, Larry Dey
+
+1053
+00:54:29.699 --> 00:54:34.280
+Junior, Old Ebon, Starry Michael Bailey. Then Spur by
+
+1054
+00:54:34.290 --> 00:54:38.899
+Robert Grassy Zorn. Jeff mcmahon, Jake Zul Barnabas Radick
+
+1055
+00:54:38.989 --> 00:54:42.739
+Mark Temple, Thomas Dvor Luke Neeson, Chris Tory Kimberley
+
+1056
+00:54:42.750 --> 00:54:45.889
+Johnson, Benjamin Gilbert Jessica. No week in the B
+
+1057
+00:54:45.899 --> 00:54:51.370
+brand Nicholas Carlson Ismael Bensley Man, George Katis, Valentine
+
+1058
+00:54:51.379 --> 00:54:57.060
+Steinman, Perros Kate Von Goler, Alexander Albert Liam Dan
+
+1059
+00:54:57.419 --> 00:55:02.699
+Biar Masoud Ali Mohammadi Perpendicular J Ner Urla. Good
+
+1060
+00:55:03.030 --> 00:55:06.860
+enough Gregory Hastings David Pins of Sean Nelson, Mike
+
+1061
+00:55:06.870 --> 00:55:10.375
+Levin and Jos Net. A special thanks to my
+
+1062
+00:55:10.385 --> 00:55:13.415
+producers, these our web, Jim Frank Luca Stina, Tom
+
+1063
+00:55:13.695 --> 00:55:17.185
+Vig and Bernard N Cortes Dixon Bendik Muller Thomas
+
+1064
+00:55:17.195 --> 00:55:20.935
+Trumble, Catherine and Patrick Tobin, John Carlman Negro, Nick
+
+1065
+00:55:20.945 --> 00:55:24.064
+Ortiz and Nick Golden and to my executive producers,
+
+1066
+00:55:24.074 --> 00:55:27.905
+Matthew Lavender, Sergi, Adrian Bogdan Knits and Rosie. Thank
+
+1067
+00:55:27.915 --> 00:55:28.465
+you for all.
+
