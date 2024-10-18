@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/86186367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-1%2F220627f6-4123-ce8f-4317-fc71309d7377.m4a",
 	"draft": false,
 	"episodeid": "1008",
 	"excerpt": "Dr. Paul Smaldino is an Associate Professor of Cognitive & Information Sciences and faculty in the Quantitative and Systems Biology graduate program at the University of California Merced, where he is also affiliated with the Center for Analytic Political Engagement and the Center for Interdisciplinary Neuroscience. Extramurally, he is an External Professor at the Santa Fe Institute. He studies how behaviors emerge and evolve in response to social, cultural, and ecological pressures, as well as how those pressures can themselves evolve. He is the author of Modeling Social Behavior: Mathematical and Agent-Based Models of Social Dynamics and Cultural Evolution.",
 	"image": "https://i.ytimg.com/vi/7Ue6pqGpHss/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1008-paul-smaldino-modeling-social-behavior/id1451347236?i=1000673607658&uo=4",
 	"publishDate": 2024-10-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1008-Paul-Smaldino-Modeling-Social-Behavior-e2j4mtv",
 	"tags": [
 		"Psychology"
 	],
