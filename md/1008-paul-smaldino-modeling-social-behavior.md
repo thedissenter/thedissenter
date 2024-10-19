@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1008 Paul Smaldino: Modeling Social Behavior",
-	"youtubeid": "7Ue6pqGpHss"
+	"vtt": "1008.vtt",
+	"youtubeid": "7Ue6pqGpHss",
+	"transcript": "1008.lines.json"
 }
 ---
 RECORDED ON MAY 1st 2024.  
