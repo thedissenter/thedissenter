@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1009 Jaroslava Valentova: Sexual Orientation, Gender Expression, and Physical Attractiveness",
-	"youtubeid": "DhjghW4SN9M"
+	"vtt": "1009.vtt",
+	"youtubeid": "DhjghW4SN9M",
+	"transcript": "1009.lines.json"
 }
 ---
 RECORDED ON MAY 3rd 2024.  
