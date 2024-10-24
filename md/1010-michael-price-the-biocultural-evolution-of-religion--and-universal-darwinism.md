@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1010 Michael Price: The Biocultural Evolution of Religion, and Universal Darwinism",
-	"youtubeid": "xfF_axuekjI"
+	"vtt": "1010.vtt",
+	"youtubeid": "xfF_axuekjI",
+	"transcript": "1010.lines.json"
 }
 ---
 RECORDED ON MAY 2nd 2024.  
