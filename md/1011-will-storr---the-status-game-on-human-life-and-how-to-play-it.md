@@ -5,13 +5,16 @@
 	"episodeid": "1011",
 	"excerpt": "Will Storr is a British author, journalist and former photographer. He has been a contributing editor at Esquire and GQ Australia. He is the author of several books, including The Science of Storytelling, and The Status Game: On Human Life and How to Play It.",
 	"image": "https://i.ytimg.com/vi/ut6MNysxMSY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1011-will-storr-the-status-game-on-human-life-and-how/id1451347236?i=1000674478908&uo=4",
 	"publishDate": 2024-10-25,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1011-Will-Storr---The-Status-Game-On-Human-Life-and-How-to-Play-It-e2p4sgl",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1011 Will Storr - The Status Game: On Human Life and How to Play It",
-	"youtubeid": "ut6MNysxMSY"
+	"vtt": "1011.vtt",
+	"youtubeid": "ut6MNysxMSY",
+	"transcript": "1011.lines.json"
 }
 ---
 RECORDED ON OCTOBER 2nd 2024.  
