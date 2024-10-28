@@ -5,13 +5,16 @@
 	"episodeid": "1012",
 	"excerpt": "Dr. Lance Grande is a Distinguished Service Curator Emeritus at the Field Museum. Dr. Grande's research covers many aspects of fossil and living fishes, including the early development of North American freshwater fish fauna. Over the last 30 years, he has led numerous field trips to collect fossils from Fossil Lake, a 52-million-year-old lake bed in Wyoming. Studying these fossils, together with other well-preserved fossils and living species, allows Dr. Grande to investigate broad-scale questions about the history of the earth and its inhabitants and how they evolved together. He is the author of The Evolution of Religions: A History of Related Traditions.",
 	"image": "https://i.ytimg.com/vi/6WgbS4yo0vA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1012-lance-grande-the-evolution-of-religions/id1451347236?i=1000674764649&uo=4",
 	"publishDate": 2024-10-28,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1012-Lance-Grande---The-Evolution-of-Religions-A-History-of-Related-Traditions-e2outsf",
 	"tags": [
 		"Anthropology"
 	],
 	"title": "#1012 Lance Grande - The Evolution of Religions: A History of Related Traditions",
-	"youtubeid": "6WgbS4yo0vA"
+	"vtt": "1012.vtt",
+	"youtubeid": "6WgbS4yo0vA",
+	"transcript": "1012.lines.json"
 }
 ---
 Dr. Lance Grande is a Distinguished Service Curator Emeritus at the Field Museum. Dr. Grande's research covers many aspects of fossil and living fishes, including the early development of North American freshwater fish fauna. Over the last 30 years, he has led numerous field trips to collect fossils from Fossil Lake, a 52-million-year-old lake bed in Wyoming. Studying these fossils, together with other well-preserved fossils and living species, allows Dr. Grande to investigate broad-scale questions about the history of the earth and its inhabitants and how they evolved together. He is the author of The Evolution of Religions: A History of Related Traditions.
