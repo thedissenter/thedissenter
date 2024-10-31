@@ -5,13 +5,16 @@
 	"episodeid": "1013",
 	"excerpt": "Dr. Aaron Lukaszewski is Associate Professor in the Department of Psychology & Center for the Study of Human Nature at California State University, Fullerton. His research topics include status hierarchy, leadership, group cooperation, personality variation, social comparison, social valuation, partner preferences, and anthropometrics.",
 	"image": "https://i.ytimg.com/vi/j--6mXI46iE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1013-aaron-lukaszewski-an-evolutionary-approach-to/id1451347236?i=1000675250425&uo=4",
 	"publishDate": 2024-10-31,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1013-Aaron-Lukaszewski-An-Evolutionary-Approach-to-Personality-e2jleq7",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1013 Aaron Lukaszewski: An Evolutionary Approach to Personality",
-	"youtubeid": "j--6mXI46iE"
+	"vtt": "1013.vtt",
+	"youtubeid": "j--6mXI46iE",
+	"transcript": "1013.lines.json"
 }
 ---
 RECORDED ON MAY 14th 2024.  
