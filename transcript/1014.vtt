@@ -1,0 +1,4994 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.029
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:03.099 --> 00:00:05.920
+Center. I'm your host, Ricardo Loops. And today I'm
+
+3
+00:00:05.929 --> 00:00:09.699
+joined by Doctor Walter Sheer. He is Dennis Odori
+
+4
+00:00:09.920 --> 00:00:13.340
+legit, professor of Computer Science and Engineering at the
+
+5
+00:00:13.350 --> 00:00:16.469
+University of Notre Dame. And today we're talking about
+
+6
+00:00:16.479 --> 00:00:19.889
+his book, a History of Fake Things on the
+
+7
+00:00:19.899 --> 00:00:23.069
+internet. So, Doctor Shar, welcome to the show. It's
+
+8
+00:00:23.079 --> 00:00:24.190
+a pleasure to everyone.
+
+9
+00:00:24.979 --> 00:00:26.639
+Great. Thank you so much for inviting me.
+
+10
+00:00:27.739 --> 00:00:31.559
+So tell us first, uh particularly as a professor
+
+11
+00:00:31.569 --> 00:00:35.959
+of Computer Science and Engineering, what motivated you to
+
+12
+00:00:35.970 --> 00:00:39.119
+write such a book and what is basically its
+
+13
+00:00:39.130 --> 00:00:40.680
+main premise?
+
+14
+00:00:41.209 --> 00:00:42.799
+Yeah. So this is a great question is it's
+
+15
+00:00:42.810 --> 00:00:45.400
+kind of an unusual thing for a computer science
+
+16
+00:00:45.409 --> 00:00:48.250
+professor who's typically writing code and writing, you know,
+
+17
+00:00:48.279 --> 00:00:50.770
+uh scientific papers to jump in and write a
+
+18
+00:00:50.779 --> 00:00:53.150
+book. Um THAT'S kind of targeted at a public
+
+19
+00:00:53.159 --> 00:00:55.319
+facing audience and a book that's really like a
+
+20
+00:00:55.330 --> 00:01:00.189
+history of technology. Um For many years in my
+
+21
+00:01:00.200 --> 00:01:02.750
+sort of more traditional research I had been looking
+
+22
+00:01:02.759 --> 00:01:06.489
+at uh an area called media forensics within uh
+
+23
+00:01:06.500 --> 00:01:10.190
+computer science and electrical engineering. Um This, this is
+
+24
+00:01:10.199 --> 00:01:12.709
+kind of a research area that is trying to
+
+25
+00:01:12.720 --> 00:01:18.279
+understand how one can detect manipulated digital images and
+
+26
+00:01:18.290 --> 00:01:22.160
+videos, how one can detect synthesized uh content, right?
+
+27
+00:01:22.169 --> 00:01:25.160
+That's coming from generative A I now um and
+
+28
+00:01:25.169 --> 00:01:28.400
+and other types of synthetic content. Um And what
+
+29
+00:01:28.410 --> 00:01:30.250
+what's interesting about this is like it has a
+
+30
+00:01:30.260 --> 00:01:33.400
+big social component, right? Is like who's creating that,
+
+31
+00:01:33.519 --> 00:01:35.300
+that content, right? Should we be worried about it?
+
+32
+00:01:35.309 --> 00:01:39.089
+There's a political uh component to it. And also
+
+33
+00:01:39.099 --> 00:01:41.720
+I kind of felt there was an unappreciated history
+
+34
+00:01:42.019 --> 00:01:44.059
+uh for this and a lot of people on
+
+35
+00:01:44.069 --> 00:01:46.110
+the technical side of things weren't thinking very deeply
+
+36
+00:01:46.120 --> 00:01:49.339
+about the nature of this content. Uh You know,
+
+37
+00:01:49.349 --> 00:01:50.779
+it's like where did the tools come from? Why
+
+38
+00:01:50.790 --> 00:01:53.519
+did people create these tools? Um What does the
+
+39
+00:01:53.529 --> 00:01:55.620
+content look like on the internet? There's a lot
+
+40
+00:01:55.629 --> 00:01:58.099
+of what the field had been doing was looking
+
+41
+00:01:58.110 --> 00:02:00.989
+at um kind of can data, data created for
+
+42
+00:02:01.000 --> 00:02:05.910
+experiments in the laboratory, not real examples. Uh And
+
+43
+00:02:05.919 --> 00:02:07.669
+there were a lot of stories circulating which I
+
+44
+00:02:07.680 --> 00:02:10.660
+suspected were actually fake in and of themselves, right
+
+45
+00:02:10.669 --> 00:02:14.399
+between researchers about things that had supposedly happened. Um
+
+46
+00:02:14.410 --> 00:02:18.350
+So I felt especially given the the political climate.
+
+47
+00:02:18.360 --> 00:02:20.470
+Um YOU know, so this of course, is going
+
+48
+00:02:20.479 --> 00:02:25.210
+back to like um uh 2020 1820 19 when
+
+49
+00:02:25.220 --> 00:02:28.160
+I started to think about um this, this project,
+
+50
+00:02:28.169 --> 00:02:30.070
+right? And all of the the sort of political
+
+51
+00:02:30.080 --> 00:02:34.059
+polarization on the internet. Uh And this, this now
+
+52
+00:02:34.070 --> 00:02:37.100
+sort of pervasive paranoia about fake things. I thought,
+
+53
+00:02:37.110 --> 00:02:39.149
+you know, it's worth jumping and writing, you know,
+
+54
+00:02:39.160 --> 00:02:41.289
+a history of this. Um, BECAUSE again, I thought
+
+55
+00:02:41.300 --> 00:02:42.949
+there was a more interesting story than just that
+
+56
+00:02:42.960 --> 00:02:45.289
+political story. And if you looked at, you know,
+
+57
+00:02:45.300 --> 00:02:48.479
+the popular, uh, reporting on this and in that
+
+58
+00:02:48.490 --> 00:02:50.309
+period, up to the present, right, again, it's all
+
+59
+00:02:50.320 --> 00:02:52.429
+of this sort of like political alarmism but, but
+
+60
+00:02:52.440 --> 00:02:54.020
+I feel like the internet's a much larger place
+
+61
+00:02:54.029 --> 00:02:56.000
+and there, there's more going on there. Um And
+
+62
+00:02:56.009 --> 00:02:57.210
+so that kind of set me out on my
+
+63
+00:02:57.220 --> 00:02:59.940
+journey uh to dig into this.
+
+64
+00:03:00.610 --> 00:03:03.880
+Great. So, uh and a very interesting thing that
+
+65
+00:03:03.889 --> 00:03:06.300
+you also talk about in the book sort of
+
+66
+00:03:06.309 --> 00:03:10.179
+briefly is you not only talk about the history
+
+67
+00:03:10.190 --> 00:03:12.619
+of fake is on the internet, but you also
+
+68
+00:03:12.690 --> 00:03:15.110
+take a step back and talk about the more
+
+69
+00:03:15.119 --> 00:03:18.600
+general history of fakery. So would you like to
+
+70
+00:03:18.610 --> 00:03:20.669
+tell us a little bit about that? And why
+
+71
+00:03:20.679 --> 00:03:23.360
+do you think it's also important to mention that
+
+72
+00:03:23.369 --> 00:03:26.949
+for them people to understand uh sort of the
+
+73
+00:03:26.960 --> 00:03:30.710
+history of fake things on the internet itself?
+
+74
+00:03:30.720 --> 00:03:33.179
+Yeah. Yeah. Yeah. So with this particular topic, you
+
+75
+00:03:33.190 --> 00:03:35.990
+can't just arbitrarily say, like I will start researching
+
+76
+00:03:36.000 --> 00:03:38.190
+it at the point at which the internet becomes
+
+77
+00:03:38.199 --> 00:03:42.460
+a thing. Um There's a much richer history of
+
+78
+00:03:42.470 --> 00:03:45.860
+uh storytelling in humanity. And so in the book,
+
+79
+00:03:45.869 --> 00:03:47.139
+I go all the way back to antiquity, in
+
+80
+00:03:47.149 --> 00:03:50.130
+fact, to talk about um the role of fiction,
+
+81
+00:03:50.139 --> 00:03:53.179
+like, why, why do people create stories? Why do
+
+82
+00:03:53.190 --> 00:03:54.929
+we tell each other these stories? How do those
+
+83
+00:03:54.940 --> 00:03:57.860
+stories evolve over time? Um What, what is the
+
+84
+00:03:57.869 --> 00:03:59.949
+role of fiction in society? Like all of those
+
+85
+00:03:59.960 --> 00:04:01.740
+things are really key to humanity? And that's a
+
+86
+00:04:01.750 --> 00:04:04.270
+really important piece of the internet story, but you
+
+87
+00:04:04.279 --> 00:04:06.979
+have to go way back um to, to try
+
+88
+00:04:06.990 --> 00:04:08.770
+to understand that. And so again, the book looks
+
+89
+00:04:08.779 --> 00:04:12.380
+at uh early instances of fake news, Herodotus, right?
+
+90
+00:04:12.389 --> 00:04:15.649
+Um IN, in his histories, um uh recounts these
+
+91
+00:04:15.660 --> 00:04:18.670
+fantastic stories, things that can't possibly be true. Uh
+
+92
+00:04:18.678 --> 00:04:21.500
+For instance, uh he reports that there are giant
+
+93
+00:04:21.510 --> 00:04:25.269
+ants in Persia that mine gold. It's like, OK,
+
+94
+00:04:25.279 --> 00:04:27.290
+but like, you know, it's, it's like an obviously
+
+95
+00:04:27.299 --> 00:04:30.339
+fake story, but there's an interesting reason why people
+
+96
+00:04:30.350 --> 00:04:32.899
+in antiquity were telling these stories, um why they
+
+97
+00:04:32.910 --> 00:04:35.019
+were filtering a lot life through Homer, right? The
+
+98
+00:04:35.029 --> 00:04:37.369
+Homeric poems, right? There, there are all these interesting
+
+99
+00:04:37.380 --> 00:04:41.170
+ways to think about uh one's immediate circumstances when
+
+100
+00:04:41.179 --> 00:04:44.279
+you move beyond the immediate circumstances. This is why
+
+101
+00:04:44.470 --> 00:04:46.890
+we developed the novel. This is why, right? Like
+
+102
+00:04:46.899 --> 00:04:49.890
+short stories become an important uh uh form of
+
+103
+00:04:49.899 --> 00:04:52.250
+storytelling. Um You know, this is why we love
+
+104
+00:04:52.260 --> 00:04:55.170
+television shows, this is why we love the movies.
+
+105
+00:04:55.250 --> 00:04:57.690
+Um And, and again, like that, that I think
+
+106
+00:04:57.700 --> 00:05:00.880
+helps explain a lot about the the internet, right?
+
+107
+00:05:00.890 --> 00:05:02.790
+But of course, it moves to a participatory more
+
+108
+00:05:02.799 --> 00:05:05.010
+mode when we get to the the internet era.
+
+109
+00:05:05.290 --> 00:05:05.649
+Um
+
+110
+00:05:07.160 --> 00:05:10.019
+So exploring this and this is also something that
+
+111
+00:05:10.029 --> 00:05:12.260
+you talk about in your book also connects to
+
+112
+00:05:12.269 --> 00:05:17.609
+questions surrounding how we relate to reality itself, right?
+
+113
+00:05:17.619 --> 00:05:22.859
+So why does exploring such a question matter in
+
+114
+00:05:22.869 --> 00:05:24.700
+this particular context?
+
+115
+00:05:25.510 --> 00:05:27.910
+Yeah. So a, a major thing I had to
+
+116
+00:05:27.920 --> 00:05:30.529
+consider in this project um was the nature of
+
+117
+00:05:30.540 --> 00:05:34.200
+reality itself. Um A lot of people when discussing
+
+118
+00:05:34.209 --> 00:05:37.079
+fake things on the internet, sort of, uh matter
+
+119
+00:05:37.089 --> 00:05:40.850
+of fact, they say, oh, reality, you know, is
+
+120
+00:05:40.859 --> 00:05:44.260
+uh what really happens. Um And everything else then
+
+121
+00:05:44.269 --> 00:05:46.690
+is fake. Um But that's not a great way
+
+122
+00:05:46.700 --> 00:05:50.410
+to explain the situation. Um BECAUSE reality is really
+
+123
+00:05:50.420 --> 00:05:52.809
+what we experience, right? And that, of course, could
+
+124
+00:05:52.820 --> 00:05:56.450
+be things that exist beyond the physical world, uh
+
+125
+00:05:56.459 --> 00:06:00.410
+for instance, uh your imagination, right? Um The I,
+
+126
+00:06:00.420 --> 00:06:02.600
+you know, you, you experience it right? As part
+
+127
+00:06:02.609 --> 00:06:05.250
+of your reality. Um But the the projections in
+
+128
+00:06:05.260 --> 00:06:07.170
+your mind are not, you know, what is in
+
+129
+00:06:07.179 --> 00:06:09.679
+front of you in the physical world. Uh Dreams
+
+130
+00:06:09.690 --> 00:06:11.244
+are a part of that, right? Uh You know,
+
+131
+00:06:11.255 --> 00:06:14.345
+all these interesting things, um fiction, right? When we're
+
+132
+00:06:14.355 --> 00:06:17.524
+reading a novel, right? It's like the imagery is
+
+133
+00:06:17.535 --> 00:06:19.654
+in our mind, right? Um You know, our imagination
+
+134
+00:06:19.665 --> 00:06:22.644
+is facilitating that. Um EVEN when we watched, you
+
+135
+00:06:22.654 --> 00:06:26.244
+know, television shows, movies, uh videos online when we
+
+136
+00:06:26.255 --> 00:06:30.375
+play games online, um our brain, right? Is interfacing
+
+137
+00:06:30.385 --> 00:06:32.644
+with that material, it becomes part of our reality.
+
+138
+00:06:32.920 --> 00:06:35.679
+Um, AND, and that, of course. Right. Um, uh,
+
+139
+00:06:35.690 --> 00:06:37.820
+MAKES this, I think a really interesting thing to
+
+140
+00:06:37.829 --> 00:06:41.359
+study because reality is so broad. Um, AND, and
+
+141
+00:06:41.369 --> 00:06:43.140
+again, you can't just sort of dismiss all these
+
+142
+00:06:43.149 --> 00:06:45.859
+things as being, uh, outright fakes, not being any
+
+143
+00:06:45.869 --> 00:06:48.739
+part of, uh, uh, one's experience because they are,
+
+144
+00:06:48.750 --> 00:06:50.744
+right, all these things are. Um, SO in the
+
+145
+00:06:50.755 --> 00:06:51.644
+book, when I was reading it, I had to
+
+146
+00:06:51.654 --> 00:06:53.665
+be very careful sort of saying like there is,
+
+147
+00:06:53.674 --> 00:06:56.024
+you know, sort of this virtual space, the internet
+
+148
+00:06:56.035 --> 00:06:57.945
+and then there's a virtual reality there. And there's
+
+149
+00:06:57.954 --> 00:07:01.345
+also right, this physical space in the physical world
+
+150
+00:07:01.355 --> 00:07:03.704
+that we exist in and there's a physical reality
+
+151
+00:07:03.714 --> 00:07:06.984
+there, but they're both different instantiation of reality.
+
+152
+00:07:07.709 --> 00:07:12.170
+Sure. So getting into the internet itself, do we
+
+153
+00:07:12.179 --> 00:07:16.040
+know how old the history of fake things on
+
+154
+00:07:16.049 --> 00:07:19.410
+the internet is? I mean, are they as old
+
+155
+00:07:19.420 --> 00:07:22.769
+as the internet itself or are they a little
+
+156
+00:07:22.779 --> 00:07:24.450
+bit more recent than that?
+
+157
+00:07:25.029 --> 00:07:27.739
+Yeah. In fact, it, from my, my research, I
+
+158
+00:07:27.750 --> 00:07:30.390
+mean, as soon as um you know, you get
+
+159
+00:07:30.399 --> 00:07:34.649
+these innovations in um uh multi user networks, multiuser
+
+160
+00:07:34.660 --> 00:07:39.690
+operating systems, um digital spaces where uh people are
+
+161
+00:07:39.700 --> 00:07:43.309
+interacting, the fake stuff appears right away. Um And
+
+162
+00:07:43.320 --> 00:07:45.619
+given what I just said, this is hardly surprising
+
+163
+00:07:45.630 --> 00:07:47.429
+because again, we love to tell stories. I think
+
+164
+00:07:47.440 --> 00:07:50.170
+what's interesting about these digital technologies is that they're
+
+165
+00:07:50.179 --> 00:07:54.579
+great communications mediums, right? They, they better facilitate the
+
+166
+00:07:54.589 --> 00:07:57.059
+transfer of information and some of that information, of
+
+167
+00:07:57.070 --> 00:08:02.070
+course, it's fictional. Um AND a lot of enthusiasts
+
+168
+00:08:02.079 --> 00:08:04.100
+like, um you know, in this period, you know,
+
+169
+00:08:04.109 --> 00:08:05.910
+as we're talking about like the sixties, the seventies,
+
+170
+00:08:05.920 --> 00:08:09.000
+the eighties, like, they really want the internet, they
+
+171
+00:08:09.010 --> 00:08:11.609
+want to build the internet for that purpose specifically,
+
+172
+00:08:11.619 --> 00:08:13.540
+right? It's like the creative technologies that they're really
+
+173
+00:08:13.549 --> 00:08:16.769
+interested in. It's the, the social technologies that they're
+
+174
+00:08:16.779 --> 00:08:19.010
+really interested in. It's like making connections to other
+
+175
+00:08:19.019 --> 00:08:22.070
+people. Um And there's a really rich history there
+
+176
+00:08:22.079 --> 00:08:24.679
+in terms of the thinking, right, the philosophy behind
+
+177
+00:08:24.690 --> 00:08:28.500
+this, um a lot of engineers are really cited
+
+178
+00:08:28.510 --> 00:08:32.429
+about the media theories of Marshall mcluhan. Uh So
+
+179
+00:08:32.440 --> 00:08:36.380
+mcluhan is a really important uh mass communications scholar
+
+180
+00:08:36.390 --> 00:08:39.049
+at the University of Toronto in the fifties, sixties
+
+181
+00:08:39.058 --> 00:08:41.869
+and seventies. Um And what's interesting, he's, he's kind
+
+182
+00:08:41.880 --> 00:08:44.390
+of remembered as being like a key piece of
+
+183
+00:08:44.400 --> 00:08:47.690
+like that counterculture era of like the sixties and
+
+184
+00:08:47.700 --> 00:08:50.119
+seventies. Um But he's kind of like a straight
+
+185
+00:08:50.130 --> 00:08:53.890
+laced, like professor but, but he, he really, I,
+
+186
+00:08:53.900 --> 00:08:57.330
+I think does a phenomenal job of like anticipating
+
+187
+00:08:57.640 --> 00:08:59.700
+uh the near future, like what is on the
+
+188
+00:08:59.710 --> 00:09:02.940
+horizon when it comes to information networks. Um And,
+
+189
+00:09:02.950 --> 00:09:05.919
+and he's really, really excited about this potential of
+
+190
+00:09:05.929 --> 00:09:09.500
+uniting the globe on these information networks. Um And
+
+191
+00:09:09.510 --> 00:09:11.570
+he makes this observation that, you know, in the
+
+192
+00:09:11.580 --> 00:09:14.989
+future, you'll be able to project your imagination to
+
+193
+00:09:15.000 --> 00:09:17.770
+other people, right? You'll be tapping your central nervous
+
+194
+00:09:17.780 --> 00:09:20.659
+system and moving that information to other people in
+
+195
+00:09:20.669 --> 00:09:24.099
+real time um and experiencing what they're experiencing even
+
+196
+00:09:24.109 --> 00:09:27.099
+though you have no physical contact with them. Um
+
+197
+00:09:27.520 --> 00:09:28.679
+You know, this, this is an idea. I think
+
+198
+00:09:28.690 --> 00:09:31.049
+that really again, motivates a lot of people who
+
+199
+00:09:31.059 --> 00:09:33.539
+are, you know, participating in that counterculture, but also
+
+200
+00:09:33.549 --> 00:09:36.030
+they have some sort of technical ability uh to
+
+201
+00:09:36.039 --> 00:09:37.479
+go off and build it, right. We have this
+
+202
+00:09:37.489 --> 00:09:41.140
+like really like dry narrative of how the internet
+
+203
+00:09:41.150 --> 00:09:42.710
+started. You know, what's the history of the internet?
+
+204
+00:09:42.719 --> 00:09:44.909
+Everybody's like, oh, it was, you know, the Department
+
+205
+00:09:44.919 --> 00:09:47.590
+of Defense in the United States creating this infrastructure,
+
+206
+00:09:47.599 --> 00:09:51.179
+this distributed infrastructure to withstand um you know, some
+
+207
+00:09:51.190 --> 00:09:54.900
+sort of Soviet nuclear first strike. Um And that
+
+208
+00:09:54.909 --> 00:09:57.849
+of course happened, but that wasn't, I think what
+
+209
+00:09:57.859 --> 00:10:00.640
+was motivating the engineers behind the scenes, you know,
+
+210
+00:10:00.650 --> 00:10:02.479
+that's sort of like the modus operandi, you know,
+
+211
+00:10:02.489 --> 00:10:04.859
+it's like, OK, like we need, we need the
+
+212
+00:10:04.869 --> 00:10:07.299
+funding, you know, we need, you know, some sort
+
+213
+00:10:07.309 --> 00:10:10.489
+of like mechanism to move this forward. Um But
+
+214
+00:10:10.500 --> 00:10:13.609
+deep down, right? You know, we, we wanna do
+
+215
+00:10:13.619 --> 00:10:16.312
+this other thing. Um And they know, of course,
+
+216
+00:10:16.322 --> 00:10:18.672
+right, you know, once the infrastructure is built, you're
+
+217
+00:10:18.682 --> 00:10:21.322
+gonna get ordinary people moving into it. It's not
+
+218
+00:10:21.333 --> 00:10:23.953
+just gonna be the defense uh community, the intelligence
+
+219
+00:10:23.963 --> 00:10:26.312
+community that's operating in this space. But what I
+
+220
+00:10:26.322 --> 00:10:28.062
+think is fascinating when you look at the early
+
+221
+00:10:28.072 --> 00:10:31.882
+instances of fake content because the internet is so
+
+222
+00:10:31.893 --> 00:10:35.172
+heavily populated by these uh communities, right? These like
+
+223
+00:10:35.182 --> 00:10:39.056
+government, you still see the, the storytelling because that
+
+224
+00:10:39.065 --> 00:10:41.515
+had been ingrained in military culture, you get like
+
+225
+00:10:41.526 --> 00:10:44.476
+people writing stories about UFO S strange lights in
+
+226
+00:10:44.486 --> 00:10:46.205
+the sky, all this stuff that was sort of
+
+227
+00:10:46.216 --> 00:10:48.986
+embedded into the aerospace and uh industry because that
+
+228
+00:10:48.995 --> 00:10:51.356
+was already part of that culture, right? Um So
+
+229
+00:10:51.366 --> 00:10:53.286
+this is kind of like a universal phenomenon and
+
+230
+00:10:53.296 --> 00:10:56.356
+that's exactly how mcluhan sort of uh describes it
+
+231
+00:10:56.366 --> 00:10:58.716
+uh back in the sixties, which is pretty interesting.
+
+232
+00:11:00.010 --> 00:11:04.409
+And does the internet introduce a new ways of
+
+233
+00:11:04.419 --> 00:11:08.309
+people faking things? I mean, ways that didn't exist
+
+234
+00:11:08.320 --> 00:11:08.830
+before?
+
+235
+00:11:10.539 --> 00:11:14.530
+Yeah, so, absolutely. Um E especially as you get
+
+236
+00:11:14.539 --> 00:11:18.359
+into like the eighties, the nineties, the two thousands,
+
+237
+00:11:18.369 --> 00:11:21.520
+you start to see new uh creative technologies uh
+
+238
+00:11:21.650 --> 00:11:25.869
+become available to the ordinary person. Um I think
+
+239
+00:11:25.880 --> 00:11:27.780
+it's fascinating, the book I look at the early
+
+240
+00:11:27.789 --> 00:11:30.890
+history of Photoshop. So that is again, like a
+
+241
+00:11:30.900 --> 00:11:33.820
+piece of software we're all familiar with, right? Um
+
+242
+00:11:33.890 --> 00:11:35.780
+It has stood the test of time. Uh It
+
+243
+00:11:35.789 --> 00:11:38.729
+was created in the 19 eighties which is just
+
+244
+00:11:38.739 --> 00:11:40.510
+uh you know, crazy to think about today, right?
+
+245
+00:11:40.520 --> 00:11:41.390
+Because if you think it is like a very
+
+246
+00:11:41.400 --> 00:11:43.840
+modern piece of software with all these great features,
+
+247
+00:11:43.849 --> 00:11:46.000
+of course, Adobe has been adding to that feature
+
+248
+00:11:46.010 --> 00:11:48.419
+set over the decades. Um But it was pretty
+
+249
+00:11:48.429 --> 00:11:51.820
+sophisticated right off the bat. Um And it was
+
+250
+00:11:51.830 --> 00:11:54.679
+created by two brothers who were really interested in
+
+251
+00:11:54.690 --> 00:11:58.719
+photography. They had um this vision again of um
+
+252
+00:11:58.729 --> 00:12:01.489
+digital spaces where ordinary people were gonna be able
+
+253
+00:12:01.500 --> 00:12:04.700
+to play around with uh photo photography uh in
+
+254
+00:12:04.710 --> 00:12:08.159
+a way that only dark room technicians, professional photographers
+
+255
+00:12:08.169 --> 00:12:09.890
+had been able to do up until that point.
+
+256
+00:12:10.289 --> 00:12:12.640
+Um So this is again another sort of forward
+
+257
+00:12:12.650 --> 00:12:17.039
+looking technology. Um I when you have the.com boom
+
+258
+00:12:17.049 --> 00:12:19.799
+of the nineties, um a lot of people who
+
+259
+00:12:19.809 --> 00:12:22.159
+had no experience with computers kind of get drawn
+
+260
+00:12:22.169 --> 00:12:24.909
+into these new social technologies, you know, they're, they're
+
+261
+00:12:24.919 --> 00:12:26.750
+signing on to the internet for the first time.
+
+262
+00:12:26.989 --> 00:12:29.559
+Um A lot of technologies um that we sort
+
+263
+00:12:29.570 --> 00:12:31.090
+of take for granted now, like email were kind
+
+264
+00:12:31.099 --> 00:12:33.679
+of novel back then. Uh And they become again
+
+265
+00:12:33.690 --> 00:12:36.909
+this mechanism for storytelling um before their social media.
+
+266
+00:12:36.919 --> 00:12:38.130
+And then finally, when you get to the, the
+
+267
+00:12:38.140 --> 00:12:41.369
+early two thousands, right? You have um uh what
+
+268
+00:12:41.380 --> 00:12:43.229
+something that, that sort of looks like, you know,
+
+269
+00:12:43.239 --> 00:12:45.549
+mcluhan's global village and that the whole world is
+
+270
+00:12:45.559 --> 00:12:49.130
+connected on these platforms and everybody is telling stories,
+
+271
+00:12:49.140 --> 00:12:52.109
+right? Um You see this like massive uh influx
+
+272
+00:12:52.119 --> 00:12:54.760
+again of, of media that is uh created from
+
+273
+00:12:54.770 --> 00:12:56.599
+the bottom up, right? Um It's coming from these
+
+274
+00:12:56.609 --> 00:12:59.140
+amateur communities, but it's making use of these new
+
+275
+00:12:59.369 --> 00:13:01.929
+tools, right? Um That are being put out. Uh
+
+276
+00:13:01.940 --> 00:13:04.440
+So people again can sort of project their imaginations
+
+277
+00:13:04.450 --> 00:13:07.049
+into the space and that, you know, continues to
+
+278
+00:13:07.059 --> 00:13:09.640
+the present day when we have uh these generative
+
+279
+00:13:09.650 --> 00:13:11.159
+A I systems, right? Which are kind of like
+
+280
+00:13:11.169 --> 00:13:13.450
+the, the next generation of the same idea.
+
+281
+00:13:14.609 --> 00:13:18.070
+And do we have any idea at all? How
+
+282
+00:13:18.080 --> 00:13:21.030
+much of the internet is fake?
+
+283
+00:13:22.239 --> 00:13:25.830
+That that's a really good question. I don't think
+
+284
+00:13:25.840 --> 00:13:29.739
+anybody has a perfect handle on that. I know
+
+285
+00:13:29.750 --> 00:13:32.690
+some folks have attempted to figure this out. Uh
+
+286
+00:13:32.700 --> 00:13:35.260
+For instance, I know uh New York magazine a
+
+287
+00:13:35.270 --> 00:13:37.580
+few years ago, uh put out a piece where
+
+288
+00:13:37.590 --> 00:13:39.340
+they tried to quantify this and I, I feel
+
+289
+00:13:39.349 --> 00:13:41.659
+like, you know, even their quantification of this is
+
+290
+00:13:41.669 --> 00:13:44.530
+kind of loosey goosey. Um They did make some
+
+291
+00:13:44.539 --> 00:13:47.809
+good insights though. Um They, they noted that um
+
+292
+00:13:48.299 --> 00:13:51.320
+it is highly likely that the majority of traffic
+
+293
+00:13:51.330 --> 00:13:54.500
+on social media platforms is bot driven. Um And
+
+294
+00:13:54.510 --> 00:13:55.799
+again, I, I think if you, you're just sort
+
+295
+00:13:55.809 --> 00:13:57.460
+of like a user of social media, you sort
+
+296
+00:13:57.469 --> 00:13:59.940
+of know this. Uh YOU know, number one, there's
+
+297
+00:13:59.950 --> 00:14:02.520
+a lot of concern about like algorithmic feeds and
+
+298
+00:14:02.530 --> 00:14:05.570
+algorithmic content. Um But there are even dumb bots
+
+299
+00:14:05.580 --> 00:14:08.320
+that have been around now for decades. Um So
+
+300
+00:14:08.330 --> 00:14:11.080
+these are like, you know, automated pieces of code
+
+301
+00:14:11.090 --> 00:14:13.840
+that, you know, have an ability to generate content.
+
+302
+00:14:14.099 --> 00:14:17.210
+Uh Mainly an ability to comment right now. This
+
+303
+00:14:17.219 --> 00:14:20.059
+is like an early problem when social media appeared.
+
+304
+00:14:20.070 --> 00:14:22.039
+And even before social media, when you had, you
+
+305
+00:14:22.049 --> 00:14:24.590
+know, like forums and like comment sections on news
+
+306
+00:14:24.599 --> 00:14:28.280
+sites um you'd get these kind of like spammy
+
+307
+00:14:28.289 --> 00:14:30.369
+uh troll posts, right? Um Some of it was
+
+308
+00:14:30.380 --> 00:14:32.200
+just advertising, in fact, a great deal of it
+
+309
+00:14:32.210 --> 00:14:34.750
+was advertising. Um SOME of it though, like was
+
+310
+00:14:34.760 --> 00:14:37.299
+appearing in a political context, right? You'd have bots
+
+311
+00:14:37.309 --> 00:14:41.364
+that were, you know, uh designed to uh send
+
+312
+00:14:41.375 --> 00:14:44.434
+messages of a politic uh certain political orientation and
+
+313
+00:14:44.445 --> 00:14:48.275
+automatically respond to certain keywords uh that were identified
+
+314
+00:14:48.284 --> 00:14:50.645
+on these feeds. Um And that just generates a
+
+315
+00:14:50.655 --> 00:14:52.994
+lot of noise on social media. This is like
+
+316
+00:14:53.005 --> 00:14:54.515
+something I think like everybody sort of agrees is
+
+317
+00:14:54.525 --> 00:14:57.164
+bad, it's not good. Um Even if you agree
+
+318
+00:14:57.174 --> 00:14:58.804
+with the message of the bot, you know, you
+
+319
+00:14:58.815 --> 00:15:00.594
+sort of know that it's, it's just a spay
+
+320
+00:15:00.784 --> 00:15:04.635
+automated message. Um um And that, you know, I,
+
+321
+00:15:04.645 --> 00:15:06.934
+I think is like more or less like uninteresting,
+
+322
+00:15:06.945 --> 00:15:10.059
+right? Um uh When we think about fake messages.
+
+323
+00:15:10.070 --> 00:15:12.340
+But I, I think again, there's, there's entire other
+
+324
+00:15:12.349 --> 00:15:14.369
+genres of fake content on there that are just
+
+325
+00:15:14.380 --> 00:15:17.140
+massive, right? Like, think like fandoms on the internet.
+
+326
+00:15:17.369 --> 00:15:18.809
+Um You know, again, this is like a mode
+
+327
+00:15:18.820 --> 00:15:21.539
+of storytelling, it's fictional. Um But you have these
+
+328
+00:15:21.549 --> 00:15:24.859
+massive communities, you know, of fans of different media
+
+329
+00:15:24.869 --> 00:15:27.409
+franchises, you know, like, think like Star Wars uh
+
+330
+00:15:27.419 --> 00:15:31.169
+different anime series, um all these different things, right?
+
+331
+00:15:31.179 --> 00:15:33.460
+Uh WHERE people are just writing their own stories
+
+332
+00:15:33.469 --> 00:15:36.719
+and, and sending them around uh meme culture is,
+
+333
+00:15:36.729 --> 00:15:39.169
+is just so important to the internet, these days,
+
+334
+00:15:39.179 --> 00:15:40.739
+right? And it keeps evolving, which I think is
+
+335
+00:15:40.750 --> 00:15:43.280
+fascinating. Um If you look at meme culture now,
+
+336
+00:15:43.289 --> 00:15:45.489
+it's, it's very much like video driven on Instagram
+
+337
+00:15:45.500 --> 00:15:48.489
+and tiktok. Um And, and people again are like
+
+338
+00:15:48.500 --> 00:15:52.250
+riffing on these ideas, remixing content. Um A lot
+
+339
+00:15:52.260 --> 00:15:53.539
+of that is fake, right? You know, a lot
+
+340
+00:15:53.549 --> 00:15:55.719
+of that again is like taking a specific fictional
+
+341
+00:15:55.729 --> 00:15:59.359
+trope and reworking it over time. Um And, and
+
+342
+00:15:59.369 --> 00:16:01.200
+again, that's the content that people love, that's the
+
+343
+00:16:01.210 --> 00:16:03.820
+content that people are experiencing it. Um You can
+
+344
+00:16:03.830 --> 00:16:07.369
+think about too, like um augmented reality, virtual reality,
+
+345
+00:16:07.380 --> 00:16:09.460
+right? These are, these are things, again, they're not
+
+346
+00:16:09.520 --> 00:16:11.969
+like the physical world, right? You know, they're, they're
+
+347
+00:16:11.979 --> 00:16:14.539
+sort of these artificial creations. Um But they're very
+
+348
+00:16:14.549 --> 00:16:16.429
+popular. Um And you could throw in like, you
+
+349
+00:16:16.440 --> 00:16:18.429
+know, gaming communities into that too, right? And this
+
+350
+00:16:18.440 --> 00:16:21.549
+blows up just so massively. Um And again, I'd
+
+351
+00:16:21.559 --> 00:16:23.419
+say, like most of these things, like, are pretty
+
+352
+00:16:23.429 --> 00:16:25.359
+positive, not the bots, but, you know, like a
+
+353
+00:16:25.369 --> 00:16:27.570
+lot of these other things that are participatory people
+
+354
+00:16:27.580 --> 00:16:30.150
+really enjoy. Um I, I think once you move
+
+355
+00:16:30.159 --> 00:16:34.219
+out of the realm of uh partisan politics, um
+
+356
+00:16:34.229 --> 00:16:35.799
+A lot of the fake stuff is, is quite
+
+357
+00:16:35.809 --> 00:16:38.130
+interesting. Um Because again, it's, it's, it's like creative
+
+358
+00:16:38.140 --> 00:16:41.270
+fiction uh versus like destructive political content.
+
+359
+00:16:42.080 --> 00:16:45.369
+So earlier, you've talked a little bit about photo
+
+360
+00:16:45.380 --> 00:16:47.400
+editing and I would like to ask you and
+
+361
+00:16:47.409 --> 00:16:50.559
+perhaps we can expand this also to other kinds
+
+362
+00:16:50.570 --> 00:16:54.099
+of uh fakes or ways that people fake things
+
+363
+00:16:54.109 --> 00:16:58.539
+on the internet. Do we know what goals people
+
+364
+00:16:58.549 --> 00:17:01.690
+have when they alter a photo, when they edit
+
+365
+00:17:01.700 --> 00:17:05.368
+a photo and they put a fakery up on
+
+366
+00:17:05.380 --> 00:17:06.098
+the internet?
+
+367
+00:17:06.900 --> 00:17:09.469
+Yeah. OK. So this is a really interesting question
+
+368
+00:17:09.479 --> 00:17:11.959
+one I looked at in depth in the book.
+
+369
+00:17:12.329 --> 00:17:14.000
+Um BECAUSE again, as I mentioned earlier, this, this
+
+370
+00:17:14.010 --> 00:17:17.180
+whole project started with my experience with um uh
+
+371
+00:17:17.189 --> 00:17:20.180
+media forensics, right? So there was an assumption in
+
+372
+00:17:20.189 --> 00:17:22.550
+that community that like people who do this are
+
+373
+00:17:22.560 --> 00:17:26.000
+doing something bad, right? They're trying to revise history
+
+374
+00:17:26.010 --> 00:17:27.560
+and they're trying to create some kind of like
+
+375
+00:17:27.569 --> 00:17:30.959
+perfect fake, right? That will allow them to revise
+
+376
+00:17:30.969 --> 00:17:35.880
+the historical record. Um It turns out historically that
+
+377
+00:17:35.890 --> 00:17:38.760
+doesn't really work, right? We do, we don't really
+
+378
+00:17:38.770 --> 00:17:42.859
+have many uh instances where like a perfect fake
+
+379
+00:17:42.869 --> 00:17:46.329
+has really resonated um in, in many cases, again,
+
+380
+00:17:46.339 --> 00:17:48.380
+even when that, that sort of happened, it was
+
+381
+00:17:48.390 --> 00:17:51.619
+debunked very quickly. Um And part of the reason
+
+382
+00:17:51.630 --> 00:17:53.930
+there, which I think is fascinating, like there's a
+
+383
+00:17:53.939 --> 00:17:55.939
+long history of this kind of photographic manipulation. And
+
+384
+00:17:55.949 --> 00:17:57.329
+again, we we we sort of tie it to
+
+385
+00:17:57.339 --> 00:18:00.750
+like authoritarian and totalitarian governments in the 20th century
+
+386
+00:18:00.760 --> 00:18:02.969
+in the, in the the era of film photography.
+
+387
+00:18:03.410 --> 00:18:06.219
+Um And, and there was this like pervasive idea
+
+388
+00:18:06.229 --> 00:18:08.609
+in the like sort of national security community here
+
+389
+00:18:08.619 --> 00:18:10.770
+in the United States that this was happening in
+
+390
+00:18:10.780 --> 00:18:12.449
+these other places, right. So we're thinking like the
+
+391
+00:18:12.459 --> 00:18:16.560
+Soviet Union, uh Maoist China, the Third Reich um
+
+392
+00:18:16.569 --> 00:18:19.540
+Fascist Italy, right? Um They, they, they, they produced
+
+393
+00:18:19.550 --> 00:18:22.469
+a lot of edited photographic content. Uh And of
+
+394
+00:18:22.479 --> 00:18:24.439
+course, in many cases, right, when they were doing
+
+395
+00:18:24.449 --> 00:18:27.170
+that, there was a malicious intent. Uh But what's
+
+396
+00:18:27.180 --> 00:18:28.910
+sort of interesting when you go back to those
+
+397
+00:18:28.920 --> 00:18:32.189
+old photographs, um they're not really perfect fakes, in
+
+398
+00:18:32.199 --> 00:18:34.719
+fact, some of them are pretty bad. Um And
+
+399
+00:18:34.729 --> 00:18:36.219
+that's kind of puzzling because if you look at
+
+400
+00:18:36.229 --> 00:18:38.640
+the history of photographic manipulation in the era of
+
+401
+00:18:38.650 --> 00:18:42.930
+film photography, it was quite possible to produce very
+
+402
+00:18:42.939 --> 00:18:46.569
+realistic fakes. Uh FOR instance, right, you could remove
+
+403
+00:18:46.579 --> 00:18:48.849
+somebody from a photograph and you could replace them
+
+404
+00:18:48.859 --> 00:18:51.569
+with somebody else and make it look pretty good.
+
+405
+00:18:51.910 --> 00:18:53.849
+Um But what I found looking at these old
+
+406
+00:18:53.859 --> 00:18:57.449
+cases, like they were like, obviously edited, right? Like
+
+407
+00:18:57.459 --> 00:19:01.089
+huge gaps in, in photographs of, you know, political
+
+408
+00:19:01.099 --> 00:19:03.550
+leaders, um you know, gaps that could have been
+
+409
+00:19:03.560 --> 00:19:08.800
+filled in. Um One particularly striking example I found
+
+410
+00:19:08.810 --> 00:19:13.849
+um from Albania, um sensors had removed um some,
+
+411
+00:19:13.859 --> 00:19:16.109
+some sort of men in a, a group photograph,
+
+412
+00:19:16.119 --> 00:19:19.180
+but they left the shoes, right? So it's like,
+
+413
+00:19:19.189 --> 00:19:21.349
+that's like terrifying when you're looking at this photograph
+
+414
+00:19:21.359 --> 00:19:23.630
+where it's like these people were removed, right? You
+
+415
+00:19:23.640 --> 00:19:26.030
+know, they're missing these, the shoes are still there.
+
+416
+00:19:26.180 --> 00:19:28.994
+Um In many cases. Um II I think a
+
+417
+00:19:29.005 --> 00:19:31.515
+more correct interpretation of the style of editing is
+
+418
+00:19:31.525 --> 00:19:35.135
+that um it's meant to send an intentional signal
+
+419
+00:19:35.145 --> 00:19:38.375
+to the observer. Like we can erase people, if
+
+420
+00:19:38.385 --> 00:19:40.844
+you mess up, we can erase you too, right?
+
+421
+00:19:41.084 --> 00:19:43.574
+Um What's also fascinating too is like the originals
+
+422
+00:19:43.584 --> 00:19:45.944
+uh tend to like persist, right? It's, it's like,
+
+423
+00:19:45.954 --> 00:19:48.949
+again, like the sensors remove uh you know, somebody
+
+424
+00:19:48.959 --> 00:19:50.469
+from a photo like they, they, they have this
+
+425
+00:19:50.479 --> 00:19:54.030
+revised image, but history continues to record the original.
+
+426
+00:19:54.040 --> 00:19:55.250
+It's like we always have these like side by
+
+427
+00:19:55.260 --> 00:19:58.599
+side comparisons, which is kind of interesting. Um And
+
+428
+00:19:58.609 --> 00:20:01.969
+when you sort of think about that, you know,
+
+429
+00:20:01.979 --> 00:20:04.479
+it's like, OK, maybe it's like those like obvious
+
+430
+00:20:04.489 --> 00:20:07.459
+fakes, right? That are the most dangerous because the
+
+431
+00:20:07.469 --> 00:20:09.959
+message is very clear, right? Those perfect fakes really
+
+432
+00:20:09.969 --> 00:20:13.310
+haven't worked. Um And so again, I think that
+
+433
+00:20:13.319 --> 00:20:15.500
+whole sort of assumption that again, there are bad
+
+434
+00:20:15.510 --> 00:20:17.260
+people out there trying to revise history. This is
+
+435
+00:20:17.270 --> 00:20:20.020
+not, that's not really the way this works, right?
+
+436
+00:20:20.030 --> 00:20:22.619
+And that's not really how it it becomes effective.
+
+437
+00:20:22.900 --> 00:20:25.660
+Um I, I think again, more explicit messaging uh
+
+438
+00:20:25.670 --> 00:20:28.560
+tends to resonate um better. And it's funny too
+
+439
+00:20:28.569 --> 00:20:30.040
+when you look again at the history of this,
+
+440
+00:20:30.050 --> 00:20:32.219
+like uh again, looking back at say like the
+
+441
+00:20:32.229 --> 00:20:34.359
+Soviet Union, there's like an entire genre of like
+
+442
+00:20:34.369 --> 00:20:37.099
+Soviet era humor about how the government lies to
+
+443
+00:20:37.109 --> 00:20:39.010
+you, right? It's like people did not believe the
+
+444
+00:20:39.020 --> 00:20:42.199
+official media record, right? Because it was always altered.
+
+445
+00:20:42.280 --> 00:20:44.319
+Um That, that was not surprising to, to people
+
+446
+00:20:44.329 --> 00:20:46.489
+who lived in the Soviet Union. Um, BUT again,
+
+447
+00:20:46.500 --> 00:20:48.130
+here in the, the west, again, there was this,
+
+448
+00:20:48.140 --> 00:20:50.969
+like, pervasive fear that, like, there was totalitarian control
+
+449
+00:20:50.979 --> 00:20:53.430
+over the media. Uh, BUT it didn't quite work
+
+450
+00:20:53.439 --> 00:20:56.609
+like that in practice. Um, WHICH is interesting. Um,
+
+451
+00:20:56.619 --> 00:20:58.329
+AND then if you go back further in history,
+
+452
+00:20:58.339 --> 00:21:01.369
+like looking at the history of film, photography itself,
+
+453
+00:21:01.380 --> 00:21:04.050
+um, photos are being edited right away. Right. I,
+
+454
+00:21:04.060 --> 00:21:07.160
+there's this myth and that sort of propagated over
+
+455
+00:21:07.170 --> 00:21:10.410
+to um the the area of media, forensics that
+
+456
+00:21:10.619 --> 00:21:13.520
+um photographs could be trusted in the past, right?
+
+457
+00:21:13.530 --> 00:21:15.719
+We could trust them uh because we didn't have
+
+458
+00:21:15.729 --> 00:21:18.880
+Photoshop, right? It wasn't, it wasn't possible, right? Many
+
+459
+00:21:18.890 --> 00:21:20.949
+people sort of believe to edit photographs that was
+
+460
+00:21:20.959 --> 00:21:22.760
+not true at all. Basically, as soon as the
+
+461
+00:21:22.770 --> 00:21:25.829
+camera is invented in the 19th century, photographers are
+
+462
+00:21:25.839 --> 00:21:29.550
+faking their photographs. Um The first fake photograph appears
+
+463
+00:21:29.560 --> 00:21:33.449
+in 1840 is produced by one of the inventors
+
+464
+00:21:33.459 --> 00:21:35.369
+of an early camera process and it just kind
+
+465
+00:21:35.380 --> 00:21:38.439
+of spirals from there. Um But it's mostly used
+
+466
+00:21:38.449 --> 00:21:40.729
+um in a, in a sort of like commercial
+
+467
+00:21:40.739 --> 00:21:43.489
+or creative way. Uh FOR instance, right, when you'd
+
+468
+00:21:43.500 --> 00:21:46.250
+sit for a portrait uh in a, in a
+
+469
+00:21:46.260 --> 00:21:48.780
+studio in like the 19th century, um you could
+
+470
+00:21:48.790 --> 00:21:51.589
+often like order some special effects, like some of
+
+471
+00:21:51.599 --> 00:21:53.329
+these effects again, would just make the photo look
+
+472
+00:21:53.339 --> 00:21:55.410
+better. Like what we do now with like photo
+
+473
+00:21:55.420 --> 00:21:58.609
+editing apps on our phones. Uh LOW pass filter,
+
+474
+00:21:58.619 --> 00:22:00.619
+right? You know, it's like we can like apply,
+
+475
+00:22:00.630 --> 00:22:03.170
+right, some smoothing on the face like through our
+
+476
+00:22:03.180 --> 00:22:05.729
+app. Uh And our complexion looks better. You could
+
+477
+00:22:05.739 --> 00:22:09.739
+do that uh using um some basic techniques uh
+
+478
+00:22:09.750 --> 00:22:11.619
+in the dark room, right? That was well known
+
+479
+00:22:11.630 --> 00:22:14.540
+by photographers. Um You could add objects into scenes,
+
+480
+00:22:14.550 --> 00:22:17.775
+you could remove objects. Um YOU could uh add
+
+481
+00:22:17.785 --> 00:22:19.685
+all sorts of interesting special effects, right? Which I
+
+482
+00:22:19.694 --> 00:22:21.694
+think it's sort of been forgotten by a lot
+
+483
+00:22:21.704 --> 00:22:24.895
+of people, uh even photographers. Um But, but again,
+
+484
+00:22:24.905 --> 00:22:27.694
+this was like all very much standard uh in
+
+485
+00:22:27.704 --> 00:22:29.854
+the era of film photography. So, right, like this
+
+486
+00:22:29.864 --> 00:22:32.655
+idea that um the photograph was like a trusted
+
+487
+00:22:32.665 --> 00:22:35.255
+object, I I feel was a, was a myth.
+
+488
+00:22:35.265 --> 00:22:37.584
+Uh That's a myth that persists to this day,
+
+489
+00:22:37.594 --> 00:22:39.925
+which is interesting uh from a community again, that,
+
+490
+00:22:39.935 --> 00:22:43.875
+that seems uh uh very keen on policing, right?
+
+491
+00:22:43.885 --> 00:22:44.895
+Uh FALSEHOODS.
+
+492
+00:22:45.949 --> 00:22:50.250
+But because people particularly nowadays are very worried about
+
+493
+00:22:50.260 --> 00:22:54.119
+misinformation and on the internet specifically, I have to
+
+494
+00:22:54.130 --> 00:22:57.060
+ask you this question. So you've already sort of
+
+495
+00:22:57.069 --> 00:22:59.959
+alluded to the answer, I guess in my previous
+
+496
+00:22:59.969 --> 00:23:05.060
+question. But are there many people who actually fall
+
+497
+00:23:05.069 --> 00:23:08.380
+for fake reason on the internet? I mean, whether
+
+498
+00:23:08.390 --> 00:23:12.209
+it's photos, videos or other kinds of content or
+
+499
+00:23:12.260 --> 00:23:16.660
+are people usually, or it's usually easy for people
+
+500
+00:23:16.670 --> 00:23:20.380
+to figure out or find out that they're fakes?
+
+501
+00:23:20.650 --> 00:23:23.489
+Yeah. So this, this is the question everybody seems
+
+502
+00:23:23.500 --> 00:23:25.489
+to want an answer to. And again, this is
+
+503
+00:23:25.500 --> 00:23:27.829
+like, it's difficult because like, we just don't know
+
+504
+00:23:27.839 --> 00:23:29.900
+and, and I'll explain why this is really difficult
+
+505
+00:23:29.910 --> 00:23:32.239
+even if you were gonna like, interview people, like,
+
+506
+00:23:32.250 --> 00:23:35.069
+why this is really difficult to answer. Um So
+
+507
+00:23:35.079 --> 00:23:37.969
+I think yes people of course do fall for
+
+508
+00:23:37.979 --> 00:23:40.569
+uh the, these things I think where you see
+
+509
+00:23:40.579 --> 00:23:44.969
+most people being legitimately duped, um, cases like that
+
+510
+00:23:44.979 --> 00:23:48.630
+are just, just, um, scams, like like criminal scams.
+
+511
+00:23:48.969 --> 00:23:50.890
+Uh Right? For instance, right? It's like someone who's
+
+512
+00:23:50.900 --> 00:23:52.729
+trying to like get money from you, right? So
+
+513
+00:23:52.739 --> 00:23:55.010
+they're creating a bunch of fake media to perhaps
+
+514
+00:23:55.020 --> 00:23:57.829
+like impersonate your relative. Um There's a lot of
+
+515
+00:23:57.839 --> 00:24:02.569
+concern about um voice synthesis techniques are targeting the
+
+516
+00:24:02.579 --> 00:24:06.010
+elderly, right? All sorts of like phone scams. Um
+
+517
+00:24:06.020 --> 00:24:09.010
+YOU know, somebody Impersonating a relative trying to extract
+
+518
+00:24:09.020 --> 00:24:12.329
+money out of somebody who probably like, isn't cognitively
+
+519
+00:24:12.339 --> 00:24:15.290
+all there because they're very old. Um Like, I,
+
+520
+00:24:15.300 --> 00:24:18.280
+I feel like those scams are becoming more prevalent
+
+521
+00:24:18.290 --> 00:24:21.150
+and they're working, which is very troubling what I
+
+522
+00:24:21.160 --> 00:24:24.640
+think does not work um As much as people
+
+523
+00:24:24.650 --> 00:24:28.609
+think it works like the political disinformation. Um Now
+
+524
+00:24:28.619 --> 00:24:30.670
+again, this may seem surprising because a lot of
+
+525
+00:24:30.680 --> 00:24:32.829
+people are like, well, you know, it's like my
+
+526
+00:24:32.839 --> 00:24:35.969
+crazy uncle like believes, right? All of this stuff,
+
+527
+00:24:35.979 --> 00:24:38.430
+right? Which is obviously fake. What I think is
+
+528
+00:24:38.439 --> 00:24:40.900
+going on in the realm of politics um is
+
+529
+00:24:40.910 --> 00:24:45.040
+something akin to uh professional wrestling. Do, do you
+
+530
+00:24:45.050 --> 00:24:48.109
+know, like the fake, the fake wrestling, right? But
+
+531
+00:24:48.119 --> 00:24:50.150
+yeah, so this is, this is a really interesting
+
+532
+00:24:50.160 --> 00:24:53.609
+effect where, you know, like professional wrestling is entertainment,
+
+533
+00:24:53.619 --> 00:24:55.979
+right? The the matches are, are staged, right? There
+
+534
+00:24:55.989 --> 00:24:58.589
+are writers who create the characters. What I think
+
+535
+00:24:58.599 --> 00:25:00.540
+is really interesting. This is like a fandom where
+
+536
+00:25:00.550 --> 00:25:04.859
+like people strongly identify with the characters and when,
+
+537
+00:25:04.869 --> 00:25:07.329
+when fans are talking about these wrestling matches, they're
+
+538
+00:25:07.339 --> 00:25:10.310
+talking about them as if they were real. Um
+
+539
+00:25:10.319 --> 00:25:13.020
+BUT detail, they don't, they, they know it's fake,
+
+540
+00:25:13.030 --> 00:25:15.469
+right? They know it's entertainment. Um And, and you
+
+541
+00:25:15.479 --> 00:25:17.099
+see these circumstances, you know, it's like everybody knows
+
+542
+00:25:17.109 --> 00:25:19.329
+it's fake and like people very pedantic people will
+
+543
+00:25:19.339 --> 00:25:21.530
+like, you know, confront professional wrestling fans and be
+
+544
+00:25:21.540 --> 00:25:23.689
+like, you know, that's fake, right? That's fake wrestling
+
+545
+00:25:23.819 --> 00:25:25.219
+and, and eventually the fans will be like, yeah,
+
+546
+00:25:25.229 --> 00:25:26.849
+we know, you know, but that's not the point,
+
+547
+00:25:26.859 --> 00:25:29.439
+right? It's like we identify with the fandom. I,
+
+548
+00:25:29.449 --> 00:25:31.560
+I think you say the same thing in partisan
+
+549
+00:25:31.569 --> 00:25:34.800
+politics where people identify so strongly with a political
+
+550
+00:25:34.810 --> 00:25:37.910
+party that they talk about these things as if
+
+551
+00:25:37.920 --> 00:25:40.189
+they were real, right? Like the sort of political
+
+552
+00:25:40.199 --> 00:25:42.530
+mythology and you see this, like regardless of political
+
+553
+00:25:42.540 --> 00:25:45.890
+orientation. Um And so even though they know that
+
+554
+00:25:45.900 --> 00:25:48.670
+this, they're talking about things that didn't actually happen
+
+555
+00:25:48.680 --> 00:25:51.579
+in the physical world, they still strongly identify with
+
+556
+00:25:51.589 --> 00:25:54.420
+the stories. Uh And so they're probably not going
+
+557
+00:25:54.430 --> 00:25:58.170
+to concede that they're fake, right? Um AND that,
+
+558
+00:25:58.180 --> 00:26:00.550
+that's a complicated thing to unpack but it's like
+
+559
+00:26:00.560 --> 00:26:03.540
+a well known phenomenon, uh, in the realms of,
+
+560
+00:26:03.550 --> 00:26:07.170
+like, anthropology, sociology, et cetera. Um, AND in fact,
+
+561
+00:26:07.180 --> 00:26:09.000
+anthropologists say, like, it's sort of like when people
+
+562
+00:26:09.010 --> 00:26:11.390
+are, like, like, like lying to you in that
+
+563
+00:26:11.400 --> 00:26:14.339
+manner, it's really interesting. Right. Um, BECAUSE it's saying
+
+564
+00:26:14.349 --> 00:26:17.430
+something about the, the culture they're embedded in. Um,
+
+565
+00:26:17.439 --> 00:26:18.689
+AND so you see a lot of that on
+
+566
+00:26:18.699 --> 00:26:20.500
+the internet, right? It's not just politics, it's other
+
+567
+00:26:20.510 --> 00:26:22.310
+things too. Like I see like any fandom, right?
+
+568
+00:26:22.319 --> 00:26:24.750
+Like you, you have people talking about, uh these
+
+569
+00:26:24.760 --> 00:26:26.260
+things, right? There's people on the internet, they're like,
+
+570
+00:26:26.270 --> 00:26:27.900
+you know, it's like I'm a Jedi Knight, right?
+
+571
+00:26:27.910 --> 00:26:31.949
+I identify right with this, this fictional, like religion
+
+572
+00:26:31.959 --> 00:26:35.349
+from like George Lucas's Mind. Um, IT'S, it's the
+
+573
+00:26:35.359 --> 00:26:37.180
+same type of effect, um which I think is
+
+574
+00:26:37.189 --> 00:26:39.839
+really fascinating. And so again, if you want to
+
+575
+00:26:39.849 --> 00:26:41.410
+quantify this, I, you know, I don't have no
+
+576
+00:26:41.420 --> 00:26:44.020
+idea because again, a lot of people that will
+
+577
+00:26:44.030 --> 00:26:46.119
+be telling you stories as you're trying to gauge
+
+578
+00:26:46.130 --> 00:26:50.089
+this, um, you may be, um unjustly saying they've
+
+579
+00:26:50.099 --> 00:26:52.439
+been duped in some horrible way, right? When, in
+
+580
+00:26:52.449 --> 00:26:54.930
+fact, they have not been duped, right? Um They
+
+581
+00:26:54.939 --> 00:26:57.109
+sort of know what's going on. Um, THEY'RE just
+
+582
+00:26:57.119 --> 00:26:59.479
+thinking in a different mode when they're responding to
+
+583
+00:26:59.489 --> 00:27:00.270
+the question.
+
+584
+00:27:01.400 --> 00:27:05.189
+Uh But when it comes to the politics itself,
+
+585
+00:27:05.199 --> 00:27:08.250
+uh just to make this point clear, are you
+
+586
+00:27:08.260 --> 00:27:12.189
+saying there that it might be the case that
+
+587
+00:27:12.199 --> 00:27:17.420
+at least in some specific circumstances or situations, people
+
+588
+00:27:17.459 --> 00:27:22.069
+might say that they believe fake things that the
+
+589
+00:27:22.079 --> 00:27:27.260
+for example, they preferred party claims or preferred politician
+
+590
+00:27:27.270 --> 00:27:31.729
+claims just to signal just to signal their group
+
+591
+00:27:31.739 --> 00:27:35.979
+membership. But then deep down they actually do not
+
+592
+00:27:35.989 --> 00:27:36.619
+believe them.
+
+593
+00:27:37.329 --> 00:27:39.069
+Yeah, that's, that's a good and concise way to
+
+594
+00:27:39.079 --> 00:27:41.709
+describe this, right? So it's in group signaling, um
+
+595
+00:27:41.719 --> 00:27:43.609
+which is interesting that that's not to say that
+
+596
+00:27:43.619 --> 00:27:47.040
+like nobody is duped. Uh In fact, like I
+
+597
+00:27:47.050 --> 00:27:50.079
+worry about the people that actually are duped, right?
+
+598
+00:27:50.089 --> 00:27:53.479
+Especially if the political rhetoric is violent in some
+
+599
+00:27:53.489 --> 00:27:55.920
+way. Um That's a big problem. Like I look
+
+600
+00:27:55.930 --> 00:27:57.339
+at the ethics of that at the end of
+
+601
+00:27:57.349 --> 00:27:59.400
+my book. Um BECAUSE again, I feel like this
+
+602
+00:27:59.410 --> 00:28:01.760
+is an issue and on the internet, uh uh
+
+603
+00:28:01.770 --> 00:28:05.680
+people are tend to be uh reluctant to correct,
+
+604
+00:28:05.739 --> 00:28:08.199
+right? These misunderstandings because you get a lot of
+
+605
+00:28:08.209 --> 00:28:11.000
+trolling behavior as well. Um Which is a huge
+
+606
+00:28:11.010 --> 00:28:13.209
+problem. Um In fact, I think a lot of
+
+607
+00:28:13.219 --> 00:28:15.040
+the trolling too, sort of stems out of this
+
+608
+00:28:15.050 --> 00:28:18.160
+effect, right? Because if you have a group, an
+
+609
+00:28:18.170 --> 00:28:21.319
+out group that sort of believes that you believe
+
+610
+00:28:21.329 --> 00:28:23.619
+these things, you may troll them quite heavily by
+
+611
+00:28:23.630 --> 00:28:26.359
+saying even more ridiculous things uh and claiming to
+
+612
+00:28:26.369 --> 00:28:28.479
+believe them uh right, that, that sort of keeps
+
+613
+00:28:28.489 --> 00:28:30.560
+you in the news, right? That keeps the the
+
+614
+00:28:30.569 --> 00:28:33.540
+arguments going, it brings more attention to your movement
+
+615
+00:28:33.550 --> 00:28:34.109
+et cetera.
+
+616
+00:28:35.880 --> 00:28:39.180
+And do we know if there are many people
+
+617
+00:28:39.189 --> 00:28:44.280
+on the internet that actually create fake content? Because
+
+618
+00:28:44.290 --> 00:28:46.329
+I mean, I've had on the show people that
+
+619
+00:28:46.339 --> 00:28:52.050
+work specifically on misinformation on the internet and most
+
+620
+00:28:52.060 --> 00:28:55.510
+of them tell me that when you look at
+
+621
+00:28:55.520 --> 00:28:59.015
+it, it's actually a very small number of people
+
+622
+00:28:59.025 --> 00:29:03.354
+that, for example, put out political misinformation on the
+
+623
+00:29:03.364 --> 00:29:07.665
+internet. Uh But then because, uh I mean, many
+
+624
+00:29:07.675 --> 00:29:10.555
+times it's outrageous, then it garners a lot of
+
+625
+00:29:10.564 --> 00:29:14.035
+attention, but it's actually a tiny number of people
+
+626
+00:29:14.045 --> 00:29:17.275
+doing it and then many more people consuming it.
+
+627
+00:29:17.285 --> 00:29:20.594
+But the ones who create it are not that
+
+628
+00:29:20.604 --> 00:29:21.265
+many.
+
+629
+00:29:22.020 --> 00:29:24.250
+Yeah. So if, but so I would argue against
+
+630
+00:29:24.260 --> 00:29:27.050
+this because if you take my more expansive view
+
+631
+00:29:27.060 --> 00:29:30.260
+of the internet and all of the participatory, right?
+
+632
+00:29:30.270 --> 00:29:33.079
+Uh MEDIA generation, uh the use of tools like
+
+633
+00:29:33.089 --> 00:29:36.369
+Photoshop, the use of uh uh generative A I
+
+634
+00:29:36.380 --> 00:29:38.660
+mid journey dolly, right? All these systems, all the
+
+635
+00:29:38.670 --> 00:29:42.400
+content flooding uh people using, you know, uh facial
+
+636
+00:29:42.410 --> 00:29:45.069
+filtering apps, right? Like all of this is generating
+
+637
+00:29:45.079 --> 00:29:47.439
+quote unquote fake content, right? So that's basically all
+
+638
+00:29:47.449 --> 00:29:49.810
+of us, right? We're all doing it. Um Think
+
+639
+00:29:49.819 --> 00:29:52.099
+about how many people are creating their own memes,
+
+640
+00:29:52.109 --> 00:29:54.319
+right? This is a staggering number of people, the
+
+641
+00:29:54.329 --> 00:29:56.430
+people involved in these fandoms, right? This is like
+
+642
+00:29:56.439 --> 00:29:59.619
+many millions of people. Um YOU know, again, there
+
+643
+00:29:59.630 --> 00:30:02.189
+there's a human inclination to tell stories, right? That's
+
+644
+00:30:02.199 --> 00:30:05.250
+something really fundamental about our humanity. Um I, I
+
+645
+00:30:05.260 --> 00:30:06.969
+think again, if you're describing this in this very
+
+646
+00:30:06.979 --> 00:30:09.099
+niche way, right? We, we were just like, you
+
+647
+00:30:09.109 --> 00:30:12.400
+know, explicit political disinformation. Yeah, that there probably is
+
+648
+00:30:12.410 --> 00:30:14.819
+a really small number of people. Um But, but
+
+649
+00:30:14.829 --> 00:30:17.359
+this phenomenon is much broader, right? Um And, and
+
+650
+00:30:17.369 --> 00:30:18.959
+again, I think there's a lot of these things
+
+651
+00:30:18.969 --> 00:30:21.459
+get entangled too. Um One thing I like to
+
+652
+00:30:21.469 --> 00:30:24.719
+think a lot about um parody and satire on
+
+653
+00:30:24.729 --> 00:30:27.709
+the internet, especially political parody and satire. Um Some
+
+654
+00:30:27.719 --> 00:30:30.189
+stuff looks like disinformation, but it's actually making a
+
+655
+00:30:30.199 --> 00:30:33.189
+completely different political point, right? Uh If you stopped
+
+656
+00:30:33.199 --> 00:30:35.479
+at the surface level message of the content, uh
+
+657
+00:30:35.489 --> 00:30:37.939
+you're completely missing the point. Uh And a lot
+
+658
+00:30:37.949 --> 00:30:40.520
+of meme culture, especially like political meme culture works
+
+659
+00:30:40.530 --> 00:30:43.310
+that way. Um But, but again, this is kind
+
+660
+00:30:43.319 --> 00:30:44.949
+of part of the motivation for this book, right?
+
+661
+00:30:44.959 --> 00:30:46.880
+I I just kept seeing a lot of commentators
+
+662
+00:30:46.890 --> 00:30:49.530
+like stopping at the surface level. Um And you
+
+663
+00:30:49.540 --> 00:30:51.660
+just miss so much of the interesting stuff when
+
+664
+00:30:51.670 --> 00:30:52.239
+you do that.
+
+665
+00:30:53.270 --> 00:30:56.489
+So let me ask you now about video specifically
+
+666
+00:30:56.500 --> 00:31:00.359
+because in more recent times we have uh deep
+
+667
+00:31:00.369 --> 00:31:04.959
+fakes, we have a I generated video content and
+
+668
+00:31:04.969 --> 00:31:08.589
+all of that. Uh And sometimes, I mean, people
+
+669
+00:31:08.599 --> 00:31:12.150
+get into lots of trouble because particularly when it
+
+670
+00:31:12.160 --> 00:31:17.000
+comes to deep fake porn, they can actually create,
+
+671
+00:31:17.010 --> 00:31:21.209
+generate videos where they put a particular person. It's
+
+672
+00:31:21.219 --> 00:31:26.810
+usually women, unfortunately, uh in a porn video and
+
+673
+00:31:26.819 --> 00:31:30.170
+sometimes it can be very, very damaging to their
+
+674
+00:31:30.180 --> 00:31:34.130
+social reputation. So, do you think that's uh perhaps
+
+675
+00:31:34.140 --> 00:31:37.069
+something that we should worry more about because it's
+
+676
+00:31:37.079 --> 00:31:40.270
+a little bit more sophisticated or not?
+
+677
+00:31:40.670 --> 00:31:42.410
+Yeah. In fact, I would argue this is like
+
+678
+00:31:42.420 --> 00:31:45.400
+a primary concern when we think about fake content,
+
+679
+00:31:45.410 --> 00:31:48.020
+especially deep fakes, like the history of deep fakes
+
+680
+00:31:48.030 --> 00:31:51.439
+um is troubling, right? So again, this is something
+
+681
+00:31:51.449 --> 00:31:54.339
+we hear about a lot. Uh ALMOST always in
+
+682
+00:31:54.349 --> 00:31:57.719
+a political context though there has been uh growing
+
+683
+00:31:57.729 --> 00:32:00.750
+reporting on the specific uh instance which you mentioned,
+
+684
+00:32:00.760 --> 00:32:03.060
+right, which is the creation of deep fake pornography.
+
+685
+00:32:03.170 --> 00:32:05.930
+It turns out um the deep fakes algorithm was
+
+686
+00:32:05.939 --> 00:32:09.920
+created specifically for that. Um WHEN, when it first
+
+687
+00:32:09.930 --> 00:32:12.040
+hits the internet, right? It's sort of being billed
+
+688
+00:32:12.050 --> 00:32:15.069
+as a way to create your like fantasy porn,
+
+689
+00:32:15.079 --> 00:32:18.140
+right? You can take some actress' face and, and
+
+690
+00:32:18.150 --> 00:32:19.880
+again, it's always like in a sort of female
+
+691
+00:32:19.890 --> 00:32:24.010
+context which I think is, is incredibly misogynistic. Um
+
+692
+00:32:24.060 --> 00:32:25.719
+And, and, you know, it's like you can create,
+
+693
+00:32:25.729 --> 00:32:27.859
+you know, some scene using, you know, some existing
+
+694
+00:32:27.869 --> 00:32:32.140
+pornography. Um AND this becomes quite popular. Uh THEN
+
+695
+00:32:32.150 --> 00:32:35.680
+along the way, um it became a mechanism for
+
+696
+00:32:35.689 --> 00:32:37.859
+uh re creating revenge porn, right? It's like, oh
+
+697
+00:32:37.869 --> 00:32:39.880
+you don't actually have to film a real scene.
+
+698
+00:32:40.050 --> 00:32:42.780
+Um YOU can take your ex's face right and
+
+699
+00:32:42.790 --> 00:32:46.229
+post it into porn. Uh AND even more troubling
+
+700
+00:32:46.239 --> 00:32:50.449
+now, it's like middle school students are like bullying
+
+701
+00:32:50.520 --> 00:32:53.530
+other students using this right? Trying to humiliate them.
+
+702
+00:32:53.540 --> 00:32:55.290
+I I think all of this is appalling. I
+
+703
+00:32:55.300 --> 00:32:57.910
+I think this is like one specific scenario where
+
+704
+00:32:57.920 --> 00:33:00.310
+deep fakes are highly effective and this is related
+
+705
+00:33:00.319 --> 00:33:03.625
+to my earlier point about obvious fakes being more
+
+706
+00:33:03.635 --> 00:33:06.875
+effective than perfect fakes, like even a bad deep
+
+707
+00:33:06.885 --> 00:33:09.744
+fake, right? That is obviously fake can humiliate somebody,
+
+708
+00:33:09.755 --> 00:33:11.814
+right? Like that's just like devastating, right? If you're
+
+709
+00:33:11.824 --> 00:33:14.454
+like, you know, an eighth grade girl and all
+
+710
+00:33:14.464 --> 00:33:16.614
+of the boys in your school, right? Are circulating
+
+711
+00:33:16.625 --> 00:33:19.234
+these fake porn videos, right? That are obviously fake,
+
+712
+00:33:19.244 --> 00:33:20.854
+right? I I think this is, this is terrible,
+
+713
+00:33:20.864 --> 00:33:23.265
+this is a serious social problem. Um I I
+
+714
+00:33:23.275 --> 00:33:25.275
+think it's endemic too of like this broader porn
+
+715
+00:33:25.285 --> 00:33:28.035
+culture which I find appalling uh on the internet.
+
+716
+00:33:28.045 --> 00:33:31.069
+But again, a lot of that involves fake content.
+
+717
+00:33:31.270 --> 00:33:33.869
+Um COMING back to the politics of deep fakes
+
+718
+00:33:33.880 --> 00:33:35.729
+though those almost never work, right? I I feel
+
+719
+00:33:35.739 --> 00:33:38.170
+like, you know, we talk a lot about them.
+
+720
+00:33:38.300 --> 00:33:41.160
+There hasn't really been an instance that you can
+
+721
+00:33:41.170 --> 00:33:43.530
+sort of definitively say this deep fake swayed an
+
+722
+00:33:43.540 --> 00:33:46.140
+election, right? This deep fake had a serious political
+
+723
+00:33:46.150 --> 00:33:50.229
+implication. Um THEY almost always appear posted by anonymous
+
+724
+00:33:50.363 --> 00:33:53.753
+accounts, right? That are not any maj major news
+
+725
+00:33:53.762 --> 00:33:57.192
+source. Uh THEY are almost immediately debunked right away
+
+726
+00:33:57.203 --> 00:34:00.243
+because again, they, they depict public figures, especially politicians
+
+727
+00:34:00.253 --> 00:34:03.422
+who have public, you know, uh schedules. They are,
+
+728
+00:34:03.432 --> 00:34:06.133
+they are scrutinized by the media minute by minute.
+
+729
+00:34:06.302 --> 00:34:08.572
+Right. They're, they're constantly, like, you know, like press
+
+730
+00:34:08.583 --> 00:34:11.235
+pools following these people. Uh, AND so it just
+
+731
+00:34:11.246 --> 00:34:13.196
+doesn't work. Right. You know, and, and again, like,
+
+732
+00:34:13.206 --> 00:34:15.476
+I think people now sort of are savvy. Right.
+
+733
+00:34:15.485 --> 00:34:17.235
+They're like, wait a minute, you know, this, this
+
+734
+00:34:17.246 --> 00:34:20.135
+sensational video I'm looking at of this politician. If
+
+735
+00:34:20.145 --> 00:34:22.284
+this were real, I probably would have heard about
+
+736
+00:34:22.295 --> 00:34:24.864
+it, uh, from a paper of record, right. FROM
+
+737
+00:34:24.875 --> 00:34:27.516
+a major, you know, uh news source. Um AND
+
+738
+00:34:27.525 --> 00:34:29.976
+instead nobody's talking about this, right? It's just circulating
+
+739
+00:34:29.985 --> 00:34:30.755
+on social media.
+
+740
+00:34:32.050 --> 00:34:36.188
+And what about shock content websites? I mean, I
+
+741
+00:34:36.199 --> 00:34:39.639
+remember back in the mid two thousands when I
+
+742
+00:34:39.649 --> 00:34:43.270
+was an adolescent that we were all the time
+
+743
+00:34:43.280 --> 00:34:46.520
+looking at that kind of content. I mean, I
+
+744
+00:34:46.530 --> 00:34:48.918
+mean, at a certain point, it was almost like
+
+745
+00:34:48.929 --> 00:34:52.120
+a rite of passage, particularly for boys that we
+
+746
+00:34:52.129 --> 00:34:56.409
+really had to expose ourselves to that those kinds
+
+747
+00:34:56.418 --> 00:35:00.379
+of websites. So why are they so popular?
+
+748
+00:35:01.340 --> 00:35:03.510
+Yeah, I think this is another important piece of
+
+749
+00:35:03.520 --> 00:35:05.840
+the history of fake content on the internet. Um
+
+750
+00:35:05.850 --> 00:35:09.030
+VERY early in this sort of, you know, like.com
+
+751
+00:35:09.040 --> 00:35:11.520
+era, like shocking material was starting to gain an
+
+752
+00:35:11.530 --> 00:35:15.100
+audience. Um There was one website in particular uh
+
+753
+00:35:15.110 --> 00:35:17.889
+rotten.com which I think is really fascinating. It was
+
+754
+00:35:17.899 --> 00:35:20.800
+definitely like a very popular website, like looking back
+
+755
+00:35:20.810 --> 00:35:23.135
+actually, it's kind of shocking, like it was so
+
+756
+00:35:23.145 --> 00:35:26.235
+popular. Um It, it got a lot of mainstream
+
+757
+00:35:26.245 --> 00:35:29.834
+attention. Um uh BECAUSE it received so much traffic
+
+758
+00:35:29.844 --> 00:35:34.034
+and it was routinely like posting content. Um THAT
+
+759
+00:35:34.044 --> 00:35:37.574
+was like irresistible. You couldn't not look, right? Um
+
+760
+00:35:37.645 --> 00:35:41.114
+Like a big early win for that site was
+
+761
+00:35:41.125 --> 00:35:46.389
+um uh a picture that um allegedly depicted um
+
+762
+00:35:46.399 --> 00:35:49.219
+the the fatal crash that killed Princess Diana, right?
+
+763
+00:35:49.360 --> 00:35:50.989
+So this is like an internet form of rubber
+
+764
+00:35:51.000 --> 00:35:52.340
+necking on the road, right? It was like an
+
+765
+00:35:52.350 --> 00:35:54.889
+accident. Uh And again, that was such a major
+
+766
+00:35:54.899 --> 00:35:57.090
+news story, like the whole world is paying attention
+
+767
+00:35:57.100 --> 00:35:58.120
+and then all of a sudden it's like, oh,
+
+768
+00:35:58.129 --> 00:36:00.949
+look, the photo is on the internet. Um Now
+
+769
+00:36:00.959 --> 00:36:02.649
+what's interesting about that photo is it was, it
+
+770
+00:36:02.659 --> 00:36:04.750
+was completely fake. It, it didn't, it didn't uh
+
+771
+00:36:04.760 --> 00:36:07.399
+depict the the accident at all. Uh The French
+
+772
+00:36:07.409 --> 00:36:09.830
+government was chiming in saying, you know, this, this
+
+773
+00:36:09.840 --> 00:36:13.370
+does not match, you know, any sort of uh
+
+774
+00:36:13.379 --> 00:36:16.969
+uh emergency responder vehicle type that we have in
+
+775
+00:36:16.979 --> 00:36:20.524
+France. Um But people kept looking, right? Um WHICH
+
+776
+00:36:20.534 --> 00:36:23.445
+is really, really interesting. Um And the site again
+
+777
+00:36:23.455 --> 00:36:25.604
+just would find odd things. Some of it was
+
+778
+00:36:25.614 --> 00:36:28.235
+real, some of it wasn't um it was really
+
+779
+00:36:28.245 --> 00:36:31.885
+sort of an internet version of, you know, PT
+
+780
+00:36:31.895 --> 00:36:36.084
+Barnum's Museum, right? This sort of like Sideshow uh
+
+781
+00:36:36.094 --> 00:36:39.405
+type of entertainment, which was very popular uh in
+
+782
+00:36:39.415 --> 00:36:43.195
+America uh for many decades. Um And I think
+
+783
+00:36:43.205 --> 00:36:47.850
+it is more along the lines of um storytelling,
+
+784
+00:36:47.860 --> 00:36:51.969
+right? Again, like, like, like uh cultural commentary through,
+
+785
+00:36:51.979 --> 00:36:55.790
+right? Um These, these uh stories versus something that
+
+786
+00:36:55.800 --> 00:36:58.979
+was really malicious, right? Like a form of disinformation.
+
+787
+00:36:59.229 --> 00:37:00.820
+Um Again, I, I feel like the site like
+
+788
+00:37:00.830 --> 00:37:03.010
+is very much like situated, you know, in this,
+
+789
+00:37:03.020 --> 00:37:06.320
+this longer tradition of storytelling, um which again is
+
+790
+00:37:06.330 --> 00:37:09.169
+really, really interesting. Um And it remains popular for
+
+791
+00:37:09.179 --> 00:37:11.659
+many years. It's not until really social media becomes
+
+792
+00:37:11.669 --> 00:37:13.709
+dominant in terms of like where people are going,
+
+793
+00:37:13.719 --> 00:37:15.629
+that the site kind of fades away. Um It
+
+794
+00:37:15.639 --> 00:37:17.689
+was very much like a piece of like the
+
+795
+00:37:17.699 --> 00:37:20.530
+the.com boom that sort of like lives on uh
+
+796
+00:37:20.540 --> 00:37:22.820
+right up until the point where social media uh
+
+797
+00:37:22.830 --> 00:37:25.290
+takes off. Um And again, a lot of it
+
+798
+00:37:25.300 --> 00:37:26.979
+was just again, like, it left people guessing, which
+
+799
+00:37:26.989 --> 00:37:28.209
+I think was like the most intriguing part of
+
+800
+00:37:28.219 --> 00:37:29.739
+the site, you know, it's like this could be
+
+801
+00:37:29.750 --> 00:37:32.580
+real, right? Like there's something here, right? Like maybe
+
+802
+00:37:32.590 --> 00:37:35.239
+just, maybe, no, it's real. Um And the creator
+
+803
+00:37:35.250 --> 00:37:36.639
+of the site again, was really good at creating
+
+804
+00:37:36.649 --> 00:37:40.520
+sort of ambiguous, like descriptions of things, like describing
+
+805
+00:37:40.530 --> 00:37:43.389
+things in ambiguous terms that always left people guessing,
+
+806
+00:37:43.399 --> 00:37:45.780
+uh which I think is really interesting. Um So
+
+807
+00:37:45.790 --> 00:37:47.439
+again, a lot of people were like, horrified by
+
+808
+00:37:47.449 --> 00:37:49.000
+the site, there was a lot of terrible stuff
+
+809
+00:37:49.010 --> 00:37:51.179
+on there. Uh But again, more along the lines
+
+810
+00:37:51.189 --> 00:37:54.159
+of like a sideshow attraction and not really like
+
+811
+00:37:54.169 --> 00:37:56.399
+political, right? Or, or, or sort of malicious in
+
+812
+00:37:56.409 --> 00:37:59.290
+any way. Um WHICH again, like in, in context,
+
+813
+00:37:59.300 --> 00:38:01.040
+I think uh makes sense.
+
+814
+00:38:02.219 --> 00:38:07.320
+And in what ways do computer hackers relate to
+
+815
+00:38:07.330 --> 00:38:09.989
+fake things on the internet? I mean, what's the
+
+816
+00:38:10.000 --> 00:38:11.350
+relationship here?
+
+817
+00:38:11.610 --> 00:38:13.949
+Yeah. So hackers were behind the scenes for a
+
+818
+00:38:13.959 --> 00:38:15.739
+lot of these things we've been talking about, for
+
+819
+00:38:15.750 --> 00:38:19.810
+instance, uh rotten.com uh was created by somebody uh
+
+820
+00:38:19.820 --> 00:38:22.100
+who was uh around the hacker scene, right? A
+
+821
+00:38:22.110 --> 00:38:25.199
+hacker who went by the handle soil. Uh HE
+
+822
+00:38:25.209 --> 00:38:28.030
+was an early text file writer. Um And so,
+
+823
+00:38:28.040 --> 00:38:31.080
+so text files are like these like short little
+
+824
+00:38:31.090 --> 00:38:34.189
+stories. Um Sometimes they were technical, sometimes they were,
+
+825
+00:38:34.199 --> 00:38:37.560
+and sometimes they blended storytelling and technical content. It
+
+826
+00:38:37.570 --> 00:38:39.679
+was like, it was a very low bandwidth era
+
+827
+00:38:39.689 --> 00:38:41.419
+even up through like the early two thousands, right?
+
+828
+00:38:41.429 --> 00:38:43.929
+A lot of people didn't have uh broadband of
+
+829
+00:38:43.939 --> 00:38:46.030
+any sort, right? Wi Fi wasn't really a thing.
+
+830
+00:38:46.340 --> 00:38:49.020
+Uh And so hackers find like really interesting ways
+
+831
+00:38:49.030 --> 00:38:51.780
+to communicate, like in these low bandwidth uh uh
+
+832
+00:38:51.790 --> 00:38:55.679
+uh mechanisms. Um And what's interesting about computer hacking
+
+833
+00:38:55.689 --> 00:38:57.959
+and we, we kind of stereotype it, you know,
+
+834
+00:38:57.969 --> 00:39:01.080
+oh, like these are like lone individuals, like in
+
+835
+00:39:01.090 --> 00:39:05.185
+a base breaking into systems doing these malicious things.
+
+836
+00:39:05.445 --> 00:39:09.044
+Um And that's not really the way the subculture
+
+837
+00:39:09.054 --> 00:39:11.405
+worked. Number one, it was a subculture. Uh IT
+
+838
+00:39:11.415 --> 00:39:14.864
+was very social. Um It was very creative. Uh
+
+839
+00:39:14.875 --> 00:39:18.284
+IT was more about um the creative use of
+
+840
+00:39:18.294 --> 00:39:22.044
+technology or sort of like using technology in unanticipated
+
+841
+00:39:22.054 --> 00:39:24.614
+ways, you know, the designer created this product. Um
+
+842
+00:39:24.625 --> 00:39:26.495
+But you sort of hacked it to figure out,
+
+843
+00:39:26.504 --> 00:39:29.024
+oh, like I can enable like these features, the
+
+844
+00:39:29.034 --> 00:39:32.070
+creator never really intended uh by putting these things
+
+845
+00:39:32.080 --> 00:39:36.030
+together, adding things, right, removing things. Um And there's
+
+846
+00:39:36.040 --> 00:39:38.719
+like this long history of, of, of people operating
+
+847
+00:39:38.729 --> 00:39:41.060
+in this mode. Um And so the the computer
+
+848
+00:39:41.070 --> 00:39:43.229
+hackers of like the sort of like eighties, nineties
+
+849
+00:39:43.239 --> 00:39:45.300
+and two thousands are, are doing that. But using
+
+850
+00:39:45.310 --> 00:39:49.090
+social technologies, um they're obsessed with early computer networking,
+
+851
+00:39:49.100 --> 00:39:51.580
+like bulletin board systems, again, allows them to connect
+
+852
+00:39:51.590 --> 00:39:54.949
+to other people uh who are thinking similar things.
+
+853
+00:39:55.010 --> 00:39:57.550
+Um And what's fascinating about this text file culture
+
+854
+00:39:57.560 --> 00:40:01.209
+that develops in parallel to this? Um There's just
+
+855
+00:40:01.219 --> 00:40:03.560
+a tremendous amount of fake stuff, right? Because again,
+
+856
+00:40:03.570 --> 00:40:06.854
+like these, they storytelling, right? Writing little stories, um
+
+857
+00:40:06.864 --> 00:40:09.094
+they're trying to build a proper subculture, right? That
+
+858
+00:40:09.104 --> 00:40:12.175
+usually means you need some foundational myths. Um So
+
+859
+00:40:12.185 --> 00:40:14.875
+hackers, like, you know, we're talking about these fantastic
+
+860
+00:40:14.885 --> 00:40:17.985
+like escapades, some, some of them blending some, some
+
+861
+00:40:17.995 --> 00:40:20.774
+real, you know, uh information, right? It's like people
+
+862
+00:40:20.784 --> 00:40:23.864
+were actively breaking into computer systems. Um But sometimes
+
+863
+00:40:23.875 --> 00:40:26.054
+talking about things they found there that did not
+
+864
+00:40:26.064 --> 00:40:29.274
+exist, right? Um UFO material, for instance, right? All
+
+865
+00:40:29.284 --> 00:40:32.300
+these interesting uh things that would make these text
+
+866
+00:40:32.310 --> 00:40:36.590
+files uh just so irresistible to newcomers, right? Uh
+
+867
+00:40:36.600 --> 00:40:39.370
+TO the subculture. Um AND hackers are really good
+
+868
+00:40:39.379 --> 00:40:41.729
+too at identifying flaws and systems, right? So they're
+
+869
+00:40:41.739 --> 00:40:45.129
+thinking about this media ecosystem that is evolving quite
+
+870
+00:40:45.139 --> 00:40:47.820
+rapidly, right? Especially when you get into the.com era
+
+871
+00:40:47.830 --> 00:40:51.389
+of the nineties, they're thinking about disinformation. You know,
+
+872
+00:40:51.399 --> 00:40:54.010
+it's like if you weren't like, sort of virtuous,
+
+873
+00:40:54.020 --> 00:40:57.260
+right? Most hackers were, um what ways could you
+
+874
+00:40:57.270 --> 00:41:00.949
+exploit the media, right? Uh TO social engineer people
+
+875
+00:41:00.959 --> 00:41:03.080
+uh in dangerous ways. Um You know, they're, they're
+
+876
+00:41:03.090 --> 00:41:05.419
+thinking about the media very broadly, which I think
+
+877
+00:41:05.429 --> 00:41:08.189
+is really interesting. Uh A lot of the hackers
+
+878
+00:41:08.199 --> 00:41:11.280
+I talked to were quite media savvy. Um uh
+
+879
+00:41:11.290 --> 00:41:14.820
+A lot of the, the material they were producing
+
+880
+00:41:14.830 --> 00:41:18.530
+decades ago, resonates, I think uh today because they
+
+881
+00:41:18.540 --> 00:41:21.330
+really anticipate where all this was going. Um This
+
+882
+00:41:21.340 --> 00:41:23.290
+sort of, again, like, like Marshall mcluhan, I mentioned
+
+883
+00:41:23.300 --> 00:41:25.979
+earlier, like have a really strong sense of the
+
+884
+00:41:25.989 --> 00:41:28.219
+trajectory of the technology and how people will use
+
+885
+00:41:28.229 --> 00:41:30.860
+it socially. Um And again, it's something I think
+
+886
+00:41:30.870 --> 00:41:32.989
+a lot of people don't give hackers credit for.
+
+887
+00:41:33.020 --> 00:41:35.250
+Um AGAIN, a community that, that just love the
+
+888
+00:41:35.260 --> 00:41:37.929
+internet still loves the internet. Um But the writing
+
+889
+00:41:37.939 --> 00:41:39.260
+was on the wall in terms of where a
+
+890
+00:41:39.270 --> 00:41:41.129
+lot of these things were going for them. Um
+
+891
+00:41:41.139 --> 00:41:42.620
+And again, they were trying to send out warnings
+
+892
+00:41:42.629 --> 00:41:45.239
+signs uh in some cases, but uh a a
+
+893
+00:41:45.250 --> 00:41:47.179
+lot of people were ignoring it or just didn't
+
+894
+00:41:47.189 --> 00:41:49.449
+think it would ever sort of come to fruition
+
+895
+00:41:50.600 --> 00:41:54.179
+and talking about the media more generally. How do
+
+896
+00:41:54.189 --> 00:41:58.659
+you look at the relationship or dynamic between traditional
+
+897
+00:41:58.669 --> 00:42:04.169
+media and the internet and new or alternative media
+
+898
+00:42:04.179 --> 00:42:08.139
+in this particular context of fake things.
+
+899
+00:42:08.590 --> 00:42:11.610
+Yeah. So I, I'll point out again, like there,
+
+900
+00:42:11.620 --> 00:42:13.219
+there are a lot of assumptions we make about
+
+901
+00:42:13.229 --> 00:42:17.969
+the traditional media versus um the, the internet today,
+
+902
+00:42:17.979 --> 00:42:21.330
+these digital mediums that we use for communication. Um
+
+903
+00:42:21.340 --> 00:42:24.850
+Fake news was always a problem. Um In, in
+
+904
+00:42:24.860 --> 00:42:27.850
+my book, I look at um cases of this.
+
+905
+00:42:27.860 --> 00:42:32.050
+Um uh AGAIN, journalists have a habit of sensationalizing
+
+906
+00:42:32.060 --> 00:42:36.020
+stories that is nothing new. Um There, there are
+
+907
+00:42:36.030 --> 00:42:38.320
+strategies you can use if you're being interviewed, I'm
+
+908
+00:42:38.330 --> 00:42:40.860
+not doing this here. But when you interviewed to
+
+909
+00:42:40.870 --> 00:42:42.979
+like inject, you know, information that, you know, the
+
+910
+00:42:42.989 --> 00:42:45.860
+reporter is going to report on, uh because there
+
+911
+00:42:45.870 --> 00:42:48.729
+is such a good hook there. Um A lot
+
+912
+00:42:48.739 --> 00:42:51.020
+of traditional media is a business and of course,
+
+913
+00:42:51.030 --> 00:42:53.850
+you need to sell product. Um And so again,
+
+914
+00:42:53.860 --> 00:42:57.290
+a lot of sensational reporting becomes problematic. Um Again,
+
+915
+00:42:57.300 --> 00:43:00.530
+that's nothing new. Um I think what, what is
+
+916
+00:43:00.540 --> 00:43:05.199
+new um the participatory nature, right? Because again, there's
+
+917
+00:43:05.209 --> 00:43:09.169
+a lot of gatekeeping in traditional media. Um You
+
+918
+00:43:09.179 --> 00:43:11.870
+know, you have to like, you know, go through
+
+919
+00:43:11.879 --> 00:43:13.899
+a process to become a professional reporter, right? You
+
+920
+00:43:13.909 --> 00:43:15.229
+know, there's a lot of training, right? You need
+
+921
+00:43:15.239 --> 00:43:18.639
+credentials. Um IF you're gonna like work in prestige
+
+922
+00:43:18.649 --> 00:43:20.820
+uh media, right? Like you have to be elite,
+
+923
+00:43:20.830 --> 00:43:22.250
+right? Um You have to like go to the
+
+924
+00:43:22.260 --> 00:43:25.199
+right schools know the right people um you know,
+
+925
+00:43:25.209 --> 00:43:27.699
+be a really good writer, all these different things.
+
+926
+00:43:27.810 --> 00:43:30.280
+Um You can avoid all of that gatekeeping if
+
+927
+00:43:30.290 --> 00:43:33.639
+you just publish your own stuff online, right? You
+
+928
+00:43:33.649 --> 00:43:36.245
+can become a youtuber, right? Say whatever you want,
+
+929
+00:43:36.294 --> 00:43:38.925
+right? You can like create tiktoks and say whatever
+
+930
+00:43:38.935 --> 00:43:41.294
+you want. Um So you have this divide now
+
+931
+00:43:41.304 --> 00:43:44.304
+between like a very elite, like, you know, like
+
+932
+00:43:44.314 --> 00:43:46.885
+um media, right? Like that is sort of like
+
+933
+00:43:46.895 --> 00:43:50.395
+pushing content top down. Um And then everybody on
+
+934
+00:43:50.405 --> 00:43:52.875
+the internet, right, creating their own media and it's
+
+935
+00:43:52.885 --> 00:43:54.925
+coming from the bottom up. Um I think that's
+
+936
+00:43:54.935 --> 00:43:57.084
+a huge change uh in the media, right? Because
+
+937
+00:43:57.094 --> 00:43:59.235
+that really didn't exist until very recently with these
+
+938
+00:43:59.245 --> 00:44:02.600
+tech, these digital technologies, right? With computer networking. Um
+
+939
+00:44:02.610 --> 00:44:05.379
+THAT again, that's not to say that 11 way
+
+940
+00:44:05.389 --> 00:44:06.840
+is better than the other. I think there are
+
+941
+00:44:06.850 --> 00:44:09.280
+advantages to both, right? Um A lot of that
+
+942
+00:44:09.290 --> 00:44:12.719
+gatekeeping, you know, uh if you have uh really
+
+943
+00:44:12.729 --> 00:44:15.969
+honest journalists, right, that are really scrutinizing their, their
+
+944
+00:44:15.979 --> 00:44:19.449
+sources uh that are trying to envoi of sensationalism,
+
+945
+00:44:19.459 --> 00:44:21.489
+right? Like you're gonna get really good coverage of
+
+946
+00:44:21.500 --> 00:44:25.340
+a topic um that said um sometimes, right, like
+
+947
+00:44:25.350 --> 00:44:28.000
+the wisdom of the crowd is valuable, right? I
+
+948
+00:44:28.010 --> 00:44:31.090
+know sometimes public sentiment uh uh is telling you
+
+949
+00:44:31.100 --> 00:44:33.219
+something different than what the reporters are telling you,
+
+950
+00:44:33.229 --> 00:44:35.330
+right? And that could be really important. Um But
+
+951
+00:44:35.340 --> 00:44:37.610
+there's a lot again of storytelling on, on both
+
+952
+00:44:37.620 --> 00:44:39.770
+sides, um which makes it complicated
+
+953
+00:44:40.919 --> 00:44:44.860
+and what does A I add to the picture
+
+954
+00:44:44.870 --> 00:44:47.399
+here when it comes to fake things on the
+
+955
+00:44:47.409 --> 00:44:50.219
+internet. You know, I have to ask you this
+
+956
+00:44:50.229 --> 00:44:54.239
+because people are obsessed with A I now because
+
+957
+00:44:54.250 --> 00:44:57.889
+of open A I chat GP T. So all
+
+958
+00:44:57.899 --> 00:44:58.860
+of that. So,
+
+959
+00:45:00.280 --> 00:45:01.860
+so again, I'm a computer scientist so I, I
+
+960
+00:45:01.870 --> 00:45:04.850
+try to take a reasonable view of this. Um
+
+961
+00:45:05.000 --> 00:45:07.520
+II, I, I'm not freaking out about this at
+
+962
+00:45:07.530 --> 00:45:10.219
+all. Um I, I don't think this is like
+
+963
+00:45:10.229 --> 00:45:13.790
+an incredible revolution that appeared suddenly uh again, a
+
+964
+00:45:13.800 --> 00:45:16.629
+lot of that is sensational reporting around this and
+
+965
+00:45:16.639 --> 00:45:20.290
+also um the pr operations of these companies that
+
+966
+00:45:20.300 --> 00:45:23.620
+are producing these products, like working in overdrive to
+
+967
+00:45:23.629 --> 00:45:26.979
+promote these sensational uh takes on the technology. I
+
+968
+00:45:26.989 --> 00:45:29.239
+do think it's really important. I think it's interesting
+
+969
+00:45:29.379 --> 00:45:31.560
+though in the book, I look at it in
+
+970
+00:45:31.570 --> 00:45:35.360
+context. Um THERE is a long history uh behind
+
+971
+00:45:35.370 --> 00:45:38.389
+things like generative A I um that again is
+
+972
+00:45:38.399 --> 00:45:41.780
+largely being ignored. Um uh WHICH uh you know,
+
+973
+00:45:41.790 --> 00:45:42.840
+part of that I think is, is there's a
+
+974
+00:45:42.850 --> 00:45:45.739
+lot of complicated technical material, right that you have
+
+975
+00:45:45.750 --> 00:45:48.229
+to sort of sift through. Um But the idea
+
+976
+00:45:48.239 --> 00:45:51.189
+of synthesizing content um goes back decades. Um There
+
+977
+00:45:51.199 --> 00:45:52.949
+was a lot of work on it. Um It
+
+978
+00:45:52.959 --> 00:45:54.649
+was just really hard to do in a practical
+
+979
+00:45:54.659 --> 00:45:57.010
+sense because you didn't have the internet in like
+
+980
+00:45:57.020 --> 00:46:00.030
+the 19 sixties. I'm sure you had really good
+
+981
+00:46:00.040 --> 00:46:04.229
+um uh probabilistic generative models operating in a Bayesian
+
+982
+00:46:04.239 --> 00:46:06.290
+context, et cetera. But that was like all math,
+
+983
+00:46:06.340 --> 00:46:09.600
+you know, on the chalkboard, um you didn't have
+
+984
+00:46:09.610 --> 00:46:13.459
+uh graphical processing units, right? These like supercomputers, right,
+
+985
+00:46:13.469 --> 00:46:16.260
+that are packaged up for our home computers, um
+
+986
+00:46:16.270 --> 00:46:18.120
+which is really difficult to do, right? So again,
+
+987
+00:46:18.129 --> 00:46:20.419
+you see this inflection point more recently where like
+
+988
+00:46:20.429 --> 00:46:22.610
+got a ton of data on the internet, you
+
+989
+00:46:22.620 --> 00:46:24.340
+also have these GP US, you can put these
+
+990
+00:46:24.350 --> 00:46:26.379
+things together and all of a sudden, right? Um
+
+991
+00:46:26.389 --> 00:46:31.020
+THESE older ideas become uh quite useful. Um And
+
+992
+00:46:31.030 --> 00:46:32.750
+I think the way people are using these things
+
+993
+00:46:32.760 --> 00:46:35.790
+is actually mostly good. Um Again, coming back to
+
+994
+00:46:35.800 --> 00:46:37.580
+a lot of these like fandoms I've been talking
+
+995
+00:46:37.590 --> 00:46:39.659
+about, you know, there are all sorts of interesting
+
+996
+00:46:39.669 --> 00:46:42.649
+uh generative models that can like recast content in
+
+997
+00:46:42.659 --> 00:46:45.479
+the style of whatever you love. Um There are
+
+998
+00:46:45.489 --> 00:46:47.995
+a lot of people, people creating digital art. Um
+
+999
+00:46:48.004 --> 00:46:49.864
+YOU know, there's, there's an entire new sort of
+
+1000
+00:46:49.875 --> 00:46:52.205
+opening for artists like, you know, in this, this
+
+1001
+00:46:52.215 --> 00:46:55.165
+digital space, uh a lot of uh a lot
+
+1002
+00:46:55.175 --> 00:46:57.614
+of creativity, uh A lot of people like, like
+
+1003
+00:46:57.625 --> 00:47:01.245
+doing really interesting installations, right? Using combinations of like,
+
+1004
+00:47:01.254 --> 00:47:04.705
+you know, um uh uh observer interaction with a
+
+1005
+00:47:04.715 --> 00:47:06.945
+generative A I system to change, you know, the
+
+1006
+00:47:06.955 --> 00:47:10.290
+sort of experience from, from person to person. Um
+
+1007
+00:47:10.300 --> 00:47:12.590
+All of this is really great. Um Now, of
+
+1008
+00:47:12.600 --> 00:47:14.370
+course, again, there, there is a lot of hysteria
+
+1009
+00:47:14.379 --> 00:47:15.979
+over this as well. Right. It was like, oh,
+
+1010
+00:47:15.989 --> 00:47:18.189
+no chat GP. T, right. It's gonna, you know,
+
+1011
+00:47:18.199 --> 00:47:20.850
+end education as we know it because all students
+
+1012
+00:47:20.860 --> 00:47:23.649
+will cheat as, as an educator. I, I think
+
+1013
+00:47:23.659 --> 00:47:25.780
+that's like a ludicrous proposition because you really have
+
+1014
+00:47:25.790 --> 00:47:27.715
+like, no faith yourself as an educator. You have
+
+1015
+00:47:27.725 --> 00:47:30.054
+no, you have no trust in your students and
+
+1016
+00:47:30.064 --> 00:47:32.885
+they're always gonna be cheaters. Um. Right. I think
+
+1017
+00:47:32.895 --> 00:47:35.084
+there's like some baseline of cheating that, like doesn't
+
+1018
+00:47:35.094 --> 00:47:37.465
+fluctuate very much and like the cheaters are just
+
+1019
+00:47:37.475 --> 00:47:39.554
+going to adopt new tools. Uh And then you
+
+1020
+00:47:39.564 --> 00:47:40.594
+have a lot of students that actually want to
+
+1021
+00:47:40.604 --> 00:47:42.094
+learn, right? Um And they're not going to use
+
+1022
+00:47:42.104 --> 00:47:44.514
+it that way. Um I, yeah, I, I think,
+
+1023
+00:47:44.524 --> 00:47:46.455
+I think this is kind of silly. Um And
+
+1024
+00:47:46.465 --> 00:47:48.014
+the other thing too is like, these systems again,
+
+1025
+00:47:48.024 --> 00:47:52.225
+are not, they're not quite human like either. Um
+
+1026
+00:47:52.739 --> 00:47:54.629
+You know, especially with like image and video synthesis
+
+1027
+00:47:54.639 --> 00:47:56.459
+is often very easy to see that, you know,
+
+1028
+00:47:56.469 --> 00:47:57.889
+oh, this is like an image that's come from
+
+1029
+00:47:57.899 --> 00:47:59.959
+one of these systems. In fact, I can almost
+
+1030
+00:47:59.969 --> 00:48:01.199
+tell now I've looked at so many, you know,
+
+1031
+00:48:01.209 --> 00:48:02.959
+like, like mid journey dolly images. I can, I
+
+1032
+00:48:02.969 --> 00:48:04.939
+can sort of like fingerprint the system just by
+
+1033
+00:48:04.949 --> 00:48:06.149
+looking at the image where it's like, oh, like
+
+1034
+00:48:06.159 --> 00:48:08.699
+that came from mid journey, right? Like, you know,
+
+1035
+00:48:08.709 --> 00:48:10.915
+it's like, it's not quite, I think at the
+
+1036
+00:48:10.925 --> 00:48:14.544
+point where again, like uh uh everything is, is
+
+1037
+00:48:14.554 --> 00:48:16.864
+is falling apart. Um And again, for all the
+
+1038
+00:48:16.875 --> 00:48:18.794
+reasons I mentioned too, in terms of like how
+
+1039
+00:48:18.804 --> 00:48:21.794
+people sort of vet information. II, I don't think
+
+1040
+00:48:21.804 --> 00:48:25.205
+this is um a disaster scenario. II, I think
+
+1041
+00:48:25.215 --> 00:48:27.165
+for the most part, these technologies are pretty interesting
+
+1042
+00:48:27.175 --> 00:48:27.544
+and good.
+
+1043
+00:48:28.709 --> 00:48:32.129
+So I have two more questions here. Uh The
+
+1044
+00:48:32.139 --> 00:48:36.080
+next one is uh II, I think you've already
+
+1045
+00:48:36.090 --> 00:48:40.189
+sort of touched on these slightly earlier. But could
+
+1046
+00:48:40.199 --> 00:48:43.610
+you tell us about this idea of myth building?
+
+1047
+00:48:43.620 --> 00:48:45.979
+I mean, what is myth building? And in what
+
+1048
+00:48:45.989 --> 00:48:50.090
+ways does it relate to fake things on the
+
+1049
+00:48:50.100 --> 00:48:50.649
+internet?
+
+1050
+00:48:51.350 --> 00:48:54.889
+Yeah. So turning back to the field of anthropology,
+
+1051
+00:48:54.899 --> 00:48:56.439
+um a lot of what I'm talking about here
+
+1052
+00:48:56.449 --> 00:48:59.729
+is really well known uh e especially like uh
+
+1053
+00:48:59.739 --> 00:49:03.780
+among scholars who study different cultures, um study, you
+
+1054
+00:49:03.790 --> 00:49:06.010
+know, studies like trying to understand like how we
+
+1055
+00:49:06.020 --> 00:49:10.689
+communicate, like how we, we interact as peoples. Um
+
+1056
+00:49:10.699 --> 00:49:15.159
+The stories are really diagnostic. Um Levy Strauss, Claude
+
+1057
+00:49:15.169 --> 00:49:18.389
+Levy Strauss. Um He's an incredibly important thinker uh
+
+1058
+00:49:18.399 --> 00:49:21.030
+from the 20th century. I, I think he has
+
+1059
+00:49:21.040 --> 00:49:24.330
+just an excellent handle on, on how people communicate
+
+1060
+00:49:24.340 --> 00:49:27.550
+in general. Uh And I'm rather shocked that more
+
+1061
+00:49:27.560 --> 00:49:30.610
+people don't talk about the internet through the lens
+
+1062
+00:49:30.620 --> 00:49:33.419
+of Levy Strauss. So he argues that people think
+
+1063
+00:49:33.429 --> 00:49:37.689
+in two different ways. Uh One is rational thought
+
+1064
+00:49:37.699 --> 00:49:39.820
+and this is really in the present day, like
+
+1065
+00:49:39.830 --> 00:49:41.929
+all we tend to think about when we think
+
+1066
+00:49:41.939 --> 00:49:44.860
+about thinking, right? You know, it's like people are
+
+1067
+00:49:44.870 --> 00:49:48.570
+highly rational creatures, right? We filter everything through logic.
+
+1068
+00:49:48.590 --> 00:49:52.969
+Uh We only use observable evidence to make decisions
+
+1069
+00:49:52.979 --> 00:49:55.239
+uh that will lead to our behaviors in the,
+
+1070
+00:49:55.250 --> 00:49:59.209
+in the world. And when you see people thinking
+
+1071
+00:49:59.219 --> 00:50:02.439
+things that's irrational and that's bad, right? Like we
+
+1072
+00:50:02.449 --> 00:50:05.379
+should only think purely rationally. Um If you look
+
+1073
+00:50:05.389 --> 00:50:07.209
+at the history of the internet, um there's actually
+
+1074
+00:50:07.219 --> 00:50:10.830
+like uh like a prominent subculture that develops around
+
+1075
+00:50:10.840 --> 00:50:13.229
+like this, this idea of rational thought where you
+
+1076
+00:50:13.239 --> 00:50:15.649
+get these rationalists, uh Many of them are computer
+
+1077
+00:50:15.659 --> 00:50:18.389
+scientists and mathematicians. Um And they have again, this,
+
+1078
+00:50:18.399 --> 00:50:21.620
+like very specific notion of what thinking should be
+
+1079
+00:50:21.629 --> 00:50:24.310
+and they, they just despise everything, right? That isn't
+
+1080
+00:50:24.320 --> 00:50:28.000
+that. Um Now, rational thinking is important. Again, I'm
+
+1081
+00:50:28.010 --> 00:50:31.370
+a computer scientist, I appreciate, right? What logic allows
+
+1082
+00:50:31.379 --> 00:50:34.070
+us to do all these digital technologies we're talking
+
+1083
+00:50:34.080 --> 00:50:37.590
+about are underpinned by, right, formal logic. Um But
+
+1084
+00:50:37.600 --> 00:50:40.840
+at the same time that misses a lot of
+
+1085
+00:50:41.304 --> 00:50:42.935
+how we think, right, on a day to day
+
+1086
+00:50:42.945 --> 00:50:45.405
+basis for every, we started talking about, you know,
+
+1087
+00:50:45.415 --> 00:50:49.094
+this podcast, um the imagination dreaming. Um All of
+
+1088
+00:50:49.104 --> 00:50:52.645
+these things fit into what Levi Strauss describes as
+
+1089
+00:50:52.655 --> 00:50:58.235
+mythical thought. Um So he argues equally important to
+
+1090
+00:50:58.245 --> 00:51:02.625
+rational thought is mythical thought thinking beyond your immediate
+
+1091
+00:51:02.635 --> 00:51:06.139
+circumstances through fiction. Um This is extremely important for
+
+1092
+00:51:06.149 --> 00:51:09.330
+problem solving. He argues because you're quite limited in
+
+1093
+00:51:09.340 --> 00:51:12.340
+terms of your immediate observations. Um If I can
+
+1094
+00:51:12.350 --> 00:51:14.500
+think of something that doesn't exist now. Maybe I
+
+1095
+00:51:14.510 --> 00:51:16.520
+can figure out how to build it, you know,
+
+1096
+00:51:16.530 --> 00:51:19.780
+I can cobble together all these pieces, um, and
+
+1097
+00:51:19.790 --> 00:51:24.439
+bring into being something fundamentally new. Um, IRONICALLY, um,
+
+1098
+00:51:24.449 --> 00:51:27.850
+engineers, scientists, all these highly rational people do this
+
+1099
+00:51:27.860 --> 00:51:29.600
+all of the time. Right. If they don't use
+
+1100
+00:51:29.610 --> 00:51:32.389
+their imagination, they're kind of stuck. Right. Uh, WITH
+
+1101
+00:51:32.399 --> 00:51:34.820
+what they have in their immediate surroundings and that's
+
+1102
+00:51:34.830 --> 00:51:37.804
+not good. Um, SO Strauss has a sweeping sort
+
+1103
+00:51:37.814 --> 00:51:40.274
+of view of all this, right? Um All of
+
+1104
+00:51:40.284 --> 00:51:43.264
+the, the sort of, you know, creativity, uh all
+
+1105
+00:51:43.274 --> 00:51:45.455
+the myths, all of the religions, right? He wraps
+
+1106
+00:51:45.465 --> 00:51:47.614
+all of this up and he's arguing, you can't
+
+1107
+00:51:47.625 --> 00:51:50.504
+really exist successfully uh as a person unless you
+
+1108
+00:51:50.514 --> 00:51:52.625
+do both of these things uh in your mind.
+
+1109
+00:51:52.909 --> 00:51:54.570
+Um And if you view the internet in that
+
+1110
+00:51:54.580 --> 00:51:56.090
+context and it makes a lot more sense. Right?
+
+1111
+00:51:56.100 --> 00:51:59.370
+It's like, oh, like it's not this purely rational
+
+1112
+00:51:59.379 --> 00:52:01.389
+space. It was built out to be, right? Those
+
+1113
+00:52:01.399 --> 00:52:04.709
+rationalist communities were completely wrong about this even earlier.
+
+1114
+00:52:04.719 --> 00:52:06.570
+Right? There's this notion of the internet as an
+
+1115
+00:52:06.580 --> 00:52:10.149
+information super highway. Uh Right. It'll be a database
+
+1116
+00:52:10.159 --> 00:52:11.959
+of facts, right. You know, this is like the
+
+1117
+00:52:11.969 --> 00:52:14.270
+marketing of the internet, you know, in the nineties,
+
+1118
+00:52:14.280 --> 00:52:16.469
+uh, big companies love this idea. You know, it's
+
+1119
+00:52:16.479 --> 00:52:19.090
+like we'll go there for commerce and education, it
+
+1120
+00:52:19.100 --> 00:52:21.939
+will only be serious, right? Um And this is
+
+1121
+00:52:21.949 --> 00:52:24.979
+gonna like, you know, propel humanity forward. Um, BUT
+
+1122
+00:52:24.989 --> 00:52:26.489
+that's not really why people were going to the
+
+1123
+00:52:26.500 --> 00:52:28.429
+internet, right? They realized, wait a minute, all these
+
+1124
+00:52:28.439 --> 00:52:32.010
+interesting creative uh pieces of software exist there. All
+
+1125
+00:52:32.020 --> 00:52:34.975
+these virtual communities are being bootstrapped. Um We love
+
+1126
+00:52:34.985 --> 00:52:37.064
+the social aspects of it, right? That's much better
+
+1127
+00:52:37.074 --> 00:52:39.104
+than this information Super Highway thing, which is pretty
+
+1128
+00:52:39.114 --> 00:52:42.564
+bland uh and corporate. Um AND that really fulfills,
+
+1129
+00:52:42.574 --> 00:52:44.804
+right? What mcluhan is talking about when he envisions
+
+1130
+00:52:44.814 --> 00:52:46.274
+this, which is very much in the mood again
+
+1131
+00:52:46.284 --> 00:52:48.425
+of Levy Strauss, right? These were all very popular
+
+1132
+00:52:48.435 --> 00:52:51.504
+ideas uh in the mid 20th century. Um And
+
+1133
+00:52:51.514 --> 00:52:53.205
+so that I think is a much better way
+
+1134
+00:52:53.215 --> 00:52:55.145
+to think about the internet, which I think, you
+
+1135
+00:52:55.155 --> 00:52:56.264
+know, if, if, if you were thinking about that,
+
+1136
+00:52:56.274 --> 00:52:58.594
+like may chill you out if you're so paranoid
+
+1137
+00:52:58.604 --> 00:53:00.544
+about uh people faking things.
+
+1138
+00:53:01.580 --> 00:53:04.100
+And do you think that this is also something
+
+1139
+00:53:04.110 --> 00:53:08.000
+to do with the way that we create relationships
+
+1140
+00:53:08.010 --> 00:53:10.590
+with other people, how we relate socially? Because, I
+
+1141
+00:53:10.600 --> 00:53:13.159
+mean, in terms of how we build a social
+
+1142
+00:53:13.169 --> 00:53:17.919
+identity, the kinds of uh shared social identities that
+
+1143
+00:53:17.929 --> 00:53:20.679
+we have. I mean, they are very much based
+
+1144
+00:53:20.689 --> 00:53:22.909
+on myth building as well.
+
+1145
+00:53:23.149 --> 00:53:25.540
+Yeah, exactly. Yeah, foundational myths, right? I mean, those
+
+1146
+00:53:25.550 --> 00:53:27.800
+are key to any sort of culture, any sort
+
+1147
+00:53:27.810 --> 00:53:31.000
+of community. Um And, and again, they're, they're really
+
+1148
+00:53:31.010 --> 00:53:33.060
+useful, right? Um And I think it was fascinating
+
+1149
+00:53:33.070 --> 00:53:35.389
+going back to like antiquity, right? It's like almost
+
+1150
+00:53:35.399 --> 00:53:37.489
+everything that is serious is like filtered through the
+
+1151
+00:53:37.500 --> 00:53:40.189
+Homeric poems, right? Like why are people doing that?
+
+1152
+00:53:40.469 --> 00:53:42.629
+Um It's because they can evoke, right? The, the
+
+1153
+00:53:42.639 --> 00:53:46.419
+characters from those poems to express like certain sentiments,
+
+1154
+00:53:46.429 --> 00:53:48.979
+right? Certain political ideas is, and it would put
+
+1155
+00:53:48.989 --> 00:53:51.290
+everybody on a common basis, right? Everybody was speaking
+
+1156
+00:53:51.300 --> 00:53:54.110
+that language. Um THAT hasn't changed. Right. Again, you
+
+1157
+00:53:54.120 --> 00:53:56.429
+see lots of different communities doing this. Um We
+
+1158
+00:53:56.439 --> 00:53:58.489
+do this in politics today, right? We do this
+
+1159
+00:53:58.500 --> 00:54:00.149
+like, you know, in all these different subcultures we've
+
+1160
+00:54:00.159 --> 00:54:02.340
+been talking about. Um AND all that is actually
+
+1161
+00:54:02.350 --> 00:54:04.459
+good, right? That's important. Um That's always been a
+
+1162
+00:54:04.469 --> 00:54:06.350
+piece of human communication.
+
+1163
+00:54:07.489 --> 00:54:10.979
+So my last question then how much of a
+
+1164
+00:54:10.989 --> 00:54:15.139
+problem do you think fake things on the internet
+
+1165
+00:54:15.149 --> 00:54:16.669
+are actually?
+
+1166
+00:54:17.800 --> 00:54:19.199
+Yeah, I I don't, as I've been saying, I
+
+1167
+00:54:19.209 --> 00:54:23.600
+don't think it's the existential problem people are describing
+
+1168
+00:54:23.610 --> 00:54:26.770
+it as um I think that is pretty silly.
+
+1169
+00:54:26.780 --> 00:54:29.959
+That is an overgeneralization and in some sense, something
+
+1170
+00:54:29.969 --> 00:54:32.300
+that is fake. Um That said we did talk
+
+1171
+00:54:32.310 --> 00:54:34.500
+about some legitimate social problems we should be very
+
+1172
+00:54:34.510 --> 00:54:36.879
+concerned about. Um Like, I don't think it's great
+
+1173
+00:54:36.889 --> 00:54:39.550
+that middle schoolers are creating fake porn, right? That's
+
+1174
+00:54:39.560 --> 00:54:43.250
+really bad. We should do something about that. Um
+
+1175
+00:54:43.260 --> 00:54:46.449
+II I don't think great like trolling, right? That's
+
+1176
+00:54:46.459 --> 00:54:49.590
+like bullying people online, right? Like and humiliating them
+
+1177
+00:54:49.600 --> 00:54:52.360
+using right? Targeted fake content is good. Um I
+
+1178
+00:54:52.370 --> 00:54:55.679
+don't think it's good that elderly people are being
+
+1179
+00:54:55.689 --> 00:54:59.280
+targeted by scams using synthetic voice tracks of the
+
+1180
+00:54:59.290 --> 00:55:02.360
+relatives. Um These are, these are the real problems
+
+1181
+00:55:02.370 --> 00:55:04.360
+I think we should be focused on. Um And
+
+1182
+00:55:04.370 --> 00:55:06.070
+again, like thinking about how we want to use
+
+1183
+00:55:06.080 --> 00:55:09.300
+this technology. Well, um I think if we backed
+
+1184
+00:55:09.310 --> 00:55:12.300
+off the hysteria related to partisan politics, right, we
+
+1185
+00:55:12.310 --> 00:55:15.320
+could more effectively respond to these problems and probably
+
+1186
+00:55:15.330 --> 00:55:17.959
+be ha happier, healthier and enjoy the internet a
+
+1187
+00:55:17.969 --> 00:55:18.919
+bit more
+
+1188
+00:55:20.129 --> 00:55:22.989
+great. So the book is again a history of
+
+1189
+00:55:23.000 --> 00:55:25.729
+fake things on the internet. I'm leaving a link
+
+1190
+00:55:25.739 --> 00:55:28.370
+to it in the description of the interview and
+
+1191
+00:55:28.379 --> 00:55:31.000
+doctor Ser, apart from the book, would you like
+
+1192
+00:55:31.010 --> 00:55:33.520
+to tell people where they can find you and
+
+1193
+00:55:33.530 --> 00:55:35.149
+your work on the internet?
+
+1194
+00:55:35.790 --> 00:55:38.370
+Yeah, absolutely. Um So I'm easy to find, I'm
+
+1195
+00:55:38.379 --> 00:55:40.169
+a professor at the University of Notre Dame. Um
+
+1196
+00:55:40.179 --> 00:55:42.530
+If you just Google my name or use any
+
+1197
+00:55:42.540 --> 00:55:46.570
+of the many now generative A I search tools,
+
+1198
+00:55:46.580 --> 00:55:49.250
+uh you can find my website but um if
+
+1199
+00:55:49.260 --> 00:55:53.169
+you want to shortcut, it's just uh WJ shire.com.
+
+1200
+00:55:53.500 --> 00:55:57.860
+Uh I'm also uh on X slash Twitter. Um
+
+1201
+00:55:57.870 --> 00:55:59.340
+It's just my name is my handle. You can
+
+1202
+00:55:59.350 --> 00:56:01.760
+easily find me there. Um Feel free again to
+
+1203
+00:56:01.770 --> 00:56:04.560
+shoot me a message. Um If you're interested uh
+
+1204
+00:56:04.570 --> 00:56:06.080
+in continuing the dialogue here.
+
+1205
+00:56:06.919 --> 00:56:09.530
+Great. So thank you so much for taking the
+
+1206
+00:56:09.540 --> 00:56:11.659
+time to come on the show. It's been really
+
+1207
+00:56:11.669 --> 00:56:12.659
+fun to talk with you.
+
+1208
+00:56:13.449 --> 00:56:15.699
+Excellent. Thank you Ricardo. This is a great conversation.
+
+1209
+00:56:16.780 --> 00:56:19.510
+Hi guys. Thank you for watching this interview. Until
+
+1210
+00:56:19.520 --> 00:56:21.679
+the end. If you liked it, please share it.
+
+1211
+00:56:21.689 --> 00:56:24.489
+Leave a like and hit the subscription button. The
+
+1212
+00:56:24.500 --> 00:56:26.580
+show is brought to you by N Lights Learning
+
+1213
+00:56:26.590 --> 00:56:29.610
+and development. Then differently check the website at N
+
+1214
+00:56:29.620 --> 00:56:33.580
+lights.com and also please consider supporting the show on
+
+1215
+00:56:33.590 --> 00:56:36.629
+Patreon or paypal. I would also like to give
+
+1216
+00:56:36.639 --> 00:56:38.919
+a huge thank you to my main patrons and
+
+1217
+00:56:38.929 --> 00:56:43.159
+paypal supporters, Perera Larson, Jerry Muller and Frederick Suno
+
+1218
+00:56:43.199 --> 00:56:46.239
+Bernard Seche O of Alex Adam Castle Matthew Whitten
+
+1219
+00:56:46.320 --> 00:56:49.540
+bear. No wolf, Tim Ho Erica LJ Condors Philip
+
+1220
+00:56:49.550 --> 00:56:52.000
+Forrest Connolly. Then the Met Robert Wine in NAI
+
+1221
+00:56:52.830 --> 00:56:56.199
+Z Mark Nevs calling in Holbrook Field, Governor Mikel
+
+1222
+00:56:56.209 --> 00:56:59.689
+Stormer Samuel Andre Francis for Agns Ferger K and
+
+1223
+00:57:00.020 --> 00:57:03.060
+H her meal and Lain Jung Y and the
+
+1224
+00:57:03.239 --> 00:57:06.959
+Samuel K. Hes Mark Smith J. Tom Hummel S
+
+1225
+00:57:07.270 --> 00:57:10.689
+friends, David Sloan Wilson, ya dear, Roman Roach Diego
+
+1226
+00:57:11.020 --> 00:57:15.729
+and Jan Punter Romani Charlotte. Bli Nico Barba, Adam
+
+1227
+00:57:15.739 --> 00:57:19.239
+Hunt, Pavlo Stassi, Na Me, Gary G Alman Sam
+
+1228
+00:57:19.310 --> 00:57:23.979
+of Zed YPJ Barboa, Julian Price Edward Hall, Eden
+
+1229
+00:57:23.989 --> 00:57:28.199
+Broner Douglas Fry Franca, Beto Lati Cortez or Solis
+
+1230
+00:57:29.219 --> 00:57:35.340
+Scott Zachary ftdw Daniel Friedman, William Buckner, Paul Giorgio,
+
+1231
+00:57:36.090 --> 00:57:39.360
+Luke Loki, Georgio Theophano, Chris Williams and Peter W
+
+1232
+00:57:39.560 --> 00:57:43.510
+as in David Williams, the Ausa Anton Erickson Charles
+
+1233
+00:57:43.520 --> 00:57:48.850
+Murray, Alex Shaw, Marie Martinez, Coralie Chevalier, Bangalore Larry
+
+1234
+00:57:48.860 --> 00:57:53.610
+Dey junior, Old Ebon Starry Michael Bailey. Then Spur
+
+1235
+00:57:53.620 --> 00:57:57.909
+by Robert Grassy Zorn, Jeff mcmahon, Jake Zul Barnabas
+
+1236
+00:57:57.929 --> 00:58:01.629
+Radick, Mark Kempel, Thomas Dvor Luke Neeson, Chris Tory
+
+1237
+00:58:01.639 --> 00:58:05.860
+Kimberley Johnson, Benjamin Gilbert Jessica. No. Week, Linda Brendan
+
+1238
+00:58:05.870 --> 00:58:11.350
+Nicholas Carlson, Ismael Bensley Man, George Katis Valentine Steinman,
+
+1239
+00:58:11.360 --> 00:58:17.179
+Perras, Kate Van Goler, Alexander Abert Liam Dan Biar
+
+1240
+00:58:17.510 --> 00:58:23.149
+Masoud Ali Mohammadi Perpendicular Jer Urla. Good enough, Gregory
+
+1241
+00:58:23.159 --> 00:58:27.459
+Hastings David Pins of Sean Nelson, Mike Levin and
+
+1242
+00:58:27.489 --> 00:58:30.735
+Jos Net. A special thanks to my producers is
+
+1243
+00:58:30.745 --> 00:58:33.385
+our web, Jim Frank Luca Toni, Tom Vig and
+
+1244
+00:58:33.395 --> 00:58:37.844
+Bernard N Cortes Dixon, Bendik Muller Thomas Trumble Catherine
+
+1245
+00:58:37.854 --> 00:58:41.014
+and Patrick Tobin, John Carlman, Negro, Nick Ortiz and
+
+1246
+00:58:41.024 --> 00:58:44.304
+Nick Golden. And to my executive producers, Matthew lavender,
+
+1247
+00:58:44.435 --> 00:58:47.614
+Si Adrian Bogdan Knits and Rosie. Thank you for
+
+1248
+00:58:47.625 --> 00:58:47.935
+all.
+

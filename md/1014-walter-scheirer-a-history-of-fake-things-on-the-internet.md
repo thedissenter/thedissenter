@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1014 Walter Scheirer: A History of Fake Things on the Internet",
-	"youtubeid": "CM-9TgoVBRA"
+	"vtt": "1014.vtt",
+	"youtubeid": "CM-9TgoVBRA",
+	"transcript": "1014.lines.json"
 }
 ---
 RECORDED ON MAY 17th 2024.  
