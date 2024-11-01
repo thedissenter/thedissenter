@@ -39,6 +39,6 @@ Time Links:
 
 Follow Dr. Lukaszewski’s work:  
 Faculty page: https://bit.ly/3U0fw1I  
-Website: https://shorturl.at/qAFX0  
+Website: https://tinyurl.com/3jajwack  
 ResearchGate profile: https://shorturl.at/dDOWY  
 Twitter handle: @SpeciesTypical
