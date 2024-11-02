@@ -20,7 +20,7 @@
 RECORDED ON MAY 17th 2024.  
 Dr. Walter Scheirer is Dennis O. Doughty Collegiate Professor of Computer Science and Engineering at the University of Notre Dame. He is the author of A History of Fake Things on the Internet.
 
-In this episode, we focus on A History of Fake Things on the Internet. We talk about the broader history of fakeries, how we relate to reality and myth. We then get into the history of fake things on the internet, and discuss how much of the internet is fake; the motivations behind the creation of fake content, whether people fall for fake content; video editing, and deep fakes; and shock-content websites. We also talk about the relationship between traditional media and new media, the role of AI, the idea of myth building, and how much we should worry about fake things on the internet.
+In this episode, we focus on A History of Fake Things on the Internet. We talk about the broader history of fakeries, and how we relate to reality and myth. We then get into the history of fake things on the internet, and discuss how much of the internet is fake; the motivations behind the creation of fake content, whether people fall for fake content; video editing, and deep fakes; and shock-content websites. We also talk about the relationship between traditional media and new media, the role of AI, the idea of myth building, and how much we should worry about fake things on the internet.
 
 Time Links:  
 <time>00:00</time> Intro  
