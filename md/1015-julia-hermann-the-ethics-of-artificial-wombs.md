@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/86980582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-20%2Fbae414d2-cda7-04cc-26d2-035ebe00954a.m4a",
 	"draft": false,
 	"episodeid": "1015",
 	"excerpt": "Dr. Julia Hermann is an Assistant Professor of Philosophy and Ethics at the University of Twente where she works on ectogestative technology, care robots, technomoral change and progress, and new methodologies in the ethics of technology.",
 	"image": "https://i.ytimg.com/vi/gqJ8V6ZV4Qg/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1015-julia-hermann-the-ethics-of-ectogestative-technology/id1451347236?i=1000675663029&uo=4",
 	"publishDate": 2024-11-04,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1015-Julia-Hermann-The-Ethics-of-Ectogestative-Technology-e2jsuh6",
 	"tags": [
 		"Philosophy"
 	],
