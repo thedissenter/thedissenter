@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1015 Julia Hermann: The Ethics of Artificial Wombs",
-	"youtubeid": "gqJ8V6ZV4Qg"
+	"vtt": "1015.vtt",
+	"youtubeid": "gqJ8V6ZV4Qg",
+	"transcript": "1015.lines.json"
 }
 ---
 RECORDED ON MAY 20th 2024.  
