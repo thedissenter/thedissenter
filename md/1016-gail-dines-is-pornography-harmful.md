@@ -11,7 +11,9 @@
 		"Sociology"
 	],
 	"title": "#1016 Gail Dines: Is Pornography Harmful?",
-	"youtubeid": "rnYp0o82ZP4"
+	"vtt": "1016.vtt",
+	"youtubeid": "rnYp0o82ZP4",
+	"transcript": "1016.lines.json"
 }
 ---
 RECORDED ON OCTOBER 22nd 2024.  
