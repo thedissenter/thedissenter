@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1017 Erica Cartmill: The Evolution of Ape Gestures and Human Language",
-	"youtubeid": "GbNSQyrn0nY"
+	"vtt": "1017.vtt",
+	"youtubeid": "GbNSQyrn0nY",
+	"transcript": "1017.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 9th 2024.  

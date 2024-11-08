@@ -5,6 +5,7 @@
 	"episodeid": "1016",
 	"excerpt": "Dr. Gail Dines is Professor Emerita of Sociology and Women's Studies at Wheelock College in Boston, Massachusetts. Dr. Dines specializes in the study of pornography. She is CEO of Culture Reframed, a non-profit built to build resilience and resistance in kinds to pornography and hypersexualized media. created to address pornography as a public-health crisis. She is the author of Pornland: How Porn Has Hijacked Our Sexuality.",
 	"image": "https://i.ytimg.com/vi/rnYp0o82ZP4/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1016-gail-dines-is-pornography-harmful/id1451347236?i=1000676118695&uo=4",
 	"publishDate": 2024-11-07,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1016-Gail-Dines-Is-Pornography-Harmful-e2q0jjj",
 	"tags": [
