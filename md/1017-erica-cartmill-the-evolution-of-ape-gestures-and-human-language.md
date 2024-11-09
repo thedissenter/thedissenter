@@ -5,6 +5,7 @@
 	"episodeid": "1017",
 	"excerpt": "Dr. Erica Cartmill is Professor of Cognitive Science, Anthropology, and Animal Behavior at Indiana University. She studies the acquisition and evolution of human language. Her work bridges the biological and linguistic subfields and involves both comparative and developmental approaches to communication. She is interested in how the multimodal aspects of communication contribute to and constrain the construction of meaning in spontaneous interaction. She is particularly interested in whether gesture played a role in the origins of human language.",
 	"image": "https://i.ytimg.com/vi/GbNSQyrn0nY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1017-erica-cartmill-the-evolution-of-ape-gestures/id1451347236?i=1000676255537&uo=4",
 	"publishDate": 2024-11-08,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1017-Erica-Cartmill-The-Evolution-of-Ape-Gestures-and-Human-Language-e2fj8rq",
 	"tags": [
