@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1018 Brain Leiter & Jaime Edwards: The Life and Ideas of Marx",
-	"youtubeid": "sBpJUEkyKDY"
+	"vtt": "1018.vtt",
+	"youtubeid": "sBpJUEkyKDY",
+	"transcript": "1018.lines.json"
 }
 ---
 RECORDED ON OCTOBER 28th 2024.  
