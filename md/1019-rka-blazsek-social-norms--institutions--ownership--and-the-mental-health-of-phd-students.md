@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/77598014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-23%2F2bc2d62d-75ca-1360-76ad-28bcb14757dd.m4a",
 	"draft": false,
 	"episodeid": "1019",
 	"excerpt": "Réka Blazsek is a PhD candidate at the ACES Lab (Adaptive Cognition & Economics in Society) of the Department of Cognitive Science at Central European University. She is interested in the cognitive and evolutionary roots of economic and political institutions. In other words: what are the links between the design of the mind and the design of institutions? She aims to tackle this topic by focusing on the cognitive foundations of ownership.",
 	"image": "https://i.ytimg.com/vi/-QJtAmL1WOw/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1019-r%C3%A9ka-blazsek-social-norms-institutions-ownership/id1451347236?i=1000676993903&uo=4",
 	"publishDate": 2024-11-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1019-Rka-Blazsek-Social-Norms--Institutions--Ownership--and-the-Mental-Health-of-PhD-Students-e2aujru",
 	"tags": [
 		"Cognitive Science",
 		"Economics",
