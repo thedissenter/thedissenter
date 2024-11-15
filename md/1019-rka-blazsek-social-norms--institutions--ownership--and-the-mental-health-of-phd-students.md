@@ -14,7 +14,9 @@
 		"Psychology"
 	],
 	"title": "#1019 Réka Blazsek: Social Norms, Institutions, Ownership, and the Mental Health of PhD Students",
-	"youtubeid": "-QJtAmL1WOw"
+	"vtt": "1019.vtt",
+	"youtubeid": "-QJtAmL1WOw",
+	"transcript": "1019.lines.json"
 }
 ---
 RECORDED ON OCTOBER 23rd 2023.  
