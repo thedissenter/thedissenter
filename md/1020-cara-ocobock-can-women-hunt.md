@@ -5,13 +5,16 @@
 	"episodeid": "1020",
 	"excerpt": "Dr. Cara Ocobock is Associate Professor and Director of the Human Energetics Laboratory at the University of Notre Dame. Her research program integrates human biology and anthropology, with a focus on the interaction between anatomy, physiology, evolution, and the environment. She explores the physiological and behavioral mechanisms necessary to cope with and adapt to extreme climate and physical activity. Dr. Ocobock’s research is at the intersection of metabolic physiology, evolution, culture, and behavior.",
 	"image": "https://i.ytimg.com/vi/8YohRIh4uTE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1020-cara-ocobock-can-women-hunt/id1451347236?i=1000677119702&uo=4",
 	"publishDate": 2024-11-15,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1020-Cara-Ocobock-Can-Women-Hunt-e2kbhvb",
 	"tags": [
 		"Anthropology"
 	],
 	"title": "#1020 Cara Ocobock: Can Women Hunt?",
-	"youtubeid": "8YohRIh4uTE"
+	"vtt": "1020.vtt",
+	"youtubeid": "8YohRIh4uTE",
+	"transcript": "1020.lines.json"
 }
 ---
 RECORDED ON MAY 31st 2024.  
