@@ -13,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1021 Richard Wolff (@RichardDWolff): Socialism, Marxism, and Trump's Second Term",
-	"youtubeid": "tJunzJzuBcQ"
+	"vtt": "1021.vtt",
+	"youtubeid": "tJunzJzuBcQ",
+	"transcript": "1021.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 6th 2024.  
