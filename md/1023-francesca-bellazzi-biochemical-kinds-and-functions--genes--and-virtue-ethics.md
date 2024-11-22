@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1023 Francesca Bellazzi: Biochemical Kinds and Functions, Genes, and Virtue Ethics",
-	"youtubeid": "z-No7N8hhp0"
+	"vtt": "1023.vtt",
+	"youtubeid": "z-No7N8hhp0",
+	"transcript": "1023.lines.json"
 }
 ---
 RECORDED ON OCTOBER 15th 2024.  

@@ -1,0 +1,5030 @@
+WEBVTT
+
+1
+00:00:00.009 --> 00:00:02.869
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:02.930 --> 00:00:05.559
+Center. I'm your host as always Ricard Lobs and
+
+3
+00:00:05.570 --> 00:00:08.420
+to the m joined by Doctor Francesca Bela. She
+
+4
+00:00:08.430 --> 00:00:12.109
+is postdoctoral researcher in the er C Project Assembling
+
+5
+00:00:12.119 --> 00:00:14.899
+Life at the Center for Philosophy and the Sciences
+
+6
+00:00:14.909 --> 00:00:18.600
+in the Department of Philosophy, Classics, History, art and
+
+7
+00:00:18.610 --> 00:00:22.040
+Ideas at the University of Oslo. She is interested
+
+8
+00:00:22.049 --> 00:00:25.389
+basically in the complexity of the interactions between different
+
+9
+00:00:25.465 --> 00:00:28.565
+entities and in particular, she is fascinated by the
+
+10
+00:00:28.575 --> 00:00:32.465
+interface between chemistry and biology. And today we're going
+
+11
+00:00:32.473 --> 00:00:35.014
+to talk a little bit about Philosophy of Science
+
+12
+00:00:35.025 --> 00:00:38.584
+with the focus on biochemistry and we're going to
+
+13
+00:00:38.595 --> 00:00:42.924
+discuss what are functions, what are kinds, specifically biochemical
+
+14
+00:00:42.935 --> 00:00:46.284
+functions and kinds genes as well and some other
+
+15
+00:00:46.294 --> 00:00:49.305
+related topics. So, Doctor Bela, welcome to the show.
+
+16
+00:00:49.314 --> 00:00:50.845
+It's a huge pleasure to everyone.
+
+17
+00:00:51.439 --> 00:00:53.419
+Thank you. Thank you for inviting me. It's a
+
+18
+00:00:53.430 --> 00:00:56.169
+huge pleasure for me to uh be part of
+
+19
+00:00:56.180 --> 00:00:56.860
+this show.
+
+20
+00:00:57.549 --> 00:01:01.669
+Thank you. So let's start perhaps with functions. I
+
+21
+00:01:01.680 --> 00:01:04.830
+mean, uh I uh I would like first to
+
+22
+00:01:04.839 --> 00:01:08.230
+ask you more generally in the context of science
+
+23
+00:01:08.239 --> 00:01:12.160
+and philosophy of science. What are functions?
+
+24
+00:01:12.529 --> 00:01:16.949
+Yes. Now, well, that's an excellent question. And I
+
+25
+00:01:16.959 --> 00:01:19.260
+would say that like in a nutshell, so if
+
+26
+00:01:19.269 --> 00:01:21.459
+we try to bring together all the different accounts
+
+27
+00:01:21.470 --> 00:01:26.919
+of functions, functions are special causal contributions, which can
+
+28
+00:01:26.930 --> 00:01:30.949
+give us like informations about the identity, the history
+
+29
+00:01:31.029 --> 00:01:33.139
+and the context relativity of the role that an
+
+30
+00:01:33.150 --> 00:01:37.650
+entity uh plays. So using a classic toy example,
+
+31
+00:01:37.660 --> 00:01:40.129
+we can take the art uh the heart is
+
+32
+00:01:40.139 --> 00:01:42.489
+a muscle that has the function to pump blood,
+
+33
+00:01:42.500 --> 00:01:44.610
+or at least this is one of its functions.
+
+34
+00:01:45.069 --> 00:01:47.949
+And uh the function of pumping blood is a
+
+35
+00:01:47.959 --> 00:01:52.339
+special causal role that the heart plays in the
+
+36
+00:01:52.349 --> 00:01:56.069
+physiological system. It tells us what is uh what
+
+37
+00:01:56.080 --> 00:01:58.750
+makes the heart a heart compared to other muscles
+
+38
+00:01:58.760 --> 00:02:02.290
+because it specifies what uh the heart is doing.
+
+39
+00:02:02.370 --> 00:02:04.889
+But it's also telling us that the heart has
+
+40
+00:02:04.900 --> 00:02:08.089
+been selected as a muscle to pump blood. So
+
+41
+00:02:08.100 --> 00:02:11.220
+as you can see the notion of functionality um
+
+42
+00:02:11.610 --> 00:02:14.880
+can inform us on a lot of different things.
+
+43
+00:02:15.089 --> 00:02:19.649
+Now, functions are also attributed to artifacts for instance.
+
+44
+00:02:19.889 --> 00:02:21.919
+And I think that the definition that I gave
+
+45
+00:02:21.929 --> 00:02:25.130
+that is that um functions are really special because
+
+46
+00:02:25.139 --> 00:02:28.455
+they contributions can work for something like a chair,
+
+47
+00:02:28.464 --> 00:02:30.235
+like we can use a chair to do different
+
+48
+00:02:30.244 --> 00:02:32.895
+things. Uh But what makes a chair, a chair
+
+49
+00:02:32.904 --> 00:02:34.735
+is that it has the function of allowing us
+
+50
+00:02:34.744 --> 00:02:37.925
+to sit on it. Uh And this uh um
+
+51
+00:02:37.934 --> 00:02:39.785
+yeah, and this kind of like allows us to,
+
+52
+00:02:39.794 --> 00:02:43.235
+to define the object. Uh Having said that. So
+
+53
+00:02:43.244 --> 00:02:47.300
+having provided this kind of general definition, I do
+
+54
+00:02:47.309 --> 00:02:50.850
+think that when we apply functionality to different types
+
+55
+00:02:50.860 --> 00:02:54.110
+of different kinds of objects, uh then we might
+
+56
+00:02:54.119 --> 00:02:58.699
+need specific account of functions. So in that sense,
+
+57
+00:02:58.710 --> 00:03:01.910
+I think that um after the first step of
+
+58
+00:03:01.919 --> 00:03:05.529
+providing like a general definition of functionality, uh we
+
+59
+00:03:05.539 --> 00:03:09.820
+can be quite pluralist uh about specific notions of
+
+60
+00:03:09.830 --> 00:03:13.740
+functionality uh for uh for, for different objects. So
+
+61
+00:03:13.750 --> 00:03:16.229
+I think that the way in which we ascribe
+
+62
+00:03:16.240 --> 00:03:19.679
+functions to artifacts such as a chair might be
+
+63
+00:03:19.690 --> 00:03:23.580
+different from the specific way in which we want
+
+64
+00:03:23.589 --> 00:03:26.449
+to ascribe functions to something like the heart or
+
+65
+00:03:26.460 --> 00:03:28.970
+any other trait. And that is different also from
+
+66
+00:03:28.979 --> 00:03:32.119
+other kinds of entities like uh molecules.
+
+67
+00:03:33.130 --> 00:03:36.809
+Mhm Yeah. So, so when it comes to functions,
+
+68
+00:03:36.820 --> 00:03:39.190
+it just came to my mind because for example,
+
+69
+00:03:39.199 --> 00:03:41.720
+when it comes to the heart and it pumping
+
+70
+00:03:41.729 --> 00:03:45.630
+blood, I mean, in that specific case and probably
+
+71
+00:03:45.639 --> 00:03:50.490
+others in our human bodies, are we talking specifically
+
+72
+00:03:50.500 --> 00:03:54.970
+about evolved functions? There is the functions that a
+
+73
+00:03:54.979 --> 00:04:00.369
+particular organ, for example, a particular biochemical molecule have
+
+74
+00:04:00.380 --> 00:04:04.710
+evolved to perform or can it also include other
+
+75
+00:04:04.720 --> 00:04:09.539
+types of uh I don't know secondary acquired functions,
+
+76
+00:04:09.550 --> 00:04:10.119
+for example.
+
+77
+00:04:10.770 --> 00:04:13.119
+Yeah. Yeah. Like this is an excellent question. I
+
+78
+00:04:13.130 --> 00:04:16.428
+think that probably different philosophers would give different answers
+
+79
+00:04:16.440 --> 00:04:19.390
+to this. Uh And there is no like unified
+
+80
+00:04:19.399 --> 00:04:22.108
+view, I would say that I am quite sympathetic
+
+81
+00:04:22.119 --> 00:04:24.839
+with the idea that in order to identify what
+
+82
+00:04:24.850 --> 00:04:28.730
+is special about functions or scholar contributions, we need
+
+83
+00:04:28.739 --> 00:04:32.299
+to bring in evolutionary history. So like the function
+
+84
+00:04:32.309 --> 00:04:34.070
+of the art is what it has been selected
+
+85
+00:04:34.079 --> 00:04:38.630
+for now, whether this just includes pumping blood, for
+
+86
+00:04:38.640 --> 00:04:41.000
+instance, for the art or whether it can include
+
+87
+00:04:41.010 --> 00:04:45.260
+also what are called like distal functions. Um I
+
+88
+00:04:45.269 --> 00:04:48.600
+don't have uh a strong argument for neither of
+
+89
+00:04:48.609 --> 00:04:51.230
+these views. I would say that generally, I'm quite
+
+90
+00:04:51.239 --> 00:04:55.070
+happy to ascribe functionality if we can identify a
+
+91
+00:04:55.380 --> 00:04:59.880
+form of evolutionary background. Uh But this doesn't necessarily
+
+92
+00:04:59.890 --> 00:05:02.859
+have to be like direct. Um And I think
+
+93
+00:05:02.869 --> 00:05:04.700
+that this is how we can bring in, for
+
+94
+00:05:04.709 --> 00:05:11.100
+instance, um evolutionary talk into ascribing functionality to molecules
+
+95
+00:05:11.420 --> 00:05:14.929
+because molecules are not the classic uh target of
+
+96
+00:05:14.940 --> 00:05:18.679
+evolution. Uh They, they are a bit different, it's
+
+97
+00:05:18.690 --> 00:05:21.279
+not like they, they present different features compared to,
+
+98
+00:05:21.290 --> 00:05:25.500
+for instance, traits or phenotypic traits in particular. Um
+
+99
+00:05:25.510 --> 00:05:28.799
+So, yeah, and that like compared to maybe other
+
+100
+00:05:28.809 --> 00:05:31.709
+philosophers, I'm a bit more loose in the fact
+
+101
+00:05:31.720 --> 00:05:33.779
+that what I think is interesting is a form
+
+102
+00:05:33.790 --> 00:05:37.540
+of general evolutionary context as that is helpful to
+
+103
+00:05:37.549 --> 00:05:41.059
+identify like which of the causal contributions are functions
+
+104
+00:05:41.070 --> 00:05:44.380
+and which are just causal contributions or roles that
+
+105
+00:05:44.390 --> 00:05:46.380
+the different rates can perform.
+
+106
+00:05:47.380 --> 00:05:51.220
+And when you talk about uh distal functions, which
+
+107
+00:05:51.230 --> 00:05:54.480
+is something you mentioned there very briefly. For example,
+
+108
+00:05:54.489 --> 00:05:57.200
+when it comes to the heart, since it pumps
+
+109
+00:05:57.209 --> 00:06:01.679
+blood, would the distal function perhaps be that it
+
+110
+00:06:01.690 --> 00:06:06.279
+also distributes oxygen through the body to the different
+
+111
+00:06:06.290 --> 00:06:09.589
+kinds of cells. You would that would that count
+
+112
+00:06:09.600 --> 00:06:11.040
+as a distal function?
+
+113
+00:06:11.480 --> 00:06:14.119
+Yeah, that would be a kind of like distal
+
+114
+00:06:14.130 --> 00:06:16.920
+function that is quite proximal as if we unpack
+
+115
+00:06:16.929 --> 00:06:19.570
+like the pumping blood. Uh THEN pumping blood is
+
+116
+00:06:19.579 --> 00:06:25.779
+useful for um yeah, for moving the oxygen. Another
+
+117
+00:06:25.790 --> 00:06:28.410
+like distal function can be for instance, the sound
+
+118
+00:06:28.649 --> 00:06:31.989
+that the heart make. So the fact that like,
+
+119
+00:06:32.000 --> 00:06:34.720
+uh for instance, this can tell us whether something
+
+120
+00:06:34.730 --> 00:06:36.670
+is alive or not or can be one of
+
+121
+00:06:36.679 --> 00:06:39.350
+the parameters that it can, that can be used.
+
+122
+00:06:39.589 --> 00:06:42.010
+Uh uh And yeah, and, and there are philosophers
+
+123
+00:06:42.019 --> 00:06:45.239
+diff like, differing opinions about whether, for instance, the
+
+124
+00:06:45.250 --> 00:06:48.339
+sound that the heart makes, um, is a function
+
+125
+00:06:48.350 --> 00:06:51.040
+or not. Uh Because somehow it's such as an
+
+126
+00:06:51.049 --> 00:06:54.329
+effect of what would be the, like some people
+
+127
+00:06:54.339 --> 00:06:57.519
+would call the proper function uh that, um that
+
+128
+00:06:57.529 --> 00:07:00.320
+maybe doesn't count as such, even if, for instance,
+
+129
+00:07:00.329 --> 00:07:03.279
+it can have a role in uh the interactions
+
+130
+00:07:03.290 --> 00:07:06.269
+that's like an animal or uh or even us
+
+131
+00:07:06.410 --> 00:07:07.959
+with other living beings.
+
+132
+00:07:08.619 --> 00:07:13.000
+Mhm. In that case, the sound would be like
+
+133
+00:07:13.010 --> 00:07:16.440
+what a by product of the heart pumping blood
+
+134
+00:07:16.450 --> 00:07:18.640
+and not exactly a function. Right? I mean, it's
+
+135
+00:07:18.649 --> 00:07:22.040
+not the function of the heart to produce sound.
+
+136
+00:07:22.049 --> 00:07:24.470
+The sound is simply a by-product of it.
+
+137
+00:07:24.709 --> 00:07:27.089
+Right. Exactly. And like, and then we can even
+
+138
+00:07:27.100 --> 00:07:29.429
+say that like the heart hasn't been selected because
+
+139
+00:07:29.440 --> 00:07:32.510
+it is an organ that makes a sound. Um
+
+140
+00:07:32.559 --> 00:07:35.549
+AND, and like an art like the heart as
+
+141
+00:07:35.559 --> 00:07:38.149
+a trade has been selected in a series of
+
+142
+00:07:38.220 --> 00:07:42.959
+um animals because um it pumps blood so it
+
+143
+00:07:42.970 --> 00:07:44.709
+allows for circulation.
+
+144
+00:07:45.250 --> 00:07:48.149
+Mhm. And we'll probably get into more of this
+
+145
+00:07:48.160 --> 00:07:51.929
+when we talk about biochemistry specifically. But since I
+
+146
+00:07:51.940 --> 00:07:56.119
+already asked you about evolved functions and also what
+
+147
+00:07:56.130 --> 00:07:57.869
+I called, I'm not sure if this is the,
+
+148
+00:07:58.000 --> 00:08:00.429
+this is the correct terminology, but I call them
+
+149
+00:08:00.440 --> 00:08:05.709
+acquired functions. For example, we know that across different
+
+150
+00:08:05.720 --> 00:08:10.250
+species, different animals, plants, et cetera, the same uh
+
+151
+00:08:10.260 --> 00:08:15.904
+biochemical mo molecules can be be present for different
+
+152
+00:08:15.915 --> 00:08:19.385
+or it can have different functions in different contexts.
+
+153
+00:08:19.394 --> 00:08:23.434
+So I mean, what would count there as an
+
+154
+00:08:23.445 --> 00:08:27.704
+evolved function, would it be the original function of
+
+155
+00:08:27.714 --> 00:08:32.155
+the molecule? And then when it acquires new functions
+
+156
+00:08:32.164 --> 00:08:36.895
+in more recently evolved uh organisms, for example, then
+
+157
+00:08:36.905 --> 00:08:39.933
+it would be a an acquired function or I
+
+158
+00:08:39.945 --> 00:08:42.604
+mean, ho how do you deal with it?
+
+159
+00:08:43.119 --> 00:08:45.969
+Yeah, excellent. But I think that uh one of
+
+160
+00:08:45.979 --> 00:08:48.650
+the core things about functionality is that or at
+
+161
+00:08:48.659 --> 00:08:51.169
+least in how I think about functionality is that
+
+162
+00:08:51.179 --> 00:08:55.719
+functionality is always context dependent. So we always need
+
+163
+00:08:55.729 --> 00:08:59.059
+to consider the function of something in a given
+
+164
+00:08:59.070 --> 00:09:03.460
+context. Um So let us take a concrete example.
+
+165
+00:09:03.469 --> 00:09:05.020
+Uh THAT is one of those that I have
+
+166
+00:09:05.030 --> 00:09:07.340
+studied myself. And we can take for instance, the
+
+167
+00:09:07.349 --> 00:09:11.960
+function of vitamin B 12. Um Vitamin B 12
+
+168
+00:09:11.969 --> 00:09:15.580
+as the function in humans or as many functions
+
+169
+00:09:15.590 --> 00:09:18.280
+in humans actually, uh but one of them is
+
+170
+00:09:18.289 --> 00:09:24.429
+to contribute to AIS. So um it intervenes in
+
+171
+00:09:24.440 --> 00:09:27.419
+this process that uh uh regards the renovation of
+
+172
+00:09:27.429 --> 00:09:32.219
+red blood cells. Now, uh this biochemical function is
+
+173
+00:09:32.229 --> 00:09:34.989
+quite specific to the presence of erythropoiesis. And to
+
+174
+00:09:35.000 --> 00:09:38.270
+the fact that like erythropoiesis in humans uh has
+
+175
+00:09:38.280 --> 00:09:41.039
+been selected in a way that um in a
+
+176
+00:09:41.049 --> 00:09:44.159
+way thanks to which vitamin B 12 can basically
+
+177
+00:09:44.169 --> 00:09:47.909
+display its function. However, vitamin B 12 is only
+
+178
+00:09:47.919 --> 00:09:52.049
+synthesized by bacteria and archaea of specific species. And
+
+179
+00:09:52.059 --> 00:09:56.080
+there it has a different function. Um MOSTLY an
+
+180
+00:09:56.090 --> 00:09:58.630
+an enzymatic function there as well. But of course,
+
+181
+00:09:58.640 --> 00:10:01.840
+it's not a function in in erythropoiesis because uh
+
+182
+00:10:01.849 --> 00:10:05.599
+bacteria and archaea don't have blood nor red blood
+
+183
+00:10:05.609 --> 00:10:07.859
+cells and so on. So, in that case, we
+
+184
+00:10:07.869 --> 00:10:10.469
+can notice that we have the same entity, which
+
+185
+00:10:10.479 --> 00:10:13.289
+is the vitamin B 12 uh in general in
+
+186
+00:10:13.299 --> 00:10:16.609
+all, in all of its vitamer. And this entity
+
+187
+00:10:16.619 --> 00:10:20.559
+display different biochemical function. Why? Because they contribute to
+
+188
+00:10:20.570 --> 00:10:25.690
+different biological processes which have been selected to uh
+
+189
+00:10:25.700 --> 00:10:29.590
+to operate differently. So I would say that for
+
+190
+00:10:29.599 --> 00:10:33.820
+instance, it doesn't make much sense or rather more
+
+191
+00:10:33.830 --> 00:10:36.710
+than doesn't make sense. It's not really informative for
+
+192
+00:10:36.719 --> 00:10:38.960
+instance to say that vitamin B 12 is a
+
+193
+00:10:38.969 --> 00:10:43.289
+function in living beings in general. Uh BECAUSE we
+
+194
+00:10:43.299 --> 00:10:47.299
+don't get like the specificity that we need. And
+
+195
+00:10:47.309 --> 00:10:49.700
+while instead, if it, it is more meaningful or
+
+196
+00:10:49.710 --> 00:10:53.119
+it is more informative to say vitamin B 12
+
+197
+00:10:53.130 --> 00:10:56.000
+as a function in bacteria and archaea because it
+
+198
+00:10:56.010 --> 00:10:58.140
+can act in a, as a co enzyme in
+
+199
+00:10:58.150 --> 00:11:03.219
+many different um physiological processes of those species. And
+
+200
+00:11:03.229 --> 00:11:07.789
+it has a function in erythropoiesis in humans and
+
+201
+00:11:07.799 --> 00:11:11.109
+other mammals. So we make it specific to the
+
+202
+00:11:11.119 --> 00:11:15.020
+process that has evolved. Um And in which the,
+
+203
+00:11:15.520 --> 00:11:17.270
+the vitamin displays its role
+
+204
+00:11:18.250 --> 00:11:22.289
+and then all of those different physiological processes it
+
+205
+00:11:22.299 --> 00:11:27.049
+participates in across different organisms are, all of them
+
+206
+00:11:27.059 --> 00:11:30.250
+are functions of that specific biomolecule,
+
+207
+00:11:30.549 --> 00:11:35.030
+right? Uh Yes, in a way. Um Yes.
+
+208
+00:11:36.309 --> 00:11:38.469
+And so let me just ask you one more
+
+209
+00:11:38.479 --> 00:11:41.419
+question before we get into kinds because it just
+
+210
+00:11:41.429 --> 00:11:43.599
+came to my mind when you mentioned the example
+
+211
+00:11:43.609 --> 00:11:46.650
+of the heart pumping blood. So let's say that,
+
+212
+00:11:46.659 --> 00:11:51.010
+for example, someone develops cancer. So when that happens,
+
+213
+00:11:51.020 --> 00:11:54.700
+of course, the blood also reaches the cancer and
+
+214
+00:11:54.710 --> 00:11:58.380
+sort of feeds it with nutrients with oxygen and
+
+215
+00:11:58.390 --> 00:12:01.869
+all of that, uh I mean, since it's sort
+
+216
+00:12:01.880 --> 00:12:05.299
+of an um what we would consider an abnormal
+
+217
+00:12:05.309 --> 00:12:10.119
+process to develop cancer, uh Could we also say
+
+218
+00:12:10.130 --> 00:12:13.890
+that uh in that specific case, one of the
+
+219
+00:12:13.900 --> 00:12:18.250
+functions of the heart is to feed the cancer
+
+220
+00:12:18.260 --> 00:12:19.099
+or not?
+
+221
+00:12:19.820 --> 00:12:22.460
+Yeah, excellent question. So I think that in this
+
+222
+00:12:22.469 --> 00:12:25.619
+case, and this is why bringing in evolutionary context
+
+223
+00:12:25.630 --> 00:12:28.570
+is very important in this case, we can say
+
+224
+00:12:28.580 --> 00:12:33.320
+that the heart is contributing to a dysfunctioning process,
+
+225
+00:12:33.330 --> 00:12:36.419
+which is the process of cancer application from the
+
+226
+00:12:36.429 --> 00:12:40.299
+perspective of the organism. Uh And in that case,
+
+227
+00:12:40.440 --> 00:12:42.750
+the heart is not doing what it has been
+
+228
+00:12:42.760 --> 00:12:45.219
+selected to do in a way that is like
+
+229
+00:12:45.229 --> 00:12:49.520
+the heart hasn't been selected to feed cancerous cells,
+
+230
+00:12:49.530 --> 00:12:53.299
+for instance, um like by providing oxygen, but the
+
+231
+00:12:53.309 --> 00:12:55.950
+heart has been selected to pump blood across the
+
+232
+00:12:55.960 --> 00:12:58.989
+organism. And then somehow what is this functioning in
+
+233
+00:12:59.169 --> 00:13:02.640
+itself? From the perspective of the organism? Of course,
+
+234
+00:13:02.650 --> 00:13:06.700
+uh is the cancer. Uh And this is, and,
+
+235
+00:13:06.710 --> 00:13:08.729
+and, and that's why I think that uh yeah,
+
+236
+00:13:08.739 --> 00:13:11.919
+bringing in evolution can really help because we can
+
+237
+00:13:11.929 --> 00:13:16.070
+say the same about, for instance, uh um the
+
+238
+00:13:16.080 --> 00:13:20.840
+role of vitamin B 12 in um erythropoiesis for
+
+239
+00:13:20.849 --> 00:13:23.830
+forms of blood cancer, for instance, like in that
+
+240
+00:13:23.840 --> 00:13:26.039
+case, of course, there is still the causal contribution
+
+241
+00:13:26.049 --> 00:13:29.070
+is not that vitamin B 12 stops uh intervening
+
+242
+00:13:29.080 --> 00:13:31.429
+we don't have uh unless there are like, for
+
+243
+00:13:31.440 --> 00:13:34.619
+instance, uh severe uh lack of vitamin B 12,
+
+244
+00:13:34.630 --> 00:13:36.260
+but that's a bit of a different case. Uh
+
+245
+00:13:36.580 --> 00:13:39.020
+But what happens is that it is the process
+
+246
+00:13:39.039 --> 00:13:42.669
+to which these molecules are contributing that is dysfunctioning.
+
+247
+00:13:42.679 --> 00:13:45.359
+Why? Because it's not doing what it has been
+
+248
+00:13:45.369 --> 00:13:48.849
+selected to do. So it uh it is, it
+
+249
+00:13:48.859 --> 00:13:51.270
+is behaving differently. And, and I think that this
+
+250
+00:13:51.280 --> 00:13:54.940
+is really a powerful tool that uh bringing in
+
+251
+00:13:54.950 --> 00:13:59.479
+evolutionary consideration to functionality f because it can allow
+
+252
+00:13:59.489 --> 00:14:02.239
+us to do this uh these distinctions between uh
+
+253
+00:14:02.250 --> 00:14:04.630
+these functions and, and functions,
+
+254
+00:14:05.489 --> 00:14:09.219
+right? So let's get into kinds then, of course,
+
+255
+00:14:09.229 --> 00:14:13.760
+we've probably already mentioned some biochemical kinds here. But
+
+256
+00:14:13.770 --> 00:14:17.159
+what are kinds more generally in science?
+
+257
+00:14:17.609 --> 00:14:20.179
+Yes. So it is of course, like an excellent
+
+258
+00:14:20.190 --> 00:14:23.580
+question um especially when we are talking about ascribing
+
+259
+00:14:23.590 --> 00:14:26.859
+functions to, to different kinds. And I guess that
+
+260
+00:14:26.869 --> 00:14:29.369
+we can take uh at at least a dual
+
+261
+00:14:29.380 --> 00:14:31.789
+answer to this kind of like minimal answer and
+
+262
+00:14:31.799 --> 00:14:34.099
+a more elaborated answer. And I think that like
+
+263
+00:14:34.109 --> 00:14:36.739
+the minimal answer is that well, kinds are just
+
+264
+00:14:36.750 --> 00:14:40.659
+types of things. So so we can like use
+
+265
+00:14:40.669 --> 00:14:43.299
+kind talk to just mean that while things are
+
+266
+00:14:43.309 --> 00:14:47.770
+clustered into different categories. Uh AND um and we
+
+267
+00:14:47.780 --> 00:14:50.070
+can distinguish them because they can be clustered into
+
+268
+00:14:50.080 --> 00:14:52.429
+different categories. And this is a kind of like
+
+269
+00:14:52.440 --> 00:14:55.380
+weak use of the of kind talk. I think
+
+270
+00:14:55.390 --> 00:14:57.739
+that in philosophy of science and in metaphysics of
+
+271
+00:14:57.750 --> 00:15:00.130
+science, in particular, the term kind is a bit
+
+272
+00:15:00.140 --> 00:15:04.260
+more loaded than, than type to. Uh AND it's
+
+273
+00:15:04.270 --> 00:15:06.859
+generally refers to the fact that we tend to
+
+274
+00:15:06.869 --> 00:15:11.169
+classify objects or processes into group of things and
+
+275
+00:15:11.179 --> 00:15:15.849
+these groups of things are kind. Now, these kinds
+
+276
+00:15:15.859 --> 00:15:19.609
+can at least be divided into being real or
+
+277
+00:15:19.619 --> 00:15:23.510
+natural kinds. Uh And here, I'm conflating the distinction
+
+278
+00:15:23.520 --> 00:15:25.250
+even if of course, there is a huge debate
+
+279
+00:15:25.260 --> 00:15:28.429
+on whether we we can do this. Um And
+
+280
+00:15:28.440 --> 00:15:32.520
+uh more conventional or um instrumental kinds. So we
+
+281
+00:15:32.530 --> 00:15:35.729
+can classify things into clusters that we think or
+
+282
+00:15:35.739 --> 00:15:38.659
+respond to real divisions in nature, or we can
+
+283
+00:15:38.669 --> 00:15:42.049
+classify things into cluster, which are just useful for
+
+284
+00:15:42.059 --> 00:15:46.130
+scientific purposes. Uh And, and then in that, we
+
+285
+00:15:46.140 --> 00:15:50.320
+don't really have a commitment into trying to, for
+
+286
+00:15:50.330 --> 00:15:53.330
+instance, understand whether there are real distinctions in nature.
+
+287
+00:15:53.340 --> 00:15:55.630
+And I think that classic examples also here is
+
+288
+00:15:55.640 --> 00:15:58.289
+that we can take different molecules of gold and
+
+289
+00:15:58.299 --> 00:16:01.419
+classify them under the kind of gold. And with
+
+290
+00:16:01.429 --> 00:16:03.049
+that, we want to say, well, there is some
+
+291
+00:16:03.844 --> 00:16:06.734
+such as at least the gold molecules which share
+
+292
+00:16:06.744 --> 00:16:10.395
+something in nature for which we cluster them together.
+
+293
+00:16:10.594 --> 00:16:13.775
+Or we can take for instance, the category vegetables
+
+294
+00:16:13.784 --> 00:16:16.715
+in nutrition uh which seems to be much more
+
+295
+00:16:16.724 --> 00:16:19.125
+of an instrumental kind. Why? Because we are clustering
+
+296
+00:16:19.135 --> 00:16:24.034
+together different things um because it is useful. Uh
+
+297
+00:16:24.044 --> 00:16:27.094
+BUT this distinction doesn't correspond to, for instance, a
+
+298
+00:16:27.104 --> 00:16:32.159
+botanical distinction uh as stuff like uh spinach or
+
+299
+00:16:32.169 --> 00:16:36.659
+tomatoes would classify as vegetables in nutrition. Uh But
+
+300
+00:16:36.669 --> 00:16:41.530
+their biological um classification is different. And uh technically,
+
+301
+00:16:41.539 --> 00:16:43.919
+tomatoes are a fruit uh even if we wouldn't
+
+302
+00:16:43.929 --> 00:16:47.150
+consider them as such uh and uh and, and
+
+303
+00:16:47.159 --> 00:16:49.640
+related. So I think that this is quite an
+
+304
+00:16:49.650 --> 00:16:54.010
+important uh contrasting category and I do think that
+
+305
+00:16:54.020 --> 00:16:57.530
+there are some kinds that fall in between. So
+
+306
+00:16:57.539 --> 00:17:00.109
+now I'm also working on the notion of investigative
+
+307
+00:17:00.119 --> 00:17:03.190
+kinds. So kinds that are good for investigation in
+
+308
+00:17:03.200 --> 00:17:07.010
+which we can use to try to unpack what's,
+
+309
+00:17:07.020 --> 00:17:08.770
+what's really going on. And I think that for
+
+310
+00:17:08.780 --> 00:17:12.439
+instance, the kind vitamin is there into the investigative
+
+311
+00:17:12.449 --> 00:17:15.218
+notion, uh and the kind gene as well, uh
+
+312
+00:17:15.229 --> 00:17:17.828
+which I know we can talk about later. It's
+
+313
+00:17:17.838 --> 00:17:20.578
+something that can go into that direction that is
+
+314
+00:17:20.588 --> 00:17:25.438
+it has been introduced as conventional or as instrumental.
+
+315
+00:17:25.448 --> 00:17:28.358
+So we don't want to have commitment in the
+
+316
+00:17:28.368 --> 00:17:30.859
+actual word about the existence of something such as
+
+317
+00:17:30.869 --> 00:17:33.568
+the gene. But the introduction of the term allowed
+
+318
+00:17:33.578 --> 00:17:37.079
+us to discover so many things to the point
+
+319
+00:17:37.089 --> 00:17:39.239
+that now at least maybe. So, I mean, I
+
+320
+00:17:39.250 --> 00:17:42.010
+would say that for instance, the molecular gene is,
+
+321
+00:17:42.020 --> 00:17:44.939
+is a natural kind. So it corresponds to something
+
+322
+00:17:44.949 --> 00:17:45.609
+existent.
+
+323
+00:17:46.469 --> 00:17:49.770
+Mhm Yeah. So we'll probably come back to the
+
+324
+00:17:49.780 --> 00:17:53.819
+investigative investigative kinds later when we talk about genes
+
+325
+00:17:53.829 --> 00:17:56.250
+then. But let me ask you when it comes
+
+326
+00:17:56.260 --> 00:18:00.060
+to natural or real kinds, how do we determine
+
+327
+00:18:00.069 --> 00:18:04.150
+that something is a natural kind? Are there specific
+
+328
+00:18:04.160 --> 00:18:05.000
+criteria?
+
+329
+00:18:05.750 --> 00:18:10.900
+Yeah. Yeah. So, um again, like extremely debated topic.
+
+330
+00:18:10.910 --> 00:18:15.459
+Um And I would say that um I, I
+
+331
+00:18:15.469 --> 00:18:18.680
+wouldn't want to commit on a definition that has
+
+332
+00:18:18.689 --> 00:18:21.569
+to be uh valid in, in all of these
+
+333
+00:18:21.579 --> 00:18:23.430
+cases. I don't find that, of course, we need
+
+334
+00:18:23.439 --> 00:18:27.920
+to do the empirical investigation also to corroborate our
+
+335
+00:18:27.930 --> 00:18:30.339
+theories. But generally, I need to say that uh
+
+336
+00:18:30.349 --> 00:18:32.780
+I am quite fond of a theory of natural
+
+337
+00:18:32.790 --> 00:18:36.099
+kinds that has been proposed by Mohammed Ali Khalidi.
+
+338
+00:18:36.380 --> 00:18:38.640
+And I think that his account is quite powerful
+
+339
+00:18:38.650 --> 00:18:40.790
+uh in that it allows it, it at least
+
+340
+00:18:40.800 --> 00:18:43.949
+gives us uh some tools to distinguish natural from
+
+341
+00:18:43.959 --> 00:18:46.760
+conventional kinds. And these are the fact that these
+
+342
+00:18:46.770 --> 00:18:49.819
+kinds present properties which are project. What does it
+
+343
+00:18:49.829 --> 00:18:52.479
+mean? It means that we can do prediction and
+
+344
+00:18:52.489 --> 00:18:56.474
+explain based on inferring the presence of a property
+
+345
+00:18:56.484 --> 00:18:58.415
+from one kind to one another. So the moment
+
+346
+00:18:58.425 --> 00:19:01.555
+in which we consider these properties that are associated
+
+347
+00:19:01.564 --> 00:19:03.425
+to the kind we are able to predict and
+
+348
+00:19:03.435 --> 00:19:08.305
+explain stuff about instances of the kind. Uh And
+
+349
+00:19:08.314 --> 00:19:10.385
+the fact that these kinds have a role in
+
+350
+00:19:10.395 --> 00:19:13.505
+our causal network. Now, this role is dual in
+
+351
+00:19:13.515 --> 00:19:16.785
+the sense that the essences of the kinds um
+
+352
+00:19:16.795 --> 00:19:20.329
+have a causal impact on the word because of
+
+353
+00:19:20.339 --> 00:19:22.750
+the properties they display. So they can enter into
+
+354
+00:19:22.760 --> 00:19:27.069
+causal relation. And uh also the properties of the
+
+355
+00:19:27.079 --> 00:19:31.579
+kinds are linked by causal connections. Uh So I
+
+356
+00:19:31.589 --> 00:19:34.719
+think that uh this this tool or the, yeah,
+
+357
+00:19:34.729 --> 00:19:38.689
+this conceptual tool is quite powerful to, to distinguish
+
+358
+00:19:38.699 --> 00:19:42.699
+kinds or rather conventional from natural kinds or at
+
+359
+00:19:42.709 --> 00:19:46.079
+least give us reason to investigate whether a kind
+
+360
+00:19:46.089 --> 00:19:48.260
+is natural. So they can also be seen as
+
+361
+00:19:48.369 --> 00:19:51.750
+a starting point but uh naturalness.
+
+362
+00:19:52.280 --> 00:19:57.170
+Mhm Does what we consider natural kinds depend on
+
+363
+00:19:57.180 --> 00:20:00.530
+the level of analysis we're using. So I was
+
+364
+00:20:00.540 --> 00:20:04.760
+thinking that for example, in biochemistry, we have, we
+
+365
+00:20:04.770 --> 00:20:08.295
+usually refer to molecules. But if we go down
+
+366
+00:20:08.305 --> 00:20:11.535
+one level and we're looking at it through the
+
+367
+00:20:11.545 --> 00:20:16.055
+lens of physics. Would the kinds there be the
+
+368
+00:20:16.064 --> 00:20:20.334
+elements or even the subatomic particles? How do we
+
+369
+00:20:20.344 --> 00:20:21.275
+approach that?
+
+370
+00:20:21.604 --> 00:20:24.295
+Yeah. Yeah. So I need to say that uh
+
+371
+00:20:24.305 --> 00:20:28.410
+I am quite generous in my kind ascription. So
+
+372
+00:20:28.420 --> 00:20:30.020
+I would say that there are all these types
+
+373
+00:20:30.030 --> 00:20:33.479
+of kinds. Uh I know that like other philosophers
+
+374
+00:20:33.489 --> 00:20:37.250
+like Thomas Taco that, that you interviewed and uh
+
+375
+00:20:37.260 --> 00:20:39.239
+and others would be, would have a much more
+
+376
+00:20:39.250 --> 00:20:42.130
+sparse account of natural kinds. They would say no,
+
+377
+00:20:42.140 --> 00:20:45.359
+like the only natural kinds are maybe like the
+
+378
+00:20:45.369 --> 00:20:48.729
+physical subatomic particles or if one wants to take
+
+379
+00:20:48.739 --> 00:20:50.530
+like a very bottom up approach, you know, the
+
+380
+00:20:50.540 --> 00:20:53.969
+only natural kind is the universe and then everything
+
+381
+00:20:53.979 --> 00:20:56.609
+guys is just a component. While I would say
+
+382
+00:20:56.619 --> 00:21:00.030
+that I'm personally quite generous, I think that uh
+
+383
+00:21:00.040 --> 00:21:03.199
+yes, it depends on the type of entity that
+
+384
+00:21:03.209 --> 00:21:06.000
+you are considering and that kinds can really be
+
+385
+00:21:06.010 --> 00:21:08.719
+clustered in a way that doesn't even have to
+
+386
+00:21:08.729 --> 00:21:12.699
+be hierarchical. Uh Like, I'm quite happy with like
+
+387
+00:21:12.709 --> 00:21:16.900
+cross cutting kinds uh or kinds that are like
+
+388
+00:21:16.910 --> 00:21:19.520
+in different, like at the same entity can present
+
+389
+00:21:19.530 --> 00:21:21.819
+different types of kinds as well. So as you
+
+390
+00:21:21.829 --> 00:21:25.119
+said, like if we take um even like a
+
+391
+00:21:25.130 --> 00:21:29.040
+complex molecule like water, then water can be kind
+
+392
+00:21:29.050 --> 00:21:30.709
+and then we can unpack it and we can
+
+393
+00:21:30.719 --> 00:21:32.589
+see that there is oxygen and hydrogen and then
+
+394
+00:21:32.599 --> 00:21:34.199
+we can unpack it and see that there are
+
+395
+00:21:34.209 --> 00:21:37.810
+protons, neurons and electrons uh and, and, and so
+
+396
+00:21:37.819 --> 00:21:40.670
+on and I personally don't have a problem with
+
+397
+00:21:40.680 --> 00:21:44.530
+that. So my, my, my ontology is quite busy
+
+398
+00:21:44.540 --> 00:21:46.020
+there. There are a lot of things.
+
+399
+00:21:46.750 --> 00:21:49.640
+Yeah. No, I was just asking because I mean,
+
+400
+00:21:49.650 --> 00:21:53.380
+if we want to be as reductive as possible,
+
+401
+00:21:53.390 --> 00:21:56.699
+there are people out there, philosophers of science, scientists
+
+402
+00:21:56.709 --> 00:22:00.920
+that would probably argue that the only real natural
+
+403
+00:22:00.930 --> 00:22:03.885
+kinds are the ones that we can find that
+
+404
+00:22:03.895 --> 00:22:08.234
+the physics level. And so things like subatomic particles
+
+405
+00:22:08.244 --> 00:22:10.795
+and, and stuff like that and all the rest
+
+406
+00:22:10.925 --> 00:22:14.395
+that we find above that level are not really
+
+407
+00:22:14.405 --> 00:22:16.895
+are not real kinds, I guess.
+
+408
+00:22:16.915 --> 00:22:20.790
+Yes. Yes. No, I don't like that. Um I
+
+409
+00:22:20.800 --> 00:22:23.089
+think that the word, like I need to say
+
+410
+00:22:23.099 --> 00:22:24.729
+that as a kind of rule of thumb, I
+
+411
+00:22:24.739 --> 00:22:27.920
+do find causality quite important. Like if something is
+
+412
+00:22:27.930 --> 00:22:30.689
+an important causal role, then we should take his
+
+413
+00:22:30.699 --> 00:22:34.060
+ontological profile at least seriously. Uh So we should
+
+414
+00:22:34.069 --> 00:22:37.790
+at least investigate um whether we, we have a
+
+415
+00:22:37.800 --> 00:22:41.750
+kind there. So uh yes,
+
+416
+00:22:42.780 --> 00:22:46.709
+and what uh to get into biochemistry specifically? What
+
+417
+00:22:46.719 --> 00:22:49.339
+are biochemical kinds then?
+
+418
+00:22:49.869 --> 00:22:52.989
+Yes. So, well, again, here I start from a
+
+419
+00:22:53.000 --> 00:22:56.329
+term that comes from the discipline biochemistry. But I
+
+420
+00:22:56.339 --> 00:22:59.689
+think that in my understanding of biochemical kinds, we
+
+421
+00:22:59.699 --> 00:23:04.640
+find all those molecules, ma molecules compounds that ever
+
+422
+00:23:04.729 --> 00:23:09.410
+all in um living systems. And that actually present
+
+423
+00:23:09.420 --> 00:23:14.219
+a combination of structural functional and evolutionary properties. So
+
+424
+00:23:14.229 --> 00:23:17.660
+this is how I understand them because um of
+
+425
+00:23:17.670 --> 00:23:20.140
+course, I I take that from the term biochemistry,
+
+426
+00:23:20.150 --> 00:23:22.500
+but I want to include also maybe kinds that
+
+427
+00:23:22.510 --> 00:23:27.089
+studied by structural biology uh by molecular biology. So
+
+428
+00:23:27.099 --> 00:23:30.839
+basically, like all those um chemical entities on the
+
+429
+00:23:30.849 --> 00:23:34.060
+one hand that display also these properties that are
+
+430
+00:23:34.069 --> 00:23:39.420
+relevant for life and for biological beings. So classic
+
+431
+00:23:39.430 --> 00:23:42.369
+examples are proteins which are of course one of
+
+432
+00:23:42.380 --> 00:23:45.569
+the main um the main cases, but I would
+
+433
+00:23:45.579 --> 00:23:50.040
+also include vitamins, carbohydrates, lipids, uh which are crucial
+
+434
+00:23:50.050 --> 00:23:53.209
+for membranes and the DNA and RN A which
+
+435
+00:23:53.219 --> 00:23:56.900
+are crucial for her heredity uh and also protein
+
+436
+00:23:56.910 --> 00:24:01.109
+synthesis. So these are all molecules that maybe like
+
+437
+00:24:01.119 --> 00:24:04.599
+in the different departments are studied by different people.
+
+438
+00:24:04.609 --> 00:24:08.270
+But they think that they share important properties and
+
+439
+00:24:08.280 --> 00:24:12.250
+uh my characterization of them is that uh linking
+
+440
+00:24:12.260 --> 00:24:15.290
+it. But what we were saying about kinds is
+
+441
+00:24:15.300 --> 00:24:18.000
+that in order to have these biochemical kinds as
+
+442
+00:24:18.010 --> 00:24:20.785
+I intend them, we need to have some chemical
+
+443
+00:24:20.795 --> 00:24:24.104
+structural properties that we need to identify. And the
+
+444
+00:24:24.114 --> 00:24:26.425
+investigation in itself of the notion of structure in
+
+445
+00:24:26.435 --> 00:24:29.535
+biochemistry is quite interesting because these molecules are macro
+
+446
+00:24:29.714 --> 00:24:32.295
+molecules most of the times. And so they don't
+
+447
+00:24:32.305 --> 00:24:36.675
+fit easily into the discussion of chemical structure in
+
+448
+00:24:36.685 --> 00:24:39.854
+the philosophy of chemistry literature because normally they focus
+
+449
+00:24:39.864 --> 00:24:44.939
+on stuff like uh either single elements which are
+
+450
+00:24:44.949 --> 00:24:48.709
+the most mostly discussed case study or um things
+
+451
+00:24:48.719 --> 00:24:51.670
+like water, which in a way are, is still
+
+452
+00:24:51.680 --> 00:24:55.760
+much simpler than something like a protein, for instance,
+
+453
+00:24:56.089 --> 00:24:59.430
+uh then they need to have a function. And
+
+454
+00:24:59.439 --> 00:25:01.780
+uh and this relates to the whole discussion on
+
+455
+00:25:01.790 --> 00:25:05.300
+like proteins functionality, but basically like it's this role
+
+456
+00:25:05.349 --> 00:25:09.969
+into biological processes. And this brings in evolutionary considerations
+
+457
+00:25:09.979 --> 00:25:13.189
+that is these molecules again, don't display random functions,
+
+458
+00:25:13.199 --> 00:25:17.390
+they display functions in processes that have been selected.
+
+459
+00:25:18.000 --> 00:25:21.890
+Um And they can have this causal contribution role.
+
+460
+00:25:21.949 --> 00:25:24.800
+So, and maybe even uh but this is really
+
+461
+00:25:24.810 --> 00:25:26.890
+something that I'm still trying to work out is
+
+462
+00:25:26.900 --> 00:25:29.050
+that we can maybe even put a constraint on
+
+463
+00:25:29.060 --> 00:25:33.339
+the fact that these molecules do have that should
+
+464
+00:25:33.349 --> 00:25:36.209
+be biosynthesis or there should be the possibility of
+
+465
+00:25:36.219 --> 00:25:40.910
+them being biosynthesis that is synthesized by organisms. Even
+
+466
+00:25:40.920 --> 00:25:43.000
+if of course, this now, especially with the new
+
+467
+00:25:43.010 --> 00:25:45.130
+tools that have just been awarded by the Nobel
+
+468
+00:25:45.140 --> 00:25:47.780
+Prize, for instance, in which we can predict new
+
+469
+00:25:47.790 --> 00:25:52.619
+molecules structure, design new molecules um for proteins. Uh
+
+470
+00:25:52.630 --> 00:25:54.979
+Maybe this criteria is a bit too strict. But
+
+471
+00:25:54.989 --> 00:25:56.770
+I think that still the fact that like these
+
+472
+00:25:56.780 --> 00:25:59.420
+molecules need to play a role in processes that
+
+473
+00:25:59.430 --> 00:26:03.030
+have been selected uh is important. So again, the
+
+474
+00:26:03.040 --> 00:26:04.569
+context is important.
+
+475
+00:26:05.869 --> 00:26:07.869
+And so let me just ask you when it
+
+476
+00:26:07.880 --> 00:26:11.709
+comes, when we're talking, for example, about proteins or
+
+477
+00:26:11.719 --> 00:26:16.410
+about lipids or about uh DNA, for example, uh
+
+478
+00:26:16.420 --> 00:26:19.359
+o of course, they have smaller components. They are
+
+479
+00:26:19.369 --> 00:26:21.895
+building blocks like in the case of proteins. We
+
+480
+00:26:21.905 --> 00:26:24.375
+have amino acids. In the case of lipids, we
+
+481
+00:26:24.385 --> 00:26:27.415
+have fatty acids. In the case of DNA, we
+
+482
+00:26:27.425 --> 00:26:32.645
+have N nucleotides. So would those be kinds or
+
+483
+00:26:32.655 --> 00:26:35.734
+how would you deal with the building the building
+
+484
+00:26:35.744 --> 00:26:37.694
+blocks there? What would you call them?
+
+485
+00:26:38.224 --> 00:26:40.635
+Yeah, I would say that they are definitely chemical
+
+486
+00:26:40.645 --> 00:26:45.099
+kind. Um So again, like given that I am
+
+487
+00:26:45.109 --> 00:26:47.670
+quite generous in my kind subscription, I think that
+
+488
+00:26:47.680 --> 00:26:50.380
+they are general, there are chemical kinds. We can
+
+489
+00:26:50.390 --> 00:26:54.579
+identify chemical structural properties, probably they can fit easily
+
+490
+00:26:54.589 --> 00:26:58.849
+into forms of micros structuralism, which is generally the
+
+491
+00:26:58.859 --> 00:27:03.380
+criteria applied for um for chemical kinds. Uh So
+
+492
+00:27:03.390 --> 00:27:06.859
+I think that uh yes, like they, they would
+
+493
+00:27:06.869 --> 00:27:10.170
+be. So I think that basically these components become
+
+494
+00:27:10.180 --> 00:27:13.150
+biochemical in the moment in which they are assembled
+
+495
+00:27:13.160 --> 00:27:15.989
+in the right way. So I think that that's
+
+496
+00:27:16.000 --> 00:27:18.790
+important and in the, and in the moment in
+
+497
+00:27:18.800 --> 00:27:21.750
+which they can display the functionality that they have.
+
+498
+00:27:21.760 --> 00:27:23.630
+So in the moment in which we can uh
+
+499
+00:27:24.239 --> 00:27:27.800
+yeah, think about the function that they display and
+
+500
+00:27:27.810 --> 00:27:31.000
+the role that they play in organisms uh that
+
+501
+00:27:31.010 --> 00:27:31.790
+have evolved.
+
+502
+00:27:32.619 --> 00:27:34.880
+Uh That's a very interesting point that you just
+
+503
+00:27:34.890 --> 00:27:38.969
+made there. So is it possible to identify exactly
+
+504
+00:27:38.979 --> 00:27:44.280
+at what point a molecule becomes a biomolecule or
+
+505
+00:27:44.290 --> 00:27:47.520
+when it's just an inorganic molecule, let's say,
+
+506
+00:27:48.510 --> 00:27:51.969
+yeah, I think that probably it's not easy to
+
+507
+00:27:51.979 --> 00:27:54.170
+identify the exact moment, but I would say that
+
+508
+00:27:54.180 --> 00:27:55.959
+the moment in which it plays a role in
+
+509
+00:27:55.969 --> 00:27:59.550
+a biological system, it becomes one. So I do
+
+510
+00:27:59.560 --> 00:28:04.020
+have this quite dynamic view of the interactions between
+
+511
+00:28:04.030 --> 00:28:07.150
+the so-called chemical and biological interfaces or chemical and
+
+512
+00:28:07.160 --> 00:28:11.905
+biological domains. Um And I think that, yeah, if
+
+513
+00:28:11.915 --> 00:28:13.155
+I would put it in a nutshell in a
+
+514
+00:28:13.165 --> 00:28:15.765
+kind of catchy way which is not super precise,
+
+515
+00:28:15.775 --> 00:28:18.185
+but maybe gives the idea is that a chemical
+
+516
+00:28:18.194 --> 00:28:23.275
+molecules become biomolecule. But yeah, or a biochemical in
+
+517
+00:28:23.285 --> 00:28:25.375
+the moment in which it plays a function in
+
+518
+00:28:25.385 --> 00:28:29.229
+an evolved system. Uh So there is this uh
+
+519
+00:28:29.239 --> 00:28:31.660
+there is this component I know that there are
+
+520
+00:28:31.670 --> 00:28:35.410
+counter examples like tricky cases. So for instance, what
+
+521
+00:28:35.420 --> 00:28:39.739
+about magnesium uh or lithium, they play important physiological
+
+522
+00:28:39.750 --> 00:28:44.380
+roles while we would still understand them osmotic chemical
+
+523
+00:28:44.520 --> 00:28:47.709
+uh entities. At the end, there are elements. Uh
+
+524
+00:28:47.719 --> 00:28:49.780
+And I think that there is like an interesting
+
+525
+00:28:49.790 --> 00:28:52.969
+case in which we have a chemical element or
+
+526
+00:28:52.979 --> 00:28:57.089
+a chemical kind that displays a biochemical function because
+
+527
+00:28:57.099 --> 00:29:00.579
+in the moment in which magnesium is contributing to
+
+528
+00:29:00.589 --> 00:29:03.920
+specific physiological property uh processes or even when they
+
+529
+00:29:03.930 --> 00:29:06.800
+say that like magnesium hates sleep. This is a
+
+530
+00:29:06.810 --> 00:29:10.839
+very like um yeah, kind of maybe a very
+
+531
+00:29:10.849 --> 00:29:13.599
+distal function because we're looking at a really an
+
+532
+00:29:13.609 --> 00:29:16.250
+overall organism thing. But this is one of these
+
+533
+00:29:16.260 --> 00:29:19.910
+cases in which we have chemical kinds like elements
+
+534
+00:29:19.920 --> 00:29:23.589
+that display a biochemical function. Why? Because they enter
+
+535
+00:29:23.599 --> 00:29:29.339
+into uh selected processes and they manifest like specific
+
+536
+00:29:29.410 --> 00:29:33.859
+contributions. Um AS yeah, II I don't think that
+
+537
+00:29:33.869 --> 00:29:37.800
+we can really be the kind of like police
+
+538
+00:29:37.810 --> 00:29:39.949
+there in like saying, oh you are biochemical, you
+
+539
+00:29:39.959 --> 00:29:41.930
+are chemical like all the time because I think
+
+540
+00:29:41.939 --> 00:29:44.459
+that a lot of analysis should be done case
+
+541
+00:29:44.469 --> 00:29:47.699
+by case. Uh But generally, there is this idea
+
+542
+00:29:47.709 --> 00:29:49.930
+that in the moment in which we find an
+
+543
+00:29:49.939 --> 00:29:55.119
+interaction uh in evolutionary processes, we we find something
+
+544
+00:29:55.130 --> 00:29:57.739
+biochemical and if we want to make it even
+
+545
+00:29:57.750 --> 00:30:01.670
+more strict, then we can say, well, not only
+
+546
+00:30:01.680 --> 00:30:04.089
+that, but also the fact that the processes have
+
+547
+00:30:04.099 --> 00:30:08.229
+been selected to interact with those molecules. So again,
+
+548
+00:30:08.239 --> 00:30:08.969
+context
+
+549
+00:30:09.619 --> 00:30:13.790
+uh so in that specific case, they would, we
+
+550
+00:30:13.800 --> 00:30:18.410
+would determine them as being biomolecules functionally and from
+
+551
+00:30:18.420 --> 00:30:21.479
+an evolutionary perspective as well, right? I mean, because
+
+552
+00:30:21.489 --> 00:30:25.229
+we can find, for example, lithium and other ions
+
+553
+00:30:25.239 --> 00:30:30.915
+and other molecules also in geological processes, for example,
+
+554
+00:30:30.925 --> 00:30:33.395
+in rocks and stuff like that. But in those
+
+555
+00:30:33.405 --> 00:30:37.594
+specific cases, since they are not performing a biological
+
+556
+00:30:37.604 --> 00:30:41.824
+or a physiological function, they are not biomolecules even
+
+557
+00:30:41.834 --> 00:30:44.984
+though they are exactly the same kinds of molecules.
+
+558
+00:30:45.055 --> 00:30:47.944
+Right? Yes, exactly. This is exactly what I would
+
+559
+00:30:47.954 --> 00:30:48.444
+say.
+
+560
+00:30:49.489 --> 00:30:52.109
+Uh And so uh le let me just ask
+
+561
+00:30:52.119 --> 00:30:55.829
+you because uh within the domain of proteins, we
+
+562
+00:30:55.839 --> 00:31:00.500
+have a very specific subcategory that is enzyme. So
+
+563
+00:31:00.510 --> 00:31:02.430
+how do we deal with them? Uh HOW do
+
+564
+00:31:02.439 --> 00:31:04.750
+you deal with them? Uh Do you say that
+
+565
+00:31:04.760 --> 00:31:08.449
+enzymes are also a kind or not?
+
+566
+00:31:10.199 --> 00:31:13.189
+Yes, I would say. So uh I would say
+
+567
+00:31:13.199 --> 00:31:15.560
+that like enzymes are also kind and like and
+
+568
+00:31:15.569 --> 00:31:20.150
+structural proteins are a different or like molecular motors
+
+569
+00:31:20.189 --> 00:31:23.020
+are different kinds. Uh That is, these are like
+
+570
+00:31:23.030 --> 00:31:26.349
+subcategories. And then again, given that I'm quite loose
+
+571
+00:31:26.359 --> 00:31:29.569
+and I'm happy with having like crosscut kinds. I'm
+
+572
+00:31:29.579 --> 00:31:32.479
+also happy for the same type of protein to
+
+573
+00:31:32.489 --> 00:31:35.869
+display different uh roles even at that level. So
+
+574
+00:31:35.880 --> 00:31:40.329
+one of my favorite examples are crystalline uh crystalline
+
+575
+00:31:40.339 --> 00:31:43.810
+are moonlighting proteins as they are called. Exactly because
+
+576
+00:31:43.819 --> 00:31:48.069
+they can display uh an enzymatic function in digestion
+
+577
+00:31:48.329 --> 00:31:53.050
+and the structural function inside. And uh they do
+
+578
+00:31:53.060 --> 00:31:57.050
+so basically by tweaking their ters structure a little
+
+579
+00:31:57.060 --> 00:31:59.609
+bit. So per se, they, they had the same
+
+580
+00:31:59.619 --> 00:32:02.140
+protein like they are classified as the same protein
+
+581
+00:32:02.150 --> 00:32:05.869
+mostly because uh they display the same primary and
+
+582
+00:32:05.880 --> 00:32:10.099
+tertiary structure uh to a great extent. But there
+
+583
+00:32:10.109 --> 00:32:13.640
+are differences like slight differences in the tertiary structure
+
+584
+00:32:13.650 --> 00:32:17.880
+which allow the molecules to perform different roles or
+
+585
+00:32:17.890 --> 00:32:21.380
+simply the inter the basically the surface of the
+
+586
+00:32:21.390 --> 00:32:25.250
+tertiary structure just gets slight modifications uh in a
+
+587
+00:32:25.260 --> 00:32:28.359
+way that then they can uh display different functions.
+
+588
+00:32:28.369 --> 00:32:31.530
+And by displaying different functions, we can classify them
+
+589
+00:32:31.540 --> 00:32:35.219
+as like enzymes or as structural proteins in the
+
+590
+00:32:35.229 --> 00:32:38.400
+different biological processes. So again, the fact that they
+
+591
+00:32:38.410 --> 00:32:41.380
+happen to be uh in processes that have, that
+
+592
+00:32:41.390 --> 00:32:45.000
+have a different evolutionary history, like the digestive process
+
+593
+00:32:45.010 --> 00:32:48.329
+and the side process uh allows us to identify
+
+594
+00:32:48.339 --> 00:32:50.729
+which pro which properties are relevant?
+
+595
+00:32:51.390 --> 00:32:56.699
+Mhm. But in biochemistry, since we are combining biology
+
+596
+00:32:56.709 --> 00:33:02.689
+with chemistry, do you distinguish between biological and chemical
+
+597
+00:33:02.699 --> 00:33:05.849
+functions? Is that something you do or not?
+
+598
+00:33:07.099 --> 00:33:10.400
+Well, so I think that well in biochemistry in
+
+599
+00:33:10.410 --> 00:33:12.939
+itself as a discipline, like I'm not a biochemist,
+
+600
+00:33:12.949 --> 00:33:16.040
+so probably uh my answer uh will just come
+
+601
+00:33:16.050 --> 00:33:19.199
+from me studying biochemistry. Uh But I don't think
+
+602
+00:33:19.209 --> 00:33:21.979
+that um there is a clear distinction between that.
+
+603
+00:33:21.989 --> 00:33:23.859
+I think that the notion of function is used
+
+604
+00:33:23.869 --> 00:33:26.900
+quite loosely and to mean different things in different
+
+605
+00:33:26.910 --> 00:33:30.369
+contexts. I do think that as a philosopher, for
+
+606
+00:33:30.380 --> 00:33:32.739
+instance, one of the useful thing that we can
+
+607
+00:33:32.750 --> 00:33:36.560
+do is to provide conceptual clarity by saying that
+
+608
+00:33:36.569 --> 00:33:40.089
+there are different notions of functionality at play according
+
+609
+00:33:40.099 --> 00:33:42.709
+to what we want to consider. So I think
+
+610
+00:33:42.719 --> 00:33:45.670
+that it is important to go um to distinguish
+
+611
+00:33:45.680 --> 00:33:50.699
+chemical functions from biochemical functions from biological functions because
+
+612
+00:33:50.709 --> 00:33:54.859
+these are going to tell us different information um
+
+613
+00:33:54.920 --> 00:33:58.180
+about the energy that we are considering that. So
+
+614
+00:33:58.609 --> 00:34:03.540
+chemical functions are quite loosely um applied in uh
+
+615
+00:34:03.560 --> 00:34:07.119
+in a description of functional groups, functional groups are
+
+616
+00:34:07.130 --> 00:34:11.699
+specific structural features of a chemical molecule uh or
+
+617
+00:34:11.708 --> 00:34:15.500
+compound or element which allow them to enter into
+
+618
+00:34:15.510 --> 00:34:19.389
+specific reactions. So it's basically what is telling us
+
+619
+00:34:19.399 --> 00:34:22.969
+uh the reactivity profile of a molecule. As you
+
+620
+00:34:22.978 --> 00:34:26.489
+can imagine if we take uh the molecules that
+
+621
+00:34:26.500 --> 00:34:30.409
+are normally considered in biochemistry, these molecules are massive,
+
+622
+00:34:30.800 --> 00:34:32.489
+they are very very big and they will have
+
+623
+00:34:32.500 --> 00:34:36.000
+loads of functional profiles in principle. Uh There will
+
+624
+00:34:36.010 --> 00:34:38.590
+be lots of different reactions in which the molecules
+
+625
+00:34:38.600 --> 00:34:41.030
+can enter. And it is why the moment in
+
+626
+00:34:41.040 --> 00:34:44.050
+which for instance, we want to consider the function
+
+627
+00:34:44.060 --> 00:34:47.188
+of vitamin B 12 in eroses or the function
+
+628
+00:34:47.199 --> 00:34:51.080
+of hemoglobin in binding and releasing oxygen. We are
+
+629
+00:34:51.090 --> 00:34:54.290
+not interested in all the functional profiles of the
+
+630
+00:34:54.300 --> 00:34:57.199
+macro molecules. We are interested in very specific ones.
+
+631
+00:34:57.209 --> 00:35:00.260
+We are interested in those parts of the molecules
+
+632
+00:35:00.270 --> 00:35:03.729
+and those chemical physical properties really which allow the
+
+633
+00:35:03.739 --> 00:35:06.919
+molecule to display the function in the given system.
+
+634
+00:35:07.479 --> 00:35:10.520
+And I think that for simpler molecules like for
+
+635
+00:35:10.530 --> 00:35:12.719
+instance, vitamin B 12, which at the end are
+
+636
+00:35:12.729 --> 00:35:16.600
+forms of cobalamin, then we can identify some functional
+
+637
+00:35:16.610 --> 00:35:19.919
+groups which are the specific ones that are able
+
+638
+00:35:19.929 --> 00:35:22.600
+to enter into the reactions relevant for a retro
+
+639
+00:35:23.209 --> 00:35:26.949
+pois. But if we consider molecules like proteins, then
+
+640
+00:35:26.959 --> 00:35:30.370
+not only we need to consider the chemical properties
+
+641
+00:35:30.379 --> 00:35:32.370
+of the molecule, but we also need to consider
+
+642
+00:35:32.379 --> 00:35:36.129
+the shape. So the ters structure is crucial because
+
+643
+00:35:36.340 --> 00:35:38.750
+again, here, it's interesting why we need to distinguish
+
+644
+00:35:38.760 --> 00:35:42.500
+chemical from biochemical functions. Because for instance, hemoglobin doesn't
+
+645
+00:35:42.510 --> 00:35:45.879
+only need to bind oxygen. The hemoglobin is to
+
+646
+00:35:45.889 --> 00:35:48.679
+release oxygen at the right time. So we need
+
+647
+00:35:48.689 --> 00:35:52.770
+to get this capacity um to bind the end
+
+648
+00:35:52.780 --> 00:35:55.540
+release oxygen, which is for which the the the
+
+649
+00:35:55.550 --> 00:35:58.760
+territory and then the quaternary structure uh is actually
+
+650
+00:35:58.770 --> 00:36:01.840
+crucial and then to this, we can add the
+
+651
+00:36:01.850 --> 00:36:04.800
+biological functionality, which I think is really the selected
+
+652
+00:36:04.810 --> 00:36:08.620
+effect your functionality I find is the most accepted
+
+653
+00:36:09.139 --> 00:36:12.570
+and successful uh account of functionality. And then for
+
+654
+00:36:12.580 --> 00:36:16.540
+that, we need evolutionary history. Uh And I think
+
+655
+00:36:16.550 --> 00:36:20.429
+that biological function ID can be applied differently to,
+
+656
+00:36:20.439 --> 00:36:24.110
+to different molecules uh because they can display a
+
+657
+00:36:24.120 --> 00:36:27.649
+more or less direct form of evolutionary history. So
+
+658
+00:36:27.659 --> 00:36:31.709
+again, taking examples, vitamin B 12 as a more
+
+659
+00:36:31.719 --> 00:36:34.870
+direct evolutionary history in the bacteria and archaea that
+
+660
+00:36:34.879 --> 00:36:38.250
+synthesize the molecule so that we can identify what
+
+661
+00:36:38.260 --> 00:36:40.600
+are the processes that have been selected to synthesize
+
+662
+00:36:40.610 --> 00:36:43.560
+the molecule in the organism while for the great
+
+663
+00:36:43.570 --> 00:36:47.169
+majority of mammals, but also algae. Uh Another species
+
+664
+00:36:47.179 --> 00:36:49.489
+which rely on, on, on vitamin B 12, we
+
+665
+00:36:49.500 --> 00:36:52.590
+need to consider a much bigger evolutionary history because
+
+666
+00:36:52.600 --> 00:36:55.189
+we need to get vitamin B 12 from those
+
+667
+00:36:55.199 --> 00:36:59.250
+bacterias that are synthesizing the molecule. And this happens
+
+668
+00:36:59.260 --> 00:37:03.550
+by a lot of different ecosystem interactions. And this
+
+669
+00:37:03.560 --> 00:37:06.479
+is of course different from the evolutionary history of
+
+670
+00:37:06.489 --> 00:37:09.879
+a protein that we synthesize such as hemoglobin. Um
+
+671
+00:37:10.540 --> 00:37:13.010
+BECAUSE in that case, we can identi and and
+
+672
+00:37:13.020 --> 00:37:16.510
+other proteins, we can identify a specific set of
+
+673
+00:37:16.520 --> 00:37:20.760
+genes or uh uh specific sequences which are encoding
+
+674
+00:37:20.989 --> 00:37:23.669
+for the protein. And for some of these proteins
+
+675
+00:37:23.679 --> 00:37:26.340
+is it's possible to have a direct evolutionary history.
+
+676
+00:37:26.350 --> 00:37:28.479
+Like we can track it, we can compare it.
+
+677
+00:37:28.699 --> 00:37:31.469
+There is a lot of really fascinating study on.
+
+678
+00:37:31.479 --> 00:37:34.929
+Um YEAH, comparing the different evolutionary history of proteins.
+
+679
+00:37:35.179 --> 00:37:37.870
+Uh And there we can apply biological functionality in
+
+680
+00:37:37.879 --> 00:37:41.489
+a different way because somehow it's more direct uh
+
+681
+00:37:41.500 --> 00:37:43.209
+so we can track it,
+
+682
+00:37:44.080 --> 00:37:47.239
+right? One very interesting thing that you mentioned there
+
+683
+00:37:47.250 --> 00:37:50.909
+are glossed over a little bit was the fact
+
+684
+00:37:51.229 --> 00:37:53.209
+that uh at a certain point you mentioned uh
+
+685
+00:37:53.219 --> 00:37:57.270
+tertiary structure, the tertiary structure of proteins. And I
+
+686
+00:37:57.280 --> 00:38:00.030
+mean, it's very interesting because at least in the
+
+687
+00:38:00.040 --> 00:38:03.580
+particular case of proteins, if I understand it correctly,
+
+688
+00:38:03.679 --> 00:38:07.409
+their function depends a lot on the way they
+
+689
+00:38:07.419 --> 00:38:10.550
+are structured, right? I mean, uh uh the uh
+
+690
+00:38:10.560 --> 00:38:13.764
+it, it, it sort the f their function sort
+
+691
+00:38:13.774 --> 00:38:17.094
+of derives at least to some extent from the
+
+692
+00:38:17.104 --> 00:38:20.524
+way they are structured physically.
+
+693
+00:38:20.625 --> 00:38:24.625
+Right? Yes. Yes, exactly. Um And this is uh
+
+694
+00:38:24.635 --> 00:38:28.885
+this is really fascinating uh because um the FF
+
+695
+00:38:29.014 --> 00:38:31.185
+folding can happen in many ways. So we move
+
+696
+00:38:31.195 --> 00:38:34.405
+from basically the result of the uh of DNA
+
+697
+00:38:34.415 --> 00:38:37.284
+expression to the test structure. This can happen in
+
+698
+00:38:37.294 --> 00:38:40.625
+many, many ways. Uh But somehow what is what
+
+699
+00:38:40.635 --> 00:38:44.760
+matters that is really the shape um because basically,
+
+700
+00:38:44.770 --> 00:38:48.060
+like it creates different surfaces that can then uh
+
+701
+00:38:48.070 --> 00:38:52.179
+interact differently in different contexts, which is why again,
+
+702
+00:38:52.189 --> 00:38:55.399
+like there is um that has been uh the
+
+703
+00:38:55.409 --> 00:38:58.729
+importance of uh for instance, the discoveries awarded by
+
+704
+00:38:58.739 --> 00:39:02.070
+the Nobel Prize are so important because they allow
+
+705
+00:39:02.080 --> 00:39:05.320
+us to go from primary to tertiary structure, which
+
+706
+00:39:05.330 --> 00:39:07.120
+is where the functionality happens
+
+707
+00:39:07.679 --> 00:39:10.969
+Mhm. And so let's talk then a little bit
+
+708
+00:39:10.979 --> 00:39:14.879
+about genes earlier at a certain point. You, I
+
+709
+00:39:14.889 --> 00:39:17.979
+think if I remember correctly, you talked about genes
+
+710
+00:39:17.989 --> 00:39:21.979
+as a sort of investigative kind. So te tell
+
+711
+00:39:21.989 --> 00:39:24.959
+us about that. What is, uh, gene? Exactly?
+
+712
+00:39:25.540 --> 00:39:28.620
+Yeah. So, um, I think that the genes are
+
+713
+00:39:28.629 --> 00:39:32.800
+a very fascinating notion because, um, they developed like
+
+714
+00:39:32.810 --> 00:39:36.000
+the kind of extension and intention of the gene,
+
+715
+00:39:36.040 --> 00:39:40.030
+the changed a lot, um through time. And I
+
+716
+00:39:40.040 --> 00:39:42.770
+think that it is quite important to specify which
+
+717
+00:39:42.780 --> 00:39:45.689
+type of gene we are talking about. So if
+
+718
+00:39:45.699 --> 00:39:47.600
+we are talking about a molecular gene or if
+
+719
+00:39:47.610 --> 00:39:50.040
+we are talking about a medallion gene, and at
+
+720
+00:39:50.050 --> 00:39:53.699
+which point in the history of molecular biology, we
+
+721
+00:39:53.709 --> 00:39:55.870
+are talking about genes because the term has been
+
+722
+00:39:55.879 --> 00:39:58.879
+really changing. Now, I would say that if we
+
+723
+00:39:58.889 --> 00:40:02.205
+want to make everyone happy, a common understanding of
+
+724
+00:40:02.215 --> 00:40:04.504
+the gene is the one of the molecular gene
+
+725
+00:40:04.754 --> 00:40:07.995
+and then the gene becomes a stretch or a
+
+726
+00:40:08.004 --> 00:40:12.074
+string uh often contiguous of DNA and RN A
+
+727
+00:40:12.084 --> 00:40:15.264
+that is encoding for the primary structure of a
+
+728
+00:40:15.274 --> 00:40:19.600
+protein or other functional RN A molecules. And this
+
+729
+00:40:19.610 --> 00:40:23.389
+is the kind of generally accepted definition, we also
+
+730
+00:40:23.399 --> 00:40:26.659
+find uh the definition of the Mendelian Gena, which
+
+731
+00:40:26.669 --> 00:40:31.310
+is uh which are these groups of actually stretches
+
+732
+00:40:31.320 --> 00:40:33.770
+of DNA which encode for a trade. And as
+
+733
+00:40:33.780 --> 00:40:36.030
+you can imagine, the scale of this is quite
+
+734
+00:40:36.040 --> 00:40:39.280
+different because in the molecular gene definition, we are
+
+735
+00:40:39.290 --> 00:40:42.870
+considering just the bits that are going to encode
+
+736
+00:40:42.879 --> 00:40:44.909
+for a protein, which of course is quite long,
+
+737
+00:40:44.919 --> 00:40:48.199
+but it's still way less complex than for instance,
+
+738
+00:40:48.209 --> 00:40:51.449
+the gene for the nose or for the heart
+
+739
+00:40:51.459 --> 00:40:54.489
+or for um or for other traits. So I
+
+740
+00:40:54.500 --> 00:40:57.100
+think that these are the two big notions that
+
+741
+00:40:57.110 --> 00:41:01.639
+we find in the literature. Uh I mostly worked
+
+742
+00:41:01.649 --> 00:41:04.199
+on the notion of the molecular gen as this
+
+743
+00:41:04.209 --> 00:41:06.889
+is really where a lot of the interactions uh
+
+744
+00:41:06.899 --> 00:41:10.000
+between uh uh chemistry and biology happen and between
+
+745
+00:41:10.010 --> 00:41:13.989
+life and chemical entities happen. Uh And I think
+
+746
+00:41:14.000 --> 00:41:16.439
+that the definition that I gave while it is
+
+747
+00:41:16.449 --> 00:41:20.010
+informative at like at the first stage is actually
+
+748
+00:41:20.020 --> 00:41:22.760
+quite inaccurate in the moment in which we consider
+
+749
+00:41:22.770 --> 00:41:25.780
+new discoveries, in particular, the discoveries of the last
+
+750
+00:41:25.790 --> 00:41:28.199
+40 years. Uh And what is called like the
+
+751
+00:41:28.209 --> 00:41:32.870
+post genomic revolution or a post genomic change um
+
+752
+00:41:32.879 --> 00:41:36.120
+in which thanks to the, the new discoveries that
+
+753
+00:41:36.129 --> 00:41:38.750
+we have made, we noticed that actually genes are
+
+754
+00:41:38.760 --> 00:41:43.520
+not, for instance, identical to conti stretches of DNA.
+
+755
+00:41:43.959 --> 00:41:47.219
+Uh And uh to this discovery and that like
+
+756
+00:41:47.229 --> 00:41:51.500
+actually, for instance, um polypeptide chains can be transcribed
+
+757
+00:41:51.510 --> 00:41:54.270
+by noncontiguous stretches of DNA that the same stretch
+
+758
+00:41:54.280 --> 00:41:57.659
+of DNA can encode for many different products. So
+
+759
+00:41:57.669 --> 00:42:00.520
+there is a lot of complexity there and uh
+
+760
+00:42:00.530 --> 00:42:03.290
+some of the reactions to these have been uh
+
+761
+00:42:03.469 --> 00:42:07.959
+eliminate, at least in a kind of ontological sense
+
+762
+00:42:07.969 --> 00:42:10.139
+that is, well, there is nothing like the gene,
+
+763
+00:42:10.149 --> 00:42:12.649
+the gene doesn't exist, we have DNA, we have
+
+764
+00:42:12.659 --> 00:42:17.780
+expression and these matters. Uh I don't walk that
+
+765
+00:42:17.790 --> 00:42:20.449
+route. Uh I think that actually what we can
+
+766
+00:42:20.459 --> 00:42:23.439
+do is that we can consider genes as temporal
+
+767
+00:42:23.449 --> 00:42:26.669
+entities. So this is quite, I know maybe a,
+
+768
+00:42:26.679 --> 00:42:28.870
+a kind of crazy idea, but I think that
+
+769
+00:42:28.879 --> 00:42:32.899
+it works because uh I think of genes as
+
+770
+00:42:32.909 --> 00:42:37.969
+um something that emerges or comes through uh expression.
+
+771
+00:42:37.979 --> 00:42:39.750
+So they exist in the moment in which they
+
+772
+00:42:39.760 --> 00:42:44.590
+are transcribed basically. Uh And if we take this
+
+773
+00:42:44.600 --> 00:42:47.580
+temporal notion of gene and this uh kind of
+
+774
+00:42:47.590 --> 00:42:50.850
+flexible notion of genes, then genes can become entities
+
+775
+00:42:50.860 --> 00:42:55.139
+that exist as realized by specific sequences in a
+
+776
+00:42:55.149 --> 00:42:57.820
+given moment in time. But in another moment in
+
+777
+00:42:57.830 --> 00:43:01.709
+time, the same sequences can realize or can constitute
+
+778
+00:43:01.719 --> 00:43:04.620
+actually a different gene which has a different function
+
+779
+00:43:04.629 --> 00:43:10.139
+because it encodes for a different protein or uh
+
+780
+00:43:10.149 --> 00:43:11.419
+yeah, molecular products.
+
+781
+00:43:12.610 --> 00:43:15.149
+Uh That's all very interesting. Uh And please correct
+
+782
+00:43:15.159 --> 00:43:17.070
+me if I'm wrong. But if I understand it
+
+783
+00:43:17.080 --> 00:43:22.090
+correctly, we don't have uh uh the, the entirety
+
+784
+00:43:22.100 --> 00:43:25.300
+of the information we need to produce a protein
+
+785
+00:43:25.459 --> 00:43:29.179
+in just the gene alone because in going from
+
+786
+00:43:29.189 --> 00:43:33.260
+the gene through the transcription to MRN A and
+
+787
+00:43:33.270 --> 00:43:36.979
+then translation through TRN A and then getting the
+
+788
+00:43:37.070 --> 00:43:41.350
+the protein itself, we go through several steps where
+
+789
+00:43:41.360 --> 00:43:46.090
+post transcription factors, for example, play a role, right?
+
+790
+00:43:46.100 --> 00:43:47.879
+I mean, so what I'm trying to say is
+
+791
+00:43:47.889 --> 00:43:52.860
+that uh when it comes to the information necessary
+
+792
+00:43:52.870 --> 00:43:56.669
+to produce a protein, it's not entirely in the
+
+793
+00:43:56.679 --> 00:43:58.239
+gene itself.
+
+794
+00:43:58.320 --> 00:44:01.620
+Right. Yeah. Yeah, that's, this is, this is very
+
+795
+00:44:01.629 --> 00:44:04.840
+true. And again, I think that uh the context
+
+796
+00:44:04.850 --> 00:44:09.090
+in which gene expression happen matters massively. Like, I
+
+797
+00:44:09.100 --> 00:44:12.340
+really love this definition from Griffiths and sts kala
+
+798
+00:44:12.709 --> 00:44:15.199
+dos that the genes are things that cells do
+
+799
+00:44:15.209 --> 00:44:18.889
+with their genome. Uh BECAUSE this gives the idea
+
+800
+00:44:18.899 --> 00:44:21.429
+of the fact that like the cellular context is
+
+801
+00:44:21.439 --> 00:44:25.050
+massively important for the determination of all of this
+
+802
+00:44:25.060 --> 00:44:27.330
+behavior and all of this uh reading. And then
+
+803
+00:44:27.340 --> 00:44:30.889
+of course, with that, all the factors around the
+
+804
+00:44:30.899 --> 00:44:35.489
+sequences which you mentioned again, like recently awarded discovery
+
+805
+00:44:35.500 --> 00:44:37.780
+of Macro RN A and the the role that
+
+806
+00:44:37.790 --> 00:44:41.500
+it has in uh uh in these processes, the
+
+807
+00:44:41.510 --> 00:44:43.649
+fact that like genes are regulated, the fact that
+
+808
+00:44:43.659 --> 00:44:47.020
+there are networks, uh all of these market ma
+
+809
+00:44:47.129 --> 00:44:50.570
+massively. So like genes are a highly contextual entities
+
+810
+00:44:50.580 --> 00:44:53.399
+in the sense that um they are really realized
+
+811
+00:44:53.409 --> 00:44:57.090
+by this very complex machinery, which is uh offered
+
+812
+00:44:57.100 --> 00:45:01.159
+first firstly by the cell. Uh And then, um
+
+813
+00:45:01.169 --> 00:45:04.110
+and then even by the, the whole organism matters.
+
+814
+00:45:04.120 --> 00:45:06.540
+And I think that this probably was one of
+
+815
+00:45:06.550 --> 00:45:10.050
+the most surprising thing about some of the research
+
+816
+00:45:10.060 --> 00:45:13.169
+projects. Uh FOR instance, the human genome project that
+
+817
+00:45:13.179 --> 00:45:15.219
+they were hoping that in the moment in which
+
+818
+00:45:15.229 --> 00:45:17.169
+you get the sequence, you will get all the
+
+819
+00:45:17.179 --> 00:45:19.820
+information that you need. Uh And this, of course,
+
+820
+00:45:19.830 --> 00:45:22.899
+and this has proven to be quite disappointing because
+
+821
+00:45:22.909 --> 00:45:24.500
+actually, it is the way in which you read
+
+822
+00:45:24.510 --> 00:45:26.250
+the sequence, the way in which the sequence is
+
+823
+00:45:26.260 --> 00:45:29.729
+transcribed, the whole interactions that happen in the cell
+
+824
+00:45:29.739 --> 00:45:33.060
+that for a lot of phenomena are, are really
+
+825
+00:45:33.070 --> 00:45:36.209
+important. This of course, doesn't mean that there aren't
+
+826
+00:45:36.219 --> 00:45:40.070
+specific cases in which actually having the sequences is
+
+827
+00:45:40.080 --> 00:45:43.820
+telling you everything you need. Like luckily for medicine,
+
+828
+00:45:43.830 --> 00:45:45.479
+we know that there are some diseases that are
+
+829
+00:45:45.489 --> 00:45:48.790
+caused by very specific sequences. And the fact that
+
+830
+00:45:48.800 --> 00:45:50.989
+we have this knowledge allows us to intervene. Uh
+
+831
+00:45:51.439 --> 00:45:54.709
+BUT generally for uh the great majority of the
+
+832
+00:45:54.719 --> 00:45:57.270
+other genes and for a lot of complex um
+
+833
+00:45:58.260 --> 00:46:01.100
+phenomena, the interaction is way more complicated than uh
+
+834
+00:46:01.620 --> 00:46:03.389
+just the realization of a sequence.
+
+835
+00:46:03.949 --> 00:46:07.389
+Mhm. Yeah, it's very interesting. So there's a lot,
+
+836
+00:46:07.399 --> 00:46:09.620
+if I understand it correctly, there's a lot of
+
+837
+00:46:09.629 --> 00:46:13.929
+context dependency here when it comes to genes and
+
+838
+00:46:14.100 --> 00:46:17.919
+uh the link between, for example, genes and traits
+
+839
+00:46:17.929 --> 00:46:20.030
+or genes and proteins. Right.
+
+840
+00:46:20.820 --> 00:46:24.030
+Yes. Yes, exactly. Um I, I do think that
+
+841
+00:46:24.040 --> 00:46:26.760
+there is um that context dependence is, is really
+
+842
+00:46:26.770 --> 00:46:30.899
+crucial for uh all of the biochemical stuff really.
+
+843
+00:46:30.909 --> 00:46:33.639
+So genes in particular are, are an important case.
+
+844
+00:46:33.649 --> 00:46:36.209
+But also for everything we talked about, I think
+
+845
+00:46:36.219 --> 00:46:39.570
+that context is crucial. Now, some philosophers I know
+
+846
+00:46:39.870 --> 00:46:42.610
+uh take context as a threat, as a threat
+
+847
+00:46:42.620 --> 00:46:44.780
+to naturalness or as a threat to reality. Like
+
+848
+00:46:44.790 --> 00:46:48.020
+if something is context dependent is like less existent.
+
+849
+00:46:48.439 --> 00:46:51.699
+Uh I don't endorse that. I think that first,
+
+850
+00:46:51.709 --> 00:46:55.669
+it is important to distinguish context dependency from discipline,
+
+851
+00:46:55.679 --> 00:46:59.389
+dependency. That is for instance, like it's not the
+
+852
+00:46:59.399 --> 00:47:02.949
+fact that I am a biologist or a chemist
+
+853
+00:47:02.959 --> 00:47:05.830
+that matters for my understanding for the gene, it
+
+854
+00:47:05.840 --> 00:47:09.070
+can influence my empirical study. So I can decide
+
+855
+00:47:09.080 --> 00:47:12.040
+to focus more on some properties rather than others.
+
+856
+00:47:12.429 --> 00:47:15.760
+Um But it is really like an epistemic distinction
+
+857
+00:47:15.770 --> 00:47:19.159
+or the main distinction. And this is really epistemic.
+
+858
+00:47:19.459 --> 00:47:22.459
+Uh And maybe that can actually matter for instance,
+
+859
+00:47:22.469 --> 00:47:25.739
+for uh uh naturalness or non naturalness or uh
+
+860
+00:47:25.750 --> 00:47:29.370
+kind. But I, I think that context dependence is
+
+861
+00:47:29.379 --> 00:47:33.300
+something different as this relates to the actual interactions
+
+862
+00:47:33.310 --> 00:47:37.100
+that happen in the systems that we are considering.
+
+863
+00:47:37.459 --> 00:47:40.219
+And um I don't consider that as a particular
+
+864
+00:47:40.229 --> 00:47:42.840
+threat also because I think that everything is actually
+
+865
+00:47:42.850 --> 00:47:46.479
+really context dependent. Uh BECAUSE every time we don't
+
+866
+00:47:46.729 --> 00:47:50.060
+consider context dependency, we are making an abstraction. So
+
+867
+00:47:50.070 --> 00:47:53.919
+we are getting rid of parts of the context
+
+868
+00:47:53.929 --> 00:47:56.429
+in which uh something exists, which can be really
+
+869
+00:47:56.439 --> 00:48:00.830
+useful for, for some specific purposes. Uh But then
+
+870
+00:48:00.840 --> 00:48:03.479
+I actually find that yeah, things really get to
+
+871
+00:48:03.489 --> 00:48:08.830
+be what they are because of the context they
+
+872
+00:48:08.840 --> 00:48:11.350
+are in and the relationships they are in matter
+
+873
+00:48:11.360 --> 00:48:13.100
+for their identity. And I think the genes are
+
+874
+00:48:13.110 --> 00:48:15.330
+a paradigmatic case, but also what we talked about
+
+875
+00:48:15.340 --> 00:48:18.909
+earlier, like lithium in a mountain or magnesium in
+
+876
+00:48:18.919 --> 00:48:21.689
+a mountain is going to be something different from
+
+877
+00:48:21.699 --> 00:48:24.280
+me, taking my magnesium before going to sleep because
+
+878
+00:48:24.290 --> 00:48:26.500
+I want to sleep better. I just say,
+
+879
+00:48:28.770 --> 00:48:32.689
+yeah, no, it's, it's really very interesting. And I
+
+880
+00:48:32.699 --> 00:48:35.330
+was thinking when you mentioned that there are people
+
+881
+00:48:35.340 --> 00:48:38.800
+out there who whenever we talk about context or
+
+882
+00:48:38.810 --> 00:48:42.270
+context dependency, they think that the things who are
+
+883
+00:48:42.280 --> 00:48:46.189
+context dependent are less real than things who are
+
+884
+00:48:46.199 --> 00:48:49.879
+not context dependent. Do you think that could be
+
+885
+00:48:49.889 --> 00:48:55.330
+because many the philosophers of science and even even
+
+886
+00:48:55.340 --> 00:48:59.649
+more so scientists themselves have this sort of substance
+
+887
+00:48:59.659 --> 00:49:03.260
+ontology? And uh I mean, if they adopted, for
+
+888
+00:49:03.270 --> 00:49:06.899
+example, a process ontology, then it would be easier
+
+889
+00:49:06.909 --> 00:49:12.669
+for them to understand processes themselves as being real
+
+890
+00:49:12.679 --> 00:49:15.790
+instead of uh substances, for example.
+
+891
+00:49:16.659 --> 00:49:19.260
+Uh Yeah, I think that there is definitely something
+
+892
+00:49:19.270 --> 00:49:22.979
+like that. I don't think that substance ontology necessarily
+
+893
+00:49:22.989 --> 00:49:26.570
+is uh against context, but I find that definitely
+
+894
+00:49:26.580 --> 00:49:30.090
+the focus on intrinsic properties is so I think
+
+895
+00:49:30.100 --> 00:49:33.560
+that there has been historically this um preference for
+
+896
+00:49:33.570 --> 00:49:36.239
+intrinsic properties. Like I think that one studies the
+
+897
+00:49:36.250 --> 00:49:39.540
+history of philosophy of Western philosophy uh in the
+
+898
+00:49:39.550 --> 00:49:41.939
+great majority of cases. Uh THIS has been the
+
+899
+00:49:41.949 --> 00:49:43.659
+case and of course, there is a value to
+
+900
+00:49:43.669 --> 00:49:49.139
+it. Why? Because intrinsic properties favor stability stabilities is
+
+901
+00:49:49.629 --> 00:49:52.409
+stability. So it's easier to identify, it's easier to
+
+902
+00:49:52.419 --> 00:49:55.120
+rely on. So there is this and and it
+
+903
+00:49:55.129 --> 00:49:57.479
+is quite useful. I do find that it's not
+
+904
+00:49:57.489 --> 00:49:59.870
+that the process of abstraction in which we focus
+
+905
+00:49:59.879 --> 00:50:02.969
+on what is stable are necessarily self defeating for
+
+906
+00:50:02.979 --> 00:50:06.179
+empirical or epistemic purposes. I just think that in
+
+907
+00:50:06.189 --> 00:50:08.030
+the moment in which we want to bring back
+
+908
+00:50:08.040 --> 00:50:09.929
+the entity into reality and we want to get
+
+909
+00:50:09.939 --> 00:50:13.090
+an overall characterization of what something is, then we
+
+910
+00:50:13.100 --> 00:50:16.530
+need to be open to consider relational level properties
+
+911
+00:50:16.540 --> 00:50:19.929
+as well and it it extrinsic properties and uh
+
+912
+00:50:19.939 --> 00:50:24.209
+then definitely something like a process ontology or even
+
+913
+00:50:24.219 --> 00:50:29.080
+forms of antique structural realism uh can be really
+
+914
+00:50:29.090 --> 00:50:33.469
+insightful um uh in uh in, in our understanding.
+
+915
+00:50:33.479 --> 00:50:35.860
+So I don't think that there is necessarily the
+
+916
+00:50:35.870 --> 00:50:38.320
+need to like get rid of objects or get
+
+917
+00:50:38.330 --> 00:50:40.610
+rid of substances. But I think that we need
+
+918
+00:50:40.620 --> 00:50:43.139
+to become a bit loser in the type of
+
+919
+00:50:43.149 --> 00:50:45.939
+properties that we think are relevant for these entities,
+
+920
+00:50:45.949 --> 00:50:49.340
+especially when we consider entities that are really at
+
+921
+00:50:49.350 --> 00:50:54.409
+the borders like biochemical entities or genes uh for
+
+922
+00:50:54.449 --> 00:50:56.110
+which the interactions matter,
+
+923
+00:50:56.860 --> 00:51:00.879
+right? Uh uh But because genes are so context
+
+924
+00:51:00.969 --> 00:51:04.649
+dependent and we also have or add post post
+
+925
+00:51:04.709 --> 00:51:07.560
+genomic discoveries, like for example, the fact that the
+
+926
+00:51:07.570 --> 00:51:11.080
+expression of genes is regulated. And so we have
+
+927
+00:51:11.090 --> 00:51:14.219
+epigenetics and then also, as we mentioned earlier, we
+
+928
+00:51:14.229 --> 00:51:17.939
+have a post transcription factors playing a role in
+
+929
+00:51:17.949 --> 00:51:20.620
+the kinds of proteins that are produced, et cetera.
+
+930
+00:51:20.939 --> 00:51:26.169
+Um Can we still consider genes natural kinds or
+
+931
+00:51:26.290 --> 00:51:26.489
+not?
+
+932
+00:51:26.570 --> 00:51:29.780
+Yeah. Yeah. Excellent question. I do think that like
+
+933
+00:51:29.790 --> 00:51:33.800
+molecular genes can still be considered natural kinds. Um
+
+934
+00:51:33.889 --> 00:51:36.389
+BUT we need to consider the relevant properties for
+
+935
+00:51:36.399 --> 00:51:38.129
+it. So we need to consider the fact that
+
+936
+00:51:38.139 --> 00:51:41.080
+genes are not simply structural entities. So they are
+
+937
+00:51:41.090 --> 00:51:44.669
+not simply specific strands of DNA or RN A
+
+938
+00:51:44.679 --> 00:51:47.850
+for, for some species. Uh The fact that genes
+
+939
+00:51:47.860 --> 00:51:50.830
+uh needs to have a functional provider, uh it
+
+940
+00:51:50.840 --> 00:51:53.010
+is very important and this brings in also the
+
+941
+00:51:53.020 --> 00:51:56.510
+evolutionary history. So those three properties that I mentioned
+
+942
+00:51:56.520 --> 00:52:00.179
+earlier about biochemical kinds. So the fact that biochemical
+
+943
+00:52:00.189 --> 00:52:02.429
+kinds need to have a structure and they need
+
+944
+00:52:02.439 --> 00:52:04.780
+to have a function and they need to have
+
+945
+00:52:04.790 --> 00:52:08.169
+an evolutionary history matters for our consideration of the
+
+946
+00:52:08.179 --> 00:52:11.540
+naturalness of the genes. I do find that like
+
+947
+00:52:11.550 --> 00:52:14.199
+genes are natural because they can be quite project.
+
+948
+00:52:14.350 --> 00:52:16.790
+So the moment in which we consider genes in
+
+949
+00:52:16.800 --> 00:52:18.899
+terms of their expression and we are able to
+
+950
+00:52:18.909 --> 00:52:22.729
+predict and explain a lot of things uh which
+
+951
+00:52:22.739 --> 00:52:24.989
+is similar for cases as I mentioned earlier in
+
+952
+00:52:25.000 --> 00:52:27.879
+which the stretch of DNA that realizes the gene
+
+953
+00:52:27.889 --> 00:52:31.179
+is quite stable. Uh But this is still possible
+
+954
+00:52:31.189 --> 00:52:33.570
+for like a lot of research. And also genes
+
+955
+00:52:33.580 --> 00:52:36.439
+display a core role in our causal structure in
+
+956
+00:52:36.449 --> 00:52:40.750
+the cells because they express the protein. So and
+
+957
+00:52:40.760 --> 00:52:43.419
+they encode the protein which in other, in other
+
+958
+00:52:43.429 --> 00:52:47.409
+very important molecules and this as a crucial causal
+
+959
+00:52:47.419 --> 00:52:47.909
+role.
+
+960
+00:52:48.540 --> 00:52:51.580
+Mhm So there's one last topic I would like
+
+961
+00:52:51.590 --> 00:52:54.169
+to ask you about and I think it's completely
+
+962
+00:52:54.179 --> 00:52:56.959
+unrelated to what we've been talking about up till
+
+963
+00:52:56.969 --> 00:52:59.270
+now. But I, I want to ask you because
+
+964
+00:52:59.280 --> 00:53:03.070
+I found it really interesting. Uh You've written on
+
+965
+00:53:03.080 --> 00:53:06.879
+the application of virtue ethics to the context of
+
+966
+00:53:06.889 --> 00:53:10.159
+the COVID-19 pandemic. Could you tell us about that?
+
+967
+00:53:10.760 --> 00:53:14.610
+Yes. Yes. Uh So this is uh yeah, really
+
+968
+00:53:15.360 --> 00:53:17.739
+a a side project. II, I need to say
+
+969
+00:53:17.750 --> 00:53:20.189
+that um I think of myself as like a
+
+970
+00:53:20.199 --> 00:53:23.080
+philosopher that does mostly philosophy of science, but I
+
+971
+00:53:23.090 --> 00:53:26.280
+am interested in a lot of philosophical questions. So
+
+972
+00:53:26.290 --> 00:53:28.689
+I have a lot of, yeah, uh kind of
+
+973
+00:53:28.699 --> 00:53:32.120
+like side projects and side interests and uh I
+
+974
+00:53:32.129 --> 00:53:35.649
+guess it, those papers as for many of us
+
+975
+00:53:35.729 --> 00:53:37.820
+really came from the fact that we got hit
+
+976
+00:53:37.830 --> 00:53:41.560
+by this very, like very harsh reality. Uh And
+
+977
+00:53:41.570 --> 00:53:44.629
+especially for myself, I was uh stuck in uh
+
+978
+00:53:44.639 --> 00:53:47.590
+far away from home. I am originally from Italy.
+
+979
+00:53:47.850 --> 00:53:49.750
+Uh And as we know, like the north of
+
+980
+00:53:49.760 --> 00:53:52.679
+Italy in particular was really impacted by, by the
+
+981
+00:53:52.689 --> 00:53:54.649
+pandemic and a part of me felt that I
+
+982
+00:53:54.659 --> 00:53:56.979
+needed to do something about it, which I think
+
+983
+00:53:56.989 --> 00:54:00.719
+was what a lot of people felt. Uh And,
+
+984
+00:54:00.729 --> 00:54:02.729
+and, and my idea was like, OK, like there
+
+985
+00:54:02.739 --> 00:54:04.520
+is a lot of talk which seems to be
+
+986
+00:54:04.530 --> 00:54:09.989
+based on ethical schemes that again are quite rigid.
+
+987
+00:54:10.459 --> 00:54:13.129
+Uh And they don't consider the fact that like
+
+988
+00:54:13.139 --> 00:54:15.379
+a lot of our actions are done by individuals
+
+989
+00:54:15.389 --> 00:54:17.699
+in context. So I feel that probably there is
+
+990
+00:54:17.709 --> 00:54:21.300
+this social context which comes in again. Uh And
+
+991
+00:54:21.310 --> 00:54:23.639
+so I wanted to suggest a paper in which
+
+992
+00:54:23.649 --> 00:54:26.500
+if we bring in vir trades, which not only
+
+993
+00:54:26.510 --> 00:54:29.050
+focuses on the actions of the character of the
+
+994
+00:54:29.060 --> 00:54:33.239
+individual, but also as this flexibility regarding what we
+
+995
+00:54:33.250 --> 00:54:36.409
+can, what each individual can do in each context
+
+996
+00:54:36.639 --> 00:54:40.500
+compared to, for instance, a more indicating or a
+
+997
+00:54:40.530 --> 00:54:46.360
+more uh utilitarian ethics or consequentialist ethics um which
+
+998
+00:54:46.370 --> 00:54:48.540
+seems to be up at a much more like
+
+999
+00:54:48.550 --> 00:54:50.830
+a group level or either like at a principal
+
+1000
+00:54:50.840 --> 00:54:54.320
+level. Uh I thought that uh yeah, exploring that
+
+1001
+00:54:54.330 --> 00:54:57.679
+would provide a different angle to a lot of
+
+1002
+00:54:57.689 --> 00:55:01.199
+the talk that especially in the UK, which is
+
+1003
+00:55:01.209 --> 00:55:03.330
+not a surprise, but there was a lot of
+
+1004
+00:55:03.340 --> 00:55:06.159
+like utilitarian mindset, like we need to think about
+
+1005
+00:55:06.239 --> 00:55:08.540
+what is good for the majority, uh at least
+
+1006
+00:55:08.550 --> 00:55:10.830
+at the beginning because then of course, the the
+
+1007
+00:55:10.840 --> 00:55:13.260
+situation changed. Uh But there was a lot of,
+
+1008
+00:55:13.270 --> 00:55:14.949
+a lot of like, OK, we need to think
+
+1009
+00:55:14.959 --> 00:55:16.909
+about what is good for the majority, what is
+
+1010
+00:55:16.919 --> 00:55:20.689
+going to maximize the outcome and then if something
+
+1011
+00:55:20.699 --> 00:55:22.439
+is going to get loose or someone is going
+
+1012
+00:55:22.449 --> 00:55:25.209
+to get loose in the way, whatever kind of
+
+1013
+00:55:25.219 --> 00:55:28.449
+thing. Uh And that really surprised me in a
+
+1014
+00:55:28.459 --> 00:55:30.310
+way or rather hit me personally. And I was
+
+1015
+00:55:30.320 --> 00:55:32.820
+like, OK, we, we, we need to think about
+
+1016
+00:55:32.830 --> 00:55:35.949
+these things from a different angle. I also found
+
+1017
+00:55:35.959 --> 00:55:39.729
+that those type of talk in that context was
+
+1018
+00:55:39.739 --> 00:55:42.820
+also taking away agency from all of us because
+
+1019
+00:55:42.830 --> 00:55:45.820
+again, deciding for the majority is not something that
+
+1020
+00:55:45.830 --> 00:55:48.620
+an individual can do unless you are a politician
+
+1021
+00:55:48.629 --> 00:55:52.239
+or someone that is in the ruler position. While
+
+1022
+00:55:52.250 --> 00:55:55.100
+instead deciding every day what I can do to
+
+1023
+00:55:55.110 --> 00:55:58.889
+contribute to my situation, which is what virtually invited
+
+1024
+00:55:58.899 --> 00:56:02.979
+to gives us more agency, more control. Um EVEN
+
+1025
+00:56:02.989 --> 00:56:05.040
+in situations of legal control, but you are not
+
+1026
+00:56:05.050 --> 00:56:10.399
+anymore um spectator of choices, but it can also
+
+1027
+00:56:10.409 --> 00:56:13.870
+be quite empowering. So I think that those were
+
+1028
+00:56:13.879 --> 00:56:15.169
+some of the motivations,
+
+1029
+00:56:16.590 --> 00:56:20.350
+but in this particular case of the COVID-19 pandemic,
+
+1030
+00:56:20.360 --> 00:56:24.689
+which virtues would you say are the most relevant
+
+1031
+00:56:24.699 --> 00:56:25.689
+to consider here?
+
+1032
+00:56:26.649 --> 00:56:29.879
+Yes, that's a good question. Um I do find
+
+1033
+00:56:29.889 --> 00:56:33.290
+that generally like the virtue of prudence as it
+
+1034
+00:56:33.300 --> 00:56:37.020
+is understood, which is basically trying to evaluate in
+
+1035
+00:56:37.030 --> 00:56:41.860
+each circumstance, which virtues you should use uh was
+
+1036
+00:56:41.899 --> 00:56:44.520
+probably the most relevant prudence is also the most
+
+1037
+00:56:44.530 --> 00:56:47.540
+difficult virtue. Uh BECAUSE of course, it requires a
+
+1038
+00:56:47.550 --> 00:56:51.820
+lot of um analysis and control. I also find
+
+1039
+00:56:51.830 --> 00:56:55.629
+that forms of bravery, not in the sense of
+
+1040
+00:56:55.639 --> 00:56:58.520
+uh bravery as, oh, I go outside and face
+
+1041
+00:56:58.530 --> 00:57:01.800
+danger and uh I fight the virus because unfortunately,
+
+1042
+00:57:01.820 --> 00:57:05.090
+we couldn't, we can't do that braver in the
+
+1043
+00:57:05.100 --> 00:57:09.610
+sense of OK, I might sacrifice some parts of
+
+1044
+00:57:09.620 --> 00:57:12.090
+my well being if this is going to help
+
+1045
+00:57:12.100 --> 00:57:14.510
+someone else, if this is going to help someone
+
+1046
+00:57:14.520 --> 00:57:17.780
+that is maybe more vulnerable than myself. So there
+
+1047
+00:57:17.790 --> 00:57:19.699
+is this element of like, OK, maybe wearing a
+
+1048
+00:57:19.709 --> 00:57:23.139
+mask is not pleasant, but if wearing a mask
+
+1049
+00:57:23.149 --> 00:57:27.129
+can save someone or can at least contribute to
+
+1050
+00:57:27.469 --> 00:57:29.469
+uh preventing that someone that is in a really
+
+1051
+00:57:29.479 --> 00:57:33.320
+vulnerable position uh gets infected, then I can choose
+
+1052
+00:57:33.330 --> 00:57:37.100
+as an individual to do. So. Um So uh
+
+1053
+00:57:37.110 --> 00:57:41.719
+yeah, so probably like prudence, benevolence, uh courage or
+
+1054
+00:57:41.729 --> 00:57:47.120
+like um being brave were definitely uh relevant virtues.
+
+1055
+00:57:48.310 --> 00:57:51.250
+What about humility? Do you think that it would
+
+1056
+00:57:51.260 --> 00:57:53.939
+also make sense as a virtue in the context
+
+1057
+00:57:53.949 --> 00:57:57.639
+where perhaps we have to rely a lot on
+
+1058
+00:57:57.649 --> 00:57:59.560
+what experts are saying?
+
+1059
+00:58:00.260 --> 00:58:02.540
+Yeah, that's a very good point. So I think
+
+1060
+00:58:02.550 --> 00:58:07.189
+that um humidity play a role, but I understand
+
+1061
+00:58:07.199 --> 00:58:10.239
+that I think that we shouldn't go with the
+
+1062
+00:58:10.250 --> 00:58:13.280
+kind of like proper understanding of humidity in that
+
+1063
+00:58:13.290 --> 00:58:16.000
+case. Uh I think we should really like consider
+
+1064
+00:58:16.010 --> 00:58:19.780
+the definition of intellectual humility that is provided in
+
+1065
+00:58:19.790 --> 00:58:22.280
+a lot of the literature on the topic, which
+
+1066
+00:58:22.290 --> 00:58:24.080
+is the fact that we need to be able
+
+1067
+00:58:24.155 --> 00:58:28.094
+to evaluate, when is the moment to step back
+
+1068
+00:58:28.104 --> 00:58:30.314
+and when is the moment to come forward? So
+
+1069
+00:58:30.324 --> 00:58:32.514
+when is the moment in which I don't have
+
+1070
+00:58:32.524 --> 00:58:35.945
+the skills to for instance, understand the technicality of
+
+1071
+00:58:35.955 --> 00:58:38.254
+a problem. But I do have the skills to
+
+1072
+00:58:38.264 --> 00:58:41.570
+understand maybe the social component of it. And I
+
+1073
+00:58:41.580 --> 00:58:45.219
+actually think that probably the lack uh of good
+
+1074
+00:58:45.229 --> 00:58:49.639
+intellectual humidity um has also been problematic on all
+
+1075
+00:58:49.649 --> 00:58:51.639
+sides because for instance, the fact that we were
+
+1076
+00:58:51.649 --> 00:58:55.760
+following maybe only the information that were coming from
+
+1077
+00:58:55.770 --> 00:58:58.070
+the sciences, which is very important because they tell
+
+1078
+00:58:58.080 --> 00:59:00.659
+us the mechanism, thanks to which the virus replicates
+
+1079
+00:59:00.669 --> 00:59:04.780
+and spreads, they weren't though informed by, for instance,
+
+1080
+00:59:04.790 --> 00:59:07.939
+studies in sociology, psychology. OK. How do we deal
+
+1081
+00:59:07.949 --> 00:59:11.510
+with loneliness? Uh And somehow the social sciences got
+
+1082
+00:59:11.520 --> 00:59:14.080
+pushed back a lot. And that was also a
+
+1083
+00:59:14.090 --> 00:59:18.060
+case in which somehow there wasn't much intellectual humidity,
+
+1084
+00:59:18.070 --> 00:59:20.429
+for instance, at the public uh at the policy
+
+1085
+00:59:20.439 --> 00:59:24.129
+making level, because some sciences were really, really put
+
+1086
+00:59:24.139 --> 00:59:26.330
+very high and others were put very low and
+
+1087
+00:59:26.340 --> 00:59:31.389
+not considered uh and probably both at the individual
+
+1088
+00:59:31.399 --> 00:59:34.290
+level in which I can bring in my skills.
+
+1089
+00:59:34.300 --> 00:59:36.110
+And maybe I don't know if I, if I
+
+1090
+00:59:36.120 --> 00:59:39.510
+am a teacher, uh I might need to learn
+
+1091
+00:59:39.520 --> 00:59:42.820
+from scientists how the virus spread. But then as
+
+1092
+00:59:42.830 --> 00:59:45.149
+a teacher, I might know what is good for
+
+1093
+00:59:45.159 --> 00:59:47.179
+my students and the fact that maybe they need
+
+1094
+00:59:47.189 --> 00:59:49.949
+specific interactions. And so we need to find ways
+
+1095
+00:59:50.260 --> 00:59:53.919
+to give students those interactions. Um AND also the
+
+1096
+00:59:53.929 --> 00:59:56.800
+policy making level. So bringing in a form of
+
+1097
+00:59:56.810 --> 00:59:59.770
+a good intellectual humidity in which different sciences and
+
+1098
+00:59:59.780 --> 01:00:04.120
+different perspectives coming in on different domains.
+
+1099
+01:00:05.149 --> 01:00:09.620
+Mhm Yeah, because uh I mean mentioning humility, perhaps
+
+1100
+01:00:09.629 --> 01:00:12.800
+there was also not much humility, at least on
+
+1101
+01:00:12.810 --> 01:00:15.610
+the part of certain types of experts, like for
+
+1102
+01:00:15.620 --> 01:00:21.030
+example, uh doctors, epidemiologists and so on. Uh IMMUNOLOGISTS
+
+1103
+01:00:21.040 --> 01:00:24.659
+as well because uh when it comes to, as
+
+1104
+01:00:24.669 --> 01:00:27.250
+you said, there are the social aspects of how
+
+1105
+01:00:27.260 --> 01:00:31.495
+we dealt with the COVID-19 pandemic, things like loneliness,
+
+1106
+01:00:31.504 --> 01:00:35.314
+isolation and stuff like that. Maybe people who could
+
+1107
+01:00:35.324 --> 01:00:39.564
+have played an important role there, like psychologists, sociologists
+
+1108
+01:00:39.645 --> 01:00:43.794
+were pushed aside and the stage was given more
+
+1109
+01:00:43.804 --> 01:00:48.205
+to, uh as I said, doctors, epidemiologists, immunologists and
+
+1110
+01:00:48.215 --> 01:00:49.685
+people like that. Right.
+
+1111
+01:00:49.965 --> 01:00:53.225
+Yeah. Yeah. No. Exactly. Which I think that's something
+
+1112
+01:00:53.235 --> 01:00:55.354
+I said, I don't think its underlying enough is
+
+1113
+01:00:55.364 --> 01:01:00.580
+that um like these situations are always complex and
+
+1114
+01:01:00.590 --> 01:01:02.929
+so they might require complex solutions. So the fact
+
+1115
+01:01:02.939 --> 01:01:06.840
+that we bring in psychologists and sociologists, for instance,
+
+1116
+01:01:06.850 --> 01:01:09.649
+on trying to understand the impact that loneliness can
+
+1117
+01:01:09.659 --> 01:01:13.879
+have, especially on vulnerable categories like kids or teenagers.
+
+1118
+01:01:14.139 --> 01:01:17.669
+Uh But and everyone doesn't meet doesn't imply that
+
+1119
+01:01:17.679 --> 01:01:20.250
+then the fact that it is still true that
+
+1120
+01:01:20.260 --> 01:01:23.469
+the virus spreads in many ways is pushed away.
+
+1121
+01:01:23.479 --> 01:01:26.389
+Like the the ideal thing is really to find
+
+1122
+01:01:26.479 --> 01:01:28.459
+an interaction between the two, which is of course,
+
+1123
+01:01:28.469 --> 01:01:32.110
+super difficult and in a situation of emergency that
+
+1124
+01:01:32.649 --> 01:01:35.350
+we faced and especially the Western world hasn't faced
+
+1125
+01:01:35.360 --> 01:01:37.860
+anything like that in the longest period of time.
+
+1126
+01:01:38.340 --> 01:01:41.110
+Uh So of course, it makes sense that we
+
+1127
+01:01:41.120 --> 01:01:43.830
+didn't have the tools to, to see that clearly.
+
+1128
+01:01:43.840 --> 01:01:46.169
+But somehow the contrast wasn't really to put it
+
+1129
+01:01:46.179 --> 01:01:48.729
+simply like, oh let us lock everybody up or
+
+1130
+01:01:48.739 --> 01:01:51.129
+let us just let the virus spread because people
+
+1131
+01:01:51.139 --> 01:01:54.929
+need sociality like probably the ideal solution was trying
+
+1132
+01:01:54.939 --> 01:01:58.120
+to find a common ground between the two. And
+
+1133
+01:01:58.129 --> 01:02:00.260
+in, in the, in this, I do find that
+
+1134
+01:02:00.989 --> 01:02:04.879
+uh probably spreading education and empowering the individuals in
+
+1135
+01:02:04.889 --> 01:02:08.560
+making choices uh could have been really useful because
+
+1136
+01:02:08.570 --> 01:02:11.870
+I also feel that giving this stage to just
+
+1137
+01:02:11.879 --> 01:02:14.969
+the experts that were talking mostly in experts term,
+
+1138
+01:02:15.179 --> 01:02:18.870
+just made people feel extraordinarily even more frustrated and
+
+1139
+01:02:18.879 --> 01:02:22.280
+isolated because they didn't have the tools to understand
+
+1140
+01:02:22.290 --> 01:02:24.090
+what was going on. And, and that was a
+
+1141
+01:02:24.100 --> 01:02:26.889
+problem, not of the people that didn't know or
+
+1142
+01:02:26.899 --> 01:02:29.620
+didn't understand. That's a problem of those that communicate
+
+1143
+01:02:29.629 --> 01:02:32.659
+such knowledge. And that's again, something else in which
+
+1144
+01:02:32.669 --> 01:02:35.600
+for instance, the role of sociologists and psychologists and
+
+1145
+01:02:35.610 --> 01:02:39.080
+maybe, and maybe even philosophers for us could have
+
+1146
+01:02:39.090 --> 01:02:42.139
+been helpful because I think that people should be,
+
+1147
+01:02:42.149 --> 01:02:46.179
+should have the tools to understand stuff that matters
+
+1148
+01:02:46.189 --> 01:02:48.489
+to their life. So to this, like I do
+
+1149
+01:02:48.500 --> 01:02:50.729
+have a project with a colleague of mine Simone
+
+1150
+01:02:50.840 --> 01:02:54.030
+Pican, like the right to science and the right
+
+1151
+01:02:54.040 --> 01:02:55.679
+to have access to science and why it is
+
+1152
+01:02:55.689 --> 01:03:00.020
+important to remove epistemic barriers. And it is particularly
+
+1153
+01:03:00.030 --> 01:03:04.590
+important for contexts like the COVID pandemic vaccination, but
+
+1154
+01:03:04.600 --> 01:03:07.540
+even climate change in which people are required to
+
+1155
+01:03:07.550 --> 01:03:10.199
+take action and the action is action that they
+
+1156
+01:03:10.209 --> 01:03:13.139
+need to take. But on the basis of scientific
+
+1157
+01:03:13.149 --> 01:03:15.989
+knowledge that no one is really explaining them and
+
+1158
+01:03:16.000 --> 01:03:18.110
+this is really not empowering and we, we should
+
+1159
+01:03:18.120 --> 01:03:23.300
+actually, yeah, flip that and, and, and explain people
+
+1160
+01:03:23.310 --> 01:03:25.379
+what's going on so that they can become even
+
+1161
+01:03:25.389 --> 01:03:28.219
+better agents. And maybe in this, I am naive,
+
+1162
+01:03:28.699 --> 01:03:30.919
+but I do believe in the power of education.
+
+1163
+01:03:32.469 --> 01:03:35.209
+So with that in mind, with uh your belief
+
+1164
+01:03:35.219 --> 01:03:37.300
+in the power of education, do you think that
+
+1165
+01:03:37.310 --> 01:03:40.919
+this kind of work and people reflecting a little
+
+1166
+01:03:40.929 --> 01:03:44.169
+bit on what individuals themselves can do and how
+
+1167
+01:03:44.179 --> 01:03:47.439
+to develop certain kinds of virtues? Do you think
+
+1168
+01:03:47.449 --> 01:03:51.370
+that I in a possible future pandemic? Uh THE
+
+1169
+01:03:51.379 --> 01:03:54.790
+uh this kind of thing could be taught to
+
+1170
+01:03:54.800 --> 01:03:57.159
+people and to, I, I mean, e even in
+
+1171
+01:03:57.169 --> 01:04:00.229
+schools and other places like that and to help
+
+1172
+01:04:00.239 --> 01:04:05.719
+people, Children, adults deal with that uh with what's
+
+1173
+01:04:05.729 --> 01:04:08.270
+happening in such a kind of context?
+
+1174
+01:04:08.889 --> 01:04:10.929
+Yeah, I do think so. Uh And I think
+
+1175
+01:04:10.939 --> 01:04:13.280
+that this is really something that all of us
+
+1176
+01:04:13.290 --> 01:04:15.659
+that work in education uh that have an interest
+
+1177
+01:04:15.669 --> 01:04:19.469
+in science, communication and knowledge, communication via all sorts
+
+1178
+01:04:19.479 --> 01:04:24.030
+of tools like podcast interviews. Uh PUBLIC speech, I
+
+1179
+01:04:24.040 --> 01:04:26.520
+uh public writing, I think that this is really
+
+1180
+01:04:26.530 --> 01:04:29.070
+something that, that we have to work on and
+
+1181
+01:04:29.080 --> 01:04:31.139
+that uh and that we need to communicate. I
+
+1182
+01:04:31.149 --> 01:04:34.330
+think this is really important and unfortunately, the fact
+
+1183
+01:04:34.340 --> 01:04:36.010
+that there is a lot of focus on, I
+
+1184
+01:04:36.020 --> 01:04:37.919
+mean, of course, we need the technical research as
+
+1185
+01:04:37.929 --> 01:04:40.760
+well to investigate the work. But I do think
+
+1186
+01:04:40.770 --> 01:04:45.469
+that it is important to bring this knowledge everywhere.
+
+1187
+01:04:45.800 --> 01:04:48.110
+Uh BECAUSE I do think that this can make
+
+1188
+01:04:48.120 --> 01:04:50.489
+us better agents or at least, can have, can
+
+1189
+01:04:50.500 --> 01:04:53.239
+have an impact in making us better agents or
+
+1190
+01:04:53.250 --> 01:04:55.520
+giving at least the capacity to choose in a
+
+1191
+01:04:55.530 --> 01:04:58.699
+more informed way which type of agents we want
+
+1192
+01:04:58.709 --> 01:05:00.330
+to be and how we want to interact.
+
+1193
+01:05:01.560 --> 01:05:04.800
+Great. So just before we go, would you like
+
+1194
+01:05:04.810 --> 01:05:07.110
+to tell people where they can find you and
+
+1195
+01:05:07.120 --> 01:05:08.739
+your work on the internet?
+
+1196
+01:05:09.350 --> 01:05:12.969
+Yes. Well, um I do have a website uh
+
+1197
+01:05:12.979 --> 01:05:18.290
+which is just my name Francesca bela.com. Uh And
+
+1198
+01:05:18.300 --> 01:05:20.439
+I keep my website up to date so that
+
+1199
+01:05:20.449 --> 01:05:22.330
+you can find what I'm doing where I'm going,
+
+1200
+01:05:22.340 --> 01:05:24.560
+which talks I do. Uh And there is also
+
+1201
+01:05:24.570 --> 01:05:27.610
+a section on uh public outreach which is called
+
+1202
+01:05:27.620 --> 01:05:30.489
+articles and media and um that you can find
+
+1203
+01:05:30.570 --> 01:05:34.120
+in my pop article, pop pop articles. I try
+
+1204
+01:05:34.129 --> 01:05:36.949
+also to be quite active philosophically on Twitter or
+
+1205
+01:05:36.959 --> 01:05:41.350
+now ex uh which um yeah, with the end
+
+1206
+01:05:41.379 --> 01:05:44.110
+of Fran Lai. So you can also find uh
+
+1207
+01:05:44.120 --> 01:05:46.610
+what I'm doing and which talks I'm going to
+
+1208
+01:05:46.620 --> 01:05:50.389
+my conferences and everything that is philosophy related there.
+
+1209
+01:05:51.010 --> 01:05:51.979
+So, thank you.
+
+1210
+01:05:52.800 --> 01:05:55.330
+Great. So I'm leaving some links to that in
+
+1211
+01:05:55.340 --> 01:05:58.350
+the description of the interview and Doctor Bela. Thank
+
+1212
+01:05:58.360 --> 01:06:01.280
+you so much for the great conversation. It's been
+
+1213
+01:06:01.290 --> 01:06:04.389
+really informative and fun. So, thank you.
+
+1214
+01:06:04.399 --> 01:06:04.770
+Thank
+
+1215
+01:06:04.780 --> 01:06:04.919
+you.
+
+1216
+01:06:04.929 --> 01:06:06.790
+Thank you really for me as well, really a
+
+1217
+01:06:06.800 --> 01:06:09.540
+pleasure and an honor. And thanks to everyone that
+
+1218
+01:06:09.550 --> 01:06:11.060
+has been listening to this.
+
+1219
+01:06:12.479 --> 01:06:15.209
+Hi guys. Thank you for watching this interview. Until
+
+1220
+01:06:15.219 --> 01:06:17.379
+the end. If you liked it, please share it.
+
+1221
+01:06:17.389 --> 01:06:20.189
+Leave a like and hit the subscription button. The
+
+1222
+01:06:20.199 --> 01:06:21.850
+show is brought to you by the N Lights
+
+1223
+01:06:21.860 --> 01:06:25.070
+learning and development. Then differently check the website at
+
+1224
+01:06:25.080 --> 01:06:28.879
+N lights.com and also please consider supporting the show
+
+1225
+01:06:28.919 --> 01:06:32.040
+on Patreon or paypal. I would also like to
+
+1226
+01:06:32.050 --> 01:06:34.489
+give a huge thank you to my main patrons
+
+1227
+01:06:34.500 --> 01:06:38.679
+and paypal supporters, Perera Larson Jerry Muller and Frederick
+
+1228
+01:06:38.760 --> 01:06:41.610
+Suno Bernard Seche O of Alex Adam, Castle Matthew
+
+1229
+01:06:41.620 --> 01:06:44.300
+Whitten. B are no wolf, Tim Ho Erica LJ
+
+1230
+01:06:44.310 --> 01:06:47.610
+Conor Philip Forrest Connolly. Then the Met Robert Wine
+
+1231
+01:06:47.639 --> 01:06:50.560
+in NAI Z Mark Nevs calling in Holbrook Field,
+
+1232
+01:06:50.570 --> 01:06:54.679
+Governor Mikel Stormer Samuel Andre Francis for Agns Ferus
+
+1233
+01:06:55.340 --> 01:06:58.449
+and H her meal and Lain Jung Y and
+
+1234
+01:06:58.739 --> 01:07:02.959
+the K Hes Mark Smith J. Tom Hummel S
+
+1235
+01:07:02.969 --> 01:07:06.389
+Friends. David Sloan Wilson. Ya dear, Roman Roach Diego,
+
+1236
+01:07:07.969 --> 01:07:11.639
+Jan Punter, Romani Charlotte Bli Nicole Barba, Adam Hunt,
+
+1237
+01:07:11.860 --> 01:07:15.030
+Pavlo Stassi Na Me, Gary G Alman Sam of
+
+1238
+01:07:15.189 --> 01:07:19.449
+Zal Ari and YPJ Barboza Julian Price Edward Hall,
+
+1239
+01:07:19.530 --> 01:07:23.909
+Eden Broner Douglas Fry Franca, Beto Lati Gilon Cortez
+
+1240
+01:07:24.000 --> 01:07:30.040
+Solis Scott Zachary FTD and W Daniel Friedman, William
+
+1241
+01:07:30.050 --> 01:07:34.439
+Buckner, Paul Giorgio, Luke Loi Georgio Theophano Chris Williams
+
+1242
+01:07:34.449 --> 01:07:38.790
+and Peter Wo David Williams Di Costa, Anton Erickson
+
+1243
+01:07:38.800 --> 01:07:43.449
+Charles Murray, Alex Shaw, Marie Martinez, Coralie Chevalier, Bangalore
+
+1244
+01:07:43.959 --> 01:07:48.929
+Larry Dey Junior, Old Ebon Starry Michael Bailey. Then
+
+1245
+01:07:48.939 --> 01:07:52.909
+spur by Robert Grassy Zorn, Jeff mcmahon, Jake Zul
+
+1246
+01:07:52.919 --> 01:07:57.050
+Barnabas Radis. Mark Kemple Thomas Dvor Luke Neeson, Chris
+
+1247
+01:07:57.060 --> 01:08:01.550
+to Kimberley Johnson, Benjamin Gilbert Jessica. No, Linda Brendan,
+
+1248
+01:08:01.560 --> 01:08:07.050
+Nicholas Carlson, Ismael Bensley Man, George Katis Valentine Steinman,
+
+1249
+01:08:07.060 --> 01:08:12.879
+Perras, Kate Van Goler, Alexander Albert Liam Dan Biar
+
+1250
+01:08:13.209 --> 01:08:18.850
+Masoud Ali Mohammadi Perpendicular Jer Urla. Good enough, Gregory
+
+1251
+01:08:18.859 --> 01:08:23.160
+Hastings David Pins of Sean Nelson, Mike Levin and
+
+1252
+01:08:23.189 --> 01:08:26.464
+Jos Net. A special thanks to my producers is
+
+1253
+01:08:26.475 --> 01:08:29.455
+our web, Jim Frank Lucani, Tom Vig and Bernard
+
+1254
+01:08:29.734 --> 01:08:33.615
+N Cortes Dixon Bendik Mueller, Thomas Rumble, Catherine and
+
+1255
+01:08:33.625 --> 01:08:36.884
+Patrick Tobin, John Carl, Negro, Nick Ortiz and Nick
+
+1256
+01:08:36.895 --> 01:08:40.354
+Golden. And to my executive producers, Matthew Lavender, Sergi,
+
+1257
+01:08:40.604 --> 01:08:43.625
+Adrian Bogdan Knit and Rosie. Thank you for all.
+
