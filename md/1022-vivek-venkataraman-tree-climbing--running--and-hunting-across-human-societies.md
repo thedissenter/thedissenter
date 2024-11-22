@@ -5,13 +5,16 @@
 	"episodeid": "1022",
 	"excerpt": "Dr. Vivek Venkataraman is Assistant Professor in the Department of Anthropology and Archaeology at the University of Calgary. He is an evolutionary anthropologist who is broadly interested in the evolution of the human diet and food systems, and their relation to life history and behavior. He is assistant director of the Guassa Gelada Research Project, and also the co-founder and co-PI of the Orang Asli Health and Lifeways Project (OAHeLP).",
 	"image": "https://i.ytimg.com/vi/QirFyPqN3e0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1022-vivek-venkataraman-tree-climbing-running-and/id1451347236?i=1000677814183&uo=4",
 	"publishDate": 2024-11-21,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1022-Vivek-Venkataraman-Tree-Climbing--Running--and-Hunting-across-Human-Societies-e2plnnc",
 	"tags": [
 		"Anthropology"
 	],
 	"title": "#1022 Vivek Venkataraman: Tree Climbing, Running, and Hunting across Human Societies",
-	"youtubeid": "QirFyPqN3e0"
+	"vtt": "1022.vtt",
+	"youtubeid": "QirFyPqN3e0",
+	"transcript": "1022.lines.json"
 }
 ---
 RECORDED ON OCTOBER 14th 2024.  
