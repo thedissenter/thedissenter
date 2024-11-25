@@ -11,7 +11,9 @@
 		"Politics"
 	],
 	"title": "#1024 Matthew McManus: The Political Theory of Liberal Socialism",
-	"youtubeid": "-IBBzaAEuS8"
+	"vtt": "1024.vtt",
+	"youtubeid": "-IBBzaAEuS8",
+	"transcript": "1024.lines.json"
 }
 ---
 RECORDED ON OCTOBER 25th 2024.  
