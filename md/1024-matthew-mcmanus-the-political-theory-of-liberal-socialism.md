@@ -5,6 +5,7 @@
 	"episodeid": "1024",
 	"excerpt": "Dr. Matthew McManus is a Lecturer in the Department of Political Science at the University of Michigan. He is the author of books like The Emergence of Postmodernity, The Political Right and Equality, and The Political Theory of Liberal Socialism.",
 	"image": "https://i.ytimg.com/vi/-IBBzaAEuS8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1024-matthew-mcmanus-the-political-theory-of/id1451347236?i=1000678200172&uo=4",
 	"publishDate": 2024-11-25,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1024-Matthew-McManus-The-Political-Theory-of-Liberal-Socialism-e2q4tma",
 	"tags": [
