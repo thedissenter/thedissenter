@@ -5,6 +5,7 @@
 	"episodeid": "1025",
 	"excerpt": "Dr. Katie Rose Hejtmanek is Professor in the Department of Anthropology and the Children and Youth Studies Program at Brooklyn College, CUNY. Her current research examines sports practices and social change. Her teaching includes courses on the anthropology of sport, and gender and sexuality at New York University and Brooklyn College, CUNY, USA. She is a three-time competitor at IPF World Masters Powerlifting Championships and is a Trauma-Informed Weightlifting-certified strength coach. She is co-editor of Gender and Power in Strength Sports: Strong As Feminist.",
 	"image": "https://i.ytimg.com/vi/2BLi0_pTOBk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1025-katie-rose-hejtmanek-gender-and-power-in/id1451347236?i=1000678558507&uo=4",
 	"publishDate": 2024-11-28,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1025-Katie-Rose-Hejtmanek---Gender-and-Power-in-Strength-Sports-Strong-As-Feminist-e2jdp2a",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1025 Katie Rose Hejtmanek - Gender and Power in Strength Sports: Strong As Feminist",
-	"youtubeid": "2BLi0_pTOBk"
+	"vtt": "1025.vtt",
+	"youtubeid": "2BLi0_pTOBk",
+	"transcript": "1025.lines.json"
 }
 ---
 RECORDED ON MAY 8th 2024.  
