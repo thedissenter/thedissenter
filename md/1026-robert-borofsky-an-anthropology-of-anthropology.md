@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/83123478/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-24%2Fc47a9c96-dcec-7c2d-7844-f8dadbfcb6e9.m4a",
 	"draft": false,
 	"episodeid": "1026",
 	"excerpt": "Dr. Robert Borofsky is the Director of the Center for a Public Anthropology and Professor Emeritus of Anthropology at Hawaii Pacific University. He is the author or editor of eight books dealing with constructions of knowledge in the Pacific islands—such as Making History (1987) and Remembrance of Pacific Pasts (2000)—and the current state of cultural anthropology, including Assessing Cultural Anthropology (1994) and Yanomami (2005). He is also the author of An Anthropology of Anthropology: Is It Time to Shift Paradigms?",
 	"image": "https://i.ytimg.com/vi/QJmM7uTjuIo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1026-robert-borofsky-an-anthropology-of-anthropology/id1451347236?i=1000678666299&uo=4",
 	"publishDate": 2024-11-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1026-Robert-Borofsky-An-Anthropology-of-Anthropology-e2g77qm",
 	"tags": [
 		"Anthropology"
 	],
