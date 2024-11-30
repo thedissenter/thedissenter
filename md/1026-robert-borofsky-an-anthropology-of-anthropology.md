@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1026 Robert Borofsky: An Anthropology of Anthropology",
-	"youtubeid": "QJmM7uTjuIo"
+	"vtt": "1026.vtt",
+	"youtubeid": "QJmM7uTjuIo",
+	"transcript": "1026.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 23th 2024.  
