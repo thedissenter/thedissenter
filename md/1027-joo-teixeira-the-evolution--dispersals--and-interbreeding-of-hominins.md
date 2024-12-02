@@ -11,7 +11,9 @@
 		"Anthropology"
 	],
 	"title": "#1027 João Teixeira: The Evolution, Dispersals, and Interbreeding of Hominins",
-	"youtubeid": "UaVKoHygExM"
+	"vtt": "1027.vtt",
+	"youtubeid": "UaVKoHygExM",
+	"transcript": "1027.lines.json"
 }
 ---
 RECORDED ON DECEMBER 14th 2023.  
