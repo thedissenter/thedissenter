@@ -5,6 +5,7 @@
 	"episodeid": "1027",
 	"excerpt": "Dr. João Teixeira is Australian Research Council DECRA Fellow at the Evolution of Cultural Diversity Initiative, School of Culture, History and Language at the Australian National University & Scientific Vice-Coordinator at the Centre for Interdisciplinary Studies of the University of Coimbra. He is a population geneticist focusing on the evolution of humans and closely related species. His main research focus revolves around human evolution during the Pleistocene, in particular the admixture events between so-called modern and archaic humans after the out-of-Africa and before human colonization of Sahul. He is expert on uncovering signatures of natural selection in the genome, in particular balancing selection, and continue to study how advantageous genetic diversity can be maintained for millions of years in natural populations.",
 	"image": "https://i.ytimg.com/vi/UaVKoHygExM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1027-jo%C3%A3o-teixeira-the-evolution-dispersals/id1451347236?i=1000678945092&uo=4",
 	"publishDate": 2024-12-02,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1027-Joo-Teixeira-The-Evolution--Dispersals--and-Interbreeding-of-Hominins-e2d87r5",
 	"tags": [
