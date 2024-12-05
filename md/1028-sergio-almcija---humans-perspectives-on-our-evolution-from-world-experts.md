@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1028 Sergio Almécija - Humans: Perspectives on Our Evolution from World Experts",
-	"youtubeid": "idzRsd078hs"
+	"vtt": "1028.vtt",
+	"youtubeid": "idzRsd078hs",
+	"transcript": "1028.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 28th 2023.  
