@@ -5,13 +5,16 @@
 	"episodeid": "1029",
 	"excerpt": "Dr. J. Doyne Farmer is the Director of the Complexity Economics programme at the Institute for New Economic Thinking at the Oxford Martin School, Baillie Gifford Professor in the Mathematical Institute at the University of Oxford and an External Professor at the Santa Fe Institute. His current research is in economics, including agent-based modeling, financial instability and technological progress. His past research includes complex systems, dynamical systems theory, time series analysis and theoretical biology. He was an Oppenheimer Fellow and the founder of the Complex Systems Group at Los Alamos National Laboratory. He is the author of Making Sense of Chaos: A Better Economics for a Better World.",
 	"image": "https://i.ytimg.com/vi/h0Vfoz9n2kQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1029-j-doyne-farmer-making-sense-of-chaos-a/id1451347236?i=1000679512503&uo=4",
 	"publishDate": 2024-12-06,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1029-J--Doyne-Farmer---Making-Sense-of-Chaos-A-Better-Economics-for-a-Better-World-e2rlfkr",
 	"tags": [
 		"Economics"
 	],
 	"title": "#1029 J. Doyne Farmer - Making Sense of Chaos: A Better Economics for a Better World",
-	"youtubeid": "h0Vfoz9n2kQ"
+	"vtt": "1029.vtt",
+	"youtubeid": "h0Vfoz9n2kQ",
+	"transcript": "1029.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 29th 2024.  

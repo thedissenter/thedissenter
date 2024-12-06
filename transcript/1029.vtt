@@ -1,0 +1,3002 @@
+WEBVTT
+
+1
+00:00:00.170 --> 00:00:02.819
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:02.859 --> 00:00:05.400
+Center. I'm your host, Ricard Lobs. And today I'm
+
+3
+00:00:05.409 --> 00:00:07.929
+joined by Doctor Doin Farmer. He is Director of
+
+4
+00:00:07.940 --> 00:00:10.899
+the Complexity Economics Program at the Institute for New
+
+5
+00:00:10.909 --> 00:00:15.270
+Economic Thinking at the Oxford Martin Martin School, Bailey
+
+6
+00:00:15.279 --> 00:00:18.590
+Gifford, professor in the Mathematical Institute at the University
+
+7
+00:00:18.600 --> 00:00:21.670
+of Oxford and an external professor at the Santa
+
+8
+00:00:21.680 --> 00:00:25.270
+Fe Institute. And today we're talking about his recent
+
+9
+00:00:25.280 --> 00:00:28.700
+book Making Sense of Chaos, a Better Economics For
+
+10
+00:00:28.709 --> 00:00:31.389
+a Better World. So, Doctor Farmer, welcome to the
+
+11
+00:00:31.399 --> 00:00:33.049
+show. It's an honor to everyone.
+
+12
+00:00:33.490 --> 00:00:35.310
+Thanks. It's an honor to be here.
+
+13
+00:00:36.340 --> 00:00:38.840
+So, I mean, uh I was going to ask
+
+14
+00:00:38.849 --> 00:00:41.389
+you about complexity science, but since I already have
+
+15
+00:00:41.400 --> 00:00:43.619
+a few interviews on the show where I addressed
+
+16
+00:00:43.630 --> 00:00:46.919
+that topic with people like Doctor Randall, Beer, Luis
+
+17
+00:00:46.979 --> 00:00:49.840
+Favela and others, I think that people can go
+
+18
+00:00:49.849 --> 00:00:52.599
+and watch those interviews to have a proper introduction
+
+19
+00:00:52.610 --> 00:00:55.150
+to the topic. So let me start right away
+
+20
+00:00:55.159 --> 00:00:58.840
+by asking you in what ways is economics or
+
+21
+00:00:58.849 --> 00:01:01.639
+the economy itself, a complex system.
+
+22
+00:01:02.669 --> 00:01:06.690
+Well, complex systems are systems with emergent properties where
+
+23
+00:01:06.699 --> 00:01:10.889
+the fundamental building blocks, whatever they are, the properties
+
+24
+00:01:10.900 --> 00:01:14.209
+of their properties are, or the properties of their,
+
+25
+00:01:14.220 --> 00:01:18.220
+that of what emerges from their interactions are fundamentally
+
+26
+00:01:18.230 --> 00:01:21.180
+different than the properties of the individual building blocks,
+
+27
+00:01:21.190 --> 00:01:26.199
+qualitatively different. And in the economy, we as people,
+
+28
+00:01:26.209 --> 00:01:29.360
+if you imagine you were Robinson Crusoe, you'd have
+
+29
+00:01:29.370 --> 00:01:32.069
+a certain set of things you could do. But
+
+30
+00:01:32.080 --> 00:01:35.110
+we as a society can do things that are
+
+31
+00:01:35.120 --> 00:01:38.650
+vastly beyond what we can do as individuals. And,
+
+32
+00:01:38.660 --> 00:01:41.239
+and, and that's the sense in which the economy
+
+33
+00:01:41.260 --> 00:01:42.800
+is an emergent phenomenon.
+
+34
+00:01:44.379 --> 00:01:49.150
+So tell us specifically about Ks theory, I know
+
+35
+00:01:49.160 --> 00:01:52.099
+that it is part of complexity theory, but tell
+
+36
+00:01:52.110 --> 00:01:53.760
+us a little bit about it. And then I
+
+37
+00:01:53.769 --> 00:01:57.730
+will ask you about the specific phenomenon in economics.
+
+38
+00:01:57.750 --> 00:02:02.309
+OK. Um Well, chaos is, is something that happens
+
+39
+00:02:02.319 --> 00:02:05.709
+in what are called dynamical systems. Like the ones
+
+40
+00:02:05.720 --> 00:02:10.488
+that come from physics, Newton's laws where um you
+
+41
+00:02:10.497 --> 00:02:15.188
+get two properties sensitive dependence on initial conditions and
+
+42
+00:02:15.229 --> 00:02:19.018
+what's called endogenous motion motion from within the system
+
+43
+00:02:19.029 --> 00:02:23.339
+itself. And so the first property just means that
+
+44
+00:02:23.348 --> 00:02:26.569
+you can have nearby initial conditions that lead to
+
+45
+00:02:26.578 --> 00:02:30.548
+very different final states because things on average separate
+
+46
+00:02:30.559 --> 00:02:34.309
+at an exponential rate. So you can have a,
+
+47
+00:02:34.319 --> 00:02:39.369
+a system where uh e even if it's deterministic,
+
+48
+00:02:39.380 --> 00:02:41.550
+meaning that if you know the state, you know
+
+49
+00:02:41.559 --> 00:02:44.820
+exactly where it's gonna go in the future. But,
+
+50
+00:02:44.919 --> 00:02:47.910
+but a tiny difference in that initial state can
+
+51
+00:02:47.919 --> 00:02:52.070
+cause it to go somewhere very different. So that's
+
+52
+00:02:52.089 --> 00:02:57.600
+underlies what we often call randomness. And, and it
+
+53
+00:02:57.610 --> 00:03:01.149
+can lead to unpredictability like in the weather where
+
+54
+00:03:01.339 --> 00:03:04.899
+the weather is fundamentally unpredictable, we just can't predict
+
+55
+00:03:04.910 --> 00:03:09.210
+it better than a certain amount. The endogenous motion
+
+56
+00:03:09.820 --> 00:03:13.039
+is means that if you think for example of
+
+57
+00:03:13.050 --> 00:03:16.559
+standing by a mountain stream, the stream beds fixed
+
+58
+00:03:16.570 --> 00:03:20.539
+the water coming down, the stream is coming down
+
+59
+00:03:20.550 --> 00:03:22.529
+at the same rate and yet the stream is
+
+60
+00:03:22.539 --> 00:03:27.880
+constantly moving. Uh That's because of the inherent chaotic
+
+61
+00:03:27.889 --> 00:03:31.399
+dynamics of the water in the stream that, that
+
+62
+00:03:31.410 --> 00:03:35.520
+generates that movement. So those two properties together are
+
+63
+00:03:35.529 --> 00:03:39.350
+what we call chaos in, in the technical sense.
+
+64
+00:03:40.270 --> 00:03:42.990
+So then this is something that you address in
+
+65
+00:03:43.000 --> 00:03:46.559
+the book. Can we apply chaos theory to understanding
+
+66
+00:03:46.570 --> 00:03:48.889
+business cycles, for example?
+
+67
+00:03:49.179 --> 00:03:51.839
+Well, I think we can, we can't prove that
+
+68
+00:03:51.860 --> 00:03:58.289
+yet. But um but the, the big question in
+
+69
+00:03:58.570 --> 00:04:02.020
+in about business cycles, which are, you know, variations
+
+70
+00:04:02.029 --> 00:04:04.899
+in the output of the economy, are they happening
+
+71
+00:04:04.910 --> 00:04:08.449
+from external causes? As they did say with COVID
+
+72
+00:04:08.460 --> 00:04:12.050
+that business cycle was very much caused by outside
+
+73
+00:04:12.059 --> 00:04:17.238
+effects. But in 2008, the 2008 financial crisis, it
+
+74
+00:04:17.250 --> 00:04:22.359
+came from within the economic system. And uh traditional
+
+75
+00:04:22.369 --> 00:04:26.619
+models in economics don't have the capacity to generate
+
+76
+00:04:26.779 --> 00:04:29.859
+endogenous motion that is motion from within the system.
+
+77
+00:04:30.760 --> 00:04:34.619
+Uh Whereas uh alternative models that I talk about
+
+78
+00:04:34.630 --> 00:04:38.079
+in the book that can show chaos do. And
+
+79
+00:04:38.089 --> 00:04:40.970
+so it's a way of at least conceptually thinking
+
+80
+00:04:40.980 --> 00:04:44.279
+about why we have business cycles that just happen
+
+81
+00:04:44.290 --> 00:04:45.299
+spontaneously
+
+82
+00:04:47.029 --> 00:04:50.609
+a and is the economy itself chaotic?
+
+83
+00:04:51.619 --> 00:04:54.279
+Well, I think it is, I, I mean, again,
+
+84
+00:04:54.290 --> 00:04:58.160
+we can't prove that yet. But um but the
+
+85
+00:04:58.170 --> 00:05:01.880
+economies, I think there are many examples where the
+
+86
+00:05:01.890 --> 00:05:08.079
+economy creates its own change and really chaos is
+
+87
+00:05:08.089 --> 00:05:10.470
+the only possible explanation for that.
+
+88
+00:05:11.170 --> 00:05:14.190
+Mhm. In the book, you also established at a
+
+89
+00:05:14.200 --> 00:05:18.940
+certain point, an analogy between the economy and organisms
+
+90
+00:05:18.950 --> 00:05:21.679
+in biology. Co could you explain that in what
+
+91
+00:05:21.690 --> 00:05:23.859
+ways can they be analogous?
+
+92
+00:05:24.510 --> 00:05:27.970
+Well, so sometimes it helps to think of these
+
+93
+00:05:27.980 --> 00:05:31.290
+analogies to understand why things do what they do.
+
+94
+00:05:31.739 --> 00:05:35.649
+And the economy, I argue in the book is
+
+95
+00:05:35.839 --> 00:05:40.609
+The Metabolism of Civilization. Now just to remind people
+
+96
+00:05:40.619 --> 00:05:44.200
+what a metabolism is, metabolism is a digestive system
+
+97
+00:05:44.690 --> 00:05:49.540
+uh that takes in um materials from the outside
+
+98
+00:05:49.549 --> 00:05:54.059
+world and converts them into materials that we need
+
+99
+00:05:54.250 --> 00:06:00.100
+either to main to generate energy, to repair ourselves
+
+100
+00:06:00.109 --> 00:06:05.700
+or to reproduce. And the economy similarly takes in
+
+101
+00:06:06.250 --> 00:06:10.769
+uh natural resources and combines them with human labor
+
+102
+00:06:11.010 --> 00:06:14.869
+and generates the goods and services that we people
+
+103
+00:06:14.880 --> 00:06:18.899
+need. So we're both a part of that process
+
+104
+00:06:19.339 --> 00:06:23.470
+like cells in the human body. But but but
+
+105
+00:06:23.660 --> 00:06:30.489
+the the economy is collectively our metabolism. And I
+
+106
+00:06:30.500 --> 00:06:34.750
+also make analogies in the book to between ecologies
+
+107
+00:06:34.959 --> 00:06:38.890
+and the economy. And I think both are true.
+
+108
+00:06:39.339 --> 00:06:44.489
+The an ecology, ecology. I argue if you think
+
+109
+00:06:44.500 --> 00:06:46.290
+if you step back and think about it more
+
+110
+00:06:46.299 --> 00:06:50.589
+generally is a study of the interactions of specialists
+
+111
+00:06:50.649 --> 00:06:55.480
+with each other in a holistic way. And why
+
+112
+00:06:55.489 --> 00:06:58.519
+do I say that? I mean, animal species are
+
+113
+00:06:58.529 --> 00:07:03.839
+specialists. Grass is a specialist at taking earth and
+
+114
+00:07:03.850 --> 00:07:07.489
+water and sun and converting it into grass. Zebras
+
+115
+00:07:07.500 --> 00:07:10.450
+are specialist at taking grass and converting it to
+
+116
+00:07:10.459 --> 00:07:15.579
+zebras. Lions are specialists at converting zebras into lions
+
+117
+00:07:15.950 --> 00:07:20.609
+and so uh and ecology and biology is in
+
+118
+00:07:20.619 --> 00:07:26.279
+the study of ecosystems of interacting specialists and it
+
+119
+00:07:26.290 --> 00:07:30.429
+teaches certain lessons like even though lions don't interact
+
+120
+00:07:30.440 --> 00:07:33.119
+directly with grass, other than maybe the roll around
+
+121
+00:07:33.130 --> 00:07:35.630
+in it once in a while. Uh CHANGING the
+
+122
+00:07:35.640 --> 00:07:39.170
+population of lions can have a dramatic effect on
+
+123
+00:07:39.299 --> 00:07:41.630
+the quantity of grass that we have. Because if
+
+124
+00:07:41.640 --> 00:07:44.809
+you get rid of the lions, the zebras may
+
+125
+00:07:44.820 --> 00:07:49.059
+become overpopulated and they'll eat the grass uh and
+
+126
+00:07:49.070 --> 00:07:52.209
+cause grass and which then cause erosion and has
+
+127
+00:07:52.220 --> 00:07:55.859
+all kinds of other side effects in uh in
+
+128
+00:07:55.869 --> 00:08:02.679
+ecosystems. Um Similarly, in the economy we all occupy,
+
+129
+00:08:02.690 --> 00:08:07.309
+we take specialized roles as individuals, we take specialized
+
+130
+00:08:07.320 --> 00:08:11.250
+roles as companies and, and the economy is really
+
+131
+00:08:11.260 --> 00:08:16.779
+the study of these e eco ecosystems of specialized
+
+132
+00:08:16.790 --> 00:08:19.760
+actors. And that's actually the key to why the
+
+133
+00:08:19.769 --> 00:08:22.829
+economy has emergent phenomena and could do things that
+
+134
+00:08:22.839 --> 00:08:26.119
+are far beyond what individuals can do. Because by
+
+135
+00:08:26.130 --> 00:08:32.859
+specializing, we really um by specializing and trading, we
+
+136
+00:08:32.869 --> 00:08:35.840
+can do things much more efficiently than we could
+
+137
+00:08:35.849 --> 00:08:38.929
+if we all performed all the functions we needed
+
+138
+00:08:39.058 --> 00:08:39.780
+to survive.
+
+139
+00:08:40.558 --> 00:08:44.309
+Mhm So in order to understand the economy and
+
+140
+00:08:44.320 --> 00:08:47.640
+also I think to try to predict certain economic
+
+141
+00:08:47.650 --> 00:08:51.479
+phenomena, it's important, it's important for us to have
+
+142
+00:08:51.489 --> 00:08:55.619
+simulations. But how do we set up a proper
+
+143
+00:08:55.630 --> 00:08:57.840
+simulation in economics?
+
+144
+00:08:58.229 --> 00:09:04.789
+Uh Well, it requires insight and thought and but
+
+145
+00:09:04.799 --> 00:09:08.390
+roughly speaking, uh we, we, we create a simulation
+
+146
+00:09:08.400 --> 00:09:12.909
+by first of all studying the economy asking who
+
+147
+00:09:12.919 --> 00:09:16.280
+are the essential actors, how do they interact with
+
+148
+00:09:16.289 --> 00:09:21.219
+each other? What are the institutions that are important
+
+149
+00:09:21.539 --> 00:09:26.320
+for these interactions like markets? Um And we create
+
+150
+00:09:26.330 --> 00:09:29.440
+a simulation where we put all these elements together
+
+151
+00:09:29.479 --> 00:09:33.700
+to try to mimic what the economy does. So
+
+152
+00:09:33.820 --> 00:09:37.969
+in a typical simulation, you have agents like households
+
+153
+00:09:37.979 --> 00:09:43.289
+and firms who um receive information about what's happening
+
+154
+00:09:43.299 --> 00:09:46.109
+in the economy who make decisions that we have
+
+155
+00:09:46.119 --> 00:09:50.229
+to program into computer code. Those decisions have economic
+
+156
+00:09:50.239 --> 00:09:55.109
+impact that generates new information as well as other
+
+157
+00:09:55.119 --> 00:09:58.989
+information may flow in from outside. And so the
+
+158
+00:09:59.000 --> 00:10:01.830
+actors make another set of decisions and we repeat
+
+159
+00:10:01.840 --> 00:10:05.729
+the cycle. So in an, in a an economic
+
+160
+00:10:05.739 --> 00:10:09.440
+simulation which we call agent based models, because the,
+
+161
+00:10:09.450 --> 00:10:11.630
+the, the key thing that makes it different from
+
+162
+00:10:11.640 --> 00:10:15.369
+the simulation of the physical system is that there
+
+163
+00:10:15.380 --> 00:10:18.859
+are agents who make decisions they have agency. And
+
+164
+00:10:19.239 --> 00:10:22.150
+so, so that's pretty much the prescription we would
+
+165
+00:10:22.159 --> 00:10:26.359
+follow in creating a simulation of an economic system
+
+166
+00:10:27.500 --> 00:10:30.460
+just to explore one particular example. Do you think
+
+167
+00:10:30.469 --> 00:10:34.590
+that the housing bubble crisis that we had back
+
+168
+00:10:34.599 --> 00:10:38.099
+in the two thousands could have been properly simulated
+
+169
+00:10:38.109 --> 00:10:39.010
+and predicted.
+
+170
+00:10:39.919 --> 00:10:43.049
+I think so. Um WE created a simulation of
+
+171
+00:10:43.059 --> 00:10:45.900
+the housing crisis. Now we did so after the
+
+172
+00:10:45.909 --> 00:10:51.450
+fact. But but in that simulation, uh we really
+
+173
+00:10:51.460 --> 00:10:54.489
+mimicked all the things that go on when people
+
+174
+00:10:54.500 --> 00:10:57.890
+participate in housing markets. So we we created a
+
+175
+00:10:57.900 --> 00:11:00.969
+simulation of housing markets. And in the simulation, we
+
+176
+00:11:00.979 --> 00:11:04.760
+mimicked everything that happens when people participate in housing
+
+177
+00:11:04.770 --> 00:11:10.320
+markets. So in the simulation, we had households who
+
+178
+00:11:10.330 --> 00:11:14.349
+could do choose to rent or buy a house,
+
+179
+00:11:14.809 --> 00:11:17.760
+they could, they had to decide what kind of
+
+180
+00:11:17.770 --> 00:11:19.799
+house they would buy if they wanted to buy
+
+181
+00:11:19.809 --> 00:11:22.989
+a house. And in doing that, they would get
+
+182
+00:11:23.000 --> 00:11:26.510
+together with a real estate agent who would help
+
+183
+00:11:26.520 --> 00:11:30.280
+them find a house of comparable the right quality
+
+184
+00:11:30.289 --> 00:11:33.270
+of the house they wanted to buy. Uh They
+
+185
+00:11:33.280 --> 00:11:35.590
+typically then needed to take out a loan. So
+
+186
+00:11:35.599 --> 00:11:37.780
+they would go to a bank who would decide
+
+187
+00:11:37.789 --> 00:11:40.409
+whether or not it would approve the loan. And
+
+188
+00:11:40.419 --> 00:11:43.289
+then um and then they would search for a
+
+189
+00:11:43.299 --> 00:11:45.820
+house to buy or if they were a seller,
+
+190
+00:11:45.979 --> 00:11:49.169
+the real estate agent would find a comparable house
+
+191
+00:11:49.179 --> 00:11:53.479
+to theirs. Look at what price that house sold
+
+192
+00:11:53.489 --> 00:11:57.400
+for. And then they would mark their, their first
+
+193
+00:11:57.409 --> 00:12:00.559
+offer up from that and try and sell their
+
+194
+00:12:00.570 --> 00:12:03.250
+house. If that didn't work, they would mark it
+
+195
+00:12:03.260 --> 00:12:06.179
+down and they would do that every month until
+
+196
+00:12:06.190 --> 00:12:08.369
+either the house sold or they decided they didn't
+
+197
+00:12:08.380 --> 00:12:10.859
+want to sell it anymore. So we really mimic
+
+198
+00:12:10.869 --> 00:12:13.849
+what happens in a real housing market. And we
+
+199
+00:12:13.859 --> 00:12:17.340
+could do that with I, in that case, tens
+
+200
+00:12:17.349 --> 00:12:20.330
+or hundreds of thousands of different agents, all of
+
+201
+00:12:20.340 --> 00:12:24.619
+whom were participating in the housing market. Uh And
+
+202
+00:12:24.659 --> 00:12:29.049
+we saw behavior that closely resemble the behavior we
+
+203
+00:12:29.059 --> 00:12:33.890
+saw in the housing bubble. We since uh used
+
+204
+00:12:33.900 --> 00:12:36.320
+a version of that model in interactions with the
+
+205
+00:12:36.330 --> 00:12:40.229
+bank of England to help them set housing policy.
+
+206
+00:12:40.750 --> 00:12:44.530
+And, and we were able to mimic the, the
+
+207
+00:12:44.559 --> 00:12:46.729
+the bubble that at the time that we weren't
+
+208
+00:12:46.739 --> 00:12:48.760
+supposed to use that word when interacting with the
+
+209
+00:12:48.770 --> 00:12:51.619
+Bank of England. But the bubble that the um
+
+210
+00:12:51.780 --> 00:12:55.780
+housing market and the United Kingdom was in and
+
+211
+00:12:55.820 --> 00:12:59.150
+we simulated the policy. We, we, we, our, our
+
+212
+00:12:59.159 --> 00:13:05.409
+housing simulation actually spontaneously generated bubbles endogenously from within
+
+213
+00:13:05.419 --> 00:13:08.299
+the system. We would let it go up to
+
+214
+00:13:08.309 --> 00:13:09.929
+the top of the bubble and then we would
+
+215
+00:13:09.940 --> 00:13:12.770
+impose the policy they wanted. And we were seeking
+
+216
+00:13:12.780 --> 00:13:18.309
+a policy that that wouldn't, would stop the bubble.
+
+217
+00:13:18.489 --> 00:13:20.840
+But, but at the same time, wouldn't make the
+
+218
+00:13:20.849 --> 00:13:25.159
+housing market crash in a destructive way. And so
+
+219
+00:13:25.169 --> 00:13:28.580
+we tested the policy, it did produce roughly the
+
+220
+00:13:28.590 --> 00:13:31.599
+behavior that was wanted, meaning it flattened the bubble
+
+221
+00:13:31.609 --> 00:13:34.940
+out and that was the policy that they implemented.
+
+222
+00:13:35.130 --> 00:13:38.130
+Now, I can't claim that we were um we
+
+223
+00:13:38.140 --> 00:13:41.010
+certainly weren't the only influence in their decision making.
+
+224
+00:13:41.400 --> 00:13:44.580
+But um things did work out roughly as we
+
+225
+00:13:44.590 --> 00:13:49.729
+suggested, they enacted the policy, housing market flattened out.
+
+226
+00:13:51.059 --> 00:13:54.599
+OK. So before we get into other phenomena or
+
+227
+00:13:54.609 --> 00:13:58.599
+explore other phenomena and examples of them that we
+
+228
+00:13:58.609 --> 00:14:03.169
+can tackle through a complexity, a complexity systems approach
+
+229
+00:14:03.179 --> 00:14:06.400
+to economics. Let me just ask you, what do
+
+230
+00:14:06.409 --> 00:14:10.960
+you think are perhaps the main differences between standard
+
+231
+00:14:10.969 --> 00:14:15.559
+economic theory and complexity in economics, particularly in the
+
+232
+00:14:15.570 --> 00:14:19.869
+ways it models our agents reason and make decisions.
+
+233
+00:14:20.359 --> 00:14:24.989
+Well, they're completely different. Um In the standard economic
+
+234
+00:14:25.000 --> 00:14:28.909
+model, you start by, OK, you identify the agents
+
+235
+00:14:29.190 --> 00:14:33.119
+but then you assign them utility functions. So essentially
+
+236
+00:14:33.130 --> 00:14:37.520
+a scorecard of their preferences. What do they like?
+
+237
+00:14:37.530 --> 00:14:40.210
+What don't they like? And it gives a ranking
+
+238
+00:14:40.450 --> 00:14:43.919
+so that uh you then make the assumption that
+
+239
+00:14:43.929 --> 00:14:47.710
+all the agents want to maximize their utility. And
+
+240
+00:14:47.719 --> 00:14:53.150
+then you, you calculate the decisions those agents should
+
+241
+00:14:53.159 --> 00:14:57.450
+all make to maximize their utility typically taking into
+
+242
+00:14:57.460 --> 00:15:00.159
+account what all the other agents in the system
+
+243
+00:15:00.169 --> 00:15:01.909
+are doing. So each agent looks at the other
+
+244
+00:15:01.919 --> 00:15:05.770
+agents thinks about what they're doing and then makes
+
+245
+00:15:05.780 --> 00:15:08.409
+the decision that given that the other agents are
+
+246
+00:15:08.419 --> 00:15:12.099
+all maximizing their utility will maximize their own agents
+
+247
+00:15:12.109 --> 00:15:16.809
+utility. And you then, so you calculate that decision,
+
+248
+00:15:17.130 --> 00:15:20.710
+all those decisions, you then look at their economic
+
+249
+00:15:20.719 --> 00:15:23.429
+consequences and that's the model. And you do this
+
+250
+00:15:23.440 --> 00:15:27.960
+by solving equations um in an agent based model
+
+251
+00:15:27.969 --> 00:15:31.309
+in contrast, we ask, what are the decisions the
+
+252
+00:15:31.320 --> 00:15:35.030
+agents typically make? So if say that agent is
+
+253
+00:15:35.039 --> 00:15:37.570
+a financial investor, we know they want to buy
+
+254
+00:15:37.580 --> 00:15:42.950
+undervalued assets if the agent is a household. Well,
+
+255
+00:15:42.960 --> 00:15:46.229
+we look at the behavioral data about what uh
+
+256
+00:15:46.239 --> 00:15:50.190
+what are the patterns of consumption for households in
+
+257
+00:15:50.200 --> 00:15:54.530
+different categories? Poor households behave very differently than wealthy
+
+258
+00:15:54.539 --> 00:15:57.979
+households. So we just look to see behaviorally what
+
+259
+00:15:57.989 --> 00:16:03.140
+do they do. So we program those decisions into
+
+260
+00:16:03.650 --> 00:16:08.869
+computer code and then we run a model which
+
+261
+00:16:08.880 --> 00:16:11.469
+say to follow on in the example, the wealthy
+
+262
+00:16:11.479 --> 00:16:14.200
+household will make one kind of decision, the poor
+
+263
+00:16:14.210 --> 00:16:17.460
+household will make a different kind of decision. And
+
+264
+00:16:17.760 --> 00:16:21.340
+um and then we simulate as I described before
+
+265
+00:16:21.349 --> 00:16:24.650
+this process in a dynamic way where at every
+
+266
+00:16:24.659 --> 00:16:28.010
+time step, the agents all make their decisions using
+
+267
+00:16:28.020 --> 00:16:30.739
+the algorithms we've given them. And we just let
+
+268
+00:16:30.750 --> 00:16:33.530
+that run to see what happens. So we might
+
+269
+00:16:33.539 --> 00:16:39.159
+have an emergent phenomenon like an equilibrium where everything
+
+270
+00:16:39.169 --> 00:16:43.979
+goes into a uh uh uh uh well to
+
+271
+00:16:43.989 --> 00:16:48.030
+an economist, something like the optimal decision that they
+
+272
+00:16:48.039 --> 00:16:51.049
+would have made or it may not in the
+
+273
+00:16:51.059 --> 00:16:54.219
+case of housing markets, for example, is very important
+
+274
+00:16:54.549 --> 00:16:59.599
+that housing markets actually don't clear meaning in housing
+
+275
+00:16:59.609 --> 00:17:02.830
+markets typically supply and demand don't match very well
+
+276
+00:17:02.840 --> 00:17:06.810
+at all. Whereas in a standard model, they, they
+
+277
+00:17:06.819 --> 00:17:11.000
+assume that supply and demand match condition called equilibrium.
+
+278
+00:17:11.469 --> 00:17:14.829
+And so um we don't have to make those
+
+279
+00:17:14.839 --> 00:17:17.650
+kind of assumptions. Mhm.
+
+280
+00:17:18.140 --> 00:17:21.260
+And is it possible or if it's not possible
+
+281
+00:17:21.270 --> 00:17:23.319
+yet? Do you think it would be possible to
+
+282
+00:17:23.329 --> 00:17:27.680
+model the entire economy through complexity theory?
+
+283
+00:17:28.189 --> 00:17:32.790
+Yes. Uh, WE'RE, uh, getting closer and closer to
+
+284
+00:17:32.800 --> 00:17:36.060
+being able to do that. We've built a macro
+
+285
+00:17:36.069 --> 00:17:39.750
+micro macro model of the economy where we simulate
+
+286
+00:17:39.969 --> 00:17:44.849
+individuals who are organized in the household and who,
+
+287
+00:17:45.109 --> 00:17:50.369
+uh, you know, act both as consumers and as
+
+288
+00:17:50.380 --> 00:17:55.770
+laborers. They work for specific firms, uh who employ
+
+289
+00:17:56.319 --> 00:18:00.569
+uh individuals to act as labor, but who buy
+
+290
+00:18:00.829 --> 00:18:04.770
+goods and services from other companies and then produce
+
+291
+00:18:04.780 --> 00:18:07.969
+a good or a service and, and they do
+
+292
+00:18:07.979 --> 00:18:10.060
+that in an ongoing way. And so we can
+
+293
+00:18:10.069 --> 00:18:15.050
+do that now for using millions of households and
+
+294
+00:18:15.069 --> 00:18:20.219
+um, and hundreds of thousands of firms and we're
+
+295
+00:18:20.229 --> 00:18:22.540
+in the process of scaling that up at the
+
+296
+00:18:22.550 --> 00:18:26.869
+moment, we're still simulating typically one country or a
+
+297
+00:18:26.880 --> 00:18:29.599
+few countries at a time together with the rest
+
+298
+00:18:29.609 --> 00:18:32.750
+of the world. Um We close the economy and
+
+299
+00:18:32.760 --> 00:18:36.109
+these kind of models meaning nothing is flowing in
+
+300
+00:18:36.119 --> 00:18:38.630
+or out of the economy. It's a closed system
+
+301
+00:18:39.270 --> 00:18:41.910
+and we're working our way towards being able to
+
+302
+00:18:41.920 --> 00:18:44.729
+do that for the whole global economy.
+
+303
+00:18:45.790 --> 00:18:51.089
+Mhm. And what do we know specifically about inequality?
+
+304
+00:18:51.099 --> 00:18:52.920
+How does it emerge?
+
+305
+00:18:53.689 --> 00:18:56.589
+Well, one of the things you see in these
+
+306
+00:18:56.599 --> 00:19:02.050
+models is inequality can emerge spontaneously uh even in
+
+307
+00:19:02.060 --> 00:19:06.439
+very simple models, um just luck can lead one
+
+308
+00:19:06.449 --> 00:19:10.369
+person to become wealthy and another person to become
+
+309
+00:19:10.380 --> 00:19:14.229
+poor. Um When you add that in to things
+
+310
+00:19:14.239 --> 00:19:19.010
+like differences in education, that becomes an even bigger
+
+311
+00:19:19.020 --> 00:19:22.709
+effect. And so in the kind of models we
+
+312
+00:19:22.719 --> 00:19:25.949
+have, we can we, we actually start by taking
+
+313
+00:19:25.959 --> 00:19:31.199
+the individuals and demographically matching them to real populations.
+
+314
+00:19:31.510 --> 00:19:36.030
+So we match things in terms of age education,
+
+315
+00:19:36.310 --> 00:19:41.449
+gender, race. And um and then we simulate the
+
+316
+00:19:41.459 --> 00:19:47.189
+economy forward, we can explore what kind of policies
+
+317
+00:19:47.250 --> 00:19:52.219
+lead to, to less inequality in the economy and
+
+318
+00:19:52.229 --> 00:19:55.699
+how do production in the, in the economy and
+
+319
+00:19:55.709 --> 00:20:00.479
+inequality interact. Um You know, conventional wisdom is that
+
+320
+00:20:00.750 --> 00:20:05.680
+you mm more inequality is associated with higher GDP.
+
+321
+00:20:06.050 --> 00:20:08.719
+Uh That's not necessarily the case. In fact, you
+
+322
+00:20:08.729 --> 00:20:14.689
+may have the opposite because economies, economic production can
+
+323
+00:20:14.699 --> 00:20:17.699
+be limited by investment or it can be limited
+
+324
+00:20:17.709 --> 00:20:20.540
+by demand. If you don't have people to sell
+
+325
+00:20:20.550 --> 00:20:23.329
+goods, to who have money to buy those goods,
+
+326
+00:20:23.579 --> 00:20:27.670
+then that's bad for output. So in our models,
+
+327
+00:20:27.680 --> 00:20:31.229
+we're seeking to find the right trade off between
+
+328
+00:20:31.439 --> 00:20:35.250
+the two so that we at least understand what
+
+329
+00:20:35.260 --> 00:20:40.750
+that interaction is uh without prejudging uh what's good
+
+330
+00:20:40.760 --> 00:20:42.849
+or bad. We at least want to understand the
+
+331
+00:20:42.859 --> 00:20:48.030
+cause and effect of inequality and economic uh production
+
+332
+00:20:49.020 --> 00:20:51.400
+and that's research in progress right now. I I
+
+333
+00:20:51.410 --> 00:20:55.229
+can't tell you the answer, but my hypothesis is
+
+334
+00:20:55.239 --> 00:20:58.560
+that over the last 20 years, the economy has
+
+335
+00:20:58.569 --> 00:21:02.560
+really been demand limited and GDP would have gone
+
+336
+00:21:02.569 --> 00:21:05.040
+up if we had less inequality.
+
+337
+00:21:06.130 --> 00:21:09.430
+Mhm. So, uh now I would like to ask
+
+338
+00:21:09.439 --> 00:21:12.069
+you a little bit about markets. So what are
+
+339
+00:21:12.079 --> 00:21:15.530
+some of the main claims made in standard economics
+
+340
+00:21:15.540 --> 00:21:20.709
+about free markets? And in what ways can markets
+
+341
+00:21:20.719 --> 00:21:22.109
+be inefficient?
+
+342
+00:21:22.939 --> 00:21:28.530
+Well, um you know, the standard claim and OK,
+
+343
+00:21:28.540 --> 00:21:31.040
+this, here we have to be a little bit
+
+344
+00:21:31.050 --> 00:21:34.189
+subtle because there, there's a lot of different views
+
+345
+00:21:34.199 --> 00:21:37.979
+among mainstream economists about this as well. And I
+
+346
+00:21:37.989 --> 00:21:41.800
+think uh many of them would agree with what
+
+347
+00:21:41.810 --> 00:21:45.339
+I'm about to say, which is that, um though
+
+348
+00:21:45.349 --> 00:21:49.959
+some wouldn't, um uh you know, there's many different
+
+349
+00:21:49.969 --> 00:21:54.069
+flavors of capitalism. Swedish capitalism is very different than
+
+350
+00:21:54.079 --> 00:21:59.290
+American capitalism. And, and there's a question about how
+
+351
+00:21:59.300 --> 00:22:02.869
+much regulation does capitalism take at some, at one
+
+352
+00:22:02.880 --> 00:22:05.979
+extreme? You have libertarians who say, oh, well, we
+
+353
+00:22:05.989 --> 00:22:08.790
+should just get rid of all the regulations, then
+
+354
+00:22:08.800 --> 00:22:12.290
+capitalism will do its job and everything will be
+
+355
+00:22:12.300 --> 00:22:16.579
+great. Uh Others who would say, well, no, we
+
+356
+00:22:16.589 --> 00:22:21.390
+need to, we need to control capitalism. Um We
+
+357
+00:22:21.400 --> 00:22:25.979
+need to make regulations to deal with externalities like
+
+358
+00:22:25.989 --> 00:22:32.319
+pollution. We need to um to do things to
+
+359
+00:22:32.329 --> 00:22:36.770
+keep inequality from just running away and becoming extreme.
+
+360
+00:22:37.310 --> 00:22:41.459
+Uh And uh and so we really have to
+
+361
+00:22:41.469 --> 00:22:45.689
+manage capitalism in order to have capitalism do what
+
+362
+00:22:45.699 --> 00:22:48.109
+it, the good things that it can do for
+
+363
+00:22:48.119 --> 00:22:53.770
+us. And so we're exploring those tradeoffs again. My
+
+364
+00:22:53.780 --> 00:22:58.459
+conjecture is that regulating capitalism in the right, kinds
+
+365
+00:22:58.469 --> 00:23:03.109
+of ways is actually good for capitalism and that
+
+366
+00:23:03.300 --> 00:23:06.270
+it leads to more output, uh, leads to better
+
+367
+00:23:06.280 --> 00:23:09.609
+outcomes for people and it's even good for rich
+
+368
+00:23:09.619 --> 00:23:13.969
+people. So, uh, but, you know, again, that's work
+
+369
+00:23:13.979 --> 00:23:14.770
+in progress,
+
+370
+00:23:15.560 --> 00:23:19.109
+right? Uh, BUT I, I mean, can we, how
+
+371
+00:23:19.119 --> 00:23:23.270
+can we make sense of, for example, market crashes?
+
+372
+00:23:24.520 --> 00:23:27.650
+Well, we've got to ask why the market crashes
+
+373
+00:23:27.660 --> 00:23:31.060
+occur. And so now we're slipping over into what
+
+374
+00:23:31.069 --> 00:23:34.739
+the financial system does because market crashes are part
+
+375
+00:23:34.750 --> 00:23:37.599
+of the financial system. And in the book, I
+
+376
+00:23:37.609 --> 00:23:41.339
+make the analogy between financial markets and the enteric
+
+377
+00:23:41.349 --> 00:23:45.459
+nervous system also called the gut nervous system, which
+
+378
+00:23:45.550 --> 00:23:47.920
+many people like I wasn't aware of it until
+
+379
+00:23:47.930 --> 00:23:51.180
+I started studying this more carefully. But, you know,
+
+380
+00:23:51.630 --> 00:23:55.420
+in a human being, you have the, the enteric
+
+381
+00:23:55.430 --> 00:23:57.959
+nervous system, your gut nervous system, you have as
+
+382
+00:23:57.969 --> 00:24:00.380
+many neurons as a cat does in the cat
+
+383
+00:24:00.390 --> 00:24:04.790
+brain. And if that, if that gut nervous system
+
+384
+00:24:04.800 --> 00:24:09.089
+stops functioning, you'll die unless you're fed intravenously because
+
+385
+00:24:09.099 --> 00:24:11.900
+you can't digest food without it. We tend to
+
+386
+00:24:11.910 --> 00:24:14.119
+think, oh, you know, you eat the food, it
+
+387
+00:24:14.130 --> 00:24:17.339
+goes down your esophagus and lands in your stomach
+
+388
+00:24:17.349 --> 00:24:19.660
+and then it's just like a container with some
+
+389
+00:24:19.670 --> 00:24:23.959
+chemicals in it and that's it. But actually your
+
+390
+00:24:24.000 --> 00:24:27.500
+enteric nervous system is doing all kinds of things
+
+391
+00:24:27.630 --> 00:24:29.359
+to help you digest that food. And if you,
+
+392
+00:24:29.369 --> 00:24:33.189
+it doesn't do those things, you die. Um, THE
+
+393
+00:24:33.199 --> 00:24:36.349
+financial systems at least it should be like that
+
+394
+00:24:36.910 --> 00:24:40.239
+and that the financial system is telling us about
+
+395
+00:24:40.250 --> 00:24:45.050
+things like setting prices properly so that the incentives
+
+396
+00:24:45.060 --> 00:24:47.829
+are set the right way so that people do
+
+397
+00:24:47.839 --> 00:24:50.469
+the right things to make us all better off.
+
+398
+00:24:50.910 --> 00:24:53.670
+Uh I worry to be honest that it, it's
+
+399
+00:24:53.680 --> 00:24:57.310
+often wildly off the mark in the modern financial
+
+400
+00:24:57.319 --> 00:25:01.079
+system. A lot of the modern financial system is
+
+401
+00:25:01.089 --> 00:25:06.040
+really like a casino for speculators that has instabilities
+
+402
+00:25:06.270 --> 00:25:09.630
+that can do quite the opposite. And I think
+
+403
+00:25:09.640 --> 00:25:16.349
+that's what market crashes are often about. Um uh
+
+404
+00:25:17.579 --> 00:25:23.540
+FINANCIAL speculation leads to overshoots and undershoots that cause
+
+405
+00:25:23.569 --> 00:25:28.579
+the financial system to do dysfunctional things. And the
+
+406
+00:25:28.589 --> 00:25:31.400
+2008 crisis was a very good example of that.
+
+407
+00:25:31.670 --> 00:25:36.199
+We had uh new financial instruments that people didn't
+
+408
+00:25:36.209 --> 00:25:40.880
+understand very well, mortgage backed securities, uh had side
+
+409
+00:25:40.890 --> 00:25:44.920
+effects that people hadn't thought through. So that when
+
+410
+00:25:44.930 --> 00:25:50.349
+the housing market uh dropped uh mortgage backed securities
+
+411
+00:25:50.359 --> 00:25:53.989
+which were hugely invested in by financial institutions all
+
+412
+00:25:54.000 --> 00:26:00.359
+over the world became almost worthless. And that caused
+
+413
+00:26:00.369 --> 00:26:04.359
+the whole credit system globally to cut back, which
+
+414
+00:26:04.369 --> 00:26:07.199
+then caused things in the real economy to stop
+
+415
+00:26:07.209 --> 00:26:12.060
+working because businesses do need money to, they need
+
+416
+00:26:12.069 --> 00:26:14.910
+credit to go about what they're doing. So when
+
+417
+00:26:14.920 --> 00:26:18.150
+the supply of credit got shut off, the economy
+
+418
+00:26:18.160 --> 00:26:22.790
+suffered. So, but to even think about things that
+
+419
+00:26:22.800 --> 00:26:24.560
+way, you have to have a way of looking
+
+420
+00:26:24.569 --> 00:26:28.290
+at the financial system that admits that it's not
+
+421
+00:26:28.300 --> 00:26:33.489
+perfect. Whereas the standard efficient market hypothesis that most
+
+422
+00:26:33.500 --> 00:26:37.170
+financial theory is based on doesn't even allow that
+
+423
+00:26:37.180 --> 00:26:41.969
+possibility. By definition, the financial system is working perfectly.
+
+424
+00:26:43.010 --> 00:26:48.040
+In contrast, I have um uh a theory of
+
+425
+00:26:48.050 --> 00:26:53.030
+market ecology that views the economy as an ecosystem
+
+426
+00:26:53.040 --> 00:26:58.359
+of specialized traders in which things can go wrong.
+
+427
+00:26:58.680 --> 00:27:01.260
+And where I think, I argue that we have
+
+428
+00:27:01.270 --> 00:27:05.969
+to actually understand that egos ecosystem to, to understand
+
+429
+00:27:05.979 --> 00:27:08.380
+why the financial system is working as it is
+
+430
+00:27:08.689 --> 00:27:10.239
+and why it malfunctions.
+
+431
+00:27:11.099 --> 00:27:15.069
+Mhm So since you mentioned the 2008 financial crisis,
+
+432
+00:27:15.079 --> 00:27:17.880
+I have this question saved for later for the
+
+433
+00:27:17.890 --> 00:27:20.069
+end of the interview. But let me ask you,
+
+434
+00:27:20.079 --> 00:27:24.219
+let me ask you now. Uh So even if
+
+435
+00:27:24.229 --> 00:27:28.540
+we are able to predict any financial crisis, do
+
+436
+00:27:28.550 --> 00:27:31.349
+you think that we can avoid it or prevent
+
+437
+00:27:31.359 --> 00:27:32.000
+it in any way?
+
+438
+00:27:32.689 --> 00:27:35.739
+I think so. But you know, uh the proof
+
+439
+00:27:35.750 --> 00:27:37.550
+is in the pudding, we haven't done it yet.
+
+440
+00:27:38.170 --> 00:27:42.170
+Uh Of course, it's always tricky if I predict
+
+441
+00:27:42.180 --> 00:27:44.510
+there's gonna be a financial crisis and then we
+
+442
+00:27:44.520 --> 00:27:46.839
+take some actions and we don't have a financial
+
+443
+00:27:46.849 --> 00:27:51.790
+crisis. Well, was my prediction, right? Uh It's a
+
+444
+00:27:51.800 --> 00:27:54.650
+deep, deep question. I think we often make predictions
+
+445
+00:27:54.660 --> 00:27:58.670
+precisely. So those predictions don't come true because we're
+
+446
+00:27:58.680 --> 00:28:02.229
+making conditional predictions. If we continue acting as we
+
+447
+00:28:02.239 --> 00:28:05.859
+are now something bad will happen, so we change
+
+448
+00:28:05.869 --> 00:28:09.400
+our actions so that bad thing won't happen. And
+
+449
+00:28:09.410 --> 00:28:12.119
+to really understand whether those kind of predictions are
+
+450
+00:28:12.130 --> 00:28:14.420
+working, you need to make lots of them and
+
+451
+00:28:14.430 --> 00:28:18.310
+gain experience and, and you need to make clear
+
+452
+00:28:19.270 --> 00:28:23.430
+how each prediction depends on the conditions underlying the
+
+453
+00:28:23.439 --> 00:28:27.449
+prediction. But, but I very much believe that that's
+
+454
+00:28:27.459 --> 00:28:32.050
+true. I think, you know, we we in the
+
+455
+00:28:32.060 --> 00:28:34.750
+housing market that I mentioned the housing market agent
+
+456
+00:28:34.770 --> 00:28:41.439
+based model, we showed how um how uh that
+
+457
+00:28:41.449 --> 00:28:45.520
+we could predict the housing crisis. And we showed
+
+458
+00:28:45.530 --> 00:28:49.760
+that um lending policy was the primary cause of
+
+459
+00:28:49.770 --> 00:28:53.000
+the hou housing crisis. And that if we changed
+
+460
+00:28:53.010 --> 00:28:56.790
+lending policy in a counterfactual, then we had a
+
+461
+00:28:56.800 --> 00:29:01.819
+much less severe housing bubble, it didn't go up
+
+462
+00:29:01.880 --> 00:29:04.839
+and it didn't go down, it had much steadier
+
+463
+00:29:04.849 --> 00:29:10.439
+path. And, and we got that behavior by sticking
+
+464
+00:29:10.579 --> 00:29:15.359
+to the previous lending policies of, you know, tighter
+
+465
+00:29:15.369 --> 00:29:20.300
+credit and 30 year fixed term loans and rather
+
+466
+00:29:20.310 --> 00:29:22.489
+than the crazy kinds of loans that were being
+
+467
+00:29:22.500 --> 00:29:26.349
+given out during the housing bubble and, and lending
+
+468
+00:29:26.359 --> 00:29:29.380
+to people who really didn't have the capacity to
+
+469
+00:29:29.390 --> 00:29:33.310
+make the payments on their house in, in our
+
+470
+00:29:33.319 --> 00:29:36.150
+alternative that didn't happen. And we had a much
+
+471
+00:29:36.160 --> 00:29:38.670
+smoother path. So it's at least a proof of
+
+472
+00:29:38.680 --> 00:29:41.310
+principle. But until we do it in real life,
+
+473
+00:29:41.319 --> 00:29:43.469
+we won't know. And as I said, even then
+
+474
+00:29:43.680 --> 00:29:47.709
+it's gonna take some experience uh because you don't
+
+475
+00:29:47.719 --> 00:29:51.180
+know that you, when you avoid a bad thing
+
+476
+00:29:51.189 --> 00:29:55.300
+by making a prediction, uh it takes some experience
+
+477
+00:29:55.310 --> 00:29:56.890
+like if you can show you avoid these bad
+
+478
+00:29:56.900 --> 00:30:00.219
+things for many years in a row then, then
+
+479
+00:30:00.229 --> 00:30:01.900
+you go. Oh, ok. Maybe it's working.
+
+480
+00:30:03.290 --> 00:30:06.699
+Mhm. So, let me ask you now, changing topics
+
+481
+00:30:06.709 --> 00:30:08.780
+a little bit. What is it that in your
+
+482
+00:30:08.790 --> 00:30:11.739
+book you call Climate Economics?
+
+483
+00:30:12.459 --> 00:30:15.949
+Well, you know, we are in the midst of
+
+484
+00:30:15.959 --> 00:30:21.579
+a major economic transition uh targeted at uh stopping
+
+485
+00:30:21.589 --> 00:30:25.239
+the emission of greenhouse gasses. We need to get
+
+486
+00:30:25.250 --> 00:30:30.060
+to net zero quickly. And so there's a lot
+
+487
+00:30:30.069 --> 00:30:32.439
+of debate about how we should do that, how
+
+488
+00:30:32.449 --> 00:30:35.300
+much it's gonna cost us? What is the right
+
+489
+00:30:35.310 --> 00:30:38.229
+path, how should we invest in order to get
+
+490
+00:30:38.239 --> 00:30:43.040
+there? And um so I've been studying that in
+
+491
+00:30:43.050 --> 00:30:47.300
+two ways. One is by collecting data on past
+
+492
+00:30:47.310 --> 00:30:52.469
+transitions, past technology transitions to uh see how they
+
+493
+00:30:52.479 --> 00:30:56.650
+work, what, what are the patterns that are consistent
+
+494
+00:30:56.660 --> 00:31:02.119
+in those transitions? And, and, and then also by
+
+495
+00:31:02.709 --> 00:31:07.949
+creating simulations of the transition to understand what uh
+
+496
+00:31:07.969 --> 00:31:11.500
+how it's likely to happen and, and to give
+
+497
+00:31:11.510 --> 00:31:14.479
+us insight about how to make it happen faster
+
+498
+00:31:14.989 --> 00:31:20.310
+and better, smoother and so forth. And so we've
+
+499
+00:31:20.319 --> 00:31:24.140
+learned several different lessons from these studies. One is
+
+500
+00:31:24.150 --> 00:31:29.630
+that technologies behave very differently on one hand, um
+
+501
+00:31:30.209 --> 00:31:33.680
+uh you know, we have some technologies like fossil
+
+502
+00:31:33.689 --> 00:31:37.260
+fuels that cost about the same once you adjust
+
+503
+00:31:37.270 --> 00:31:39.810
+for inflation as they did 100 and 40 years
+
+504
+00:31:39.819 --> 00:31:45.390
+ago. And other technologies like solar energy that's 10,000
+
+505
+00:31:45.530 --> 00:31:48.310
+times cheaper than it was when it was first
+
+506
+00:31:48.319 --> 00:31:53.339
+commercially deployed in a vanguard satellite in 1958. So
+
+507
+00:31:53.500 --> 00:31:58.469
+these technologies are behaving very differently. And we're incredibly
+
+508
+00:31:58.479 --> 00:32:01.719
+lucky that just when we really need low carbon
+
+509
+00:32:01.729 --> 00:32:07.770
+or zero carbon technologies, uh renewable technologies like solar
+
+510
+00:32:07.780 --> 00:32:13.949
+energy, wind lithium ion batteries, um green hydrogen are
+
+511
+00:32:13.959 --> 00:32:17.290
+all entering the stage, are all dropping in price
+
+512
+00:32:17.300 --> 00:32:20.349
+quite quickly so that solar and wind are already
+
+513
+00:32:20.359 --> 00:32:25.430
+competitive with fossil fuels and we predict will become
+
+514
+00:32:25.650 --> 00:32:31.270
+significantly cheaper through time. So that in fact, due
+
+515
+00:32:31.280 --> 00:32:34.250
+to the presence of renewables, energy will become cheaper
+
+516
+00:32:34.339 --> 00:32:39.880
+than it's ever been. And uh and also help
+
+517
+00:32:39.890 --> 00:32:44.520
+us deal with climate change. Uh In fact, we
+
+518
+00:32:44.530 --> 00:32:47.209
+argue in one of our papers that a rapid
+
+519
+00:32:47.219 --> 00:32:53.339
+transition will save us collectively, the order of $12
+
+520
+00:32:53.349 --> 00:32:55.810
+trillion or very likely save us that we make
+
+521
+00:32:55.819 --> 00:32:59.650
+probabilistic predictions about that. So in other words, we
+
+522
+00:32:59.660 --> 00:33:03.319
+should pursue that even if we didn't have uh
+
+523
+00:33:03.329 --> 00:33:06.949
+climate change to worry about it also, by the
+
+524
+00:33:06.959 --> 00:33:10.829
+way, has other nice side effects, like less pollution,
+
+525
+00:33:11.199 --> 00:33:18.790
+more stable energy prices, uh uh energy security, less
+
+526
+00:33:19.500 --> 00:33:27.209
+uh less other polluting effects. Um So, so there
+
+527
+00:33:27.219 --> 00:33:30.239
+are many other reasons why we should actually pursue
+
+528
+00:33:30.250 --> 00:33:34.260
+the green energy transition and make it happen as
+
+529
+00:33:34.270 --> 00:33:35.180
+fast as we can.
+
+530
+00:33:35.979 --> 00:33:39.439
+Mhm Since we're talking about the climate here, how
+
+531
+00:33:39.449 --> 00:33:42.939
+do we predict climate and the weather? And are
+
+532
+00:33:42.949 --> 00:33:46.959
+there similarities between how we go about doing that?
+
+533
+00:33:46.969 --> 00:33:51.260
+And uh complexity theory? Applied to economics.
+
+534
+00:33:51.689 --> 00:33:53.839
+Yeah. So the way we predict the weather is
+
+535
+00:33:53.849 --> 00:33:56.199
+very different than the way we predict. At least
+
+536
+00:33:56.209 --> 00:34:00.520
+the way mainstream economics predicts the economy. You know,
+
+537
+00:34:00.530 --> 00:34:05.380
+in the weather, we now do um in numerical
+
+538
+00:34:05.390 --> 00:34:08.580
+weather prediction, we have a model, a physical model
+
+539
+00:34:08.590 --> 00:34:13.129
+of the weather. And we make measurements throughout the
+
+540
+00:34:13.139 --> 00:34:16.978
+globe all the time. Through combination of satellites and
+
+541
+00:34:16.989 --> 00:34:20.708
+weather stations. We put those measurements into a simulation
+
+542
+00:34:20.719 --> 00:34:24.228
+of the weather that we use supercomputers to make
+
+543
+00:34:24.239 --> 00:34:26.510
+predictions about what the weather is going to be
+
+544
+00:34:26.520 --> 00:34:30.199
+tomorrow. And up to roughly next week beyond that,
+
+545
+00:34:30.208 --> 00:34:35.060
+we can't really do anything very useful. Um And,
+
+546
+00:34:35.389 --> 00:34:40.580
+and that's something we've invested, you know, hundreds of
+
+547
+00:34:40.590 --> 00:34:45.320
+billions of dollars into doing that has many economic
+
+548
+00:34:45.330 --> 00:34:50.600
+benefits. And that involved a sustained effort by uh
+
+549
+00:34:50.610 --> 00:34:56.159
+physical scientists that began in 1950 has been going
+
+550
+00:34:56.168 --> 00:34:58.929
+ever since and getting bigger and bigger and more
+
+551
+00:34:58.939 --> 00:35:01.919
+and more important ever since it took them 30
+
+552
+00:35:01.929 --> 00:35:05.030
+years to break, even with subjective weather forecasters who
+
+553
+00:35:05.040 --> 00:35:07.620
+would predict the weather, you know, by just looking
+
+554
+00:35:07.629 --> 00:35:11.239
+at weather maps and past experience and using rules
+
+555
+00:35:11.250 --> 00:35:18.040
+of thumb. Um BUT it became better in roughly
+
+556
+00:35:18.050 --> 00:35:21.919
+1980. And since then, we've had, it's continued to
+
+557
+00:35:21.929 --> 00:35:25.780
+get better and better. In contrast, when we predict
+
+558
+00:35:25.790 --> 00:35:31.530
+the economy, we have relatively small models that don't
+
+559
+00:35:31.540 --> 00:35:35.209
+use any much fine grained information about the economy
+
+560
+00:35:35.739 --> 00:35:39.459
+uh that try and predict, make economic predictions in
+
+561
+00:35:39.469 --> 00:35:44.580
+aggregate form these predictions are based on ideas from
+
+562
+00:35:44.989 --> 00:35:47.090
+uh that I described before and the way the
+
+563
+00:35:47.100 --> 00:35:52.820
+models are built. And um uh and they don't
+
+564
+00:35:52.830 --> 00:35:57.239
+use big data, they don't use serious computing power.
+
+565
+00:35:57.909 --> 00:36:01.530
+In contrast, in our complexity economics models, like the
+
+566
+00:36:01.540 --> 00:36:04.840
+macro model I mentioned, we simulate the behavior of
+
+567
+00:36:04.850 --> 00:36:09.020
+millions or tens of millions of households and hundreds
+
+568
+00:36:09.030 --> 00:36:13.229
+of thousands or more firms. And we simulate that
+
+569
+00:36:13.239 --> 00:36:17.949
+interaction in some detail, we crave information on the
+
+570
+00:36:17.959 --> 00:36:21.149
+finest grain possible because that's the scale at which
+
+571
+00:36:21.159 --> 00:36:24.590
+the model is built. And so we're really mimicking
+
+572
+00:36:24.600 --> 00:36:28.169
+the same style of prediction that's used in weather
+
+573
+00:36:28.179 --> 00:36:31.909
+forecasting. And we think that if if we get
+
+574
+00:36:31.919 --> 00:36:34.840
+the resources to bring this to completion, we could
+
+575
+00:36:34.850 --> 00:36:39.760
+have a dramatic improvement in economic forecasting along the
+
+576
+00:36:39.770 --> 00:36:43.179
+lines of the one that happened with weather.
+
+577
+00:36:45.120 --> 00:36:49.580
+So when talking about potential solutions for climate change
+
+578
+00:36:49.590 --> 00:36:53.709
+earlier, you mentioned renewable energy. Are there any other
+
+579
+00:36:53.719 --> 00:36:58.639
+solutions that particularly from an economic standpoint? You, you
+
+580
+00:36:58.649 --> 00:37:00.100
+you would suggest,
+
+581
+00:37:00.929 --> 00:37:05.120
+well, I think actually for the, for the energy
+
+582
+00:37:05.129 --> 00:37:08.429
+part of the economy, which is, you know, it's
+
+583
+00:37:08.439 --> 00:37:12.429
+only three or 4% of GDP to produce energy.
+
+584
+00:37:12.719 --> 00:37:15.020
+But without energy, the whole economy grinds to a
+
+585
+00:37:15.030 --> 00:37:18.850
+halt. So tourism is a comparable part of GDP.
+
+586
+00:37:19.020 --> 00:37:20.909
+As we saw with COVID, we can live without
+
+587
+00:37:20.919 --> 00:37:22.699
+tourism for a year or two if we have
+
+588
+00:37:22.709 --> 00:37:25.360
+to. It's not fun, but we could do it
+
+589
+00:37:25.439 --> 00:37:29.850
+without energy, we would die So, so energy is
+
+590
+00:37:29.860 --> 00:37:32.989
+really, really important and it makes 75% of the
+
+591
+00:37:33.000 --> 00:37:37.620
+emissions that that of greenhouse gas emissions. So I
+
+592
+00:37:37.629 --> 00:37:42.389
+think renewable energy and and appropriate storage can really
+
+593
+00:37:42.399 --> 00:37:46.330
+solve the the energy part of emissions. So we
+
+594
+00:37:46.340 --> 00:37:49.489
+get rid of 75% that way. And I think
+
+595
+00:37:49.500 --> 00:37:51.620
+we're on track to do that in about 20
+
+596
+00:37:51.629 --> 00:37:57.810
+years. Um In contrast, land use and farming, uh
+
+597
+00:37:58.040 --> 00:38:01.719
+those are harder problems and we aren't making the
+
+598
+00:38:01.729 --> 00:38:06.159
+same kind of rapid progress there. So, so we
+
+599
+00:38:06.169 --> 00:38:08.199
+need to focus more attention on that. There are
+
+600
+00:38:08.209 --> 00:38:11.120
+a few other things like cement, cement makes a
+
+601
+00:38:11.129 --> 00:38:14.310
+lot of greenhouse gas emissions. I think that's also
+
+602
+00:38:14.320 --> 00:38:17.929
+solvable, but land use is the hard one that
+
+603
+00:38:17.939 --> 00:38:22.659
+um uh remains to be done. I think there
+
+604
+00:38:22.669 --> 00:38:26.699
+are solutions but we need to be making that
+
+605
+00:38:26.709 --> 00:38:28.340
+change faster than we are now.
+
+606
+00:38:29.679 --> 00:38:32.399
+Um And what about one solution that some people
+
+607
+00:38:32.409 --> 00:38:36.189
+talk about nuclear energy? What do you think about
+
+608
+00:38:36.199 --> 00:38:36.219
+it?
+
+609
+00:38:36.429 --> 00:38:40.139
+Well, you know, I'm I believe we should take
+
+610
+00:38:40.149 --> 00:38:44.820
+the cheapest and quickest way to make these changes
+
+611
+00:38:45.179 --> 00:38:49.290
+and nuclear energy is neither cheap nor quick. It
+
+612
+00:38:49.300 --> 00:38:53.389
+um nuclear energy now nuclear energy came into being
+
+613
+00:38:53.399 --> 00:38:56.239
+as a commercial way to make energy at roughly
+
+614
+00:38:56.250 --> 00:39:01.510
+the same time as solar photovoltaics. Um WHEREAS solar
+
+615
+00:39:01.520 --> 00:39:04.810
+photo tanks have dropped in cost by a factor
+
+616
+00:39:04.820 --> 00:39:08.760
+of 10,000 nuclear energy if is if anything more
+
+617
+00:39:08.770 --> 00:39:14.350
+expensive now. Um And so there's no trend towards
+
+618
+00:39:14.360 --> 00:39:19.229
+becoming cheaper. People are talking about small modular reactors
+
+619
+00:39:19.239 --> 00:39:22.949
+as a way to change that and it might
+
+620
+00:39:22.959 --> 00:39:26.830
+work to make it cheaper but small modular reactors.
+
+621
+00:39:26.840 --> 00:39:30.149
+First of all, nuclear power, inherently, the reason they
+
+622
+00:39:30.159 --> 00:39:33.040
+built nuclear power plants so big is because of
+
+623
+00:39:33.050 --> 00:39:36.639
+economies of scale. Uh YOU know things like the
+
+624
+00:39:36.649 --> 00:39:40.050
+ratio of the the cost of the material has
+
+625
+00:39:40.060 --> 00:39:42.479
+to do with the surface of the vessels, the
+
+626
+00:39:42.489 --> 00:39:44.919
+then the surface to volume ratio gets bigger as
+
+627
+00:39:44.929 --> 00:39:47.330
+you build the plant bigger and bigger. And so
+
+628
+00:39:47.340 --> 00:39:49.479
+there are various reasons why they make nuclear plants
+
+629
+00:39:49.489 --> 00:39:52.360
+big. So small modular reactors start out with a
+
+630
+00:39:52.370 --> 00:39:55.510
+handicap. They're gonna be more expensive to start with
+
+631
+00:39:55.989 --> 00:39:59.959
+than traditional nuclear power, which is already more expensive
+
+632
+00:39:59.969 --> 00:40:02.949
+than the alternatives and shows no pattern of getting
+
+633
+00:40:02.959 --> 00:40:07.219
+better, small modular reactors will very likely drop in
+
+634
+00:40:07.229 --> 00:40:10.540
+costs through time because of mass production, but it's
+
+635
+00:40:10.550 --> 00:40:13.300
+not mass production on the same scale as solar
+
+636
+00:40:13.310 --> 00:40:16.000
+panels. You know, a solar panel is a pretty
+
+637
+00:40:16.010 --> 00:40:21.590
+cheap thing that you can really mass produce dramatically.
+
+638
+00:40:21.729 --> 00:40:24.530
+Small modular reactor is not going to be on
+
+639
+00:40:24.540 --> 00:40:26.929
+the same scale. I don't think the rates at
+
+640
+00:40:26.939 --> 00:40:29.699
+which the cost will drop will be as dramatic
+
+641
+00:40:29.709 --> 00:40:32.139
+as they are for solar energy. And I don't
+
+642
+00:40:32.149 --> 00:40:35.050
+think it's ever gonna catch up with solar energy
+
+643
+00:40:35.060 --> 00:40:39.060
+plus storage, but we'll see. Uh I just think
+
+644
+00:40:39.070 --> 00:40:42.010
+it's, it's not an investment that I would bet
+
+645
+00:40:42.020 --> 00:40:42.379
+on.
+
+646
+00:40:43.679 --> 00:40:46.459
+OK. So I have one final topic I would
+
+647
+00:40:46.469 --> 00:40:48.830
+like to explore wi with you today. We've already
+
+648
+00:40:48.840 --> 00:40:53.270
+talked a little bit about inequality before. So, uh
+
+649
+00:40:53.290 --> 00:40:56.770
+it's also one of the big issues we have
+
+650
+00:40:56.780 --> 00:41:00.189
+to tackle nowadays. So how can we tackle it
+
+651
+00:41:00.199 --> 00:41:03.459
+through the kind of framework that you present in
+
+652
+00:41:03.469 --> 00:41:04.100
+your book?
+
+653
+00:41:04.820 --> 00:41:09.760
+Well, I really think we can understand uh you
+
+654
+00:41:09.770 --> 00:41:11.909
+know, whatever we think of a new policy. The
+
+655
+00:41:11.919 --> 00:41:14.399
+first question, one of the questions we should ask
+
+656
+00:41:14.409 --> 00:41:17.580
+right away is what does it do to inequality?
+
+657
+00:41:18.020 --> 00:41:21.600
+Government agencies that evaluate policies already look at questions
+
+658
+00:41:21.610 --> 00:41:24.949
+like what does it do to GDP maybe what
+
+659
+00:41:24.959 --> 00:41:28.159
+does it do to aggregate unemployment? But they don't,
+
+660
+00:41:28.239 --> 00:41:30.679
+they aren't capable of looking at inequality because the
+
+661
+00:41:30.689 --> 00:41:35.419
+models can't handle that because traditional mainstream models though
+
+662
+00:41:35.429 --> 00:41:37.570
+there is a whole branch trying to make uh
+
+663
+00:41:37.580 --> 00:41:42.360
+what are called heterogeneous agent models. Uh That, that
+
+664
+00:41:42.459 --> 00:41:44.780
+in principle can look at inequality, but they have
+
+665
+00:41:44.790 --> 00:41:47.360
+to because these models are so hard to solve,
+
+666
+00:41:47.560 --> 00:41:49.219
+they have to put it in, in a very
+
+667
+00:41:49.229 --> 00:41:55.010
+stylized, not fully realistic way. And so at the
+
+668
+00:41:55.020 --> 00:41:57.080
+end of the day, the answers are not very
+
+669
+00:41:57.090 --> 00:42:02.080
+reliable. Um In contrast, we have it automatically in
+
+670
+00:42:02.090 --> 00:42:06.620
+our models and, and so any policy that we
+
+671
+00:42:06.629 --> 00:42:08.469
+want to look at, we can ask, we can
+
+672
+00:42:09.020 --> 00:42:11.870
+answer the question, what will it do to inequality?
+
+673
+00:42:12.219 --> 00:42:14.100
+And I think that needs to be a routine
+
+674
+00:42:14.110 --> 00:42:18.590
+part of our evaluation because you know what I
+
+675
+00:42:18.600 --> 00:42:22.209
+hope we can do with complexity economics is enter
+
+676
+00:42:22.219 --> 00:42:26.510
+into a new phase where economic models genuinely provide
+
+677
+00:42:26.520 --> 00:42:30.469
+useful guidance that is we can answer cause effect
+
+678
+00:42:30.479 --> 00:42:34.699
+questions. If we implement this policy, what will happen
+
+679
+00:42:35.100 --> 00:42:38.780
+if we implement this other policy? What will happen?
+
+680
+00:42:39.060 --> 00:42:41.949
+Inequality needs to be part of the, what will
+
+681
+00:42:41.959 --> 00:42:44.560
+happen and we need to get answers that we
+
+682
+00:42:44.570 --> 00:42:48.969
+can trust traditional economic models. Don't have a very
+
+683
+00:42:48.979 --> 00:42:52.969
+good track record for predicting the effects of policies.
+
+684
+00:42:53.399 --> 00:42:56.899
+Great. So the book is again Making Sense of
+
+685
+00:42:56.909 --> 00:42:59.939
+Chaos, a better economics for a better world. I'm
+
+686
+00:42:59.949 --> 00:43:02.199
+leaving a link to it in the description of
+
+687
+00:43:02.209 --> 00:43:05.090
+the interview and doctor Farmer. Just before we go,
+
+688
+00:43:05.100 --> 00:43:07.620
+would you like to mention any places on the
+
+689
+00:43:07.629 --> 00:43:10.699
+internet where people can find you and your work?
+
+690
+00:43:11.330 --> 00:43:14.699
+Well, I have a website Joan farmer.com. Uh THE
+
+691
+00:43:14.709 --> 00:43:18.219
+Institute for New Economic Thinking has a website with
+
+692
+00:43:18.409 --> 00:43:21.360
+our work. Um You know, I've also started a
+
+693
+00:43:21.370 --> 00:43:25.800
+company called Macrocosm whose goal is to scale up
+
+694
+00:43:25.810 --> 00:43:28.979
+these ideas and reduce them to practice and provide
+
+695
+00:43:28.989 --> 00:43:33.139
+commercial solutions. So this isn't just an academic exercise.
+
+696
+00:43:33.629 --> 00:43:37.209
+And um so we also have a website and
+
+697
+00:43:37.399 --> 00:43:41.929
+for anybody who's interested in economic advice, uh we,
+
+698
+00:43:41.939 --> 00:43:44.260
+we can do it and you know, we're particularly
+
+699
+00:43:44.270 --> 00:43:48.439
+for non commercial. Uh WE try to make our,
+
+700
+00:43:48.449 --> 00:43:52.419
+our research as open as possible for non-commercial use
+
+701
+00:43:52.540 --> 00:43:56.719
+because we really want to see things change. Uh
+
+702
+00:43:56.729 --> 00:43:58.600
+OK, we're trying to make a little money but
+
+703
+00:43:58.610 --> 00:44:01.649
+we really wanna change and, and provide the world
+
+704
+00:44:01.659 --> 00:44:05.149
+with better economic advice. So all of those sources
+
+705
+00:44:05.159 --> 00:44:06.209
+um could be useful.
+
+706
+00:44:06.959 --> 00:44:09.360
+Great. Thank you. So, thank you so much for
+
+707
+00:44:09.370 --> 00:44:11.989
+coming on the show. It's been a great pleasure
+
+708
+00:44:12.000 --> 00:44:12.699
+to talk with you.
+
+709
+00:44:13.000 --> 00:44:15.080
+It's a great pleasure. It's been a great interview.
+
+710
+00:44:15.090 --> 00:44:16.030
+Thank you very much.
+
+711
+00:44:17.110 --> 00:44:19.840
+Hi, guys. Thank you for watching this interview. Until
+
+712
+00:44:19.850 --> 00:44:22.010
+the end. If you liked it, please share it.
+
+713
+00:44:22.020 --> 00:44:24.820
+Leave a like and hit the subscription button. The
+
+714
+00:44:24.830 --> 00:44:26.909
+show is brought to you by N Lights learning
+
+715
+00:44:26.919 --> 00:44:29.949
+and development. Then differently check the website at N
+
+716
+00:44:29.959 --> 00:44:33.909
+lights.com and also please consider supporting the show on
+
+717
+00:44:33.919 --> 00:44:36.959
+Patreon or paypal. I would also like to give
+
+718
+00:44:36.969 --> 00:44:39.260
+a huge thank you to my main patrons and
+
+719
+00:44:39.270 --> 00:44:43.489
+paypal supporters, Perego Larson, Jerry Muller and Frederick Suno
+
+720
+00:44:43.540 --> 00:44:46.610
+Bernard Seche O of Alex Adam, Castle Matthew Whitting
+
+721
+00:44:46.649 --> 00:44:49.889
+B no wolf, Tim Ho Erica LJ Conners, Philip
+
+722
+00:44:49.899 --> 00:44:52.810
+Forrest Connelly. Then the Met Robert Wine in nai
+
+723
+00:44:53.159 --> 00:44:56.800
+Z Mar Nevs calling in Hobel Governor Mikel Stormer
+
+724
+00:44:57.070 --> 00:45:00.360
+Samuel Andre Francis for Agns Ferger Ken Hall, her
+
+725
+00:45:00.659 --> 00:45:03.770
+Ma J and Lain Jung Y and the Samuel
+
+726
+00:45:04.379 --> 00:45:07.929
+K Hes Mark Smith J. Tom Hummel s friends,
+
+727
+00:45:07.969 --> 00:45:11.020
+David Sloan Wilson, the Yasa dear, Roman Roach Diego
+
+728
+00:45:11.510 --> 00:45:16.060
+and Jan Punter, Romani Charlotte Bli Nicole Barba, Adam
+
+729
+00:45:16.070 --> 00:45:19.570
+Hunt, Pavlo Stassi na me, Gary G Alman, Sam
+
+730
+00:45:19.689 --> 00:45:23.790
+of Zal Ari and Ypj Barboza Julian Price Edward
+
+731
+00:45:23.800 --> 00:45:28.530
+Hall, Eden, Broder Douglas Fry, Franca Gil Cortez or
+
+732
+00:45:29.550 --> 00:45:35.669
+Scott Zachary ftdw Daniel. Friedman, William Buckner, Paul Giorgio,
+
+733
+00:45:36.419 --> 00:45:39.879
+Luke Loki, Georgio Theophano Chris Williams and Peter Wo
+
+734
+00:45:40.540 --> 00:45:44.699
+David Williams, the Ausa Anton Erickson Charles Murray, Alex
+
+735
+00:45:44.949 --> 00:45:49.489
+Shaw, Marie Martinez, Coralie Chevalier, Bangalore Fists, Larry Dey
+
+736
+00:45:49.500 --> 00:45:54.080
+Junior, Old Ebon Starry Michael Bailey. Then spur by
+
+737
+00:45:54.090 --> 00:45:58.699
+Robert Grassy Zorn, Jeff mcmahon, Jake Zul Barnabas Radick
+
+738
+00:45:58.790 --> 00:46:02.540
+Mark Temple, Thomas Dvor Luke Neeson, Chris Tory Kimberley
+
+739
+00:46:02.550 --> 00:46:05.689
+Johnson, Benjamin Gilbert Jessica. No week in the B
+
+740
+00:46:05.699 --> 00:46:11.169
+brand Nicholas Carlson Ismael Bensley Man George Katis, Valentine
+
+741
+00:46:11.179 --> 00:46:16.860
+Steinman, Perros, Kate Van Goler, Alexander Abert Liam Dan
+
+742
+00:46:17.219 --> 00:46:22.500
+Biar Masoud Ali Mohammadi Perpendicular J Ner Urla. Good
+
+743
+00:46:22.830 --> 00:46:26.659
+enough, Gregory Hastings David Pins of Shan Nelson, Mike
+
+744
+00:46:26.669 --> 00:46:30.175
+Levin and Jos Net. A special thanks to my
+
+745
+00:46:30.185 --> 00:46:33.215
+producers, these our web, Jim Frank Luca Stina, Tom
+
+746
+00:46:33.495 --> 00:46:36.985
+Vig and Bernard N Cortes Dixon, Benedikt Muller Thomas
+
+747
+00:46:36.995 --> 00:46:40.735
+Trumble, Catherine and Patrick Tobin John Carlman, Negro, Nick
+
+748
+00:46:40.745 --> 00:46:43.864
+Ortiz and Nick Golden. And to my executive producers,
+
+749
+00:46:43.875 --> 00:46:47.705
+Matthew lavender, Sergi Adrian Bogdan Knit and Rosie. Thank
+
+750
+00:46:47.715 --> 00:46:48.264
+you for all
+

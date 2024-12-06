@@ -1,0 +1,217 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. I'm your host, Ricard Lobs. And today I'm joined by Doctor Doin Farmer. He is Director of the Complexity Economics Program at the Institute for New Economic Thinking at the Oxford Martin Martin School, Bailey Gifford, professor in the Mathematical Institute at the University of Oxford and an external professor at the Santa Fe Institute. And today we're talking about his recent book Making Sense of Chaos, a Better Economics For a Better World. So, Doctor Farmer, welcome to the show. It's an honor to everyone."
+	},
+	{
+		"start_time": "00:33",
+		"speaker": "J. Doyne Farmer",
+		"words": "Thanks. It's an honor to be here."
+	},
+	{
+		"start_time": "00:36",
+		"speaker": "Ricardo Lopes",
+		"words": "So, I mean, uh I was going to ask you about complexity science, but since I already have a few interviews on the show where I addressed that topic with people like Doctor Randall, Beer, Luis Favela and others, I think that people can go and watch those interviews to have a proper introduction to the topic. So let me start right away by asking you in what ways is economics or the economy itself, a complex system."
+	},
+	{
+		"start_time": "01:02",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, complex systems are systems with emergent properties where the fundamental building blocks, whatever they are, the properties of their properties are, or the properties of their, that of what emerges from their interactions are fundamentally different than the properties of the individual building blocks, qualitatively different. And in the economy, we as people, if you imagine you were Robinson Crusoe, you'd have a certain set of things you could do. But we as a society can do things that are vastly beyond what we can do as individuals. And, and, and that's the sense in which the economy is an emergent phenomenon."
+	},
+	{
+		"start_time": "01:44",
+		"speaker": "Ricardo Lopes",
+		"words": "So tell us specifically about Ks theory, I know that it is part of complexity theory, but tell us a little bit about it. And then I will ask you about the specific phenomenon in economics."
+	},
+	{
+		"start_time": "01:57",
+		"speaker": "J. Doyne Farmer",
+		"words": "OK. Um Well, chaos is, is something that happens in what are called dynamical systems. Like the ones that come from physics, Newton's laws where um you get two properties sensitive dependence on initial conditions and what's called endogenous motion motion from within the system itself. And so the first property just means that you can have nearby initial conditions that lead to very different final states because things on average separate at an exponential rate. So you can have a, a system where uh e even if it's deterministic, meaning that if you know the state, you know exactly where it's gonna go in the future. But, but a tiny difference in that initial state can cause it to go somewhere very different. So that's underlies what we often call randomness. And, and it can lead to unpredictability like in the weather where the weather is fundamentally unpredictable, we just can't predict it better than a certain amount. The endogenous motion is means that if you think for example of standing by a mountain stream, the stream beds fixed the water coming down, the stream is coming down at the same rate and yet the stream is constantly moving. Uh That's because of the inherent chaotic dynamics of the water in the stream that, that generates that movement. So those two properties together are what we call chaos in, in the technical sense."
+	},
+	{
+		"start_time": "03:40",
+		"speaker": "Ricardo Lopes",
+		"words": "So then this is something that you address in the book. Can we apply chaos theory to understanding business cycles, for example?"
+	},
+	{
+		"start_time": "03:49",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, I think we can, we can't prove that yet. But um but the, the big question in in about business cycles, which are, you know, variations in the output of the economy, are they happening from external causes? As they did say with COVID that business cycle was very much caused by outside effects. But in 2008, the 2008 financial crisis, it came from within the economic system. And uh traditional models in economics don't have the capacity to generate endogenous motion that is motion from within the system. Uh Whereas uh alternative models that I talk about in the book that can show chaos do. And so it's a way of at least conceptually thinking about why we have business cycles that just happen spontaneously"
+	},
+	{
+		"start_time": "04:47",
+		"speaker": "Ricardo Lopes",
+		"words": "a and is the economy itself chaotic?"
+	},
+	{
+		"start_time": "04:51",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, I think it is, I, I mean, again, we can't prove that yet. But um but the economies, I think there are many examples where the economy creates its own change and really chaos is the only possible explanation for that."
+	},
+	{
+		"start_time": "05:11",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. In the book, you also established at a certain point, an analogy between the economy and organisms in biology. Co could you explain that in what ways can they be analogous?"
+	},
+	{
+		"start_time": "05:24",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, so sometimes it helps to think of these analogies to understand why things do what they do. And the economy, I argue in the book is The Metabolism of Civilization. Now just to remind people what a metabolism is, metabolism is a digestive system uh that takes in um materials from the outside world and converts them into materials that we need either to main to generate energy, to repair ourselves or to reproduce. And the economy similarly takes in uh natural resources and combines them with human labor and generates the goods and services that we people need. So we're both a part of that process like cells in the human body. But but but the the economy is collectively our metabolism. And I also make analogies in the book to between ecologies and the economy. And I think both are true. The an ecology, ecology. I argue if you think if you step back and think about it more generally is a study of the interactions of specialists with each other in a holistic way. And why do I say that? I mean, animal species are specialists. Grass is a specialist at taking earth and water and sun and converting it into grass. Zebras are specialist at taking grass and converting it to zebras. Lions are specialists at converting zebras into lions and so uh and ecology and biology is in the study of ecosystems of interacting specialists and it teaches certain lessons like even though lions don't interact directly with grass, other than maybe the roll around in it once in a while. Uh CHANGING the population of lions can have a dramatic effect on the quantity of grass that we have. Because if you get rid of the lions, the zebras may become overpopulated and they'll eat the grass uh and cause grass and which then cause erosion and has all kinds of other side effects in uh in ecosystems. Um Similarly, in the economy we all occupy, we take specialized roles as individuals, we take specialized roles as companies and, and the economy is really the study of these e eco ecosystems of specialized actors. And that's actually the key to why the economy has emergent phenomena and could do things that are far beyond what individuals can do. Because by specializing, we really um by specializing and trading, we can do things much more efficiently than we could if we all performed all the functions we needed to survive."
+	},
+	{
+		"start_time": "08:40",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm So in order to understand the economy and also I think to try to predict certain economic phenomena, it's important, it's important for us to have simulations. But how do we set up a proper simulation in economics?"
+	},
+	{
+		"start_time": "08:58",
+		"speaker": "J. Doyne Farmer",
+		"words": "Uh Well, it requires insight and thought and but roughly speaking, uh we, we, we create a simulation by first of all studying the economy asking who are the essential actors, how do they interact with each other? What are the institutions that are important for these interactions like markets? Um And we create a simulation where we put all these elements together to try to mimic what the economy does. So in a typical simulation, you have agents like households and firms who um receive information about what's happening in the economy who make decisions that we have to program into computer code. Those decisions have economic impact that generates new information as well as other information may flow in from outside. And so the actors make another set of decisions and we repeat the cycle. So in an, in a an economic simulation which we call agent based models, because the, the, the key thing that makes it different from the simulation of the physical system is that there are agents who make decisions they have agency. And so, so that's pretty much the prescription we would follow in creating a simulation of an economic system"
+	},
+	{
+		"start_time": "10:27",
+		"speaker": "Ricardo Lopes",
+		"words": "just to explore one particular example. Do you think that the housing bubble crisis that we had back in the two thousands could have been properly simulated and predicted."
+	},
+	{
+		"start_time": "10:39",
+		"speaker": "J. Doyne Farmer",
+		"words": "I think so. Um WE created a simulation of the housing crisis. Now we did so after the fact. But but in that simulation, uh we really mimicked all the things that go on when people participate in housing markets. So we we created a simulation of housing markets. And in the simulation, we mimicked everything that happens when people participate in housing markets. So in the simulation, we had households who could do choose to rent or buy a house, they could, they had to decide what kind of house they would buy if they wanted to buy a house. And in doing that, they would get together with a real estate agent who would help them find a house of comparable the right quality of the house they wanted to buy. Uh They typically then needed to take out a loan. So they would go to a bank who would decide whether or not it would approve the loan. And then um and then they would search for a house to buy or if they were a seller, the real estate agent would find a comparable house to theirs. Look at what price that house sold for. And then they would mark their, their first offer up from that and try and sell their house. If that didn't work, they would mark it down and they would do that every month until either the house sold or they decided they didn't want to sell it anymore. So we really mimic what happens in a real housing market. And we could do that with I, in that case, tens or hundreds of thousands of different agents, all of whom were participating in the housing market. Uh And we saw behavior that closely resemble the behavior we saw in the housing bubble. We since uh used a version of that model in interactions with the bank of England to help them set housing policy. And, and we were able to mimic the, the the bubble that at the time that we weren't supposed to use that word when interacting with the Bank of England. But the bubble that the um housing market and the United Kingdom was in and we simulated the policy. We, we, we, our, our housing simulation actually spontaneously generated bubbles endogenously from within the system. We would let it go up to the top of the bubble and then we would impose the policy they wanted. And we were seeking a policy that that wouldn't, would stop the bubble. But, but at the same time, wouldn't make the housing market crash in a destructive way. And so we tested the policy, it did produce roughly the behavior that was wanted, meaning it flattened the bubble out and that was the policy that they implemented. Now, I can't claim that we were um we certainly weren't the only influence in their decision making. But um things did work out roughly as we suggested, they enacted the policy, housing market flattened out."
+	},
+	{
+		"start_time": "13:51",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So before we get into other phenomena or explore other phenomena and examples of them that we can tackle through a complexity, a complexity systems approach to economics. Let me just ask you, what do you think are perhaps the main differences between standard economic theory and complexity in economics, particularly in the ways it models our agents reason and make decisions."
+	},
+	{
+		"start_time": "14:20",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, they're completely different. Um In the standard economic model, you start by, OK, you identify the agents but then you assign them utility functions. So essentially a scorecard of their preferences. What do they like? What don't they like? And it gives a ranking so that uh you then make the assumption that all the agents want to maximize their utility. And then you, you calculate the decisions those agents should all make to maximize their utility typically taking into account what all the other agents in the system are doing. So each agent looks at the other agents thinks about what they're doing and then makes the decision that given that the other agents are all maximizing their utility will maximize their own agents utility. And you then, so you calculate that decision, all those decisions, you then look at their economic consequences and that's the model. And you do this by solving equations um in an agent based model in contrast, we ask, what are the decisions the agents typically make? So if say that agent is a financial investor, we know they want to buy undervalued assets if the agent is a household. Well, we look at the behavioral data about what uh what are the patterns of consumption for households in different categories? Poor households behave very differently than wealthy households. So we just look to see behaviorally what do they do. So we program those decisions into computer code and then we run a model which say to follow on in the example, the wealthy household will make one kind of decision, the poor household will make a different kind of decision. And um and then we simulate as I described before this process in a dynamic way where at every time step, the agents all make their decisions using the algorithms we've given them. And we just let that run to see what happens. So we might have an emergent phenomenon like an equilibrium where everything goes into a uh uh uh uh well to an economist, something like the optimal decision that they would have made or it may not in the case of housing markets, for example, is very important that housing markets actually don't clear meaning in housing markets typically supply and demand don't match very well at all. Whereas in a standard model, they, they assume that supply and demand match condition called equilibrium. And so um we don't have to make those kind of assumptions. Mhm."
+	},
+	{
+		"start_time": "17:18",
+		"speaker": "Ricardo Lopes",
+		"words": "And is it possible or if it's not possible yet? Do you think it would be possible to model the entire economy through complexity theory?"
+	},
+	{
+		"start_time": "17:28",
+		"speaker": "J. Doyne Farmer",
+		"words": "Yes. Uh, WE'RE, uh, getting closer and closer to being able to do that. We've built a macro micro macro model of the economy where we simulate individuals who are organized in the household and who, uh, you know, act both as consumers and as laborers. They work for specific firms, uh who employ uh individuals to act as labor, but who buy goods and services from other companies and then produce a good or a service and, and they do that in an ongoing way. And so we can do that now for using millions of households and um, and hundreds of thousands of firms and we're in the process of scaling that up at the moment, we're still simulating typically one country or a few countries at a time together with the rest of the world. Um We close the economy and these kind of models meaning nothing is flowing in or out of the economy. It's a closed system and we're working our way towards being able to do that for the whole global economy."
+	},
+	{
+		"start_time": "18:45",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And what do we know specifically about inequality? How does it emerge?"
+	},
+	{
+		"start_time": "18:53",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, one of the things you see in these models is inequality can emerge spontaneously uh even in very simple models, um just luck can lead one person to become wealthy and another person to become poor. Um When you add that in to things like differences in education, that becomes an even bigger effect. And so in the kind of models we have, we can we, we actually start by taking the individuals and demographically matching them to real populations. So we match things in terms of age education, gender, race. And um and then we simulate the economy forward, we can explore what kind of policies lead to, to less inequality in the economy and how do production in the, in the economy and inequality interact. Um You know, conventional wisdom is that you mm more inequality is associated with higher GDP. Uh That's not necessarily the case. In fact, you may have the opposite because economies, economic production can be limited by investment or it can be limited by demand. If you don't have people to sell goods, to who have money to buy those goods, then that's bad for output. So in our models, we're seeking to find the right trade off between the two so that we at least understand what that interaction is uh without prejudging uh what's good or bad. We at least want to understand the cause and effect of inequality and economic uh production and that's research in progress right now. I I can't tell you the answer, but my hypothesis is that over the last 20 years, the economy has really been demand limited and GDP would have gone up if we had less inequality."
+	},
+	{
+		"start_time": "21:06",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, uh now I would like to ask you a little bit about markets. So what are some of the main claims made in standard economics about free markets? And in what ways can markets be inefficient?"
+	},
+	{
+		"start_time": "21:22",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, um you know, the standard claim and OK, this, here we have to be a little bit subtle because there, there's a lot of different views among mainstream economists about this as well. And I think uh many of them would agree with what I'm about to say, which is that, um though some wouldn't, um uh you know, there's many different flavors of capitalism. Swedish capitalism is very different than American capitalism. And, and there's a question about how much regulation does capitalism take at some, at one extreme? You have libertarians who say, oh, well, we should just get rid of all the regulations, then capitalism will do its job and everything will be great. Uh Others who would say, well, no, we need to, we need to control capitalism. Um We need to make regulations to deal with externalities like pollution. We need to um to do things to keep inequality from just running away and becoming extreme. Uh And uh and so we really have to manage capitalism in order to have capitalism do what it, the good things that it can do for us. And so we're exploring those tradeoffs again. My conjecture is that regulating capitalism in the right, kinds of ways is actually good for capitalism and that it leads to more output, uh, leads to better outcomes for people and it's even good for rich people. So, uh, but, you know, again, that's work in progress,"
+	},
+	{
+		"start_time": "23:15",
+		"speaker": "Ricardo Lopes",
+		"words": "right? Uh, BUT I, I mean, can we, how can we make sense of, for example, market crashes?"
+	},
+	{
+		"start_time": "23:24",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, we've got to ask why the market crashes occur. And so now we're slipping over into what the financial system does because market crashes are part of the financial system. And in the book, I make the analogy between financial markets and the enteric nervous system also called the gut nervous system, which many people like I wasn't aware of it until I started studying this more carefully. But, you know, in a human being, you have the, the enteric nervous system, your gut nervous system, you have as many neurons as a cat does in the cat brain. And if that, if that gut nervous system stops functioning, you'll die unless you're fed intravenously because you can't digest food without it. We tend to think, oh, you know, you eat the food, it goes down your esophagus and lands in your stomach and then it's just like a container with some chemicals in it and that's it. But actually your enteric nervous system is doing all kinds of things to help you digest that food. And if you, it doesn't do those things, you die. Um, THE financial systems at least it should be like that and that the financial system is telling us about things like setting prices properly so that the incentives are set the right way so that people do the right things to make us all better off. Uh I worry to be honest that it, it's often wildly off the mark in the modern financial system. A lot of the modern financial system is really like a casino for speculators that has instabilities that can do quite the opposite. And I think that's what market crashes are often about. Um uh FINANCIAL speculation leads to overshoots and undershoots that cause the financial system to do dysfunctional things. And the 2008 crisis was a very good example of that. We had uh new financial instruments that people didn't understand very well, mortgage backed securities, uh had side effects that people hadn't thought through. So that when the housing market uh dropped uh mortgage backed securities which were hugely invested in by financial institutions all over the world became almost worthless. And that caused the whole credit system globally to cut back, which then caused things in the real economy to stop working because businesses do need money to, they need credit to go about what they're doing. So when the supply of credit got shut off, the economy suffered. So, but to even think about things that way, you have to have a way of looking at the financial system that admits that it's not perfect. Whereas the standard efficient market hypothesis that most financial theory is based on doesn't even allow that possibility. By definition, the financial system is working perfectly. In contrast, I have um uh a theory of market ecology that views the economy as an ecosystem of specialized traders in which things can go wrong. And where I think, I argue that we have to actually understand that egos ecosystem to, to understand why the financial system is working as it is and why it malfunctions."
+	},
+	{
+		"start_time": "27:11",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm So since you mentioned the 2008 financial crisis, I have this question saved for later for the end of the interview. But let me ask you, let me ask you now. Uh So even if we are able to predict any financial crisis, do you think that we can avoid it or prevent it in any way?"
+	},
+	{
+		"start_time": "27:32",
+		"speaker": "J. Doyne Farmer",
+		"words": "I think so. But you know, uh the proof is in the pudding, we haven't done it yet. Uh Of course, it's always tricky if I predict there's gonna be a financial crisis and then we take some actions and we don't have a financial crisis. Well, was my prediction, right? Uh It's a deep, deep question. I think we often make predictions precisely. So those predictions don't come true because we're making conditional predictions. If we continue acting as we are now something bad will happen, so we change our actions so that bad thing won't happen. And to really understand whether those kind of predictions are working, you need to make lots of them and gain experience and, and you need to make clear how each prediction depends on the conditions underlying the prediction. But, but I very much believe that that's true. I think, you know, we we in the housing market that I mentioned the housing market agent based model, we showed how um how uh that we could predict the housing crisis. And we showed that um lending policy was the primary cause of the hou housing crisis. And that if we changed lending policy in a counterfactual, then we had a much less severe housing bubble, it didn't go up and it didn't go down, it had much steadier path. And, and we got that behavior by sticking to the previous lending policies of, you know, tighter credit and 30 year fixed term loans and rather than the crazy kinds of loans that were being given out during the housing bubble and, and lending to people who really didn't have the capacity to make the payments on their house in, in our alternative that didn't happen. And we had a much smoother path. So it's at least a proof of principle. But until we do it in real life, we won't know. And as I said, even then it's gonna take some experience uh because you don't know that you, when you avoid a bad thing by making a prediction, uh it takes some experience like if you can show you avoid these bad things for many years in a row then, then you go. Oh, ok. Maybe it's working."
+	},
+	{
+		"start_time": "30:03",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, let me ask you now, changing topics a little bit. What is it that in your book you call Climate Economics?"
+	},
+	{
+		"start_time": "30:12",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, you know, we are in the midst of a major economic transition uh targeted at uh stopping the emission of greenhouse gasses. We need to get to net zero quickly. And so there's a lot of debate about how we should do that, how much it's gonna cost us? What is the right path, how should we invest in order to get there? And um so I've been studying that in two ways. One is by collecting data on past transitions, past technology transitions to uh see how they work, what, what are the patterns that are consistent in those transitions? And, and, and then also by creating simulations of the transition to understand what uh how it's likely to happen and, and to give us insight about how to make it happen faster and better, smoother and so forth. And so we've learned several different lessons from these studies. One is that technologies behave very differently on one hand, um uh you know, we have some technologies like fossil fuels that cost about the same once you adjust for inflation as they did 100 and 40 years ago. And other technologies like solar energy that's 10,000 times cheaper than it was when it was first commercially deployed in a vanguard satellite in 1958. So these technologies are behaving very differently. And we're incredibly lucky that just when we really need low carbon or zero carbon technologies, uh renewable technologies like solar energy, wind lithium ion batteries, um green hydrogen are all entering the stage, are all dropping in price quite quickly so that solar and wind are already competitive with fossil fuels and we predict will become significantly cheaper through time. So that in fact, due to the presence of renewables, energy will become cheaper than it's ever been. And uh and also help us deal with climate change. Uh In fact, we argue in one of our papers that a rapid transition will save us collectively, the order of $12 trillion or very likely save us that we make probabilistic predictions about that. So in other words, we should pursue that even if we didn't have uh climate change to worry about it also, by the way, has other nice side effects, like less pollution, more stable energy prices, uh uh energy security, less uh less other polluting effects. Um So, so there are many other reasons why we should actually pursue the green energy transition and make it happen as fast as we can."
+	},
+	{
+		"start_time": "33:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm Since we're talking about the climate here, how do we predict climate and the weather? And are there similarities between how we go about doing that? And uh complexity theory? Applied to economics."
+	},
+	{
+		"start_time": "33:51",
+		"speaker": "J. Doyne Farmer",
+		"words": "Yeah. So the way we predict the weather is very different than the way we predict. At least the way mainstream economics predicts the economy. You know, in the weather, we now do um in numerical weather prediction, we have a model, a physical model of the weather. And we make measurements throughout the globe all the time. Through combination of satellites and weather stations. We put those measurements into a simulation of the weather that we use supercomputers to make predictions about what the weather is going to be tomorrow. And up to roughly next week beyond that, we can't really do anything very useful. Um And, and that's something we've invested, you know, hundreds of billions of dollars into doing that has many economic benefits. And that involved a sustained effort by uh physical scientists that began in 1950 has been going ever since and getting bigger and bigger and more and more important ever since it took them 30 years to break, even with subjective weather forecasters who would predict the weather, you know, by just looking at weather maps and past experience and using rules of thumb. Um BUT it became better in roughly 1980. And since then, we've had, it's continued to get better and better. In contrast, when we predict the economy, we have relatively small models that don't use any much fine grained information about the economy uh that try and predict, make economic predictions in aggregate form these predictions are based on ideas from uh that I described before and the way the models are built. And um uh and they don't use big data, they don't use serious computing power. In contrast, in our complexity economics models, like the macro model I mentioned, we simulate the behavior of millions or tens of millions of households and hundreds of thousands or more firms. And we simulate that interaction in some detail, we crave information on the finest grain possible because that's the scale at which the model is built. And so we're really mimicking the same style of prediction that's used in weather forecasting. And we think that if if we get the resources to bring this to completion, we could have a dramatic improvement in economic forecasting along the lines of the one that happened with weather."
+	},
+	{
+		"start_time": "36:45",
+		"speaker": "Ricardo Lopes",
+		"words": "So when talking about potential solutions for climate change earlier, you mentioned renewable energy. Are there any other solutions that particularly from an economic standpoint? You, you you would suggest,"
+	},
+	{
+		"start_time": "37:00",
+		"speaker": "J. Doyne Farmer",
+		"words": "well, I think actually for the, for the energy part of the economy, which is, you know, it's only three or 4% of GDP to produce energy. But without energy, the whole economy grinds to a halt. So tourism is a comparable part of GDP. As we saw with COVID, we can live without tourism for a year or two if we have to. It's not fun, but we could do it without energy, we would die So, so energy is really, really important and it makes 75% of the emissions that that of greenhouse gas emissions. So I think renewable energy and and appropriate storage can really solve the the energy part of emissions. So we get rid of 75% that way. And I think we're on track to do that in about 20 years. Um In contrast, land use and farming, uh those are harder problems and we aren't making the same kind of rapid progress there. So, so we need to focus more attention on that. There are a few other things like cement, cement makes a lot of greenhouse gas emissions. I think that's also solvable, but land use is the hard one that um uh remains to be done. I think there are solutions but we need to be making that change faster than we are now."
+	},
+	{
+		"start_time": "38:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Um And what about one solution that some people talk about nuclear energy? What do you think about it?"
+	},
+	{
+		"start_time": "38:36",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, you know, I'm I believe we should take the cheapest and quickest way to make these changes and nuclear energy is neither cheap nor quick. It um nuclear energy now nuclear energy came into being as a commercial way to make energy at roughly the same time as solar photovoltaics. Um WHEREAS solar photo tanks have dropped in cost by a factor of 10,000 nuclear energy if is if anything more expensive now. Um And so there's no trend towards becoming cheaper. People are talking about small modular reactors as a way to change that and it might work to make it cheaper but small modular reactors. First of all, nuclear power, inherently, the reason they built nuclear power plants so big is because of economies of scale. Uh YOU know things like the ratio of the the cost of the material has to do with the surface of the vessels, the then the surface to volume ratio gets bigger as you build the plant bigger and bigger. And so there are various reasons why they make nuclear plants big. So small modular reactors start out with a handicap. They're gonna be more expensive to start with than traditional nuclear power, which is already more expensive than the alternatives and shows no pattern of getting better, small modular reactors will very likely drop in costs through time because of mass production, but it's not mass production on the same scale as solar panels. You know, a solar panel is a pretty cheap thing that you can really mass produce dramatically. Small modular reactor is not going to be on the same scale. I don't think the rates at which the cost will drop will be as dramatic as they are for solar energy. And I don't think it's ever gonna catch up with solar energy plus storage, but we'll see. Uh I just think it's, it's not an investment that I would bet on."
+	},
+	{
+		"start_time": "40:43",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So I have one final topic I would like to explore wi with you today. We've already talked a little bit about inequality before. So, uh it's also one of the big issues we have to tackle nowadays. So how can we tackle it through the kind of framework that you present in your book?"
+	},
+	{
+		"start_time": "41:04",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, I really think we can understand uh you know, whatever we think of a new policy. The first question, one of the questions we should ask right away is what does it do to inequality? Government agencies that evaluate policies already look at questions like what does it do to GDP maybe what does it do to aggregate unemployment? But they don't, they aren't capable of looking at inequality because the models can't handle that because traditional mainstream models though there is a whole branch trying to make uh what are called heterogeneous agent models. Uh That, that in principle can look at inequality, but they have to because these models are so hard to solve, they have to put it in, in a very stylized, not fully realistic way. And so at the end of the day, the answers are not very reliable. Um In contrast, we have it automatically in our models and, and so any policy that we want to look at, we can ask, we can answer the question, what will it do to inequality? And I think that needs to be a routine part of our evaluation because you know what I hope we can do with complexity economics is enter into a new phase where economic models genuinely provide useful guidance that is we can answer cause effect questions. If we implement this policy, what will happen if we implement this other policy? What will happen? Inequality needs to be part of the, what will happen and we need to get answers that we can trust traditional economic models. Don't have a very good track record for predicting the effects of policies."
+	},
+	{
+		"start_time": "42:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So the book is again Making Sense of Chaos, a better economics for a better world. I'm leaving a link to it in the description of the interview and doctor Farmer. Just before we go, would you like to mention any places on the internet where people can find you and your work?"
+	},
+	{
+		"start_time": "43:11",
+		"speaker": "J. Doyne Farmer",
+		"words": "Well, I have a website Joan farmer.com. Uh THE Institute for New Economic Thinking has a website with our work. Um You know, I've also started a company called Macrocosm whose goal is to scale up these ideas and reduce them to practice and provide commercial solutions. So this isn't just an academic exercise. And um so we also have a website and for anybody who's interested in economic advice, uh we, we can do it and you know, we're particularly for non commercial. Uh WE try to make our, our research as open as possible for non-commercial use because we really want to see things change. Uh OK, we're trying to make a little money but we really wanna change and, and provide the world with better economic advice. So all of those sources um could be useful."
+	},
+	{
+		"start_time": "44:06",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. Thank you. So, thank you so much for coming on the show. It's been a great pleasure to talk with you."
+	},
+	{
+		"start_time": "44:13",
+		"speaker": "J. Doyne Farmer",
+		"words": "It's a great pleasure. It's been a great interview. Thank you very much."
+	},
+	{
+		"start_time": "44:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi, guys. Thank you for watching this interview. Until the end. If you liked it, please share it. Leave a like and hit the subscription button. The show is brought to you by N Lights learning and development. Then differently check the website at N lights.com and also please consider supporting the show on Patreon or paypal. I would also like to give a huge thank you to my main patrons and paypal supporters, Perego Larson, Jerry Muller and Frederick Suno Bernard Seche O of Alex Adam, Castle Matthew Whitting B no wolf, Tim Ho Erica LJ Conners, Philip Forrest Connelly. Then the Met Robert Wine in nai Z Mar Nevs calling in Hobel Governor Mikel Stormer Samuel Andre Francis for Agns Ferger Ken Hall, her Ma J and Lain Jung Y and the Samuel K Hes Mark Smith J. Tom Hummel s friends, David Sloan Wilson, the Yasa dear, Roman Roach Diego and Jan Punter, Romani Charlotte Bli Nicole Barba, Adam Hunt, Pavlo Stassi na me, Gary G Alman, Sam of Zal Ari and Ypj Barboza Julian Price Edward Hall, Eden, Broder Douglas Fry, Franca Gil Cortez or Scott Zachary ftdw Daniel. Friedman, William Buckner, Paul Giorgio, Luke Loki, Georgio Theophano Chris Williams and Peter Wo David Williams, the Ausa Anton Erickson Charles Murray, Alex Shaw, Marie Martinez, Coralie Chevalier, Bangalore Fists, Larry Dey Junior, Old Ebon Starry Michael Bailey. Then spur by Robert Grassy Zorn, Jeff mcmahon, Jake Zul Barnabas Radick Mark Temple, Thomas Dvor Luke Neeson, Chris Tory Kimberley Johnson, Benjamin Gilbert Jessica. No week in the B brand Nicholas Carlson Ismael Bensley Man George Katis, Valentine Steinman, Perros, Kate Van Goler, Alexander Abert Liam Dan Biar Masoud Ali Mohammadi Perpendicular J Ner Urla. Good enough, Gregory Hastings David Pins of Shan Nelson, Mike Levin and Jos Net. A special thanks to my producers, these our web, Jim Frank Luca Stina, Tom Vig and Bernard N Cortes Dixon, Benedikt Muller Thomas Trumble, Catherine and Patrick Tobin John Carlman, Negro, Nick Ortiz and Nick Golden. And to my executive producers, Matthew lavender, Sergi Adrian Bogdan Knit and Rosie. Thank you for all"
+	}
+]
