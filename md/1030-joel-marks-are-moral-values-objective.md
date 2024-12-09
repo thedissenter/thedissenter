@@ -5,13 +5,16 @@
 	"episodeid": "1030",
 	"excerpt": "Dr. Joel Marks is professor emeritus of philosophy at the University of New Haven and a Bioethics Center Scholar at Yale University. His main areas of scholarly interest have been theoretical and applied ethics, both having come together in recent years in thinking about animal ethics. Meanwhile a new area of interest is planetary defense (against comets and asteroids). He is the author of several books, including the latest one, The Spread: and other essays on moralism and guilt.",
 	"image": "https://i.ytimg.com/vi/y81GD1FchEc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1030-joel-marks-are-moral-values-objective/id1451347236?i=1000679796052&uo=4",
 	"publishDate": 2024-12-09,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1030-Joel-Marks-Are-Moral-Values-Objective-e2mvaal",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1030 Joel Marks: Are Moral Values Objective?",
-	"youtubeid": "y81GD1FchEc"
+	"vtt": "1030.vtt",
+	"youtubeid": "y81GD1FchEc",
+	"transcript": "1030.lines.json"
 }
 ---
 RECORDED ON AUGUST 8th 2024.  
