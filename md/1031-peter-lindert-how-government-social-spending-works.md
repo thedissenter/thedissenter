@@ -11,7 +11,9 @@
 		"Economics"
 	],
 	"title": "#1031 Peter Lindert: How Government Social Spending Works",
-	"youtubeid": "SAUE1O5nkB0"
+	"vtt": "1031.vtt",
+	"youtubeid": "SAUE1O5nkB0",
+	"transcript": "1031.lines.json"
 }
 ---
 RECORDED ON AUGUST 16th 2024.  
