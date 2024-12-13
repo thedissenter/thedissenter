@@ -5,6 +5,7 @@
 	"episodeid": "1031",
 	"excerpt": "Dr. Peter Lindert is Distinguished Professor Emeritus in the Department of Economics at the University of California, Davis. Dr. Lindert studies the causes and effects of modern fiscal redistribution; and the history of inequality, political voice and economic growth. He is the author of several books, including Making Social Spending Work.",
 	"image": "https://i.ytimg.com/vi/SAUE1O5nkB0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1031-peter-lindert-how-government-social-spending-works/id1451347236?i=1000680176674&uo=4",
 	"publishDate": 2024-12-12,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1031-Peter-Lindert-How-Government-Social-Spending-Works-e2n8vba",
 	"tags": [

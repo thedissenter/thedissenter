@@ -5,6 +5,7 @@
 	"episodeid": "1032",
 	"excerpt": "Dr. Craig Callender is Tata Chancellor's Professor of Philosophy and a Founding Faculty and Co-Director of the Institute for Practical Ethics at the University of California, San Diego. His main area of research and teaching is philosophy of science, ranging from the nature of time to various applied social and ethical issues.",
 	"image": "https://i.ytimg.com/vi/B0xCTvJJx9Q/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1032-craig-callender-the-physics-of-time/id1451347236?i=1000680299936&uo=4",
 	"publishDate": 2024-12-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1032-Craig-Callender-The-Physics-of-Time-e2hi1ig",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1032 Craig Callender: The Physics of Time",
-	"youtubeid": "B0xCTvJJx9Q"
+	"vtt": "1032.vtt",
+	"youtubeid": "B0xCTvJJx9Q",
+	"transcript": "1032.lines.json"
 }
 ---
 RECORDED ON MARCH 25th 2024.  

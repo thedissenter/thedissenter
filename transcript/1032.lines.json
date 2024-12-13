@@ -1,0 +1,207 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everybody. Welcome to a new episode of the Dissenter. I'm your host, Ricardo Lopes and today I'm joined by Doctor Craig Callender. He, he is status Chancellor's professor of philosophy and founding faculty and co-director of the Institute for Practical Ethics at the University of California San Diego. And today, we're talking about the philosophy of physics with the focus on time and also uh how it compares to our intuitive model of time. So Doctor Callender, welcome to the show. It's a pleasure to have you everyone."
+	},
+	{
+		"start_time": "00:34",
+		"speaker": "Craig Callender",
+		"words": "Hi, thank you very much, Ricardo. It's a pleasure."
+	},
+	{
+		"start_time": "00:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So, before we get into the physics itself, uh, just to talk a little bit about how we as humans, uh, into it time. So we have this, or we tend to have this model of time where we think about it as, uh, flowing present that divides the fixed past from an open future. I mean, comparing it to physics or, uh, how we think about time in physics. Uh, I mean, how close is, is it?"
+	},
+	{
+		"start_time": "01:12",
+		"speaker": "Craig Callender",
+		"words": "Um, YEAH, I think it's, well, I think at the kind of fundamental level, it's basically wrong. Uh, BUT, uh, yeah, so in my book, I call this model, uh, manifest time, and I don't mean it necessarily as like manifest in the sense of the time you observe, but it's sort of like this sort of more common sense model of time. Um, AND so, yeah, you, you think that this moment, this moment we're talking right now is, uh, you know, distinguished in the world. It's the only thing that's happening and that it divides the world into two, you know, and it's the present that it's the, but it divides, you know, the past from the future and, uh, the past and the future, we tend to think of very different from one another, you know, so that. Past is very, is fixed, uh, the future open. And then we think this whole structure just kind of updates itself and moves. Um, YEAH, and then I think, well, that, that actually, from the point of view of physics, I think is, is, uh, at. Well, it's wrong. OK,"
+	},
+	{
+		"start_time": "02:23",
+		"speaker": "Ricardo Lopes",
+		"words": "so then what is the correct uh view of time, how does time actually work in physics?"
+	},
+	{
+		"start_time": "02:33",
+		"speaker": "Craig Callender",
+		"words": "Yeah, so if we, well, you know, we, we, we can look at different physical theories, but if we think of relativity as sort of the theory that Uh, explicitly tackles time. Uh, THEN, you know, there, you know, on, on the, in the relativistic universe, what you have instead is, you know, a bunch of all of the events of the universe also laid out in this kind of four-dimensional manifold. And you don't really think of um time is a fundamental aspect of this, you know, famously Minkowski said, you know, with space, uh, you know, that space and time we're doomed to fade away into mere shadows. Um, AND so in a relativistic universe, you don't need This kind, you will, a, you don't have a distinguished moment uh moment of simultaneity. But really the, the common sense picture is more than about simultaneity. It's about, you know, I kind of distinguished now, which is like an indexical, you know, so now is now, but now, now is now and, you know, and so the physics, even even before relativity didn't make use of uh distinguished now, even when you had simultaneity like in classical physics. Uh, SO I think even classical physics shows that are Common sense, conception of time is not right, or at least it's, it's not, it doesn't vindicate it, maybe I should say. Um, And uh yeah, so in, in, in physics then, but then relativity is sort of makes it even worse for common sense time. Uh, IT'S uh not only it makes it harder to, if you think of it like common sense time as a kind of model and you try to like graft it onto the relativistic universe. It's very hard to do that in a non-arbitrary way."
+	},
+	{
+		"start_time": "04:32",
+		"speaker": "Ricardo Lopes",
+		"words": "But I, I mean, compared to the way we commonly think about time, I mean, our sort of folk physics, let's say, uh, this time actually have uh a direction or even or a fixed direction or not?"
+	},
+	{
+		"start_time": "04:51",
+		"speaker": "Craig Callender",
+		"words": "Uh, ACCORDING to, yeah, I think according to the kind of folk model, it definitely does. So I think of, well, I think of, so I'm thinking of the folk model, I'm thinking of, you know, past, present, future, and then that distinguishes the, the future from the past in a kind of intrinsic way."
+	},
+	{
+		"start_time": "05:12",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT, but then, uh, I mean, uh, what about the model that we have in physics? Does it have any direction or not?"
+	},
+	{
+		"start_time": "05:21",
+		"speaker": "Craig Callender",
+		"words": "Uh, WELL, it, it, it, yes and no. Uh, SO I, uh, think that, you know, there are, so when we think about that in physics, we, we ask, you know, are the laws, uh, what they're called time reversal invariant. And so if you know, viewers want to think of it intuitively, you know, just think of like a kind of film, you know, you have a film of the universe and then you run it backwards. Is the, is what you saw backwards also a solution to the laws of physics? And if not, then it seems like the laws care about the direction of time. And so when it comes to some of the big famous equations, uh, fundamental equations of physics, it seems like they are time reversal invariant that I, if I ran everything backward, it would be possible. That's certainly the case of classical mechanics. Um, But there are these, you know, phenomena in quantum field theory that do seem to be time, not time reversal invariant. Um, AND then there's this other symmetry people talk about called CPT, which is the combined operations of flipping charges. Flipping spatial handedness and then flipping the direction of time. And then physics is invariant under that. And so if that is sort of like the modern version of thinking of time time reversal environment, then it's uh That then physics is, uh, you know, invariant of that. That is if I gave you a movie. Uh, OF the universe, and then I switched all the charges, positive to negative, switched all the hands from right-handed to left-handed, and then switched the direction of time, then you couldn't tell the difference between the two. Um And so, well anyway, yeah, so that, that may, might clash with our ordinary uh conception of time, uh, that, you know, firmly has a direction in it. Mhm."
+	},
+	{
+		"start_time": "07:31",
+		"speaker": "Ricardo Lopes",
+		"words": "And where this time come from exactly? I mean, how does time arises?"
+	},
+	{
+		"start_time": "07:40",
+		"speaker": "Craig Callender",
+		"words": "Uh, I guess I think there's Well, there's no real answer to that question, you know, so I think of time as just a kind of non-fundamental aspect of spacetime. And then if I, if I, so that if I translate the question to You know, is, uh, where spacetime come from? And I think, well, spacetime just is, uh, so it's a bit like, you know, why, you know, why, then the question becomes more like, you know, why, why is there something rather than nothing or why is there being rather than not being? And then I just think there's not really an answer to that question. We've reached the limit at that point."
+	},
+	{
+		"start_time": "08:25",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, uh, but when it comes to the space time continuum, I mean,"
+	},
+	{
+		"start_time": "08:31",
+		"speaker": "Craig Callender",
+		"words": "I,"
+	},
+	{
+		"start_time": "08:31",
+		"speaker": "Ricardo Lopes",
+		"words": "I'm not sure if this question even makes sense or at least the way I'm going to put it, but Um, how does time relate to space? Exactly."
+	},
+	{
+		"start_time": "08:45",
+		"speaker": "Craig Callender",
+		"words": "Uh, YEAH, so it's, um, If you, um, how does time relate to space? Yeah, so they, they have 22 different. DIMENSIONS of the space-time continuum. And so there, but It's not, um, in relativity, it's not like that, it's not like you just sort of You know, in classical physics, you could sort of think of like the universe is like a big, you know, I don't know, a, a big ham or a salami, and I sli put it into the slicer and I slice, slice, slice, slice, slice. And each slice is entirely spatial and there's one way to do the slicing. In relativity, You could do that kind of slicing, but it's not unique. And so there's all these other ways you could you could have sliced the, the ham or the the spacetime manifold. And the time is the direction in which You know, that's sort of orthogonal to all those possible slicings. Uh, SO there's all these different ways you could do the slicing and time is the sort of direction, so really we should speak about the timelike directions in relativity. So what directions are the timelike ones, and those are the ones that will allow this kind of slicing to happen. Uh, AND so it relates to space. It's just, it's another, um, Well, it's another direction on the manifold."
+	},
+	{
+		"start_time": "10:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But uh, but I mean, what are maybe the distinctions between the space-like and the time-like directions in physics?"
+	},
+	{
+		"start_time": "10:32",
+		"speaker": "Craig Callender",
+		"words": "Yeah, so that's really a huge uh issue uh and really uh very important uh because Once people think about and people tend to go to relativity and they start thinking about it, then they think, well, yeah, time is just another dimension of the. Uh, OF a four-dimensional kind of block, and then they think it, it's then, you know, like space. But it's not like space, it's, you know, the, so the fundamental feature of relativity is the, the metric, which gives the distances between events. And the dis the distances between events in the timely direction are um of one. Of one sign, either positive or negative, and the distance between the the the space-like ones are the other sign. And that little sign difference, so sometimes people just talk about like there's just a minus a minus in front of the time like directions. Uh, THAT little minus sign, it seems like it's not that important. But that little Einstein is massively important, and so it ends up making all the difference, uh, excuse me, all the difference between the, the space-like and the timelike directions. And so you can have um You know, there's uh and and what behavior and how that how that then that mind sign then hooks into the rest of physics. Like about with the, with its relationship to mass, its relationship to the dynamics of what happens, all is very, very different. And so to me when I don't, when I see that little minus sign, uh, I think, you know, I don't try to obscure. I, I don't pretend it's only a little minus sign. I see it is really like the core difference between the space like in the time like and you know, super important, which leads to basically all the important physical. At a gross scale, all the important physical features of, of the physical world."
+	},
+	{
+		"start_time": "12:41",
+		"speaker": "Ricardo Lopes",
+		"words": "But, but, but then just to clarify one point that you made there, when people say, which is something that we commonly hear that physics specializes time that is incorrect."
+	},
+	{
+		"start_time": "12:57",
+		"speaker": "Craig Callender",
+		"words": "Right. That's right. I think that's uh uh incorrect and that that. That that saying that has led to, you know, uh uh really a misunderstanding of relativity and led to You know, I think, I think some of the less productive directions and philosophy of time. Um, YOU know, so people have said this many times, uh, you know, where they say, uh, you know, so Bergson famously said that, uh, you know, physics, uh, spatialized time. And I think, you know, there's a certain way of seeing it where maybe, maybe, you know, it, well, I don't think it does at all, but I think what's going on is this, you know, so in, when we think of the spatial, we don't think of the Um, We might call the, uh, the kind of the spatial the indexical terms as as objective. So I say I'm here, I'm here and and here means San Diego, you're there and you're there in Portugal, and then I might move, I might fly to Portugal, and then I then my here is Portugal. And no one thinks that the spatial here is important in any way, uh, you know, objective, uh, sorry. And So, And then, and so then when we get to relativity or, or physics, it doesn't require the indexical time counterparts of those spatial indexicals. So it doesn't require a now um and uh uh a past or a future. You can just have all the earlier than later than relations. Just like in space, you can have all the, you know, just to the right of or to the left of or something. We don't think of those as You know, that you don't think that there's like a right side to the universe. And so when we say that physics spatialized time. Um, MAYBE if we just meant, well, it, we don't objectify the temporal and dexicles. Well then that might be right. But then classical physics didn't do that either. And so it it's not really um You know, uh, and we, you know, so. That doesn't mean that for the non-indexical stuff that space and time are, are, are treated the same way. They're clearly not, even even in classical physics. So I think that we've never specialized uh time in one sense, or we've always specialized time in this. Weaker sentence, uh, but the important thing is that in the terms of the non-indexical stuff. We've never specialized time and relativity certainly doesn't do it either. Mhm."
+	},
+	{
+		"start_time": "15:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, yeah, I, I guess that also, uh, I mean, many things in science are extremely counterintuitive, but probably things coming from physics are some of the most counterintuitive out there and particularly when it, when it comes to the time and the space-time continuum, I mean, it's very easy for us to imagine. A 33 dimensional space because that's actually what we see. But when it comes to trying to understand this, uh, for, uh, dimension of time, it clashes against our common understanding of time a lot. Uh, AND so it's, it's very hard for us to wrap our minds around it,"
+	},
+	{
+		"start_time": "16:39",
+		"speaker": "Craig Callender",
+		"words": "right? Yeah, definitely."
+	},
+	{
+		"start_time": "16:42",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, and, uh, I mean, what is the tense theory of time? I mean, what are tensor in the context of physics?"
+	},
+	{
+		"start_time": "16:53",
+		"speaker": "Craig Callender",
+		"words": "Yeah, so tenses are, yeah, so if we think of these temporal indexicals. Like now and uh you know, uh, past and future. Those are called tenses and notice that they're always relative. What the crucial thing is really this idea that there's a distinguished now or present. All of the other. TEMPORAL uh properties are ultimately connected to this idea that there's a kind of privileged now. Um, AND You know, so McTaggart famously in 1908 had this paper in which he talks about uh the tent, uh, these tense properties. And he calls it the A series. And Yes you could just, you could look at all of, you could organize all the events of the universe and just say which ones are now, which ones are past, which ones are future. We could also do what's been called the B series, the tense list series where I organize all the events in terms of the earlier than or later than relations. So Socrates dying, that was earlier than this our discussion. It was in the past. So in the first one, I'm using tenseless language. It's always true that Socrates's death was earlier than our discussion. Uh, BUT it wasn't always past, you know, at one point for Socrates, it was present, at one point for Socrates was in the future, and both our both our discussion and Socrates' death were were in the future. So that, so what's one feature of this, the tense properties are that they have this kind of changing truth values with with respect to what time. Uh, YOU, you use them. And the Mta was really ahead of his time because You know, this, I mean, identifying this then became a a a a feature in cognitive linguistics where people do. You know, look at this kind of language we use. So it's definitely a real thing, you know, that we, as we as we use language, I think it's And I, I'm not a linguist, so I, I maybe I'm wrong, but I think it's a, it's Not every language has tenses exactly, but, but most, all every language has a way of encoding them in some way, as far as I understand. And so it seems to be a pretty universal feature of human language that we speak in this kind of tense way. And you can see why, you know, it's a good shortcut, uh, given the way. Given the way the physics of the world works and everything, if I did, if we were in like in the same room and I just Point to some object and say it's, you know, like blue. Then I don't, I don't need to, I could say it's blue now. I don't need to say, give a whole elaborate thing about the earlier than later than relations. Um, And so it's pretty interesting actually because there you can see a big difference between space and time and the way we act and think and talk. Because if I was, uh, suppose, uh, Ricardo, I was, we were having a dinner and you're at the opposite side of the table, and I said, you know, please pass the salt. And you look around and you're wondering where it is, and I say, you know, it's on your right. Uh, SO there I'd be indicating that the spatial indexical is relative to, you know, I'm understanding that it's relative to you, might it'll be on my left, but it might be, it'll be on your right. That we never do that with time. I don't say, oh, it's in your future, not mine, or your past, not mine. Um, AND so, uh, so we do use this model, and then you can then see why, so then the 10th theory of time. Is um Well, so, yeah, so there's, let me back up a second. So in terms of language, there's no question we use tenses and we speak particular ways and we distinguish between what we might call the spatial tenses and the temporal tenses in interesting ways. Now what does that mean? Now sometimes what's called the tense theory of time is now supposed to then be a theory in metaphysics. Which then takes those tenses, uh, and thinks of them as latching onto reality in some way. So whereas relativity doesn't have a kind of privilege now. A tense model of time and and understood in a metaphysical way. Yeah, we'll have a uh uh positive uh special, a special now in some way, typically. Then they come in all these different varieties of metaphysical models, so some say there's just this present. And it changes in some way. Some say there's the present, and then there's a real past, but not a real future. That's called a becoming model. Then there's all sorts of other models. There's probably like a couple 100 of them really. Um, And uh yeah, so that's supposed to then these models are positive to vindicate that way of speaking that I mentioned."
+	},
+	{
+		"start_time": "22:41",
+		"speaker": "Ricardo Lopes",
+		"words": "But even if you, if our intuitive model of time is incorrect, uh, do we have a good understanding of how it develops cognitive cognitively?"
+	},
+	{
+		"start_time": "22:56",
+		"speaker": "Craig Callender",
+		"words": "Yeah, so that's what I, uh, try to do in my, in my book, uh, what makes time special is the the whole idea about half of the book is to Basically try to come up with an explanation for why, why it is, even if it's fundamentally wrong, why it nonetheless makes sense for creatures like us to come up with this model and to treat the spatial. So tenses uh differently than the temporal ones or the spatial indexicles differently than the temporal indexicles. And you know, so for me, excuse me, for me, I, I think. Yeah, it might be wrong, but given our environment, given our the our cognitive and perceptual and anatomical uh situation, the kinds of problems we have to solve to get around in the world, given the Physics, where the temporal direction is different than the spatial direction. Um, AND a whole host of other things. I try to then show why it makes sense for us to, uh, Develop this kind of tense model and so I try to vindicate the tense model as Even, you know, not fundamentally right, but uh a really good thing for us, uh, because it helps us, helps us get around. Um, Yeah, so I, uh, Given the physics and given a bunch of other things that, you know, I just can't, I just can't move on the spacetime manifold in ways or have access to information of this on the spacetime manifold. In particular ways. That would, it's so given that, given these constraints, it makes sense for me to come up with this, makes sense for human beings, but also I think animals, uh, probably most animals have. Some kind of tense conception of time, maybe they don't think about time, of course, but You know, they don't do philosophy as far as I know or physics, but, um, but they still, you know, seem to, there's some evidence that they employ a kind of the theory of time as well. And so I think it's a very It organisms are reacting to a very Low level basic feature of the universe. And that is then. You know, creating in them a uh Reason to think that uh there is this like preferred now. Oh It's a good organization tool for us. And for most of those sort of things you As you're sort of navigating around locally. You, you know, the signal speeds are are very fast. And we've become attuned to our, our brains and our perceptual systems are sort of adapted to. Try to figure out when the signals that are reaching us are coming from the same thing or not. So when somebody is like in front of you and they say hi. You'll see their lips move. So then you have the light bouncing off their lips, going into your eye. So it's going very fast, the light, you know, the speed of light, um. Then you'll hear hi. And so then there'll be sound coming from their mouth, that's then coming in very, very slowly. Um, BUT your eye works very slowly versus your ear. So your ear is kind of mechanical, very fast. Your eye is photochemical, uh, a bit slower. That's decreasing the, so if the if the if the if the sound and the light both came from the same source. Now you've already decreased the, the gap between the arrival of the, the light and the sound to some extent. Then your brain is doing all this other stuff too. And so you, there will actually be, you know, some people will. Then bind those two and think that those two signals came together, um, if the light comes first, or if the sound comes first, and so there are light firsters and soundirsters. Uh, BUT basically if. Uh, YOU know, if it comes within a certain wind, if these two signals come within a certain window, you'll tend to think that they came from the same, the same source. You then don't need to know then, you know, which one is earlier than or which one is later than you can just say, oh, you know that. That person said hi now. And I don't need, uh, I don't need to relate it to some other events. Um, IF you compare that to like receiving something in the mail. You're getting your bank statements in the mail. And the bank statements didn't say what. You know what time the the bank statement was for. Then the information would be pretty useless because maybe the mailman or mailwoman, you know, put it in the box, you know, the wrong, the wrong order or something like that. And so the signal, the sign, you know, if the signal takes a long time and has all these transmission errors. Then you really needed the, the, those letters, the information dated. For high You know, it said to you in the room, you don't need to say, you know, OK, Ricardo, let's synchronize watches ready and then hi, uh, you don't need to do that. You can just say hi and it's understood that it's now. Um, YEAH, and so I, I look to see why it then makes sense to, you know, so all these sorts of considerations. I like to then see why it would make sense to come up with the, uh, Uh, this kind of tense model of time and treated differently than the Corresponding model of space."
+	},
+	{
+		"start_time": "29:12",
+		"speaker": "Ricardo Lopes",
+		"words": "I, I guess that also from a biological slash evolutionary perspective, uh, we have to keep in mind that what really matters here for organisms like humans and other kinds of organisms is, is for them to have Uh, useful construct of the world in ways that increases their fitness, right? I mean, of course, we don't need to have at all any direct access to objective reality, and I guess that in terms of other, um, things that we perceive, like, for example, caller, of course, uh, a physicist would say that. The color is not uh an intrinsic property of objects. It's not really there, but it's useful for organisms to perceive it, to move in the world and to perhaps eat the correct things and uh some other aspects of. Uh, THEIR life where color plays a role. I mean, it's much more about usefulness than necessarily about the truth or at least truth index to uh objective reality,"
+	},
+	{
+		"start_time": "30:29",
+		"speaker": "Craig Callender",
+		"words": "right. Yeah, exactly. Uh, THAT, that's exactly the way I'm thinking of it. Uh, IN fact, very much like color. I think of it as a. You know, very low, low level sort of thing, so that that's why I think animals and that also have with color, yeah, yeah, so I think of it very much like color. um, YEAH, and so I think of it as, you know, each all the different animals were all trying to solve this an evolution, you know, so we're trying to solve this kind of problem with we're bombarded with all these signals and the signals don't tell us the time like a letter does, and so we have to figure it out, but if we don't figure it out, we'll die. You know, so you need to, if you If you know, a, a, a tiger comes up and roars at you and you're still, uh, you know, and you're not uh syncing the visual with the auditory, uh, you know, you you probably die. And it'll also be very hard to catch things. And so, but probably all the different animals do this differently and so they probably have different simultaneity windows, you know, so I, in the book I uh talk about probably the giraffe has not just a long neck, but a long now uh because if you just think of how, how long the The nerves from the feet to the brain to the brain and back on the giraffe. And that, it doesn't go that fast, the signal speeds and the nerves, uh, and so when you think of it like adjusting its foot, uh, for where, you know, on, on the ground for bumps on the ground and stuff and it's, you know, that, that signal is like going like 18 ft or something. And so there's gonna be this kind of lag, um. And so we, we have the same kinds of things too, um, but, you know, the giraffe would be maybe more uh exaggerated. A seal would be interesting because the speed of sound, the speed of sound in water is, is very different than in air. And so all of these things should should shape the their their um Um, maybe not there where they don't have a conception of time, but that maybe the model of time is very similar to ours, but like the lengths of the simultaneity windows and things like that might be very different. Mhm."
+	},
+	{
+		"start_time": "33:05",
+		"speaker": "Ricardo Lopes",
+		"words": "And uh getting into a question directly related to metaphysics, uh, how do you look at the relationship between uh philosophy of science and in this case, more specifically philosophy of physics and metaphysics?"
+	},
+	{
+		"start_time": "33:25",
+		"speaker": "Craig Callender",
+		"words": "Um, Yeah, I, well I think of Well, that's a big question. Uh, SO yeah, I think of, uh, I think all of physics as Uh, implicitly assuming, making very many, um, metaphysical assumptions. Mhm. And so I, I have a lot, I have a bunch of things where I'm criticizing metaphysics, but it's not that I'm anti-metaphysics because I, I do think that, you know, when we look at physics, we can And pry into it, we then see that there are all these different metaphysical assumptions within it. And so that's what I'm trying to do is sort of unearth these metaphysical assumptions and uh you know, try to see what the Physics, uh, what physics is telling us about the universe. Um, But you know, there are uh there are uh Bits of philosophy, you know, some types of philosophy of time that I think are um You know, misguided the way they go, you know, so historically philosophy of time I think has always been one of the Methodologically, most I don't know if I should say this um. A public thing, but yeah, um, like the the most backward areas. You know, so for so long, it was just doing, you know, this kind of uh analytic philosophy, uh, this kind of ordinary language philosophy where the, the way the game worked was You would find out what the nature of time was, and, and, and here's how it would go, you would Um, take a sentence, you know, in in English or in Portuguese, with tenses in it, and then see if you could translate it into a sentence without tenses. And then if you uh couldn't, then it proved that the 10 theory of time was true and that relativity was wrong or not fundamentally right, uh. This is terrible, you know, why, you know, so we know that you can't because of the essential index, we know that you can't translate. Statements from with indexicals to, uh, with, you know, you can't translate the sta uh statements that are in with indexicals into non-indexicals and retain the same meaning. And You know, that argument was always bad anyway, even, you know, because you could, it would do that, you, you know, it would prove too much because, because, you know, you could do it with other index skills like spatial ones and personal pronouns and and things like that. And so it ends up proving too much. And so Anyway, so it's like a mugs game. You know, if you got into it because, you know, if you wanted to. Defend, uh, anything but the tense there of time and you start to play this game, you were, you were destined to lose, uh, but, you know, the game was rigged because you could never do this. So they changed the rules of the game and maybe the, you know, started to change it and maybe I don't know, the 80s and 90s, then people would say, well, no, now we're interested just in the truth makers for these claims, not, not translating without loss of meaning. Um, But you know, still it it it it came down to somewhat. Fairly similar sort of games still. Um, And then to me, the big thing has always been that you could posit as many models as you like, all these, all these really elaborate metaphysical models. But what is the evidence for those models? What do they explain? And I've always thought that they were lacking explanatorily. Uh, SO, the, the core thing really is that they're all They're all positing some kind of now or present. And the only difference between the events that are now and the events that are not now, they say usually is that the events that are now exist and the events that are not now don't exist. Of course, existence is I, you know, what kind of property is existence? Well, a well on the standard way of thinking it's not a property at all. But even if you took a view where it's a property, it's, uh, you know, a property that has no, no character, no, no, no, no essence to it whatsoever. And so then, but then how can that feature into the causal network of the world in any way? And so it's never gonna be most explanations are causal explanations, and so you're not going to end up uh being able to say that there's any kind of causal explanation for why you have the phenomenon we have or the data we have. Um, SO best, it's gonna vindicate some linguistic intuitions. But I think it's better to Uh, we'll do what I try to do, which is just try to show how this model arises, uh, in order to try to vindicate those intuitions."
+	},
+	{
+		"start_time": "38:40",
+		"speaker": "Ricardo Lopes",
+		"words": "So, do you think that when it comes to metaphysics. We should derive metaphysics from physics. I mean, the, in this case, the philosophy from the science or not necessarily."
+	},
+	{
+		"start_time": "38:58",
+		"speaker": "Craig Callender",
+		"words": "Um, YEAH, I don't wanna make it too differential to physics that uh we just look at the physics and then Um, You know, derive it from there because I think sometimes the physics is it's a two-way street and sometimes the physics can be wrong, I think, or in Not properly interpreted. Um, So I think it's a two-way street, and of course there's more the world that the world of science and physics too and there's biology, you know, and everything else. Um, BUT I do think, you know, there, there has been this kind of trend in analytic philosophy where uh it's wants to vindicate the linguistic intuitions too much, doesn't really care about the, how much it's gonna explain. Now people who disagree with me will they'll say, oh, but we are explaining. You know, just like in science and science uses all these kind of theoretical virtues like simplicity and that too. And so they'll say, oh, we're all just using infants to the best explanation. I think that that's really, you know, maybe if, maybe, maybe OK at one level, that's true, but, you know, if we dive in and and actually compare that kind of uh just absolutely brutal critical process that happens in science and just the high, how high the standards are for scientific theory to actually explain, you know, be taken to explain something. And then the very modest things that these metaphysical models end up explaining. You know, then I think it's really more like night and day difference uh than uh doing the same thing. Mhm."
+	},
+	{
+		"start_time": "40:49",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let me then just ask you one last question. We've been focusing our conversation a lot on time, but uh looking at physics more generally and as a philosopher of physics, what would you say are perhaps some of the biggest or at least what you consider to be the most interesting unanswered questions in physics?"
+	},
+	{
+		"start_time": "41:15",
+		"speaker": "Craig Callender",
+		"words": "Oh, Uh, well, yeah, I'd have to start with all the puzzles, you know, that quantum mechanics provides, you know, so we have massive. Debates and disagreements over what to make of, you know, quantum non-locality and um Uh, you know, just, uh, the measurement problem. And so I think that resolving those are key to Uh, you know, many other things, you know, so that what's happened is we've, that kind of foundational philosophical questions have been sort of shunted aside for a long time. And you know, so you've had the Copenhagen kind of understanding of quantum mechanics, making it so that you're not able to ask, you know, you're not supposed to ask a lot of questions about the awkward questions about what's going on. But then when you look at um You know, you're trying to develop quantum gravity, and come up with a theory that will uni, you know, or make consistent gravity with uh quantum mechanics. It seems crazy to me to think that what quantum theory of quantum mechanics is is actually right, won't matter to that question. And so you're sort of trying to you know, produce this consistent or unified new theory, but you've got your hands tied behind your back because you're not allowed to speak about what 111 half of that equation, you know, what, what that world is really like. And so I think understanding better quantum nonlocality is, is really one way uh this quantum no locality comes up in. And a lot of that, uh, but the really the the correct interpretation of the quantum mechanics is really one of the core things. Um, But yeah, there, there's so many other uh questions too, uh, but that's just one."
+	},
+	{
+		"start_time": "43:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, but, but that, OK, so let me just ask you a more specific thing then. Do you think that at this point we would be anywhere close to finally developing uh or having a theory of everything, uh, or, uh, I guess at least, uh, following, I guess the main line that people have been proposing anywhere near unifying uh relativity with quantum mechanics or not?"
+	},
+	{
+		"start_time": "43:55",
+		"speaker": "Craig Callender",
+		"words": "Yeah, I don't think we're any closer than we've been for, and we haven't been close, I think, for, you know, to a theory of everything. Um, I mean, even Hawking gave up on the idea that there could be a theory of everything. Um, AND so I'm not even convinced that there could be a theory of everything. Um, BUT we could hope for a theory of quantum gravity. But now, but boy, now that's been a long, long time that people have been trying to work on that and it doesn't seem like we're any, you know, the different research programs of Become far more developed than they were, like when I started in. Grad school, you know, now. The different programs are much more sophisticated than they were, uh, but you can't really say that there's any closer to. Um, You know, it being decided which one is the right one or or. Or connecting it with experiments in any way, and so we still seem very far away."
+	},
+	{
+		"start_time": "44:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So, uh, and where can people find you and your work on the internet?"
+	},
+	{
+		"start_time": "45:06",
+		"speaker": "Craig Callender",
+		"words": "Yeah, you just need to go to my name, uh, Craig Callender, uh, then type that in Craigcalendar.com. Uh, YOU can come to my website."
+	},
+	{
+		"start_time": "45:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So I'm leaving uh links to that in the description box of the interview and thank you so much again for taking the time to come on the show. It's been a great pleasure to talk with you."
+	},
+	{
+		"start_time": "45:27",
+		"speaker": "Craig Callender",
+		"words": "Oh, it's been great, wonderful. Thank you very much, Ricardo."
+	},
+	{
+		"start_time": "45:32",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the mere Robert Windegaruyasi Zu Mark Nes called Holbrookfield governor Michael Stormir Samuel Andrea, Francis Forti Agnseroro and Hal Herzognun Macha Joan Lays and the Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan Wilson, Asila dearraujoro and Roach Diego Londono Correa. Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynalebaa medicine, Gary Galman Samov Zaledrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon Scorteus Slelisky, Scott Zacharyish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Acosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old Heringbo. Sterry Michael Bailey, then Sperber, Robert Grassy Zigoren, Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levin, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernardin Curtis Dixon, Benedict Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal N Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
