@@ -14,7 +14,9 @@
 		"General Science"
 	],
 	"title": "#1033 Michael Levin: Self, Collective Intelligence, Cognition, Life after Death, & More",
-	"youtubeid": "oaHdbrM1ZuA"
+	"vtt": "1033.vtt",
+	"youtubeid": "oaHdbrM1ZuA",
+	"transcript": "1033.lines.json"
 }
 ---
 RECORDED ON DECEMBER 11th 2024.  

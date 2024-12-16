@@ -1,0 +1,4806 @@
+WEBVTT
+
+1
+00:00:00.180 --> 00:00:03.009
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.009 --> 00:00:05.570
+Center. I'm your host, Ricard Lops, and today I'm
+
+3
+00:00:05.570 --> 00:00:08.569
+joined by Doctor Michael Levin. He is distinguished professor
+
+4
+00:00:08.569 --> 00:00:12.819
+in the biology department at Van Vannevar Bush, chair,
+
+5
+00:00:12.930 --> 00:00:15.170
+as well as director of the Tuft Center for
+
+6
+00:00:15.170 --> 00:00:19.670
+Generative and Developmental Biology at Tufts University. And today
+
+7
+00:00:19.670 --> 00:00:23.110
+we're going to talk about topics like living systems,
+
+8
+00:00:23.229 --> 00:00:29.469
+the self morphology, collective intelligence, sentience, regenerative medicine, and
+
+9
+00:00:29.469 --> 00:00:31.870
+more so, Doctor Levin, welcome to the show. It's
+
+10
+00:00:31.870 --> 00:00:32.979
+a pleasure to everyone.
+
+11
+00:00:33.189 --> 00:00:34.869
+Yeah, thanks for having me. Yeah, nice to meet
+
+12
+00:00:34.869 --> 00:00:35.069
+you.
+
+13
+00:00:36.360 --> 00:00:39.220
+So, let me first ask you, what is a
+
+14
+00:00:39.220 --> 00:00:40.529
+living system?
+
+15
+00:00:41.900 --> 00:00:44.540
+Well, uh, to be honest, and, and this may
+
+16
+00:00:44.540 --> 00:00:46.740
+be strange for a biologist to say, uh, I
+
+17
+00:00:46.740 --> 00:00:49.340
+don't spend much time thinking about the definition of
+
+18
+00:00:49.340 --> 00:00:52.700
+life, actually. Um, I'm much more interested in the
+
+19
+00:00:52.700 --> 00:00:54.819
+spectrum of cognition, which I think is actually is
+
+20
+00:00:54.819 --> 00:00:57.299
+a broader category than, uh, than the set of
+
+21
+00:00:57.299 --> 00:01:00.450
+living things. But if we wanted to define it,
+
+22
+00:01:00.659 --> 00:01:05.319
+I think what we would focus on our Uh,
+
+23
+00:01:05.529 --> 00:01:09.129
+those cognitive systems that first of all, self-assemble, and
+
+24
+00:01:09.129 --> 00:01:12.690
+in particular, they self-assemble under metabolic constraints of uh
+
+25
+00:01:12.690 --> 00:01:14.919
+scarcity of time and energy and things like that,
+
+26
+00:01:15.290 --> 00:01:19.209
+uh, which demands a coarse graining and, uh, agential
+
+27
+00:01:19.209 --> 00:01:21.569
+models of the outside world in itself and so
+
+28
+00:01:21.569 --> 00:01:24.760
+on. We would talk about, uh, systems that need
+
+29
+00:01:24.760 --> 00:01:28.139
+to uh interpret their own memories where their own,
+
+30
+00:01:28.260 --> 00:01:31.220
+uh, the, the Ngrams or the, the traces of
+
+31
+00:01:31.220 --> 00:01:33.660
+past experience, uh, at any one moment need to
+
+32
+00:01:33.660 --> 00:01:35.819
+be, need to be interpreted to decide what, what
+
+33
+00:01:35.819 --> 00:01:37.980
+to do next. I think we would focus on
+
+34
+00:01:37.980 --> 00:01:41.019
+the ability of life to, um, scale up the
+
+35
+00:01:41.019 --> 00:01:43.660
+agency of its components and project them into new
+
+36
+00:01:43.660 --> 00:01:47.379
+problem spaces, may basically enlarge their, their cognitive life,
+
+37
+00:01:47.540 --> 00:01:50.940
+uh, like cognitively. I think that life is fundamentally
+
+38
+00:01:50.940 --> 00:01:54.779
+a kind of, uh, vulnerable system that is fundamentally
+
+39
+00:01:54.779 --> 00:01:57.620
+oriented forward in time in terms of decision making
+
+40
+00:01:57.620 --> 00:01:59.500
+and, uh, doing the best they can under the
+
+41
+00:01:59.500 --> 00:02:03.150
+circumstances that it has. Um, THAT'S, those, those are
+
+42
+00:02:03.150 --> 00:02:04.900
+the things I focus on. I mean, clearly, uh,
+
+43
+00:02:04.940 --> 00:02:09.020
+there are many conventional definitions around thermodynamics and evolutionary
+
+44
+00:02:09.020 --> 00:02:11.020
+change and things like that, but these are the
+
+45
+00:02:11.020 --> 00:02:12.979
+sorts of things that, um, that I focus on.
+
+46
+00:02:13.919 --> 00:02:16.690
+And what is the self in the context of
+
+47
+00:02:16.690 --> 00:02:17.550
+biology?
+
+48
+00:02:18.710 --> 00:02:21.500
+Yeah. Uh, I think, I think a useful definition
+
+49
+00:02:21.500 --> 00:02:23.460
+of a, of a self and I, and, and
+
+50
+00:02:23.460 --> 00:02:25.740
+for all these definitions, you know, we have to
+
+51
+00:02:25.740 --> 00:02:27.619
+ask what, what is the use that we get
+
+52
+00:02:27.619 --> 00:02:29.259
+out of these, right? All, all these terms have
+
+53
+00:02:29.259 --> 00:02:31.259
+to provide some sort of, some sort of benefit
+
+54
+00:02:31.259 --> 00:02:33.580
+in terms of research and discovery. I think that
+
+55
+00:02:33.580 --> 00:02:37.520
+a useful definition of a self is, um, the,
+
+56
+00:02:37.649 --> 00:02:41.220
+uh, the owner of specific goals, preferences, and memories
+
+57
+00:02:41.220 --> 00:02:43.580
+that don't belong to their parts. It's a kind
+
+58
+00:02:43.580 --> 00:02:47.059
+of emergent hole that is formed by, um, a
+
+59
+00:02:47.059 --> 00:02:50.449
+sort of mutually interlocked triad of an option space
+
+60
+00:02:50.449 --> 00:02:52.550
+within which it operates. So some kind of problem
+
+61
+00:02:52.550 --> 00:02:56.020
+space, um, a, a defined cognitive light cone of
+
+62
+00:02:56.020 --> 00:02:58.940
+goals. So the size of the biggest goals that
+
+63
+00:02:58.940 --> 00:03:00.539
+it can work towards. So this is very much
+
+64
+00:03:00.539 --> 00:03:04.399
+a, a, a definition that relies on. Uh, uh,
+
+65
+00:03:04.809 --> 00:03:07.369
+ACTIVE agents having goals and having goal-directed behaviors, so
+
+66
+00:03:07.369 --> 00:03:10.119
+the size of the goals and, um, some degree
+
+67
+00:03:10.119 --> 00:03:14.130
+of, uh, competency to achieve those goals under various,
+
+68
+00:03:14.250 --> 00:03:19.009
+um, various circumstances. Selves fundamentally live forward in time
+
+69
+00:03:19.009 --> 00:03:22.559
+their, their decision-making systems that are not well described
+
+70
+00:03:22.559 --> 00:03:26.570
+by deterministic backwards-looking models in terms of uh focusing
+
+71
+00:03:26.570 --> 00:03:29.470
+on the molecular components and why certain things happen.
+
+72
+00:03:30.179 --> 00:03:34.720
+Um, SELVES arise when Uh, a collection of parts
+
+73
+00:03:34.720 --> 00:03:37.559
+basically adopts the same, uh, the same way of
+
+74
+00:03:37.559 --> 00:03:40.880
+understanding the world and functions together to solve problems.
+
+75
+00:03:42.550 --> 00:03:45.160
+Uh, SORT of related to the topic of self.
+
+76
+00:03:45.610 --> 00:03:50.210
+Why would you say planaria are such interesting organisms?
+
+77
+00:03:50.330 --> 00:03:54.130
+Are they really multicellular organisms or not?
+
+78
+00:03:55.119 --> 00:03:58.070
+Uh, WELL, I do think they're multicellular organisms. Um,
+
+79
+00:03:58.279 --> 00:04:00.679
+THERE, there are many fascinating things about planaria. Let
+
+80
+00:04:00.679 --> 00:04:02.300
+me, let me describe a few. So first of
+
+81
+00:04:02.300 --> 00:04:04.309
+all just to see what, what planaria are. So
+
+82
+00:04:04.309 --> 00:04:08.169
+these are, um, free living, uh, flat worms that
+
+83
+00:04:08.169 --> 00:04:10.649
+are probably about 1 centimeter or so in, in
+
+84
+00:04:10.649 --> 00:04:13.119
+length. They have a nervous system, they have a
+
+85
+00:04:13.119 --> 00:04:17.760
+centralized brain, um, and, uh, they're true bilearians. They're
+
+86
+00:04:17.760 --> 00:04:22.070
+similar to our ancient ancestor and They have several
+
+87
+00:04:22.070 --> 00:04:24.720
+amazing properties. 11 remarkable property they have is that
+
+88
+00:04:24.720 --> 00:04:26.720
+they can regenerate. So if you cut them into
+
+89
+00:04:26.720 --> 00:04:28.950
+pieces, or in fact, when they reproduce, they tear
+
+90
+00:04:28.950 --> 00:04:30.959
+themselves in half and then they, and they regenerate
+
+91
+00:04:30.959 --> 00:04:33.910
+and you can cut them into many pieces. So,
+
+92
+00:04:34.170 --> 00:04:38.320
+one of the consequences of reproduction where instead of
+
+93
+00:04:38.320 --> 00:04:40.239
+using a sperm and egg, and, and some types
+
+94
+00:04:40.239 --> 00:04:42.920
+of plenary certainly do sexual reproduction, but I'm, I'm
+
+95
+00:04:42.920 --> 00:04:45.399
+referring to the ones that are asexual. So the
+
+96
+00:04:45.399 --> 00:04:47.760
+asexual strains tear themselves in half and then they
+
+97
+00:04:47.760 --> 00:04:51.350
+regenerate. And so one consequence of that is that
+
+98
+00:04:51.720 --> 00:04:55.649
+uh Somatic mutations, mutations that occur in the body,
+
+99
+00:04:56.100 --> 00:04:58.609
+um, don't disappear into the for the next lineage,
+
+100
+00:04:58.619 --> 00:04:59.820
+the way they do with us, right? If you
+
+101
+00:04:59.820 --> 00:05:02.700
+have a mutation, the children don't inherit the mutation
+
+102
+00:05:02.700 --> 00:05:05.500
+from your body. But in planaria, every mutation that
+
+103
+00:05:05.500 --> 00:05:07.579
+doesn't kill the stem cell moves forward and is
+
+104
+00:05:07.579 --> 00:05:10.540
+in fact is amplified as the animal regenerates. So
+
+105
+00:05:10.540 --> 00:05:14.459
+for 400+ million years, they've been accumulating uh somatic
+
+106
+00:05:14.459 --> 00:05:17.179
+mutations. They can be mixed upployed, meaning that their
+
+107
+00:05:17.179 --> 00:05:19.489
+cells can have different numbers of chromosomes, their, their
+
+108
+00:05:19.489 --> 00:05:21.679
+genes. ARE a mess somatically, they're, they're, they're very
+
+109
+00:05:21.679 --> 00:05:27.130
+messy. And yet they are incredibly reliable regenerators. They
+
+110
+00:05:27.130 --> 00:05:30.029
+are highly cancer resistant and they are immortal. There,
+
+111
+00:05:30.209 --> 00:05:31.859
+there appears to be no such thing as a,
+
+112
+00:05:31.890 --> 00:05:34.890
+as an old planaria in these um asexual strains.
+
+113
+00:05:34.929 --> 00:05:38.049
+They don't age. Now, That seems very, very strange.
+
+114
+00:05:38.119 --> 00:05:39.950
+You would, you would, uh, you would think from,
+
+115
+00:05:40.040 --> 00:05:42.239
+from, from the standard things you learn in biology
+
+116
+00:05:42.239 --> 00:05:44.440
+that, that the genome is very important and that
+
+117
+00:05:44.440 --> 00:05:46.959
+the animal with the messiest genome would not in
+
+118
+00:05:46.959 --> 00:05:49.079
+fact be the one that's the most regenerative cancer
+
+119
+00:05:49.079 --> 00:05:52.440
+resistant and, uh, and, and, um, and immortal. And
+
+120
+00:05:52.440 --> 00:05:54.440
+yet, and yet here we are. So, so I,
+
+121
+00:05:54.519 --> 00:05:56.880
+I think, uh, there's a very interesting story to
+
+122
+00:05:56.880 --> 00:05:58.709
+be told about planaria, and it has to do
+
+123
+00:05:58.709 --> 00:06:03.529
+with the way that Uh, evolution produces problem solving
+
+124
+00:06:03.529 --> 00:06:06.880
+agents and what's happening, I think, in, in planaria
+
+125
+00:06:07.489 --> 00:06:09.970
+is that because the material is so unreliable, the
+
+126
+00:06:09.970 --> 00:06:13.290
+hardware is more than most organisms. So because of
+
+127
+00:06:13.290 --> 00:06:16.929
+this mutation, uh, mutation accumulation and so on. Uh,
+
+128
+00:06:17.059 --> 00:06:19.140
+WHAT, and, and we, and we've actually studied this,
+
+129
+00:06:19.260 --> 00:06:21.179
+this kind of, uh, this kind of feedback loop
+
+130
+00:06:21.179 --> 00:06:24.420
+and computational studies. What happens is that when you
+
+131
+00:06:24.420 --> 00:06:27.299
+have a material like this, uh, evolution really spends
+
+132
+00:06:27.299 --> 00:06:30.179
+a lot of its effort on creating a system
+
+133
+00:06:30.179 --> 00:06:33.045
+that can get The job done, meaning can, can
+
+134
+00:06:33.045 --> 00:06:36.244
+achieve specific goals in anatomical space and physiological space
+
+135
+00:06:36.244 --> 00:06:39.364
+and so on, even under drastically changing circumstances when
+
+136
+00:06:39.364 --> 00:06:41.404
+your own parts change, right? When your material is
+
+137
+00:06:41.404 --> 00:06:44.165
+unreliable. And I think in Planary, that algorithm is
+
+138
+00:06:44.165 --> 00:06:45.924
+so, is so good and it's, it, it had
+
+139
+00:06:45.924 --> 00:06:50.250
+to be. That basically they're able to, uh, create
+
+140
+00:06:50.250 --> 00:06:53.250
+a, a normal plenary despite really a very wide
+
+141
+00:06:53.250 --> 00:06:56.250
+variety of, of, of fun of genetically specified hardware.
+
+142
+00:06:56.540 --> 00:07:00.660
+Now, 11 interesting, uh, uh, prediction, which is, which
+
+143
+00:07:00.660 --> 00:07:02.660
+is actually true, turns out to be true of
+
+144
+00:07:02.660 --> 00:07:05.459
+that, of that model is that it, it should
+
+145
+00:07:05.459 --> 00:07:08.750
+be very hard to make transgenic planaria. And because,
+
+146
+00:07:09.029 --> 00:07:12.140
+because, because the, the basically the algorithm is, is
+
+147
+00:07:12.140 --> 00:07:14.660
+designed to ignore um errors in the, in the
+
+148
+00:07:14.660 --> 00:07:16.339
+genome and just do what it, what it does.
+
+149
+00:07:16.720 --> 00:07:19.739
+And in fact, that's true. Most other species, you
+
+150
+00:07:19.739 --> 00:07:21.220
+can call a stock center and you can get
+
+151
+00:07:21.220 --> 00:07:23.239
+a fruit fly with curly wings or a mouse
+
+152
+00:07:23.239 --> 00:07:25.130
+with a with a weird tail or weird coat
+
+153
+00:07:25.130 --> 00:07:28.480
+color or something. Uh, IN planaria, there are no
+
+154
+00:07:28.480 --> 00:07:31.160
+genetic strains. There are no genetic mutants. There, there
+
+155
+00:07:31.160 --> 00:07:33.679
+is, there, there, there is one type of unusual
+
+156
+00:07:33.679 --> 00:07:35.720
+planaria strain that has two heads, and that's one
+
+157
+00:07:35.720 --> 00:07:38.040
+we made and it's not genetic. And, and, and
+
+158
+00:07:38.040 --> 00:07:40.959
+this is, you know, this is, um, uh, the,
+
+159
+00:07:41.000 --> 00:07:42.880
+the, the reason that the planaria, I think, are
+
+160
+00:07:42.880 --> 00:07:45.709
+so interesting is that they're teaching us something very
+
+161
+00:07:45.709 --> 00:07:49.359
+profound about, uh, how, how evolution works and how
+
+162
+00:07:49.359 --> 00:07:52.350
+that relates to the genetically specified hardware of life.
+
+163
+00:07:53.459 --> 00:07:56.970
+And where does the morphology of different organisms come
+
+164
+00:07:56.970 --> 00:07:59.299
+from? What determines determines it?
+
+165
+00:08:00.390 --> 00:08:03.910
+Well, that's, that's an interesting, uh, question, because the
+
+166
+00:08:03.910 --> 00:08:07.429
+word, uh, comes from, uh, bears some, some analysis.
+
+167
+00:08:07.510 --> 00:08:09.709
+So what does it mean when outcomes come from
+
+168
+00:08:09.709 --> 00:08:13.910
+something? Uh, I'll give you a simple, well, 2222
+
+169
+00:08:13.910 --> 00:08:16.049
+examples. And then, and then I'll, I'll answer about
+
+170
+00:08:16.049 --> 00:08:18.429
+the biology. One example is, um, uh, I don't
+
+171
+00:08:18.429 --> 00:08:19.510
+know if you've ever seen this thing called the
+
+172
+00:08:19.510 --> 00:08:21.910
+Galton board. It's basically, and you can buy a
+
+173
+00:08:21.910 --> 00:08:24.089
+toy of this on Amazon for $20. It's basically,
+
+174
+00:08:24.109 --> 00:08:26.029
+just imagine a wooden board and you bang a
+
+175
+00:08:26.029 --> 00:08:28.269
+bunch of nails into it like this, right? And
+
+176
+00:08:28.269 --> 00:08:29.890
+then you take a bucket of. AND you dump
+
+177
+00:08:29.890 --> 00:08:31.420
+it dump it on top and the marbles go
+
+178
+00:08:31.420 --> 00:08:33.770
+boom, boom boom, you know, they bounce off and
+
+179
+00:08:33.770 --> 00:08:36.210
+they land on the bottom. What what what how
+
+180
+00:08:36.210 --> 00:08:37.890
+do they land? Well, they land in a beautiful
+
+181
+00:08:37.890 --> 00:08:40.409
+bell curve. It's a very specific shape every single
+
+182
+00:08:40.409 --> 00:08:41.729
+time. As long as you have enough marbles, you
+
+183
+00:08:41.729 --> 00:08:43.650
+get a very beautiful distribution. You get a bell
+
+184
+00:08:43.650 --> 00:08:45.289
+curve. So you might ask that question, where does
+
+185
+00:08:45.289 --> 00:08:48.520
+the bell curve, where does that come from? So,
+
+186
+00:08:48.650 --> 00:08:52.010
+if, if, if you're inclined to, uh, look at
+
+187
+00:08:52.010 --> 00:08:54.729
+the materials of the wood, of the nails, of
+
+188
+00:08:54.729 --> 00:08:56.729
+the, you know, you're, you're not going to find
+
+189
+00:08:56.729 --> 00:08:58.770
+it. It doesn't come from any of those things
+
+190
+00:08:58.770 --> 00:09:01.010
+in the sense of, uh, here is where the
+
+191
+00:09:01.010 --> 00:09:02.809
+plan is, is, is sort of written down and
+
+192
+00:09:02.809 --> 00:09:05.049
+then, then there, you know, there it is. So
+
+193
+00:09:05.049 --> 00:09:07.250
+there's something else, there's something else going on here.
+
+194
+00:09:07.669 --> 00:09:10.190
+And another, another way to think about it too
+
+195
+00:09:10.190 --> 00:09:13.330
+is that if you, if you plot um something
+
+196
+00:09:13.330 --> 00:09:15.309
+called the Halley plot of a very simple formula,
+
+197
+00:09:15.390 --> 00:09:18.030
+let's say uh Z cubed plus 7 there, that's
+
+198
+00:09:18.030 --> 00:09:20.070
+just a few characters. There's your formula in complex
+
+199
+00:09:20.070 --> 00:09:21.830
+numbers, you can plot the Halley plot. You get
+
+200
+00:09:21.830 --> 00:09:24.830
+this incredibly Beautiful fractal structure. It looks very biological.
+
+201
+00:09:24.859 --> 00:09:26.950
+It's very beautiful shape. Uh, NOW, now you asked
+
+202
+00:09:26.950 --> 00:09:29.309
+the question, where does that shape come from? What
+
+203
+00:09:29.309 --> 00:09:32.150
+aspect of, of, of physics, of the environment, of,
+
+204
+00:09:32.200 --> 00:09:35.109
+of the past history explains where that shape comes
+
+205
+00:09:35.109 --> 00:09:36.630
+from. It's none of those things, right? None, none
+
+206
+00:09:36.630 --> 00:09:38.549
+of those things control it. So, in terms of
+
+207
+00:09:38.549 --> 00:09:40.710
+biological shape, I'm going to say there are 3
+
+208
+00:09:40.710 --> 00:09:43.590
+things that really go into it. One is, of
+
+209
+00:09:43.590 --> 00:09:47.109
+course, uh, the genetically provided hardware, which is basically
+
+210
+00:09:47.109 --> 00:09:49.320
+what, uh, what the, what the genome provides every
+
+211
+00:09:49.320 --> 00:09:50.830
+cell with, which is a set of proteins that
+
+212
+00:09:50.830 --> 00:09:53.840
+the cells have to have. There is the, uh,
+
+213
+00:09:53.849 --> 00:09:57.270
+the, the, the current environment, which is, uh, the,
+
+214
+00:09:57.289 --> 00:09:59.989
+the, the situation that the cells find themselves in,
+
+215
+00:10:00.000 --> 00:10:02.729
+and within that situation, that hardware is usually pretty
+
+216
+00:10:02.729 --> 00:10:05.159
+good at making something coherent happen. It may be
+
+217
+00:10:05.159 --> 00:10:07.510
+the standard embryo, it may be one of several
+
+218
+00:10:07.510 --> 00:10:10.515
+um uh different. Shapes in terms of developmental plasticity.
+
+219
+00:10:10.645 --> 00:10:12.405
+It might be a Xenabbot or an antherbot or
+
+220
+00:10:12.405 --> 00:10:15.924
+something else, but, you know, something, something useful will
+
+221
+00:10:15.924 --> 00:10:18.724
+happen. And the third very important thing that, that
+
+222
+00:10:18.724 --> 00:10:20.924
+a lot of people don't talk about. So we've
+
+223
+00:10:20.924 --> 00:10:22.885
+got, we've got the, the heredity, we've got the
+
+224
+00:10:22.885 --> 00:10:25.635
+environment, and, and the third very important thing is
+
+225
+00:10:25.844 --> 00:10:29.719
+the input from Uh, wherever it is that the
+
+226
+00:10:29.719 --> 00:10:32.159
+law of mathematics come from. Some people call it
+
+227
+00:10:32.159 --> 00:10:34.320
+the, you know, Platonic space or the space of
+
+228
+00:10:34.320 --> 00:10:36.880
+forms. We don't have a great vocabulary for it
+
+229
+00:10:36.880 --> 00:10:40.039
+yet, but it's, it's, it's really important. There's, there's
+
+230
+00:10:40.039 --> 00:10:44.229
+very, uh, fundamentally, functionally important. Information that is not
+
+231
+00:10:44.229 --> 00:10:46.750
+physical, it's not encoded by any uh aspects of
+
+232
+00:10:46.750 --> 00:10:49.549
+physics in our world. And, and nevertheless, it has
+
+233
+00:10:49.549 --> 00:10:53.049
+a huge input into uh shape and behavior of,
+
+234
+00:10:53.109 --> 00:10:57.020
+of living forms because evolution really exploits the information
+
+235
+00:10:57.020 --> 00:10:57.989
+in that space a lot.
+
+236
+00:11:00.340 --> 00:11:03.760
+So you're very interested in cognition. What is the
+
+237
+00:11:03.760 --> 00:11:07.960
+most basic level at, at which cognition arises?
+
+238
+00:11:09.039 --> 00:11:11.539
+Well, uh, first of all, first of all, let's,
+
+239
+00:11:11.599 --> 00:11:16.239
+let's try to define terms. So, uh, 11 thing
+
+240
+00:11:16.239 --> 00:11:18.520
+that I'm very interested in is, is intelligence and
+
+241
+00:11:18.520 --> 00:11:20.559
+the definition that I use, and I'm not saying
+
+242
+00:11:20.559 --> 00:11:23.030
+this is the only definition or the best definition,
+
+243
+00:11:23.239 --> 00:11:25.400
+uh, or even a complete definition, but what I
+
+244
+00:11:25.400 --> 00:11:28.549
+focus on is problem solving. That doesn't include play
+
+245
+00:11:28.549 --> 00:11:30.919
+and creativity and, and some other things, but, but
+
+246
+00:11:30.919 --> 00:11:35.880
+let's, let's just talk about problem solving. So, what
+
+247
+00:11:35.880 --> 00:11:38.840
+I'm, what I'm interested in is uh first of
+
+248
+00:11:38.840 --> 00:11:42.219
+all, the origin of the kind of uh intelligence
+
+249
+00:11:42.219 --> 00:11:45.450
+that that advanced systems have. Where does it come
+
+250
+00:11:45.450 --> 00:11:47.559
+from, right? Because we know, you, you and I
+
+251
+00:11:47.559 --> 00:11:49.630
+were both single cells once, right? We were both
+
+252
+00:11:49.630 --> 00:11:52.010
+on the evolutionary scale and on the developmental scale.
+
+253
+00:11:52.200 --> 00:11:55.309
+We were in, uh, uh, a little unfertilized oy,
+
+254
+00:11:55.400 --> 00:11:57.755
+a little blob of chemical. Many people look at
+
+255
+00:11:57.755 --> 00:11:59.835
+that and say, well, that's just the chemical physical
+
+256
+00:11:59.835 --> 00:12:02.794
+system. There is no cognition there. And yet, slowly
+
+257
+00:12:02.794 --> 00:12:05.234
+and gradually through the process of development, here we
+
+258
+00:12:05.234 --> 00:12:07.875
+are. So, what we need to do is we,
+
+259
+00:12:07.994 --> 00:12:10.184
+we need to understand how the properties of these,
+
+260
+00:12:10.205 --> 00:12:14.395
+uh, physical chemical systems scale up to the kind
+
+261
+00:12:14.395 --> 00:12:16.515
+of problem solving that is obvious for us to
+
+262
+00:12:16.515 --> 00:12:20.474
+recognize. So we study in problem solving and different
+
+263
+00:12:20.474 --> 00:12:23.554
+aspects of cognition, meaning memory and, uh, and, uh,
+
+264
+00:12:24.130 --> 00:12:26.580
+preferences and, and the goal directedness and so on.
+
+265
+00:12:26.799 --> 00:12:29.119
+We study these things in a very wide range
+
+266
+00:12:29.119 --> 00:12:32.289
+of model systems in very diverse spaces. So, in
+
+267
+00:12:32.289 --> 00:12:35.330
+physiological states, based in, in, in the space of
+
+268
+00:12:35.330 --> 00:12:39.080
+anatomical um states. So we, we look at how
+
+269
+00:12:39.080 --> 00:12:42.000
+cells and multicellular tissue solve problems in 3. The
+
+270
+00:12:42.000 --> 00:12:45.760
+anatomical space and so on. Um, SO, so once
+
+271
+00:12:45.760 --> 00:12:49.469
+we, once we develop the tools to, uh, uh,
+
+272
+00:12:49.479 --> 00:12:53.159
+detect and, and measure and, uh, quantify those kind
+
+273
+00:12:53.159 --> 00:12:56.280
+of competencies in different spaces, right? Then, then we
+
+274
+00:12:56.280 --> 00:12:58.479
+can really ask how far down does it go?
+
+275
+00:12:58.530 --> 00:13:00.840
+So what are the simplest, uh, versions of that?
+
+276
+00:13:00.919 --> 00:13:03.200
+What are the lowest kind of, uh, uh, examples
+
+277
+00:13:03.200 --> 00:13:06.400
+of that. So, um, I, I, I think that
+
+278
+00:13:06.400 --> 00:13:09.929
+one of the things that You want to think
+
+279
+00:13:09.929 --> 00:13:12.429
+about when you're, when you're um trying, trying to
+
+280
+00:13:12.429 --> 00:13:15.080
+quantify these kinds of, uh, these kind of properties
+
+281
+00:13:15.330 --> 00:13:17.770
+is autonomy. So, as, and, and I take a
+
+282
+00:13:17.770 --> 00:13:20.530
+very engineering approach to this, you, you have an
+
+283
+00:13:20.530 --> 00:13:24.250
+autonomous subsystem based on what can you rely on
+
+284
+00:13:24.250 --> 00:13:26.090
+it to do when you're not there to micromanage
+
+285
+00:13:26.090 --> 00:13:28.609
+it. So, that might be a thermostat circuit, it
+
+286
+00:13:28.609 --> 00:13:32.169
+might be, you know, something more complex. But everything
+
+287
+00:13:32.169 --> 00:13:34.049
+is built up from, from pieces, and we need
+
+288
+00:13:34.049 --> 00:13:36.289
+to understand how much autonomy do these pieces have
+
+289
+00:13:36.289 --> 00:13:40.890
+to solve certain problems without being micromanaged. So, under,
+
+290
+00:13:40.929 --> 00:13:44.349
+under that kind of definition, It, I, I think
+
+291
+00:13:44.349 --> 00:13:46.979
+we can argue that at least in this universe,
+
+292
+00:13:47.309 --> 00:13:50.429
+uh, the spectrum of agency goes all the way
+
+293
+00:13:50.429 --> 00:13:53.710
+down to the, the, the smallest, uh um uh
+
+294
+00:13:53.710 --> 00:13:56.380
+the smallest particles because what it looks like there
+
+295
+00:13:56.380 --> 00:14:01.960
+is least action laws. Basically, uh, The, um, the
+
+296
+00:14:01.960 --> 00:14:05.200
+simplest version of, of goal-directed activity, I think, are
+
+297
+00:14:05.200 --> 00:14:07.369
+the, are the least action principles. And as a,
+
+298
+00:14:07.400 --> 00:14:10.679
+as a very simple example, think about, um, uh,
+
+299
+00:14:10.799 --> 00:14:12.320
+as a, as an engineer, think about building a
+
+300
+00:14:12.320 --> 00:14:14.119
+roller coaster. You have to do a lot of
+
+301
+00:14:14.119 --> 00:14:15.760
+work to get the thing up the, up the
+
+302
+00:14:15.760 --> 00:14:18.239
+hill, right? But you don't have to do anything
+
+303
+00:14:18.239 --> 00:14:20.239
+to get it back down the hill. Now, that's
+
+304
+00:14:20.239 --> 00:14:23.200
+not super intelligent. It's not very intelligent, but it's
+
+305
+00:14:23.200 --> 00:14:25.289
+something. It's not zero. It is something that you
+
+306
+00:14:25.289 --> 00:14:27.510
+can rely on the system to do. Without you
+
+307
+00:14:27.510 --> 00:14:29.200
+having to manage it. So the ability to to,
+
+308
+00:14:29.349 --> 00:14:32.989
+to fall down gradients is the most primitive kind
+
+309
+00:14:32.989 --> 00:14:35.469
+of intelligence there is. Obviously, we're interested in bigger,
+
+310
+00:14:35.789 --> 00:14:38.669
+you know, more, more, more impressive systems, but, but
+
+311
+00:14:38.669 --> 00:14:41.150
+just following gradients is already something. I think it's
+
+312
+00:14:41.150 --> 00:14:43.320
+on the spectrum and, and even particles do that.
+
+313
+00:14:43.659 --> 00:14:45.059
+So I think it goes all the way down.
+
+314
+00:14:45.109 --> 00:14:46.590
+But then you have, you know, the thing that
+
+315
+00:14:46.590 --> 00:14:48.349
+life is good at is scaling up those kinds
+
+316
+00:14:48.349 --> 00:14:51.429
+of properties to show all kinds of more advanced
+
+317
+00:14:51.429 --> 00:14:54.630
+things that people typically recognize. So following gradients in
+
+318
+00:14:54.630 --> 00:14:58.619
+a more clever way, delayed gratification, navigation, memory, pathfinding,
+
+319
+00:14:58.830 --> 00:15:01.619
+uh, uh, maybe eventually forward planning and, and, and,
+
+320
+00:15:01.630 --> 00:15:04.030
+you know, counterfactual thinking, all, all these things. All
+
+321
+00:15:04.030 --> 00:15:06.349
+of these things are on the same spectrum, and
+
+322
+00:15:06.349 --> 00:15:08.010
+they go all the way down to the, to,
+
+323
+00:15:08.229 --> 00:15:10.219
+to what we currently call inanimate matter.
+
+324
+00:15:12.530 --> 00:15:16.940
+So, you've mentioned the intelligence there. What is collective
+
+325
+00:15:16.940 --> 00:15:20.260
+intelligence and how does it apply in the context
+
+326
+00:15:20.260 --> 00:15:21.700
+of a living system?
+
+327
+00:15:22.590 --> 00:15:26.070
+Yeah, collective intelligence is basically the property of a
+
+328
+00:15:26.070 --> 00:15:29.510
+system to be able to solve problems in spaces
+
+329
+00:15:29.510 --> 00:15:32.030
+that uh are different from what it's parts to.
+
+330
+00:15:32.580 --> 00:15:36.580
+So, um, so people typically study collective intelligence in,
+
+331
+00:15:36.799 --> 00:15:39.659
+uh, colonies of ants and, and termites and, and
+
+332
+00:15:39.659 --> 00:15:43.039
+bees and then flock bird flocks and actually robot
+
+333
+00:15:43.039 --> 00:15:46.000
+swarms and, and things like that. But we are
+
+334
+00:15:46.000 --> 00:15:48.630
+all collective intelligences. You and I are also collective
+
+335
+00:15:48.630 --> 00:15:51.039
+intelligences because we are made of a collection of
+
+336
+00:15:51.039 --> 00:15:54.000
+parts, uh, cells, which are by themselves quite competent.
+
+337
+00:15:54.320 --> 00:15:57.929
+But these cells are by themselves solving problems in
+
+338
+00:15:57.929 --> 00:16:01.200
+physiological state space, in gene expression space, and so
+
+339
+00:16:01.200 --> 00:16:04.020
+on. And they, there is a, there are a
+
+340
+00:16:04.020 --> 00:16:06.039
+set of uh uh policies which we can talk
+
+341
+00:16:06.039 --> 00:16:09.500
+about, including bioelectrics and some other things that enable
+
+342
+00:16:09.500 --> 00:16:12.820
+these cells to come together in a way where
+
+343
+00:16:12.820 --> 00:16:15.739
+the collective that they make is able to solve
+
+344
+00:16:15.739 --> 00:16:18.020
+problems in the new space that the parts don't
+
+345
+00:16:18.020 --> 00:16:20.590
+have access to. And so you can imagine during,
+
+346
+00:16:20.609 --> 00:16:24.049
+during evolution that originally systems have to deal with
+
+347
+00:16:24.049 --> 00:16:26.580
+um some kind of metabolic space, and then they
+
+348
+00:16:26.580 --> 00:16:28.630
+became more complex and they, and they could operate
+
+349
+00:16:28.630 --> 00:16:31.000
+it. Physiological space and the genes came along and
+
+350
+00:16:31.000 --> 00:16:34.559
+they could operate in transcriptional space. And then multicellularity
+
+351
+00:16:34.559 --> 00:16:37.119
+came along, and now the whole thing can, can
+
+352
+00:16:37.119 --> 00:16:39.969
+operate in anatomical space. Now, when you have a
+
+353
+00:16:39.969 --> 00:16:43.039
+salamander and it loses a limb, those cells will
+
+354
+00:16:43.039 --> 00:16:45.520
+very quickly rebuild the correct limb and then they
+
+355
+00:16:45.520 --> 00:16:48.710
+stop. OK. Uh, SO, so that's, that's, that's an
+
+356
+00:16:48.710 --> 00:16:52.200
+error minimization scheme. They're able to Find again that
+
+357
+00:16:52.200 --> 00:16:55.280
+correct uh location in the anatomical space when they're
+
+358
+00:16:55.280 --> 00:16:57.840
+deviated from it by some kind of injury, and
+
+359
+00:16:57.840 --> 00:17:00.280
+no individual cell in that collective knows what a
+
+360
+00:17:00.280 --> 00:17:02.049
+finger is or how many fingers it's supposed to
+
+361
+00:17:02.049 --> 00:17:04.358
+have, but the collective absolutely knows. And you know
+
+362
+00:17:04.358 --> 00:17:06.189
+that it knows because if you, if you, if
+
+363
+00:17:06.189 --> 00:17:07.880
+you cut off the, you know, some number of
+
+364
+00:17:07.880 --> 00:17:10.280
+fingers, it will build back exactly what's needed, and
+
+365
+00:17:10.280 --> 00:17:12.118
+then it stops. It stops when it reaches the
+
+366
+00:17:12.118 --> 00:17:14.479
+goal. So the individual parts don't have that, but
+
+367
+00:17:14.479 --> 00:17:17.368
+the collective does. And then Eventually, uh, nerve and
+
+368
+00:17:17.368 --> 00:17:19.010
+muscle came on the scene and then, and then
+
+369
+00:17:19.010 --> 00:17:21.489
+we could pursue what uh behavioral goals, right? So
+
+370
+00:17:21.489 --> 00:17:23.829
+moving around in three dimensional space to create behavioral
+
+371
+00:17:23.829 --> 00:17:26.770
+goals. And now we have linguistic paths through the
+
+372
+00:17:26.770 --> 00:17:29.329
+linguistic space that that humans can take and, and,
+
+373
+00:17:29.369 --> 00:17:30.810
+and many other kinds of goals that we can
+
+374
+00:17:30.810 --> 00:17:35.199
+do. So, Uh, collective intelligence is, is, is simply
+
+375
+00:17:35.199 --> 00:17:38.510
+this, it's the ability to bind competent subunits together
+
+376
+00:17:38.510 --> 00:17:40.670
+in a way that the group is able to
+
+377
+00:17:40.670 --> 00:17:42.560
+solve new problems in a new space.
+
+378
+00:17:43.750 --> 00:17:47.000
+And how does collective intelligence play out in the
+
+379
+00:17:47.000 --> 00:17:50.479
+morphogenesis of multicellular organisms?
+
+380
+00:17:51.290 --> 00:17:54.130
+Well, yeah, that's that one of the, one of
+
+381
+00:17:54.130 --> 00:17:56.829
+the most interesting kinds of collective intelligence that we
+
+382
+00:17:56.829 --> 00:18:00.750
+see is problem solving in anatomical space. So, you
+
+383
+00:18:00.750 --> 00:18:03.310
+have, uh, a bunch of cells, the cells themselves
+
+384
+00:18:03.310 --> 00:18:04.869
+are able to do all sorts of things, as
+
+385
+00:18:04.869 --> 00:18:07.109
+we can see from amoebas and from various other
+
+386
+00:18:07.109 --> 00:18:13.739
+kinds of cells, but together, they're actually, um, Able
+
+387
+00:18:13.739 --> 00:18:16.219
+to, to solve problems in, in a, in a
+
+388
+00:18:16.219 --> 00:18:17.979
+very different space, which is the space of three
+
+389
+00:18:17.979 --> 00:18:20.900
+dimensional shapes. So let me describe, um, let me
+
+390
+00:18:20.900 --> 00:18:24.550
+describe uh what some of those problems are. So,
+
+391
+00:18:24.729 --> 00:18:26.300
+so first of all, we can just start right
+
+392
+00:18:26.300 --> 00:18:30.420
+with embryonic development, uh, many kinds of embryos, if
+
+393
+00:18:30.420 --> 00:18:32.969
+you cut them into pieces. You don't get half
+
+394
+00:18:32.969 --> 00:18:36.469
+bodies, you get perfectly normal monozygotic twins and triplets
+
+395
+00:18:36.469 --> 00:18:38.660
+and so on. So, so even, even this is
+
+396
+00:18:38.660 --> 00:18:41.599
+regulative development and even when certain parts are, are
+
+397
+00:18:41.599 --> 00:18:44.599
+damaged, the system can recognize that that's happened, uh,
+
+398
+00:18:44.739 --> 00:18:47.099
+make up what it do, take, take steps that
+
+399
+00:18:47.099 --> 00:18:48.300
+it needs to do and get to where it's
+
+400
+00:18:48.300 --> 00:18:51.829
+going. Another kind of example is Um, in the,
+
+401
+00:18:51.910 --> 00:18:54.670
+in the frog tadpole that has to rearrange its
+
+402
+00:18:54.670 --> 00:18:57.140
+cranio facial organs to go from tadpole to frog.
+
+403
+00:18:57.430 --> 00:18:59.630
+If you, you might think that this is a
+
+404
+00:18:59.630 --> 00:19:03.630
+hardwired kind of process where every particular, uh, organ
+
+405
+00:19:03.630 --> 00:19:05.349
+in the face just moves in the right direction,
+
+406
+00:19:05.369 --> 00:19:06.989
+the right amount, and then you get a normal
+
+407
+00:19:06.989 --> 00:19:09.150
+frog. But actually, it turns out that's not true.
+
+408
+00:19:09.229 --> 00:19:12.430
+What we discovered when we, uh, randomized the position
+
+409
+00:19:12.430 --> 00:19:14.270
+of the organs, right? So, so the eyes on
+
+410
+00:19:14.270 --> 00:19:15.510
+the back of the head, the mouth is off
+
+411
+00:19:15.510 --> 00:19:17.589
+to the side, just scramble everything, you still get
+
+412
+00:19:17.589 --> 00:19:19.410
+a normal frog. And the reason you get a
+
+413
+00:19:19.410 --> 00:19:21.209
+normal frog is that these things are not following
+
+414
+00:19:21.209 --> 00:19:25.359
+predetermined paths. They're trying to minimize error from a,
+
+415
+00:19:25.410 --> 00:19:27.969
+a configuration that they remember, not the individual cells,
+
+416
+00:19:28.010 --> 00:19:30.969
+but the collective. And And they will continue to
+
+417
+00:19:30.969 --> 00:19:33.050
+move and rearrange and deform and whatever until they
+
+418
+00:19:33.050 --> 00:19:35.130
+get to this, to this pattern. So all of,
+
+419
+00:19:35.250 --> 00:19:37.010
+all, and there are many, many other examples that
+
+420
+00:19:37.010 --> 00:19:38.689
+we could talk about, but all of these are
+
+421
+00:19:38.689 --> 00:19:42.920
+examples of, uh, specific problem solving, including use of,
+
+422
+00:19:43.170 --> 00:19:44.810
+uh, you know, I could tell you examples where
+
+423
+00:19:44.810 --> 00:19:49.530
+they use, uh, different molecular, um, tools that they
+
+424
+00:19:49.530 --> 00:19:51.410
+have in their toolkit to solve a problem when
+
+425
+00:19:51.410 --> 00:19:55.229
+things really radically change. And that creative, creative reuse
+
+426
+00:19:55.229 --> 00:19:57.010
+of the hardware you have, I mean, that's basically
+
+427
+00:19:57.010 --> 00:20:00.209
+intelligence. And it's, and, and so the ability to
+
+428
+00:20:00.219 --> 00:20:02.339
+remember our goal, work hard to get to that
+
+429
+00:20:02.339 --> 00:20:05.500
+goal, despite changing circumstances, and creatively use the tools
+
+430
+00:20:05.500 --> 00:20:07.660
+you have to try to get there even in
+
+431
+00:20:07.660 --> 00:20:09.959
+cases of, uh, where you've not seen this problem
+
+432
+00:20:09.959 --> 00:20:13.689
+before. Those are all intelligences, uh, kinds of intelligence,
+
+433
+00:20:13.819 --> 00:20:17.050
+I should say, and, um, It's a collective intelligence
+
+434
+00:20:17.050 --> 00:20:18.729
+because it's being carried out by a swarm of
+
+435
+00:20:18.729 --> 00:20:22.290
+cells that they're all committed to the same uh
+
+436
+00:20:22.290 --> 00:20:25.130
+traversal of that problem space towards the same goal.
+
+437
+00:20:26.579 --> 00:20:29.719
+So in your work, when it comes to development,
+
+438
+00:20:29.839 --> 00:20:34.079
+I read about the concept of multi-scale competency. Could
+
+439
+00:20:34.079 --> 00:20:34.959
+you explain it?
+
+440
+00:20:36.030 --> 00:20:38.849
+Yeah, this is, this is, uh, what I mean
+
+441
+00:20:38.849 --> 00:20:42.530
+by that is that every level of organization has
+
+442
+00:20:42.530 --> 00:20:46.219
+its own ability to solve problems in different spaces.
+
+443
+00:20:46.530 --> 00:20:49.920
+So, for example, one talk that I give sometimes
+
+444
+00:20:49.920 --> 00:20:53.250
+is, is called Why Robots Don't Get Cancer. And
+
+445
+00:20:53.250 --> 00:20:56.359
+the reason current robots don't get cancer is because
+
+446
+00:20:56.359 --> 00:20:59.010
+the collective, the, the, the final thing, the robot
+
+447
+00:20:59.010 --> 00:21:01.209
+itself might be intelligent and it might be solving
+
+448
+00:21:01.209 --> 00:21:03.569
+certain problems, but it's typically made of dumb parts.
+
+449
+00:21:03.650 --> 00:21:06.709
+The parts themselves don't have an agenda. Um, IN,
+
+450
+00:21:06.849 --> 00:21:09.359
+in, in, uh, living forms, that's not the case.
+
+451
+00:21:09.410 --> 00:21:12.160
+We're made of an agential material where every part
+
+452
+00:21:12.160 --> 00:21:15.655
+and every scale has its own. Um, SET of
+
+453
+00:21:15.655 --> 00:21:17.655
+goals and preferences and agendas that it's trying to
+
+454
+00:21:17.655 --> 00:21:20.614
+meet. So the molecular networks themselves have a kind
+
+455
+00:21:20.614 --> 00:21:23.135
+of learning and memory and goal directedness that they're
+
+456
+00:21:23.135 --> 00:21:25.895
+able to do. The cells can, can solve problems
+
+457
+00:21:25.895 --> 00:21:28.444
+in various spaces, the tissues, the organs, the whole
+
+458
+00:21:28.444 --> 00:21:30.694
+organism, and then, of course, swarms and groups and
+
+459
+00:21:30.694 --> 00:21:32.805
+so on. So at every, at every level of
+
+460
+00:21:32.805 --> 00:21:36.469
+organization, you don't have uh purely um Uh, passive,
+
+461
+00:21:36.689 --> 00:21:39.790
+passive materials, you have, you have, uh, any genial
+
+462
+00:21:39.790 --> 00:21:42.829
+material that has all these amazing competencies that can
+
+463
+00:21:42.829 --> 00:21:45.750
+be taken advantage of by the higher levels of
+
+464
+00:21:45.750 --> 00:21:47.869
+organization. And, and, and it is. That's what, that's,
+
+465
+00:21:47.939 --> 00:21:51.060
+that's, that's a key principle of life. And, uh,
+
+466
+00:21:51.270 --> 00:21:54.270
+that's, that's, that's the multi-scale competency architecture. I think
+
+467
+00:21:54.270 --> 00:21:56.780
+we're built of an architecture where every every level
+
+468
+00:21:56.780 --> 00:21:58.550
+is competent in certain cases.
+
+469
+00:21:59.770 --> 00:22:04.099
+And how do cells, tissues and organs adjust to
+
+470
+00:22:04.099 --> 00:22:09.500
+perturbations such as external injury or internal modifications and
+
+471
+00:22:09.500 --> 00:22:12.099
+still accomplish adaptive tasks?
+
+472
+00:22:13.050 --> 00:22:15.890
+Yeah, I mean, that's, that's uh a a a
+
+473
+00:22:15.890 --> 00:22:19.770
+huge question. It's really critical for understanding evolution, development,
+
+474
+00:22:20.010 --> 00:22:25.170
+for developing regenerative medicine, um. You know, there, there's,
+
+475
+00:22:25.250 --> 00:22:27.089
+there's a few interests. I'll, I'll just, I, I'll
+
+476
+00:22:27.089 --> 00:22:30.170
+give a few interesting examples. Um, AND, and, and,
+
+477
+00:22:30.199 --> 00:22:32.130
+and we're starting to understand some of that because,
+
+478
+00:22:32.280 --> 00:22:34.369
+because what you need to do in order to
+
+479
+00:22:34.369 --> 00:22:36.849
+understand that is to identify what I call the
+
+480
+00:22:36.849 --> 00:22:39.890
+cognitive glue, that is the mechanisms that bind individual
+
+481
+00:22:39.890 --> 00:22:42.449
+cells together towards common purpose. And we've now started
+
+482
+00:22:42.449 --> 00:22:44.930
+to identify some of those and bioelectrics is, is,
+
+483
+00:22:44.939 --> 00:22:46.369
+of course, one of them, but, but there's a
+
+484
+00:22:46.369 --> 00:22:49.729
+few others, uh, including stress sharing and, and memory
+
+485
+00:22:49.729 --> 00:22:53.880
+anonymization and so on. So, Uh, so, so, so,
+
+486
+00:22:53.979 --> 00:22:57.270
+so here's a, here's a few examples, um. Uh,
+
+487
+00:22:57.520 --> 00:23:00.000
+IN, in the, in the newt, there's a, there's
+
+488
+00:23:00.000 --> 00:23:01.810
+a little tube that goes to the kidney, OK,
+
+489
+00:23:01.839 --> 00:23:03.760
+this little kidney tubule. And if you take a
+
+490
+00:23:03.760 --> 00:23:06.339
+cross section of a normal kidney tubule, what you'll
+
+491
+00:23:06.339 --> 00:23:09.119
+see is 8 to 10 cells making a, you
+
+492
+00:23:09.119 --> 00:23:10.770
+know, making a little circle, right? That's the cross
+
+493
+00:23:10.770 --> 00:23:13.189
+section, and, and now you get your tube. So,
+
+494
+00:23:13.359 --> 00:23:14.800
+one thing you can do is you can make
+
+495
+00:23:14.800 --> 00:23:18.729
+these polyploid nodes, which have Uh, extra copies of
+
+496
+00:23:18.729 --> 00:23:20.810
+their, of their genetic material, right? So instead of
+
+497
+00:23:20.810 --> 00:23:23.290
+2nnus, you can make 4 and 5 and 6,
+
+498
+00:23:23.300 --> 00:23:25.530
+and so on. When you do that, first thing
+
+499
+00:23:25.530 --> 00:23:28.369
+that happens is the cells get larger to accommodate
+
+500
+00:23:28.369 --> 00:23:31.050
+additional genetic material. So the cell size adapts to
+
+501
+00:23:31.050 --> 00:23:33.209
+the amount of DNA. The second thing you notice
+
+502
+00:23:33.209 --> 00:23:34.959
+is that you still get a perfectly good nut.
+
+503
+00:23:35.089 --> 00:23:36.900
+So that's interesting. It kind of doesn't matter how
+
+504
+00:23:36.900 --> 00:23:38.810
+many copies of your genetic material you have, you
+
+505
+00:23:38.810 --> 00:23:40.890
+can still make it, make a good nut. The
+
+506
+00:23:40.890 --> 00:23:43.170
+third thing that happens is you notice that because
+
+507
+00:23:43.170 --> 00:23:46.260
+the cells are bigger, But the node is exactly
+
+508
+00:23:46.260 --> 00:23:48.219
+the same size. So when you take a cross
+
+509
+00:23:48.219 --> 00:23:50.660
+section, you see how that works. Fewer cells are
+
+510
+00:23:50.660 --> 00:23:52.619
+now making up that same tubule. So now it's
+
+511
+00:23:52.619 --> 00:23:56.020
+adjusted to the size of the, uh, to the,
+
+512
+00:23:56.140 --> 00:23:58.099
+to the, uh, to the new size of the
+
+513
+00:23:58.099 --> 00:24:00.660
+cells, not just the, right? And so, and then,
+
+514
+00:24:00.739 --> 00:24:02.954
+and then the The most amazing thing is that
+
+515
+00:24:02.954 --> 00:24:04.474
+if you make them, if you make the cells
+
+516
+00:24:04.474 --> 00:24:08.275
+truly gigantic, uh, just one cell will wrap around
+
+517
+00:24:08.275 --> 00:24:10.074
+itself and leave a hole in the middle and
+
+518
+00:24:10.074 --> 00:24:11.994
+give you that same tubule. Now, in that case,
+
+519
+00:24:12.035 --> 00:24:15.074
+that's a completely different molecular mechanism, that's cytoskeletal bending.
+
+520
+00:24:15.084 --> 00:24:16.645
+The others were some kind of cell to cell
+
+521
+00:24:16.645 --> 00:24:20.020
+communication. So what you see here, is exactly the
+
+522
+00:24:20.020 --> 00:24:22.260
+sort of problem solving that I was talking about
+
+523
+00:24:22.260 --> 00:24:24.569
+where if you're a nude coming into this world,
+
+524
+00:24:24.900 --> 00:24:27.219
+what can you count on? Well, you know your
+
+525
+00:24:27.219 --> 00:24:28.859
+environment is going to change, but you also can't
+
+526
+00:24:28.859 --> 00:24:30.859
+even count on your own parts. You don't know
+
+527
+00:24:30.859 --> 00:24:32.459
+how many copies of your genome you're going to
+
+528
+00:24:32.459 --> 00:24:34.630
+have. You don't know what size or how many
+
+529
+00:24:34.630 --> 00:24:36.300
+cells you're going to have. You have to use
+
+530
+00:24:36.300 --> 00:24:38.619
+whatever tools you have, in particular, all of these
+
+531
+00:24:38.619 --> 00:24:40.989
+molecular cascades that that have to do with the
+
+532
+00:24:40.989 --> 00:24:43.500
+cytoskeletal bending and cell to cell communication and so
+
+533
+00:24:43.500 --> 00:24:44.579
+on. You have to use them as best as
+
+534
+00:24:44.579 --> 00:24:48.160
+you can. To complete your journey in anatomical space.
+
+535
+00:24:48.290 --> 00:24:49.949
+And you have to do this on the fly.
+
+536
+00:24:50.209 --> 00:24:52.609
+So, so it isn't like you can, you can
+
+537
+00:24:52.609 --> 00:24:55.290
+do a bunch of computations and then those computations
+
+538
+00:24:55.290 --> 00:24:57.650
+impact some other system. You have to do all
+
+539
+00:24:57.650 --> 00:25:00.560
+those computations while you are changing your own architecture.
+
+540
+00:25:00.689 --> 00:25:03.770
+Yeah. And the same, the same thing happens. In,
+
+541
+00:25:03.849 --> 00:25:08.040
+um, for example, the butterfly caterpillar, uh, transition, where,
+
+542
+00:25:08.170 --> 00:25:10.890
+where when you have a caterpillar, and it, in
+
+543
+00:25:10.890 --> 00:25:13.209
+order to become a butterfly, it basically dissolves most
+
+544
+00:25:13.209 --> 00:25:15.010
+of its brain and then rebuilds a new brain
+
+545
+00:25:15.010 --> 00:25:18.319
+that's, um, that's, that's much more suitable for, uh,
+
+546
+00:25:18.609 --> 00:25:22.209
+for living in a three-dimensional world. Um, IT'S been
+
+547
+00:25:22.209 --> 00:25:24.209
+shown that some of the memories of the caterpillar
+
+548
+00:25:24.209 --> 00:25:26.729
+actually remain and, and, and, and are actually, they,
+
+549
+00:25:26.750 --> 00:25:29.170
+they don't just remain, actually remapped into the kind
+
+550
+00:25:29.170 --> 00:25:30.849
+of memories that are useful to a butterfly, which
+
+551
+00:25:30.849 --> 00:25:33.459
+are quite different. So again, you have the scenario
+
+552
+00:25:33.459 --> 00:25:35.540
+where you not only have to stay alive, but
+
+553
+00:25:35.540 --> 00:25:38.180
+you also have to manage your own transformation while
+
+554
+00:25:38.180 --> 00:25:41.849
+doing the, the relevant computations and holding on to
+
+555
+00:25:41.849 --> 00:25:45.250
+information and remapping that information onto the new substrate.
+
+556
+00:25:45.579 --> 00:25:48.900
+So, so all of these transformational processes are very
+
+557
+00:25:48.900 --> 00:25:52.619
+much, um, recurrent. They're very much, uh, kind of
+
+558
+00:25:52.619 --> 00:25:55.780
+self, self-referential. It's a, it's a, it's basically a
+
+559
+00:25:55.780 --> 00:25:58.660
+machine that changes itself on the fly because it
+
+560
+00:25:58.660 --> 00:26:01.189
+is a problem solving agent from, from the very
+
+561
+00:26:01.189 --> 00:26:01.380
+beginning.
+
+562
+00:26:02.040 --> 00:26:04.790
+Mhm. So tell us now, to get into the
+
+563
+00:26:04.790 --> 00:26:08.069
+topic of sentience, uh, tell us now about your
+
+564
+00:26:08.069 --> 00:26:13.170
+theme or technological approach to mind everywhere framework to
+
+565
+00:26:13.170 --> 00:26:16.739
+understanding bodies, minds, and intelligences.
+
+566
+00:26:17.209 --> 00:26:20.790
+Yeah, um, so, so what I'm interested in is
+
+567
+00:26:20.790 --> 00:26:23.839
+developing ways to think about all different kinds of
+
+568
+00:26:23.839 --> 00:26:28.040
+agents, regardless of their composition or how they got
+
+569
+00:26:28.040 --> 00:26:30.150
+here. In other words, I want to be able
+
+570
+00:26:30.150 --> 00:26:34.319
+to ask, uh, in particular, what is, what is
+
+571
+00:26:34.319 --> 00:26:37.520
+common to all agents, be they evolved biologicals, like
+
+572
+00:26:37.520 --> 00:26:40.829
+the familiar animals, or maybe some weird animals like,
+
+573
+00:26:40.839 --> 00:26:44.114
+like, uh, Um, swarms and things like that, but
+
+574
+00:26:44.114 --> 00:26:48.765
+also synthetic, uh, synthetic living beings, biobots, um, hybrids
+
+575
+00:26:48.765 --> 00:26:53.155
+and cyborgs, and, uh, uh, embodied robotics and AI
+
+576
+00:26:53.155 --> 00:26:56.594
+software agents, someday maybe exobiological, alien life, all of
+
+577
+00:26:56.594 --> 00:26:58.515
+it. I want to understand what all of these
+
+578
+00:26:58.515 --> 00:27:02.234
+things have in common. And in particular, this framework
+
+579
+00:27:02.234 --> 00:27:06.040
+is uh designed to, to do that and Uh,
+
+580
+00:27:06.079 --> 00:27:08.239
+to do it in a very, uh, practical way.
+
+581
+00:27:08.319 --> 00:27:10.280
+That is, I'm not just interested in philosophy. I
+
+582
+00:27:10.280 --> 00:27:13.599
+don't want to, um, have debates about the word
+
+583
+00:27:13.599 --> 00:27:16.079
+usage and try to prop up ancient categories of
+
+584
+00:27:16.079 --> 00:27:18.430
+what life is, what machines are, what robots are.
+
+585
+00:27:18.599 --> 00:27:21.229
+I think the, the, the useful thing for us
+
+586
+00:27:21.229 --> 00:27:24.380
+to do now. IS to, uh, assume that all
+
+587
+00:27:24.380 --> 00:27:28.130
+of those kinds of claims about sentience, about intelligence,
+
+588
+00:27:28.339 --> 00:27:31.099
+about cognition, all of those claims are basically just
+
+589
+00:27:31.099 --> 00:27:34.699
+interaction protocols, meaning, meaning I want to operationalize all
+
+590
+00:27:34.699 --> 00:27:37.300
+of these things and say that those terms are
+
+591
+00:27:37.300 --> 00:27:39.459
+useful to the extent that they help me interact
+
+592
+00:27:39.459 --> 00:27:41.364
+with the system. So that That means if I
+
+593
+00:27:41.364 --> 00:27:44.885
+want to understand the collective intelligence of cells, I
+
+594
+00:27:44.885 --> 00:27:46.925
+may have models of what kind of intelligence they
+
+595
+00:27:46.925 --> 00:27:49.364
+have, and those models have to help me get
+
+596
+00:27:49.364 --> 00:27:51.765
+to new therapeutics. They have to make new predictions.
+
+597
+00:27:51.844 --> 00:27:54.655
+They have to unlock new, uh, capabilities that we
+
+598
+00:27:54.655 --> 00:27:57.484
+didn't have. Otherwise, otherwise it's useless. So, so that,
+
+599
+00:27:57.604 --> 00:28:00.209
+so, so the goal of the framework is To
+
+600
+00:28:00.209 --> 00:28:04.349
+help us to recognize, to, uh, control or collaborate
+
+601
+00:28:04.349 --> 00:28:07.599
+with very unusual diverse intelligences that I think are
+
+602
+00:28:07.599 --> 00:28:09.319
+all around us, and, and we just, we're not
+
+603
+00:28:09.319 --> 00:28:11.520
+very good at recognizing them and do it in
+
+604
+00:28:11.520 --> 00:28:14.079
+a way that enables us to have more fruitful,
+
+605
+00:28:14.199 --> 00:28:16.699
+more ethical interactions with them. So this means biomedicine
+
+606
+00:28:16.699 --> 00:28:19.680
+and has certain environmental implications and so on. And
+
+607
+00:28:19.680 --> 00:28:22.079
+so, and so this, this framework has a number
+
+608
+00:28:22.079 --> 00:28:26.239
+of pillars. One is that, uh, We need to
+
+609
+00:28:26.239 --> 00:28:30.680
+think beyond ancient categories, uh, that were OK in
+
+610
+00:28:30.680 --> 00:28:33.839
+sort of pre-scientific times, but are really not supported
+
+611
+00:28:33.839 --> 00:28:37.119
+by, by discoveries of evolution of developmental biology of
+
+612
+00:28:37.119 --> 00:28:39.199
+bioengineering. I think a lot of these categories are
+
+613
+00:28:39.199 --> 00:28:42.040
+no good, and we need to develop new, um,
+
+614
+00:28:42.170 --> 00:28:45.000
+new, new, new frameworks for asking what kind of
+
+615
+00:28:45.000 --> 00:28:47.319
+relationship can you have with a specific system? What
+
+616
+00:28:47.319 --> 00:28:49.689
+does it do? Does it learn? Does it have
+
+617
+00:28:49.689 --> 00:28:52.680
+goals, how much, uh, what kind of, uh, problem
+
+618
+00:28:52.680 --> 00:28:55.489
+solving it can do, and so on. Um. Uh,
+
+619
+00:28:55.530 --> 00:28:57.209
+THERE are also, there are also some other components
+
+620
+00:28:57.209 --> 00:28:59.959
+such as polycomputing, which is the, uh, the idea
+
+621
+00:28:59.959 --> 00:29:02.810
+that, that everything is, is described from the perspective
+
+622
+00:29:02.810 --> 00:29:06.010
+of some observer and that multiple observers can be
+
+623
+00:29:06.010 --> 00:29:08.969
+interpreting the same physical events as very different computations.
+
+624
+00:29:09.079 --> 00:29:11.329
+So everything is observer relative. I think that's important.
+
+625
+00:29:11.709 --> 00:29:14.250
+Um, AND, uh, you know, there's, there's some other
+
+626
+00:29:14.250 --> 00:29:17.290
+components such as being able to use the framework
+
+627
+00:29:17.290 --> 00:29:20.020
+of the cognitively cone for any given system to
+
+628
+00:29:20.020 --> 00:29:21.410
+be able to say what are the, what are
+
+629
+00:29:21.410 --> 00:29:23.770
+the scale and, uh, in both in space and
+
+630
+00:29:23.770 --> 00:29:26.199
+time of the largest goal that it can pursue,
+
+631
+00:29:26.569 --> 00:29:28.250
+right? So, so what, what is, what is the
+
+632
+00:29:28.250 --> 00:29:30.130
+system concerned about? What are the, what are the
+
+633
+00:29:30.130 --> 00:29:32.609
+goals that it's actively trying to manage? And I
+
+634
+00:29:32.609 --> 00:29:35.410
+think those are ways that we can, we can
+
+635
+00:29:35.410 --> 00:29:38.729
+start to think about very, very diverse, uh, agential
+
+636
+00:29:38.729 --> 00:29:39.209
+systems.
+
+637
+00:29:40.380 --> 00:29:43.880
+But when it comes to sentience specifically, how can
+
+638
+00:29:43.880 --> 00:29:47.989
+we infer it in other organisms including animals and
+
+639
+00:29:47.989 --> 00:29:50.359
+possibly also plants?
+
+640
+00:29:50.680 --> 00:29:52.550
+What, what do you mean by sentience exactly?
+
+641
+00:29:53.750 --> 00:29:55.810
+Uh, I, I mean, let me ask you, by
+
+642
+00:29:55.810 --> 00:29:57.859
+the way, what, what is sentience?
+
+643
+00:29:58.609 --> 00:30:00.729
+Well, I, I don't use that word much. I
+
+644
+00:30:00.729 --> 00:30:02.800
+don't know really exactly what it means. I mean,
+
+645
+00:30:03.030 --> 00:30:05.810
+part, part of the issue is that we often
+
+646
+00:30:05.810 --> 00:30:08.650
+use a lot of terminology that is not clear
+
+647
+00:30:08.650 --> 00:30:11.410
+to me what, um, practical, practical use it has.
+
+648
+00:30:11.449 --> 00:30:12.920
+So, so I'm not sure, I'm not sure what
+
+649
+00:30:12.920 --> 00:30:15.599
+we can do with, with sentience. I think that,
+
+650
+00:30:16.050 --> 00:30:18.609
+uh, in general, this, this notion of a system
+
+651
+00:30:18.609 --> 00:30:23.660
+that is, uh, functionally. Navigating some kind of environment
+
+652
+00:30:23.660 --> 00:30:26.119
+to meet goals that it has preferences towards and
+
+653
+00:30:26.119 --> 00:30:29.170
+away from, from certain goals that is able to
+
+654
+00:30:29.170 --> 00:30:33.500
+solve problems that represents the environment in a, uh,
+
+655
+00:30:33.579 --> 00:30:35.619
+in a compact, uh, kind of way, the way
+
+656
+00:30:35.619 --> 00:30:37.719
+that we do when we make models. That, that's,
+
+657
+00:30:37.900 --> 00:30:40.780
+that, that's what I'm interested in. And in various
+
+658
+00:30:40.780 --> 00:30:44.665
+spaces, uh, that's a very functional. Um, THAT'S a
+
+659
+00:30:44.665 --> 00:30:46.744
+very functional kind of thing which you can test
+
+660
+00:30:46.744 --> 00:30:48.694
+with, with experiments. And the way you do it
+
+661
+00:30:48.694 --> 00:30:50.864
+both in, in animals and plants, and in lots
+
+662
+00:30:50.864 --> 00:30:53.625
+of very, I mean we study very minimal systems
+
+663
+00:30:53.625 --> 00:30:56.464
+that are, that are far, quote unquote below plants
+
+664
+00:30:56.464 --> 00:30:58.944
+in the standard scheme of things, that also have
+
+665
+00:30:58.944 --> 00:31:02.305
+these properties, you know, uh, the very simple systems
+
+666
+00:31:02.305 --> 00:31:03.744
+can have some of these properties, and the way
+
+667
+00:31:03.744 --> 00:31:05.905
+you do it is with experiments. So that means
+
+668
+00:31:05.905 --> 00:31:09.609
+that You specify some kind of problem space as
+
+669
+00:31:09.609 --> 00:31:12.989
+you hypothesize a problem space, you hypothesize what goal
+
+670
+00:31:12.989 --> 00:31:16.859
+it has, you hypothesize what. Uh, COMPETENCY, it has
+
+671
+00:31:16.859 --> 00:31:18.780
+to reach those goals, and then you do functional
+
+672
+00:31:18.780 --> 00:31:21.979
+experiments to test those hypotheses, meaning you put barriers
+
+673
+00:31:21.979 --> 00:31:25.609
+between it and its goal, or you, um, uh,
+
+674
+00:31:25.619 --> 00:31:28.060
+just disrupt various things and see, and see what
+
+675
+00:31:28.060 --> 00:31:30.300
+in fact competencies it has to reach, to reach
+
+676
+00:31:30.300 --> 00:31:35.900
+those goals. And that's, that's an experimental, uh, platform
+
+677
+00:31:35.900 --> 00:31:38.780
+with which we can get good objective answers to
+
+678
+00:31:38.780 --> 00:31:41.660
+these questions, because if you have different hypotheses about
+
+679
+00:31:41.660 --> 00:31:44.400
+what the system is or different degrees of, um,
+
+680
+00:31:44.420 --> 00:31:46.000
+if you, if you want to Attribute to a
+
+681
+00:31:46.000 --> 00:31:49.400
+different degrees of, of cognition than I do, we
+
+682
+00:31:49.400 --> 00:31:52.119
+can both do experiments and show what does, what
+
+683
+00:31:52.119 --> 00:31:53.910
+does each of our models allow us to do.
+
+684
+00:31:54.119 --> 00:31:55.680
+And so this is something that, for example, we
+
+685
+00:31:55.680 --> 00:31:58.959
+do in regenerative medicine. A lot of people will
+
+686
+00:31:58.959 --> 00:32:02.859
+automatically assume that that cells and tissues have zero
+
+687
+00:32:02.859 --> 00:32:06.469
+or very low, uh, kinds of, uh, cognitive capacities,
+
+688
+00:32:06.800 --> 00:32:09.229
+and that has certain implications. It means that you,
+
+689
+00:32:09.400 --> 00:32:12.119
+you know, that therapeutics must operate bottom up on
+
+690
+00:32:12.119 --> 00:32:15.500
+the molecular hardware and very specific techniques. We have
+
+691
+00:32:15.500 --> 00:32:18.339
+a different approach where, where we've hypothesized that actually
+
+692
+00:32:18.339 --> 00:32:20.270
+the systems could do these other things, for example,
+
+693
+00:32:20.310 --> 00:32:22.819
+have certain kinds of memory, uh, uh, certain kinds
+
+694
+00:32:22.819 --> 00:32:24.859
+of preferences, and so on. And that enables us
+
+695
+00:32:24.859 --> 00:32:26.859
+to use very different set of tools from, uh,
+
+696
+00:32:26.939 --> 00:32:29.739
+from behavioral science and from cognitive neuroscience. And by
+
+697
+00:32:29.739 --> 00:32:31.739
+using those tools, we've shown that, hey, look, we
+
+698
+00:32:31.739 --> 00:32:33.810
+can get to new capabilities that you couldn't get
+
+699
+00:32:33.810 --> 00:32:36.140
+to with the, with the original framework. So that's
+
+700
+00:32:36.140 --> 00:32:39.939
+it. It's, it's an objective, uh, standard scientific way
+
+701
+00:32:39.939 --> 00:32:42.420
+to judge the quality of the different, uh, sets
+
+702
+00:32:42.420 --> 00:32:45.829
+of tools that, that we use. Now, That does
+
+703
+00:32:45.829 --> 00:32:49.300
+not address quote unquote, the hard problem of consciousness.
+
+704
+00:32:49.510 --> 00:32:52.140
+That is what I'm talking about is publicly observable
+
+705
+00:32:52.140 --> 00:32:54.400
+behavior. And so, if that's what you mean by
+
+706
+00:32:54.400 --> 00:32:56.750
+sentience, then it's, then it's, then, then we know
+
+707
+00:32:56.750 --> 00:32:58.430
+how to do it. We do, we do experiments
+
+708
+00:32:58.430 --> 00:33:02.459
+and, and we see uh what kind of Models
+
+709
+00:33:02.459 --> 00:33:05.089
+of, of representation of memory of decision making are
+
+710
+00:33:05.089 --> 00:33:07.770
+actually useful in, in research and then, and then
+
+711
+00:33:07.770 --> 00:33:09.930
+we all find out um how, how you know
+
+712
+00:33:09.930 --> 00:33:12.329
+about the first, the first person experience of these
+
+713
+00:33:12.329 --> 00:33:14.170
+systems, that's a completely different question and that's a
+
+714
+00:33:14.170 --> 00:33:15.160
+much harder question.
+
+715
+00:33:16.359 --> 00:33:19.150
+Uh, CAN AI have a mind?
+
+716
+00:33:20.939 --> 00:33:23.140
+Well, like Turing said, you need to, uh, you
+
+717
+00:33:23.140 --> 00:33:24.790
+need to define all the terms here. You need
+
+718
+00:33:24.790 --> 00:33:26.780
+to define AI, you need to define mind, and
+
+719
+00:33:26.780 --> 00:33:29.640
+you probably need to define can. Uh, I, I'll
+
+720
+00:33:29.640 --> 00:33:31.369
+I'll, I'll, I'll say a few things about it.
+
+721
+00:33:31.699 --> 00:33:34.619
+First of all, let's be clear that none of
+
+722
+00:33:34.619 --> 00:33:38.180
+this is about today's AI, right? So, so I'm,
+
+723
+00:33:38.310 --> 00:33:41.140
+I'm thinking much more, much more broadly about various,
+
+724
+00:33:41.219 --> 00:33:44.339
+um. Official beings that that all either already exist
+
+725
+00:33:44.339 --> 00:33:46.979
+or are soon going to exist, which include not
+
+726
+00:33:46.979 --> 00:33:51.290
+only embodied robotics, but also various hybrids and and
+
+727
+00:33:51.300 --> 00:33:56.219
+and combinations of living tissue with engineered artifacts and
+
+728
+00:33:56.219 --> 00:33:58.699
+software. So if you, you know, we are, we
+
+729
+00:33:58.699 --> 00:34:01.020
+already do and we will much more so have
+
+730
+00:34:01.020 --> 00:34:04.920
+various cyborgs. YOU know, humans walking around that are
+
+731
+00:34:04.920 --> 00:34:08.520
+maybe, you know, 80% human, 20%, uh, some, you
+
+732
+00:34:08.520 --> 00:34:10.520
+know, some other kind of engineered implant or vice
+
+733
+00:34:10.520 --> 00:34:13.399
+versa. And what I really don't like are these
+
+734
+00:34:13.399 --> 00:34:15.739
+binary framings, you know, can it or can't it?
+
+735
+00:34:16.000 --> 00:34:18.478
+Because what you're soon going to be in a
+
+736
+00:34:18.478 --> 00:34:20.918
+position of is, is trying to, when, you know,
+
+737
+00:34:20.969 --> 00:34:23.300
+when confronted by somebody that says, yes, you know,
+
+738
+00:34:23.659 --> 00:34:25.629
+about 50% human and the rest of me is,
+
+739
+00:34:25.639 --> 00:34:28.060
+is engineered. You, you don't want to be in
+
+740
+00:34:28.060 --> 00:34:29.300
+a position of trying to say, well, is it
+
+741
+00:34:29.300 --> 00:34:31.659
+51% or 49%, because that's how we're going to
+
+742
+00:34:31.659 --> 00:34:33.360
+decide if you're, you know, if you're, if you're
+
+743
+00:34:33.360 --> 00:34:35.340
+an AI or a human. I mean, this, this
+
+744
+00:34:35.340 --> 00:34:37.208
+is a, you know, it's a pseudo problem that's,
+
+745
+00:34:37.260 --> 00:34:40.040
+that's, that's never going to be useful. So, um,
+
+746
+00:34:40.540 --> 00:34:43.978
+what I think is that I see absolutely no
+
+747
+00:34:43.978 --> 00:34:48.199
+reason why the random vagaries of evolution should have
+
+748
+00:34:48.199 --> 00:34:51.000
+a monopoly on making minds. We, we, we know
+
+749
+00:34:51.000 --> 00:34:53.929
+that, that, that over billions of years, the cosmic
+
+750
+00:34:53.929 --> 00:34:56.760
+rays and various other things that, uh, that affect,
+
+751
+00:34:56.770 --> 00:35:00.810
+um, the materials of life have enabled intelligence and,
+
+752
+00:35:00.889 --> 00:35:04.340
+and the first person. Experience to, uh, to project
+
+753
+00:35:04.340 --> 00:35:07.620
+into the physical world. Why should that be the
+
+754
+00:35:07.620 --> 00:35:09.979
+only way it happens? Why, why can't the same
+
+755
+00:35:09.979 --> 00:35:14.199
+process occur when the body is, is, is built
+
+756
+00:35:14.199 --> 00:35:16.699
+not by random chance and selection, but actually by
+
+757
+00:35:16.699 --> 00:35:20.100
+the forethought of, of intelligent engineers? I see, I
+
+758
+00:35:20.100 --> 00:35:21.780
+see no reason why, why evolution should have a
+
+759
+00:35:21.780 --> 00:35:25.110
+monopoly on this. So to the extent that You
+
+760
+00:35:25.110 --> 00:35:27.629
+believe that living things made of, made of chemicals,
+
+761
+00:35:27.830 --> 00:35:30.909
+uh, do, do in fact have mines, then some
+
+762
+00:35:30.909 --> 00:35:33.580
+combination of those things with technology, or in fact,
+
+763
+00:35:33.669 --> 00:35:37.149
+just purely technological bodies that were carefully designed by
+
+764
+00:35:37.149 --> 00:35:40.830
+intelligent engineers, not by stray random cosmic rays, should
+
+765
+00:35:40.830 --> 00:35:44.030
+have at least that level of, uh, of capability.
+
+766
+00:35:44.379 --> 00:35:47.370
+So some, so, so, so some kinds of artificial
+
+767
+00:35:47.370 --> 00:35:49.909
+beings, I think absolutely will have minds. I'm not
+
+768
+00:35:49.909 --> 00:35:52.350
+making any claims about today's AI such as language
+
+769
+00:35:52.350 --> 00:35:54.709
+models and whatnot, but, um, I, I don't, I
+
+770
+00:35:54.709 --> 00:35:57.709
+don't think there is any useful category, uh, that
+
+771
+00:35:57.709 --> 00:35:59.790
+we can say does not have a mind purely
+
+772
+00:35:59.790 --> 00:36:01.870
+because it is in some sense artificial, that, that,
+
+773
+00:36:02.070 --> 00:36:03.350
+uh, you know, I don't think that exists.
+
+774
+00:36:04.929 --> 00:36:09.290
+So changing topics now, what is regenerative medicine?
+
+775
+00:36:10.389 --> 00:36:14.050
+Well, broadly speaking, regenerative medicine is the idea that.
+
+776
+00:36:14.620 --> 00:36:19.949
+We could be, uh, activating fundamental repair processes in
+
+777
+00:36:19.949 --> 00:36:23.270
+the body to, to, to have definitive solutions to
+
+778
+00:36:23.270 --> 00:36:27.149
+things like birth defects, traumatic injury, cancer, aging, that,
+
+779
+00:36:27.270 --> 00:36:29.899
+that we're not simply providing some kind of a,
+
+780
+00:36:30.340 --> 00:36:34.310
+uh, uh, uh, a therapeutic that targets symptoms, but
+
+781
+00:36:34.310 --> 00:36:37.070
+actually restoring the tissue to, to a new and
+
+782
+00:36:37.070 --> 00:36:40.790
+healthy state. So permanent definitive solutions to, uh, problems
+
+783
+00:36:40.790 --> 00:36:41.659
+of embodiment.
+
+784
+00:36:43.209 --> 00:36:46.489
+And OK, so how can we apply, we talked
+
+785
+00:36:46.489 --> 00:36:51.560
+about collective intelligence earlier, particularly in living systems. How
+
+786
+00:36:51.560 --> 00:36:55.639
+can we apply knowledge about it to the development
+
+787
+00:36:55.639 --> 00:36:56.969
+of a new medicine?
+
+788
+00:36:58.449 --> 00:37:01.689
+Yeah, uh, well, the first thing to realize is
+
+789
+00:37:01.689 --> 00:37:06.010
+that if we had the ability to control what
+
+790
+00:37:06.010 --> 00:37:07.969
+it is that cells build, right? If we have
+
+791
+00:37:07.969 --> 00:37:10.479
+the ability to tell them exactly what to build,
+
+792
+00:37:11.330 --> 00:37:15.889
+we would immediately have the answer to, to birth
+
+793
+00:37:15.889 --> 00:37:19.330
+defects, to, uh, to injury, to degenerative disease, to
+
+794
+00:37:19.330 --> 00:37:21.209
+aging, to cancer. All, all of those things would
+
+795
+00:37:21.209 --> 00:37:23.729
+be solved if we could, uh, tell cells what
+
+796
+00:37:23.729 --> 00:37:26.989
+to build. Now, One way to think about it,
+
+797
+00:37:27.000 --> 00:37:28.879
+which is, which is kind of the mainstream approach
+
+798
+00:37:28.879 --> 00:37:32.010
+is that we should focus on the molecular hardware.
+
+799
+00:37:32.159 --> 00:37:35.360
+So this is genomic editing, pathway engineering, you know,
+
+800
+00:37:35.760 --> 00:37:38.239
+pathway rewiring, protein engineering, all those things. And, and
+
+801
+00:37:38.239 --> 00:37:40.520
+that that's how we're going to do it. That's,
+
+802
+00:37:40.600 --> 00:37:42.760
+that's one approach. I, I, I don't think that's
+
+803
+00:37:42.760 --> 00:37:45.270
+the best approach. Uh, THE other approach is to
+
+804
+00:37:45.270 --> 00:37:47.800
+realize that the, the process by which the cells
+
+805
+00:37:47.800 --> 00:37:50.270
+build and repair those structures in the first place
+
+806
+00:37:50.270 --> 00:37:52.520
+is a kind of behavior. It's the behavior of
+
+807
+00:37:52.520 --> 00:37:55.439
+the collective intelligence of cells, and therefore, we should
+
+808
+00:37:55.439 --> 00:37:57.840
+be able to use some very powerful tools from
+
+809
+00:37:57.840 --> 00:38:01.479
+behavioral science, from cognitive neuroscience, and so on, to
+
+810
+00:38:01.479 --> 00:38:05.219
+manipulate the behavior of that creature to basically communicate
+
+811
+00:38:05.219 --> 00:38:07.320
+and collaborate with it, not try to micromanage it
+
+812
+00:38:07.320 --> 00:38:10.629
+bottom up. So, our approach to regenerative medicine and,
+
+813
+00:38:10.669 --> 00:38:13.229
+and we've had now useful applications in, in, in
+
+814
+00:38:13.229 --> 00:38:15.909
+birth defects in er in limb regeneration and cancer
+
+815
+00:38:15.909 --> 00:38:19.790
+and so on, is to uh figure out uh
+
+816
+00:38:19.790 --> 00:38:24.320
+what the interfaces for, for communicating new goals to
+
+817
+00:38:24.320 --> 00:38:28.330
+the cellular collective. Uh, AND then re-specifying those goals.
+
+818
+00:38:28.449 --> 00:38:31.209
+So not trying to clamp uh specific chemical states,
+
+819
+00:38:31.330 --> 00:38:34.679
+uh, to deal with symptoms, but actually to re-specify,
+
+820
+00:38:34.929 --> 00:38:37.270
+uh, new goal states having to do with healthy,
+
+821
+00:38:37.409 --> 00:38:40.010
+uh, structure and function, and then facilitate the cells
+
+822
+00:38:40.010 --> 00:38:44.310
+to move towards those, those goal states and Um,
+
+823
+00:38:44.649 --> 00:38:47.030
+to, to do it in a way that, uh,
+
+824
+00:38:47.080 --> 00:38:49.760
+takes full advantage of the fact that these are
+
+825
+00:38:49.760 --> 00:38:53.000
+not, um, uh kind of uh passive systems that
+
+826
+00:38:53.000 --> 00:38:54.949
+have to be micromanaged every step of the way,
+
+827
+00:38:55.120 --> 00:38:58.360
+but in fact, have representations of their goals that
+
+828
+00:38:58.360 --> 00:39:01.290
+we can access. And so discovering how those goals
+
+829
+00:39:01.290 --> 00:39:04.649
+are, are encoded, which we have started to do,
+
+830
+00:39:04.969 --> 00:39:07.649
+and re-specify those goals as a kind of communication
+
+831
+00:39:07.649 --> 00:39:10.330
+process with the cells, not, not a, not a
+
+832
+00:39:10.330 --> 00:39:13.889
+micromanagement process. So that's, that, that's a different approach
+
+833
+00:39:13.889 --> 00:39:14.889
+to regenerative medicine.
+
+834
+00:39:15.760 --> 00:39:19.689
+So you mentioned cancer there very briefly. How would
+
+835
+00:39:19.689 --> 00:39:22.899
+this knowledge apply to cancer, not only when it
+
+836
+00:39:22.899 --> 00:39:26.570
+comes to understanding it, but also potentially treating it?
+
+837
+00:39:27.459 --> 00:39:29.969
+Yeah. So, so cancer, of course, is, is a
+
+838
+00:39:29.969 --> 00:39:33.850
+very multifaceted and complex disease, but, but I, I'll,
+
+839
+00:39:33.929 --> 00:39:36.310
+I'll, I'll boil it down to the kind of,
+
+840
+00:39:36.320 --> 00:39:39.570
+uh, piece of this that we study. 11 way
+
+841
+00:39:39.570 --> 00:39:43.370
+to understand cancer as basically in a dissociative identity
+
+842
+00:39:43.370 --> 00:39:46.570
+disorder of the collective intelligence. So, normally, what you
+
+843
+00:39:46.570 --> 00:39:49.850
+have in morphogenesis is a large number of cells
+
+844
+00:39:49.850 --> 00:39:53.020
+that have all bought into the same. A vision
+
+845
+00:39:53.020 --> 00:39:55.629
+of where they're going in anatomical space. They're maintaining
+
+846
+00:39:55.629 --> 00:39:58.030
+or building a nice organ, a healthy, you know,
+
+847
+00:39:58.260 --> 00:40:01.469
+uh, tissues, whatever. What is it that allows all
+
+848
+00:40:01.469 --> 00:40:03.620
+of them to share that same vision of what
+
+849
+00:40:03.620 --> 00:40:06.270
+they should be doing? Well, it is a connection
+
+850
+00:40:06.270 --> 00:40:09.389
+between them, an information processing connection between them, which
+
+851
+00:40:09.389 --> 00:40:13.270
+is biochemical, bioelectrical and biomechanical, that allows them to
+
+852
+00:40:13.270 --> 00:40:16.219
+form a network where the network stores a memory
+
+853
+00:40:16.219 --> 00:40:19.709
+that none of the individual cells can access. And
+
+854
+00:40:19.709 --> 00:40:22.790
+uh what happens, both during evolution and development is
+
+855
+00:40:22.790 --> 00:40:25.790
+that cells join into these networks and that allows
+
+856
+00:40:25.790 --> 00:40:30.310
+them to radically raise their uh uh the cognitive
+
+857
+00:40:30.310 --> 00:40:32.780
+capacity to be able to store and, and work
+
+858
+00:40:32.780 --> 00:40:35.469
+on these grandiose projects like making an entire organ,
+
+859
+00:40:35.550 --> 00:40:37.310
+making a, uh, you know, a limb with, with,
+
+860
+00:40:37.350 --> 00:40:40.879
+with fingers and all of that. So Once you
+
+861
+00:40:40.879 --> 00:40:44.560
+think about that, that, uh, that process, it's pretty
+
+862
+00:40:44.560 --> 00:40:46.389
+obvious that there's going to be a failure mode.
+
+863
+00:40:46.560 --> 00:40:48.879
+The failure mode is that, is, is what happens
+
+864
+00:40:48.879 --> 00:40:52.760
+when individual cells disconnect from that network. When an
+
+865
+00:40:52.760 --> 00:40:56.419
+individual cell disconnects from that network, then What happens
+
+866
+00:40:56.419 --> 00:40:58.939
+is that it can no longer access the memories
+
+867
+00:40:58.939 --> 00:41:01.219
+that it that it was working on. The cognitive
+
+868
+00:41:01.219 --> 00:41:04.419
+light cone shrinks drastically. So whereas before, the size
+
+869
+00:41:04.419 --> 00:41:05.860
+of the gold that it was working on was
+
+870
+00:41:05.860 --> 00:41:07.699
+quite large, let's say a liver or something like
+
+871
+00:41:07.699 --> 00:41:09.530
+that. That was the size of the cognitive lycone.
+
+872
+00:41:09.699 --> 00:41:12.770
+Single cell disconnects, now it shrinks down to the
+
+873
+00:41:12.770 --> 00:41:15.419
+size to the, to the kind of uh uh
+
+874
+00:41:15.419 --> 00:41:17.514
+scale of goals that single cells have. What are,
+
+875
+00:41:17.584 --> 00:41:19.614
+what do single cells know how to do? Proliferate,
+
+876
+00:41:19.784 --> 00:41:22.544
+migrate, and, uh, uh, eat as much as it
+
+877
+00:41:22.544 --> 00:41:24.745
+wants and dump entropy into the environment. And so
+
+878
+00:41:24.745 --> 00:41:27.504
+that's metastasis. And so what happens then is that
+
+879
+00:41:27.504 --> 00:41:32.175
+an integrated coherent entity fragments, and its fragments, uh,
+
+880
+00:41:32.304 --> 00:41:35.745
+roll backwards to a very ancient lifestyle, where, where
+
+881
+00:41:35.745 --> 00:41:37.145
+as far as they're concerned, the rest of the
+
+882
+00:41:37.145 --> 00:41:39.899
+body is just outside environment. So what's happened there
+
+883
+00:41:39.899 --> 00:41:41.929
+is that the boundary between self and world has
+
+884
+00:41:41.929 --> 00:41:45.610
+shrunk drastically. These cancer cells are not more selfish,
+
+885
+00:41:45.739 --> 00:41:49.080
+unlike what, um, some, uh, game theory, uh, um,
+
+886
+00:41:49.139 --> 00:41:51.979
+kind of approaches take. They're, they're not less cooperative.
+
+887
+00:41:52.020 --> 00:41:54.729
+They're not more selfish. They just have smaller selves.
+
+888
+00:41:55.020 --> 00:41:57.159
+And so that boundary between self and world can,
+
+889
+00:41:57.300 --> 00:42:00.379
+can shrink, and that's, and that's cancer. So, that
+
+890
+00:42:00.379 --> 00:42:02.580
+kind of, that kind of unconventional model of cancer
+
+891
+00:42:02.580 --> 00:42:05.659
+makes a, makes a very specific prediction. It suggests
+
+892
+00:42:05.659 --> 00:42:08.989
+that when that happens, You may not necessarily need
+
+893
+00:42:08.989 --> 00:42:11.449
+to have, you need to kill the cell. You
+
+894
+00:42:11.449 --> 00:42:14.379
+may not necessarily need to fix the genetic damage
+
+895
+00:42:14.379 --> 00:42:15.889
+or whatever other kind of and it doesn't have
+
+896
+00:42:15.889 --> 00:42:18.090
+to be genetic, but whatever other kind of damage
+
+897
+00:42:18.090 --> 00:42:21.959
+caused that, that problem, it might be fixable by
+
+898
+00:42:21.959 --> 00:42:24.540
+reconnecting that cell to the rest of, uh, to
+
+899
+00:42:24.540 --> 00:42:26.489
+the rest of the network. And we've done this
+
+900
+00:42:26.489 --> 00:42:28.709
+in animal models. We've actually shown this, that if
+
+901
+00:42:28.709 --> 00:42:32.030
+you put really nasty human oncogenes into a, uh,
+
+902
+00:42:32.139 --> 00:42:34.699
+into a tadpole embryo, they Will make tumors. But
+
+903
+00:42:34.699 --> 00:42:37.500
+if you force those cells to remain connected to
+
+904
+00:42:37.500 --> 00:42:40.379
+the other neighbors, even and, and have an appropriate
+
+905
+00:42:40.379 --> 00:42:44.820
+bi electrical state, even though, uh, the, the mutation
+
+906
+00:42:44.820 --> 00:42:46.379
+is very strong, you know, it's very strong and
+
+907
+00:42:46.379 --> 00:42:48.379
+it's present. You don't kill the cells, you don't
+
+908
+00:42:48.379 --> 00:42:50.500
+fix the mutation, but there's no, there's no tumor.
+
+909
+00:42:50.639 --> 00:42:54.070
+You, you, you prevent or, or uh reverse tumorgenesis
+
+910
+00:42:54.620 --> 00:42:56.820
+because the cells now become part of that network
+
+911
+00:42:56.820 --> 00:42:58.340
+and they just start working on the thing they
+
+912
+00:42:58.340 --> 00:43:00.770
+were supposed to be working on. So that's, that,
+
+913
+00:43:00.840 --> 00:43:05.239
+that idea of, of rescaling the, uh, the anatomical,
+
+914
+00:43:05.250 --> 00:43:09.290
+um, goals that, that group um groups of cells
+
+915
+00:43:09.290 --> 00:43:11.570
+work on is a different approach to cancer and
+
+916
+00:43:11.570 --> 00:43:13.290
+that's what we're doing now. And, and we've moved
+
+917
+00:43:13.290 --> 00:43:15.479
+from the frog model into uh into the human
+
+918
+00:43:15.810 --> 00:43:18.639
+uh X vivo tissues and hopefully someday into patients.
+
+919
+00:43:20.070 --> 00:43:23.020
+Do you think that an understanding of a biological
+
+920
+00:43:23.020 --> 00:43:26.830
+system as a dynamic system, how it operates at
+
+921
+00:43:26.830 --> 00:43:30.510
+different scales, and the fact that it has multiple
+
+922
+00:43:30.510 --> 00:43:34.820
+levels of organization would have implications as to how
+
+923
+00:43:34.820 --> 00:43:37.510
+we understand causation in biology.
+
+924
+00:43:39.300 --> 00:43:41.370
+Yeah, I think, I think all of this stuff
+
+925
+00:43:41.620 --> 00:43:44.179
+impacts uh how we, how we think about causation
+
+926
+00:43:44.179 --> 00:43:49.439
+because. Well, first of all, the perennial question of
+
+927
+00:43:49.669 --> 00:43:53.379
+which level of organization is the most causally potent.
+
+928
+00:43:53.590 --> 00:43:55.530
+So the reductionist view would say that it's the
+
+929
+00:43:55.530 --> 00:43:59.389
+lowest level. And, uh, this has been an argument
+
+930
+00:43:59.389 --> 00:44:01.870
+for probably thousands of years now. Now, there's been
+
+931
+00:44:01.870 --> 00:44:04.780
+some amazing advances in the last few decades where
+
+932
+00:44:05.000 --> 00:44:11.469
+uh people have actually developed, um, computational models for
+
+933
+00:44:11.469 --> 00:44:13.840
+asking that question in a very rigorous way. So,
+
+934
+00:44:13.989 --> 00:44:17.110
+um, And so, so, uh, there, there's, there are
+
+935
+00:44:17.110 --> 00:44:20.260
+aspects of, uh, information theory now that can actually,
+
+936
+00:44:20.550 --> 00:44:23.510
+at least for some systems can do the computation
+
+937
+00:44:23.510 --> 00:44:26.060
+and tell you which level does the most work.
+
+938
+00:44:26.389 --> 00:44:28.830
+And, uh, it's often not that it's in fact,
+
+939
+00:44:29.469 --> 00:44:32.199
+sometimes not the lowest level. Uh, SO that's, that's,
+
+940
+00:44:32.270 --> 00:44:34.550
+that's kind of amazing that that philosophical question has
+
+941
+00:44:34.550 --> 00:44:37.629
+now been turned into a very, very, uh, very
+
+942
+00:44:37.629 --> 00:44:40.750
+practical, um, uh, kind of, uh, rigorous calculation that
+
+943
+00:44:40.750 --> 00:44:44.070
+you can do. And The thing about the, the,
+
+944
+00:44:44.159 --> 00:44:47.179
+the, to me, the interesting thing about causation is
+
+945
+00:44:47.669 --> 00:44:51.070
+that what we're looking for is the most efficient
+
+946
+00:44:51.070 --> 00:44:54.270
+way to interact with the system. We're looking for
+
+947
+00:44:54.270 --> 00:44:58.270
+ways to change what the system is doing to
+
+948
+00:44:58.270 --> 00:45:00.629
+uh to, to control it in, in certain cases
+
+949
+00:45:00.629 --> 00:45:03.070
+or to collaborate with it or, or whatever. And
+
+950
+00:45:03.070 --> 00:45:05.669
+that means that we have to really understand the
+
+951
+00:45:05.669 --> 00:45:09.350
+causal architecture of the, of the system. And so,
+
+952
+00:45:10.090 --> 00:45:13.169
+Uh, my claim is, and much like with, with
+
+953
+00:45:13.169 --> 00:45:15.810
+neuroscience, you know, the reason that we were able
+
+954
+00:45:15.810 --> 00:45:19.169
+to train dogs and horses, uh, thousands of years
+
+955
+00:45:19.169 --> 00:45:22.050
+before we knew any neuroscience is because their causal
+
+956
+00:45:22.050 --> 00:45:25.530
+architecture has this amazing feature that it enables a
+
+957
+00:45:25.530 --> 00:45:27.729
+learning interface on the outside, meaning that you can
+
+958
+00:45:27.729 --> 00:45:29.659
+give rewards and punishments, and you don't have to
+
+959
+00:45:29.659 --> 00:45:32.500
+know anything that's underneath. The system itself will do
+
+960
+00:45:32.500 --> 00:45:36.330
+all the other adjustments, meaning adjust all the chemical
+
+961
+00:45:36.330 --> 00:45:39.379
+processes, the synaptic machinery, the neuronal growths, all, all
+
+962
+00:45:39.379 --> 00:45:41.020
+that stuff will get adjusted. You don't need to
+
+963
+00:45:41.020 --> 00:45:42.689
+do it. The system itself will do it all,
+
+964
+00:45:42.739 --> 00:45:44.699
+all, you can just operate at this, at this
+
+965
+00:45:44.699 --> 00:45:48.139
+very, very high level. So, um, that's, that's something
+
+966
+00:45:48.139 --> 00:45:50.419
+that I think is very important to understand about
+
+967
+00:45:50.419 --> 00:45:52.770
+other aspects of biology that are not about, uh,
+
+968
+00:45:52.780 --> 00:45:56.000
+conventional behavior and brains and so on, to understand
+
+969
+00:45:56.000 --> 00:45:58.820
+what kind of interfaces are there that give you
+
+970
+00:45:58.820 --> 00:46:01.540
+maximal causal purchase on that system, so that you're
+
+971
+00:46:01.540 --> 00:46:03.510
+not always operating bottom up.
+
+972
+00:46:05.409 --> 00:46:07.699
+So I want to ask you about a very
+
+973
+00:46:07.699 --> 00:46:10.959
+interesting article that you wrote on life after death,
+
+974
+00:46:10.989 --> 00:46:13.790
+and I have two questions about it. So, first,
+
+975
+00:46:13.909 --> 00:46:18.469
+could you tell us about the thanato transcriptum? And
+
+976
+00:46:18.469 --> 00:46:21.290
+second, could you tell us about the. THAT we
+
+977
+00:46:21.290 --> 00:46:24.169
+could have a life cycle where after the death
+
+978
+00:46:24.169 --> 00:46:29.370
+of multicellular organisms, individual cells would live on or
+
+979
+00:46:29.370 --> 00:46:35.330
+even reboot multicellularity and aggregate into novel functional anatomical
+
+980
+00:46:35.330 --> 00:46:35.850
+forms.
+
+981
+00:46:36.620 --> 00:46:38.550
+Sure, yeah. I mean, so, so that wasn't just
+
+982
+00:46:38.550 --> 00:46:40.419
+my paper that I was, I was part of
+
+983
+00:46:40.419 --> 00:46:42.780
+a team that's been working for, for some years
+
+984
+00:46:42.780 --> 00:46:46.860
+now to understand the thanato transcriptome, which is, is
+
+985
+00:46:46.860 --> 00:46:50.050
+a very interesting discovery. It turns out that, uh,
+
+986
+00:46:50.189 --> 00:46:54.100
+at the moment of death, both uh in, in
+
+987
+00:46:54.100 --> 00:46:58.209
+model systems and in human patients, uh, cells turn
+
+988
+00:46:58.209 --> 00:47:01.120
+on a whole bunch of new genes. And that,
+
+989
+00:47:01.159 --> 00:47:03.679
+that's, that's kind of odd because, uh, you know,
+
+990
+00:47:03.760 --> 00:47:06.719
+why would you be like turning, turning genes off?
+
+991
+00:47:06.919 --> 00:47:09.389
+Well, genes being turned off at death makes sense
+
+992
+00:47:09.389 --> 00:47:11.360
+because metabolism is failing and so on, that, that's
+
+993
+00:47:11.360 --> 00:47:14.280
+pretty obvious. But why, why would cells actually be
+
+994
+00:47:14.280 --> 00:47:16.389
+turning on genes and leads to all sorts of
+
+995
+00:47:16.389 --> 00:47:19.479
+interesting questions about purpose and causation. For example, some,
+
+996
+00:47:19.600 --> 00:47:22.679
+some philosophers wonder, does it even make sense to
+
+997
+00:47:22.679 --> 00:47:24.639
+say that there's a purpose for them to turn
+
+998
+00:47:24.639 --> 00:47:26.399
+it on, since they're dying? What could the purpose
+
+999
+00:47:26.399 --> 00:47:29.909
+be? Uh, I'm, I'm more interested in the fact
+
+1000
+00:47:29.909 --> 00:47:32.929
+that What this is really telling us is again
+
+1001
+00:47:32.929 --> 00:47:35.889
+about this relationship between parts and holes. So, when
+
+1002
+00:47:35.889 --> 00:47:38.330
+the organism dies, in fact, most of the cells
+
+1003
+00:47:38.330 --> 00:47:42.120
+are perfectly fine. And that's, that's an interesting question
+
+1004
+00:47:42.370 --> 00:47:44.129
+as to, uh, first of all, what does it
+
+1005
+00:47:44.129 --> 00:47:47.409
+actually mean for the collective to, to, to quote
+
+1006
+00:47:47.409 --> 00:47:50.169
+unquote die? And, you know, it seems a little
+
+1007
+00:47:50.169 --> 00:47:53.330
+more obvious in, in, um, uh, in. THAN it
+
+1008
+00:47:53.330 --> 00:47:55.050
+does, for example, you know, when you, when you
+
+1009
+00:47:55.050 --> 00:47:56.330
+buy a cabbage and you bring it home and
+
+1010
+00:47:56.330 --> 00:47:59.330
+you put it in your fridge, at what point
+
+1011
+00:47:59.330 --> 00:48:01.979
+do you think it's actually dead, right? That's, that's
+
+1012
+00:48:01.979 --> 00:48:05.610
+not clear at all. And even for humans, what's
+
+1013
+00:48:05.610 --> 00:48:08.280
+considered perfectly dead, uh, you know, 100 years ago
+
+1014
+00:48:08.280 --> 00:48:11.889
+is now a totally solvable problem in, in modern
+
+1015
+00:48:11.889 --> 00:48:14.050
+trauma, trauma medicine in the, in the, in the
+
+1016
+00:48:14.050 --> 00:48:17.010
+emergency room. So, and, and lots of people are
+
+1017
+00:48:17.010 --> 00:48:19.729
+working on different, different types of reanimation and things
+
+1018
+00:48:19.729 --> 00:48:22.110
+like that. So, So I'm interested in this, in
+
+1019
+00:48:22.110 --> 00:48:26.830
+this question of where and how does the collective
+
+1020
+00:48:26.830 --> 00:48:29.030
+uh disband and what, what does that mean for
+
+1021
+00:48:29.030 --> 00:48:31.060
+its individual cells. And I'll tell you a a
+
+1022
+00:48:31.070 --> 00:48:34.070
+a a very specific experimental approach that we've taken
+
+1023
+00:48:34.070 --> 00:48:36.919
+to this. Which um has to do with something
+
+1024
+00:48:36.919 --> 00:48:40.639
+we now call anthrobots. So, it turns out that
+
+1025
+00:48:40.639 --> 00:48:44.010
+uh tracheal epithelial cells from the airway of human
+
+1026
+00:48:44.010 --> 00:48:47.659
+uh donors can be cultured in a particular, uh,
+
+1027
+00:48:47.699 --> 00:48:51.360
+uh, protocol that enables them to self-assemble into a
+
+1028
+00:48:51.360 --> 00:48:54.709
+novel, uh kind of uh configuration. They make this
+
+1029
+00:48:54.709 --> 00:48:57.370
+round little, little thing that has cilia on the
+
+1030
+00:48:57.370 --> 00:49:00.669
+outside, so it swims around. And it's a self
+
+1031
+00:49:00.669 --> 00:49:03.590
+motile little creature that has, uh, you know, uh,
+
+1032
+00:49:03.699 --> 00:49:07.060
+4 different kinds of behavior patterns and lots of
+
+1033
+00:49:07.060 --> 00:49:10.270
+interesting capabilities, including the capability to heal neural wounds
+
+1034
+00:49:10.270 --> 00:49:13.620
+in its vicinity and, and probably much more. Um,
+
+1035
+00:49:14.149 --> 00:49:16.060
+IT'S very, it's a, it's a very interesting little
+
+1036
+00:49:16.060 --> 00:49:19.550
+creature, but the, the other, the other interesting thing
+
+1037
+00:49:19.550 --> 00:49:21.600
+is that the donor may or may not be
+
+1038
+00:49:21.600 --> 00:49:26.250
+alive. So, This is, uh, this is a situation
+
+1039
+00:49:26.250 --> 00:49:29.889
+where the original body, uh, may be quote unquote
+
+1040
+00:49:29.889 --> 00:49:33.600
+dead. The original human owner may be gone, but
+
+1041
+00:49:33.969 --> 00:49:36.489
+the, the cells, and in fact, not just individual
+
+1042
+00:49:36.489 --> 00:49:38.379
+cells, the way we have with, with cell culture
+
+1043
+00:49:38.379 --> 00:49:40.560
+like healer cells and things like that. Not only,
+
+1044
+00:49:40.760 --> 00:49:42.649
+not only the individual cells, but actually there's a
+
+1045
+00:49:42.649 --> 00:49:44.969
+new organism. Um, THERE'S a new kind of creature
+
+1046
+00:49:44.969 --> 00:49:47.370
+that's going to live for, uh, at least 5
+
+1047
+00:49:47.370 --> 00:49:50.350
+weeks, and, uh, the, the original donor may or
+
+1048
+00:49:50.350 --> 00:49:53.489
+may not be alive. So, you know, we can
+
+1049
+00:49:53.489 --> 00:49:55.209
+think that we can, we can talk about life
+
+1050
+00:49:55.209 --> 00:49:58.129
+after death of individual cells and why the cells
+
+1051
+00:49:58.129 --> 00:50:02.169
+are turning on um certain, certain genes. Uh, MY
+
+1052
+00:50:02.169 --> 00:50:05.649
+hypothesis about all of that is that Uh, the
+
+1053
+00:50:05.649 --> 00:50:07.290
+cells are getting ready to go out on their
+
+1054
+00:50:07.290 --> 00:50:10.050
+own. Now, in a, in a mammal, obviously, that's
+
+1055
+00:50:10.050 --> 00:50:11.770
+not going to work because they're in dry air.
+
+1056
+00:50:11.810 --> 00:50:15.370
+And unless there's a, uh, a bioengineer, uh, like,
+
+1057
+00:50:15.489 --> 00:50:17.649
+like, uh, so that's, that's able to take these
+
+1058
+00:50:17.649 --> 00:50:19.449
+cells and bring them into a new environment and
+
+1059
+00:50:19.449 --> 00:50:21.570
+let them become anthrobots or cell culture or something
+
+1060
+00:50:21.570 --> 00:50:23.689
+else, it's not going to work. But I, I
+
+1061
+00:50:23.689 --> 00:50:26.649
+think, I think that reality just hasn't caught up
+
+1062
+00:50:26.649 --> 00:50:28.979
+to them yet. And I think they're doing what,
+
+1063
+00:50:29.270 --> 00:50:32.669
+uh, uh, uh, um, a fish and amphibian cells
+
+1064
+00:50:32.669 --> 00:50:35.149
+could do, which is, you know, if you think
+
+1065
+00:50:35.149 --> 00:50:36.639
+about, if you think about a frog or a,
+
+1066
+00:50:36.659 --> 00:50:39.870
+or a fish dying in a pond somewhere, there's
+
+1067
+00:50:39.870 --> 00:50:42.300
+no particular reason that some of the cells couldn't,
+
+1068
+00:50:42.429 --> 00:50:45.350
+uh, uh, exit the body and live as amoebas,
+
+1069
+00:50:45.510 --> 00:50:47.389
+right? That this is, this is how many different
+
+1070
+00:50:47.389 --> 00:50:49.629
+unicellular organisms live, and they may or may not
+
+1071
+00:50:49.629 --> 00:50:52.270
+come together into a, into a Xenabbo or something
+
+1072
+00:50:52.270 --> 00:50:55.159
+similar later. But at least, at least in principle,
+
+1073
+00:50:55.899 --> 00:50:58.459
+Uh, this, the death of the body does not
+
+1074
+00:50:58.459 --> 00:51:01.580
+mean the death of the cells necessarily. And so
+
+1075
+00:51:01.580 --> 00:51:04.100
+some of that thanat or transcriptome may be cells
+
+1076
+00:51:04.100 --> 00:51:06.219
+that are getting ready for a new life. And
+
+1077
+00:51:06.219 --> 00:51:08.489
+in fact, we've, we've looked at the transcriptome of
+
+1078
+00:51:08.489 --> 00:51:15.169
+the anthrobots, and they transcriptome is radically altered from
+
+1079
+00:51:15.459 --> 00:51:18.100
+the, uh, from, from that of, of their donor
+
+1080
+00:51:18.100 --> 00:51:21.500
+cells. About 9000 genes are differently transcribed. That's about
+
+1081
+00:51:21.500 --> 00:51:24.500
+half the genome. So they have massively different uh
+
+1082
+00:51:24.500 --> 00:51:27.975
+gene expression than uh than the original cells. And
+
+1083
+00:51:27.985 --> 00:51:29.985
+we didn't touch their DNA. We didn't give them
+
+1084
+00:51:29.985 --> 00:51:32.504
+any synthetic biology circuits. We didn't put in any
+
+1085
+00:51:32.504 --> 00:51:36.104
+weird drugs or nanomaterials. It's just a different lifestyle
+
+1086
+00:51:36.104 --> 00:51:37.824
+and the ability to go on when the original
+
+1087
+00:51:37.824 --> 00:51:40.544
+body is dead. And, uh, yeah, I think, I
+
+1088
+00:51:40.544 --> 00:51:42.425
+think, I think cells are pretty, pretty willing to
+
+1089
+00:51:42.425 --> 00:51:42.745
+do that.
+
+1090
+00:51:43.770 --> 00:51:48.379
+Uh, BUT multicellularity can be rebooted afterwards.
+
+1091
+00:51:49.260 --> 00:51:52.449
+Apparently, yeah. I mean, no one, no one would
+
+1092
+00:51:52.449 --> 00:51:55.169
+have, uh, would have known looking at the, at
+
+1093
+00:51:55.169 --> 00:51:57.570
+the standard human genome. Well, first of all, let's
+
+1094
+00:51:57.570 --> 00:52:00.209
+be, let's be clear. Look at the human genome,
+
+1095
+00:52:00.250 --> 00:52:01.969
+if you didn't already know what a human was,
+
+1096
+00:52:02.010 --> 00:52:04.739
+you couldn't know. What the standard pattern is going
+
+1097
+00:52:04.739 --> 00:52:07.260
+to be anyway. But certainly, knowing what a human
+
+1098
+00:52:07.260 --> 00:52:11.419
+is, uh, you would not know that anthrobots would
+
+1099
+00:52:11.419 --> 00:52:13.739
+be possible or would have these specific properties, you
+
+1100
+00:52:13.739 --> 00:52:17.139
+know, specific classes of behavior, uh, with specific transition
+
+1101
+00:52:17.139 --> 00:52:19.870
+probabilities between those behaviors, and then the ability to
+
+1102
+00:52:19.870 --> 00:52:22.020
+heal neural wounds and some other interesting things that
+
+1103
+00:52:22.020 --> 00:52:26.500
+they do. So, so apparently you can reboot multicellularity.
+
+1104
+00:52:26.540 --> 00:52:28.139
+We've done the same thing in, uh, in what
+
+1105
+00:52:28.139 --> 00:52:32.979
+we call Xenabbots. So, these are, um, Uh, these
+
+1106
+00:52:32.979 --> 00:52:36.780
+are similar types of, uh, uh, autonomous biobot structures
+
+1107
+00:52:36.780 --> 00:52:40.020
+that are made from a frog, um, epithelial cells.
+
+1108
+00:52:40.689 --> 00:52:43.739
+And they also, uh, yeah, they also get together
+
+1109
+00:52:43.739 --> 00:52:46.139
+and, and form a different pattern and have, have
+
+1110
+00:52:46.139 --> 00:52:49.300
+behaviors that are distinct from, from their original tissues.
+
+1111
+00:52:50.429 --> 00:52:54.429
+Mhm. And would it be possible for the individual
+
+1112
+00:52:54.429 --> 00:52:58.870
+cells to retain some information from the organism they
+
+1113
+00:52:58.870 --> 00:52:59.699
+were part of?
+
+1114
+00:53:01.120 --> 00:53:03.379
+I, I think it's certainly possible. We haven't shown
+
+1115
+00:53:03.379 --> 00:53:07.379
+it yet. We are, we are doing, uh, experiments
+
+1116
+00:53:07.379 --> 00:53:10.379
+on this. You can imagine, you know, I'll just
+
+1117
+00:53:10.379 --> 00:53:12.290
+give you one version of a very simple one.
+
+1118
+00:53:13.540 --> 00:53:16.139
+LET'S say that you take these tracheal cells from
+
+1119
+00:53:16.139 --> 00:53:18.500
+a donor that was a smoker. So you take
+
+1120
+00:53:18.500 --> 00:53:22.850
+the tracheal cells, they make an anthrobot. Now, you
+
+1121
+00:53:22.850 --> 00:53:25.250
+could ask a simple question. Does the anthrobot move
+
+1122
+00:53:25.250 --> 00:53:29.489
+preferentially towards nicotine, right? Does the anthrobot have similar
+
+1123
+00:53:29.489 --> 00:53:31.770
+addictions that the, that the owner had? And if
+
+1124
+00:53:31.770 --> 00:53:33.810
+you were to take that anthrobot and implant it
+
+1125
+00:53:33.810 --> 00:53:36.129
+into another body, let's say a rat or something
+
+1126
+00:53:36.129 --> 00:53:38.459
+like that, would there be any evidence of the
+
+1127
+00:53:38.459 --> 00:53:40.580
+behaviors, right? I have no idea. I'm not claiming
+
+1128
+00:53:40.580 --> 00:53:42.800
+that this works. We have not shown this yet,
+
+1129
+00:53:43.050 --> 00:53:46.770
+but because of, uh, all kinds of work going
+
+1130
+00:53:46.770 --> 00:53:49.939
+back decades and more recently by um Uh, by
+
+1131
+00:53:49.939 --> 00:53:54.050
+Glanzman and others, uh, showing that, uh, that, that,
+
+1132
+00:53:54.179 --> 00:53:57.100
+that memories can propagate in very, very unusual media
+
+1133
+00:53:57.100 --> 00:53:59.500
+like RNA and things like that. I see, I
+
+1134
+00:53:59.500 --> 00:54:02.139
+see no reason in principle why certain kinds of
+
+1135
+00:54:02.139 --> 00:54:04.139
+memories couldn't move along in tissue.
+
+1136
+00:54:05.510 --> 00:54:09.229
+But then that would mean that some information from
+
+1137
+00:54:09.229 --> 00:54:13.139
+the original organism could be retained after death.
+
+1138
+00:54:14.189 --> 00:54:17.149
+I, I, I, it seems, it seems perfectly possible
+
+1139
+00:54:17.149 --> 00:54:18.429
+to me. I don't, I don't think this has
+
+1140
+00:54:18.429 --> 00:54:22.030
+been, this has been shown yet, but it seems
+
+1141
+00:54:22.030 --> 00:54:23.110
+not impossible.
+
+1142
+00:54:24.889 --> 00:54:28.250
+Great. So, Doctor Levin, before we go, would you
+
+1143
+00:54:28.250 --> 00:54:30.610
+like to tell people where they can find you
+
+1144
+00:54:30.610 --> 00:54:32.550
+and your work on the internet?
+
+1145
+00:54:33.129 --> 00:54:35.409
+Um, SURE, and, and, and maybe, uh, I'll, I'll
+
+1146
+00:54:35.409 --> 00:54:36.570
+give you the actual links you can put it
+
+1147
+00:54:36.570 --> 00:54:38.570
+in the show notes or whatever, but, uh, all
+
+1148
+00:54:38.570 --> 00:54:43.679
+my official stuff is that Uh, drlen.org, one word,
+
+1149
+00:54:43.919 --> 00:54:47.310
+drlen.org. That's my lab website that has all the,
+
+1150
+00:54:47.590 --> 00:54:50.000
+uh, you know, all the peer-reviewed papers, the data
+
+1151
+00:54:50.000 --> 00:54:52.639
+sets, the software, everything else. And, um, if you
+
+1152
+00:54:52.639 --> 00:54:55.280
+want to see my own kind of more personal
+
+1153
+00:54:55.280 --> 00:54:57.439
+thoughts on what all of this means, it's at
+
+1154
+00:54:57.439 --> 00:55:02.639
+a blog called thoughtforms.life, 11 word, thoughtforms.life. And that's,
+
+1155
+00:55:02.760 --> 00:55:04.530
+that's a, that's a blog where I talk about,
+
+1156
+00:55:04.540 --> 00:55:06.169
+uh, what I think these papers mean and some
+
+1157
+00:55:06.169 --> 00:55:06.639
+other things.
+
+1158
+00:55:07.840 --> 00:55:09.780
+Great, I will be leaving links to that in
+
+1159
+00:55:09.780 --> 00:55:12.560
+the description of the interview, and Doctor Levin, thank
+
+1160
+00:55:12.560 --> 00:55:14.719
+you so much again for taking the time to
+
+1161
+00:55:14.719 --> 00:55:16.639
+come on the show. It's been a real pleasure
+
+1162
+00:55:16.639 --> 00:55:17.389
+to talk with you.
+
+1163
+00:55:17.479 --> 00:55:19.159
+I appreciate that. Thanks so much. Yeah, thanks for
+
+1164
+00:55:19.159 --> 00:55:19.560
+having me.
+
+1165
+00:55:20.629 --> 00:55:23.149
+Hi guys, thank you for watching this interview until
+
+1166
+00:55:23.149 --> 00:55:25.290
+the end. If you liked it, please share it,
+
+1167
+00:55:25.469 --> 00:55:28.260
+leave a like and hit the subscription button. The
+
+1168
+00:55:28.260 --> 00:55:30.459
+show is brought to you by Nights Learning and
+
+1169
+00:55:30.459 --> 00:55:34.540
+Development done differently, check their website at Nights.com and
+
+1170
+00:55:34.540 --> 00:55:38.260
+also please consider supporting the show on Patreon or
+
+1171
+00:55:38.260 --> 00:55:40.739
+PayPal. I would also like to give a huge
+
+1172
+00:55:40.739 --> 00:55:44.169
+thank you to my main patrons and PayPal supporters
+
+1173
+00:55:44.169 --> 00:55:48.100
+Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf,
+
+1174
+00:55:48.179 --> 00:55:51.429
+Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis,
+
+1175
+00:55:51.560 --> 00:55:54.850
+Erika Lenny, John Connors, Philip Fors Connolly. Then the
+
+1176
+00:55:54.850 --> 00:55:58.649
+Mari Robert Windegaruyasi Zu Mark Nes calling in Holbrookfield
+
+1177
+00:55:58.649 --> 00:56:03.439
+governor Michael Stormir Samuel Andrea, Francis Forti Agnunseroro and
+
+1178
+00:56:03.439 --> 00:56:07.209
+Hal Herzognun Macha Joan La Jusent and the Samuel
+
+1179
+00:56:07.209 --> 00:56:11.290
+Curriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran
+
+1180
+00:56:11.290 --> 00:56:15.459
+David Sloan Wilson, Asila dearraujoro and Roach Diego Londonorea.
+
+1181
+00:56:15.840 --> 00:56:21.810
+Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynalebaa medicine,
+
+1182
+00:56:21.879 --> 00:56:26.469
+Gary Galman Samov Zaledrianei Poltonin John Barboza, Julian Price,
+
+1183
+00:56:26.760 --> 00:56:31.199
+Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon
+
+1184
+00:56:31.199 --> 00:56:35.679
+Scorteus Slelisky, Scott Zachary Fish Tim Duffyani Smith John
+
+1185
+00:56:35.679 --> 00:56:40.620
+Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai
+
+1186
+00:56:40.620 --> 00:56:45.120
+Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the
+
+1187
+00:56:45.120 --> 00:56:49.669
+Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez,
+
+1188
+00:56:49.699 --> 00:56:53.919
+Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old
+
+1189
+00:56:53.919 --> 00:56:58.830
+Heringbo. Sterry Michael Bailey, then Sperber, Robert Grassy Zigoren,
+
+1190
+00:56:58.989 --> 00:57:03.429
+Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas
+
+1191
+00:57:03.429 --> 00:57:07.760
+Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert,
+
+1192
+00:57:07.909 --> 00:57:13.260
+Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George
+
+1193
+00:57:13.260 --> 00:57:18.489
+Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert,
+
+1194
+00:57:19.310 --> 00:57:25.149
+Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner,
+
+1195
+00:57:25.270 --> 00:57:30.620
+Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine,
+
+1196
+00:57:30.870 --> 00:57:34.054
+and Jos Net. A special thanks to my producers.
+
+1197
+00:57:34.165 --> 00:57:37.034
+These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden,
+
+1198
+00:57:37.135 --> 00:57:41.655
+Bernardin Curtis Dixon, Benedict Muller, Thomas Trumbull, Catherine and
+
+1199
+00:57:41.655 --> 00:57:44.885
+Patrick Tobin, Gian Carlo Montenegroal N Cortiz and Nick
+
+1200
+00:57:44.885 --> 00:57:48.415
+Golden, and to my executive producers Matthew Levender, Sergio
+
+1201
+00:57:48.415 --> 00:57:51.645
+Quadrian, Bogdan Kanivets, and Rosie. Thank you for all.
+
