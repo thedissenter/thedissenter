@@ -11,7 +11,9 @@
 		"Biology"
 	],
 	"title": "#1034 Elise Zipkin: Population Dynamics, Biodiversity, and Climate Change",
-	"youtubeid": "g0YDlutehzA"
+	"vtt": "1034.vtt",
+	"youtubeid": "g0YDlutehzA",
+	"transcript": "1034.lines.json"
 }
 ---
 RECORDED ON AUGUST 27th 2024.  

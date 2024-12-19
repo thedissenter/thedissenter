@@ -1,0 +1,267 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. I'm your host, as always, Ricardo Lopes and. I'm joined by Doctor Elise Zipkin. She's Red several distinguished professor and director of the Ecology, Evolution and Behavior Program in the Department of Integrative Biology at Michigan State University. And today we're going to focus on topics such as animal population dynamics, species distribution, biodiversity, human activities, conservation, invasive invasive species, and climate change and some other related topics. So, Doctor Zipkin, welcome to the show. It's a pleasure to"
+	},
+	{
+		"start_time": "00:36",
+		"speaker": "Elise Zipkin",
+		"words": "everyone. Thank you so much for the invitation."
+	},
+	{
+		"start_time": "00:39",
+		"speaker": "Ricardo Lopes",
+		"words": "So, perhaps, uh before we get into more specific things, let me just ask you about two or three concepts here for people to understand what we're going to talk about. So, one of the things you study is animal population dynamics. So, what is that and what kinds of questions do we, do you explore"
+	},
+	{
+		"start_time": "01:01",
+		"speaker": "Elise Zipkin",
+		"words": "there? Yeah, good question. So basically my lab is interested in understanding the abundance and distribution of species, mostly animal species, although we do work on some plants, and I'm sorry about that. Um, SO we work on estimating the abundance of distributions of species and how they change with things like other other environmental change, uh, climate change, and other kinds of human and natural disturbances. So what we're interested in is why are populations changing? What causes populations to and communities of species to change through time? I mean, first, to understand that we need to understand what's a baseline. What do we see now, what have we seen in the past, and Then we try to look at, all right, what, what do we also think about might happen in the future under different kinds of environmental change that we may have or um you know, even things that are are possibly a little bit less likely, but we still want to know what the possibilities might look like."
+	},
+	{
+		"start_time": "02:03",
+		"speaker": "Ricardo Lopes",
+		"words": "But in your specific case, do you focus only or mostly on anthropogenic activities and how they impact species population dynamics, or do you also focus or try to study how those dynamics change through natural processes?"
+	},
+	{
+		"start_time": "02:23",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, we also try to understand how populations change through natural processes like with there were no kinds of human interventions or human disturbances. And the reason you have to do that, if you, if you were focused only on wanting to understand, you know, the effects of anthropogenic activities, you would still need to know what are the kind, how does the population, you know, what would you expect naturally to happen. Happen. So there's no real way to study, you know, what's going on with the effects of human intervention if we don't really understand, you know, what, what we would expect to see with the population. So most of the models that we're doing, you know, we're incorporating both of those things or the things that we think are relevant for that specific population or community of species, um, to get the, the full picture. Mhm."
+	},
+	{
+		"start_time": "03:09",
+		"speaker": "Ricardo Lopes",
+		"words": "And what the species distribution mean? What is? That is"
+	},
+	{
+		"start_time": "03:16",
+		"speaker": "Elise Zipkin",
+		"words": "such a good question. You send that question. I thought, you know, that's very insightful question because the truth is, you know, it's really hard to understand it. So in the, in the, you know, kind of broadest sense, what we really want to understand is, where does this species exist and where does it not exist? And You can think of kind of like a range. OK, this species occurs in, you know, the western part of North America. But of course, within that, it's not occurring at every location within there, right? And these processes are dynamic, you know, so they're not, um, really, you know, static through time. There's something that are kind of always changing. So it is a really It was a really, really good question. It's a useful concept for us, right, because we, if we constantly were thinking about all the nuance, it would be difficult to ever get things done. But so in, in the broadest sense, right, it's just like where that species is existing, you know, a delineating kind of that area, but once you really dig down deep into it, it, it becomes really complicated."
+	},
+	{
+		"start_time": "04:18",
+		"speaker": "Ricardo Lopes",
+		"words": "But uh when it comes to species distribution, uh, do you, are you trying to understand what are the factors that play a role in a particular species being able to live and adapt to different sorts of ecological conditions? Is that it?"
+	},
+	{
+		"start_time": "04:35",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, that's a good way to think about it. I mean, so basically we want to understand those factors that are in particular locations, how much they're affecting, you know, the species either occurring there or how many of that you see there. Like, let's say it was some sort of, you know, bird species, a species that we think of typically as inhabiting forest, um, you know, forest habitat, but the forest itself has a lot of, you know, nuance and variation. There might be differences in the canopy. Cover what the tree looks like, what the understory looks like, you know, how much brush there is. And so it's not the same throughout. So we're trying to understand, you know, those factors. OK, maybe it's a forest bird and we expect it to be here, but is it in certain locations at higher and lower densities because of the kind of habitat that we see in those areas?"
+	},
+	{
+		"start_time": "05:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND so I would imagine that it also includes factors like, I don't know, temperature. And latitude and the different kinds of food that each species will have available and can consume all of those sorts of environmental factors, right?"
+	},
+	{
+		"start_time": "05:40",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so there are all sorts of things that would affect like where, you know, where a species would occur, right? The kinds of things that we all think about, you know, that every, um, you know, animal needs food, needs shelter, you know, other types of resources, those sorts of things, um. And so we are always including it, but you bring up a really good point, which is, we may think something's really important, but we may not have the data available to actually include it, right? Um, SO you said something about the food. Well, we might know broadly how the food of an organism, you know, is distributed, but we don't know, we may not have the data really to know that at a very fine granular level. So that's also like what, what makes this process really complicated."
+	},
+	{
+		"start_time": "06:23",
+		"speaker": "Ricardo Lopes",
+		"words": "And so perhaps the question that most people would be interested in here in this conversation, because, of course, environmentalists also talk a lot, talk a lot about it. What is biodiversity? What does that mean in the context of biology and environmentalism?"
+	},
+	{
+		"start_time": "06:43",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so bioversity is just simply, you know, the variety of life on Earth, and you could think about it sometimes we're thinking about it the whole globe. What does that biodiversity look like across the planet, but also sometimes we're thinking about it on a smaller scale, you know, what is the biodiversity look like in these particular areas, um, and the reason we care about that. Right, is because biodiversity and higher biodiversity is linked to all sorts of things that are beneficial to both, you know, humans and natural and managed ecosystems, right? So, um, biodiversity is linked to, you know, things like, um, clean water, clean air, um, the, the production of food. So even in managed habitats like. Even in agricultural fields, we can see that higher biodiversity of certain kinds of insects or even plants in between those, you know, row crops can lead to better outcomes for, um, you know, crops for managed crops. So there's all sorts of reasons why biodiversity has many benefits, um, both the natural systems and to people as well."
+	},
+	{
+		"start_time": "07:49",
+		"speaker": "Ricardo Lopes",
+		"words": "But is it always better to have more biodiversity or, I mean, how should we think about it"
+	},
+	{
+		"start_time": "07:58",
+		"speaker": "Elise Zipkin",
+		"words": "exactly? That's also a really good question. Um, I mean that's something that ecologists debate, right? Is, is higher biodiversity always better, um, and, you know, it's, it's, it's pretty nuanced. I would say that, you know, Some places on the globe, right? Like if you think about the equator, there's more, you know, there's higher biodiversity in areas around the equator and tropical ecosystems compared to like, let's say polar regions, the Arctic or Antarctic. So we can't like naturally say, OK, it's better, you know, the, the area around the Um, um, equators better than, you know, the areas around, um, the poles, right? Because they're really different kinds of ecosystems, and they would sustain life in really different ways and there just would be maybe a lower carrying capacity for organisms in Arctic systems, um. So I can't say that it's always better. What I would say is that, you know, as as for for people, one of the things that's probably the best is to think about trying to maintain or restore amounts of biodiversities that have historically been in the regions that, you know, that we're that we're thinking about, right? So, um, thinking about populating with native species that have been in areas, you know, since the last ice age kind of a thing. That's that's probably. The best way I think to think about it. So it's not just more is better everywhere, we want everywhere to have the most. We want, you know, to think about what kind of native plants and animal species, and fungi and um bacteria, you know, there are in um different parts of the globe for different reasons."
+	},
+	{
+		"start_time": "09:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So, since I mentioned the environmentalists, I guess that one question that people would have at this point is, why then should we care about biodiversity?"
+	},
+	{
+		"start_time": "09:50",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so as I was saying, like the biodiversity is really what maintains life on Earth, right? So in addition to all the things about, um, you know, cycling nutrients in our systems, um, producing, helping to produce clean water, um, also, you know, there's all sorts of issues like all of our, um, medicines basically are derived from natural compounds, you know, we, we We are constantly exploring. I mean, scientists are constantly exploring, um, you know, the medicinal properties of plants, for example, and those end up being part of, you know, the important medications that we all use. So really, um, you know, reduced biodiversity is going to make our lives harder and there'll be some thresholds where it will make it, you know, in reality where it would be very difficult for people to exist, you know, so, um. So it has a lot of properties I think that that humans rely on whether we're not we're thinking about it every day."
+	},
+	{
+		"start_time": "10:47",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, uh, I mean, I, I, I hope that this is not too broad a question, but what gives rise to biodiversity and what are the kinds of factors that play a role in how it increases or decreases over time?"
+	},
+	{
+		"start_time": "11:03",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, that's, I mean, that's a really hard question too, and again, that's like whole fields that people study, but I would say, you know, it's this interaction of ecology, which is how um Popular species interact with their environments and other different species, each their own population, their own individuals within their species, and also um individuals outside of their their species, and also evolutionary processes, right? So maybe some of your audiences heard of things like natural selection, which is the process by which, um, you know, uh, organisms speciate through time. So new new individuals happen. So 10, we tend to think of that through some random processes of mutation, um, and maybe movement of um species and also related to, you know, what the environmental process um is like in particular locations. But one thing I think that's really important to note is that the process of creating species, right, is much, much slower than, for example, the process by which we are currently losing species. So there's no way, right, we, we think of speciation as, you know, something. That happens on geological time. Whereas right now, you know, the loss of biodiversity that we're experiencing those rates are comparable to, you know, the five mass extinctions that we've seen in in the past in the fossil record, um, for biodiversity. So it's not like we're gonna be able to In a short time frame, easily replace biodiversity that we've lost, um, but obviously on geological times, you know, that will, um, Kind of the there'll be more life on earth and more variety of of of life on Earth, but of course we don't know what that looks like."
+	},
+	{
+		"start_time": "12:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. But what kinds of human activities tend to have an impact on things like species distribution and biodiversity?"
+	},
+	{
+		"start_time": "13:04",
+		"speaker": "Elise Zipkin",
+		"words": "So really I would say, you know, you could kind of think of it as almost everything we do has an impact. That's not to say that it's a negative impact, right? But when we're, you know, when we're obviously like, you know, if we're doing things like removing habitats, so that's a big one, where we build our houses, where we build our cities, even in rural areas where we modify landscapes, um, that's gonna have an impact on, you know, the other. Organisms that live in that area. And even things about, um, though, you know, areas that we keep for parks or areas that we should keep natural, um, you know, the kinds of management we do also has impacts on biodiversity in, in maybe positive or negative ways, right? And, and not all biodiversity is necessarily gonna respond, you know, to, to, to, um. The kinds of, I'll say disturbance, but it could be, you know, changes that that humans make in the same way. Some kinds of um some species, you know, we may uh put in lawns in our, in our yard. For the most part, lawns, for example, are um decrease biodiversity, right? Decrease the amount of species that we see there, but some species are going to increase in those kinds of monoculture, you know, environments, so. Things will always respond differently, uh, you know, different species will respond differently to different stressors and different changes that we see."
+	},
+	{
+		"start_time": "14:26",
+		"speaker": "Ricardo Lopes",
+		"words": "And what about the specific case of agriculture? How can it affect uh different animal species?"
+	},
+	{
+		"start_time": "14:35",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, agricultural is a really good one because obviously it's hugely important, right? I mean, we all need agriculture everywhere around the world. It's not going anywhere and um it has a huge benefit for humans. But there's a ton of research, tons of research at my university at Michigan State, but also All over the world where people are trying to think about, all right, how do we implement agriculture in ways that are both good for the environment, good for the native species that are there in the region, and also can increase crop yields. So agriculture is a really interesting one, you know, um. Historically we might think about like, OK, people come into an area, they clear the area, they plant their plants, but what we found through time, right, is that um if you try to continually do that and just plant, you know, um. Uh, SPECIES for food through time, we see that the productivity of that land can go down, right? So it becomes really important to let those lands be fallow or to um think about managing them in a way that can promote biodiversity, and, and we've seen in some situations that that can really lead to much higher yields, especially through time. So there's lots of research being done on, you know, crop rotations, um, putting in prairie strips around agriculture that can improve biodiversity, but those outcomes also end up being really good in many situations for the production of crops. So tons of research. THAT, um, especially in the Midwestern US where, you know, there's a lot of agricultural land, um, that's, that's a big, big area of research. I think that's both impro improving food production and improving, um, you know, biodiversity, natural biodiversity in those areas."
+	},
+	{
+		"start_time": "16:18",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Because there are also some wild species that can have a positive role in agriculture,"
+	},
+	{
+		"start_time": "16:26",
+		"speaker": "Elise Zipkin",
+		"words": "right? Right. Exactly. There can be a lot. I mean, there are, of course, pests. I mean, we're also thinking about people are also thinking about ways, yeah, how do you prevent, let's say you're growing blue blueberries, which is something popular in the state of Michigan. How do Prevent, you know, birds from eating them. So, I mean, we, we understand that side of it too. But it's not like you're gonna want to remove all the birds from the system, right? Because on the other hand, other birds are eating, um, insect pests, right? That are problematic for the blueberries. So it becomes kind of this complicated game where you're trying to figure out, all right, what's the best approach. For getting the outcome that we want, but also for um maintaining a healthy ecosystem so that people into the future are going to be able to use this land, you know, effectively. We don't want to just do something and then, oh, OK, this, this area is, is it good to be used now for 10 or 15 years while it regenerates. That's, that's not good for people either, you know."
+	},
+	{
+		"start_time": "17:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, but with uh things like environmentalism and climate change in mind, what is conservation and what are the kinds of approaches and tools that conservationists have at their disposal?"
+	},
+	{
+		"start_time": "17:36",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so conservation is just, I would call the smart use of natural resources. So the use of natural resources in some way where we're not depleting it, we're thinking about the future for for us, for other species, you know, um, and we're trying to use our resources in a way that's sustainable through time. Um, SO what was the second part of the question?"
+	},
+	{
+		"start_time": "17:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, THE kinds of approaches and tools that conservationists have at their disposal. Right,"
+	},
+	{
+		"start_time": "18:05",
+		"speaker": "Elise Zipkin",
+		"words": "so I would say, you know, in a lot of ways, anybody who's doing any kind of land management, anybody who's doing, you know, agriculture, um, you know, let's say, um, tree logging, tree farming, everybody, I almost think of all those people as, you know, uh, conservationists or at least very involved with conservation because They want, they don't want, nobody wants to develop something and then have that area or land that you've been using, you know, burn out within a short time. So really everybody, I think that that is thinking about natural resources is doing this in a way that they at least want it to be sustainable for for themselves. Then they may not be thinking about the sustainability of broadly of, you know, for example, broader um biodiversity, um. Issues, but lots of times, you know, people are still doing it for their own service. So Um, so that, that's a big one. I would, one of the big things that conservationists, I would say really do now is we try to think about um protecting areas that are sort of natural already. So that's a big one where both, you know, I would say private sectors, um, government, um, you know, all sorts of of groups of people are thinking about or how do we Protect the area that we currently have that's sort of a natural or at least, um, you know, managed like parks, um, ecosystems. And then the other piece I think that's really, um, big that people think about is restoration. All right, how do we make an area that has been degraded, um, better again for the native species and biodiversity in that area. So those, those I think of as kind of kind of the 22 ways that people are thinking about it. But there are many other, um, many, many other ways that people think about, uh, uh, conservation. And it really just depends, like, are you focused on individual species? Are you focused on the community of species? Are you focused on the ecosystem processes? What exactly are you trying to conserve through time? And so, yeah, so there's a lot out there and a lot of innovative ways that people are, um, thinking about it."
+	},
+	{
+		"start_time": "20:17",
+		"speaker": "Ricardo Lopes",
+		"words": "And are there any particular ways for us to decide or determine uh that we should try to conserve a particular species and not uh another one, or how do we do that?"
+	},
+	{
+		"start_time": "20:31",
+		"speaker": "Elise Zipkin",
+		"words": "That's a really good question. I mean, so that's a really good question. I will say that in practice it really does happen by what people care about, right? Like we find out that, um, you know, whether or not one species is getting Um, Conservation status and, you know, in a in locally, regionally and nationally or um conservation inter interventions really ends up depending on what people think about or what people care about. So there's this concept that we call charismatic megafauna. Charismatic species, and the idea is that there are certain species, usually they're big, um, not always, um, that people really care about, you know, you think about something like pandas or lions or even the monarch butterflies, one in North America, um, but iconic species that people really love that. And I think a lot of decisions get based around that, um, what the public cares about. But also I would say what scientists are thinking about, um, and people who are working on conservation is they're also thinking about, all right, what are the species or Or processes that really matter. So another concept in ecology is the idea of keystone species, and that would be a species by which if you remove them thing, you know, the entire ecosystem may change, right? So, um, If we took out, for example, you know, wolves in North America as one, right, when, when we removed the top predator in there, we've seen high increases of things like deer, elk, browsing, ungulates, and that's led to low loss of um a lot of different um herbaceous species and really big changes then to ecosystems. So, so there could be, you know, that's of some of what we're thinking about, um, when we're thinking about what, what's the best thing to do from, um, an ecological standpoint, how do we, um, keep this ecosystem intact and functional to the best of our ability, but that doesn't always match with the policy or what the public wants. So I think, you know, um, in practice what happens is not really the decision of scientists."
+	},
+	{
+		"start_time": "22:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, because I would imagine that it's much easier for people to empathize with mammals, for example, animals that are closer together and that are acuteer, let's say, but then, uh, other kinds of animals like insects or, or even. Fish and even plants, fungi, and other species like that."
+	},
+	{
+		"start_time": "23:07",
+		"speaker": "Elise Zipkin",
+		"words": "Right, that's right. And the thing about it is, is, you know, we fail to consider that like, all right, those insects, they're performing very, very important ecosystem services, um. You know, and so it's important that we're thinking broadly and not just about those species, you know, that we that we like or visit in the zoo or that sort of thing, but that that's tricky, you know, and and it it's a value judgment in some ways, not it's not always an ecological decision, certainly what gets conservation."
+	},
+	{
+		"start_time": "23:36",
+		"speaker": "Ricardo Lopes",
+		"words": "So, and what is an invasive species?"
+	},
+	{
+		"start_time": "23:41",
+		"speaker": "Elise Zipkin",
+		"words": "So we talked a little bit about native species, and those are species that historically have lived in an area. So non-native species are species that within a recent some sort of time frame are not species that have been there, so they've been introduced in some ways. Usually we think about this as the facilitation of people introducing them, um, which is What is happening, uh, you know, around the globe. So in some instances, non-native species can move into an ecosystem and they don't really change things that much. But in some cases, and those are species that we call invasive species, um. There are cases where the species comes in and it really, really changes in ecosystem, right? So, um, and it can lead to all sorts of things. So for example, there is a um fungal pathogen that we call BD and it has been transported around the world really by facilitated by humans, and that's led to the loss of um Uh, amphibians, frogs in many, many locations, um, across the Americas, but also in other parts of the world as well. So sometimes we see something like happen, there's classical examples of that, um, you know, kind of with, with rats everywhere with rats being introduced and coming in and changing ecosystems, um, lots of, there's lots of um. YOU know, stories out of Australia. So for example, cane toad. I don't know if you've heard about cane toad, but that's a species that was introduced into Australia quite some time ago to control something. I don't remember what they introduced it for. So people came, brought it, but it's very poisonous and others. Species. It didn't never control the pests that they wanted to control. And then it's very toxic. So other species would eat it and and die. So really, and it's spread throughout Australia, right? So there's lots of examples of where, um, you know, species have come in and then very, very much changed the ecosystem, um. So in those cases, it tends to become pretty important to do active management to try and mitigate the negative impacts of an invasive species into um some region."
+	},
+	{
+		"start_time": "25:58",
+		"speaker": "Ricardo Lopes",
+		"words": "And I would imagine that many times the sort of process of introducing new species in a particular ecology where they would be invasive or have some detrimental effects on the ecosystem there would be, uh, done unintentionally, right? So even just people traveling or moving around, uh, I mean, we carry at the very least bacteria with us,"
+	},
+	{
+		"start_time": "26:22",
+		"speaker": "Elise Zipkin",
+		"words": "so. Yeah, I would say certainly now, right? People are really, it's it's it's you, there aren't so much. Um, OR you don't see, you know, I would say the last 50 years or something like that, this kind of management where you're, oh, let's just bring this species into this area and dump it there, right, because people know how much that's backfired at places around the world. But um it happens all the time where they get moved in. So for example, there's a fish called sea lamprey, and it preys on um native fish. It's, it's actually an ocean fish, and it, it's a really, it's actually a really prehistoric fish. I encourage, uh, your watchers to look it up. It, it, it's got these rows of teeth, it sucks onto a fish. Anyways, it's made it through the Great Lakes, right? Because we made all these canals and series of waves so that the lakes would reach out to the ocean and boats could move back and forth. Well, it's in all the great lakes and it's caused a huge loss, a huge decline in, um, native fish in those areas. And people, you know, Both commercially and recreationally, um, you know, fish eat those fish, right, rely on that sustenance. So, so it could have really, really big effects, um, and most of the time I would say yeah, now, um, you know, it's something that's done unintentionally."
+	},
+	{
+		"start_time": "27:41",
+		"speaker": "Ricardo Lopes",
+		"words": "And if we've already introduced invasive species into a new ecosystem and new environment, what different kinds of ways do we have to control them?"
+	},
+	{
+		"start_time": "27:53",
+		"speaker": "Elise Zipkin",
+		"words": "Unfortunately, if there's a species that's so sometimes it happens, right, that you introduce a non-native species and again it's not so bad, but once we start introducing species that have really negative consequences and invasive ones. It's almost impossible, impossible to remove them, um, and we see this over and over again. Um, SO the main thing that people try to then do is just slow the spread, um, so there's this Asian carp that's coming up through the Mississippi River, um, and they're working really hard to, you know, prevent it from coming into the Great Lakes. So the idea is to spend as much time as we can to control, to control where it is rather than erratic. IT. It's almost impossible. I mean, you could think about that kind of with coronavirus, right? Like, once it gets to a certain size, you can't really contain it, um, but you can have strategies maybe to mitigate its spread or something like that. So it's, it's, it's a little bit like that, um. But there's really very, very few situations, um, during, during which way you could really, you know, um, get rid or or could seriously control a invasive species without a lot of active management all the time. Um, SO there's a uh an example right now where in the United States. The government is planning, I don't know if they're still planning to do this, but they were talking about planning a killing, um, really thousands of barred owls, and the reason for that is because they're moving in, they're they're, they're invasive, they weren't naturally in the western part of the US, but they've moved in probably. Um, THEY moved in by themselves. They weren't moved by people, but they were facilitated by the development of people that have come around, and they're outcompeted and endangered species there called the spotted owl, um. But the problem is, I mean, one, there's obviously an issue that people have to contend with with do we really want to kill thousands of birds, but second, I think is the, the real very, very real possibility that it won't really be effective, right? And even if it was effective for a short time, you'd have to keep Killing a lot of birds, a lot of the barred owls to, um, you know, prevent them from out competing the spotted owls, which are, are smaller and use the same habitat, um, so that's kind of an example where, you know, it's just, it's just really, really hard to control once once they're established."
+	},
+	{
+		"start_time": "30:27",
+		"speaker": "Ricardo Lopes",
+		"words": "And if we try to control invasive species, could it happen that sometimes it backfires and it so"
+	},
+	{
+		"start_time": "30:35",
+		"speaker": "Elise Zipkin",
+		"words": "how? That's a, yeah, yeah, I think the the backfire line is from a paper that I wrote. This is actually in my master's, um, my master's, one of the first papers that I worked on where um small mouth bass had been introduced to northern lakes, so that used to happen in the US quite a lot. People like to fish them. They don't necessarily eat them as much anymore, but they'd introduce them to all these northern. And they kind of take over. They were one of those evasive species, although brought in by people where, um, they really changed the ecosystem. They changed, you know, they outcompete in native trout species, um, and they changed kind of the whole dynamics of biodiversity in the lake. So one of the problems that we worked on is, um, uh, uh, this was a collaborative team at Cornell University, where they were trying to, OK, can we remove them, right? Using certain size nets and electroshock fishing, can we remove them and what's gonna happen? So what ended up happening is it became, you know, you can't really right away you realize, OK, you can't get all the small bass out of the lake. Even this is a closed lake, wasn't that big. I think it was like 271 hectares, so not huge. Um, BUT right away you start to realize, OK, we can't get rid of all of them. But what we actually found is when we, when they, when they went around and took out kind of some of the bigger ones, the ones that you catch, the next year and then the subsequent years after that, there were more individuals than there previously had been, and they were all kind of small, so they were tiny small uh um size class. What had happened is those very, very big individuals that are really hard to catch basically can just Produce tons of um of offspring, and then we would see more individuals than we had prior to um the initiation of the removal. Of course there was less biomass cause you were removing some of those medium sized bigger groups of fish, but But there were more overall individuals, right? And that it really becomes this game of, OK, how do you, how do you keep this up, right? Uh, IT'S, it's very, very difficult. So again, one of those stories where controlling invasive species, if it's very difficult to do, and if you do it, you're probably gonna be doing it forever. Um, YOU can't really stop."
+	},
+	{
+		"start_time": "32:54",
+		"speaker": "Ricardo Lopes",
+		"words": "But uh since we're going through climate change, uh, I need to ask you, I mean, what are perhaps some of the most negative effects that climate change can have on biodiversity, species distribution, and other things?"
+	},
+	{
+		"start_time": "33:11",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, this is a really, really good question. I mean, again, so we talked about this idea that there's always some winners and there's always some losers. And what we've been seeing with climate change is there really are more losers than they are winners in a lot of instances. So, um, you know, the temperatures change, the precipitation changes, um, that changes all sorts of what's available for resources, the plant communities, and what we find is that in a lot of cases in the community, whether it's birds, it's butterflies, um, amphibians, um, other kinds of species, you know, mammals. Um, A lot of times we find is that has that tends to have a negative impact on most species. So most species end up declining, um, and we see, you know, fewer of them or they restrict their range, they move to different areas. So and we see that a lot, but on the flip side, there are a few species that are really winners, um, and they, they tend to have certain kinds of traits, you know, they could be more adaptable, you know, they, they have a wider range, um, maybe of a temperature, um. Uh, ABILITIES to be in different, different temperatures, and, uh, maybe they can make use of different kinds of habitat or resources, some sorts of generals flexibilities. So some of those species then will increase. We'll find that some of those increase. And then what we see kind of through time is what we call and space, time and space is what we call biotic. Homogenization. And that is that areas that used to be really different, that used to have all different sorts of species might become more similar through time. And, um, I mean, one, there's this intrinsic value, right to the variety of Earth. I think across the world, right? People love to see different kinds of beautiful species of butterflies and birds. And and enjoy that, you know, um, that variety of life. But also what we find, you know, so there's that, but also we find is we can lose specific functions. So, you know, different, different types of birds play different roles in the ecosystems. Some eat um fruit, you know, some eat fruit, some eat seeds, some eat, um, you know, other birds, some eat, uh, insects, you know, there's all different variety and those have really important. Ros that make it ecosystem function. So when we see this biotic homogenization, we see more and more of the same and places around the globe, um, looking more similar to each other than they used to be. And that loss, you know, that that could be a big loss for people through time, right? Because that could lead to things like Lower food production, um, less, um, opportunity to find medicines and, you know, in plants and, um, all sorts of other things that, that might be repercussions of that, right? Inability of, you know, water to, um, To to get uh cleaned, you know, there are natural ways by which um ecosystems uh help preserve clean water um and clean air, and so we could see, you know, those functions diminishing and it becoming harder to uh maintain those kind of all those things that we really take for granted that biodiversity gives us."
+	},
+	{
+		"start_time": "36:31",
+		"speaker": "Ricardo Lopes",
+		"words": "So at the end of the day, even we, if we have a few winner species, that is not uh good enough to compensate the fact that we are losing all the other species or some, some of the other species or, or is it?"
+	},
+	{
+		"start_time": "36:48",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, I mean, it's hard to say how it will play out everywhere and through time, but in general people benefit from a wide variety of biodiversity, right? Because it basically gives us more options, right? If, if we're trying to look for a new medicine, you know, for a new disease that comes up, we want to have more options available to us, right? We don't want to inadvertently having made that specific plant go extinct, right? So, um, You know, in some cases, maybe it won't matter too much, you know, in in specific locations at specific times that that will have the functions that we need through the biodiversity that's there. But in other cases, I mean, we already see that that can cause huge rippling. Affects, right? So the loss of some species groups or some types of species can impact other species that lead to these kinds of cascades where you're having um really important biodiversity loss that you may not even really be able to measure because you never knew what the baseline was there, um, and that happens, you know, in, in the tropics or other areas where there's lots of species we don't even necessarily know. So I would say, you know, it's kind of like the precautionary principle. If you, if you're not sure it's gonna be good right into the future, you want to be a little bit careful about what you do, and that's kind of how I think of biodiversity, right? Um, IT'S this amazing kind of resource that we have on the planet. Um, THAT sustains life, um, not just for those organisms that are there, but for all of us, all the people and everything, so we want to be careful about, you know, what we do to to lose that. It may have really big impacts for us and our children, um, down the road."
+	},
+	{
+		"start_time": "38:31",
+		"speaker": "Ricardo Lopes",
+		"words": "So, my last question will be then and this is circling all the way back to our first question. So, I mean, uh uh is it possible with the knowledge, the scientific knowledge we have and the tools we have at our disposal to predict how particular uh populations, specifically animal populations will react to climate change."
+	},
+	{
+		"start_time": "38:56",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so that is one thing that we're working on a lot, you know, how to, what's the future gonna look like, and the reasons we wanna know that is because we wanna know what kinds of interventions or things that we should or can do that might make things better, right? Um. And I would say, OK, the short answer is no. It's not possible to predict what's in the future, and the reason for that is, right, we don't know what climate change itself is really gonna look like, right? So there's lots of different models out there that show, all right, here's what we think may be happening if, you know, we see um. 1 °C 2 °C, you know, all those sorts of things, but we don't really know how it will play out, how it will play out across the globes, and even those, those are called global circulation models, GCMs that are trying across the world to, you know, predict what The climate might look like and weather patterns might look like under different climate change scenarios. But each one of those models, you know, there's different groups around the world that take a ton of competing powder, computing powder, each one of those around the world is making predictions that they're not the same, right? Because there's all different kinds of nuance that are difficult to bring in. And then the same thing about, you know, so there's one, there's this uncertainty about what the environment will look like in the future. And then the other thing is we have an uncertainty about what we know for the animals, you know, for for species and for biodiversity can only You know, data are just data. They're not, they're not, um, perfect. And same thing with our models. If it was, you know, if we could create a model that was reality, we would just call it reality, right? So the model by by definition is going to be wrong. It's an imperfect description that we have of of the environment and what we think is going on. Um, SO we know it won't, it won't be correct and and we can kind of try to understand. Which we do all the time, where or what are the pieces that we think we don't know that well. So really, I would say with the prediction, what we're really trying to do is have this uncertainty about what that future climate looks like, plus this uncertainty about our understanding of how species respond to environmental variables, and we can put that together and we can give you what we think about is not predicting the future, which is impossible, but predicting out what probabilities of different things that we might see. Is there a high probability? That this population will decline into the future in these areas under certain conditions or not. So that's kind of the thing that we try to look out, not necessarily what the future will be, but how much confidence do we have in these possible different scenarios. The species is fine, the species increases, the species decreasing, right? That sort of thing, under different scenarios. So we'll never know what the future holds, but we try to think about what could happen. Under different scenarios. And if we could say, all right, look, 70% chance this, this trajectory is going to happen, even if we see different climate scenarios, that's useful, right? And then we can think about into the future, how do we plan for that? Um, KNOWING it's not certain, right? Knowing it's not certain with some flexibility in there, but how can we plan for that and think about where might we want to do conservation? What would be the best approaches, what's likely to work, that sort of thing."
+	},
+	{
+		"start_time": "42:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So just before we go, would you like to let people know where they can find you and your work on the internet?"
+	},
+	{
+		"start_time": "42:23",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, so I have a website, um, www.zipkinlab.org, um, and there's more information there. All our papers, the peer reviewed papers that we publish are free on there, so anybody can, um, you know, access the work that we do. We also publish all the code. All our models do. There's a link on there to our GitHub repo, because one of the things that I think is really important is open science and that what we do is reproducible and can be used by others to make it better into the future, you know. So, um, that's another thing I think, you know, that can help this process along."
+	},
+	{
+		"start_time": "43:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, so I'm leaving the links in the description of the interview below. So Doctor Zipkin, thank you so much again for taking the time to come on this. It's been a real pleasure."
+	},
+	{
+		"start_time": "43:11",
+		"speaker": "Elise Zipkin",
+		"words": "Yeah, thank you so much. Yeah, it's been really interesting."
+	},
+	{
+		"start_time": "43:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Perergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyches Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Mari Robert Windegaruyasi Zup Mark Nes called in Holbrookfield governor Michael Stormir, Samuel Andre Francis Forti Agnseroro and Hal Herzognun Macha Joan Labray and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asila dearauujoro and Roach Diego London Correa. Yannick Punter Darusmani Charlotte blinikol Barbara Adamhn Pavlostaevsky nale back medicine, Gary Galman Sam of Zallirianeioltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fre Franca Bartolotti Gabrielon Scorteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Wozin, David Williams, Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grassyigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffini, Tom Venneden, Bernard Curtis Dixon, Benick Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
