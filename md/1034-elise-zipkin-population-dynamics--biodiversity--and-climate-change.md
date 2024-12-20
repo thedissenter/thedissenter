@@ -5,6 +5,7 @@
 	"episodeid": "1034",
 	"excerpt": "Dr. Elise Zipkin is Red Cedar Distinguished Professor and Director of the Ecology, Evolution, and Behavior Program in the Department of Integrative Biology at Michigan State University. She is a quantitative ecologist who connects the complexities of natural communities with the precision of mathematics to shine light on mysteries in ecology and conservation. Dr. Zipkin and her team develop analytical frameworks to address grand challenges in the study of biodiversity loss and the effects of anthropogenic activities, such as climate change.",
 	"image": "https://i.ytimg.com/vi/g0YDlutehzA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1034-elise-zipkin-population-dynamics-biodiversity/id1451347236?i=1000681014481&uo=4",
 	"publishDate": 2024-12-19,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1034-Elise-Zipkin-Population-Dynamics--Biodiversity--and-Climate-Change-e2nm4nd",
 	"tags": [
