@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1035 L. Syd M. Johnson: Controversies About Brain Death",
-	"youtubeid": "E-6OZ8zRffw"
+	"vtt": "1035.vtt",
+	"youtubeid": "E-6OZ8zRffw",
+	"transcript": "1035.lines.json"
 }
 ---
 RECORDED ON AUGUST 28th 2024.  
