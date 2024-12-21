@@ -5,6 +5,7 @@
 	"episodeid": "1035",
 	"excerpt": "Dr. L. Syd M. Johnson is a philosopher/bioethicist/neuroethicist, a Clinical Ethics Consultant, and Associate Professor of Bioethics and Humanities at SUNY Upstate Medical University. She is a member of the Neuroethics Working Group of the NIH BRAIN Initiative, Associate Editor for Neuroethics, and the co-founder of the American Society for Bioethics + Humanities Animal Bioethics Affinity Group. Her research focuses on ethical issues related to brain injuries, including sport-related neurotrauma, brain death, and disorders of consciousness. She is the author of Philosophical, Medical, and Legal Controversies About Brain Death.",
 	"image": "https://i.ytimg.com/vi/E-6OZ8zRffw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1035-l-syd-m-johnson-controversies-about-brain-death/id1451347236?i=1000681171878&uo=4",
 	"publishDate": 2024-12-20,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1035-L--Syd-M--Johnson-Controversies-About-Brain-Death-e2nnf3p",
 	"tags": [
