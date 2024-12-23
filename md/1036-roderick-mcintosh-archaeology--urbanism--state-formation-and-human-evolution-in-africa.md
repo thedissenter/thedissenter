@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1036 Roderick McIntosh: Archaeology, Urbanism, State Formation and Human Evolution in Africa",
-	"youtubeid": "7sdZszJ3nwM"
+	"vtt": "1036.vtt",
+	"youtubeid": "7sdZszJ3nwM",
+	"transcript": "1036.lines.json"
 }
 ---
 RECORDED ON JULY 10th 2023.  
