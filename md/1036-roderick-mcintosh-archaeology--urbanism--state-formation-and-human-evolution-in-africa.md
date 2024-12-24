@@ -5,6 +5,7 @@
 	"episodeid": "1036",
 	"excerpt": "Dr. Roderick McIntosh is Clayton Stephenson Emeritus Professor of Anthropology at Yale University, Curator of Anthropology at the Peabody Museum, New Haven, and Honorary Distinguished Professor of Archaeology at the University of Pretoria, South Africa. His interests are in African and Old World comparative prehistory, intellectual history of prehistoric archaeology, ethnicity and specialization and the origin of authority in complex society, urbanism, geomorphology and palaeoclimate, and more topics. Dr. McIntosh has been a Guggenheim Fellow, twice a Fulbright Senior Fellow (Senegal and Mali), and has held a fellowship at the Center for Advanced Study in the Behavioral Sciences (Stanford).",
 	"image": "https://i.ytimg.com/vi/7sdZszJ3nwM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1036-roderick-mcintosh-archaeology-urbanism-state-formation/id1451347236?i=1000681462685&uo=4",
 	"publishDate": 2024-12-23,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1036-Roderick-McIntosh-Archaeology--Urbanism--State-Formation-and-Human-Evolution-in-Africa-e26pc9p",
 	"tags": [
