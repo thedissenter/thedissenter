@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1037 John Hibbing: The Left, The Right, and the Biology of Political Differences",
-	"youtubeid": "KUzPQe9OxkM"
+	"vtt": "1037.vtt",
+	"youtubeid": "KUzPQe9OxkM",
+	"transcript": "1037.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 5th 2024.  

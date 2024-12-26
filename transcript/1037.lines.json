@@ -1,0 +1,347 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. Today I'm joined by Doctor John Hibbing. He's the Foundation Regents University Professor of Political Science and Psychology at the University of Nebraska Lincoln. And today we're talking about his book Predisposed, the Left, the Right, and the Biology of Political Differences. So, Doctor Hibbing, welcome to the show. It's a huge pleasure to have you on."
+	},
+	{
+		"start_time": "00:24",
+		"speaker": "John Hibbing",
+		"words": "Thank you, Ricardo. I'm delighted to be here."
+	},
+	{
+		"start_time": "00:26",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, we, I, I, I need to ask you about the left and the right, but before we get into the science itself, what is, what is the most common view people have of political differences? Where do people think they stem from?"
+	},
+	{
+		"start_time": "00:43",
+		"speaker": "John Hibbing",
+		"words": "Well, um, uh, I've taught political science for a lot of years, and I frequently ask my students that. Where do you think your political views came from? And it probably won't surprise you that the most common answer is my parents that, uh, the kind of socialization I received as a child, uh, was very influential to me. Sometimes you'll hear that the media, uh, was relevant, but, uh, yeah, usually people believe that their parents have provided the basis for their political beliefs."
+	},
+	{
+		"start_time": "01:10",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT is there any truth to that or"
+	},
+	{
+		"start_time": "01:13",
+		"speaker": "John Hibbing",
+		"words": "not? Well, not really, um, you know, uh, in fact, if you look at the evidence, it suggests that parental socialization is actually fairly weak, uh, certainly not irrelevant, um, but it's not nearly as strong as you might imagine, especially on individual issues, uh, you know, when you break it down to a specific issue rather than a more global orientation to the left or right, uh, then you see that that, uh. Uh, CHILDREN are really quite dissimilar to their, to their parents. So I think we, we tend to maybe attribute a little bit more influence to parents than they actually have."
+	},
+	{
+		"start_time": "01:49",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to the left right divide, how do you operationalize left and right when it comes to understanding the psychology behind people who fall more on one end of the spectrum than the other?"
+	},
+	{
+		"start_time": "02:05",
+		"speaker": "John Hibbing",
+		"words": "Right. Yeah, that's an easy thing to be confused about and that my hunches will probably talk more about this as the the session goes on, but to get us started, um, I really think the core differences between the left and the right have to do with your attitude toward new things, uh, maybe different people, maybe, uh, people coming in from outside the country, uh, how tolerant you are of people who break the rules, how open you are to new ideas, uh, as opposed to being very devoted to tradition. And protection and the way we've always done things so that's, uh, you know, obviously the, the former is more of the left, the latter is more the right those I think are the, the core things. I think maybe some of the confusion on this issue comes when people try to bring in too many things I talk about, um, corruption or infrastructure or even the tax code, uh, we, we kind of blend that into the left and right and. You know, sometimes that's certainly true, but I think the core differences between the left and the right where we really need to focus on those issues about orientation to others in groups, out groups, uh, tradition as opposed to new ideas."
+	},
+	{
+		"start_time": "03:11",
+		"speaker": "Ricardo Lopes",
+		"words": "And would you expect to find these differences between left and right or even these two constructs, let's say across at least all industrialized societies or yeah"
+	},
+	{
+		"start_time": "03:24",
+		"speaker": "John Hibbing",
+		"words": "uh that's, you know, I think when you operationalize it the way I did, uh, and don't focus on a specific issue like abortion or the tax code, uh, then I do think you can expect to see, I think we do see, um, the these differences between the left and the right, um, pretty much the world over, not just even in industrialized countries but. Um, YOU know, some of the anthropologists have gone back and looked at hunter gatherer societies, and they do tend to see, uh, a clear difference between individuals who are very wedded to the way we've always done things and those who are open to new ideas and new groups, uh, maybe, uh, uh, an immigrant coming from the tribe over the hill."
+	},
+	{
+		"start_time": "03:59",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me just ask you right away a question that I think many people would be interested in, interested in knowing the answer to. So why is it that so many times we react so negatively to others, we espouse different political views, and why does it seem, does it seem that many times it's so hard for us to have political conversations with someone holding opposing orientations?"
+	},
+	{
+		"start_time": "04:26",
+		"speaker": "John Hibbing",
+		"words": "Yeah, yeah, that's and you're absolutely right that's a core question. um, YOU know, for me, maybe this isn't surprising since I'm a political scientist, but I see politics as kind of at the core of human existence we're very social creatures and politics, when you think about it, is really how to structure social life, how, how should our social unit look? How should we be oriented to other social units? How should we, you know, treat people who break the rules and things like that so. Um, I think, I think that's really something we need to sort out, you know, we, we're not the fastest runners on the planet, we're not the strongest, we don't have the sharpest claws, the best vision, but we are very good about organizing social units, so I think this is, this is something that cuts very close to the bone for us where we feel very strongly about it. So if you have a different view of how to structure a social unit than I do. Uh, THAT can get me very upset and I, I, I think that maybe that's gonna damage our social unit. That's not the way we should run things. So I think at that level it, it becomes very important to us and it makes it very easy for us to feel extremely strongly about political issues."
+	},
+	{
+		"start_time": "05:31",
+		"speaker": "Ricardo Lopes",
+		"words": "But do you think that perhaps there are particular circumstances like for example, economic and political instability that lead to an, to an even bigger difficulty in conversing with people from the other side of the spectrum. I'm asking you that because particularly at the present moment, more or less worldwide, it seems that we are going through a very big polarization, right?"
+	},
+	{
+		"start_time": "05:57",
+		"speaker": "John Hibbing",
+		"words": "Yeah, and you know, yeah, I, I would guess, I would say. That part of the reason for that is I think a lot of the issues that we are debating do involve these core issues of identity in groups and out groups um you know we got a lot of of uh movement of peoples around the world today, um, uh, from the south to the north and otherwise so I think when those are the key issues that's when we really do get uh a danger of of there being blood on the streets if you will, politically, uh, I think if we argued about infrastructure or whether the government should be centered. In the, the nation's capital or in the regions, you know, those are issues we can deal with a little bit more easily, but when the issues are, uh, immigration, defense, protection, uh, in groups and out groups, then I think uh the, the feelings get uh overly intense."
+	},
+	{
+		"start_time": "06:44",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to differences in political orientation, are they different in nature from, for example, differences in tastes in art, humor, food, and so on?"
+	},
+	{
+		"start_time": "06:58",
+		"speaker": "John Hibbing",
+		"words": "Uh, YEAH, let me maybe answer that with two different threads, um. On the one hand, I, you know, I think these tastes in food and art and humor, uh, and tastes in politics, uh, they can kind of all go together, um, we, uh, back to this notion of how you're oriented toward new things or old things, um, you know, it might not surprise you to learn that people who are conservative politically, people who are on the right. Uh, TEND to like art that is very traditional, uh, and realistic, whereas, uh, people on the left are more open to art that is, uh, avant-garde or, uh, abstract, um, so I think we need to view politics as part of this larger package of who we are psychologically, um, socially, and like a taste in food and art and humor and whatever it might be. So in that sense they're part of the package. However, uh, I do think, uh, the, the kind of thrust of your question is probably right in that there's something different about politics. Um, YOU know, it's, it's one thing if you like abstract art and I like realism in art. That's fine. That doesn't really impinge me. I don't have to watch the art that you do, but with politics we're making policies for an entire social unit for a country if you will, and so therefore your views become very relevant. They could impinge upon me in a way that they don't impinge upon me, you know, if you like meat and I don't you know that that that's fine, but when we make politics for the unit and these these global policies, then I think it becomes more contentious."
+	},
+	{
+		"start_time": "08:28",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to uh the basis of our political preferences, let's say, do you think that they have an evolutionary basis to them? And if so, what would have led to the evolution of these differences?"
+	},
+	{
+		"start_time": "08:45",
+		"speaker": "John Hibbing",
+		"words": "Right, yes, um, uh, I do think that I, I am not an evolutionary psychologist, but I do think looking to evolution for insights is a very useful thing. And I think in this case, um, back to my comments about Social units being essential to who we are as humans, that's that's been something that's that's uh crucial to us for a long long time really probably since before we were humans so we had to make decisions about how the social unit should be structured so I think we've we've been debating these issues for a long long time um and I think that's why politics is uh is central and I think if you view it in those kinds of terms it's helpful to understand what what kinds of things did we need to decide about the social unit. Um, WAY back when, and it's surprising how similar they are today. And my hunches, uh, we'll, we'll talk about a few of these as the sessions go on. Mhm."
+	},
+	{
+		"start_time": "09:37",
+		"speaker": "Ricardo Lopes",
+		"words": "So at the sort of point in your book, you talk about 5 bedrock social dilemmas that distinguish the left from the right. I think that you've already mentioned some of these, but they include degree of adherence to traditional values slash moral codes. The second one treatment of our group slash rule. Breakers number 3, the role of group slash individual number 4, authority and leadership and number 5, redistribution and egalitarianism. Would you like to perhaps tell us a little bit about these social dilemmas or why is it these 5 that you think are the most important here?"
+	},
+	{
+		"start_time": "10:13",
+		"speaker": "John Hibbing",
+		"words": "Well, yeah, I, I, you know, I'm sure there are others that we could bring in but it seemed to me those are 5 good illustrations of the kinds of things that we needed to decide as uh as social creatures, um, um, we needed to think about things like how is our social unit gonna be led, uh, are we going to have a leader or are we gonna have a very decentralized kind of thing. Uh, WHAT should we do about punishing people who break the rules? Should they be, uh, ostracized from the group, thrown out, banished, uh, put to death, uh, put in stocks, you know, we have lots of options, or should we just say, you know, you're a naughty person, don't do that again, um, what about the, the tribe over the hill? How should we orient ourselves to, to, uh, outsiders? Should we welcome them? It's it's kind of interesting. A lot of anthropologists these days are coming around to the idea that even in hunter gatherer societies there was always a little bit more migration from one group to the other, uh, than we might have thought. So, um, you know, some individuals might say that's a good thing, uh, it provides variety, new ideas, um. Diversity of the gene pool even uh others might say, oh my God, you know that that we can't have these people who are not like us as a threat to the way we've always done things, um, so those kinds of things are very important. Um, HOW to distribute resources, you know, if, if you're a hunter and come home with, with a kill, do you get to keep it or should that be distributed across the village? Uh, IT seemed just to us like those are some pretty essential things that any group would need to decide, and that's why we refer to them as bedrock dilemmas, things that that really do need to be sorted through. And there are people who differ on that. There's, you know, people on one side of authority, they want a strong leader and other people say no, that leader might get too powerful and abuse us and be more dangerous than why we had the leader to protect us in the first place."
+	},
+	{
+		"start_time": "12:00",
+		"speaker": "Ricardo Lopes",
+		"words": "But since we're talking here mostly about predispositions, namely psychological predispositions, where, what is a predisposition exactly? What does it mean to say that someone is predisposed to a particular kind of behavior toward particular kinds of preferences and things like that?"
+	},
+	{
+		"start_time": "12:19",
+		"speaker": "John Hibbing",
+		"words": "I guess to me that just means that we have tendencies inside us that exist prior to any given situation so you know maybe you are somebody who uh is suspicious of out groups and immigrants and therefore a situation arises and then boom your predisposition kind of kicks into gear very readily that's not to say there might be something that could change your views. Um, BUT it, it probably takes a lot to change those views, whereas your predisposition leads you in a certain direction, um, uh, more readily than if you weren't predisposed that way. So yeah, I guess my answer would be some kind of tendency that exists before a particular situation arises that would be a predisposition."
+	},
+	{
+		"start_time": "13:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So there are political scientists and political psychologists who approach uh political differences starting from personal personality traits and trying to understand if particular sets of personality traits predispose people to being more on the left or on the right. Is there a link there really between personality and political views?"
+	},
+	{
+		"start_time": "13:28",
+		"speaker": "John Hibbing",
+		"words": "I think there is, um, uh, without going into this too deeply, you probably know that uh psychologists tend to organize personality around five traits, uh, openness to new experiences, conscientiousness, extroversion, agreeableness, and neuroticism. So those are the, the five famous ones, and, uh, there've been a lot of studies that have tried to see if that correlates with political views or people on the left this way or that way. Really on most of the, the personality traits we don't find much of a relationship, especially on neuroticism, agreeableness, and extroversion, you know, uh uh a liberalist, uh, people person on the left is as likely to be an extrovert or a neuroticism, a neuroticist as uh somebody on the right, um, we do see a lot more difference though with regard to the trait of openness, uh, and I think that fits with some of the things we were talking about just a minute ago. Being open to new experiences, not surprisingly people on the left tend to be a little bit more open to new experiences so there's been a fairly strong correlation there um in a variety of countries it's not just in in developed countries but around the world we tend to see that some people have found a slight relationship with conscientiousness that people on the right are a little bit more conscientious that one's not nearly as strong and and it may be a little bit more debated. Um, SO I guess my, sorry for the, the long answer, but the short of it would be that yes, uh, especially on the trait of openness, we do see a correlation between personality traits and politics."
+	},
+	{
+		"start_time": "14:57",
+		"speaker": "Ricardo Lopes",
+		"words": "But in this particular case, the correlation between personality traits and political views, would it be a causal relationship that is, would people who have certain particular kinds of uh psychological personality traits be predisposed or, or that would cause them to prefer uh views from the right side or the left, the left side of the political aisle or?"
+	},
+	{
+		"start_time": "15:24",
+		"speaker": "John Hibbing",
+		"words": "Yes, great question and um not surprisingly that's a very difficult one to study. People have tried to tease that out, which comes first politics or personality, um, and I don't think we've got a satisfactory answer to that. uh, I guess I'm a little bit less concerned with which comes first and uh to me. Um, THEY'RE all kind of part of this big ball of wax which is who we are, um, so you've got your, your political orientation, your personality orientation, your taste in food and art like we talked about before, uh, I think that's just part of who we are and then that kind of branches off into these different areas of life including politics. So, um, uh, I hope that doesn't sound like a cop out but I think maybe we don't need to, to identify exactly what comes first to me. Being open to new experiences that that's kind of it's a personality trait but it's also something that is almost political if you believe in politics as this organization of social life as I do."
+	},
+	{
+		"start_time": "16:23",
+		"speaker": "Ricardo Lopes",
+		"words": "So that's about personality traits, but then we also have moral foundations theory developed by people like Jonathan Haidt and others. What do you make of it? Do you think that there's something to that kind of research linking certain moral foundations with uh with the political orientations?"
+	},
+	{
+		"start_time": "16:44",
+		"speaker": "John Hibbing",
+		"words": "I do, yeah, uh, just as was the case with personality, I think, I think, uh, moral foundations is very helpful to think about kind of what, what moral preferences and, and issues tend to drive you more than others. So, again, without going into too much detail, you probably know that uh height specifies five moral foundations harm avoidance, um, justice slash equality. And there's authority and in-group outgroup and uh loyalty, loyalty authority in-group outgroup, yeah,"
+	},
+	{
+		"start_time": "17:16",
+		"speaker": "Ricardo Lopes",
+		"words": "so and also purity I"
+	},
+	{
+		"start_time": "17:18",
+		"speaker": "John Hibbing",
+		"words": "think purity, that's right, yeah, thank you. You're right, yeah, um. So the issues like purity and loyalty authority and in group out group, um, those tend to show up a little bit more on the right side of the political spectrum as I think this fits with what we've been talking about, whereas people on the left tend to be a little bit more concerned with with harm avoidance and um equality or or or justice so I think there's a relationship there, um. My colleagues and I have done some analysis of the extent to which moral foundations are heritable, and there we were a little bit surprised to find that that they're not as heritable as some of the political straight up political views so in that sense I I think maybe there might be something a little bit more foundational about political orientation and moral foundations but um you know I'm a big fan of the work of Jonathan Haidt and I think uh I think uh thinking about moral foundations is certainly useful and very relevant to politics."
+	},
+	{
+		"start_time": "18:12",
+		"speaker": "Ricardo Lopes",
+		"words": "And one of the things associated with moral foundations is that at a certain point height and these collaborators added 6th moral foundation that is liberty, and they connected it to people who identify as being libertarian. Do you think that the kind of approach that you present in your book would also account for people across other dimensions, like, for example, or across other spectrums, like, for example, the authoritarian libertarian spectrum or is it just for the left right divide?"
+	},
+	{
+		"start_time": "18:46",
+		"speaker": "John Hibbing",
+		"words": "Yeah, um. You know, I think libertarians are very interesting and and uh. I'm not sure we can place them clearly on the left or the right, um, you know, that this desire for liberty right now in the United States we're having a political campaign, you know, and, and the candidate on the left, Kamala Harris is very supportive of reproductive rights, so she talks a lot about liberty. We don't want the government telling us how to run our lives, what decisions to make with regard to reproduction, um, so that sounds libertarian, but then of course many things that Donald Trump on the right. Uh, SAYS, uh, echo these libertarian tendencies about, you know, the right to bear arms and, and things like that. So I think, um. I think libertarianism and authority is not quite as as much cutting to the core of these issues as the in group out group kinds of things are and that that's something we can talk about but certainly uh others would disagree with me on that but uh I think it's it's relevant but I don't think it's really at the center of things. I think a lot of people. You know, they, they want liberty or authority, depending on what the issues are that are being advocated. So, um, and that says to me that it's those issues that are really at the core rather than how we get there."
+	},
+	{
+		"start_time": "19:58",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Yeah, that's a great point. So, uh, but now a question that is even more basic, let's say, in terms of the science, the neuroscience and the cognitive science, particularly, are there also differences in perception between the left and the right?"
+	},
+	{
+		"start_time": "20:15",
+		"speaker": "John Hibbing",
+		"words": "Um, HOW do you mean that, that, that, uh, people on the left, the people on the right see the world differently? Yes, OK, yeah, um, yeah, there are, um, there are all kinds of differences so that we've found in, uh, kind of how people look at the world and what they see when they look out at the world. Um, THERE'S one study we've done where we show uh a computer screen filled with lots of faces, and these faces are all of the same person with the same expression. Except one, and then that's the same person, but he or she has either a happy or an angry expression. They call that an an oddball uh figure because all the rest are the same. So then we just ask people when this comes on the screen, uh, how, you know, press the space bar as soon as you spot that face that's different than the others. Um, SO, uh, and it's kind of interesting, uh, uh, people who are on the political right tend to be faster when that expression is angry. People on the left tend to be faster to hit the space bar when it's a happy face. So that to me says that there are these kinds of differences in, in kind of, uh, people's sensitivities to different aspects of the world. uh, SO I think when people look out at the world they see very different things. Um, YOU know, maybe you're highly attuned to angry faces because you're a little bit worried about, uh, about being threatened by another human being who's a bad guy with a gun or something like that, or maybe you're, you just like happy people, um, and, and therefore you're oriented to that. So I do think there is, uh, there are these differences, and I think we have been able to identify them with, with a variety of political studies."
+	},
+	{
+		"start_time": "21:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So one particular difference that you talk about in your book has to do with how people respond to potential threats. So, uh what is the difference there in that domain between people on the left and people on the right?"
+	},
+	{
+		"start_time": "22:07",
+		"speaker": "John Hibbing",
+		"words": "Yeah, here I think um the book actually just came out in a 2nd edition and uh it's, it's very similar to the 1st, except on this issue, I think we've shifted a little bit. Um, I think in the first edition we were maybe too broad and we said, well, conservatives tend to be a little bit more uh prone to be threatened and therefore they want protection, they want a strong military, uh, strong police, strong defense, um, in the United States, the right to bear arms, uh, so you know whatever it is it's going to protect us, they, they tend to like, um. In the second edition I think we focused a little bit more specifically and appropriately on threats from other human beings. I don't think it's the case that people on the political right are just more worried about any kind of threat. Uh, WE saw that I think with regard to COVID. Uh, I don't know about Portugal, but you know it's actually the case in the United States that people on the right were a little bit more cavalier uh, they didn't want all these steps to be taken to mitigate the the danger of COVID so I think the way people react to, you know, a germ, uh, as opposed to. Uh, A, a criminal, uh, are very different things, and I think it's the throughout evolutionary history it was mostly the criminals that we worried about. There wasn't anything that our hunter gatherer ancestors really could do about, um, a germ. They just, it happened, um, uh, but we could take precautions against uh a threat. Uh, BY another human being, so I think that's been the danger throughout our evolutionary past and therefore I think that's where we really see a difference, and I do think people on the right tend to be more concerned about the threat posed by other human beings, especially other human beings who are different than uh than the in group."
+	},
+	{
+		"start_time": "23:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Do we know if there are differences in the brains of people on the left and the right? And if so, I mean, if we find the difference at the level of the brain, what does that tell us? What kind of implications does it have?"
+	},
+	{
+		"start_time": "24:02",
+		"speaker": "John Hibbing",
+		"words": "Yeah, there have been, um, a few studies on this, 4 or 5, my colleagues and I did one, maybe I'll start with that one, this was led by a, a really good neuroscientist named Reed Montague and, uh, one of the things we found was that people on the right and left differ, um. Sorry, let me back up a step. So, uh, you have people in a, a, a brain scan, uh, they call it FMRI because they're gonna be doing something in the brain scan. In our case, they're gonna be looking at an image and we just wanted to see what was going on in the brain when people would see these images. Um, MOST of the images we used were of, uh, bodies that had been damaged, mutilation if you will. Some of them were fairly disgusting and others were just, um, you know, someone had been, been cut. Um, AND we wanted to see what was going on in the brain, and one of the things we found there's a part of the brain called somatosensory 2, and it's very active when you get, uh, hurt. So if, if, uh, I would punch you in the nose right now, um, your somatosensory too would go up because you'd be injured. Um, HOWEVER, it also tends to be active when you see someone else get hurt. So if you would see a videotape of someone stepping on a nail or something that really was, was obviously painful, then your somatosensory too is, is very active. Well, it was kind of interesting to us that we found that um when we would show these images of, of mutilated bodies. Um, PEOPLE on the left had a very active somatosensory too, so, uh, you know, presumably this was a kind of empathic reaction. So they're saying, oh my gosh, that person was just injured. I feel sorry for them. People on the right had more activation in a part of the brain called the anterior cingulate cortex, the ACC, which tends to be involved in just identifying that something was wrong, something's amiss, um, I didn't expect that. Uh, KIND of thing, what should we do about it? So it was not exactly empathy but just, uh, I don't know how to deal with this, with this injured body. So, um, maybe that's too much detail, but I thought the interesting thing was that we could actually make a pretty strong prediction, pretty accurate prediction of whether people were on the left or the right politically simply on the basis of their neural activation patterns when viewing a mutilated body. Um, SO, um, that's just one example of the kinds of, of, uh, brain imaging work that has been done, uh, politically, uh, another famous one, that was not done by us, uh, found some differences in the amygdala, which is part of the brain, as you probably know, very active in, in, uh, threatening situations or fear or anger, uh, negative social situations, especially, um, and, uh, the other tended to be more activation on the part of people on the political right. Uh, THEN the left, um. What else? Yes, uh, actually there was one study that that found some structural differences. What I've been referring to at this point are more what happens in a particular situation, but, um, another well known study found, found some basic differences in the way that the brains looked even if they weren't doing anything. So these are all, you know, uh, brain imaging studies tend to be small and there aren't a lot of cases it's difficult study to do. So there's certainly room for challenging some of those results and maybe future studies will find something different, but as of now, there is some indication that, yeah, with regard to a few organs of the brain, there might be some differences between people on the left and people on the right."
+	},
+	{
+		"start_time": "27:25",
+		"speaker": "Ricardo Lopes",
+		"words": "So one particular psychological trait that people talk a lot about in recent times in regards to political differences and where they stem from has to do with this guest sensitivity. So is there a difference between the left and the right there? And if so, uh, disgust sensitivity would connect, uh, in what ways to politics?"
+	},
+	{
+		"start_time": "27:48",
+		"speaker": "John Hibbing",
+		"words": "Yeah, um. Yeah, there's been a lot of work done on this and uh especially by Paul Bloom and others who found. That people with greater disgust sensitivity, and this is usually ascertained with a survey. So I would ask you questions like, uh, you know, would you sleep in a bed where a person had died the night before, even if the sheets had been washed, um, would you eat a bowl of soup that had been stirred with a clean flyswatter, um, you know, just a whole bunch of questions like that, and then we, we take your responses to maybe a couple of dozen questions along those lines and, and we can say, well, yeah, Ricardo tends to be a little bit more sensitive to disgusting things than somebody else. Um, AND then we find out your political beliefs and we see if there's a correlation and it does tend to be the case that people who, who register greater disgust sensitivity tend to be a little bit more toward the right, especially on some issues, uh, uh, issues with regard to, uh, sex, uh, sexual preferences and, and, uh, behaviors, uh, if you have high disgust sensitivity, then you're, uh, more likely to be opposed to gay marriage and and things like that. Um, SOME people have found it with a broader array of political views, not just those pertaining to, to sex, but, uh, others have, have not been so sure. Um, WE'VE done a study, which was a little bit of a variation on that, you know, um, We think surveys are really useful, but at the end of the day, they're what we call self-reports because you're just saying, here's what I think of that candidate, here's how I think I'm gonna vote. Here's where I think my views came from. Well, the truth of the matter is sometimes humans aren't very good at reflecting on their own psychological state, uh, so we might not know, um, how we respond or we might not know, um, where these things came from. So what we tried to do was we had people hooked up to um a psycho uh physiological uh measurement device uh that would measure skin conductance and then we'd show them disgusting images so rather than just say. Uh, ARE you disgusted by this situation? We'd have you look at an image. Of, um, maybe, um, you know, poop on, on the floor, uh, and then we'd say we wouldn't say anything we just look at at how you responded to that with your skin conductance went up, um, and we tended to find the same thing that people on the political right tended to be have a little bit greater disgust sensitivity response in this case, not a survey response but an actual physiological response, um, so I think that that fits in a way. Um, ALTHOUGH I, I have to be, uh, truth in advertising here, someone else, uh, repeated that study and did not find the results nearly as strong, so, you know, maybe we need to, uh, to, uh, have a question mark by, by that, but at least there there's some evidence that discuss gust sensitivity is a little bit greater on the part of people on the political right."
+	},
+	{
+		"start_time": "30:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Isn't there a link between these guest sensitivity and the moral foundation of sanctity slash purity? At least I remember, I vaguely remember that being referenced in Jonathan Haidt's Heid's book, uh, The Righteous Mind. Yes, no,"
+	},
+	{
+		"start_time": "30:59",
+		"speaker": "John Hibbing",
+		"words": "you're absolutely right. I think that makes sense, doesn't it, that Discuss sensitivity and purity, um, you know, people who have a strong sense of purity also have a strong sense of disgust sensitivity because they to them purity is very important and we see these impure things and they're gonna react negatively to that. So yes, you're absolutely right, good point."
+	},
+	{
+		"start_time": "31:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND I, I mean, of course, one of the ways for us to study differences across individuals uh is to do behavior genetic studies by studying uh twins, reared apart and we're together and also adoptive. So, what do we know from those types of studies about the potential genetic differences between people on the left and people on the right?"
+	},
+	{
+		"start_time": "31:44",
+		"speaker": "John Hibbing",
+		"words": "Yes, an important question. So, uh, there have been a lot of studies of this. We've done many ourselves, um, uh, twins are very useful in this situation because they're two different types of twins, as you probably know, uh, monozygotic twins, which are sometimes called identical twins and dizygotic, which are, are fraternal twins, so really no more genetically similar than a, a regular pair of siblings. So the question then becomes are monozygotic twins who've been reared in the same family, presumably have the same kinds of of influences, uh, more similar politically than dizygotic twins also reared in the same family, um, so you'd expect a fairly similar, you know, environmental influences, um, and the results, uh, always show that there is a greater similarity with MZ twins, so, um, that can generate the conclusion then that yes there is a genetic aspect to politics. I always like to add though, people, there's something about genetics that encourages people to get carried away, I think so and, and as soon as you mention genetics I say oh my God, then, uh, you know, everything must come from from genes. It's clearly not the case. um um I just saw one recent uh meta-analysis where they're, you know, combining lots of different studies of behavioral genetics. With twins and uh they estimate I forget the exact number, but it was about uh uh 0.3 out of 1.0 so in other words, maybe uh 30% of our variation in political views could be derived from genetics, um, but of course if 30% come from genetics that leaves 70% to come from the environment so I just wanted to make sure that you know your listeners don't think I'm claiming something I'm not uh, the environment is still crucial. Um, I guess what. When we first started doing this research though, a lot of political scientists were not very happy, uh, we're, we're surprised, we're dubious, um, and, um, you know, because they tend to believe that 100% of our political beliefs come from the environment. And um you know I just think because they think politics is so special, so uniquely human, uh, that we we only learn it from our parents, from the media, from a clergy person, from whatever from our teachers and professors, um, so that that tends to be the common view and our view is that certainly we're not denigrating the importance of the environment, but we do think that behavioral genetics research shows fairly clearly that uh genes do have some role even if it's a role that's not quite as strong as the environment."
+	},
+	{
+		"start_time": "34:14",
+		"speaker": "Ricardo Lopes",
+		"words": "But since you mentioned the environment there, what kinds of environmental factors have been studied in terms of the ones that would have an effect in how people develop their political views?"
+	},
+	{
+		"start_time": "34:29",
+		"speaker": "John Hibbing",
+		"words": "Yeah, I think it's it's the usuals, um, you know, the, the parents and, and, uh. Uh, YOUR peers are, are clearly very important to those kinds of things. What kinds of experiences you've had. Did you grow up in a comfortable neighborhood or a threatening one? Uh, I hope this is not too far off track, but I, um, My colleagues and I had a project that we were very excited about, um, and that was to uh engage in a study called, um. Uh, DISCORDANT monozygotic twins. And what that means is, uh, yes, most monozygotic twins are similar politically, um. But that doesn't mean they all are and so what we wanted to do was find those those instances in which a pair of so-called identical twins who've been reared in the same environment with the same parents, etc. uh, HAD different political views. We thought it would be very useful to really bore in and try to find out exactly what, you know, what was different in their experiences. um, UNFORTUNATELY, even though the reviewers really liked that study, we, we didn't get the money to do it. Um, SO you know that that always pained me because I thought I, I would be in a position to give a much better answer to your question if we could have had a study like that because it, it controls for the environment in a way and, and also the genetics and then to see what might have been important but you know, presumably things can happen in the world and, and these can affect your political beliefs maybe you. You, uh, witnessed a robbery, uh, at a crucial age and that really affected you and it led you to want to have a strong police force or maybe you saw an immigrant suffering and that affected you so you know, clearly these kinds of things can matter obviously today we've got the media and social media that have tremendous influence on things, um, although I do like to point out that, you know, um, if you are one of those individuals who loves to watch conservative or or right wing. Uh, SOCIAL outlets or media outlets, uh, it may be that you had that predisposition before, um, you know, in the United States we talked a lot about Fox News. I'm sure you've heard about this, and, uh, but I think a lot of the people who tend to watch Fox News, uh, tended to have this predisposition before they started watching and then they get reinforced, um, there's no doubt about that, it's important, but I'm not sure it's the initial cause of those things. I think for that we might need to look back at some things like genetics."
+	},
+	{
+		"start_time": "36:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. And another very interesting thing about how people react to, for example, this behavior genetic studies is that apparently there are differences in who accepts biological differences or predispositions between individuals when it comes to explaining how they differ in terms of their political orientations, right? I mean, there are some people who accept it more than others."
+	},
+	{
+		"start_time": "37:13",
+		"speaker": "John Hibbing",
+		"words": "Yeah, no, that's, that's true, um, and I, I also think that's changed over time. Uh, WHEN I first started talking about these these ideas maybe 20 years ago, at least in my classroom students were very suspicious and reluctant to believe that, you know, the notion that genetics could be involved in politics, I just struck them as really odd, um. And but you know, recently in my classrooms, uh, and even some of the talks I've given to non-students, there's a little bit more acceptance. I don't know if it's because of 23andMe and you know people have just found out that, uh, genetics are relevant to personality and, and, uh, you know, some of the, uh, uh, disabilities that that we talk about, but there's a a more ready ready acceptance I think these days, but you're right, still not everybody and uh these. Uh, I know from experience that these kinds of studies can, can generate some very strong feelings. Some people just don't like the idea, um, that maybe genetics have to do with our politics. They want us to be able to control everything, um, so yeah, I, I'm not sure how it breaks down. We've, we've got a lot of criticism both from the right and the left, um. You know, it used to be that people on the right would say well these are just some academics who are on the left and they're trying to make conservatives, people on the right look bad or look like they're genetically flawed or something like that but then also people on the left, you know, uh, frequently would say things like, well, no, uh, you know we think people are malleable we can, we can adjust them and and help them and fix them we just need a government program, uh, to do that and it doesn't really have anything to do with genetics so. Uh, AT times we felt kind of beleaguered because we would, we would get, uh, criticized both from the left, uh, and the right, uh, but I do think, uh, as Nick Jagger said, time is on our side, uh, I think as the years go on, uh, we do see a little bit more support for this notion that that genetics are involved as long as we can keep them in perspective, help people realize, I think you know the old kind of Mendelian view of genetics was that there's just one gene. That affects you know whether your pee is purple or white or whether you're um you know um politics are left or right um so if we can help people understand that that's not how genetics works and there are incredible number of genes that all interact with the environment and then you've got epigenetics which we're not even talking about um you know all these things go in so I think the more people understand the richness of genetics. The easier it is for them to understand that politics, like almost every other aspect of life, could in fact be influenced in part by genetics."
+	},
+	{
+		"start_time": "39:50",
+		"speaker": "Ricardo Lopes",
+		"words": "By the way, do we, do you have any idea if when it comes to, uh, accepting biological differences, there's also a difference between people on the left and the right, because, uh, sometimes, uh, or some people tend to have this sort of stereotype where they think that people on the right would more easily. Accept that there's biological differences in explaining certain kinds of psychological traits and people on the left would tend to favor more environmental factors, is that right or not?"
+	},
+	{
+		"start_time": "40:24",
+		"speaker": "John Hibbing",
+		"words": "Yeah, it's a little bit of a complicated situation. We have done a study on this and it's true if you just give people the choice between the environment and genetics. Then, uh, people on the right tend to side a little bit more on genetics and people on the left with the environment, you know, that somebody's a criminal just because they eat too many candy bars or, you know, something like that, that, that tends to be the response on the left. What's interesting though is if you have three possibilities. The environment, genetics and free will, then guess what? uh THE right is very supportive of free will and it's actually the left that is more supportive of the genetics argument, um, so, uh. I think that's kind of interesting and um. There's a, a couple of scholars recently, Robert Sapolsky and uh and others have um made the case that really people on the left should be much more supportive of the genetic argument. Um, THEY talk about the genetic lottery and if you think about it, so, you know, all of us were given a certain batch of genes when we were born. Some of us lucked out a little bit more than others. Maybe it helped us, uh, to jump higher or or play sports better, uh, kick a football, um, or do well academically and, uh, make good decisions, um, so you know, if, if you have that view that it's really nothing that you should feel so proud of you just happen to get a good batch of genes from your parents. Then we need to be more thoughtful and more helpful and more respectful of people who maybe were not as fortunate in the so-called genetic lottery. So, uh, that I think is an interesting view that seems to be taking root a little bit that really people on the left should embrace the role of genetics because it, it fits in with this notion that we need to be much more compassionate to people who are, are downtrodden."
+	},
+	{
+		"start_time": "42:07",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, because I mean, even, even if we have a certain degree of free will, it's not the case that we can choose all of our traits, right? We always have these predispositions that pull us uh uh in one direction or the other, right?"
+	},
+	{
+		"start_time": "42:24",
+		"speaker": "John Hibbing",
+		"words": "Exactly, that's very well said. Mhm."
+	},
+	{
+		"start_time": "42:26",
+		"speaker": "Ricardo Lopes",
+		"words": "So, going back to one of my early questions when I asked you about why people tend to get into these heated discussions whenever there's political disagreement, do you, what do you think that we can do with this information, the information that you present in your book? Is it, do you think it's possible to tackle political issues like political disputes, things like polarization, or not?"
+	},
+	{
+		"start_time": "42:54",
+		"speaker": "John Hibbing",
+		"words": "Well yeah, I, I think my answer will probably be a little bit unsatisfying uh I wish I could say yes if if you just embrace these ideas then you know political conflict and polarization will go away but uh that's not the case. I, I do think that maybe, um, embracing these ideas that the fact that politics runs very deep, um, could help us be a little bit less frustrated, you know, um. If we recognize that, that maybe the reason this individual is on the far political right has more to do with um some kind of deeper feelings, perhaps genetics, some experiences that individual had, uh, and by the way, you know, Sometimes what we study is called biopolitics and I think it's important to note that that can come not just from genetics but actually your environmental experiences can be so rich that maybe that causes some environmental changes or some physiological changes so you know we can be shaped by our genes but also the environment shapes our biology uh as well. Um, SO where was I going with that? What was your question, Ricardo?"
+	},
+	{
+		"start_time": "43:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, MY question was, uh, if we can use the information you present in your book to tackle,"
+	},
+	{
+		"start_time": "44:05",
+		"speaker": "John Hibbing",
+		"words": "right, yeah, thank you. Sorry about that. So, um, you know, I think, um. We need to be less frustrated with those people who differ from us in the United States right now in our campaign for the presidency, um, we hear a lot of talk about how down deep people are really all the same and that's that's a very appealing notion and I guess one of the things I would like to say is it's simply not true. I, I, I wish it were but in my opinion down deep we're very, very different we have different. Neural structures, we have different genetics, we have different psychological tendencies, moral foundations, personalities, and these things, uh, kind of push us to the left or to the right. So they're very different. So the notion that these people who differ with us simply have Have listened to the wrong media outlet and if we could just talk to them for a little bit we could get them all straight we could we could sort this out that's not true it's you're gonna be banging your head against the wall and it's gonna be very frustrating to you and you're gonna think they're stupid or they're they're ignoring valid information. And maybe they are, but you know, one of the reasons they are is that they're wired up that way. They see and experience the world in a very different way than you do. So I guess, um, I don't know if it would help or not, but I think it would be a more realistic approach for us to give up on this notion that somehow we're all the same, you know, I guess at one level we are, we're human beings, but we have very different structures with regard to how social life should run and how we are built and I think recognizing that could. Um, COULD help us, uh, it could maybe encourage us to focus more on a lot of the people who are not wired up one way or the other, and that's something we haven't talked a whole lot about yet, but just because we're talking a lot about the left and the right doesn't mean everybody can be categorized into those two things. There are a lot of people in the middle. Um, YOU know, in the studies we do, we, we array people from far left to far right, and, and then we see if there are correlations with these, you know, tendencies how people use the eye track or what they look at on a screen or or their neural structures or their physiological responses. So, so we do recognize that there are people in the middle and I guess I think what needs to happen is you can identify those individuals who are not firmly embedded one way or the other. And those are the individuals you need to focus on because they're malleable they're they're in play, so to speak we can we can persuade them and if you want to win an election, I think that's where you need to go. The notion that we can you know go clear over to the other side and persuade them, I think is probably a fool's errand. It's simply not gonna happen. They're just, they believe in that too strongly."
+	},
+	{
+		"start_time": "46:40",
+		"speaker": "Ricardo Lopes",
+		"words": "But these people in the middle that you're referring to there, what do you call them? Are they the centrists?"
+	},
+	{
+		"start_time": "46:47",
+		"speaker": "John Hibbing",
+		"words": "Um, YEAH, uh, in the middle of the centrist is fine. Um, YOU know, I think we need to be a little careful. Uh, IT'S probably not as big a group as we might. Imagine people love to say they're in the center. That's a very popular thing, and I don't wanna upset anybody uh by saying I know more and you're not really in the center, but, uh, a lot of times in, in, uh, political science research if you drill down a little bit you'll find out that people who say they're in the center do tend to tilt pretty strongly one way or the other, either to the left or the right so you have to get by. Whether they are just saying that, um. Or, or whether they really believe it and if you can identify those who are really in the center, then I think yes they're, they're the ones you need to talk to because they're they're, they have an open mind, uh, and they don't have these strong, uh strong predispositions. I guess one final point on on that I think that's another illustration of why we shouldn't rely just on surveys because if you do ask people are you in the center or the left or the right, they'll say in the center and then, uh, but we know that deep down they're not really there so I think that opens up the door for some of these more biological psychological approaches that we're kind of advocating in our research agenda."
+	},
+	{
+		"start_time": "47:56",
+		"speaker": "Ricardo Lopes",
+		"words": "A very interesting thing that you focused on earlier and we haven't talked much about yet has to do with physiological responses. So when it comes to differences between the left and the right, what kinds of uh behaviors, preferences or attitudes and so on can we study physiologically?"
+	},
+	{
+		"start_time": "48:17",
+		"speaker": "John Hibbing",
+		"words": "Right, well, I guess we talked a little bit about disgust sensitivity, how, how that could do you could show people disgusting images and see how they respond. Um, ONE of the things we've done, uh, besides that is, uh, startle response. So this is where you just, uh, sit people, uh, you know, comfortably, uh, in front of a computer and they're not looking at anything on the screen, uh, and then all of a sudden they'll be a startle, there'll be a sudden noise. Um, AND, uh, we've got it set up so that we can see, uh, we have sensors on their, uh, around their eyes, so we know, uh, you know, when that happens if somebody would come right up to your eyes and say boo, you tend to blink, you, you, you startled, um, but we can measure how hard people blink if if they come down really hard or if it's just a casual kind of blink. Um, THAT'S called startle response. And, uh, again, just one study, uh, that needs to be replicated, but there is some indication that people on the right do tend to have a somewhat stronger startle response. The the muscles around their eyes contract a little bit more powerfully, uh, than people who aren't. And then you can always, uh, you know, put people in certain contexts and do the same kinds of things. For example, um. If you're watching a really scary movie and you're uh annoying little brother or something comes up behind you and says boo, uh, and it's in the dark, then you're probably going to startle a lot more than if you're watching a romantic comedy, uh, in the daylight. So you know these contexts are really important and, um, that's, uh, one of the things that I think we can look at and see when people have, uh, these, these strong startle responses and are they particularly sensitive to the context that exists. So yeah, skin conductance, uh, seeing how whether you, um, your sweat glands open up, that's a very common way of measuring, um, a physiological response. Starle blink, uh, is, is another one. You can look at the muscles, uh, not just around the eyes but in other parts of the face to see what they're doing, uh, the neuroimaging that we talked about earlier in this, uh, podcast is, uh, you know, another way to look at some of the physiological things that are going on."
+	},
+	{
+		"start_time": "50:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT, uh, physiologically, what differences do you see? Could you give, uh, could you give a specific examples of physiological differences that you see between people on the left and the right?"
+	},
+	{
+		"start_time": "50:38",
+		"speaker": "John Hibbing",
+		"words": "Yeah, well, I mentioned with regard to startle blink that that people on the right tend to have a somewhat stronger, uh, startle blink response, um, as far as uh skin conductance is concerned, uh, here again, one study found a fairly small study that uh people on the right tend to have a stronger uh physiological response to, uh, negative things, uh, threatening situation. I wish uh we could go back and do that again with what we talked about before, the more uh um specific threatening situations that involve other human beings, not just a spider, um, for example, but uh uh uh a person who maybe doesn't look like you're in group, uh, with a weapon. Uh, IN a gang, something like that, you know, I think that's where we'd really find these things. So, um, you know, I think that there's some indication that people on the right have a stronger physiological response to all negative things. I think that's, that's not holding up real well in replications and I think if we did focus on those particular kinds of negative things we've talked about today, uh, especially with regard to threats from outsiders, I think that we get a real big difference between the left and the right."
+	},
+	{
+		"start_time": "51:47",
+		"speaker": "Ricardo Lopes",
+		"words": "So I have one final question then earlier you mentioned biopolitics. So in this field, what would you say in your opinion are some of the still unanswered questions that you would like to see answered in the near future?"
+	},
+	{
+		"start_time": "52:04",
+		"speaker": "John Hibbing",
+		"words": "Yeah. Well, there there's so many that that's, uh, I guess, uh, I've kind of started on this road a little bit that, um. I think, uh, Our research tended to focus a little bit too broadly on negativity, and we thought that that uh people on the political right had a more a stronger reaction to negative things and people on the left did. Uh, WHAT I'd really like to see the, the field, the direction I'd like to see the field go in is more along the lines of of particular negative things that involve in groups and out groups because the more I think about it, the more I I think this is at the core. Uh, AGAIN, I hope this isn't too much of a digression, but one time, uh, I was doing, uh, a lecture series in, uh, Denmark, and, um, several talks, and, uh, after one I remember that uh some people pulled me aside, you know, Danes are very polite so they didn't want to, uh, challenge me in front of the whole group, but afterwards they said, look, this left right idea is just wrong. There there is no clear left and right. They said for example in Denmark. All the even the parties on the right are very supportive of a strong social welfare system, you know, with national health care, uh, and things like that so there's really not a left and the right, um, so but for once I was able to think fairly quickly on my feet and I said, look, uh, I, I, I know a little bit about Danish politics and I know that's true, but tell me, is it the case that the parties on the right also want to extend the social safety net to recent immigrants? And then they said, well, no, of course not, you know, parties are right they don't want the immigrants to be uh um able to, to draw on the social welfare systems and I said well now you're talking, you know, this to me is getting close to the core of the difference between the left and the right, um, you know how we distribute things. It's not nearly as important in this larger political orientation sense then who's getting those benefits, you know, if you see those benefits going to people who you think don't deserve them, ne'er do wells and people who have come from other countries who haven't been paying taxes and things like that, you know, now you're starting to get at the differences between the left and the right, um, so I that's again, maybe we should have talked about this earlier when you asked about the left and right, but I think we have to be careful. There are a lot of issues that don't load on the left and right nearly as clearly. Uh, BUT I think this issue of sensitivity to to out groups and and in groups, um, really does so to bring that back to your pertinent question is I, I, I wish the discipline of biopolitic would focus a little bit more on these differences between, uh, tradition and new ideas, uh, punishing and letting them off with a slap on the wrist, uh, immigrants, uh, as opposed to, to natives who've been in this country a long time to me that's, that's really what's at the core and. That's why politics is so contentious these days because we're talking about issues that have a very deep evolutionary um hold on the human condition, uh, in a way that some of these issues, other issues simply don't."
+	},
+	{
+		"start_time": "55:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So the book is again predisposed, the left, right, and the biology of political differences. I'm leaving a link to it in the description of the interview. And Doctor Hibbing, just before we go, apart from the book, would you like to tell people where they can find you and your work on the internet?"
+	},
+	{
+		"start_time": "55:23",
+		"speaker": "John Hibbing",
+		"words": "Sure, um, you know, my, um, uh, my email address is jibbing@unl.edu. Um, UNL stands for University of Nebraska Lincoln, uh, so, uh, yeah, and just, uh, all lowercase jibbing uh at UNL.edu. That's probably the best. I don't have a fancy web page or anything like that, so, uh, yeah, I'm always, uh, eager to hear from people whether they think these ideas are crazy or. Uh, PARTICULAR experiences they've had, uh, you know, part of my interest in this comes because I have a brother who's very much on the political right, uh, and I'm not so much, so I'm curious, you know, what, where this comes from, uh, and it's, it's led me, uh, uh, because he's still my brother. I still love him, so I wanna, wanna understand why we have these things that sometimes make it difficult for us to get along. So, uh, in that sense I'm always interested in other people's kinds of experiences with this, uh, and hopefully we can all get together and figure out a way that maybe we can get along a little bit better."
+	},
+	{
+		"start_time": "56:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So thank you so much again for taking the time to come on the show. It's been a fascinating conversation."
+	},
+	{
+		"start_time": "56:24",
+		"speaker": "John Hibbing",
+		"words": "Thank you, Ricardo. Thanks for the, the very insightful questions."
+	},
+	{
+		"start_time": "56:28",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Matri Robert Windegaruyasi Zu Mark Nes calling in Holbrookfield governor Michael Stormir Samuel Andrea, Francis Forti Agnseroro and Hal Herzognun Macha Jonathan Labrant John Jasent and the Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan Wilson, Asila dearraujoro and Roach Diego Londono Correa. Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynalebaa medicine, Gary Galman Samov Zaledrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon Scorteus Slelisky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old Heringbo. Sterry Michael Bailey, then Sperber, Robert Gray, Zigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers, Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
