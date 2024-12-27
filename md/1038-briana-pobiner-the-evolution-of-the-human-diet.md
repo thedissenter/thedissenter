@@ -11,7 +11,9 @@
 		"Anthropology"
 	],
 	"title": "#1038 Briana Pobiner: The Evolution of the Human Diet",
-	"youtubeid": "lSQhRId35rw"
+	"vtt": "1038.vtt",
+	"youtubeid": "lSQhRId35rw",
+	"transcript": "1038.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 12th 2024.  
