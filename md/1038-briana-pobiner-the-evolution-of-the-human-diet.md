@@ -5,6 +5,7 @@
 	"episodeid": "1038",
 	"excerpt": "Dr. Briana Pobiner is a paleoanthropologist and educator at the Smithsonian National Museum of Natural History. Her research centers on the evolution of human diet (with a focus on meat-eating), but has included topics as diverse as human cannibalism and chimpanzee carnivory. She has done fieldwork in Kenya, Tanzania, South Africa, and Indonesia and has been supported in her research by the Fulbright-Hays program, the Leakey Foundation, the National Geographic Society, the National Science Foundation, Rutgers University, the Society for American Archaeology, the Smithsonian Institution, and the Wenner-Gren Foundation.",
 	"image": "https://i.ytimg.com/vi/lSQhRId35rw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1038-briana-pobiner-the-evolution-of-the-human-diet/id1451347236?i=1000681884043&uo=4",
 	"publishDate": 2024-12-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1038-Briana-Pobiner-The-Evolution-of-the-Human-Diet-e2oalav",
 	"tags": [
