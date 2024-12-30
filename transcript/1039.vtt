@@ -1,0 +1,4214 @@
+WEBVTT
+
+1
+00:00:00.310 --> 00:00:03.220
+Hello, everybody. Welcome to a new episode of the
+
+2
+00:00:03.220 --> 00:00:05.860
+Center. I'm your host, Ricardo Lopes, and today I'm
+
+3
+00:00:05.860 --> 00:00:09.180
+joined by Doctor Jonathan Bobali. He's a professor of
+
+4
+00:00:09.180 --> 00:00:14.159
+linguistics at Harvard University. He specializes in morphology, syntax,
+
+5
+00:00:14.420 --> 00:00:18.809
+and typology, and today we're talking mostly about morphology,
+
+6
+00:00:19.059 --> 00:00:24.110
+morphosyntax, human universal, universals in language and other related
+
+7
+00:00:24.110 --> 00:00:26.860
+topics. So, Doctor Bobali, welcome to the show. It's
+
+8
+00:00:26.860 --> 00:00:27.969
+a pleasure to everyone.
+
+9
+00:00:28.729 --> 00:00:30.020
+Thank you, thank you for having me.
+
+10
+00:00:31.100 --> 00:00:35.229
+So, I've already had a few interviews on linguistics
+
+11
+00:00:35.229 --> 00:00:39.590
+on the show, but actually I've never spoken before
+
+12
+00:00:39.590 --> 00:00:43.430
+about morphology specifically, at least as far as I
+
+13
+00:00:43.430 --> 00:00:45.979
+remember. So could you tell us a little bit
+
+14
+00:00:45.979 --> 00:00:49.444
+to start off with? What morphology is, I mean,
+
+15
+00:00:49.485 --> 00:00:53.834
+as someone who is interested in morphology in linguistics,
+
+16
+00:00:54.084 --> 00:00:58.205
+what kinds of questions are you interested in and
+
+17
+00:00:58.205 --> 00:01:00.365
+what kinds of questions do people who work on
+
+18
+00:01:00.365 --> 00:01:03.325
+this specific topic try to answer?
+
+19
+00:01:04.319 --> 00:01:06.360
+Great, yes, that's a great question. It's actually sort
+
+20
+00:01:06.360 --> 00:01:09.000
+of one of the smaller disciplines within linguistics, so
+
+21
+00:01:09.000 --> 00:01:11.120
+it's not surprising that you haven't heard much about
+
+22
+00:01:11.120 --> 00:01:13.860
+it. And so morphology is the study of words.
+
+23
+00:01:13.879 --> 00:01:17.540
+The, the, the morph means form. It's the, the
+
+24
+00:01:17.540 --> 00:01:19.500
+form of words and the kinds of questions we
+
+25
+00:01:19.500 --> 00:01:24.059
+look at, um, we look at, um, uh, correspondences
+
+26
+00:01:24.059 --> 00:01:27.860
+between form and meaning beyond the arbitrary. So, famously
+
+27
+00:01:27.860 --> 00:01:30.860
+100 years ago, more than that now, uh, Ferdinand
+
+28
+00:01:30.860 --> 00:01:33.260
+de Sousa pointed out that the reason the word
+
+29
+00:01:33.260 --> 00:01:35.940
+dog means dog is sort of arbitrary. It's just
+
+30
+00:01:35.940 --> 00:01:37.540
+a bunch of sounds, and they mean what they
+
+31
+00:01:37.540 --> 00:01:41.029
+mean. But beyond that, the word dogs just doesn't
+
+32
+00:01:41.029 --> 00:01:43.199
+happen to mean a number of dogs. It means
+
+33
+00:01:43.199 --> 00:01:45.120
+a number of dogs because it's got dog in
+
+34
+00:01:45.120 --> 00:01:47.760
+it and another piece and that other piece means
+
+35
+00:01:47.760 --> 00:01:50.879
+plural or indicates plural. Um, SO we like to
+
+36
+00:01:50.879 --> 00:01:54.279
+look at cross linguistically, uh, at these complex words
+
+37
+00:01:54.279 --> 00:01:56.980
+that have multiple pieces inside them, and we ask,
+
+38
+00:01:57.040 --> 00:01:59.239
+you know, what are the, are there any limits,
+
+39
+00:01:59.319 --> 00:02:02.440
+any possible rules on the combination of those words
+
+40
+00:02:02.440 --> 00:02:04.760
+or the combination of the pieces to create words.
+
+41
+00:02:04.839 --> 00:02:08.210
+So you get some neat puzzles like ambiguity. Um,
+
+42
+00:02:08.288 --> 00:02:11.038
+THE word unlockable is a fun and interesting word
+
+43
+00:02:11.038 --> 00:02:13.770
+in English because it can, it means almost its
+
+44
+00:02:13.770 --> 00:02:15.770
+own opposite. On the one hand, it means something
+
+45
+00:02:15.770 --> 00:02:18.050
+that is able to be unlocked. On the other
+
+46
+00:02:18.050 --> 00:02:20.449
+hand, it means something that cannot be locked. It
+
+47
+00:02:20.449 --> 00:02:23.259
+is unlockable, you know, a door that has no,
+
+48
+00:02:23.320 --> 00:02:26.360
+no, no binding to connect it or etc. And
+
+49
+00:02:26.360 --> 00:02:28.750
+so we have a theory cross linguistically of what
+
+50
+00:02:28.750 --> 00:02:30.949
+the what the we try to develop a theory
+
+51
+00:02:31.179 --> 00:02:34.240
+of how these relationships between form and meaning uh
+
+52
+00:02:34.240 --> 00:02:37.080
+are constrained in languages, like you said in the
+
+53
+00:02:37.080 --> 00:02:39.380
+introduction, whether there are any universals to this is
+
+54
+00:02:39.380 --> 00:02:40.330
+an open question.
+
+55
+00:02:41.229 --> 00:02:45.789
+And what are these building blocks of words? I
+
+56
+00:02:45.789 --> 00:02:49.669
+mean, what are the units that we're dealing with
+
+57
+00:02:49.669 --> 00:02:50.869
+here exactly?
+
+58
+00:02:51.110 --> 00:02:52.910
+So the easiest way to think about this and
+
+59
+00:02:52.910 --> 00:02:54.190
+the way we like to think about it the
+
+60
+00:02:54.190 --> 00:02:56.589
+most, the sort of most constrained view, is what
+
+61
+00:02:56.589 --> 00:03:00.220
+we call morphemes. It's morphology. We study. Morphemes, phonology
+
+62
+00:03:00.220 --> 00:03:04.220
+studies, phonemes, etc. Um, SO the, the, the pieces,
+
+63
+00:03:04.300 --> 00:03:07.460
+the, the un in unlockable, the Able and unlock
+
+64
+00:03:07.460 --> 00:03:11.389
+unlockable, the zoo in dogs, we call these morphemes.
+
+65
+00:03:11.399 --> 00:03:14.339
+These are minimal, minimal pairings of, of form and
+
+66
+00:03:14.339 --> 00:03:16.940
+meaning. And I say form rather than sound, uh,
+
+67
+00:03:17.100 --> 00:03:20.490
+we've discovered over the last, uh, time, uh, decades
+
+68
+00:03:20.580 --> 00:03:23.820
+that sign languages have exactly have analogous structures have
+
+69
+00:03:23.820 --> 00:03:26.759
+very much the same structures as spoken languages. So
+
+70
+00:03:26.759 --> 00:03:29.529
+you'll see classical definitions that say pairings of sound
+
+71
+00:03:29.529 --> 00:03:31.860
+and meaning, but it's really pairings of form and
+
+72
+00:03:31.860 --> 00:03:34.460
+meaning. These languages have exactly the kind of riot
+
+73
+00:03:34.460 --> 00:03:37.289
+structure that we see. There is, I should say,
+
+74
+00:03:37.500 --> 00:03:40.889
+right, morphology is based on the study of morphemes,
+
+75
+00:03:41.139 --> 00:03:44.339
+but it's not always easy to break things down
+
+76
+00:03:44.339 --> 00:03:46.809
+into pieces. So the past tense of run in
+
+77
+00:03:46.809 --> 00:03:49.970
+English is ran. It's not like or the path,
+
+78
+00:03:49.979 --> 00:03:53.000
+the plural of man is men. It's not like
+
+79
+00:03:53.000 --> 00:03:56.080
+dogs. You don't say mans. So it's less clear
+
+80
+00:03:56.080 --> 00:03:58.960
+that there's there's little pieces or morphemes in these
+
+81
+00:03:58.960 --> 00:04:01.800
+things, um, but it's the same general kinds of
+
+82
+00:04:01.800 --> 00:04:02.149
+ideas.
+
+83
+00:04:02.360 --> 00:04:06.589
+Uh, SO when it comes to morphemes and basically
+
+84
+00:04:06.800 --> 00:04:11.039
+how you break down words into smaller components, is
+
+85
+00:04:11.039 --> 00:04:14.365
+that something that's, that You as a linguist, for
+
+86
+00:04:14.365 --> 00:04:19.785
+example, just do because it's useful scientifically speaking to
+
+87
+00:04:19.785 --> 00:04:24.964
+understand, to understanding how language works, or does it
+
+88
+00:04:24.964 --> 00:04:29.725
+have a correspondent in terms of how we cognitively
+
+89
+00:04:29.725 --> 00:04:34.484
+process language? I mean, do those smaller components correspond
+
+90
+00:04:34.484 --> 00:04:37.454
+to something uh cognitively speaking?
+
+91
+00:04:38.230 --> 00:04:41.299
+But absolutely we believe that this is cognitively instantiated.
+
+92
+00:04:41.390 --> 00:04:43.190
+This is, this is a key piece of it.
+
+93
+00:04:43.420 --> 00:04:46.510
+Um, SO the kinds of evidence, uh, that we
+
+94
+00:04:46.510 --> 00:04:50.589
+take for looking cross linguistically, uh, we analyze individual
+
+95
+00:04:50.589 --> 00:04:52.829
+languages as static systems. We say, what are the
+
+96
+00:04:52.829 --> 00:04:55.070
+pieces of it. But we also ask how children
+
+97
+00:04:55.070 --> 00:04:58.410
+acquire these things, when they acquire these things. A
+
+98
+00:04:58.410 --> 00:05:01.269
+famous, um, uh, example that you may have come
+
+99
+00:05:01.269 --> 00:05:04.325
+across elsewhere. Is what's called the WOUG test. Uh,
+
+100
+00:05:04.434 --> 00:05:07.494
+THIS was, uh, Jean Berko Gleeson in the 1950s,
+
+101
+00:05:07.825 --> 00:05:10.304
+uh, did a test with children to show, uh,
+
+102
+00:05:10.364 --> 00:05:12.665
+these were 3 and 4 year old children. You
+
+103
+00:05:12.665 --> 00:05:15.024
+draw a little figure that they've never seen before,
+
+104
+00:05:15.144 --> 00:05:17.535
+some imaginary animal. You say, this is a wug.
+
+105
+00:05:18.065 --> 00:05:19.704
+Uh, AND then you have two of them and
+
+106
+00:05:19.704 --> 00:05:21.704
+you say, what are these? And kids say, these
+
+107
+00:05:21.704 --> 00:05:23.345
+are wugs, and they know that this is the
+
+108
+00:05:23.345 --> 00:05:27.609
+right way of doing it. Interestingly, Um, in English
+
+109
+00:05:27.609 --> 00:05:31.290
+we have this distinction between and sir. So dogs
+
+110
+00:05:31.290 --> 00:05:33.320
+and cats, you don't say cat zoo and you
+
+111
+00:05:33.320 --> 00:05:35.970
+don't say dogs, so you could in principle, there's
+
+112
+00:05:35.970 --> 00:05:39.179
+nothing about the articulatory system that constrains us, and
+
+113
+00:05:39.179 --> 00:05:41.570
+we can see this with what's called minimal pairs.
+
+114
+00:05:41.649 --> 00:05:44.250
+I'm in Boston right now. There's the famous baseball
+
+115
+00:05:44.250 --> 00:05:48.250
+stadium Fenway Park. This is in a fen. A
+
+116
+00:05:48.250 --> 00:05:50.369
+fen is a kind of swamp, and when there's
+
+117
+00:05:50.369 --> 00:05:53.480
+more than one, we say the Fenzoo with because
+
+118
+00:05:53.480 --> 00:05:56.940
+that's the the plural rule. Um, BUT, uh, we
+
+119
+00:05:56.940 --> 00:05:59.890
+can say the word fence. There's nothing wrong with
+
+120
+00:05:59.890 --> 00:06:02.339
+having a se after an N. It's totally reasonable.
+
+121
+00:06:02.380 --> 00:06:04.140
+You can put an S after an end, but
+
+122
+00:06:04.140 --> 00:06:06.660
+you don't. And kids know this when they are
+
+123
+00:06:06.660 --> 00:06:09.119
+3 and 4 years old without ever being taught.
+
+124
+00:06:09.190 --> 00:06:11.540
+This is the advantage of the log test. So
+
+125
+00:06:11.540 --> 00:06:14.059
+we know that there must be some developing cognitive
+
+126
+00:06:14.059 --> 00:06:19.209
+system that manipulates these rules, um, uh, that, uh,
+
+127
+00:06:19.220 --> 00:06:22.019
+to some extent children have long before they have
+
+128
+00:06:22.019 --> 00:06:26.320
+uh a conscious introduction or uh instruction about language.
+
+129
+00:06:26.549 --> 00:06:29.510
+And so, Ultimately, this, this, this test was done
+
+130
+00:06:29.510 --> 00:06:32.829
+in the 1950s. People are now working on neuroimaging
+
+131
+00:06:32.829 --> 00:06:36.070
+tests and uh much fancier tests, but we know
+
+132
+00:06:36.070 --> 00:06:39.910
+it is cognitively instantiated. Exactly how is a much
+
+133
+00:06:39.910 --> 00:06:42.190
+harder question that goes beyond. I,
+
+134
+00:06:42.529 --> 00:06:45.989
+I understand that. But let me just ask you
+
+135
+00:06:45.989 --> 00:06:48.950
+another question about that then. I mean, in that
+
+136
+00:06:48.950 --> 00:06:55.920
+case, uh, basically children, infants learning without direct instruction.
+
+137
+00:06:56.510 --> 00:07:00.670
+Are you referring to how they learn the rules
+
+138
+00:07:00.670 --> 00:07:04.750
+of the language they are being exposed to, or
+
+139
+00:07:04.750 --> 00:07:09.070
+are we talking about a broader cognitive system that
+
+140
+00:07:09.070 --> 00:07:14.690
+operates potentially across all languages or across different.
+
+141
+00:07:15.429 --> 00:07:17.859
+That's a beautiful question. That's a beautiful question. Both.
+
+142
+00:07:18.269 --> 00:07:22.049
+The answer is both. Um, SO, uh, they're learning
+
+143
+00:07:22.049 --> 00:07:23.929
+the rules, as you say, in this case, the
+
+144
+00:07:23.929 --> 00:07:25.769
+rule is a rule of adding the rule has
+
+145
+00:07:25.769 --> 00:07:28.730
+two components. One is adding S or Z, and
+
+146
+00:07:28.730 --> 00:07:31.529
+one is choosing between S or Z. The choice
+
+147
+00:07:31.529 --> 00:07:34.010
+between S or Z is is a phonological rule.
+
+148
+00:07:34.059 --> 00:07:35.839
+It has to do with the way sounds combine,
+
+149
+00:07:35.890 --> 00:07:38.489
+and as I said, it's a non-obvious rule. If
+
+150
+00:07:38.489 --> 00:07:40.929
+you think about it, uh, we can say the
+
+151
+00:07:40.929 --> 00:07:42.929
+S after an N, but we don't in the
+
+152
+00:07:42.929 --> 00:07:45.809
+plural. So there's something very special and and uh
+
+153
+00:07:45.809 --> 00:07:48.640
+English specific about it that children need to learn.
+
+154
+00:07:48.809 --> 00:07:50.250
+So this is a rule, but it's also a
+
+155
+00:07:50.250 --> 00:07:52.579
+piece. The S is the S plural is a
+
+156
+00:07:52.579 --> 00:07:55.269
+piece. It's one of these morphemes. So we are
+
+157
+00:07:55.269 --> 00:07:59.350
+interested in how children acquire the language that they
+
+158
+00:07:59.350 --> 00:08:02.299
+are exposed to as you frame it. Um, LONG
+
+159
+00:08:02.299 --> 00:08:04.750
+before any parents aren't saying, this is how you
+
+160
+00:08:04.750 --> 00:08:06.190
+say the plural, this is how you say the
+
+161
+00:08:06.190 --> 00:08:09.589
+plural. And also, children have to figure out why
+
+162
+00:08:09.589 --> 00:08:12.510
+you don't say mans. They sometimes make errors and
+
+163
+00:08:12.510 --> 00:08:14.910
+say things like this, or foots, right? Why you
+
+164
+00:08:14.910 --> 00:08:16.790
+say feet. So they have to learn the pieces,
+
+165
+00:08:16.869 --> 00:08:18.739
+they have to learn the rules, and all of
+
+166
+00:08:18.739 --> 00:08:21.859
+these things involve, uh, so the specific pieces and
+
+167
+00:08:21.859 --> 00:08:24.769
+the specific. Rules are specific to the language that
+
+168
+00:08:24.769 --> 00:08:26.970
+they're learning. And this is a really interesting area
+
+169
+00:08:26.970 --> 00:08:29.290
+of study. How do they do this? How do
+
+170
+00:08:29.290 --> 00:08:32.808
+they do this so quickly? There is a sparsity
+
+171
+00:08:32.808 --> 00:08:35.039
+of data. There's, there's a limited amount of time
+
+172
+00:08:35.039 --> 00:08:37.090
+in the day. There's a limited number of words
+
+173
+00:08:37.090 --> 00:08:40.549
+that kids hear. There's an infinite number of possible
+
+174
+00:08:40.549 --> 00:08:43.250
+rule systems that they could be acquiring that would
+
+175
+00:08:43.250 --> 00:08:47.219
+be compatible, that would describe accurately. The language they're
+
+176
+00:08:47.219 --> 00:08:49.739
+exposed to, but they tend very quickly to hone
+
+177
+00:08:49.739 --> 00:08:51.390
+in on the same one, and they get there
+
+178
+00:08:51.390 --> 00:08:53.900
+very fast, and that's neat. That's a very interesting
+
+179
+00:08:53.900 --> 00:08:56.859
+idea. And that then asks this question you said
+
+180
+00:08:56.859 --> 00:09:00.460
+earlier about the the broader cognitive system of all
+
+181
+00:09:00.460 --> 00:09:05.010
+of language. So, It, it seems to be that
+
+182
+00:09:05.010 --> 00:09:07.919
+they are not just what we used to consider
+
+183
+00:09:07.919 --> 00:09:10.250
+a blank slate. This was a proposal from a
+
+184
+00:09:10.250 --> 00:09:12.700
+long time ago, that the, the child's mind is
+
+185
+00:09:12.700 --> 00:09:16.210
+a blank slate upon which the experience writes. It
+
+186
+00:09:16.210 --> 00:09:18.650
+seems to be constrained in various ways. There are
+
+187
+00:09:18.650 --> 00:09:20.849
+patterns there are, first of all, children learn very
+
+188
+00:09:20.849 --> 00:09:23.690
+quickly and converge on some hypotheses and, and not
+
+189
+00:09:23.690 --> 00:09:27.330
+others. And secondly, cross linguistically, this comes back to
+
+190
+00:09:27.330 --> 00:09:30.330
+what we were saying. Cros linguistically, certain patterns occur
+
+191
+00:09:30.330 --> 00:09:33.179
+in. Many languages and other, uh, patterns don't occur,
+
+192
+00:09:33.330 --> 00:09:35.940
+uh, in any languages that we know of. And
+
+193
+00:09:35.940 --> 00:09:39.539
+that suggests it's another type of evidence that suggests
+
+194
+00:09:39.539 --> 00:09:43.500
+that there's some kind of cognitive limitation on the
+
+195
+00:09:43.820 --> 00:09:47.940
+hypotheses, if you will, that that learners will, will
+
+196
+00:09:47.940 --> 00:09:51.260
+pause it when they're analyzing the language data. And
+
+197
+00:09:51.260 --> 00:09:53.059
+we're trying to capture that. We're trying to figure
+
+198
+00:09:53.059 --> 00:09:56.340
+that out, kind of reverse engineer the system, but
+
+199
+00:09:56.340 --> 00:09:57.690
+from the data that we have.
+
+200
+00:09:58.580 --> 00:10:03.010
+Mhm. So we'll get more into human universals and
+
+201
+00:10:03.010 --> 00:10:06.679
+language and more specifically morphology later on in our
+
+202
+00:10:06.679 --> 00:10:09.859
+conversation. There are some other very interesting questions to
+
+203
+00:10:09.859 --> 00:10:13.679
+explore here. But just before that, uh, I think
+
+204
+00:10:13.679 --> 00:10:16.450
+that you've already touched a little bit on this
+
+205
+00:10:16.450 --> 00:10:20.210
+question in your previous answers, but what can we
+
+206
+00:10:20.210 --> 00:10:24.650
+learn about language by studying morphology then?
+
+207
+00:10:25.559 --> 00:10:27.010
+We can learn a lot. I hope we can
+
+208
+00:10:27.010 --> 00:10:28.640
+learn a lot because this is what I do,
+
+209
+00:10:28.809 --> 00:10:31.650
+right? Um, SO, uh, one thing we can try
+
+210
+00:10:31.650 --> 00:10:34.440
+to figure out again by looking at what patterns
+
+211
+00:10:34.440 --> 00:10:37.409
+occur and what patterns don't occur, uh, we can
+
+212
+00:10:37.409 --> 00:10:40.030
+begin to build an idea, um, of how the
+
+213
+00:10:40.030 --> 00:10:42.929
+human cognitive system works. Ultimately, that's the goal is
+
+214
+00:10:42.929 --> 00:10:44.760
+to get to the cognitive system, but it's a,
+
+215
+00:10:44.849 --> 00:10:47.960
+it's a distant goal. It's on the horizon right
+
+216
+00:10:47.960 --> 00:10:49.400
+now, we look for it, we're at the level
+
+217
+00:10:49.400 --> 00:10:53.090
+of looking for these patterns cross linguistically. If I
+
+218
+00:10:53.090 --> 00:10:56.200
+could, for example, Uh, switch to one of the
+
+219
+00:10:56.200 --> 00:10:58.400
+universal patterns at the moment. Now, we'll come back.
+
+220
+00:10:58.479 --> 00:10:59.719
+I know you want to talk about this in
+
+221
+00:10:59.719 --> 00:11:01.760
+more detail later, but I think this gives you
+
+222
+00:11:01.760 --> 00:11:05.059
+a good way of of answering this question. Um,
+
+223
+00:11:05.190 --> 00:11:07.580
+uh, WORK I did a number of years ago,
+
+224
+00:11:07.710 --> 00:11:11.630
+um, uh, looked at comparatives and superlatives. So you
+
+225
+00:11:11.630 --> 00:11:13.750
+say good and you say better, and in a
+
+226
+00:11:13.750 --> 00:11:15.590
+language where you say, so you say big, bigger,
+
+227
+00:11:15.669 --> 00:11:20.070
+biggest, right? Um, Portuguese, you do these paraphrastically, I
+
+228
+00:11:20.070 --> 00:11:23.710
+think, right? You say the analog of big, more
+
+229
+00:11:23.710 --> 00:11:28.099
+big, and the more big. Yes, um, but the,
+
+230
+00:11:28.109 --> 00:11:30.989
+um, uh, the interesting thing is for the irregular
+
+231
+00:11:30.989 --> 00:11:35.419
+ones like, uh, good, better, best. You never find
+
+232
+00:11:35.419 --> 00:11:38.859
+a language that says good, the equivalent of better
+
+233
+00:11:38.859 --> 00:11:41.530
+with a totally different form, and then goes back
+
+234
+00:11:41.530 --> 00:11:43.979
+and says goodest. You don't you you don't say
+
+235
+00:11:43.979 --> 00:11:46.849
+good, better, goodest. Why not? Well, this turns out
+
+236
+00:11:46.849 --> 00:11:50.219
+to be like sort of an interesting finding across
+
+237
+00:11:50.219 --> 00:11:51.940
+lots and lots and lots of languages. I believe
+
+238
+00:11:51.940 --> 00:11:53.919
+it's a universal. I know I have no counter
+
+239
+00:11:53.919 --> 00:11:56.299
+examples. Uh, AND if that's true, what does that
+
+240
+00:11:56.299 --> 00:11:58.979
+tell us? OK, we've documented the languages, we've made
+
+241
+00:11:58.979 --> 00:12:01.530
+a list and we have this neat fact. But
+
+242
+00:12:01.530 --> 00:12:04.210
+the explanation that seems to be on the table
+
+243
+00:12:04.210 --> 00:12:06.960
+is one that goes along the lines of saying,
+
+244
+00:12:07.289 --> 00:12:10.049
+uh what does best mean? There's sort of two
+
+245
+00:12:10.049 --> 00:12:14.010
+things best could mean. One could mean just exceedingly
+
+246
+00:12:14.010 --> 00:12:17.119
+good, like very, very, very good. Uh, THIS would
+
+247
+00:12:17.119 --> 00:12:20.039
+be these Isimo type adjectives that you have in
+
+248
+00:12:20.039 --> 00:12:22.890
+romance that we lack in, in English, something like
+
+249
+00:12:22.890 --> 00:12:26.419
+Bellissimo or whatever, um. But another one is the
+
+250
+00:12:26.419 --> 00:12:28.940
+more specific one, and the more specific one, the
+
+251
+00:12:28.940 --> 00:12:33.260
+meaning of the superlative is more adjective than all
+
+252
+00:12:33.260 --> 00:12:35.849
+others, right? So if I say something is the
+
+253
+00:12:35.859 --> 00:12:38.820
+the tallest mountain, right, it is taller than all
+
+254
+00:12:38.820 --> 00:12:42.059
+other mountains, and that taller piece is comparative inside
+
+255
+00:12:42.059 --> 00:12:44.969
+it has this comparative meaning inside it. In English,
+
+256
+00:12:45.059 --> 00:12:47.530
+taller and tallest don't look like they have the
+
+257
+00:12:47.539 --> 00:12:50.580
+the morphology inside them, in Portuguese they do, because
+
+258
+00:12:50.580 --> 00:12:53.030
+you put the definite article in front. But it
+
+259
+00:12:53.030 --> 00:12:55.030
+looks, the only way to understand why this is
+
+260
+00:12:55.030 --> 00:12:58.940
+a universal is if all languages really are Portuguese,
+
+261
+00:12:59.229 --> 00:13:04.190
+but hidden. So English tallest really is the more
+
+262
+00:13:04.190 --> 00:13:06.070
+tall, the one that is taller than all of
+
+263
+00:13:06.070 --> 00:13:08.650
+the others. If that's true, we learned this from
+
+264
+00:13:08.650 --> 00:13:10.849
+morphology from looking at the various pieces in the
+
+265
+00:13:10.849 --> 00:13:15.369
+words. But what we've discovered is a constraint on
+
+266
+00:13:15.369 --> 00:13:19.270
+the way we as humans conceptualize, at least for
+
+267
+00:13:19.270 --> 00:13:23.039
+the language system, the meaning of the superlative relationship.
+
+268
+00:13:23.330 --> 00:13:24.890
+So you wouldn't get that from a textbook. If
+
+269
+00:13:24.890 --> 00:13:26.729
+you look at a textbook of English or German
+
+270
+00:13:26.729 --> 00:13:28.890
+or whatever, it just says, here's the comparative, here's
+
+271
+00:13:28.890 --> 00:13:31.349
+the superlative. But it turns out this is the
+
+272
+00:13:31.349 --> 00:13:33.710
+way we conceive of it. Why? There's all different
+
+273
+00:13:33.710 --> 00:13:35.989
+ways we could have conceived of it. There's all
+
+274
+00:13:35.989 --> 00:13:37.950
+different ways the world could have been, but it
+
+275
+00:13:37.950 --> 00:13:40.989
+is this way. And so you ask this as
+
+276
+00:13:40.989 --> 00:13:44.219
+a long-winded answer, but you asked about the, uh,
+
+277
+00:13:44.270 --> 00:13:47.270
+what studying morphology tells us, and here it's telling
+
+278
+00:13:47.270 --> 00:13:51.349
+us something about the cognitive, uh, uh, conception of
+
+279
+00:13:51.349 --> 00:13:55.294
+in this case, um, uh. The meaning of the
+
+280
+00:13:55.294 --> 00:13:59.325
+superlative, but all kinds of aspects of, of how,
+
+281
+00:13:59.575 --> 00:14:03.135
+uh, concepts are encoded in language seem to follow
+
+282
+00:14:03.135 --> 00:14:06.534
+these kinds of universal generalizations. And that's exciting because
+
+283
+00:14:06.534 --> 00:14:09.525
+it's non-obvious and it comes from the linguistic system.
+
+284
+00:14:10.655 --> 00:14:12.455
+I can give you a second example quickly if
+
+285
+00:14:12.455 --> 00:14:12.854
+you want,
+
+286
+00:14:13.525 --> 00:14:14.534
+but yes, please go ahead.
+
+287
+00:14:14.815 --> 00:14:18.385
+OK. So, uh, another neat example that comes from
+
+288
+00:14:18.385 --> 00:14:21.534
+morphology, this one's a little bit complicated, but again,
+
+289
+00:14:21.614 --> 00:14:24.969
+it's a meaning one. Um, uh, IF you think
+
+290
+00:14:24.969 --> 00:14:28.890
+about, um, words like open or closed, they can
+
+291
+00:14:28.890 --> 00:14:31.169
+be adjectives or they can be verbs. And so
+
+292
+00:14:31.169 --> 00:14:33.489
+if we say, uh, so, you know, I'm in
+
+293
+00:14:33.489 --> 00:14:35.809
+New England and New England has snowy weather in
+
+294
+00:14:35.809 --> 00:14:38.450
+the winter, so imagine we think about a mountain
+
+295
+00:14:38.450 --> 00:14:41.650
+pass, and you say that the mountain pass, let's
+
+296
+00:14:41.650 --> 00:14:44.729
+imagine there's a, let's imagine there's a shoulder of
+
+297
+00:14:44.729 --> 00:14:47.849
+a mountain, it has no dip inside it, um.
+
+298
+00:14:48.099 --> 00:14:50.599
+And what happens at some point is there's a
+
+299
+00:14:50.599 --> 00:14:53.510
+rockfall or an avalanche and a, and a dip
+
+300
+00:14:53.510 --> 00:14:55.599
+appears. This dip has never been there before, and
+
+301
+00:14:55.599 --> 00:14:57.119
+now we have a pass. We say a pass
+
+302
+00:14:57.119 --> 00:14:59.669
+has opened up, right? Then there's another rock fall
+
+303
+00:14:59.669 --> 00:15:01.950
+and it fills it in. We can say, oh,
+
+304
+00:15:02.080 --> 00:15:06.010
+the pass is closed again. Right? Well, that's interesting
+
+305
+00:15:06.010 --> 00:15:09.840
+again here is really interesting because it has never
+
+306
+00:15:09.840 --> 00:15:13.359
+been closed before. Nobody had closed it before. It
+
+307
+00:15:13.359 --> 00:15:16.239
+opened once and then went closed again. So what
+
+308
+00:15:16.239 --> 00:15:19.099
+this again. IS doing is it's saying it's returning
+
+309
+00:15:19.390 --> 00:15:22.909
+to the state of being closed. The verb, the
+
+310
+00:15:22.909 --> 00:15:27.190
+action, close the past, has never happened before. But
+
+311
+00:15:27.190 --> 00:15:29.900
+it's a return, we call it a restituive reading.
+
+312
+00:15:30.030 --> 00:15:31.590
+It is returned to the state. You can think
+
+313
+00:15:31.590 --> 00:15:33.630
+of all kinds of examples. A student at McGill
+
+314
+00:15:33.630 --> 00:15:36.059
+wrote a dissertation looking at this. You can think
+
+315
+00:15:36.059 --> 00:15:39.780
+of, um, an underwater cave that's full of water.
+
+316
+00:15:39.989 --> 00:15:41.640
+And then the water level goes down and it
+
+317
+00:15:41.640 --> 00:15:45.270
+and it dries out, and then Global warming, the
+
+318
+00:15:45.270 --> 00:15:48.190
+water level rises again, and the the cave is
+
+319
+00:15:48.190 --> 00:15:50.979
+filled in again, right? We can use this again,
+
+320
+00:15:51.130 --> 00:15:55.830
+even though it's false to say you that we
+
+321
+00:15:55.830 --> 00:15:58.349
+filled in, like the action of filling in has
+
+322
+00:15:58.349 --> 00:16:00.580
+happened for a second time. It only happened once,
+
+323
+00:16:00.630 --> 00:16:03.469
+but it returns it to its previous state. So
+
+324
+00:16:03.469 --> 00:16:05.460
+you might think, so there's an analysis out there
+
+325
+00:16:05.460 --> 00:16:07.869
+that says, OK, this is because the semantics of
+
+326
+00:16:07.869 --> 00:16:11.669
+the word again, what again means is ambiguous in
+
+327
+00:16:11.669 --> 00:16:13.619
+English. It can mean either of these two things.
+
+328
+00:16:13.869 --> 00:16:15.789
+But it turns out it means the same ambiguity,
+
+329
+00:16:15.830 --> 00:16:18.270
+the same two things in language after language after
+
+330
+00:16:18.270 --> 00:16:22.530
+language. Um, uh, A student at University of Connecticut
+
+331
+00:16:22.789 --> 00:16:25.510
+wrote a dissertation showing this for Chinese, for Mandarin
+
+332
+00:16:25.510 --> 00:16:28.349
+that shows exactly the same ambiguity. So why is
+
+333
+00:16:28.349 --> 00:16:32.270
+this morphology? Well, in a number of languages, the
+
+334
+00:16:32.270 --> 00:16:35.840
+way you say to open or to close has
+
+335
+00:16:35.840 --> 00:16:38.739
+an extra morpheme. It's like in English we say
+
+336
+00:16:39.030 --> 00:16:41.590
+the screen is wide, actually, let's say the screen
+
+337
+00:16:41.590 --> 00:16:44.390
+is narrow. I want to widen it. There's a
+
+338
+00:16:44.390 --> 00:16:47.409
+wide piece and a morpheme in. And so they
+
+339
+00:16:47.409 --> 00:16:50.780
+again can refer just to the adjective or to
+
+340
+00:16:50.780 --> 00:16:54.000
+the adjective plus the verbal morpheme, the complex verb.
+
+341
+00:16:54.250 --> 00:16:57.729
+That ambiguity is a morphological ambiguity. It's hidden in
+
+342
+00:16:57.729 --> 00:16:59.770
+English because when we say open, it looks like
+
+343
+00:16:59.770 --> 00:17:01.530
+it's the same word, but it really isn't. There's
+
+344
+00:17:01.530 --> 00:17:03.744
+really two pieces in. And we can pick them
+
+345
+00:17:03.744 --> 00:17:06.064
+up semantically, and we can do this in language
+
+346
+00:17:06.064 --> 00:17:09.704
+after language after language. So again, we've learned something
+
+347
+00:17:09.704 --> 00:17:13.864
+about the way language is encode our perception of
+
+348
+00:17:13.864 --> 00:17:17.255
+events in the world. So we encode a notion
+
+349
+00:17:17.255 --> 00:17:20.509
+like opening. As having two pieces. There's a causal
+
+350
+00:17:20.509 --> 00:17:23.788
+piece, and there's a state piece, and the linguistic
+
+351
+00:17:23.788 --> 00:17:26.388
+system can pick out those pieces individually. It's a
+
+352
+00:17:26.388 --> 00:17:28.668
+bit of a complex example. But these are the
+
+353
+00:17:28.668 --> 00:17:31.588
+kinds of things that we study, um, over and
+
+354
+00:17:31.588 --> 00:17:34.749
+over and over. Again, as you framed it, there's
+
+355
+00:17:34.749 --> 00:17:36.708
+a fun day to day part, which is finding
+
+356
+00:17:36.708 --> 00:17:39.209
+the pieces. And segmenting it into, but that's just
+
+357
+00:17:39.209 --> 00:17:42.300
+the starting part. At the end behind it, we're
+
+358
+00:17:42.300 --> 00:17:45.540
+asking these deeper questions about why do we find
+
+359
+00:17:45.540 --> 00:17:48.660
+the same, uh, patterns in language after language? And
+
+360
+00:17:48.660 --> 00:17:51.020
+what does that tell us about human cognition, both
+
+361
+00:17:51.020 --> 00:17:53.699
+the system of language and the system of encoding
+
+362
+00:17:53.699 --> 00:17:55.579
+meaning in language. Mhm.
+
+363
+00:17:56.380 --> 00:17:59.650
+And what is more for syntax?
+
+364
+00:18:00.020 --> 00:18:05.209
+Yeah, cool. Good question. Um, SO, uh, morphosyntax has
+
+365
+00:18:05.209 --> 00:18:06.849
+two pieces in it, right? It has morpho and
+
+366
+00:18:06.849 --> 00:18:09.489
+it has syntax. It's a complex word. It's morphemes.
+
+367
+00:18:09.650 --> 00:18:12.400
+And so morpho is, is the morphology part, and
+
+368
+00:18:12.400 --> 00:18:15.319
+syntax is how words combined together to make phrases.
+
+369
+00:18:15.569 --> 00:18:17.010
+And so one of the things we ask as
+
+370
+00:18:17.010 --> 00:18:19.250
+morphologists, we pay an eye to, so when I
+
+371
+00:18:19.250 --> 00:18:22.520
+looked at dog and dogs, I was looking primarily,
+
+372
+00:18:22.599 --> 00:18:24.380
+the example I gave you was about the silent,
+
+373
+00:18:24.489 --> 00:18:27.719
+the so the alternation. But there's also a study
+
+374
+00:18:27.719 --> 00:18:31.880
+of of how individual words relate to syntax, to
+
+375
+00:18:31.880 --> 00:18:35.000
+the study of phrases and the study of sentences.
+
+376
+00:18:35.400 --> 00:18:38.829
+So, uh, just to take an example, your dog
+
+377
+00:18:38.839 --> 00:18:42.699
+dogs example, um, that's a plural word and so
+
+378
+00:18:42.699 --> 00:18:45.280
+it would occur in a plural syntactic environment, you
+
+379
+00:18:45.280 --> 00:18:48.719
+would say one dog, two dogs. Interesting on this,
+
+380
+00:18:48.760 --> 00:18:50.000
+one of the things you could look at in
+
+381
+00:18:50.000 --> 00:18:55.050
+morphosyntax, um. Some languages like English, Portuguese, and others
+
+382
+00:18:55.050 --> 00:18:57.329
+have a number distinction. We have singular and plural.
+
+383
+00:18:57.369 --> 00:19:00.010
+There's other languages with other number distinctions, that's also
+
+384
+00:19:00.010 --> 00:19:02.859
+very interesting. Um, AND we use the plural when
+
+385
+00:19:02.859 --> 00:19:05.239
+we say when we count, we say two dogs,
+
+386
+00:19:05.430 --> 00:19:07.520
+and we use the plural when we talk about,
+
+387
+00:19:07.810 --> 00:19:10.770
+uh, a plural group. We say, oh, dogs are
+
+388
+00:19:10.770 --> 00:19:13.469
+in the garden or something of this sort. Um,
+
+389
+00:19:13.550 --> 00:19:15.790
+THERE are languages that have no number distinction that
+
+390
+00:19:15.790 --> 00:19:19.630
+never mark this, um, and there are interestingly languages
+
+391
+00:19:19.630 --> 00:19:23.349
+that mark plural dog dogs, when you say I
+
+392
+00:19:23.349 --> 00:19:26.150
+like dogs, or I saw dogs yesterday, but not
+
+393
+00:19:26.150 --> 00:19:28.270
+when you put a number there. You say two
+
+394
+00:19:28.270 --> 00:19:31.579
+dogs, Turkish is of this sort. You say, uh,
+
+395
+00:19:31.709 --> 00:19:33.579
+they have a plural, there's a clear plural marker,
+
+396
+00:19:33.589 --> 00:19:36.250
+but when you use it with a number. Evidently
+
+397
+00:19:36.250 --> 00:19:39.369
+the number conveys enough information. The plural in English
+
+398
+00:19:39.369 --> 00:19:42.050
+is somehow redundant in that fact. 2, you already
+
+399
+00:19:42.050 --> 00:19:44.209
+said 2, but we have to say dogs, you
+
+400
+00:19:44.209 --> 00:19:49.310
+can't say two dogs. So morphosyntax studies, um, so
+
+401
+00:19:49.310 --> 00:19:52.630
+where morphology proper studies the internal form of words
+
+402
+00:19:52.630 --> 00:19:56.189
+and maybe their connection to sound and meaning, morphosyntax
+
+403
+00:19:56.189 --> 00:20:01.430
+studies the the syntactic contexts in which words do
+
+404
+00:20:01.430 --> 00:20:03.310
+and don't occur. And again, we ask the same
+
+405
+00:20:03.310 --> 00:20:06.750
+kinds of questions about universals and recurring patterns and
+
+406
+00:20:06.750 --> 00:20:09.510
+how children acquire those patterns and what they tell
+
+407
+00:20:09.510 --> 00:20:11.510
+us about the cognitive apparatus.
+
+408
+00:20:12.699 --> 00:20:15.900
+But what is then the relationship or how should
+
+409
+00:20:15.900 --> 00:20:19.619
+we look at the relationship between morphology and syntax?
+
+410
+00:20:19.699 --> 00:20:23.859
+Is it that one drives the other, or is
+
+411
+00:20:23.859 --> 00:20:28.640
+it that both influence each other in different ways?
+
+412
+00:20:28.900 --> 00:20:31.260
+Yeah, uh, this is something if you get a
+
+413
+00:20:31.260 --> 00:20:34.020
+bunch of morphologists together at a conference, we will
+
+414
+00:20:34.020 --> 00:20:39.939
+fight. Um, SO, um, um. So let's go back,
+
+415
+00:20:39.969 --> 00:20:42.979
+so, so to unlockable or even just take lockable,
+
+416
+00:20:43.030 --> 00:20:46.189
+right? Or or or teacher and teachable and teach
+
+417
+00:20:46.189 --> 00:20:48.550
+and stuff. Teaches a verb, so it goes in
+
+418
+00:20:48.550 --> 00:20:50.959
+a particular place in the in the syntax in
+
+419
+00:20:50.959 --> 00:20:53.589
+a language like English has particular set of properties.
+
+420
+00:20:54.050 --> 00:20:56.449
+Uh, A teacher is a noun, so I can't
+
+421
+00:20:56.449 --> 00:20:59.130
+teach you and I can't teach you. It's a
+
+422
+00:20:59.130 --> 00:21:01.329
+teachable as an adjective, so it's gonna have a
+
+423
+00:21:01.329 --> 00:21:04.489
+different syntax. And it seems reasonable from this kind
+
+424
+00:21:04.489 --> 00:21:07.209
+of example to say, to take the phrase you
+
+425
+00:21:07.209 --> 00:21:10.170
+use that morphology drives syntax, that you build the
+
+426
+00:21:10.170 --> 00:21:12.089
+words, you, you have the word teach, it's a
+
+427
+00:21:12.089 --> 00:21:14.959
+verb, and so it has a particular syntax. Um,
+
+428
+00:21:15.000 --> 00:21:17.310
+OR you make the word teacher, it's a noun,
+
+429
+00:21:17.390 --> 00:21:19.869
+and so it had because you have added this
+
+430
+00:21:19.869 --> 00:21:23.780
+suffix er, it has a particular a different syntax,
+
+431
+00:21:23.800 --> 00:21:26.829
+a nominal syntax, you say the teacher is whatever
+
+432
+00:21:26.829 --> 00:21:31.319
+tall, short, boring, interesting something. Um, AND so this
+
+433
+00:21:31.319 --> 00:21:33.949
+makes you think, OK, that the the morphology is
+
+434
+00:21:33.949 --> 00:21:36.530
+prior. First you put the pieces together and then
+
+435
+00:21:36.530 --> 00:21:39.270
+what you've done in the morphology drives or determines
+
+436
+00:21:39.270 --> 00:21:43.630
+your syntax. But there's other examples that work differently,
+
+437
+00:21:43.869 --> 00:21:45.959
+that seem to suggest the other direction, and this
+
+438
+00:21:45.959 --> 00:21:49.599
+is why this is a live question. Um, LET'S
+
+439
+00:21:49.599 --> 00:21:50.969
+see if I can give you an example in
+
+440
+00:21:50.969 --> 00:21:56.709
+quick form. So, um, I, I, in English we
+
+441
+00:21:56.709 --> 00:22:00.849
+have in inflectional morphology we're relatively poor. In some
+
+442
+00:22:00.849 --> 00:22:03.550
+languages, when you take the verb, the verb shows
+
+443
+00:22:03.550 --> 00:22:05.939
+what the person and number of the subject are.
+
+444
+00:22:06.150 --> 00:22:07.750
+In English, you get that a bit with B
+
+445
+00:22:07.750 --> 00:22:11.670
+I M U R, uh she is, etc. BUT
+
+446
+00:22:11.670 --> 00:22:13.670
+with regular verbs in the present tense, we only
+
+447
+00:22:13.670 --> 00:22:17.349
+have a two-way distinction. He, she, it works and
+
+448
+00:22:17.349 --> 00:22:19.349
+everything else is work. I work, you work, they
+
+449
+00:22:19.349 --> 00:22:22.689
+work, etc. There's no ending on these things. And
+
+450
+00:22:22.689 --> 00:22:25.250
+it actually turns out to be hard to, you
+
+451
+00:22:25.250 --> 00:22:27.489
+could sort of say that works is driving the
+
+452
+00:22:27.489 --> 00:22:30.219
+syntax. Works is third person singular. It takes a
+
+453
+00:22:30.219 --> 00:22:32.310
+third person singular subject because it has the S
+
+454
+00:22:32.310 --> 00:22:34.770
+on it. But the other one doesn't have any
+
+455
+00:22:34.770 --> 00:22:37.609
+information on it. So you could say, OK, it
+
+456
+00:22:37.609 --> 00:22:40.010
+just doesn't contribute any information, and that's why you
+
+457
+00:22:40.010 --> 00:22:42.489
+have a pronoun. I work, you work, they work
+
+458
+00:22:42.489 --> 00:22:45.770
+but uh Turkish to dog. You don't need to
+
+459
+00:22:45.770 --> 00:22:47.849
+have an ending on it cause the ending is
+
+460
+00:22:47.849 --> 00:22:50.660
+redundant. But if that's the case, you should be
+
+461
+00:22:50.660 --> 00:22:52.479
+able to say he work, she work, or it
+
+462
+00:22:52.479 --> 00:22:55.500
+work. These would be fine. They're equally informative as
+
+463
+00:22:55.500 --> 00:22:57.900
+I work, they work, you work, etc. There's no
+
+464
+00:22:57.900 --> 00:23:00.609
+reason that should be the case. So here you
+
+465
+00:23:00.609 --> 00:23:02.810
+want to say that the syntax is driving the
+
+466
+00:23:02.810 --> 00:23:06.939
+morphology, that you've chosen your subject first. You say,
+
+467
+00:23:06.969 --> 00:23:09.479
+I want to talk about myself, I say I,
+
+468
+00:23:09.810 --> 00:23:14.359
+and then I choose the, the best fitting form
+
+469
+00:23:14.359 --> 00:23:17.369
+of the verb for that context. And English has
+
+470
+00:23:17.369 --> 00:23:20.449
+a poor range of choices. Portuguese has more. Into
+
+471
+00:23:20.449 --> 00:23:22.969
+has more, lots of languages have more. English is
+
+472
+00:23:22.969 --> 00:23:25.209
+very poor. I've got two choices, S or nothing.
+
+473
+00:23:25.609 --> 00:23:27.750
+And S is the best choice for a third
+
+474
+00:23:27.750 --> 00:23:30.699
+person singular. And if I'm not 3 person singular,
+
+475
+00:23:30.780 --> 00:23:34.219
+I don't choose S. So that there, the information
+
+476
+00:23:34.219 --> 00:23:36.339
+seems to work the other way. First you determine
+
+477
+00:23:36.339 --> 00:23:39.260
+the syntactic context, and then you choose the form
+
+478
+00:23:39.260 --> 00:23:44.349
+that best fits that context. And so, um. We
+
+479
+00:23:44.349 --> 00:23:47.189
+have evidence here that's pulling us in two different
+
+480
+00:23:47.189 --> 00:23:49.750
+directions as to whether morphology drives syntax, and a
+
+481
+00:23:49.750 --> 00:23:52.250
+lot of the work that's done today is to
+
+482
+00:23:52.250 --> 00:23:55.670
+ask, can we go back to the evidence that
+
+483
+00:23:55.670 --> 00:23:58.969
+looks like it goes one way and rethink it,
+
+484
+00:23:59.030 --> 00:24:01.989
+reanalyze it so that it, everything really goes in
+
+485
+00:24:01.989 --> 00:24:06.130
+one direction, a simpler theory maybe. Um, I think
+
+486
+00:24:06.130 --> 00:24:07.410
+that's true. I think we can get a lot
+
+487
+00:24:07.410 --> 00:24:10.290
+of work done by saying that that morphology never
+
+488
+00:24:10.290 --> 00:24:12.739
+drives syntax, that it always works the way it
+
+489
+00:24:12.739 --> 00:24:15.410
+works, works, that it's always the way that you
+
+490
+00:24:15.410 --> 00:24:18.839
+have that you determine the syntax first, somewhat abstractly,
+
+491
+00:24:19.010 --> 00:24:22.130
+and then you determine the morphological form relative to
+
+492
+00:24:22.130 --> 00:24:25.969
+that syntax. Um, BUT it's a harder, more abstract
+
+493
+00:24:25.969 --> 00:24:26.880
+argument to make.
+
+494
+00:24:27.939 --> 00:24:32.260
+But in this particular case, really understanding and coming
+
+495
+00:24:32.260 --> 00:24:35.020
+to a conclusion when it comes to this debate
+
+496
+00:24:35.020 --> 00:24:39.130
+as to whether morphology drives syntax or the other
+
+497
+00:24:39.130 --> 00:24:44.709
+way around. Would this have broader implications as to
+
+498
+00:24:44.709 --> 00:24:50.109
+how we understand the cognition behind language? I mean,
+
+499
+00:24:50.310 --> 00:24:55.550
+would this basically have ramifications to other aspects of
+
+500
+00:24:55.550 --> 00:24:59.125
+how we process language or is it restrict To,
+
+501
+00:24:59.155 --> 00:25:03.604
+to the question itself regarding morphology and
+
+502
+00:25:03.604 --> 00:25:06.265
+so it would, but every, every time we go
+
+503
+00:25:06.265 --> 00:25:08.204
+up a level, and I'm sure this is true
+
+504
+00:25:08.204 --> 00:25:09.685
+with other people you talk to in other fields,
+
+505
+00:25:09.765 --> 00:25:11.675
+every time you go up a level of abstraction,
+
+506
+00:25:11.724 --> 00:25:14.084
+the, the, the questions become more abstract and it's
+
+507
+00:25:14.084 --> 00:25:16.685
+harder to make a compelling argument one way or
+
+508
+00:25:16.685 --> 00:25:20.160
+another. But the, the works case, the works versus
+
+509
+00:25:20.160 --> 00:25:23.359
+work case, this is an example of we describe
+
+510
+00:25:23.359 --> 00:25:25.560
+it, it's described in many, many terms by different
+
+511
+00:25:25.560 --> 00:25:29.349
+people, but it's competition. You think about language as,
+
+512
+00:25:29.400 --> 00:25:32.280
+as, um, uh, I said choosing the best form,
+
+513
+00:25:32.400 --> 00:25:35.560
+here's our superlative again, choosing the best form for
+
+514
+00:25:35.560 --> 00:25:39.640
+the particular syntactic context. And there's a view out
+
+515
+00:25:39.640 --> 00:25:43.550
+there that this is a fundamental property of language
+
+516
+00:25:43.790 --> 00:25:46.640
+that all of it involves some level some notion
+
+517
+00:25:46.640 --> 00:25:50.079
+of competition. This is clear in what's called pragmatics,
+
+518
+00:25:50.119 --> 00:25:53.599
+it's clear in other kinds of realms. Um, LET
+
+519
+00:25:53.599 --> 00:25:58.839
+me come back to another example. Um, I, uh,
+
+520
+00:25:59.150 --> 00:26:01.630
+one of the things with number cross linguistically, as
+
+521
+00:26:01.630 --> 00:26:04.550
+I said, English has singular and plural. Some languages
+
+522
+00:26:04.550 --> 00:26:07.310
+also have a dual, which marks exactly 2. So
+
+523
+00:26:07.310 --> 00:26:09.099
+there would be three forms of the word dog.
+
+524
+00:26:09.189 --> 00:26:14.069
+Innuut works this way. Um, um, uh, WE talk
+
+525
+00:26:14.069 --> 00:26:16.709
+about the Inuit language, the Inuit people, the Inuit
+
+526
+00:26:16.709 --> 00:26:19.109
+is the plural, Inuk is the singular, and then
+
+527
+00:26:19.109 --> 00:26:21.910
+there's another form, Inuk, which is when there's exactly
+
+528
+00:26:21.910 --> 00:26:25.760
+2. Um, AND, uh, when we ask about these
+
+529
+00:26:25.760 --> 00:26:28.319
+languages, these are the all the major possibilities in
+
+530
+00:26:28.319 --> 00:26:30.689
+the world's languages. Either you have a singular plural
+
+531
+00:26:30.689 --> 00:26:34.030
+distinction or you have singular plural and dual. The
+
+532
+00:26:34.030 --> 00:26:36.719
+interesting thing is that in some cases the dual
+
+533
+00:26:36.719 --> 00:26:39.270
+is restricted. You only have the dual at certain
+
+534
+00:26:39.270 --> 00:26:43.760
+times. The plural, when the plural is contrasted with
+
+535
+00:26:43.760 --> 00:26:46.959
+a dual, means 3 or more. If I have
+
+536
+00:26:46.959 --> 00:26:50.599
+a dual form available and I use the plural
+
+537
+00:26:50.599 --> 00:26:54.239
+form, Inuit, I mean, for example, 3 or more
+
+538
+00:26:54.239 --> 00:26:56.680
+and not 2. So the plural there seems to
+
+539
+00:26:56.680 --> 00:26:58.640
+mean something different than it does in English or
+
+540
+00:26:58.640 --> 00:27:01.439
+Portuguese. But if I have a dual, if I
+
+541
+00:27:01.439 --> 00:27:04.319
+don't have the dual form available, then the plural
+
+542
+00:27:04.319 --> 00:27:06.319
+just means more than one, that's sort of normal
+
+543
+00:27:06.319 --> 00:27:09.319
+meaning of plural. So again, we think about this
+
+544
+00:27:09.319 --> 00:27:10.959
+as a term uh as a a sense of
+
+545
+00:27:10.959 --> 00:27:13.719
+competition. I've gone back into morphology, but we think
+
+546
+00:27:13.719 --> 00:27:16.439
+about this in terms of competition. You look at
+
+547
+00:27:16.439 --> 00:27:20.400
+the best form, the most informative form that's available
+
+548
+00:27:20.400 --> 00:27:23.599
+for the particular environment that you're looking at. And
+
+549
+00:27:23.599 --> 00:27:26.479
+so it has to be a competition among competing
+
+550
+00:27:26.479 --> 00:27:29.030
+forms. There's a theory that this is how language
+
+551
+00:27:29.030 --> 00:27:32.189
+works brought not just morphology, but generally when we
+
+552
+00:27:32.189 --> 00:27:35.430
+say a sentence, we, we use the where there's
+
+553
+00:27:35.430 --> 00:27:39.030
+um competing kinds of uh constraints. I'm trying to
+
+554
+00:27:39.030 --> 00:27:41.140
+be lazy as a speaker and say the shortest
+
+555
+00:27:41.140 --> 00:27:43.150
+thing, but I'm also trying to be as informative
+
+556
+00:27:43.150 --> 00:27:46.819
+as possible to you, and I'm balancing these domains.
+
+557
+00:27:47.270 --> 00:27:51.229
+And so this kind of competition might deeply characterize
+
+558
+00:27:51.229 --> 00:27:54.390
+all of language, the cognitive system that involves language.
+
+559
+00:27:54.770 --> 00:27:56.760
+And so we, when we look at morphology, we're
+
+560
+00:27:56.760 --> 00:27:59.959
+looking at a piece of this system and asking,
+
+561
+00:28:00.680 --> 00:28:03.520
+do the, in particular on the technical aspect, do
+
+562
+00:28:03.520 --> 00:28:05.709
+the kinds of ways we need to, the kinds
+
+563
+00:28:05.709 --> 00:28:08.920
+of assumptions we need to make about characterizing the
+
+564
+00:28:08.920 --> 00:28:14.244
+cognitive system to understand the morphology, match up. With
+
+565
+00:28:14.244 --> 00:28:16.925
+the kinds of ways people deal with competition in
+
+566
+00:28:16.925 --> 00:28:20.685
+pragmatics or in syntax and semantics, etc. And this
+
+567
+00:28:20.685 --> 00:28:22.364
+is an exciting area. I mean, I wish I
+
+568
+00:28:22.364 --> 00:28:23.844
+could tell you, yes, the answer is yes, and
+
+569
+00:28:23.844 --> 00:28:26.084
+we know this. Um, BUT, you know, then I
+
+570
+00:28:26.084 --> 00:28:27.525
+could just hang up my hat and say, we've
+
+571
+00:28:27.525 --> 00:28:29.895
+finished the, the field. There's a lot of open
+
+572
+00:28:29.895 --> 00:28:32.354
+questions. I think there's all exciting reasons to think
+
+573
+00:28:32.354 --> 00:28:36.084
+this is true. Um, BUT not everybody sees it
+
+574
+00:28:36.084 --> 00:28:37.645
+that way. And so there's work still to be
+
+575
+00:28:37.645 --> 00:28:37.925
+done.
+
+576
+00:28:38.569 --> 00:28:40.810
+No, this is the, I guess, the beauty of
+
+577
+00:28:40.810 --> 00:28:44.689
+science. It's an ongoing enterprise and it's also fascinating
+
+578
+00:28:44.689 --> 00:28:49.369
+to notice over time how knowledge changes and evolves.
+
+579
+00:28:49.390 --> 00:28:54.229
+So, but let's get then into human universal specifically
+
+580
+00:28:54.229 --> 00:28:58.469
+in language. So, what do you make of universal
+
+581
+00:28:58.469 --> 00:29:04.064
+grammar and the Work by Noam Chomsky earlier, you
+
+582
+00:29:04.064 --> 00:29:08.505
+suggested that you're not very much into, uh, blank
+
+583
+00:29:08.505 --> 00:29:13.635
+slightest approaches to, I guess, human cognition more broadly,
+
+584
+00:29:13.714 --> 00:29:18.035
+but to language more specifically. But specifically about Noam
+
+585
+00:29:18.035 --> 00:29:21.435
+Chomsky's work, because if I understand it correctly, even
+
+586
+00:29:21.910 --> 00:29:27.650
+Uh, what universal grammar entails, uh, for he himself,
+
+587
+00:29:27.729 --> 00:29:30.420
+it has changed over time
+
+588
+00:29:30.420 --> 00:29:35.359
+slightly, right? So, so. There's a lot of, uh,
+
+589
+00:29:35.369 --> 00:29:38.569
+a lot of discussion of this, uh, peripheral discussion,
+
+590
+00:29:38.609 --> 00:29:40.609
+and I think there's a lot of, of, uh,
+
+591
+00:29:40.969 --> 00:29:44.770
+uh, confusion about the terminology or, or different people
+
+592
+00:29:44.770 --> 00:29:47.170
+that are talking it somewhat cross purposes because they're
+
+593
+00:29:47.170 --> 00:29:51.239
+using the terminology in different ways. Um, THE, the,
+
+594
+00:29:51.310 --> 00:29:54.810
+the, the initial proposal and I think the part
+
+595
+00:29:54.810 --> 00:29:57.609
+that has, has remained unchanged in this, and I
+
+596
+00:29:57.609 --> 00:30:00.140
+think that the part of it, it. It should
+
+597
+00:30:00.140 --> 00:30:03.969
+almost be uncontroversial, is this sort of polar opposition
+
+598
+00:30:03.969 --> 00:30:06.209
+between the blank slate and not the blank slate.
+
+599
+00:30:06.500 --> 00:30:09.699
+So, uh, put a pin in the notion of
+
+600
+00:30:09.699 --> 00:30:12.979
+universal grammar just for a moment. What we say
+
+601
+00:30:12.979 --> 00:30:17.400
+is, um, why is it that children, uh, uh,
+
+602
+00:30:17.410 --> 00:30:20.250
+learn languages quickly, they learn a lot of properties
+
+603
+00:30:20.250 --> 00:30:23.729
+without, uh, explicit instruction, and they converge on the
+
+604
+00:30:23.729 --> 00:30:25.969
+same answers or the same structures or the same
+
+605
+00:30:25.969 --> 00:30:30.319
+patterns in language after language after language, sometimes universal
+
+606
+00:30:30.319 --> 00:30:33.349
+to the extent that we know. Um, AND Chomsky's
+
+607
+00:30:33.349 --> 00:30:38.030
+answer was, if they are just reacting to the
+
+608
+00:30:38.030 --> 00:30:40.969
+environment, this was the behaviorist idea as a blank
+
+609
+00:30:40.969 --> 00:30:43.630
+slate, this would be a surprising fact, a surprising
+
+610
+00:30:43.630 --> 00:30:47.369
+outcome. Um, AND he suggested that there are, um,
+
+611
+00:30:47.579 --> 00:30:53.020
+universal cognitive constraints, inherent biases that shape the way
+
+612
+00:30:53.020 --> 00:30:55.420
+children are going to interact with the data in
+
+613
+00:30:55.420 --> 00:30:59.569
+the world around them. We know such biases exist
+
+614
+00:30:59.569 --> 00:31:01.619
+independently. I'm sure you've talked to people in other
+
+615
+00:31:01.619 --> 00:31:04.660
+fields. Um, THE easy one to appreciate is that
+
+616
+00:31:04.660 --> 00:31:08.430
+newborn babies. Fixate on two circles and a line.
+
+617
+00:31:08.510 --> 00:31:10.229
+If you put that pattern on the wall the
+
+618
+00:31:10.229 --> 00:31:12.310
+day they're born, they look at that. So they're
+
+619
+00:31:12.310 --> 00:31:16.880
+they're somehow preprogrammed to look for faces. It's probably
+
+620
+00:31:16.880 --> 00:31:18.589
+not the case that they, you know, they are
+
+621
+00:31:18.589 --> 00:31:23.250
+looking for faces, but there's some inherent hardwired bias,
+
+622
+00:31:23.510 --> 00:31:26.640
+uh, that affects their visual and attention system that
+
+623
+00:31:26.849 --> 00:31:29.150
+chooses the way the massive amount of data that's
+
+624
+00:31:29.150 --> 00:31:33.040
+coming towards them is filtered. And Chomsky's proposal was
+
+625
+00:31:33.040 --> 00:31:35.430
+that there are such filters for language, and this
+
+626
+00:31:35.430 --> 00:31:39.599
+is universal grammar. Universal grammar is not that we
+
+627
+00:31:39.599 --> 00:31:41.920
+all share the same rule for making plurals that
+
+628
+00:31:41.920 --> 00:31:44.520
+we all share um the the like you pick
+
+629
+00:31:44.520 --> 00:31:46.000
+up a grammar book and it says, you know,
+
+630
+00:31:46.079 --> 00:31:48.000
+you write the subject before the verb, none of
+
+631
+00:31:48.000 --> 00:31:51.400
+that is universal. The universal grammar refers to these
+
+632
+00:31:51.400 --> 00:31:55.829
+filters or these biases. Um, AND that's at that
+
+633
+00:31:55.829 --> 00:31:57.780
+level that, that seems to be right, that just
+
+634
+00:31:57.780 --> 00:32:00.750
+seems to be right. The debates now, and this
+
+635
+00:32:00.750 --> 00:32:04.189
+is where, um, where you might say that Chomsky's
+
+636
+00:32:04.189 --> 00:32:06.790
+thinking about this over time has changed, is what
+
+637
+00:32:06.790 --> 00:32:09.069
+is the content of those biases, what are the
+
+638
+00:32:09.069 --> 00:32:11.930
+form. And that there's two ways of thinking about
+
+639
+00:32:11.930 --> 00:32:14.010
+this, and you may have heard these terms before.
+
+640
+00:32:14.260 --> 00:32:17.060
+One is it, um, is it domain specific or
+
+641
+00:32:17.060 --> 00:32:22.140
+domain general? So are our biases specific to language?
+
+642
+00:32:22.219 --> 00:32:24.420
+Are the pieces that are hardwired, the constraints that
+
+643
+00:32:24.420 --> 00:32:27.209
+make us approach the data in a particular way,
+
+644
+00:32:27.459 --> 00:32:31.260
+are those specific to language, or are they general
+
+645
+00:32:31.260 --> 00:32:35.060
+cognitive properties? So I gave you an argument. My
+
+646
+00:32:35.060 --> 00:32:39.814
+view would say. Universal grammar, our inherent cognitive capacities,
+
+647
+00:32:40.185 --> 00:32:42.744
+tells us that the only way to make a
+
+648
+00:32:42.744 --> 00:32:46.545
+true superlative is one that contains the comparative. You
+
+649
+00:32:46.545 --> 00:32:49.175
+can only build the meaning more x than all
+
+650
+00:32:49.175 --> 00:32:52.415
+others if you can build the meaning more X.
+
+651
+00:32:52.645 --> 00:32:55.704
+So if our, our brains manipulate or our minds
+
+652
+00:32:55.704 --> 00:32:59.564
+manipulate symbolic representations, this is a constraint on possible
+
+653
+00:32:59.564 --> 00:33:03.670
+symbolic representations. That's cool, right? Um, AND so I
+
+654
+00:33:03.670 --> 00:33:05.619
+would see that as a part of universal grammar,
+
+655
+00:33:05.709 --> 00:33:07.989
+we're constrained to approach the data that way, and
+
+656
+00:33:07.989 --> 00:33:11.550
+that's consistent with sort of Chomsky's view. But what
+
+657
+00:33:11.550 --> 00:33:14.709
+I don't know is whether the source of that
+
+658
+00:33:14.709 --> 00:33:19.630
+constraint is about linguistic symbolic representations, or about symbolic
+
+659
+00:33:19.630 --> 00:33:23.949
+representations in the brain generally, including non-linguistic representations. And
+
+660
+00:33:23.949 --> 00:33:26.989
+that's a hard, hard, hard thing to do, to
+
+661
+00:33:26.989 --> 00:33:31.420
+try to figure out, right? Um, THE counting universal
+
+662
+00:33:31.420 --> 00:33:33.380
+as well, right? So I said there are 3
+
+663
+00:33:33.380 --> 00:33:36.380
+possibilities. Languages have no marking of number. You have
+
+664
+00:33:36.380 --> 00:33:40.380
+marking of singular plural distinctions on nouns like in
+
+665
+00:33:40.380 --> 00:33:43.300
+English after a number, or just in general when
+
+666
+00:33:43.300 --> 00:33:45.780
+you're talking about plurals, or you do it when
+
+667
+00:33:45.780 --> 00:33:48.819
+you're just talking about plurals, but Turkish like, not
+
+668
+00:33:48.819 --> 00:33:52.060
+after the noun. It's not just about redundancy. If
+
+669
+00:33:52.060 --> 00:33:54.180
+it was just about redundancy, English would be just
+
+670
+00:33:54.180 --> 00:33:57.390
+like Turkish, 2 dog would be totally fine. Um,
+
+671
+00:33:57.459 --> 00:33:59.209
+AND so we ask about the nature of the
+
+672
+00:33:59.209 --> 00:34:02.819
+symbolic system. Um, AND so you, you then you
+
+673
+00:34:02.819 --> 00:34:07.260
+want to ask, how fine-grained is universal grammar in
+
+674
+00:34:07.260 --> 00:34:13.659
+this system? How fine-grained are the predetermined constraints on
+
+675
+00:34:13.659 --> 00:34:17.020
+the cognitive system that yield these patterns as the
+
+676
+00:34:17.020 --> 00:34:19.899
+output? What are the contributions that come from outside
+
+677
+00:34:19.899 --> 00:34:23.790
+of language, general psychology, general cognition, and what are
+
+678
+00:34:23.790 --> 00:34:27.530
+the constraints that come from a language system? And
+
+679
+00:34:27.530 --> 00:34:31.570
+certainly over time, uh, Chomsky's view and other people's
+
+680
+00:34:31.570 --> 00:34:36.010
+view on both the, the content, what is language
+
+681
+00:34:36.010 --> 00:34:38.810
+specific and what is more domain general, and what
+
+682
+00:34:38.810 --> 00:34:42.879
+is the form of the specific restrictions has changed.
+
+683
+00:34:43.250 --> 00:34:45.899
+Early work had a lot richer universal grammar in
+
+684
+00:34:45.899 --> 00:34:49.208
+terms of its content of the actual specific formulation.
+
+685
+00:34:49.560 --> 00:34:52.520
+And the thinking has changed that that it's actually,
+
+686
+00:34:52.610 --> 00:34:55.708
+it may have less that is specific to language,
+
+687
+00:34:55.929 --> 00:34:58.530
+but that comes from general systems and has specific
+
+688
+00:34:58.530 --> 00:35:03.050
+instantiations in language. Um, AND I, you know, this
+
+689
+00:35:03.050 --> 00:35:04.979
+is what I spent my day looking at and,
+
+690
+00:35:05.050 --> 00:35:11.729
+and, uh, I, I don't see evidence against at
+
+691
+00:35:11.729 --> 00:35:15.370
+the broad level, the view that there are hardwired
+
+692
+00:35:15.370 --> 00:35:18.169
+constraints that surface in the way children learn and
+
+693
+00:35:18.169 --> 00:35:20.370
+in the way we see these patterns cross linguistically
+
+694
+00:35:20.370 --> 00:35:23.729
+as universals. I'm happy to fight with people about
+
+695
+00:35:23.729 --> 00:35:26.159
+the narrow details, but at the broad level that
+
+696
+00:35:26.169 --> 00:35:29.389
+that seems to be right. OK,
+
+697
+00:35:29.469 --> 00:35:32.540
+but at this point then, if I were to
+
+698
+00:35:32.540 --> 00:35:35.070
+ask you, what do you know, what do we
+
+699
+00:35:35.070 --> 00:35:39.669
+know about human universals in language? What can we
+
+700
+00:35:39.669 --> 00:35:43.070
+say about that? I mean, what are the universals
+
+701
+00:35:43.070 --> 00:35:44.149
+that we can point
+
+702
+00:35:44.149 --> 00:35:48.250
+to? Yeah, so there's actually, uh, there's quite a
+
+703
+00:35:48.250 --> 00:35:54.300
+few, and there's um I uh I. There's quite
+
+704
+00:35:54.300 --> 00:35:56.300
+a few, a few, quite a few at the
+
+705
+00:35:56.300 --> 00:35:58.379
+level of description. I can give you a whole
+
+706
+00:35:58.379 --> 00:36:00.979
+bunch. Most of them are, and so this is
+
+707
+00:36:00.979 --> 00:36:04.820
+actually another interesting point, um, of terminology. There's, there's
+
+708
+00:36:04.820 --> 00:36:07.479
+many different kinds of universals and people use this
+
+709
+00:36:07.479 --> 00:36:12.620
+in different, uh different uh ways. Um, MOST in
+
+710
+00:36:12.620 --> 00:36:15.639
+morphology, most people using the term universal mean it
+
+711
+00:36:15.639 --> 00:36:19.139
+in what we call an implicational universal. It does
+
+712
+00:36:19.139 --> 00:36:23.354
+not mean that all languages have. Some particular property,
+
+713
+00:36:23.524 --> 00:36:26.245
+but rather statements of the form. If a language
+
+714
+00:36:26.245 --> 00:36:29.445
+has this property, then it has that property. So
+
+715
+00:36:29.445 --> 00:36:33.324
+for example, if a language has a dual number
+
+716
+00:36:33.324 --> 00:36:36.915
+form, a form that marks two elements like dog
+
+717
+00:36:36.925 --> 00:36:38.685
+dogs, we don't in English, we only have singular
+
+718
+00:36:38.685 --> 00:36:42.084
+plural. If a language marks a distinction between dual
+
+719
+00:36:42.084 --> 00:36:45.635
+and non-dual, it also marks a distinction between plural
+
+720
+00:36:45.635 --> 00:36:48.594
+and non-plural, 3 and above, and that's that was
+
+721
+00:36:48.594 --> 00:36:53.100
+first observed. 50, 60, 70 years ago, and of
+
+722
+00:36:53.100 --> 00:36:56.219
+course, you know, scientists are an ordinary bunch. Anytime
+
+723
+00:36:56.219 --> 00:36:58.860
+someone proposes a universal, a whole bunch of young
+
+724
+00:36:58.860 --> 00:37:01.340
+energetic people try to show that it's wrong, and
+
+725
+00:37:01.340 --> 00:37:03.020
+they point to various examples and we look at
+
+726
+00:37:03.020 --> 00:37:05.060
+them more closely, and it isn't wrong. It's right,
+
+727
+00:37:05.139 --> 00:37:09.149
+it's true, right? So there's um Uh, there is
+
+728
+00:37:09.149 --> 00:37:12.310
+somebody, uh, Hans Planck in Germany who keeps, uh,
+
+729
+00:37:12.389 --> 00:37:16.149
+uh, an archive of, of proposed universals with notes
+
+730
+00:37:16.149 --> 00:37:20.409
+on their various kinds of, um, counter alleged counterexamples,
+
+731
+00:37:20.469 --> 00:37:23.510
+etc. There are a lot in morphology, there are
+
+732
+00:37:23.510 --> 00:37:27.149
+a lot of these kinds of universals, implicational universals.
+
+733
+00:37:27.189 --> 00:37:30.629
+There are things we know, um. There are a
+
+734
+00:37:30.629 --> 00:37:33.469
+lot more proposed universals, some of which are proposed
+
+735
+00:37:33.469 --> 00:37:35.909
+over smaller samples, and we don't know yet whether
+
+736
+00:37:35.909 --> 00:37:38.070
+they're right, but there are a lot of universals
+
+737
+00:37:38.070 --> 00:37:40.870
+of this sort, um, and I could, you know,
+
+738
+00:37:40.949 --> 00:37:42.639
+I could give you lists. I've alluded to a
+
+739
+00:37:42.639 --> 00:37:45.469
+few others already with like the, the no good
+
+740
+00:37:45.469 --> 00:37:51.510
+better goodness type universal um prenominal systems, systems of
+
+741
+00:37:51.510 --> 00:37:54.750
+I, me, you, he, she, it, then. There are
+
+742
+00:37:54.750 --> 00:37:59.139
+really at a fundamental level in terms of person
+
+743
+00:37:59.139 --> 00:38:03.270
+marking, first person, second person, etc. There are really
+
+744
+00:38:03.270 --> 00:38:06.550
+fundamentally only two systems that languages have. There are
+
+745
+00:38:06.550 --> 00:38:08.830
+only 2, and everything else is a variation on
+
+746
+00:38:08.830 --> 00:38:11.389
+one of those two systems. And the two systems
+
+747
+00:38:11.389 --> 00:38:13.909
+are the English style or Portuguese or European style
+
+748
+00:38:13.909 --> 00:38:16.350
+system, where you have 1 person, 2nd person, and
+
+749
+00:38:16.350 --> 00:38:20.270
+third person. I am, you are, she is, right?
+
+750
+00:38:20.629 --> 00:38:23.439
+And then there are languages that have that, plus,
+
+751
+00:38:23.449 --> 00:38:27.250
+in addition, for the first person plural, we, they
+
+752
+00:38:27.250 --> 00:38:30.090
+make a distinction that we call an inclusive versus
+
+753
+00:38:30.090 --> 00:38:34.090
+an exclusive we. So when I say we find
+
+754
+00:38:34.090 --> 00:38:38.129
+this interesting, I'm actually ambiguous about whether I'm including
+
+755
+00:38:38.129 --> 00:38:40.610
+you, right? I could mean me and the other
+
+756
+00:38:40.610 --> 00:38:42.850
+linguists, or I could mean you and me because
+
+757
+00:38:42.850 --> 00:38:45.300
+we're talking about it. There are languages where you
+
+758
+00:38:45.300 --> 00:38:47.489
+have to specify, where you have to actually just
+
+759
+00:38:47.489 --> 00:38:50.290
+make that distinction. But again, if our, if our
+
+760
+00:38:50.290 --> 00:38:54.370
+persons are first person, me, second person, you, and
+
+761
+00:38:54.370 --> 00:38:57.449
+third person, the inclusive is built by combining the
+
+762
+00:38:57.449 --> 00:39:00.090
+first and the second person semantically. It's, it takes
+
+763
+00:39:00.090 --> 00:39:03.449
+the same pieces and it combines them. There are
+
+764
+00:39:03.449 --> 00:39:09.409
+sociologists, um. Irving Goffman was one such uh sociologist
+
+765
+00:39:09.659 --> 00:39:12.540
+who worked on personal interaction. And so we talk
+
+766
+00:39:12.540 --> 00:39:14.739
+in linguistics and I say you, right? I mean
+
+767
+00:39:14.739 --> 00:39:17.219
+you, oh, what's the, what's the second person? And
+
+768
+00:39:17.219 --> 00:39:19.580
+we can describe it as the addressee, the one
+
+769
+00:39:19.580 --> 00:39:22.090
+I'm talking to, or the hearer or the interlocutor
+
+770
+00:39:22.090 --> 00:39:24.659
+in the various ways. He notes that there's a
+
+771
+00:39:24.659 --> 00:39:30.899
+lot of different usages of language where these concepts
+
+772
+00:39:30.899 --> 00:39:33.580
+break apart. So in theater we can talk about
+
+773
+00:39:33.580 --> 00:39:36.800
+a stage whisper. I look at some other actor
+
+774
+00:39:36.800 --> 00:39:39.439
+on stage, but I say something which is clearly
+
+775
+00:39:39.439 --> 00:39:42.000
+for the benefit of the audience or vice versa,
+
+776
+00:39:42.320 --> 00:39:44.280
+think of all these kinds of things, but languages
+
+777
+00:39:44.280 --> 00:39:46.879
+never make these distinctions, you know, special forms for
+
+778
+00:39:46.879 --> 00:39:50.030
+any of this. So again, we have universals of
+
+779
+00:39:50.030 --> 00:39:53.040
+language. They're telling us something about the cognitive system,
+
+780
+00:39:53.189 --> 00:39:55.179
+and there's lots and lots and lots of these,
+
+781
+00:39:55.389 --> 00:39:59.469
+but we still don't quite know to what extent
+
+782
+00:39:59.469 --> 00:40:03.500
+is the the understanding of these universals arises, uh,
+
+783
+00:40:03.629 --> 00:40:06.989
+independent of language and is reflected in language. So,
+
+784
+00:40:07.189 --> 00:40:09.510
+you know, in the universal of person, there's a
+
+785
+00:40:09.510 --> 00:40:12.070
+bunch of interesting ones about how first person works.
+
+786
+00:40:12.395 --> 00:40:15.084
+Um, THIS may be because of what we call
+
+787
+00:40:15.084 --> 00:40:18.764
+a theory of mind. Some children learn early on
+
+788
+00:40:18.764 --> 00:40:20.915
+in their experience. They don't have a birth, but
+
+789
+00:40:20.915 --> 00:40:23.125
+they get later, is a sense of self. They
+
+790
+00:40:23.125 --> 00:40:25.524
+recognize that they exist and are distinct from the
+
+791
+00:40:25.524 --> 00:40:27.794
+rest of the world. I recognize I exist, the
+
+792
+00:40:27.794 --> 00:40:30.554
+ego of the self, or whatever, right? And language
+
+793
+00:40:30.554 --> 00:40:33.495
+then reflects that and prioritizes expression of the first
+
+794
+00:40:33.495 --> 00:40:37.840
+person, right, in interesting ways morphologically. So, so these
+
+795
+00:40:37.840 --> 00:40:40.770
+universals are out there, but if you're looking for
+
+796
+00:40:40.919 --> 00:40:44.280
+universals of the form, all languages do this, no
+
+797
+00:40:44.280 --> 00:40:47.919
+languages do that. Those are rarer and fewer and
+
+798
+00:40:47.919 --> 00:40:51.090
+farther between. But, but like for first person, second
+
+799
+00:40:51.090 --> 00:40:54.199
+person, third person, all languages have some way in
+
+800
+00:40:54.199 --> 00:40:56.239
+which first person and second person play a role
+
+801
+00:40:56.239 --> 00:41:00.149
+in their systems. And so, so. This has to
+
+802
+00:41:00.149 --> 00:41:03.760
+come from somewhere. This is, these are robust, well
+
+803
+00:41:03.760 --> 00:41:07.389
+understood universals. Um, THERE is a lot of dissent,
+
+804
+00:41:08.199 --> 00:41:12.959
+but much of the dissent. Some of the dissent
+
+805
+00:41:13.370 --> 00:41:16.969
+says, OK, we see variation in language, uh, it's
+
+806
+00:41:16.969 --> 00:41:20.169
+a dissent about some technical details, some technical aspect
+
+807
+00:41:20.169 --> 00:41:23.270
+about a particular formulation of a universal, or about
+
+808
+00:41:23.270 --> 00:41:26.370
+whether the universal is reflecting something that is domain
+
+809
+00:41:26.370 --> 00:41:29.129
+specific to language as opposed to domain general. Those
+
+810
+00:41:29.129 --> 00:41:31.739
+are harder questions to resolve.
+
+811
+00:41:32.159 --> 00:41:36.459
+Mhm. And when it comes to morphology, specifically, which
+
+812
+00:41:36.459 --> 00:41:40.280
+is the main theme of our conversation today, how
+
+813
+00:41:40.280 --> 00:41:45.669
+do you compare it across languages, which sometimes, uh,
+
+814
+00:41:45.679 --> 00:41:48.709
+seem very different from one another?
+
+815
+00:41:49.250 --> 00:41:51.459
+Yep, uh, so on the day to day level,
+
+816
+00:41:51.600 --> 00:41:55.250
+it's kind of hard. Um, BUT, uh, but with
+
+817
+00:41:55.250 --> 00:41:57.560
+some of the stuff we've talked about today, uh,
+
+818
+00:41:57.729 --> 00:42:01.199
+involves comparison. So there's, there's various ways you can,
+
+819
+00:42:01.290 --> 00:42:04.489
+uh, compare, um, you can think about this in
+
+820
+00:42:04.489 --> 00:42:09.129
+terms of pinning down the form and comparing, or
+
+821
+00:42:09.129 --> 00:42:11.000
+you can think about this in terms of pinning
+
+822
+00:42:11.000 --> 00:42:14.040
+down the meaning, and then comparing the different ways
+
+823
+00:42:14.040 --> 00:42:17.635
+in which that meaning. Expressed. So plurality, this is,
+
+824
+00:42:17.715 --> 00:42:21.274
+this you can compare across languages that, you know,
+
+825
+00:42:21.685 --> 00:42:23.965
+we, we have a general universal sense of the
+
+826
+00:42:23.965 --> 00:42:25.564
+number of objects. You have one object, you have
+
+827
+00:42:25.564 --> 00:42:27.284
+more than one object, and then you can ask
+
+828
+00:42:27.284 --> 00:42:28.764
+how do you, how do you express that in
+
+829
+00:42:28.764 --> 00:42:30.764
+your language, and you can go and you can
+
+830
+00:42:30.764 --> 00:42:33.945
+get a pretty good sense. People writing descriptive grammars,
+
+831
+00:42:34.044 --> 00:42:36.004
+people go out and work with their community or
+
+832
+00:42:36.004 --> 00:42:38.439
+from their own community. I hope there's more of
+
+833
+00:42:38.439 --> 00:42:42.520
+that, that people from endangered languages and minority dialects
+
+834
+00:42:42.520 --> 00:42:44.959
+will begin to describe their own languages and publish
+
+835
+00:42:44.959 --> 00:42:46.929
+this. And when they do this, then we have
+
+836
+00:42:46.929 --> 00:42:48.570
+these resources and we can go and we can
+
+837
+00:42:48.570 --> 00:42:53.010
+look at that. And people use the same often
+
+838
+00:42:53.010 --> 00:42:57.100
+similar frameworks for describing a language, partly because a
+
+839
+00:42:57.100 --> 00:42:59.449
+lot of the cognitive concepts are very similar. So
+
+840
+00:42:59.449 --> 00:43:01.810
+like number, you'll find a chapter on number in
+
+841
+00:43:01.810 --> 00:43:04.250
+any language that has a uh grammar of a
+
+842
+00:43:04.250 --> 00:43:06.729
+language that has a number representation, or you could
+
+843
+00:43:06.729 --> 00:43:08.570
+go out in the field and do the experiments
+
+844
+00:43:08.570 --> 00:43:10.810
+yourself by putting like one or two objects in
+
+845
+00:43:10.810 --> 00:43:13.179
+front of it. Um, AND then writing down the
+
+846
+00:43:13.179 --> 00:43:16.260
+words and or recording the words and and listening
+
+847
+00:43:16.260 --> 00:43:19.179
+to them and segmenting them. So some stuff can
+
+848
+00:43:19.179 --> 00:43:24.179
+be done fairly easily, uh, cross linguistically, um, the,
+
+849
+00:43:24.570 --> 00:43:27.260
+the differences we see tend to be differences in
+
+850
+00:43:27.260 --> 00:43:31.739
+form more than differences in the fundamental concepts. And
+
+851
+00:43:31.739 --> 00:43:33.699
+so when you pin the concept down, you can
+
+852
+00:43:33.699 --> 00:43:36.530
+then just begin to compare the forms cross linguistically.
+
+853
+00:43:36.899 --> 00:43:39.860
+Um, YOU, uh, going the other way with with
+
+854
+00:43:39.860 --> 00:43:44.770
+form. Um, uh, THERE are interesting questions you can
+
+855
+00:43:44.770 --> 00:43:47.979
+ask about, uh, prefixes and suffixes, so you can,
+
+856
+00:43:48.070 --> 00:43:50.909
+you can gender identify a content word, a verb
+
+857
+00:43:50.909 --> 00:43:53.229
+or a noun, and then you can look at
+
+858
+00:43:53.229 --> 00:43:54.709
+the pieces that are attached to it and say,
+
+859
+00:43:54.750 --> 00:43:56.110
+are they attached on the left or on the
+
+860
+00:43:56.110 --> 00:43:58.939
+right. I gave the example unlockable at the beginning
+
+861
+00:43:58.939 --> 00:44:01.229
+of our discussion that has a prefix and a
+
+862
+00:44:01.229 --> 00:44:03.030
+suffix piece that comes in front, and the piece
+
+863
+00:44:03.030 --> 00:44:05.040
+that comes at the back. There's a lot of
+
+864
+00:44:05.040 --> 00:44:08.449
+interesting facts about languages tend to be more suffixing
+
+865
+00:44:08.449 --> 00:44:11.169
+than they are prefixing. All languages regardless of their
+
+866
+00:44:11.169 --> 00:44:15.250
+basic word order. This not all languages. Overall, the
+
+867
+00:44:15.250 --> 00:44:19.270
+vast majority of morphology is suffixing rather than prefixing,
+
+868
+00:44:19.679 --> 00:44:21.939
+regardless of the word order of the language, whether
+
+869
+00:44:21.939 --> 00:44:24.725
+verbs come before objects or objects come before. THAT'S
+
+870
+00:44:24.725 --> 00:44:27.344
+an interesting fact. But then you could say I
+
+871
+00:44:27.344 --> 00:44:29.375
+could do a form-based comparison. I could look at
+
+872
+00:44:29.375 --> 00:44:33.225
+all of the prefixes in a variety of languages
+
+873
+00:44:33.455 --> 00:44:38.014
+and ask, do I have universal patterns in the
+
+874
+00:44:38.014 --> 00:44:41.735
+meanings they do and don't represent negation always prefixel,
+
+875
+00:44:41.774 --> 00:44:45.300
+is negation always suffixel, etc. So you can, you
+
+876
+00:44:45.300 --> 00:44:48.939
+can, despite the surface variation, when you break it
+
+877
+00:44:48.939 --> 00:44:52.620
+down into a more abstract symbolic representation and talk
+
+878
+00:44:52.620 --> 00:44:55.060
+about the root word and the prefix and the
+
+879
+00:44:55.060 --> 00:44:58.120
+suffix and the order of the suffixes, you can
+
+880
+00:44:58.120 --> 00:45:01.409
+ask, uh, and then characterize these not in terms
+
+881
+00:45:01.409 --> 00:45:03.729
+of, you know, whether it's a ze or a
+
+882
+00:45:03.729 --> 00:45:06.459
+or or a ah, but in terms of what
+
+883
+00:45:06.459 --> 00:45:09.149
+it represents in terms of meaning or function, you
+
+884
+00:45:09.149 --> 00:45:11.239
+can get a system that's that's much more directly
+
+885
+00:45:11.239 --> 00:45:11.860
+comparable.
+
+886
+00:45:12.719 --> 00:45:17.719
+Mhm. So I have one final question then, and
+
+887
+00:45:17.719 --> 00:45:22.310
+again, regarding how we think about human universals in
+
+888
+00:45:22.310 --> 00:45:25.560
+language, at least to a certain extent. So, Uh,
+
+889
+00:45:25.679 --> 00:45:27.800
+I, I want to ask you this because I've
+
+890
+00:45:27.800 --> 00:45:31.350
+already actually posed more or less the same question
+
+891
+00:45:31.350 --> 00:45:35.040
+to several other linguists, and I'm curious about your
+
+892
+00:45:35.040 --> 00:45:39.850
+take on it. So, let's say that uh universal
+
+893
+00:45:39.850 --> 00:45:44.469
+grammar or some form of universal grammar is correct.
+
+894
+00:45:44.600 --> 00:45:47.679
+And there are aspects of our cognition that is
+
+895
+00:45:47.679 --> 00:45:52.760
+associated with language that we share as humans across
+
+896
+00:45:52.760 --> 00:45:57.639
+all cultures, all societies. If that is correct, uh,
+
+897
+00:45:57.649 --> 00:46:01.649
+then, uh, I mean, should we expect it to
+
+898
+00:46:01.649 --> 00:46:06.459
+be. Uh, DOMAIN specific, that is the cognition associated
+
+899
+00:46:06.459 --> 00:46:11.300
+with language is specialized for the processing of language
+
+900
+00:46:11.300 --> 00:46:15.179
+or for it to be domain general and language
+
+901
+00:46:15.179 --> 00:46:18.419
+being something that simply, if you want to take
+
+902
+00:46:18.419 --> 00:46:21.939
+an evolutionary approach on this, of course, simply piggyback
+
+903
+00:46:22.219 --> 00:46:26.689
+on uh parts of our cognitive system that evolved
+
+904
+00:46:26.689 --> 00:46:29.479
+for other purposes, primarily.
+
+905
+00:46:29.699 --> 00:46:33.860
+So, so, um Let me react to the way
+
+906
+00:46:33.860 --> 00:46:36.820
+you phrased this one particular word you asked about,
+
+907
+00:46:36.899 --> 00:46:39.500
+should we expect it to be one way or
+
+908
+00:46:39.500 --> 00:46:42.179
+another. And I guess the question is in light
+
+909
+00:46:42.179 --> 00:46:47.219
+of what would we have expectations. Um, MY own,
+
+910
+00:46:47.300 --> 00:46:49.550
+maybe this is my own personal history of this,
+
+911
+00:46:49.699 --> 00:46:54.060
+but the, the, um, uh, a priori with no,
+
+912
+00:46:54.179 --> 00:46:57.540
+with no other um uh assumptions, no other beliefs,
+
+913
+00:46:57.580 --> 00:47:00.409
+and no other study about it. I would expect
+
+914
+00:47:00.409 --> 00:47:02.520
+that everything is domain general. I would say, you
+
+915
+00:47:02.520 --> 00:47:05.919
+know, why, why would there be a domain specific
+
+916
+00:47:05.919 --> 00:47:09.560
+part of, of ultimately the brain somehow encoded in
+
+917
+00:47:09.560 --> 00:47:12.520
+the brain that makes us filter the world in
+
+918
+00:47:12.520 --> 00:47:14.600
+a particular way. But the same thing I think
+
+919
+00:47:14.600 --> 00:47:18.120
+would be true of vision. Why would babies fixate
+
+920
+00:47:18.120 --> 00:47:20.919
+on a face on uh two dots in a
+
+921
+00:47:20.919 --> 00:47:25.080
+line? Once we discover that that's true, it is
+
+922
+00:47:25.080 --> 00:47:27.544
+true. Right? There must be so there is some
+
+923
+00:47:27.544 --> 00:47:30.665
+domain specific fixation module that tells you to look
+
+924
+00:47:30.665 --> 00:47:32.625
+for faces, right? And then you can sort of
+
+925
+00:47:32.625 --> 00:47:35.024
+ask in evolutionary terms why that exists and people
+
+926
+00:47:35.024 --> 00:47:36.544
+give stories about it, and I think it has
+
+927
+00:47:36.544 --> 00:47:38.425
+to do with, you know, making sure you don't
+
+928
+00:47:38.425 --> 00:47:39.965
+get left alone in the jungle and this kind
+
+929
+00:47:39.965 --> 00:47:43.989
+of stuff. Um, THE, um, uh, so you could
+
+930
+00:47:43.989 --> 00:47:46.030
+ask them about language, right? We could, we could
+
+931
+00:47:46.030 --> 00:47:50.750
+recast this, uh, a priori, just coming to the
+
+932
+00:47:50.750 --> 00:47:53.429
+topic from the beginning, why would it be the
+
+933
+00:47:53.429 --> 00:47:56.219
+case that there would be any domain specific, um,
+
+934
+00:47:56.260 --> 00:48:00.310
+uh, universals, but there appeared to be domain specific
+
+935
+00:48:00.310 --> 00:48:03.550
+universals. So again, for the, for the notion of
+
+936
+00:48:03.550 --> 00:48:07.540
+person. There are culturally relevant distinctions that are never
+
+937
+00:48:07.540 --> 00:48:11.020
+made monomorphemically, where there's just a single morpheme that
+
+938
+00:48:11.020 --> 00:48:14.500
+makes that meaning. Um, THE inventory of meanings that
+
+939
+00:48:14.500 --> 00:48:17.169
+we make in person, author of the speech act,
+
+940
+00:48:17.500 --> 00:48:20.110
+addressee of the Speech Act, and other, right? Uh,
+
+941
+00:48:20.639 --> 00:48:22.419
+AND then the inclusive that combines the two, and
+
+942
+00:48:22.419 --> 00:48:26.020
+that's it. Those are the only possibilities. Um, THAT
+
+943
+00:48:26.020 --> 00:48:28.290
+seems to be domain specific in the sense that
+
+944
+00:48:28.290 --> 00:48:31.649
+culturally and consciously, we can certainly make and manipulate
+
+945
+00:48:31.649 --> 00:48:34.919
+and use other distinctions. So it's not coming. In
+
+946
+00:48:34.919 --> 00:48:38.320
+any obvious way from culture, that these are the
+
+947
+00:48:38.320 --> 00:48:41.719
+uh the the the categories that language is gonna
+
+948
+00:48:41.719 --> 00:48:44.310
+have, but these are the categories that language has.
+
+949
+00:48:44.679 --> 00:48:46.760
+So then we can ask, you know, we rephrase
+
+950
+00:48:46.760 --> 00:48:49.639
+your question rather than saying what would I expect
+
+951
+00:48:49.639 --> 00:48:51.639
+out of the blue to be the state of
+
+952
+00:48:51.639 --> 00:48:56.760
+affairs, more interesting question is, how representative is that
+
+953
+00:48:56.760 --> 00:48:59.560
+example compared to all of the other examples. Look
+
+954
+00:48:59.560 --> 00:49:02.489
+at the other examples and ask about them, uh,
+
+955
+00:49:02.500 --> 00:49:04.975
+how How much are they telling us something domain
+
+956
+00:49:04.975 --> 00:49:07.614
+specific or domain general? And that's hard and requires
+
+957
+00:49:07.614 --> 00:49:10.455
+collaboration of people. I'm going this evening to a
+
+958
+00:49:10.455 --> 00:49:14.524
+panel on collaboration among psychologists, computationalists, and linguists, right?
+
+959
+00:49:14.695 --> 00:49:16.205
+How do we get to this stuff? I can't
+
+960
+00:49:16.205 --> 00:49:18.695
+know all of the pieces outside of language. How
+
+961
+00:49:18.695 --> 00:49:20.135
+do we, how do we get to figure out
+
+962
+00:49:20.135 --> 00:49:24.415
+these questions? Even there, when we say it's domain
+
+963
+00:49:24.415 --> 00:49:26.614
+general, and this goes back to the question about
+
+964
+00:49:26.614 --> 00:49:29.094
+the evolution of the thinking of the representation of
+
+965
+00:49:29.094 --> 00:49:33.030
+universal grammar. It is, it is fundamentally clear that
+
+966
+00:49:33.030 --> 00:49:36.149
+languages person systems are built on these categories and
+
+967
+00:49:36.149 --> 00:49:39.949
+that that this is not specifically domain general, that
+
+968
+00:49:39.949 --> 00:49:43.790
+it's these categories, but what is domain specific? Is
+
+969
+00:49:43.790 --> 00:49:47.629
+it these categories with this interpretation that we are
+
+970
+00:49:47.629 --> 00:49:50.500
+forced to do, or Is it something that says,
+
+971
+00:49:50.699 --> 00:49:53.699
+given the way psychology works and theory of mind
+
+972
+00:49:53.699 --> 00:49:59.350
+works, etc. THERE is a domain specific categorization function
+
+973
+00:49:59.620 --> 00:50:03.540
+that constrains the way linguistic categories are built out
+
+974
+00:50:03.540 --> 00:50:05.659
+of the primitives that are fed to it from
+
+975
+00:50:05.659 --> 00:50:09.110
+a domain external system. I had no idea, um,
+
+976
+00:50:09.300 --> 00:50:12.479
+but I think it's a really, really fundamentally interesting
+
+977
+00:50:12.479 --> 00:50:15.899
+question. Um, uh, BUT it's a slightly different question
+
+978
+00:50:15.899 --> 00:50:19.090
+than the one about expectations. It's about, given the
+
+979
+00:50:19.090 --> 00:50:20.580
+evidence that we have, what do we make of
+
+980
+00:50:20.580 --> 00:50:22.540
+this evidence, and what is it telling us about
+
+981
+00:50:22.540 --> 00:50:25.939
+how the, uh, how the ultimately how the cognitive
+
+982
+00:50:25.939 --> 00:50:26.820
+system works.
+
+983
+00:50:28.219 --> 00:50:31.909
+Great. So, Doctor Bobali, just before we go, would
+
+984
+00:50:31.909 --> 00:50:34.429
+you like to tell people where they can find
+
+985
+00:50:34.429 --> 00:50:36.600
+you and your work on the internet?
+
+986
+00:50:37.149 --> 00:50:40.429
+Oh, cool. OK, sure. So, so uh my last
+
+987
+00:50:40.429 --> 00:50:42.270
+name, which I guess you'll see somewhere in a
+
+988
+00:50:42.270 --> 00:50:44.149
+link or something, B O B A L J
+
+989
+00:50:44.149 --> 00:50:47.030
+I K Silent J uh dot com is a
+
+990
+00:50:47.030 --> 00:50:49.629
+is a a link that points to my Harvard
+
+991
+00:50:49.629 --> 00:50:51.739
+web page and you can find my work there,
+
+992
+00:50:52.070 --> 00:50:55.600
+um. Uh, I, yeah, uh, you'll find links to
+
+993
+00:50:55.600 --> 00:50:58.280
+my work there, um, uh, a lot of the
+
+994
+00:50:58.280 --> 00:51:01.020
+work that you'll find there is more specific, um,
+
+995
+00:51:01.120 --> 00:51:03.600
+than these kinds of questions. Uh, I think there
+
+996
+00:51:03.600 --> 00:51:06.679
+are other authors who actually write, uh, very engagingly
+
+997
+00:51:06.679 --> 00:51:08.879
+about these kinds of questions that I would suggest,
+
+998
+00:51:08.949 --> 00:51:11.149
+uh, you know, could plug a couple of people.
+
+999
+00:51:11.239 --> 00:51:13.000
+David Adger just wrote a book that came out
+
+1000
+00:51:13.000 --> 00:51:14.870
+last year. I don't know if you've interviewed him,
+
+1001
+00:51:14.959 --> 00:51:18.989
+uh, I think it's called Language Unlimited, um. Uh,
+
+1002
+00:51:19.030 --> 00:51:21.750
+THAT'S a more, more of a discussion for people
+
+1003
+00:51:21.750 --> 00:51:23.590
+who are interested, not in the technical details of
+
+1004
+00:51:23.590 --> 00:51:26.340
+linguistics. Uh, IT'S a great discussion of some new,
+
+1005
+00:51:26.399 --> 00:51:30.510
+um, uh, higher level questions accessible. Uh, BUT sure,
+
+1006
+00:51:30.550 --> 00:51:32.350
+if people want uh my work and I'm happy
+
+1007
+00:51:32.350 --> 00:51:35.729
+to hear feedback, um, uh, my website, the Harvard
+
+1008
+00:51:35.729 --> 00:51:36.500
+website's good.
+
+1009
+00:51:37.280 --> 00:51:39.709
+Right, so I'm leaving the link in the description
+
+1010
+00:51:39.709 --> 00:51:42.870
+box of the interview and Doctor Bobalik, thank you
+
+1011
+00:51:42.870 --> 00:51:44.770
+so much again for taking the time to come
+
+1012
+00:51:44.770 --> 00:51:46.750
+on the show. It's been a real pleasure to
+
+1013
+00:51:46.750 --> 00:51:47.189
+talk to you.
+
+1014
+00:51:47.770 --> 00:51:49.439
+Thank you, thank you very much for having me.
+
+1015
+00:51:49.520 --> 00:51:50.590
+This has been a lot of fun.
+
+1016
+00:51:51.830 --> 00:51:54.350
+Hi guys, thank you for watching this interview until
+
+1017
+00:51:54.350 --> 00:51:56.489
+the end. If you liked it, please share it,
+
+1018
+00:51:56.669 --> 00:51:59.459
+leave a like and hit the subscription button. The
+
+1019
+00:51:59.459 --> 00:52:01.659
+show is brought to you by Nights Learning and
+
+1020
+00:52:01.659 --> 00:52:05.739
+Development done differently, check their website at Nights.com and
+
+1021
+00:52:05.739 --> 00:52:09.459
+also please consider supporting the show on Patreon or
+
+1022
+00:52:09.459 --> 00:52:11.939
+PayPal. I would also like to give a huge
+
+1023
+00:52:11.939 --> 00:52:15.370
+thank you to my main patrons and PayPal supporters
+
+1024
+00:52:15.370 --> 00:52:19.300
+Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf,
+
+1025
+00:52:19.379 --> 00:52:22.629
+Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis,
+
+1026
+00:52:22.760 --> 00:52:26.050
+Erika Lenny, John Connors, Philip Fors Connolly. Then the
+
+1027
+00:52:26.050 --> 00:52:30.790
+Matri Robert Windegaruyasi Zu Mark Nes called Holbrookfield governor
+
+1028
+00:52:30.790 --> 00:52:34.850
+Michael Stormir Samuel Andrea, Francis Forti Agnunseroro and Hal
+
+1029
+00:52:34.850 --> 00:52:38.969
+Herzognun Macha Joan Labra Jasent and the Samuel Corriere,
+
+1030
+00:52:39.129 --> 00:52:42.800
+Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David
+
+1031
+00:52:42.800 --> 00:52:46.659
+Sloan Wilson, Asila dearraujoro and Roach Diego Londono Correa.
+
+1032
+00:52:47.040 --> 00:52:53.010
+Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynalebaa medicine,
+
+1033
+00:52:53.080 --> 00:52:57.669
+Gary Galman Samov Zallidrianei Poltonin John Barboza, Julian Price,
+
+1034
+00:52:57.959 --> 00:53:02.399
+Edward Hall Edin Broner Douglas Fry, Franco Bartolotti Gabrielon
+
+1035
+00:53:02.399 --> 00:53:06.879
+Scorteus Slelisky, Scott Zachary Fish Tim Duffyani Smith John
+
+1036
+00:53:06.879 --> 00:53:11.820
+Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai
+
+1037
+00:53:11.820 --> 00:53:16.320
+Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the
+
+1038
+00:53:16.320 --> 00:53:20.870
+Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez,
+
+1039
+00:53:20.919 --> 00:53:25.120
+Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old
+
+1040
+00:53:25.120 --> 00:53:30.030
+Heringbo. Sterry Michael Bailey, then Sperber, Robert Grassy, Zigoren,
+
+1041
+00:53:30.189 --> 00:53:34.629
+Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas
+
+1042
+00:53:34.629 --> 00:53:38.959
+Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert,
+
+1043
+00:53:39.110 --> 00:53:44.459
+Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George
+
+1044
+00:53:44.459 --> 00:53:49.689
+Eoriatis, Valentin Steinman, Perrolis, Kate van Goller, Alexander Aubert,
+
+1045
+00:53:50.510 --> 00:53:56.350
+Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner,
+
+1046
+00:53:56.469 --> 00:54:01.229
+Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike
+
+1047
+00:54:01.229 --> 00:54:04.885
+Levin, and Jos Net. A special thanks to my
+
+1048
+00:54:04.885 --> 00:54:07.725
+producers. These are Webb, Jim, Frank Lucas Steffinik, Tom
+
+1049
+00:54:07.725 --> 00:54:12.645
+Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine
+
+1050
+00:54:12.645 --> 00:54:15.885
+and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and
+
+1051
+00:54:15.885 --> 00:54:19.284
+Nick Golden, and to my executive producers Matthew Levender,
+
+1052
+00:54:19.364 --> 00:54:22.514
+Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for
+
+1053
+00:54:22.514 --> 00:54:22.834
+all.
+

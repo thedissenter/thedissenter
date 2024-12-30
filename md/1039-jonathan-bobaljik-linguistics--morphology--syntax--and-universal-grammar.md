@@ -5,13 +5,16 @@
 	"episodeid": "1039",
 	"excerpt": "Dr. Jonathan Bobaljik is a Professor of Linguistics at Harvard University. He specializes in morphology, syntax, and typology. He is the author of Universals in Comparative Morphology: Suppletion, Superlatives and the Structure of Words, which was awarded the Linguistic Society of America's Leonard Bloomfield Book Award.",
 	"image": "https://i.ytimg.com/vi/cgV0qJcqsHo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1039-jonathan-bobaljik-linguistics-morphology-syntax/id1451347236?i=1000682161560&uo=4",
 	"publishDate": 2024-12-30,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1039-Jonathan-Bobaljik-Linguistics--Morphology--Syntax--and-Universal-Grammar-e2f4teo",
 	"tags": [
 		"Linguistics"
 	],
 	"title": "#1039 Jonathan Bobaljik: Linguistics, Morphology, Syntax, and Universal Grammar",
-	"youtubeid": "cgV0qJcqsHo"
+	"vtt": "1039.vtt",
+	"youtubeid": "cgV0qJcqsHo",
+	"transcript": "1039.lines.json"
 }
 ---
 RECORDED ON JANUARY 30th 2024.  
