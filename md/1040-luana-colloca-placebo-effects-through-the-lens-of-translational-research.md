@@ -5,6 +5,7 @@
 	"episodeid": "1040",
 	"excerpt": "Dr. Luana Colloca is Professor in Pain and Translational Symptom Science, Director of the Placebo Beyond Opinions Center, MPower Professor, and Adjunct Professor in the Department of Anesthesiology (School of Medicine) at the University of Maryland, Baltimore. She is co-editor of Placebo Effects Through the Lens of Translational Research.",
 	"image": "https://i.ytimg.com/vi/0LWj82gk1ew/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1040-luana-colloca-placebo-effects-through-the-lens/id1451347236?i=1000682432456&uo=4",
 	"publishDate": 2025-01-02,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1040-Luana-Colloca-Placebo-Effects-Through-the-Lens-of-Translational-Research-e2jc353",
 	"tags": [
@@ -12,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1040 Luana Colloca: Placebo Effects Through the Lens of Translational Research",
-	"youtubeid": "0LWj82gk1ew"
+	"vtt": "1040.vtt",
+	"youtubeid": "0LWj82gk1ew",
+	"transcript": "1040.lines.json"
 }
 ---
 RECORDED ON MAY 7th 2024.  
