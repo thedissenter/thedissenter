@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1041 Anna Puzio: Social Robots, Religious Robots, Transhumanism, and Digital Afterlives",
-	"youtubeid": "uoXlK6e_lzo"
+	"vtt": "1041.vtt",
+	"youtubeid": "uoXlK6e_lzo",
+	"transcript": "1041.lines.json"
 }
 ---
 RECORDED ON JUNE 3rd 2024.  

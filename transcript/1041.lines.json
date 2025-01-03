@@ -1,0 +1,327 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. I'm your host, Ricardo Lopez, and today I'm Jane by Doctor Anna Puzio. She's a researcher in the ethics of socially disruptive Technologies research program at the University of Puente. She's a philosopher, theologian, and Ethicist and her research areas include anthropology, anthropology, and ethics of technology and environmental ethics, and today we're talking about topics like social robots, anthropology, religious robots, posthumanism and transhumanism, and some other related topics. So, Doctor Puzzio, welcome to the show. It's a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:42",
+		"speaker": "Anna Puzio",
+		"words": "Hi, thank you."
+	},
+	{
+		"start_time": "00:45",
+		"speaker": "Ricardo Lopes",
+		"words": "So, just to introduce the topic and to clarify some definitions before we start getting more specifically into some aspects of social robots, how we respond to them and so on. What is a social robot?"
+	},
+	{
+		"start_time": "01:03",
+		"speaker": "Anna Puzio",
+		"words": "Yeah. So social robots are robots designed for social interactions, so they are displaying social behaviors even if we do not necessarily have to call them social."
+	},
+	{
+		"start_time": "01:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND so among the social robots, there are those who are humanoid, right? I, I mean, what counts as a humanoid robot."
+	},
+	{
+		"start_time": "01:26",
+		"speaker": "Anna Puzio",
+		"words": "Yeah. So humanoid robots are robots that have human-like design. So they are, but there are also many social robots that look like more like uh animals or toys, and it often happens that we anthropomorphize robots."
+	},
+	{
+		"start_time": "01:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, SURE, I'm going to ask you more specifically about the issue of anthropomorphization. I mean, the issue, I am not sure if it's always an issue or not, but what are the issues specifically with when we think about and relate to robots as if they were human? And I would imagine that this happens more when they are similar to humans, right?"
+	},
+	{
+		"start_time": "02:10",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, so what concerns people is, for example, um, whether robots can also have consciousness, whether they can be intelligent, whether they can feel pain, or whether they can have emotions. And our behavior towards humans is guided by certain rules, so humans have dignity. We must not kill or cause some suffering. We must protect them, and humans have rights and duties and we are now questioning how to behave towards robots."
+	},
+	{
+		"start_time": "02:42",
+		"speaker": "Ricardo Lopes",
+		"words": "And is anthropomorphization uh a mistake? Is it always problematic or are there perhaps instances where it might not be?"
+	},
+	{
+		"start_time": "02:54",
+		"speaker": "Anna Puzio",
+		"words": "Mhm. So anthropomorphizing robots means that we are thinking of robots and treating them as if they were humans. And research, there's a big debate whether anthropomorphizing robots is acceptable or should be avoided. And we do not only do the um with robots, we also do this with animals, with gods and objects. So um look at how we treat our dogs or cats. And this anthropomorphizing seems to be deeply rooted in our psychology and behavior, but the question indeed is whether we can unlearn it, and I think that it could be very beneficial for us humans to sometimes train ourselves to move away from this anthropocentric perspective that we have."
+	},
+	{
+		"start_time": "03:46",
+		"speaker": "Ricardo Lopes",
+		"words": "So earlier when I asked you about what might be some of the issues with this thinking about and relating to robots as if they were human, you raise some issues there that if they were true, like, for example, if robots were conscious, they might raise some ethical or moral questions here, but can social robots be moral patients or not?"
+	},
+	{
+		"start_time": "04:13",
+		"speaker": "Anna Puzio",
+		"words": "Mhm. So more patients are entities who are subjects of moral consideration or who matter morally. So the question is now, do we have moral obligations and responsibilities towards robots? And in research, again, there's a big debate about robots' rights and more patients, and there's a wide range of positions taken from, yes, robots should have rights to no robots should be treated like slaves. And yeah, to new ways also to new ways of thinking about robots as something different, um, that cannot be forced into our old categories, and I particularly prefer, uh, yeah, the latter. So, um, yeah, and the major factor in this question is that we form close relationships with robots. So people fall in love with robots. There are funerals for robots, and it doesn't feel right to us when robots are harmed."
+	},
+	{
+		"start_time": "05:13",
+		"speaker": "Ricardo Lopes",
+		"words": "But, uh, I mean, of course, I would imagine that there are people with different opinions when it comes to this matter and they would consider different criteria when it comes to us, uh, considering social robots as moral patients or treating them as such. But what are perhaps some of the main Criteria that people point to. I mean, I mean, in terms of perhaps some of the traits that they would need to have, particularly psychological traits for them to be considered moral patients, or does it have perhaps something to do with just how we relate to them. Since you mentioned there that certain people can fall in love with them or might think of them as having some sort of relationship, not necessarily romantic with them, but other kind, another kind of social relationship. I mean, what are basically the criteria that people usually point to?"
+	},
+	{
+		"start_time": "06:16",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, so there's a like a big catalog of different criteria, and people often prefer like um this criterion of consciousness, for example, there is the robot conscious or not, um, intelligence, emotions, um, then also different behaviors or capacities, abilities, and, um, yeah, like I mentioned, the, the relationship we can have with those entities because there's also this big argument that um No matter whether they have consciousness or intelligence, emotions, etc. BECAUSE it's also very difficult to identify um these criteria also in other human and non-human beings. We say that, yeah, but in our everyday actions, um we still um have like this deep relationships with those entities and um. Yeah, I like to compare this, the debate that we have um to um in the robotic context with the debate that we have in environmental ethics, so our relationship towards animals and um this debate is even longer, so how to um whether um Whether animals are sentient beings and what is an animal or what is uh what is not alive or whether um they are intelligent, whether they have emotions center. So my, my key thesis is that um with those kind of new relationships and those new um technologies, um, our old ethical concepts are transformed or disrupted, and we need new criteria or new ways or new perspectives."
+	},
+	{
+		"start_time": "07:57",
+		"speaker": "Ricardo Lopes",
+		"words": "It's interesting that you establish there are parallel with animal or environmental ethics because actually, some of these questions when it comes to the criteria for someone or something to be considered a moral patient, are really hard to determine, right? Because we could say that, oh, I mean, it's perhaps silly for us to try to really figure out if a particular robot. Or artificial artificial intelligence system is conscious or not because we can never be certain of that. But the same could be said about uh non-human animals and even other humans,"
+	},
+	{
+		"start_time": "08:39",
+		"speaker": "Anna Puzio",
+		"words": "right? Yeah, indeed, yeah. So this is something that also um Um, it is argued by, for example, David Ganko and Mark Huuckerberg, so they show this, um, this criticism of the properties approach. So it's difficult to identify those properties, to have to define those properties, and it's always difficult even in human beings and um yeah. We have to reflect on how our behavior and social interactions really function in our everyday life and not what philosophers like to think about. So because as philosophers, we like to think about the metaphysical questions and oh, will there be super intelligence and conscious AI and Everything but uh does it really matter in our everyday life."
+	},
+	{
+		"start_time": "09:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, maybe at the end of the day, people will just decide to treat robots one way or the other depending on how much they resemble humans or at least resemble beings that are deserving of moral consideration. Mhm. So, um, let me ask you another kind of question, and this is uh uh related to another aspect of your research. In what ways does technological change affect or might affect understandings of human beings and their bodies?"
+	},
+	{
+		"start_time": "10:03",
+		"speaker": "Anna Puzio",
+		"words": "Yes, so with technology, we can now almost completely change the human body every part, and we can modify various parts of the human, uh, with this particular medicine or pharmaceutica, or we can implement technology into the body. And this raises the fascinating question of where the boundary between technology and the body lies. So can we understand technology as part of the human body? For example, if technology is implemented in the body from an early age or um yeah, becomes part of us and we need it to survive. And additionally, we have um many self tracking systems like smart watches or we have medical technologies that collect a lot of data about us, and they're with um they're creating a specific image of us and our bodies. So we only um collect certain data and not others, and this changes how we understand ourselves."
+	},
+	{
+		"start_time": "11:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, THAT is sort of related to that idea that some people nowadays talk about of the quantified uh self, for example, right, because we now have access to Uh, if we want, of course, uh, data from several different, uh, aspects of, for example, our physiology or even our own personality, like, for example, in terms of how we behave online and stuff like that. So it's sort of related to that kind of idea, right?"
+	},
+	{
+		"start_time": "11:39",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, yeah, sure."
+	},
+	{
+		"start_time": "11:41",
+		"speaker": "Ricardo Lopes",
+		"words": "And and talking about how we behave online, you've also done some work on digital identity. So what is a digital identity?"
+	},
+	{
+		"start_time": "11:53",
+		"speaker": "Anna Puzio",
+		"words": "Yes, so what's fascinating about this is that our identity um is kind of extended by digital and social media or maybe not extended but also transformed. So in the digital realm, we now have entirely new possibilities to construct identity. And at the same time, what happens in the digital world always affects our identity and our physical bodies. So in fact, there isn't a digital wheel or a digital world, and there's not, there's no separation between the identity that we have in the non-digital world and the identity. That we have in the digital world, they are always interconnected because everything that happens on social media, um, with VR or augmented reality, we, we need our body for this and it affects our body and our identity. So for example, um, also harm. Um, IF something happens to me online, um, some kind of mistreatment, then it's also harm to my physical uh body or my identity also in the, in the non-digital sphere."
+	},
+	{
+		"start_time": "13:02",
+		"speaker": "Ricardo Lopes",
+		"words": "And does this point to any form of posthumanism since in your own words, you said that, uh, I mean, as having digital identities points to an extended or a transformed identity that we have online, should we consider that some form of posthumanism or not?"
+	},
+	{
+		"start_time": "13:26",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, so I distinguish between the developments, um, so I strictly, uh, uh, differentiate them. So the developments that we have in the digital realm, social media, um, And our optimization enhancement in our society today and then um transhumanism, transhumanist goals or posthumanism because transhumanism for me is a movement with its own institutions, organization, and agenda and the normal efforts for optimization that we have in our society today, they still differ from what transhumanism aims to achieve."
+	},
+	{
+		"start_time": "14:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT then posthumanism is a synonym of transhumanism or are they slightly different?"
+	},
+	{
+		"start_time": "14:12",
+		"speaker": "Anna Puzio",
+		"words": "And they are slightly different, so it's uh difficult to, to strictly separate them, so, um. I, um, I built on the research from, from Yanina Lu, and, um, so the difference would be then that transhumanism wants to transform the human being, so like the trans um and posthumanism, the past, um, wants to have, um, yeah, wants to overcome the human beings, so they rather want to have this artificial superintelligence rather than the human being, but it's um difficult to separate them."
+	},
+	{
+		"start_time": "14:48",
+		"speaker": "Ricardo Lopes",
+		"words": "And of course, all of these possibly as implications for, uh, anthropology. I mean, the study of humans, because since we introduced these new kinds of technologies and that are also evolving and progressing, they will. Transform me to even more complex kinds of technologies and also the way we relate to them. So do you think that this might also have implications for anthropology and how anthropologists study humans in this sort of new environment?"
+	},
+	{
+		"start_time": "15:23",
+		"speaker": "Anna Puzio",
+		"words": "Yes, of course. So anthropology uh changes with new technologies. So when new technological inventions emerge, we examine and use them. And then we ask ourselves what it means to be human. So for example, with robots, we ask what distinguishes robots from humans and what will distinguish them in the future. And um this leads us to reconsider what emotions, consciousness, intelligence are. So technology always changes how we understand ourselves and we can, we can already see this in history with the invention of the clock, for example, then people ask, oh, OK, what's the human body, and then we compare the the uh the human body to the clock, and the same was then with the computer because we have different computer models of the brain also or the. Um, THE mind and, um, so that's we, so human beings and technology are very, uh, much connected."
+	},
+	{
+		"start_time": "16:21",
+		"speaker": "Ricardo Lopes",
+		"words": "So it's not only the ways by which we theorize about uh humanity because as you mentioned, there are perhaps different kinds of technologies, influences in thinking about, for example, the human. Mind or the human brain in particular ways like a computer, for example, something like that. But, uh, uh, but it's also about how these kinds, these new kinds of technologies might affect, uh, our, let's say, reality as human beings. I mean, it can. Uh, AFFECT directly, even phenomenologically, let's say how we think about ourselves and how we relate to one another as human beings, right."
+	},
+	{
+		"start_time": "17:09",
+		"speaker": "Anna Puzio",
+		"words": "Yes, yes, and we can see this with medical technologies. They are implemented into our body or influencing medical decisions, our health, um, yeah, and also, um, yeah, it's, it's like this, uh, they, it's the connection between technology and um And uh human beings, it's, it's so close because they are shaping us and we are um giving data for them, so they are having our data and then they, yeah, so we are both we are shaping us constantly, yeah."
+	},
+	{
+		"start_time": "17:44",
+		"speaker": "Ricardo Lopes",
+		"words": "So, you're also a theologian and you've written actually about religious robots. So what is this idea of a religious robot? What is a religious robot?"
+	},
+	{
+		"start_time": "17:57",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, so the question of whether robots can be religious is a difficult one. So because we first must ask um how can we identify whether someone is religious. For example, can animals be religious? And what about humans who lack certain capabilities? So I think that in the context of robotics, the questions are not highly relevant to ethics, but rather fascinates us. So again, And therefore I focus more on the question whether robots can perform religious practices."
+	},
+	{
+		"start_time": "18:32",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND can they perform religious practices? I, I mean, what does that mean"
+	},
+	{
+		"start_time": "18:37",
+		"speaker": "Anna Puzio",
+		"words": "exactly"
+	},
+	{
+		"start_time": "18:38",
+		"speaker": "Ricardo Lopes",
+		"words": "to perform a religious practice?"
+	},
+	{
+		"start_time": "18:41",
+		"speaker": "Anna Puzio",
+		"words": "Yes, so religious robots can accompany prayers. They can lead to religious ceremonies, create or generate or read religious texts and music, and then can provide um guiding tours of religious uh buildings. Yeah, and whether they um Should have religious functions is a really good question. So there are many social robots for hospitals, for care and for education, and they achieve great results in these areas. So for example, in therapy, autism, um, motivation and education, creativity. And they can sometimes do things that humans cannot, and I wonder if we use social robots in these fields, should they also perform religious practices, or should they remain agnostic atheistic. So I would argue that they should also have religious functions or perform religious practices, especially in the hospital context, um, you have so spiritual needs and existential questions arise there. So I think it would be, yeah, a good opportunity to also have like this religious functions and these robots."
+	},
+	{
+		"start_time": "19:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Could there also be somewhere in the future, a priest robots or is that too much?"
+	},
+	{
+		"start_time": "20:05",
+		"speaker": "Anna Puzio",
+		"words": "It could be, um, I prefer to, to change current structures because, um, for example, um, I'm a Catholic theologian and in Christianity we um question a lot of structures that we now have. For example, this um high authority or um hierarchy or for example, gender because only. Uh, MALE, um, persons can be, um, priests, so it would be better to not um replace human, human relationships with robots, but to, to use them for, um, in what they can do best, so extend our relationships and to use them for better things. So for example, it would be great if we could use them to um To increase the interaction in the religious community and to not um just simulate this hierarchy again, but to um yeah, to, to promote this community that we have."
+	},
+	{
+		"start_time": "21:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Do you think that this idea of religious robots and this issue could raise questions as to whether robots could actually believe in something religious and if, uh, I, I mean, and is that a question that We would even need to be answered because even talking about humans, for example, the, is it really necessary for someone, like, for example, a priest to actually believe in what they're preaching to be, uh, a priest or not, I mean, I'm not sure if you understand the question or."
+	},
+	{
+		"start_time": "21:49",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, um, um, I could have, um, yeah, maybe two possible answers to this. Um, FIRST, it's important what kind of teaching, um, they have implemented because, um, so it would be not good if they would just be used for fundamentalism or just to promote the one theological position of the church. Um, BECAUSE there's also this diversity of practiced faith, and so many religious practices, and they're still neglected by the church that they, and they are also valid and, of course, right? So, um, this kind of robots, um, should have, um, like this um. Some interaction modules and some flexibility and dynamic understanding and I think that we wouldn't need a robot who's um that says to us what we should do, but rather that increases our autonomy, our needs and our thinking, so like more or less sparing partner or something and not uh a new boss."
+	},
+	{
+		"start_time": "22:55",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, but when it comes to the more, let's say, side related to religious beliefs, the more doxastic side, I guess. Uh, I, I mean, if we, um, discovered that robots could also Themselves and hold religious beliefs. Do you think that would also tell us something about our own religious beliefs as humans and how they work, uh, cognitively speaking or not?"
+	},
+	{
+		"start_time": "23:31",
+		"speaker": "Anna Puzio",
+		"words": "I'm not sure about this. I, I have to think about this. I, but I agree that um. You know, there's the same like how we are now with emotional artificial intelligence, we are exploring how emotions work and um so this could also be a chance to um I'm skeptical whether they could be religious, but um I, we could just, um, yeah, we could reflect what religious experiences are."
+	},
+	{
+		"start_time": "24:02",
+		"speaker": "Ricardo Lopes",
+		"words": "But on the more, let's say ethical side of things, what kinds of ethical questions uh can uh the idea of robots serving religious functions or raise? I mean, what, what considerations do people make here?"
+	},
+	{
+		"start_time": "24:18",
+		"speaker": "Anna Puzio",
+		"words": "Mhm. Yeah, so this whole topic of religious robots is still really new. And um that's why recently at the Catolientag an airport in Germany, so this is a big church event, um, last week, I conducted a study, um, to find out whether religious people want religious robots, and if so, what they should be like, because, um, I don't think that, um, philosophers or theologians or the church alone should decide whether we need them and how to design them. Um, BECAUSE also philosophers like to think about some fancy problems that uh don't matter for for other people sometimes. And, um, yeah, I found it really fascinating how open um people were to robots, and they were very interested and forward thinking and had um really great suggestions, um. So for example, that robots could um provide many ideas for religions and um for religions and churches, so generate text or they could answer some questions about religions in an entertaining way because I also saw it um in my workshop that People were so interested in religious robots, they um always had their, I, I brought a a small N robot, so the um social robot now with me, and they just uh did make so many photos with this now robots, so they were like uh very entertained by it. And um yeah, also they thought about promoting community and interaction so they don't want to have this religious hierarchy um established. And other topics were, were like um gender, data protection and manipulation um were also very important. I also had a child in one of these workshops who was also very interested in how this um robot works because I, what I tried, um, is that now also imitates like um a monkey or a mouse or these animations that are in, in the now robot and um people found it very funny and The children wanted to have them also in their um religious education to show them how to to knee or to pray or um yeah."
+	},
+	{
+		"start_time": "26:34",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, no, I, I was just thinking that particularly in Catholicism, since people have confessions, uh, I was wondering in terms of data privacy if there was a robot there, uh, acting as a confessor. Uh, I mean, of course, that those kinds of data would have to be made private, right?"
+	},
+	{
+		"start_time": "26:58",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, yeah, of course. So, um, also with the relationship, uh, the problematic relationship between church, um, with the church now, um, it's very necessary that this would be completely anonymous and that, um, church or the state wouldn't have any access to the data and those kinds of robots. Yeah, that's, yeah, that's why data protection is so important, yeah. Mm."
+	},
+	{
+		"start_time": "27:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let me ask you about one last topic, then we've already touched on it earlier when we talked about posthumanism, transhumanism, but transhumanism specifically, what kinds of ethical questions does it raise? Uh AND by the way, uh, even before that question, what different kinds of transhumanism are there?"
+	},
+	{
+		"start_time": "27:46",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, so, um, transhumanism is a philosophical technological movement of the late 20s or 21st centuries, um, primarily in the UK and the US, and transhumanism wants to transform human through new tech. AND visions of transhumanism are, for example, um enhancement technologies, cryonics, so freezing the human body, radical life extension from several 100 years up to uh immortality. Or infinite life spans and then the elimination of suffering and diseases and posthumanism like we mentioned before, is rather they um they want to overcome the human being and to have this um artificial intelligence, um. And what kinds of ethical question arise? Um, SO in my research, I've primarily um examined the argumentativeative structures of transhumanism. And I noticed um that the way transhumanism argues, um it's ideas, they do not make sense. So um they employ manipulative augmentative, augmentation structures, they pretend to rely on natural sciences, for example, but actually they are contradicting scientific knowledge. For example, um transhumanism argues that they are good genes and bad genes in the human being and that we can simply cut out the bad ones and then we have to improved human being and no, um, yeah. No one from science would agree with this. And um yeah, I have also looked at the goals of transhumanism, so it's um it aims to overcome contingency and vulnerability. It focuses a lot on controlling the human body, also reproduction, for example, it's always controlling our bodies. And transhumanism seeks to improve human beings. Which initially sounds um attractive and unproblematic for us, but um the improvements um are always based on what transhumanism considers desirable and worth improving. So you can see that for example transhumanism and discriminates against women or people with disabilities and generally um Aging, um. Ill individuals, yeah."
+	},
+	{
+		"start_time": "30:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So do you think that the genetics part that you mentioned there related to how they classify perhaps certain genes as good and others bad. And I mean, this is actually something that I've talked on the show with particularly geneticists and biologists and it doesn't make much sense. At least in 99% of the cases to talk about good genes or bad genes. So that's already problematic. But do you think that perhaps certain branches of transhumanism where people are interested in genetics might also connect at least in some ways to eugenics?"
+	},
+	{
+		"start_time": "31:04",
+		"speaker": "Anna Puzio",
+		"words": "Um, YEAH, it's connected with eugenics, um, of course, because of the discrimination of, um, people with disability, so there is this, uh, very close connection, I think. Um, YEAH, and they're talking about good genes and bad genes, so there's, um, a lot of research in genetics about what a gene is and that our understanding of a, a gene as a physical ontological entity is already wrong and then Um, with bad genes and good genes or healthy genes or old genes, um, this is then a topic of, uh, ethics, of course, because they're, uh, moralizing genes or, um, they are, um, yeah, so there are normative implications and we cannot, um, even if they were traits that were just inscribed in an ontological entity, we couldn't just discuss whether they are good or bad or because it's way too complex to. To do this this way, um."
+	},
+	{
+		"start_time": "32:02",
+		"speaker": "Ricardo Lopes",
+		"words": "So another interesting aspect here and that you pointed to earlier is that by talking, by using terms like good, bad, for example, good genes, bad genes or good traits, bad traits and so on, or better traits, for example. They are already applying language that is non-scientific, right, even though some of them present themselves as being a scientists or science enthusiasts and they say that whatever they are proposing is just science or objective or something like that."
+	},
+	{
+		"start_time": "32:42",
+		"speaker": "Anna Puzio",
+		"words": "Yeah, I think that a big problem with transhumanism is also um. That their ideas are so fascinating and they are connected also with the AI hype and how media um discuss transhumanism, they are also, um, yeah, they're scared. Of transhumanism or they are very, um, also enthusiastic about transhumanism, but, um, people don't look into the text of transhumanism, and I think that maybe you don't need a philosophical background to just read one of those texts and to understand that what they are proposing is, uh, manipulative and scientific, not scientifically not correct. So, um, Yeah, I think that this is a big problem that we don't uh scientifically engage with um those kind of movements and that they are so powerful because also, because of the AI developments."
+	},
+	{
+		"start_time": "33:37",
+		"speaker": "Ricardo Lopes",
+		"words": "So do you think that looking at transhumanism in general, perhaps it has more negative than positive aspects to it,"
+	},
+	{
+		"start_time": "33:48",
+		"speaker": "Anna Puzio",
+		"words": "or? Yeah, yeah, I think I, um, so in my book, I describe tech um transhumanism also as an ideology and um yeah, I see they're very dangerous um structures because um Like we mentioned in our um talk now, there are so many questions people now have, so anthropological questions, what is a human being, um, what diff um what is the difference now between us and robots and AI and what will the future look like, and we, we have this need for orientation in society. We need answers and we need good explanations and If then transhumanism comes and produces this fear or this euphoria, this is um this is not the way that we need in this uh AI discourse."
+	},
+	{
+		"start_time": "34:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me ask you then one last uh question or one about one last topic. So earlier we talked about digi digital identities. What are some of the ethical implications of digital afterlives because we've already, we, we're already seeing. Uh, I mean, not necessarily, perhaps a digital afterlife, but some people who die and they have social media and they were on other places on throughout the internet. And so they leave, for example, I don't know, Facebook or Twitter behind and they might have, uh, and, and after. A digital afterlife, uh, or, or not, but, uh, what are some of the ethical implications of that?"
+	},
+	{
+		"start_time": "35:29",
+		"speaker": "Anna Puzio",
+		"words": "Maybe first, um, there's also this connection between transhumanism and digital afterlife, uh, in the vision of mind uploading. So this is the vision, um, so they believe that we can upload our brains and continue to exist on A hard drive or a computer. And as I already mentioned, I'm a bit skeptical about their, their visions because, um, yeah, this overlaps the unity, the connection of the brain with the entire organism, with relationships, environment, and we cannot just not, we are not just our brains, um, and the brain cannot just exist independently. But there's also this, um, second area that you're mentioning, um, That's called death technology. So all the kinds of technologies are related to the topic of death. And um so it's possible to to um create avatars of ourselves that continue to live after we are dead. And um these avatars, they look like us, they speak like us, they can communicate with um with our dearest ones, even though we have long passed already passed away. Yeah. And this is already possible today. And of course this has great opportunities but also ethical challenges such as um for example, consent. So um did the deceased people want um the data to be used in this way after their death? Um, OF course, it's already a topic today because, um, we also have like VIPs and important, um, um, people in publicity and we use their data or material from them uh already. Yes. Um. Then there are questions of manipulation, especially if young children use these avatars. Um, SO for example, Amazon, I think, um, advertised, um, one or two years ago that they want to have Alexa reading, um, grandchildren, um. They want to have an Alexa that's uh that has the voice of a grandmother that reads the text to their grandchildren, even if the grandmother passed away. So this could be manipulative because um children don't understand that uh this grandmother passed away and it's not reading the text to them. And um a big question is that of um well-being and um psychological functions. So does um death tech or um do these technologies help us in the grieving process or do they hinder? Uh, SO I think that we have to explore ways um where we can, yeah, use them, where they benefit us, and maybe there's some functions task um where we don't need them and it's uh maybe too um too problematic to use them."
+	},
+	{
+		"start_time": "38:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT what specific kinds of technologies like that do we already have available or are in the process of developing? I mean, I mean, do, because I, I don't know much about it. Is it like a chatbots or perhaps even robots themselves that are fed uh information, I don't know, like messages or something like that, uh, written by the diseased person and then it sort of reproduces their kinds of speech patterns or some of their behaviors, what do we have available."
+	},
+	{
+		"start_time": "39:00",
+		"speaker": "Anna Puzio",
+		"words": "Yeah. So what we already have is chatbot, so this was also a big debate with LGBT in the beginning. So, um, some years ago that um it was possible to have this uh large language models uh personalized and to um To have them like uh to create chatbots like a deceased person. It's also possible now with um all the image material that we have to have an avatar that really looks like you and behaves like you and that um for example, I would Records uh for my, for my dad, um, I would record some questions, um give some answers to some questions, and then my family could ask um when I, when I'm dead, um, some questions to me that I would just, uh, reply to. It's a bit spooky, um, yeah, and, um, I think that the next step um to transfer this to robots isn't actually a big step then because so from an ethical perspective, yes, but from a technological perspective, it's already possible to have JGBT and this LLMs and to um to transfer this, uh, connect them with robots. So it's not difficult to, to connect those chatbots also to, to robots as well."
+	},
+	{
+		"start_time": "40:16",
+		"speaker": "Ricardo Lopes",
+		"words": "When it comes, uh, because at a certain point you mentioned there, people question if, uh, I mean, as dealing with the death of loved ones in this particular way by not letting them just. I mean, die and for us to just normally mourn their death, but actually turning or sort of turning them into chatbots or robots. Uh, I, I mean, that, that's, that might be problematic, right? Because it might disrupt our normal process of mourning and being able to move on and to accept that the person is not there anymore and will not be,"
+	},
+	{
+		"start_time": "40:59",
+		"speaker": "Anna Puzio",
+		"words": "right. Mm. Of course, it can complicate our grieving process, but of course can also help our grieving process. For example, if um if your grandmother dies in a country very far away and you did not have the chance to say goodbye, then this kind of of attire maybe just for two weeks or a day or for one message could be a great opportunity to say goodbye. Also, um, the breathing process is, yeah, highly subjective psychological, um, Um, difficult, so it's a highly complex to understand it, but it's, um, it also depends on the individual and um sometimes it's easier to um to have some conversations with the chatbot or to open up or to just repeat again, again, um, the same things then um then to, to do this with the human being."
+	},
+	{
+		"start_time": "41:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. So uh would you like to tell people just before we go where they can find you and your work on the internet?"
+	},
+	{
+		"start_time": "42:03",
+		"speaker": "Anna Puzio",
+		"words": "Yes, so I have a personal homepage, Anna, um, yeah, Annaucio.com, and yeah, you can find on this homepage some material, but you can also find me on social media like Twitter, Instagram, LinkedIn, and my university homepage. So, yeah."
+	},
+	{
+		"start_time": "42:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So, thank you so much for doing this, doctor Puzzio. It was a fascinating conversation."
+	},
+	{
+		"start_time": "42:28",
+		"speaker": "Anna Puzio",
+		"words": "Thank you, thank you. It was a pleasure to talk to you. Thank you."
+	},
+	{
+		"start_time": "42:33",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Perergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyches Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Mari Robert Windegaruyasi Zup Mark Nes called in Holbrookfield governor Michael Stormir, Samuel Andre Francis Forti Agnseroro and Hal Herzognun Macha Joan Labray and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearauurumen Roach Diego London Correa. Yannick Punter Darusmani Charlotte blinikol Barbara Adamhn Pavlostaevsky nale back medicine, Gary Galman Sam of Zallirianeioltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fre Franca Bartolotti Gabrielon Scorteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Wozin, David Williams, Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grassy, Zigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff, Sean Nelson, Mike Levin, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernardin Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
