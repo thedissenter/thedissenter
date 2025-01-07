@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1042 Andrea Zagaria: Is Evolutionary Psychology a Scientific Revolution?",
-	"youtubeid": "aKDrhMJmG7w"
+	"vtt": "1042.vtt",
+	"youtubeid": "aKDrhMJmG7w",
+	"transcript": "1042.lines.json"
 }
 ---
 RECORDED ON OCTOBER 3rd 2024.  

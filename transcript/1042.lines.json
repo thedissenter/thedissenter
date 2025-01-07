@@ -1,0 +1,567 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lopez, and today I'm joined by Andrea Zagaria. He's a PhD student at the University of Trento in Italy. And today, we're focusing mostly but not uh only on one of his papers, is evolutionary Psychology, a scientific revolution, a bibliomemetric response to bus 2020. So, basically, we're going to discuss whether evolutionary psychology is actually a scientific revolution and also talk about some other subbranches in psychology and how they relate to one another. So, Andrea, welcome to the show. It's a big pleasure to everyone."
+	},
+	{
+		"start_time": "00:42",
+		"speaker": "Andrea Zagaria",
+		"words": "For me too, for me to thank you for having invited, invited me here. Sure."
+	},
+	{
+		"start_time": "00:48",
+		"speaker": "Ricardo Lopes",
+		"words": "So, before we get into To evolutionary psychology specifically, I would like to ask you about one of the papers where you analyzed trends and the prominence of four major schools of thought in scientific psychology, which you call, or you identify as neuroscience, cognitivism, behaviorism, and psychoanalysis, and also their intersections. And you covered the period from 1979 to 2020. So could you tell us about that study? How did you approach it? I mean, what sort of methodology you used and also the results you got there? Yeah,"
+	},
+	{
+		"start_time": "01:25",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah. So, so we, we were interested in tracking the major subdisciplines in psychology from a bibliometric point of view and there were some important papers on this regard published, especially in the 90s. The first paper, if I remember correctly, is um by Freeman, the, the, the leading author is Freeman and is published in 1993 or something like it and uh because there was a debate um in the, in the, in, in that year's speaking about a cognitive revolution, you know. So there were some cognitivist, cognitivists, scientists claiming that the cognitivism was a paradigm in a Kunian sense and maybe we can talk about that later, but a paradigm is uh a set. OF ontological and methodological assumption of a science which for, for some time, uh, usually a long time provides um the, all the scientists in that area, uh, with the means and the kind of questions they uh have to, to answer to. OK, right. So, uh, and so the, of course, as always, it happens in psychology, people from the cognitivism were saying, oh, we are the most important guys in the field and you know, the cognitivism is the long-awaited paradigm in psychology. And so some, uh, you know, scholars, uh, like, uh, were, were interested in trying to answer quantitatively that, that question because, of course, if you go to answer a certain scholar about their uh uh preferred theory, they are going to tell that theory is the most important one and the most beautiful one. And so they did this very simple study which is different from ours, but they try to track the trends during time. And uh what they found is that cognitivism was rising, but that the prevalence of cognitivism in scientific psychology wasn't that high to, you know, um to, to give it the status of a paradigm. And so, um, after that seminal study, there was a special issue in the American Psychology, so it was kind of, you know, uh, I think it's a quite cited study and there was some debate about it and then they did other studies in the years later, uh like refining the methodology. Um, BUT the last, um, study to date was published in 2007, like uh 2007, 2007 by Spare, and uh the last years were untouched. And one thing, um, uh, the scholars after Freeman did was to add neuroscience into the equation. So they tried to investigate also neuroscience. And, but there were, you know, some technicalities and some methodological problems and so we tried to re-approach the, the issue like uh more than 10 years later, the the last study published and to, you know, to do a more fine grade methodology. And what we did is that we expanded the set of keywords in order to, you know, operationalize each of one of these sub-disciplines. And we use a sort of protocol to do that. So we, uh, first, we identify the C term and then we identify the potential of associated terms with that C terms for each, you know, school of thought and we run analysis on psyche info, which is the official database of the APA, the American Psychological Association, to detect which of, which ones of this indicator was, were in terms of frequent mostly associated with the seed terms. Um, FOR instance, you have, you know, um, the C term for, uh, neuroscience, uh, um, was, uh, was, uh, newer, OK, with the wildcard, and then we associate a list of, um, of descriptors and we, we, at the end, we got the, the, uh, the 10 indicator, uh, which were most more um appropriate to investigate neuroscience that where I'm just listing a few. Um, uh, NEW, of course, the brain, nerve, and the wildcard. The wildcard is an asterisk and it helps you retrieving all the words that end with different letters but that are associated with the, um, the same route. For instance, when you have, um, you know, um new asterisks, you can, you, you, you, you can find uh neuroscience, uh, neural, and blah, blah, blah, blah, blah. And so we, we, we, we found for each one of this school of thought, a set of indicators and we inputed them in specific field codes that these specific parts of the document in order to be, for the analysis to be easily replicable in the future. So we investigated, uh, for instance, the title, the abstract. The keywords of the paper and the uh the um the APA keyboards were different from the keyboard, the keywords um selected by the authors and the, the medical um subject headings, which are the keywords, um, the official keywords by department. And what we found, and now we get to the most interesting part is that uh uh neuroscience, at least from the 1979 to 2020, which was the period we investigated because of uh the um because some one indicator of the the influence of the journal was, you know, um, available only for that uh kind of period. Uh, IN that period, so from the 80s to, to nowadays, the most important part of the, um the most important subdiscipline in psychology is by far neuroscience, by far. And that was kind of underestimated by previous studies. And the second one is cognitivism, of course, and we see that psychoanalysis and behaviorism are in decline, especially, you know, especially psychoanalysis but also behaviorism. And that is speaking of mainstream psychology that is all, you know, peer reviewed journal indexed in psych info. Things get a little bit different when you uh focus just on highly influential journals. That is thanks to the social science journal citation reports, which is, you know, official indexes of the impact factor on, on the journal. We were able to detect for each one of your uh investigated the most inf information journals in psychology. And we, uh, and we uh selected the, the 1st 4 of them. And we investigated the papers only in that kind of journal. So representing, you know, very influent papers, which are different from the mainstream, uh, mainstream. And there, we found a similar but kind of uh slightly different um scenarios, so in which cognitivism is higher than neuroscience, and then we have behaviorism and psych analysis. And then lastly but not less importantly, we investigated non-English papers. That is all, all papers, uh, which are published in non-English language, but of course, in order to have them indexed inside info, you have to, to have, uh, your original paper in your language, non-English language, but also the title and the abstract and the keywords in English. So you can investigate it through English keywords even though the paper is not in English. And what we found in that specific source is that uh The, the, the psychoanalysis is still on the, on the, on, you know, uh one of the most important, uh, you know, uh school of thought. And this is very, very interesting because this is like a very different scenario from the scientific or my stream psychology. And some sanometric studies quite robustly associate publishing in your, in your own language rather than English, if you're not an English speaker. From the necessity to communicate with your local community and to have an impact on your local community instead of, you know, having your career advanced if you want to publish or super influential journals. And so what we think is that psychoanalysis is still very prevalent in clinical practice when, you know, clinicians want to communicate the results to their uh niche, the, the, the, the, the social uh social niche. And, uh, but it is not important in terms of scientific, purely scientific endeavors. So it is still a, you know, common practice to help people in their everyday lives, but it is not, you know, um, successful research program in the, in the scientific landscape. And lastly, I want to notice that even though we, I'm talking about percentage because of course, we, we computed relative frequencies, uh, what we found is that the, uh, the majority of papers indexed insideIfo are not tied to none of these theories. OK. Yeah, and that is very interesting because it means maybe that the large part of psychology is not tied to any specific grand theory about the mind, but it's more like applied. And, and that is psychology,"
+	},
+	{
+		"start_time": "10:27",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah,"
+	},
+	{
+		"start_time": "10:27",
+		"speaker": "Andrea Zagaria",
+		"words": "and that points back to the non-paradigmatic issue, but maybe we have time to discuss about it."
+	},
+	{
+		"start_time": "10:32",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, sure, sure. No, there are lots of interesting things that you mentioned there. I mean one of them. Uh, IS very, uh, I, I'm very curious about it because, of course, I don't know to what extent you could give us more information about that, but when you mentioned that, for example, when you include the papers that were written in non-English languages, I mean, in other languages, that, that psychoanalysis was more prevalent at least when it comes to their, to its clinical applications. It's very interesting because I Is that this idea that outside of the English speaking world like the US, Canada, United Kingdom, in continental Europe, let's say even today psychoanalysis would have a very big presence."
+	},
+	{
+		"start_time": "11:22",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, definitely, yes, definitely, yes, especially if you, I mean, because there's a different aim, you know, in, in, of course, I, so I'm not a psychoanalysis, so I do respect psychoanalysis from a historical point of view and I do think there are some. Interesting things still nowadays, if you think about intersubjective psychoanalysis, if you think about scholars such as Fonagy in the UK and blah, blah, blah. But even though I respect some part of it, I, I, I, I don't share at all, you know, the theoretical assumptions about the mind from the psychoanalytic point of view because I don't think they're scientific. And so, you clearly see that at, at least, I don't know if you're familiar with um Lakatos and his theory of um scientific progress, but it would, it would have said that. Seis is no longer a generative progressive research program. So it doesn't have any more some predictions, some new prediction to be tested. And uh that leads, you know, is programmed to advance and to be more competitive than other research programs. Because if you think, I don't know, if, if you have some insights about human behavior, uh, and you can test them experimentally, I think that other subdisciplines would, would, uh, you know, outperform psychlysis for sure. But still, in the clinical practice and as you mentioned in the Continental Europe, uh, also academic clinical psychology scenario, also here in Italy, Psychology is still a big thing. When you go to the university, a lot of psychoanalysis is there and you are trained, you know, many friends of mine still did a classical psychoanalytic training, which is kind of problematic in my opinion, but still, it is uh it is something that is there and is real and alive, so we have to acknowledge it. Yeah."
+	},
+	{
+		"start_time": "13:03",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, NO, even here in Portugal, for example, I'm, I'm not sure if, uh, they still do that, but at least up till 98 years ago, they were still teaching, uh, Freudian theory even in anthropology courses. So, yeah."
+	},
+	{
+		"start_time": "13:20",
+		"speaker": "Andrea Zagaria",
+		"words": "And especially people from the humanities. And uh I think there is uh uh the same study by uh Robin or Freeman also in the 90s. Demonstrative that psychoanalysis is still super popular among the humanists, you know, so people from the, and also in, in my personal life, when you talk with psychology, with someone who is coming from the humanities, such as philosophy, architecture, or even economics, but the Especially, you know, that kind of, uh, you know, letters, that, that kind of, uh, uh, studies, and they are all fascinated with, with psychoanalysis and that's kind of, you know, annoying for me that they ah do you know Freud, do you know Jung, especially Laan. They love Laan. I hate Laan, you know. I don't have anything personally with any Laanan, but I, I, I, I really don't, can't stand Laan as a, as a theorist. And so, yeah, but, but it's still very, very, very popular and very, because, because that is very catchy, you know, because I think that Freud did a wonderful job in selling his ideas out, uh, his ideas to the, to the, to the public because, you know, many ideas, I, I did a wonderful history of psychology course, uh, when I was graduate and my professor was kind of critic towards psychoanalysis and he showed us how Freud took many ideas from the mainstream of the clinical psychology of the 19th century and made them uh very palatable to the public. But, you know, everyone, uh, already knew what the unconscious was. Everyone already knew the importance of sexuality, and everyone already knew the importance of, um, you know, uh, being in a In a kind of altered state of consciousness during psychotherapy that is hypnosis to get, uh, you know, your, your, your problems solved, uh, and everyone knew, you know, and, uh, especially, for example, Pierre Janet, which is, uh, you know, more on trend today. Uh, ALREADY knew the power of distressing events that is traumatic events in determining your later adult life. So, you know, Freud did something, of course, he was a genius, of course, but it was uh especially capable in selling his ideas, I think. Yeah."
+	},
+	{
+		"start_time": "15:32",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I, I don't know what it is specifically about psychoanalysis, but apparently it provides people with very compelling psychological narratives. So, I mean, I"
+	},
+	{
+		"start_time": "15:43",
+		"speaker": "Andrea Zagaria",
+		"words": "mean,"
+	},
+	{
+		"start_time": "15:43",
+		"speaker": "Ricardo Lopes",
+		"words": "you even see it in Hitchcock movie. So, and the narratives are actually very compelling, at least in the movies. So when it comes to psychoanalysis more directly, I'm not so sure. But anyway, apparently. We people love it."
+	},
+	{
+		"start_time": "15:56",
+		"speaker": "Andrea Zagaria",
+		"words": "So, yeah, yeah, because, because they're very romantic, you know, and so it was very intelligent, you know, adopting these Greek names, so, you know, your Oedipus complex, your Elektra complex, and you have this very, you know, catchy things, you know, you, you, you feel like you're like almost a, a romantic hero, you know, in discovering your, your drives. And so it was, of course, I think that psychotherapy has to be somehow romantic, but uh I, not, not not necessary to that level, yes. Yeah."
+	},
+	{
+		"start_time": "16:25",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, another thing just before we get into the paradigmatic bit, uh, uh, 11 comment that I was going to make is that it's interesting how sometimes we carve up the different disciplines and how we create different branches because I would imagine that many people who identify as neuroscientists wouldn't identify themselves as psychologists. Or of being part of a branch of psychology. I mean, many times we look at neuroscience as something separate from psychology,"
+	},
+	{
+		"start_time": "16:59",
+		"speaker": "Andrea Zagaria",
+		"words": "right? Yeah, yeah, definitely, uh, well, it depends on your assumptions about the nature of the mind. I, I'm very passionate about the philosophy of mind, uh, generally speaking, and, but, and I, I do, I, I, I have a materialist, so I don't think we have. You know, uh, you know, we, I, I, I, I, I also think we, we have a spirit, uh, but I'm, I'm a sort of, of pine psychist, but still, I, I do spend some time in thinking about the very nature of the mind and, uh, as you mentioned, um, many neuroscience. Don't identify themselves as a psychologist because they are kind of skeptical about psychology and they want to do, you know, hard science. We, we are doing the real stuff here, guys, no. So, and they don't want to be, you know, uh, merged with someone that they see as something less scientific or or like softer. Um, PROBLEM is, uh, that, yes, and yes, I, I think that, uh, some neuroscientists do not identify themselves as a psychologists even though the majority of them, uh, don't, never spend properly uh their time in. Setting at least to themselves privately the question of what mind is because if you, if you, if you, if you try to answer that question, it's a very difficult question, but it's very difficult that you see the brain as, as, as something completely detached from our mental life. So you are a psychologist in a sense. And, but I, uh, I would also say, uh, this to be noted that, uh, I, I have a, a conversation with Andre Bittermann who, who is, uh, you know, a brilliant, um, uh, yeah, a brilliant, uh, scholar in meta-science, some science about science, this kind of study, and he said to me that uh like Info as, um, you know, in the last years, it, it has incorporated more and more uh journals, purely neuroscientific journals. And so maybe our results are slightly biased in a, um, you know, overestimation of neuroscience, but still I would say that it is undoubtedly the, the most prominent approach in uh in psychology as for now, yeah, yeah, I,"
+	},
+	{
+		"start_time": "19:15",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean it was just a comment. It was just that I think that many neuroscientists out there would position themselves closer to something like biology than psychology, I guess. Yeah, yeah, yeah, yeah. So, uh, and at a certain point in the same, I think it's in the same study, you say that the study supports the inference that scientific psychology is a non-paradigmatic or pre-paradigmatic discipline. So could you explain that and also what a paradigm is exactly? Yeah,"
+	},
+	{
+		"start_time": "19:48",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah, definitely. So I, I would explain it through an example. So if you go to a physicist. Even an undergraduate in physicists, in in physics and ask them, well, what is the force or what is energy? It is very likely they will all answer the same. So I have the definition here. So a force is an influence that can cause an object to change its velocity unless counterbalanced by other forces, and there is a specific measure, you know, to, um, to, uh, to, to measure the, the force which is the Newton and no one is going to debate about it. And the Newton is a specific formula. Which is kilogramx meter per squared second, and no one is going to discuss about it. And if you ask them what is in an energy, they will likely answer energy is the capacity to, to do work and it has a specific formula and no one is going to debate about it. And if you go to a biologist and you ask them what is a gene. No one is going like very, very few people, maybe less than 1%. WILL be doubtful about the genus. So a gene is a sequence of nucleotide bases which are blah, blah blah blah blah. And if you ask them what an inflammation is, everyone is going to agree. Well, if you go to a psychologist and uh ask them what emotion is or intelligence is and not to speak about the basic term of cognition, for instance, or mind or consciousness. And, uh, and if you go, for instance, I have a background in clinical psychology and I study clinical psychology. So if you go and ask what is attachment, if you go to a, the, the developmental psychologist and ask what, what is attachment, they will answer one thing. If you go to a personality psychology and you ask them what is attachment, they will ask another thing. Similar but different. And you ask, you know, clinical psychology, what is trauma? Uh, EVEN in the most recent APA and Book of trauma, there is no universal definition of trauma, you know, there are, there is no events in the world which is traumatic by definition. It's not speaking of mental disorder, depression, and, and whatever. And so, uh, this is very interesting because uh like trying to also uh addressing your question about the nature of the paradigm and the Thomas Kohn because, you know, the, the philosophy of science which is tied to the concept of paradigm was developed by Thomas Kuhn in the 60s. And what is very, what like struck me when I uh read again the structure of the scientific revolutions, which is the, the book that he published in 1962 about this kind of theory. Uh, HE stated, like, I'm, I'm, I'm citing him literally because in the preface of the, of the, of the, of the book, he said at page 9 and 10, some, uh, so it was invited, so this is the, the, you know, the thing to know before a hearing to this, to the quote. It was invited at the Center for Advanced Studies in the Behavioral Science at Stanford University. So he spent some time there as a, as a, you know, um, visiting scholar. And he said some, when he was there for a, you know, for a for a uh a period, then he said, somehow the practice of astronomy, physics, chemistry or biology normally fails to evoke the controversies over fundamentals that today seem endemic among, say, psychologists or sociologists, OK? Attempting to discover the source of that difference that is very important, led me to recognize the role in scientific research of what I since called paradigm. And so this is, this is mind-blowing because Thomas Kuhn was prompt to uh create his, you know, super inf influential uh theory when he discovered like personally, the chaos you, you, you, you, you, you, you have as a, you know, as a, as a training psychologist or even as a, uh, you know, licensed psychology or a scholar in psychology which is chaos, pure chaos. And uh I also published a paper about it. We compared In 12 introductory books to psychology and the APA Dictionary of Psychology, um, uh, you know, uh, some definition of core constructs of, uh, of psychology, you know, like mind, consciousness, intelligence, and all the definitions differ for, for, for, for, for, for the major part. And so, There is a paradigm. A paradigm is in, there is also, you know, uh, a codebcoon in this regard, but I would say that I would define it as a hardcore set of methodological and ontological assumptions uh about the subject of studies, and that is we know we have to study this thing and we know how to study this thing and no one is going to debate over how to study it and what to study. And uh Kuhn called it the, the, mm m puzzle sol solving activity that is, we have, we know how to do that and then we have a different, you know, um puzzles to solve, but we know how to solve it, you know. And the interesting thing is that the para the para paradigmatic status of psychology is, has always been acknowledged by leading scholars in the field. So if you, if, if, if you go to James back in the um William James at the end of the 20th century."
+	},
+	{
+		"start_time": "25:13",
+		"speaker": "Ricardo Lopes",
+		"words": "The 19th century, I"
+	},
+	{
+		"start_time": "25:15",
+		"speaker": "Andrea Zagaria",
+		"words": "think, yeah, yeah, yeah, yeah, yeah, at the end of, of the, of the 19th century, he, uh, at the end of his book The Psychology Brier course, he said that psychology, uh, it at the stage of physics before Newton or chemistry before Lavo wasisi. OK. But this kind of, uh, this kind of quote was, this kind of claim was. YOU know, uh, endorsed repeatedly over the course of scientific psychology by very diverse scholar, and they're very famous such as Vigosky. I don't know if you know him, but the, you know, very influential developmental psychologist. He spoke about the crisis of psychologist in the 20s and then uh uh Edelbrecher in the 30s, and the rombach himself in the 50s, he, he compared the uh the scientific psychology to a circus. It did it like literally. And then Kohl, as I, as I said before, then Sigmund Koch was a very important scholar in the 80s. And then we have no less known uh psychologists who nevertheless, they dedicated all their lives in studying this thing, which is, which it is, uh, which was called by Sigmund Koch and then later by Gregory Rs as the problem of psychology. So we don't have, uh, we don't have a shared theory. And, and we are certainly at another stage of scientific development, um, in, in respect to chemistry or physics or biology"
+	},
+	{
+		"start_time": "26:38",
+		"speaker": "Ricardo Lopes",
+		"words": "and, and so this is still true in 2024,"
+	},
+	{
+		"start_time": "26:43",
+		"speaker": "Andrea Zagaria",
+		"words": "I would say and, and that yes. I would say yes, yes, yeah, so,"
+	},
+	{
+		"start_time": "26:50",
+		"speaker": "Ricardo Lopes",
+		"words": "so let, let me ask you, uh, I, I don't know if you can answer this question exactly, but Well, I mean, what would you say are perhaps some of the reasons why over the course of more than 100 years, apparently the same problem is still here in psychology."
+	},
+	{
+		"start_time": "27:11",
+		"speaker": "Andrea Zagaria",
+		"words": "It's a big question. I think this, this is the question, $1 billion dollar question. I think, uh, I think there are, there are two different, uh, main reasons. The first one is the hardest one and I don't know if we will ever be able to solve it. Um, THAT is, I would say 3 reasons. Uh, LIKE the first one is the, you know, very famous hard problem of consciousness that it is very difficult to integrate what we are from the objective point of view and from the subjective point of view. Mhm. And then the second one is the, that is true, is the complexity of the human mind and behavior. We are inherently complex and it is inherently difficult to, uh, maybe we will have better to, I think that we have a wonderful, uh pro promising line of research speaking of behavioral genetics in the, in the years to come. But still, I don't know if we will have a major shared theory. And the third problem, which is also linked to the fact that um evolutionary psychology is no, is, is, um, could be more prominent in the evolution in the, in, in, in the broader study of psychology, but it is not. Is that And you interviewed Dan Serber, so you know it very well that we, as human, one compelling uh evolutionary theory is that, that our reason, our capacity to reason is not driven by the uh necessity to seek an objective truth, but rather to persuade the other, the other's humans socially. And so we seem to be hardwired from the biological point of view to conflate the descriptive is. So this is a mechanism and this is the way it works with. The rather morally out. So this is should be how things should, should be. And so this is very problematic, for instance, for evolutionary psychology when they talk about gender difference or violence or homicide or I don't know, uh, stereotypes and, and, and the problem, the main problem which I see in many scientists as well, which should be at least less biased in this regard is that you, you can't conflate the descriptive is with the moral. Oh, they are completely different level. If I say this is um how the mind uh uh this is how um the mind of a, of a rapist works and I'm trying to, to understand the rapist, the, the rapists. I, I'm not trying to justify his behaviors or his or her behaviors because that, that, that, that, that would be nonsense. And so I think that it is very difficult to have an objective psychology because you Uh, there, there is, you know, uh, the, the, the, this, this, um, this problem that um You are studying something, someone or something uh the consciousness of understanding the theory you are proposing. And use them as they wish to justify themselves. And so this is problematic. And so this is very problematic. I, I, I, I mean, if we study the birds and their social behaviors, no birds is going to see, ah, you told me in a paper that I'm more prone naturally to rape uh the other birds, female birds, so I can do that. But if you speak about humans. That is difficult. So it is a major, a major obstacle, I think. Yeah."
+	},
+	{
+		"start_time": "30:42",
+		"speaker": "Ricardo Lopes",
+		"words": "And do you think that perhaps another problem here, and this is something you also mentioned in your paper, but I'm not sure if you would call it a problem, it has to do with the insularity of the different sub-disciplines in psychology."
+	},
+	{
+		"start_time": "30:58",
+		"speaker": "Andrea Zagaria",
+		"words": "Yes, definitely. Uh, CAUSE, so, um, I don't know if you, you know, uh, I, as, as an academic, uh, I, uh, I spent a lot of time, uh, and I'm still understanding if I want to be an academic for all my life, but I spent a lot of my time, you know, reading the description of the journals when you want to submit a paper. And all of them, they claim to be interdisciplinary. It, it is very cool to claim I am interdisciplinary. Oh, this is an interdisciplinary journal. And actually, when you go to the Evidence, uh, it is very, for instance, there is a study published in the 2014 by Klia, I think, yeah, and, uh, theylia Russo, and they, uh, show that in clinical psychology they uh investigated the a humanistic school of thought, psychoanalysis, and, um, I think cognitivism and a cognitive behavioral approach and they found that each one of school of thought is likely to mention all, only the papers to each and one school of thought. So there is this very, you know, uh compar compartmentalization. And also in our study, we, uh, you know, the large majority of intersections between this first call of thought with the exception of a Uh, cognitivism and neuroscience, which are largely contaminated and to a lesser extent between behaviorism and neuroscience, which there is also a contamination there, um, are kind of negligible, at least if compared to the broader scenario of the, of the prominence to the, to the other theories. And um of course, it is just, you know, a thought we have to uh ponder more more about it and do other studies, but this easily matches uh also my personal experience as an academic, you know, we, um, and this is linked to a broader problem of uh of, of the Current academic landscapes. So people are interested in publishing, publishing, publishing, and they have very few time to reading, to read properly, to read not only in their field of research, but generally speaking. And I, uh, and I have personally met some people who were very recognized in that specific field and they did know anything, anything, not on psychology broadly speaking, but in the super closer field of research because they didn't uh didn't care, they, they did not have the time and blah, blah, blah. And so I do think there is a major problem. We, we don't have, you know, uh, you know, the Renaissance uh model of intellectual who spent Uh, a lot of time trying to be interdisciplinar, of course, it is impossible nowadays to be like purely interdisciplinear because the amount of knowledge is, you know, uh, unmanageable. It's not feasible. It's not feasible, but not, I mean, not that hyperspecialization would be beneficial. And so, yes, so I think, I think that, uh, the lack of cross, cross fertilization is, is indeed the problem nowadays, yes."
+	},
+	{
+		"start_time": "34:09",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so let's now talk about uh the work you've done on evolutionary psychology specifically because, uh, David bus a few years ago, I think in 2020 or something like that called it a scientific revolution. So we've already talked about paradigms here. So first of all, what is a scientific revolution and then we can talk about his claims specifically. Yeah,"
+	},
+	{
+		"start_time": "34:36",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah, definitely. So I would say that the best thing to Uh, understand what the scientific revolution is, is to briefly, um, you know, uh, understand how, uh, you know, the progress of science of occurs according to KO. And the first, uh, stage is the prepardigmatic stage, and we are, we are, we have talked about it. So we have plenty of schools who disagree over fundamentals. For instance, Newton, and Newton, for instance, Kohn, um made the example of uh uh optics. Before, um, the, the, the book Optics by Newton and it said that there were different uh ontologies and methodology. There was the Aristotelian School of Though, the Epicurean School of Thought, the Platonic School of Thought, and they hold a different ontologists and methodologies. But then, uh, and this is the prepardigmatic stage. And then, but then the book by Newton came out and it was a watershed. And, um, and slowly, um, uh, people in optics began to understand that uh the best way of explaining uh things was not Aristotelian and epium protonima was the new part new, new research program initiated by, um, by Newton. And this gradually took over the other, uh, the other school of thought. And, and so when a school, uh, when, when, uh, you know, a rising school of thought, after years and after, you know, um, of course, it, it, it is not that linear, but after, you know, going against, um, different kind of scientific sociological or psychological oppositions becomes the norm. And you have 3 indexes in order to understand that. Uh, um, uh, uh, A school of thought has become a paradigm. So you have a first stage prepardigmatics. Second stage, scientific revolution. And when you attain the first stage, which is called the state of normal science, you can understand that now we are in a normal science period by 3 indexes according to Ku. First, Uh, what you have in intro, you know, the theory is the customary practice a newborn in the that discipline is exposed to. And you can look at it easily in, in introductory books, uh, uh, to, um, um, given to uh undergraduate. So, imagine physics, physics. If you go to different physics university and you consult different introductory books. They will say almost the same, maybe with slightly different, but no one is, is going to disagree over Newton, over, over, you know, the Newton, the um the measure unit or, or, or, or job or anything. And if you go to bio biologist, uh, biology uh department, you know, uh, each one of these introductory books will talk about Darwin and Mendel and the, and Fisher and the modern synthesis. Again, if you go into psychology, that is kind of different. But you have this kind of first index. Then secondly, uh, the scholar in that discipline do not have to justify themselves when they uh explain their theory. So I, I, I take for, for granted that everyone agrees about uh what a gene is or what a Newton is. And then the third index is the progressive marginalization of other scholars. For instance, I don't think that no one, there is no one in physics nowadays that is called themselves Aristotelic or Platonic or epicurean and, or, you know, and, and, mm like very few, few, few people in biology call them creationists. I, I think almost no one after Darwin. And so this is the kind of normal science. But then, uh, and so the paradigm, because, uh, the, um, the paradigm is occurring in that stage. So the scientific revolution is the 2nd, 2nd stage. And then what may happen is that it, uh, that the scientific uh Uh endeavors might be facing some, some anomalies, so some, uh, things that you cannot explain thanks to your usual normal science uh perspective and then you encounter a phase of crisis, which is the first stage. And then maybe another theory similar to the optics takes over because it is better than the other ones and you have a scientific revolution again. And then normal science and then again, and then this kind of uh endless cycle. But of course, this kind of um uh watershed event occurs in a relatively long period of time. You don't have a paradigm shift in one, you know, one, you know, every 10 years, but we are speaking about centuries or we are speaking about, about long times nevertheless. So a scientific revolution according to Kunn. And that is why I, I took the instance by David by some critically, is that something that you can easily understand, you know, if a scientific revolution has occurred or, or even if it is happening, happening as we speak, you can see it in different indexes, but the one I chose to investigate was The, the, the prominence because as I, I, uh, as I said before, 11 index of the scientific revolution is that you are gradually taking over the other competitors. And so, uh, that is why I decided what to do and uh to, to investigate from the bibliometric point of view, devolutionary psychology research program against its main competitor, which is the standard social science model, yeah."
+	},
+	{
+		"start_time": "40:06",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, and we're going to talk about the results you got there, but just before that, just to be clear, in his 2020 paper, does David Bs use the term scientific revolution in the Kian way as well?"
+	},
+	{
+		"start_time": "40:21",
+		"speaker": "Andrea Zagaria",
+		"words": "Yes, so, yeah, so he, he never cited the structure of scientific revolution, but it was, um, very, you know, very, um. Closely to do that because he used the Kunian lexicon. So speaking of scientific revolution, paradigm shift, and it, it, it, it did some, you know, quite Kunian uh examples such as, you know, he, he said that evolutionary psychology was the same as Copernicus Elegenri's theory, which was actually a paradigm shift in aunian sense because no one today, uh, unless you know, uh, some very crazy people believes that the, the earth is at the center of the universe. So, and, and also it analyzed the history of psychology applying this Kuian perspective, you know, we say, oh we had back in the days we had the structuralism and then uh behaviorism takes over and then cognitivism and then ah now we have evolutionary psychology."
+	},
+	{
+		"start_time": "41:18",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. Right. So, tell us then about the bibliometric analysis you did there when it comes to the prevalence of evolutionary psychology within psychology more broadly. And also, you compared it, I think, to what the Cosmides and John to be in the early 90s called the standard social model uh approach in psychology, which, which is sort of the more sociocultural approach. THE more environmentalist approach. So, uh, how do you, do you do that and what results did you get"
+	},
+	{
+		"start_time": "41:50",
+		"speaker": "Andrea Zagaria",
+		"words": "there? OK, so basically the, the methodology was kind of similar to the one I described before. So first of all, uh, we investigated the APA Zaurus, which is, you know, the official controlled vocabulary of the APA and basically it is a controlled vocabulary because it controls for redundancy. For instance, uh, the word work-related injuries is used to design work-related injuries, workplace injuries, occupational injuries, and occupational-related injuries. So, when you type in psyching for occupational-related injuries, the official, uh, name, it is associated with is work, work-related injuries. So we, in order to use some keywords, we started looking at the APA to Zavros. And then we chose, as, as, as we did in the other study, someit terms, that is evolutionary psychology and sociocultural factors, respectively for the evolutionary psychology and standard social science model. Hence for EP and SSM to be the faster. And, and then we investigated because the APASauros is a hierarchical structure. So um it has like more important names and then it, it has uh narrower terms and related terms who are on the same level. And we investigated, uh, you know, quantatively, I think 60 or 70, um, you know, um. Names and then we decided qualitatively what uh to use for our uh from with I, I, I was alone in this paper. I decided what, what to do in the, with the, or which specific um descriptor to use. You know, you, you, you could also use a quantitative uh uh way of deciding what indicators to use, but it wasn't, you know, preferable in this study. And Uh, for instance, for EP we have animal behavior, animal cognition, animal communication, behavioral genetics, and blah blah blah. Uh,"
+	},
+	{
+		"start_time": "43:42",
+		"speaker": "Ricardo Lopes",
+		"words": "ALSO you would classify behavioral genetics as being part of EP in this case."
+	},
+	{
+		"start_time": "43:47",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, definitely, yes, because, uh, this is a beautiful question because I decided to investigate EP broadly speaking. So not the Santa Barbara AP, so you know, with the massive modularity and the EEA assumption and all the, the, that kind of stuff, but More broadly, because, you know, you have the standard social science model, which is a heuristics used by Tubian Cosmide. There is no, you know, department uh in somewhere in the world called the SSM and there is no one who called themselves SSM because it's kind of derogatory. And, and so, and so I, I, I, I would identify quite uh broadly the SSM and so I wanted to assure EP to be as broad as the SSM. And so what I try to do is not Not to compare the Santa Barbara AP against the SSM, but broadly all approaches or all papers actually who mentioned um e evolutionary laden concept. And, uh, you know, standard culturalist concept to to operationalize uh the vision that nature is important or culture is important, right? And which is kind of dichotomic, but we, we will see not that much. And, and so, uh, yeah, I do think that behavioral genetics is somehow, you know, uh evolutionary laden because the basic assumption of behavioral genetics is that genes are very important to in determining your behavior. And unless you think that genes are untied to the evolutionary process, which is impossible, still you are somehow tied to, to evolution."
+	},
+	{
+		"start_time": "45:26",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, no, no, but it's very important that you mentioned that and I asked you more about that because many people would probably not classify behavior genetics under evolutionary psychology. They would think about them as two different disciplines. And also, I mean, there are there are people who are trying theoretically to integrate evolutionary psychology. Behavioral genetics, but actually if you talk with a behavior gene geneticist and an evolutionary psychologist, uh, their methodologies and what they're trying to study, uh, many times are very different things,"
+	},
+	{
+		"start_time": "46:03",
+		"speaker": "Andrea Zagaria",
+		"words": "definitely, yes, definitely, yes. So yeah, I, I, I, you know, I made that very clear in the paper that I was investigating a broad sense evolutionary psychology and not the. The famous one by the EP, the Santa Barbara one, and um, so for instance, I also include the human behavioral ecology which is, you know,"
+	},
+	{
+		"start_time": "46:23",
+		"speaker": "Ricardo Lopes",
+		"words": "so that that that's interesting because many people would say that that is part of anthropology."
+	},
+	{
+		"start_time": "46:29",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, but still they are, uh, yes, but still they are um studying human behavior, uh, uh, with, uh, evolutionary assumptions, even though they are kind of different from the ones, uh, from the DP, but still there is this, there is this underlying assumption which is, uh, evolution is important, is important in order to understand human behavior, and we can debate over the methodology or whatever, but there is a very huge assumption. And I, I, I still don't think how uh scientists could ignore evolution because of course, no one in the SSM program would deny that we are product of the, of evolution, but somehow, I don't know how, how they um say that it's not that important. It, it is almost negligible. And, uh, and so, um, yeah, so this is the, you know, the, the fighting between the um and if you think about it, it is a, a long standing fight in between the in philosophy was the fight between Inati and em. So,"
+	},
+	{
+		"start_time": "47:35",
+		"speaker": "Ricardo Lopes",
+		"words": "I asked you about you. Behavioral ecology because I know that there are many human behavioral ecologists that are not very fond of the evolutionary psychologists and they they present themselves as studying ecology and ecological factors tend to be environmental factors and not,"
+	},
+	{
+		"start_time": "47:54",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah, definitely, definitely, yeah, I would say the Santa Barbara IP is somehow, you know, a lot of people are dissatisfied with it and Uh, I, I think there are some reasons for that, but yes, I, I want to, to, uh, this is very important. I, I, I, I didn't want to compare Santa Barbara AP, but the broader assumption of evolution as something important and not negligible. So this is the main thing. Still, as we will see, the results are rather, uh, they speak from themselves. And then on the other end, um, they are the um the list comprehending the many indicators for the SSM comprehended terms like acculturation, sexism, patriarchy. Um, MICROAGGRESSION, minority group, racism, gender identity, feminism, and blah, blah, blah. So this kind of, we, we are all, if, if, uh, uh, you know, you, you open a tweet in the last 10 years, you are encountering for sure this kind of words. So if you are a little bit into the debate, especially in the US this kind are, are very trendy nowadays."
+	},
+	{
+		"start_time": "49:01",
+		"speaker": "Ricardo Lopes",
+		"words": "But, but let me just ask you, since it included terms like feminism, uh, would, would it also include studies from the humanities, like, for example, women's studies, gender studies, and stuff like that, or I'm,"
+	},
+	{
+		"start_time": "49:17",
+		"speaker": "Andrea Zagaria",
+		"words": "I'm including everything is indexed info. So everything is, um, is believed by the, you know, official team of psych Info as being, uh, as, uh, it has to be. Included in the psych for database and actually this is, this is one of because my my paper was commented somehow critically by William Costello and Douglas. William Costello is a PhD student of of yeah, I, I,"
+	},
+	{
+		"start_time": "49:44",
+		"speaker": "Ricardo Lopes",
+		"words": "I interviewed him on the show, so,"
+	},
+	{
+		"start_time": "49:46",
+		"speaker": "Andrea Zagaria",
+		"words": "ah,"
+	},
+	{
+		"start_time": "49:47",
+		"speaker": "Ricardo Lopes",
+		"words": "really back in 2022, yeah,"
+	},
+	{
+		"start_time": "49:49",
+		"speaker": "Andrea Zagaria",
+		"words": "OK, uh, uh, I didn't know that and, and they did, they did an analysis and they had this, um. This kind of, uh, one of their uh criticism toward my paper was that psych Info included not scientific paper, not scientific journals, and they said because, you know, Annas of dyslexia is not a scientific journals. And I say that I, I, I answered them like privately. I also want to, you know, publish another paper regarding this, but I, I said that, well, it's David, is, I, it's very different, uh, it's very difficult to, uh, you know, um, draw a line specifically where science begins and where, where science ends. And so it is very, even though you, you were right. I, I, I would not know how to operationalize that kind of uh um of instance in a bibliometric study. First thing. Second thing, it is very difficult to discard a journal as a non-scientific in an IS uh Dixit fashion. So I can say it is not scientific, but I have to demonstrate it because otherwise, my own behavior is very non-scientific. And so, I would say that, of course, my, my research has some, some limitations and of course, what we can do, what I can do in the future to make it more robust is, for instance, to investigate only the highly inflation journals, as I said before. So, if I tie my uh research to largely a the, uh, you know, important and information journals in psychology, that would be kind of, uh, uh, you know, uh, another step in, in that direction. Even though personally, I don't think is that, the results would change much because looking at, you know, flagship journals of, um, such as the American psychologists and the kind of papers they publish nowadays. Uh, THAT are very toward the SSM, uh, scenario because there was this very, you know, um, influence of the SSM in the academic, uh, US US uh landscape. And, but we can do that, of course, we, we, we can see if that change, um. But what we, uh, what I obtained and to a lesser extent, what also what, uh what uh Costello and Douglas obtained even though somehow differently, and I do think there are some serious problems with the methodology, but we can talk about that later, is that, well, in mainstream psychology that is in the um all um peer-reviewed journals uh indexes I came from, you know, the, by official team by the APA. Um, AND, uh, the, um, uh, evolutionary psychology, broadly speaking, starts in the 1950s because this search was, uh, covering a broader, uh, time span than the other one. So we, I investigated from the 1950 to the, to 2020, 2022 actually. Um. We see, we, we see it like uh starting at about 3% of the overall publications and then we gradually reach 44 4% in the last years. On the other end, we say, we, we see that the SSM start at about 5% in the 50s and we reach actually uh 10%, 10, 11% in the last years. And we say that the, the uh the gap is, you know, the, the growth of the SSM is particularly evident from the um end of the 80s on. So from the 90s."
+	},
+	{
+		"start_time": "53:18",
+		"speaker": "Ricardo Lopes",
+		"words": "Oh, that's interesting. So that ends up coinciding also with, with the, the advent of what we call evolutionary psychology in the late 80s or"
+	},
+	{
+		"start_time": "53:29",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah, exactly, yes, it's kind of uh it's kind of paradoxical, but yes, and so we can say that on average the SSM um SSM laden contributions are twice. ARE twice, um, actually, uh, 2.20, um, times the evolutionary uh psychological contributions. And in the last years, that is 2020, 2022, this gap is, this ratio is even larger, is about um 2.5. OK. And even in the William Costello and Douglas reanalysis, which has some problem because they added two words to the uh EP keywords, a set of keywords, so it was unbalanced. So EP add add more keywords than uh SSM."
+	},
+	{
+		"start_time": "54:17",
+		"speaker": "Ricardo Lopes",
+		"words": "So what were, what were those two keywords, by the way? The,"
+	},
+	{
+		"start_time": "54:21",
+		"speaker": "Andrea Zagaria",
+		"words": "the two keywords were inclusive fitness. And the other one, I think, uh, papa parental investment and psychological adaptation, and they removed the animal cognition. So they removed animal cognition and they added inclusive fitness, parent talent investment and psychological adaptation. And, but they did not, and they also restricted the term uh culture in the SSM keywords in order to avoid the uh the term culture as used in the biology paper that is the, you know, the soil full of microorganisms. And so, of course, they restricted the SSM and they expanded the FP so of course the Russia was different, but it was like a kind of a methodological concern I already expressed to them privately."
+	},
+	{
+		"start_time": "55:09",
+		"speaker": "Ricardo Lopes",
+		"words": "And, by the way, but even with their approach, what results did they get?"
+	},
+	{
+		"start_time": "55:14",
+		"speaker": "Andrea Zagaria",
+		"words": "EVEN though we, even, even with this approach, which of course will power EP, uh, like the contributions by definition, um, their, their, the average ratio is 1.78, so closer to 2. In the last years, it's almost equal to mine, so 2.5. So last year's 2.5. So it is quite a big hiatus and of course, what is the take home message? Uh, FROM these studies, even though you, you, you think that their study, uh, can say something valuable. I, I don't think so. But even though we take this for granted, still, we can't call scientific re uh evolutionary psychology as a scientific revolution. We can't because uh it's clearly outperformed by the SSM. Clearly, no one can deny that. So, uh, we have two options, uh, or we, uh, you know, um, we, we can say I, I, I wasn't referring to scientific revolution in a Kian sense, but that is kind of difficult because the terms were kind of Uh, Cunha Leyden, or we can say, well, this is the, you know, state status of affairs and we, we, we have to do something about it because I uh I also had some discussions with some evolutionary scholars and I tried to publish this, some, uh, um, I, I had some problems in publishing these papers, the, this paper. And uh I, I had, you know, um private back channel with a, and I would say an, an important evolutionary scholar. Who was, I would say ideologically annoyed by my results and I was kind of sad of that because I was white. Uh, YOU should be, you know, the no scientist, uh, that went to the bank, the ideologically laden SSM people, but you are, you are still ideologically laden and uh also, you know, the paper by By by Costello and his collaborator, I see it something ideologically laden because I, I, I, I do think that, of course, if you add two words, the, the results will be unbalanced and you, but the problem is that I do share and maybe we can, we, we, we, we can get to that later. I do share, I do. I do have sympathy for the evolutionary psychology and also for the EPP Santa Barbara EP program. I, I don't, don't have any, anything uh against it. I don't, I, I don't share many of the um Of the, of the criticisms they had toward the Santa Barbara IP. For instance, I had a, a conversation with a big, big, big person in cultural evolution, like a huge one, like one of the leading scholar in the world in this regard. And it was very, very, very, you know, aggressive towards Santa Barbara. And I, I, I, I don't understand that. I have my ideas, uh, and, but, uh, yes, but of course, I, we, we can't call it even broadly speaking. As a scientific scientific revolution,"
+	},
+	{
+		"start_time": "58:12",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah, and I mean, I, I mean, as far as I'm concerned, I'm not that surprised. I would probably be a little bit more surprised like 5 or 6 years ago because I was very much into evolutionary psychology and I thought that perhaps it would help, it would hold, I mean, it would be more prominent within psychology at. We, uh, and, and even more so now, nowadays, but, uh, as I talked with people that would fall under neuroscience and of course, I, I don't talk much with psychoanalysts or behaviorists, but they, they, I know that they are not fond of evolutionary psychology, but even people from other sub I'm not sure if we should call them subdisciplines, but some barriers in psychology. Like, for example, the social psychologists, the cultural psychologists, and, uh, uh, and even many cognitive psychologists, uh, I mean, there are many, many people out there that are not fond of evolutionary psychology at all. And even the other approaches that we mentioned, behavior. Genetics, human ecology, many, many people they also do not like the evolutionary psychologists,"
+	},
+	{
+		"start_time": "59:28",
+		"speaker": "Andrea Zagaria",
+		"words": "not at all. I don't know why. I, I, I have my theory about that, but, um, of course I, I, I don't know why. I think that one major impediment here is, uh, uh, uh, as I said before, this is versus old problem, you know, the, the problem that you. Somehow, because I think that all, they, they, they get very mad when, when evolutionary psychology, for instance, let's talk about attachment. No one is discussing attachment. Why? Because it's standard, because we have little kids crying for their mom, and this is, you know, so, you know, hard moving. But attachment is the one evolutionary psychobiological motivation per definition. And no one ever discussed it. No one ever discussed bold B remarks about the EEA. Actually, Borbi was the inventor of the. FUCKING word. So it is kind of the, you know, problematic that attachment, of course, there are some critics, of course, there are some critics of attachment, especially during, you know, they, they see attachment as something deterministic and uh by uh reductionistic. But still, you don't see anyone, especially in clinics or in my own niche that is against the concept of attachment as a evolution, evolutionary laden motivation. When you talk about mating. And the gender differences in mating, which are, you know, robustly, uh, documented by the EP in my opinion, robustly, uh, things start to change because people get, you know, get, uh, defensive and get, um, also, you know, world leading scholar, uh, for instance, um, I, I, I, I think that We could uh lead back this controversy to two very important people in the field in the 70s who were on one hand, Edward um Osborne Wilson, so the author of sociobiology, on the other, on, on the other hand, Stephen Jay Gould. And uh these two people and good good was, you know, a very important, uh super important why I think the most cited paleontologist so far is like he, he is super important. He also elaborated this evolutionary theory of punct punctuated equilibrium, so it was a leading. Expert in evolution, he wrote, you know, you, is Magnusopus about evolution. Still, when it comes to evolutionary psychology, um, you know, mating or, uh, or, you know, gender differences or some uh difference in intelligence, he wrote, uh, you know, uh, a lot about difference in intelligence would and It was, I, I think some, somehow ideological and that is a pity because it was a great scientist, you know. And uh I, I really don't know why there is so much hate toward Santa Barbara, uh, even though I, I, I don't share some of their works, but still I, I know,"
+	},
+	{
+		"start_time": "1:02:16",
+		"speaker": "Ricardo Lopes",
+		"words": "I, I have"
+	},
+	{
+		"start_time": "1:02:16",
+		"speaker": "Andrea Zagaria",
+		"words": "a"
+	},
+	{
+		"start_time": "1:02:16",
+		"speaker": "Ricardo Lopes",
+		"words": "feeling"
+	},
+	{
+		"start_time": "1:02:17",
+		"speaker": "Andrea Zagaria",
+		"words": "about that."
+	},
+	{
+		"start_time": "1:02:18",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, I'm not completely sure, but at least, uh, something that I've noticed even when it comes to myself, when I look, when over the years I talked with, for example, anthropologists and cultural evolutionists is that if you look at, uh, if you look at across cultures, if you look at ethnographies, for example, if you do ethnographic work across different kinds of cultures, and if you're working with a more culturally oriented approach, let's say, um, I think it's, it's very hard for people like that to accept the idea that most of what happens within a psychologically is innate, you know,"
+	},
+	{
+		"start_time": "1:03:08",
+		"speaker": "Andrea Zagaria",
+		"words": "is what?"
+	},
+	{
+		"start_time": "1:03:09",
+		"speaker": "Ricardo Lopes",
+		"words": "In"
+	},
+	{
+		"start_time": "1:03:09",
+		"speaker": "Andrea Zagaria",
+		"words": "innate. Uh, YEAH. Yeah. Yeah. Yeah. Yeah,"
+	},
+	{
+		"start_time": "1:03:13",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah, because, because, uh, uh, I mean, actually, that, that's probably one of the criticisms that I would have nowadays when it comes to evolutionary psychology. First of all, many evolutionary psychologists are not aware. Of they are not familiar with, uh, anthropology or anthropological literature. And so, I mean, if you ask them about something related to anthropology, many of them don't know much, to be honest. Uh, AND, uh, and I mean, and the other thing is that Uh, I, I think that perhaps some people, not all, because it depends. There are also a few evolutionary psychologists who web training in anthropology and so those approach things a little bit differently. Uh, BUT men, uh, but some of them at least, uh, have, uh, come to the table or, or when they look at things at any kind of psychological phenomenon, they assume or they start from a standpoint where they assume that, uh, wherever. Kind of psychological phenomenon they are analyzing that they uh that it should be in some way innate or the result of natural sexual selection or something like that."
+	},
+	{
+		"start_time": "1:04:31",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, yeah, I do think that I do think, I think this is a major problem with the the Santa Barbara. I do think that there's Um, Uh, I, I, I, I don't know how to define it, but they, uh, are very keen on the idea of being tied to, you know, real science, real biology, and real things, you know, and they are not willing, at least to my, to my experience, uh, many of them are not willing to, um, collaborate. For instance, I think that a major breakthrough for revolutionary psychology would be, um, you know, um, more collaborative attitude toward clinical psychology. Because I do think that being a clinical psychologist myself, I do think that when you're having therapy, someone and you help someone, a lot of evolutionary insights are super helpful for you, super helpful when you, when you think about sexuality, mating, attachment, status. You know, you see, you know, young males depressed in their 30s because they are not attained, uh, in the status they wanted to attain. And there is a major difference of, for, for instance, in gender difference because as, as, as, as David Gerry, which who you interviewed and know uh knows very well, you know, there is, you know, males are more prone to experience depression if uh uh status deprived than females. And, um, and there is super, they would be super useful for the clinician other than, you know, stupid narrative of, oh, let's go and talk about your parents, uh, which is useful many of the times because so I am, I am also, I, I studied a lot of attachment, so attachment is super important in determining your own health, mental health. But still, if you are depressed cause you are, you, you don't have your place in society, we don't have to talk about your parents. There is no need to do that. And, um, and, and so, um, I, I think, I think, I, I don't know that, um, uh, you know, there's Gilbert, for instance, the scholar Gilbert, the Australian guy, or at least, uh, he works in Australia. And he, he, he, he, he wrote something about motivations from an evolutionary perspective is, is, is closer to the clinical, um, the clinical scenario. But still, if we If we talk about our core evolutionary sci um Santa Barbara EP scientists, which is a small but very, um, you know, living, you know, uh community, uh, they're kind of close because they have this, you know, um, I think it is like in politics, you know, we, uh, they have this, um, they, they, they feel they are hated by everyone. And the, and the, and end up being feeling defensive and superior and that don't, don't help other people to appreciate, appreciate, appreciate them, their work more. And so um um everything um becomes um more difficult. But in, in, in theoretically, I think that evolutionary psychology uh is a beautiful candidate to be a meta theory. Uh, EVEN more that, you know, the classical methodological problems, you know, for instance, with massive modularity are now over, I think, you know, uh, we, we, um, uh, uh, more or less, more or less, but I, I don't think, and, and most of the evolutionary psychologists that I know, they don't have the strict view of massive modularity. Maybe to being cosmic, but, but, you know, For instance, Marco the judicial, who I, I, I know very well, uh, he always talks about psychological mechanisms. He never used the word models and, uh, but I, I do think that some insights from the modularity, um, hypothesis must to be kept in order to be specific because the mechanism has to be specific, to some degree automatic, um, to some, to some degree independent, and it, it, it has to be a neural circuitry. Otherwise, I don't know what we are talking about. Of course, the problem lies in, to a certain degree. This is the, the problem, but to a certain degree, of course. And I, I, I, I don't see how I, someone can, can believe in a, in a purely domain general mind, which is a very, very difficult instance to be. Right,"
+	},
+	{
+		"start_time": "1:08:47",
+		"speaker": "Ricardo Lopes",
+		"words": "so, but let me then ask you about another specific kind of approach within uh psychology. I, I mean, I'm not, I'm not sure how you look at it in terms of how it relates to evolutionary psychology and More specifically evolutionary psychology from Santa Barbara. But what about cultural, what people call cultural evolutionary theory or culture or a cultural evolutionary approach? I mean, is it more, is it more prominent in the literature than Let's say standard evolutionary psychology or not."
+	},
+	{
+		"start_time": "1:09:23",
+		"speaker": "Andrea Zagaria",
+		"words": "Not at all. So, uh, starting from my study, I also, in order to control for the overlapping between uh EP and SSM I also investigated the papers which uh which have, uh, you know, uh, 11, at least one of the set of keywords and at least one of the set of keywords of the other approach. At least one of the keywords of the AP, at least one of the key, and at least one of the keywords of uh SSM. This way, you can track the so-called culturally um evolutionary uh laden contributions. And what we found is that in mainstream psychology, they are fluctuating, uh, you know, Almost negligibly around 0%, sometimes um 0.03%, but, but don't be, uh, don't be, you know, um too fast in interpreting this because we have to remember that especially in the last years. So the mean of, um, over all the period I investigated, the mean of, um of uh papers published per year is um 8, 8,000,000. Last year, we have 150,000 papers per year on average. So still, when you're talking less than the 1%, you're talking on about 500, 600 papers per year. That means one or two papers published per day, which isn't that, you know, uh negligible at all. But if you compare it to the overall amount of the SSM or the EP this is negligible. Of course, there is this new research program. The problem is that as we said before, um, um, So, for instance, one of the most prominent cultural evolutional research program is, you know, um uh sprouted out of the dual linearrison theory by Richardson and, and Boyd. And uh we have names like uh Macreth and Eric and this kind of people there. And the, and I think they are, their background is mainly. There are biologists, anthropologists, or economists. Very few psychologists there. Very physical is there and they study a, no, a broad, um, broad array of, of, of different things, applying these, um, you know, methods from evolutionary biology to so uh cultural traits, the so-called cultural traits. That is a socially learned behaviors, tradition of socially learned behaviors. Uh, um, THAT is culture is defined by them as a tradition of, um, socially learned behaviors and cultural traits are this kind of, uh, of, uh, of, of quantifiable traits. And, but the main problem, and I, it is very um trendy and it is very interesting um research program. The main problem is that they study um anthropological issues, sociological issue. Like um they are on, on a The, the, the, they are more coarse, you know, the, the, they are not that fine-grained at the psychological level. They study how is, uh, I don't know, mm how, uh how many economic classes are um tied to a specific kind of religion or um I don't know, uh, how is it the network of collaboration, but from a sociological point of level, they don't get to the individual level of motivation and ultimately, what can help uh people like me, a clinical psychologist in my therapy room because they are studying, you know, very broad uh uh traditional anthropological issues. Yeah. And also this is, this is informed and some scholars at the intersection between these two these two research programs by uh a new approach also in biology, evolutionary biology that is called the extended evolutionary synthesis or Ivodivo or and some very important people like Feldman, Marcus Feldman, who initiated actually the dual in Edison theory in the 70s with The Ui Cavalli's Forza, they are still alive and kicking and doing, you know, their research on, uh, extended evolution into this with Massimo Pilucci, these kind of guys. And, uh, but the, that kind of research doing mostly by biologists, by, you know, by background is focused on um On biological stuff like insects, like ants, like, uh, you know, uh, butterflies, uh and, and coral reef, that kind of, uh, of things which is very interesting from a theoretical point of view. But, uh, again, it can say something speculatively about the human mind. Uh, I know the, the famous Baldi, uh, Baldwin effect, which is called after a psychology after all, Baldwin, but um it's very difficult to see how these predictions by uh like uh uh um uh uh um uh in the time we are speaking are somehow useful for the human behavior. And on the other hand, uh, uh, evolutionary psychology. Do some study, uh, um, you know, or, or, or, or say, or say they are sensitive cultural differences, but they're not actually. They're not, I, I, I don't think they are. And And, and so I think this cultural evolutionary research program may may be interesting in anthropology or sociology or even in biology, but uh so far, not in psychology. Uh, IT is not, uh, you know, um, you know, mature enough to say something in, in, in regards to how we, uh, behave at the, you know, more fine-grained level. And I think, I think that this is tied to a bigger problem that is, you know, the meaning problem that we spoke about before. I don't want, I don't know if you want to get it into now or,"
+	},
+	{
+		"start_time": "1:15:56",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah, we can get into it, but let me just say that, uh, I mean, I, I agree with you when it comes to where would you put cultural evolutionary theory and you mentioned anthropology, biology, but not psychology, and I actually agree with that. I mean, when I think about cultural evolutionary theorists, I almost always think of them as being anthropologists."
+	},
+	{
+		"start_time": "1:16:19",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah,"
+	},
+	{
+		"start_time": "1:16:19",
+		"speaker": "Ricardo Lopes",
+		"words": "so."
+	},
+	{
+		"start_time": "1:16:20",
+		"speaker": "Andrea Zagaria",
+		"words": "Or biologists, yeah, or biologists who are trained also in anthropology, like for instance Rasse Gray and um who who is a biologist by by background and then he dedicated himself to, to anthropology. uh YES."
+	},
+	{
+		"start_time": "1:16:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, OK, but, but then, tell us about because uh before we started recording at a certain point you mentioned. Uh, ONE issue that you, that you see both, I, I think that's both within evolutionary psychology, standard evolutionary psychology and cultural evolutionary theory that is you said, I think that uh they do not address issues regarding meaning,"
+	},
+	{
+		"start_time": "1:17:03",
+		"speaker": "Andrea Zagaria",
+		"words": "right? Yeah, yeah, yeah, yeah, yeah, yeah."
+	},
+	{
+		"start_time": "1:17:06",
+		"speaker": "Ricardo Lopes",
+		"words": "I"
+	},
+	{
+		"start_time": "1:17:06",
+		"speaker": "Andrea Zagaria",
+		"words": "think,"
+	},
+	{
+		"start_time": "1:17:06",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so explain that then."
+	},
+	{
+		"start_time": "1:17:09",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah. So, uh, in social psychology, in the cultural studies, uh, maybe not in in uh in social psychology, but in cultural studies, if you go to a traditional cultural anthropology and ask them what culture is, they will be uh likely to answer, um, culture is a web of webs of significance. Which is a very famous definition by Clifford Gertz, who is a very famous, you know, anthropologist in the classical cul cultural anthropological tradition, you know. And, and on the other hand, if you go to the, um, you know, cultural evolutionists uh who are anthropologists or biologists, they are likely to answer. THAT culture is a tradition of socially learned behaviors where you can study them behavior also in animals. And so they are very, very uncompatible in different definitions and they are, uh, uh, they are an example on how the natural science and the cul and social science are still divided and the big divide is on the concept of meaning and the concept of meaning is tied to the concept of sense making. And sense making is the perhaps uniquely human, as far as we know, capacity to account for reasons in life, you know. And, and, and, and to, to find uh a uh uh you know, all big ideologies and religions, I think they are tied ultimately to answer questions about life almost trivially. I don't think they are like the memeticspose it's, you know, just uh pieces of information that want to replicate themselves. I think that Christianity, for instance, is way, it's way more complicated than that. It's like, it gives a purpose in life to people. I don't think that purpose is something, um, you know, illusionary or non-existent. I do think it is very important. I, I don't know, uh there is this beautiful example, a friend of mine, Gregory Ricks does that it is very difficult to Explain, for instance, you know, I, I don't know if, if you are familiar with the picture of the Vietnamese monk who, uh, who, who, you know, who, um, willingly set himself to fire in order to protest to the government and it is very difficult to understand this kind of behavior without taking meaning into account, you know. And, and it's very, you know, because probably the guy really believed his gesture was uh symbolic and necessary and there was a reason he was pursuing a name he was pursuing. And also we, we were talking before about the practice of Japanese people of uh, you know, removing their shoes, the, their shoes before getting into the, the house. And you could speculate a lot about the reasons of this behavior. You could call memetics into question. We, you could speculate, uh, you know, uh, an advantage to the um inclusive fitness, but it, I think that The easiest thing to do is to tie this behavior to um to the broader problem in Japanese culture of the division of public and private self. And so, you are entering a private space and you must leave your, you know, you, you must be respectful to that, you know. And a lot of different behaviors could be easily explained through this interpretation, which is more qualitative, which is more uh culturally, you know, more akin to the cultural studies. But nevertheless, it is very compelling and I think it is also a clinical psychologist, it is very compelling when people are facing the absence of meaning in their life. And if you take meaning Out of the equation as uh everyone is doing right now in the cultural, uh, at least as I know, it is very difficult. Of course, they are aware of the problem because I, I do remember the only source in which I found, you know, a small piece of discussion about it is a volume edited, uh, you know, published in, at the end of the 90s, 1997. By Peter Weingart, which is with a German sociologist, and invited a lot of important people also for of from evolutionary psychology. I think Cosmides and to be were there. One year in Zurich at uh this interdisciplinary center. To try to, you know, um, help the natural and the social science get along with each other. And he mentioned the meaning problem. So that as, uh, uh, that, that there is no theory of the emergence of meaning. And I think the big, big problem here is that there is a missing point in between our evolutionary history. Of the and the emergence somehow I, I, I, I do think with the advent of language of our capacity to account for meaning. Which is, which is, which is, uh, which was, I think, a major, major um transition that um helped that, you know, uh spurred a lot of religions, mythologies. And uh and things that, you know. Uh, WE are, are as humans are deeply affected by."
+	},
+	{
+		"start_time": "1:22:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND actually, earlier you mentioned the extended evolutionary synthesis, and I've already talked about this on the show with even some of the most prominent names like Massimoiucci and David Sloan Wilson, uh, and one of the things that they mentioned, uh, could, and other people as well that could be included within the external evolutionary synthesis is symbolism. Right. Oh,"
+	},
+	{
+		"start_time": "1:23:01",
+		"speaker": "Andrea Zagaria",
+		"words": "really? I didn't know that."
+	},
+	{
+		"start_time": "1:23:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, yeah, yeah, yeah. So symbolism would probably account for what you're saying there or what you're talking about there and within anthropology, if we're talking about the study of humans, uh, it will probably fall under symbiotics,"
+	},
+	{
+		"start_time": "1:23:21",
+		"speaker": "Andrea Zagaria",
+		"words": "right? Yeah, yeah, yeah, yeah. So there is also the, you know, like. Um, LINE of research called biosemiotics. I don't know, uh, a lot about it, but yes, but, and, and I, I, I don't know how the EES scholar want to address this issue. Maybe you can talk more about it later because I, I, I, I, I don't know anything specific, but I do think that one of the most fascinating thing is that we miss, we miss an evolutionary link between the emergence of language and the emergence of meaning. And I do have some, you know, speculative hypothesis because, so there is this. A friend of mine, Greg Ricks, who, who has this um justification hypothesis which is, which is, he thinks that some time ago, um, about 100 and, and uh 100,000 years ago, uh, probably our language uh reached a tipping point in which we uh transitioned from simple words to um do um sentences, you know, complex sentences. And he poses that this kind of, you know, of course, it is a speculation, but he thinks that this um moment could have been the starting point of the mythologies and religions and our capacity of being a person other than primates, and it's very fascinating. But what I added to this, you know, justification hypothesis is that I do think that this is, this was probably linked to the emergence of causal clauses. So, of why because uh adverbs, which are, you know, pervasive when we talk about something, even in the scientific scenario, uh, you know, cause, causear reasoning is, is endemic in explaining why. And as Perber and Mercer said in the book, it is very difficult to Uh, you know, uh, distinguish in between retrospective and prospective reas reasons. So it seems that our brain works as every, every time we want to account for a reason, we are somehow trying to, uh, to convince someone and, and, uh, yes, and so this, you know, this Uh, this, the dynamics in between convincing others and trying to find a reason why things are the way they are. Uh, I think, I think it is a fascinating way to study, even though it is a very speculative, uh, I don't know from the operational point of view how to, how to do that, but it is, it is, I think this is the missing link, yes."
+	},
+	{
+		"start_time": "1:26:01",
+		"speaker": "Ricardo Lopes",
+		"words": "So you think then that even cultural evolutionary theory does not account for things related to meaning and sense making, is that it?"
+	},
+	{
+		"start_time": "1:26:13",
+		"speaker": "Andrea Zagaria",
+		"words": "I don't think so. I, I, I never read anything, but maybe I'm wrong, maybe it is my ignorance, I don't know. Uh, I, I would be very glad to, to know if you or someone who is watching the show has a different expertise on this, uh, because really, but I, as far as I know, no, the meaning is, for instance, it is very important in clinical psychology, a lot of, you know, constructivists. Uh, THEORIES, um, has been built around the concept of meaning. A lot, a lot, a lot of, of, of, of, of clinical, um, of clinical works is informed by meaning. For instance, I, I don't know if you ever read the, the book by Victor Frank, uh, you know, the psychiatrist who has been, uh, in, um, in"
+	},
+	{
+		"start_time": "1:26:56",
+		"speaker": "Ricardo Lopes",
+		"words": "search for meaning."
+	},
+	{
+		"start_time": "1:26:58",
+		"speaker": "Andrea Zagaria",
+		"words": "Uh, MAYBE, I don't know. I don't know. I,"
+	},
+	{
+		"start_time": "1:27:01",
+		"speaker": "Ricardo Lopes",
+		"words": "I don't know Victor Victor Frankl, I think that's the, the title of the book Man's Search for Meaning."
+	},
+	{
+		"start_time": "1:27:07",
+		"speaker": "Andrea Zagaria",
+		"words": "You see that kind of thing, you know, when you, when you are, when you are, um, when you are, when you experience such, uh, um, you know, uh, troubling and distressing events such as being in a concentration camp, the main thing you try to do later on is to explain it. And maybe there is an illusion, maybe this is our, you know, brain just, uh, being, uh, you know, broken or maybe there is something, you know, bigger, uh, out of it. I don't know."
+	},
+	{
+		"start_time": "1:27:37",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, I, I mean, I, I don't know what you think about this, but I have this idea that most of what happens in psychotherapies, people, um, psychotherapists trying to help their patients integrate wherever bad happens in their lives, wherever. Yeah, whatever bad happens in the labs into a personal narrative. And when people are able to integrate that into a personal narrative, then they make sense of it and that's when they are able to, I don't know, move on with their lives and be more positive, I guess."
+	},
+	{
+		"start_time": "1:28:13",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, definitely, yes, yeah, yeah, I think, I think that I, I don't think. I don't think that, uh, you know, um, finding, uh, you know, a reason just cognitively and from a cold perspective is can help you, uh, most of the times that cannot help you, but definitely I think that when you are able to integrate and process all the information in appropriate way, your narrative becomes more um cohesive and coherent, yes, yeah, for sure, yeah."
+	},
+	{
+		"start_time": "1:28:51",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so let me ask you about another thing because this is also something that you studied when it comes to evolutionary psychology specifically, what are the main topics of study there? Because I can, because one of the things interestingly that I read and heard from people who are not fans of evolutionary psychology but come from other Domains other areas like for example, human beaver ecology or cultural evolutionary theories that they say that evolutionary psychologists are too focused, too obsessed with topics like mating, for example."
+	},
+	{
+		"start_time": "1:29:32",
+		"speaker": "Andrea Zagaria",
+		"words": "So"
+	},
+	{
+		"start_time": "1:29:32",
+		"speaker": "Ricardo Lopes",
+		"words": "is, is that true or not?"
+	},
+	{
+		"start_time": "1:29:34",
+		"speaker": "Andrea Zagaria",
+		"words": "Yeah, so I did this, um, these studies, computational linguistic studies, uh, thanks to a topic modeling approach. Or with a thing called uh Latentrichlet allocation. And what if, and I analyzed the um if I remember correctly, about 300 or 400 abstracts. The, the study has still to be published. I, I just uh Have a, had a presentation to a conference. But what I found out analyzing the abstracts of um ethology and sociobiology and then evolution and human behavior, so the flagship journal Evolutionary Psychology. Yeah. By the way, it is also a journal, uh, very, um, very, uh, you know, in, in which many behavioral ecologists, uh, human behavioral ecologists published, so there is not the dividing line. Um, BUT nevertheless, and, uh, and also, uh, like, just a note side, the other link I, I found in between the human behavioral eco uh, the, uh, culturally evolutionary program and the Santa Barbara is that Richardson was the chair of the evolution and Human Behavior Society, which is the Santa Barbara thing. So this is somehow they, sometimes they communicate likely. Getting back to the topics. Um, YEAH, so, uh, thanks to some, you know, index, like, um, you know, um, I, I found, uh, that, um, the, the, the, the, uh, the core coherence and stability. I found that the optimal number of topics was 13. And the topic there is, there is mating there, of course."
+	},
+	{
+		"start_time": "1:31:24",
+		"speaker": "Ricardo Lopes",
+		"words": "M mating and sex differences are that many people tend to associate with evolutionary psychology."
+	},
+	{
+		"start_time": "1:31:33",
+		"speaker": "Andrea Zagaria",
+		"words": "Definitely yes, but let me take the the the graph so I can tell you more, uh, specifically what I'm talking about. Uh, SO, um, at the, you know, so we have 1313, um, topics, first of all, and then, of course, I, I, I can remember it without looking at it. So there are 13 topics and I can, I can list it, list them to you. They are vocal communication. KINSHIP group living, parental investment, male attractiveness, cultural and cross-cultural studies, female mating, life history theory, social learning, disgust system, cooperation, perception, and um the kin detection model in the same, uh, in the same analysis, sex differences and mating. OK. Of course, what I want to stress about this um labeling is that um well, topic modeling is kind to factorize this so you have after you decided uh on the optimal uh number of topics, you have have a list of the most probable words in that topic. And so by looking at the 1st 10 or 20, you can have an idea on what this topic is about. But of course, it, it's not something purely objective. This is important to, to tell you. And so, these are the 1313 uh um topics and what I found, I also had, um, I also did a network analysis, so I, I plotted them, uh, graphically. And I saw that very in, of course, mating is super important, but the central, the most, most central node in the network is life history theory."
+	},
+	{
+		"start_time": "1:33:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Life history theory. Yeah. And"
+	},
+	{
+		"start_time": "1:33:24",
+		"speaker": "Andrea Zagaria",
+		"words": "so I think, I think this is, this is the, I would say this, this is the most important uh topic in evolutionary psychology so far. And for instance, some, some traditional topic like uh parental investment are colder, so they are decreasing in their prominence in the abstract of the evolution of human behavior and previously on theology and sociobiology. On the other hand, we have, we have, uh, this, you know, centrality of life history theory. So I, I would say that it is not at all, all about mating, but surely, traditionally, um, uh, all the, you know, most, most of all of the evidence on evolutionary psychology is exclusively on mating. David Bass is dedicating himself a lifetime to mating. David Smith, you know, uh, also. And um um so mating is, is super important, but I would say that uh like the contemporary emotional psychology is focusing more on life history theory."
+	},
+	{
+		"start_time": "1:34:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, which is interesting because life history theory is something that at least I myself, I've already done more than 1000 interviews, but I would, I, I would tend to associate it more with uh the biologists and the behavioral, the behavioral ecologists,"
+	},
+	{
+		"start_time": "1:34:45",
+		"speaker": "Andrea Zagaria",
+		"words": "so. Yeah, yeah, yeah, yeah, definitely, yes, but the, the, the cool thing with life history theory. Is that, you know, they, they have all these nice models, uh, mathematical models. It is highly formal as a theory. And uh there is also, you know, the theory by, by Marco de Juice about evolutionary psychology is all centered about life history theory. And I think it is very, also very This is another thing that clinicians would benefit a lot from evolutionaries like you, like the fact that the condition in which you are raised, the environmental variables, so the harshness and the uh um um uh unpredictability of your environment really set your biological parameters to a certain, you know, functioning. And so you are more prone to go to the faster end of the continuum or or to the slow end of the continuum, and that is Fascinating because if you have, you know, this traditional approach of uh everything that happens in your first years of life, bad is going to ruin you exclusively. On the other hand, if you, in a sort of humanistic psychology um uh way, see also, you know, the, the good part of the um of the, the other side of the coin, the, the good part, uh, you can see that many, uh, you know, uh fascinating adaptations. ARE arising from harsh and unpredictable environment. For instance, all the, um, all the uh adaptation in the creative uh schizotypic spectrum and uh also some adaptation in the narcissistic spectrum, of course, not the more of, not the most disturbing ones. But you see, again, we are kind of mixing the moral level with the descriptive level. Uh, BECAUSE if you see like most of the top-notch, uh, mm, you know, uh, people, uh, you know, successful people, uh, in the, in the, um, even in academia surely have some dark tri traits. Surely they have and uh there have been studies about it. And so, of course, you can see it morally and that it's bad, but you can see it descriptively and that it is true. And there are 22 different things."
+	},
+	{
+		"start_time": "1:37:01",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, let me just ask you because I was reading here from your paper that you say, as you said there, the, the two most prevalent specific topics are mating, general and uh life. History theory, but then you also mentioned that the two hottest topics are cooperation and male attractiveness, and the two coldest topics are mating general and parental investment theory. So explain that what,"
+	},
+	{
+		"start_time": "1:37:32",
+		"speaker": "Andrea Zagaria",
+		"words": "yeah, yeah, so I have, I have a topic right here. So yes, so speaking of mating, I think that that is um and it is the first in the, in, in the code, uh, in the code list. So it is the topic that is has decreased with the um fitting regression line like more, uh more sharply. OK. And so because meeting was very important for David Bass and his collaborators to lay down the very foundation of uh evolutionary psychology, but I think that. I don't know if everything that could have been written on mating has been written, but most of it. So it is like less, less fascinating for, for people. And speaking of the cold topics, the other cold topics are parental investment and the same thing, which is, you know, mating and parental investment are kind of intervened because, you know, uh, Trevor's theory about parental investment informed David Bass on, on mating. And uh speaking of the hot topic, so I would say that speaking of the first one, which is cooperation, I would say that this is the reason, this is informed that the cultural evolutional program because cooperation is traditionally studied, you know, um, through, game theory, for instance. And so highly mathematical model, uh, more prone to kind of uh um anthropological lens. Uh, BECAUSE, you know, cooperation has been studied traditionally by anthropologists rather than psychologists, you know, and I think this reflects what we are talking, what we were talking about before. So the fact that cultural evolution is a super trendy research program and so you see it also in uh in uh evolution and human behavior. Yeah. And speaking of the, on the other, um, hot topics. Uh, ALSO that this uh so we like if we, if we go on the ranking, we have cooperation and then we have, uh, uh, male attractiveness, which is the second, which nevertheless tied to mating. I don't know if I have something to say about it. And then we have cultural and cross-cultural which is again tied to the cultural evolution uh research program, I would say. And then we have the disgust system, which is very interesting because the discuss system in the network analysis, uh, it isn't, um, so a network analysis uh for, for those who doesn't know it is, uh, basically a way to see partial correlations. So the uniquely, uh, the, the correlation between variables controlling, uh, for the, for the, for the correlation. With the other variables. So this X and it's uh Y, um, the, the magnitude of this relationship is controlled by the others, you know, potentially confounding variables like Z in between them. And so you can see how things are related to each other and that this gas system is uh far away from the, from the rest of the, of the, of the, of the graph. And the interesting thing is that It, it is like attachment, a motivational system. But it is very, uh, it has been, uh, you know, studied very specifically from the immunological perspective. And so it is very not tied to the other rest of the evolutionary reasoning, but it is a kind of, you know, I, I've been to, to a conference and that, there were a lot of um contribution about disgust. So the tend to avoid the potential pathogens in the, in the environment. And then we to, to, and we have uh vocal communication, which is the 5th, but I, I don't know if I, if I have something to say about vocal communication. Uh, I think vocal communication is, um, you know, it has been uh considered as a separate topic, uh, because of the technicalities of the LDA approach and, uh, but it could be easily, um, I think merged on one end to mating because uh studying, uh, you know, study the um. The tone of males, uh, how it is perceived as attractive or or not attractive by women, or I think the other thing, uh, the other way it could be studied is maybe in status competition, but yes, I think this is, uh, this is, uh, what this this topic is about."
+	},
+	{
+		"start_time": "1:42:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, um, just before we wrap up our conversation, let me ask you a broad question. So, when it comes to evolutionary psychology, possibly being a scientific revolution, you said no. But then, I mean, how do you look at the Perhaps the future of psychology, taking into account all of the issues that we pointed to there, including the fact that there's several different sub-disciplines tend to be insular and not, there's not many cross fertilization, there's not lots of cross fertilization uh across the different uh psychological sub-disciplines. So how do you look at it? Do you think that There's any chance of in the somewhat near future having something that could become or that could turn psychology into a paradigmatic discipline."
+	},
+	{
+		"start_time": "1:43:21",
+		"speaker": "Andrea Zagaria",
+		"words": "I don't think so. I don't think so. Uh LUCKILY, I wish, I wish I would, uh, I wish I was more hopeful and optimistic, but I'm not, I'm not. I, if I, if I, if I have, have to be honest, I see that the, I don't know in the years to come, but as for now, I, I think, I, I, and I see this is a, uh, uh ill uh malady. And, uh, a, a problem, you know, the, the prominence of the standard social science model approach is getting bigger and bigger and getting ideological and ideological. And this is, uh, this is scary for me. And this is scary for me because I have many emails, you know, asking for editors and collaborators in leading journals in the field and I perceived the, them a kind of racist because they just want, you know, people from, from mar. OR you know, by, by, I, I, I do call it um by um communities and uh I don't like this kind of uh you know, trend which is endemic in the US aca academia. So speaking of the, you know, um, brief or medium term, I see this is a problem. Um, I don't know if this is the main problem of psychology, but this is one of, one problem. I, I, I, I, I see that it's getting more and more ideological, and I think this is a huge problem, a huge problem. Uh, AS a side. Um, As another big problem is tied to another bigger problem, not tied exclusively to psychology, but is that of hyperproductivity. And I think that uh most of scientific, so for instance, in the study that I've done on psychinfo, we found that Each day on cycling for. So, the medium, on average each day in scientific psychology, if you call scientific psychology each paper indexed in like info, we have 437.5 papers published. That means approximately 1 paper every 3 minutes. Mm Yeah, that's,"
+	},
+	{
+		"start_time": "1:45:43",
+		"speaker": "Ricardo Lopes",
+		"words": "that's a bit ridiculous."
+	},
+	{
+		"start_time": "1:45:45",
+		"speaker": "Andrea Zagaria",
+		"words": "That's a bit, that's totally ridiculous, you know, you think, of course, of course, you know, as science grows, you cannot be, um, you, you, you can be specialized in your own niche, of course, you can, you know, you, there is no Leonardo da Vinci anymore in our society, and that's OK, but But this kind of hyper productivity, which is not, you know, an exclusive of psychology, is endemic in medicine, biology, engineering, and whatever. Um, IT'S, it's pushing the scientific standards down. And I see also in, in my personal academic, uh, you know, life, uh, and I, I think I, I'm, I'm, I'm about to finish my PhD and then I think I will have some time, uh, you know, away from academia, maybe in the future, I will be back at it, but for now, I have to spend some, some time away. I, I see that, you know, scientific transparency and quality are Super rare and most of the time is uh is um is uh is like who you know, uh who you are submitting your paper with and, and So that is another, and, and most of the, and, and I'm, I'm not afraid to say, to say, most of the professors, even a full professor I know, they're not good scientists. Most of them, most of them. Like I, I, I can count on my hand, you know, the, you know, the, the good scientists I know. Like, at least not, not speaking of, um, not speaking of, uh, you know, pure intellectual ability, which is one thing and it's truly important, but about, you know, ethical transparency and, uh, you know, um the willingness of, uh, doing a research just to do the research, just to answer the fucking question, you know. And I think, I think that's, that's kind of uh disturbing. And so, uh, this is one other bigger problem, not tied to psychology, which is also kind of, you know, people don't have time to read. Papers. People and most, most importantly, people do not have to think. And, and they think that, you know, theoretical question because one of the problems of evolutionary psychology is that it is heavy theoretically laden, and I love it for that because it has a lot of theory behind it. And it is very rare in psychology. If you go to social psychology, it's all, you know, sla equation models, uh factor loadings. Now we have a theory. This, this kind of attitude, you know. And, uh, on the other hand, the, the thing I love of evolutionary psychology and they spend time in thinking, OK, what is the most um uh most reasonable theory to endorse, to have a decent theory of the human mind. We have this proposal, maybe we are wrong in some regards, but we have this proposal, and I think this is still the most solid and robust proposal because it, it, it ties psychology to, to biology, which is a necessity in my opinion. And um Still, a lot of people do not have the time to think or do not have interesting uh interest in theoretical issues. And so there are, you know, this um super empiricism which is, which is a catastrophe in, in psychology. And so this is the 3rd reason. So, first reason, uh, we have, uh, we have, you know, the SSM, uh, the ideology, then we have high productivity, then we have the unwillingness of scholars to think and to read. And so I don't think, I don't see it as a possible uh for revolutionary psychology or other theories to become paradigms. I, I see the possibility, to be honest, of the SSM as for now, the standard social on the other end, it seemed that it is right now the most, the closest thing to a paradigm in psychology that, that I ever seen in my life because people are scared of being against it. And, and so, you know, they, they, they don't, don't want to do anything against it. And I don't know, maybe this is not going to last, hopefully, but, uh, actually, this is uh quite endemic among people. uh, FOR instance, a lot of people in neuroscience are, are, are, uh, are, uh, more than happy to join SSM instances. Uh, SO people biologists, biology-oriented people, and And so, yes, my, my, I, I, I, I, I'm not, I, I'm not that hopeful uh for the future and I don't know, I don't know if we, we, maybe the only thing we would be ever able is that when you, when we have that um knowledge of genetics that will help us, you know, in tracing, you know, the power of uh of genetics in determining our disposition dispositions, that could be one thing. But you, you see, this is very problematic relationship with ethics. And with uh the, the temptation to conflate is versus out and uh human to human, as Nietzsche used to say, tendency of not being transparent and uh and honest in life. And yeah, as for now, I'm not optimistic."
+	},
+	{
+		"start_time": "1:51:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, it is, uh, I, I mean, I'm also not very optimistic, particularly even more so because of the, the lack of cross fertilization and the fact that people do not have enough time to familiarize them. Themselves with other specialized areas. So, yeah, it, it's very complicated. I, I don't blame anyone. I, I don't blame people in general because it's also very hard to have enough time to do that, so. And perhaps, and perhaps just having more time to think would be good because if you go and go back and look into the biographies of some of the greatest geniuses in history, they all have tons of time to think, so."
+	},
+	{
+		"start_time": "1:51:52",
+		"speaker": "Andrea Zagaria",
+		"words": "You know, uh, I think Darwin, it took Darwin something like 20 or 30 years to write the Origin of Species, which is, which is unthinkable in these times, unthinkable, unthinkable. You, you, you do not even have 20 days, so it's kind of, it's kind of, you know, you, you, you, you don't have the time to think and um. Yes, I think this is the major, major problem."
+	},
+	{
+		"start_time": "1:52:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes. Yeah. OK, so where can people find you when you work on the internet?"
+	},
+	{
+		"start_time": "1:52:24",
+		"speaker": "Andrea Zagaria",
+		"words": "OK, so, um, good question. So uh you can contact me in my email. Uh, I can, I can, which is, uh, I can, I don't know if you can like um"
+	},
+	{
+		"start_time": "1:52:36",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, like, uh, put it on the description, yeah, the"
+	},
+	{
+		"start_time": "1:52:39",
+		"speaker": "Andrea Zagaria",
+		"words": "description of my personal email. Then I'm building my personal site which will be online, I think in 2 or 3 weeks. I don't know when will this be released, but uh uh I have a personal site. I have also an Instagram account, which is more like in Italian, so I, because I kind of do like uh I, I, I love to do kind of popular science. Uh, VIDEO to, you know, to communicate sciences. I also I have a TikTok account, but it's in Italian, so I don't know if the people of the watching this video are interested in it, but I can share you with you all the details and you can find them in the description. And if you have some questions, please do not hesitate in contacting me. Uh, IN my personal email for sure, yes."
+	},
+	{
+		"start_time": "1:53:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So look, I really love this conversation. I was very much looking forward to it and I think it was very productive and informative. So thank you so much for doing this. Thank"
+	},
+	{
+		"start_time": "1:53:31",
+		"speaker": "Andrea Zagaria",
+		"words": "you. Thank you. Thank you too. Uh, SEE you guys."
+	},
+	{
+		"start_time": "1:53:37",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyches Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Mari Robert Windegaruyasi Zup Mark Nes called in Holbrookfield governor Michael Stormir, Samuel Andre, Francis Forti Agnseroro and Hal Herzognun Macha Joan Labray and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearraujurumen Roach Diego London Correa. Yannick Punter Darusmani Charlotte blinikol Barbara Adamhn Pavlostaevsky nale back medicine, Gary Galman Sam of Zallirianeioltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fre Franca Bartolotti Gabrielon Scorteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Wozin, David Williams, Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grassy, Zigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedict Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
