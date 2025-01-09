@@ -5,13 +5,16 @@
 	"episodeid": "1043",
 	"excerpt": "Dr. Rodolfo Dirzo is Associate Dean at the Doerr School of Sustainability, Bing Professor in Environmental Science, Professor of Earth System Science and Senior Fellow at the Woods Institute for the Environment at Stanford University. His scientific work examines the study of species interactions in tropical ecosystems from California, Latin America, and other tropical areas of the world. Recent research highlights the decline of animal life (“defaunation”), and how this affects ecosystem processes/services (e.g. disease regulation).",
 	"image": "https://i.ytimg.com/vi/pBuz7Cp2wNA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1043-rodolfo-dirzo-the-importance-of-biodiversity/id1451347236?i=1000683364396&uo=4",
 	"publishDate": 2025-01-09,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1043-Rodolfo-Dirzo-The-Importance-of-Biodiversity--and-the-Sixth-Mass-Extinction-e2fo5u2",
 	"tags": [
 		"Biology"
 	],
 	"title": "#1043 Rodolfo Dirzo: The Importance of Biodiversity, and the Sixth Mass Extinction",
-	"youtubeid": "pBuz7Cp2wNA"
+	"vtt": "1043.vtt",
+	"youtubeid": "pBuz7Cp2wNA",
+	"transcript": "1043.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 13th 2024.  
