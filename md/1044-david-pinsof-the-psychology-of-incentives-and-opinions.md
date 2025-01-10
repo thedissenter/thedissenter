@@ -5,13 +5,16 @@
 	"episodeid": "1044",
 	"excerpt": "Dr. David Pinsof is a research scientist who received his PhD in Psychology from the University of California, Los Angeles in 2018. David’s research focuses on evolutionary psychology, political psychology, public opinion, and sexual behavior. His empirical work explores individual differences in mating psychology and their relation to political attitudes, mathematical models of alliance formation, and the origins of political belief systems.",
 	"image": "https://i.ytimg.com/vi/8rn1eNoUhAQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1044-david-pinsof-the-psychology-of/id1451347236?i=1000683505986&uo=4",
 	"publishDate": 2025-01-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1044-David-Pinsof-The-Psychology-of-Incentives-and-Opinions-e2pqf2l",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1044 David Pinsof: The Psychology of Incentives and Opinions",
-	"youtubeid": "8rn1eNoUhAQ"
+	"vtt": "1044.vtt",
+	"youtubeid": "8rn1eNoUhAQ",
+	"transcript": "1044.lines.json"
 }
 ---
 RECORDED ON OCTOBER 17th 2024.  
