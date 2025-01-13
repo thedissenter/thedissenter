@@ -5,6 +5,7 @@
 	"episodeid": "1045",
 	"excerpt": "Dr. Will Gervais is a Reader in the Centre for Culture and Evolution at Brunel University London. He is a cultural and evolutionary psychologist who studies what people believe about the world. He is curious about a lot things that fall under the cultural/evolutionary psychology umbrella, but he is especially interested in atheists. What do atheists teach us about belief, morality, and what it means to be human? He is the author of Disbelief: The Origins of Atheism in a Religious Species.",
 	"image": "https://i.ytimg.com/vi/9ApKqrvjx68/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1045-will-gervais-disbelief-the-origins-of-atheism/id1451347236?i=1000683827092&uo=4",
 	"publishDate": 2025-01-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1045-Will-Gervais---Disbelief-The-Origins-of-Atheism-in-a-Religious-Species-e2punm1",
 	"tags": [
