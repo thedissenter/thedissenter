@@ -14,7 +14,9 @@
 		"Psychology"
 	],
 	"title": "#1045 Will Gervais - Disbelief: The Origins of Atheism in a Religious Species",
-	"youtubeid": "9ApKqrvjx68"
+	"vtt": "1045.vtt",
+	"youtubeid": "9ApKqrvjx68",
+	"transcript": "1045.lines.json"
 }
 ---
 RECORDED ON OCTOBER 21st 2024.  
