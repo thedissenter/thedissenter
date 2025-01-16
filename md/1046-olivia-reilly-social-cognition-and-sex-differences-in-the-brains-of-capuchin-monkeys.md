@@ -14,7 +14,9 @@
 		"Neuroscience"
 	],
 	"title": "#1046 Olivia Reilly: Social Cognition and Sex Differences in the Brains of Capuchin Monkeys",
-	"youtubeid": "VMVSsRH7org"
+	"vtt": "1046.vtt",
+	"youtubeid": "VMVSsRH7org",
+	"transcript": "1046.lines.json"
 }
 ---
 RECORDED ON JANUARY 29th 2024.  
