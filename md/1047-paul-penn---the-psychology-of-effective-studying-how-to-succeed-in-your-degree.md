@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1047 Paul Penn - The Psychology of Effective Studying: How to Succeed in Your Degree",
-	"youtubeid": "5seBKnkOD9A"
+	"vtt": "1047.vtt",
+	"youtubeid": "5seBKnkOD9A",
+	"transcript": "1047.lines.json"
 }
 ---
 RECORDED ON JUNE 10th 2024.  
