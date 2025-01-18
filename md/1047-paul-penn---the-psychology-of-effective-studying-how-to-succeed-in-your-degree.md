@@ -5,6 +5,7 @@
 	"episodeid": "1047",
 	"excerpt": "Dr. Paul Penn is Senior Lecturer in the School of Psychology at the University of East London. His interests revolve around cognitive psychology and understanding how we can best use psychological knowledge to improve the way people learn, communicate and collaborate. He is the author of The Psychology of Effective Studying: How to Succeed in Your Degree.",
 	"image": "https://i.ytimg.com/vi/5seBKnkOD9A/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1047-paul-penn-the-psychology-of-effective-studying/id1451347236?i=1000684419565&uo=4",
 	"publishDate": 2025-01-17,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1047-Paul-Penn---The-Psychology-of-Effective-Studying-How-to-Succeed-in-Your-Degree-e2knh96",
 	"tags": [
