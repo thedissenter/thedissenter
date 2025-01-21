@@ -5,6 +5,7 @@
 	"episodeid": "1048",
 	"excerpt": "Dr. Mona Simion is Professor of Philosophy and Director of the COGITO Epistemology Research Centre at the University of Glasgow. Her research interests include epistemology, philosophy of language, moral and political philosophy, and feminist philosophy. She is the author of several books, the latest one being Resistance to Evidence.",
 	"image": "https://i.ytimg.com/vi/P_Rw1U7GxzA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1048-mona-simion-why-do-people-resist-evidence/id1451347236?i=1000684740219&uo=4",
 	"publishDate": 2025-01-20,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1048-Mona-Simion-Why-Do-People-Resist-Evidence-e2k2a4e",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1048 Mona Simion: Why Do People Resist Evidence?",
-	"youtubeid": "P_Rw1U7GxzA"
+	"vtt": "1048.vtt",
+	"youtubeid": "P_Rw1U7GxzA",
+	"transcript": "1048.lines.json"
 }
 ---
 RECORDED ON MAY 24th 2024.  
