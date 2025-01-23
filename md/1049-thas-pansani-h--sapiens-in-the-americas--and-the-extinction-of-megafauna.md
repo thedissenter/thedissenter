@@ -11,7 +11,9 @@
 		"Anthropology"
 	],
 	"title": "#1049 Thaís Pansani: H. sapiens in the Americas, and the Extinction of Megafauna",
-	"youtubeid": "n3kIoDsjE9c"
+	"vtt": "1049.vtt",
+	"youtubeid": "n3kIoDsjE9c",
+	"transcript": "1049.lines.json"
 }
 ---
 RECORDED ON OCTOBER 29th 2024.  
