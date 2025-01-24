@@ -1,0 +1,327 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lobs sent to the MEN by Doctor David Henschel. He's professor of molecular physiology and neuroscience in the Department of Physiology and Medical Physics at the Royal College of Surgeons in Ireland. And we're, and today we're going to talk about his book, FineTuning Life, A Guide to MicroRNAs, your genomes master regulators. So, Doctor Henschel, welcome to the show. It's a big pleasure to everyone."
+	},
+	{
+		"start_time": "00:30",
+		"speaker": "David Henshall",
+		"words": "Thank you very much for having me. I'm delighted to be here."
+	},
+	{
+		"start_time": "00:33",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, I guess that this, uh, interview is very timely just because very recently, someone won the Nobel Prize in physiology or medicine due to the discoveries surrounding microRNA. So, uh, but before we get into microRNA specifically, just to Perhaps familiarize the audience with some of the basics here. What would you say are the most important things for people to understand about DNA and RNA for them, for them to then understand the rest of our conversation surrounding microRNA?"
+	},
+	{
+		"start_time": "01:11",
+		"speaker": "David Henshall",
+		"words": "So, yeah, we can start perhaps with DNA because that's the the molecule that I think everyone is most familiar with. So DNA or deoxyribonucleic acid is the genetic material that we have in all the cells in our, in our bodies. It's essentially a program instructions for building an organism. In our case, so our DNA contains the information to build a, a human, and obviously, once that human is built to keep it functioning the way it should. So DNA is an extremely long molecule, but essentially it's um code if you like, the information is made up of one of four different chemicals we call bases. And they are given the short letters A, C, G, and T. And essentially when we talk about DNA, what we're really talking about is, is genes and genetic information. And what most people think of with genes are genes that contain the information to build proteins in cells. So proteins are really what cells use for the vast majority of their activities. An example of a protein would be hemoglobin, which of course carries oxygen in the blood, or insulin, which regulates our blood glucose levels. But actually cells use hundreds of different proteins to carry out all of their activities. Now the information to build that protein is, is contained within DNA. So a gene is really the instructions to make a, a protein. But we don't jump straight from DNA to protein. There's uh an intermediate molecule called RNA or ribonucleic acid. So information flows from, from DNA via RNA to to protein. So how this all starts is that the DNA, which is in a helix normally, uh, within the nucleus of our cells. Opens up, so it sort of unzips. And then the gene can be read, so the gene for that particular protein, let's say, say hemoglobin, can be red. So what happens is an RNA copy is made of the DNA. So RNA is very similar to DNA. It's a sort of chemical cousin. Called ribonucleic acid, or RNA for short. So this long sequence of ACGT, ACGT GGG, CCT, TTT, this is the information within the DNA that is basically red, and we generate an RNA for that gene. That RNA now moves out of the nucleus of the cell and moves into a different part of the cell to build the protein. So that RNA eventually uh gets sent to something called the ribosome, which is a sort of protein production facility. And the RNA gets threaded through this ribosome and as it does so, amino acids are joined together. One after the other and that long chain of amino acids becomes our protein. Mhm. So, the DNA is the information to build the protein. RNA is the molecule that takes that sort of information, and then that is translated into this amino acid sequence that becomes uh the, the protein."
+	},
+	{
+		"start_time": "04:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. Uh, AND so we have, uh, transcription, we have translation, but I mean, uh, that is the most, the simplest way of describing the, the, describing the process, but then we also have things like gene regulation, right? And that's I think one of the places where microRNAs play the biggest role, correct?"
+	},
+	{
+		"start_time": "05:20",
+		"speaker": "David Henshall",
+		"words": "Yeah, absolutely, so. Genes are switched on and off, OK, and, and certain types of cells require certain types of proteins. So if you give the example of hemoglobin, our red blood cells want to be packed full of hemoglobin, but red blood cells don't need to produce, for example, say, neurotransmitters or or or insulin. So cells throughout the body produce different types of protein for the for the jobs, the, the, the functions that they have. And this is where gene regulation comes in. So DNA is the, it contains instructions for making all of the genes that we need, but particular cells, particular tissues will only select, they'll kind of pick and choose which genes are going to be switched on and off. Now, to switch a gene on. We actually require something called a transcription factor, which is a particular protein or group of proteins that will bind onto a region of DNA near the gene, and it's sort of the on switch for that gene to start getting um switched on and for RNA copies to be made of that of that gene. And then we have other types of regulators. That switch genes off afterwards. So a gene may be switched on for a, for a period of time and, and then switched off. Other, other genes may be switched on sort of almost continuously. Some genes are, are, are switched on and off very, very rapidly, very dynamically."
+	},
+	{
+		"start_time": "06:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND so, uh, I mean, uh, before we get into microRNA specifically in that process that you described earlier of first transcription and then translation, we also have particular kinds of RNA molecules playing roles in transcript. And we have uh MRNA and in translation TRNA, right? I mean, I'm asking you that because I will also want to try to understand the different kinds of RNA molecules that are out there and how they relate to one another."
+	},
+	{
+		"start_time": "07:29",
+		"speaker": "David Henshall",
+		"words": "Yes, so there's actually lots of different types of RNA. The type of RNA I've described so far as, as you said, is mRNA or messenger RNA. That's the RNA that, that, that carries the information uh to the ribosome to, to build the protein. But our genome, the collection of all of the genetic information, our genome produces many other types of RNA which are functional within the cell that do other jobs. So one of the examples you just gave was something called TRNA or transfer RNA. So this is a little RNA that works within that ribosome to bring the amino acids one at a time in. As that chain is built. In fact, the ribosome itself is made up of something called RNA or ribosomal RNA, which is another huge molecule that helps form this protein production factory. What we've discovered really over the last um couple of decades, and, and this sort of brings us closer to what microRNA's are, is there's all these other types of RNA. That get transcribed, don't code for protein, but that do other important jobs with how genes switch on uh and switch off."
+	},
+	{
+		"start_time": "08:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. And so, what are microRNAs then and how do they relate to these other different kinds of RNA molecules?"
+	},
+	{
+		"start_time": "09:04",
+		"speaker": "David Henshall",
+		"words": "So microRNAs are a class or a category of short or small RNA. So these are not RNAs that that code for protein. These are part of the big sort of soup of RNAs that work to regulate gene activity. And micro microRNAs are, are produced uh a little bit like um other genes. They're, they're red from DNA. And a sequence is produced, quite a long sequence initially, a sort of a precursor molecule of the microRNA. But as that microRNA starts to move on its journey, it gets cut down to size. And so the the actual functional part of the microRNA is actually quite short. It's only around 20, about 20 to 22 nucleotides. Um, SO the nucleotides, that relates to what we said earlier about the, the, the chemical bases in, in DNA. RNA also has 4 types of chemical bases. Uh, THE A and the C and the G are all the same, but it has a, a, a slightly different 4th base instead of a T that we have in DNA, it has a U. Um, BUT, but otherwise it has this sort of same four bases. So a microRNA when it's produced, when it's functioning, is about 20 of these nucleotides long, which is, which is really quite, quite short."
+	},
+	{
+		"start_time": "10:31",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, BUT, but then, I mean, because we have these different kinds of RNA molecules, do they have any sort of relationship between them just because they are all RNA molecules of different sorts or not?"
+	},
+	{
+		"start_time": "10:48",
+		"speaker": "David Henshall",
+		"words": "So the main differentiator really is, is the sort of the length of the molecule and its specific chemistry. So a messenger RNA has some very specific uh regions within it. That um it has obviously the region which codes for the protein, but it also has a sort of a top and a tail, which contain information that tells that messenger RNA where to go and to get threaded through the ribosome and, and so forth. And all of the other types of RNA that we have, the longer RNAs, the short RNAs, the microRNAs, they also have information within that sequence that um it tells them, you know, where to be and how to work properly."
+	},
+	{
+		"start_time": "11:34",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. And how and when were microRNAs discovered?"
+	},
+	{
+		"start_time": "11:41",
+		"speaker": "David Henshall",
+		"words": "So microRNAs were discovered in 1993 in the back to back papers in the journal Cell, which is one of the top journals in the world, and it was the discovery that was made at that time that that recently just got the Nobel Prize for the, for the two senior people on those first two papers, uh, Victor Ambrose and Gary Rufkin. So, what they were doing at the time was they were interested in understanding how organisms develop. And and they used an organism called C. ELEGANS, uh, which is a very small, quite a simple worm. It only has about 1000 cells in the in the sort of adult worm. And um the work of, of themselves and others had been focused on thinking, look, if we can understand how a simple animal develops from a single cell to its adult form and understand the gene programs that switch on and off as that organism develops. Perhaps we'll learn a little bit more about more complex organisms, including humans also develop and, and that turned out to be uh to be true in, in many different ways. So at the time of the discovery of microRNAs, the two labs were trying to understand which genes were switching on and off at the time that the worm transitioned from one phase to its to another phase, sort of from its early development to its adult form. And they'd zoned in on, on two different genes, LIN 4 and Lin 14, and they were sort of playing around with, um, worms that had mutations in these genes. And they, they'd figured out that there was some. Interactions, some influence between these 22 genes, and then when they looked at this LIN 4 gene, they found that it, it didn't code for a protein. In fact, it seemed to produce only short RNAs. And so they, they looked at these RNAs and then sort of came this eureka moment where they managed to align that short RNA to a region. Of the messenger RNA for this other gene, Lin 14, and they found that it would stick onto it a little bit like sort of molecular Velcro. That there's certain pairing rules between these nucleotides. So, uh, a C and a G will always match and an A and a U will always match. So they found that this LIN 4 gene would stick on to LIN 14. And then they, they came to the realization that. This was maybe a new way that genes were being controlled. That some genes basically work by interfering with the production of the protein and, and, and the idea from their, their discovery was that this short RNA stuck onto the messenger RNA. And blocked that protein from being produced. And it turned out that this was a really key event that this LIN 14 uh protein had to be switched off in order for the adult animal to uh to, to develop. And so this, this, this was basically a, a new type of gene activity control that had been er discovered."
+	},
+	{
+		"start_time": "15:16",
+		"speaker": "Ricardo Lopes",
+		"words": "And so also for people to understand a little bit better, how we learn more about microRNAs. What are the, perhaps the main tools that we have at our disposal to learn about them?"
+	},
+	{
+		"start_time": "15:30",
+		"speaker": "David Henshall",
+		"words": "So we can um detect the presence of microRNAs uh within cells. We can um analyze RNA levels using a variety of experimental and sort of uh biochemical techniques quite, quite easily. And then we can begin to map these into the genome. So we've been able over time to identify all of the microRNAs that are present within different organisms, including humans. So you can, you can count the number of these microRNA genes and you can learn on which chromosomes they are in. And um you can also study how they're produced. So there's a specific pathway in terms of the, the sort of the reading, uh, of the, the microA gene. The production of the initial precursor molecule, the, the cutting down phases, all of these little steps have been worked out all the way through to the point where we know how the microRNA finds its target and sort of locks on with the assistance of another protein that is called argonaut. And then even after the microA has done its job. Um, WE, we've learned how the, what happens to the mic RNA afterwards, it's sort of end of life, uh, process."
+	},
+	{
+		"start_time": "16:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And uh just to perhaps take a step back, do we know how microRNA's evolved? I mean, from an evolutionary perspective, where do they come from?"
+	},
+	{
+		"start_time": "17:06",
+		"speaker": "David Henshall",
+		"words": "Yeah, this, this is a great question. So what we've learned is that microRNA's evolved uh at the very start of complex life on Earth. So we've been able to trace microRNA genes throughout all of the sort of evolutionary history of, of animals to some extremely simple, just a few sort of cells, uh, all together. And virtually every organism, every animal organism that we've studied has some collection of microRNAs. So what we think has happened is that microRNAs were really fundamental and critical to the development of complex life on Earth, simply because they were, they were present in some of the most simple forms of life. And as organisms get more complex, we see the emergence of additional microRNA genes. So they've looked, for example, at the uh animals that are have this kind of bilateral body plan, which is one of the, uh, you know, one of the simplest uh advances in, in animal complexity. And there's a big stack of microRNA genes that are present in those animals. And then if you look later as vertebrates begin to evolve, you see another group of microRNA genes that were present at that point when vertebrate animals evolved, and then further still with mammals and with placental mammals. So it seems that the presence of microRNA genes are critical to the evolution of complex life on Earth."
+	},
+	{
+		"start_time": "18:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But, but then, uh, let me just ask you then, they were already present in unicellular organisms or"
+	},
+	{
+		"start_time": "19:03",
+		"speaker": "David Henshall",
+		"words": "not? So they have been detected in unicellular organisms. But uh the numbers that seem to be present in multicellular organisms are, are much higher. We've also detected microRNAs in plants, so they're not unique to animals and in fungi. And in algae. But, and this is the interesting thing, the the microRNA systems in these other kingdoms of life are slightly different. So what it looks like is uh an example of convergent evolution where these different kingdoms, these different branches of life have all come up with the same solution. They've sort of come up with a microRNA system to work within the genome. To, to carry out critical functions. And so that, I suppose, leads to. The question, what is it that microRNAs do? What is, what are they needed for? What's wrong with our genome that it needs this, this other system? Yeah. So the answer to that is that gene activity is, is quite noisy and random. So the, the example I've been giving earlier sort of doesn't quite capture that as genes are switched on and off, there's a an element of randomness in, in how much messenger RNA gets produced. Some genes are noisier than others, but generally speaking, there's a, there's a randomness, what we would call stochastic. Um, PRODUCTION of gene activity. So microA are thought, they're not their sort of first job or the first reason that they've evolved is a stabilizing system for noisy genes. So basically, microRNA's, when they're produced, they stick onto the messenger RNA and they reduce protein levels. And this seems to be a negative feedback system that is ideally suited to noisy genes to sort of randomness within gene activity. So microRNA sort of work as this almost like a cooling system for the genome. They, they reduce the production of proteins and and that helps reduce the noise of, of gene expression. So that's sort of their, their number one job. But the other thing, and this comes back to what I said about organism complexity, it seems that microRNAs are able to create or contribute to more complex organisms. Um, WHAT we think is happening is that microRNAs can take our list of protein coding genes and produce much richer, more complex patterns of gene activity. Than would be possible without them. So they're sort of taking the, the, the thousands of protein coding genes and by acting on them, increasing and decreasing, they, they create a richness. Of gene activity within cells that that contributes to more complex organisms that that organisms can be uh more complex, produce more different types of, of cells that that uh is is is the essence of, of complex organisms. So these are those two really important jobs. So first of all, kind of creating more stability with gene activity, and secondly, creating more complex, rich genetic uh activity that that contributes to organism complexity."
+	},
+	{
+		"start_time": "22:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. And so, just for people to understand, how are microRNAs made? I mean, are they produced in the cells themselves or are they narrated in some way? How does it work?"
+	},
+	{
+		"start_time": "23:08",
+		"speaker": "David Henshall",
+		"words": "So microRNAs are, are produced from a, through a series of biochemical processes. The the first part is essentially the reading of the microRNA gene. Now some of our microRNA genes uh sort of sit on their own, uh, in the genome, and other microRNA genes are sort of slightly kind of embedded within protein coding genes. So if we take the second example, For the reading of a protein coding gene, DNA opens, it unzips, and we get the first processed transcription. We get this production of this long RNA copy of the gene. And then that begins to get cut up. So many microRNAs are actually sort of sitting in that first early form of RNA and then there's an enzyme within the the nucleus called Drosha. That cuts out and starts to shorten the original RNA to a, to a shorter form. So, that's the, the sort of first step. So there's the transcription by an enzyme called RNA polymerase. That produces a primary microRNA and then this enzyme Droser makes a little cut. And then it begins its journey. So the pre microRNA now moves out of the nucleus. Into the cytosol. So it's now heading towards the ribosome, the protein production factory. Now it encounters a second enzyme called yer. Dyser snips. The precursor again, and you end up with essentially two sort of strands of RNA about 20 nucleotides each. Mhm. One of those strands gets selected to be the sort of the final microRNA and it gets bound to this protein called argonaut. The micronA bound to Argonaut now begins to search for targets, so it's really basically looking for messenger RNAs that have a little region of complementarity to the sequence of the microRNA. And when it finds enough complementarity, it'll stick on to the messenger RNA. And this is when it really now does its job. So once a microRNA is locked onto a messenger RNA, it can either prevent the translation of the messenger RNA. So it kind of prevents the messenger RNA being fed through the ribosome. So it's a little bit like if you imagine tying a knot in your shoelace, you can't thread the shoelace now through the boot. So with our microRNA locked onto our messenger RNA, the messenger RNA can't get threaded through the ribosome. We can't build our protein. The other thing that can happen is that when the microRNA locks onto the messenger RNA, it causes the active degradation of the messenger RNA sort of enzymes are attracted to this and they start to chew up the messenger RNA. But either way, you get a reduction in in protein levels of the messenger RNA that was targeted by the microRNA."
+	},
+	{
+		"start_time": "26:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But I mean, then their activity is also always targeting MRNA molecules, right? Or do they have some other functions?"
+	},
+	{
+		"start_time": "26:35",
+		"speaker": "David Henshall",
+		"words": "Principally, it's targeting mRNA. There are, there are one or two other examples where we've discovered microRNAs doing something slightly different. There there's one or two studies that show them working in the nucleus, sort of at the point of transcription, but by and large, where microRNA's work is out in the cytoplasm at that step just before the translation of a protein, the, the building of the amino acid chain."
+	},
+	{
+		"start_time": "27:03",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So, in the book at a certain point, you talk about how microRNA's confer robustness to biological systems. What does that mean? Could you explain that?"
+	},
+	{
+		"start_time": "27:16",
+		"speaker": "David Henshall",
+		"words": "Yes, so this comes back a little bit to what I was saying around how gene activity is quite noisy. So what microRNAs are doing is this sort of negative feedback where they, they dampen down the normal natural noise of gene activity within the cell, and this seems to allow. Cells to, to perform better. Cells don't, don't do very well with sort of noisy gene activity, so this is a, a dampening system. The second thing that microRNAs do is seem to stabilize the gene programs that keep cells the way they are. So for example, you know, a brain cell wants to remain a brain cell, it doesn't want to drift into other some uh cell type. So by producing a certain set of microRNA genes all the time, Cells maintain their their correct molecular environment that allows them to do the job they're supposed to be doing. And this is what we've seen when we study microRNAs switching on and off as organisms develop. We find that there are groups of microRNAs that switch on at certain phases of development, for example, as cells are dividing. And then as cells become more and more specialized towards their sort of final features, other microRNAs switch on that then keep those gene programs stable and reduce sort of fluctuation, and this seems to be really important for that sort of robustness of of cell type and function."
+	},
+	{
+		"start_time": "29:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And why do you call these molecules nature's fine-tuning system?"
+	},
+	{
+		"start_time": "29:07",
+		"speaker": "David Henshall",
+		"words": "Yeah, so I think the, the fine tuning comes from this idea that that microRNA's are, if you like, gently adjusting gene activity. So by, by certain types of experiment, we've learned that microRNAs don't absolutely flatten the level of gene activity. They actually reduce the level of their, their target protein by about 10 to 20%. So this is a sort of a a gentle adjustment of gene activity and so this gives rise to the idea of fine tuning. But the fine tuning idea also relates to this sense that microRNAs are a little bit like conducting the molecular orchestra. This is one of the, the, the phrases that's been used in the, in the past, so. One of the features of microRNA's is there isn't just one microRNA for one target. Each individual micronA can actually stick onto dozens of targets. So a single microRNA sort of controls the levels of lots and lots of messenger RNAs. So this gives you a little bit more sense of, of kind of conducting this molecular orchestra, or, or kind of a fine tuning system."
+	},
+	{
+		"start_time": "30:31",
+		"speaker": "Ricardo Lopes",
+		"words": "And so, in the ways they regulate the correct proteins and amounts of each of them, I mean, how do they know, I mean, of course, I don't want to anthropomorphize things very much here, but how do they know where they get the information that they should regulate this or that kind of protein and the amounts?"
+	},
+	{
+		"start_time": "30:53",
+		"speaker": "David Henshall",
+		"words": "So the the particular protein they regulate is is really dictated by the sequence of the microRNA. So a microRNA will stick on to various different messenger RNAs according to to the sequence. But in terms of knowing when to be made. So a lot of microRNAs are actually made as the protein coding genes are also being transcribed. So when a protein coding gene is switched on, it's going to produce an amount of a microRNA alongside it. So you sort of have the production of the protein coding gene and then the microRNA is also being produced to regulate that same gene. Now that's not true for all microRNAs. There are some micronNAs that sit sort of as their own little island within our genome. They have their own switch on and switch off signals that regulate them, but a lot of microRNAs are being produced at the same time that we're transcribing the protein coding genes."
+	},
+	{
+		"start_time": "32:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And what happens to them after they've finished their job? I mean, what happens to the microRNA molecules?"
+	},
+	{
+		"start_time": "32:09",
+		"speaker": "David Henshall",
+		"words": "So this is actually something we don't know in all that much detail, and it seems that individual microRNA's, that sort of their end of life is very specific to the cell type that we're studying, the, the type of process, what signals have been sent at a particular time. So there is evidence that the microRNA stays within the complex with this argonnat protein, and then the argonautt protein gets destroyed within the cell, sort of gets turned over, and as that turnover process occurs, the microa gets released and then it sort of chewed up by enzymes within the cell. But there's also some evidence that there are other types of um mechanism that exists within cells that directly downgrade the microRNA after a period of time. But we, we're still really at a fairly early stage in understanding what are the rules with what happens to a microRNA after it's done its job."
+	},
+	{
+		"start_time": "33:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, going back to evolution for a minute, uh, I mean, because of their functions, because they basically participate in the regulating the amounts of different kinds of proteins, do they participate in evolution itself? I mean, do they facilitate Tailor it because uh that way perhaps cells don't have to evolve completely new protein coding genes and do they participate in that as well or not?"
+	},
+	{
+		"start_time": "33:46",
+		"speaker": "David Henshall",
+		"words": "Absolutely. And, and I think you've just made the point really clearly there that It's quite difficult to evolve completely new protein coding genes, and even a single error or change in a in a nucleotide can can have a sort of catastrophic effect on a protein. This is why we have human diseases that are caused by sort of single mutations in DNA. But microRNAs can evolve relatively easily. The the sort of requirements for a new microRNA gene are are are relatively easy to meet. So essentially you just have to have an RNA that can form this sort of special hairpin structure. And RNAs are naturally quite good at doing this. So it's true that within our genomes, the, the production of new microRNAs seems to Uh, be found around the time of key evolutionary steps. And from a biochemistry point of view, it's a lot easier to generate a new microRNA gene than a new protein coding gene. And one of the interesting facts about genetic complexity and and microRNAs is that if we look at the number of genes, protein coding genes that we have humans, it's about 20,000. This is actually the same number of protein coding genes as that simple worm, the C. ELEGANS worm that Ambrose and Ruin discovered microRNAs and got the Nobel Prize for. So clearly Organism complexity is not a simple function of the number of protein coding genes. It's the other elements within our genome that take these sort of protein coding genes and adjust how they're being used to create all of the complexity that we see in, in life forms, such as, such as humans. And microRNAs are a really key part. And so if you, if you were to sort of draw a graph of increasing organism complexity. With sort of single cell organisms at at one end and say humans at the other end, then the number of protein codeine genes wouldn't. Be very proportional to complexity and, and, you know, as I said, the C elegans has about the same number of protein codeine genes as we do. But if you were to plot microRNA abundance, you see a much more linear relationship. So as organisms are getting more complex, You see more microRNA genes. So microRNAs are, are thought to, to, to produce greater complexity than would be possible simply through protein coding genes."
+	},
+	{
+		"start_time": "36:33",
+		"speaker": "Ricardo Lopes",
+		"words": "It's very interesting that you establish that parallel between us humans and C elegant in terms of the total number of protein coding genes. So does that mean that microRNAs also play a role in speciation because of with them, we don't really need different and or more protein protein gene code uh gene coding, uh sorry, protein coding genes, but Uh, the same, or the sim similar genes can be expressed differently in different species."
+	},
+	{
+		"start_time": "37:06",
+		"speaker": "David Henshall",
+		"words": "Yes, so what, what we do have evidence for is that um new microRNAs are contributing to, to speciation, and this, this is quite difficult, as you can imagine, to prove in, in some species like humans, but if you use uh simpler organisms then it's possible and one of the. Uh, ORGANISMS that's been studied is a, a, a certain type of fish, a cilid fish, and they are a great model for studying speciation, and they found that there are microRNA genes that are almost certainly responsible for contributing to, to the, the, the separation, the, the development of, of new species, but we don't have so much evidence for that, uh, in humans. What we do see in humans is the presence of microRNA genes that are not in any other. Organism. So there are some human specific microRNAs. There are also some great apes specific micronAs and then there are some primates specific microRNAs. And while we haven't yet figured out what these microRNAs that are unique to humans are doing, what we do know is most of them are present and made in the brain. And so this is very interesting to think about that, that microRNAs may have contributed to some of our unique to human uh uh intellectual brain functions."
+	},
+	{
+		"start_time": "38:36",
+		"speaker": "Ricardo Lopes",
+		"words": "So, yeah, we're going to get a little bit more into that in a second, but what role do they play specifically in human development?"
+	},
+	{
+		"start_time": "38:47",
+		"speaker": "David Henshall",
+		"words": "So microRNAs begin working from the moment of fertilization. In fact, there's studies showing that some microRNAs are actually carried within the cell, within the egg, and within the sperm cell that are basically getting to work at the first moment of fertilization. And as the fertilized egg is beginning to divide and divide, you see certain types of microns switching on. And then switching off again later. So we've, we've sort of mapped out sets of microRNAs that are critical to the very earliest stages of human embryo development and the development of other mammals and other organisms. So microns get to work really early, switching on and off and and controlling the early gene programs that are critical for organism development."
+	},
+	{
+		"start_time": "39:44",
+		"speaker": "Ricardo Lopes",
+		"words": "And so, uh, I mean, I hope I didn't understand this wrong, but do they also contribute or play a role in cell differentiation and I mean, the production of the different kinds of cells that we can find in our bodies and the bodies of other animals and organisms?"
+	},
+	{
+		"start_time": "40:02",
+		"speaker": "David Henshall",
+		"words": "Yeah, absolutely. So every phase of organism development involves actions of microRNAs. So we have identified microRNAs that are important for cell division, for controlling the the processes during cell division, but also the differentiation and migration of those cells. So as, as we are dividing and growing, cells begin to move into different places, they begin to develop more specialized features. And at each stage, microRNAs are switching on and off and controlling the the gene programs that, that, you know, drive cells towards certain type of uh function and, and, and also their place within the organism is all controlled by microRNA."
+	},
+	{
+		"start_time": "40:52",
+		"speaker": "Ricardo Lopes",
+		"words": "That's very interesting. So they, because we have different kinds of microRNAs that might be active in different steps of cell differentiation, they partic, they have a big role in the coordination of gene expression,"
+	},
+	{
+		"start_time": "41:08",
+		"speaker": "David Henshall",
+		"words": "correct? Yeah, absolutely, and, and they're working in, in different ways, so there isn't a single way, but, uh, for example, some microRNAs are switched on to help shut down genes that are no longer needed beyond a certain stage of development. Whereas other microRNAs are producing more sort of subtle effects on on gene activity, increasing or decreasing levels of particular transcription factors and other genes that are critical as cells begin to go down uh particular lines of differentiation into specialized cell types."
+	},
+	{
+		"start_time": "41:47",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, COULD you give us perhaps a, a couple of examples of microRNAs that we know are unique to humans and perhaps uh the roles they play?"
+	},
+	{
+		"start_time": "41:58",
+		"speaker": "David Henshall",
+		"words": "So at the moment, the functions that we've been able to determine for microns are quite limited, but they're mainly around functions within the brain. What we've learned about unique to human microRNA's is that they're at the moment expressed at quite low levels. Now, this is important because. MicroRNAs that are expressed only weekly within cells, sort of at low levels, probably don't have a very strong effect on gene activity. And what you tend to see is that these new, if you like, unique to human microAs are still expressed at quite a low level within the cell. We think over time, over evolutionary time, the expression of some of these will increase and become more and more important for that organism. So it's still quite early days to to know for certain what these unique to human microns are are doing, but it seems to be. Uh, IN terms of the brain, it seems to be to affect the number of cells that we have within the brain and the complexity of the brain cells themselves. So what we've learned from neuroscience over the last few years is that a number of cell types within the brain are, are more complex, more elaborate than we see in lower organisms. And it's possible that some of these unique to human microAs are, are contributing to those very elaborate brain cells that are, are particularly important for some of the functions that are unique to humans."
+	},
+	{
+		"start_time": "43:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And uh are there specific aspects of, let's say, brain physiology and brain brain cell structure that we already know microRNAs participate in?"
+	},
+	{
+		"start_time": "44:00",
+		"speaker": "David Henshall",
+		"words": "Yeah, there are actually dozens of examples where we've learned in really great detail what the microRNA is is doing, what its target is, and by targeting a particular protein coding gene, how that's affecting the structure of brain cells. So one of the best understood functions of microna within the brain is is controlling the contact points between one brain cell and another. So if you imagine a cell within the brain. It receives information from other brain cells. It talks to other brain cells at these little points we call synapses. And the synapse is a little structure where the input from one cell, the axon comes into very close proximity to the surface of the next neuron. And on that surface there's a little protuberance we call a dendritic spine. And this is really where the input signal is coming from one brain cell to another. And microRNAs are busy inside that little structure, that dendrite. Producing the right shape and even adapting that shape according to the signals that are received. So microRNAs, for example, contribute to kind of building up the the spine, the dendrite, to make it bigger. That's thought to be important for plasticity within the brain, how we learn, how we remember. But there are also microns that contribute to these spines shrinking in size. And sometimes we want to remove things. We want to get rid of contact points between brain cells. And so there's a group of microRNAs that act on the structural elements, so proteins that actually produce these little shapes, but also the enzymes that work within them. So within one of these dendritic spines, you would have receptors on the surface for neurotransmitter. And the amount of those receptors on the surface would be controlled by the microRNAs within. And they've even learned that as one signal from one nerve cell to another passes through that structure, it stimulates the local production of microRNAs that then regulate the levels of the proteins within that structure. So microRNAs are absolutely critical for, first of all, Producing the structure of brain cells, but also making them plastic, allowing synapses to change, to adjust to incoming information."
+	},
+	{
+		"start_time": "46:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, yeah, so they play an active, a very active role in cell communication, particularly in the brain, correct."
+	},
+	{
+		"start_time": "46:52",
+		"speaker": "David Henshall",
+		"words": "Yeah, I, there are very few processes, in fact, that haven't been. Linked in some way to to microRNAs. So as I was saying um with that example earlier, the, the, the input from one cell to another, the end of that is called the axon terminal. So that also has some very specialized uh receptors and proteins, and those are also. Regulated by microRNAs. So almost all of the structures and functions of neurons are regulated to some degree by microRNAs, and the estimate is that more than half of all of the genes within our genome are regulated to some degree by microRNA, and there's there probably really isn't a process. Within the cell that isn't in some way impacted by microRNA."
+	},
+	{
+		"start_time": "47:43",
+		"speaker": "Ricardo Lopes",
+		"words": "But you mentioned the receptors, uh, what about the neurotransmitters? I mean, do we know if microRNAs participate in any way in the production and release of neurotransmitters into the synapse or?"
+	},
+	{
+		"start_time": "47:59",
+		"speaker": "David Henshall",
+		"words": "So what we know is that the machinery that sort of loads up the neurotransmitter and has it ready to be released, the machinery for that process is also regulated by microRNAs. So the neurotransmitter molecule. It itself is a is a small, uh, is a small chemical, it's not a protein, so it's not directly regulated by micron, but the, the machinery that gets that neurotransmitter ready for release, all of those stages can be modulated and adjusted by microRNA."
+	},
+	{
+		"start_time": "48:32",
+		"speaker": "Ricardo Lopes",
+		"words": "So perhaps talking now a little bit about some higher level processes we read in the domain of psychology here. Do, do, do we know if they play role, specific roles in human cognition and, and intelligence?"
+	},
+	{
+		"start_time": "48:50",
+		"speaker": "David Henshall",
+		"words": "Yes, so we've learned that there are a number of microRNAs that are important for the the structure of the brain, and as mentioned already, there are human specific microRNAs. So we're at the point where we're trying to learn what particular micronAs do in terms of influence particular functions of the brain. And one of the ways that we can learn what they do is to to study a model organism, for example, a mouse. Where you can adjust the gene more easily than you could have, you know, you could do in a in a human model. And by studying microRNAs in these organisms, we've been able to learn what that microRNA does in terms of, of shaping brain function and, and shaping cognition. And so we've identified micronAs that are important for learning and memory. So perhaps an experiment. Interferes or removes the microRNA gene and you then find that uh the mouse can't learn properly to navigate through a maze. And we can integrate that understanding from how model organisms work to humans by looking for human diseases in which we might find microRNA variation or mutation. And there have been a number of human brain diseases in which levels of particular microRNAs are found to be altered or there are perhaps a mutation in the gene for a particular microRNA and then By understanding and studying that more, you can, you can learn a little bit about what that micron a gene is normally doing based on what it's not doing in the disease setting."
+	},
+	{
+		"start_time": "50:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, COULD you give us an example of one of those brain diseases that we already know we have some association with microRNA malfunction?"
+	},
+	{
+		"start_time": "50:45",
+		"speaker": "David Henshall",
+		"words": "Yeah, so, so far, most brain diseases that have been studied have have been found to have some kind of a microRNA link. Now that might be that the activity of microRNA genes is a little bit higher or a little bit lower, or it might be a sort of genetic variation in a microRNA gene that, that, that may be responsible for that brain condition. And so there are examples, for example, motor neuron disease. This is also known as ALS. So in motor neuron disease, people have identified a microA that's particularly abundant in our motor neurons. They're the neurons that, that produce contraction of our skeletal muscle. And in those patients, they found that there were lower levels of this microRNA than normal, and that that seems to disturb gene activity in motor neurons, and that if you can kind of rescue that by putting the microRNA gene back in, then you can recover some of those functions, and this is obviously experimental work, but, but has the potential to go into humans in in the future. My area of most influence is around the brain disease epilepsy, and we've identified a number of microRNAs that are either at higher levels or lower levels than normal within the brain tissue that is triggering seizures, which are the defining characteristic of of epilepsy."
+	},
+	{
+		"start_time": "52:14",
+		"speaker": "Ricardo Lopes",
+		"words": "And so at this point in time, is it already possible to use microRNAs for diagnosis?"
+	},
+	{
+		"start_time": "52:23",
+		"speaker": "David Henshall",
+		"words": "So at the moment, there are 1 or 2 diagnostic tests out there, really in the cancer field, which are based on measuring levels of microRNAs, for example, in the, in the blood. So it turns out that you can actually pick up, you can detect levels of dozens of different microRNAs within the blood. It's they're sort of normally circulating around and One of the features of microna is that in the adult organisms, some of them are expressed uniquely in different parts of the body. So there are a set of microna that are only ever made in the brain, microna that maybe only ever made in the liver. So if you can detect those microRNAs sort of circulating around in the blood, then it might be an indication that that organ or that system is, is malfunctioning. So at the moment, most of the tests that have begun to be used in, in the clinic are tests for microna that have been linked to cancer. It's possible in the future, and this is one of the areas we're working on and and many others, that some of the brain diseases that have a microRNA link may also have a sort of a blood signature. Of the disease based on, on particular levels of microRNAs within the blood. We, we're still working on that and it's not all the way there yet, but that we're optimistic that that there will be a signal from brain diseases that can be picked up within the blood, um based on the combination of micronA levels that are there."
+	},
+	{
+		"start_time": "53:58",
+		"speaker": "Ricardo Lopes",
+		"words": "And are there already any therapeutic applications for microRNAs? I mean, is it already possible to use them to treat diseases?"
+	},
+	{
+		"start_time": "54:08",
+		"speaker": "David Henshall",
+		"words": "Yeah, so interestingly enough, the search to develop a microRNA medicine began within just a few years of discovering microRNA genes in humans. So microRNA genes were first found in humans in the, in the year 2000. And then in 2005, uh, a team discovered that there was a, a virus, the virus for hepatitis C. Sort of hijacks one of the microRNAs that we normally make at high levels in our liver. So there's this micronic called microna 122. The microns are all numbered rather than given a name like a traditional protein coding gene. So microny 122 is uniquely made in the liver and the hepatitis C virus. Replicates and infects liver cells by using. The, the microRNA within the liver. So shortly after that discovery was made, somebody thought, oh, hang on a sec, if we can block that liver microRNA maybe we can stop the virus from replicating. So, this triggered um a program of research in a couple of different companies to try to develop a medicine that would block this microRNA to treat hepatitis C. And one of those medicines got all the way through to human clinical trials, was shown to be safe and effective. In fact, if you, if you injected this microRNA inhibitor, you could see levels of the hepatitis C virus dropping in these patients. So microRNAs. Have already, if you like, reached human clinical trials as, as medicines. However, we don't yet have a medicine that is on the market for microRNA's. There are a number of companies around the world, biotechs and pharma companies that are designing either a microRNA inhibitor or a way to produce more of a particular microRNA to treat different diseases. In fact, there was a recent acquisition. Uh, FOR a heart-based treatment that was targeting a particular microRNA. So it's an area of very active research, but yeah, there is not yet a human micro medicine in, in regular use, but I'm optimistic that uh, that there will be in the, in the very near future."
+	},
+	{
+		"start_time": "56:32",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let me just ask you one final more general question. So, with microRNA's, uh, and together with perhaps some other forms of gene regulation that we've talked a little bit about at the beginning of our conversation and things related to epigenetics, for example, doesn't it complexify the picture of genetics in the, in the way that, OK, it's not just That we have particular protein coding genes that produce particular kinds of proteins. And so whatever genes we have are directly associated with particular kinds of phenotypes, but because we have molecules like microRNAs that participate in regulating particular uh the levels of particular kinds of proteins and they participate in things like, as we talked, as we talked about speciation. And, and, uh, development and stuff like that. I mean, the, the picture is much more complex than simply having uh the, the sequence of DNA that produces those specific kinds of proteins and that lead to a particular phenotype."
+	},
+	{
+		"start_time": "57:42",
+		"speaker": "David Henshall",
+		"words": "Right. Yeah, absolutely. I think over the last few decades, there's been a complete rethinking of how genomes are really working. That for, for, for a long period of time, the focus was exclusively on protein coding genes, and now we know that. The vast majority of the, the genome is, is active in a way. So. If you actually just look at the sequences that code for protein, it's only around 2 to 3% of the, all of the DNA that we have, you know, so only 2 to 3% of our genome is really dedicated to producing proteins. But 70, 80% of the remainder of the genome is actively transcribing RNAs and these RNAs are influencing how genes are switched on and off, how they're red, how active they are, and microRNAs are a really important component of that one. A world of RNA, which is how our genomes really work, and in particular, how complex genomes, such as the human genome work. They're basically covered in these other types of genes that produce RNA. And that RNA doesn't cope with protein, it remains as RNA. It functions structurally, it functions as enzymes, regulating, fine tuning the activity of genes and, and giving rise to the, to the wondrous sort of complexity of, of organisms such as ourselves."
+	},
+	{
+		"start_time": "59:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So the book is again fine-tuning life, a guide to microRNAs, your genomes, master regulators. I'm leaving a link to it in the description of the interview, and Dr. Henschel, apart from the book, where can people find your work on the internet?"
+	},
+	{
+		"start_time": "59:33",
+		"speaker": "David Henshall",
+		"words": "So the easiest way to search for research by my lab would be to use PubMed, which is the, the, the main way that uh most of the people in, in our field would search for new publications. So if you look up PubMed, um, and then you just, you would type in my name or my name plus microRNA, then you'll see some of the research that we've published. And equally, if you're interested in other aspects of microRNA research, you know, maybe microRNAs and and evolution, you can also find. That uh through PubMed. Also, the book itself contains a long list of references to all of the key points that we've discussed today, as well as some of the aspects of microRNAs that that um that that weren't covered. So there's a rich source of references and reading material within the book."
+	},
+	{
+		"start_time": "1:00:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So, look, Doctor Henschel, I really love the book. I can't recommend it enough to my audience, so I hope that everyone after they've watched or listened to this interview, runs and buys the book. So thank you so much for the interview. It's been very fascinating."
+	},
+	{
+		"start_time": "1:00:37",
+		"speaker": "David Henshall",
+		"words": "Thanks very much for having me on. Thank you."
+	},
+	{
+		"start_time": "1:00:40",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Perergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyches Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Mari Robert Windegaruyasi Zup Mark Nes called in Holbrookfield governor Michael Stormir, Samuel Andre Francis Forti Agnsergoro and Hal Herzognun Macha Joan Labray and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearauurumen Roach Diego London Correa. Yannick Punter Darusmani Charlotte blinikol Barbara Adamhn Pavlostaevsky nale back medicine, Gary Galman Sam of Zaledrianeioltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fre Franca Bortolotti Gabrielon Scorteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Wozin, David Williams, Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grassyigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aart, Liam Dunaway, BR Masud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffini, Tom Venneden, Bernard Curtis Dixon, Benick Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers, Matthew Levender, Sai Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]

@@ -1,0 +1,4050 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:02.940
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:02.940 --> 00:00:05.719
+Dissenter. I'm your host, as always, Ricardo Lobs sent
+
+3
+00:00:05.719 --> 00:00:08.899
+to the MEN by Doctor David Henschel. He's professor
+
+4
+00:00:08.899 --> 00:00:12.020
+of molecular physiology and neuroscience in the Department of
+
+5
+00:00:12.020 --> 00:00:15.140
+Physiology and Medical Physics at the Royal College of
+
+6
+00:00:15.140 --> 00:00:18.180
+Surgeons in Ireland. And we're, and today we're going
+
+7
+00:00:18.180 --> 00:00:21.700
+to talk about his book, FineTuning Life, A Guide
+
+8
+00:00:21.700 --> 00:00:27.170
+to MicroRNAs, your genomes master regulators. So, Doctor Henschel,
+
+9
+00:00:27.299 --> 00:00:29.299
+welcome to the show. It's a big pleasure to
+
+10
+00:00:29.299 --> 00:00:29.440
+everyone.
+
+11
+00:00:30.000 --> 00:00:31.959
+Thank you very much for having me. I'm delighted
+
+12
+00:00:31.959 --> 00:00:32.590
+to be here.
+
+13
+00:00:33.659 --> 00:00:36.580
+Well, I guess that this, uh, interview is very
+
+14
+00:00:36.580 --> 00:00:40.189
+timely just because very recently, someone won the Nobel
+
+15
+00:00:40.189 --> 00:00:44.459
+Prize in physiology or medicine due to the discoveries
+
+16
+00:00:44.459 --> 00:00:48.650
+surrounding microRNA. So, uh, but before we get into
+
+17
+00:00:48.650 --> 00:00:54.590
+microRNA specifically, just to Perhaps familiarize the audience with
+
+18
+00:00:54.590 --> 00:00:58.029
+some of the basics here. What would you say
+
+19
+00:00:58.029 --> 00:01:01.220
+are the most important things for people to understand
+
+20
+00:01:01.220 --> 00:01:05.230
+about DNA and RNA for them, for them to
+
+21
+00:01:05.230 --> 00:01:10.339
+then understand the rest of our conversation surrounding microRNA?
+
+22
+00:01:11.629 --> 00:01:15.510
+So, yeah, we can start perhaps with DNA because
+
+23
+00:01:15.510 --> 00:01:18.739
+that's the the molecule that I think everyone is
+
+24
+00:01:18.739 --> 00:01:23.430
+most familiar with. So DNA or deoxyribonucleic acid is
+
+25
+00:01:23.430 --> 00:01:26.709
+the genetic material that we have in all the
+
+26
+00:01:26.709 --> 00:01:30.099
+cells in our, in our bodies. It's essentially a
+
+27
+00:01:30.949 --> 00:01:35.110
+program instructions for building an organism. In our case,
+
+28
+00:01:35.230 --> 00:01:38.550
+so our DNA contains the information to build a,
+
+29
+00:01:38.629 --> 00:01:41.300
+a human, and obviously, once that human is built
+
+30
+00:01:41.980 --> 00:01:44.970
+to keep it functioning the way it should. So
+
+31
+00:01:44.970 --> 00:01:49.809
+DNA is an extremely long molecule, but essentially it's
+
+32
+00:01:49.809 --> 00:01:53.319
+um code if you like, the information is made
+
+33
+00:01:53.319 --> 00:01:57.129
+up of one of four different chemicals we call
+
+34
+00:01:57.129 --> 00:02:01.860
+bases. And they are given the short letters A,
+
+35
+00:02:02.050 --> 00:02:07.000
+C, G, and T. And essentially when we talk
+
+36
+00:02:07.000 --> 00:02:09.559
+about DNA, what we're really talking about is, is
+
+37
+00:02:09.559 --> 00:02:13.889
+genes and genetic information. And what most people think
+
+38
+00:02:13.889 --> 00:02:18.729
+of with genes are genes that contain the information
+
+39
+00:02:18.729 --> 00:02:23.899
+to build proteins in cells. So proteins are really
+
+40
+00:02:23.899 --> 00:02:27.559
+what cells use for the vast majority of their
+
+41
+00:02:27.559 --> 00:02:30.809
+activities. An example of a protein would be hemoglobin,
+
+42
+00:02:30.979 --> 00:02:33.289
+which of course carries oxygen in the blood, or
+
+43
+00:02:33.289 --> 00:02:37.699
+insulin, which regulates our blood glucose levels. But actually
+
+44
+00:02:37.699 --> 00:02:41.619
+cells use hundreds of different proteins to carry out
+
+45
+00:02:41.619 --> 00:02:45.940
+all of their activities. Now the information to build
+
+46
+00:02:45.940 --> 00:02:50.020
+that protein is, is contained within DNA. So a
+
+47
+00:02:50.020 --> 00:02:53.660
+gene is really the instructions to make a, a
+
+48
+00:02:53.660 --> 00:02:57.720
+protein. But we don't jump straight from DNA to
+
+49
+00:02:57.720 --> 00:03:03.679
+protein. There's uh an intermediate molecule called RNA or
+
+50
+00:03:03.679 --> 00:03:09.669
+ribonucleic acid. So information flows from, from DNA via
+
+51
+00:03:09.960 --> 00:03:13.979
+RNA to to protein. So how this all starts
+
+52
+00:03:14.309 --> 00:03:17.360
+is that the DNA, which is in a helix
+
+53
+00:03:17.360 --> 00:03:22.250
+normally, uh, within the nucleus of our cells. Opens
+
+54
+00:03:22.250 --> 00:03:26.039
+up, so it sort of unzips. And then the
+
+55
+00:03:26.039 --> 00:03:29.009
+gene can be read, so the gene for that
+
+56
+00:03:29.009 --> 00:03:32.770
+particular protein, let's say, say hemoglobin, can be red.
+
+57
+00:03:33.210 --> 00:03:37.449
+So what happens is an RNA copy is made
+
+58
+00:03:37.449 --> 00:03:40.570
+of the DNA. So RNA is very similar to
+
+59
+00:03:40.570 --> 00:03:44.649
+DNA. It's a sort of chemical cousin. Called ribonucleic
+
+60
+00:03:44.649 --> 00:03:49.960
+acid, or RNA for short. So this long sequence
+
+61
+00:03:49.960 --> 00:03:56.279
+of ACGT, ACGT GGG, CCT, TTT, this is the
+
+62
+00:03:56.279 --> 00:04:01.820
+information within the DNA that is basically red, and
+
+63
+00:04:01.820 --> 00:04:07.080
+we generate an RNA for that gene. That RNA
+
+64
+00:04:07.080 --> 00:04:10.160
+now moves out of the nucleus of the cell
+
+65
+00:04:10.160 --> 00:04:12.630
+and moves into a different part of the cell
+
+66
+00:04:13.000 --> 00:04:17.480
+to build the protein. So that RNA eventually uh
+
+67
+00:04:17.480 --> 00:04:20.720
+gets sent to something called the ribosome, which is
+
+68
+00:04:20.720 --> 00:04:24.660
+a sort of protein production facility. And the RNA
+
+69
+00:04:24.660 --> 00:04:28.220
+gets threaded through this ribosome and as it does
+
+70
+00:04:28.220 --> 00:04:33.170
+so, amino acids are joined together. One after the
+
+71
+00:04:33.170 --> 00:04:36.890
+other and that long chain of amino acids becomes
+
+72
+00:04:36.890 --> 00:04:41.700
+our protein. Mhm. So, the DNA is the information
+
+73
+00:04:41.700 --> 00:04:44.619
+to build the protein. RNA is the molecule that
+
+74
+00:04:44.619 --> 00:04:48.140
+takes that sort of information, and then that is
+
+75
+00:04:48.140 --> 00:04:52.630
+translated into this amino acid sequence that becomes uh
+
+76
+00:04:52.630 --> 00:04:53.739
+the, the protein.
+
+77
+00:04:54.739 --> 00:05:00.640
+Right. Uh, AND so we have, uh, transcription, we
+
+78
+00:05:00.640 --> 00:05:04.000
+have translation, but I mean, uh, that is the
+
+79
+00:05:04.000 --> 00:05:07.880
+most, the simplest way of describing the, the, describing
+
+80
+00:05:07.880 --> 00:05:11.399
+the process, but then we also have things like
+
+81
+00:05:11.399 --> 00:05:15.040
+gene regulation, right? And that's I think one of
+
+82
+00:05:15.040 --> 00:05:19.950
+the places where microRNAs play the biggest role, correct?
+
+83
+00:05:20.600 --> 00:05:26.160
+Yeah, absolutely, so. Genes are switched on and off,
+
+84
+00:05:26.369 --> 00:05:29.929
+OK, and, and certain types of cells require certain
+
+85
+00:05:29.929 --> 00:05:32.519
+types of proteins. So if you give the example
+
+86
+00:05:32.519 --> 00:05:34.970
+of hemoglobin, our red blood cells want to be
+
+87
+00:05:34.970 --> 00:05:38.130
+packed full of hemoglobin, but red blood cells don't
+
+88
+00:05:38.130 --> 00:05:41.109
+need to produce, for example, say, neurotransmitters or or
+
+89
+00:05:41.119 --> 00:05:46.700
+or insulin. So cells throughout the body produce different
+
+90
+00:05:46.700 --> 00:05:49.579
+types of protein for the for the jobs, the,
+
+91
+00:05:49.649 --> 00:05:52.260
+the, the functions that they have. And this is
+
+92
+00:05:52.260 --> 00:05:55.739
+where gene regulation comes in. So DNA is the,
+
+93
+00:05:55.859 --> 00:05:58.730
+it contains instructions for making all of the genes
+
+94
+00:05:58.980 --> 00:06:02.420
+that we need, but particular cells, particular tissues will
+
+95
+00:06:02.420 --> 00:06:06.179
+only select, they'll kind of pick and choose which
+
+96
+00:06:06.179 --> 00:06:08.209
+genes are going to be switched on and off.
+
+97
+00:06:09.019 --> 00:06:12.790
+Now, to switch a gene on. We actually require
+
+98
+00:06:12.790 --> 00:06:16.589
+something called a transcription factor, which is a particular
+
+99
+00:06:16.589 --> 00:06:20.059
+protein or group of proteins that will bind onto
+
+100
+00:06:20.059 --> 00:06:23.989
+a region of DNA near the gene, and it's
+
+101
+00:06:23.989 --> 00:06:27.230
+sort of the on switch for that gene to
+
+102
+00:06:27.230 --> 00:06:31.660
+start getting um switched on and for RNA copies
+
+103
+00:06:32.109 --> 00:06:35.589
+to be made of that of that gene. And
+
+104
+00:06:35.589 --> 00:06:40.739
+then we have other types of regulators. That switch
+
+105
+00:06:40.739 --> 00:06:43.779
+genes off afterwards. So a gene may be switched
+
+106
+00:06:43.779 --> 00:06:46.049
+on for a, for a period of time and,
+
+107
+00:06:46.059 --> 00:06:49.019
+and then switched off. Other, other genes may be
+
+108
+00:06:49.019 --> 00:06:52.160
+switched on sort of almost continuously. Some genes are,
+
+109
+00:06:52.179 --> 00:06:54.380
+are, are switched on and off very, very rapidly,
+
+110
+00:06:54.470 --> 00:06:55.299
+very dynamically.
+
+111
+00:06:57.279 --> 00:06:59.600
+Uh, AND so, uh, I mean, uh, before we
+
+112
+00:06:59.600 --> 00:07:03.630
+get into microRNA specifically in that process that you
+
+113
+00:07:03.630 --> 00:07:07.559
+described earlier of first transcription and then translation, we
+
+114
+00:07:07.559 --> 00:07:11.959
+also have particular kinds of RNA molecules playing roles
+
+115
+00:07:11.959 --> 00:07:15.309
+in transcript. And we have uh MRNA and in
+
+116
+00:07:15.309 --> 00:07:18.869
+translation TRNA, right? I mean, I'm asking you that
+
+117
+00:07:18.869 --> 00:07:21.859
+because I will also want to try to understand
+
+118
+00:07:21.859 --> 00:07:25.350
+the different kinds of RNA molecules that are out
+
+119
+00:07:25.350 --> 00:07:28.140
+there and how they relate to one another.
+
+120
+00:07:29.609 --> 00:07:33.380
+Yes, so there's actually lots of different types of
+
+121
+00:07:33.380 --> 00:07:36.130
+RNA. The type of RNA I've described so far
+
+122
+00:07:36.130 --> 00:07:39.250
+as, as you said, is mRNA or messenger RNA.
+
+123
+00:07:39.420 --> 00:07:43.089
+That's the RNA that, that, that carries the information
+
+124
+00:07:43.359 --> 00:07:45.859
+uh to the ribosome to, to build the protein.
+
+125
+00:07:47.029 --> 00:07:50.709
+But our genome, the collection of all of the
+
+126
+00:07:50.709 --> 00:07:55.470
+genetic information, our genome produces many other types of
+
+127
+00:07:55.470 --> 00:07:59.350
+RNA which are functional within the cell that do
+
+128
+00:07:59.350 --> 00:08:02.670
+other jobs. So one of the examples you just
+
+129
+00:08:02.670 --> 00:08:06.709
+gave was something called TRNA or transfer RNA. So
+
+130
+00:08:06.709 --> 00:08:10.019
+this is a little RNA that works within that
+
+131
+00:08:10.019 --> 00:08:14.290
+ribosome to bring the amino acids one at a
+
+132
+00:08:14.290 --> 00:08:17.940
+time in. As that chain is built. In fact,
+
+133
+00:08:17.950 --> 00:08:21.149
+the ribosome itself is made up of something called
+
+134
+00:08:21.149 --> 00:08:25.910
+RNA or ribosomal RNA, which is another huge molecule
+
+135
+00:08:25.910 --> 00:08:31.589
+that helps form this protein production factory. What we've
+
+136
+00:08:31.589 --> 00:08:35.349
+discovered really over the last um couple of decades,
+
+137
+00:08:35.429 --> 00:08:37.989
+and, and this sort of brings us closer to
+
+138
+00:08:37.989 --> 00:08:40.989
+what microRNA's are, is there's all these other types
+
+139
+00:08:40.989 --> 00:08:45.549
+of RNA. That get transcribed, don't code for protein,
+
+140
+00:08:45.669 --> 00:08:49.349
+but that do other important jobs with how genes
+
+141
+00:08:49.349 --> 00:08:51.380
+switch on uh and switch off.
+
+142
+00:08:52.419 --> 00:08:57.929
+Right. And so, what are microRNAs then and how
+
+143
+00:08:57.929 --> 00:09:01.289
+do they relate to these other different kinds of
+
+144
+00:09:01.289 --> 00:09:03.090
+RNA molecules?
+
+145
+00:09:04.049 --> 00:09:09.059
+So microRNAs are a class or a category of
+
+146
+00:09:09.510 --> 00:09:14.780
+short or small RNA. So these are not RNAs
+
+147
+00:09:14.780 --> 00:09:17.780
+that that code for protein. These are part of
+
+148
+00:09:17.780 --> 00:09:21.700
+the big sort of soup of RNAs that work
+
+149
+00:09:21.700 --> 00:09:27.679
+to regulate gene activity. And micro microRNAs are, are
+
+150
+00:09:27.679 --> 00:09:30.479
+produced uh a little bit like um other genes.
+
+151
+00:09:30.520 --> 00:09:34.609
+They're, they're red from DNA. And a sequence is
+
+152
+00:09:34.609 --> 00:09:37.690
+produced, quite a long sequence initially, a sort of
+
+153
+00:09:37.690 --> 00:09:41.520
+a precursor molecule of the microRNA. But as that
+
+154
+00:09:41.520 --> 00:09:44.409
+microRNA starts to move on its journey, it gets
+
+155
+00:09:44.409 --> 00:09:47.770
+cut down to size. And so the the actual
+
+156
+00:09:47.770 --> 00:09:51.559
+functional part of the microRNA is actually quite short.
+
+157
+00:09:51.650 --> 00:09:56.450
+It's only around 20, about 20 to 22 nucleotides.
+
+158
+00:09:57.250 --> 00:09:59.609
+Um, SO the nucleotides, that relates to what we
+
+159
+00:09:59.609 --> 00:10:02.469
+said earlier about the, the, the chemical bases in,
+
+160
+00:10:02.489 --> 00:10:07.409
+in DNA. RNA also has 4 types of chemical
+
+161
+00:10:07.409 --> 00:10:10.210
+bases. Uh, THE A and the C and the
+
+162
+00:10:10.210 --> 00:10:12.270
+G are all the same, but it has a,
+
+163
+00:10:12.330 --> 00:10:15.130
+a, a slightly different 4th base instead of a
+
+164
+00:10:15.130 --> 00:10:17.210
+T that we have in DNA, it has a
+
+165
+00:10:17.210 --> 00:10:19.820
+U. Um, BUT, but otherwise it has this sort
+
+166
+00:10:19.820 --> 00:10:23.940
+of same four bases. So a microRNA when it's
+
+167
+00:10:23.940 --> 00:10:27.500
+produced, when it's functioning, is about 20 of these
+
+168
+00:10:27.500 --> 00:10:30.460
+nucleotides long, which is, which is really quite, quite
+
+169
+00:10:30.460 --> 00:10:30.950
+short.
+
+170
+00:10:31.340 --> 00:10:35.500
+Mhm. Uh, BUT, but then, I mean, because we
+
+171
+00:10:35.500 --> 00:10:40.020
+have these different kinds of RNA molecules, do they
+
+172
+00:10:40.020 --> 00:10:43.419
+have any sort of relationship between them just because
+
+173
+00:10:43.419 --> 00:10:47.309
+they are all RNA molecules of different sorts or
+
+174
+00:10:47.309 --> 00:10:47.690
+not?
+
+175
+00:10:48.450 --> 00:10:52.219
+So the main differentiator really is, is the sort
+
+176
+00:10:52.219 --> 00:10:54.929
+of the length of the molecule and its specific
+
+177
+00:10:54.929 --> 00:11:00.250
+chemistry. So a messenger RNA has some very specific
+
+178
+00:11:00.739 --> 00:11:04.890
+uh regions within it. That um it has obviously
+
+179
+00:11:04.890 --> 00:11:07.650
+the region which codes for the protein, but it
+
+180
+00:11:07.650 --> 00:11:09.169
+also has a sort of a top and a
+
+181
+00:11:09.169 --> 00:11:13.580
+tail, which contain information that tells that messenger RNA
+
+182
+00:11:13.580 --> 00:11:16.650
+where to go and to get threaded through the
+
+183
+00:11:16.650 --> 00:11:20.450
+ribosome and, and so forth. And all of the
+
+184
+00:11:20.450 --> 00:11:23.890
+other types of RNA that we have, the longer
+
+185
+00:11:23.890 --> 00:11:28.000
+RNAs, the short RNAs, the microRNAs, they also have
+
+186
+00:11:28.010 --> 00:11:31.640
+information within that sequence that um it tells them,
+
+187
+00:11:31.729 --> 00:11:33.929
+you know, where to be and how to work
+
+188
+00:11:33.929 --> 00:11:34.599
+properly.
+
+189
+00:11:34.929 --> 00:11:40.989
+Yeah. And how and when were microRNAs discovered?
+
+190
+00:11:41.969 --> 00:11:46.820
+So microRNAs were discovered in 1993 in the back
+
+191
+00:11:46.820 --> 00:11:50.299
+to back papers in the journal Cell, which is
+
+192
+00:11:50.299 --> 00:11:53.340
+one of the top journals in the world, and
+
+193
+00:11:53.340 --> 00:11:56.140
+it was the discovery that was made at that
+
+194
+00:11:56.140 --> 00:11:59.140
+time that that recently just got the Nobel Prize
+
+195
+00:11:59.140 --> 00:12:02.460
+for the, for the two senior people on those
+
+196
+00:12:02.460 --> 00:12:06.299
+first two papers, uh, Victor Ambrose and Gary Rufkin.
+
+197
+00:12:07.210 --> 00:12:09.539
+So, what they were doing at the time was
+
+198
+00:12:09.539 --> 00:12:15.229
+they were interested in understanding how organisms develop. And
+
+199
+00:12:15.229 --> 00:12:18.880
+and they used an organism called C. ELEGANS, uh,
+
+200
+00:12:18.919 --> 00:12:22.320
+which is a very small, quite a simple worm.
+
+201
+00:12:23.150 --> 00:12:25.950
+It only has about 1000 cells in the in
+
+202
+00:12:25.950 --> 00:12:30.150
+the sort of adult worm. And um the work
+
+203
+00:12:30.150 --> 00:12:33.409
+of, of themselves and others had been focused on
+
+204
+00:12:33.409 --> 00:12:36.030
+thinking, look, if we can understand how a simple
+
+205
+00:12:36.030 --> 00:12:39.390
+animal develops from a single cell to its adult
+
+206
+00:12:39.390 --> 00:12:42.989
+form and understand the gene programs that switch on
+
+207
+00:12:42.989 --> 00:12:46.190
+and off as that organism develops. Perhaps we'll learn
+
+208
+00:12:46.190 --> 00:12:49.969
+a little bit more about more complex organisms, including
+
+209
+00:12:49.969 --> 00:12:53.450
+humans also develop and, and that turned out to
+
+210
+00:12:53.450 --> 00:12:55.409
+be uh to be true in, in many different
+
+211
+00:12:55.409 --> 00:12:58.840
+ways. So at the time of the discovery of
+
+212
+00:12:58.840 --> 00:13:03.960
+microRNAs, the two labs were trying to understand which
+
+213
+00:13:03.960 --> 00:13:07.229
+genes were switching on and off at the time
+
+214
+00:13:07.479 --> 00:13:11.820
+that the worm transitioned from one phase to its
+
+215
+00:13:12.840 --> 00:13:16.000
+to another phase, sort of from its early development
+
+216
+00:13:16.000 --> 00:13:19.580
+to its adult form. And they'd zoned in on,
+
+217
+00:13:19.609 --> 00:13:22.559
+on two different genes, LIN 4 and Lin 14,
+
+218
+00:13:22.570 --> 00:13:25.690
+and they were sort of playing around with, um,
+
+219
+00:13:25.700 --> 00:13:31.140
+worms that had mutations in these genes. And they,
+
+220
+00:13:31.200 --> 00:13:35.809
+they'd figured out that there was some. Interactions, some
+
+221
+00:13:35.809 --> 00:13:39.770
+influence between these 22 genes, and then when they
+
+222
+00:13:39.770 --> 00:13:42.210
+looked at this LIN 4 gene, they found that
+
+223
+00:13:42.210 --> 00:13:45.979
+it, it didn't code for a protein. In fact,
+
+224
+00:13:46.030 --> 00:13:51.909
+it seemed to produce only short RNAs. And so
+
+225
+00:13:51.909 --> 00:13:54.820
+they, they looked at these RNAs and then sort
+
+226
+00:13:54.820 --> 00:13:58.750
+of came this eureka moment where they managed to
+
+227
+00:13:58.750 --> 00:14:03.080
+align that short RNA to a region. Of the
+
+228
+00:14:03.080 --> 00:14:07.239
+messenger RNA for this other gene, Lin 14, and
+
+229
+00:14:07.239 --> 00:14:10.239
+they found that it would stick onto it a
+
+230
+00:14:10.239 --> 00:14:14.969
+little bit like sort of molecular Velcro. That there's
+
+231
+00:14:14.969 --> 00:14:19.659
+certain pairing rules between these nucleotides. So, uh, a
+
+232
+00:14:19.659 --> 00:14:21.979
+C and a G will always match and an
+
+233
+00:14:21.979 --> 00:14:24.020
+A and a U will always match. So they
+
+234
+00:14:24.020 --> 00:14:28.330
+found that this LIN 4 gene would stick on
+
+235
+00:14:28.739 --> 00:14:32.469
+to LIN 14. And then they, they came to
+
+236
+00:14:32.469 --> 00:14:35.669
+the realization that. This was maybe a new way
+
+237
+00:14:35.669 --> 00:14:40.109
+that genes were being controlled. That some genes basically
+
+238
+00:14:40.109 --> 00:14:43.830
+work by interfering with the production of the protein
+
+239
+00:14:43.830 --> 00:14:46.669
+and, and, and the idea from their, their discovery
+
+240
+00:14:46.669 --> 00:14:50.780
+was that this short RNA stuck onto the messenger
+
+241
+00:14:50.780 --> 00:14:56.330
+RNA. And blocked that protein from being produced. And
+
+242
+00:14:56.330 --> 00:14:58.119
+it turned out that this was a really key
+
+243
+00:14:58.119 --> 00:15:02.250
+event that this LIN 14 uh protein had to
+
+244
+00:15:02.250 --> 00:15:05.919
+be switched off in order for the adult animal
+
+245
+00:15:05.919 --> 00:15:09.969
+to uh to, to develop. And so this, this,
+
+246
+00:15:10.020 --> 00:15:12.609
+this was basically a, a new type of gene
+
+247
+00:15:12.609 --> 00:15:15.409
+activity control that had been er discovered.
+
+248
+00:15:16.979 --> 00:15:19.619
+And so also for people to understand a little
+
+249
+00:15:19.619 --> 00:15:24.330
+bit better, how we learn more about microRNAs. What
+
+250
+00:15:24.330 --> 00:15:27.229
+are the, perhaps the main tools that we have
+
+251
+00:15:27.229 --> 00:15:29.619
+at our disposal to learn about them?
+
+252
+00:15:30.599 --> 00:15:35.280
+So we can um detect the presence of microRNAs
+
+253
+00:15:35.280 --> 00:15:40.159
+uh within cells. We can um analyze RNA levels
+
+254
+00:15:40.159 --> 00:15:44.119
+using a variety of experimental and sort of uh
+
+255
+00:15:44.119 --> 00:15:48.219
+biochemical techniques quite, quite easily. And then we can
+
+256
+00:15:48.219 --> 00:15:51.580
+begin to map these into the genome. So we've
+
+257
+00:15:51.580 --> 00:15:56.020
+been able over time to identify all of the
+
+258
+00:15:56.020 --> 00:16:00.270
+microRNAs that are present within different organisms, including humans.
+
+259
+00:16:00.340 --> 00:16:02.659
+So you can, you can count the number of
+
+260
+00:16:02.659 --> 00:16:07.219
+these microRNA genes and you can learn on which
+
+261
+00:16:07.219 --> 00:16:11.710
+chromosomes they are in. And um you can also
+
+262
+00:16:11.710 --> 00:16:16.159
+study how they're produced. So there's a specific pathway
+
+263
+00:16:16.400 --> 00:16:18.590
+in terms of the, the sort of the reading,
+
+264
+00:16:19.080 --> 00:16:22.640
+uh, of the, the microA gene. The production of
+
+265
+00:16:22.640 --> 00:16:26.559
+the initial precursor molecule, the, the cutting down phases,
+
+266
+00:16:26.599 --> 00:16:29.880
+all of these little steps have been worked out
+
+267
+00:16:29.880 --> 00:16:32.159
+all the way through to the point where we
+
+268
+00:16:32.159 --> 00:16:36.359
+know how the microRNA finds its target and sort
+
+269
+00:16:36.359 --> 00:16:40.549
+of locks on with the assistance of another protein
+
+270
+00:16:40.549 --> 00:16:43.919
+that is called argonaut. And then even after the
+
+271
+00:16:43.919 --> 00:16:47.419
+microA has done its job. Um, WE, we've learned
+
+272
+00:16:47.669 --> 00:16:50.270
+how the, what happens to the mic RNA afterwards,
+
+273
+00:16:50.309 --> 00:16:53.179
+it's sort of end of life, uh, process.
+
+274
+00:16:54.049 --> 00:16:57.570
+Mhm. And uh just to perhaps take a step
+
+275
+00:16:57.570 --> 00:17:01.729
+back, do we know how microRNA's evolved? I mean,
+
+276
+00:17:01.890 --> 00:17:05.439
+from an evolutionary perspective, where do they come from?
+
+277
+00:17:06.290 --> 00:17:09.770
+Yeah, this, this is a great question. So what
+
+278
+00:17:09.770 --> 00:17:15.130
+we've learned is that microRNA's evolved uh at the
+
+279
+00:17:15.130 --> 00:17:21.420
+very start of complex life on Earth. So we've
+
+280
+00:17:21.420 --> 00:17:26.660
+been able to trace microRNA genes throughout all of
+
+281
+00:17:26.660 --> 00:17:29.939
+the sort of evolutionary history of, of animals to
+
+282
+00:17:29.939 --> 00:17:33.569
+some extremely simple, just a few sort of cells,
+
+283
+00:17:33.819 --> 00:17:41.180
+uh, all together. And virtually every organism, every animal
+
+284
+00:17:41.180 --> 00:17:45.459
+organism that we've studied has some collection of microRNAs.
+
+285
+00:17:46.300 --> 00:17:49.199
+So what we think has happened is that microRNAs
+
+286
+00:17:49.199 --> 00:17:53.359
+were really fundamental and critical to the development of
+
+287
+00:17:53.359 --> 00:17:56.560
+complex life on Earth, simply because they were, they
+
+288
+00:17:56.560 --> 00:18:00.000
+were present in some of the most simple forms
+
+289
+00:18:00.000 --> 00:18:05.439
+of life. And as organisms get more complex, we
+
+290
+00:18:05.439 --> 00:18:11.400
+see the emergence of additional microRNA genes. So they've
+
+291
+00:18:11.400 --> 00:18:15.180
+looked, for example, at the uh animals that are
+
+292
+00:18:15.180 --> 00:18:18.800
+have this kind of bilateral body plan, which is
+
+293
+00:18:18.800 --> 00:18:20.280
+one of the, uh, you know, one of the
+
+294
+00:18:20.280 --> 00:18:25.069
+simplest uh advances in, in animal complexity. And there's
+
+295
+00:18:25.069 --> 00:18:27.829
+a big stack of microRNA genes that are present
+
+296
+00:18:27.829 --> 00:18:30.109
+in those animals. And then if you look later
+
+297
+00:18:30.109 --> 00:18:33.829
+as vertebrates begin to evolve, you see another group
+
+298
+00:18:33.829 --> 00:18:36.900
+of microRNA genes that were present at that point
+
+299
+00:18:37.189 --> 00:18:41.750
+when vertebrate animals evolved, and then further still with
+
+300
+00:18:41.750 --> 00:18:45.660
+mammals and with placental mammals. So it seems that
+
+301
+00:18:45.660 --> 00:18:50.260
+the presence of microRNA genes are critical to the
+
+302
+00:18:50.260 --> 00:18:53.729
+evolution of complex life on Earth.
+
+303
+00:18:54.699 --> 00:18:57.449
+Mhm. But, but then, uh, let me just ask
+
+304
+00:18:57.449 --> 00:19:03.170
+you then, they were already present in unicellular organisms
+
+305
+00:19:03.170 --> 00:19:03.680
+or
+
+306
+00:19:03.680 --> 00:19:09.010
+not? So they have been detected in unicellular organisms.
+
+307
+00:19:09.689 --> 00:19:12.609
+But uh the numbers that seem to be present
+
+308
+00:19:12.609 --> 00:19:17.530
+in multicellular organisms are, are much higher. We've also
+
+309
+00:19:17.530 --> 00:19:21.770
+detected microRNAs in plants, so they're not unique to
+
+310
+00:19:21.770 --> 00:19:27.310
+animals and in fungi. And in algae. But, and
+
+311
+00:19:27.310 --> 00:19:30.880
+this is the interesting thing, the the microRNA systems
+
+312
+00:19:30.880 --> 00:19:34.699
+in these other kingdoms of life are slightly different.
+
+313
+00:19:35.550 --> 00:19:38.719
+So what it looks like is uh an example
+
+314
+00:19:38.719 --> 00:19:43.439
+of convergent evolution where these different kingdoms, these different
+
+315
+00:19:43.439 --> 00:19:45.920
+branches of life have all come up with the
+
+316
+00:19:45.920 --> 00:19:48.400
+same solution. They've sort of come up with a
+
+317
+00:19:48.400 --> 00:19:53.400
+microRNA system to work within the genome. To, to
+
+318
+00:19:53.400 --> 00:19:56.859
+carry out critical functions. And so that, I suppose,
+
+319
+00:19:56.959 --> 00:20:00.859
+leads to. The question, what is it that microRNAs
+
+320
+00:20:00.859 --> 00:20:04.380
+do? What is, what are they needed for? What's
+
+321
+00:20:04.380 --> 00:20:07.619
+wrong with our genome that it needs this, this
+
+322
+00:20:07.619 --> 00:20:11.180
+other system? Yeah. So the answer to that is
+
+323
+00:20:11.180 --> 00:20:17.099
+that gene activity is, is quite noisy and random.
+
+324
+00:20:18.339 --> 00:20:21.979
+So the, the example I've been giving earlier sort
+
+325
+00:20:21.979 --> 00:20:26.060
+of doesn't quite capture that as genes are switched
+
+326
+00:20:26.060 --> 00:20:29.579
+on and off, there's a an element of randomness
+
+327
+00:20:29.579 --> 00:20:34.699
+in, in how much messenger RNA gets produced. Some
+
+328
+00:20:34.699 --> 00:20:39.689
+genes are noisier than others, but generally speaking, there's
+
+329
+00:20:39.689 --> 00:20:42.780
+a, there's a randomness, what we would call stochastic.
+
+330
+00:20:43.609 --> 00:20:48.540
+Um, PRODUCTION of gene activity. So microA are thought,
+
+331
+00:20:48.589 --> 00:20:50.910
+they're not their sort of first job or the
+
+332
+00:20:50.910 --> 00:20:55.339
+first reason that they've evolved is a stabilizing system
+
+333
+00:20:55.949 --> 00:21:01.449
+for noisy genes. So basically, microRNA's, when they're produced,
+
+334
+00:21:01.530 --> 00:21:05.569
+they stick onto the messenger RNA and they reduce
+
+335
+00:21:05.569 --> 00:21:09.750
+protein levels. And this seems to be a negative
+
+336
+00:21:09.750 --> 00:21:14.949
+feedback system that is ideally suited to noisy genes
+
+337
+00:21:14.949 --> 00:21:20.069
+to sort of randomness within gene activity. So microRNA
+
+338
+00:21:20.069 --> 00:21:22.390
+sort of work as this almost like a cooling
+
+339
+00:21:22.390 --> 00:21:26.469
+system for the genome. They, they reduce the production
+
+340
+00:21:26.469 --> 00:21:30.739
+of proteins and and that helps reduce the noise
+
+341
+00:21:30.739 --> 00:21:35.390
+of, of gene expression. So that's sort of their,
+
+342
+00:21:36.030 --> 00:21:38.719
+their number one job. But the other thing, and
+
+343
+00:21:38.719 --> 00:21:41.750
+this comes back to what I said about organism
+
+344
+00:21:41.750 --> 00:21:46.239
+complexity, it seems that microRNAs are able to create
+
+345
+00:21:46.239 --> 00:21:52.619
+or contribute to more complex organisms. Um, WHAT we
+
+346
+00:21:52.619 --> 00:21:56.369
+think is happening is that microRNAs can take our
+
+347
+00:21:56.369 --> 00:22:01.540
+list of protein coding genes and produce much richer,
+
+348
+00:22:01.910 --> 00:22:06.459
+more complex patterns of gene activity. Than would be
+
+349
+00:22:06.459 --> 00:22:10.469
+possible without them. So they're sort of taking the,
+
+350
+00:22:10.530 --> 00:22:13.910
+the, the thousands of protein coding genes and by
+
+351
+00:22:13.910 --> 00:22:19.030
+acting on them, increasing and decreasing, they, they create
+
+352
+00:22:19.030 --> 00:22:24.550
+a richness. Of gene activity within cells that that
+
+353
+00:22:24.550 --> 00:22:28.750
+contributes to more complex organisms that that organisms can
+
+354
+00:22:28.750 --> 00:22:32.630
+be uh more complex, produce more different types of,
+
+355
+00:22:32.670 --> 00:22:35.790
+of cells that that uh is is is the
+
+356
+00:22:35.790 --> 00:22:40.020
+essence of, of complex organisms. So these are those
+
+357
+00:22:40.020 --> 00:22:42.260
+two really important jobs. So first of all, kind
+
+358
+00:22:42.260 --> 00:22:46.239
+of creating more stability with gene activity, and secondly,
+
+359
+00:22:46.699 --> 00:22:51.459
+creating more complex, rich genetic uh activity that that
+
+360
+00:22:51.459 --> 00:22:53.339
+contributes to organism complexity.
+
+361
+00:22:54.449 --> 00:22:57.560
+Great. And so, just for people to understand, how
+
+362
+00:22:57.560 --> 00:23:02.000
+are microRNAs made? I mean, are they produced in
+
+363
+00:23:02.000 --> 00:23:05.689
+the cells themselves or are they narrated in some
+
+364
+00:23:05.689 --> 00:23:07.400
+way? How does it work?
+
+365
+00:23:08.260 --> 00:23:11.780
+So microRNAs are, are produced from a, through a
+
+366
+00:23:11.780 --> 00:23:15.260
+series of biochemical processes. The the first part is
+
+367
+00:23:15.260 --> 00:23:19.079
+essentially the reading of the microRNA gene. Now some
+
+368
+00:23:19.079 --> 00:23:21.599
+of our microRNA genes uh sort of sit on
+
+369
+00:23:21.599 --> 00:23:25.150
+their own, uh, in the genome, and other microRNA
+
+370
+00:23:25.150 --> 00:23:28.430
+genes are sort of slightly kind of embedded within
+
+371
+00:23:28.640 --> 00:23:32.280
+protein coding genes. So if we take the second
+
+372
+00:23:32.280 --> 00:23:35.750
+example, For the reading of a protein coding gene,
+
+373
+00:23:35.910 --> 00:23:39.150
+DNA opens, it unzips, and we get the first
+
+374
+00:23:39.150 --> 00:23:43.300
+processed transcription. We get this production of this long
+
+375
+00:23:43.300 --> 00:23:46.630
+RNA copy of the gene. And then that begins
+
+376
+00:23:46.630 --> 00:23:50.430
+to get cut up. So many microRNAs are actually
+
+377
+00:23:50.430 --> 00:23:56.069
+sort of sitting in that first early form of
+
+378
+00:23:56.069 --> 00:24:00.839
+RNA and then there's an enzyme within the the
+
+379
+00:24:00.839 --> 00:24:06.020
+nucleus called Drosha. That cuts out and starts to
+
+380
+00:24:06.020 --> 00:24:09.939
+shorten the original RNA to a, to a shorter
+
+381
+00:24:09.939 --> 00:24:12.979
+form. So, that's the, the sort of first step.
+
+382
+00:24:13.060 --> 00:24:16.260
+So there's the transcription by an enzyme called RNA
+
+383
+00:24:16.260 --> 00:24:22.410
+polymerase. That produces a primary microRNA and then this
+
+384
+00:24:22.410 --> 00:24:26.000
+enzyme Droser makes a little cut. And then it
+
+385
+00:24:26.000 --> 00:24:29.800
+begins its journey. So the pre microRNA now moves
+
+386
+00:24:29.800 --> 00:24:34.290
+out of the nucleus. Into the cytosol. So it's
+
+387
+00:24:34.290 --> 00:24:38.280
+now heading towards the ribosome, the protein production factory.
+
+388
+00:24:39.310 --> 00:24:44.089
+Now it encounters a second enzyme called yer. Dyser
+
+389
+00:24:44.089 --> 00:24:49.670
+snips. The precursor again, and you end up with
+
+390
+00:24:49.670 --> 00:24:54.109
+essentially two sort of strands of RNA about 20
+
+391
+00:24:54.109 --> 00:24:59.489
+nucleotides each. Mhm. One of those strands gets selected
+
+392
+00:24:59.489 --> 00:25:02.770
+to be the sort of the final microRNA and
+
+393
+00:25:02.770 --> 00:25:08.180
+it gets bound to this protein called argonaut. The
+
+394
+00:25:08.180 --> 00:25:11.819
+micronA bound to Argonaut now begins to search for
+
+395
+00:25:11.819 --> 00:25:16.500
+targets, so it's really basically looking for messenger RNAs
+
+396
+00:25:16.500 --> 00:25:19.540
+that have a little region of complementarity to the
+
+397
+00:25:19.540 --> 00:25:23.819
+sequence of the microRNA. And when it finds enough
+
+398
+00:25:23.819 --> 00:25:28.630
+complementarity, it'll stick on to the messenger RNA. And
+
+399
+00:25:28.630 --> 00:25:31.180
+this is when it really now does its job.
+
+400
+00:25:31.469 --> 00:25:34.189
+So once a microRNA is locked onto a messenger
+
+401
+00:25:34.189 --> 00:25:38.520
+RNA, it can either prevent the translation of the
+
+402
+00:25:38.520 --> 00:25:41.589
+messenger RNA. So it kind of prevents the messenger
+
+403
+00:25:41.589 --> 00:25:44.589
+RNA being fed through the ribosome. So it's a
+
+404
+00:25:44.589 --> 00:25:46.719
+little bit like if you imagine tying a knot
+
+405
+00:25:46.949 --> 00:25:50.469
+in your shoelace, you can't thread the shoelace now
+
+406
+00:25:50.469 --> 00:25:54.359
+through the boot. So with our microRNA locked onto
+
+407
+00:25:54.359 --> 00:25:57.400
+our messenger RNA, the messenger RNA can't get threaded
+
+408
+00:25:57.400 --> 00:26:01.030
+through the ribosome. We can't build our protein. The
+
+409
+00:26:01.030 --> 00:26:03.270
+other thing that can happen is that when the
+
+410
+00:26:03.270 --> 00:26:07.550
+microRNA locks onto the messenger RNA, it causes the
+
+411
+00:26:07.550 --> 00:26:11.589
+active degradation of the messenger RNA sort of enzymes
+
+412
+00:26:11.589 --> 00:26:13.630
+are attracted to this and they start to chew
+
+413
+00:26:13.630 --> 00:26:17.510
+up the messenger RNA. But either way, you get
+
+414
+00:26:17.510 --> 00:26:20.709
+a reduction in in protein levels of the messenger
+
+415
+00:26:20.709 --> 00:26:22.829
+RNA that was targeted by the microRNA.
+
+416
+00:26:23.430 --> 00:26:27.030
+Mhm. But I mean, then their activity is also
+
+417
+00:26:27.400 --> 00:26:32.000
+always targeting MRNA molecules, right? Or do they have
+
+418
+00:26:32.000 --> 00:26:33.959
+some other functions?
+
+419
+00:26:35.189 --> 00:26:39.510
+Principally, it's targeting mRNA. There are, there are one
+
+420
+00:26:39.510 --> 00:26:44.069
+or two other examples where we've discovered microRNAs doing
+
+421
+00:26:44.069 --> 00:26:48.069
+something slightly different. There there's one or two studies
+
+422
+00:26:48.069 --> 00:26:50.430
+that show them working in the nucleus, sort of
+
+423
+00:26:50.430 --> 00:26:53.739
+at the point of transcription, but by and large,
+
+424
+00:26:53.750 --> 00:26:57.349
+where microRNA's work is out in the cytoplasm at
+
+425
+00:26:57.349 --> 00:27:01.229
+that step just before the translation of a protein,
+
+426
+00:27:01.239 --> 00:27:03.310
+the, the building of the amino acid chain.
+
+427
+00:27:03.989 --> 00:27:06.920
+Great. So, in the book at a certain point,
+
+428
+00:27:06.969 --> 00:27:13.050
+you talk about how microRNA's confer robustness to biological
+
+429
+00:27:13.050 --> 00:27:15.689
+systems. What does that mean? Could you explain that?
+
+430
+00:27:16.390 --> 00:27:18.790
+Yes, so this comes back a little bit to
+
+431
+00:27:18.790 --> 00:27:22.739
+what I was saying around how gene activity is
+
+432
+00:27:22.739 --> 00:27:27.099
+quite noisy. So what microRNAs are doing is this
+
+433
+00:27:27.099 --> 00:27:30.780
+sort of negative feedback where they, they dampen down
+
+434
+00:27:30.780 --> 00:27:35.109
+the normal natural noise of gene activity within the
+
+435
+00:27:35.109 --> 00:27:40.359
+cell, and this seems to allow. Cells to, to
+
+436
+00:27:40.359 --> 00:27:43.000
+perform better. Cells don't, don't do very well with
+
+437
+00:27:43.000 --> 00:27:45.349
+sort of noisy gene activity, so this is a,
+
+438
+00:27:45.599 --> 00:27:50.640
+a dampening system. The second thing that microRNAs do
+
+439
+00:27:50.640 --> 00:27:55.780
+is seem to stabilize the gene programs that keep
+
+440
+00:27:55.780 --> 00:27:59.000
+cells the way they are. So for example, you
+
+441
+00:27:59.000 --> 00:28:01.619
+know, a brain cell wants to remain a brain
+
+442
+00:28:01.619 --> 00:28:05.170
+cell, it doesn't want to drift into other some
+
+443
+00:28:05.170 --> 00:28:09.609
+uh cell type. So by producing a certain set
+
+444
+00:28:09.609 --> 00:28:16.359
+of microRNA genes all the time, Cells maintain their
+
+445
+00:28:16.819 --> 00:28:20.920
+their correct molecular environment that allows them to do
+
+446
+00:28:20.920 --> 00:28:23.589
+the job they're supposed to be doing. And this
+
+447
+00:28:23.599 --> 00:28:26.869
+is what we've seen when we study microRNAs switching
+
+448
+00:28:26.869 --> 00:28:29.989
+on and off as organisms develop. We find that
+
+449
+00:28:29.989 --> 00:28:33.270
+there are groups of microRNAs that switch on at
+
+450
+00:28:33.270 --> 00:28:36.550
+certain phases of development, for example, as cells are
+
+451
+00:28:36.550 --> 00:28:40.300
+dividing. And then as cells become more and more
+
+452
+00:28:40.300 --> 00:28:46.060
+specialized towards their sort of final features, other microRNAs
+
+453
+00:28:46.060 --> 00:28:50.709
+switch on that then keep those gene programs stable
+
+454
+00:28:51.020 --> 00:28:54.459
+and reduce sort of fluctuation, and this seems to
+
+455
+00:28:54.459 --> 00:28:56.939
+be really important for that sort of robustness of
+
+456
+00:28:57.170 --> 00:28:59.459
+of cell type and function.
+
+457
+00:29:00.260 --> 00:29:04.939
+Mhm. And why do you call these molecules nature's
+
+458
+00:29:04.939 --> 00:29:06.939
+fine-tuning system?
+
+459
+00:29:07.839 --> 00:29:10.569
+Yeah, so I think the, the fine tuning comes
+
+460
+00:29:10.569 --> 00:29:15.140
+from this idea that that microRNA's are, if you
+
+461
+00:29:15.140 --> 00:29:21.119
+like, gently adjusting gene activity. So by, by certain
+
+462
+00:29:21.119 --> 00:29:25.829
+types of experiment, we've learned that microRNAs don't absolutely
+
+463
+00:29:25.829 --> 00:29:29.150
+flatten the level of gene activity. They actually reduce
+
+464
+00:29:29.479 --> 00:29:32.689
+the level of their, their target protein by about
+
+465
+00:29:33.000 --> 00:29:36.599
+10 to 20%. So this is a sort of
+
+466
+00:29:36.599 --> 00:29:41.239
+a a gentle adjustment of gene activity and so
+
+467
+00:29:41.239 --> 00:29:44.520
+this gives rise to the idea of fine tuning.
+
+468
+00:29:44.880 --> 00:29:48.540
+But the fine tuning idea also relates to this
+
+469
+00:29:48.540 --> 00:29:53.829
+sense that microRNAs are a little bit like conducting
+
+470
+00:29:53.829 --> 00:29:58.020
+the molecular orchestra. This is one of the, the,
+
+471
+00:29:58.030 --> 00:30:00.050
+the phrases that's been used in the, in the
+
+472
+00:30:00.050 --> 00:30:04.050
+past, so. One of the features of microRNA's is
+
+473
+00:30:04.050 --> 00:30:08.800
+there isn't just one microRNA for one target. Each
+
+474
+00:30:08.800 --> 00:30:14.530
+individual micronA can actually stick onto dozens of targets.
+
+475
+00:30:15.630 --> 00:30:19.349
+So a single microRNA sort of controls the levels
+
+476
+00:30:19.349 --> 00:30:22.150
+of lots and lots of messenger RNAs. So this
+
+477
+00:30:22.150 --> 00:30:24.630
+gives you a little bit more sense of, of
+
+478
+00:30:24.630 --> 00:30:27.869
+kind of conducting this molecular orchestra, or, or kind
+
+479
+00:30:27.869 --> 00:30:29.780
+of a fine tuning system.
+
+480
+00:30:31.760 --> 00:30:35.800
+And so, in the ways they regulate the correct
+
+481
+00:30:35.800 --> 00:30:39.229
+proteins and amounts of each of them, I mean,
+
+482
+00:30:39.439 --> 00:30:42.040
+how do they know, I mean, of course, I
+
+483
+00:30:42.040 --> 00:30:45.270
+don't want to anthropomorphize things very much here, but
+
+484
+00:30:45.520 --> 00:30:47.959
+how do they know where they get the information
+
+485
+00:30:47.959 --> 00:30:50.959
+that they should regulate this or that kind of
+
+486
+00:30:50.959 --> 00:30:53.040
+protein and the amounts?
+
+487
+00:30:53.719 --> 00:30:57.410
+So the the particular protein they regulate is is
+
+488
+00:30:57.410 --> 00:31:02.449
+really dictated by the sequence of the microRNA. So
+
+489
+00:31:03.089 --> 00:31:07.250
+a microRNA will stick on to various different messenger
+
+490
+00:31:07.250 --> 00:31:10.369
+RNAs according to to the sequence. But in terms
+
+491
+00:31:10.369 --> 00:31:13.920
+of knowing when to be made. So a lot
+
+492
+00:31:13.920 --> 00:31:19.079
+of microRNAs are actually made as the protein coding
+
+493
+00:31:19.079 --> 00:31:23.900
+genes are also being transcribed. So when a protein
+
+494
+00:31:23.900 --> 00:31:27.130
+coding gene is switched on, it's going to produce
+
+495
+00:31:27.130 --> 00:31:31.219
+an amount of a microRNA alongside it. So you
+
+496
+00:31:31.219 --> 00:31:33.260
+sort of have the production of the protein coding
+
+497
+00:31:33.260 --> 00:31:36.770
+gene and then the microRNA is also being produced
+
+498
+00:31:36.770 --> 00:31:41.199
+to regulate that same gene. Now that's not true
+
+499
+00:31:41.199 --> 00:31:44.630
+for all microRNAs. There are some micronNAs that sit
+
+500
+00:31:44.630 --> 00:31:47.310
+sort of as their own little island within our
+
+501
+00:31:47.310 --> 00:31:50.869
+genome. They have their own switch on and switch
+
+502
+00:31:50.869 --> 00:31:54.050
+off signals that regulate them, but a lot of
+
+503
+00:31:54.050 --> 00:31:57.469
+microRNAs are being produced at the same time that
+
+504
+00:31:57.469 --> 00:32:00.150
+we're transcribing the protein coding genes.
+
+505
+00:32:00.859 --> 00:32:05.170
+Mhm. And what happens to them after they've finished
+
+506
+00:32:05.170 --> 00:32:08.089
+their job? I mean, what happens to the microRNA
+
+507
+00:32:08.089 --> 00:32:08.920
+molecules?
+
+508
+00:32:09.449 --> 00:32:12.520
+So this is actually something we don't know in
+
+509
+00:32:12.520 --> 00:32:17.130
+all that much detail, and it seems that individual
+
+510
+00:32:17.130 --> 00:32:20.890
+microRNA's, that sort of their end of life is
+
+511
+00:32:20.890 --> 00:32:24.280
+very specific to the cell type that we're studying,
+
+512
+00:32:24.410 --> 00:32:27.209
+the, the type of process, what signals have been
+
+513
+00:32:27.209 --> 00:32:33.099
+sent at a particular time. So there is evidence
+
+514
+00:32:33.099 --> 00:32:37.859
+that the microRNA stays within the complex with this
+
+515
+00:32:37.859 --> 00:32:41.530
+argonnat protein, and then the argonautt protein gets destroyed
+
+516
+00:32:41.900 --> 00:32:44.189
+within the cell, sort of gets turned over, and
+
+517
+00:32:44.189 --> 00:32:47.849
+as that turnover process occurs, the microa gets released
+
+518
+00:32:47.849 --> 00:32:50.859
+and then it sort of chewed up by enzymes
+
+519
+00:32:50.859 --> 00:32:54.099
+within the cell. But there's also some evidence that
+
+520
+00:32:54.099 --> 00:32:57.880
+there are other types of um mechanism that exists
+
+521
+00:32:57.880 --> 00:33:03.060
+within cells that directly downgrade the microRNA after a
+
+522
+00:33:03.060 --> 00:33:06.060
+period of time. But we, we're still really at
+
+523
+00:33:06.060 --> 00:33:08.619
+a fairly early stage in understanding what are the
+
+524
+00:33:08.619 --> 00:33:12.380
+rules with what happens to a microRNA after it's
+
+525
+00:33:12.380 --> 00:33:13.140
+done its job.
+
+526
+00:33:14.140 --> 00:33:18.410
+Mhm. So, going back to evolution for a minute,
+
+527
+00:33:18.819 --> 00:33:22.619
+uh, I mean, because of their functions, because they
+
+528
+00:33:22.619 --> 00:33:26.459
+basically participate in the regulating the amounts of different
+
+529
+00:33:26.459 --> 00:33:31.489
+kinds of proteins, do they participate in evolution itself?
+
+530
+00:33:31.599 --> 00:33:34.805
+I mean, do they facilitate Tailor it because uh
+
+531
+00:33:35.155 --> 00:33:39.194
+that way perhaps cells don't have to evolve completely
+
+532
+00:33:39.194 --> 00:33:44.104
+new protein coding genes and do they participate in
+
+533
+00:33:44.104 --> 00:33:45.545
+that as well or not?
+
+534
+00:33:46.194 --> 00:33:48.675
+Absolutely. And, and I think you've just made the
+
+535
+00:33:48.675 --> 00:33:52.469
+point really clearly there that It's quite difficult to
+
+536
+00:33:52.469 --> 00:33:57.630
+evolve completely new protein coding genes, and even a
+
+537
+00:33:57.630 --> 00:34:01.760
+single error or change in a in a nucleotide
+
+538
+00:34:02.180 --> 00:34:05.239
+can can have a sort of catastrophic effect on
+
+539
+00:34:05.239 --> 00:34:08.188
+a protein. This is why we have human diseases
+
+540
+00:34:08.188 --> 00:34:10.790
+that are caused by sort of single mutations in
+
+541
+00:34:10.790 --> 00:34:17.050
+DNA. But microRNAs can evolve relatively easily. The the
+
+542
+00:34:17.050 --> 00:34:20.149
+sort of requirements for a new microRNA gene are
+
+543
+00:34:20.159 --> 00:34:23.790
+are are relatively easy to meet. So essentially you
+
+544
+00:34:23.790 --> 00:34:26.188
+just have to have an RNA that can form
+
+545
+00:34:26.188 --> 00:34:30.129
+this sort of special hairpin structure. And RNAs are
+
+546
+00:34:30.129 --> 00:34:35.208
+naturally quite good at doing this. So it's true
+
+547
+00:34:35.208 --> 00:34:37.679
+that within our genomes, the, the production of new
+
+548
+00:34:37.679 --> 00:34:42.370
+microRNAs seems to Uh, be found around the time
+
+549
+00:34:42.370 --> 00:34:47.199
+of key evolutionary steps. And from a biochemistry point
+
+550
+00:34:47.199 --> 00:34:50.208
+of view, it's a lot easier to generate a
+
+551
+00:34:50.208 --> 00:34:53.929
+new microRNA gene than a new protein coding gene.
+
+552
+00:34:54.829 --> 00:34:59.249
+And one of the interesting facts about genetic complexity
+
+553
+00:34:59.249 --> 00:35:02.428
+and and microRNAs is that if we look at
+
+554
+00:35:02.428 --> 00:35:06.138
+the number of genes, protein coding genes that we
+
+555
+00:35:06.138 --> 00:35:10.779
+have humans, it's about 20,000. This is actually the
+
+556
+00:35:10.779 --> 00:35:15.019
+same number of protein coding genes as that simple
+
+557
+00:35:15.309 --> 00:35:20.009
+worm, the C. ELEGANS worm that Ambrose and Ruin
+
+558
+00:35:20.589 --> 00:35:24.639
+discovered microRNAs and got the Nobel Prize for. So
+
+559
+00:35:24.639 --> 00:35:29.229
+clearly Organism complexity is not a simple function of
+
+560
+00:35:29.229 --> 00:35:33.669
+the number of protein coding genes. It's the other
+
+561
+00:35:33.669 --> 00:35:37.590
+elements within our genome that take these sort of
+
+562
+00:35:37.590 --> 00:35:42.739
+protein coding genes and adjust how they're being used
+
+563
+00:35:42.739 --> 00:35:45.300
+to create all of the complexity that we see
+
+564
+00:35:45.300 --> 00:35:47.820
+in, in life forms, such as, such as humans.
+
+565
+00:35:47.830 --> 00:35:50.790
+And microRNAs are a really key part. And so
+
+566
+00:35:50.790 --> 00:35:52.389
+if you, if you were to sort of draw
+
+567
+00:35:52.389 --> 00:35:57.649
+a graph of increasing organism complexity. With sort of
+
+568
+00:35:57.649 --> 00:36:00.770
+single cell organisms at at one end and say
+
+569
+00:36:00.770 --> 00:36:03.040
+humans at the other end, then the number of
+
+570
+00:36:03.040 --> 00:36:07.550
+protein codeine genes wouldn't. Be very proportional to complexity
+
+571
+00:36:07.550 --> 00:36:09.189
+and, and, you know, as I said, the C
+
+572
+00:36:09.189 --> 00:36:11.909
+elegans has about the same number of protein codeine
+
+573
+00:36:11.909 --> 00:36:14.030
+genes as we do. But if you were to
+
+574
+00:36:14.030 --> 00:36:18.679
+plot microRNA abundance, you see a much more linear
+
+575
+00:36:18.679 --> 00:36:22.649
+relationship. So as organisms are getting more complex, You
+
+576
+00:36:22.649 --> 00:36:26.600
+see more microRNA genes. So microRNAs are, are thought
+
+577
+00:36:26.600 --> 00:36:29.729
+to, to, to produce greater complexity than would be
+
+578
+00:36:29.729 --> 00:36:32.169
+possible simply through protein coding genes.
+
+579
+00:36:33.189 --> 00:36:36.790
+It's very interesting that you establish that parallel between
+
+580
+00:36:36.790 --> 00:36:39.919
+us humans and C elegant in terms of the
+
+581
+00:36:39.919 --> 00:36:43.639
+total number of protein coding genes. So does that
+
+582
+00:36:43.639 --> 00:36:48.149
+mean that microRNAs also play a role in speciation
+
+583
+00:36:48.149 --> 00:36:52.510
+because of with them, we don't really need different
+
+584
+00:36:52.510 --> 00:36:56.340
+and or more protein protein gene code uh gene
+
+585
+00:36:56.340 --> 00:37:00.659
+coding, uh sorry, protein coding genes, but Uh, the
+
+586
+00:37:00.659 --> 00:37:04.100
+same, or the sim similar genes can be expressed
+
+587
+00:37:04.100 --> 00:37:06.290
+differently in different species.
+
+588
+00:37:06.899 --> 00:37:09.729
+Yes, so what, what we do have evidence for
+
+589
+00:37:09.729 --> 00:37:14.500
+is that um new microRNAs are contributing to, to
+
+590
+00:37:14.500 --> 00:37:17.139
+speciation, and this, this is quite difficult, as you
+
+591
+00:37:17.139 --> 00:37:19.739
+can imagine, to prove in, in some species like
+
+592
+00:37:19.739 --> 00:37:23.500
+humans, but if you use uh simpler organisms then
+
+593
+00:37:23.500 --> 00:37:26.590
+it's possible and one of the. Uh, ORGANISMS that's
+
+594
+00:37:26.590 --> 00:37:29.750
+been studied is a, a, a certain type of
+
+595
+00:37:29.750 --> 00:37:32.989
+fish, a cilid fish, and they are a great
+
+596
+00:37:32.989 --> 00:37:36.790
+model for studying speciation, and they found that there
+
+597
+00:37:36.790 --> 00:37:41.110
+are microRNA genes that are almost certainly responsible for
+
+598
+00:37:41.110 --> 00:37:44.590
+contributing to, to the, the, the separation, the, the
+
+599
+00:37:44.590 --> 00:37:47.709
+development of, of new species, but we don't have
+
+600
+00:37:47.709 --> 00:37:50.870
+so much evidence for that, uh, in humans. What
+
+601
+00:37:50.870 --> 00:37:53.949
+we do see in humans is the presence of
+
+602
+00:37:53.949 --> 00:37:58.989
+microRNA genes that are not in any other. Organism.
+
+603
+00:37:59.629 --> 00:38:02.949
+So there are some human specific microRNAs. There are
+
+604
+00:38:02.949 --> 00:38:06.750
+also some great apes specific micronAs and then there
+
+605
+00:38:06.750 --> 00:38:12.840
+are some primates specific microRNAs. And while we haven't
+
+606
+00:38:12.840 --> 00:38:15.679
+yet figured out what these microRNAs that are unique
+
+607
+00:38:15.679 --> 00:38:18.439
+to humans are doing, what we do know is
+
+608
+00:38:18.439 --> 00:38:21.040
+most of them are present and made in the
+
+609
+00:38:21.040 --> 00:38:24.370
+brain. And so this is very interesting to think
+
+610
+00:38:24.370 --> 00:38:28.669
+about that, that microRNAs may have contributed to some
+
+611
+00:38:28.669 --> 00:38:33.500
+of our unique to human uh uh intellectual brain
+
+612
+00:38:33.909 --> 00:38:34.590
+functions.
+
+613
+00:38:36.179 --> 00:38:38.469
+So, yeah, we're going to get a little bit
+
+614
+00:38:38.469 --> 00:38:41.879
+more into that in a second, but what role
+
+615
+00:38:41.879 --> 00:38:46.169
+do they play specifically in human development?
+
+616
+00:38:47.260 --> 00:38:52.280
+So microRNAs begin working from the moment of fertilization.
+
+617
+00:38:52.320 --> 00:38:55.760
+In fact, there's studies showing that some microRNAs are
+
+618
+00:38:55.760 --> 00:39:00.639
+actually carried within the cell, within the egg, and
+
+619
+00:39:00.639 --> 00:39:03.879
+within the sperm cell that are basically getting to
+
+620
+00:39:03.879 --> 00:39:08.149
+work at the first moment of fertilization. And as
+
+621
+00:39:08.399 --> 00:39:11.520
+the fertilized egg is beginning to divide and divide,
+
+622
+00:39:11.639 --> 00:39:15.719
+you see certain types of microns switching on. And
+
+623
+00:39:15.719 --> 00:39:19.000
+then switching off again later. So we've, we've sort
+
+624
+00:39:19.000 --> 00:39:22.679
+of mapped out sets of microRNAs that are critical
+
+625
+00:39:22.679 --> 00:39:28.000
+to the very earliest stages of human embryo development
+
+626
+00:39:28.000 --> 00:39:32.439
+and the development of other mammals and other organisms.
+
+627
+00:39:32.520 --> 00:39:36.399
+So microns get to work really early, switching on
+
+628
+00:39:36.399 --> 00:39:40.719
+and off and and controlling the early gene programs
+
+629
+00:39:40.719 --> 00:39:43.199
+that are critical for organism development.
+
+630
+00:39:44.320 --> 00:39:47.239
+And so, uh, I mean, I hope I didn't
+
+631
+00:39:47.239 --> 00:39:51.000
+understand this wrong, but do they also contribute or
+
+632
+00:39:51.000 --> 00:39:54.159
+play a role in cell differentiation and I mean,
+
+633
+00:39:54.199 --> 00:39:57.120
+the production of the different kinds of cells that
+
+634
+00:39:57.120 --> 00:39:59.239
+we can find in our bodies and the bodies
+
+635
+00:39:59.239 --> 00:40:01.600
+of other animals and organisms?
+
+636
+00:40:02.120 --> 00:40:07.719
+Yeah, absolutely. So every phase of organism development involves
+
+637
+00:40:07.719 --> 00:40:12.610
+actions of microRNAs. So we have identified microRNAs that
+
+638
+00:40:12.610 --> 00:40:16.090
+are important for cell division, for controlling the the
+
+639
+00:40:16.090 --> 00:40:20.870
+processes during cell division, but also the differentiation and
+
+640
+00:40:20.870 --> 00:40:24.050
+migration of those cells. So as, as we are
+
+641
+00:40:24.050 --> 00:40:27.810
+dividing and growing, cells begin to move into different
+
+642
+00:40:27.810 --> 00:40:33.169
+places, they begin to develop more specialized features. And
+
+643
+00:40:33.169 --> 00:40:36.590
+at each stage, microRNAs are switching on and off
+
+644
+00:40:36.590 --> 00:40:40.300
+and controlling the the gene programs that, that, you
+
+645
+00:40:40.300 --> 00:40:45.260
+know, drive cells towards certain type of uh function
+
+646
+00:40:45.260 --> 00:40:49.080
+and, and, and also their place within the organism
+
+647
+00:40:49.449 --> 00:40:51.129
+is all controlled by microRNA.
+
+648
+00:40:52.179 --> 00:40:55.860
+That's very interesting. So they, because we have different
+
+649
+00:40:55.860 --> 00:40:59.739
+kinds of microRNAs that might be active in different
+
+650
+00:40:59.739 --> 00:41:03.540
+steps of cell differentiation, they partic, they have a
+
+651
+00:41:03.540 --> 00:41:07.850
+big role in the coordination of gene expression,
+
+652
+00:41:08.080 --> 00:41:12.419
+correct? Yeah, absolutely, and, and they're working in, in
+
+653
+00:41:12.419 --> 00:41:15.449
+different ways, so there isn't a single way, but,
+
+654
+00:41:15.820 --> 00:41:19.620
+uh, for example, some microRNAs are switched on to
+
+655
+00:41:19.620 --> 00:41:23.429
+help shut down genes that are no longer needed
+
+656
+00:41:23.429 --> 00:41:27.629
+beyond a certain stage of development. Whereas other microRNAs
+
+657
+00:41:27.629 --> 00:41:30.909
+are producing more sort of subtle effects on on
+
+658
+00:41:30.909 --> 00:41:35.310
+gene activity, increasing or decreasing levels of particular transcription
+
+659
+00:41:35.310 --> 00:41:40.310
+factors and other genes that are critical as cells
+
+660
+00:41:40.310 --> 00:41:44.429
+begin to go down uh particular lines of differentiation
+
+661
+00:41:44.429 --> 00:41:46.469
+into specialized cell types.
+
+662
+00:41:47.229 --> 00:41:49.429
+Uh, COULD you give us perhaps a, a couple
+
+663
+00:41:49.429 --> 00:41:54.149
+of examples of microRNAs that we know are unique
+
+664
+00:41:54.149 --> 00:41:57.709
+to humans and perhaps uh the roles they play?
+
+665
+00:41:58.879 --> 00:42:01.620
+So at the moment, the functions that we've been
+
+666
+00:42:01.620 --> 00:42:05.419
+able to determine for microns are quite limited, but
+
+667
+00:42:05.419 --> 00:42:10.229
+they're mainly around functions within the brain. What we've
+
+668
+00:42:10.229 --> 00:42:15.270
+learned about unique to human microRNA's is that they're
+
+669
+00:42:15.270 --> 00:42:20.030
+at the moment expressed at quite low levels. Now,
+
+670
+00:42:20.389 --> 00:42:25.840
+this is important because. MicroRNAs that are expressed only
+
+671
+00:42:25.840 --> 00:42:29.560
+weekly within cells, sort of at low levels, probably
+
+672
+00:42:29.560 --> 00:42:34.469
+don't have a very strong effect on gene activity.
+
+673
+00:42:35.689 --> 00:42:38.909
+And what you tend to see is that these
+
+674
+00:42:38.909 --> 00:42:42.229
+new, if you like, unique to human microAs are
+
+675
+00:42:42.229 --> 00:42:45.149
+still expressed at quite a low level within the
+
+676
+00:42:45.149 --> 00:42:48.590
+cell. We think over time, over evolutionary time, the
+
+677
+00:42:48.590 --> 00:42:52.510
+expression of some of these will increase and become
+
+678
+00:42:52.510 --> 00:42:56.110
+more and more important for that organism. So it's
+
+679
+00:42:56.110 --> 00:42:59.219
+still quite early days to to know for certain
+
+680
+00:42:59.219 --> 00:43:02.020
+what these unique to human microns are are doing,
+
+681
+00:43:02.229 --> 00:43:05.399
+but it seems to be. Uh, IN terms of
+
+682
+00:43:05.399 --> 00:43:08.719
+the brain, it seems to be to affect the
+
+683
+00:43:08.719 --> 00:43:11.429
+number of cells that we have within the brain
+
+684
+00:43:11.919 --> 00:43:16.639
+and the complexity of the brain cells themselves. So
+
+685
+00:43:16.639 --> 00:43:19.399
+what we've learned from neuroscience over the last few
+
+686
+00:43:19.399 --> 00:43:23.260
+years is that a number of cell types within
+
+687
+00:43:23.260 --> 00:43:28.629
+the brain are, are more complex, more elaborate than
+
+688
+00:43:28.629 --> 00:43:33.610
+we see in lower organisms. And it's possible that
+
+689
+00:43:33.610 --> 00:43:36.050
+some of these unique to human microAs are, are
+
+690
+00:43:36.050 --> 00:43:41.360
+contributing to those very elaborate brain cells that are,
+
+691
+00:43:41.389 --> 00:43:44.929
+are particularly important for some of the functions that
+
+692
+00:43:44.929 --> 00:43:46.239
+are unique to humans.
+
+693
+00:43:46.689 --> 00:43:51.370
+Mhm. And uh are there specific aspects of, let's
+
+694
+00:43:51.370 --> 00:43:55.929
+say, brain physiology and brain brain cell structure that
+
+695
+00:43:55.929 --> 00:43:59.459
+we already know microRNAs participate in?
+
+696
+00:44:00.189 --> 00:44:04.620
+Yeah, there are actually dozens of examples where we've
+
+697
+00:44:04.620 --> 00:44:08.689
+learned in really great detail what the microRNA is
+
+698
+00:44:08.699 --> 00:44:12.379
+is doing, what its target is, and by targeting
+
+699
+00:44:12.379 --> 00:44:15.899
+a particular protein coding gene, how that's affecting the
+
+700
+00:44:15.899 --> 00:44:19.659
+structure of brain cells. So one of the best
+
+701
+00:44:19.659 --> 00:44:23.820
+understood functions of microna within the brain is is
+
+702
+00:44:23.820 --> 00:44:28.300
+controlling the contact points between one brain cell and
+
+703
+00:44:28.300 --> 00:44:31.830
+another. So if you imagine a cell within the
+
+704
+00:44:31.830 --> 00:44:36.790
+brain. It receives information from other brain cells. It
+
+705
+00:44:36.790 --> 00:44:39.149
+talks to other brain cells at these little points
+
+706
+00:44:39.149 --> 00:44:43.060
+we call synapses. And the synapse is a little
+
+707
+00:44:43.060 --> 00:44:46.770
+structure where the input from one cell, the axon
+
+708
+00:44:47.060 --> 00:44:50.939
+comes into very close proximity to the surface of
+
+709
+00:44:50.939 --> 00:44:53.139
+the next neuron. And on that surface there's a
+
+710
+00:44:53.139 --> 00:44:57.139
+little protuberance we call a dendritic spine. And this
+
+711
+00:44:57.139 --> 00:44:59.860
+is really where the input signal is coming from
+
+712
+00:44:59.860 --> 00:45:04.010
+one brain cell to another. And microRNAs are busy
+
+713
+00:45:04.100 --> 00:45:09.399
+inside that little structure, that dendrite. Producing the right
+
+714
+00:45:09.399 --> 00:45:13.520
+shape and even adapting that shape according to the
+
+715
+00:45:13.520 --> 00:45:17.520
+signals that are received. So microRNAs, for example, contribute
+
+716
+00:45:17.520 --> 00:45:20.439
+to kind of building up the the spine, the
+
+717
+00:45:20.439 --> 00:45:24.639
+dendrite, to make it bigger. That's thought to be
+
+718
+00:45:24.639 --> 00:45:28.520
+important for plasticity within the brain, how we learn,
+
+719
+00:45:28.679 --> 00:45:31.639
+how we remember. But there are also microns that
+
+720
+00:45:31.639 --> 00:45:36.469
+contribute to these spines shrinking in size. And sometimes
+
+721
+00:45:36.469 --> 00:45:38.310
+we want to remove things. We want to get
+
+722
+00:45:38.310 --> 00:45:43.070
+rid of contact points between brain cells. And so
+
+723
+00:45:43.070 --> 00:45:46.939
+there's a group of microRNAs that act on the
+
+724
+00:45:46.939 --> 00:45:51.110
+structural elements, so proteins that actually produce these little
+
+725
+00:45:51.110 --> 00:45:55.340
+shapes, but also the enzymes that work within them.
+
+726
+00:45:55.590 --> 00:45:59.030
+So within one of these dendritic spines, you would
+
+727
+00:45:59.030 --> 00:46:04.040
+have receptors on the surface for neurotransmitter. And the
+
+728
+00:46:04.050 --> 00:46:07.239
+amount of those receptors on the surface would be
+
+729
+00:46:07.239 --> 00:46:12.169
+controlled by the microRNAs within. And they've even learned
+
+730
+00:46:12.169 --> 00:46:15.370
+that as one signal from one nerve cell to
+
+731
+00:46:15.370 --> 00:46:20.280
+another passes through that structure, it stimulates the local
+
+732
+00:46:20.280 --> 00:46:24.850
+production of microRNAs that then regulate the levels of
+
+733
+00:46:24.850 --> 00:46:28.620
+the proteins within that structure. So microRNAs are absolutely
+
+734
+00:46:28.620 --> 00:46:33.510
+critical for, first of all, Producing the structure of
+
+735
+00:46:33.510 --> 00:46:39.229
+brain cells, but also making them plastic, allowing synapses
+
+736
+00:46:39.229 --> 00:46:42.500
+to change, to adjust to incoming information.
+
+737
+00:46:43.540 --> 00:46:46.939
+Mhm. So, yeah, so they play an active, a
+
+738
+00:46:46.939 --> 00:46:51.260
+very active role in cell communication, particularly in the
+
+739
+00:46:51.260 --> 00:46:52.290
+brain, correct.
+
+740
+00:46:52.790 --> 00:46:55.649
+Yeah, I, there are very few processes, in fact,
+
+741
+00:46:55.719 --> 00:46:59.229
+that haven't been. Linked in some way to to
+
+742
+00:46:59.229 --> 00:47:02.870
+microRNAs. So as I was saying um with that
+
+743
+00:47:02.870 --> 00:47:06.030
+example earlier, the, the, the input from one cell
+
+744
+00:47:06.030 --> 00:47:07.830
+to another, the end of that is called the
+
+745
+00:47:07.830 --> 00:47:12.260
+axon terminal. So that also has some very specialized
+
+746
+00:47:12.479 --> 00:47:17.840
+uh receptors and proteins, and those are also. Regulated
+
+747
+00:47:17.840 --> 00:47:20.989
+by microRNAs. So almost all of the structures and
+
+748
+00:47:20.989 --> 00:47:24.870
+functions of neurons are regulated to some degree by
+
+749
+00:47:24.870 --> 00:47:28.360
+microRNAs, and the estimate is that more than half
+
+750
+00:47:28.360 --> 00:47:31.120
+of all of the genes within our genome are
+
+751
+00:47:31.120 --> 00:47:34.879
+regulated to some degree by microRNA, and there's there
+
+752
+00:47:34.879 --> 00:47:39.540
+probably really isn't a process. Within the cell that
+
+753
+00:47:40.179 --> 00:47:42.540
+isn't in some way impacted by microRNA.
+
+754
+00:47:43.280 --> 00:47:47.149
+But you mentioned the receptors, uh, what about the
+
+755
+00:47:47.149 --> 00:47:51.330
+neurotransmitters? I mean, do we know if microRNAs participate
+
+756
+00:47:51.330 --> 00:47:55.330
+in any way in the production and release of
+
+757
+00:47:55.330 --> 00:47:58.169
+neurotransmitters into the synapse or?
+
+758
+00:47:59.090 --> 00:48:02.689
+So what we know is that the machinery that
+
+759
+00:48:02.689 --> 00:48:06.139
+sort of loads up the neurotransmitter and has it
+
+760
+00:48:06.139 --> 00:48:09.449
+ready to be released, the machinery for that process
+
+761
+00:48:09.449 --> 00:48:14.929
+is also regulated by microRNAs. So the neurotransmitter molecule.
+
+762
+00:48:15.235 --> 00:48:17.205
+It itself is a is a small, uh, is
+
+763
+00:48:17.205 --> 00:48:20.225
+a small chemical, it's not a protein, so it's
+
+764
+00:48:20.225 --> 00:48:23.705
+not directly regulated by micron, but the, the machinery
+
+765
+00:48:23.705 --> 00:48:27.064
+that gets that neurotransmitter ready for release, all of
+
+766
+00:48:27.064 --> 00:48:31.344
+those stages can be modulated and adjusted by microRNA.
+
+767
+00:48:32.739 --> 00:48:36.260
+So perhaps talking now a little bit about some
+
+768
+00:48:36.260 --> 00:48:40.300
+higher level processes we read in the domain of
+
+769
+00:48:40.300 --> 00:48:43.760
+psychology here. Do, do, do we know if they
+
+770
+00:48:43.760 --> 00:48:48.300
+play role, specific roles in human cognition and, and
+
+771
+00:48:48.300 --> 00:48:49.129
+intelligence?
+
+772
+00:48:50.209 --> 00:48:52.399
+Yes, so we've learned that there are a number
+
+773
+00:48:52.399 --> 00:48:56.159
+of microRNAs that are important for the the structure
+
+774
+00:48:56.159 --> 00:49:00.290
+of the brain, and as mentioned already, there are
+
+775
+00:49:00.290 --> 00:49:03.439
+human specific microRNAs. So we're at the point where
+
+776
+00:49:03.439 --> 00:49:07.250
+we're trying to learn what particular micronAs do in
+
+777
+00:49:07.250 --> 00:49:11.969
+terms of influence particular functions of the brain. And
+
+778
+00:49:11.969 --> 00:49:13.689
+one of the ways that we can learn what
+
+779
+00:49:13.689 --> 00:49:17.439
+they do is to to study a model organism,
+
+780
+00:49:17.729 --> 00:49:22.239
+for example, a mouse. Where you can adjust the
+
+781
+00:49:22.239 --> 00:49:24.540
+gene more easily than you could have, you know,
+
+782
+00:49:24.639 --> 00:49:26.669
+you could do in a in a human model.
+
+783
+00:49:27.540 --> 00:49:32.520
+And by studying microRNAs in these organisms, we've been
+
+784
+00:49:32.520 --> 00:49:36.110
+able to learn what that microRNA does in terms
+
+785
+00:49:36.110 --> 00:49:39.629
+of, of shaping brain function and, and shaping cognition.
+
+786
+00:49:39.659 --> 00:49:42.639
+And so we've identified micronAs that are important for
+
+787
+00:49:42.639 --> 00:49:46.810
+learning and memory. So perhaps an experiment. Interferes or
+
+788
+00:49:46.810 --> 00:49:50.010
+removes the microRNA gene and you then find that
+
+789
+00:49:50.010 --> 00:49:54.169
+uh the mouse can't learn properly to navigate through
+
+790
+00:49:54.169 --> 00:49:58.840
+a maze. And we can integrate that understanding from
+
+791
+00:49:58.840 --> 00:50:03.530
+how model organisms work to humans by looking for
+
+792
+00:50:03.530 --> 00:50:10.399
+human diseases in which we might find microRNA variation
+
+793
+00:50:10.399 --> 00:50:13.760
+or mutation. And there have been a number of
+
+794
+00:50:13.760 --> 00:50:18.080
+human brain diseases in which levels of particular microRNAs
+
+795
+00:50:18.080 --> 00:50:20.840
+are found to be altered or there are perhaps
+
+796
+00:50:20.840 --> 00:50:24.290
+a mutation in the gene for a particular microRNA
+
+797
+00:50:24.290 --> 00:50:27.709
+and then By understanding and studying that more, you
+
+798
+00:50:27.709 --> 00:50:29.270
+can, you can learn a little bit about what
+
+799
+00:50:29.270 --> 00:50:32.189
+that micron a gene is normally doing based on
+
+800
+00:50:32.189 --> 00:50:34.709
+what it's not doing in the disease setting.
+
+801
+00:50:35.790 --> 00:50:37.750
+Uh, COULD you give us an example of one
+
+802
+00:50:37.750 --> 00:50:40.750
+of those brain diseases that we already know we
+
+803
+00:50:40.750 --> 00:50:44.620
+have some association with microRNA malfunction?
+
+804
+00:50:45.719 --> 00:50:49.290
+Yeah, so, so far, most brain diseases that have
+
+805
+00:50:49.290 --> 00:50:52.120
+been studied have have been found to have some
+
+806
+00:50:52.120 --> 00:50:55.639
+kind of a microRNA link. Now that might be
+
+807
+00:50:55.639 --> 00:50:58.439
+that the activity of microRNA genes is a little
+
+808
+00:50:58.439 --> 00:51:00.639
+bit higher or a little bit lower, or it
+
+809
+00:51:00.639 --> 00:51:04.090
+might be a sort of genetic variation in a
+
+810
+00:51:04.090 --> 00:51:07.870
+microRNA gene that, that, that may be responsible for
+
+811
+00:51:07.870 --> 00:51:10.770
+that brain condition. And so there are examples, for
+
+812
+00:51:10.770 --> 00:51:14.719
+example, motor neuron disease. This is also known as
+
+813
+00:51:14.719 --> 00:51:18.530
+ALS. So in motor neuron disease, people have identified
+
+814
+00:51:18.530 --> 00:51:22.969
+a microA that's particularly abundant in our motor neurons.
+
+815
+00:51:23.010 --> 00:51:26.050
+They're the neurons that, that produce contraction of our
+
+816
+00:51:26.050 --> 00:51:30.479
+skeletal muscle. And in those patients, they found that
+
+817
+00:51:30.479 --> 00:51:34.229
+there were lower levels of this microRNA than normal,
+
+818
+00:51:34.399 --> 00:51:37.639
+and that that seems to disturb gene activity in
+
+819
+00:51:37.639 --> 00:51:40.320
+motor neurons, and that if you can kind of
+
+820
+00:51:40.320 --> 00:51:44.149
+rescue that by putting the microRNA gene back in,
+
+821
+00:51:44.250 --> 00:51:47.360
+then you can recover some of those functions, and
+
+822
+00:51:47.360 --> 00:51:49.800
+this is obviously experimental work, but, but has the
+
+823
+00:51:49.800 --> 00:51:53.320
+potential to go into humans in in the future.
+
+824
+00:51:54.250 --> 00:51:57.250
+My area of most influence is around the brain
+
+825
+00:51:57.250 --> 00:52:01.540
+disease epilepsy, and we've identified a number of microRNAs
+
+826
+00:52:01.810 --> 00:52:04.179
+that are either at higher levels or lower levels
+
+827
+00:52:04.179 --> 00:52:08.340
+than normal within the brain tissue that is triggering
+
+828
+00:52:08.340 --> 00:52:12.850
+seizures, which are the defining characteristic of of epilepsy.
+
+829
+00:52:14.199 --> 00:52:16.770
+And so at this point in time, is it
+
+830
+00:52:16.770 --> 00:52:21.500
+already possible to use microRNAs for diagnosis?
+
+831
+00:52:23.110 --> 00:52:25.149
+So at the moment, there are 1 or 2
+
+832
+00:52:25.149 --> 00:52:28.540
+diagnostic tests out there, really in the cancer field,
+
+833
+00:52:28.629 --> 00:52:32.510
+which are based on measuring levels of microRNAs, for
+
+834
+00:52:32.510 --> 00:52:35.530
+example, in the, in the blood. So it turns
+
+835
+00:52:35.530 --> 00:52:37.639
+out that you can actually pick up, you can
+
+836
+00:52:37.639 --> 00:52:41.469
+detect levels of dozens of different microRNAs within the
+
+837
+00:52:41.469 --> 00:52:45.439
+blood. It's they're sort of normally circulating around and
+
+838
+00:52:46.209 --> 00:52:48.649
+One of the features of microna is that in
+
+839
+00:52:48.649 --> 00:52:53.090
+the adult organisms, some of them are expressed uniquely
+
+840
+00:52:53.610 --> 00:52:55.649
+in different parts of the body. So there are
+
+841
+00:52:55.649 --> 00:52:58.370
+a set of microna that are only ever made
+
+842
+00:52:58.370 --> 00:53:01.050
+in the brain, microna that maybe only ever made
+
+843
+00:53:01.050 --> 00:53:05.409
+in the liver. So if you can detect those
+
+844
+00:53:05.409 --> 00:53:08.770
+microRNAs sort of circulating around in the blood, then
+
+845
+00:53:08.770 --> 00:53:11.250
+it might be an indication that that organ or
+
+846
+00:53:11.250 --> 00:53:15.000
+that system is, is malfunctioning. So at the moment,
+
+847
+00:53:15.250 --> 00:53:18.370
+most of the tests that have begun to be
+
+848
+00:53:18.370 --> 00:53:22.010
+used in, in the clinic are tests for microna
+
+849
+00:53:22.010 --> 00:53:25.899
+that have been linked to cancer. It's possible in
+
+850
+00:53:25.899 --> 00:53:27.580
+the future, and this is one of the areas
+
+851
+00:53:27.580 --> 00:53:29.820
+we're working on and and many others, that some
+
+852
+00:53:29.820 --> 00:53:34.330
+of the brain diseases that have a microRNA link
+
+853
+00:53:34.330 --> 00:53:37.550
+may also have a sort of a blood signature.
+
+854
+00:53:38.270 --> 00:53:41.659
+Of the disease based on, on particular levels of
+
+855
+00:53:41.659 --> 00:53:44.530
+microRNAs within the blood. We, we're still working on
+
+856
+00:53:44.530 --> 00:53:46.669
+that and it's not all the way there yet,
+
+857
+00:53:46.899 --> 00:53:49.540
+but that we're optimistic that that there will be
+
+858
+00:53:49.540 --> 00:53:52.459
+a signal from brain diseases that can be picked
+
+859
+00:53:52.459 --> 00:53:55.699
+up within the blood, um based on the combination
+
+860
+00:53:55.699 --> 00:53:57.330
+of micronA levels that are there.
+
+861
+00:53:58.290 --> 00:54:03.350
+And are there already any therapeutic applications for microRNAs?
+
+862
+00:54:03.409 --> 00:54:05.810
+I mean, is it already possible to use them
+
+863
+00:54:05.810 --> 00:54:07.379
+to treat diseases?
+
+864
+00:54:08.229 --> 00:54:11.949
+Yeah, so interestingly enough, the search to develop a
+
+865
+00:54:11.949 --> 00:54:15.510
+microRNA medicine began within just a few years of
+
+866
+00:54:15.510 --> 00:54:20.030
+discovering microRNA genes in humans. So microRNA genes were
+
+867
+00:54:20.030 --> 00:54:21.709
+first found in humans in the, in the year
+
+868
+00:54:21.709 --> 00:54:27.120
+2000. And then in 2005, uh, a team discovered
+
+869
+00:54:27.120 --> 00:54:30.229
+that there was a, a virus, the virus for
+
+870
+00:54:30.229 --> 00:54:36.179
+hepatitis C. Sort of hijacks one of the microRNAs
+
+871
+00:54:36.179 --> 00:54:38.260
+that we normally make at high levels in our
+
+872
+00:54:38.260 --> 00:54:43.020
+liver. So there's this micronic called microna 122. The
+
+873
+00:54:43.020 --> 00:54:45.909
+microns are all numbered rather than given a name
+
+874
+00:54:45.909 --> 00:54:49.469
+like a traditional protein coding gene. So microny 122
+
+875
+00:54:49.469 --> 00:54:52.350
+is uniquely made in the liver and the hepatitis
+
+876
+00:54:52.350 --> 00:54:58.840
+C virus. Replicates and infects liver cells by using.
+
+877
+00:54:59.530 --> 00:55:04.379
+The, the microRNA within the liver. So shortly after
+
+878
+00:55:04.379 --> 00:55:06.739
+that discovery was made, somebody thought, oh, hang on
+
+879
+00:55:06.739 --> 00:55:10.379
+a sec, if we can block that liver microRNA
+
+880
+00:55:10.379 --> 00:55:14.479
+maybe we can stop the virus from replicating. So,
+
+881
+00:55:14.850 --> 00:55:17.929
+this triggered um a program of research in a
+
+882
+00:55:17.929 --> 00:55:20.689
+couple of different companies to try to develop a
+
+883
+00:55:20.689 --> 00:55:24.649
+medicine that would block this microRNA to treat hepatitis
+
+884
+00:55:24.649 --> 00:55:28.510
+C. And one of those medicines got all the
+
+885
+00:55:28.510 --> 00:55:31.270
+way through to human clinical trials, was shown to
+
+886
+00:55:31.270 --> 00:55:34.659
+be safe and effective. In fact, if you, if
+
+887
+00:55:34.659 --> 00:55:38.149
+you injected this microRNA inhibitor, you could see levels
+
+888
+00:55:38.149 --> 00:55:42.090
+of the hepatitis C virus dropping in these patients.
+
+889
+00:55:42.989 --> 00:55:47.830
+So microRNAs. Have already, if you like, reached human
+
+890
+00:55:47.830 --> 00:55:52.080
+clinical trials as, as medicines. However, we don't yet
+
+891
+00:55:52.080 --> 00:55:55.310
+have a medicine that is on the market for
+
+892
+00:55:55.310 --> 00:56:00.040
+microRNA's. There are a number of companies around the
+
+893
+00:56:00.040 --> 00:56:04.669
+world, biotechs and pharma companies that are designing either
+
+894
+00:56:04.669 --> 00:56:07.959
+a microRNA inhibitor or a way to produce more
+
+895
+00:56:07.959 --> 00:56:12.080
+of a particular microRNA to treat different diseases. In
+
+896
+00:56:12.080 --> 00:56:15.620
+fact, there was a recent acquisition. Uh, FOR a
+
+897
+00:56:15.620 --> 00:56:20.060
+heart-based treatment that was targeting a particular microRNA. So
+
+898
+00:56:20.060 --> 00:56:23.100
+it's an area of very active research, but yeah,
+
+899
+00:56:23.219 --> 00:56:26.090
+there is not yet a human micro medicine in,
+
+900
+00:56:26.100 --> 00:56:29.060
+in regular use, but I'm optimistic that uh, that
+
+901
+00:56:29.060 --> 00:56:30.659
+there will be in the, in the very near
+
+902
+00:56:30.659 --> 00:56:31.020
+future.
+
+903
+00:56:32.060 --> 00:56:35.570
+So, let me just ask you one final more
+
+904
+00:56:35.570 --> 00:56:40.729
+general question. So, with microRNA's, uh, and together with
+
+905
+00:56:40.729 --> 00:56:44.530
+perhaps some other forms of gene regulation that we've
+
+906
+00:56:44.530 --> 00:56:46.610
+talked a little bit about at the beginning of
+
+907
+00:56:46.610 --> 00:56:51.120
+our conversation and things related to epigenetics, for example,
+
+908
+00:56:51.409 --> 00:56:55.919
+doesn't it complexify the picture of genetics in the,
+
+909
+00:56:56.050 --> 00:56:58.949
+in the way that, OK, it's not just That
+
+910
+00:56:58.949 --> 00:57:03.149
+we have particular protein coding genes that produce particular
+
+911
+00:57:03.149 --> 00:57:06.570
+kinds of proteins. And so whatever genes we have
+
+912
+00:57:06.570 --> 00:57:10.709
+are directly associated with particular kinds of phenotypes, but
+
+913
+00:57:11.080 --> 00:57:14.830
+because we have molecules like microRNAs that participate in
+
+914
+00:57:14.830 --> 00:57:18.909
+regulating particular uh the levels of particular kinds of
+
+915
+00:57:18.909 --> 00:57:22.350
+proteins and they participate in things like, as we
+
+916
+00:57:22.350 --> 00:57:26.879
+talked, as we talked about speciation. And, and, uh,
+
+917
+00:57:26.889 --> 00:57:29.370
+development and stuff like that. I mean, the, the
+
+918
+00:57:29.370 --> 00:57:33.570
+picture is much more complex than simply having uh
+
+919
+00:57:33.570 --> 00:57:37.889
+the, the sequence of DNA that produces those specific
+
+920
+00:57:37.889 --> 00:57:41.010
+kinds of proteins and that lead to a particular
+
+921
+00:57:41.010 --> 00:57:42.040
+phenotype.
+
+922
+00:57:42.870 --> 00:57:45.689
+Right. Yeah, absolutely. I think over the last few
+
+923
+00:57:45.689 --> 00:57:50.489
+decades, there's been a complete rethinking of how genomes
+
+924
+00:57:50.489 --> 00:57:54.469
+are really working. That for, for, for a long
+
+925
+00:57:54.469 --> 00:57:57.510
+period of time, the focus was exclusively on protein
+
+926
+00:57:57.510 --> 00:58:02.090
+coding genes, and now we know that. The vast
+
+927
+00:58:02.090 --> 00:58:05.929
+majority of the, the genome is, is active in
+
+928
+00:58:05.929 --> 00:58:09.469
+a way. So. If you actually just look at
+
+929
+00:58:09.469 --> 00:58:12.580
+the sequences that code for protein, it's only around
+
+930
+00:58:12.629 --> 00:58:15.590
+2 to 3% of the, all of the DNA
+
+931
+00:58:15.590 --> 00:58:17.889
+that we have, you know, so only 2 to
+
+932
+00:58:17.889 --> 00:58:21.600
+3% of our genome is really dedicated to producing
+
+933
+00:58:21.909 --> 00:58:27.760
+proteins. But 70, 80% of the remainder of the
+
+934
+00:58:27.760 --> 00:58:32.120
+genome is actively transcribing RNAs and these RNAs are
+
+935
+00:58:32.120 --> 00:58:35.719
+influencing how genes are switched on and off, how
+
+936
+00:58:35.719 --> 00:58:39.320
+they're red, how active they are, and microRNAs are
+
+937
+00:58:39.320 --> 00:58:42.560
+a really important component of that one. A world
+
+938
+00:58:42.850 --> 00:58:47.120
+of RNA, which is how our genomes really work,
+
+939
+00:58:47.159 --> 00:58:51.770
+and in particular, how complex genomes, such as the
+
+940
+00:58:51.770 --> 00:58:56.409
+human genome work. They're basically covered in these other
+
+941
+00:58:56.409 --> 00:59:00.080
+types of genes that produce RNA. And that RNA
+
+942
+00:59:00.080 --> 00:59:02.520
+doesn't cope with protein, it remains as RNA. It
+
+943
+00:59:02.520 --> 00:59:08.479
+functions structurally, it functions as enzymes, regulating, fine tuning
+
+944
+00:59:08.479 --> 00:59:11.560
+the activity of genes and, and giving rise to
+
+945
+00:59:11.560 --> 00:59:14.439
+the, to the wondrous sort of complexity of, of
+
+946
+00:59:14.439 --> 00:59:15.870
+organisms such as ourselves.
+
+947
+00:59:17.260 --> 00:59:20.239
+Great. So the book is again fine-tuning life, a
+
+948
+00:59:20.239 --> 00:59:24.399
+guide to microRNAs, your genomes, master regulators. I'm leaving
+
+949
+00:59:24.399 --> 00:59:26.439
+a link to it in the description of the
+
+950
+00:59:26.439 --> 00:59:30.040
+interview, and Dr. Henschel, apart from the book, where
+
+951
+00:59:30.040 --> 00:59:32.739
+can people find your work on the internet?
+
+952
+00:59:33.360 --> 00:59:36.239
+So the easiest way to search for research by
+
+953
+00:59:36.239 --> 00:59:40.030
+my lab would be to use PubMed, which is
+
+954
+00:59:40.030 --> 00:59:42.320
+the, the, the main way that uh most of
+
+955
+00:59:42.320 --> 00:59:45.199
+the people in, in our field would search for
+
+956
+00:59:45.199 --> 00:59:49.100
+new publications. So if you look up PubMed, um,
+
+957
+00:59:49.139 --> 00:59:51.100
+and then you just, you would type in my
+
+958
+00:59:51.100 --> 00:59:54.459
+name or my name plus microRNA, then you'll see
+
+959
+00:59:54.459 --> 00:59:57.100
+some of the research that we've published. And equally,
+
+960
+00:59:57.139 --> 01:00:00.290
+if you're interested in other aspects of microRNA research,
+
+961
+01:00:00.379 --> 01:00:03.100
+you know, maybe microRNAs and and evolution, you can
+
+962
+01:00:03.100 --> 01:00:07.534
+also find. That uh through PubMed. Also, the book
+
+963
+01:00:07.534 --> 01:00:10.415
+itself contains a long list of references to all
+
+964
+01:00:10.415 --> 01:00:12.854
+of the key points that we've discussed today, as
+
+965
+01:00:12.854 --> 01:00:15.885
+well as some of the aspects of microRNAs that
+
+966
+01:00:15.895 --> 01:00:17.975
+that um that that weren't covered. So there's a
+
+967
+01:00:17.975 --> 01:00:20.895
+rich source of references and reading material within the
+
+968
+01:00:20.895 --> 01:00:21.175
+book.
+
+969
+01:00:22.449 --> 01:00:25.229
+Great. So, look, Doctor Henschel, I really love the
+
+970
+01:00:25.229 --> 01:00:27.770
+book. I can't recommend it enough to my audience,
+
+971
+01:00:27.870 --> 01:00:30.709
+so I hope that everyone after they've watched or
+
+972
+01:00:30.709 --> 01:00:33.219
+listened to this interview, runs and buys the book.
+
+973
+01:00:33.350 --> 01:00:35.389
+So thank you so much for the interview. It's
+
+974
+01:00:35.389 --> 01:00:36.860
+been very fascinating.
+
+975
+01:00:37.189 --> 01:00:39.229
+Thanks very much for having me on. Thank you.
+
+976
+01:00:40.600 --> 01:00:43.120
+Hi guys, thank you for watching this interview until
+
+977
+01:00:43.120 --> 01:00:45.270
+the end. If you liked it, please share it,
+
+978
+01:00:45.439 --> 01:00:48.229
+leave a like and hit the subscription button. The
+
+979
+01:00:48.229 --> 01:00:50.429
+show is brought to you by Nights Learning and
+
+980
+01:00:50.429 --> 01:00:54.510
+Development done differently, check their website at Nights.com and
+
+981
+01:00:54.510 --> 01:00:58.229
+also please consider supporting the show on Patreon or
+
+982
+01:00:58.229 --> 01:01:00.709
+PayPal. I would also like to give a huge
+
+983
+01:01:00.709 --> 01:01:03.820
+thank you to my main patrons and PayPal supporters
+
+984
+01:01:03.820 --> 01:01:08.040
+Perergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyches Olaf,
+
+985
+01:01:08.149 --> 01:01:11.399
+Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis,
+
+986
+01:01:11.530 --> 01:01:14.820
+Erika Lenny, John Connors, Philip Fors Connolly. Then the
+
+987
+01:01:14.820 --> 01:01:18.620
+Mari Robert Windegaruyasi Zup Mark Nes called in Holbrookfield
+
+988
+01:01:18.620 --> 01:01:23.379
+governor Michael Stormir, Samuel Andre Francis Forti Agnsergoro and
+
+989
+01:01:23.379 --> 01:01:28.139
+Hal Herzognun Macha Joan Labray and Samuel Corriere, Heinz,
+
+990
+01:01:28.199 --> 01:01:31.860
+Mark Smith, Jore, Tom Hummel, Sardus France David Sloan
+
+991
+01:01:31.860 --> 01:01:36.649
+Wilson, asilla dearauurumen Roach Diego London Correa. Yannick Punter
+
+992
+01:01:36.649 --> 01:01:41.780
+Darusmani Charlotte blinikol Barbara Adamhn Pavlostaevsky nale back medicine,
+
+993
+01:01:41.850 --> 01:01:46.439
+Gary Galman Sam of Zaledrianeioltonin John Barboza, Julian Price,
+
+994
+01:01:46.729 --> 01:01:51.169
+Edward Hall Edin Bronner, Douglas Fre Franca Bortolotti Gabrielon
+
+995
+01:01:51.169 --> 01:01:55.649
+Scorteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John
+
+996
+01:01:55.649 --> 01:02:00.570
+Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai
+
+997
+01:02:00.570 --> 01:02:05.760
+Giorgio Theophanous, Chris Williamson, Peter Wozin, David Williams, Diocosta,
+
+998
+01:02:05.840 --> 01:02:10.080
+Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli
+
+999
+01:02:10.080 --> 01:02:14.439
+Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo.
+
+1000
+01:02:15.199 --> 01:02:19.870
+Sterry Michael Bailey, then Sperber, Robert Grassyigoren, Jeff McMann,
+
+1001
+01:02:20.040 --> 01:02:24.199
+Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke
+
+1002
+01:02:24.199 --> 01:02:28.719
+Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki,
+
+1003
+01:02:28.770 --> 01:02:34.520
+Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin
+
+1004
+01:02:34.520 --> 01:02:40.639
+Steinman, Perkrolis, Kate van Goller, Alexander Aart, Liam Dunaway,
+
+1005
+01:02:40.750 --> 01:02:46.280
+BR Masud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov,
+
+1006
+01:02:46.429 --> 01:02:51.070
+Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and
+
+1007
+01:02:51.070 --> 01:02:54.250
+Jos Net. A special thanks to my producers. These
+
+1008
+01:02:54.250 --> 01:02:57.699
+are Webb, Jim, Frank Lucas Steffini, Tom Venneden, Bernard
+
+1009
+01:02:57.699 --> 01:03:02.010
+Curtis Dixon, Benick Muller, Thomas Trumbull, Catherine and Patrick
+
+1010
+01:03:02.010 --> 01:03:05.340
+Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden,
+
+1011
+01:03:05.610 --> 01:03:08.850
+and to my executive producers, Matthew Levender, Sai Quadrian,
+
+1012
+01:03:08.969 --> 01:03:11.600
+Bogdan Kanivets, and Rosie. Thank you for all.
+

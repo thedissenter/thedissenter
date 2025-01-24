@@ -5,6 +5,7 @@
 	"episodeid": "1050",
 	"excerpt": "Dr. David Henshall is Professor of Physiology and Medical Physics at the Royal College of Surgeons in Ireland. His laboratory is studying cell and molecular mechanisms of epilepsy. His research team combines cell and molecular biology techniques, data science and bioinformatics, pharmacology, neuroscience and behavior, imaging and histology, and employs a range of experimental and human models. He is the author of Fine-Tuning Life: A Guide to MicroRNAs, Your Genome's Master Regulators.",
 	"image": "https://i.ytimg.com/vi/Ilyowk4UYzA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1050-david-henshall-fine-tuning-life-a-guide-to/id1451347236?i=1000685339784&uo=4",
 	"publishDate": 2025-01-24,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1050-David-Henshall---Fine-Tuning-Life-A-Guide-to-MicroRNAs--Your-Genomes-Master-Regulators-e2qe2ee",
 	"tags": [
@@ -12,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1050 David Henshall - Fine-Tuning Life: A Guide to MicroRNAs, Your Genome's Master Regulators",
-	"youtubeid": "Ilyowk4UYzA"
+	"vtt": "1050.vtt",
+	"youtubeid": "Ilyowk4UYzA",
+	"transcript": "1050.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 1st 2024.  

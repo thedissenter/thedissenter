@@ -5,6 +5,7 @@
 	"episodeid": "1049",
 	"excerpt": "Dr. Thaís Pansani is an Associate Researcher at the Smithsonian Museum of Natural History. Her main research questions are about human interaction with the Pleistocene megafauna in the Americas and the peopling of the Americas. She is interested in questions like: When did humans arrive in the Americas? Did humans interact with the Pleistocene megafauna? What were the environmental and ecological conditions in which these megamammals lived? What were the causes and consequences of the megafauna extinction in the American continent, especially in South America? How can we identify traces of human interaction in extinct animal bones through taphonomy and zooarchaeology?",
 	"image": "https://i.ytimg.com/vi/n3kIoDsjE9c/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1049-tha%C3%ADs-pansani-h-sapiens-in-the-americas/id1451347236?i=1000685211848&uo=4",
 	"publishDate": 2025-01-23,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1049-Thas-Pansani-H--sapiens-in-the-Americas--and-the-Extinction-of-Megafauna-e2q9qbs",
 	"tags": [
