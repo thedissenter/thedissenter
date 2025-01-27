@@ -11,7 +11,9 @@
 		"Anthropology"
 	],
 	"title": "#1051 Mary Shenk: The Sexual Division of Labor, Kinship Systems, Fertility, & More",
-	"youtubeid": "l4MzFUQhC_U"
+	"vtt": "1051.vtt",
+	"youtubeid": "l4MzFUQhC_U",
+	"transcript": "1051.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 7th 2024.  
