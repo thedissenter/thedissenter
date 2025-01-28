@@ -5,6 +5,7 @@
 	"episodeid": "1051",
 	"excerpt": "Dr. Mary Shenk is Associate Professor of Anthropology, Demography, and Asian Studies at Pennsylvania State University. She is a biocultural anthropologist, human behavioral ecologist, and anthropological demographer with interests in marriage, family, kinship, parental investment, fertility, mortality, and inequality. She has conducted field research on the economics of marriage and parental investment in urban South India, the causes of rapid fertility decline in rural Bangladesh, and the effects of market integration on wealth, social networks, and health in rural Bangladesh.",
 	"image": "https://i.ytimg.com/vi/l4MzFUQhC_U/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1051-mary-shenk-the-sexual-division-of-labor/id1451347236?i=1000685859508&uo=4",
 	"publishDate": 2025-01-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1051-Mary-Shenk-The-Sexual-Division-of-Labor--Kinship-Systems--Fertility---More-e2qmflj",
 	"tags": [
