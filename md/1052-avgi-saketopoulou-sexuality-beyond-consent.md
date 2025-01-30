@@ -11,7 +11,9 @@
 		"Psychology"
 	],
 	"title": "#1052 Avgi Saketopoulou: Sexuality Beyond Consent",
-	"youtubeid": "aBy285EmlSU"
+	"vtt": "1052.vtt",
+	"youtubeid": "aBy285EmlSU",
+	"transcript": "1052.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 4th 2024.  
