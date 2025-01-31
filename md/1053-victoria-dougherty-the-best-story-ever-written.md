@@ -5,13 +5,16 @@
 	"episodeid": "1053",
 	"excerpt": "Victoria Dougherty is the author of The Bone Church, Welcome to the Hotel Yalta, and Cold. She writes fiction, drama, and essays that revolve around lovers, killers, curses, and destinies. Her work has been published or profiled in the New York Times, USA Today, The International Herald Tribune, and elsewhere. Earlier in her career, while living in Prague, she co-founded Black Box Theater, translating, producing, and acting in several Czech plays. Her blog – COLD – features her short essays on faith, family, love, and writing. WordPress, the blogging platform that hosts some 70 million blogs worldwide, has singled out COLD as one of the Top 50 Recommended Blogs by writers or about writing. ",
 	"image": "https://i.ytimg.com/vi/iN9NaXjIFk4/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1053-victoria-dougherty-the-best-story-ever-written/id1451347236?i=1000687582221&uo=4",
 	"publishDate": 2025-01-31,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1053-Victoria-Dougherty-The-Best-Story-Ever-Written-e2qqrjk",
 	"tags": [
 		"Art"
 	],
 	"title": "#1053 Victoria Dougherty: The Best Story Ever Written?",
-	"youtubeid": "iN9NaXjIFk4"
+	"vtt": "1053.vtt",
+	"youtubeid": "iN9NaXjIFk4",
+	"transcript": "1053.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 9th 2024.  
