@@ -5,6 +5,7 @@
 	"episodeid": "1052",
 	"excerpt": "Dr. Avgi Saketopoulou is a psychoanalyst in private practice in NYC and a member of the faculty at the NYU Postdoctoral Program in Psychotherapy and Psychoanalysis. She is the author of Sexuality Beyond Consent: Risk, Race, Traumatophilia.",
 	"image": "https://i.ytimg.com/vi/aBy285EmlSU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1052-avgi-saketopoulou-sexuality-beyond-consent/id1451347236?i=1000687233099&uo=4",
 	"publishDate": 2025-01-30,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1052-Avgi-Saketopoulou-Sexuality-Beyond-Consent-e2qhrkg",
 	"tags": [
