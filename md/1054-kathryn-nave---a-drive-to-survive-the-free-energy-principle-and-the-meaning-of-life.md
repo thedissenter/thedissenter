@@ -5,6 +5,7 @@
 	"episodeid": "1054",
 	"excerpt": "Dr. Kathryn Nave is a Leverhulme Trust early career research fellow at the University of Edinburgh. Her research focuses on developing a realist account of autonomy and agency, grounded in the uniquely metabolic existence of living systems, and upon critiquing the machine concept of the organism in light of this distinctive material instability. She is the author of A Drive to Survive: The Free Energy Principle and the Meaning of Life.",
 	"image": "https://i.ytimg.com/vi/DKUAaqb9WnA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1054-kathryn-nave-a-drive-to-survive-the-free/id1451347236?i=1000688631495&uo=4",
 	"publishDate": 2025-02-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1054-Kathryn-Nave---A-Drive-to-Survive-The-Free-Energy-Principle-and-the-Meaning-of-Life-e2pha68",
 	"tags": [
@@ -13,7 +14,9 @@
 		"Philosophy"
 	],
 	"title": "#1054 Kathryn Nave - A Drive to Survive: The Free Energy Principle and the Meaning of Life",
-	"youtubeid": "DKUAaqb9WnA"
+	"vtt": "1054.vtt",
+	"youtubeid": "DKUAaqb9WnA",
+	"transcript": "1054.lines.json"
 }
 ---
 RECORDED ON OCTOBER 11th 2024.  
