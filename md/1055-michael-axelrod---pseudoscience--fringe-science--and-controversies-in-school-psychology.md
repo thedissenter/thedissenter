@@ -5,13 +5,16 @@
 	"episodeid": "1055",
 	"excerpt": "Dr. Michael Axelrod is Director of the Human Development Center and a Professor in the Department of Psychology at the University of Wisconsin–Eau Claire. He is a Nationally Certified School Psychologist and Licensed Psychologist. He is editor of Investigating School Psychology: Pseudoscience, Fringe Science, and Controversies.",
 	"image": "https://i.ytimg.com/vi/mJ1VNxPFQac/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1055-michael-axelrod-pseudoscience-fringe-science-and/id1451347236?i=1000689713351&uo=4",
 	"publishDate": 2025-02-06,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1055-Michael-Axelrod---Pseudoscience--Fringe-Science--and-Controversies-in-School-Psychology-e2r5e84",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1055 Michael Axelrod - Pseudoscience, Fringe Science, and Controversies in School Psychology",
-	"youtubeid": "mJ1VNxPFQac"
+	"vtt": "1055.vtt",
+	"youtubeid": "mJ1VNxPFQac",
+	"transcript": "1055.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 18th 2024.  
