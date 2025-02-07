@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1056 Elena Ziliotti - Meritocratic Democracy: A Cross-Cultural Political Theory",
-	"youtubeid": "sDOW-nLk6dI"
+	"vtt": "1056.vtt",
+	"youtubeid": "sDOW-nLk6dI",
+	"transcript": "1056.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 20th 2024.  
