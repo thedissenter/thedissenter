@@ -5,6 +5,7 @@
 	"episodeid": "1056",
 	"excerpt": "Dr. Elena Ziliotti is an Assistant Professor of Ethics and Political Philosophy at the Delft University of Technology. She works on Comparative political theory, focusing on debates in contemporary Confucian and Western political theory. She is the author of Meritocratic Democracy: A Cross-Cultural Political Theory.",
 	"image": "https://i.ytimg.com/vi/sDOW-nLk6dI/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1056-elena-ziliotti-meritocratic-democracy-a-cross/id1451347236?i=1000690065091&uo=4",
 	"publishDate": 2025-02-07,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1056-Elena-Ziliotti---Meritocratic-Democracy-A-Cross-Cultural-Political-Theory-e2rafm2",
 	"tags": [
