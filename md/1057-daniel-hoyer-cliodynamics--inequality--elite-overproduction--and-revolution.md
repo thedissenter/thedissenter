@@ -5,6 +5,7 @@
 	"episodeid": "1057",
 	"excerpt": "Dr. Daniel Hoyer is Senior Research Associate & Managing Director for Seshat: Global History Databank, Research Scientist with the SocialAI Research Group, and Founder of SODY. He is the author of Figuring Out The Past: The 3,495 Vital Statistics that Explain World History.",
 	"image": "https://i.ytimg.com/vi/IEPeCgmqVwo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1057-daniel-hoyer-cliodynamics-inequality-elite-overproduction/id1451347236?i=1000690907275&uo=4",
 	"publishDate": 2025-02-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1057-Daniel-Hoyer-Cliodynamics--Inequality--Elite-Overproduction--and-Revolution-e2rhcmr",
 	"tags": [
@@ -12,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1057 Daniel Hoyer: Cliodynamics, Inequality, Elite Overproduction, and Revolution",
-	"youtubeid": "IEPeCgmqVwo"
+	"vtt": "1057.vtt",
+	"youtubeid": "IEPeCgmqVwo",
+	"transcript": "1057.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 26th 2024.  

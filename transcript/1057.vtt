@@ -1,0 +1,5566 @@
+WEBVTT
+
+1
+00:00:00.529 --> 00:00:03.089
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.089 --> 00:00:05.739
+Dissenter. I'm your host, as always, Ricardo Lopez, and
+
+3
+00:00:05.739 --> 00:00:07.969
+today I have a return guest for you, Doctor
+
+4
+00:00:07.969 --> 00:00:12.130
+Daniel Hoyer. He's senior research associate and managing director
+
+5
+00:00:12.130 --> 00:00:15.939
+for CCAT, Global History Data Bank, research scientist with
+
+6
+00:00:15.939 --> 00:00:18.940
+the Social AI Research Group and founder of Soda.
+
+7
+00:00:19.579 --> 00:00:22.395
+Last time we talked about his great book figuring
+
+8
+00:00:22.395 --> 00:00:24.145
+out the past. I'm leaving a link to it
+
+9
+00:00:24.145 --> 00:00:26.995
+in the description down below. And today we're talking
+
+10
+00:00:26.995 --> 00:00:31.104
+about cliodynamics or the use of maths and data
+
+11
+00:00:31.104 --> 00:00:34.435
+to study history instead of some other more traditional
+
+12
+00:00:34.435 --> 00:00:37.555
+approaches. So, Doctor Hoyer, welcome back to the show.
+
+13
+00:00:37.595 --> 00:00:38.875
+It's always a pleasure to
+
+14
+00:00:38.875 --> 00:00:40.595
+everyone. Yeah, thank you so much for having me,
+
+15
+00:00:40.634 --> 00:00:41.185
+Ricardo.
+
+16
+00:00:42.180 --> 00:00:44.819
+So, I mean, let's start perhaps with the most
+
+17
+00:00:44.819 --> 00:00:48.299
+basic question here. So, what is cliodynamics?
+
+18
+00:00:48.340 --> 00:00:51.729
+Cliodynamics, it is an interesting kind of new field.
+
+19
+00:00:52.020 --> 00:00:54.540
+Really, all it means is bringing a sort of
+
+20
+00:00:54.540 --> 00:00:57.389
+scientific method to studying the past. And so it
+
+21
+00:00:57.389 --> 00:00:59.939
+stands for Cleo is sort of the old Greek
+
+22
+00:00:59.939 --> 00:01:02.590
+use of history, which is what it's named after.
+
+23
+00:01:02.979 --> 00:01:05.819
+And dynamics is really just a study of how
+
+24
+00:01:05.819 --> 00:01:07.980
+and why things change over time. And so it's
+
+25
+00:01:07.980 --> 00:01:11.529
+trying to bring the kind of formalism, the um
+
+26
+00:01:11.860 --> 00:01:16.519
+You know, theory testing hypothesis testing from science into
+
+27
+00:01:16.519 --> 00:01:20.419
+understanding um the way that historical societies have changed
+
+28
+00:01:20.419 --> 00:01:21.080
+over time.
+
+29
+00:01:21.879 --> 00:01:25.389
+And how does it compare to other more traditional
+
+30
+00:01:25.389 --> 00:01:26.739
+approaches in the history?
+
+31
+00:01:27.589 --> 00:01:29.129
+It's a really interesting question. I, I, I think,
+
+32
+00:01:29.209 --> 00:01:31.370
+you know, it's a little more um in line
+
+33
+00:01:31.370 --> 00:01:33.610
+with the traditional approaches than it seems at first.
+
+34
+00:01:33.690 --> 00:01:36.540
+I think it can accommodate many different uh methods
+
+35
+00:01:36.540 --> 00:01:39.769
+and tools. I'd say the main difference, as I
+
+36
+00:01:39.769 --> 00:01:43.050
+say, is, is really trying to bring that formalism,
+
+37
+00:01:43.129 --> 00:01:47.410
+that language of science of quantitative reasoning. So bringing
+
+38
+00:01:47.410 --> 00:01:50.050
+in statistics, bringing in math, bringing in sort of
+
+39
+00:01:50.050 --> 00:01:56.110
+modeling, um, trying to make your, your assumptions uh
+
+40
+00:01:56.315 --> 00:01:59.004
+Explicit, trying to be formal about, OK, here's an
+
+41
+00:01:59.004 --> 00:02:01.845
+hypothesis, here's how I'm going to test it. Here's
+
+42
+00:02:01.845 --> 00:02:04.394
+a sort of causal mechanism that we can explore.
+
+43
+00:02:04.605 --> 00:02:07.095
+Let's see if it holds up in, in multiple
+
+44
+00:02:07.095 --> 00:02:10.205
+different contexts. And again, that's kind of the scientific
+
+45
+00:02:10.205 --> 00:02:13.285
+approach, but if it's very comfortably with as well,
+
+46
+00:02:13.324 --> 00:02:18.574
+the qualitative, um, you know, detailed context finding of
+
+47
+00:02:18.574 --> 00:02:21.085
+traditional history. So I think it's actually, you know,
+
+48
+00:02:21.365 --> 00:02:23.244
+pretty in line with some of the traditional methods
+
+49
+00:02:23.244 --> 00:02:25.085
+is just adding a new layer to it.
+
+50
+00:02:26.070 --> 00:02:30.050
+OK, but what kinds of sources can you resort
+
+51
+00:02:30.050 --> 00:02:33.449
+to and what kinds of uh specific methodologies do
+
+52
+00:02:33.449 --> 00:02:36.009
+you have? Because for example, in, at least in
+
+53
+00:02:36.009 --> 00:02:40.320
+some sciences, we can do experiments, but in this
+
+54
+00:02:40.320 --> 00:02:43.130
+case, is that possible? I mean, how do you
+
+55
+00:02:43.130 --> 00:02:43.750
+approach it?
+
+56
+00:02:43.970 --> 00:02:46.490
+Yeah, well, you know, we, we call, we call
+
+57
+00:02:46.490 --> 00:02:50.800
+studying history, um. Natural experiments, and so it's not
+
+58
+00:02:50.800 --> 00:02:52.639
+quite the same as science, you know, you can't
+
+59
+00:02:52.639 --> 00:02:54.720
+control all the factors. It is different, it is
+
+60
+00:02:54.720 --> 00:02:57.520
+harder because you, you know, you're, you're not in
+
+61
+00:02:57.520 --> 00:02:59.720
+control. You can't say, OK, I'm gonna hold these
+
+62
+00:02:59.720 --> 00:03:02.440
+three things steady and only um manipulate this one
+
+63
+00:03:02.440 --> 00:03:04.839
+thing. You just sort of get what you get.
+
+64
+00:03:05.679 --> 00:03:08.009
+But, I mean, and this is where clear dynamics
+
+65
+00:03:08.009 --> 00:03:10.610
+kind of comes in. If you are making your
+
+66
+00:03:10.610 --> 00:03:13.809
+assumptions very clear, if you are, um, and this
+
+67
+00:03:13.809 --> 00:03:16.889
+is the, the benefit of the scientific method. It
+
+68
+00:03:16.889 --> 00:03:19.289
+just puts everything on the table. You have to
+
+69
+00:03:19.289 --> 00:03:22.809
+spell it out using math, you know, It is
+
+70
+00:03:22.809 --> 00:03:25.809
+very useful. And just having that kind of language
+
+71
+00:03:25.809 --> 00:03:29.770
+of math helps to, um, you know, set the
+
+72
+00:03:29.770 --> 00:03:32.009
+stage and say, OK, well, here's, here's what I
+
+73
+00:03:32.009 --> 00:03:35.649
+think. Here's the connection between these variables. This is
+
+74
+00:03:35.649 --> 00:03:38.610
+a hypothesis. Then you could actually go in the
+
+75
+00:03:38.610 --> 00:03:41.130
+past and look for, OK, did that hold up?
+
+76
+00:03:41.250 --> 00:03:44.009
+Did it not? Where does that pattern hold? Where
+
+77
+00:03:44.009 --> 00:03:46.500
+are the deviations from it? And so, you know,
+
+78
+00:03:46.619 --> 00:03:50.250
+the more societies, the more cases, the more evidence
+
+79
+00:03:50.250 --> 00:03:54.139
+you can gather using traditional historical means. You can
+
+80
+00:03:54.139 --> 00:03:58.100
+then put them into um this framework and use
+
+81
+00:03:58.100 --> 00:04:00.860
+that as the sort of natural experiments to say,
+
+82
+00:04:00.899 --> 00:04:03.500
+OK, well, yes, it, you know, 85% of the
+
+83
+00:04:03.500 --> 00:04:05.419
+cases that holds this way, but in these other
+
+84
+00:04:05.419 --> 00:04:07.740
+15% it doesn't, and here's why, and you can
+
+85
+00:04:07.740 --> 00:04:10.139
+start to really unpack that. So again, you know,
+
+86
+00:04:10.179 --> 00:04:13.009
+it's it's not so much. It's not so much
+
+87
+00:04:13.009 --> 00:04:15.380
+the, the sources, the type of evidence that you
+
+88
+00:04:15.380 --> 00:04:18.858
+use, it's really just that approach to I have
+
+89
+00:04:18.858 --> 00:04:21.410
+a hypothesis, I'm gonna test it. It just happens
+
+90
+00:04:21.410 --> 00:04:25.260
+to be what you're using to test is um
+
+91
+00:04:25.260 --> 00:04:27.170
+knowledge about the about the past.
+
+92
+00:04:28.170 --> 00:04:31.540
+And so, how does it relate to perhaps some
+
+93
+00:04:31.540 --> 00:04:34.820
+more traditional approaches in history that are more based
+
+94
+00:04:34.820 --> 00:04:38.619
+or focused on what we could call narratives, that
+
+95
+00:04:38.619 --> 00:04:41.459
+is, this happened, that happened, that person did this,
+
+96
+00:04:41.579 --> 00:04:43.940
+the other person did that and this and that
+
+97
+00:04:43.940 --> 00:04:46.799
+event happened. So how does it relate to that?
+
+98
+00:04:47.339 --> 00:04:49.119
+It, yeah, it's a really good question. It, it's,
+
+99
+00:04:50.059 --> 00:04:52.059
+you know, as I say, it's more in line
+
+100
+00:04:52.059 --> 00:04:53.779
+and it seems at first. I think the, the
+
+101
+00:04:53.779 --> 00:04:57.170
+real You know, it's not replacing anything. Let me
+
+102
+00:04:57.170 --> 00:04:58.890
+put it that way. OK really what it's adding,
+
+103
+00:04:58.929 --> 00:05:00.609
+it's trying to add this extra layer. So it
+
+104
+00:05:00.609 --> 00:05:02.970
+says, OK, well, that's great, and let's keep doing
+
+105
+00:05:02.970 --> 00:05:04.929
+that, and that's really important to have that, as
+
+106
+00:05:04.929 --> 00:05:08.000
+you say, these narratives, these sort of stories about,
+
+107
+00:05:08.010 --> 00:05:10.890
+well, these are the key figures, these are the
+
+108
+00:05:10.890 --> 00:05:13.829
+actions they took, these are the reactions. And then
+
+109
+00:05:13.829 --> 00:05:16.799
+on top of that you're adding, OK, well, You
+
+110
+00:05:16.799 --> 00:05:19.399
+know, why, why did they do that? What were
+
+111
+00:05:19.399 --> 00:05:22.559
+the pressures that were placed on them? Did other
+
+112
+00:05:22.559 --> 00:05:25.720
+societies face similar pressures? And if so, did they
+
+113
+00:05:25.720 --> 00:05:29.000
+respond in similar ways? If not, why not? What
+
+114
+00:05:29.000 --> 00:05:30.760
+are the long term effects? And so it's really
+
+115
+00:05:30.760 --> 00:05:33.480
+kind of taking that step back and say, OK,
+
+116
+00:05:33.559 --> 00:05:36.399
+what's the bigger picture? What are the broad patterns,
+
+117
+00:05:36.480 --> 00:05:39.799
+the dynamics that we're seeing? And when you, you
+
+118
+00:05:39.799 --> 00:05:42.220
+know, when you're At that level, right? When you're
+
+119
+00:05:42.220 --> 00:05:43.989
+at the kind of macro level, when you're looking
+
+120
+00:05:43.989 --> 00:05:46.239
+at many, you know, dozens or even hundreds of
+
+121
+00:05:46.239 --> 00:05:49.589
+different cases at once, it's really hard to just
+
+122
+00:05:50.000 --> 00:05:51.720
+keep all that in your head. And this is
+
+123
+00:05:51.720 --> 00:05:54.519
+where that sort of scientific method, the clear dynamics
+
+124
+00:05:54.519 --> 00:05:58.640
+tools come into play as they help you organize
+
+125
+00:05:58.640 --> 00:06:02.339
+and keep control of all that different um uh
+
+126
+00:06:02.339 --> 00:06:05.440
+evidence and material in order to really pick apart
+
+127
+00:06:05.720 --> 00:06:08.200
+these are the patterns, these are the causal uh
+
+128
+00:06:08.200 --> 00:06:10.549
+drivers of of this and that. Mhm.
+
+129
+00:06:11.720 --> 00:06:15.570
+Does it help answer some traditional questions in the
+
+130
+00:06:15.570 --> 00:06:18.739
+history, like, for example, when people debate or have
+
+131
+00:06:18.739 --> 00:06:21.920
+the debate between big men or big ideas kind
+
+132
+00:06:21.920 --> 00:06:25.570
+of approaches to history or, for example, some more
+
+133
+00:06:25.570 --> 00:06:29.529
+materialist approaches versus ideological approaches, stuff like that. Does
+
+134
+00:06:29.529 --> 00:06:32.079
+it help answer those kinds of questions?
+
+135
+00:06:32.890 --> 00:06:34.609
+I, I would say so. I mean, I think
+
+136
+00:06:34.609 --> 00:06:36.690
+it's, it's not only does it help, it's kind
+
+137
+00:06:36.690 --> 00:06:39.170
+of the best way to approach those. You know,
+
+138
+00:06:39.250 --> 00:06:40.929
+one of the things we say in the oak
+
+139
+00:06:40.929 --> 00:06:43.160
+group all the time is, You know, if you
+
+140
+00:06:43.160 --> 00:06:45.239
+look at sort of the study of history, they
+
+141
+00:06:45.239 --> 00:06:48.350
+are really, really good at knowing a ton about
+
+142
+00:06:48.350 --> 00:06:51.559
+the societies that they explore. They're really, really good
+
+143
+00:06:51.559 --> 00:06:55.359
+about coming up with ideas, basically hypotheses for why
+
+144
+00:06:55.359 --> 00:06:58.670
+things happen. The traditional approaches are not so good
+
+145
+00:06:58.670 --> 00:07:01.890
+at um at getting rid of some of the
+
+146
+00:07:01.890 --> 00:07:05.450
+options, right? Really good at uh expanding and adding.
+
+147
+00:07:05.690 --> 00:07:07.970
+They're not so good at resolving. And this is
+
+148
+00:07:07.970 --> 00:07:10.980
+where the sort of scientific method included comes in.
+
+149
+00:07:11.250 --> 00:07:13.850
+You know, for example, I can't even remember somebody
+
+150
+00:07:13.850 --> 00:07:18.609
+counted once there were like 80+ um different hypotheses
+
+151
+00:07:18.609 --> 00:07:22.529
+put forward very reasonable by learned scholars about why
+
+152
+00:07:22.529 --> 00:07:26.299
+Rome collapsed. Eating, like, oh that's, that's a lot.
+
+153
+00:07:26.339 --> 00:07:28.140
+It can't be all of them, and they just
+
+154
+00:07:28.140 --> 00:07:29.820
+keep adding and adding and OK, well here's a
+
+155
+00:07:29.820 --> 00:07:31.799
+new take and what about this, and here's another
+
+156
+00:07:31.799 --> 00:07:35.899
+factor, and that's great. So the scientific method, what
+
+157
+00:07:35.899 --> 00:07:37.549
+it is good at is coming in and say,
+
+158
+00:07:37.619 --> 00:07:40.739
+OK, this is fantastic. These are all different hypotheses.
+
+159
+00:07:40.779 --> 00:07:44.140
+They make different assumptions. Let's go test them with
+
+160
+00:07:44.140 --> 00:07:46.989
+the data. Let's go explore the history and say,
+
+161
+00:07:47.059 --> 00:07:49.540
+OK, well, this one holds, this one is unlikely
+
+162
+00:07:49.540 --> 00:07:51.769
+to be the case because it doesn't actually follow.
+
+163
+00:07:52.019 --> 00:07:54.619
+And again, it just adds that Structure making things
+
+164
+00:07:54.619 --> 00:07:57.579
+more explicit to be able to start to reduce
+
+165
+00:07:57.579 --> 00:08:00.329
+the number of our hypotheses. You know, something like
+
+166
+00:08:00.329 --> 00:08:03.579
+the, the big man, big ideas, um, sort of
+
+167
+00:08:03.579 --> 00:08:05.619
+debate is a similar thing like it, it rages
+
+168
+00:08:05.619 --> 00:08:08.980
+for centuries, really. Um, YOU know, people go back
+
+169
+00:08:08.980 --> 00:08:10.660
+and forth and, you know, you can, you can
+
+170
+00:08:10.660 --> 00:08:14.619
+induce um evidence on all sides. Clear dynamics comes
+
+171
+00:08:14.619 --> 00:08:17.859
+in and says, OK, well, you know, what, what,
+
+172
+00:08:17.940 --> 00:08:20.760
+what would it look like if it was Big
+
+173
+00:08:20.760 --> 00:08:24.600
+men, so-called these, you know, major individuals with power,
+
+174
+00:08:24.679 --> 00:08:28.200
+with authority driving historical events, or if it's, you
+
+175
+00:08:28.200 --> 00:08:30.760
+know, people are being compelled by ideas and how
+
+176
+00:08:30.760 --> 00:08:34.398
+do they shape. Yeah, let's actually explore that. Let's
+
+177
+00:08:34.398 --> 00:08:36.837
+see which ones, you know, tend to lead to
+
+178
+00:08:36.837 --> 00:08:39.398
+these major changes that we can explore in different
+
+179
+00:08:39.398 --> 00:08:42.278
+societies. Yeah. You know, we, we've done a little
+
+180
+00:08:42.278 --> 00:08:43.999
+bit of that kind of work. We've looked at
+
+181
+00:08:43.999 --> 00:08:46.749
+sort of ideological developments. It turns out, of course,
+
+182
+00:08:46.838 --> 00:08:48.758
+as you might expect, it's a little bit of
+
+183
+00:08:48.758 --> 00:08:51.078
+both, right? You need all of it. It's, you
+
+184
+00:08:51.078 --> 00:08:54.758
+know, individuals responding to ideological changes which themselves are
+
+185
+00:08:54.758 --> 00:08:57.880
+responding to individual actions. So you can, you can
+
+186
+00:08:57.880 --> 00:08:59.760
+draw this complex web, you know, when we look
+
+187
+00:08:59.760 --> 00:09:02.719
+at, for example, um, our work on the axial
+
+188
+00:09:02.719 --> 00:09:07.789
+age, we show individuals matter, societies matter, ideas matter,
+
+189
+00:09:08.039 --> 00:09:10.400
+material constraints matter, what else is going on in
+
+190
+00:09:10.400 --> 00:09:13.440
+the world, environments matter. All these things matter. And
+
+191
+00:09:13.440 --> 00:09:16.340
+the only way you can really expose all of
+
+192
+00:09:16.390 --> 00:09:18.059
+That and, as I say, the only way you
+
+193
+00:09:18.059 --> 00:09:21.500
+can keep all of those different forces in your
+
+194
+00:09:21.500 --> 00:09:24.179
+mind at one time is by using this sort
+
+195
+00:09:24.179 --> 00:09:28.219
+of quantitative formulas. It really, really helps, um, being
+
+196
+00:09:28.219 --> 00:09:30.299
+able to put that together so that you can
+
+197
+00:09:30.299 --> 00:09:33.510
+even approach a question like, you know, is it,
+
+198
+00:09:33.539 --> 00:09:35.340
+is it big men or is it big ideas
+
+199
+00:09:35.340 --> 00:09:36.179
+that drive history?
+
+200
+00:09:37.010 --> 00:09:39.500
+Yeah, and I guess that without an approach such
+
+201
+00:09:39.500 --> 00:09:42.309
+as this and a more scientific approach to history,
+
+202
+00:09:42.359 --> 00:09:45.919
+I mean, people, traditional historians, and I'm not trying
+
+203
+00:09:45.919 --> 00:09:48.559
+to be disrespectful, but there is respectful here in
+
+204
+00:09:48.559 --> 00:09:51.229
+any way, but, uh, they can just come up
+
+205
+00:09:51.229 --> 00:09:53.960
+with more and more and more different factors that
+
+206
+00:09:53.960 --> 00:09:55.679
+they think might have played a role. Perhaps it
+
+207
+00:09:55.679 --> 00:09:58.000
+was that person, perhaps it was that person over
+
+208
+00:09:58.000 --> 00:10:02.010
+there. Perhaps it was some of the Societal, perhaps
+
+209
+00:10:02.010 --> 00:10:04.729
+it was a societal context because it was perhaps
+
+210
+00:10:04.729 --> 00:10:07.489
+it was an invasion by another country, something like
+
+211
+00:10:07.489 --> 00:10:10.369
+that to, to explain the fall of a particular
+
+212
+00:10:10.369 --> 00:10:14.270
+empire, for example. But without this kind of approach,
+
+213
+00:10:14.309 --> 00:10:16.530
+at the end of the day, it's, I guess
+
+214
+00:10:16.530 --> 00:10:18.890
+it would just be a matter of taste or
+
+215
+00:10:18.890 --> 00:10:23.369
+of being convinced by a certain explanation that, uh,
+
+216
+00:10:23.659 --> 00:10:26.849
+For, for people to really think that would be
+
+217
+00:10:26.849 --> 00:10:28.210
+the right answer, I guess.
+
+218
+00:10:28.700 --> 00:10:31.099
+Yeah, exactly. You know, and when, when I go
+
+219
+00:10:31.099 --> 00:10:33.520
+to conferences, when I go to workshops, of historians,
+
+220
+00:10:33.530 --> 00:10:36.659
+you do get these debates and you get these
+
+221
+00:10:36.659 --> 00:10:39.340
+arguments of, oh, you know, well, well, here's, here's
+
+222
+00:10:39.340 --> 00:10:41.909
+good evidence that it is, you know, this, this
+
+223
+00:10:41.909 --> 00:10:44.820
+charismatic leader. Here's good evidence that it is, you
+
+224
+00:10:44.820 --> 00:10:48.349
+know, this environmental change. And really, almost all the
+
+225
+00:10:48.349 --> 00:10:51.030
+time, they're both right, right? Like these are very
+
+226
+00:10:51.030 --> 00:10:53.299
+learned smart people. They know what they're talking about,
+
+227
+00:10:53.590 --> 00:10:56.869
+and they are reducing proper evidence, but it's only
+
+228
+00:10:56.869 --> 00:10:58.409
+telling one part of the story. And if you
+
+229
+00:10:58.409 --> 00:11:01.650
+only focus on that, as you say, you know,
+
+230
+00:11:01.789 --> 00:11:03.739
+you can, you can get convinced that this is
+
+231
+00:11:03.739 --> 00:11:05.669
+the answer, and then somebody else focuses on a
+
+232
+00:11:05.669 --> 00:11:07.830
+different part, and they're convinced that that's the answer.
+
+233
+00:11:08.419 --> 00:11:09.859
+You need a framework to be able to say,
+
+234
+00:11:09.940 --> 00:11:13.750
+OK, well, they actually fit together. Here's how they
+
+235
+00:11:13.750 --> 00:11:15.979
+influence each other. This is, you know, at one
+
+236
+00:11:15.979 --> 00:11:18.979
+level of analysis with the individuals, environmental forces at
+
+237
+00:11:18.979 --> 00:11:22.140
+a different level of analysis. So they actually are
+
+238
+00:11:22.260 --> 00:11:26.020
+completely um compatible explanations. But unless you have that
+
+239
+00:11:26.020 --> 00:11:30.409
+framework to um be able to See how these
+
+240
+00:11:30.409 --> 00:11:33.969
+different uh forces at different levels interact, you're never
+
+241
+00:11:33.969 --> 00:11:35.570
+gonna be able to unpack it. And again, you
+
+242
+00:11:35.570 --> 00:11:37.880
+know, it's not like Cleodynamics wants to come in
+
+243
+00:11:37.880 --> 00:11:40.210
+and and stop like all of that knowledge, all
+
+244
+00:11:40.210 --> 00:11:45.349
+the traditional um historical approaches are super necessary. JUST
+
+245
+00:11:45.349 --> 00:11:47.559
+wants to add a new extra layer to say,
+
+246
+00:11:47.630 --> 00:11:50.369
+OK, well, yeah, let's take all of this great
+
+247
+00:11:50.369 --> 00:11:53.419
+learning and let's put it into this kind of
+
+248
+00:11:53.830 --> 00:11:59.270
+hypothesis testing type of scientific um method in order
+
+249
+00:11:59.270 --> 00:12:02.309
+to sort of move beyond some of these these
+
+250
+00:12:02.309 --> 00:12:03.270
+arguments as you mentioned.
+
+251
+00:12:03.820 --> 00:12:07.210
+Mhm. So let me confront you with another big
+
+252
+00:12:07.210 --> 00:12:10.250
+question in history just before we move on to
+
+253
+00:12:10.250 --> 00:12:15.429
+smaller questions and more circumscribed questions here. So this
+
+254
+00:12:15.429 --> 00:12:17.190
+history repeat itself?
+
+255
+00:12:18.289 --> 00:12:20.030
+Uh, THAT'S a really good question. I mean, this
+
+256
+00:12:20.030 --> 00:12:22.909
+is. This is exactly the kind of thing that
+
+257
+00:12:22.909 --> 00:12:25.109
+my colleagues and I with Seat want to look
+
+258
+00:12:25.109 --> 00:12:27.030
+into and and start to ask these questions, and
+
+259
+00:12:27.030 --> 00:12:30.070
+you can only even ask this question when you
+
+260
+00:12:30.070 --> 00:12:32.710
+are looking at the grand sweep of history, when
+
+261
+00:12:32.710 --> 00:12:34.739
+you're looking at thousands of thousands of years and
+
+262
+00:12:34.739 --> 00:12:37.989
+hundreds of different societies. You know, where, where I
+
+263
+00:12:37.989 --> 00:12:41.309
+land on this, I would say, There's uh I
+
+264
+00:12:41.320 --> 00:12:43.700
+I'm misquoting Mark Twain here, but he said something
+
+265
+00:12:43.700 --> 00:12:47.250
+along the lines of, um, history doesn't repeat itself,
+
+266
+00:12:47.460 --> 00:12:49.580
+but it does rhyme. And I think that kind
+
+267
+00:12:49.580 --> 00:12:52.739
+of captures it. There's always, every society, there's always
+
+268
+00:12:52.739 --> 00:12:57.469
+unique circumstances, no two are exactly the same. No
+
+269
+00:12:57.900 --> 00:13:01.460
+two events are quite exactly the same. The context
+
+270
+00:13:01.460 --> 00:13:04.460
+shifts, the environment shifts, the interaction with your neighbors
+
+271
+00:13:04.460 --> 00:13:07.979
+is a little bit different, but, um, there are
+
+272
+00:13:07.979 --> 00:13:10.500
+definitely patterns, and I think that's what the rhyming
+
+273
+00:13:10.500 --> 00:13:13.419
+really gets at. There are things that occur again
+
+274
+00:13:13.419 --> 00:13:17.739
+and again. Humans are, you know, we've changed, we've
+
+275
+00:13:17.739 --> 00:13:21.580
+evolved, but there's a lot. Sort of at our,
+
+276
+00:13:21.619 --> 00:13:23.380
+at the heart of who we are as a
+
+277
+00:13:23.380 --> 00:13:26.330
+species that has remained constant for thousands of years.
+
+278
+00:13:26.700 --> 00:13:29.210
+How we take care of ourselves and our families,
+
+279
+00:13:29.380 --> 00:13:31.969
+how we organize in groups, how we sort of
+
+280
+00:13:31.969 --> 00:13:36.150
+engage in collective action, you know, maintain material, you
+
+281
+00:13:36.150 --> 00:13:38.619
+know, food and shelter, all of these different drives
+
+282
+00:13:38.619 --> 00:13:41.700
+are the same and our our solutions to problems
+
+283
+00:13:41.700 --> 00:13:45.099
+that arise are often the same, you know, confronting
+
+284
+00:13:45.099 --> 00:13:49.950
+with violence, um. But also cooperation, supporting each other,
+
+285
+00:13:50.039 --> 00:13:51.950
+mutual aid, all of these things you can see
+
+286
+00:13:51.950 --> 00:13:54.750
+happen again and again and again, responding to the
+
+287
+00:13:54.750 --> 00:13:56.549
+same kinds of circumstances that come up. So there
+
+288
+00:13:56.549 --> 00:13:58.559
+are, there are a lot of rhymes, but it
+
+289
+00:13:58.559 --> 00:14:01.890
+is important to understand. You know, A, what are
+
+290
+00:14:01.890 --> 00:14:05.679
+the sort of unique circumstances, and B, what I
+
+291
+00:14:05.679 --> 00:14:09.239
+think is really critical is, is getting at, you
+
+292
+00:14:09.239 --> 00:14:12.520
+know, these patterns don't just happen on their own,
+
+293
+00:14:12.599 --> 00:14:15.440
+right? It's not just some magical thing that that
+
+294
+00:14:15.440 --> 00:14:19.239
+makes us act in certain ways. There are reasons,
+
+295
+00:14:19.280 --> 00:14:22.309
+you know, those reasons keep occurring, which is why
+
+296
+00:14:22.309 --> 00:14:26.169
+these patterns happen again and again. But there are,
+
+297
+00:14:26.229 --> 00:14:29.950
+there are drivers, there are causal forces that lead
+
+298
+00:14:29.950 --> 00:14:32.710
+to these outcomes, and it's really important to understand
+
+299
+00:14:32.710 --> 00:14:35.469
+that so that we can repeat the ones we
+
+300
+00:14:35.469 --> 00:14:38.030
+want to repeat, and maybe move beyond the kind
+
+301
+00:14:38.030 --> 00:14:40.630
+of things we don't want, like war, like violence,
+
+302
+00:14:40.719 --> 00:14:42.549
+like all of the stereotyping that, you know, all
+
+303
+00:14:42.549 --> 00:14:44.380
+the bad things that we do to each other.
+
+304
+00:14:45.479 --> 00:14:47.979
+They are recurrent, they are patterns, but they don't
+
+305
+00:14:47.979 --> 00:14:50.140
+have to be, right? There are specific reasons why
+
+306
+00:14:50.140 --> 00:14:53.020
+we act that way, that we can um move
+
+307
+00:14:53.020 --> 00:14:55.929
+beyond and I think having that perspective is really,
+
+308
+00:14:55.940 --> 00:14:59.700
+really crucial in history really helps um reveal where
+
+309
+00:14:59.700 --> 00:15:01.580
+we, where we can be better, I would say.
+
+310
+00:15:02.520 --> 00:15:05.599
+And I imagine that these sort of patterns, we
+
+311
+00:15:05.599 --> 00:15:08.320
+should expect them or they were to be expected
+
+312
+00:15:08.320 --> 00:15:11.359
+because, I mean, if two different societies or more
+
+313
+00:15:11.359 --> 00:15:14.429
+than two different societies are exposed to the same
+
+314
+00:15:14.429 --> 00:15:18.760
+circumstances, if, for example, social, economic, political factors are
+
+315
+00:15:18.760 --> 00:15:23.159
+similar, if they are affected by, for example, natural
+
+316
+00:15:23.159 --> 00:15:26.919
+disasters, something like that, or if people react the
+
+317
+00:15:26.919 --> 00:15:30.645
+same way. To similar sorts of circumstances or their
+
+318
+00:15:30.645 --> 00:15:35.044
+leaders make similar sorts of decisions, then we would
+
+319
+00:15:35.044 --> 00:15:38.604
+expect, even though not exactly the same results, but
+
+320
+00:15:38.604 --> 00:15:39.794
+similar results,
+
+321
+00:15:39.804 --> 00:15:41.945
+right? Yeah, exactly, exactly. And we do see that,
+
+322
+00:15:42.085 --> 00:15:44.005
+uh, you know, the natural disasters is really good
+
+323
+00:15:44.005 --> 00:15:46.924
+because those have been happening forever, right, as long
+
+324
+00:15:46.924 --> 00:15:49.604
+as human societies that happen, dealing with floods, with
+
+325
+00:15:49.604 --> 00:15:52.565
+earthquakes, with droughts, and you can see, you know,
+
+326
+00:15:53.090 --> 00:15:56.309
+There's a fairly narrow range of reactions that societies
+
+327
+00:15:56.309 --> 00:15:59.830
+have, and it depends on, you know, um, their,
+
+328
+00:15:59.929 --> 00:16:03.049
+their circumstances are, are they wealthy? Is there material,
+
+329
+00:16:03.130 --> 00:16:06.169
+is their infrastructure built up? Is there trust in
+
+330
+00:16:06.169 --> 00:16:09.210
+sort of the state to respond? If so, you
+
+331
+00:16:09.210 --> 00:16:11.130
+tend to see one kind of reaction where you
+
+332
+00:16:11.130 --> 00:16:13.450
+see, you know, a redistribution of resources, you'll see
+
+333
+00:16:13.450 --> 00:16:17.710
+aid, you'll see rebuilding pretty quickly. In in societies
+
+334
+00:16:17.710 --> 00:16:20.030
+where the same kind of thing happens where, you
+
+335
+00:16:20.030 --> 00:16:23.390
+know, inequality has taken hold, where government kind of
+
+336
+00:16:23.390 --> 00:16:26.469
+dysfunctional, where there's a lot of sort of corruption.
+
+337
+00:16:27.739 --> 00:16:30.450
+The, the sort of response mechanisms aren't quite there.
+
+338
+00:16:30.619 --> 00:16:33.940
+You see those kind of disasters spiral into humanitarian
+
+339
+00:16:33.940 --> 00:16:37.179
+crises, leads to violence, leads to unrest, leads to
+
+340
+00:16:37.179 --> 00:16:40.780
+rebellions, it's, you know, over and over you can
+
+341
+00:16:40.780 --> 00:16:43.260
+spot dozens and dozens of different cases that follow
+
+342
+00:16:43.260 --> 00:16:45.460
+one of those kind of two broad types, and
+
+343
+00:16:45.460 --> 00:16:48.669
+it's pretty clear. You know, what are the conditions
+
+344
+00:16:48.669 --> 00:16:50.859
+that lead one or the other. Again, those are,
+
+345
+00:16:50.989 --> 00:16:52.820
+you know, in every different part of the world,
+
+346
+00:16:52.909 --> 00:16:55.909
+every different time period, we've seen um the same
+
+347
+00:16:55.909 --> 00:16:57.270
+sort of things materialize.
+
+348
+00:16:58.559 --> 00:17:01.099
+So something that you've been interested in, and this
+
+349
+00:17:01.099 --> 00:17:04.290
+is a more uh more specific question now, is
+
+350
+00:17:04.290 --> 00:17:09.160
+inequality, social and economic across history. So what do
+
+351
+00:17:09.160 --> 00:17:12.479
+we know about it through clear dynamics and what
+
+352
+00:17:12.479 --> 00:17:16.260
+are the effects it had on human histories through
+
+353
+00:17:16.260 --> 00:17:18.479
+human society, sorry, throughout history? Yeah,
+
+354
+00:17:18.530 --> 00:17:20.239
+yeah, yeah. Um, I mean, this is, this is
+
+355
+00:17:20.239 --> 00:17:22.280
+the big question. I, I would say we know
+
+356
+00:17:22.280 --> 00:17:25.229
+too much about it, unfortunately, um, you know, this
+
+357
+00:17:25.229 --> 00:17:28.040
+is. Again, this is one of these common patterns
+
+358
+00:17:28.040 --> 00:17:30.680
+that we see again and again of societies, you
+
+359
+00:17:30.680 --> 00:17:33.359
+know, even, even ones that for a time, are
+
+360
+00:17:33.359 --> 00:17:36.680
+experiencing growth and, um, you know, looking after the
+
+361
+00:17:36.680 --> 00:17:40.339
+well-being of the population. It'll tend to shift, uh,
+
+362
+00:17:40.459 --> 00:17:45.030
+you know, those structures get co-opted, um. Wealth and,
+
+363
+00:17:45.050 --> 00:17:48.369
+and sort of power holders can um divert resources
+
+364
+00:17:48.369 --> 00:17:51.469
+sort of to their own aims, aims, inequality then
+
+365
+00:17:51.469 --> 00:17:54.130
+takes root. Again, we see this time and time
+
+366
+00:17:54.130 --> 00:17:55.969
+again. I'm, I'm hard pressed to think of a
+
+367
+00:17:55.969 --> 00:17:59.229
+society that hasn't experienced this for at least some,
+
+368
+00:17:59.489 --> 00:18:02.520
+some portion of its of its life span. You
+
+369
+00:18:02.520 --> 00:18:04.680
+know, one of the things that I've been saying
+
+370
+00:18:04.680 --> 00:18:06.719
+lately, and, and this is really at the heart
+
+371
+00:18:06.719 --> 00:18:08.630
+of my recent research is trying to look at
+
+372
+00:18:08.630 --> 00:18:10.719
+inequality, why does it happen? What does it do
+
+373
+00:18:10.719 --> 00:18:13.430
+to societies, how do we get past it. You
+
+374
+00:18:13.430 --> 00:18:15.709
+know, I, I've been calling it um one of
+
+375
+00:18:15.709 --> 00:18:19.589
+history's great, uh, villains here, and it just, it's
+
+376
+00:18:19.589 --> 00:18:21.989
+so corrosive in so many ways, at so many
+
+377
+00:18:21.989 --> 00:18:24.250
+levels. You know, there's the sort of the obvious
+
+378
+00:18:24.250 --> 00:18:27.430
+as inequality holds, those at the sort of bottom
+
+379
+00:18:27.430 --> 00:18:30.530
+end of the spectrum are left without. They are,
+
+380
+00:18:30.630 --> 00:18:32.979
+you know, don't have the resources, they are often
+
+381
+00:18:32.979 --> 00:18:35.670
+um excluded from the halls of power, from political
+
+382
+00:18:35.670 --> 00:18:39.869
+decisions, their material circumstances are poor, right? Their well-being
+
+383
+00:18:39.869 --> 00:18:42.989
+declines. That's horrible. But that's kind of the obvious
+
+384
+00:18:42.989 --> 00:18:45.699
+one. Everyone knows that, that's clear. I think what's,
+
+385
+00:18:45.709 --> 00:18:47.910
+what's less clear what we've been able to reveal
+
+386
+00:18:47.910 --> 00:18:51.910
+by clear dynamics, again, by, you know, looking specifically
+
+387
+00:18:51.910 --> 00:18:54.430
+at all of these different societies. OK, what happens?
+
+388
+00:18:54.510 --> 00:18:57.229
+What happens to different groups? How do people react?
+
+389
+00:18:57.349 --> 00:19:00.469
+Why do these things take hold? What we find
+
+390
+00:19:00.469 --> 00:19:03.060
+is that, um, you know, inequality is just as
+
+391
+00:19:03.229 --> 00:19:05.609
+corrosive at the other end of the spectrum, right?
+
+392
+00:19:05.709 --> 00:19:07.910
+Even those at sort of the top, right, the
+
+393
+00:19:07.910 --> 00:19:13.189
+wealthy elite, the politically powerful. It seems like they're
+
+394
+00:19:13.189 --> 00:19:17.359
+doing well, and they, you know, try to maintain
+
+395
+00:19:17.359 --> 00:19:22.109
+these systems that divert a society's resources more and
+
+396
+00:19:22.109 --> 00:19:24.270
+more and more into their own hands themselves and
+
+397
+00:19:24.270 --> 00:19:27.630
+their family. This is how inequality grows, right? You're
+
+398
+00:19:27.630 --> 00:19:30.560
+accumulating wealth at sort of this, this top level,
+
+399
+00:19:30.859 --> 00:19:33.910
+the rich 1%, the 10%, whatever you wanna uh
+
+400
+00:19:33.910 --> 00:19:38.180
+market it as. But it's, it's, it's ephemeral, right?
+
+401
+00:19:38.189 --> 00:19:40.300
+It's fleeting. It, it looks like you're being taken
+
+402
+00:19:40.300 --> 00:19:43.900
+care of, but it actually breeds, um, hostility, it
+
+403
+00:19:43.900 --> 00:19:47.420
+breeds frustration, it breeds competition, you know, you can
+
+404
+00:19:47.420 --> 00:19:50.300
+sort of accumulate all this stuff, but you can
+
+405
+00:19:50.300 --> 00:19:52.699
+never get everything you want. You can never translate
+
+406
+00:19:52.699 --> 00:19:55.339
+all that wealth into political prominence, like, people are
+
+407
+00:19:55.339 --> 00:19:58.060
+gonna be left behind. You're gonna promise your children
+
+408
+00:19:58.060 --> 00:19:59.650
+that they're gonna be as well off as you
+
+409
+00:19:59.650 --> 00:20:03.339
+are. It doesn't always happen. This leads to frustration,
+
+410
+00:20:03.430 --> 00:20:05.869
+this leads to anger, this leads to resentment. And
+
+411
+00:20:05.869 --> 00:20:08.469
+when that starts to bubble up, you start to
+
+412
+00:20:08.469 --> 00:20:11.790
+see a lot of um maladaptive behavior. You see
+
+413
+00:20:11.790 --> 00:20:15.219
+partisan fighting, you see conflict, you see these sort
+
+414
+00:20:15.219 --> 00:20:18.469
+of fundamentalist attitudes start to take hold, you start
+
+415
+00:20:18.469 --> 00:20:21.180
+to do more and more extreme things, trying to
+
+416
+00:20:21.520 --> 00:20:24.790
+change or recapture what you think you're owed, um,
+
+417
+00:20:24.829 --> 00:20:28.060
+you know, You can look around the world today,
+
+418
+00:20:28.180 --> 00:20:29.859
+right? We're seeing this all over the place, like
+
+419
+00:20:29.859 --> 00:20:33.300
+a lot of the, um, you know, political infighting,
+
+420
+00:20:33.339 --> 00:20:36.859
+a lot of the um sort of different attitudes,
+
+421
+00:20:36.939 --> 00:20:39.939
+a lot of the sort of political dysfunction, democratic
+
+422
+00:20:39.939 --> 00:20:43.300
+backslidings people are calling it. You can trace to
+
+423
+00:20:43.300 --> 00:20:46.540
+these these long periods of inequality that have been
+
+424
+00:20:46.540 --> 00:20:49.939
+growing for decades, and, you know, people are are
+
+425
+00:20:49.939 --> 00:20:53.084
+upset because they are being left without. But people
+
+426
+00:20:53.084 --> 00:20:55.635
+are also being upset because they have accumulated too
+
+427
+00:20:55.635 --> 00:20:59.844
+much, and it's over, they're overproduced, right? There's, there's
+
+428
+00:20:59.844 --> 00:21:02.765
+too many people with too much wealth, too much
+
+429
+00:21:02.765 --> 00:21:05.964
+power, fighting with each other, not actually getting what
+
+430
+00:21:05.964 --> 00:21:08.364
+they want. It seems like they are, but they're
+
+431
+00:21:08.364 --> 00:21:11.619
+not. And that's a really volatile situation to be
+
+432
+00:21:11.619 --> 00:21:14.930
+in, and the society tends to be very fragile,
+
+433
+00:21:15.219 --> 00:21:17.959
+um, to that, you know, when, when equality takes
+
+434
+00:21:17.959 --> 00:21:21.849
+root and is allowed to fester for decades. It
+
+435
+00:21:21.849 --> 00:21:24.250
+leads to violence, it leads to unrest, it, it,
+
+436
+00:21:24.329 --> 00:21:27.569
+in many cases leads to complete societal collapse and
+
+437
+00:21:27.569 --> 00:21:30.770
+um I think, you know, unfortunately, this pattern is
+
+438
+00:21:30.770 --> 00:21:33.849
+repeating itself now, but as you say, The clear
+
+439
+00:21:33.849 --> 00:21:37.130
+dynamics approach, because you can track specifically, OK, here
+
+440
+00:21:37.130 --> 00:21:39.770
+is the well-being of, of different groups, you can
+
+441
+00:21:39.770 --> 00:21:41.969
+see how it changes over time, you can see
+
+442
+00:21:41.969 --> 00:21:44.790
+it happening in different societies, you know, we have
+
+443
+00:21:44.790 --> 00:21:49.609
+a theoretical framework and methods to um uncover when
+
+444
+00:21:49.609 --> 00:21:52.770
+and where and why inequality like this sets in.
+
+445
+00:21:53.180 --> 00:21:54.989
+And again, the, you know, the news isn't great.
+
+446
+00:21:55.010 --> 00:21:59.060
+Historically reveals, history reveals that more often than not,
+
+447
+00:21:59.310 --> 00:22:03.310
+the societies where this happens undergo some pretty catastrophic
+
+448
+00:22:03.310 --> 00:22:07.469
+violence, major civil war, uh, or, or, um, similar.
+
+449
+00:22:07.630 --> 00:22:10.630
+So, unfortunately, you know, I, it's it's always depressing
+
+450
+00:22:10.630 --> 00:22:12.040
+when I talk about this. So it's not great
+
+451
+00:22:12.040 --> 00:22:14.550
+news, but, you know, the more we can learn
+
+452
+00:22:14.550 --> 00:22:16.310
+about it, the more we understand the drivers. I
+
+453
+00:22:16.310 --> 00:22:18.270
+do think there's a, there's a chance that we
+
+454
+00:22:18.270 --> 00:22:22.030
+can, um. You know, start to respond and, and
+
+455
+00:22:22.030 --> 00:22:23.939
+deal with it, uh, in the present.
+
+456
+00:22:25.270 --> 00:22:27.349
+But I mean, do we have a good understanding
+
+457
+00:22:27.349 --> 00:22:32.030
+of which factors drive inequality? I mean, what gives
+
+458
+00:22:32.030 --> 00:22:34.390
+rise to inequality, basically.
+
+459
+00:22:36.310 --> 00:22:39.900
+Oh, a lot of things, um, you know, it,
+
+460
+00:22:39.939 --> 00:22:44.959
+it, it sort of It because it occurs so,
+
+461
+00:22:45.000 --> 00:22:47.680
+so frequently, a lot of times what we see
+
+462
+00:22:47.680 --> 00:22:51.520
+is there will be a shift, where society will
+
+463
+00:22:51.520 --> 00:22:54.959
+sort of, you know, come into being, it's putting
+
+464
+00:22:54.959 --> 00:22:58.819
+in particular structures to grow, it's growing its wealth,
+
+465
+00:22:59.000 --> 00:23:01.920
+it's building things, it's growing its infrastructure, it's maybe
+
+466
+00:23:01.920 --> 00:23:05.000
+expanding its territory, it's growing its people, its population
+
+467
+00:23:05.000 --> 00:23:09.349
+grows. And, you know, there's often um some inequalities,
+
+468
+00:23:09.390 --> 00:23:13.270
+but they're usually kept fairly low. Most societies, when
+
+469
+00:23:13.270 --> 00:23:15.989
+they are functioning well, have mechanisms to keep that
+
+470
+00:23:15.989 --> 00:23:19.790
+inequality kind of at bay. There's, you know, taxes,
+
+471
+00:23:19.910 --> 00:23:22.630
+there's spending, there's welfare programs, even in ancient societies,
+
+472
+00:23:22.709 --> 00:23:26.939
+there were programs and infrastructure that were looking to
+
+473
+00:23:27.229 --> 00:23:30.709
+distribute the resources broadly to all of the people.
+
+474
+00:23:30.869 --> 00:23:33.150
+So everyone was benefiting a little bit as, as
+
+475
+00:23:33.150 --> 00:23:35.920
+a society. Excuse me, as the society is going
+
+476
+00:23:35.920 --> 00:23:40.630
+along. What happens is usually there ends up being
+
+477
+00:23:40.630 --> 00:23:43.989
+a mismatch in that structure. So one part of
+
+478
+00:23:43.989 --> 00:23:46.189
+it will kind of still grow while the other
+
+479
+00:23:46.189 --> 00:23:50.189
+parts stop, and that kind of breeds these um
+
+480
+00:23:50.790 --> 00:23:55.390
+Opportunities for diverting the resources more and more to
+
+481
+00:23:55.390 --> 00:23:57.630
+those with power, to those with wealth. And it
+
+482
+00:23:57.630 --> 00:23:59.170
+starts really slowly. I mean, this is why it
+
+483
+00:23:59.170 --> 00:24:01.189
+creeps in, right? It's not like it just happens
+
+484
+00:24:01.189 --> 00:24:03.869
+overnight that everyone can see it and somebody passes
+
+485
+00:24:03.869 --> 00:24:05.109
+a law that says, OK, all of a sudden,
+
+486
+00:24:05.189 --> 00:24:07.550
+you know, all of the tax revenue of the
+
+487
+00:24:07.550 --> 00:24:09.030
+society is going to go to me and my
+
+488
+00:24:09.030 --> 00:24:11.420
+friends. Like, it's not that dramatic. And this is,
+
+489
+00:24:11.430 --> 00:24:13.790
+I think, why it allow it, it's able to
+
+490
+00:24:13.790 --> 00:24:16.109
+um take root. It's, it's hard to see on
+
+491
+00:24:16.109 --> 00:24:18.630
+the ground when you're living in it. You know,
+
+492
+00:24:18.709 --> 00:24:21.900
+but there will be people or families with particular
+
+493
+00:24:21.900 --> 00:24:24.780
+um You know, have, have a little bit more
+
+494
+00:24:24.780 --> 00:24:27.050
+authority, have a little bit more wealth than others,
+
+495
+00:24:27.819 --> 00:24:29.939
+and instead of, of, you know, all of a
+
+496
+00:24:29.939 --> 00:24:32.729
+sudden. Not all of a sudden, but over time,
+
+497
+00:24:33.219 --> 00:24:35.500
+the structures that were were sort of keeping that
+
+498
+00:24:35.500 --> 00:24:38.089
+at bay, start to get loosened a little bit,
+
+499
+00:24:38.140 --> 00:24:40.300
+right? You say, OK, well, you know, everything is
+
+500
+00:24:40.300 --> 00:24:44.339
+going well. There's, there's sort of population growth, the
+
+501
+00:24:44.339 --> 00:24:47.180
+economy is growing, there's a lot of people, labor's
+
+502
+00:24:47.180 --> 00:24:49.060
+getting a little bit cheap. I can take a
+
+503
+00:24:49.060 --> 00:24:51.180
+little bit more, right? I'm, I'm a, a business
+
+504
+00:24:51.180 --> 00:24:54.459
+owner. I'm, I'm interested in sort of buying this
+
+505
+00:24:54.459 --> 00:24:56.859
+labor. It's getting a little bit cheap, my profits
+
+506
+00:24:56.859 --> 00:24:59.619
+are growing. I'm gonna use those profits to buy
+
+507
+00:24:59.619 --> 00:25:01.420
+a little bit more land. I'm gonna use those
+
+508
+00:25:01.420 --> 00:25:04.500
+profits to secure my position for myself and my
+
+509
+00:25:04.500 --> 00:25:06.979
+children a little bit further. And then they have
+
+510
+00:25:06.979 --> 00:25:10.520
+an extra Their wealth has been grown in that
+
+511
+00:25:10.520 --> 00:25:12.089
+generation, then they do the same thing. So in
+
+512
+00:25:12.089 --> 00:25:14.250
+the next generation, it grows a little more. And
+
+513
+00:25:14.250 --> 00:25:15.959
+it takes a little bit of time, but over
+
+514
+00:25:15.959 --> 00:25:19.650
+generations, it can become really um obscene, the, the
+
+515
+00:25:19.650 --> 00:25:21.369
+amount of wealth and the amount of inequality, right?
+
+516
+00:25:21.469 --> 00:25:23.729
+So it's, it's that kind of of action, right?
+
+517
+00:25:23.930 --> 00:25:27.469
+It's, it's decisions by individuals, especially those with wealth
+
+518
+00:25:27.469 --> 00:25:29.890
+and power, to give themselves a little bit more
+
+519
+00:25:29.890 --> 00:25:31.810
+wealth and power. And when you do that a
+
+520
+00:25:31.810 --> 00:25:35.410
+bunch of different times, you end up with Fairly
+
+521
+00:25:35.410 --> 00:25:39.489
+drastic inequality. And, you know, you start to, people
+
+522
+00:25:39.489 --> 00:25:42.569
+with wealth who are also, um, you know, hold
+
+523
+00:25:42.569 --> 00:25:45.530
+positions of political authority, they're kind of in charge
+
+524
+00:25:45.530 --> 00:25:48.439
+of the rules. And if the rules are um
+
+525
+00:25:48.569 --> 00:25:52.839
+curtailing their ability to, to, uh, divert resources to
+
+526
+00:25:52.839 --> 00:25:55.849
+themselves, they can change those rules. They can, you
+
+527
+00:25:55.849 --> 00:25:58.359
+know, lower the tax rates. They can make sure
+
+528
+00:25:58.359 --> 00:26:00.849
+that, you know, instead of the state spending its
+
+529
+00:26:00.849 --> 00:26:04.829
+money on Schools and hospitals, um, you know, they're
+
+530
+00:26:04.829 --> 00:26:09.099
+spending it on, um, You know, uh, uh, buying
+
+531
+00:26:09.270 --> 00:26:12.250
+the goods that me and my wealthy people produce,
+
+532
+00:26:12.349 --> 00:26:15.099
+right? Whether it's, you know, agricultural goods and oil,
+
+533
+00:26:15.160 --> 00:26:17.630
+or fancy ceramics or tiles or whatever it happens
+
+534
+00:26:17.630 --> 00:26:20.250
+to be. And again, this is even ancient scieties
+
+535
+00:26:20.250 --> 00:26:23.069
+go through this. And slowly you pick away, you
+
+536
+00:26:23.069 --> 00:26:24.949
+sort of turn on that wealth pump, as my
+
+537
+00:26:24.949 --> 00:26:27.390
+friend, uh, Peter Thurn calls it. And then all
+
+538
+00:26:27.390 --> 00:26:29.270
+of a sudden now the resources that had been
+
+539
+00:26:29.270 --> 00:26:33.660
+redirected back to the majority population. ARE being redirected
+
+540
+00:26:33.660 --> 00:26:37.150
+to just that sort of uh wealthy 1% elite,
+
+541
+00:26:37.380 --> 00:26:39.579
+and that's, that's really how it takes hold. And
+
+542
+00:26:39.579 --> 00:26:41.900
+it takes many different forms, but it's always that
+
+543
+00:26:41.900 --> 00:26:43.579
+kind of process.
+
+544
+00:26:44.239 --> 00:26:46.819
+But I mean, for a society to reach such
+
+545
+00:26:46.819 --> 00:26:50.579
+high levels of inequality that it starts crumbling or
+
+546
+00:26:50.579 --> 00:26:54.780
+the societal structure, the societal cohesion starts crumbling. I
+
+547
+00:26:54.780 --> 00:26:58.500
+mean, it has to be done uh intentionally, right?
+
+548
+00:26:58.589 --> 00:27:02.260
+I mean, it's people, the economic elites, uh, together
+
+549
+00:27:02.260 --> 00:27:06.843
+with politicians making those decisions. It's not something that
+
+550
+00:27:06.843 --> 00:27:09.802
+just occurs. I'm, I'm not sure if this is
+
+551
+00:27:09.802 --> 00:27:11.963
+the best word to use, but to use it,
+
+552
+00:27:12.162 --> 00:27:15.282
+to use here, but it's not something that occurs
+
+553
+00:27:15.282 --> 00:27:19.003
+naturally, right? Because I'm asking you that because sometimes
+
+554
+00:27:19.003 --> 00:27:23.203
+we hear suggestions from certain people, certain pundits, for
+
+555
+00:27:23.203 --> 00:27:28.135
+example, that if, uh, inequality. It rises, it's just
+
+556
+00:27:28.135 --> 00:27:31.546
+the system, it's just how the system works. It's
+
+557
+00:27:31.546 --> 00:27:34.745
+inevitable, something like that. But I mean, at least
+
+558
+00:27:34.745 --> 00:27:37.015
+according to what you just, you just said there,
+
+559
+00:27:37.225 --> 00:27:40.615
+it seems to me that, that it's not inevitable.
+
+560
+00:27:41.125 --> 00:27:43.395
+Yeah, that's a really good question. Um, YOU know,
+
+561
+00:27:43.505 --> 00:27:45.026
+I, I would say again, this is, this is
+
+562
+00:27:45.026 --> 00:27:48.520
+why clear dynamics is helpful. Because it helps uh
+
+563
+00:27:48.520 --> 00:27:50.569
+but it's true, it gives us that frame to
+
+564
+00:27:50.880 --> 00:27:53.439
+um really explore a question like that. So what
+
+565
+00:27:53.439 --> 00:27:55.599
+we find, and if you look at, for example,
+
+566
+00:27:55.680 --> 00:27:58.329
+evolutionary work, if you even look at other species,
+
+567
+00:27:58.640 --> 00:27:59.959
+what we find is that there's a bit of
+
+568
+00:27:59.959 --> 00:28:04.030
+a contradiction in the way that humans work. OK.
+
+569
+00:28:04.219 --> 00:28:08.359
+So there is You know, yeah, natural, is maybe
+
+570
+00:28:08.359 --> 00:28:09.640
+not the right word. There's not really a good
+
+571
+00:28:09.640 --> 00:28:12.479
+word for it. It is very common and there
+
+572
+00:28:12.479 --> 00:28:17.430
+are reasons why humans and many, most other species,
+
+573
+00:28:17.800 --> 00:28:21.719
+um, are OK with hierarchies, right? Hierarchies are very
+
+574
+00:28:21.719 --> 00:28:24.359
+dangerous, but they're also can be very helpful, right?
+
+575
+00:28:24.479 --> 00:28:29.280
+Like there's a coordination challenge, having somebody in charge,
+
+576
+00:28:29.439 --> 00:28:31.500
+even just to set the. Agenda, right? If you
+
+577
+00:28:31.500 --> 00:28:33.060
+ever been in like a meeting with more than
+
+578
+00:28:33.060 --> 00:28:35.569
+3 people, you know, it can be pretty chaotic,
+
+579
+00:28:35.780 --> 00:28:38.579
+unless there's kind of somebody in charge, somebody like
+
+580
+00:28:38.579 --> 00:28:40.900
+you who's actually leading the interview, asking the questions,
+
+581
+00:28:40.979 --> 00:28:43.939
+right? There is a reason why these sorts of
+
+582
+00:28:43.939 --> 00:28:46.780
+hierarchies emerge in humans and other groups, right? So
+
+583
+00:28:46.780 --> 00:28:49.060
+we're very comfortable with that. It is very helpful
+
+584
+00:28:49.060 --> 00:28:52.339
+in a lot of circumstances, especially as societies become
+
+585
+00:28:52.339 --> 00:28:55.699
+bigger in scale. It's just so hard. To coordinate
+
+586
+00:28:55.699 --> 00:28:59.020
+to keep track, to manage hundreds if not millions
+
+587
+00:28:59.020 --> 00:29:02.300
+of different people, without some kinds of positions of
+
+588
+00:29:02.300 --> 00:29:05.420
+authority, um, in, in some way. So there is
+
+589
+00:29:05.420 --> 00:29:09.020
+that, that is, you know, natural, if, if that's
+
+590
+00:29:09.020 --> 00:29:10.619
+the word you want to use, and, and many
+
+591
+00:29:10.619 --> 00:29:12.739
+people do as, as you point out. So there
+
+592
+00:29:12.739 --> 00:29:15.260
+is something there, right? There is something useful in
+
+593
+00:29:15.260 --> 00:29:17.859
+that. There's a reason that that emerges again and
+
+594
+00:29:17.859 --> 00:29:20.660
+again and again in different contexts throughout history and,
+
+595
+00:29:20.709 --> 00:29:24.209
+and even in other species. On the other hand,
+
+596
+00:29:24.459 --> 00:29:30.020
+humans are naturally evolved to be pretty averse and
+
+597
+00:29:30.020 --> 00:29:37.180
+um Sort of disgusted by gross inequities. So those
+
+598
+00:29:37.180 --> 00:29:38.819
+kind of two things don't seem like they go
+
+599
+00:29:38.819 --> 00:29:40.619
+together, but they sort of do, right? Like, even
+
+600
+00:29:40.619 --> 00:29:43.300
+if you, if you run psychological experiments, you can
+
+601
+00:29:43.300 --> 00:29:46.849
+sort of tell people, you know, in the abstract,
+
+602
+00:29:47.260 --> 00:29:49.020
+you know, is it, is it fair if, you
+
+603
+00:29:49.020 --> 00:29:53.150
+know, person X has 100 times more wealth than
+
+604
+00:29:53.150 --> 00:29:57.430
+person Y, pretty much everybody will say, yes, that's
+
+605
+00:29:57.430 --> 00:29:59.949
+not fair, that shouldn't happen, some rules should come
+
+606
+00:29:59.949 --> 00:30:02.760
+in, even those with extreme wealth would say that's
+
+607
+00:30:02.760 --> 00:30:06.430
+not right, some rules should happen. So we are,
+
+608
+00:30:06.579 --> 00:30:10.930
+you know, inclined to not accept those kinds of
+
+609
+00:30:10.930 --> 00:30:13.959
+extreme inequalities, especially when it becomes embedded in the
+
+610
+00:30:13.959 --> 00:30:17.280
+person, rather than the position. Right? So there's hierarchies
+
+611
+00:30:17.280 --> 00:30:19.939
+in terms of having uh a person like a
+
+612
+00:30:19.939 --> 00:30:23.099
+president, a prime minister, whatever. But one of the
+
+613
+00:30:23.099 --> 00:30:25.020
+reasons we have sort of term limits and these
+
+614
+00:30:25.020 --> 00:30:28.030
+kinds of rules is to get around this contradiction.
+
+615
+00:30:28.099 --> 00:30:30.099
+We want there to be somebody in charge, but
+
+616
+00:30:30.099 --> 00:30:32.459
+we don't want often a person to have too
+
+617
+00:30:32.459 --> 00:30:35.250
+much power. So we, we try to have these
+
+618
+00:30:35.250 --> 00:30:38.260
+institutions that kind of balance those two things. And
+
+619
+00:30:38.260 --> 00:30:42.239
+with wealth, again, this happens that. In many cases,
+
+620
+00:30:42.410 --> 00:30:45.010
+when things are going well, you will have hierarchies
+
+621
+00:30:45.010 --> 00:30:47.199
+emerge, you'll have people who are, you know, in
+
+622
+00:30:47.209 --> 00:30:50.359
+in charge of political stuff or military or economic.
+
+623
+00:30:51.270 --> 00:30:54.640
+They gain these sort of extra uh amounts of
+
+624
+00:30:54.640 --> 00:30:58.199
+power. Because of their position, and it works for
+
+625
+00:30:58.199 --> 00:31:01.349
+a time. But when they, when they sort of
+
+626
+00:31:01.349 --> 00:31:03.229
+hold on to that, when they use that power
+
+627
+00:31:03.229 --> 00:31:05.390
+to give themselves a little bit more to solidify
+
+628
+00:31:05.390 --> 00:31:08.630
+that, to pass it on to their children, so
+
+629
+00:31:08.630 --> 00:31:10.750
+that it's not just the office itself that holds
+
+630
+00:31:10.750 --> 00:31:13.750
+power, it's, it's me and my family. That becomes
+
+631
+00:31:13.750 --> 00:31:16.229
+a little bit of a different situation. That's how
+
+632
+00:31:16.229 --> 00:31:19.510
+it can then grow generation after generation and become
+
+633
+00:31:19.750 --> 00:31:23.709
+sort of this entrenched, uh, uh, inequity that just
+
+634
+00:31:23.709 --> 00:31:27.010
+builds and grows and becomes farther. You know, so
+
+635
+00:31:27.010 --> 00:31:29.489
+it is the result of decisions, but it's not
+
+636
+00:31:29.489 --> 00:31:33.810
+always. It's not always just purely selfish and and
+
+637
+00:31:33.810 --> 00:31:37.319
+with ill intent, you know, people honestly think, OK,
+
+638
+00:31:37.479 --> 00:31:41.160
+well, you know, I'm, I'm performing a service, I'm
+
+639
+00:31:41.160 --> 00:31:46.160
+the governor, I'm, you know, the CEO, whatever. I
+
+640
+00:31:46.160 --> 00:31:48.510
+deserve a little bit more. I'm doing something important.
+
+641
+00:31:48.880 --> 00:31:52.079
+My action, you know, provides this benefit to the
+
+642
+00:31:52.079 --> 00:31:54.910
+society. And so, you know, I want to look
+
+643
+00:31:54.910 --> 00:31:56.550
+after my kids. And I mean, I'm not thinking
+
+644
+00:31:56.550 --> 00:31:59.270
+about the impact on the wider society. If I
+
+645
+00:31:59.270 --> 00:32:02.709
+was, maybe I wouldn't do the same thing. But
+
+646
+00:32:02.709 --> 00:32:04.729
+if you're nearly focused on, OK, well, I want
+
+647
+00:32:04.729 --> 00:32:06.469
+to take care of myself and my family, so
+
+648
+00:32:06.469 --> 00:32:08.510
+I'm gonna act in this way. And it seems
+
+649
+00:32:08.510 --> 00:32:12.819
+small, and there's no immediate effect from it. But
+
+650
+00:32:12.819 --> 00:32:14.619
+then in the next generation, your kid does the
+
+651
+00:32:14.619 --> 00:32:16.140
+same thing, and then their kid does the same
+
+652
+00:32:16.140 --> 00:32:19.099
+thing, and then 100 other kids do the same
+
+653
+00:32:19.099 --> 00:32:21.540
+thing. And before you know it, it's gone out
+
+654
+00:32:21.540 --> 00:32:24.739
+of control. So it's not, it's not quite always
+
+655
+00:32:24.739 --> 00:32:27.219
+as intentional, you know, I don't think that the
+
+656
+00:32:27.219 --> 00:32:31.650
+individuals are necessarily always the villains in the story.
+
+657
+00:32:31.819 --> 00:32:33.760
+It is the system, right? It's, it's the system
+
+658
+00:32:33.760 --> 00:32:38.609
+that uh You know, you need institutions, you need
+
+659
+00:32:38.609 --> 00:32:42.130
+rules, you need regulations that prevent that kind of
+
+660
+00:32:42.130 --> 00:32:44.390
+action, because if you don't have them, if those
+
+661
+00:32:44.390 --> 00:32:51.469
+institutions are weakened, then very small. Seemingly with good
+
+662
+00:32:51.469 --> 00:32:54.430
+intent kind of actions can lead to these terrible
+
+663
+00:32:54.430 --> 00:32:57.150
+consequences down the road. I think that's where we
+
+664
+00:32:57.150 --> 00:32:59.630
+are. And again, this is why, one of the
+
+665
+00:32:59.630 --> 00:33:04.119
+reasons why the historical um Approach is so important
+
+666
+00:33:04.449 --> 00:33:05.890
+is, you know, you can, you can look at
+
+667
+00:33:05.890 --> 00:33:08.449
+sort of the state of inequality today in any
+
+668
+00:33:08.449 --> 00:33:12.260
+kind of snapshot. But you're never gonna understand why
+
+669
+00:33:12.260 --> 00:33:16.739
+it happened, unless you look 25, 30, 50 years
+
+670
+00:33:16.739 --> 00:33:18.459
+before, cause it takes a lot of time for
+
+671
+00:33:18.459 --> 00:33:20.500
+it to get to where it is today, right?
+
+672
+00:33:20.619 --> 00:33:24.020
+So you really need that, that long-term dynamic kind
+
+673
+00:33:24.020 --> 00:33:26.660
+of understanding, because it is, it's not just one
+
+674
+00:33:26.660 --> 00:33:29.699
+big decision by a selfish jerk. It's a bunch
+
+675
+00:33:29.699 --> 00:33:33.699
+of little decisions by pretty well-meaning um individuals that,
+
+676
+00:33:33.760 --> 00:33:36.739
+that lead to these bad situations. I don't know
+
+677
+00:33:36.739 --> 00:33:38.020
+if that, if that makes sense, but there is
+
+678
+00:33:38.020 --> 00:33:40.890
+that kind of contradiction of You know, we, we
+
+679
+00:33:40.890 --> 00:33:43.489
+do want and and accept some kinds of hierarchy,
+
+680
+00:33:43.530 --> 00:33:46.420
+but we also don't want too much inequality, and
+
+681
+00:33:46.420 --> 00:33:48.569
+it's really hard to maintain a balance there. It's
+
+682
+00:33:48.569 --> 00:33:51.260
+sort of a constant uh vigilance is needed.
+
+683
+00:33:52.270 --> 00:33:54.650
+So earlier when I asked you the first question
+
+684
+00:33:54.650 --> 00:33:59.050
+about inequality, you mentioned phenomenon like elite overproduction and
+
+685
+00:33:59.050 --> 00:34:03.170
+infighting, but is it that in more unequal societies,
+
+686
+00:34:03.250 --> 00:34:06.609
+we also see more competition not only among people
+
+687
+00:34:06.609 --> 00:34:08.530
+who are already part of the elites and then,
+
+688
+00:34:08.540 --> 00:34:11.688
+and want to accumulate even more wealth and power
+
+689
+00:34:11.688 --> 00:34:16.020
+and so on. But also across the other socioeconomic
+
+690
+00:34:16.020 --> 00:34:18.840
+stra, I mean, is there also more competition for
+
+691
+00:34:18.840 --> 00:34:22.489
+people to try to reach those higher spots because
+
+692
+00:34:22.489 --> 00:34:25.280
+they are the most secure in their societies.
+
+693
+00:34:25.530 --> 00:34:27.889
+Yeah, uh, that's extremely well put. I mean, I
+
+694
+00:34:27.889 --> 00:34:29.688
+think that's exactly right. And this is again, what
+
+695
+00:34:29.688 --> 00:34:32.050
+we see time and time again, um, when we
+
+696
+00:34:32.050 --> 00:34:33.810
+explore these situations, and this is what I mean
+
+697
+00:34:33.810 --> 00:34:38.570
+that. Inequality is corrosive throughout. You know, it is,
+
+698
+00:34:38.820 --> 00:34:42.379
+as this wealth accumulates, generally what we find, and
+
+699
+00:34:42.379 --> 00:34:45.090
+this is, this is common again throughout, um, you
+
+700
+00:34:45.090 --> 00:34:49.530
+know, different contexts. But as people amass wealth and
+
+701
+00:34:49.530 --> 00:34:52.728
+authority, they always wanna almost always wanna translate that
+
+702
+00:34:52.728 --> 00:34:55.560
+into other aspects. So, you know, if you get
+
+703
+00:34:55.560 --> 00:34:58.189
+rich, you want to also be a politician or
+
+704
+00:34:58.189 --> 00:35:01.760
+you also, whatever, whatever the society values. You want
+
+705
+00:35:01.760 --> 00:35:04.159
+to have this sort of prestigious uh authority in
+
+706
+00:35:04.159 --> 00:35:08.040
+this other position. Generally, those are kind of limited,
+
+707
+00:35:08.120 --> 00:35:10.199
+those are fixed, right? Like, you look at the
+
+708
+00:35:10.199 --> 00:35:13.080
+US, there's 100 senators, there's always been 100 senators,
+
+709
+00:35:13.120 --> 00:35:15.639
+that's it. So no matter how many rich people
+
+710
+00:35:15.639 --> 00:35:18.560
+think they deserve a Senate seat, there's only ever
+
+711
+00:35:18.560 --> 00:35:20.860
+going to be 100 at a time. And so,
+
+712
+00:35:20.939 --> 00:35:23.399
+the more rich people come in, the more wealth
+
+713
+00:35:23.399 --> 00:35:25.780
+of masses, the more people think they have a
+
+714
+00:35:25.780 --> 00:35:29.300
+shot or deserve one of those positions, the more
+
+715
+00:35:29.300 --> 00:35:31.300
+there's going to be frustration, because uh, you know,
+
+716
+00:35:31.459 --> 00:35:33.500
+people are gonna be left out. But as you
+
+717
+00:35:33.500 --> 00:35:38.290
+say, As that is happening, people, you know, just
+
+718
+00:35:38.290 --> 00:35:40.360
+below that are seeing this, oh, well, you know,
+
+719
+00:35:40.530 --> 00:35:42.080
+if I just had a little bit more wealth,
+
+720
+00:35:42.169 --> 00:35:44.320
+I could be like them. I could join that
+
+721
+00:35:44.320 --> 00:35:45.850
+class. Oh, they look like they're having a lot
+
+722
+00:35:45.850 --> 00:35:48.290
+of fun. They look like they're doing great, you
+
+723
+00:35:48.290 --> 00:35:50.889
+know, yeah, I'm pretty well off, but I'm not
+
+724
+00:35:50.889 --> 00:35:52.850
+super rich like my neighbor. I went to this
+
+725
+00:35:52.850 --> 00:35:54.250
+party with that guy. I want to be like
+
+726
+00:35:54.250 --> 00:35:58.129
+him. So you then strive to get that extra
+
+727
+00:35:58.129 --> 00:36:00.879
+wealth, but a bunch of other people are doing
+
+728
+00:36:00.879 --> 00:36:04.270
+that too. So again, that competition goes in. And
+
+729
+00:36:04.270 --> 00:36:05.949
+as you say at the same time, as this
+
+730
+00:36:05.949 --> 00:36:10.669
+inequality is um uh getting deeper, it also means
+
+731
+00:36:10.669 --> 00:36:12.530
+that there's more and more people sort of in,
+
+732
+00:36:12.550 --> 00:36:17.139
+in the bottom 80%, let's say, of the socioeconomic
+
+733
+00:36:17.439 --> 00:36:21.949
+um strata, who are suffering, right, legitimately. Their well-being
+
+734
+00:36:21.949 --> 00:36:25.429
+is declining, they don't have material resources, they don't
+
+735
+00:36:25.429 --> 00:36:28.260
+feel like they're being included in the political process
+
+736
+00:36:28.260 --> 00:36:32.179
+because they're not, um, and they're frustrated, they're angry.
+
+737
+00:36:32.860 --> 00:36:38.120
+And that breeds competition as well, both with, you
+
+738
+00:36:38.120 --> 00:36:41.739
+know, anger at, at the wealthy elites who are
+
+739
+00:36:41.739 --> 00:36:43.239
+in these halls of power. You say, well, how
+
+740
+00:36:43.239 --> 00:36:45.520
+come you have everything, I want you to change
+
+741
+00:36:45.520 --> 00:36:47.600
+the system, I want to bring you down, I
+
+742
+00:36:47.600 --> 00:36:50.949
+want to, you know, change things up. But also,
+
+743
+00:36:51.000 --> 00:36:52.919
+as you say, with each other, we do find
+
+744
+00:36:52.919 --> 00:36:55.639
+that factions tend to form, you do see this
+
+745
+00:36:55.639 --> 00:37:00.320
+sort of partisanship, even among the non-elite um classes.
+
+746
+00:37:00.820 --> 00:37:02.479
+Again, a lot of it is, well, you know,
+
+747
+00:37:02.600 --> 00:37:04.760
+maybe it's, you're different than me, maybe you're the
+
+748
+00:37:04.760 --> 00:37:08.959
+reason why I'm suffering, you know, there's a reason
+
+749
+00:37:08.959 --> 00:37:12.790
+that sort of Xenophobic nationalist kind of attitudes. Again,
+
+750
+00:37:12.909 --> 00:37:16.870
+these are not modern phenomena. You see these across
+
+751
+00:37:16.870 --> 00:37:20.709
+history, when things aren't going well, when inequality takes
+
+752
+00:37:20.709 --> 00:37:23.229
+hold, people start to lash out. They want to
+
+753
+00:37:23.229 --> 00:37:25.969
+look for a scapegoat, they wanna see, OK, who,
+
+754
+00:37:25.989 --> 00:37:27.979
+who is keeping me down, who is an other,
+
+755
+00:37:28.149 --> 00:37:30.379
+who's who's a different group, who's different than me,
+
+756
+00:37:30.590 --> 00:37:33.919
+that I can maybe blame for, for what's going
+
+757
+00:37:33.919 --> 00:37:36.570
+on or or focus my anger on. So you
+
+758
+00:37:36.570 --> 00:37:38.570
+see those kind of splits, you see those factions
+
+759
+00:37:38.570 --> 00:37:41.820
+forming, you want to, you know, you want to
+
+760
+00:37:41.820 --> 00:37:44.530
+be upwardly social socially mobile, but maybe you're being
+
+761
+00:37:44.530 --> 00:37:47.639
+prevented because the system, the structure has now developed,
+
+762
+00:37:47.850 --> 00:37:50.530
+inequality has developed to a way that, that you're
+
+763
+00:37:50.530 --> 00:37:53.320
+not there. And when you combine both of those,
+
+764
+00:37:53.409 --> 00:37:57.610
+when there's factions and unrest among the non-elites, and
+
+765
+00:37:57.610 --> 00:38:01.939
+there's overproduction and competition among the elites, They tend
+
+766
+00:38:01.939 --> 00:38:05.199
+to join up, and that's when you really see
+
+767
+00:38:05.199 --> 00:38:10.310
+violence spike. Like most major civil wars follow that
+
+768
+00:38:10.310 --> 00:38:12.479
+path, right? It, it's a very, as I say,
+
+769
+00:38:12.520 --> 00:38:15.280
+it's a very dangerous, very volatile situation. I should
+
+770
+00:38:15.280 --> 00:38:17.709
+say, You know, there is a line of thought
+
+771
+00:38:17.709 --> 00:38:20.790
+that says, well, that's actually necessary, that the only
+
+772
+00:38:20.790 --> 00:38:22.709
+way you can, you know, once you get in
+
+773
+00:38:22.709 --> 00:38:24.830
+the situation where the system isn't working, where you
+
+774
+00:38:24.830 --> 00:38:27.629
+have this inequality, you need something to break it.
+
+775
+00:38:29.290 --> 00:38:31.449
+There is some historical evidence for that. It's a
+
+776
+00:38:31.449 --> 00:38:34.129
+little choppy, but there are, you know, some suggestions
+
+777
+00:38:34.129 --> 00:38:37.770
+that, OK, you need some dramatic events to change
+
+778
+00:38:37.770 --> 00:38:42.260
+the system, like a civil war. I, I am
+
+779
+00:38:42.260 --> 00:38:45.260
+always of the opinion that, you know, we can
+
+780
+00:38:45.260 --> 00:38:47.820
+have the change without the violence. Like civil wars
+
+781
+00:38:47.820 --> 00:38:51.500
+are awful. Um, THEY are horrible, all wars are
+
+782
+00:38:51.500 --> 00:38:53.850
+horrible, they're violent, that's what we want to avoid,
+
+783
+00:38:54.260 --> 00:38:56.459
+and we also want to improve people's lives. We
+
+784
+00:38:56.459 --> 00:38:58.169
+should be able to do the one without having
+
+785
+00:38:58.169 --> 00:39:03.530
+to have the other, um, and, you know, It's,
+
+786
+00:39:03.570 --> 00:39:07.090
+it's, uh, It's also the case that not every
+
+787
+00:39:07.090 --> 00:39:11.209
+civil war or or major dramatic, you know, violent
+
+788
+00:39:11.209 --> 00:39:14.729
+uh revolution or rebellion, it doesn't always lead to
+
+789
+00:39:14.729 --> 00:39:17.199
+improvement in people's well-being in the next phase, like,
+
+790
+00:39:17.209 --> 00:39:21.010
+oftentimes it leads to authoritarian crackdowns. And so there's
+
+791
+00:39:21.010 --> 00:39:24.050
+no guarantee. Um, SO, you know, it's a little
+
+792
+00:39:24.050 --> 00:39:25.469
+bit of a be careful what you wish for.
+
+793
+00:39:25.530 --> 00:39:27.399
+Like, it's, it's, there are, like, I, I get
+
+794
+00:39:27.399 --> 00:39:30.330
+the mindset that sort of says, well, maybe this
+
+795
+00:39:30.330 --> 00:39:32.209
+is something we need, maybe this is something we
+
+796
+00:39:32.209 --> 00:39:36.419
+should be pushing for. You know, it's historically, we
+
+797
+00:39:36.419 --> 00:39:38.820
+find that it's not, it's not as straightforward as
+
+798
+00:39:38.820 --> 00:39:40.979
+it may seem sometimes. I guess that's where I'm
+
+799
+00:39:40.979 --> 00:39:43.060
+trying to get to. That was a long answer
+
+800
+00:39:43.060 --> 00:39:44.830
+to your question, but it's a really important topic,
+
+801
+00:39:44.860 --> 00:39:46.129
+I think, and so, yeah, yeah.
+
+802
+00:39:47.060 --> 00:39:49.659
+But when we reach a point in a particular
+
+803
+00:39:49.659 --> 00:39:53.780
+society where a revolution is about to occur, I
+
+804
+00:39:53.780 --> 00:39:57.489
+mean, what leads to a revolution is people at
+
+805
+00:39:57.489 --> 00:40:01.020
+the bottom because by then we have uh a
+
+806
+00:40:01.020 --> 00:40:04.699
+huge number of people who are, who have been
+
+807
+00:40:04.699 --> 00:40:07.979
+basically abandoned by the system and are incredibly frustrated.
+
+808
+00:40:08.060 --> 00:40:12.139
+Is it them mobilizing among themselves, or is it,
+
+809
+00:40:12.219 --> 00:40:14.929
+for example, some people who are part of the
+
+810
+00:40:14.929 --> 00:40:18.620
+elites mobilizing them for revolution?
+
+811
+00:40:19.050 --> 00:40:21.159
+Yeah, it's a really good question. That's actually part
+
+812
+00:40:21.159 --> 00:40:23.199
+of a research project that I have right now
+
+813
+00:40:23.199 --> 00:40:26.040
+ongoing with a colleague, Rachel Ainsworth. We're trying to
+
+814
+00:40:26.040 --> 00:40:29.239
+look into revolution specifically, why do they happen and
+
+815
+00:40:29.239 --> 00:40:32.679
+especially what happens afterwards, like what are the conditions
+
+816
+00:40:32.679 --> 00:40:35.719
+that a revolution will lead to improvements in people's
+
+817
+00:40:35.719 --> 00:40:38.739
+lives and when doesn't. And it's really interesting. So,
+
+818
+00:40:38.780 --> 00:40:42.310
+you know, you definitely have movements of, you know,
+
+819
+00:40:42.379 --> 00:40:45.149
+that kind of grassroots um style movement where you
+
+820
+00:40:45.149 --> 00:40:53.639
+have a groundswell of popular unrest, um. Rarely, almost
+
+821
+00:40:53.639 --> 00:40:58.080
+never, is that sufficient for a major system change
+
+822
+00:40:58.080 --> 00:41:00.560
+revolution. You can have violence, you can have sort
+
+823
+00:41:00.560 --> 00:41:03.239
+of protests, you can have unrest because of that
+
+824
+00:41:03.239 --> 00:41:06.399
+sort of popular groundswell, maybe sometimes you can get
+
+825
+00:41:06.399 --> 00:41:09.199
+institutional reforms because of it. Um, I'm actually working
+
+826
+00:41:09.199 --> 00:41:10.919
+on a piece right now that looks at different
+
+827
+00:41:10.919 --> 00:41:13.879
+cases, for example, um, you know, we, we've been
+
+828
+00:41:13.879 --> 00:41:18.800
+looking at, uh, the mid-nineteenth century England. Again, popular
+
+829
+00:41:18.800 --> 00:41:22.070
+groundswell of, of unrest, there was violence, there was
+
+830
+00:41:22.070 --> 00:41:24.520
+protests, there was major strikes at factories. This is
+
+831
+00:41:24.520 --> 00:41:27.959
+early industrial England. And what happened was, you know,
+
+832
+00:41:28.040 --> 00:41:31.120
+the elite, the political class were fairly cohesive. So
+
+833
+00:41:31.120 --> 00:41:32.639
+it didn't, it didn't lead to a civil war.
+
+834
+00:41:32.719 --> 00:41:35.949
+It didn't spiral, but there was kind of enough
+
+835
+00:41:35.949 --> 00:41:38.679
+politicians, enough elite who said, well, you know, this
+
+836
+00:41:38.679 --> 00:41:40.520
+isn't going well, this isn't gonna end well for
+
+837
+00:41:40.520 --> 00:41:42.800
+us. We should probably take some of these demands
+
+838
+00:41:42.800 --> 00:41:44.600
+seriously, and it led to actually this period of
+
+839
+00:41:44.600 --> 00:41:48.439
+good reforms, like, Um, safety protections for workers in
+
+840
+00:41:48.439 --> 00:41:51.679
+factories and wage protections, and, you know, a lot
+
+841
+00:41:51.679 --> 00:41:54.189
+of good kind of welfare policies came from it.
+
+842
+00:41:54.679 --> 00:41:56.909
+We wouldn't call that a revolution, right? That's, that's
+
+843
+00:41:57.280 --> 00:41:59.959
+a mini rebellion, that sort of protest that led
+
+844
+00:41:59.959 --> 00:42:02.600
+to this period of reform. When you're talking about
+
+845
+00:42:02.600 --> 00:42:09.290
+like a major armed revolution. You know, That's, that's
+
+846
+00:42:09.860 --> 00:42:12.310
+so big that we historians can actually sort of
+
+847
+00:42:12.310 --> 00:42:15.649
+identify it as a revolution. In almost every case,
+
+848
+00:42:15.820 --> 00:42:18.580
+you get that that groundswell of unrest and people
+
+849
+00:42:18.580 --> 00:42:22.270
+sort of taking up arms to make change. But
+
+850
+00:42:22.270 --> 00:42:25.629
+it has to link up with frustrated elites as
+
+851
+00:42:25.629 --> 00:42:28.679
+well. Like without, if, if the people in power
+
+852
+00:42:29.149 --> 00:42:32.989
+hold together, if they are completely united, a revolution
+
+853
+00:42:32.989 --> 00:42:35.939
+doesn't have a chance in pretty much any situation.
+
+854
+00:42:36.149 --> 00:42:39.340
+You need at least some factions of those with
+
+855
+00:42:39.389 --> 00:42:42.709
+with wealth and power to get on board for
+
+856
+00:42:42.709 --> 00:42:46.110
+it to turn into a real major revolutionary moment
+
+857
+00:42:46.110 --> 00:42:48.340
+in in pretty much every case, I would say,
+
+858
+00:42:48.669 --> 00:42:51.659
+um. And again, for good and bad, sometimes that
+
+859
+00:42:51.659 --> 00:42:56.500
+leads to, you know, um, Positive system change, sometimes
+
+860
+00:42:56.500 --> 00:42:58.419
+it's just a bunch of violence and things are
+
+861
+00:42:58.419 --> 00:43:00.580
+kind of worse afterwards. You, you get a little
+
+862
+00:43:00.580 --> 00:43:03.419
+bit above. But in almost every sort of major
+
+863
+00:43:03.419 --> 00:43:08.489
+revolutionary case, it is a combination of Non-elites getting
+
+864
+00:43:08.489 --> 00:43:13.600
+frustrated and elites um also being uh sort of
+
+865
+00:43:14.250 --> 00:43:16.610
+feeling left out by the current status quo and
+
+866
+00:43:16.610 --> 00:43:19.489
+wanting, wanting to upend things, wanting things to change.
+
+867
+00:43:20.520 --> 00:43:24.219
+But is that because uh the elites, if they
+
+868
+00:43:24.219 --> 00:43:28.340
+all get together, they have power over or they
+
+869
+00:43:28.340 --> 00:43:31.340
+can control the military and so they are more
+
+870
+00:43:31.340 --> 00:43:34.500
+powerful than the rest of the population. BECAUSE I
+
+871
+00:43:34.500 --> 00:43:37.699
+was wondering because one could think that, oh, but
+
+872
+00:43:38.100 --> 00:43:40.860
+the people at the bottom are so, so many
+
+873
+00:43:40.860 --> 00:43:43.719
+that they can overthrow the elites anyway. But I,
+
+874
+00:43:43.780 --> 00:43:45.739
+I mean, why is it that they need, that
+
+875
+00:43:45.739 --> 00:43:48.850
+they need some support from at least a faction
+
+876
+00:43:48.850 --> 00:43:49.860
+of the elites?
+
+877
+00:43:50.250 --> 00:43:52.209
+Yeah, uh, it, it, it is that sort of
+
+878
+00:43:52.209 --> 00:43:56.290
+suppressive mechanism. Like if, if those who are in
+
+879
+00:43:56.290 --> 00:43:59.610
+most control of the wealth, the political authority, the
+
+880
+00:43:59.610 --> 00:44:02.840
+military authority, the use of violence, if they are
+
+881
+00:44:02.840 --> 00:44:05.969
+united and are willing to sort of use their
+
+882
+00:44:05.969 --> 00:44:09.209
+authority to suppress dissent, they can suppress dissent in
+
+883
+00:44:09.209 --> 00:44:11.770
+almost every case. Try to think of of examples
+
+884
+00:44:11.770 --> 00:44:14.250
+where, where, um, you know, I mean, you, you
+
+885
+00:44:14.250 --> 00:44:17.090
+can see that all the time. It's short-lived, I
+
+886
+00:44:17.090 --> 00:44:19.209
+will say like, you can't, you can't have a
+
+887
+00:44:19.209 --> 00:44:21.290
+society that does that for hundreds of years and
+
+888
+00:44:21.290 --> 00:44:24.649
+it functions super well. Eventually, it will crack, right?
+
+889
+00:44:24.830 --> 00:44:28.600
+Eventually, um, You know, you're devoting so much time
+
+890
+00:44:28.600 --> 00:44:33.360
+and effort to dissent. That either, you know, an
+
+891
+00:44:33.360 --> 00:44:35.520
+elite group will splinter off and then you're not
+
+892
+00:44:35.520 --> 00:44:38.209
+united anymore, or what happens most of the time,
+
+893
+00:44:38.510 --> 00:44:40.949
+those are weakened societies that are taken over by
+
+894
+00:44:40.949 --> 00:44:44.500
+somebody else. Um, RIGHT, not, it's not a viable
+
+895
+00:44:44.500 --> 00:44:48.550
+long-term strategy, but it can suppress, uh, dissent, it
+
+896
+00:44:48.550 --> 00:44:51.989
+can suppress a potential revolution in, in the short
+
+897
+00:44:51.989 --> 00:44:53.830
+term. You know, you think of like Jack Goldstone,
+
+898
+00:44:53.989 --> 00:44:58.060
+um, writes a lot about This and about, you
+
+899
+00:44:58.060 --> 00:45:01.770
+know, the way that any sort of major revolution
+
+900
+00:45:01.770 --> 00:45:04.729
+needs to have some power holders in charge, you
+
+901
+00:45:04.729 --> 00:45:08.679
+can find suppression. Yeah, all over the place and,
+
+902
+00:45:08.709 --> 00:45:11.979
+and, you know. If, if, if, if the powers
+
+903
+00:45:11.979 --> 00:45:15.300
+that you want to, they generally can, but only
+
+904
+00:45:15.300 --> 00:45:17.699
+for a time. And so, you know, this, this
+
+905
+00:45:17.699 --> 00:45:18.939
+is what I mean is that, you know, that's
+
+906
+00:45:18.939 --> 00:45:21.540
+not necessarily the, the right path. If you want
+
+907
+00:45:21.540 --> 00:45:26.929
+things to change, you know, it's, it's History suggests
+
+908
+00:45:26.929 --> 00:45:29.969
+that you, you want to get people on board,
+
+909
+00:45:30.050 --> 00:45:32.330
+you want to build coalitions, you want to do
+
+910
+00:45:32.330 --> 00:45:36.449
+some of that, um, You know, it can't just
+
+911
+00:45:36.449 --> 00:45:39.729
+be popular uprising. OK, we're, you know, we're gonna
+
+912
+00:45:39.729 --> 00:45:42.169
+come with pitchforks and, and take your stuff, that
+
+913
+00:45:42.169 --> 00:45:44.189
+tends not to work out so well for anybody,
+
+914
+00:45:44.370 --> 00:45:48.739
+um. A caution to the uh to the organizers
+
+915
+00:45:48.739 --> 00:45:50.510
+out there, I guess. Yeah.
+
+916
+00:45:50.919 --> 00:45:53.280
+So uh what do we have good examples of
+
+917
+00:45:53.280 --> 00:45:57.800
+societies who across history have been able to, so
+
+918
+00:45:57.800 --> 00:46:01.040
+to speak, right the ship before it got to
+
+919
+00:46:01.040 --> 00:46:03.719
+a point where they could no longer do it
+
+920
+00:46:03.719 --> 00:46:08.879
+where extreme inequality was so high that the revolution
+
+921
+00:46:08.879 --> 00:46:12.830
+or some sort of uprising was not preventable.
+
+922
+00:46:13.820 --> 00:46:16.419
+Yeah, um, it's a really good question and, and
+
+923
+00:46:16.419 --> 00:46:17.939
+one of the things I'm trying to focus on
+
+924
+00:46:17.939 --> 00:46:21.179
+right now, it's harder to find than you would
+
+925
+00:46:21.179 --> 00:46:22.699
+like it to be. There's only a sort of
+
+926
+00:46:22.699 --> 00:46:26.290
+smattering of different examples, um. You know, it is,
+
+927
+00:46:26.310 --> 00:46:30.040
+it is difficult to sort of assess and discover,
+
+928
+00:46:30.290 --> 00:46:32.449
+you know, a revolution that didn't happen that is
+
+929
+00:46:32.449 --> 00:46:36.110
+really tricky. You know, I think of You know,
+
+930
+00:46:36.189 --> 00:46:38.090
+for example, you know, I was just talking about
+
+931
+00:46:38.090 --> 00:46:42.510
+um the 19th century in England. You can look
+
+932
+00:46:42.510 --> 00:46:45.149
+at, you know, English history in sort of the,
+
+933
+00:46:45.159 --> 00:46:46.909
+the large sweep of things. You look at sort
+
+934
+00:46:46.909 --> 00:46:50.780
+of the 17th century, you look at You know,
+
+935
+00:46:50.939 --> 00:46:53.020
+inequality was on the rise. There was a lot
+
+936
+00:46:53.020 --> 00:46:56.129
+of unrest. There was, you know, pretty extreme um
+
+937
+00:46:56.520 --> 00:46:58.939
+suffering by large segments of the population. This is
+
+938
+00:46:58.939 --> 00:47:03.830
+sort of late medieval, um, early modern, um, period.
+
+939
+00:47:04.100 --> 00:47:06.729
+You know, it's, it's sort of post feudal, uh,
+
+940
+00:47:06.739 --> 00:47:08.899
+kind of situation. There's, there's a lot of extreme
+
+941
+00:47:08.899 --> 00:47:11.979
+restrictions on many people, you know, in terms of
+
+942
+00:47:11.979 --> 00:47:13.699
+their wealth, in terms of their movement, in terms
+
+943
+00:47:13.699 --> 00:47:17.080
+of their access. There was a, a groundswell of,
+
+944
+00:47:17.100 --> 00:47:21.219
+of unrest. But that had been suppressed for hundreds
+
+945
+00:47:21.219 --> 00:47:23.889
+of hundreds of years, right? Like, it was unequal,
+
+946
+00:47:24.100 --> 00:47:26.580
+you know, sort of medieval feudal period. Europe was
+
+947
+00:47:26.580 --> 00:47:29.040
+highly unequal. And it's not like everyone was rioting
+
+948
+00:47:29.040 --> 00:47:30.929
+in the streets every year. This is sort of
+
+949
+00:47:31.540 --> 00:47:33.840
+part of the example of what I mean. When,
+
+950
+00:47:33.850 --> 00:47:35.729
+when sort of the elites, when the power holders
+
+951
+00:47:35.729 --> 00:47:38.870
+were united, they could, they could keep that at
+
+952
+00:47:38.870 --> 00:47:43.500
+bay fairly well. You know, 17th century in England,
+
+953
+00:47:43.750 --> 00:47:47.229
+this starts to creep into this inequality, this different
+
+954
+00:47:47.229 --> 00:47:50.669
+factioning that's forming, you know, fights between different religious
+
+955
+00:47:50.669 --> 00:47:54.830
+branches, fights between sort of the, the landed economic
+
+956
+00:47:54.830 --> 00:47:56.679
+elite and some of the other sort of elites
+
+957
+00:47:56.679 --> 00:47:58.750
+who are growing up and and getting wealth from
+
+958
+00:47:58.750 --> 00:48:01.199
+trade and other sources. It's starting to create these
+
+959
+00:48:01.199 --> 00:48:05.909
+frictions. Um, YOU can see, you know, For a
+
+960
+00:48:05.909 --> 00:48:07.340
+lot of reasons we don't need to get into,
+
+961
+00:48:07.510 --> 00:48:09.560
+but it, it spirals into one of these major
+
+962
+00:48:09.560 --> 00:48:12.389
+periods and it turns into civil war, right? It's,
+
+963
+00:48:12.429 --> 00:48:14.679
+it's a serious thing. All of these different conditions
+
+964
+00:48:14.679 --> 00:48:19.270
+are there, inequality, unrest, lead overproduction, different sources of,
+
+965
+00:48:19.310 --> 00:48:21.550
+of wealth and power coming to a head, leading
+
+966
+00:48:21.550 --> 00:48:25.189
+to this friction. So that that happens, and that's
+
+967
+00:48:25.189 --> 00:48:28.820
+the most common thing. Again, what happens, you know,
+
+968
+00:48:29.020 --> 00:48:31.100
+you look at the same, the same country a
+
+969
+00:48:31.100 --> 00:48:35.969
+few 100 years later. Inequality is again taken root
+
+970
+00:48:35.969 --> 00:48:37.489
+for the same kind of reasons, you know, it
+
+971
+00:48:37.489 --> 00:48:39.719
+was reset a little bit after the Civil War,
+
+972
+00:48:40.090 --> 00:48:42.610
+but then over time, over generations, it grew back
+
+973
+00:48:42.610 --> 00:48:47.850
+up. Unrest is there, industrial, uh, industrialization is coming
+
+974
+00:48:47.850 --> 00:48:50.530
+to the country. So people are getting really, really,
+
+975
+00:48:50.540 --> 00:48:54.699
+really rich from this industrial movement, but also many
+
+976
+00:48:54.699 --> 00:48:57.300
+people are suffering, right? There's just no protection, there's
+
+977
+00:48:57.300 --> 00:49:00.719
+no wage protections, there's no safety regulations in early
+
+978
+00:49:00.719 --> 00:49:04.020
+factories in early industrial Europe. You know, it's, it's
+
+979
+00:49:04.020 --> 00:49:07.419
+a horrible conditions. People are really suffering. There's a
+
+980
+00:49:07.419 --> 00:49:09.129
+lot of people who are moving to the cities
+
+981
+00:49:09.129 --> 00:49:11.689
+cause they just can't find enough land and work
+
+982
+00:49:11.689 --> 00:49:15.530
+in the, in the uh farmlands. Mhm. So they
+
+983
+00:49:15.530 --> 00:49:16.969
+moved to the cities and all they can find
+
+984
+00:49:16.969 --> 00:49:20.129
+are these really horrible jobs in these factories. The
+
+985
+00:49:20.129 --> 00:49:23.489
+conditions are terrible, they're way, way overworked. They're dying,
+
+986
+00:49:23.570 --> 00:49:28.040
+they're, you know, Disease is rampant. It's awful. So
+
+987
+00:49:28.040 --> 00:49:30.000
+there's a lot of unrest. There's violence, there's things
+
+988
+00:49:30.000 --> 00:49:34.159
+that are happening. And in many cases, the elite
+
+989
+00:49:34.159 --> 00:49:36.520
+would come in and say, well, you know, too
+
+990
+00:49:36.520 --> 00:49:38.639
+bad. I'm gonna suppress this, I'm gonna kind of
+
+991
+00:49:38.639 --> 00:49:40.070
+keep this at at bay. And for a while,
+
+992
+00:49:40.159 --> 00:49:42.040
+they did that, right? There were, there were strikes,
+
+993
+00:49:42.080 --> 00:49:44.719
+there were riots in factories where workers, you know,
+
+994
+00:49:44.840 --> 00:49:47.800
+walked out on masse, and the military was called
+
+995
+00:49:47.800 --> 00:49:49.620
+in and said, OK, you know, we're putting a
+
+996
+00:49:49.620 --> 00:49:51.800
+stop to this. We are suppressing this. So that
+
+997
+00:49:51.800 --> 00:49:55.669
+definitely happened. But what it takes, and there's, there's
+
+998
+00:49:55.669 --> 00:49:57.580
+a handful of other cases where this happens. This
+
+999
+00:49:57.580 --> 00:50:00.379
+happens in um early 20th century US as well,
+
+1000
+00:50:00.389 --> 00:50:03.659
+basically the same exact process with this early industrial
+
+1001
+00:50:04.030 --> 00:50:06.689
+situation. You know, what happens is you, you, you
+
+1002
+00:50:06.689 --> 00:50:10.110
+see the suffering, you see how much Money, how
+
+1003
+00:50:10.110 --> 00:50:12.189
+much time, how much resources, how much effort are
+
+1004
+00:50:12.189 --> 00:50:17.300
+being spent just suppressing this dissent. There was enough
+
+1005
+00:50:17.300 --> 00:50:19.429
+people in Parliament in England at the time, in,
+
+1006
+00:50:19.510 --> 00:50:23.310
+in the mid-nineteenth century, you know, it's not, not
+
+1007
+00:50:23.310 --> 00:50:25.860
+necessarily that their, their motives were entirely pure and,
+
+1008
+00:50:25.870 --> 00:50:27.929
+and prosocial. They were maybe saying, oh, you know,
+
+1009
+00:50:28.229 --> 00:50:29.820
+the only way I'm gonna hold on to my,
+
+1010
+00:50:29.870 --> 00:50:33.469
+my, um, wealth and, and authority is we need
+
+1011
+00:50:33.469 --> 00:50:35.350
+to take some of these things seriously. We, we
+
+1012
+00:50:35.350 --> 00:50:37.949
+need to say, OK, these people are upset. They
+
+1013
+00:50:37.949 --> 00:50:43.409
+have specific um um uh demands. Maybe it would
+
+1014
+00:50:43.409 --> 00:50:45.889
+be better and cheaper for us as a state
+
+1015
+00:50:45.889 --> 00:50:48.149
+to actually meet some of them. So there was
+
+1016
+00:50:48.149 --> 00:50:50.610
+a switch, right? So, at first, you're standing in
+
+1017
+00:50:50.610 --> 00:50:56.360
+the military to suppress riots at these factories. Then
+
+1018
+00:50:56.360 --> 00:50:58.239
+enough politicians are saying, well, you know, we should
+
+1019
+00:50:58.239 --> 00:51:01.000
+take this seriously. There were, you know, the, the
+
+1020
+00:51:01.000 --> 00:51:04.239
+labor groups were in, in um conversation with some
+
+1021
+00:51:04.239 --> 00:51:06.439
+of these elites, and they said, well, you know,
+
+1022
+00:51:06.679 --> 00:51:08.719
+we are suffering, you should do something about it.
+
+1023
+00:51:08.879 --> 00:51:10.479
+You should make our lives better, and we wouldn't,
+
+1024
+00:51:10.600 --> 00:51:13.689
+we wouldn't protest so much. And you start to
+
+1025
+00:51:13.689 --> 00:51:15.830
+pass all these different laws. You start to pass
+
+1026
+00:51:15.830 --> 00:51:19.909
+safety regulations at factories, you start to give um
+
+1027
+00:51:20.459 --> 00:51:22.810
+non-property owners the vote for the first time in
+
+1028
+00:51:22.810 --> 00:51:24.689
+the mid-nineteenth century. So there was this sort of
+
+1029
+00:51:24.689 --> 00:51:28.370
+political reform, you know, there was wage protections, there
+
+1030
+00:51:28.370 --> 00:51:31.449
+was all this spending on, um, you know, what
+
+1031
+00:51:31.449 --> 00:51:33.689
+they called at the time porthouses, which was this
+
+1032
+00:51:33.689 --> 00:51:37.550
+attempt to Uh, provide food and shelter for those,
+
+1033
+00:51:37.689 --> 00:51:40.090
+uh, who are, who are suffering. It didn't really
+
+1034
+00:51:40.090 --> 00:51:42.330
+work that well. Like it wasn't a, a super
+
+1035
+00:51:42.330 --> 00:51:44.719
+great system, but at least it was a start,
+
+1036
+00:51:44.729 --> 00:51:46.659
+it was an attempt. It was something to build
+
+1037
+00:51:46.659 --> 00:51:51.800
+on. And it, it worked, right? Disent leveled off
+
+1038
+00:51:51.800 --> 00:51:54.679
+and without, you know, without a ton of violence,
+
+1039
+00:51:54.850 --> 00:51:59.800
+you actually improved people's lives significantly. Um. You know,
+
+1040
+00:52:00.120 --> 00:52:01.879
+again, it was partial, it didn't go as far
+
+1041
+00:52:01.879 --> 00:52:04.040
+as it should have, but it was at least
+
+1042
+00:52:04.040 --> 00:52:07.399
+a start. It was a nonviolent way to actually
+
+1043
+00:52:07.399 --> 00:52:09.790
+improve people's well-being. And I think though there are
+
+1044
+00:52:09.790 --> 00:52:12.600
+enough examples that look like that, that we can
+
+1045
+00:52:12.600 --> 00:52:15.879
+sort of point to and see. It requires, you
+
+1046
+00:52:15.879 --> 00:52:19.639
+know, just as a major revolution requires unrest among
+
+1047
+00:52:19.639 --> 00:52:25.689
+the elite power holders. Successful nonviolent reform. Often, pretty
+
+1048
+00:52:25.689 --> 00:52:30.250
+much, almost always, um requires some buy-in from the
+
+1049
+00:52:30.250 --> 00:52:32.770
+elite power holders to say, yes, this is better
+
+1050
+00:52:32.770 --> 00:52:34.840
+for all of us, even if I'm giving up
+
+1051
+00:52:34.840 --> 00:52:37.530
+some of my wealth and privilege, it's better for
+
+1052
+00:52:37.530 --> 00:52:41.320
+everybody, including myself. To have a system, a society
+
+1053
+00:52:41.320 --> 00:52:44.209
+that works, that is stable, that can last in
+
+1054
+00:52:44.209 --> 00:52:46.750
+the long term. It's really changing that sort of
+
+1055
+00:52:46.750 --> 00:52:49.409
+short term thinking of, I need to hold on
+
+1056
+00:52:49.409 --> 00:52:52.409
+to what I have right now for longer term
+
+1057
+00:52:52.409 --> 00:52:54.090
+thinking, saying, well, if I give up a little
+
+1058
+00:52:54.090 --> 00:52:56.889
+bit now, everyone will be better off in the
+
+1059
+00:52:56.889 --> 00:52:59.010
+long term. I. That's really at the heart of
+
+1060
+00:52:59.010 --> 00:53:03.090
+the successful, um, reform kind of movements. Really hard
+
+1061
+00:53:03.090 --> 00:53:05.520
+to convince people in the moment to do that,
+
+1062
+00:53:05.570 --> 00:53:08.010
+that have that kind of long perspective. But I
+
+1063
+00:53:08.010 --> 00:53:11.409
+really think that's a lot of where these conversations
+
+1064
+00:53:11.409 --> 00:53:13.729
+today, where we're seeing, uh, again, the same kind
+
+1065
+00:53:13.729 --> 00:53:16.729
+of patterns sprout up. This is where we, we
+
+1066
+00:53:16.729 --> 00:53:18.689
+want to be, um, going and what we want
+
+1067
+00:53:18.689 --> 00:53:19.810
+to sort of hold on to.
+
+1068
+00:53:20.889 --> 00:53:23.090
+OK, uh, I was actually going to ask you
+
+1069
+00:53:23.090 --> 00:53:26.179
+exactly about that. So, do we see the same
+
+1070
+00:53:26.179 --> 00:53:30.050
+kinds of dynamics and patterns playing out in our
+
+1071
+00:53:30.050 --> 00:53:34.929
+contemporary societies when it comes to inequality, social unrest,
+
+1072
+00:53:35.050 --> 00:53:38.239
+elite overproduction, and phenomena like that.
+
+1073
+00:53:38.770 --> 00:53:41.449
+Yeah, absolutely. I mean, this is something, so, you
+
+1074
+00:53:41.449 --> 00:53:45.360
+know, uh, our new organization Soda for Societal dynamics,
+
+1075
+00:53:45.590 --> 00:53:48.010
+really, this is why it exists. It's sort of
+
+1076
+00:53:48.010 --> 00:53:50.750
+an offshoot of our work with Sasha. You know,
+
+1077
+00:53:50.919 --> 00:53:53.949
+it's such that we're trying to understand these patterns
+
+1078
+00:53:53.949 --> 00:53:57.709
+and understand history. Soda is kind of uh uh
+
+1079
+00:53:58.030 --> 00:54:01.550
+giving us that platform to say, OK, well, Let's
+
+1080
+00:54:01.550 --> 00:54:03.350
+take what we've learned. Let's take what we know
+
+1081
+00:54:03.350 --> 00:54:06.830
+about these historical processes and apply them to lessons
+
+1082
+00:54:06.830 --> 00:54:08.939
+for the present day. How can we use this
+
+1083
+00:54:08.939 --> 00:54:12.590
+to maybe help, um, you know, improve people's lives
+
+1084
+00:54:12.590 --> 00:54:15.229
+today. And one of the reasons that we, we
+
+1085
+00:54:15.229 --> 00:54:18.389
+started this organization is, is this realization that we
+
+1086
+00:54:18.389 --> 00:54:21.510
+are repeating, you know, we are, we are, um,
+
+1087
+00:54:21.790 --> 00:54:25.219
+filling out the same rhyme from the past. And,
+
+1088
+00:54:25.300 --> 00:54:27.489
+you know, one of the questions we had, Peter
+
+1089
+00:54:27.489 --> 00:54:29.979
+Kurchen and I, when we started a few years
+
+1090
+00:54:29.979 --> 00:54:32.570
+ago looking into crises, where we're like, OK, well,
+
+1091
+00:54:33.060 --> 00:54:36.699
+we assume that modern crises, you know, from, let's
+
+1092
+00:54:36.699 --> 00:54:39.840
+say the 20th century on. ARE gonna look pretty
+
+1093
+00:54:39.840 --> 00:54:42.399
+different from, you know, pre-industrial crises. That was sort
+
+1094
+00:54:42.399 --> 00:54:44.879
+of our assumption. So we started to look into
+
+1095
+00:54:44.879 --> 00:54:48.320
+it, we were exploring more contemporary societies. And more
+
+1096
+00:54:48.320 --> 00:54:51.560
+and more we found, oh wait a minute, this
+
+1097
+00:54:51.560 --> 00:54:54.919
+actually looks kind of the same, even though we
+
+1098
+00:54:54.919 --> 00:54:57.649
+have all this new technology, the economy is totally
+
+1099
+00:54:57.649 --> 00:55:02.000
+different, the way we produce things, fossil fuels, industrialization,
+
+1100
+00:55:02.159 --> 00:55:05.399
+the internet, now AI we have all these amazing
+
+1101
+00:55:05.399 --> 00:55:07.040
+technologies, right? There's a lot of things that are
+
+1102
+00:55:07.040 --> 00:55:10.520
+totally new. But as I say, humans are still
+
+1103
+00:55:10.520 --> 00:55:12.840
+humans, and we are still doing many of the
+
+1104
+00:55:12.840 --> 00:55:14.679
+same things and falling into many of the same
+
+1105
+00:55:14.679 --> 00:55:16.879
+patterns that we saw before. It was actually even
+
+1106
+00:55:16.879 --> 00:55:20.830
+surprising to us about how many similarities there are,
+
+1107
+00:55:21.399 --> 00:55:24.590
+you know, again. The same things that I've been
+
+1108
+00:55:24.590 --> 00:55:29.169
+talking about, you see people. Being able to, you
+
+1109
+00:55:29.169 --> 00:55:31.790
+know, in many countries, especially in sort of the
+
+1110
+00:55:31.790 --> 00:55:35.570
+western or global North world, you know, late 1970s,
+
+1111
+00:55:35.610 --> 00:55:40.469
+early 1980s, there was this period where You know,
+
+1112
+00:55:40.550 --> 00:55:43.580
+the prevailing kind of economic and political wisdom was,
+
+1113
+00:55:44.030 --> 00:55:45.949
+you know, oh, there's too many regulations, there's too
+
+1114
+00:55:45.949 --> 00:55:48.469
+much rules, we need to grow the economy at
+
+1115
+00:55:48.469 --> 00:55:54.469
+any cost. And this sort of allowed and promoted
+
+1116
+00:55:54.989 --> 00:55:58.600
+individuals with wealth and power to, to kind of
+
+1117
+00:55:58.600 --> 00:56:00.719
+set the rules. And again, as as we were
+
+1118
+00:56:00.719 --> 00:56:03.719
+talking about a few minutes ago, what happens, it's
+
+1119
+00:56:03.719 --> 00:56:06.620
+what always happens. You get some wealth, you get
+
+1120
+00:56:06.620 --> 00:56:08.500
+some authority, you say, OK, well, now, well, let's
+
+1121
+00:56:08.500 --> 00:56:10.610
+change the, you know, um tax code a little
+
+1122
+00:56:10.610 --> 00:56:13.500
+bit more. Let's let's ease up on some of
+
+1123
+00:56:13.500 --> 00:56:15.739
+these banking regulations so that we could grow the
+
+1124
+00:56:15.739 --> 00:56:18.899
+economy, and it worked. The economies have been growing.
+
+1125
+00:56:19.719 --> 00:56:22.770
+But it's also a small number of people have
+
+1126
+00:56:22.770 --> 00:56:24.879
+been capturing more and more of that wealth, right?
+
+1127
+00:56:24.889 --> 00:56:28.889
+The economy, economic growth is going into very few
+
+1128
+00:56:28.889 --> 00:56:31.810
+people's hands, and it's, it's over time, right? It's,
+
+1129
+00:56:31.820 --> 00:56:36.209
+it's multiple generations, tweaking uh tax rule, tweaking a
+
+1130
+00:56:36.209 --> 00:56:39.370
+banking rule, you know, tweaking the way that the
+
+1131
+00:56:39.370 --> 00:56:43.010
+economy works, buying real estate, how insurance, like, a
+
+1132
+00:56:43.010 --> 00:56:46.949
+little bit at a time, generation after generation. Now,
+
+1133
+00:56:46.959 --> 00:56:50.189
+we are finding ourselves in the situation where inequality
+
+1134
+00:56:50.189 --> 00:56:52.600
+is at levels it hasn't been in hundreds of
+
+1135
+00:56:52.600 --> 00:56:58.010
+years. In many, in many countries. So it's, it's
+
+1136
+00:56:58.010 --> 00:57:00.010
+exactly the same kind of pattern. It's surprising at
+
+1137
+00:57:00.010 --> 00:57:02.409
+how similar it is, even though so much of
+
+1138
+00:57:02.409 --> 00:57:07.060
+our world is so different. Those kind of core
+
+1139
+00:57:07.060 --> 00:57:10.580
+human traits, or human behaviors and responses are really
+
+1140
+00:57:10.580 --> 00:57:13.020
+the same. And what this means is, we are
+
+1141
+00:57:13.020 --> 00:57:15.139
+now facing the same things that people have faced
+
+1142
+00:57:15.139 --> 00:57:17.899
+in the past, where we have this unrest, where
+
+1143
+00:57:17.899 --> 00:57:21.179
+we have this elite overproduction and fighting, we have
+
+1144
+00:57:21.179 --> 00:57:24.500
+this partisanship, we have this scapegoating and this sort
+
+1145
+00:57:24.500 --> 00:57:28.860
+of uh retreat to fundamentalist, nationalist kinds of ideas.
+
+1146
+00:57:29.520 --> 00:57:32.649
+And we are seeing the violence that often happens
+
+1147
+00:57:32.649 --> 00:57:34.729
+from these situations start to arise today too, right?
+
+1148
+00:57:34.810 --> 00:57:38.129
+It is not surprising, um, given the situation that
+
+1149
+00:57:38.129 --> 00:57:40.530
+we are seeing what we're seeing today, but it
+
+1150
+00:57:40.530 --> 00:57:42.550
+also means that we can, you know, the good
+
+1151
+00:57:42.550 --> 00:57:46.050
+news is that it means that we can borrow
+
+1152
+00:57:46.050 --> 00:57:48.290
+and adapt some of these things from the past
+
+1153
+00:57:48.290 --> 00:57:53.239
+that worked. To ease tensions, those still should be
+
+1154
+00:57:53.239 --> 00:57:56.169
+uh applicable and useful today. These kinds of reforms,
+
+1155
+00:57:56.770 --> 00:57:59.530
+improving people's livelihoods, you know, there are ways to
+
+1156
+00:57:59.530 --> 00:58:02.469
+do this. Um, YOU know, we just need the,
+
+1157
+00:58:02.530 --> 00:58:04.570
+the sort of political and social will to, to
+
+1158
+00:58:04.570 --> 00:58:07.929
+put it into practice, but yeah, um, you know,
+
+1159
+00:58:08.050 --> 00:58:11.050
+the, the patterns are still there. It's, it's really,
+
+1160
+00:58:11.129 --> 00:58:13.360
+it's eerie how how similar these are.
+
+1161
+00:58:13.879 --> 00:58:14.260
+Mhm.
+
+1162
+00:58:14.540 --> 00:58:14.820
+But
+
+1163
+00:58:14.820 --> 00:58:17.169
+what do you mean exactly when you say that
+
+1164
+00:58:17.169 --> 00:58:20.540
+we are living in an age of poly crisis?
+
+1165
+00:58:20.659 --> 00:58:22.719
+What, what are poly crises?
+
+1166
+00:58:24.629 --> 00:58:26.550
+So that I mean, this is, this is really.
+
+1167
+00:58:28.709 --> 00:58:31.129
+It's a framework to help us understand exactly what's
+
+1168
+00:58:31.129 --> 00:58:33.510
+happening today. And this is, you know, one of
+
+1169
+00:58:33.510 --> 00:58:37.010
+the things that is different, not entirely, there are,
+
+1170
+00:58:37.110 --> 00:58:38.909
+there are situations in the past that are similar
+
+1171
+00:58:38.909 --> 00:58:42.719
+to this, but, um, never before have we seen
+
+1172
+00:58:43.310 --> 00:58:46.379
+on such a, on such a global, truly global
+
+1173
+00:58:46.379 --> 00:58:51.669
+scale. So many different societies all at once experiencing
+
+1174
+00:58:51.669 --> 00:58:54.139
+the same kind of thing, right? The, the coordination,
+
+1175
+00:58:54.229 --> 00:58:59.479
+the synchrony. Between these, these patterns, that's kind of
+
+1176
+00:58:59.479 --> 00:59:02.449
+new, that's pretty scary. Again, there's a reason it's
+
+1177
+00:59:02.449 --> 00:59:04.610
+because, you know, the, the economy is global. There's,
+
+1178
+00:59:04.729 --> 00:59:07.370
+there's the same sorts of things are now affecting
+
+1179
+00:59:07.370 --> 00:59:09.850
+the same societies at the same time, in a
+
+1180
+00:59:09.850 --> 00:59:12.639
+way that hadn't happened before, right? COVID is a
+
+1181
+00:59:12.639 --> 00:59:15.810
+global disease because we're all interconnected. And this is
+
+1182
+00:59:15.810 --> 00:59:19.020
+really what the polycrisis idea is trying to capture.
+
+1183
+00:59:20.389 --> 00:59:25.169
+It's that The state of our systems, our economic
+
+1184
+00:59:25.169 --> 00:59:31.060
+system, our communications technology, travel, um, you know, our
+
+1185
+00:59:31.060 --> 00:59:33.979
+political system, we are so entangled with each other,
+
+1186
+00:59:34.020 --> 00:59:37.899
+right? Everything you can imagine, every kind of system,
+
+1187
+00:59:37.979 --> 00:59:42.580
+every country is really intimately connected and interacts with
+
+1188
+00:59:42.580 --> 00:59:46.020
+others. And what this means is that if one
+
+1189
+00:59:46.020 --> 00:59:49.419
+system goes into dysfunction, say there's, you know, a
+
+1190
+00:59:49.419 --> 00:59:51.780
+recession in one country, a major recession in one
+
+1191
+00:59:51.780 --> 00:59:55.389
+country. It's going to affect the economy of other
+
+1192
+00:59:55.389 --> 00:59:58.870
+countries, right? We're all interconnected. And if the economy
+
+1193
+00:59:58.870 --> 01:00:01.429
+of all these countries is affected, it's also going
+
+1194
+01:00:01.429 --> 01:00:04.310
+to affect the politics of many countries. It's gonna
+
+1195
+01:00:04.310 --> 01:00:09.229
+affect food production. It's gonna affect the environment. Everything
+
+1196
+01:00:09.229 --> 01:00:12.270
+is interconnected, right? So one thing drives another thing,
+
+1197
+01:00:12.350 --> 01:00:14.820
+which drives another thing, which impacts the first thing.
+
+1198
+01:00:14.989 --> 01:00:19.090
+It's this really complex mechanism, this feedback. My, I
+
+1199
+01:00:19.090 --> 01:00:21.370
+have friends at the Cascade Institute who've done a
+
+1200
+01:00:21.370 --> 01:00:24.050
+really good job of trying to articulate this, and
+
+1201
+01:00:24.050 --> 01:00:26.469
+this is, you know, they use this term polycrisis
+
+1202
+01:00:26.810 --> 01:00:30.250
+to describe the state of the world where all
+
+1203
+01:00:30.250 --> 01:00:33.290
+of our systems are interconnected, and almost all of
+
+1204
+01:00:33.290 --> 01:00:36.929
+them are under crisis right now. And again, it's
+
+1205
+01:00:36.929 --> 01:00:39.689
+these long-term stressors that build up the way that
+
+1206
+01:00:39.689 --> 01:00:42.689
+inequality builds up over decades, the way that our
+
+1207
+01:00:42.689 --> 01:00:45.580
+environment has been suffering for decades because of our,
+
+1208
+01:00:45.629 --> 01:00:49.729
+our production and consumption habits. These are long-term stresses
+
+1209
+01:00:49.729 --> 01:00:51.050
+that have built up that have put all these
+
+1210
+01:00:51.050 --> 01:00:54.389
+different systems at risk. And then you have these
+
+1211
+01:00:54.389 --> 01:00:56.800
+triggering events, right? These fast moving trigger events that
+
+1212
+01:00:56.800 --> 01:01:02.300
+hit those structures. A flash flood, a hurricane, you
+
+1213
+01:01:02.300 --> 01:01:04.780
+know, uh, uh, a blip in the economy, you
+
+1214
+01:01:04.780 --> 01:01:08.020
+know, a recession, but because the stress is so
+
+1215
+01:01:08.020 --> 01:01:12.399
+high, when these things happen, It tends to permeate
+
+1216
+01:01:12.399 --> 01:01:15.919
+and lead to enormous damage. Whereas if those same,
+
+1217
+01:01:16.040 --> 01:01:19.120
+you know, trigger events had happened, uh, when everything
+
+1218
+01:01:19.120 --> 01:01:21.149
+was healthy, they would have just been a little
+
+1219
+01:01:21.149 --> 01:01:22.840
+blip that, you know, it would have caused some
+
+1220
+01:01:22.840 --> 01:01:24.919
+damage, but we would have been able to recover
+
+1221
+01:01:24.919 --> 01:01:27.520
+quickly. But because we're under such high stress and
+
+1222
+01:01:27.520 --> 01:01:30.040
+all of these things are so connected, one thing
+
+1223
+01:01:30.040 --> 01:01:33.159
+goes wrong in one place, it tends to, to
+
+1224
+01:01:33.159 --> 01:01:35.959
+permeate throughout the globe and lead to a ton
+
+1225
+01:01:35.959 --> 01:01:40.580
+of dysfunction. And that keeps us um at risk,
+
+1226
+01:01:40.659 --> 01:01:42.580
+that keeps us kind of vulnerable for the next
+
+1227
+01:01:42.580 --> 01:01:44.790
+thing to happen. And this is really what the
+
+1228
+01:01:44.790 --> 01:01:47.679
+poly crisis is, this is what we're facing. We
+
+1229
+01:01:47.679 --> 01:01:50.250
+have, there have been poly crises in the past,
+
+1230
+01:01:50.300 --> 01:01:53.489
+at least. At least periods that are similar to
+
+1231
+01:01:53.489 --> 01:01:55.790
+the pot crisis, so there is still a role
+
+1232
+01:01:55.790 --> 01:01:59.590
+for history to play here. Um, BUT it is,
+
+1233
+01:01:59.709 --> 01:02:01.750
+you know, there are still some unique aspects as
+
+1234
+01:02:01.750 --> 01:02:05.780
+well, just how global, how truly, um, large scale
+
+1235
+01:02:06.199 --> 01:02:09.790
+this interconnection is, that's happening today, which means it
+
+1236
+01:02:09.790 --> 01:02:12.219
+just, it, it, it puts an even greater premium
+
+1237
+01:02:12.219 --> 01:02:15.310
+on us to deal with some of these long-term
+
+1238
+01:02:15.310 --> 01:02:18.550
+stresses like this deep rooted inequality that has taken
+
+1239
+01:02:18.550 --> 01:02:20.860
+hold in so many different countries, like it is.
+
+1240
+01:02:21.719 --> 01:02:23.810
+That is really one of the core things that
+
+1241
+01:02:23.810 --> 01:02:26.479
+is, is putting us so at risk, and therefore,
+
+1242
+01:02:26.520 --> 01:02:28.879
+that's one of the things that can help get
+
+1243
+01:02:28.879 --> 01:02:32.239
+us out of it. Even the environmental degradation we're,
+
+1244
+01:02:32.280 --> 01:02:35.479
+we're, um, seeing, a lot of that is fueled
+
+1245
+01:02:35.479 --> 01:02:38.919
+by inequality, right? But this over uh amassing of
+
+1246
+01:02:38.919 --> 01:02:42.300
+wealth and consumption. So, you know, as I always
+
+1247
+01:02:42.300 --> 01:02:45.179
+say, like dealing with inequality is a climate solution,
+
+1248
+01:02:45.340 --> 01:02:47.449
+right? These are not inter, these are not um
+
+1249
+01:02:47.899 --> 01:02:50.419
+completely separate uh problems or phenomenon. I think this
+
+1250
+01:02:50.419 --> 01:02:52.500
+is, this is what the crisis is really trying
+
+1251
+01:02:52.500 --> 01:02:56.500
+to expose, um, how, how that all works together.
+
+1252
+01:02:57.550 --> 01:03:00.790
+OK, so one last question then you've already alluded
+
+1253
+01:03:00.790 --> 01:03:03.669
+to this before, but uh when it comes to
+
+1254
+01:03:03.669 --> 01:03:08.429
+these public crises and perhaps focusing more on inequality
+
+1255
+01:03:08.429 --> 01:03:10.870
+itself, because that's what we've been talking about the
+
+1256
+01:03:10.870 --> 01:03:15.060
+most here today. I, I mean, Does Clio dynamics
+
+1257
+01:03:15.060 --> 01:03:17.500
+have anything to tell us or do we have
+
+1258
+01:03:17.500 --> 01:03:20.310
+anything to learn from it about what we should
+
+1259
+01:03:20.310 --> 01:03:23.300
+do to tackle this issue? I mean, do you
+
+1260
+01:03:23.300 --> 01:03:27.580
+have any suggestions, any lessons about it that that
+
+1261
+01:03:27.580 --> 01:03:28.620
+we could apply today?
+
+1262
+01:03:29.399 --> 01:03:32.260
+Yeah, I mean, this is, it's such a, it's
+
+1263
+01:03:32.260 --> 01:03:34.260
+such a big important question and something I think
+
+1264
+01:03:34.260 --> 01:03:37.540
+a lot about, you know, it's not, it's not
+
+1265
+01:03:37.540 --> 01:03:40.699
+as clear cut as, OK, well, you know, history
+
+1266
+01:03:40.699 --> 01:03:42.260
+says we need to do A, B, and C,
+
+1267
+01:03:42.300 --> 01:03:44.129
+so we just do them. And, you know, it's,
+
+1268
+01:03:44.139 --> 01:03:46.790
+it's a sort of one size fits all roadmap.
+
+1269
+01:03:47.100 --> 01:03:49.379
+On the other hand, I do think that clear
+
+1270
+01:03:49.379 --> 01:03:51.909
+dynamics does have a lot to say. It does,
+
+1271
+01:03:52.229 --> 01:03:56.310
+it, it can help. Really what it helps is,
+
+1272
+01:03:57.129 --> 01:03:59.560
+first of all, just exposing the depth of the
+
+1273
+01:03:59.560 --> 01:04:02.399
+problem. And again, you know, as we talked about,
+
+1274
+01:04:03.000 --> 01:04:04.639
+a lot of people know that inequality is a
+
+1275
+01:04:04.639 --> 01:04:07.409
+big problem today. I don't think that many people,
+
+1276
+01:04:07.439 --> 01:04:09.639
+even, you know, I, I've talked to some politicians
+
+1277
+01:04:09.639 --> 01:04:12.520
+and some policymakers, and it comes as a surprise
+
+1278
+01:04:12.520 --> 01:04:15.719
+to them just how deep the roots of the
+
+1279
+01:04:15.719 --> 01:04:19.350
+problem are, that it goes back decades and generations,
+
+1280
+01:04:19.560 --> 01:04:21.750
+that it is so structural, that, you know, it's,
+
+1281
+01:04:21.800 --> 01:04:25.469
+it's not just We want to assume that it's,
+
+1282
+01:04:25.479 --> 01:04:28.600
+you know, 11 policy, one rule that we can
+
+1283
+01:04:28.600 --> 01:04:31.080
+undo that led to it. When you start to
+
+1284
+01:04:31.080 --> 01:04:34.080
+expose that it's, you know, dozens of different actions
+
+1285
+01:04:34.080 --> 01:04:37.239
+and different things over, you know, 20 to 30
+
+1286
+01:04:37.239 --> 01:04:40.689
+years. It just shows you that it's a, the,
+
+1287
+01:04:40.729 --> 01:04:43.219
+the problem is a bigger scope than you think.
+
+1288
+01:04:43.909 --> 01:04:47.040
+And history can help us expose just how deep
+
+1289
+01:04:47.040 --> 01:04:49.959
+these roots are, and that leads to different kinds
+
+1290
+01:04:49.959 --> 01:04:52.000
+of solutions and different kinds of actions that need
+
+1291
+01:04:52.000 --> 01:04:53.840
+to be taken. So you're not just, you know,
+
+1292
+01:04:53.959 --> 01:04:56.560
+dealing with the surface problem, you're really getting at
+
+1293
+01:04:56.560 --> 01:04:58.600
+the roots, you're really getting at the, the true
+
+1294
+01:04:58.600 --> 01:05:00.919
+causes of the problem. And I think clear dynamics
+
+1295
+01:05:00.919 --> 01:05:04.600
+is really helpful in exposing that. The other thing
+
+1296
+01:05:04.600 --> 01:05:07.439
+is that, you know, as, as we have talked
+
+1297
+01:05:07.439 --> 01:05:10.679
+about, there are periods where inequality has grown high.
+
+1298
+01:05:10.780 --> 01:05:12.810
+There are even periods where, you know, environmental and
+
+1299
+01:05:12.810 --> 01:05:16.679
+ecological distress, like we're experiencing today, has been very
+
+1300
+01:05:16.679 --> 01:05:20.760
+prominent. Some societies dealt with it really poorly and
+
+1301
+01:05:20.760 --> 01:05:23.469
+collapsed. Some societies dealt with it a little bit
+
+1302
+01:05:23.469 --> 01:05:27.189
+better and we're able to maintain some resilience. We
+
+1303
+01:05:27.189 --> 01:05:29.229
+can learn lessons from that. We can, we can
+
+1304
+01:05:29.229 --> 01:05:32.199
+see what people have done in the past when
+
+1305
+01:05:32.199 --> 01:05:34.739
+facing the same kind of problems we're facing today,
+
+1306
+01:05:35.110 --> 01:05:37.750
+both for good and bad. And this gives us
+
+1307
+01:05:37.750 --> 01:05:40.310
+options, right? Again, it's not, it's not a one
+
+1308
+01:05:40.310 --> 01:05:42.669
+for one roadmap, right? It's not like, you know,
+
+1309
+01:05:43.110 --> 01:05:45.310
+it's not historians should be, you know, the rulers
+
+1310
+01:05:45.310 --> 01:05:48.860
+of us all. We have some ideas. We can
+
+1311
+01:05:48.860 --> 01:05:51.100
+give you options. We can tell you what has
+
+1312
+01:05:51.100 --> 01:05:53.620
+worked, what hasn't worked in in context, we can
+
+1313
+01:05:53.620 --> 01:05:55.850
+tell you what is similar, what isn't similar today.
+
+1314
+01:05:56.729 --> 01:05:59.699
+And this should form part of the conversation, not
+
+1315
+01:05:59.699 --> 01:06:02.219
+the whole of it. But I think these ideas,
+
+1316
+01:06:02.300 --> 01:06:05.340
+this understanding needs to be part of the discussions
+
+1317
+01:06:05.620 --> 01:06:10.090
+that advocates, that um NGOs, that government officials, that,
+
+1318
+01:06:10.179 --> 01:06:13.719
+you know, UN officials, policymakers are having. ABOUT what
+
+1319
+01:06:13.719 --> 01:06:16.360
+to do when we see inequality, what has worked
+
+1320
+01:06:16.360 --> 01:06:19.350
+in the past? What has the context been? Can
+
+1321
+01:06:19.350 --> 01:06:21.719
+we apply some of these lessons today? And I
+
+1322
+01:06:21.719 --> 01:06:23.840
+think there are a lot that we can, we
+
+1323
+01:06:23.840 --> 01:06:25.320
+have to, we have to reshape some of the
+
+1324
+01:06:25.320 --> 01:06:28.439
+things for our, our modern circumstances. But I think
+
+1325
+01:06:28.439 --> 01:06:31.530
+it would be a mistake to overlook and ignore
+
+1326
+01:06:32.000 --> 01:06:35.699
+what history has to teach us, because, you know,
+
+1327
+01:06:36.239 --> 01:06:38.600
+we are, we are, we are and always have
+
+1328
+01:06:38.600 --> 01:06:42.030
+been humans responding to these kinds of pressures. And
+
+1329
+01:06:42.030 --> 01:06:44.909
+the way that we have done that successfully and
+
+1330
+01:06:44.909 --> 01:06:49.149
+unsuccessfully in the past, can really help narrow our
+
+1331
+01:06:49.149 --> 01:06:52.620
+possibility space for, for where we're trying to go
+
+1332
+01:06:52.620 --> 01:06:54.629
+uh today and in the future. So I, I
+
+1333
+01:06:54.629 --> 01:06:56.989
+do think there is a major role for clear
+
+1334
+01:06:56.989 --> 01:06:59.530
+dynamics in this kind of approach. And this is,
+
+1335
+01:06:59.709 --> 01:07:01.189
+this is what we're, we're trying to be part
+
+1336
+01:07:01.189 --> 01:07:04.020
+of these conversations um right now.
+
+1337
+01:07:04.550 --> 01:07:07.870
+Great. So if people are interested, where can they
+
+1338
+01:07:07.870 --> 01:07:10.100
+find you and your work on the internet?
+
+1339
+01:07:10.540 --> 01:07:14.290
+Yeah, uh, so I would go to Seat Databank.info,
+
+1340
+01:07:14.739 --> 01:07:18.090
+um, for historical work and go to um Soda.
+
+1341
+01:07:19.610 --> 01:07:23.879
+uh Soda.org, excuse me, which is SO dash DY.org,
+
+1342
+01:07:24.129 --> 01:07:27.219
+um, for a more kind of policy future oriented
+
+1343
+01:07:27.219 --> 01:07:30.060
+um type work. And, and please feel free to
+
+1344
+01:07:30.060 --> 01:07:31.979
+reach out to me, send me an email, um,
+
+1345
+01:07:32.020 --> 01:07:33.459
+and we can, we can talk about how this
+
+1346
+01:07:33.459 --> 01:07:34.500
+all works even further.
+
+1347
+01:07:35.449 --> 01:07:38.219
+Great. So, Doctor Hoyer, thank you so much again
+
+1348
+01:07:38.219 --> 01:07:40.500
+for this great talk. It's always a pleasure talking
+
+1349
+01:07:40.500 --> 01:07:42.739
+to you, as I said at the beginning, and
+
+1350
+01:07:42.739 --> 01:07:44.100
+this has been great. So it's
+
+1351
+01:07:44.100 --> 01:07:46.979
+been thank you Ricardo. uh, IT'S really great to
+
+1352
+01:07:46.979 --> 01:07:48.979
+be able to, to share these thoughts and sort
+
+1353
+01:07:48.979 --> 01:07:50.780
+of get this out there. So thank you for
+
+1354
+01:07:50.780 --> 01:07:51.489
+having me back.
+
+1355
+01:07:52.770 --> 01:07:55.250
+Hi guys, thank you for watching this interview until
+
+1356
+01:07:55.250 --> 01:07:57.409
+the end. If you liked it, please share it,
+
+1357
+01:07:57.610 --> 01:08:00.370
+leave a like and hit the subscription button. The
+
+1358
+01:08:00.370 --> 01:08:02.570
+show is brought to you by Nights Learning and
+
+1359
+01:08:02.570 --> 01:08:06.689
+Development done differently, check their website at Nights.com and
+
+1360
+01:08:06.689 --> 01:08:10.395
+also please consider supporting the show on. Patreon or
+
+1361
+01:08:10.395 --> 01:08:12.875
+PayPal, I would also like to give a huge
+
+1362
+01:08:12.875 --> 01:08:16.384
+thank you to my main patrons and PayPal supporters
+
+1363
+01:08:16.384 --> 01:08:20.205
+Pergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyche Olaf,
+
+1364
+01:08:20.314 --> 01:08:24.035
+Alexand Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika
+
+1365
+01:08:24.035 --> 01:08:27.234
+Lenny, John Connors, Philip Fors Connolly, then the Matter
+
+1366
+01:08:27.234 --> 01:08:31.274
+Robert Windeguru Inai Zu Mark Neevs Colin Holbrookfield governor.
+
+1367
+01:08:31.729 --> 01:08:36.389
+Mel Stormir Samuel Andre, Francis Fortiagnserus and Hal Herzagn
+
+1368
+01:08:36.389 --> 01:08:40.868
+Macha and lays and Samuel Currie Heinz, Mark Smith,
+
+1369
+01:08:40.999 --> 01:08:45.349
+Jo, Tom Hummel Sardus France David Sloan Wilsonasilla dearaurumen
+
+1370
+01:08:45.349 --> 01:08:51.707
+ro Diego Correa Yannick Puntersmani Charlotte blini Barba Adamhn
+
+1371
+01:08:51.707 --> 01:08:57.188
+Pavlostaevskynale back medicine Gary Galman Sam of saladrianeioltonin John
+
+1372
+01:08:57.188 --> 01:09:01.759
+Barbosa Julian Price Edward Hall Edin Bronner. Douglas Fry,
+
+1373
+01:09:01.810 --> 01:09:06.209
+Franca Bortolotti, Gabriel Ponscorte or Slelisky, Scott Zachary Fish
+
+1374
+01:09:06.209 --> 01:09:10.129
+Tim Duffy, Sonny Smith, John Wieman, Daniel Friedman, William
+
+1375
+01:09:10.129 --> 01:09:14.629
+Buckner, Paul Giorgarneau, Luke Lovai Giorgio Theophanous, Chris Williamson,
+
+1376
+01:09:14.729 --> 01:09:19.729
+Peter Wozin, David Williams, Diocosta, Anton Eriksson, Charles Murray,
+
+1377
+01:09:19.859 --> 01:09:24.649
+Alex Shaw, Marie Martinez, Corale Chevalier, bungalow atheists, Larry
+
+1378
+01:09:24.649 --> 01:09:29.080
+D. Lee Junior, old Erringbo. Sterry Michael Bailey, then
+
+1379
+01:09:29.080 --> 01:09:34.250
+Sperber, Robert Grayigoren, Jeff McMann, Jake Zu, Barnabas radix,
+
+1380
+01:09:34.370 --> 01:09:38.129
+Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly
+
+1381
+01:09:38.129 --> 01:09:42.750
+Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson,
+
+1382
+01:09:42.890 --> 01:09:48.410
+Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van
+
+1383
+01:09:48.410 --> 01:09:55.310
+Goller, Alexander Hubbert, Liam Dunaway, BR Masoud Ali Mohammadi,
+
+1384
+01:09:55.560 --> 01:10:00.689
+Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff
+
+1385
+01:10:00.689 --> 01:10:05.100
+Sean Nelson, Mike Levine, and Jos Net. A special
+
+1386
+01:10:05.100 --> 01:10:07.580
+thanks to my producers. These are Webb, Jim, Frank
+
+1387
+01:10:07.580 --> 01:10:11.990
+Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller,
+
+1388
+01:10:12.140 --> 01:10:16.060
+Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal
+
+1389
+01:10:16.060 --> 01:10:18.939
+Ni Cortiz and Nick Golden, and to my executive
+
+1390
+01:10:18.939 --> 01:10:22.819
+producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie.
+
+1391
+01:10:22.979 --> 01:10:23.770
+Thank you for all.
+
