@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1058 Marc Steen: Ethics for People Who Work in Tech",
-	"youtubeid": "t4fcOp3D4Ds"
+	"vtt": "1058.vtt",
+	"youtubeid": "t4fcOp3D4Ds",
+	"transcript": "1058.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 27th 2024.  
