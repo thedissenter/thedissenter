@@ -5,13 +5,16 @@
 	"episodeid": "1059",
 	"excerpt": "Dr. Christopher Hoyt is an Associate Professor in the Department of Philosophy and Religion at Western Carolina University. His research interests include Wittgenstein, and the philosophy of film.",
 	"image": "https://i.ytimg.com/vi/Gq7yj0TINDw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1059-christopher-hoyt-wittgenstein-philosophy-of/id1451347236?i=1000692325591&uo=4",
 	"publishDate": 2025-02-14,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1059-Christopher-Hoyt-Wittgenstein--Philosophy-of-Mind--and-Religion-e2gu48k",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1059 Christopher Hoyt: Wittgenstein, Philosophy of Mind, and Religion",
-	"youtubeid": "Gq7yj0TINDw"
+	"vtt": "1059.vtt",
+	"youtubeid": "Gq7yj0TINDw",
+	"transcript": "1059.lines.json"
 }
 ---
 RECORDED ON MARCH 11th 2024.  
