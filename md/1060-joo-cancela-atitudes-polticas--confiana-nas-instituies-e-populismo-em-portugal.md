@@ -12,7 +12,9 @@
 		"Entrevistas em Português"
 	],
 	"title": "#1060 João Cancela: Atitudes Políticas, Confiança nas Instituições e Populismo em Portugal",
-	"youtubeid": "FBVvdDBzt_Q"
+	"vtt": "1060.vtt",
+	"youtubeid": "FBVvdDBzt_Q",
+	"transcript": "1060.lines.json"
 }
 ---
 RECORDED ON DECEMBER 3rd 2024.  
