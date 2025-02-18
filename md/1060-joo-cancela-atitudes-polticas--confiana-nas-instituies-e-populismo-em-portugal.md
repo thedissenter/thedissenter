@@ -5,6 +5,7 @@
 	"episodeid": "1060",
 	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
 	"image": "https://i.ytimg.com/vi/FBVvdDBzt_Q/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1060-jo%C3%A3o-cancela-atitudes-pol%C3%ADticas-confian%C3%A7a-nas/id1451347236?i=1000693112048&uo=4",
 	"publishDate": 2025-02-17,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1060-Joo-Cancela-Atitudes-Polticas--Confiana-nas-Instituies-e-Populismo-em-Portugal-e2rqmeo",
 	"tags": [
