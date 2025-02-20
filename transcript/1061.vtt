@@ -1,0 +1,3290 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:02.880
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:02.880 --> 00:00:05.719
+Dissenter. I'm your host, as always, Ricardo Lopes and
+
+3
+00:00:05.719 --> 00:00:08.239
+today I'm joined by Doctor Lauren Ross. She's an
+
+4
+00:00:08.239 --> 00:00:11.210
+associate professor in the logic and philosophy of Science
+
+5
+00:00:11.210 --> 00:00:15.670
+department at the University of California, Irvine. Her research
+
+6
+00:00:15.670 --> 00:00:19.950
+concerns explanation and causation in biology, neuroscience and medicine,
+
+7
+00:00:20.239 --> 00:00:22.440
+and she is also the author of a recent
+
+8
+00:00:22.440 --> 00:00:26.834
+book, explanation in Biology for the Cambridge University Press
+
+9
+00:00:26.834 --> 00:00:30.444
+Element series. So, and today we're going to talk
+
+10
+00:00:30.444 --> 00:00:35.084
+about causation and explanation in science and the life
+
+11
+00:00:35.084 --> 00:00:38.485
+sciences, more specifically, or with the focus on the
+
+12
+00:00:38.485 --> 00:00:41.805
+life sciences. So, Doctor Ross, welcome to the show.
+
+13
+00:00:41.845 --> 00:00:43.544
+It's a big pleasure to everyone.
+
+14
+00:00:43.965 --> 00:00:45.924
+It's a huge pleasure to be here. Thank you
+
+15
+00:00:45.924 --> 00:00:46.845
+for the invitation.
+
+16
+00:00:48.040 --> 00:00:51.290
+So let's start perhaps with the most basic question
+
+17
+00:00:51.290 --> 00:00:54.000
+here. So, what is causation?
+
+18
+00:00:55.740 --> 00:00:59.689
+There is a short answer and a longer answer,
+
+19
+00:00:59.979 --> 00:01:06.059
+and the the short answer is that causation is
+
+20
+00:01:06.059 --> 00:01:11.059
+control. So causes are factors that provide control over
+
+21
+00:01:11.059 --> 00:01:15.819
+their effects. Causal information should give us information about
+
+22
+00:01:15.819 --> 00:01:19.150
+control. Control in the world and factors in the
+
+23
+00:01:19.150 --> 00:01:23.269
+world that have that kind of influence. So that's
+
+24
+00:01:23.269 --> 00:01:29.550
+the short answer. The longer answer is that X
+
+25
+00:01:29.550 --> 00:01:32.360
+is a cause of Y, some kind of candidate
+
+26
+00:01:32.569 --> 00:01:36.290
+factor is a cause of some effective interest. If
+
+27
+00:01:36.290 --> 00:01:40.690
+it were the case that intervening on X, that
+
+28
+00:01:40.690 --> 00:01:46.410
+candidate cause, and changing it or wiggling it gives
+
+29
+00:01:46.410 --> 00:01:50.650
+you control over the effective interest. So if you
+
+30
+00:01:50.650 --> 00:01:54.019
+were to intervene on a factor in an ideal
+
+31
+00:01:54.019 --> 00:01:57.050
+way, and there's more to say about that. That
+
+32
+00:01:57.050 --> 00:02:00.680
+intervention on the candidate cause, if it is really
+
+33
+00:02:00.680 --> 00:02:03.930
+a cause, it should give you control over the
+
+34
+00:02:03.930 --> 00:02:07.879
+effect of interest and values of the effect or
+
+35
+00:02:08.389 --> 00:02:12.529
+the kind of presentation of the effect. The this
+
+36
+00:02:12.529 --> 00:02:16.679
+is the interventionist account of causation. It's a very
+
+37
+00:02:16.979 --> 00:02:20.520
+commonly used account of causality in philosophy of science.
+
+38
+00:02:20.559 --> 00:02:26.259
+It's based on scientific work, scientific methodology. It's based
+
+39
+00:02:26.259 --> 00:02:30.789
+on the notion of a kind of unconfounded experimental
+
+40
+00:02:30.789 --> 00:02:34.589
+manipulation, which is a way that scientists identify causal
+
+41
+00:02:34.589 --> 00:02:42.139
+relationships and The interventionist account doesn't require that we
+
+42
+00:02:42.509 --> 00:02:46.309
+are actually able to intervene on a factor in
+
+43
+00:02:46.309 --> 00:02:48.750
+order for it to be a cause. What it
+
+44
+00:02:48.750 --> 00:02:52.669
+requires is that we have evidence that if it
+
+45
+00:02:52.669 --> 00:02:56.580
+were to be intervened upon, it would give control
+
+46
+00:02:56.580 --> 00:02:59.630
+over the effect. So there's a, there's a short
+
+47
+00:02:59.630 --> 00:03:06.080
+answer and a long answer to. IS causation, and
+
+48
+00:03:06.080 --> 00:03:10.669
+of course the long answer um is much longer
+
+49
+00:03:10.669 --> 00:03:13.589
+depending on kind of further questions, but this is
+
+50
+00:03:13.589 --> 00:03:16.990
+captured with an interventionist account of causation.
+
+51
+00:03:18.580 --> 00:03:22.750
+And within philosophy and more specifically the philosophy of
+
+52
+00:03:22.750 --> 00:03:26.380
+science, what is causation part of? Is it part
+
+53
+00:03:26.380 --> 00:03:31.419
+of epistemology, metaphysics, or some other area?
+
+54
+00:03:33.750 --> 00:03:38.029
+There is interest in causality in many different areas
+
+55
+00:03:38.029 --> 00:03:47.380
+of philosophy. And areas like metaphysics, epistemology. Ontology. And
+
+56
+00:03:47.380 --> 00:03:49.860
+you know, philosophers have been interested in causation and
+
+57
+00:03:49.860 --> 00:03:52.380
+scientists have been interested in causation for a very
+
+58
+00:03:52.380 --> 00:03:56.800
+long time, so you'll find That there's debate about
+
+59
+00:03:57.330 --> 00:04:03.520
+what kind of area causation falls under. For me,
+
+60
+00:04:03.690 --> 00:04:08.119
+the best work on causation that we have involves
+
+61
+00:04:08.570 --> 00:04:12.570
+a couple of these together. So if If someone
+
+62
+00:04:12.570 --> 00:04:16.529
+suggests that causation is best understood exclusively in terms
+
+63
+00:04:16.529 --> 00:04:21.178
+of metaphysics, usually the suggestion is that They're thinking
+
+64
+00:04:21.178 --> 00:04:25.968
+of causation as exclusively kind of in the world
+
+65
+00:04:25.968 --> 00:04:29.898
+in some kind of fundamental way that doesn't involve.
+
+66
+00:04:30.709 --> 00:04:34.179
+A human or a scientist or someone kind of
+
+67
+00:04:34.179 --> 00:04:36.619
+intervening on the world or a scientist. If someone
+
+68
+00:04:36.619 --> 00:04:40.250
+is thinking of it in a purely epistemological way,
+
+69
+00:04:40.619 --> 00:04:43.660
+they're usually more focused on the agent or the
+
+70
+00:04:43.660 --> 00:04:46.989
+scientist or the human, you know, or a nonhuman
+
+71
+00:04:46.989 --> 00:04:50.130
+animal interacting with the world, and they don't have
+
+72
+00:04:50.339 --> 00:04:52.700
+as much of the, they don't have as much
+
+73
+00:04:52.700 --> 00:04:54.899
+of the world in the picture. It's a little
+
+74
+00:04:54.899 --> 00:05:00.380
+bit more the The agent and the individual and
+
+75
+00:05:00.660 --> 00:05:02.579
+in that sense it makes it seem like causation
+
+76
+00:05:02.579 --> 00:05:04.529
+is a little bit more just in their head.
+
+77
+00:05:04.980 --> 00:05:08.730
+For me, the best work on causation involves both
+
+78
+00:05:08.730 --> 00:05:12.339
+causation is something in the world, but it's also
+
+79
+00:05:12.339 --> 00:05:15.540
+something that you can't clearly define unless you talk
+
+80
+00:05:15.540 --> 00:05:18.459
+about how we engage with the world and how
+
+81
+00:05:18.459 --> 00:05:20.459
+we identify it in the world and how we
+
+82
+00:05:20.459 --> 00:05:24.320
+study the world. So it involves both. Human causal
+
+83
+00:05:24.320 --> 00:05:28.619
+cognition. Uh, OFTEN in these cases, right, in scientific
+
+84
+00:05:28.619 --> 00:05:33.920
+context, a human scientist who is performing special. Using
+
+85
+00:05:33.920 --> 00:05:36.359
+special methods to identify causation in the world, but
+
+86
+00:05:36.359 --> 00:05:39.510
+it's very much in the world. So for me,
+
+87
+00:05:39.589 --> 00:05:43.329
+it involves a kind of Metaphysics aspect because it's
+
+88
+00:05:43.329 --> 00:05:46.570
+really out there, but it also involves this epistemological
+
+89
+00:05:46.570 --> 00:05:50.290
+aspect or what is sometimes called a methodological aspect
+
+90
+00:05:50.290 --> 00:05:55.540
+where It also requires our success and the methods
+
+91
+00:05:55.540 --> 00:05:58.640
+we use to identify it and to study it.
+
+92
+00:05:59.000 --> 00:06:02.649
+So for me it's a blend of both and
+
+93
+00:06:03.260 --> 00:06:05.940
+Often more in the camp of a kind of
+
+94
+00:06:05.940 --> 00:06:10.820
+methodological focus and more of an epistemological one, but
+
+95
+00:06:10.820 --> 00:06:14.739
+an epistemological focus that includes a kind of at
+
+96
+00:06:14.739 --> 00:06:18.570
+least a light metaphysics where we're definitely talking about
+
+97
+00:06:18.769 --> 00:06:23.059
+the objective causal structure of the world, but appreciating
+
+98
+00:06:23.059 --> 00:06:26.519
+that you can't really talk about that unless you
+
+99
+00:06:26.519 --> 00:06:31.000
+include. The how how we do that, how humans
+
+100
+00:06:31.000 --> 00:06:34.600
+navigate the world in our everyday lives causally and
+
+101
+00:06:34.600 --> 00:06:40.390
+how scientists study causation, so. The best accounts blend
+
+102
+00:06:40.920 --> 00:06:43.510
+um a couple of these frameworks together.
+
+103
+00:06:45.079 --> 00:06:49.959
+But when scientists talk about causality, are they all
+
+104
+00:06:49.959 --> 00:06:53.929
+and always talking about the same thing or
+
+105
+00:06:53.929 --> 00:06:59.519
+not? Good, so. What's very clear and I think
+
+106
+00:06:59.519 --> 00:07:03.839
+what's very important for philosophers and scientists who are.
+
+107
+00:07:04.760 --> 00:07:09.309
+Who are interested in causality is to appreciate the
+
+108
+00:07:09.309 --> 00:07:12.950
+sense in which scientists use many different types of
+
+109
+00:07:12.950 --> 00:07:16.670
+causal terms and concepts when they talk about the
+
+110
+00:07:16.670 --> 00:07:18.910
+causes that are out there and the causes that
+
+111
+00:07:18.910 --> 00:07:23.239
+they study. Um, THEY talk about causes that are
+
+112
+00:07:23.239 --> 00:07:30.239
+deterministic versus probabilistic, distal versus proximal. They talk about
+
+113
+00:07:30.239 --> 00:07:35.470
+causes that are triggering versus structuring. More complex causal
+
+114
+00:07:35.470 --> 00:07:39.980
+concepts like mechanism, pathway, cascade. They talk about circuits,
+
+115
+00:07:40.230 --> 00:07:42.790
+so they use a very rich causal terminology, and
+
+116
+00:07:42.790 --> 00:07:46.910
+it appears as though they're using this rich diverse
+
+117
+00:07:46.910 --> 00:07:51.100
+terminology to refer to rich, diverse, and different types
+
+118
+00:07:51.100 --> 00:07:54.179
+of causes in the world. For me, when I
+
+119
+00:07:54.179 --> 00:07:58.579
+study scientific work in the life sciences, biology, neuroscience,
+
+120
+00:07:58.670 --> 00:08:02.619
+medicine, ecology, even the social sciences, part of what
+
+121
+00:08:02.619 --> 00:08:06.660
+I find is that they're often using the same
+
+122
+00:08:06.660 --> 00:08:10.899
+definition of causation, a kind of basic definition in
+
+123
+00:08:10.899 --> 00:08:15.230
+terms of control, like we discussed earlier, but they're
+
+124
+00:08:15.230 --> 00:08:22.260
+making distinctions within causation. They're distinguishing types within this
+
+125
+00:08:22.260 --> 00:08:27.109
+framework of causation as control. They're interested in causes
+
+126
+00:08:27.109 --> 00:08:29.890
+that give different types of control as a way
+
+127
+00:08:29.890 --> 00:08:32.419
+to think about it. So when they talk about
+
+128
+00:08:32.419 --> 00:08:38.859
+deterministic or probabilistic causation or causes that are structuring
+
+129
+00:08:38.859 --> 00:08:45.130
+or triggering. They're often using this basic definition that's
+
+130
+00:08:45.130 --> 00:08:48.130
+the same causation in terms of control, but what
+
+131
+00:08:48.130 --> 00:08:53.010
+differs are these extra features of causes, causal relationships,
+
+132
+00:08:53.059 --> 00:08:56.169
+and causal systems where those, I call them secondary
+
+133
+00:08:56.169 --> 00:09:00.059
+features, those can differ quite a bit. Right, the
+
+134
+00:09:00.059 --> 00:09:04.130
+cause can produce its effect on different time scales.
+
+135
+00:09:04.190 --> 00:09:07.739
+The speed of causal influence can be different. It
+
+136
+00:09:07.739 --> 00:09:11.460
+can boost the probability of an outcome to different
+
+137
+00:09:11.460 --> 00:09:14.340
+degrees. Its strength can be different. Those are, those
+
+138
+00:09:14.340 --> 00:09:18.179
+are differences that capture what Woodward has called distinctions
+
+139
+00:09:18.179 --> 00:09:22.700
+within causation. And so part of what is helpful
+
+140
+00:09:22.700 --> 00:09:29.590
+here. Is a philosopher, I think can help clarify
+
+141
+00:09:29.590 --> 00:09:34.820
+that difference between defining causation and distinctions within causation.
+
+142
+00:09:34.830 --> 00:09:38.669
+We want to capture that plurality of causes that
+
+143
+00:09:38.669 --> 00:09:42.070
+scientists study, but it doesn't mean that because they're
+
+144
+00:09:42.070 --> 00:09:44.109
+talking about different types of causes, they're using a
+
+145
+00:09:44.109 --> 00:09:49.609
+different definition. They're in my kind of study they're
+
+146
+00:09:49.609 --> 00:09:54.450
+using often the same basic definition of causation, just
+
+147
+00:09:54.450 --> 00:09:57.049
+control, but then there's these extra distinctions on top
+
+148
+00:09:57.049 --> 00:10:01.719
+of that that capture further differences. So they do
+
+149
+00:10:01.929 --> 00:10:05.969
+scientists certainly talk about different types of causes, causal
+
+150
+00:10:05.969 --> 00:10:11.229
+relationships and causal systems, and Um, and it's part
+
+151
+00:10:11.229 --> 00:10:14.030
+of the important work for scientists to do and
+
+152
+00:10:14.030 --> 00:10:16.669
+philosophers to do is to specify what exactly those
+
+153
+00:10:16.669 --> 00:10:19.950
+are, how, what are the features, and why do
+
+154
+00:10:19.950 --> 00:10:24.989
+they matter for the explanations that we give and
+
+155
+00:10:24.989 --> 00:10:27.960
+for the way that we reason about the world.
+
+156
+00:10:29.570 --> 00:10:34.099
+So you mentioned there uh causes, uh, I mean,
+
+157
+00:10:34.150 --> 00:10:38.969
+different kinds of causes like deterministic and probabilistic causes,
+
+158
+00:10:39.099 --> 00:10:43.659
+proximal versus distal causes, structuring versus triggering causes, and
+
+159
+00:10:43.659 --> 00:10:48.169
+then you also mentioned the mechanisms, pathways, circuits, cascades.
+
+160
+00:10:48.299 --> 00:10:50.299
+Uh, I mean, I don't think it's necessary for
+
+161
+00:10:50.299 --> 00:10:53.630
+us to go through. All of them here, but
+
+162
+00:10:53.789 --> 00:10:56.000
+in particularly in the, since we're going to talk
+
+163
+00:10:56.000 --> 00:11:00.119
+about the life sciences, in the case of mechanisms,
+
+164
+00:11:00.280 --> 00:11:06.219
+pathways, cascades, processes, circuits, I mean, what do these
+
+165
+00:11:06.219 --> 00:11:10.119
+terms mean exactly in the context of biology, for
+
+166
+00:11:10.119 --> 00:11:13.280
+example, and how do they relate to causation?
+
+167
+00:11:14.369 --> 00:11:22.030
+Perfect. Well. There's, there's interesting kind of topics in
+
+168
+00:11:22.030 --> 00:11:25.469
+this space because part of what we find is
+
+169
+00:11:25.469 --> 00:11:31.869
+that in biology and neuroscience, and often many other
+
+170
+00:11:31.869 --> 00:11:37.280
+sciences as well. One causal concept that often shows
+
+171
+00:11:37.280 --> 00:11:39.960
+up is the notion of a mechanism, and it's
+
+172
+00:11:39.960 --> 00:11:44.669
+often viewed as a very high status term. It's
+
+173
+00:11:44.669 --> 00:11:48.559
+interesting because you see in there's a recent paper
+
+174
+00:11:48.559 --> 00:11:51.950
+that Danny Bassett and I published where we discuss
+
+175
+00:11:51.950 --> 00:11:57.869
+how in grant calls and neuroscience and in The
+
+176
+00:11:57.869 --> 00:12:03.270
+journal publication guidelines for top neuroscience journals, it's often
+
+177
+00:12:03.270 --> 00:12:05.849
+suggested that if a researcher is going to get
+
+178
+00:12:05.849 --> 00:12:10.070
+their work funded and get it published, what they
+
+179
+00:12:10.070 --> 00:12:12.630
+need to do is they need to provide mechanistic
+
+180
+00:12:12.630 --> 00:12:16.650
+insights and they need to identify mechanisms. Um, WHAT'S
+
+181
+00:12:16.650 --> 00:12:19.330
+interesting though is that editors are pretty quick to
+
+182
+00:12:19.330 --> 00:12:23.690
+say that they can't tell researchers what counts as
+
+183
+00:12:23.690 --> 00:12:26.880
+a mechanism, and also what you find is that
+
+184
+00:12:27.130 --> 00:12:29.969
+when scientists in these fields are reviewing a paper
+
+185
+00:12:29.969 --> 00:12:32.809
+or a grant, they often completely disagree on whether
+
+186
+00:12:32.809 --> 00:12:36.719
+the same paper has provided mechanistic insights or not.
+
+187
+00:12:36.969 --> 00:12:38.489
+So part of what we see here is the
+
+188
+00:12:38.489 --> 00:12:42.700
+use of a causal concept. And one that's viewed
+
+189
+00:12:42.700 --> 00:12:44.900
+as the kind of status concept of the field,
+
+190
+00:12:44.929 --> 00:12:48.659
+it's very important, but there's no agreement on how
+
+191
+00:12:48.659 --> 00:12:50.619
+it should be defined and in fact, part of
+
+192
+00:12:50.619 --> 00:12:54.530
+what we discussed in that paper. Is that mechanism
+
+193
+00:12:54.530 --> 00:12:57.940
+means different things to different people. It's basically defined
+
+194
+00:12:57.940 --> 00:13:02.179
+in different ways. So part of why this work
+
+195
+00:13:02.179 --> 00:13:06.299
+is important is that if a causal concept is
+
+196
+00:13:06.299 --> 00:13:10.340
+to have meaning and in order for scientists to
+
+197
+00:13:10.340 --> 00:13:13.099
+kind of theorize clearly in order for us to
+
+198
+00:13:13.099 --> 00:13:16.760
+capture the kind of causes that That matter in
+
+199
+00:13:16.760 --> 00:13:19.799
+a given field and the kind of work that
+
+200
+00:13:19.799 --> 00:13:22.190
+should be supported. It needs to be very clear
+
+201
+00:13:22.659 --> 00:13:26.590
+first what's meant by causality and also what kinds
+
+202
+00:13:26.590 --> 00:13:31.320
+of causal systems scientists should be finding and that
+
+203
+00:13:31.320 --> 00:13:34.739
+they do find in their work. And so essentially
+
+204
+00:13:35.359 --> 00:13:38.039
+a first thing to point out is that in
+
+205
+00:13:38.039 --> 00:13:41.989
+many cases causal terms are used loosely. But a
+
+206
+00:13:41.989 --> 00:13:44.349
+single term can refer to different things or in
+
+207
+00:13:44.349 --> 00:13:46.549
+some cases different terms can refer to the same
+
+208
+00:13:46.549 --> 00:13:49.390
+thing. So an important job of a philosopher of
+
+209
+00:13:49.390 --> 00:13:54.799
+science is to get clarity on You know, there's
+
+210
+00:13:54.799 --> 00:13:57.469
+a kind of semantic issue of just the words
+
+211
+00:13:57.469 --> 00:14:00.679
+we're using, and then there's a very feet on
+
+212
+00:14:00.679 --> 00:14:07.690
+the ground. Um, OBJECTIVE, important, you know, precision issue
+
+213
+00:14:07.690 --> 00:14:11.500
+of what kind of causes. Do we care about
+
+214
+00:14:11.500 --> 00:14:14.210
+in science and what kind of causes matter, so.
+
+215
+00:14:15.090 --> 00:14:16.890
+We can get clarity on that when we look
+
+216
+00:14:16.890 --> 00:14:20.320
+at more specific ways in which the mechanism term
+
+217
+00:14:20.320 --> 00:14:23.250
+is used and other terms like, you know, deterministic
+
+218
+00:14:23.250 --> 00:14:27.320
+causes or probabilistic ones. The traditional notion of mechanism
+
+219
+00:14:27.969 --> 00:14:32.700
+is more of a machine-like notion. Where mechanism is
+
+220
+00:14:32.700 --> 00:14:35.219
+a system that has lower level causal parts, kind
+
+221
+00:14:35.219 --> 00:14:37.729
+of like a car engine or a watch mechanism,
+
+222
+00:14:38.059 --> 00:14:41.020
+where you've got physical causal parts, close proximity, they
+
+223
+00:14:41.020 --> 00:14:43.700
+interact and they're at a lower level and they
+
+224
+00:14:43.700 --> 00:14:46.369
+produce a higher level outcome. So in that case,
+
+225
+00:14:47.130 --> 00:14:50.340
+the kind of more traditional notion of mechanism is
+
+226
+00:14:50.340 --> 00:14:53.570
+a causal system that is similar to a machine.
+
+227
+00:14:53.659 --> 00:14:56.979
+Mechanism is analogized to machines, and you do see
+
+228
+00:14:56.979 --> 00:15:00.729
+this in many scientific domains. The side point is
+
+229
+00:15:00.729 --> 00:15:04.330
+that um that traditional notion has kind of ballooned
+
+230
+00:15:04.330 --> 00:15:08.690
+out and expanded beyond the machine metaphor, but that
+
+231
+00:15:08.690 --> 00:15:11.729
+was the more, that was the original notion, and
+
+232
+00:15:11.729 --> 00:15:13.890
+it still is the kind of default view in
+
+233
+00:15:13.890 --> 00:15:20.260
+many cases. So, mechanisms of gene expression, machine-like notion.
+
+234
+00:15:20.530 --> 00:15:27.479
+Pathway, interestingly, A developmental pathways, metabolic pathways. Here the
+
+235
+00:15:27.479 --> 00:15:31.640
+causal system is analogized to something different, not a
+
+236
+00:15:31.640 --> 00:15:35.450
+machine, but roadways and highways. Pathways give you this
+
+237
+00:15:35.450 --> 00:15:39.280
+possibility space along which something can kind of travel
+
+238
+00:15:39.280 --> 00:15:43.080
+or move. So that's very different from lower level
+
+239
+00:15:43.080 --> 00:15:47.640
+interacting parts. Here it's a set of available routes
+
+240
+00:15:47.799 --> 00:15:50.679
+that a system can travel along. Blood vessels is
+
+241
+00:15:50.679 --> 00:15:54.140
+a nice example, vascular pathways. Right, the blood can
+
+242
+00:15:54.140 --> 00:15:58.619
+flow along different routes. So that's pathway cascade is
+
+243
+00:15:58.619 --> 00:16:05.340
+its own unique causal system. BLOOD coagulation cascade, cell
+
+244
+00:16:05.340 --> 00:16:09.900
+signaling cascades. These are analogized to a waterfall or
+
+245
+00:16:09.900 --> 00:16:12.419
+a snowball effect. And as you can kind of
+
+246
+00:16:12.419 --> 00:16:16.940
+see in those everyday life examples, there's amplification, so
+
+247
+00:16:16.940 --> 00:16:21.510
+a cascade. Explodes. There's a small causal trigger and
+
+248
+00:16:21.510 --> 00:16:26.150
+it produces this huge explosive effect. Natural disasters are
+
+249
+00:16:26.150 --> 00:16:31.349
+sometimes called failure cascades or cascading disasters, so you
+
+250
+00:16:31.349 --> 00:16:35.309
+have a single earthquake that that causes, you know,
+
+251
+00:16:35.590 --> 00:16:39.549
+different, that damages different things. It breaks roadways, water
+
+252
+00:16:39.549 --> 00:16:42.619
+pipes, and then those just cause many more. It's
+
+253
+00:16:42.619 --> 00:16:45.130
+sort of a one to many causal relationship. You
+
+254
+00:16:45.130 --> 00:16:49.969
+amplify. The downstream effects given this like initial trigger
+
+255
+00:16:49.969 --> 00:16:53.690
+snowball effect, and then circuits is another one. Circuits,
+
+256
+00:16:53.729 --> 00:16:57.979
+of course, are commonly discussed in neuroscience and also
+
+257
+00:16:57.979 --> 00:17:00.809
+engineering or electronic contexts when you think of an
+
+258
+00:17:00.809 --> 00:17:03.969
+electric circuit. And what's interesting is here you can
+
+259
+00:17:03.969 --> 00:17:11.198
+see neuroscientists are interested in. Neural systems, they talk
+
+260
+00:17:11.198 --> 00:17:13.239
+about them as operating at a kind of higher
+
+261
+00:17:13.239 --> 00:17:16.598
+level. The circuit doesn't involve all of the lower
+
+262
+00:17:16.598 --> 00:17:20.838
+level details of ions and ion channels and single
+
+263
+00:17:20.838 --> 00:17:24.780
+neurons. It's more of this higher level. Mesoscale they'll
+
+264
+00:17:24.780 --> 00:17:27.660
+often call it circuits like a wiring diagram where
+
+265
+00:17:27.660 --> 00:17:30.060
+you see these neurons or neural tracts that are
+
+266
+00:17:30.060 --> 00:17:33.780
+connected together and there's a computational aspect like a
+
+267
+00:17:33.780 --> 00:17:37.410
+computer. The system is getting this input from its
+
+268
+00:17:37.410 --> 00:17:39.819
+environment and it's computing what's going to happen and
+
+269
+00:17:39.819 --> 00:17:42.530
+then there's an output. There's this more complex behavior.
+
+270
+00:17:43.329 --> 00:17:46.199
+So part of what we see is that scientists,
+
+271
+00:17:46.239 --> 00:17:50.310
+when they're talking about causal systems, they often analogize
+
+272
+00:17:50.310 --> 00:17:53.630
+them to systems in everyday life that have similar
+
+273
+00:17:53.630 --> 00:18:00.390
+features like machines, roadways, snowball effect, waterfalls, and then
+
+274
+00:18:00.390 --> 00:18:06.920
+circuits in. Electronic situations and so part of what
+
+275
+00:18:06.920 --> 00:18:09.890
+is helpful about those analogies is they pick out
+
+276
+00:18:09.890 --> 00:18:13.810
+the unique features of these different systems and how
+
+277
+00:18:13.810 --> 00:18:16.329
+it is that they differ, how it is that
+
+278
+00:18:16.329 --> 00:18:19.729
+scientists study them based on those differences, and then
+
+279
+00:18:19.729 --> 00:18:25.770
+the unique types of explanations that we can provide
+
+280
+00:18:25.770 --> 00:18:28.569
+when we understand those unique features, but the basic
+
+281
+00:18:28.569 --> 00:18:30.390
+idea we kind of come back to is that
+
+282
+00:18:30.930 --> 00:18:33.199
+There's different types of causal systems in the world,
+
+283
+00:18:33.369 --> 00:18:35.130
+and we need to be able to capture that.
+
+284
+00:18:35.170 --> 00:18:37.489
+If you call all of them mechanisms, it's sort
+
+285
+00:18:37.489 --> 00:18:41.550
+of like. That's fine, but we need to then
+
+286
+00:18:41.550 --> 00:18:45.939
+distinguish between different types of mechanisms. So it isn't
+
+287
+00:18:45.939 --> 00:18:49.099
+so much about the word that's used, but clearly
+
+288
+00:18:49.099 --> 00:18:52.660
+saying what are the features of these systems? Do
+
+289
+00:18:52.660 --> 00:18:56.650
+they have lower level causal parts close spatial proximity?
+
+290
+00:18:56.739 --> 00:19:00.390
+Do they amplify? Do they involve a computational aspect?
+
+291
+00:19:00.780 --> 00:19:05.569
+And so, Um, what's interesting is that as a
+
+292
+00:19:05.569 --> 00:19:09.250
+philosopher of science, when you're looking at many different
+
+293
+00:19:09.250 --> 00:19:12.530
+scientific fields, you see the same causal terms show
+
+294
+00:19:12.530 --> 00:19:17.290
+up. Across different domains, and they're often used in
+
+295
+00:19:17.290 --> 00:19:20.640
+a similar kind of way. So biologists also talk
+
+296
+00:19:20.640 --> 00:19:25.010
+about circuits, circuit motifs, the cascade concept we find
+
+297
+00:19:25.010 --> 00:19:28.969
+in physics as well. And so it's helpful to
+
+298
+00:19:28.969 --> 00:19:33.530
+be able to kind of compare the causal language
+
+299
+00:19:33.530 --> 00:19:37.979
+and causal systems that scientists identify across different domains,
+
+300
+00:19:38.250 --> 00:19:43.780
+um, and to Kind of Identify and provide this
+
+301
+00:19:43.780 --> 00:19:46.339
+clarity on what the features of these causal systems
+
+302
+00:19:46.339 --> 00:19:46.609
+are.
+
+303
+00:19:48.510 --> 00:19:51.989
+So we have all these different kinds of causation
+
+304
+00:19:51.989 --> 00:19:56.520
+in science. When we are asking a specific kind
+
+305
+00:19:56.520 --> 00:20:01.510
+of scientific question that involves causation, is there a
+
+306
+00:20:01.510 --> 00:20:04.829
+proper type of causation to be found out for
+
+307
+00:20:04.829 --> 00:20:06.630
+each specific question?
+
+308
+00:20:08.680 --> 00:20:14.099
+Yes, the, the way that we, I mean, We
+
+309
+00:20:14.099 --> 00:20:19.849
+can't really identify causes that matter for a situation
+
+310
+00:20:20.339 --> 00:20:24.859
+or a phenomenon or an explanatory target of interest
+
+311
+00:20:24.859 --> 00:20:28.569
+until we say what that explanatory target or phenomenon
+
+312
+00:20:28.569 --> 00:20:34.250
+is, so a good amount of legwork. That's involved
+
+313
+00:20:34.250 --> 00:20:37.459
+in identifying causes in the world is to in
+
+314
+00:20:37.459 --> 00:20:41.130
+many cases first specify what's the effect of interest.
+
+315
+00:20:41.339 --> 00:20:44.819
+What does a scientist want to understand? Do they
+
+316
+00:20:44.819 --> 00:20:50.089
+want to understand Different differences in height across genetically
+
+317
+00:20:50.089 --> 00:20:53.489
+identical plants. Do they want to understand what causes
+
+318
+00:20:53.489 --> 00:20:57.400
+different eye colors in humans or in fruit flies?
+
+319
+00:20:58.150 --> 00:20:59.859
+What is it that they want to, do they
+
+320
+00:20:59.859 --> 00:21:02.540
+want to understand a disease, right? What causes a
+
+321
+00:21:02.540 --> 00:21:05.060
+particular disease in humans? So a lot of the
+
+322
+00:21:05.060 --> 00:21:09.170
+legwork is actually involved in first providing a clear
+
+323
+00:21:09.170 --> 00:21:13.780
+effect or a clear explanatory target that you that
+
+324
+00:21:13.780 --> 00:21:20.270
+you use to Um, and you fix to then
+
+325
+00:21:20.270 --> 00:21:23.540
+ask, OK, if this is my target of interest,
+
+326
+00:21:23.949 --> 00:21:26.989
+what are the causes that control this outcome? What
+
+327
+00:21:26.989 --> 00:21:29.260
+are the factors that if they were to change,
+
+328
+00:21:29.829 --> 00:21:35.489
+provide changes to this effective interest and Sometimes scientists
+
+329
+00:21:35.489 --> 00:21:39.329
+are still working on clearly specifying the effect of
+
+330
+00:21:39.329 --> 00:21:41.609
+the outcome, and they can't yet get to the
+
+331
+00:21:41.609 --> 00:21:45.170
+causal question because, for example, if they're interested in
+
+332
+00:21:45.170 --> 00:21:49.239
+consciousness, there isn't. A clear definition they all agree
+
+333
+00:21:49.239 --> 00:21:52.310
+on or if it's a psychiatric condition or disease
+
+334
+00:21:52.310 --> 00:21:55.689
+again it's hard to get. A kind of concise
+
+335
+00:21:55.689 --> 00:21:57.900
+characterization of the effect, but if it's something like
+
+336
+00:21:57.900 --> 00:22:00.250
+eye color, that's a little more straightforward, it's a
+
+337
+00:22:00.250 --> 00:22:02.650
+little easier. So different types of phenomena in the
+
+338
+00:22:02.650 --> 00:22:07.829
+world are are more or less tractable to Kind
+
+339
+00:22:07.829 --> 00:22:10.510
+of being able to measure them, to specify them,
+
+340
+00:22:10.650 --> 00:22:14.489
+and that's a very important first step in identifying
+
+341
+00:22:14.790 --> 00:22:19.459
+the causes. So one way that Identifying causes in
+
+342
+00:22:19.459 --> 00:22:21.459
+the world or causal relationships in the world works
+
+343
+00:22:21.459 --> 00:22:23.219
+is you fix the effect and you search for
+
+344
+00:22:23.219 --> 00:22:26.140
+the causes. In other cases, you might focus on
+
+345
+00:22:26.140 --> 00:22:28.660
+the causes first and just start intervening on things
+
+346
+00:22:28.660 --> 00:22:31.300
+to see what what's being produced, but even in
+
+347
+00:22:31.300 --> 00:22:36.500
+that latter. We you still need some kind of
+
+348
+00:22:36.500 --> 00:22:40.709
+specification of what is the cause that you're intervening
+
+349
+00:22:40.709 --> 00:22:44.180
+on. And so this kind of nicely relates to
+
+350
+00:22:44.839 --> 00:22:48.380
+um scientific methodology and having clear cause and effect
+
+351
+00:22:48.380 --> 00:22:50.589
+variables to begin with, and that's another kind of
+
+352
+00:22:50.589 --> 00:22:55.939
+helpful aspect of this framework um getting very clear
+
+353
+00:22:55.939 --> 00:22:58.589
+on what the properties in the world are that
+
+354
+00:22:58.589 --> 00:23:02.030
+we're interested in is necessary before we can start
+
+355
+00:23:02.030 --> 00:23:06.839
+talking about. Whether different properties are causally related or
+
+356
+00:23:06.839 --> 00:23:07.239
+not.
+
+357
+00:23:08.800 --> 00:23:11.630
+So let's get into the topic of explanation now
+
+358
+00:23:11.630 --> 00:23:15.349
+and then also relate causation to explanation. So first
+
+359
+00:23:15.349 --> 00:23:18.239
+of all, what is scientific explanation?
+
+360
+00:23:20.109 --> 00:23:30.810
+Scientific explanation is a. Project that Scientists engage in
+
+361
+00:23:30.810 --> 00:23:36.390
+that philosophers are very interested in. Philosophers distinguish different
+
+362
+00:23:36.390 --> 00:23:39.140
+things that scientists do. Scientists do all sorts of
+
+363
+00:23:39.140 --> 00:23:42.780
+important things. They provide descriptions of the world. They
+
+364
+00:23:42.780 --> 00:23:45.819
+classify stuff in the world. They make predictions, and
+
+365
+00:23:45.819 --> 00:23:50.400
+they give explanations. Those are just 4 things. Giving
+
+366
+00:23:50.400 --> 00:23:54.630
+an explanation involves answering a why question about something
+
+367
+00:23:54.630 --> 00:24:00.069
+in the world that involves explaining often why it
+
+368
+00:24:00.069 --> 00:24:04.280
+happened or what's responsible for that phenomenon, and giving
+
+369
+00:24:04.280 --> 00:24:07.609
+an explanation is both an answer to a why
+
+370
+00:24:07.609 --> 00:24:10.959
+question that gives deep understanding of the world. Giving
+
+371
+00:24:10.959 --> 00:24:14.560
+a description of something is, is often very, it's
+
+372
+00:24:14.560 --> 00:24:17.569
+much easier. I can describe plants in the world.
+
+373
+00:24:18.140 --> 00:24:19.939
+By sort of just looking at them, but that
+
+374
+00:24:19.939 --> 00:24:22.020
+doesn't mean I have an explanation for why the
+
+375
+00:24:22.020 --> 00:24:25.599
+plants have certain features. I can classify them again
+
+376
+00:24:25.599 --> 00:24:29.099
+without explaining anything about them. And in many cases
+
+377
+00:24:29.099 --> 00:24:32.540
+we can also make predictions without being able to
+
+378
+00:24:32.540 --> 00:24:37.180
+explain why something occurs. So explanation is viewed as
+
+379
+00:24:37.829 --> 00:24:41.609
+An important aspect of science. Sometimes it's viewed as
+
+380
+00:24:41.609 --> 00:24:44.040
+one of the most important things that scientists do.
+
+381
+00:24:44.410 --> 00:24:48.680
+It's something that provides deep understanding of the world,
+
+382
+00:24:49.010 --> 00:24:51.010
+and it answers these why questions like why is
+
+383
+00:24:51.010 --> 00:24:53.880
+it the case that the sky is blue, that
+
+384
+00:24:53.880 --> 00:24:57.410
+this patient has a disease and another doesn't, or
+
+385
+00:24:57.410 --> 00:25:00.050
+why is it the case that, you know, my
+
+386
+00:25:00.050 --> 00:25:05.930
+eye color is this color versus another? So there
+
+387
+00:25:05.930 --> 00:25:10.290
+is and has been debate about the special features
+
+388
+00:25:10.290 --> 00:25:12.180
+that need to be present to know that a
+
+389
+00:25:12.180 --> 00:25:15.689
+scientist is giving a legitimate explanation, but you could
+
+390
+00:25:15.689 --> 00:25:20.209
+also see how this matters for capturing what's special
+
+391
+00:25:20.209 --> 00:25:22.930
+about science. If science gives us our best understanding
+
+392
+00:25:22.930 --> 00:25:25.369
+of the world and if science gives us real
+
+393
+00:25:25.369 --> 00:25:31.489
+genuine explanations, unlike other Other things outside of science,
+
+394
+00:25:31.530 --> 00:25:34.170
+then what is it that's so special about them?
+
+395
+00:25:34.390 --> 00:25:36.209
+And so then there's a lot of work on.
+
+396
+00:25:37.469 --> 00:25:40.189
+With the hallmark features or the kind of criteria
+
+397
+00:25:40.189 --> 00:25:42.310
+that need to be met for a scientist to
+
+398
+00:25:42.310 --> 00:25:45.469
+give a real genuine explanation, but you can already
+
+399
+00:25:45.469 --> 00:25:48.739
+start to see how explanations are viewed as distinct
+
+400
+00:25:48.739 --> 00:25:52.189
+from other important things that scientists do and other
+
+401
+00:25:52.189 --> 00:25:53.910
+important models that they have. If they have a
+
+402
+00:25:53.910 --> 00:25:57.739
+model that's predictive, that doesn't yet mean it's explanatory,
+
+403
+00:25:58.109 --> 00:26:00.349
+or if they have a classification system that doesn't
+
+404
+00:26:00.349 --> 00:26:02.750
+yet mean that they've explained something about the world.
+
+405
+00:26:03.319 --> 00:26:08.530
+Um, ALTHOUGH they've sorted objects into different categories, um,
+
+406
+00:26:08.640 --> 00:26:12.239
+that's viewed as distinct from explaining why something in
+
+407
+00:26:12.239 --> 00:26:13.949
+the world is a certain way.
+
+408
+00:26:15.609 --> 00:26:20.140
+Uh, ARE all scientific explanations causal or are there
+
+409
+00:26:20.140 --> 00:26:23.339
+also non-causal scientific explanations?
+
+410
+00:26:26.189 --> 00:26:30.469
+There's debate about this in philosophy, and I think
+
+411
+00:26:30.469 --> 00:26:35.959
+there's both types, causal and non-causal. The field has
+
+412
+00:26:35.959 --> 00:26:40.829
+been very interested and focused on causal explanation for
+
+413
+00:26:41.040 --> 00:26:43.560
+a while now. Philosophy has been very focused on
+
+414
+00:26:43.560 --> 00:26:48.719
+causal explanation because it looks like scientists often give
+
+415
+00:26:48.719 --> 00:26:52.479
+causal explanations. It's a very common way that scientists
+
+416
+00:26:52.479 --> 00:26:56.000
+explain. The idea there is that causes explain their
+
+417
+00:26:56.000 --> 00:27:01.030
+effects. So if we want to explain a disease.
+
+418
+00:27:01.930 --> 00:27:04.969
+Right, what's, what explains why someone has scurvy or
+
+419
+00:27:04.969 --> 00:27:08.650
+not? Well, you cite this cause. It's the explanation
+
+420
+00:27:08.650 --> 00:27:12.449
+of scurvy is that someone lacks a dietary vitamin
+
+421
+00:27:12.449 --> 00:27:15.209
+C, and you know, the same goes for genetic
+
+422
+00:27:15.209 --> 00:27:16.969
+diseases. If you want to explain it, you cite
+
+423
+00:27:16.969 --> 00:27:20.729
+the cause. So causes explain their effects. And it's,
+
+424
+00:27:20.849 --> 00:27:23.770
+it's very easy to see many examples of this
+
+425
+00:27:23.770 --> 00:27:27.880
+all across the sciences. What's come up more recently
+
+426
+00:27:27.880 --> 00:27:31.609
+in philosophical work is interest in whether there are
+
+427
+00:27:31.609 --> 00:27:38.189
+other explanations that aren't causal exclusively. And a common
+
+428
+00:27:38.459 --> 00:27:43.060
+large class of these are explanations that involve a
+
+429
+00:27:43.060 --> 00:27:46.660
+mathematical piece, but it's a special kind of mathematical
+
+430
+00:27:46.660 --> 00:27:50.550
+piece. It's a, it's an explanation where you need
+
+431
+00:27:50.979 --> 00:27:55.060
+math, and the math isn't just representing stuff in
+
+432
+00:27:55.060 --> 00:27:57.140
+the world. It's not, I mean, math can represent
+
+433
+00:27:57.140 --> 00:28:00.619
+causal relationships, so it's can't be math, it's representing
+
+434
+00:28:00.619 --> 00:28:05.239
+causality, but there's this mathematical dependency. That is said
+
+435
+00:28:05.239 --> 00:28:09.609
+to exist in some explanations. Where it's a mathematical
+
+436
+00:28:09.609 --> 00:28:12.969
+relationship, not an empirical one, and it's suggested that
+
+437
+00:28:12.969 --> 00:28:18.079
+there are some explanations, like evolutionary explanations, for example,
+
+438
+00:28:18.640 --> 00:28:22.810
+um, and many others, where there's causal information that
+
+439
+00:28:22.810 --> 00:28:25.160
+you need for the explanation, but you can't give
+
+440
+00:28:25.160 --> 00:28:28.890
+the explanation with causality alone. You also need this
+
+441
+00:28:28.890 --> 00:28:31.439
+mathematical piece. And so in cases where you need
+
+442
+00:28:31.719 --> 00:28:36.630
+A mathematical piece for explanatory power or for for
+
+443
+00:28:36.630 --> 00:28:41.030
+providing an explanation. Those are viewed as examples where
+
+444
+00:28:41.030 --> 00:28:48.219
+explanations aren't exclusively causal. And In that book that
+
+445
+00:28:48.219 --> 00:28:52.089
+you mentioned at the beginning of the interview, this
+
+446
+00:28:52.089 --> 00:28:56.569
+Cambridge University press book on explanation and biology, the
+
+447
+00:28:56.569 --> 00:29:01.849
+book is actually divided into causal explanation and non-causal
+
+448
+00:29:01.849 --> 00:29:05.930
+explanation. So that book goes into detail about different
+
+449
+00:29:05.930 --> 00:29:09.489
+types in each of these categories. But in philosophy
+
+450
+00:29:09.489 --> 00:29:14.260
+of science, causal explanation has gotten The most attention
+
+451
+00:29:14.260 --> 00:29:17.699
+for quite a while and it's more recent work
+
+452
+00:29:17.699 --> 00:29:24.109
+that has been interested in in examined non-causal types
+
+453
+00:29:24.109 --> 00:29:29.979
+of explanation. They're sometimes called mathematical explanations, and so
+
+454
+00:29:29.979 --> 00:29:32.060
+that book has more examples of types in this
+
+455
+00:29:32.060 --> 00:29:37.130
+category, but there's important work on non-causal explanation by
+
+456
+00:29:37.130 --> 00:29:44.670
+Robert Batterman. By Mark Lang, by um Pincock, and,
+
+457
+00:29:44.869 --> 00:29:47.959
+and many others. So it's a very much an
+
+458
+00:29:47.959 --> 00:29:50.469
+interesting current topic and philosophy of science.
+
+459
+00:29:51.839 --> 00:29:56.489
+And does each type of causation imply a particular
+
+460
+00:29:56.489 --> 00:30:00.770
+type of explanation? What is the link between causation
+
+461
+00:30:00.770 --> 00:30:01.890
+and explanation?
+
+462
+00:30:02.689 --> 00:30:06.319
+Good. So, I think the most helpful way to
+
+463
+00:30:06.319 --> 00:30:09.510
+think about it is And yeah, this is a
+
+464
+00:30:09.510 --> 00:30:11.329
+this is a nice question. So there's different types
+
+465
+00:30:11.329 --> 00:30:13.410
+of causes in the world. There's different types of
+
+466
+00:30:13.410 --> 00:30:15.849
+causal systems. Does that mean there's different types of
+
+467
+00:30:15.849 --> 00:30:20.050
+causal explanation? There's a sense in which all of
+
+468
+00:30:20.050 --> 00:30:23.859
+those explanations are causal, but in order to explain
+
+469
+00:30:23.859 --> 00:30:27.089
+something, we often have to pick out which are
+
+470
+00:30:27.089 --> 00:30:30.869
+the causes that matter the most for an outcome.
+
+471
+00:30:31.329 --> 00:30:35.280
+And sometimes the causes that matter the most are
+
+472
+00:30:35.560 --> 00:30:38.310
+You know, a mechanism at a lower level, sometimes
+
+473
+00:30:38.310 --> 00:30:42.510
+it's a pathway, sometimes it's a cascade. So I
+
+474
+00:30:42.510 --> 00:30:47.430
+would say all of those examples fall into this
+
+475
+00:30:47.430 --> 00:30:53.540
+general category of causal explanation. But When we're interested
+
+476
+00:30:53.540 --> 00:30:57.160
+in causal explanations, right, suppose you fix an explanatory
+
+477
+00:30:57.160 --> 00:31:00.140
+target, it's, you know, eye color in a fruit
+
+478
+00:31:00.140 --> 00:31:05.410
+fly or something. You need to identify to give
+
+479
+00:31:05.410 --> 00:31:08.479
+an explanation. You need to identify causes that are
+
+480
+00:31:08.479 --> 00:31:10.849
+relevant to the outcome, but there's a ton of
+
+481
+00:31:10.849 --> 00:31:12.930
+them out there in the world. One of the
+
+482
+00:31:12.930 --> 00:31:20.020
+challenges of providing Explanations in science, causal explanations, is
+
+483
+00:31:20.020 --> 00:31:22.579
+you've got to sort through a massive set of
+
+484
+00:31:22.579 --> 00:31:24.859
+causes and pick out the ones that matter the
+
+485
+00:31:24.859 --> 00:31:28.260
+most. This is sometimes called causal selection in philosophy.
+
+486
+00:31:28.300 --> 00:31:31.699
+How does a scientist select the causes that matter
+
+487
+00:31:31.699 --> 00:31:36.619
+the most? The kind of funny philosophical discussions of
+
+488
+00:31:36.619 --> 00:31:39.060
+this topic are suppose you could go all the
+
+489
+00:31:39.060 --> 00:31:40.979
+way back in the causal history to the Big
+
+490
+00:31:40.979 --> 00:31:43.729
+Bang, or you can go all the way down
+
+491
+00:31:43.729 --> 00:31:47.459
+causally to fundamental physics. There's a David Lewis says
+
+492
+00:31:47.459 --> 00:31:49.939
+there's an infinite set of causes in the world
+
+493
+00:31:49.939 --> 00:31:53.630
+for any outcome of interest. Even if we don't
+
+494
+00:31:53.630 --> 00:31:55.430
+think going all the way back or all the
+
+495
+00:31:55.430 --> 00:31:59.349
+way down is compelling, we still have these cases
+
+496
+00:31:59.349 --> 00:32:02.310
+where, you know, neuroscience or biology, there's a massive
+
+497
+00:32:02.310 --> 00:32:05.109
+number of causally relevant things. How do you pick
+
+498
+00:32:05.109 --> 00:32:07.589
+the causes that matter the most, right? I mean,
+
+499
+00:32:07.630 --> 00:32:09.510
+we can't cite all of them, and we don't
+
+500
+00:32:09.510 --> 00:32:11.349
+think we need to. We don't, I mean, we
+
+501
+00:32:11.349 --> 00:32:12.589
+definitely don't need to go all the way back
+
+502
+00:32:12.589 --> 00:32:15.349
+to the Big Bang to explain everything, or it
+
+503
+00:32:15.349 --> 00:32:18.589
+doesn't matter for explaining everything on the planet or
+
+504
+00:32:18.589 --> 00:32:21.989
+all the phenomena we're interested in. So part of
+
+505
+00:32:22.469 --> 00:32:26.119
+What's important here in capturing scientific methodology and scientific
+
+506
+00:32:26.119 --> 00:32:29.750
+explanation is giving principled reasons for how scientists do
+
+507
+00:32:29.750 --> 00:32:35.369
+that selection process. And causation at base is control,
+
+508
+00:32:35.619 --> 00:32:38.290
+but there's different types of control that often matter
+
+509
+00:32:38.619 --> 00:32:42.260
+more than others, and that allows scientists to pick
+
+510
+00:32:42.260 --> 00:32:45.500
+certain causes that give some types of control that
+
+511
+00:32:45.500 --> 00:32:49.540
+are valued and thought to be more explanatory. So
+
+512
+00:32:49.540 --> 00:32:52.819
+there's this really kind of nice space of being
+
+513
+00:32:52.819 --> 00:32:56.540
+able to say and specify what are the principal
+
+514
+00:32:56.540 --> 00:33:00.469
+reasons and kind of guidelines that scientists use. When
+
+515
+00:33:00.469 --> 00:33:03.869
+they pick out relevant causes for an explanatory target
+
+516
+00:33:03.869 --> 00:33:06.030
+of interest, sometimes they pick out a single main
+
+517
+00:33:06.030 --> 00:33:12.569
+cause. Probably rarely, there's some monocausal diseases. Usually there's
+
+518
+00:33:12.569 --> 00:33:16.170
+many causes, but they're still abstracting and kind of
+
+519
+00:33:16.170 --> 00:33:19.640
+leaving out lots of detail and lots of information.
+
+520
+00:33:20.209 --> 00:33:23.500
+So this is where those distinctions within causation matter.
+
+521
+00:33:23.810 --> 00:33:27.729
+They might pick a cause because it's more deterministic
+
+522
+00:33:27.729 --> 00:33:30.410
+than another or it's stronger than another or it's
+
+523
+00:33:30.410 --> 00:33:34.119
+more stable. It's a cause that generalizes better across
+
+524
+00:33:34.119 --> 00:33:37.079
+the context that they're interested in. And then there's
+
+525
+00:33:37.079 --> 00:33:40.949
+this just very rich space of. First, capturing causal
+
+526
+00:33:40.949 --> 00:33:43.469
+distinctions and then seeing which ones matter to a
+
+527
+00:33:43.469 --> 00:33:49.979
+scientist in given context based on their explanatory question
+
+528
+00:33:50.489 --> 00:33:53.150
+and the kind of system they're interested in.
+
+529
+00:33:54.729 --> 00:33:58.689
+So you focus your work on biology, neuroscience and
+
+530
+00:33:58.689 --> 00:34:02.290
+medicine. Are there commonalities in terms of the types
+
+531
+00:34:02.290 --> 00:34:05.969
+of causation we see across them and in the
+
+532
+00:34:05.969 --> 00:34:10.090
+types of explanation that people usually seek in each
+
+533
+00:34:10.090 --> 00:34:11.969
+of the scientific fields?
+
+534
+00:34:12.958 --> 00:34:18.929
+Yes, there's a ton of commonality. There's even commonality
+
+535
+00:34:18.929 --> 00:34:23.539
+beyond those sciences. When you look at ecology, and
+
+536
+00:34:23.539 --> 00:34:27.819
+you compare it to neuroscience, biology, and in some
+
+537
+00:34:27.819 --> 00:34:31.947
+cases, social sciences as well, and then there are
+
+538
+00:34:32.339 --> 00:34:38.379
+important differences. In neuroscience, I find there's often much
+
+539
+00:34:38.379 --> 00:34:41.958
+more of a focus on computation than in biology.
+
+540
+00:34:42.458 --> 00:34:47.978
+We're often seeing that neuroscientists are interested in how
+
+541
+00:34:47.978 --> 00:34:54.739
+neurons are processing information. And there's very complex also
+
+542
+00:34:54.739 --> 00:34:57.219
+targets of interest in neuroscience. You want to explain
+
+543
+00:34:57.219 --> 00:35:00.739
+this complex behavior. The organism is put in this
+
+544
+00:35:00.739 --> 00:35:04.620
+environment. Something unique happens and they respond with this
+
+545
+00:35:04.620 --> 00:35:09.899
+very complex emotional outcome or there's a reflex that
+
+546
+00:35:09.899 --> 00:35:12.889
+they very quickly discharge. It's like this very physical
+
+547
+00:35:14.540 --> 00:35:20.790
+reflex based on negative stimulus and Those are different
+
+548
+00:35:20.790 --> 00:35:25.550
+from many cases in biology where we don't talk
+
+549
+00:35:25.550 --> 00:35:31.229
+about physiological systems always as information processing, and sometimes
+
+550
+00:35:31.229 --> 00:35:35.229
+the explanatory targets are less higher level, they're more
+
+551
+00:35:35.229 --> 00:35:38.310
+at a lower level. It's is this hormone produced
+
+552
+00:35:38.310 --> 00:35:40.709
+or not? What are the levels at which it's
+
+553
+00:35:40.709 --> 00:35:47.070
+produced? And Um, yeah, there's sometimes there is discussion
+
+554
+00:35:47.070 --> 00:35:49.969
+of some computational features in biology, but just not
+
+555
+00:35:49.969 --> 00:35:51.959
+at the same degree and not at the same
+
+556
+00:35:51.959 --> 00:35:55.250
+complexity as we see in neuroscience and in medicine,
+
+557
+00:35:55.330 --> 00:35:59.399
+of course, the focus isn't so much on function.
+
+558
+00:36:00.090 --> 00:36:02.760
+In biology, the focus is often on function. How
+
+559
+00:36:02.760 --> 00:36:07.090
+is the system functioning to produce this this outcome?
+
+560
+00:36:08.010 --> 00:36:11.290
+That needs to happen for the organism to survive.
+
+561
+00:36:11.330 --> 00:36:16.330
+It's producing something that oscillates, where in medicine we
+
+562
+00:36:16.330 --> 00:36:20.209
+often think of something has broken and maybe there's
+
+563
+00:36:20.209 --> 00:36:22.449
+a kind of main cause or set of causes
+
+564
+00:36:22.449 --> 00:36:26.679
+that has disrupted the system and What are those
+
+565
+00:36:26.679 --> 00:36:31.520
+kind of main causal factors that are relevant in
+
+566
+00:36:31.520 --> 00:36:33.199
+this case and that are doing that? Is there
+
+567
+00:36:33.199 --> 00:36:37.439
+a gene variant? Is there an environmental toxin or
+
+568
+00:36:37.439 --> 00:36:41.800
+an environmental factor? Is there something at a higher
+
+569
+00:36:41.800 --> 00:36:44.719
+scale, a neuron that's not functioning in a certain
+
+570
+00:36:44.719 --> 00:36:50.290
+kind of way? So there there are differences that
+
+571
+00:36:50.290 --> 00:36:53.989
+depend on differences across the systems, but there's a
+
+572
+00:36:53.989 --> 00:36:56.330
+lot of, I mean, one thing we see is
+
+573
+00:36:56.330 --> 00:36:59.010
+that that same kind of basic causation in terms
+
+574
+00:36:59.010 --> 00:37:02.169
+of control that shows up across all of these
+
+575
+00:37:02.169 --> 00:37:06.469
+contexts, but then part of what we need is
+
+576
+00:37:07.439 --> 00:37:11.199
+You know, it's very It's not, it's important to
+
+577
+00:37:11.199 --> 00:37:15.040
+distinguish causation from correlation with the control feature, but
+
+578
+00:37:15.040 --> 00:37:16.590
+we often want to know a lot more about
+
+579
+00:37:16.590 --> 00:37:19.229
+the systems, and so knowing, knowing more about them
+
+580
+00:37:19.600 --> 00:37:22.790
+often involves these distinctions within causation, but then just
+
+581
+00:37:22.790 --> 00:37:28.280
+also differences across the systems and being attentive to
+
+582
+00:37:28.280 --> 00:37:33.270
+that is important for a philosopher of science and
+
+583
+00:37:34.310 --> 00:37:37.520
+um. It involves a good amount of leg work
+
+584
+00:37:37.520 --> 00:37:41.479
+because you have to be. Aware of differences across
+
+585
+00:37:41.479 --> 00:37:44.610
+the fields, and it's also helpful to talk to
+
+586
+00:37:44.610 --> 00:37:48.129
+scientists in each of these domains to get a
+
+587
+00:37:48.129 --> 00:37:50.899
+sense of what matters to them. What are the
+
+588
+00:37:50.899 --> 00:37:54.810
+types of causation and explanatory targets that they're interested
+
+589
+00:37:54.810 --> 00:37:58.260
+in, and then how can we kind of clarify.
+
+590
+00:38:01.750 --> 00:38:05.129
+OF those systems that matter, that are out there
+
+591
+00:38:05.129 --> 00:38:07.969
+in the world, and that that matter for the
+
+592
+00:38:07.969 --> 00:38:11.449
+methods that they use, the explanations they provide, and
+
+593
+00:38:11.449 --> 00:38:14.050
+then just getting an understanding of different types of
+
+594
+00:38:14.050 --> 00:38:17.020
+systems in the world and in the life sciences.
+
+595
+00:38:18.590 --> 00:38:20.310
+So I would like to ask you now about
+
+596
+00:38:20.310 --> 00:38:24.270
+the topic of causal complexity. So, what is causal
+
+597
+00:38:24.270 --> 00:38:27.750
+complexity and how does it manifest in the domain
+
+598
+00:38:27.750 --> 00:38:30.830
+of psychiatry and psychiatric illness?
+
+599
+00:38:33.120 --> 00:38:38.550
+Good. There's all types of causal complexity in psychiatry
+
+600
+00:38:38.879 --> 00:38:42.760
+and other domains as well, of course. There are
+
+601
+00:38:42.760 --> 00:38:47.199
+two common types of causal complexity that I've studied
+
+602
+00:38:47.199 --> 00:38:50.239
+in my work and that are sometimes not easily
+
+603
+00:38:50.239 --> 00:38:56.709
+distinguished from one another, and they are called multi-causality
+
+604
+00:38:57.000 --> 00:39:05.129
+and causal heterogeneity. So Multicausality refers to a situation
+
+605
+00:39:05.379 --> 00:39:10.459
+where many causes are all working together to produce.
+
+606
+00:39:11.270 --> 00:39:14.419
+An outcome, a psychiatric disease, any kind of outcome.
+
+607
+00:39:15.300 --> 00:39:17.899
+You can think of this as contrasted with a
+
+608
+00:39:17.899 --> 00:39:21.060
+monocausal model where there's one main cause for a
+
+609
+00:39:21.060 --> 00:39:25.459
+disease. Interestingly, in the history of medicine, the monocausal
+
+610
+00:39:25.459 --> 00:39:31.580
+model was an important step in medical understanding and
+
+611
+00:39:31.580 --> 00:39:33.939
+medical history. It starts with the germ theory, Robert
+
+612
+00:39:33.939 --> 00:39:39.239
+Koch. There's Koch's postulates. There's one main. Bacteria that
+
+613
+00:39:39.239 --> 00:39:41.580
+is the cause of one main disease, right? He,
+
+614
+00:39:42.080 --> 00:39:47.739
+he identified that with anthrax, cholera, tuberculosis, and so
+
+615
+00:39:47.739 --> 00:39:53.919
+this big important breakthrough in the history of medicine
+
+616
+00:39:53.919 --> 00:39:58.689
+was identifying that diseases often have single main causes,
+
+617
+00:39:58.760 --> 00:40:01.199
+and part of what has happened since then is
+
+618
+00:40:01.199 --> 00:40:07.620
+realizing Those are the more easy cases. Psychiatric diseases
+
+619
+00:40:07.620 --> 00:40:10.729
+and others as well are causally complex in ways
+
+620
+00:40:11.060 --> 00:40:15.219
+that differ from that monocausal model, one cause one
+
+621
+00:40:15.219 --> 00:40:18.100
+effect. One way that we see they differ is
+
+622
+00:40:18.100 --> 00:40:20.780
+many causes for an effect, and here are just
+
+623
+00:40:20.780 --> 00:40:24.649
+many causes that work together. So if you have
+
+624
+00:40:24.649 --> 00:40:27.330
+a disease that requires a gene variant and a
+
+625
+00:40:27.330 --> 00:40:31.570
+dietary factor both together, that's at least two causes
+
+626
+00:40:31.570 --> 00:40:35.879
+that are required. And you know, diseases like PKU
+
+627
+00:40:35.879 --> 00:40:39.080
+fit that model. When we think of diabetes, type
+
+628
+00:40:39.080 --> 00:40:41.760
+2 diabetes, there's more than one cause. There's like
+
+629
+00:40:41.760 --> 00:40:45.840
+many factors that come together psychiatric diseases, many of
+
+630
+00:40:45.840 --> 00:40:49.340
+them certainly look much more like the multi-causal model
+
+631
+00:40:49.340 --> 00:40:51.169
+where you have many causes. So one type of
+
+632
+00:40:51.169 --> 00:40:55.360
+causal complexity is multicausality, but there's a different type
+
+633
+00:40:55.360 --> 00:40:59.510
+that is a little harder to distinguish from that,
+
+634
+00:40:59.959 --> 00:41:05.689
+and it's causal heterogeneity. And causal heterogeneity refers to
+
+635
+00:41:05.689 --> 00:41:10.399
+a situation where different patients with the same disease
+
+636
+00:41:11.290 --> 00:41:15.370
+get it as a result of completely different causes
+
+637
+00:41:15.370 --> 00:41:20.929
+or different combinations of causes. So in early work
+
+638
+00:41:20.929 --> 00:41:24.270
+example of this is early work on Parkinson's disease
+
+639
+00:41:24.270 --> 00:41:27.209
+showed that there were different causes that were individually
+
+640
+00:41:27.209 --> 00:41:30.810
+sufficient to produce the same disease. In some cases
+
+641
+00:41:30.810 --> 00:41:33.389
+it was a single gene. In other cases, it
+
+642
+00:41:33.389 --> 00:41:36.229
+was a single environmental factor. There were toxins that
+
+643
+00:41:36.229 --> 00:41:39.350
+could actually produce this, these Parkinsonian features, and in
+
+644
+00:41:39.350 --> 00:41:43.429
+other cases they are combinations of lower level genes
+
+645
+00:41:43.429 --> 00:41:47.219
+and environmental factors. So, That's a different kind of
+
+646
+00:41:47.219 --> 00:41:52.629
+model because basically, It's causally heterogeneous in the sense
+
+647
+00:41:52.629 --> 00:41:56.580
+that there are heterogeneous or different causes or combinations
+
+648
+00:41:56.909 --> 00:41:59.750
+that are individually sufficient to produce the exact same
+
+649
+00:41:59.750 --> 00:42:03.590
+disease. What's interesting about that second type. I it
+
+650
+00:42:03.590 --> 00:42:07.300
+makes it a lot harder to identify the causes
+
+651
+00:42:07.750 --> 00:42:09.870
+of a disease in the first place, because when
+
+652
+00:42:09.870 --> 00:42:13.870
+you group together patients with the disease presentation and
+
+653
+00:42:13.870 --> 00:42:16.260
+then you search for what they have in common,
+
+654
+00:42:16.669 --> 00:42:20.580
+they don't need to have the causal. The causal
+
+655
+00:42:20.580 --> 00:42:23.939
+process in common because they could have different causal
+
+656
+00:42:23.939 --> 00:42:27.300
+processes that produce the same outcome. So it's actually
+
+657
+00:42:27.300 --> 00:42:32.050
+a lot harder to identify causes in that situation
+
+658
+00:42:32.659 --> 00:42:36.820
+versus the other because there isn't a shared causal.
+
+659
+00:42:37.479 --> 00:42:40.830
+The story that all the patients have in the
+
+660
+00:42:40.830 --> 00:42:44.270
+causal heterogeneity case. And what's interesting is that in
+
+661
+00:42:44.270 --> 00:42:49.070
+medicine, medical researchers don't like causal heterogeneity and when
+
+662
+00:42:49.070 --> 00:42:52.870
+that was discovered with Parkinson's disease, they suggested, you
+
+663
+00:42:52.870 --> 00:42:55.159
+know, these are different diseases we should divide them
+
+664
+00:42:55.159 --> 00:42:59.709
+up based on the different causes that are individually
+
+665
+00:42:59.709 --> 00:43:02.870
+sufficient to produce it. So there's often an expectation
+
+666
+00:43:02.870 --> 00:43:06.229
+in medicine that if you have a disease category.
+
+667
+00:43:06.909 --> 00:43:10.439
+You don't have causal heterogeneity within it. You have
+
+668
+00:43:10.439 --> 00:43:13.600
+causal homogeneity or all the patients should have some
+
+669
+00:43:13.600 --> 00:43:18.879
+shared causal process that produces the disease. And so
+
+670
+00:43:18.879 --> 00:43:23.810
+there's there's more to say about how multi-causality and
+
+671
+00:43:23.810 --> 00:43:29.909
+causal heterogeneity are kind of related, but Causal heterogeneity
+
+672
+00:43:29.909 --> 00:43:32.629
+is a little bit more population level. You're looking
+
+673
+00:43:32.629 --> 00:43:37.110
+at different patients with the same effect. Multi-causality, you
+
+674
+00:43:37.110 --> 00:43:40.389
+know, it's, you're just in one case there's many
+
+675
+00:43:40.389 --> 00:43:44.350
+causes. It's another question whether across all of the
+
+676
+00:43:44.350 --> 00:43:46.969
+cases it's the same set, but those are two
+
+677
+00:43:46.969 --> 00:43:52.469
+types of causal complexity that show up in psychiatric
+
+678
+00:43:52.469 --> 00:43:53.229
+contexts.
+
+679
+00:43:54.479 --> 00:43:56.899
+So, I have one last topic that I would
+
+680
+00:43:56.899 --> 00:44:00.340
+like to ask you about. Uh, ARE there issues
+
+681
+00:44:00.340 --> 00:44:05.739
+with how scientists and science communicators talk about causality
+
+682
+00:44:05.739 --> 00:44:09.270
+when they present their work to the general public?
+
+683
+00:44:10.540 --> 00:44:15.820
+Talking about causation to the general public is challenging.
+
+684
+00:44:16.020 --> 00:44:21.219
+Talking about causation to scientists is challenging for all
+
+685
+00:44:21.219 --> 00:44:27.969
+sorts of reasons. And um. And that has to
+
+686
+00:44:27.969 --> 00:44:30.649
+happen before scientists can talk about their work to
+
+687
+00:44:30.649 --> 00:44:33.840
+the public, I think, right? If we're not clear
+
+688
+00:44:33.840 --> 00:44:37.250
+on what we mean by causation in science, or
+
+689
+00:44:37.250 --> 00:44:41.909
+what we mean by something like Causally deterministic or
+
+690
+00:44:41.909 --> 00:44:47.469
+mechanism or sufficient causes if we don't have a
+
+691
+00:44:47.469 --> 00:44:51.830
+clear understanding of what's meant by those causal terms
+
+692
+00:44:51.830 --> 00:44:55.270
+or if they're used in different ways, then it's
+
+693
+00:44:55.270 --> 00:44:59.610
+really hard to bring them to the public. And
+
+694
+00:45:00.719 --> 00:45:03.729
+Um, part of what I find is that there
+
+695
+00:45:03.729 --> 00:45:06.969
+is a lot of really helpful clarity that can
+
+696
+00:45:06.969 --> 00:45:10.110
+be provided when you bring philosophy and science together.
+
+697
+00:45:10.870 --> 00:45:14.659
+And when we use these kind of clear frameworks
+
+698
+00:45:14.659 --> 00:45:17.899
+for causation in philosophy to see what matters to
+
+699
+00:45:17.899 --> 00:45:20.939
+scientists and what they're referring to, sometimes what I
+
+700
+00:45:20.939 --> 00:45:23.939
+find is that scientists have causal standards that are
+
+701
+00:45:23.939 --> 00:45:28.899
+too high. And they wouldn't, they'll say them, but
+
+702
+00:45:28.899 --> 00:45:33.100
+they, they'll backtrack maybe later. For example, they'll sometimes
+
+703
+00:45:33.100 --> 00:45:36.860
+say that they expect causes should always produce their
+
+704
+00:45:36.860 --> 00:45:40.370
+effects. That's a standard that seems way too high.
+
+705
+00:45:40.659 --> 00:45:43.939
+If that's our standard, then almost nothing counts as
+
+706
+00:45:43.939 --> 00:45:46.179
+causal, and then we can't say, you know, smoking
+
+707
+00:45:46.179 --> 00:45:48.540
+is a cause of lung cancer, which most of
+
+708
+00:45:48.540 --> 00:45:50.659
+us would agree with. So sometimes the standards that
+
+709
+00:45:50.659 --> 00:45:53.580
+are suggested are too high. And in other cases
+
+710
+00:45:53.580 --> 00:45:58.500
+they're too low. Sometimes necessity is confused with causality
+
+711
+00:45:58.500 --> 00:46:01.860
+where something is necessary in a context, but that
+
+712
+00:46:01.860 --> 00:46:04.860
+alone doesn't mean that it's causal for an outcome
+
+713
+00:46:04.860 --> 00:46:07.340
+or an important cause. So there the standards are
+
+714
+00:46:07.340 --> 00:46:10.850
+sort of too low. So part of what we
+
+715
+00:46:10.850 --> 00:46:18.669
+need. In my view, is communication among scientists and
+
+716
+00:46:18.949 --> 00:46:22.429
+maybe philosophers of science, theoreticians who are interested in
+
+717
+00:46:22.429 --> 00:46:27.310
+science, where scientists can sit down and say, what
+
+718
+00:46:27.310 --> 00:46:30.979
+are the causal standards in their field. Um, IT'S,
+
+719
+00:46:31.060 --> 00:46:33.820
+it's very clear that they care about causality. They
+
+720
+00:46:33.820 --> 00:46:37.060
+want to identify it. They talk about identifying causal
+
+721
+00:46:37.060 --> 00:46:40.219
+structure in all of these domains. Causation is very
+
+722
+00:46:40.219 --> 00:46:45.379
+important, right? It supports explanations. It supports identifying what's
+
+723
+00:46:45.379 --> 00:46:49.780
+responsible for an outcome. It supports interventions that change
+
+724
+00:46:49.780 --> 00:46:55.139
+things, make things better, treat, treat diseases. Um, SO
+
+725
+00:46:55.139 --> 00:46:58.250
+it's very important, but getting clear on the kind
+
+726
+00:46:58.250 --> 00:47:02.929
+of causation that we need, that's where the harder
+
+727
+00:47:02.929 --> 00:47:08.260
+work, but you know, tractable questions arise. So, so
+
+728
+00:47:08.260 --> 00:47:12.260
+first I think getting clear on the scientific standards
+
+729
+00:47:12.260 --> 00:47:15.760
+is helpful, and then In communicating to the public
+
+730
+00:47:15.760 --> 00:47:18.870
+or any audience, I think it's always important to
+
+731
+00:47:18.870 --> 00:47:21.840
+think of who the audience is, who they are.
+
+732
+00:47:22.679 --> 00:47:31.080
+And Causation is notoriously difficult to discuss with Um,
+
+733
+00:47:31.320 --> 00:47:33.520
+well, it's a, it's a, it's a topic that
+
+734
+00:47:33.520 --> 00:47:38.860
+sounds very abstract. So, and when someone is used
+
+735
+00:47:38.860 --> 00:47:42.419
+to academic contexts, both in science or philosophy, there's
+
+736
+00:47:42.419 --> 00:47:44.729
+almost a little bit of a hindrance here because
+
+737
+00:47:45.679 --> 00:47:48.560
+You know all of these distinctions, and you might
+
+738
+00:47:48.560 --> 00:47:52.600
+forget what your audience is aware of as their
+
+739
+00:47:52.600 --> 00:47:57.270
+kind of background. Um, SO I think. Knowing your
+
+740
+00:47:57.270 --> 00:48:04.939
+audience, Knowing their basic. Um, WHAT they associate the
+
+741
+00:48:04.939 --> 00:48:07.500
+topic with, what, what is causation for them? What
+
+742
+00:48:07.500 --> 00:48:10.500
+have they heard about it? They've probably heard correlation
+
+743
+00:48:10.500 --> 00:48:12.699
+isn't causation, so that might be a helpful place
+
+744
+00:48:12.699 --> 00:48:17.500
+to start. And of course, you know, there's a
+
+745
+00:48:17.500 --> 00:48:20.199
+lot of jargon in science and philosophy that you
+
+746
+00:48:20.199 --> 00:48:23.060
+just shouldn't use, but it's a, it's a really
+
+747
+00:48:23.060 --> 00:48:26.340
+important task to work on because I think it
+
+748
+00:48:26.340 --> 00:48:31.419
+actually helps academics clarify what matters about their work
+
+749
+00:48:31.419 --> 00:48:33.260
+because that's what you have to partly tell the
+
+750
+00:48:33.260 --> 00:48:36.659
+public and the justification for it. Philosophers are very
+
+751
+00:48:36.659 --> 00:48:38.179
+focused on that, so I think they can be
+
+752
+00:48:38.179 --> 00:48:41.209
+useful to scientists here. I'm used to being able
+
+753
+00:48:41.209 --> 00:48:44.370
+and needing to say. How does this kind of
+
+754
+00:48:44.370 --> 00:48:47.929
+science give us understanding of the world? What justifies
+
+755
+00:48:47.929 --> 00:48:53.020
+it? What are the assumptions involved? But clear communication
+
+756
+00:48:53.020 --> 00:48:59.300
+here involves some somewhat basic things, which is. Uh,
+
+757
+00:48:59.600 --> 00:49:03.959
+ATTENTION to the words you use, very precise, clear
+
+758
+00:49:03.959 --> 00:49:09.080
+definitions of them, and probably, uh, right, and the
+
+759
+00:49:09.080 --> 00:49:12.000
+audience, right, who the audience is, and then also
+
+760
+00:49:12.000 --> 00:49:14.800
+probably just fewer messages or what are the main
+
+761
+00:49:14.800 --> 00:49:20.030
+messages that You think it's important to start with.
+
+762
+00:49:20.810 --> 00:49:25.780
+And There's uh many great topics to do this
+
+763
+00:49:25.780 --> 00:49:29.229
+with, but causation is a really important one because
+
+764
+00:49:29.229 --> 00:49:33.419
+it's so central to science. Um, THERE'S a lot
+
+765
+00:49:33.419 --> 00:49:39.310
+of. Scientists using causal terminology and methods to study
+
+766
+00:49:39.310 --> 00:49:43.260
+causation and so. Um THERE'S a lot of potential
+
+767
+00:49:43.260 --> 00:49:46.580
+to clarify these different types of causes and distinctions
+
+768
+00:49:46.580 --> 00:49:50.580
+with the causation that matter. Um, AND there's a
+
+769
+00:49:50.580 --> 00:49:54.459
+lot of important work to do here, and certainly
+
+770
+00:49:54.459 --> 00:49:56.929
+more of it as more of it as well.
+
+771
+00:49:58.429 --> 00:50:01.429
+Great. So, Doctor Ross, just before we go, would
+
+772
+00:50:01.429 --> 00:50:03.959
+you like to let people know where they can
+
+773
+00:50:03.959 --> 00:50:06.189
+find you and your work on the internet?
+
+774
+00:50:07.260 --> 00:50:13.090
+Absolutely. I'm pretty easy to find with a basic
+
+775
+00:50:13.090 --> 00:50:17.500
+Google search of Lauren Ross philosophy or philosophy of
+
+776
+00:50:17.500 --> 00:50:23.820
+science. My webpage has a good amount of information
+
+777
+00:50:23.820 --> 00:50:27.939
+about papers on the topics that we discussed today
+
+778
+00:50:27.939 --> 00:50:32.669
+and many other topics. And um that's also a
+
+779
+00:50:32.669 --> 00:50:36.979
+place where you can find various social media accounts
+
+780
+00:50:37.429 --> 00:50:41.209
+and um and various talks that are happening.
+
+781
+00:50:42.360 --> 00:50:44.770
+Great. So thank you so much for coming on
+
+782
+00:50:44.770 --> 00:50:47.090
+the show. It's been a real pleasure to talk
+
+783
+00:50:47.090 --> 00:50:47.600
+with you.
+
+784
+00:50:48.010 --> 00:50:49.770
+Uh, PLEASURE has been all mine. Thank you.
+
+785
+00:50:51.030 --> 00:50:53.550
+Hi guys, thank you for watching this interview until
+
+786
+00:50:53.550 --> 00:50:55.689
+the end. If you liked it, please share it,
+
+787
+00:50:55.870 --> 00:50:58.659
+leave a like and hit the subscription button. The
+
+788
+00:50:58.659 --> 00:51:00.860
+show is brought to you by Nights Learning and
+
+789
+00:51:00.860 --> 00:51:04.939
+Development done differently, check their website at Nights.com and
+
+790
+00:51:04.939 --> 00:51:08.659
+also please consider supporting the show on Patreon or
+
+791
+00:51:08.659 --> 00:51:11.139
+PayPal. I would also like to give a huge
+
+792
+00:51:11.139 --> 00:51:14.570
+thank you to my main patrons and PayPal supporters
+
+793
+00:51:14.570 --> 00:51:18.500
+Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf,
+
+794
+00:51:18.580 --> 00:51:21.820
+Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis,
+
+795
+00:51:21.959 --> 00:51:25.250
+Erika Lenny, John Connors, Philip Fors Connolly. Then the
+
+796
+00:51:25.250 --> 00:51:29.050
+Matri Robert Windegaruyasi Zup Mark Nes called in Holbrookfield
+
+797
+00:51:29.050 --> 00:51:33.840
+governor, Michael Stormir Samuel Andrea, Francis Forti Agnsergoro and
+
+798
+00:51:33.840 --> 00:51:37.290
+Hal Herzognun Macha Jonathan Labrant John Jasent and the
+
+799
+00:51:37.290 --> 00:51:41.409
+Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus
+
+800
+00:51:41.409 --> 00:51:45.010
+Fran David Sloan Wilson, Asila dearraujoro and Roach Diego
+
+801
+00:51:45.010 --> 00:51:49.959
+Londono Correa. Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn
+
+802
+00:51:49.959 --> 00:51:55.879
+Pavlostaevskynalebaa medicine, Gary Galman Samov Zaledrianei Poltonin John Barboza,
+
+803
+00:51:55.919 --> 00:52:00.439
+Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franca
+
+804
+00:52:00.439 --> 00:52:05.439
+Bartolotti Gabrielon Scorteus Slelitsky, Scott Zachary Fish Tim Duffyani
+
+805
+00:52:05.439 --> 00:52:10.080
+Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau,
+
+806
+00:52:10.280 --> 00:52:14.840
+Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David
+
+807
+00:52:14.840 --> 00:52:18.969
+Williams, the Acosta, Anton Eriksson, Charles Murray, Alex Shaw,
+
+808
+00:52:19.169 --> 00:52:23.360
+Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee
+
+809
+00:52:23.360 --> 00:52:28.229
+Junior, Old Heringbo. Sterry Michael Bailey, then Sperber, Robert
+
+810
+00:52:28.229 --> 00:52:32.870
+Grassy Zigoren, Jeff McMahon, Jake Zu, Barnabas radix, Mark
+
+811
+00:52:32.870 --> 00:52:36.939
+Campbell, Thomas Dovner, Luke Neeson, Chris Stor, Kimberly Johnson,
+
+812
+00:52:37.189 --> 00:52:41.780
+Benjamin Galbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael
+
+813
+00:52:41.780 --> 00:52:47.290
+Bensleyman. George Eoriatis, Valentin Steinman, Perrolis, Kate van Goller,
+
+814
+00:52:47.510 --> 00:52:54.709
+Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular
+
+815
+00:52:54.709 --> 00:52:59.479
+John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean
+
+816
+00:52:59.479 --> 00:53:03.649
+Nelson, Mike Levin, and Jos Net. A special thanks
+
+817
+00:53:03.649 --> 00:53:06.199
+to my producers. These are Webb, Jim, Frank Lucas
+
+818
+00:53:06.199 --> 00:53:10.719
+Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas
+
+819
+00:53:10.719 --> 00:53:14.449
+Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni
+
+820
+00:53:14.449 --> 00:53:17.649
+Cortiz and Nick Golden, and to my executive producers
+
+821
+00:53:17.649 --> 00:53:21.370
+Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank
+
+822
+00:53:21.370 --> 00:53:22.040
+you for all.
+

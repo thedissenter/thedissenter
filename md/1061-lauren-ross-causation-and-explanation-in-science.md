@@ -5,13 +5,16 @@
 	"episodeid": "1061",
 	"excerpt": "Dr. Lauren N. Ross is an Associate Professor in the Logic and Philosophy of Science Department at the University of California, Irvine. Her research concerns explanation and causation in biology, neuroscience, and medicine. This work involves interrelated projects that address: the nature of explanation in these sciences, different causal structures and explanation types, and the rationale that guides particular forms of causal reasoning in these domains.",
 	"image": "https://i.ytimg.com/vi/sbY40h-1gKY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1061-lauren-ross-causation-and-explanation-in-science/id1451347236?i=1000694459298&uo=4",
 	"publishDate": 2025-02-20,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1061-Lauren-Ross-Causation-and-Explanation-in-Science-e2rssup",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1061 Lauren Ross: Causation and Explanation in Science",
-	"youtubeid": "sbY40h-1gKY"
+	"vtt": "1061.vtt",
+	"youtubeid": "sbY40h-1gKY",
+	"transcript": "1061.lines.json"
 }
 ---
 RECORDED ON DECEMBER 4th 2024.  
