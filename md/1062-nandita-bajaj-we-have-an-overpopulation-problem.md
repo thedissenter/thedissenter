@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/95418885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-5%2Ff0fccb67-8019-05e1-e2f7-8fb785f10b95.m4a",
 	"draft": false,
 	"episodeid": "1062",
 	"excerpt": "Nandita Bajaj is the Executive Director of Population Balance, a US nonprofit that works to inspire narrative, behavioral, and system change that shrinks our human impact and elevates the rights and wellbeing of people, animals, and the planet. She also co-hosts The Overpopulation Podcast, a popular series that delves into the nuances of the drivers and impacts of human expansionism with expert guests.",
 	"image": "https://i.ytimg.com/vi/1L-fRXip3Io/maxresdefault.jpg",
 	"publishDate": 2025-02-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1062-Nandita-Bajaj-We-Have-an-Overpopulation-Problem-e2ruf25",
 	"tags": [
 		"General Science"
 	],
