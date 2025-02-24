@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1063 Menelaos Apostolou: The Evolution of Singlehood",
-	"youtubeid": "CS7UOA0wtsQ"
+	"vtt": "1063.vtt",
+	"youtubeid": "CS7UOA0wtsQ",
+	"transcript": "1063.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 5th 2024.  
