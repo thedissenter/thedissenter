@@ -5,13 +5,16 @@
 	"episodeid": "1064",
 	"excerpt": "Dr. Costica Bradatan is a Professor of Humanities in the Honors College at Texas Tech University, USA, and an Honorary Research Professor of Philosophy at University of Queensland, Australia. Dr. Bradatan is the author and editor of more than a dozen books, among which In Praise of Failure: Four Lessons in Humility (2023). He is currently at work on two new book projects: Against Conformity and The Prince and the Hermit. He is the Philosophy/Religion Editor for the Los Angeles Review of Books, and the founding editor of two book series: “Philosophical Filmmakers” (Bloomsbury) and “No Limits” (Columbia University Press).",
 	"image": "https://i.ytimg.com/vi/dHLTu8vJ-0A/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1064-costica-bradatan-in-praise-of-failure-four/id1451347236?i=1000696613962&uo=4",
 	"publishDate": 2025-02-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1064-Costica-Bradatan---In-Praise-of-Failure-Four-Lessons-in-Humility-e2sd4mn",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1064 Costica Bradatan - In Praise of Failure: Four Lessons in Humility",
-	"youtubeid": "dHLTu8vJ-0A"
+	"vtt": "1064.vtt",
+	"youtubeid": "dHLTu8vJ-0A",
+	"transcript": "1064.lines.json"
 }
 ---
 RECORDED ON DECEMBER 16th 2024.  
