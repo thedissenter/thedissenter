@@ -1,0 +1,4198 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:02.950
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:02.950 --> 00:00:05.679
+Dissenter. I'm your host, as always, Ricardo Lopez, and
+
+3
+00:00:05.679 --> 00:00:08.319
+today I'm joined by a return guest, Doctor Daniel
+
+4
+00:00:08.319 --> 00:00:10.989
+Williams. He's a lecturer in philosophy at the University
+
+5
+00:00:10.989 --> 00:00:13.750
+of Sussex. And today we're going to talk about
+
+6
+00:00:13.750 --> 00:00:17.725
+the science of misinformation specifically. We're going to talk
+
+7
+00:00:17.725 --> 00:00:21.774
+about some criticisms that that Doctor Williams says of
+
+8
+00:00:21.774 --> 00:00:25.684
+the science of misinformation and how it's conducted based
+
+9
+00:00:25.684 --> 00:00:29.645
+on some of his substack posts. So, Doctor Williams,
+
+10
+00:00:29.694 --> 00:00:31.645
+welcome back to the show. It's always a pleasure
+
+11
+00:00:31.645 --> 00:00:32.244
+to everyone.
+
+12
+00:00:32.685 --> 00:00:33.694
+Thanks for the invitation.
+
+13
+00:00:35.119 --> 00:00:38.580
+So perhaps let's start with the definition just for
+
+14
+00:00:38.580 --> 00:00:41.380
+people to understand what we're talking about here. So,
+
+15
+00:00:41.819 --> 00:00:45.169
+um, when you tackle the science of misinformation, what
+
+16
+00:00:45.169 --> 00:00:48.619
+are you referring to exactly? What, what is the
+
+17
+00:00:48.619 --> 00:00:50.310
+science of misinformation?
+
+18
+00:00:51.150 --> 00:00:53.700
+It's difficult to be too exact, is what I'd
+
+19
+00:00:53.700 --> 00:00:57.979
+say. Um, OF course, if you understand misinformation extremely
+
+20
+00:00:57.979 --> 00:01:03.299
+broadly as any factors responsible for distorting human judgment
+
+21
+00:01:03.299 --> 00:01:07.150
+or leading individuals to form misperceptions, and if you
+
+22
+00:01:07.150 --> 00:01:11.750
+understand science extremely broadly as. Any systematic investigation of
+
+23
+00:01:11.750 --> 00:01:15.550
+a phenomenon, you could say misinformation studies goes back
+
+24
+00:01:15.550 --> 00:01:17.910
+thousands of years. You can think of Plato and
+
+25
+00:01:17.910 --> 00:01:20.599
+Aristotle as engaged in a certain kind of research
+
+26
+00:01:20.599 --> 00:01:22.949
+into misinformation. You could also think of all of
+
+27
+00:01:22.949 --> 00:01:26.300
+the great sort of social theorists, so Marx, Weber,
+
+28
+00:01:26.470 --> 00:01:29.910
+Durkheim, and so on, as interested in the science
+
+29
+00:01:29.910 --> 00:01:33.190
+of misinformation in some sense. And of course, the
+
+30
+00:01:33.190 --> 00:01:36.529
+emergence of social psychology in the 20th century. The,
+
+31
+00:01:36.589 --> 00:01:39.830
+the, the mid-twentieth century, research on things like stereotypes,
+
+32
+00:01:39.989 --> 00:01:44.349
+on prejudice, on the way that social identification bias
+
+33
+00:01:44.349 --> 00:01:47.860
+is judgment, etc. ETC. ALL of these projects in
+
+34
+00:01:47.860 --> 00:01:51.669
+some way are concerned with understanding misinformation in a
+
+35
+00:01:51.669 --> 00:01:55.629
+sort of systematic manner. But when I'm focusing on
+
+36
+00:01:55.629 --> 00:01:58.709
+misinformation studies in most of my writings on this
+
+37
+00:01:58.709 --> 00:02:01.819
+topic, I'm really focusing on something which is much
+
+38
+00:02:01.819 --> 00:02:05.309
+narrower than that. And it's a sort of multidisciplinary
+
+39
+00:02:05.309 --> 00:02:09.389
+body of scientific research that really rose to prominence
+
+40
+00:02:09.710 --> 00:02:12.990
+round about 2016, and we can maybe return to
+
+41
+00:02:12.990 --> 00:02:15.869
+why that was a sort of important year. And
+
+42
+00:02:15.869 --> 00:02:21.320
+it's concerned with establishing scientific generalizations, often sort of
+
+43
+00:02:21.320 --> 00:02:26.630
+sweeping scientific generalizations about misinformation as a construct. So
+
+44
+00:02:26.630 --> 00:02:30.139
+that includes things like estimating the prevalence of misinformation,
+
+45
+00:02:30.309 --> 00:02:34.029
+often to sort of several decimal places. Um, ESTIMATING
+
+46
+00:02:34.029 --> 00:02:37.600
+the, the quote unquote fingerprints of misinformation, the idea
+
+47
+00:02:37.600 --> 00:02:41.520
+that misinformation is associated with the use of emotional
+
+48
+00:02:41.520 --> 00:02:45.919
+language, um, estimating which parts of the political spectrum
+
+49
+00:02:45.919 --> 00:02:50.919
+misinformation is more prevalent within, different groups, susceptibility to
+
+50
+00:02:50.919 --> 00:02:54.919
+misinformation, and also the sort of impact of interventions
+
+51
+00:02:54.919 --> 00:02:59.880
+against misinformation. So these sort of broad, relatively sweeping
+
+52
+00:02:59.880 --> 00:03:05.399
+generalizations about misinformation. Um, AND as a, a project,
+
+53
+00:03:05.490 --> 00:03:09.289
+although that didn't start in 2016, it really, I
+
+54
+00:03:09.289 --> 00:03:12.660
+think, rose to prominence in 2016. And I think
+
+55
+00:03:12.660 --> 00:03:14.690
+many of the sort of pro problems and pitfalls
+
+56
+00:03:14.690 --> 00:03:16.919
+of the discipline, as I see it, is to
+
+57
+00:03:16.919 --> 00:03:21.039
+some significant degree, a sort of post 2016 phenomenon.
+
+58
+00:03:21.250 --> 00:03:22.929
+But it is really important just to add another
+
+59
+00:03:22.929 --> 00:03:25.490
+bit of context, which is that. You know, like
+
+60
+00:03:25.490 --> 00:03:29.770
+any body of research, misinformation research is incredibly complex
+
+61
+00:03:29.770 --> 00:03:33.059
+and diverse, and there's lots of variation in the
+
+62
+00:03:33.059 --> 00:03:35.570
+sort of quality and sophistication of research within it.
+
+63
+00:03:35.809 --> 00:03:38.380
+So probably in the course of our conversation, I'll
+
+64
+00:03:38.380 --> 00:03:40.740
+cite some research within that field that I think
+
+65
+00:03:40.740 --> 00:03:42.809
+is really kind of excellent and and high quality.
+
+66
+00:03:43.339 --> 00:03:45.059
+At the same time, I also think there's some
+
+67
+00:03:45.059 --> 00:03:47.889
+research which sort of lacks those intellectual virtues as
+
+68
+00:03:47.889 --> 00:03:50.820
+well. So, you know, I don't want to generalize
+
+69
+00:03:50.820 --> 00:03:54.250
+too much. Often when I talk about misinformation research.
+
+70
+00:03:54.759 --> 00:03:56.619
+It would be impossible for me to claim that
+
+71
+00:03:56.619 --> 00:03:59.419
+the, the characterizations that I'm making apply to every
+
+72
+00:03:59.419 --> 00:04:01.979
+single study within the field. But I do think
+
+73
+00:04:01.979 --> 00:04:04.660
+as well there are some sort of foundational conceptual,
+
+74
+00:04:04.740 --> 00:04:08.660
+methodological, philosophical questions, like, for example, what even is
+
+75
+00:04:08.660 --> 00:04:10.580
+misinformation, like what are we talking about when it
+
+76
+00:04:10.580 --> 00:04:14.699
+comes to that concept that arise as an issue
+
+77
+00:04:14.699 --> 00:04:17.700
+for most of the, the, the research that occurs
+
+78
+00:04:17.700 --> 00:04:18.410
+within that field.
+
+79
+00:04:19.440 --> 00:04:22.220
+So tell us then about 2016. Why was it
+
+80
+00:04:22.220 --> 00:04:26.470
+that in 2016 was the year when the misinformation
+
+81
+00:04:26.470 --> 00:04:30.369
+studies you focus mostly on uh rose?
+
+82
+00:04:31.359 --> 00:04:33.829
+I think there were two big events in 2016
+
+83
+00:04:34.480 --> 00:04:38.119
+that took many people, especially sort of the expert
+
+84
+00:04:38.119 --> 00:04:41.850
+class, you know, commentators and and pundits and journalists
+
+85
+00:04:41.850 --> 00:04:45.109
+and social scientists by surprise. One of these was
+
+86
+00:04:45.109 --> 00:04:47.359
+the United Kingdom's vote to, to leave the European
+
+87
+00:04:47.359 --> 00:04:51.440
+Union, um, Brexit, and the other was the election
+
+88
+00:04:51.440 --> 00:04:53.200
+of Donald Trump in the United States, or the
+
+89
+00:04:53.200 --> 00:04:55.390
+first election of Donald Trump in the United States.
+
+90
+00:04:56.070 --> 00:04:59.619
+Events which were sort of viewed as indicative of
+
+91
+00:04:59.910 --> 00:05:03.190
+this more general sort of populist backlash throughout many
+
+92
+00:05:03.190 --> 00:05:06.420
+parts of the world. This sort of angry rejection
+
+93
+00:05:06.420 --> 00:05:10.880
+of quote unquote elites and quote unquote, the establishment,
+
+94
+00:05:11.190 --> 00:05:13.140
+where that, at least in the case of many
+
+95
+00:05:13.140 --> 00:05:15.429
+of these movements, includes what you might think of
+
+96
+00:05:15.429 --> 00:05:18.869
+as sort of epistemic elites. So social scientists, members
+
+97
+00:05:18.869 --> 00:05:23.220
+of public health authorities, um, individuals within mainstream media,
+
+98
+00:05:23.390 --> 00:05:26.200
+and so on and so forth. And part of
+
+99
+00:05:26.200 --> 00:05:30.440
+the reason why misinformation as a phenomenon becomes such
+
+100
+00:05:30.440 --> 00:05:34.760
+an intense sort of um topic of, of focus
+
+101
+00:05:34.760 --> 00:05:38.040
+during that time is because these movements are viewed
+
+102
+00:05:38.040 --> 00:05:41.440
+by many as being associated with a, a large
+
+103
+00:05:41.440 --> 00:05:44.470
+amount of false and misleading content. But also there's
+
+104
+00:05:44.470 --> 00:05:46.950
+this kind of narrative that emerges in the aftermath
+
+105
+00:05:46.950 --> 00:05:49.910
+of these events and this sort of broader populist
+
+106
+00:05:49.910 --> 00:05:53.750
+backlash that they're indicative of, which is that they're
+
+107
+00:05:53.750 --> 00:05:57.190
+driven by, they're in some sense rooted in a
+
+108
+00:05:57.190 --> 00:06:01.390
+recent explosion of kind of false and misleading information,
+
+109
+00:06:01.549 --> 00:06:05.470
+which is manipulating a sort of half gullible, half
+
+110
+00:06:05.470 --> 00:06:10.619
+deplorable public. And this comes from. Algorithmic manipulation, it
+
+111
+00:06:10.619 --> 00:06:14.260
+comes from, according to this narrative, you know, foreign
+
+112
+00:06:14.260 --> 00:06:17.230
+influence campaigns from Russia, but also from sort of
+
+113
+00:06:17.230 --> 00:06:21.100
+domestic demagogues. And that's why, according to this narrative,
+
+114
+00:06:21.220 --> 00:06:23.179
+there's been this sort of increase in support for
+
+115
+00:06:23.179 --> 00:06:25.459
+these movements, which many people within what you might
+
+116
+00:06:25.459 --> 00:06:28.369
+think of broadly as, again, quote unquote, the establishment,
+
+117
+00:06:28.540 --> 00:06:31.049
+which many people within that area sort of rejected
+
+118
+00:06:31.049 --> 00:06:34.750
+and felt, felt surprised by. Um, um, SO you've
+
+119
+00:06:34.750 --> 00:06:38.380
+got that kind of narrative frame, which is that
+
+120
+00:06:38.709 --> 00:06:42.619
+a driving force behind these movements is misinformation, and
+
+121
+00:06:42.750 --> 00:06:46.459
+that's found among, you know, members of government, intergovernmental
+
+122
+00:06:46.459 --> 00:06:50.109
+organizations, among social scientists, among journalists, and also among
+
+123
+00:06:50.109 --> 00:06:52.190
+members of the general public. So if you look
+
+124
+00:06:52.190 --> 00:06:53.950
+at survey data over the past sort of 8
+
+125
+00:06:53.950 --> 00:06:57.149
+years or so, um, many, many people are incredibly
+
+126
+00:06:57.149 --> 00:07:00.190
+worried about misinformation, and many ordinary citizens also view
+
+127
+00:07:00.190 --> 00:07:03.980
+misinformation as this sort of great societal threat. And
+
+128
+00:07:03.980 --> 00:07:06.640
+then that then leads to uh uh uh uh
+
+129
+00:07:06.640 --> 00:07:11.179
+an intensification of research on misinformation within the social
+
+130
+00:07:11.179 --> 00:07:14.690
+sciences. And all of that then increases dramatically once
+
+131
+00:07:14.690 --> 00:07:19.000
+you get to 2019, 2020, and the COVID-19 pandemic,
+
+132
+00:07:19.369 --> 00:07:22.529
+where again you get this kind of framework, which
+
+133
+00:07:22.529 --> 00:07:25.739
+many people find attractive for understanding why it is
+
+134
+00:07:25.739 --> 00:07:30.160
+that people reject public health advice and reject expert
+
+135
+00:07:30.160 --> 00:07:33.359
+judgments during the pandemic, which is that it's rooted
+
+136
+00:07:33.359 --> 00:07:37.440
+in, it's driven by misinformation. So famously in 2020,
+
+137
+00:07:37.609 --> 00:07:40.570
+you've got the World Health Organization. That declares, like
+
+138
+00:07:40.570 --> 00:07:43.959
+amidst the COVID-19 pandemic, that there's also this worldwide
+
+139
+00:07:43.959 --> 00:07:46.799
+infodemic, which is characterized by this kind of explosion
+
+140
+00:07:46.799 --> 00:07:50.250
+of false and misleading information. And again, this, this,
+
+141
+00:07:50.359 --> 00:07:54.260
+this fuels this kind of intensification of, of research
+
+142
+00:07:54.260 --> 00:07:57.079
+by social scientists and experts across lots of different
+
+143
+00:07:57.079 --> 00:08:00.290
+fields, trying to get a kind of scientific purchase
+
+144
+00:08:00.290 --> 00:08:03.049
+on this problem, which is viewed as a sort
+
+145
+00:08:03.049 --> 00:08:06.329
+of great societal danger. And again, I wanna sort
+
+146
+00:08:06.329 --> 00:08:10.049
+of stress. It's not as if the, the study
+
+147
+00:08:10.049 --> 00:08:13.049
+of misinformation begins in 2016, you know, in a
+
+148
+00:08:13.049 --> 00:08:16.769
+broad sense, there's always been this systematic investigation into
+
+149
+00:08:16.769 --> 00:08:20.089
+the sources of human error and fallibility and even
+
+150
+00:08:20.089 --> 00:08:22.970
+research that explicitly uses terms like misinformation, you know,
+
+151
+00:08:23.049 --> 00:08:27.160
+that predates 2016. But it's very well documented that
+
+152
+00:08:27.160 --> 00:08:31.260
+around 2016, you get this explosion of research, like
+
+153
+00:08:31.260 --> 00:08:34.960
+a dramatic increase in the number of scientific publications
+
+154
+00:08:34.960 --> 00:08:38.558
+with misinformation in the title and the abstract. And
+
+155
+00:08:38.558 --> 00:08:40.960
+a lot of that research that sort of falls
+
+156
+00:08:40.960 --> 00:08:44.760
+within that post 2016 um phenomenon, that's for the
+
+157
+00:08:44.760 --> 00:08:46.799
+most part the sort of target of, of many
+
+158
+00:08:46.799 --> 00:08:47.599
+of my critiques.
+
+159
+00:08:48.539 --> 00:08:51.000
+And what are the main claims made by people
+
+160
+00:08:51.000 --> 00:08:56.070
+who study misinformation when trying to justify the importance
+
+161
+00:08:56.070 --> 00:08:56.789
+of it?
+
+162
+00:08:58.859 --> 00:09:01.260
+I mean, I think the the overarching one is
+
+163
+00:09:01.260 --> 00:09:06.580
+that misinformation is widespread. Um, IT'S incredibly dangerous, so
+
+164
+00:09:06.580 --> 00:09:11.260
+it's viewed as a, a driving force, um, underlying
+
+165
+00:09:11.260 --> 00:09:13.900
+a whole range of things that people are worried
+
+166
+00:09:13.900 --> 00:09:17.419
+about, you know, things like declining trust in institutions,
+
+167
+00:09:17.739 --> 00:09:22.859
+support for, for demagogues, attacks on democratic institutions, um,
+
+168
+00:09:23.539 --> 00:09:27.539
+more generally, kind of anti-science or non-scientific beliefs that
+
+169
+00:09:27.539 --> 00:09:29.859
+you find among members of the general public. So
+
+170
+00:09:29.859 --> 00:09:31.820
+it's viewed as this sort of dangerous force, which
+
+171
+00:09:31.820 --> 00:09:35.099
+is, is shaping many of these um attitudes and
+
+172
+00:09:35.099 --> 00:09:37.619
+behaviors that, that many people are worried about. But
+
+173
+00:09:37.619 --> 00:09:39.500
+at the same time, I also think there's an
+
+174
+00:09:39.500 --> 00:09:43.140
+assumption, sometimes it's implicit, this assumption. Very often actually,
+
+175
+00:09:43.179 --> 00:09:46.059
+it's sort of stated in the opening paragraph of
+
+176
+00:09:46.059 --> 00:09:49.250
+articles within misinformation research, which is that not only
+
+177
+00:09:49.250 --> 00:09:53.679
+is misinformation prevalent and really dangerous, really impactful. But
+
+178
+00:09:53.679 --> 00:09:57.559
+it's also much more dangerous now, or at least
+
+179
+00:09:57.559 --> 00:10:00.440
+much more um um prevalent now than it was
+
+180
+00:10:00.440 --> 00:10:02.119
+in the past. So this is why you often
+
+181
+00:10:02.119 --> 00:10:05.150
+see references to the idea that we're experiencing a
+
+182
+00:10:05.150 --> 00:10:07.320
+crisis of misinformation or we're going through a kind
+
+183
+00:10:07.320 --> 00:10:12.669
+of misinformation age or disinformation age, or post-truth era,
+
+184
+00:10:12.880 --> 00:10:15.559
+or era of conspiracy theories, the age of conspiracy
+
+185
+00:10:15.559 --> 00:10:18.359
+theories and so on. And that's part of what
+
+186
+00:10:18.359 --> 00:10:22.080
+explains, I think, this sort of intensification of research
+
+187
+00:10:22.080 --> 00:10:25.239
+on this focus on misinformation. This idea that not
+
+188
+00:10:25.239 --> 00:10:27.320
+only is it this great societal threat, but in
+
+189
+00:10:27.320 --> 00:10:30.520
+some sense, the, the magnitude and the dangers associated
+
+190
+00:10:30.520 --> 00:10:33.479
+with that threat have increased dramatically recently.
+
+191
+00:10:34.750 --> 00:10:38.890
+But what is misinformation exactly? Is the definition like
+
+192
+00:10:38.890 --> 00:10:42.200
+demonstrably false information good enough?
+
+193
+00:10:43.510 --> 00:10:45.880
+Well, that's the million dollar question, I guess. Um,
+
+194
+00:10:45.989 --> 00:10:48.669
+WHAT is misinformation? And of course it's like a
+
+195
+00:10:48.669 --> 00:10:51.469
+foundational question for a field. If the aim is
+
+196
+00:10:51.469 --> 00:10:55.270
+to establish more scientific generalizations about misinformation, about its
+
+197
+00:10:55.270 --> 00:10:59.469
+characteristics, about its prevalence, about different groups susceptibility to
+
+198
+00:10:59.469 --> 00:11:01.630
+it, you'd better be able to say exactly what
+
+199
+00:11:01.630 --> 00:11:05.359
+misinformation is, how do we define, measure, operationalize the,
+
+200
+00:11:05.429 --> 00:11:08.669
+the, the concept. And what you find is, like
+
+201
+00:11:08.669 --> 00:11:11.669
+this is a buzzword that gets used in lots
+
+202
+00:11:11.669 --> 00:11:14.820
+of different ways, often in confused and inconsistent ways,
+
+203
+00:11:15.250 --> 00:11:17.989
+not just in the sort of popular discourse from
+
+204
+00:11:17.989 --> 00:11:20.789
+journalists and commentators and so on, but also honestly
+
+205
+00:11:20.789 --> 00:11:24.969
+within lots of the scientific research as well. Um,
+
+206
+00:11:25.210 --> 00:11:28.080
+IF you're focusing on something like demonstrably false information,
+
+207
+00:11:28.119 --> 00:11:30.090
+which is a definition you often sort of find
+
+208
+00:11:30.090 --> 00:11:32.770
+within this literature, you'll you'll also find terms like
+
+209
+00:11:32.770 --> 00:11:36.489
+sort of unambiguously false information. Um, THERE are sort
+
+210
+00:11:36.489 --> 00:11:38.109
+of two different ways in which you could look
+
+211
+00:11:38.109 --> 00:11:40.750
+at that kind of definition. The first question you
+
+212
+00:11:40.750 --> 00:11:44.030
+could ask is, does it pick out the appropriate
+
+213
+00:11:44.030 --> 00:11:47.390
+class of information that researchers are interested in? So
+
+214
+00:11:47.390 --> 00:11:50.669
+in other words, is demonstrably false information, is that
+
+215
+00:11:50.669 --> 00:11:53.390
+the kind of information which is leading members of
+
+216
+00:11:53.390 --> 00:11:56.390
+the public to, to embrace misperceptions and make bad
+
+217
+00:11:56.390 --> 00:11:58.830
+decisions and so on and so forth? That's one
+
+218
+00:11:58.830 --> 00:12:01.270
+kind of question, what is misinformation? How should we
+
+219
+00:12:01.270 --> 00:12:03.479
+define the concept? But then there's another kind of
+
+220
+00:12:03.479 --> 00:12:05.609
+question you can ask as well, which is just
+
+221
+00:12:06.159 --> 00:12:09.599
+for any given definition, like for example, demonstrably false
+
+222
+00:12:09.599 --> 00:12:12.609
+information. Is it the case that in applying that
+
+223
+00:12:12.609 --> 00:12:15.929
+definition, in sort of determining which information satisfies that
+
+224
+00:12:15.929 --> 00:12:22.690
+definition, misinformation researchers are in an objective position to
+
+225
+00:12:22.690 --> 00:12:24.130
+apply the concept, that they're going to be able
+
+226
+00:12:24.130 --> 00:12:26.450
+to apply the concept, sort of with a high
+
+227
+00:12:26.450 --> 00:12:31.289
+degree of reliability and impartiality. I think if you
+
+228
+00:12:31.289 --> 00:12:36.080
+focus on a concept like demonstrably false information. There's
+
+229
+00:12:36.080 --> 00:12:40.190
+a question there about um what that even means.
+
+230
+00:12:40.599 --> 00:12:44.080
+Um, GENERALLY the idea is if you're focusing on
+
+231
+00:12:44.080 --> 00:12:47.599
+demonstrably false or unambiguously false information, you're kind of
+
+232
+00:12:47.599 --> 00:12:50.760
+acknowledging that there's lots of disagreement about what's true
+
+233
+00:12:50.760 --> 00:12:53.909
+and false in politics. There's gonna be significant uncertainty,
+
+234
+00:12:54.400 --> 00:12:57.359
+um, misinformation researchers are not claiming to be sort
+
+235
+00:12:57.359 --> 00:13:00.489
+of universal arbiters of truth. But there are some
+
+236
+00:13:00.489 --> 00:13:04.929
+clear cut cases where either news media or a
+
+237
+00:13:04.929 --> 00:13:07.969
+pundit or a commentator makes a claim, engages in
+
+238
+00:13:07.969 --> 00:13:11.250
+a kind of communication, where we can be highly
+
+239
+00:13:11.250 --> 00:13:14.650
+certain that the relevant claim or the relevant contribution
+
+240
+00:13:14.650 --> 00:13:17.609
+to discourse is mistaken. So a sort of canonical
+
+241
+00:13:17.609 --> 00:13:20.000
+example of that kind of information would be something
+
+242
+00:13:20.000 --> 00:13:22.950
+like fake news. Like if a disreputable news outlet
+
+243
+00:13:22.950 --> 00:13:25.289
+just makes something up, you know, the, the, the
+
+244
+00:13:25.289 --> 00:13:29.840
+Pope endorses Donald Trump for president. Classic 2016 viral
+
+245
+00:13:29.840 --> 00:13:33.200
+fake news story. Um, THAT'S a case of sort
+
+246
+00:13:33.200 --> 00:13:36.479
+of demonstrably false information. It's not like that's somebody's
+
+247
+00:13:36.479 --> 00:13:39.880
+opinion, which might be legitimate, it's just mistaken. Or
+
+248
+00:13:39.880 --> 00:13:44.479
+you might think of an opinion which directly contradicts
+
+249
+00:13:44.479 --> 00:13:47.719
+the sort of consensus judgments of experts. So if
+
+250
+00:13:47.719 --> 00:13:51.760
+somebody opines that vaccines cause autism, or they make
+
+251
+00:13:51.760 --> 00:13:54.679
+the claim that um human activity has no impact
+
+252
+00:13:54.679 --> 00:13:58.219
+upon climate change. Um, THOSE sorts of claims are
+
+253
+00:13:58.219 --> 00:14:00.849
+not just taken to be mistaken by some people,
+
+254
+00:14:01.059 --> 00:14:04.299
+they're supposed to be sort of demonstrably false, unambiguously
+
+255
+00:14:04.299 --> 00:14:07.000
+mistaken. Now there are sort of questions you could
+
+256
+00:14:07.000 --> 00:14:10.869
+ask about that, um, as a definition, like who
+
+257
+00:14:10.869 --> 00:14:14.320
+qualifies as an expert? Like what degree of expert
+
+258
+00:14:14.320 --> 00:14:18.119
+consensus is really necessary for, for something to qualify
+
+259
+00:14:18.119 --> 00:14:21.359
+as demonstrably false if it um contradicts that expert
+
+260
+00:14:21.359 --> 00:14:25.630
+consensus. But nevertheless, in terms of achieving a definition
+
+261
+00:14:25.859 --> 00:14:27.799
+where it's kind of plausible that it's gonna be
+
+262
+00:14:27.799 --> 00:14:31.719
+pretty objective, what satisfies that definition, that, that sort
+
+263
+00:14:31.719 --> 00:14:35.229
+of definition does, does quite well. The problem is,
+
+264
+00:14:35.440 --> 00:14:37.719
+it doesn't seem to do very well in terms
+
+265
+00:14:37.719 --> 00:14:42.830
+of identifying the kind of misinformation that misinformation researchers
+
+266
+00:14:42.830 --> 00:14:46.080
+are interested in, insofar as they're interested in the
+
+267
+00:14:46.080 --> 00:14:50.059
+sort of drivers of popular misperceptions in society. And,
+
+268
+00:14:50.080 --> 00:14:52.479
+and one reason for that is you can have
+
+269
+00:14:52.479 --> 00:14:55.679
+information which is demonstrably false, which is not misleading
+
+270
+00:14:55.679 --> 00:14:57.599
+at all. You can think of irony, you can
+
+271
+00:14:57.599 --> 00:14:59.989
+think of satire. You can even think of, you
+
+272
+00:14:59.989 --> 00:15:03.340
+know, idealized assumptions within science, which are often known
+
+273
+00:15:03.340 --> 00:15:04.710
+to be false, but it'd be weird to think
+
+274
+00:15:04.710 --> 00:15:09.419
+that they're misleading. Um, BUT even much more problematically
+
+275
+00:15:09.419 --> 00:15:12.309
+than that, most of the misleading communication that you
+
+276
+00:15:12.309 --> 00:15:16.099
+tend to find isn't really demonstrably false communication, right?
+
+277
+00:15:16.150 --> 00:15:19.309
+There are many, many ways in which propaganda campaigns
+
+278
+00:15:19.309 --> 00:15:21.489
+in which pundits and which commentators and so on
+
+279
+00:15:21.909 --> 00:15:25.559
+can and do mislead audiences that really have nothing
+
+280
+00:15:25.559 --> 00:15:29.049
+to do with publishing demonstrably false information. So it
+
+281
+00:15:29.049 --> 00:15:32.830
+has this nice characteristic, which is that. If you're
+
+282
+00:15:32.830 --> 00:15:35.630
+focusing on demonstrably false information, it's kind of plausible
+
+283
+00:15:35.630 --> 00:15:37.750
+that you're gonna achieve quite a high degree of
+
+284
+00:15:37.750 --> 00:15:40.630
+scientific objectivity. But on the other hand, it seems
+
+285
+00:15:40.630 --> 00:15:43.030
+like you're gonna miss most of the sort of
+
+286
+00:15:43.030 --> 00:15:46.909
+misleading communication that really shapes lots of pernicious attitudes
+
+287
+00:15:46.909 --> 00:15:48.489
+and behaviors within society.
+
+288
+00:15:49.380 --> 00:15:51.900
+And if we're talking about the most probably false
+
+289
+00:15:51.900 --> 00:15:55.570
+information specifically, how common is it for people to
+
+290
+00:15:55.570 --> 00:15:58.419
+encounter such kind of misinformation?
+
+291
+00:16:00.169 --> 00:16:03.010
+It's a really difficult question, um, because for any
+
+292
+00:16:03.010 --> 00:16:06.250
+of these things, obviously it's gonna slightly depend on
+
+293
+00:16:06.250 --> 00:16:09.250
+how you unpack this concept of, of demonstrably false
+
+294
+00:16:09.250 --> 00:16:12.130
+information. And just by the very nature of the
+
+295
+00:16:12.130 --> 00:16:14.299
+project, there's gonna be sort of measurement uncertainty and
+
+296
+00:16:14.309 --> 00:16:17.359
+and measurement error. Um, BUT if you're focusing on
+
+297
+00:16:17.359 --> 00:16:19.169
+something like fake news, where there is quite a
+
+298
+00:16:19.169 --> 00:16:23.849
+lot of research, so disreputable websites publishing fabricated news
+
+299
+00:16:23.849 --> 00:16:28.450
+stories, the overwhelming consensus in the scientific literature is
+
+300
+00:16:28.450 --> 00:16:31.169
+that that kind of content does not seem to
+
+301
+00:16:31.169 --> 00:16:34.710
+be very prevalent. In most people's information diets, at
+
+302
+00:16:34.710 --> 00:16:37.940
+least within Western democracies, where there's been lots of
+
+303
+00:16:37.940 --> 00:16:40.700
+research. So for example, there's a study in um
+
+304
+00:16:40.909 --> 00:16:43.830
+uh Science from 2020, published by Jennifer Allen and
+
+305
+00:16:43.830 --> 00:16:46.780
+colleagues, and they estimate that fake news makes up
+
+306
+00:16:46.780 --> 00:16:51.630
+roughly 0.15% of America's overall media diet. And I
+
+307
+00:16:51.630 --> 00:16:53.260
+think part of the reason for that is, you
+
+308
+00:16:53.260 --> 00:16:56.820
+know, most people don't pay much attention to politics,
+
+309
+00:16:56.960 --> 00:17:00.080
+current affairs, and news at all, let alone fake
+
+310
+00:17:00.080 --> 00:17:02.869
+news. But among those people that, that sort of
+
+311
+00:17:02.869 --> 00:17:06.040
+do tune in to, to news media, um, and
+
+312
+00:17:06.040 --> 00:17:08.949
+pay attention to current affairs, they overwhelmingly tune in
+
+313
+00:17:08.949 --> 00:17:13.670
+to mainstream media organizations. Now those organizations might be
+
+314
+00:17:13.670 --> 00:17:17.589
+churning out content which is selective and biased and
+
+315
+00:17:17.589 --> 00:17:20.520
+misleading and propagandistic in all sorts of different ways,
+
+316
+00:17:20.989 --> 00:17:23.069
+but it's very, very rare for those sorts of
+
+317
+00:17:23.069 --> 00:17:26.939
+organizations to publish outright fake news. And in a
+
+318
+00:17:26.939 --> 00:17:29.540
+way, the, the sort of low prevalence of, of
+
+319
+00:17:29.540 --> 00:17:32.380
+fake news within the information ecosystem shouldn't really be
+
+320
+00:17:32.380 --> 00:17:35.859
+that surprising. Not just because on the demand side,
+
+321
+00:17:36.140 --> 00:17:39.699
+among audiences, you know, people generally want accurate, reliable
+
+322
+00:17:39.699 --> 00:17:43.020
+information and so organizations emerge to kind of satisfy
+
+323
+00:17:43.020 --> 00:17:46.099
+that demand. But also because even if you're focusing
+
+324
+00:17:46.099 --> 00:17:51.060
+on explicit propaganda campaigns, sort of self-conscious attempts to
+
+325
+00:17:51.060 --> 00:17:56.290
+manipulate public opinion. It's very rare that publishing fake
+
+326
+00:17:56.290 --> 00:17:59.770
+news is necessary for achieving your goal. Like there
+
+327
+00:17:59.770 --> 00:18:03.719
+are countless ways in which you can manipulate, deceive,
+
+328
+00:18:03.890 --> 00:18:07.849
+distort audience opinions without making anything up. So if
+
+329
+00:18:07.849 --> 00:18:11.810
+you focus, for example, on a campaign to demonize
+
+330
+00:18:11.810 --> 00:18:14.609
+immigrants, let's say, one thing you could do as
+
+331
+00:18:14.609 --> 00:18:16.619
+part of that campaign is just to publish outright
+
+332
+00:18:16.619 --> 00:18:19.040
+fake news. And of course that does happen to
+
+333
+00:18:19.040 --> 00:18:22.079
+some significant degree. But another thing you can do
+
+334
+00:18:22.079 --> 00:18:25.319
+is just whenever there's a story of an immigrant
+
+335
+00:18:25.319 --> 00:18:28.280
+behaving in a negative way, let's say, you just
+
+336
+00:18:28.280 --> 00:18:31.119
+publish and amplify that story as widely as you
+
+337
+00:18:31.119 --> 00:18:33.390
+can. And the cumulative effect of that kind of
+
+338
+00:18:33.390 --> 00:18:37.630
+highly selective reporting is to greatly exaggerate the negative
+
+339
+00:18:37.630 --> 00:18:40.869
+perception of immigrants in the relevant country. You haven't
+
+340
+00:18:40.869 --> 00:18:44.520
+published anything, strictly speaking false, but because of this
+
+341
+00:18:44.520 --> 00:18:48.270
+biased revelation, because you're selecting and amplifying that kind
+
+342
+00:18:48.270 --> 00:18:51.030
+of content, you end up pushing a particular kind
+
+343
+00:18:51.030 --> 00:18:54.400
+of narrative. So it's very rare that even for
+
+344
+00:18:54.400 --> 00:18:58.619
+the most propagandistic deceptive outlets, you need to publish
+
+345
+00:18:58.619 --> 00:19:01.599
+fake news in order to push a particular. Um,
+
+346
+00:19:01.640 --> 00:19:04.719
+AGENDA or to manipulate public opinion. Um, BUT also
+
+347
+00:19:04.719 --> 00:19:06.689
+of all of the ways that you can try
+
+348
+00:19:06.689 --> 00:19:11.359
+to manipulate audiences, publishing outright fake news is the
+
+349
+00:19:11.359 --> 00:19:14.119
+most hazardous way of doing it. Because if you
+
+350
+00:19:14.119 --> 00:19:17.119
+make something up as a news organization, first of
+
+351
+00:19:17.119 --> 00:19:19.119
+all, it's very likely that audiences will find that
+
+352
+00:19:19.119 --> 00:19:22.920
+out, partly because it's a competitive media ecosystem and
+
+353
+00:19:22.920 --> 00:19:25.520
+it's always in the interest of your competitors to
+
+354
+00:19:25.520 --> 00:19:28.349
+discredit you, if you're a news outlet, for example.
+
+355
+00:19:28.859 --> 00:19:31.099
+Um, SO there are always these incentives to sort
+
+356
+00:19:31.099 --> 00:19:34.219
+of call out when another, um, a media outlet
+
+357
+00:19:34.219 --> 00:19:37.520
+makes something up. Um, SO it's, it's very likely
+
+358
+00:19:37.520 --> 00:19:40.319
+that audiences will discover that you've published the fake
+
+359
+00:19:40.319 --> 00:19:42.239
+news, and if they do, that's gonna really hurt
+
+360
+00:19:42.239 --> 00:19:45.119
+your reputation, right, that's gonna result in this just
+
+361
+00:19:45.119 --> 00:19:48.760
+collapsing trust in you as a source. Whereas if
+
+362
+00:19:48.760 --> 00:19:52.479
+you publish something that's true but misleading, it's much
+
+363
+00:19:52.479 --> 00:19:54.359
+more difficult for you to be called out on
+
+364
+00:19:54.359 --> 00:19:56.800
+that or to enforce norms against that, because you've
+
+365
+00:19:56.800 --> 00:19:58.439
+always got the kind of cover story which is,
+
+366
+00:19:58.520 --> 00:20:00.560
+well, we published something that was true. You know,
+
+367
+00:20:00.680 --> 00:20:02.719
+surely you can't be angry about us publishing something
+
+368
+00:20:02.719 --> 00:20:05.939
+that was strictly speaking, accurate. So in a way,
+
+369
+00:20:05.979 --> 00:20:08.420
+the empirical research I think shows that this kind
+
+370
+00:20:08.420 --> 00:20:11.219
+of clear cut fake news is not that prevalent.
+
+371
+00:20:11.540 --> 00:20:13.060
+And I think if you step back and you
+
+372
+00:20:13.060 --> 00:20:16.819
+reflect on even the sort of most obvious, most
+
+373
+00:20:16.819 --> 00:20:20.219
+deliberate propaganda campaigns, shouldn't really surprise us that that
+
+374
+00:20:20.219 --> 00:20:21.380
+kind of content is not that common.
+
+375
+00:20:22.390 --> 00:20:25.910
+And you say that this kind of misinformation uh
+
+376
+00:20:25.910 --> 00:20:30.439
+is largely symptomatic of other problems. What other problems
+
+377
+00:20:30.439 --> 00:20:32.280
+are you referring to exactly?
+
+378
+00:20:33.640 --> 00:20:35.579
+So I think the the concept of it being
+
+379
+00:20:35.579 --> 00:20:38.020
+symptomatic there is supposed to sort of push back
+
+380
+00:20:38.020 --> 00:20:40.729
+against this idea, which I think many people have
+
+381
+00:20:40.729 --> 00:20:43.869
+and which underlies lots of the sort of discourse
+
+382
+00:20:43.869 --> 00:20:46.780
+and the research on this topic, where, you know,
+
+383
+00:20:46.859 --> 00:20:50.170
+misinformation is viewed as a kind of exogenous force
+
+384
+00:20:50.459 --> 00:20:53.380
+that comes into society and it drives people to
+
+385
+00:20:53.380 --> 00:20:56.300
+embrace false and inaccurate beliefs and make bad decisions
+
+386
+00:20:56.300 --> 00:20:59.239
+about the world. And that can happen, but I
+
+387
+00:20:59.239 --> 00:21:01.589
+think especially when you're focusing on this really kind
+
+388
+00:21:01.589 --> 00:21:06.719
+of clear cut, unambiguous fals and fabrications, what the
+
+389
+00:21:06.719 --> 00:21:09.229
+research tends to show is not only is sort
+
+390
+00:21:09.229 --> 00:21:12.479
+of average exposure to that content pretty low, but
+
+391
+00:21:12.479 --> 00:21:15.719
+the average exposure is pretty misleading in the sense
+
+392
+00:21:15.719 --> 00:21:18.479
+that most people don't really encounter much of that
+
+393
+00:21:18.479 --> 00:21:22.030
+content at all. But there's a narrow fringe of
+
+394
+00:21:22.030 --> 00:21:24.640
+social media users that encounters quite a lot of
+
+395
+00:21:24.640 --> 00:21:29.209
+it, and that increases the, the overall average. And
+
+396
+00:21:29.209 --> 00:21:32.410
+that fringe of the, the sort of social media
+
+397
+00:21:32.410 --> 00:21:34.800
+users that engages with lots of this content online
+
+398
+00:21:35.449 --> 00:21:38.219
+is not a cross section of the population. It's
+
+399
+00:21:38.219 --> 00:21:39.609
+not, and this again is a sort of popular
+
+400
+00:21:39.609 --> 00:21:42.290
+image many people have, a situation where, you know,
+
+401
+00:21:42.369 --> 00:21:46.739
+otherwise ordinary people with sort of basic ordinary beliefs,
+
+402
+00:21:47.209 --> 00:21:49.170
+um, fall down a rabbit hole and now they're
+
+403
+00:21:49.170 --> 00:21:51.329
+a queue and non-believer. What tends to happen is
+
+404
+00:21:51.329 --> 00:21:56.449
+you've got people with pre-existing attitudes, identities, worldviews, beliefs
+
+405
+00:21:56.449 --> 00:22:00.160
+and so on. Engaging with and seeking out content
+
+406
+00:22:00.229 --> 00:22:03.180
+that aligns with that general perspective on the world.
+
+407
+00:22:03.709 --> 00:22:06.150
+And in many cases, at least as some sort
+
+408
+00:22:06.150 --> 00:22:09.150
+of um almost sort of ethnographic and qualitative research
+
+409
+00:22:09.150 --> 00:22:11.989
+which suggests this, the engagement with that really kind
+
+410
+00:22:11.989 --> 00:22:15.270
+of absurd fake news is not even for reasons
+
+411
+00:22:15.270 --> 00:22:18.550
+of belief, it's just being spread and amplified for
+
+412
+00:22:18.550 --> 00:22:21.790
+things like trolling, for satire, for sowing chaos in
+
+413
+00:22:21.790 --> 00:22:24.500
+society and so on. Um, BUT even when it
+
+414
+00:22:24.500 --> 00:22:26.930
+is engaged with by people who take it seriously,
+
+415
+00:22:27.180 --> 00:22:29.430
+that's often symptomatic of the fact that these are
+
+416
+00:22:29.430 --> 00:22:32.939
+segments of the population which don't trust institutions. They
+
+417
+00:22:32.939 --> 00:22:38.060
+might actively distrust mainstream knowledge generating institutions like public
+
+418
+00:22:38.060 --> 00:22:42.020
+health authorities, mainstream media, um, scientific consensus and so
+
+419
+00:22:42.020 --> 00:22:44.969
+on. And so they're seeking out counter establishment content,
+
+420
+00:22:45.180 --> 00:22:47.500
+or they've got, for example, a very general kind
+
+421
+00:22:47.500 --> 00:22:51.420
+of conspiratorial worldview. And so they're seeking out content
+
+422
+00:22:51.420 --> 00:22:55.140
+that affirms and rationalizes that kind of worldview. Or
+
+423
+00:22:55.140 --> 00:22:57.589
+another thing you find is, if you've got highly
+
+424
+00:22:57.589 --> 00:23:00.780
+polarized contexts where you've got some people who are
+
+425
+00:23:00.780 --> 00:23:05.500
+strongly politically engaged and highly partisan, so they're interested
+
+426
+00:23:05.500 --> 00:23:08.349
+in seeking out content that sort of demonizes the
+
+427
+00:23:08.349 --> 00:23:11.150
+other side, often in a very hyperbolic manner, they
+
+428
+00:23:11.150 --> 00:23:13.420
+will also tend to have lower standards in terms
+
+429
+00:23:13.420 --> 00:23:15.380
+of the content that they engage with. They'll seek
+
+430
+00:23:15.380 --> 00:23:18.780
+out sort of really hyper partisan, really biased content.
+
+431
+00:23:19.250 --> 00:23:21.290
+So that's the sense in which it's symptomatic that
+
+432
+00:23:21.530 --> 00:23:24.209
+it's not a matter of, you know, otherwise ordinary
+
+433
+00:23:24.209 --> 00:23:28.329
+people with average beliefs being sucked into rabbit holes
+
+434
+00:23:28.329 --> 00:23:31.449
+and then engaging with this content. The research on
+
+435
+00:23:31.449 --> 00:23:34.130
+this topic overwhelmingly suggests that you've got people with
+
+436
+00:23:34.130 --> 00:23:38.410
+preexisting kind of attitudes, beliefs, worldviews, engaging with and
+
+437
+00:23:38.410 --> 00:23:41.369
+seeking out this content because it aligns with those
+
+438
+00:23:41.369 --> 00:23:45.569
+pre-existing beliefs. Crucially, that doesn't mean that it has
+
+439
+00:23:45.569 --> 00:23:49.170
+no harmful consequences. That would be clearly absurd as
+
+440
+00:23:49.170 --> 00:23:51.619
+a claim. The mere fact that it's responsive to
+
+441
+00:23:51.619 --> 00:23:55.540
+and sort of reinforces these pre-existing beliefs, that's consistent
+
+442
+00:23:55.540 --> 00:23:58.900
+with it sometimes having some negative consequences. So for
+
+443
+00:23:58.900 --> 00:24:01.260
+example, sometimes this kind of content will be used
+
+444
+00:24:01.260 --> 00:24:04.939
+to mobilize different parts of the community around a
+
+445
+00:24:04.939 --> 00:24:07.739
+shared narrative. Um, AND it can also serve to
+
+446
+00:24:07.739 --> 00:24:10.500
+sort of entrench people in, in, in these worldviews,
+
+447
+00:24:10.540 --> 00:24:12.579
+these sort of pre-existing beliefs that they bring to
+
+448
+00:24:12.579 --> 00:24:14.619
+social media. So it's not to claim that it
+
+449
+00:24:14.619 --> 00:24:18.130
+has no harmful consequences at all. But rather the
+
+450
+00:24:18.130 --> 00:24:20.209
+point is, if you're trying to deal with some
+
+451
+00:24:20.209 --> 00:24:23.489
+of these really deep rooted issues in society, deep-rooted
+
+452
+00:24:23.489 --> 00:24:27.689
+epistemic issues of people having these highly conspiratorial worldviews,
+
+453
+00:24:27.849 --> 00:24:30.810
+not trusting institutions, seeking out content that sort of
+
+454
+00:24:30.810 --> 00:24:33.489
+demonizes members of the other side, you're not gonna
+
+455
+00:24:33.489 --> 00:24:35.449
+get very far if you're just focusing on that
+
+456
+00:24:35.449 --> 00:24:39.699
+misinformation. That misinformation exists for the most part because
+
+457
+00:24:39.930 --> 00:24:43.609
+of these underlying kind of attitudes, worldviews, identities and
+
+458
+00:24:43.609 --> 00:24:43.930
+so on.
+
+459
+00:24:45.250 --> 00:24:49.050
+Would you classify the preoccupation with misinformation as a
+
+460
+00:24:49.050 --> 00:24:52.119
+moral panic? And if so, why?
+
+461
+00:24:53.189 --> 00:24:55.160
+Um, SO I know you've had Sasha Altay on
+
+462
+00:24:55.160 --> 00:24:56.869
+the, on the podcast before who also sort of
+
+463
+00:24:56.869 --> 00:24:59.260
+talks in this, in this kind of way. Um,
+
+464
+00:24:59.270 --> 00:25:00.800
+AND he's also one of the most sort of
+
+465
+00:25:00.800 --> 00:25:04.239
+astute and sophisticated, um, theorists when it comes to
+
+466
+00:25:04.239 --> 00:25:06.959
+focusing on misinformation as a symptom of these sort
+
+467
+00:25:06.959 --> 00:25:10.150
+of underlying problems. And he wasn't the first person
+
+468
+00:25:10.150 --> 00:25:11.869
+to, to use this sort of moral panic framing,
+
+469
+00:25:11.910 --> 00:25:13.829
+you find it among, you know, media researchers and
+
+470
+00:25:13.829 --> 00:25:17.109
+so on. Um, WHAT I would say is, whether
+
+471
+00:25:17.109 --> 00:25:18.869
+you want to use the term moral panic or
+
+472
+00:25:18.869 --> 00:25:21.709
+not, when it comes to this really sort of
+
+473
+00:25:21.709 --> 00:25:25.589
+clear cut, unambiguous, fake news that you find online,
+
+474
+00:25:25.709 --> 00:25:30.349
+published by disreputable news outlets, um, there really does
+
+475
+00:25:30.349 --> 00:25:34.109
+seem to be a case where the amount of
+
+476
+00:25:34.109 --> 00:25:38.099
+attention. The amount of panic, the alarmism surrounding that
+
+477
+00:25:38.099 --> 00:25:42.060
+phenomenon is not warranted by the evidence we have
+
+478
+00:25:42.060 --> 00:25:45.739
+concerning its prevalence and its impact. So in that
+
+479
+00:25:45.739 --> 00:25:47.910
+respect, in the sense that there is a lot
+
+480
+00:25:47.910 --> 00:25:49.890
+of focus on this, a lot of attention on
+
+481
+00:25:49.890 --> 00:25:52.579
+this, a lot of panic surrounding this, I would
+
+482
+00:25:52.579 --> 00:25:55.459
+say that um at the very least what you
+
+483
+00:25:55.459 --> 00:25:57.060
+can say is it doesn't seem to be supported
+
+484
+00:25:57.060 --> 00:26:00.060
+by evidence concerning the, the scale and impact of
+
+485
+00:26:00.060 --> 00:26:02.510
+the problem. I would also say another thing that
+
+486
+00:26:02.510 --> 00:26:06.260
+I think the, the moral panic framing gets right
+
+487
+00:26:06.260 --> 00:26:09.349
+is that it's not just that all of this
+
+488
+00:26:09.349 --> 00:26:13.670
+concern with and alarm about misinformation exaggerates the the
+
+489
+00:26:13.670 --> 00:26:17.069
+prevalence and impact of that kind of misinformation. There's
+
+490
+00:26:17.069 --> 00:26:19.910
+also this broader idea, which I alluded to at
+
+491
+00:26:19.910 --> 00:26:22.800
+the beginning, which is that many people think this
+
+492
+00:26:22.800 --> 00:26:26.790
+problem of misinformation. In a broader sense of people
+
+493
+00:26:26.790 --> 00:26:31.400
+believing wrong things, endorsing conspiracy theories, being ignorant, holding
+
+494
+00:26:31.400 --> 00:26:36.719
+misperceptions, having anti-establishment worldviews, etc. ETC. There's this idea
+
+495
+00:26:36.719 --> 00:26:38.839
+that this is much, much worse than it used
+
+496
+00:26:38.839 --> 00:26:42.060
+to be. And again, that's another case where I
+
+497
+00:26:42.060 --> 00:26:45.560
+think there simply isn't good evidence. To the effect
+
+498
+00:26:45.560 --> 00:26:48.000
+that that's true, there simply isn't good evidence that
+
+499
+00:26:48.000 --> 00:26:51.359
+across the board there's been this overwhelming deterioration in
+
+500
+00:26:51.359 --> 00:26:55.239
+the kind of quality of the broader informational ecosystem.
+
+501
+00:26:55.699 --> 00:27:00.109
+And inasmuch as lots of misinformation, commentary, and indeed
+
+502
+00:27:00.109 --> 00:27:03.349
+lots of misinformation research, embodies the assumption that we're
+
+503
+00:27:03.349 --> 00:27:06.030
+now living through a misinformation age, or a disinformation
+
+504
+00:27:06.030 --> 00:27:09.459
+age or a post-truth era, in contrast with some
+
+505
+00:27:09.459 --> 00:27:13.099
+allegedly previous era of, you know, greater truth and
+
+506
+00:27:13.099 --> 00:27:16.420
+objectivity, that I think is also very, very misguided.
+
+507
+00:27:16.459 --> 00:27:18.869
+And so I think insofar as the moral panic
+
+508
+00:27:18.869 --> 00:27:21.469
+framing captures the fact that that's misguided, I think
+
+509
+00:27:21.469 --> 00:27:23.380
+it's also got something to it there as well.
+
+510
+00:27:24.489 --> 00:27:27.560
+So you have been accused of endorsing a weird
+
+511
+00:27:27.560 --> 00:27:31.160
+postmodernist view where there are no differences in the
+
+512
+00:27:31.160 --> 00:27:35.920
+reliability, honesty, and objectivity of different outlets, institutions, and
+
+513
+00:27:35.920 --> 00:27:38.359
+communicators. What is your reply?
+
+514
+00:27:39.300 --> 00:27:42.170
+Yeah, I've also been accused of endorsing 100% postmodernism,
+
+515
+00:27:42.280 --> 00:27:45.780
+um, I mean, maybe it's like good to, to
+
+516
+00:27:45.780 --> 00:27:47.910
+step back a little bit and give the context
+
+517
+00:27:47.910 --> 00:27:51.380
+for where that, that accusation uh arose, which is
+
+518
+00:27:51.380 --> 00:27:56.560
+that. In my view, misinformation research, if it focuses
+
+519
+00:27:56.560 --> 00:27:59.890
+on the really kind of clear cut unambiguous falsehoods
+
+520
+00:27:59.890 --> 00:28:02.050
+that we've just been talking about, even though I
+
+521
+00:28:02.050 --> 00:28:05.199
+think that content doesn't tend to be particularly widespread,
+
+522
+00:28:05.369 --> 00:28:08.650
+it doesn't tend to be that impactful. Um, NEVERTHELESS,
+
+523
+00:28:08.709 --> 00:28:11.449
+I think if misinformation research restricts its focus to
+
+524
+00:28:11.449 --> 00:28:14.630
+that kind of content. It can achieve a pretty
+
+525
+00:28:14.630 --> 00:28:19.849
+high degree of objectivity. Um, Now, in response to
+
+526
+00:28:19.849 --> 00:28:22.650
+the fact that that kind of content isn't particularly
+
+527
+00:28:22.650 --> 00:28:24.839
+widespread, and it doesn't appear to be all that
+
+528
+00:28:24.839 --> 00:28:27.890
+impactful, there's been this real move from those who
+
+529
+00:28:27.890 --> 00:28:30.290
+study misinformation and those who focus on it, to
+
+530
+00:28:30.290 --> 00:28:32.369
+say that we should really kind of broaden the
+
+531
+00:28:32.369 --> 00:28:36.459
+definition of misinformation so that it focuses not just
+
+532
+00:28:36.459 --> 00:28:39.170
+on demonstrably false information, and maybe not even just
+
+533
+00:28:39.170 --> 00:28:42.449
+on false information, but on any kind of information
+
+534
+00:28:42.449 --> 00:28:46.420
+that is misleading. Clearly, if you broaden the definition
+
+535
+00:28:46.420 --> 00:28:49.069
+of misinformation in that way, it's trivially true that
+
+536
+00:28:49.069 --> 00:28:52.069
+misinformation is so understood, it's gonna be much more
+
+537
+00:28:52.069 --> 00:28:55.430
+widespread. Um, AND I think it's also trivially true
+
+538
+00:28:55.430 --> 00:28:58.099
+that that kind of content, if you're focusing on
+
+539
+00:28:58.430 --> 00:29:01.310
+misleading content in this really kind of general and
+
+540
+00:29:01.310 --> 00:29:06.020
+broad sense, is much more impactful than clear cut,
+
+541
+00:29:06.229 --> 00:29:09.670
+you know, fake news or unambiguous falsehoods. You know,
+
+542
+00:29:09.949 --> 00:29:13.699
+partly because it's not in any way restricted to
+
+543
+00:29:13.709 --> 00:29:18.150
+disreputable websites online, you know, misleading communication in the
+
+544
+00:29:18.150 --> 00:29:21.869
+broadest possible sense, I would say is absolutely pervasive
+
+545
+00:29:21.869 --> 00:29:26.400
+within the informational ecosystem. Um, SO again, to, to
+
+546
+00:29:26.400 --> 00:29:28.260
+cite a study by Jennifer Allen which came out
+
+547
+00:29:28.260 --> 00:29:31.500
+um earlier this year, which looked at vaccine content
+
+548
+00:29:31.500 --> 00:29:35.180
+on Facebook. And there, the sort of the, the
+
+549
+00:29:35.180 --> 00:29:37.780
+headline result of this study is, if you focus
+
+550
+00:29:37.780 --> 00:29:41.229
+on just outright fake news about vaccines, what you
+
+551
+00:29:41.229 --> 00:29:43.959
+tend to find is that content existed on Facebook,
+
+552
+00:29:44.119 --> 00:29:46.420
+but it wasn't that prevalent and it wasn't that
+
+553
+00:29:46.420 --> 00:29:49.420
+impactful. But if you focus on content that's not
+
+554
+00:29:49.420 --> 00:29:51.979
+fake news, it's not strictly speaking false, but it's
+
+555
+00:29:51.979 --> 00:29:55.930
+nevertheless vaccine skeptical in its sort of general implications.
+
+556
+00:29:56.180 --> 00:30:00.300
+So for example, true reports of rare vaccine related
+
+557
+00:30:00.300 --> 00:30:03.089
+deaths. That content, I think they estimate it as
+
+558
+00:30:03.089 --> 00:30:06.969
+about 46 times more impactful than fake news. And
+
+559
+00:30:06.969 --> 00:30:08.689
+that's just one example, but you can also think
+
+560
+00:30:08.689 --> 00:30:12.050
+of things like partisan media, in a very well
+
+561
+00:30:12.050 --> 00:30:17.239
+documented and very obvious feature of partisan news media
+
+562
+00:30:17.239 --> 00:30:21.010
+like Fox News or MSNBC or GB News in
+
+563
+00:30:21.010 --> 00:30:23.650
+the UK. That even though they very rarely just
+
+564
+00:30:23.650 --> 00:30:28.469
+make stuff up, they tend to select, emit, frame,
+
+565
+00:30:28.609 --> 00:30:32.209
+package, interpret information in ways that are highly misleading,
+
+566
+00:30:32.250 --> 00:30:34.560
+that sort of support a particular kind of partisan
+
+567
+00:30:34.560 --> 00:30:38.709
+narrative. So clearly that kind of broader misleading communication
+
+568
+00:30:38.709 --> 00:30:42.349
+is very widespread. But in my view, I think
+
+569
+00:30:42.349 --> 00:30:46.500
+if you understand misinformation as a term that broadly,
+
+570
+00:30:46.790 --> 00:30:51.900
+it really is not suitable for objective, scientific study,
+
+571
+00:30:52.030 --> 00:30:55.390
+classification and generalization. And you know, part of the
+
+572
+00:30:55.390 --> 00:30:59.270
+reason is, it's not just that misleading information so
+
+573
+00:30:59.270 --> 00:31:02.989
+defined is widespread. It's sort of so widespread that
+
+574
+00:31:02.989 --> 00:31:06.150
+the concept loses any analytical value. Even if you
+
+575
+00:31:06.150 --> 00:31:09.189
+focus on sort of mainstream news media and you
+
+576
+00:31:09.189 --> 00:31:12.030
+set aside all worries about sort of ideological and
+
+577
+00:31:12.030 --> 00:31:15.520
+political biases. Even high quality outlets like the BBC,
+
+578
+00:31:15.670 --> 00:31:17.510
+The New York Times, the Financial Times, and so
+
+579
+00:31:17.510 --> 00:31:21.250
+on. They report, because they're news media, a highly
+
+580
+00:31:21.250 --> 00:31:24.770
+non-random sample of all of the bad, threatening things
+
+581
+00:31:24.770 --> 00:31:27.239
+happening in the world. Like, if it bleeds it
+
+582
+00:31:27.239 --> 00:31:30.890
+leads, is quite literally the recipe underlying lots of
+
+583
+00:31:30.890 --> 00:31:34.380
+news reporting, and also a mechanism of cherry picking.
+
+584
+00:31:34.699 --> 00:31:36.800
+And as a result of that, the, the audience
+
+585
+00:31:36.800 --> 00:31:39.969
+of news media, mainstream news media, tends to have
+
+586
+00:31:39.969 --> 00:31:42.410
+a very negative understanding of the world. Whenever a
+
+587
+00:31:42.410 --> 00:31:44.969
+trend is going in the right direction, the audience
+
+588
+00:31:44.969 --> 00:31:49.670
+of these sort of establishment, news media. Um, ORGANIZATIONS
+
+589
+00:31:49.670 --> 00:31:51.949
+tend to have a misperception about that. They think
+
+590
+00:31:51.949 --> 00:31:54.030
+it's going either in the wrong direction or they
+
+591
+00:31:54.030 --> 00:31:57.349
+just generally have a pretty catastrophising understanding of the
+
+592
+00:31:57.349 --> 00:31:59.829
+world. Does that mean that all of news media
+
+593
+00:31:59.829 --> 00:32:01.939
+would qualify as misinformation? I think that's a little
+
+594
+00:32:01.939 --> 00:32:06.890
+bit peculiar as um a definition. Um, BUT I
+
+595
+00:32:06.890 --> 00:32:10.209
+also think it's just incredibly difficult to even say
+
+596
+00:32:10.209 --> 00:32:14.770
+an abstract what makes information misleading. Like to really
+
+597
+00:32:14.770 --> 00:32:17.250
+give a precise understanding of why it is that
+
+598
+00:32:17.250 --> 00:32:20.650
+certain kind of reporting qualifies as misleading and other
+
+599
+00:32:20.650 --> 00:32:23.569
+kind of reporting doesn't. So misinformation researchers want to
+
+600
+00:32:23.569 --> 00:32:27.839
+say, if you report on rare vaccine related deaths,
+
+601
+00:32:28.010 --> 00:32:31.410
+even if you accurately report on them. That's misinformation
+
+602
+00:32:31.410 --> 00:32:34.329
+because it might mislead audiences into thinking those sorts
+
+603
+00:32:34.329 --> 00:32:37.199
+of events are more prevalent than they are. But
+
+604
+00:32:37.199 --> 00:32:39.839
+if you try to apply that principle consistently, you
+
+605
+00:32:39.839 --> 00:32:44.510
+get into incredibly weird places. For example, take reporting
+
+606
+00:32:44.510 --> 00:32:49.880
+of rare police shootings of unarmed black citizens in
+
+607
+00:32:49.880 --> 00:32:53.219
+the US. I would say that's very important reporting,
+
+608
+00:32:53.800 --> 00:32:57.640
+but statistically speaking, you're reporting on rare events, and
+
+609
+00:32:57.640 --> 00:33:01.709
+there's some evidence that people in society greatly overestimate
+
+610
+00:33:01.709 --> 00:33:04.839
+how prevalent that those sorts of occurrences are. Um,
+
+611
+00:33:04.900 --> 00:33:06.520
+DOES that mean that that kind of reporting is
+
+612
+00:33:06.520 --> 00:33:09.239
+gonna get classified as misinformation? You end up in
+
+613
+00:33:09.239 --> 00:33:11.800
+really weird places here. And I think part of
+
+614
+00:33:11.800 --> 00:33:14.469
+the reason is, once you start with this really
+
+615
+00:33:14.469 --> 00:33:20.140
+expansive definition of misinformation, it's very difficult to see
+
+616
+00:33:20.400 --> 00:33:23.920
+how judgments are gonna be anything other than judgment
+
+617
+00:33:23.920 --> 00:33:26.839
+calls on the basis of your worldview, your ideology,
+
+618
+00:33:26.959 --> 00:33:30.349
+your values, your interests. And they're gonna be very
+
+619
+00:33:30.349 --> 00:33:33.930
+context sensitive, and they're not gonna lend themselves to
+
+620
+00:33:34.140 --> 00:33:37.459
+these sorts of precise scientific generalizations about, you know,
+
+621
+00:33:37.660 --> 00:33:40.689
+certain people being more or less susceptible to misinformation
+
+622
+00:33:40.900 --> 00:33:45.979
+or misinformation constituting X% of the informational ecosystem. Now
+
+623
+00:33:45.979 --> 00:33:48.660
+it's because I've made that kind of argument, which
+
+624
+00:33:48.660 --> 00:33:52.209
+I've made in much more depth elsewhere, um, that.
+
+625
+00:33:52.510 --> 00:33:56.010
+The reaction from certain misinformation researchers has been, well,
+
+626
+00:33:56.069 --> 00:34:00.219
+I must endorse some sort of weird postmodernist rejection
+
+627
+00:34:00.219 --> 00:34:03.750
+of the very idea of truth or, or rationality
+
+628
+00:34:03.750 --> 00:34:07.390
+or knowledge or objectivity. But of course, I don't
+
+629
+00:34:07.390 --> 00:34:09.228
+endorse that kind of strange view where there's no
+
+630
+00:34:09.228 --> 00:34:11.929
+such thing as reality. It's rather that I think
+
+631
+00:34:11.929 --> 00:34:16.090
+reality is complex, uh access to reality is often
+
+632
+00:34:16.090 --> 00:34:19.489
+highly mediated by which information we encounter from others,
+
+633
+00:34:19.610 --> 00:34:22.449
+how we interpret that information. Human beings tend to
+
+634
+00:34:22.449 --> 00:34:24.929
+be biased, you know, experts don't tend to fully
+
+635
+00:34:24.929 --> 00:34:28.370
+escape those biases, etc. ETC. And for all of
+
+636
+00:34:28.370 --> 00:34:31.208
+those reasons, it's not like I think. There's no
+
+637
+00:34:31.208 --> 00:34:33.879
+such thing as objectivity. I just think objectivity is
+
+638
+00:34:33.879 --> 00:34:36.790
+incredibly difficult to achieve when it comes to politics,
+
+639
+00:34:37.080 --> 00:34:40.010
+and it becomes much, much more difficult to achieve
+
+640
+00:34:40.360 --> 00:34:43.129
+the more expansive the definition of misinformation is.
+
+641
+00:34:44.429 --> 00:34:48.530
+But should people still call out misleading content when
+
+642
+00:34:48.530 --> 00:34:50.969
+they encounter it, and who should do it? Do
+
+643
+00:34:50.969 --> 00:34:54.050
+you think it should be done by misinformation experts,
+
+644
+00:34:54.159 --> 00:34:54.820
+for example?
+
+645
+00:34:55.800 --> 00:34:57.760
+I mean, I think it depends on what capacity,
+
+646
+00:34:57.879 --> 00:34:59.600
+but I think it's, it's a really important question
+
+647
+00:34:59.600 --> 00:35:05.469
+because there is a fundamental distinction between democratic citizens,
+
+648
+00:35:05.760 --> 00:35:07.919
+and that could be either one of us, you
+
+649
+00:35:07.919 --> 00:35:09.949
+know, you've got a podcast, I've got a blog,
+
+650
+00:35:10.320 --> 00:35:13.770
+um, it could be any pundit, any commentator, any
+
+651
+00:35:14.040 --> 00:35:16.320
+member of a democracy who wants to participate in
+
+652
+00:35:16.320 --> 00:35:20.340
+the public sphere. There's a fundamental difference between the
+
+653
+00:35:20.340 --> 00:35:23.820
+activity of democratic citizens within the public sphere, making
+
+654
+00:35:23.820 --> 00:35:26.500
+judgments about what they take to be true, calling
+
+655
+00:35:26.500 --> 00:35:30.620
+out ideas, reporting claims that they judge to be
+
+656
+00:35:30.620 --> 00:35:36.020
+misleading or quote unquote, misinformation, although most ordinary citizens
+
+657
+00:35:36.020 --> 00:35:38.419
+don't really use that kind of jargon. There's a
+
+658
+00:35:38.419 --> 00:35:40.979
+fundamental distinction between that project, which of course is
+
+659
+00:35:40.979 --> 00:35:43.540
+incredibly important, and that's why we've got a democracy,
+
+660
+00:35:43.560 --> 00:35:45.639
+and that's why we've got a public sphere. Because
+
+661
+00:35:45.639 --> 00:35:49.350
+we recognize the truth is incredibly challenging to obtain
+
+662
+00:35:49.350 --> 00:35:52.000
+and there's gonna be a diversity of perspectives, and
+
+663
+00:35:52.000 --> 00:35:54.790
+you need that argument, and you need that deliberation,
+
+664
+00:35:55.000 --> 00:35:56.840
+and you need that space where people can make
+
+665
+00:35:56.840 --> 00:35:59.639
+mistakes and put forward different kinds of ideas. There's
+
+666
+00:35:59.639 --> 00:36:03.149
+a difference between that project and a project of
+
+667
+00:36:03.149 --> 00:36:08.270
+a certain kind of technocratic expert class, attempting to
+
+668
+00:36:08.270 --> 00:36:15.010
+establish scientific generalizations about misinformation. From an allegedly neutral
+
+669
+00:36:15.010 --> 00:36:19.350
+objective vantage point. For the purpose of publishing these
+
+670
+00:36:19.350 --> 00:36:22.500
+findings in scientific journals, and then either directly or
+
+671
+00:36:22.500 --> 00:36:28.100
+indirectly informing policy responses to what's studied within that,
+
+672
+00:36:28.129 --> 00:36:31.620
+that research. Those are two fundamentally different projects, and
+
+673
+00:36:31.620 --> 00:36:35.939
+it's reasonable to hold the latter project to much
+
+674
+00:36:35.939 --> 00:36:39.090
+higher standards than we would hold the former project.
+
+675
+00:36:39.300 --> 00:36:41.500
+If you're just an ordinary citizen and you might
+
+676
+00:36:41.500 --> 00:36:44.500
+be a misinformation researcher participating in political debate as
+
+677
+00:36:44.500 --> 00:36:46.850
+an ordinary citizen, in which case obviously it's fine.
+
+678
+00:36:47.479 --> 00:36:49.709
+That's one thing, and we recognize human beings are
+
+679
+00:36:49.709 --> 00:36:52.719
+biased and we're fallible, and we're often groupish, and
+
+680
+00:36:52.719 --> 00:36:55.610
+we've got allegiances and our judgment can be biased
+
+681
+00:36:55.610 --> 00:37:00.439
+by self-interest, etc. ETC. That's one thing. It's totally
+
+682
+00:37:00.439 --> 00:37:05.949
+different when we're thinking of an allegedly objective, scientific
+
+683
+00:37:05.949 --> 00:37:10.120
+project. And we should have completely different standards and
+
+684
+00:37:10.120 --> 00:37:12.669
+much higher standards when it comes to that project
+
+685
+00:37:12.669 --> 00:37:16.040
+than we do when it comes to ordinary democratic
+
+686
+00:37:16.040 --> 00:37:17.080
+debate and deliberation.
+
+687
+00:37:18.699 --> 00:37:21.860
+So, in 2024, this interview will come out in
+
+688
+00:37:21.860 --> 00:37:26.760
+2025. The World Economic Forum published its global risk
+
+689
+00:37:26.760 --> 00:37:30.659
+report and misinformation and disinformation came out as the
+
+690
+00:37:30.659 --> 00:37:34.090
+top global threats over the next two years. So,
+
+691
+00:37:34.399 --> 00:37:36.860
+Uh, uh, I have of things like, for example,
+
+692
+00:37:37.310 --> 00:37:43.669
+extreme weather events, societal polarization, cyber insecurity, interstate armed
+
+693
+00:37:43.669 --> 00:37:48.830
+conflict, lack of economic opportunity, inflation, involuntary migration, economic
+
+694
+00:37:48.830 --> 00:37:50.389
+downturn and pollution.
+
+695
+00:37:50.679 --> 00:37:50.929
+Uh,
+
+696
+00:37:51.229 --> 00:37:52.500
+WHAT do you make of this?
+
+697
+00:37:53.959 --> 00:38:00.360
+Um, I think it's really indicative of this more
+
+698
+00:38:00.360 --> 00:38:08.739
+general. Panic and alarmism about misinformation. Um Part of
+
+699
+00:38:08.739 --> 00:38:11.780
+the issue here though, I think, is it really
+
+700
+00:38:11.780 --> 00:38:15.260
+again depends on what's meant by the term misinformation
+
+701
+00:38:15.260 --> 00:38:17.709
+and disinformation. And I think the problem with this
+
+702
+00:38:17.709 --> 00:38:21.739
+sort of report where misinformation and disinformation is placed
+
+703
+00:38:21.739 --> 00:38:27.219
+as a more severe threat, more severe risk than
+
+704
+00:38:27.219 --> 00:38:29.699
+nuclear war or economic catastrophe, and so on and
+
+705
+00:38:29.699 --> 00:38:33.100
+so forth. Um, THE problem is, if you're understanding
+
+706
+00:38:33.100 --> 00:38:36.780
+these terms very, very narrowly. And that's gonna include
+
+707
+00:38:36.780 --> 00:38:39.100
+things like fake news, but it's also gonna include
+
+708
+00:38:39.100 --> 00:38:43.020
+things like, you know, unambiguously false opinions. And it's
+
+709
+00:38:43.020 --> 00:38:45.540
+also gonna include things like deep fake technology, you
+
+710
+00:38:45.540 --> 00:38:49.699
+know, the use of artificial intelligence, generative AI to
+
+711
+00:38:49.699 --> 00:38:53.580
+create these sort of hyper realistic audio and video
+
+712
+00:38:53.580 --> 00:38:55.459
+recordings, cos I think that was in the background
+
+713
+00:38:55.459 --> 00:38:59.209
+when this report was published. Um, THAT kind of
+
+714
+00:38:59.209 --> 00:39:01.959
+content. As we've already discussed, doesn't appear to be
+
+715
+00:39:01.959 --> 00:39:04.260
+that prevalent and doesn't appear to be that impactful.
+
+716
+00:39:04.479 --> 00:39:06.120
+So I think if you're focusing on that really
+
+717
+00:39:06.120 --> 00:39:11.080
+kind of discrete phenomenon of clear cut, unambiguous forces
+
+718
+00:39:11.080 --> 00:39:13.239
+and fabrications, it's not to say that it's not
+
+719
+00:39:13.239 --> 00:39:15.610
+a problem at all, for the reasons I've already
+
+720
+00:39:15.610 --> 00:39:17.800
+discussed, I think that can sometimes and and it
+
+721
+00:39:17.800 --> 00:39:20.969
+does sometimes have harmful consequences. To me, it's just
+
+722
+00:39:20.969 --> 00:39:24.169
+absurd to suggest that's a, a more severe risk
+
+723
+00:39:24.169 --> 00:39:26.010
+than the other things that are listed within that
+
+724
+00:39:26.010 --> 00:39:29.270
+risk report. Now one of the responses to that,
+
+725
+00:39:29.320 --> 00:39:32.179
+which mirrors this more general response to the discovery
+
+726
+00:39:32.179 --> 00:39:34.969
+that really clear cut misinformation doesn't appear to be
+
+727
+00:39:34.969 --> 00:39:37.590
+that widespread or impactful, is to say, well, maybe
+
+728
+00:39:37.590 --> 00:39:40.949
+we should understand misinformation and disinformation. To refer to,
+
+729
+00:39:40.989 --> 00:39:44.070
+you know, any factors which end up distorting human
+
+730
+00:39:44.070 --> 00:39:47.300
+judgment and leading to bad decision making within society,
+
+731
+00:39:47.639 --> 00:39:50.310
+because of course, for all of those other risks,
+
+732
+00:39:50.389 --> 00:39:54.149
+whether it's military conflict, nuclear war, you know, all
+
+733
+00:39:54.149 --> 00:39:57.500
+of these other things. Clearly bad decision making, human
+
+734
+00:39:57.500 --> 00:40:00.260
+error, fallibility and so on, are playing an important
+
+735
+00:40:00.260 --> 00:40:03.179
+role within them. So why don't we just subsume
+
+736
+00:40:03.179 --> 00:40:06.020
+all of those factors which cause human error and
+
+737
+00:40:06.020 --> 00:40:09.939
+fallibility under this general term misinformation and disinformation, and
+
+738
+00:40:09.939 --> 00:40:13.260
+then we can say misinformation and disinformation are the
+
+739
+00:40:13.260 --> 00:40:16.979
+most significant risk inasmuch as they're implicated in all
+
+740
+00:40:16.979 --> 00:40:19.810
+of these other risks. But I think one problem
+
+741
+00:40:19.810 --> 00:40:22.489
+with that is, it doesn't really make any analytical
+
+742
+00:40:22.489 --> 00:40:26.129
+sense to bundle together all of the different sources
+
+743
+00:40:26.330 --> 00:40:30.600
+of human error and fallibility as misinformation and disinformation.
+
+744
+00:40:30.770 --> 00:40:35.219
+You're dealing with a vast complex, heterogeneous set of
+
+745
+00:40:35.219 --> 00:40:38.699
+factors which can distort human judgment. That's gonna include
+
+746
+00:40:39.010 --> 00:40:44.530
+human ignorance, human self-interest, self deception, tribalism, etc. Um,
+
+747
+00:40:44.570 --> 00:40:47.129
+IT'S not analytically helpful, I think, to, to bundle
+
+748
+00:40:47.129 --> 00:40:49.169
+all of those very different things together under this
+
+749
+00:40:49.169 --> 00:40:53.120
+sort of general label, misinformation and disinformation. But also,
+
+750
+00:40:53.209 --> 00:40:55.770
+there's absolutely no reason to think, if you're just
+
+751
+00:40:55.770 --> 00:40:58.850
+focusing on the sources of human error, that this
+
+752
+00:40:58.850 --> 00:41:01.929
+is a discrete near term threat. Those sources have
+
+753
+00:41:01.929 --> 00:41:04.889
+always been features of the human condition. They almost
+
+754
+00:41:04.889 --> 00:41:07.250
+certainly always will be features of the human condition.
+
+755
+00:41:07.610 --> 00:41:09.870
+So it's very confused, I think, to sort of,
+
+756
+00:41:10.189 --> 00:41:13.020
+within the next two years, single those out as
+
+757
+00:41:13.020 --> 00:41:16.510
+the most significant risk that humanity confronts. So I
+
+758
+00:41:16.510 --> 00:41:18.989
+think there's a sort of issue here where it's
+
+759
+00:41:18.989 --> 00:41:21.750
+either wrong if you focus on a really discreet
+
+760
+00:41:21.750 --> 00:41:24.070
+phenomenon, which is this sort of clear cut unambiguous
+
+761
+00:41:24.070 --> 00:41:27.949
+forces and fabrications, or it's just so confused, it's
+
+762
+00:41:27.949 --> 00:41:31.270
+not even wrong. It's just an incredibly unhelpful way
+
+763
+00:41:31.270 --> 00:41:34.229
+of framing. What is a genuine problem, which is
+
+764
+00:41:34.229 --> 00:41:37.270
+human error and fallibility, but of course that's always
+
+765
+00:41:37.270 --> 00:41:39.139
+been a problem, there's nothing new about that as
+
+766
+00:41:39.189 --> 00:41:39.750
+as a problem.
+
+767
+00:41:40.939 --> 00:41:45.310
+And how about AI based this information? Do you
+
+768
+00:41:45.310 --> 00:41:48.219
+think it is a legitimate threat or not?
+
+769
+00:41:49.510 --> 00:41:51.739
+I think it's a legitimate threat. Um, I think
+
+770
+00:41:51.739 --> 00:41:54.149
+it's a good thing that lots of people are,
+
+771
+00:41:54.219 --> 00:41:56.669
+are working on it and worrying about it and,
+
+772
+00:41:56.689 --> 00:41:59.739
+and thinking about ways to guard against the sort
+
+773
+00:41:59.739 --> 00:42:04.139
+of the, the negative, potentially negative consequences of artificial
+
+774
+00:42:04.139 --> 00:42:06.919
+intelligence and and how it sort of shapes and,
+
+775
+00:42:06.939 --> 00:42:09.979
+and impacts upon uh the public sphere and the
+
+776
+00:42:09.979 --> 00:42:13.840
+information ecosystem. I mean, I would say there was
+
+777
+00:42:13.840 --> 00:42:17.080
+all of this alarmism about the impact of deep
+
+778
+00:42:17.080 --> 00:42:20.770
+fakes, especially, but not exclusively, um, in terms of
+
+779
+00:42:20.770 --> 00:42:23.560
+the elections of 2024. That includes the election in
+
+780
+00:42:23.560 --> 00:42:26.320
+the United Kingdom, it also includes the US election
+
+781
+00:42:26.320 --> 00:42:28.959
+and many, many other elections around the world. And
+
+782
+00:42:28.959 --> 00:42:31.570
+it really seems to have been the case that
+
+783
+00:42:32.120 --> 00:42:34.949
+deep fake technology did not play a significant role
+
+784
+00:42:34.949 --> 00:42:37.600
+in terms of shifting vote share in these elections.
+
+785
+00:42:38.229 --> 00:42:40.560
+And I think the reason for that is very
+
+786
+00:42:40.560 --> 00:42:42.399
+easy to see, based on these sort of more
+
+787
+00:42:42.399 --> 00:42:45.159
+general things we've discussed in the context of thinking
+
+788
+00:42:45.159 --> 00:42:49.639
+about misinformation and disinformation. You know, clear cut misinformation
+
+789
+00:42:49.639 --> 00:42:52.879
+like deep fakes fall into that general category, in
+
+790
+00:42:52.879 --> 00:42:56.239
+general, isn't particularly widespread or impactful for the reasons
+
+791
+00:42:56.239 --> 00:42:59.040
+that we've discussed. So it's unclear why something like
+
+792
+00:42:59.040 --> 00:43:01.560
+deepfake technology would have really had a big impact
+
+793
+00:43:01.560 --> 00:43:04.649
+there. And then more generally, there's something which we
+
+794
+00:43:04.649 --> 00:43:06.929
+haven't really touched on, but is in the background
+
+795
+00:43:06.929 --> 00:43:10.570
+of this conversation, which is just that human beings
+
+796
+00:43:10.570 --> 00:43:13.489
+are really difficult to influence. When it comes to
+
+797
+00:43:13.489 --> 00:43:16.080
+things like voting intentions, when it comes to things
+
+798
+00:43:16.080 --> 00:43:20.300
+like our political allegiances, our basic intuitions, our basic
+
+799
+00:43:20.300 --> 00:43:27.739
+worldview. Incredibly difficult to manipulate people into holding false
+
+800
+00:43:27.739 --> 00:43:32.429
+beliefs that contradict their pre-existing ideas and attitudes. And
+
+801
+00:43:32.429 --> 00:43:35.260
+that's because of work that's, or, or rather, the
+
+802
+00:43:35.260 --> 00:43:37.419
+reasons for that are reflected in work by people
+
+803
+00:43:37.419 --> 00:43:40.139
+like Dan Sperber and Hugo Mercier that you've obviously
+
+804
+00:43:40.139 --> 00:43:42.939
+had on the podcast before on epistemic vigilance. You
+
+805
+00:43:42.939 --> 00:43:45.020
+know, it it wouldn't have made sense for human
+
+806
+00:43:45.020 --> 00:43:49.239
+beings to have evolved to be gullible. Instead, we've
+
+807
+00:43:49.239 --> 00:43:52.760
+evolved a whole set of both cognitive defenses against
+
+808
+00:43:52.760 --> 00:43:56.320
+manipulation and misinformation. And also we developed sort of
+
+809
+00:43:56.320 --> 00:43:59.629
+social and institutional mechanisms to guard against those things
+
+810
+00:43:59.840 --> 00:44:03.439
+as well. Um, AND so, given that, a lot
+
+811
+00:44:03.439 --> 00:44:06.919
+of the alarmism about AI based disinformation didn't really
+
+812
+00:44:06.919 --> 00:44:10.239
+take that into consideration. It it reflected this kind
+
+813
+00:44:10.239 --> 00:44:13.280
+of view that many people have, which is that
+
+814
+00:44:13.280 --> 00:44:16.860
+people, and it's always other people. ARE gullible, they're
+
+815
+00:44:16.860 --> 00:44:19.500
+credulous. They're sort of easy to manipulate by content
+
+816
+00:44:19.500 --> 00:44:21.699
+that turns up in their social media feed. And
+
+817
+00:44:21.699 --> 00:44:23.699
+that's just not true, and it, it's not even
+
+818
+00:44:23.699 --> 00:44:27.379
+true when it comes to really um intense sort
+
+819
+00:44:27.379 --> 00:44:30.260
+of propaganda and advertising campaigns, which have a lot
+
+820
+00:44:30.260 --> 00:44:32.300
+of funding behind them. So it's certainly not going
+
+821
+00:44:32.300 --> 00:44:33.820
+to be true when it comes to, you know,
+
+822
+00:44:33.939 --> 00:44:37.379
+relatively low quality um attempts to, to manipulate the
+
+823
+00:44:37.379 --> 00:44:41.020
+information ecosystem with, with AI. And then there's a
+
+824
+00:44:41.020 --> 00:44:44.139
+final thing which is just that any discussion about
+
+825
+00:44:44.139 --> 00:44:47.709
+AI based disinformation. Insofar as it treats that as
+
+826
+00:44:47.709 --> 00:44:51.510
+this really great societal threat, has to explain why
+
+827
+00:44:51.510 --> 00:44:54.110
+it is that these advances, these sort of developments
+
+828
+00:44:54.110 --> 00:44:59.620
+in AI are going to asymmetrically benefit bad information
+
+829
+00:44:59.790 --> 00:45:02.590
+over good information. Because if not, then it just
+
+830
+00:45:02.590 --> 00:45:04.629
+seems like any consequences it might have in terms
+
+831
+00:45:04.629 --> 00:45:07.389
+of the spread of bad information are gonna be
+
+832
+00:45:07.389 --> 00:45:10.030
+mirrored or even outweighed by the benefits that it's
+
+833
+00:45:10.030 --> 00:45:12.830
+gonna have when it comes to good information. And
+
+834
+00:45:12.830 --> 00:45:14.909
+certainly if I think about my own work, both
+
+835
+00:45:14.909 --> 00:45:17.669
+my sort of published academic research, but also in
+
+836
+00:45:17.669 --> 00:45:20.989
+terms of trying to make like evidence-based contributions to
+
+837
+00:45:20.989 --> 00:45:23.389
+public debate on certain issues, I can't think of
+
+838
+00:45:23.389 --> 00:45:26.030
+a single way in which it's been negatively impacted
+
+839
+00:45:26.030 --> 00:45:28.989
+by AI and I think it's been benefited in
+
+840
+00:45:28.989 --> 00:45:32.389
+many, many ways by advances in generative AI. And
+
+841
+00:45:32.389 --> 00:45:35.459
+I suspect that's true of many people throughout society.
+
+842
+00:45:35.860 --> 00:45:40.709
+Um, ACADEMICS, journalists, um, pundits, commentators who are trying
+
+843
+00:45:40.709 --> 00:45:43.790
+to make sort of good faith, evidence-based contributions to
+
+844
+00:45:43.790 --> 00:45:47.669
+public discourse. So even when it is potentially true
+
+845
+00:45:47.669 --> 00:45:51.389
+that that artificial intelligence might benefit those people who
+
+846
+00:45:51.389 --> 00:45:54.860
+are deliberately trying to spread bad information, it's also,
+
+847
+00:45:54.909 --> 00:45:57.350
+for similar reasons gonna benefit people who are trying
+
+848
+00:45:57.350 --> 00:46:00.739
+to make good faith, evidence-based contributions to public discourse
+
+849
+00:46:00.739 --> 00:46:03.790
+as well. And I haven't really seen any reason
+
+850
+00:46:03.790 --> 00:46:06.679
+to think that it's gonna asymmetrically benefit those bad
+
+851
+00:46:06.679 --> 00:46:08.189
+actors over the good actors.
+
+852
+00:46:09.709 --> 00:46:12.149
+So, how do you think we should deal with
+
+853
+00:46:12.149 --> 00:46:17.360
+misinformation and disinformation then if at least sometimes they
+
+854
+00:46:17.360 --> 00:46:18.479
+can be harmful?
+
+855
+00:46:19.899 --> 00:46:22.229
+I mean, I think it's an incredibly difficult question,
+
+856
+00:46:22.479 --> 00:46:26.159
+and I wouldn't claim to have a particularly good
+
+857
+00:46:26.159 --> 00:46:28.320
+thoughtful answer to it. I think it's helpful to
+
+858
+00:46:28.320 --> 00:46:31.479
+distinguish between what we can do as individuals and
+
+859
+00:46:31.479 --> 00:46:32.639
+what we might try and do at the kind
+
+860
+00:46:32.639 --> 00:46:37.780
+of broader social, political, institutional level. Um, I would
+
+861
+00:46:37.780 --> 00:46:40.860
+say as individuals who are participating in the public
+
+862
+00:46:40.860 --> 00:46:43.939
+sphere and engaging in democratic debate and deliberation and
+
+863
+00:46:43.939 --> 00:46:47.030
+so on. There I think what's really important is
+
+864
+00:46:47.030 --> 00:46:50.790
+things like, you know, modeling intellectual humility, trying to
+
+865
+00:46:50.790 --> 00:46:55.139
+cultivate what psychologists call, you know, active, open-mindedness, being
+
+866
+00:46:55.139 --> 00:46:58.689
+receptive to the possibility that our beliefs and our
+
+867
+00:46:58.689 --> 00:47:02.070
+contributions to public discourse might be mistaken. Here I
+
+868
+00:47:02.070 --> 00:47:04.550
+think the research of people like Philip Tetlock on
+
+869
+00:47:04.550 --> 00:47:09.340
+those characteristics which are conducive to high quality forecasting,
+
+870
+00:47:09.590 --> 00:47:11.750
+which tend to be characteristics very, very different from
+
+871
+00:47:11.750 --> 00:47:13.510
+those that prevail in sort of public debate and
+
+872
+00:47:13.510 --> 00:47:17.489
+deliberation. Things like intellectual humility, this act of open-mindedness,
+
+873
+00:47:17.870 --> 00:47:21.739
+that's really important. Um, AT the social institutional level,
+
+874
+00:47:21.870 --> 00:47:25.949
+my sense is the standard response which many people
+
+875
+00:47:25.949 --> 00:47:29.370
+endorse, which is, if there's bad information, we just
+
+876
+00:47:29.370 --> 00:47:31.310
+need to censor it, either in terms of hard
+
+877
+00:47:31.310 --> 00:47:34.350
+censorship or in terms of subtler sort of content
+
+878
+00:47:34.350 --> 00:47:39.229
+moderation policies. I think that has been, maybe not
+
+879
+00:47:39.229 --> 00:47:42.340
+a disaster, but an overall negative in terms of
+
+880
+00:47:42.340 --> 00:47:46.260
+that, that strategy so far. Um, PARTLY because a
+
+881
+00:47:46.260 --> 00:47:48.979
+lot of that is based on ideas which exaggerate
+
+882
+00:47:48.979 --> 00:47:51.659
+the impact of this misinformation and disinformation to begin
+
+883
+00:47:51.659 --> 00:47:55.179
+with. Partly it's because of reasons we've discussed to
+
+884
+00:47:55.179 --> 00:47:57.860
+do with achieving a high degree of objectivity when
+
+885
+00:47:57.860 --> 00:48:00.820
+it comes to classifying things like misinformation, because you're
+
+886
+00:48:00.820 --> 00:48:04.040
+never gonna get infallibility, there are gonna be mistakes.
+
+887
+00:48:04.139 --> 00:48:08.070
+And if you get censorship wrong and you accidentally
+
+888
+00:48:08.070 --> 00:48:10.860
+or deliberately, but I think it's normally inadvertent. If
+
+889
+00:48:10.860 --> 00:48:14.419
+you censor content which is legitimate or reasonable, as
+
+890
+00:48:14.419 --> 00:48:17.530
+has happened, I think, several times over recent years,
+
+891
+00:48:17.780 --> 00:48:21.260
+that can create a massive backlash against elites and
+
+892
+00:48:21.260 --> 00:48:25.919
+establishment institutions. Um, AND more generally, I think it
+
+893
+00:48:25.919 --> 00:48:30.520
+tends to exacerbate the very things like institutional distrust
+
+894
+00:48:30.850 --> 00:48:35.810
+and political polarization, which really um cause many of
+
+895
+00:48:35.810 --> 00:48:39.780
+the issues surrounding misinformation. That people are concerned with,
+
+896
+00:48:39.860 --> 00:48:43.139
+to begin with. If you know, those people who
+
+897
+00:48:43.139 --> 00:48:48.939
+distrust establishment institutions, they view these institutions as clamping
+
+898
+00:48:48.939 --> 00:48:52.219
+down on dissent from establishment narratives, that's likely to
+
+899
+00:48:52.219 --> 00:48:55.060
+aggravate the distrust, which is driving them towards counter
+
+900
+00:48:55.060 --> 00:48:58.300
+establishment and often misinformative content to begin with. So
+
+901
+00:48:58.300 --> 00:49:01.540
+I don't think censorship is the answer, um, either
+
+902
+00:49:01.540 --> 00:49:03.280
+in terms of hard censorship or for the most
+
+903
+00:49:03.280 --> 00:49:06.060
+part in terms of subtle sort of subtler forms
+
+904
+00:49:06.060 --> 00:49:08.939
+of censorship, like, like content moderation. I think the
+
+905
+00:49:08.939 --> 00:49:14.139
+most important thing ultimately is. In complex societies like
+
+906
+00:49:14.139 --> 00:49:16.899
+the ones we inhabit today, we do depend upon
+
+907
+00:49:16.899 --> 00:49:20.540
+experts, and we depend upon well functioning institutions, norms
+
+908
+00:49:20.540 --> 00:49:24.780
+of professional journalism within media, we depend upon effective
+
+909
+00:49:24.780 --> 00:49:27.820
+public health authorities, we depend upon scientific research and
+
+910
+00:49:27.820 --> 00:49:31.010
+so on and so forth. And a large part
+
+911
+00:49:31.010 --> 00:49:34.100
+of trying to build trust in those institutions, which
+
+912
+00:49:34.100 --> 00:49:36.699
+is absolutely essential, I think it's just trying to
+
+913
+00:49:36.699 --> 00:49:40.850
+make those institutions more trustworthy, to trying to invest
+
+914
+00:49:40.850 --> 00:49:44.340
+in making sure that they're not overly politicized, that
+
+915
+00:49:44.340 --> 00:49:48.750
+there's a significant diversity of perspectives within them. To
+
+916
+00:49:48.750 --> 00:49:50.669
+make sure that all of the sorts of factors
+
+917
+00:49:50.669 --> 00:49:53.909
+that drive things like the replication crisis or the
+
+918
+00:49:53.909 --> 00:49:57.429
+excessive communication of certainty that you often get from
+
+919
+00:49:57.429 --> 00:49:59.550
+public health authorities and so on, to make sure
+
+920
+00:49:59.550 --> 00:50:02.139
+that that stuff gets sort of stamped out. So
+
+921
+00:50:02.139 --> 00:50:05.820
+building institutional trust by I think making these institutions
+
+922
+00:50:06.070 --> 00:50:08.989
+more trustworthy is really important. And then I definitely
+
+923
+00:50:08.989 --> 00:50:10.949
+do think there is a place for, you know,
+
+924
+00:50:11.110 --> 00:50:14.850
+public information campaigns, you know, in cases where. We
+
+925
+00:50:14.850 --> 00:50:17.409
+can have a high degree of confidence that a
+
+926
+00:50:17.409 --> 00:50:20.580
+certain position is true. So for example, on vaccines.
+
+927
+00:50:20.729 --> 00:50:22.719
+I think it really is important to try to
+
+928
+00:50:23.050 --> 00:50:27.810
+um disseminate that research, disseminate those ideas with the
+
+929
+00:50:27.810 --> 00:50:29.959
+goal of trying to persuade audiences, because I think
+
+930
+00:50:30.280 --> 00:50:32.810
+even though people aren't gullible, even though they're not
+
+931
+00:50:32.810 --> 00:50:35.449
+easy to influence, they are still rational and people
+
+932
+00:50:35.449 --> 00:50:37.889
+do respond to persuasion. So I think those sorts
+
+933
+00:50:37.889 --> 00:50:40.540
+of public information campaigns are really important, but I
+
+934
+00:50:40.540 --> 00:50:43.620
+think in and of themselves, without addressing these other
+
+935
+00:50:43.620 --> 00:50:47.219
+sorts of issues like institutional distrust and and intense
+
+936
+00:50:47.580 --> 00:50:50.300
+political polarization and sectarianism and so on, I don't
+
+937
+00:50:50.300 --> 00:50:52.060
+think on their own they're gonna get that far.
+
+938
+00:50:53.500 --> 00:50:56.919
+So one last question then, earlier we talked about
+
+939
+00:50:56.919 --> 00:51:02.479
+misinformation experts. How about fact checkers themselves? Can we
+
+940
+00:51:02.479 --> 00:51:04.760
+trust them because at least they seem to have
+
+941
+00:51:04.760 --> 00:51:06.429
+a good track record, right?
+
+942
+00:51:07.790 --> 00:51:10.270
+Um, I mean, it's difficult to know whether they've
+
+943
+00:51:10.270 --> 00:51:12.389
+got a good track record, I guess. There there's
+
+944
+00:51:12.389 --> 00:51:14.949
+always this sort of deep methodological issue of how
+
+945
+00:51:14.949 --> 00:51:17.989
+you evaluate the reliability of fact checkers. The really
+
+946
+00:51:17.989 --> 00:51:21.780
+annoying slogan, who fact checks the fact checkers, um,
+
+947
+00:51:21.790 --> 00:51:24.629
+gets to something important, which is, it's really difficult
+
+948
+00:51:24.629 --> 00:51:27.820
+to systematically evaluate the degree to which fact checkers
+
+949
+00:51:28.189 --> 00:51:31.070
+claims correspond to reality, because if you were in
+
+950
+00:51:31.070 --> 00:51:32.469
+a position to do that, you wouldn't need the
+
+951
+00:51:32.469 --> 00:51:34.989
+fact checkers to begin with. Typically the way in
+
+952
+00:51:34.989 --> 00:51:38.949
+which their reliability gets evaluated is not by checking
+
+953
+00:51:38.949 --> 00:51:41.669
+for correspondence, but, but by checking for agreement between
+
+954
+00:51:41.669 --> 00:51:44.459
+different fact-checking organizations. And when you do that, you
+
+955
+00:51:44.459 --> 00:51:46.870
+do tend to find that there's a fairly high
+
+956
+00:51:46.870 --> 00:51:51.229
+degree of agreement between different fact-checking organizations, especially when
+
+957
+00:51:51.229 --> 00:51:54.629
+it comes to highly confident judgments, for example, a
+
+958
+00:51:54.629 --> 00:51:56.979
+news story is false or that a news story
+
+959
+00:51:56.979 --> 00:51:59.739
+is, is true. And I think that's, you know,
+
+960
+00:51:59.939 --> 00:52:03.060
+relatively compelling evidence that for the most part, on
+
+961
+00:52:03.060 --> 00:52:05.899
+many issues, they are quite reliable, although of course
+
+962
+00:52:05.899 --> 00:52:07.530
+you might be able to tell a story where
+
+963
+00:52:07.820 --> 00:52:10.699
+the explanation of that agreement is not correspondence, it's
+
+964
+00:52:10.699 --> 00:52:12.899
+some other sorts of factors. But I think at
+
+965
+00:52:12.899 --> 00:52:14.580
+least when it comes to these sort of factual
+
+966
+00:52:14.580 --> 00:52:17.300
+matters, my own view is they do tend to
+
+967
+00:52:17.300 --> 00:52:20.330
+be fairly reliable. It's just that I think there's
+
+968
+00:52:20.330 --> 00:52:23.810
+only so much that fact checking, whether it's internal
+
+969
+00:52:23.810 --> 00:52:26.479
+to the news reporting of organizations, because of course,
+
+970
+00:52:26.919 --> 00:52:28.129
+lots of people don't know this, but if you
+
+971
+00:52:28.129 --> 00:52:30.850
+publish something through the BBC or The New York
+
+972
+00:52:30.850 --> 00:52:34.000
+Times, it goes through an extensive internal fact-checking procedure,
+
+973
+00:52:34.209 --> 00:52:36.850
+or in terms of these external sort of fact-checking
+
+974
+00:52:36.850 --> 00:52:39.370
+organizations, which fact check the, the reporting of other
+
+975
+00:52:39.370 --> 00:52:42.330
+news media. Um, THERE'S only so much I think
+
+976
+00:52:42.330 --> 00:52:44.959
+that that kind of work can achieve. So I
+
+977
+00:52:44.959 --> 00:52:48.050
+think. You know, there's good reason to believe, for
+
+978
+00:52:48.050 --> 00:52:50.209
+reasons I mentioned in terms of the importance of
+
+979
+00:52:50.209 --> 00:52:54.120
+public information campaigns, that that can have positive consequences.
+
+980
+00:52:54.530 --> 00:52:57.649
+At least if, you know, the fact checking industry
+
+981
+00:52:57.649 --> 00:53:00.929
+is not viewed as overly partisan. Unfortunately in some
+
+982
+00:53:00.929 --> 00:53:04.250
+countries it is for complex reasons. But I, I,
+
+983
+00:53:04.330 --> 00:53:07.050
+I do think it can have positive consequences, but.
+
+984
+00:53:07.750 --> 00:53:12.179
+Precisely because many of these epistemic issues of people
+
+985
+00:53:12.179 --> 00:53:16.409
+endorsing conspiracy theories, misperceptions, institutional distrust, and so on,
+
+986
+00:53:16.860 --> 00:53:20.739
+because they're very deep rooted in society, there's only
+
+987
+00:53:20.739 --> 00:53:21.860
+so much I think that you're gonna be able
+
+988
+00:53:21.860 --> 00:53:24.550
+to achieve with fact checking. Um, SO it's, I,
+
+989
+00:53:24.620 --> 00:53:26.330
+I don't want to be completely dismissive of it,
+
+990
+00:53:26.439 --> 00:53:29.909
+I think. Overall, I would say my own sense
+
+991
+00:53:29.909 --> 00:53:32.030
+is that they tend to be pretty reliable and
+
+992
+00:53:32.030 --> 00:53:34.659
+have positive consequences, although I think it's difficult to
+
+993
+00:53:34.659 --> 00:53:37.469
+establish that with certainty. Um, BUT just as we
+
+994
+00:53:37.469 --> 00:53:40.629
+shouldn't be sort of dismissive, I also think there's
+
+995
+00:53:40.629 --> 00:53:42.550
+a lot of faith which is put into the
+
+996
+00:53:42.550 --> 00:53:44.709
+idea that if you just show people the facts,
+
+997
+00:53:44.909 --> 00:53:46.870
+that's gonna be a magic cure for many of
+
+998
+00:53:46.870 --> 00:53:49.669
+these sort of epistemological problems in society. And I
+
+999
+00:53:49.669 --> 00:53:52.260
+think if you really understand what's driving these problems,
+
+1000
+00:53:52.510 --> 00:53:55.629
+it becomes clear pretty quickly that that's unlikely to
+
+1001
+00:53:55.629 --> 00:53:56.899
+make that much difference.
+
+1002
+00:53:58.300 --> 00:54:01.300
+Great, so just before we go, where can people
+
+1003
+00:54:01.300 --> 00:54:03.649
+find you when you work on the internet?
+
+1004
+00:54:04.459 --> 00:54:06.739
+I have a blog, Conspicuous cognition, so you can
+
+1005
+00:54:06.739 --> 00:54:09.179
+just search that. um, YOU can also just put
+
+1006
+00:54:09.179 --> 00:54:12.860
+in Dan Williams' philosophy into Google and if you
+
+1007
+00:54:12.860 --> 00:54:14.379
+do that, you can go to my website and
+
+1008
+00:54:14.379 --> 00:54:16.409
+you'll find a list of my published research.
+
+1009
+00:54:17.550 --> 00:54:20.280
+Great. So, Doctor Williams, thank you so much for
+
+1010
+00:54:20.280 --> 00:54:21.909
+taking the time to come on the show again.
+
+1011
+00:54:21.989 --> 00:54:24.350
+It's always a pleasure to talk with you. Thanks,
+
+1012
+00:54:24.429 --> 00:54:25.229
+Ricardo. Cheers.
+
+1013
+00:54:26.570 --> 00:54:29.060
+Hi guys, thank you for watching this interview until
+
+1014
+00:54:29.060 --> 00:54:31.239
+the end. If you liked it, please share it,
+
+1015
+00:54:31.409 --> 00:54:34.199
+leave a like and hit the subscription button. The
+
+1016
+00:54:34.199 --> 00:54:36.399
+show is brought to you by Nights Learning and
+
+1017
+00:54:36.399 --> 00:54:40.479
+Development done differently, check their website at Nights.com and
+
+1018
+00:54:40.479 --> 00:54:44.199
+also please consider supporting the show on Patreon or
+
+1019
+00:54:44.199 --> 00:54:46.679
+PayPal. I would also like to give a huge
+
+1020
+00:54:46.679 --> 00:54:49.790
+thank you to my main patrons and PayPal supporters
+
+1021
+00:54:49.790 --> 00:54:54.010
+Perergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyches Olaf,
+
+1022
+00:54:54.120 --> 00:54:57.840
+Alexandam Castle, Matthew Whitting Berarna Wolf, Tim Hollis, Erika
+
+1023
+00:54:57.840 --> 00:55:01.459
+Lenny, John Connors, Philip Fors Connolly. Then themetri Robert
+
+1024
+00:55:01.459 --> 00:55:06.300
+Windegaruyasi Zup Mark Neevs called Holbrookfield governor Michael Stormir,
+
+1025
+00:55:06.419 --> 00:55:10.659
+Samuel Andrea, Francis Forti Agnunseroro and Hal Herzognun Macha
+
+1026
+00:55:10.659 --> 00:55:14.139
+Jonathan Labrant Ju Jasent and the Samuel Corriere, Heinz,
+
+1027
+00:55:14.179 --> 00:55:17.830
+Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan
+
+1028
+00:55:17.830 --> 00:55:22.620
+Wilson, Asila dearauujoro and Roach Diego Londonorea. Yannick Punter
+
+1029
+00:55:22.620 --> 00:55:28.139
+Darusmani Charlotte blinikolbar Adamhn Pavlostaevsky nale back medicine, Gary
+
+1030
+00:55:28.139 --> 00:55:32.389
+Galman Sam of Zallidrianei Poultonin John Barboza, Julian Price,
+
+1031
+00:55:32.699 --> 00:55:37.139
+Edward Hall Edin Bronner, Douglas Fry, Franco Bartolotti Gabrielon
+
+1032
+00:55:37.139 --> 00:55:42.929
+Corteseus Slelitsky, Scott Zacharyishim Duffyani Smith John Wieman. Daniel
+
+1033
+00:55:42.929 --> 00:55:47.489
+Friedman, William Buckner, Paul Georgianeau, Luke Lovai Giorgio Theophanous,
+
+1034
+00:55:47.610 --> 00:55:52.649
+Chris Williamson, Peter Vozin, David Williams, Diocosta, Anton Eriksson,
+
+1035
+00:55:52.810 --> 00:55:57.370
+Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow
+
+1036
+00:55:57.370 --> 00:56:02.209
+atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael
+
+1037
+00:56:02.209 --> 00:56:06.570
+Bailey, then Sperber, Robert Grayigoren, Jeff McMann, Jake Zu,
+
+1038
+00:56:07.010 --> 00:56:10.919
+Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris
+
+1039
+00:56:10.919 --> 00:56:15.370
+Storry, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brandon,
+
+1040
+00:56:15.449 --> 00:56:21.709
+Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis,
+
+1041
+00:56:21.780 --> 00:56:27.959
+Kate van Goller, Alexander Hubbert, Liam Dunaway, BR Masoud
+
+1042
+00:56:27.959 --> 00:56:33.399
+Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings,
+
+1043
+00:56:33.520 --> 00:56:37.969
+David Pinsoff Sean Nelson, Mike Levine, and Jos Net.
+
+1044
+00:56:38.300 --> 00:56:40.620
+A special thanks to my producers. These are Webb,
+
+1045
+00:56:40.820 --> 00:56:44.939
+Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon,
+
+1046
+00:56:45.030 --> 00:56:48.739
+Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian
+
+1047
+00:56:48.739 --> 00:56:51.860
+Carlo Montenegroal Ni Cortiz and Nick Golden, and to
+
+1048
+00:56:51.860 --> 00:56:55.979
+my executive producers, Matthew Levender, Sergio Quadrian, Bogdan Kanivets,
+
+1049
+00:56:55.989 --> 00:56:57.570
+and Rosie. Thank you for all.
+

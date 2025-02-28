@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1065 Daniel Williams: Is the Science of Misinformation Reliable?",
-	"youtubeid": "tVdlqbNfYFk"
+	"vtt": "1065.vtt",
+	"youtubeid": "tVdlqbNfYFk",
+	"transcript": "1065.lines.json"
 }
 ---
 RECORDED ON DECEMBER 20th 2024.  
