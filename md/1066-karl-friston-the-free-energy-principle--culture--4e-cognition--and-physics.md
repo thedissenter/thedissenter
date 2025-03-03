@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1066 Karl Friston: The Free Energy Principle, Culture, 4E Cognition, and Physics",
-	"youtubeid": "5SakgSepQOU"
+	"vtt": "1066.vtt",
+	"youtubeid": "5SakgSepQOU",
+	"transcript": "1066.lines.json"
 }
 ---
 RECORDED ON DECEMBER 18th 2024.  
