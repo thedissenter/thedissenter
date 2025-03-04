@@ -5,6 +5,7 @@
 	"episodeid": "1066",
 	"excerpt": "Dr. Karl Friston is Professor of Imaging Neuroscience and Wellcome Principal Research Fellow of Imaging Neuroscience at University College London. Dr. Friston is a theoretical neuroscientist and authority on brain imaging. He invented statistical parametric mapping (SPM), voxel-based morphometry (VBM) and dynamic causal modelling (DCM). His main contribution to theoretical neurobiology is a free-energy principle for action and perception. He is the author of several books, including Active Inference: The Free Energy Principle in Mind, Brain, and Behavior.",
 	"image": "https://i.ytimg.com/vi/5SakgSepQOU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1066-karl-friston-the-free-energy-principle-culture/id1451347236?i=1000697468392&uo=4",
 	"publishDate": 2025-03-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1066-Karl-Friston-The-Free-Energy-Principle--Culture--4E-Cognition--and-Physics-e2sgc3u",
 	"tags": [
