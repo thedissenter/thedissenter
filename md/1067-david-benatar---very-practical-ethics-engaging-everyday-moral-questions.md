@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/96555776/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-0-3%2F9b6ae333-3748-12eb-85ca-7a04ee9ac272.m4a",
 	"draft": false,
 	"episodeid": "1067",
 	"excerpt": "Dr. David Benatar is Emeritus Professor of Philosophy at the University of Cape Town in Cape Town, South Africa. He is best known for his advocacy of anti-natalism in his book Better Never to Have Been: The Harm of Coming into Existence, in which he argues that coming into existence is a serious harm, regardless of the feelings of the existing being once brought into existence, and that, as a consequence, it is always morally wrong to create more sentient beings. His latest book is Very Practical Ethics: Engaging Everyday Moral Questions.",
 	"image": "https://i.ytimg.com/vi/vO48HML0gO0/maxresdefault.jpg",
 	"publishDate": 2025-03-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1067-David-Benatar---Very-Practical-Ethics-Engaging-Everyday-Moral-Questions-e2t15a0",
 	"tags": [
 		"Philosophy"
 	],
