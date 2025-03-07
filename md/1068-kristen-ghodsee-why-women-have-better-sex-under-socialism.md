@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1068 Kristen Ghodsee: Why Women Have Better Sex Under Socialism",
-	"youtubeid": "eR45fpNK72Q"
+	"vtt": "1068.vtt",
+	"youtubeid": "eR45fpNK72Q",
+	"transcript": "1068.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 6th 2025.  
