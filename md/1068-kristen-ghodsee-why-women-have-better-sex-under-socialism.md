@@ -5,6 +5,7 @@
 	"episodeid": "1068",
 	"excerpt": "Dr. Kristen Ghodsee is an award-winning author and professor and chair of Russian and East European Studies at the University of Pennsylvania. She also serves as a member on the graduate groups of Anthropology and Comparative Literature. Dr. Ghodsee’s articles and essays have been translated into over twenty-five languages and have appeared in publications such as Dissent, Foreign Affairs, Jacobin, The Baffler, The New Republic, Quartz, NBC Think, The Lancet, Project Syndicate, Le Monde Diplomatique, Die Tageszeitung, The Washington Post, and the New York Times. She is the author of 12 books, including Why Women Have Better Sex Under Socialism: And Other Arguments for Economic Independence.",
 	"image": "https://i.ytimg.com/vi/eR45fpNK72Q/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1068-kristen-ghodsee-why-women-have-better-sex-under/id1451347236?i=1000698301865&uo=4",
 	"publishDate": 2025-03-07,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1068-Kristen-Ghodsee-Why-Women-Have-Better-Sex-Under-Socialism-e2uh5hu",
 	"tags": [
