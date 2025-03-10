@@ -5,13 +5,16 @@
 	"episodeid": "1069",
 	"excerpt": "Dr. Todd May is Professor of Philosophy at Warren Wilson College. He is a political philosopher who writes on topics of anarchism, poststructuralism, and post-structuralist anarchism. He is the author of eighteen books of philosophy, most recently Should We Go Extinct?:  A Philosophical Dilemma for Our Unbearable Times.",
 	"image": "https://i.ytimg.com/vi/bOYdNevgCtg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1069-todd-may-should-we-go-extinct/id1451347236?i=1000698635372&uo=4",
 	"publishDate": 2025-03-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1069-Todd-May-Should-We-Go-Extinct-e2t93rn",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1069 Todd May: Should We Go Extinct?",
-	"youtubeid": "bOYdNevgCtg"
+	"vtt": "1069.vtt",
+	"youtubeid": "bOYdNevgCtg",
+	"transcript": "1069.lines.json"
 }
 ---
 RECORDED ON JANUARY 9th 2025.  
