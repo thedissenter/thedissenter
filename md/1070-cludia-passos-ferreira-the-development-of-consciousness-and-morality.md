@@ -5,13 +5,16 @@
 	"episodeid": "1070",
 	"excerpt": "Dr. Cláudia Passos Ferreira is an Assistant Professor of Bioethics at New York University. Dr. Passos Ferreira has published on philosophy, psychology, and neuroethics.  She has collaborated in cross-cultural research on moral development and social cognition (on topics such as empathy, fairness, ownership, intersubjectivity). Her current research program focuses on the development of consciousness, including what theories of consciousness say about infant consciousness and machine consciousness, and how these theories shed light on ethical issues. ",
 	"image": "https://i.ytimg.com/vi/mMzuDx1ind0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1070-cl%C3%A1udia-passos-ferreira-the-development/id1451347236?i=1000699081138&uo=4",
 	"publishDate": 2025-03-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1070-Cludia-Passos-Ferreira-The-Development-of-Consciousness-and-Morality-e2t55d8",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1070 Cláudia Passos Ferreira: The Development of Consciousness and Morality",
-	"youtubeid": "mMzuDx1ind0"
+	"vtt": "1070.vtt",
+	"youtubeid": "mMzuDx1ind0",
+	"transcript": "1070.lines.json"
 }
 ---
 RECORDED ON JANUARY 6th 2025.  
