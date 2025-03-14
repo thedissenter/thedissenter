@@ -5,13 +5,16 @@
 	"episodeid": "1071",
 	"excerpt": "Dr. Marina Garcia-Granero is an Assistant Professor of Moral Philosophy at the University of Valencia. She is a former postdoc from the Institute of Philosophy at KU Leuven in Belgium, where she worked in 2022 as an Associate Member of the ERC Project “Homo Mimeticus.” She has recently co-edited, along with Nidesh Lawtoo, a collective volume titled \"Homo Mimeticus II: Re-Turns to Mimesis\" (Leuven University Press, 2024). She is a Nietzsche scholar currently working on nihilism and teaches ethics and feminist philosophy. She is a member of multiple Nietzsche societies, including the Friedrich Nietzsche Society (United Kingdom), the HyperNietzsche International Research Group, and the Spanish Society for Nietzsche Studies (SEDEN).",
 	"image": "https://i.ytimg.com/vi/GgkZlxM0rdE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1071-marina-garc%C3%ADa-granero-nietzsche-the-genealogical/id1451347236?i=1000699218178&uo=4",
 	"publishDate": 2025-03-14,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1071-Marina-Garca-Granero-Nietzsche--the-Genealogical-Method--the-Death-of-God--and-Nihilism-e2ten0r",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1071 Marina García-Granero: Nietzsche, the Genealogical Method, the Death of God, and Nihilism",
-	"youtubeid": "GgkZlxM0rdE"
+	"vtt": "1071.vtt",
+	"youtubeid": "GgkZlxM0rdE",
+	"transcript": "1071.lines.json"
 }
 ---
 RECORDED ON JANUARY 13th 2025.  
