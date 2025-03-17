@@ -11,7 +11,9 @@
 		"Psychology"
 	],
 	"title": "#1072 Steven Heine: How Existential Psychology Can Help Us Build Meaningful Lives in Absurd Times",
-	"youtubeid": "oQj1VpqU1kQ"
+	"vtt": "1072.vtt",
+	"youtubeid": "oQj1VpqU1kQ",
+	"transcript": "1072.lines.json"
 }
 ---
 ******Support the channel******  
