@@ -5,6 +5,7 @@
 	"episodeid": "1072",
 	"excerpt": "******Support the channel******  ",
 	"image": "https://i.ytimg.com/vi/oQj1VpqU1kQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1072-steven-heine-how-existential-psychology-can-help/id1451347236?i=1000699549796&uo=4",
 	"publishDate": 2025-03-17,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1072-Steven-Heine-How-Existential-Psychology-Can-Help-Us-Build-Meaningful-Lives-in-Absurd-Times-e2tht6r",
 	"tags": [
