@@ -5,6 +5,7 @@
 	"episodeid": "1073",
 	"excerpt": "Dr. David Wolpert is a Professor at the Santa Fe Institute, external professor at the Complexity Science Hub in Vienna, adjunct professor at ASU, and research associate at the ICTP in Trieste. He has over 30,000 citations, with most of his papers in thermodynamics of computation, foundations of physics, dynamics of social organizations, machine learning, game theory, and distributed optimization / control.",
 	"image": "https://i.ytimg.com/vi/c_weE-m01UU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1073-david-wolpert-history-as-a-stochastic-process/id1451347236?i=1000700165971&uo=4",
 	"publishDate": 2025-03-20,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1073-David-Wolpert-History-as-a-Stochastic-Process-e2tocl5",
 	"tags": [
@@ -12,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1073 David Wolpert: History as a Stochastic Process",
-	"youtubeid": "c_weE-m01UU"
+	"vtt": "1073.vtt",
+	"youtubeid": "c_weE-m01UU",
+	"transcript": "1073.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 25th 2024.  
