@@ -1,0 +1,4314 @@
+WEBVTT
+
+1
+00:00:00.400 --> 00:00:03.099
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.099 --> 00:00:05.909
+Dissenter. I'm your host, as always, Ricardo Lops, and
+
+3
+00:00:05.909 --> 00:00:08.630
+today I'm joined by Doctor Kevin La. He is
+
+4
+00:00:08.630 --> 00:00:11.939
+professor of behavioral and evolutionary biology at the University
+
+5
+00:00:11.939 --> 00:00:14.989
+of Saint Andrews in Scotland. He's the author of
+
+6
+00:00:14.989 --> 00:00:17.510
+several books, and today we're going to focus on
+
+7
+00:00:17.829 --> 00:00:22.270
+his latest one evolution involving the developmental origins of
+
+8
+00:00:22.270 --> 00:00:26.510
+adaptation and biodiversity. So, Doctor Lala, welcome to the
+
+9
+00:00:26.510 --> 00:00:27.709
+show. It's a pleasure to everyone.
+
+10
+00:00:28.620 --> 00:00:31.500
+Thank you very much, Ricardo. I appreciate your interest.
+
+11
+00:00:32.860 --> 00:00:37.330
+So, just to introduce the topic here, in biology,
+
+12
+00:00:37.740 --> 00:00:42.220
+when looking for explanations for the existence of particular
+
+13
+00:00:42.220 --> 00:00:46.299
+kinds of traits, what, what kinds of, what different
+
+14
+00:00:46.299 --> 00:00:50.580
+kinds of explanations can we find in different subfields
+
+15
+00:00:50.580 --> 00:00:52.459
+of evolutionary biology?
+
+16
+00:00:54.069 --> 00:00:57.490
+Well, um, There are a number of different questions
+
+17
+00:00:57.490 --> 00:01:01.569
+one can ask about a trait. Um, YOU could
+
+18
+00:01:01.569 --> 00:01:04.129
+ask what is its adaptive function. That's the kind
+
+19
+00:01:04.129 --> 00:01:07.839
+of question that a um behavioral ecologist might ask,
+
+20
+00:01:07.889 --> 00:01:10.889
+for instance. We might uh focus in on a
+
+21
+00:01:10.889 --> 00:01:13.319
+particular trait. We use the example in the book
+
+22
+00:01:13.319 --> 00:01:15.970
+of the turtle shell. Where did the turtle get
+
+23
+00:01:15.970 --> 00:01:18.830
+its shell? How did it get it? Um, AND
+
+24
+00:01:18.830 --> 00:01:21.830
+to be a ecologist, it'll be asking, well, you
+
+25
+00:01:21.830 --> 00:01:24.500
+know, what does a shell do for the turtle?
+
+26
+00:01:24.910 --> 00:01:27.430
+Uh, AND it's, you know, with a little bit
+
+27
+00:01:27.430 --> 00:01:30.910
+of research, we can establish that it provides the
+
+28
+00:01:30.910 --> 00:01:34.010
+turtle with protection. So we're focusing on, on the
+
+29
+00:01:34.010 --> 00:01:36.629
+adaptive function of the trait, and that can be
+
+30
+00:01:36.629 --> 00:01:38.550
+put to the test in a number of different
+
+31
+00:01:38.550 --> 00:01:43.379
+ways. Um, OTHER researchers in other spheres of biology
+
+32
+00:01:43.379 --> 00:01:47.089
+ask different kinds of questions. Um, DEVELOPMENTAL biologists or
+
+33
+00:01:47.089 --> 00:01:51.139
+even devo researchers would be more interested in the
+
+34
+00:01:51.139 --> 00:01:54.260
+developmental origins of the shell in the case of
+
+35
+00:01:54.260 --> 00:01:57.300
+the, of the turtle. So, so how does the
+
+36
+00:01:57.300 --> 00:02:01.069
+trait develop over time in the, in the focal
+
+37
+00:02:01.069 --> 00:02:04.230
+organism? And in, in this case, you've got the
+
+38
+00:02:04.559 --> 00:02:08.000
+Um, you know, the, the, the ribs effectively spreading
+
+39
+00:02:08.000 --> 00:02:10.619
+out through the skin to create this carrot paste,
+
+40
+00:02:10.660 --> 00:02:13.750
+which, um, you know, provides that protection to the,
+
+41
+00:02:13.960 --> 00:02:17.119
+to the turtle. Um, uh, AND then, you know,
+
+42
+00:02:17.160 --> 00:02:21.639
+you've got. Paleontologists, for instance, who might be asking
+
+43
+00:02:21.639 --> 00:02:25.589
+much more about the history of the evolutionary history
+
+44
+00:02:25.589 --> 00:02:27.960
+of that particular trait, how did it come to
+
+45
+00:02:27.960 --> 00:02:32.869
+be from what did that um trait evolve, um,
+
+46
+00:02:32.880 --> 00:02:35.600
+and it, it, in the example we use in
+
+47
+00:02:35.600 --> 00:02:38.830
+the book, that's quite an interesting question because. In
+
+48
+00:02:38.830 --> 00:02:42.750
+a way, um, you know, paleontologists initially made a
+
+49
+00:02:42.750 --> 00:02:45.149
+sort of wrong term. It was perfectly logical to
+
+50
+00:02:45.149 --> 00:02:48.190
+think this way, but, uh, they thought because, because
+
+51
+00:02:48.190 --> 00:02:51.789
+turtles are closely related to crocodiles, and crocodiles have
+
+52
+00:02:51.789 --> 00:02:56.399
+these sort of scaly, um, covering on their back
+
+53
+00:02:56.399 --> 00:03:01.389
+or ostoderms, that most likely the turtle shell evolved
+
+54
+00:03:01.389 --> 00:03:04.750
+out of osteoderms, and so they anticipated that their
+
+55
+00:03:04.750 --> 00:03:09.130
+ancestor would have these osteoderms. And as a consequence,
+
+56
+00:03:09.210 --> 00:03:12.029
+neglected what turned out to be a critical fossil,
+
+57
+00:03:12.449 --> 00:03:16.410
+um, that lacked these osteoderms, but also actually lacked
+
+58
+00:03:16.410 --> 00:03:18.649
+a carapace. It lacked a shell on the top
+
+59
+00:03:18.649 --> 00:03:21.250
+of its body altogether, but had a shell on
+
+60
+00:03:21.250 --> 00:03:23.289
+the bottom of its body, on its breastplate, a
+
+61
+00:03:23.289 --> 00:03:28.119
+plastron. And, um, you know, when this subsequently, um,
+
+62
+00:03:28.130 --> 00:03:32.000
+came to light and, and the, the true evolutionary
+
+63
+00:03:32.000 --> 00:03:37.449
+history of uh turtles was understood. Then it became
+
+64
+00:03:37.449 --> 00:03:40.800
+clear that the initial function of the shell, uh,
+
+65
+00:03:40.809 --> 00:03:43.070
+was not protection, as the, you know, the behavioral
+
+66
+00:03:43.070 --> 00:03:45.839
+ecologists had sort of inferred from its current function,
+
+67
+00:03:46.089 --> 00:03:48.850
+but as a digging platform for these turtles. And
+
+68
+00:03:48.850 --> 00:03:54.250
+then only subsequently did this carapace evolve to provide
+
+69
+00:03:54.250 --> 00:03:58.169
+protection. And what's, what's quite nice about that, I
+
+70
+00:03:58.169 --> 00:04:01.649
+think, is it illustrates, firstly, how Um, you know,
+
+71
+00:04:01.729 --> 00:04:04.729
+it's, it's healthy to have these different spheres of
+
+72
+00:04:04.729 --> 00:04:07.949
+biology that are asking different kinds of questions and
+
+73
+00:04:07.949 --> 00:04:10.880
+collectively, they give us a, a, a richer understanding
+
+74
+00:04:10.880 --> 00:04:13.460
+of the question, and they can correct each other's
+
+75
+00:04:13.460 --> 00:04:16.380
+errors when those occasionally do occur in the short
+
+76
+00:04:16.380 --> 00:04:19.640
+term. Um, BUT also they encourage us to ask
+
+77
+00:04:19.928 --> 00:04:25.269
+questions that might not otherwise be asked. So, um,
+
+78
+00:04:25.329 --> 00:04:28.070
+you know, we, we, we might think to ourselves,
+
+79
+00:04:29.350 --> 00:04:34.739
+Why did the turtle solve the problem of predation
+
+80
+00:04:34.739 --> 00:04:37.750
+with a shell? Why not have big teeth and
+
+81
+00:04:37.750 --> 00:04:41.390
+fight off predators? Why not run away? And by
+
+82
+00:04:41.390 --> 00:04:44.679
+taking this broader perspective, we can, we can get
+
+83
+00:04:44.679 --> 00:04:48.630
+an answer to that kind of question, um, because
+
+84
+00:04:48.630 --> 00:04:52.440
+it sort of tells us that, well, Uh, initially,
+
+85
+00:04:52.519 --> 00:04:54.799
+they had this plastrum, which was, which was really
+
+86
+00:04:54.799 --> 00:04:57.470
+important for digging, so that kind of prevented growing
+
+87
+00:04:57.470 --> 00:05:00.070
+long legs to run, run away. And once you
+
+88
+00:05:00.070 --> 00:05:03.929
+have that, then it's really easy, uh, developmentally speaking,
+
+89
+00:05:04.000 --> 00:05:07.720
+and, um, in evolutionary terms, to evolve the same
+
+90
+00:05:07.720 --> 00:05:09.959
+structure in the top half of the body, and
+
+91
+00:05:09.959 --> 00:05:12.519
+so you get that, that kind of pace evolving.
+
+92
+00:05:12.920 --> 00:05:16.970
+So, um, you know, multiple perspectives in a science,
+
+93
+00:05:16.980 --> 00:05:18.200
+I think are extremely healthy.
+
+94
+00:05:19.510 --> 00:05:22.510
+So at a certain point there, you mentioned developmental
+
+95
+00:05:22.510 --> 00:05:24.829
+biology. Could you tell us a little, a little
+
+96
+00:05:24.829 --> 00:05:29.019
+bit more about that subfield? What is developmental biology
+
+97
+00:05:29.230 --> 00:05:32.880
+and specifically in what ways does it relate to
+
+98
+00:05:33.109 --> 00:05:34.750
+evolutionary biology?
+
+99
+00:05:35.459 --> 00:05:37.690
+Yeah, I mean, it's a really good question, because
+
+100
+00:05:37.690 --> 00:05:44.630
+historically, there's been a separation of evolutionary and developmental
+
+101
+00:05:44.630 --> 00:05:46.970
+research, and that occurred in the middle, around the
+
+102
+00:05:46.970 --> 00:05:49.130
+middle of the, the, the last century. You go
+
+103
+00:05:49.130 --> 00:05:52.529
+back to Darwin's day, actually, um, Darwin was very
+
+104
+00:05:52.529 --> 00:05:56.609
+interested in, in organisms development and, and used things
+
+105
+00:05:56.609 --> 00:06:00.440
+like the study of embryos to, to provide evidence
+
+106
+00:06:00.440 --> 00:06:05.540
+for evolution. But, um, you know, around the 1920s,
+
+107
+00:06:05.649 --> 00:06:10.260
+1930s, the, the, this separation occurred between these two
+
+108
+00:06:10.260 --> 00:06:13.179
+fields. It, it, it began, I think, with the
+
+109
+00:06:13.179 --> 00:06:19.609
+rediscovery, discovery of um Mendel's rules for inheritance, um,
+
+110
+00:06:19.619 --> 00:06:23.660
+and the integration of that Mendelian inheritance with population
+
+111
+00:06:23.660 --> 00:06:28.269
+genetics thinking, and that led to, uh, a means
+
+112
+00:06:28.269 --> 00:06:32.570
+for studying evolution. Without really paying much attention to
+
+113
+00:06:32.570 --> 00:06:35.730
+development. And I, I suppose that was a very
+
+114
+00:06:35.730 --> 00:06:38.429
+pragmatic line to take at the time. We really
+
+115
+00:06:38.429 --> 00:06:41.579
+didn't know very much about development, and, and it's
+
+116
+00:06:41.579 --> 00:06:45.619
+horrendously complicated. So, um, you know, it's not unreasonable
+
+117
+00:06:45.619 --> 00:06:49.420
+of researchers to have taken that pragmatic line, but
+
+118
+00:06:49.420 --> 00:06:52.540
+oftentimes what happens in science is, you know, we,
+
+119
+00:06:52.720 --> 00:06:57.260
+we make assumptions, and, um, you know, they're made
+
+120
+00:06:57.260 --> 00:07:01.829
+for good, good reasons, but then, you know, as
+
+121
+00:07:02.480 --> 00:07:06.119
+Um, Erasmus Winter, philosopher of biology says the sort
+
+122
+00:07:06.119 --> 00:07:09.079
+of the map becomes the territory. We forget that
+
+123
+00:07:09.079 --> 00:07:10.640
+this is just a model of the world, and
+
+124
+00:07:10.640 --> 00:07:13.429
+it sort of becomes the world, and it becomes
+
+125
+00:07:13.640 --> 00:07:16.920
+almost doctrine that we don't need to know about
+
+126
+00:07:16.920 --> 00:07:20.559
+development. To study evolution. And the argument we make
+
+127
+00:07:20.559 --> 00:07:25.130
+in our book, Evolution Evolving, is that, well, that's
+
+128
+00:07:25.130 --> 00:07:28.089
+true, you can, to some extent understand evolution without
+
+129
+00:07:28.089 --> 00:07:31.290
+taking development into account, but if you do take
+
+130
+00:07:31.290 --> 00:07:34.630
+development into account, then you get a better understanding,
+
+131
+00:07:34.690 --> 00:07:38.410
+you get a richer explanation. Now, I, I guess
+
+132
+00:07:38.410 --> 00:07:41.739
+I've been talking a lot about Development, I should,
+
+133
+00:07:42.019 --> 00:07:44.059
+I should perhaps make clear what I mean by
+
+134
+00:07:44.059 --> 00:07:47.489
+that term because, um, you know, in our book,
+
+135
+00:07:47.500 --> 00:07:50.380
+we, we are, uh, using it in, in quite
+
+136
+00:07:50.380 --> 00:07:53.140
+a broad way and a lot of people think
+
+137
+00:07:53.140 --> 00:07:56.700
+about development in different ways and for some, some
+
+138
+00:07:56.700 --> 00:08:00.820
+people it's, it's all development means, you know, building
+
+139
+00:08:00.820 --> 00:08:04.720
+skyscrapers or, or, you know, raising money. Um, OBVIOUSLY,
+
+140
+00:08:04.799 --> 00:08:08.190
+we're talking about biological development here, but we're also
+
+141
+00:08:08.519 --> 00:08:12.160
+thinking very broad terms from, from conception, everything that
+
+142
+00:08:12.160 --> 00:08:14.859
+happens from conception all the way through to death,
+
+143
+00:08:15.160 --> 00:08:18.119
+the whole of ontology, in other words. So when
+
+144
+00:08:18.119 --> 00:08:20.359
+I use the term development, and when we use
+
+145
+00:08:20.359 --> 00:08:22.920
+it in the book, we're talking about things like
+
+146
+00:08:22.920 --> 00:08:26.359
+what happens to an adult, how adults behave, how
+
+147
+00:08:26.359 --> 00:08:31.410
+they learn, their, their culture, their Developmental plasticity, all
+
+148
+00:08:31.410 --> 00:08:34.690
+of those kind of things are important in evolution.
+
+149
+00:08:34.729 --> 00:08:35.729
+That's the argument I make.
+
+150
+00:08:37.549 --> 00:08:39.859
+So, uh, at a certain point in the book,
+
+151
+00:08:39.898 --> 00:08:44.739
+you talk about 5 principles of development. Development is
+
+152
+00:08:44.739 --> 00:08:49.299
+modular, development is epigenetic, development is constructive. Then you
+
+153
+00:08:49.299 --> 00:08:53.179
+also talk about the interchangeability of the phenotypic consequences
+
+154
+00:08:53.179 --> 00:08:55.629
+of a change in DNA and the change in
+
+155
+00:08:55.638 --> 00:09:00.098
+internal or external environment, and also one that we
+
+156
+00:09:00.098 --> 00:09:05.049
+could summarize as phenotypic variation being structured and biased.
+
+157
+00:09:05.218 --> 00:09:07.458
+Could you explain those principles?
+
+158
+00:09:07.770 --> 00:09:10.830
+Yes, that's right. So um what we try to
+
+159
+00:09:10.830 --> 00:09:12.469
+do in our book is just in a, in
+
+160
+00:09:12.469 --> 00:09:18.239
+a single chapter. Sort of summarize, um, and it's
+
+161
+00:09:18.239 --> 00:09:20.869
+almost an impossible task, but, you know, just, but
+
+162
+00:09:20.869 --> 00:09:24.030
+we set out to summarize what an evolutionary biologist
+
+163
+00:09:24.030 --> 00:09:27.789
+or an evolutionary minded researcher needs to know about
+
+164
+00:09:27.789 --> 00:09:31.729
+development, to, to really do a good job at
+
+165
+00:09:31.729 --> 00:09:35.270
+understanding evolution. Um, AND of, of course, uh, I
+
+166
+00:09:35.270 --> 00:09:36.919
+mean, one of our co-authors is a guy called
+
+167
+00:09:36.919 --> 00:09:40.229
+Scott Gilbert, who writes the developmental biology textbooks, and
+
+168
+00:09:40.229 --> 00:09:43.229
+his, his textbooks, his undergraduate textbooks are that fact.
+
+169
+00:09:43.599 --> 00:09:46.799
+Um, YOU know, so there, there's a huge amount
+
+170
+00:09:46.799 --> 00:09:49.210
+of knowledge that we've kind of condensed down into
+
+171
+00:09:49.210 --> 00:09:51.570
+this, into this single chapter, and then we put
+
+172
+00:09:51.570 --> 00:09:54.799
+it in these 5 little sort of bullet points
+
+173
+00:09:54.799 --> 00:09:57.890
+just to try and bring home these, these key
+
+174
+00:09:57.890 --> 00:10:00.650
+points that we want to get across. So, firstly,
+
+175
+00:10:00.830 --> 00:10:05.890
+development is module. That is, um, it's comprised of,
+
+176
+00:10:06.140 --> 00:10:11.260
+of sort of building blocks, circuits that are um
+
+177
+00:10:11.260 --> 00:10:14.179
+well integrated and, and, um, you know, have their
+
+178
+00:10:14.179 --> 00:10:17.270
+own independent structure, and can be used again and
+
+179
+00:10:17.270 --> 00:10:19.979
+again, a bit like Lego bricks, you know, we
+
+180
+00:10:19.979 --> 00:10:23.219
+can take this bit of Developmental kit from over
+
+181
+00:10:23.219 --> 00:10:26.260
+here, from building something, and use it over here
+
+182
+00:10:26.260 --> 00:10:28.619
+in another part of the body to do something
+
+183
+00:10:28.619 --> 00:10:31.940
+else for another function. And that's what what evolution
+
+184
+00:10:31.940 --> 00:10:35.570
+has done repeatedly. A lot of it evolutionary innovations
+
+185
+00:10:35.570 --> 00:10:41.979
+involve taking circuitry or structures that preexisted. And reusing
+
+186
+00:10:41.979 --> 00:10:45.549
+them in a new context. The instinct insect wing
+
+187
+00:10:45.549 --> 00:10:50.460
+was built from from um um developmental machinery that
+
+188
+00:10:50.460 --> 00:10:53.770
+was initially used to produce insect legs, for instance.
+
+189
+00:10:54.349 --> 00:10:57.309
+So, um, there's this modular structure, which it turns
+
+190
+00:10:57.309 --> 00:10:59.830
+out is really, really important when it comes to
+
+191
+00:10:59.830 --> 00:11:03.880
+understanding evolutionary questions and the introduction of new traits.
+
+192
+00:11:04.190 --> 00:11:07.809
+There's this second feature, which is that development is
+
+193
+00:11:07.809 --> 00:11:12.299
+epigenetic, and we're using epigenetic in the sense of
+
+194
+00:11:12.549 --> 00:11:16.109
+above the level of the gene. So the, the
+
+195
+00:11:16.109 --> 00:11:18.869
+control of development is above the level of the
+
+196
+00:11:18.869 --> 00:11:21.510
+gene. And that stands in marked contrast, I think,
+
+197
+00:11:21.549 --> 00:11:26.919
+to how Many people think about um. Development and
+
+198
+00:11:26.919 --> 00:11:29.239
+how it's often portrayed in the media, like there's
+
+199
+00:11:29.239 --> 00:11:32.679
+a genetic program where all of the information is
+
+200
+00:11:32.679 --> 00:11:35.679
+stored, and that's read out, and there's this kind
+
+201
+00:11:35.679 --> 00:11:39.130
+of unfolding of this instructions for building a body
+
+202
+00:11:39.130 --> 00:11:42.840
+and, and uh instructions for how that, that organism
+
+203
+00:11:42.840 --> 00:11:45.640
+should behave and so forth. We take issue with
+
+204
+00:11:45.640 --> 00:11:50.159
+that characterization of development. It's much more open-ended, it's
+
+205
+00:11:50.159 --> 00:11:53.320
+much more flexible and the, the control, the regulation
+
+206
+00:11:53.320 --> 00:11:57.500
+of, of um Uh, uh, of the outputs, the
+
+207
+00:11:57.500 --> 00:12:00.580
+phenotypes, the traits of the organism, is at a
+
+208
+00:12:00.580 --> 00:12:03.349
+higher level than the genes, at the level of
+
+209
+00:12:03.580 --> 00:12:06.570
+uh a sort of regulatory network of, yes, there's,
+
+210
+00:12:06.659 --> 00:12:08.650
+there's genes involved, but a whole bunch of other
+
+211
+00:12:09.260 --> 00:12:15.070
+molecular outputs and, and um signals and environmental inputs,
+
+212
+00:12:15.219 --> 00:12:19.979
+which collectively influence the structure of the trait. And
+
+213
+00:12:19.979 --> 00:12:25.700
+that That perspective helps us to account for another
+
+214
+00:12:25.700 --> 00:12:28.820
+one of the characteristics of development that we, we
+
+215
+00:12:28.820 --> 00:12:34.020
+placed emphasis on, which is this interchangeability. Of genetic
+
+216
+00:12:34.020 --> 00:12:39.270
+and environmental inputs, because both genes and environments feed
+
+217
+00:12:39.270 --> 00:12:43.950
+into the regulatory machinery of development, they're all processed
+
+218
+00:12:43.950 --> 00:12:46.710
+by the same mechanisms. So you can get the
+
+219
+00:12:46.710 --> 00:12:52.150
+same phenotypic outputs arising from a genetic mutation and
+
+220
+00:12:52.150 --> 00:12:57.429
+or an environmental change. We also emphasize how development
+
+221
+00:12:57.429 --> 00:13:03.739
+is constructive, that is, um, it's, is critically dependent
+
+222
+00:13:03.739 --> 00:13:08.150
+on the organism itself, the organism an active player
+
+223
+00:13:08.440 --> 00:13:14.549
+in its own development. Um, One of my intellectual
+
+224
+00:13:14.549 --> 00:13:19.030
+heroes, Richard Wantin describes um both evolution and development
+
+225
+00:13:19.030 --> 00:13:22.700
+as a bit like walking on a trampoline. As
+
+226
+00:13:22.700 --> 00:13:26.859
+you move, you deform the surface, and then you
+
+227
+00:13:26.859 --> 00:13:30.539
+influence your own trajectory subsequently. We give a nice
+
+228
+00:13:30.539 --> 00:13:33.580
+example in the book, uh, uh, of, of this
+
+229
+00:13:33.580 --> 00:13:39.640
+which um involves these, these um dung beetles. So,
+
+230
+00:13:39.690 --> 00:13:43.630
+um, the, these, these dung beetles, uh, the, the
+
+231
+00:13:43.630 --> 00:13:46.280
+mother beetle will, will build a brew ball out
+
+232
+00:13:46.280 --> 00:13:49.369
+of dung and, um, place an egg inside it
+
+233
+00:13:49.369 --> 00:13:52.090
+and, and insert also a, a, a, a, a
+
+234
+00:13:52.090 --> 00:13:55.409
+little package of her symbiances inside, and then bury
+
+235
+00:13:55.409 --> 00:14:00.520
+that underground. And then the infant, when it hatches,
+
+236
+00:14:00.599 --> 00:14:04.640
+will consume the pedestal, thereby getting the mother symb.
+
+237
+00:14:04.859 --> 00:14:07.640
+It will, um, it will then feed on the
+
+238
+00:14:07.640 --> 00:14:11.510
+brood ball. Um, IT will defecate, it will mix
+
+239
+00:14:11.510 --> 00:14:14.989
+the materials, and in the process, it would distribute
+
+240
+00:14:15.200 --> 00:14:17.599
+all the bacteria, all the symbiots that he got
+
+241
+00:14:17.599 --> 00:14:20.440
+from its mother throughout the brood ball, and those
+
+242
+00:14:20.440 --> 00:14:23.760
+bacteria then go to work in processing, um, all
+
+243
+00:14:23.760 --> 00:14:27.510
+the chitin and ligning and making the, the, um,
+
+244
+00:14:27.520 --> 00:14:33.570
+carbon nutrients available to the offspring to consume. So
+
+245
+00:14:33.570 --> 00:14:37.869
+it's effectively producing more of its own food. And
+
+246
+00:14:37.869 --> 00:14:40.909
+experiments which have been carried out, which kind of
+
+247
+00:14:41.250 --> 00:14:45.000
+where you cancel the effects of the organism's activities
+
+248
+00:14:45.369 --> 00:14:48.000
+and the mother's activities, show that it really does
+
+249
+00:14:48.000 --> 00:14:52.489
+make a difference. If you don't have that. Modification
+
+250
+00:14:52.489 --> 00:14:54.780
+of your environment, but both the mother and the
+
+251
+00:14:54.780 --> 00:14:57.679
+and the and the larvae are engaging in, then
+
+252
+00:14:57.679 --> 00:15:00.460
+the, the larvae will engage, will, will, will develop
+
+253
+00:15:00.460 --> 00:15:02.909
+in a completely different way. It will be much
+
+254
+00:15:02.909 --> 00:15:05.909
+more, much more likely to, to be non-viable or
+
+255
+00:15:06.179 --> 00:15:08.219
+grow to a far lesser extent. It won't become
+
+256
+00:15:08.219 --> 00:15:11.900
+sexually dimorphic. It will be quite different as an
+
+257
+00:15:11.900 --> 00:15:16.090
+organism. So the form of the phenotype that you
+
+258
+00:15:16.090 --> 00:15:18.909
+end up with, the suite of traits that you
+
+259
+00:15:18.909 --> 00:15:22.309
+come to possess, depends very much on what you
+
+260
+00:15:22.309 --> 00:15:25.789
+do as an organism. You control, you influence your
+
+261
+00:15:25.789 --> 00:15:30.130
+own development. And then there's this last point, which
+
+262
+00:15:30.130 --> 00:15:35.530
+is that um developmental processes are biased. They're biased
+
+263
+00:15:35.530 --> 00:15:39.489
+in the sense that certain phenotypes, certain traits, certain
+
+264
+00:15:39.489 --> 00:15:42.890
+combinations of traits are far more likely to be
+
+265
+00:15:42.890 --> 00:15:46.289
+produced in development than others. And that, as we
+
+266
+00:15:46.289 --> 00:15:49.250
+see, um, as we emphasize in the book, as,
+
+267
+00:15:49.450 --> 00:15:54.489
+as a major importance to um To how we
+
+268
+00:15:54.489 --> 00:15:57.179
+understand the action of natural selection, selection that is
+
+269
+00:15:57.179 --> 00:16:00.169
+used is biased by the variation that's available to
+
+270
+00:16:00.169 --> 00:16:02.669
+you. So,
+
+271
+00:16:02.919 --> 00:16:06.080
+uh, another question then, what do you mean when
+
+272
+00:16:06.080 --> 00:16:10.989
+you say that the evolutionary process itself evolves?
+
+273
+00:16:12.969 --> 00:16:17.400
+Yeah, so, um, To understand this, I think we
+
+274
+00:16:17.400 --> 00:16:20.679
+need to take a closer look at um natural
+
+275
+00:16:20.679 --> 00:16:23.479
+selection. I mean, what we're trying to understand ultimately
+
+276
+00:16:23.479 --> 00:16:28.440
+in the book is, is, um, how adaptive evolution
+
+277
+00:16:28.440 --> 00:16:32.239
+takes place. So how organisms acquire adaptations, how we
+
+278
+00:16:32.239 --> 00:16:35.960
+get, um, speciation and, and diversity, the diversity of
+
+279
+00:16:35.960 --> 00:16:39.909
+life that we see. And we of course always
+
+280
+00:16:39.909 --> 00:16:45.530
+um. Explain that with natural selection. And that's usually
+
+281
+00:16:45.530 --> 00:16:48.090
+as far as it goes, but one can look
+
+282
+00:16:48.090 --> 00:16:52.369
+a little bit closer at how natural selection works.
+
+283
+00:16:52.409 --> 00:16:54.460
+We can break it down into its component parts,
+
+284
+00:16:54.489 --> 00:16:56.530
+if you like. And that, I think, is an
+
+285
+00:16:56.530 --> 00:17:02.380
+instructive exercise. So, um, biologists and, and philosophers have
+
+286
+00:17:02.690 --> 00:17:05.569
+recognized for some time that in order to get
+
+287
+00:17:05.569 --> 00:17:08.650
+evolution by natural selection, you need 3 things. You
+
+288
+00:17:08.650 --> 00:17:13.060
+need some process which is generating variation. In a
+
+289
+00:17:13.060 --> 00:17:17.510
+typical variation in the traits that are organism exhibits.
+
+290
+00:17:17.880 --> 00:17:23.400
+You need differences amongst them in their ability to
+
+291
+00:17:23.400 --> 00:17:28.199
+reproduce, to survive and reproduce fitness differences, and you
+
+292
+00:17:28.199 --> 00:17:31.880
+need to pass on those qualities from one generation
+
+293
+00:17:31.880 --> 00:17:34.319
+to the next. You need inheritance in some form.
+
+294
+00:17:36.349 --> 00:17:42.300
+um PHENOTYPIC variation. Fitness differences Inheritance. If you've got
+
+295
+00:17:42.300 --> 00:17:46.099
+those three things, natural selection should ensue. But in
+
+296
+00:17:46.099 --> 00:17:49.540
+principle, you could apply those to the cultural evolution
+
+297
+00:17:49.540 --> 00:17:52.300
+of the bicycle, right? It doesn't have to be
+
+298
+00:17:52.300 --> 00:17:55.750
+about biology. It doesn't have to be um satisfied
+
+299
+00:17:56.020 --> 00:17:59.250
+in that way. Anything that has those three properties
+
+300
+00:17:59.810 --> 00:18:07.020
+could evolve and produce adaptation. However, evolutionary biologists since
+
+301
+00:18:07.020 --> 00:18:13.030
+the 1950s, have had a particular way of interpret
+
+302
+00:18:13.030 --> 00:18:16.880
+interpreting that algorithm. And it's a genetic view, a
+
+303
+00:18:16.880 --> 00:18:20.760
+genetic vision of natural selection. So when we think
+
+304
+00:18:20.760 --> 00:18:25.119
+about phenotypic variation, we tend to focus in on
+
+305
+00:18:25.680 --> 00:18:30.869
+the variation that arises from random genetic mutations. Yeah,
+
+306
+00:18:31.290 --> 00:18:34.729
+mutations that arise that at random with respect to
+
+307
+00:18:35.000 --> 00:18:38.619
+their functionality. Uh, AND those are the ones which
+
+308
+00:18:38.619 --> 00:18:42.109
+we think are really, really important in evolution. And
+
+309
+00:18:42.109 --> 00:18:45.959
+when it comes to fitness differences, well, we envisage
+
+310
+00:18:45.959 --> 00:18:49.010
+that natural selection is sorting between genes and genotypes,
+
+311
+00:18:49.030 --> 00:18:50.989
+and that's what really counts. And when it comes
+
+312
+00:18:50.989 --> 00:18:55.030
+to inheritance, we focus in on genetic inheritance and
+
+313
+00:18:55.030 --> 00:18:58.849
+the passive transmission of genes from parent to offspring.
+
+314
+00:19:00.030 --> 00:19:06.069
+So there's this genetic take on how natural selection
+
+315
+00:19:06.069 --> 00:19:12.930
+works. But in practice, organisms can satisfy those requirements
+
+316
+00:19:12.930 --> 00:19:17.359
+for natural selection in other ways. Um, SO to
+
+317
+00:19:17.359 --> 00:19:19.989
+give you just one example, it's a complicated issue.
+
+318
+00:19:21.040 --> 00:19:24.780
+We can see how many organisms have extra genetic
+
+319
+00:19:24.780 --> 00:19:27.699
+forms of inheritance. In the case of humans, we
+
+320
+00:19:27.699 --> 00:19:31.140
+have cultural inheritance, whereas in the case of plants,
+
+321
+00:19:31.180 --> 00:19:35.780
+they have epigenetic inheritance. Many animals inherit symbols and
+
+322
+00:19:35.780 --> 00:19:41.010
+so forth. So those Forms of inheritance in principle
+
+323
+00:19:41.010 --> 00:19:45.810
+can satisfy natural selection requirements for natural selection. So
+
+324
+00:19:45.810 --> 00:19:49.520
+when we start to look more closely. We can
+
+325
+00:19:49.520 --> 00:19:54.160
+actually see how developmental processes are in different ways,
+
+326
+00:19:54.280 --> 00:19:58.959
+biasing the variation that's produced, the finitive variation that's
+
+327
+00:19:58.959 --> 00:20:03.439
+produced, modifying the nature of the fitness differences that
+
+328
+00:20:03.439 --> 00:20:06.310
+the organisms have through their interactions with their environment,
+
+329
+00:20:06.449 --> 00:20:10.839
+and modifying the, the nature of inheritance and every
+
+330
+00:20:10.839 --> 00:20:14.000
+organism does it. In their own particular way because
+
+331
+00:20:14.000 --> 00:20:17.359
+it depends on their own personal characteristics. Plants don't
+
+332
+00:20:17.359 --> 00:20:19.939
+have a culture, so they can't do, um, you
+
+333
+00:20:19.939 --> 00:20:22.869
+know, cultural inheritance, but, you know, killer whales can,
+
+334
+00:20:23.079 --> 00:20:29.209
+humans can. So the characteristics of natural selection, the
+
+335
+00:20:29.209 --> 00:20:31.339
+way it works for any given organism, and we
+
+336
+00:20:31.339 --> 00:20:34.939
+give plenty of examples in the book, depends on
+
+337
+00:20:34.939 --> 00:20:39.060
+the properties of the organism. Natural selection depends on
+
+338
+00:20:39.060 --> 00:20:40.939
+the properties of the organism, well then it follows
+
+339
+00:20:40.939 --> 00:20:45.459
+that as organisms evolve, the evolutionary process evolves.
+
+340
+00:20:47.449 --> 00:20:51.089
+So you've touched very slightly on this topic in,
+
+341
+00:20:51.130 --> 00:20:56.079
+in just the previous answer, but what is developmental
+
+342
+00:20:56.079 --> 00:20:58.959
+bias? What does that mean in the context of
+
+343
+00:20:58.959 --> 00:21:00.329
+developmental biology?
+
+344
+00:21:01.329 --> 00:21:07.530
+Yeah, so, um Um Developmental bias is a, is
+
+345
+00:21:07.530 --> 00:21:10.969
+a relatively simple idea. It's the idea that um,
+
+346
+00:21:12.260 --> 00:21:17.819
+The Variation, the phenotypic variation, the traits that organisms
+
+347
+00:21:17.819 --> 00:21:20.770
+have or the combinations of traits that arise in
+
+348
+00:21:20.770 --> 00:21:23.780
+development is biased, so that some traits or some
+
+349
+00:21:23.780 --> 00:21:27.530
+combinations of traits are far more likely to arise
+
+350
+00:21:27.530 --> 00:21:32.020
+in development than others. And the significance of that
+
+351
+00:21:32.020 --> 00:21:35.300
+is that that bias is the action of natural
+
+352
+00:21:35.300 --> 00:21:40.239
+selection and Influences the patterns of variation that we
+
+353
+00:21:40.239 --> 00:21:43.119
+see out there in the world. I can explain
+
+354
+00:21:43.119 --> 00:21:46.229
+it with a uh analogy if you like. So,
+
+355
+00:21:46.939 --> 00:21:49.430
+um, imagine you're traveling and you stay in a
+
+356
+00:21:49.430 --> 00:21:53.000
+hotel and you go down for breakfast to the,
+
+357
+00:21:53.199 --> 00:21:56.479
+to the restaurant where they have a buffet, and
+
+358
+00:21:56.479 --> 00:21:59.719
+they're serving two kinds of eggs, um, fried eggs
+
+359
+00:21:59.719 --> 00:22:03.189
+and scrambled eggs. But in this restaurant, The chef
+
+360
+00:22:03.280 --> 00:22:06.520
+is able to produce scrambled eggs at 10 times
+
+361
+00:22:06.520 --> 00:22:10.020
+the rate he produces fried eggs. And you look
+
+362
+00:22:10.020 --> 00:22:14.050
+around the restaurant. And you see, pretty much everybody
+
+363
+00:22:14.050 --> 00:22:17.010
+is eating scrambled eggs, right? So there are two
+
+364
+00:22:17.010 --> 00:22:20.300
+kinds of explanations that might account for that. One
+
+365
+00:22:20.300 --> 00:22:23.130
+is a selective kind of explanation. It could be
+
+366
+00:22:23.130 --> 00:22:27.589
+that everybody preferred scrambled eggs, and they chose it.
+
+367
+00:22:27.849 --> 00:22:30.170
+That's kind of equivalent to the traditional way in
+
+368
+00:22:30.170 --> 00:22:32.849
+which we might explain the variation that we see
+
+369
+00:22:32.849 --> 00:22:36.890
+in, in nature. But there's another possibility, which is
+
+370
+00:22:36.890 --> 00:22:38.939
+that the scrambled eggs were just produced so much
+
+371
+00:22:38.939 --> 00:22:41.180
+more frequently than the fried eggs that people were
+
+372
+00:22:41.180 --> 00:22:43.420
+constrained to just eat scrambled eggs, that was what
+
+373
+00:22:43.420 --> 00:22:47.589
+was available. Uh, AND that's an, that's also a
+
+374
+00:22:47.589 --> 00:22:51.020
+potential explanation, and more likely, what's going on in
+
+375
+00:22:51.020 --> 00:22:53.869
+the, in the restaurant is a combination of those
+
+376
+00:22:53.869 --> 00:22:57.390
+two things. And that's what we think is more
+
+377
+00:22:57.390 --> 00:23:00.040
+likely explanation for the variation that we see in
+
+378
+00:23:00.040 --> 00:23:04.310
+the world, that it's a combination of um development
+
+379
+00:23:04.310 --> 00:23:07.869
+bias and selection, which accounts for the patterns that
+
+380
+00:23:07.869 --> 00:23:10.209
+we see in nature. But in the book, we
+
+381
+00:23:10.209 --> 00:23:14.469
+do live. Some really quite interesting and compelling examples
+
+382
+00:23:14.469 --> 00:23:21.150
+of how through studying developmental mechanisms, you can predict
+
+383
+00:23:21.709 --> 00:23:24.729
+What biases will arise and what patterns of variation
+
+384
+00:23:24.729 --> 00:23:26.729
+should be observed, and then you go and look
+
+385
+00:23:26.729 --> 00:23:30.099
+in nature and you see that's exactly the pat.
+
+386
+00:23:30.489 --> 00:23:33.890
+So you can actually, to some extent, often predict.
+
+387
+00:23:35.160 --> 00:23:40.930
+The variation that arises in nature by What arrives
+
+388
+00:23:40.930 --> 00:23:43.489
+in development, what arrives in the first place, and
+
+389
+00:23:43.489 --> 00:23:44.650
+the rate in which it does so.
+
+390
+00:23:46.349 --> 00:23:50.469
+So, developmental biology, if I understand it correctly, can
+
+391
+00:23:50.469 --> 00:23:54.910
+help explain why some of the adaptations exist and
+
+392
+00:23:54.910 --> 00:23:58.430
+others do not, and why some characters are more
+
+393
+00:23:58.430 --> 00:24:00.829
+evolvable than others, right?
+
+394
+00:24:01.310 --> 00:24:05.199
+Exactly. And you know, the historically, of course, evolutionary
+
+395
+00:24:05.199 --> 00:24:09.349
+bioies have sort of seen some role, a limited
+
+396
+00:24:09.349 --> 00:24:14.020
+role for developmental biology and evolutionary explanation. So, um,
+
+397
+00:24:14.670 --> 00:24:17.069
+more commonly rather than talking of bias, we talk
+
+398
+00:24:17.069 --> 00:24:21.520
+about developmental constraint. And, um, you know, we take
+
+399
+00:24:21.520 --> 00:24:24.849
+issue with that as a kind of explanatory tool.
+
+400
+00:24:25.010 --> 00:24:27.250
+We, we suggest that's probably not the optimal way
+
+401
+00:24:27.250 --> 00:24:30.890
+to think about these issues. And the, the, the
+
+402
+00:24:30.890 --> 00:24:33.489
+problem is that if you think in terms of
+
+403
+00:24:33.489 --> 00:24:39.349
+developmental constraints, then The constraints, the developmental aspects can
+
+404
+00:24:39.349 --> 00:24:44.319
+account for why development does not occur. Uh SORRY,
+
+405
+00:24:44.469 --> 00:24:48.270
+why evolution does not occur, or why adaptation does,
+
+406
+00:24:48.469 --> 00:24:52.550
+does not arise. Um, THE, the kind of thinking
+
+407
+00:24:52.550 --> 00:24:57.339
+that we often encounter is that, you know, Traits
+
+408
+00:24:57.339 --> 00:25:00.609
+are either possible to produce in development or not.
+
+409
+00:25:00.859 --> 00:25:02.939
+They're not possible to produce. That's because of developmental
+
+410
+00:25:02.939 --> 00:25:05.819
+constraints, and that explains why we don't have, you
+
+411
+00:25:05.819 --> 00:25:08.979
+know, humans with wings, for instance. You know, developmental
+
+412
+00:25:08.979 --> 00:25:13.030
+biology, you know, never throws up humans with wings.
+
+413
+00:25:13.040 --> 00:25:16.000
+Um, SO because that's kind of impossible to produce
+
+414
+00:25:16.579 --> 00:25:18.979
+for various reasons, then that's kind of a constraint
+
+415
+00:25:18.979 --> 00:25:21.349
+that explains why we don't have that. But if
+
+416
+00:25:21.349 --> 00:25:23.000
+you want to understand all the things we do
+
+417
+00:25:23.000 --> 00:25:26.150
+have, natural selection is the answer, right? That's the,
+
+418
+00:25:26.290 --> 00:25:28.729
+that would be the traditional way of understanding it.
+
+419
+00:25:30.000 --> 00:25:34.209
+And the problem with that reasoning is it's. It's
+
+420
+00:25:34.209 --> 00:25:38.439
+all or nothing. It's, it's categorical, you know, rather
+
+421
+00:25:38.439 --> 00:25:44.130
+than thinking probabilistically about the likelihood of particular variation
+
+422
+00:25:44.400 --> 00:25:47.920
+being produced, which is actually much more realistic. And
+
+423
+00:25:47.920 --> 00:25:51.000
+when you think about things in probabilistic terms, that
+
+424
+00:25:51.000 --> 00:25:54.040
+there's certain patterns of variation that are far more
+
+425
+00:25:54.040 --> 00:25:59.359
+likely to arise than others. Then you can see
+
+426
+00:25:59.540 --> 00:26:03.300
+that those developmental processes are not just providing an
+
+427
+00:26:03.300 --> 00:26:06.219
+explanation for the stuff that we don't have, they're
+
+428
+00:26:06.219 --> 00:26:09.060
+also contributing to the explanation for the things that
+
+429
+00:26:09.060 --> 00:26:11.739
+we do have as well, like I explained with
+
+430
+00:26:11.739 --> 00:26:15.060
+the example of the scrambled egg and uh consumption
+
+431
+00:26:15.060 --> 00:26:18.270
+in the, in the restaurant. Oh, to come back
+
+432
+00:26:18.270 --> 00:26:23.359
+to your, you also asked about evolvability. So, um
+
+433
+00:26:26.209 --> 00:26:29.439
+Evolvability refers to the ability of an organism to
+
+434
+00:26:29.439 --> 00:26:32.319
+evolve, the capacity to evolve, or, you know, we
+
+435
+00:26:32.319 --> 00:26:35.989
+can think more fine-grained about the capacity of the
+
+436
+00:26:36.280 --> 00:26:40.430
+traits of an organism to evolve. And what's been
+
+437
+00:26:40.430 --> 00:26:42.869
+quite interesting over recent years is the, is the
+
+438
+00:26:42.869 --> 00:26:48.469
+observation that, that, um, organisms vary in how good
+
+439
+00:26:48.469 --> 00:26:52.329
+they are evolving. And um Even if we look
+
+440
+00:26:52.329 --> 00:26:54.449
+in the single organism, we can see a considerable
+
+441
+00:26:54.449 --> 00:27:00.119
+variation in how, Likely their traits are to evolve,
+
+442
+00:27:00.229 --> 00:27:03.449
+so. There's been a lot of research into this
+
+443
+00:27:03.449 --> 00:27:07.449
+in, in recent years, both empirical and theoretical, and
+
+444
+00:27:07.449 --> 00:27:10.650
+these studies show quite clearly that the capacity to
+
+445
+00:27:10.650 --> 00:27:15.939
+evolve can itself evolve over time. Um, AND that
+
+446
+00:27:15.939 --> 00:27:21.489
+as organisms, um, you know, as they evolve, um.
+
+447
+00:27:23.000 --> 00:27:26.250
+They will encounter certain features in their environments, certain
+
+448
+00:27:26.250 --> 00:27:31.949
+patterns of variation, and will produce outputs that either
+
+449
+00:27:31.949 --> 00:27:35.680
+satisfy those, those requirements for the environment or, or
+
+450
+00:27:35.680 --> 00:27:38.670
+don't, and this will lead to selection on the
+
+451
+00:27:39.109 --> 00:27:44.390
+relationships between traits. It will lead to Um, plyotropy,
+
+452
+00:27:44.540 --> 00:27:49.260
+it will lead to epistoic interactions such that combinations
+
+453
+00:27:49.260 --> 00:27:52.900
+of traits that um are usefully produced together and
+
+454
+00:27:52.900 --> 00:27:56.020
+more readily produced, combinations of traits that are uh
+
+455
+00:27:56.020 --> 00:28:00.250
+less usefully put together, um, are less reliably produced,
+
+456
+00:28:00.500 --> 00:28:04.250
+um. And the net result is you end up
+
+457
+00:28:04.250 --> 00:28:07.650
+with some traits being more evolvable than others. Um
+
+458
+00:28:08.729 --> 00:28:10.630
+Again, let me try and give you an example
+
+459
+00:28:10.630 --> 00:28:16.040
+to, to make it more concrete. So imagine, imagine
+
+460
+00:28:16.040 --> 00:28:20.839
+you have a A quadruped, an animal with four
+
+461
+00:28:20.839 --> 00:28:25.180
+legs. Um, AND mutations could arise in any one
+
+462
+00:28:25.180 --> 00:28:30.729
+of those, um. Legs which would lengthen it or
+
+463
+00:28:31.300 --> 00:28:35.530
+shorten it. But of course, if you have uh
+
+464
+00:28:35.609 --> 00:28:39.329
+uh an animal with three legs that are longer
+
+465
+00:28:39.329 --> 00:28:42.890
+than one, or one leg that's longer than the
+
+466
+00:28:42.890 --> 00:28:46.510
+others, um, you know, that's not particularly useful variation.
+
+467
+00:28:47.229 --> 00:28:54.060
+And so, um, We can envisage that um. Over
+
+468
+00:28:54.060 --> 00:28:57.579
+long periods of time, uh, natural selection will favor,
+
+469
+00:28:57.780 --> 00:29:02.890
+um, mutations that lead to epiststatic interactions that, that
+
+470
+00:29:02.890 --> 00:29:07.459
+reinforce symmetry between the legs that, uh, that eradicate
+
+471
+00:29:07.459 --> 00:29:11.900
+the, um, you know, the, the situations where um
+
+472
+00:29:11.900 --> 00:29:16.339
+asymmetries arise and, and, and robustly produce symmetry, with
+
+473
+00:29:16.339 --> 00:29:19.339
+favor plyotropy, so that any change in the, you
+
+474
+00:29:19.339 --> 00:29:21.979
+know, in the characteristics of a leg will also
+
+475
+00:29:21.979 --> 00:29:25.829
+affect other legs. And so that gradually over time,
+
+476
+00:29:26.189 --> 00:29:31.630
+the likelihood of a mutation producing asymmetric asymmetrical length
+
+477
+00:29:31.859 --> 00:29:35.839
+would be reduced. Now, mutations are still occurring at
+
+478
+00:29:35.839 --> 00:29:39.829
+random, even after that long period of time. And
+
+479
+00:29:39.829 --> 00:29:42.310
+they can still increase the length of the legs
+
+480
+00:29:42.310 --> 00:29:46.109
+or decreases the length of the legs, independently of
+
+481
+00:29:46.109 --> 00:29:48.229
+what would be beneficial for the organism in that
+
+482
+00:29:48.229 --> 00:29:51.349
+environment. So it's not on demand as such. But
+
+483
+00:29:51.349 --> 00:29:55.829
+nonetheless, variation that's kind of been useful in the
+
+484
+00:29:55.829 --> 00:29:59.469
+past, that's got that symmetrical quality, is favored is
+
+485
+00:29:59.469 --> 00:30:03.859
+much more evolvable. It's much easier to evolve symmetrical
+
+486
+00:30:03.859 --> 00:30:07.939
+characters over time, that will change more quickly than.
+
+487
+00:30:09.459 --> 00:30:15.300
+Variation that generates asymmetrical correspondences between the legs. Those
+
+488
+00:30:15.300 --> 00:30:17.660
+will be far less likely to arise and will
+
+489
+00:30:17.660 --> 00:30:21.849
+be less evolvable. So you can see how, you
+
+490
+00:30:21.849 --> 00:30:23.719
+know, it's a sort of hypothetical example, but it
+
+491
+00:30:23.719 --> 00:30:27.869
+illustrates how these combinations between traits can arise over
+
+492
+00:30:27.869 --> 00:30:31.390
+time to produce variation that fits with what was
+
+493
+00:30:31.390 --> 00:30:32.729
+useful in the past.
+
+494
+00:30:34.469 --> 00:30:37.880
+Great, but uh uh then there's an important question
+
+495
+00:30:37.880 --> 00:30:40.520
+to ask here, I guess. In regards to the
+
+496
+00:30:40.520 --> 00:30:45.680
+developmental processes themselves, where do they stem from? Are
+
+497
+00:30:45.680 --> 00:30:48.229
+they the result of natural selection?
+
+498
+00:30:50.369 --> 00:30:52.420
+Yeah, that's a really, that's a really good question.
+
+499
+00:30:52.650 --> 00:30:54.010
+I, I, I think in a way it's a
+
+500
+00:30:54.010 --> 00:30:56.750
+kind of key hang up for many people um
+
+501
+00:30:56.750 --> 00:31:01.390
+in, in embracing the kind of developmental perspective that
+
+502
+00:31:01.390 --> 00:31:04.109
+um that I and my co-authors advocate in the
+
+503
+00:31:04.109 --> 00:31:10.890
+book. um. The The way of thinking that's um
+
+504
+00:31:11.069 --> 00:31:15.000
+is very widespread and um Is a kind of
+
+505
+00:31:15.000 --> 00:31:17.439
+mental block to embracing it is, is that, you
+
+506
+00:31:17.439 --> 00:31:23.050
+know, we will, we will happily. Explain developmental bias
+
+507
+00:31:23.380 --> 00:31:26.369
+through earlier natural selection. So if we see that
+
+508
+00:31:26.369 --> 00:31:29.209
+there's developmental bias taking place, there's a bias in
+
+509
+00:31:29.209 --> 00:31:32.420
+the production of the phenotypic variation to produce certain
+
+510
+00:31:32.420 --> 00:31:34.390
+forms more readily than others, we'll say, oh well,
+
+511
+00:31:34.489 --> 00:31:37.209
+the reason we have that is because of early
+
+512
+00:31:37.209 --> 00:31:41.790
+and natural selection. And they'll stop there. That what
+
+513
+00:31:41.790 --> 00:31:45.310
+they won't consider is that that early natural selection
+
+514
+00:31:45.310 --> 00:31:49.349
+was also subject to biased developmental variation. And in
+
+515
+00:31:49.349 --> 00:31:51.469
+fact, you could trace it back all the way
+
+516
+00:31:51.469 --> 00:31:53.829
+to the beginning of life, and it always be
+
+517
+00:31:53.829 --> 00:31:57.930
+biased developmental variation, which would be subject to natural
+
+518
+00:31:57.930 --> 00:32:02.939
+selection. There's actually a reciprocal causal relationship between these,
+
+519
+00:32:03.030 --> 00:32:06.670
+these characters. There's biased variation being produced in development.
+
+520
+00:32:07.260 --> 00:32:10.839
+And then natural selection occurs on that bias, sorting
+
+521
+00:32:10.839 --> 00:32:13.880
+between that bias variation, influencing the bias in the
+
+522
+00:32:13.880 --> 00:32:17.040
+next generation. Um, AND so we have to think
+
+523
+00:32:17.040 --> 00:32:21.880
+about things in this reciprocal causal way, and, um,
+
+524
+00:32:21.920 --> 00:32:24.079
+and that means we can account for the patterns
+
+525
+00:32:24.079 --> 00:32:26.390
+of variation that we see in nature in terms
+
+526
+00:32:26.390 --> 00:32:29.930
+of these dual processes, natural selection and developmental bias,
+
+527
+00:32:30.520 --> 00:32:34.359
+rather than tracing everything back to natural selection. And
+
+528
+00:32:34.359 --> 00:32:36.599
+that that I think is the logical distinction. Now
+
+529
+00:32:36.599 --> 00:32:39.199
+you're going to a linear causal model as opposed
+
+530
+00:32:39.199 --> 00:32:41.439
+to a uh a reciprocal causal model.
+
+531
+00:32:42.790 --> 00:32:47.589
+Could you explain the phenomenon of plasticity lab evolution
+
+532
+00:32:47.589 --> 00:32:51.750
+or the ways by which developmental responses to environmental
+
+533
+00:32:51.750 --> 00:32:54.680
+change can direct genetic change?
+
+534
+00:32:55.030 --> 00:32:57.680
+Sure, yeah. So this, um, this is an idea
+
+535
+00:32:57.680 --> 00:33:01.229
+that's come to prominence in, in recent years through
+
+536
+00:33:01.229 --> 00:33:05.199
+the important work of Mary Jane West Eberhart, um,
+
+537
+00:33:05.310 --> 00:33:07.430
+who published a, a, a now classic volume in
+
+538
+00:33:07.430 --> 00:33:12.020
+2003, Developmental Plasticity and Evolution, and, and, you know,
+
+539
+00:33:12.380 --> 00:33:15.969
+It's a very, very rich book indeed, but one
+
+540
+00:33:15.969 --> 00:33:17.689
+thing that people have sort of latched on to
+
+541
+00:33:17.689 --> 00:33:20.770
+is her suggestion that genes can be followers rather
+
+542
+00:33:20.770 --> 00:33:24.609
+than leaders in evolution, that, that, um, organisms can
+
+543
+00:33:24.609 --> 00:33:29.209
+respond to environmental challenges plastically through changes in their
+
+544
+00:33:29.209 --> 00:33:35.400
+development, which adjust their behavior, their phenotype, their traits
+
+545
+00:33:35.650 --> 00:33:40.209
+to the environmental conditions. And then subsequently over many
+
+546
+00:33:40.209 --> 00:33:44.050
+generations, um, that can be stabilized through genetic change.
+
+547
+00:33:44.300 --> 00:33:48.739
+So plasticity comes first, subsequently, genetic change occurs. So
+
+548
+00:33:48.739 --> 00:33:54.609
+that's the The basic idea Um, an example that
+
+549
+00:33:54.609 --> 00:33:59.219
+we use in the book concerns, um, blind Mexican
+
+550
+00:33:59.219 --> 00:34:05.020
+cavefish. Astanics uh Mexican. Uh, SO, um, these are
+
+551
+00:34:05.020 --> 00:34:11.100
+really fascinating. And when, when these fish were first
+
+552
+00:34:11.100 --> 00:34:14.938
+discovered in the 1930s, um, they looked so strikingly
+
+553
+00:34:14.938 --> 00:34:18.540
+different from, from all known fishes, that they were,
+
+554
+00:34:18.739 --> 00:34:22.659
+they were classified as entirely new genes. Only for
+
+555
+00:34:22.659 --> 00:34:26.458
+subsequent, you know, sites to establish that the sighted
+
+556
+00:34:26.458 --> 00:34:30.168
+versions of the same species. We're incredibly widespread in
+
+557
+00:34:30.168 --> 00:34:33.760
+the rivers and streams of, of Mexico and and
+
+558
+00:34:34.090 --> 00:34:40.489
+Southern USA. And Um, it's since been established that
+
+559
+00:34:40.620 --> 00:34:43.739
+there are about 35, um, at the last count.
+
+560
+00:34:44.779 --> 00:34:51.299
+Independent evolving populations of these blind Mexican cavefish. They
+
+561
+00:34:51.299 --> 00:34:55.099
+all have a very similar suite of traits. They're
+
+562
+00:34:55.099 --> 00:34:58.979
+typically, of course, um blind or eyeless, and they
+
+563
+00:34:58.979 --> 00:35:02.229
+will have um changes in the pigmentation, they'll be
+
+564
+00:35:02.229 --> 00:35:05.858
+quite white. Um, BUT a whole suite of changes,
+
+565
+00:35:05.979 --> 00:35:09.850
+changes in In their uh bone structure, in their
+
+566
+00:35:09.850 --> 00:35:13.850
+metabolism, in their behavior, all kinds of things. And
+
+567
+00:35:13.850 --> 00:35:18.770
+also some really, uh, you know, intriguing features like
+
+568
+00:35:18.770 --> 00:35:23.850
+virtually all the populations have got fragmented bones in
+
+569
+00:35:23.850 --> 00:35:28.419
+their faces. Literally broken up bones. And, you know,
+
+570
+00:35:28.620 --> 00:35:31.820
+the researchers who study this have this sort of
+
+571
+00:35:31.820 --> 00:35:35.659
+puzzled by, um, you know, why is it that
+
+572
+00:35:35.659 --> 00:35:39.149
+they should all have this, this feature? It seems
+
+573
+00:35:39.699 --> 00:35:44.060
+so random and it's hard to understand rifasi, why
+
+574
+00:35:44.060 --> 00:35:49.300
+they should have this, this, um. You know, not
+
+575
+00:35:49.300 --> 00:35:53.300
+obviously beneficial, probably an adaptive characteristic and why it
+
+576
+00:35:53.300 --> 00:35:55.810
+should repeatedly have evolve. The fact that it repeatedly
+
+577
+00:35:55.810 --> 00:36:00.120
+evolves suggests that some, some adaptive value. So there
+
+578
+00:36:00.129 --> 00:36:02.530
+there there's a, there's a suite of, of traits
+
+579
+00:36:02.530 --> 00:36:06.729
+associated with blind Mexican cavefish, but some are a
+
+580
+00:36:06.729 --> 00:36:11.600
+little bit sort of odd and um. Light was
+
+581
+00:36:11.600 --> 00:36:15.919
+thrown on the issue when um a, a, a
+
+582
+00:36:15.919 --> 00:36:20.149
+team of researchers took the river fish, the, the,
+
+583
+00:36:20.159 --> 00:36:23.719
+the, the sighted versions of the same species, and
+
+584
+00:36:23.719 --> 00:36:25.600
+reared them in the dark and the cold to
+
+585
+00:36:25.600 --> 00:36:28.560
+simulate sort of cave being thrust into the cave
+
+586
+00:36:28.560 --> 00:36:34.959
+environment. And the offspring of those uh fish. Developed
+
+587
+00:36:35.110 --> 00:36:39.149
+a suite of characteristics that is strikingly similar to
+
+588
+00:36:39.149 --> 00:36:45.419
+the blind Mexican cavefish that derived them. And um,
+
+589
+00:36:46.340 --> 00:36:51.260
+If you look at which traits change in response
+
+590
+00:36:51.260 --> 00:36:54.500
+to the dark and the cold. They're the same
+
+591
+00:36:54.500 --> 00:36:57.209
+kind of traits as we see have evolved in
+
+592
+00:36:57.209 --> 00:37:00.409
+the derived form of the fish, and they respond
+
+593
+00:37:00.409 --> 00:37:04.540
+to the dark and the cold, often by producing
+
+594
+00:37:04.540 --> 00:37:08.969
+increased phenotypic variation. And if as researchers have done,
+
+595
+00:37:09.000 --> 00:37:12.530
+you select on some of that increased inaction, you
+
+596
+00:37:12.530 --> 00:37:15.290
+see a response to selection in the same direction.
+
+597
+00:37:15.370 --> 00:37:21.040
+So, um. That those kind of studies, um, and,
+
+598
+00:37:21.050 --> 00:37:25.600
+you know, various other kinds of experimentation. Present, I
+
+599
+00:37:25.600 --> 00:37:28.189
+think, a very strong case that what has happened
+
+600
+00:37:28.520 --> 00:37:32.379
+in, in these fishes is that um they they
+
+601
+00:37:32.379 --> 00:37:36.090
+respond initially to this, to this challenge of being
+
+602
+00:37:36.090 --> 00:37:41.699
+in a very dark, cold place, um. Classically, through
+
+603
+00:37:41.699 --> 00:37:46.020
+the, through the developmental change, and then gradually over
+
+604
+00:37:46.020 --> 00:37:49.459
+time, that becomes stabilized and you get refinements through
+
+605
+00:37:49.580 --> 00:37:54.169
+through genetic evolution. And some of the odd features
+
+606
+00:37:54.169 --> 00:37:57.969
+like the um like the broken up bones, it
+
+607
+00:37:57.969 --> 00:38:01.010
+turns out, you know, that you can then start
+
+608
+00:38:01.010 --> 00:38:03.770
+to understand why they have those features because there's
+
+609
+00:38:03.770 --> 00:38:07.129
+a strong correlation between the, the number of neuromasts
+
+610
+00:38:07.129 --> 00:38:10.000
+that they have, which are these cells which allow
+
+611
+00:38:10.000 --> 00:38:12.209
+them to detect water currents, which is really important
+
+612
+00:38:12.209 --> 00:38:14.370
+if you're foraging in the dark, and you know,
+
+613
+00:38:14.409 --> 00:38:17.560
+this fragmentation. So, so certain things come to light
+
+614
+00:38:17.560 --> 00:38:20.969
+when you take this, this developmental perspective. Mhm.
+
+615
+00:38:21.540 --> 00:38:25.820
+You've done work on niche construction specifically, so could
+
+616
+00:38:25.820 --> 00:38:28.580
+you tell us about it? What is niche construction?
+
+617
+00:38:29.659 --> 00:38:33.979
+Each construction is uh the capacity of organisms to
+
+618
+00:38:33.979 --> 00:38:38.620
+modify their environments and thereby sort of modify the
+
+619
+00:38:38.620 --> 00:38:42.060
+natural selection that that their population experiences. And it,
+
+620
+00:38:42.129 --> 00:38:44.050
+and this is a very sort of obvious and
+
+621
+00:38:44.050 --> 00:38:47.449
+prosaic thing that, you know, every kid knows that
+
+622
+00:38:47.449 --> 00:38:51.739
+birds construct nests, as do, you know, as do
+
+623
+00:38:51.739 --> 00:38:54.459
+fishes, um, you know, the ants and bees will
+
+624
+00:38:54.459 --> 00:38:59.310
+construct mounds and um and and that. Not just,
+
+625
+00:38:59.340 --> 00:39:02.739
+um, you know, artifacts, you'll see in, everybody knows
+
+626
+00:39:02.739 --> 00:39:06.709
+that, you know, plants are modifying, um, wind speeds
+
+627
+00:39:06.709 --> 00:39:10.969
+and, and, um, you know, affecting shade and, and,
+
+628
+00:39:10.979 --> 00:39:13.580
+um, playing a role in the, in the, in
+
+629
+00:39:13.580 --> 00:39:17.020
+the hydrological cycle, the cycling of nutrients and so
+
+630
+00:39:17.020 --> 00:39:19.389
+on and so forth. So. In to a greater
+
+631
+00:39:19.389 --> 00:39:22.530
+and lesser degree, of course, all organisms will modify
+
+632
+00:39:22.530 --> 00:39:26.050
+their local environments and sometimes this will feedback to
+
+633
+00:39:26.050 --> 00:39:33.530
+influence the selection that they experienced. And um, From
+
+634
+00:39:33.530 --> 00:39:37.209
+a traditional perspective, no, no one would kind of
+
+635
+00:39:37.209 --> 00:39:39.699
+dispute that that goes on, but, but, you know,
+
+636
+00:39:39.929 --> 00:39:42.719
+people don't really see that niche construction as playing
+
+637
+00:39:42.969 --> 00:39:47.250
+causal role in evolution. Um, IT'S something that has
+
+638
+00:39:47.250 --> 00:39:50.850
+evolved, that we can understand as having evolved through
+
+639
+00:39:50.850 --> 00:39:54.399
+natural selection, an interesting feature of the organisms, but
+
+640
+00:39:54.399 --> 00:39:57.449
+we don't see it as part of the process.
+
+641
+00:39:57.489 --> 00:40:00.330
+It's not part of our explanation for how or
+
+642
+00:40:00.330 --> 00:40:02.689
+whether or the nature of the evolution that takes
+
+643
+00:40:02.689 --> 00:40:06.199
+place. But let me go back to an example
+
+644
+00:40:06.199 --> 00:40:08.879
+to illustrate why it might be better if we
+
+645
+00:40:08.879 --> 00:40:11.389
+thought about niche construction as playing a causal role.
+
+646
+00:40:11.639 --> 00:40:14.360
+Um, I'll go back to the example I talked
+
+647
+00:40:14.360 --> 00:40:16.840
+about of the dung beetles, because of these dung
+
+648
+00:40:16.840 --> 00:40:19.800
+beetles are kind of classic niche constructors. When the
+
+649
+00:40:19.800 --> 00:40:23.610
+mother builds that brood ball out of dung. Um,
+
+650
+00:40:23.699 --> 00:40:25.429
+AND when she inserts the egg in it and
+
+651
+00:40:25.429 --> 00:40:28.469
+adds in her little pedestal, which contains her a
+
+652
+00:40:28.469 --> 00:40:31.870
+symbiance, and when she buries it underground, where it's
+
+653
+00:40:31.870 --> 00:40:35.550
+in a sort of safe, thermally buffered environment, that's
+
+654
+00:40:35.550 --> 00:40:40.389
+niche construction on her part. Um, AND when the
+
+655
+00:40:40.389 --> 00:40:44.729
+offspring. Consumes the pedestal and mixes the materials and
+
+656
+00:40:44.729 --> 00:40:49.209
+builds a pupation chamber, and distributes the symbiots in
+
+657
+00:40:49.209 --> 00:40:51.770
+ways that allow them to process the, um, you
+
+658
+00:40:51.770 --> 00:40:54.209
+know, the carbon nutrients, make them available for its
+
+659
+00:40:54.209 --> 00:40:57.709
+own growth. That is also niche construction, niche construction
+
+660
+00:40:57.709 --> 00:41:03.550
+on part of the larvae. And What experimenters were
+
+661
+00:41:03.550 --> 00:41:06.760
+able to show, who, you know, who have carried
+
+662
+00:41:06.760 --> 00:41:09.959
+out experiments that either allow that niche construction to
+
+663
+00:41:09.959 --> 00:41:12.360
+take place or prevent it from taking place and
+
+664
+00:41:12.360 --> 00:41:16.479
+allow that comparison, is that not only does, does
+
+665
+00:41:16.479 --> 00:41:19.399
+the niche construction make a critical difference to the
+
+666
+00:41:19.399 --> 00:41:24.080
+development of individual organisms, which traits evolve. But it
+
+667
+00:41:24.080 --> 00:41:30.570
+affects which traits become statistically associated with other traits.
+
+668
+00:41:30.649 --> 00:41:35.280
+So it generates new clusters of traits. For instance,
+
+669
+00:41:35.679 --> 00:41:38.929
+these constructing traits on both the mother and the,
+
+670
+00:41:38.939 --> 00:41:44.409
+and the larvi's part, get, gets statistically associated and
+
+671
+00:41:44.409 --> 00:41:50.500
+subsequently co-evolve with traits that respond plastically to the
+
+672
+00:41:50.500 --> 00:41:55.750
+constructed environment. Yeah, so things like um horn length,
+
+673
+00:41:55.959 --> 00:41:59.219
+and it's very contingent on the, on the um
+
+674
+00:41:59.219 --> 00:42:03.899
+activities of the organ and constructing activities. So the
+
+675
+00:42:03.899 --> 00:42:11.360
+cluster of traits that's Most significantly associated with biological
+
+676
+00:42:11.360 --> 00:42:16.500
+fitness. Changes as a result of this niche construction.
+
+677
+00:42:16.830 --> 00:42:21.149
+What that means is through their niche construction, organisms
+
+678
+00:42:21.149 --> 00:42:25.310
+are affecting the direction that natural selection takes. Yeah,
+
+679
+00:42:25.590 --> 00:42:28.060
+so which, what, what the niche construction is doing
+
+680
+00:42:28.060 --> 00:42:31.719
+is effectively shifting. The traits that are associated with
+
+681
+00:42:31.719 --> 00:42:35.840
+biological fitness and therefore modifying the direction of natural
+
+682
+00:42:35.840 --> 00:42:39.149
+selection. That's something that we need to take account
+
+683
+00:42:39.149 --> 00:42:42.709
+of if we want to understand how a population
+
+684
+00:42:42.709 --> 00:42:45.320
+will evolve and and get a better understanding on
+
+685
+00:42:45.320 --> 00:42:47.229
+why it evolves in the way that it does.
+
+686
+00:42:47.479 --> 00:42:48.919
+I mean, I think part of the, part of
+
+687
+00:42:48.919 --> 00:42:52.669
+the problem historically has been that evolutionary biologists, when
+
+688
+00:42:52.669 --> 00:42:57.360
+we, when we um seek to understand evolution. We'll
+
+689
+00:42:57.360 --> 00:43:02.399
+kind of start with selection pressures. We'll, um, we'll.
+
+690
+00:43:03.229 --> 00:43:06.149
+Examine a system in a laboratory or, or in,
+
+691
+00:43:06.189 --> 00:43:10.209
+in, uh, in nature, and we'll find that uh
+
+692
+00:43:10.270 --> 00:43:13.110
+this genotype has got higher fitness and that genotype,
+
+693
+00:43:13.120 --> 00:43:15.340
+and then we'll come up with an evolutionary explanation
+
+694
+00:43:15.340 --> 00:43:17.949
+retrospectively for why that should be. But we, our
+
+695
+00:43:17.949 --> 00:43:21.629
+analysis starts with, with, with fitness differences, and then
+
+696
+00:43:21.629 --> 00:43:25.110
+when we know there's fitness differences, fitness differences, we
+
+697
+00:43:25.110 --> 00:43:27.270
+can make predictions about how traits will evolve and
+
+698
+00:43:27.270 --> 00:43:30.020
+what, what the outcomes will be. But we tend
+
+699
+00:43:30.020 --> 00:43:33.570
+not to ask. Where did those fitness differences come
+
+700
+00:43:33.570 --> 00:43:37.020
+from? And so what a developmental perspective can give
+
+701
+00:43:37.020 --> 00:43:40.340
+us is an answer to that question. In this
+
+702
+00:43:40.340 --> 00:43:44.489
+case, the niche construction was really critical for creating
+
+703
+00:43:44.699 --> 00:43:46.419
+those selection pressures.
+
+704
+00:43:48.020 --> 00:43:50.469
+So, could you tell us about the concept of
+
+705
+00:43:50.469 --> 00:43:54.780
+dynamic adaptive landscapes and why it is important in
+
+706
+00:43:54.780 --> 00:43:56.330
+the context of your book?
+
+707
+00:43:57.090 --> 00:44:03.659
+Mhm. Yeah, so, um, adaptive landscapes are a kind
+
+708
+00:44:03.659 --> 00:44:09.139
+of, um, conceptual tool, um, that evolutionary biologists use
+
+709
+00:44:09.139 --> 00:44:12.250
+to, to think about and sometimes also to sort
+
+710
+00:44:12.250 --> 00:44:19.209
+of model, um, biological evolution. And often, oftentimes they'll
+
+711
+00:44:19.600 --> 00:44:24.219
+envisage, um, a, a surface, like a landscape, which,
+
+712
+00:44:24.560 --> 00:44:27.000
+um, you know, if you think in three dimensions,
+
+713
+00:44:27.080 --> 00:44:29.199
+you could have two dimensions, the X and Y
+
+714
+00:44:29.199 --> 00:44:32.320
+axis, if you like, which represent two different traits
+
+715
+00:44:32.320 --> 00:44:35.879
+or different, two different genotypes, and then the, the
+
+716
+00:44:35.879 --> 00:44:40.060
+vertical axis would represent the fitness. And so you
+
+717
+00:44:40.060 --> 00:44:43.810
+can plot, uh, uh, uh, um, you know, a
+
+718
+00:44:43.810 --> 00:44:49.179
+population of individuals on that surface. And, um, if
+
+719
+00:44:49.179 --> 00:44:51.500
+you know the, the values of the traits of
+
+720
+00:44:51.500 --> 00:44:54.879
+that individual with respect to those two dimensions, uh,
+
+721
+00:44:54.939 --> 00:44:57.219
+uh, you can see where they are at any
+
+722
+00:44:57.219 --> 00:44:59.820
+point in time, and you predict that they would
+
+723
+00:44:59.820 --> 00:45:02.850
+move up this fitness service to the highest fitness
+
+724
+00:45:02.850 --> 00:45:05.699
+point, or at least that's the, the traditional expectation.
+
+725
+00:45:06.979 --> 00:45:11.300
+But what's uh recent research, particularly studying sort of
+
+726
+00:45:11.300 --> 00:45:15.110
+developmental bias, but also um plasticity and niche construction
+
+727
+00:45:15.110 --> 00:45:19.159
+has shown Um, you know, formal mathematical models has
+
+728
+00:45:19.159 --> 00:45:23.479
+established that, um, these assumptions that you can always
+
+729
+00:45:23.479 --> 00:45:26.399
+travel up to the sort of, um, local fitness
+
+730
+00:45:26.399 --> 00:45:29.479
+peak is, um, there's not always occurred, it's not
+
+731
+00:45:29.479 --> 00:45:33.360
+always realized because of the developmental bias in the
+
+732
+00:45:33.360 --> 00:45:38.000
+system. And what, what developmental processes are doing is
+
+733
+00:45:38.000 --> 00:45:44.760
+effectively creating, um, viable pathways across that landscape. So
+
+734
+00:45:44.760 --> 00:45:49.679
+what natural section actually does is push populations along
+
+735
+00:45:49.679 --> 00:45:55.760
+paths created by developmental processes. And what other developmental
+
+736
+00:45:55.760 --> 00:45:59.239
+processes like plasticity, like niche construction are doing is
+
+737
+00:45:59.239 --> 00:46:03.520
+deforming the surface so that as the populations evolve,
+
+738
+00:46:03.560 --> 00:46:07.290
+that static, that surface is not static. It's, it's
+
+739
+00:46:07.290 --> 00:46:11.530
+dynamic and, um, you know, hills might appear, or,
+
+740
+00:46:11.610 --> 00:46:14.870
+or dips in the surface might appear as a
+
+741
+00:46:14.870 --> 00:46:18.429
+result of the organism's own activities, which will influence
+
+742
+00:46:18.429 --> 00:46:22.100
+the direction of its evolution. So we need to
+
+743
+00:46:22.389 --> 00:46:25.550
+take account of these developmental factors again, if we're
+
+744
+00:46:25.550 --> 00:46:29.010
+going to understand the um adaptive evolution of the
+
+745
+00:46:29.010 --> 00:46:29.459
+population.
+
+746
+00:46:30.590 --> 00:46:35.120
+And in what ways can development contribute to evolutionary
+
+747
+00:46:35.120 --> 00:46:35.929
+innovation?
+
+748
+00:46:38.090 --> 00:46:41.129
+Well, um, the, the most, uh, there are a
+
+749
+00:46:41.129 --> 00:46:44.010
+number of ways, um, the, the, the most obvious,
+
+750
+00:46:44.169 --> 00:46:47.810
+um, way I've, I've already briefly mentioned, which is
+
+751
+00:46:47.810 --> 00:46:52.060
+that there's this. There's this modular structure to development,
+
+752
+00:46:52.139 --> 00:46:57.790
+and what that effectively represents is, is pre-established bits
+
+753
+00:46:57.790 --> 00:47:00.949
+of useful kit that can be, that can be
+
+754
+00:47:00.949 --> 00:47:05.030
+reused and repurposed for, for, for new roles in
+
+755
+00:47:05.030 --> 00:47:08.340
+uh in uh uh development and in evolution. So,
+
+756
+00:47:08.669 --> 00:47:13.850
+um. I mentioned the example of the origins of
+
+757
+00:47:13.850 --> 00:47:16.550
+insect wings, which are thought to have evolved by
+
+758
+00:47:16.550 --> 00:47:19.879
+reusing some of the circuitry associated with the production
+
+759
+00:47:19.879 --> 00:47:22.639
+of insect legs. You can then go further and
+
+760
+00:47:22.639 --> 00:47:25.379
+say, you know, where did beetle horns come from?
+
+761
+00:47:25.389 --> 00:47:29.159
+Well, beetle horns actually came through the repurposing of
+
+762
+00:47:29.159 --> 00:47:31.919
+some of the, you know, regulatory circuitry that underlie
+
+763
+00:47:31.919 --> 00:47:35.504
+the Development of, of, of, of insect wings. So,
+
+764
+00:47:35.574 --> 00:47:38.544
+you know, all the time, you're sort of reusing
+
+765
+00:47:38.544 --> 00:47:43.625
+these, these pre-established, um, tools, these circuits, these, um,
+
+766
+00:47:43.784 --> 00:47:47.625
+you know, networks, which have got, you know, useful
+
+767
+00:47:47.625 --> 00:47:50.334
+functions. You don't have to do everything from scratch.
+
+768
+00:47:50.544 --> 00:47:53.745
+Um, AND one consequence of that is it's a
+
+769
+00:47:53.745 --> 00:47:58.955
+further introduction of developmental bias into the system, because
+
+770
+00:47:59.185 --> 00:48:03.050
+if you're using the same bit of kit, Again
+
+771
+00:48:03.050 --> 00:48:06.729
+and again, then any mutations that occur, any changes
+
+772
+00:48:06.729 --> 00:48:09.649
+in the operation of those will affect multiple traits
+
+773
+00:48:09.649 --> 00:48:13.679
+or multiple functionalities in the organism, and so biases
+
+774
+00:48:13.679 --> 00:48:17.010
+arise in, in the evolution of the system.
+
+775
+00:48:18.639 --> 00:48:21.320
+And, uh, I mean, this is an additional question.
+
+776
+00:48:21.610 --> 00:48:26.570
+Can, adding a developmental perspective to evolutionary biology also
+
+777
+00:48:26.570 --> 00:48:31.969
+help understand how certain traits vary in different ways
+
+778
+00:48:31.969 --> 00:48:33.570
+across different lineages.
+
+779
+00:48:36.050 --> 00:48:40.449
+Um, uh, YES, I mean, I, I, I. I
+
+780
+00:48:40.449 --> 00:48:43.429
+think one has to think about things from a,
+
+781
+00:48:43.510 --> 00:48:48.649
+a, a species specific uh perspective because, as I
+
+782
+00:48:48.649 --> 00:48:52.090
+mentioned earlier, the characteristics of the individual organism will
+
+783
+00:48:52.090 --> 00:48:56.620
+determine. Um, YOU know, how this system will evolve
+
+784
+00:48:56.620 --> 00:49:02.070
+and the nature of the evolutionary dynamic. So. One
+
+785
+00:49:02.070 --> 00:49:05.350
+of the, one of the consequences of the, the
+
+786
+00:49:05.350 --> 00:49:07.909
+sort of traditional view that natural selection is just
+
+787
+00:49:07.909 --> 00:49:13.939
+natural selection, you know, if, if um if The
+
+788
+00:49:13.939 --> 00:49:18.979
+only thing that sort of Affects the production of
+
+789
+00:49:18.979 --> 00:49:23.219
+phenotypic variation that matters in evolution is genetic mutation,
+
+790
+00:49:23.229 --> 00:49:26.169
+and that occurs at random with respect to function,
+
+791
+00:49:26.459 --> 00:49:32.219
+and if traits are inherited, Primarily through the transmission
+
+792
+00:49:32.219 --> 00:49:34.260
+of genes in a passive way from parent to
+
+793
+00:49:34.260 --> 00:49:37.260
+offspring without introducing any sort of biases in the
+
+794
+00:49:37.260 --> 00:49:42.709
+transmission process, then, All the direction in adaptive evolution
+
+795
+00:49:42.709 --> 00:49:48.280
+comes from. Differences in fitness between individuals in a
+
+796
+00:49:48.280 --> 00:49:54.239
+particular um environmental context. And that applies equally to
+
+797
+00:49:54.560 --> 00:49:59.840
+fruit flies, yeast, mice, oak trees, and humans. We
+
+798
+00:49:59.840 --> 00:50:03.989
+all evolve in the same way. Conversely, if you
+
+799
+00:50:03.989 --> 00:50:09.800
+recognize, as we do. That developmental processes bias the
+
+800
+00:50:09.800 --> 00:50:15.399
+variation that's subject to natural selection. They Influence which
+
+801
+00:50:15.399 --> 00:50:18.540
+cluster of traits is statistically associated with fitness and
+
+802
+00:50:18.540 --> 00:50:23.739
+therefore the direction of selection, and they, um, Affect
+
+803
+00:50:23.739 --> 00:50:27.280
+the nature of inheritance. They change how traits are
+
+804
+00:50:27.280 --> 00:50:32.520
+inherited from one generation to the next. Then Each
+
+805
+00:50:33.060 --> 00:50:39.030
+trait of each organism involves in its own idiosyncratic
+
+806
+00:50:39.030 --> 00:50:41.110
+way, and you need to take account of that
+
+807
+00:50:41.110 --> 00:50:44.060
+developmental knowledge in order to be able to understand
+
+808
+00:50:44.189 --> 00:50:47.270
+the evolutionary dynamics of that system. And, you know,
+
+809
+00:50:47.350 --> 00:50:51.729
+this is, I think, particular implications for Our understanding
+
+810
+00:50:51.729 --> 00:50:55.320
+of human evolution because humans don't evolve like fruit
+
+811
+00:50:55.320 --> 00:51:00.939
+flies and yeast, um, and, you know, For, for
+
+812
+00:51:00.939 --> 00:51:03.110
+the, for the longest time, of course, there's been
+
+813
+00:51:03.699 --> 00:51:07.010
+a great deal of conflict, particularly in North America,
+
+814
+00:51:07.419 --> 00:51:11.169
+between evolutionary biologist and creationist kind of explanations, um,
+
+815
+00:51:12.419 --> 00:51:14.989
+And, you know, this is a very complicated issue,
+
+816
+00:51:15.000 --> 00:51:17.949
+and there are multiple reasons for, um, you know,
+
+817
+00:51:18.310 --> 00:51:21.399
+why people might sometimes be resistant to taking on
+
+818
+00:51:21.399 --> 00:51:24.979
+board evolutionary explanations. But I think as, as a,
+
+819
+00:51:25.110 --> 00:51:27.949
+um, you know, as a community of scientists, we
+
+820
+00:51:27.949 --> 00:51:31.500
+have a responsibility to at least consider the possibility
+
+821
+00:51:31.500 --> 00:51:33.939
+that sometimes our explanations might appear a little bit
+
+822
+00:51:33.939 --> 00:51:37.520
+thin. And if we're saying that humans evolve in
+
+823
+00:51:37.520 --> 00:51:40.030
+exactly the same way that used to evolved, that
+
+824
+00:51:40.030 --> 00:51:42.679
+might not be credible to many members of the
+
+825
+00:51:42.679 --> 00:51:47.709
+public. Conversely, I think, if one recognizes that humans.
+
+826
+00:51:48.620 --> 00:51:51.419
+Don't evolve in the same way as fruit flies
+
+827
+00:51:51.419 --> 00:51:54.580
+and, and oak trees, because, you know, we develop
+
+828
+00:51:54.580 --> 00:51:57.580
+differently because we interact with the world differently and
+
+829
+00:51:57.580 --> 00:52:03.979
+because we inherit valuable resources differently, then it potentially
+
+830
+00:52:03.979 --> 00:52:07.699
+leads us to richer explanations for human evolution.
+
+831
+00:52:08.870 --> 00:52:11.989
+So talking about humans, I would like to explore
+
+832
+00:52:11.989 --> 00:52:15.750
+now an example of our development and extra genetic
+
+833
+00:52:15.750 --> 00:52:19.179
+inheritance applied to humans. So, could you tell us
+
+834
+00:52:19.179 --> 00:52:22.949
+about the evolution of the human brain and cognition?
+
+835
+00:52:24.159 --> 00:52:30.129
+Uh, SURE. Um, So, I guess the, uh, you
+
+836
+00:52:30.129 --> 00:52:32.050
+know, the, the, the thing that's really, really striking
+
+837
+00:52:32.050 --> 00:52:35.320
+about the human brain compared with other primates is
+
+838
+00:52:35.320 --> 00:52:39.570
+it's, its sheer size. It's, um, it's 3 times
+
+839
+00:52:39.570 --> 00:52:43.649
+the size of chimpanzees, 3 times the number of
+
+840
+00:52:43.649 --> 00:52:50.010
+neurons, roughly speaking. And you know, the relationship between
+
+841
+00:52:50.750 --> 00:52:56.129
+Um, brain size and cognitive capability is a very
+
+842
+00:52:56.129 --> 00:53:00.689
+complicated one, which, you know, it's probably beyond the
+
+843
+00:53:00.689 --> 00:53:04.239
+realms of this conversation to sort of go into.
+
+844
+00:53:04.570 --> 00:53:06.409
+Um, BUT, you know, I think it's fair enough
+
+845
+00:53:06.409 --> 00:53:10.409
+to say other things being held equal, if we're
+
+846
+00:53:10.409 --> 00:53:15.169
+not making comparisons across vastly different taxonomic groups where
+
+847
+00:53:15.169 --> 00:53:18.449
+the brains are organized in very different ways. Um,
+
+848
+00:53:18.520 --> 00:53:21.169
+YOU know, by and large, you've got a bigger
+
+849
+00:53:21.169 --> 00:53:25.189
+brain, it allows you more processing power, more neurons
+
+850
+00:53:25.639 --> 00:53:29.850
+lead to. Greater processing power, other things being held
+
+851
+00:53:29.850 --> 00:53:32.689
+equal, but there's a catch when it comes to.
+
+852
+00:53:33.600 --> 00:53:38.429
+That, which is the brains are incredibly expensive organs,
+
+853
+00:53:38.639 --> 00:53:42.229
+um, you know, there's a huge energy budget associated
+
+854
+00:53:42.229 --> 00:53:46.179
+with, Um, the, the human brain, which humans are
+
+855
+00:53:46.179 --> 00:53:49.229
+willing to pay, but other apes and other primates,
+
+856
+00:53:49.379 --> 00:53:51.620
+by and large do not pay, even though they,
+
+857
+00:53:51.719 --> 00:53:54.169
+they themselves often have very large brains relative to
+
+858
+00:53:54.340 --> 00:53:57.520
+other mammals. So that raises the question of how,
+
+859
+00:53:57.639 --> 00:53:59.280
+how have we been possible, how has it been
+
+860
+00:53:59.280 --> 00:54:04.389
+possible for humans to afford this big brain? Well,
+
+861
+00:54:04.429 --> 00:54:06.909
+where does the energy come from? It comes from
+
+862
+00:54:06.909 --> 00:54:13.040
+food. We get our food. By foraging and In
+
+863
+00:54:13.040 --> 00:54:19.379
+order to Evolve a larger brain. An organism would
+
+864
+00:54:19.379 --> 00:54:26.719
+have to either forage more efficiently. Or make savings
+
+865
+00:54:26.719 --> 00:54:31.100
+in other tissues. That, um, allow it to invest
+
+866
+00:54:31.100 --> 00:54:34.770
+more of its energy budget in its brain. Now
+
+867
+00:54:34.770 --> 00:54:36.610
+humans have been able to do both, they've been
+
+868
+00:54:36.610 --> 00:54:40.090
+able to do both because they have this extraordinary
+
+869
+00:54:40.090 --> 00:54:42.610
+capacity for extra genetic inheritance in the form of
+
+870
+00:54:42.610 --> 00:54:48.899
+our culture. Um So, if one looks at um
+
+871
+00:54:49.149 --> 00:54:53.469
+primates in general, particularly gray apes, but also particularly
+
+872
+00:54:53.469 --> 00:54:58.790
+humans, we see that the um The the really
+
+873
+00:54:58.860 --> 00:55:03.629
+um. High return foods that are consumed, the high
+
+874
+00:55:03.629 --> 00:55:08.229
+energy budget foods. Often require a great deal of
+
+875
+00:55:08.360 --> 00:55:13.399
+um um resource to, to capture, to process in
+
+876
+00:55:13.399 --> 00:55:16.000
+various ways, and then to consume. So, you know,
+
+877
+00:55:16.280 --> 00:55:19.520
+think of, think of nuts they've got protective shells,
+
+878
+00:55:19.639 --> 00:55:22.360
+think of invertebrates that, you know, need to be
+
+879
+00:55:22.360 --> 00:55:25.070
+caught. Think of vertebrates are even more challenging to,
+
+880
+00:55:25.199 --> 00:55:29.159
+to catch, um think of resources like honey, where
+
+881
+00:55:29.159 --> 00:55:30.840
+a whole series of steps that you have to
+
+882
+00:55:30.840 --> 00:55:32.739
+engage in in order to access it in an
+
+883
+00:55:32.739 --> 00:55:34.840
+effective way without getting stung to death and so
+
+884
+00:55:34.840 --> 00:55:39.040
+on. Um, SO that What's actually really well established,
+
+885
+00:55:39.080 --> 00:55:42.030
+I think, and from studies of, um, you know,
+
+886
+00:55:42.550 --> 00:55:48.239
+um, behavioral development in primates is that these um
+
+887
+00:55:48.239 --> 00:55:51.959
+more challenging foods to acquire, but which are energy
+
+888
+00:55:51.959 --> 00:55:56.919
+rich, are typically learned socially. Animals, um, in primates
+
+889
+00:55:56.919 --> 00:56:00.310
+acquire these skills through imitation and other forms of
+
+890
+00:56:00.469 --> 00:56:04.909
+observational learning. And, uh, and there's actually legions of
+
+891
+00:56:04.909 --> 00:56:07.830
+evidence that that supports that claim now across a
+
+892
+00:56:07.830 --> 00:56:12.590
+broad range of species, including humans. And um We
+
+893
+00:56:12.590 --> 00:56:16.149
+can see, if we take a comparative perspective, uh,
+
+894
+00:56:16.159 --> 00:56:19.750
+correlations between the breadth of an animal's diet, the
+
+895
+00:56:19.750 --> 00:56:22.510
+richness of an animal's diet, the extent of its
+
+896
+00:56:22.510 --> 00:56:24.989
+reliance on social learning, the extent of which reliance
+
+897
+00:56:24.989 --> 00:56:27.270
+on tools, because often to acquire these foods, you
+
+898
+00:56:27.270 --> 00:56:30.389
+have to use tools, um, the extent of extractive
+
+899
+00:56:30.389 --> 00:56:35.290
+foraging. These traits, this cluster of traits. Um, TENDS
+
+900
+00:56:35.290 --> 00:56:38.850
+to have co-evolved again, we see evidence for developmental
+
+901
+00:56:38.850 --> 00:56:42.169
+bias that cluster of traits co-evolving. So you've got
+
+902
+00:56:42.169 --> 00:56:45.649
+smart primates like chimpanzees and orangutans, of course, humans
+
+903
+00:56:45.649 --> 00:56:48.090
+fall into that bracket who are good at all
+
+904
+00:56:48.090 --> 00:56:50.169
+of those things, good at tools, good at social
+
+905
+00:56:50.169 --> 00:56:54.179
+learning, good at extractive foraging, very broad diets, um,
+
+906
+00:56:54.219 --> 00:56:58.689
+and other, um, primates, no nocturnal prosimians, for instance,
+
+907
+00:56:58.810 --> 00:57:01.050
+that are less good at, at all, all of
+
+908
+00:57:01.050 --> 00:57:06.250
+those things. So, um, what's going on, so that's
+
+909
+00:57:06.250 --> 00:57:08.129
+a more cognitive side. So what's going on with
+
+910
+00:57:08.129 --> 00:57:11.370
+the brain? Well, um, actually you can, it turns
+
+911
+00:57:11.370 --> 00:57:13.489
+out you can make sense of quite a lot
+
+912
+00:57:13.489 --> 00:57:18.959
+of the variation in brain size across primates. Through
+
+913
+00:57:20.439 --> 00:57:23.639
+Including, you know, variation in the individual components of
+
+914
+00:57:23.639 --> 00:57:27.439
+the brain through variation in the, um, in, in
+
+915
+00:57:27.439 --> 00:57:30.909
+the whole brain size. Yeah. So the whole brain
+
+916
+00:57:30.909 --> 00:57:33.530
+evolves in a concerted way, either sort of get,
+
+917
+00:57:33.679 --> 00:57:36.800
+or gets bigger or gets smaller, and that typically
+
+918
+00:57:36.800 --> 00:57:40.080
+happens through extending the period of neurogenesis. You just
+
+919
+00:57:40.080 --> 00:57:42.550
+kind of cook the brain for longer in development,
+
+920
+00:57:42.840 --> 00:57:45.709
+and that means that certain structures like the neo
+
+921
+00:57:45.709 --> 00:57:49.820
+uh neocortex and the, uh, and various other Um,
+
+922
+00:57:50.139 --> 00:57:55.199
+um. Teachers get proportion disproportionately large. So, so the
+
+923
+00:57:55.199 --> 00:57:57.439
+point I was going to make was the, the
+
+924
+00:57:57.439 --> 00:58:04.239
+um the capacity. To, um, To grow that brain
+
+925
+00:58:04.929 --> 00:58:10.030
+is critically reliant on culturally acquired knowledge without that
+
+926
+00:58:10.360 --> 00:58:13.679
+form of extra genetic inheritance. You wouldn't be able
+
+927
+00:58:13.679 --> 00:58:16.280
+to generate the energy to cook that brain for
+
+928
+00:58:16.280 --> 00:58:19.600
+longer and support such a large brain, but then
+
+929
+00:58:19.600 --> 00:58:22.239
+once you have that large brain, it provides you
+
+930
+00:58:22.239 --> 00:58:27.290
+with the cognitive processing power. To support all of
+
+931
+00:58:27.290 --> 00:58:31.850
+the complex learning and behavior that you're utilizing in
+
+932
+00:58:31.850 --> 00:58:35.000
+a sort of, uh, you know, dynamical feedback way.
+
+933
+00:58:35.729 --> 00:58:38.449
+So, um, that's one side. But then there's also
+
+934
+00:58:38.449 --> 00:58:41.050
+this developmental bias, which is, which is playing a
+
+935
+00:58:41.050 --> 00:58:43.770
+role and showing how the brain areas are evolve
+
+936
+00:58:43.770 --> 00:58:46.850
+evolve in a concerted way, and that, that, that
+
+937
+00:58:46.850 --> 00:58:50.330
+similar kind of um co-evolution of traits is occurring
+
+938
+00:58:50.570 --> 00:58:53.389
+at the behavioral level. And then when it comes
+
+939
+00:58:53.389 --> 00:58:58.399
+to um The way we process our foods, we
+
+940
+00:58:58.399 --> 00:59:00.760
+cook our food, we chop our food, we mash
+
+941
+00:59:00.760 --> 00:59:04.199
+our food, we pound our foods, and all of
+
+942
+00:59:04.199 --> 00:59:09.820
+those activities are. Uh, IN various different ways, breaking
+
+943
+00:59:09.820 --> 00:59:14.629
+down the proteins and making the food, um. Easier
+
+944
+00:59:14.629 --> 00:59:19.000
+to extract the nutrients and the resources. We're effectively
+
+945
+00:59:19.000 --> 00:59:23.820
+externalizing part of the digestive process, and because we've
+
+946
+00:59:23.820 --> 00:59:28.790
+externalized the digestive process, We don't need such large
+
+947
+00:59:28.790 --> 00:59:33.030
+guts in order to, to, um, you know, to
+
+948
+00:59:33.030 --> 00:59:36.030
+process the foods that we consume internally, and so
+
+949
+00:59:36.030 --> 00:59:38.070
+we can make energy savings on a gut that
+
+950
+00:59:38.070 --> 00:59:40.270
+can be invested in our brains. So what has
+
+951
+00:59:40.270 --> 00:59:44.459
+happened is effectively, you know, we, through our culture
+
+952
+00:59:44.459 --> 00:59:49.350
+and through our developmental bias, have shifted the balance
+
+953
+00:59:49.350 --> 00:59:55.320
+from a primate that was um Relying on a
+
+954
+00:59:55.320 --> 00:59:58.699
+relatively large gut and a relatively small brain. To
+
+955
+00:59:58.699 --> 01:00:00.939
+a primate that is reliant on a relatively large
+
+956
+01:00:00.939 --> 01:00:02.179
+brain and relatively small gum.
+
+957
+01:00:04.300 --> 01:00:06.860
+Great. So I have one last question I would
+
+958
+01:00:06.860 --> 01:00:08.419
+like to ask you. I know that you are
+
+959
+01:00:08.419 --> 01:00:12.260
+a proponent, a proponent of the extended evolutionary synthesis.
+
+960
+01:00:12.379 --> 01:00:14.899
+So, could you tell us about that and what
+
+961
+01:00:14.899 --> 01:00:18.620
+are the main differences between the modern evolutionary synthesis
+
+962
+01:00:18.620 --> 01:00:22.379
+and the extended evolutionary synthesis and in what ways
+
+963
+01:00:22.379 --> 01:00:26.300
+do you think basically that evolutionary theory needs to
+
+964
+01:00:26.300 --> 01:00:27.340
+be reframed?
+
+965
+01:00:29.209 --> 01:00:34.310
+Sure, so, um The extended evolutionary synthesis you can
+
+966
+01:00:34.310 --> 01:00:36.750
+think of as, as, uh, just another way to
+
+967
+01:00:36.750 --> 01:00:40.699
+think about evolution. It's a conceptual framework. It's um
+
+968
+01:00:41.229 --> 01:00:45.590
+perhaps best thought of as a, a revised structure
+
+969
+01:00:45.590 --> 01:00:49.510
+or understanding to how, um, how, how we explain
+
+970
+01:00:49.510 --> 01:00:56.510
+evolution, um, as I described earlier, the traditional way
+
+971
+01:00:56.510 --> 01:01:00.520
+of thinking about evolution, the, the way That's dominated
+
+972
+01:01:00.520 --> 01:01:04.689
+evolutionary biology for um at least 100 years, has
+
+973
+01:01:04.689 --> 01:01:07.879
+been very sort of gene-centric, gene-focused, that's to say,
+
+974
+01:01:07.889 --> 01:01:10.090
+of course, we, that, you know, what evolutionary biologists
+
+975
+01:01:10.090 --> 01:01:12.610
+don't study phenotypes, of course, they do, they study
+
+976
+01:01:12.610 --> 01:01:14.449
+the traits of organisms in a variety of different
+
+977
+01:01:14.449 --> 01:01:18.530
+ways, but the explanations that they give, um, you
+
+978
+01:01:18.530 --> 01:01:21.429
+know, are heavily reliant on genes and gene frequency
+
+979
+01:01:21.429 --> 01:01:25.610
+change. Evolution is change in gene frequencies, um, that's
+
+980
+01:01:25.610 --> 01:01:31.179
+how it's Often defined, um, we track evolution through
+
+981
+01:01:31.179 --> 01:01:35.219
+population genetic models or quantitative genetic models. So genes,
+
+982
+01:01:35.340 --> 01:01:38.510
+um, and they change over time or how we
+
+983
+01:01:38.510 --> 01:01:43.570
+make sense of interpret evolution. And the um extended
+
+984
+01:01:43.570 --> 01:01:47.239
+evolutionary synthesis you can view as one of, I,
+
+985
+01:01:47.340 --> 01:01:49.209
+I think of it as a kind of umbrella
+
+986
+01:01:49.209 --> 01:01:54.969
+concept. Um, IT'S in, in many ways, cognitively linked
+
+987
+01:01:54.969 --> 01:02:01.110
+to, it has cogate links with, with other organism-centered
+
+988
+01:02:01.530 --> 01:02:05.939
+approaches to evolution like Um, some aspects of Evodevo,
+
+989
+01:02:06.060 --> 01:02:09.790
+like Ecodevo, like, uh, developmental systems theory or this
+
+990
+01:02:09.790 --> 01:02:14.139
+construction theory. Um, THERE are, there are a number
+
+991
+01:02:14.139 --> 01:02:20.830
+of, of, um, movements or subfields, uh, of biology
+
+992
+01:02:21.060 --> 01:02:25.409
+that place the organism center stage in evolution and,
+
+993
+01:02:25.489 --> 01:02:29.409
+and Um, place emphasis on the active agency of
+
+994
+01:02:29.409 --> 01:02:34.810
+the organism and how development matters in evolution. And
+
+995
+01:02:35.260 --> 01:02:37.449
+the extent of evolutionary synthesis is really just a
+
+996
+01:02:37.449 --> 01:02:39.770
+sort of umbrella term for, for all of those
+
+997
+01:02:39.770 --> 01:02:42.330
+things. And when I, um, you know, when in
+
+998
+01:02:42.330 --> 01:02:44.969
+our book we, you know, we talk about evolution
+
+999
+01:02:44.969 --> 01:02:49.090
+evolving, we don't really, um, characterize it as an
+
+1000
+01:02:49.090 --> 01:02:52.800
+extended evolutionary synthesis. Um, BOOK, but that's what it
+
+1001
+01:02:52.800 --> 01:02:55.600
+is, but it's equally a book for advocates of
+
+1002
+01:02:55.600 --> 01:02:59.479
+Evodevo and Eco-devo and, and developmental systems theory. We
+
+1003
+01:02:59.479 --> 01:03:05.340
+try and champion all of those approaches and um
+
+1004
+01:03:06.280 --> 01:03:09.639
+They are distinctive because of their emphasis on things
+
+1005
+01:03:09.639 --> 01:03:13.760
+like niche construction, emphasizing our niche construction is important,
+
+1006
+01:03:13.800 --> 01:03:16.919
+the active agency of organisms is important. The plasticity
+
+1007
+01:03:16.919 --> 01:03:20.919
+led evolution is frequently important that extra genetic inheritance
+
+1008
+01:03:20.919 --> 01:03:23.679
+is occurring in a variety of different ways, and
+
+1009
+01:03:23.679 --> 01:03:27.360
+that makes a difference to how populations evolve that
+
+1010
+01:03:27.360 --> 01:03:30.360
+developmental bias is a really central concept, and so
+
+1011
+01:03:30.360 --> 01:03:33.929
+we have this reciprocal causal framework to our understanding.
+
+1012
+01:03:34.544 --> 01:03:39.814
+OF evolutionary change, and that's the evolutionary process itself
+
+1013
+01:03:39.814 --> 01:03:43.784
+evolves over time. This is emphasis on evolvability. So
+
+1014
+01:03:43.784 --> 01:03:46.024
+all of these are ideas that are central to
+
+1015
+01:03:46.024 --> 01:03:49.364
+the extent of evolutionary synthesis that are central to
+
+1016
+01:03:49.364 --> 01:03:53.114
+our book, but also central to a variety of
+
+1017
+01:03:53.114 --> 01:03:56.465
+organism centered approaches, which I think are gaining traction
+
+1018
+01:03:56.465 --> 01:03:56.905
+currently.
+
+1019
+01:03:58.209 --> 01:04:01.209
+Great. So, the book is again evolution evolving, the
+
+1020
+01:04:01.209 --> 01:04:06.419
+developmental origins of adaptation and biodiversity. There it is.
+
+1021
+01:04:08.060 --> 01:04:10.060
+I'm leaving a link to it in the description
+
+1022
+01:04:10.060 --> 01:04:13.219
+box of the interview and Doctor Law, apart from
+
+1023
+01:04:13.219 --> 01:04:15.800
+the book, just before we go, are there any
+
+1024
+01:04:15.800 --> 01:04:18.659
+places on the internet where people can find your
+
+1025
+01:04:18.659 --> 01:04:19.090
+work?
+
+1026
+01:04:19.909 --> 01:04:24.060
+Uh, YEAH, we actually have um a website associated
+
+1027
+01:04:24.060 --> 01:04:29.260
+with the book, uh, evolution Evolving.com. Um, AND, um,
+
+1028
+01:04:29.659 --> 01:04:32.090
+if you go to that website, you can see
+
+1029
+01:04:32.260 --> 01:04:34.939
+um a number of other resources, not just information
+
+1030
+01:04:34.939 --> 01:04:38.290
+about the book, but we've produced some animations, um,
+
+1031
+01:04:38.300 --> 01:04:42.959
+which will In 235 minutes, uh, give you overviews
+
+1032
+01:04:42.959 --> 01:04:46.639
+of how developmental plasticity works or the nature of
+
+1033
+01:04:46.639 --> 01:04:49.439
+extra genetic inheritance. Uh, AND I think these are,
+
+1034
+01:04:49.639 --> 01:04:53.239
+these are really cool, um, educational resources in, in
+
+1035
+01:04:53.239 --> 01:04:56.080
+their own right. So I encouraging, I encourage you
+
+1036
+01:04:56.080 --> 01:04:58.080
+to take a look at those. Thank you.
+
+1037
+01:04:58.719 --> 01:05:00.879
+Great. So thank you so much for taking the
+
+1038
+01:05:00.879 --> 01:05:02.639
+time to come on the show. It's been a
+
+1039
+01:05:02.639 --> 01:05:04.189
+real pleasure to talk with you.
+
+1040
+01:05:04.439 --> 01:05:06.600
+Thank you very much, Ricardo. I appreciate your interest.
+
+1041
+01:05:07.629 --> 01:05:10.149
+Hi guys, thank you for watching this interview until
+
+1042
+01:05:10.149 --> 01:05:12.280
+the end. If you liked it, please share it,
+
+1043
+01:05:12.469 --> 01:05:15.260
+leave a like and hit the subscription button. The
+
+1044
+01:05:15.260 --> 01:05:17.459
+show is brought to you by Nights Learning and
+
+1045
+01:05:17.459 --> 01:05:21.540
+Development done differently, check their website at Nights.com and
+
+1046
+01:05:21.540 --> 01:05:25.260
+also please consider supporting the show on Patreon or
+
+1047
+01:05:25.260 --> 01:05:27.739
+PayPal. I would also like to give a huge
+
+1048
+01:05:27.739 --> 01:05:31.169
+thank you to my main patrons and PayPal supporters
+
+1049
+01:05:31.169 --> 01:05:35.100
+Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf,
+
+1050
+01:05:35.179 --> 01:05:38.429
+Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis,
+
+1051
+01:05:38.560 --> 01:05:41.850
+Erika Lenny, John Connors, Philip Fors Connolly. Then the
+
+1052
+01:05:41.850 --> 01:05:46.229
+Matri Robert Windegaruyasi Zu Mark Nes called Holbrookfield governor
+
+1053
+01:05:46.639 --> 01:05:50.649
+Michael Stormir Samuel Andrea, Francis Forti Agnunseroro and Hal
+
+1054
+01:05:50.649 --> 01:05:54.770
+Herzognun Macha Joan Labra Jasent and the Samuel Corriere,
+
+1055
+01:05:54.929 --> 01:05:58.600
+Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David
+
+1056
+01:05:58.600 --> 01:06:02.459
+Sloan Wilson, Asila dearraujoro and Roach Diego Londono Correa.
+
+1057
+01:06:02.840 --> 01:06:08.149
+Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynaleb medicine,
+
+1058
+01:06:08.879 --> 01:06:13.469
+Gary Galman Samov Zaledrianei Poltonin John Barboza, Julian Price,
+
+1059
+01:06:13.760 --> 01:06:18.209
+Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon
+
+1060
+01:06:18.209 --> 01:06:22.679
+Scorteus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John
+
+1061
+01:06:22.679 --> 01:06:27.620
+Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai
+
+1062
+01:06:27.620 --> 01:06:32.120
+Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the
+
+1063
+01:06:32.120 --> 01:06:36.669
+Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez,
+
+1064
+01:06:36.699 --> 01:06:40.919
+Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old
+
+1065
+01:06:40.919 --> 01:06:45.830
+Eringbo. Sterry Michael Bailey, then Sperber, Robert Grassy Zigoren,
+
+1066
+01:06:45.989 --> 01:06:50.429
+Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas
+
+1067
+01:06:50.429 --> 01:06:54.760
+Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert,
+
+1068
+01:06:54.909 --> 01:07:00.260
+Jessica Nowicki, Linda Brendon, Nicholas Carlsson, Ismael Bensleyman. George
+
+1069
+01:07:00.260 --> 01:07:05.489
+Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert,
+
+1070
+01:07:06.310 --> 01:07:12.149
+Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner,
+
+1071
+01:07:12.270 --> 01:07:17.030
+Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike
+
+1072
+01:07:17.030 --> 01:07:20.695
+Levine, and Jos Net. A special thanks to my
+
+1073
+01:07:20.695 --> 01:07:23.534
+producers. These are Webb, Jim, Frank Lucas Steffinik, Tom
+
+1074
+01:07:23.534 --> 01:07:28.415
+Venneden, Bernardin Curtis Dixon, Benedict Muller, Thomas Trumbo, Catherine
+
+1075
+01:07:28.415 --> 01:07:31.695
+and Patrick Tobin, Gian Carlo Montenegroal N Cortiz and
+
+1076
+01:07:31.695 --> 01:07:35.054
+Nick Golden, and to my executive producers Matthew Levender,
+
+1077
+01:07:35.135 --> 01:07:38.294
+Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for
+
+1078
+01:07:38.294 --> 01:07:38.614
+all.
+

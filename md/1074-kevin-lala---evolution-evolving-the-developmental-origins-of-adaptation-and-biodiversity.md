@@ -5,13 +5,16 @@
 	"episodeid": "1074",
 	"excerpt": "Dr. Kevin Lala is Professor of Behavioral and Evolutionary Biology at the University of St Andrews in Scotland. He is one of the co-founders of niche construction theory and a prominent advocate of the extended evolutionary synthesis. His research encompasses a range of topics related to animal behavior and evolution; particularly animal social learning, innovation and intelligence; niche construction, inclusive inheritance, and the extended evolutionary synthesis; and human evolution, cultural evolution, and gene-culture coevolution. He is the author of several books including Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.",
 	"image": "https://i.ytimg.com/vi/MJK04Wmq7js/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1074-kevin-lala-evolution-evolving-the-developmental/id1451347236?i=1000700309021&uo=4",
 	"publishDate": 2025-03-21,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1074-Kevin-Lala---Evolution-Evolving-The-Developmental-Origins-of-Adaptation-and-Biodiversity-e2tpolf",
 	"tags": [
 		"Biology"
 	],
 	"title": "#1074 Kevin Lala - Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity",
-	"youtubeid": "MJK04Wmq7js"
+	"vtt": "1074.vtt",
+	"youtubeid": "MJK04Wmq7js",
+	"transcript": "1074.lines.json"
 }
 ---
 RECORDED ON JANUARY 21st 2025.  
