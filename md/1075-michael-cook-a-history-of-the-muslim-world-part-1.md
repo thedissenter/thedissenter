@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1075 Michael Cook: A History of the Muslim World (Part 1)",
-	"youtubeid": "GlKg65WeX9s"
+	"vtt": "1075.vtt",
+	"youtubeid": "GlKg65WeX9s",
+	"transcript": "1075.lines.json"
 }
 ---
 RECORDED ON JANUARY 22nd 2025.  
