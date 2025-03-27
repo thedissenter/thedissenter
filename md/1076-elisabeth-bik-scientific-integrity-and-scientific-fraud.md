@@ -11,7 +11,9 @@
 		"General Science"
 	],
 	"title": "#1076 Elisabeth Bik: Scientific Integrity and Scientific Fraud",
-	"youtubeid": "jYZQv8aKPsU"
+	"vtt": "1076.vtt",
+	"youtubeid": "jYZQv8aKPsU",
+	"transcript": "1076.lines.json"
 }
 ---
 RECORDED ON JANUARY 24th 2025.  
