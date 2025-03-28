@@ -5,6 +5,7 @@
 	"episodeid": "1076",
 	"excerpt": "Dr. Elisabeth Bik is a microbiologist and scientific integrity consultant. She is known for her work detecting photo manipulation in scientific publications. Her work has resulted in 1069 Retractions, 149 Expressions of Concern, and 1008 Corrections (as of November 2023). Dr. Bik is the founder of Microbiome Digest, a blog with daily updates on microbiome research, and the Science Integrity Digest blog.",
 	"image": "https://i.ytimg.com/vi/jYZQv8aKPsU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1076-elisabeth-bik-scientific-integrity-and/id1451347236?i=1000701142605&uo=4",
 	"publishDate": 2025-03-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1076-Elisabeth-Bik-Scientific-Integrity-and-Scientific-Fraud-e2ttuq0",
 	"tags": [
