@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1077 Blaine Fowers: The Science of Virtue",
-	"youtubeid": "FCDEn8WDFok"
+	"vtt": "1077.vtt",
+	"youtubeid": "FCDEn8WDFok",
+	"transcript": "1077.lines.json"
 }
 ---
 RECORDED ON JANUARY 28th 2025.  
