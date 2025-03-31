@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1078 Debra Lieberman: The Evolutionary Psychology of Disgust, Gratitude, and Emotional Tears",
-	"youtubeid": "pA3LJMV_Irw"
+	"vtt": "1078.vtt",
+	"youtubeid": "pA3LJMV_Irw",
+	"transcript": "1078.lines.json"
 }
 ---
 RECORDED ON JANUARY 31st 2025.  
