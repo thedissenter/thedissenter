@@ -5,6 +5,7 @@
 	"episodeid": "1079",
 	"excerpt": "Dr. Christopher Federico is Professor of Political Science and Psychology at the University of Minnesota. He also serves as President of the International Society of Political Psychology. His research focuses in particular on the nature of ideology and belief systems, the psychological foundations of political preferences, and intergroup attitudes. He is co-author (with Christopher Johnston and Howard Lavine) of Open Versus Closed: Personality, Identity, and the Politics of Redistribution, and a co-editor of the volumes At the Forefront of Political Psychology: Essays in Honor of John L. Sullivan, and The Political Psychology of Democratic Citizenship.",
 	"image": "https://i.ytimg.com/vi/yd9Y-Sx30hc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1079-christopher-federico-political-preferences-belief/id1451347236?i=1000702088273&uo=4",
 	"publishDate": 2025-04-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1079-Christopher-Federico-Political-Preferences--Belief-Systems--Collective-Narcissism---More-e2uc35a",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1079 Christopher Federico: Political Preferences, Belief Systems, Collective Narcissism, & More",
-	"youtubeid": "yd9Y-Sx30hc"
+	"vtt": "1079.vtt",
+	"youtubeid": "yd9Y-Sx30hc",
+	"transcript": "1079.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 3rd 2025.  
