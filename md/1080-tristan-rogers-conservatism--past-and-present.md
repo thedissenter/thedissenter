@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1080 Tristan Rogers: Conservatism, Past and Present",
-	"youtubeid": "cnFY_Pgosf8"
+	"vtt": "1080.vtt",
+	"youtubeid": "cnFY_Pgosf8",
+	"transcript": "1080.lines.json"
 }
 ---
 RECORDED ON MARCH 14th 2025.  
