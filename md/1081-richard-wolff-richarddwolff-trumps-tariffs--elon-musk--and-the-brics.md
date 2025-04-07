@@ -13,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1081 Richard Wolff (@RichardDWolff): Trump's Tariffs, Elon Musk, and the BRICS",
-	"youtubeid": "Q3LC_GQHeI0"
+	"vtt": "1081.vtt",
+	"youtubeid": "Q3LC_GQHeI0",
+	"transcript": "1081.lines.json"
 }
 ---
 RECORDED ON APRIL 4th 2025.  
