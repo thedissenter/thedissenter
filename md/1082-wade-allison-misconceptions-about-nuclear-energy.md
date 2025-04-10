@@ -11,7 +11,9 @@
 		"General Science"
 	],
 	"title": "#1082 Wade Allison: Misconceptions About Nuclear Energy",
-	"youtubeid": "FSpjPPA2L6Y"
+	"vtt": "1082.vtt",
+	"youtubeid": "FSpjPPA2L6Y",
+	"transcript": "1082.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 11th 2025.  
