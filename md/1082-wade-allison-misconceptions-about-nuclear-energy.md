@@ -5,6 +5,7 @@
 	"episodeid": "1082",
 	"excerpt": "Dr. Wade Allison is Emeritus Professor in the Department of Physics at the University of Oxford. He is the author of books like Nuclear is for Life: A Cultural Revolution, Radiation and Reason: The Impact of Science on a Culture of Fear, and Fundamental Physics for Probing and Imaging.",
 	"image": "https://i.ytimg.com/vi/FSpjPPA2L6Y/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1082-wade-allison-misconceptions-about-nuclear-energy/id1451347236?i=1000703059365&uo=4",
 	"publishDate": 2025-04-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1082-Wade-Allison-Misconceptions-About-Nuclear-Energy-e2unfco",
 	"tags": [
