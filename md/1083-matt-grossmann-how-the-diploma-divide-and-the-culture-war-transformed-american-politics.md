@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1083 Matt Grossmann: How the Diploma Divide and the Culture War Transformed American Politics",
-	"youtubeid": "SCojmOG70SY"
+	"vtt": "1083.vtt",
+	"youtubeid": "SCojmOG70SY",
+	"transcript": "1083.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 12th 2025.  
