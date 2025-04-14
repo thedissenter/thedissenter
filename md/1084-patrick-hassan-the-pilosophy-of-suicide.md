@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1084 Patrick Hassan: The Pilosophy of Suicide",
-	"youtubeid": "OUwvf0uWlW0"
+	"vtt": "1084.vtt",
+	"youtubeid": "OUwvf0uWlW0",
+	"transcript": "1084.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 17th 2025.  
