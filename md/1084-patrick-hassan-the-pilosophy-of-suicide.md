@@ -1,0 +1,44 @@
+---
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/98613435/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-17%2F7ac5da74-6815-fc49-c7a8-865265e6fba9.m4a",
+	"draft": false,
+	"episodeid": "1084",
+	"excerpt": "Dr. Patrick Hassan is a Senior Lecturer at the School of English, Communication and Philosophy at Cardiff University. His primary areas of interest are moral and existential philosophy. Currently, I work on 19th century philosophy (particularly Nietzsche and Schopenhauer), ethics and its relation to aesthetics, and environmental philosophy. He is the author of Nietzsche's Struggle against Pessimism.",
+	"image": "https://i.ytimg.com/vi/OUwvf0uWlW0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1084-patrick-hassan-the-pilosophy-of-suicide/id1451347236?i=1000703498070&uo=4",
+	"publishDate": 2025-04-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1084-Patrick-Hassan-The-Pilosophy-of-Suicide-e2uvunr",
+	"tags": [
+		"Philosophy"
+	],
+	"title": "#1084 Patrick Hassan: The Pilosophy of Suicide",
+	"youtubeid": "OUwvf0uWlW0"
+}
+---
+RECORDED ON FEBRUARY 17th 2025.  
+Dr. Patrick Hassan is a Senior Lecturer at the School of English, Communication and Philosophy at Cardiff University. His primary areas of interest are moral and existential philosophy. Currently, I work on 19th century philosophy (particularly Nietzsche and Schopenhauer), ethics and its relation to aesthetics, and environmental philosophy. He is the author of Nietzsche's Struggle against Pessimism.
+
+In this episode, we talk about the philosophy of suicide. We start by discussing what it is, and how it compares to scientific approaches to suicide. We talk about what is suicide, how old the philosophy of suicide is, how suicide was approached morally before the 19th century, and a shift in the 19th century toward a more psycho-sociological and biological approach to suicide. We discuss how pessimism relates to suicide, whether pessimists are against suicide, and what they think about the medicalization of suicide. We talk about how pessimism compares to traditional and progressive approaches to suicide. We discuss James Sully’s psychological reduction of philosophical pessimism and challenges to it. Finally, we talk about the current state of the philosophy of suicide.
+
+Time Links:  
+<time>00:00</time> Intro  
+<time>00:35</time> What is the philosophy of suicide?  
+<time>01:46</time> How it compares to scientific approaches to suicide  
+<time>03:41</time> What is suicide?  
+<time>09:18</time> How old is the philosophy of suicide?  
+<time>11:19</time> Suicide before the 19th century  
+<time>15:46</time> A shift in thinking in the 19th century  
+<time>22:47</time> How pessimism relates to suicide  
+<time>27:40</time> Pessimists and the medicalization of suicide  
+<time>29:54</time> Pessimist, traditional, and progressive approaches to suicide  
+<time>34:48</time> James Sully’s psychological reduction of philosophical pessimism  
+<time>48:34</time> The current state of the philosophy of suicide  
+<time>51:09</time> Follow Dr. Hassan’s work!
+
+---
+
+Follow Dr. Hassan’s work:  
+Our first interview: https://youtu.be/BmvB4Gb1MJ4  
+Faculty page: https://bit.ly/45qrcwE  
+PhilPeople profile: https://bit.ly/4029VJa  
+Nietzsche's Struggle against Pessimism: https://bit.ly/3sFxOtN
