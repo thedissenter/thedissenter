@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1085 Joshua Glasgow - The Significance Impulse: On the Unimportance of Our Cosmic Unimportance",
-	"youtubeid": "ff7ATX8hNTE"
+	"vtt": "1085.vtt",
+	"youtubeid": "ff7ATX8hNTE",
+	"transcript": "1085.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 20th 2025.  
