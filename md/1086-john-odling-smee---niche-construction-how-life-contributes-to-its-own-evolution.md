@@ -11,7 +11,9 @@
 		"Biology"
 	],
 	"title": "#1086 John Odling-Smee - Niche Construction: How Life Contributes to Its Own Evolution",
-	"youtubeid": "gRBMWdXApCE"
+	"vtt": "1086.vtt",
+	"youtubeid": "gRBMWdXApCE",
+	"transcript": "1086.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 14th 2025.  

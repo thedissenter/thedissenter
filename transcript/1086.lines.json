@@ -1,0 +1,297 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. I'm your host, as always, Ricardo Lopez, and today I'm joined by Doctor John Odling Smith. He's Emeritus Research fellow at the Mansfield College at the University of Oxford. And today we're talking about his book Nic Construction How Life Contributes to its own Evolution. So, Doctor Odling Smith, welcome to the show. It's an honor to everyone. Thank you. So, you start your book by talking about, uh, physics and about life itself and the origin of life. So, uh, tell us first about the second law of thermodynamics. Why is it important in the context of evolution?"
+	},
+	{
+		"start_time": "00:48",
+		"speaker": "John Odling-Smee",
+		"words": "Well, as far as I know, the first person to uh draw attention to the relevance of the laws of thermodynamics, and in particular the second law, which states that entropy or disorder is always increasing over time. Was a physicist, physicist Owen Schrodinger, and he did so in a short book called What Is Life that he published I think about 1944, um. Schrodinger's point was that even the simplest organisms, such as, say, a single-celled bacteria is incredibly complicated relative to its surrounding environment. Put that another way, it's so far out of thermodynamic equilibrium. With its surrounding environment, that it wouldn't survive for milliseconds, it would simply die if it couldn't oppose the second law of thermodynamics, but without actually violating it. Um, WHEN I first read Schrodinger, um, I thought he, he really had a point, and I've been thinking about it, uh, ever since, which is why I took the opportunity of starting my new book, uh, by considering the laws of thermodynamics and in particular. The second law and how organisms actually have to resist it to even achieve their more conventional fitness goals of survival and reproduction."
+	},
+	{
+		"start_time": "02:27",
+		"speaker": "Ricardo Lopes",
+		"words": "And can we answer the question of what life is and what distinguishes it from non-life?"
+	},
+	{
+		"start_time": "02:36",
+		"speaker": "John Odling-Smee",
+		"words": "Well, I think the difference between uh. Life and inanimate systems, uh, is really that. Animates living life have fitness goals, they have goals. Including the prior goal of resisting the second law. Unanimous systems don't have. Fitness goals, uh, uh, they, therefore they don't actually have to oppose the second law of thermodynamics, they just have to obey it. They don't have the problem that life does of not even being able to get started without resisting the second law. I think that's probably the biggest point I would make."
+	},
+	{
+		"start_time": "03:21",
+		"speaker": "Ricardo Lopes",
+		"words": "What does orthodox evolutionary theory have to say about how life started on Earth and how evolution unfolds."
+	},
+	{
+		"start_time": "03:32",
+		"speaker": "John Odling-Smee",
+		"words": "That's an interesting one, they um. It, I, in my experience, um. Let's call them orthodox evolutionary biologists. I I'm not particularly interested in the origin of life question. I think they think it's um too difficult in some ways, and they prefer to concentrate on the more immediate uh problems of how the mechanisms and process of evolution work, um. I think they may be or we may be making a mistake by not starting with the origin of life question, because I think it's just possible that uh the origin of life question may eventually throw light on some of the ways in which evolution works, which we miss if we don't start there. I think it's a sort of contentious point, but um. I, I think, uh, that's probably the best answer I can give. I don't think orthodox evolutionary biologists are really uh interested to start with in the origin of our question."
+	},
+	{
+		"start_time": "04:41",
+		"speaker": "Ricardo Lopes",
+		"words": "And what are the fundamental properties of life? I mean, are there any fundamental properties?"
+	},
+	{
+		"start_time": "04:49",
+		"speaker": "John Odling-Smee",
+		"words": "Well, I think the fundamental properties of life is that uh all life are sort of active purposeful systems uh that um. Have to oppose the second law and then have to achieve their fitness goal by their own activities. Uh, NON-LIFE doesn't have to do that, as I've just said, it just has to obey the second law, um. I think the active purposeful agency. Of of uh organisms is fundamentally different from inanimate systems. Uh, AND, uh, that's why again I start with the, the fundamental goal. Of opposing the second law. Put it another way, life is the goal, all lives are goal seeking systems. Everything in life is a goal seeking system and inanimate systems are not."
+	},
+	{
+		"start_time": "05:48",
+		"speaker": "Ricardo Lopes",
+		"words": "What else is needed, if anything, beyond the known laws of physics and chemistry to understand life?"
+	},
+	{
+		"start_time": "05:58",
+		"speaker": "John Odling-Smee",
+		"words": "Um, Again, this, it comes back to the realizing that you're having to study active purposeful systems as opposed to purposeless systems. I think the origin of life is actually could also be thought of as the origin of purpose purpose of systems and in a way, therefore meaning on earth, um, and I think I say that somewhere, um. Now, I think that also means that we uh we'll probably talk about some of this later, but it does mean that you have to think of more than population genetics, uh processes. When you're studying about evolution. So, I mean, one we'll get to, I'm sure is things like epigenetics, um, which you certainly don't have to study as a physicist."
+	},
+	{
+		"start_time": "06:52",
+		"speaker": "Ricardo Lopes",
+		"words": "So you've already used this phrase a couple of times before, but you say that living organisms are active and purposeful systems. Can you can you explain that, particularly what this purpose mean in this context?"
+	},
+	{
+		"start_time": "07:11",
+		"speaker": "John Odling-Smee",
+		"words": "Well, the purpose is to achieve. Your goals, you know, the goals of life, which the with the the goals of surviving and reproducing are recognized by everybody, but the prior goal of opposing the second law in order to achieve your fitness goals is not. And um that's why I think I wanted to start with that before going to the. The, the conventional goals of survival and reproduction, but living systems are goal-seeking systems, uh, versus inanimate systems which are not. And I think that I repeatedly comes back to that."
+	},
+	{
+		"start_time": "07:56",
+		"speaker": "Ricardo Lopes",
+		"words": "And uh let me ask you now about information, which is something you also talk about in your book. What does information mean in the context of evolutionary biology?"
+	},
+	{
+		"start_time": "08:08",
+		"speaker": "John Odling-Smee",
+		"words": "OK. The, I think um the Where I would answer that, I call the information needed by organisms in evolution. Adaptive know-how. Uh, AND the, the purpose, I mean, sorry, um, if organisms who achieve their fitness goals, including their conventional goals of survival and reproduction, um, they can only do so by harvesting energy and matter resources from their environments, which means they have to interact with their environments, which effectively means they have to be a. Have adapted to their environments at the phenotypic level in order to uh harvest resources from them and dump their detritus and so on. Um, COULD you ask the question again? I'm sorry."
+	},
+	{
+		"start_time": "09:04",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, uh, I was asking you what information means in the context."
+	},
+	{
+		"start_time": "09:10",
+		"speaker": "John Odling-Smee",
+		"words": "Now, the, the, the, basically, uh, in order to be adapted organisms have to be informed by the processes of evolution, with the adaptive know-how to be able to interact with their local environments in ways that does allow them to harvest energy and matter resources, and also, for that matter, to defend themselves from threats in their environments. Uh, AND, um. I think the basic job of evolution. At, at more than one level actually, as we'll get to later, is to inform organisms, that's what evolution does and uh um. Yeah is that OK? Is that enough of an answer? Mhm."
+	},
+	{
+		"start_time": "09:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes. Uh, I, um, I have a follow up to that. Why do living organisms need information and what is the difference between physical resources and informational resources?"
+	},
+	{
+		"start_time": "10:14",
+		"speaker": "John Odling-Smee",
+		"words": "Well, They have to have the know-how, what I call the adaptive know-how. How to interact with their environments in viable ways. Both to take resources from their environments and for that matter dump their detritus back in their environments, which leads to a sort of net increase in entropy in their environments actually, uh, which is, uh, we get to later when we think about ecosystems, um. And uh They can't do any of that without being informed by the processes of evolution itself, um. It's, it's the, you know, inanimate systems do not need to be informed in the same way as all animate systems must be."
+	},
+	{
+		"start_time": "11:04",
+		"speaker": "Ricardo Lopes",
+		"words": "And what are the different kinds of knowledge gaining processes out there? I mean, what different kinds of knowledge gaining processes do organisms have at their disposal?"
+	},
+	{
+		"start_time": "11:19",
+		"speaker": "John Odling-Smee",
+		"words": "Well, In my book, I eventually distinguished between the primary information gaining processes of population genetics due to the mechanisms of. OF a natural selection and. Uh, THE inheritance of Information in Mendelian, what used to be just Mendelian genes, it's it genetics which has gone a bit beyond that now. But I also go for two other levels uh of uh. What I call supplementary evolutionary process, supplementary informing process if you like, of individual developmental processes and uh sociocultural processes in social animals, um, and above all in us where. Well, sociocultural press has become very potent."
+	},
+	{
+		"start_time": "12:15",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So let's talk now about the primary theme of your book, niche construction. So what is niche construction?"
+	},
+	{
+		"start_time": "12:26",
+		"speaker": "John Odling-Smee",
+		"words": "OK. I define niche construction and have done for years now as uh the process whereby active organisms modify some of the natural selection pressures in their environments in various ways, as well as uh. As a sort of byproduct, probably modifying natural selection pressures in the environments of other organisms in their shared ecosystems. I ought to say something here which uh I think in retrospect, I might have been better to call my uh book. Niche construction and niche destruction. Uh, HOW life contributes to its own evolution, because the negative side of niche construction is, is also very important. Um, IT'S sometimes called it negative niche construction. Um, The way in which um Uh, Organisms can, uh, you know. Increase uh disorder in their environments and living byli really at the expense of increasing entropy in their environments. It is a part of the story of niche construction. After that, I break, we break down um niche construction into several different kinds, things like we distinguished, for example, between relocational niche construction. And perturbation or niche construction, as well as many other things. Relocation is if you're in an environment which is not working for you, it's possible for an animal at least to go somewhere else to find a more favorable environments relative to the phenotypic traits it already possesses. Um, PERTURBATIONAL we think of in terms of altering something in your environment to suit yourself, rather than to have to respond to natural selections directly in your environment. So it always involves the modification of natural selection pressures in your own and each other's environments, but in different ways."
+	},
+	{
+		"start_time": "14:52",
+		"speaker": "Ricardo Lopes",
+		"words": "And what functions does niche construction serve?"
+	},
+	{
+		"start_time": "14:57",
+		"speaker": "John Odling-Smee",
+		"words": "Well, I mean, that goes on from where I've left off. I mean, for example, um there's such a thing as opportunistic niche construction whereby Organisms who already possess particular phenotypic traits, uh. May find a new purpose, as it were, for uh uh something uh a phenotype they already possess. They just use it in a new way, maybe to gain a different kind of resource or maybe to outcompete to some rival. Um, OPPORTUNISTIC these construction is quite frequent. Um, Another way is what we call counteractive niche construction where uh if the environment changes. You do something as a niche constructing organism to counteract the niche the way the environment is changes and bring it back as far as you can to a more favorable state relative to the phenotypes you already possess. Um, So it's all the time, it's turning what uh is I could put crudely as a sort of one way street relationship between organisms and their environments, which is modeled by orthodox evolutionary theory into a fundamentally two-way street relationship between niche construction organisms and their naturally selecting environments. And it prein introduces sorts of feedback, of course, which changes the dynamics of more or less everything."
+	},
+	{
+		"start_time": "16:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So in the context of niche construction, what does adaptation mean? I mean, what does it mean in the context of an adaptive interaction or adaptive interaction niche relationships between organisms and their local external environments."
+	},
+	{
+		"start_time": "16:57",
+		"speaker": "John Odling-Smee",
+		"words": "OK. That's, I think. It, it really means that the. Um, INTERACTIONS between organisms and their environments, uh, involve really a a kind of constant niche, active niche management problem, almost on a moment by moment basis. Organs are constantly having to adjust their relationship with their environments and therefore with natural selection pressures in their environments by their niche construction activities. And uh it's a I give some examples in in my book of where I think this goes on and it it's kind of opens up an alternative way of adapting to your environment. You can either just respond to your natural selection pressures in your environment, or you can try to modify selection pressures in your environment, uh, in the ways I've just been describing. So that your environment, you bring your environment back to be more favorable to yourself by the changes you cause in your environment. Um, Some way I draw attention to two different categories of natural selection environments as a result. Natural selection pressures that arise from completely autonomous events in environments, but versus another category of natural selection, which arises from natural selection pressures that have previously been modified by the active purposeful agency of organisms, either in your own population or in other populations."
+	},
+	{
+		"start_time": "18:40",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, WHERE do the behaviors involved in niche construction come from? Are they genetically encoded?"
+	},
+	{
+		"start_time": "18:49",
+		"speaker": "John Odling-Smee",
+		"words": "OK, to begin with, I think that inevitably yes, I think you you you start with um. The uh information you derive from the genes you inherit from your parents, at the beginning of life as it were. Um, BUT subsequently, um, it needn't be so restricted. I mean, I think you can learn, uh, for example, an individual development animal, uh, can learn new tricks as it were, say through the capacity of animals to learn and uh you can uh develop new kinds of uh behaviors uh beyond those that you inherited, you start with say a repertoire. Of uh behaviors that you inherit from your ancestors by your parents, as a member of your individual population. After that, you may acquire additional. Uh, YOU may add to your behavioral repertoire by say animal learning. Again, when you move up to the 3rd level of sociocultural groups in, in animals, you can of course get still more um behaviors or be taught more behaviors really and so on, as a member of your cultural group now and um you you you and also via different kind of inheritance systems. I mean, we, for example, we are taught uh. Both formally and informally at school about all sorts of things that add to our repertoire of behaviors um at the cultural level too, particularly in humans."
+	},
+	{
+		"start_time": "20:34",
+		"speaker": "Ricardo Lopes",
+		"words": "And in what ways do organisms co-evolve with their environment?"
+	},
+	{
+		"start_time": "20:42",
+		"speaker": "John Odling-Smee",
+		"words": "Could you say that one again?"
+	},
+	{
+		"start_time": "20:44",
+		"speaker": "Ricardo Lopes",
+		"words": "YES, in what ways do organisms co-evolve with their environment?"
+	},
+	{
+		"start_time": "20:51",
+		"speaker": "John Odling-Smee",
+		"words": "Oh yes. Well, I think I've been talking about this already, really, but. Um, Niche construction or if all niche construction organism modify uh components of their environment by their active purposeful niche construction activities. Then of course they, they cause their environments uh to change in response to their own niche construction activities. Conversely, it's always also true that natural selection pressures in their environments cause organisms to respond to natural selection pressures, which means in effect, uh something that uh. The biologist Nick Lewontin pointed out years ago that organisms must necessarily be co-evolving with their environments by this sort of two-way street interactions between niche constructing organisms. And naturally selection pressures in their environments. Um, So, the, I, I think, I think I say in my book that evolutionary theory should not really be just about the evolving, the evolution of organisms in response to the environments, it's really about how organisms and their environments co-evolve as a function of their two-way street interactions. Between niche construction organisms and naturally selecting environments."
+	},
+	{
+		"start_time": "22:28",
+		"speaker": "Ricardo Lopes",
+		"words": "In your book you also talk about ASB's control theory and how the variable properties of organisms relate to the variable properties of their environments. Could you tell us about that?"
+	},
+	{
+		"start_time": "22:43",
+		"speaker": "John Odling-Smee",
+		"words": "I, I'll try to. I mean, Ashby was uh. Um, Ross Ash Um, unfortunately there's several aspects around, but he was an early, uh, control theorist that used to be called cyber cybernetics. Um, AND he came up with some very interesting things about how self-controlling systems have to work, uh, which I think, uh. HAVE quite a lot of implications for our understanding of evolution. I mean, he, he, his first idea was that a self-controlling system had to protect an essential variable, which is essentially equal to the achievement of some kind of uh of of goal, uh, some kind of destination if you like. Um, AND then they said he came up with something. Which he called the law of requisite variety, or LRV according to which organisms can uh. Uh, Protect their essential variables really. And this responses to a sort of endless game of of between the variants that expressed by organisms, particularly the phenotypic variants expressed by organisms. And the variances they encounter in the environment in the form of variant natural selection pressures. Um, AND They're constantly having to uh play this game of variance, uh. Between the self uh controlling system. And uh It's, it's environment. And um I give some examples, a simple example of trying to uh use the uh uh for example, I use the um Example of a. A sailboat that you control with the Things that are at you in your own variants, variant sails, ropes, rudders, tillers and everything else, versus the weather conditions and the sea states and all the rest of it that you're sailing through. And, uh, If you can't control. Uh, You can't actually play counteract or drive down the variance, which is another way that Ashby talks about it. That you encounter in your environments by controlling the variables that you have over some control over. Then of course you probably lose your uh you you you don't get to your destination, you can't protect your man and you sort of run into a rock or something if you're on a uh sailing boat or something and you lose control. The object of course is not to do that, it's to arrive safely at the harbor there and everything, uh, every self-controlling system is uh. Affected by Ashby's comments about protecting an essential variable to reach your destination and by playing this endless game of variance with your environment. Between your own variants and the variances thrown at you by your environment. It's a it. It, it's actually a complex stuff and I spent a lot of chapter 3 talking about it, but I think I'll leave it at that for the moment."
+	},
+	{
+		"start_time": "26:26",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. Uh, JUST to illustrate what we are talking about here when it comes to niche construction, could you, uh, give us two or three examples of niche construction behaviors in different organisms?"
+	},
+	{
+		"start_time": "26:44",
+		"speaker": "John Odling-Smee",
+		"words": "Example of knee construction. Um, WELL, I gave you one already that if you'll find yourself in the wrong. In an environment which is increasingly hostile to you. Because of the natural selection of price. Per your country in that place and space. It's possible to move somewhere else, and of course uh. I mean, uh, a particularly good example is, uh, seasonal migration um in birds. I mean, there's many birds in this country which uh uh. Take off before the winter and fly all the way to Africa or South Africa even, uh, to, but it's a form of relocation at at considerable expense, but that's niche construction, uh, and then they return the following spring. Uh, AND start building nests, building nests, of course, is also niche construction. If you build a nest or build it, you know, build a dam, I mean, one of the famous examples of niche construction is the dams built by beavers to improve their fishing really, um, and they change their environments considerably and not only the environments of themselves, but the whole sort of. Riparian ecosystems in which they live, and so do many other organs, so they inevitably change search and precious for other organisms too. Um, SO those would be two salient examples of niche construction, um. I mean, for me, uh, There are just endless examples, but I hope that will do for the moment."
+	},
+	{
+		"start_time": "28:34",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, in the book at a certain point you mentioned two requirements of life, bioenergetics and bioinformatics. Could you explain them and how they interact with one another?"
+	},
+	{
+		"start_time": "28:49",
+		"speaker": "John Odling-Smee",
+		"words": "Well, the Energetics, I mean, I use bioenergetics, uh, really more in an ecological sense than in his usual metabolic sense most of the time. Um, BUT the, uh, the close relationship really is that they each depend on each other. Uh, The the uh gaining of uh uh energy and matter resources depends on adaptive know-how. But the adaptive know-how is supplied by the processes of evolution. But the processes of evolution have to be paid for. By the energy and matter gained by organisms during their lives. I mean an obvious thing there is, uh, if organisms have offspring, uh. They have to pay To contribute offspring to the next generation of their populations by gaining sufficient energy and matter resources uh to build their offspring and also not only their offspring, of course, but to maintain their own selves and so on. And uh. So The fundamental relationship between these two different kinds of resources, which comes up endlessly in my book. Is one of uh. Each needing each other, and the dilemmas that go with that, I mean some standard origin of life question was which comes first, but almost everybody nowadays thinks for that concept being what happened. What must have happened, they must have come together in some way or other. And uh so on, but I think that this in in my chapter 8, I come up with a set of rules about how these two kinds of resources relate to each other and describe them in in some detail. um. So I think that's the basic answer to your question."
+	},
+	{
+		"start_time": "31:01",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me ask you a little bit now about ecosystems. What can, what can we learn about the origin and evolution of ecosystems on Earth as a function of the co-evolution of niche constructing organisms with their environments?"
+	},
+	{
+		"start_time": "31:21",
+		"speaker": "John Odling-Smee",
+		"words": "OK. That's a big question. Um. The way I approach this, I think I mainly devote chapter 8 to this in my book. Um, I start off by considering, well, suppose you start off with uh what I call a dead planet or a planet in which there's no light. Um, What you find there are flows of energy and matter, uh. Um, On dead planets. So geochemical flows of energy and matter, but that's it. As soon as life appears on. A planet Uh, then you convert the flows of just energy and matter into biogeochemical flows, uh, and cycles that involve information as well as. Energy and matter, the information in organisms. And the, the biogeochemical flows uh are then responsible or They sort of introduce the basic set of um relationships that you find between organisms of different species or even the same species in ecosystems, the, the classic ones of competition, usually thought of as a minus minus relationship. Mutualisms or cooperation plus plus relationships. And asymmetrical relationships between say predators and preys or hosts and parasites. Usually thought of as plus minus relationships, and as the life builds up on the planet, so those relationships so that uh get introduced and then developed. And uh it also um there's something that's interesting, which is different between conventional evolutionary biologists and what I'm suggesting uh here too is, um. In population community ecology, for example, it's relatively easy to. Describe uh the co-evolution of different species of organisms, uh, because each of the, the organisms in both species all carry genes, so you can set up, uh, population genetic models of covariation between different species of organisms. But what you can't do really is bring in anything to do with non-living abiota, which are also components of ecosystems. Into that story, uh, because of course it non-living systems don't have genes, however, um. In the the the version of evolution that I'm describing. Um, YOU can get the indirect coevolution of two populations. Uh, VIA an intermediate non-living abiotic systems, for example, this is a bit confused, but if, if, if a population A niche constructs in ways that modify an intermediate component in the environment, which is non-living, and I call it Z. Then the changes in Z may act as a change selection pressure for another population, population B. In effect, that leads to the co-evolution of population and population B via an intermediate abiotic component, uh Z. And that's the sort of thing that is introduced when you realize the um. Organisms can can modify abiotic components in the environment, non-living components, by their niche construction activities in ways that subsequently change the evolution of another population in their ecosystem, which I think adds to uh ways in which we can think about ecosystems, uh, and the relationship of ecosystems through evolution uh in biology."
+	},
+	{
+		"start_time": "35:40",
+		"speaker": "Ricardo Lopes",
+		"words": "So is niche construction a way for organisms to more actively participate in their own evolution?"
+	},
+	{
+		"start_time": "35:50",
+		"speaker": "John Odling-Smee",
+		"words": "Well, I think so, yes, um, um, in a sense, if they start niche construction, as I in ways I've just described, they are almost bound to contribute to their own and each other's evolution by also some of the ways I've I've just been describing. Um, IT changes the process. Uh, TO repeat from being just the story of the evolution of organisms in response to natural selection process in their environment to necessarily the co-evolution of organisms. With their environments, where the environments of course to change too, by the niche construction activities of organisms. So it changes a lot. Mhm."
+	},
+	{
+		"start_time": "36:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Is there space for any form of teleology here?"
+	},
+	{
+		"start_time": "36:46",
+		"speaker": "John Odling-Smee",
+		"words": "That um, that's a nice question. I mean, that takes us back to Aristotle really, doesn't it? And I do mention briefly, um. Uh, Aristotle's concept of a final cause, which appears superficially to reverse the arrow of time, as it were, uh. But Having the effects before the cause, um, I don't think that's really, I, I, I, I'm not an expert on Aristotle. I'm not sure whether he would really have meant that, um, but what I think it does draw attention to is the capacity of organisms to, uh, Deal with, use the histories of the past, uh, which can be different kinds of histories at these three different levels, you know, collective history of your population at the genetic level, individual history of yourself at your individual developmental level, and the history of your. Uh A cultural group at the 3rd level. Um, Now, the The ways that all these histories apply. Does allow for, you know, past, present and future to interact and the interaction of relative to the future. Does include the possibility of anticipating your future, which of course is not the same as teleology, but it can look like it superficially, and I give the example say of um a human athlete who uh. Wants to uh win a gold medal at some future Olympic Games. And anticipates that goal and therefore trains very hard here and now to enable it to achieve an anticipated goal in the future. Now that is, has sometimes been called teleonomy rather than teleology and biology, but it's not uh Aristotelian teleology. Um, IT it may superficially look like it a bit, but it ain't the same thing. Right."
+	},
+	{
+		"start_time": "39:08",
+		"speaker": "Ricardo Lopes",
+		"words": "So earlier, I asked you about information gaining processes and one that you mentioned was developmental processes in individual organisms. Could you tell us now. About social and cultural processes in social animals, including humans, in what ways are those kinds of processes also information gaining processes?"
+	},
+	{
+		"start_time": "39:35",
+		"speaker": "John Odling-Smee",
+		"words": "Yes. The, the Sociocultural. Uh, INFORMATION gaining. I studied by evolution, at any rate, some evolutionary biology under the general heading of of of. Of uh The co-evolution, gene culture co-evolution. And it's also a contentious area in evolutionary biology. And the there's there's quite a good start has already been made, but I think there's a long way still to go as we realize how information gained at the cultural level, it can interact with um information gained, say, at the population genetics level at level one. And um I think it, I, the way I think of it is that I think it makes sense to consider, well, these additional processes of evolution at the developmental level and the cultural level, probably wouldn't have evolved in the first place unless they enhanced the capacity of organisms for um adapting to their environments. But uh it needn't always stay that way, which is one of the points of interest. The there is a possibility, because each information gaining process potentially picks up different kinds of information, what I call qualitatively different information. There is a possibility that uh they may become antagonistic instead of uh mutually beneficial uh at some stage. And the classical example of this is when humans first went dairy farming, um, and really discovered there was a new resource available, namely milk that they could use from their cattle. Except there was one problem. That all human babies, for example, are obviously able to drink their mother's milk because they're lactose tolerant. But they're not, they lose their lactose tolerance as they grow older, which meant that dairy farming communities found they had a problem of digesting the milk that they took from their cattle initially. That then led to a a a relatively uh slow process whereby Drinking milk, modified natural selection pressures at level one of population genetic evolution. Which eventually took up the slack by uh evolving lactose tolerance. In adults, as well as in children and babies. And that was an interesting interaction between the cultural processes at level 3 as we're calling it. And the population genetic processes at level one, which was initially antagonistic, but then set up uh uh interactions between the two, which eventually led to a restoration of adaptation by adults becoming lactose tolerance as well, due to a change in, actually I think in genetics and chromosome 2 as I remember rightly. So that's why it can work. One of the problems is you need time for that. And uh if we change our environment so quickly. At the cultural level as we are threatening to do now, it may not grant you enough time for the the population genetic level to make the necessary adjustments to catch up with. Uh, LEVEL 3 changes, in which case we get what I sometimes call an adaptive lag. Uh, AND which can be, uh, potentially probably very dangerous. OK. Herself."
+	},
+	{
+		"start_time": "43:38",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, so talking about changing our environments too quickly, how are humans currently contributing to the evolution of life on Earth?"
+	},
+	{
+		"start_time": "43:50",
+		"speaker": "John Odling-Smee",
+		"words": "I'm not quite sure what you're getting at there. Um, I've already been discussing some of the ways in which I think it changes our understanding of the evolution of life on Earth. Um, I, I think the thing I've just given you is the, uh, example whereby, uh, things can go wrong in the interaction between these three different levels of information gaining processes, you know, population genetics, individual development. And sociocultural processes. Um, Oh. I'm not sure what I can add to what I've already said."
+	},
+	{
+		"start_time": "44:30",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, I mean, the ways by which we are affecting our environment through climate change, for example, isn't that in some way, uh, affecting the evolution of life on Earth. I mean, it was something"
+	},
+	{
+		"start_time": "44:45",
+		"speaker": "John Odling-Smee",
+		"words": "like"
+	},
+	{
+		"start_time": "44:45",
+		"speaker": "Ricardo Lopes",
+		"words": "that"
+	},
+	{
+		"start_time": "44:46",
+		"speaker": "John Odling-Smee",
+		"words": "that last chapter. I don't, I think my question in the last chapter how are humans contributing to the evolution of life, and I think suggested that they're actually um. We're facing, um, well I think I say we're on the threshold of two alternative futures really, a negative future and a positive future, and the negative future takes the form of, uh, a human induced. Another mass extinction. Of life on Earth which we could do, I think in either two ways which I discussed nuclear war. Or climate change. Um, THE positive future really comes to the point where humans. Begin to understand. That the processes that put them together are for the first time becoming. Aware of themselves in the if you like in the self in the conscious minds of and intelligence of humans. For the first time it's possible for us to begin to understand. Um, THE processes that have put us together. And I think that carries the the. Responsibility of being both the custodians of life on Earth, but it also raises the daunting prospect that um through genome editing and other things we may begin to influence the future evolution of an awful lot of life on Earth. Um, WE could start um. Uh, DIRECTING it and we, we, unless we can understand the process of evolution much better than we do at the moment, and therefore understand our true relationship with the rest of nature much better than we do at the moment. The prospects of having to. Direct the future of evolution of a lot of life on Earth are appalling really, because we get it wrong, um. But if on the other hand, we began to understand. Uh, THE evolutionary process. Which was responsible for us and all life on Earth. Much better than we do at the moment. We might have a very positive future. So I think that's a a a rather messy way of answering your question."
+	},
+	{
+		"start_time": "47:11",
+		"speaker": "Ricardo Lopes",
+		"words": "Um, LET me ask you now, what do you think about the proposal of an extended evolutionary synthesis or going beyond the modern evolutionary synthesis? OK,"
+	},
+	{
+		"start_time": "47:24",
+		"speaker": "John Odling-Smee",
+		"words": "well, I really belong to a group that we, I've been working with for many years now, in which we've all been trying to uh extend the modern synthesis or extend the evolutionary theory because we think There's accumulating data, uh which are no longer compatible with the what I call the core assumptions of of the modern synthesis or nowadays most often called neo-Darwinism. So I'm very sympathetic to the uh efforts to extend uh the evolutionary theory by, I think we call it the ESS sometimes, it's had various names. um BUT I think it's, I think it is a uh become a a a necessity. And uh in this is where for example the extra processes of epigenetics, for example, and uh of animal learning, for example, the sociocultural processes all come in and it'd be a much more inclusive theory of evolution to bring all that together, um. And I think the people working the extended synthesis, uh. Uh, OF which I am a sort of member of the team, as it were, um, are, are going for this. By, by the way, that you, you may know there's another book was published more or less the same time as my book by a lot of my colleagues called Evolution Evolving. It was published by Princeton Press in September too, and there they go into the additional processes involved in the ESS in much more detail than I do in my own book. Uh, BUT it would give you a fuller answer to the question you're asking."
+	},
+	{
+		"start_time": "49:12",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But, uh, I mean, as a final question, let me ask you then, apart from niche construction, what other mechanisms or processes would need to be added to orthodox evolutionary theory"
+	},
+	{
+		"start_time": "49:29",
+		"speaker": "John Odling-Smee",
+		"words": "that really a question I think I've already answered. I, I, I mean, uh. Epigenetic processes, I, I would start with because uh in a sense they include something that. Uh, YOU know, the idea that you could never, um. Acquired characteristics can never be inherited. Turns out not to be wholly correct when you introduce epi epigenetic processes and epigerms as as well as genomes, and so on. And uh so that would definitely be one and then um I I would uh. Insist that animal learning is an information gaining process in individual organisms. Whereby organisms, as it were, inherit um something they learned from their earlier experience for their later selves, which is a rather weird way of looking, sort of internal inheritance system. But they also gain uh the animal learning is relevant to uh the evolutionary processes of of animals. And then again, when one we've just been discussing, uh, gene culture co-evolution, where there's a huge amount of extra information gaining um due to uh cultural processes. Uh, AND I, above all, of course, the information gaining process of science, which is probably the most potent. Form of information gaining of adaptive know-ha and also I'm afraid of maladaptive know how, like the capacity to make nuclear weapons, which is probably not a good thing. Um, And but it's been an extraordinary powerful form of information gaining, and I, I go into the uh. Uh, WAYS in which science works in one of my chapters, uh, because it is another information gaining process of some importance, considerable importance. So those would be the uh things I would like to add. Uh, TO the, to the scope of evolutionary theory, which is not really covered by the modern synthesis sort of contemporary neo-Darwinism."
+	},
+	{
+		"start_time": "51:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So the, so the book is again niche Construction, how life contributes to its own evolution. I will be leaving a link to it in the description of the interview. And Doctor Odling Smith, thank you so much again for taking the time to come on the show. It's been a real pleasure to talk with you."
+	},
+	{
+		"start_time": "52:14",
+		"speaker": "John Odling-Smee",
+		"words": "Well, thank you for, thank you for all your questions, and it's been interesting to talk to you."
+	},
+	{
+		"start_time": "52:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf, Alexandam Castle, Matthew Whitting Barna Wolf, Tim Hollis, Erika Lennie, John Connors, Philip For Connolly. Then the Matter Robert Windegaruyasi Zu Mark Neevs called Holbrookfield governor Michael Stormir, Samuel Andre, Francis Forti Agnsergoro and Hal Herzognun Macha Joan Labrant John Jasent and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearauujurumen ro Diego Londono Correa. Yannick Punter Darusmani Charlotte blinikolbar Adamhn Pavlostaevsky nale back medicine, Gary Galman Sam of Zallidrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franco Bartolotti Gabrielon Corteseus Slelitsky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianeau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Gray Zigoren, Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brendon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Hubbert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levin, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
