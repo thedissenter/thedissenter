@@ -5,6 +5,7 @@
 	"episodeid": "1086",
 	"excerpt": "Dr. John Odling-Smee is Emeritus Research Fellow at the Mansfield College at the University of Oxford. Prior to retirement, he lectured in Biological Anthropology at Oxford. He is the author of Niche Construction: How Life Contributes to Its Own Evolution.",
 	"image": "https://i.ytimg.com/vi/gRBMWdXApCE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1086-john-odling-smee-niche-construction-how-life-contributes/id1451347236?i=1000704035477&uo=4",
 	"publishDate": 2025-04-18,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1086-John-Odling-Smee---Niche-Construction-How-Life-Contributes-to-Its-Own-Evolution-e2v66ni",
 	"tags": [
