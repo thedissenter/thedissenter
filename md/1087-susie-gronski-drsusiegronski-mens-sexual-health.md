@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1087 Susie Gronski (@DrSusieGronski): Men's Sexual Health",
-	"youtubeid": "1BUw_7KxYz8"
+	"vtt": "1087.vtt",
+	"youtubeid": "1BUw_7KxYz8",
+	"transcript": "1087.lines.json"
 }
 ---
 RECORDED ON APRIL 18th 2025.  
