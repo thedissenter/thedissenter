@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1088 Karoline Wiesner: What Is a Complex System?",
-	"youtubeid": "O0b9yERsEtg"
+	"vtt": "1088.vtt",
+	"youtubeid": "O0b9yERsEtg",
+	"transcript": "1088.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 25th 2025.  
