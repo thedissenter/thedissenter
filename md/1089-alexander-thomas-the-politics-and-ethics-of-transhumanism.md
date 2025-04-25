@@ -5,6 +5,7 @@
 	"episodeid": "1089",
 	"excerpt": "Dr. Alexander Thomas is a Senior Lecturer in Media Production and Film at the University of East London. He is the author of The Politics and Ethics of Transhumanism: Techno-Human Evolution and Advanced Capitalism.",
 	"image": "https://i.ytimg.com/vi/aQNmFgyL6Iw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1089-alexander-thomas-the-politics-and/id1451347236?i=1000704941567&uo=4",
 	"publishDate": 2025-04-25,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1089-Alexander-Thomas-The-Politics-and-Ethics-of-Transhumanism-e2ve15i",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1089 Alexander Thomas: The Politics and Ethics of Transhumanism",
-	"youtubeid": "aQNmFgyL6Iw"
+	"vtt": "1089.vtt",
+	"youtubeid": "aQNmFgyL6Iw",
+	"transcript": "1089.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 26th 2025.  
