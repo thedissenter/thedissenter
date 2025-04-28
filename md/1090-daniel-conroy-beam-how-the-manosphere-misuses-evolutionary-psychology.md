@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1090 Daniel Conroy-Beam: How the Manosphere Misuses Evolutionary Psychology",
-	"youtubeid": "JbP6j98SkUU"
+	"vtt": "1090.vtt",
+	"youtubeid": "JbP6j98SkUU",
+	"transcript": "1090.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 28th 2025.  
