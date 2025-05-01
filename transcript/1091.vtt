@@ -1,0 +1,3986 @@
+WEBVTT
+
+1
+00:00:00.400 --> 00:00:03.170
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.170 --> 00:00:05.960
+Center. I'm your host, as always, Ricardo Lopez, and
+
+3
+00:00:05.960 --> 00:00:08.279
+today I'm joined for a second time by Doctor
+
+4
+00:00:08.279 --> 00:00:12.289
+Vlastasikimi. She is assistant professor at the Andover University
+
+5
+00:00:12.289 --> 00:00:15.720
+of Technology. I'm leaving a link to our first
+
+6
+00:00:15.720 --> 00:00:18.389
+interview. In the description of this one, and today
+
+7
+00:00:18.389 --> 00:00:22.629
+we're talking mostly about cognitive diversity in science and
+
+8
+00:00:22.629 --> 00:00:25.270
+its importance and also a little bit about the
+
+9
+00:00:25.270 --> 00:00:29.989
+philosophy and ethics of AI. Solaster, welcome back to
+
+10
+00:00:29.989 --> 00:00:31.909
+the show. It's always a pleasure to talk with
+
+11
+00:00:31.909 --> 00:00:32.110
+you.
+
+12
+00:00:32.880 --> 00:00:35.900
+Thank you so much for the invitation, and I'm
+
+13
+00:00:35.900 --> 00:00:37.299
+very happy to be here again.
+
+14
+00:00:38.740 --> 00:00:41.580
+OK, so let's start with the topic of cognitive
+
+15
+00:00:41.580 --> 00:00:42.380
+diversity.
+
+16
+00:00:42.580 --> 00:00:43.290
+So,
+
+17
+00:00:43.779 --> 00:00:47.459
+to start off with, what is cognitive diversity?
+
+18
+00:00:48.810 --> 00:00:55.169
+Cognitive diversity is used in epistemology, um uh to
+
+19
+00:00:55.169 --> 00:01:01.049
+understand uh different ways of reasoning, um, and it
+
+20
+00:01:01.049 --> 00:01:04.199
+can also be used from the perspective of psychology,
+
+21
+00:01:04.529 --> 00:01:07.599
+whether someone has different types of biases, different type
+
+22
+00:01:07.599 --> 00:01:12.169
+of ways of processing information. What is of interest
+
+23
+00:01:12.169 --> 00:01:16.639
+for us is to also understand epistemic diversity. And
+
+24
+00:01:16.639 --> 00:01:20.360
+I must admit immediately that uh I even consulted
+
+25
+00:01:20.360 --> 00:01:22.800
+with some of my colleagues in preparation for this
+
+26
+00:01:22.800 --> 00:01:27.559
+interview, and we realized that we are using, um
+
+27
+00:01:27.559 --> 00:01:31.239
+not uh clearly, um, these two terms, but often
+
+28
+00:01:31.239 --> 00:01:34.120
+interchangeably, which might not be the case, it's something
+
+29
+00:01:34.120 --> 00:01:37.419
+to think about. The point there is that when
+
+30
+00:01:37.419 --> 00:01:40.660
+we have, we can have social diversity, which I
+
+31
+00:01:40.660 --> 00:01:43.220
+think it's intuitive for everyone, that people come from
+
+32
+00:01:43.220 --> 00:01:48.089
+different backgrounds, um, and that they have different social,
+
+33
+00:01:48.230 --> 00:01:52.940
+uh, experiences, but what we, uh, sometimes neglect is
+
+34
+00:01:52.940 --> 00:01:57.230
+the aspect or a cognitive aspect. And that's the
+
+35
+00:01:57.230 --> 00:02:01.889
+way how someone is processing information, the background, um,
+
+36
+00:02:02.069 --> 00:02:05.470
+uh, knowledge that one has. Uh, ALSO, when we
+
+37
+00:02:05.470 --> 00:02:08.669
+talk about epistemic diversity, these are even some positions
+
+38
+00:02:08.669 --> 00:02:12.479
+that we might take in philosophy of science. Or
+
+39
+00:02:12.479 --> 00:02:15.000
+in general, uh, so the way, how do we
+
+40
+00:02:15.000 --> 00:02:17.589
+learn, the way how do we observe the world,
+
+41
+00:02:17.800 --> 00:02:21.440
+some background assumptions that we are having from which
+
+42
+00:02:21.440 --> 00:02:26.059
+we are building further hypothesis. And that becomes really
+
+43
+00:02:26.059 --> 00:02:29.160
+relevant, not only in philosophy of science, but also
+
+44
+00:02:29.160 --> 00:02:33.820
+in epistemology in general, uh, because, um, the, the
+
+45
+00:02:33.820 --> 00:02:36.699
+premises that, and, and, and there is, uh, um,
+
+46
+00:02:37.100 --> 00:02:40.020
+good evidence for it, that when we have the
+
+47
+00:02:40.020 --> 00:02:44.750
+diversity of thought. Uh, THIS will help on the
+
+48
+00:02:44.750 --> 00:02:49.869
+group level to gather a more appropriate knowledge. And
+
+49
+00:02:49.869 --> 00:02:52.429
+I guess then we will dive into the conditions
+
+50
+00:02:52.429 --> 00:02:56.029
+that need to be satisfied for that.
+
+51
+00:02:56.970 --> 00:02:59.529
+Yeah. But, but, but I mean, just to try
+
+52
+00:02:59.529 --> 00:03:03.960
+to make this a little bit more clear, um,
+
+53
+00:03:04.330 --> 00:03:08.479
+are we, when it comes to cognitive diversity here,
+
+54
+00:03:08.610 --> 00:03:14.759
+are we talking about specific ways that people, uh,
+
+55
+00:03:15.360 --> 00:03:19.570
+specific ways that people, uh, diverge in terms of
+
+56
+00:03:19.570 --> 00:03:24.000
+their ways of processing. Information psychologically. I mean, I
+
+57
+00:03:24.000 --> 00:03:26.960
+was thinking, for example, this is just an example
+
+58
+00:03:26.960 --> 00:03:30.919
+of the work done by cultural psychologists and people
+
+59
+00:03:30.919 --> 00:03:34.080
+like Richard Nisbett when they talk, for example, about
+
+60
+00:03:34.360 --> 00:03:40.080
+analytic versus holistic thinking and, and he compares, for
+
+61
+00:03:40.080 --> 00:03:43.880
+example, Western people to East Asian people in their
+
+62
+00:03:43.880 --> 00:03:47.470
+thinking. I mean, are those the kinds of Things
+
+63
+00:03:47.470 --> 00:03:51.789
+we are talking about or what exactly. I mean,
+
+64
+00:03:51.869 --> 00:03:56.429
+when it comes to uh cognitive processing or cognitive
+
+65
+00:03:56.429 --> 00:04:00.630
+mechanisms, or are we not talking about specific ways
+
+66
+00:04:00.630 --> 00:04:04.270
+of processing information or just, uh, in a more
+
+67
+00:04:04.270 --> 00:04:08.270
+general way, people just coming from different, I don't
+
+68
+00:04:08.270 --> 00:04:12.179
+know, cultural backgrounds, social backgrounds, and things like that?
+
+69
+00:04:13.410 --> 00:04:16.190
+Uh, THANK you. This was an excellent example that
+
+70
+00:04:16.190 --> 00:04:18.450
+you used, and indeed, that would be an example
+
+71
+00:04:18.450 --> 00:04:23.450
+of cognitive diversity. Uh, THE, the different social background
+
+72
+00:04:23.450 --> 00:04:26.890
+will not necessarily make someone cognitively diverse. There is
+
+73
+00:04:26.890 --> 00:04:29.679
+a high chance. That this will be the case,
+
+74
+00:04:29.809 --> 00:04:33.250
+or let's say, epistemically diverse. But if we are
+
+75
+00:04:33.250 --> 00:04:35.769
+in the, um, if we went to the same
+
+76
+00:04:35.769 --> 00:04:38.929
+school, if we were exposed to the similar content,
+
+77
+00:04:39.049 --> 00:04:41.649
+if we belong to the same ways of thinking,
+
+78
+00:04:41.760 --> 00:04:44.369
+like what you just said, like in the Western
+
+79
+00:04:44.369 --> 00:04:48.049
+way of thinking, then it's likely that our cognitive
+
+80
+00:04:48.049 --> 00:04:51.250
+diversity or epistemic diversity or, again, these two terms
+
+81
+00:04:51.250 --> 00:04:55.420
+are not identical, um, uh, will, uh, be different.
+
+82
+00:04:56.040 --> 00:04:59.799
+And um there is also, um, so, so when
+
+83
+00:04:59.799 --> 00:05:01.839
+we think about the epistemic diversity, can also be
+
+84
+00:05:01.839 --> 00:05:04.399
+about which type of methods in science I want
+
+85
+00:05:04.399 --> 00:05:08.799
+to use, right? Whether I'm a qualitative psychologist, or
+
+86
+00:05:08.799 --> 00:05:11.679
+whether I'm a quantitative psychologist, or whether I like
+
+87
+00:05:11.679 --> 00:05:16.109
+the mixed methodology, and, uh, whether I, um, uh,
+
+88
+00:05:16.119 --> 00:05:20.230
+what I'm experienced in. So now imagine a team
+
+89
+00:05:20.230 --> 00:05:25.649
+of experimental psychologists hiring someone, uh, doing quantitative research,
+
+90
+00:05:25.760 --> 00:05:30.170
+hiring someone from the qualitative side. And this person
+
+91
+00:05:30.170 --> 00:05:33.399
+can really be beneficial for the team because it
+
+92
+00:05:33.399 --> 00:05:36.230
+can add certain depth to their type of research.
+
+93
+00:05:36.559 --> 00:05:39.279
+But we have to ask then this researcher to
+
+94
+00:05:39.279 --> 00:05:43.190
+help, uh, with, for instance, implementing some mixed methods,
+
+95
+00:05:43.399 --> 00:05:48.119
+adding some additional layers, doing, uh, qualitative analysis in.
+
+96
+00:05:48.515 --> 00:05:50.045
+And if you just say to this person, OK,
+
+97
+00:05:50.165 --> 00:05:52.404
+now you need to learn all the methods, or,
+
+98
+00:05:52.445 --> 00:05:54.765
+I mean, they presumably they know it, but because
+
+99
+00:05:54.765 --> 00:05:57.445
+they study it and just apply them the way
+
+100
+00:05:57.445 --> 00:06:00.924
+how we are applying, then this diversity will be
+
+101
+00:06:00.924 --> 00:06:04.725
+lost because there, the, the, one of the ideas
+
+102
+00:06:04.725 --> 00:06:08.049
+there is that we want to get knowledge. Uh,
+
+103
+00:06:08.239 --> 00:06:11.820
+ANOTHER thing there, um, diversity makes a lot of
+
+104
+00:06:11.820 --> 00:06:14.660
+sense in the epistemic context is when we think
+
+105
+00:06:14.660 --> 00:06:19.179
+about the context of epistemic justice or injustice. And
+
+106
+00:06:19.179 --> 00:06:22.380
+by the fact that someone is a woman, for
+
+107
+00:06:22.380 --> 00:06:29.000
+instance, means that this person has specific experiences. WHICH
+
+108
+00:06:29.089 --> 00:06:34.540
+uh only this person can explain. Um, AND, and,
+
+109
+00:06:34.609 --> 00:06:37.989
+and we know this from the literature on intellectual,
+
+110
+00:06:38.119 --> 00:06:42.000
+um, uh, uh, justice and injustice. And that there
+
+111
+00:06:42.000 --> 00:06:45.369
+was like a huge paradigm that women cannot do
+
+112
+00:06:45.720 --> 00:06:48.720
+difficult work or, uh, physically difficult work or, or
+
+113
+00:06:48.720 --> 00:06:52.640
+that they cannot do, uh, intellectually the same as
+
+114
+00:06:52.640 --> 00:06:54.720
+men. And but then you kind of get some
+
+115
+00:06:54.720 --> 00:07:00.649
+other counterexamples and experiences, and that enters. Then the
+
+116
+00:07:00.649 --> 00:07:03.609
+general discourse, but you need a testimony from someone
+
+117
+00:07:03.609 --> 00:07:07.880
+belonging to, to that specific group to explain, OK,
+
+118
+00:07:08.250 --> 00:07:11.170
+uh, this is actually happening here and it's not
+
+119
+00:07:11.170 --> 00:07:16.829
+being recognized. So it has, it's a multifaceted. Point.
+
+120
+00:07:17.399 --> 00:07:20.239
+Um, THEN we talk about the cognitive diversity. Indeed,
+
+121
+00:07:20.279 --> 00:07:23.510
+there can also be the, the thinking styles, um,
+
+122
+00:07:23.559 --> 00:07:29.440
+different cognitive, um, uh, I mean, potentially even some
+
+123
+00:07:29.440 --> 00:07:32.190
+types of neurodiversity and so on, but in this
+
+124
+00:07:32.190 --> 00:07:36.720
+epistemic domain, we can really observe, um, also this
+
+125
+00:07:36.720 --> 00:07:40.200
+other type of phenomena. Right? So, so, just our,
+
+126
+00:07:40.329 --> 00:07:43.369
+uh, our background, our positionality, and that's why it's
+
+127
+00:07:43.369 --> 00:07:47.970
+very helpful in the research papers to always specify
+
+128
+00:07:47.970 --> 00:07:52.299
+what is our positionality. And that helps the reader
+
+129
+00:07:52.299 --> 00:07:55.059
+to understand where we come from. And if we
+
+130
+00:07:55.059 --> 00:07:58.019
+are working, right, so I'm saying, I am a
+
+131
+00:07:58.019 --> 00:08:01.329
+woman, I come from East Europe, and I can,
+
+132
+00:08:01.470 --> 00:08:04.339
+uh, write from this perspective. I could maybe be
+
+133
+00:08:04.339 --> 00:08:07.019
+sensitive to gender issues. I, I, I, I am
+
+134
+00:08:07.019 --> 00:08:11.619
+sensitive to, um, this east-west division, but of course,
+
+135
+00:08:11.700 --> 00:08:14.619
+it's not that I can now testify, uh, for
+
+136
+00:08:14.619 --> 00:08:18.290
+people who belong to other communities and who have
+
+137
+00:08:18.290 --> 00:08:23.149
+the different. Um, uh, uh, OBSERVATION of the world
+
+138
+00:08:23.149 --> 00:08:25.579
+and different style of thinking about the world. If
+
+139
+00:08:25.579 --> 00:08:27.799
+I would be exposed to that type of culture
+
+140
+00:08:27.799 --> 00:08:30.980
+or, or if I was studying in such an
+
+141
+00:08:30.980 --> 00:08:35.058
+environment or working, that would for sure, um, change
+
+142
+00:08:35.058 --> 00:08:40.429
+the situation. But also having colleagues. Um, uh, COMING
+
+143
+00:08:40.429 --> 00:08:44.439
+from different backgrounds, uh, willing to test different hypotheses,
+
+144
+00:08:44.598 --> 00:08:47.479
+um, having different perspectives is very helpful if you
+
+145
+00:08:47.479 --> 00:08:50.109
+are listening and if you are ready to learn
+
+146
+00:08:50.598 --> 00:08:54.440
+from them because there is no one. Uh, A
+
+147
+00:08:54.440 --> 00:08:57.489
+right way, uh, to do science, but also in
+
+148
+00:08:57.489 --> 00:09:01.000
+general, to communicate with people. Because these questions in
+
+149
+00:09:01.000 --> 00:09:03.210
+epistemology, they are related to the questions of the
+
+150
+00:09:03.210 --> 00:09:05.330
+trust in science, but they are also related to
+
+151
+00:09:05.330 --> 00:09:07.489
+the questions of how we are learning from each
+
+152
+00:09:07.489 --> 00:09:09.809
+other and how much we understand each other. And
+
+153
+00:09:09.809 --> 00:09:11.729
+the more we understand each other and the more
+
+154
+00:09:11.729 --> 00:09:15.729
+we're open to different types of thinking and understand
+
+155
+00:09:15.729 --> 00:09:20.280
+the different experiences leads to different, um, uh, behavior.
+
+156
+00:09:21.270 --> 00:09:24.849
+Um, THAT, that, um, expands our horizons and it's
+
+157
+00:09:24.849 --> 00:09:27.250
+very helpful. So it leads to some type of,
+
+158
+00:09:27.650 --> 00:09:30.849
+um, uh, wisdom of the crowds, potentially, instead of,
+
+159
+00:09:30.859 --> 00:09:32.849
+on the other hand, polarization that we say, OK,
+
+160
+00:09:32.929 --> 00:09:35.880
+you don't think the same as we do. Thus,
+
+161
+00:09:35.890 --> 00:09:40.369
+your viewpoint is not legitimate. And, and, and, and
+
+162
+00:09:40.369 --> 00:09:43.130
+that would be an example of an exclusion of
+
+163
+00:09:43.130 --> 00:09:45.260
+someone based on, on, on the opinions.
+
+164
+00:09:46.669 --> 00:09:51.010
+So when it comes to epistemic diversity specifically, I
+
+165
+00:09:51.010 --> 00:09:55.650
+was wondering, does that include people being diverse in
+
+166
+00:09:55.650 --> 00:09:59.849
+terms of, for example, the different ways they approach
+
+167
+00:09:59.849 --> 00:10:03.489
+science. Um, I mean, let me just give perhaps
+
+168
+00:10:03.489 --> 00:10:05.969
+two different kinds of examples. I'm not sure if
+
+169
+00:10:05.969 --> 00:10:10.609
+in philosophy, uh, nowadays, you still use these terms
+
+170
+00:10:10.609 --> 00:10:14.210
+or if people still identify as such. But let's
+
+171
+00:10:14.210 --> 00:10:17.335
+say, for example, someone might Have a more, uh,
+
+172
+00:10:17.366 --> 00:10:20.645
+idealist approach and another might have a more empiricist
+
+173
+00:10:20.645 --> 00:10:23.296
+approach, or someone might be perhaps still on the
+
+174
+00:10:23.296 --> 00:10:27.726
+camp of positivist, more positivist like, something like that.
+
+175
+00:10:27.736 --> 00:10:32.416
+Or even, for example, uh, another example would be
+
+176
+00:10:32.416 --> 00:10:37.096
+someone, uh, might come from a perspective of, of
+
+177
+00:10:37.096 --> 00:10:40.856
+a substance ontology and another person from a perspective
+
+178
+00:10:40.856 --> 00:10:45.255
+of, uh, process ontology. I mean, are those, let
+
+179
+00:10:45.312 --> 00:10:48.461
+Let's say, uh, I, I'm not sure if I
+
+180
+00:10:48.461 --> 00:10:53.622
+should call this theoretical diversity because basically our people
+
+181
+00:10:53.622 --> 00:10:56.661
+come, it's people coming uh to the, or bringing
+
+182
+00:10:56.661 --> 00:11:00.851
+to the table different uh theoretical approaches and perspectives,
+
+183
+00:11:00.861 --> 00:11:03.901
+but, uh, does the, uh, do these kinds of
+
+184
+00:11:03.901 --> 00:11:08.622
+things, uh, apply in the context of epistemic diversity?
+
+185
+00:11:08.742 --> 00:11:12.291
+Do you also consider these differences in terms of
+
+186
+00:11:12.661 --> 00:11:14.611
+kinds of thinking or not?
+
+187
+00:11:15.119 --> 00:11:19.710
+Definitely, definitely these examples and thank you for them,
+
+188
+00:11:19.799 --> 00:11:26.489
+Ricardo. Um, uh, THIS is how we, um, Uh,
+
+189
+00:11:26.539 --> 00:11:29.500
+uh, how, how we, uh, think of, uh, epistemic
+
+190
+00:11:29.500 --> 00:11:33.940
+diversity in philosophy and already, um, also what you
+
+191
+00:11:33.940 --> 00:11:38.880
+explained before coming from, um, A lot of philosophy
+
+192
+00:11:38.880 --> 00:11:43.070
+that's being taught in Western Europe has this history
+
+193
+00:11:43.070 --> 00:11:45.599
+of philosophy coming from Western Europe. So we can
+
+194
+00:11:45.599 --> 00:11:50.400
+get this classical education that starts from uh a
+
+195
+00:11:50.400 --> 00:11:56.780
+pre-Socratic period and goes over um uh rationalism, uh,
+
+196
+00:11:56.799 --> 00:11:59.789
+um, or can't, um, I mean, like the, the,
+
+197
+00:11:59.799 --> 00:12:03.770
+the Western thinkers. And, of course, that, that we,
+
+198
+00:12:04.299 --> 00:12:07.659
+a lot of us don't get enough exposure, um,
+
+199
+00:12:07.739 --> 00:12:10.820
+to different type of, uh, philosophy, and that will
+
+200
+00:12:10.820 --> 00:12:15.289
+form some background assumptions that we are having. And,
+
+201
+00:12:15.429 --> 00:12:18.739
+of course, if someone, but that is completely, uh,
+
+202
+00:12:19.099 --> 00:12:21.280
+Sofite was also saying this, right? The, the type
+
+203
+00:12:21.280 --> 00:12:23.140
+of person you are, the type of philosophy you're
+
+204
+00:12:23.140 --> 00:12:26.700
+choosing, and that is completely legitimate. So, for me,
+
+205
+00:12:27.179 --> 00:12:30.539
+formal approaches to philosophy were resonating, but that doesn't
+
+206
+00:12:30.539 --> 00:12:33.299
+mean that this is the only uh approach which
+
+207
+00:12:33.299 --> 00:12:36.010
+is valid and to which we should pay attention.
+
+208
+00:12:36.200 --> 00:12:39.179
+On the contrary, I find it very nice um
+
+209
+00:12:39.179 --> 00:12:42.760
+to receive different perspectives and to then also. DEEPER
+
+210
+00:12:42.969 --> 00:12:45.250
+in my research, but it's also legitimate that we
+
+211
+00:12:45.250 --> 00:12:49.250
+have the division of people working on different subcategories
+
+212
+00:12:49.250 --> 00:12:53.559
+of research, um, as long as, uh, uh, eventually,
+
+213
+00:12:53.750 --> 00:12:57.210
+we can aggregate that knowledge, which happens over the
+
+214
+00:12:57.210 --> 00:13:01.650
+longer periods of time, and make, um, some recommendations.
+
+215
+00:13:02.130 --> 00:13:05.320
+And, um, I think it's very enriching and very
+
+216
+00:13:05.320 --> 00:13:09.289
+interesting to, um, have the positive view on diversity
+
+217
+00:13:09.289 --> 00:13:12.590
+and because in the nowadays, Um, they are facing
+
+218
+00:13:12.590 --> 00:13:15.469
+this that there is this pressure that people have
+
+219
+00:13:15.469 --> 00:13:19.309
+to really think in one way, or that, um,
+
+220
+00:13:19.380 --> 00:13:22.630
+uh, it even gets connected with the social belonging.
+
+221
+00:13:23.669 --> 00:13:25.690
+They they hope you're thinking on some values that
+
+222
+00:13:25.690 --> 00:13:28.429
+we have, but even if we have different background
+
+223
+00:13:28.429 --> 00:13:32.229
+values that can help us, uh, to be cognitively
+
+224
+00:13:32.229 --> 00:13:36.039
+diverse as a team. And again, as long as,
+
+225
+00:13:36.130 --> 00:13:38.330
+so, so there is one premise that we have
+
+226
+00:13:38.330 --> 00:13:41.570
+to have some intellectual tolerance towards each other, as
+
+227
+00:13:41.570 --> 00:13:43.929
+long as we have the intellectual tolerance towards each
+
+228
+00:13:43.929 --> 00:13:46.770
+other and openness towards each other, that can be
+
+229
+00:13:46.770 --> 00:13:52.419
+really beneficial. Uh, THE other, um, aspect that I,
+
+230
+00:13:52.580 --> 00:13:55.179
+I wanted to point out is that even kind
+
+231
+00:13:55.179 --> 00:14:00.150
+of mistakes in reasoning and science, uh, often, um,
+
+232
+00:14:00.340 --> 00:14:03.580
+fell often. I mean, can, can be fruitful. And
+
+233
+00:14:03.580 --> 00:14:07.104
+also someone who is like, it's not. Immediately clear
+
+234
+00:14:07.525 --> 00:14:10.005
+what, what is the rational thing, but people can
+
+235
+00:14:10.005 --> 00:14:12.804
+just follow their passion, can maybe even have some
+
+236
+00:14:12.804 --> 00:14:16.025
+biases. If we spent a lot of time exploring
+
+237
+00:14:16.025 --> 00:14:19.604
+one hypothesis. The hypothesis is not working. We have
+
+238
+00:14:19.604 --> 00:14:21.804
+the suno bias and we want to work further
+
+239
+00:14:21.804 --> 00:14:24.335
+on it. So rational thing would be to drop
+
+240
+00:14:24.335 --> 00:14:26.765
+it, and that's something that I wrote about. But
+
+241
+00:14:26.765 --> 00:14:29.775
+from the perspective of a bigger team, it does
+
+242
+00:14:29.775 --> 00:14:33.244
+make sense that people even who have biases are
+
+243
+00:14:33.244 --> 00:14:36.669
+there. Uh, AND, and who not only that, we
+
+244
+00:14:36.669 --> 00:14:38.500
+all have biases, but I mean, the people who
+
+245
+00:14:38.789 --> 00:14:42.510
+follow their biases in research are there because sometimes
+
+246
+00:14:42.510 --> 00:14:46.820
+that leads to, um, a breakthrough. Uh, AND, uh,
+
+247
+00:14:46.830 --> 00:14:50.020
+the, the more, um, so one simple explanation is,
+
+248
+00:14:50.229 --> 00:14:54.109
+think of the epistemic lens, uh, epistemic space. So,
+
+249
+00:14:54.119 --> 00:14:57.109
+we are trying to see, to learn something, and
+
+250
+00:14:57.109 --> 00:14:59.869
+we have an epistemic space. We are exploring epistemic
+
+251
+00:14:59.869 --> 00:15:03.940
+space, we are exploring it together. And, um, if
+
+252
+00:15:03.940 --> 00:15:08.520
+we're all only in one point A or in
+
+253
+00:15:08.520 --> 00:15:12.390
+around this point of the epistemic space, then all
+
+254
+00:15:12.390 --> 00:15:15.030
+other parts of it get neglected. So it is
+
+255
+00:15:15.030 --> 00:15:18.869
+good. That people are exploring other parts of it
+
+256
+00:15:18.869 --> 00:15:21.400
+and that we try to encourage them to do
+
+257
+00:15:21.400 --> 00:15:24.719
+it, uh, that we have the um understanding for
+
+258
+00:15:24.719 --> 00:15:27.479
+it. So I guess nowadays, because again of the
+
+259
+00:15:27.479 --> 00:15:31.380
+politically heated debate about the diversity and inclusion in,
+
+260
+00:15:31.400 --> 00:15:34.849
+in the US academia, uh, we are now, um,
+
+261
+00:15:35.119 --> 00:15:38.760
+making a case for why, um, why it matters.
+
+262
+00:15:39.489 --> 00:15:42.469
+And not only, uh, uh, I mean, it, it,
+
+263
+00:15:42.489 --> 00:15:45.979
+it really matters also for the people, not only
+
+264
+00:15:45.979 --> 00:15:48.570
+from the group perspective, but even from the individual
+
+265
+00:15:48.570 --> 00:15:51.520
+perspective and someone challenges our viewpoints and shows us,
+
+266
+00:15:51.530 --> 00:15:55.390
+look, we can think in a radically different way
+
+267
+00:15:55.890 --> 00:15:58.599
+that can also help us, uh, to think better.
+
+268
+00:15:59.750 --> 00:16:02.590
+And, and open our horizons, or only just challenge
+
+269
+00:16:02.590 --> 00:16:05.619
+us to answer and to sharpen our ideas and
+
+270
+00:16:05.619 --> 00:16:09.869
+to, yeah, uh uh maybe have better answers and
+
+271
+00:16:09.869 --> 00:16:11.619
+better understanding for our own position.
+
+272
+00:16:12.359 --> 00:16:15.289
+Mhm. So, let me ask you, because now with
+
+273
+00:16:15.289 --> 00:16:19.440
+the, nowadays and particularly in certain countries like the
+
+274
+00:16:19.440 --> 00:16:27.080
+US when people promote diversity in academia, they usually
+
+275
+00:16:27.080 --> 00:16:32.580
+talk about or primarily talk about A diversity in
+
+276
+00:16:32.580 --> 00:16:36.460
+political viewpoints or diversity in terms of political orientation.
+
+277
+00:16:36.539 --> 00:16:39.859
+They say, for example, that we should have more
+
+278
+00:16:40.059 --> 00:16:44.820
+uh right wing people in academia because there's too
+
+279
+00:16:44.820 --> 00:16:48.744
+many left-wing people. Well, I mean, is political orientation
+
+280
+00:16:48.744 --> 00:16:52.625
+also something to be considered when it comes to
+
+281
+00:16:52.625 --> 00:16:57.465
+cognitive diversity or not? And is political orientation really
+
+282
+00:16:57.784 --> 00:17:01.705
+a good enough proxy for cognitive diversity?
+
+283
+00:17:02.210 --> 00:17:05.420
+I think there are two debates currently happening. One
+
+284
+00:17:05.420 --> 00:17:09.130
+is, um, uh, there, there were these measures of,
+
+285
+00:17:09.140 --> 00:17:13.500
+um, uh, uh, hiring people and, and promoting people
+
+286
+00:17:13.500 --> 00:17:16.079
+or, or, or trying to empower people from the
+
+287
+00:17:16.079 --> 00:17:20.989
+underprivileged groups. And has social impact. It has a
+
+288
+00:17:20.989 --> 00:17:26.219
+long-lasting social impact because more, the more people who
+
+289
+00:17:26.469 --> 00:17:28.979
+get the opportunity to get education and the more
+
+290
+00:17:28.979 --> 00:17:32.920
+people who are on these higher academic positions, they
+
+291
+00:17:32.920 --> 00:17:37.060
+just. Just by example, are leading and are making
+
+292
+00:17:37.060 --> 00:17:40.140
+a change. And we have to keep in mind
+
+293
+00:17:40.140 --> 00:17:44.219
+that academia was closed and it's still often closed,
+
+294
+00:17:44.380 --> 00:17:49.640
+especially in some disciplines for specific genders already. And
+
+295
+00:17:49.640 --> 00:17:54.589
+just imagine other underprivileged groups. Um, uh, BECAUSE I,
+
+296
+00:17:54.709 --> 00:17:56.989
+I can also talk from my own experience and
+
+297
+00:17:56.989 --> 00:17:59.430
+I get feedback from my students who are the
+
+298
+00:17:59.430 --> 00:18:03.189
+3rd year students at the technical university and from
+
+299
+00:18:03.189 --> 00:18:06.410
+one specific group, right? They're, they're different groups. So
+
+300
+00:18:06.410 --> 00:18:10.459
+we are teaching. Engineers, uh, we, we're teaching philosophy
+
+301
+00:18:10.459 --> 00:18:13.569
+to engineers. So, so from this one group, several
+
+302
+00:18:13.569 --> 00:18:17.180
+people told me that I'm their, um, uh, some
+
+303
+00:18:17.180 --> 00:18:20.300
+said that I'm their 2nd female lecturer and others
+
+304
+00:18:20.300 --> 00:18:23.060
+said that I'm their 3rd female lecturer during the
+
+305
+00:18:23.060 --> 00:18:26.650
+3 years. Of how long they studied and that
+
+306
+00:18:26.650 --> 00:18:31.329
+is worrisome. And I am not even an expert
+
+307
+00:18:31.329 --> 00:18:34.069
+in their subjects, so I'm even teaching them philosophy.
+
+308
+00:18:35.180 --> 00:18:37.520
+And if you would have kind of more role
+
+309
+00:18:37.520 --> 00:18:41.199
+models, um, uh, female role models on these higher
+
+310
+00:18:41.199 --> 00:18:43.599
+positions, the, the, the, the assumption is, OK, that
+
+311
+00:18:43.599 --> 00:18:47.979
+will also encourage other, um, women and girls and,
+
+312
+00:18:48.040 --> 00:18:50.920
+and, and, and parents, because everyone has to get
+
+313
+00:18:50.920 --> 00:18:55.160
+motivated and believe teachers in primary schools, right? To,
+
+314
+00:18:55.280 --> 00:18:59.569
+to, to motivate, um, motivate them to pursue this
+
+315
+00:18:59.569 --> 00:19:01.920
+type of career. And there was even one research,
+
+316
+00:19:01.959 --> 00:19:06.800
+which I found. Very interesting, pointing out that, um,
+
+317
+00:19:06.969 --> 00:19:08.890
+uh, at the end, in the end of high
+
+318
+00:19:08.890 --> 00:19:12.729
+school, it is not the difference, um, that, that,
+
+319
+00:19:12.810 --> 00:19:17.040
+um, uh, between boys and girls. The point, uh,
+
+320
+00:19:17.420 --> 00:19:21.369
+within the natural science subjects and humanities, and they
+
+321
+00:19:21.369 --> 00:19:25.550
+were performing similarly well in natural sciences, it's just
+
+322
+00:19:25.550 --> 00:19:29.930
+that in humanities, girls were performing better. And they
+
+323
+00:19:29.930 --> 00:19:33.050
+use this again, so this is just the research
+
+324
+00:19:33.050 --> 00:19:36.000
+that was done. Um, uh, BUT I found this,
+
+325
+00:19:36.010 --> 00:19:38.280
+um, it was an empirical research, but I found
+
+326
+00:19:38.280 --> 00:19:41.650
+this, um, uh, engaging. Uh, I think Breda and
+
+327
+00:19:41.650 --> 00:19:45.079
+AA are the daughters of the, um, That research,
+
+328
+00:19:45.319 --> 00:19:48.280
+maybe we can link it later. Um, IF I'm
+
+329
+00:19:48.280 --> 00:19:52.160
+mistaken, please, or mispronouncing the names, please accept my
+
+330
+00:19:52.160 --> 00:19:56.239
+apology. Um, BUT, um, uh, I found already this
+
+331
+00:19:56.239 --> 00:19:59.680
+idea interesting, right? That it can be something completely,
+
+332
+00:19:59.839 --> 00:20:02.520
+um, uh, if you're really good in humanities, someone
+
+333
+00:20:02.520 --> 00:20:05.109
+tells you, OK, then you have to study humanities,
+
+334
+00:20:05.359 --> 00:20:07.520
+and it's not opening the option, OK, but you're
+
+335
+00:20:07.520 --> 00:20:10.699
+also good in natural sciences. Maybe you should, uh,
+
+336
+00:20:10.880 --> 00:20:14.140
+explore that. Maybe that is a nice. Career for
+
+337
+00:20:14.140 --> 00:20:17.209
+you. It won't be a nice career if, uh,
+
+338
+00:20:17.219 --> 00:20:19.510
+you enter a classroom and you are in the
+
+339
+00:20:19.510 --> 00:20:22.540
+minority and there are no female teachers with whom
+
+340
+00:20:22.540 --> 00:20:26.020
+you can connect, and that, that all adds pressure
+
+341
+00:20:26.020 --> 00:20:28.859
+over time. Uh, SO, so, so that, that, that
+
+342
+00:20:28.859 --> 00:20:32.619
+is one aspect of why, uh, we want some
+
+343
+00:20:32.619 --> 00:20:36.219
+type of diversity in science. Uh, uh, THIS is
+
+344
+00:20:36.219 --> 00:20:39.689
+a social aspect. But then we have the epistemic
+
+345
+00:20:39.689 --> 00:20:43.520
+aspect is, of course, the different type of, um,
+
+346
+00:20:43.689 --> 00:20:49.500
+uh, uh, dynamics, social dynamics, intellectual exchange, different type
+
+347
+00:20:49.500 --> 00:20:53.550
+of thinking will be brought. And then we have
+
+348
+00:20:53.550 --> 00:20:57.609
+people from uh diverse backgrounds. Um, AND again, this
+
+349
+00:20:57.609 --> 00:21:01.699
+might be more obvious in humanities, then I say,
+
+350
+00:21:01.790 --> 00:21:04.989
+OK, my positionality, where I come from, can shape
+
+351
+00:21:04.989 --> 00:21:07.910
+my thought, then I can think about feminist philosophy
+
+352
+00:21:07.910 --> 00:21:10.430
+in a certain way. And, and, of course, also
+
+353
+00:21:10.430 --> 00:21:12.589
+men are most welcome to enter and, and think
+
+354
+00:21:12.589 --> 00:21:15.189
+about feminist philosophy, and, and that, that is highly
+
+355
+00:21:15.189 --> 00:21:18.150
+desirable. I'm just trying to say, I, I, um,
+
+356
+00:21:18.270 --> 00:21:20.680
+when I say men, I mean, uh, Yeah, the
+
+357
+00:21:20.680 --> 00:21:24.510
+straight man, the, the, the, the paradigm, but they
+
+358
+00:21:24.510 --> 00:21:27.180
+are most welcome and it would be super helpful,
+
+359
+00:21:27.670 --> 00:21:30.250
+um, uh, and they do, and, and that is
+
+360
+00:21:30.540 --> 00:21:33.709
+great. Uh, AND that is this inclusive environment, so
+
+361
+00:21:33.709 --> 00:21:37.050
+everyone is invited. Uh, TO do it. And, and,
+
+362
+00:21:37.130 --> 00:21:39.290
+and that will also bring the whole field and
+
+363
+00:21:39.290 --> 00:21:41.530
+the whole subject. It will bring more attention to
+
+364
+00:21:41.530 --> 00:21:44.050
+it. Um, IT will sharpen it and it will
+
+365
+00:21:44.050 --> 00:21:48.209
+develop it. And that we see very strongly in
+
+366
+00:21:48.569 --> 00:21:51.170
+natural sciences, sorry, in social sciences, but even in
+
+367
+00:21:51.170 --> 00:21:54.219
+natural sciences, when you do biology, or when you
+
+368
+00:21:54.219 --> 00:21:59.189
+do medicine, the gender does matter. So, so, I
+
+369
+00:21:59.189 --> 00:22:03.150
+would definitely, um, yeah, keep that in mind. Um,
+
+370
+00:22:03.189 --> 00:22:05.739
+AND, and, and, and, and, and also we'll bring
+
+371
+00:22:05.739 --> 00:22:08.469
+different perspectives and maybe we'll also bring the idea
+
+372
+00:22:08.469 --> 00:22:13.640
+of which type of research to prioritize. Type of
+
+373
+00:22:13.640 --> 00:22:19.079
+questions are more um bothersome for, for women. And,
+
+374
+00:22:19.119 --> 00:22:20.839
+and, and to leave it in that way. So
+
+375
+00:22:20.839 --> 00:22:24.439
+I think that all matters. Uh, AND the deeper
+
+376
+00:22:24.439 --> 00:22:28.119
+we dive, we can realize why it matters. So
+
+377
+00:22:28.119 --> 00:22:31.760
+that is, that is the epistemic component why this
+
+378
+00:22:31.760 --> 00:22:35.479
+type of diversity would make sense. Uh, BUT when
+
+379
+00:22:35.479 --> 00:22:38.270
+you, when you, you ask specifically about the other
+
+380
+00:22:38.270 --> 00:22:41.079
+aspect, and this is this political whether we want
+
+381
+00:22:41.479 --> 00:22:45.930
+more right-wing, uh, people in, in science. And that
+
+382
+00:22:45.930 --> 00:22:48.400
+I think is a, is a great question. And
+
+383
+00:22:48.400 --> 00:22:51.010
+I, I like, I like this question. And, well,
+
+384
+00:22:51.170 --> 00:22:55.329
+let's first say that, um, contrary to popular or
+
+385
+00:22:55.329 --> 00:22:57.599
+to the mainstream view, I would, I would say,
+
+386
+00:22:57.810 --> 00:23:01.650
+yes, we do. Or at least we should be
+
+387
+00:23:01.900 --> 00:23:06.599
+blinded towards someone's political orientation. So we should definitely
+
+388
+00:23:06.599 --> 00:23:12.349
+not exclude someone. Uh, BECAUSE they are right wing.
+
+389
+00:23:12.670 --> 00:23:15.390
+On the, I even did the empirical research. We
+
+390
+00:23:15.390 --> 00:23:18.869
+last time talked about it. Um, ON the impact
+
+391
+00:23:18.869 --> 00:23:22.699
+of social-political attitudes, uh, on the views of scientists,
+
+392
+00:23:22.709 --> 00:23:25.709
+and indeed, scientists also in the research we did,
+
+393
+00:23:25.790 --> 00:23:28.949
+but also in other studies that we surveyed are
+
+394
+00:23:28.949 --> 00:23:33.089
+usually more on the left side. And um this
+
+395
+00:23:33.089 --> 00:23:35.729
+is some experience we are probably also noticing all
+
+396
+00:23:35.729 --> 00:23:38.280
+of us who work in science or everyone who
+
+397
+00:23:38.280 --> 00:23:43.359
+communicates with scientists and so on. Um, uh, uh,
+
+398
+00:23:43.369 --> 00:23:46.829
+BUT sometimes you also wonder how much people are
+
+399
+00:23:46.829 --> 00:23:50.599
+actually talking. Uh, BECAUSE of the social pressure and
+
+400
+00:23:50.599 --> 00:23:54.680
+how much silent they are, because of this microclimate
+
+401
+00:23:54.680 --> 00:23:57.239
+social pressure. And again, I can also say my
+
+402
+00:23:57.239 --> 00:24:00.510
+positionality, my positionality will be more on the left.
+
+403
+00:24:00.839 --> 00:24:04.920
+However, um, also maybe, again, because of my positionality,
+
+404
+00:24:05.010 --> 00:24:07.599
+because of everything that I experienced through my childhood
+
+405
+00:24:07.599 --> 00:24:09.479
+and, and, and growing up in a country that
+
+406
+00:24:09.479 --> 00:24:12.520
+was torn by war. Um, I, I, I have
+
+407
+00:24:12.520 --> 00:24:15.839
+a lot of understanding for people who come from
+
+408
+00:24:15.839 --> 00:24:19.359
+the right wing perspective, and they often do that
+
+409
+00:24:19.359 --> 00:24:22.109
+because of, uh, not all this, right? But, some,
+
+410
+00:24:22.319 --> 00:24:25.000
+some people do that because they, they felt that
+
+411
+00:24:25.000 --> 00:24:28.400
+this is what preserves their identity. This is what
+
+412
+00:24:28.400 --> 00:24:33.209
+preserves their life ultimately. And, uh, and, and I
+
+413
+00:24:33.209 --> 00:24:36.810
+would not like them to be excluded. It would
+
+414
+00:24:36.810 --> 00:24:38.969
+be, it is a challenge, of course, to have
+
+415
+00:24:38.969 --> 00:24:42.880
+the open dialogue. Um, BETWEEN the groups, but I,
+
+416
+00:24:42.959 --> 00:24:46.880
+I am very um sympathetic to, to, to, to
+
+417
+00:24:46.880 --> 00:24:52.599
+people coming from the. Um, RIGHT. Again, modules, that's
+
+418
+00:24:52.599 --> 00:24:56.800
+certain ways of communication, uh, human rights and so
+
+419
+00:24:56.800 --> 00:24:58.760
+on are, are there. And, and I think this
+
+420
+00:24:58.760 --> 00:25:01.910
+is really important. Um, uh, WHAT I also think
+
+421
+00:25:01.910 --> 00:25:04.939
+is, uh, that it, it should be welcomed, that
+
+422
+00:25:04.939 --> 00:25:08.680
+they express, that everyone expresses how I was feeling
+
+423
+00:25:08.680 --> 00:25:11.079
+now free to express my political orientation. Is that
+
+424
+00:25:11.079 --> 00:25:13.760
+also other people feel free to express their political
+
+425
+00:25:13.760 --> 00:25:18.239
+orientation? And, and not only to say this in
+
+426
+00:25:18.239 --> 00:25:21.119
+confidence to me because they know I'm not judgmental
+
+427
+00:25:21.119 --> 00:25:24.469
+person, but they're not speaking out loud, um, uh,
+
+428
+00:25:24.479 --> 00:25:26.880
+within larger groups because then they think they would
+
+429
+00:25:26.880 --> 00:25:32.510
+be stigmatized. I think that's really problematic. Number 12
+
+430
+00:25:32.510 --> 00:25:36.510
+is the question, how impactful is the political orientation
+
+431
+00:25:36.510 --> 00:25:41.349
+on someone's research and That was the, the, the,
+
+432
+00:25:41.359 --> 00:25:43.359
+uh, some of the findings of this paper, they
+
+433
+00:25:43.359 --> 00:25:45.829
+were kind of promising is that within the specific
+
+434
+00:25:45.829 --> 00:25:50.550
+field, uh, of research, um, people are not overly
+
+435
+00:25:50.550 --> 00:25:53.880
+influenced, scientists are not overly influenced by their uh
+
+436
+00:25:53.880 --> 00:25:57.640
+social-political orientation, which is a promising thing, but we
+
+437
+00:25:57.640 --> 00:26:01.969
+know historically. Um, THAT science can be really politicized
+
+438
+00:26:02.180 --> 00:26:05.650
+and can also be abused for different political agendas.
+
+439
+00:26:05.979 --> 00:26:08.619
+And that's something that we have to protect science
+
+440
+00:26:08.619 --> 00:26:13.339
+from, because science is probably the, I mean, it's
+
+441
+00:26:13.339 --> 00:26:15.900
+still highly trusted by the general population, not still,
+
+442
+00:26:15.979 --> 00:26:17.939
+I mean, it also makes sense that it is.
+
+443
+00:26:18.219 --> 00:26:20.339
+But if someone comes from the perspective of the
+
+444
+00:26:20.339 --> 00:26:22.939
+epistemic authority, if someone is also a lecturer at
+
+445
+00:26:22.939 --> 00:26:26.540
+the university and is spreading a political agenda, no
+
+446
+00:26:26.540 --> 00:26:32.420
+matter from which side. That is violating um people's
+
+447
+00:26:32.420 --> 00:26:36.020
+um rights, but it's also kind of imposing the
+
+448
+00:26:36.020 --> 00:26:39.380
+pressure, um, that you have to think in certain
+
+449
+00:26:39.380 --> 00:26:43.739
+ways, um, or, or, or installing certain values which
+
+450
+00:26:43.739 --> 00:26:48.390
+shouldn't. And it can also justify practices, which again,
+
+451
+00:26:48.920 --> 00:26:50.569
+I mean, of course, when we talk about it,
+
+452
+00:26:50.839 --> 00:26:53.430
+everyone thinks immediately about the Second World War period.
+
+453
+00:26:53.920 --> 00:26:56.640
+Um, BUT we, uh, and, and kind of how
+
+454
+00:26:56.640 --> 00:27:01.400
+harmful, um, uh, uh, using science for political agenda
+
+455
+00:27:01.400 --> 00:27:04.000
+can be. Um, BUT you should also keep in
+
+456
+00:27:04.000 --> 00:27:08.239
+mind that even coming from the A left wing
+
+457
+00:27:08.239 --> 00:27:10.569
+or it doesn't have to be left wing. It
+
+458
+00:27:10.569 --> 00:27:14.380
+can also be this neoliberal paradigm, which is, um,
+
+459
+00:27:14.560 --> 00:27:19.680
+uh, uh, yeah, advocating for freedoms, but is excluding
+
+460
+00:27:19.680 --> 00:27:23.290
+others, potentially, not always, of course, that, that, that,
+
+461
+00:27:23.319 --> 00:27:27.319
+that is also dangerous. So, so, uh, in my
+
+462
+00:27:27.319 --> 00:27:30.680
+opinion, I am always very careful about funding, which
+
+463
+00:27:30.680 --> 00:27:35.479
+has a political background. And I'm, uh, and, and
+
+464
+00:27:35.479 --> 00:27:37.680
+I think that all this has to be acknowledged
+
+465
+00:27:37.680 --> 00:27:40.640
+if you received for some type of research funding
+
+466
+00:27:40.640 --> 00:27:43.989
+for that comes from a political background, no matter,
+
+467
+00:27:44.359 --> 00:27:47.869
+uh, whether this is from the liberal part, uh,
+
+468
+00:27:47.880 --> 00:27:51.680
+conservative part, right, left, and so on, uh, that
+
+469
+00:27:51.680 --> 00:27:55.900
+we are just there, um, because funding, for instance,
+
+470
+00:27:56.040 --> 00:27:58.719
+um, science funding can really direct science in different
+
+471
+00:27:58.719 --> 00:28:02.660
+ways. And if you feel the obligation that you,
+
+472
+00:28:02.859 --> 00:28:05.770
+I mean, it can also be the implicit um
+
+473
+00:28:05.780 --> 00:28:09.579
+pressure to kind of deliver what you promised in
+
+474
+00:28:09.579 --> 00:28:14.060
+the grant application, uh, to deliver really, um, yeah,
+
+475
+00:28:14.119 --> 00:28:17.969
+if you promise that you will, um, Uh, detect
+
+476
+00:28:17.969 --> 00:28:20.599
+certain effects or if you promise that you will
+
+477
+00:28:20.890 --> 00:28:23.250
+work on, I don't know, reconciliation, which is of
+
+478
+00:28:23.250 --> 00:28:26.839
+course a nice idea, but then, um, uh, uh,
+
+479
+00:28:26.849 --> 00:28:29.089
+but then you realize that actually there are some
+
+480
+00:28:29.089 --> 00:28:32.329
+deeper problems where this cannot happen, and then you
+
+481
+00:28:32.329 --> 00:28:35.770
+might still misreport it because again of this idealistic
+
+482
+00:28:35.770 --> 00:28:38.329
+ideas, but maybe also because of the expectations of
+
+483
+00:28:38.329 --> 00:28:41.760
+the founder. And then you, it's important, right? So,
+
+484
+00:28:41.819 --> 00:28:43.939
+so if you work on reconciliation, which I think
+
+485
+00:28:43.939 --> 00:28:47.060
+is an exceptionally interesting and important topic, that, but
+
+486
+00:28:47.060 --> 00:28:49.780
+we have to understand the perspective of both sides.
+
+487
+00:28:49.819 --> 00:28:52.300
+We have to be there neutral as much as
+
+488
+00:28:52.300 --> 00:28:55.380
+possible, um, and then in social sciences, we know
+
+489
+00:28:55.380 --> 00:28:58.219
+it's not really possible to be completely neutral. That's
+
+490
+00:28:58.219 --> 00:29:00.979
+why we have to report our positionality. So I
+
+491
+00:29:00.979 --> 00:29:03.569
+would be there. I think it's a big topic.
+
+492
+00:29:04.310 --> 00:29:09.260
+Um, AND I would be, um. Very careful, um.
+
+493
+00:29:10.380 --> 00:29:12.630
+About it. And also one thing to keep in
+
+494
+00:29:12.630 --> 00:29:15.550
+mind, the last thing, I'm sorry, taking too much
+
+495
+00:29:15.550 --> 00:29:19.670
+time. Um, ALSO, a lot of our students might
+
+496
+00:29:19.670 --> 00:29:24.260
+be coming from different political backgrounds, and they are,
+
+497
+00:29:24.510 --> 00:29:27.630
+because I, I interact with them. And, and, and,
+
+498
+00:29:27.750 --> 00:29:32.579
+and, um, just, um, ignoring, uh, or, or denying,
+
+499
+00:29:32.630 --> 00:29:35.489
+or it, it is not helpful. So one has
+
+500
+00:29:35.489 --> 00:29:38.369
+to understand where they come from and, and we
+
+501
+00:29:38.369 --> 00:29:40.329
+are there to have a dialogue with them in
+
+502
+00:29:40.329 --> 00:29:45.140
+higher education, and also to um Acknowledge it and
+
+503
+00:29:45.140 --> 00:29:47.979
+acknowledge their arguments and and be there for them
+
+504
+00:29:47.979 --> 00:29:51.829
+and and so forth, so um. That's why I
+
+505
+00:29:51.829 --> 00:29:54.589
+think for someone who wants to be a proper
+
+506
+00:29:54.589 --> 00:29:58.270
+intellectual, um, practices of trying to, at least when
+
+507
+00:29:58.270 --> 00:30:01.630
+we are at workplace, to, to be neutral regarding
+
+508
+00:30:01.630 --> 00:30:05.959
+the political orientation is really important. Mhm.
+
+509
+00:30:06.719 --> 00:30:10.400
+So, what would you say are perhaps the best
+
+510
+00:30:10.400 --> 00:30:15.359
+ways for us to promote cognitive diversity in science
+
+511
+00:30:15.359 --> 00:30:18.719
+specifically? I mean, do you think that things like
+
+512
+00:30:18.719 --> 00:30:22.510
+just removing or trying to remove as As most
+
+513
+00:30:22.510 --> 00:30:28.579
+as possible, biases and barriers and obstacles, uh, uh,
+
+514
+00:30:28.660 --> 00:30:32.109
+would be enough for us to have more cognitive
+
+515
+00:30:32.109 --> 00:30:35.949
+diversity in science and then, I guess, academia more
+
+516
+00:30:35.949 --> 00:30:39.579
+generally, or do you think that we should, uh,
+
+517
+00:30:39.589 --> 00:30:43.750
+we need, uh, things or Uh, solutions that are
+
+518
+00:30:43.750 --> 00:30:49.439
+perhaps a little bit more interventional like affirmative action
+
+519
+00:30:49.439 --> 00:30:53.849
+in hiring and uh in helping certain kinds of
+
+520
+00:30:53.849 --> 00:30:58.890
+students attending, uh, attend the university. I mean, what
+
+521
+00:30:58.890 --> 00:31:02.640
+kinds of solutions do you think are best?
+
+522
+00:31:03.449 --> 00:31:08.369
+Mhm. I'm writing down the notes. Yes. Uh, I,
+
+523
+00:31:08.530 --> 00:31:12.739
+I really like, uh, one quote which says, diversity
+
+524
+00:31:12.739 --> 00:31:18.199
+without inclusion is an empty gesture. Mm. Um, uh,
+
+525
+00:31:18.260 --> 00:31:22.030
+uh, AND I think we need inclusion. Inclusion doesn't
+
+526
+00:31:22.030 --> 00:31:26.439
+have to only come from affirmative measures. Uh, uh,
+
+527
+00:31:26.479 --> 00:31:29.369
+IT'S, it can be something much simpler, what we
+
+528
+00:31:29.369 --> 00:31:31.489
+talked about just now, and this is to try
+
+529
+00:31:31.489 --> 00:31:33.890
+not to be, to try to be open to
+
+530
+00:31:33.890 --> 00:31:37.010
+different viewpoints, to, to consider them legitimate as much
+
+531
+00:31:37.010 --> 00:31:42.199
+as possible. Um, uh, TO, um, uh, uh, uh,
+
+532
+00:31:42.239 --> 00:31:44.400
+if we are in, in the simple example we
+
+533
+00:31:44.400 --> 00:31:47.119
+had from before, right, we are hiring someone who
+
+534
+00:31:47.119 --> 00:31:50.630
+is doing qualitative research in our highly quantitative lab.
+
+535
+00:31:51.959 --> 00:31:55.500
+Uh, uh, WE did that deliberately because we want
+
+536
+00:31:55.500 --> 00:31:58.550
+this person to bring this new, they were suspect,
+
+537
+00:31:58.579 --> 00:32:01.020
+and that's why we're gonna let this person do
+
+538
+00:32:01.500 --> 00:32:03.979
+qualitative research, and we will try to learn from
+
+539
+00:32:03.979 --> 00:32:07.599
+it and be open to it. Uh, OTHERWISE, if
+
+540
+00:32:07.599 --> 00:32:10.079
+you are just trying to uh make this person
+
+541
+00:32:10.079 --> 00:32:11.810
+do the same as what we are doing, which
+
+542
+00:32:11.810 --> 00:32:14.239
+it's highly likely that it will work, but that
+
+543
+00:32:14.239 --> 00:32:18.770
+doesn't bring any benefits of the epistemic diversity. Uh,
+
+544
+00:32:18.930 --> 00:32:21.560
+SO, so the inclusion is important and, and, and
+
+545
+00:32:21.560 --> 00:32:25.369
+epistemic inclusion, which means that we really then consider
+
+546
+00:32:25.369 --> 00:32:30.020
+these viewpoints and really try to integrate them. Uh,
+
+547
+00:32:30.099 --> 00:32:32.680
+WITHIN our research. And when it comes to the
+
+548
+00:32:32.680 --> 00:32:37.459
+affirmative actions, that, again, is a big debate because
+
+549
+00:32:37.459 --> 00:32:40.380
+some people feel, um, the majority group can start
+
+550
+00:32:40.380 --> 00:32:46.689
+feeling envy or can find it unjust. Um, AND,
+
+551
+00:32:46.780 --> 00:32:48.770
+and that's why we have to be careful with
+
+552
+00:32:48.770 --> 00:32:53.170
+affirmative actions. Uh, WHAT you asked about the education,
+
+553
+00:32:53.189 --> 00:32:58.089
+there I have a very leftist view. Education should
+
+554
+00:32:58.089 --> 00:33:02.609
+be available as much as possible to everyone, and
+
+555
+00:33:02.609 --> 00:33:06.369
+that everyone should be encouraged and possibly stimulated to
+
+556
+00:33:06.369 --> 00:33:08.540
+go to education if they have the motivation to,
+
+557
+00:33:08.569 --> 00:33:10.609
+to get education, if they have motivation. I think
+
+558
+00:33:10.609 --> 00:33:13.530
+it's also completely legitimate not to have this motivation
+
+559
+00:33:13.530 --> 00:33:18.430
+and just be. Happy in different ways. Um, uh,
+
+560
+00:33:18.579 --> 00:33:21.079
+BUT, so I wouldn't go to this perfectionism of
+
+561
+00:33:21.079 --> 00:33:23.099
+you, oh, you have to motivate everyone to study.
+
+562
+00:33:23.180 --> 00:33:26.439
+No. But for people who do want it, um,
+
+563
+00:33:26.579 --> 00:33:29.130
+uh, I feel that we as a society, um,
+
+564
+00:33:29.300 --> 00:33:31.829
+have to provide as much as possible resources that
+
+565
+00:33:31.829 --> 00:33:36.859
+this happens. And a lot of, actually, professors do
+
+566
+00:33:36.859 --> 00:33:39.619
+share this, and, and that's why professors also like
+
+567
+00:33:39.619 --> 00:33:43.920
+to, um, help. Give interviews as, as, as this
+
+568
+00:33:43.920 --> 00:33:48.989
+one, but also, uh um uh uh I'll uh
+
+569
+00:33:49.000 --> 00:33:51.400
+uh put their courses on some of these open
+
+570
+00:33:51.400 --> 00:33:57.530
+platforms and whether that will, um, Bring education closer
+
+571
+00:33:57.530 --> 00:34:00.050
+to everyone. I don't know, we can only hope,
+
+572
+00:34:00.459 --> 00:34:04.180
+but we also often give guest lectures and, and,
+
+573
+00:34:04.270 --> 00:34:08.978
+and, and, um, yeah, education, like, like also mentoring
+
+574
+00:34:08.978 --> 00:34:11.458
+when someone approaches us and so on. And, and
+
+575
+00:34:11.458 --> 00:34:13.659
+they do this for free, but it's, well, it's
+
+576
+00:34:13.659 --> 00:34:16.580
+not for free, it's for our soul because we
+
+577
+00:34:16.580 --> 00:34:18.739
+are happy to do it. And I think a
+
+578
+00:34:18.739 --> 00:34:20.820
+lot of people are actually happy to do it.
+
+579
+00:34:20.899 --> 00:34:23.870
+They, they see this as, uh, Uh, one of
+
+580
+00:34:23.870 --> 00:34:26.820
+the very important things, uh, of our job, then,
+
+581
+00:34:26.889 --> 00:34:29.379
+then also, uh, I think it's also nice and
+
+582
+00:34:29.389 --> 00:34:33.809
+and important that we are uh. Publishing, um, uh,
+
+583
+00:34:33.819 --> 00:34:38.040
+the ones well. People who have the opportunity to
+
+584
+00:34:38.040 --> 00:34:40.438
+publish open access, and I know because I also,
+
+585
+00:34:40.600 --> 00:34:42.620
+again, based on my positionality, I was also in
+
+586
+00:34:42.620 --> 00:34:45.550
+the environment in which you couldn't afford to pay
+
+587
+00:34:45.550 --> 00:34:47.770
+the fees to publish open access and so on.
+
+588
+00:34:47.840 --> 00:34:50.040
+But, and I know there are different types of
+
+589
+00:34:50.040 --> 00:34:53.199
+open access, uh, so some everyone doesn't have to
+
+590
+00:34:53.199 --> 00:34:55.280
+pay and so on. But in any case, if
+
+591
+00:34:55.280 --> 00:34:58.550
+you're in a privileged position that you can afford
+
+592
+00:34:58.550 --> 00:35:02.360
+this and that, um, Uh, both career in the
+
+593
+00:35:02.360 --> 00:35:05.250
+career terms and and in the financial terms, that
+
+594
+00:35:05.250 --> 00:35:07.729
+is also a great thing to uh make a
+
+595
+00:35:07.729 --> 00:35:11.409
+lot of resources available and. Uh, PEOPLE are really
+
+596
+00:35:11.409 --> 00:35:16.500
+doing it, and my um. Professor of logic from
+
+597
+00:35:16.500 --> 00:35:19.479
+Belgrade, who unfortunately passed away, but he wrote a
+
+598
+00:35:19.479 --> 00:35:23.340
+lovely, uh, book, uh, for high school students about
+
+599
+00:35:23.340 --> 00:35:27.179
+logic. And that book is freely available and, but
+
+600
+00:35:27.179 --> 00:35:29.500
+it's in Serbian language, but everyone can download it
+
+601
+00:35:29.500 --> 00:35:31.540
+and read it. And I think that's, uh, that's
+
+602
+00:35:31.540 --> 00:35:33.379
+something which I think he felt as one of
+
+603
+00:35:33.379 --> 00:35:37.100
+his legacies and. Very, very nice thing to do.
+
+604
+00:35:38.500 --> 00:35:43.090
+So, on the topic of cognitive diversity, is there
+
+605
+00:35:43.260 --> 00:35:47.340
+anything else you think is important to add or
+
+606
+00:35:47.340 --> 00:35:49.850
+that I might have missed in my questions, or
+
+607
+00:35:49.850 --> 00:35:52.979
+can we move to the philosophy of AI?
+
+608
+00:35:53.770 --> 00:35:58.399
+Your questions were excellent, as always. Uh, uh, YEAH,
+
+609
+00:35:58.689 --> 00:36:02.320
+maybe I can just shortly connect it with, um,
+
+610
+00:36:02.570 --> 00:36:07.050
+uh, uh, intellectual virtues. Um, BECAUSE we, we talked
+
+611
+00:36:07.050 --> 00:36:10.649
+a lot about the, um, uh, diversity from the
+
+612
+00:36:10.649 --> 00:36:13.330
+perspective of the social epistemology and, and kind of
+
+613
+00:36:13.330 --> 00:36:15.929
+how socially it makes sense. And we touched upon
+
+614
+00:36:16.219 --> 00:36:21.090
+these, these virtues of open-mindedness, of epistemic tolerance, of
+
+615
+00:36:21.090 --> 00:36:25.659
+intellectual justice, and, and, and, and also, uh, epistemic
+
+616
+00:36:25.659 --> 00:36:28.399
+charity, I would also say to all these interpret,
+
+617
+00:36:28.459 --> 00:36:30.899
+uh, in the most charitable way what someone is
+
+618
+00:36:30.899 --> 00:36:37.010
+saying. Um, uh, um, TO not care about, uh,
+
+619
+00:36:37.030 --> 00:36:40.629
+language fluency, but to care about the content. So
+
+620
+00:36:40.629 --> 00:36:43.229
+all these things are, uh, something which we can
+
+621
+00:36:43.229 --> 00:36:46.790
+also on the individual level practice in order to
+
+622
+00:36:46.790 --> 00:36:50.699
+become more, um, epistemically inclusive.
+
+623
+00:36:52.560 --> 00:36:55.449
+Great. So let's talk then a little bit about
+
+624
+00:36:55.449 --> 00:36:59.270
+uh the philosophy and ethics of artificial intelligence then.
+
+625
+00:36:59.889 --> 00:37:02.449
+Uh, SO you worked on a set of ethical
+
+626
+00:37:02.449 --> 00:37:07.129
+guidelines for development, implementation, and the use of robust
+
+627
+00:37:07.129 --> 00:37:11.889
+and accountable artificial intelligence adopted by the government of
+
+628
+00:37:11.889 --> 00:37:15.969
+Serbia. So, first of all, what are these guidelines
+
+629
+00:37:15.969 --> 00:37:18.090
+and why were they needed?
+
+630
+00:37:19.379 --> 00:37:21.850
+Um, MAYBE to make a connection between the two
+
+631
+00:37:21.850 --> 00:37:26.409
+topics, just to say that, um, use of AI
+
+632
+00:37:26.409 --> 00:37:31.620
+can potentially decrease. The epistemic diversity. And it can
+
+633
+00:37:31.620 --> 00:37:34.020
+decrease it in education, it could also decrease it
+
+634
+00:37:34.020 --> 00:37:37.169
+in science, because, uh, based on what the AI
+
+635
+00:37:37.169 --> 00:37:40.020
+is trained, there can be some dominant way of
+
+636
+00:37:40.020 --> 00:37:43.199
+thinking coming from it. And this is research that,
+
+637
+00:37:43.209 --> 00:37:46.439
+uh, um, my colleague, Alexandra Wolzkowitz and I did
+
+638
+00:37:46.439 --> 00:37:49.879
+uh regarding the, uh, use of AI in education,
+
+639
+00:37:50.250 --> 00:37:53.530
+uh, and, and the potential epistemic danger of the
+
+640
+00:37:53.530 --> 00:37:56.830
+global injustice that could also come, uh, from these
+
+641
+00:37:56.830 --> 00:37:59.889
+epistemic parts that there is in a dominant paradigm
+
+642
+00:37:59.889 --> 00:38:02.929
+that we're teaching, uh, children something which is in
+
+643
+00:38:02.929 --> 00:38:07.919
+the dominant paradigm and also not critically, um, uh,
+
+644
+00:38:07.929 --> 00:38:11.830
+assessing it enough. And we know this, um, now,
+
+645
+00:38:11.879 --> 00:38:15.120
+even UNESCO is pointing out that critical thinking in
+
+646
+00:38:15.120 --> 00:38:18.199
+the era of AI is becoming really important. And
+
+647
+00:38:18.199 --> 00:38:20.810
+one of the important aspects that we want to
+
+648
+00:38:21.199 --> 00:38:25.500
+teach everyone when it comes to the critical thinking
+
+649
+00:38:25.919 --> 00:38:30.120
+is exactly to question, um, uh, and to check
+
+650
+00:38:30.120 --> 00:38:35.000
+whether this viewpoint is fair and diverse enough. And
+
+651
+00:38:35.000 --> 00:38:37.840
+the fairness comes together with diversity, and that is
+
+652
+00:38:37.840 --> 00:38:42.080
+one of the, the principles that responsible AI has
+
+653
+00:38:42.080 --> 00:38:45.429
+to follow. And you asked me about, yeah, uh,
+
+654
+00:38:45.439 --> 00:38:49.860
+the, the, the Serbian guidelines. I was very Happy
+
+655
+00:38:49.860 --> 00:38:55.310
+to, to contribute to them. Um, THEY were written
+
+656
+00:38:55.310 --> 00:39:00.030
+before, right, before almost, the huge, uh, generative AI,
+
+657
+00:39:00.270 --> 00:39:03.850
+uh, expansion. But there was this visionary view that,
+
+658
+00:39:03.860 --> 00:39:07.149
+um, and, and like a larger strategy also, uh,
+
+659
+00:39:07.310 --> 00:39:10.429
+in Serbia, as everywhere else in the world, I
+
+660
+00:39:10.429 --> 00:39:16.750
+assume. Uh, uh, TO, um, develop, uh, um, ethically
+
+661
+00:39:16.750 --> 00:39:20.270
+driven AI. And it had two purposes. One is
+
+662
+00:39:20.270 --> 00:39:26.030
+to, um, um, uh, provide platform, uh, for people
+
+663
+00:39:26.030 --> 00:39:29.629
+who are developing AI to really, um, uh, there
+
+664
+00:39:29.629 --> 00:39:33.169
+are even forms. Uh, ATTACHED to this document, which
+
+665
+00:39:33.169 --> 00:39:36.770
+one can go through to check whether their AI
+
+666
+00:39:36.770 --> 00:39:40.310
+solution is low risk, high risk, uh, what should
+
+667
+00:39:40.310 --> 00:39:44.479
+change, uh, in order to make it, um, ethically
+
+668
+00:39:44.479 --> 00:39:47.760
+acceptable and so forth. So, it was, one was,
+
+669
+00:39:47.879 --> 00:39:50.610
+uh, this to, to, to really help people who
+
+670
+00:39:50.610 --> 00:39:52.850
+are developing it, to develop it in an ethical
+
+671
+00:39:52.850 --> 00:39:56.689
+way. Um, THE other one was, of course, um,
+
+672
+00:39:57.129 --> 00:40:00.320
+Understanding that this is a big question of the
+
+673
+00:40:00.320 --> 00:40:04.120
+future and that we need to align the, the
+
+674
+00:40:04.120 --> 00:40:07.590
+general laws which we do have about data privacy,
+
+675
+00:40:07.879 --> 00:40:12.090
+um, uh, um, uh, dignity, autonomy, and so on,
+
+676
+00:40:12.479 --> 00:40:16.310
+that we, um, align. That with the use of
+
+677
+00:40:16.310 --> 00:40:19.429
+new technology, because it's not always clear what is
+
+678
+00:40:19.429 --> 00:40:22.510
+happening in which case. And the ethical guidelines are
+
+679
+00:40:22.510 --> 00:40:26.219
+part of the soft law, so they're just recommendations.
+
+680
+00:40:26.770 --> 00:40:31.310
+Based on them later, uh, specific legal solutions and
+
+681
+00:40:31.310 --> 00:40:35.010
+strategies, uh, are made. Mhm.
+
+682
+00:40:35.810 --> 00:40:37.729
+So, I would like to, for you to tell
+
+683
+00:40:37.729 --> 00:40:41.169
+us a little bit about the main ethical principles
+
+684
+00:40:41.169 --> 00:40:48.000
+that drive the guidelines, namely, explainability and verifiability, dignity,
+
+685
+00:40:48.250 --> 00:40:52.290
+revision to cause damage, and fairness. So, tell us
+
+686
+00:40:52.290 --> 00:40:57.409
+about each of them and why these ethical principles
+
+687
+00:40:57.510 --> 00:40:58.090
+specifically.
+
+688
+00:40:59.449 --> 00:41:02.659
+Yeah, the, the, this is the, there are certain
+
+689
+00:41:02.659 --> 00:41:06.010
+common frameworks that we are thinking about when um
+
+690
+00:41:07.250 --> 00:41:10.939
+Using AI, um, uh, that what is being implemented
+
+691
+00:41:10.939 --> 00:41:13.929
+on, on people needs to, um, we need to
+
+692
+00:41:13.929 --> 00:41:16.209
+have certain control of it and, and, and to
+
+693
+00:41:16.209 --> 00:41:18.449
+have the understanding of it, and that we can
+
+694
+00:41:18.449 --> 00:41:22.800
+also, um, check and dispute what is happening, uh,
+
+695
+00:41:22.810 --> 00:41:27.919
+within, uh, this specific, uh, technological solution. Uh, IT
+
+696
+00:41:27.919 --> 00:41:32.360
+has to respect our dignity. Um, AND, uh, it
+
+697
+00:41:32.360 --> 00:41:35.360
+should always, like, the first thing one has to
+
+698
+00:41:35.360 --> 00:41:38.260
+prove is that your AI solution is actually bringing
+
+699
+00:41:38.260 --> 00:41:42.350
+some benefit and that it's not causing harm. Um,
+
+700
+00:41:42.520 --> 00:41:45.699
+THEN the fairness aspect is something which I find
+
+701
+00:41:46.169 --> 00:41:49.800
+Very important because what I touched just now, uh,
+
+702
+00:41:49.810 --> 00:41:53.879
+upon the fairness, also has the epistemic dimension. So,
+
+703
+00:41:53.889 --> 00:41:56.489
+it has a social dimension that someone can be
+
+704
+00:41:56.489 --> 00:41:59.649
+discriminated by AI, but it also has an epistemic
+
+705
+00:41:59.649 --> 00:42:04.100
+dimension. Let's go back again to the simplest. Example,
+
+706
+00:42:04.469 --> 00:42:09.520
+we use automated translation, the automated translator, uh, from
+
+707
+00:42:09.520 --> 00:42:12.070
+the English language in which we don't have genders.
+
+708
+00:42:12.189 --> 00:42:15.270
+Now it translates a text into Serbian, which is
+
+709
+00:42:15.270 --> 00:42:18.750
+the language which has genders, translates the doctor is
+
+710
+00:42:18.750 --> 00:42:23.229
+male and a nurse is female. And this is,
+
+711
+00:42:23.570 --> 00:42:27.800
+um, maybe it's one of the common examples. And,
+
+712
+00:42:28.090 --> 00:42:32.810
+uh, this, of course, um, can have certain impacts
+
+713
+00:42:32.810 --> 00:42:37.610
+because it is encoding, uh, stereotypes and biases, which
+
+714
+00:42:37.610 --> 00:42:40.929
+we are, uh, having as a society. So it
+
+715
+00:42:40.929 --> 00:42:45.209
+mirrors these biases, but we want that this doesn't
+
+716
+00:42:45.209 --> 00:42:47.850
+really happen. But it can, it can, it can
+
+717
+00:42:47.850 --> 00:42:52.850
+even have, um, uh, depends, depending on which uh
+
+718
+00:42:52.850 --> 00:42:56.449
+area we are using AI for, it can even
+
+719
+00:42:56.449 --> 00:43:01.840
+have bigger impact. And, um, uh, so, so, if
+
+720
+00:43:02.090 --> 00:43:06.500
+certain biases are there, then we can also algorithmic
+
+721
+00:43:06.500 --> 00:43:10.879
+biases, then it can also hinder us from learning
+
+722
+00:43:11.330 --> 00:43:14.129
+properly, uh, but we are getting the information which
+
+723
+00:43:14.129 --> 00:43:16.810
+is biased, and then we have an additional problem
+
+724
+00:43:16.810 --> 00:43:19.909
+is how much we trust the machines and That
+
+725
+00:43:19.909 --> 00:43:21.989
+is a big question, right? So, so, so, and
+
+726
+00:43:21.989 --> 00:43:25.350
+it's an empirical question which psychologists are trying to
+
+727
+00:43:25.350 --> 00:43:27.669
+study, and we often trust the machine a lot.
+
+728
+00:43:27.830 --> 00:43:29.870
+I know that there are conflicting viewpoints on it.
+
+729
+00:43:31.209 --> 00:43:34.699
+Um, BUT the machines can be very suggestive. And,
+
+730
+00:43:34.780 --> 00:43:37.459
+and those are, um, some of the aspects that
+
+731
+00:43:37.459 --> 00:43:41.300
+come with the epistemic questions. But of course, AI
+
+732
+00:43:41.300 --> 00:43:47.169
+can really, um, uh, have deep, profound impacts on
+
+733
+00:43:47.419 --> 00:43:51.209
+human life, especially if you use it. Um, IN,
+
+734
+00:43:51.360 --> 00:43:55.090
+uh, uh, uh, uh, in certain domains. Um, AND,
+
+735
+00:43:55.209 --> 00:43:57.320
+and already like if you use it to decide
+
+736
+00:43:57.320 --> 00:43:59.209
+who will get the credit and who will not
+
+737
+00:43:59.209 --> 00:44:02.810
+get the credit, and if some discrimination there is
+
+738
+00:44:02.810 --> 00:44:06.290
+being used, that can be really bad, um, systems
+
+739
+00:44:06.290 --> 00:44:10.379
+which are recommending, um, uh. Um, I mean, in
+
+740
+00:44:10.379 --> 00:44:13.580
+the law, there are some ideas of its application
+
+741
+00:44:13.580 --> 00:44:15.330
+to kind of see kind of who, who might
+
+742
+00:44:15.330 --> 00:44:18.620
+commit a crime again that can also be very
+
+743
+00:44:19.100 --> 00:44:23.580
+potentially dangerous, can have really strong effects on one's
+
+744
+00:44:23.580 --> 00:44:26.729
+life, or we can have some applications which are
+
+745
+00:44:26.949 --> 00:44:29.850
+Uh, more neutral, right? So we are just trying
+
+746
+00:44:29.850 --> 00:44:34.939
+to optimize, um, uh, the distribution of the gas
+
+747
+00:44:34.939 --> 00:44:36.899
+stations around the city or whatever, or the bus
+
+748
+00:44:36.899 --> 00:44:39.699
+stops or whatever. It also has some impact, but
+
+749
+00:44:39.699 --> 00:44:42.330
+it is less, uh, less of an impact on
+
+750
+00:44:42.620 --> 00:44:47.070
+humans. And what is important. Uh, WHY it's important
+
+751
+00:44:47.070 --> 00:44:51.580
+to have, um, some of these basic criteria, um,
+
+752
+00:44:51.669 --> 00:44:54.469
+uh, is because whenever we want to test a
+
+753
+00:44:54.469 --> 00:44:58.030
+certain AI solution, we can think about it within
+
+754
+00:44:58.030 --> 00:45:01.439
+these criteria. So if you're using a medical AI
+
+755
+00:45:01.439 --> 00:45:04.770
+we are thinking, OK, is this really helpful? Can
+
+756
+00:45:04.770 --> 00:45:07.979
+we really explain why this is being used, uh,
+
+757
+00:45:08.090 --> 00:45:10.560
+or sometimes we don't know what's actually going on,
+
+758
+00:45:11.050 --> 00:45:13.800
+but it's implemented on people and that is dangerous.
+
+759
+00:45:14.050 --> 00:45:17.169
+Is it really fair to all the patients? Um,
+
+760
+00:45:17.330 --> 00:45:20.550
+DO patients feel that their dignity? Uh, IS not
+
+761
+00:45:20.550 --> 00:45:24.409
+being respected. The similarly we are using some tool
+
+762
+00:45:24.669 --> 00:45:27.030
+for the use of AI in education, so we
+
+763
+00:45:27.030 --> 00:45:30.989
+again think through these principles and try to see
+
+764
+00:45:31.389 --> 00:45:34.030
+um whether they are matching. Of course, there is
+
+765
+00:45:34.030 --> 00:45:37.600
+the privacy. As well, and it's also mentioned in
+
+766
+00:45:37.600 --> 00:45:40.310
+the document. And what I think is also nice
+
+767
+00:45:40.310 --> 00:45:43.120
+is that these principles can be connected with certain
+
+768
+00:45:43.120 --> 00:45:46.560
+virtuous behaviors. So they can also be some recommendations
+
+769
+00:45:46.560 --> 00:45:50.080
+of how to, um, as a developer, how to
+
+770
+00:45:50.080 --> 00:45:53.070
+think about the solutions, whether they are satisfying them,
+
+771
+00:45:53.080 --> 00:45:55.879
+and as a legislator to what one should say
+
+772
+00:45:55.879 --> 00:45:59.120
+yes and no. And if you're having the ethical
+
+773
+00:45:59.120 --> 00:46:02.159
+and responsible AI, ultimately, this is also good for
+
+774
+00:46:02.159 --> 00:46:06.590
+the users. Because then users can trust it more.
+
+775
+00:46:06.820 --> 00:46:08.780
+And I think it's also good that users also
+
+776
+00:46:08.780 --> 00:46:12.139
+are aware of certain criteria and think about it.
+
+777
+00:46:12.179 --> 00:46:16.399
+OK. Is the AI really, like, is it really
+
+778
+00:46:16.399 --> 00:46:21.090
+explainable? Is it like, honestly made? Um, uh, uh,
+
+779
+00:46:21.110 --> 00:46:24.830
+uh, IS the privacy, um, is the fairness there?
+
+780
+00:46:24.840 --> 00:46:27.830
+The, the fairness translates to this, uh, intellectual justice,
+
+781
+00:46:27.870 --> 00:46:30.669
+epistemic justice, right? So are we, or justice in
+
+782
+00:46:30.669 --> 00:46:32.870
+general, so it has, as I said, both epistemic
+
+783
+00:46:32.870 --> 00:46:36.020
+and non-epistemic component. But like one can really think,
+
+784
+00:46:36.080 --> 00:46:40.360
+OK, but is, is, is, is this following. Um,
+
+785
+00:46:40.439 --> 00:46:42.320
+THIS type of virtues. And then do I want
+
+786
+00:46:42.320 --> 00:46:43.840
+to use it or I don't want to use
+
+787
+00:46:43.840 --> 00:46:45.800
+it? Do I want to give my data into
+
+788
+00:46:45.800 --> 00:46:49.199
+the system or not? Or even, uh, I mean,
+
+789
+00:46:49.250 --> 00:46:51.040
+we have to keep in mind some, some of
+
+790
+00:46:51.040 --> 00:46:53.280
+these solutions are suboptimal, right? So we, we will
+
+791
+00:46:53.280 --> 00:46:57.310
+all use translation tools or, or, or generative AI
+
+792
+00:46:57.310 --> 00:47:00.520
+for, um, uh, generating text, but we have to
+
+793
+00:47:00.520 --> 00:47:03.600
+be then there to critically think, OK. There is
+
+794
+00:47:03.600 --> 00:47:09.199
+this fairness question. It might, uh, misrepresent certain groups
+
+795
+00:47:09.510 --> 00:47:12.090
+and, uh, uh, and, and then I'm aware of
+
+796
+00:47:12.090 --> 00:47:15.169
+it, so I will correct for it. One example
+
+797
+00:47:15.169 --> 00:47:17.949
+I give to students are the photos generated by
+
+798
+00:47:17.949 --> 00:47:21.750
+the LE, uh, where you see kind of, um,
+
+799
+00:47:21.889 --> 00:47:25.679
+I, I asked it to create inclusive science. And
+
+800
+00:47:25.679 --> 00:47:29.030
+it gives different pictures. It's really hard to get
+
+801
+00:47:29.030 --> 00:47:31.760
+it as inclusive as possible with a lot of
+
+802
+00:47:31.760 --> 00:47:34.639
+prompting. And then even with that, you notice that
+
+803
+00:47:34.639 --> 00:47:37.280
+there is no older women in the picture. So
+
+804
+00:47:37.280 --> 00:47:40.469
+you might get, uh, different groups, but when you
+
+805
+00:47:40.469 --> 00:47:45.159
+intersect or, or, um, uh, uh, when you intersect,
+
+806
+00:47:45.239 --> 00:47:48.800
+uh, these groups, then you will, uh, you might
+
+807
+00:47:48.800 --> 00:47:51.560
+still have the underrepresentation. And then the idea is,
+
+808
+00:47:51.580 --> 00:47:54.340
+OK, you show a picture. To students and ask
+
+809
+00:47:54.340 --> 00:47:55.899
+them, OK, what, what is wrong on the picture?
+
+810
+00:47:55.939 --> 00:47:58.100
+What is missing on the picture? And if they
+
+811
+00:47:58.100 --> 00:48:00.689
+are aware of it, that, that is already helpful.
+
+812
+00:48:01.260 --> 00:48:03.610
+Because, um, yeah, that's the best we can do,
+
+813
+00:48:03.739 --> 00:48:08.199
+because, of course, AI is very helpful and, um,
+
+814
+00:48:08.370 --> 00:48:11.139
+uh, brings a lot of efficiency to us. So
+
+815
+00:48:11.139 --> 00:48:14.090
+sometimes it is a balancing act of trying the
+
+816
+00:48:14.090 --> 00:48:17.260
+optimal solution. And I think that the, the, the
+
+817
+00:48:17.260 --> 00:48:21.389
+ethical guidelines are exactly in this spirit. That we
+
+818
+00:48:21.389 --> 00:48:26.500
+wanted to uh facilitate the progress, provide some framework
+
+819
+00:48:26.500 --> 00:48:30.739
+for both legal but uh both legal uh solutions,
+
+820
+00:48:30.750 --> 00:48:33.949
+but also for the uh developers and users to
+
+821
+00:48:33.949 --> 00:48:37.429
+really see, um, uh, how they can do this
+
+822
+00:48:37.429 --> 00:48:40.709
+responsibly and what the potential consequences might be of
+
+823
+00:48:40.709 --> 00:48:42.709
+their solutions. I, I hope that not many people
+
+824
+00:48:42.709 --> 00:48:48.979
+have. Immediately evil plans, it just might go wrong.
+
+825
+00:48:50.209 --> 00:48:50.729
+Yeah.
+
+826
+00:48:51.209 --> 00:48:56.290
+So another question, what constitutes a high risks artificial
+
+827
+00:48:56.290 --> 00:48:57.850
+intelligence system?
+
+828
+00:48:58.860 --> 00:49:02.649
+Uh, THEN we are, then these systems are influencing
+
+829
+00:49:03.260 --> 00:49:08.629
+life of. Humans in a significant way. Uh, AND,
+
+830
+00:49:08.750 --> 00:49:10.709
+and, and profiling them. This is how we were
+
+831
+00:49:10.709 --> 00:49:13.219
+reasoning here. But we also, what I'm very proud
+
+832
+00:49:13.219 --> 00:49:16.750
+of, we also consider the environment, so the ecological
+
+833
+00:49:16.750 --> 00:49:19.750
+aspect. And we also, I think this was the
+
+834
+00:49:19.750 --> 00:49:23.780
+first act, uh, which actually considered the animal, uh,
+
+835
+00:49:23.870 --> 00:49:26.790
+welfare as well. I mean, I would even go
+
+836
+00:49:26.790 --> 00:49:29.905
+stronger and say animal. Right. But I mean, this
+
+837
+00:49:29.905 --> 00:49:33.625
+is already great. And it was, um, uh, my
+
+838
+00:49:33.625 --> 00:49:36.844
+humble contribution, which came, uh, from the work of
+
+839
+00:49:36.844 --> 00:49:40.175
+my colleague, Thio Haageendorf from Tubingen and Peter Singer.
+
+840
+00:49:41.145 --> 00:49:43.854
+The, the, the famous this is, uh, who were,
+
+841
+00:49:43.985 --> 00:49:47.235
+uh, at that time already pointing out the potential
+
+842
+00:49:47.235 --> 00:49:51.145
+impact of AI on animals. Uh, I think nowadays
+
+843
+00:49:51.145 --> 00:49:53.745
+that will become more and more standard. So we
+
+844
+00:49:53.745 --> 00:49:57.750
+have to take care of, um, Our planet living
+
+845
+00:49:57.750 --> 00:50:00.820
+beings in the planet and that AI is not
+
+846
+00:50:00.820 --> 00:50:06.120
+giving recommendations which can harm, uh, neither uh animals
+
+847
+00:50:06.120 --> 00:50:10.540
+nor environment and of course, especially humans, and we
+
+848
+00:50:10.540 --> 00:50:13.639
+are in the, in the document, it's, uh, the
+
+849
+00:50:13.639 --> 00:50:18.370
+human aspect is, of course, being, uh. Elaborated on,
+
+850
+00:50:18.620 --> 00:50:21.139
+and some of the cases, uh, which are the
+
+851
+00:50:21.139 --> 00:50:23.899
+high risk cases, not only, I, I, uh, I
+
+852
+00:50:23.899 --> 00:50:25.780
+mean, also in other acts that I was reading
+
+853
+00:50:25.780 --> 00:50:27.699
+because you have to do that to prepare and,
+
+854
+00:50:27.739 --> 00:50:30.919
+and it also makes sense, um, very related to
+
+855
+00:50:30.919 --> 00:50:36.379
+the healthcare, um, uh, education, um, because there, it
+
+856
+00:50:36.379 --> 00:50:40.409
+can really impact someone's life, um, very related to
+
+857
+00:50:40.409 --> 00:50:43.260
+the justice system, very related to something that could
+
+858
+00:50:43.260 --> 00:50:47.600
+potentially hinder democracy. So, also, that is, um, Um,
+
+859
+00:50:48.510 --> 00:50:50.610
+and, and there I would say for sure different
+
+860
+00:50:50.610 --> 00:50:52.989
+type of media, not only social media, but also
+
+861
+00:50:52.989 --> 00:50:55.790
+the standard media if, if it's, if the AI
+
+862
+00:50:55.790 --> 00:50:59.110
+is used too much for generating text, can become
+
+863
+00:50:59.110 --> 00:51:02.949
+problematic. And so those are just some illustrations, but
+
+864
+00:51:02.949 --> 00:51:07.469
+this list is not exhaustive, um, uh, and what
+
+865
+00:51:07.469 --> 00:51:09.530
+is very important is that we always have to,
+
+866
+00:51:09.550 --> 00:51:13.860
+uh, update. Um, SUCH lists, and then that is
+
+867
+00:51:13.860 --> 00:51:17.100
+written and noted in the document, and the technology
+
+868
+00:51:17.100 --> 00:51:19.780
+might develop in ways that we're not fully aware
+
+869
+00:51:19.780 --> 00:51:21.989
+yet and that's why it's important that this is.
+
+870
+00:51:22.679 --> 00:51:25.469
+Um, NOT fixed, but that we are constantly revising
+
+871
+00:51:25.469 --> 00:51:27.750
+it. And when we say that something is high
+
+872
+00:51:27.750 --> 00:51:30.989
+risk, doesn't always mean that it's just that it's
+
+873
+00:51:30.989 --> 00:51:33.149
+prohibited, right? So the use of AI in education
+
+874
+00:51:33.149 --> 00:51:35.790
+shouldn't just be prohibited. That's not the point. The
+
+875
+00:51:35.790 --> 00:51:37.590
+point is that there has to be a special
+
+876
+00:51:37.590 --> 00:51:41.110
+care and special attention of how it is implemented.
+
+877
+00:51:41.739 --> 00:51:45.739
+Mhm. So I asked you about the ethical guidelines,
+
+878
+00:51:46.060 --> 00:51:49.139
+but now, what does it mean for AI to
+
+879
+00:51:49.139 --> 00:51:52.870
+be robust and accountable? What what does that mean
+
+880
+00:51:52.870 --> 00:51:53.300
+exactly?
+
+881
+00:51:54.500 --> 00:51:57.949
+That, um, it gives, uh, uh, it gives reliable
+
+882
+00:51:58.179 --> 00:52:01.489
+estimates or depends what you're using it for, uh,
+
+883
+00:52:01.500 --> 00:52:08.610
+outputs, um, over different uses and parameters, um, uh,
+
+884
+00:52:08.620 --> 00:52:11.820
+that it, uh, has also this from the technical
+
+885
+00:52:11.820 --> 00:52:16.850
+perspective, uh, high accuracy of what it is doing,
+
+886
+00:52:17.179 --> 00:52:20.189
+but I think it's, um, for me, very important
+
+887
+00:52:20.189 --> 00:52:23.179
+that, um, To keep uh the idea of the
+
+888
+00:52:23.179 --> 00:52:25.219
+human in the loop, even though we are seeing
+
+889
+00:52:25.219 --> 00:52:27.340
+that we're going more and more in the automation
+
+890
+00:52:27.340 --> 00:52:31.300
+direction. But the human still, I mean, in my
+
+891
+00:52:31.300 --> 00:52:34.260
+opinion, has to be the one who decides about
+
+892
+00:52:34.260 --> 00:52:39.360
+values, who decides, um, About the quality, uh, who
+
+893
+00:52:39.360 --> 00:52:43.719
+guarantees for its use and implementation. So, um, I
+
+894
+00:52:43.719 --> 00:52:46.429
+would always, yeah, it's, it's also important and I
+
+895
+00:52:46.429 --> 00:52:49.719
+think this is how the legislators nowadays are thinking
+
+896
+00:52:49.719 --> 00:52:52.040
+that there has to always be a human responsible
+
+897
+00:52:52.040 --> 00:52:53.719
+for whatever he is doing because the human can
+
+898
+00:52:53.719 --> 00:53:00.679
+also do monitoring and updating and um. Um, I,
+
+899
+00:53:00.860 --> 00:53:03.449
+I, I, I, I mean, yeah, I, I definitely
+
+900
+00:53:03.449 --> 00:53:05.750
+think that uh human control is important.
+
+901
+00:53:06.949 --> 00:53:09.560
+Uh, SO, uh, I mean, my last question and
+
+902
+00:53:09.560 --> 00:53:12.479
+I think that you've already partly answered it in
+
+903
+00:53:12.479 --> 00:53:15.860
+my, in your previous answer, but what are then
+
+904
+00:53:15.860 --> 00:53:20.159
+the requirements for AI to be robust and accountable?
+
+905
+00:53:21.459 --> 00:53:25.070
+And Yeah. So, so, of course, to follow the,
+
+906
+00:53:25.139 --> 00:53:28.669
+the principles, which we discussed. And I would even
+
+907
+00:53:28.669 --> 00:53:32.350
+say these principles are not necessarily exhaustive. They're just
+
+908
+00:53:32.350 --> 00:53:35.750
+the main ones to, to follow the privacy, to
+
+909
+00:53:35.750 --> 00:53:41.820
+follow the dignity, fairness, um, explainability, um, uh, uh,
+
+910
+00:53:41.830 --> 00:53:45.469
+bene beneficience that it is, uh, causing no harm
+
+911
+00:53:45.469 --> 00:53:48.699
+and it's actually doing some good. Um, uh, THAT
+
+912
+00:53:48.699 --> 00:53:51.379
+is performing well, that it has, uh, I mean,
+
+913
+00:53:51.459 --> 00:53:53.060
+that, that is part of it, right? So, so
+
+914
+00:53:53.060 --> 00:53:54.699
+what we say that it's really doing good, that
+
+915
+00:53:54.699 --> 00:53:58.189
+it's performing well, um, on these parameters, that it's,
+
+916
+00:53:58.580 --> 00:54:02.800
+um, useful and um Uh, uh, again, so, so
+
+917
+00:54:02.800 --> 00:54:05.199
+I don't wanna finish on the note of being
+
+918
+00:54:05.199 --> 00:54:08.060
+too critical towards technology. On the contrary, I think
+
+919
+00:54:08.060 --> 00:54:11.120
+technology is great. And, uh, then we have the
+
+920
+00:54:11.120 --> 00:54:14.840
+trustworthy technology that can help us a lot. And
+
+921
+00:54:14.840 --> 00:54:17.189
+what I mean by trustworthy is that it is
+
+922
+00:54:17.189 --> 00:54:22.159
+also designed, uh, for humans, by humans. Um, AND,
+
+923
+00:54:22.290 --> 00:54:25.320
+and that is, um, this is maybe an addition
+
+924
+00:54:25.320 --> 00:54:26.719
+which is not in the law, but this is
+
+925
+00:54:26.719 --> 00:54:28.760
+what I think is, is, is very important is
+
+926
+00:54:28.760 --> 00:54:32.520
+that Uh, it really takes into account also the,
+
+927
+00:54:32.810 --> 00:54:36.770
+uh, underprivileged groups and, and, and how the underprivileged
+
+928
+00:54:36.770 --> 00:54:39.250
+groups might be, that's part of the fairness, of
+
+929
+00:54:39.250 --> 00:54:44.209
+course. But, um, um, the, in order that humans
+
+930
+00:54:44.209 --> 00:54:49.260
+trust. AI and the AI really has to satisfy,
+
+931
+00:54:49.770 --> 00:54:54.280
+uh, uh, our criteria and our demands. Also, then
+
+932
+00:54:54.280 --> 00:54:56.129
+we are in the underprivileged group, so that we
+
+933
+00:54:56.129 --> 00:54:59.050
+really feel that this is doing a good job
+
+934
+00:54:59.050 --> 00:55:01.929
+for us. Often we are not aware of it,
+
+935
+00:55:02.129 --> 00:55:06.260
+so I think it's a complex system. Where AI
+
+936
+00:55:06.260 --> 00:55:10.370
+is now interact with humans. And, um, there the
+
+937
+00:55:10.370 --> 00:55:13.050
+education plays a role that we really understand what
+
+938
+00:55:13.050 --> 00:55:15.489
+they, I can do, what I cannot do, at
+
+939
+00:55:15.489 --> 00:55:19.290
+least at the moment, how it is developing. And,
+
+940
+00:55:19.449 --> 00:55:21.689
+yeah, I always encourage everyone, let's, let's try to
+
+941
+00:55:21.689 --> 00:55:25.639
+use it. Let's, let's try to experiment with it.
+
+942
+00:55:25.889 --> 00:55:28.860
+Then we will also know what are the boundaries
+
+943
+00:55:28.860 --> 00:55:31.199
+and, and, and how we feel about it and
+
+944
+00:55:31.199 --> 00:55:34.250
+to maintain the critical attitude and the trust in
+
+945
+00:55:34.250 --> 00:55:35.129
+our own judgment.
+
+946
+00:55:35.679 --> 00:55:39.189
+Mhm. Great. So where can people find you when
+
+947
+00:55:39.189 --> 00:55:40.770
+you work on the internet?
+
+948
+00:55:41.110 --> 00:55:43.330
+Uh, YES, of course, on my web page, I
+
+949
+00:55:43.330 --> 00:55:49.139
+have a personal webpage, uh, la.com, and, um, uh,
+
+950
+00:55:49.149 --> 00:55:52.620
+also on my LinkedIn page, um, uh, on my,
+
+951
+00:55:52.659 --> 00:55:57.189
+um, university web page. Uh, MY name, my first
+
+952
+00:55:57.189 --> 00:56:00.199
+and last name are a unique combination. So when
+
+953
+00:56:00.199 --> 00:56:03.370
+you type me, you cannot miss me. OK.
+
+954
+00:56:03.780 --> 00:56:06.060
+Great. So thank you so much for coming on
+
+955
+00:56:06.060 --> 00:56:09.149
+the show again. It's always a great pleasure to
+
+956
+00:56:09.149 --> 00:56:09.389
+everyone.
+
+957
+00:56:10.219 --> 00:56:12.159
+Thank you so much, and thank you for all
+
+958
+00:56:12.159 --> 00:56:15.179
+these wonderful efforts and the educational material you're providing
+
+959
+00:56:15.179 --> 00:56:15.699
+for everyone.
+
+960
+00:56:16.969 --> 00:56:19.459
+Hi guys, thank you for watching this interview until
+
+961
+00:56:19.459 --> 00:56:21.639
+the end. If you liked it, please share it,
+
+962
+00:56:21.810 --> 00:56:24.600
+leave a like and hit the subscription button. The
+
+963
+00:56:24.600 --> 00:56:26.800
+show is brought to you by Nights Learning and
+
+964
+00:56:26.800 --> 00:56:30.879
+Development done differently, check their website at Nights.com and
+
+965
+00:56:30.879 --> 00:56:34.600
+also please consider supporting the show on Patreon or
+
+966
+00:56:34.600 --> 00:56:37.080
+PayPal. I would also like to give a huge
+
+967
+00:56:37.080 --> 00:56:40.469
+thank you to my main patrons and PayPal supporters
+
+968
+00:56:40.469 --> 00:56:44.399
+Pergo Larsson, Jerry Mullern, Fredrik Sundo, Bernard Seyches Olaf,
+
+969
+00:56:44.520 --> 00:56:48.239
+Alexandam Castle, Matthew Whitting Berarna Wolf, Tim Hollis, Erika
+
+970
+00:56:48.239 --> 00:56:51.449
+Lenny, John Connors, Philip Fors Connolly. Then the Matter
+
+971
+00:56:51.449 --> 00:56:56.270
+Robert Windegaruyasi Zu Mark Neevs Colin Holbrookfield governor Michael
+
+972
+00:56:56.270 --> 00:57:00.669
+Stormir, Samuel Andre, Francis Forti Agnseroro and Hal Herzognun
+
+973
+00:57:00.669 --> 00:57:04.510
+Macha Joan Labrant John Jasent and Samuel Corriere, Heinz,
+
+974
+00:57:04.570 --> 00:57:08.229
+Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan
+
+975
+00:57:08.229 --> 00:57:13.840
+Wilson, Asila dearraujurumen ro Diego Londono Correa. Yannick Punterrusmani
+
+976
+00:57:13.840 --> 00:57:19.020
+Charlotte blinikolbar Adamhn Pavlostaevsky nale back medicine, Gary Galman
+
+977
+00:57:19.020 --> 00:57:23.500
+Sam of Zallidriei Poltonin John Barboza, Julian Price, Edward
+
+978
+00:57:23.500 --> 00:57:29.129
+Hall Edin Bronner, Douglas Fre Francoortolotti Gabriel Ponorteseus Slelitsky,
+
+979
+00:57:29.399 --> 00:57:34.330
+Scott Zacharyishim Duffyani Smith Jen Wieman. Daniel Friedman, William
+
+980
+00:57:34.330 --> 00:57:38.830
+Buckner, Paul Georgianeau, Luke Lovai Giorgio Theophanous, Chris Williamson,
+
+981
+00:57:38.929 --> 00:57:43.929
+Peter Vozin, David Williams, Diocosta, Anton Eriksson, Charles Murray,
+
+982
+00:57:44.050 --> 00:57:48.850
+Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry
+
+983
+00:57:48.850 --> 00:57:53.280
+D. Lee Junior, old Erringbo. Sterry Michael Bailey, then
+
+984
+00:57:53.280 --> 00:57:58.449
+Sperber, Robert Grayigoren, Jeff McMann, Jake Zu, Barnabas radix,
+
+985
+00:57:58.570 --> 00:58:02.330
+Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly
+
+986
+00:58:02.330 --> 00:58:06.949
+Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson,
+
+987
+00:58:07.090 --> 00:58:12.610
+Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van
+
+988
+00:58:12.610 --> 00:58:19.510
+Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi,
+
+989
+00:58:19.760 --> 00:58:25.530
+Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean
+
+990
+00:58:25.530 --> 00:58:29.584
+Nelson, Mike Levin, and Jos Net. A special thanks
+
+991
+00:58:29.584 --> 00:58:32.135
+to my producers. These are Webb, Jim, Frank Lucas
+
+992
+00:58:32.135 --> 00:58:36.655
+Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas
+
+993
+00:58:36.655 --> 00:58:40.385
+Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni
+
+994
+00:58:40.385 --> 00:58:43.584
+Cortiz and Nick Golden, and to my executive producers
+
+995
+00:58:43.584 --> 00:58:47.304
+Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank
+
+996
+00:58:47.304 --> 00:58:47.975
+you for all.
+

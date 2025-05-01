@@ -11,7 +11,9 @@
 		"Philosophy"
 	],
 	"title": "#1091 Vlasta Sikimić: Cognitive Diversity in Science, and the Ethics of AI",
-	"youtubeid": "HgMw8bEr_pU"
+	"vtt": "1091.vtt",
+	"youtubeid": "HgMw8bEr_pU",
+	"transcript": "1091.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 7th 2025.  
