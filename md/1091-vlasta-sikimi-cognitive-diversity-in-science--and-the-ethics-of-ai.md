@@ -5,6 +5,7 @@
 	"episodeid": "1091",
 	"excerpt": "Dr. Vlasta Sikimić is an Assistant Professor at the Eindhoven University of Technology. Her research focus is on Philosophy of Science, Philosophy of AI, Empirical Philosophy, Logic, Science Policy, and Animal Ethics. More specifically, she works on data-driven approaches to optimization of scientific reasoning. Previously, she worked at the Weizsäcker Center (University of Tübingen), the Institute for Philosophy of the Faculty of Philosophy (University of Belgrade), she was an associate member of the Laboratory for Experimental Psychology (University of Belgrade), etc.",
 	"image": "https://i.ytimg.com/vi/HgMw8bEr_pU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1091-vlasta-sikimi%C4%87-cognitive-diversity-in-science/id1451347236?i=1000705727534&uo=4",
 	"publishDate": 2025-05-01,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1091-Vlasta-Sikimi-Cognitive-Diversity-in-Science--and-the-Ethics-of-AI-e2ui1q4",
 	"tags": [
