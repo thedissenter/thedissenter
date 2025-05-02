@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1092 Mads Larsen: Mating Ideologies, Dating Dysfunction, and Demographic Collapse",
-	"youtubeid": "r2uXlZBl1uM"
+	"vtt": "1092.vtt",
+	"youtubeid": "r2uXlZBl1uM",
+	"transcript": "1092.lines.json"
 }
 ---
 RECORDED ON MARCH 3rd 2025.  
