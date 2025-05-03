@@ -5,6 +5,7 @@
 	"episodeid": "1092",
 	"excerpt": "Dr. Mads Larsen is a Postdoc and Researcher at the University of Oslo. He a is literary scholar who uses evolutionary perspectives to study cultural change. He is the author of Stories of Love from Vikings to Tinder: The Evolution of Modern Mating Ideologies, Dating Dysfunction, and Demographic Collapse.",
 	"image": "https://i.ytimg.com/vi/r2uXlZBl1uM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1092-mads-larsen-mating-ideologies-dating-dysfunction/id1451347236?i=1000705876468&uo=4",
 	"publishDate": 2025-05-02,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1092-Mads-Larsen-Mating-Ideologies--Dating-Dysfunction--and-Demographic-Collapse-e2vknch",
 	"tags": [
