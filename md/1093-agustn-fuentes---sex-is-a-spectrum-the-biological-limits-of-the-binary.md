@@ -14,7 +14,9 @@
 		"Anthropology"
 	],
 	"title": "#1093 Agustín Fuentes - Sex Is a Spectrum: The Biological Limits of the Binary",
-	"youtubeid": "0xSU6z1IJV0"
+	"vtt": "1093.vtt",
+	"youtubeid": "0xSU6z1IJV0",
+	"transcript": "1093.lines.json"
 }
 ---
 RECORDED ON APRIL 16th 2025.  
