@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1095 Robert Krueger: Classification of Mental Disorders, and Mental Wellbeing",
-	"youtubeid": "x8dmb-wsjSE"
+	"vtt": "1095.vtt",
+	"youtubeid": "x8dmb-wsjSE",
+	"transcript": "1095.lines.json"
 }
 ---
 RECORDED ON MARCH 7th 2025.  
