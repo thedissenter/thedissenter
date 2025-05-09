@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/99366269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2F7887b71a-12ac-6c9d-a160-4c5484efac70.m4a",
 	"draft": false,
 	"episodeid": "1094",
 	"excerpt": "Cody Moser is a PhD candidate and Fletcher Jones Fellow in the Department of Cognitive and Information Sciences at UC Merced, and a 2024 Junior Fellow at The Institute for Humane Studies. He works on questions examining the relationship between structure and adaptation in social, biological, economic, and neural systems from a complex systems perspective. To do this, he utilizes methods from network theory, agent-based modeling, and large-scale corpus analysis.",
 	"image": "https://i.ytimg.com/vi/27K8fi1CDGg/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1094-cody-moser-collective-intelligence-and-cultural/id1451347236?i=1000706870939&uo=4",
 	"publishDate": 2025-05-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1094-Cody-Moser-Collective-Intelligence-and-Cultural-Innovation-e2vmttt",
 	"tags": [
 		"Cognitive Science",
 		"General Science"
