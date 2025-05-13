@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1096 Cahal Moran (@unlearningeconomics9021): Why We’re Getting Poorer",
-	"youtubeid": "oZp31BdZvPw"
+	"vtt": "1096.vtt",
+	"youtubeid": "oZp31BdZvPw",
+	"transcript": "1096.lines.json"
 }
 ---
 RECORDED ON MAY 5th 2025.  
