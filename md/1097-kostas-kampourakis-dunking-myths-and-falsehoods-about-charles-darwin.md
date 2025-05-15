@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1097 Kostas Kampourakis: Dunking Myths and Falsehoods About Charles Darwin",
-	"youtubeid": "LP5JxFryDKc"
+	"vtt": "1097.vtt",
+	"youtubeid": "LP5JxFryDKc",
+	"transcript": "1097.lines.json"
 }
 ---
 RECORDED ON MARCH 10th 2025.  
