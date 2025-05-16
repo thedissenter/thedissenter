@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/99708916/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-11%2F6a3f07e1-815b-7587-1b7c-9e0855adf1e5.m4a",
 	"draft": false,
 	"episodeid": "1098",
 	"excerpt": "Dr. Karen Stollznow is a researcher at Griffith University and a host of Monster Talk, an award-winning science-based podcast. She is a linguist and the author of On the Offensive, Missed Conceptions, God Bless America, and Language Myths, Mysteries, and Magic. She writes for Psychology Today, Scientific American Mind, and The Conversation and has appeared on the History Channel’s History’s Greatest Mysteries and Netflix’s The Unexplained Files. Her latest book is Bitch: The Journey of a Word.",
 	"image": "https://i.ytimg.com/vi/LLV_x9VgHDo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1098-karen-stollznow-b-tch-the-journey-of-a-word/id1451347236?i=1000708764188&uo=4",
 	"publishDate": 2025-05-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1098-Karen-Stollznow---Btch-The-Journey-of-a-Word-e301chk",
 	"tags": [
 		"Linguistics"
 	],
