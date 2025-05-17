@@ -12,7 +12,9 @@
 		"Linguistics"
 	],
 	"title": "#1098 Karen Stollznow - B*tch: The Journey of a Word",
-	"youtubeid": "LLV_x9VgHDo"
+	"vtt": "1098.vtt",
+	"youtubeid": "LLV_x9VgHDo",
+	"transcript": "1098.lines.json"
 }
 ---
 RECORDED ON MARCH 11th 2025.  
