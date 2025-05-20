@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1099 Manvir Singh - Shamanism: The Timeless Religion",
-	"youtubeid": "oScq4BA856s"
+	"vtt": "1099.vtt",
+	"youtubeid": "oScq4BA856s",
+	"transcript": "1099.lines.json"
 }
 ---
 RECORDED ON APRIL 9th 2025.  
