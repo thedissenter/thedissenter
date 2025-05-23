@@ -5,6 +5,7 @@
 	"episodeid": "1101",
 	"excerpt": "Dr. Laura Betzig is a Ph.D. in anthropology at Northwestern University; she’s held research and teaching positions at Northwestern, the University of California, and the University of Michigan Museum of Natural History.  She’s lectured all over the US and Europe in departments of biology, anthropology, history, economics, philosophy, political science, psychology and religion; at interdisciplinary conferences; and to general audiences.  She’s also the author of four books, the latest one being The Badge of Lost Innocence: A History of the West.",
 	"image": "https://i.ytimg.com/vi/xVxCxouxxLA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1101-laura-betzig-the-badge-of-lost-innocence/id1451347236?i=1000709615353&uo=4",
 	"publishDate": 2025-05-23,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1101-Laura-Betzig---The-Badge-of-Lost-Innocence-A-History-of-the-West-e30bfus",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Biology"
 	],
 	"title": "#1101 Laura Betzig - The Badge of Lost Innocence: A History of the West",
-	"youtubeid": "xVxCxouxxLA"
+	"vtt": "1101.vtt",
+	"youtubeid": "xVxCxouxxLA",
+	"transcript": "1101.lines.json"
 }
 ---
 Dr. Laura Betzig is a Ph.D. in anthropology at Northwestern University; she’s held research and teaching positions at Northwestern, the University of California, and the University of Michigan Museum of Natural History.  She’s lectured all over the US and Europe in departments of biology, anthropology, history, economics, philosophy, political science, psychology and religion; at interdisciplinary conferences; and to general audiences.  She’s also the author of four books, the latest one being The Badge of Lost Innocence: A History of the West.
