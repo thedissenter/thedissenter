@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1100 Jonathan Ichikawa: Epistemic Courage",
-	"youtubeid": "PtUj6_8Be4I"
+	"vtt": "1100.vtt",
+	"youtubeid": "PtUj6_8Be4I",
+	"transcript": "1100.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 4th 2025.  
