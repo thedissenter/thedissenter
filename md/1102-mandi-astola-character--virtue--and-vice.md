@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1102 Mandi Astola: Character, Virtue, and Vice",
-	"youtubeid": "X6nXQmJS95U"
+	"vtt": "1102.vtt",
+	"youtubeid": "X6nXQmJS95U",
+	"transcript": "1102.lines.json"
 }
 ---
 RECORDED ON MARCH 13th 2025.  
