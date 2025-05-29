@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1103 Paul Seabright - The Divine Economy: How Religions Compete for Wealth, Power, and People",
-	"youtubeid": "BxWdO7V37H0"
+	"vtt": "1103.vtt",
+	"youtubeid": "BxWdO7V37H0",
+	"transcript": "1103.lines.json"
 }
 ---
 RECORDED ON MARCH 21st 2025.  
