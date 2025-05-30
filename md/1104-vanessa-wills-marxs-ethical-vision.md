@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1104 Vanessa Wills: Marx's Ethical Vision",
-	"youtubeid": "7zgIvuUkePE"
+	"vtt": "1104.vtt",
+	"youtubeid": "7zgIvuUkePE",
+	"transcript": "1104.lines.json"
 }
 ---
 RECORDED ON MARCH 24th 2025.  
