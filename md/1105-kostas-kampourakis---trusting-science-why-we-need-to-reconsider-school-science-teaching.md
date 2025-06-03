@@ -5,13 +5,16 @@
 	"episodeid": "1105",
 	"excerpt": "Dr. Kostas Kampourakis is author and editor of several books about science. He works at the Teacher Training Institute and the Section of Biology at the University of Geneva. At the Section of Biology, he teaches the courses “Biologie et Société” and “Comprendre l’évolution”. He is the author and editor of several books, including Trusting Science: Why We Need to Reconsider School Science Teaching.",
 	"image": "https://i.ytimg.com/vi/z-hCoBsEp2s/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1105-kostas-kampourakis-trusting-science-why-we-need/id1451347236?i=1000710907166&uo=4",
 	"publishDate": 2025-06-02,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1105-Kostas-Kampourakis---Trusting-Science-Why-We-Need-to-Reconsider-School-Science-Teaching-e338jat",
 	"tags": [
 		"General Science"
 	],
 	"title": "#1105 Kostas Kampourakis - Trusting Science: Why We Need to Reconsider School Science Teaching",
-	"youtubeid": "z-hCoBsEp2s"
+	"vtt": "1105.vtt",
+	"youtubeid": "z-hCoBsEp2s",
+	"transcript": "1105.lines.json"
 }
 ---
 RECORDED ON MAY 23rd 2025.  
