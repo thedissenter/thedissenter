@@ -5,6 +5,7 @@
 	"episodeid": "1106",
 	"excerpt": "Dr. Kevin Hong is an Assistant Professor of Sociology at The University of Macau. He is broadly interested in human behavior and culture, and currently has three lines of research: magic, divination, and epistemic norms in small-scale societies; reporting biases in the transmission of instrumental practices; and theoretical modeling of the transmission of culture. ",
 	"image": "https://i.ytimg.com/vi/Gnq8Kjp1Qnc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1106-kevin-hong-magic-divination-and-dream/id1451347236?i=1000711719664&uo=4",
 	"publishDate": 2025-06-05,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1106-Kevin-Hong-Magic--Divination--and-Dream-Interpretation-Across-Societies-e30mna7",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1106 Kevin Hong: Magic, Divination, and Dream Interpretation Across Societies",
-	"youtubeid": "Gnq8Kjp1Qnc"
+	"vtt": "1106.vtt",
+	"youtubeid": "Gnq8Kjp1Qnc",
+	"transcript": "1106.lines.json"
 }
 ---
 RECORDED ON MARCH 26th 2025.  
