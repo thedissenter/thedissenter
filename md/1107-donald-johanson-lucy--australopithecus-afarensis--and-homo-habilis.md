@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1107 Donald Johanson: Lucy, Australopithecus afarensis, and Homo habilis",
-	"youtubeid": "OCozRDw_CLc"
+	"vtt": "1107.vtt",
+	"youtubeid": "OCozRDw_CLc",
+	"transcript": "1107.lines.json"
 }
 ---
 RECORDED ON MARCH 27th 2025.  
