@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/103015413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-21%2F4fc28617-602c-f9fa-1cd8-4fde06d1fe41.m4a",
 	"draft": false,
 	"episodeid": "1108",
 	"excerpt": "Dr. Laurie Mintz is an Emeritus Professor at the University of Florida, where she teaches the Psychology of Human Sexuality. She is the author of two books: Becoming Cliterate: Why Orgasm Equality Matters and How to Get It (HarperOne, 2017), and A Tired Woman’s Guide to Passionate Sex: Reclaim Your Desire and Reignite Your Relationship (Adams Media, 2009).",
 	"image": "https://i.ytimg.com/vi/Nru0Yzt0dos/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1108-laurie-mintz-becoming-cliterate-why-orgasm-equality/id1451347236?i=1000712133764&uo=4",
 	"publishDate": 2025-06-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1108-Laurie-Mintz---Becoming-Cliterate-Why-Orgasm-Equality-Matters-and-How-to-Get-It-e3369hl",
 	"tags": [
 		"General Science",
 		"Psychology"
