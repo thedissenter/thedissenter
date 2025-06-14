@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1110 Willem Frankenhuis: Human Development in Harsh and Unpredictable Environments",
-	"youtubeid": "MkdrtCNqEH8"
+	"vtt": "1110.vtt",
+	"youtubeid": "MkdrtCNqEH8",
+	"transcript": "1110.lines.json"
 }
 ---
 RECORDED ON APRIL 2nd 2025.  
