@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1109 Stefanos Geroulanos: The Invention of Prehistory",
-	"youtubeid": "op9wMe3k8mw"
+	"vtt": "1109.vtt",
+	"youtubeid": "op9wMe3k8mw",
+	"transcript": "1109.lines.json"
 }
 ---
 RECORDED ON APRIL 1st 2025.  

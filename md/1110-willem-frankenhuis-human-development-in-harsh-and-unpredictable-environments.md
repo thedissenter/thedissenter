@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/100727391/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-2%2F449b57ab-b01e-67cf-087d-581d84fc1713.m4a",
 	"draft": false,
 	"episodeid": "1110",
 	"excerpt": "Dr. Willem Frankenhuis is an Associate Professor of Evolutionary Psychobiology at the University of Amsterdam and a Senior Researcher at the Max Planck Institute for the Study of Crime, Security and Law.  He studies how people develop in harsh and unpredictable environments. He also uses mathematical modeling to explore the evolution of plasticity, the ability of organisms to adjust to environmental conditions.",
 	"image": "https://i.ytimg.com/vi/MkdrtCNqEH8/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1110-willem-frankenhuis-human-development-in-harsh/id1451347236?i=1000712779276&uo=4",
 	"publishDate": 2025-06-13,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1110-Willem-Frankenhuis-Human-Development-in-Harsh-and-Unpredictable-Environments-e310f4v",
 	"tags": [
 		"Psychology"
 	],
