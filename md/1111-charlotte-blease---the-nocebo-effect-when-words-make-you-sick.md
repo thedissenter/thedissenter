@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/100783515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-3%2F7524d2c3-7294-243a-eee8-69953f6d84c6.m4a",
 	"draft": false,
 	"episodeid": "1111",
 	"excerpt": "Dr. Charlotte Blease is an interdisciplinary health researcher at the Department of Women's and Children's Health at Uppsala University, Sweden, and the Digital Psychiatry Division at the Beth Israel Deaconess Medical Center at the Harvard Medical School. She is a former Fulbright Scholar and a winner in 2012 of the UK-wide BBC Radio 3's New Generation Thinkers Competition. Dr. Blease has written extensively about the ethics of placebo and nocebo effects. Her research has been profiled by international news outlets including The Washington Post, The Guardian, and The Sydney Morning Herald. She is coauthor of The Nocebo Effect: When Words Make You Sick.",
 	"image": "https://i.ytimg.com/vi/q3wLQUqcprY/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1111-charlotte-blease-the-nocebo-effect-when-words/id1451347236?i=1000713130699&uo=4",
 	"publishDate": 2025-06-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1111-Charlotte-Blease---The-Nocebo-Effect-When-Words-Make-You-Sick-e3125ur",
 	"tags": [
 		"Medicine",
 		"Philosophy"
