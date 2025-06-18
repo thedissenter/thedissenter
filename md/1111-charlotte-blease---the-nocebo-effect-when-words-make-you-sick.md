@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1111 Charlotte Blease - The Nocebo Effect: When Words Make You Sick",
-	"youtubeid": "q3wLQUqcprY"
+	"vtt": "1111.vtt",
+	"youtubeid": "q3wLQUqcprY",
+	"transcript": "1111.lines.json"
 }
 ---
 RECORDED ON APRIL 3rd 2025.  
