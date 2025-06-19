@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1112 Angela Potochnik - Recipes for Science: An Introduction to Scientific Methods and Reasoning",
-	"youtubeid": "uHkMxJWgdPc"
+	"vtt": "1112.vtt",
+	"youtubeid": "uHkMxJWgdPc",
+	"transcript": "1112.lines.json"
 }
 ---
 RECORDED ON APRIL 7th 2025.  
