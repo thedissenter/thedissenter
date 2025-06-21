@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1113 Vicky Oelze: The Diets of Great Apes, and the Evolution of Human Diets",
-	"youtubeid": "zqEbRCJu9mY"
+	"vtt": "1113.vtt",
+	"youtubeid": "zqEbRCJu9mY",
+	"transcript": "1113.lines.json"
 }
 ---
 RECORDED ON APRIL 8th 2025.  
