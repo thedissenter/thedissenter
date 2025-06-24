@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1114 Sybil Hart: Attachment and Parent-Offspring Conflict",
-	"youtubeid": "Mj6WlKq8Cy8"
+	"vtt": "1114.vtt",
+	"youtubeid": "Mj6WlKq8Cy8",
+	"transcript": "1114.lines.json"
 }
 ---
 RECORDED ON APRIL 17th 2025.  
