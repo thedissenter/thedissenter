@@ -15,7 +15,9 @@
 		"Psychology"
 	],
 	"title": "#1116 Adam Safron: Consciousness, AI, Psychedelics, and The Self",
-	"youtubeid": "EWlhJ8Y1UwU"
+	"vtt": "1116.vtt",
+	"youtubeid": "EWlhJ8Y1UwU",
+	"transcript": "1116.lines.json"
 }
 ---
 RECORDED ON JANUARY 17th 2025.  
