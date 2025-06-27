@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1115 Patrícia Silva: Portugal in the 21st Century",
-	"youtubeid": "YnHqUF8oRXU"
+	"vtt": "1115.vtt",
+	"youtubeid": "YnHqUF8oRXU",
+	"transcript": "1115.lines.json"
 }
 ---
 RECORDED ON MARCH 28th 2025.  
