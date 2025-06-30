@@ -5,6 +5,7 @@
 	"episodeid": "1117",
 	"excerpt": "Dr. Stephen Morris is Associate Professor of Philosophy at The College of Staten Island/CUNY.  His research interests include ethical theory, applied ethics, free will, and moral psychology. He is the author of Moral Damages: The Case for Abolishing Morality.",
 	"image": "https://i.ytimg.com/vi/jII9TogezVw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1117-stephen-morris-moral-damages-the-case-for/id1451347236?i=1000715178135&uo=4",
 	"publishDate": 2025-06-30,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1117-Stephen-Morris---Moral-Damages-The-Case-for-Abolishing-Morality-e31qa91",
 	"tags": [
