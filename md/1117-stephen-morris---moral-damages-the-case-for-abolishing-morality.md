@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1117 Stephen Morris - Moral Damages: The Case for Abolishing Morality",
-	"youtubeid": "jII9TogezVw"
+	"vtt": "1117.vtt",
+	"youtubeid": "jII9TogezVw",
+	"transcript": "1117.lines.json"
 }
 ---
 RECORDED ON APRIL 21st 2025.  
