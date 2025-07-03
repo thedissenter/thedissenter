@@ -5,13 +5,16 @@
 	"episodeid": "1118",
 	"excerpt": "Dr. Peter Adamson is Professor of Philosophy at the Ludwig Maximilian University of Munich and at King's College London. He has written articles, monographs and edited books, mostly on philosophy in the Islamic world and ancient philosophy. He is the host of the weekly podcast \"History of Philosophy without any gaps\". He is the author of several books, including Heirs of Avicenna: Philosophy in the Islamic East, 12-13th Centuries.",
 	"image": "https://i.ytimg.com/vi/p0j6ufnioo8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1118-peter-adamson-heirs-of-avicenna-philosophy-in/id1451347236?i=1000715627069&uo=4",
 	"publishDate": 2025-07-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1118-Peter-Adamson---Heirs-of-Avicenna-Philosophy-in-the-Islamic-East--12-13th-Centuries-e31v5so",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1118 Peter Adamson - Heirs of Avicenna: Philosophy in the Islamic East, 12-13th Centuries",
-	"youtubeid": "p0j6ufnioo8"
+	"vtt": "1118.vtt",
+	"youtubeid": "p0j6ufnioo8",
+	"transcript": "1118.lines.json"
 }
 ---
 RECORDED ON APRIL 24th 2025.  
