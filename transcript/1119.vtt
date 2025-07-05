@@ -1,0 +1,2814 @@
+WEBVTT
+
+1
+00:00:00.319 --> 00:00:03.329
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.329 --> 00:00:06.349
+Di Center. I'm your host, as always, Ricardo Lobsson
+
+3
+00:00:06.349 --> 00:00:10.189
+today I'm by Dr. Anna Ivanova. She's assistant professor
+
+4
+00:00:10.189 --> 00:00:13.310
+in the School of Psychology at Georgia Tech. And
+
+5
+00:00:13.310 --> 00:00:16.469
+today we're talking about topics like language from the
+
+6
+00:00:16.469 --> 00:00:21.680
+perspective of cognitive neuroscience, large language models, the language
+
+7
+00:00:21.680 --> 00:00:26.270
+of programming. And related topics. So, Doctor Ivanova, welcome
+
+8
+00:00:26.270 --> 00:00:28.579
+to the show. It's a huge pleasure to everyone.
+
+9
+00:00:28.989 --> 00:00:32.400
+Thank you. Thank you for inviting me. So,
+
+10
+00:00:32.569 --> 00:00:35.090
+uh, let me start by asking you this. How
+
+11
+00:00:35.090 --> 00:00:39.250
+do you approach language from the perspective of cognitive
+
+12
+00:00:39.250 --> 00:00:40.450
+neuroscience?
+
+13
+00:00:41.750 --> 00:00:45.919
+Well, So I'm interested in language as a cognitive
+
+14
+00:00:45.919 --> 00:00:49.400
+capacity, and I'm interested in the human brain, and
+
+15
+00:00:49.400 --> 00:00:51.439
+so to me it was kind of natural to
+
+16
+00:00:51.439 --> 00:00:54.790
+say, hey, how do these two work together? How
+
+17
+00:00:54.790 --> 00:00:58.200
+does the combination of cells that we have in
+
+18
+00:00:58.200 --> 00:01:02.169
+our head, the brain, carry out language? And these
+
+19
+00:01:02.169 --> 00:01:06.089
+days we have uh some really cool useful tools
+
+20
+00:01:06.089 --> 00:01:09.120
+that allow us to measure brain activity. For a
+
+21
+00:01:09.120 --> 00:01:11.989
+few decades now, we've had EEG which can measure
+
+22
+00:01:12.220 --> 00:01:15.050
+electrical activity from outside the scalp, and then since
+
+23
+00:01:15.050 --> 00:01:18.889
+the 90s, we have functional MRI or fMRI which
+
+24
+00:01:18.889 --> 00:01:22.050
+allows us to measure blood flow to different parts
+
+25
+00:01:22.050 --> 00:01:25.139
+of the brain and so essentially the parts of
+
+26
+00:01:25.139 --> 00:01:27.544
+the brain that are engaged in a Particular cognitive
+
+27
+00:01:27.544 --> 00:01:31.934
+process use up oxygen and glucose. Blood comes there
+
+28
+00:01:31.934 --> 00:01:34.944
+to um bring more of those nutrients and so
+
+29
+00:01:34.944 --> 00:01:37.214
+that's how we know which parts of the brain
+
+30
+00:01:37.214 --> 00:01:40.745
+are responding to different kinds of tasks. And so
+
+31
+00:01:40.745 --> 00:01:43.025
+in principle, what we can do is we can
+
+32
+00:01:43.025 --> 00:01:46.065
+put somebody in an MRI machine and give them
+
+33
+00:01:46.065 --> 00:01:48.345
+some sentences to read or to listen to or
+
+34
+00:01:48.345 --> 00:01:51.514
+ask them to talk and then see which parts
+
+35
+00:01:51.514 --> 00:01:56.519
+of. Their brain are engaged when they are listening
+
+36
+00:01:56.519 --> 00:02:00.669
+to language, reading language or producing language.
+
+37
+00:02:02.339 --> 00:02:06.510
+And how does language relate to other aspects of
+
+38
+00:02:06.510 --> 00:02:07.919
+human cognition?
+
+39
+00:02:09.020 --> 00:02:11.539
+Yeah, so that's where the difficult part comes in.
+
+40
+00:02:11.710 --> 00:02:14.470
+So we can put the person in the scanner,
+
+41
+00:02:14.550 --> 00:02:20.139
+give them a task and uh Just because we
+
+42
+00:02:20.139 --> 00:02:23.509
+have brain responses to the task doesn't mean we've
+
+43
+00:02:23.509 --> 00:02:27.770
+isolated a neural signature of a particular cognitive trait.
+
+44
+00:02:28.100 --> 00:02:32.020
+So if we have a person reading sentences, then
+
+45
+00:02:32.020 --> 00:02:35.179
+of course there are all kinds of other processes
+
+46
+00:02:35.179 --> 00:02:38.630
+that get involved for, I mean, most basically vision,
+
+47
+00:02:38.940 --> 00:02:41.940
+right? You need to see the letters in order
+
+48
+00:02:41.940 --> 00:02:43.860
+to respond to them and so of course if
+
+49
+00:02:43.860 --> 00:02:48.669
+you're reading you. Would have your visual cortex um
+
+50
+00:02:48.669 --> 00:02:52.229
+active and working as well. And, you know, I'm
+
+51
+00:02:52.229 --> 00:02:56.270
+basic kind of maybe, you know, neural mechanisms that
+
+52
+00:02:56.270 --> 00:02:58.869
+require you to pay attention and stay on task
+
+53
+00:02:58.869 --> 00:03:03.380
+and not just wander off. So, uh, language obviously
+
+54
+00:03:03.380 --> 00:03:07.179
+is interrelated to all kinds of other cognitive processes
+
+55
+00:03:07.410 --> 00:03:11.279
+and so we want to be able to Separate
+
+56
+00:03:11.279 --> 00:03:18.399
+out different components of cognition and also to figure
+
+57
+00:03:18.399 --> 00:03:21.679
+out how they all work together. So, the most
+
+58
+00:03:21.679 --> 00:03:23.479
+basic thing we can do is we can say
+
+59
+00:03:23.479 --> 00:03:28.270
+other parts of the brain that respond to language
+
+60
+00:03:28.600 --> 00:03:32.649
+during reading and say during listening, right? So reading
+
+61
+00:03:32.649 --> 00:03:36.080
+involve engages the visual cortex, listening involves the auditory
+
+62
+00:03:36.080 --> 00:03:39.779
+cortex. Is there something shared between them? And it
+
+63
+00:03:39.779 --> 00:03:41.779
+turns out, yes, it turns out that there is
+
+64
+00:03:41.779 --> 00:03:44.139
+a set of regions in the brain which we
+
+65
+00:03:44.139 --> 00:03:49.059
+call the language network that is responsible, that responds
+
+66
+00:03:49.059 --> 00:03:53.889
+to language during both reading and listening and speaking,
+
+67
+00:03:54.020 --> 00:03:57.500
+and we have some um early evidence that even
+
+68
+00:03:57.500 --> 00:04:00.309
+sign languages activate that network, so it's not just
+
+69
+00:04:00.309 --> 00:04:03.860
+about spoken languages as we know them. And this
+
+70
+00:04:03.860 --> 00:04:06.669
+network, uh, as far as we know, responds to.
+
+71
+00:04:07.149 --> 00:04:11.289
+Um, ALL the languages that a person might know,
+
+72
+00:04:11.490 --> 00:04:13.009
+right? So it's not going to respond to a
+
+73
+00:04:13.009 --> 00:04:16.410
+language that you don't understand, but if you speak
+
+74
+00:04:16.410 --> 00:04:18.690
+two or three or more languages, that network will
+
+75
+00:04:18.690 --> 00:04:21.399
+respond to all of them. So this is evidence
+
+76
+00:04:21.399 --> 00:04:27.410
+that um Uh, my PhD adviser F Dorenko has
+
+77
+00:04:27.540 --> 00:04:32.100
+been collecting for the past 10 years and uh
+
+78
+00:04:32.100 --> 00:04:36.450
+we've put out a review paper about the language
+
+79
+00:04:36.450 --> 00:04:40.420
+network recently suggesting that hey, you should treat languages
+
+80
+00:04:40.420 --> 00:04:45.010
+separate from other aspects of perception, right, like vision
+
+81
+00:04:45.220 --> 00:04:49.230
+and audition. And we also say, hey, we you
+
+82
+00:04:49.230 --> 00:04:51.970
+should treat language differently from other parts of higher
+
+83
+00:04:51.970 --> 00:04:56.890
+level cognition as well. So, some of the uh
+
+84
+00:04:56.890 --> 00:05:01.149
+theories um a decade or two ago were saying,
+
+85
+00:05:01.250 --> 00:05:05.489
+hey, language is the symbolic system that allows us
+
+86
+00:05:05.489 --> 00:05:10.649
+to compose symbols uh referring to abstract entities in
+
+87
+00:05:10.649 --> 00:05:14.809
+the world, and that all makes sense, uh, and
+
+88
+00:05:14.809 --> 00:05:17.049
+so people thought, hey, those regions in the brain
+
+89
+00:05:17.049 --> 00:05:19.209
+that respond to language, maybe they're just going to
+
+90
+00:05:19.209 --> 00:05:24.049
+respond to all kinds of abstract compositional systems. That
+
+91
+00:05:24.049 --> 00:05:27.450
+means not just language, it also means math, and
+
+92
+00:05:27.450 --> 00:05:30.790
+that means music, musical notation. It turns out that
+
+93
+00:05:30.790 --> 00:05:33.589
+the language network doesn't respond to those other kinds
+
+94
+00:05:33.589 --> 00:05:38.070
+of abstract symbolic systems. It seems that whatever computations
+
+95
+00:05:38.070 --> 00:05:42.910
+it performs, um, they are specific to natural languages.
+
+96
+00:05:43.579 --> 00:05:45.980
+We have other parts of the brain, other networks
+
+97
+00:05:45.980 --> 00:05:50.019
+that are involved in other kinds of cognitive processes.
+
+98
+00:05:50.269 --> 00:05:54.109
+For example, we have the so-called multiple demand network
+
+99
+00:05:54.109 --> 00:05:56.750
+or the front parietal network that was that is
+
+100
+00:05:56.750 --> 00:06:03.950
+engaged in mathematical reasoning, basic arithmetic, logical reasoning, may
+
+101
+00:06:03.950 --> 00:06:07.420
+uh maybe executive planning, planning out your steps, um,
+
+102
+00:06:07.429 --> 00:06:11.779
+working memory tasks, and so that multiple demand network.
+
+103
+00:06:12.489 --> 00:06:15.049
+Uh, CAN work together with the language network, let's
+
+104
+00:06:15.049 --> 00:06:17.649
+say I am, I give you a math problem
+
+105
+00:06:17.649 --> 00:06:20.010
+that's written in words, you would first need to
+
+106
+00:06:20.010 --> 00:06:23.079
+extract the meaning of the words, then solve it,
+
+107
+00:06:23.250 --> 00:06:25.089
+so these networks can work together, but they're not
+
+108
+00:06:25.089 --> 00:06:25.690
+the same thing.
+
+109
+00:06:28.179 --> 00:06:33.230
+And this language associated with all cognitive tasks in
+
+110
+00:06:33.230 --> 00:06:34.980
+the human brains or not?
+
+111
+00:06:36.070 --> 00:06:39.399
+Well, You can imagine me giving you a math
+
+112
+00:06:39.399 --> 00:06:43.720
+problem in words, or you, uh I can uh
+
+113
+00:06:43.720 --> 00:06:47.200
+give you a math problem. And just, you know,
+
+114
+00:06:47.429 --> 00:06:51.149
+symbols, plain mathematical notation 2 + 3 equals question
+
+115
+00:06:51.149 --> 00:06:56.239
+mark, and um if the problem is not formulated
+
+116
+00:06:56.239 --> 00:06:58.850
+in language, then it's not going to activate the
+
+117
+00:06:58.850 --> 00:07:02.940
+language regions. So it really seems that these language
+
+118
+00:07:02.940 --> 00:07:06.690
+areas are specific to language processing specifically, but if
+
+119
+00:07:06.690 --> 00:07:11.649
+the task doesn't involve language explicitly, then uh you
+
+120
+00:07:11.649 --> 00:07:12.609
+don't need language.
+
+121
+00:07:14.700 --> 00:07:17.660
+Uh, AND for example, this is something I read
+
+122
+00:07:17.660 --> 00:07:22.540
+about in your work, is the language system recruited
+
+123
+00:07:22.540 --> 00:07:27.420
+in feature-based categorization? And what, by the way, what
+
+124
+00:07:27.420 --> 00:07:29.540
+is feature-based categorization?
+
+125
+00:07:30.390 --> 00:07:37.630
+Yeah, so the. Before, um. I joined a lab,
+
+126
+00:07:37.709 --> 00:07:42.470
+uh, she had already established that uh that language
+
+127
+00:07:42.470 --> 00:07:47.799
+does not share activations with math and music. But
+
+128
+00:07:47.799 --> 00:07:51.799
+there was another domain, uh, which is where I
+
+129
+00:07:51.799 --> 00:07:55.640
+do most of my work, uh, including now, which
+
+130
+00:07:55.640 --> 00:08:00.799
+is semantic cognition or basic world knowledge, so knowledge
+
+131
+00:08:00.799 --> 00:08:06.040
+of concepts and properties of um objects, actions, abstract
+
+132
+00:08:06.040 --> 00:08:11.480
+ideas. So let's say, um. Is a is a
+
+133
+00:08:11.480 --> 00:08:14.839
+pencil long would be an example. So in order
+
+134
+00:08:14.839 --> 00:08:17.000
+to answer that question, you need to retrieve something
+
+135
+00:08:17.000 --> 00:08:18.799
+about the pencil in this case its shape and
+
+136
+00:08:18.959 --> 00:08:22.559
+and say whether or not it's long. Um, ANOTHER
+
+137
+00:08:22.559 --> 00:08:24.880
+question would be, can it be commonly found in
+
+138
+00:08:24.880 --> 00:08:28.679
+the kitchen? Uh, AND there you need to know
+
+139
+00:08:28.679 --> 00:08:30.160
+what kind of things you would typically find in
+
+140
+00:08:30.160 --> 00:08:31.959
+the kitchen and the pencil is not really one
+
+141
+00:08:31.959 --> 00:08:36.249
+of them. So, these are questions that you can
+
+142
+00:08:36.249 --> 00:08:39.888
+ask about an object. Um I can say pencil
+
+143
+00:08:39.888 --> 00:08:41.278
+like I did right now. I can show you
+
+144
+00:08:41.278 --> 00:08:44.058
+a picture of a pencil and then show you,
+
+145
+00:08:44.087 --> 00:08:46.289
+uh, ask you all the same questions and you'll
+
+146
+00:08:46.289 --> 00:08:49.929
+be able hopefully to access the same concept and
+
+147
+00:08:49.929 --> 00:08:54.690
+uh answer those questions as well. And so If
+
+148
+00:08:54.690 --> 00:08:57.450
+I'm telling you the word pencil, and then I
+
+149
+00:08:57.450 --> 00:09:00.679
+ask, can it be found in the kitchen. Then
+
+150
+00:09:00.679 --> 00:09:03.200
+yeah, the language network will obviously respond to the
+
+151
+00:09:03.200 --> 00:09:06.229
+question itself, like as you are hearing the question,
+
+152
+00:09:06.390 --> 00:09:10.179
+and it will respond to the word pencil. But
+
+153
+00:09:10.500 --> 00:09:16.530
+will it um. Respond specifically when you're doing conceptual
+
+154
+00:09:16.530 --> 00:09:19.599
+processing, when you're accessing the concept of a pencil
+
+155
+00:09:19.929 --> 00:09:24.809
+and um trying to answer the question. So to
+
+156
+00:09:24.809 --> 00:09:28.010
+do that, we compare, uh we looked at uh
+
+157
+00:09:28.010 --> 00:09:30.369
+people's responses, not to the word pencil, but to
+
+158
+00:09:30.369 --> 00:09:33.130
+the picture of a pencil. They get the question
+
+159
+00:09:33.130 --> 00:09:36.119
+beforehand, then they see the picture of a pencil,
+
+160
+00:09:36.239 --> 00:09:38.010
+and they just press a button yeah for yes
+
+161
+00:09:38.010 --> 00:09:40.849
+or no. And the question was, you see a
+
+162
+00:09:40.849 --> 00:09:42.929
+pencil, you're thinking about whether it's found in the
+
+163
+00:09:42.929 --> 00:09:45.289
+kitchen, you say yes or no. Do you need
+
+164
+00:09:45.289 --> 00:09:48.640
+language to do that task? Turns out not really
+
+165
+00:09:48.929 --> 00:09:52.690
+and um essentially you can measure how strongly the
+
+166
+00:09:52.690 --> 00:09:57.890
+language network responds and it responds uh pretty much
+
+167
+00:09:57.890 --> 00:10:02.099
+uh like at baseline levels and not at all.
+
+168
+00:10:02.570 --> 00:10:08.400
+So we from that evidence, uh, conclude that the
+
+169
+00:10:09.309 --> 00:10:13.070
+Language network is not engaged in object categorization, and
+
+170
+00:10:13.070 --> 00:10:16.309
+in this particular case, we're talking about semantic categorization.
+
+171
+00:10:18.409 --> 00:10:23.090
+Are there any commonalities between how language, how written
+
+172
+00:10:23.090 --> 00:10:27.849
+language is processed in the brain versus how spoken
+
+173
+00:10:27.849 --> 00:10:29.729
+language is processed?
+
+174
+00:10:33.039 --> 00:10:35.770
+Yeah, I mean, the language network is the one
+
+175
+00:10:35.770 --> 00:10:40.359
+that is uh. Shared across with written and spoken
+
+176
+00:10:40.359 --> 00:10:44.609
+language modalities, right, as I mentioned earlier. So, uh,
+
+177
+00:10:44.859 --> 00:10:50.179
+the perceptual stages are different, but the majority of
+
+178
+00:10:50.179 --> 00:10:51.789
+linguistic processing is shared.
+
+179
+00:10:53.090 --> 00:10:56.719
+Right. And I mean, uh, you talked about the
+
+180
+00:10:56.719 --> 00:11:01.280
+language network. That means that language in the brain
+
+181
+00:11:01.280 --> 00:11:05.010
+is, is distributed, right? I mean, it's not really
+
+182
+00:11:05.010 --> 00:11:10.729
+localized because traditionally speaking, people have, uh, Talked about
+
+183
+00:11:10.729 --> 00:11:15.880
+or associated language, for example, with Brocazaria and verni
+
+184
+00:11:15.880 --> 00:11:20.890
+Azaria, but that, that's, uh, I mean, thinking about
+
+185
+00:11:20.890 --> 00:11:24.280
+languages, something that is localized in the brain is
+
+186
+00:11:24.650 --> 00:11:26.409
+outdated, right.
+
+187
+00:11:28.200 --> 00:11:36.059
+Well, Language. Is localized in the brain. In the
+
+188
+00:11:36.059 --> 00:11:40.460
+sense that um there are parts of the brain
+
+189
+00:11:40.460 --> 00:11:44.260
+that seem to be processing language and not other
+
+190
+00:11:44.260 --> 00:11:48.419
+things, right? So localization in the sense of specialization
+
+191
+00:11:48.419 --> 00:11:54.369
+of of function. It also is true that language
+
+192
+00:11:54.369 --> 00:11:57.440
+in the brain. Uh, THE language network tends to
+
+193
+00:11:57.440 --> 00:12:00.090
+occupy specific portions of the brain. It's not just
+
+194
+00:12:00.090 --> 00:12:03.719
+found anywhere in the cortex. So it is, um,
+
+195
+00:12:03.729 --> 00:12:09.179
+it often includes areas that are. In or adjacent
+
+196
+00:12:09.179 --> 00:12:11.719
+to what people would call Broca's area, so that's,
+
+197
+00:12:11.739 --> 00:12:14.700
+you know, inferior frontal lobe and vernicus area which
+
+198
+00:12:14.700 --> 00:12:19.929
+is posterior temporal lobe. So these areas are or
+
+199
+00:12:20.140 --> 00:12:24.619
+anatomical areas in these whereabouts are um usually part
+
+200
+00:12:24.619 --> 00:12:26.299
+of the language network, but they're not the only
+
+201
+00:12:26.299 --> 00:12:28.380
+ones. So for example in the temporal lobe which
+
+202
+00:12:28.380 --> 00:12:31.299
+usually a whole strip here of activity that we
+
+203
+00:12:31.299 --> 00:12:33.929
+see and in the frontal area there are also
+
+204
+00:12:33.929 --> 00:12:37.849
+um. A few activation hotspots. So they, so the
+
+205
+00:12:37.849 --> 00:12:41.969
+language network language processing is localized, just not the
+
+206
+00:12:41.969 --> 00:12:45.650
+one specific part of the brain. It is distributed
+
+207
+00:12:45.650 --> 00:12:50.809
+but pretty stable. So you will often be able
+
+208
+00:12:50.809 --> 00:12:53.530
+from just looking at the pattern of activation, say,
+
+209
+00:12:53.609 --> 00:12:55.609
+oh, that must be the language network. It has
+
+210
+00:12:55.609 --> 00:12:58.010
+a characteristic shape even though it's not in the
+
+211
+00:12:58.010 --> 00:13:01.130
+exact same spot from one person to another.
+
+212
+00:13:02.049 --> 00:13:06.429
+All right. Uh, WHAT is the brain decoding paradigm
+
+213
+00:13:06.429 --> 00:13:09.580
+in the neuroscientific study of language?
+
+214
+00:13:11.179 --> 00:13:15.369
+The um. What I've been talking to you about
+
+215
+00:13:15.369 --> 00:13:20.559
+so far is. The language network responses, right? So
+
+216
+00:13:20.559 --> 00:13:25.640
+how strongly or weakly it responds to a particular
+
+217
+00:13:25.640 --> 00:13:29.270
+task. You, in principle, we can go beyond that.
+
+218
+00:13:29.590 --> 00:13:33.750
+Uh, WE can say what kind of information does
+
+219
+00:13:33.919 --> 00:13:39.640
+these activation patterns contain? Can we decode what words
+
+220
+00:13:39.640 --> 00:13:44.479
+or sentences can um the person is listening to
+
+221
+00:13:44.479 --> 00:13:47.369
+or reading at any given point in time? And
+
+222
+00:13:47.369 --> 00:13:50.010
+so, what you can do is you can essentially
+
+223
+00:13:50.010 --> 00:13:53.169
+train a regression model between a representation of your
+
+224
+00:13:53.169 --> 00:13:56.690
+stimulus, like a word or a sentence, and brain
+
+225
+00:13:56.690 --> 00:14:00.789
+response in order to establish a corresponding mapping. You
+
+226
+00:14:00.789 --> 00:14:04.909
+can predict brain activity from that stimulus representation, that's
+
+227
+00:14:04.909 --> 00:14:07.830
+called an encoding model, or you can try to
+
+228
+00:14:07.830 --> 00:14:11.349
+predict which stimulus the person is seen from their
+
+229
+00:14:11.349 --> 00:14:14.950
+brain activity. That's called a decoding model. And so
+
+230
+00:14:14.950 --> 00:14:18.030
+that's just one step beyond simply looking at how
+
+231
+00:14:18.030 --> 00:14:21.229
+strongly a network or a region responds to a
+
+232
+00:14:21.229 --> 00:14:24.950
+particular stimulus. Now we're trying to get into the
+
+233
+00:14:24.950 --> 00:14:27.109
+specifics of what features it responds to and what
+
+234
+00:14:27.109 --> 00:14:29.820
+kinds of stimuli characteristics drive that response.
+
+235
+00:14:31.599 --> 00:14:34.679
+Does the brain represent words?
+
+236
+00:14:36.309 --> 00:14:42.859
+The The brain decoding paradigm can be used to
+
+237
+00:14:42.859 --> 00:14:45.900
+say, look, the brain represents words because you can
+
+238
+00:14:45.900 --> 00:14:49.150
+read them out. Um, SO that's kind of the
+
+239
+00:14:49.150 --> 00:14:56.340
+most basic idea of representation. But of course, representation
+
+240
+00:14:56.340 --> 00:15:02.020
+is a very um. Theoretically heavy concept that's been
+
+241
+00:15:02.020 --> 00:15:04.320
+discussed a lot in philosophy, what does it mean
+
+242
+00:15:04.320 --> 00:15:10.780
+to represent, so let's say you, um. Um, ARE
+
+243
+00:15:10.780 --> 00:15:15.820
+looking at a map, uh, and then you're saying
+
+244
+00:15:15.820 --> 00:15:19.340
+what the map represents the country, um, which might,
+
+245
+00:15:19.500 --> 00:15:22.820
+which, which is true, but the the representing really
+
+246
+00:15:22.820 --> 00:15:24.979
+happens in your mind. You're the one who's taking
+
+247
+00:15:24.979 --> 00:15:28.020
+the information, transforming it into something meaningful. The map
+
+248
+00:15:28.020 --> 00:15:31.140
+itself isn't doing any cognitive processing by itself. And
+
+249
+00:15:31.140 --> 00:15:34.030
+so these basic decoding approach is, uh, when you
+
+250
+00:15:34.030 --> 00:15:36.429
+trying to decode words from the brain, they're kind
+
+251
+00:15:36.429 --> 00:15:39.109
+of like a map where the brain isn't doing
+
+252
+00:15:39.109 --> 00:15:43.210
+anything in this particular decoding paradigm. It's as the
+
+253
+00:15:43.210 --> 00:15:47.150
+scientists are establishing that mapping. So whether the brain
+
+254
+00:15:47.150 --> 00:15:49.929
+itself is kind of weird doing any cognitive processing
+
+255
+00:15:49.929 --> 00:15:54.159
+any representation, it's kind of like irrelevant here. Now,
+
+256
+00:15:54.169 --> 00:15:57.049
+the question that people usually care about when it
+
+257
+00:15:57.049 --> 00:16:00.330
+comes to representations is not that, right? It's about,
+
+258
+00:16:00.530 --> 00:16:05.599
+does the brain internally represented uh represent the stimulus
+
+259
+00:16:05.849 --> 00:16:08.969
+for the brain's sake, not for our scientists sake.
+
+260
+00:16:09.520 --> 00:16:13.330
+And so there then the question would be, can
+
+261
+00:16:13.539 --> 00:16:17.419
+other parts of the brain use that representation, that
+
+262
+00:16:17.419 --> 00:16:21.289
+information that is encoded in a particular brain area?
+
+263
+00:16:21.619 --> 00:16:24.739
+So maybe the information is there and scientists can
+
+264
+00:16:24.739 --> 00:16:26.700
+read it out, but if other parts of the
+
+265
+00:16:26.700 --> 00:16:29.059
+brain can't really use it effectively, can't access it.
+
+266
+00:16:29.244 --> 00:16:33.075
+Properly then it's not really a representation from the
+
+267
+00:16:33.075 --> 00:16:37.234
+perspective of the brain. And so a nice way
+
+268
+00:16:37.234 --> 00:16:41.075
+of thinking about representations in neuroscience today is thinking
+
+269
+00:16:41.075 --> 00:16:44.794
+about usability. Can other parts of the brain use
+
+270
+00:16:44.794 --> 00:16:48.114
+that information to perform additional computation that then leads
+
+271
+00:16:48.114 --> 00:16:48.875
+to say action?
+
+272
+00:16:51.030 --> 00:16:54.590
+So in recent years, particularly in the world of
+
+273
+00:16:54.590 --> 00:16:58.109
+artificial intelligence, people have been talking a lot, a
+
+274
+00:16:58.109 --> 00:17:02.390
+lot about large language models and they have become
+
+275
+00:17:02.390 --> 00:17:06.949
+very prominent. So what are large language models?
+
+276
+00:17:07.729 --> 00:17:12.180
+Large language models share a lot of similarities with
+
+277
+00:17:12.180 --> 00:17:16.098
+the brain conceptually and so a lot of the
+
+278
+00:17:16.098 --> 00:17:18.979
+problems that we've talked about the separation between language
+
+279
+00:17:18.979 --> 00:17:23.579
+and cognition or even the issue of representation, we
+
+280
+00:17:23.579 --> 00:17:26.219
+started talking about them in neuroscience and now naturally
+
+281
+00:17:26.219 --> 00:17:29.954
+the same question. ARISE again in the world of
+
+282
+00:17:29.954 --> 00:17:35.435
+artificial intelligence and so as a um neuroscientist now
+
+283
+00:17:35.435 --> 00:17:37.755
+I find myself doing quite a bit of AI
+
+284
+00:17:37.755 --> 00:17:40.635
+work um and you know trying to figure out
+
+285
+00:17:40.635 --> 00:17:42.584
+what are our language models, how do they work
+
+286
+00:17:42.584 --> 00:17:44.834
+and asking some of the same questions I've been
+
+287
+00:17:44.834 --> 00:17:49.640
+asking about the brain. Um, LARGE language models are,
+
+288
+00:17:49.709 --> 00:17:55.020
+um, Language models. Language models means they are models
+
+289
+00:17:55.020 --> 00:18:02.050
+that generate language, so they are trained on um
+
+290
+00:18:02.349 --> 00:18:05.500
+texts from the internet, usually a lot of texts,
+
+291
+00:18:05.660 --> 00:18:10.939
+and the uh training that they undergo is trying
+
+292
+00:18:10.939 --> 00:18:15.050
+to predict the next word in a sentence. So
+
+293
+00:18:15.339 --> 00:18:19.660
+the um children went um to the park too.
+
+294
+00:18:20.459 --> 00:18:24.369
+Like, for example. And so the model starts out
+
+295
+00:18:24.369 --> 00:18:27.140
+with having really no information about language, it knows
+
+296
+00:18:27.140 --> 00:18:32.380
+nothing, and um the um it starts out by
+
+297
+00:18:32.380 --> 00:18:35.180
+essentially guessing randomly, right, picking out any word from
+
+298
+00:18:35.180 --> 00:18:38.760
+its vocabulary. And then what happens is because we
+
+299
+00:18:38.760 --> 00:18:41.290
+have the actual text, we know exactly which word
+
+300
+00:18:41.290 --> 00:18:43.449
+comes next. We know the right answer, and that
+
+301
+00:18:43.449 --> 00:18:46.329
+the model can receive the right answer and adjust
+
+302
+00:18:46.329 --> 00:18:48.599
+its predictions a little bit so that next time
+
+303
+00:18:48.599 --> 00:18:50.729
+its prediction will be a little bit closer to
+
+304
+00:18:50.729 --> 00:18:53.380
+the right answer. And so it keeps doing it
+
+305
+00:18:53.380 --> 00:18:55.459
+over and over and over and over billions of
+
+306
+00:18:55.459 --> 00:18:59.160
+times and uh in the end, its predictions become
+
+307
+00:18:59.540 --> 00:19:03.829
+pretty good. So there is no theory about language
+
+308
+00:19:03.829 --> 00:19:07.540
+built into the model, it learns everything from the
+
+309
+00:19:07.540 --> 00:19:10.209
+text. The architecture of that model is called a
+
+310
+00:19:10.209 --> 00:19:14.880
+deep neural network, which has some inspiration uh from
+
+311
+00:19:15.170 --> 00:19:19.209
+neuroscience and biological neurons, uh a little bit far
+
+312
+00:19:19.209 --> 00:19:22.000
+removed these days, but that's also a parallel with
+
+313
+00:19:22.010 --> 00:19:23.130
+with neuroscience there.
+
+314
+00:19:24.650 --> 00:19:30.250
+But do large language models understand language and what
+
+315
+00:19:30.250 --> 00:19:33.400
+does it really mean to understand language?
+
+316
+00:19:35.890 --> 00:19:39.810
+Yeah, that one is a million dollar question, and
+
+317
+00:19:39.810 --> 00:19:44.010
+it gets really philosophical really fast. So, as I
+
+318
+00:19:44.010 --> 00:19:48.290
+said, uh, these models are trained on next word
+
+319
+00:19:48.290 --> 00:19:52.469
+prediction. Right, so that's all they all they're trained
+
+320
+00:19:52.469 --> 00:19:56.270
+to do. So the question becomes in order to
+
+321
+00:19:56.270 --> 00:20:00.140
+predict the next word, well, do you need to
+
+322
+00:20:00.869 --> 00:20:03.510
+understand it or are you just picking out different
+
+323
+00:20:03.510 --> 00:20:07.089
+patterns? And yeah, these models are very good at
+
+324
+00:20:07.089 --> 00:20:12.800
+pattern matching. So, um, for example, um they learn
+
+325
+00:20:12.800 --> 00:20:15.680
+all kinds of things about English grammar, the children
+
+326
+00:20:15.680 --> 00:20:19.689
+are, they know that that's a more likely uh
+
+327
+00:20:19.689 --> 00:20:22.609
+phrase than the children is because R needs to
+
+328
+00:20:22.609 --> 00:20:24.849
+be plural to match the children. Does it mean
+
+329
+00:20:24.849 --> 00:20:30.349
+that they understand grammar? Well, It depends on your
+
+330
+00:20:30.349 --> 00:20:33.869
+definition of understanding, right? They don't, they don't need
+
+331
+00:20:33.869 --> 00:20:37.109
+a deep awareness, but if you can use that
+
+332
+00:20:37.109 --> 00:20:40.619
+information, if you can use that knowledge, you effectively
+
+333
+00:20:40.619 --> 00:20:43.280
+understand it, right? It's usable information. So we get
+
+334
+00:20:43.280 --> 00:20:47.819
+into deep philosophical territory here that if the system
+
+335
+00:20:47.819 --> 00:20:51.020
+acts as if it's. It understands is that good
+
+336
+00:20:51.020 --> 00:20:52.890
+enough for us or not? And I would say
+
+337
+00:20:52.890 --> 00:20:54.780
+for a lot of practical purposes when we think
+
+338
+00:20:54.780 --> 00:20:56.819
+about AI and how to use it in the
+
+339
+00:20:56.819 --> 00:20:59.739
+world, probably it is good enough, right? We don't
+
+340
+00:20:59.739 --> 00:21:02.900
+need to get too philosophical to say like if
+
+341
+00:21:02.900 --> 00:21:06.619
+it already acts as if it understands we can
+
+342
+00:21:06.619 --> 00:21:08.339
+effectively assimilate it understands.
+
+343
+00:21:09.650 --> 00:21:15.920
+But there's a distinction between formal competence and functional
+
+344
+00:21:15.920 --> 00:21:20.640
+competence. Formal competence being knowledge of linguistic rules and
+
+345
+00:21:20.640 --> 00:21:25.800
+patterns and functional competence, really understanding and using language
+
+346
+00:21:25.800 --> 00:21:28.239
+in the real. WORLD, right? I mean, tell us
+
+347
+00:21:28.239 --> 00:21:32.729
+more about that distinction, why it matters and whether
+
+348
+00:21:33.000 --> 00:21:38.680
+it applies to these debates surrounding, uh, AI or
+
+349
+00:21:38.680 --> 00:21:43.079
+large language models understanding language or not.
+
+350
+00:21:44.729 --> 00:21:50.280
+The formal versus functional competence distinction is a distinction
+
+351
+00:21:50.280 --> 00:21:54.479
+that my colleagues and I proposed when large language
+
+352
+00:21:54.479 --> 00:21:58.520
+models started coming out, we um started working on
+
+353
+00:21:58.520 --> 00:22:02.439
+that paper. Around the time or even before GPT
+
+354
+00:22:02.439 --> 00:22:06.000
+3 came out and uh that was 2 or
+
+355
+00:22:06.000 --> 00:22:08.609
+3 years before Chad GBT and then we finished
+
+356
+00:22:08.609 --> 00:22:10.770
+the paper around the time that Chad GPT was
+
+357
+00:22:10.770 --> 00:22:13.609
+coming out and so all of a sudden it
+
+358
+00:22:13.609 --> 00:22:16.329
+attracted a lot of attention so large language models
+
+359
+00:22:16.329 --> 00:22:18.770
+became kind of interesting for scientists first and we
+
+360
+00:22:18.770 --> 00:22:21.130
+were able to. Catch on to that and kind
+
+361
+00:22:21.130 --> 00:22:24.050
+of start thinking about how they work before they
+
+362
+00:22:24.050 --> 00:22:25.810
+took over the whole world, which is what we're
+
+363
+00:22:25.810 --> 00:22:29.890
+seeing today, and we thought that it might be
+
+364
+00:22:29.890 --> 00:22:32.810
+useful to think about these models from the perspective
+
+365
+00:22:32.810 --> 00:22:36.250
+of cognitive neuroscience, knowing what we know about language
+
+366
+00:22:36.250 --> 00:22:39.010
+in the brain. We know that in the brain,
+
+367
+00:22:39.250 --> 00:22:42.339
+language processing takes place in its own separate network,
+
+368
+00:22:42.390 --> 00:22:47.119
+the language network, and this. What the language that
+
+369
+00:22:47.119 --> 00:22:50.650
+does is different from what other systems do, so
+
+370
+00:22:50.650 --> 00:22:53.000
+the multiple demand network, for example, is the one
+
+371
+00:22:53.000 --> 00:22:55.719
+doing reasoning and basic math, and so they can
+
+372
+00:22:55.719 --> 00:22:59.500
+work together, but they are separate. And so it
+
+373
+00:22:59.500 --> 00:23:02.699
+seems like when we talk about large language models,
+
+374
+00:23:02.739 --> 00:23:05.180
+it is useful to separate out how good they
+
+375
+00:23:05.180 --> 00:23:08.209
+are at language from how good they are at
+
+376
+00:23:08.209 --> 00:23:12.260
+different kinds of reasoning and factual knowledge and the
+
+377
+00:23:12.260 --> 00:23:15.939
+ability to empathize with the person with the user,
+
+378
+00:23:16.020 --> 00:23:18.859
+like all kinds of things that you might kind
+
+379
+00:23:18.859 --> 00:23:23.359
+of put in the term general intelligence AGI. If
+
+380
+00:23:23.359 --> 00:23:25.319
+we say, look, it's useful to actually separate them
+
+381
+00:23:25.319 --> 00:23:28.040
+out because in humans different systems do them. In
+
+382
+00:23:28.040 --> 00:23:31.239
+these models, you might also end up different uh
+
+383
+00:23:31.239 --> 00:23:35.760
+with different subcomponents being responsible for these different functions,
+
+384
+00:23:36.040 --> 00:23:39.959
+and the formal competence is knowledge of language rules,
+
+385
+00:23:40.079 --> 00:23:45.680
+language grammar, language, um, the lexicon, so everything that
+
+386
+00:23:45.680 --> 00:23:49.689
+in humans, the language network does. And functional competence
+
+387
+00:23:49.689 --> 00:23:52.380
+is essentially everything else. It's the umbrella of all
+
+388
+00:23:52.380 --> 00:23:56.060
+the other systems that are not language specific, as
+
+389
+00:23:56.060 --> 00:23:58.930
+we discussed, you can solve a math problem without
+
+390
+00:23:58.930 --> 00:24:03.030
+involving language at all in the brain. But you
+
+391
+00:24:03.030 --> 00:24:06.660
+need those systems if you want a language agent
+
+392
+00:24:06.910 --> 00:24:10.790
+that uses language effectively and uses it to do
+
+393
+00:24:10.790 --> 00:24:13.910
+things in the world, to communicate effectively with the
+
+394
+00:24:13.910 --> 00:24:17.869
+user, so the a large language model, if you
+
+395
+00:24:17.869 --> 00:24:20.270
+give it a math problem in words, it needs
+
+396
+00:24:20.270 --> 00:24:22.989
+to be able to both understand the problem and
+
+397
+00:24:22.989 --> 00:24:26.140
+solve it, and so you might imagine that system
+
+398
+00:24:26.430 --> 00:24:30.069
+needing those different subcomponents to do both formal competence
+
+399
+00:24:30.069 --> 00:24:31.579
+and functional competence.
+
+400
+00:24:32.930 --> 00:24:35.479
+So it is, it is one thing for us
+
+401
+00:24:35.479 --> 00:24:40.130
+to try to study and understand how AI and
+
+402
+00:24:40.130 --> 00:24:46.250
+particularly large language models uh work and how they
+
+403
+00:24:46.250 --> 00:24:52.545
+process and possi. OR understand language, but it's another
+
+404
+00:24:52.545 --> 00:24:57.275
+thing for AI itself to be used to study
+
+405
+00:24:57.635 --> 00:25:01.354
+human language. So in what ways can we use
+
+406
+00:25:01.354 --> 00:25:03.795
+AI to study language?
+
+407
+00:25:05.560 --> 00:25:13.489
+So AI systems are. Um, REALLY good. Pattern matchers,
+
+408
+00:25:13.619 --> 00:25:15.369
+right, so yeah, if we're talking about kind of
+
+409
+00:25:15.369 --> 00:25:18.099
+the the main takeaway, right that people should know
+
+410
+00:25:18.099 --> 00:25:22.069
+about what. AI systems are today, they are pattern
+
+411
+00:25:22.069 --> 00:25:25.219
+matches. They match a lot of patterns very abstractly.
+
+412
+00:25:25.349 --> 00:25:27.869
+If they've seen a problem similar to the problem
+
+413
+00:25:27.869 --> 00:25:30.300
+that you're giving to them, they might be able
+
+414
+00:25:30.300 --> 00:25:33.619
+to solve that problem by kind of by analogy
+
+415
+00:25:33.619 --> 00:25:37.300
+by extrapolating that pattern that they've already learned before.
+
+416
+00:25:37.790 --> 00:25:41.270
+And uh it turns out that this pattern matching
+
+417
+00:25:41.270 --> 00:25:47.859
+capacity capability. IS extremely helpful for learning formal competence.
+
+418
+00:25:48.109 --> 00:25:52.380
+These days, large language models produce outputs that are
+
+419
+00:25:52.630 --> 00:25:57.869
+grammatical, at least in English and in languages where
+
+420
+00:25:57.869 --> 00:26:00.510
+they had a lot of training data. So if
+
+421
+00:26:00.510 --> 00:26:03.430
+the language is not very uh prominent in the
+
+422
+00:26:03.430 --> 00:26:06.270
+training data, that's when you might start seeing issues
+
+423
+00:26:06.270 --> 00:26:10.550
+with um even kind of grammatical rules, but for
+
+424
+00:26:10.550 --> 00:26:18.400
+uh for something like English, um, you. Never these
+
+425
+00:26:18.400 --> 00:26:22.869
+days hear complaints about the model making grammatical mistakes,
+
+426
+00:26:23.160 --> 00:26:25.359
+and that's really remarkable. It's something that people don't
+
+427
+00:26:25.359 --> 00:26:29.680
+really think about, but for decades, computer scientists have
+
+428
+00:26:29.680 --> 00:26:33.520
+been trying to build systems that generate language that
+
+429
+00:26:33.520 --> 00:26:38.660
+is grammatical and coherent and uh. They haven't been
+
+430
+00:26:38.660 --> 00:26:40.849
+successful up until now, so it's really a a
+
+431
+00:26:40.849 --> 00:26:46.040
+remarkable advance, a remarkable improvement. And so it helps
+
+432
+00:26:46.040 --> 00:26:51.680
+resolve some of the debates uh in the study
+
+433
+00:26:51.680 --> 00:26:56.089
+of language in linguistics, because linguistics for a while
+
+434
+00:26:56.089 --> 00:26:59.609
+there was this idea that it's actually impossible to
+
+435
+00:26:59.609 --> 00:27:06.140
+learn language from uh learning patterns that the That
+
+436
+00:27:06.140 --> 00:27:10.500
+linguistic information has to be genetically encoded in our
+
+437
+00:27:10.500 --> 00:27:13.900
+brains in the form of something called the universal
+
+438
+00:27:13.900 --> 00:27:17.260
+grammar, and there is no way to learn it
+
+439
+00:27:17.260 --> 00:27:20.219
+from the uh environment that it has to be
+
+440
+00:27:20.219 --> 00:27:23.119
+built in. Well, nothing like that is built into
+
+441
+00:27:23.119 --> 00:27:26.709
+large language models and yet they learn grammar successfully.
+
+442
+00:27:27.010 --> 00:27:31.760
+So they serve as an existence proof that it
+
+443
+00:27:31.760 --> 00:27:35.880
+is possible to learn language from the input. Now
+
+444
+00:27:35.880 --> 00:27:37.750
+there is a problem. The problem is they learn
+
+445
+00:27:37.750 --> 00:27:41.589
+from much more input, much more language than a
+
+446
+00:27:41.589 --> 00:27:44.859
+human child would ever be exposed to, right? So
+
+447
+00:27:44.859 --> 00:27:48.260
+in theory, in principle, it's possible to learn language,
+
+448
+00:27:48.510 --> 00:27:51.390
+but in practice so far these models just need
+
+449
+00:27:51.390 --> 00:27:55.500
+much more data. Uh, TO, to do that, uh,
+
+450
+00:27:55.530 --> 00:27:59.329
+and so now there are some efforts underway, for
+
+451
+00:27:59.329 --> 00:28:03.099
+example, a competition known as the Baby LM, uh,
+
+452
+00:28:03.109 --> 00:28:06.810
+Baby Language Model Challenge, uh, where they try to
+
+453
+00:28:06.810 --> 00:28:09.449
+train those models on the amount and kind of
+
+454
+00:28:09.449 --> 00:28:12.650
+language that a child would receive over the course
+
+455
+00:28:12.650 --> 00:28:15.989
+of learning. Now when it comes to functional competence,
+
+456
+00:28:16.069 --> 00:28:18.790
+that's a whole different matter. Functional competence seems to
+
+457
+00:28:18.790 --> 00:28:21.869
+be harder, formal competence, you need a lot of
+
+458
+00:28:21.869 --> 00:28:25.189
+language but not kind of insane amounts and functional
+
+459
+00:28:25.189 --> 00:28:28.520
+competence you need much more language, much bigger models.
+
+460
+00:28:28.630 --> 00:28:31.869
+They're still not very good. You need additionally um.
+
+461
+00:28:32.319 --> 00:28:35.920
+What's called fine tuning, which means specifically train them
+
+462
+00:28:35.920 --> 00:28:38.319
+on problems and the right answers and give them
+
+463
+00:28:38.319 --> 00:28:41.689
+feedback. Maybe you need to pair the large language
+
+464
+00:28:41.689 --> 00:28:44.000
+model with an additional module like, you know, a
+
+465
+00:28:44.000 --> 00:28:48.390
+calculator or a computer code uh shell in order
+
+466
+00:28:48.560 --> 00:28:51.069
+to make them better. So functional. It's still kind
+
+467
+00:28:51.069 --> 00:28:53.949
+of this big open frontier that these models aren't
+
+468
+00:28:53.949 --> 00:28:57.680
+very good at yet, but formal competence, they've seen,
+
+469
+00:28:57.829 --> 00:29:01.229
+they seem to have mastered fairly well. So now
+
+470
+00:29:01.229 --> 00:29:02.900
+we can go in and kind of study them
+
+471
+00:29:02.900 --> 00:29:05.750
+and see what they've learned and add these representations
+
+472
+00:29:05.750 --> 00:29:08.630
+inside these models similar to the human brain.
+
+473
+00:29:10.270 --> 00:29:14.520
+Does the language of programming have any parallels with
+
+474
+00:29:14.520 --> 00:29:16.079
+natural languages?
+
+475
+00:29:18.540 --> 00:29:28.319
+The language of programming. Is Something that um serves
+
+476
+00:29:28.319 --> 00:29:31.709
+kind of a like a benchmark that is similar
+
+477
+00:29:31.709 --> 00:29:37.199
+to, say, mathematical reasoning, uh, so a lot of
+
+478
+00:29:37.199 --> 00:29:44.140
+the time people think about it as. Um, Something
+
+479
+00:29:44.560 --> 00:29:49.400
+along the lines of math, logic, STEM education, computer
+
+480
+00:29:49.400 --> 00:29:54.160
+programming, and uh that makes sense. But then programming
+
+481
+00:29:54.160 --> 00:29:57.630
+languages have the word languages in them and so
+
+482
+00:29:57.920 --> 00:30:01.849
+they share some of the same. Some of the
+
+483
+00:30:01.849 --> 00:30:06.739
+important properties with natural languages. They have individual symbolic
+
+484
+00:30:06.739 --> 00:30:12.020
+units, um, the like variable names and function words,
+
+485
+00:30:12.290 --> 00:30:19.040
+and then they um They're composed into more complex
+
+486
+00:30:19.040 --> 00:30:26.760
+statements. And Then you have. You know, the brain
+
+487
+00:30:26.760 --> 00:30:29.199
+trying to interpret both of them, and even, you
+
+488
+00:30:29.199 --> 00:30:32.000
+know, a lot of uh programming languages use a
+
+489
+00:30:32.000 --> 00:30:35.680
+natural language script, so the analogy extends that far.
+
+490
+00:30:36.609 --> 00:30:40.709
+And so, uh, in our neuroscience work, we actually
+
+491
+00:30:40.709 --> 00:30:44.910
+asked our programming languages, similar to like natural languages
+
+492
+00:30:45.189 --> 00:30:47.619
+to the brain. Does the brain use the language
+
+493
+00:30:47.619 --> 00:30:51.900
+network to process programming language, just. And we found
+
+494
+00:30:51.900 --> 00:30:56.540
+out that, not really, we found out that um
+
+495
+00:30:56.540 --> 00:31:00.130
+it actually seems to be the multiple demand network
+
+496
+00:31:00.339 --> 00:31:03.500
+that does math and logic and um also seems
+
+497
+00:31:03.500 --> 00:31:08.819
+to be involved in programming language processing. So the
+
+498
+00:31:08.819 --> 00:31:14.660
+view uh. That Programming is more aligned with things
+
+499
+00:31:14.660 --> 00:31:18.459
+like math and logic does seem to be correct
+
+500
+00:31:18.459 --> 00:31:21.180
+or kind of faithful to how the brain represents
+
+501
+00:31:21.180 --> 00:31:24.579
+that information. Uh, THERE are some differences we found
+
+502
+00:31:24.579 --> 00:31:30.119
+that uh um both hemispheres uh in the brain
+
+503
+00:31:30.119 --> 00:31:33.979
+uh represent programming languages versus math is mostly on
+
+504
+00:31:33.979 --> 00:31:36.260
+the left, so it's not that it's not the
+
+505
+00:31:36.260 --> 00:31:40.000
+same but it it is broadly speaking. The same
+
+506
+00:31:40.000 --> 00:31:43.040
+network we think that is engaged in processing computer
+
+507
+00:31:43.040 --> 00:31:47.119
+code, so programming languages are not true languages from
+
+508
+00:31:47.119 --> 00:31:48.119
+the brain's perspective.
+
+509
+00:31:49.589 --> 00:31:52.380
+So, I would like to ask you about one
+
+510
+00:31:52.380 --> 00:31:55.660
+last topic you've written about, and I have two
+
+511
+00:31:55.660 --> 00:31:59.739
+questions about it. You've written about mapping models in
+
+512
+00:31:59.739 --> 00:32:04.130
+cognitive neuroscience and how people expect them to map
+
+513
+00:32:04.130 --> 00:32:09.579
+neatly onto the linear slash nonlinear divide. Uh, COULD
+
+514
+00:32:09.579 --> 00:32:13.819
+you explain this? I mean, particularly what mapping models
+
+515
+00:32:13.819 --> 00:32:18.589
+are in cognitive neuroscience? And what might be some
+
+516
+00:32:18.589 --> 00:32:22.469
+of the issues with this approach that I just
+
+517
+00:32:22.469 --> 00:32:26.219
+mentioned, there is people expecting them to map onto
+
+518
+00:32:26.630 --> 00:32:29.150
+the linear slash nonlinear divide.
+
+519
+00:32:30.859 --> 00:32:36.640
+Sure. Mapping models are what we earlier discussed in
+
+520
+00:32:36.640 --> 00:32:40.359
+the con uh as encoding and decoding models, right?
+
+521
+00:32:40.520 --> 00:32:45.589
+So encoding models try to predict brain responses to
+
+522
+00:32:45.859 --> 00:32:49.925
+uh some stimulus and its features. Decoding models try
+
+523
+00:32:49.925 --> 00:32:53.685
+to predict which stimulus the person is viewing from
+
+524
+00:32:53.685 --> 00:32:57.525
+the pattern of brain activity. So both of these
+
+525
+00:32:57.525 --> 00:33:00.285
+together are called mapping models, so they map between
+
+526
+00:33:00.285 --> 00:33:05.089
+the brain and the stimulus and so. What's been
+
+527
+00:33:05.089 --> 00:33:09.089
+particularly powerful with this paradigm in the last few
+
+528
+00:33:09.089 --> 00:33:12.880
+years is that now we can have a representation
+
+529
+00:33:12.880 --> 00:33:16.290
+of the stimulus that's pretty generic, and we actually
+
+530
+00:33:16.290 --> 00:33:20.209
+take it from a deep neural network. So in
+
+531
+00:33:20.209 --> 00:33:23.810
+the case of language, we can take it from
+
+532
+00:33:24.329 --> 00:33:29.959
+the um Large language model. So what happens is
+
+533
+00:33:29.959 --> 00:33:33.920
+we take a sentence, we uh record brain activity
+
+534
+00:33:33.920 --> 00:33:36.869
+of a person reading that sentence, would we then
+
+535
+00:33:36.869 --> 00:33:39.109
+give that same sentence to a large language model,
+
+536
+00:33:39.400 --> 00:33:43.160
+take an internal vector which uh reflects how the
+
+537
+00:33:43.160 --> 00:33:47.380
+large language model encodes information about that sentence, and
+
+538
+00:33:47.380 --> 00:33:50.479
+then we, we align the brain responses and the
+
+539
+00:33:50.479 --> 00:33:54.680
+large language model responses and try to predict one
+
+540
+00:33:54.680 --> 00:33:57.020
+from another. And so if we do that, if
+
+541
+00:33:57.020 --> 00:34:01.800
+we establish a successful mapping model, then we can
+
+542
+00:34:01.800 --> 00:34:04.619
+try to predict how the brain would respond to
+
+543
+00:34:04.619 --> 00:34:06.939
+a totally new sentence. We pass in a different
+
+544
+00:34:06.939 --> 00:34:09.739
+sentence, we get a large language model representation, and
+
+545
+00:34:09.739 --> 00:34:12.659
+then we use the mapping model to predict how
+
+546
+00:34:12.659 --> 00:34:15.379
+well, uh, how exactly the brain is going to
+
+547
+00:34:15.379 --> 00:34:17.500
+respond to that other sentence. And so if the
+
+548
+00:34:17.500 --> 00:34:20.570
+prediction is correct, then our mapping model is good.
+
+549
+00:34:20.629 --> 00:34:23.520
+It has established the right kind of relationship. And
+
+550
+00:34:23.520 --> 00:34:26.239
+then you can use this tool not only to
+
+551
+00:34:26.239 --> 00:34:29.719
+predict brain activity, but to start asking all kinds
+
+552
+00:34:29.719 --> 00:34:32.520
+of questions like which part of a large language
+
+553
+00:34:32.520 --> 00:34:34.958
+model best corresponds to a particular part of the
+
+554
+00:34:34.958 --> 00:34:39.050
+brain, which features seem to uh of a sentence
+
+555
+00:34:39.050 --> 00:34:41.040
+seem to be making the most difference, so it's
+
+556
+00:34:41.040 --> 00:34:43.629
+a really cool tool for them starting to ask
+
+557
+00:34:44.199 --> 00:34:49.188
+scientific questions. And uh the work that we've done
+
+558
+00:34:49.188 --> 00:34:51.110
+uh now a few years back, but it's still
+
+559
+00:34:51.110 --> 00:34:55.228
+relevant, is about what this mapping model should look
+
+560
+00:34:55.228 --> 00:34:58.629
+like, because you cannot just kind of take the
+
+561
+00:34:58.629 --> 00:35:00.830
+large language model vector and the brain vector and
+
+562
+00:35:00.830 --> 00:35:04.669
+immediately um kind of map them 1 to 1
+
+563
+00:35:04.669 --> 00:35:07.780
+because even the dimensions are not the same. So
+
+564
+00:35:07.780 --> 00:35:11.459
+what people are usually doing these days is to
+
+565
+00:35:11.459 --> 00:35:16.100
+use linear regression to map between the stimulus representation
+
+566
+00:35:16.100 --> 00:35:21.179
+and the brain. Linar regression, simple, basic, um, mathematical
+
+567
+00:35:21.179 --> 00:35:24.020
+tool, uh makes a lot of sense, but it
+
+568
+00:35:24.020 --> 00:35:26.219
+carries a lot of theoretical assumptions and, and so
+
+569
+00:35:26.219 --> 00:35:28.129
+we ended up diving a little bit deeper into
+
+570
+00:35:28.129 --> 00:35:31.280
+those theoretical assumptions to see. Do we want to
+
+571
+00:35:31.280 --> 00:35:33.959
+be using linear regression all of the time, not
+
+572
+00:35:33.959 --> 00:35:36.239
+all of the time? Is it too simple, is
+
+573
+00:35:36.239 --> 00:35:38.439
+it too complex, so just trying to think a
+
+574
+00:35:38.439 --> 00:35:41.639
+little bit more deeply about what, how to interpret
+
+575
+00:35:41.639 --> 00:35:43.840
+these brain responses to stimuli.
+
+576
+00:35:45.669 --> 00:35:49.489
+So I have my last question, which is one
+
+577
+00:35:49.489 --> 00:35:53.800
+more question about the same topic, uh. When choosing
+
+578
+00:35:53.800 --> 00:35:57.270
+a mapping model, you, in your work, you talk
+
+579
+00:35:57.270 --> 00:36:02.110
+about choosing them in the context of three overarching
+
+580
+00:36:02.110 --> 00:36:09.229
+rata, uh which include predictive accuracy, interpretability, and biological
+
+581
+00:36:09.229 --> 00:36:11.989
+plausibility. So tell us about that.
+
+582
+00:36:13.510 --> 00:36:16.870
+So when we think about the mapping model, different
+
+583
+00:36:16.870 --> 00:36:22.399
+people have advocated for. Or against linear regression for
+
+584
+00:36:22.399 --> 00:36:25.199
+different reasons, and so we thought it's useful to
+
+585
+00:36:25.199 --> 00:36:30.919
+spell out exactly what those reasons might be. One
+
+586
+00:36:30.919 --> 00:36:34.360
+reason is one kind of decision as to what
+
+587
+00:36:34.360 --> 00:36:36.679
+the mapping model should look like is, well, we
+
+588
+00:36:36.679 --> 00:36:40.000
+want a model that predicts brain responses accurately. If
+
+589
+00:36:40.000 --> 00:36:44.500
+the brain responses are not good enough. Um, EITHER
+
+590
+00:36:44.500 --> 00:36:47.739
+decoding or uh or either encoding or decoding, right,
+
+591
+00:36:47.780 --> 00:36:49.979
+either predicting brain response or predicting the stimulus or
+
+592
+00:36:49.979 --> 00:36:54.300
+some something else from the brain. So let's say
+
+593
+00:36:54.300 --> 00:36:57.780
+that your goal is to figure out what the
+
+594
+00:36:57.780 --> 00:37:02.969
+person is reading, what the person is thinking, um,
+
+595
+00:37:03.379 --> 00:37:08.580
+um, or you know, maybe you want to be
+
+596
+00:37:08.580 --> 00:37:13.909
+able to predict whether a person is. Going to
+
+597
+00:37:13.909 --> 00:37:18.149
+develop Alzheimer's or has some kind of neurological disorder,
+
+598
+00:37:18.229 --> 00:37:19.590
+right, you can do all kinds of things with
+
+599
+00:37:19.590 --> 00:37:24.010
+the decoding paradigm. And so if your goal is
+
+600
+00:37:24.350 --> 00:37:28.810
+maximizing productivity, building a mapping model that can uh
+
+601
+00:37:28.854 --> 00:37:32.185
+Predict as good as as you can make it,
+
+602
+00:37:32.604 --> 00:37:34.885
+then there is no reason to limit yourself to
+
+603
+00:37:34.885 --> 00:37:37.084
+something like a linear regression, then you might, you
+
+604
+00:37:37.084 --> 00:37:40.445
+just want to plug in the most powerful model
+
+605
+00:37:40.445 --> 00:37:42.324
+that you can, as long as you have enough
+
+606
+00:37:42.324 --> 00:37:44.594
+data and it actually will work and predict well.
+
+607
+00:37:45.090 --> 00:37:46.780
+So if you have a lot of data, then
+
+608
+00:37:46.780 --> 00:37:49.379
+again you can train a neural network uh instead
+
+609
+00:37:49.379 --> 00:37:52.550
+of just doing a regression in order to capture
+
+610
+00:37:52.550 --> 00:37:56.429
+more subtle nonlinear patterns in the data and uh
+
+611
+00:37:56.429 --> 00:37:59.389
+in fact today people are doing that some of
+
+612
+00:37:59.389 --> 00:38:03.110
+the time, uh, so, uh, if all you care,
+
+613
+00:38:03.189 --> 00:38:05.909
+if what you care about the most is how
+
+614
+00:38:05.909 --> 00:38:08.739
+predictive the model is, how well it predicts, then
+
+615
+00:38:09.030 --> 00:38:11.030
+no reason to just limit it yourself and stay
+
+616
+00:38:11.030 --> 00:38:15.689
+linear. But if you are making that mapping for
+
+617
+00:38:15.689 --> 00:38:18.280
+science reasons, if you wanna say, hey, this part
+
+618
+00:38:18.280 --> 00:38:20.879
+of a large language model corresponds to this part
+
+619
+00:38:20.879 --> 00:38:24.449
+of the brain, you want that correspondence to be
+
+620
+00:38:24.449 --> 00:38:27.969
+simpler. So there a linear relationship might make more
+
+621
+00:38:27.969 --> 00:38:31.584
+sense. Because if it's nonlinear, then a lot of
+
+622
+00:38:31.584 --> 00:38:33.754
+interesting things could happen in between in the mapping
+
+623
+00:38:33.754 --> 00:38:37.235
+model and for interpretability reasons you don't want that.
+
+624
+00:38:37.314 --> 00:38:39.594
+For interpretability reasons you want that link to be
+
+625
+00:38:39.594 --> 00:38:42.635
+as transparent as possible and the interesting stuff happening
+
+626
+00:38:42.635 --> 00:38:46.290
+in the LLM and in the brain. And then
+
+627
+00:38:46.290 --> 00:38:50.280
+the final uh reason why people have advocated for
+
+628
+00:38:50.850 --> 00:38:55.489
+using linear models is that that seems to be
+
+629
+00:38:55.489 --> 00:39:00.000
+similar to how the brain might be reading out
+
+630
+00:39:00.000 --> 00:39:03.850
+information. So we talked about representation and representations in
+
+631
+00:39:03.850 --> 00:39:11.010
+the brain, uh being um useful for uh other
+
+632
+00:39:11.010 --> 00:39:13.129
+parts of the brain, for other parts of the
+
+633
+00:39:13.129 --> 00:39:16.040
+brain to read out that representation. And so the
+
+634
+00:39:16.040 --> 00:39:19.169
+argument is, hey, other parts of the brain often
+
+635
+00:39:19.169 --> 00:39:22.320
+will read out information linearly. So if you only
+
+636
+00:39:22.320 --> 00:39:24.719
+are talking about one step below, you're not gonna
+
+637
+00:39:24.719 --> 00:39:28.280
+have a lot of complicated readout information. You want
+
+638
+00:39:28.280 --> 00:39:31.360
+that link to be simple because that approximates how
+
+639
+00:39:31.360 --> 00:39:35.709
+the brain is actually using this information. And actually
+
+640
+00:39:35.709 --> 00:39:37.909
+in practice it turns out that's not always the
+
+641
+00:39:37.909 --> 00:39:41.070
+case. The readout can be much more much more
+
+642
+00:39:41.070 --> 00:39:43.429
+complex than linear neurons definitely do a lot of
+
+643
+00:39:43.429 --> 00:39:47.030
+nonlinear processing. Also, if we are mapping, say, the
+
+644
+00:39:47.030 --> 00:39:49.750
+whole brain to a large language model or like
+
+645
+00:39:49.750 --> 00:39:52.590
+even a huge chunk, then it's not the case
+
+646
+00:39:52.590 --> 00:39:54.820
+that a single neuron or a neuro population is
+
+647
+00:39:54.820 --> 00:39:56.750
+going to read out from that whole part of
+
+648
+00:39:56.750 --> 00:40:01.030
+the brain. So biological plausibility, I would say is
+
+649
+00:40:01.030 --> 00:40:05.439
+some of the kind of Less, it's a less
+
+650
+00:40:05.439 --> 00:40:08.639
+relevant criterion, at least in the models today, but
+
+651
+00:40:08.639 --> 00:40:11.760
+if you want to be building biologically plausible models,
+
+652
+00:40:11.800 --> 00:40:13.800
+that's absolutely something that you also have to keep
+
+653
+00:40:13.800 --> 00:40:14.360
+in mind.
+
+654
+00:40:15.989 --> 00:40:19.449
+So just before we go, where can people find
+
+655
+00:40:19.449 --> 00:40:21.330
+your work on the internet?
+
+656
+00:40:22.639 --> 00:40:27.030
+Uh, PEOPLE can go to my Google Scholar profile
+
+657
+00:40:27.360 --> 00:40:31.649
+and uh my lab's website is called Language Intelligence
+
+658
+00:40:31.649 --> 00:40:35.600
+thought.net. Um, I have a great team of people
+
+659
+00:40:35.600 --> 00:40:38.689
+here at Georgia Tech, where I started about a
+
+660
+00:40:38.689 --> 00:40:41.040
+year, a year and a half ago, um, and
+
+661
+00:40:41.040 --> 00:40:43.439
+yeah, we keep doing work, uh, both in cognitive
+
+662
+00:40:43.439 --> 00:40:46.199
+neuroscience and in the space of large language models.
+
+663
+00:40:47.510 --> 00:40:50.120
+Great. So thank you so much for taking the
+
+664
+00:40:50.120 --> 00:40:52.280
+time to come on the show. It's been a
+
+665
+00:40:52.280 --> 00:40:54.949
+pleasure to talk with you. Yeah, thank you so
+
+666
+00:40:54.949 --> 00:40:59.129
+much. Hi guys, thank you for watching this interview
+
+667
+00:40:59.129 --> 00:41:01.250
+until the end. If you liked it, please share
+
+668
+00:41:01.250 --> 00:41:03.810
+it, leave a like and hit the subscription button.
+
+669
+00:41:04.179 --> 00:41:06.350
+The show is brought to you by Nights Learning
+
+670
+00:41:06.350 --> 00:41:10.360
+and Development done differently, check their website at Nights.com
+
+671
+00:41:10.360 --> 00:41:14.030
+and also please consider supporting the show on Patreon
+
+672
+00:41:14.030 --> 00:41:16.469
+or PayPal. I would also like to give a
+
+673
+00:41:16.469 --> 00:41:19.330
+huge thank you to my main patrons and PayPal
+
+674
+00:41:19.330 --> 00:41:23.949
+supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche
+
+675
+00:41:23.949 --> 00:41:27.229
+Olaf, Alex Adam Castle, Matthew Whitting Barna Wolf, Tim
+
+676
+00:41:27.229 --> 00:41:30.860
+Hollis, Erika Lennie, John Connors, Philip For Connolly. Then
+
+677
+00:41:30.860 --> 00:41:34.790
+the Matter Robert Windegaruyasi Zu Mark Neevs called Holbrookfield
+
+678
+00:41:34.790 --> 00:41:39.550
+governor Michael Stormir, Samuel Andre, Francis Forti Agnseroro and
+
+679
+00:41:39.550 --> 00:41:43.350
+Hal Herzognun Macha Joan Labrant John Jasent and Samuel
+
+680
+00:41:43.350 --> 00:41:47.429
+Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran
+
+681
+00:41:47.429 --> 00:41:51.169
+David Sloan Wilson, asilla dearraujuru and Roach Diego Londono
+
+682
+00:41:51.169 --> 00:41:57.100
+Correa. Yannick Punteran Rosmani Charlotte blinikolbar Adamhn Pavlostaevsky nale
+
+683
+00:41:57.100 --> 00:42:01.179
+back medicine, Gary Galman Sam of Zallidrianei Poltonin John
+
+684
+00:42:01.179 --> 00:42:05.739
+Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry,
+
+685
+00:42:05.820 --> 00:42:11.580
+Franco Bartolotti Gabrielon Corteseus Slelitsky, Scott Zacharyishim Duffyani Smith
+
+686
+00:42:11.580 --> 00:42:16.270
+Jen Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke
+
+687
+00:42:16.270 --> 00:42:21.090
+Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams,
+
+688
+00:42:21.110 --> 00:42:25.800
+Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez,
+
+689
+00:42:25.850 --> 00:42:30.050
+Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old
+
+690
+00:42:30.050 --> 00:42:34.929
+Erringbo. Sterry Michael Bailey, then Sperber, Robert Gray, Zigoren,
+
+691
+00:42:35.129 --> 00:42:39.580
+Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas
+
+692
+00:42:39.580 --> 00:42:43.899
+Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Galbert,
+
+693
+00:42:44.050 --> 00:42:49.389
+Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George
+
+694
+00:42:49.389 --> 00:42:54.649
+Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Hubbert,
+
+695
+00:42:55.439 --> 00:43:01.280
+Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner,
+
+696
+00:43:01.399 --> 00:43:06.169
+Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike
+
+697
+00:43:06.169 --> 00:43:09.820
+Levin, and Jos Net. A special thanks to my
+
+698
+00:43:09.820 --> 00:43:12.659
+producers. These are Webb, Jim, Frank Lucas Steffinik, Tom
+
+699
+00:43:12.659 --> 00:43:17.540
+Venneden, Bernard Curtis Dixon, Benedict Muller, Thomas Trumbull, Catherine
+
+700
+00:43:17.540 --> 00:43:20.820
+and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and
+
+701
+00:43:20.820 --> 00:43:24.219
+Nick Golden, and to my executive producers Matthew Levender,
+
+702
+00:43:24.300 --> 00:43:27.449
+Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for
+
+703
+00:43:27.449 --> 00:43:27.770
+all.
+

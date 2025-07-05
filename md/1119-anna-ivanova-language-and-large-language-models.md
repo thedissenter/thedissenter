@@ -13,7 +13,9 @@
 		"Neuroscience"
 	],
 	"title": "#1119 Anna Ivanova: Language and Large Language Models",
-	"youtubeid": "Ivzmoq2iL40"
+	"vtt": "1119.vtt",
+	"youtubeid": "Ivzmoq2iL40",
+	"transcript": "1119.lines.json"
 }
 ---
 RECORDED ON APRIL 25th 2025.  
