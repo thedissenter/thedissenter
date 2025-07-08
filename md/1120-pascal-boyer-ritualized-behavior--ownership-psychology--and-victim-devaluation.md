@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1120 Pascal Boyer: Ritualized Behavior, Ownership Psychology, and Victim-Devaluation",
-	"youtubeid": "ZcvVxnyFQoo"
+	"vtt": "1120.vtt",
+	"youtubeid": "ZcvVxnyFQoo",
+	"transcript": "1120.lines.json"
 }
 ---
 RECORDED ON MAY 1st 2025.  
