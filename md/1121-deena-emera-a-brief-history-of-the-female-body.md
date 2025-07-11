@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1121 Deena Emera: A Brief History of the Female Body",
-	"youtubeid": "hnAXAshFdx8"
+	"vtt": "1121.vtt",
+	"youtubeid": "hnAXAshFdx8",
+	"transcript": "1121.lines.json"
 }
 ---
 RECORDED ON MAY 2nd 2025.  
