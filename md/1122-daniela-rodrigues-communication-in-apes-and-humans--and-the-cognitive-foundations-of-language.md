@@ -14,7 +14,9 @@
 		"Biology"
 	],
 	"title": "#1122 Daniela Rodrigues: Communication in Apes and Humans, and the Cognitive Foundations of Language",
-	"youtubeid": "t_oyUKfxUsI"
+	"vtt": "1122.vtt",
+	"youtubeid": "t_oyUKfxUsI",
+	"transcript": "1122.lines.json"
 }
 ---
 RECORDED ON MAY 6th 2025.  
