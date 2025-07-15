@@ -5,6 +5,7 @@
 	"episodeid": "1123",
 	"excerpt": "Dr. Philip Nitschke is an Australian humanist, author, former physician, and founder and director of the pro-euthanasia group Exit International. He campaigned successfully to have a legal euthanasia law passed in Australia's Northern Territory and assisted four people in ending their lives before the law was overturned by the Government of Australia. Nitschke was the first doctor in the world to administer a legal, voluntary, lethal injection, after which the patient activated the syringe using a computer.",
 	"image": "https://i.ytimg.com/vi/JfRs7p94CXc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1123-philip-nitschke-assisted-suicide-and-the-right-to-die/id1451347236?i=1000717221007&uo=4",
 	"publishDate": 2025-07-14,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1123-Philip-Nitschke-Assisted-Suicide-and-the-Right-to-Die-e3525tc",
 	"tags": [
@@ -13,7 +14,9 @@
 		"Philosophy"
 	],
 	"title": "#1123 Philip Nitschke: Assisted Suicide and the Right to Die",
-	"youtubeid": "JfRs7p94CXc"
+	"vtt": "1123.vtt",
+	"youtubeid": "JfRs7p94CXc",
+	"transcript": "1123.lines.json"
 }
 ---
 RECORDED ON JULY 3rd 2025.  
