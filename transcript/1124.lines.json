@@ -1,0 +1,332 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lopez, and today I'm joined by two guests. We have here with us Doctor Miguel Segundoartin. He's a Ramon Icahal research fellow in the philosophy department at the University of Murcia in Spain and a member of the Minimal intelligence lab or Mint lab there. And we also have Doctor Vicente Raja. He's a postdoctoral researcher at the MIT lab, uh, and a research fellow at the University of Murcia as well. And they are both authors of ecological Psychology, the book we're going to talk about today. So, Doctor Artin and Doctor Raja, welcome to the show. It's a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:47",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Thank"
+	},
+	{
+		"start_time": "00:47",
+		"speaker": "Ricardo Lopes",
+		"words": "you so much. So let's start with perhaps the most basic question, I guess. What is ecological psychology?"
+	},
+	{
+		"start_time": "00:59",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Uh, WELL, this is, this is the The question we in some ways we try to develop in the book, uh, ecological psychology can be seen as an approach to To understand perception and action so these aspects of of psychology that has to do with how how we come to know about our environment through our senses and how we are able to organize our behavior with respect to that right at the same time some people think that it can be expanded to other uh fields of of uh of uh psychology to other faculties, you know, to, to, to other capabilities. And generally speaking, as a, let's say as a scientific paradigm is uh is an alternative way to do psychology or to do experimental psychology if you compare it to cognitive psychology, which is the mainstream dominant uh paradigm, uh, that, you know, it posits some. Different ideas on how we should approach uh um human psychology and animal psychology at least."
+	},
+	{
+		"start_time": "02:09",
+		"speaker": "Ricardo Lopes",
+		"words": "And I mean, uh, when it comes to a broader view of psychology, what aspects of psychology does it apply to or does it apply to all aspects of psychology?"
+	},
+	{
+		"start_time": "02:23",
+		"speaker": "Vicente Raja",
+		"words": "Um, WELL, I wouldn't, I wouldn't say necessarily all aspects of psychology, so I don't think that's any. Ecological psychologists believe that uh ecological psychology can offer a theory of everything, again, theory of all aspects of morcognition. But what is true is that if you take seriously the principles of ecological psychology and unless, unless you believe that perception action are enclosed, so unless you believe in a highly modular theory of cognition in, in which theory of an action are just modules that are isolated from other faculties, it means that, unless you believe that, I mean. Uh, IF you don't believe that, then it means that the principles you apply, uh, to explain perceptual action from an ecological perspective should apply also to other co faculties. So, I mean, for example, the non-brain syncentrism, the embodied approach, the idea that the, actually your, your interaction with the environment, your embodied interaction with the environment changes the cognitive process and makes it possible that some cognitive activities appear or emerge in some systems. For example, the, the idea that uh you interact with rich information, so you don't need to uh make uh internal inferences or internal models of the, of the environment. Also the mathematical tools used to explain in cognition, for example, in Ecodega psychology, the use of uh dynamical systems theory or the use of time series analysis. So there are, I, I, I believe there are consequences for how you explain or how you understand the mind and cognition outside of perception and action if you already are an ecological psychologist."
+	},
+	{
+		"start_time": "04:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. And later on, we're going to get into how it applies to perception and action and also into a little bit into an embodied cognition and dynamical systems theory. But for now, let me ask you uh uh another thing. So, uh, would you like to tell us a little bit about the history of ecological psychology that is something that you also go through in the book? I mean, how did the discipline develop?"
+	},
+	{
+		"start_time": "04:30",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Yeah, um, I think it's an interesting history actually. I, I, I refer to it, uh, as the, as, um, the last instance or, or, or, or one of the latest instances of the other psychology. If you see the, the typical roots of psychology as a science since it, since it started. Um, IN the last part of the 19th century, you see, you know, it's like, it's bound and James, structuralism, functionalism, and then behaviorism takes it all until the 50s, 60s, especially, you know, where the cognitive revolution happens. And we are still within that cognitive psychology. We know, uh, the, the particular paradigms change like we talk now more about the Bayesian brain and that kind of thing, right? But it's still within the, the context of a cognitive psychology. But if you explore history. Uh, THERE'S has always been an alternative. Psychology. So some different ways to do psychology that run parallel to the mainstream that are small, right? But they are still there. And I think ecological psychology is one of them and you can trace it back to, to William James, actually to some of the, some of the things William James uh postulates in the principles of psychology, but also later on in his essays of in in radical empiricism. Uh, THERE'S a fantastic book by Harry Heft called Ecological Psychology in a context that explores all this in very, very, uh, nice, uh, uh, detail, but, you know, like, uh, James Gibson that along with the Leonard Gibsons are the two founding figures of the, of the disciplines. James Gibson got his PhD in the 1920s in um uh Princeton under the mentorship of IB Holt. That considered himself a radical empressist and was himself a student of of William James. So there's a very clear historical root there and then what James Gibson was trying to do again along with Eleanor Gibson, um, was trying to develop a kind of a scientific theory of radical empiricism, right? And Many things happened there, right? Uh, ONE very important thing is that, uh, James Gibson was recruited by the US Army to teach pilots uh on how to land and in trying to develop resources to do so he understood that the classical psychophysics experiment on, on experiments on uh perception didn't work and so he needed to explore other, other. Alternative to actually uh uh provide some tools that actually work in how um pilots learn, right? So in that, that happens during, during, during the 40s, he writes his, his, his first book in the 1950s, still kind of in the mainstream side of things, but already with some tweaks. And in, in his second book in 1966, uh he is already very well into. Uh, THE ecological approach basically rejecting, uh, two main ideas, right? The, on the one hand, the idea that uh stimulation is poor, right? That, that, that we don't get uh information enough through our senses as to guide our behavior so we need to enrich it internally somehow. And that visual perception starts with the retinal image, right? That we have some kind of small picture of uh the world in, in our retina and then uh we manipulate it until, until, uh, it, it serves us to know our environment, right? Uh. At the same time, Eleanor Gibson is already taking care of the, of, of, of perceptual learning development has a book in 1969, right? So there are a few things there. And Things evolve until James dead uh right after he published or uh or around the time he published his last book in 1979, and then there's a group of few psychologists uh that take over that enterprise during the 80s, the 190s, and now. So that's kind of the, a rough sketch of how things developed."
+	},
+	{
+		"start_time": "09:07",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, of course, we don't have uh enough time to go into much detail here. But uh let me ask you still on the same topic, how does ecological psychology relate to other schools of psychology like Gestalt psychology, phenomenology, and behaviorism?"
+	},
+	{
+		"start_time": "09:30",
+		"speaker": "Vicente Raja",
+		"words": "Yeah, well, that's, that's certainly part of the, of the history that Vicente was telling, right? So, first of all, I mean, we need to understand that uh both James and E Gibson that they studied as Partly as behaviorists, partly as guesttal psychologists because they were, there were, they were the main uh part in psychology when they started in the, in the 20, in the 20s and, and 30s, right? So they both studied under the uh under the mentorship of uh behaviorist. James in the case of Evie Hall, which is a strange behaviorist more probably closer to uh James radical um radical impre than, than probably behaviorism, but Edie Holt actually considered himself a behaviorist of sorts. Um, uh, Eleanor Gibson and, and the the mentorship of Clark Hall, which is actually uh one of the Uh, most recognized behavior figures. The thing with behaviorism is, uh something that we say, we try to say in the book even though we don't have time, we don't have space because a very short book is that behaviorism is, is not a molytic thing. It's very difficult to speak of behaviorism as a, as one thing. I mean, the behaviorism of Watson is not the same as the behaviorism of Skinner, not the same as Tollman, not the same as, as Halls, not the same as Thorndykes, yada yada. So. It's difficult to, uh, to pinpoint one single behaviorist theory to which ecological psychology is indeed, but it's clear that uh both James and, and Eleanor Gibson recognize themselves as, uh, uh. Behaviorist of some, of some kind and actually in the, in the autobiography of Gibson, he mentions that he's a something I was a, a behaviorist like Holt and uh Eleanor was a Hallen uh behaviorist and then actually the ideas of behaviorism that that remains in the ecological tradition. Uh, THEN there's Gestalt, there's obviously, I mean, uh, I think that Gibson, uh, did his PhD on, on Gestalt, right, didn't, so he was, his PhD was trying to criticize. Uh, SOME ideas of, of Gestalt, but there are some ideas of Galt that also stayed in the ecological approach. For example, and in the book, we, we say that this idea that information is structured and the idea of uh, of uh energy arrays is actually a Gestalt idea. The difference that uh James Gibson didn't believe that information or uh uh structure wasn't inside. He thought that the structure was outside and we could actually access this. So this is kind of a realist twist. To, to Gestalt. And there's the last element which is uh phenomenology, which is probably the most elusive in a way because it's difficult to find real references or, or precise reference to um phenomenology in the, in the ecological tradition unless in the early ecological tradition, the one by, by Eleanor and, and James Gibson. But there are some others like, for example, Semiro and Koer who actually say that there is evidence that James Gibson read, for example, Merlo Ponti's uh pheromology of Perception, which is actually a book in, uh, in the philosophical tradition in phenomenology that um emphasized the role of the body in how we experience the world. So there's probably a, a connection there or, or some, some sort of, of um friendship uh that James Gibson detected there with the phenological tradition too. Now, and we speak now of uh contemporary ecological psychologists. There is a, a lot of uh um work of current ecological psychologists looking at the phenomenology, for example, like Tony Semero is a, is a good example of, of uh an ecological psychology figure that tried to bridges, uh, phenomenology, especially Heidegger and Merlo Ponti with uh contemporary ecological psychology."
+	},
+	{
+		"start_time": "13:15",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, let me ask you now a little bit about perception and action, because in the book, you actually focus on ecological psychology as an approach to perception and action. But before we get into this specifically and how it applies there, what are the main theories of perception and action that we have apart from ecological psychology?"
+	},
+	{
+		"start_time": "13:41",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Um, I guess from, from From our point of view, from the view from the view from here, so to speak, from, from the, from the ecological approach, there's basically one with little variations, right? Uh, AND the one is the one that has to do with cognitive psychology, right? Uh, THAT basically tells you a story about something like an input output system, right, in which you get the input. Again, it reaches your retina in case of, of, of visual perception, right? And it goes inside and, and it's kind of, you know, that input which is this, the stimulus is somehow not good enough as to support a proper perception of the environment. So internally somehow, and we will bracket this because that somehow can mean different things. Uh, IT gets enriched, enriched, manipulated, uh, changed, reshaped to the point that now we have an internal model, a mental representation of the external. Environment that is very difficult in some ways, right, at least in the, in the, in the relevant ways and that then can be used to To to be uh retrieved by another part of the brain and then the that other part can execute or can send some motor commands, say, right, as for the body to move in such and such a way given that the environment is that way that's kind of the input output uh system with. Cognition in the center and perception and action being part of that uh central system that basically uh are in, are in the business of constructing a verical model of the environment. And how it can be done, it can be kind of bottom up, you know, that you just retrieving more and more information and mixing it with memory, past experience to do so. It can be in a predictive way, right, with a generative model and just trying to, to shape. That model in such a way that actually reflects the latent variables of, of, of, of, of uh stimulation, right? But that's it. That's the thing that happens inside and it's in the business of building up a model of the environment such that that model can be used. Uh, uh, AS a, as a reference to execute actions."
+	},
+	{
+		"start_time": "16:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND what are some of the most important concepts to understand perception and the action from the perspective of ecological psychology?"
+	},
+	{
+		"start_time": "16:33",
+		"speaker": "Vicente Raja",
+		"words": "Well, I would say that the most important one is something that we try to, to emphasize in the book is the notion of information. So for us, the real game changer that ecological psychology brings up and brings you to um psychology is information. So if you believe that there is actually rich information in the environment in the structure of the light or instructural sound or in, in, in, in your skin intact. Then the richer the information there is outside. So the more possibility you have to gather information, the less you need to build it inside. So that's, this is the main idea of ecolega psychology. So if internal models were introduced as an explanatory posit to compensate for the Uh, impoverishment for the poverty of the stimulus. If you don't think that the stimulus is that poor, so you think the stimulus is rich, then it seems that you don't need the second explanatory step of positive internal models. So for us, the real game changer is the notion of information. And then the, the second idea I think is the notion of embodiment. And it means two different things. Well, you perceive that, so you gather the information, you perceive the world through your body. So the fact that you have this specific body means that you will occupy, for example, some point of views, like taller or shorter, whatever, but also it means that you can explore this information. So you have to move, you can generate new information, you can discover invariant properties. In this information, etc. So, uh, real life exploration with your body is an essential aspect of how you perceive the environment. And it's something that you see in, in, in nature, right? So, when people are, or when animals, for example, are unsure about uh relative distance, for example, they move to generate motion parallax. So moving actually is an, a strategy to perceive distance in this case, right? And then the Probably the, the, the third most important concept, I don't know if you disagrees, we probably have affordances, which is a concept that was introduced by ecological psychologists. Nowadays it is used in many other paradigms because in a way, affordances are not necessarily conceptually tied to ecological psychology. So affordances are opportunities for interaction and as such, they can be accommodated in different frameworks, but what ecological psychologists believe is that Through detected information, you perceive affordances. I mean, through detected information, you are able to visual to perceive, not visual, right, you're able to perceive what you can do in the environment. For example, how you can control your behavior to get to um catch the bottle or avoid an obstacle or um Uh, duck, uh, uh, you know, in, in a, in a fist fight, whatever. So, for me, those are probably the three most important concepts. I don't know if Vicente would add any other."
+	},
+	{
+		"start_time": "19:17",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Um, NO, yeah, I think, I think this is, these are the core things and I think all of them uh together gives you the, the essence of the approach which sometimes is referred to as direct perception. Which is usually misinterpreted, uh, basically means that if there's information enough in, in the, in the energy arrays that surround you, you know, light, chemicals, whatever, uh, you don't need, uh, some mediating steps in order to, to perceive your Environment so in that sense you are, you are directly connected to your, to your, to your, to your environment through your senses and not, you know, and not through a representation internal model, etc."
+	},
+	{
+		"start_time": "20:03",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So could you tell us just a little bit more about affordances because for people who might not be familiar with these kinds of concepts, I mean, what are affordances exactly to explain them a little bit more."
+	},
+	{
+		"start_time": "20:20",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "And affordance, uh, according to James Gibson is an opportunity of interaction with the environment. So, uh, you can think about it like among the things that we, that we perceive, you know, uh, let's, let's be pluralistic here, right? We are able to perceive things, right, uh, chairs, uh, uh, TVs, whatever things, right, but among the things that we perceive are the things that we can do with things, right? So I, uh, perceive this glass and I also perceive that they can uh grab it, right? I, I, I perceive a door and I can see whether I can open it or not, right? That kind of thing. So the things I can do with. The with the elements around me are affordances, right? I can step in uh the ground. I can walk through the ground but not through water, right? So, uh, the ground is walkable, uh, it affords walkability while, uh, uh, water doesn't for us, right? There are some other organisms that that that can actually walk there, right? So those are affordances, right? The things we can do with things and according to ecological psychologists, we can perceive them and we can perceive them without. The need to do any the any, any inferential steps. So it's not that we perceive the object and somehow then we do other mental operations, so we infer that we can do something with that object. But that we directly uh perceive what we can do with things. Again directly here means that there's information enough in the surrounding energies of the, of the organism in light, in uh chemicals in air that tell us, hey, you can do this. Basically, and those are the affordances, the things you can do around you."
+	},
+	{
+		"start_time": "22:22",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So, let, let me ask you now a little bit about embodied cognition. In what way is the psychological psychology connect to it?"
+	},
+	{
+		"start_time": "22:32",
+		"speaker": "Vicente Raja",
+		"words": "Well, I would say that, uh, historically speaking, Ecological psychology probably invented embody cognition for psychology. I mean, the first scientific theory in psychology that We can say it's actually an embodied theory of cognition. It's probably ego a psychology in, in, so it doesn't, so the one that really is the first that takes the body seriously so that the body is part, is part of this planetary uh uh machinery of the theory is ecological psychology and body cognition. It's something that emerged later, but the first instance of that, it, it's probably like a psychology. No, I would say that. For example, I mean, the, in the 90s, uh there's this book by Elena Roche, uh Evantonsson and Abella was the Embodied Mind, which is the, the, I think it's one of the first book that starts speaking about embody cognition, but Ecodea psychology was in, uh, was already in the 60s and in '79 or so it's. So historically speaking, I would say that Ecoleca is the first embodied theory of commission that there is."
+	},
+	{
+		"start_time": "23:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND by the way, does it also relate to the other three E of 4E cognition and embedded, uh, extended and enacted cognition or is it just with embodied cognition?"
+	},
+	{
+		"start_time": "23:57",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "I'm, I, I like these questions because I have uh ongoing discussions with many friends about the 4E, right, uh, which is embodied, embedded and acted, extended something like that and I don't like that name, uh, in, in, and, uh, and this is only my opinion. I, this doesn't mean it's Miguel's opinion too, uh, uh, I think you, did you, did you, you, you only need one E which is ecological actually, right? I mean. What other aspects of, of the ecological approach that we have maybe not stressed enough, is that for ecological psychologists, the Psychological unit. So the, the, the, the, the unit you, you need to look at in order to understand psychological process is the organist environment system. So when you try to understand perception action, you don't look just at the organism. You look at the organism environment system as a whole, right? As a self-organized whole that, that exhibits that, that kind of thing. But once you have that, once you have that approach, you are by default. Embodied, embedded, extended and, and, and as Miguel has been saying action is a central part of it moving around is a central part of it. You are also an active. So basically, ecological psychology 1 E."
+	},
+	{
+		"start_time": "25:25",
+		"speaker": "Vicente Raja",
+		"words": "Uh, TO rule them all, to rule them all. Uh,"
+	},
+	{
+		"start_time": "25:32",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "YEAH, you know, once you, once you take, so to speak, the ecological stance, you are by default embodied embedded and active and extended."
+	},
+	{
+		"start_time": "25:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, BUT, uh, I mean, uh, when you, when you mentioned ecological psychology as an E, I mean, would it be 1/5 E"
+	},
+	{
+		"start_time": "25:54",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "or just, just one e we take off the other 4 and cognition."
+	},
+	{
+		"start_time": "26:03",
+		"speaker": "Ricardo Lopes",
+		"words": "OK,"
+	},
+	{
+		"start_time": "26:06",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "OK, fair, to be fair, I, I, I, I mean, I'm, I think, um. Just to, just to give a point of, of the, of the sociology of science here. Uh, TO be fair, ecological psychologists and, and activists, and people that work in these paradigms are kind of in a, in a, in a, in a, in a, in a great great minority, right? And we sometimes spend a lot of time arguing among us on how to be a good an activist or a good ecological psychologist and how we are different from each other. So many times I just uh refer to all of us as radical embodiment. Um, JUST to try to be open, of course we disagree and, and if we sit with an activist, we, we are going to disagree about this, this, this and that. But generally speaking, you know, like we are very few people, so maybe 5 Es or whatever is you wanna have, but it's better that we work together than against each other."
+	},
+	{
+		"start_time": "27:13",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, by the way, explain that radical embodiment, right? What what does that mean?"
+	},
+	{
+		"start_time": "27:20",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Um, I, I mean, um, this is, this comes from, uh, uh, to me, basically from Tony Chamero's book Radical Embodied Cognitive Science. Uh, Tony Chamero is, is, is, is my PhD advisor, right? So I'm very influenced by him. But in this book, uh, Tony recovers that, that phrase, right, radical embodied cognitive science from Andy Clark. Andy Clark, uh, before said, you have people that do, uh, embodied cognitive science like, like, like Andy Clark himself, and then you might have other people who do radical things, right? But he was like, we don't know if Anybody is doing this. And then Tony's book is like, no, look, there are people that have been doing radical embodied cognitive science for the last 40 years, and those are ecological psychologists and at least some an activists, right? And, and, and Tony develops why he thinks that and, and that's and he actually explicitly tries to, to build bridges between, you know, ecological psychology and activists and maybe some other, uh. Radical, uh, approaches to embody the cognition. So I, so I thought that radical embodiment is a good umbrella term, uh, for all of us, right? uh, BECAUSE it doesn't point to any of us. It doesn't require, uh, you know, uh. 100 words to explain who we are or like, and I think it's a, it's a good thing. So to be radically embodied in In summary just means that you, you not only think that the body uh influences uh uh cognition you think that body and environment are substantive uh considerative parts of the cognitive system. I know that uh constituive here can be a little bit uh tricky, but the thing is that when you think about the cognitive system, you think about the brain-body environment system. Hm."
+	},
+	{
+		"start_time": "29:34",
+		"speaker": "Vicente Raja",
+		"words": "And I'll tell you about the, if, if you allow me, so about the, the whole point of, of radical embodiment. So there are two ways to approach that. So there is one way to Characterize radical embodied cognitive science that is purely negative, which is where, well, it's people doing ego psycho doing science without representation. So it's kind of a characterizing radical embodiment by what we are not doing according to some people. But actually something that Vicente and I try to defend and we defend. We have done in many different, uh, with audiences that no, actually doing radical embolic cognition, uh, implies a lot of positive things that we do, a lot of new expiratory methods. So it's not that we are doing traditional uh cocis without our representations, that we are introducing new methods. That are not there and were not dead in the 80s, 90s. I mean, there, I mean, the, the classical co science. I mean, you take uh a textbook on co science nowadays, I, I mean, I'm, now I have one in front of me. You open it and you don't see anything of that. So what we are not doing, so we're not doing just traditional code signs with uh mental maps or, or uh mental observations. We're actually introducing new explanatory methods and uh techniques of analysis. That's. NEEDED to be recognized as well, I think."
+	},
+	{
+		"start_time": "30:51",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, and all the psychological psychology relate then to dynamical systems theory."
+	},
+	{
+		"start_time": "31:00",
+		"speaker": "Vicente Raja",
+		"words": "Well it's probably more a question for Vicente, which is the expert on dynamical"
+	},
+	{
+		"start_time": "31:04",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "systems. This is, this also has a story, uh, you know, during, during, during, during the 70s, a few young scholars at the time uh were related to James uh Gibson, you know, like postdocs or, you know, or research visitors and that stuff. Uh, TWO of them were, for instance, Dave Lee, who afterwards worked at the University of Edinburgh and is the main developer of, uh, of the tau theory, which is one of the main, uh, theories within, within the ecological approach, but also Michael Tarvie, uh, who is basically the leading figure of ecological psychology after Gibson and And after, after he died like a couple of years ago, actually last year, uh, why, why, while we were writing the book actually, um, um. And both of them, but especially Michael Tarvie was interested in motor control. Gibson was also Interested in motor control in action, but he was leaning towards uh perception more while Michael Tarvi was someone that who came from motor control to ecological psychology and he already came uh being kind of a uh um dissident within the motor control uh community because he was very. Interested on um in a theory by Nicola Burstein, which is a Russian uh physiologist, uh, that thinks basically that, uh. Motor behavior is some, to some degree self-organized and not fully commanded from, from, from uh the brain and you know, there's, it is coordinated before it gets commanded. You know, there are a few, a few things there that, that, that I don't want to get into but the, but the main idea is that this idea that Uh, motor control is to some degree self-organized between brain, body, and environment fits very well with the, with the, with the organized environment system and with the ecological approach in which, you know, our psychological features are also self-organized in some ways, right? So with Michaelar be coming into this, uh, they were trying to find new methods. And it started in the late 70s, they start thinking about synergies, which is our com are this kind of self-organized uh combination of parts within the brain body environment system. Uh THEY call them at, at the beginning um uh coordinative structures and they are starting to try to find mathematical tools to deal with them. Uh, AND in this uh context, uh, some other figures get into that. Peter Kugler is very important, uh, Scott Kelso, it's also um works with ecological psychologists in the, in the, in, in the early 80s developing these ideas, although he then goes his own way, some ways. And yeah, during the 80s, they find that dynamical systems, which is just a mathematical tool that some people use in some aspects, you know, in the statistical physics, in some, in some places. Um, It was a good thing to was a, was a good tool to study collective behavior. Uh, SOMEHOW self. Organized mathematically. And yeah, and during the 80s, ecological psychologists along, along with Kelso and with uh Schoner and some other people are the first one that start up trying to apply those dynamical systems or methods to, to, to behavior, right? To, to how we, we organize our, our action. And since then it's been uh along with. Several tools to, to perform time series analysis. Uh, DYNAMICAL systems theories is one of the main tools within the, the ecological approach since then."
+	},
+	{
+		"start_time": "35:13",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, let me ask you then, does ecological psychology stand in opposition to uh representationalist slash computationalist approaches to the, to cognition?"
+	},
+	{
+		"start_time": "35:29",
+		"speaker": "Vicente Raja",
+		"words": "Well, that's actually a very difficult question to answer because the more you study representational theories of, of cognition, the more you see that there's also not one thing. I mean, there are many different uh options to, to, there are many versions, there are many flavors, so to speak, of representations out there. So Uh, I think what ecological psychologists are against too is the idea that you need uh mental models of the environment in your brain so. Now it's true that there are more and more deflationary accounts of mental representations there that some, some of them are even like just neural activity that correlates with some external states. So I guess the answer. Depends on how Complex you think mental presentations are. So again, if you, if you know uh take a paper on, on, uh, cognitive neuroscience about mental about representations, you see that the no representation is actually quite weak. To the point, as I said, to the point that they, they, it's just neural activity that correlates with some external state of affairs. Well, if that's your notional representation, then I, I don't think anyone can be. Against that because it's that thing, is that minimal that No one would deny that. That's why I, we wouldn't want to, we, we don't, we didn't want, sorry to, to put too much emphasis on representations in our book because we think it's not really uh uh and that an easy topic. So no, I know what they think they would say, but that's, I, I, I have uh my problems with these questions because I'm not, I'm not sure how to answer it actually."
+	},
+	{
+		"start_time": "37:13",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Yeah, I, I, I, I'm kind of, kind of the thing. I, I think. That the, the rejection of at least some kinds of representation is a consequence of the ecological approach but it's not a core uh aspect of it, right? Uh, um, I think there's a very uh a very simple way to see that which is like even though there are ecological psychologists and some people around them that uh using ecological psychologists have. Have developed strong claims against mental representations. One example we've talked about him a few times, Tony Chamero, it's a very clear example of that, but not the only one, right? Uh, IF you read Gibson in 1979, the most famous book, right, the, the ecological approach to visual perception, he talks nothing about representations. He uses the word twice to talk about pictures, you know, like, like, uh, actually, so it was not a part of his own thinking because representations, uh, uh, I think this is the history is good here. Gibson is not an old man, right? It's, it's, he, he, he, he was all for the, for our mentors, right? For, for the, for the, for the big figures of, of the film now, right? He got his PhD in 1920. People were not talking about there, there were not representation wars there, you know, like, uh, it's, it's like, so he, he was just not interested in that. But now, you know, after the cognitive revolution takes place. Um, Well, if you are an ecological psychologist and, and, and you start dealing with the new words and one of them is computation, the other one is representation, you will eventually end up in some form of anti-representationalist. What form was what, as Miguel said, depending, but uh it's more, it's more of a consequence or it's more of a thing like you can use, you can use ecological psychology to develop a theory against mental representations or against some mental representations. But I don't think that clay is core to, to, to the ecological approach."
+	},
+	{
+		"start_time": "39:26",
+		"speaker": "Vicente Raja",
+		"words": "Yeah. And the same of course with, with computation. I mean, there's a very cool paper when he the idea that computation is a, a motif, no, like a musical motif, and that tells you basically that computation is not a natural kind. It's not a well-defined concept in cognitive science either. So competition means, means very different things for very, very complex, highly abstract with Something that doesn't seem so problematic. So it really depends on what your definition and characterization of mental representation is and computation is that we will be uh More inclined to agree or more inclined to disagree, but I also agree with this, it's a consequence of the paradigm and not necessarily uh uh beginnings or uh uh uh starting claim of that."
+	},
+	{
+		"start_time": "40:13",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So earlier I asked you a little bit about the history of ecological psychology. What is its current status? How does it look nowadays?"
+	},
+	{
+		"start_time": "40:27",
+		"speaker": "Vicente Raja",
+		"words": "Yeah, that's actually a good, a good question. So in the, in the book, we somehow identify 4 different trends that are now being explored. The first one is ecological neuroscience, which uh Vicente is one of the leading figures among others with the Main the beat or You know, people that are trying to, OK, let's gonna bring back uh the nervous system in the story that was somehow neglected for uh most part of the, of the history of the paradigm. There are also like people from early 200 working on social coordination and how we uh understand and interact others and how we can uh build social uh synergies. Also, there are people uh working on, on how to apply ecological psychology to motor rehabilitation and skill acquisitions. So there are people working, for example, on how to apply ecological psychology principles to um physical training, like, for example, applying to uh football or applying to uh basketball to many different sports. That also brings back the, for example, for collective sports, the social coordination approach. There are also people like, like me or Harry Heft uh interested in, in making space for uh cultural and social normativity in the theory and also like people working on um technological applications like sensory substitution. So there are actually many different uh approaches that are being developed there. So I know this can't remember any other"
+	},
+	{
+		"start_time": "41:53",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "when I think about it is like. We are, uh, I think we are kind of as good or as bad as always. Um, AGAIN, ecological psychology has been the other psychology or part of the other psychology, so it's minority. We are very few people doing this, um. In kind of in a, in a constant struggle for survival, right? Because we, we need in almost any venue we need to justify that we exist, right? Um, I call it sometimes the ecological handicap. EVERY talk I give that is not for ecological psychologists. I need to spend like at least 20% of it justifying why I'm doing this, what ecological uh psychology is, right? And then, um, so, uh. I like to say sometimes that in some ways we've lost the battle, right? Um, COGNITIVE psychology is so dominant everywhere, right? Um, THAT we are a very small, uh, a very small paradigm, but having lost it, uh, there are like 50 years of continuous empirical research, right? So I think we are surviving and hopefully, you know, uh, us also. I think cognitive science and cognitive neuroscience is reaching some limits on ecological validity and that kind of stuff. I think they are looking out for tools to try to, to be more, you know, to, to, to, to make more sense of the whole organism and the environment in our experiments and in the and I, and I think it has, uh, something to, uh, to say there, so."
+	},
+	{
+		"start_time": "43:33",
+		"speaker": "Ricardo Lopes",
+		"words": "So, I mean, when it comes to what we could consider to be more mainstream in psychology and particularly in cognitive psychology, uh, ecological psychology is not that, right? I mean, it's not. Mainstream at all."
+	},
+	{
+		"start_time": "43:52",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "It's, it's, it's super minoritary. I would say that most people, if, if you go to any cognitive cognitive psychology or cognitive neuroscience department, random one and you ask a random uh person that do you know ecological psychology, the standard is no. And whoever knows I've heard about it, but yeah, no, no. Yeah, mhm."
+	},
+	{
+		"start_time": "44:12",
+		"speaker": "Vicente Raja",
+		"words": "And so this is some kind of very strange phenomenon that for all, we, we have many, many friends that work, uh, doing empirical research in like a psychology and I've heard this story many times that for them it's easier to get grants in philosophy than, than in psychology. So it's easier for them to get a Funds to do psychology they apply to philosophy grants and to do it in psychology because when they, they apply to psychology grants, they usually get some uh psychologists who come to science from very mainstream and say, well, you know, we, and the, the usual response is, well, we all know that coal psychology is either a form of behaviorism, so it's dead, or we all, we all know it doesn't, it doesn't work on what is psychological psychology. So are the three default answers that they, they get. So that's"
+	},
+	{
+		"start_time": "44:56",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, and how successful has ecological psychology been experimentally?"
+	},
+	{
+		"start_time": "45:04",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "This is a question I think very successful given that only a few people are. Doing that, right? So, so in, in broad numbers, there's no comparison. There's maybe only a few 100 ecological psychologists in the, in the, in the world right now, right? What you are going to be able, able to be funding tens of thousands of, of uh cognitive psychologists slash neuroscientists, right? So, given that the small community and that those, those difficulties for funding and, you know, and, and to get published sometimes. Etc. I think, you know, again, you, you have an, an steady stream of empirical work since, since the mid-seventies as uh uh up to, up to date. So I think it's, it's uh there's experimental success there. Um. Although experimental success is always difficult to, to evaluate, uh, because The thing is that would a cognitive psychologist take uh experiment in ecological psychology to be successful? In, in what sense, right? Like, like we are critical with some of the experiments cognitive psychologists think are successful. I think they, they would be critical, um, with us, so yeah."
+	},
+	{
+		"start_time": "46:28",
+		"speaker": "Ricardo Lopes",
+		"words": "Now, do you have anything to add to that doctor or to,"
+	},
+	{
+		"start_time": "46:31",
+		"speaker": "Vicente Raja",
+		"words": "no, no, no, I, I, I was about to say that, that, that the, the question is difficult to, to answer because it's difficult to measure, uh, empirical success. I mean, in the ecological psychology paradigm, yes. If you ask someone outside, they would say no. Yeah."
+	},
+	{
+		"start_time": "46:48",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND how do you look at the future of ecological psychology?"
+	},
+	{
+		"start_time": "46:55",
+		"speaker": "Vicente Raja",
+		"words": "Well, I'm, I'm optimistic actually. I'm, I'm optimistic that uh new people are The fact is that ecological psychology is not dead. It's not dead because uh every year new students come, uh, every year, I mean, some people get keep getting grants and keep getting, uh getting new students, people interested. So I, I wouldn't say it's dead. So I'm, I'm in a way, I'm, I'm optimistic. Do I believe ec psychology is gonna, is gonna become the new mainstream now. I don't believe that. I mean we are far away from this universe actually. But I think there are a lot of uh interesting and cool people doing really interesting work, um, applying uh ecological principles to, to many different areas and also bringing into ecological psychology, uh, explanatory tools and uh techniques that were not there before. So in a way, I'm, I'm, I'm quite optimistic about the future."
+	},
+	{
+		"start_time": "47:47",
+		"speaker": "Ricardo Lopes",
+		"words": "And uh how do you go about integrating it with neuroscience?"
+	},
+	{
+		"start_time": "47:53",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Um This is, this is, uh, the thing I've spent the last 10 years trying to do, kind of, uh. Um, Ecological psychology has been Generally ignoring neuroscience for some reasons that we don't, I, I don't think we need to get into, but there were some particular reasons why the leading figures of ecological psychology for years didn't really pay attention to physiology in general or, or at least to neurophysiology. Um, But in the last year, in the last 10 years or so there have been a few people that we've been trying to, to, to think of, OK, if the brain is not in the business or in the business of building up an internal model of the external environment, what is the business, what is the brain doing here, right? Uh, WHAT, what's the, what's, what's, what's the role and how can we study it? And so my, in, in my, in my own work, I recover uh the notion of resonance. Um BASICALLY, James Gibson says what the brain is doing is not building up an internal model but resonating to uh to ecological information, which is that reads information in the stimulation, right? So, of course he uses in some metaphorical way, but he takes it from Lashley, which is a neurophysiologist in the, in the early 20th century. So there are some ideas there, but the, but the, but the main idea is that what the brain is doing is somehow coupling to that information, right? So it's reshaping its its own dynamics uh with respect to that information. And that's uh the basic idea that I've, uh, labeled that psychological resonance as to refer to this particular thing, you know, what's, uh, how, how the, how the dynamics of neural activity get coupled or shaped or entangled to ecological information. Um, So by, by doing this, I think you get what ecological psychologists would like, right, which is like uh Uh, a way to talk about brain activity without saying that brain activity is modeling, representing, uh, building up. Anything but, you know, but having its own dynamics, which is uncontroversial and through the interaction with the environment, those dynamics get coupled to, to something that is already there, right, which is the, the ecological information. Um, AND so this has been theoretical work on my part and I've been the last 5 years or so trying to do experimental work on that. We have already a print out and we have some other works that are going on by people like Ruth Vander Van der Bell and Audrey van der Meer that are doing really, really cool work using EG uh to explore brain dynamics and to see whether there's this, this, this resonance, right? Um, MYSELF with, with the Professor Klaus, Klaus Grahaman at the at the Technical University of, uh, Berlin, we, we have, again, we set that, we set up an experiment that, that combines uh virtual. Reality and and eye tracking and Mo EG trying to explore this kind of stuff. And of course there are other people like Miguel said Matthew the which are doing other cool stuff. Lou Louis Favela has this book The Ecological Brain in which uh you have some form of, you know, um um an understanding of ecological neuroscience as we could call it. Uh, FROM the point of view of computational neuroscience and other methods, manifolds, that kind of stuff. So I think this is, this is a trend that, that we are trying to build up and, and uh I think it's going to keep growing in the next few years. Also because importantly people in cognitive neuroscience departments. Uh, WANT to have experiments that are ecologically valid, so they are interested in how the hell can we include the environment in our experiments. If, if any of you have ever been in an, in an, in an FMRI, the FMRI is a very weird place, right? And it's not a very naturalistic uh way to understand that, right? You are, you are laying there with a lot of noise, not moving the head, right? Like, so what can we do? To try to be more, more ecological, right? More including our own body and the things we do and the, and the environment in this, and there are already many labs that are trying to do this. I'm familiar, for instance, with, with, with the, the lab of Jodi Cola at Western University in Canada. Uh, THEY invented this kind of trade to, to show actual objects to the, to, to, to the FMRI people, right? And you know, trying to include not pictures but objects is already a step. Towards a more realistic environment, right? And as the whole field moves that way, I think they are going to find interesting stuff within ecological psychology even if they don't buy the whole package, right? So I think it's um. Good years um ahead of us."
+	},
+	{
+		"start_time": "53:27",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. By the way, you mentioned Doctor Favela's book, The Ecological Brain. I actually have an interview with him about that book on the show. So if people are interested, you can go and watch it. Uh, BUT I mean, do, do you think, or do you have the sense that neuroscientists, uh, take ecological psychologists more seriously than cognitive psychologists do, or"
+	},
+	{
+		"start_time": "53:55",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "not? Um. I don't think so. Uh. It is interesting, like, like there's a, there's a last week, uh, a new grant was announced, um, $10 million for 8 years to study ecological neuroscience. Uh, AND they, and they explicitly refer like that they were inspired by ecological psychology, blah blah blah, but no single ecological psychologist was part of that grant, right? Which is, I mean, uh, so when you say that some people can hear oh that there, therefore the ground is bad. No, the ground is awesome, right? It's very cool, successful cognitive neuroscientists that are trying to explore according to them how affordances are encoded and represented in the brain. Of course, for a, for, for a, for, for an ecological psychologist, this is not the right way to look, to look uh at affordances, right? We, we've been telling that affordances are there. Uh, PRECISELY, uh, to try to avoid the need to, you know, to have internal models representations. But anyways, I think this is a good step, right? It's, it's, it's the whole field moving towards ecological uh concepts and this is good. And I think they are going to do cool stuff and they are going to, to read more ecological psychology and we are going to be more visible in some ways. Now. Again, are they doing that by including us, so, so to speak, or including the people that have been doing ecological neuroscience for years now? Not really, right? So do they Pay more attention. Not really, but, but I think my point here is more like it's unavoidable given, given the limits they are facing in terms of ecological validity and the naturalization of their experiments. Ecological psychology or something in that camp is going to become unavoidable."
+	},
+	{
+		"start_time": "56:01",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, another thing that you talk about in your book is the study of social coordination. Uh, I mean, first of all, what is social coordination and can it be studied through ecological psychology?"
+	},
+	{
+		"start_time": "56:20",
+		"speaker": "Vicente Raja",
+		"words": "Yeah, well, I can. I mean, uh, it kind of has been studied for, for decades already. I mean, the work on Mike Richardson, Kerry Mars, and there are many people working on, on that um are really inspired by some remarks by James and Gibson. The social coordination is our ability. TO act with others, for example, to form dyadics or to, to collaborate in in tasks, to play sports with others. So it involves our, our ability to understand what the others are doing and to understand what, what we have to do to contribute to this uh group action, right? And the idea here is that uh you should be able to study social coordination the same way you study individual coordination with the environment. So there should be information about the environment and about the others that specifies what you can do there. So how you can behave. What options you have, etc. So basically the principles are the same. The only difference is that instead of uh speaking about a person and a material environment, so to speak, we're, we're speaking about different people acting together in a material environment. So there is information about the objects and information about what the others are doing. And that the, the quality of uh colega in correlations, it's actually a very good example of uh successful research doing chole psychology with dynamical systems theory. So once you introduce more people there, then the to introduce dynamical system is obvious. You need to have like a lot of uh differential equations and temporal analysis because otherwise impossible."
+	},
+	{
+		"start_time": "57:51",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So there's one last uh topic that I would like to ask you about. Uh, HOW about the study of culture? I mean, is there space for the study of culture within ecological psychology?"
+	},
+	{
+		"start_time": "58:07",
+		"speaker": "Vicente Raja",
+		"words": "Well, I, I guess that's uh that's my turn to. Well, I think it, it must, it has to be based there. So unless you believe human perception and action is completely secluded from cultural influences and social influences, unless you believe that and be my guest if you believe that. Unless you believe that, then you need to have some space for that. The question is how, that's the big, that's the big, the same way as, as was saying, well, unless you believe that the brain doesn't play any role in perception and motor control, then you, the question is how, what is the role of the brain? OK, then the same question applies here. So what is the role of culture? What is the role of the role of social normativity? How does it, how does is involved here? How does, how do social norms affect the way we perceive and interact with affordances? Well, there's a question that for many years too was also like ignored by psychologists uh until uh people like Uh, it was already mentioned in some of the words of Eleanor and, and James Gibson, but then Edward Reed, uh, especially Harry Heft, is the one who, uh, uh, was more interested in that, and now I'm working on that also like inspired by Heft and in constant, uh, debate with him. So we're trying to, to understand how, uh, social norms and cultural norms can influence perception and action. And there are different options, different Possibilities. There is also like this um uh work um um values, uh, do you remember the name of uh oh. I'm sorry, I, I can't remember the name of the, of the researcher working on that, but yeah, there is, there are different options, different people working on, on the, on the topic."
+	},
+	{
+		"start_time": "59:49",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, uh, I mean, Doctor Raja, is there anything you'd like to add to that or?"
+	},
+	{
+		"start_time": "59:56",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "Um, YEAH, I mean, I, I think, uh, um, It is, it is difficult to think about how ecological psychology can get to that. It should, I agree with, with, with, with uh Miguel. I think it is going to change when it happens, um. Uh I don't know how it is going to change, uh, but, but I think, yeah, uh. The thing is that it is also possible that ecological psychology is just not enough and that's OK too. Uh. Um, Human psychology and animal psychology and maybe plant psychology as as Miguel and I have, have, have worked on, uh, sometimes it's super complex, it's, it's super, you know, intruncated. Maybe we cannot. We cannot explain everything with just one theory, right? Uh, I'm, if I, if I, if I swear some alliance in the psychological camp, my alliance is to, is to, is to, is to Will and James, and he basically says that in the principles of, uh, psychology, right? Like the, he says, uh, something like, um. The, the, you know, the, the, the boundaries of what is mental are, are blurry. It's better to not to be pedantic and to leave our side uh as, as, as, uh, blurry too, right? Like as open-ended kind of thing. So, so yeah, I, I, I mean, I think, I think at least at least ecological psychologists eventually should have something to say about it, even, even if what if what is to say is that we are not enough."
+	},
+	{
+		"start_time": "1:01:49",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so any last uh message uh Doctor Orin or can we wrap it up?"
+	},
+	{
+		"start_time": "1:01:58",
+		"speaker": "Vicente Raja",
+		"words": "No, I don't have any final remark or anything. OK, psychology is alive and that's what some people seem to believe,"
+	},
+	{
+		"start_time": "1:02:06",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "and we have a book, a short book about it, so you can say that, yeah,"
+	},
+	{
+		"start_time": "1:02:10",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah, yeah, uh, it's psychological psychology. I'm leaving a link within the description down below and, uh, where, just before we go, where can people find your work on the internet, Doctor Martin and Doctor Raja."
+	},
+	{
+		"start_time": "1:02:29",
+		"speaker": "Vicente Raja",
+		"words": "Well, I guess they can, they can buy from the Cambridge University press website. Uh, ALSO they can email us and we can send them some pre like pre-print version of those ones that are, that we are actually allowed to share officially. And yeah, I mean, we, we try to publish as many papers as possible to open access because we think that people should be able to read it without having to pay subscription to journals or being Affiliated to universities that have those subscriptions. But anyway, I, I always like Encourage people, my students. I, I, what I tell them is that, well, you know, researchers, Write papers to be read. I mean, it's not that we write papers to just to be online. So if you can't find a paper, if you can't access a paper, the best strategy usually is to contact the researcher, uh her or himself, because they are actually happy to send you. I mean, there's no point to to write a paper for if no one can read it. So if people can't access our paper, then please contact us because we will be more than happy to send you everything that we can and we"
+	},
+	{
+		"start_time": "1:03:34",
+		"speaker": "Miguel Segundo Ortín",
+		"words": "have."
+	},
+	{
+		"start_time": "1:03:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. OK, great. So thank you both so much for taking the time to come on the show. I really like the book and it goes in line with other interviews I've done recently on dynamical systems theory, ecological psychology as well. So thank you so much for taking the time to come on the show. Thank you for having us. Yeah, thank you. Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Matri Robert Windegaruyasi Zup Mark Nes called Holbrookfield governor Michael Stormir Samuel Andrea, Francis Forti Agnunseroro and Hal Herzognun Macha Jonathan Labrant Ju Jasent and the Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan Wilson, Asila dearraujoro and Roach Diego Londonorea. Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynalebaa medicine, Gary Galman Samov Zallidrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon Scorteus Slelisky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old Eringbo. Sterry Michael Bailey, then Sperber, Robert Gray, Zigoren, Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levin. And yoursnacht, a special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernardin Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Lavender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]

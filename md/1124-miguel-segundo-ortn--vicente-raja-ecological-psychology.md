@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1124 Miguel Segundo Ortín & Vicente Raja: Ecological Psychology",
-	"youtubeid": "s6EwRYqmP64"
+	"vtt": "1124.vtt",
+	"youtubeid": "s6EwRYqmP64",
+	"transcript": "1124.lines.json"
 }
 ---
 RECORDED ON MAY 7th 2025.  
