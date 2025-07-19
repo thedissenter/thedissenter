@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/102379492/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-8%2F35f4a424-9e74-2566-0a24-93754836c11f.m4a",
 	"draft": false,
 	"episodeid": "1125",
 	"excerpt": "Dr. Daniel Fessler is a Professor of Biological Anthropology at the University of California, Los Angeles. He is an evolutionary anthropologist whose principal focus is contemporary humans. His research currently focuses on a number of domains, including: emotions; disease avoidance; morality; prosociality and cooperation; conflict, aggression, and risk-taking; cultural transmission; food and eating; and sex and reproduction.",
 	"image": "https://i.ytimg.com/vi/OPCxAEXqSvQ/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1125-daniel-fessler-physical-formidability-male-muscularity/id1451347236?i=1000717989080&uo=4",
 	"publishDate": 2025-07-18,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1125-Daniel-Fessler-Physical-Formidability--Male-Muscularity--Pathogen-Avoidance--More-e32ish4",
 	"tags": [
 		"Anthropology",
 		"Psychology"
