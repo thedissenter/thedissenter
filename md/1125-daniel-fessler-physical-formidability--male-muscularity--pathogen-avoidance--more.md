@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1125 Daniel Fessler: Physical Formidability, Male Muscularity, Pathogen-Avoidance & More",
-	"youtubeid": "OPCxAEXqSvQ"
+	"vtt": "1125.vtt",
+	"youtubeid": "OPCxAEXqSvQ",
+	"transcript": "1125.lines.json"
 }
 ---
 RECORDED ON MAY 8th 2025.  
