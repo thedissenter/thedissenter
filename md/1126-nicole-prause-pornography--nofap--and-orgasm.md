@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1126 Nicole Prause: Pornography, NoFap, and Orgasm",
-	"youtubeid": "SHUhmiCYQlA"
+	"vtt": "1126.vtt",
+	"youtubeid": "SHUhmiCYQlA",
+	"transcript": "1126.lines.json"
 }
 ---
 RECORDED ON JUNE 27th 2025.  
