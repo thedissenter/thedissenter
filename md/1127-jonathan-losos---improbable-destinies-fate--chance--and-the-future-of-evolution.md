@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1127 Jonathan Losos - Improbable Destinies: Fate, Chance, and the Future of Evolution",
-	"youtubeid": "R5HUAaV3gog"
+	"vtt": "1127.vtt",
+	"youtubeid": "R5HUAaV3gog",
+	"transcript": "1127.lines.json"
 }
 ---
 RECORDED ON MAY 12th 2025.  

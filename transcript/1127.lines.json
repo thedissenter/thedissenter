@@ -1,0 +1,217 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lopez, and today I'm joined by Doctor Jonathan Lossus. He is the William H Stanford Distinguished university professor at the, at Washington University in Saint Louis. And today we're going to talk about his book Improbable Destinies, Faith, Chance, and the Future of Evolution. So Doctor Losses, welcome to the show. It's a pleasure to everyone."
+	},
+	{
+		"start_time": "00:29",
+		"speaker": "Jonathan Losos",
+		"words": "Ah, the pleasure is mine. Thank you, Ricardo."
+	},
+	{
+		"start_time": "00:32",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me start by asking you, uh, how were you influenced by the work of Steven J. Gould? And I mean, what aspects of his work influenced you the most?"
+	},
+	{
+		"start_time": "00:46",
+		"speaker": "Jonathan Losos",
+		"words": "Well, I was very much influenced, uh, as a, as a boy, I was very interested in science and evolution. And, uh, my father was also interested in these topics, and we subscribed to a magazine called Natural History Magazine, for which Stephen Jay Gould wrote a column every month. And his columns were extremely well written, and they were about matters of, of evolution. And many of his, uh, his famous scientific ideas were discussed in these, these columns. So I, I grew up reading his ideas about the evolutionary process. Then I had the great fortune to take a class with him at university in my, my first year at college where he basically talked about the same things as he did in his columns. The, the course was rather humbly titled The History of Earth and of Life. And it was just about his ideas of Of the evolutionary process and so on. And so, in my formative years, I, uh, I, I learned a lot about him. As for which particular ideas, um, I mean, it's hard to pick them out. His worldview about the, uh, importance of contingency and chance, about, uh, the, the importance of processes other than natural selection, guiding evolution, and so on. It was, it was his whole worldview that, uh, that I learned as I grew up. Now, I'm not saying that I subscribed to everything that he, uh, believed in, but it certainly had a great influence."
+	},
+	{
+		"start_time": "02:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Sure, and and what were his main ideas about evolution?"
+	},
+	{
+		"start_time": "02:21",
+		"speaker": "Jonathan Losos",
+		"words": "Well, he had a number of ideas. Uh, HE'S probably most famous for the theory called punctuated equilibrium, the idea that for long periods of time, a species would remain basically unchanged, and then it would change to a great deal over a short period of time, uh, perhaps linked with the process of turning into a new species. Uh, SO that, that was probably his most famous idea, but he also argued that we can't, uh, we, we can't interpret every feature we see in an organism as an adaptation, something sculpted by natural selection, that there are other processes that also can lead to evolutionary change. And he also argued that uh that all of evolution did not occur occur at the level of selection on populations. Sometimes, well, for example, he might say, why are there so many species of rodents, several 1000 so few of monotrenes, the platypus and the echidna, and that might not have anything to do with rodents being more adaptable. It might be something. Some other factor that just uh caused them to speciate more frequently. So those, those were a number of, of his uh scientific ideas."
+	},
+	{
+		"start_time": "03:38",
+		"speaker": "Ricardo Lopes",
+		"words": "And apart from natural selection, which other mechanisms play a role in evolution?"
+	},
+	{
+		"start_time": "03:45",
+		"speaker": "Jonathan Losos",
+		"words": "Well, the other mechanisms that play a role are things like gene flow, the exchange of genes between populations, um, mutations, the extent to which mutations occur in more in some ways than others. Uh, INBREEDING between populations, and I am blanking on one. There is one more that I is just not popping into my head. Well, it'll come back to me. And then, of course, as the point I made a moment ago, in addition, evolution occurs not just due to the processes that work within a population, but in addition, uh, they work at selection at other levels, at selection favoring some types of species over others, as I just mentioned a moment ago. The last process is genetic drift, uh, which is an important one for Gould, that random changes that occur just for no selective reason. Most frequent in small populations."
+	},
+	{
+		"start_time": "04:44",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, WHAT about the role of chance events like for example, the asteroid that led to the extinction of the dinosaurs and the leather rise of the mammals?"
+	},
+	{
+		"start_time": "04:55",
+		"speaker": "Jonathan Losos",
+		"words": "Well, that was an important idea that gold championed that. That stuff happens, basically, that could change the, uh, the direction of evolution, like the asteroid that that hit Earth 66 million years ago, that essentially wiped out the dinosaurs, except for the birds, and a lot of other creatures, and gave mammals their real chance to flourish. And that was just A a happenstance. What if that asteroid had zoomed right past the planet without hitting Earth? We would be in a very different place today. So yes, Gould argued that what he called contingent events, unpredictable, not, uh, yeah, not unpredictable contingent events could radically change the shape of evolution."
+	},
+	{
+		"start_time": "05:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, WHAT is convergent evolution and does it go in any way against frameworks like rules based more on unpredictability and non-repeatability?"
+	},
+	{
+		"start_time": "05:55",
+		"speaker": "Jonathan Losos",
+		"words": "Well, convergent evolution is the phenomenon that occurs when two species independently evolve the same features and uh Oftentimes it is the result of species adapting to the same environment in the same way. They are experiencing the same natural selection pressures, and they evolve the same adaptation. So often it is taken as evidence of adaptive evolution. Uh, SOME people have argued that that. Convergent evolution is very common in the natural world and that it goes against Gould's argument of the importance of, of happenstance and the unpredictability, the unpredictability of evolution, because it indicates that in fact, the same thing does happen repeatedly and that in some sense one could predict if convergent evolution is common, that a population experience of a particular environment will evolve in a particular way."
+	},
+	{
+		"start_time": "06:59",
+		"speaker": "Ricardo Lopes",
+		"words": "And how do we study the mechanisms behind evolution, like, as we mentioned earlier, natural selection, but also genetic flow, genetic drift, and so on."
+	},
+	{
+		"start_time": "07:12",
+		"speaker": "Jonathan Losos",
+		"words": "Uh, WELL, there's two main approaches. One is to actually study populations and measure what's going on, measure whether natural selection is occurring or measure the extent of gene flow between populations. And one of the things that we have realized as evolutionary biologists in the last few decades is that evolution uh can occur very rapidly. This is something that Charles Darwin. Thought did not happen and uh it's amazing Darwin was right about so many things for which there was no evidence in his day. He just figured it out, but this is one thing he, he got wrong, and that is he thought that evolution proceeded extremely slowly, so slowly that it would take thousands of years to see any sign of it. And for that reason, Darwin never even proposed that you could try to, to study it as it occurred because it would take too long. But we now know that's wrong, that when natural selection pressures are strong, when the environment changes or uh population experiences a different environment, they can adapt very quickly. And what that means is that we can actually observe evolution as it happens over, over, not just a human lifespan, sometimes a couple of years. Uh, SO that is one approach to the, the study of evolution is studying it in the here and now, see what's happening. The other approach is to look at the fossil record and see the changes that have occurred over the eons and try to figure out the processes that um That led to those changes. And so to some extent in the here and now we can study the process and with the fossil record we can see the pattern and the real challenge is to connect the two, to take what we know about what goes on in short periods, and can we extrapolate or somehow apply that to understand what's gone over long periods of time."
+	},
+	{
+		"start_time": "09:04",
+		"speaker": "Ricardo Lopes",
+		"words": "When we want to understand the evolutionary origins of any particular kind of trait, where should we start from?"
+	},
+	{
+		"start_time": "09:13",
+		"speaker": "Jonathan Losos",
+		"words": "Well, Probably. Uh, THE first place to look at is the fossil record, to see if we can see the record by which that trait has evolved, when it occurred, in what species, how often it occurred, and to get the, the historical record. Then if it's possible to study how that trait is functioning today, is natural selection favoring it? Is it still changing? In a few cases, you can actually do experiments to, to try to simulate the evolutionary origin of that trait, uh, and to try to understand the processes that may have under underlain that evolution."
+	},
+	{
+		"start_time": "09:57",
+		"speaker": "Ricardo Lopes",
+		"words": "And what do you think of adaptationist approaches to evolutionary biology? I mean, since not all traits are adaptations."
+	},
+	{
+		"start_time": "10:08",
+		"speaker": "Jonathan Losos",
+		"words": "That's a, that's a great question, and that's a, a topic that has been debated for decades. That's certainly what Gould, uh, one of the strong points that Gould made was arguing against the primacy of adaptationism as the explanation for uh evolutionary patterns. Uh, I have. I have mixed feelings on this. On the one hand, I think it's no doubt that natural selection is the strongest evolutionary force. And so it is reasonable to ask when you see some feature, particularly an odd feature, to try to figure out How could natural selection have favored that? How could the evolution of this trait actually be beneficial to organisms? At the other hand, however, we need to recognize that adaptation and natural selection aren't the only processes, and there, there are other reasons that a trait might evolve and particularly along those lines. It's important to remember that for natural selection to happen and to lead to evolutionary change, you need variation in a population. If all individuals had brown eyes, then, uh, evolution couldn't occur because there's no variation to, uh, for natural selection to favor. So not until a mutation occurs and someone has blue eyes or green eyes. Once there's variation, then Evolution can occur, and the reason I emphasize this is that the production of variation is as important as what natural selection does with it. If certain types of variation are more likely to occur in a population due to mutations or whatever, the map may bias evolution in certain directions, or conversely, if variation for a trait never appears, then it can't evolve. For example, People have studied, tried to select individuals that are asymmetric on the left side or the right side of their body that, uh, they've done this a lot in fruit flies and in other organisms. Try to pick individuals that, um, have longer left legs than are bigger left wing, bigger wings on the left side of their body than the right side of their body. You just can't do it. And the reason is there is no gene. Through wings on the left side, there are just genes that affect the size of wings in general, both left side and right side. So there's no, no genetic variation that can be favored to cause left-winged fruit flies. Now you can get fruit flies that are more variable, but it's balanced. It's either left or right side. So, uh, the point is that the production of variation and the mechanisms underlying that can guide evolution. As much as natural selection, or at least both of these processes are important, and the production of variation is something that isn't necessarily regulated by natural selection. The, so, adaptation, in other words, is limited by the, the variation that can be produced."
+	},
+	{
+		"start_time": "13:13",
+		"speaker": "Ricardo Lopes",
+		"words": "So in studying evolution and gathering more evidence to support it and also understanding how it works, how it plays out. Tell us about experimental evolutionary science. What is it and how is it done?"
+	},
+	{
+		"start_time": "13:30",
+		"speaker": "Jonathan Losos",
+		"words": "Well, um, When natural selection was first proposed as the mechanism of evolution by Darwin, excuse me. Um, THE idea didn't actually catch hold right away, that Darwin convinced much of the learned world that evolution had occurred, but they were, the world was much less convinced that natural selection was the mechanism. And it wasn't until the early 1900s, about a century ago, that the field of genetics took off and people came to understand that natural selection was a powerful force and a lot of The evidence supporting this came from experiments in the laboratory on organisms like fruit flies where you could take a population of fruit flies and measure the size of their wings and only keep the ones with the biggest wings and breed them with each other and again in the next generation pick the ones with the biggest wings or the most spots on their side or any other trait and almost invariably. That population would evolve the trait being favored. Excuse me. And so that laboratory proof that, that is experimental evolution and such research has continued for a century, and it's basically shown that you can select on almost any trait in a laboratory population and get an evolutionary response. Not every trait. I've always already talked about when you can't get a response, but almost every trait, showing the power of natural selection. Well, in recent years, people have taken this approach into the field and studied organisms in a natural context to measure natural selection and see if evolution occurs as a result of it. And so that's an area that's really taking off and is showing that what we've learned in the lab pretty much transfers to the field as well."
+	},
+	{
+		"start_time": "15:23",
+		"speaker": "Ricardo Lopes",
+		"words": "So in your book you talk about experiments done with, for example, fruit flies, bacteria, foxes, field mice. Could you tell us about at least one or two of these examples and experiments that can be run and have been run on them?"
+	},
+	{
+		"start_time": "15:42",
+		"speaker": "Jonathan Losos",
+		"words": "Sure. Well, the first experiment that really got attention was one done on guppies on the island of Trinidad, done, that work was now 40, done 40 years ago. It was uh initiated by John Eler, uh, an evolutionary biologist now in Australia. And basically, he was aware of previous work on these guppies. So guppies, as most people know, are these colorful fish that you see in pet stores, and many people, hobbyists keep them. And, but few people know where they live, and where they live is in the mountainous streams of Trinidad and Northern South America. And in those streams, there's an interesting pattern that in Lower parts of the streams, the, the fish are quite bland in coloration, but higher up in the stream, higher in the mountains, the fish are quite colorful. And it turns out that this pattern is associated with the presence of larger predatory fish. And so the idea that had been proposed was that uh that female guppies prefer to mate with males that are very colorful. We don't know why. It's certainly true, we now know, and that, but still, still trying to figure out why, but they do. And so in areas high in the mountains where there are no predators, the flashiest, most colorful guppy male gets the most matings and passes on its genes. However, lower down in the stream where the predators occur, the males are too conspicuous, and the, the predators pick them off. And so even if females prefer gaudy colored males, they don't last long enough, and so natural selection favors a more camouflaged color. Well, that's a, a reasonable hypothesis, but as we always say in, in many aspects of science, correlation does not prove causation. That's what experiments are for. ACTUALLY test whether the the process we presume causes the correlation actually does. And so that is what Endler did. He took some guppies from a pool where there were predators and they were bland guppies, and he just moved them slightly up the stream past a waterfall that the predators couldn't get, get past. So, and in fact, this pool was empty. So we put these bland guppies in the empty pool, no predators. And just watched them. And very quickly, after just a few, uh, a few years, the males have evolved to become quite colorful, just as predicted. And that experiment was then, uh, repeated in other, in other pools in Trinidad, also in laboratory greenhouses and, in little swimming pools, and the results are very consistent. And they demonstrated that predation is the selective pressure affecting color. AND guppies. And so that was a brilliant experimental program. I should say it's continued to this day, led, uh, particularly by David Resnick at University of California Riverside looking at many other features of the guppies and how predation affects its evolution. So that, that's, uh, that's probably the first really high profile experimental work in evolution. Experimental work on evolution in nature. Um, MY own work with colleagues at the University of California, Davis, and, and elsewhere on the length of lizard legs. It was uh similar in scope. What we did is we worked in the Bahamas where a very common lizard that I've spent my life studying the brown aolus lizard, occurs, and the brown onol occurs almost everywhere, even on tiny little islands. And I mean, islands that are the size of, uh, a pitcher's mound, well, small islands, that's the size of the infield on a baseball diamond or size of a basketball court, say. And you can find these little brown and holes. And this work was done in the Bahamas and on many of the larger islands. There's a larger lizard that occurs only on the ground that uh that eats smaller lizards. It's called the curly tailed lizard. Excuse excuse me. Now, one more thing I need to tell you, two more things I need to tell you. Um, THESE types of lizards, I spent my career studying. There are 400 species of them throughout the Caribbean islands, Central and South America, very diverse group. And one feature that varies among different species is how long their legs are. And moreover, there is a relationship between how long their their legs are and the size of the. Of the branches they use because they're mostly up in the trees, though some come down to the ground. The lizards that occur on broad surfaces have long hind limbs. Ones that use narrow surfaces have short hind limbs, and we actually know functionally why that may be that on a broad surface, like a big tree trunk, the longer your legs are, the faster you can run because you can take longer strides. But on narrow surfaces, long legs are a disadvantage because it's hard to to grab the surface, and actually shorter legs are more efficient. And so, for various reasons, it seemed that leg length in these lizards was an adaptation to using different surfaces. But again, as I mentioned a moment ago, correlation does not prove causation. The ideal thing to do is to do an experiment that make lizards use different surfaces and see if they adapt. And so what we did is we took these tiny islands that had the brown annoles that had long legs, no, I'm sorry, um, I need to tell you one other thing. We, we found some islands that had no anols at all, small islands. That we're empty of the holes. We now know the reason, and that is hurricanes come through every, every now and then, and because the islands are, are low lying, they just wipe everything off. But then, if the lizards get there, which they do naturally colonize islands, they can establish a population and, and persist till the next hurricane. So what we did is we used these little islands as little test tubes, and we basically took the brown and owles and established them on these small populations. And I want to be clear here, the brown and Oles are native to this area that we took lizards that occurred 100 yards away on a bigger island. And so we're just sim simulating the natural process of colonization, which we've seen occur naturally. So we put the lizards on the islands. And then we um. We introduced the curly tail lizard, also native to the area, also on the next island over to half the islands, uh, deciding randomly which which islands got curly tail lizards and which ones didn't. And the reason we did that is that we expected that the brown and Os would use the ground a lot. In the absence of curly tail lizards, but when we introduced these predators, which basically only use the ground, the lizards would move up into the bushes to get away from them. And moving up in the bushes, they would have to use the narrow surfaces, because these were islands that didn't have very thick vegetation. And so the predators were a way of, of causing the lizards to change their habitat use. And the question is, once they're up in the, in the, in the bushes, using the narrow surfaces, would they evolve shorter legs? And the answer is yes, they did. We measured, we could measure uh natural selection. It was quite strong on limb length, and over, uh relatively short periods of time, lizards did evolve shorter legs to use the narrow surfaces. So those are 22 of the first studies that, that tested evolutionary hypotheses experimentally in the field. Now that this approach has become much more common, and many people are, are looking at a wide variety of organisms in many different contexts to, to ask these sort of questions."
+	},
+	{
+		"start_time": "23:27",
+		"speaker": "Ricardo Lopes",
+		"words": "That's really fascinating. And what brings about variation in evolution? Is it simply mutation or are there other factors?"
+	},
+	{
+		"start_time": "23:38",
+		"speaker": "Jonathan Losos",
+		"words": "Well, mutation is the ultimate source of variation, and we know that it occurs, although any given mutation occurring in any individual is very uncommon, but given enough enough individuals in a population in enough years, mutations occur all the time. And so that is the. The ultimate source of variation, but another process I mentioned earlier is genetic exchange among populations that, uh, a mutation may occur in one population and then subsequently an individual from that population migrates to another uh another population bringing that, uh, variation with it. So gene flow in a more, uh. In the moment is a much more potent force of variation than mutation, but mutation is where the, the variation comes from, uh, eventually or initially."
+	},
+	{
+		"start_time": "24:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. What factors play a role in speciation and the diversification of species?"
+	},
+	{
+		"start_time": "24:37",
+		"speaker": "Jonathan Losos",
+		"words": "Well, this is a topic that has long been controversial, and the more we learn, uh, we learn more, but there's still a lot of debate. But I would say the two main processes, and the question is. How important each one is. First is isolation. Two populations that do not exchange genes, uh, they can diverge for many reasons, so that eventually they become different species. And by different species, I refer to the classic definition of a species being two populations that cannot successfully interbreed. And so the more populations. Just evolve differently, the more likely they are to evolve differences that keep them from interbreeding. Now, the other factor is natural selection, that we know that populations that adapt to different environments or adapt in different ways may uh evolve again so they can't interbreed, not because they're evolving necessarily for that reason, but just a consequence of different adaptations. So those are the two main factors. The real debate that occurs is, do you, do you need isolation? If, if, if natural selection is favoring two different types in the same population, can they evolve into different species without being isolated? Or will the genetic exchange between them prevent them from diverging? And that's a topic that has been controversial for half a half a century, and, and the debate still continues."
+	},
+	{
+		"start_time": "26:12",
+		"speaker": "Ricardo Lopes",
+		"words": "I understand. Uh, AND how fast can evolutionary change occur? Do we really need, I don't know, thousands of years, tens of thousands, hundreds of thousands of years for evolutionary change to occur?"
+	},
+	{
+		"start_time": "26:27",
+		"speaker": "Jonathan Losos",
+		"words": "Well, no, certainly not for adaptive change. We've, we've seen that that can occur in years. Uh, DEPENDS on the generation, length of the organism. It will be faster in fruit flies and elephants then, but evolution can occur very rapidly. Speciation, of one species turning into another or one species splitting into two species. Takes longer. Uh, OCCASIONALLY it can occur pretty quickly, but in most cases, it's a longer process."
+	},
+	{
+		"start_time": "26:57",
+		"speaker": "Ricardo Lopes",
+		"words": "How predictable is evolution? I mean, is to what extent can we predict evolution?"
+	},
+	{
+		"start_time": "27:05",
+		"speaker": "Jonathan Losos",
+		"words": "That is another controversial question. You are full of controversial questions of. It depends in part on the scale of what you're asking. If uh, if you put a, well, I, I, as I've told you, experiments in, in the laboratory with fruit flies or or other organisms, if you select. On some trait You can usually get a change in that trait and usually. One you could predict, uh, if you select for larger wings, larger wings will evolve. Now, if you, if you try to I say how the larger wings will evolve, that can be less predictable is it that they evolve, uh. Well, you would have to talk about the structure of the wing, but there are different ways that a wing can be large. And can you predict, if you just predict, if you just select on larger wings, can you predict how the larger wings will be constructed? Maybe not so much. So, um, So the less, there, there's a lot of wiggle room and even in the short term of the details of how evolution occurs, and over longer periods or more substantial changes, evolute, this is the argument that Gould and people like him would argue, no, you can't predict it, unexpected things will happen, asteroids will hit. A major mutation you couldn't predict will occur that will send evolution in a different direction. Other people argue that no, there are best solutions to problems posed by the environment and that populations will find those best solutions. They would argue there might be a best way to build a large fruit fly wing, and populations will evolve that best way. And this is a, this is the debate between Gould and his detractors."
+	},
+	{
+		"start_time": "28:56",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Are the life forms we find on earth mostly inevitabilities, or are they mostly evolutionary flukes?"
+	},
+	{
+		"start_time": "29:07",
+		"speaker": "Jonathan Losos",
+		"words": "Well, that, I mean that gets to the heart of the question that Gould was famous in his, uh, his fabulous book that laid out his ideas. There's a book for the general public that I highly recommend to everyone called Wonderful Life. Uh, HE said something to the effect of, uh, if we could rewind the tape of life. This is a metaphor that increasingly as tapes no longer exist, no one understands it. But if you could go back in time and start again, Would you get the same outcome? And in particular he says would humans have evolved? And his answer was absolutely not. All kinds of random things happen asteroids and ice ages and, well, just random things that could send evolution in a different direction. And so the particular path that evolution occurred. It is unpredictable. Now, there are other people influenced by the ubiquity of convergent evolution who take the opposite view. They, they argue that That there are best solutions that natural selection drives for, and the human form is one of those, those uh, those best solutions. And so they argued that the evolution, perhaps not of humans exactly like us, but of human-like organisms was inevitable. And in fact, there is a, uh, a, a very fun example of this that someone has has suggested a guy named uh Simon Conway Morris, a very prominent paleontologist from England, uh, A different paleontologist years ago pointed out that through time, life brain size tended to increase. If you just looked at the brains of the first vertebrates 500 million years ago and just plotted brain size through time, there has been an increase. And this was true. Even in the age of dinosaurs, as dinosaurs evolved from their origin 240 million years ago till they disappeared, the brain size got bigger, and it turns out that this paleontologist discovered a type of dinosaur very similar to Velociraptor, the famous raptor from the Jurassic Park movies that have the largest brain relative to body size. Of any dinosaur that existed, it occurred right before the asteroid hit. And if you think about Velociraptor and its relatives, here's an animal that walked on two hind legs. It had grasping hands. Remember in the first Jurassic Park movie, it, it turns the doorknob up and had a big brain with eyes forward, kind of like us. And so what this paleontologist had suggested was that dinosaurs were on the way to producing a humanoid type, very intelligent organism. And he even sketched out how that evolution might have proceeded. Very fanciful. I mean a fun idea. Well, Simon Conway Morris has cited this as evidence that if the asteroid had not hit Earth, the mammals would not have flourished. Us human mammal humans would not have evolved. But something like us would have evolved from dinosaurs, and so he was arguing that. The evolution of a human-like organism was inevitable. Uh, SO that's the debate. Gould would have said, nope, we're just a lucky fluke, and if things had happened differently, if that asteroid hadn't hit Earth, humans are nothing like us would ever have appeared. Simon Morris argues we're inevitable. Now, I think that um most people would lean more to Gould's side on this than Conway Morris's, but not every, everyone, and Many people would be in the middle on this debate. I haven't even answered your question yet, and that question is, what about life on other planets? You know, I think that's what you were asking. Um, WERE you asking that? Should I address that question?"
+	},
+	{
+		"start_time": "33:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, I, I mean, before we get to that, because I also have that question here to ask you, let me just ask a more, uh, another kind of question. So, uh, I mean this is something that you mentioned related to Gould's work, but. Then if we replayed life's tape again, should we expect the same results or not?"
+	},
+	{
+		"start_time": "33:30",
+		"speaker": "Jonathan Losos",
+		"words": "Well, it depends on how uh deterministic. So, Gould would say no, Conway Morris would say yes, uh, to some extent, you could argue, if we Went back in time and everything were exactly the same well then it would have played out. The same way that because everything would occur exactly the same way. Uh, YOU know, the raindrops would have fallen in the same way, the comets would have hit the planet or not, and so on, the asteroids, uh. And there's a long philosophical debate on this topic. There are some people who would argue that there is truly indeterminacy in life, that at the quantum mechanic level, how, you know, where an electron is and so on is indeterminate. So that if you went back in time and started up again, that source of indeterminacy might lead the events that occur through time to be different. And so, the possibility that something different could happen does exist, that the asteroid would miss Earth instead of hitting, or other events would be at least subtly different. So that suggests that there is a scope because If, if, if the events were deterministic, then of course life would have to follow the same path if every atom was in the same place. But if that's not the case, there is the possibility for evolution taking different courses, and Gould would argue that it would. Conway Morris would argue, no, that wouldn't matter because natural selection, the, the favored, uh, types would remain the same. The, the favored solutions to the problems posed by the environment."
+	},
+	{
+		"start_time": "35:15",
+		"speaker": "Ricardo Lopes",
+		"words": "And is it possible for us to ever be certain of the correct answer there?"
+	},
+	{
+		"start_time": "35:21",
+		"speaker": "Jonathan Losos",
+		"words": "Well, Yes and no. The, the interesting thing about this is Gould's, Gould idea, let's go back in time, replay the tape. He then said, but of course, that's impossible. This is just a gedanken experiment, a German word. This is just a thought experiment. But in fact, people have come up with two ways of testing Gould's idea. One is to look at convergent evolution, at the fossil record and consider the evolution that and consider uh different species experiencing the same environment to sort of be like replaying the tape. If they're experiencing the same environment, do they evolve in the same way? That's one way, of course, it's a little indirect. The other way is some fabulous laboratory evolution experiments where people have taken uh populations of microbes such as E. COLI and taken genetically identical populations and split them into multiple subpopulations, so they start out completely identical. And then you put them in a new environment, not when they're adapted to. And you ask, do these identical, these initially identical populations experiencing the same environment, absolutely the same, as much as we can control it in a lab environment, do they evolve in the same way? And uh one of the greatest experiments in the history of science was the first to do this. It was a project by a researcher named Richard Lensky at Michigan State University and many colleagues. Well, they did exactly what I described, and what's fabulous about this experiment is it has continued now for more than 30 years. Yes, more than 30 years, and so they have been able to follow evolution in these microbes for, I think, now over 80,000 generations, for 12 populations. Again, they started all identical. They've been exposed to the same environment, but they've evolved independently, and the results have been spectacular. What they've found is That as a generality they have evolved in the same way in many respects, but in a few key ways they have not, and there have been one particular major adaptation that evolved in only one of the 12 populations. It evolved at about 30,000 generations and in the subsequent 50,000 more generations, none of the other 11 populations have evolved this adaptation, showing that. Even in as constant situations could be created in the environment, something different happened in one population, something major different. So, those are such experiments are the closest we can get to actually testing the idea of replaying the tape."
+	},
+	{
+		"start_time": "38:09",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So let us delve into the question of life on other planets, then, which will be my last question. Uh, SO can all of these tell us anything about life on other planets and what, what it might look like?"
+	},
+	{
+		"start_time": "38:25",
+		"speaker": "Jonathan Losos",
+		"words": "Well, this is, this is a, a fun question. Uh, IF you look at science fiction movies, um, Star Wars, Star Trek, whatever, uh, uh, uh, the, the Pandora, was those movies, uh, Avatar, those movies. You know, the, the life on other planets is remarkably similar as it's portrayed, uh, in these movies to life on Earth. Uh, YOU know, a little bit different, maybe an extra eye in the forehead or maybe only 3 fingers, but they're basically humans and other animals we're familiar with. I, I thought that was, uh, really funny in the first Avatar movie. They were just Either living organisms or extinct ones, you know, but with an extra pair of legs or something else, but they were completely recognizable life forms. And I think that the uh underlying idea is that, well, life will evolve in the same way on other planets. I think that's ridiculous. Um, FOR one thing, You know, even though we now understand that there are many planets around other stars in the universe, even in our galaxy, that are somewhat similar to Earth, they're not identical to Earth. They're undoubtedly different in all kinds of ways. And so the likelihood that they would, uh, that the natural selection, if it operated, would occur in the same way, is very low because the actual environments would be different. And um, There's no telling that natural selection would work, that natural selection works, causes evolution because of the particular way that, that traits are inherited due to DNA in On earth, but DNA, there could be other ways of inheritance. There could be multiple sexes. Oh, you know, I know this is a controversial topic, but there could be Multiple sexes that all have to unite to reproduce more than, more than the sperm and the egg. There could be all kinds of different uh ways that that evolution occurs that would shape it in different ways. And frankly, I think that much of the research, when we go to Mars or whatever to try to detect life. Uh, IT'S detecting life by signs that indicate life on Earth, and I think there's a little bit of a lack of imagination in And uh In failing to, to, to investigate whether life could be based on something other than carbon atoms or take different forms. And if that were the case, Life might be radically different. Uh, I like the minority of science fiction films in which. Life on other planets is, you know, completely unlike life on, on our planet. And um, I think, personally, I think that's much more likely. And there are some people who are researching this sort of idea. The the problem is If life has occurred in some different way, we may not even be able to recognize it. We might not know what to look for and may not recognize it when we see it. So my guess is that life on other planets will not be very familiar to us at all for a number of reasons."
+	},
+	{
+		"start_time": "41:36",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So the book is again Improbable Destinies Fate, Chance, and the Future of Evolution, and I'm leaving a link to it in the description of the interview and Dr. Losses, just before we go apart from the book, where can people find your work on the internet?"
+	},
+	{
+		"start_time": "41:54",
+		"speaker": "Jonathan Losos",
+		"words": "Well, um, I have a website that has copies of lots of my papers. Last name is L O S O S. AND it's an unusual last name, so it's not that hard to Google me. That's probably the best way or go to Google Scholar or just, uh, you know, Google my name and, and a lot of my research will come up."
+	},
+	{
+		"start_time": "42:11",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, great. So thank you so much for taking the time to come on the show. It's been a real pleasure to talk with you."
+	},
+	{
+		"start_time": "42:18",
+		"speaker": "Jonathan Losos",
+		"words": "Yes, it's been wonderful. Thanks so much for the invitation."
+	},
+	{
+		"start_time": "42:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Perergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyches Olaf, Alexandam Castle, Matthew Whitting Berarna Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Matter Robert Windegaruyasi Zu Mark Neevs called Holbrookfield governor Michael Stormir, Samuel Andrerancis Forti Agnseroro and Hal Herzognun Macha Joan Labrant John Jasent and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearraujuru and roach Diego Londono Correa. Yannick Punteran Rosmani Charlotte blinikolbar Adamhn Pavlostaevsky nale back medicine, Gary Galman Samovallidrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franco Bartolotti Gabrielon Corteseus Slelitsky, Scott Zachary Fitim Dayani Smith Jen Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, Diocosta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grayigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Hubbert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers, Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]
