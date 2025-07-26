@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/102717638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-15%2Fc4986079-80c6-d321-729c-88bf22ee5fa6.m4a",
 	"draft": false,
 	"episodeid": "1128",
 	"excerpt": "Dr. Daniel Silverman is an Assistant Professor of Political Science in the Carnegie Mellon Institute for Strategy and Technology (CMIST) at Carnegie Mellon University. His research focuses on international security, political psychology, and the politics of the Middle East and the wider Islamic world. He is particularly interested in the psychological factors – including the biases and misperceptions – that drive violent conflicts, and how they can be mitigated or leveraged to promote peace. He is the author of Seeing Is Disbelieving: Why People Believe Misinformation in War, and When They Know Better.",
 	"image": "https://i.ytimg.com/vi/ygJkOpQ44FM/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1128-daniel-silverman-why-people-believe-misinformation/id1451347236?i=1000719023309&uo=4",
 	"publishDate": 2025-07-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1128-Daniel-Silverman-Why-People-Believe-Misinformation-in-War-e32t6o6",
 	"tags": [
 		"Politics",
 		"General Science",
