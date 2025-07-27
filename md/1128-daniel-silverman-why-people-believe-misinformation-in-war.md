@@ -14,7 +14,9 @@
 		"Psychology"
 	],
 	"title": "#1128 Daniel Silverman: Why People Believe Misinformation in War",
-	"youtubeid": "ygJkOpQ44FM"
+	"vtt": "1128.vtt",
+	"youtubeid": "ygJkOpQ44FM",
+	"transcript": "1128.lines.json"
 }
 ---
 RECORDED ON MAY 15th 2025.  
