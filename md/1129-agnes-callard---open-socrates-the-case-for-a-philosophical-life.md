@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1129 Agnes Callard - Open Socrates: The Case for a Philosophical Life",
-	"youtubeid": "7AFlCGoS6Po"
+	"vtt": "1129.vtt",
+	"youtubeid": "7AFlCGoS6Po",
+	"transcript": "1129.lines.json"
 }
 ---
 RECORDED ON MAY 16th 2025.  
