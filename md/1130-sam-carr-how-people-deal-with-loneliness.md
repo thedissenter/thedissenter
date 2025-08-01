@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1130 Sam Carr: How People Deal With Loneliness",
-	"youtubeid": "L4ETZ3hQ6GA"
+	"vtt": "1130.vtt",
+	"youtubeid": "L4ETZ3hQ6GA",
+	"transcript": "1130.lines.json"
 }
 ---
 RECORDED ON MAY 21st 2025.  
