@@ -1,0 +1,287 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Center. I'm your host, as always, Ricardo Lopes and today I'm joined by Doctor Alan Love. He is distinguished McKnight University professor of philosophy and Winton chair in the liberal arts at the University of Minnesota, as well as director of the Minnes the Center for Philosophy of Science. And today we're going to focus on topics such as developmental biology, evolvo approaches in biology, evolvability, evolutionary novelties, and some other related topics. So, Doctor Love, welcome to the show. It's a pleasure to everyone."
+	},
+	{
+		"start_time": "00:37",
+		"speaker": "Alan Love",
+		"words": "Thank you for having me."
+	},
+	{
+		"start_time": "00:40",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let me start by asking you, what is developmental biology? Because of course, on the show, I've already talked with many evolutionary biologists, but not so much with developmental biologists. So what is this discipline about?"
+	},
+	{
+		"start_time": "00:59",
+		"speaker": "Alan Love",
+		"words": "So, developmental biology is the scientific discipline that studies of how organisms grow and mature from The sort of earliest stages, say, as fertilized eggs, uh, all the way through sexual reproduction and maturity, and even, uh, aging, uh, as well. So, a developmental biologist is trying to understand and explain, uh, how do those changes take place? Why does an organ form properly, at the right place, at the right time? With the right features, um, generation after generation, think of, you know, standard, uh, features like your heart or your lungs, um, your kidneys, all of these structures are rebuilt every generation, uh, when an organism develops and the developmental biologist is trying to understand. How do those patterns get set up? How do those structures take the right shapes? Uh, HOW do the cells and other aspects of the organism move into the right place and be at the right locations? And so a developmental biologist is interested in all those things, um, and has been for a long time because they have, uh, clearly been a big challenge to try and understand."
+	},
+	{
+		"start_time": "02:29",
+		"speaker": "Ricardo Lopes",
+		"words": "But what is the relationship between developmental biology and evolutionary biology? How, how does development relate to evolution?"
+	},
+	{
+		"start_time": "02:41",
+		"speaker": "Alan Love",
+		"words": "So that's a big question and one that involves a lot of uh sort of potential controversy, but at a very basic level, um, evolution, um, assumes that variation is somehow generated in each, uh, um, population. Uh, SUCH that that variation would be subject to selection if it, uh, exhibited fitness differences, um, of some kind. Well, development is precisely the process whereby that variation emerges. So if you're gonna understand how evolution can act on variation. Then you want to understand how that variation came to be in the first place. In order to understand how that variation came to be in the first place, you've got to understand development. So at a basic level, that's how development and evolution hook up. Now, The significance of that is debated. For some, the relationship is relatively straightforward because the thought is that variation is simply a natural part of development and there's no special insight needed for the evolutionary process, and so the study of development doesn't add very much to our evolutionary understanding. At the opposite end of the spectrum, you've got individuals who think that because development is constrained and shaped by different kinds of physical or um genetic kind of dynamics. Evolution actually is impacted severely by the way development occurs, and therefore, if we ignore development, we really misunderstand evolution. So in some respects, the debate about the relationship between development and evolution comes down to how much researchers think developmental processes really make a big difference. In how evolution happens, and some think it makes a big difference and others disagree."
+	},
+	{
+		"start_time": "05:01",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, but then how can development influence evolution?"
+	},
+	{
+		"start_time": "05:08",
+		"speaker": "Alan Love",
+		"words": "Well, so, uh, uh, again, coming back to the sort of very basic idea that development is the basis for the generation of variation, if it's the case that development involves certain kinds of patterns, and those patterns are reliably occurring. Then those patterns will be present, and that is what evolution will have to work on. And so if certain kinds of variation is not produced by a developing embryo, then that variation cannot be available for evolution to act upon. And so, if you think about uh uh those sorts of possibilities, whether it's uh a sort of shape of a trait or the uh nature of particular uh morphological features, um, if development, uh, really sort of constrains what's possible. Then evolution will be constrained in what it can produce over long periods of time. Uh, IN a sense, no variation, no evolution, and so we understand whether the variation is possible by studying developmental biology."
+	},
+	{
+		"start_time": "06:32",
+		"speaker": "Ricardo Lopes",
+		"words": "But can development, uh, apart from constraining, can it also direct evolution in any way?"
+	},
+	{
+		"start_time": "06:42",
+		"speaker": "Alan Love",
+		"words": "So that is a part of how researchers have been thinking about this, uh, for quite some time. So the language of constraint that I've been using is, is one traditional way of thinking about how development affects evolution. Another way of thinking about it is in terms of facilitation. That is development actually makes certain. Changes more likely, um, makes them easier to happen in some respects, um, and therefore development can actually facilitate. Uh, EVOLUTION, one might think about it as lines of least resistance that development makes certain kinds of pathways more accessible than others. So to some degree you can even uh think of two words as representing those uh two different ideas. You can have the language of constraint. Which is about somehow limiting evolutionary possibilities, but you can also have the language of evolvability or facilitation that makes possible certain kinds of evolutionary trajectories."
+	},
+	{
+		"start_time": "07:52",
+		"speaker": "Ricardo Lopes",
+		"words": "What is a developmental bias?"
+	},
+	{
+		"start_time": "07:56",
+		"speaker": "Alan Love",
+		"words": "So developmental bias is one way of describing how a developing system might have inherent in it certain ways that it channels, uh, patterns of variation that are available for, uh, development. So if you have, uh, certain kinds of constraints on Uh, say the size of structures or, uh, whether or not certain kinds of, uh, features grow first and other features grow second or third, um, those sorts of biases and how development works can then lead to certain kinds of Um, biases in what's possible evolutionarily. So, to study developmental bias, you're interested in trying to understand what those patterns are, um, and then see if they map on to our broader understanding of the pattern of evolution."
+	},
+	{
+		"start_time": "09:04",
+		"speaker": "Ricardo Lopes",
+		"words": "So earlier you mentioned that development is the source of vari variation that then evolution works with. But I mean, uh, at least in a more basic understanding of evolution with Tend to say that variation stems from random genetic mutation. I mean, what, uh, I, I mean, so what do you mean exactly when you say that variation stems from development? Yeah,"
+	},
+	{
+		"start_time": "09:36",
+		"speaker": "Alan Love",
+		"words": "so that's, that's a good question because it highlights an important way in which uh some traditional views about evolution sort of skipped development because Yes, one source of variation is mutation, um, mutation that appears in an undirected fashion with respect to the organism's needs. But that mutation has to somehow manifest in the organism's physiology or morphology. And the way that it manifests is gonna be through developmental processes. And we know now that you can have a mutation. That doesn't have any effects, and you can have a mutation that has very large effects, and the reason why a mutation has or doesn't have effects is oftentimes due to how the system develops. And so systems can buffer, uh, mutations or systems can be highly sensitive to mutations, and the only way to understand that is to study development. And to study how those sensitivities or those bufferings occur. And if you only say, well, there was a mutation and then we got variation, that's simply to say, well we put development in a black box and we don't understand how the mutation actually generated the variation. And since we know that simply having a mutation doesn't automatically mean you get variation. The only way to know the consequences of a mutation for evolution is to study the developmental processes by which its effects are manifested."
+	},
+	{
+		"start_time": "11:27",
+		"speaker": "Ricardo Lopes",
+		"words": "Could you give us perhaps some examples of non-genetic developmental processes that play out in evolution?"
+	},
+	{
+		"start_time": "11:38",
+		"speaker": "Alan Love",
+		"words": "What do you, um, uh, not quite sure about the question."
+	},
+	{
+		"start_time": "11:42",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean, those developmental processes that would influence evolution, could you give us some examples of that?"
+	},
+	{
+		"start_time": "11:50",
+		"speaker": "Alan Love",
+		"words": "Yeah, so, um, classic example would be along the lines that I mentioned before in terms of, uh, whether something grows earlier or grows later. Uh, SO, in, uh, amphibians, um, Uh, uh, when you look at, uh, different taxa, um. Uh, SO looking at, say, at, um, uh, frogs versus, um, salamanders, um, or sort of other taxa, and you dig in deeply to like, well, how is it the case that their digits develop, right? And you sort of look carefully and it turns out that their digits don't develop in the same way, that in some cases, um, uh, one digit, say your first digit or your thumb. A That one grows first, and then say your pinky digit grows last or uh some other pattern like that. And then you say, well, wait, if we look at, say, the evolutionary patterns of digit evolution. Do they reflect these developmental details? And sure enough, um, in a number of studies, what researchers have found is that the pattern of evolution follows the pattern of development. For example, if you have a pinky digit growing last, you're more likely to lose that digit evolutionarily. Because it grows last and therefore is more likely to be uh truncated um in a developmental process. Similarly, if a different digit grows last, you get a different pattern. And so the idea is that if you don't understand how that development works, You don't understand why you get that evolutionary pattern. Similarly, um, uh, other concerns, uh, relate to the physics of development and the fact that certain kinds of, um, physical factors that occur, uh, during development in terms of how uh shape or size or sort of physical interactions take place, uh, can constrain or facilitate certain kinds of development. And so those are gonna affect small animals differently than they affect large animals, because the physics of small animals are different than the physics of large animals, um, and again, if you don't understand those, uh, sort of developmental biasing features, then you're not gonna understand why you get certain kinds of evolutionary patterns in those taxa."
+	},
+	{
+		"start_time": "14:40",
+		"speaker": "Ricardo Lopes",
+		"words": "Are these developmental processes inherited? I mean, are they transmitted between generations and if so, how does that transmission occur? Is it genetically or through other means?"
+	},
+	{
+		"start_time": "14:56",
+		"speaker": "Alan Love",
+		"words": "So, for most of the things we've been talking about, the, uh, there is the genetic transmission of those developmental processes, so they are inherited and therefore are a part of what you would expect. To be involved in evolutionary processes because they're not only exhibiting variation and fitness differences, but they're also heritable. Um, IN some cases, uh, those features are not heritable in the, uh, um, physical sense, um, but they are, um, heritable in the sense that they reappear in the environment reliably and are correlated. Um, FROM ancestor to descendant. So most of the physical dynamics are gonna be along those lines. The physics themselves are not inherited by the organism, but the organism by virtue of being made of certain materials and being in certain environments, will reliably have those same physical dynamics occurring each generation. Um, AND therefore, those sorts of causal effects will always be present, uh, down through a lineage, uh, through evolutionary time."
+	},
+	{
+		"start_time": "16:15",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, CAN they also be transmitted in any way through epigenetics"
+	},
+	{
+		"start_time": "16:20",
+		"speaker": "Alan Love",
+		"words": "or? So epigenetics, uh, so first we have to be careful because epigenetics means different things to different people, but, um, uh, so one kind of epigenetics would be a, uh, effect on gene expression that might occur through the methylation of DNA. That, uh, facilitates or shuts down certain kinds of gene expression, and if that gets inherited, um, from one generation to the next, then you can have an evolutionary effect, um. That way, that's a certain kind of epigenetics. Another way of thinking about epigenetics is in terms of all the uh factors that go into um producing a phenotype. Uh, THAT are sort of beyond the genetics. So that includes cellular interactions, it includes some of the physical dynamics we're talking about before, um, and includes basically anything that's somehow not strictly genetic. Um, AND on that latter notion, a lot of the things we've been talking about would count as epigenetics, um. And therefore, you know, if you were asking, does epigenetics make a difference for evolution, the answer would be yes, but there we would need to be careful because, um, arguably in that phrasing, we are saying something like much of development is about epigenetics, and we're saying that development makes a difference for evolution so that Claim that epigenetics is involved is maybe not as uh um uh conceptually novel as uh maybe sometimes is suggested. It's a rather old claim about the importance of development itself."
+	},
+	{
+		"start_time": "18:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. What are the evil evil approaches in biology?"
+	},
+	{
+		"start_time": "18:25",
+		"speaker": "Alan Love",
+		"words": "So, Ivo Devo approaches in biology constitute a real mixture of trying to bring different approaches from individual disciplines together into a common space. So bringing concerns about population biology, bringing concerns about development and embryogenesis, bringing concerns about uh comparative biology and phylogenetic uh uh reconstruction and understanding the relationship between taxa, uh, as well as thinking in terms of deep time and understanding patterns of variation in the fossil record. And Ivodevo approach is typically understood to be a uh way of representing this combination. Of methods that are employed, so hence they're called Evodevo because they're intended to sort of flag that mixture of evolutionary and developmental approaches uh that get applied to particular groups of organisms to understand how they evolve. So, I typically Describe Ivodevo as inherently interdisciplinary, because it works at the junction of multiple disciplines, and as a consequence, is both an interesting space. And also a challenging one, because when you are at the junction of different disciplines, you also have questions about how do you understand evidence when these different communities don't necessarily agree on how to proceed. You know, how a paleontologist thinks about evidence is very different than how a developmental biologist thinks about evidence, um, and how an evolutionary biologist thinks about modeling. IS very different than how a developmental biologist thinks about modeling. So how do you bring all those uh different kinds of scientific approaches together into a mixture that's productive and what we've seen over time is that it can be done. But it oftentimes has pitfalls and um uh key issues that have to be engaged with in order to do so. And it's part of the reason why I think Evo Devo approaches tend to have controversy uh surrounding them."
+	},
+	{
+		"start_time": "20:56",
+		"speaker": "Ricardo Lopes",
+		"words": "So, please correct me if I'm wrong, but if I get the role that uh developmental biology plays in our understanding of how evolution plays out, then the traditional picture that we have of a variation produced by uh genetic, uh, I mean, uh uh produced genetically across individuals. I mean, the, it's been the result of a random genetic mutation. And then selection occurring upon that variation. I mean, the picture that we get by adding developmental biology to that is much more complex."
+	},
+	{
+		"start_time": "21:40",
+		"speaker": "Alan Love",
+		"words": "Uh, YES, I do think that that picture is much more complex. I think that whether or not it undermines that traditional, uh, view is an open question. And so a lot of discussion. Over the past decade or more about say ideas like the extended evolutionary synthesis have been about to what degree do some of these uh additions of development and other factors really call into question the more traditional understanding. However, as I noted, There are ways that you can think about including development that would be. Sort of more or less complimentary to that traditional picture. Um, AND so I think that, uh, we really are at a moment of time where the consequences for sort of thinking about evolution are still being worked out. Um, WE don't yet have a sort of common consensus picture for How does development change the way we view evolution? We've got different ways of thinking about that, some of them, uh, more or less compelling, but there still remains controversy. I think that at the end of the day, it's now very difficult for somebody to completely go back to the old view that ignored development, um, because we've just seen too many ways in which development can be relevant. At the same time, uh, that doesn't mean the controversy has somehow been resolved and there are still key questions, uh, that remain about how complex is the evolutionary process as a consequence of taking development seriously."
+	},
+	{
+		"start_time": "23:36",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, but even if we are still figuring that out, if it could undermine the traditional picture of evolution that I described earlier, in what ways could that be done?"
+	},
+	{
+		"start_time": "23:52",
+		"speaker": "Alan Love",
+		"words": "So I think that to some degree, it depends on how you sort of cast that traditional picture. So, one aspect of the traditional picture is gradualism, that you have gradual transitions. Um, SOME of the ways in which development occurs seems to suggest step changes or qualitative thresholds of different kinds. That would then potentially call into question whether gradualism is always the way evolutionary change occurs. Um, uh, ANOTHER, uh, uh, sort of traditional part of that picture is that natural selection can really take a, uh, uh, a trait or a population of organisms in any direction. And, uh, the Empirical work coming out of development um suggests that that's very implausible. Uh, IT suggests that there are these constraints and facilitations that suggest there are certain kinds of expected pathways that might even be predictable, um, for how evolution occurs because of development. So those would be two ways in which the traditional picture could be challenged by, by development, um, and, you know, at the same time, uh, that doesn't mean, for example, with respect to gradualism that because sometimes gradualism could be violated, it doesn't mean evolutionary change is never gradual. It actually most likely is some complex combination. Um, AND similarly for thinking about patterns of evolution, um, just because we can detect patterns of evolution because of development, um, it's still the case that there are lots of possibilities for natural selection to explore. So in that respect, we could also still see a very strong creative role for natural selection in shaping evolutionary outcomes."
+	},
+	{
+		"start_time": "26:08",
+		"speaker": "Ricardo Lopes",
+		"words": "And what do you make of the extended evolutionary synthesis or of that proposal as you mentioned earlier? I mean, and adding to the picture of things like epigenetics, cultural evolution, niche construction, and in the particular case of humans, language and"
+	},
+	{
+		"start_time": "26:27",
+		"speaker": "Alan Love",
+		"words": "symboli. Yeah, so the extended evolutionary synthesis has, you know, as I mentioned before, been around for, um, more than a decade. Um, uh, KIND of some of its initial rumblings were in the um mid 2000s. It was a way in which different researchers could sort of come together and express their discomfort with the traditional picture and try and articulate an alternative. I think that the uh reality is that the alternative picture was not necessarily fully coherent. Um, IN that it involved a lot of different kinds of concerns and processes of the kind you just described. Um, uh, SOME people were interested in plasticity, and some people were interested in behavior, some people were interested in, uh, these developmental processes and say the physical dynamics. And while it's true that each of them in a way puts some pressure on the traditional view, they don't necessarily comprise a coherent alternative. And so I think that uh what we now see is a little bit more of a kind of. Wild west open space because we have an awareness that the old picture is not fully satisfactory, but we don't have a consensus view of a new picture. And so what we then have is a kind of uh um. Uh, OPEN, you know, space with some pretty severe theoretical differences. Um, BUT the bottom line is that the extended evolutionary synthesis itself didn't cohere is that alternative picture. And so I think that we're still a ways off from seeing The community kind of come together around a particular sort of set of theoretical commitments, kind of like we saw in the mid-twentieth century with the modern synthesis."
+	},
+	{
+		"start_time": "28:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Is there any room at all here for organisms to be able to direct their own evolution in any way?"
+	},
+	{
+		"start_time": "28:50",
+		"speaker": "Alan Love",
+		"words": "So that's certainly a part of the claims that have been made, especially on behalf of niche construction theory, where the idea is that organisms are, by their behavior, reshaping their environment, as a consequence, they're changing the selective pressures that affect their evolution, uh, in the sense of the populations through time. I think that those possibilities um are uh difficult to cash out because in traditional modeling, you can capture those effects as uh uh simply features of the environment, and so you see some of this discussion going on. About whether niche construction is just another perspective on what has already been said. Among evolutionary biologists. But I do think that, uh, in recent years, there's been increased appreciation of how much animal behavior, um, and more broadly, any organismal behavior. Can make a tremendous difference on the environmental circumstances that make up uh the uh natural selection pressures that are experienced and therefore, it seems, uh, Somewhat maybe. CLEAR that there is uh a number of pathways for behavior from organisms to make a difference. Um, HOWEVER, exactly how and why seems like it remains a uh subject of contention."
+	},
+	{
+		"start_time": "30:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So tell us now about evolvability. You mentioned it earlier, uh, you mentioned it a little bit earlier, but tell us more about it. What is evolvability?"
+	},
+	{
+		"start_time": "30:50",
+		"speaker": "Alan Love",
+		"words": "So evolvability at a sort of very basic level is simply the capacity to evolve. So if we say that a population um exhibits evolvability, we're saying that the population uh exhibits variation that allows it to respond to selective pressures, um, uh, should those happen. However, What becomes really interesting about evolvability is paying attention to sort of how it shows up. That is, are we thinking about evolvability for a particular trait? Are we thinking about evolvability for a particular body plan? Are we thinking about evolvability for um say cells, uh, and their sort of capacities at lower levels of organization. So once you start thinking about what is being attributed to evolvability. It starts to become very interesting very fast. So many people have gotten interested in how, um, especially developing systems can be evolvable because they can have properties that allow them to uh be responsive to different kinds of environmental changes, um, and people have gotten really interested in. The, uh, capacity for evolvability of particular traits, because it seems like some traits, uh, are more malleable, um, and subject to evolutionary change than others, and so, uh, trying to understand what are the, the genetic basis, uh, what's the genetic basis for that. What's the relationship between the, um, the genotype and the phenotype that would make something more evolvable or less evolvable, um, but generally, like I said before, evolvability sort of shifts the emphasis from Constraints or limitations to facilitation and possibilities. And so researchers are often interested in evolvability because they're interested in trying to understand how can evolutionary change be facilitated and um uh sort of uh Encouraged in certain directions simply by virtue of the setup of the system or the setup of the cell or the setup of the population."
+	},
+	{
+		"start_time": "33:29",
+		"speaker": "Ricardo Lopes",
+		"words": "And do we know which factors play a role in evolvability, which factors make particular organisms or particular traits more or less evolvable?"
+	},
+	{
+		"start_time": "33:42",
+		"speaker": "Alan Love",
+		"words": "So it does seem like we have some insights into um uh some of those features. Um, FOR example, it appears that organisms that are sort of more modular, that is, they have sort of more independent parts. Uh, TEND to have a, uh, higher degree of evolvability because those parts then seem to be changeable independently of one another over evolutionary time. As an in an organism that is sort of overly integrated, that is all the parts are tightly connected together, is going to be less evolvable, um, and so the oftentimes more modular parts, um, you tend to see that. This is especially visible in arthropods, who have many segments, and there are many segments are subject to modifications, including um different kinds of appendages, duplications of the number of segments, um. Uh, SPECIALIZATIONS of those segments and all kinds of patterns seem to be encouraged by having those sorts of modular parts. Um, SO those sorts of patterns do seem like we can detect that, um, they have an evolutionary significance. At the same time, we're still trying to understand other things that seem to underlie evolvability, especially. Um, ON longer time scales, to what degree, um, especially does a certain kind of genetic architecture for traits make a difference, um, especially over, uh, transitions from short term to long term time scales, because much of what we can study is on shorter time. Time scales in terms of experimental interventions, but oftentimes for evolutionary patterns we're interested in these longer time scales, and the question is to what degree do the things we detect on the shorter time scales hold or make a difference on the longer time scales, and those things are, you know, hard to determine, but we're making progress."
+	},
+	{
+		"start_time": "36:02",
+		"speaker": "Ricardo Lopes",
+		"words": "And how is evolve evolvability studied?"
+	},
+	{
+		"start_time": "36:07",
+		"speaker": "Alan Love",
+		"words": "So evolvability is studied uh in a kind of evo diva way with many approaches. So you can study evolvability using uh resources from quantitative genetics, you can study evolvability using resources from developmental biology, you can study evolvability using resources from paleontology. And sort of the fossil record. So evolvability is really something that can be studied by many different disciplines and is naturally one of the uh places where Evodevo researchers have been most interested. In fact, some people have even claimed that evolvability is the sort of central defining concept for Evodevo because it Gives an identity to the community for bringing together all these different methods and approaches um in the first place."
+	},
+	{
+		"start_time": "37:07",
+		"speaker": "Ricardo Lopes",
+		"words": "And so let me ask you now about evolutionary novelties. What are they?"
+	},
+	{
+		"start_time": "37:14",
+		"speaker": "Alan Love",
+		"words": "So, evolutionary novelties um are sort of typically thought to be those new features that emerge in the history of life that weren't previously there. So, uh, at one point in history, there were no jaws on, um, vertebrate organisms. And so at some point you get the evolution of jaws. It likely took place over a long period of time, but the evolutionary novelty, the jaws themselves become a subject of study. How did those originate? What, what made it possible for these to occur? And part of why we're interested in is, is exactly. Because so many taxa now have jaws, right? So it's like once this evolved, it became a regular feature of organisms, um, uh, eyes would be another example, or lungs or sort of these major features people, you know, wanna know. Well, how did that originate in the first place? Where did it come from? So, uh, one of the things that Ivo Devo has also been very focused on is evolutionary novelties because it seems like we do need to understand developmental processes that could have been relevant to those origination events um in the past. So, an evolutionary novelty is uh gonna be defined as a sort of new feature um within the history of uh life that doesn't seem to have a sort of comparable, uh, homologue, um, somewhere in the past. That is, we don't think, oh, jaws were sort of transformed from something that was already jaw-like. We're thinking that jaws emerged um in this sort of interesting way such that they took on a separate identity. That was really distinct from what whatever was present beforehand. Um, BUT as you can probably tell, that's what makes it so hard. It's a really difficult problem to figure out, you know, how did you get, uh, uh, this new feature, given that, uh, it didn't exist previously uh in the lineage."
+	},
+	{
+		"start_time": "39:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND do we have a good understanding or any understanding, understanding of how evolutionary novelties are generated, and I guess that this would tie to some of the topics we've already explored there,"
+	},
+	{
+		"start_time": "40:01",
+		"speaker": "Alan Love",
+		"words": "right. So, I would say, um, it depends. A little bit on who you ask, but I do think that we have made tremendous gains in our understanding of the origin of evolutionary novelties because we have been able to study developmental processes at a much Deeper mechanistic level than was possible um 50 to 75 years ago. And so I think we do have good insights now into particular developmental changes that were relevant for the origin of new features, whether they're jaws or uh something else, and Those are things that clearly will continue to be studied. It's not like they're studied and we finished and we go home, but rather that we've, you know, made good leaps and strides in recognizing that this developmental, uh, um, aspect of the organism. Can be changed in such a way as to generate something new, um, and that's a sort of achievement scientifically to have understood that. At the same time, I think precisely because um many evolutionary novelties um are distinctive in their sort of features. It makes it harder to always understand whether when we learn something about one evolutionary novelty, how much does that tell us about another one. So if we learn something about the origin of Jaws. Does that tell us something important about, say, the origin of other features that we're interested in? And sometimes the answer seems to be yes, and sometimes the answer seems to be no, um, and so the generalization potential for some of the studies of evolutionary novelties is one of its persistent challenges."
+	},
+	{
+		"start_time": "42:10",
+		"speaker": "Ricardo Lopes",
+		"words": "Do evolutionary novelties link in any way to evolvability? That is, if a particular organism is more evolvable than another, is it capable of generating more evolutionary novelties or evolutionary novelties more easily?"
+	},
+	{
+		"start_time": "42:33",
+		"speaker": "Alan Love",
+		"words": "Uh, SO, the answer is yes, and it goes in both directions. So, an organism, uh, or a population of organisms that exhibits evolvability with respect to certain features is in many ways more likely to generate evolutionary novelties because of that capacity. At the same time, and the origin of a of a of an evolutionary novelty can actually contribute to evolvability and make it possible for more evolutionary change to take place. Um, AND again, the origin of Jaws is, uh, a kind of nice example of that because once you have the basic, uh, setup of Jaws, now we can sort of See what possible evolution can happen once you have jaws, and jaws are quite modifiable in lots of different ways to support lots of different organisms living in lots of different ways on land, sea, and air. Um, SO I think there's a nice kind of interconnection between evolvability and evolutionary novelty such that if we study evolutionary novelties, we can understand how uh lineages become more evolvable, but also if we study evolvability, we can understand why some lineages generate evolutionary novelties."
+	},
+	{
+		"start_time": "44:04",
+		"speaker": "Ricardo Lopes",
+		"words": "So in regards to evolutionary novelties in your work, I read about stress mechanisms and, I mean, perhaps you would have uh an other examples, but what are stress mechanisms and how do they contribute to evolutionary novelties?"
+	},
+	{
+		"start_time": "44:22",
+		"speaker": "Alan Love",
+		"words": "Yeah, so the work you're referring to was collaborative uh research that I did with the biologist, Gunter Wagner, and, uh, one of the things that we were interested in was The way in which um systems experience stresses um on a regular basis, um, whether that's, you know, temperature stresses or certain kinds of, uh, physiological stress due to um life history stages like pregnancy. And whether or not these sorts of things might be relevant for evolution, and especially the origin of novelties. So what we were interested in was You know, to what degree that might be the case, and part of the reason why we were interested was because there were patterns across the tree of life. That seemed to suggest that stress mechanisms, so the kinds of uh mechanisms that are associated with stress responses, seem to also be deeply woven into normal developmental processes. So why would it be the case that those stress mechanism features seem like they get incorporated into regular development? And so we put forward uh the basic idea that uh there is a way for stress to be generative of new features. Through a process uh that uh uh we described in a couple of papers, um, that goes through multiple steps where first a stress uh response occurs in, in relation to a regular stressor, and then what happens is that the organism starts to anticipate. That stress and in that anticipation of the stress, uh, you can get the establishment of a new feature like a new cell type that actually protects against the stress and therefore by you get new features. Through a kind of response to stress over time and the organism's physiology, which would also account for why you get this signature of the stress mechanisms being involved, because they were originally involved and they've been co-opted in. To the new feature, so that it can uh sort of be a regular protector. Uh, SO there's a number of cases that we described in the paper, uh, some of which were in Gunter's, uh, work on the uh origins of mammalian pregnancy. Specifically looking at a stress, uh, what seemed to be a stress-induced, um, uh, evolution of a cell type, um, uh, that, uh, Seemed to be able to prevent the fetus, uh, from causing inflammatory reactions in the, uh, uterus, um, of the, of the female, um, or, uh, you know, that was carrying the, the fetus. And so, by looking at a number of those cases, it, it seemed to us that there was a relatively compelling case for looking more closely. At how, uh, this kind of stress induced, uh, responsiveness over evolutionary time might be specially uh related to the evolution of novelties. At the same time, we were not trying to say that somehow it was going to explain every novelty. It was rather that we thought it had been a neglected feature in some of the studies of evolutionary novelty. Um, AND therefore we wanted to draw it to people's attention."
+	},
+	{
+		"start_time": "48:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Are there other kinds of mechanisms like these that might contribute also to uh evolutionary novelties?"
+	},
+	{
+		"start_time": "48:32",
+		"speaker": "Alan Love",
+		"words": "So, a number of people have uh been very interested in how uh the physical dynamics of development might be uh pertinent for, uh, the generation of evolutionary novelty. So, as I mentioned before, if you think about development as having, uh, say qualitative thresholds, um, uh, whereby you switch from one state to another, and that switch from one state to another is a function of certain kinds of physical dynamics, then some people have argued, um, Stuart Newman is probably the most prominent one. Um, THAT, uh, you can actually get new features through, uh, physical dynamic changes happening during development, um, and that might have been, uh, more present earlier in evolutionary history, um, uh, rather than as much as it is today. So there might have been a way in which it occurred longer ago and Uh, set up some of the, uh, landscape of animal, uh, morphologies that we see today. So I think that Whether it's physical dynamics or stress mechanisms, um, I think a lot of people are interested in, uh, putting forward different kinds of models to understand. Like how is it that we can get new features, and in many ways, a lot of these models are not competing directly with each other, uh, but in fact, uh, can uh be complementary in our understanding of the complex ways in which new features originate during evolution."
+	},
+	{
+		"start_time": "50:17",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I have one last question for you then. And going all the way back to the beginning of our conversation, um, how do you look at the future of developmental biology and the role that it might play in our understanding of how evolution occurs?"
+	},
+	{
+		"start_time": "50:39",
+		"speaker": "Alan Love",
+		"words": "So that's a big question to end on, but a good one. I think that, uh, a couple things seem relevant. So, you know, as a philosopher, one of my main interests and all of the things we've been talking about is sort of how the scientists Proceed to reason and think and practice what they do to make progress on these uh questions. And I think that what we have seen, uh, especially over the last, uh, decade or so is that, um, there has been an increased willingness among many researchers in different disciplines to collaborate um in this interdisciplinary fashion that Ivodevo, uh, in particular seems to, uh, nurture. So, I think that, uh, you know, going forward, one of the most important things will be the degree to which these kinds of collaborations, um, uh, are sort of supported by funding agencies, um, because sometimes funding agencies can be a little bit more conservative in what they fund because interdisciplinary projects are a little bit more risky. They're a little bit less clear on uh what they will generate, but I think that uh what we've seen is that when they are pursued well, um they really produce very interesting results. So I would say that My hope and I think to some degree expectation. Um, FOR, say, the next 10 years is to see continued interdisciplinary interactions, including, uh, with, uh, theoreticians and, uh, even a few philosophers to try and really think through the complex problem spaces that biologists are exploring by looking at evolvability, evolutionary novelty, and the relationship between development. And evolution more broadly."
+	},
+	{
+		"start_time": "52:58",
+		"speaker": "Ricardo Lopes",
+		"words": "And do you expect that even if not through uh a sort of extended evolutionary synthesis that at least in the future we would have a much richer and complex understanding of how evolution plays out through developmental processes."
+	},
+	{
+		"start_time": "53:21",
+		"speaker": "Alan Love",
+		"words": "Absolutely, and I think that's what we are already seeing. I think that even if the extended evolutionary synthesis as a sort of movement. Uh, SORT of falls by the wayside. I think what won't disappear are the genuine empirical and theoretical achievements that have been accomplished by researchers, um, in recent decades, and that will likely, you know, take some form. As it's presented in textbooks to the next generation of scientists, uh, but the bottom line is that that next generation of scientists is gonna get a much richer and more complex starting picture of the evolutionary process than you or I had when we started out."
+	},
+	{
+		"start_time": "54:12",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, so Doctor Love, before we go, would you like to tell people where they can find you and your work on the Internet?"
+	},
+	{
+		"start_time": "54:20",
+		"speaker": "Alan Love",
+		"words": "So you can find my work at my homepage, um, which if you do a basic, uh, browser search in Google or something else on Alan Love, philosopher, you'll be able to find my page, um, and, uh, I'm also happy to interact with anyone who has further questions about my work or, um, uh, potentially needs access to a reprint or something like that. Uh, YOU can uh just email me at ALOVE@Un.edu."
+	},
+	{
+		"start_time": "54:55",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So thank you so much for taking the time to come on the show. It's been a pleasure to talk with you."
+	},
+	{
+		"start_time": "55:01",
+		"speaker": "Alan Love",
+		"words": "Thank you very much, Ricardo. I really enjoyed the conversation."
+	},
+	{
+		"start_time": "55:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Frederick Sundo, Bernard Seyche Olaf, Alex Adam Castle, Matthew Whitting Barno, Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Matri Robert Windegaruyasi Zup Mark Nes calling in Holbrookfield governor Michael Stormir Samuel Andrea, Francis Forti Agnseroro and Hal Herzognun Macha Joan Lays and the Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus Fran David Sloan Wilson, Asila dearraujoro and Roach Diego Londono Correa. Yannick Punteran Rosmani Charlotte blinikol Barbara Adamhn Pavlostaevskynaleb medicine, Gary Galman Samov Zaledrianei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franca Bartolotti Gabrielon Scorteus Slelisky, Scott Zachary Fish Tim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianneau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, Old Heringbo. Sterry Michael Bailey, then Sperber, Robert Grassy Zigoren, Jeff McMahon, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Stor, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursula Gudinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedic Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]

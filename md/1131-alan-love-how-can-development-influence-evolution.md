@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1131 Alan Love: How Can Development Influence Evolution?",
-	"youtubeid": "exL4J7fHoxA"
+	"vtt": "1131.vtt",
+	"youtubeid": "exL4J7fHoxA",
+	"transcript": "1131.lines.json"
 }
 ---
 RECORDED ON MAY 27th 2025.  
