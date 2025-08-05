@@ -13,7 +13,9 @@
 		"Neuroscience"
 	],
 	"title": "#1132 Kevin Mitchell: Free Will, Robert Sapolsky, the Genomic Code, and Human Embryo Editing",
-	"youtubeid": "euuhGjxVmTE"
+	"vtt": "1132.vtt",
+	"youtubeid": "euuhGjxVmTE",
+	"transcript": "1132.lines.json"
 }
 ---
 RECORDED ON JUNE 6th 2025.  
