@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1133 Blake Roeber - Political Humility: The Limits of Knowledge in Our Partisan Political Climate",
-	"youtubeid": "K5qonviQ4qk"
+	"vtt": "1133.vtt",
+	"youtubeid": "K5qonviQ4qk",
+	"transcript": "1133.lines.json"
 }
 ---
 RECORDED ON MAY 28th 2025.  
