@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1134 Norbert Peeters: Botanic Philosophy, von Humboldt, Darwin, and Why Plants Matter",
-	"youtubeid": "X5rAWS9Oqr8"
+	"vtt": "1134.vtt",
+	"youtubeid": "X5rAWS9Oqr8",
+	"transcript": "1134.lines.json"
 }
 ---
 RECORDED ON MAY 29th 2025.  
