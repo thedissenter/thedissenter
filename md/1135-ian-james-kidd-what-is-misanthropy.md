@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1135 Ian James Kidd: What Is Misanthropy?",
-	"youtubeid": "qMjDupmcxEM"
+	"vtt": "1135.vtt",
+	"youtubeid": "qMjDupmcxEM",
+	"transcript": "1135.lines.json"
 }
 ---
 RECORDED ON JULY 1st 2025.  
