@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/103439356/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-30%2F0d68ef63-6362-de6a-7015-041e454be7d2.m4a",
 	"draft": false,
 	"episodeid": "1136",
 	"excerpt": "Dr. Ronald de Sousa is Emeritus Professor at the Department of Philosophy of the University of Toronto. His research interests include ancient philosophy, epistemology, philosophy of mind, and philosophy of sex. He is the author of several books, his latest one being Why It's OK to Be Amoral.",
 	"image": "https://i.ytimg.com/vi/PokffOI2Qao/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1136-ronald-de-sousa-why-its-ok-to-be-amoral/id1451347236?i=1000721983678&uo=4",
 	"publishDate": 2025-08-14,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1136-Ronald-de-Sousa-Why-Its-OK-to-Be-Amoral-e33j7hs",
 	"tags": [
 		"Philosophy"
 	],
