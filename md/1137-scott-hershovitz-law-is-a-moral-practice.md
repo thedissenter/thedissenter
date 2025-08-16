@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1137 Scott Hershovitz: Law Is a Moral Practice",
-	"youtubeid": "IeZiZJHlkso"
+	"vtt": "1137.vtt",
+	"youtubeid": "IeZiZJHlkso",
+	"transcript": "1137.lines.json"
 }
 ---
 RECORDED ON JUNE 3rd 2025.  
