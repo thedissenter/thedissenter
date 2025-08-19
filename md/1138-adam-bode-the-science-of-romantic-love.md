@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1138 Adam Bode: The Science of Romantic Love",
-	"youtubeid": "QfaO2UP4Vws"
+	"vtt": "1138.vtt",
+	"youtubeid": "QfaO2UP4Vws",
+	"transcript": "1138.lines.json"
 }
 ---
 RECORDED ON JUNE 5th 2025.  
