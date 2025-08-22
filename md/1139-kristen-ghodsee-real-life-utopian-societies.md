@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1139 Kristen Ghodsee: Real-Life Utopian Societies",
-	"youtubeid": "mZ0iP5dVVBk"
+	"vtt": "1139.vtt",
+	"youtubeid": "mZ0iP5dVVBk",
+	"transcript": "1139.lines.json"
 }
 ---
 RECORDED ON AUGUST 6th 2025.  
