@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1140 Will Storr: How to Use the Science of Storytelling to Lead, Motivate and Persuade",
-	"youtubeid": "SyKwWuTPWcU"
+	"vtt": "1140.vtt",
+	"youtubeid": "SyKwWuTPWcU",
+	"transcript": "1140.lines.json"
 }
 ---
 RECORDED ON JUNE 4th 2025.  
