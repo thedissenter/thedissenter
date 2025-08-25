@@ -5,13 +5,16 @@
 	"episodeid": "1141",
 	"excerpt": "Dr. Matti Häyry is Professor of Philosophy at Aalto University School of Business, Finland. Dr. Häyry’s main fields of interest have been moral and political philosophy and philosophical bioethics. His practical topics in bioethics have ranged from abortion, euthanasia, and resource allocation to genetics, systems biology, and synthetic biology. Theoretically, his work has centered on the main normative doctrines of European moral and political philosophy. He is the co-author of Pure Cloning.",
 	"image": "https://i.ytimg.com/vi/VubjnyuhHJw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1141-matti-h%C3%A4yry-cloning-and-antinatalism/id1451347236?i=1000723477281&uo=4",
 	"publishDate": 2025-08-25,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1141-Matti-Hyry-Cloning-and-Antinatalism-e36nk5b",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1141 Matti Häyry: Cloning and Antinatalism",
-	"youtubeid": "VubjnyuhHJw"
+	"vtt": "1141.vtt",
+	"youtubeid": "VubjnyuhHJw",
+	"transcript": "1141.lines.json"
 }
 ---
 RECORDED ON AUGUST 11th 2025.  
