@@ -5,13 +5,16 @@
 	"episodeid": "1142",
 	"excerpt": "Dr. Gül Salali is Assistant Professor in Evolutionary Anthropology at University College London. Her research focuses on human behavior and health using evolutionary approaches. Since 2013, she has been conducting fieldwork in the Congo rainforest studying Mbendjele BaYaka hunter-gatherers. Some of her most recent research projects include: social learning and cultural evolution; evolutionary approaches to health-related behavior and mental health; and hunter-gatherer diet, health and physical activity.",
 	"image": "https://i.ytimg.com/vi/WdkW2Rtxc24/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1142-g%C3%BCl-salali-social-dynamics-culture-mental-health/id1451347236?i=1000723928079&uo=4",
 	"publishDate": 2025-08-28,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1142-Gl-Salali-Social-Dynamics--Culture--Mental-Health-and-Physical-Health-in-Hunter-Gatherers-e3409q0",
 	"tags": [
 		"Anthropology"
 	],
 	"title": "#1142 Gül Salali: Social Dynamics, Culture, Mental Health and Physical Health in Hunter-Gatherers",
-	"youtubeid": "WdkW2Rtxc24"
+	"vtt": "1142.vtt",
+	"youtubeid": "WdkW2Rtxc24",
+	"transcript": "1142.lines.json"
 }
 ---
 RECORDED ON JUNE 9th 2025.  
