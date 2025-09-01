@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1144 Nikhil Chaudhary: Cooperation, Social Learning, Breeding Systems, and Evolutionary Psychiatry",
-	"youtubeid": "Onz7iqBOy0k"
+	"vtt": "1144.vtt",
+	"youtubeid": "Onz7iqBOy0k",
+	"transcript": "1144.lines.json"
 }
 ---
 RECORDED ON JUNE 12th 2025.  
