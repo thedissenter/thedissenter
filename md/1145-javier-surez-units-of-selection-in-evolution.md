@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1145 Javier Suárez: Units of Selection in Evolution",
-	"youtubeid": "ocAZSk6KTnc"
+	"vtt": "1145.vtt",
+	"youtubeid": "ocAZSk6KTnc",
+	"transcript": "1145.lines.json"
 }
 ---
 RECORDED ON JUNE 11th 2025.  
