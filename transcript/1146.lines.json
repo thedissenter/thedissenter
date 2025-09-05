@@ -1,0 +1,357 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Di Center. I'm your host, as always, Ricardo Lopez, and today I'm joined by Doctor Brad Duchaine. He's a professor in the Department of Psychological and Brain Sciences at Dartmouth College. He uses neuropsychology, psychophysics, and neuroimaging to explore the cognitive neurodevelopmental and genetic basis of social perception. And today we're going to talk about mostly about face perception, prosopagnosia. And prosopo metamorphosia, yeah, it's, it's a really a mouthful. So Doctor Duchaine, thank you for taking the time to come on the show. It's a pleasure to have"
+	},
+	{
+		"start_time": "00:41",
+		"speaker": "Brad Duchaine",
+		"words": "you on. Thanks a lot for inviting me, Ricardo. I've listened to many episodes of your podcast, so it's really great to be on here."
+	},
+	{
+		"start_time": "00:48",
+		"speaker": "Ricardo Lopes",
+		"words": "Thank you. So, let's start with a broader question. What is social perception? What aspects of perception connect to the social aspects of our lives?"
+	},
+	{
+		"start_time": "01:01",
+		"speaker": "Brad Duchaine",
+		"words": "Sure, yeah, so. In order to make sense of the social information that's around us, we often have to use our perceptual abilities, so vision, audition, other sorts of perceptual abilities to interpret that information and um sort of make sense of it. Much of this goes on, um, it's primarily vision and audition, and my lab studies the visual side of social perception. So trying to understand the information and faces, and people's bodies, and how they move and such sort those sorts of information."
+	},
+	{
+		"start_time": "01:33",
+		"speaker": "Ricardo Lopes",
+		"words": "And how is face perception specifically processed by the brain?"
+	},
+	{
+		"start_time": "01:40",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, that's a complicated question that a lot of people are working on. Um, AND, um, there are a lot of different areas in the brain that contribute to face processing. Many of them are in the occipital and temporal lobe, but we also see that there are areas in the frontal lobe that contribute to face processing. These areas form a network, so they're connected up with one another, um, and they're able to generate, you know, these immediate percepts that we have of faces where we're able to say who somebody is, how they're feeling, where they're looking. We also make inferences about, say, how trustworthy we think they are, how attractive they think we are, and these all, these sorts of perceptions all happen within the blink of an eye. Um, AND so we've got a highly specialized system in our brains that is carrying out that, um, those computations."
+	},
+	{
+		"start_time": "02:26",
+		"speaker": "Ricardo Lopes",
+		"words": "But are there any face selective neurons? Are there any neurons specialized in face perception?"
+	},
+	{
+		"start_time": "02:34",
+		"speaker": "Brad Duchaine",
+		"words": "There are. So, if I were to put you into a scanner and we showed you faces and objects, the first thing, what I would do to look at your face network is identify those areas that show a much stronger response to faces than to objects. And if we did that within your occipital and temporal lobes, maybe we'd find something like 12 to 14 little face, what we call face selective areas. Those are blueberry sized regions and as I said earlier, they're connected up. Then if we were able to go in there and record from individual neurons, we would find that those, those face selective areas consist almost entirely of neurons that respond to faces and faces only. Occasionally, you can find another stimulus that has enough sort of stimulus characteristics that it can drive a face neuron, but it's still a phase selective neuron."
+	},
+	{
+		"start_time": "03:21",
+		"speaker": "Ricardo Lopes",
+		"words": "And face perception has some temporal characteristics to it, right? So, what is the importance of the temporal characteristics of face perception and how are they processed by the brain?"
+	},
+	{
+		"start_time": "03:37",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so face perception, as I said earlier, takes place very quickly and um people working primarily with EEG but also sometimes with intracranial recordings have been able to track some of the processes that contribute to face processing. So, maybe around 100 milliseconds, there's an important event, 170 milliseconds, 250 out at around say 400 to 600 milliseconds. So there's these different steps that need to take place for face processing to, to operate effectively. What exactly each one of those steps is, we don't have a great understanding, but we know that there's, there's sort of major events at certain temporal milestones."
+	},
+	{
+		"start_time": "04:16",
+		"speaker": "Ricardo Lopes",
+		"words": "So tell us about how we tend to have highly accurate familiar face recognition, but also error prone performance with unfamiliar faces."
+	},
+	{
+		"start_time": "04:30",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so this is a point that Mike Burton in in York in England has really made a lot of. And so, you know, if you were to see a friend, you wouldn't have any difficulty recognizing them, even from just say a little bit of their face, maybe under less than ideal circumstances, maybe poor lighting. Um, AND yet, Um, if you see an unfamiliar face and you get a good look at it, you're likely to have a tough time knowing if you encounter that face again 10 minutes later in a slightly different view. Um, AND so what Mike would say about that is, we just don't have robust representations that can handle the many different viewpoints that we see faces from if we haven't seen it from lots of different viewpoints, under lots of different lighting. Um, SO just seeing that one unfamiliar face doesn't allow you to generate a, uh, the sort of representation that's gonna be all that effective."
+	},
+	{
+		"start_time": "05:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Does that have any implications for eyewitness identification and policy?"
+	},
+	{
+		"start_time": "05:32",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, that has major implications for eyewitness identification. So what it says is, if people are making identifications involving people that they know, we should have high confidence in those identifications. On the other hand, and this has been shown over and over, if people are making identifications of unfamiliar people, who they've often seen in extremely stressful situations, um, they're like, there's a good chance that they'll be inaccurate with those. And so we really need to Be quite sort of skeptical of people's confidence in those sorts of um evaluations. Another thing, I think maybe later we'll talk a little about individual differences in face perception, but one thing I think that legal systems should also um be aware of is that because there is a lot of difference in how good people are with face recognition. That's something that we should be considering if we've got somebody who's on the stand and is saying that they recognize somebody in a certain situation. If they've got really good face recognition, should put more credence in their, their identification. If they have poor face recognition, we should put less into it."
+	},
+	{
+		"start_time": "06:38",
+		"speaker": "Ricardo Lopes",
+		"words": "So let's talk then about what you mentioned there. There is individual variation in face perception. Is human face recognition ability something that varies between individuals and if so, in what ways does it vary?"
+	},
+	{
+		"start_time": "06:56",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so this is something I, I, I suspect people were aware of this informally in the past, but it's really become a topic of study over the last 25 or so years that people have realized that there's a Wide variety of face recognition abilities. And this is true not just for, when I say face recognition, I'm talking about identifying an individual from their face, but this is true for other aspects of face perception. So how effectively people can recognize expressions, how well they can tell the age of a face, and it's true really for all psychological abilities. And so you can think about face recognition ability as a normal distribution. You've got some people in one tail who are very poor with it. We call those individuals developmental prosopagnosics. We've got other people on the other end who are super recognizers who are just fantastic when it comes to face recognition ability. And then in the middle are the, as are most people who've got, you know, decent face recognition, but it's not particularly bad and it's not particularly good. And these differences in people appear to be pretty stable across time."
+	},
+	{
+		"start_time": "08:01",
+		"speaker": "Ricardo Lopes",
+		"words": "And uh is this face recognition abilities something that is heritable?"
+	},
+	{
+		"start_time": "08:08",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, they are. So there have been a couple of good studies. We carried out a study in 2010, Jeremy Wilmer and, and, um, I and a few and some other colleagues. We did a twin study in which we looked at identical twins and fraternal twins. So the identical twins share all of their genes, the fraternal twins share half their genes. What we found is that the correlation in between performance and the identical twins was quite high. It was around 0.7, so quite strong correlation. In the identical twins, or pardon me, in the fraternal twins, it was 0.3. So it's less than half of the correlation that we found in the identical twins, which indicates that almost all the individual differences in how well people can recognize a face is due to genetic differences. There was a similar study with a larger sample that was done by Robert Plowman's lab 5 years after we did ours, that found very similar results."
+	},
+	{
+		"start_time": "09:02",
+		"speaker": "Ricardo Lopes",
+		"words": "So let's get into some of the deviations from the norm when it comes to face perception. What is prosopagnosia?"
+	},
+	{
+		"start_time": "09:12",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so prosagnosia is a condition where people have great difficulty recognizing facial identity, despite not having any, say, low-level visual problems, um, and don't have more general cognitive problems. So they've got to have difficulties at the level of visual recognition. And these are, a lot of my career has been spent studying people with prosopagnosia."
+	},
+	{
+		"start_time": "09:36",
+		"speaker": "Ricardo Lopes",
+		"words": "And this prosopagnosia is something that people are born with, or is it acquired?"
+	},
+	{
+		"start_time": "09:43",
+		"speaker": "Brad Duchaine",
+		"words": "Both are true. So, for a long time, say, going back to the early 20th century, and you can even find examples of it in the neurological literature in the, in the 19th century, there have been people reported who had normal face recognition ability and then suffered brain damage and lost their ability or at least it was severely impaired, um. Lost their ability to recognize face as well. And so, this is often fairly obvious to people, you know, you wake up in the hospital, people are coming in to see you, and you can't recognize their face any longer. Um, SO it's a real difference. What took us a lot longer to recognize the existence of was developmental prosopagnosia. So, people with developmental prosopagnosia can have face recognition abilities that are just as poor as what we see in acquired prosopagnosia. But of course, there was no before and after for them. They were, they've been bad with faces, presumably their entire lives. Of course, we don't actually, we're not able to measure what happens in those first few years, but my assumption is that it's probably there, probably even prior to birth, um, and so they have great difficulty throughout life, um, and so that's why we call them developmental."
+	},
+	{
+		"start_time": "10:53",
+		"speaker": "Ricardo Lopes",
+		"words": "And what do we know more generally or more broadly about the theology of prosopagnosia? What causes it"
+	},
+	{
+		"start_time": "11:02",
+		"speaker": "Brad Duchaine",
+		"words": "exactly? Yeah, so earlier on, I was mentioning the face processing network, um, and the regions that are particularly important for causing prosopagnosia tend to be right hemisphere, occipital, and, and temporal lobe phase selective areas. Um, THERE'S an interesting Mystery in the face processing literature and that if you look, if I were to put you in the scanner and identify your face selective areas, you'd have face selective areas in the left hemisphere, and face selective areas in the right hemisphere. They look pretty similar to one another, they're a little more pronounced in the right hemisphere. But it's really rare for somebody who, um, to have left, unilateral left hemisphere damage, so damage just to the left hemisphere and then become prosopagnosic. On the other hand, it's common for people when they've had right hemisphere damage to the face network to become prosopagnosic. So there's this really symmetry that we still don't understand, but the right hemisphere, um, is much more important for face process than the left, and it's, it's either damage to those areas in the case of acquired prosopagnosia. Or it's just a failure to develop the sort of the face processing network normally in the developmental cases."
+	},
+	{
+		"start_time": "12:13",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to what is affected neurologically in prosopagnosia, is it just a face specific visual processing or also some aspects of more domain general visual processing?"
+	},
+	{
+		"start_time": "12:30",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, this is gonna be a common answer for me for these sorts of questions. It's gonna vary from case to case. And so we work with some individuals who have difficulties recognizing faces, but they also might have difficulties recognizing cars, um, and recognizing mugs and what have you. Um, THOSE sorts of cases are challenging to interpret theoretically because it could be that they've got some general purpose process that's contributing to recognition of a lot of different categories. On the other hand, it might be that they've got separate mechanisms that are, say, important for face recognition, and important for car recognition, and both of them have been knocked out at the same time because they're neighboring regions. Um, The more interesting cases theoretically are those that just have difficulties with face recognition. Um, AND so they, we've documented and other labs have as well, a number of highly face selective cases, so they have difficulty sort of knowing whose face they're looking at, but they can recognize cars perfectly normally. And maybe later on, if we talk about prosopub metamorphopsia, we could talk about evidence that also speaks to this question. It's probably also worth mentioning. There was a really fascinating case studied by Morris Moskovitz's lab in Toronto. Um, THIS guy is named Mr. CK, and Mr. CK was jogging one day and got hit by a car. And Mr. CK can still recognize upright faces perfectly normally, but he can't recognize objects. He's got very severe object diagnosia. So, you know, Well, this is a podcast. Maybe people can't see those who can't see it, but I'm holding up a mug, and that's"
+	},
+	{
+		"start_time": "14:07",
+		"speaker": "Ricardo Lopes",
+		"words": "also the video version, so people are."
+	},
+	{
+		"start_time": "14:11",
+		"speaker": "Brad Duchaine",
+		"words": "If you were to show this to Mr. CK, not only would he not be able to say, oh, that's Brad's particular mug, he would have difficulty even knowing that it's a mug. So he's got really severe object diagnosia and yet can recognize upright faces perfectly normally. Um, AND so, that's the opposite of prosopagnosia. It's severe object diagnosia with intact face perception. So, we call that a neuropsychology a double dissociation, um, and those, that's a particularly important type of evidence for establishing the independence of different processes."
+	},
+	{
+		"start_time": "14:44",
+		"speaker": "Ricardo Lopes",
+		"words": "But then people can have both problems or,"
+	},
+	{
+		"start_time": "14:49",
+		"speaker": "Brad Duchaine",
+		"words": "yeah, so, you know, if you get a, let's say you suffer a major stroke, and a lot of different high-level visual areas are knocked out, one can lose face recognition and object recognition and, and those, that's, of course, very difficult to deal with for those individuals. It's also for researchers, it's hard to make sense of that because they have such broad deficits, it's hard to know what's causing it. Right."
+	},
+	{
+		"start_time": "15:12",
+		"speaker": "Ricardo Lopes",
+		"words": "What is the psychosocial impact of prosopagnosia during childhood specifically?"
+	},
+	{
+		"start_time": "15:19",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so we published a paper on this around 10 years ago. And so these are people, the people we study are those who have developmental prosopagnosia, which I, I should have mentioned is much more common than acquired prosopagnosia. Um, THROUGH, through our website, which is faceblind.org, we hear from lots, maybe 2 to 3 prosopagnosics per day. Maybe 5% or less are acquired. 95% are developmental cases. So it's much more common than acquired, even though it's, it's interesting, it took us so much longer to recognize the existence of developmental prosopagnosia, probably because they didn't have the before and after that I was talking about. Um, BUT in kids with developmental prosopagnosia, it's very challenging because first off, the parents usually don't realize that the child has prosopagnosia. Um, IT can be helpful when a parent themselves is prosopagnosic, so they might be on the lookout for it, although we've also heard from a number of people who've said, you know, I said to my mom, I can't recognize faces, and she said, nobody can recognize faces, don't worry about it. Um, BUT the, the sort of problems that these kids run into, they don't know that they've got a particular problem, and they're in this sea of individuals who they have trouble knowing who's who. Um, THEY tend to latch on to people who are visually distinctive, or have something else, like an unusual voice, so they know who that person is. And they can be seen as defiant. So, you know, imagine a teacher asks a student, hey, could you pass these assignments back to your classmates? Well, they don't wanna do that, um, because they don't know who, who the people are, um, around them. So, it's, it's. It's very challenging and often it's a real eye-opener for the parents and then eventually the children, when they finally come to realize that the difficulties that the, the person is experiencing are due to problems with face recognition. It makes sense of lots of things for them."
+	},
+	{
+		"start_time": "17:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, and how can they distinguish between different people? I mean, of course, it's more limited than in normally developing children, but is it through voice that is through sound? ARE there any other cues that they're taking?"
+	},
+	{
+		"start_time": "17:36",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so it's all the different channels that we use to recognize people. Um, SO they do use voice a lot. They'll also use, say just body, body shape, the way people move, um. Um, CONTEXT is often very important for them. So imagine you're in a small office and there's only 3 other people in your office. You wouldn't have any difficulty recognizing the people if their face was covered because there's lots of other information you could use to figure out who that is. And developmental prosopagnosics become very good at using this information because they have to rely on it. Um, uh, I had a guy that I wrote my dissertation on a guy named Bill Schozer who lived in San Francisco. And Bill grew up in a small town in the Ozark Mountains, where kids basically wore the same clothes as in 1940s and 1950s. Kids wore the same jeans every day. So Bill became a blue jeans specialist. He would focus on their pants, and he'd say, Oh, I know that that's Chuck cause he wears that particular pair of pants. And even as an adult in the 90s when I was testing Bill, he was still using jeans to recognize people. And I remember one day we were walking along chatting. And he said, well, last time you were up here, you wore those 505s, and they had a little scuff in the back of the right leg. And so I got home and I checked, and sure enough, there was a scuff in them. So, yeah, that people will often focus on particular things that they can use reliably each time they encounter somebody."
+	},
+	{
+		"start_time": "19:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AMONG the general population, what is the percentage of people who suffer from prosopagnosia?"
+	},
+	{
+		"start_time": "19:11",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so if we think about that normal distribution I mentioned earlier, a face recognition ability. The people with developmental prosopagnosia are going to be in one of the tails. Well, this is my tale, but for the viewers here will be over on this side. And, you know, where you draw the line for what is prosopagnosia is subjective. There's no clear cutoff. Uh, WHAT researchers have tended to do is look at that bottom 2% of the distribution. That's who they tended to call, that's who we tend to call prosopagnosic. Now, are they really qualitatively different than the people that 2.1%? Of course not, no. And plus our, our measures are pretty noisy in terms of categorizing people. There's always noise in any of these measures, but it's that group. So, so maybe something like 1 in 50 people have difficulties that really affect them on a daily basis. So if I give a talk to a decent sized audience about prosopagnosia, it's very common for one or two people afterwards to come up and tell me about experiences that they've had that sound like prosopagnosia."
+	},
+	{
+		"start_time": "20:13",
+		"speaker": "Ricardo Lopes",
+		"words": "So I asked you about the psychosocial impact of prosopagnosia during childhood. How about adulthood? I, I, what is, uh, what are its psychosocial impacts on adults? And I mean, are there differences between how it affects children and adults?"
+	},
+	{
+		"start_time": "20:32",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, I wouldn't say there's, there are clear differences. For the most part, similar sort of difficulties that adults have. Um, YOU know, in some ways, the consequences. SOMETIMES can, or the, the effects of it can be more consequential. I think about participants who I've tested, who look back at, say, missed romantic opportunities. They walk past somebody that they're involved with, and they don't recognize them, and the person takes it as a snub, and that blows up the relationship. Similarly, you know, you imagine you get into an elevator and your supervisors in there. And you look right at them, don't recognize them, and don't acknowledge them. It doesn't go over well. People take it very personally when you don't acknowledge them. And so, um, it can be very difficult, particularly when people don't realize that it's face recognition that they have a problem with, which might sound surprising to people, but, you know, you think of it say similar to color deficiency, color, what people typically call color blindness. Um, YOU know, it's hard to know that your perception of the world. IS different than other people's perception of the world. Many developmental prosopagnosics will know something's off, but they don't know it's specifically a problem with the face. When they don't recognize people, they'll often attribute it to more general characteristics, sort of personality flaws. Maybe I just don't care enough about people. Maybe I'm not trying hard enough. And so, this is another time where learning about prosopagnosia is really useful for people, because they realize it's just a little tweak in the visual system that's causing their difficulties. It's not some character flaw."
+	},
+	{
+		"start_time": "22:10",
+		"speaker": "Ricardo Lopes",
+		"words": "Is there a link between social perception and loneliness?"
+	},
+	{
+		"start_time": "22:17",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, there is. So I was involved in a study and I had a fairly peripheral role in this study, but uh Riotaca I published a paper in I think it was 2012, and in there we Measured loneliness in a group of typical participants, so these are not prosopagnosics. And what we found is that if we looked at their just behavioral self-report measures of loneliness, that we found some um structural differences in their left superior temporal sulcus, which is a brain structure over here. Um, AND it turned out that these individuals who are lonely also had more difficulty re carrying out social perception tasks like reading eye gaze, reading facial expressions. Um, THERE'S a bit of a chicken and egg problem. It's not clear whether the neurological problems preceded the behavioral difficulties that they had, or whether they just didn't get enough practice doing these, and so they weren't very good and then you didn't develop those areas, but it seems like that's a contributor to loneliness, which I think in many ways makes sense. If you're having trouble making sense of the social signals around you, it's gonna be difficult, more difficult to form those social bonds."
+	},
+	{
+		"start_time": "23:27",
+		"speaker": "Ricardo Lopes",
+		"words": "So we've been talking about face perception. I would also like to ask you a couple of questions now about, about face memory. In what ways does one connect to the other? Does face perception connect to face memory?"
+	},
+	{
+		"start_time": "23:43",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, that's something that's maybe not as well understood as you would have hoped it would be at this point. Um, SO, of course, you know, face perception takes place first. You need to generate a percept of the face that you're seeing, and then you need to compare that percept to the faces that you have stored in memory. Um, WHERE that goes on is not well understood. Um, WE do have a good sense about when it takes place. We talked earlier about the temporal characteristics of phase processing, and we can see that by 250 milliseconds after a stimulus is presented, People are already matching the incoming percept to memories. We see that this EEG component, there's a stronger response if the person is familiar with the face than if they're not familiar with the face. Whereas, let's say we go back to 170 milliseconds, there's no difference between familiar and unfamiliar faces. So, it, memory is brought into things very quickly, probably in some of these temporal lobe areas or almost certainly in some of these temporal lobe areas. How that plays out though is not well understood."
+	},
+	{
+		"start_time": "24:46",
+		"speaker": "Ricardo Lopes",
+		"words": "Is face memory also affected in prosopagnosia?"
+	},
+	{
+		"start_time": "24:51",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, and in fact, Most people, when they're trying to categorize people as prosopagnosic, do it based on memory tests. So they, for example, we'll give them a famous face test. We show them 60 famous faces one at a time, and when we show them to them, we crop them. So it's just the internal part of the face. We don't want to have hair, for example, it's something they can use to identify them. Um. So we use face memory tests. An awful lot of prosopagnosics though, also have difficulties with face perception. So that proceeding step, we even see prosopagnosics who have difficulty with what we think of as a step that precedes face perception, which is face detection. And by face detection, we just mean the sort of somewhere in your visual field, there's a face and your visual system detects the presence of that. And I think we've all had that experience where, you know, you get the sense that someone is out in your periphery, and you turn and you look and you, your visual system is detected, the existence of a face out there. Um, SO, memory is how we categorize people, but a lot have perceptual problems."
+	},
+	{
+		"start_time": "25:56",
+		"speaker": "Ricardo Lopes",
+		"words": "Can prosopagnosia be improved in any way?"
+	},
+	{
+		"start_time": "26:01",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, that's something that a number of labs have looked at. Joe Degutis down in Boston, Jason Barton out in Vancouver. Um, THERE have been some encouraging results, so modest improvements with training, so people say, get on a computer, they spend 40 minutes making decisions about faces, and what you find is that they tend to do better on tests after that than they did before. They also do better with um Control groups that didn't do that sort of testing, but did the pre-testing. The problem with these results is that they tend to be pretty small boosts, and they also don't persist. So, there's a lot more work to be done when it comes to improving face recognition in, in, in prosopagnosia."
+	},
+	{
+		"start_time": "26:48",
+		"speaker": "Ricardo Lopes",
+		"words": "So, let's move on then to Prosopo metamorphos. Uh, WHAT is it?"
+	},
+	{
+		"start_time": "26:55",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so this is something I'm very excited about. My lab's been studying. Well, we first studied PMO 15 years ago or so, and we heard from a woman who got in touch with us because she told us that she was seeing distortions when she would look at a face. So, the shape of the face would change as she looked at it, and it would become extremely distorted, um. For her, we've done a lot of work with her over the years. It's only faces. That's the only thing that will distort on her. Um, EVERYTHING else is, is, um, normal. As she looks at the face, the face becomes more and more distorted over time, um, so that, say by 10 seconds, it's just a, a mess. Um, AND so that was, we published a paper on her in 2014, and then I got involved with a colleague of mine, uh, George Almeida, who's actually in Queenra, um, and he was working with a 59 year old man who'd had a stroke. And this stroke left him with what we call hemi PMO. So, most PMO, if the distortions affect the whole face. In this individual, it was just half of the face. So, one half of the face looked normal, one half of the face was usually was drooping. And um, so George and I um wrote a paper about this guy. And after that paper was published, heard from a few more people who had, was having these were having face distortions. So my lab created the website, I think it was 2021, and we've now heard from about 200 people around the world who have face distortions. So, it turns out there's a good number of these people out there. If you look in the neurological literature, maybe there's 75 to 80 cases that have been published over the last 125 years. But these individuals are out there and as you can imagine, if you're looking at a face and it's severely distorted, it's really disturbing. And so this is a, a really difficult condition to live with. It's also a condition we think that's gonna provide a really interesting window into how normal face perception works."
+	},
+	{
+		"start_time": "28:56",
+		"speaker": "Ricardo Lopes",
+		"words": "So is it less common than prosopagnosia?"
+	},
+	{
+		"start_time": "28:59",
+		"speaker": "Brad Duchaine",
+		"words": "It's far less common. Yeah. Yeah. So, you know, before we've got this special face distortions website now to find people. But in the 20 some years before we had that website, we have this site where we hear from prosopagnosics, we heard from like 20,000 people. I think we heard from two people who had face distortions during that time. So I think We would have been hearing from more people if it was more common. Yeah, I think it's very uncommon."
+	},
+	{
+		"start_time": "29:27",
+		"speaker": "Ricardo Lopes",
+		"words": "And what causes it?"
+	},
+	{
+		"start_time": "29:30",
+		"speaker": "Brad Duchaine",
+		"words": "That's something that we don't have a great understanding of. One working hypothesis we have is that often these distortions are caused by Deterioration or damage to the connections between the face areas within the face network. So we talked earlier about how there are these different face selective areas. Of course, they're connected up with one another. In the people that we've been able to bring here to Dartmouth and scan, we've seen that a substantial percentage of them have what we call white matter abnormalities. So the white matter, the cells that wrap around these connections, um, you see something similar when you look in the literature, um, Of the people who have hemi PMOs are just distortions that affect one half of the face. More than half of those people have white matter abnormalities in the connection that connects the left and right hemisphere visual regions, including that, that man from Queenber who we, who we tested. Um, SO, This is probably not true. This is too simple a story, but you could imagine that white matter damage causes face distortions, whereas when there's damage specifically to a face selective area, then you result in it results in prosopagnosia."
+	},
+	{
+		"start_time": "30:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. Uh, FROM a neuroscientific and psychological perspective, in what ways does prosopal metamorphosia differ from prosopagnosia?"
+	},
+	{
+		"start_time": "30:54",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so It has a lot of advantage PMO that is with Posopo metamorphosy because we don't wanna say that long word every time, so we call it PMO. Um, PMO has a lot of interesting advantages when it comes to Sort of addressing theoretical questions. One is that their distortions are so salient that you really only need a couple trials to find out if they see a distortion to a particular type of stimulus. Um, SO one of the big questions that I've been interested in throughout my career has been understanding if there are mechanisms that are specialized just for faces. And I've been talking about them as if they, they exist, and I do believe they exist, but it's still a matter of debate within the literature. Um, IF I have somebody with prosopagnosia and I were to ask them, do you have difficulty recognizing tools? Well, it's hard for them to know the answer to that question. Um, uh, AND then, so if I want to find that out, I need to run them on a test that's probably gonna take 10 minutes to run. On the other hand, if somebody has face distortions, uh, I say, I want you to look at this hammer here. I want you to tell me, do you see a distortion? Um, THEY can immediately look at it and tell me very quickly whether they see a distortion or not. And so, we've got data that we've recently collected where we show individuals with PMO 1000 objects. So we've got 500 categories, 2 examples each. And so we're able to move through 500 categories within a couple hours with these individuals. We're also at the same time, making sure that they're having distortions to faces while they're looking at these objects, and they, they are. And so it provides us to much more thoroughly sample object space. And so when we find individuals who see distortions to all 100 faces, we presented them, and no distortions to any of the 1000 objects. And they also report, yeah, I've had this condition for 14 years, and I've never seen a distortion in a, in an object. I always see distortions in faces. It's really powerful evidence for the existence of face-specific processes."
+	},
+	{
+		"start_time": "33:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Does the intensity of face distortions vary depending on the context or on the stimulus in PMO?"
+	},
+	{
+		"start_time": "33:09",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so we've been surprised. We've stumbled across a couple ways that we can influence people's distortions. Um, A very simple 11 day, one of my PhD students was talking to a guy who has faced distortions, and He, he, he showed him a face, and the face happened to have eyeglasses on. So he's looking at the face, he's got eyeglasses on, and the guy said, no, no distortion there. And Antonio was surprised and said, Hmm, no distortion, huh? Whereas cause he'd been consistently seeing distortions. And the participants said, Well, yeah, he's got glasses on. I've noticed I don't see distortions on faces that have glasses. And this is somebody who's got full face distortions, so it's not just, say, around the eye region. Um, SO we've now tested several people who show substantial reduction in how strongly they see distortions when eyeglasses are present. So that's kind of a simple, easy way for people in daily life to reduce their distortion. And we don't understand why that's happening, and we need to look into it more. Another thing that we've done more thorough work on is the effect of color filters on face distortions. Um, SO we've tested a few people who, if they look at a face through a green filter, their distortions are substantially reduced. On the other hand, if they look through a red filter, their distortions are amplified. Um, AND in fact, we looked across the spectrum, and they show these kind of nice sort of Linar patterns as you move through the color through color space, um. And what it looks like in those two, it's sort of roughly red, green, you can think of it's not quite cyan is actually the worst color for one individual. Then we've got another woman who we work with, who lives here in the US who we brought up. She shows the opposite pattern. So for her now, red is, sorry, I should be doing it this way, red reduces distortions and green amplifies distortions. What we haven't found is anybody whose distortions are influenced by the blue yellow dimension. This is, I don't know that you want me to go into this, but there's basically two dimensions in color. And so we're seeing that only one of those two dimensions seems to influence phase perception, which fits nicely with the theory about sort of why we, why we evolved a third um cone for, for color percept for color perception. But, um, so that's been a real surprise to us that color would influence these shape distortions strongly. Um, THE last thing that we found in some people is that The asymmetries in the face, in between the two halves of the face, often drive distortions. So if we show an individual a perfectly symmetric face that we've created in the lab where we flip one half of the face over. We sometimes find that individuals say, my distortions are much weaker for that face, or they'll even say, I'm not having any distortions, um, when they see that perfectly symmetric face. So there's something's happening in the visual system when these asymmetries are present."
+	},
+	{
+		"start_time": "36:07",
+		"speaker": "Ricardo Lopes",
+		"words": "So tell us more about that bit that you mentioned about uh why we evolved the first cone for color perception and how does that connect to face perception?"
+	},
+	{
+		"start_time": "36:21",
+		"speaker": "Brad Duchaine",
+		"words": "Sure, yeah. So, so, um. Primates, because we went through a long nocturnal phase, so many, so if you look at most vertebrates, they have 4 different photoreceptors that are used for color vision. Um, HOWEVER, primates went through a long nocturnal phase, and during that nocturnal phase, we lost two of the photoreceptors. So we were down to two different photoreceptors. So we had considerably reduced, um, uh, color sensitivity. Um, AND then though, something like 25 million years ago or so, a third photoreceptor emote, and that, that's what we still have. We have 3 different cone types in our visual system. And it's not clear what the selection pressures were that drove the emergence of this third cone type and, and as well as the processing to, to make sense of that. Um, ONE hypothesis that has been around for a long time is that it's important for sort of seeing the difference between foliage in the background behind fruit. Um, AND so this is one that's important for foraging, and that may well be a factor in it, a good chance it is in fact. Um, ANOTHER hypothesis, so that came along roughly 20 years ago is that This third photoreceptor emerged in order to help us make sense of information and faces and social perception more generally. Um, AND so, Um, and that bit, that, that new photoreceptor allowed us to make sense of red-green differences. And there are a lot of red differences within the face that we're able to read and make sense of. And you also see other primates like mangils, for example, will have skin patches back on their hips that show different colors that Um, we would be able to make sense of with that 3rd photoreceptor. So this is a social perception hypothesis. And so what this hypothesis suggests is that that the red-green dimension is particularly closely tied to face and social perception more generally. And so, thus, it wouldn't be surprising if there's some special sort of modulation that the red-green dimension can have on face perception if they evolved in tandem with one another."
+	},
+	{
+		"start_time": "38:36",
+		"speaker": "Ricardo Lopes",
+		"words": "And is there good scientific evidence to support that that hypothesis."
+	},
+	{
+		"start_time": "38:42",
+		"speaker": "Brad Duchaine",
+		"words": "Depends what you consider good. I think it's pretty good. So, um, there's a really interesting finding from Bevil Conway's lab. Um, AGAIN, this is a little complicated to explain, but what you do is you put people into an environment in which there's only one wavelength that's illuminating it. And when you put these are sodium lamps that generate this single wavelength. And when you get into this environment, everything looks yellow. Um, THAT would be true for the mug I was holding up. My shirt would have something of a yellow glow, but there's one exception to this, and that's the face. The human face in these in these environments looks a little bit green. Um, AND even if you look at compare, say the neck, um, the neck doesn't look green. The the skin on our hands doesn't look green. So there's just something about the way the face is processed in this unusual color environment that suggests there's something different about the red-green dimension, um, for the face than for all other aspects of the visual world that we're trying to make sense of."
+	},
+	{
+		"start_time": "39:46",
+		"speaker": "Ricardo Lopes",
+		"words": "So is it the case that in certain cases PMO affects the whole face and in other cases it only affects certain individual facial features?"
+	},
+	{
+		"start_time": "39:59",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, that's right. I've already mentioned that some people have distortions just one half or another where the vertical meridian of the face seems to be an important representational division. But we also see people who have distortions limited to maybe just the mouth. We're getting ready to submit a paper, but a, a gentleman who's got mouth-specific distortions. And um You might imagine that, well, maybe it's just the lower half of the face, but what we do with him, we turn the faces, let's say 90 degrees, 180 degrees, and it's still only the mouth that's distorting, despite the fact that when we turn the face 180 degrees, now the mouth region is actually on the top of the stimulus, but that's what's distorting for him and say not the eyes, which are now on the bottom. So, it's a mouth-specific distortion for him. What he'll see. He'll see shape distortions to the mouth. He'll also see duplications of, say, a row of teeth, and sometimes he'll see the duplication of the mouth that he saw. So imagine somebody's face is in one particular viewpoint, then it shifts. He'll see that mouth that he was viewing a second ago, and he'll also see the mouth that he's actually currently perceiving. So you'll see two mouths simultaneously. It doesn't last long, but it's very salient to him, of course."
+	},
+	{
+		"start_time": "41:10",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, and can PMO be improved in any way?"
+	},
+	{
+		"start_time": "41:15",
+		"speaker": "Brad Duchaine",
+		"words": "Well, these manipulations I mentioned, you know, eyeglasses, color, I don't know what you do with symmetry, um, at this point, but, so yeah, those are things. So we work with a guy in South Africa whose distortions are reduced by green and cyan. Well, he actually had some green lights installed in his house. Um, AND he'll ask people, if they don't mind, to just keep their eyeglasses on, for example, because it reduces the distortions in their faces and, you know, people usually don't mind doing that. So it's simple ways sometimes that you can, you can help people. We also have a gentleman who we've done testing with who, like the South African man. His distortions are reduced by green colors, and he has some green tinted glasses that he had made. And if he's gonna go into a crowd, where there are gonna be a lot of people, he'll wear these green glasses so that he's not surrounded by what he calls demons."
+	},
+	{
+		"start_time": "42:08",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So, I have one last question then. Can we learn more about how face perception and representation work by studying conditions like prosopagnosia and PMO? And if so, what can we learn exactly?"
+	},
+	{
+		"start_time": "42:25",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, I mean, that's a lot of what my lab does, um. Let me just give you a few examples from PMO because I think these are easier to understand. Um, I mean, I mentioned the face specificity, which has been a major theoretical question. I think that's an easily understood one. With the gentleman from Queensboro, what we did with him as well as I mentioned the South African guy, they've got very similar sort of distortions, limited to just one half of the face. There's, there's been a hypothesis for a long time that um when we encounter a face, we represent that face, and then we fit it into a template, a face template that other faces that we've seen in the past have also been fit to. And because the faces have been standardized, it makes it easier to compare your current percept of the face to previously seen faces because it's easier to computationally to compare, contrast those two faces. Um, SO that's an idea that's been out there, but there hadn't been much good evidence for it. So, to look at this question about whether faces are fit into this template, what we did with this guy who had hemi PMO, we presented faces to him in a wide variety of ways, but sort of the clearest and easiest to understand is we presented them at different orientations. And what we found is, let's say we're looking at upright face, and he's got distortions on this side. As we turned the face, the distortions stuck to that side. We turn it now we turn 180 degrees. Now the distortions are actually on the other side of the face, but it's still the same parts of the face. And so what that indicates is, when he sees a face, regardless of whether it's upright, 90 degrees, 180 degrees, that face is somehow normalized and fit into a template, and then he's got something's not working on one half of those um templates and That's what generates this distortion. So that was the first really clear evidence that we have these what are called face-centered representations, um, in our visual system. Another really simple thing, and if you look at these individuals who have hemi PMO, the fact that we see this division, that indicates the left half and the right half of the face are processed separately. Within the visual system. And not only that, there's good reason to think that if I'm out looking at a face, the face that I'm seeing that's on my right is processed in my left hemisphere, and the face that I'm seeing in my left is processed in the right hemisphere. And we can see that just based on when people have lesions to just one side or the other. If somebody's got a lesion in the left hemisphere, and they've got a hemi face distortion, so only affecting one half, it's always on the right side. Um, AND so that what that suggests, and this is a pretty radical idea that the left hemisphere is not used to represent the left side of the face. This left right is confusing I'm sure for your listeners here, but hopefully people are getting a sense for what I'm trying to convey."
+	},
+	{
+		"start_time": "45:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, sure. So, before we go, where can people find your work on the internet?"
+	},
+	{
+		"start_time": "45:24",
+		"speaker": "Brad Duchaine",
+		"words": "Yeah, so if people are interested in prosopagnosia, they could go to faceblind.org. And um I think our PMO site is facelind.org/PMO, but I'm not 100% sure, so I would just say search for Prosopo metamorphopsia or even just face distortions and Duchaine, my last name, and they'll be able to find our website. It comes up pretty clearly, uh, pretty high up in the search results."
+	},
+	{
+		"start_time": "45:51",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So, Doctor Duchen, thank you so much for taking the time to come on the show. It's been a pleasure to talk with you."
+	},
+	{
+		"start_time": "45:58",
+		"speaker": "Brad Duchaine",
+		"words": "Thanks a lot, Ricardo."
+	},
+	{
+		"start_time": "46:01",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Nights Learning and Development done differently, check their website at Nights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters Pergo Larsson, Jerry Mullerns, Fredrik Sundo, Bernard Seyches Olaf, Alexand Castle, Matthew Whitting Barna Wolf, Tim Hollis, Erika Lenny, John Connors, Philip Fors Connolly. Then the Matter Robert Windegaruyasi Zu Mark Neevs called in Holbrookfield governor Michael Stormir, Samuel Andre, Francis Forti Agnseroro and Hal Herzognun Macha Joan Labrant John Jasent and Samuel Corriere, Heinz, Mark Smith, Jore, Tom Hummel, Sardus France David Sloan Wilson, asilla dearraujurumen ro Diego Londono Correa. Yannick Punter Darusmani Charlotte blinikolbar Adamhn Pavlostaevsky nale back medicine, Gary Galman Samovalliriei Poltonin John Barboza, Julian Price, Edward Hall Edin Bronner, Douglas Fry, Franco Bartolotti Gabrielon Corteseus Slelitsky, Scott Zachary Fitim Duffyani Smith John Wieman. Daniel Friedman, William Buckner, Paul Georgianeau, Luke Lovai Giorgio Theophanous, Chris Williamson, Peter Vozin, David Williams, the Augusta, Anton Eriksson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, bungalow atheists, Larry D. Lee Junior, old Erringbo. Sterry Michael Bailey, then Sperber, Robert Grayigoren, Jeff McMann, Jake Zu, Barnabas radix, Mark Campbell, Thomas Dovner, Luke Neeson, Chris Storry, Kimberly Johnson, Benjamin Gilbert, Jessica Nowicki, Linda Brandon, Nicholas Carlsson, Ismael Bensleyman. George Eoriatis, Valentin Steinman, Perkrolis, Kate van Goller, Alexander Aubert, Liam Dunaway, BR Masoud Ali Mohammadi, Perpendicular John Nertner, Ursulauddinov, Gregory Hastings, David Pinsoff Sean Nelson, Mike Levine, and Jos Net. A special thanks to my producers. These are Webb, Jim, Frank Lucas Steffinik, Tom Venneden, Bernard Curtis Dixon, Benedict Muller, Thomas Trumbull, Catherine and Patrick Tobin, Gian Carlo Montenegroal Ni Cortiz and Nick Golden, and to my executive producers Matthew Levender, Sergio Quadrian, Bogdan Kanivets, and Rosie. Thank you for all."
+	}
+]

@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1146 Brad Duchaine: Face Perception, Prosopagnosia, and Prosopometamorphopsia",
-	"youtubeid": "B1ryhLpLj_4"
+	"vtt": "1146.vtt",
+	"youtubeid": "B1ryhLpLj_4",
+	"transcript": "1146.lines.json"
 }
 ---
 RECORDED ON JUNE 13th 2025.  
