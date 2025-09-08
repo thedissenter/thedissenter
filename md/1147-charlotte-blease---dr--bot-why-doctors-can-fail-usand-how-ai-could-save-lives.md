@@ -5,6 +5,7 @@
 	"episodeid": "1147",
 	"excerpt": "Dr. Charlotte Blease is an interdisciplinary health researcher at the Department of Women's and Children's Health at Uppsala University, Sweden, and the Digital Psychiatry Division at the Beth Israel Deaconess Medical Center at the Harvard Medical School. She is a former Fulbright Scholar and a winner in 2012 of the UK-wide BBC Radio 3's New Generation Thinkers Competition. Dr. Blease has written extensively about the ethics of placebo and nocebo effects. Her research has been profiled by international news outlets including The Washington Post, The Guardian, and The Sydney Morning Herald. Her latest book is Dr. Bot: Why Doctors Can Fail Us―and How AI Could Save Lives.",
 	"image": "https://i.ytimg.com/vi/cg-fov0qeso/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1147-charlotte-blease-dr-bot-why-doctors-can-fail-us/id1451347236?i=1000725575728&uo=4",
 	"publishDate": 2025-09-08,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1147-Charlotte-Blease---Dr--Bot-Why-Doctors-Can-Fail-Usand-How-AI-Could-Save-Lives-e37jdj8",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1147 Charlotte Blease - Dr. Bot: Why Doctors Can Fail Us―and How AI Could Save Lives",
-	"youtubeid": "cg-fov0qeso"
+	"vtt": "1147.vtt",
+	"youtubeid": "cg-fov0qeso",
+	"transcript": "1147.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 1st 2025.  
