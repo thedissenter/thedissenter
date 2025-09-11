@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1148 Owen Flanagan: What Is It Like to Be an Addict?",
-	"youtubeid": "Qk74juvfleY"
+	"vtt": "1148.vtt",
+	"youtubeid": "Qk74juvfleY",
+	"transcript": "1148.lines.json"
 }
 ---
 RECORDED ON JUNE 17th 2025.  
