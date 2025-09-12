@@ -5,6 +5,7 @@
 	"episodeid": "1148",
 	"excerpt": "Dr. Owen Flanagan is James B. Duke Distinguished Professor Emeritus of Philosophy at Duke University. His work is in philosophy of mind and psychiatry, ethics, moral psychology, and cross-cultural philosophy. He is the author of several books, including What Is It Like to Be an Addict?: Understanding Substance Abuse.",
 	"image": "https://i.ytimg.com/vi/Qk74juvfleY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1148-owen-flanagan-what-is-it-like-to-be-an-addict/id1451347236?i=1000726380551&uo=4",
 	"publishDate": 2025-09-11,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1148-Owen-Flanagan-What-Is-It-Like-to-Be-an-Addict-e34cito",
 	"tags": [
