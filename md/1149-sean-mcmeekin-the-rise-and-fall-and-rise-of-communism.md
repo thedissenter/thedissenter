@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1149 Sean McMeekin: The Rise and Fall and Rise of Communism",
-	"youtubeid": "moJu-MufWkA"
+	"vtt": "1149.vtt",
+	"youtubeid": "moJu-MufWkA",
+	"transcript": "1149.lines.json"
 }
 ---
 RECORDED ON JUNE 18th 2025.  
