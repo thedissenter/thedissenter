@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1150 Mark Blyth - Inflation: A Guide for Users and Losers",
-	"youtubeid": "Y7Wmtny_59U"
+	"vtt": "1150.vtt",
+	"youtubeid": "Y7Wmtny_59U",
+	"transcript": "1150.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 9th 2025.  
