@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1151 William Chopik: Partner Dynamics and Relationship Satisfaction",
-	"youtubeid": "dfI_9r_OITQ"
+	"vtt": "1151.vtt",
+	"youtubeid": "dfI_9r_OITQ",
+	"transcript": "1151.lines.json"
 }
 ---
 RECORDED ON JUNE 23rd 2025.  
