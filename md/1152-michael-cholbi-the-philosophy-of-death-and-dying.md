@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1152 Michael Cholbi: The Philosophy of Death and Dying",
-	"youtubeid": "w0YMZl4je-E"
+	"vtt": "1152.vtt",
+	"youtubeid": "w0YMZl4je-E",
+	"transcript": "1152.lines.json"
 }
 ---
 RECORDED ON JUNE 24th 2025.  
