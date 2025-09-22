@@ -5,13 +5,16 @@
 	"episodeid": "1153",
 	"excerpt": "Dr. Richard Wolff is Professor of Economics Emeritus at the University of Massachusetts, Amherst. He is currently a Visiting Professor in the Graduate Program in International Affairs of the New School University, New York City. He is also the co-founder of Democracy at Work and host of their nationally syndicated show Economic Update. Over the last 25 years, in collaboration with his colleague, Stephen Resnick, he has developed a new approach to political economy. While it retains and systematically elaborates the Marxist notion of class as surplus labor, it rejects the economic determinism typical of most schools of economics and usually associated with Marxism as well.",
 	"image": "https://i.ytimg.com/vi/LJDDCtqVu4A/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1153-richard-wolff-economic-inequality-and-why-we/id1451347236?i=1000727924929&uo=4",
 	"publishDate": 2025-09-22,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1153-Richard-Wolff-Economic-Inequality-and-Why-We-Need-to-Tax-the-Rich-e38ad52",
 	"tags": [
 		"Economics"
 	],
 	"title": "#1153 Richard Wolff: Economic Inequality and Why We Need to Tax the Rich",
-	"youtubeid": "LJDDCtqVu4A"
+	"vtt": "1153.vtt",
+	"youtubeid": "LJDDCtqVu4A",
+	"transcript": "1153.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 16th 2025.  
