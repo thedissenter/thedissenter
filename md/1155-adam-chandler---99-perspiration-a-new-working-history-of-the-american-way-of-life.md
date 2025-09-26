@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1155 Adam Chandler - 99% Perspiration: A New Working History of the American Way of Life",
-	"youtubeid": "EZHMoR2sq9I"
+	"vtt": "1155.vtt",
+	"youtubeid": "EZHMoR2sq9I",
+	"transcript": "1155.lines.json"
 }
 ---
 RECORDED ON JUNE 30th 2025.  
