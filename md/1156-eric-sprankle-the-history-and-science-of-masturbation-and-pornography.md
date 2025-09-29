@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/108341934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-15%2F79b39e18-0629-6731-df95-69bfaf317e89.m4a",
 	"draft": false,
 	"episodeid": "1156",
 	"excerpt": "Dr. Eric Sprankle is a Professor of Clinical Psychology at Minnesota State University, Mankato. He is also a licensed clinical psychologist and AASECT-certified sex therapist affiliated with the Minnesota Sexual Health Institute. He is the author of DIY: The Wonderfully Weird History and Science of Masturbation.",
 	"image": "https://i.ytimg.com/vi/Hke9KLY4o9A/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1156-eric-sprankle-the-history-and-science/id1451347236?i=1000729151668&uo=4",
 	"publishDate": 2025-09-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1156-Eric-Sprankle-The-History-and-Science-of-Masturbation-and-Pornography-e388r7e",
 	"tags": [
 		"Psychology"
 	],
