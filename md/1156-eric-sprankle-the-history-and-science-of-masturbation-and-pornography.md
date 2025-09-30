@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1156 Eric Sprankle: The History and Science of Masturbation and Pornography",
-	"youtubeid": "Hke9KLY4o9A"
+	"vtt": "1156.vtt",
+	"youtubeid": "Hke9KLY4o9A",
+	"transcript": "1156.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 15th 2025.  
