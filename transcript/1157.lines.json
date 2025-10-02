@@ -1,0 +1,407 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lops, and today I'm joined by Doctors Melissa Shu and Kimberly Garsher. Melissa is currently the associate director of Teaching Excellence at Marquette University, where she is also the faculty director of their executive MBA program. And Kimberly is associate professor of philosophy at Kent State University, and they are authors of Philosophy for Girls and Invitation to the Life of Thought, and we're going to talk about the book today. So, yeah, there it is. Melissa and Kimberly, welcome to the show. It's a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:45",
+		"speaker": "Melissa Shew",
+		"words": "Thank you so much for having us."
+	},
+	{
+		"start_time": "00:47",
+		"speaker": "Kimberly Garchar",
+		"words": "Thank you so much for having us."
+	},
+	{
+		"start_time": "00:50",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, so, OK, so philosophy for girls, what is the premise of the book?"
+	},
+	{
+		"start_time": "00:58",
+		"speaker": "Kimberly Garchar",
+		"words": "So the premise of the book is that when the word philosopher springs to mind, you usually picture someone in a toga or someone with some arm patches and smoking a pipe or someone with a beret, and that someone is usually a man. And there is nothing about philosophy as a discipline that makes it be for men. Yet, throughout the history of philosophy, and our focus is going to be, uh, mainly on the history of Western philosophy, but throughout the history of Western philosophy, philosophers have tended to be represented as men. And so the premise of the book is, what if that's not true? What if philosophers don't have to be men? What if there are a lot of philosophers in our midst and throughout history who haven't been men? Yet we have these going ideas that they are only men. So the premise of the book is not an anti-man book, but it's an intentional expanding of what philosophy means and who it's for, to include more than men. By that, we mean women and non-binary people as well. So, the book then has that premise, which is, if philosophy were to be open to more than men, what might it look like? Who might write it and who might it be for. There's an additional premise as well, which is what if philosophy were to be written with clarity and were to be written with accessibility and um not lose any of its rigor. So the other premise is, how can we understand philosophy to, to be accessible to more than just professional philosophers as well. And so that's the, the start of the book. I'll just add a little story here, which is that just the other day, even when I was talking about this book with someone, They said, what do you mean? Of course women do philosophy. And I said, name a woman philosopher. And there was just crickets. And this is from a younger person who's pretty well read and pretty hip, um, and couldn't do it. And so that shows that this book is, for better or worse, and I think for better, um, still needed today."
+	},
+	{
+		"start_time": "03:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, you've already partially answered my next question when you mentioned the audience or the target audience of the book, but who is its target audience actually? Because the, since the title is Philosophy for Girls, is it primarily young women or can it be people of any age and any gender?"
+	},
+	{
+		"start_time": "03:25",
+		"speaker": "Kimberly Garchar",
+		"words": "Thank you for that question. So one of this book's contributors is Gillian Russell, and I think she really answered this question nicely. At one point when the book was coming out a few years ago. She said, imagine that you cook a great meal, um, and I actually do love to cook, and so does Kim, so this is an appropriate analogy here for us. But imagine that you cook a great meal, and someone special is coming, and you know that they're really going to enjoy that meal, but everyone else will enjoy it as well. That's kind of like this book. So, this book has, um, I guess it's special guests, younger women and non-binary people in philosophy, but it is to be enjoyed. As a great meal is for everyone. I'd add to that Kim and I think that some of the most important readers of the book, and I use important with quotation marks here, but some of the most important readers of the book are men, because men need to know what is going on, um, with their younger non-male counterparts as well. Also, we think that the anecdotes that open each chapter are especially relevant to the lived experiences of young women, so that resonates too. So I guess the answer is the book is for everyone, but its special audience is um kind of younger versions of the contributors themselves. And, and that's actually what we prompted. Our authors to start with. Imagine an 18 to 22 year old version of yourself. What book do you wish you would have found on a bookshelf? And it's kind of that poetic image of just running your fingers down books as we've all done in the bookshelf and just going through this, that, whatever book and seeing a title on a cover that strikes your fancy. And our hope is that this book is especially for our younger counterparts, um, both here and around the world."
+	},
+	{
+		"start_time": "05:15",
+		"speaker": "Ricardo Lopes",
+		"words": "But why a philosophy for girls then? Why do we need it and what is a philosophy for girls exactly?"
+	},
+	{
+		"start_time": "05:25",
+		"speaker": "Kimberly Garchar",
+		"words": "So, girls have been 100% systemically excluded from the history of philosophy and thought. You can look at marginalization, both in the Western world and around the world for that. They haven't been at the table. If you look at, for example, even women's leadership, women are not promoted as much. They aren't in leadership positions as much. And another area of my research shows that women are overly punished for contributing. Ideas, even in a workplace. So, why do we need a philosophy for girls? We need a philosophy for girls because we need girls to feel empowered in their intellectual thoughts. And this book is explicitly for that. And so by working through some of the major themes in philosophy and making it relatable, but still rigorous, we aim to empower our younger counterparts. In the introduction, Kim uses a really nice, um, Line. So I'm sorry, Kim, if you were going to say this later, but she uses a really nice line, which is, if you see a girl reading at her table at her desk, leave her alone. She is in training, and I love that idea."
+	},
+	{
+		"start_time": "06:31",
+		"speaker": "Melissa Shew",
+		"words": "QUOTATION though, and I don't recall the author, but that is. Yeah,"
+	},
+	{
+		"start_time": "06:36",
+		"speaker": "Kimberly Garchar",
+		"words": "well, you, well, you use the line and"
+	},
+	{
+		"start_time": "06:38",
+		"speaker": "Melissa Shew",
+		"words": "I use the line, but I, it, I'm not the originator, and that's like, oh, go ahead,"
+	},
+	{
+		"start_time": "06:45",
+		"speaker": "Kimberly Garchar",
+		"words": "no, go ahead."
+	},
+	{
+		"start_time": "06:46",
+		"speaker": "Melissa Shew",
+		"words": "I was just going to add one of the early reviewers of the book, um, to build on exactly what Melissa said in this, in response to this question and the earlier question. Um, ALL reviewers found that it was very empowering for young women, young girls, um, non-binary people, basically not men, but they encouraged men and young men to read it because it made them more aware. Perhaps if they were less aware to begin with, they became more aware of the philosophical work that young girls do on a regular basis in living their lives, in moving about the world. They engage in philosophical thought, they have philosophical questions, they wonder at the world. And sometimes the life of that mind or the life of mind is a little hidden if it's not displayed, um, Thoroughly in academia."
+	},
+	{
+		"start_time": "07:49",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, and what are the goals of the book"
+	},
+	{
+		"start_time": "07:53",
+		"speaker": "Kimberly Garchar",
+		"words": "then? There are a couple different goals of this book, um, So, Kim and I are both parts of various online teaching communities. Well, they're teaching community supported by social media online, like teaching philosophy and a bunch of different philosophy, nerdy groups and so on. And I'd say that one of the goals of this book we're seeing kind of come through there, which is this book is getting into classrooms. This book is helping to shape curriculum at the 1000 level, at the core required philosophy levels. This book is finding its way into high schools, which is really appropriate for advanced high school students, and this book is finding its way. Um, AS kind of a companion as well to what people are doing in their curriculum. So just the other day, for example, someone was commenting on a forum that they use a chapter that's about credibility, which is a great chapter, um, that draws upon the myth of Cassandra, who knew the truth of a situation. That was about to happen, and no one believed her. And so they were using that chapter to pair on some work they were doing with epistemic injustice. So, on one hand, part of the goal is to, frankly, infiltrate philosophy curriculum and what it is that we understand philosophy to be um in a classroom and beyond. Another goal, though, of course, is to And going back to that idea of just kind of finding a book on the shelf to be able to get this book into the hands of as many people who want and need it as possible, and whether that's um in the English speaking world or elsewhere. So, for example, this book most recently has been translated into Persian slash Farsi, and before that, it was translated into Vietnamese. Right now, it's being translated. Into Chinese and um also into Japanese. And this is wonderful for us because we hoped that philosophy for Girls would become a little bit of a murmur around the world so that people would be kind of encouraged to take up these kinds of projects. The translators have been amazing. Um, AND it's all these women. And then there's one guy too, who are doing this work of translation. And so we've been able to be in correspondence with them as well. But I'll say that as a goal of the book, the goal is not to say, this is what philosophy is, this is all it is, and that's that. It's really to open up those conversations and dialogues, um, cross culturally and across histories and with our own selves. So to that end, You know, those are really two of the goals, to help shape how we understand kind of introductions to philosophy and what philosophy entails, and then to make sure that this gets into the hands of a whole bunch of people, so that they have the opportunity to read it, and not just learn from it, right? I mean, the conversations that Kim and Kim and I have Had with the translators, we are learning just as much from them, um, then I think they're learning from this book. But the whole idea is that we should be doing more of stuff like this to get it to younger people who, I mean, cliche as it is, really are the future of our thought here and hopefully some better world making."
+	},
+	{
+		"start_time": "10:55",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. No, you, uh, you know, I, one of the reasons why I asked you to do an interview with me about the book is, first of all, I found the idea behind it very interesting and uh it's very important to talk about representation in philosophy and I guess academia more broadly, but also because uh some of these things like what I'm about to ask you, uh, regarding the gender gap in philosophy. Uh, I have, I have also to learn about them because for me it's not foreign or alien at all to think about philosophers as also women because I've had a ton of them on the show. If people go to my philosophy playlist, I mean, probably still the majority is men, but I have many, many women philosophers on the show, so I'm not unfamiliar with the. Uh, CONCEPT at all, but tell us then about the gender gap in philosophy and I mean, is it mostly in academia when you go to academia, do you tend to find more, uh, male, uh, Students and professors there than female ones or"
+	},
+	{
+		"start_time": "12:12",
+		"speaker": "Melissa Shew",
+		"words": "not. Yes, so the gender gap exists in philosophy, at least academic philosophy, and we're academics, so that's the field we're most familiar with. But the gender gap actually exists both in representation in student body as well as representation at the faculty level. So, what we find typically is that you have a fairly evenly distributed um enrollment in, in the introductory classes across genders. Um, And somehow, the movement from the introductory level classes to upper-level classes starts to become heavily gendered. So, you see, by the time, um, students are graduating, you already see many more male students, um, graduating with that degree than female students. And then if you look at the faculty, Some people might say, well, then that explains the faculty gender difference, but that's not quite true, um, because it, it is the case that there are more men than women in academic philosophy, but the The skew of by, or the, the difference by gender is, is quite dramatic and one might think that, well, um, if we were going to simply say that there were more boys interested in philosophy, therefore, there are more male philosopher professors, that should hold true for other fields too that have been heavily dominated by men, such as, say, physics or engineering. Um, SOME of the latest data, and we don't have a lot of very recent data, but some of the most recent data that we have, um, on representation of women at the faculty level, uh, there are fewer female philosophy professors by percentage than there are female physics professors. And it's about, uh, at that time, it was probably 18%. I would guess that it's up to about 2021 now. But that is, uh, fairly dramatic. And um we are uh regularly surprised at how very few women not only go into professional philosophy, but then also how rarely they get promoted and tenured compared to their male counterparts. And when there's several flawed arguments as to why that is, um, but we see all sorts of drop off along, along the way, such that by the time you're looking at, um, senior faculty members, The difference is quite, quite distinct, in fact."
+	},
+	{
+		"start_time": "15:09",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Right, so before we get into the causes behind that gender gap which you also talk about in the book, uh, in the book you focus on gender and not sex. What is the difference between sex and gender and why does that matter?"
+	},
+	{
+		"start_time": "15:27",
+		"speaker": "Melissa Shew",
+		"words": "Sure. Um, SO I can talk about that again for coming from an academic perspective and I'm going to say things that most academics across sciences and across humanities agree upon, um, but clearly it is, uh, still a very, um, contentious subject, especially in our country. Um, WE tend to think of sex as the biological conditions of reproductive organs, OK? So we're talking about gametes or testes, ovaries, these sorts of things. So, when we talk about sex, we're talking, talking usually about male or female and what is one's reproductive capacity. And that doesn't mean that one has to be able to reproduce to be sex, and we understand that there's a huge phenomenon of intersex people and there's a huge phenomenon of um Uh, variable genetic conditions. So we're not talking about just say, the physical existence of the testes, which would be the phenotype or the genotype of XY versus XX, but any combination of those biological factors that are represented, um, such in the person's body, sort of from, from birth. That's sex. Gender can be related to sex, but it's not the same thing. So gender is an expression of self, typically influenced by cultural norm, as well as possibly sex. Um, SO I tend to think of these two things as connected, um, but sliding scales, right? Such that sometimes, often, they tend to line up, such that People who tend to have, um. XX chromosomes and ovaries tend to identify as women or girls. Not always. We have queer peoples, we have trans peoples, we have non-binary peoples. So, we can get that slippage here, and we're not exactly sure exactly where the connection is, whether it's hormonal, whether it is in fact, um, gestational. We have all sorts of different information, but they can, they can affect each other. Certainly, I'm not claiming that they're entirely Unrelated. But they are not, they are not related in a 1 to 1 relationship the way that many of our schemas assume. And then you could add a third kind of slider on top of that, which would be sexuality, which is the expression. Of sexual desire. And that, again, can be influenced by gender and sex, but it's not necessarily determined by it. So, these three topics are connected, but we don't have the information. We need to make sure, to make claims that are certain about precisely how they are connected. All we know now is that they can be connected and they tend to move across spectrums that are mostly I won't say mostly, but sometimes correlated. And we can predict some of those correlations, but not always."
+	},
+	{
+		"start_time": "18:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Um, AND why does the underrepresentation of women in philosophy historically and contemporarily matter? Because, you know, someone could just say or could just reply to what you've said there earlier. Regarding the, the percentage of women in academic philosophy, oh yeah, but whatever, they're making their choices, probably there are more men than women who like philosophy. I mean, what would you reply to that?"
+	},
+	{
+		"start_time": "19:27",
+		"speaker": "Melissa Shew",
+		"words": "Shall I take the first stab at that, Melissa, or would you like"
+	},
+	{
+		"start_time": "19:29",
+		"speaker": "Kimberly Garchar",
+		"words": "to? Yeah, OK, I know where you're going. Yeah,"
+	},
+	{
+		"start_time": "19:34",
+		"speaker": "Melissa Shew",
+		"words": "I hope so. Um, SO number one, because we live in a gendered society, a patriarchal society for the most part, the experiences of women are different than the experiences of men. And, um, those experiences deserve to be examined philosophically, voiced philosophically, and incorporated into the larger conversations we have about society. That's, in my mind, the most important reason for voicing the philosophical work of women. And that's connected to another, uh, question that you'll ask, I think, down the line, but I'll let Melissa jump in here as well. OK."
+	},
+	{
+		"start_time": "20:21",
+		"speaker": "Kimberly Garchar",
+		"words": "Yeah,"
+	},
+	{
+		"start_time": "20:21",
+		"speaker": "Melissa Shew",
+		"words": "so."
+	},
+	{
+		"start_time": "20:23",
+		"speaker": "Kimberly Garchar",
+		"words": "I think there's a very real way in which things matter to the degree. We invest them with importance. And I have Simone de Bevoir in my mind, and she says, there's no kind of value or good that exists by itself out there in the ether, but rather, things are important and meaningful insofar as we invest them with intelligence, sensitivity, and vitality. And so, I think that it matters because, so that is gender representation in in philosophy matters, because we still believe that philosophy is a discipline worth pursuing and doing, and that that should be open to all. I'm gonna tell a quick story. So I started teaching at Marquette University when I was 29 years old, and my own background is in ancient Greek philosophy. I mean, Socrates is the goat, we can all agree on this. I'm writing a chapter as I did on questions without invoking Socrates, um, it was actually easier than I thought, but I mean, I'm obsessed with the guy, right? And a lot of people in this book who contributed to this book have, um, their own favorite obsessions, whether they're men or women philosophers and so on. But anyhow, so I got my PhD in in philosophy from the University of Oregon, where Kim and I met as grad students and became um philoso sisters and kind of best friends. And so I'm teaching at Marquette, and I'm 29 years old, and I'm just teaching Greek philosophy and all the things I know to teach. And I just kind of assumed that by virtue of me teaching them as a younger woman in philosophy, that there would therefore be great conversation, and that therefore would be some kind of equity or parity. And that was not the case, in fact. And so what happened was, and this was back in 2008, 2009-ish, what happened was, these women in my classes would write their butts off in their essays, but they wouldn't really speak in class without saying something like, I don't know, but, or it's only my opinion, or I'm really unsure, I don't know. But then they would write circles around a lot of people in the class. And so I, I started reading their essays. And I started calling them into my office, and I'm like, why? I mean, I'm teaching this class. I'm a young woman in this discipline, like, why aren't you talking? And everything started to come out in those 1 to 1 conversations. Um, AND it's a lot of what Kim was saying about those gendered expectations and who gets to have a right to have a voice. Um, AND I have a little bit more to say on that in a second, but, But what started to come out was that these women in my classes, and this is not unique to Marquette University, this is around the country, these women didn't know that they could speak with confidence their ideas without being punished or humiliated in class or a fear of retaliation. By the way, that is still a major problem in companies and corporations and organizations and such today, that when women put an idea out there, if it gets shut down, then they are um overly punished for it, or they're retaliated against for it, and that's a big problem. But so these women started to kind of share their ideas in my office. And I thought to myself, you know, it's not enough to have a woman in front of the classroom. And sometimes it's not enough to even have a representation in your materials, but we need to be doing philosophy in a kind of way that encourages and doesn't just shut down discussion and debate. And so, another aspect of this book, Philosophy for Girls, is that it's intentionally dialogical. All the chapters are kind of in conversation with each other, because it's a, it's a different way of trying to do philosophy. Now, that is not a more woman or female way. OF doing philosophy. This is actually how Kim and I think philosophy is best done through collaboration and discussion and dialogue rather than just smashing people down in debate. That's entertainment, but it doesn't necessarily get us any closer to those ideas of vitality and sensitivity, um, and importance."
+	},
+	{
+		"start_time": "24:27",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But, but historically speaking, is it that there have been very few women philosophers, or is it rather that they tend to be omitted? I mean, is it that we know about Socrates. Is Plato, Aristotle, Saint Augustine, Descartes, Hume, Kent, and Nietzsche, because we tend to talk about them and not so much about Hypatia and Simone de Beauvoir, or, or is it that they're just fewer women than men?"
+	},
+	{
+		"start_time": "25:05",
+		"speaker": "Kimberly Garchar",
+		"words": "I will take this one first if that's OK. So, and then I'll kick it to Kim. So. Um, IT'S a both and, exactly. And it's a both and because fewer women have been allowed to be in a position where they can think about ideas and not just about other concerns and cares of the house. And it's also been, um, I mean, the history of philosophy is a history of erasure in a certain way, and erasing those voices of women. Now, there have been a wonderful number of recovery projects in philosophy right now, and Ricardo, I think you know these as well, to go back and see who's writing with Descartes, where are the women, where are the non-white philosophers, and to see if we could do some kind of historical recovery of them. And those people doing that work are doing the work of the gods and goddesses, as far as I'm concerned, to make sure that they are not permanently erased. From that history. But I would say that it's certainly a both and women haven't tended to be privileged to be in positions of being at the table with their ideas. And so there's been that omission, whether it's intentional or um just by neglect. And then there are historically kind of fewer. So, Kim, go ahead."
+	},
+	{
+		"start_time": "26:19",
+		"speaker": "Melissa Shew",
+		"words": "Yeah, I would agree completely. It's both and um I will also add that, uh, sometimes what we find is that women who were doing philosophy at the time. Um, WERE so denigrated, uh, by their colleagues at the time that their work was overlooked. Going back to Melissa's point, which is that there are a number of recovery projects, um, at work here. So, for example, in American philosophy, um, there have been several amazing, powerful women philosophers who were dismissed as social critics or, um, uh, Not even sociologists, but just, you know, they were working on women's issues. They were never given the title of philosopher and therefore, they weren't read by others who are studying philosophy and therefore weren't taught. That's changing now."
+	},
+	{
+		"start_time": "27:13",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so what do you think are the causes of the gender gap in academic philosophy then?"
+	},
+	{
+		"start_time": "27:22",
+		"speaker": "Melissa Shew",
+		"words": "Um, THERE are, I think, multiple causes, and, uh, the phrase that one of our, um, one of our sources uses is that it's a perfect storm of multiple causes. So, and we've already talked about uh some of these causes, so I won't, uh, belabor them. But the first is, um, Implicit bias, which is, uh, the idea that certain genders are expected to behave in certain ways. And what happens is when we move. In our heads, which always happens, from just saying, oh, genders are, certain genders are associated with certain behaviors to certain genders must do these behaviors, um, it becomes incredibly limiting in terms of what can be accomplished by those people because when we see, uh, women, we expect only certain behaviors and those are dictated by general. Gender schemas or norms. Um, WE can also talk about, uh, stereotype, um, worries about stereotypes, and this again goes to something Melissa has already mentioned, which is that, um, what we often see are young women, girls, women, even at the professional level. WHO are afraid to voice their philosophical ideas because they are afraid of repercussion, because they are afraid that they will be dismissed because it has happened so much in the past. Um, SO we see these things, we see a lack of representation, uh, we see lacks, you know, young girls do not see as many women professors as they see men. We see other, uh, issues that exist across a number of disciplines, including the fact that, um, when you research, um, perceived dominance of, say, classroom conversation time, Um, typically, you find that boys or men, um, they speak most of the time, um, a lot of the time. And the time that women or girls actually speak is so far overestimated by men that it, it's actually a little bit absurd. So, I don't have the numbers directly in front of me, but let's say, uh, I think Melissa, you might know this off the top of your head more than I at the moment, but I think roughly it's about 75% of conversation is usually dominated by men and boys. But when you ask men and boys how much girls talk, they will tell you more than 50%, right? So they assume that women are speaking far more than they actually are. So we see all, and that's not just in philosophy, that's in the STEEM, that's in. Um, YOU know, public health, that's across the board. So, I think we see a lot of converging reasons. Go ahead, Melissa. If I"
+	},
+	{
+		"start_time": "30:39",
+		"speaker": "Kimberly Garchar",
+		"words": "can just pipe in, so I have a, um, a research interest in intellectual joy for women's leadership, and so I have A good amount of research about what happens kind of post-graduation and what this looks like for women at work. And so, Kim, just to amplify a point you were making, study after study shows that non-white women in particular, do not even have what they say in meetings attributed accurately to them. That's right. And so, so what happens is, right, not only are women kind of misrepresented more, and they speak less, but they're thought to be, you know, a squeaky wheel or grinding the gears, but what they say is literally Really not attributed to them correctly, especially for non-white women. So that becomes deeply problematic in all aspects of our lives in which we're trying to exist and flourish, as Kim was saying. Um, SO, I just wanted to kind of amp that up, and I'd say that women too, in terms of leadership, whether it's in a boardroom and so on, um, are retaliating. AGAINST for their ideas a lot more than men. And so, for example, just a few quick data points. And so Kim is also a bioethicist and works with medical doctors, and here's a relevant example that connects with her world. When a male surgeon loses a patient, there's no decline in referrals, but when a woman surgeon does, referrals decline by 33%. Women CEOs are 40% more likely to be fired than their male counterparts, and so on. And so what you have here, and again, to bring this back to the realm of ideas, what you have here is people leading with their ideas and what they think is right and so on, being overly punished if they're women and especially if they're non-white women, to the point of not even having what they're saying attributed to them correctly. OK, Kim, back to you."
+	},
+	{
+		"start_time": "32:33",
+		"speaker": "Melissa Shew",
+		"words": "Yes, yes, indeed."
+	},
+	{
+		"start_time": "32:36",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so would you say that this is then a matter of cognitive bias,"
+	},
+	{
+		"start_time": "32:42",
+		"speaker": "Melissa Shew",
+		"words": "cognitive bias on behalf of, or who's, who's cognitive bias, um, and I guess, could you say a little bit more about what you have in mind by cognitive bias?"
+	},
+	{
+		"start_time": "32:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, when, for example, you mentioned that even when women intervene, and men tend to remember more other male interventions and female interventions. I mean, is that a matter of cognitive bias of a certain kind or not?"
+	},
+	{
+		"start_time": "33:14",
+		"speaker": "Melissa Shew",
+		"words": "It, go ahead, Melissa. That's"
+	},
+	{
+		"start_time": "33:16",
+		"speaker": "Kimberly Garchar",
+		"words": "OK. So, I would say yes, and I have a philosopher named Miranda Fricker on my mind right now, in terms of what she calls credibility excess and credibility deficit. So, what that idea means is that if a And I have so many examples from my own life, and so does Kim as well. But credibility excess happens when someone is automatically granted, potentially even more credibility, so more belief than is necessarily warranted by virtue of their identity markers, right? Um, AND by the way, it's not just about being a woman in a man's space or something like that. It's kind of relative to any situation. Incredibility deficit happens when someone is not granted credibility based on certain kinds of identity markers. And so I think that that is a cognitive bias, and I think it's one that women experience. So just a, a quick example for me, I teach a lot of core required philosophy 101 classes, and I know that on day one, and I'm, you know, a woman in my late forties right now, I'm not the 29 year old when I started teaching. Well, I started teaching earlier than that, but that's neither here nor there. But I know that still, on that first day of class, at some point, I'm going to be talking about philosophy and trying to get people hyped up and jazzed and to believe in it. And then I'll walk over to the board and I'll write something in Greek. I'll write usually Gnohi Seatan, which means know yourself. I'll write something in Greek, and then turn around and I will see students kind of calibrate, oh my gosh, she knows things. Now you would think that having a PhD and teaching for 20 some odd years and researching and so on and so forth would automatically grant you that. But in some cases, it doesn't, whereas I have a great dear colleague who is an older British guy with a, a nice Downey or Downton Abbey accent, and he walks into a room and of course, he knows what he's talking about, and I say this with great affection, he's wonderful, but that is a kind of cognitive bias. And so what we see then, again, study after study are these repercussions. I wanna, I wanna share one more example, please, if you don't mind. Which is, I have an interest as well in what's happening in the art world, and there's a study that was done by amazing feminist archivists and museum curators to show that um there is an incredible bias against women artists, which we might kind of intuitively know, but it's shocking how much cognitive bias there is against women's artists. So, for example, 1.6 million pieces of artwork were examined at auction, and what happened was all the names were removed from the works of art, and then the works of art were valued at whatever amount. And then when the names are attached, if the artist were a woman, the value of that work of art plummeted by 47.6%. So, nearly by 50%, and I think that art is a representation of someone's ideas. And so the second, and this is to your question on cognitive bias, the second a woman's name is attached, the value plummets by 50%. And so, in all realms of life, whether it's leadership, philosophy, art, education, we still see this bias very alive, um, unfortunately. And this book, of course, is helping, trying to help counter that to some degree."
+	},
+	{
+		"start_time": "36:43",
+		"speaker": "Melissa Shew",
+		"words": "Mhm. And I would add, I, I agree with everything you've just said. I just, um, was, because I have all of these same ideas in mind, I was a little hesitant to restrict the label of bias to simply a cognitive one, but I absolutely agree that, um, it is an issue of bias on, I would say a number of levels, yeah."
+	},
+	{
+		"start_time": "37:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. But do you know if the way philosophy is done is gendered in any way? I mean, is there anything distinctly male about philosophical methodology? And of course, I, I know that uh depending on the way some people might interpret this question. It could allude to, uh, sex differences in cognitive ability or something like that, but I mean, it's not necessarily that it could just be, for example, a matter of socialization and um men and boys and girls being socialized to prefer different kinds of um intellectual or cognitive methodology, something like that, but is there something like that playing out here or not?"
+	},
+	{
+		"start_time": "37:56",
+		"speaker": "Melissa Shew",
+		"words": "I think, uh, thanks for that question and thank you for the nuance because I would say that there's no, um, inherent intellectual difference between the sexes or genders. Um. What I will admit is that there are very different social expectations, gender schemas, um, custom, ritual, all of these things that contribute to the way that we exist in the world as human beings. And because philosophy is done in certain settings, which are largely in the United States at least, um, white, uh, male-dominated, um, Ciss dominated, uh, dominated by straight people, these sorts of things, those, those, those expectations and ways of being in the world do come out in the work that people do, but there's nothing inherent in those differences. So, what I would say is, can we recognize difference right now? Yes. Is there anything to say that, that, that, that difference is necessary? Absolutely not. And so part of this book in my mind is trying to call attention to. The current ways that we think um about philosophy differently, but also the way that there's a universality of philosophical wonder across, um, any number of spectrums. So, yes, I think that because philosophy is currently done in a patriarchal system and a racist system and all of these other systems, we can point to differences in the way that people do philosophy. Um, THAT doesn't mean there's anything inherently different. So for example, again, Gillian Russell, who, um, is a fabulous contributor that Melissa mentioned earlier, her chapter is on logic, and, um, one would say, well, logic is simply logic. There is no logic for girls, and yet she is the one who said, look, Think of making a beautiful meal for guests, but you have a particular guest in mind when you make that meal. The meal is gorgeous for all guests. Logic is logic for all guests, but it could be that the way that it's presented is special for one person, or it could be that the way that it's made relevant is special for a different person. And that I think is where we see a lot of the difference. So some of the questions raised, The experiences that we point to, what counts as evidence or epistemic, um, uh, Uh, authority. These sorts of things are definitely affected by, um, the different biases that we see at play in society. There's nothing inherent about those biases."
+	},
+	{
+		"start_time": "41:04",
+		"speaker": "Kimberly Garchar",
+		"words": "And I'm thinking about, so, I have a little smile on my face because I'm thinking about how the history of Western philosophy is really the history of people being brilliant geniuses suddenly, whether it's Descartes, right, kind of sitting in his room in his nightgown by a warm fire. Thinking about his life, whether it's Thoreau, whose mom brought him food out at Walden, he has this time to himself. We have this idea that philosophy takes an isolated genius mind to unfurl into the heavens, some brilliance of thoughts. And I think that that is false. And I also think that um how we've happened to understand philosophy according to the status quo, and Kim, I think you just beautifully said so much of that. According to the status quo, that doesn't have to be the future of philosophy, nor does it have to be the nature of philosophy. So, I think about, um, for example, in the sciences, how you have multiple contributors on a paper, philosophy still has the dominance of one author, right? One author usually combating or countering someone else's minor position and so on. And if you read a lot of academic philosophy, and I say this with some affection to even myself and my friends, it's painfully boring, really tedious, and, um, often very poorly written. And so, I think that the future of philosophy, as anticipated by this book, a lot of other great work in philosophy as well, is collaborative, it's dialogical, and it doesn't have to be as painful, both academically and otherwise, as it has been in the past. And I'd wait, I'd make one bigger claim, um, related to academia as well, which is, I think that if philosophy as a discipline doesn't kind of wake up to that. I think it's going to be squished out of more and more universities. And I think that that is a shame. I think that what's happening to the humanities and social sciences kind of broad scale, um, is nothing short of a modern tragedy. But I think that if we were to lean into some of the strengths of philosophy and discussion and dialogue, And this goes all the way back to ancient Greece, really. And if we were to kind of remember, um, those sorts of things, we could in fact build a better world in philosophy. And again, I think there are some great people doing that work, and I think there are some amazing scholars, and you've interviewed many of them, who are writing rigorous philosophy in a more public facing way, and I think that that's good for everyone as well."
+	},
+	{
+		"start_time": "43:34",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean, in, in regards to the bit about uh individual, about the myth of it, it being individuals in is in isolation producing philosophy. I mean, I guess it applies to any kind of intellectual endeavor. It, it's Not really individuals, it's collectives of people. And, I mean, at the very, very least, you always are influenced by the work of other people and sometimes even shamelessly steal ideas from other"
+	},
+	{
+		"start_time": "44:07",
+		"speaker": "Melissa Shew",
+		"words": "people, right? Or not so shamelessly. Sometimes we share an attribute, right?"
+	},
+	{
+		"start_time": "44:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I, I, I mean, I mean, but sometimes that also happens, right? Yeah,"
+	},
+	{
+		"start_time": "44:18",
+		"speaker": "Melissa Shew",
+		"words": "yeah, absolutely."
+	},
+	{
+		"start_time": "44:20",
+		"speaker": "Kimberly Garchar",
+		"words": "Totally, and I think again, um, in the world of generative AI and a whole bunch of other things, I, I think getting back to the basics of what does something mean? Why is it important? How can I know it? How can we commit to certain ideas, whether it's ethics or metaphysics with each other? I think that Just that movement is going to become more and more important as we're facing any number of different challenges, and especially in education, because as you both were talking, I was thinking about how at a bare minimum, dialogue should be happening in our classrooms, and that too is a kind of community."
+	},
+	{
+		"start_time": "44:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Right. Exactly. So how did you select the topics and questions you explore in your book? Because I mean philosophy is a hugely vast field. I mean, you could have picked thousands of different topics, so you went through things like identity, justice, wonder, virtue, reality, deliberation. Why these topics and questions specifically?"
+	},
+	{
+		"start_time": "45:29",
+		"speaker": "Kimberly Garchar",
+		"words": "So, this was really fun to work out together in terms of the general breakdown and vision of the book, because you're right, it could go any number of ways, and at a certain point, we just needed to choose. But what we did was we book, we broke the book down into 4 sections that map onto kind of known areas of philosophy, whether that's ethics or social and political, um, metaphysics, and so on. And then what we decided to do, because we wanted, we wanted the book to relate to academic philosophy and to be usable in different classrooms and such and have some identifiable categories there. But then what we did was we reached out to some Excellent writers who are great philosophers or philosophers who are excellent writers, and we invited them to contribute on their area of expertise to the book within those different sections, and we were very happy that a good number of people said yes. However, since we are also equity-minded and justice-oriented for a whole variety of reasons, we did not just want to handpick people for the book, um, but we wanted to do an open call to see What people were getting up to. And so, we put out a call and we worked very hard to get a nice range of contributors from a lot of different roles and positions in philosophy, writing awesome chapters with the requirement being that each chapter needed to start with an anecdote from history, philosophy, myth, not philosophy, history, myth, literature, whatever, science, in order to open up the topic so that it would be coherent all the way through. So, then what we ended up with were 20 chapters written by women and non-binary contributors, broken down into 4 sections, but according to some main questions and themes that people tend to have in philosophy about identity, about autonomy, um, about questions, about courage, and so on, Thus, trying to make an accessible but and digestible book that would invite people into philosophy without saying this is the final word, you know, there are some big gaps in here, there's some things that are missing, and uh we hope that that'll be in future volumes and maybe that we will be able to do that down the road."
+	},
+	{
+		"start_time": "47:49",
+		"speaker": "Melissa Shew",
+		"words": "And if I could just add a story, um, when this book was being reviewed for potential publication by Oxford, um, reviewers were for the most part, positive, hence the publication, um, but we got a number, a number of comments that were, um, why aren't you addressing love? Why aren't you addressing religion? Why aren't you addressing mind? Um, THESE sorts of things, and when we tallied those, there were actually more suggestions about topics we had missed than topics we had included. And so we, again, to follow up with what Melissa is saying here, we hope to have additional volumes, but you can only do so much in a particular book. So narrowing it down in the way that we did, um. It was partly because of the kinds of contributions that we got, um, and the people who submitted, um, proposals, but also because we recognize the, the pragmatic needs of, of getting a book done, um, but there are any number of topics that could have been in this volume that are not that we hope to include later and, um. The those topics are in no way diminished because they weren't addressed in this first go round. Simply, this is how it worked out."
+	},
+	{
+		"start_time": "49:19",
+		"speaker": "Kimberly Garchar",
+		"words": "Absolutely, and then at the beginning of the book. Not the very, very beginning, which I'll talk about maybe later, but at the beginning of the book, we laid out some threads, um, kind of like some pathways through, because as the book was coalescing as a book and not a random assemblage of essays on different topics, we were able to see, and I think it's in part because Kim and I are lifelong educators, we're able to see these different overlapping threads and kind of ways through. And so the book doesn't need to be read from beginning to end straight through. This is not that kind of book. Um, THE chapters are in conversation with each other, and there are different questions that, that go all the way through the book, and so that is exciting for us as well. And again, we call it an invitation to the life of thoughts, not the final word in philosophy."
+	},
+	{
+		"start_time": "50:07",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So let me ask you a different kind of question now. Do you think that women can be empowered through philosophy, and if so, how?"
+	},
+	{
+		"start_time": "50:18",
+		"speaker": "Melissa Shew",
+		"words": "Do you wanna start? Go ahead, Melissa. I'll, I'll formulate here."
+	},
+	{
+		"start_time": "50:23",
+		"speaker": "Kimberly Garchar",
+		"words": "I think absolutely, and I think I've really thought a lot about this question over the past few years. And If I had to make kind of a provocative claim here, I'd say that intellectual empowerment for anyone might happen only through philosophy. And I know, and I'm gonna, I'm gonna put it out there, because what I see. In our classrooms are a lot of people, and we mentioned AI earlier, a lot of people immediately surrendering their autonomy and their own right to their own ideas to other people. And whether that's to whatever AI spits out, so you put in a question to chat GPT and this is actually an enormous problem for undergraduates right now, that they'll put a question in, and the answer comes out, and then they immediately think that that must be right, right? That's the authority. And so, I think that especially for young people, and especially for young women right now, The way to be empowered is through philosophy. That is, being able to have confidence in who you are, and your right to have ideas, even when they're wrong, is the way to be fully empowered. If you can read, write, and think with some competence, and you can know why you think what you do, then that is empowerment. It also means that a person will be resilient without having to simply have grit to make Get through and I believe very much in intellectual resilience. Now what that means though is that we need to have social structures in place where students, for example, aren't just punished in their education or marked down for getting things wrong all the time and instead they're able to. EARN their credit, and they're able to feel their accomplishments and also be able to take some failures. One big problem I see going on right now, an enormous problem, especially in education, is that students are afraid to voice an opinion because they think they're just going to be canceled or wrong. I think we see this in social media, I think we see this through AI and so on. And I think we see people who have historically been marginalized, like women. AND people of color, they are especially susceptible to this. And so I think if I really needed to make a provocative claim, the only way to intellectually empower someone is through having them engage with the ideas that they're actively having. One quick anecdote about this, as I said, I've done some work on intellectual joy and intellectual empowerment. And this year at my university, I asked several 100 first-year students, so these are students who, most of whom just graduated from high school because I teach at a traditional university, and I asked them, and they're all in these required biology classes that they stress out about all the time. And so I asked them about their studying for biology, and they all say they study a lot individually and together and so on. And then they take the test. And I ask them how they feel after they take that test, that first kind of bio test. And students report that they freak out, this is their language, until they get their score, right? And so all that studying, all that work that they put in, after they finish the test, they immediately surrender their work, their efforts, their intellectual resilience, what they did and didn't do, they surrender it to whether they got something right or wrong. I think that that is totally intellectually disempowering. So, I, I was trying to convince them, I didn't, of course, succeed in the time that I had. I was trying to convince them that they should be able to think about their effort, they should be able to review what they did and did not do. They should be able to come to peace with whether they felt like they succeeded or failed before they even get back the test. But because young people generally feel so, just again, generally, intellectually disempowered, they just want to know if, if what they did was right or wrong. And study after study shows that women are brought up as children, from, from being children, to be right or wrong, to be perfect or imperfect, whereas boys tend to be raised and brought up to be courageous or brave or to make some mistakes. Yet, on a large scale, so many young people now are are kind of in a position of giving up that autonomy or their own agency and so on. So, in terms of intellectual empowerment, telling students that they have the permission to have their ideas, and that they can have ideas that are worth having, and also not worth having, that they can discard and have some intellectual agility with, that seems important. Now, for that to happen, it means that we need psychologically safe spaces without what is called now by Jonathan Hay and some others, safetyism. That is, it can't be the case that anytime someone says something that I disagree with, I'm immediately offended, right? Or I'm immediately undone. But rather a psychologically safe space in a classroom and otherwise means that the conditions are there for the possibility of authentic conversation, and it means that a student should be able to ask, why do we have this assignment or why is this like this. And there should be able to be reasons, right? And so psychologically safe spaces, which are especially important for women and people of color, means that they're not going to be retaliated against if they ask a question or more than that, you know, try to um offer a counterpoint."
+	},
+	{
+		"start_time": "56:23",
+		"speaker": "Melissa Shew",
+		"words": "And I've, I'll, I'll take it in a slightly different direction. I agree with everything Melissa has just said. But as um you were asking the question Melissa was answering, I was thinking of the way that I try to introduce the topic of philosophy to students. And obviously, you will know this, Ricardo, as will most of your listeners, but the word philosophia or philosophy means love of wisdom. And I spent quite a bit of time talking about how it's not knowledge. First of all, it's wisdom, um, which implies an ability to seek clarity and act appropriately, right? Um, BUT then I turn to and emphasize the love aspect and why it's not ownership, right? It's not, um, possession, that what do we know about love? Love is typically a lifelong pursuit. It's a relationship between multiple beings who are agents usually in their own rights. Um, IT is something that is very hard work. It takes listening to other people. It takes changing your mind. It takes out, um, reaching out, it takes being vulnerable, it takes offering forgiveness, it takes asking for forgiveness. All of these things that students tend to typically associate with the word love is not what they associate with academia. And they don't think of the work of academia as being something that is a loving work. And I'm not trying to be overly romantic here. I'm simply trying to say, philosophy, it, your question, you know, is it empowering? Or can it be philosophically empowering to teach these, these topics? Yes, because it's encouraging people to pursue good lives, right? And to recognize that sometimes we get off track, to seek help, to assert ourselves when we believe we are right, and that they know this about, say, relationships, but they don't associate those things necessarily with Understanding with knowledge, with um virtue or value, um, with uh morality or ethics or justice or any of these ideas."
+	},
+	{
+		"start_time": "58:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, so this is a question that is in a way linked to the one where I asked you if philosophy is gendered and if you, if there's something about philosophy that is tailored in terms of its methodology more toward men than women. But if philosophy is still dominated by men, do you think that for women to be successful there, they have to adopt any norms of masculinity?"
+	},
+	{
+		"start_time": "59:27",
+		"speaker": "Melissa Shew",
+		"words": "My first response to this is no. Um, I actually think that the change should come on the other side, which is that perhaps men should pay attention to the ways that norms of masculinity are problematic for many people in the world. Um, SO I don't want to couch it in terms of a masculine feminine dynamic in answering this particular question, although I understand what you're asking. Um, SO, is it possible that women can take on, um, norms typically associated with men and, and succeed in various fields? Absolutely, of course, of course. And do I encourage that for women who choose those routes? Yes, absolutely. Um, BUT is it the case that women must simply conform? No. Uh, AGAIN, this is about a better life for everyone, about a better world for us, and a better world for the future, and that means that the change cannot be one-sided, um, and we have to be critiquing those norms even as we say things like, well, we can understand why assertive leadership is important sometimes. That's fair. Um, BUT we have to understand also why empathy and intellectual, um, awareness and, uh, intelligence is as important. Um, SO I would say, Not necessarily. Some, some people can and some people do, and when they choose that, yes, good on them, but um we need not look for a one-sided change."
+	},
+	{
+		"start_time": "1:01:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, ANYTHING you'd like to add to that, Melissa, or?"
+	},
+	{
+		"start_time": "1:01:25",
+		"speaker": "Kimberly Garchar",
+		"words": "I just want to listen to my friend talk all the time now, but, um, I'll just add, you know, again, kind of broader than philosophy, when we're thinking about people in their work lives, There are some serious challenges to Kind of what's what's called a lean-in model by Sheryl Sandberg, and Bell Hooks is one of my favorite philosophers slash kind of critics of everything. And several years ago, when that book called Lean In came out, which is premised on the idea that women need a seat at the table, this is true, and that women essentially need to do what men do in boardrooms to, to get ahead. So that's the basic premise. So, it's a training program on how women, for example, can learn to golf like men and therefore be part of those conversations to get that seat at the table. Bell Hooks and myself and a good number of people, and then I'm thinking about liberation theologists like Paulo Freiri and um people who are into Education as a, as a way to be free, they all push back on that conception that to be a leader is to be like a, someone who's always been in that leadership position, whether that's been a white man or whatever it is. And what they're interested in, and Kim is very much speaking to this, is an entire culture change. And so, you know, what does that table need to look like? What are the conditions for people to be in leadership positions? Um, WHOSE voices are missing, we should always be asking that, who needs to be heard? And it's not that everyone needs to be heard all the time. And this is also to Kim's point about, you know, we need assertive leaders, right? But that assertive leadership doesn't always have to be how it's always always been. And I would say that academia is very slow to change. It's extremely status quo. Um, IT reinforces higher Hierarchies all the time, even while academics are writing about justice, there are injust practices and unjust practices in their own houses, and we should put all of this on the table. And I think that academia, so to again, take that big picture, is itself in a really precarious position right now, at least in the United States, but I know elsewhere around the world. And so, I think it would be in, Everyone's best interest in higher education to be thinking about these things, whether it's for academic philosophy or for what the future of learning looks like, especially in constantly having to make a case that it should exist and um that thinking and learning and seeking truth in, you know, a time of rampant misinformation is maybe more important now than ever. Mhm"
+	},
+	{
+		"start_time": "1:04:06",
+		"speaker": "Ricardo Lopes",
+		"words": "So are there any strategies we can adopt to address the gender gap in philosophy, and if so, what would you say are the main ones?"
+	},
+	{
+		"start_time": "1:04:19",
+		"speaker": "Melissa Shew",
+		"words": "I can, I'll take lead and then kick it to Melissa, um, or not lead, but first answer. Um, FIRST, I think we can have better representation. Girls and women need to see themselves in philosophical inquiry. Um, THIS book attempts to begin that project. We need to recognize the kinds of questions that girls and women may ask that are different than the ones that are typically asked, again, stereotypically. By men or boys or those in dominant positions. We need to be asking not just about um what the experience of, of women and girls are, but um non-white peoples, queer peoples, these sorts of questions. And so we, we need to um have better representation. We need to see ourselves in the texts. Again, one of the strategies of this book. Um, WAS, as you noted earlier, um, to show the breadth of women philosophers and the work that they have done. So girls and women can say, oh, yeah, OK, it's not all Descartes, it's not all Socrates. Hail to the king. Um, BUT that we see, you know, we're seeing all of these different reclaimed figures and figures that haven't needed to be reclaimed, Beauvoir and contemporaries. Um, SO, We, we, these are some initial strategies. Uh, THEY center around representation, identification, um, and, and being heard, but I will now kick it to My friend."
+	},
+	{
+		"start_time": "1:06:09",
+		"speaker": "Kimberly Garchar",
+		"words": "Yeah, so, we wanted the book not to just be, it's interesting, actually, I think, because we wanted the book not to just be about political issues or social issues or identity issues. We really didn't, you know, philosophy is about more than that, and I think once The stereotype and philosophy is that if you're a woman working in philosophy, you have to be working on certain kinds of topics. And I'll say that in my own life, being a woman in ancient Greek philosophy, I was subjected to some of those critiques as well. Well, she can't be a feminist because she works in ancient Greek philosophy. False dichotomies everywhere. But in terms of representation, you know, we asked our authors to use mainly, not exclusively, but mainly, Historical and contemporary sources, so secondary literature and primary literature, not written by men, in part because we know all those, or a lot of them. And, you know, It's our experience as kind of micromanaging editors of this book, um, We don't miss them. We don't miss the men. And I will say that, because, as it turns out, when you look closely enough, there are an abundance of women philosophers, both to be recovered and then writing now to be discovered. There are some movements going on in philosophy about citation, attribution, and making sure that in papers, say, written in disciplines that are traditionally male dominated, that women are included, or at least referred to, or at least considered. There is a movement that started a few years ago called, congratulations, you have um an all-male panel, right? Because so many panels in philosophy are simply men and so on. I will say that I think it's a complicated issue because you also don't want tokenizing and you also don't want to have a woman on just because she's a woman, um, so that tokenization, but because she has something to contribute, but we do see people kind of making a, a show of simply reinforcing the status quo. So, we hope that this book then through the clarity that each contributor writes with through the coherence and discussion that arises through the combination of chapters, through the citations and references, and through just kind of the passion and sincerity with which every chapter is written. I mean, this book, um, by many people's accounts is a labor of love with, again, Kim, you know, as you so beautifully emphasized that love is leading the way here. We hope that this book shows that philosophy can be done for People not traditionally included in it, and then represent people who have been doing philosophy all along that maybe haven't been noticed. Um, ONE last word on my end is that the book opens with, and so I showed it here, so on the cover, there is a picture of a pomegranate, and you might wonder why is there a pomegranate on the book of uh called Philosophy for Girls. Well, it's because the book opens with, um, a retelling of the Persephone story. So to come back to this idea of naming and representation, in ancient Greek myth, poetry, and philosophy, You know, we know a lot of the gods and goddesses, but we actually don't know much about Persephone. Persephone is the daughter of Demeter, who, of course, is one of the great Greek goddesses, and What happens is Persephone is abducted slash seduced slash raped, it's all the same word in Greek, by Hades, the king of the underworld, and is brought down to Hades and um ends up spending 6 months underground and 6 months aboveground, um, the only goddess to rule in two realms, and she has those 6 months because she eats 6 pomegranate seeds. Now, we retell the story of Persephone to be the story of this imagined. Young woman coming into her own consciousness and coming to her own kind of authority and autonomy and having to, frankly figure things out. In fact, before she was abducted, Persephone was never called Persephone, she was just called Korre, which means girl, and it's not until she grows into this power that she really grows into her name. And then just an interesting bit of trivia is that once she does become this queen of the underworld, um, almost every time her name is mentioned in Homer or in Greek myth, Persephone is always preceded by a word that translates into thoughtful or circumspect, but she's incredibly wise. AND she's incredibly clever, and she's a little bit feared because she is a powerful goddess. And we love this as the opening of this book, to think about what it is to be a girl coming into her own, having to traverse many different realms of life, and becoming who she is all along."
+	},
+	{
+		"start_time": "1:11:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. What do you call this book, uh, feminist book?"
+	},
+	{
+		"start_time": "1:11:05",
+		"speaker": "Melissa Shew",
+		"words": "It is a book of philosophy done by women compiled in a feminist spirit. How is that for, you know, using some, some, uh, word like or word garbage there, but what I mean is the topics are universal topics, um, identity, autonomy, uh, Uh, logic, right? Um, THEY are done by women, and so we hear women's voices, and we certainly had a feminist agenda in putting the book together. But again, young men or men of any age can pick this book up and learn about philosophy from this book, and we've been very proud of the responses we've gotten. That emphasize that it's not just for girls that, um, actually anyone can read this and learn about philosophy."
+	},
+	{
+		"start_time": "1:12:04",
+		"speaker": "Kimberly Garchar",
+		"words": "It's absolutely a feminist book, as Kim said, and feminism, we think is good for everyone. It's also not itself a homogenized discipline or subset of philosophy, so even the word feminism, I think is a pluralistic word, um, but yeah, it's absolutely in a feminist spirit of friendship and love and conversation, and of course, you know, we think that men should be feminists too."
+	},
+	{
+		"start_time": "1:12:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, yeah, I mean, definitely feminism is not anti-men, right? Yes, correct. OK, so one last question then. So you were able to write an entire book about some of the major branches of philosophy with nearly all sources written by women. I'm saying nearly and not all because I, I didn't go through all the references to, to check it. So what does that tell you about the contributions of women to philosophy and how does it contrast with how they are perceived?"
+	},
+	{
+		"start_time": "1:13:09",
+		"speaker": "Melissa Shew",
+		"words": "There is power there if we're willing to look for it. There is wisdom there if we are willing to look for it. There is, um, Leadership and knowledge and love there if we're willing to look for it. And um societally, we've not always been willing to look for it. Uh, THAT doesn't mean that it's suddenly a new thing. Um, IT'S that we perhaps now have the luxury of being able to look for it. Um, SO, I, I would say that, uh, We need to. Legitimize the voices and questions raised by, or the voices and questions of girls and women, and the voices of girls and women and the questions raised by girls and women. Um, But also legitimize simply um. Younger voices. Uh, THAT'S one thing we actually didn't talk about is why we chose to use the word girls. And I'll just try to wrap this, um, by going back to a comment at the very beginning of the podcast, which was, you know, what does a philosopher look like? Uh, I do that exercise with my students on the first day. Uh, FOR introductory classes, and they almost always see a toga, you know, an olive, um, wreath, um, these sorts of things, but, uh, more than anything, they see an older person, you know, um, it, it's male, but he always has a beard and it's usually gray. And um I, I always say, no, look, look, look around. I'm sorry, I'm doing one of those obnoxious, look to your left and look to your right, y'all are philosophers. This is, this is what philosophy looks like. You are, are a philosopher and we're going to learn more philosophy together. So, um, I, I strayed from the direct answer of your question but hopefully kind of um tied it up there."
+	},
+	{
+		"start_time": "1:15:20",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, Melissa, do you want to add anything to that?"
+	},
+	{
+		"start_time": "1:15:25",
+		"speaker": "Kimberly Garchar",
+		"words": "Yeah, so, you're right, it's not all women sources, and that makes good sense for the book, too. I mean, we could have just made that a requirement and people would have done it, but then that would have been a matter of compliance, and we don't want that. Um, BUT it is mainly women sources. And as Kim said, They're there. And no one was writing to us saying, I can't come up with women philosophers. Everyone had them ready in mind, and then if they didn't, they, they did some digging, um, to find that out. But again, you know, I wrote an entire chapter on questions and, and wonder without mentioning Socrates. And as much as I love Socrates, he is to me the goat. I didn't miss him, and I don't think that Chapter is any worse for wear. So, as I'm kind of flipping through this book, as we're talking, and I'm looking at the bibliographies of each chapter, I'm thinking about how if someone wanted to, they could just put that together and have an incredible reading list in philosophy, and that itself could be the basis of a, of a class. I'd add to that, um, Um, one thing that we did as a result of this book was we put together a website called The Persephone Project, and I did this with 5 former students, um, thinking about truth, meaning, and identity. And then there's a page of resources about this book with some questions that correspond to each chapter, and they're questions and reflections written by The book's intended readers. And so, you know, again, the hope is that it's not just what's in this book, but what comes from it, that shows, as Kim was saying, the power of all of us to be philosophers. But I don't think the book is any worse for wear, for not being just filled with a bunch of men writing. Um, WE have lots of those books."
+	},
+	{
+		"start_time": "1:17:12",
+		"speaker": "Ricardo Lopes",
+		"words": "And, not, not at all, not at all. It's a great book, so yeah, but go ahead. Sorry."
+	},
+	{
+		"start_time": "1:17:18",
+		"speaker": "Melissa Shew",
+		"words": "No, I was just going to say, and no one, even, um, critics of, uh, the title or, or the subject matter of the book, no one, not any critic have, uh, that I've heard of anyway, has said, well, I think the book is worse off because there's not enough men in it. There's lots of critique. Um, THAT'S fair. That's what we do in philosophy, but no one has said. You should have used more men. That seems to have been appreciated by almost all readers and uh reviewers."
+	},
+	{
+		"start_time": "1:17:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, great to know. And the book is again Philosophy for Girls, An Invitation to the Life of Thought. Of course, I'm leaving a link to it in the description of the interview. And would you like just to let us know where people can find your work on the internet before we go? Maybe Melissa, you can go first."
+	},
+	{
+		"start_time": "1:18:16",
+		"speaker": "Kimberly Garchar",
+		"words": "Sure. So, if anyone's interested in some of these ideas about intellectual joy and intellectual empowerment, I have a white paper on the power of intellectual joy for the future of women at work, and I have a TEDx talk on women and intellectual empowerment. All of this is part of the same sort of package here, and I can share those links as well."
+	},
+	{
+		"start_time": "1:18:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Right then, Kim."
+	},
+	{
+		"start_time": "1:18:37",
+		"speaker": "Melissa Shew",
+		"words": "Uh, YEAH, I would say if you're interested in finding the book or others like it, you can find, it can be found almost anywhere online. It's published by Oxford University Press. You can find it there. Um, THEY'VE published a number of other books that are outstanding pieces in contributing to Um, philosophy done by and, and for women. Um, AND I would absolutely send people to Oxford, um, other academic presses, but also, uh, look out for all of those fun books that are around as well, that are starting to feature and focus on the voices of girls and women."
+	},
+	{
+		"start_time": "1:19:18",
+		"speaker": "Kimberly Garchar",
+		"words": "And if you do read this book and like it, um, or if you don't too, that's fine, then it would be great to actually leave a review, um, because the way that more books like this get published, and I'm not talking about the future of philosophy for girls, but other things like it, The more kind of feedback comes from readers, the more presses are inclined to take projects up like this. So whether it's through the Independent Booksellers Hub or through a big platform like Amazon, sorry to say, but it helps, um, go ahead and leave a review of your favorite books. In fact, that's what everyone should do right now, go leave 5 reviews of books to encourage the kinds of books you want to see in the world."
+	},
+	{
+		"start_time": "1:19:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, just follow the link that I will leave in the description and do that immediately. So, and Melissa and Kim, thank you so much for taking the time to come on the show. It's been fun to talk with you."
+	},
+	{
+		"start_time": "1:20:09",
+		"speaker": "Melissa Shew",
+		"words": "It's been an absolute pleasure. Thank you so much for having us. I've enjoyed it."
+	},
+	{
+		"start_time": "1:20:14",
+		"speaker": "Kimberly Garchar",
+		"words": "Indeed, and thank you for shining a light on this book and all that it took to make it happen. Thanks so much."
+	},
+	{
+		"start_time": "1:20:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights, Learning and Development done differently. Check their website at lights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seaz Olaf, Alex, Adam Cassel, Matthew Whittingberrd, Arnaud Wolf, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andre, Francis Forti Agnun, Svergoo, and Hal Herzognon, Michel Jonathan Labrarinth, John Yardston, and Samuel Cerri, Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloane Wilson, Yasilla Dezara Romain Roach, Diego Londono Correa. Yannik Punter DaRosmani, Charlotte Blis, Nicole Barbaro, Adam Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P Scortez or Suliliski, Scott Zachary Fish, Tim Duffyanny Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgius Theophannus, Chris Williamson, Peter Wolozin, David Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Janaertner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers Iar Webb, Jim Frank Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlomon Negro, Al Nick Cortiz, and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]

@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1157 Melissa Shew & Kimberly Garchar: Philosophy for Girls",
-	"youtubeid": "MC6mSvRcB4A"
+	"vtt": "1157.vtt",
+	"youtubeid": "MC6mSvRcB4A",
+	"transcript": "1157.lines.json"
 }
 ---
 RECORDED ON JULY 2nd 2025.  
