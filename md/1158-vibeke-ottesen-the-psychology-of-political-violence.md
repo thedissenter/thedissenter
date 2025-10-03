@@ -5,13 +5,16 @@
 	"episodeid": "1158",
 	"excerpt": "Dr. Vibeke Ottesen is a Norwegian criminologist with an interest in how nature and nurture combined create human behavior. She has a popular science blog – Biosocial - where she comments on news, scientific findings and literature relevant to her subject – more often than not with an evolutionary informed approach to understanding the subject matter. She has held numerous lectures on the benefits of an evolutionary informed approach to understanding the cross-cultural sex and age differences in anti-social and criminal behavior. ",
 	"image": "https://i.ytimg.com/vi/rEugabhf_gc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1158-vibeke-ottesen-the-psychology-of-political-violence/id1451347236?i=1000729987128&uo=4",
 	"publishDate": 2025-10-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1158-Vibeke-Ottesen-The-Psychology-of-Political-Violence-e38jl9h",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1158 Vibeke Ottesen: The Psychology of Political Violence",
-	"youtubeid": "rEugabhf_gc"
+	"vtt": "1158.vtt",
+	"youtubeid": "rEugabhf_gc",
+	"transcript": "1158.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 23th 2025.  
