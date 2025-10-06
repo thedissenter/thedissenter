@@ -13,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1159 Michael Hudson - Temples of Enterprise: Creating Economic Order in the Bronze Age Near East",
-	"youtubeid": "ljF33z_NAqM"
+	"vtt": "1159.vtt",
+	"youtubeid": "ljF33z_NAqM",
+	"transcript": "1159.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 24th 2025.  
