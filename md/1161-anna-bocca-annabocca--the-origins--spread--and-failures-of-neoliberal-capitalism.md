@@ -5,6 +5,7 @@
 	"episodeid": "1161",
 	"excerpt": "Anna Bocca is a YouTuber (@annabocca). She makes videos about the scams of the corporate world, our economy, society, and other topics.",
 	"image": "https://i.ytimg.com/vi/18KMCduijAE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1161-anna-bocca-the-origins-spread-and/id1451347236?i=1000731213606&uo=4",
 	"publishDate": 2025-10-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1161-Anna-Bocca-The-Origins--Spread--and-Failures-of-Neoliberal-Capitalism-e38tdo3",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1161 Anna Bocca @annabocca : The Origins, Spread, and Failures of Neoliberal Capitalism",
-	"youtubeid": "18KMCduijAE"
+	"vtt": "1161.vtt",
+	"youtubeid": "18KMCduijAE",
+	"transcript": "1161.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 30th 2025.  
