@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1160 Edward Watts - The Romans: A 2,000-Year History",
-	"youtubeid": "kE_wkbggizk"
+	"vtt": "1160.vtt",
+	"youtubeid": "kE_wkbggizk",
+	"transcript": "1160.lines.json"
 }
 ---
 Dr. Edward Watts is presently the Vassiliadis Professor of Byzantine Greek History at the University of California, San Diego. His research interests center on the intellectual and religious history of the Roman Empire and the early Byzantine Empire. He is the author of several books on ancient history, including Mortal Republic: How Rome Fell Into Tyranny, and The Eternal Decline and Fall of Rome: The History of a Dangerous Idea. His latest book is The Romans: A 2,000-Year History.
