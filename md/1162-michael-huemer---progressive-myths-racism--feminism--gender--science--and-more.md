@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1162 Michael Huemer - Progressive Myths: Racism, Feminism, Gender, Science, and More",
-	"youtubeid": "7LeG71YgZqM"
+	"vtt": "1162.vtt",
+	"youtubeid": "7LeG71YgZqM",
+	"transcript": "1162.lines.json"
 }
 ---
 Dr. Michael Huemer is a professor of philosophy at the University of Colorado. He is the author of more than seventy academic articles in epistemology, ethics, metaethics, metaphysics, and political philosophy, as well as several books, like Skepticism and the Veil of Perception, Ethical Intuitionism, The Problem of Political Authority, Approaching Infinity, Paradox Lost, and Dialogues on Ethical Vegetarianism. His latest book is Progressive Myths.
