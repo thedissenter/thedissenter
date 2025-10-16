@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1163 Herman Pontzer: How to Understand Human Biological Variation: \"Race\", Height, Gender, and More",
-	"youtubeid": "lM78mRJ6YdI"
+	"vtt": "1163.vtt",
+	"youtubeid": "lM78mRJ6YdI",
+	"transcript": "1163.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 29th 2025.  
