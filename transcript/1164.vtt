@@ -1,0 +1,3154 @@
+WEBVTT
+
+1
+00:00:00.419 --> 00:00:03.369
+Hello everyone. Welcome to a new episode of the
+
+2
+00:00:03.369 --> 00:00:06.409
+Dissenter. I'm your host, as always, Ricardo Lopes, and
+
+3
+00:00:06.409 --> 00:00:09.689
+today I'm joined by Dr. Rafael Nunez. He's a
+
+4
+00:00:09.689 --> 00:00:12.859
+professor of cognitive science at the University of California
+
+5
+00:00:12.859 --> 00:00:16.860
+San Diego. He investigates cognition from the perspective of
+
+6
+00:00:16.860 --> 00:00:19.799
+the embodied mind, and today we're going to talk
+
+7
+00:00:19.799 --> 00:00:24.799
+about embodied cognition, time and space, and numerical cognition
+
+8
+00:00:24.799 --> 00:00:28.100
+and mathematics. So Dr. Nunez, welcome to the show.
+
+9
+00:00:28.139 --> 00:00:29.459
+It's a pleasure to everyone.
+
+10
+00:00:30.090 --> 00:00:32.000
+Thank you. Thanks for the invitation.
+
+11
+00:00:32.959 --> 00:00:35.560
+So let me start by asking you then, what
+
+12
+00:00:35.560 --> 00:00:39.060
+is embodied cognition and in what ways does it
+
+13
+00:00:39.060 --> 00:00:43.279
+differ from other approaches in the cognitive sciences?
+
+14
+00:00:44.830 --> 00:00:48.979
+Well, embodied cognition is a, is a large umbrella
+
+15
+00:00:48.979 --> 00:00:55.169
+term that captures, I would say, many different, um,
+
+16
+00:00:55.950 --> 00:01:00.240
+approaches. Um, THEY'RE not homogeneous, I would say, uh,
+
+17
+00:01:00.470 --> 00:01:03.349
+but they're all share like uh some kind of
+
+18
+00:01:03.349 --> 00:01:06.989
+interest in, um, that came out more late, more
+
+19
+00:01:06.989 --> 00:01:11.879
+or less in the 1980s, 1990s. Um, AS a
+
+20
+00:01:11.879 --> 00:01:15.279
+way of, uh, answering to a dissatisfaction, which was
+
+21
+00:01:15.279 --> 00:01:20.120
+like a, a purely digital sort of, uh, information
+
+22
+00:01:20.120 --> 00:01:24.989
+processing view of the mind. And incorporating, you know,
+
+23
+00:01:25.150 --> 00:01:29.519
+features that concerns, you know, the body, the anatomy,
+
+24
+00:01:29.910 --> 00:01:34.709
+uh, anchored in the physiological constraints of our, not
+
+25
+00:01:34.709 --> 00:01:39.150
+just our human, but animality in general. And this
+
+26
+00:01:39.150 --> 00:01:41.790
+can, you know, took different forms. Some of them
+
+27
+00:01:41.790 --> 00:01:44.989
+had to do with anatomy. Other things had to
+
+28
+00:01:44.989 --> 00:01:48.620
+do more with bodily experience, more phenomenological, and so
+
+29
+00:01:48.620 --> 00:01:51.550
+on. So I wouldn't say it's just one coherent
+
+30
+00:01:51.550 --> 00:01:53.709
+view, but it's like a, you know, like a
+
+31
+00:01:53.709 --> 00:01:58.389
+large response sort of uh for this more purely
+
+32
+00:01:58.389 --> 00:02:02.709
+abstract formal, uh, formally driven approaches to analyze the
+
+33
+00:02:02.709 --> 00:02:05.739
+mind. So that's would be my, my short, you
+
+34
+00:02:05.739 --> 00:02:08.350
+know, characterization of embodied cognition. So that, you know,
+
+35
+00:02:08.630 --> 00:02:11.190
+depends on who you ask. Some people may be
+
+36
+00:02:11.190 --> 00:02:15.389
+doing, um, You know, uh, work in robotics, for
+
+37
+00:02:15.389 --> 00:02:21.309
+example, exploring embodied cognition, uh, but then they wouldn't
+
+38
+00:02:21.309 --> 00:02:25.750
+necessarily deal with the question of phenomenology and bodily
+
+39
+00:02:25.750 --> 00:02:28.750
+experience, but other people will be doing that in
+
+40
+00:02:28.750 --> 00:02:32.460
+which, you know, the materiality of, uh, of the
+
+41
+00:02:32.460 --> 00:02:34.869
+agent is maybe less important and so on and
+
+42
+00:02:34.869 --> 00:02:37.070
+so forth. So, uh, there would, you would have
+
+43
+00:02:37.070 --> 00:02:39.630
+many different views under this big umbrella.
+
+44
+00:02:40.669 --> 00:02:43.190
+Right, but what does it mean for the mind
+
+45
+00:02:43.190 --> 00:02:46.949
+to be embodied, because you know, many times when
+
+46
+00:02:46.949 --> 00:02:50.610
+people think about the mind, they tend to associate
+
+47
+00:02:50.610 --> 00:02:54.149
+it with just the brain itself, but what does
+
+48
+00:02:54.149 --> 00:02:56.149
+it mean for it to be embodied?
+
+49
+00:02:57.279 --> 00:03:00.160
+Well, again, so, um, on the one hand, if
+
+50
+00:03:00.160 --> 00:03:03.279
+you just look at neuroscience, if, you know, there's
+
+51
+00:03:03.279 --> 00:03:07.100
+a tendency sometimes to reduce everything to the brain,
+
+52
+00:03:07.449 --> 00:03:09.839
+and, but, you know, the brain doesn't exist in
+
+53
+00:03:09.839 --> 00:03:12.809
+thin air, so the brain is part of a,
+
+54
+00:03:13.240 --> 00:03:16.279
+uh, you know, a larger nervous system, and the
+
+55
+00:03:16.279 --> 00:03:20.080
+larger system exists within the body with physiological, you
+
+56
+00:03:20.080 --> 00:03:23.520
+know, uh, constraints and, and metabolism and many other
+
+57
+00:03:23.520 --> 00:03:27.279
+things that relate to also. Uh, BODY morphology and
+
+58
+00:03:27.279 --> 00:03:31.850
+anatomy. So, um, in that case, you know, you,
+
+59
+00:03:32.009 --> 00:03:35.929
+there's an, an approach I would say in neuroscience,
+
+60
+00:03:35.970 --> 00:03:37.949
+you could say that, well, not to reduce everything
+
+61
+00:03:37.949 --> 00:03:40.289
+to the brain, but, you know, the brain in
+
+62
+00:03:40.289 --> 00:03:43.169
+the context of, of, of bodies. And then, of
+
+63
+00:03:43.169 --> 00:03:46.830
+course, you can go larger, right? Bodies don't exist
+
+64
+00:03:46.830 --> 00:03:51.330
+separate, they exist, especially in, in social animals. They
+
+65
+00:03:51.330 --> 00:03:54.970
+coexist with others and the, the ontogeny of individuals
+
+66
+00:03:54.970 --> 00:03:58.289
+when they grow up during lifetime, they are, you
+
+67
+00:03:58.289 --> 00:04:01.169
+know, fed and protected and carried and so on
+
+68
+00:04:01.169 --> 00:04:05.240
+by other bodies. So, all those things, um, uh,
+
+69
+00:04:05.250 --> 00:04:08.330
+in that case, embodied, embodied mind would be uh
+
+70
+00:04:08.330 --> 00:04:14.160
+analyzing. Um, INFANT, mother-infant interaction in, let's say primates
+
+71
+00:04:14.160 --> 00:04:18.079
+and all those things could be addressed or, um,
+
+72
+00:04:18.320 --> 00:04:21.320
+you know, studied through this angle, uh, and so
+
+73
+00:04:21.320 --> 00:04:23.239
+on and so forth. And then, of course, uh,
+
+74
+00:04:23.980 --> 00:04:27.299
+Another approaches of, let's say the mind being uh
+
+75
+00:04:27.299 --> 00:04:30.799
+like an abstract entity that has, you know, formal
+
+76
+00:04:31.540 --> 00:04:35.220
+laws for reasoning and, and deduction systems and so
+
+77
+00:04:35.220 --> 00:04:39.660
+on, uh, well, an embodied, an embodied approach to
+
+78
+00:04:39.660 --> 00:04:42.790
+analyzing this would be, well, let's take into consideration
+
+79
+00:04:42.790 --> 00:04:46.980
+the, the bodily constraints and that shape the forms
+
+80
+00:04:46.980 --> 00:04:51.040
+of reasoning and abstraction and so on. Um, SO
+
+81
+00:04:51.040 --> 00:04:52.720
+that, that would be kind of like the, the
+
+82
+00:04:52.720 --> 00:04:56.279
+way of dealing, uh, a shortcomings coming from the
+
+83
+00:04:56.279 --> 00:04:59.959
+purely abstract, let's say, characterization of the mind as
+
+84
+00:04:59.959 --> 00:05:03.760
+like logical reasoning step by step, or, or, and
+
+85
+00:05:03.760 --> 00:05:04.119
+so on.
+
+86
+00:05:05.450 --> 00:05:07.940
+Right, and of course we're going to get into
+
+87
+00:05:07.940 --> 00:05:11.170
+some some examples of this when in a bit
+
+88
+00:05:11.170 --> 00:05:14.730
+we talk about time and space and how we
+
+89
+00:05:14.730 --> 00:05:19.760
+process them cognitively, numbers and mathematics and numerical cognition,
+
+90
+00:05:20.209 --> 00:05:24.690
+but which aspects of human cognition can we understand
+
+91
+00:05:24.690 --> 00:05:27.809
+through a framework of embodied cognition?
+
+92
+00:05:29.230 --> 00:05:33.309
+Well, I would say. Um, IT would be a
+
+93
+00:05:33.309 --> 00:05:37.390
+question about, uh, reductionism in a way. So, in
+
+94
+00:05:37.390 --> 00:05:39.910
+science, there is a, you know, there's always a
+
+95
+00:05:39.910 --> 00:05:43.920
+necessity in which you need to. Go through a
+
+96
+00:05:43.920 --> 00:05:49.119
+step of um productionistic step to analyze a particular
+
+97
+00:05:49.119 --> 00:05:53.600
+object, whether it's uh global warming or uh COVID-19
+
+98
+00:05:53.600 --> 00:05:57.320
+epidemics or, you know, cognitive activity. At some point
+
+99
+00:05:57.320 --> 00:05:59.720
+in order to do an experiment or study, you
+
+100
+00:05:59.720 --> 00:06:05.160
+have to operationalize. Your variables and, and your factors
+
+101
+00:06:05.160 --> 00:06:08.980
+that you want to consider, um, so, you know,
+
+102
+00:06:09.290 --> 00:06:11.049
+even when you do, I don't know, the study
+
+103
+00:06:11.049 --> 00:06:13.609
+of unemployment in a society, you have to define
+
+104
+00:06:13.609 --> 00:06:17.209
+unemployment and probably your definition is not going to
+
+105
+00:06:17.209 --> 00:06:21.130
+capture all the richness of unemployment and you have
+
+106
+00:06:21.130 --> 00:06:23.899
+to define it. Is it Is it occurring, you
+
+107
+00:06:23.899 --> 00:06:26.299
+know, during a period of one day or one
+
+108
+00:06:26.299 --> 00:06:29.399
+week or all those things. So, the, the question
+
+109
+00:06:29.399 --> 00:06:34.920
+of um operationalizing different aspects uh of, of cognition
+
+110
+00:06:35.220 --> 00:06:38.459
+um necessarily lead to this step. So the question
+
+111
+00:06:38.459 --> 00:06:43.239
+here now is how much you're willing to reduce,
+
+112
+00:06:43.579 --> 00:06:46.779
+you know, in this reductionistic step. And I would
+
+113
+00:06:46.779 --> 00:06:49.059
+say in the 70s, or, you know, with the
+
+114
+00:06:49.059 --> 00:06:54.230
+advent of the Uh, original forms of artificial intelligence,
+
+115
+00:06:54.309 --> 00:06:56.630
+not the ones we know today through LLMs and
+
+116
+00:06:56.630 --> 00:06:59.540
+so on. Um, THERE was a big step in
+
+117
+00:06:59.540 --> 00:07:04.309
+reducing to getting rid of all the biology, all
+
+118
+00:07:04.309 --> 00:07:07.269
+the social aspects of cognition, and reduce it to
+
+119
+00:07:07.269 --> 00:07:11.820
+like a pure, I would say, abstract form, uh,
+
+120
+00:07:11.829 --> 00:07:15.260
+characterized in those years, like, for example, chess playing.
+
+121
+00:07:15.350 --> 00:07:19.709
+So you have a very well delimited. Space in
+
+122
+00:07:19.709 --> 00:07:23.709
+which things are happening with the specific units that
+
+123
+00:07:23.709 --> 00:07:27.070
+move according to certain rules and then the reasoning
+
+124
+00:07:27.070 --> 00:07:30.230
+behind would be in principle captured by just this
+
+125
+00:07:30.230 --> 00:07:34.510
+move and these formal properties. So, then of course
+
+126
+00:07:34.510 --> 00:07:37.309
+we, we learned that human mind doesn't work that
+
+127
+00:07:37.309 --> 00:07:42.910
+way, incorporates multifaceted forms uh that are important to
+
+128
+00:07:42.910 --> 00:07:48.160
+consider and therefore the over-reductionistic step. Was reduced or,
+
+129
+00:07:48.200 --> 00:07:52.720
+or what was, let's say, lifted and went to
+
+130
+00:07:52.720 --> 00:07:55.399
+a less reductionistic step and so on, including these
+
+131
+00:07:55.399 --> 00:07:57.839
+other things. In the case of language, for example,
+
+132
+00:07:57.959 --> 00:08:02.209
+one interesting approach has been the Um, consideration of
+
+133
+00:08:02.209 --> 00:08:04.929
+gesture production, like what's happening with my hands right
+
+134
+00:08:04.929 --> 00:08:07.410
+now, in which, uh, you know, all of a
+
+135
+00:08:07.410 --> 00:08:12.209
+sudden, uh, we can understand much more about linguistic
+
+136
+00:08:12.209 --> 00:08:18.799
+meaning, linguistic communication, psycholinguistic aspects, uh, cognition in general,
+
+137
+00:08:18.929 --> 00:08:25.359
+learning, etc. um, AND through the, uh, more encompassing,
+
+138
+00:08:25.570 --> 00:08:28.589
+richer approach to the study of language and mind.
+
+139
+00:08:29.320 --> 00:08:32.960
+By considering, for example, the motor action co-produced with
+
+140
+00:08:32.960 --> 00:08:36.400
+speech, which is gesture production. So, that's a way
+
+141
+00:08:36.400 --> 00:08:40.200
+of including sort of embodied aspects that have been
+
+142
+00:08:40.200 --> 00:08:43.479
+left out by focusing exclusively on, on, let's say
+
+143
+00:08:43.479 --> 00:08:47.150
+grammar and syntax, for example. So, in each area,
+
+144
+00:08:47.159 --> 00:08:51.280
+you would find similar tendencies in which things become
+
+145
+00:08:51.280 --> 00:08:55.400
+more complicated, but less reductionistic, and one role there
+
+146
+00:08:55.400 --> 00:08:59.650
+is played by incorporating the bodily features of, of,
+
+147
+00:08:59.840 --> 00:09:00.539
+of the mind.
+
+148
+00:09:02.270 --> 00:09:04.940
+So let me ask you now about time and
+
+149
+00:09:04.940 --> 00:09:09.059
+space and how we process them cognitively. So is
+
+150
+00:09:09.059 --> 00:09:13.270
+there any cognitive relationship between time and space?
+
+151
+00:09:14.489 --> 00:09:17.979
+Um, YES, there is. Uh, SO, um, so one
+
+152
+00:09:17.979 --> 00:09:21.909
+way of analyzing this is, for example, through, uh,
+
+153
+00:09:23.280 --> 00:09:27.789
+Expressions, linguistic expressions. So how is it that humans
+
+154
+00:09:28.010 --> 00:09:34.369
+um communicate and interact. Um, WHEN they talk about
+
+155
+00:09:34.369 --> 00:09:39.630
+or think about space or time. And, um, interestingly,
+
+156
+00:09:39.750 --> 00:09:43.510
+uh, when you look at details of how linguistic
+
+157
+00:09:43.510 --> 00:09:50.830
+expressions, um, are constructed and, uh, construed, um, you
+
+158
+00:09:50.830 --> 00:09:56.400
+would realize that often. Very much, very often, uh,
+
+159
+00:09:56.419 --> 00:10:00.380
+and rather universally with details that we can talk
+
+160
+00:10:00.380 --> 00:10:04.799
+about if you want, but that, um, spatial features.
+
+161
+00:10:05.580 --> 00:10:10.780
+Of the human, human cognition, um, like front and
+
+162
+00:10:10.780 --> 00:10:13.419
+back and up and down and, and so on
+
+163
+00:10:13.419 --> 00:10:15.619
+and so forth. So all these spatial relations that
+
+164
+00:10:15.619 --> 00:10:21.340
+we conceive are recruited to anchor, um, more abstract
+
+165
+00:10:21.340 --> 00:10:25.179
+forms, in this case, temporal notions like tomorrow, the,
+
+166
+00:10:25.340 --> 00:10:28.830
+the, you know, next winter, uh, and so on
+
+167
+00:10:28.859 --> 00:10:31.859
+and so forth. So, if you analyze those in
+
+168
+00:10:31.859 --> 00:10:34.880
+more detail, you will realize there's, they're not random.
+
+169
+00:10:35.549 --> 00:10:40.010
+They're, uh, organized according to certain patterns. And, uh,
+
+170
+00:10:40.020 --> 00:10:42.750
+just to give you an example, in English, um,
+
+171
+00:10:43.229 --> 00:10:46.309
+you know, the words, let's say you could, and
+
+172
+00:10:46.309 --> 00:10:49.460
+this is not just purely linguistics actually, not purely,
+
+173
+00:10:49.469 --> 00:10:54.109
+um, uh, lexical with words. So, I could maybe,
+
+174
+00:10:54.270 --> 00:10:55.830
+you know, talk to you and say, oh, when
+
+175
+00:10:55.830 --> 00:10:59.640
+I was a kid, I had a bicycle, uh,
+
+176
+00:10:59.780 --> 00:11:01.989
+a red bicycle, but maybe when I say I
+
+177
+00:11:01.989 --> 00:11:04.250
+was a kid, I may be pointing behind me.
+
+178
+00:11:04.979 --> 00:11:09.210
+And that pointing is abstract in the sense that
+
+179
+00:11:09.510 --> 00:11:11.950
+right behind me physically, there is a white board
+
+180
+00:11:11.950 --> 00:11:15.869
+there with stuff written on, um, or, you know,
+
+181
+00:11:15.950 --> 00:11:18.250
+I may also be saying, well, from here now
+
+182
+00:11:18.250 --> 00:11:20.789
+or this person has all the future in front
+
+183
+00:11:20.789 --> 00:11:23.950
+of her and may point to the front of
+
+184
+00:11:23.950 --> 00:11:26.630
+me characterizing that person and so on. So all
+
+185
+00:11:26.630 --> 00:11:28.190
+of a sudden when you start to look at
+
+186
+00:11:28.190 --> 00:11:33.520
+those, you see very specific, um. Patterns. In this
+
+187
+00:11:33.520 --> 00:11:36.559
+case of this example would be uh the recruitment
+
+188
+00:11:36.559 --> 00:11:41.479
+of an egocentric um front and back based on
+
+189
+00:11:41.479 --> 00:11:46.250
+my persona, my as a speaker, uh, which front
+
+190
+00:11:46.250 --> 00:11:50.000
+is conceived somehow as being all those times that
+
+191
+00:11:50.000 --> 00:11:53.559
+have not occurred yet that we call future, um,
+
+192
+00:11:53.640 --> 00:11:56.159
+things that are behind me are those times that
+
+193
+00:11:56.159 --> 00:12:01.390
+have been, you know, considered. Events that already occurred
+
+194
+00:12:01.719 --> 00:12:05.229
+and uh usually all the pointings for now, today,
+
+195
+00:12:05.440 --> 00:12:08.039
+this year, and so on, they usually go straight
+
+196
+00:12:08.039 --> 00:12:11.320
+down to the co-location of the speaker. So that
+
+197
+00:12:11.320 --> 00:12:14.239
+would be 11 example that is very, you know,
+
+198
+00:12:14.320 --> 00:12:16.700
+you can study it in many languages and with
+
+199
+00:12:16.700 --> 00:12:22.469
+there's variations, but uh in which Spatial notions are
+
+200
+00:12:22.469 --> 00:12:27.780
+recruited to anchor on time and temporal relations. Are
+
+201
+00:12:27.780 --> 00:12:31.049
+there some, sorry, just to add one, so some
+
+202
+00:12:31.049 --> 00:12:35.010
+people analyze that through the term metaphor, so they're
+
+203
+00:12:35.010 --> 00:12:38.489
+metaphorical expressions, uh, but if you analyze, as I
+
+204
+00:12:38.489 --> 00:12:41.849
+was giving you the example, it is, it's more
+
+205
+00:12:41.849 --> 00:12:44.809
+about what is called, uh, conceptual metaphor. It's not
+
+206
+00:12:44.809 --> 00:12:49.179
+just the metaphorical word. Sometimes the gesture production will
+
+207
+00:12:49.179 --> 00:12:52.020
+be telling you not the word, but it's the
+
+208
+00:12:52.020 --> 00:12:55.419
+entire linguistic unit uh in which you conceive through
+
+209
+00:12:55.419 --> 00:13:00.020
+gesture, cope gesture production, uh, these notions of space
+
+210
+00:13:00.020 --> 00:13:00.659
+and time.
+
+211
+00:13:02.179 --> 00:13:07.140
+Are there cross cultural differences in how people construe
+
+212
+00:13:07.140 --> 00:13:07.539
+time?
+
+213
+00:13:08.640 --> 00:13:11.409
+Uh, YES, they are, and we, we've been studying
+
+214
+00:13:11.409 --> 00:13:13.919
+that for a number of years. Um, FOR example,
+
+215
+00:13:14.039 --> 00:13:16.380
+the, the, the, the example I just gave you,
+
+216
+00:13:16.840 --> 00:13:21.760
+um, you know, it's pretty widespread, uh, in which
+
+217
+00:13:21.760 --> 00:13:24.280
+events that have not occurred, so future are conceived
+
+218
+00:13:24.280 --> 00:13:27.080
+as being in front of the speaker and past
+
+219
+00:13:27.080 --> 00:13:29.979
+as being behind the speaker, but in other cultures,
+
+220
+00:13:29.989 --> 00:13:32.840
+it's not necessarily the same, the, the same case.
+
+221
+00:13:33.390 --> 00:13:36.070
+One, study we did long ago, like, you know,
+
+222
+00:13:36.109 --> 00:13:38.250
+a couple of decades ago, we, we were showing
+
+223
+00:13:38.789 --> 00:13:42.349
+with analysis, linguistic analysis, but also gesture production that
+
+224
+00:13:42.349 --> 00:13:44.750
+for example, the, the Aymara speakers in the, in
+
+225
+00:13:44.750 --> 00:13:48.719
+the Andes, um, is actually have a reverse pattern
+
+226
+00:13:48.719 --> 00:13:52.340
+that we normally have, which is to have, uh,
+
+227
+00:13:52.349 --> 00:13:54.909
+all those times that already occurred, the past in
+
+228
+00:13:54.909 --> 00:13:59.440
+front and the future as being behind them. Present
+
+229
+00:13:59.440 --> 00:14:03.239
+or will be co-located, uh, but the future and
+
+230
+00:14:03.239 --> 00:14:07.760
+past are in opposite directions, um, than the, the
+
+231
+00:14:07.760 --> 00:14:10.080
+compared to the one we have. So those give
+
+232
+00:14:10.080 --> 00:14:12.400
+you some ideas that is some, these are things
+
+233
+00:14:12.400 --> 00:14:18.200
+are not genetically determined, and also they're not idiosyncratic
+
+234
+00:14:18.200 --> 00:14:20.440
+like you want, you have one person over here
+
+235
+00:14:20.440 --> 00:14:22.760
+thinking of time this way and another person that
+
+236
+00:14:22.760 --> 00:14:26.700
+way. They are culturally community driven, so they, they,
+
+237
+00:14:26.739 --> 00:14:30.049
+uh, and they. Most likely manifest and spread and
+
+238
+00:14:30.049 --> 00:14:34.130
+diffuse through linguistic practices. So in that case, when
+
+239
+00:14:34.130 --> 00:14:37.330
+you analyze the processing of time and space, it
+
+240
+00:14:37.330 --> 00:14:40.760
+would depend a lot, not just On the individual,
+
+241
+00:14:40.840 --> 00:14:44.080
+but it's also where this individual is immersed culturally
+
+242
+00:14:44.080 --> 00:14:48.599
+and linguistically. So, we also observed, uh, we did
+
+243
+00:14:48.599 --> 00:14:51.979
+other studies then, uh, in Papua New Guinea with,
+
+244
+00:14:51.989 --> 00:14:56.469
+uh, um, some of my, my grad students and,
+
+245
+00:14:56.599 --> 00:15:01.270
+um, and collaborators in Germany. We studied, um, um,
+
+246
+00:15:01.280 --> 00:15:04.039
+for example, the Yo culture, uh, we were trying
+
+247
+00:15:04.039 --> 00:15:06.919
+to test whether there will be some culture that
+
+248
+00:15:06.919 --> 00:15:11.659
+would not have an ego-center pattern. But maybe what
+
+249
+00:15:11.659 --> 00:15:15.940
+is called allocentric. So, based on features outside of
+
+250
+00:15:15.940 --> 00:15:18.979
+the body, uh, that would be independent of the
+
+251
+00:15:18.979 --> 00:15:23.380
+bodily position. So things like north and south or
+
+252
+00:15:23.380 --> 00:15:26.580
+east and west, or downhill or uphill, those are
+
+253
+00:15:26.580 --> 00:15:30.719
+all features that are related to all allocentric forms.
+
+254
+00:15:31.669 --> 00:15:33.599
+And so we did the study and we were
+
+255
+00:15:33.599 --> 00:15:38.289
+able to show, um, with Keny Cooperreer and colleagues,
+
+256
+00:15:38.299 --> 00:15:42.320
+um, in Heidelberg, um, we were able to show
+
+257
+00:15:42.320 --> 00:15:45.929
+that, um, we, you know, we, we could observe
+
+258
+00:15:45.929 --> 00:15:48.750
+through gesture production that, for example, among the Yo
+
+259
+00:15:48.750 --> 00:15:51.840
+of Papua New Guinea, a very isolated group up
+
+260
+00:15:51.840 --> 00:15:55.799
+in the mountains there would actually, uh, conceive and
+
+261
+00:15:55.799 --> 00:16:00.159
+construe and communicate, um, the idea of future as
+
+262
+00:16:00.159 --> 00:16:04.460
+being uphill. And uh pass as being downhill from
+
+263
+00:16:04.460 --> 00:16:06.859
+the position of the speaker. So in that case,
+
+264
+00:16:06.900 --> 00:16:11.469
+it would be a topographic center form, which is
+
+265
+00:16:11.469 --> 00:16:15.849
+not bodily center, but it's, it's bodily perceiving, um,
+
+266
+00:16:15.940 --> 00:16:18.479
+slopes, let's say, in the terrain where they exist.
+
+267
+00:16:19.570 --> 00:16:21.530
+So I would like to get now into the
+
+268
+00:16:21.530 --> 00:16:27.080
+topic of numbers, numerical cognition, and mathematics. So first
+
+269
+00:16:27.080 --> 00:16:29.369
+of all, what is a number?
+
+270
+00:16:31.510 --> 00:16:34.869
+That's a good question. Um, OF course, it depends
+
+271
+00:16:34.869 --> 00:16:37.419
+on who you ask. Um, IF you ask a
+
+272
+00:16:37.419 --> 00:16:40.710
+Platonic, uh, you know, philosopher would probably say, you
+
+273
+00:16:40.710 --> 00:16:43.590
+know, these are abstract entities that exist in some
+
+274
+00:16:43.590 --> 00:16:47.890
+platonic realm, uh, that are timeless, that have been
+
+275
+00:16:47.890 --> 00:16:51.820
+always there independent of human, human beings, and they
+
+276
+00:16:51.820 --> 00:16:54.150
+will always be there even if we all die
+
+277
+00:16:54.150 --> 00:16:57.400
+tomorrow, all humans, let's say. You know, if you
+
+278
+00:16:57.400 --> 00:17:00.880
+ask maybe mathematicians, they would just start from axioms
+
+279
+00:17:00.880 --> 00:17:04.040
+and start talking about the properties of different number
+
+280
+00:17:04.040 --> 00:17:08.040
+systems, uh, you know, real numbers, natural numbers, complex
+
+281
+00:17:08.040 --> 00:17:11.500
+numbers, uh, you know, transfinite numbers and so on.
+
+282
+00:17:12.079 --> 00:17:14.459
+Uh, BUT if I take the question more like,
+
+283
+00:17:14.560 --> 00:17:19.250
+well, what is it cognitively? Um, WELL, in this
+
+284
+00:17:19.790 --> 00:17:21.949
+project that we've been working on now with the
+
+285
+00:17:21.949 --> 00:17:27.089
+colleagues from Europe, um, called Quanta, we are investigating
+
+286
+00:17:27.089 --> 00:17:30.589
+that question more in depth, um, and then this
+
+287
+00:17:30.589 --> 00:17:32.869
+is, this is, you know, we study the evolution
+
+288
+00:17:32.869 --> 00:17:36.510
+of cognitive tools for quantification and then we, you
+
+289
+00:17:36.510 --> 00:17:38.910
+know, we analyze the, the, the, how, you know,
+
+290
+00:17:39.979 --> 00:17:43.699
+Numeral terms are used in different parts of the
+
+291
+00:17:43.699 --> 00:17:46.780
+world when they exist, so numerals being the sign
+
+292
+00:17:46.780 --> 00:17:50.239
+for a number, not the number concept, but how
+
+293
+00:17:50.239 --> 00:17:54.420
+you express it. It could be orally, like the
+
+294
+00:17:54.420 --> 00:17:57.869
+word 5 as I produce now the sound 5,
+
+295
+00:17:58.180 --> 00:18:00.420
+or maybe written if I write, you know, a
+
+296
+00:18:00.420 --> 00:18:04.459
+Roman numeral for it or an Arabic, uh, Indo-Arabic
+
+297
+00:18:04.459 --> 00:18:07.599
+numeral and so on. But since most languages of
+
+298
+00:18:07.599 --> 00:18:10.319
+the world have not been written, then uh we
+
+299
+00:18:10.319 --> 00:18:14.260
+can consider numerals much, much more interestingly when you,
+
+300
+00:18:14.359 --> 00:18:18.859
+when you analyze the, the, the sign produced uh
+
+301
+00:18:18.859 --> 00:18:21.680
+phonetically. So the sound that you produced, it could
+
+302
+00:18:21.680 --> 00:18:25.390
+be also be, uh, you know, body signals and
+
+303
+00:18:25.390 --> 00:18:29.319
+so on. But in this case, then for a
+
+304
+00:18:29.319 --> 00:18:32.520
+short answer, I would say number is, is one
+
+305
+00:18:32.520 --> 00:18:37.650
+form of exact quantification. A sym that is symbolic.
+
+306
+00:18:37.760 --> 00:18:42.329
+So, you necessarily need some symbolic resource to refer
+
+307
+00:18:42.329 --> 00:18:47.449
+to that exact quantity. And those have certain properties
+
+308
+00:18:47.449 --> 00:18:49.530
+that you could study, uh, and then you could,
+
+309
+00:18:49.619 --> 00:18:53.130
+you know, eventually they lead to counting, but right
+
+310
+00:18:53.130 --> 00:18:55.770
+now I'm, I'm working precisely on this project and,
+
+311
+00:18:56.130 --> 00:18:59.579
+and investigating the question of It maybe it's not
+
+312
+00:19:00.040 --> 00:19:02.880
+all coming from counting and they're more basic atoms
+
+313
+00:19:02.880 --> 00:19:08.380
+that we need to investigate cognitively, anthropologically, archaeologically, and,
+
+314
+00:19:08.479 --> 00:19:10.989
+and also from the point of view of neuroscience,
+
+315
+00:19:11.000 --> 00:19:13.520
+and that's, uh, that's what we're working on. So,
+
+316
+00:19:13.760 --> 00:19:17.589
+the, the long story short, number in the most
+
+317
+00:19:17.589 --> 00:19:21.880
+prototypical form, so the ones that we normally, you
+
+318
+00:19:21.880 --> 00:19:24.319
+know, when, when we talk in everyday life and
+
+319
+00:19:24.319 --> 00:19:28.680
+we say number, the, the most prototypical way. Um,
+
+320
+00:19:28.760 --> 00:19:33.189
+WOULD be an exact symbolic quantifier. Now, of course,
+
+321
+00:19:33.270 --> 00:19:35.939
+the word number is polysymous in our society, so
+
+322
+00:19:35.939 --> 00:19:38.430
+you could have the word number when you say
+
+323
+00:19:38.430 --> 00:19:42.910
+telephone number, passport number, uh, but those are, those
+
+324
+00:19:42.910 --> 00:19:46.869
+are different concepts, those are different, uh, uh, denotations
+
+325
+00:19:46.869 --> 00:19:50.430
+of number. Um, SOMEONE may even have uh letters
+
+326
+00:19:50.430 --> 00:19:53.150
+in some passport, you have letters in the passport
+
+327
+00:19:53.150 --> 00:19:55.689
+number and so on. So that will be less
+
+328
+00:19:55.689 --> 00:19:59.089
+prototypical, but the prototypical idea of a number in
+
+329
+00:19:59.089 --> 00:20:01.810
+terms of uh a quantifier, that quantify something will
+
+330
+00:20:01.810 --> 00:20:03.550
+be what I just expressed before.
+
+331
+00:20:04.949 --> 00:20:08.500
+Do we have an innate concept of numbers?
+
+332
+00:20:09.949 --> 00:20:13.339
+Um, WELL, that's an empirical question, I take it,
+
+333
+00:20:13.589 --> 00:20:17.900
+and, um, and my short answer is no. Um,
+
+334
+00:20:18.229 --> 00:20:21.910
+SO the idea here is, and I, I, I
+
+335
+00:20:21.910 --> 00:20:24.589
+wrote a paper more or less addressing that in
+
+336
+00:20:24.589 --> 00:20:29.839
+2017. And the trends in cognitive sciences in which
+
+337
+00:20:29.839 --> 00:20:32.599
+I, I asked that question, but when you start
+
+338
+00:20:32.599 --> 00:20:37.079
+to analyze, uh, you know, human data from other
+
+339
+00:20:37.079 --> 00:20:40.079
+parts of the world, uh, you realize that, you
+
+340
+00:20:40.079 --> 00:20:44.959
+know, many, many cultures around in the, in certain
+
+341
+00:20:44.959 --> 00:20:47.599
+parts of the world, primarily in the Amazon and
+
+342
+00:20:47.599 --> 00:20:51.750
+in Aboriginal Australia, would have, uh, exact quantifiers in
+
+343
+00:20:51.750 --> 00:20:56.130
+a small range, would be primarily around. 3 to
+
+344
+00:20:56.130 --> 00:21:03.010
+42143, and so on. Um, BUT no higher numerals
+
+345
+00:21:03.010 --> 00:21:08.510
+for exact quantities and therefore also no arithmetic beyond
+
+346
+00:21:08.510 --> 00:21:11.819
+that and so on, which requires precision and precise
+
+347
+00:21:11.819 --> 00:21:16.170
+results. So 3 plus 5 would always be 8,
+
+348
+00:21:16.290 --> 00:21:19.390
+not approximately 9 or 10 or sometimes if it's
+
+349
+00:21:19.390 --> 00:21:22.089
+rain, if it's raining 7, but if it's dry
+
+350
+00:21:22.089 --> 00:21:25.449
+9 and so on. So, um. So when you
+
+351
+00:21:25.449 --> 00:21:27.170
+start to look at more in detail, which is
+
+352
+00:21:27.170 --> 00:21:29.250
+some something we're doing in this project I was
+
+353
+00:21:29.250 --> 00:21:32.530
+referring to, um, you start to realize that you
+
+354
+00:21:32.530 --> 00:21:35.969
+need a lot of components, um, to put together
+
+355
+00:21:35.969 --> 00:21:39.680
+in order to get number, um, out of like,
+
+356
+00:21:39.770 --> 00:21:42.849
+you know, out of the system working. Um, SO
+
+357
+00:21:42.849 --> 00:21:44.939
+that's why I was trying to, um, in that
+
+358
+00:21:44.939 --> 00:21:48.449
+paper I was referring to, to make a distinction
+
+359
+00:21:48.449 --> 00:21:52.729
+between, um, these innate abilities that appear to be
+
+360
+00:21:52.729 --> 00:21:58.199
+biologically in doubt. To discriminate, um, without effort and
+
+361
+00:21:58.199 --> 00:22:01.660
+in a precise manner quantities in a small range,
+
+362
+00:22:01.750 --> 00:22:05.219
+for example, a pair of something as opposed to
+
+363
+00:22:05.380 --> 00:22:09.079
+3 items of that something or one single thing
+
+364
+00:22:09.079 --> 00:22:12.219
+from a pair. In those cases, we don't need
+
+365
+00:22:12.219 --> 00:22:15.660
+counting. Uh, YOU don't need education or learning or
+
+366
+00:22:15.660 --> 00:22:19.189
+language because you saw these features have also been
+
+367
+00:22:20.859 --> 00:22:25.160
+shown to exist in many non-human species. So it
+
+368
+00:22:25.160 --> 00:22:29.089
+shows that that apparatus is something that exists in
+
+369
+00:22:29.089 --> 00:22:34.750
+a biologically endowed manner, so innate, and We may
+
+370
+00:22:34.750 --> 00:22:38.630
+argue that perhaps it does have a biological value
+
+371
+00:22:38.630 --> 00:22:41.670
+in evolution, so in order to uh have some
+
+372
+00:22:41.670 --> 00:22:46.030
+kind of um feature that would have evolved because
+
+373
+00:22:46.030 --> 00:22:50.540
+of evolutionary advantages. But that from my perspective is
+
+374
+00:22:50.540 --> 00:22:52.780
+not number. It's just, uh, it doesn't have a
+
+375
+00:22:52.780 --> 00:22:56.219
+symbolic feature and it doesn't have counting. Uh, IT
+
+376
+00:22:56.219 --> 00:23:01.260
+doesn't scale up to lead to arithmetic. So, and
+
+377
+00:23:01.260 --> 00:23:03.530
+that's why I gave that a different term. It's
+
+378
+00:23:03.530 --> 00:23:07.189
+based on quantity-related aspects, so I call them quantical
+
+379
+00:23:07.189 --> 00:23:11.260
+features, in which subitizing, which is the term of
+
+380
+00:23:11.260 --> 00:23:13.500
+the phenomenon I was just describing, will be one
+
+381
+00:23:13.500 --> 00:23:17.189
+of them. Another one is like the ability to
+
+382
+00:23:17.189 --> 00:23:20.949
+compare relative quantities. Let's say a tree that has
+
+383
+00:23:20.949 --> 00:23:23.650
+more pears and another tree that has less pears.
+
+384
+00:23:24.069 --> 00:23:26.790
+You don't know exactly how, you're not counting, but
+
+385
+00:23:26.790 --> 00:23:28.810
+you see that one has more than the other.
+
+386
+00:23:29.500 --> 00:23:33.750
+Um, AGAIN, this may have had advantages for, you
+
+387
+00:23:33.750 --> 00:23:38.209
+know, species or individuals when foraging in hunter-gatherer societies
+
+388
+00:23:38.589 --> 00:23:41.709
+to see, you know, which one, what direction to
+
+389
+00:23:41.709 --> 00:23:44.469
+go in order to hunter and gather and so
+
+390
+00:23:44.469 --> 00:23:47.790
+on. So, but that, those are non numerical in
+
+391
+00:23:47.790 --> 00:23:51.869
+the sense that I was characterizing, uh, but they
+
+392
+00:23:51.869 --> 00:23:56.670
+are, you know, the largely independent of culture and
+
+393
+00:23:56.670 --> 00:24:01.619
+language. So those aspects are innate. Um, BUT the,
+
+394
+00:24:01.699 --> 00:24:03.849
+in order to have number going, then you need
+
+395
+00:24:03.849 --> 00:24:07.819
+symbolic reference and that for that you need language
+
+396
+00:24:07.819 --> 00:24:11.660
+and other cultural preoccupations. And the idea here would
+
+397
+00:24:11.660 --> 00:24:14.449
+be that, for example, in Aboriginal Australia on the
+
+398
+00:24:14.449 --> 00:24:18.020
+Amazon, in many, many of these languages, those cultural
+
+399
+00:24:18.020 --> 00:24:21.060
+preoccupations did not, did not emerge because they were
+
+400
+00:24:21.060 --> 00:24:24.160
+worried about other things and, and in those very
+
+401
+00:24:24.630 --> 00:24:29.150
+complex languages, they develop. Very fine, uh, and, uh,
+
+402
+00:24:29.160 --> 00:24:33.680
+complicated, sophisticated linguistic system to grasp other aspects of
+
+403
+00:24:33.680 --> 00:24:39.400
+human, um, human, um, life like kinship or, you
+
+404
+00:24:39.400 --> 00:24:43.150
+know, colors and so on, but not exact quantification.
+
+405
+00:24:43.239 --> 00:24:46.630
+So that, that leads me to think that number
+
+406
+00:24:46.630 --> 00:24:49.640
+is not. An innate thing. We're not, we're not
+
+407
+00:24:49.640 --> 00:24:52.880
+born with the, the notion of number in the
+
+408
+00:24:52.880 --> 00:24:56.020
+sense, but we're born with quantical features for like
+
+409
+00:24:56.020 --> 00:25:01.800
+sabotizing and large quantity discrimination or relative quantity discrimination.
+
+410
+00:25:02.780 --> 00:25:06.349
+And these quintical features, at least some of them
+
+411
+00:25:06.349 --> 00:25:10.150
+would have been the result of evolution, evolution by
+
+412
+00:25:10.150 --> 00:25:11.270
+natural selection.
+
+413
+00:25:11.670 --> 00:25:14.219
+That's right. So the idea would be that because
+
+414
+00:25:14.219 --> 00:25:18.609
+it's so, they're widely present in so many species
+
+415
+00:25:19.109 --> 00:25:21.349
+um that don't have language and, and so many
+
+416
+00:25:21.349 --> 00:25:23.390
+of them are not even social animals, so there's
+
+417
+00:25:23.390 --> 00:25:28.109
+not even, um, let's say transgenerational learning or something
+
+418
+00:25:28.109 --> 00:25:32.180
+like that. Um, SO, uh, so appears to be
+
+419
+00:25:32.180 --> 00:25:35.579
+very, very fundamental, fundamental, but they operate in a
+
+420
+00:25:35.579 --> 00:25:39.319
+small range of quantities that we humans with words
+
+421
+00:25:39.319 --> 00:25:45.630
+call 321, and so on, but, um, It's probably
+
+422
+00:25:45.630 --> 00:25:50.030
+a good um origin for them developing other things,
+
+423
+00:25:50.150 --> 00:25:53.869
+but in themselves, they're just quantical, but they're not
+
+424
+00:25:53.869 --> 00:25:58.550
+numerical as they lack the symbolic referent aspect.
+
+425
+00:25:59.329 --> 00:26:03.689
+Mhm. And how do we develop numerical cognition?
+
+426
+00:26:05.010 --> 00:26:08.010
+Well, it depends on, on what do we mean
+
+427
+00:26:08.010 --> 00:26:10.170
+by we. So if you grow up in a
+
+428
+00:26:10.170 --> 00:26:14.000
+society that has schools and writing, for example, then,
+
+429
+00:26:14.160 --> 00:26:17.979
+right, you're going to be as a, as Normally
+
+430
+00:26:17.979 --> 00:26:20.829
+as a kid, you will be introduced to new
+
+431
+00:26:20.829 --> 00:26:25.270
+tools and um in which you can outsource cognition,
+
+432
+00:26:25.459 --> 00:26:29.670
+for example, by, you know, writing on paper and
+
+433
+00:26:29.670 --> 00:26:32.900
+inventing pens, and then someone will tell you how
+
+434
+00:26:32.900 --> 00:26:35.229
+to hold a pen and how to use it,
+
+435
+00:26:35.469 --> 00:26:37.510
+how to sit, where to think, and all those
+
+436
+00:26:37.510 --> 00:26:40.550
+things is part of the scaffolding that, you know,
+
+437
+00:26:40.630 --> 00:26:43.729
+it's a new technology, new in the sense that
+
+438
+00:26:44.510 --> 00:26:48.010
+For the 250 or 300,000 years of the human
+
+439
+00:26:48.010 --> 00:26:51.900
+species, writing only appeared, you know, 6000 years ago
+
+440
+00:26:51.900 --> 00:26:54.589
+and only in certain very specific areas of the
+
+441
+00:26:54.589 --> 00:26:59.050
+world, so it's an artificial, so artificial in the
+
+442
+00:26:59.349 --> 00:27:05.229
+original, um, meaning of the word, uh created by
+
+443
+00:27:05.229 --> 00:27:08.589
+humans and then once you have that. Then you
+
+444
+00:27:08.589 --> 00:27:11.859
+can build up many other things. So, numerical cognition
+
+445
+00:27:11.859 --> 00:27:15.900
+would be one such example, um, that has been
+
+446
+00:27:15.900 --> 00:27:20.459
+historically benefiting from many, many, you know, changes and,
+
+447
+00:27:20.540 --> 00:27:26.010
+and, um, developments like uh introducing the Hindu-Arabic numerals
+
+448
+00:27:26.010 --> 00:27:30.180
+into Europe, for example, uh, creating the abacus and
+
+449
+00:27:30.180 --> 00:27:34.569
+playing with those, uh, those creations. Um, ALSO, um,
+
+450
+00:27:35.239 --> 00:27:38.280
+you know, developing the printing press in which now
+
+451
+00:27:38.280 --> 00:27:40.319
+you can sort of print things and develop, you
+
+452
+00:27:40.319 --> 00:27:43.510
+know, you don't have to copy handwriting and so
+
+453
+00:27:43.510 --> 00:27:46.300
+on. So, all these things, um, we tend to
+
+454
+00:27:46.300 --> 00:27:50.979
+ignore when we analyze numerical cognition these days because
+
+455
+00:27:50.979 --> 00:27:54.849
+we just start from the fact that everyone You
+
+456
+00:27:54.849 --> 00:27:57.369
+know, has numbers and in their minds and the
+
+457
+00:27:57.369 --> 00:27:59.199
+kids and so on. Now, of course, we can
+
+458
+00:27:59.199 --> 00:28:02.890
+also focus the research in numerical cognition in kids
+
+459
+00:28:02.890 --> 00:28:06.050
+today in the industrialized societies and see how do
+
+460
+00:28:06.050 --> 00:28:08.530
+they learn, how do we teach them, what are
+
+461
+00:28:08.530 --> 00:28:11.170
+the main, you know, difficulties and so on and
+
+462
+00:28:11.170 --> 00:28:14.660
+so forth, but If we need to get to
+
+463
+00:28:14.660 --> 00:28:16.619
+the bottom, the, the truth is that you will
+
+464
+00:28:16.619 --> 00:28:20.380
+need somehow a symbolic reference system. You will need
+
+465
+00:28:20.380 --> 00:28:25.140
+heavy scaffolding um by other members of the society,
+
+466
+00:28:25.199 --> 00:28:27.859
+which usually in our societies is a teacher and,
+
+467
+00:28:27.900 --> 00:28:30.560
+and also that, you know, those who produce books
+
+468
+00:28:30.560 --> 00:28:33.939
+etc. um, AND you will need some kind of
+
+469
+00:28:33.939 --> 00:28:38.180
+apparatus to handle, uh, abstractions. So, and that's coming
+
+470
+00:28:38.180 --> 00:28:40.099
+back to what we were saying about time and
+
+471
+00:28:40.099 --> 00:28:44.520
+space. That also operates with the development of numbers
+
+472
+00:28:44.930 --> 00:28:49.930
+because, you know, often numbers are also spatialized. And
+
+473
+00:28:49.930 --> 00:28:53.050
+that's why we eventually we invented, for example, when
+
+474
+00:28:53.050 --> 00:28:56.209
+I say we as in, you know, our Western
+
+475
+00:28:56.209 --> 00:29:01.030
+society and, and, well, industrialized society, let's say improved
+
+476
+00:29:01.290 --> 00:29:04.250
+on the notion of a number line where now
+
+477
+00:29:04.250 --> 00:29:07.689
+all of a sudden numbers are on space, uh,
+
+478
+00:29:07.800 --> 00:29:10.329
+in an organized in a line and then you
+
+479
+00:29:10.329 --> 00:29:15.469
+have You know, specific locations on space characterizing the
+
+480
+00:29:15.469 --> 00:29:19.390
+uh numerical magnitude of a particular number. So, these
+
+481
+00:29:19.390 --> 00:29:22.869
+are all things that kids learn today early in
+
+482
+00:29:22.869 --> 00:29:24.550
+school, but if you look at the history of
+
+483
+00:29:24.550 --> 00:29:27.530
+mathematics, you will realize that. As I've written in
+
+484
+00:29:27.530 --> 00:29:31.130
+other papers, uh, you know, the number line, it
+
+485
+00:29:31.130 --> 00:29:34.209
+was not at all something that came out straight
+
+486
+00:29:34.209 --> 00:29:37.449
+of the brain, uh, or brain activity, and it's
+
+487
+00:29:37.449 --> 00:29:39.729
+not, it was something that took a long time
+
+488
+00:29:39.729 --> 00:29:42.959
+to get instantiated. And uh it's only around the
+
+489
+00:29:42.959 --> 00:29:45.400
+17th century Europe that you start to see for
+
+490
+00:29:45.400 --> 00:29:49.599
+the first time number lines and, and people reasoning
+
+491
+00:29:49.599 --> 00:29:54.560
+about, about those in terms of uh spatial uh
+
+492
+00:29:55.540 --> 00:29:56.640
+spatial properties.
+
+493
+00:29:58.449 --> 00:30:02.979
+And so then where does mathematics come from? How
+
+494
+00:30:02.979 --> 00:30:04.839
+do we get mathematics?
+
+495
+00:30:06.290 --> 00:30:08.930
+Well, we just talked about numbers, which is one
+
+496
+00:30:08.930 --> 00:30:13.250
+very simple um form. Well, it's not so simple
+
+497
+00:30:13.250 --> 00:30:16.329
+when you get into the details, but, um, so
+
+498
+00:30:16.329 --> 00:30:19.619
+mathematics is uh the way I see it, um,
+
+499
+00:30:20.170 --> 00:30:23.930
+comes out of a certain type of human preoccupation
+
+500
+00:30:23.930 --> 00:30:26.660
+that in different parts of the world emerged in.
+
+501
+00:30:27.640 --> 00:30:32.500
+In, um, in sectors of those societies that had,
+
+502
+00:30:32.640 --> 00:30:38.119
+let's say, for example, writing systems, um, there's almost
+
+503
+00:30:38.119 --> 00:30:41.420
+no mathematics without writing, so you need the writing,
+
+504
+00:30:41.800 --> 00:30:44.170
+and then usually the writing is in the hands
+
+505
+00:30:44.170 --> 00:30:47.239
+of a certain, not these days, but historically has
+
+506
+00:30:47.239 --> 00:30:50.560
+been only in a small proportion of people in
+
+507
+00:30:50.560 --> 00:30:54.579
+societies. So, uh, even in the Middle Ages in
+
+508
+00:30:54.579 --> 00:30:57.380
+Europe, there are estimates that maybe, you know, less
+
+509
+00:30:57.380 --> 00:31:02.319
+than 10%, 5%, depending on different estimation, only knew
+
+510
+00:31:02.319 --> 00:31:04.780
+how to read and write. And the same applied
+
+511
+00:31:04.780 --> 00:31:09.020
+to Babylonia and Chinese and uh, you know, societies
+
+512
+00:31:09.020 --> 00:31:11.420
+and so on. So the idea is that mathematics
+
+513
+00:31:11.420 --> 00:31:15.699
+really comes out of this, uh, sort of abstract
+
+514
+00:31:15.699 --> 00:31:19.780
+developmental, uh, sorry, abstract concepts that developed, uh, you
+
+515
+00:31:19.780 --> 00:31:22.869
+know. Their own life if you want, and the
+
+516
+00:31:22.869 --> 00:31:24.989
+way, the way that is done, as I argued
+
+517
+00:31:24.989 --> 00:31:28.459
+with my co-author George Lakco at some point in,
+
+518
+00:31:28.550 --> 00:31:31.349
+in a book like 20 years ago that some
+
+519
+00:31:31.349 --> 00:31:34.829
+of the tools for anchoring those new inventions are,
+
+520
+00:31:35.119 --> 00:31:38.530
+for example, conceptual metaphors and other forms of abstractions,
+
+521
+00:31:38.949 --> 00:31:41.089
+sort of like the ones that I was describing
+
+522
+00:31:41.430 --> 00:31:44.189
+in a simple way, like time and space in
+
+523
+00:31:44.189 --> 00:31:48.349
+which something gets mapped and expressed um via something
+
+524
+00:31:48.349 --> 00:31:52.729
+else. And, um, so, you know, in set theory,
+
+525
+00:31:52.810 --> 00:31:55.530
+the notion, the basic notions of sets may be
+
+526
+00:31:55.530 --> 00:31:59.329
+collections or things that are, you know, inside certain
+
+527
+00:31:59.329 --> 00:32:01.550
+kinds of things like, you know, you can see
+
+528
+00:32:02.010 --> 00:32:04.579
+things that are inside here like seeds or something
+
+529
+00:32:04.579 --> 00:32:07.170
+and this being a set of seeds, so. And
+
+530
+00:32:07.170 --> 00:32:10.589
+that would be um manifested linguistically, so you could
+
+531
+00:32:10.589 --> 00:32:15.589
+study mathematical text and mathematical talks given by professional
+
+532
+00:32:15.589 --> 00:32:18.040
+mathematicians and you can analyze the language and the
+
+533
+00:32:18.040 --> 00:32:21.369
+gesture production and you could start realizing that many
+
+534
+00:32:21.369 --> 00:32:25.270
+of these things are actually abstraction but anchored on
+
+535
+00:32:25.670 --> 00:32:30.010
+um simpler forms, normally. And you could study those
+
+536
+00:32:30.010 --> 00:32:34.050
+empirically with uh, from ethnographic observations all the way
+
+537
+00:32:34.050 --> 00:32:39.089
+to lab, uh, well-controlled experiments. So, yeah, so mathematics
+
+538
+00:32:39.089 --> 00:32:41.890
+will be a certain kind of, um, I would
+
+539
+00:32:41.890 --> 00:32:47.859
+say sense-making mechanism developed in certain societies. And then
+
+540
+00:32:47.859 --> 00:32:50.579
+they serve the purpose of many things, and, but
+
+541
+00:32:50.579 --> 00:32:53.939
+one of the purposes that has served since, you
+
+542
+00:32:53.939 --> 00:32:56.800
+know, Galileo at least is, is science. So, uh,
+
+543
+00:32:56.819 --> 00:32:59.660
+we, it's a system that supports, you know, as
+
+544
+00:32:59.660 --> 00:33:02.219
+soon as you get measurements and numbers out of
+
+545
+00:33:02.219 --> 00:33:04.040
+the measurements, then all of a sudden you have
+
+546
+00:33:04.339 --> 00:33:09.510
+a mathematical system which is A human conceptual sense-making
+
+547
+00:33:09.510 --> 00:33:12.849
+form, abstract but based on all these layers that
+
+548
+00:33:13.310 --> 00:33:15.989
+ground ultimately in this sort of bodily form that
+
+549
+00:33:15.989 --> 00:33:20.770
+we were talking about, um, to, to sustain this
+
+550
+00:33:20.910 --> 00:33:25.150
+preoccupations and they have, once you really develop them,
+
+551
+00:33:25.189 --> 00:33:27.109
+you have a life on their own with new
+
+552
+00:33:27.109 --> 00:33:30.359
+creations and new forms, so. If I can make
+
+553
+00:33:30.359 --> 00:33:32.599
+sort of an analogy which is not exactly like
+
+554
+00:33:32.599 --> 00:33:35.209
+mathematics, but will give you an idea that once
+
+555
+00:33:35.209 --> 00:33:37.770
+you develop a system, then new questions start to
+
+556
+00:33:37.770 --> 00:33:41.349
+come up within that system. Um, SO in the
+
+557
+00:33:41.349 --> 00:33:43.270
+case of this analogy would be, you know, in
+
+558
+00:33:43.270 --> 00:33:45.390
+football or soccer as it's called in the US,
+
+559
+00:33:45.469 --> 00:33:47.989
+you could have, you may invent the rule, you
+
+560
+00:33:47.989 --> 00:33:50.670
+have two teams, you have two goals, and you
+
+561
+00:33:50.670 --> 00:33:53.989
+have a field with a certain dimensions, but as
+
+562
+00:33:53.989 --> 00:33:57.189
+you develop the game, uh, then you start to
+
+563
+00:33:57.189 --> 00:33:59.670
+realize that, uh, for example, oh, we may need
+
+564
+00:33:59.670 --> 00:34:02.510
+the offside rule, and then when you have the
+
+565
+00:34:02.510 --> 00:34:06.459
+offside rule, uh, maybe initially it's a very Simple
+
+566
+00:34:06.459 --> 00:34:09.780
+rule, but then gradually, you know, you invent, uh,
+
+567
+00:34:09.860 --> 00:34:12.290
+you know, the bar system that we have now
+
+568
+00:34:12.550 --> 00:34:15.050
+in which you can really see certain things, so
+
+569
+00:34:15.050 --> 00:34:18.580
+you redefine off, you know, offside rules, all is
+
+570
+00:34:18.580 --> 00:34:22.629
+based on linguistics forms and abstraction, but it's, it's
+
+571
+00:34:22.629 --> 00:34:27.168
+a dynamic system. It's, it's an ongoing um creation.
+
+572
+00:34:27.550 --> 00:34:29.909
+So in mathematics as well, you have all the
+
+573
+00:34:29.909 --> 00:34:32.909
+time new things being created, especially in pure mathematics
+
+574
+00:34:32.909 --> 00:34:36.489
+and um. And then, you know, the, the question
+
+575
+00:34:36.489 --> 00:34:38.969
+is, how are those new things created? Probably there's
+
+576
+00:34:38.969 --> 00:34:43.728
+new preoccupations, culturally driven, but ultimately you would have
+
+577
+00:34:43.728 --> 00:34:48.449
+human cognition, uh, bodily grounded, allowing that abstraction to
+
+578
+00:34:48.449 --> 00:34:51.929
+happen in very constrained forms. It's not just anything
+
+579
+00:34:51.929 --> 00:34:54.290
+goes, it's very um constrained.
+
+580
+00:34:55.789 --> 00:35:00.698
+So you mentioned conceptual metaphors there. What roles do
+
+581
+00:35:00.698 --> 00:35:03.678
+metaphors play in mathematics then?
+
+582
+00:35:05.129 --> 00:35:08.449
+Uh, I would say roughly speaking, perhaps there's two
+
+583
+00:35:08.449 --> 00:35:11.689
+types, uh, um, you know, uh, one would be,
+
+584
+00:35:11.770 --> 00:35:14.870
+let's say the metaphors that you use to explain
+
+585
+00:35:14.870 --> 00:35:20.129
+things to children. So, or, or new students, um,
+
+586
+00:35:20.550 --> 00:35:23.790
+um, so let's say something that would help understanding
+
+587
+00:35:23.790 --> 00:35:27.429
+an idea, but it's not really defining of the
+
+588
+00:35:27.429 --> 00:35:31.350
+idea, um, in a deep sense. So one example
+
+589
+00:35:31.350 --> 00:35:34.350
+would be, let's say the step function in, in,
+
+590
+00:35:34.699 --> 00:35:37.989
+let's say basic analytic geometry, you know, you may
+
+591
+00:35:37.989 --> 00:35:41.030
+have your coordinates and then you may have a
+
+592
+00:35:41.030 --> 00:35:43.709
+function that has like this form, so it looks
+
+593
+00:35:43.709 --> 00:35:47.770
+like stairs. So then you call it step function
+
+594
+00:35:47.770 --> 00:35:50.489
+because it looks like steps. So that could be,
+
+595
+00:35:50.600 --> 00:35:53.229
+you know, helpful for kids to remember or new
+
+596
+00:35:53.229 --> 00:35:55.889
+students of, you know, of that particular other features
+
+597
+00:35:55.889 --> 00:36:00.669
+of that function, um, but that is not really
+
+598
+00:36:00.929 --> 00:36:04.530
+altering or affecting the, the very notion of function.
+
+599
+00:36:04.570 --> 00:36:09.129
+It's just characterizing in this case, the iconicity of
+
+600
+00:36:09.129 --> 00:36:12.409
+how you draw the function according to certain rules.
+
+601
+00:36:13.229 --> 00:36:15.280
+But there's another one, another form which is much
+
+602
+00:36:15.280 --> 00:36:18.100
+more fundamental, and this is what we argued already
+
+603
+00:36:18.520 --> 00:36:21.179
+twenty-something years ago with George Lakov and we've shown
+
+604
+00:36:21.959 --> 00:36:25.100
+since then with uh the empirical studies and other,
+
+605
+00:36:25.399 --> 00:36:30.320
+and other um um experiments that some of these
+
+606
+00:36:30.320 --> 00:36:33.500
+ideas uh are, some of the original ideas in
+
+607
+00:36:33.500 --> 00:36:40.669
+many mathematical, um, abstract mathematical concepts are Inherently metaphorical.
+
+608
+00:36:41.090 --> 00:36:44.149
+So it's not just like an aid to teach
+
+609
+00:36:44.530 --> 00:36:47.889
+kids or new students, but their very idea is
+
+610
+00:36:47.889 --> 00:36:51.090
+already kind of like what we're saying with front,
+
+611
+00:36:51.370 --> 00:36:54.330
+future in front and past behind in which are
+
+612
+00:36:54.330 --> 00:36:59.870
+anchored inherently in the body position, let's say, orientation.
+
+613
+00:37:00.290 --> 00:37:03.080
+Uh, IN this case, you have ideas, um, um,
+
+614
+00:37:03.100 --> 00:37:06.580
+that are inherently, for example, uh, when you analyze
+
+615
+00:37:06.580 --> 00:37:08.929
+the origin of set theory, which is one of
+
+616
+00:37:08.929 --> 00:37:13.360
+the most abstract branches in mathematics. When you analyze
+
+617
+00:37:13.360 --> 00:37:17.600
+the original text um from those people involved in
+
+618
+00:37:17.600 --> 00:37:20.550
+the creation of that theory in the 19th century,
+
+619
+00:37:20.879 --> 00:37:24.520
+Georg Kantor, and then, you know, other people who
+
+620
+00:37:24.520 --> 00:37:28.479
+were around that time, um, you start to see
+
+621
+00:37:28.479 --> 00:37:31.199
+that many of these original ideas had to do
+
+622
+00:37:31.199 --> 00:37:34.239
+with how you deal with collections of things and
+
+623
+00:37:34.239 --> 00:37:36.590
+how you put them together and how you separate
+
+624
+00:37:36.590 --> 00:37:39.679
+them as if they were physical objects, uh, or
+
+625
+00:37:39.679 --> 00:37:42.219
+you put them inside things and outside things, so.
+
+626
+00:37:43.510 --> 00:37:46.409
+An idea here is, for example, the Venn diagrams
+
+627
+00:37:46.409 --> 00:37:49.709
+that were used to teach basic aspects of, of
+
+628
+00:37:49.709 --> 00:37:53.090
+set theory, not every aspect of set theory, but
+
+629
+00:37:53.110 --> 00:37:58.500
+it works so intuitively because it's recruiting these container
+
+630
+00:37:58.500 --> 00:38:02.189
+schemas of things that are inside and things are
+
+631
+00:38:02.189 --> 00:38:05.389
+outside of that container as being, let's say, for
+
+632
+00:38:05.389 --> 00:38:09.030
+example, set membership or not membership of a set.
+
+633
+00:38:09.729 --> 00:38:12.850
+So those, many of those are, are inherent to
+
+634
+00:38:12.850 --> 00:38:15.850
+the idea of, of set, of course, later then
+
+635
+00:38:15.850 --> 00:38:18.489
+you develop more abstract form to try to detach
+
+636
+00:38:18.489 --> 00:38:21.810
+that from that origins, but you would have that
+
+637
+00:38:21.810 --> 00:38:26.030
+and many aspects that deal with uh actual infinity,
+
+638
+00:38:26.530 --> 00:38:30.290
+infinitesimal calculate in infinitesimal calculus, you would have, you
+
+639
+00:38:30.290 --> 00:38:33.949
+know, similar things in which you anchor on something
+
+640
+00:38:34.209 --> 00:38:38.139
+more concrete. And that is a defining property of
+
+641
+00:38:38.139 --> 00:38:41.939
+the, of the concept. So in that case, conceptual
+
+642
+00:38:41.939 --> 00:38:46.159
+metaphor, not just metaphorical expression, but the, the conceptual,
+
+643
+00:38:46.379 --> 00:38:51.870
+um, Mapping behind a metaphor, a conceptual metaphor, um,
+
+644
+00:38:52.000 --> 00:38:55.800
+it's, it's part of the inherent semantics of the,
+
+645
+00:38:55.919 --> 00:38:56.800
+of the concept.
+
+646
+00:38:58.409 --> 00:39:02.090
+So I have one last question then. Can embodied
+
+647
+00:39:02.090 --> 00:39:07.250
+cognition applied to mathematics have applications in education as
+
+648
+00:39:07.250 --> 00:39:07.590
+well?
+
+649
+00:39:09.100 --> 00:39:13.620
+Well, um, So, here's, like, again, when we said
+
+650
+00:39:13.620 --> 00:39:17.399
+embodied cognition, there's no one view or one coherence.
+
+651
+00:39:17.949 --> 00:39:20.560
+So, if you ask me, they said, yes, well,
+
+652
+00:39:20.860 --> 00:39:25.419
+if, if you bring to the classroom, and not
+
+653
+00:39:25.419 --> 00:39:29.889
+just the classroom, to the curriculum development. To organize
+
+654
+00:39:29.889 --> 00:39:32.409
+what do you need to teach, how you need
+
+655
+00:39:32.409 --> 00:39:35.040
+to teach it, and so on. If you bring
+
+656
+00:39:35.040 --> 00:39:39.530
+activities and you, you bring forms that include these
+
+657
+00:39:39.530 --> 00:39:44.449
+more cognitive friendly forms for learning, many of, many
+
+658
+00:39:44.449 --> 00:39:47.850
+of which do, uh, take into account, you know,
+
+659
+00:39:48.050 --> 00:39:50.489
+how we relate to things in, in with our
+
+660
+00:39:50.489 --> 00:39:54.429
+bodies, how we see them, how we hear things
+
+661
+00:39:54.429 --> 00:39:56.879
+and noises and so on. So in this case,
+
+662
+00:39:57.020 --> 00:39:59.810
+how, for example, a lot of the features would
+
+663
+00:39:59.810 --> 00:40:03.129
+be spatial because we are very good at, as
+
+664
+00:40:03.129 --> 00:40:07.090
+human primates, very good at discerning with, if we
+
+665
+00:40:07.090 --> 00:40:10.810
+have a healthy visual system to see things and
+
+666
+00:40:11.090 --> 00:40:13.760
+separate them and put them together and so on
+
+667
+00:40:13.760 --> 00:40:15.810
+and so forth. So, a lot of those things
+
+668
+00:40:15.810 --> 00:40:20.459
+could be. Helped, I would say by um not
+
+669
+00:40:20.459 --> 00:40:23.979
+starting with pure abstract idea but relating to, I
+
+670
+00:40:23.979 --> 00:40:25.860
+wouldn't like to just use the word concrete, but
+
+671
+00:40:25.860 --> 00:40:30.020
+it's more like a Like bodily interaction with these
+
+672
+00:40:30.020 --> 00:40:33.729
+things, materials and and so on. Now, of course,
+
+673
+00:40:34.030 --> 00:40:36.780
+one of the features of mathematics is that the
+
+674
+00:40:36.780 --> 00:40:43.060
+very objects, mathematical objects are, you know, created to
+
+675
+00:40:43.060 --> 00:40:46.580
+mean something independent of the materiality of the thing.
+
+676
+00:40:46.659 --> 00:40:50.620
+So, if we want to analyze whether 55 is
+
+677
+00:40:50.620 --> 00:40:55.239
+a prime number or not, Then that feature of
+
+678
+00:40:55.239 --> 00:40:58.399
+5 being prime is independent of whether you're playing
+
+679
+00:40:58.399 --> 00:41:03.159
+with little pebbles or plastic cups or, you know,
+
+680
+00:41:03.280 --> 00:41:06.800
+or Lego materials or something. So the property is
+
+681
+00:41:06.800 --> 00:41:10.040
+more abstract than that, but the materiality may help
+
+682
+00:41:10.040 --> 00:41:14.120
+to con to convey some of those properties. But
+
+683
+00:41:14.120 --> 00:41:16.840
+here's maybe sometimes the misunderstanding and, and a lot
+
+684
+00:41:16.840 --> 00:41:21.669
+of people in mathematics education. That they think what
+
+685
+00:41:21.669 --> 00:41:24.510
+I've seen at least in many panels and discussions
+
+686
+00:41:24.510 --> 00:41:28.919
+and conferences when I'm sometimes invited to talk, um,
+
+687
+00:41:29.030 --> 00:41:32.090
+or give talks, uh, is that it's, it's just
+
+688
+00:41:32.090 --> 00:41:36.629
+the, the pure bodily form that would bring immediately
+
+689
+00:41:36.629 --> 00:41:40.510
+the. The, you know, the abstraction, so to speak.
+
+690
+00:41:40.840 --> 00:41:43.629
+And here I think the misunderstanding is that the
+
+691
+00:41:43.629 --> 00:41:48.060
+embodied part, physically embodied experience, let's say, may be
+
+692
+00:41:48.060 --> 00:41:52.020
+an important ingredient, but Uh, a crucial ingredient there
+
+693
+00:41:52.020 --> 00:41:56.320
+is the instantiation of the symbolic activity and resources
+
+694
+00:41:56.320 --> 00:42:01.719
+on those basic bodily functions. So, for example, We
+
+695
+00:42:01.719 --> 00:42:05.419
+may think that because, you know, our, let's say,
+
+696
+00:42:05.479 --> 00:42:10.439
+uh, most frequent base for numbers is 10 because
+
+697
+00:42:10.439 --> 00:42:13.939
+we have 10 fingers. But I've, I, as I've
+
+698
+00:42:13.939 --> 00:42:16.620
+written in other places and so on, well, many
+
+699
+00:42:16.620 --> 00:42:21.780
+animals have what is called pentodactylsism. Penta means 5,
+
+700
+00:42:22.020 --> 00:42:25.620
+dactyl means the, the digits anatomical in each of
+
+701
+00:42:25.620 --> 00:42:30.300
+the limbs. And if, if we're, you know, Um,
+
+702
+00:42:30.939 --> 00:42:33.300
+If we have 2 upper limbs and 2 lower
+
+703
+00:42:33.300 --> 00:42:36.340
+limbs, then, you know, we would have 5 in
+
+704
+00:42:36.340 --> 00:42:39.669
+each of these. So, but That is taken directly
+
+705
+00:42:39.669 --> 00:42:43.330
+as being, oh, there's an embodied there grounding. Yes,
+
+706
+00:42:43.750 --> 00:42:46.479
+part of the story, but the crucial part of
+
+707
+00:42:46.479 --> 00:42:49.229
+the story is that we have this capacity to
+
+708
+00:42:49.229 --> 00:42:55.169
+relate symbolically to this anatomical and recruited for anchoring
+
+709
+00:42:55.169 --> 00:42:58.989
+quantity and do finger counting and other things. Other
+
+710
+00:42:58.989 --> 00:43:05.750
+primates also have pentodactyls, gorillas, orangutans, chimpanzees, macaques, raccoons,
+
+711
+00:43:06.189 --> 00:43:09.889
+you know, they all have. 5 fingers, so to
+
+712
+00:43:09.889 --> 00:43:12.139
+speak, in each of the limbs, but none of
+
+713
+00:43:12.139 --> 00:43:18.520
+them would recruit them symbolically to ground numbers. So,
+
+714
+00:43:18.830 --> 00:43:20.949
+that I think is often what is missed in
+
+715
+00:43:20.949 --> 00:43:25.709
+mathematics education is that the whole relationship between the
+
+716
+00:43:25.709 --> 00:43:30.270
+symbolic reference and the bodily activity, um, they both
+
+717
+00:43:30.270 --> 00:43:33.199
+have to work combined and, and it's not just
+
+718
+00:43:33.199 --> 00:43:36.110
+like put kids to play with things and cubes
+
+719
+00:43:36.110 --> 00:43:38.469
+and containers and you will get the mathematics out
+
+720
+00:43:38.469 --> 00:43:39.590
+of that straight away.
+
+721
+00:43:41.399 --> 00:43:44.840
+Great, so Doctor Nunez, just before we go, would
+
+722
+00:43:44.840 --> 00:43:47.120
+you like to tell people where they can find
+
+723
+00:43:47.120 --> 00:43:48.820
+your work on the internet?
+
+724
+00:43:49.879 --> 00:43:52.449
+Um, WELL, I think if you Google scholar, uh,
+
+725
+00:43:52.530 --> 00:43:54.370
+you will find, well, the book I was referring
+
+726
+00:43:54.370 --> 00:43:58.750
+with George Lakoff, we published it, um, 2000s, like
+
+727
+00:43:58.919 --> 00:44:02.199
+a quarter century ago now, uh, where mathematics comes
+
+728
+00:44:02.199 --> 00:44:04.689
+from, and, but then many, many things have happened
+
+729
+00:44:04.689 --> 00:44:07.729
+since, a lot of work and fieldwork, uh, with
+
+730
+00:44:07.729 --> 00:44:12.729
+respect to the time and space, uh. Um, uh,
+
+731
+00:44:12.889 --> 00:44:15.969
+THERE'S several papers you can find in Google Scholar
+
+732
+00:44:15.969 --> 00:44:19.189
+that are, uh, with studies of the Aymara culture
+
+733
+00:44:19.810 --> 00:44:21.370
+or the Hu of Papua New Guinea, as I
+
+734
+00:44:21.370 --> 00:44:25.489
+was saying, with different empirical, um, uh, studies that
+
+735
+00:44:25.489 --> 00:44:29.590
+we did, and then publications, uh, of review of
+
+736
+00:44:29.590 --> 00:44:32.290
+the, of the many other cultures as well that
+
+737
+00:44:32.290 --> 00:44:36.050
+I co-wrote with the My former grad student, Kinsey
+
+738
+00:44:36.050 --> 00:44:39.649
+Cooperreer, um, and then I've done also with other
+
+739
+00:44:39.649 --> 00:44:43.209
+authors, uh, papers around that topic, and in numerical
+
+740
+00:44:43.209 --> 00:44:47.330
+cognition, yes, there's also things you find. Um, AND
+
+741
+00:44:47.330 --> 00:44:49.409
+with respect to mathematics, well, I'm working on a
+
+742
+00:44:49.409 --> 00:44:52.679
+book that should be published next year in MIT
+
+743
+00:44:52.679 --> 00:44:56.290
+Press on the nature of mathematics, but um, I'm
+
+744
+00:44:56.290 --> 00:44:58.050
+still working on it right now.
+
+745
+00:44:59.330 --> 00:45:01.729
+Great. So thank you so much for taking the
+
+746
+00:45:01.729 --> 00:45:03.709
+time to come on the show. It's been a
+
+747
+00:45:03.709 --> 00:45:05.270
+real pleasure to talk with you.
+
+748
+00:45:05.689 --> 00:45:07.969
+OK, thank you so much and good luck. Take
+
+749
+00:45:07.969 --> 00:45:08.290
+care.
+
+750
+00:45:09.510 --> 00:45:12.030
+Hi guys, thank you for watching this interview until
+
+751
+00:45:12.030 --> 00:45:14.149
+the end. If you liked it, please share it,
+
+752
+00:45:14.350 --> 00:45:17.120
+leave a like and hit the subscription button. The
+
+753
+00:45:17.120 --> 00:45:19.379
+show is brought to you by Enlights Learning and
+
+754
+00:45:19.379 --> 00:45:23.409
+Development done differently. Check their website at enlights.com and
+
+755
+00:45:23.409 --> 00:45:27.139
+also please consider supporting the show on Patreon or
+
+756
+00:45:27.139 --> 00:45:29.620
+PayPal. I would also like to give a huge
+
+757
+00:45:29.620 --> 00:45:32.719
+thank you to my main patrons and PayPal supporters,
+
+758
+00:45:33.139 --> 00:45:36.979
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+759
+00:45:37.020 --> 00:45:40.290
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis,
+
+760
+00:45:40.439 --> 00:45:44.010
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+761
+00:45:44.010 --> 00:45:48.040
+Robert Windegeru Inasi Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+762
+00:45:48.520 --> 00:45:52.310
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoro, and
+
+763
+00:45:52.310 --> 00:45:56.090
+Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel
+
+764
+00:45:56.090 --> 00:46:00.010
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+765
+00:46:00.169 --> 00:46:03.850
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+766
+00:46:03.850 --> 00:46:08.239
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+767
+00:46:08.239 --> 00:46:12.189
+Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal
+
+768
+00:46:12.189 --> 00:46:16.199
+Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall,
+
+769
+00:46:16.280 --> 00:46:20.600
+Edin Bronner, Douglas Fry, Franco Bartolatti, Gabriel P Scortez
+
+770
+00:46:20.600 --> 00:46:24.280
+or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith,
+
+771
+00:46:24.360 --> 00:46:28.389
+and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+772
+00:46:28.750 --> 00:46:33.489
+Luke Lovai, Georgios Theophanus, Chris Williamson, Peter Wolozin, David
+
+773
+00:46:33.500 --> 00:46:37.350
+Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw,
+
+774
+00:46:37.669 --> 00:46:41.800
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+775
+00:46:41.800 --> 00:46:46.750
+Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert
+
+776
+00:46:46.750 --> 00:46:51.389
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+777
+00:46:51.389 --> 00:46:55.379
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+778
+00:46:55.669 --> 00:47:00.189
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+779
+00:47:00.189 --> 00:47:05.159
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+780
+00:47:05.159 --> 00:47:12.010
+Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi,
+
+781
+00:47:12.270 --> 00:47:17.229
+Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov,
+
+782
+00:47:17.469 --> 00:47:21.844
+Sean Nelson, Mike Levin, and Jos Necht. A special
+
+783
+00:47:21.844 --> 00:47:24.705
+thanks to my producers Iar Webb, Jim Frank, Lucas
+
+784
+00:47:24.705 --> 00:47:29.165
+Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas
+
+785
+00:47:29.165 --> 00:47:32.804
+Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al
+
+786
+00:47:32.804 --> 00:47:35.685
+Nick Cortiz, and Nick Golden, and to my executive
+
+787
+00:47:35.685 --> 00:47:39.564
+producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie.
+
+788
+00:47:39.685 --> 00:47:40.504
+Thank you for all.
+

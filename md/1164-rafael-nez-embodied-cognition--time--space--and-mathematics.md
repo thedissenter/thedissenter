@@ -12,7 +12,9 @@
 		"Cognitive Science"
 	],
 	"title": "#1164 Rafael Núñez: Embodied Cognition, Time, Space, and Mathematics",
-	"youtubeid": "x9YcvLvM2lE"
+	"vtt": "1164.vtt",
+	"youtubeid": "x9YcvLvM2lE",
+	"transcript": "1164.lines.json"
 }
 ---
 RECORDED ON JULY 14th 2025.  
