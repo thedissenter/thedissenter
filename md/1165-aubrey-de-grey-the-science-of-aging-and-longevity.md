@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/105689330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F329db7fd-d604-9011-13ad-08e0e613f7ba.m4a",
 	"draft": false,
 	"episodeid": "1165",
 	"excerpt": "Dr. Aubrey de Grey is a biomedical gerontologist. He is the author of The Mitochondrial Free Radical Theory of Aging (1999) and co-author of Ending Aging (2007). Dr. de Grey is known for his view that medical technology may enable human beings alive today not to die from age-related causes. As an amateur mathematician, he has contributed to the study of the Hadwiger–Nelson problem in geometric graph theory, making the first progress on the problem in over 60 years.",
 	"image": "https://i.ytimg.com/vi/-M_bm8tC_kk/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1165-aubrey-de-grey-the-science-of-aging-and-longevity/id1451347236?i=1000732701925&uo=4",
 	"publishDate": 2025-10-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1165-Aubrey-de-Grey-The-Science-of-Aging-and-Longevity-e35nspi",
 	"tags": [
 		"Biology",
 		"Medicine",
