@@ -1,0 +1,3190 @@
+WEBVTT
+
+1
+00:00:00.560 --> 00:00:03.299
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:03.299 --> 00:00:06.280
+Dissenter. I'm your host, as always, Ricardo Lops, and
+
+3
+00:00:06.280 --> 00:00:08.920
+today I'm joined by Dr. Aubrey de Grey. He's
+
+4
+00:00:08.920 --> 00:00:12.479
+a biomedical gerontologist, and today we're going to talk
+
+5
+00:00:12.479 --> 00:00:16.959
+about the science of aging and longevity. So Doctor
+
+6
+00:00:16.959 --> 00:00:18.840
+De Grey, welcome to the show. It's a huge
+
+7
+00:00:18.840 --> 00:00:20.469
+pleasure to everyone. Well,
+
+8
+00:00:20.520 --> 00:00:21.299
+thank you for having me.
+
+9
+00:00:22.950 --> 00:00:25.979
+So let me start by asking you first, what
+
+10
+00:00:25.979 --> 00:00:29.590
+got you interested in the topic of aging and
+
+11
+00:00:29.590 --> 00:00:31.909
+in approaching it scientifically?
+
+12
+00:00:33.700 --> 00:00:36.229
+The main thing that got me interested when I
+
+13
+00:00:36.229 --> 00:00:40.430
+was in my late twenties was uh the discovery
+
+14
+00:00:40.430 --> 00:00:44.310
+that hardly, hardly anybody else was interested. This was
+
+15
+00:00:44.310 --> 00:00:47.330
+something that I had never considered until that time.
+
+16
+00:00:47.709 --> 00:00:50.650
+I had always known and that it was obvious
+
+17
+00:00:50.650 --> 00:00:53.509
+to me that aging is the world's most important
+
+18
+00:00:53.509 --> 00:00:58.250
+problem and that it could in principle, be overcome
+
+19
+00:00:58.250 --> 00:01:02.020
+medically. Um, BUT it was so obvious to me
+
+20
+00:01:02.020 --> 00:01:04.540
+that I never discussed it with anybody and therefore
+
+21
+00:01:04.540 --> 00:01:08.739
+I never discovered that other people thought differently. Until
+
+22
+00:01:08.739 --> 00:01:13.809
+I met and married a biologist who accidentally taught
+
+23
+00:01:13.809 --> 00:01:15.480
+me a lot of biology over the dinner table,
+
+24
+00:01:15.489 --> 00:01:18.769
+but who also eventually, you know, I began to
+
+25
+00:01:18.769 --> 00:01:20.510
+realize she wasn't interested in aging, and I thought
+
+26
+00:01:20.510 --> 00:01:23.470
+that's crazy. Um, AND eventually I I found out
+
+27
+00:01:23.470 --> 00:01:26.239
+that. Almost all the other people I was meeting
+
+28
+00:01:26.379 --> 00:01:29.139
+had the same view, so I decided to stop
+
+29
+00:01:29.139 --> 00:01:31.400
+doing what I had been doing for the previous
+
+30
+00:01:31.819 --> 00:01:34.980
+decade or so, which was working in computer science
+
+31
+00:01:34.980 --> 00:01:38.459
+and artificial intelligence, and to switch fields and become
+
+32
+00:01:38.459 --> 00:01:39.900
+a biologist working on aging.
+
+33
+00:01:41.489 --> 00:01:44.569
+And what is aging? I mean, how do you
+
+34
+00:01:44.569 --> 00:01:46.930
+define it and how do you approach it from
+
+35
+00:01:46.930 --> 00:01:48.809
+a scientific perspective? Yeah,
+
+36
+00:01:48.959 --> 00:01:52.160
+aging can be defined very simply, but not too
+
+37
+00:01:52.160 --> 00:01:55.610
+simply. Some people try to define it as a
+
+38
+00:01:55.610 --> 00:01:58.930
+process that as some kind of unitary process that
+
+39
+00:01:58.930 --> 00:02:02.410
+just like happens. Um, THE right way to describe
+
+40
+00:02:02.410 --> 00:02:06.209
+it is the combination of two processes. Um, THE
+
+41
+00:02:06.209 --> 00:02:08.970
+first process goes on throughout life, even starting before
+
+42
+00:02:08.970 --> 00:02:13.669
+we're born. And it is a process of creation
+
+43
+00:02:13.669 --> 00:02:17.949
+of damage in the body. So essentially, the body,
+
+44
+00:02:17.990 --> 00:02:20.350
+of course, is a very, very complicated machine that
+
+45
+00:02:20.350 --> 00:02:23.270
+has many, many processes going on all the time
+
+46
+00:02:23.270 --> 00:02:24.830
+to keep us alive from one day to the
+
+47
+00:02:24.830 --> 00:02:31.350
+next, and that network creates changes to the molecular
+
+48
+00:02:31.350 --> 00:02:34.910
+and cellular composition and structure of the body, and
+
+49
+00:02:34.910 --> 00:02:37.509
+those changes, the critical thing is that those changes
+
+50
+00:02:37.509 --> 00:02:41.110
+accumulate over time. Which is fine for a long
+
+51
+00:02:41.110 --> 00:02:45.990
+time because the body is built to um to
+
+52
+00:02:46.000 --> 00:02:48.550
+tolerate a certain amount of those changes without a
+
+53
+00:02:48.550 --> 00:02:51.860
+significant decline in function. But eventually there's more of
+
+54
+00:02:51.860 --> 00:02:54.470
+the more of the changes than that, and that's
+
+55
+00:02:54.470 --> 00:02:58.119
+why it makes sense to call those changes damage.
+
+56
+00:02:58.729 --> 00:03:01.820
+Because eventually when you've got too much, the second
+
+57
+00:03:01.820 --> 00:03:04.649
+process kicks off, and that is the process where
+
+58
+00:03:04.649 --> 00:03:08.570
+the damage creates the decline in function, both mental
+
+59
+00:03:08.570 --> 00:03:11.669
+function and physical function, the pathologies of late life.
+
+60
+00:03:12.009 --> 00:03:14.759
+So that's all that aging is. Our metabolism creates
+
+61
+00:03:14.759 --> 00:03:18.809
+damage throughout life and eventually the damage starts to
+
+62
+00:03:18.809 --> 00:03:21.210
+create pathologies, and that eventually kills us.
+
+63
+00:03:22.539 --> 00:03:25.059
+Yes, and I'm going to ask you also about
+
+64
+00:03:25.059 --> 00:03:28.860
+the 7 deadly things or the 7 different types
+
+65
+00:03:28.860 --> 00:03:32.100
+of damage behind aging in a second, but before
+
+66
+00:03:32.100 --> 00:03:36.380
+that, why do we age? What are the evolutionary
+
+67
+00:03:36.380 --> 00:03:37.779
+origins of aging?
+
+68
+00:03:38.940 --> 00:03:42.419
+People got this wrong for a long time. Uh,
+
+69
+00:03:42.500 --> 00:03:47.020
+PEOPLE, when, when they started thinking about this, not
+
+70
+00:03:47.020 --> 00:03:50.600
+long after Darwin, they started to think, well, OK,
+
+71
+00:03:50.740 --> 00:03:53.960
+aging must exist for some kind of evolutionary reason.
+
+72
+00:03:54.779 --> 00:03:56.779
+Um, YOU know, there must be some advantage to
+
+73
+00:03:56.779 --> 00:04:00.220
+the species, even though there is clearly a disadvantage
+
+74
+00:04:00.220 --> 00:04:03.240
+to the individual. Um, BUT eventually in the middle
+
+75
+00:04:03.240 --> 00:04:05.759
+of the 20th century, people realized that that wasn't
+
+76
+00:04:05.759 --> 00:04:08.639
+correct. And, uh, one of my friends put it
+
+77
+00:04:08.639 --> 00:04:11.490
+very, very well, a long time ago. He said,
+
+78
+00:04:11.720 --> 00:04:17.320
+evolution is not a product of evolutionary intent, it
+
+79
+00:04:17.320 --> 00:04:20.760
+is a product of evolutionary neglect. In other words,
+
+80
+00:04:20.809 --> 00:04:23.760
+it's not that evolution wants us to age, it's
+
+81
+00:04:23.760 --> 00:04:27.390
+just that. Evolution is pretty much ambivalent about it.
+
+82
+00:04:27.470 --> 00:04:30.470
+It doesn't want us to age, but it only
+
+83
+00:04:30.470 --> 00:04:32.589
+slightly doesn't want us to, so it hasn't taken
+
+84
+00:04:32.589 --> 00:04:35.950
+the trouble to develop machinery to make us not
+
+85
+00:04:35.950 --> 00:04:36.369
+age.
+
+86
+00:04:38.239 --> 00:04:41.299
+How is biological age calculated?
+
+87
+00:04:41.959 --> 00:04:46.660
+Oh, so that's actually a really controversial, um, situation
+
+88
+00:04:46.660 --> 00:04:49.640
+right now. A lot of experts would say that
+
+89
+00:04:49.640 --> 00:04:52.640
+in fact, we shouldn't be using the term biological
+
+90
+00:04:52.640 --> 00:04:57.230
+age at all because aging is, you know, a
+
+91
+00:04:57.260 --> 00:04:59.959
+lot of different types of damage accumulating through different
+
+92
+00:04:59.959 --> 00:05:05.359
+mechanisms at different rates and therefore an individual's biological
+
+93
+00:05:05.359 --> 00:05:09.000
+age should not be expressed as one number. Um,
+
+94
+00:05:09.279 --> 00:05:11.989
+BUT of course in theory one could regard it
+
+95
+00:05:11.989 --> 00:05:15.549
+as one number if one had complete information. One
+
+96
+00:05:15.549 --> 00:05:20.540
+could say, well, It is somehow the um the
+
+97
+00:05:20.540 --> 00:05:26.559
+risk that one has of developing chronic conditions within
+
+98
+00:05:26.559 --> 00:05:29.339
+the next year, or one could define it in
+
+99
+00:05:29.339 --> 00:05:33.640
+terms of how long it's likely to be in
+
+100
+00:05:33.640 --> 00:05:37.459
+the context of current medicine before one starts to
+
+101
+00:05:37.459 --> 00:05:40.420
+exhibit chronic conditions of late life. Those kinds of
+
+102
+00:05:40.420 --> 00:05:44.260
+things. In terms of measuring it though, the technologies
+
+103
+00:05:44.260 --> 00:05:45.959
+that we have really are not up to it.
+
+104
+00:05:46.540 --> 00:05:49.700
+There are old fashioned ways to do it in
+
+105
+00:05:49.700 --> 00:05:51.820
+terms of basically function, you know, you measure how
+
+106
+00:05:51.820 --> 00:05:53.859
+strong somebody is, how good their memory is, things
+
+107
+00:05:53.859 --> 00:05:57.399
+like that, and those are pretty good. And then
+
+108
+00:05:57.399 --> 00:06:00.839
+there are measures that are based on omics, so
+
+109
+00:06:00.839 --> 00:06:04.380
+looking at the epigenetics of the blood, for example,
+
+110
+00:06:04.679 --> 00:06:07.040
+and me and and getting correlations from that, things
+
+111
+00:06:07.040 --> 00:06:10.459
+that change with age. Um, AND they're getting better.
+
+112
+00:06:11.119 --> 00:06:14.679
+At the moment, the single best measure of biological
+
+113
+00:06:14.679 --> 00:06:17.640
+age, if you insist on having one, is actually
+
+114
+00:06:17.640 --> 00:06:21.959
+still, uh, you know, sophisticated analysis of these functional
+
+115
+00:06:21.959 --> 00:06:25.519
+measures that I just mentioned. Um, THERE'S a clock
+
+116
+00:06:25.519 --> 00:06:28.160
+that's, um, there's a measure of biological age that's
+
+117
+00:06:28.160 --> 00:06:31.239
+been recently developed by a group in Singapore that
+
+118
+00:06:31.239 --> 00:06:35.350
+I think is, you know, pretty clearly outperforming everything
+
+119
+00:06:35.350 --> 00:06:36.079
+else right now.
+
+120
+00:06:37.820 --> 00:06:42.500
+Tell us about this concept of longevity escape velocity.
+
+121
+00:06:42.579 --> 00:06:43.640
+What is that?
+
+122
+00:06:44.100 --> 00:06:45.859
+OK, so that's a term that I coined about
+
+123
+00:06:45.859 --> 00:06:49.109
+20 odd years ago now, and it's quite simple.
+
+124
+00:06:49.660 --> 00:06:51.940
+The way in which we are going to bring
+
+125
+00:06:51.940 --> 00:06:56.480
+aging under medical control is going to be through
+
+126
+00:06:56.660 --> 00:06:59.859
+damage repair, not through slowing down the rate at
+
+127
+00:06:59.859 --> 00:07:05.899
+which damage, um. Is generated and also not through
+
+128
+00:07:05.899 --> 00:07:10.769
+making the body capable of withstanding more damage. Rather,
+
+129
+00:07:11.059 --> 00:07:14.140
+it's by removing damage every so often so that
+
+130
+00:07:14.140 --> 00:07:16.619
+even though it's being generated in the at the
+
+131
+00:07:16.619 --> 00:07:20.140
+natural rate, it never reaches the amount that the
+
+132
+00:07:20.140 --> 00:07:24.309
+body is unable to tolerate. And in that in
+
+133
+00:07:24.309 --> 00:07:28.839
+that scenario, um, you know, you are basically turning
+
+134
+00:07:28.839 --> 00:07:31.309
+back the clock, you're effectively reversing aging every so
+
+135
+00:07:31.309 --> 00:07:36.760
+often. So if we have a uh a a
+
+136
+00:07:36.760 --> 00:07:40.799
+portfolio, a panel of interventions of medicines that repair
+
+137
+00:07:40.799 --> 00:07:42.959
+a lot of the different types of damage in
+
+138
+00:07:42.959 --> 00:07:45.910
+the body, then we can keep someone healthy for
+
+139
+00:07:45.910 --> 00:07:51.010
+longer and alive for longer. However, What we have
+
+140
+00:07:51.010 --> 00:07:54.320
+to consider is the fact that some types of
+
+141
+00:07:54.320 --> 00:07:57.299
+damage are a lot easier to repair than others.
+
+142
+00:07:57.760 --> 00:08:01.559
+And the particularly difficult ones will still be accumulating
+
+143
+00:08:01.559 --> 00:08:04.700
+until we get ways to repair them, even if
+
+144
+00:08:04.700 --> 00:08:08.970
+we can repair the other ones. So, um, essentially
+
+145
+00:08:08.970 --> 00:08:12.410
+what I have put forward is that once we
+
+146
+00:08:12.410 --> 00:08:17.640
+have a panel of interventions that is fairly comprehensive,
+
+147
+00:08:18.010 --> 00:08:21.079
+that can give us perhaps 20 additional years of
+
+148
+00:08:21.079 --> 00:08:25.649
+extra life, then we will functionally be done. We
+
+149
+00:08:25.649 --> 00:08:27.690
+will have essentially done all we need to do,
+
+150
+00:08:28.130 --> 00:08:31.929
+because in those 20 years, we will be able
+
+151
+00:08:31.929 --> 00:08:35.669
+to develop. Repair strategies for some of the really
+
+152
+00:08:35.669 --> 00:08:38.508
+difficult damage so that we can give the same
+
+153
+00:08:38.508 --> 00:08:42.320
+people another 20 years, and so on. So basically
+
+154
+00:08:42.320 --> 00:08:46.190
+I defined this term longevity escape velocity as the
+
+155
+00:08:46.190 --> 00:08:51.479
+minimum rate at which scientists will have to improve
+
+156
+00:08:51.479 --> 00:08:55.679
+these interventions, the comprehensiveness of them, in order to
+
+157
+00:08:55.679 --> 00:08:58.059
+stay one step ahead of the problem, such that
+
+158
+00:08:58.359 --> 00:09:01.390
+people who are receiving state of the art medicines
+
+159
+00:09:01.390 --> 00:09:05.039
+at any time will not get biologically older.
+
+160
+00:09:06.830 --> 00:09:10.109
+Tell us now about the 7 different types of
+
+161
+00:09:10.109 --> 00:09:15.469
+damage behind aging, including cell loss and cell atrophy,
+
+162
+00:09:15.510 --> 00:09:21.630
+division, obsessed cells, death resistant cells, mitochondrial mutations, intracellular
+
+163
+00:09:21.630 --> 00:09:28.669
+waste products, extracellular waste products. And extracellular matrix stiffening.
+
+164
+00:09:29.210 --> 00:09:30.429
+Tell us about each of them.
+
+165
+00:09:30.770 --> 00:09:34.010
+So these are the seven categories of damage that
+
+166
+00:09:34.010 --> 00:09:36.450
+I put forward again more than 20 years ago
+
+167
+00:09:36.450 --> 00:09:39.349
+now, and I'm very pleased to say that this
+
+168
+00:09:39.570 --> 00:09:42.530
+classification has stood the test of time. There has
+
+169
+00:09:42.530 --> 00:09:45.570
+not been any bad new discovery in the past
+
+170
+00:09:45.570 --> 00:09:49.289
+25 years that. Has required me to add an
+
+171
+00:09:49.289 --> 00:09:52.799
+8th category, but I do want to emphasize that
+
+172
+00:09:53.200 --> 00:09:56.830
+within each category, there are lots of examples. So,
+
+173
+00:09:57.369 --> 00:10:01.330
+cell loss, for example, you know, it's simply when
+
+174
+00:10:01.330 --> 00:10:05.469
+cells die and they are not automatically replaced by
+
+175
+00:10:06.049 --> 00:10:11.320
+the division of other cells, right now. Um, You
+
+176
+00:10:11.320 --> 00:10:14.520
+know, uh, that's a pretty straightforward concept, but of
+
+177
+00:10:14.520 --> 00:10:17.179
+course it happens in different places in the body,
+
+178
+00:10:17.710 --> 00:10:19.640
+and the cells that are affected are different types
+
+179
+00:10:19.640 --> 00:10:23.200
+of cells. So in Parkinson's disease, for example, you
+
+180
+00:10:23.200 --> 00:10:25.960
+have, it's driven by the loss of a particular
+
+181
+00:10:25.960 --> 00:10:28.909
+type of neuron called a dopaminergic neuron, which is
+
+182
+00:10:28.909 --> 00:10:30.599
+in a particular small part of the brain called
+
+183
+00:10:30.599 --> 00:10:34.099
+the substantia nigra. Um, BUT it also happens in
+
+184
+00:10:34.099 --> 00:10:37.900
+the thymus, which is, uh, a place that's responsible
+
+185
+00:10:37.900 --> 00:10:40.400
+for a very important part of the immune system.
+
+186
+00:10:40.739 --> 00:10:42.460
+It also happens in the heart where you have
+
+187
+00:10:42.460 --> 00:10:45.359
+these things called pacemaker cells that are gradually lost.
+
+188
+00:10:45.809 --> 00:10:48.280
+Um, AND each of these cell types are different,
+
+189
+00:10:48.619 --> 00:10:51.729
+so you need to develop different treatments to repair
+
+190
+00:10:51.729 --> 00:10:55.059
+this damage, to restore the number of cells. But
+
+191
+00:10:55.059 --> 00:10:57.219
+in all cases, you should be able to use
+
+192
+00:10:57.219 --> 00:11:00.580
+stem cell therapy for that. Now that we have
+
+193
+00:11:00.580 --> 00:11:05.960
+things like. INDUCED pluripotent stem cells and so on,
+
+194
+00:11:06.400 --> 00:11:09.400
+we have the capacity to generate pretty much any
+
+195
+00:11:09.400 --> 00:11:12.229
+type of cell that we might like and inject
+
+196
+00:11:12.229 --> 00:11:14.679
+it into the right place so that it will
+
+197
+00:11:14.679 --> 00:11:19.479
+divide and transform into replacements for the cells that
+
+198
+00:11:19.479 --> 00:11:22.280
+the body is not replacing on its own. So
+
+199
+00:11:22.340 --> 00:11:24.830
+that's all great, uh, but of course these cell
+
+200
+00:11:24.830 --> 00:11:27.280
+therapies have a lot of diff have some differences
+
+201
+00:11:27.500 --> 00:11:29.659
+in detail, however, they do have a lot in
+
+202
+00:11:29.659 --> 00:11:31.500
+common. All stem cell therapies have a lot in
+
+203
+00:11:31.500 --> 00:11:34.820
+common as well. So that's why the classification is
+
+204
+00:11:34.820 --> 00:11:36.890
+useful. Even though there are lots and lots and
+
+205
+00:11:36.890 --> 00:11:39.539
+lots of different types of damage, they can be
+
+206
+00:11:39.539 --> 00:11:42.859
+grouped into this manageable number of categories for each
+
+207
+00:11:42.859 --> 00:11:45.359
+of which there is a generic repair approach.
+
+208
+00:11:47.539 --> 00:11:52.010
+What about uh telomeres and telomerase? Is it a
+
+209
+00:11:52.010 --> 00:11:54.500
+problem or is there anything we can do about
+
+210
+00:11:54.500 --> 00:11:54.799
+it?
+
+211
+00:11:55.859 --> 00:12:01.719
+So the popular um uh rendition of the role
+
+212
+00:12:01.719 --> 00:12:05.820
+of telomeres and telomerase in aging has always been
+
+213
+00:12:05.820 --> 00:12:11.390
+quite problematic. When people first discovered that telomeres get
+
+214
+00:12:11.390 --> 00:12:15.969
+shorter with cell division, there was a huge like
+
+215
+00:12:16.059 --> 00:12:18.390
+hype about the idea that this might be the
+
+216
+00:12:18.390 --> 00:12:21.950
+driver of aging, that cell division could only go
+
+217
+00:12:21.950 --> 00:12:25.469
+on for a finite amount of time, but that
+
+218
+00:12:25.469 --> 00:12:30.010
+was. Overlooking the fact that most of the cells
+
+219
+00:12:30.010 --> 00:12:32.989
+in our body, either they don't divide at all,
+
+220
+00:12:33.409 --> 00:12:36.049
+or if they do, it's very, very rare, they
+
+221
+00:12:36.049 --> 00:12:38.010
+divide like, you know, once a year if you're
+
+222
+00:12:38.010 --> 00:12:41.840
+lucky, kind of thing. And um that means that
+
+223
+00:12:41.840 --> 00:12:43.880
+it's OK for the telomeres to get shorter. They
+
+224
+00:12:43.880 --> 00:12:46.679
+don't get into a state where they are too
+
+225
+00:12:46.679 --> 00:12:49.400
+short for anything to for for the cell to
+
+226
+00:12:49.400 --> 00:12:55.250
+operate correctly. Um, AND furthermore. There was quite rapidly
+
+227
+00:12:55.250 --> 00:12:57.809
+a discovery. I mean, we knew that this thing
+
+228
+00:12:57.809 --> 00:13:00.359
+must exist, but it was discovered, um, of this
+
+229
+00:13:00.359 --> 00:13:04.539
+enzyme telomerase that compensates for the telomere shortening that
+
+230
+00:13:04.539 --> 00:13:08.400
+happens during cell division. And sure enough, it turns
+
+231
+00:13:08.400 --> 00:13:12.080
+out that the cells that do divide quite a
+
+232
+00:13:12.080 --> 00:13:15.580
+lot during life actually make some of this enzyme,
+
+233
+00:13:16.000 --> 00:13:18.780
+and therefore they don't have this problem of the
+
+234
+00:13:18.780 --> 00:13:22.320
+telomeres getting short, getting too short for the cell
+
+235
+00:13:22.320 --> 00:13:25.809
+to survive. Now, there may be some exceptions to
+
+236
+00:13:25.809 --> 00:13:28.210
+what I just said. There may be some cases
+
+237
+00:13:28.210 --> 00:13:31.770
+in the body where shortening of telomeres actually does
+
+238
+00:13:31.770 --> 00:13:35.770
+contribute to dysfunction. In the immune system especially, there
+
+239
+00:13:35.770 --> 00:13:38.890
+is some evidence for that. But generally it seems
+
+240
+00:13:38.890 --> 00:13:42.400
+not to be a big player in aging. Whereas
+
+241
+00:13:42.599 --> 00:13:45.789
+the opposite thing really is. So of course there's
+
+242
+00:13:45.789 --> 00:13:48.320
+one type of of one category of my seven
+
+243
+00:13:48.320 --> 00:13:52.159
+categories, which is called division obsessed cells, that's more
+
+244
+00:13:52.159 --> 00:13:56.429
+or less synonymous with cancer. And cancer is a
+
+245
+00:13:56.429 --> 00:13:59.960
+bad thing, obviously. So we'd like the cells in
+
+246
+00:13:59.960 --> 00:14:02.719
+a cancer not to be able to divide indefinitely.
+
+247
+00:14:03.000 --> 00:14:06.880
+We'd like them to kill themselves through telomere shortening
+
+248
+00:14:06.880 --> 00:14:09.979
+if possible. And I put forward an idea in,
+
+249
+00:14:10.000 --> 00:14:12.820
+I think 2002, uh, for how we might do
+
+250
+00:14:12.820 --> 00:14:16.590
+that. It was a very, very ambitious and you
+
+251
+00:14:16.590 --> 00:14:20.710
+know, some would say far-fetched idea, and a lot
+
+252
+00:14:20.710 --> 00:14:23.750
+of people said it could never work and certainly
+
+253
+00:14:23.750 --> 00:14:27.710
+right now it doesn't work, but what's fantastic is
+
+254
+00:14:27.710 --> 00:14:30.469
+that in the meantime people have developed a kind
+
+255
+00:14:30.469 --> 00:14:34.239
+of improved version of my idea. In which um
+
+256
+00:14:34.340 --> 00:14:35.979
+you can just use a small drug, a simple
+
+257
+00:14:35.979 --> 00:14:39.739
+molecule that achieves the same thing. It essentially takes
+
+258
+00:14:39.739 --> 00:14:43.340
+cell, if it gets into a cell that is
+
+259
+00:14:43.340 --> 00:14:45.900
+making a lot of telomerase, which is 90% of
+
+260
+00:14:45.900 --> 00:14:49.059
+all cancers, then the the cell will kill itself
+
+261
+00:14:49.059 --> 00:14:53.219
+very quickly. So, um, the, the idea of controlling
+
+262
+00:14:53.219 --> 00:14:57.099
+telomere elongation is very much alive and kicking and
+
+263
+00:14:57.099 --> 00:14:59.260
+a very important part of how we're going to
+
+264
+00:14:59.260 --> 00:15:00.239
+bring aging under control.
+
+265
+00:15:02.000 --> 00:15:06.409
+And how can aging be combat combated actually and
+
+266
+00:15:06.409 --> 00:15:11.429
+tell us specifically also about sense or engineered negligible
+
+267
+00:15:11.429 --> 00:15:12.390
+senescence.
+
+268
+00:15:13.000 --> 00:15:15.929
+Right, so, um, as I've been saying, there are
+
+269
+00:15:15.929 --> 00:15:19.429
+these various types of damage that accumulate. And if
+
+270
+00:15:19.429 --> 00:15:22.520
+we can repair these various types of damage in
+
+271
+00:15:22.520 --> 00:15:25.030
+various ways, stem cell therapy to repair loss of
+
+272
+00:15:25.030 --> 00:15:28.190
+cells or you know this drug I just mentioned
+
+273
+00:15:28.190 --> 00:15:30.750
+to get rid of cancer cells, or other drugs
+
+274
+00:15:30.750 --> 00:15:33.989
+called synolytics which get rid of zombie cells that
+
+275
+00:15:33.989 --> 00:15:36.549
+are death resistant, as I call them, and so
+
+276
+00:15:36.549 --> 00:15:40.250
+on. If we can do all these things, then
+
+277
+00:15:40.609 --> 00:15:44.349
+we will be combating aging. We will be turning
+
+278
+00:15:44.450 --> 00:15:47.770
+a biologically old person into a biologically young person,
+
+279
+00:15:48.219 --> 00:15:50.409
+and we can do that as often as we
+
+280
+00:15:50.409 --> 00:15:52.609
+like. As I mentioned earlier when you asked about
+
+281
+00:15:52.609 --> 00:15:56.570
+longevity escape velocity, the problem will get harder over
+
+282
+00:15:56.570 --> 00:15:59.909
+time because of the particularly difficult types of damage
+
+283
+00:15:59.909 --> 00:16:03.609
+that we can't yet repair, but if we are
+
+284
+00:16:03.830 --> 00:16:07.719
+rapid enough in improving our ability to do this
+
+285
+00:16:07.719 --> 00:16:10.500
+or that type of damage repair, then that's OK.
+
+286
+00:16:11.320 --> 00:16:14.070
+So that will essentially be the medical control of
+
+287
+00:16:14.070 --> 00:16:17.919
+aging and you know that's why I coined the
+
+288
+00:16:17.919 --> 00:16:22.840
+term sense, strategies for engineered negligible senescence. Senescence is
+
+289
+00:16:22.840 --> 00:16:24.799
+the word that biologists use when they want to
+
+290
+00:16:24.799 --> 00:16:28.000
+talk, you know, rigorously about aging because they want
+
+291
+00:16:28.000 --> 00:16:29.830
+to talk about the bad, the bad aspects of
+
+292
+00:16:29.830 --> 00:16:34.760
+getting old. Negligible senescence therefore means, um, you know,
+
+293
+00:16:35.159 --> 00:16:41.150
+uh, essentially bringing the rate of aging down so
+
+294
+00:16:41.150 --> 00:16:43.599
+low that you can't detect it. And that term
+
+295
+00:16:43.599 --> 00:16:47.200
+was coined actually negligible senescence uh at least 10
+
+296
+00:16:47.200 --> 00:16:51.440
+years before I came along. Um, TO describe the
+
+297
+00:16:51.440 --> 00:16:54.359
+natural phenomenon where some species appear not to age
+
+298
+00:16:54.359 --> 00:16:57.799
+in the wild. Um, AND then of course engineered
+
+299
+00:16:57.799 --> 00:17:01.539
+negligible escence means taking an organism like human beings
+
+300
+00:17:01.840 --> 00:17:04.160
+that does age and turning it into an organism
+
+301
+00:17:04.160 --> 00:17:05.520
+that doesn't using medicine.
+
+302
+00:17:07.380 --> 00:17:10.880
+And what would exactly be the goals of combating
+
+303
+00:17:10.880 --> 00:17:13.810
+aging? What goals do you have in mind?
+
+304
+00:17:13.900 --> 00:17:16.260
+It's perfectly simple. I don't want to get sick.
+
+305
+00:17:16.380 --> 00:17:18.920
+I don't want anyone else to get sick. You
+
+306
+00:17:18.920 --> 00:17:22.900
+know, people often focus on the radical life extension
+
+307
+00:17:22.900 --> 00:17:26.098
+aspect, but that's, that's incorrect. I don't think about
+
+308
+00:17:26.300 --> 00:17:29.109
+length of life very much. I just think about,
+
+309
+00:17:29.199 --> 00:17:31.199
+I don't wanna get sick. I don't, I don't
+
+310
+00:17:31.199 --> 00:17:34.079
+suppose you want to get sick. And it just
+
+311
+00:17:34.079 --> 00:17:36.680
+so happens that a side effect of staying healthy
+
+312
+00:17:36.680 --> 00:17:39.630
+is you stay alive with high probability. Most people
+
+313
+00:17:39.630 --> 00:17:42.750
+die from being sick these days. And of course,
+
+314
+00:17:42.760 --> 00:17:45.280
+most people get sick from having been born a
+
+315
+00:17:45.280 --> 00:17:46.040
+long time ago.
+
+316
+00:17:47.790 --> 00:17:51.489
+And what kinds of technologies and medical approaches do
+
+317
+00:17:51.489 --> 00:17:55.829
+we already have at our disposal to combat aging?
+
+318
+00:17:57.449 --> 00:18:01.829
+Basically nothing, but it's close. So at the moment,
+
+319
+00:18:02.010 --> 00:18:04.410
+of course, there's a huge industry selling, you know,
+
+320
+00:18:04.489 --> 00:18:10.369
+supplements and other kinds of devices that theoretically postpone
+
+321
+00:18:10.369 --> 00:18:14.880
+aging, but everybody knows that even if they work,
+
+322
+00:18:14.969 --> 00:18:17.250
+they only work a little bit, and of course
+
+323
+00:18:17.250 --> 00:18:20.810
+different things work for different people. So I wouldn't
+
+324
+00:18:20.810 --> 00:18:24.609
+call them really anti-aging medicine in the way that
+
+325
+00:18:24.609 --> 00:18:28.119
+we would like to have. However, A number of
+
+326
+00:18:28.119 --> 00:18:32.040
+the damage repair approaches that I um have described
+
+327
+00:18:32.040 --> 00:18:34.239
+over these years are now in clinical trials, so
+
+328
+00:18:34.239 --> 00:18:36.880
+they're pretty close to being available. There are clinical
+
+329
+00:18:36.880 --> 00:18:39.800
+trials for stem the stem cell therapies against Parkinson's,
+
+330
+00:18:39.810 --> 00:18:43.040
+for example. There are clinical trials of this drug.
+
+331
+00:18:43.224 --> 00:18:46.984
+Mention that kills off 90% of cancers. There are
+
+332
+00:18:46.984 --> 00:18:50.145
+clinical trials for synolytics, the drugs that kill off
+
+333
+00:18:50.145 --> 00:18:54.025
+senescent cells. It's moving very rapidly in the right
+
+334
+00:18:54.025 --> 00:18:56.525
+direction now. So I think within only a few
+
+335
+00:18:56.525 --> 00:18:59.954
+years we're going to see these things widely available,
+
+336
+00:19:00.025 --> 00:19:02.185
+and the benefits to health will be very large
+
+337
+00:19:02.185 --> 00:19:02.704
+indeed.
+
+338
+00:19:03.900 --> 00:19:05.699
+So I would like to ask you now about
+
+339
+00:19:05.699 --> 00:19:08.619
+two different kinds of drugs. The first one, I
+
+340
+00:19:08.619 --> 00:19:11.900
+don't know exactly about its current status, but at
+
+341
+00:19:11.900 --> 00:19:14.459
+least a few years ago people were talking about
+
+342
+00:19:14.459 --> 00:19:18.459
+it a lot. What do you make of metformin?
+
+343
+00:19:19.510 --> 00:19:23.119
+OK, so metformin is a very old drug that
+
+344
+00:19:23.119 --> 00:19:29.849
+was um originally developed to treat diabetes and. Maybe
+
+345
+00:19:29.849 --> 00:19:32.849
+10 or 15 years ago, people started to think
+
+346
+00:19:32.849 --> 00:19:35.650
+about whether it might have a much more general
+
+347
+00:19:35.650 --> 00:19:40.109
+effect on aging overall. And there was some evidence
+
+348
+00:19:40.109 --> 00:19:43.810
+that suggested that it did. People have actually since
+
+349
+00:19:43.810 --> 00:19:46.030
+then they have questioned whether that evidence is quite
+
+350
+00:19:46.030 --> 00:19:49.630
+as persuasive as it was originally thought to be,
+
+351
+00:19:49.930 --> 00:19:52.369
+but there's still pretty good evidence that metformin may
+
+352
+00:19:52.369 --> 00:19:55.369
+very well have general anti-aging effects. So first of
+
+353
+00:19:55.369 --> 00:19:57.790
+all, we would like to understand how, you know,
+
+354
+00:19:57.959 --> 00:20:00.109
+what does it do, and we kind of understand
+
+355
+00:20:00.109 --> 00:20:02.989
+that metformin gets in the way of what's called
+
+356
+00:20:02.989 --> 00:20:06.689
+the electron transport chain in mitochondria, so it basically
+
+357
+00:20:06.689 --> 00:20:10.729
+slows down the rate at which cells can make
+
+358
+00:20:10.729 --> 00:20:16.390
+ATP, the energy currency of the cell. That Is
+
+359
+00:20:16.390 --> 00:20:19.069
+something that's very similar to what happens if you're
+
+360
+00:20:19.069 --> 00:20:21.750
+in a famine, if you, you know, like, are
+
+361
+00:20:21.750 --> 00:20:23.670
+not eating as much as you would like. You
+
+362
+00:20:23.670 --> 00:20:27.420
+obviously, the way that um mitochondria make ATP is
+
+363
+00:20:27.420 --> 00:20:29.750
+by taking energy from nutrients, and if you're not
+
+364
+00:20:29.750 --> 00:20:33.530
+eating enough, then you'd have got fewer nutrients. Now.
+
+365
+00:20:34.739 --> 00:20:37.530
+Over the years, oh well, over the millennia, um,
+
+366
+00:20:37.609 --> 00:20:43.329
+evolution has developed ways to, um, respond to famine,
+
+367
+00:20:43.739 --> 00:20:45.349
+because of course famines happen in the real world.
+
+368
+00:20:46.069 --> 00:20:51.089
+And it turns out that it's evolutionarily beneficial to
+
+369
+00:20:51.609 --> 00:20:54.859
+reprioritize one's, what, what one, what, what the body
+
+370
+00:20:54.859 --> 00:20:58.510
+is doing in a famine relative to when food
+
+371
+00:20:58.510 --> 00:21:02.189
+is abundant. Essentially it comes down to when food
+
+372
+00:21:02.189 --> 00:21:06.189
+is abundant, it makes sense to grow really fast
+
+373
+00:21:06.189 --> 00:21:10.150
+and reproduce really fast so that you can reproduce
+
+374
+00:21:10.150 --> 00:21:12.869
+and pass on your genes before you get eaten
+
+375
+00:21:12.949 --> 00:21:16.760
+or whatever, um. But in a famine, there's not
+
+376
+00:21:16.760 --> 00:21:18.560
+much point in doing that because if you have
+
+377
+00:21:18.560 --> 00:21:21.920
+offspring, then those offspring will die of starvation before
+
+378
+00:21:21.920 --> 00:21:26.119
+they have their own offspring. So, um, it's best
+
+379
+00:21:26.119 --> 00:21:29.560
+to, you know, hunker down and and conserve energy
+
+380
+00:21:29.560 --> 00:21:32.319
+and so on and, and try to outlive the
+
+381
+00:21:32.319 --> 00:21:35.359
+famine. And of course, maybe you will, maybe you
+
+382
+00:21:35.359 --> 00:21:38.680
+won't, but, but evolution is all about a numbers
+
+383
+00:21:38.680 --> 00:21:42.280
+game, so it still makes sense. All right, so
+
+384
+00:21:42.410 --> 00:21:44.689
+pretty much all animals seem to do this. They
+
+385
+00:21:44.689 --> 00:21:48.410
+respond to famine, and that means they also respond
+
+386
+00:21:48.410 --> 00:21:53.010
+in the exact same way to situations within the
+
+387
+00:21:53.010 --> 00:21:57.810
+cell that resemble famine. So metformin is one of
+
+388
+00:21:57.810 --> 00:21:59.770
+those things. It's what's called, what's called a calorie
+
+389
+00:21:59.770 --> 00:22:03.869
+restriction mimetic. And some of the other most, um,
+
+390
+00:22:04.209 --> 00:22:07.280
+you know, high profile drugs that are believed to
+
+391
+00:22:07.280 --> 00:22:11.010
+have general effects on aging. Are also calorie restriction
+
+392
+00:22:11.010 --> 00:22:14.729
+mimetics. Generally they work by different mechanisms. For example,
+
+393
+00:22:14.839 --> 00:22:18.329
+there's a very famous drug called rapamycin, which works
+
+394
+00:22:18.329 --> 00:22:22.359
+by slowing down the synthesis of proteins. Um, YOU
+
+395
+00:22:22.359 --> 00:22:24.270
+know, essentially anything that gets in the way of
+
+396
+00:22:24.270 --> 00:22:26.400
+what the cell likes to do with energy, either
+
+397
+00:22:26.959 --> 00:22:29.560
+extracting it and making ATP or using the ATP
+
+398
+00:22:29.560 --> 00:22:32.199
+in this or that way, you know, it's tic
+
+399
+00:22:32.199 --> 00:22:35.800
+one way or another, um. So the question then
+
+400
+00:22:35.800 --> 00:22:38.790
+is, you know, is this the holy grail, and
+
+401
+00:22:38.790 --> 00:22:43.619
+unfortunately the answer is no. Long-lived species do not
+
+402
+00:22:43.619 --> 00:22:46.949
+get very much benefit from calorie restriction, from, from
+
+403
+00:22:47.099 --> 00:22:50.199
+eating too little, um, and therefore they also don't
+
+404
+00:22:50.199 --> 00:22:53.510
+get very much benefit from these calorie restriction mimetics.
+
+405
+00:22:53.849 --> 00:22:55.930
+The reason for this is very straightforward. It's simply
+
+406
+00:22:55.930 --> 00:23:00.229
+that in nature, long famines don't happen very often.
+
+407
+00:23:00.329 --> 00:23:03.050
+They happen less often than short famines, and that
+
+408
+00:23:03.050 --> 00:23:07.689
+means there is less evolutionary selective pressure. To develop
+
+409
+00:23:07.689 --> 00:23:12.229
+and maintain machinery to do this, you know, reprioritization
+
+410
+00:23:12.229 --> 00:23:13.079
+I was talking about.
+
+411
+00:23:14.660 --> 00:23:16.739
+How about rapamycin?
+
+412
+00:23:17.180 --> 00:23:19.410
+Well, right, I was just mentioning that for precisely
+
+413
+00:23:19.410 --> 00:23:21.780
+for that reason. Same deal. Everything I just said
+
+414
+00:23:21.780 --> 00:23:25.060
+about metformin, the exact same thing applies to rapamycin.
+
+415
+00:23:25.949 --> 00:23:30.790
+Mhm. OK. Uh, TELL us about methylation clocks. What
+
+416
+00:23:30.790 --> 00:23:33.750
+are they and can we use them to find
+
+417
+00:23:33.750 --> 00:23:35.569
+anti-aging treatments?
+
+418
+00:23:36.229 --> 00:23:40.609
+Right, so I mentioned the um Types of types
+
+419
+00:23:40.609 --> 00:23:42.489
+of clocks that there are right now, right? There
+
+420
+00:23:42.489 --> 00:23:45.040
+are clocks, there, there are measures of biological age
+
+421
+00:23:45.040 --> 00:23:47.750
+based on function, and there are measures of biological
+
+422
+00:23:47.760 --> 00:23:51.229
+age based on omics. So the epigenetic clocks are
+
+423
+00:23:51.609 --> 00:23:53.969
+a a subset of the omic clocks. They are
+
+424
+00:23:53.969 --> 00:23:56.839
+in fact the biggest subset. There are also transcriptomic
+
+425
+00:23:56.839 --> 00:23:59.770
+clocks and proteomic clocks and such like. But yeah,
+
+426
+00:23:59.849 --> 00:24:02.569
+I mean, these are quite fashionable right now because
+
+427
+00:24:02.569 --> 00:24:05.089
+they are new and they have improved a lot
+
+428
+00:24:05.089 --> 00:24:08.719
+over the past decade. Um, ESSENTIALLY what they do
+
+429
+00:24:08.719 --> 00:24:13.839
+is they look at changes to the, to, to
+
+430
+00:24:13.839 --> 00:24:17.810
+particular molecular modifications that cells make to their DNA,
+
+431
+00:24:18.560 --> 00:24:21.760
+um, and that these modifications sometimes change with age.
+
+432
+00:24:22.569 --> 00:24:26.250
+They see, you know, um, so you can look
+
+433
+00:24:26.250 --> 00:24:27.880
+at, you know, a lot of people of a
+
+434
+00:24:27.880 --> 00:24:29.449
+given age and you can say, well, OK, what
+
+435
+00:24:29.449 --> 00:24:33.369
+is the methylation state of these people, and you
+
+436
+00:24:33.369 --> 00:24:35.170
+can look at a higher age and you can
+
+437
+00:24:35.170 --> 00:24:37.449
+see whether there are differences in the methylation state
+
+438
+00:24:37.449 --> 00:24:39.770
+on average across a population of a given age.
+
+439
+00:24:40.130 --> 00:24:43.069
+And then, of course, you can, you can ask
+
+440
+00:24:43.810 --> 00:24:45.979
+for any other person. You can say, well, OK,
+
+441
+00:24:46.109 --> 00:24:50.930
+what is their actual age and what. Is their
+
+442
+00:24:50.930 --> 00:24:54.739
+methylation age, in other words, what is the age
+
+443
+00:24:54.739 --> 00:24:59.020
+that is typical of someone who who has that
+
+444
+00:24:59.020 --> 00:25:03.290
+methylation state? And that's their biological age by methylation.
+
+445
+00:25:03.839 --> 00:25:06.040
+These things are still not very accurate, but they're
+
+446
+00:25:06.040 --> 00:25:06.599
+getting better.
+
+447
+00:25:08.739 --> 00:25:12.699
+How close would you say is biomedical technology to
+
+448
+00:25:12.699 --> 00:25:15.739
+significantly postponing aging?
+
+449
+00:25:16.729 --> 00:25:20.489
+Well, the, um, current prediction that I make is
+
+450
+00:25:20.489 --> 00:25:23.489
+that we have a 50% chance of reaching longevity
+
+451
+00:25:23.489 --> 00:25:28.770
+escape velocity before the end of, before 2040. So
+
+452
+00:25:28.770 --> 00:25:30.890
+in other words, in 12 to 15 years towards
+
+453
+00:25:30.890 --> 00:25:35.109
+the end of the 2030s. Um, NOW, of course.
+
+454
+00:25:36.150 --> 00:25:38.239
+As I mentioned, some of the technologies that are
+
+455
+00:25:38.239 --> 00:25:41.270
+going to be relevant to this are already in
+
+456
+00:25:41.270 --> 00:25:45.719
+clinical trials and therefore they will be around and
+
+457
+00:25:45.719 --> 00:25:50.359
+available quite a lot sooner. And it's possible that
+
+458
+00:25:50.369 --> 00:25:52.339
+that will be enough to get us to longevity
+
+459
+00:25:52.339 --> 00:25:56.060
+escape velocity. But I, I, I, I'm more cautious
+
+460
+00:25:56.060 --> 00:25:58.900
+than that. I think that some of the things
+
+461
+00:25:58.900 --> 00:26:00.859
+that we're going to need to give us that
+
+462
+00:26:00.859 --> 00:26:05.469
+initial 20 years of postponement of aging are among
+
+463
+00:26:05.469 --> 00:26:08.020
+the difficult things that are not in clinical trials
+
+464
+00:26:08.020 --> 00:26:10.060
+yet and probably won't be in clinical trials for
+
+465
+00:26:10.060 --> 00:26:11.119
+several more years.
+
+466
+00:26:13.219 --> 00:26:17.829
+Do you think it would be possible to postpone
+
+467
+00:26:17.829 --> 00:26:23.229
+aging indefinitely, and would it be possible to not
+
+468
+00:26:23.489 --> 00:26:23.890
+die?
+
+469
+00:26:25.060 --> 00:26:27.920
+So first of all, yes, I think we can
+
+470
+00:26:28.219 --> 00:26:30.900
+postpone aging indefinitely, but the way we will do
+
+471
+00:26:30.900 --> 00:26:34.020
+it is by this longevity escape velocity thing. First,
+
+472
+00:26:34.060 --> 00:26:36.459
+we will postpone it by 20 years and then
+
+473
+00:26:36.459 --> 00:26:39.459
+during those 20 years, we will figure out how
+
+474
+00:26:39.459 --> 00:26:41.380
+to postpone it another 20 years and so on.
+
+475
+00:26:43.160 --> 00:26:45.680
+If you think about the mathematics of that, it
+
+476
+00:26:45.680 --> 00:26:48.520
+gets progressively easier to get the next 20 years
+
+477
+00:26:48.520 --> 00:26:51.060
+than it was for the previous 20 years. So,
+
+478
+00:26:51.160 --> 00:26:53.520
+I'm completely certain that once we get those 1st
+
+479
+00:26:53.520 --> 00:26:57.560
+20 years, we will never slip below longevity escape
+
+480
+00:26:57.560 --> 00:27:02.699
+velocity again. We will definitely proceed easily, rapidly enough
+
+481
+00:27:03.000 --> 00:27:05.000
+to um to to keep one step ahead of
+
+482
+00:27:05.000 --> 00:27:09.670
+the problem. So in other words, we will not
+
+483
+00:27:09.670 --> 00:27:13.810
+actually have at any point the actual technology that
+
+484
+00:27:13.810 --> 00:27:16.550
+completely eliminates aging, but we won't need to have
+
+485
+00:27:16.550 --> 00:27:20.349
+it. The actual impact on us will be equivalent
+
+486
+00:27:20.349 --> 00:27:21.670
+to what it would be if we did have
+
+487
+00:27:21.670 --> 00:27:27.150
+that. Um, AS regards death, um, you know, I,
+
+488
+00:27:27.430 --> 00:27:29.790
+one of the things that I constantly complain about
+
+489
+00:27:29.790 --> 00:27:32.709
+is that the media are very fond of saying
+
+490
+00:27:32.709 --> 00:27:34.989
+death when they mean aging. And the reason that's
+
+491
+00:27:34.989 --> 00:27:40.400
+a huge problem is because everybody knows that. We
+
+492
+00:27:40.400 --> 00:27:42.760
+can't prevent death with technology, you know, there are
+
+493
+00:27:42.760 --> 00:27:45.560
+just too many ways to um to die that
+
+494
+00:27:45.560 --> 00:27:47.040
+have nothing to do with how long ago you
+
+495
+00:27:47.040 --> 00:27:49.199
+were born. Whether it's being hit by a truck
+
+496
+00:27:49.199 --> 00:27:51.150
+or the planet being hit by an asteroid or
+
+497
+00:27:51.150 --> 00:27:57.839
+whatever. And so You know, basically what That confusion
+
+498
+00:27:57.839 --> 00:28:05.140
+of words creates is a kind of subliminal belief
+
+499
+00:28:05.439 --> 00:28:08.040
+that aging is the same, that aging can also
+
+500
+00:28:08.040 --> 00:28:12.719
+not be defeated by technology, which is incorrect, it's
+
+501
+00:28:12.719 --> 00:28:16.280
+untrue, but it kind of makes people feel comfortable.
+
+502
+00:28:16.319 --> 00:28:17.920
+It helps them to put it, put aging out
+
+503
+00:28:17.920 --> 00:28:20.560
+of their minds. So I'm quite sure that journalists
+
+504
+00:28:20.560 --> 00:28:22.839
+do this on purpose, that they say death when
+
+505
+00:28:22.839 --> 00:28:27.229
+they mean aging just to get readership. And it's
+
+506
+00:28:27.229 --> 00:28:27.969
+very damaging.
+
+507
+00:28:28.979 --> 00:28:32.380
+Yeah, that's also the reason why I separated the
+
+508
+00:28:32.380 --> 00:28:35.180
+question into two different questions, because I wanted you
+
+509
+00:28:35.180 --> 00:28:40.060
+to address aging and death separately here. Do you
+
+510
+00:28:40.060 --> 00:28:44.859
+think that most doctors apply this framework or this
+
+511
+00:28:44.859 --> 00:28:48.660
+approach you have to aging to their practice in
+
+512
+00:28:48.660 --> 00:28:49.209
+any way?
+
+513
+00:28:49.459 --> 00:28:53.560
+Oh, certainly not, not yet. And that's because doctors
+
+514
+00:28:53.819 --> 00:28:57.390
+are only able to do things that already exist.
+
+515
+00:28:57.500 --> 00:29:00.140
+They are only able to give people medicines that
+
+516
+00:29:00.140 --> 00:29:03.300
+have already been approved. Now, as I mentioned, none
+
+517
+00:29:03.300 --> 00:29:05.900
+of this is approved yet. Some of these things
+
+518
+00:29:05.900 --> 00:29:08.635
+are close. They're in clinical trials and so they
+
+519
+00:29:08.635 --> 00:29:11.275
+may be approved in the next few years and
+
+520
+00:29:11.275 --> 00:29:13.964
+then absolutely that's going to happen. But I do
+
+521
+00:29:13.964 --> 00:29:18.354
+not blame doctors for focusing only on what they
+
+522
+00:29:18.354 --> 00:29:21.194
+can currently do, because that's a that's a big
+
+523
+00:29:21.194 --> 00:29:24.675
+job. Um, YOU know, if they try to spend
+
+524
+00:29:24.675 --> 00:29:28.114
+their time trying to anticipate things that they can't
+
+525
+00:29:28.114 --> 00:29:30.435
+yet do because they haven't been developed yet or
+
+526
+00:29:30.435 --> 00:29:33.395
+haven't been approved yet, then, you know, that would
+
+527
+00:29:33.395 --> 00:29:35.314
+make them less effective. So that's fine.
+
+528
+00:29:37.130 --> 00:29:39.449
+So let me ask you now just a couple
+
+529
+00:29:39.449 --> 00:29:45.329
+of questions about the possible implications that solving aging
+
+530
+00:29:45.329 --> 00:29:50.569
+could have for women physiologically. Would women still have
+
+531
+00:29:50.569 --> 00:29:53.469
+menopause if we solved aging?
+
+532
+00:29:54.209 --> 00:29:56.829
+Not if they don't want to. So the ovary
+
+533
+00:29:56.900 --> 00:30:00.010
+is just another organ. It can be regenerated and
+
+534
+00:30:00.010 --> 00:30:04.829
+rejuvenated just like any other. And in fact, people
+
+535
+00:30:04.829 --> 00:30:08.329
+are already making good progress in this, in creating
+
+536
+00:30:08.329 --> 00:30:14.170
+ways to regenerate follicles and regenerate ocytes. Normally the
+
+537
+00:30:14.270 --> 00:30:18.390
+egg cells in a woman's ovary are all created
+
+538
+00:30:18.390 --> 00:30:22.880
+before the woman had even been born. But there's
+
+539
+00:30:22.880 --> 00:30:25.380
+no inherent reason why that should be the case.
+
+540
+00:30:25.760 --> 00:30:29.400
+We may be able to regenerate an ovary and
+
+541
+00:30:29.400 --> 00:30:32.790
+give it more follicles and more oocytes in situ.
+
+542
+00:30:33.439 --> 00:30:36.880
+Another possibility is to is to grow an ovary
+
+543
+00:30:36.880 --> 00:30:39.880
+outside of the body and then transplant it surgically.
+
+544
+00:30:40.540 --> 00:30:43.140
+Um, AND these are, these things are already being
+
+545
+00:30:43.140 --> 00:30:46.839
+explored. Now, of course, the question is, do you
+
+546
+00:30:46.839 --> 00:30:50.050
+want that as a woman? Uh, AND some, some
+
+547
+00:30:50.050 --> 00:30:53.119
+women are looking forward to menopause. They don't enjoy,
+
+548
+00:30:53.750 --> 00:30:57.180
+you know, having periods. Um, BUT of course, there's
+
+549
+00:30:57.180 --> 00:30:59.280
+also no reason why one would not be able
+
+550
+00:30:59.280 --> 00:31:01.380
+to turn it on and off and have all
+
+551
+00:31:01.380 --> 00:31:04.660
+the, you know, benefits without the, um, side effects.
+
+552
+00:31:06.250 --> 00:31:08.939
+And do you think that if women did not
+
+553
+00:31:08.939 --> 00:31:13.300
+have menopause anymore, it would influence birth rates?
+
+554
+00:31:13.619 --> 00:31:15.819
+Yes, but not in the way that you're probably
+
+555
+00:31:15.819 --> 00:31:22.569
+thinking. They Um, The world we have seen, you
+
+556
+00:31:22.569 --> 00:31:25.810
+know, has each society goes through this thing called
+
+557
+00:31:25.810 --> 00:31:30.369
+the demographic transition where women reach a certain level
+
+558
+00:31:30.369 --> 00:31:34.810
+of prosperity and education and emancipation, and they have
+
+559
+00:31:34.810 --> 00:31:38.050
+choices and they suddenly have far fewer children than
+
+560
+00:31:38.050 --> 00:31:41.479
+they than they used to. Mhm. And that's interesting,
+
+561
+00:31:41.709 --> 00:31:44.910
+but the thing is, they also have those children
+
+562
+00:31:44.910 --> 00:31:47.589
+later. Only a bit later because, of course, we
+
+563
+00:31:47.589 --> 00:31:50.150
+have menopause right now, so if you want children
+
+564
+00:31:50.150 --> 00:31:54.150
+at all, then there's a deadline. But the point
+
+565
+00:31:54.150 --> 00:31:56.589
+is they have them a bit later. Why? Of
+
+566
+00:31:56.589 --> 00:32:00.069
+course, different women have different reasons, but, you know,
+
+567
+00:32:00.229 --> 00:32:01.790
+just the other things they want to do with
+
+568
+00:32:01.790 --> 00:32:04.479
+their lives before they do this terribly time consuming
+
+569
+00:32:04.479 --> 00:32:08.150
+thing, right? Um, SO if they didn't have the
+
+570
+00:32:08.150 --> 00:32:11.829
+deadline, if they didn't have menopause, then it stands,
+
+571
+00:32:11.900 --> 00:32:15.689
+it, it seems very likely that most women who
+
+572
+00:32:15.750 --> 00:32:20.160
+are postponing having kids a little bit will just
+
+573
+00:32:20.160 --> 00:32:23.750
+postpone having kids a lot instead, you know, by
+
+574
+00:32:23.750 --> 00:32:27.069
+another decade and another decade because they can. And
+
+575
+00:32:27.069 --> 00:32:31.459
+therefore, what I actually think is likely is that.
+
+576
+00:32:32.099 --> 00:32:36.540
+The number of Um, babies that are born in
+
+577
+00:32:36.540 --> 00:32:40.550
+any given calendar year worldwide, um, would actually go
+
+578
+00:32:40.550 --> 00:32:44.109
+down as a result of the opportunity to have
+
+579
+00:32:44.109 --> 00:32:47.180
+more, which is quite counterintuitive, but I'm pretty sure
+
+580
+00:32:47.180 --> 00:32:47.469
+of it.
+
+581
+00:32:48.910 --> 00:32:52.949
+Yeah, that's a very interesting take on this issue
+
+582
+00:32:52.949 --> 00:32:56.530
+because another question that I have here is, wouldn't
+
+583
+00:32:56.530 --> 00:33:01.630
+solving aging lead to massive overpopulation, because I mean
+
+584
+00:33:01.630 --> 00:33:05.989
+people would be living much, much longer. So
+
+585
+00:33:05.989 --> 00:33:09.270
+right, so if you I mean, so if you
+
+586
+00:33:09.270 --> 00:33:11.469
+look at what people are projecting now, they, uh,
+
+587
+00:33:11.520 --> 00:33:14.180
+the United Nations, for example, they say that world
+
+588
+00:33:14.180 --> 00:33:17.920
+population will come to a maximum in like the
+
+589
+00:33:17.920 --> 00:33:20.839
+2060 or 2070 or something like that. But of
+
+590
+00:33:20.839 --> 00:33:23.839
+course that only, that's only true if people continue
+
+591
+00:33:23.839 --> 00:33:27.119
+to die. And the UN has not taken my
+
+592
+00:33:27.119 --> 00:33:31.469
+kinds of predictions into account yet. So, um. We
+
+593
+00:33:31.469 --> 00:33:33.630
+would certainly expect that there will be almost no
+
+594
+00:33:33.630 --> 00:33:36.150
+death, because, you know, we will not have death
+
+595
+00:33:36.150 --> 00:33:38.310
+from aging and we'll probably also get quite a
+
+596
+00:33:38.310 --> 00:33:40.989
+lot better at not having death from road accidents
+
+597
+00:33:40.989 --> 00:33:44.510
+and so on either, right? Um, SO hardly any
+
+598
+00:33:44.510 --> 00:33:46.849
+death, and there will be some birth. I mean,
+
+599
+00:33:47.150 --> 00:33:51.189
+we don't know whether having kids will go out
+
+600
+00:33:51.189 --> 00:33:54.020
+of fashion, but the chances are it probably won't.
+
+601
+00:33:54.510 --> 00:33:57.390
+So, um, we'll have more, more kids. But then
+
+602
+00:33:57.390 --> 00:33:59.430
+we have to actually do the arithmetic. We have
+
+603
+00:33:59.430 --> 00:34:04.130
+to quantify this and say, OK, even taking a
+
+604
+00:34:04.260 --> 00:34:09.610
+pessimistic scenario where. What I said about menopause just
+
+605
+00:34:09.610 --> 00:34:12.510
+now does not happen and women carry on having,
+
+606
+00:34:12.649 --> 00:34:14.958
+let's say 1 kid every 10 years on average,
+
+607
+00:34:15.010 --> 00:34:17.810
+something like that, then, um, you know, what's going
+
+608
+00:34:17.810 --> 00:34:21.590
+to happen? Turns out that it's gonna take a
+
+609
+00:34:21.590 --> 00:34:24.870
+really, really long time before we have an overpopulation
+
+610
+00:34:24.870 --> 00:34:27.958
+problem. At the moment, we have 8 billion people
+
+611
+00:34:27.958 --> 00:34:31.810
+on the planet, but we also have well over
+
+612
+00:34:31.810 --> 00:34:35.090
+8 billion acres of land, even if you don't
+
+613
+00:34:35.090 --> 00:34:38.929
+include land that's unpleasant to live in, right? So
+
+614
+00:34:38.929 --> 00:34:40.929
+that means every single person on the planet could
+
+615
+00:34:40.929 --> 00:34:44.370
+have their own acre as of today, and we
+
+616
+00:34:44.370 --> 00:34:49.100
+still wouldn't have to live anywhere unpleasant. Now. Um,
+
+617
+00:34:50.040 --> 00:34:52.280
+Of course, people say, OK, we've got an overpopulation
+
+618
+00:34:52.280 --> 00:34:55.560
+problem today, you know, and it's true, we do,
+
+619
+00:34:55.708 --> 00:34:58.709
+but it's not because there's not enough space. It's
+
+620
+00:34:58.709 --> 00:35:02.800
+because. People are making too much pollution, you know,
+
+621
+00:35:02.959 --> 00:35:05.520
+pumping too much carbon into the atmosphere or, you
+
+622
+00:35:05.520 --> 00:35:08.360
+know, plastics that, that build up in the oceans,
+
+623
+00:35:08.439 --> 00:35:12.000
+things like that. And hello, uh, you know, people
+
+624
+00:35:12.000 --> 00:35:14.320
+forget that we're actually also, at the same time
+
+625
+00:35:14.320 --> 00:35:18.159
+as we're developing technology to control aging, we're also
+
+626
+00:35:18.159 --> 00:35:23.389
+developing technology to, Address those problems, you know, capturing
+
+627
+00:35:23.389 --> 00:35:26.479
+carbon from the atmosphere and, you know, developing bacteria
+
+628
+00:35:26.479 --> 00:35:30.120
+that eat plastics, things like that. And that no.
+
+629
+00:35:32.179 --> 00:35:34.739
+Excuse me, those technologies are going to be completely
+
+630
+00:35:34.739 --> 00:35:39.479
+happening way before we have any kind of demographic
+
+631
+00:35:39.820 --> 00:35:43.340
+impact on the pop on the world arising from
+
+632
+00:35:43.340 --> 00:35:47.459
+bringing aging under control, way before. So the whole
+
+633
+00:35:47.459 --> 00:35:52.959
+idea of overpopulation is definitely, you know, described wrongly.
+
+634
+00:35:53.179 --> 00:35:57.260
+We will have a diminishing overpopulation problem over the
+
+635
+00:35:57.260 --> 00:36:00.979
+next century, whatever happens to aging, and it will
+
+636
+00:36:00.979 --> 00:36:04.429
+be. At least a few centuries before we actually
+
+637
+00:36:04.429 --> 00:36:08.209
+get A genuine problem of not having enough space,
+
+638
+00:36:08.639 --> 00:36:12.020
+um, even in a pessimistic scenario with regard to
+
+639
+00:36:12.020 --> 00:36:15.149
+fertility rates, and it's a very bad idea to
+
+640
+00:36:15.149 --> 00:36:17.229
+try to predict or to try to, you know,
+
+641
+00:36:17.350 --> 00:36:20.169
+to make decisions about what we should do today
+
+642
+00:36:20.469 --> 00:36:22.310
+on the basis of what we think might happen
+
+643
+00:36:22.310 --> 00:36:23.750
+a few 100 years in the future.
+
+644
+00:36:25.209 --> 00:36:28.340
+I understand. What about, and this is more of
+
+645
+00:36:28.340 --> 00:36:31.500
+an economics question I guess, but one that I
+
+646
+00:36:31.500 --> 00:36:34.820
+would imagine many people would worry about. What about
+
+647
+00:36:34.820 --> 00:36:37.850
+retirement? Do you think that people would be forced
+
+648
+00:36:37.850 --> 00:36:42.379
+to work much longer and would people really want
+
+649
+00:36:42.379 --> 00:36:43.520
+to work longer?
+
+650
+00:36:44.040 --> 00:36:46.959
+So this is another case where people look at
+
+651
+00:36:46.959 --> 00:36:51.239
+a post-aging world and they forget that it's going
+
+652
+00:36:51.239 --> 00:36:53.159
+to be a different world in other ways as
+
+653
+00:36:53.159 --> 00:36:55.110
+well. So just in the same way that we
+
+654
+00:36:55.110 --> 00:36:58.879
+will have technology that that maintains that removes carbon
+
+655
+00:36:58.879 --> 00:37:02.699
+from the atmosphere or whatever, similarly, We will have
+
+656
+00:37:02.760 --> 00:37:07.000
+automation. Automation is coming really fast. You know, again,
+
+657
+00:37:07.120 --> 00:37:10.060
+let's talk about the United Nations. Pretty conservative organization,
+
+658
+00:37:10.919 --> 00:37:15.040
+but they say clearly that by 2050, most of
+
+659
+00:37:15.040 --> 00:37:20.080
+the jobs that people currently have won't exist. And
+
+660
+00:37:20.479 --> 00:37:22.030
+of course when that happened the last time, a
+
+661
+00:37:22.030 --> 00:37:25.080
+couple of 100 years ago in the industrial revolution,
+
+662
+00:37:26.280 --> 00:37:33.399
+We maintained the economy of essentially full employment because
+
+663
+00:37:33.409 --> 00:37:36.199
+the jobs that went away in manufacturing and in
+
+664
+00:37:36.199 --> 00:37:39.669
+agriculture. Were replaced by this new thing called the
+
+665
+00:37:39.669 --> 00:37:43.290
+service industry. That's not gonna happen this time around,
+
+666
+00:37:43.810 --> 00:37:45.110
+uh, you know, how many people do you need
+
+667
+00:37:45.110 --> 00:37:48.330
+in the entertainment industry, right? It's not gonna happen.
+
+668
+00:37:48.669 --> 00:37:52.449
+So, that means that the economy will be redesigned
+
+669
+00:37:53.229 --> 00:37:57.909
+around ideas like universal basic income to mean that.
+
+670
+00:37:58.300 --> 00:38:00.699
+You, the, the retirement age will not have to
+
+671
+00:38:00.699 --> 00:38:02.729
+go up. In fact, it will do the opposite,
+
+672
+00:38:02.760 --> 00:38:05.939
+it will come down. You know, hardly anybody will
+
+673
+00:38:05.939 --> 00:38:08.229
+end up working because we just won't need very
+
+674
+00:38:08.229 --> 00:38:10.620
+many people. It will be more, we'll have more
+
+675
+00:38:10.620 --> 00:38:13.060
+prosperity as a result of having machines do all
+
+676
+00:38:13.060 --> 00:38:15.790
+the things that we have to do today. Now,
+
+677
+00:38:15.979 --> 00:38:18.300
+of course, there are plenty of other changes to
+
+678
+00:38:18.300 --> 00:38:22.479
+society that will happen in, in relation to that.
+
+679
+00:38:22.820 --> 00:38:25.540
+In particular, you know, we have to, we have
+
+680
+00:38:25.540 --> 00:38:29.830
+to think about, um, Self-esteem, you know, why do
+
+681
+00:38:29.830 --> 00:38:32.560
+people value themselves? At the moment, a lot of
+
+682
+00:38:32.560 --> 00:38:35.030
+people get their value in life from the work
+
+683
+00:38:35.030 --> 00:38:36.239
+that they do, from the fact that they receive
+
+684
+00:38:36.239 --> 00:38:38.040
+a paycheck and they know that they are benefiting
+
+685
+00:38:38.040 --> 00:38:40.959
+humanity even though they don't see, they don't actually
+
+686
+00:38:40.959 --> 00:38:44.100
+interact with the people they are benefiting. So we
+
+687
+00:38:44.100 --> 00:38:48.939
+may see a shift into a more um natural
+
+688
+00:38:48.939 --> 00:38:52.540
+society where people get most of their self-esteem and
+
+689
+00:38:52.540 --> 00:38:56.419
+self-worth from actual direct personal interactions with people rather
+
+690
+00:38:56.419 --> 00:38:59.939
+than this rather second class indirect interaction.
+
+691
+00:39:01.550 --> 00:39:04.590
+OK, so I have just one last question. What
+
+692
+00:39:04.590 --> 00:39:09.500
+do you think of the anti-aging industry as it
+
+693
+00:39:09.840 --> 00:39:14.239
+is currently? I mean, with all the Things that
+
+694
+00:39:14.239 --> 00:39:18.810
+we see online and elsewhere of people making claims
+
+695
+00:39:18.810 --> 00:39:23.969
+about nutrition, about supplements, and so on. I mean,
+
+696
+00:39:24.090 --> 00:39:26.790
+with the things that we have access to right
+
+697
+00:39:26.790 --> 00:39:31.530
+now when it comes to aging, what do you
+
+698
+00:39:31.530 --> 00:39:32.250
+think about it?
+
+699
+00:39:32.659 --> 00:39:35.739
+Yeah, so, I mean, the anti-aging industry has of
+
+700
+00:39:35.739 --> 00:39:38.340
+course existed since the dawn of time. You know,
+
+701
+00:39:38.500 --> 00:39:40.699
+uh, people have been trying to sell stuff that
+
+702
+00:39:40.699 --> 00:39:43.419
+doesn't work in order to, you know, on the
+
+703
+00:39:43.419 --> 00:39:45.060
+basis that it will make people live longer, and
+
+704
+00:39:45.060 --> 00:39:47.919
+it, it's, you know, it's, it's existed since forever.
+
+705
+00:39:48.340 --> 00:39:50.540
+In fact, when I started to get going in
+
+706
+00:39:50.540 --> 00:39:53.209
+my career, um, and started to give public speech,
+
+707
+00:39:53.419 --> 00:39:55.699
+talks and so on, it was very useful that
+
+708
+00:39:55.699 --> 00:39:58.219
+I look the way I do because nobody can
+
+709
+00:39:58.219 --> 00:39:59.979
+look at me and think that I could possibly
+
+710
+00:39:59.979 --> 00:40:03.969
+be in this for personal financial gain. Um, YOU
+
+711
+00:40:03.969 --> 00:40:05.689
+know, it, it, I, so I was able to
+
+712
+00:40:05.689 --> 00:40:08.689
+distance myself from all of that, which was important
+
+713
+00:40:08.689 --> 00:40:12.610
+because of course I was making very eye-catching predictions
+
+714
+00:40:12.610 --> 00:40:15.530
+about how much we would be able to keep
+
+715
+00:40:15.530 --> 00:40:20.409
+people healthy, um. But now things are rather different
+
+716
+00:40:20.830 --> 00:40:25.090
+because side by side with that industry, the anti-aging
+
+717
+00:40:25.090 --> 00:40:27.510
+industry, there is another thing which is normally called
+
+718
+00:40:27.510 --> 00:40:31.010
+the longevity industry, and that consists, that didn't exist
+
+719
+00:40:31.010 --> 00:40:34.110
+at all until 10 years ago. Um, IT consists
+
+720
+00:40:34.110 --> 00:40:38.149
+of companies that are typically quite small still, though
+
+721
+00:40:38.149 --> 00:40:40.030
+some of them have have become quite big now.
+
+722
+00:40:40.889 --> 00:40:44.290
+Um, AND, um, that are developing these new medicines
+
+723
+00:40:44.290 --> 00:40:48.129
+I'm talking about that are much more powerful and
+
+724
+00:40:48.129 --> 00:40:51.889
+effective than anything that's existed in the past. And
+
+725
+00:40:51.889 --> 00:40:54.020
+a lot of money is going into those companies,
+
+726
+00:40:54.050 --> 00:40:56.530
+and rightly so, and those are the people that
+
+727
+00:40:56.530 --> 00:40:59.915
+are spearheaded. These clinical trials that we're talking about
+
+728
+00:40:59.915 --> 00:41:02.935
+and the um other work that have not yet
+
+729
+00:41:02.935 --> 00:41:04.935
+got to clinical trials, but we'll do so soon.
+
+730
+00:41:05.294 --> 00:41:06.885
+So I think that's a very important distinction to
+
+731
+00:41:06.885 --> 00:41:09.175
+make. The longevity industry is not snake oil at
+
+732
+00:41:09.175 --> 00:41:11.814
+all. It is definitely focusing on the real problem
+
+733
+00:41:11.814 --> 00:41:12.834
+and the real solutions.
+
+734
+00:41:14.000 --> 00:41:17.639
+Right. Great. So just before we go, Doctor De
+
+735
+00:41:17.639 --> 00:41:20.159
+Grey, would you like to tell people where they
+
+736
+00:41:20.159 --> 00:41:22.909
+can find your work on the internet?
+
+737
+00:41:23.399 --> 00:41:25.040
+Sure, yeah, we haven't talked about my work at
+
+738
+00:41:25.040 --> 00:41:27.590
+all. Um, I, I should emphasize that I don't
+
+739
+00:41:27.600 --> 00:41:30.479
+have a company. I have a nonprofit, a charity
+
+740
+00:41:30.479 --> 00:41:34.669
+based in California. It's called Longevity Escape Velocity Foundation.
+
+741
+00:41:35.070 --> 00:41:37.479
+The website is LEVF.org. I'm sure you will put
+
+742
+00:41:37.479 --> 00:41:40.280
+it in the show notes. And of course there,
+
+743
+00:41:40.399 --> 00:41:42.800
+there's plenty of information about what we do and
+
+744
+00:41:42.800 --> 00:41:44.600
+what we want to do. There's also a nice
+
+745
+00:41:44.600 --> 00:41:47.239
+big friendly donate button because everything we do costs
+
+746
+00:41:47.239 --> 00:41:51.159
+money. And um and of course it, it's easy
+
+747
+00:41:51.159 --> 00:41:52.760
+to get hold of me on LinkedIn or Twitter
+
+748
+00:41:52.760 --> 00:41:55.879
+or whatever. So, um, yeah, I mean, I encourage
+
+749
+00:41:55.879 --> 00:41:58.320
+people to contact me if they want to. And
+
+750
+00:41:58.320 --> 00:42:00.560
+also if anyone wants to support this work, we
+
+751
+00:42:00.560 --> 00:42:03.750
+will be eternally grateful because it's really life saving
+
+752
+00:42:03.750 --> 00:42:06.379
+work. It's the most important work that anyone's doing
+
+753
+00:42:06.379 --> 00:42:08.020
+worldwide. That's our sincere belief.
+
+754
+00:42:09.379 --> 00:42:11.610
+Great, I will leave links to that in the
+
+755
+00:42:11.610 --> 00:42:14.500
+description of the interview and thank you so much
+
+756
+00:42:14.500 --> 00:42:16.100
+for taking the time to come on the show.
+
+757
+00:42:16.149 --> 00:42:18.219
+It's been a real pleasure to talk with you.
+
+758
+00:42:18.500 --> 00:42:19.919
+Well, likewise, thank you for having me.
+
+759
+00:42:21.080 --> 00:42:23.600
+Hi guys, thank you for watching this interview until
+
+760
+00:42:23.600 --> 00:42:25.719
+the end. If you liked it, please share it,
+
+761
+00:42:25.919 --> 00:42:28.699
+leave a like and hit the subscription button. The
+
+762
+00:42:28.699 --> 00:42:30.969
+show is brought to you by Enlights, Learning and
+
+763
+00:42:30.969 --> 00:42:34.969
+Development done differently. Check their website at enlights.com and
+
+764
+00:42:34.969 --> 00:42:38.699
+also please consider supporting the show on Patreon or
+
+765
+00:42:38.699 --> 00:42:41.179
+PayPal. I would also like to give a huge
+
+766
+00:42:41.179 --> 00:42:44.320
+thank you to my main patrons and PayPal supporters,
+
+767
+00:42:44.699 --> 00:42:48.540
+Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz Olaf,
+
+768
+00:42:48.610 --> 00:42:51.810
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis,
+
+769
+00:42:52.020 --> 00:42:55.580
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+770
+00:42:55.580 --> 00:42:59.610
+Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+771
+00:43:00.090 --> 00:43:03.889
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and
+
+772
+00:43:03.889 --> 00:43:07.659
+Hal Herzognun, Machael Jonathan Labran, John Yardston, and Samuel
+
+773
+00:43:07.659 --> 00:43:11.580
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+774
+00:43:11.739 --> 00:43:15.429
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+775
+00:43:15.429 --> 00:43:19.810
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nico Barbaro, Adam
+
+776
+00:43:19.810 --> 00:43:23.760
+Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov, Zal
+
+777
+00:43:23.760 --> 00:43:27.770
+Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall,
+
+778
+00:43:27.850 --> 00:43:33.090
+Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pancortezus Suliliski,
+
+779
+00:43:33.570 --> 00:43:36.610
+Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman.
+
+780
+00:43:36.959 --> 00:43:40.989
+Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai,
+
+781
+00:43:41.070 --> 00:43:45.810
+Georgios Theophannus, Chris Williamson, Peter Wolozin, David Williams, Dio
+
+782
+00:43:45.810 --> 00:43:50.000
+Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez,
+
+783
+00:43:50.120 --> 00:43:54.389
+Coralli Chevalier, Bangalore atheists, Larry D. Lee Jr. Old
+
+784
+00:43:54.389 --> 00:43:59.239
+Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren,
+
+785
+00:43:59.469 --> 00:44:03.879
+Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas
+
+786
+00:44:03.879 --> 00:44:08.229
+Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert,
+
+787
+00:44:08.360 --> 00:44:13.689
+Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George
+
+788
+00:44:13.689 --> 00:44:18.350
+Ekoriati, Valentine Steinmann, Per Crawley, Kate von Goler, Alexander
+
+789
+00:44:18.350 --> 00:44:25.159
+Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Janus
+
+790
+00:44:25.159 --> 00:44:30.110
+Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson,
+
+791
+00:44:30.229 --> 00:44:33.834
+Mike Levin, and Jos Necht. A special thanks to
+
+792
+00:44:33.834 --> 00:44:36.685
+my producers is are Webb, Jim Frank Lucas Stink,
+
+793
+00:44:36.804 --> 00:44:41.215
+Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull,
+
+794
+00:44:41.524 --> 00:44:44.465
+Catherine and Patrick Tobin, John Carlomon Negro, Al Nick
+
+795
+00:44:44.465 --> 00:44:47.675
+Cortiz and Nick Golden, and to my executive producers,
+
+796
+00:44:47.685 --> 00:44:51.405
+Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank
+
+797
+00:44:51.405 --> 00:44:52.064
+you for all.
+

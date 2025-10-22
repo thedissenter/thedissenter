@@ -1,0 +1,247 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello everyone. Welcome to a new episode of The Dissenter. I'm your host, as always, Ricardo Lops, and today I'm joined by Dr. Aubrey de Grey. He's a biomedical gerontologist, and today we're going to talk about the science of aging and longevity. So Doctor De Grey, welcome to the show. It's a huge pleasure to everyone. Well,"
+	},
+	{
+		"start_time": "00:20",
+		"speaker": "Aubrey de Grey",
+		"words": "thank you for having me."
+	},
+	{
+		"start_time": "00:22",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me start by asking you first, what got you interested in the topic of aging and in approaching it scientifically?"
+	},
+	{
+		"start_time": "00:33",
+		"speaker": "Aubrey de Grey",
+		"words": "The main thing that got me interested when I was in my late twenties was uh the discovery that hardly, hardly anybody else was interested. This was something that I had never considered until that time. I had always known and that it was obvious to me that aging is the world's most important problem and that it could in principle, be overcome medically. Um, BUT it was so obvious to me that I never discussed it with anybody and therefore I never discovered that other people thought differently. Until I met and married a biologist who accidentally taught me a lot of biology over the dinner table, but who also eventually, you know, I began to realize she wasn't interested in aging, and I thought that's crazy. Um, AND eventually I I found out that. Almost all the other people I was meeting had the same view, so I decided to stop doing what I had been doing for the previous decade or so, which was working in computer science and artificial intelligence, and to switch fields and become a biologist working on aging."
+	},
+	{
+		"start_time": "01:41",
+		"speaker": "Ricardo Lopes",
+		"words": "And what is aging? I mean, how do you define it and how do you approach it from a scientific perspective? Yeah,"
+	},
+	{
+		"start_time": "01:48",
+		"speaker": "Aubrey de Grey",
+		"words": "aging can be defined very simply, but not too simply. Some people try to define it as a process that as some kind of unitary process that just like happens. Um, THE right way to describe it is the combination of two processes. Um, THE first process goes on throughout life, even starting before we're born. And it is a process of creation of damage in the body. So essentially, the body, of course, is a very, very complicated machine that has many, many processes going on all the time to keep us alive from one day to the next, and that network creates changes to the molecular and cellular composition and structure of the body, and those changes, the critical thing is that those changes accumulate over time. Which is fine for a long time because the body is built to um to tolerate a certain amount of those changes without a significant decline in function. But eventually there's more of the more of the changes than that, and that's why it makes sense to call those changes damage. Because eventually when you've got too much, the second process kicks off, and that is the process where the damage creates the decline in function, both mental function and physical function, the pathologies of late life. So that's all that aging is. Our metabolism creates damage throughout life and eventually the damage starts to create pathologies, and that eventually kills us."
+	},
+	{
+		"start_time": "03:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, and I'm going to ask you also about the 7 deadly things or the 7 different types of damage behind aging in a second, but before that, why do we age? What are the evolutionary origins of aging?"
+	},
+	{
+		"start_time": "03:38",
+		"speaker": "Aubrey de Grey",
+		"words": "People got this wrong for a long time. Uh, PEOPLE, when, when they started thinking about this, not long after Darwin, they started to think, well, OK, aging must exist for some kind of evolutionary reason. Um, YOU know, there must be some advantage to the species, even though there is clearly a disadvantage to the individual. Um, BUT eventually in the middle of the 20th century, people realized that that wasn't correct. And, uh, one of my friends put it very, very well, a long time ago. He said, evolution is not a product of evolutionary intent, it is a product of evolutionary neglect. In other words, it's not that evolution wants us to age, it's just that. Evolution is pretty much ambivalent about it. It doesn't want us to age, but it only slightly doesn't want us to, so it hasn't taken the trouble to develop machinery to make us not age."
+	},
+	{
+		"start_time": "04:38",
+		"speaker": "Ricardo Lopes",
+		"words": "How is biological age calculated?"
+	},
+	{
+		"start_time": "04:41",
+		"speaker": "Aubrey de Grey",
+		"words": "Oh, so that's actually a really controversial, um, situation right now. A lot of experts would say that in fact, we shouldn't be using the term biological age at all because aging is, you know, a lot of different types of damage accumulating through different mechanisms at different rates and therefore an individual's biological age should not be expressed as one number. Um, BUT of course in theory one could regard it as one number if one had complete information. One could say, well, It is somehow the um the risk that one has of developing chronic conditions within the next year, or one could define it in terms of how long it's likely to be in the context of current medicine before one starts to exhibit chronic conditions of late life. Those kinds of things. In terms of measuring it though, the technologies that we have really are not up to it. There are old fashioned ways to do it in terms of basically function, you know, you measure how strong somebody is, how good their memory is, things like that, and those are pretty good. And then there are measures that are based on omics, so looking at the epigenetics of the blood, for example, and me and and getting correlations from that, things that change with age. Um, AND they're getting better. At the moment, the single best measure of biological age, if you insist on having one, is actually still, uh, you know, sophisticated analysis of these functional measures that I just mentioned. Um, THERE'S a clock that's, um, there's a measure of biological age that's been recently developed by a group in Singapore that I think is, you know, pretty clearly outperforming everything else right now."
+	},
+	{
+		"start_time": "06:37",
+		"speaker": "Ricardo Lopes",
+		"words": "Tell us about this concept of longevity escape velocity. What is that?"
+	},
+	{
+		"start_time": "06:44",
+		"speaker": "Aubrey de Grey",
+		"words": "OK, so that's a term that I coined about 20 odd years ago now, and it's quite simple. The way in which we are going to bring aging under medical control is going to be through damage repair, not through slowing down the rate at which damage, um. Is generated and also not through making the body capable of withstanding more damage. Rather, it's by removing damage every so often so that even though it's being generated in the at the natural rate, it never reaches the amount that the body is unable to tolerate. And in that in that scenario, um, you know, you are basically turning back the clock, you're effectively reversing aging every so often. So if we have a uh a a portfolio, a panel of interventions of medicines that repair a lot of the different types of damage in the body, then we can keep someone healthy for longer and alive for longer. However, What we have to consider is the fact that some types of damage are a lot easier to repair than others. And the particularly difficult ones will still be accumulating until we get ways to repair them, even if we can repair the other ones. So, um, essentially what I have put forward is that once we have a panel of interventions that is fairly comprehensive, that can give us perhaps 20 additional years of extra life, then we will functionally be done. We will have essentially done all we need to do, because in those 20 years, we will be able to develop. Repair strategies for some of the really difficult damage so that we can give the same people another 20 years, and so on. So basically I defined this term longevity escape velocity as the minimum rate at which scientists will have to improve these interventions, the comprehensiveness of them, in order to stay one step ahead of the problem, such that people who are receiving state of the art medicines at any time will not get biologically older."
+	},
+	{
+		"start_time": "09:06",
+		"speaker": "Ricardo Lopes",
+		"words": "Tell us now about the 7 different types of damage behind aging, including cell loss and cell atrophy, division, obsessed cells, death resistant cells, mitochondrial mutations, intracellular waste products, extracellular waste products. And extracellular matrix stiffening. Tell us about each of them."
+	},
+	{
+		"start_time": "09:30",
+		"speaker": "Aubrey de Grey",
+		"words": "So these are the seven categories of damage that I put forward again more than 20 years ago now, and I'm very pleased to say that this classification has stood the test of time. There has not been any bad new discovery in the past 25 years that. Has required me to add an 8th category, but I do want to emphasize that within each category, there are lots of examples. So, cell loss, for example, you know, it's simply when cells die and they are not automatically replaced by the division of other cells, right now. Um, You know, uh, that's a pretty straightforward concept, but of course it happens in different places in the body, and the cells that are affected are different types of cells. So in Parkinson's disease, for example, you have, it's driven by the loss of a particular type of neuron called a dopaminergic neuron, which is in a particular small part of the brain called the substantia nigra. Um, BUT it also happens in the thymus, which is, uh, a place that's responsible for a very important part of the immune system. It also happens in the heart where you have these things called pacemaker cells that are gradually lost. Um, AND each of these cell types are different, so you need to develop different treatments to repair this damage, to restore the number of cells. But in all cases, you should be able to use stem cell therapy for that. Now that we have things like. INDUCED pluripotent stem cells and so on, we have the capacity to generate pretty much any type of cell that we might like and inject it into the right place so that it will divide and transform into replacements for the cells that the body is not replacing on its own. So that's all great, uh, but of course these cell therapies have a lot of diff have some differences in detail, however, they do have a lot in common. All stem cell therapies have a lot in common as well. So that's why the classification is useful. Even though there are lots and lots and lots of different types of damage, they can be grouped into this manageable number of categories for each of which there is a generic repair approach."
+	},
+	{
+		"start_time": "11:47",
+		"speaker": "Ricardo Lopes",
+		"words": "What about uh telomeres and telomerase? Is it a problem or is there anything we can do about it?"
+	},
+	{
+		"start_time": "11:55",
+		"speaker": "Aubrey de Grey",
+		"words": "So the popular um uh rendition of the role of telomeres and telomerase in aging has always been quite problematic. When people first discovered that telomeres get shorter with cell division, there was a huge like hype about the idea that this might be the driver of aging, that cell division could only go on for a finite amount of time, but that was. Overlooking the fact that most of the cells in our body, either they don't divide at all, or if they do, it's very, very rare, they divide like, you know, once a year if you're lucky, kind of thing. And um that means that it's OK for the telomeres to get shorter. They don't get into a state where they are too short for anything to for for the cell to operate correctly. Um, AND furthermore. There was quite rapidly a discovery. I mean, we knew that this thing must exist, but it was discovered, um, of this enzyme telomerase that compensates for the telomere shortening that happens during cell division. And sure enough, it turns out that the cells that do divide quite a lot during life actually make some of this enzyme, and therefore they don't have this problem of the telomeres getting short, getting too short for the cell to survive. Now, there may be some exceptions to what I just said. There may be some cases in the body where shortening of telomeres actually does contribute to dysfunction. In the immune system especially, there is some evidence for that. But generally it seems not to be a big player in aging. Whereas the opposite thing really is. So of course there's one type of of one category of my seven categories, which is called division obsessed cells, that's more or less synonymous with cancer. And cancer is a bad thing, obviously. So we'd like the cells in a cancer not to be able to divide indefinitely. We'd like them to kill themselves through telomere shortening if possible. And I put forward an idea in, I think 2002, uh, for how we might do that. It was a very, very ambitious and you know, some would say far-fetched idea, and a lot of people said it could never work and certainly right now it doesn't work, but what's fantastic is that in the meantime people have developed a kind of improved version of my idea. In which um you can just use a small drug, a simple molecule that achieves the same thing. It essentially takes cell, if it gets into a cell that is making a lot of telomerase, which is 90% of all cancers, then the the cell will kill itself very quickly. So, um, the, the idea of controlling telomere elongation is very much alive and kicking and a very important part of how we're going to bring aging under control."
+	},
+	{
+		"start_time": "15:02",
+		"speaker": "Ricardo Lopes",
+		"words": "And how can aging be combat combated actually and tell us specifically also about sense or engineered negligible senescence."
+	},
+	{
+		"start_time": "15:13",
+		"speaker": "Aubrey de Grey",
+		"words": "Right, so, um, as I've been saying, there are these various types of damage that accumulate. And if we can repair these various types of damage in various ways, stem cell therapy to repair loss of cells or you know this drug I just mentioned to get rid of cancer cells, or other drugs called synolytics which get rid of zombie cells that are death resistant, as I call them, and so on. If we can do all these things, then we will be combating aging. We will be turning a biologically old person into a biologically young person, and we can do that as often as we like. As I mentioned earlier when you asked about longevity escape velocity, the problem will get harder over time because of the particularly difficult types of damage that we can't yet repair, but if we are rapid enough in improving our ability to do this or that type of damage repair, then that's OK. So that will essentially be the medical control of aging and you know that's why I coined the term sense, strategies for engineered negligible senescence. Senescence is the word that biologists use when they want to talk, you know, rigorously about aging because they want to talk about the bad, the bad aspects of getting old. Negligible senescence therefore means, um, you know, uh, essentially bringing the rate of aging down so low that you can't detect it. And that term was coined actually negligible senescence uh at least 10 years before I came along. Um, TO describe the natural phenomenon where some species appear not to age in the wild. Um, AND then of course engineered negligible escence means taking an organism like human beings that does age and turning it into an organism that doesn't using medicine."
+	},
+	{
+		"start_time": "17:07",
+		"speaker": "Ricardo Lopes",
+		"words": "And what would exactly be the goals of combating aging? What goals do you have in mind?"
+	},
+	{
+		"start_time": "17:13",
+		"speaker": "Aubrey de Grey",
+		"words": "It's perfectly simple. I don't want to get sick. I don't want anyone else to get sick. You know, people often focus on the radical life extension aspect, but that's, that's incorrect. I don't think about length of life very much. I just think about, I don't wanna get sick. I don't, I don't suppose you want to get sick. And it just so happens that a side effect of staying healthy is you stay alive with high probability. Most people die from being sick these days. And of course, most people get sick from having been born a long time ago."
+	},
+	{
+		"start_time": "17:47",
+		"speaker": "Ricardo Lopes",
+		"words": "And what kinds of technologies and medical approaches do we already have at our disposal to combat aging?"
+	},
+	{
+		"start_time": "17:57",
+		"speaker": "Aubrey de Grey",
+		"words": "Basically nothing, but it's close. So at the moment, of course, there's a huge industry selling, you know, supplements and other kinds of devices that theoretically postpone aging, but everybody knows that even if they work, they only work a little bit, and of course different things work for different people. So I wouldn't call them really anti-aging medicine in the way that we would like to have. However, A number of the damage repair approaches that I um have described over these years are now in clinical trials, so they're pretty close to being available. There are clinical trials for stem the stem cell therapies against Parkinson's, for example. There are clinical trials of this drug. Mention that kills off 90% of cancers. There are clinical trials for synolytics, the drugs that kill off senescent cells. It's moving very rapidly in the right direction now. So I think within only a few years we're going to see these things widely available, and the benefits to health will be very large indeed."
+	},
+	{
+		"start_time": "19:03",
+		"speaker": "Ricardo Lopes",
+		"words": "So I would like to ask you now about two different kinds of drugs. The first one, I don't know exactly about its current status, but at least a few years ago people were talking about it a lot. What do you make of metformin?"
+	},
+	{
+		"start_time": "19:19",
+		"speaker": "Aubrey de Grey",
+		"words": "OK, so metformin is a very old drug that was um originally developed to treat diabetes and. Maybe 10 or 15 years ago, people started to think about whether it might have a much more general effect on aging overall. And there was some evidence that suggested that it did. People have actually since then they have questioned whether that evidence is quite as persuasive as it was originally thought to be, but there's still pretty good evidence that metformin may very well have general anti-aging effects. So first of all, we would like to understand how, you know, what does it do, and we kind of understand that metformin gets in the way of what's called the electron transport chain in mitochondria, so it basically slows down the rate at which cells can make ATP, the energy currency of the cell. That Is something that's very similar to what happens if you're in a famine, if you, you know, like, are not eating as much as you would like. You obviously, the way that um mitochondria make ATP is by taking energy from nutrients, and if you're not eating enough, then you'd have got fewer nutrients. Now. Over the years, oh well, over the millennia, um, evolution has developed ways to, um, respond to famine, because of course famines happen in the real world. And it turns out that it's evolutionarily beneficial to reprioritize one's, what, what one, what, what the body is doing in a famine relative to when food is abundant. Essentially it comes down to when food is abundant, it makes sense to grow really fast and reproduce really fast so that you can reproduce and pass on your genes before you get eaten or whatever, um. But in a famine, there's not much point in doing that because if you have offspring, then those offspring will die of starvation before they have their own offspring. So, um, it's best to, you know, hunker down and and conserve energy and so on and, and try to outlive the famine. And of course, maybe you will, maybe you won't, but, but evolution is all about a numbers game, so it still makes sense. All right, so pretty much all animals seem to do this. They respond to famine, and that means they also respond in the exact same way to situations within the cell that resemble famine. So metformin is one of those things. It's what's called, what's called a calorie restriction mimetic. And some of the other most, um, you know, high profile drugs that are believed to have general effects on aging. Are also calorie restriction mimetics. Generally they work by different mechanisms. For example, there's a very famous drug called rapamycin, which works by slowing down the synthesis of proteins. Um, YOU know, essentially anything that gets in the way of what the cell likes to do with energy, either extracting it and making ATP or using the ATP in this or that way, you know, it's tic one way or another, um. So the question then is, you know, is this the holy grail, and unfortunately the answer is no. Long-lived species do not get very much benefit from calorie restriction, from, from eating too little, um, and therefore they also don't get very much benefit from these calorie restriction mimetics. The reason for this is very straightforward. It's simply that in nature, long famines don't happen very often. They happen less often than short famines, and that means there is less evolutionary selective pressure. To develop and maintain machinery to do this, you know, reprioritization I was talking about."
+	},
+	{
+		"start_time": "23:14",
+		"speaker": "Ricardo Lopes",
+		"words": "How about rapamycin?"
+	},
+	{
+		"start_time": "23:17",
+		"speaker": "Aubrey de Grey",
+		"words": "Well, right, I was just mentioning that for precisely for that reason. Same deal. Everything I just said about metformin, the exact same thing applies to rapamycin."
+	},
+	{
+		"start_time": "23:25",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. OK. Uh, TELL us about methylation clocks. What are they and can we use them to find anti-aging treatments?"
+	},
+	{
+		"start_time": "23:36",
+		"speaker": "Aubrey de Grey",
+		"words": "Right, so I mentioned the um Types of types of clocks that there are right now, right? There are clocks, there, there are measures of biological age based on function, and there are measures of biological age based on omics. So the epigenetic clocks are a a subset of the omic clocks. They are in fact the biggest subset. There are also transcriptomic clocks and proteomic clocks and such like. But yeah, I mean, these are quite fashionable right now because they are new and they have improved a lot over the past decade. Um, ESSENTIALLY what they do is they look at changes to the, to, to particular molecular modifications that cells make to their DNA, um, and that these modifications sometimes change with age. They see, you know, um, so you can look at, you know, a lot of people of a given age and you can say, well, OK, what is the methylation state of these people, and you can look at a higher age and you can see whether there are differences in the methylation state on average across a population of a given age. And then, of course, you can, you can ask for any other person. You can say, well, OK, what is their actual age and what. Is their methylation age, in other words, what is the age that is typical of someone who who has that methylation state? And that's their biological age by methylation. These things are still not very accurate, but they're getting better."
+	},
+	{
+		"start_time": "25:08",
+		"speaker": "Ricardo Lopes",
+		"words": "How close would you say is biomedical technology to significantly postponing aging?"
+	},
+	{
+		"start_time": "25:16",
+		"speaker": "Aubrey de Grey",
+		"words": "Well, the, um, current prediction that I make is that we have a 50% chance of reaching longevity escape velocity before the end of, before 2040. So in other words, in 12 to 15 years towards the end of the 2030s. Um, NOW, of course. As I mentioned, some of the technologies that are going to be relevant to this are already in clinical trials and therefore they will be around and available quite a lot sooner. And it's possible that that will be enough to get us to longevity escape velocity. But I, I, I, I'm more cautious than that. I think that some of the things that we're going to need to give us that initial 20 years of postponement of aging are among the difficult things that are not in clinical trials yet and probably won't be in clinical trials for several more years."
+	},
+	{
+		"start_time": "26:13",
+		"speaker": "Ricardo Lopes",
+		"words": "Do you think it would be possible to postpone aging indefinitely, and would it be possible to not die?"
+	},
+	{
+		"start_time": "26:25",
+		"speaker": "Aubrey de Grey",
+		"words": "So first of all, yes, I think we can postpone aging indefinitely, but the way we will do it is by this longevity escape velocity thing. First, we will postpone it by 20 years and then during those 20 years, we will figure out how to postpone it another 20 years and so on. If you think about the mathematics of that, it gets progressively easier to get the next 20 years than it was for the previous 20 years. So, I'm completely certain that once we get those 1st 20 years, we will never slip below longevity escape velocity again. We will definitely proceed easily, rapidly enough to um to to keep one step ahead of the problem. So in other words, we will not actually have at any point the actual technology that completely eliminates aging, but we won't need to have it. The actual impact on us will be equivalent to what it would be if we did have that. Um, AS regards death, um, you know, I, one of the things that I constantly complain about is that the media are very fond of saying death when they mean aging. And the reason that's a huge problem is because everybody knows that. We can't prevent death with technology, you know, there are just too many ways to um to die that have nothing to do with how long ago you were born. Whether it's being hit by a truck or the planet being hit by an asteroid or whatever. And so You know, basically what That confusion of words creates is a kind of subliminal belief that aging is the same, that aging can also not be defeated by technology, which is incorrect, it's untrue, but it kind of makes people feel comfortable. It helps them to put it, put aging out of their minds. So I'm quite sure that journalists do this on purpose, that they say death when they mean aging just to get readership. And it's very damaging."
+	},
+	{
+		"start_time": "28:28",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, that's also the reason why I separated the question into two different questions, because I wanted you to address aging and death separately here. Do you think that most doctors apply this framework or this approach you have to aging to their practice in any way?"
+	},
+	{
+		"start_time": "28:49",
+		"speaker": "Aubrey de Grey",
+		"words": "Oh, certainly not, not yet. And that's because doctors are only able to do things that already exist. They are only able to give people medicines that have already been approved. Now, as I mentioned, none of this is approved yet. Some of these things are close. They're in clinical trials and so they may be approved in the next few years and then absolutely that's going to happen. But I do not blame doctors for focusing only on what they can currently do, because that's a that's a big job. Um, YOU know, if they try to spend their time trying to anticipate things that they can't yet do because they haven't been developed yet or haven't been approved yet, then, you know, that would make them less effective. So that's fine."
+	},
+	{
+		"start_time": "29:37",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me ask you now just a couple of questions about the possible implications that solving aging could have for women physiologically. Would women still have menopause if we solved aging?"
+	},
+	{
+		"start_time": "29:54",
+		"speaker": "Aubrey de Grey",
+		"words": "Not if they don't want to. So the ovary is just another organ. It can be regenerated and rejuvenated just like any other. And in fact, people are already making good progress in this, in creating ways to regenerate follicles and regenerate ocytes. Normally the egg cells in a woman's ovary are all created before the woman had even been born. But there's no inherent reason why that should be the case. We may be able to regenerate an ovary and give it more follicles and more oocytes in situ. Another possibility is to is to grow an ovary outside of the body and then transplant it surgically. Um, AND these are, these things are already being explored. Now, of course, the question is, do you want that as a woman? Uh, AND some, some women are looking forward to menopause. They don't enjoy, you know, having periods. Um, BUT of course, there's also no reason why one would not be able to turn it on and off and have all the, you know, benefits without the, um, side effects."
+	},
+	{
+		"start_time": "31:06",
+		"speaker": "Ricardo Lopes",
+		"words": "And do you think that if women did not have menopause anymore, it would influence birth rates?"
+	},
+	{
+		"start_time": "31:13",
+		"speaker": "Aubrey de Grey",
+		"words": "Yes, but not in the way that you're probably thinking. They Um, The world we have seen, you know, has each society goes through this thing called the demographic transition where women reach a certain level of prosperity and education and emancipation, and they have choices and they suddenly have far fewer children than they than they used to. Mhm. And that's interesting, but the thing is, they also have those children later. Only a bit later because, of course, we have menopause right now, so if you want children at all, then there's a deadline. But the point is they have them a bit later. Why? Of course, different women have different reasons, but, you know, just the other things they want to do with their lives before they do this terribly time consuming thing, right? Um, SO if they didn't have the deadline, if they didn't have menopause, then it stands, it, it seems very likely that most women who are postponing having kids a little bit will just postpone having kids a lot instead, you know, by another decade and another decade because they can. And therefore, what I actually think is likely is that. The number of Um, babies that are born in any given calendar year worldwide, um, would actually go down as a result of the opportunity to have more, which is quite counterintuitive, but I'm pretty sure of it."
+	},
+	{
+		"start_time": "32:48",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, that's a very interesting take on this issue because another question that I have here is, wouldn't solving aging lead to massive overpopulation, because I mean people would be living much, much longer. So"
+	},
+	{
+		"start_time": "33:05",
+		"speaker": "Aubrey de Grey",
+		"words": "right, so if you I mean, so if you look at what people are projecting now, they, uh, the United Nations, for example, they say that world population will come to a maximum in like the 2060 or 2070 or something like that. But of course that only, that's only true if people continue to die. And the UN has not taken my kinds of predictions into account yet. So, um. We would certainly expect that there will be almost no death, because, you know, we will not have death from aging and we'll probably also get quite a lot better at not having death from road accidents and so on either, right? Um, SO hardly any death, and there will be some birth. I mean, we don't know whether having kids will go out of fashion, but the chances are it probably won't. So, um, we'll have more, more kids. But then we have to actually do the arithmetic. We have to quantify this and say, OK, even taking a pessimistic scenario where. What I said about menopause just now does not happen and women carry on having, let's say 1 kid every 10 years on average, something like that, then, um, you know, what's going to happen? Turns out that it's gonna take a really, really long time before we have an overpopulation problem. At the moment, we have 8 billion people on the planet, but we also have well over 8 billion acres of land, even if you don't include land that's unpleasant to live in, right? So that means every single person on the planet could have their own acre as of today, and we still wouldn't have to live anywhere unpleasant. Now. Um, Of course, people say, OK, we've got an overpopulation problem today, you know, and it's true, we do, but it's not because there's not enough space. It's because. People are making too much pollution, you know, pumping too much carbon into the atmosphere or, you know, plastics that, that build up in the oceans, things like that. And hello, uh, you know, people forget that we're actually also, at the same time as we're developing technology to control aging, we're also developing technology to, Address those problems, you know, capturing carbon from the atmosphere and, you know, developing bacteria that eat plastics, things like that. And that no. Excuse me, those technologies are going to be completely happening way before we have any kind of demographic impact on the pop on the world arising from bringing aging under control, way before. So the whole idea of overpopulation is definitely, you know, described wrongly. We will have a diminishing overpopulation problem over the next century, whatever happens to aging, and it will be. At least a few centuries before we actually get A genuine problem of not having enough space, um, even in a pessimistic scenario with regard to fertility rates, and it's a very bad idea to try to predict or to try to, you know, to make decisions about what we should do today on the basis of what we think might happen a few 100 years in the future."
+	},
+	{
+		"start_time": "36:25",
+		"speaker": "Ricardo Lopes",
+		"words": "I understand. What about, and this is more of an economics question I guess, but one that I would imagine many people would worry about. What about retirement? Do you think that people would be forced to work much longer and would people really want to work longer?"
+	},
+	{
+		"start_time": "36:44",
+		"speaker": "Aubrey de Grey",
+		"words": "So this is another case where people look at a post-aging world and they forget that it's going to be a different world in other ways as well. So just in the same way that we will have technology that that maintains that removes carbon from the atmosphere or whatever, similarly, We will have automation. Automation is coming really fast. You know, again, let's talk about the United Nations. Pretty conservative organization, but they say clearly that by 2050, most of the jobs that people currently have won't exist. And of course when that happened the last time, a couple of 100 years ago in the industrial revolution, We maintained the economy of essentially full employment because the jobs that went away in manufacturing and in agriculture. Were replaced by this new thing called the service industry. That's not gonna happen this time around, uh, you know, how many people do you need in the entertainment industry, right? It's not gonna happen. So, that means that the economy will be redesigned around ideas like universal basic income to mean that. You, the, the retirement age will not have to go up. In fact, it will do the opposite, it will come down. You know, hardly anybody will end up working because we just won't need very many people. It will be more, we'll have more prosperity as a result of having machines do all the things that we have to do today. Now, of course, there are plenty of other changes to society that will happen in, in relation to that. In particular, you know, we have to, we have to think about, um, Self-esteem, you know, why do people value themselves? At the moment, a lot of people get their value in life from the work that they do, from the fact that they receive a paycheck and they know that they are benefiting humanity even though they don't see, they don't actually interact with the people they are benefiting. So we may see a shift into a more um natural society where people get most of their self-esteem and self-worth from actual direct personal interactions with people rather than this rather second class indirect interaction."
+	},
+	{
+		"start_time": "39:01",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I have just one last question. What do you think of the anti-aging industry as it is currently? I mean, with all the Things that we see online and elsewhere of people making claims about nutrition, about supplements, and so on. I mean, with the things that we have access to right now when it comes to aging, what do you think about it?"
+	},
+	{
+		"start_time": "39:32",
+		"speaker": "Aubrey de Grey",
+		"words": "Yeah, so, I mean, the anti-aging industry has of course existed since the dawn of time. You know, uh, people have been trying to sell stuff that doesn't work in order to, you know, on the basis that it will make people live longer, and it, it's, you know, it's, it's existed since forever. In fact, when I started to get going in my career, um, and started to give public speech, talks and so on, it was very useful that I look the way I do because nobody can look at me and think that I could possibly be in this for personal financial gain. Um, YOU know, it, it, I, so I was able to distance myself from all of that, which was important because of course I was making very eye-catching predictions about how much we would be able to keep people healthy, um. But now things are rather different because side by side with that industry, the anti-aging industry, there is another thing which is normally called the longevity industry, and that consists, that didn't exist at all until 10 years ago. Um, IT consists of companies that are typically quite small still, though some of them have have become quite big now. Um, AND, um, that are developing these new medicines I'm talking about that are much more powerful and effective than anything that's existed in the past. And a lot of money is going into those companies, and rightly so, and those are the people that are spearheaded. These clinical trials that we're talking about and the um other work that have not yet got to clinical trials, but we'll do so soon. So I think that's a very important distinction to make. The longevity industry is not snake oil at all. It is definitely focusing on the real problem and the real solutions."
+	},
+	{
+		"start_time": "41:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. Great. So just before we go, Doctor De Grey, would you like to tell people where they can find your work on the internet?"
+	},
+	{
+		"start_time": "41:23",
+		"speaker": "Aubrey de Grey",
+		"words": "Sure, yeah, we haven't talked about my work at all. Um, I, I should emphasize that I don't have a company. I have a nonprofit, a charity based in California. It's called Longevity Escape Velocity Foundation. The website is LEVF.org. I'm sure you will put it in the show notes. And of course there, there's plenty of information about what we do and what we want to do. There's also a nice big friendly donate button because everything we do costs money. And um and of course it, it's easy to get hold of me on LinkedIn or Twitter or whatever. So, um, yeah, I mean, I encourage people to contact me if they want to. And also if anyone wants to support this work, we will be eternally grateful because it's really life saving work. It's the most important work that anyone's doing worldwide. That's our sincere belief."
+	},
+	{
+		"start_time": "42:09",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, I will leave links to that in the description of the interview and thank you so much for taking the time to come on the show. It's been a real pleasure to talk with you."
+	},
+	{
+		"start_time": "42:18",
+		"speaker": "Aubrey de Grey",
+		"words": "Well, likewise, thank you for having me."
+	},
+	{
+		"start_time": "42:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights, Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herzognun, Machael Jonathan Labran, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nico Barbaro, Adam Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pancortezus Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophannus, Chris Williamson, Peter Wolozin, David Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Jr. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate von Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Janus Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers is are Webb, Jim Frank Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlomon Negro, Al Nick Cortiz and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]

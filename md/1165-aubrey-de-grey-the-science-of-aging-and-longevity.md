@@ -14,7 +14,9 @@
 		"General Science"
 	],
 	"title": "#1165 Aubrey de Grey: The Science of Aging and Longevity",
-	"youtubeid": "-M_bm8tC_kk"
+	"vtt": "1165.vtt",
+	"youtubeid": "-M_bm8tC_kk",
+	"transcript": "1165.lines.json"
 }
 ---
 RECORDED ON JULY 18th 2025.  
