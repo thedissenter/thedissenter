@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1166 Alexander Rosenberg: Why Economic Theory Can't Get Any Better...Why We Need It Anyway",
-	"youtubeid": "tCwAaO6zSrs"
+	"vtt": "1166.vtt",
+	"youtubeid": "tCwAaO6zSrs",
+	"transcript": "1166.lines.json"
 }
 ---
 RECORDED ON OCTOBER 6th 2025.  

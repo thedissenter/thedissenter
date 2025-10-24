@@ -1,0 +1,227 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello everyone. Welcome to a new episode of The Dissenter. I'm your host, as always, Ricardo Lobs, and today I'm here with the return guest, Doctor Alexander Rosenberg, and we're talking about his latest book, Blunt Instrument, Why Economic Theory Can't Get Any Better, Why We Need It Anyway, and that is the nice book cover. So Doctor"
+	},
+	{
+		"start_time": "00:23",
+		"speaker": "Alexander Rosenberg",
+		"words": "Rosen instrument, you can see it on the cover."
+	},
+	{
+		"start_time": "00:26",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, it certainly is so, Doctor Rosenberg, thank you so much for coming again on the show. It's always a pleasure to talk with you."
+	},
+	{
+		"start_time": "00:34",
+		"speaker": "Alexander Rosenberg",
+		"words": "And with you, Ricardo."
+	},
+	{
+		"start_time": "00:36",
+		"speaker": "Ricardo Lopes",
+		"words": "So I mean, let me first ask you, why do you think we need to know about economic theory?"
+	},
+	{
+		"start_time": "00:44",
+		"speaker": "Alexander Rosenberg",
+		"words": "So it's not that we need to know about economic theory in general it's that. The people who consume economic theory professionally, um, policy planners, legislators, um, uh, those who are involved with the public institutions of our society need to understand the, Uh, the way in which these institutions interact with individual rational egoists, uh, uh, those among us who are always looking out for number one, ready to cut corners, take shortcuts, take risks, and otherwise game the system. There are a few people in society that do this continually and at um uh a considerable cost to the rest of society. There are some people in our society who never do this, and most of us do it some of the time. So, um uh it's at least one portion of economic theory that is absolutely indispensable to designing social institutions in such a way as to save our civilization. And that's the part of economic theory called game theory, the most badly named. Um, Uh, DISCIPLINE in the social sciences because it's not about games, it's about strategic interaction, and everybody always is engaged in strategic interaction with other people."
+	},
+	{
+		"start_time": "02:21",
+		"speaker": "Ricardo Lopes",
+		"words": "So we're going to talk about game theory later, but I mean, I've heard people discussing this many times, but is economics a science?"
+	},
+	{
+		"start_time": "02:35",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, uh, insofar as it, uh, aims to explain and predict human behavior, um, it at least, um, endorses the demands made on sciences, um. Uh, WITH regard to their methods and their, uh, approach, but unfortunately, as we've seen over the last 250 years, economics is very bad at predicting, and therefore we have no idea whether any of its explanations do anything more than simply reduce human feelings of curiosity. Um, AND for those two reasons, it's hard to identify economics as an empirical science, despite the Nobel Prize that the Swedish central bank has erected in order to give it the prestige associated with the other sciences, and certainly also despite the relatively sophisticated appearance of mathematics that it um bears by comparison to the other social sciences. So, the short answer is, in my opinion, it's not a science. It's a tool that we use for coping with one another's behavior, and it's a pretty blunt tool, one that has been unimprovable in at least 150 years since it took its current form in the work of the marginalist economists among whom John Stuart Mill was the most important."
+	},
+	{
+		"start_time": "04:06",
+		"speaker": "Ricardo Lopes",
+		"words": "And that's the title of the book, right?"
+	},
+	{
+		"start_time": "04:11",
+		"speaker": "Alexander Rosenberg",
+		"words": "Yes, well, it's a blunt instrument, and it hasn't gotten any better and it can't get any better."
+	},
+	{
+		"start_time": "04:17",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, and explain why, because this is something you talk about in your book, why economics is a theory drive theory driven, sorry, and not data-driven, and is that a problem or"
+	},
+	{
+		"start_time": "04:32",
+		"speaker": "Alexander Rosenberg",
+		"words": "not? Well, it's theory driven because the economist, uh, pursues a research program that involves, um, uh, elaborating on. Uh, uh, RATIONAL choice theory and its implications in, uh, particular initial boundary conditions, um, and the method of choice is the thought experiment. There are relatively few cases where the economic theorist is actually confronting, Ah, data and the revising theory in the light of data. I need to say, um, when I use the word economist here, I'm being, ah, a little loose. I'm talking about economic theory. There are many important, uh, components of economics, subdisciplines of economics that are entirely empirical in their character, um, and their. Some of the greatest work by economic economists in the last several decades has involved empirical work. So for example, the Nobel Prize was given to 2 economists, 3 economists about 3 years ago for, Contriving natural experiments, brilliant natural experiments that shed tremendous light on the inadequacies of conventional economic theory, for example, the claims about the impact of of minimum wage laws on supply and demand of labor. So what I'm talking about is, as the subtitle says, economic theory, not economics as a whole, macroecon um excuse me, econometrics, um. Uh, uh, uh, ECONOMIC statistics, um, these are important areas of research which shed real light on phenomena. It's economic theory. Particularly economic models of the sort we learn in 1st and 2nd courses in microeconomics, and now in macroeconomics, since there's no such thing really as macroeconomics, it's just more micro that I want to say is a blunt and unimprovable instrument."
+	},
+	{
+		"start_time": "06:47",
+		"speaker": "Ricardo Lopes",
+		"words": "Let me ask you now about the idea of homo economicus. I mean, just to be really straightforward here, I've talked with several economists on the show already about this idea and uh I don't remember any of them telling me that it still makes any sense. I remember, for example, an interview that I did back in 2019 with the late great Doctor Herbert Ginttis and he did with His collaborators several experiments across different cultures and societies, and he told me that he didn't find homo economicus anywhere. So, uh, do you think that this idea can make sense in any way? And if not, why doesn't economics give it up?"
+	},
+	{
+		"start_time": "07:38",
+		"speaker": "Alexander Rosenberg",
+		"words": "So Ginters and a number of other important cognitive social psychologists have given us excellent evidence in cross-cultural experiments, generally using game theory, interestingly enough, or setting up experiments using the guideline of game theory that have demonstrated that we do not behave in the way that the rational choice theory models suggest humans behave, and that's probably a very good thing in the long run for all of us, um. Uh. The question therefore is why does economic theory continue to employ rational choice theory that is homo economicus, and of course the reason is that it's required in order for the econo economic theorists to build the proof of the Pareto optimum. Of a general equilibrium in competitive exchange, the first theorem of welfare economics, has nothing to do with welfare, it has to do with, um, maximizing human preferences, tells us that the perfectly competitive market is always one that reaches a general equilibrium that is parade. Optimum, and that is a guide that is used by economic theorists in prescribing and advising on the way in which the real economy, real markets should be revised in order to more closely approach perfectly competitive ones, since those are the ones for whom, for which we have the proof of Pareto optimality. To get this proof, they need rational choice theory, and that's why rational choice theory continues to be central to all of economic theory, and the imperviousness of economic theory to behavioral economics over the past 30 years since people like Kahnman and Tversky began to, To expand its uh uh uh illumination on actual human behavior and since Richard Thaler began to try to find some way in which it might penetrate economics, the imperviousness of economic theory to behavioral economics is another reflection of the indispensability. To their aim of. Keeping this theorem as the watchword of institution design, um, of rational choice theory, homo economicus."
+	},
+	{
+		"start_time": "09:57",
+		"speaker": "Ricardo Lopes",
+		"words": "Why isn't macroeconomic theory sensitive to even the biggest economic upheavals? I mean, we've gone through so many economic upheavals. Why is it that macroeconomic theory seems to not be sensitive to that?"
+	},
+	{
+		"start_time": "10:16",
+		"speaker": "Alexander Rosenberg",
+		"words": "So it was, uh, or at least it aimed to be during the period after its invention in the 1930s by, uh, Frisch and Tinbergen, on the mathematical side and Keynes conceptually. And over the period until the 1970s it devoted itself to understanding the actual character of the business cycle and the causes of recessions and depressions as well as runaway inflations. But then it became a cropper on the stagflation of the 1970s, and economists, interestingly enough, instead of responding to the, Crisis that arose for macroeconomics by trying to improve on the theory and figure out how revisions might enable it more adequately to cope with um stagflation, they simply turned their backs on it and returned to classical microeconomics. And ah imposed the demand on macro theory that it assume, assume that markets cleared and that agents are rational, and by doing that, it hollowed out the entire of Keynesian economics, and converted macroeconomics into, To just another version of microeconomics. And if you look at contemporary models like ah dynamic, stochastic general equilibrium theories, you'll see they start with the rational economic agent, homo economicus."
+	},
+	{
+		"start_time": "11:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, I mean, in the book you argue that standard economic theory cannot explain the labor market nor the financial market. Can you tell us about that? I mean, can you explain that point you make"
+	},
+	{
+		"start_time": "12:08",
+		"speaker": "Alexander Rosenberg",
+		"words": "in the book? Interestingly enough, these are the two most important markets for working stiffs like you and me. A working stiff as a person who earns their money and saves for their retirement, um, and these two markets are the most important for us because the labor market is the only market in on which we are all, almost all of us sellers and not buyers. Every other market we are buyers and deal with, uh, imperfect competition, uh, monopoly of various kinds. On the labor market, we are all sellers and deal with monopsony and, um, various, um, versions of monopsony. Ah, as such, um, the employer is always in a position to rent seek because there are a small number of employers and a large number of employees, and the employers are easily able to solve their collective action problem of setting up, um, uh, uh, Wage rates and conditions of labor that we can't bargain to, uh, a um, a competitive price-taking equilibrium for. We are inevitably subject to exploitation by, um, the wage setters, by the employers, simply because there's a small number of them who can solve their collective action problems to rent seek and a large number of us who cannot solve our collective action problems to rent seek. Interestingly, the financial market. Ah, reflects some of the same market failures, um, and is of equal importance because the financial market is the most important market. For the growth of the economy as a whole. All of us working stiffs are, uh, investors. We are the people who provide our postponable consumption, our savings, um, to financial institutions. There are huge numbers of us providing savings to financial institutions in order to secure, um, ah, ah retirement, um, support. There are a relatively smaller number of large corporations that need to borrow this money in order to um uh build capital goods, whether it's highways or airplanes or condos, um, and between the large numbers of sellers of loanable funds, us, who can't solve our collective action problems, and the relatively smaller number of, Ah, lent a borrowers, the large corporations that need quantities of money while they build things that won't be online for years after they start building them, between, A small number of sellers of, of uh loanable funds and the and the slightly larger number of buyers and the and the relatively small number of buyers of loanable funds, there's the middlemen, the financial institutions, the bankers, the uh mutual funds, the insurance companies, the venture capitalists, the investment banks, and they of course are the smallest in number, and they, Most easily solve their collective action problems in setting up, um, um, institutions that enable them to cream off the top, uh, on both sides of the transaction, both, um, Uh, uh, rent seeking in the ways in which they accept loanable funds from us little guys, and rent seeking in the way that they lend the large packages that they put together to the big guys who need the big loans. And so these two markets are the ones that fail the most and most pressingly, and yet they're the two most important markets for most of us."
+	},
+	{
+		"start_time": "16:00",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so earlier you referenced the fact that economic theory seems to be very bad at uh predicting events at prediction generally. Uh, WHY is it then that economics still takes uh it so seriously?"
+	},
+	{
+		"start_time": "16:21",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, As I said uh before, the, the part of the economics that's really important. Is game theory, and game theory is all of the economic theory that we need in order to deal with those cases of market failure in which rent seekers find an opportunity to rip the rest of us off. And since the perfectly competitive market, on the one hand, is the only completely incentive compatible market, the perfectly competitive market, because everybody's a price. TAKER can never um allow for the kind of rip-off rent seeking that I'm talking about, but it doesn't exist in reality, and therefore every market is in fact, to some extent either small, in the case of the gas stations in your neighborhood or large in the case of the financial institutions that you lend your money to engaged in rent seeking. And everybody's disadvantage and what governments and, er, voters need to do is identify, Revisions, reforms, changes to the institutions that regulate the market in order to make them more incentive compatible. Now, doing that is always an arms race because every time we rearrange rules to make the market um more incentive compatible, to harness people's selfish. To produce uh uh welfare producing ends, um, some smart lawyer or accountant figures a new way around it. So if you look at the history of financial regulations from Glass-Steagall to to Frank Dodds, you'll see that every time we try to close the barn door, somebody's figured out how to get the horse to escape, um, ah. The function, the, the, the need for economic theory, in particular for, for game theory is to figure out how to improve institutions in this never ending arms race, um, and there are some wonderful examples um of how to do that. Alvin Roth, the great economist who won the Nobel Prize for his design of kidney transplant, um, uh, networks and uh uh. Medical school, hospital matching systems, um, he made a significant, ah, contribution to human welfare by showing us how economic theory, in particular game theory can be used to, ah, fashion, to craft these kinds of incentive, incentive compatible institutions that classical economic theory, um, has no grip on because it, uh, uh, Is driven by the perfectly competitive model."
+	},
+	{
+		"start_time": "19:16",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I don't think this is something that at least you address directly in your book, but since I've had this conversation with uh economists on the show, and on the show I've had people, economists who are more, who lean more toward uh capitalism, others that are more soci that are perhaps a little bit more on the socialist. Of things like Dr. Richard Wolff and others. But in late, in late 2022, I had a very interesting conversation on the show with an economist, Clara Mattei. She's from the New School for Social Research, and she wrote a very interesting book titled The Capital Order where she explores the history of the. Of Italian fascism and links it to austerity measures, that is liberal measures in response to the uh the Great Depression in the late 1920s, early 1930s, and one of the things, one of the points that she makes in the book, and I also allowed her space to make in that interview is that. She and other people think that we should be aware of the fact, at least this is her point, that, uh, economics is not ideology-free, and she thinks it is, uh, of course, that's her position that it is uh dominated by uh capitalist or as some Marxist. LIKE to call it nowadays neoliberal capitalist, uh, position. I mean by a neoliberal capitalist, uh, approach to economics. I mean, do, do, uh, I'm, I'm not sure if you agree with that specific point, but with the broader point that economics is not ideology-free. What do you make of it?"
+	},
+	{
+		"start_time": "21:11",
+		"speaker": "Alexander Rosenberg",
+		"words": "Um. I'm frequently heard to say that economic, that that capitalism is the worst of all economic systems except for all the others. Um AND uh there's nothing like the 20th century to show the problems associated with state central planning and uh other institutional arrangements for driving a large, um, urban, uh, technologically driven economy. um. So I'm not a particular fan of state socialism, er, and I think by, by and large nowadays no socialist is. I have never heard a socialist since uh the eclipse of Clement Attlee's government argue for the ownership of the means of production as the solution to the problem of um er er er plenty, um. We know what the problems associated with the ownership of the means of production by the state are, and what we need, of course, is the social market, a very strong social safety net operating under a market as close to competitive as possible, but unfortunately we can't get very close to competitive, and that means we need a lot of regulation. Um, NOW, ah, Is the economic theory that we can put our hands on ideologically driven, um, I think a lot of economists who have advanced our understanding of decentralized incentive compatible institutional arrangements are very far from ideologues of right-wing Chicago school capitalism, and I think most prominently of Kenneth Arrow, who did more to advance the agenda of economic theory in the 20th century than any other economist, um. And by economic theory, I, I mean microeconomic theory, and was very far from being a, a shill for the capitalist system. Um, HE was strongly committed to, for example, taking healthcare out of the market economy, um. And I think you can take the tools of economic theory that are useful, um, limited though they are, and apply them in the design of institutions of the sort that will address the interests and needs of people that the socialist thinks are ignored by capitalism, um, and I'm not sure that this is a really adequate answer to your question, um. Is rational choice theory a matter of ideology? No, I think it's a matter of using uh the assumption that society is composed of Hobbes' fool and, and, ah, Hume's knave, and ah so designing institutions as to protect us from them, and that's not particularly ideological."
+	},
+	{
+		"start_time": "24:22",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So, uh, but given its track record, do you think that we should treat the theory that drives economic explanations as a guide to the future?"
+	},
+	{
+		"start_time": "24:35",
+		"speaker": "Alexander Rosenberg",
+		"words": "We can't. It's been a terrible guide to the past, and so it's track record deprives of it, of any standing as a guide to the future, um. The only, uh, I think a reasonable source of material to guide us in the future is economic data and our sort of by the seat of the pants extrapolation from it, from time to time, um, and the more data is available and the more artificial intelligence there is for mining that data, the better we will be at, Uh, extrapolating to the future from the past, but that extrapolation needs to be heavily theory-free. In my opinion, ah, otherwise it will simply replicate the defects of past explanations, and I said when we began, the important thing to see is, although economic theory looks like in many cases, ah, that it satisfies our itch of curiosity in retrospect when it explains past events, whether the financial crisis, or the dot-com bubble, um, or, um, Ah, the impact of COVID on the supply chain, um, economic theory, ah, because it doesn't have a strong record of predictive improvement, ah, has no basis for claiming that any of its retrospective explanations are any good at all at doing anything except reducing our itch of curiosity. And itch, which is, of course, um based on the fact that we think of ourselves as rational, look out for number one, maximizer."
+	},
+	{
+		"start_time": "26:17",
+		"speaker": "Ricardo Lopes",
+		"words": "So let's talk then more about game theory. You've already mentioned it, but how do we get then to game theory and what is game theory?"
+	},
+	{
+		"start_time": "26:28",
+		"speaker": "Alexander Rosenberg",
+		"words": "So as I said before, game theory, the worst name for a serious enterprise, uh. That I can think of is the study of strategic interactions, that is, it's the analysis of how agents choose under the condition that they know or believe that other agents will be making strategic choices and that the outcome of their choice is contingent, at least in part on the choices that other agents make. So for example, The monopolist can set prices wherever the monopolist wants to, but the monopolist won't maximize revenue unless he can figure out what the highest price is that the consumer is willing to pay, and if the consumers can solve their collective action problem. Withholding purchase, they can have an impact on how much the monopolist, um, will be willing to charge, and so in the simplest case of, you know, monopoly or monopsony, ah, microeconomic theory almost never, Uh, expresses the fact that the demand curve that both parties need to, uh, identify the shape of in order to figure out what price they should actually charge or what price they can reasonably be expected to hold out for, that demand curve can never be determined. You have never seen a real demand curve in an economics textbook, you only see nice downward sloping lines, and that reflects the fact that in a price setting situation, Both parties have to engage in experimentation to figure out what the best price they can charge or what the highest price they will be um uh able to accept, turns out to be. And this kind of strategic interaction problem between agents in a market is characteristic of all exchanges, and game theory provides us with the only tools, Uh, for identifying the optimal strategies in these exchanges, so in the labor market, the optimal strategy for, um, um, Employers is to establish a coalition of employers that depresses wages, and the optimal strategy for workers is to join unions and demand wages on the basis of of union negotiation. And if the employers can lobby state legislatures to pass a right to work laws that give non-union workers exactly the same advantage as union workers in in the workplace, then they will effectively have used the tools of game theory in order to destroy the collective action problem solution that has been characteristic of labor over the last 150 years."
+	},
+	{
+		"start_time": "29:31",
+		"speaker": "Ricardo Lopes",
+		"words": "And so in your view, you think that game theory when compared to uh the dominant standard economic theory, it uh can explain, predict and correct real markets better?"
+	},
+	{
+		"start_time": "29:48",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, I'm not sure that it can predict because of the arms race uh issue that uh every move on the part of one strategic agent in a uh strategic interaction will often result in changes in the moves of other agents, and so you're in a dynamic situation that is constantly moving along an arms race trajectory. And that makes prediction difficult, but at least it makes medium-term and short-term responses, ah, sensitive to the actual situation and likely to at least in the short run, secure the objectives of the participants. Now, retrospectively, I think game theory is wonderful at explaining things. There's a wonderful paper by a uh a cultural anthropologist named Mackey in which he uses game theory to explain foot binding in China over 1000 years. And that explanation has tremendous, uh, um, uh, insight, far greater than cultural anthropology, social history, um, or Freudian psychodynamic, uh, explanations of foot binding. Um, BUT I think, you know, prediction is a mug's game when it comes to the interaction of relatively small numbers of people over lengthy periods of time. It's, Much more feasible with large quantities of economic data and uh search engines that enable us to identify trends."
+	},
+	{
+		"start_time": "31:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Isn't that Chinese foot binding something that you explore in your book, how history gets things wrong? I mean, I, I think I remember talking with you about that in our first interview."
+	},
+	{
+		"start_time": "31:36",
+		"speaker": "Alexander Rosenberg",
+		"words": "That's right, and I, and it was, it was thinking about that when we, uh, when I wrote that book that eventually got me started on writing this book, um, yeah, about economic theory, that and the fact that I've been. Talking about economic theory for a very long time in the last century, but the economists always ignored what I had to say, so I stopped and started doing philosophy of biology, um, but ever since the financial crisis, people have become much more interested in what the matter is with economics."
+	},
+	{
+		"start_time": "32:08",
+		"speaker": "Ricardo Lopes",
+		"words": "So if economic theory has all of these uh shortcomings, why can't we do without it?"
+	},
+	{
+		"start_time": "32:18",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, We can do without. Um, Microeconomic theory as a tool for explaining and predicting uh aggregate behavior, which means effectively we have to do without what contemporary economists call macroeconomics because it's just disguised microeconomics. Um, WHAT we can't do without. Of course, is the assumption of homo economicus, rational choice theory, in conditions of market failure where both parties to the market exchange have a strategic interaction problem to solve, because the only tools we have for understanding. Ah, strategic interaction problems and designing, ah, playing fields so that they become anywhere close to level in the interaction between the strategic agents is given by game theory, and by extensions of game theory. So here's a wonderful example, um, ah, An economist won the Nobel Prize for showing that in auctions it's much more efficient to arrange the auctions so that the winner, the, the buyer who bids the highest price, only has to pay the price offered by the 2nd highest bidder. Now that is such a counterintuitive idea, and yet the game theory. Can show you why setting an auction up to do that as federal bandwidth auctions for telephone bandwidth in the 20 or 30 years ago did. Only a game theorist can show you why doing that makes the seller of the auctioned item better off than setting up a uh uh highest bidder wins auction. It's counterintuitive, but it's, it's, it's wonderful."
+	},
+	{
+		"start_time": "34:11",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, and related to my previous question in the book, at a certain point, you say that the quote, what we really need economic theory for is institution design. Can you explain that?"
+	},
+	{
+		"start_time": "34:25",
+		"speaker": "Alexander Rosenberg",
+		"words": "Sure. So, uh, I think it was the Nobel Prize winning economist Leonid Hurwich, who introduced the concept of incentive compatibility. Um, AND institution design in his own work in economics at the University of Minnesota in the 1950s, and he had to reach the age of 90 before finally he got the Nobel Prize for this work, but, um, uh. Mechanism design is the label economists give to the problem of designing the rules of exchange and of competition that will harness people's selfish interests to deliver the socially desired outcome. Um, AND, ah, the socially desired outcome is one which can only be attained by harnessing people's incentive to be selfish and self-interested. And to misrepresent their preferences and their expectations. So what we need to do is design laws and rules and practices that force people in their actual behavior to reveal their actual preferences and their actual beliefs. That's what incentive compatible institution design is, and it has been an important, um, and insightful dimension of economics ever since Hurwich first drew economists' attention to this problem, and of course Arrow was one of those who early saw the importance of Hurwich's insight and together with him advanced our uh sensitivity to these problems."
+	},
+	{
+		"start_time": "36:04",
+		"speaker": "Ricardo Lopes",
+		"words": "But what kinds of institutions do we need to construct?"
+	},
+	{
+		"start_time": "36:09",
+		"speaker": "Alexander Rosenberg",
+		"words": "All right, so, uh, I mentioned Alvin Roth, a while ago. Here's a great example. Pretty famous now. Hospitals in the 1940s and 1950s used to want to get the best medical students they could, and medical students wanted to get, Their first internships at the best hospitals they could, but each hospital being so concerned about getting the best, and each medical student being so concerned about getting the best, would make time-limited offers of positions and have to decide on the, the hospital would make time-limited offers, and the medical student would have to decide whether to. Accept this offer or wait for the offer they really want that's better, OK, and as a result, both hospitals and medical students, ah, ended up making significantly suboptimal choices, ah, and these suboptimal choices were bad for the hospital and bad for the medical students. So, ah, ah, using, ah, a theorem in game theory, ah raw. And McKelvey and I can't remember the name of the third economist, uh, designed the match system in which, um, the hospital ranks its favorite candidates, uh, uh, the, uh, medical students rank their favorite hospitals wherever, uh, 11 medical student in one hospital. Find that they've rated one another #1, that pair is put aside, nobody says anything to anybody, and both the hospital and the hospitals go to looking for their second choice, and if somebody has ranked the hospital as their first, having removed the number 1 candidate, we now go to the 2 candidate and we do exactly the same thing. And then we go all the way down to all the candidates and all the hospitals before anybody is told anything, and at the end of that process, the matches are revealed, and they maximize the chances of each medical student getting their most preferred hospital and each hospital getting their most preferred medical student. And the result, of course, is an incentive compatible outcome that benefits everyone. And um what's interesting is the hospitals had started and medical schools had started to do this in the 19 late 1940s in a limited way, and then the game theorists. Showed them that if they all could adopt this scheme, all of the hospitals and all of the medical schools in advising their interns, everybody would end up better off. It's a beautiful example of designing an incentive compatible institution. It was then applied to matching kids with schools in Boston and New York, um, during a time in which there was huge strife regarding the school choice problem er in a large metropolitan school districts. Uh, Roth eventually applied a similar device to enabling kidney transplants to be more efficiently offered to individuals before they died from kidney failure."
+	},
+	{
+		"start_time": "39:24",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I think you've already at least partly answered my next question, but what functions do these institutions serve then or should serve?"
+	},
+	{
+		"start_time": "39:35",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, we know, for example, that the Sherman Antitrust and the Clayton Antitrust Acts served the purpose of reducing the market power of monopolists and increasing the efficiency of markets. They didn't work very well, they were probably better than nothing. They provided incentives to manufacturers. And um sellers and their lawyers and accountants to find ways of getting around them, but, um, insofar as all markets are to some extent inefficient, all markets reveal some amount of market failure, all markets would do well to be improved, and the only way, the only tools for improving these markets are the tools of game theory."
+	},
+	{
+		"start_time": "40:26",
+		"speaker": "Ricardo Lopes",
+		"words": "And is it possible for us to design institutions that prevent perverse incentives?"
+	},
+	{
+		"start_time": "40:34",
+		"speaker": "Alexander Rosenberg",
+		"words": "Well, there's one institution in which perverse incentives can never take hold, and that is the perfectly competitive market. Unfortunately, I mean, on the perfectly competitive market, everybody's a price taker, there's no room for stratagems, there's no room. For price setting, there's no room for strategic choice. Unfortunately, the perfectly competitive market is an idealization which exists only when 5 or 6 different completely unrealistic assumptions obtained. All we can do is try to move real markets closer to the perfectly competitive market in the hope that by doing so we reduce the scope for rent seeking and ah ah for market failure, um. Will we ever succeed? No, because as I said before, every design that brings us closer to the perfectly competitive market where everyone is a price taker and there's no room for rip off rent seeking, every move in that direction simply um. Uh, INCENTIVIZES somebody to try to find a way around it, a shortcut, or even to violate the rule, accepting the risk associated with the punishment, and if the punishment isn't high enough, then inevitably you'll get that kind of, um, uh, rule breaking, cheating. Uh, WHAT do we do about that? Well, um, We have to make systems more efficient in their detection and in their punishment of rule violation. How likely is that in the real world? Well, with lobbyists and regulatory capture, probably not very likely."
+	},
+	{
+		"start_time": "42:27",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I have one final question then. I mean, uh, I haven't uh written down this question in preparation for the interview, but since I asked you earlier about whether or not you think that economic theory is ideology-driven, I would like to ask you now. Because I think that this can tell us also something about uh how economic theory can be used and whether or not it should be, uh, let's say neutral in ideological terms. So, uh, Uh, I mean, I, I get that, uh, many people, political activists, particularly both, uh, capitalist, socialists, right-wing, left wing, many times they appeal to economics and economic theory to make arguments in favor of their preferred policies. I mean, do you, uh, you are a philosopher. I guess that uh and many of the things we talked about here today would fall under the rubric, the rubric of epistemology because we are interested in, in here in trying to understand what is, uh, true or what is not true and how we can arrive at truth, through economics, uh, uh, about, um, proof about people's economic. Behavior through economics, I mean, do you think that from an epistemological perspective it is legitimate for people to use economic theory for political lens?"
+	},
+	{
+		"start_time": "44:08",
+		"speaker": "Alexander Rosenberg",
+		"words": "All right, so I need to go back to to our discussion of ideology. Um, WE have to separate the motivation, uh, for someone endorsing us, uh, a set of beliefs from the. Truth or falsity or applicability, predictive, explanatory or otherwise of this set of beliefs. It's very clear that there's an ideological motivation for endorsing uh uh conventional microeconomic theory because it looks like an excellent rational justification of laissez-faire capitalism and for that reason it is widely endorsed by. Uh, CAPITALISTS by the rich, by those who benefit from, uh, the status quo, and from the description of the status quo as the competitive market, um, That needs to be separated from whether the theory as such is true or false, useful or not, and what are the domains in which it is useful or not. Now it seems to me that the theory is false because people aren't rational, uh, max uh rational preference maximizer, but, uh, can a false theory be nevertheless, Important and applicable and a useful tool um for areas of human interest independent of the scientific, for example, can it be a useful tool in designing institutions, even though it's false of reality? Well, the answer to that question is sure, it can be um. And maybe it should be, um, particularly if it's assumptions about human individual motivation are at least right about some people whose behavior can have an unfortunate impact on the rest of us. Right, um, free riders, psychopaths, er, uh, really selfish people, the, uh, the, those people who pretend to be entrepreneurs, but actually have never spent any time at the laboratory research bench inventing. Something really new and we will leave the name of who I'm thinking of, uh, out of our discussion, uh, for the moment, you know, uh, investing in PayPal at an early point in your life is not a basis on which to accord you special, uh, entrepreneurial genius, but in any case, um, uh. The ideological motivation for indoctrinating everybody with standard off the shelf microeconomic theory is very great. But we can prescind from that ideological motivation in asking whether there's any value to this er institution economic theory at all, and a lot of very smart people who have no particular ideological ax to grind have spent their lives and labored their genius on this subject, right, er, and it can't be, er. Worthless hand waving or uh uh merely ideological mystification, it's gotta be good for something, and that's what I tried to figure out, uh, what it's good for in this book, having spent my entire career um. Being skeptical about economic theory, uh, I finally found the. Uh, WHAT I think is a stable equilibrium in thinking about its weaknesses and at the same time, its usefulness."
+	},
+	{
+		"start_time": "47:48",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So I'm getting uh mindful of your time, Doctor Rosenberg. So let's perhaps uh wrap up our conversation here. The book is again Blunt Instrument, Why Economic Theory Can't Get Any Better, Why We Need It Anyway, and there is the cover again. I really love the book, by the way, Doctor Rosenberg, and thank you so much for taking the time to come on the show again. It's always a really big pleasure to everyone."
+	},
+	{
+		"start_time": "48:16",
+		"speaker": "Alexander Rosenberg",
+		"words": "So, let's do this again in 4 years when I dream up my next book. Thanks a lot, Ricardo. That was great."
+	},
+	{
+		"start_time": "48:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights, Learning and Development done differently. Check their website at lights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herzognun, Machael Jonathan Labran, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltonin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pancortezus Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophannus, Chris Williamson, Peter Wolozin, David Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Gelbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers is are Webb, Jim Frank Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlomon Negro, Al Nick Cortiz and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]
