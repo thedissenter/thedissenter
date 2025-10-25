@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1167 Allen Buchanan - Ideology and Revolution: Hierarchy, Resistance, Revolution, and Morality",
-	"youtubeid": "rctGmZw5f6A"
+	"vtt": "1167.vtt",
+	"youtubeid": "rctGmZw5f6A",
+	"transcript": "1167.lines.json"
 }
 ---
 RECORDED ON OCTOBER 8th 2025.  
