@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1168 Jeff McMahan: The Ethics of Political Violence: Can It Be Justified?",
-	"youtubeid": "xCgL_5xitko"
+	"vtt": "1168.vtt",
+	"youtubeid": "xCgL_5xitko",
+	"transcript": "1168.lines.json"
 }
 ---
 RECORDED ON OCTOBER 20th 2025.  
