@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/105947609/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-24%2F3f1cf018-1995-0bd5-743e-7426fe4d018d.m4a",
 	"draft": false,
 	"episodeid": "1169",
 	"excerpt": "Dr. Gabriel Zamosc-Regueros is Associate Professor of Philosophy in the College of Liberal Arts and Science at the University of Colorado, Denver. His areas of expertise include ethics, Nietzsche, 19th-20th century continental philosophy, and philosophy of Action.",
 	"image": "https://i.ytimg.com/vi/CHy4ePtQ9GQ/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1169-gabriel-zamosc-regueros-nietzsches-ideals-sovereignty/id1451347236?i=1000734269995&uo=4",
 	"publishDate": 2025-10-30,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1169-Gabriel-Zamosc-Regueros---Nietzsches-Ideals-Sovereignty--Wholeness--and-Becoming-What-One-Is-e35vp0p",
 	"tags": [
 		"Philosophy"
 	],
