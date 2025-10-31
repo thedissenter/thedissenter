@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1169 Gabriel Zamosc-Regueros - Nietzsche's Ideals: Sovereignty, Wholeness, and Becoming What One Is",
-	"youtubeid": "CHy4ePtQ9GQ"
+	"vtt": "1169.vtt",
+	"youtubeid": "CHy4ePtQ9GQ",
+	"transcript": "1169.lines.json"
 }
 ---
 RECORDED ON JULY 24th 2025.  

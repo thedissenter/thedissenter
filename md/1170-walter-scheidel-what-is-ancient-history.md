@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/105592885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F5548a846-0900-77cb-a5dd-b86c21d22728.m4a",
 	"draft": false,
 	"episodeid": "1170",
 	"excerpt": "Dr. Walter Scheidel is Dickason Professor in the Humanities and Professor of History at Stanford University. Dr. Scheidel's research ranges from ancient social and economic history and premodern historical demography to the comparative and transdisciplinary world history of inequality, state formation, and human welfare. He is particularly interested in connecting the humanities, the social sciences, and the life sciences. He is the author of several books, the most recent one being What Is Ancient History?",
 	"image": "https://i.ytimg.com/vi/cv0c2yuXQB0/maxresdefault.jpg",
 	"publishDate": 2025-10-31,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1170-Walter-Scheidel-What-Is-Ancient-History-e35kujl",
 	"tags": [
 		"History"
 	],
