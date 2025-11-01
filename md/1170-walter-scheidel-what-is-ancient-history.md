@@ -11,7 +11,9 @@
 		"History"
 	],
 	"title": "#1170 Walter Scheidel: What Is Ancient History?",
-	"youtubeid": "cv0c2yuXQB0"
+	"vtt": "1170.vtt",
+	"youtubeid": "cv0c2yuXQB0",
+	"transcript": "1170.lines.json"
 }
 ---
 RECORDED ON JULY 16th 2025.  
