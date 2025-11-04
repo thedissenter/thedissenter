@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/110438039/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-30%2Fd0f16567-c5fa-d2b5-966b-e11ccb1c1ed6.m4a",
 	"draft": false,
 	"episodeid": "1171",
 	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
 	"image": "https://i.ytimg.com/vi/p6NtS5AQtVQ/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1171-ana-drago-oportunidade-ou-maldi%C3%A7%C3%A3o-a-ind%C3%BAstria/id1451347236?i=1000735089505&uo=4",
 	"publishDate": 2025-11-03,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1171-Ana-Drago---Oportunidade-ou-Maldio-A-indstria-do-turismo-em-Portugal-e3a8q6n",
 	"tags": [
 		"Entrevistas em Português",
 		"Economics"
