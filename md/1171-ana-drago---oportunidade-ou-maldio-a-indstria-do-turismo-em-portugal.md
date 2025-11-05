@@ -13,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1171 Ana Drago - Oportunidade ou Maldição: A indústria do turismo em Portugal",
-	"youtubeid": "p6NtS5AQtVQ"
+	"vtt": "1171.vtt",
+	"youtubeid": "p6NtS5AQtVQ",
+	"transcript": "1171.lines.json"
 }
 ---
 RECORDED ON OCTOBER 30th 2025.  
