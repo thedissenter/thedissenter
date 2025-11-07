@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/110498861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-31%2F2cf341ad-8dae-8808-b17a-e12282a37556.m4a",
 	"draft": false,
 	"episodeid": "1172",
 	"excerpt": "Dr. Omer Bartov is Dean’s Professor of Holocaust and Genocide Studies at Brown University. Dr. Bartov's early research concerned the Nazi indoctrination of the Wehrmacht and the crimes it committed in World War II, analyzed in his books, The Eastern Front, 1941-1945, and Hitler's Army. He then turned to the links between total war and genocide, discussed in his books Murder in Our Midst, Mirrors of Destruction, and Germany's War and the Holocaust.",
 	"image": "https://i.ytimg.com/vi/Z4hJ4kF86HI/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1172-omer-bartov-is-was-there-a-genocide-in-gaza/id1451347236?i=1000735607366&uo=4",
 	"publishDate": 2025-11-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1172-Omer-Bartov-IsWas-There-a-Genocide-in-Gaza-e3aaljd",
 	"tags": [
 		"Politics"
 	],
