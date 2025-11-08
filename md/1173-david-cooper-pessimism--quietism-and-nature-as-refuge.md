@@ -5,13 +5,16 @@
 	"episodeid": "1173",
 	"excerpt": "Dr. David Cooper is Emeritus Professor of Philosophy at Durham University. He has published across a broad range of philosophical subjects, including philosophy of language, philosophy of education, ethics, aesthetics, environmental philosophy, animal ethics, philosophy of technology, philosophy of religion, history of both Western philosophy and Asian philosophy, and modern European philosophy, especially Heidegger, Nietzsche, and Wittgenstein. He is the author of several books, the most recent one being Pessimism, Quietism and Nature as Refuge.",
 	"image": "https://i.ytimg.com/vi/eSOYoYVmWLM/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1173-david-cooper-pessimism-quietism-and-nature-as-refuge/id1451347236?i=1000735772237&uo=4",
 	"publishDate": 2025-11-07,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1173-David-Cooper-Pessimism--Quietism-and-Nature-as-Refuge-e36ieb0",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1173 David Cooper: Pessimism, Quietism and Nature as Refuge",
-	"youtubeid": "eSOYoYVmWLM"
+	"vtt": "1173.vtt",
+	"youtubeid": "eSOYoYVmWLM",
+	"transcript": "1173.lines.json"
 }
 ---
 RECORDED ON AUGUST 7th 2025.  
