@@ -11,7 +11,9 @@
 		"Philosophy"
 	],
 	"title": "#1174 David Bather Woods - Arthur Schopenhauer: Philosophy's Greatest Pessimist",
-	"youtubeid": "wBfNN4jSumo"
+	"vtt": "1174.vtt",
+	"youtubeid": "wBfNN4jSumo",
+	"transcript": "1174.lines.json"
 }
 ---
 RECORDED ON AUGUST 21st 2025.  
