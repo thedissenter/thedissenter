@@ -5,6 +5,7 @@
 	"episodeid": "1174",
 	"excerpt": "Dr. David Bather Woods is an Associate Professor in the Department of Philosophy at the University of Warwick. His research focuses on the 19th century German philosopher Arthur Schopenhauer, especially his philosophical pessimism and his moral and political philosophy. His new book is Arthur Schopenhauer: The Life and Thought of Philosophy's Greatest Pessimist.",
 	"image": "https://i.ytimg.com/vi/wBfNN4jSumo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1174-david-bather-woods-arthur-schopenhauer-philosophys/id1451347236?i=1000736149606&uo=4",
 	"publishDate": 2025-11-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1174-David-Bather-Woods---Arthur-Schopenhauer-Philosophys-Greatest-Pessimist-e374me1",
 	"tags": [
