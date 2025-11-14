@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1175 Jakob Norberg: Schopenhauer's Politics",
-	"youtubeid": "em44svBAWvs"
+	"vtt": "1175.vtt",
+	"youtubeid": "em44svBAWvs",
+	"transcript": "1175.lines.json"
 }
 ---
 RECORDED ON OCTOBER 22nd 2025.  
