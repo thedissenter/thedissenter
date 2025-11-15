@@ -5,13 +5,16 @@
 	"episodeid": "1176",
 	"excerpt": "Dr. Justin Lehmiller is a Research Fellow at The Kinsey Institute and an internationally recognized sex educator. He conducts research on sexual fantasies, casual sex, and sexual health and has published a sexuality textbook that is used in college classrooms around the world. In addition, he runs a popular blog, Sex and Psychology, and has been published in Playboy, VICE, USA Today, Politico, Men's Health, and New York Magazine. He is the author of Tell Me What You Want: The Science of Sexual Desire and How It Can Help You Improve Your Sex Life.",
 	"image": "https://i.ytimg.com/vi/RVjSMnwqs6M/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1176-justin-lehmiller-the-science-of-desire-and/id1451347236?i=1000736787695&uo=4",
 	"publishDate": 2025-11-14,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1176-Justin-Lehmiller-The-Science-of-Desire--and-The-Most-Common-Sexual-Fantasies-e3a0jkc",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1176 Justin Lehmiller: The Science of Desire, and The Most Common Sexual Fantasies",
-	"youtubeid": "RVjSMnwqs6M"
+	"vtt": "1176.vtt",
+	"youtubeid": "RVjSMnwqs6M",
+	"transcript": "1176.lines.json"
 }
 ---
 RECORDED ON OCTOBER 24th 2025.  
