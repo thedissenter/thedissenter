@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1177 Mark Alfano: Nietzsche on Virtue",
-	"youtubeid": "U3zQE0-vcxI"
+	"vtt": "1177.vtt",
+	"youtubeid": "U3zQE0-vcxI",
+	"transcript": "1177.lines.json"
 }
 ---
 RECORDED ON JULY 29th 2025.  

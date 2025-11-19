@@ -1,0 +1,207 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of The Dissenter. I'm your host, as always, Ricardo Lops, and today I'm joined by a return guest, Doctor Mark Alfano. He's professor of philosophy at Macquarie University, and today we're talking about his book, Nietzsche on Virtue. So, Doctor Alfano, welcome back to the show. It's always a pleasure to everyone. Thank"
+	},
+	{
+		"start_time": "00:23",
+		"speaker": "Mark Alfano",
+		"words": "you so much, Ricardo. It's really nice to be back."
+	},
+	{
+		"start_time": "00:26",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so, start by telling us about the premise of the book and the kinds of goals you add with it and also the methodology you apply there because you apply a kind of digital humanities methodology, right? So tell us all about that."
+	},
+	{
+		"start_time": "00:47",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, um, so the The thing that's disappointed me in the Nietzsche literature for, for years is that people tend to kind of like cherry pick just a few passages when they want to interpret what he has to say about different topics in moral psychology, virtue ethics, virtue epistemology, and, and other areas. Um, SO I, I wanted to do something more systematic. Um, SO, I basically got my computer to read everything that he ever published, and to look for what he talked about when he talked about virtue. So it's a it's called a co-location analysis, so like in the same paragraph or the same sentence, what else is going on when Nietzsche talks about virtue, um. And um this kind of led me to conclude that Nietzsche is a kind of virtue theorist, even if um a lot of people think that he's a nihilist or he doesn't have any kind of positive ethics or epistemology. Um, AND in particular that he's interested in virtues like curiosity, intellectual courage, having a sense of humor, um, what he calls solitude or einssukeit, um, which is this disposition to sort of criticize your own in-group and not take for granted what you're raised with, um, and, uh, Obviously, the computer can't do all the reading for you. So, I, I went and close read all the passages as well. Um, BUT this revealed to me that there was a lot that was missing from the existing literature. Um, SO, that's what I tried to, to do in this book was to sort of show people like, well, here's the stuff that we, we haven't been talking about. Um, AND it's actually quite interesting. I mean, N Nietzsche is a strange Figure in many ways, you know, I, I don't think that he's right about everything. I don't think he's right about most things, actually. Uh, BUT when he is insightful, then he's often very insightful. Um, AND about these things, like sense of humor, uh, intellectual courage, curiosity, solitude, I think he's very insightful."
+	},
+	{
+		"start_time": "03:14",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, but what are virtues according to Nietzsche, and we're going to also break it down a little bit as we go through the questions, but what are virtues?"
+	},
+	{
+		"start_time": "03:26",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, so, so he's interesting in this regard, because um, In virtue theory nowadays, and probably historically, uh, going back at least to Aristotle, um, virtues are thought of as these, um, acquired, um, habits of character. Um, THAT are admirable and praiseworthy, um. And um that they are the, the same for everyone. So, what counts as a virtue for me is also what counts as a virtue for you. It might get expressed somewhat differently, um, depending on our upbringing or acculturation, and so on. Um, BUT like, uh, you know, honesty is just a virtue for everybody. Um. Courage, uh, virtue for everybody, open-mindedness, virtue for everybody. Um, FOR, for Nietzsche, um, things are a little bit more complicated. So, he thinks that, um, virtues are drives, um, and specifically that they're drives that Um, are characteristic of the individual as opposed to universal across all people. Um, AND he thinks some of these drives are instincts, so they're natural, like that, you're born with them, as opposed to something that you might acquire through habituation. Uh, AND some of them are acquired, and, um, when they are sort of firing together in a way that Um, is consistent, then that makes them virtues for that individual. So, whether a particular drive that I have counts as a virtue is not a matter of what is kind of, uh, internal to it, but much more a matter of how it's related to my other drives and how they are functioning. So, there's a kind of, um, harmony that is Required for a drive to count as a virtue. Um, THIS, I think, is, is kind of a unique view. It, it, um, It's not that different from what you see in Menza, um, the Chinese philosopher, um, so he had this idea that there's sprouts of virtue, uh, but he thought everyone had the same sprouts. So what's distinctive about N Nietzsche is he thinks like, It, it, we don't all have the same sprouts, and so what will be a virtue for me might not be a virtue for you. Um, I hope I'm addressing your question,"
+	},
+	{
+		"start_time": "06:13",
+		"speaker": "Ricardo Lopes",
+		"words": "yes, but, but let me just ask you a couple of follow-up questions. So what is exactly the relationship between drives and virtues according to Nietzsche?"
+	},
+	{
+		"start_time": "06:24",
+		"speaker": "Mark Alfano",
+		"words": "So, so for Nietzsche, a drive um is a disposition to um thought, feeling. Action and evaluation, um, and When someone has a drive that counts as a virtue, it's one that leads them to engage in Um, Engage their own agency in a way that is consistent with the other drives that they have. So he's especially concerned about drives where it's like, If I express drive A, then that stymies drive B. Um, SO, um, I end up undermining my own agency. Um, BUT, um, when the drives are sort of operating in tandem with each other in a way that's at least harmonious, um, or sometimes even, um, expressing one amounts to expressing one of the others, then for him that would count as a virtue."
+	},
+	{
+		"start_time": "07:35",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. And what are the types and what different types of people are there?"
+	},
+	{
+		"start_time": "07:43",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, so, um, in, in the book, I argue that N Nietzsche has a, a type specific or a type relativized notion of virtue, and the, the basic idea there is that someone's type is the set of their drives, which could include both instincts and acquired drives. Um, AND different people belong to different types if they have different sets of drives. So like if I have drives A, B, and C, and you have drives B, C, and D, then we have similar types, but not, not identical types. Um, AND if I have drives A, B, and C, and you have X, Y, and Z, then we have completely different types. Um. So, some other philosophers have written about Nietzsche on on types and suggested that he only distinguishes between like higher and lower, as if there were only two. BUT he actually, at one point, he, he talks about, um, an enchanting abundance of types. And so he thinks there's, there's a lot of diversity in human dispositions, and that that is itself worth, um, Investigation and even celebration. Um And he thinks that Because of this diversity of types, there will be many, many different ways to be virtuous, depending on which type someone happens to embody. Um, HE, he, he, he talks about his own type quite a bit. Um, SO that's where things like curiosity, intellectual courage, sense of humor, and so on come into play. But what's interesting is that he thinks that like, if that's not for you, that's fine. Like, you can have your own. Set of virtues, and you are not required. In any sense to embody the same virtues as someone else."
+	},
+	{
+		"start_time": "09:49",
+		"speaker": "Ricardo Lopes",
+		"words": "Right, so tell us perhaps as an example about his own type. I mean, how does he talk about his own type and What are then the virtues that are fitting and conducive to flourishing for Nietzsche's style."
+	},
+	{
+		"start_time": "10:09",
+		"speaker": "Mark Alfano",
+		"words": "Um, SO he, he has this kind of notion of, um, A certain kind of cruel curiosity, which might not sound very nice, um, but, uh, this is connected with his stuff about will to power. So, um, when he talks about will to power, it often is a matter of overcoming resistance, and he thinks that at least for people like him, not necessarily for others, but for people like him, um, Recognizing and fully appreciating what is most um embarrassing and shameful about oneself and one's in-group is very difficult. And in order to overcome that resistance, to overcome that challenge, um, one needs curiosity, so the desire to find things out, to engage in inquiry and recognize that you don't already know what you might think you know, um, as well as intellectual courage, which is a matter of facing up to these challenges, uh, and not, um, shying away from them, um, as well as, uh, sense of humor. So, you might think sense of humor has nothing to do with epistemology. Um, BUT for Nietzsche, it, it's actually Um, deeply related to, um, To epistemology, because having a sense of humor, especially the ability to laugh at oneself. Um, IS a way of overcoming that kind of resistance, because if you're self-protective, if you don't want to, um, acknowledge the things that are bad or shameful or embarrassing about yourself, um, That makes it very difficult to, to acquire self-knowledge, um. But if you're able to laugh at yourself, um, then you can sort of recognize that kind of thing, and um, Acknowledge it and maybe even overcome it in certain cases. Um, AND, and solitude is related to this as well, because Um, sense of humor is more about being able to laugh at me. Um, AND solitude for Nietzsche is being able to laugh at and not take too seriously us as an in-group. Um, AND I think this is actually one of the reasons why he's often very, very critical of the Germans, because, uh, he wants to sort of poke holes and poke fun at. Um, HIS own in-group. Um, SO he's, he's much more critical of, of the Germans than the French or the English or any other group, essentially, uh, because he, he knows that, um, these ties of upbringing and blood and nationality and things like that, um, make it very difficult for people to see what is wrong with their own community."
+	},
+	{
+		"start_time": "13:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So in the book you refer to pro-Christian moralism. So what is that and tell us about how it is life denying."
+	},
+	{
+		"start_time": "13:36",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, so the, the myth of Procrustes comes from ancient Greece. He was this kind of bandit character, um, in, in Greek mythology. He would invite you into his home, uh, and then say like, oh, you can stay here in this bedroom, here's your bed. Um, AND then it would turn out that you were either too tall or too short for the bed. And if you were too tall, he would cut your feet off. And if you were too short, he would um stretch you, and in either case, he would kill you. Um, SO, the, the, the myth of Procrustes has to do with this notion of like, forcing everyone to be the same. Um, HAVING this normative ideal that insists that everybody ought to be alike. Um, AND in a couple of places, Nietzsche talks about Procrustian morality. Um, AND he's been interpreted to, to think that, um, There's just something wrong with morality as such. But the way I interpret him is he's saying, no, the morality is fine, um, it's just that we shouldn't insist that everyone be the same. And we should recognize human diversity and acknowledge that um what counts as being a good person for me might be different from what counts as being a good person for you, which might be different from what counts as being a good person for, you know, my sister, and so on. Um, SO, so this, um, Procrustian thing has to do with types, uh, as, as we discussed a little bit. So, Different people have different types, and to try to force people to all be the same type is the thing that Nietzsche is objecting to."
+	},
+	{
+		"start_time": "15:33",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so earlier we talked about the relationship between drives and virtues. How is the development and evaluation of our drives related to our social relationships?"
+	},
+	{
+		"start_time": "15:48",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, so this is an interesting thing in Nietzsche. So he, um, He has this idea that um the attribution of traits to people, including drives, including Uh, virtues, including also vices, um, often functions to some extent like a self-fulfilling prophecy. So, if you see something in me and you say like, oh, Mark, you're very curious, then I might think, oh well, maybe I am. Um, AND then I, I take that on as part of my self-concept, and I start to act more that way, and then I feel good about doing that, and I end up actually becoming more like that. Um, THE same thing can happen with vices. Uh, SO when we tell someone, you know, uh, that they're a coward, um, that might make them more cowardly. Um, It it, it's not like, uh, magic. It has to do with how people think of themselves, their, um, what they know others to expect from them, um, and how they feel about their own behavior. Um, BUT to some extent, this actually seems to be empirically borne out. So, there are a bunch of studies which I, I cited in a previous book, um, That suggests that actually you get a small effect out of this kind of self-fulfilling prophecy thing, where if a trusted Source tells you that you're a certain way, then you, then you think to yourself like, oh, maybe I am that way, maybe, maybe I should be more that way. Um, AND, and people sort of talk themselves into and talk each other into, um, acquiring traits that they may be halfway possessed, uh, but then come to fully possess."
+	},
+	{
+		"start_time": "17:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Mm, OK. And I mean, when it comes to the different types of people we talked about, how can one understand one's own type? How can we acquire this kind of self-knowledge?"
+	},
+	{
+		"start_time": "18:11",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, it's a really interesting question. Um, INTROSPECTION is pretty bad. Um, SO, I think, um, Just speaking from the empirical literature rather than from Nietzsche here, um, a lot of it has to do with Seeing yourself in the mirror of another person who Empathically and sympathetically engages with you and Either tells you or shows you. What they think you are. Um, THIS is an idea that, um, is pretty similar to what John Doris, um, explores in his book, um, Talking to Ourselves. Um, HE has this idea that we, we sort of negotiate our identity. It's not something that's kind of fixed. It's something that's partially inchoate, and then by Engaging with others and finding out how they interpret us and either accepting or rejecting or negotiating their interpretation, we become the kind of people that we are."
+	},
+	{
+		"start_time": "19:27",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And I mean, what is the role, because you also talked about this, about this in the book, what is the role that shame, curiosity, and intellectual courage play in acquiring this kind of self-knowledge?"
+	},
+	{
+		"start_time": "19:43",
+		"speaker": "Mark Alfano",
+		"words": "So shame in particular is interesting in Nietzsche because um he distinguishes between a current shame, which is like this felt emotion, on the one hand. And um having a sense of shame, on the other hand, um, And the basic idea there is that um if someone has a Sense of shame that will lead them to anticipate. What sorts of things they might do or say or feel that would lead them to feel a current shame. And to avoid those things. Um, SO to be shameless is to not anticipate, um, those thoughts, feelings, actions, behaviors, um, and so on. And This sense of shame, at least for Nietzsche, um, is actually a way for people to see what is Problematic in their own character, and to improve it in advance without having to go through the messy process of Doing wrong or doing badly, and then be uh publicly shamed."
+	},
+	{
+		"start_time": "21:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And what about the role of a sense of humor? What role can it play here in our understanding of our own type?"
+	},
+	{
+		"start_time": "21:17",
+		"speaker": "Mark Alfano",
+		"words": "Um, SO the way I understand N Nietzsche on humor is that, um, It introduces some kind of levity, it introduces a kind of lightness, not taking things seriously, um, and he's especially interested in cases where people are able to laugh at themselves. Um, IF you think about someone who's like incapable of laughing at themselves, you're probably thinking of a bad person, right? So, for, for him, um, having a sense of humor, especially about oneself, is a way of distinguishing between what is fixed in my personality or character on the one hand, and what can be changed, and when the stuff that can be changed is Bad or contemptible or laughable, um, not being so self-serious, uh, that I can't just say like, oh yeah, I'm just, I won't do that anymore. I won't be like that anymore. Um, IT'S when people think that Everything about them is fixed, that it becomes hard to um Hard to change. So, um, Having a sense of humor for Nietzsche is, um, I, I would say is a matter of being able to See what's essential to me and what is not essential to me, and when the non-essential stuff is bad, uh, or contemptible, just throw it away, no big deal."
+	},
+	{
+		"start_time": "22:55",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And what about the role of curiosity and intellectual courage, because I think that I asked you about that earlier, but you only referred to shame, so how about those two?"
+	},
+	{
+		"start_time": "23:08",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, sorry, um. So Curiosity, um, has been, um. Articulated in a lot of ways. So like, you, you can be curious in the sense that you want to try like a new cuisine or listen to new music. Um, THAT'S a kind of experiential curiosity. Um. And of course, Nietzsche recognizes that, um, but when he talks about curiosity, he's primarily interested in curiosity that's related to inquiry. So, hm. ASKING. Questions that are hard to answer. And then going about the work of actually Answering them as best one can. And questions can be hard in lots of different ways, so like, we still don't know whether gold box conjecture is true. Um, THAT'S a really hard question. Um, BUT there are other kinds of questions that are hard to answer for other reasons, um, and, and N Nietzsche seems to be especially interested in questions that are hard to answer because the answers make us uncomfortable. Questions where if we really admitted the truth, we would feel bad about ourselves or our families, or our countries, or our communities more broadly. Um, AND that's a different kind of difficulty from just really hard math. Um, SORRY, you asked about something else as well, which I still didn't address."
+	},
+	{
+		"start_time": "24:50",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, INTELLECTUAL courage and curiosity."
+	},
+	{
+		"start_time": "24:55",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, OK, so, So hopefully I said something intelligible about curiosity, um. Intellectual courage is also interesting for Nietzsche because um He, he thinks that um there's a kind of eppistemic fear that people face when they deal with questions that are related to their identity. So, either their identity as um individuals or their identity as members of a group or community. And um When he praises intellectual courage, he's often talking about The courage that people have when they Face those questions and still try to answer them honestly."
+	},
+	{
+		"start_time": "25:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. And I mean, how should we deal with people who are of different types than us, because I mean if different people are of different types and if different types would correspond for Nietzsche to different sets of virtues, I mean, many times there would be a sort of mismatch there, right."
+	},
+	{
+		"start_time": "26:18",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, so, the, the stuff on um solitude is interesting in this regard. So, one of the things that Nietzsche um finds interesting is the ability for someone to sort of move back and forth between being Sorry, uh, being, um, deeply engaged with the community and taking some distance from it, um. And um, We know from contemporary, um, empirical psychology that in, in general, people are Um, Uh, disposed towards homophily or towards wanting to be With and only with people who are similar to them. Um, SO you might think that like, uh, Nietzsche would expect people to just, um, only engage with their own type. So if I'm this way, then I only talk to, and I only engage with people who are the same way. Um. He doesn't actually say that. Uh, IN fact, he, he thinks that, um, We can learn a lot by engaging with people who have uh a different type. Um, AND there's this, um, This real appreciation, um, in his work going back all the way to the untimely meditations, but you see it also in Daybreak and Beyond Good and Evil, and Gay Science and elsewhere, um, this deep appreciation of human difference, um. And I think the The way that I would spell that out is that um, He thinks that Seeing other types embodied and enacted is a way of opening up possibilities for Oneself So, if I only ever encounter people who are already similar to me, then I'm not going to imagine and envision other ways that I could be. Um, AND It might be um. Tricky, it might be challenging, it might be uncomfortable to encounter people who are very, very different from me, but encountering that full range opens up a space of possibilities that, um, many of which I will not explore, many of which I will not end up embodying myself, but some of which I might. Um, AND so the, the The idea is that um Doing this purely in the abstract is very challenging, um, whereas seeing An individual exemplar of a type, um, shows you like, 00, this is actually a thing that a person might be or do. Uh, AND I think that there's something, uh, kind of magical about that. Mhm."
+	},
+	{
+		"start_time": "29:44",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to solitude in the book, you also talk about how we can do cultural criticism through solitude. So tell us about that."
+	},
+	{
+		"start_time": "29:56",
+		"speaker": "Mark Alfano",
+		"words": "Um, YEAH, so, uh, I think that there is that it's tempting in some cases to think. Um, YOU know, we're one way, people in this other community are a different way, um, and maybe we can look down on them, or they look down on us or something like that. Um, AND there's a kind of lazy relativism that comes with that, um, which suggests, OK, maybe we shouldn't look down on each other. Everybody's just different. Um. When N Nietzsche talks about solitude, he really emphasizes that it's about um taking a critical perspective on one's in-group, and often that is Best or most easily done by adopting. The perspective of people from some other group, people from some other community. So, um, I mean, Nietzsche was also a racist. I, I acknowledge that, um, but in his better moments, um, he tries to adopt the perspective of, uh, Other communities, uh, And use that perspective to turn a critical eye on his own community, especially German speakers."
+	},
+	{
+		"start_time": "31:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, and what is the pathos of the distance?"
+	},
+	{
+		"start_time": "31:29",
+		"speaker": "Mark Alfano",
+		"words": "Uh, PATHOS of distance. Um, IT'S a phrase he uses, if I recall correctly, um, 6 times. So it's, um, it's not something that's super well attested, and any interpretation of it is going to be a bit speculative. Um, BUT, uh, the way I understand it, it's Um, a sense for. Um, Hierarchy. Um, SO distance for, for Nietzsche is, is a kind of vertical distance. Um, AS opposed to kind of a horizontal distance, and someone who embodies this pathos of distance understands sort of where they fall, uh, within some kind of hierarchy. So it might be an intellectual hierarchy, it might be a political hierarchy, um. He, he, he seems to think that people acquire this mostly through, um, economic and political hierarchies, and then they realize that actually those aren't not, those are not the most important hierarchies. So things like, um, Uh, intellectual virtue, uh, form a hierarchy as well, and somebody who has acquired a pathos of distance, perhaps through encountering, um, Social hierarchies, uh, political hierarchies can then turn around and say, wait a second, like, the things that really matter. Rank rank people very differently from the ways that current political or economic hierarchies do. Um, AND, you know, in a way this is not that dissimilar from some of the stuff that Socrates had to say, right? He, he was constantly butting up against the political hierarchies in Athens, um, and sort of insisting that, well, actually, You know, these people who are on top of society don't know what they're talking about. Um, AND so he, he would sort of humiliate them, um, eventually they got him to commit suicide. So, you know, in a way, N Nietzsche is not that dissimilar from Socrates, which is weird because he has a lot of nasty things to say about Socrates. But I think both of them saw. Saw the ranking the in in in their society as Not something to be completely done away with, but something to be kind of overturned."
+	},
+	{
+		"start_time": "34:13",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm So in his work, Nietzsche uses this concept of amorfati. Uh, TELL us about it, what it is and how through it people can stop despising aspects of themselves that cannot be changed."
+	},
+	{
+		"start_time": "34:33",
+		"speaker": "Mark Alfano",
+		"words": "Yeah, OK, so this is um something I, I should have brought up earlier. So, um, Nietzsche thinks that people have instincts that are only changeable to some extent. Um, AND Accepting That things can change, but they can't change too much, is the way I would understand Amorfati. So, love of fate, uh, I guess one is the English translation. Um, THE idea is like, I, OK, so I have this type, these are my drives, they can change, but only within constraints. Um, AND so what I need to do, if I'm going to flourish, is to, um, Love the aspects of myself that I can't change, and allow the other aspects of myself that can change to change, if that will make things better. Um So, it, it's both a a council of um acceptance and a council of recognizing that some things are actually ephemeral."
+	},
+	{
+		"start_time": "35:51",
+		"speaker": "Ricardo Lopes",
+		"words": "Right. So I have one last question then, since we are talking about virtues here, does Nietzsche have a met the ethical position?"
+	},
+	{
+		"start_time": "36:03",
+		"speaker": "Mark Alfano",
+		"words": "Uh, YOU'RE gonna force me to do meta ethics. I always try to avoid meta ethics, uh, but you did warn me in advance that this might happen. Um, It's Nietzsche's meta ethics has been interpreted as basically every possible position under the sun. Um, AND I'm not good at meta ethics, so I'm a little bit, um, reluctant to, to try to answer this question, but I would say if I, if I had to, um, answer it, that He has some kind of naturalist. Perspective, uh, that according to which we should primarily recognize that we're animals and that our flourishing is not so different from the flourishing of dogs and cats and rabbits, and especially other mammals, but even non-human, uh sorry, even non-mammalian. Animals and that we should think of ourselves. In terms of the embodiment that we Uh That we inevitably face. Um, AND so, like the other critters, you know, we need, uh, food and Water and shelter and connection and All these sorts of things. And any kind of meta ethics that points to another world, that points to something that's outside of mammalian embodiment is Um, it is kind of hopeless. So I'm not sure whether he has a, a positive meta ethics, but I think he has at least a negative meta ethics. That says Recognize human um Embodiment and the fact that we are these evolved creatures."
+	},
+	{
+		"start_time": "38:21",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. OK, great. So the book is again Nietzsche on virtue. I'm leaving a link to it in the description of the interview. And Doctor Alfano, would you like to tell people where they can find you and your work on the internet?"
+	},
+	{
+		"start_time": "38:39",
+		"speaker": "Mark Alfano",
+		"words": "Uh, SURE, yeah. Um, I'm at alfano philosophy.com, uh, and people can find my email there if they want to contact me. Uh, AND I'm always happy to chat with people all around the world. So, um, Any questions, any thoughts, uh, don't hesitate."
+	},
+	{
+		"start_time": "39:02",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, I'll be leaving a link to that in the description as well, and thank you so much for taking the time to. It was a pleasure to talk with you."
+	},
+	{
+		"start_time": "39:12",
+		"speaker": "Mark Alfano",
+		"words": "Always nice to see you, Ricardo."
+	},
+	{
+		"start_time": "39:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegeru Inasi Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel Curric, Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Puntervan Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltonin, John Barboza, Julian Price, Edward Hall, Eddin Bronner, Douglas Fry, Franco Bartolatti, Gabriel P Scortez or Suliliski, Scott Zachary Fish, Tim Duffyanny Smith and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophanus, Chris Williamson, Peter Wolozin, David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Jr. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Ebert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers Iar Webb, Jim Frank Lucas Stinnik, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al Nick Cortiz, and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]
