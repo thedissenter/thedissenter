@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1178 Karen Lloyd - Intraterrestrials: Discovering the Strangest Life on Earth",
-	"youtubeid": "jZoj7wfRAg4"
+	"vtt": "1178.vtt",
+	"youtubeid": "jZoj7wfRAg4",
+	"transcript": "1178.lines.json"
 }
 ---
 RECORDED ON AUGUST 14th 2025.  
