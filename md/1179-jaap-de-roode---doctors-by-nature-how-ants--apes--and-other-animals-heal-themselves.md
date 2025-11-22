@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/107066115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-19%2F04efd272-9aee-a1a8-e475-58a7ae828b12.m4a",
 	"draft": false,
 	"episodeid": "1179",
 	"excerpt": "Dr. Jaap de Roode is Samuel C. Dobbs Professor in the Department of Biology at Emory University. He studies the ecology and evolution of parasites and their hosts, and is interested in co-infections of different parasite species, self-medication in hosts, and local coevolution of hosts and parasites. One of his main interests is the evolution of parasite virulence (i.e. parasite-induced reductions of host fitness). He is the author of Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves.",
 	"image": "https://i.ytimg.com/vi/HbgiX5Z2YN4/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1179-jaap-de-roode-doctors-by-nature-how-ants-apes/id1451347236?i=1000737830390&uo=4",
 	"publishDate": 2025-11-21,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1179-Jaap-de-Roode---Doctors-by-Nature-How-Ants--Apes--and-Other-Animals-Heal-Themselves-e371ta3",
 	"tags": [
 		"Biology"
 	],
