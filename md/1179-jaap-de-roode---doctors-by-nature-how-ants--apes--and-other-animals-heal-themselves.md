@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1179 Jaap de Roode - Doctors by Nature: How Ants, Apes, and Other Animals Heal Themselves",
-	"youtubeid": "HbgiX5Z2YN4"
+	"vtt": "1179.vtt",
+	"youtubeid": "HbgiX5Z2YN4",
+	"transcript": "1179.lines.json"
 }
 ---
 RECORDED ON AUGUST 19th 2025.  
