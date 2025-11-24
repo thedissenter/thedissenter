@@ -5,10 +5,13 @@
 	"episodeid": "1180",
 	"excerpt": "Olivia Bentley is a porn star, high end escort, fitness influencer, and she has a master’s degree in education. She is passionate about health, sex and helping others. Having been a teacher, Ms. Bentley likes to learn new things and having substantive conversations. Her own publicity experiences include The New York Post, Charly Arnolt on Fox Sports Outkick, InStyle, The Candace Owens Show, Maxim, & many more articles & podcasts.",
 	"image": "https://i.ytimg.com/vi/Lf667Oc1ej8/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1180-olivia-bentley-the-life-of-a/id1451347236?i=1000738168604&uo=4",
 	"publishDate": 2025-11-24,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1180-Olivia-Bentley-The-Life-of-a-Sex-Worker-and-Misconceptions-About-It-e3b8f9v",
 	"title": "#1180 Olivia Bentley: The Life of a Sex Worker and Misconceptions About It",
-	"youtubeid": "Lf667Oc1ej8"
+	"vtt": "1180.vtt",
+	"youtubeid": "Lf667Oc1ej8",
+	"transcript": "1180.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 20th 2025.  
