@@ -1,0 +1,437 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lobs, and today I'm joined by Doctor Shinobu Kitayama. He is Robert B. Zayun, a collegiate professor of psychology and director of the Culture and Cognition Program at the University of Michigan. His research revolves around cultural differences and similarities in a variety of mental processes such as self-emotion. And cognition. And today we're going to talk about topics like cultural neuroscience, cultural differences in psychological traits, the self, well-being, emotion norms, and other related topics. So, Doctor Kitayama, welcome to the show. It's a pleasure to everyone."
+	},
+	{
+		"start_time": "00:45",
+		"speaker": "Shinobu Kitayama",
+		"words": "Oh, thank you very much for having me."
+	},
+	{
+		"start_time": "00:49",
+		"speaker": "Ricardo Lopes",
+		"words": "So what is cultural neuroscience?"
+	},
+	{
+		"start_time": "00:54",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, uh, cultural neuroscience studies how cultural environment shape the brain and the cognition. It asks how history, ecology, and social practices leave their mark on brain networks that support human cognition and behavior."
+	},
+	{
+		"start_time": "01:16",
+		"speaker": "Ricardo Lopes",
+		"words": "And in what ways does it relate to disciplines like cultural psychology and social neuroscience?"
+	},
+	{
+		"start_time": "01:25",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, those are all related, obviously overlapping, but primarily social psychology looks at social behavior, whereas cultural psychology broadened that perspective by asking how history and ecology shape behavior. Cultural neuroscience does the same for social neuroscience, showing how culture influences the neural processes behind social behavior. It also deepens the cultural psychology by uncovering the brain mechanisms behind cultural effects."
+	},
+	{
+		"start_time": "02:03",
+		"speaker": "Ricardo Lopes",
+		"words": "And what does it mean to say that the functional organization of the human brain has a biosocial nature?"
+	},
+	{
+		"start_time": "02:14",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, it means that the brain is built on an innate template, but also shaped by social experience. Through socialization, neural connections adapt so that the brain becomes not just biological, but deeply social. So that's how the brain can become socio biosocial or socio-biological."
+	},
+	{
+		"start_time": "02:43",
+		"speaker": "Ricardo Lopes",
+		"words": "In your work, you explore how brain processes malleably are malleably shaped by cultural tools and practices. So how does that occur and could you give us some examples of it?"
+	},
+	{
+		"start_time": "02:57",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, typical example we work on, uh, is reinforcement. So behaviors are strengthened by positive feedback. The same goes for brain networks. When the behavior is rewarded in a given cultural context, neural pathways supporting that behavior grow stronger."
+	},
+	{
+		"start_time": "03:23",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, YEAH, but, but, I mean, but in general, I mean, how are brain processes shaped by cultural tools and practices? I mean, in terms of how the brain operates, how does, oh yeah,"
+	},
+	{
+		"start_time": "03:37",
+		"speaker": "Shinobu Kitayama",
+		"words": "so, so reinforcement is only one part of the story. So once you get different cultural tools, you know, those tools make use of different brain network or conversely, some tools. Essentially make it unnecessary to have those networks. So for example, you know, uh, navigation tools in, uh, in driving the cars, make it uh unnecessary to use your own brain's hippocampus in navigating yourself, but before this invention, cultural tool, Uh, people, people needed to make use of their brain, some particular part of the brain and brain network to navigate themselves in a very complicated city like London."
+	},
+	{
+		"start_time": "04:30",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, but I asked you about cultural practices, but what is culture exactly? What counts as being cultural?"
+	},
+	{
+		"start_time": "04:40",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, uh, culture in my mind is made up of two things, one, practices, and two, meanings. Practices are scripted daily behavior. Meanings are values, norms, and concepts that guide those behaviors, namely practices. For example, Americans often say, when we meet each other, how are you? And answer could be fine, thank you. Now, this seems like such a trivial example, but really reflects some very interesting possibility that American culture offered the shared idea that the self's internal state is important, and also it is desirable to be fine."
+	},
+	{
+		"start_time": "05:35",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. And with that in mind, how do we go about integrating the mind, the brain, and culture?"
+	},
+	{
+		"start_time": "05:43",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, mind emerges from the brain and the brain is shaped by cultural practices and the meanings. So culture, brain and mind form a group of mutual influences."
+	},
+	{
+		"start_time": "05:59",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND I mean, uh, uh, we're going to get into some cultural differences in psychological traits, but how are these cultural differences studied?"
+	},
+	{
+		"start_time": "06:12",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, interesting question. Uh, TRADITIONALLY, anthropologists use ethnography. Sociologists have used surveys, and psychologists have used experiments. In cultural neuroscience, we add brain imaging and the physiological method, brain imaging, including fMRI and EEG and physiological measurement like uh measuring some You know, uh, enzymes and so on in the blood flow. And uh, I believe that multiple methods and approaches are important, and we need to ensure that those things converge and if not, investigating why."
+	},
+	{
+		"start_time": "07:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm But I mean, when it comes to cultural differences, if you were to ask people who, for example, study human universals or even, let's say evolutionary psychologists, they would talk about uh some information processing mechanisms that they would say are Universal or cross-culturally found in the human species across human societies. I mean, do you think that all of human psychology, all of our psychological processes or mechanisms can be shaped by culture, or are perhaps some of them impermeable to culture?"
+	},
+	{
+		"start_time": "07:44",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, uh, culture works on biological templates. No question about this, and those templates are also prepared evolutionarily with the assumption that they are going to be shaped by culture. So biology and culture kind of make each other up over a long span of evolution now. Traditionally, some people argue that different cultures are incomparably, incomparably different, you know, simply comparison is difficult because cultures are so different. I don't believe it, but at the same time, it is not quite right to say that some elements are the same, when all the other elements are different because all the elements are integrated to form a network or system. So, I would say what is universal is the process of formation of human mind or formation of social brain, and resulting outcome out of this universal process can be extreme diversity across societies, across socializations, and across cultural groups."
+	},
+	{
+		"start_time": "09:12",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. So I would like to get now into the example of the self and how it can vary in different ways across human culture. So, first of all, what is the self?"
+	},
+	{
+		"start_time": "09:27",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, interesting question. I would say self is the source of behavior, source of initiating action, and which could be called agency. The perception of agency itself becomes part of who we are. So, I'm paraphrasing traditional distinction by, say, William James between I and me. So I refers to a whole bunch of psychological processes that make action possible. There's a dynamic system producing action that is the self, but the self itself is perceived by the self, and this self as perceived is integrated into this source of action."
+	},
+	{
+		"start_time": "10:17",
+		"speaker": "Ricardo Lopes",
+		"words": "When does the self or notions of self vary cross-culturally and what does it mean for it to vary cross-culturally? In what ways does it vary?"
+	},
+	{
+		"start_time": "10:30",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, we have argued that the Western cultures emphasize independence of the self, while many non-Western cultures emphasize interdependence of the self with the other people. But interdependence itself takes different forms across cultures outside of the West, which is really exciting agenda uh in our recent research."
+	},
+	{
+		"start_time": "10:56",
+		"speaker": "Ricardo Lopes",
+		"words": "In what ways is the self grounded socially?"
+	},
+	{
+		"start_time": "11:02",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, through social feedback, I would say George Meade, uh, once called the generalized other. So basically, you know, here's a community of people who share the common sense about what the self is supposed to be, and this generates other is internalized and become the voice of the society that becomes really internalized part of our mind, and that's how the self is socially grounded."
+	},
+	{
+		"start_time": "11:38",
+		"speaker": "Ricardo Lopes",
+		"words": "What is self-relevant information and where do we get it from?"
+	},
+	{
+		"start_time": "11:46",
+		"speaker": "Shinobu Kitayama",
+		"words": "So are you asking cultural differences in the processing of self-relevant information, right?"
+	},
+	{
+		"start_time": "11:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, YES, I was first asking what is self-relevant information. What, what does that mean?"
+	},
+	{
+		"start_time": "12:00",
+		"speaker": "Shinobu Kitayama",
+		"words": "Oh, I see, I see. Uh, YOU know, basically there are so many things in the world, and depending on who you are, what your backgrounds might be, some part of social environment is more. RELATED to associated with your sense of yourself, while some other things are not. So for example, if you are, well, you are a journalist, and if you're a journalist and committed to good science, doing very good job in the interview like this could be highly, highly self-relevant, while something else like eating hamburger as opposed to something else for dinner might be much less relevant."
+	},
+	{
+		"start_time": "12:46",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to self-relevant information, there is positive and negative self-relevant information. Are there cross-cultural differences in how people readily accept positive or negative self-relevant information?"
+	},
+	{
+		"start_time": "13:04",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yes, uh, typically, European-Americans tend to focus more and elaborate more on positive self-information, where, whereas East Asians do not show the same positivity bias."
+	},
+	{
+		"start_time": "13:24",
+		"speaker": "Ricardo Lopes",
+		"words": "And where, I mean, how do, where does this difference come from? I mean, is it something that people acquire socially, the fact that they, uh, pay more attention or accept more readily positive or negative self-relevant information? I mean, how, how does that happen?"
+	},
+	{
+		"start_time": "13:45",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, we have argued that European-American culture share the assumption that the self is an independent entity that is positive. Positivity is the anchor of the self, while in East Asian culture, social relationships, social embeddedness is far more important, and the positivity of the self itself may or may not be highly relevant. And this can become part of you, and this can surely be part of general society and therefore, in that way, cultural assumptions about the role of positivity of the self can shape the posit, the positivity of the self, uh, in, in, in any given individual."
+	},
+	{
+		"start_time": "14:37",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm, I understand. And in what ways do construals of the self, of others, and of the interdependence of the two can influence the nature of individual experience and things like cognition and emotion."
+	},
+	{
+		"start_time": "14:55",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, so you can conceptualize self-control as a mental map, mental map that you utilize in navigating your own behavior. Also, you can use the same mental map in Understanding and comprehending other people's behavior and mental map can be used to say reward or punish and comment on others' behavior, and in that way, you know, self-construe can shape the social behaviors, one through your self-guidance and, and second, by guidance by other people."
+	},
+	{
+		"start_time": "15:37",
+		"speaker": "Ricardo Lopes",
+		"words": "So in this sense, and still on the topic of the self, how do individualist cultures differ from collectivist cultures?"
+	},
+	{
+		"start_time": "15:48",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, I would say, well, first of all, individualists and the collectivists have different mental maps. Individualistic mental map is based on independent self, whereas collectivistic mental set or mental map is based on the assumption that the self is more interdependent. But above and beyond, it's possible that even though both personal goal and social guidance are involved, personal goal aspects may be more relevant and more highlighted in individualistic societies where social guidance aspects may be more important, more salient in collectivistic society."
+	},
+	{
+		"start_time": "16:36",
+		"speaker": "Ricardo Lopes",
+		"words": "So when it comes to construals of the self as independent or interdependent, how are, how are these construals? How do they come about? I mean, how are they constructed in a way?"
+	},
+	{
+		"start_time": "16:53",
+		"speaker": "Shinobu Kitayama",
+		"words": "Excellent question. We have argued that behind self-construls you identify today, there's deep history, ecology, geography, and so on. So, different parts of the world are characterized by very different ecologies, which necessitate very different forms of subsistence, which in turn lend themselves to very different social systems, out of which Culturally specific construals of the self must have emerged."
+	},
+	{
+		"start_time": "17:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Talking about well-being, but still on the topic of self, is well-being associated with the kind of control of the self as independent or interdependent that people have?"
+	},
+	{
+		"start_time": "17:50",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yes, uh, generally, uh, when you draw comparisons between Western societies and East Asian societies, independent selves find the well-being in personal achievement, especially in Western societies, whereas interdependent selves in East Asia find well-being in social harmony, social connection, and social embeddedness."
+	},
+	{
+		"start_time": "18:20",
+		"speaker": "Ricardo Lopes",
+		"words": "And when it comes to how people approach well-being, there are linear approaches and dialectic approaches. Could you explain each of those approaches and how they vary cross-culturally?"
+	},
+	{
+		"start_time": "18:34",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, that, that really points to something I've, I've been very interested these days, you know, time can run like an arrow, time can have one direction, alternatively, time can circle around, you know, seasons are the example of the second form of time. Now, everybody has those two forms of time, obviously, however, different cultures utilize one or the other more to conceptualize the nature of well-being. So American societies or American culture tends to use linear forms of understanding of time in conceptualizing well-being. So if you are happy today, you are You imagine that you are going to be happier tomorrow, and society grows like this, and of course, a tragic aspect of this is just the opposite, if you are unhappy today, your well-being may continue to decline in the future. East Asians traditionally have cultivated very different forms of understanding of the relationship between time and well-being, and which is much more dialectic, seasonal, in the sense that excessive positive could be the beginning of having negative, but having a negative state today could be a beginning of getting something positive tomorrow. So essentially well-being is conceptualized as circular and more cyclic and more dialectic."
+	},
+	{
+		"start_time": "20:17",
+		"speaker": "Ricardo Lopes",
+		"words": "You have also done work on how emotional experiences change across the lifespan, and you've done work among Americans and also among Japanese people. So how do they change across the lifespan among Americans and how does it compare to how they change in Japanese people?"
+	},
+	{
+		"start_time": "20:39",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, one very robust effect, developmental psychologists have documented in the United States and the Western societies is that older people become more positive. You know, they experience greater happiness and greater positivity, and in part because they don't have to worry about any negative consequences in their life in the future because their future is getting smaller, getting narrower, and getting Less realistic, so to speak. Interestingly, East Asians don't show this effect as much. This positivity effect as a function of age is much less robust in East Asia, and sometimes East Asian older people show kind of growth of meaningfulness of the self. So for example, your understanding of the self as being, you know, You know, as a resource for next generation, meaning in life and you know, uh something that makes your life worth living, those aspects of meaning aspects of well-being appears to grow in East Asia, whereas those aspects go down in Western societies."
+	},
+	{
+		"start_time": "22:08",
+		"speaker": "Ricardo Lopes",
+		"words": "And do we have any explanation for that?"
+	},
+	{
+		"start_time": "22:12",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, we, it's very hard to pin down exactly why that might be the case, but we suspect that this may also be related to typical self-construe as independent or interdependent. So in Western societies, yourself is atomic entity that is independent, not constrained by the society. Now that's fine, and that can be very positive if you don't have to worry about other things, as may be true in later in life, but as they grow, people may find less meaning because it's so isolated from the surrounding. Whereas in East Asia, self is perceived as embedded in much broader con uh context, context not. Not, not just not just confined to your lifetime, but generation of people who may come after you. And as a consequence, people may have a better way to handling, to handle, you know, your older age, you become more embedded, more meaningful, but there's much less need to be hedonically positive. Mhm."
+	},
+	{
+		"start_time": "23:35",
+		"speaker": "Ricardo Lopes",
+		"words": "What are emotion norms?"
+	},
+	{
+		"start_time": "23:39",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, emotional, emotion norm is a societal expectations about which emotions are desirable to feel and express. So for example, initial study focused on flight attendant in 1960s, you know, whether you feel good or bad, but it's your job and you are supposed to feel some emotions more than some others to serve the job, and this can apply to many other occupations and settings."
+	},
+	{
+		"start_time": "24:14",
+		"speaker": "Ricardo Lopes",
+		"words": "But then, do we have emotion norms in all human societies, is that it?"
+	},
+	{
+		"start_time": "24:21",
+		"speaker": "Shinobu Kitayama",
+		"words": "Oh yeah, yes, I, I, I believe so, I believe so, and emotional norms can play a very important role in shaping your emotions themselves."
+	},
+	{
+		"start_time": "24:33",
+		"speaker": "Ricardo Lopes",
+		"words": "In what ways?"
+	},
+	{
+		"start_time": "24:35",
+		"speaker": "Shinobu Kitayama",
+		"words": "Again, two ways. One, self-guidance, you may have some understanding of the social norm, and you may try to feel those emotions which are considered desirable, but at the same time, Social guidance is important. So for example, we share some culture, and we understand some emotions are important. Now imagine that you experience that express that emotion and the thing that you are feeling in, and then I say, oh Ricard, you know, you are feeling that way, I completely understand blah blah blah. So in that way, social guidance may set in to shape your emotion."
+	},
+	{
+		"start_time": "25:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND I mean, emo do emotion norms vary between individualist cultures and collectivist cultures, and are there also differences in terms of how much people adhere to emotion norms or not?"
+	},
+	{
+		"start_time": "25:35",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yes, uh, actually, that's one of the topics we have investigated in the recent years. What, what we found was very interesting, essentially, what we found was that emotional norms are stronger in Western. Individualistic societies compares to non-Western more collectivistic societies. By the way, we found that very interesting, and many people found it counterintuitive because typically, norms are stronger in collectivistic societies. So here, emotional norms just going the opposite way. So, uh, we, we found this extremely interesting and informative."
+	},
+	{
+		"start_time": "26:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND what explains that? Do we know that? What explains the"
+	},
+	{
+		"start_time": "26:28",
+		"speaker": "Shinobu Kitayama",
+		"words": "fact that the norm,"
+	},
+	{
+		"start_time": "26:30",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah."
+	},
+	{
+		"start_time": "26:31",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yes, again, self-construal, so independent self-construal highlight internal aspects of the self. Those are believed to be very important. One aspect of internal experience is emotion, your passion. And your passion is what defines you, given this independent self-construe, and as a consequence, so for example, if you show your emotions in such a way that you don't know what you are feeling. My feedback, it would be very lukewarm, and your response may not be reinforced. But if you, if you say, I'm happy, I'm very excited, or when you are not happy, you may say, I'm entirely angry. Well, my response would be, yeah, I completely understand what's going on, explain, and that's a kind of social feedback you might expect in individualistic society. Now, in collectivistic society, Excuse me. Both joy and anger, those concepts exist, no question about that. However, much more important is social rules, social norms, uh, norms regarding social behavior. So people tend to disregard emotional expression, emotional, you know, information leaking out somebody's behavior, and as a consequence, emotional norms. TEND to be stronger as a consequence in individualistic societies."
+	},
+	{
+		"start_time": "28:12",
+		"speaker": "Ricardo Lopes",
+		"words": "I understand. Uh, IN your work, you also explore, uh, how ecology also plays a role in how cognition evolves. So, could you tell us about the example of farmers and fishermen and how they are more holistic than herders?"
+	},
+	{
+		"start_time": "28:30",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, so, Well, in terms of cognition, we found that farmers are more holistic compared to herders. That's interesting, and we believe that this difference happens because farming requires much greater social coordination and social cooperation, which require people to have expanded range of attention to different parts of the social world, eventually leading to more holistic habit of the mind compared to people. For engaging in hunting, which require more focused attention to any given animal or to whatever you have to do because typically you act alone, you walk alone compared to farming, which requires much greater extent of social coordination, at least historically, you know, we are talking about several 1000 years of cultural evolution here."
+	},
+	{
+		"start_time": "29:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, COULD you explain uh what holistic means in this kind of context? I mean, what does it entail in terms of how people think?"
+	},
+	{
+		"start_time": "29:46",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, so holistic attention, we simply mean the spatial allocation of psychological resource. Sometimes we allocate resource broadly to different elements in the environment. So for example, For example, imagine that you went into a dark forest and you don't know what may show up, your attention becomes very, very holistic, broad, just to ensure that you will not miss anything. Whereas your attention could be more focused when you're working on some task, you know, 100% concentrating on it. Attention is very focused. Now, attention is the gateway of information. So when you are focusing on something and filtering out all the other information, down downstream consequence of this is that your cognition become more focused too, because you fail to even Get Contextual information in the beginning. But if your attention is more holistic, lots of information comes in and your attention tend to be holistic, but your cognition needs to be more holistic. Sometimes cognition can become More diffused or more ambiguous, but more positive take on this is that cognition becomes more holistic and more wise because you are predisposed to take into account a broader range of information."
+	},
+	{
+		"start_time": "31:23",
+		"speaker": "Ricardo Lopes",
+		"words": "And what would be the opposite of holistic? Is it analytic?"
+	},
+	{
+		"start_time": "31:29",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, analytic thought typically involves identifying some piece of information. For example, oh here's a bird, OK. All right, so what does this mean? Well, this means that typically birds fly, and therefore this bird should also fly. So what this means that you focus your attention on a single piece of information, and then apply some reasoning rules. So cognition based on focused attention tends to be more analytic, whereas your cognition, if based on more holistic information, You know, your reasoning tend to be less analytic, that doesn't mean necessarily that your cognition is worse or irrational, simply cognition become more holistic, meaning that you tend to take into account various contextual information."
+	},
+	{
+		"start_time": "32:34",
+		"speaker": "Ricardo Lopes",
+		"words": "So I asked you about the example of farmers and herders. How about the example of harvesting rice versus wheat in China? I mean, what are the differences in terms of what between people who harvest rice and people who harvest wheat in China?"
+	},
+	{
+		"start_time": "32:53",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, well, it's, there's a very clear difference in farming uh rice as opposed to wheat, not necessarily today, but we are talking about several 1000 years of cultural evolution. So in traditionally rice farming regions, people still tend to be more collectivistic in believing in interdependent self, and their cognition tends to be more holistic compared to people living in traditionally wheat farming region. Now, you might ask why that might be the case, and we believe That's because farming, farming is farming, however, rice farming requires much greater degree of social coordination and also rice farming affords much greater calorie per square meter, lending itself to greater population. DENSITY, greater population density lending itself to greater social coordination. So there's a cyclic process of reinforcements to create more tight and collectivistic social practices in the region, which can be passed on across generations."
+	},
+	{
+		"start_time": "34:10",
+		"speaker": "Ricardo Lopes",
+		"words": "So when I asked you about differences between individualist and collectivist societies, sometimes you pointed to Western Europe versus East Asia. What would you say are some of the main differences or more salient differences between incognition between Westerners and East Asians?"
+	},
+	{
+		"start_time": "34:36",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, in terms of cognition, we already talked about holistic analytic distinction. This shows up in several different ways. So for example, in causal attribution, well, what that means is that social explanation of somebody's behavior. Western Europeans and North Americans tends to exhibit what we call fundamental attribution error. Meaning that they attribute behavior to the internal traits of the person, even when there's obvious social factors influencing the behavior. So for example, if somebody is giving a seat to somebody, maybe older person in a, in a crowded train, you may jump on the conclusion that he must be very kind, nice guy. Forgetting the possibility that there's a very strong social norm of doing this in a similar situation, so that's called the fundamental attribution error. This fundamental attribution error is much less weak and sometimes do not show up in East Asia."
+	},
+	{
+		"start_time": "35:50",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, ARE there any other major differences in cognition between Westerners and East Asians?"
+	},
+	{
+		"start_time": "35:58",
+		"speaker": "Shinobu Kitayama",
+		"words": "Yeah, another example would be to what extent people regard. Different sorts of information relevant in making judgment. So Westerners tends to screen out many pieces of information simply irrelevant, focusing on something that's clearly irrelevant. East Asians tend to admit much broader range of information in making judgment, and this can have very significant influences and implications in, for example, judgment of morality, judgment of crime, judgment of, you know, criminality, uh, and so on."
+	},
+	{
+		"start_time": "36:44",
+		"speaker": "Ricardo Lopes",
+		"words": "And uh I mean, and this will be the last topic I would like to explore. Where does the, uh, do these differences come from? What explains these differences between Westerners and East Asians in terms of cognition?"
+	},
+	{
+		"start_time": "37:02",
+		"speaker": "Shinobu Kitayama",
+		"words": "So we believe that to understand this contemporary psychological differences, you have to go back at least several 1000 years. Why? Because, you know, humans essentially settled and studying sedentary forms of living. You know, 10,000 years ago, different parts of the Eurasian continent, and because farming became possible and herding became part of social life, which enabled people to settle in a given place. Once this happens, you know, ecology, geography, those broad You know, sociological or geographic variables can influence forms of life. So I already told you, once rice crop is discovered in some part of the East Asia, that really transformed the society, and that society may now be called more collectivistic compares to form of society encouraged by, say, you know, wheat farming or You know, uh, Harding, which you may now call more individualistic."
+	},
+	{
+		"start_time": "38:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, IN your work, you talk about the social orientation hypothesis. Does that apply to explaining these differences?"
+	},
+	{
+		"start_time": "38:38",
+		"speaker": "Shinobu Kitayama",
+		"words": "Well, basically, social social orientation hypothesis simply is that your cognition may reflect your social behavioral patterns. So your social behavior tend to be independent, your cognition tend to be more analytic, your behavior is more holistic, more interdependent, your cognition tends to be more holistic. I think that's right. Within the confine of Western societies and the East Asian societies. Now, we are finding that the story may have to be more nuanced if you expand your research beyond East and the West. So for example, in South Asia, people are very, very collectivistic, and yet their thinking tend to be very analytic. Now, it posing a very interesting question about why that might be the case."
+	},
+	{
+		"start_time": "39:42",
+		"speaker": "Ricardo Lopes",
+		"words": "Oh, OK. So if we look across all the other cultures, would you expect to find, uh, I mean, perhaps different sets of these kinds of, uh, cognitive differences occurring?"
+	},
+	{
+		"start_time": "39:56",
+		"speaker": "Shinobu Kitayama",
+		"words": "Oh, absolutely, absolutely, absolutely. Well, generally, I think it's right. Still, I. Go along with what we said, that is interdependence tends to be, tends to foster more holistic cognition. However, there are some important exceptions, and South Asia is one clear example and in our recent research suggesting that there might be some interesting exceptions in the Middle East too. So, uh, you know, we'll see how things go, uh, you know, in our field, our research effort was confined to East and the West, meaning that most of the East Asia and the Western societies for Some obvious reasons which have nothing to do with the substance of psychological theories, that is where you, you have data, where research can be done, all those things. And now I think time is very ripe to go beyond East and West, incorporating information from the Middle East, India, South, you know, South Asia, uh, Sub-Saharan Africa, and so on, and that's exactly what we have tried to do."
+	},
+	{
+		"start_time": "41:18",
+		"speaker": "Ricardo Lopes",
+		"words": "And do you already have any hypothesis as to why in, for example, in South Asia, as you say, people tend to be collectivist, but at the same time they are analytic. I mean, what would explain these"
+	},
+	{
+		"start_time": "41:34",
+		"speaker": "Shinobu Kitayama",
+		"words": "exceptions? Well, uh, I would say that Well, first of all, uh, I think we need to share some common understanding about the timeline of cultural evolution. So most non-Western regions evolved over several 1000 years. Western societies emerged in the last 1000 years. It evolved over the last several 100 years, right now. Non-Western societies, they tend to be more interdependent and the collectivistic because in previous time prior to industrial revolution and all the wealth and all the efficiencies that afford Living was hard, and you have to conform with the group, you have to survive by using group dynamics. So societies tend to be more collectivistic. Now, depending on geography, ecology, and potentially other factors like migration. People or these different cultures came up with very different ways of forming groups, forming societies, forming communities to survive. East Asian way is one way, but not really even the dominant way. So for example, South Asia is the hub of trade, commerce, and also it was a hub of many different ideas from adjacent regions. Which lend themselves to a practice of using argumentation as a form of forming meaningful social communication and social communities. So argument to become the hub of connecting people and forming collectivistic society, which is very different from East Asian way. And the similar analysis could be Applied to different regions, Middle East, Sub-Saharan Africa, and Latin America, and so on. And out of this, Western societies came out over the last several 100 years."
+	},
+	{
+		"start_time": "44:00",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me just ask you one last question then. Why is, why is it that people have been focusing so much then on the differences, uh, cognitive differences between, uh, Western Europe or the West in general and East Asia? I mean, is it because they are paradigmatic examples of individualist and collectivist cultures, or is it from for some other more arbitrary reason?"
+	},
+	{
+		"start_time": "44:30",
+		"speaker": "Shinobu Kitayama",
+		"words": "Both, both. Let me start with the arbitrary reason part. Well, basically what happened was that in 1950s and 191960s, psychology was extremely cognitive, you know, people imagine that the human mind is like a computer, which was a, you know, a recent invention around that time. And if the human mind is a computer, no way, uh, you can expect a meaningful cross-cultural differences, and that was fine as far as it went, because all the subjects in psychology back then were coming from Western. Individuals. But then East Asia, Japan initially, immediately followed by Taiwan and Hong Kong, and eventually by China and Korea and so on, they became very wealthy, meaning that they became more interested in Mental health and mental well-being beyond survival, and that's where psychology came in and providing data. So that's a historical kind of sociological reasons which have nothing to do with substance of psychology or cultural psychology. But it seemed to me that there's a substantive reason why initial focus on East and the West, that is East Asia and the Western societies made some sense. The reason being again, you have to go back several 1000 years, and then think about the Eurasian continent. You know, uh, human, human civilization began to occur in several different places, and essentially East is defined by rice-based civilization in contemporary China, you know, several 1000 years, maybe 8000 years ago. Now Western civilization happens in Western part of the Eurasian continent, and then eventually elaborated by a whole bunch of other things like Renaissance, Industrial Revolution, and so on, which eventually leads to contemporary individualism. Now, those two regions are so clearly separated, geography, geography separated, and, you know, obviously, people interacted with with each other, uh, you know, through commas, but genetic data is very clear, East Asia. WAS separated in terms of genetic interaction that is reproduction uh from the rest of the Eurasian continent, whereas there's a much greater contact across different parts of the Eurasian continent through several 1000 years. So if you compare Western edge and eastern edge. Namely, East Asia and the West, West, you might end up having the sharpest possible contrast, and remaining regions may show very interesting stories, but as an initial step, always it makes sense to focus on sharpest possible contrast, and that's exactly what the field have done."
+	},
+	{
+		"start_time": "47:51",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So Doctor Kitayama, just before we go, would you like to tell people where they can find your work on the internet?"
+	},
+	{
+		"start_time": "48:01",
+		"speaker": "Shinobu Kitayama",
+		"words": "Oh, I have a lab website. So that's called Culture and Cognition Lab at the University of Michigan. And you know, that, that's available. Uh, AND, you know, if you are interested in our current work, we have a paper available in Annual Review of Psychology 2020. For last year, I think that's available free of charge. Uh, THAT'S, I think it's uh uh open paper. Uh, SO that may be the best source to look at."
+	},
+	{
+		"start_time": "48:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Thank you. Thank you so much, Doctor Kitayama for coming on the show. It's been a great pleasure to talk with you."
+	},
+	{
+		"start_time": "48:47",
+		"speaker": "Shinobu Kitayama",
+		"words": "Thank you very much. It was my pleasure too. Thank you."
+	},
+	{
+		"start_time": "48:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herz Agnon, Michel Jonathan Labrarinth, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall, Eddin Bronner, Douglas Fry, Franco Bartolatti, Gabriel Pan Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Ebert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers Iar Webb, Jim Frank, Lucas Stinnik, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al Nick Cortiz, and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]

@@ -5,13 +5,16 @@
 	"episodeid": "1181",
 	"excerpt": "Dr. Shinobu Kitayama is Robert B. Zajonc Collegiate Professor of Psychology and Director of the Culture & Cognition Program at the University of Michigan. His research revolves around cultural differences and similarities in a variety of mental processes such as self, emotion and cognition. He has focused on comparing people from Asian countries such as Japan, the Philippines and China with Americans.",
 	"image": "https://i.ytimg.com/vi/1OAGP3SyqIc/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1181-shinobu-kitayama-cultural-differences-in-psychological/id1451347236?i=1000738707406&uo=4",
 	"publishDate": 2025-11-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1181-Shinobu-Kitayama---Cultural-Differences-in-Psychological-Traits-The-Self--Emotions--and-More-e373cp7",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1181 Shinobu Kitayama - Cultural Differences in Psychological Traits: The Self, Emotions, and More",
-	"youtubeid": "1OAGP3SyqIc"
+	"vtt": "1181.vtt",
+	"youtubeid": "1OAGP3SyqIc",
+	"transcript": "1181.lines.json"
 }
 ---
 RECORDED ON AUGUST 20th 2025.  
