@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/107367633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-26%2F2023f557-1b00-2a25-f93f-ff9a2f764474.m4a",
 	"draft": false,
 	"episodeid": "1182",
 	"excerpt": "Dr. Dries Bostyn is a social psychologist, statistician and philosopher currently doing a BOF senior postdoctoral fellowship at the Social Psychology Lab at Ghent Unversity. His primary research focus is the study of moral psychology.",
 	"image": "https://i.ytimg.com/vi/zw_Uzmq83hA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1182-dries-bostyn-how-people-respond-to-trolley-dilemmas/id1451347236?i=1000738830440&uo=4",
 	"publishDate": 2025-11-28,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1182-Dries-Bostyn-How-People-Respond-to-Trolley-Dilemmas-e37b3oh",
 	"tags": [
 		"Philosophy",
 		"Psychology"
