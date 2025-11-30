@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1182 Dries Bostyn: How People Respond to Trolley Dilemmas",
-	"youtubeid": "zw_Uzmq83hA"
+	"vtt": "1182.vtt",
+	"youtubeid": "zw_Uzmq83hA",
+	"transcript": "1182.lines.json"
 }
 ---
 RECORDED ON AUGUST 26th 2025.  
