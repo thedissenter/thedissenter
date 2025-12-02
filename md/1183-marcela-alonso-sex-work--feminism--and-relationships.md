@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/111853005/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-28%2F16e681e8-79c1-33f1-b90a-e4bfb5cff420.m4a",
 	"draft": false,
 	"episodeid": "1183",
 	"excerpt": "Marcela Alonso is an OnlyFans content creator, and the host of the Get Schooled Podcast.",
 	"image": "https://i.ytimg.com/vi/i4kSZEKiPu8/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1183-marcela-alonso-sex-work-feminism-and-relationships/id1451347236?i=1000739166811&uo=4",
 	"publishDate": 2025-12-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1183-Marcela-Alonso-Sex-Work--Feminism--and-Relationships-e3bk00d",
 	"title": "#1183 Marcela Alonso: Sex Work, Feminism, and Relationships",
 	"youtubeid": "i4kSZEKiPu8"
 }
