@@ -9,7 +9,9 @@
 	"publishDate": 2025-12-01,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1183-Marcela-Alonso-Sex-Work--Feminism--and-Relationships-e3bk00d",
 	"title": "#1183 Marcela Alonso: Sex Work, Feminism, and Relationships",
-	"youtubeid": "i4kSZEKiPu8"
+	"vtt": "1183.vtt",
+	"youtubeid": "i4kSZEKiPu8",
+	"transcript": "1183.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 28th 2025.  
