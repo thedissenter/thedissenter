@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1184 Maël Lemoine - Philosophy of Physiology: What is Disease, and What is Health?",
-	"youtubeid": "M9A-FjKE1FI"
+	"vtt": "1184.vtt",
+	"youtubeid": "M9A-FjKE1FI",
+	"transcript": "1184.lines.json"
 }
 ---
 RECORDED ON AUGUST 27th 2025.  

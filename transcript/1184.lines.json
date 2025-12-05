@@ -1,0 +1,237 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello, everyone. Welcome to a new episode of the Dissenter. I'm your host, as always, Ricardo Lops, and today I'm joined by Doctor Mael Lemoine. He's a professor of philosophy at the University of Bordeaux, and he, today we're going to talk about his book, Philosophy of Physiology. So Doctor Lemoan, welcome to the show. It's a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:22",
+		"speaker": "Maël Lemoine",
+		"words": "Yeah, shared pleasure for me. Thank you for having me here."
+	},
+	{
+		"start_time": "00:26",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, the book is centered on philosophy of physiology, but of course if I understood it correctly, there's a lot of overlap with questions that people explore in the philosophy of medicine, and we can talk more about that and clarify that issue. How do people tend to approach the question what is health and disease in the philosophy of medicine?"
+	},
+	{
+		"start_time": "00:53",
+		"speaker": "Maël Lemoine",
+		"words": "I think they tend to approach it as a practice and uh so they see medicine as a practice, which it is, of course, and uh they are mostly interested in, for instance, questions like values uh that would um uh. Be active in that practice or you know, play a role in the decisions that are taken and that kind of, uh, so that's the kind of approach they generally have. And uh I would say in philosophical terms, they also many of them have, I think implicitly and they're not aware of it, they have what I call a foundationalist view of uh of general questions like what health is or what disease is. And by that I mean that they tend to, to admit the idea that these concepts are fixed once and for all and would determine, uh medical practice in general, uh, in contrast with a view where these concepts are in fact scientific and as as such, they are open to many modifications depending on what we discover and how we come to conceptualize health and disease."
+	},
+	{
+		"start_time": "02:03",
+		"speaker": "Ricardo Lopes",
+		"words": "In the book, er, right at the very beginning, you talk about the divide between the naturalists and the normativists in the philosophy of medicine. Could you explain that divide?"
+	},
+	{
+		"start_time": "02:15",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, it's so it's really a very traditional, very important divide in philosophy of medicine. The majority of philosophers of medicine are more normativists, meaning that they consider concepts like health and disease to be value-laden concepts, so they would insist on that idea, and I think that naturalists on the other side generally, in general, would agree with the fact that there are values. Involved in those terms, obviously I mean health is something that is good to have. Disease is something that is bad to have, but their point is that it's not the defining feature of those terms. They consider that it's connotations of the term or secondary properties of health and disease. It's good to have or bad to have, for instance, harmful or not and all that, whereas normativists would consider that this is the primary defining traits of those concepts. So that's approximately how the divide can be defined."
+	},
+	{
+		"start_time": "03:15",
+		"speaker": "Ricardo Lopes",
+		"words": "So right in my first question, I asked you about what is health and what is disease and how it is approached in the philosophy of medicine, but is the philosophy of medicine the same thing as the philosophy of the sciences of health and disease? And if not, why not?"
+	},
+	{
+		"start_time": "03:36",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, it's a, yeah, that's a difficult question. I think that. Traditionally people consider that philosophy of medicine is a part of philosophy of science, and it's the part of philosophy of science that studies or investigates uh the sciences of health and disease, roughly medical sciences, let's say. But the kind of approach, the kind of methods that most philosophers, many, let's say philosophers of medicine are taking tend to not go very deep into scientific questions, just so it makes a very striking contrast between philosophers of medicine on the one hand and say for instance. CLOSEST, um, colleagues, philosophers of biology. So philosophers of biology would have two traditions. They can see biology as a practice, but many of them also see or look into the theoretical foundations, for instance, of biology. But let's say, for instance, typically people that are studying uh the basis, uh, the basic concepts of, uh, of, um, evolutionary biology. Uh, YOU cannot, I mean, there's not a lot of people in philosophy of medicine that are doing that. So that, this is why, I mean, probably other philosophers of science would say yes, it's a part of philosophy of science, but not exactly or it's underdeveloped in that, in that regard or only in one direction, let's say. Yeah."
+	},
+	{
+		"start_time": "05:02",
+		"speaker": "Ricardo Lopes",
+		"words": "So to get into the central topic of the book, what is physiology and what distinguishes it from pathophysiology?"
+	},
+	{
+		"start_time": "05:13",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, I mean, to, in continuity with your previous question, the, the, the goal of, of calling the book philosophy of Physiology rather than, uh, something like basic concepts in philosophy of medicine or something is precisely to emphasize that scientific part of medicine. So of course it doesn't say anything against the kind of work that people would do on medicine as a practice, but it's also to help or suggest that we can also develop this part that is more focused on the scientific part of of biomedical sciences. And the main science, the core science there, if you look uh into this is or can be called physiology. Physiology is much broader, of course, than medical science. There is, of course, physiological research on, for instance, how, uh, well, maybe we should start with a general definition, very simple one, physiology is the, the science of how organisms work. So work is of course a very vague term, but it means it's exactly that. I mean, it's philosophers would say it's the study of the mechanisms of, uh, that you can find in organisms and uh so philosophy of physiology means that you're studying how organisms work when it's human organisms and with a focus on health and disease, it would be more in the direction of philosophy of medicine. But if you're interested in other questions that are maybe less related to health and disease or not related to human health and disease, for instance, it would probably not be considered philosophy of medicine. So it's in continuity with a part of philosophy of biology. That's the first part of my answer and the second one is there is a broad sense of physiology that includes the study of health and disease. And there is a more restricted sense where physiology is only the study of organisms in, let's say normal conditions, which is of course a very vague term, while pathop physiology is the specific study of organisms in abnormal conditions when they have a disease typically."
+	},
+	{
+		"start_time": "07:12",
+		"speaker": "Ricardo Lopes",
+		"words": "So what is then the philosophy of physiology? What distinguishes it exactly from the philosophy of medicine? And of course we're going to explore more of that, but what are the central questions it deals with?"
+	},
+	{
+		"start_time": "07:29",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, I would say, I mean, the, the proposal I'm making is to say, it starts, this is, I think more or less the way I wrote it in the book, but it starts uh with um abandoning this assumption of uh foundationalism. If you start considering that health and disease should be very clearly defined and in a restrictive way for for the sciences, meaning that OK, we have a concept of disease and everything that doesn't fit in that concept shouldn't be considered a disease and therefore doctors should not study it as a disease. That's the way foundationalism works. If you abandon that view. Then you, and you ask again the question, so what is disease? Then the obvious question is, disease is what biologists, medical doctors, medical researchers are theorizing, conceptualizing as a disease. So you would look into the sciences themselves. And try to see inductively, so to speak, try to see how they conceptualize health, how they conceptualize disease, rather than consider that they have once and for all a kind of common sense concept of health and disease that predetermines the way they, they conceive it. Uh, SO that's, I would say it starts with that. So philosophy of physiology starts with that question. How do they theorize health? How do they theorize disease?"
+	},
+	{
+		"start_time": "08:52",
+		"speaker": "Ricardo Lopes",
+		"words": "And is there a theory of disease and the science of health in physiology, not philosophy of physiology, but physiology?"
+	},
+	{
+		"start_time": "09:02",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, in physiology, so probably more than one at the moment, and that's, that's likely to be the reason why many philosophers of medicine would be happy to consider that there is no theory of health or theory of disease in physiology, as you say, as opposed. In philosophy of physiology or philosophy of medicine where everyone would say yes, there are theories, for instance, Boor's theories of health or you know, we, we, we use that kind of phrase, but as you say, they, uh, if you look into physiology itself, uh, you will not find one theory. You would not, you would find probably a dominant one, which is probably less than a theory, which is the concept of homeostasis. Probably we'll talk more about that, but that's a really a cornerstone for physiology. Historically speaking, it has been, and it's still something very powerful. If you ask any professor in physiology what is the basic phenomenon of. Physiology they would tell you, well, obviously it's homeostasis, but homeostasis is also a vague term. It's difficult to say exactly what it is, to define it very precisely, and generally it's not something that is very useful for physiologists. They don't need a general definition of homeostasis. What they need more is to explain how homeostasis works in specific cases. Uh, SO this is, yeah, roughly I would say, uh, there is, so to summarize my answer, there is not one unitary theory, uh, not the equivalent, say, of, uh, of, uh, the modern synthesis in evolutionary biology where you can start from, even if it's not final, even if you can add many things or discuss many, that, there's not like one obvious venue for physiology. Uh, BUT there are many, as I was saying, uh, you would find, uh, many theories. So for instance, you can find, let's, let's take a very obvious example, a simple one. You can find something like a genetic theory of diseases. So, and this genetic theory of diseases is a kind of conceptualization of disease in general, uh, and it's a, it's a kind of open question to what extent can we explain the pathological phenomenon. Meaning by that all the diseases we know, uh, how much of that can we explain from a genetic point of view, and that's the goal of a genetic theory of disease to take just that example."
+	},
+	{
+		"start_time": "11:22",
+		"speaker": "Ricardo Lopes",
+		"words": "OK. And is there any list of criteria that cover all diseases? Is there anything that all of them have in common?"
+	},
+	{
+		"start_time": "11:34",
+		"speaker": "Maël Lemoine",
+		"words": "Again, difficult question. If you ask that question that way, it's likely that you fall back into the way philosophy of medicine has traditionally dealt with that question like is it anything common? So obviously you would say yes, it's uh. Probably harmful and then if you say, OK, what, what does harmful means then we would say, yeah, this is judged harmful by uh the, the, the, the sufferer of a disease or a pathological condition. So we would have that kind of very general level um properties, but that's, but if you look into science, it's generally not the way it works. Except in very specialized areas of science where you can have a universal definition with necessary and sufficient conditions. In physics sometimes you can have that, uh, but it's generally associated with sciences where you can strongly stipulate deficiency. You can say for instance, you know, matter can be defined. Like that energy is this, you know, entropy, I would call entropy that. So you can have this kind of very powerful mathematical and so on, but this is very rare in biology, apart from evolutionary biology where you can have that kind of approach to some extent. In many other areas of biology you cannot work that way because there are so many exceptions, so many difficulties, so many complexities, and so it's very difficult to have that kind of approach and it's not the way it works. Generally it works as a hypothesis. Exactly as I said, for instance, when you have the genetic, if you take again the example of the genetic theory of disease or if you prefer the infectious theory of diseases, uh, people would start with the assumption, what if all diseases we know were explained by an infection? And so it looks like a hypothesis and then you start saying, OK, there are many for which we're sure that that's the main explanation, and there are some for which we have strong suspicions that it might be explained. And maybe there are some for which we have never explored that hypothesis, and it might lead us to new discoveries. So that's more the way it works. So typically with the infectious theory of disease, as you, as you know, as many people know or are aware of, there is an infectious hypothesis about the origin of, for instance, schizophrenia, schizophrenia. I'm not saying that it's a strong theory, a strong hypothesis, but what I'm saying is that this is exploratory and that's the way theories work in physiology. They are hypothetical like in other fields of science. So that's the, it's more, it's not like it's something we can know once and for all should be the case in every disease. It's more like we are hyper hyper uh supposing, uh, in fact that um. Perhaps all diseases can be explained by this factor, knowing that it's unlikely but not knowing to what extent it's uh it's true."
+	},
+	{
+		"start_time": "14:26",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Is there a distinction between disease entities and pathophysiological processes, because there are some people who tend to establish an identity relationship between the two, right? So, is there a distinction and what is their relationship?"
+	},
+	{
+		"start_time": "14:46",
+		"speaker": "Maël Lemoine",
+		"words": "Yeah, so, uh, in fact, it's these two concepts, uh, it's a good question because these two concepts overlap to some extent. I mean, it's like you can use, you can say, um, you can say, for instance, let's take type 1 diabetes. Type one diabetes is a neurological entity or disease entity, so it means that it's a kind of label you would use in research and in particularly for diagnosis. So you would say this person suffers from type one diabetes. So that's the way, the way that concept works. But when you say type one diabetes, sometimes you refer to a process, so something that is happening. In the body of, uh, of, uh, on the organism of those people, so in this case that would be a kind of autoimmune process when the, the, the immune system of, uh, of, uh, the person with the disease would destroy uh some cells in their pancreas, for instance. So, and it's much more complex than that, but that's just a small part of it. And uh, so your question is, what is the difference between the two? So first of all, it's a difference of point of view. So one point of view is simply the one you have when you diagnose. When you're diagnose, you don't need to know. You don't always need to know all the details about the, the, uh, the physiological or the pathophysiological process. When you're a researcher, on the other hand, you may not need to know, for instance, all the symptoms that a doctor would use to diagnose a disease or you, Angelli, you know the, the disease entity, but you don't think that they are very important. What is important for you is the process at play. And then the second aspect and the second aspect of the um of your uh question I think which is also important is that there are many pathophysiological processes that are shared among various disease entities. It's not like it's a 1 to 1 correspondence. For instance, typically inflammation. IS a very general process that is involved in many diseases. It's not only involving diseases, it's also involving non pathological conditions or states or processes, but it's a part of many diseases. So it's one physiological process and many disease entities."
+	},
+	{
+		"start_time": "16:55",
+		"speaker": "Ricardo Lopes",
+		"words": "Does anything unify the pathophysiology of all disease entities?"
+	},
+	{
+		"start_time": "17:03",
+		"speaker": "Maël Lemoine",
+		"words": "I think that's probably for me the way I see it, it's the main question of philosophy of physiology. It's at least not the one that philosophers of physiology may hope to solve one day, but that's one that can be very useful and powerful to organize that field. So the way I would, I would approach that question, for instance, would be to go evolutionary. Meaning that if you investigate the question in the light of evolution. You can ask the questions, the question, what are the evolutionary conditions for diseases to appear and to remain and not to be eliminated by natural selection. So that's for me, that's one unifying question. What are the roots of diseases? What do, what explains the fact that diseases are here, are, are very much shared across species for for many of them with variations from one species to another. So that, those are for me the main unifying questions."
+	},
+	{
+		"start_time": "18:03",
+		"speaker": "Ricardo Lopes",
+		"words": "What kinds of disease theories are there and how generalizable are disease theories?"
+	},
+	{
+		"start_time": "18:11",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, we, we mentioned two, I mentioned the genetic theory of diseases and the infectious theory of diseases. In the book I listed, uh, I think 9 of them, just, but it's not, the idea is not to give, you know, a final list of these theories. It's just for the reader to be aware of the fact that they are not, let's say, hundreds of theories, but not just like 2 or 3 of them either. So it's more like in the. Range of, uh, I don't know, about 10 theories uh ongoing and I give examples in the book of uh very short ones obviously of some of them. So for instance, there is another one that, that you, you can call the guroscience theory of diseases or gerontological if you prefer. Um, THE idea is that um uh many diseases, maybe not all of them, but many of them can be considered to be, uh, let's say. Um, EXPLAINED by aging. So you, you need a good definition, a good approach, good concept of aging, and you can explain many diseases as effects of aging. So this sounds counterintuitive in the first place, uh, because you, you would say, for instance, what about, I don't know, early onset cancer, for instance, is not, uh, but the thing is that it depends of course on what you call aging, and aging is not a process that happens only in what we call the aged, uh, so let's say I don't know, 45+ people or something. Uh, BUT it can be understood as, for instance, a process that can be accelerated, uh, and start, starts only as, uh, uh, starts as early as when you're born or even of course before, and you can have a, uh, for instance, accelerated, uh, process of, let's say degradation of some functions and, uh, so that explains how that, uh, theory can explain, let's say, or that shows how this theory could explain. Many diseases and there are many more, but of course we won't go through all of them."
+	},
+	{
+		"start_time": "20:11",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, IN the book you also talk about the concept of pathological phenomenon. So what is the pathological phenomenon?"
+	},
+	{
+		"start_time": "20:20",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, I use that phrase, uh, because I think it's useful to, for, especially I was, I had it in mind, um, I mean, I, what I had in, what I have in mind when I'm using that phrase is the way philosophers of medicine are approaching the, the question. And when you say, when you use that phrase, the pathological phenomenon, I think it helps see that we are talking about uh a uh natural fact, something that you can observe. Something that is of course value laden, of course, uh determined by our preconceptions, common sense conceptions and the, and the way we see the world and what we want to do with it and all that, but also if you use that term. It's very obvious, and I'm not the only one of course to propose that, so you have papers by Paul Griffith, for instance, typically that would propose that kind of approach. Uh, IT'S obvious that you have diseases in plants. It's obvious that you have diseases in insects, you have diseases in humans, of course, and uh, and many, I mean all living beings have diseases or are susceptible to, to, to, to. So this, this is the phrase I'm using to show that it's a fundamental property of organisms. It's a very powerful force in evolution and it's something that for that reason, for those reasons, would benefit from being theorized from the point of view of the natural science and not only as a as a concept of medical practice."
+	},
+	{
+		"start_time": "21:53",
+		"speaker": "Ricardo Lopes",
+		"words": "And can we have a theory of the pathological phenomenon? Is that possible?"
+	},
+	{
+		"start_time": "21:59",
+		"speaker": "Maël Lemoine",
+		"words": "Yeah, I mean that's also a big question. As I said, I think the main task for philosophers of physiology is to work in that direction, to ask that question, can we, and I don't know. For me, I don't know what I think is important to consider is that even if we don't. The very fact of asking questions like that is useful. We took one example with the infectious theory theory of disease. I don't believe, for instance, that it's very likely that all diseases are explained by infectious agents or by the process of infection. It doesn't seem very plausible, does it? I mean, I mean, I think anyone would agree, or many at least would agree with me. That said, If someone says, huh, and what if this disease was explained by a bacterial infection, of course we would make, you know, it would be a huge leap in the research if it's true, if it's confirmed, of course if it's not, it's maybe a loss of time and and research resources, but it's really important that researchers ask that question. And now comes the second, which is more conceptual question. Suppose for one second. That let's say 90% of diseases are shown to be infectious. In that case, the point for a philosopher of physiology would be to say, well, the concept of disease itself is an infectious concept, and then you cannot say, you could still say, OK, for instance, as a, a normalivist philosopher of medicine would have it, they would say something like, OK, this is a harmful condition and all that. Good, that's true, uh, that's for sure, but. If you had 90% of diseases that are in fact proved to be uh that proved to be infectious, then you would have to define disease as an infectious process. And uh and that's something very important because it means that it's much more precise. The concept is much more, you know, narrowly defined and uh and that would be a great, you know, great progress in physiological science. Unlikely again, very unlikely, but what we shouldn't consider is that disease entities are fixed, defined in isolation from one another and once and for all. This is not the way it works. It's the field is constantly um uh under the influence of people that are trying to generalize, and when they do that, what they do in philosophical terms is theories. They propose theories of diseases. So that's the kind of things that I, I think or I suggest in the book that we should investigate."
+	},
+	{
+		"start_time": "24:43",
+		"speaker": "Ricardo Lopes",
+		"words": "At a certain point in your book, you explore a very interesting question. What do we gain by asking why is the susceptibility to disease a universal and necessary characteristic of living beings instead of what do all diseases have in common?"
+	},
+	{
+		"start_time": "25:04",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, I mean, related, as I said, I mean, it's not. That would be my proposal. I mean, the way I see it, I think I'm sure there are many other ways of uh unifying the field and, and investigating the theories. I think it's one for me that's the one that I find the most convincing, but, uh, I, I don't have any argument to say that it's the only one or whatever. That's not my point. Uh, SO I proposed it just as an illustration of, uh, uh, um, replacing this traditional question of philosophy of medicine which again I. Its into a very, very narrow, uh, and even I think a dead end, um, a very narrow venue for, for, for researchers in philosophy because they would be stuck into this question, is it, uh, you know, is it values, which values, you know, is it a natural fact, the kind of traditional, uh, debates in philosophy of medicine, uh, whereas if you ask this different question. Then you can see that this question, what is disease roughly can be asked in many different ways and and some of them can be very very exciting to explore. So that's the main reason why I would, you know, propose that kind of reformulation of the basic question for philosophy of physiology."
+	},
+	{
+		"start_time": "26:19",
+		"speaker": "Ricardo Lopes",
+		"words": "That's very interesting. Uh, WHAT is the idea of disease profiles?"
+	},
+	{
+		"start_time": "26:25",
+		"speaker": "Maël Lemoine",
+		"words": "Yeah, so I propose also that term. I mean, it doesn't play a big role in the, in the book, but I again, I think it's a nice illustration, um. Again, if you have, if I had in mind the kind of approach that normativist philosopher of medicine would have just to show them that there are also other aspects that are interesting in diseases, so the disease profile as I define it can, can be, I mean, can relate to many different features, but just to give you one example. Some diseases have a a very typical epidemiological profile. So if we get back just to take again the example of age-related diseases. They have a very, and you look at them at the level of populations, they have a very typical pattern. They would, meaning that their incidence, so the incidence is the number of new cases of a disease in a population in a given amount of time, their incidence would increase exponentially with time. Up to a certain point and that's considered to be a very important defining feature for aging related diseases. Oh, it's a bit more complex than that, but roughly this is sufficient for to to see the kind of idea they are behind this idea of a disease profile. So if you look into some diseases that work like that, or typically when people think of of contagious diseases, as you know, they have a. Again, very specific epidemiological pattern that would, you know, increase exponentially and then peak and then uh and then it would decrease very rapidly. So that's typical of of an epidemic. So that's the kind of things I had in mind like, you know, broad patterns that you can use to study some specific features of uh of the various diseases we have."
+	},
+	{
+		"start_time": "28:13",
+		"speaker": "Ricardo Lopes",
+		"words": "So it would be like a pattern of diseases with uh I mean some of the parameters that people take into account in public health and epidemi in the epidemiology like prevalence incidence, average age of onset, volatility and things like that."
+	},
+	{
+		"start_time": "28:32",
+		"speaker": "Maël Lemoine",
+		"words": "Typically, and I think we can also broaden the concept beyond, so that's the example I gave, but I think it's also, it can also be very interesting to look into diseases in the guise of whether they are chronic or not, whether you know what is the pattern at the individual level. Do they take a long time to develop or are they acute disease? So this is also the kind of feature you can have in mind when you're looking for disease profiles. They are typically diseases that would be chronic. Some of them would resolve, others not, uh, you know, or, or frequently resolve, and others rarely resolve by themselves. So these are also features of what we can call disease profiles, and they are not really epidemiological."
+	},
+	{
+		"start_time": "29:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So we've been focusing a lot on disease. How about the theory of physiological health? Can we also have that and what would be physiological health?"
+	},
+	{
+		"start_time": "29:32",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, that's, uh, so that's the, the last chapter of the, of, uh, of the book. Um, I tried to develop a little bit some ideas in that, uh, in that, uh, direction, uh, but it's just one chapter, uh, because I think, I mean, there, there is a recent trend in, uh, let's say physiological sciences in general, let's say, meaning, I mean, uh, study of, uh, of, uh, the, of, for instance, the, um. Nervous systems, the study of the immune system, the study of digestions, reproduction, and all that, all these fields that are collectively would collectively constitute physiology. There is a recent trend where people are starting to think of health in terms of specific dedicated processes rather than a kind of normal functioning. You know, like, it's the normal, uh, so generally, um, let's start with that idea. The most intuitive idea you would find in philosophy of medicine is to say that, uh, and probably the one that comes to, to mind immediately is to say that health is simply, uh, normal functioning. So it's the normal level of functioning of some, of, you know, level, normal level of function, let's say, in, in general. In fact, some people start to say, yeah, well. Well, of course there is that meaning of, of health, but there is another one, which is to say that just like you have pathophysiological processes, you also have processes that are um. Let's say trying to uh. Correct the effects of those or antagonize the effects of pathophysiological processes, and these you can call processes of health. So the idea is to study those processes. So just give you some very concrete examples, for instance, tissues would repair. They have mechanisms for repair, for instance, um, DNA has also many dedicated mechanisms to repair various damage, not all possible damage, obviously and not perfectly, but we have those mechanisms and some people would call them mechanisms of health. You know, so this, this is the idea that has emerged. So health is not, so of course health, health is still, uh, there still is a concept of health which is what are the norms of normality and all that, which is the very intuitive notion, but there is this emerging. The notion that it's also health can be also used as a generic term for specific mechanisms that would antagonize diseases or explain for instance longevity, that's meaning for instance exceptional longevity or that kind of thing."
+	},
+	{
+		"start_time": "32:15",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me ask you about homeostasis because that's something that people in medicine tend to focus a lot about when it comes to health. Does homeostasis allow for us to understand the variability of health?"
+	},
+	{
+		"start_time": "32:30",
+		"speaker": "Maël Lemoine",
+		"words": "Also a good question. I think homeostasis has been proposed first to precisely do the contrary, uh, explaining the invariability of health, uh, so across individuals, like it's the same thing you would find everywhere and all that. The problem is that this concept itself is so flexible. That it can also allow for uh to explain how for instance your health and my health would be also different. Like for instance, we probably don't have exactly the same blood pressure and we are, and one of us, for instance is very healthy with their blood pressure while the other uh would be, uh, would have, you know, problems with uh that, that level of. Blood pressure, for instance. So you have that kind of variability across systems and um in a sense when you have that concept, you don't explain much in the variability that uh that is involved and that's, that's kind of the problem with the concept of homeostasis. So that's why I think it's a good question to ask. Can you explain the variability? Yes, to some extent you can, uh, but it's also very limited because in a sense you can account for every situation as long as it's stable. So that's probably not, I mean, we probably need more."
+	},
+	{
+		"start_time": "33:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. So, another aspect that people tend to associate with homeostasis is the health of living organisms entirely accounted for by homeostasis."
+	},
+	{
+		"start_time": "33:59",
+		"speaker": "Maël Lemoine",
+		"words": "Probably, well, it depends on how homeostasis is defined. So some people would say obviously no, and they would say no because they think that there are other phenomena that cannot be described as examples of homeostasis. So that's typically the case for instance with what some people have. Proposed to call allostasis, uh, so allostasis is the idea that the balance of an organism can move in time or can change in time. So that's a general definition of allostasis as opposed to homeostasis where it's supposed to be stable in time, uh, so always the same. And there are a lot of, uh, let's say um debates in that field because many defenders of the notion of homeostasis have said that in fact the notion of homeostasis accounts for the variability of states in time for the same individual, uh, like your blood pressure is evolving in time, it would, it would increase if you're running, for instance, for, for, you know, your train or whatever and then it would decrease when you're sleeping and then, you know, so it's, it's, you know. So they would say we don't need another concept for that, but some defendants of allostasis have proposed a much more specific notion of haostasis. For instance, some of them have proposed this idea that sometimes the organisms are changing their balance or the level, for instance, of homeostasis, so to speak, not in reaction to a change in the environment. But in reaction to a future change in the environment, like uh in anticipation of something, like for instance your blood pressure is increasing before you need uh to have more blood pressure, for instance, to, to, to run, for instance, you know, that kind of of phenomena that involves some kind of cognitive aspect are sometimes called allostasis and you need that kind of concept if you want to uh account for the health of an organism. An organism that cannot do that would have problems and uh on the other hand you can say it's perfectly homeostatic. So these are the kind of uh discussions that has been uh around uh, yeah, those questions."
+	},
+	{
+		"start_time": "36:09",
+		"speaker": "Ricardo Lopes",
+		"words": "So I have just a couple of final questions and uh I'm going to read uh a couple of quotes from your book and ask you to comment on them. So toward the end of the book, you say that a quote. Health is indeed a complex evolved trait, which makes it also an object of investigation for evolutionary biology and philosophy of biology. So could you explain in what ways it is a complex evolved trait and how can it be investigated by evolutionary biology?"
+	},
+	{
+		"start_time": "36:44",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, so just to give you, let's, let's take one very, uh, like, yeah, let's make an analogy. For instance, you may be interested in the evolution of the feather just to take a very traditional example in evolutionary biology. So, uh, feather are used for thermal regulation, also flying and all that, and then you can try to. Draw, sketch, let's say a history of the evolution of of having feathers. So that's one thing you can do across species, the species you have already, the species that have disappeared in the past and all that. You can do that. You can do the same kind of investigations for traits like, for instance, air breathing. That has been done, that you would say, OK, air breathing is something that appeared in probably, uh, let's say a long time ago, blah blah blah. You can say in which circumstances, maybe when you have oxygen in the atmosphere, which requires, you know, you will have a, you can do that. It's also speculative and you can do that. Well, you can also. It's also possible to do that, for instance, for, let's say because I'm talking about air breathing. This involves, for instance, the kind of mechanisms of health we were just mentioning that you need for air breathing. So for instance, for instance, what would you do with the particles that you would breathe, breathe when you are breathing air? You would have particles. You need to protect your tissues from those particles. And in fact there is, there are a lot of mechanisms that we know are helping for that. So for instance, mucus production, for instance, on your epithelium, there is a very sophisticated system of that when you have two layers of mucus that are not moving at the same speed, you have ciliarries on the on the surface of the cell that would, you know, create that flux in your, in your lung that would protect your lung. Then there are also other mechanisms. You have more of them in the distal part of your lung than in the. PART of your lung because they are not exposed to the same kind of particles. So there's a lot of things to say on this, and these are simply mechanisms of resilience, um, yeah, let's say resilience, um, or health if you prefer, uh, of the lungs. So that's just one example that is, I think, very interesting, and that's, uh, so I hope it helps to see more concretely what, what I mean by the evolution of complex traits like resilience to air pollution, let's say, or air particles."
+	},
+	{
+		"start_time": "39:09",
+		"speaker": "Ricardo Lopes",
+		"words": "And finally, I would like to read you a quote where you highlight some of the differences between philosophy of medicine and philosophy of physiology, and I would like to, to ask you then to comment on it. So in philosophy of medicine, the ultimate goal of the conceptual work on diseases, disease, or health has always been social and ethical. In the end, it is about judgments and actions. In philosophy of physiology, the goal of all conceptual work is to push further our understanding of the natural phenomena of health and diseases. So what is the main difference that you are highlighting there?"
+	},
+	{
+		"start_time": "39:53",
+		"speaker": "Maël Lemoine",
+		"words": "As we said in the beginning, I think that in most, most, for the most part, philosophers of medicine have historically investigated medicine as a practice. And so this is what I'm saying here in that sentence, uh, some major determinants of that practice are, for instance, values, the way we judge whether someone has a disease or whether what they have, it should not be considered, uh, as a disease and all that. On the other hand, if you, if, I mean, if medicine was only based on that, we would lose something which is the, the exactly all the things we have discussed uh in, in our, in our interview, um, all these things would be missed. We need also this theoretical part, the part where you're starting to try to generalize, uh, you know, understand what is common to many diseases, maybe all of them, you know, all these things like. Is inflammation, for instance, is inflammation something major if you want to understand diseases? Is it involved in all diseases, by the way? Maybe it is. So maybe it's so important to understand diseases that diseases, in fact, the very definition of disease should include, for instance, the possibility of inflammation, for instance. You see, so those are the kinds of questions that are of major interest to researchers in those in that field. So it's really important for the science. And I think it's also very important for philosophers who are interested in the theoretical aspects of those uh sciences. So that's the main difference, the main contrast I would say. So it's perfectly possible that they, you know, coexist peacefully. It's just different approaches. So, and the main trait is to say that one is based on the practice of medicine while the other one is based on the science of, uh, medicine, let's say medical sciences or biomedical sciences."
+	},
+	{
+		"start_time": "41:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Great. So the book is again Philosophy of Physiology. I will be leaving a link to it in the description of the interview. And Doctor Lewan, uh, just before we go, apart from the book, would you like to tell people where they can find your work on the internet?"
+	},
+	{
+		"start_time": "42:00",
+		"speaker": "Maël Lemoine",
+		"words": "Yes, I mean, you can go on the website of our team, so it's called Immunoconcept. I think if you look into that, you, you will find our team and my personal page is there with my recent publications and research programs."
+	},
+	{
+		"start_time": "42:15",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So, uh, look, I, I really love the interview. I would recommend your book to everyone interested in questions surrounding medicine and particularly what is disease and what is health. It's a very interesting read. So thank you so much for coming on the show to talk about it."
+	},
+	{
+		"start_time": "42:33",
+		"speaker": "Maël Lemoine",
+		"words": "Thank you again for your invitation."
+	},
+	{
+		"start_time": "42:36",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingberrd, Arnaud Wolff, Tim Hollis, Eric Elena, John Connors, Philip Forst Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herzognun, Machael Jonathan Labran, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punter DaRosmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltonin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pancortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophannus, Chris Williamson, Peter Wolozin, David Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Jr. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers is are Webb, Jim Frank Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlomon Negro, Al Nick Cortiz and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan, Kanis, and Rosie. Thank you for all."
+	}
+]
