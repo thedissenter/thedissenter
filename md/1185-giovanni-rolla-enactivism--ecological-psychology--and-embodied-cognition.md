@@ -5,6 +5,7 @@
 	"episodeid": "1185",
 	"excerpt": "Dr. Giovanni Rolla is Professor of Philosophy at Federal University of Bahia (UFBA), Brazil. His research is about enactivism, ecological psychology and radically embodied cognition in general (sometimes he deals with traditional epistemology as well, especially know-how, normativity and rationality). He is also a founding member of the Enactive Cognition and Narrative Practices research group (University of Wollongong), and a founding member of the Cognition, Language, Enaction and Affectivity research group.",
 	"image": "https://i.ytimg.com/vi/O1cLBRGDKMU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1185-olympia-campbell-violence-against-women-across/id1451347236?i=1000739900916&uo=4",
 	"publishDate": 2025-12-05,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1185-Olympia-Campbell-Violence-Against-Women-Across-Societies-e34abi0",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1185 Giovanni Rolla: Enactivism, Ecological Psychology, and Embodied Cognition",
-	"youtubeid": "O1cLBRGDKMU"
+	"vtt": "1185.vtt",
+	"youtubeid": "O1cLBRGDKMU",
+	"transcript": "1185.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 10th 2025.  
