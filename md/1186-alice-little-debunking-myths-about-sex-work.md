@@ -9,7 +9,9 @@
 	"publishDate": 2025-12-08,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1186-Alice-Little-Debunking-Myths-About-Sex-Work-e3bvpbr",
 	"title": "#1186 Alice Little: Debunking Myths About Sex Work",
-	"youtubeid": "D7EPbYBJYrI"
+	"vtt": "1186.vtt",
+	"youtubeid": "D7EPbYBJYrI",
+	"transcript": "1186.lines.json"
 }
 ---
 RECORDED ON DECEMBER 6th 2025.  
