@@ -1,0 +1,41 @@
+---
+{
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/111404783/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-19%2Fa39ac7d9-a66e-c395-7315-4e0971c63db8.m4a",
+	"draft": false,
+	"episodeid": "1187",
+	"excerpt": "Dr. Peter Turchin is Emeritus Professor at the University of Connecticut in the departments of ecology and evolutionary biology, anthropology, and mathematics. He is a project leader at the Complexity Science Hub Vienna and a research associate at the School of Anthropology at the University of Oxford. He is a complexity scientist who works in the field of historical social science that he and his colleagues call cliodynamics. He is the author of books like War and Peace and War, Ages of Discord, Ultrasociety, End Times, and The Great Holocene Transformation.",
+	"image": "https://i.ytimg.com/vi/d2VTHcUeCA0/maxresdefault.jpg",
+	"publishDate": 2025-12-11,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1187-Peter-Turchin-The-Collapse-of-Complex-Societies--Elite-Overproduction--and-Social-Unrest-e3b6a9f",
+	"tags": [
+		"Politics",
+		"History",
+		"General Science"
+	],
+	"title": "#1187 Peter Turchin: The Collapse of Complex Societies, Elite Overproduction, and Social Unrest",
+	"youtubeid": "d2VTHcUeCA0"
+}
+---
+RECORDED ON NOVEMBER 19th 2025.  
+Dr. Peter Turchin is Emeritus Professor at the University of Connecticut in the departments of ecology and evolutionary biology, anthropology, and mathematics. He is a project leader at the Complexity Science Hub Vienna and a research associate at the School of Anthropology at the University of Oxford. He is a complexity scientist who works in the field of historical social science that he and his colleagues call cliodynamics. He is the author of books like War and Peace and War, Ages of Discord, Ultrasociety, End Times, and The Great Holocene Transformation.
+
+In this episode, we start by talking about what causes political communities to cohere, and what causes the collapse of complex societies. We discuss the phenomenon of elite overproduction, its social and political consequences, and modern elite overproduction since the late 1970s. We talk about social unrest in the US and Western Europe in the current decade. Finally, we discuss whether violence is inevitable, and how we can solve elite overproduction in a non-violent way.
+
+Time Links:  
+<time>00:00</time> Intro  
+<time>00:39</time> What causes political communities to cohere, and what causes them to fall apart?  
+<time>07:17</time> What causes the collapse of complex societies?  
+<time>18:26</time> Elite overproduction, and its social and political consequences  
+<time>22:55</time> Elite overproduction since the late 1970s  
+<time>32:14</time> Social unrest in the US and Western Europe in the 2020s  
+<time>38:05</time> Is violence inevitable?  
+<time>43:41</time> Solving elite overproduction in a non-violent way  
+<time>46:53</time> Follow Dr. Turchin’s work!
+
+---
+
+Follow Dr. Turchin’s work:  
+Website: https://peterturchin.com/  
+Substack: https://tinyurl.com/3fexw3dv  
+Books on Amazon: https://tinyurl.com/5nst67ya  
+Twitter handle: @Peter_Turchin
