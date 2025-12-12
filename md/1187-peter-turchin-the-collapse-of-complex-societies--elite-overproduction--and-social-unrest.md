@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1187 Peter Turchin: The Collapse of Complex Societies, Elite Overproduction, and Social Unrest",
-	"youtubeid": "d2VTHcUeCA0"
+	"vtt": "1187.vtt",
+	"youtubeid": "d2VTHcUeCA0",
+	"transcript": "1187.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 19th 2025.  
