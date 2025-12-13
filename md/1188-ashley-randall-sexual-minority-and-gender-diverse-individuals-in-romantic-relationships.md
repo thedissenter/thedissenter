@@ -11,7 +11,9 @@
 		"Psychology"
 	],
 	"title": "#1188 Ashley Randall: Sexual Minority and Gender-Diverse Individuals in Romantic Relationships",
-	"youtubeid": "e_JEd758FWQ"
+	"vtt": "1188.vtt",
+	"youtubeid": "e_JEd758FWQ",
+	"transcript": "1188.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 11th 2025.  

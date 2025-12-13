@@ -5,6 +5,7 @@
 	"episodeid": "1187",
 	"excerpt": "Dr. Peter Turchin is Emeritus Professor at the University of Connecticut in the departments of ecology and evolutionary biology, anthropology, and mathematics. He is a project leader at the Complexity Science Hub Vienna and a research associate at the School of Anthropology at the University of Oxford. He is a complexity scientist who works in the field of historical social science that he and his colleagues call cliodynamics. He is the author of books like War and Peace and War, Ages of Discord, Ultrasociety, End Times, and The Great Holocene Transformation.",
 	"image": "https://i.ytimg.com/vi/d2VTHcUeCA0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1187-peter-turchin-the-collapse-of-complex/id1451347236?i=1000740889285&uo=4",
 	"publishDate": 2025-12-11,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1187-Peter-Turchin-The-Collapse-of-Complex-Societies--Elite-Overproduction--and-Social-Unrest-e3b6a9f",
 	"tags": [
