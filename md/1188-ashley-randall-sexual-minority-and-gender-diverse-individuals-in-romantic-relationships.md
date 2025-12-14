@@ -5,6 +5,7 @@
 	"episodeid": "1188",
 	"excerpt": "Dr. Ashley Randall is a Professor in the School of Counseling and Counseling Psychology at Arizona State University. She studies couples’ interpersonal emotion regulation. Although stressful experiences can have deleterious effects on individual well-being in a variety relationships and settings, romantic partners are in a unique position to regulate each other’s emotions during times of distress.",
 	"image": "https://i.ytimg.com/vi/e_JEd758FWQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1188-ashley-randall-sexual-minority-and-gender/id1451347236?i=1000741046008&uo=4",
 	"publishDate": 2025-12-12,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1188-Ashley-Randall-Sexual-Minority-and-Gender-Diverse-Individuals-in-Romantic-Relationships-e383jai",
 	"tags": [
