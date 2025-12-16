@@ -5,10 +5,13 @@
 	"episodeid": "1189",
 	"excerpt": "Nina Hartley is a legendary pornographic film actress and sex educator. She has been described by Las Vegas Weekly as an \"outspoken feminist\" and \"advocate for sexual freedom\".",
 	"image": "https://i.ytimg.com/vi/bGIBunw_kXo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1189-nina-hartley-pornography-sex-education-and-feminism/id1451347236?i=1000741416417&uo=4",
 	"publishDate": 2025-12-15,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1189-Nina-Hartley-Pornography--Sex-Education--and-Feminism-e3c6a39",
 	"title": "#1189 Nina Hartley: Pornography, Sex Education, and Feminism",
-	"youtubeid": "bGIBunw_kXo"
+	"vtt": "1189.vtt",
+	"youtubeid": "bGIBunw_kXo",
+	"transcript": "1189.lines.json"
 }
 ---
 RECORDED ON DECEMBER 10th 2025.  
