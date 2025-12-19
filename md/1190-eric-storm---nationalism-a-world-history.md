@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1190 Eric Storm - Nationalism: A World History",
-	"youtubeid": "xSCMXeQODCM"
+	"vtt": "1190.vtt",
+	"youtubeid": "xSCMXeQODCM",
+	"transcript": "1190.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 19th 2025.  
