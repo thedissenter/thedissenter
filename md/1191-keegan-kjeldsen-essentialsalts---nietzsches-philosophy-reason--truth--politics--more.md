@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1191 Keegan Kjeldsen (Essentialsalts) - Nietzsche's Philosophy: Reason, Truth, Politics & More",
-	"youtubeid": "DxNT0MrL1ls"
+	"vtt": "1191.vtt",
+	"youtubeid": "DxNT0MrL1ls",
+	"transcript": "1191.lines.json"
 }
 ---
 RECORDED ON DECEMBER 11th 2025.  
