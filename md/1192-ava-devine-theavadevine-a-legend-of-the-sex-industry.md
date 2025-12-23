@@ -8,7 +8,9 @@
 	"publishDate": 2025-12-22,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1192-Ava-Devine-A-Legend-of-the-Sex-Industry-e3bl90a",
 	"title": "#1192 Ava Devine (@TheAvaDevine): A Legend of the Sex Industry",
-	"youtubeid": "npEJgyYTSaU"
+	"vtt": "1192.vtt",
+	"youtubeid": "npEJgyYTSaU",
+	"transcript": "1192.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 29th 2025.  
