@@ -5,6 +5,7 @@
 	"episodeid": "1192",
 	"excerpt": "Ava Devine is an adult film actress, and the host of the Ava Devine’s Bad Advice Podcast.",
 	"image": "https://i.ytimg.com/vi/npEJgyYTSaU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1192-ava-devine-a-legend-of-the-sex-industry/id1451347236?i=1000742365498&uo=4",
 	"publishDate": 2025-12-22,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1192-Ava-Devine-A-Legend-of-the-Sex-Industry-e3bl90a",
 	"title": "#1192 Ava Devine (@TheAvaDevine): A Legend of the Sex Industry",
