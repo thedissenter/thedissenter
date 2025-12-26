@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/108807284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-25%2F18b9878c-b611-be8b-1c4e-fd37cdefc36c.m4a",
 	"draft": false,
 	"episodeid": "1193",
 	"excerpt": "Dr. Jennifer Nagel is a Professor in the Department of Philosophy at the University of Toronto. Her research focuses on knowledge, belief, and our capacities to track these states in ourselves and others. Dr. Nagel is interested in the history of epistemology, both in the Western tradition back to Plato, and in the Classical Indian and Tibetan traditions. She also works in contemporary philosophy of mind, with special interests in metacognition and mental state attribution.",
 	"image": "https://i.ytimg.com/vi/-d-qK5kwXu0/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1193-jennifer-nagel-epistemic-intuitions-knowledge/id1451347236?i=1000742715412&uo=4",
 	"publishDate": 2025-12-25,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1193-Jennifer-Nagel-Epistemic-Intuitions--Knowledge--and-Common-Knowledge-e38n1lk",
 	"tags": [
 		"Philosophy"
 	],
