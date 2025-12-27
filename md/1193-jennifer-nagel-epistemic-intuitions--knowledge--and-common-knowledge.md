@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1193 Jennifer Nagel: Epistemic Intuitions, Knowledge, and Common Knowledge",
-	"youtubeid": "-d-qK5kwXu0"
+	"vtt": "1193.vtt",
+	"youtubeid": "-d-qK5kwXu0",
+	"transcript": "1193.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 25th 2025.  
