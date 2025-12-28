@@ -12,7 +12,9 @@
 		"Entrevistas em Português"
 	],
 	"title": "#1194 Kah Dantas: Trabalho Sexual, Marxismo e Feminismo",
-	"youtubeid": "HsbPNGZRKL8"
+	"vtt": "1194.vtt",
+	"youtubeid": "HsbPNGZRKL8",
+	"transcript": "1194.lines.json"
 }
 ---
 RECORDED ON DECEMBER 19th 2025.  
