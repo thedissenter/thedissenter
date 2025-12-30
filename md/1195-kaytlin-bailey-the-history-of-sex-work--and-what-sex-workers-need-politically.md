@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/112828481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-18%2F701256ce-969d-5d55-c197-f965cfcd7727.m4a",
 	"draft": false,
 	"episodeid": "1195",
 	"excerpt": "Kaytlin Bailey is a sex worker rights advocate, comedian, and writer. She is the Founder and Executive Director of Old Pros, a nonprofit that uses storytelling to advocate for sex worker rights. Host of The Oldest Profession Podcast, she is also the creator of The Oldest Profession, a mad dash through 10,000 years of history from a sex worker’s perspective, which can be performed as a lecture or a theatrical performance.",
 	"image": "https://i.ytimg.com/vi/vt8aYgyuD9E/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1195-kaytlin-bailey-the-history-of-sex-work-and/id1451347236?i=1000743097000&uo=4",
 	"publishDate": 2025-12-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1195-Kaytlin-Bailey-The-History-of-Sex-Work--and-What-Sex-Workers-Need-Politically-e3chok1",
 	"title": "#1195 Kaytlin Bailey: The History of Sex Work, and What Sex Workers Need Politically",
 	"youtubeid": "vt8aYgyuD9E"
 }
