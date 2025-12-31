@@ -9,7 +9,9 @@
 	"publishDate": 2025-12-29,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1195-Kaytlin-Bailey-The-History-of-Sex-Work--and-What-Sex-Workers-Need-Politically-e3chok1",
 	"title": "#1195 Kaytlin Bailey: The History of Sex Work, and What Sex Workers Need Politically",
-	"youtubeid": "vt8aYgyuD9E"
+	"vtt": "1195.vtt",
+	"youtubeid": "vt8aYgyuD9E",
+	"transcript": "1195.lines.json"
 }
 ---
 RECORDED ON DECEMBER 18th 2025.  
