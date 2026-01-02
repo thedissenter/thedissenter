@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/109066936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2Ff18ecdf1-ebe5-8325-9682-bcfa5602036d.m4a",
 	"draft": false,
 	"episodeid": "1196",
 	"excerpt": "Dr. Walter Veit is a Lecturer (Assistant Professor) in Philosophy at the University of Reading, where he is also the director of the PPE program as well as the philosophy MA program. His interests are broad, but he works primarily in and at the intersections of (i) the Philosophy of Cognitive and Biological Sciences, (ii) the Philosophy of Mind, and (iii) Applied Ethics. Much of his recent writing has been on animal minds, welfare, and ethics, as well as evolution. He is the author of A Philosophy for the Science of Animal Consciousness.",
 	"image": "https://i.ytimg.com/vi/x8ro4waSmG0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1196-walter-veit-a-philosophy-for-the-science/id1451347236?i=1000743444379&uo=4",
 	"publishDate": 2026-01-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1196-Walter-Veit-A-Philosophy-for-the-Science-of-Animal-Consciousness-e38uv7o",
 	"tags": [
 		"Philosophy"
 	],
