@@ -5,6 +5,7 @@
 	"episodeid": "1197",
 	"excerpt": "Dr. Mark Wicclair is Professor of Philosophy Emeritus at West Virginia University and Adjunct Professor of Medicine at the University of Pittsburgh. His primary research and teaching interests are in bioethics and applied ethics. He is the author of Conscientious Objection in Health Care: An Ethical Analysis, Ethics and the Elderly, and more recently, Conscientious Objection in Medicine.",
 	"image": "https://i.ytimg.com/vi/IIlYyAFhqRE/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1197-mark-wicclair-conscientious-objection-in-medicine/id1451347236?i=1000743547523&uo=4",
 	"publishDate": 2026-01-02,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1197-Mark-Wicclair-Conscientious-Objection-in-Medicine-e35jddi",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1197 Mark Wicclair: Conscientious Objection in Medicine",
-	"youtubeid": "IIlYyAFhqRE"
+	"vtt": "1197.vtt",
+	"youtubeid": "IIlYyAFhqRE",
+	"transcript": "1197.lines.json"
 }
 ---
 RECORDED ON July 15th 2025.  
