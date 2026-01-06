@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/112685376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2Fa7d11ded-d32d-c254-29c4-b19d99c28118.m4a",
 	"draft": false,
 	"episodeid": "1198",
 	"excerpt": "Rebecca Love is an adult film actress who has been in the industry since 1995. She furthered her career and had the opportunity to be in Erotica Films on HBO, Showtime and Cinemax. She is also the cofounder of “Adult Film Star Network” which educates people in the adult industry.",
 	"image": "https://i.ytimg.com/vi/UIjFc4eXpD8/maxresdefault.jpg",
 	"publishDate": 2026-01-05,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1198-Rebecca-Love-Where-Negative-Attitudes-Towards-Sex-Workers-Stem-From-e3cdcs0",
 	"title": "#1198 Rebecca Love: Where Negative Attitudes Towards Sex Workers Stem From",
 	"youtubeid": "UIjFc4eXpD8"
 }
