@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/105627502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-17%2F57c057da-9ae4-c5a0-8f25-fed8dfa991d0.m4a",
 	"draft": false,
 	"episodeid": "1199",
 	"excerpt": "Dr. Jason Clarke is Lecturer in Psychology in the School of Human and Social Sciences at the University of West London. He is a cognitive scientist whose research focuses on revealing the psychological and neural processes underlying visual perception, memory, and consciousness. He is the author of Constructing Experience: Expectation and Attention in Perception.",
 	"image": "https://i.ytimg.com/vi/d0NrOxiLOTk/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1199-jason-clarke-constructing-experience-expectation/id1451347236?i=1000744338654&uo=4",
 	"publishDate": 2026-01-08,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1199-Jason-Clarke---Constructing-Experience-Expectation-and-Attention-in-Perception-e35m0de",
 	"tags": [
 		"Psychology"
 	],
