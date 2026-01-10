@@ -1,0 +1,5266 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:03.039
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:03.039 --> 00:00:06.179
+Dissenter. I'm your host, as always, Ricardo Lops, and
+
+3
+00:00:06.179 --> 00:00:09.010
+today I'm joined by Dr. Jason Clark. He is
+
+4
+00:00:09.010 --> 00:00:12.140
+a lecturer in psychology in the university, in the
+
+5
+00:00:12.140 --> 00:00:14.779
+School of Human and Social Sciences at the University
+
+6
+00:00:14.779 --> 00:00:18.059
+of West London. And today we're talking about his
+
+7
+00:00:18.059 --> 00:00:24.440
+book Constructing Experience, Expectation and Attention in Perception. So
+
+8
+00:00:24.440 --> 00:00:26.440
+Doctor Clark, welcome to the show. It's a pleasure
+
+9
+00:00:26.440 --> 00:00:27.079
+to everyone.
+
+10
+00:00:27.780 --> 00:00:29.440
+Thank you, Ricardo. It's a pleasure to be on.
+
+11
+00:00:29.500 --> 00:00:32.418
+I've watched lots of your, uh, episodes and podcasts
+
+12
+00:00:32.418 --> 00:00:34.810
+with lots of really interesting people and and they're
+
+13
+00:00:34.810 --> 00:00:37.299
+very stimulating, so it's great to be part of
+
+14
+00:00:37.299 --> 00:00:38.560
+that now. Yeah.
+
+15
+00:00:39.060 --> 00:00:42.029
+Thank you. Thank you so much. So tell us
+
+16
+00:00:42.029 --> 00:00:47.419
+first about the predictive processing framework and how the
+
+17
+00:00:47.419 --> 00:00:49.520
+brain is a predictive machine.
+
+18
+00:00:50.700 --> 00:00:53.509
+Yeah, great. OK. I think maybe the best way
+
+19
+00:00:53.509 --> 00:00:57.830
+into this is to think about what the brain
+
+20
+00:00:57.830 --> 00:01:00.610
+is, uh, where it is and what the world
+
+21
+00:01:00.610 --> 00:01:04.069
+is, right? So, you know, human beings got brains,
+
+22
+00:01:04.110 --> 00:01:07.790
+they're encased in these bony skulls, and these brains
+
+23
+00:01:07.790 --> 00:01:11.910
+are fed sensory information through various channels, through visual
+
+24
+00:01:11.910 --> 00:01:16.050
+channels, through Um, auditory channels through the skin, etc.
+
+25
+00:01:16.190 --> 00:01:19.790
+ALL this sensory information coming into the body and
+
+26
+00:01:19.790 --> 00:01:22.260
+into the nervous system and into the brain. But
+
+27
+00:01:22.260 --> 00:01:25.110
+there's a fundamental problem that the brain has, right?
+
+28
+00:01:25.180 --> 00:01:28.580
+The brain is this, uh, you know, 80 billion
+
+29
+00:01:28.580 --> 00:01:33.190
+or so massive cells inside the skull. And from
+
+30
+00:01:33.190 --> 00:01:37.150
+within that kind of closed skull, it has to
+
+31
+00:01:37.150 --> 00:01:42.339
+somehow Understand the world beyond it, right? So, uh,
+
+32
+00:01:42.410 --> 00:01:44.410
+and if it doesn't do that, then it's gonna
+
+33
+00:01:44.410 --> 00:01:47.839
+pretty much die very quickly. So, it, it, so,
+
+34
+00:01:48.220 --> 00:01:50.739
+in order to do that, the brain, it seems,
+
+35
+00:01:50.819 --> 00:01:54.540
+from theory, builds this kind of internal model of
+
+36
+00:01:54.540 --> 00:01:56.940
+what it thinks. And again, I use it thinks,
+
+37
+00:01:57.019 --> 00:01:59.059
+it's not thinking in the sense that it's consciously
+
+38
+00:01:59.059 --> 00:02:01.139
+thinking this, but what is it, what it, what
+
+39
+00:02:01.139 --> 00:02:04.860
+it's inferring the outside world to be. In other
+
+40
+00:02:04.860 --> 00:02:10.199
+words, what it's inferring the Causes of the sensory,
+
+41
+00:02:10.288 --> 00:02:15.039
+uh, the, the, the, uh, outside world impinging on
+
+42
+00:02:15.039 --> 00:02:17.800
+the senses, it kind of infers what the causes
+
+43
+00:02:17.800 --> 00:02:21.440
+of those are. And that's our brain's kind of
+
+44
+00:02:21.440 --> 00:02:25.639
+world model, what it believes is happening around us
+
+45
+00:02:25.639 --> 00:02:28.639
+now in terms of, you know, sound and smell
+
+46
+00:02:28.639 --> 00:02:31.110
+and taste and touch and objects, that kind of
+
+47
+00:02:31.110 --> 00:02:33.240
+thing. So, in other words, it's a kind of
+
+48
+00:02:33.240 --> 00:02:36.639
+simulation. Of what it thinks the world is. And
+
+49
+00:02:36.639 --> 00:02:39.949
+we are living inside that sim simulation. So the
+
+50
+00:02:39.949 --> 00:02:43.679
+predictive brain hypothesis is basically saying that that's what
+
+51
+00:02:43.679 --> 00:02:47.399
+the brain is doing. It's, um, given these limitations,
+
+52
+00:02:47.520 --> 00:02:50.479
+given that it is in this situation where it
+
+53
+00:02:50.479 --> 00:02:53.210
+doesn't have You know, it can't step out of
+
+54
+00:02:53.210 --> 00:02:54.770
+outside of itself to see what the world is
+
+55
+00:02:54.770 --> 00:02:57.220
+really like. It has to use the evidence provided
+
+56
+00:02:57.220 --> 00:03:00.259
+by the senses to build up this model of
+
+57
+00:03:00.259 --> 00:03:02.500
+what it thinks the world is. So, what it
+
+58
+00:03:02.500 --> 00:03:07.899
+does is it uses, uh, predictions, learned from past
+
+59
+00:03:07.899 --> 00:03:14.080
+experience, uh, plus this sensory information coming in to
+
+60
+00:03:14.460 --> 00:03:18.979
+build this model. And the model is constantly refined,
+
+61
+00:03:19.059 --> 00:03:22.300
+so the brain is constantly learning. Because sometimes the
+
+62
+00:03:22.300 --> 00:03:26.889
+model makes mistakes, it gets things wrong, and then
+
+63
+00:03:27.350 --> 00:03:31.949
+it can correct those mistakes, uh, via the information
+
+64
+00:03:31.949 --> 00:03:34.470
+coming through the sensory channels which serve as prediction
+
+65
+00:03:34.470 --> 00:03:38.509
+errors. So they, um, if the model contradicts what's
+
+66
+00:03:38.509 --> 00:03:40.660
+coming in through the senses, then the model updates.
+
+67
+00:03:41.070 --> 00:03:43.470
+And this is what we call prediction error minimization.
+
+68
+00:03:43.789 --> 00:03:45.550
+And the, uh, the aim of the brain, I
+
+69
+00:03:45.550 --> 00:03:48.990
+suppose, again, using, you know, uh, Perhaps not, I
+
+70
+00:03:48.990 --> 00:03:50.949
+shouldn't use the aim, but the, it seems the
+
+71
+00:03:50.949 --> 00:03:52.690
+function of the brain is to kind of build
+
+72
+00:03:52.690 --> 00:03:55.630
+this model that enables us to kind of survive,
+
+73
+00:03:55.740 --> 00:03:59.910
+enables us to, uh, maintain our existence despite, you
+
+74
+00:03:59.910 --> 00:04:03.509
+know, the, uh, you know, the kind of second
+
+75
+00:04:03.509 --> 00:04:06.309
+law of thermodynamics entropy trying to kind of break
+
+76
+00:04:06.309 --> 00:04:09.860
+us down. We're trying to resist that. Um, ANYWAY,
+
+77
+00:04:09.949 --> 00:04:11.990
+so that's what, uh, the predictive brain is, and
+
+78
+00:04:11.990 --> 00:04:16.798
+it's been, um, you know, uh, Uh, written about
+
+79
+00:04:16.798 --> 00:04:20.279
+by people like Karl Friston and Andy Clark and
+
+80
+00:04:20.279 --> 00:04:23.899
+Jacob Howie and Anil Seth among many, many others.
+
+81
+00:04:24.239 --> 00:04:26.959
+Um, YEAH, so that's, that's, that's what the predictive
+
+82
+00:04:26.959 --> 00:04:27.600
+brain is.
+
+83
+00:04:28.929 --> 00:04:31.459
+So tell us a little bit more about the
+
+84
+00:04:31.459 --> 00:04:36.140
+prediction errors you mentioned there. How are they generated
+
+85
+00:04:36.140 --> 00:04:39.459
+and how are they minimized?
+
+86
+00:04:40.299 --> 00:04:42.660
+Yeah, good. So, when we look at the world,
+
+87
+00:04:42.739 --> 00:04:44.209
+let me think of an example. So when we
+
+88
+00:04:44.209 --> 00:04:47.940
+look at the world, um, and let's say we
+
+89
+00:04:47.940 --> 00:04:50.640
+are. I can't think of an example, in a
+
+90
+00:04:50.640 --> 00:04:55.390
+park, and maybe, uh, so when we're in the
+
+91
+00:04:55.390 --> 00:04:58.559
+park, we have a lot of expectations about what
+
+92
+00:04:58.559 --> 00:05:00.160
+we're going to see in the park. So our
+
+93
+00:05:00.160 --> 00:05:03.000
+brain already kind of expects to see certain things
+
+94
+00:05:03.000 --> 00:05:05.420
+in the park. So we walk in the park
+
+95
+00:05:05.559 --> 00:05:08.850
+and let's say we see a flash of white
+
+96
+00:05:09.119 --> 00:05:15.119
+fur somewhere in the distance. And this is Highly
+
+97
+00:05:15.119 --> 00:05:19.730
+ambiguous because that flash of white texture could have
+
+98
+00:05:19.730 --> 00:05:23.640
+come from many different objects in the world. So,
+
+99
+00:05:23.649 --> 00:05:25.410
+it could be a fur coat, it could be
+
+100
+00:05:25.410 --> 00:05:27.570
+a dog, it could be a polar bear, it
+
+101
+00:05:27.570 --> 00:05:31.929
+could be many different things. And so, when you
+
+102
+00:05:31.929 --> 00:05:34.290
+come into the park, maybe you have, because of
+
+103
+00:05:34.290 --> 00:05:37.269
+this world model of parks, you have the expectation
+
+104
+00:05:37.570 --> 00:05:39.489
+that you're going to see dogs, that kind of
+
+105
+00:05:39.489 --> 00:05:41.549
+thing in the park. So when you see this
+
+106
+00:05:41.769 --> 00:05:48.910
+flash of white texture, Uh, you. Uh, YOU predict
+
+107
+00:05:49.089 --> 00:05:52.130
+that this is, uh, a dog. But maybe when
+
+108
+00:05:52.130 --> 00:05:56.529
+you get a bit closer, uh, You realize that
+
+109
+00:05:56.529 --> 00:05:59.459
+it's not a dog, maybe there are some features
+
+110
+00:05:59.459 --> 00:06:02.059
+of that creature that don't fit with your dog
+
+111
+00:06:02.059 --> 00:06:06.380
+hypothesis, and you have to revise your hypothesis. So
+
+112
+00:06:06.380 --> 00:06:07.940
+now you realize, oh my God, it is a
+
+113
+00:06:07.940 --> 00:06:09.500
+polar bear, and what the hell is a polar
+
+114
+00:06:09.500 --> 00:06:12.200
+bear doing in the park? So it's highly surprising,
+
+115
+00:06:12.760 --> 00:06:15.119
+but this, uh, the fact that it is a
+
+116
+00:06:15.119 --> 00:06:17.640
+polar bear and that the features don't match the
+
+117
+00:06:17.640 --> 00:06:20.350
+model of the dog that you have, these serve
+
+118
+00:06:20.350 --> 00:06:25.200
+as prediction errors, and these serve to update your
+
+119
+00:06:25.200 --> 00:06:28.130
+model of what's going on in the world. And
+
+120
+00:06:29.130 --> 00:06:32.880
+And the aim, I suppose, is for the brain
+
+121
+00:06:32.880 --> 00:06:35.730
+to minimize these prediction errors so that it gets
+
+122
+00:06:35.730 --> 00:06:37.890
+this, you know, the best model of the world
+
+123
+00:06:37.890 --> 00:06:40.890
+that it can given its epistemic situation of being
+
+124
+00:06:40.890 --> 00:06:45.089
+inside this bony skull. Um, SO yeah, that's, uh,
+
+125
+00:06:45.329 --> 00:06:48.690
+so prediction errors are what serve to update the
+
+126
+00:06:48.690 --> 00:06:51.529
+model. So we have the model, which is our
+
+127
+00:06:51.529 --> 00:06:55.660
+brain's best interpretation of what's going on. Uh, AND
+
+128
+00:06:56.459 --> 00:06:59.540
+information comes in through the senses. This information can
+
+129
+00:06:59.540 --> 00:07:01.690
+either align with the model, in which case there
+
+130
+00:07:01.690 --> 00:07:06.040
+is no error. Or it can misalign with the
+
+131
+00:07:06.040 --> 00:07:09.329
+model and, in which case it is, uh, uh,
+
+132
+00:07:09.690 --> 00:07:12.209
+it's, it doesn't align with the, the prediction, so
+
+133
+00:07:12.209 --> 00:07:14.130
+it's called a prediction error, and in which case,
+
+134
+00:07:14.209 --> 00:07:15.970
+then we update the, the brain would update the
+
+135
+00:07:15.970 --> 00:07:17.970
+model or the system would update the model, yeah.
+
+136
+00:07:18.820 --> 00:07:21.540
+And this model you are referring to is what
+
+137
+00:07:21.540 --> 00:07:24.309
+is called the generative model, correct?
+
+138
+00:07:24.899 --> 00:07:28.980
+Yeah, exactly. Yeah. So, the generative model is our
+
+139
+00:07:28.980 --> 00:07:33.779
+brain's, uh, world model, right? To unpack that, that
+
+140
+00:07:33.779 --> 00:07:36.779
+means, uh, that we can think of it in
+
+141
+00:07:36.779 --> 00:07:41.239
+terms of a hierarchy of predictions, going from very
+
+142
+00:07:41.239 --> 00:07:46.454
+abstract levels to predictions about, so. Abstract levels, such
+
+143
+00:07:46.454 --> 00:07:51.454
+as time flows or space is three dimensional, or
+
+144
+00:07:51.454 --> 00:07:55.255
+objects, uh, can't exist, you know, two objects can't
+
+145
+00:07:55.255 --> 00:07:57.734
+exist in one place at the same time, or
+
+146
+00:07:57.734 --> 00:08:02.255
+light comes from above. These are beliefs, predictions that
+
+147
+00:08:02.255 --> 00:08:06.595
+we have that are, if not hardwired, they're very,
+
+148
+00:08:06.804 --> 00:08:10.434
+uh, we learn them very quickly and they become
+
+149
+00:08:10.434 --> 00:08:13.605
+a real framework for how we understand the world
+
+150
+00:08:13.605 --> 00:08:16.239
+and how we perceive the world. Uh, SO they're
+
+151
+00:08:16.239 --> 00:08:20.640
+abstract, um, predictions. And then you come further down
+
+152
+00:08:20.640 --> 00:08:23.279
+in the hierarchy, you get to predictions about objects
+
+153
+00:08:23.279 --> 00:08:26.559
+in the world, um, you know, and then you
+
+154
+00:08:26.559 --> 00:08:28.880
+come further down in the hierarchy and you're getting
+
+155
+00:08:28.880 --> 00:08:31.799
+to the features of, of the world, the colors,
+
+156
+00:08:31.880 --> 00:08:35.440
+the motion, the textures, the, uh, edges of objects,
+
+157
+00:08:35.520 --> 00:08:39.940
+etc. And the idea is that, um, there's this
+
+158
+00:08:39.940 --> 00:08:44.539
+hierarchy of these cascading predictions from abstract through to
+
+159
+00:08:44.539 --> 00:08:48.859
+sensory level predictions, and that's our world model. That's
+
+160
+00:08:48.859 --> 00:08:51.989
+how we currently Perceive the world, think of the
+
+161
+00:08:51.989 --> 00:08:56.710
+world, understand the world, but that is constrained by
+
+162
+00:08:56.710 --> 00:09:00.510
+these, by the sens sensory information coming into the
+
+163
+00:09:00.510 --> 00:09:03.780
+senses, which if it conflicts with the model, then
+
+164
+00:09:03.989 --> 00:09:07.520
+the model can be updated by these prediction errors.
+
+165
+00:09:07.969 --> 00:09:08.239
+Yeah.
+
+166
+00:09:09.859 --> 00:09:12.900
+OK, so let me ask you now, yes, you're
+
+167
+00:09:12.900 --> 00:09:14.140
+going to say something.
+
+168
+00:09:14.799 --> 00:09:16.200
+No, I was gonna say, so that, yeah, that
+
+169
+00:09:16.200 --> 00:09:18.640
+is the generative model. It's, uh, you know, in
+
+170
+00:09:18.640 --> 00:09:21.340
+kind of simple terms, it's the, the, the model,
+
+171
+00:09:21.520 --> 00:09:23.359
+it's a kind of reality model, and I'm, I'm,
+
+172
+00:09:23.429 --> 00:09:25.919
+I'm kind of, uh, kind of taking that from
+
+173
+00:09:25.919 --> 00:09:30.200
+a recent paper by, uh, Lauanan, uh, Chandari and
+
+174
+00:09:30.200 --> 00:09:33.039
+Friston called A Beautiful Leap Theory of Consciousness, which
+
+175
+00:09:33.039 --> 00:09:36.520
+what I say is a really interesting, uh, paper.
+
+176
+00:09:36.900 --> 00:09:38.979
+Um, BUT yeah, it's a reality model. It's our,
+
+177
+00:09:39.140 --> 00:09:41.460
+it's, it's what we're living now. This is reality.
+
+178
+00:09:41.539 --> 00:09:45.179
+This experience is my reality and, and current neuroscience,
+
+179
+00:09:45.260 --> 00:09:49.840
+the predictive brain, predictive processing theory says that, uh,
+
+180
+00:09:50.340 --> 00:09:53.570
+underlying this experience of reality I have is this,
+
+181
+00:09:53.960 --> 00:10:00.020
+uh, hierarchical cascading, uh, system of predictions, which are
+
+182
+00:10:00.020 --> 00:10:01.599
+shaped by prediction errors.
+
+183
+00:10:03.419 --> 00:10:07.580
+So in the book you also talk about consciousness
+
+184
+00:10:07.580 --> 00:10:12.039
+and we're going to explore here how consciousness might
+
+185
+00:10:12.039 --> 00:10:15.299
+be linked to perception or how it is linked
+
+186
+00:10:15.299 --> 00:10:18.599
+to perception. So first of all, what is consciousness?
+
+187
+00:10:18.700 --> 00:10:20.119
+How do you approach it?
+
+188
+00:10:21.590 --> 00:10:26.849
+Yeah, good question. So, OK, um, well, I think
+
+189
+00:10:26.849 --> 00:10:32.510
+first, um, in the literature. Uh, IT'S typically spoken
+
+190
+00:10:32.510 --> 00:10:36.770
+of in terms of what is called phenomenal consciousness
+
+191
+00:10:36.770 --> 00:10:40.059
+and what is called access consciousness. So just to
+
+192
+00:10:40.059 --> 00:10:44.280
+briefly explain what those two terms mean. So, Um
+
+193
+00:10:45.280 --> 00:10:53.539
+So phenomenal consciousness is the Uh, subjective experience of
+
+194
+00:10:53.539 --> 00:10:56.640
+what it's like to be me now, right? So,
+
+195
+00:10:56.789 --> 00:10:59.130
+uh, philosopher Thomas Nagel wrote a paper, I think
+
+196
+00:10:59.130 --> 00:11:01.450
+in 1974 called What, what is it like to
+
+197
+00:11:01.450 --> 00:11:05.179
+be a bat, and he gave, uh, kind of
+
+198
+00:11:05.890 --> 00:11:08.239
+Definition, I suppose, of consciousness that is kind of,
+
+199
+00:11:08.530 --> 00:11:10.770
+that most people kind of adhere to, because it
+
+200
+00:11:10.770 --> 00:11:13.289
+seems to make intuitive sense, which is a system
+
+201
+00:11:13.289 --> 00:11:16.289
+is conscious that there's something, if there is something
+
+202
+00:11:16.289 --> 00:11:19.770
+that's, it is like to be that system. So,
+
+203
+00:11:19.929 --> 00:11:22.609
+this system is something it's like to be this
+
+204
+00:11:22.609 --> 00:11:24.919
+system. I don't think there's anything like it's like
+
+205
+00:11:24.919 --> 00:11:28.880
+to be this system. Um, So, if there's something
+
+206
+00:11:28.880 --> 00:11:30.690
+that's like to be a system, then it's conscious.
+
+207
+00:11:30.940 --> 00:11:35.650
+So phenomenal consciousness is, uh, the qualitative experience of
+
+208
+00:11:35.650 --> 00:11:40.270
+redness, for example, or the felt experience of pain
+
+209
+00:11:40.409 --> 00:11:42.789
+before you even think about it. It's just that
+
+210
+00:11:43.890 --> 00:11:46.450
+experience or if you drink coffee, the kind of
+
+211
+00:11:46.450 --> 00:11:48.890
+taste of coffee, or, uh, I don't know, the
+
+212
+00:11:48.890 --> 00:11:50.969
+smell of a rose or the sound of a,
+
+213
+00:11:51.169 --> 00:11:53.969
+you know, harmonies being played on the piano, that
+
+214
+00:11:53.969 --> 00:11:58.729
+qualitative. Thing that we can't quite grasp in physical
+
+215
+00:11:58.729 --> 00:12:02.239
+terms, that's what we mean by phenomenal consciousness. So,
+
+216
+00:12:02.250 --> 00:12:05.049
+I, so that's one part of what consciousness is
+
+217
+00:12:05.049 --> 00:12:09.599
+in the literature. The other is access consciousness, and
+
+218
+00:12:09.599 --> 00:12:10.969
+the two are related, and I'll talk about that
+
+219
+00:12:10.969 --> 00:12:14.590
+in a second, but access consciousness. Is more related
+
+220
+00:12:14.590 --> 00:12:19.599
+to, uh, function and behavior. So access consciousness, I
+
+221
+00:12:19.599 --> 00:12:21.729
+mean, you can, you know, we can see how
+
+222
+00:12:21.729 --> 00:12:23.929
+we could easily kind of build that really, not
+
+223
+00:12:23.929 --> 00:12:25.409
+easily, but you could see how you could build
+
+224
+00:12:25.409 --> 00:12:27.929
+that into, uh, you know, an AI or into,
+
+225
+00:12:28.130 --> 00:12:31.489
+you know, some other system. But access consciousness is
+
+226
+00:12:31.489 --> 00:12:35.530
+what Sort of consciousness does, right? So, if we're
+
+227
+00:12:35.530 --> 00:12:38.250
+conscious, we report, I see an apple in front
+
+228
+00:12:38.250 --> 00:12:42.770
+of me, or we pay attention, or we integrate
+
+229
+00:12:42.770 --> 00:12:46.609
+information, or, uh, if we're conscious of something, it
+
+230
+00:12:46.609 --> 00:12:49.450
+makes it available to all lots of other decision
+
+231
+00:12:49.450 --> 00:12:55.030
+making, memory systems, um. So all of that access
+
+232
+00:12:55.030 --> 00:12:59.700
+consciousness, we can, you know, study in, you know,
+
+233
+00:12:59.909 --> 00:13:04.549
+functional physical term, using functional and physical terms, and,
+
+234
+00:13:04.570 --> 00:13:08.030
+uh, that all makes sense. And I think there
+
+235
+00:13:08.030 --> 00:13:11.380
+have been lots of efforts to kind of, uh,
+
+236
+00:13:12.489 --> 00:13:15.799
+At least kind of develop theories, uh, where, um,
+
+237
+00:13:16.090 --> 00:13:21.549
+of access consciousness. Um, BUT they're kind of. The
+
+238
+00:13:21.549 --> 00:13:25.710
+problem in science, the hard problem, uh, which, the
+
+239
+00:13:25.710 --> 00:13:28.780
+hard problem, which was, uh, first coined, I think,
+
+240
+00:13:28.789 --> 00:13:30.929
+by David Chalmers in his book, The Conscious Mind,
+
+241
+00:13:30.989 --> 00:13:33.260
+maybe just before, in a paper just before, uh,
+
+242
+00:13:33.429 --> 00:13:36.710
+which is, um, you know, OK, maybe we can
+
+243
+00:13:36.710 --> 00:13:41.270
+understand how brains can be access conscious, how they
+
+244
+00:13:41.270 --> 00:13:44.229
+can attend, how they can report, how they can
+
+245
+00:13:44.229 --> 00:13:46.770
+integrate information, how they can make that information available
+
+246
+00:13:46.770 --> 00:13:52.869
+for decision making, for memory, um, And Theories like
+
+247
+00:13:52.869 --> 00:13:58.679
+the global workspace theory by Dehane. And, uh, and,
+
+248
+00:13:58.780 --> 00:14:04.000
+uh, I think Nkash, um. Kind of our, our
+
+249
+00:14:04.000 --> 00:14:06.270
+the, I think our theories of access consciousness, right?
+
+250
+00:14:06.559 --> 00:14:09.080
+But the, the, the problem is this phenomenal consciousness
+
+251
+00:14:09.080 --> 00:14:13.780
+is what it's like to be that we experience,
+
+252
+00:14:14.020 --> 00:14:19.429
+um, explain that in terms of. Neural activity, physical
+
+253
+00:14:19.429 --> 00:14:23.809
+information processing, uh, it's that that is a hard
+
+254
+00:14:23.809 --> 00:14:27.039
+problem to solve, yeah. So, uh, yeah, I hope
+
+255
+00:14:27.039 --> 00:14:28.599
+I answered your question. So yes, we think, uh,
+
+256
+00:14:28.609 --> 00:14:30.010
+in terms of what I think, what I think
+
+257
+00:14:30.010 --> 00:14:36.210
+consciousness is. Um, I mean, I, I, I'm a
+
+258
+00:14:36.210 --> 00:14:38.200
+bit of a maverick, I suppose. I kind of,
+
+259
+00:14:38.820 --> 00:14:41.859
+I, I don't, I, I, you know, I've been
+
+260
+00:14:41.859 --> 00:14:45.099
+thinking for a long time about how physical processes
+
+261
+00:14:45.099 --> 00:14:47.979
+can give rise to qualitative experience and like many
+
+262
+00:14:47.979 --> 00:14:52.210
+people, I find myself kind of unable to. You
+
+263
+00:14:52.210 --> 00:14:55.090
+know, this is a it's called the explanatory gap.
+
+264
+00:14:55.169 --> 00:14:58.130
+We have all of neuroscience and information processing and
+
+265
+00:14:58.130 --> 00:15:00.729
+all this whir of information processing in the brain,
+
+266
+00:15:00.770 --> 00:15:03.919
+all these predictions, all this stuff going on, but,
+
+267
+00:15:04.159 --> 00:15:07.369
+you know. We don't seem to be able to
+
+268
+00:15:07.369 --> 00:15:12.049
+from that, uh, get, de juice, explain why this
+
+269
+00:15:12.049 --> 00:15:15.049
+phenomenal consciousness exists, this what it's like to be.
+
+270
+00:15:15.289 --> 00:15:19.130
+That's, that is the big, big problem. Yeah, yeah.
+
+271
+00:15:20.080 --> 00:15:25.460
+Right, and how are the contents of consciousness studied?
+
+272
+00:15:26.909 --> 00:15:28.950
+Yes, that's a, yeah, that's a really good question.
+
+273
+00:15:29.130 --> 00:15:32.869
+So, I think, um, a kind of way into
+
+274
+00:15:32.869 --> 00:15:36.210
+studying consciousness is to, and this was developed by
+
+275
+00:15:36.369 --> 00:15:41.429
+Bernard Bars, is to create situations as an experimentalist.
+
+276
+00:15:41.469 --> 00:15:45.429
+I'm an experimental psychologist, to create situations where you
+
+277
+00:15:45.429 --> 00:15:48.924
+can manipulate whether somebody is conscious of something. Not
+
+278
+00:15:48.924 --> 00:15:51.645
+conscious of something, right? So, you get a situation
+
+279
+00:15:51.645 --> 00:15:54.684
+where under one condition, they're conscious of a stimulus,
+
+280
+00:15:54.885 --> 00:15:56.765
+and in another condition, they're not conscious of the
+
+281
+00:15:56.765 --> 00:15:59.885
+stimulus. And that allows you to kind of tease
+
+282
+00:15:59.885 --> 00:16:05.224
+apart, uh, brain processes that are associated just with
+
+283
+00:16:06.200 --> 00:16:11.020
+Uh, you know, processing the stimulus on the screen
+
+284
+00:16:11.799 --> 00:16:16.080
+without consciousness and processes that are involved with also
+
+285
+00:16:16.080 --> 00:16:19.479
+with, uh, you know. Processing the stimulus on the
+
+286
+00:16:19.479 --> 00:16:21.239
+screen and being conscious of it. So, it gives
+
+287
+00:16:21.239 --> 00:16:23.919
+you a way to kind of study those two
+
+288
+00:16:23.919 --> 00:16:26.080
+things. And so this is, this is called the
+
+289
+00:16:26.080 --> 00:16:31.280
+contrastive method. So you're contrasting situations, conditions where participants
+
+290
+00:16:31.280 --> 00:16:34.039
+are, um, aware of the stimulus and situations where
+
+291
+00:16:34.039 --> 00:16:36.679
+they're not aware of the stimulus. And a few
+
+292
+00:16:36.679 --> 00:16:40.340
+examples of that, I suppose, are, um, for example,
+
+293
+00:16:40.599 --> 00:16:44.489
+um, There are lots of examples. So binocular rivalry,
+
+294
+00:16:44.590 --> 00:16:50.059
+for example. So, uh, binocular rivalry is the, uh,
+
+295
+00:16:50.070 --> 00:16:57.599
+phenomenon where. Um, Uh, AGAIN, the participant is presented
+
+296
+00:16:57.599 --> 00:17:01.859
+with one image to one eye, say, a house,
+
+297
+00:17:02.039 --> 00:17:04.920
+and one image to another eye, say, uh, a
+
+298
+00:17:04.920 --> 00:17:09.920
+face. And, I mean, in typical, um, perception, we
+
+299
+00:17:09.920 --> 00:17:11.800
+are, we, you know, have one image on this
+
+300
+00:17:11.800 --> 00:17:13.439
+side and one image on this side, but they're
+
+301
+00:17:13.439 --> 00:17:15.800
+just slightly different, and these depth mechanisms kind of
+
+302
+00:17:15.800 --> 00:17:17.910
+combine them and give, give us a sense of
+
+303
+00:17:17.910 --> 00:17:21.380
+3D depth. Uh, BUT when the, when the two
+
+304
+00:17:21.380 --> 00:17:25.588
+images are, Uh, not congruent. So when there's a
+
+305
+00:17:25.588 --> 00:17:27.788
+house and on one eye, and there's a face
+
+306
+00:17:27.788 --> 00:17:31.859
+on one eye, then what happens is Uh, what's
+
+307
+00:17:31.859 --> 00:17:35.900
+called binocular rivalry, which is where the perception that
+
+308
+00:17:35.900 --> 00:17:39.579
+the, uh, participant has kind of vacillates between seeing
+
+309
+00:17:39.579 --> 00:17:41.699
+a house and then seeing a face. Sometimes a
+
+310
+00:17:41.699 --> 00:17:43.380
+kind of mixture of the two, but it kind
+
+311
+00:17:43.380 --> 00:17:46.300
+of ultimately seems to kind of rest on house
+
+312
+00:17:46.300 --> 00:17:49.900
+or face. Um, And so that's one method we
+
+313
+00:17:49.900 --> 00:17:52.640
+can use to study consciousness because it allows us
+
+314
+00:17:52.640 --> 00:17:54.819
+to see, uh, what's going on in the brain
+
+315
+00:17:54.819 --> 00:17:57.420
+in the brain when the participant is conscious of
+
+316
+00:17:57.420 --> 00:17:59.500
+seeing the house or the face, let's say, and
+
+317
+00:17:59.500 --> 00:18:01.260
+what's going on in the brain when they're not
+
+318
+00:18:01.260 --> 00:18:03.699
+conscious of seeing the house or the face. And
+
+319
+00:18:03.699 --> 00:18:05.949
+so therefore you can kind of tease the two
+
+320
+00:18:05.949 --> 00:18:13.619
+apart, right? Um, ANOTHER method is, um, Uh, um,
+
+321
+00:18:14.060 --> 00:18:16.010
+I think. So I don't want to talk about
+
+322
+00:18:16.010 --> 00:18:17.359
+inattentional blindness because I think we're going to be
+
+323
+00:18:17.359 --> 00:18:20.329
+talking about intentional blindness in a bit, but yeah,
+
+324
+00:18:20.410 --> 00:18:23.170
+but just very briefly, inattentional blindness is a way
+
+325
+00:18:23.170 --> 00:18:27.810
+to study consciousness because, um, so inattentional blindness is
+
+326
+00:18:27.810 --> 00:18:33.849
+the phenomenon where participants fail to report, uh, an
+
+327
+00:18:33.849 --> 00:18:36.489
+object that's directly where they're looking at on the
+
+328
+00:18:36.489 --> 00:18:39.130
+screen in most situations when their attention is not
+
+329
+00:18:39.130 --> 00:18:41.849
+on that stimulus, that object on the screen, they
+
+330
+00:18:41.849 --> 00:18:45.800
+miss it. And this is called. Uh, INATTENTIONAL blindness
+
+331
+00:18:45.800 --> 00:18:49.979
+and been thoroughly explored, uh, kind of initially by
+
+332
+00:18:50.420 --> 00:18:52.680
+Arrian Mack at the New School and Urban Rock,
+
+333
+00:18:52.800 --> 00:18:54.420
+who I think was at Berkeley at the time.
+
+334
+00:18:55.000 --> 00:18:59.780
+And, um, So, using an attentional bli blindness, we
+
+335
+00:18:59.780 --> 00:19:01.859
+can, and so if they're not attending to the
+
+336
+00:19:01.859 --> 00:19:05.699
+stimulus, they won't, invariably won't notice it's there. They're
+
+337
+00:19:05.699 --> 00:19:07.900
+not conscious of it. But if they are attending
+
+338
+00:19:07.900 --> 00:19:09.819
+to the stimulus, then they are aware that it's
+
+339
+00:19:09.819 --> 00:19:12.130
+there. They're conscious of it. So, we have a
+
+340
+00:19:12.130 --> 00:19:14.699
+situation where we have a situation where the participant
+
+341
+00:19:14.699 --> 00:19:17.699
+is not conscious of the stimulus, and in the
+
+342
+00:19:17.699 --> 00:19:20.500
+full attention, they are conscious of the stimulus. There's
+
+343
+00:19:20.500 --> 00:19:22.550
+lots of stuff you can do there to see,
+
+344
+00:19:22.630 --> 00:19:24.310
+you know, what's going on in the brain, for
+
+345
+00:19:24.310 --> 00:19:27.069
+example, when they are conscious of the stimulus versus
+
+346
+00:19:27.069 --> 00:19:29.260
+what's going on when they're not. And that allows
+
+347
+00:19:29.260 --> 00:19:32.469
+you to see, ah, this, this, uh, neural activity
+
+348
+00:19:32.469 --> 00:19:36.449
+or this, uh, information processing, this is associated with
+
+349
+00:19:36.670 --> 00:19:39.630
+them consciously seeing it. And again, that gives you
+
+350
+00:19:39.630 --> 00:19:42.270
+a kind of grip on what's going on in
+
+351
+00:19:42.270 --> 00:19:45.619
+the brain when they're, Actually conscious of it versus
+
+352
+00:19:45.619 --> 00:19:46.520
+when they're not.
+
+353
+00:19:48.430 --> 00:19:51.069
+OK, so let me get now into the topic
+
+354
+00:19:51.069 --> 00:19:56.349
+of perception and attention. So starting with perception, what
+
+355
+00:19:56.349 --> 00:20:00.310
+is perception and tell us about top down and
+
+356
+00:20:00.310 --> 00:20:02.589
+bottom up theories of perception.
+
+357
+00:20:03.880 --> 00:20:09.780
+Yeah, good. So, um, perception, um, I would say
+
+358
+00:20:09.780 --> 00:20:16.130
+is our brains, uh, Kind of best guess about
+
+359
+00:20:16.130 --> 00:20:22.390
+what's going on, right? Um, IT is our. As
+
+360
+00:20:22.390 --> 00:20:26.750
+I said earlier, our internal model of what we
+
+361
+00:20:26.750 --> 00:20:29.550
+think is going on beyond our bodies and inside
+
+362
+00:20:29.550 --> 00:20:35.380
+our bodies. And it is, um, You know, not
+
+363
+00:20:35.380 --> 00:20:38.109
+just visual, so there's visual perception. So visual perception
+
+364
+00:20:38.109 --> 00:20:42.349
+would include seeing colors, seeing shapes, seeing motion, seeing
+
+365
+00:20:42.349 --> 00:20:46.739
+objects, seeing visual scenes, auditory perception, hearing sounds, hearing
+
+366
+00:20:46.739 --> 00:20:53.229
+trumpets, um, tactile perception, so feeling velvet, feeling, uh,
+
+367
+00:20:53.689 --> 00:20:57.069
+uh, wood, for example, feeling sandpaper. So again, this
+
+368
+00:20:57.069 --> 00:21:02.060
+is our internal model of. The world. Our best
+
+369
+00:21:02.060 --> 00:21:04.300
+guess is, again, I'm kind of speaking through a
+
+370
+00:21:04.300 --> 00:21:06.699
+kind of predictive processing framework, but our kind of
+
+371
+00:21:06.699 --> 00:21:10.290
+best guess as to what the world is, um,
+
+372
+00:21:10.739 --> 00:21:16.859
+and our perception is informed by our assumptions about
+
+373
+00:21:16.859 --> 00:21:19.540
+the world, our predictions about the world, our best
+
+374
+00:21:19.540 --> 00:21:23.060
+guesses about the world, but these are kind of
+
+375
+00:21:23.130 --> 00:21:26.209
+reined in by the sensory information that's coming in
+
+376
+00:21:26.209 --> 00:21:29.819
+through the senses. So, Uh, perception is our, our
+
+377
+00:21:29.819 --> 00:21:32.219
+model of the world, but it's tethered to the
+
+378
+00:21:32.219 --> 00:21:35.199
+senses. So we don't kind of lose touch with
+
+379
+00:21:35.979 --> 00:21:39.140
+reality, let's say. And I think that, you know,
+
+380
+00:21:39.420 --> 00:21:40.819
+again, we can talk about this a bit later,
+
+381
+00:21:40.900 --> 00:21:45.780
+but I think, um, Perception can be untethered to
+
+382
+00:21:45.780 --> 00:21:49.469
+reality. So, when you're asleep, for example, and you,
+
+383
+00:21:49.630 --> 00:21:52.270
+and you dream, so you're still experiencing then, but
+
+384
+00:21:52.270 --> 00:21:55.939
+this is experience kind of more or less untethered
+
+385
+00:21:55.939 --> 00:21:59.939
+from the sensory, uh, you know, receptors. Um, SO
+
+386
+00:21:59.939 --> 00:22:02.550
+the brain is kind of, uh, you know, making
+
+387
+00:22:02.550 --> 00:22:06.410
+up its own story without being reined in by
+
+388
+00:22:06.550 --> 00:22:08.709
+the world, by the information coming in through the
+
+389
+00:22:08.709 --> 00:22:12.800
+senses. Um, SO yeah, that's what I think perception
+
+390
+00:22:12.800 --> 00:22:15.680
+is, yeah. Oh, and, and then, so what was
+
+391
+00:22:15.680 --> 00:22:17.920
+your second question? Yeah, and, and then top-down and
+
+392
+00:22:17.920 --> 00:22:18.829
+bottom-up processing,
+
+393
+00:22:19.079 --> 00:22:22.699
+yeah, yeah, yeah, top-down and bottom-up theories of perception.
+
+394
+00:22:23.119 --> 00:22:30.560
+Yeah, good. So, um. So When we're talking about
+
+395
+00:22:30.560 --> 00:22:35.800
+perception, we're talking about, uh, our brain's understanding of
+
+396
+00:22:35.800 --> 00:22:42.119
+the world. And this understanding. Can come from the
+
+397
+00:22:42.119 --> 00:22:44.199
+world. In other words, it can come through the
+
+398
+00:22:44.199 --> 00:22:47.199
+sensory information channels, in the case of, you know,
+
+399
+00:22:47.280 --> 00:22:52.839
+light or, or or sound or, um. But also,
+
+400
+00:22:52.989 --> 00:22:54.959
+as I said before, the brain has this internal
+
+401
+00:22:54.959 --> 00:22:59.910
+model of the world. So, We talk about two
+
+402
+00:22:59.910 --> 00:23:02.280
+kinds of processes going on there. We talk about
+
+403
+00:23:02.280 --> 00:23:08.270
+bottom-up processes and top-down processes. So, roughly speaking, bottom-up
+
+404
+00:23:08.270 --> 00:23:12.390
+processes refers to the information coming in through the
+
+405
+00:23:12.390 --> 00:23:18.030
+senses and kind of traveling, metaphorically speaking, up and
+
+406
+00:23:18.030 --> 00:23:23.969
+into the brain. And this, this, uh, bottom-up process,
+
+407
+00:23:24.189 --> 00:23:29.520
+um, involves taking the sensory information. And processing it.
+
+408
+00:23:30.430 --> 00:23:34.349
+Uh, AND, um, there's a kind of feed forward
+
+409
+00:23:34.349 --> 00:23:39.099
+sweep of information that comes in. Um, AND some
+
+410
+00:23:39.099 --> 00:23:41.130
+people have thought that this is enough for the
+
+411
+00:23:41.130 --> 00:23:44.260
+brain to create perception, right? This bottom-up sweep of
+
+412
+00:23:44.260 --> 00:23:50.250
+information. But there's also, uh. This, these top-down processes
+
+413
+00:23:50.250 --> 00:23:54.599
+going on. And what these top-down processes are, are,
+
+414
+00:23:54.930 --> 00:24:02.560
+again, loosely speaking, um, assumptions, beliefs, uh, expectations that
+
+415
+00:24:02.560 --> 00:24:09.290
+your brain has about the world. And so, one
+
+416
+00:24:09.290 --> 00:24:14.050
+of these top-down assumptions might be that light comes
+
+417
+00:24:14.050 --> 00:24:17.500
+from above, right? And we see this in various
+
+418
+00:24:17.500 --> 00:24:19.459
+illusions. There's, I can't remember the name of it,
+
+419
+00:24:19.510 --> 00:24:21.819
+but there's, there's a, an illusion where you have,
+
+420
+00:24:22.140 --> 00:24:26.729
+uh, circles on the screen and circles, uh, are
+
+421
+00:24:26.729 --> 00:24:29.699
+either, uh, light at the top and dark at
+
+422
+00:24:29.699 --> 00:24:33.979
+the bottom. And the circles on the screen that
+
+423
+00:24:33.979 --> 00:24:35.619
+are light at the top and dark at the
+
+424
+00:24:35.619 --> 00:24:39.219
+bottom appear phenomenologically to stick out of the screen,
+
+425
+00:24:39.359 --> 00:24:44.260
+right? Uh, THEY'RE convex, and the circles with, uh,
+
+426
+00:24:45.040 --> 00:24:46.800
+Dark at the top and light at the bottom
+
+427
+00:24:47.300 --> 00:24:48.939
+appear to kind of stick into the screen. And
+
+428
+00:24:48.939 --> 00:24:50.939
+this is kind of puzzling. It's like, you know,
+
+429
+00:24:51.060 --> 00:24:52.880
+why don't we just see circles on the screen
+
+430
+00:24:52.880 --> 00:24:55.979
+with dots and lights? Why do we see this
+
+431
+00:24:55.979 --> 00:24:59.979
+kind of convexity and concavity when it's not there
+
+432
+00:24:59.979 --> 00:25:03.030
+on the screen and. And one explanation is that,
+
+433
+00:25:03.310 --> 00:25:07.069
+uh, human beings have lived in an environment for
+
+434
+00:25:07.069 --> 00:25:11.229
+millennia where the source of light typically is from
+
+435
+00:25:11.229 --> 00:25:14.189
+the sun from above. So our brains build this
+
+436
+00:25:14.189 --> 00:25:16.589
+very strong assumption, maybe it's hardwired. I don't think
+
+437
+00:25:16.589 --> 00:25:18.949
+it's hardwired. I think there are experiments with chicks
+
+438
+00:25:18.949 --> 00:25:22.229
+that show it can be, uh, altered. But anyway,
+
+439
+00:25:22.550 --> 00:25:27.290
+but we learned very quickly. And, um, that, uh,
+
+440
+00:25:27.829 --> 00:25:30.969
+you know, we, um, And that explains why we
+
+441
+00:25:30.969 --> 00:25:33.369
+see some of the circles are sticking out and
+
+442
+00:25:33.369 --> 00:25:36.369
+sticking in. We see the, the circles of light
+
+443
+00:25:36.369 --> 00:25:38.339
+at the top and dark at the bottom is
+
+444
+00:25:38.339 --> 00:25:40.810
+sticking out, because if there was light coming from
+
+445
+00:25:40.810 --> 00:25:43.609
+above, it would hit the top of a sticking
+
+446
+00:25:43.609 --> 00:25:47.250
+out circle just like that. And, uh, and, and
+
+447
+00:25:47.250 --> 00:25:49.890
+that's how our brain interprets it, um, as a,
+
+448
+00:25:50.010 --> 00:25:54.329
+as a convex, uh, dimple sticking out of the
+
+449
+00:25:54.329 --> 00:25:56.969
+screen. That's just one example, but that's an assumption,
+
+450
+00:25:57.050 --> 00:26:00.569
+again. We're talking about assumptions, top-down processes. The assumption
+
+451
+00:26:00.569 --> 00:26:03.630
+then is light comes from above, and we kind
+
+452
+00:26:03.630 --> 00:26:07.130
+of interpret the world through that assumption. That's one
+
+453
+00:26:07.130 --> 00:26:09.569
+of them. There are many, many, many others. And
+
+454
+00:26:09.569 --> 00:26:13.599
+so it, so coming back to kind of top-down
+
+455
+00:26:13.599 --> 00:26:19.739
+and bottom-up processing, so. Current theories of perception show
+
+456
+00:26:19.739 --> 00:26:23.540
+that perception is a, is an amalgamation of these
+
+457
+00:26:23.540 --> 00:26:27.939
+processes. um, AND I think that's where, what the
+
+458
+00:26:27.939 --> 00:26:32.420
+predictive brain, predictive processing, predictive coding, uh, really kind
+
+459
+00:26:32.420 --> 00:26:35.660
+of mathematicizes, uh, and turns into kind of computational
+
+460
+00:26:35.660 --> 00:26:36.520
+neuroscience.
+
+461
+00:26:37.170 --> 00:26:41.170
+Right. So let's get into attention then. First of
+
+462
+00:26:41.170 --> 00:26:42.890
+all, what is attention?
+
+463
+00:26:44.560 --> 00:26:48.750
+So Um, attention has, study of attention has a
+
+464
+00:26:48.750 --> 00:26:52.900
+long history, uh, from at least, uh, William James,
+
+465
+00:26:53.119 --> 00:26:58.859
+um, until, you know, now and onwards. Um, ATTENTION
+
+466
+00:26:59.160 --> 00:27:03.439
+has been conceived of as some kind of selection
+
+467
+00:27:03.439 --> 00:27:08.430
+mechanism in the brain. So We are, you know,
+
+468
+00:27:08.550 --> 00:27:12.250
+walking around the world, we're constantly being bombarded by,
+
+469
+00:27:12.550 --> 00:27:18.300
+you know, uh. Information impinging on our sensory epithelia,
+
+470
+00:27:18.579 --> 00:27:20.359
+and there's far too much of it for our
+
+471
+00:27:20.939 --> 00:27:25.020
+nervous system to handle. So, uh, uh, um, you
+
+472
+00:27:25.020 --> 00:27:26.459
+know, imagine if you were in, I don't know,
+
+473
+00:27:26.540 --> 00:27:28.660
+New York City walking through Times Square, all those
+
+474
+00:27:28.660 --> 00:27:31.780
+lights, sounds, cars, all the, uh, if you had
+
+475
+00:27:31.780 --> 00:27:33.500
+to process all of that, you just wouldn't be
+
+476
+00:27:33.500 --> 00:27:38.819
+able to. So, in order to Um Kind of
+
+477
+00:27:38.819 --> 00:27:41.060
+solve this problem, I suppose. The brain has developed
+
+478
+00:27:41.060 --> 00:27:45.979
+this kind of selection strategy where it selects, so
+
+479
+00:27:45.979 --> 00:27:47.420
+you can think of all that information from your
+
+480
+00:27:47.420 --> 00:27:50.420
+senses coming in via all these channels, uh, kind
+
+481
+00:27:50.420 --> 00:27:54.959
+of competing, say, for limited cognitive and neural resources.
+
+482
+00:27:55.329 --> 00:27:58.449
+And so the idea is attention serves to select
+
+483
+00:27:58.449 --> 00:28:01.569
+some of these channels, um, give more weight to
+
+484
+00:28:01.569 --> 00:28:04.969
+some of these channels, and by giving more weight
+
+485
+00:28:04.969 --> 00:28:07.770
+to them and selecting them, it enables that information
+
+486
+00:28:07.770 --> 00:28:11.619
+contained in those channels to be processed more deeply,
+
+487
+00:28:11.810 --> 00:28:13.770
+so you can become conscious of it, you can
+
+488
+00:28:13.770 --> 00:28:16.209
+make decisions based on it, you can react to
+
+489
+00:28:16.209 --> 00:28:19.859
+it, you can avoid it. Um. So that's a
+
+490
+00:28:19.859 --> 00:28:24.949
+kind of um That's, uh, one very influential, I
+
+491
+00:28:24.949 --> 00:28:28.069
+think, view of what attention is. Um, YOU can
+
+492
+00:28:28.069 --> 00:28:32.020
+also think of attention, um, uh, metaphorically as a
+
+493
+00:28:32.020 --> 00:28:34.910
+kind of spotlight, right? That you're kind of, the,
+
+494
+00:28:34.989 --> 00:28:36.630
+the world is in front of you and you've
+
+495
+00:28:36.630 --> 00:28:39.430
+got all this information kind of rushing in. And
+
+496
+00:28:39.430 --> 00:28:41.989
+again, you've only got limited resources to process it.
+
+497
+00:28:42.109 --> 00:28:46.819
+So, um, So, you know, much as a spotlight
+
+498
+00:28:46.819 --> 00:28:50.500
+can illuminate a person in an audience, um, bringing
+
+499
+00:28:50.500 --> 00:28:54.180
+them into view, uh, attention can metaphorically operate like
+
+500
+00:28:54.180 --> 00:28:59.420
+a spotlight, which selects certain bits of information, um,
+
+501
+00:28:59.900 --> 00:29:04.030
+to, you know, to process more deeply, um, I
+
+502
+00:29:04.030 --> 00:29:06.310
+think, um, where I am with attention, and I
+
+503
+00:29:06.310 --> 00:29:12.520
+think, um, Again, I think where, where the field
+
+504
+00:29:12.520 --> 00:29:14.800
+is moving in terms of attention is talking about
+
+505
+00:29:14.800 --> 00:29:19.239
+attention in terms of precision. Um, IN the brain,
+
+506
+00:29:19.280 --> 00:29:21.140
+which I think would need a lot of unpacking.
+
+507
+00:29:21.479 --> 00:29:23.079
+Um, SO I don't know if you want to
+
+508
+00:29:23.079 --> 00:29:26.430
+wait to talk about that later, but, or now,
+
+509
+00:29:26.560 --> 00:29:27.130
+I'm not sure.
+
+510
+00:29:27.400 --> 00:29:29.270
+Yeah, tell us about it now.
+
+511
+00:29:29.560 --> 00:29:31.880
+Yes. Yeah, OK, OK. So again, we go back
+
+512
+00:29:31.880 --> 00:29:35.800
+to the predictive brain, this, uh, predictive processing, uh,
+
+513
+00:29:35.920 --> 00:29:40.910
+theory of what brains are doing. Um, And just
+
+514
+00:29:40.910 --> 00:29:43.469
+to sort of repeat maybe a bit of what
+
+515
+00:29:43.469 --> 00:29:45.510
+I said, you know, the idea is that there's
+
+516
+00:29:45.510 --> 00:29:49.949
+this hierarchy of predictions, cascading predictions from abstract predictions
+
+517
+00:29:49.949 --> 00:29:54.390
+to object-level predictions to sensory-level predictions that are, um,
+
+518
+00:29:54.550 --> 00:29:57.930
+that's our world model that are being refined by
+
+519
+00:29:58.550 --> 00:30:04.020
+sensory information that provides, uh, kind of, Learning material
+
+520
+00:30:04.020 --> 00:30:05.619
+for the models if there's a mismatch between the
+
+521
+00:30:05.619 --> 00:30:07.660
+sensory information, the model and the model, the model
+
+522
+00:30:07.660 --> 00:30:14.020
+can update. Now, this whole process, uh, of, uh,
+
+523
+00:30:14.959 --> 00:30:20.719
+Hierarchical prediction error minimization is shaped also by what
+
+524
+00:30:20.719 --> 00:30:27.380
+is called precision. Now precision, um, loosely speaking, is
+
+525
+00:30:27.719 --> 00:30:35.189
+the. Is the confidence. That the system has in
+
+526
+00:30:35.489 --> 00:30:40.560
+the Prediction error. Right? So, let me give you
+
+527
+00:30:40.560 --> 00:30:44.569
+an example. So let's say you're in a, a
+
+528
+00:30:44.569 --> 00:30:46.729
+car and you're driving down the road and it's
+
+529
+00:30:46.729 --> 00:30:50.969
+a foggy day, right? It's very, very foggy. You've
+
+530
+00:30:50.969 --> 00:30:52.890
+driven down that road many, many times, but it's
+
+531
+00:30:52.890 --> 00:30:55.010
+so foggy that you can not really see anything
+
+532
+00:30:55.010 --> 00:30:57.770
+in front of you. So in that situation, let's
+
+533
+00:30:57.770 --> 00:30:58.930
+think about what might be going on in the
+
+534
+00:30:58.930 --> 00:31:02.349
+brain. Again, your brain is making all these predictions
+
+535
+00:31:02.650 --> 00:31:05.290
+about what's going on right now and what you're
+
+536
+00:31:05.290 --> 00:31:08.640
+gonna, what's gonna happen in the future. And, um,
+
+537
+00:31:09.510 --> 00:31:13.699
+And In terms of driving the car, it's making
+
+538
+00:31:13.699 --> 00:31:16.140
+predictions about the road, about the, you know, the
+
+539
+00:31:16.140 --> 00:31:19.770
+turns on the road, etc. ETC. But, and in,
+
+540
+00:31:19.859 --> 00:31:22.739
+in a case of, uh, clear daylight, it would
+
+541
+00:31:22.739 --> 00:31:27.859
+be able to. Uh Sort of, uh, tune those
+
+542
+00:31:27.859 --> 00:31:31.140
+predictions by the sensory information that's coming in, uh.
+
+543
+00:31:32.109 --> 00:31:33.510
+You know, through the car because it's a, it's
+
+544
+00:31:33.510 --> 00:31:35.750
+a clear, it's a clear day. Now, when it's
+
+545
+00:31:35.750 --> 00:31:40.739
+foggy, the brain can't rely on sensory information to
+
+546
+00:31:40.739 --> 00:31:43.189
+guide it. It can, it has to rely on
+
+547
+00:31:43.189 --> 00:31:46.750
+its, um, on its, uh, model of the world,
+
+548
+00:31:46.829 --> 00:31:49.630
+right? Your understanding of how the road curves, so
+
+549
+00:31:49.630 --> 00:31:52.810
+you're using your model to drive your car, right?
+
+550
+00:31:53.099 --> 00:31:58.310
+Um, SO in this case, you would have High
+
+551
+00:31:58.310 --> 00:32:03.859
+precision on your prediction errors, sorry, on your predictions,
+
+552
+00:32:03.939 --> 00:32:08.739
+on your model, and very low precision on the,
+
+553
+00:32:08.969 --> 00:32:13.469
+uh, sensory information coming in. What that means is
+
+554
+00:32:13.469 --> 00:32:15.930
+that you would give more confidence in that driving
+
+555
+00:32:15.930 --> 00:32:20.479
+the car situation to your brain's model of what's
+
+556
+00:32:20.479 --> 00:32:22.530
+going on. Uh, IN other words, I know this
+
+557
+00:32:22.530 --> 00:32:24.560
+road, I know there's a curve here. You would
+
+558
+00:32:24.560 --> 00:32:27.829
+give more confidence to that, more precision to that
+
+559
+00:32:28.449 --> 00:32:31.000
+than to the sensory information coming in, because the
+
+560
+00:32:31.000 --> 00:32:33.369
+sensory information is just fog. It's just kind of,
+
+561
+00:32:33.410 --> 00:32:39.439
+you know, uh, so precision then is. How much
+
+562
+00:32:39.439 --> 00:32:46.189
+confidence the brain gives to the prediction errors. Versus
+
+563
+00:32:46.189 --> 00:32:53.550
+the prediction. And attention then under this framework is
+
+564
+00:32:53.550 --> 00:33:00.449
+precision. It's the confidence the brain gives to either
+
+565
+00:33:00.449 --> 00:33:05.189
+its predictions or to its prediction errors. So, um,
+
+566
+00:33:07.270 --> 00:33:11.310
+And, and, and technically, the precision is the, uh,
+
+567
+00:33:11.349 --> 00:33:13.829
+inverse of the variance, right? So if you think
+
+568
+00:33:13.829 --> 00:33:15.949
+of, just getting a little bit more technical, so
+
+569
+00:33:15.949 --> 00:33:19.030
+if you think about, uh, each prediction the brain
+
+570
+00:33:19.030 --> 00:33:22.500
+is making as a Gaussian, as a normal distribution,
+
+571
+00:33:22.869 --> 00:33:24.939
+and so there you can get a mean, you
+
+572
+00:33:24.939 --> 00:33:26.949
+can get a, a, a variance, you can get
+
+573
+00:33:26.949 --> 00:33:30.030
+a standard deviation, and the, the variance tells you
+
+574
+00:33:30.030 --> 00:33:32.569
+how spread out that distribution is. And if it's,
+
+575
+00:33:32.869 --> 00:33:36.979
+um, And then the precision is the inverse of
+
+576
+00:33:36.979 --> 00:33:40.900
+that variance, which tells you how concentrated, uh, the
+
+577
+00:33:40.900 --> 00:33:43.900
+distribution is. So if you have a very concentrated
+
+578
+00:33:43.900 --> 00:33:47.859
+distribution, that is a prediction or a prediction error
+
+579
+00:33:47.859 --> 00:33:50.609
+with very high precision, right? It's, it's saying to
+
+580
+00:33:50.609 --> 00:33:52.420
+your brain, look, look, look, this is, this is
+
+581
+00:33:52.420 --> 00:33:56.430
+worth taking note of. But if it's, um, Very
+
+582
+00:33:56.430 --> 00:34:01.949
+low precision, uh, so, uh, then the brain might
+
+583
+00:34:01.949 --> 00:34:04.810
+treat it as noise or something not to be
+
+584
+00:34:05.589 --> 00:34:08.330
+taken seriously, and maybe it would take more seriously
+
+585
+00:34:08.510 --> 00:34:10.870
+the the the the world model as it currently
+
+586
+00:34:10.870 --> 00:34:15.409
+stands. Um, SO precision and, and attention then. So,
+
+587
+00:34:15.958 --> 00:34:19.159
+Uh, uh, so attention is, is, is precision. Attention
+
+588
+00:34:19.159 --> 00:34:23.909
+is that the brain's ability to, uh, kind of,
+
+589
+00:34:24.199 --> 00:34:26.159
+and this is metaphorically, right? So turn up the
+
+590
+00:34:26.159 --> 00:34:30.478
+volume on certain, uh, sensory information coming in or
+
+591
+00:34:30.478 --> 00:34:33.458
+turn up the volume on certain predictions you're making,
+
+592
+00:34:34.040 --> 00:34:37.478
+uh, to kind of control the game, uh, there,
+
+593
+00:34:37.600 --> 00:34:38.840
+yeah. Mhm.
+
+594
+00:34:39.810 --> 00:34:44.629
+So you've already mentioned earlier inattentional blindness, but tell
+
+595
+00:34:44.629 --> 00:34:49.570
+us now more about phenomena like inattentional blindness, change
+
+596
+00:34:49.570 --> 00:34:55.310
+blindness, and attentional blink, and what we have learned
+
+597
+00:34:55.310 --> 00:34:59.290
+from the studies on these phenomena you explore in
+
+598
+00:34:59.290 --> 00:34:59.909
+your book.
+
+599
+00:35:00.489 --> 00:35:05.310
+Yeah, um, so, um, so we have inattentional blindness,
+
+600
+00:35:05.689 --> 00:35:10.500
+change blindness, and the attentional blink, uh. What I'll
+
+601
+00:35:10.500 --> 00:35:11.659
+talk about what they are in a second, but
+
+602
+00:35:11.659 --> 00:35:13.540
+what they will show, what they all seem to
+
+603
+00:35:13.540 --> 00:35:16.739
+show, uh, what they all seem to support is
+
+604
+00:35:16.739 --> 00:35:20.760
+that without attention, Right, you can think of it
+
+605
+00:35:20.760 --> 00:35:23.000
+as a spotlight if you want to, or as
+
+606
+00:35:23.000 --> 00:35:26.639
+a selection mechanism or precision, but without attention, we
+
+607
+00:35:26.639 --> 00:35:32.360
+are functionally blind to what is. Presented to us,
+
+608
+00:35:32.479 --> 00:35:36.409
+right? Even though our eyes might be looking directly
+
+609
+00:35:36.409 --> 00:35:39.270
+at an object or a stimulus on a screen,
+
+610
+00:35:39.689 --> 00:35:44.330
+uh, these, uh, phenomena seem to show that that's
+
+611
+00:35:44.330 --> 00:35:45.899
+not enough for us to be aware of it.
+
+612
+00:35:46.090 --> 00:35:47.570
+In order for us to be aware of that
+
+613
+00:35:47.570 --> 00:35:51.149
+stimulus, we have to be attending to it. So,
+
+614
+00:35:51.810 --> 00:35:58.929
+overall, they suggest theoretically that attention is necessary for
+
+615
+00:35:58.929 --> 00:36:02.909
+conscious perception. Um, SO let's talk about each of
+
+616
+00:36:02.909 --> 00:36:05.899
+those in turn. So inattentional blindness, uh, as I
+
+617
+00:36:05.899 --> 00:36:08.510
+said before, is this phenomenon where if people are
+
+618
+00:36:08.510 --> 00:36:11.219
+not paying attention to a stimulus that's in front
+
+619
+00:36:11.219 --> 00:36:14.179
+of them, uh, invariably, they will not be aware
+
+620
+00:36:14.179 --> 00:36:16.659
+of it. Um, SO this is typically, so let
+
+621
+00:36:16.659 --> 00:36:19.510
+me give you one example of an experiment on
+
+622
+00:36:19.510 --> 00:36:24.780
+inattentional blindness. So, uh, Arrian McAna in 2012 wrote
+
+623
+00:36:24.780 --> 00:36:28.719
+a paper called Gist Perception Requires Attention. Just perception
+
+624
+00:36:28.719 --> 00:36:30.739
+is having a perception of just, you know, the
+
+625
+00:36:30.739 --> 00:36:32.459
+general sense of what's going on. I'm in a
+
+626
+00:36:32.459 --> 00:36:36.100
+room, uh, there are chairs there, uh, you know,
+
+627
+00:36:36.179 --> 00:36:38.979
+it's, it's not a, uh, garden, it's a room.
+
+628
+00:36:39.060 --> 00:36:41.219
+I got the, I've got the gist, the overall
+
+629
+00:36:41.219 --> 00:36:44.300
+kind of picture of what's going on. And so
+
+630
+00:36:44.300 --> 00:36:49.709
+we did these experiments, uh, Actually, just backtrack a
+
+631
+00:36:49.709 --> 00:36:52.649
+little, a little bit, uh, uh, others had found
+
+632
+00:36:53.149 --> 00:36:57.510
+that, uh, participants could, uh, pick up the, the
+
+633
+00:36:57.510 --> 00:37:01.219
+gist of a scene if, even if they weren't
+
+634
+00:37:01.219 --> 00:37:05.979
+paying attention to it. Um, AND for various reasons,
+
+635
+00:37:06.030 --> 00:37:09.270
+we questioned that study and we did advised our
+
+636
+00:37:09.270 --> 00:37:12.070
+own study to kind of really test this hypothesis
+
+637
+00:37:12.070 --> 00:37:15.120
+that they were able to perceive the scene even
+
+638
+00:37:15.120 --> 00:37:18.149
+without attention. And so what we did was we
+
+639
+00:37:18.149 --> 00:37:21.379
+had an experiment, uh, just to simplify. There were
+
+640
+00:37:21.379 --> 00:37:25.429
+3 conditions, uh, 3 levels of the attention, uh,
+
+641
+00:37:25.560 --> 00:37:30.010
+factor. So we had inattention, and in the inattention
+
+642
+00:37:30.010 --> 00:37:34.389
+condition, participants were looking at a computer screen and
+
+643
+00:37:34.389 --> 00:37:38.469
+they were told their task was to report whether
+
+644
+00:37:38.469 --> 00:37:41.969
+a, a cross like that, a vertical horizontal cross
+
+645
+00:37:42.149 --> 00:37:45.189
+that appeared very briefly, I think 200 milliseconds on
+
+646
+00:37:45.189 --> 00:37:48.389
+the screen. Randomly in one of the four quadrants
+
+647
+00:37:48.389 --> 00:37:52.209
+of the screen, uh, they, their task was to
+
+648
+00:37:52.209 --> 00:37:54.860
+say which of those arms of the cross was
+
+649
+00:37:54.860 --> 00:37:59.290
+longer. And the differences between the lengths of the
+
+650
+00:37:59.290 --> 00:38:01.100
+arms was very small. We wanted to make it
+
+651
+00:38:01.100 --> 00:38:04.879
+quite difficult to make it attentionally demanding. And, um,
+
+652
+00:38:05.659 --> 00:38:07.919
+so in the inattention condition, they just paid attention
+
+653
+00:38:07.919 --> 00:38:10.820
+to the cross task, and I think maybe there
+
+654
+00:38:10.820 --> 00:38:13.419
+were 10 trials. And then on what we call
+
+655
+00:38:13.419 --> 00:38:16.229
+the critical trial, Uh, which was the last trial,
+
+656
+00:38:16.649 --> 00:38:20.370
+uh, in our experiment, a scene appeared, uh, and
+
+657
+00:38:20.370 --> 00:38:22.370
+it could be a garden, it was a photograph
+
+658
+00:38:22.370 --> 00:38:24.449
+of a scene, and it could be a garden,
+
+659
+00:38:24.530 --> 00:38:28.090
+a mountain, a farm, uh, people on a racetrack,
+
+660
+00:38:28.209 --> 00:38:31.389
+people in an audience, lots of different scenes. And
+
+661
+00:38:31.389 --> 00:38:33.750
+the question we asked them after that final trial
+
+662
+00:38:33.750 --> 00:38:36.840
+was, OK, after, after they reported the longer arm
+
+663
+00:38:36.840 --> 00:38:39.189
+of the cross, did you see anything on that
+
+664
+00:38:39.189 --> 00:38:44.350
+final trial? And we found that, uh, many, many
+
+665
+00:38:44.350 --> 00:38:49.229
+people reported, didn't report seeing anything. In other words,
+
+666
+00:38:49.320 --> 00:38:53.510
+they were. They were not paying attention and they
+
+667
+00:38:53.510 --> 00:38:57.780
+were blind to it, hence inattentional blindness. Now. You
+
+668
+00:38:57.780 --> 00:39:00.100
+know, to make sure, so, you know, of course,
+
+669
+00:39:00.139 --> 00:39:03.139
+we did control, um, experiments. So we also did
+
+670
+00:39:03.139 --> 00:39:05.540
+this with a divider's attention. So they were asked
+
+671
+00:39:05.540 --> 00:39:07.899
+to pay attention to the crosses and anything else
+
+672
+00:39:07.899 --> 00:39:10.780
+they saw on the screen. And here they tended
+
+673
+00:39:10.780 --> 00:39:14.790
+to. Uh, SOMETIMES report seeing the scene, some of
+
+674
+00:39:14.790 --> 00:39:16.870
+them did not. And then with full attention where
+
+675
+00:39:16.870 --> 00:39:19.709
+they were told, forget about the, uh, the crosses,
+
+676
+00:39:19.790 --> 00:39:22.590
+the cross task, just pay attention to anything else
+
+677
+00:39:22.590 --> 00:39:24.629
+that appears on the screen. And in this case,
+
+678
+00:39:24.669 --> 00:39:27.750
+with full attention, they did notice the scene and
+
+679
+00:39:27.750 --> 00:39:31.989
+could describe accurately. So this, uh, shows us that
+
+680
+00:39:31.989 --> 00:39:36.629
+without attention, Uh, they are not conscious of what
+
+681
+00:39:36.629 --> 00:39:39.500
+is, uh, on the screen. Now, just to add
+
+682
+00:39:39.500 --> 00:39:42.020
+something to that, because I think it's interesting, that
+
+683
+00:39:42.020 --> 00:39:45.389
+doesn't mean that that information is not being somehow
+
+684
+00:39:45.389 --> 00:39:49.209
+picked up unconsciously by the system and being processed.
+
+685
+00:39:50.649 --> 00:39:52.850
+Some experiments have found that even though participants are
+
+686
+00:39:52.850 --> 00:39:55.250
+not aware of the stimulus, in our case, the
+
+687
+00:39:55.250 --> 00:39:58.530
+seeing, there is priming. In other words, that they
+
+688
+00:39:58.530 --> 00:40:01.449
+don't see it, but it facilitates certain kinds of
+
+689
+00:40:01.449 --> 00:40:04.629
+processing in their brain despite not being registered consciously.
+
+690
+00:40:05.250 --> 00:40:08.570
+That's an attentional blindness. It's really rich literature on
+
+691
+00:40:08.570 --> 00:40:12.290
+that, um, and, um, and then we come to
+
+692
+00:40:12.290 --> 00:40:15.229
+change blindness. So change blindness is a similar phenomenon,
+
+693
+00:40:15.409 --> 00:40:19.840
+but in change blindness, uh, Uh, a participant is,
+
+694
+00:40:19.949 --> 00:40:26.370
+well, change blindness is where participants are, uh. Do
+
+695
+00:40:26.370 --> 00:40:29.520
+not notice, are not consciously aware of big changes
+
+696
+00:40:29.520 --> 00:40:32.489
+that are happening in a display, in a scene
+
+697
+00:40:32.489 --> 00:40:36.409
+right in front of their eyes. So, uh, work
+
+698
+00:40:36.409 --> 00:40:39.570
+by Rensink and colleagues back in the 90s and
+
+699
+00:40:39.889 --> 00:40:45.239
+much work since then using, um, the, uh, what's
+
+700
+00:40:45.239 --> 00:40:48.229
+it called? The Flickr paradigm, right? So in this
+
+701
+00:40:48.530 --> 00:40:52.169
+experimental method, um, uh, the scene is shown on
+
+702
+00:40:52.169 --> 00:40:55.370
+the screen. And there's a blank, maybe it's shown
+
+703
+00:40:55.370 --> 00:40:57.280
+for, I don't know, maybe 200 milliseconds, I think.
+
+704
+00:40:57.330 --> 00:41:00.310
+And then there's a blank interval of like, uh,
+
+705
+00:41:00.330 --> 00:41:03.050
+100 or so milliseconds. And then the scene appears
+
+706
+00:41:03.050 --> 00:41:06.879
+again. And then the gray interval appears again. And
+
+707
+00:41:06.879 --> 00:41:09.600
+so what's happening is the, in the first scene,
+
+708
+00:41:09.909 --> 00:41:11.520
+uh, we see the first scene, we see the
+
+709
+00:41:11.520 --> 00:41:13.639
+gray interval. In the second time we see it,
+
+710
+00:41:13.760 --> 00:41:17.189
+something has been changed. So, uh, something has been
+
+711
+00:41:17.189 --> 00:41:20.100
+added or removed or colors have been changed, or
+
+712
+00:41:20.840 --> 00:41:25.959
+something's changed. And the participant, participant's task is to
+
+713
+00:41:25.959 --> 00:41:31.330
+watch this until this kind of repeated, uh, Uh,
+
+714
+00:41:31.520 --> 00:41:36.570
+you know, pre-change, interval, uh, post-change until they notice
+
+715
+00:41:36.570 --> 00:41:39.330
+the change and then press a key. And typically
+
+716
+00:41:39.330 --> 00:41:43.489
+it takes people many, many, many seconds to notice
+
+717
+00:41:43.489 --> 00:41:46.489
+this change, even though, you know, it's happening right
+
+718
+00:41:46.489 --> 00:41:49.290
+in front of their eyes. Um, AND what seems
+
+719
+00:41:49.290 --> 00:41:51.449
+to be key here, at least, uh, one of
+
+720
+00:41:51.449 --> 00:41:54.610
+the keys is attention. When they're attending to the
+
+721
+00:41:54.610 --> 00:41:58.750
+change, studies show. They will see the change. So
+
+722
+00:41:58.750 --> 00:42:01.510
+if you're, if you're just lucky enough to attend
+
+723
+00:42:01.510 --> 00:42:03.770
+on, say, the object that's going to be changed,
+
+724
+00:42:04.070 --> 00:42:07.610
+and And then the gray interval happens and then
+
+725
+00:42:07.610 --> 00:42:10.129
+the scene pops up, and yeah, hey, Presto, the
+
+726
+00:42:10.129 --> 00:42:13.169
+object's changed, then you'll notice the change. But unless
+
+727
+00:42:13.169 --> 00:42:16.050
+you're attending to it, the evidence suggests you will,
+
+728
+00:42:16.110 --> 00:42:19.600
+will not notice a change. Um, AND then, uh,
+
+729
+00:42:19.649 --> 00:42:23.050
+we have the attentional blink, which is another phenomenon
+
+730
+00:42:23.050 --> 00:42:27.290
+that demonstrates, uh, the relationship between attention and conscious
+
+731
+00:42:27.290 --> 00:42:34.889
+perception. So, with the attentional blink, um, This is
+
+732
+00:42:35.510 --> 00:42:39.300
+where. This is a, this shows the kind of
+
+733
+00:42:39.300 --> 00:42:43.370
+temporal effects of attention. So, if a stimulus, let,
+
+734
+00:42:43.500 --> 00:42:45.179
+let me give you the experiment first and I'll,
+
+735
+00:42:45.379 --> 00:42:46.909
+I can explain what it means. So, in the,
+
+736
+00:42:47.020 --> 00:42:49.100
+in the, in the experiment, in a typical experiment,
+
+737
+00:42:49.300 --> 00:42:54.300
+uh, we have what's called an RSVP paradigm. RSVP
+
+738
+00:42:54.300 --> 00:42:59.620
+means rapid serial visual presentation. And what the participant
+
+739
+00:42:59.620 --> 00:43:03.040
+experiences a, is a rapid stream of, you know,
+
+740
+00:43:03.459 --> 00:43:05.939
+letters or digits that say, appearing to them on
+
+741
+00:43:05.939 --> 00:43:09.280
+the screen. So in this RSVP what's going on?
+
+742
+00:43:10.280 --> 00:43:16.520
+Is that, um, let's say, Uh OK, so the
+
+743
+00:43:16.520 --> 00:43:21.479
+participants' task is to Look at the stream of
+
+744
+00:43:21.530 --> 00:43:25.520
+information and let's say the stream of information is,
+
+745
+00:43:25.639 --> 00:43:30.169
+uh, let's say 10 digits. And embedded in the
+
+746
+00:43:30.169 --> 00:43:34.250
+10 digits is, let's say, two letters, and let's
+
+747
+00:43:34.250 --> 00:43:36.689
+say each of the letters and digits is presented
+
+748
+00:43:36.689 --> 00:43:39.250
+for 100 milliseconds. So what the participant will see
+
+749
+00:43:39.250 --> 00:43:42.189
+is this stream of digits and letters kind of
+
+750
+00:43:42.189 --> 00:43:46.000
+being presented to them. And the participant's task is
+
+751
+00:43:46.000 --> 00:43:50.169
+to report the two letters, let's say, that are
+
+752
+00:43:50.169 --> 00:43:53.969
+embedded in this stream of digits. Uh, NOW what's
+
+753
+00:43:53.969 --> 00:43:58.840
+found is, um, participants are very good at reporting
+
+754
+00:43:58.840 --> 00:44:01.530
+the first letter that appears in that stream of
+
+755
+00:44:01.530 --> 00:44:07.969
+digits, right? And if the second letter comes after
+
+756
+00:44:07.969 --> 00:44:12.929
+500 500 milliseconds or so after the presentation of
+
+757
+00:44:12.929 --> 00:44:16.489
+the first digit, the first letter, then participants will
+
+758
+00:44:16.489 --> 00:44:19.409
+also be aware of the second letter. But, and
+
+759
+00:44:19.409 --> 00:44:22.209
+this is, this is the interesting point. If the
+
+760
+00:44:22.500 --> 00:44:29.429
+Um, second letter appears between 200 to 500 milliseconds
+
+761
+00:44:29.429 --> 00:44:32.969
+after the first letter. Participants will not be aware
+
+762
+00:44:32.969 --> 00:44:36.810
+of it, invariably. They will not consciously notice it.
+
+763
+00:44:37.070 --> 00:44:41.310
+Um, AND this phenomenon is called the attentional blink.
+
+764
+00:44:41.830 --> 00:44:44.350
+And kind of, just as our, when, when our
+
+765
+00:44:44.350 --> 00:44:48.510
+eyes blink momentarily, we shut out visual information coming
+
+766
+00:44:48.510 --> 00:44:53.449
+in. Uh, THE idea is that when our attention.
+
+767
+00:44:54.179 --> 00:44:58.510
+Is processing the first letter in the stream. Um,
+
+768
+00:44:59.169 --> 00:45:02.620
+This takes up attentional resources to do that, and
+
+769
+00:45:02.620 --> 00:45:06.320
+if the second letter appears. You know, between 200
+
+770
+00:45:06.320 --> 00:45:10.830
+to 500 milliseconds after the first letter, then, um,
+
+771
+00:45:11.000 --> 00:45:13.989
+it will not be. Able to be processed by
+
+772
+00:45:13.989 --> 00:45:17.219
+attention because attention is still working on processing that
+
+773
+00:45:17.219 --> 00:45:20.590
+first letter. But if it comes 500 milliseconds after
+
+774
+00:45:20.590 --> 00:45:24.209
+the first letter, now, uh, we're able to consciously,
+
+775
+00:45:24.469 --> 00:45:27.500
+uh, perceive it because now attention, now the now
+
+776
+00:45:27.500 --> 00:45:29.429
+you're not blinking anymore. Now your eyes are open
+
+777
+00:45:29.429 --> 00:45:35.659
+again, right? Um. So, uh, so these phenomena, inattentional
+
+778
+00:45:35.659 --> 00:45:39.899
+blindness, change blindness, and the attentional blink, all seem
+
+779
+00:45:39.899 --> 00:45:42.500
+to point or, or, you know, provide lots of
+
+780
+00:45:42.500 --> 00:45:47.540
+evidence for the theory that attention is, uh, is
+
+781
+00:45:47.540 --> 00:45:51.780
+necessary for conscious perception to happen. Um, AND if
+
+782
+00:45:51.780 --> 00:45:56.439
+attention is not, uh, deployed, then you might think
+
+783
+00:45:56.659 --> 00:45:59.070
+you are conscious of what you're looking at, but
+
+784
+00:45:59.070 --> 00:46:01.500
+we suggest that you're not. Um, YEAH.
+
+785
+00:46:03.080 --> 00:46:07.760
+In what ways can expectation shape perception?
+
+786
+00:46:09.379 --> 00:46:13.120
+Good, yeah. So, um, so we've spoken about attention.
+
+787
+00:46:13.419 --> 00:46:19.899
+Uh, EXPECTATION has a very, uh, powerful, uh, impact
+
+788
+00:46:19.899 --> 00:46:25.020
+on what we experience. Um, I'm a vision scientist,
+
+789
+00:46:25.100 --> 00:46:28.439
+so I mostly speak about visual examples. Um, BUT.
+
+790
+00:46:30.350 --> 00:46:36.100
+I mean, just thinking about um. Let's say visual
+
+791
+00:46:36.100 --> 00:46:42.699
+illusions and. There is, uh, for example, there's an
+
+792
+00:46:42.699 --> 00:46:46.020
+illusion called the, um, the, um, what they're called
+
+793
+00:46:46.020 --> 00:46:51.399
+illusory contours, and There's a very famous one of
+
+794
+00:46:51.399 --> 00:46:55.500
+these called the Konitza Triangle. And the Kunitza Triangle,
+
+795
+00:46:55.840 --> 00:46:58.800
+to explain it without showing it, but anyway, so
+
+796
+00:46:58.800 --> 00:47:00.760
+what you see on the screen, what's literally given
+
+797
+00:47:00.760 --> 00:47:04.929
+to you on the screen. Is, uh, 3 little
+
+798
+00:47:04.929 --> 00:47:10.030
+Pac-Men, black Pac-Man shapes that are kind of oriented
+
+799
+00:47:10.649 --> 00:47:18.290
+such that. The brain perceives literally a triangle. Uh,
+
+800
+00:47:18.360 --> 00:47:21.560
+THE outlines of a triangle, the edges of the
+
+801
+00:47:21.560 --> 00:47:24.679
+triangle, the triangle looks to be a kind of
+
+802
+00:47:24.679 --> 00:47:29.020
+bright, brighter than. The background on which it sits,
+
+803
+00:47:29.120 --> 00:47:31.000
+right? So we have this phenomenal experience of a
+
+804
+00:47:31.000 --> 00:47:34.570
+triangle there. And there's no triangle on the screen.
+
+805
+00:47:35.120 --> 00:47:38.080
+It's just these three Pac-Man shapes. There's no triangle
+
+806
+00:47:38.080 --> 00:47:40.590
+there. There's no background that's brighter than an object.
+
+807
+00:47:41.159 --> 00:47:44.379
+That triangle that we experience is, is, you know,
+
+808
+00:47:44.879 --> 00:47:47.669
+created by our, our nervous system in response to
+
+809
+00:47:47.669 --> 00:47:52.370
+that stimulus. Now, I think this shows one of
+
+810
+00:47:52.370 --> 00:47:55.629
+the, this, this kind of illustrates the effects of
+
+811
+00:47:56.090 --> 00:48:01.790
+expectation on vision. Um, SO. If your brain is
+
+812
+00:48:01.790 --> 00:48:06.830
+faced with some stimulus like that, those three Pac-Men
+
+813
+00:48:06.830 --> 00:48:11.709
+whose configuration kind of suggests a triangle there, then.
+
+814
+00:48:12.669 --> 00:48:17.570
+Based on past experience and assumptions, the brain has
+
+815
+00:48:17.570 --> 00:48:19.189
+picked up over, you know, the years we've been
+
+816
+00:48:19.189 --> 00:48:24.179
+alive, um, it concludes, comes to the conclusion that,
+
+817
+00:48:24.389 --> 00:48:26.909
+uh, there really is a triangle there, and that's
+
+818
+00:48:26.909 --> 00:48:29.830
+what we, you know, actually perceive. It's not that
+
+819
+00:48:29.830 --> 00:48:31.939
+we kind of think, oh, it looks as if
+
+820
+00:48:31.939 --> 00:48:33.750
+there's a triangle there, we actually perceive a kind
+
+821
+00:48:33.750 --> 00:48:36.949
+of ghostly triangle. So, this is, uh, one example,
+
+822
+00:48:37.110 --> 00:48:40.645
+perhaps not the best. Example of where expectations our
+
+823
+00:48:40.645 --> 00:48:43.725
+brain has about the world, predictions our brain has
+
+824
+00:48:43.725 --> 00:48:47.044
+about the world kind of override in a way
+
+825
+00:48:47.044 --> 00:48:49.405
+the evidence right in front of our eyes, which
+
+826
+00:48:49.405 --> 00:48:53.405
+is there's these three black shapes on a white
+
+827
+00:48:53.405 --> 00:48:59.889
+screen overrides that. That actuality and creates its own
+
+828
+00:48:59.889 --> 00:49:03.250
+kind of, uh, kind of guess as to what's
+
+829
+00:49:03.250 --> 00:49:08.639
+out there in the world. Um, SO, um, expectations
+
+830
+00:49:08.639 --> 00:49:13.120
+then are these predictions that our brain has based
+
+831
+00:49:13.120 --> 00:49:16.770
+on past experience of what, what the world is.
+
+832
+00:49:17.360 --> 00:49:20.080
+So, we expect, uh, when we go into a
+
+833
+00:49:20.080 --> 00:49:23.199
+doctor's office for there to be certain things and
+
+834
+00:49:23.199 --> 00:49:26.600
+certain kinds of behavior and, you know, in psychology,
+
+835
+00:49:26.639 --> 00:49:28.919
+we call it these schemas. We have these kind
+
+836
+00:49:28.919 --> 00:49:31.320
+of schemas for what to expect. We go to
+
+837
+00:49:31.320 --> 00:49:36.560
+certain places, how to behave, etc. Um. And In
+
+838
+00:49:36.560 --> 00:49:40.239
+terms of what's going on in in In the
+
+839
+00:49:40.239 --> 00:49:44.020
+brain. Um, THERE'S a lot of really interesting research.
+
+840
+00:49:44.550 --> 00:49:46.860
+Um, I'm thinking particularly of the research that's done
+
+841
+00:49:46.860 --> 00:49:52.360
+by, uh, Peter Kock at UCL. Um, WHERE he
+
+842
+00:49:52.360 --> 00:49:59.659
+showed that, um. Areas I think in V1. Uh
+
+843
+00:50:01.030 --> 00:50:05.149
+Light up in anticipation of a stimulus that's about
+
+844
+00:50:05.149 --> 00:50:07.949
+to be presented. In other words, the brain is
+
+845
+00:50:07.949 --> 00:50:11.389
+kind of predicting the stimulus before it even appears.
+
+846
+00:50:11.449 --> 00:50:14.169
+It's in other words, it's expecting the stimulus before
+
+847
+00:50:14.280 --> 00:50:19.629
+before it even appears. Um, SO, I mean, that's
+
+848
+00:50:19.629 --> 00:50:21.360
+the way to think about it in kind of
+
+849
+00:50:21.360 --> 00:50:25.189
+terms of the brain. Um, BUT I think, uh,
+
+850
+00:50:25.280 --> 00:50:30.500
+sorry, um, yeah, expectations pervade everything. They literally shape
+
+851
+00:50:31.080 --> 00:50:32.840
+our reality, what we see. We don't, I don't
+
+852
+00:50:32.840 --> 00:50:34.959
+think, well, we don't. We don't see reality as
+
+853
+00:50:34.959 --> 00:50:40.360
+it is because again, we are our brain's model
+
+854
+00:50:40.360 --> 00:50:41.719
+of what it thinks is going on in the
+
+855
+00:50:41.719 --> 00:50:45.159
+world, uh, and that model can be wrong, um,
+
+856
+00:50:46.110 --> 00:50:51.270
+But, uh, and this model is. Uh, DEEPLY sculpted
+
+857
+00:50:51.270 --> 00:50:53.350
+and shaped by what we expect to be in
+
+858
+00:50:53.350 --> 00:50:56.659
+the world. Um, AND I mean, again, you know,
+
+859
+00:50:57.149 --> 00:51:01.419
+this, you know, you can apply this to. Um,
+
+860
+00:51:01.479 --> 00:51:05.510
+YOU know, Many different things. For example, feelings of
+
+861
+00:51:05.510 --> 00:51:08.000
+depression or anxiety. I mean, if you have, if
+
+862
+00:51:08.000 --> 00:51:11.040
+your brain has the prediction that the world is,
+
+863
+00:51:11.439 --> 00:51:14.239
+uh, gray and, and flat and boring and, you
+
+864
+00:51:14.239 --> 00:51:19.989
+know, uncaring, then. Again, if you, if your brain
+
+865
+00:51:19.989 --> 00:51:23.709
+kind of holds that belief deeply enough, you literally
+
+866
+00:51:23.709 --> 00:51:29.110
+see the world through that. Belief, your world model
+
+867
+00:51:29.110 --> 00:51:31.409
+is kind of shaped by that belief. So you
+
+868
+00:51:31.409 --> 00:51:34.189
+probably will see things as being quite gray and,
+
+869
+00:51:34.669 --> 00:51:38.060
+and, uh. You know, so, uh, anyway, so it
+
+870
+00:51:38.060 --> 00:51:40.419
+can, it, it's the point of bringing that in
+
+871
+00:51:40.419 --> 00:51:41.699
+is to show that it's not just some kind
+
+872
+00:51:41.699 --> 00:51:44.899
+of theoretical thing. It really does apply to human
+
+873
+00:51:44.899 --> 00:51:46.810
+experience and how we live. Um, SO it really
+
+874
+00:51:46.810 --> 00:51:49.179
+does have lots of applications there. But yeah, so
+
+875
+00:51:49.179 --> 00:51:50.459
+that's just a, I mean, there's lots you could
+
+876
+00:51:50.459 --> 00:51:53.870
+say about expectations, but that's. A few, there are
+
+877
+00:51:53.870 --> 00:51:55.000
+a few things you could say, yeah.
+
+878
+00:51:55.860 --> 00:51:58.949
+Uh, TELL us a little bit more about expectation
+
+879
+00:51:58.949 --> 00:52:02.090
+can lead to illusory experiences.
+
+880
+00:52:03.699 --> 00:52:09.189
+Yeah, so. So we did, we, so I say
+
+881
+00:52:09.189 --> 00:52:13.540
+recently, this is back in 2018, but um. We,
+
+882
+00:52:13.899 --> 00:52:17.020
+so I was talking about Arian Mack, myself, uh,
+
+883
+00:52:17.219 --> 00:52:19.100
+Muge Errol, and a couple of other people who
+
+884
+00:52:19.100 --> 00:52:22.850
+were in our lab at the time, um. We're
+
+885
+00:52:23.979 --> 00:52:35.060
+doing some research on. INATTENTIONAL blindness. And We, um,
+
+886
+00:52:36.550 --> 00:52:38.510
+I, I'm wondering about how much detail to go
+
+887
+00:52:38.510 --> 00:52:41.810
+into here because it's, but anyway, um, we were,
+
+888
+00:52:41.989 --> 00:52:48.709
+uh, Wondering whether iconic memory required attention. Now just
+
+889
+00:52:48.709 --> 00:52:53.709
+very briefly, iconic memory is a very highly transient
+
+890
+00:52:53.709 --> 00:52:58.310
+but high capacity sensory memory, uh, that the system
+
+891
+00:52:58.310 --> 00:53:00.229
+has of what it's just looked at in the
+
+892
+00:53:00.229 --> 00:53:03.070
+case of vision. So we open our eyes, uh,
+
+893
+00:53:03.139 --> 00:53:05.620
+we look at the world, an iconic memory, roughly
+
+894
+00:53:05.620 --> 00:53:10.070
+speaking, is a kind of fleeting, kind of high
+
+895
+00:53:10.070 --> 00:53:13.610
+capacity memory of what we just saw, right? Um,
+
+896
+00:53:13.870 --> 00:53:17.100
+AND people have stared. Lots of people, lots of
+
+897
+00:53:17.100 --> 00:53:21.020
+researchers have said, uh, that, that attention is not
+
+898
+00:53:21.020 --> 00:53:24.610
+necessary for this iconic memory. And this is particularly
+
+899
+00:53:24.610 --> 00:53:28.300
+interesting because iconic memory has been equated with phenomenal
+
+900
+00:53:28.300 --> 00:53:32.739
+consciousness by many people. And so the contents of
+
+901
+00:53:32.739 --> 00:53:36.139
+iconic memory are equated with what we were conscious
+
+902
+00:53:36.139 --> 00:53:40.909
+of at that moment by many people. And And
+
+903
+00:53:41.409 --> 00:53:43.669
+so we wanted to know whether that required attention.
+
+904
+00:53:43.770 --> 00:53:46.169
+So what we did was we did an inattentional
+
+905
+00:53:46.169 --> 00:53:50.409
+blindness experiment where, uh, we had, let's say, the
+
+906
+00:53:50.409 --> 00:53:52.209
+cross task, so which arm of the cross is
+
+907
+00:53:52.209 --> 00:53:56.750
+longer. And this time on every trial, we had
+
+908
+00:53:57.129 --> 00:53:59.530
+a matrix of letters at the center of the
+
+909
+00:53:59.530 --> 00:54:03.060
+screen. Um, AND I think it was a 3
+
+910
+00:54:03.060 --> 00:54:06.340
+by 3 grid of letters. And, uh, this was
+
+911
+00:54:06.340 --> 00:54:09.719
+present on every trial. So the participants' task was
+
+912
+00:54:09.939 --> 00:54:12.800
+to report the longer arm of the cross. And
+
+913
+00:54:13.060 --> 00:54:14.979
+they did this over repeated trials. And on the
+
+914
+00:54:14.979 --> 00:54:19.060
+final critical trial, The matrix of letters, the grid
+
+915
+00:54:19.060 --> 00:54:21.959
+was absent. There was nothing on the screen apart
+
+916
+00:54:21.959 --> 00:54:26.239
+from the crosses, and participants were asked, OK, what
+
+917
+00:54:26.239 --> 00:54:28.159
+was the longer run of the cross? And then
+
+918
+00:54:28.159 --> 00:54:30.959
+they were asked, uh, uh, what else did you
+
+919
+00:54:30.959 --> 00:54:34.879
+see on the screen? And surprisingly to us, we
+
+920
+00:54:34.879 --> 00:54:38.820
+were very surprised by this. I looked, some people
+
+921
+00:54:39.280 --> 00:54:42.790
+reported seeing letters, even though there were no letters
+
+922
+00:54:42.790 --> 00:54:46.429
+on the screen, right? And they even wrote down
+
+923
+00:54:46.429 --> 00:54:50.479
+some of the letters that they saw. And, and
+
+924
+00:54:50.479 --> 00:54:52.129
+then we had a control condition where there was
+
+925
+00:54:52.129 --> 00:54:54.169
+full attention to the grid of letters and then
+
+926
+00:54:54.169 --> 00:54:58.370
+on that critical trial, you know, nobody reported seeing
+
+927
+00:54:58.370 --> 00:55:03.810
+letters. So without attention, they reported seeing the letters,
+
+928
+00:55:03.889 --> 00:55:07.000
+but with attention, uh, they didn't report seeing the
+
+929
+00:55:07.000 --> 00:55:09.530
+letters. So this was surprising. So we thought, well,
+
+930
+00:55:09.620 --> 00:55:13.770
+maybe what's going on is that, um, because the
+
+931
+00:55:13.770 --> 00:55:17.439
+matrix of letters appears on every trial except the
+
+932
+00:55:17.439 --> 00:55:21.649
+critical one. Uh, THEIR brains are building up an
+
+933
+00:55:21.649 --> 00:55:24.649
+expectation that the matrix of letters is going to
+
+934
+00:55:24.649 --> 00:55:28.679
+appear. And therefore, when it doesn't appear, But when
+
+935
+00:55:28.679 --> 00:55:31.649
+their attention is, and when their attention is elsewhere,
+
+936
+00:55:32.050 --> 00:55:36.409
+their brain still has the experience that it's there,
+
+937
+00:55:36.570 --> 00:55:41.919
+right? Um, AND so this was, you know, really,
+
+938
+00:55:42.129 --> 00:55:44.719
+uh, surprising and set us off on this, uh,
+
+939
+00:55:45.169 --> 00:55:47.409
+chain of experiments to explore this. So we looked
+
+940
+00:55:47.409 --> 00:55:52.580
+at this with color patches. Um, SO, again, using
+
+941
+00:55:52.580 --> 00:55:55.610
+this inattentional blindness kind of procedure, there was a,
+
+942
+00:55:55.739 --> 00:55:58.300
+you know, the cross task, and on every trial,
+
+943
+00:55:58.340 --> 00:56:00.179
+there was a color patch. I, I can't remember
+
+944
+00:56:00.179 --> 00:56:03.129
+the color, but let's say it was green. And,
+
+945
+00:56:03.139 --> 00:56:07.070
+um, And then on the critical trial, there was
+
+946
+00:56:07.070 --> 00:56:09.909
+no color patch. And again, we found that a
+
+947
+00:56:10.439 --> 00:56:14.100
+significant number of participants reported seeing the color patch
+
+948
+00:56:14.439 --> 00:56:16.659
+in its absence, it wasn't there. And again, the
+
+949
+00:56:16.659 --> 00:56:19.120
+control condition, pay attention to the color patch when
+
+950
+00:56:19.120 --> 00:56:21.199
+they get to the critical trial, it's not there
+
+951
+00:56:21.199 --> 00:56:25.139
+and they correctly report it's not there. So this,
+
+952
+00:56:25.679 --> 00:56:29.090
+uh, uh, seemed to suggest to us that expectation
+
+953
+00:56:29.090 --> 00:56:31.360
+was playing a very powerful role in what people
+
+954
+00:56:31.360 --> 00:56:35.350
+were experiencing. Again, their brains had come to expect
+
+955
+00:56:35.350 --> 00:56:39.629
+the color patch, the grid of letters, and When
+
+956
+00:56:39.629 --> 00:56:41.469
+they were not attending to it, so when there
+
+957
+00:56:41.469 --> 00:56:44.459
+was not much precision given to that sensory information,
+
+958
+00:56:44.830 --> 00:56:47.020
+then there was more precision being given to the
+
+959
+00:56:47.020 --> 00:56:51.389
+prediction, and then that led to them. Maybe hallucinating
+
+960
+00:56:51.389 --> 00:56:53.370
+a color patch or a grid of letters in
+
+961
+00:56:53.370 --> 00:56:58.270
+its absence. And then one other, um, experiment we
+
+962
+00:56:58.270 --> 00:57:01.790
+did following that was the same paradigm, the same
+
+963
+00:57:01.790 --> 00:57:04.770
+procedure, but this time the stimulus was a face.
+
+964
+00:57:05.840 --> 00:57:08.540
+And so at the center of the screen on
+
+965
+00:57:08.540 --> 00:57:12.520
+every non-critical trial was effaced, participant had to report
+
+966
+00:57:12.520 --> 00:57:14.600
+the long gram of the cross. Actually, in this
+
+967
+00:57:14.600 --> 00:57:17.280
+task, in, in this, uh, experiment was slightly different.
+
+968
+00:57:17.719 --> 00:57:22.510
+Um, Rather than the cross task, there were, uh,
+
+969
+00:57:22.639 --> 00:57:27.290
+on the screen, 4 color bisected circles. So each
+
+970
+00:57:27.290 --> 00:57:30.770
+circle was red, green, red, green, and they were
+
+971
+00:57:30.770 --> 00:57:34.429
+either the same configuration or one of them was
+
+972
+00:57:34.969 --> 00:57:37.129
+not the same configuration as the others. And the
+
+973
+00:57:37.129 --> 00:57:39.449
+participants' task was to, and again, it was an
+
+974
+00:57:39.449 --> 00:57:42.050
+intentionally demanding task, that's what we wanted, was to
+
+975
+00:57:42.050 --> 00:57:45.570
+report whether they were the same or different. And
+
+976
+00:57:45.570 --> 00:57:48.250
+again, on this, in this experiment, a face appeared
+
+977
+00:57:48.250 --> 00:57:52.530
+on every trial along with the circles. uh, THEY,
+
+978
+00:57:52.629 --> 00:57:54.969
+you know, they were never asked about it until
+
+979
+00:57:54.969 --> 00:57:57.590
+that last trial when the face was absent, it
+
+980
+00:57:57.590 --> 00:58:00.889
+was not on the screen. And they're asked, did
+
+981
+00:58:00.889 --> 00:58:02.449
+you see anything on the screen apart from the
+
+982
+00:58:02.449 --> 00:58:05.909
+circles? And again, a significant number of people reported
+
+983
+00:58:06.209 --> 00:58:09.909
+seeing a face in its absence. Uh, AGAIN, the
+
+984
+00:58:09.909 --> 00:58:12.290
+control condition when they were attending to that location,
+
+985
+00:58:12.649 --> 00:58:15.290
+they reported, you know, there was nothing there, which
+
+986
+00:58:15.290 --> 00:58:24.070
+was the radical. Um, SO, So, um, So following
+
+987
+00:58:24.070 --> 00:58:27.500
+on from this then, um, Uh, and again, that's
+
+988
+00:58:27.500 --> 00:58:29.750
+just some research that I've done in, in my
+
+989
+00:58:29.750 --> 00:58:31.830
+lab. There are lots of other, there's lots of
+
+990
+00:58:31.830 --> 00:58:37.419
+other evidence that shows that, um. Uh, AN expectation
+
+991
+00:58:37.419 --> 00:58:41.010
+can lead to, uh, hall, let's say hall, uh,
+
+992
+00:58:41.020 --> 00:58:46.060
+uh, uh, an illusory experience, uh, work by, uh,
+
+993
+00:58:46.379 --> 00:58:52.179
+uh, Arun Bachmann, uh, and others. Um, BUT what
+
+994
+00:58:52.179 --> 00:58:56.280
+we, but what I've done since then, so, so
+
+995
+00:58:56.580 --> 00:58:58.899
+one question that we had based on these experiments
+
+996
+00:58:58.899 --> 00:59:03.270
+was, OK. This is all interesting, but let's just
+
+997
+00:59:03.270 --> 00:59:08.580
+pause a minute because. On that last trial, where
+
+998
+00:59:08.580 --> 00:59:11.379
+there is no stimulus, let's talk about the face
+
+999
+00:59:11.379 --> 00:59:13.810
+experiment. There's no stim, there's no face, but the
+
+1000
+00:59:13.810 --> 00:59:17.020
+participant reports seeing a face after having lots of
+
+1001
+00:59:17.020 --> 00:59:19.439
+trials where there was a face. Now, it could
+
+1002
+00:59:19.439 --> 00:59:23.459
+be that, yeah, maybe they're hallucinating a face, maybe
+
+1003
+00:59:23.459 --> 00:59:26.139
+they are having an experience of the face in
+
+1004
+00:59:26.139 --> 00:59:31.000
+its absence, um, or it could be that they're.
+
+1005
+00:59:31.969 --> 00:59:35.050
+Thinking, well, there was a face on previous trials,
+
+1006
+00:59:35.340 --> 00:59:37.540
+so, uh, maybe there was a face on this
+
+1007
+00:59:37.540 --> 00:59:39.500
+trial. I'll just guess. Yeah, I saw a face,
+
+1008
+00:59:39.580 --> 00:59:41.860
+right? So it could, you know, so it could
+
+1009
+00:59:41.860 --> 00:59:43.860
+be that they're having an illusory experience or it
+
+1010
+00:59:43.860 --> 00:59:46.729
+could be that they're just inferring it. So, currently,
+
+1011
+00:59:46.860 --> 00:59:48.899
+uh, in my lab at the University of West
+
+1012
+00:59:48.899 --> 00:59:51.620
+London, I'm working with my post, uh, so my
+
+1013
+00:59:51.620 --> 00:59:54.739
+PhD student, Becky Tyler, who's doing some really good
+
+1014
+00:59:54.739 --> 00:59:58.439
+work on looking at what's happening in the brain
+
+1015
+00:59:58.540 --> 01:00:04.570
+in terms of, uh, Neural activity, uh, when participants
+
+1016
+01:00:04.570 --> 01:00:07.709
+are reporting seeing the face that's not there on
+
+1017
+01:00:07.709 --> 01:00:12.620
+the screen. And again, just very briefly speaking, um,
+
+1018
+01:00:12.909 --> 01:00:18.689
+there is, uh, There is a I don't want
+
+1019
+01:00:18.689 --> 01:00:22.669
+to get too technical, so, um. So what she's
+
+1020
+01:00:22.669 --> 01:00:25.989
+doing is an ERP study, and an ERP study
+
+1021
+01:00:25.989 --> 01:00:32.020
+is measuring event related potentials, and these are Uh,
+
+1022
+01:00:32.139 --> 01:00:34.500
+this activity in the brain that can be measured
+
+1023
+01:00:34.500 --> 01:00:39.020
+on a millisecond scale that relates to, say, the
+
+1024
+01:00:39.020 --> 01:00:41.860
+onset of a stimulus on the screen or something
+
+1025
+01:00:41.860 --> 01:00:45.649
+else, attention or memory or, uh, a mismatch between
+
+1026
+01:00:45.649 --> 01:00:47.350
+what you see and what you expect to see.
+
+1027
+01:00:47.699 --> 01:00:53.100
+And, One of these, uh, ERPs is called the
+
+1028
+01:00:53.100 --> 01:00:59.050
+N170. And the N170, again, briefly speaking, is, uh,
+
+1029
+01:00:59.219 --> 01:01:03.979
+a, a neural event that occurs 170 milliseconds after
+
+1030
+01:01:03.979 --> 01:01:07.979
+the presentation of the stimulus. Let's say it's a
+
+1031
+01:01:07.979 --> 01:01:11.379
+face, and the end just refers to the kind
+
+1032
+01:01:11.379 --> 01:01:13.139
+of, you know, whether it's a negative wave or
+
+1033
+01:01:13.139 --> 01:01:17.070
+a positive wave. So the N170 is a signature
+
+1034
+01:01:17.070 --> 01:01:20.750
+of, uh, face perception. So when people are perceiving
+
+1035
+01:01:20.750 --> 01:01:24.810
+a face, we get this N170 in the EEG.
+
+1036
+01:01:25.389 --> 01:01:30.280
+And, um, so Becky is currently Doing an experiment
+
+1037
+01:01:30.280 --> 01:01:33.780
+where she's, uh, kind of adapted slightly the paradigm
+
+1038
+01:01:33.780 --> 01:01:36.459
+we use, but she's still asking the question, uh,
+
+1039
+01:01:36.540 --> 01:01:40.159
+you know, does an expectation lead to an illusory
+
+1040
+01:01:40.159 --> 01:01:42.530
+experience of a face in its absence? And we're
+
+1041
+01:01:42.530 --> 01:01:45.239
+predicting that if they really are experiencing the face,
+
+1042
+01:01:45.260 --> 01:01:48.459
+they're not just inferring it, then we should see
+
+1043
+01:01:48.459 --> 01:01:53.250
+this evidence for this 1 N170. Um, SO that's
+
+1044
+01:01:53.250 --> 01:01:54.800
+what we're currently doing. And this allows us to
+
+1045
+01:01:54.800 --> 01:01:57.070
+kind of tease that question apart, right? Are they
+
+1046
+01:01:57.449 --> 01:02:01.320
+really experiencing it or are they just inferring that,
+
+1047
+01:02:01.370 --> 01:02:04.689
+uh, inferring it was there just based on prior
+
+1048
+01:02:04.689 --> 01:02:12.270
+experience, just making a guess. Um, SO. Um If
+
+1049
+01:02:12.270 --> 01:02:15.580
+they really are seeing this face in its absence,
+
+1050
+01:02:15.669 --> 01:02:19.030
+if, if an, this expectation really is leading them
+
+1051
+01:02:19.030 --> 01:02:23.469
+to have, uh, non-veridical conscious experience, in other words,
+
+1052
+01:02:23.520 --> 01:02:29.030
+it's not tethered to the senses, then, um, this
+
+1053
+01:02:29.030 --> 01:02:33.590
+suggests that the, uh, you know, the again, the
+
+1054
+01:02:33.590 --> 01:02:36.830
+power of expectation in creating what we consciously experience,
+
+1055
+01:02:37.149 --> 01:02:43.770
+um, And I've called this phenomenon, uh, expectation awareness,
+
+1056
+01:02:44.070 --> 01:02:50.429
+uh, which is, uh, being aware, having an experience
+
+1057
+01:02:50.429 --> 01:02:56.030
+of something based on your expectations, uh, rather than
+
+1058
+01:02:56.030 --> 01:02:59.790
+what you're attending to. So we, we find evidence
+
+1059
+01:02:59.790 --> 01:03:02.909
+for this expectation awareness under conditions of inattention. So
+
+1060
+01:03:02.909 --> 01:03:05.389
+if somebody is not paying attention to something, but
+
+1061
+01:03:05.389 --> 01:03:07.340
+they have a very strong expectation that something is
+
+1062
+01:03:07.340 --> 01:03:10.719
+going to happen, then this seems to suggest that
+
+1063
+01:03:10.719 --> 01:03:14.530
+they, they experience it. They, their brain kind of
+
+1064
+01:03:14.629 --> 01:03:17.909
+stimulates or, or creates that experience in the absence
+
+1065
+01:03:17.909 --> 01:03:23.030
+of attention based on very strong expectations. Um, So,
+
+1066
+01:03:23.310 --> 01:03:25.250
+uh, yeah. And I've kind of noticed that in
+
+1067
+01:03:25.250 --> 01:03:27.290
+my own life, right? Working on this, just like,
+
+1068
+01:03:27.600 --> 01:03:29.149
+uh, you know, I've got a window here, I've
+
+1069
+01:03:29.149 --> 01:03:32.050
+got a big communal garden out here. And so,
+
+1070
+01:03:32.199 --> 01:03:33.610
+you know, I, I sit at my desk quite
+
+1071
+01:03:33.610 --> 01:03:35.050
+a lot of the time working. And so I
+
+1072
+01:03:35.050 --> 01:03:36.689
+come to predict, you know, there are going to
+
+1073
+01:03:36.689 --> 01:03:39.239
+be dogs, there are going to be people, um,
+
+1074
+01:03:39.449 --> 01:03:42.729
+all kinds of activity. And I noticed sometimes when
+
+1075
+01:03:42.729 --> 01:03:44.649
+I'm kind of working and maybe there's some kind
+
+1076
+01:03:44.649 --> 01:03:47.010
+of a flash of light, some movement in my
+
+1077
+01:03:47.010 --> 01:03:51.879
+peripheral vision, I do kind of very quickly. Kind
+
+1078
+01:03:51.879 --> 01:03:54.239
+of experience it as a dog, right? You know,
+
+1079
+01:03:54.320 --> 01:03:56.080
+I kind of, and then when I shift my
+
+1080
+01:03:56.080 --> 01:03:58.919
+attention quickly, it resolve, you know, that prediction is
+
+1081
+01:03:58.919 --> 01:04:00.239
+shown to be wrong and I see it for
+
+1082
+01:04:00.239 --> 01:04:01.989
+what it is, just the kind of movement of
+
+1083
+01:04:01.989 --> 01:04:06.760
+leaves across the, um, across the, the garden outside.
+
+1084
+01:04:06.919 --> 01:04:14.010
+So, um, yeah, uh, expectations, uh, I mean, we've
+
+1085
+01:04:14.010 --> 01:04:15.649
+known for a long time that expectations play a
+
+1086
+01:04:15.649 --> 01:04:19.050
+strong, um, role in what we perceive, um, going
+
+1087
+01:04:19.050 --> 01:04:21.810
+back to, you know, people like Helmholtz, uh, back
+
+1088
+01:04:21.810 --> 01:04:24.489
+in the 19th century, but I think, um, today
+
+1089
+01:04:24.489 --> 01:04:29.919
+we're really getting a kind of Computational neuroscientific, uh,
+
+1090
+01:04:29.929 --> 01:04:35.389
+account of how these expectations can, um, Influence, yeah,
+
+1091
+01:04:35.469 --> 01:04:36.409
+what we perceive.
+
+1092
+01:04:38.189 --> 01:04:43.500
+Is attention necessary for all kinds of conscious experiences?
+
+1093
+01:04:45.620 --> 01:04:50.040
+Um, SO I would say based on my research,
+
+1094
+01:04:50.500 --> 01:04:58.810
+writing this book and my understanding. That attention is
+
+1095
+01:04:58.810 --> 01:05:04.489
+necessary for conscious perception. Mm. Um, IF we are
+
+1096
+01:05:04.489 --> 01:05:08.790
+not paying attention. We will not be aware of
+
+1097
+01:05:08.790 --> 01:05:15.649
+certain things that are happening around us. Um, And
+
+1098
+01:05:15.649 --> 01:05:17.189
+our brain, you know, we will not be conscious
+
+1099
+01:05:17.189 --> 01:05:19.050
+of them. They will not fit into our world
+
+1100
+01:05:19.050 --> 01:05:20.570
+model at that time. They will not be part
+
+1101
+01:05:20.570 --> 01:05:26.530
+of that world model. Um, And I don't see
+
+1102
+01:05:26.530 --> 01:05:29.780
+any evidence. And I could be wrong because I
+
+1103
+01:05:29.780 --> 01:05:32.020
+might not have looked deeply enough, but I don't
+
+1104
+01:05:32.020 --> 01:05:36.080
+see any evidence in the literature that that shows
+
+1105
+01:05:36.080 --> 01:05:40.810
+that there can be conscious perception without attention. I
+
+1106
+01:05:40.810 --> 01:05:44.800
+think, and I would argue that And I, I
+
+1107
+01:05:44.800 --> 01:05:46.959
+do argue this in the book that in all
+
+1108
+01:05:46.959 --> 01:05:50.719
+cases where it seems that, uh, there's conscious perception
+
+1109
+01:05:50.719 --> 01:05:54.330
+without attention, actually there's some kind of minimal attention
+
+1110
+01:05:54.520 --> 01:05:57.679
+being deployed there. And I think one of the
+
+1111
+01:05:57.679 --> 01:06:01.709
+best Procedures or methods we have to really explore
+
+1112
+01:06:01.709 --> 01:06:04.590
+what we see, what we're conscious of, what we
+
+1113
+01:06:04.590 --> 01:06:09.459
+hear without attention is the inattentional blindness paradigm, because
+
+1114
+01:06:09.469 --> 01:06:15.689
+it allows us to measure. What people perceive when
+
+1115
+01:06:15.689 --> 01:06:19.610
+they're Attending to another stimulus and they're not, they're
+
+1116
+01:06:19.610 --> 01:06:23.649
+not expecting a new stimulus to appear. And, um,
+
+1117
+01:06:26.479 --> 01:06:28.479
+And yeah, I think the weight of evidence really
+
+1118
+01:06:28.479 --> 01:06:31.949
+strongly suggests that conscious perception requires attention. Now, having
+
+1119
+01:06:31.949 --> 01:06:36.800
+said that, I do think that this new evidence
+
+1120
+01:06:36.800 --> 01:06:40.750
+from our own lab and from others' labs. Points
+
+1121
+01:06:40.750 --> 01:06:43.790
+towards, suggests, and then again then there'll needs to
+
+1122
+01:06:43.790 --> 01:06:45.689
+be a lot more work here, but suggests that
+
+1123
+01:06:46.110 --> 01:06:51.699
+under certain conditions, uh, we can have experiences that
+
+1124
+01:06:51.699 --> 01:06:55.899
+are. Um, ILLUSORY, I prefer to use the term
+
+1125
+01:06:55.899 --> 01:06:58.419
+illusory, but we can have experiences that are not
+
+1126
+01:06:58.419 --> 01:07:02.209
+perceptions, so we can hallucinate, we can dream, we
+
+1127
+01:07:02.209 --> 01:07:09.139
+can mine, you know, uh, daydream, etc. AND The
+
+1128
+01:07:09.139 --> 01:07:14.020
+evidence that I've, you know, sort of outlined. Suggests
+
+1129
+01:07:14.020 --> 01:07:20.419
+that not all conscious experiences require attention, right? Expectation,
+
+1130
+01:07:20.580 --> 01:07:23.340
+awareness. If it's true, if it is the case
+
+1131
+01:07:23.340 --> 01:07:27.929
+that these participants really are hallucinating a face in
+
+1132
+01:07:27.929 --> 01:07:31.030
+its absence, and they're not attending to that face,
+
+1133
+01:07:31.100 --> 01:07:36.600
+right? That's really suggestive that, uh, under those conditions,
+
+1134
+01:07:37.179 --> 01:07:39.620
+the participant is having an experience in the absence
+
+1135
+01:07:39.620 --> 01:07:45.459
+of attention. So I think while conscious perception. Does
+
+1136
+01:07:46.169 --> 01:07:49.330
+require attention. I think there's, again, the weight of
+
+1137
+01:07:49.330 --> 01:07:52.889
+evidence strongly suggests that. I think that these new
+
+1138
+01:07:52.889 --> 01:07:59.010
+findings point towards experiences that do not, uh, require
+
+1139
+01:07:59.010 --> 01:08:01.739
+attention. Um. Yeah
+
+1140
+01:08:03.629 --> 01:08:10.590
+So then how do attention and expectation construct perceptual
+
+1141
+01:08:10.590 --> 01:08:11.350
+reality?
+
+1142
+01:08:13.100 --> 01:08:14.969
+Yeah, good. I mean, so if we go back
+
+1143
+01:08:14.969 --> 01:08:22.469
+to this, um, Predictive processing, predictive coding. A way
+
+1144
+01:08:22.469 --> 01:08:28.839
+of looking at things. Uh, It's all precision, right?
+
+1145
+01:08:29.700 --> 01:08:33.540
+Um, SO the idea is that we have this
+
+1146
+01:08:33.540 --> 01:08:40.740
+again, cascading hierarchy of predictions. And The, this cascading
+
+1147
+01:08:40.740 --> 01:08:44.799
+hierarchy of predictions really kind of, uh, encode our
+
+1148
+01:08:44.810 --> 01:08:47.729
+our expectations about the world. That's what the expectation,
+
+1149
+01:08:48.020 --> 01:08:51.589
+that's what expectations are really, these priors, these predictions
+
+1150
+01:08:51.589 --> 01:08:59.040
+that are, uh. That our brain encodes and Again,
+
+1151
+01:08:59.120 --> 01:09:02.560
+we have this feed forward sweep of sensory information
+
+1152
+01:09:02.560 --> 01:09:06.879
+in terms of prediction errors and attention then is
+
+1153
+01:09:06.879 --> 01:09:11.759
+the, the kind of deploying of precision, uh, to
+
+1154
+01:09:11.759 --> 01:09:16.000
+the prediction errors, to the, uh, the predictions. So
+
+1155
+01:09:16.000 --> 01:09:21.490
+we have this, uh, precision weighted prediction error minimization,
+
+1156
+01:09:22.240 --> 01:09:27.078
+right, which basically means that the brain is. Using
+
+1157
+01:09:27.078 --> 01:09:31.188
+expectations and the sensory information and allocating confidence to
+
+1158
+01:09:31.188 --> 01:09:34.278
+some information as opposed to other bits of information,
+
+1159
+01:09:34.519 --> 01:09:37.179
+kind of tuning this, tuning that, and that whole
+
+1160
+01:09:37.758 --> 01:09:43.970
+precision weighted prediction error minimization, uh, is what. Uh,
+
+1161
+01:09:44.220 --> 01:09:47.779
+ATTENTION and expectation are in terms of, uh, and
+
+1162
+01:09:47.779 --> 01:09:52.349
+what conscious what perception is. Uh, YEAH. Yeah.
+
+1163
+01:09:52.898 --> 01:09:55.579
+OK, so I have 2 more questions that have
+
+1164
+01:09:55.579 --> 01:09:59.258
+to do with the implications of how we've been
+
+1165
+01:09:59.258 --> 01:10:02.699
+talking about here today. What are the implications of
+
+1166
+01:10:02.699 --> 01:10:06.858
+this research for scientific theories of consciousness?
+
+1167
+01:10:08.790 --> 01:10:13.790
+Yeah, good question. Um, I think that this, these
+
+1168
+01:10:13.790 --> 01:10:19.799
+findings, what I've called expectation awareness. Present a challenge
+
+1169
+01:10:19.799 --> 01:10:25.479
+to some scientific theories of consciousness. Particularly to those
+
+1170
+01:10:25.479 --> 01:10:29.439
+theories which, uh, again, based on the evidence from
+
+1171
+01:10:29.439 --> 01:10:32.200
+an attentional blindness change, blindness, attentional blink, and other
+
+1172
+01:10:32.200 --> 01:10:36.160
+bits of evidence, uh, show that attention is a
+
+1173
+01:10:36.160 --> 01:10:39.629
+kind of gateway to conscious perception, right? Uh, WE
+
+1174
+01:10:39.629 --> 01:10:42.109
+can have all these incoming signals coming in, uh,
+
+1175
+01:10:42.229 --> 01:10:44.100
+but if they're not attended to, then they don't
+
+1176
+01:10:44.100 --> 01:10:46.890
+get broadcast to the rest of the system. And
+
+1177
+01:10:46.890 --> 01:10:49.790
+I'm thinking here of the global neuronal workspace theory
+
+1178
+01:10:49.790 --> 01:10:52.609
+by, uh, Bars and, uh, and then later De
+
+1179
+01:10:52.609 --> 01:11:00.970
+Hane. Um. And, uh, so, These theories, uh, you
+
+1180
+01:11:00.970 --> 01:11:04.839
+know, Sort of say that attention is necessary for
+
+1181
+01:11:04.839 --> 01:11:10.020
+conscious broadcast, conscious information processing. But if expectation awareness
+
+1182
+01:11:10.020 --> 01:11:13.779
+is true, if, if we can have experiences that
+
+1183
+01:11:13.779 --> 01:11:19.020
+are not, that we're not attending to, um, that,
+
+1184
+01:11:19.500 --> 01:11:21.939
+that shows that this, these theories can't be quite
+
+1185
+01:11:21.939 --> 01:11:26.669
+right because if we, because, you know, um, they,
+
+1186
+01:11:26.740 --> 01:11:31.490
+they kind of challenge those theories, uh, assumptions and,
+
+1187
+01:11:31.500 --> 01:11:34.560
+um, So yeah, so I see this as a
+
+1188
+01:11:34.560 --> 01:11:36.839
+challenge to theories like the global neuron and workspace
+
+1189
+01:11:36.839 --> 01:11:45.609
+theory, the attention schema theory, um. And um You
+
+1190
+01:11:45.609 --> 01:11:47.770
+know, the evidence seems to require us to kind
+
+1191
+01:11:47.770 --> 01:11:51.850
+of at least modify these theories slightly to account
+
+1192
+01:11:51.850 --> 01:11:56.029
+for this, um, this empirical evidence. Yeah.
+
+1193
+01:11:57.330 --> 01:12:03.000
+And finally, what kinds of clinical implications does this
+
+1194
+01:12:03.000 --> 01:12:08.879
+research have, particularly for how we understand hallucinations and
+
+1195
+01:12:08.879 --> 01:12:10.410
+conditions like schizophrenia?
+
+1196
+01:12:11.790 --> 01:12:13.609
+Yeah, it has a lot of implications. And I
+
+1197
+01:12:13.609 --> 01:12:16.729
+think that's one of the most exciting, uh, parts
+
+1198
+01:12:16.729 --> 01:12:21.339
+of this, uh, is that, um, What this seems
+
+1199
+01:12:21.339 --> 01:12:25.439
+to show is that Kind of we hallucinate all
+
+1200
+01:12:25.439 --> 01:12:29.640
+the time, right? So, when, uh, so one kind
+
+1201
+01:12:29.640 --> 01:12:32.799
+of way of thinking about this predictive processing, predictive
+
+1202
+01:12:32.799 --> 01:12:36.799
+coding, Bayesian brain theory is that, uh, perception is
+
+1203
+01:12:36.799 --> 01:12:40.720
+a controlled hallucination. And I can't remember who was
+
+1204
+01:12:40.720 --> 01:12:43.479
+the first person to say this, but, uh, Anil
+
+1205
+01:12:43.479 --> 01:12:45.830
+Seth has mentioned it a lot in, in talks,
+
+1206
+01:12:45.879 --> 01:12:49.459
+etc. Uh, BUT the idea is this, that, uh,
+
+1207
+01:12:50.080 --> 01:12:53.720
+our brains are hallucinating all the time based on
+
+1208
+01:12:54.200 --> 01:12:58.240
+Uh, you know, our expectations, uh, uh, of what's
+
+1209
+01:12:58.240 --> 01:13:00.319
+going to be in the world. It's the kind
+
+1210
+01:13:00.319 --> 01:13:02.560
+of simulation that our brain makes of what it
+
+1211
+01:13:02.560 --> 01:13:04.799
+thinks the world is. It's a, it's a controlled,
+
+1212
+01:13:05.000 --> 01:13:08.200
+it's a hallucination. But it's, it's not just a
+
+1213
+01:13:08.200 --> 01:13:12.029
+hall it's not, uh, so hallucinations can, you know,
+
+1214
+01:13:12.200 --> 01:13:14.200
+take you far away from reality and make you
+
+1215
+01:13:14.200 --> 01:13:16.359
+think things that don't exist and see things that
+
+1216
+01:13:16.359 --> 01:13:19.879
+don't exist, etc. But this is a controlled hallucination,
+
+1217
+01:13:19.959 --> 01:13:24.500
+meaning it's tethered to the world via the sensory
+
+1218
+01:13:25.000 --> 01:13:28.040
+epithelia, right? So we're, we're tethered to the world
+
+1219
+01:13:28.040 --> 01:13:30.549
+like a kind of needle on a record, right?
+
+1220
+01:13:30.680 --> 01:13:36.270
+There's a connection between us. Um, BUT, uh, So
+
+1221
+01:13:36.270 --> 01:13:38.509
+that's our reality and, and, and, you know, and
+
+1222
+01:13:38.509 --> 01:13:42.189
+it's, and we share this hallucination, we call it
+
+1223
+01:13:42.189 --> 01:13:45.810
+objectivity, we call it the world, right? There's intersubjectivity.
+
+1224
+01:13:46.109 --> 01:13:49.709
+Um, BUT this process can, you know, go wrong.
+
+1225
+01:13:49.830 --> 01:13:55.950
+So the, uh, the, the brain can kind of
+
+1226
+01:13:55.950 --> 01:13:58.979
+lose, uh, touch with the sensory information coming in,
+
+1227
+01:13:59.049 --> 01:14:02.200
+can become untethered from the world. In which case,
+
+1228
+01:14:02.259 --> 01:14:05.089
+the hallucinate, you know, the system that creates this
+
+1229
+01:14:05.089 --> 01:14:06.689
+world model is free to kind of do what
+
+1230
+01:14:06.689 --> 01:14:11.169
+it likes, you know, certain constraints, uh, but it's
+
+1231
+01:14:11.169 --> 01:14:15.060
+not tethered to reality and therefore, you can see
+
+1232
+01:14:15.060 --> 01:14:16.609
+things that aren't there. If you've got a very
+
+1233
+01:14:16.609 --> 01:14:22.129
+strong expectation that you're gonna say, see a face
+
+1234
+01:14:22.129 --> 01:14:28.370
+in a crowd, uh, Uh, and if that hallucination
+
+1235
+01:14:28.370 --> 01:14:30.629
+is strong enough, then you will probably see that
+
+1236
+01:14:30.629 --> 01:14:32.490
+face in the crowd even though it's not there.
+
+1237
+01:14:32.790 --> 01:14:39.720
+Um, SO. So yeah, so this applies to. Um,
+
+1238
+01:14:40.089 --> 01:14:42.509
+ALL kinds of hallucinations. So in the case of,
+
+1239
+01:14:42.850 --> 01:14:48.100
+uh, for example, Charles Bonnet syndrome or schizophrenia, um.
+
+1240
+01:14:49.779 --> 01:14:54.859
+This, uh, uh, controlled hallucination has been, has become
+
+1241
+01:14:54.859 --> 01:14:59.819
+uncontrolled, and therefore, you perceive what the brain is
+
+1242
+01:14:59.819 --> 01:15:04.020
+making up. And while that might happen to all
+
+1243
+01:15:04.020 --> 01:15:06.069
+of us on a certain level all the time,
+
+1244
+01:15:06.459 --> 01:15:09.439
+uh, many of us who don't suffer from pathologies
+
+1245
+01:15:09.439 --> 01:15:11.859
+are still tethered to the world. So even though
+
+1246
+01:15:11.859 --> 01:15:14.620
+we might have an entertain a thought of X
+
+1247
+01:15:14.620 --> 01:15:17.060
+or Y, that's a bit strange, uh, you know,
+
+1248
+01:15:17.140 --> 01:15:20.870
+you quickly resolve that by Uh, testing it against
+
+1249
+01:15:20.870 --> 01:15:24.029
+the world, what's coming in through the senses. Um,
+
+1250
+01:15:24.370 --> 01:15:27.509
+SO, yeah, I think what this shows is that,
+
+1251
+01:15:27.569 --> 01:15:31.750
+um, Hallucinations can occur on a kind of range.
+
+1252
+01:15:31.870 --> 01:15:36.319
+Some hallucinations are necessary, you know, this controlled hallucination
+
+1253
+01:15:36.319 --> 01:15:38.950
+that, that is what we are at the moment,
+
+1254
+01:15:38.990 --> 01:15:41.229
+if that's true. It's necessary for us to survive
+
+1255
+01:15:41.229 --> 01:15:43.580
+in this world to kind of, you know, persist,
+
+1256
+01:15:43.870 --> 01:15:48.509
+but some uncontrolled hallucinations can lead us to, uh,
+
+1257
+01:15:48.520 --> 01:15:53.649
+places like schizophrenia or, um, delusions, um, or other
+
+1258
+01:15:53.990 --> 01:15:58.470
+kind of, uh, distortions of perception and reality. Yeah.
+
+1259
+01:16:00.080 --> 01:16:05.060
+Great, so the book is again constructing experience, expectation,
+
+1260
+01:16:05.109 --> 01:16:08.439
+and attention in perception. I'm leaving a link to
+
+1261
+01:16:08.439 --> 01:16:11.759
+it in the description of the interview. And Doctor
+
+1262
+01:16:11.759 --> 01:16:14.640
+Clark, apart from the book, would you like to
+
+1263
+01:16:14.640 --> 01:16:17.359
+tell people where they can find your work on
+
+1264
+01:16:17.359 --> 01:16:18.060
+the internet?
+
+1265
+01:16:19.080 --> 01:16:22.839
+Yeah. So they can find my work on ResearchNet
+
+1266
+01:16:23.229 --> 01:16:27.990
+and academia.edu. And I don't currently have a personal
+
+1267
+01:16:27.990 --> 01:16:30.470
+website. You can find information about me on the
+
+1268
+01:16:30.470 --> 01:16:33.229
+University of West London website. Uh, THERE'S a list
+
+1269
+01:16:33.229 --> 01:16:37.069
+of all my publications there. Um, YEAH, I, I,
+
+1270
+01:16:37.149 --> 01:16:39.109
+I really should get a website set up, but
+
+1271
+01:16:39.109 --> 01:16:41.680
+that's, that's something I need to do next. Yeah.
+
+1272
+01:16:42.790 --> 01:16:43.259
+OK,
+
+1273
+01:16:43.419 --> 01:16:46.299
+so thank you so much for taking the time
+
+1274
+01:16:46.299 --> 01:16:48.500
+to come on the show. It's been a real
+
+1275
+01:16:48.500 --> 01:16:49.700
+pleasure to talk with you.
+
+1276
+01:16:50.140 --> 01:16:51.580
+Thank you so much, Ricardo. It's been a great
+
+1277
+01:16:51.580 --> 01:16:52.740
+pleasure too. Thank you.
+
+1278
+01:16:54.040 --> 01:16:56.560
+Hi guys, thank you for watching this interview until
+
+1279
+01:16:56.560 --> 01:16:58.680
+the end. If you liked it, please share it,
+
+1280
+01:16:58.879 --> 01:17:01.669
+leave a like and hit the subscription button. The
+
+1281
+01:17:01.669 --> 01:17:03.930
+show is brought to you by Enlights, Learning and
+
+1282
+01:17:03.930 --> 01:17:07.939
+Development done differently. Check their website at lights.com and
+
+1283
+01:17:07.939 --> 01:17:11.669
+also please consider supporting the show on Patreon or
+
+1284
+01:17:11.669 --> 01:17:14.149
+PayPal. I would also like to give a huge
+
+1285
+01:17:14.149 --> 01:17:17.250
+thank you to my main patrons and PayPal supporters,
+
+1286
+01:17:17.669 --> 01:17:21.509
+Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz Olaf,
+
+1287
+01:17:21.580 --> 01:17:24.819
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis,
+
+1288
+01:17:24.970 --> 01:17:28.540
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1289
+01:17:28.540 --> 01:17:32.580
+Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1290
+01:17:33.089 --> 01:17:36.850
+Michel Stormir, Samuel Andre, Francis Forti Agnun, Svergoo, and
+
+1291
+01:17:36.850 --> 01:17:40.620
+Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel
+
+1292
+01:17:40.620 --> 01:17:44.540
+Cerri, Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+1293
+01:17:44.700 --> 01:17:48.390
+David Sloane Wilson, Yasilla Dezara Romain Roach, Diego Londono
+
+1294
+01:17:48.390 --> 01:17:52.770
+Correa. Yannik Punter DaRosmani, Charlotte Blis, Nicole Barbaro, Adam
+
+1295
+01:17:52.770 --> 01:17:56.439
+Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov,
+
+1296
+01:17:56.560 --> 01:18:00.569
+Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward
+
+1297
+01:18:00.569 --> 01:18:04.549
+Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P
+
+1298
+01:18:04.549 --> 01:18:08.810
+Scortez or Suliliski, Scott Zachary Fish, Tim Duffyani Smith,
+
+1299
+01:18:08.890 --> 01:18:12.930
+and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+1300
+01:18:13.299 --> 01:18:18.029
+Luke Lovai, Georgius Theophannus, Chris Williamson, Peter Wolozin, David
+
+1301
+01:18:18.040 --> 01:18:21.890
+Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw,
+
+1302
+01:18:22.169 --> 01:18:26.339
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+1303
+01:18:26.339 --> 01:18:31.290
+Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert
+
+1304
+01:18:31.290 --> 01:18:35.899
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+1305
+01:18:35.899 --> 01:18:39.919
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+1306
+01:18:40.209 --> 01:18:44.729
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+1307
+01:18:44.729 --> 01:18:49.689
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+1308
+01:18:49.689 --> 01:18:56.540
+Goler, Alexander Obert, Liam Danaway, BR, Massoud Ali Mohammadi,
+
+1309
+01:18:56.799 --> 01:19:01.759
+Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov,
+
+1310
+01:19:02.000 --> 01:19:06.384
+Sean Nelson, Mike Levin, and Jos Necht. A special
+
+1311
+01:19:06.384 --> 01:19:09.254
+thanks to my producers Ia Webb, Jim Frank Lucas
+
+1312
+01:19:09.254 --> 01:19:13.705
+Stinnik, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas
+
+1313
+01:19:13.705 --> 01:19:17.345
+Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al
+
+1314
+01:19:17.345 --> 01:19:20.225
+Nick Cortiz, and Nick Golden, and to my executive
+
+1315
+01:19:20.225 --> 01:19:24.104
+producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie.
+
+1316
+01:19:24.225 --> 01:19:25.004
+Thank you for all.
+

@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1199 Jason Clarke - Constructing Experience: Expectation and Attention in Perception",
-	"youtubeid": "d0NrOxiLOTk"
+	"vtt": "1199.vtt",
+	"youtubeid": "d0NrOxiLOTk",
+	"transcript": "1199.lines.json"
 }
 ---
 RECORDED ON JULY 17th 2025.  

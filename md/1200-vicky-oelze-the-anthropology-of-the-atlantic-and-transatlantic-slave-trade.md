@@ -1,10 +1,12 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/109826452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-17%2Ff64ae297-f0d6-c979-ac8e-7f03ca2d8032.m4a",
 	"draft": false,
 	"episodeid": "1200",
 	"excerpt": "Dr. Vicky Oelze is an Associate Professor in the Anthropology Department and Director of the Primate Ecology & Molecular Anthropology Lab at the University of California, Santa Cruz. Her research interests include mobility and dietary adaptations in archaeological human populations; African strontium isoscapes and isotopic investigations of the Atlantic and transatlantic slave trade; the dietary ecology of extant African great apes; great ape breastfeeding and weaning; and chimpanzee tool use and termite-chimpanzee interactions.",
 	"image": "https://i.ytimg.com/vi/kF264T13arI/maxresdefault.jpg",
 	"publishDate": 2026-01-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1200-Vicky-Oelze-The-Anthropology-of-the-Atlantic-and-Transatlantic-Slave-Trade-e39m4uk",
 	"tags": [
 		"Anthropology"
 	],
