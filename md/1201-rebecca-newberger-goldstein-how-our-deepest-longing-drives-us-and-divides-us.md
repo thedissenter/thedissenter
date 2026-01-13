@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1201 Rebecca Newberger Goldstein: How Our Deepest Longing Drives Us and Divides Us",
-	"youtubeid": "0rzPBnFQPPc"
+	"vtt": "1201.vtt",
+	"youtubeid": "0rzPBnFQPPc",
+	"transcript": "1201.lines.json"
 }
 ---
 RECORDED ON DECEMBER 19th 2025.  
