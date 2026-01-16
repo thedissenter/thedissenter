@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1202 Valerie Tiberius: The Philosophy and Psychology of Well-Being",
-	"youtubeid": "CxITwO0zHKM"
+	"vtt": "1202.vtt",
+	"youtubeid": "CxITwO0zHKM",
+	"transcript": "1202.lines.json"
 }
 ---
 Dr. Valerie Tiberius is a Professor in the Department of Philosophy at the University of Minnesota. Her work explores the ways in which philosophy and psychology can both contribute to the study of well-being and virtue. She is the author of What Do You Want Out of Life?: A Philosophical Guide to Figuring Out What Matters.
