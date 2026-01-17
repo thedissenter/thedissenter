@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1203 Nicole Karlis: Your Brain on Altruism",
-	"youtubeid": "6vZj8ak6E0M"
+	"vtt": "1203.vtt",
+	"youtubeid": "6vZj8ak6E0M",
+	"transcript": "1203.lines.json"
 }
 ---
 RECORDED ON OCTOBER 21st 2025.  
