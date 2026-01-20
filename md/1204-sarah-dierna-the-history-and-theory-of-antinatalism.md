@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1204 Sarah Dierna: The History and Theory of Antinatalism",
-	"youtubeid": "XPs5AcAnQj8"
+	"vtt": "1204.vtt",
+	"youtubeid": "XPs5AcAnQj8",
+	"transcript": "1204.lines.json"
 }
 ---
 RECORDED ON DECEMBER 3rd 2025.  
