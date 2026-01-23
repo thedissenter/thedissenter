@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/112909272/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-20%2Fa846beb5-820b-0e06-604e-bc8d57c828d0.m4a",
 	"draft": false,
 	"episodeid": "1205",
 	"excerpt": "Jasmine Sherni is an adult content creator, model, and actress. She has a YouTube channel (@JasmineSherni).",
 	"image": "https://i.ytimg.com/vi/TcQMyprnHsk/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1205-jasmine-sherni-being-part-of-a-cultural/id1451347236?i=1000746244793&uo=4",
 	"publishDate": 2026-01-22,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1205-Jasmine-Sherni-Being-Part-of-a-Cultural-Minority-in-the-Sex-Industry-e3ck7go",
 	"title": "#1205 Jasmine Sherni: Being Part of a Cultural Minority in the Sex Industry",
 	"youtubeid": "TcQMyprnHsk"
 }
