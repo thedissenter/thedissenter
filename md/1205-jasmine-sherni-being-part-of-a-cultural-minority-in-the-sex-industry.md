@@ -9,7 +9,9 @@
 	"publishDate": 2026-01-22,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1205-Jasmine-Sherni-Being-Part-of-a-Cultural-Minority-in-the-Sex-Industry-e3ck7go",
 	"title": "#1205 Jasmine Sherni: Being Part of a Cultural Minority in the Sex Industry",
-	"youtubeid": "TcQMyprnHsk"
+	"vtt": "1205.vtt",
+	"youtubeid": "TcQMyprnHsk",
+	"transcript": "1205.lines.json"
 }
 ---
 RECORDED ON DECEMBER 19th 2025.  
