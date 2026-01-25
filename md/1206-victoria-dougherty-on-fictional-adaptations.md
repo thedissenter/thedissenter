@@ -12,7 +12,9 @@
 		"Art"
 	],
 	"title": "#1206 Victoria Dougherty: On Fictional Adaptations",
-	"youtubeid": "2oj4cQSoQYs"
+	"vtt": "1206.vtt",
+	"youtubeid": "2oj4cQSoQYs",
+	"transcript": "1206.lines.json"
 }
 ---
 RECORDED ON AUGUST 25th 2025.  
