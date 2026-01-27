@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1207 Alberto Acerbi: Digital Media, Between Reasonable Caution and Unjustified Fears",
-	"youtubeid": "D6NLQjxIjps"
+	"vtt": "1207.vtt",
+	"youtubeid": "D6NLQjxIjps",
+	"transcript": "1207.lines.json"
 }
 ---
 RECORDED ON DECEMBER 5th 2025.  
