@@ -1,0 +1,33 @@
+---
+{
+	"draft": false,
+	"episodeid": "1208",
+	"excerpt": "Dr. Eleanor Scerri is Professor at the Max Planck Institute of Geoanthropology, where she is the Head of the independent Max Planck Human Palaeosystems Research Group. She is an archaeological scientist interested in exploring the articulation between material culture, genetics, and biogeography to further theoretical, methodological and scientific advances in the field of human evolution. Her group is exploring the pan-African evolution of our species, Homo sapiens through a number of diverse projects.",
+	"image": "https://i.ytimg.com/vi/4g0pJHl7fww/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1208-eleanor-scerri-homo-sapiens-in-saudi-arabia-africa/id1451347236?i=1000747229650&uo=4",
+	"publishDate": 2026-01-29,
+	"tags": [
+		"Anthropology"
+	],
+	"title": "#1208 Eleanor Scerri: Homo sapiens in Saudi Arabia, Africa, and Malta",
+	"youtubeid": "4g0pJHl7fww"
+}
+---
+RECORDED ON JULY 7th 2025.  
+Dr. Eleanor Scerri is Professor at the Max Planck Institute of Geoanthropology, where she is the Head of the independent Max Planck Human Palaeosystems Research Group. She is an archaeological scientist interested in exploring the articulation between material culture, genetics, and biogeography to further theoretical, methodological and scientific advances in the field of human evolution. Her group is exploring the pan-African evolution of our species, Homo sapiens through a number of diverse projects.
+
+In this episode, we start by talking about H. sapiens in Saudi Arabia. We then discuss the spread of H. sapiens across wet tropical forests in Africa, and the diverse environments they inhabited there. We talk about H. sapiens on Malta and the Mediterranean islands. Finally, we discuss an expansion in the human niche and an out-of-Africa dispersal around 50 thousand years ago.
+
+Time Links:  
+<time>00:36</time> H. sapiens in Saudi Arabia  
+<time>17:48</time> Wet tropical forests in Africa  
+<time>31:06</time> H. sapiens on Malta and the Mediterranean islands  
+<time>49:59</time> An expansion in the human niche and an out-of-Africa dispersal 50 thousand years ago  
+<time>58:48</time> Follow Dr. Scerri’s work!
+
+---
+
+Follow Dr. Scerri’s work:  
+Faculty page: https://bit.ly/3Rabu4E  
+Website: https://bit.ly/3PNLZnS  
+ResearchGate profile: https://bit.ly/3SgKQbF
