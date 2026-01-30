@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/105140600/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-7%2F97b355cd-8da3-f8c1-e2e6-9b74d88f7609.m4a",
 	"draft": false,
 	"episodeid": "1208",
 	"excerpt": "Dr. Eleanor Scerri is Professor at the Max Planck Institute of Geoanthropology, where she is the Head of the independent Max Planck Human Palaeosystems Research Group. She is an archaeological scientist interested in exploring the articulation between material culture, genetics, and biogeography to further theoretical, methodological and scientific advances in the field of human evolution. Her group is exploring the pan-African evolution of our species, Homo sapiens through a number of diverse projects.",
 	"image": "https://i.ytimg.com/vi/4g0pJHl7fww/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1208-eleanor-scerri-homo-sapiens-in-saudi-arabia-africa/id1451347236?i=1000747229650&uo=4",
 	"publishDate": 2026-01-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1208-Eleanor-Scerri-Homo-sapiens-in-Saudi-Arabia--Africa--and-Malta-e3574to",
 	"tags": [
 		"Anthropology"
 	],
