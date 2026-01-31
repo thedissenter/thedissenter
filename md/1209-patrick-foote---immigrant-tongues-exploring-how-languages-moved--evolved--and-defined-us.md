@@ -12,7 +12,9 @@
 		"Linguistics"
 	],
 	"title": "#1209 Patrick Foote - Immigrant Tongues: Exploring How Languages Moved, Evolved, and Defined Us",
-	"youtubeid": "kBIsF8YDUJw"
+	"vtt": "1209.vtt",
+	"youtubeid": "kBIsF8YDUJw",
+	"transcript": "1209.lines.json"
 }
 ---
 RECORDED ON JANUARY 16th 2026.  
