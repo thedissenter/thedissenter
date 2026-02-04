@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1210 Cristina Bicchieri: What Are Social Norms, and How do They Change?",
-	"youtubeid": "Z4sdNxSJkWI"
+	"vtt": "1210.vtt",
+	"youtubeid": "Z4sdNxSJkWI",
+	"transcript": "1210.lines.json"
 }
 ---
 RECORDED ON DECEMBER 30th 2025.  

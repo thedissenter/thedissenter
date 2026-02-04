@@ -1,0 +1,2598 @@
+WEBVTT
+
+1
+00:00:00.349 --> 00:00:02.900
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:02.900 --> 00:00:05.829
+Dissenter. I'm your host, as always, Ricard Lops, and
+
+3
+00:00:05.829 --> 00:00:09.449
+today I'm joined by Doctor Christina Bichierri. She's, she's
+
+4
+00:00:09.449 --> 00:00:13.420
+SJ Patterson, Harvey Professor of Social Thought and Comparative
+
+5
+00:00:13.420 --> 00:00:16.989
+Ethics at the University of Pennsylvania. And today we're
+
+6
+00:00:16.989 --> 00:00:20.389
+going to talk about social norms from the perspective
+
+7
+00:00:20.389 --> 00:00:24.590
+of game theory, how to foster social change, and
+
+8
+00:00:24.590 --> 00:00:28.110
+some other related topics. So, Doctor Bichiri, welcome to
+
+9
+00:00:28.110 --> 00:00:29.750
+the show. It's a pleasure to everyone.
+
+10
+00:00:30.459 --> 00:00:31.239
+Thank you.
+
+11
+00:00:32.529 --> 00:00:37.729
+So, before getting into details here, first of all,
+
+12
+00:00:37.849 --> 00:00:41.049
+what are social norms? How do you approach them
+
+13
+00:00:41.049 --> 00:00:41.250
+in
+
+14
+00:00:41.250 --> 00:00:41.569
+your
+
+15
+00:00:41.569 --> 00:00:41.849
+work?
+
+16
+00:00:42.709 --> 00:00:46.959
+OK, good question. Uh, IF you look, uh, you
+
+17
+00:00:46.959 --> 00:00:51.599
+know, at various definition in the social sciences, um,
+
+18
+00:00:52.159 --> 00:00:55.790
+which I did when I started getting interested in,
+
+19
+00:00:55.959 --> 00:01:01.240
+you know, uh, defining social norms, uh, you find
+
+20
+00:01:01.240 --> 00:01:09.059
+a variety of definition from common behavior, OK, to,
+
+21
+00:01:09.330 --> 00:01:16.290
+uh, Uh, clusters of expectations, etc. And uh, what
+
+22
+00:01:16.290 --> 00:01:18.720
+I decided to do and is clear in my
+
+23
+00:01:18.720 --> 00:01:23.540
+2006 book, The Grammar of Society, where I give
+
+24
+00:01:23.599 --> 00:01:27.919
+what I think is an important and measurable definition
+
+25
+00:01:27.919 --> 00:01:32.500
+because measurement is very important, is a social norm,
+
+26
+00:01:33.000 --> 00:01:39.830
+uh, is, uh, basically A behavioral rule, OK, that
+
+27
+00:01:39.830 --> 00:01:47.230
+is supported by a social norm, right? By two
+
+28
+00:01:47.230 --> 00:01:52.790
+types of social expectation. On the one hand, we
+
+29
+00:01:52.790 --> 00:01:58.309
+have what I call empirical expectations. I, people believe
+
+30
+00:01:58.669 --> 00:02:03.550
+that other people that matter to them follow that
+
+31
+00:02:03.550 --> 00:02:06.669
+particular rule. When I say other people that matter
+
+32
+00:02:06.669 --> 00:02:10.149
+to them, I say something very important because very
+
+33
+00:02:10.149 --> 00:02:15.970
+often is left really in the vague, you know,
+
+34
+00:02:16.750 --> 00:02:21.309
+you know, uh, expectation about who and it's very
+
+35
+00:02:21.309 --> 00:02:27.470
+important, especially measurement to define very, very specifically what
+
+36
+00:02:27.470 --> 00:02:31.970
+I call the reference network, OK, I, the people
+
+37
+00:02:32.070 --> 00:02:36.119
+that matter to me. Their behavior matter to me.
+
+38
+00:02:36.360 --> 00:02:39.820
+It's not everybody in the world, but is maybe
+
+39
+00:02:39.820 --> 00:02:44.009
+specific people, specific populations, specific groups, and so on
+
+40
+00:02:44.009 --> 00:02:47.119
+and so forth. So the first type of expectation
+
+41
+00:02:47.119 --> 00:02:50.080
+is what I call empirical expectation, how do these
+
+42
+00:02:50.080 --> 00:02:55.630
+people behave in a set of particular circumstances. The
+
+43
+00:02:55.630 --> 00:02:59.820
+second very important expectation, what I call normative expectation,
+
+44
+00:03:00.149 --> 00:03:06.350
+that is what we believe are the normative beliefs,
+
+45
+00:03:06.699 --> 00:03:10.350
+OK, of the people that matter to us in
+
+46
+00:03:10.350 --> 00:03:15.330
+this particular circumstance and case. So, it's a second
+
+47
+00:03:15.330 --> 00:03:19.589
+order belief. What do I believe that they think
+
+48
+00:03:19.809 --> 00:03:22.919
+is acceptable, that they think is right to do,
+
+49
+00:03:23.250 --> 00:03:26.970
+that they think is wrong to do, that they
+
+50
+00:03:26.970 --> 00:03:30.610
+would punish or they would really ostracize us if
+
+51
+00:03:30.610 --> 00:03:33.529
+we don't do that, etc. ETC. So there are
+
+52
+00:03:33.529 --> 00:03:36.970
+these two components in social norm, the empirical and
+
+53
+00:03:36.970 --> 00:03:43.729
+the normative, and basically the Social expectation that support
+
+54
+00:03:43.729 --> 00:03:47.779
+the social norm are both empirical and normative. Now,
+
+55
+00:03:48.210 --> 00:03:50.449
+it is also very important to realize that we
+
+56
+00:03:50.449 --> 00:03:52.929
+can have all the expectation in the world and
+
+57
+00:03:52.929 --> 00:03:58.070
+do nothing. You know, oh yeah, yeah, yeah, people,
+
+58
+00:03:58.509 --> 00:04:01.949
+people pay their taxes, sure, and people think it's
+
+59
+00:04:01.949 --> 00:04:06.389
+all right, sure, but I will not, OK. And
+
+60
+00:04:06.389 --> 00:04:10.229
+so for a social norm to exist, it's very
+
+61
+00:04:10.229 --> 00:04:15.270
+important that this expectation have a causal influence on
+
+62
+00:04:15.270 --> 00:04:21.289
+behavior. I, I, I define it by saying that
+
+63
+00:04:21.289 --> 00:04:25.248
+my preference for behaving one way or another is
+
+64
+00:04:25.248 --> 00:04:32.450
+conditional on this expectation. So there are expectation. And
+
+65
+00:04:33.029 --> 00:04:38.299
+preference conditional on this expectation. Without all these components,
+
+66
+00:04:38.510 --> 00:04:42.250
+you don't have a social norm. Now, it's very
+
+67
+00:04:42.250 --> 00:04:44.890
+important that you may tell me, hey, wait a
+
+68
+00:04:44.890 --> 00:04:50.489
+moment, but there are norms that don't include normative
+
+69
+00:04:50.489 --> 00:04:55.410
+expectation. Yes, and I call them descriptive norms, like
+
+70
+00:04:55.410 --> 00:04:58.910
+convention, you know, how to dress at a party.
+
+71
+00:04:59.825 --> 00:05:02.464
+YOU know, where to put the fork when you
+
+72
+00:05:02.464 --> 00:05:07.505
+eat, etc. ETC. ARE all behavior that very much
+
+73
+00:05:07.505 --> 00:05:11.464
+depend on my expectations by belief of what other
+
+74
+00:05:11.464 --> 00:05:15.265
+people do, but there is no normative component. Typically,
+
+75
+00:05:15.424 --> 00:05:22.804
+norms emerge when there is a conflict between my
+
+76
+00:05:22.975 --> 00:05:28.100
+personal welfare. And the collective welfare. We have social
+
+77
+00:05:28.100 --> 00:05:33.339
+norms. They emerge exactly to, uh, you know, bring
+
+78
+00:05:33.339 --> 00:05:36.239
+to a close in some sense this conflict.
+
+79
+00:05:37.239 --> 00:05:41.260
+Mhm. But then why are social norms important? I
+
+80
+00:05:41.260 --> 00:05:44.899
+mean, what roles do they play in human societies?
+
+81
+00:05:45.339 --> 00:05:51.720
+Well, Crucial. Uh, WHEN we think of important things
+
+82
+00:05:51.720 --> 00:05:58.119
+like coordination, cooperation, uh, you know, having a society
+
+83
+00:05:58.119 --> 00:06:04.019
+at all, you know, social norms are these coordinating
+
+84
+00:06:04.320 --> 00:06:08.779
+devices. OK. They are, if you want to use
+
+85
+00:06:09.059 --> 00:06:14.399
+a game theoretic word, they are equilibria. OK, in
+
+86
+00:06:14.399 --> 00:06:17.350
+society, what does it mean that they are equilibrium?
+
+87
+00:06:17.760 --> 00:06:25.390
+It means that our expectations, OK, are correct because
+
+88
+00:06:25.399 --> 00:06:27.989
+behind the Nash equilibrium there are correct expectations and
+
+89
+00:06:27.989 --> 00:06:32.679
+our expectations are correct, which means that they are
+
+90
+00:06:32.679 --> 00:06:37.880
+consistent and they turn out to be right. OK,
+
+91
+00:06:38.000 --> 00:06:42.630
+this is very, very important. So in society, coordinating
+
+92
+00:06:42.630 --> 00:06:46.790
+activities, basically knowing what to do in a variety
+
+93
+00:06:46.790 --> 00:06:51.670
+of situations, knowing what it's OK to do and
+
+94
+00:06:51.670 --> 00:06:54.630
+what's not OK to do is crucial. It's crucial
+
+95
+00:06:54.630 --> 00:06:59.910
+to social life. Think of the chaos we would
+
+96
+00:06:59.910 --> 00:07:05.239
+live in if this didn't happen. And think of,
+
+97
+00:07:05.480 --> 00:07:09.459
+of something else. Think of you being a foreigner
+
+98
+00:07:09.760 --> 00:07:14.200
+and going in different countries where you don't know
+
+99
+00:07:14.200 --> 00:07:18.420
+the rules and think of the anxiety and confusion
+
+100
+00:07:20.279 --> 00:07:24.859
+and difficulty that you encounter. And think of a
+
+101
+00:07:24.859 --> 00:07:28.959
+place without rules, without norms, you will have, you
+
+102
+00:07:28.959 --> 00:07:33.440
+know, it will be basically maybe. Uh, uh, HOMO
+
+103
+00:07:33.440 --> 00:07:39.220
+homini lupus like Hobbes described the state of nature.
+
+104
+00:07:39.420 --> 00:07:42.089
+It would be like a state of nature. Mhm.
+
+105
+00:07:42.700 --> 00:07:45.100
+Yeah, yeah, right, I mean, I would imagine that
+
+106
+00:07:45.100 --> 00:07:48.260
+would be certainly the case. So, I mean, one
+
+107
+00:07:48.260 --> 00:07:51.459
+thing that, uh, I find really interesting when thinking
+
+108
+00:07:51.459 --> 00:07:56.339
+about social norms is about how, uh, they seem
+
+109
+00:07:56.339 --> 00:08:00.790
+to be. STABLE sometimes, other times they change, and
+
+110
+00:08:00.790 --> 00:08:03.769
+sometimes they even seem to change very quickly. So
+
+111
+00:08:03.869 --> 00:08:07.070
+how do you approach those aspects of social norms?
+
+112
+00:08:07.149 --> 00:08:10.269
+So for example, tell us first about what is
+
+113
+00:08:10.269 --> 00:08:14.910
+norm strength and norm stability. Tell us about these
+
+114
+00:08:14.910 --> 00:08:17.649
+two concepts and how they affect norm change.
+
+115
+00:08:17.910 --> 00:08:22.269
+Yeah, this is a very important, uh, uh, important
+
+116
+00:08:22.269 --> 00:08:29.619
+ideas now. Uh, NORM strength typically measured the status
+
+117
+00:08:29.619 --> 00:08:33.489
+quo. You ask, is this norm that exists strong,
+
+118
+00:08:33.580 --> 00:08:36.320
+and I can give you a definition of strength,
+
+119
+00:08:36.859 --> 00:08:41.780
+but before that, I want to separate stability. Stability
+
+120
+00:08:41.780 --> 00:08:45.280
+is a measure of dynamics. So one is a
+
+121
+00:08:45.280 --> 00:08:49.479
+static, the other is a dynamic. Often people confuse
+
+122
+00:08:49.479 --> 00:08:52.280
+the two, they should never be confused. There are
+
+123
+00:08:52.280 --> 00:08:57.760
+lots of common elements but also differences. Now, uh,
+
+124
+00:08:58.200 --> 00:09:00.929
+what do I mean when I say enormous strong?
+
+125
+00:09:01.520 --> 00:09:05.640
+There are 3 elements. One is that social expectations
+
+126
+00:09:05.640 --> 00:09:12.200
+are consistent. So our social expectations are not different
+
+127
+00:09:12.200 --> 00:09:15.059
+from the social expectation of other people. There is
+
+128
+00:09:15.059 --> 00:09:22.580
+internal consistency. Second, they are accurate. So our expectation
+
+129
+00:09:22.760 --> 00:09:27.859
+predict behavior. Indeed, OK, so there is accuracy of
+
+130
+00:09:27.859 --> 00:09:31.559
+expectation, not only behavior, but we all also predict
+
+131
+00:09:31.739 --> 00:09:36.559
+the normative beliefs of other people. So, We more
+
+132
+00:09:36.559 --> 00:09:40.520
+or less well understand what people accept or reject,
+
+133
+00:09:40.659 --> 00:09:44.719
+what people like or dislike, uh, uh, in, in
+
+134
+00:09:44.719 --> 00:09:48.359
+the normative sense. The third element, so there is
+
+135
+00:09:48.359 --> 00:09:53.380
+consistency, accuracy, but also specificity. What does it mean?
+
+136
+00:09:54.429 --> 00:10:00.030
+It means that a norm is not usually just
+
+137
+00:10:00.030 --> 00:10:04.219
+one thing. That is usually a small set of
+
+138
+00:10:04.219 --> 00:10:09.780
+acceptable behaviors. Think of fairness. Fairness can mean, may
+
+139
+00:10:09.780 --> 00:10:13.179
+mean different things, but we sort of accept in
+
+140
+00:10:13.179 --> 00:10:18.340
+different situations what fairness may mean. So give more
+
+141
+00:10:18.340 --> 00:10:21.719
+to the needy person. Or give more to the
+
+142
+00:10:21.719 --> 00:10:28.200
+meritorious person or give equally and merit need equality,
+
+143
+00:10:28.320 --> 00:10:32.440
+you know, have not to be in conflict, but
+
+144
+00:10:32.599 --> 00:10:37.950
+in certain situation with privilege, fairness. MERIT versus other
+
+145
+00:10:37.950 --> 00:10:42.710
+fairness as needed, etc. So, specific city, uh, which
+
+146
+00:10:42.710 --> 00:10:46.710
+is part of our strength, means collective agreement over
+
+147
+00:10:46.710 --> 00:10:52.239
+a set of acceptable behaviors, OK? So, The question
+
+148
+00:10:52.239 --> 00:10:56.549
+is, how many behaviors instantiate the norm and usually,
+
+149
+00:10:56.840 --> 00:11:02.760
+you know, is a relatively uh minor set, basically,
+
+150
+00:11:03.039 --> 00:11:09.599
+but is usually collectively accepted. And we see that
+
+151
+00:11:10.039 --> 00:11:14.400
+when we do experimental work. Think of trust games.
+
+152
+00:11:15.070 --> 00:11:17.950
+In trust game we measure trust and we measure
+
+153
+00:11:17.950 --> 00:11:22.830
+reciprocity and trust just means, uh, you know, I
+
+154
+00:11:22.830 --> 00:11:28.390
+give you, let's say $4 and you decide how
+
+155
+00:11:28.390 --> 00:11:33.789
+much of $4 you give to an anonymous responder.
+
+156
+00:11:34.349 --> 00:11:38.469
+And the interesting thing, whatever the anonymous responder receive
+
+157
+00:11:38.630 --> 00:11:43.250
+is multiplied by me. 3 times, let's say. So
+
+158
+00:11:43.250 --> 00:11:48.609
+if you give 4, the other receives 12. Now,
+
+159
+00:11:49.049 --> 00:11:53.049
+what is reciprocity? And you see that, you know,
+
+160
+00:11:53.169 --> 00:11:57.530
+people accept that reciprocity is maybe I give back
+
+161
+00:11:57.530 --> 00:12:02.640
+the 4. You know, to the investor, or I
+
+162
+00:12:02.640 --> 00:12:05.799
+give 5, or I give half of what I
+
+163
+00:12:05.799 --> 00:12:08.380
+receive 6, or maybe I give it a little
+
+164
+00:12:08.380 --> 00:12:15.460
+more, etc. So reciprocity is interpreted as a set
+
+165
+00:12:15.460 --> 00:12:21.429
+of possible actions, basically. But it's all agreed that
+
+166
+00:12:21.440 --> 00:12:24.200
+that this is reciprocity. Yeah, it may not be
+
+167
+00:12:24.200 --> 00:12:28.030
+strong, it may be weaker, but it's still reciprocity.
+
+168
+00:12:28.280 --> 00:12:31.419
+So this is an example basically that there are
+
+169
+00:12:31.719 --> 00:12:35.630
+many different behaviors that may instantiate the norm, but
+
+170
+00:12:35.630 --> 00:12:39.460
+it's very important for norm strength that the number
+
+171
+00:12:39.460 --> 00:12:44.659
+is not infinite and that is sort of restricted
+
+172
+00:12:44.799 --> 00:12:48.640
+and there is agreement about that. There is a
+
+173
+00:12:48.640 --> 00:12:54.409
+collective agreement. So we have consistency, accurate, specificity. Now,
+
+174
+00:12:54.919 --> 00:13:01.479
+you asked me about uh norm stability. This is
+
+175
+00:13:01.479 --> 00:13:05.440
+interesting. Again, stability is dynamics, you know, a norm
+
+176
+00:13:05.440 --> 00:13:08.989
+may be very strong but become unstable and I
+
+177
+00:13:08.989 --> 00:13:12.059
+will tell you the recent study I have done.
+
+178
+00:13:12.479 --> 00:13:18.119
+OK. Now, uh, I have argued in the past
+
+179
+00:13:18.119 --> 00:13:22.489
+when I was looking at, uh, uh, modeling with
+
+180
+00:13:22.489 --> 00:13:26.640
+game theory that the social norm is not an
+
+181
+00:13:26.640 --> 00:13:34.080
+evolutionary stable strategy. It's an evolutionarily stable state. What
+
+182
+00:13:34.080 --> 00:13:39.460
+does it mean? The state is represented by several
+
+183
+00:13:39.460 --> 00:13:43.460
+conditional strategies, and I did this publish an experiment
+
+184
+00:13:43.460 --> 00:13:48.219
+with the Trust gates. And, you know, suppose you
+
+185
+00:13:48.219 --> 00:13:51.539
+are an alien and come and look at our
+
+186
+00:13:51.539 --> 00:13:57.440
+world and see. You know, that people trust and
+
+187
+00:13:57.440 --> 00:14:01.640
+reciprocate, trust and reciprocate. That's very interesting. So you
+
+188
+00:14:01.640 --> 00:14:05.200
+believe what there is clearly, you know, a reciprocity,
+
+189
+00:14:05.260 --> 00:14:08.859
+norm and people trust, this is the rule. But
+
+190
+00:14:08.859 --> 00:14:14.109
+what lies behind, and I showed that, is that
+
+191
+00:14:14.359 --> 00:14:20.960
+there are, you know, this regular behavioral pattern. Under
+
+192
+00:14:20.960 --> 00:14:27.030
+is underlined by many different strategies. So one strategy
+
+193
+00:14:27.030 --> 00:14:31.969
+is always trust, never reciprocate. Don't trust, always reciprocate.
+
+194
+00:14:32.190 --> 00:14:35.190
+And you have a show, it's interesting because in
+
+195
+00:14:35.190 --> 00:14:38.909
+this paper, I show that a minority of very
+
+196
+00:14:38.909 --> 00:14:42.719
+moral people can only exist when there is a
+
+197
+00:14:42.719 --> 00:14:46.830
+population of punishers because a, a moral minority could
+
+198
+00:14:46.830 --> 00:14:50.070
+never exist alone. That's, that's an interesting result. But
+
+199
+00:14:50.070 --> 00:14:54.960
+basically, what I say is that the social norm.
+
+200
+00:14:55.609 --> 00:14:59.809
+Uh, YOU know, to be stable is an evolutionary
+
+201
+00:14:59.809 --> 00:15:05.429
+stable state, which is represented by several conditional strategies.
+
+202
+00:15:05.599 --> 00:15:10.409
+OK. Now, uh, I also show in some other
+
+203
+00:15:10.409 --> 00:15:13.849
+paper that stability is also related to what I
+
+204
+00:15:13.849 --> 00:15:17.049
+call norm sensitivity. What does I mean norm sensitivity?
+
+205
+00:15:17.130 --> 00:15:20.330
+Norm sensitivity means it's a parameter you can measure
+
+206
+00:15:21.090 --> 00:15:24.130
+how much I care about what the norms stands
+
+207
+00:15:24.130 --> 00:15:27.719
+for. And think of a society in which people
+
+208
+00:15:27.719 --> 00:15:33.200
+care a lot about fairness, OK? And what does
+
+209
+00:15:33.200 --> 00:15:37.200
+it mean? It means they have interjected in some
+
+210
+00:15:37.200 --> 00:15:41.539
+sense, the norm, OK? And this is very important.
+
+211
+00:15:42.039 --> 00:15:46.440
+So it's still a social norm, but it's become
+
+212
+00:15:46.440 --> 00:15:49.320
+part of my thinking, who I am. I am
+
+213
+00:15:49.320 --> 00:15:53.799
+the kind of person that really care about fairness.
+
+214
+00:15:54.330 --> 00:15:58.590
+So it's very important that stability is also related
+
+215
+00:15:58.590 --> 00:16:01.770
+to a sort of interjecting of the norm, of
+
+216
+00:16:01.770 --> 00:16:05.090
+a norm sensitivity. People with, what does it mean
+
+217
+00:16:05.090 --> 00:16:07.809
+that if we, if a population have a very
+
+218
+00:16:07.809 --> 00:16:11.450
+high norm sensitivity, they will have a very high
+
+219
+00:16:11.450 --> 00:16:17.270
+threshold for change. OK. It's not enough that like
+
+220
+00:16:17.270 --> 00:16:20.710
+they see a 30% people changing for them to
+
+221
+00:16:20.710 --> 00:16:24.909
+change or be invaded by a population like if
+
+222
+00:16:24.909 --> 00:16:28.989
+we are a majority, a minority invades a minority,
+
+223
+00:16:29.150 --> 00:16:32.750
+let's say they don't behave fairly, uh, it will
+
+224
+00:16:32.750 --> 00:16:35.950
+be very difficult, uh, you know, for a population
+
+225
+00:16:35.950 --> 00:16:40.239
+with a very high threshold to change. Now, Uh,
+
+226
+00:16:40.380 --> 00:16:44.619
+my recent study, my recent study, uh, uh, thinking
+
+227
+00:16:44.619 --> 00:16:50.419
+about, again, norm stability, I ask a different question.
+
+228
+00:16:50.539 --> 00:16:56.090
+I say, hey, We think of threshold, we think
+
+229
+00:16:56.090 --> 00:17:00.570
+of, uh, you know, sens sensitivity, etc. BUT we
+
+230
+00:17:00.570 --> 00:17:08.050
+never study different learning models. We learn differently. And
+
+231
+00:17:08.050 --> 00:17:10.890
+in a recent study that I'm going to publish
+
+232
+00:17:10.890 --> 00:17:16.739
+soon, uh, I and a postdoc of mine. Bake
+
+233
+00:17:16.739 --> 00:17:22.009
+soon. What we look at is 3 different learning
+
+234
+00:17:22.009 --> 00:17:27.229
+modes. One is a traditional Bayesian. The other is
+
+235
+00:17:27.229 --> 00:17:31.469
+a limited memory Bayesian, and the third is people
+
+236
+00:17:31.469 --> 00:17:36.709
+with confirmation bias. Uh, DO I need to explain
+
+237
+00:17:36.709 --> 00:17:38.270
+what confirmation bias is? No,
+
+238
+00:17:38.910 --> 00:17:41.910
+I've already explored that topic several times on the
+
+239
+00:17:41.910 --> 00:17:42.410
+show, so,
+
+240
+00:17:42.910 --> 00:17:46.609
+uh, OK. And so suppose you have two groups.
+
+241
+00:17:46.630 --> 00:17:49.569
+A is a majority and B is a minority,
+
+242
+00:17:49.790 --> 00:17:52.869
+and what we do is, uh, A may be
+
+243
+00:17:52.869 --> 00:17:57.510
+traditional Bayesian and B can be confirmation bias, or
+
+244
+00:17:57.510 --> 00:18:02.660
+a limited memory and B. Uh, TYPICAL Bayesians, etc.
+
+245
+00:18:02.760 --> 00:18:07.800
+ETC. AND the interesting thing. Is the learning mode
+
+246
+00:18:08.180 --> 00:18:14.140
+determines what happens. So a norm in the majority
+
+247
+00:18:14.140 --> 00:18:19.119
+can be completely stable, but depending on the interaction
+
+248
+00:18:19.119 --> 00:18:24.020
+of the learning modes of majority and minority, the
+
+249
+00:18:24.020 --> 00:18:31.449
+norm may completely decay. And the threshold for the
+
+250
+00:18:31.449 --> 00:18:36.680
+minority which is needed to overcome the majority depends
+
+251
+00:18:36.680 --> 00:18:39.369
+on the combination of learning models. I think it's
+
+252
+00:18:39.369 --> 00:18:43.239
+a very interesting result and nobody looks at that
+
+253
+00:18:43.609 --> 00:18:46.170
+because I think the important thing is that, well,
+
+254
+00:18:46.569 --> 00:18:49.680
+we receive data. How we, how do we process
+
+255
+00:18:49.680 --> 00:18:53.729
+this data? And uh, uh, you know, what we
+
+256
+00:18:53.729 --> 00:18:56.829
+do is show that the learning modes and the
+
+257
+00:18:56.829 --> 00:19:01.329
+combination learning modes. Uh, DETERMINED the threshold needed to
+
+258
+00:19:01.329 --> 00:19:04.290
+change the social norm, which is crucial.
+
+259
+00:19:05.229 --> 00:19:08.550
+OK, and so, and how do you study the
+
+260
+00:19:08.550 --> 00:19:13.589
+effects of social norms on individual decision making? I
+
+261
+00:19:13.589 --> 00:19:18.030
+mean, how, what influences our choice to obey or
+
+262
+00:19:18.030 --> 00:19:19.750
+disobey a social norm?
+
+263
+00:19:21.040 --> 00:19:25.920
+OK. There are, you know, various, because theoretically I
+
+264
+00:19:25.920 --> 00:19:28.680
+say in the abstract, I say you have conditional
+
+265
+00:19:28.680 --> 00:19:34.800
+preferences, OK. If I have social expectations and conditional
+
+266
+00:19:34.800 --> 00:19:39.550
+preference, means social expectation, cause. You know, my behavior.
+
+267
+00:19:39.849 --> 00:19:43.589
+Now, the, the question you may ask is, oh,
+
+268
+00:19:43.859 --> 00:19:48.209
+yeah, how do they cause my behavior? What's there?
+
+269
+00:19:48.619 --> 00:19:52.170
+And on the one hand, there may be fear
+
+270
+00:19:52.170 --> 00:19:56.790
+of punishment. OK. This is one of the reasons
+
+271
+00:19:56.790 --> 00:20:01.410
+why people obey norms. You know, they fear, uh,
+
+272
+00:20:01.910 --> 00:20:06.910
+being reprimanded. The punishment doesn't mean severe punishment, you
+
+273
+00:20:06.910 --> 00:20:09.550
+know, you go to jail. It's not a legal
+
+274
+00:20:09.550 --> 00:20:12.810
+thing, but it may mean you will be ostracized,
+
+275
+00:20:13.060 --> 00:20:17.569
+you will be judged negatively, your reputation. You know,
+
+276
+00:20:17.709 --> 00:20:22.050
+will suffer, etc. ETC. So, we are social animals
+
+277
+00:20:22.189 --> 00:20:25.349
+and so very often, you know, we obey norm,
+
+278
+00:20:25.459 --> 00:20:31.319
+even if we're not really Agreeing with the norm
+
+279
+00:20:31.739 --> 00:20:35.900
+because there are lots of social consequences for not
+
+280
+00:20:35.900 --> 00:20:38.890
+doing that. So this is one of the many
+
+281
+00:20:38.890 --> 00:20:42.900
+reasons, but there are also good reasons. Sometimes we
+
+282
+00:20:42.900 --> 00:20:47.550
+like what the norm stands for. The important thing
+
+283
+00:20:47.550 --> 00:20:51.729
+is that This distinguishing my view, the moral and
+
+284
+00:20:51.729 --> 00:20:55.729
+the social. Even if I like what the norms
+
+285
+00:20:55.729 --> 00:20:59.810
+stand for, and so, you know, I appreciate the
+
+286
+00:20:59.810 --> 00:21:03.069
+fact that people support it, I support it too,
+
+287
+00:21:04.290 --> 00:21:09.130
+it's not a moral norm for me as long
+
+288
+00:21:09.410 --> 00:21:17.199
+as the social expectations matter. OK, I see morality
+
+289
+00:21:17.199 --> 00:21:23.680
+as basically independent of social expectations. OK, so I
+
+290
+00:21:23.680 --> 00:21:26.869
+may obey a norm because I think it's right,
+
+291
+00:21:27.000 --> 00:21:30.060
+I think it's good, but it's still a social
+
+292
+00:21:30.060 --> 00:21:33.189
+norm in the sense that it is important to
+
+293
+00:21:33.189 --> 00:21:37.319
+me. That there are people who obey it, who
+
+294
+00:21:37.319 --> 00:21:41.319
+support it, etc. I appreciate that. I support that,
+
+295
+00:21:41.599 --> 00:21:44.319
+but maybe if nobody did that, I wouldn't do
+
+296
+00:21:44.319 --> 00:21:44.719
+it.
+
+297
+00:21:45.920 --> 00:21:50.589
+Yes. So in your work, and now to illustrate
+
+298
+00:21:50.589 --> 00:21:54.920
+how social norms change, in your work you've explored
+
+299
+00:21:54.920 --> 00:21:59.439
+the example of norms surrounding child marriage. So could
+
+300
+00:21:59.439 --> 00:22:02.079
+you tell us about that example and tell us
+
+301
+00:22:02.079 --> 00:22:06.199
+about how norms change or changed in that particular
+
+302
+00:22:06.199 --> 00:22:06.420
+case?
+
+303
+00:22:06.800 --> 00:22:09.800
+Yeah, that's a, that's a very interesting question. I
+
+304
+00:22:09.800 --> 00:22:13.579
+did a lot of work in developing world. In
+
+305
+00:22:13.579 --> 00:22:17.939
+India and Africa, etc. AND, uh, one important, uh,
+
+306
+00:22:18.079 --> 00:22:22.420
+one important, uh, uh, behavior has always been child
+
+307
+00:22:22.420 --> 00:22:26.540
+marriage, where, uh, as soon as the girls, uh,
+
+308
+00:22:26.589 --> 00:22:30.109
+reaches puberty, you know, she gets, uh, she gets
+
+309
+00:22:30.109 --> 00:22:32.939
+married and so she cannot study, she cannot have
+
+310
+00:22:32.939 --> 00:22:35.550
+a more fulfilling life and so on and so
+
+311
+00:22:35.550 --> 00:22:39.219
+forth. And the, the question for me was at
+
+312
+00:22:39.219 --> 00:22:44.829
+the beginning to understand. What is it? Why families
+
+313
+00:22:44.829 --> 00:22:50.630
+do that? OK. That may be, uh, purely economic
+
+314
+00:22:50.630 --> 00:22:54.949
+reason. In the sense that, uh, in places where
+
+315
+00:22:54.949 --> 00:22:59.390
+mortality, youth mortality is very high, you know, it
+
+316
+00:22:59.390 --> 00:23:03.739
+is important, you know, to, to marry younger. Have
+
+317
+00:23:03.739 --> 00:23:07.699
+children early, etc. But, you know, when this is
+
+318
+00:23:07.699 --> 00:23:11.540
+not the case, uh, uh. What are, what are
+
+319
+00:23:11.540 --> 00:23:16.349
+the reasons? Are there moral reason, religious reason, etc.
+
+320
+00:23:16.859 --> 00:23:21.199
+And in order to understand what the reasons are,
+
+321
+00:23:21.699 --> 00:23:27.800
+you have to do measurement. OK. And to do
+
+322
+00:23:27.800 --> 00:23:32.199
+measurement, we do, uh, two different things. On the
+
+323
+00:23:32.199 --> 00:23:37.439
+one hand, we ask people, you know, uh, what
+
+324
+00:23:37.439 --> 00:23:40.920
+do you think your neighbor do, you know, in
+
+325
+00:23:40.920 --> 00:23:44.199
+your village, how many people marry, blah, blah, blah.
+
+326
+00:23:44.439 --> 00:23:47.839
+What do you think people believe about that? Have
+
+327
+00:23:47.839 --> 00:23:50.599
+you married your daughters? Do you plan to do
+
+328
+00:23:50.599 --> 00:23:55.500
+that, etc. ETC. Then, and so we may see
+
+329
+00:23:55.500 --> 00:23:59.459
+that there is a correlation between the expectations and
+
+330
+00:23:59.459 --> 00:24:04.380
+the behavior. Correlation is not causation. And so what
+
+331
+00:24:04.380 --> 00:24:09.739
+we do, we present people with vignettes, OK? And
+
+332
+00:24:09.739 --> 00:24:15.239
+vignettes are these hypothetical stories about somebody very similar
+
+333
+00:24:15.239 --> 00:24:20.680
+to them. That is Faith that goes to a
+
+334
+00:24:20.680 --> 00:24:24.280
+different place, a different village, very similar, but, you
+
+335
+00:24:24.280 --> 00:24:30.040
+know, not the same, and discovers that most people
+
+336
+00:24:30.040 --> 00:24:34.329
+do not marry. Their young daughters and most people,
+
+337
+00:24:34.650 --> 00:24:39.609
+you know, uh, dislike marrying them, or many people
+
+338
+00:24:39.609 --> 00:24:42.810
+do and many people agree, or few do, but
+
+339
+00:24:42.810 --> 00:24:46.250
+many agree, or many do a few agree. And
+
+340
+00:24:46.250 --> 00:24:50.369
+each person gets only one cell is a factorial
+
+341
+00:24:50.369 --> 00:24:56.280
+2 by 2. And what we try to discover
+
+342
+00:24:56.739 --> 00:25:04.170
+is whether social expectation do matter. I Are we
+
+343
+00:25:04.170 --> 00:25:12.089
+facing a social norm? Or not. And um very
+
+344
+00:25:12.089 --> 00:25:16.890
+interesting, yes. My answer often is, yes, we're facing
+
+345
+00:25:16.890 --> 00:25:20.650
+the social norm. There are people, among all these
+
+346
+00:25:20.650 --> 00:25:24.150
+people, there's a majority that is a social norm
+
+347
+00:25:24.150 --> 00:25:27.170
+bound, let's say. There are people who do that
+
+348
+00:25:27.170 --> 00:25:30.329
+for moral and religious reasons, you see that, but
+
+349
+00:25:30.329 --> 00:25:34.280
+it's a small minority, usually what you see. I,
+
+350
+00:25:34.369 --> 00:25:38.130
+uh, is basically, uh, is a social norm. But
+
+351
+00:25:38.130 --> 00:25:41.329
+you have to have these two measures basically. On
+
+352
+00:25:41.329 --> 00:25:44.280
+the one hand, you measure behavior and expectations, see
+
+353
+00:25:44.280 --> 00:25:46.569
+if there is a correlation, but then you want
+
+354
+00:25:46.569 --> 00:25:51.410
+to see, you know, with the hypothetical vignettes, whether
+
+355
+00:25:51.410 --> 00:25:55.560
+this correlation is causally relevant. There is causation. When
+
+356
+00:25:55.560 --> 00:25:58.010
+there is, then I conclude that, yes, it is
+
+357
+00:25:58.010 --> 00:26:01.369
+a social norm. The next question is, how do
+
+358
+00:26:01.369 --> 00:26:06.939
+you change it? Yes. So, uh,
+
+359
+00:26:06.949 --> 00:26:10.719
+let me ask you about a few other factors
+
+360
+00:26:10.719 --> 00:26:14.589
+that might play a role in rule following and
+
+361
+00:26:14.589 --> 00:26:17.910
+norm compliance. So first of all, what is the
+
+362
+00:26:17.910 --> 00:26:22.670
+influence of group identity and peer effects on rule
+
+363
+00:26:22.670 --> 00:26:23.229
+following?
+
+364
+00:26:24.310 --> 00:26:27.329
+I think, uh, I think it's, uh, is important.
+
+365
+00:26:28.589 --> 00:26:34.780
+Uh, IT is important, especially. Uh, YOU know, uh,
+
+366
+00:26:34.939 --> 00:26:38.819
+let's go back for a moment. Social norms are
+
+367
+00:26:38.819 --> 00:26:43.780
+often local. What does it mean local? It means
+
+368
+00:26:43.780 --> 00:26:50.189
+that certain norms define a group. OK. Uh, I,
+
+369
+00:26:50.270 --> 00:26:53.109
+I remember I was reading uh a very interesting
+
+370
+00:26:53.109 --> 00:26:58.510
+book about California jails and in California jails, there
+
+371
+00:26:58.510 --> 00:27:06.359
+are different groups of, uh, um, Basically criminals, but
+
+372
+00:27:06.359 --> 00:27:13.119
+each group has different tattoos. And they, their identity
+
+373
+00:27:13.119 --> 00:27:17.540
+is very much visible and determined by the tattoos,
+
+374
+00:27:17.609 --> 00:27:22.540
+etc. AND it's very interesting because when they were
+
+375
+00:27:22.540 --> 00:27:25.859
+interviewed, somebody said that if, uh, you know, they
+
+376
+00:27:25.859 --> 00:27:31.050
+do something wrong. We will slash them and take
+
+377
+00:27:31.050 --> 00:27:36.250
+away the food, etc. It's very interesting why, why
+
+378
+00:27:36.250 --> 00:27:42.079
+I find it interesting because groups have norms. And
+
+379
+00:27:42.079 --> 00:27:47.270
+these norms are local, and your question is identity
+
+380
+00:27:47.270 --> 00:27:54.250
+linked to norms? Yes. Absolutely. There are norms that
+
+381
+00:27:54.250 --> 00:27:59.520
+specify my being a member of that particular group.
+
+382
+00:27:59.770 --> 00:28:03.609
+I mean, of course, uh, we have lived with
+
+383
+00:28:03.609 --> 00:28:09.369
+women versus men, femininity versus masculinity norms, it's a
+
+384
+00:28:09.369 --> 00:28:13.729
+sexual behavior norms, etc. ETC. So I'm not saying
+
+385
+00:28:13.729 --> 00:28:19.410
+something new here, but norms really are very much
+
+386
+00:28:19.410 --> 00:28:24.079
+linked. Uh, TO identity. In more traditional society, they
+
+387
+00:28:24.079 --> 00:28:27.880
+are very strongly linked to identity. In more modern
+
+388
+00:28:27.880 --> 00:28:31.239
+society, they are much less so, and this may
+
+389
+00:28:31.239 --> 00:28:35.719
+cause problems actually, but, uh, uh, yes, they are
+
+390
+00:28:35.719 --> 00:28:40.750
+linked to identity. They is a way of saying
+
+391
+00:28:40.750 --> 00:28:43.790
+I am a woman or I am a member
+
+392
+00:28:43.790 --> 00:28:47.229
+of this gang and not another gang, etc. ETC.
+
+393
+00:28:47.790 --> 00:28:51.310
+They are identifiers in some sense, yes.
+
+394
+00:28:52.819 --> 00:28:55.829
+And so that can actually, uh, I, I mean,
+
+395
+00:28:55.949 --> 00:28:58.349
+of course it's not exactly the same thing, but
+
+396
+00:28:58.550 --> 00:29:01.989
+uh I imagine that uh other kinds of language
+
+397
+00:29:01.989 --> 00:29:04.750
+would also play a role in norm perception and
+
+398
+00:29:04.750 --> 00:29:08.630
+norm compliance, like for example, when we use normative
+
+399
+00:29:08.630 --> 00:29:13.030
+language like you should. You ought to, you must,
+
+400
+00:29:13.680 --> 00:29:18.979
+uh, so how does normative language actually shape norm
+
+401
+00:29:18.979 --> 00:29:20.890
+perception and norm compliance?
+
+402
+00:29:21.040 --> 00:29:23.900
+Uh, IT'S very, thank you. It's a very important
+
+403
+00:29:23.900 --> 00:29:29.819
+question, um, especially in behavioral economics, um, people have
+
+404
+00:29:29.819 --> 00:29:35.449
+used the language. Without paying much attention to that.
+
+405
+00:29:35.949 --> 00:29:39.020
+And so I published a, a, a study, uh,
+
+406
+00:29:39.030 --> 00:29:41.660
+with a graduate student of mine, uh, Jinny Kwang,
+
+407
+00:29:42.660 --> 00:29:46.410
+in which uh what we did, we look at
+
+408
+00:29:46.869 --> 00:29:56.569
+different ways of describing normative expectation, should, right, out,
+
+409
+00:29:57.109 --> 00:30:06.300
+good, acceptable. Permissible, etc. And what we notice is
+
+410
+00:30:06.300 --> 00:30:10.229
+that When there is a very strong norm like
+
+411
+00:30:10.229 --> 00:30:13.790
+reciprocity, you know, in a trust game, it doesn't
+
+412
+00:30:13.790 --> 00:30:18.520
+matter. You know, you can use interchangeably these words.
+
+413
+00:30:19.400 --> 00:30:22.359
+Instead, we, we, if we play a game of
+
+414
+00:30:22.359 --> 00:30:25.719
+charity, you know, and charity is not a strong
+
+415
+00:30:25.719 --> 00:30:32.280
+norm. Therefore, the charity story. The language matters a
+
+416
+00:30:32.280 --> 00:30:40.050
+lot. And when you say acceptable, OK. OK. When
+
+417
+00:30:40.050 --> 00:30:45.530
+you say should and right, people get nervous and
+
+418
+00:30:45.530 --> 00:30:50.170
+upset and say, why should I, etc. So using
+
+419
+00:30:50.170 --> 00:30:55.729
+the language is very important because we give really
+
+420
+00:30:55.729 --> 00:31:00.199
+different meanings to these expressions and if a norm
+
+421
+00:31:00.199 --> 00:31:03.130
+is very strong, well established, it doesn't matter. But
+
+422
+00:31:03.130 --> 00:31:08.500
+if it's not, beware. Be a minimalist, I would
+
+423
+00:31:08.500 --> 00:31:09.000
+say.
+
+424
+00:31:11.310 --> 00:31:13.270
+Uh, SO I would like to ask you about
+
+425
+00:31:13.270 --> 00:31:18.050
+this idea of norm nudging. What is norm nudging
+
+426
+00:31:18.270 --> 00:31:20.770
+and how, uh, how does it work?
+
+427
+00:31:21.810 --> 00:31:25.619
+OK, um, nudging, let's start with nudging, uh, you
+
+428
+00:31:25.619 --> 00:31:30.180
+know, nudging, uh, uh, is, um, idea, you know,
+
+429
+00:31:30.290 --> 00:31:35.760
+uh, introduced a few years ago, uh, about, uh,
+
+430
+00:31:35.780 --> 00:31:40.540
+basically how can we change people's behavior, uh, in
+
+431
+00:31:40.540 --> 00:31:44.780
+a less expensive way, you know, without introducing economic
+
+432
+00:31:44.780 --> 00:31:52.390
+incentives or legal incentives, etc. And, uh, um, and
+
+433
+00:31:52.390 --> 00:31:56.869
+nudging was very much related to, uh, like, how
+
+434
+00:31:56.869 --> 00:31:59.750
+I nudge you to take your medicine, how I
+
+435
+00:31:59.750 --> 00:32:03.989
+nudge you to invest in a 401k, etc. ETC.
+
+436
+00:32:04.630 --> 00:32:09.369
+And uh after that, people started getting really interested
+
+437
+00:32:09.369 --> 00:32:13.964
+in norm nudging. So How do we nudge people
+
+438
+00:32:14.614 --> 00:32:19.375
+to change norms or how can we create, uh,
+
+439
+00:32:19.464 --> 00:32:24.265
+you know, uh, social norms, etc. And, uh, interestingly,
+
+440
+00:32:24.305 --> 00:32:27.574
+and I've, I've worked on that, of course, and
+
+441
+00:32:27.574 --> 00:32:32.375
+interestingly enough, uh, first of all, my, my, yes,
+
+442
+00:32:32.454 --> 00:32:38.680
+OK, my friends, before everything, let's Be clear about
+
+443
+00:32:38.859 --> 00:32:42.920
+what is a social norm, you know, and uh
+
+444
+00:32:43.219 --> 00:32:47.219
+if you take my definition, nudging means changing people's
+
+445
+00:32:47.219 --> 00:32:52.280
+expectations. OK. First of all, you measure people's expectation
+
+446
+00:32:52.280 --> 00:32:55.060
+and then you say, OK, this is what they
+
+447
+00:32:55.060 --> 00:32:59.459
+expect. Maybe these expectations are completely wrong. Think of
+
+448
+00:32:59.459 --> 00:33:02.579
+pluralistic ignorance, then we tell them, no, no, no,
+
+449
+00:33:02.699 --> 00:33:06.579
+no, no, you know, statistically speaking, people, you know,
+
+450
+00:33:06.699 --> 00:33:11.609
+uh, support other behavior or, you know, they are
+
+451
+00:33:11.609 --> 00:33:17.060
+just right in thinking, you know, oh. You know,
+
+452
+00:33:17.260 --> 00:33:22.790
+uh, most people in this country. ARE corrupt and
+
+453
+00:33:22.790 --> 00:33:25.989
+is right. OK. And what does it mean no
+
+454
+00:33:25.989 --> 00:33:30.170
+nudging here? You cannot lie to people saying, oh,
+
+455
+00:33:31.109 --> 00:33:35.109
+you know, it's false. Most people do. I think
+
+456
+00:33:35.109 --> 00:33:39.349
+an interesting, uh, and we're still thinking about that
+
+457
+00:33:39.349 --> 00:33:42.329
+and how to do that, but an interesting way
+
+458
+00:33:42.750 --> 00:33:49.439
+is to show a dynamic. I, to show people
+
+459
+00:33:49.660 --> 00:33:54.609
+that, OK, up to now, only 5%, you know,
+
+460
+00:33:54.969 --> 00:34:01.359
+were refusing, rejecting corruption, but after this campaign, now
+
+461
+00:34:01.359 --> 00:34:07.180
+we are 12% and it's increasing and people seem
+
+462
+00:34:07.180 --> 00:34:11.458
+to respond to a positive dynamics. Now we have
+
+463
+00:34:11.458 --> 00:34:14.530
+to verify that. It has to be shown in
+
+464
+00:34:14.530 --> 00:34:18.489
+different areas, but I think it's very interesting because
+
+465
+00:34:18.489 --> 00:34:23.810
+norm nudging very often is about, you know, changing
+
+466
+00:34:23.810 --> 00:34:31.649
+really bad and persistent and, you know, uh, observable
+
+467
+00:34:31.649 --> 00:34:35.928
+sometimes behaviors. And so this is very important. Norm
+
+468
+00:34:35.928 --> 00:34:38.678
+nudging, I think you have, first of all, to
+
+469
+00:34:38.678 --> 00:34:42.378
+measure, you know, whether it is a norm and
+
+470
+00:34:42.378 --> 00:34:46.858
+what, what are the expectation, empirical normative, and then
+
+471
+00:34:47.079 --> 00:34:50.478
+work mostly on empirical expectation because in other work
+
+472
+00:34:50.478 --> 00:34:53.789
+I have done, we show that when empirical and
+
+473
+00:34:53.789 --> 00:34:58.149
+normative diverge, the empirical wins. You know, you may
+
+474
+00:34:58.149 --> 00:35:01.070
+tell me, yeah, people think that it's wrong too,
+
+475
+00:35:01.149 --> 00:35:05.090
+but then they do it. I'm sorry. I look
+
+476
+00:35:05.090 --> 00:35:05.949
+at what they do.
+
+477
+00:35:07.850 --> 00:35:11.050
+Yes, that's totally fair. So let me ask you
+
+478
+00:35:11.050 --> 00:35:15.649
+then, which, what kinds of strategies can we adopt
+
+479
+00:35:15.649 --> 00:35:18.169
+to foster social change?
+
+480
+00:35:20.459 --> 00:35:26.189
+Well, uh, you are asking within the norm environment
+
+481
+00:35:26.540 --> 00:35:29.300
+because we can foster social change in many different
+
+482
+00:35:29.300 --> 00:35:34.870
+ways. Uh, BUT norm environment means first of all,
+
+483
+00:35:35.459 --> 00:35:38.300
+uh, we can do, uh, we can do two
+
+484
+00:35:38.300 --> 00:35:42.020
+things. On the one hand, we may identify norms
+
+485
+00:35:42.020 --> 00:35:45.739
+that we want to change, or we may think
+
+486
+00:35:45.739 --> 00:35:47.580
+there is no norm here, but we want to
+
+487
+00:35:47.580 --> 00:35:51.840
+create one. So these are two very, very different
+
+488
+00:35:51.840 --> 00:35:57.510
+things. For example, I did, uh, for 5 years,
+
+489
+00:35:57.760 --> 00:36:02.820
+I worked in India for the Gates Foundation, studying
+
+490
+00:36:02.840 --> 00:36:07.689
+sanitation. At the beginning, people thought that open defecation
+
+491
+00:36:07.689 --> 00:36:10.489
+was a norm. No, it's not a norm. It's
+
+492
+00:36:10.489 --> 00:36:14.929
+a collective habit, OK? And the question is, can
+
+493
+00:36:14.929 --> 00:36:20.879
+we create a norm of using proper sanitation? Can
+
+494
+00:36:20.879 --> 00:36:24.750
+it be done? And we conducted a lot of
+
+495
+00:36:24.750 --> 00:36:28.669
+studies in two different states in India, one richer,
+
+496
+00:36:28.750 --> 00:36:33.030
+one poorer, and uh we got basically the same
+
+497
+00:36:33.030 --> 00:36:37.060
+answer that uh what we need is, uh, is
+
+498
+00:36:37.060 --> 00:36:39.699
+cheaper in a sense, is to create a purely
+
+499
+00:36:39.699 --> 00:36:44.639
+descriptive norm. OK, that the more people see other
+
+500
+00:36:44.639 --> 00:36:49.199
+people using proper sanitation, toilets, the more they will
+
+501
+00:36:49.199 --> 00:36:53.600
+do that. Now, what you can see also is
+
+502
+00:36:53.600 --> 00:36:57.760
+that You know, there is a really a passage
+
+503
+00:36:58.100 --> 00:37:00.939
+when more and more people do something and it
+
+504
+00:37:00.939 --> 00:37:06.860
+stabilizes, then the normative comes. Then they start thinking,
+
+505
+00:37:07.060 --> 00:37:10.780
+oh, it's the right thing to do. But you
+
+506
+00:37:10.780 --> 00:37:13.860
+don't start trying to put into people's minds this
+
+507
+00:37:13.860 --> 00:37:16.860
+is the right thing to do because it's not
+
+508
+00:37:16.860 --> 00:37:20.310
+going to be helpful. In that case, in the
+
+509
+00:37:20.310 --> 00:37:25.030
+case of sanitation, you show basically that there is
+
+510
+00:37:25.030 --> 00:37:29.770
+an increasing number of people using it. People imitate
+
+511
+00:37:29.770 --> 00:37:33.620
+each other and, uh, you know, a descriptive norm
+
+512
+00:37:33.620 --> 00:37:36.620
+will be born and it was successful actually. It,
+
+513
+00:37:36.669 --> 00:37:41.360
+uh, it was born. And once a descriptive norm
+
+514
+00:37:41.580 --> 00:37:44.379
+becomes very stable, then it may become a social
+
+515
+00:37:44.379 --> 00:37:47.060
+norm. Then people may think, oh, this is the
+
+516
+00:37:47.060 --> 00:37:50.000
+right thing to do. This is what we normally,
+
+517
+00:37:50.580 --> 00:37:55.879
+uh, are sort of Uh, I don't know if,
+
+518
+00:37:55.959 --> 00:37:59.840
+uh, if it's something, uh, natural to humans, but
+
+519
+00:37:59.840 --> 00:38:03.419
+what happens, uh, if you look at children, children,
+
+520
+00:38:03.800 --> 00:38:08.840
+uh, infer normativity from observations. So, we are built.
+
+521
+00:38:10.110 --> 00:38:16.159
+To basically generate normativity from the descriptive. And so
+
+522
+00:38:16.159 --> 00:38:18.479
+social norm may be born out of creating the
+
+523
+00:38:18.479 --> 00:38:20.229
+scriptive norm, for example.
+
+524
+00:38:21.870 --> 00:38:24.709
+So I have one last question then, and of
+
+525
+00:38:24.709 --> 00:38:28.550
+course this is a much broader global issue that
+
+526
+00:38:28.550 --> 00:38:31.110
+we have to try to tackle, but can we
+
+527
+00:38:31.110 --> 00:38:35.389
+apply this knowledge to fight climate change?
+
+528
+00:38:37.199 --> 00:38:38.500
+To language change.
+
+529
+00:38:39.689 --> 00:38:42.649
+Uh, I mean, the, the different kinds of strategies
+
+530
+00:38:42.649 --> 00:38:45.570
+we've talked about here to, uh, to try to,
+
+531
+00:38:45.870 --> 00:38:50.810
+uh, nudge people's behaviors or change social norms in
+
+532
+00:38:50.810 --> 00:38:54.649
+a way that would help mitigate climate change.
+
+533
+00:38:55.689 --> 00:39:00.649
+Oh, climate change. Uh. Uh, YEAH, uh, first of
+
+534
+00:39:00.649 --> 00:39:03.760
+all, this is interesting. I have students that study
+
+535
+00:39:03.760 --> 00:39:07.770
+climate change, etc. AND the, the question is, uh,
+
+536
+00:39:08.169 --> 00:39:13.020
+first of all, One thing is thinking in general
+
+537
+00:39:13.020 --> 00:39:18.689
+about climate change, and the second is what are
+
+538
+00:39:18.699 --> 00:39:25.669
+individual behaviors that can be helpful, that can mitigate.
+
+539
+00:39:25.969 --> 00:39:30.780
+These are two very different things. So, you know,
+
+540
+00:39:31.139 --> 00:39:37.479
+individual behavior, uh, can be, for example, um, buying
+
+541
+00:39:37.479 --> 00:39:44.120
+less meat. OK, because buying less meat, etc. AND
+
+542
+00:39:44.120 --> 00:39:49.879
+the question is, do people So, suppose that I
+
+543
+00:39:49.879 --> 00:39:55.590
+realize that uh huge meat production, consumption, etc. IS
+
+544
+00:39:55.590 --> 00:40:02.739
+damaging to the environment. The question is that What,
+
+545
+00:40:02.870 --> 00:40:07.189
+what sort of effect will this have on my
+
+546
+00:40:07.189 --> 00:40:13.429
+own meat consumption? OK, I have, in order, suppose
+
+547
+00:40:13.429 --> 00:40:15.530
+I am a meat eater and I like it,
+
+548
+00:40:15.870 --> 00:40:20.030
+but I also care about climate change. Would I
+
+549
+00:40:20.510 --> 00:40:25.360
+stop eating meat? Even if I believe that people
+
+550
+00:40:25.360 --> 00:40:31.389
+are still consuming it. Will I stop travel by
+
+551
+00:40:31.389 --> 00:40:36.530
+air, even if I see, you know, that everybody,
+
+552
+00:40:36.870 --> 00:40:41.030
+uh, you know, is, uh, traveling by air, etc.
+
+553
+00:40:41.429 --> 00:40:45.570
+So is, is, am I going to restrict myself
+
+554
+00:40:45.870 --> 00:40:51.429
+when I observe very little restriction around me? So
+
+555
+00:40:51.429 --> 00:40:54.550
+with climate change, I think uh is uh is
+
+556
+00:40:54.550 --> 00:41:02.139
+very, very important. The government. Intervention I think this
+
+557
+00:41:02.139 --> 00:41:07.479
+is an area where government have to because we
+
+558
+00:41:07.479 --> 00:41:13.219
+always think of nudging little things, etc. BUT climate
+
+559
+00:41:13.219 --> 00:41:18.260
+change is an enormous phenomenon and so I think
+
+560
+00:41:18.260 --> 00:41:23.860
+it's very important that government are the first inducers.
+
+561
+00:41:24.419 --> 00:41:29.459
+OK, of, uh, uh, mitigation. Very, very important. It's
+
+562
+00:41:29.459 --> 00:41:32.989
+very interesting because in American culture, you always think
+
+563
+00:41:32.989 --> 00:41:38.679
+it's the individual, but it's not just the individual.
+
+564
+00:41:38.969 --> 00:41:42.830
+In this case, you need a very strong government
+
+565
+00:41:42.830 --> 00:41:47.689
+intervention. This may lead us also to change behavior,
+
+566
+00:41:47.790 --> 00:41:51.469
+but you need that because it's such a massive
+
+567
+00:41:51.469 --> 00:41:55.889
+major. You know, set of events that, you know,
+
+568
+00:41:56.030 --> 00:41:59.719
+yes, I may consume less electricity, but you know,
+
+569
+00:42:00.010 --> 00:42:02.209
+and it's very interesting, Ricardo, I have to tell
+
+570
+00:42:02.209 --> 00:42:06.969
+you something. Speaking of electricity, all these studies about
+
+571
+00:42:06.969 --> 00:42:11.169
+nudging people to use less, less electricity in California,
+
+572
+00:42:11.239 --> 00:42:16.550
+etc. YOU know, Uh, they have a good effect,
+
+573
+00:42:16.860 --> 00:42:20.889
+but how long does it last? Not long. OK.
+
+574
+00:42:21.080 --> 00:42:25.520
+OK. So this is another very important thing. We
+
+575
+00:42:25.520 --> 00:42:30.600
+need longitudinal studies to see that norm nudging really
+
+576
+00:42:30.600 --> 00:42:34.600
+has an effect. It will, I believe, but we
+
+577
+00:42:34.600 --> 00:42:39.590
+need uh more studies to understand when it declines,
+
+578
+00:42:39.800 --> 00:42:41.899
+why. Mhm.
+
+579
+00:42:42.600 --> 00:42:46.719
+Great. So, Doctor Biccierri, just before we go, where
+
+580
+00:42:46.719 --> 00:42:49.719
+can people find your work on the internet?
+
+581
+00:42:50.330 --> 00:42:55.570
+Oh, you know, uh, Everywhere you can go on
+
+582
+00:42:55.570 --> 00:42:59.879
+Google and, uh, and you put the dates, uh,
+
+583
+00:42:59.889 --> 00:43:04.760
+because Google, um, you know, shows basically uh the
+
+584
+00:43:04.760 --> 00:43:08.639
+most quoted first, etc. BUT you should put, uh,
+
+585
+00:43:08.729 --> 00:43:11.409
+I think a better way is to put the
+
+586
+00:43:11.409 --> 00:43:15.810
+year on. So you put 2026, 2025, and so,
+
+587
+00:43:15.850 --> 00:43:18.889
+and you see, uh, I wrote more than 200
+
+588
+00:43:18.889 --> 00:43:24.879
+articles and uh, the books that uh I recommend
+
+589
+00:43:24.879 --> 00:43:28.750
+on norms, uh, the 2006 book, The Grammar of
+
+590
+00:43:28.750 --> 00:43:32.909
+Society, where I really define social norms. But in
+
+591
+00:43:32.909 --> 00:43:39.000
+that book, I didn't have any idea of acting
+
+592
+00:43:39.070 --> 00:43:43.459
+on norms, measuring norms, etc. AND only after that
+
+593
+00:43:43.459 --> 00:43:47.709
+book, I started doing applied work. And a summary
+
+594
+00:43:47.709 --> 00:43:50.590
+of my applied work is a book published in
+
+595
+00:43:50.590 --> 00:43:57.385
+2016 called Norm in the wild, where I discuss
+
+596
+00:43:57.385 --> 00:44:00.645
+exactly how to change norm and what to do
+
+597
+00:44:00.715 --> 00:44:05.814
+and uh what sort of economically legal nudging, uh,
+
+598
+00:44:05.824 --> 00:44:09.185
+the role of transsetters and all that. And now
+
+599
+00:44:09.185 --> 00:44:14.885
+I'm preparing a new book about poverty and norms
+
+600
+00:44:15.495 --> 00:44:20.324
+that basically, uh, keep people in a poverty trap.
+
+601
+00:44:21.080 --> 00:44:24.280
+Uh, IT'S related to America. I didn't do a
+
+602
+00:44:24.280 --> 00:44:28.320
+study of other countries, but I did a major
+
+603
+00:44:28.320 --> 00:44:32.840
+study of, um, American rural, urban, and I think
+
+604
+00:44:32.840 --> 00:44:36.399
+it's, I get very interesting results. So this is
+
+605
+00:44:36.399 --> 00:44:38.419
+the next project.
+
+606
+00:44:39.040 --> 00:44:41.899
+Very good. So, Doctor Biccierri, thank you so much
+
+607
+00:44:42.070 --> 00:44:44.080
+for taking the time to come on the show.
+
+608
+00:44:44.149 --> 00:44:45.919
+It's been a pleasure to, uh, to talk to
+
+609
+00:44:45.919 --> 00:44:46.340
+you.
+
+610
+00:44:46.760 --> 00:44:47.800
+Thank you very much.
+
+611
+00:44:49.010 --> 00:44:51.530
+Hi guys, thank you for watching this interview until
+
+612
+00:44:51.530 --> 00:44:53.649
+the end. If you liked it, please share it,
+
+613
+00:44:53.850 --> 00:44:56.620
+leave a like and hit the subscription button. The
+
+614
+00:44:56.620 --> 00:44:58.879
+show is brought to you by Enlights Learning and
+
+615
+00:44:58.879 --> 00:45:02.909
+Development done differently. Check their website at enlights.com and
+
+616
+00:45:02.909 --> 00:45:06.639
+also please consider supporting the show on Patreon or
+
+617
+00:45:06.639 --> 00:45:09.120
+PayPal. I would also like to give a huge
+
+618
+00:45:09.120 --> 00:45:12.219
+thank you to my main patrons and PayPal supporters,
+
+619
+00:45:12.639 --> 00:45:16.479
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+620
+00:45:16.520 --> 00:45:19.790
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis,
+
+621
+00:45:19.939 --> 00:45:23.510
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+622
+00:45:23.510 --> 00:45:27.510
+Robert Windegeru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+623
+00:45:28.020 --> 00:45:31.810
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoro, and
+
+624
+00:45:31.810 --> 00:45:35.590
+Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel
+
+625
+00:45:35.590 --> 00:45:39.510
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+626
+00:45:39.669 --> 00:45:43.350
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+627
+00:45:43.350 --> 00:45:47.739
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+628
+00:45:47.739 --> 00:45:51.409
+Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov,
+
+629
+00:45:51.530 --> 00:45:55.540
+Zal Adrian Yei Poltonin, John Barboza, Julian Price, Edward
+
+630
+00:45:55.540 --> 00:45:59.530
+Hall, Edin Bronner, Douglas Fry, Franco Bartolatti, Gabriel P
+
+631
+00:45:59.530 --> 00:46:03.459
+Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony
+
+632
+00:46:03.459 --> 00:46:07.600
+Smith, and Wiseman. Daniel Friedman, William Buckner, Paul Georg
+
+633
+00:46:07.600 --> 00:46:12.070
+Jarno, Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin,
+
+634
+00:46:12.399 --> 00:46:16.530
+David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex
+
+635
+00:46:16.530 --> 00:46:20.959
+Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D.
+
+636
+00:46:21.129 --> 00:46:25.810
+Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber,
+
+637
+00:46:25.820 --> 00:46:30.449
+Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix,
+
+638
+00:46:30.600 --> 00:46:34.330
+Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly
+
+639
+00:46:34.330 --> 00:46:38.889
+Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson,
+
+640
+00:46:39.129 --> 00:46:44.409
+Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate
+
+641
+00:46:44.409 --> 00:46:50.729
+Van Goler, Alexander Ebert, Liam Dunaway, BR, Massoud Ali
+
+642
+00:46:50.729 --> 00:46:56.330
+Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David
+
+643
+00:46:56.330 --> 00:47:00.945
+Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A
+
+644
+00:47:00.945 --> 00:47:03.745
+special thanks to my producers Iar Webb, Jim Frank,
+
+645
+00:47:03.824 --> 00:47:08.225
+Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller,
+
+646
+00:47:08.334 --> 00:47:12.064
+Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro,
+
+647
+00:47:12.104 --> 00:47:14.425
+Al Nick Cortiz, and Nick Golden, and to my
+
+648
+00:47:14.425 --> 00:47:17.995
+executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and
+
+649
+00:47:17.995 --> 00:47:20.004
+Rosie. Thank you for all.
+
