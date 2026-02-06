@@ -14,7 +14,9 @@
 		"General Science"
 	],
 	"title": "#1211 Coleen Murphy - How We Age: The Science of Longevity",
-	"youtubeid": "Fy22JhtHhdU"
+	"vtt": "1211.vtt",
+	"youtubeid": "Fy22JhtHhdU",
+	"transcript": "1211.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 3rd 2025.  

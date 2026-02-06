@@ -1,0 +1,4386 @@
+WEBVTT
+
+1
+00:00:00.349 --> 00:00:03.089
+Hello everyone. Welcome to a new episode of the
+
+2
+00:00:03.089 --> 00:00:06.059
+Dissenter. I'm your host, as always, Ricardo Lobs, and
+
+3
+00:00:06.059 --> 00:00:08.989
+today I'm joined by Doctor Colleen Murphy. She is
+
+4
+00:00:08.989 --> 00:00:12.829
+James A. Elkins Junior Professor in the Life Sciences
+
+5
+00:00:12.829 --> 00:00:15.949
+and professor of molecular biology and director of the
+
+6
+00:00:15.949 --> 00:00:21.000
+Louis Siegler Institute for Integrative Genomics at Princeton University.
+
+7
+00:00:21.350 --> 00:00:23.690
+And today we're going to talk about her book,
+
+8
+00:00:23.909 --> 00:00:28.149
+How We Age The Science of Longevity. So, Doctor
+
+9
+00:00:28.149 --> 00:00:30.389
+Murphy, welcome to the show. It's a pleasure to
+
+10
+00:00:30.389 --> 00:00:32.409
+everyone. Thanks for having me, Ricardo.
+
+11
+00:00:33.270 --> 00:00:35.750
+So, uh, first of all, what is the science
+
+12
+00:00:35.750 --> 00:00:39.549
+of aging and longevity? What kinds of questions do
+
+13
+00:00:39.549 --> 00:00:40.549
+you ask there?
+
+14
+00:00:41.549 --> 00:00:44.279
+Yeah, so I think that um it's helpful to
+
+15
+00:00:44.279 --> 00:00:50.240
+kind of distinguish two areas. There's, um, There's basically
+
+16
+00:00:50.240 --> 00:00:52.040
+the science, which is all the stuff that we
+
+17
+00:00:52.040 --> 00:00:54.319
+do in labs to try to understand sort of
+
+18
+00:00:54.319 --> 00:00:57.560
+the regulation of longevity and aging. And for that
+
+19
+00:00:57.560 --> 00:01:00.200
+work, we do a lot of molecular biology, we
+
+20
+00:01:00.200 --> 00:01:02.790
+do genetics, we use a lot of model systems.
+
+21
+00:01:03.240 --> 00:01:04.959
+And then, there's the other part, which I think
+
+22
+00:01:04.959 --> 00:01:06.800
+most people are very familiar with is more of
+
+23
+00:01:06.800 --> 00:01:12.309
+this like, um, Like people taking some of that
+
+24
+00:01:12.309 --> 00:01:14.150
+information and trying to extract and use it for
+
+25
+00:01:14.150 --> 00:01:17.309
+themselves and so, um, you know, people who change
+
+26
+00:01:17.309 --> 00:01:20.550
+their diet according to things that they've read and
+
+27
+00:01:20.550 --> 00:01:21.739
+stuff like so I just wanna make sure that
+
+28
+00:01:21.739 --> 00:01:24.269
+we understand that I'm not like a self-help guru.
+
+29
+00:01:24.379 --> 00:01:27.440
+I'm not, um. I'm not gonna like, sell you
+
+30
+00:01:27.440 --> 00:01:30.069
+some supplements. I'm just, uh, my interest is in
+
+31
+00:01:30.069 --> 00:01:33.190
+trying to understand what do we really know about
+
+32
+00:01:33.370 --> 00:01:36.410
+how aging is regulated and how can we, you
+
+33
+00:01:36.410 --> 00:01:37.930
+know, later on, think about like, how can we
+
+34
+00:01:37.930 --> 00:01:39.889
+apply that? But my expertise is more in the,
+
+35
+00:01:40.129 --> 00:01:41.569
+the science end of things.
+
+36
+00:01:42.250 --> 00:01:44.430
+Uh, YEAH, so you mentioned there, and that is
+
+37
+00:01:44.430 --> 00:01:46.540
+a very important point that you're, of course not
+
+38
+00:01:46.540 --> 00:01:49.900
+a self-help guru and you're not trying to sell
+
+39
+00:01:49.900 --> 00:01:53.059
+supplements or anything like that. So what is your
+
+40
+00:01:53.059 --> 00:01:58.019
+view about those kind of pop science or self-help
+
+41
+00:01:58.019 --> 00:02:02.330
+books on aging that focus on things like eating,
+
+42
+00:02:02.580 --> 00:02:04.879
+weight, exercise, and
+
+43
+00:02:05.290 --> 00:02:05.540
+things
+
+44
+00:02:05.540 --> 00:02:05.739
+like
+
+45
+00:02:05.739 --> 00:02:07.839
+that? I mean, look, some of that is deeply
+
+46
+00:02:07.839 --> 00:02:12.020
+rooted in. Uh, SCIENCE that we is very well
+
+47
+00:02:12.520 --> 00:02:14.919
+accepted and very well tested, so I don't wanna
+
+48
+00:02:14.919 --> 00:02:18.000
+pooh pooh all of that. Um, I do think
+
+49
+00:02:18.000 --> 00:02:21.919
+there's kind of a range of informed thought to
+
+50
+00:02:21.919 --> 00:02:26.119
+just like people just, uh, you know, biohacking themselves
+
+51
+00:02:26.119 --> 00:02:27.679
+and stuff like that. So I think, you know,
+
+52
+00:02:27.759 --> 00:02:30.320
+I don't wanna be dismissive of there's actually, you
+
+53
+00:02:30.320 --> 00:02:32.804
+know, good science. It has to do with diet
+
+54
+00:02:32.804 --> 00:02:35.645
+and and exercise and things, and I do think
+
+55
+00:02:35.645 --> 00:02:37.964
+there's things that we can do to help make
+
+56
+00:02:37.964 --> 00:02:41.074
+our lives longer and healthier. Um, THERE'S stuff that
+
+57
+00:02:41.074 --> 00:02:43.565
+we can do for ourselves, and that's, you know,
+
+58
+00:02:43.725 --> 00:02:46.244
+kind of healthy. And then, um, but there's lots
+
+59
+00:02:46.244 --> 00:02:49.044
+of things that really haven't really even come online
+
+60
+00:02:49.044 --> 00:02:51.544
+yet, these, you know, scientific discoveries that we're making
+
+61
+00:02:51.964 --> 00:02:56.880
+that still haven't. Yet been developed into, um, into
+
+62
+00:02:56.880 --> 00:02:58.880
+drugs. And so, I think that we need to
+
+63
+00:02:58.880 --> 00:03:02.479
+make sure that we remember that the science of
+
+64
+00:03:02.479 --> 00:03:05.479
+aging, we're not done with it. We're not finished,
+
+65
+00:03:05.520 --> 00:03:07.440
+and we don't know all the answers yet. And
+
+66
+00:03:07.440 --> 00:03:09.039
+so, anyone who tells you that they do know
+
+67
+00:03:09.039 --> 00:03:11.279
+all the answers, they're not being honest with you.
+
+68
+00:03:11.410 --> 00:03:13.800
+So, um, yeah, there's a lot of great science
+
+69
+00:03:13.800 --> 00:03:15.309
+and there's still things that are, are, we're, we're
+
+70
+00:03:15.309 --> 00:03:18.600
+discovering that can really help people eventually become very
+
+71
+00:03:18.600 --> 00:03:19.000
+healthy.
+
+72
+00:03:20.190 --> 00:03:22.509
+Uh, YEAH, tell us more about that. In what
+
+73
+00:03:22.509 --> 00:03:25.089
+ways can the study of aging help our society?
+
+74
+00:03:27.050 --> 00:03:30.190
+OK. So I think one of the biggest uh
+
+75
+00:03:31.339 --> 00:03:34.699
+Ideas that was helpful is how can we improve
+
+76
+00:03:34.699 --> 00:03:38.059
+the quality of our life, right? So there's kind
+
+77
+00:03:38.059 --> 00:03:39.460
+of, and there's always been, you know, I think
+
+78
+00:03:39.460 --> 00:03:42.039
+for the past like 3 decades, there's been this
+
+79
+00:03:42.500 --> 00:03:44.789
+discussion and almost like a fake argument discussing like,
+
+80
+00:03:46.300 --> 00:03:48.460
+should we make people live longer or live healthier,
+
+81
+00:03:48.660 --> 00:03:51.250
+as if there's a trade-off between the two. In
+
+82
+00:03:51.250 --> 00:03:54.009
+fact, In most cases, you know, we know that
+
+83
+00:03:54.009 --> 00:03:59.059
+centenarians are more likely to have suffered from fewer,
+
+84
+00:03:59.130 --> 00:04:03.770
+um, age-related diseases, despite even sometimes having the genes
+
+85
+00:04:03.770 --> 00:04:05.649
+for those. So that's really fascinating. That was work
+
+86
+00:04:05.649 --> 00:04:08.130
+done by Niram Bartelli's lab a while ago. And
+
+87
+00:04:08.130 --> 00:04:11.690
+so, um, I think there's this like mistaken or
+
+88
+00:04:11.690 --> 00:04:13.479
+maybe just for the sake of having a debate,
+
+89
+00:04:13.529 --> 00:04:15.949
+this mistaken thought that we have to either pick
+
+90
+00:04:16.089 --> 00:04:19.809
+lifespan extension or health span. I'm personally interested in
+
+91
+00:04:19.809 --> 00:04:23.980
+very specific aspects of aging. I'm very interested in
+
+92
+00:04:23.980 --> 00:04:28.299
+cognitive decline and reproductive decline. And so, um, we
+
+93
+00:04:28.299 --> 00:04:31.989
+can talk about those as aspects of aging, um,
+
+94
+00:04:32.690 --> 00:04:34.529
+But, you know, I think, you know, I, I
+
+95
+00:04:34.529 --> 00:04:36.769
+saw this debate renewed just like I think in
+
+96
+00:04:36.769 --> 00:04:40.010
+the past week about health span versus lifespan. I
+
+97
+00:04:40.010 --> 00:04:41.640
+don't know. It's just kind of uninteresting at some
+
+98
+00:04:41.640 --> 00:04:44.970
+point because we help people live healthier, better lives.
+
+99
+00:04:45.089 --> 00:04:48.130
+In most cases, that's gonna stretch out the healthy
+
+100
+00:04:48.130 --> 00:04:50.200
+part of their lifespan, and it's gonna end up
+
+101
+00:04:50.200 --> 00:04:52.410
+extending lifespan as well. So I, I think that's
+
+102
+00:04:52.410 --> 00:04:54.970
+just something that people like to argue about. I
+
+103
+00:04:54.970 --> 00:04:56.369
+don't think it's really very productive.
+
+104
+00:04:57.480 --> 00:04:59.079
+Yeah, I mean, I guess that's one of the
+
+105
+00:04:59.079 --> 00:05:03.040
+reasons why many people think that perhaps there's a
+
+106
+00:05:03.040 --> 00:05:07.200
+trade-off between living longer and having more healthy years
+
+107
+00:05:07.200 --> 00:05:10.399
+in their lives is that we just, I mean,
+
+108
+00:05:10.519 --> 00:05:14.480
+in our own lives get across many people, family,
+
+109
+00:05:14.640 --> 00:05:18.279
+friends, and others that, uh, I mean, there are
+
+110
+00:05:18.279 --> 00:05:21.480
+still many people out there that their last few
+
+111
+00:05:21.480 --> 00:05:25.735
+decades are very. Complicated with lots of disease, lots
+
+112
+00:05:25.735 --> 00:05:28.536
+of comorbidities, and all of that, and they, it's
+
+113
+00:05:28.536 --> 00:05:32.536
+not very pleasant, uh, last decades of life, I
+
+114
+00:05:32.536 --> 00:05:32.835
+guess.
+
+115
+00:05:33.055 --> 00:05:35.776
+Yeah, so, um, I think maybe the better way
+
+116
+00:05:35.776 --> 00:05:37.376
+to think of that is that we used to
+
+117
+00:05:37.376 --> 00:05:40.175
+have really, really high rates of cardiovascular disease and
+
+118
+00:05:40.175 --> 00:05:41.996
+so people would drop dead of a heart attack
+
+119
+00:05:42.256 --> 00:05:44.235
+much earlier than they would. So now we have
+
+120
+00:05:44.415 --> 00:05:46.855
+statins and other things that try to treat some
+
+121
+00:05:46.855 --> 00:05:49.552
+of those. So people are outliving that phase. And
+
+122
+00:05:49.552 --> 00:05:52.332
+so, yeah, they're gonna necessarily, if we don't um
+
+123
+00:05:52.511 --> 00:05:55.351
+do other things to help people live healthier, they're
+
+124
+00:05:55.351 --> 00:05:57.971
+gonna eventually get some of those age-related diseases. But
+
+125
+00:05:58.231 --> 00:06:00.272
+again, I'm not sure that it's better that if
+
+126
+00:06:00.272 --> 00:06:02.361
+somebody drops dead of 53 of a heart attack,
+
+127
+00:06:02.671 --> 00:06:04.992
+instead, now in their 70s, they have some of
+
+128
+00:06:04.992 --> 00:06:07.592
+their comorbidities. So I, I think people have kind
+
+129
+00:06:07.592 --> 00:06:10.191
+of forgotten that and I think forgotten about things
+
+130
+00:06:10.191 --> 00:06:12.782
+like public health where people just live longer because
+
+131
+00:06:12.782 --> 00:06:16.260
+they survived through childhood now, right? So. I mean,
+
+132
+00:06:16.390 --> 00:06:18.470
+that's a good thing. So I, I understand that
+
+133
+00:06:18.470 --> 00:06:21.149
+people don't want to have a poor, uh, end
+
+134
+00:06:21.149 --> 00:06:23.309
+of life, and I think that we can, that's
+
+135
+00:06:23.309 --> 00:06:24.809
+kind of gonna be the goal in the next,
+
+136
+00:06:24.869 --> 00:06:27.269
+you know, decades of research is how can we
+
+137
+00:06:27.269 --> 00:06:30.190
+make that, uh, that part of life healthier. But
+
+138
+00:06:30.190 --> 00:06:32.540
+I don't think that it's a trade-off. It's not,
+
+139
+00:06:32.630 --> 00:06:34.299
+I mean, people are living longer because they're not
+
+140
+00:06:34.299 --> 00:06:38.109
+dying of those early, early aging or even childhood
+
+141
+00:06:38.109 --> 00:06:39.709
+diseases now. So, and that's all good.
+
+142
+00:06:40.709 --> 00:06:45.429
+Yeah, uh, but is there a biological limit to
+
+143
+00:06:45.429 --> 00:06:48.029
+how long we can expect to live?
+
+144
+00:06:49.059 --> 00:06:51.779
+Um, OK. So the research that's been done on
+
+145
+00:06:51.779 --> 00:06:53.660
+that, we have to remember, is all in the
+
+146
+00:06:53.660 --> 00:06:57.500
+absence of anything that's been done to extend lifespan.
+
+147
+00:06:57.579 --> 00:06:59.480
+So, for example, a person who lives to be
+
+148
+00:06:59.480 --> 00:07:04.500
+114 years old today, it's not usually because they
+
+149
+00:07:04.500 --> 00:07:08.649
+have You know, been taking rapamycin or metformin or
+
+150
+00:07:08.649 --> 00:07:11.369
+something like that. It's beca it's, it's, that's basically
+
+151
+00:07:11.369 --> 00:07:14.809
+all genetics, right? So that's a genetic lottery. We
+
+152
+00:07:14.809 --> 00:07:17.529
+don't yet know what's going to happen to this
+
+153
+00:07:17.529 --> 00:07:21.130
+next generation of people who have been on lifespan
+
+154
+00:07:21.130 --> 00:07:23.290
+extending, even if we think of like statins or
+
+155
+00:07:23.290 --> 00:07:27.570
+I'd say now GLP-1 agonists, um, what's gonna happen
+
+156
+00:07:27.570 --> 00:07:29.459
+with their lifespans? I don't think we know. So,
+
+157
+00:07:29.489 --> 00:07:32.730
+the work that's been done, this, the demographic studies
+
+158
+00:07:32.730 --> 00:07:35.350
+that have been done, Haven't been done on people
+
+159
+00:07:35.350 --> 00:07:38.109
+that have benefited from any of the science of
+
+160
+00:07:38.109 --> 00:07:41.230
+longevity that we've been working on. So there may
+
+161
+00:07:41.230 --> 00:07:44.309
+be a genetic limit, maybe not, that's been debated
+
+162
+00:07:44.309 --> 00:07:48.579
+by demographers, um, for good reason, um, but it
+
+163
+00:07:48.579 --> 00:07:51.649
+doesn't mean that's gonna always be the case.
+
+164
+00:07:52.309 --> 00:07:56.470
+OK. And so why do we age? I mean,
+
+165
+00:07:56.589 --> 00:07:58.260
+what's the reason behind it?
+
+166
+00:07:58.829 --> 00:08:00.630
+I mean, that's a big, so why is a
+
+167
+00:08:00.630 --> 00:08:02.350
+kind of a bad question to ask a scientist?
+
+168
+00:08:02.529 --> 00:08:07.070
+Because um we only can look at We can
+
+169
+00:08:07.070 --> 00:08:09.339
+look at underlying mechanisms, we can look at things.
+
+170
+00:08:09.470 --> 00:08:12.269
+Why is more of a philosophical question, why we
+
+171
+00:08:12.269 --> 00:08:15.380
+age? I mean, we could say evolutionarily, right? So,
+
+172
+00:08:15.390 --> 00:08:22.339
+every organism is optimized to End up propagating the
+
+173
+00:08:22.339 --> 00:08:27.339
+most of its progeny. So evolutionary fitness really has
+
+174
+00:08:27.339 --> 00:08:30.220
+to do with not lifespan. It has to do
+
+175
+00:08:30.220 --> 00:08:35.099
+with optimizing how, how much we reproduce given the
+
+176
+00:08:35.099 --> 00:08:37.039
+times that we have. So it doesn't make sense,
+
+177
+00:08:37.080 --> 00:08:39.659
+for example, to have progeny in a case where
+
+178
+00:08:39.659 --> 00:08:42.849
+there's, they're not gonna have any, um, nutrients in
+
+179
+00:08:42.849 --> 00:08:46.169
+which to survive, right? So organisms then have to
+
+180
+00:08:46.169 --> 00:08:49.039
+ask them, like, figure out how to adapt to.
+
+181
+00:08:49.530 --> 00:08:52.770
+Uh, LOW nutrient conditions, stressful conditions, and so, some
+
+182
+00:08:52.770 --> 00:08:56.679
+of those genetic pathways, molecular pathways that are, are
+
+183
+00:08:56.690 --> 00:08:59.250
+for that adaptation, sometimes they end up slowing down
+
+184
+00:08:59.250 --> 00:09:04.429
+reproduction, and the side effect basically is extended longevity.
+
+185
+00:09:04.969 --> 00:09:07.679
+So, there are really, unless you're looking at an
+
+186
+00:09:07.679 --> 00:09:09.960
+organism that can reproduce until the end of its
+
+187
+00:09:09.960 --> 00:09:13.690
+life, something like a sea urchin, those, almost no
+
+188
+00:09:13.690 --> 00:09:20.489
+organisms have um extended longevity. Because of, uh, well,
+
+189
+00:09:20.650 --> 00:09:23.289
+for, uh, for an evolutionary purpose, because all that's
+
+190
+00:09:23.289 --> 00:09:26.690
+post-reproductive lifespan. So, we have to really understand how
+
+191
+00:09:26.690 --> 00:09:29.849
+do animals adapt to stress and how do they
+
+192
+00:09:29.849 --> 00:09:33.010
+deal with, uh, reproductive fitness in order to understand
+
+193
+00:09:33.010 --> 00:09:35.890
+anything about why they've survived, and that's different from
+
+194
+00:09:35.890 --> 00:09:37.330
+lifespan regulation.
+
+195
+00:09:38.900 --> 00:09:44.330
+OK, but then why do we have post-reproductive lifespan?
+
+196
+00:09:44.510 --> 00:09:47.070
+I mean, from an evo from an evolutionary perspective,
+
+197
+00:09:47.150 --> 00:09:48.609
+do we understand that?
+
+198
+00:09:49.150 --> 00:09:51.070
+Um, I would say it's still being studied. So
+
+199
+00:09:51.070 --> 00:09:52.869
+if you were a sociologist, you'd say it's because
+
+200
+00:09:52.869 --> 00:09:57.309
+of the grandmother hypothesis, this idea that, um, grandmothers
+
+201
+00:09:57.309 --> 00:10:01.830
+actually help with the survival of their grand progeny.
+
+202
+00:10:02.070 --> 00:10:05.630
+Um, THE *** in that armor is that, um,
+
+203
+00:10:06.169 --> 00:10:08.260
+Actually, a nice, uh, it's kind of amazing, an
+
+204
+00:10:08.260 --> 00:10:10.859
+undergraduate in my lab years ago did a nice
+
+205
+00:10:10.859 --> 00:10:13.200
+study where he just asked the question, do you
+
+206
+00:10:13.200 --> 00:10:15.780
+have to take care of your young, grand progeny,
+
+207
+00:10:15.809 --> 00:10:19.770
+in order to have an extended post-reproductive lifespan? And
+
+208
+00:10:19.770 --> 00:10:22.409
+what he discovered was that in fact, there's lots
+
+209
+00:10:22.409 --> 00:10:26.010
+of organisms, including C. ELEGANS that have long post-reproductive
+
+210
+00:10:26.010 --> 00:10:28.090
+lifespans, and as far as we know, they do
+
+211
+00:10:28.090 --> 00:10:31.809
+not care for their, uh, grand progeny, OK? So
+
+212
+00:10:31.809 --> 00:10:35.909
+that suggests that this long post-reproductive lifespan evolved many
+
+213
+00:10:35.909 --> 00:10:38.169
+times, even the absence of this, you know, what
+
+214
+00:10:38.169 --> 00:10:41.780
+we'd call the grandmother hypothesis. So, Um, and that
+
+215
+00:10:41.780 --> 00:10:44.090
+more has to do with how they reproduce. So,
+
+216
+00:10:44.140 --> 00:10:46.460
+what we, what, you know, really George found was
+
+217
+00:10:46.460 --> 00:10:49.900
+this kind of interesting connection between the size of
+
+218
+00:10:49.900 --> 00:10:53.369
+the progeny inside the mother and the mother, OK?
+
+219
+00:10:53.659 --> 00:10:56.409
+So, his data suggests that he looked at this
+
+220
+00:10:56.409 --> 00:10:58.380
+huge range of animals. So, all the mammals were
+
+221
+00:10:58.380 --> 00:10:59.820
+kind of in one little box at the top
+
+222
+00:10:59.820 --> 00:11:01.809
+of this graph. But if you look at a
+
+223
+00:11:01.809 --> 00:11:03.859
+huge range of animals, um, all the way from
+
+224
+00:11:03.859 --> 00:11:06.179
+like sea elegans, you have like, he had all
+
+225
+00:11:06.179 --> 00:11:09.229
+kinds of lizards and birds and, um, Uh, sea
+
+226
+00:11:09.229 --> 00:11:13.549
+urchins. What he found was that the post-reproductive lifespan
+
+227
+00:11:13.549 --> 00:11:19.500
+actually scales, uh, with the ratio of the progeny
+
+228
+00:11:19.500 --> 00:11:21.380
+size to the mother. OK? So, think of it
+
+229
+00:11:21.380 --> 00:11:25.190
+this way, the bigger the progeny are, The harder
+
+230
+00:11:25.190 --> 00:11:28.760
+it is for the mother to, like, have those
+
+231
+00:11:28.760 --> 00:11:31.429
+projects without killing herself. And in fact, in humans,
+
+232
+00:11:31.479 --> 00:11:33.500
+you know, humans, our heads have evolved to be
+
+233
+00:11:33.500 --> 00:11:35.809
+so big that we don't kill 100% of mothers
+
+234
+00:11:35.989 --> 00:11:38.049
+who have them, but like some, you know, uh,
+
+235
+00:11:38.109 --> 00:11:41.359
+maternal mortality is a real thing. OK. So, when
+
+236
+00:11:41.359 --> 00:11:43.159
+we look at that, we can see that um
+
+237
+00:11:43.520 --> 00:11:46.510
+animals that have progeny all until like until they're,
+
+238
+00:11:46.640 --> 00:11:49.239
+those are actually microscopic progeny. So, like that ratio
+
+239
+00:11:49.239 --> 00:11:51.020
+is very small, so they have a very small
+
+240
+00:11:51.159 --> 00:11:54.599
+post-reproductive lifespan, OK? So, it really has to do
+
+241
+00:11:54.599 --> 00:11:56.945
+with reproduction. And how the mode of that the
+
+242
+00:11:56.945 --> 00:12:00.354
+animal reproduces, and that kind of explains this post-reproductive
+
+243
+00:12:00.354 --> 00:12:03.065
+lifespan. It has very little to do with like
+
+244
+00:12:03.065 --> 00:12:05.424
+longevity pathways. It has all to do with reproduction.
+
+245
+00:12:05.575 --> 00:12:07.705
+And that's kind of been ignored, I think, in
+
+246
+00:12:07.705 --> 00:12:10.005
+the aging field a lot in the longevity field,
+
+247
+00:12:10.265 --> 00:12:13.760
+um, Yeah. So, I, I think there's more attention
+
+248
+00:12:13.760 --> 00:12:16.119
+that should be paid to actually the reproductive part
+
+249
+00:12:16.119 --> 00:12:19.070
+of lifespan, and that can help us understand, should
+
+250
+00:12:19.070 --> 00:12:22.200
+we extrapolate from this organism to that organism? Is
+
+251
+00:12:22.200 --> 00:12:24.039
+it the same or do they just use entirely
+
+252
+00:12:24.039 --> 00:12:28.340
+different reproductive strategies that then help modulate and adapt,
+
+253
+00:12:28.799 --> 00:12:33.739
+uh, their, their, uh, longevity in response? I hope
+
+254
+00:12:33.739 --> 00:12:34.760
+that made some sense.
+
+255
+00:12:35.659 --> 00:12:38.979
+Yes, yes, it totally made sense. So, but why
+
+256
+00:12:38.979 --> 00:12:44.280
+are there sex differences in longevity and aging?
+
+257
+00:12:44.659 --> 00:12:46.340
+Actually, you know, that's another thing you could say
+
+258
+00:12:46.340 --> 00:12:50.440
+with humans for a human to reproduce entirely different
+
+259
+00:12:50.440 --> 00:12:53.179
+situation for men than for women, right? And so,
+
+260
+00:12:53.489 --> 00:12:56.940
+actually, um, You can kind of see that men
+
+261
+00:12:56.940 --> 00:13:00.030
+can reproduce pretty late. They have a pretty a
+
+262
+00:13:00.030 --> 00:13:04.669
+fairly relatively short reproductive aging like lifespan or post-reproductive
+
+263
+00:13:04.669 --> 00:13:09.320
+lifespan. Women have a longer one. I mean, that
+
+264
+00:13:09.320 --> 00:13:13.380
+it's really, again, evolutionarily, the optimization for whatever reproductive
+
+265
+00:13:13.380 --> 00:13:17.909
+strategy they have. So, um, I would say that's
+
+266
+00:13:17.909 --> 00:13:19.760
+really where you'll see the differences. Now, in humans,
+
+267
+00:13:19.830 --> 00:13:21.520
+of course, uh there's a lot of things that
+
+268
+00:13:21.520 --> 00:13:24.440
+are shared. And so, if somebody tells you to
+
+269
+00:13:24.440 --> 00:13:27.140
+exercise, it's probably not gonna be vastly different between
+
+270
+00:13:27.140 --> 00:13:31.039
+men and women. Um, BUT it is true that
+
+271
+00:13:31.039 --> 00:13:32.890
+when it comes to things like hormones, for example,
+
+272
+00:13:33.000 --> 00:13:37.830
+um, Richard Miller, he found through this intervention testing
+
+273
+00:13:37.830 --> 00:13:39.669
+program, his lab showed that, because they've been testing
+
+274
+00:13:39.669 --> 00:13:42.469
+all these different compounds, right? And so, in mice,
+
+275
+00:13:42.549 --> 00:13:45.770
+which again, is a mammalian system that we can
+
+276
+00:13:45.770 --> 00:13:48.390
+um draw some parallels with humans, they found that
+
+277
+00:13:48.390 --> 00:13:50.455
+some of the drugs that they Look at actually
+
+278
+00:13:50.455 --> 00:13:53.854
+have only extend the lifespan of males or females.
+
+279
+00:13:54.135 --> 00:13:56.945
+So there are sex-specific differences, and again, that probably
+
+280
+00:13:56.945 --> 00:14:00.054
+comes back to what they're regulating in the reproductive
+
+281
+00:14:00.054 --> 00:14:04.094
+system that then feeds into the, the, uh, longevity
+
+282
+00:14:04.094 --> 00:14:04.655
+mechanism.
+
+283
+00:14:05.590 --> 00:14:08.640
+Mhm. Uh, SO you told us about other animals.
+
+284
+00:14:08.719 --> 00:14:11.859
+I mean, what have you, we learned about aging
+
+285
+00:14:11.859 --> 00:14:16.489
+through, uh, model systems and what are the best
+
+286
+00:14:16.489 --> 00:14:18.640
+models to study aging?
+
+287
+00:14:19.270 --> 00:14:20.799
+What are the best models? I'm not sure it's
+
+288
+00:14:20.799 --> 00:14:22.539
+the best model, although I have a, I'll tell
+
+289
+00:14:22.539 --> 00:14:25.820
+you my favorite in a second. Um, WE'VE learned
+
+290
+00:14:25.820 --> 00:14:28.700
+almost everything that we know about longevity and aging
+
+291
+00:14:28.700 --> 00:14:31.500
+from studying model systems. I wanna say that right
+
+292
+00:14:31.500 --> 00:14:35.700
+now because, um, I think it's very misguided. Uh,
+
+293
+00:14:35.780 --> 00:14:37.299
+I just have to say as a scientist right
+
+294
+00:14:37.299 --> 00:14:40.380
+now, what's happening and gutting of the NIH and
+
+295
+00:14:40.380 --> 00:14:43.140
+taking away funding from model system research is really
+
+296
+00:14:43.140 --> 00:14:48.619
+gonna kill us like, pretty rapidly. And so, um,
+
+297
+00:14:49.570 --> 00:14:51.969
+What we know about aging is almost entirely from
+
+298
+00:14:51.969 --> 00:14:55.849
+model systems. We've discovered, there's been hypothesis testing that
+
+299
+00:14:55.849 --> 00:14:57.890
+we can do at a rapid time scale. There's
+
+300
+00:14:57.890 --> 00:15:01.250
+discovery of genetic mechanisms that are extremely well conserved
+
+301
+00:15:01.250 --> 00:15:03.590
+from invertebrates all the way up to humans. And
+
+302
+00:15:03.590 --> 00:15:06.530
+of course, we can't really do experiments in humans.
+
+303
+00:15:06.609 --> 00:15:08.570
+So, when we know something from humans, it's usually
+
+304
+00:15:08.570 --> 00:15:11.760
+from a large demographic study. So, from genetics, that
+
+305
+00:15:11.760 --> 00:15:16.429
+way, Um, it's from, uh, you know, looking at
+
+306
+00:15:16.429 --> 00:15:18.419
+studies where we're looking at a broad swath of
+
+307
+00:15:18.419 --> 00:15:21.190
+humans. Um, WE can't do the kind of tests
+
+308
+00:15:21.190 --> 00:15:24.070
+that we need to do. THAT we, we do
+
+309
+00:15:24.070 --> 00:15:26.309
+in model systems. So, I, I really think that
+
+310
+00:15:26.309 --> 00:15:28.349
+people, when they, when they, when we can say
+
+311
+00:15:28.349 --> 00:15:31.989
+something that happens in humans, other than like genome-wide
+
+312
+00:15:31.989 --> 00:15:34.950
+association studies, that kind of thing, um, really, what
+
+313
+00:15:34.950 --> 00:15:37.270
+we know about a lot of things is from
+
+314
+00:15:37.270 --> 00:15:39.659
+model systems. And we have invertebrates, we have C.
+
+315
+00:15:39.669 --> 00:15:44.070
+ELEGANS and Drosophila, so worms and flies. Um, A
+
+316
+00:15:44.070 --> 00:15:46.049
+ton of work that's been done in mice, but
+
+317
+00:15:46.270 --> 00:15:48.070
+often I have to say we discover it first
+
+318
+00:15:48.070 --> 00:15:50.510
+in C. ELEGANS, then flies, and then, then mice,
+
+319
+00:15:50.580 --> 00:15:52.549
+and so that's, and that's really how you should
+
+320
+00:15:52.549 --> 00:15:54.859
+do it because our, um, just solin and C.
+
+321
+00:15:54.869 --> 00:15:56.429
+ELEGANS are cheap, and we can do a lot
+
+322
+00:15:56.429 --> 00:15:58.369
+of experiments really quickly. You don't want to spend,
+
+323
+00:15:58.989 --> 00:16:01.030
+and ethically, it's like a lot easier to think
+
+324
+00:16:01.030 --> 00:16:03.770
+about that as well, staying out of vertebrates, OK,
+
+325
+00:16:04.109 --> 00:16:06.494
+now. Uh, I do have a favorite new model
+
+326
+00:16:06.494 --> 00:16:09.125
+system that I don't work on. Um, THAT'S the
+
+327
+00:16:09.125 --> 00:16:11.895
+African turquoise killifish. And the reason I love that,
+
+328
+00:16:12.005 --> 00:16:15.015
+so that's work that, um, Dario Valenzano and Anne
+
+329
+00:16:15.015 --> 00:16:18.294
+Brune and others have worked on. And that's really
+
+330
+00:16:18.294 --> 00:16:20.455
+cool because it's a vertebrate, so you have a
+
+331
+00:16:20.455 --> 00:16:23.974
+vertebrate system, but very short-lived. Within a few months,
+
+332
+00:16:24.054 --> 00:16:26.669
+you can get all this information. And so then
+
+333
+00:16:26.669 --> 00:16:29.059
+you're more on the time scale now of Drosophila.
+
+334
+00:16:29.359 --> 00:16:31.840
+And so you can do experiments that actually like,
+
+335
+00:16:32.309 --> 00:16:36.349
+then very directly have relevance for, for mammals. And
+
+336
+00:16:36.349 --> 00:16:38.909
+so, I really love that and um I'm too
+
+337
+00:16:38.909 --> 00:16:41.030
+lazy to start a new model system myself, but
+
+338
+00:16:41.030 --> 00:16:43.989
+I really, I really enjoy learning about the experiments
+
+339
+00:16:43.989 --> 00:16:45.349
+that are done in that system because I think
+
+340
+00:16:45.349 --> 00:16:47.450
+it's really gonna move the field forward.
+
+341
+00:16:48.479 --> 00:16:52.210
+OK, but then what kinds of limitations should people
+
+342
+00:16:52.210 --> 00:16:56.349
+keep in mind when they read scientific literature on
+
+343
+00:16:56.349 --> 00:17:00.210
+aging in other animals? I mean, to what extent
+
+344
+00:17:00.210 --> 00:17:04.310
+can we extrapolate from other animals to humans?
+
+345
+00:17:04.810 --> 00:17:08.910
+I mean, that's a great question. Um, ALL right.
+
+346
+00:17:09.069 --> 00:17:12.270
+So, you know, there's this, this trade-off in science
+
+347
+00:17:12.270 --> 00:17:17.249
+where you can Do fast, rigorous experiments very quickly
+
+348
+00:17:17.249 --> 00:17:19.568
+and really know the answer in, and it kind
+
+349
+00:17:19.568 --> 00:17:22.167
+of gets less so as you go higher organisms
+
+350
+00:17:22.167 --> 00:17:25.568
+because it becomes slower. So, for mice, you you
+
+351
+00:17:25.568 --> 00:17:28.328
+have like, that's like we're talking about 2, 2.5
+
+352
+00:17:28.328 --> 00:17:31.529
+years for the longest-lived mice. Um, YEAH, people are
+
+353
+00:17:31.529 --> 00:17:34.808
+still doing really good experiments. Uh, IN mice, you
+
+354
+00:17:34.808 --> 00:17:37.489
+have to think about, um, is this answer gonna
+
+355
+00:17:37.489 --> 00:17:39.925
+be true? If I do it in another strain
+
+356
+00:17:39.925 --> 00:17:43.314
+of mice, for example, um, there are these, uh,
+
+357
+00:17:43.555 --> 00:17:45.435
+a lot of the lab mice are one strain,
+
+358
+00:17:45.525 --> 00:17:47.994
+one genetic background. And so the question is, does
+
+359
+00:17:47.994 --> 00:17:50.265
+it, you know, if I give this treatment, does
+
+360
+00:17:50.265 --> 00:17:53.714
+it also work in another background, another strain? And
+
+361
+00:17:53.714 --> 00:17:55.905
+so people have been getting around that by looking
+
+362
+00:17:55.905 --> 00:17:58.594
+at, um, using these mice that have more genetic
+
+363
+00:17:58.594 --> 00:18:01.194
+variation, kind of like people. And so that would
+
+364
+00:18:01.194 --> 00:18:05.209
+be a follow up. Um, Yeah, I mean, there's
+
+365
+00:18:05.209 --> 00:18:07.420
+obviously, there's always gonna be something in a model
+
+366
+00:18:07.420 --> 00:18:10.819
+system that's not gonna directly translate to humans, um,
+
+367
+00:18:10.979 --> 00:18:12.739
+but I don't wanna pooh-pooh that too much because
+
+368
+00:18:12.739 --> 00:18:14.500
+I think people make a big deal about that
+
+369
+00:18:14.500 --> 00:18:17.160
+when it's not actually that big a deal. Like,
+
+370
+00:18:17.420 --> 00:18:21.000
+like we need to understand, uh, how things work,
+
+371
+00:18:21.010 --> 00:18:23.939
+and we can't just always say. You know, this
+
+372
+00:18:23.939 --> 00:18:26.859
+works in mice, right? OK, sure. But like, we've
+
+373
+00:18:26.859 --> 00:18:28.300
+learned a lot and we're gonna be able to,
+
+374
+00:18:28.420 --> 00:18:31.380
+so something that's really true and like rock solid
+
+375
+00:18:31.380 --> 00:18:35.219
+results in mice, um, there are follow-up experiments that
+
+376
+00:18:35.219 --> 00:18:38.930
+can be done with, with human tissues, with other,
+
+377
+00:18:38.939 --> 00:18:41.260
+like, eventually, organoids are going to be good enough
+
+378
+00:18:41.260 --> 00:18:42.900
+for some of these things. They're, I think they're
+
+379
+00:18:42.900 --> 00:18:47.619
+still being developed. Um, NON-HUMAN primates, like you want
+
+380
+00:18:47.619 --> 00:18:51.750
+to save the most Non-human primates, you get into
+
+381
+00:18:51.750 --> 00:18:56.189
+more of the ethical issues and more um expense
+
+382
+00:18:56.189 --> 00:18:59.300
+issues. And so, I don't think we want to
+
+383
+00:18:59.300 --> 00:19:01.349
+start pretending that we can't trust anything in mice
+
+384
+00:19:01.349 --> 00:19:03.449
+and we have to do everything in non-human primates.
+
+385
+00:19:04.079 --> 00:19:05.680
+On the other hand, I also don't think that
+
+386
+00:19:05.680 --> 00:19:07.640
+we should jump straight to humans. Like there's this
+
+387
+00:19:07.640 --> 00:19:10.319
+push now to like, just, and I, I think
+
+388
+00:19:10.319 --> 00:19:13.359
+that's unethical as well. So, I mean, I think
+
+389
+00:19:13.359 --> 00:19:15.810
+everybody who reads a C. Elegance or Drosophila or
+
+390
+00:19:15.810 --> 00:19:20.160
+Mao's paper understands that there are limitations and that
+
+391
+00:19:20.160 --> 00:19:23.199
+it may not directly translate to humans, but, you
+
+392
+00:19:23.199 --> 00:19:25.900
+know, evolutionarily, a lot of the molecules we're talking
+
+393
+00:19:25.900 --> 00:19:30.060
+about are extremely well conserved. So when something has
+
+394
+00:19:30.060 --> 00:19:32.579
+an effect, it's pretty likely that it will have
+
+395
+00:19:32.579 --> 00:19:34.459
+an effect. It may be more complicated, involve more
+
+396
+00:19:34.459 --> 00:19:36.810
+tissues, but, um, most of the people are doing
+
+397
+00:19:36.810 --> 00:19:39.810
+it like, I think we understand that. Um, AND
+
+398
+00:19:39.810 --> 00:19:43.859
+so I don't wanna be too critical of Extrapolating
+
+399
+00:19:43.859 --> 00:19:47.000
+information from all these model systems to humans because
+
+400
+00:19:47.000 --> 00:19:48.550
+I think there's always gonna be a grain of
+
+401
+00:19:48.550 --> 00:19:50.619
+truth there. That's the hope at least.
+
+402
+00:19:52.579 --> 00:19:56.359
+So earlier when you mentioned uh super centenarians, you
+
+403
+00:19:56.359 --> 00:20:01.239
+said that for example, if someone lives for 114
+
+404
+00:20:01.239 --> 00:20:05.719
+years that it's probably due to genetic, uh, to
+
+405
+00:20:05.719 --> 00:20:08.739
+genetic lottery. I mean, it's just genetic luck, but,
+
+406
+00:20:09.079 --> 00:20:12.915
+uh, I mean, do we already know. Something more
+
+407
+00:20:12.915 --> 00:20:17.875
+about the secrets, let's call them that of centenarians'
+
+408
+00:20:17.875 --> 00:20:20.915
+long lifespans, because I'm asking you that because anytime
+
+409
+00:20:20.915 --> 00:20:24.795
+that someone lives that long, of course, journalists go
+
+410
+00:20:24.795 --> 00:20:27.435
+and ask them what's their secret, and I mean
+
+411
+00:20:27.435 --> 00:20:29.635
+their answers are all over the place.
+
+412
+00:20:29.864 --> 00:20:33.515
+Yeah, so exactly. In fact, actually it's hilarious to
+
+413
+00:20:33.515 --> 00:20:35.314
+read this, and the vast majority of them, I
+
+414
+00:20:35.314 --> 00:20:39.010
+don't know if you've noticed, um, mention alcohol. Which
+
+415
+00:20:39.010 --> 00:20:41.810
+is hilarious. It's not a recommendation that anyone else
+
+416
+00:20:41.810 --> 00:20:45.250
+would make. And, um, all the women mentioned staying
+
+417
+00:20:45.250 --> 00:20:47.959
+away from men, which is probably just a, a,
+
+418
+00:20:48.050 --> 00:20:50.660
+a coping mechanism maybe at some point because like,
+
+419
+00:20:50.849 --> 00:20:52.619
+uh, the women tend to live, you know, like,
+
+420
+00:20:52.770 --> 00:20:55.530
+usually 9 of the 10 longest-lived human beings right
+
+421
+00:20:55.530 --> 00:21:00.369
+now are women, OK. I don't And for them,
+
+422
+00:21:00.380 --> 00:21:05.510
+that may be very true. But, here, um, Right.
+
+423
+00:21:05.609 --> 00:21:08.479
+So, these are people who really have won the
+
+424
+00:21:08.479 --> 00:21:10.849
+genetic lottery because it turns out if you look
+
+425
+00:21:10.849 --> 00:21:14.119
+in their genomes, right? So, we know from genome-wide
+
+426
+00:21:14.119 --> 00:21:17.520
+association studies of these exceptionally long-lived people that there's
+
+427
+00:21:17.520 --> 00:21:19.969
+a handful of genes that are probably associated with
+
+428
+00:21:19.969 --> 00:21:24.329
+that, right? So, there's, um, And so, we know
+
+429
+00:21:24.329 --> 00:21:27.400
+what those are, but if you look in the
+
+430
+00:21:27.400 --> 00:21:30.910
+gen the, their genetic backgrounds, they often will still
+
+431
+00:21:30.910 --> 00:21:36.209
+have the deleterious mutations associated with other things. In
+
+432
+00:21:36.209 --> 00:21:39.739
+fact, some of them even have the APOE4 allele
+
+433
+00:21:39.739 --> 00:21:44.410
+that for other non-centenarians, gives them Alzheimer's. So, there's
+
+434
+00:21:44.410 --> 00:21:47.400
+something kind of amazing about the genetics. And so,
+
+435
+00:21:47.410 --> 00:21:48.849
+that's why I'm saying, I don't think it's, it
+
+436
+00:21:48.849 --> 00:21:50.449
+really is a lottery in the sense that they
+
+437
+00:21:50.449 --> 00:21:54.140
+didn't necessarily do something. That's gonna help them live
+
+438
+00:21:54.140 --> 00:21:55.939
+long. It's all the things that they attribute to
+
+439
+00:21:55.939 --> 00:21:57.979
+living long, like, you know, eating this, you know,
+
+440
+00:21:58.140 --> 00:21:59.859
+one boiled egg a day or something, you know,
+
+441
+00:22:00.060 --> 00:22:03.219
+stuff like that. It just, it, it can't, that
+
+442
+00:22:03.219 --> 00:22:04.979
+can't be believed, right? And you can see that
+
+443
+00:22:04.979 --> 00:22:07.339
+in their responses because it's so varied, right? A
+
+444
+00:22:07.339 --> 00:22:09.250
+lot of them are smokers, you know, no one
+
+445
+00:22:09.250 --> 00:22:12.800
+else gets away with that, um. Yeah, so, uh,
+
+446
+00:22:14.199 --> 00:22:16.079
+it's not really a secret in what they've done.
+
+447
+00:22:16.199 --> 00:22:19.560
+I think they've really just really lucked out. And
+
+448
+00:22:19.560 --> 00:22:20.959
+then it brings the question, what can we learn?
+
+449
+00:22:21.079 --> 00:22:22.550
+Well, we can learn the genetics, but I don't
+
+450
+00:22:22.550 --> 00:22:24.910
+think we can learn lifestyle things from that. I
+
+451
+00:22:24.910 --> 00:22:26.599
+think it's gonna be interesting in the next couple
+
+452
+00:22:26.599 --> 00:22:30.479
+of years where we figure out, um, from people
+
+453
+00:22:30.479 --> 00:22:32.560
+who are, do not have those genetics. And I
+
+454
+00:22:32.560 --> 00:22:34.560
+think we're seeing that in some countries where people
+
+455
+00:22:34.560 --> 00:22:37.880
+are living really long. It really is due to
+
+456
+00:22:37.880 --> 00:22:41.280
+lifestyle differences, right? And so, the lifestyle differences, that's
+
+457
+00:22:41.280 --> 00:22:44.310
+what we can all learn from. So, that, that's
+
+458
+00:22:44.310 --> 00:22:47.339
+something where we'll, we'll And that'll probably lead to
+
+459
+00:22:47.339 --> 00:22:50.540
+better health as well. So, I think, um, it's
+
+460
+00:22:50.540 --> 00:22:52.380
+been interesting to see that, but there's nothing you
+
+461
+00:22:52.380 --> 00:22:55.479
+can do if you don't have the right alleles
+
+462
+00:22:55.819 --> 00:22:58.260
+that a centenarian has, there's, uh, I don't think
+
+463
+00:22:58.260 --> 00:23:00.680
+anyone's gonna go in and CRISPR their genome, right?
+
+464
+00:23:01.140 --> 00:23:03.219
+So, it's too late for that, but we can
+
+465
+00:23:03.219 --> 00:23:05.300
+learn from the lifestyle changes, and maybe there's gonna
+
+466
+00:23:05.300 --> 00:23:07.099
+be eventually a drug. For example, if you have
+
+467
+00:23:07.099 --> 00:23:09.989
+a certain allele and it does some job, Um,
+
+468
+00:23:10.229 --> 00:23:13.709
+then maybe that's something that's worth studying for like
+
+469
+00:23:13.709 --> 00:23:16.869
+developing a longevity drug. So I think that, and
+
+470
+00:23:16.869 --> 00:23:18.109
+they probably, I'm not the first one to think
+
+471
+00:23:18.109 --> 00:23:19.670
+of that. I'm sure many people are already working
+
+472
+00:23:19.670 --> 00:23:21.439
+on that. So that's really what we can learn
+
+473
+00:23:21.439 --> 00:23:23.469
+from those centenarians, not really like what they ate
+
+474
+00:23:23.469 --> 00:23:27.329
+or drank or smoked or Or anything like that.
+
+475
+00:23:27.719 --> 00:23:30.770
+Yeah, yeah, yeah, please don't think that smoking or
+
+476
+00:23:30.770 --> 00:23:35.949
+drinking will increase your life. Exactly. Uh, SO, uh,
+
+477
+00:23:35.959 --> 00:23:39.469
+in, in the book you talk about longevity pathways.
+
+478
+00:23:39.760 --> 00:23:42.760
+What are those and what do we know about
+
+479
+00:23:42.760 --> 00:23:42.910
+them?
+
+480
+00:23:43.650 --> 00:23:45.609
+Yeah. So, sort of as I alluded to earlier,
+
+481
+00:23:45.689 --> 00:23:47.050
+a lot of things that we think of as
+
+482
+00:23:47.050 --> 00:23:50.290
+longevity pathways, and we taught them that because we
+
+483
+00:23:50.290 --> 00:23:52.689
+found, uh, for example, in Cal is a mutants.
+
+484
+00:23:52.810 --> 00:23:55.650
+So, Cynthia Kenyon identified daf-2, so that's an insulin
+
+485
+00:23:55.650 --> 00:23:59.689
+receptor. And, um, well, Gary Roen actually cloned it
+
+486
+00:23:59.689 --> 00:24:02.375
+and then identified as daf-2, but Uh, as an
+
+487
+00:24:02.375 --> 00:24:06.295
+insulin receptor, but the daf-2 mutant lives really long.
+
+488
+00:24:06.415 --> 00:24:08.895
+It lives twice as long, and the animals are
+
+489
+00:24:08.895 --> 00:24:11.775
+super healthy. And in pretty much every assay we've
+
+490
+00:24:11.775 --> 00:24:13.814
+ever done, we found that they have better memory,
+
+491
+00:24:14.334 --> 00:24:16.494
+they have better learning, even with age, they have
+
+492
+00:24:16.494 --> 00:24:19.454
+better learning and memory, like, proportionally longer, they have,
+
+493
+00:24:19.494 --> 00:24:23.810
+um, They are able to reproduce longer because the
+
+494
+00:24:23.810 --> 00:24:28.900
+quality of their ooocytes stays higher longer. Um, Yeah.
+
+495
+00:24:29.040 --> 00:24:31.520
+So, they do a lot of things better. And
+
+496
+00:24:31.520 --> 00:24:33.319
+it's not because they necessarily, they do have a
+
+497
+00:24:33.319 --> 00:24:35.760
+slight delay in development, but not proportional to this
+
+498
+00:24:35.760 --> 00:24:38.719
+huge massive increase in lifespan. OK. So, that's an
+
+499
+00:24:38.719 --> 00:24:41.520
+example of a gene that was identified because of
+
+500
+00:24:41.520 --> 00:24:46.040
+its lifespan phenotype, so it's longevity phenotype. And um
+
+501
+00:24:46.040 --> 00:24:48.359
+through the years, uh, Cynthia and then other people
+
+502
+00:24:48.359 --> 00:24:51.089
+figured out other genes in that pathway, right? So,
+
+503
+00:24:51.099 --> 00:24:52.719
+we think of that pathway is something that kind
+
+504
+00:24:52.719 --> 00:24:56.900
+of flips the switch. Um, BUT As I mentioned
+
+505
+00:24:56.900 --> 00:24:58.300
+in the book, it's a little bit of a
+
+506
+00:24:58.300 --> 00:25:01.020
+misnomer. I call them longevity pathways, because really what
+
+507
+00:25:01.020 --> 00:25:04.020
+they're doing is not messing with longevity. They're allowing
+
+508
+00:25:04.020 --> 00:25:08.180
+the animal to tune their reproductive strategy to the
+
+509
+00:25:08.180 --> 00:25:11.300
+environment around them, right? So, in the wild, a
+
+510
+00:25:11.300 --> 00:25:14.979
+wild-type worm will, if there's not enough food or
+
+511
+00:25:14.979 --> 00:25:18.189
+if it, if it has like Too many nearby
+
+512
+00:25:18.189 --> 00:25:20.829
+neighbors, so that puts out pheromone. If it senses
+
+513
+00:25:20.829 --> 00:25:22.449
+too many of those or if it's too hot,
+
+514
+00:25:22.869 --> 00:25:24.670
+then really what it wants to do is say,
+
+515
+00:25:24.709 --> 00:25:26.920
+OK, this is not a good time to have
+
+516
+00:25:27.000 --> 00:25:29.329
+have progeny, right? So, what I want to do
+
+517
+00:25:29.430 --> 00:25:32.550
+is turn everything for reproduction down, but I also
+
+518
+00:25:32.550 --> 00:25:35.349
+want to keep my other tissues, my somatic tissues
+
+519
+00:25:35.349 --> 00:25:37.640
+healthy, so that when I slip things back, Back
+
+520
+00:25:37.640 --> 00:25:40.880
+on, I'll be healthy enough to reproduce. OK? So
+
+521
+00:25:40.880 --> 00:25:43.439
+now you can start seeing that there's this switch,
+
+522
+00:25:43.520 --> 00:25:46.359
+like this neuronal like decision that gets made, that
+
+523
+00:25:46.359 --> 00:25:49.189
+tells the germline what to do. So, like, slow
+
+524
+00:25:49.189 --> 00:25:52.239
+down making progeny, maybe don't like stretch that out,
+
+525
+00:25:52.400 --> 00:25:54.910
+even developmentally, maybe I slow down everything. And then
+
+526
+00:25:54.910 --> 00:25:56.819
+there's a signal from the germ line that tells
+
+527
+00:25:56.819 --> 00:25:59.780
+the body, OK, You can't come out of this
+
+528
+00:25:59.780 --> 00:26:01.780
+looking like an 80 year old. You gotta like
+
+529
+00:26:01.780 --> 00:26:04.219
+be young and healthy. So let's slow down all
+
+530
+00:26:04.219 --> 00:26:08.020
+those processes. Let's, let's like maintain somatic health, OK?
+
+531
+00:26:08.170 --> 00:26:10.020
+So then, when they come out of it, they
+
+532
+00:26:10.020 --> 00:26:13.040
+can reproduce. And so the, the sort of like
+
+533
+00:26:14.099 --> 00:26:17.660
+side benefit of that is that those animals will
+
+534
+00:26:17.660 --> 00:26:20.979
+now live long, OK? So that's a pathway that
+
+535
+00:26:20.979 --> 00:26:23.770
+makes all those decisions based on information it gets
+
+536
+00:26:23.770 --> 00:26:26.380
+from the environment. And the cool thing is like,
+
+537
+00:26:26.959 --> 00:26:29.079
+We have those same pathways. We have those same
+
+538
+00:26:29.079 --> 00:26:31.630
+genes. They regulate many of the same things, not
+
+539
+00:26:31.630 --> 00:26:33.599
+always for the exact same purpose. We can't, you
+
+540
+00:26:33.599 --> 00:26:36.160
+know, sense that there's like a bad environment and
+
+541
+00:26:36.160 --> 00:26:39.439
+then go into a dour state. But, um, if
+
+542
+00:26:39.439 --> 00:26:41.880
+there's low nutrients, for example, like that does turn
+
+543
+00:26:41.880 --> 00:26:43.949
+on autophagy and other things to help clean up
+
+544
+00:26:43.949 --> 00:26:46.040
+ourselves. And so, those are kind of things that
+
+545
+00:26:46.040 --> 00:26:49.790
+like, That's why people like these ideas of dietary
+
+546
+00:26:49.790 --> 00:26:52.709
+restriction cause they can kind of like turn on
+
+547
+00:26:52.709 --> 00:26:55.469
+some of these pathways that we know work for
+
+548
+00:26:55.469 --> 00:26:58.109
+these purposes of keeping an animal young and healthy
+
+549
+00:26:58.109 --> 00:26:59.130
+while they reproduce.
+
+550
+00:27:00.550 --> 00:27:04.229
+And I mean, are there already any interventions that
+
+551
+00:27:04.229 --> 00:27:07.739
+can be applied to these longevity pathways?
+
+552
+00:27:08.030 --> 00:27:11.829
+Yeah, so that's a great question. Um, In the
+
+553
+00:27:11.829 --> 00:27:14.550
+dietary restriction area, right? So people are very excited
+
+554
+00:27:14.550 --> 00:27:18.760
+about uh rapamycin and metformin and other, those kinds
+
+555
+00:27:18.760 --> 00:27:20.229
+of things that are in that pathway. And I
+
+556
+00:27:20.229 --> 00:27:22.229
+think a few of the drugs that are being
+
+557
+00:27:22.229 --> 00:27:25.589
+identified through these intervention testing programs and also will
+
+558
+00:27:25.589 --> 00:27:28.010
+eventually turn out to be like in that pathway.
+
+559
+00:27:28.430 --> 00:27:29.949
+But the cool thing is that's not the only
+
+560
+00:27:29.949 --> 00:27:33.959
+pathway, that there's multiple in parallel. Um, The diet
+
+561
+00:27:33.959 --> 00:27:36.520
+to the, uh, sorry, the insulin signaling pathway, I
+
+562
+00:27:36.520 --> 00:27:38.119
+was kind of surprised that, you know, that hasn't
+
+563
+00:27:38.119 --> 00:27:41.329
+been, um, as developed as you, you would think,
+
+564
+00:27:41.719 --> 00:27:43.599
+given the fact that we've known for like 30
+
+565
+00:27:43.599 --> 00:27:46.199
+years that those mutants live long. Uh, THERE was
+
+566
+00:27:46.199 --> 00:27:47.989
+a paper out of, I think, Australia a couple
+
+567
+00:27:47.989 --> 00:27:50.319
+of years ago where they found a drug that
+
+568
+00:27:50.319 --> 00:27:53.160
+actually does increase the longevity of mice through that
+
+569
+00:27:53.160 --> 00:27:55.239
+pathway. So that's pretty cool. So that suggests that
+
+570
+00:27:55.239 --> 00:28:00.280
+we can perhaps use the same, uh, genetic pathway
+
+571
+00:28:00.280 --> 00:28:04.930
+to live long. I think actually these, uh, there's
+
+572
+00:28:04.930 --> 00:28:06.939
+gonna be new drugs that come on that actually
+
+573
+00:28:07.680 --> 00:28:09.550
+are gonna be found to work through those pathways,
+
+574
+00:28:09.560 --> 00:28:12.800
+but they weren't developed for that reason. Um, AND
+
+575
+00:28:12.800 --> 00:28:14.439
+so, I, I think we don't know the answer
+
+576
+00:28:14.439 --> 00:28:17.390
+yet. So, it'll be an interesting Couple of years
+
+577
+00:28:17.390 --> 00:28:20.630
+to see where, uh, whether there's any longevity drugs
+
+578
+00:28:20.630 --> 00:28:22.859
+that will come online. I, I actually think that,
+
+579
+00:28:22.869 --> 00:28:26.400
+um, GLP-1 agonists, the reason I'm kind of excited
+
+580
+00:28:26.400 --> 00:28:30.219
+about those is because those are having all these
+
+581
+00:28:30.920 --> 00:28:33.869
+unintended effects and most of them, like 90% of
+
+582
+00:28:33.869 --> 00:28:36.599
+them are beneficial. And so, we'll see if any
+
+583
+00:28:36.599 --> 00:28:38.800
+of those trigger, I, I think people just didn't
+
+584
+00:28:38.800 --> 00:28:41.239
+know what they did, exactly. They knew some things,
+
+585
+00:28:41.280 --> 00:28:43.239
+but not all the things. And so that could
+
+586
+00:28:43.239 --> 00:28:45.560
+be really, uh, really interesting.
+
+587
+00:28:46.599 --> 00:28:50.979
+Yeah, uh, can factors that we inherit from our
+
+588
+00:28:50.979 --> 00:28:54.959
+ancestors affect aging? I mean, and if so, what
+
+589
+00:28:54.959 --> 00:28:57.599
+are these factors and how do they work?
+
+590
+00:28:57.959 --> 00:29:00.479
+OK, so this is where I'm gonna like deviate
+
+591
+00:29:00.479 --> 00:29:04.510
+from my usual model systems. I think that um,
+
+592
+00:29:05.209 --> 00:29:06.969
+You know, we found, you're probably asking this question,
+
+593
+00:29:07.050 --> 00:29:11.689
+because we found Some of these transgenerational pathways and
+
+594
+00:29:11.689 --> 00:29:14.770
+sea elegans, um, that seem to do with really
+
+595
+00:29:14.770 --> 00:29:18.650
+about survival in the face of pathogens in their
+
+596
+00:29:18.650 --> 00:29:21.849
+environment. So, we've seen that those C. ELEGANS can
+
+597
+00:29:21.849 --> 00:29:26.369
+actually pass on that information for 4 generations. Um,
+
+598
+00:29:26.380 --> 00:29:30.219
+I think for mammals, it's a little bit less
+
+599
+00:29:30.219 --> 00:29:33.609
+clear to me. It's clear that there's transgenerational information
+
+600
+00:29:33.609 --> 00:29:36.170
+that works really well in plants, and that may
+
+601
+00:29:36.170 --> 00:29:38.449
+have to do with their situation, right? Like they
+
+602
+00:29:38.449 --> 00:29:42.369
+have to, like, um, pass on information from past
+
+603
+00:29:42.369 --> 00:29:45.800
+seasons to their progeny to survive. Um,
+
+604
+00:29:46.349 --> 00:29:47.829
+BUT, but, but, by the, by the way, how
+
+605
+00:29:47.829 --> 00:29:50.449
+do they pass on that information? Is it through
+
+606
+00:29:50.449 --> 00:29:51.949
+epigenetics, or, yeah,
+
+607
+00:29:52.069 --> 00:29:54.329
+so this is all epigenetics. So in, in plants,
+
+608
+00:29:54.390 --> 00:29:57.729
+the primary mechanism seems to be through DNA methylation.
+
+609
+00:29:58.069 --> 00:30:02.109
+Um, THERE is in C elegans, there's a lot,
+
+610
+00:30:02.140 --> 00:30:04.989
+uh, there's a couple of different fat pathways that
+
+611
+00:30:04.989 --> 00:30:09.109
+involve things like histone methylation, so these epigenetic regulators
+
+612
+00:30:09.109 --> 00:30:12.900
+that are around the, the DNA. Um, THE pathway
+
+613
+00:30:12.900 --> 00:30:16.300
+we found involves smaller RNAs but may ultimately we
+
+614
+00:30:16.300 --> 00:30:19.329
+think might impinge on the histone methylation because worms
+
+615
+00:30:19.329 --> 00:30:23.790
+don't have DNA methylation, um. In humans, I think
+
+616
+00:30:23.790 --> 00:30:25.229
+the jury is still out, but of course, you
+
+617
+00:30:25.229 --> 00:30:27.189
+can't do the real, like, there's been these things
+
+618
+00:30:27.189 --> 00:30:30.270
+called natural experiments. And so we'll, we'll have to
+
+619
+00:30:30.270 --> 00:30:33.829
+see uh what exactly happens and what the mechanisms
+
+620
+00:30:33.829 --> 00:30:35.489
+underlying that. It's just a little bit, you know,
+
+621
+00:30:36.489 --> 00:30:38.790
+Obviously, you can't do the same kinds of experiments
+
+622
+00:30:38.790 --> 00:30:42.050
+and um in mice, I know a lot less
+
+623
+00:30:42.050 --> 00:30:45.910
+about that. I think there's discussion about, there's some
+
+624
+00:30:45.910 --> 00:30:48.010
+things that seem to be very solid results and
+
+625
+00:30:48.010 --> 00:30:49.930
+other things that don't seem so solid. So I
+
+626
+00:30:49.930 --> 00:30:51.609
+don't wanna wade into that. I think the jury
+
+627
+00:30:51.609 --> 00:30:53.050
+is still out. We, we'll still be looking at
+
+628
+00:30:53.050 --> 00:30:53.439
+that.
+
+629
+00:30:54.300 --> 00:30:56.579
+So at this point in time, what do we
+
+630
+00:30:56.579 --> 00:31:01.020
+know about the ways that we eat can influence
+
+631
+00:31:01.020 --> 00:31:01.680
+aging?
+
+632
+00:31:02.689 --> 00:31:06.119
+Um, WELL, there's the kind of obvious things, but
+
+633
+00:31:06.119 --> 00:31:10.640
+I think, um, and there's a general sense that
+
+634
+00:31:11.280 --> 00:31:14.660
+eating less would probably be good, but I think
+
+635
+00:31:14.660 --> 00:31:16.339
+that we need to refine some of that, like
+
+636
+00:31:16.339 --> 00:31:19.500
+eating less of what exactly, right? Like, um, and
+
+637
+00:31:19.500 --> 00:31:22.189
+that may be again the system where like, Maybe
+
+638
+00:31:22.189 --> 00:31:24.910
+what's true in one model system may not be
+
+639
+00:31:24.910 --> 00:31:28.709
+true in another, right? So, um, right, so I
+
+640
+00:31:28.709 --> 00:31:31.540
+think we still need to understand that better, um,
+
+641
+00:31:31.949 --> 00:31:34.030
+for example, you would, there's a chance that you
+
+642
+00:31:34.030 --> 00:31:35.469
+could eat all the calories you want to if
+
+643
+00:31:35.469 --> 00:31:38.790
+you had the right balance of carbohydrates, fats, and
+
+644
+00:31:38.790 --> 00:31:42.550
+proteins. Um, I just think we just don't fully
+
+645
+00:31:42.550 --> 00:31:46.099
+know that yet, um. There's also the idea of
+
+646
+00:31:46.099 --> 00:31:48.640
+intermittent fasting and other things, and, uh, that actually,
+
+647
+00:31:48.739 --> 00:31:51.319
+that's been really a kind of wild ride because
+
+648
+00:31:51.780 --> 00:31:54.979
+first, everybody thought that would be better, um, but
+
+649
+00:31:54.979 --> 00:31:57.020
+then there's more recent evidence that it's not so
+
+650
+00:31:57.020 --> 00:31:59.420
+great. And so, I think we need to better
+
+651
+00:31:59.420 --> 00:32:02.439
+understand all of these things. I mean, you could
+
+652
+00:32:03.250 --> 00:32:04.650
+Just take it and say, well, I'm just gonna
+
+653
+00:32:04.650 --> 00:32:07.400
+live my life in moderation and not eat so
+
+654
+00:32:07.400 --> 00:32:09.729
+much and not drink so much. So, but if
+
+655
+00:32:09.729 --> 00:32:11.609
+you really wanted to like just pinpoint and say,
+
+656
+00:32:11.689 --> 00:32:13.130
+this is the one thing I'm gonna do to
+
+657
+00:32:13.130 --> 00:32:15.530
+live long, actually, I think that exercise is probably
+
+658
+00:32:15.530 --> 00:32:18.239
+the one thing. Regardless of what we eat, and
+
+659
+00:32:18.239 --> 00:32:19.479
+I may be wrong down the road, but I
+
+660
+00:32:19.479 --> 00:32:24.160
+think that, um, there's something very important about staying
+
+661
+00:32:24.160 --> 00:32:27.959
+active, and, in particular, like our muscles seem to
+
+662
+00:32:27.959 --> 00:32:32.479
+actually do a lot of really positive things for
+
+663
+00:32:32.489 --> 00:32:35.839
+keeping us young and healthy. And so, um, not
+
+664
+00:32:35.839 --> 00:32:39.560
+just cardio, but also doing things like weight-bearing exercises.
+
+665
+00:32:39.780 --> 00:32:42.420
+Weightlifting, things like that, especially for older people, seems
+
+666
+00:32:42.420 --> 00:32:44.800
+to be extremely beneficial, even for things like bone
+
+667
+00:32:44.800 --> 00:32:48.300
+density. And so I think for me, I, I
+
+668
+00:32:48.300 --> 00:32:51.180
+focus, maybe, I don't know, just because I like
+
+669
+00:32:51.180 --> 00:32:55.030
+eating, but um I focus less on worrying about
+
+670
+00:32:55.030 --> 00:32:59.579
+what I eat and instead, um really getting enough
+
+671
+00:32:59.579 --> 00:33:02.119
+exercise and making sure that, that, I think that,
+
+672
+00:33:02.660 --> 00:33:04.819
+and every person can be different, but I think
+
+673
+00:33:04.819 --> 00:33:08.349
+that for most people, If they can get exercise,
+
+674
+00:33:08.430 --> 00:33:10.150
+it'll help them in a lot of ways that
+
+675
+00:33:10.150 --> 00:33:12.750
+just um constantly being obsessed with what they eat
+
+676
+00:33:12.750 --> 00:33:14.939
+is not gonna be that be beneficial, and they
+
+677
+00:33:14.939 --> 00:33:17.739
+could actually be wrong. Because we just don't know
+
+678
+00:33:17.739 --> 00:33:17.900
+yet.
+
+679
+00:33:19.250 --> 00:33:22.170
+Uh, uh, AND, and what if you exercise a
+
+680
+00:33:22.170 --> 00:33:24.910
+lot, but you also eat a lot, and so,
+
+681
+00:33:25.130 --> 00:33:29.089
+I mean, uh, uh, your BMI is high. I
+
+682
+00:33:29.089 --> 00:33:31.609
+mean, do you think that BMI itself is a
+
+683
+00:33:31.609 --> 00:33:32.829
+good enough metric?
+
+684
+00:33:33.130 --> 00:33:35.890
+Oh, well, BMI is a is, is a famously
+
+685
+00:33:35.890 --> 00:33:38.709
+bad metric, right? So someone who's in super shape.
+
+686
+00:33:39.099 --> 00:33:43.020
+And has really high, uh, muscle density, right, they're
+
+687
+00:33:43.020 --> 00:33:45.930
+gonna have a moderately high BMI that has nothing
+
+688
+00:33:45.930 --> 00:33:48.099
+to do with body fat. So I think we
+
+689
+00:33:48.099 --> 00:33:50.780
+can say in general fat cells seem to be
+
+690
+00:33:50.780 --> 00:33:53.739
+bad. Fat cells secrete things that are bad. So
+
+691
+00:33:53.739 --> 00:33:57.739
+like it's probably good to not have high fat
+
+692
+00:33:57.739 --> 00:34:01.680
+on our bodies, um. One thing that's unfortunate with
+
+693
+00:34:01.680 --> 00:34:05.040
+age is there's like, especially with menopause, there's actually
+
+694
+00:34:05.040 --> 00:34:08.360
+um deposition of fat that's inside. It's not so
+
+695
+00:34:08.360 --> 00:34:11.120
+obvious, but it surrounds our tissues, our organs and
+
+696
+00:34:11.120 --> 00:34:12.879
+things, and that is a little bit, seems to
+
+697
+00:34:12.879 --> 00:34:14.719
+be less healthy, and that's harder to get rid
+
+698
+00:34:14.719 --> 00:34:18.918
+of too. Um, SO, but again, perhaps one of
+
+699
+00:34:18.918 --> 00:34:22.080
+these things with having more, um, muscle mass actually
+
+700
+00:34:22.080 --> 00:34:24.360
+could be very beneficial there in fighting off some
+
+701
+00:34:24.360 --> 00:34:26.239
+of those detrimental effects.
+
+702
+00:34:27.438 --> 00:34:29.350
+So I mean at this point in time when
+
+703
+00:34:29.350 --> 00:34:33.120
+it comes to caloric restriction and things like intermittent
+
+704
+00:34:33.120 --> 00:34:35.239
+fasting, I, I'm asking you that because of course
+
+705
+00:34:35.239 --> 00:34:38.280
+in recent years we've heard a ton about that,
+
+706
+00:34:38.438 --> 00:34:42.320
+about that and many claims made about its supposed
+
+707
+00:34:42.320 --> 00:34:44.438
+health benefits. I mean at this point in time
+
+708
+00:34:44.438 --> 00:34:45.580
+we're not sure.
+
+709
+00:34:46.770 --> 00:34:48.250
+I don't think, I think the jury is out.
+
+710
+00:34:48.800 --> 00:34:51.409
+I think it's really. I think what the people
+
+711
+00:34:51.409 --> 00:34:54.668
+you hear enthusiastic things about caloric restriction from are
+
+712
+00:34:54.668 --> 00:34:57.510
+a subset of people who are gonna be very
+
+713
+00:34:57.510 --> 00:34:59.790
+enthusiastic about that. For a lot of people, that's
+
+714
+00:34:59.790 --> 00:35:05.860
+not realistic, um, I Uh, yeah. Um, AND it's
+
+715
+00:35:05.860 --> 00:35:08.600
+not clear that the controls have been done to
+
+716
+00:35:08.600 --> 00:35:10.979
+actually say whether it's healthy or not. We know
+
+717
+00:35:10.979 --> 00:35:14.979
+in a lab setting with mice, the calorically restricted
+
+718
+00:35:14.979 --> 00:35:17.419
+animals actually live longer and they seem to be
+
+719
+00:35:17.419 --> 00:35:21.500
+healthier. Um, WE know that that's true for rhesus
+
+720
+00:35:21.500 --> 00:35:25.659
+macaques as well. Um, FOR humans, of course, there
+
+721
+00:35:25.659 --> 00:35:29.620
+is a social element to eating. There's a, you
+
+722
+00:35:29.620 --> 00:35:34.219
+know, a psychological element to restricting calories. And so
+
+723
+00:35:34.219 --> 00:35:35.899
+I think it's just a harder thing to do
+
+724
+00:35:35.899 --> 00:35:38.600
+in humans. And so it's not necessarily, it's not
+
+725
+00:35:38.979 --> 00:35:41.780
+fun. And so some people, I, I, I know
+
+726
+00:35:41.780 --> 00:35:43.219
+some people who have done it, and they're very
+
+727
+00:35:43.219 --> 00:35:46.810
+like. DOGMATIC about it. I just, for me, I
+
+728
+00:35:46.810 --> 00:35:48.649
+just can't see it ever as being the thing
+
+729
+00:35:48.649 --> 00:35:52.290
+that we'd want people to do necessarily. There are
+
+730
+00:35:52.290 --> 00:35:54.330
+situations though, for example, I think that is true
+
+731
+00:35:54.620 --> 00:35:59.219
+that some There's been evidence that brief fasting or
+
+732
+00:35:59.219 --> 00:36:02.379
+dietary restriction around the time of a surgery or
+
+733
+00:36:02.379 --> 00:36:04.770
+certain medical treatments can be extremely beneficial. And so,
+
+734
+00:36:04.780 --> 00:36:06.860
+I think that's the stuff that's really interesting. If
+
+735
+00:36:06.860 --> 00:36:11.219
+you could increase the survival or reduce this hospital
+
+736
+00:36:11.219 --> 00:36:13.780
+time by doing like, or taking one of these
+
+737
+00:36:13.780 --> 00:36:17.129
+like, um sort of fasting diets, that would be
+
+738
+00:36:17.129 --> 00:36:19.219
+interesting. But as a permanent way of life, I
+
+739
+00:36:19.219 --> 00:36:24.090
+think it just sounds miserable. Yeah, uh,
+
+740
+00:36:24.330 --> 00:36:28.100
+and what is the role of DNA repair and
+
+741
+00:36:28.110 --> 00:36:33.209
+cell replacement and things like a telomere length and
+
+742
+00:36:33.209 --> 00:36:33.919
+things like that,
+
+743
+00:36:34.169 --> 00:36:37.129
+right, so those are each, uh, different mechanisms by
+
+744
+00:36:37.129 --> 00:36:42.129
+which animals have been shown to regulate aging. Telomeres
+
+745
+00:36:42.129 --> 00:36:44.800
+were the big deal years ago, but mostly becomes,
+
+746
+00:36:44.810 --> 00:36:48.479
+has to do with how How long cells can
+
+747
+00:36:48.479 --> 00:36:52.199
+divide, because if a cell has no ends of
+
+748
+00:36:52.199 --> 00:36:54.800
+its chromosomes anymore because it's been eaten back by
+
+749
+00:36:54.800 --> 00:36:58.699
+like reproducing, like replicating many times, they're not gonna
+
+750
+00:36:58.699 --> 00:37:01.959
+survive anymore. So, um, and that's called the hay
+
+751
+00:37:01.959 --> 00:37:05.320
+flip limit. Um, WHETHER you could actually get a
+
+752
+00:37:05.320 --> 00:37:08.439
+longer life out of adding more telomeres to the
+
+753
+00:37:08.439 --> 00:37:10.020
+end, like longer telomeres to the end of your
+
+754
+00:37:10.020 --> 00:37:12.280
+chromosomes, that jury is still out on that. I
+
+755
+00:37:12.280 --> 00:37:16.229
+think that hasn't proven to be extremely successful. Um,
+
+756
+00:37:16.530 --> 00:37:18.530
+DNA repair is probably really important, and one of
+
+757
+00:37:18.530 --> 00:37:21.610
+the GWAS, the genes that's come up in human
+
+758
+00:37:21.610 --> 00:37:24.709
+longevity, just actually has to do with DNA repair.
+
+759
+00:37:24.979 --> 00:37:28.209
+So that's probably a real thing, um, that regulates
+
+760
+00:37:28.209 --> 00:37:30.889
+how long we can live. And then what was
+
+761
+00:37:30.889 --> 00:37:32.770
+the last thing you asked about, um, uh,
+
+762
+00:37:32.969 --> 00:37:33.530
+cell
+
+763
+00:37:33.530 --> 00:37:37.229
+replacement, cell replacement. I mean, look, you know, that's
+
+764
+00:37:37.489 --> 00:37:41.889
+stem cells we're seeing as actually a growing, um.
+
+765
+00:37:43.310 --> 00:37:45.989
+Therapeutic, in fact, and we'll see how well that
+
+766
+00:37:45.989 --> 00:37:47.449
+works out, um.
+
+767
+00:37:48.530 --> 00:37:51.300
+But do you think it's a promising avenue or
+
+768
+00:37:51.300 --> 00:37:51.540
+not?
+
+769
+00:37:51.620 --> 00:37:54.250
+I think that it is. And in fact, actually,
+
+770
+00:37:54.340 --> 00:37:58.040
+um, yeah, let's see, how do I say this?
+
+771
+00:37:58.959 --> 00:38:00.580
+It, it's interesting to know. I think that the
+
+772
+00:38:00.580 --> 00:38:04.300
+longevity field could take a hint from, uh, from
+
+773
+00:38:04.300 --> 00:38:08.270
+looking at what pro athletes do. Pro athletes do
+
+774
+00:38:08.270 --> 00:38:12.070
+the things that make them, uh, perform best in
+
+775
+00:38:12.070 --> 00:38:15.040
+the fastest time like they. And if you look
+
+776
+00:38:15.040 --> 00:38:16.899
+at the treatments that they get, it's like, you
+
+777
+00:38:16.899 --> 00:38:19.659
+know, decades ahead of what you actually get, like
+
+778
+00:38:19.659 --> 00:38:22.649
+an average person gets in a clinic, right? And
+
+779
+00:38:22.649 --> 00:38:25.139
+so I think that, that's kind of interesting cause
+
+780
+00:38:25.139 --> 00:38:27.540
+then there's more and more of this um like
+
+781
+00:38:27.540 --> 00:38:32.939
+during like surgical repair that combined with uh stem
+
+782
+00:38:32.939 --> 00:38:36.820
+cell therapeutics. It's kind of interesting, right? So, um,
+
+783
+00:38:38.820 --> 00:38:40.909
+Yeah, I think that there's lots of avenues. The
+
+784
+00:38:40.909 --> 00:38:43.350
+thing that's aging, about the aging field that's really
+
+785
+00:38:43.350 --> 00:38:45.669
+interesting to me, it's, it's not gonna be just
+
+786
+00:38:45.669 --> 00:38:48.570
+one answer. You know, we break down in a
+
+787
+00:38:48.570 --> 00:38:51.600
+lot of different ways. And so a few of
+
+788
+00:38:51.600 --> 00:38:53.959
+these things could be really helpful, and they may
+
+789
+00:38:53.959 --> 00:38:56.439
+be like done in parallel. And so I think
+
+790
+00:38:56.439 --> 00:38:58.389
+there's like, it's kind of, um, we'll see which
+
+791
+00:38:58.389 --> 00:39:02.479
+ones are most. Uh, EFFICACIOUS, but I think we
+
+792
+00:39:02.479 --> 00:39:04.040
+can't say there's just one thing. And that's why
+
+793
+00:39:04.040 --> 00:39:05.280
+I kinda wanna get away from the whole caloric
+
+794
+00:39:05.280 --> 00:39:07.600
+restriction thing because even though that probably regulates a
+
+795
+00:39:07.600 --> 00:39:09.439
+bunch of different things, I think there's other things
+
+796
+00:39:09.439 --> 00:39:10.800
+that we're gonna be able to do that will
+
+797
+00:39:10.800 --> 00:39:12.060
+help people live longer.
+
+798
+00:39:13.290 --> 00:39:16.010
+So let me ask you about another thing that's
+
+799
+00:39:16.010 --> 00:39:19.330
+been on the news a lot recently and there's
+
+800
+00:39:19.330 --> 00:39:21.810
+been a lot of work done on it. What
+
+801
+00:39:21.810 --> 00:39:25.850
+about our gut microbiome? I mean, does it have
+
+802
+00:39:25.850 --> 00:39:29.449
+any relationship with aging or not?
+
+803
+00:39:29.929 --> 00:39:32.409
+OK, so the gut microbiome, that was one of
+
+804
+00:39:32.409 --> 00:39:34.729
+those things that's kind of like overhyped for a
+
+805
+00:39:34.729 --> 00:39:36.570
+long time, but there's always a grain of truth.
+
+806
+00:39:36.649 --> 00:39:41.120
+OK, so we know that the, the microbiome in
+
+807
+00:39:41.120 --> 00:39:44.050
+our gut changes with age, and actually changes with
+
+808
+00:39:44.050 --> 00:39:47.250
+health, OK? So that's a correlation, right? So we
+
+809
+00:39:47.250 --> 00:39:49.534
+have to keep that in mind. So, for example,
+
+810
+00:39:49.655 --> 00:39:54.135
+there is a set of bacteria that are present
+
+811
+00:39:54.135 --> 00:39:59.294
+in young healthy guts, right? And with age, there's
+
+812
+00:39:59.294 --> 00:40:02.614
+fewer of those good healthy bacteria and more of
+
+813
+00:40:02.614 --> 00:40:05.415
+these like less healthy ones, right? So we know
+
+814
+00:40:05.415 --> 00:40:08.774
+there's changes. The question becomes like what is causing
+
+815
+00:40:08.774 --> 00:40:12.135
+what regulates this, OK, um, and there's some really
+
+816
+00:40:12.135 --> 00:40:16.534
+cool experiments showing that if you could transfer, um,
+
+817
+00:40:17.780 --> 00:40:22.060
+microbes from the gut of healthy animals to older
+
+818
+00:40:22.060 --> 00:40:23.929
+or less healthy animals that you can help them
+
+819
+00:40:23.929 --> 00:40:26.620
+repair, OK? And so, that's actually like, that is
+
+820
+00:40:26.620 --> 00:40:31.989
+actually a clinical thing that's done. So, um, Uh,
+
+821
+00:40:32.689 --> 00:40:35.929
+FMT, so fecal microbial transfer, is actually done to,
+
+822
+00:40:36.129 --> 00:40:38.729
+especially in like cases where someone's entire gut has
+
+823
+00:40:38.729 --> 00:40:41.370
+been wiped out by an infection or, or needs
+
+824
+00:40:41.370 --> 00:40:44.689
+to be replaced, OK? So, there's a, you know,
+
+825
+00:40:44.889 --> 00:40:47.570
+so it's not fantasy, it's actually a true thing
+
+826
+00:40:47.570 --> 00:40:51.820
+and actually very helpful. Now, do I know whether
+
+827
+00:40:51.820 --> 00:40:55.939
+like the capsules that someone is selling to like
+
+828
+00:40:55.939 --> 00:40:59.419
+have young gut microbiome is actually useful? I, that
+
+829
+00:40:59.419 --> 00:41:02.659
+I don't know. And there's an uh even cooler
+
+830
+00:41:02.659 --> 00:41:04.379
+thought, which is that maybe we could figure out
+
+831
+00:41:04.379 --> 00:41:06.780
+why they're useful, right? Uh, OH, I want to
+
+832
+00:41:06.780 --> 00:41:08.620
+back up and say that there's a nice um
+
+833
+00:41:08.620 --> 00:41:11.860
+experiment that was done by um Dario Valenzano, where
+
+834
+00:41:11.860 --> 00:41:16.260
+they took the They wiped out in killifish, they
+
+835
+00:41:16.260 --> 00:41:20.459
+wiped out the gut of a micro gut microbiome
+
+836
+00:41:20.739 --> 00:41:23.860
+of animals, and then they replaced it with the
+
+837
+00:41:23.860 --> 00:41:26.620
+young microbiome, and they were extend, they extend the
+
+838
+00:41:26.620 --> 00:41:29.459
+lifespan of these fish. OK? So that's super cool.
+
+839
+00:41:30.000 --> 00:41:31.750
+OK, so it does suggest there's something there. But,
+
+840
+00:41:31.760 --> 00:41:33.239
+you know, it'd be nicer just to figure out
+
+841
+00:41:33.239 --> 00:41:36.250
+like, what are the young microbes produce? And it
+
+842
+00:41:36.250 --> 00:41:38.320
+seems like they produce metabolites that could be super
+
+843
+00:41:38.320 --> 00:41:41.439
+healthy. And so, on these short chain fatty acid,
+
+844
+00:41:41.479 --> 00:41:43.719
+things like that, maybe those are the key. And
+
+845
+00:41:43.719 --> 00:41:45.540
+so that could actually become something that would help
+
+846
+00:41:45.679 --> 00:41:48.360
+someone eventually. So, I think there's been a lot
+
+847
+00:41:48.360 --> 00:41:50.709
+of stuff where you like, there's correlation, but we
+
+848
+00:41:50.709 --> 00:41:52.840
+have to distinguish cause and effect, and I think
+
+849
+00:41:52.840 --> 00:41:55.080
+that uh the field is actually getting closer to
+
+850
+00:41:55.080 --> 00:41:55.919
+figuring that part out.
+
+851
+00:41:57.179 --> 00:42:00.219
+Right, I mean, this is just speculation on my
+
+852
+00:42:00.219 --> 00:42:03.979
+part, but since the gut microbiome also seems to
+
+853
+00:42:03.979 --> 00:42:07.139
+be affected by diet, do you think that if
+
+854
+00:42:07.139 --> 00:42:11.219
+we can establish a causal relationship between the gut
+
+855
+00:42:11.219 --> 00:42:17.530
+microbiome and aging, then, uh, diet, at least indirectly,
+
+856
+00:42:17.540 --> 00:42:18.729
+could also play a role
+
+857
+00:42:18.729 --> 00:42:22.350
+there. I think that that's probably very true. So,
+
+858
+00:42:22.429 --> 00:42:26.110
+and, and part of eating a better diet, especially
+
+859
+00:42:26.110 --> 00:42:28.270
+one that like with yogurt and things that can
+
+860
+00:42:28.270 --> 00:42:31.719
+actually help, that, that might be useful. Um, WHETHER
+
+861
+00:42:31.719 --> 00:42:34.959
+it's gonna make you live like 2 weeks longer,
+
+862
+00:42:35.320 --> 00:42:38.110
+2 years, that I don't know. OK, so that's,
+
+863
+00:42:38.280 --> 00:42:40.030
+that's what I was saying I can't really like
+
+864
+00:42:40.040 --> 00:42:42.320
+say that, but I think there's nothing wrong with
+
+865
+00:42:42.320 --> 00:42:44.600
+saying that there's actually differences in our microbiome with
+
+866
+00:42:44.600 --> 00:42:49.080
+age, and because of that rise in deleterious microbes,
+
+867
+00:42:49.159 --> 00:42:51.439
+uh, replacing them with good microbes could only be
+
+868
+00:42:51.439 --> 00:42:51.899
+helpful.
+
+869
+00:42:52.679 --> 00:42:56.620
+OK, and what, how would you characterize the current
+
+870
+00:42:56.620 --> 00:42:59.889
+state of longevity, uh, longevity biotech?
+
+871
+00:43:01.300 --> 00:43:04.060
+Well, longevity biotech is really thriving. And part of
+
+872
+00:43:04.060 --> 00:43:07.540
+the, the, uh, excitement is the fact that what
+
+873
+00:43:07.540 --> 00:43:09.419
+I just said, there's many different ways that we
+
+874
+00:43:09.419 --> 00:43:13.090
+can attack the problem. And so, I think, um,
+
+875
+00:43:13.100 --> 00:43:14.929
+as a result, some of the stuff is moving
+
+876
+00:43:14.929 --> 00:43:18.500
+out of academia. I mean, the academic discoveries are
+
+877
+00:43:18.500 --> 00:43:20.510
+still continuing. I, I actually want to say this
+
+878
+00:43:20.510 --> 00:43:23.300
+very clearly, if academia fails, it's gonna be really
+
+879
+00:43:23.300 --> 00:43:27.239
+bad for biotech because We do, like, you know,
+
+880
+00:43:27.350 --> 00:43:29.659
+it's like the iceberg, right? Like you need that
+
+881
+00:43:29.919 --> 00:43:33.439
+basis to make the decisions and discoveries that will
+
+882
+00:43:33.439 --> 00:43:36.159
+take things to the biotech because biotech's risky. So
+
+883
+00:43:36.159 --> 00:43:37.719
+you only want to take the things that are
+
+884
+00:43:37.719 --> 00:43:40.479
+the most likely and then help develop those, and
+
+885
+00:43:40.479 --> 00:43:43.000
+then eventually those will make its way into like
+
+886
+00:43:43.000 --> 00:43:46.360
+mainstream pharmaceutical. So, um, I think there's a ton
+
+887
+00:43:46.360 --> 00:43:49.800
+of interesting things going on right now. And, um,
+
+888
+00:43:50.409 --> 00:43:52.010
+I'm not a betting person, so I'm not gonna
+
+889
+00:43:52.010 --> 00:43:53.649
+say which one of those are most likely, but
+
+890
+00:43:53.649 --> 00:43:56.489
+I think that there's real potential for moving some
+
+891
+00:43:56.489 --> 00:43:58.169
+of the things that we've discovered in the past
+
+892
+00:43:58.169 --> 00:44:02.000
+couple of decades into real useful treatments for people.
+
+893
+00:44:02.330 --> 00:44:04.399
+And that's at some of the biotech and then
+
+894
+00:44:04.399 --> 00:44:07.169
+eventually it'll make it into, uh, into bio into
+
+895
+00:44:07.169 --> 00:44:07.929
+pharmaceuticals.
+
+896
+00:44:08.899 --> 00:44:13.340
+In your opinion, how seriously should we take those
+
+897
+00:44:13.340 --> 00:44:17.699
+kinds of uh experiments that some billionaires are doing
+
+898
+00:44:17.699 --> 00:44:21.419
+on themselves in terms of trying out many different
+
+899
+00:44:21.419 --> 00:44:23.570
+things to see if they can live longer?
+
+900
+00:44:23.850 --> 00:44:26.179
+OK, so in science, the way we do science
+
+901
+00:44:26.179 --> 00:44:30.060
+is we do things with controls. We change one
+
+902
+00:44:30.060 --> 00:44:32.969
+variable at a time. So that we can actually
+
+903
+00:44:32.969 --> 00:44:35.889
+interpret the results. So what you described is not
+
+904
+00:44:35.889 --> 00:44:41.850
+an experiment. It's just doing something. It's not gonna
+
+905
+00:44:41.850 --> 00:44:45.439
+lead to like, how would you know. How would
+
+906
+00:44:45.439 --> 00:44:47.070
+you know at the end of all these, like,
+
+907
+00:44:47.080 --> 00:44:49.639
+what's, what they're doing to themselves? I will say
+
+908
+00:44:49.639 --> 00:44:54.310
+one thing. The most effective way to live longer
+
+909
+00:44:54.530 --> 00:45:00.310
+is to be rich. It's sad, right, because rich
+
+910
+00:45:00.310 --> 00:45:03.000
+people have access to the best, best food, healthcare,
+
+911
+00:45:03.469 --> 00:45:06.679
+exercise, normal sleeping schedules. They are not worried about
+
+912
+00:45:06.679 --> 00:45:08.639
+food deserts, right? They can actually get everything they
+
+913
+00:45:08.639 --> 00:45:11.399
+need. And so, um, I think we'll never know
+
+914
+00:45:11.399 --> 00:45:13.679
+if a billionaire who's doing a million things to
+
+915
+00:45:13.679 --> 00:45:18.070
+themselves daily. If they live long or not, it's
+
+916
+00:45:18.070 --> 00:45:19.620
+gonna be due to any of the things that
+
+917
+00:45:19.620 --> 00:45:21.669
+they're doing to themselves. So, it's not, it's not
+
+918
+00:45:21.669 --> 00:45:22.870
+informative, in my opinion.
+
+919
+00:45:23.879 --> 00:45:26.110
+Yeah, uh, I mean, that's actually very true. Uh,
+
+920
+00:45:26.239 --> 00:45:28.239
+THE last time I looked at the sort of
+
+921
+00:45:28.239 --> 00:45:32.639
+longevity gap between rich people and poor people in
+
+922
+00:45:32.639 --> 00:45:35.449
+the US, it's like in the order of 10
+
+923
+00:45:35.449 --> 00:45:37.439
+years of difference or something like
+
+924
+00:45:37.439 --> 00:45:39.590
+that. Yeah, yeah, a lot of that can be
+
+925
+00:45:39.590 --> 00:45:45.580
+attributed to. Preventative healthcare, right? Because if you're poor,
+
+926
+00:45:45.739 --> 00:45:47.929
+you cannot afford to go in to see a
+
+927
+00:45:47.929 --> 00:45:49.899
+doctor when you start to feel kind of sick.
+
+928
+00:45:50.520 --> 00:45:54.909
+You might wait until you're really sick, right? Uh,
+
+929
+00:45:55.729 --> 00:45:59.120
+GOOD food in this country is very expensive compared
+
+930
+00:45:59.120 --> 00:46:01.679
+to cheap, like bad food, so there's all kinds
+
+931
+00:46:01.679 --> 00:46:05.209
+of, there's a million little decisions. That get made,
+
+932
+00:46:05.510 --> 00:46:08.510
+uh, for pretty logical choices, you know, poor people
+
+933
+00:46:08.510 --> 00:46:12.070
+are not illogical. They just are, they have a
+
+934
+00:46:12.070 --> 00:46:15.310
+limited set of options, and so they're making, doing
+
+935
+00:46:15.310 --> 00:46:17.110
+their best to get by, and that's not the
+
+936
+00:46:17.110 --> 00:46:18.989
+same set of options that a rich person has.
+
+937
+00:46:19.310 --> 00:46:21.790
+And so that really leads to those, uh, discrepancies
+
+938
+00:46:21.790 --> 00:46:24.979
+as a huge differential, as you mentioned, in lifespan.
+
+939
+00:46:25.030 --> 00:46:25.520
+That's right.
+
+940
+00:46:26.040 --> 00:46:28.169
+Yeah, and I mean if poor people, if someone
+
+941
+00:46:28.169 --> 00:46:30.610
+has to work 2 or 3 jobs just to
+
+942
+00:46:30.610 --> 00:46:33.229
+pay their bills, I mean, they don't have any
+
+943
+00:46:33.229 --> 00:46:35.489
+time at all to be cooking. I mean, they
+
+944
+00:46:35.489 --> 00:46:38.129
+just have to eat fast food most of the
+
+945
+00:46:38.129 --> 00:46:38.530
+time.
+
+946
+00:46:38.889 --> 00:46:40.969
+Or in fact, what you just mentioned, it's also
+
+947
+00:46:40.969 --> 00:46:43.889
+super stressful. So high stress is very bad for
+
+948
+00:46:43.889 --> 00:46:47.250
+us, and shift, shift work, like working late at,
+
+949
+00:46:47.439 --> 00:46:50.000
+like at night shifts and things, that's really messed
+
+950
+00:46:50.000 --> 00:46:51.439
+up. So there's all that's what I'm saying, it's
+
+951
+00:46:51.439 --> 00:46:54.469
+like, and it's probably cumulative. And there's even this
+
+952
+00:46:54.469 --> 00:46:57.840
+cumulative stress of living in a, like, being feeling
+
+953
+00:46:57.840 --> 00:47:01.439
+poor actually raises your stress levels. So, like, all
+
+954
+00:47:01.439 --> 00:47:04.520
+these things, um, so, you know, when a rich
+
+955
+00:47:04.520 --> 00:47:06.760
+person lives a long time, uh, I think a
+
+956
+00:47:06.760 --> 00:47:08.439
+lot of people want to believe it's because they've
+
+957
+00:47:08.439 --> 00:47:09.959
+done a good job taking care of themselves, but
+
+958
+00:47:09.959 --> 00:47:12.909
+it's really because of these structural inequities that are,
+
+959
+00:47:13.199 --> 00:47:16.550
+are, uh, You know, like if you're poor, you're
+
+960
+00:47:16.550 --> 00:47:19.199
+fighting up an uphill battle to live a long
+
+961
+00:47:19.199 --> 00:47:21.179
+time or even have a healthy life. Yeah,
+
+962
+00:47:21.719 --> 00:47:24.459
+yeah, and I mean, uh, uh, to be more
+
+963
+00:47:24.459 --> 00:47:28.919
+specific, what kinds of molecules are being targeted for
+
+964
+00:47:28.919 --> 00:47:31.899
+clinical treatment when it comes to waging?
+
+965
+00:47:32.399 --> 00:47:34.280
+Well, right now there's a lot of attention for
+
+966
+00:47:34.280 --> 00:47:37.600
+in the caloric restriction pathway. MTOR is really a
+
+967
+00:47:37.600 --> 00:47:40.320
+thing that people are trying to target through multiple
+
+968
+00:47:40.320 --> 00:47:43.399
+mechanisms, but in fact, there's a lot of, uh,
+
+969
+00:47:43.780 --> 00:47:45.459
+If you like, if I showed you a slide
+
+970
+00:47:45.459 --> 00:47:47.979
+of everything that is around that MTOR regulation, there's
+
+971
+00:47:47.979 --> 00:47:50.020
+a lot of other proteins that actually could be
+
+972
+00:47:50.020 --> 00:47:56.550
+targets as well, um. I'm just trying to think.
+
+973
+00:47:58.399 --> 00:48:00.040
+And that's probably the place where the most is
+
+974
+00:48:00.040 --> 00:48:01.439
+being developed, but I don't think it's where it
+
+975
+00:48:01.439 --> 00:48:02.800
+should be. The only, the only place where it
+
+976
+00:48:02.800 --> 00:48:04.800
+should be, oh, there's also autophagy, I think they're
+
+977
+00:48:04.800 --> 00:48:08.719
+being developed, uh, autophagy promoters, because actually, that could,
+
+978
+00:48:08.840 --> 00:48:11.199
+that's, you know, also the longevity field. I just
+
+979
+00:48:11.199 --> 00:48:12.520
+want to step back and say that the longevity
+
+980
+00:48:12.520 --> 00:48:14.479
+field is taking advantage of like research has been
+
+981
+00:48:14.479 --> 00:48:16.310
+done in a lot of areas as well, uh,
+
+982
+00:48:16.439 --> 00:48:18.479
+such as cancer, right? So that's where some of
+
+983
+00:48:18.479 --> 00:48:20.590
+the drugs that are being found to be beneficial
+
+984
+00:48:20.590 --> 00:48:23.080
+for cancer treatments actually turned out to be helpful
+
+985
+00:48:23.080 --> 00:48:27.899
+for longevity as well. Um, SENOLYTICS, so like drugs
+
+986
+00:48:27.899 --> 00:48:30.979
+that target senescent cells. So, senescent cells are not
+
+987
+00:48:30.979 --> 00:48:32.879
+just dying cells, they're actually cells that are super
+
+988
+00:48:33.179 --> 00:48:35.699
+unhealthy and they actually secrete things that are bad
+
+989
+00:48:35.699 --> 00:48:37.540
+for other cells. So, targeting, the idea is if
+
+990
+00:48:37.540 --> 00:48:40.060
+you target them, you get rid of them. And
+
+991
+00:48:40.060 --> 00:48:41.659
+I, I heard a nice story in this field
+
+992
+00:48:41.659 --> 00:48:46.550
+that I really like. Uh, IS that senolytics might
+
+993
+00:48:46.550 --> 00:48:50.679
+be helpful for people who have had childhood cancers
+
+994
+00:48:50.679 --> 00:48:52.600
+and they survived that, but then later on, it
+
+995
+00:48:52.600 --> 00:48:55.120
+turns out they have a lot of accelerated age-related
+
+996
+00:48:55.120 --> 00:48:59.360
+diseases. So, senolytics might be useful in helping those
+
+997
+00:48:59.360 --> 00:49:02.939
+people just even have a normal lifespan. So I
+
+998
+00:49:02.939 --> 00:49:04.500
+think there's a lot of things, and I'm probably
+
+999
+00:49:04.500 --> 00:49:06.860
+forgetting some because there's just so many. Like every
+
+1000
+00:49:06.860 --> 00:49:08.739
+chapter of my book, we talked about a different
+
+1001
+00:49:08.739 --> 00:49:12.979
+like pathway or um mechanism and like you can
+
+1002
+00:49:12.979 --> 00:49:15.139
+imagine if you find the proteins are in the,
+
+1003
+00:49:15.219 --> 00:49:17.659
+the genes that are responsible that they can become
+
+1004
+00:49:17.659 --> 00:49:22.149
+new targets, right? So pharmaceutical targets, so um. That's
+
+1005
+00:49:22.149 --> 00:49:24.310
+why I didn't just say like, you know, restriction
+
+1006
+00:49:24.310 --> 00:49:26.419
+and we're done. There's actually really a ton of
+
+1007
+00:49:26.419 --> 00:49:28.510
+different things that are going on. So, each one
+
+1008
+00:49:28.510 --> 00:49:30.830
+of those, even, like if you think creatively, like
+
+1009
+00:49:30.830 --> 00:49:32.790
+most of them could probably be developed into some
+
+1010
+00:49:32.790 --> 00:49:35.110
+sort of uh pharmaceutical treatment.
+
+1011
+00:49:35.939 --> 00:49:39.929
+Yeah, so just one final question then, how, how
+
+1012
+00:49:39.929 --> 00:49:43.179
+can we develop new treatment, and I mean, what
+
+1013
+00:49:43.179 --> 00:49:45.899
+is the best approach for, for us to develop
+
+1014
+00:49:45.899 --> 00:49:49.370
+new, new treatments for age-related decline?
+
+1015
+00:49:49.739 --> 00:49:53.679
+Ah, OK, so, um, so one of the barriers
+
+1016
+00:49:53.679 --> 00:49:55.540
+that you might be aware of is this idea
+
+1017
+00:49:55.540 --> 00:49:59.889
+that, um, aging is not considered an FDA. Treated
+
+1018
+00:49:59.889 --> 00:50:02.570
+disease, right? And so that makes it difficult to
+
+1019
+00:50:02.570 --> 00:50:04.510
+do things like clinical trials and so that's been
+
+1020
+00:50:05.000 --> 00:50:09.429
+the effort by um Neer Bar Barzilai and others
+
+1021
+00:50:09.429 --> 00:50:13.229
+to try to develop, um, car, carry out clinical
+
+1022
+00:50:13.229 --> 00:50:15.389
+trials that you really use aging as an endpoint.
+
+1023
+00:50:15.419 --> 00:50:17.590
+But of course, as you noted earlier in the
+
+1024
+00:50:17.590 --> 00:50:19.510
+program, there's a lot of things that happen with
+
+1025
+00:50:19.510 --> 00:50:23.550
+age, age-related diseases. And so, uh, one clever approach
+
+1026
+00:50:23.550 --> 00:50:26.429
+that several companies have used is to instead like
+
+1027
+00:50:26.429 --> 00:50:29.830
+target one of those age-related diseases and say, OK,
+
+1028
+00:50:29.949 --> 00:50:32.540
+does my You know, does the drug that I
+
+1029
+00:50:32.540 --> 00:50:35.179
+have, does it slow down this or that, OK?
+
+1030
+00:50:35.540 --> 00:50:38.100
+So, for example, there's things with the eyes, right?
+
+1031
+00:50:38.179 --> 00:50:40.610
+So, like, age-related problems with the eyes, we can
+
+1032
+00:50:40.610 --> 00:50:43.879
+look at that. We have things like osteoarthritis, um,
+
+1033
+00:50:44.100 --> 00:50:46.879
+lots of things that are not They're saying is
+
+1034
+00:50:46.879 --> 00:50:49.199
+proxies of aging. So we don't have to ask
+
+1035
+00:50:49.199 --> 00:50:51.080
+the question, does this drug make someone live longer?
+
+1036
+00:50:51.320 --> 00:50:54.520
+We can ask, does it actually treat this disorder
+
+1037
+00:50:54.520 --> 00:50:57.800
+that I'm, that's an age-related disorder? And if so,
+
+1038
+00:50:58.199 --> 00:51:00.560
+then, you know, you could probably market it for
+
+1039
+00:51:00.560 --> 00:51:02.790
+that one thing, but you might have the benefit
+
+1040
+00:51:02.790 --> 00:51:05.379
+of living longer as well. Yeah.
+
+1041
+00:51:05.830 --> 00:51:08.979
+OK, so the book is again How We Age,
+
+1042
+00:51:09.080 --> 00:51:11.879
+The Science of Longevity. I'm leaving a link to
+
+1043
+00:51:11.879 --> 00:51:14.520
+it in the description of the interview. And Doctor
+
+1044
+00:51:14.520 --> 00:51:16.840
+Murphy, just before we go, would you like to
+
+1045
+00:51:16.840 --> 00:51:19.790
+tell people where they can find you and your
+
+1046
+00:51:19.790 --> 00:51:21.000
+work on the internet?
+
+1047
+00:51:21.790 --> 00:51:25.870
+Uh, uh, YEAH, so I, um, I'm a professor
+
+1048
+00:51:25.870 --> 00:51:27.659
+at Princeton, and so if you just look up
+
+1049
+00:51:27.659 --> 00:51:29.790
+Princeton in my name, you'll find me. I have
+
+1050
+00:51:29.790 --> 00:51:31.750
+a lab here and I also am the director
+
+1051
+00:51:31.750 --> 00:51:35.709
+of the Louis Siegler Institute for Integrative Genomics, and
+
+1052
+00:51:35.709 --> 00:51:37.209
+so, uh, that's a link there.
+
+1053
+00:51:38.100 --> 00:51:40.689
+OK, great. So thank you so much for taking
+
+1054
+00:51:40.689 --> 00:51:42.389
+the time to come on the show. It's been
+
+1055
+00:51:42.389 --> 00:51:43.260
+fun to talk with you.
+
+1056
+00:51:43.750 --> 00:51:45.350
+Nice to talk with you as well, Ricardo. Thank
+
+1057
+00:51:45.350 --> 00:51:46.330
+you for the opportunity.
+
+1058
+00:51:47.610 --> 00:51:50.129
+Hi guys, thank you for watching this interview until
+
+1059
+00:51:50.129 --> 00:51:52.250
+the end. If you liked it, please share it,
+
+1060
+00:51:52.449 --> 00:51:55.219
+leave a like and hit the subscription button. The
+
+1061
+00:51:55.219 --> 00:51:57.479
+show is brought to you by Enlights Learning and
+
+1062
+00:51:57.479 --> 00:52:01.510
+Development done differently. Check their website at enlights.com and
+
+1063
+00:52:01.510 --> 00:52:05.239
+also please consider supporting the show on Patreon or
+
+1064
+00:52:05.239 --> 00:52:07.719
+PayPal. I would also like to give a huge
+
+1065
+00:52:07.719 --> 00:52:10.820
+thank you to my main patrons and PayPal supporters,
+
+1066
+00:52:11.239 --> 00:52:15.080
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+1067
+00:52:15.120 --> 00:52:18.389
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis,
+
+1068
+00:52:18.540 --> 00:52:22.110
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1069
+00:52:22.110 --> 00:52:26.139
+Robert Windegerru Inasi Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1070
+00:52:26.620 --> 00:52:30.409
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoro, and
+
+1071
+00:52:30.409 --> 00:52:33.870
+Hal Herz Agnon, Michel Jonathan Labrarith, John Yardston, and
+
+1072
+00:52:33.870 --> 00:52:37.429
+Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel,
+
+1073
+00:52:37.550 --> 00:52:41.590
+Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego
+
+1074
+00:52:41.590 --> 00:52:45.919
+Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro,
+
+1075
+00:52:45.979 --> 00:52:50.010
+Adam Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov,
+
+1076
+00:52:50.129 --> 00:52:54.139
+Zal Adrian Yei Poltonin, John Barboza, Julian Price, Edward
+
+1077
+00:52:54.139 --> 00:52:58.129
+Hall, Eddin Bronner, Douglas Fry, Franco Bartolatti, Gabriel P
+
+1078
+00:52:58.129 --> 00:53:02.060
+Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony
+
+1079
+00:53:02.060 --> 00:53:06.199
+Smith, and Wiseman. Daniel Friedman, William Buckner, Paul Georg
+
+1080
+00:53:06.199 --> 00:53:10.669
+Jarno, Luke Lovai, Georgios Theophanus, Chris Williamson, Peter Wolozin,
+
+1081
+00:53:11.000 --> 00:53:15.129
+David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex
+
+1082
+00:53:15.129 --> 00:53:19.560
+Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D.
+
+1083
+00:53:19.729 --> 00:53:24.409
+Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber,
+
+1084
+00:53:24.419 --> 00:53:29.050
+Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix,
+
+1085
+00:53:29.199 --> 00:53:32.939
+Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly
+
+1086
+00:53:32.939 --> 00:53:37.489
+Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson,
+
+1087
+00:53:37.729 --> 00:53:43.010
+Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate
+
+1088
+00:53:43.010 --> 00:53:49.330
+Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali
+
+1089
+00:53:49.330 --> 00:53:54.929
+Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David
+
+1090
+00:53:54.929 --> 00:53:59.544
+Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A
+
+1091
+00:53:59.544 --> 00:54:02.344
+special thanks to my producers Iar Webb, Jim Frank,
+
+1092
+00:54:02.425 --> 00:54:06.824
+Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller,
+
+1093
+00:54:06.935 --> 00:54:10.665
+Thomas Trumbull, Catherine and Patrick Tobin, John Carlomon Negro,
+
+1094
+00:54:10.705 --> 00:54:13.024
+Al Nick Cortiz, and Nick Golden, and to my
+
+1095
+00:54:13.024 --> 00:54:16.534
+executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and
+
+1096
+00:54:16.534 --> 00:54:18.604
+Rosie. Thank you for all.
+
