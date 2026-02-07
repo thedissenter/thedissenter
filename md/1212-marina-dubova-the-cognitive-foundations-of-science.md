@@ -1,10 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/111088115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F5c1d5dd2-82b4-e826-3fd7-85d4775b522d.m4a",
 	"draft": false,
 	"episodeid": "1212",
 	"excerpt": "Dr. Marina Dubova is an Omidyar postdoctoral fellow at the Santa Fe Institute. Her research aims to reveal and inform the cognitive mechanisms of discovery. She develops formal (e.g., computational models) and empirical methods (e.g., cognitive experiments with scientists) to put the foundations of scientific method to rigorous tests. She uses insights from cognitive science to learn how theories and data can be integrated and lead to better understandings of the world.",
 	"image": "https://i.ytimg.com/vi/cL8zbjfAvCA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1212-marina-dubova-the-cognitive-foundations-of-science/id1451347236?i=1000748578649&uo=4",
 	"publishDate": 2026-02-06,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1212-Marina-Dubova-The-Cognitive-Foundations-of-Science-e3asl1j",
 	"tags": [
 		"Cognitive Science",
 		"General Science"
