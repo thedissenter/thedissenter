@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1212 Marina Dubova: The Cognitive Foundations of Science",
-	"youtubeid": "cL8zbjfAvCA"
+	"vtt": "1212.vtt",
+	"youtubeid": "cL8zbjfAvCA",
+	"transcript": "1212.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 12th 2025.  
