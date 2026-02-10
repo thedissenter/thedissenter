@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1213 Nathan Lents - The Sexual Evolution: Sex, Gender, and Mating",
-	"youtubeid": "Jx1WXPrP9e8"
+	"vtt": "1213.vtt",
+	"youtubeid": "Jx1WXPrP9e8",
+	"transcript": "1213.lines.json"
 }
 ---
 ******Support the channel******  
