@@ -5,13 +5,16 @@
 	"episodeid": "1214",
 	"excerpt": "Dr. Paul Eastwick is Professor of Psychology at the University of California, Davis. Dr. Eastwick’s research investigates how people initiate romantic relationships and the psychological mechanisms that help romantic partners to remain committed and attached. One of his research programs examines how the qualities that people say are critically important to them in a romantic partner—their ideal partner preferences—direct romantic partner selection and retention. He is the author of Bonded by Evolution: The New Science of Love and Connection.",
 	"image": "https://i.ytimg.com/vi/IyJVOm7nBBo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1214-paul-eastwick-the-science-of-love-and-connection/id1451347236?i=1000749478201&uo=4",
 	"publishDate": 2026-02-12,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1214-Paul-Eastwick-The-Science-of-Love-and-Connection-e3di3up",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1214 Paul Eastwick: The Science of Love and Connection",
-	"youtubeid": "IyJVOm7nBBo"
+	"vtt": "1214.vtt",
+	"youtubeid": "IyJVOm7nBBo",
+	"transcript": "1214.lines.json"
 }
 ---
 RECORDED ON JANUARY 12th 2026.  
