@@ -1,0 +1,3410 @@
+WEBVTT
+
+1
+00:00:00.230 --> 00:00:03.019
+Hello, everyone. Welcome to a new episode of the
+
+2
+00:00:03.019 --> 00:00:06.070
+Dissenter. I'm your host, as always, Ricardo Lopes, and
+
+3
+00:00:06.070 --> 00:00:09.510
+today I'm joined by Doctor Mauricio Suarez. He is
+
+4
+00:00:09.510 --> 00:00:13.470
+full professor in logic and philosophy of Science at
+
+5
+00:00:13.470 --> 00:00:17.708
+Universidad Complutense de Madrid. He's also a life member
+
+6
+00:00:17.708 --> 00:00:21.909
+at Claire Hall at Cambridge University, and today we're
+
+7
+00:00:21.909 --> 00:00:25.989
+going to talk about his book Inference and Representation,
+
+8
+00:00:26.059 --> 00:00:30.349
+A Study in Modeling Science. So, Doctor Suarez, welcome
+
+9
+00:00:30.349 --> 00:00:32.429
+to the show. It's a huge pleasure to everyone.
+
+10
+00:00:33.099 --> 00:00:35.900
+Thank you very much, Ricardo. I'm very pleased to
+
+11
+00:00:35.900 --> 00:00:38.139
+be here finally. It took us some time to
+
+12
+00:00:38.139 --> 00:00:40.180
+arrange this, but we finally made it.
+
+13
+00:00:41.349 --> 00:00:43.900
+Thank you. Yes, that, that's true. That's true. So
+
+14
+00:00:43.900 --> 00:00:47.490
+let me first ask you about uh modeling. Uh,
+
+15
+00:00:47.580 --> 00:00:51.159
+WHAT is the practice of modeling in science?
+
+16
+00:00:53.279 --> 00:00:56.950
+Um, YES, the practice of modeling in science is,
+
+17
+00:00:57.049 --> 00:01:03.930
+um, the way scientists throughout all disciplines, um, go
+
+18
+00:01:03.930 --> 00:01:12.290
+about constructing hypothetical, imaginative, or fictional scenarios in order
+
+19
+00:01:12.290 --> 00:01:16.690
+to compare to real systems targets that they're interested
+
+20
+00:01:16.690 --> 00:01:19.699
+in studying in the world and to gain some
+
+21
+00:01:19.699 --> 00:01:24.150
+information about those systems. So it is. It is
+
+22
+00:01:24.150 --> 00:01:31.230
+a central practice in contemporary scientific activity across all
+
+23
+00:01:31.230 --> 00:01:36.470
+kinds of different fields, and it doesn't um attempt
+
+24
+00:01:36.470 --> 00:01:41.910
+to study nature, um, or society, the objects of
+
+25
+00:01:41.910 --> 00:01:46.970
+the study, um, directly, but by means of constructing.
+
+26
+00:01:47.339 --> 00:01:52.080
+This hypothetical or imaginative or fictional scenarios that are
+
+27
+00:01:52.080 --> 00:01:55.610
+then compared with the real systems and knowledge can
+
+28
+00:01:55.610 --> 00:01:59.370
+be acquired. Uh, BY means of these comparisons.
+
+29
+00:02:00.580 --> 00:02:03.500
+And what is a model? I mean, what, what
+
+30
+00:02:03.500 --> 00:02:05.370
+does that mean in science?
+
+31
+00:02:07.290 --> 00:02:11.179
+Uh, YEAH, that's a different question. Um, THAT'S a
+
+32
+00:02:11.179 --> 00:02:14.460
+question in the ontology of models. The first question
+
+33
+00:02:14.460 --> 00:02:16.740
+that you asked me was a question about practice,
+
+34
+00:02:17.460 --> 00:02:19.940
+and one can answer that question by looking at
+
+35
+00:02:19.940 --> 00:02:24.300
+the phenomenology of scientific activity and practice. The second
+
+36
+00:02:24.300 --> 00:02:26.910
+question that you asked me is a more philosophical
+
+37
+00:02:26.910 --> 00:02:30.529
+question and perhaps surprisingly, it's a harder question to
+
+38
+00:02:30.529 --> 00:02:33.050
+answer. I mean, the, the first question. It is
+
+39
+00:02:33.050 --> 00:02:35.820
+relatively easy to answer because we just have to
+
+40
+00:02:35.820 --> 00:02:37.699
+look at the practice and the practice is very
+
+41
+00:02:37.699 --> 00:02:41.389
+much a given. But models are not a given.
+
+42
+00:02:41.470 --> 00:02:44.830
+We have to philosophically interpret them in order to
+
+43
+00:02:44.830 --> 00:02:46.990
+come up with an answer to that question. What
+
+44
+00:02:46.990 --> 00:02:51.100
+are models? Um, AND it turns out that no
+
+45
+00:02:51.100 --> 00:02:55.059
+single philosophical answer to this question has been very
+
+46
+00:02:55.059 --> 00:02:58.899
+good, um, to be frank, there have been lots
+
+47
+00:02:58.899 --> 00:03:01.220
+of different philosophical attempts to come up with an
+
+48
+00:03:01.220 --> 00:03:05.690
+answer, and all of them have some, uh, issues
+
+49
+00:03:05.690 --> 00:03:08.779
+or limitations of one sort or another. Perhaps the
+
+50
+00:03:08.779 --> 00:03:10.699
+simplest answer is to say that a model is
+
+51
+00:03:10.699 --> 00:03:14.330
+a description. But that really doesn't tell you much
+
+52
+00:03:14.330 --> 00:03:16.210
+because then you have to ask a description of
+
+53
+00:03:16.210 --> 00:03:18.610
+what and how does it describe a model what
+
+54
+00:03:18.610 --> 00:03:21.449
+it describes, and that gets you into the heart
+
+55
+00:03:21.449 --> 00:03:26.289
+of the philosophical problem with representation. So, I don't
+
+56
+00:03:26.289 --> 00:03:28.490
+think we have a very good answer to the
+
+57
+00:03:28.490 --> 00:03:32.350
+question what models are. Um, IT'S quite clear that
+
+58
+00:03:32.350 --> 00:03:34.169
+there are many things that can play the role
+
+59
+00:03:34.169 --> 00:03:39.190
+of models from equations to linguistic descriptions to contraptions
+
+60
+00:03:39.190 --> 00:03:45.009
+and real physical objects to imaginative scenarios and thought
+
+61
+00:03:45.009 --> 00:03:47.960
+experiments. They all can play the role of models,
+
+62
+00:03:48.160 --> 00:03:50.869
+and there is not a single thing that identifies
+
+63
+00:03:51.089 --> 00:03:55.279
+or cuts across. All of those. So, uh, in,
+
+64
+00:03:55.399 --> 00:03:59.520
+in part, um, my project has been for some
+
+65
+00:03:59.520 --> 00:04:01.880
+time now to come up with a functional answer
+
+66
+00:04:01.880 --> 00:04:04.139
+to the question of what models are rather than
+
+67
+00:04:04.479 --> 00:04:07.520
+answering the question directly and giving you a definition
+
+68
+00:04:07.520 --> 00:04:10.960
+of what the model is abstractly, which I think
+
+69
+00:04:10.960 --> 00:04:14.639
+has not been a very successful project. I prefer
+
+70
+00:04:14.639 --> 00:04:17.010
+to give you a definition of what models are.
+
+71
+00:04:17.688 --> 00:04:21.528
+In the practice of modeling, which is uh something
+
+72
+00:04:21.528 --> 00:04:24.760
+that is much more accessible and easier. To contemplate
+
+73
+00:04:24.760 --> 00:04:27.399
+and study and so I try to come up
+
+74
+00:04:27.399 --> 00:04:31.279
+with um a purely functional definition of what a
+
+75
+00:04:31.279 --> 00:04:32.920
+model is in terms of what it does for
+
+76
+00:04:32.920 --> 00:04:36.470
+us, which is to allow us to investigate the
+
+77
+00:04:36.470 --> 00:04:38.309
+world in the way that I described in my
+
+78
+00:04:38.309 --> 00:04:39.720
+answer to the first question.
+
+79
+00:04:40.880 --> 00:04:43.450
+And then in the book you talk about what
+
+80
+00:04:43.450 --> 00:04:47.769
+you call the modeling attitude. What is that and
+
+81
+00:04:47.769 --> 00:04:50.809
+how did it emerge in the 19th century?
+
+82
+00:04:52.239 --> 00:04:55.239
+Yes, so I mean this really gets us already
+
+83
+00:04:55.239 --> 00:05:00.130
+going into the project because the whole I wrote
+
+84
+00:05:00.130 --> 00:05:03.290
+a whole chapter. The second chapter, which is devoted
+
+85
+00:05:03.290 --> 00:05:07.690
+to the historical background to the philosophical analysis of
+
+86
+00:05:07.690 --> 00:05:13.299
+present-day scientific modeling. Um, THERE has been modeling in
+
+87
+00:05:13.299 --> 00:05:16.559
+science, and there have been models in science, um,
+
+88
+00:05:16.570 --> 00:05:19.589
+for as long as there has been science. Um,
+
+89
+00:05:19.850 --> 00:05:24.739
+Galileo famously constructed models, so did Kepler. But they
+
+90
+00:05:24.739 --> 00:05:27.899
+were not in any way dominant or a dominant
+
+91
+00:05:27.899 --> 00:05:31.059
+part of science. They only become a dominant or
+
+92
+00:05:31.059 --> 00:05:34.679
+central part of scientific activity. At the end of
+
+93
+00:05:34.679 --> 00:05:39.570
+the 19th century. So, the modeling attitude is this
+
+94
+00:05:40.109 --> 00:05:44.549
+very prevalent and dominant way of doing science by
+
+95
+00:05:44.549 --> 00:05:50.029
+means of this construction of imaginative hypothetical fictional scenarios
+
+96
+00:05:50.029 --> 00:05:53.029
+that I was talking about at the beginning, which
+
+97
+00:05:53.029 --> 00:05:56.109
+only becomes really dominant and central to the way
+
+98
+00:05:56.109 --> 00:05:59.390
+we do science. Um, IN the 20th century. So
+
+99
+00:05:59.390 --> 00:06:03.549
+it's a really fin de sela development and it's
+
+100
+00:06:03.549 --> 00:06:06.019
+really with the start of the 20th century that
+
+101
+00:06:06.019 --> 00:06:10.309
+we can start talking about a central modeling attitude
+
+102
+00:06:10.309 --> 00:06:13.549
+on the part of scientists. Scientists gain this attitude
+
+103
+00:06:13.549 --> 00:06:17.320
+of doing science by means of the construction. OF
+
+104
+00:06:17.320 --> 00:06:20.119
+models. So I, I go into some details of
+
+105
+00:06:20.119 --> 00:06:25.589
+this history. And I find a number of locations
+
+106
+00:06:25.589 --> 00:06:29.269
+throughout Europe, throughout the 19th century where this modeling
+
+107
+00:06:29.690 --> 00:06:34.290
+attitude becomes dominant, particularly around the work of um
+
+108
+00:06:34.890 --> 00:06:39.609
+James Clerk Maxwell and the Maxwellians in Victorian Britain
+
+109
+00:06:39.609 --> 00:06:42.040
+in the second half of the 19th century, and
+
+110
+00:06:42.040 --> 00:06:46.640
+then slightly later, but really pretty much simultaneously in,
+
+111
+00:06:47.010 --> 00:06:50.209
+in the German lands, particularly around the schools in
+
+112
+00:06:50.209 --> 00:06:55.790
+Berlin and Um, Vienna, um, both around Hermann von
+
+113
+00:06:55.790 --> 00:07:01.829
+Helmholtz and, uh, Ludwig, uh, um, Boltzmann. Um, IN
+
+114
+00:07:01.829 --> 00:07:05.190
+Vienna at the turn of the century, um, there
+
+115
+00:07:05.190 --> 00:07:09.309
+are a couple of very signaling events, um, both
+
+116
+00:07:09.309 --> 00:07:12.750
+in Britain and then later on, um, the publication
+
+117
+00:07:12.750 --> 00:07:17.390
+of, um, uh, and a very famous and influential
+
+118
+00:07:17.390 --> 00:07:22.290
+entry. In the Encyclopaedia Britannica by Boltzmann entitled Models,
+
+119
+00:07:22.660 --> 00:07:26.619
+which is published in 1900 at the turn of
+
+120
+00:07:26.619 --> 00:07:31.299
+the century, um, which signals the dominance of the
+
+121
+00:07:31.299 --> 00:07:35.500
+modeling attitude. So it has two cultural sources. Um,
+
+122
+00:07:35.670 --> 00:07:38.690
+THAT are predominant, but it's really happening all throughout
+
+123
+00:07:39.390 --> 00:07:43.089
+Europe. It happens in France, it happens in Italy,
+
+124
+00:07:43.470 --> 00:07:48.269
+it happens everywhere where scientific activity takes place that
+
+125
+00:07:48.269 --> 00:07:51.989
+this, uh, modeling attitude, this attitude of building models
+
+126
+00:07:51.989 --> 00:07:56.549
+in order to investigate phenomena becomes, uh, prevalent, and
+
+127
+00:07:56.549 --> 00:07:59.739
+I think the history is important because it gives
+
+128
+00:07:59.739 --> 00:08:02.910
+us clues as to how to understand the notion.
+
+129
+00:08:04.570 --> 00:08:07.690
+So, um, what I undertake in that chapter in
+
+130
+00:08:07.690 --> 00:08:10.869
+the book is uh If you want, you could
+
+131
+00:08:10.869 --> 00:08:14.459
+call it a philosophical history of the present, uh,
+
+132
+00:08:14.470 --> 00:08:18.230
+the present day condition in science which has a
+
+133
+00:08:18.230 --> 00:08:20.350
+history and I go to doing a bit of
+
+134
+00:08:20.350 --> 00:08:24.070
+genealogy of that, and I happen to be one
+
+135
+00:08:24.070 --> 00:08:26.750
+of those philosophers who think, who thinks that you
+
+136
+00:08:26.750 --> 00:08:31.049
+can only really understand the philosophical debate or position
+
+137
+00:08:31.510 --> 00:08:33.950
+if you understand the history and in this case.
+
+138
+00:08:34.489 --> 00:08:36.890
+I think it's very obvious that the history is
+
+139
+00:08:36.890 --> 00:08:40.530
+incredibly informative for how we should think about uh
+
+140
+00:08:40.530 --> 00:08:44.969
+models and, and, um, nowadays. So, it has a
+
+141
+00:08:44.969 --> 00:08:48.869
+history, it has a very precise history with precise
+
+142
+00:08:48.869 --> 00:08:53.289
+locations and scientists who take on this particular way
+
+143
+00:08:53.289 --> 00:08:56.890
+of doing science and then it spreads out very
+
+144
+00:08:56.890 --> 00:08:59.390
+quickly and eventually becomes very dominant.
+
+145
+00:09:01.169 --> 00:09:05.659
+Um, LET me ask you now about representation in
+
+146
+00:09:05.659 --> 00:09:10.340
+the philosophy of science, when exactly did people start
+
+147
+00:09:10.340 --> 00:09:13.500
+thinking more about the concept of representation?
+
+148
+00:09:16.049 --> 00:09:19.289
+This is a very good question, um, because you
+
+149
+00:09:19.289 --> 00:09:23.190
+would have thought that representation would always have been
+
+150
+00:09:23.530 --> 00:09:26.809
+a topic of philosophical interest, and there is a
+
+151
+00:09:26.809 --> 00:09:29.530
+sense in which it always was a topic of
+
+152
+00:09:29.530 --> 00:09:34.929
+philosophical interest, but, um, during the, the, the years
+
+153
+00:09:34.929 --> 00:09:40.840
+of dominance of formal philosophy and the um Dominance
+
+154
+00:09:40.840 --> 00:09:45.030
+of logical positivism, particularly in North America. I think
+
+155
+00:09:45.030 --> 00:09:48.429
+the concept was somewhat relegated, um, and that may
+
+156
+00:09:48.429 --> 00:09:50.729
+have had to do with the fact that for
+
+157
+00:09:51.070 --> 00:09:56.309
+the logical positivists, the fundamental notions of analysis were
+
+158
+00:09:56.309 --> 00:10:02.190
+linguistic and particularly um descriptive, um, and representation is
+
+159
+00:10:02.190 --> 00:10:06.419
+a more general concept. Um, SO for a long
+
+160
+00:10:06.419 --> 00:10:09.270
+time, philosophers didn't really care much about this concept.
+
+161
+00:10:09.669 --> 00:10:13.349
+And so you find a paradox that for instance
+
+162
+00:10:13.349 --> 00:10:19.070
+in the 1970s and 1980s, philosophers of science barely
+
+163
+00:10:19.070 --> 00:10:22.109
+touch the topic and there is no established topic
+
+164
+00:10:22.109 --> 00:10:25.390
+of scientific representation in the curriculum is in no
+
+165
+00:10:25.390 --> 00:10:30.669
+way a canonical topic, still nowadays remains perhaps slightly
+
+166
+00:10:30.669 --> 00:10:34.849
+outside the canon, um. Yet in other areas of
+
+167
+00:10:34.849 --> 00:10:38.770
+philosophy, for instance, in the philosophy of art, representation
+
+168
+00:10:38.770 --> 00:10:42.429
+is the central concept which every philosopher of art
+
+169
+00:10:43.049 --> 00:10:45.609
+has something to say about in the 1970s, in
+
+170
+00:10:45.609 --> 00:10:51.219
+the 1980s, in the 1990s. So, uh, something happens,
+
+171
+00:10:51.229 --> 00:10:54.450
+um, in the second half of the 20th century
+
+172
+00:10:54.450 --> 00:10:58.049
+in philosophy of science where representation as a topic
+
+173
+00:10:58.049 --> 00:11:01.969
+gets suppressed in some ways. Um, IT comes back
+
+174
+00:11:01.969 --> 00:11:06.729
+to the fore, um, mainly through renewed interest by
+
+175
+00:11:06.729 --> 00:11:11.880
+philosophers of science or modeling. Um, WHICH is, uh,
+
+176
+00:11:11.979 --> 00:11:15.739
+something that philosophers take up in the 1990s, really.
+
+177
+00:11:16.890 --> 00:11:19.250
+And once we take up that interest, we connect
+
+178
+00:11:19.250 --> 00:11:23.010
+with previous philosophical discussions of modeling that there were
+
+179
+00:11:23.010 --> 00:11:26.890
+at the beginning of the 20th century around figures
+
+180
+00:11:26.890 --> 00:11:30.960
+like Pierre Duhaim and Henry Poincare here as in
+
+181
+00:11:30.960 --> 00:11:34.770
+many other areas, a real pioneer, um, and later
+
+182
+00:11:34.770 --> 00:11:38.849
+on Campbell, uh, in, in England, and then some
+
+183
+00:11:38.849 --> 00:11:42.989
+minor figures, um. During the 50s and 60s that
+
+184
+00:11:42.989 --> 00:11:45.750
+were at the time considered marginal like Max Black
+
+185
+00:11:45.750 --> 00:11:50.190
+and Mary Hesse, who did uh write extensively about
+
+186
+00:11:50.190 --> 00:11:54.229
+models but were not uh regarded as canonical figures
+
+187
+00:11:54.229 --> 00:11:57.549
+in the field, but who have been rehabilitated in
+
+188
+00:11:57.549 --> 00:12:00.669
+the last 20 or 30 years precisely because of
+
+189
+00:12:00.669 --> 00:12:04.719
+this new interest on, on representation. So it has
+
+190
+00:12:04.719 --> 00:12:08.750
+um And an interesting history of its own, the
+
+191
+00:12:08.750 --> 00:12:11.849
+concept of representation in the philosophy of science because
+
+192
+00:12:12.270 --> 00:12:17.239
+um it has suffered waves of interest and disinterterest
+
+193
+00:12:17.590 --> 00:12:20.809
+um throughout the history and I think it's interesting
+
+194
+00:12:20.809 --> 00:12:23.729
+to study the philosophy of science through the lens
+
+195
+00:12:24.070 --> 00:12:26.679
+of what philosophers of science do with the concept.
+
+196
+00:12:26.710 --> 00:12:30.219
+Um, AT some point, um, they are centrally occupied
+
+197
+00:12:30.219 --> 00:12:34.099
+with it. Later on, they become very much disinterested
+
+198
+00:12:34.099 --> 00:12:36.710
+in it. And in the last 20 or 30
+
+199
+00:12:36.710 --> 00:12:39.929
+years, the topic has emerged again with renewed uh
+
+200
+00:12:40.549 --> 00:12:43.549
+force and vigor, and it's now one of the
+
+201
+00:12:43.549 --> 00:12:46.989
+central topics of research for philosophers of science and
+
+202
+00:12:46.989 --> 00:12:50.390
+I think again, possibly becoming canonical again.
+
+203
+00:12:51.770 --> 00:12:54.890
+And what is representation exactly?
+
+204
+00:12:56.840 --> 00:12:59.840
+OK. I mean this is you have to read
+
+205
+00:12:59.840 --> 00:13:02.109
+my book to get the answer to the full
+
+206
+00:13:02.109 --> 00:13:07.150
+answer to this question, um, so, um, representation is
+
+207
+00:13:07.150 --> 00:13:12.739
+um A, a concept, a notion that we use
+
+208
+00:13:13.239 --> 00:13:16.919
+to describe the way, the different ways in which
+
+209
+00:13:16.919 --> 00:13:21.460
+in different areas of knowledge and particular in science,
+
+210
+00:13:21.840 --> 00:13:26.119
+uh, people get on with ways to characterize the
+
+211
+00:13:26.119 --> 00:13:33.059
+reality around them. Now, There is a traditional, very
+
+212
+00:13:33.400 --> 00:13:38.760
+old, um, ancient really way of thinking of representation
+
+213
+00:13:38.760 --> 00:13:43.400
+as a sort of Mimsis or copy of the
+
+214
+00:13:43.400 --> 00:13:46.000
+reality. One way in which we go about representing
+
+215
+00:13:46.000 --> 00:13:51.719
+reality is by copying it, um, identifying its fundamental
+
+216
+00:13:51.719 --> 00:13:56.919
+elements and producing some sort of copy. Um, OF
+
+217
+00:13:56.919 --> 00:14:00.239
+it as kind of mirror image of the reality
+
+218
+00:14:00.239 --> 00:14:03.599
+and this has been, this is an ancient thought.
+
+219
+00:14:04.789 --> 00:14:08.969
+But it's been crit also critic criticized very strongly
+
+220
+00:14:09.549 --> 00:14:13.109
+also since antiquity. I mean it's had its defenders
+
+221
+00:14:13.109 --> 00:14:16.469
+and its critics ever since it was born possibly
+
+222
+00:14:16.469 --> 00:14:21.609
+with Plato. Um, AND nowadays, uh, we, we think,
+
+223
+00:14:21.869 --> 00:14:24.510
+I think the consensus is that any sort of
+
+224
+00:14:24.510 --> 00:14:27.229
+attempt to get on with the concept of representation
+
+225
+00:14:27.229 --> 00:14:30.590
+by means of any mirroring metaphor is very limited.
+
+226
+00:14:31.049 --> 00:14:36.599
+And encounters very important fundamental problems. But basically, that's
+
+227
+00:14:36.599 --> 00:14:42.270
+what representation is. It's a, it's a concept. Um,
+
+228
+00:14:42.289 --> 00:14:46.880
+THAT we use and apply to every attempt to
+
+229
+00:14:46.880 --> 00:14:50.280
+provide a characterization of the surrounding reality that helps
+
+230
+00:14:50.280 --> 00:14:53.760
+us manage in some ways and get to know
+
+231
+00:14:53.760 --> 00:14:55.520
+that reality.
+
+232
+00:14:57.280 --> 00:15:01.679
+AND what are the most prominent accounts of scientific
+
+233
+00:15:01.679 --> 00:15:02.679
+representation?
+
+234
+00:15:05.880 --> 00:15:09.679
+Uh, WELL, as I was mentioning before, um, interest
+
+235
+00:15:09.679 --> 00:15:13.640
+in this notion is, is relatively new in the
+
+236
+00:15:14.099 --> 00:15:16.719
+philosophy of science of the last, uh, century or
+
+237
+00:15:16.719 --> 00:15:21.030
+so, um, and this is an evolving, uh, field,
+
+238
+00:15:21.520 --> 00:15:26.440
+so there are new accounts springing up, um, almost,
+
+239
+00:15:26.450 --> 00:15:30.000
+uh, as we speak, uh, on a monthly basis.
+
+240
+00:15:30.119 --> 00:15:34.130
+It's a very rich, uh, lively and dynamic. FIELD
+
+241
+00:15:34.130 --> 00:15:37.729
+of research. I would divide all the accounts of
+
+242
+00:15:37.729 --> 00:15:39.450
+representation and this is something I do in the
+
+243
+00:15:39.450 --> 00:15:45.049
+book um into two kinds. Uh WHAT I Accounts
+
+244
+00:15:45.049 --> 00:15:48.169
+of representation and what I call deflationary accounts of
+
+245
+00:15:48.169 --> 00:15:53.250
+representation. The substantive accounts of representation try to attempt
+
+246
+00:15:53.250 --> 00:15:55.369
+to get to grips with the with the concept
+
+247
+00:15:55.369 --> 00:16:00.169
+of representation by defining it, essentially providing a set
+
+248
+00:16:00.169 --> 00:16:04.489
+of sufficient and necessary conditions for the concept and
+
+249
+00:16:04.489 --> 00:16:07.530
+in so doing reducing it to other concepts that
+
+250
+00:16:07.530 --> 00:16:11.650
+we may think are easier to comprehend or to
+
+251
+00:16:11.650 --> 00:16:16.739
+understand. Since, as I mentioned, representation itself is a
+
+252
+00:16:16.739 --> 00:16:20.130
+complex. A concept, you may think that one way
+
+253
+00:16:20.130 --> 00:16:22.570
+of going philosophically about it is to try to
+
+254
+00:16:22.570 --> 00:16:25.429
+reduce it to a simpler concept or set of
+
+255
+00:16:25.679 --> 00:16:28.890
+concepts, and that's what a substantive account would on
+
+256
+00:16:28.890 --> 00:16:30.640
+the whole try to do. And there are a
+
+257
+00:16:30.640 --> 00:16:33.799
+number of different accounts that fit the bill here.
+
+258
+00:16:34.289 --> 00:16:37.489
+There have been people who have claimed that representation
+
+259
+00:16:37.489 --> 00:16:41.840
+can be reduced to similarity of relations between model
+
+260
+00:16:41.840 --> 00:16:45.010
+sources and model targets. And there are people who
+
+261
+00:16:45.010 --> 00:16:50.010
+have uh employed the structuralist notions derived from morphism
+
+262
+00:16:50.010 --> 00:16:53.950
+or isomorphisms of some sort in order to characterize
+
+263
+00:16:53.950 --> 00:16:59.140
+this substantive relation. In all these cases, the, the,
+
+264
+00:16:59.250 --> 00:17:01.849
+the idea in the background of these attempts is
+
+265
+00:17:01.849 --> 00:17:06.780
+that representation is complex and um. Very hard to
+
+266
+00:17:06.780 --> 00:17:10.260
+understand and you try to analyze it or reduce
+
+267
+00:17:10.260 --> 00:17:12.699
+it to concepts that are easier to understand, such
+
+268
+00:17:12.699 --> 00:17:17.069
+as similarity or or isomorphism. Um, I, I think
+
+269
+00:17:17.069 --> 00:17:20.260
+all these attempts to reduce the concept of representation
+
+270
+00:17:20.260 --> 00:17:24.420
+encounter uh what I now regard that as insurmountable
+
+271
+00:17:24.420 --> 00:17:26.579
+difficulties and I don't think any of them really
+
+272
+00:17:26.579 --> 00:17:30.989
+works. To the satisfaction of the proponents. The other
+
+273
+00:17:30.989 --> 00:17:35.968
+kind of um account, um, is a deflationary account,
+
+274
+00:17:36.229 --> 00:17:38.428
+and this is an account that doesn't necessarily try
+
+275
+00:17:38.428 --> 00:17:42.270
+to define the notion. Um, THERE are many concepts
+
+276
+00:17:42.270 --> 00:17:44.920
+that we employ in ordinary life and in our
+
+277
+00:17:44.920 --> 00:17:48.000
+cognitive lives that we don't know how to define.
+
+278
+00:17:48.699 --> 00:17:51.099
+And there's a whole philosophical tradition that claims that
+
+279
+00:17:51.099 --> 00:17:55.140
+no concept except very recondite concepts in the formal
+
+280
+00:17:55.140 --> 00:17:58.780
+senses can be fully analyzed in this way, um.
+
+281
+00:17:59.949 --> 00:18:03.189
+And a deflationist, um, would approach the concept of
+
+282
+00:18:03.189 --> 00:18:06.750
+representation in this spirit instead of trying to analyze
+
+283
+00:18:06.750 --> 00:18:11.109
+it away in terms of simpler concepts, the deflationist
+
+284
+00:18:11.109 --> 00:18:14.270
+thinks that representation is not in fact such a
+
+285
+00:18:14.270 --> 00:18:16.869
+complex concept, but it is related to the phenomenology
+
+286
+00:18:16.869 --> 00:18:20.589
+of the practice of model building that we discussed
+
+287
+00:18:20.589 --> 00:18:22.949
+uh at the beginning of the interview. And so
+
+288
+00:18:22.949 --> 00:18:26.270
+therefore it's, um, in some ways a given. It
+
+289
+00:18:26.270 --> 00:18:27.949
+is a given in the way that we do
+
+290
+00:18:27.949 --> 00:18:31.170
+things that we employ representations. And we can only
+
+291
+00:18:31.170 --> 00:18:33.910
+really say some very general things about the concept
+
+292
+00:18:34.310 --> 00:18:37.589
+and then the philosophical task that remains to do
+
+293
+00:18:37.880 --> 00:18:40.209
+is not to analyze it but to see how
+
+294
+00:18:40.209 --> 00:18:43.089
+it works in practice and to study the practice
+
+295
+00:18:43.569 --> 00:18:46.930
+and you know it's a splendid variety and trying
+
+296
+00:18:46.930 --> 00:18:50.349
+to draw as many general lessons as we can
+
+297
+00:18:50.729 --> 00:18:54.489
+from the practice about how we use um representations.
+
+298
+00:18:54.969 --> 00:19:01.420
+So deflationist tends to Um, to favor the study
+
+299
+00:19:01.420 --> 00:19:05.020
+of the practice while the substantivist would tend to
+
+300
+00:19:05.020 --> 00:19:09.849
+favor the analysis of the concept, um, and, uh,
+
+301
+00:19:09.859 --> 00:19:12.180
+and, and there are two very different approaches to
+
+302
+00:19:12.180 --> 00:19:16.300
+this field, um, just as there are different substantivist
+
+303
+00:19:16.300 --> 00:19:19.579
+accounts, there are also different deflationist accounts. Uh, I
+
+304
+00:19:19.579 --> 00:19:22.219
+have proposed one, but there are other, and there
+
+305
+00:19:22.219 --> 00:19:25.739
+are other versions of this different accounts that circulate
+
+306
+00:19:25.739 --> 00:19:29.520
+in the literature that can be. Uh, MADE or
+
+307
+00:19:29.520 --> 00:19:31.920
+read in other place or spirit. So I think
+
+308
+00:19:31.920 --> 00:19:35.400
+there is quite a range of accounts that are
+
+309
+00:19:35.400 --> 00:19:39.079
+acceptable and that one could choose from, um. Mine
+
+310
+00:19:39.079 --> 00:19:42.359
+is not necessarily the only one, although I claim
+
+311
+00:19:42.359 --> 00:19:45.479
+some virtues for it, but there are other accounts
+
+312
+00:19:45.479 --> 00:19:49.000
+of representation that, as I mentioned before, are deflationist
+
+313
+00:19:49.000 --> 00:19:51.209
+in the sense that they put the practice first
+
+314
+00:19:51.439 --> 00:19:53.839
+and they try to study the practice ahead of
+
+315
+00:19:53.839 --> 00:19:57.000
+trying to analyze the concept in any abstract way.
+
+316
+00:19:58.540 --> 00:20:00.540
+In the book at a certain point, you talk
+
+317
+00:20:00.540 --> 00:20:05.099
+about the distinction between the means and the constituent
+
+318
+00:20:05.099 --> 00:20:09.819
+of scientific representation. Uh, WHAT is that distinction and
+
+319
+00:20:09.819 --> 00:20:11.180
+why does it matter?
+
+320
+00:20:13.489 --> 00:20:18.609
+Yeah, good. Um, SO, this, this distinction, um, has
+
+321
+00:20:18.609 --> 00:20:22.290
+a role to play in the assessment of the
+
+322
+00:20:22.290 --> 00:20:25.770
+different accounts of representation. I introduced it explicitly in
+
+323
+00:20:25.770 --> 00:20:29.089
+the book. I mean, it, it originates uh with
+
+324
+00:20:29.089 --> 00:20:32.609
+me for Uh, for good or bad, it originates
+
+325
+00:20:32.609 --> 00:20:35.890
+with me. Um, AND I introduced it in order
+
+326
+00:20:35.890 --> 00:20:39.030
+to, uh, produce some sort of assessment of the
+
+327
+00:20:39.030 --> 00:20:44.180
+different accounts of representation. Um, THE constituent of representation
+
+328
+00:20:44.180 --> 00:20:48.209
+is the relation, if there is one, between sources
+
+329
+00:20:48.209 --> 00:20:51.900
+and targets in virtue of which, uh, a model
+
+330
+00:20:51.900 --> 00:20:55.959
+is a representation of its target. So it's basically
+
+331
+00:20:56.500 --> 00:21:01.380
+the defining conditions in this analytical spirit of the
+
+332
+00:21:01.380 --> 00:21:06.020
+substantive, uh, accounts to representation of the notion of
+
+333
+00:21:06.020 --> 00:21:11.270
+representation. Now defenders of the substantivist accounts of representation
+
+334
+00:21:11.270 --> 00:21:14.989
+would claim that there is a constituent to representation
+
+335
+00:21:14.989 --> 00:21:17.989
+and moreover, it's a substantive one that allows us
+
+336
+00:21:17.989 --> 00:21:20.270
+to understand the concept. I claim in the book
+
+337
+00:21:20.270 --> 00:21:24.099
+that there is no substantive constituent of the uh
+
+338
+00:21:24.099 --> 00:21:27.390
+concept of representation. We can at best express some
+
+339
+00:21:27.390 --> 00:21:30.790
+very general platitudes of how the concept is employed
+
+340
+00:21:30.790 --> 00:21:32.869
+in practice and that's as much as we can
+
+341
+00:21:32.869 --> 00:21:36.310
+say about the constituents. So I have a very
+
+342
+00:21:36.310 --> 00:21:40.839
+thin. Account of the constituent of representation, but this
+
+343
+00:21:40.839 --> 00:21:44.520
+needs to be distinguished from the means of any
+
+344
+00:21:44.520 --> 00:21:47.599
+given representation which is the relation between source and
+
+345
+00:21:47.599 --> 00:21:52.949
+targets. That scientists will utilize in the context of
+
+346
+00:21:52.949 --> 00:21:56.099
+their practice in order to draw conclusions about the
+
+347
+00:21:56.099 --> 00:21:59.589
+targets on the basis of the source of the
+
+348
+00:21:59.589 --> 00:22:04.780
+representation. These are the means of the different sets
+
+349
+00:22:04.780 --> 00:22:08.420
+of representations that we find uh across the different
+
+350
+00:22:08.420 --> 00:22:12.699
+sciences, and scientists will employ very many different such
+
+351
+00:22:12.699 --> 00:22:17.260
+relations in different contexts. Now, varieties or types of
+
+352
+00:22:17.260 --> 00:22:19.989
+similarity may play a role in some contexts, a
+
+353
+00:22:19.989 --> 00:22:23.939
+stronger or weaker forms. Varieties or types of morphism
+
+354
+00:22:24.260 --> 00:22:26.819
+could play a role as means of the representational
+
+355
+00:22:26.819 --> 00:22:30.270
+relation in different contexts. Um, THERE are different kinds
+
+356
+00:22:30.270 --> 00:22:33.109
+of morphisms that could play that role, but then
+
+357
+00:22:33.109 --> 00:22:37.329
+there are other, uh, relations such as instantiation, which,
+
+358
+00:22:37.339 --> 00:22:41.439
+uh, is one possible relation between a model and
+
+359
+00:22:41.439 --> 00:22:45.290
+its target, uh, that cannot be reduced to either
+
+360
+00:22:45.630 --> 00:22:49.430
+similarity or isomorphism, and I claim those also can
+
+361
+00:22:49.430 --> 00:22:51.430
+play and often play a role. So you have
+
+362
+00:22:51.430 --> 00:22:54.510
+a variety of means that all play a role
+
+363
+00:22:54.510 --> 00:23:01.079
+in different cases in different representations. Um So, um,
+
+364
+00:23:01.109 --> 00:23:03.939
+I use the distinction between means and constituents to
+
+365
+00:23:03.939 --> 00:23:08.900
+defend my account, which is minimal or minimalist with
+
+366
+00:23:08.900 --> 00:23:12.989
+respect to the constituents. And pluralist with respect to
+
+367
+00:23:12.989 --> 00:23:16.550
+the means of representation, claiming that there are very
+
+368
+00:23:16.550 --> 00:23:19.369
+many different means that can play a legitimate role
+
+369
+00:23:19.829 --> 00:23:25.229
+in order to mediate or facilitate the functional ends
+
+370
+00:23:25.229 --> 00:23:28.109
+of representational models in sciences.
+
+371
+00:23:28.810 --> 00:23:34.170
+Mhm. Uh, TELL us then how this distinction between
+
+372
+00:23:34.170 --> 00:23:37.910
+the means and the constituent, the constituent of scientific
+
+373
+00:23:37.910 --> 00:23:42.719
+representation then grounds a clear division of labor between
+
+374
+00:23:42.719 --> 00:23:47.250
+epistemic and conceptual dimensions of representation.
+
+375
+00:23:50.089 --> 00:23:55.239
+Yeah, that's a great question too. Um, SO, um,
+
+376
+00:23:57.650 --> 00:23:59.530
+So for a, for a long time, I think
+
+377
+00:23:59.530 --> 00:24:02.890
+when people thought about representation, they had in mind
+
+378
+00:24:02.890 --> 00:24:06.430
+representation of success. That is the ways in which
+
+379
+00:24:06.430 --> 00:24:12.489
+models may accurately characterize their targets. And so in
+
+380
+00:24:12.489 --> 00:24:15.050
+philosophers' minds, I think for a long time the
+
+381
+00:24:15.050 --> 00:24:18.140
+question of what are the conditions for representational success
+
+382
+00:24:18.609 --> 00:24:23.010
+and what are the conditions for representation simpliciter. We
+
+383
+00:24:23.010 --> 00:24:26.400
+conflated. It's only in the last 20 or 30
+
+384
+00:24:26.400 --> 00:24:30.239
+years that we've, I think, very successfully disentangled these
+
+385
+00:24:30.239 --> 00:24:34.119
+two sets of conditions. So, nowadays, I think every
+
+386
+00:24:34.119 --> 00:24:37.849
+philosopher working on On the topic, I think Buddha
+
+387
+00:24:37.849 --> 00:24:43.150
+accept this distinction. Um, THERE are representations which are
+
+388
+00:24:43.150 --> 00:24:47.489
+not particularly successful or accurate. There are very inaccurate
+
+389
+00:24:47.489 --> 00:24:50.849
+representations of target systems, and throughout history we've seen
+
+390
+00:24:50.849 --> 00:24:53.979
+them. Um, PLAY a role in the history and
+
+391
+00:24:53.979 --> 00:24:59.810
+the development of science. Um, There are certain models
+
+392
+00:24:59.810 --> 00:25:02.770
+that we take to be accurate characterizations of their
+
+393
+00:25:02.770 --> 00:25:05.369
+systems and we end up discovering that they're not
+
+394
+00:25:05.369 --> 00:25:09.170
+so accurate. Um, 11 could, for instance, take the
+
+395
+00:25:09.170 --> 00:25:12.400
+succession of models of the solar system or the
+
+396
+00:25:12.400 --> 00:25:15.930
+planetary system throughout the history of the last 2000
+
+397
+00:25:15.930 --> 00:25:19.550
+years as a brilliant series of examples of models
+
+398
+00:25:20.130 --> 00:25:23.130
+that turn out not to be particularly accurate, um,
+
+399
+00:25:23.250 --> 00:25:26.849
+and for all kinds of different reasons contain inaccuracies
+
+400
+00:25:26.849 --> 00:25:31.050
+and make false statements about their target system. Starting
+
+401
+00:25:31.050 --> 00:25:35.160
+with, of course, the geocentric, uh, Aristotelian model that
+
+402
+00:25:35.160 --> 00:25:36.859
+put the Earth at the center of the universe,
+
+403
+00:25:36.969 --> 00:25:39.979
+something that we know nowadays to be false, um,
+
+404
+00:25:40.689 --> 00:25:43.729
+so one has to distinguish the conditions for a
+
+405
+00:25:43.729 --> 00:25:47.560
+representation, something to be a model. And the conditions
+
+406
+00:25:47.560 --> 00:25:50.050
+for it to be an accurate, truthful, or faithful
+
+407
+00:25:50.050 --> 00:25:54.319
+representation. They must be distinct because most models involve
+
+408
+00:25:54.319 --> 00:25:59.479
+misrepresentations of all kinds. Um, ON these grounds, a
+
+409
+00:25:59.479 --> 00:26:05.010
+division of labor between, um, epistemic and conceptual dimensions
+
+410
+00:26:05.010 --> 00:26:10.010
+of our analysis, um, representations of epistemic or cognitive
+
+411
+00:26:10.010 --> 00:26:13.630
+value when they, uh, provide at least partially accurate
+
+412
+00:26:13.930 --> 00:26:17.839
+descriptions of their target systems, um, but they're nonetheless
+
+413
+00:26:17.839 --> 00:26:21.420
+conceptually valid. Even if they're not accurate or even
+
+414
+00:26:21.420 --> 00:26:24.300
+if they're completely inaccurate in all kinds of different
+
+415
+00:26:24.300 --> 00:26:27.359
+respects, there are still representations of their target systems
+
+416
+00:26:27.859 --> 00:26:30.900
+and so therefore we need a different account of
+
+417
+00:26:30.900 --> 00:26:34.420
+representation uh than we need uh an account of
+
+418
+00:26:34.420 --> 00:26:38.849
+accurate representation. My distinction between means and constituents allows
+
+419
+00:26:38.849 --> 00:26:41.020
+me to do this very easily because the constituent
+
+420
+00:26:41.020 --> 00:26:44.099
+of representation takes as it were, charge of the
+
+421
+00:26:44.099 --> 00:26:48.930
+conceptual side. While the um uh study of the
+
+422
+00:26:48.930 --> 00:26:52.369
+different means of representation in practice takes care of
+
+423
+00:26:52.369 --> 00:26:54.489
+the different ways in which people can, uh, and
+
+424
+00:26:54.489 --> 00:26:57.449
+scientists can judge their models to be accurate or
+
+425
+00:26:57.449 --> 00:27:00.819
+faithful. Um, SO there, there certainly is nowadays a
+
+426
+00:27:00.819 --> 00:27:05.420
+division of labor and a clear distinction between accurate
+
+427
+00:27:05.420 --> 00:27:10.459
+representation and representation simpliciter, and every philosopher working on
+
+428
+00:27:10.459 --> 00:27:14.839
+the topic nowadays accepts. That an account of representation
+
+429
+00:27:14.839 --> 00:27:18.599
+must make room for misrepresentation in all its different
+
+430
+00:27:18.599 --> 00:27:20.420
+varieties. Yes,
+
+431
+00:27:21.000 --> 00:27:24.199
+and how does it then lead to a distinction
+
+432
+00:27:24.199 --> 00:27:29.719
+between successful representation and the more general category of
+
+433
+00:27:29.719 --> 00:27:30.510
+representation?
+
+434
+00:27:30.800 --> 00:27:32.920
+Yes, I mean that, that question speaks, I mean,
+
+435
+00:27:33.040 --> 00:27:36.000
+I, in a way I've already answered that question
+
+436
+00:27:36.000 --> 00:27:40.959
+because that question speaks exactly to the distinction between
+
+437
+00:27:40.959 --> 00:27:47.400
+representation simpliciter. Um, WHICH can be very inaccurate. Um,
+
+438
+00:27:47.780 --> 00:27:51.180
+IT can be maximally inaccurate. A representation could get
+
+439
+00:27:51.180 --> 00:27:54.910
+not a single fact right about its target and
+
+440
+00:27:54.910 --> 00:27:58.839
+it nonetheless is a representation of its target. If
+
+441
+00:27:58.839 --> 00:28:01.880
+it's intended use is to convey information about the
+
+442
+00:28:01.880 --> 00:28:05.199
+target, and as I mentioned before, the history of
+
+443
+00:28:05.199 --> 00:28:08.560
+science is full of examples of this sort. If
+
+444
+00:28:08.560 --> 00:28:11.510
+you take the original Ptolemaic models of the solar
+
+445
+00:28:11.510 --> 00:28:16.530
+system. There's barely any statement that you can deduce
+
+446
+00:28:16.530 --> 00:28:20.079
+from those models that we nowadays would think of
+
+447
+00:28:20.079 --> 00:28:25.160
+as a true statement. Um, Nonetheless, they are very
+
+448
+00:28:25.160 --> 00:28:29.800
+clearly representations of the solar system. That's their intended
+
+449
+00:28:29.800 --> 00:28:32.199
+use, that's how they were created and that's how
+
+450
+00:28:32.199 --> 00:28:35.439
+we must interpret them even nowadays when we know
+
+451
+00:28:35.439 --> 00:28:40.069
+them to be maximally false. So, um. So this
+
+452
+00:28:40.069 --> 00:28:42.619
+is really important to people working on the field
+
+453
+00:28:42.619 --> 00:28:45.709
+at the moment that we distinguish very carefully between
+
+454
+00:28:45.709 --> 00:28:49.349
+successful representation and the conditions that must obtained for
+
+455
+00:28:49.349 --> 00:28:53.869
+a representation to be successful from representation simpliciter, which
+
+456
+00:28:53.869 --> 00:28:58.510
+need not be successful. Um, uh, SO representation is
+
+457
+00:28:58.510 --> 00:29:01.790
+not, uh, to put it technically in philosopher's jargon.
+
+458
+00:29:02.660 --> 00:29:06.969
+Representation is not a success term. You can represent
+
+459
+00:29:06.969 --> 00:29:10.930
+something and do it very poorly, um, with very
+
+460
+00:29:10.930 --> 00:29:14.449
+little. Um, SUCCESS just as you can have all
+
+461
+00:29:14.449 --> 00:29:17.569
+kinds of beliefs and the beliefs could be false,
+
+462
+00:29:18.010 --> 00:29:21.489
+um, and people make this distinction between knowledge being
+
+463
+00:29:21.489 --> 00:29:25.010
+a success term, belief not being one, and you
+
+464
+00:29:25.010 --> 00:29:29.930
+could say that nowadays I'd say. Everyone working on
+
+465
+00:29:29.930 --> 00:29:33.209
+this, uh, topic accepts that representation is a bit
+
+466
+00:29:33.209 --> 00:29:36.209
+like belief and unlike knowledge, it's not a success
+
+467
+00:29:36.209 --> 00:29:36.449
+term.
+
+468
+00:29:38.280 --> 00:29:44.479
+You, you criticize reductive naturalist theories of scientific representation.
+
+469
+00:29:44.599 --> 00:29:47.079
+What are these kinds of theories and what do
+
+470
+00:29:47.079 --> 00:29:49.060
+you think are their flaws?
+
+471
+00:29:51.170 --> 00:29:53.560
+So these are the theories that attempt to reduce
+
+472
+00:29:53.560 --> 00:29:57.589
+the concept of representation by providing some substantive um
+
+473
+00:29:58.430 --> 00:30:02.420
+reactive basis and a definition of representation in terms
+
+474
+00:30:02.420 --> 00:30:07.540
+of that basis. And the two main ideas that
+
+475
+00:30:07.540 --> 00:30:11.239
+have been discussed in this area throughout the years
+
+476
+00:30:11.699 --> 00:30:17.920
+are similarity and different variants of similarity. Um, AND,
+
+477
+00:30:17.969 --> 00:30:23.109
+uh, isomorphism or morphism and different kinds of morphism,
+
+478
+00:30:23.569 --> 00:30:27.949
+uh, that may operate between targets and sources, um.
+
+479
+00:30:29.869 --> 00:30:36.489
+Now, it's um. A complex issue, what the relations
+
+480
+00:30:36.489 --> 00:30:38.810
+between those two are. There are people who think
+
+481
+00:30:38.810 --> 00:30:43.050
+that. Um, ISOMORPHISM is nothing but a kind of
+
+482
+00:30:43.050 --> 00:30:46.410
+similarity, and there are people who think that all
+
+483
+00:30:46.410 --> 00:30:49.890
+similarities must be understood to be underpinned by some
+
+484
+00:30:49.890 --> 00:30:55.380
+sort of a structural. Uh, MORPHISM, um, but the
+
+485
+00:30:55.380 --> 00:30:58.209
+emphasis has been put in placed differently on the
+
+486
+00:30:58.209 --> 00:31:02.550
+different concepts by defenders. Of the, of the role
+
+487
+00:31:02.550 --> 00:31:05.540
+of these concepts in the notion of representation, so
+
+488
+00:31:05.540 --> 00:31:08.859
+I think it's legitimate. To talk about two broad,
+
+489
+00:31:09.140 --> 00:31:13.380
+broader families, two broad families of um substantive or
+
+490
+00:31:13.380 --> 00:31:17.540
+reductive naturalist accounts, the similarity account and the isomorphism
+
+491
+00:31:17.540 --> 00:31:20.459
+account. Now, in the book, I criticize these accounts
+
+492
+00:31:20.459 --> 00:31:23.880
+and I put forward a number of arguments. Um,
+
+493
+00:31:23.910 --> 00:31:27.069
+AGAINST them. These are old arguments, um, which I've
+
+494
+00:31:27.069 --> 00:31:31.229
+been rehearsing, uh, not just me, but other philosophers
+
+495
+00:31:31.229 --> 00:31:34.790
+of science have also been elaborating for some time
+
+496
+00:31:34.790 --> 00:31:38.619
+now, for about 20 years. Um, AND what I
+
+497
+00:31:38.619 --> 00:31:40.699
+do in the book is to try to, um,
+
+498
+00:31:41.609 --> 00:31:44.969
+Take balance of the debate on, on these arguments
+
+499
+00:31:44.969 --> 00:31:48.010
+over the last 20 years. I think the arguments
+
+500
+00:31:48.010 --> 00:31:53.050
+have been very successful at dismantling um philosopher's confidence
+
+501
+00:31:53.050 --> 00:31:58.469
+in this productive naturalist accounts. Um, uh, I think
+
+502
+00:31:58.469 --> 00:32:01.130
+it would be very difficult nowadays to argue for
+
+503
+00:32:01.130 --> 00:32:05.040
+any of these reductive naturalist accounts. Um, THERE are
+
+504
+00:32:05.040 --> 00:32:07.640
+5 different types of arguments that I study in
+
+505
+00:32:07.640 --> 00:32:12.000
+the book. Um, MAYBE the most powerful ones are
+
+506
+00:32:12.000 --> 00:32:16.719
+the logical argument and the misrepresentation argument. The misrepresentation
+
+507
+00:32:16.719 --> 00:32:19.079
+argument is connected to what we've just been talking
+
+508
+00:32:19.079 --> 00:32:23.000
+about, the fact that many representations. If not all,
+
+509
+00:32:23.579 --> 00:32:27.260
+um, misrepresent in very definite ways their targets and
+
+510
+00:32:27.260 --> 00:32:31.400
+this is hard for similarity and isomorphism accounts to,
+
+511
+00:32:31.979 --> 00:32:35.540
+um, to explain. Um, THEY have different ways to
+
+512
+00:32:35.540 --> 00:32:39.569
+try to explain them, these failures of representation of
+
+513
+00:32:39.569 --> 00:32:41.859
+rep full or accurate representation, but none of them
+
+514
+00:32:41.859 --> 00:32:45.760
+are fully convincing, I think. Um, THE other argument
+
+515
+00:32:45.760 --> 00:32:49.750
+is a logical argument that simply points out The
+
+516
+00:32:49.750 --> 00:32:56.189
+representation in science and elsewhere. Is a directed relationship
+
+517
+00:32:56.329 --> 00:33:01.589
+from sources targets. It's not symmetric. It's not reflexive.
+
+518
+00:33:02.020 --> 00:33:05.689
+Nothing that represents something represents itself. This is very
+
+519
+00:33:05.689 --> 00:33:09.609
+rare, um, and it's not transitive. You can have
+
+520
+00:33:09.609 --> 00:33:12.479
+something represents something else which in turn represents something
+
+521
+00:33:12.479 --> 00:33:15.050
+else and that doesn't turn the first into a
+
+522
+00:33:15.050 --> 00:33:19.089
+representation of the third. Um, AND this is easy
+
+523
+00:33:19.089 --> 00:33:23.290
+to see operating in the phenomenology of representation in
+
+524
+00:33:23.290 --> 00:33:26.930
+science and in art, but very difficult for similarity
+
+525
+00:33:26.930 --> 00:33:32.420
+and isomorphism accounts. To um To account and to
+
+526
+00:33:32.420 --> 00:33:37.060
+fit. Um, SO it becomes a really um very
+
+527
+00:33:37.060 --> 00:33:42.060
+important um argument against uh this uh reductive naturalist
+
+528
+00:33:42.060 --> 00:33:43.640
+or substantivist accounts.
+
+529
+00:33:44.989 --> 00:33:50.199
+And what would be then alternative non-reductive views?
+
+530
+00:33:51.069 --> 00:33:53.560
+Yes, these are the deflationary accounts that I was
+
+531
+00:33:53.560 --> 00:33:56.920
+talking about at the beginning. And these are accounts
+
+532
+00:33:56.920 --> 00:34:00.880
+from which one doesn't. Invest oneself philosophically in the
+
+533
+00:34:00.880 --> 00:34:06.250
+reduction of the concept of representation. Um, And that's
+
+534
+00:34:06.250 --> 00:34:09.020
+partly because one doesn't find it so problematic to
+
+535
+00:34:09.020 --> 00:34:12.110
+begin with. And the reason why one doesn't find
+
+536
+00:34:12.110 --> 00:34:14.668
+it so problematic to begin with is connected to
+
+537
+00:34:14.668 --> 00:34:17.708
+the pragmatism and the phenomenology of the practice that
+
+538
+00:34:17.708 --> 00:34:19.590
+I was discussing at the beginning of the interview.
+
+539
+00:34:20.199 --> 00:34:22.320
+If you are convinced that the practice is a
+
+540
+00:34:22.320 --> 00:34:26.239
+given and it's accessible and it's reasonably well understood.
+
+541
+00:34:27.467 --> 00:34:30.829
+Then from a pragmatist point of view, um, you
+
+542
+00:34:30.829 --> 00:34:33.349
+don't really have a big conundrum to answer about
+
+543
+00:34:33.349 --> 00:34:36.148
+the concept of representation. The concept is operative in
+
+544
+00:34:36.148 --> 00:34:40.618
+practice. And that should be enough um for us
+
+545
+00:34:40.618 --> 00:34:42.549
+philosophers. It gives us a lot of work to
+
+546
+00:34:42.549 --> 00:34:45.509
+do because we have to now study this practice,
+
+547
+00:34:46.029 --> 00:34:48.069
+um, but the work that we have to do
+
+548
+00:34:48.069 --> 00:34:50.518
+is not of a conceptual kind and it doesn't
+
+549
+00:34:50.518 --> 00:34:55.447
+begin with big puzzles about this obscure notion representation,
+
+550
+00:34:55.748 --> 00:35:00.699
+um. So, on, on this deflationary accounts, which I
+
+551
+00:35:00.699 --> 00:35:02.530
+think all of them in some way or another
+
+552
+00:35:02.530 --> 00:35:05.770
+tend towards pragmatism because they do begin with this
+
+553
+00:35:05.770 --> 00:35:07.780
+description of the practice and they begin with the
+
+554
+00:35:07.780 --> 00:35:10.260
+assumption that the representation is not a very difficult
+
+555
+00:35:10.260 --> 00:35:13.989
+concept that requires an analysis, but a simple concept
+
+556
+00:35:13.989 --> 00:35:18.419
+that appears in our practice very prominently, uh, but
+
+557
+00:35:18.419 --> 00:35:20.540
+just like, um, I don't know, the concept of
+
+558
+00:35:20.540 --> 00:35:22.979
+a table or a chair appear in our practice
+
+559
+00:35:22.979 --> 00:35:26.620
+and they don't demand a very deep philosophical analysis.
+
+560
+00:35:27.129 --> 00:35:30.780
+Um, THE practice of using those objects may demand
+
+561
+00:35:31.169 --> 00:35:34.929
+the philosophical scrutiny, uh, but the concept itself doesn't.
+
+562
+00:35:35.100 --> 00:35:37.780
+So, so a deflationist thinks that representation is just
+
+563
+00:35:37.780 --> 00:35:41.340
+like one of these ordinary concepts, and there's nothing
+
+564
+00:35:41.340 --> 00:35:44.800
+mysterious about it. There's nothing that requires us to
+
+565
+00:35:44.989 --> 00:35:48.179
+come up with a deep philosophical theory that analyzes
+
+566
+00:35:48.179 --> 00:35:51.100
+the concept, but we have philosophical work to do
+
+567
+00:35:51.100 --> 00:35:53.409
+in understanding the way in which we use it,
+
+568
+00:35:53.659 --> 00:35:58.469
+this concept in practice. And any deflationary account begins
+
+569
+00:35:58.469 --> 00:36:02.409
+with this, I think. Uh, MINE is 1, I
+
+570
+00:36:02.409 --> 00:36:05.830
+offer it as a possible account of representation from
+
+571
+00:36:05.830 --> 00:36:10.520
+this pragmatist perspective. And this is the idea that
+
+572
+00:36:10.520 --> 00:36:12.760
+we focus on the way in which models and
+
+573
+00:36:12.760 --> 00:36:17.199
+representations are used as tools for surrogative inference, a
+
+574
+00:36:17.199 --> 00:36:19.270
+kind of inference that takes us from sources to
+
+575
+00:36:19.270 --> 00:36:22.300
+targets, which is part and parcel of the practice
+
+576
+00:36:22.300 --> 00:36:25.280
+as given, and that, that should be our starting
+
+577
+00:36:25.280 --> 00:36:28.600
+point. And then we should scrutinize the practice in
+
+578
+00:36:28.600 --> 00:36:31.469
+order to shed philosophical light on it. But we
+
+579
+00:36:31.469 --> 00:36:34.350
+shouldn't try to analyze the concept any, in any
+
+580
+00:36:34.350 --> 00:36:38.270
+other more significant way. There are other approaches to
+
+581
+00:36:38.270 --> 00:36:41.270
+representation that are deflationary, um, from this point of
+
+582
+00:36:41.270 --> 00:36:44.669
+view, I think are acceptable and rather legitimate and
+
+583
+00:36:44.669 --> 00:36:47.870
+can overcome the objections. Um, MINE is not the
+
+584
+00:36:47.870 --> 00:36:52.919
+only one. SO there are some approaches that appeal
+
+585
+00:36:52.919 --> 00:36:58.600
+to other notions such as demonstration or denotation or,
+
+586
+00:36:58.610 --> 00:37:03.800
+um. Um, INTERPRETATION, and if you understand those notions
+
+587
+00:37:03.800 --> 00:37:05.979
+to be as part of the practice, which I
+
+588
+00:37:05.979 --> 00:37:10.739
+think one can do, those, um, accounts also in,
+
+589
+00:37:10.899 --> 00:37:14.340
+in my view are legitimate. Um, SO I'm not
+
+590
+00:37:14.340 --> 00:37:18.340
+saying mine is the only one, but I do
+
+591
+00:37:18.340 --> 00:37:20.780
+think that these accounts that begin with the study
+
+592
+00:37:20.780 --> 00:37:25.310
+of the practice are significantly better. As it, um,
+
+593
+00:37:25.830 --> 00:37:29.850
+as it turns out in trying to understand philosophically,
+
+594
+00:37:30.389 --> 00:37:33.629
+um, the way modeling works in science and how
+
+595
+00:37:33.629 --> 00:37:38.389
+representation generalizes to other areas of inquiry, they're significantly
+
+596
+00:37:38.389 --> 00:37:42.709
+better as starting points than any substantive reductive naturalist
+
+597
+00:37:42.709 --> 00:37:43.110
+account.
+
+598
+00:37:44.300 --> 00:37:48.939
+So tell us then about your inferential conception of
+
+599
+00:37:48.939 --> 00:37:50.699
+scientific representation.
+
+600
+00:37:51.719 --> 00:37:53.479
+Yeah, so my, my conception is one of this
+
+601
+00:37:53.479 --> 00:37:59.649
+inflationary. Accounts that I think are survived the criticisms
+
+602
+00:38:00.149 --> 00:38:02.189
+and in, in the case of, of my approach,
+
+603
+00:38:02.270 --> 00:38:05.389
+what I do is that I put one feature
+
+604
+00:38:05.389 --> 00:38:10.270
+of uh representation um and undeniably one feature of
+
+605
+00:38:10.270 --> 00:38:13.929
+scientific modeling that is ever present in the practice
+
+606
+00:38:14.310 --> 00:38:17.510
+of modeling, which is uh a kind of inference
+
+607
+00:38:17.510 --> 00:38:20.939
+that we call surrogate inference. And this is the
+
+608
+00:38:20.939 --> 00:38:24.939
+sort of inference, logical inference if you want, um,
+
+609
+00:38:24.949 --> 00:38:29.669
+that takes you from facts about the source and
+
+610
+00:38:29.669 --> 00:38:31.709
+its description, the source of the model may be
+
+611
+00:38:31.709 --> 00:38:35.729
+an equation or some kind of fictional scenario or
+
+612
+00:38:35.729 --> 00:38:41.310
+um hypothesis. You study how that equation or scenario
+
+613
+00:38:41.310 --> 00:38:44.550
+hypothesis is structured and what sort of claims it's
+
+614
+00:38:44.550 --> 00:38:48.260
+making. And then you draw inferences from those facts
+
+615
+00:38:48.629 --> 00:38:52.320
+to claims that you make about the target system,
+
+616
+00:38:52.399 --> 00:38:55.439
+and the target system could be any system you're
+
+617
+00:38:55.439 --> 00:38:58.030
+interested in, maybe the evolution of a population in
+
+618
+00:38:58.030 --> 00:39:02.000
+biology or as we were saying before, the movement
+
+619
+00:39:02.000 --> 00:39:06.050
+of the planets in the solar system. So, a
+
+620
+00:39:06.050 --> 00:39:09.010
+representation primarily what it does for you, a model
+
+621
+00:39:09.010 --> 00:39:10.850
+in science what it primarily does for you is
+
+622
+00:39:10.850 --> 00:39:14.989
+to facilitate those sorts of inferences across from the
+
+623
+00:39:15.489 --> 00:39:18.590
+source system to the target system. That's called technically
+
+624
+00:39:18.590 --> 00:39:23.290
+in the literature surrogative inference. So, my, my approach
+
+625
+00:39:23.290 --> 00:39:27.070
+to representation puts that feature of practice which As
+
+626
+00:39:27.070 --> 00:39:30.919
+far as I know, it's universal. I having encountered,
+
+627
+00:39:30.929 --> 00:39:33.729
+and I've been studying this area for more than
+
+628
+00:39:33.729 --> 00:39:36.830
+20 years, and I haven't encountered yet an instance
+
+629
+00:39:36.830 --> 00:39:41.389
+of a model that doesn't allow for surrogative reasoning
+
+630
+00:39:41.389 --> 00:39:44.270
+and I think, well, I think I've convinced my
+
+631
+00:39:44.270 --> 00:39:47.189
+peers that this must be a central feature of
+
+632
+00:39:47.189 --> 00:39:50.590
+any modeling activity and in my, in, in the
+
+633
+00:39:50.590 --> 00:39:53.389
+case of my conception, this is the only indispensable
+
+634
+00:39:53.389 --> 00:39:57.959
+feature. Of the practice um of modeling and therefore,
+
+635
+00:39:58.110 --> 00:40:01.100
+um, on my account it becomes the only constituent
+
+636
+00:40:01.469 --> 00:40:04.110
+of the notion of representation because it's the only
+
+637
+00:40:04.110 --> 00:40:07.850
+universally instantiated feature in the practice. And as I
+
+638
+00:40:07.850 --> 00:40:11.020
+mentioned before, I'm not interested in a substantive analysis
+
+639
+00:40:11.020 --> 00:40:13.969
+of the concept. I think as philosophers, we are
+
+640
+00:40:13.969 --> 00:40:17.909
+better off analyzing the practice of representing. Um, AND
+
+641
+00:40:17.909 --> 00:40:19.510
+this is the only feature that I can see
+
+642
+00:40:19.510 --> 00:40:23.070
+in the practice that plays a universal, uh, role.
+
+643
+00:40:23.459 --> 00:40:25.429
+So, so that's why I call it the inferential
+
+644
+00:40:25.429 --> 00:40:31.949
+conception. Because I claim that surrogative inferences a fundamental
+
+645
+00:40:31.949 --> 00:40:36.110
+feature of um of the scientific practice of modeling.
+
+646
+00:40:36.189 --> 00:40:38.800
+This has to be supplemented with another condition which
+
+647
+00:40:38.989 --> 00:40:43.610
+supplies the directionality of representations because you can have
+
+648
+00:40:43.610 --> 00:40:47.929
+surrogate um inferences that are valid to very many
+
+649
+00:40:47.929 --> 00:40:51.149
+indiscriminate number of target systems, but we typically only
+
+650
+00:40:51.149 --> 00:40:54.120
+select one. And so it has to be supplemented
+
+651
+00:40:54.120 --> 00:40:57.010
+with something I call force, which is the way
+
+652
+00:40:57.010 --> 00:41:00.000
+in which uh scientists would select in the practice
+
+653
+00:41:00.000 --> 00:41:03.469
+a particular given target for the source. Um, ONCE
+
+654
+00:41:03.469 --> 00:41:06.350
+you have both of these features instantiated in a,
+
+655
+00:41:06.870 --> 00:41:09.110
+in a practice, in a scientific practice, you are
+
+656
+00:41:09.110 --> 00:41:14.229
+in a sense studying, uh, modeling practice, um, because
+
+657
+00:41:14.239 --> 00:41:17.090
+those are the only two necessary conditions that would,
+
+658
+00:41:17.790 --> 00:41:21.729
+um, turn, uh, a piece of or an activity,
+
+659
+00:41:22.189 --> 00:41:26.550
+um, in science into a modeling activity. So, so
+
+660
+00:41:26.550 --> 00:41:28.790
+this is in essence the inference of conception. It
+
+661
+00:41:28.790 --> 00:41:31.969
+is the kind of deflationary approach. To the notion
+
+662
+00:41:31.969 --> 00:41:36.469
+of representation that locates um as a universal component
+
+663
+00:41:36.469 --> 00:41:40.459
+of the practice of model building and representing this
+
+664
+00:41:40.610 --> 00:41:45.209
+um activity of inference drawing um of of a
+
+665
+00:41:45.209 --> 00:41:51.409
+surrogate surative kind between sources and intended targets.
+
+666
+00:41:52.439 --> 00:41:56.570
+Mhm. I have one last question then, one last
+
+667
+00:41:56.570 --> 00:41:59.989
+topic I'd like to explore here. How does an
+
+668
+00:41:59.989 --> 00:42:06.929
+exploration of scientific representation connect to debates on artistic
+
+669
+00:42:06.929 --> 00:42:07.770
+representation?
+
+670
+00:42:10.409 --> 00:42:13.689
+Yeah, yes, I mean, I, I think there's definitely
+
+671
+00:42:13.689 --> 00:42:18.219
+a connection. Um, AND moreover, I defend him in
+
+672
+00:42:18.219 --> 00:42:20.510
+my book that this is a connection that philosophers
+
+673
+00:42:20.510 --> 00:42:25.239
+of science. SHOULD be concerned with and should pay
+
+674
+00:42:25.239 --> 00:42:29.219
+attention, handsome attention to. And I mount an argument
+
+675
+00:42:29.219 --> 00:42:32.139
+for this, and it is one strong conviction of
+
+676
+00:42:32.139 --> 00:42:36.949
+mine. And in fact, I plan to do more
+
+677
+00:42:36.949 --> 00:42:40.580
+work on this in the future. Um, THAT philosophers
+
+678
+00:42:40.580 --> 00:42:43.540
+of science have a lot to learn from philosophers
+
+679
+00:42:43.540 --> 00:42:46.739
+of art. And now, As you can imagine, this
+
+680
+00:42:46.739 --> 00:42:53.120
+is slightly contentious because Philosophers of science would like
+
+681
+00:42:53.120 --> 00:42:58.989
+to think that they are more important than than
+
+682
+00:42:58.989 --> 00:43:02.389
+other philosophers and to be told that they have
+
+683
+00:43:02.389 --> 00:43:04.510
+to pay attention to what philosophers of art have
+
+684
+00:43:04.510 --> 00:43:06.350
+been doing for 50 years is to be told
+
+685
+00:43:06.350 --> 00:43:08.709
+that they maybe haven't been paying attention to the
+
+686
+00:43:08.709 --> 00:43:12.510
+right topics, but I think this is actually true,
+
+687
+00:43:12.520 --> 00:43:15.989
+and I, I, I, I. I think this goes
+
+688
+00:43:15.989 --> 00:43:18.189
+back to something that we discussed at the beginning
+
+689
+00:43:18.189 --> 00:43:23.239
+of the interview, which is that Um for different
+
+690
+00:43:23.239 --> 00:43:27.000
+contingent historical reasons, I think philosophers of science were
+
+691
+00:43:27.000 --> 00:43:29.389
+not very preoccupied with the notion of representation for
+
+692
+00:43:29.389 --> 00:43:32.000
+a long time. Um AND in particular in the
+
+693
+00:43:32.000 --> 00:43:36.250
+70s and 80s, there was a scant. Philosophical attention
+
+694
+00:43:36.250 --> 00:43:38.889
+paid in philosophy of science circles to this notion.
+
+695
+00:43:39.760 --> 00:43:42.719
+While simultaneously there was an explosion of work in
+
+696
+00:43:42.719 --> 00:43:46.429
+the philosophy of art. Which was then a nascent
+
+697
+00:43:46.429 --> 00:43:50.169
+and growing field of philosophy. Uh, ALL of it
+
+698
+00:43:50.169 --> 00:43:53.409
+was centered around the notion of representation. Uh, SO,
+
+699
+00:43:53.570 --> 00:43:55.550
+so I think in some ways philosophers of art
+
+700
+00:43:55.550 --> 00:43:58.229
+have been marching ahead of us, philosophers of science
+
+701
+00:43:58.649 --> 00:44:01.780
+in the analysis of representation, and then not surprisingly,
+
+702
+00:44:01.810 --> 00:44:04.290
+there are quite a number of lessons that we
+
+703
+00:44:04.290 --> 00:44:07.080
+can pick up from work that was done in
+
+704
+00:44:07.080 --> 00:44:10.610
+the philosophy of art, um, decades ago and has
+
+705
+00:44:10.610 --> 00:44:13.010
+been done for some time, and I tried to
+
+706
+00:44:13.010 --> 00:44:16.590
+do that in, in, in the chapter number 8
+
+707
+00:44:16.590 --> 00:44:21.649
+in, in my book that Last, the one but
+
+708
+00:44:21.649 --> 00:44:25.750
+last uh chapter in the book but I um
+
+709
+00:44:26.810 --> 00:44:30.719
+I go into an in-depth analysis of what philosophers
+
+710
+00:44:30.719 --> 00:44:34.050
+of art have been saying about representation over the
+
+711
+00:44:34.050 --> 00:44:36.310
+years, and I try to come up with some
+
+712
+00:44:36.370 --> 00:44:40.639
+phenomenological lessons for how to understand the practice, um,
+
+713
+00:44:40.649 --> 00:44:42.570
+from the point of view of the notions of
+
+714
+00:44:42.570 --> 00:44:46.699
+representation that philosophers of art. I have discussed and,
+
+715
+00:44:46.989 --> 00:44:50.280
+and I find some very convincing leads there, um,
+
+716
+00:44:50.350 --> 00:44:53.189
+on ways to inform my own account of scientific
+
+717
+00:44:53.189 --> 00:44:57.090
+representation. In the work of some prominent and leading
+
+718
+00:44:57.090 --> 00:44:59.979
+philosophers of art over the last 50 years or
+
+719
+00:44:59.979 --> 00:45:04.320
+so. And this comes to show that representation is
+
+720
+00:45:04.320 --> 00:45:08.580
+a Very wide concept in our cognitive lives. It
+
+721
+00:45:08.580 --> 00:45:11.860
+doesn't just play a role in science. It plays
+
+722
+00:45:11.860 --> 00:45:14.379
+a role in many other areas of our cognitive
+
+723
+00:45:14.379 --> 00:45:17.899
+life. It plays a role, prominent role I think
+
+724
+00:45:17.899 --> 00:45:23.600
+in other aspects. And areas of our culture. Science
+
+725
+00:45:23.600 --> 00:45:25.469
+is a part of culture, but it's a small
+
+726
+00:45:25.469 --> 00:45:30.030
+part of culture. And um there's literature, the, the
+
+727
+00:45:30.030 --> 00:45:34.000
+arts which play a very important role in our
+
+728
+00:45:34.000 --> 00:45:37.239
+culture and in our cognitive lives, and I think
+
+729
+00:45:37.239 --> 00:45:40.100
+the concept of representation is just as central there
+
+730
+00:45:40.639 --> 00:45:43.040
+as it is in science and my account has
+
+731
+00:45:43.040 --> 00:45:47.929
+a virtue. That are placed generally across. The field,
+
+732
+00:45:47.989 --> 00:45:51.110
+but in order to apply it to artistic representation,
+
+733
+00:45:51.189 --> 00:45:53.989
+I have to fill in the notion of surrogative
+
+734
+00:45:53.989 --> 00:45:58.830
+inference and representational force, um, in different ways to
+
+735
+00:45:58.830 --> 00:46:03.189
+account for this phenomenological descriptions that philosophers of art
+
+736
+00:46:03.189 --> 00:46:05.860
+have been giving us for 40 and 50 years,
+
+737
+00:46:05.870 --> 00:46:10.149
+which I find so insightful and interesting also for
+
+738
+00:46:10.149 --> 00:46:13.389
+a philosopher of, of science. So, uh yes, I
+
+739
+00:46:13.389 --> 00:46:16.000
+think there is a connection. Uh, I've done a
+
+740
+00:46:16.000 --> 00:46:20.070
+lot over the last 20 years to argue, um,
+
+741
+00:46:20.080 --> 00:46:23.459
+that philosophers of science should pay attention to this
+
+742
+00:46:23.459 --> 00:46:26.439
+connection, and that it makes us better philosophers of
+
+743
+00:46:26.439 --> 00:46:29.270
+science when we do. Uh, AT least when it
+
+744
+00:46:29.270 --> 00:46:32.500
+comes to understanding the concept of representation and how
+
+745
+00:46:32.500 --> 00:46:35.669
+modeling in science works. It gives us tools and
+
+746
+00:46:35.669 --> 00:46:38.510
+resources as philosophers of science that we can then
+
+747
+00:46:38.510 --> 00:46:41.500
+put to work, um, and I, as I mentioned,
+
+748
+00:46:41.550 --> 00:46:44.469
+I take some of those tools and resources from
+
+749
+00:46:44.469 --> 00:46:47.989
+the phenomenological tradition in the philosophy of art and
+
+750
+00:46:47.989 --> 00:46:50.949
+apply them to the study of the practice of
+
+751
+00:46:50.949 --> 00:46:53.110
+modeling in that chapter, and I, I think that's
+
+752
+00:46:53.110 --> 00:46:55.110
+one of the chapters that I feel most proud
+
+753
+00:46:55.110 --> 00:46:58.189
+about because I think what I do there is
+
+754
+00:46:58.189 --> 00:47:02.699
+definitely very original, and I think it's Uh, breaking
+
+755
+00:47:02.699 --> 00:47:04.540
+new ground, and I think that new ground really
+
+756
+00:47:04.540 --> 00:47:07.979
+deserves to be explored, um, and I, I, I
+
+757
+00:47:07.979 --> 00:47:10.139
+intend to do it in the future. I'm not
+
+758
+00:47:10.139 --> 00:47:11.340
+the only one. I mean I it has to
+
+759
+00:47:11.340 --> 00:47:14.540
+be said that there are other philosophers of science
+
+760
+00:47:14.540 --> 00:47:18.129
+who have been making similar claims. Last 20 years
+
+761
+00:47:18.129 --> 00:47:21.129
+and where we may have been regarded as a
+
+762
+00:47:21.129 --> 00:47:24.889
+minority or maybe even a, a bunch of eccentrics
+
+763
+00:47:25.219 --> 00:47:28.310
+uh 20 years ago. I, I think it's now
+
+764
+00:47:28.570 --> 00:47:31.889
+widely accepted that it pays to, to look at
+
+765
+00:47:31.889 --> 00:47:35.129
+the concept of representation across different fields and that
+
+766
+00:47:35.129 --> 00:47:39.010
+the study of how uh modeling may bear analogies
+
+767
+00:47:39.010 --> 00:47:42.989
+with what goes on in artistic representation. Uh, CAN
+
+768
+00:47:42.989 --> 00:47:45.709
+be very fruitful for debates in the philosophy of
+
+769
+00:47:45.709 --> 00:47:48.389
+science. So, so I, I think this is an
+
+770
+00:47:48.389 --> 00:47:52.030
+argument that's still being made, but it's already carrying
+
+771
+00:47:52.030 --> 00:47:55.189
+some weight and has moved people towards considering at
+
+772
+00:47:55.189 --> 00:47:59.479
+least a legitimate area of study and And I,
+
+773
+00:47:59.530 --> 00:48:02.979
+uh, well, I take some pride in having, uh,
+
+774
+00:48:03.449 --> 00:48:06.090
+worked hard to make this change possible and having
+
+775
+00:48:06.090 --> 00:48:09.649
+been part of this, uh. Reconsideration of the philosophy
+
+776
+00:48:09.649 --> 00:48:12.129
+of art within the philosophy of science. I think
+
+777
+00:48:12.129 --> 00:48:15.189
+it's still a very promising area of research.
+
+778
+00:48:16.840 --> 00:48:20.899
+Great. So the book is again Inference and Representation,
+
+779
+00:48:20.909 --> 00:48:23.899
+A Study in Modeling Science. I, of course, will
+
+780
+00:48:23.899 --> 00:48:26.270
+be leaving a link to it in the description
+
+781
+00:48:26.270 --> 00:48:29.949
+of the interview. And Doctor Suarez, just before we
+
+782
+00:48:29.949 --> 00:48:32.469
+go, apart from the book, would you like to
+
+783
+00:48:32.469 --> 00:48:35.429
+tell people where they can find your work on
+
+784
+00:48:35.429 --> 00:48:36.110
+the internet?
+
+785
+00:48:37.629 --> 00:48:41.469
+Yes. So, um, I have a personal web page
+
+786
+00:48:41.469 --> 00:48:45.979
+which is probably the, uh, most complete source of
+
+787
+00:48:45.979 --> 00:48:48.479
+at least my most up to-date ideas and work.
+
+788
+00:48:48.979 --> 00:48:52.620
+Um, AND I'm also listed in different kinds of
+
+789
+00:48:52.620 --> 00:48:56.189
+repositories. There's an institutional page for me at Complutense.
+
+790
+00:48:56.939 --> 00:48:59.459
+Um, FOR a very long time now, I've been
+
+791
+00:48:59.459 --> 00:49:04.449
+putting my work in, in open access repositories. Um,
+
+792
+00:49:05.000 --> 00:49:07.239
+And nowadays I try to get my work to
+
+793
+00:49:07.239 --> 00:49:10.919
+be published open access. Unfortunately, the book for Chicago
+
+794
+00:49:10.919 --> 00:49:14.919
+is not open access, um, but, uh, different bits
+
+795
+00:49:14.919 --> 00:49:17.399
+of it are accessible and of course I'd be
+
+796
+00:49:17.399 --> 00:49:22.479
+quite happy, um, to respond to any request personally
+
+797
+00:49:22.479 --> 00:49:25.350
+and send, uh, a PDF copy of my book
+
+798
+00:49:25.350 --> 00:49:28.199
+or parts of my book as requested. If people
+
+799
+00:49:28.199 --> 00:49:30.100
+do just send me an email.
+
+800
+00:49:30.919 --> 00:49:33.429
+Thank you. So thank you so much for taking
+
+801
+00:49:33.429 --> 00:49:35.270
+the time to come on the show. It's been
+
+802
+00:49:35.270 --> 00:49:37.129
+a real pleasure to talk with you.
+
+803
+00:49:37.590 --> 00:49:41.250
+Yes, well, thank you, Ricardo. I'm very pleased to
+
+804
+00:49:41.360 --> 00:49:45.229
+finally have made it, um, into the dissenter. I,
+
+805
+00:49:45.350 --> 00:49:47.070
+by the way, I want to congratulate you on
+
+806
+00:49:47.070 --> 00:49:51.350
+the name, um, the dissenter. I, I, I feel
+
+807
+00:49:51.350 --> 00:49:53.830
+there is a lot of philosophical value in dissent.
+
+808
+00:49:54.360 --> 00:49:57.929
+And I've always tried to practice it. um, SO
+
+809
+00:49:57.929 --> 00:50:01.330
+I was uh very taken by the name of
+
+810
+00:50:01.330 --> 00:50:03.889
+your podcast and I'm glad that we finally made
+
+811
+00:50:03.889 --> 00:50:05.879
+it. It took us some time to arrange this,
+
+812
+00:50:06.189 --> 00:50:08.050
+but thank you for having me. Thank you very
+
+813
+00:50:08.050 --> 00:50:08.429
+much.
+
+814
+00:50:09.510 --> 00:50:12.030
+Hi guys, thank you for watching this interview until
+
+815
+00:50:12.030 --> 00:50:14.149
+the end. If you liked it, please share it,
+
+816
+00:50:14.350 --> 00:50:17.120
+leave a like and hit the subscription button. The
+
+817
+00:50:17.120 --> 00:50:19.379
+show is brought to you by Enlights Learning and
+
+818
+00:50:19.379 --> 00:50:23.409
+Development done differently. Check their website at enlights.com and
+
+819
+00:50:23.409 --> 00:50:27.139
+also please consider supporting the show on Patreon or
+
+820
+00:50:27.139 --> 00:50:29.620
+PayPal. I would also like to give a huge
+
+821
+00:50:29.620 --> 00:50:32.719
+thank you to my main patrons and PayPal supporters,
+
+822
+00:50:33.139 --> 00:50:36.979
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+823
+00:50:37.020 --> 00:50:40.290
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis,
+
+824
+00:50:40.439 --> 00:50:44.010
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+825
+00:50:44.010 --> 00:50:48.040
+Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+826
+00:50:48.520 --> 00:50:52.310
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoro, and
+
+827
+00:50:52.310 --> 00:50:56.090
+Hal Herzognun, Mahel Jonathan Labrarinth, John Yardston, and Samuel
+
+828
+00:50:56.090 --> 00:51:00.010
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+829
+00:51:00.169 --> 00:51:03.850
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+830
+00:51:03.850 --> 00:51:08.239
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+831
+00:51:08.239 --> 00:51:12.189
+Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov, Zal
+
+832
+00:51:12.189 --> 00:51:16.199
+Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall,
+
+833
+00:51:16.280 --> 00:51:20.600
+Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P Scortez
+
+834
+00:51:20.600 --> 00:51:24.280
+or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith,
+
+835
+00:51:24.360 --> 00:51:28.389
+and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+836
+00:51:28.750 --> 00:51:33.489
+Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David
+
+837
+00:51:33.500 --> 00:51:37.350
+Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw,
+
+838
+00:51:37.659 --> 00:51:41.800
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+839
+00:51:41.800 --> 00:51:46.750
+Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert
+
+840
+00:51:46.750 --> 00:51:51.389
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+841
+00:51:51.389 --> 00:51:55.379
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+842
+00:51:55.669 --> 00:52:00.189
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+843
+00:52:00.189 --> 00:52:05.149
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+844
+00:52:05.149 --> 00:52:12.010
+Goler, Alexander Ebert, Liam Dunaway, BR, Massoud Ali Mohammadi,
+
+845
+00:52:12.270 --> 00:52:17.229
+Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov,
+
+846
+00:52:17.469 --> 00:52:21.844
+Sean Nelson, Mike Levin, and Jos Necht. A special
+
+847
+00:52:21.844 --> 00:52:24.705
+thanks to my producers Iar Webb, Jim Frank, Lucas
+
+848
+00:52:24.705 --> 00:52:29.165
+Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas
+
+849
+00:52:29.165 --> 00:52:32.804
+Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al
+
+850
+00:52:32.804 --> 00:52:35.685
+Nick Cortiz, and Nick Golden, and to my executive
+
+851
+00:52:35.685 --> 00:52:39.564
+producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie.
+
+852
+00:52:39.685 --> 00:52:40.504
+Thank you for all.
+

@@ -5,6 +5,7 @@
 	"episodeid": "1215",
 	"excerpt": "Dr. Mauricio Suárez is Full Professor (catedrático) in Logic and Philosophy of Science at Universidad Complutense de Madrid. He is also a life member at Clare Hall at Cambridge University. His main research interests lie in the philosophy of probability and causality, the history and philosophy of science (mainly physics, chemistry and biology), modeling and idealization, the aesthetics of scientific representation, and general epistemology and methodology of science. He is the author of Inference and Representation: A Study in Modeling Science.",
 	"image": "https://i.ytimg.com/vi/jMSVX0fQJYo/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1215-mauricio-su%C3%A1rez-inference-and-representation/id1451347236?i=1000749650099&uo=4",
 	"publishDate": 2026-02-13,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1215-Mauricio-Surez---Inference-and-Representation-A-Study-in-Modeling-Science-e37o6uu",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1215 Mauricio Suárez - Inference and Representation: A Study in Modeling Science",
-	"youtubeid": "jMSVX0fQJYo"
+	"vtt": "1215.vtt",
+	"youtubeid": "jMSVX0fQJYo",
+	"transcript": "1215.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 4th 2025.  
