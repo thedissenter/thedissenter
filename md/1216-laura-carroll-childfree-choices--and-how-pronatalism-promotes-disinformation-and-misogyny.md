@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/110347449/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-28%2Fe0a29262-68f0-cca8-d383-7f00ed1e0fdd.m4a",
 	"draft": false,
 	"episodeid": "1216",
 	"excerpt": "Laura Carroll is a nonfiction author, expert on the childfree choice and pronatalism, and a passionate reproductive rights and ethics advocate. She is the author of The Baby Matrix: Why Freeing Our Minds From Outmoded Thinking About Parenthood & Reproduction Will Create a Better World.",
 	"image": "https://i.ytimg.com/vi/ArAL0-IZsKk/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1216-laura-carroll-childfree-choices-and-how/id1451347236?i=1000750019556&uo=4",
 	"publishDate": 2026-02-16,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1216-Laura-Carroll-Childfree-Choices--and-How-Pronatalism-Promotes-Disinformation-and-Misogyny-e3a61np",
 	"tags": [
 		"General Science"
 	],
