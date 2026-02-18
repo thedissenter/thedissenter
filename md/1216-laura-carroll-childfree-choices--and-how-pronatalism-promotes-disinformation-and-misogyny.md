@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1216 Laura Carroll: Childfree Choices, and How Pronatalism Promotes Disinformation and Misogyny",
-	"youtubeid": "ArAL0-IZsKk"
+	"vtt": "1216.vtt",
+	"youtubeid": "ArAL0-IZsKk",
+	"transcript": "1216.lines.json"
 }
 ---
 RECORDED ON OCTOBER 28th 2025.  
