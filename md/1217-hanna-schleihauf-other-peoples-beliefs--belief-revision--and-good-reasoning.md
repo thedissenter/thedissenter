@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1217 Hanna Schleihauf: Other People's Beliefs, Belief Revision, and Good Reasoning",
-	"youtubeid": "kDKasRVpvmw"
+	"vtt": "1217.vtt",
+	"youtubeid": "kDKasRVpvmw",
+	"transcript": "1217.lines.json"
 }
 ---
 RECORDED ON JUNE 19th 2025.  
