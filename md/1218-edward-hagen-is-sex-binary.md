@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1218 Edward Hagen: Is Sex Binary?",
-	"youtubeid": "DjIqDREBOqI"
+	"vtt": "1218.vtt",
+	"youtubeid": "DjIqDREBOqI",
+	"transcript": "1218.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 24th 2025.  
