@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/111788547/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-27%2F4345d9d3-2388-2106-a466-95851c667277.m4a",
 	"draft": false,
 	"episodeid": "1219",
 	"excerpt": "Dr. Sami Timimi is a Consultant Child and Adolescent Psychiatrist. He is also an experienced Psychotherapist. He is also an author who writes from a critical psychiatry perspective on topics relating to mental health and he has published over a hundred and fifty articles and tens of chapters on many subjects including childhood, psychotherapy, behavioral disorders and cross-cultural psychiatry. He has authored 7 books including Searching for Normal: A New Approach to Understanding Mental Health, Distress and Neurodiversity.",
 	"image": "https://i.ytimg.com/vi/OqIgMP3hpC8/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1219-sami-timimi-a-new-approach-to-understanding/id1451347236?i=1000751065694&uo=4",
 	"publishDate": 2026-02-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1219-Sami-Timimi-A-New-Approach-to-Understanding-Mental-Health--Distress-and-Neurodiversity-e3bi123",
 	"tags": [
 		"Medicine",
 		"Psychology"
