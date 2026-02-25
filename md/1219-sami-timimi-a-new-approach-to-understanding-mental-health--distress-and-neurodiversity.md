@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1219 Sami Timimi: A New Approach to Understanding Mental Health, Distress and Neurodiversity",
-	"youtubeid": "OqIgMP3hpC8"
+	"vtt": "1219.vtt",
+	"youtubeid": "OqIgMP3hpC8",
+	"transcript": "1219.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 27th 2025.  
