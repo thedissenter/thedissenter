@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/114449996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-23%2F310ae506-24e8-7cc8-4ef6-6588231a1c41.m4a",
 	"draft": false,
 	"episodeid": "1220",
 	"excerpt": "Dr. Alyssa Battistoni is Assistant Professor of Political Science at Barnard College. She works and teaches on climate and environmental politics, capitalism, Marxism, feminism, and other topics in modern social and political theory. She is the author of Free Gifts: Capitalism and the Politics of Nature.",
 	"image": "https://i.ytimg.com/vi/Fj9TJurIxAQ/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1220-alyssa-battistoni-free-gifts-capitalism-and/id1451347236?i=1000751794692&uo=4",
 	"publishDate": 2026-02-26,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1220-Alyssa-Battistoni---Free-Gifts-Capitalism-and-the-Politics-of-Nature-e3e384c",
 	"tags": [
 		"Politics",
 		"Economics"
