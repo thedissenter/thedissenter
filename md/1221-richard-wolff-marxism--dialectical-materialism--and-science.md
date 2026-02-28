@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1221 Richard Wolff: Marxism, Dialectical Materialism, and Science",
-	"youtubeid": "A9HhrLBWsuU"
+	"vtt": "1221.vtt",
+	"youtubeid": "A9HhrLBWsuU",
+	"transcript": "1221.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 25th 2026.  
