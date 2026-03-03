@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1222 Teresa Baron: The Artificial Womb on Trial",
-	"youtubeid": "YXN-0ozwF1Q"
+	"vtt": "1222.vtt",
+	"youtubeid": "YXN-0ozwF1Q",
+	"transcript": "1222.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 17th 2025.  
