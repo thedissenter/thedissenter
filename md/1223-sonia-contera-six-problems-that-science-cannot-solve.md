@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1223 Sonia Contera: Six Problems That Science Cannot Solve",
-	"youtubeid": "GFxxQsSnnb8"
+	"vtt": "1223.vtt",
+	"youtubeid": "GFxxQsSnnb8",
+	"transcript": "1223.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 10th 2026.  
