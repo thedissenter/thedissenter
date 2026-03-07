@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1224 Dan Zahavi - Being We: Phenomenological Contributions to Social Ontology",
-	"youtubeid": "gHAUZbGUhuI"
+	"vtt": "1224.vtt",
+	"youtubeid": "gHAUZbGUhuI",
+	"transcript": "1224.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 5th 2025.  
