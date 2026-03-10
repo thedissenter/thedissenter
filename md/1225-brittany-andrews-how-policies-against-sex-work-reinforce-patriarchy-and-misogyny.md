@@ -9,7 +9,9 @@
 	"publishDate": 2026-03-09,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1225-Brittany-Andrews-How-Policies-Against-Sex-Work-Reinforce-Patriarchy-and-Misogyny-e3f35fk",
 	"title": "#1225 Brittany Andrews: How Policies Against Sex Work Reinforce Patriarchy and Misogyny",
-	"youtubeid": "NadJn5VzRrE"
+	"vtt": "1225.vtt",
+	"youtubeid": "NadJn5VzRrE",
+	"transcript": "1225.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 13th 2026.  
