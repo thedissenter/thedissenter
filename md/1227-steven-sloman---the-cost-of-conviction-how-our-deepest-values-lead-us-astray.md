@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1227 Steven Sloman - The Cost of Conviction: How Our Deepest Values Lead Us Astray",
-	"youtubeid": "4wUONFzaDFM"
+	"vtt": "1227.vtt",
+	"youtubeid": "4wUONFzaDFM",
+	"transcript": "1227.lines.json"
 }
 ---
 RECORDED ON DECEMBER 2nd 2025.  
