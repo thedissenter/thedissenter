@@ -13,7 +13,9 @@
 		"Sociology"
 	],
 	"title": "#1228 David Calnitsky: Basic Income, Poverty, and Socialism",
-	"youtubeid": "_v_qOok7vyA"
+	"vtt": "1228.vtt",
+	"youtubeid": "_v_qOok7vyA",
+	"transcript": "1228.lines.json"
 }
 ---
 RECORDED ON DECEMBER 9th 2025.  
