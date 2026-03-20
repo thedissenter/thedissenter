@@ -14,7 +14,9 @@
 		"Psychology"
 	],
 	"title": "#1229 Nandita Bajaj, Zachary Neal, and Jennifer Neal: Debunking Pronatalist Claims",
-	"youtubeid": "SGkTGlhL8_Y"
+	"vtt": "1229.vtt",
+	"youtubeid": "SGkTGlhL8_Y",
+	"transcript": "1229.lines.json"
 }
 ---
 RECORDED ON DECEMBER 10th 2025.  
