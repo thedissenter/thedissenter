@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1230 William von Hippel: Autonomy, Connection, and Why We Need Both to Find Happiness",
-	"youtubeid": "Ko1c6x6Psfw"
+	"vtt": "1230.vtt",
+	"youtubeid": "Ko1c6x6Psfw",
+	"transcript": "1230.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 26th 2025.  
