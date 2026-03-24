@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1231 Michael Gurven - Seven Decades: How We Evolved to Live Longer",
-	"youtubeid": "AWTBK7VJLRI"
+	"vtt": "1231.vtt",
+	"youtubeid": "AWTBK7VJLRI",
+	"transcript": "1231.lines.json"
 }
 ---
 RECORDED ON DECEMBER 17th 2025.  
