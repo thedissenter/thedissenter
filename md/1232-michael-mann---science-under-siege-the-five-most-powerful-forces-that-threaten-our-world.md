@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1232 Michael Mann - Science Under Siege: The Five Most Powerful Forces that Threaten Our World",
-	"youtubeid": "mkoHF3v8EIk"
+	"vtt": "1232.vtt",
+	"youtubeid": "mkoHF3v8EIk",
+	"transcript": "1232.lines.json"
 }
 ---
 RECORDED ON MARCH 17th 2026.  
