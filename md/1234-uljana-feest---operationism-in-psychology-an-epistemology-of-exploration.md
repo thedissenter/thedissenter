@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1234 Uljana Feest - Operationism in Psychology: An Epistemology of Exploration",
-	"youtubeid": "vA5TR9ML7FY"
+	"vtt": "1234.vtt",
+	"youtubeid": "vA5TR9ML7FY",
+	"transcript": "1234.lines.json"
 }
 ---
 RECORDED ON JULY 9th 2025.  
