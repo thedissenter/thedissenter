@@ -12,7 +12,9 @@
 		"Neuroscience"
 	],
 	"title": "#1235 Nicole Rust: Why Neuroscience Hasn’t Solved Brain Disorders―and How We Can Change That",
-	"youtubeid": "TwU1w2uzclA"
+	"vtt": "1235.vtt",
+	"youtubeid": "TwU1w2uzclA",
+	"transcript": "1235.lines.json"
 }
 ---
 RECORDED ON AUGUST 15th 2025.  
