@@ -5,6 +5,7 @@
 	"episodeid": "1236",
 	"excerpt": "Dr. Paul Thagard is Distinguished Professor Emeritus of Philosophy at the University of Waterloo and a Fellow of the Royal Society of Canada, the Cognitive Science Society, and the Association for Psychological Science. The Canada Council awarded him a Molson Prize (2007) and a Killam Prize (2013). He is a philosopher, cognitive scientist, and author of many interdisciplinary books, the latest one being Dreams, Jokes, and Songs: How Brains Build Consciousness.",
 	"image": "https://i.ytimg.com/vi/CgUTyMaAAz0/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1236-paul-thagard-dreams-jokes-and-songs-how-brains/id1451347236?i=1000759090678&uo=4",
 	"publishDate": 2026-04-03,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1236-Paul-Thagard---Dreams--Jokes--and-Songs-How-Brains-Build-Consciousness-e3gtmc1",
 	"tags": [
@@ -13,7 +14,9 @@
 		"Philosophy"
 	],
 	"title": "#1236 Paul Thagard - Dreams, Jokes, and Songs: How Brains Build Consciousness",
-	"youtubeid": "CgUTyMaAAz0"
+	"vtt": "1236.vtt",
+	"youtubeid": "CgUTyMaAAz0",
+	"transcript": "1236.lines.json"
 }
 ---
 RECORDED ON MARCH 24th 2026.  
