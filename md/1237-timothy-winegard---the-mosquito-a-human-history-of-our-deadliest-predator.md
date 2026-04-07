@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1237 Timothy Winegard - The Mosquito: A Human History of Our Deadliest Predator",
-	"youtubeid": "jtceVYG4PHE"
+	"vtt": "1237.vtt",
+	"youtubeid": "jtceVYG4PHE",
+	"transcript": "1237.lines.json"
 }
 ---
 RECORDED ON DECEMBER 29th 2025.  
