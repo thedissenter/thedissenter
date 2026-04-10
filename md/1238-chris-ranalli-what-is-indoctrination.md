@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1238 Chris Ranalli: What Is Indoctrination?",
-	"youtubeid": "qhwLbHloaBg"
+	"vtt": "1238.vtt",
+	"youtubeid": "qhwLbHloaBg",
+	"transcript": "1238.lines.json"
 }
 ---
 RECORDED ON JULY 31st 2025.  
