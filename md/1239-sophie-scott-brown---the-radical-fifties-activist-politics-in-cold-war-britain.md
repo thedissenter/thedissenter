@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1239 Sophie Scott-Brown - The Radical Fifties: Activist Politics in Cold War Britain",
-	"youtubeid": "VuLzyjqndYk"
+	"vtt": "1239.vtt",
+	"youtubeid": "VuLzyjqndYk",
+	"transcript": "1239.lines.json"
 }
 ---
 RECORDED ON JANUARY 2nd 2026.  
