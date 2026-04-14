@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1240 Roy Richard Grinker - Nobody's Normal: How Culture Created the Stigma of Mental Illness",
-	"youtubeid": "UeMm2kXQAXY"
+	"vtt": "1240.vtt",
+	"youtubeid": "UeMm2kXQAXY",
+	"transcript": "1240.lines.json"
 }
 ---
 RECORDED ON JANUARY 7th 2026.  
