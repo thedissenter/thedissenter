@@ -5,13 +5,16 @@
 	"episodeid": "1241",
 	"excerpt": "Dr. Jessica Flanigan is the Richard L. Morrill Chair in Ethics and Democratic Values at the University of Richmond, where she teaches Leadership Ethics, Ethical Decision Making in Healthcare, and Critical Thinking. Her research addresses the ethics of public policy, medicine, and business. She is the author of several books, including Debating Sex Work (together with Lori Watson), where she defends the decriminalization of sex work.",
 	"image": "https://i.ytimg.com/vi/nWZ4ZnKPwEs/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1241-jessica-flanigan-the-ethics-of-sex-work/id1451347236?i=1000761864392&uo=4",
 	"publishDate": 2026-04-16,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1241-Jessica-Flanigan-The-Ethics-of-Sex-Work-e3d74il",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1241 Jessica Flanigan: The Ethics of Sex Work",
-	"youtubeid": "nWZ4ZnKPwEs"
+	"vtt": "1241.vtt",
+	"youtubeid": "nWZ4ZnKPwEs",
+	"transcript": "1241.lines.json"
 }
 ---
 RECORDED ON JANUARY 5th 2026.  
