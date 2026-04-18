@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1242 Serene Khader - Faux Feminism: Why We Fall for White Feminism and How We Can Stop",
-	"youtubeid": "-85tsPi8-EQ"
+	"vtt": "1242.vtt",
+	"youtubeid": "-85tsPi8-EQ",
+	"transcript": "1242.lines.json"
 }
 ---
 RECORDED ON JANUARY 8th 2026.  
