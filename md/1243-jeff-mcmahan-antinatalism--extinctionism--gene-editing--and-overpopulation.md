@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/117456897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-25%2F1e7d3cd7-4bf5-83ef-5ae9-24b8778d7aa5.m4a",
 	"draft": false,
 	"episodeid": "1243",
 	"excerpt": "Dr. Jeff McMahan is Sekyra and White’s Professor of Moral Philosophy at the University of Oxford. He specializes in Practical Ethics, Political Philosophy, and Ethics. He is editor of the Journal of Controversial Ideas. He’s the author of books like The Morality of Nationalism, The Ethics of Killing: Problems at the Margins of Life, and Killing in War.",
 	"image": "https://i.ytimg.com/vi/pk36NrckYoc/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1243-jeff-mcmahan-antinatalism-extinctionism-gene-editing/id1451347236?i=1000762444025&uo=4",
 	"publishDate": 2026-04-20,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1243-Jeff-McMahan-Antinatalism--Extinctionism--Gene-Editing--and-Overpopulation-e3gv0i1",
 	"tags": [
 		"Philosophy"
 	],
