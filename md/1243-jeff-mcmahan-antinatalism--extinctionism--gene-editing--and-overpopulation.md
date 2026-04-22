@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1243 Jeff McMahan: Antinatalism, Extinctionism, Gene Editing, and Overpopulation",
-	"youtubeid": "pk36NrckYoc"
+	"vtt": "1243.vtt",
+	"youtubeid": "pk36NrckYoc",
+	"transcript": "1243.lines.json"
 }
 ---
 RECORDED ON MARCH 25th 2026.  
