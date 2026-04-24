@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/118467101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F422082928-44100-2-a65810eba3727.mp3",
 	"draft": false,
 	"episodeid": "1244",
 	"excerpt": "Keegan Tatum is a YouTuber (@TheOneKeeganTatum) and TikToker (https://tinyurl.com/89v7a5tu) who talks about the psychology of politics.",
 	"image": "https://i.ytimg.com/vi/Re0CZIkFlfk/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1244-keegan-tatum-the-psychology-of-politics/id1451347236?i=1000763285317&uo=4",
 	"publishDate": 2026-04-23,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1244-Keegan-Tatum-The-Psychology-of-Politics--and-the-Reactionary-Politics-of-the-Conservatives-e3htr2t",
 	"tags": [
 		"Politics",
 		"Psychology"
