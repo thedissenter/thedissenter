@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/118089515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2F9a9683c0-eb96-6e95-6a5f-b51bac6a19a1.m4a",
 	"draft": false,
 	"episodeid": "1245",
 	"excerpt": "Dr. Jacob Stegenga is a Professor of Philosophy at Nanyang Technological University, Singapore. Most of his research has been in general philosophy of science and philosophy of medicine, though he has worked on a wide range of other topics, including stereotypes, just war theory, and science in a time of crisis. His latest book is Heart of Science: A Philosophy of Scientific Inquiry.",
 	"image": "https://i.ytimg.com/vi/fH2j-1EDF4w/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1245-jacob-stegenga-heart-of-science-a/id1451347236?i=1000763465302&uo=4",
 	"publishDate": 2026-04-24,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1245-Jacob-Stegenga---Heart-of-Science-A-Philosophy-of-Scientific-Inquiry-e3hiabb",
 	"tags": [
 		"Philosophy"
 	],

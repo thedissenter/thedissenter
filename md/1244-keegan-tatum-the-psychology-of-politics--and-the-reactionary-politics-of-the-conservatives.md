@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1244 Keegan Tatum: The Psychology of Politics, and the Reactionary Politics of the Conservatives",
-	"youtubeid": "Re0CZIkFlfk"
+	"vtt": "1244.vtt",
+	"youtubeid": "Re0CZIkFlfk",
+	"transcript": "1244.lines.json"
 }
 ---
 RECORDED ON APRIL 14th 2026.  
