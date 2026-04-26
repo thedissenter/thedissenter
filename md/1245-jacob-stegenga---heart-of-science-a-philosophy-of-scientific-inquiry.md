@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1245 Jacob Stegenga - Heart of Science: A Philosophy of Scientific Inquiry",
-	"youtubeid": "fH2j-1EDF4w"
+	"vtt": "1245.vtt",
+	"youtubeid": "fH2j-1EDF4w",
+	"transcript": "1245.lines.json"
 }
 ---
 RECORDED ON APRIL 7th 2026.  

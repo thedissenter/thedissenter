@@ -1,0 +1,7954 @@
+WEBVTT
+
+1
+00:00:00.389 --> 00:00:02.869
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:02.869 --> 00:00:05.989
+Dissenter. I'm your host, as always, Richard Lobst, and
+
+3
+00:00:05.989 --> 00:00:08.869
+today I'm here with a return guest, Dr. Jacob
+
+4
+00:00:08.869 --> 00:00:12.909
+Steenge. He's now a professor of philosophy at Nanyang
+
+5
+00:00:12.909 --> 00:00:16.700
+Technological University in Singapore, and today we're going to
+
+6
+00:00:16.700 --> 00:00:20.709
+talk about his latest book Heart of Science A
+
+7
+00:00:20.709 --> 00:00:25.209
+Philosophy of Scientific Inquiry. So Dr. Steengo, welcome back
+
+8
+00:00:25.209 --> 00:00:27.389
+to the show. It's always always a pleasure to
+
+9
+00:00:27.389 --> 00:00:27.510
+everyone.
+
+10
+00:00:28.200 --> 00:00:30.629
+Thanks Ricardo, thanks, and uh it's nice to be
+
+11
+00:00:30.629 --> 00:00:32.049
+here and I should say you can call me
+
+12
+00:00:32.049 --> 00:00:32.610
+Jacob.
+
+13
+00:00:33.049 --> 00:00:35.369
+Oh, OK, OK, I will try, I will try.
+
+14
+00:00:35.849 --> 00:00:38.290
+Uh, SO, I, I mean, I, I know this,
+
+15
+00:00:38.409 --> 00:00:41.549
+that this is a very broad question and some
+
+16
+00:00:41.889 --> 00:00:46.930
+philosophers of science actually spent almost their entire careers
+
+17
+00:00:46.930 --> 00:00:50.490
+just focusing on it and there's entire books written
+
+18
+00:00:50.490 --> 00:00:53.040
+about it, but uh I would like, I, I,
+
+19
+00:00:53.130 --> 00:00:56.500
+I think it's just a good. Question to start
+
+20
+00:00:56.500 --> 00:01:02.139
+on, so what is science and what is scientific
+
+21
+00:01:02.139 --> 00:01:02.779
+inquiry?
+
+22
+00:01:04.150 --> 00:01:06.470
+Yeah, OK, so thanks for that question. I mean,
+
+23
+00:01:06.519 --> 00:01:08.440
+as you note, it's a really broad question and
+
+24
+00:01:08.879 --> 00:01:10.919
+the subtitle of my book is a philosophy of
+
+25
+00:01:10.919 --> 00:01:13.000
+scientific inquiry. So it really would take a whole
+
+26
+00:01:13.000 --> 00:01:15.599
+book or a whole library to properly answer this
+
+27
+00:01:15.599 --> 00:01:18.540
+question. But, um, even if I give a short
+
+28
+00:01:18.800 --> 00:01:21.440
+answer, you know, it might raise further things for
+
+29
+00:01:21.440 --> 00:01:24.519
+us to talk about. Um, SO, so, you know,
+
+30
+00:01:24.680 --> 00:01:27.360
+science, science, of course, what science is trying to
+
+31
+00:01:27.360 --> 00:01:29.639
+do is to learn about the world. Uh, SCIENCE
+
+32
+00:01:29.639 --> 00:01:32.519
+is trying to discover facts about, about nature, facts
+
+33
+00:01:32.519 --> 00:01:36.949
+about the world. Um, SCIENCE as an activity involves
+
+34
+00:01:36.949 --> 00:01:42.879
+both, typically it's an easy way to Categorize scientific
+
+35
+00:01:42.879 --> 00:01:47.470
+work is into empirical work and theoretical work, so
+
+36
+00:01:47.470 --> 00:01:49.959
+a lot of science is about the gathering of
+
+37
+00:01:49.959 --> 00:01:52.160
+evidence, and then a big part of science is
+
+38
+00:01:52.160 --> 00:01:55.760
+about how to make sense of that evidence theoretically,
+
+39
+00:01:56.000 --> 00:01:58.080
+and those theoretical claims are supposed to be, you
+
+40
+00:01:58.080 --> 00:02:00.800
+know, claims about the world, claims that we can
+
+41
+00:02:01.400 --> 00:02:03.959
+come to understand about the world. So there's empirical
+
+42
+00:02:03.959 --> 00:02:07.550
+work, theoretical work in an attempt to learn about
+
+43
+00:02:07.550 --> 00:02:08.220
+the world.
+
+44
+00:02:09.990 --> 00:02:15.270
+And what is the aim of science, or if
+
+45
+00:02:15.270 --> 00:02:18.789
+not, what the aim is, what should it be?
+
+46
+00:02:20.380 --> 00:02:25.179
+Thanks, yeah, yeah. OK, so this is a long
+
+47
+00:02:25.179 --> 00:02:28.500
+standing question for philosophers of science. Philosophers of science
+
+48
+00:02:28.500 --> 00:02:31.929
+have offered many different answers to this question. Uh,
+
+49
+00:02:31.979 --> 00:02:35.619
+I take a chapter in the book to give
+
+50
+00:02:35.619 --> 00:02:38.259
+an account of what I take the aim of
+
+51
+00:02:38.259 --> 00:02:41.750
+science to be. Just as a preface to answering
+
+52
+00:02:41.750 --> 00:02:43.710
+this question though, when we're speaking about the aim
+
+53
+00:02:43.710 --> 00:02:47.029
+of science. We need to be clear that we're
+
+54
+00:02:47.029 --> 00:02:48.880
+speaking about what I, what I call the constitutive
+
+55
+00:02:48.880 --> 00:02:51.149
+aim of science. So what I mean is we're
+
+56
+00:02:51.149 --> 00:02:54.720
+not speaking about the kind of sum total of
+
+57
+00:02:54.720 --> 00:02:57.320
+all of the particular aims of the particular stakeholders
+
+58
+00:02:57.320 --> 00:02:59.600
+in science, like the aims of scientists, the aims
+
+59
+00:02:59.600 --> 00:03:03.154
+of science students, the aims of science funders. People
+
+60
+00:03:03.154 --> 00:03:05.335
+have different aims, right? Some scientists want to become
+
+61
+00:03:05.875 --> 00:03:08.645
+rich and famous. Some want to discover facts about
+
+62
+00:03:08.645 --> 00:03:11.595
+cancer and so on. So we don't mean the
+
+63
+00:03:11.595 --> 00:03:14.755
+particular aims of particular scientists, but rather, um, when
+
+64
+00:03:14.755 --> 00:03:16.274
+we speak about the aims of science, we're speaking
+
+65
+00:03:16.274 --> 00:03:19.274
+about the constitutive aim of science as an institution.
+
+66
+00:03:19.735 --> 00:03:22.690
+So think about like, The game of chess. The
+
+67
+00:03:22.690 --> 00:03:25.289
+game of chess has a constitutive aim that is
+
+68
+00:03:25.289 --> 00:03:27.649
+victory, and it doesn't really matter if like when
+
+69
+00:03:27.649 --> 00:03:30.929
+you play chess with your nephew, you're doing it
+
+70
+00:03:30.929 --> 00:03:32.250
+just to teach him how to play chess or
+
+71
+00:03:32.250 --> 00:03:33.570
+just to have fun or spend time with your
+
+72
+00:03:33.570 --> 00:03:36.649
+nephew. You have various aims, right? The constitutive aim
+
+73
+00:03:36.649 --> 00:03:39.729
+of chess is victory, um, regardless of the particular
+
+74
+00:03:39.729 --> 00:03:43.470
+aims of particular agents in that endeavor. So I
+
+75
+00:03:43.470 --> 00:03:47.070
+argue that the constitutive aim of science is, is
+
+76
+00:03:47.070 --> 00:03:50.149
+what I call common knowledge. So it's a special
+
+77
+00:03:50.149 --> 00:03:54.470
+kind of knowledge. So common knowledge is um a
+
+78
+00:03:54.470 --> 00:03:56.910
+justified true claim about the world, that's the knowledge
+
+79
+00:03:56.910 --> 00:04:04.149
+part in which there's both consensus about the claim,
+
+80
+00:04:04.509 --> 00:04:08.830
+broad consensus and consensus about the justifications that are
+
+81
+00:04:08.830 --> 00:04:11.630
+on offer for that claim. So it's not to
+
+82
+00:04:11.630 --> 00:04:14.309
+be confused with something like common sense, right? So
+
+83
+00:04:14.309 --> 00:04:17.380
+common sense is not what I'm after here. Common
+
+84
+00:04:17.380 --> 00:04:19.769
+knowledge is a, is a kind of technical notion,
+
+85
+00:04:20.350 --> 00:04:25.579
+uh, which involves, um, two components broad consensus about
+
+86
+00:04:25.700 --> 00:04:29.630
+a claim and broad consensus about the justification for
+
+87
+00:04:29.630 --> 00:04:33.429
+that claim. So, so that's the aim of the
+
+88
+00:04:33.429 --> 00:04:39.250
+constitutive aim of science, and I argue that. Science
+
+89
+00:04:39.250 --> 00:04:43.010
+at its best routinely achieves that aim.
+
+90
+00:04:45.429 --> 00:04:49.109
+Right. I, I mean, you mentioned, uh, three different
+
+91
+00:04:49.109 --> 00:04:51.230
+things there and we have to go through each
+
+92
+00:04:51.230 --> 00:04:54.549
+of them. You mentioned common knowledge, scientific consensus, and
+
+93
+00:04:54.549 --> 00:04:57.619
+justification, but, uh, uh, just before we get into
+
+94
+00:04:57.619 --> 00:05:00.029
+that, uh, I would like to ask you because
+
+95
+00:05:00.029 --> 00:05:03.179
+I've had conversations on the show. With, for example,
+
+96
+00:05:03.440 --> 00:05:06.959
+sociologists of science and philosophers of science, and this
+
+97
+00:05:06.959 --> 00:05:12.839
+is something that is brought up very frequently. What
+
+98
+00:05:12.839 --> 00:05:17.720
+do you make of when, for example, certain scientists
+
+99
+00:05:17.720 --> 00:05:21.899
+claim that The aim of science is to uncover
+
+100
+00:05:23.000 --> 00:05:27.640
+objective truth. I mean, is that really the aim
+
+101
+00:05:27.640 --> 00:05:30.640
+of science, or should it be, I mean, of
+
+102
+00:05:30.640 --> 00:05:34.160
+course it depends on what you mean by objective
+
+103
+00:05:34.160 --> 00:05:38.859
+truth, right? But since science. IS an institution, a
+
+104
+00:05:38.859 --> 00:05:43.149
+social institution like any other, which operates in a
+
+105
+00:05:43.149 --> 00:05:47.869
+particular socio-cultural context. And later, I guess when we
+
+106
+00:05:47.869 --> 00:05:51.500
+talk about whether science can be value-free at all,
+
+107
+00:05:51.549 --> 00:05:54.869
+if that's possible, we'll come back to some of
+
+108
+00:05:54.869 --> 00:05:58.404
+what we're going to discuss here. But is it
+
+109
+00:05:58.924 --> 00:06:03.605
+really something that scientists should aim at objective truth,
+
+110
+00:06:03.635 --> 00:06:08.165
+and is that even, uh, like possible taking into
+
+111
+00:06:08.165 --> 00:06:11.945
+account that science is a human endeavor and that,
+
+112
+00:06:11.964 --> 00:06:16.225
+as I said, it operates under a certain specific,
+
+113
+00:06:16.665 --> 00:06:21.325
+uh, under a specific social con uh cultural context.
+
+114
+00:06:21.940 --> 00:06:23.790
+Yeah, so it's a really good question and there's
+
+115
+00:06:23.790 --> 00:06:26.220
+a lot packed in there. So, you know, you
+
+116
+00:06:26.220 --> 00:06:29.109
+mentioned some sociologists of science and some philosophers of
+
+117
+00:06:29.109 --> 00:06:34.769
+science who have, at least historically, Often doubted that
+
+118
+00:06:34.769 --> 00:06:37.200
+science can attain a sort of special objective truth,
+
+119
+00:06:37.250 --> 00:06:40.190
+a sort of view from nowhere. Um, THERE'S a
+
+120
+00:06:40.190 --> 00:06:42.410
+lot of arguments that have been on offer for
+
+121
+00:06:42.410 --> 00:06:44.130
+that kind of view, that sort of skeptical view
+
+122
+00:06:44.130 --> 00:06:46.769
+about science. Now I think that those sorts of
+
+123
+00:06:46.769 --> 00:06:51.299
+views are often radically exaggerated, um, and in fact,
+
+124
+00:06:51.609 --> 00:06:53.910
+this, they are more and more falling out of
+
+125
+00:06:53.910 --> 00:06:57.630
+favor too. So, so the short, my short statement
+
+126
+00:06:57.630 --> 00:07:00.850
+here, my, my kind of programmatic statement is that
+
+127
+00:07:00.850 --> 00:07:04.839
+um, Science at its best can achieve objective truth,
+
+128
+00:07:04.970 --> 00:07:07.700
+and scientists ought to be aiming at that. Um,
+
+129
+00:07:08.290 --> 00:07:10.089
+SO there are very simple examples like, you know,
+
+130
+00:07:10.170 --> 00:07:12.329
+the structure of DNA as a double helix or
+
+131
+00:07:12.329 --> 00:07:16.649
+dinosaurs existed, um, you know, these are claims that
+
+132
+00:07:16.649 --> 00:07:19.130
+are objectively true. They, they'll be true for all
+
+133
+00:07:19.130 --> 00:07:23.179
+time. There's broad consensus about these claims to deny
+
+134
+00:07:23.179 --> 00:07:25.779
+these claims, to say like the structure of double
+
+135
+00:07:25.779 --> 00:07:27.899
+of DNA is a triple helix, say you'd have
+
+136
+00:07:27.899 --> 00:07:31.940
+to be, you know, just completely disconnected from um
+
+137
+00:07:32.160 --> 00:07:36.809
+actual science. So science, science achieves common knowledge, um,
+
+138
+00:07:36.820 --> 00:07:38.459
+I in the book I also call these timeless
+
+139
+00:07:38.459 --> 00:07:41.679
+truths. These are objective, objective claims about the world.
+
+140
+00:07:42.299 --> 00:07:45.320
+Now I think that um. There's a lot of
+
+141
+00:07:45.320 --> 00:07:47.149
+things though, there's a lot of nuance to add
+
+142
+00:07:47.149 --> 00:07:50.420
+to this though. What we see in science often
+
+143
+00:07:50.420 --> 00:07:57.579
+is a kind of overconfidence in. In among scientists
+
+144
+00:07:57.579 --> 00:08:03.380
+making particular claims to particular putative truths that turn
+
+145
+00:08:03.380 --> 00:08:06.940
+out not to be true, and so as we
+
+146
+00:08:06.940 --> 00:08:10.920
+know, you know, scientists are often quite, quite overconfident
+
+147
+00:08:10.920 --> 00:08:14.100
+in their putative claims to truth, and it's a
+
+148
+00:08:14.100 --> 00:08:17.760
+virtue among all people, including scientists, to be humble,
+
+149
+00:08:18.500 --> 00:08:22.250
+and so. Um, HUMILITY, of course, is a virtue.
+
+150
+00:08:22.829 --> 00:08:26.309
+Scientists should be humble, but I don't think that
+
+151
+00:08:26.910 --> 00:08:29.910
+they should be so humble such that they would,
+
+152
+00:08:29.989 --> 00:08:32.919
+they would hold that, you know, science can never
+
+153
+00:08:32.919 --> 00:08:35.909
+achieve truths. Science does achieve objective truths like DNA
+
+154
+00:08:35.909 --> 00:08:38.099
+is a double helix. Um, SO, OK, there's the
+
+155
+00:08:38.099 --> 00:08:41.869
+humility point, um, and of course there's another sort
+
+156
+00:08:41.869 --> 00:08:45.229
+of important argument that many sociologists and philosophers of
+
+157
+00:08:45.229 --> 00:08:50.650
+science make, which is that, um, We have this
+
+158
+00:08:50.650 --> 00:08:54.090
+long history of scientific theories being held up as
+
+159
+00:08:54.090 --> 00:08:57.049
+true and then later coming to be seen as
+
+160
+00:08:57.049 --> 00:09:00.130
+false. And so one, you know, one way this
+
+161
+00:09:00.130 --> 00:09:03.289
+is sometimes put sort of colorfully is that science
+
+162
+00:09:03.289 --> 00:09:06.770
+is a like a graveyard of dead theories. All
+
+163
+00:09:06.770 --> 00:09:08.729
+the theories in the past have been shown to
+
+164
+00:09:08.729 --> 00:09:11.200
+be false and therefore our theories today are very
+
+165
+00:09:11.200 --> 00:09:13.280
+likely to be false. That's a, that's a common
+
+166
+00:09:13.280 --> 00:09:16.750
+argument. Philosophers sometimes call this the pessimistic meta induction.
+
+167
+00:09:17.710 --> 00:09:20.469
+Now in the book I argue against this pessimistic
+
+168
+00:09:20.469 --> 00:09:24.270
+meta-induction. Um, THERE, there are, there are really compelling
+
+169
+00:09:24.270 --> 00:09:28.309
+reasons to not be too swayed by, by that
+
+170
+00:09:28.309 --> 00:09:30.450
+worry. Of course, again, it's good to be humble,
+
+171
+00:09:30.830 --> 00:09:33.630
+but I think it's also good to recognize real
+
+172
+00:09:33.630 --> 00:09:36.390
+scientific achievements when they exist and, and, and, and
+
+173
+00:09:36.390 --> 00:09:38.650
+we do have them. Science at its best has,
+
+174
+00:09:38.989 --> 00:09:43.419
+has really great achievements, um. Another angle to this
+
+175
+00:09:43.419 --> 00:09:47.789
+is in that in that overconfidence point. Um, I
+
+176
+00:09:47.789 --> 00:09:50.590
+think some areas of science at some periods in
+
+177
+00:09:50.590 --> 00:09:54.989
+history have been more successful at achieving the aim
+
+178
+00:09:54.989 --> 00:09:57.900
+of common knowledge than other areas of science at
+
+179
+00:09:57.900 --> 00:10:02.109
+other times. Um, SO for example, like physics of
+
+180
+00:10:02.109 --> 00:10:07.270
+the early 20th century was just wildly successful at
+
+181
+00:10:07.270 --> 00:10:11.669
+discovering like really important facts about, uh, about the
+
+182
+00:10:11.669 --> 00:10:14.090
+universe, about the structure of the atom, and so
+
+183
+00:10:14.090 --> 00:10:19.719
+on. Um, PHYSICS today. IS much more in a
+
+184
+00:10:19.719 --> 00:10:25.330
+sense theoretical and much less tethered to um Um
+
+185
+00:10:27.229 --> 00:10:32.330
+Novel empirical methods of testing contemporary theories, and so
+
+186
+00:10:32.590 --> 00:10:36.229
+in short, the theories are are departing more and
+
+187
+00:10:36.229 --> 00:10:39.150
+more from. The kind of evidence that we can
+
+188
+00:10:39.150 --> 00:10:44.229
+gather to test them and so in, in like
+
+189
+00:10:44.229 --> 00:10:47.809
+physics at its cutting edge should always be humble,
+
+190
+00:10:48.239 --> 00:10:53.690
+um, and so. Um, IT'S one thing to say,
+
+191
+00:10:54.260 --> 00:10:56.419
+yeah, science at its best can achieve common knowledge,
+
+192
+00:10:56.669 --> 00:10:59.919
+particularly like the science at its best, say, physics
+
+193
+00:10:59.919 --> 00:11:02.710
+of the early 20th century, but, but we should
+
+194
+00:11:02.710 --> 00:11:06.469
+also maintain a kind of humility in, um, in
+
+195
+00:11:06.469 --> 00:11:09.010
+thinking about science, especially science at its cutting edge,
+
+196
+00:11:09.630 --> 00:11:11.469
+um, and there's, there's, you know, lots and lots
+
+197
+00:11:11.469 --> 00:11:14.119
+of examples of this. Yeah.
+
+198
+00:11:14.619 --> 00:11:19.419
+So let's get into the particular concepts that you
+
+199
+00:11:19.419 --> 00:11:23.130
+mentioned in your previous answers and sort of, uh,
+
+200
+00:11:23.140 --> 00:11:26.650
+tackle them one at a time. So what is,
+
+201
+00:11:26.979 --> 00:11:30.580
+what do you mean by common knowledge and how
+
+202
+00:11:30.580 --> 00:11:33.440
+does it manifest in the domain of science?
+
+203
+00:11:34.020 --> 00:11:37.450
+OK, yeah, so, so abstractly what I mean by
+
+204
+00:11:37.450 --> 00:11:42.169
+common knowledge is, um, a true claim that is.
+
+205
+00:11:42.780 --> 00:11:47.000
+Um, VERY well justified by a relevant scientific community.
+
+206
+00:11:48.309 --> 00:11:51.940
+That scientific community has broad consensus about the claim
+
+207
+00:11:52.309 --> 00:11:55.479
+and broad consensus about the justification for that claim.
+
+208
+00:11:56.169 --> 00:12:00.609
+Um, SO that's, that's common knowledge. There's lots of
+
+209
+00:12:00.609 --> 00:12:02.250
+examples of this, like, you know, DNA is a
+
+210
+00:12:02.250 --> 00:12:04.969
+double helix, that's, um, that's a very simple one,
+
+211
+00:12:05.179 --> 00:12:06.580
+or, you know, the sun is at the center
+
+212
+00:12:06.580 --> 00:12:11.090
+of the solar system, it's another simple one, Now
+
+213
+00:12:12.150 --> 00:12:16.650
+That abstract definition raises some secondary questions like what's
+
+214
+00:12:16.650 --> 00:12:19.619
+the relevant community, what proportion of the relevant community
+
+215
+00:12:19.619 --> 00:12:22.150
+has to assent to the claim, what proportion of
+
+216
+00:12:22.150 --> 00:12:24.929
+the relevant community has to assent to the justifications
+
+217
+00:12:24.929 --> 00:12:27.729
+for that claim. Um, I work out some of
+
+218
+00:12:27.729 --> 00:12:29.849
+these nuances in the book, so I think the
+
+219
+00:12:29.849 --> 00:12:32.799
+relevant community is essentially the community of, of relevant
+
+220
+00:12:32.799 --> 00:12:35.869
+experts. So if it's a claim about The structure
+
+221
+00:12:35.869 --> 00:12:39.539
+of DNA, then it's, you know, biochemists, for example,
+
+222
+00:12:39.950 --> 00:12:43.039
+and genetic geneticists in that case as well.
+
+223
+00:12:43.510 --> 00:12:46.229
+Exactly, yeah, yeah. Now there will be like grays,
+
+224
+00:12:46.469 --> 00:12:49.710
+there will be particular individuals for whom there's a
+
+225
+00:12:49.710 --> 00:12:52.359
+kind of gray zone status about their, you know,
+
+226
+00:12:52.669 --> 00:12:55.929
+um, membership in this community of experts. So like
+
+227
+00:12:56.150 --> 00:12:58.099
+a biochemist who got half a PhD and then
+
+228
+00:12:58.099 --> 00:13:00.349
+dropped out, right? Well, Have a lot of expertise
+
+229
+00:13:00.710 --> 00:13:05.590
+or like say a physicist who happens to like
+
+230
+00:13:05.590 --> 00:13:07.590
+know a lot about biochemistry because he's, you know,
+
+231
+00:13:07.669 --> 00:13:10.669
+consulting on the use of particular instruments in this
+
+232
+00:13:10.669 --> 00:13:12.549
+biochemistry lab, so he learns a lot. So he's
+
+233
+00:13:12.549 --> 00:13:14.059
+an expert in one area, but he also learns
+
+234
+00:13:14.059 --> 00:13:16.950
+a lot about this this related area. So there
+
+235
+00:13:16.950 --> 00:13:19.450
+are gray zone cases, but you know, that's life.
+
+236
+00:13:19.950 --> 00:13:21.750
+So there's like a set of experts with some
+
+237
+00:13:21.750 --> 00:13:25.109
+gray zone cases and then we can imagine within
+
+238
+00:13:25.109 --> 00:13:28.130
+that set of experts sort of two. A two
+
+239
+00:13:28.130 --> 00:13:33.390
+dimensional. Um, TWO dimensional graph, for example, and one
+
+240
+00:13:33.390 --> 00:13:37.630
+of the dimensions is the proportion of members of
+
+241
+00:13:37.630 --> 00:13:40.409
+that community that assents to a claim. And the
+
+242
+00:13:40.409 --> 00:13:43.289
+other dimension is the proportion of members of the
+
+243
+00:13:43.289 --> 00:13:46.210
+community that assent to the justification or the various
+
+244
+00:13:46.210 --> 00:13:49.369
+justifications for that claim. We have common knowledge when
+
+245
+00:13:49.369 --> 00:13:51.690
+we have high values on those two dimensions. So
+
+246
+00:13:51.690 --> 00:13:53.489
+when we're sort of far in the corner of
+
+247
+00:13:53.489 --> 00:13:56.489
+this two dimensional graph, um, so that that's common
+
+248
+00:13:56.489 --> 00:13:56.789
+knowledge.
+
+249
+00:13:57.960 --> 00:14:01.450
+Yeah, no, that's really interesting because I mean, I've
+
+250
+00:14:01.450 --> 00:14:04.809
+been doing the show for 8 years now. I've
+
+251
+00:14:04.809 --> 00:14:10.369
+interviewed more than 1200 people and it's interesting that
+
+252
+00:14:10.369 --> 00:14:14.619
+over time, Uh, I've become more and more attuned
+
+253
+00:14:14.619 --> 00:14:18.820
+to, I mean, what, uh, what's the level of
+
+254
+00:14:18.820 --> 00:14:21.979
+expertise of each person when it comes to each
+
+255
+00:14:21.979 --> 00:14:25.780
+subject and the ones I should take more or
+
+256
+00:14:25.780 --> 00:14:28.619
+less seriously in terms of their claims, because, for
+
+257
+00:14:28.619 --> 00:14:34.130
+example, I can even Ask a paleoanthropologist about the
+
+258
+00:14:34.130 --> 00:14:40.330
+evolution of Homo erectus, for example, or the colonization
+
+259
+00:14:40.330 --> 00:14:43.950
+or the migration of humans to the Americas, but
+
+260
+00:14:44.130 --> 00:14:47.390
+I mean he or she might not be specialized
+
+261
+00:14:47.390 --> 00:14:52.320
+in that. A specific domain of paleoanthropology. Perhaps I
+
+262
+00:14:52.320 --> 00:14:56.690
+have to ask directly someone who actually works on
+
+263
+00:14:56.690 --> 00:14:59.630
+the migration of Homo sapiens in the Americas or
+
+264
+00:14:59.770 --> 00:15:03.299
+on the evolution of Homo erectus, uh, so that's
+
+265
+00:15:03.299 --> 00:15:08.969
+um. Higher level of resolution, I guess in terms
+
+266
+00:15:08.969 --> 00:15:14.469
+of specialization. It's not that the paleoanthropologist is not
+
+267
+00:15:14.469 --> 00:15:17.739
+enough of an expert on the topic perhaps, but
+
+268
+00:15:17.909 --> 00:15:22.549
+uh some people who actually work specifically on that
+
+269
+00:15:22.549 --> 00:15:25.500
+subject should be taken more seriously,
+
+270
+00:15:25.549 --> 00:15:25.729
+I
+
+271
+00:15:25.729 --> 00:15:26.109
+guess.
+
+272
+00:15:26.479 --> 00:15:28.419
+You know, that's a really interesting point. Yeah, um,
+
+273
+00:15:28.559 --> 00:15:30.890
+that's, by the way, congrats on your show. I,
+
+274
+00:15:30.960 --> 00:15:33.080
+I, I, I remember appearing on your show six
+
+275
+00:15:33.080 --> 00:15:34.719
+years ago to talk about my first book, Medical
+
+276
+00:15:34.719 --> 00:15:37.510
+nihilism. That was a great interview. Um, AND your
+
+277
+00:15:37.510 --> 00:15:40.280
+show has really developed since then. Uh, CONGRATS. Thank
+
+278
+00:15:40.280 --> 00:15:42.520
+you. Thank you. That, that, that, that feature that
+
+279
+00:15:42.520 --> 00:15:44.280
+you were just mentioning though, that's an interesting idea
+
+280
+00:15:44.280 --> 00:15:46.270
+that I, that I didn't think about in the
+
+281
+00:15:46.270 --> 00:15:49.400
+book, but this is worth, worth thinking through maybe
+
+282
+00:15:49.400 --> 00:15:52.010
+in future work, which is that. Perhaps the relevant
+
+283
+00:15:52.010 --> 00:15:55.450
+scientific community, um, in fact, or the relevant community
+
+284
+00:15:55.450 --> 00:15:57.090
+for assessing whether or not some claim is common
+
+285
+00:15:57.090 --> 00:16:01.070
+knowledge can expand over time when the claim, um,
+
+286
+00:16:01.219 --> 00:16:03.570
+becomes just better and better and better justified. So
+
+287
+00:16:03.570 --> 00:16:06.010
+for example, I would say that the relevant community
+
+288
+00:16:06.010 --> 00:16:07.890
+for assessing whether or not the sun is at
+
+289
+00:16:07.890 --> 00:16:09.890
+the center of the solar system is a really
+
+290
+00:16:09.890 --> 00:16:13.744
+broad community of basically educated. People generally, right, um,
+
+291
+00:16:14.294 --> 00:16:16.515
+where, whereas the relevant community to assess some cutting
+
+292
+00:16:16.515 --> 00:16:21.515
+edge feature of, yeah, you know, uh, archaeology, for
+
+293
+00:16:21.515 --> 00:16:22.854
+instance, would be a much narrower,
+
+294
+00:16:24.315 --> 00:16:27.734
+yeah, mhm, yeah, uh, but you mentioned consensus, so,
+
+295
+00:16:28.005 --> 00:16:32.174
+uh, how do we achieve consensus in science?
+
+296
+00:16:33.479 --> 00:16:36.229
+Right, so I mean, obviously what consensus is, is
+
+297
+00:16:36.229 --> 00:16:39.919
+essentially broad agreement among a relevant community about some
+
+298
+00:16:39.919 --> 00:16:41.320
+claim, um, how
+
+299
+00:16:41.320 --> 00:16:45.140
+we but but broad agreement, I mean, does it
+
+300
+00:16:45.140 --> 00:16:50.440
+have to correspond to a particular percentage of the
+
+301
+00:16:50.440 --> 00:16:54.419
+uh the relevant experts agreeing with a particular claim
+
+302
+00:16:54.419 --> 00:16:58.724
+or does the percentage not, Uh, not matter that
+
+303
+00:16:58.724 --> 00:16:59.184
+much.
+
+304
+00:16:59.844 --> 00:17:01.164
+Uh, I mean, I think it's going to be
+
+305
+00:17:01.164 --> 00:17:04.074
+really high, so I think, um, for realistic cases
+
+306
+00:17:04.074 --> 00:17:07.405
+of consensus, like the examples we've been using, dinosaurs
+
+307
+00:17:07.405 --> 00:17:10.944
+existed, for example, um, the relevant percentage is going
+
+308
+00:17:10.944 --> 00:17:15.568
+to be extremely, extremely high, um. But you know
+
+309
+00:17:15.568 --> 00:17:18.558
+if there's, if there's 2 or 3% dissenters on
+
+310
+00:17:18.558 --> 00:17:21.667
+a in a relevant, uh, for a relevant claim
+
+311
+00:17:21.667 --> 00:17:24.928
+in a relevant scientific community, that's, you know, high
+
+312
+00:17:24.928 --> 00:17:28.729
+enough anyways, 97% of members of the community assent,
+
+313
+00:17:28.968 --> 00:17:31.729
+that's really good. Um, IS it sufficient to count
+
+314
+00:17:31.729 --> 00:17:33.848
+as common knowledge? I mean, again, I think they're
+
+315
+00:17:33.848 --> 00:17:38.229
+like it's, it's a. The, the proportion of members
+
+316
+00:17:38.229 --> 00:17:39.900
+of a community that assent to a claim is
+
+317
+00:17:39.900 --> 00:17:42.709
+obviously a gradable property, right? Um, SAME with the
+
+318
+00:17:42.709 --> 00:17:45.020
+proportion of members of a community that, um, assent
+
+319
+00:17:45.020 --> 00:17:47.510
+to the justification for the claim. And so when
+
+320
+00:17:47.510 --> 00:17:50.530
+I, when we have that visual two dimensional graph
+
+321
+00:17:50.949 --> 00:17:53.900
+way of thinking about the, uh, definition of common
+
+322
+00:17:53.900 --> 00:17:58.670
+knowledge. It's, it's common knowledge is claims in the
+
+323
+00:17:58.670 --> 00:18:01.510
+top corner of that, of that graph, but because
+
+324
+00:18:01.510 --> 00:18:03.150
+these are gradable properties, there will be these gray
+
+325
+00:18:03.150 --> 00:18:05.709
+zone cases, 97% might be high enough, but maybe
+
+326
+00:18:05.709 --> 00:18:10.000
+94% won't, um. So these are line drawing problems
+
+327
+00:18:10.000 --> 00:18:11.880
+and line drawing. I'm not too interested in line
+
+328
+00:18:11.880 --> 00:18:15.280
+drawing problems, um, yeah, so then, but your question
+
+329
+00:18:15.280 --> 00:18:20.020
+was how do we get, um, consensus, yeah, and
+
+330
+00:18:20.020 --> 00:18:21.810
+you know there's a variety, variety of ways we,
+
+331
+00:18:21.880 --> 00:18:24.500
+we can get consensus. We can get consensus by,
+
+332
+00:18:24.800 --> 00:18:29.280
+um, genuine epistemic means. So what I mean here
+
+333
+00:18:29.280 --> 00:18:34.339
+is like genuine. Strategies for justification and this is
+
+334
+00:18:34.339 --> 00:18:37.250
+what I argue is like crucial for science. So,
+
+335
+00:18:37.939 --> 00:18:42.349
+um, scientists make a claim, they publicly articulate reasons
+
+336
+00:18:42.349 --> 00:18:45.349
+for that claim. They in so doing, they expose
+
+337
+00:18:45.349 --> 00:18:48.150
+those reasons to criticism, um, so they expose their
+
+338
+00:18:48.150 --> 00:18:53.310
+reasons to criticism, and that allows them to improve
+
+339
+00:18:53.310 --> 00:18:57.170
+upon those reasons, respond to the criticisms, and thereby
+
+340
+00:18:57.170 --> 00:18:59.140
+improve the quality of their, of their reasons for
+
+341
+00:18:59.140 --> 00:19:03.760
+that claim. And that, and that of course occurs
+
+342
+00:19:03.760 --> 00:19:06.510
+in a very kind of networked, you know, like
+
+343
+00:19:06.510 --> 00:19:09.979
+sciences, scientific communities are very networked, they're very social.
+
+344
+00:19:10.599 --> 00:19:13.599
+So multiple teams will be doing this, multiple teams
+
+345
+00:19:13.599 --> 00:19:16.319
+will be generating reasons and generating criticisms for the
+
+346
+00:19:16.319 --> 00:19:19.680
+reasons, and that, that generates a very like, you
+
+347
+00:19:19.680 --> 00:19:24.630
+know, robust kind of justification for scientific claims. There
+
+348
+00:19:24.630 --> 00:19:26.380
+are other ways we can get consensus, so we
+
+349
+00:19:26.380 --> 00:19:28.989
+can get consensus, for example, by propaganda or by
+
+350
+00:19:28.989 --> 00:19:34.469
+bullying, um, and those are of course epistemically inappropriate
+
+351
+00:19:34.469 --> 00:19:36.949
+ways to get consensus. If you, if we try
+
+352
+00:19:36.949 --> 00:19:40.239
+to get consensus by bullying or by propaganda, um,
+
+353
+00:19:40.670 --> 00:19:42.689
+we're doing so in a way that doesn't provide
+
+354
+00:19:43.109 --> 00:19:48.150
+genuine justification for the claims at stake. So the
+
+355
+00:19:48.150 --> 00:19:52.189
+kind of consensus that that science um needs and
+
+356
+00:19:52.189 --> 00:19:57.589
+routinely gets is consensus that's based on um genuine
+
+357
+00:19:57.589 --> 00:20:01.310
+modes of justification in this sort of public sphere.
+
+358
+00:20:01.920 --> 00:20:02.469
+Mhm.
+
+359
+00:20:02.920 --> 00:20:05.959
+Uh, AND, uh, another concept I would like to
+
+360
+00:20:05.959 --> 00:20:09.119
+clarify here is the one of justification. You also
+
+361
+00:20:09.119 --> 00:20:12.079
+use that term and it is a very important
+
+362
+00:20:12.079 --> 00:20:14.280
+aspect of your book and we're going to get
+
+363
+00:20:14.280 --> 00:20:17.219
+more into that. But what do you mean by
+
+364
+00:20:17.439 --> 00:20:20.920
+justification and why do you focus so much on
+
+365
+00:20:20.920 --> 00:20:22.339
+it in your book?
+
+366
+00:20:22.800 --> 00:20:27.689
+Yeah, thanks. So. Right, I'm arguing that the kind
+
+367
+00:20:27.689 --> 00:20:29.930
+of slogan of the book is, is that the
+
+368
+00:20:29.930 --> 00:20:33.689
+heart of science is justification. Um, SO justification is
+
+369
+00:20:33.689 --> 00:20:38.979
+this crucial notion in the book, um. We can
+
+370
+00:20:38.979 --> 00:20:45.660
+understand justification, however, in relatively non-technical ways. Justification in
+
+371
+00:20:45.660 --> 00:20:49.180
+science is essentially the provision of reasons for some
+
+372
+00:20:49.180 --> 00:20:54.079
+claim. So, um, you know, you've got, when you
+
+373
+00:20:54.079 --> 00:20:56.079
+make a prediction about what the weather is going
+
+374
+00:20:56.079 --> 00:20:59.790
+to be like in Portugal tomorrow, um, you're doing
+
+375
+00:20:59.790 --> 00:21:02.479
+it on the basis of some reasons. Some of
+
+376
+00:21:02.479 --> 00:21:05.319
+those reasons are better, some are worse, um, and
+
+377
+00:21:05.319 --> 00:21:08.680
+if those reasons are indeed, you know, uh, they're,
+
+378
+00:21:08.719 --> 00:21:11.839
+they're justificatory if they provide good grounds for your
+
+379
+00:21:11.839 --> 00:21:15.280
+prediction about the weather. Science, of course, like scientific
+
+380
+00:21:15.280 --> 00:21:18.489
+practice is, is just shot through with the provision
+
+381
+00:21:18.489 --> 00:21:22.599
+of putative justifications for various claims. So you provide
+
+382
+00:21:22.599 --> 00:21:25.839
+evidence for some, for some theory, uh, you provide
+
+383
+00:21:25.839 --> 00:21:29.160
+a logical argument or mathematical argument buttressed by some
+
+384
+00:21:29.160 --> 00:21:34.140
+empirical evidence, um, that gets you justification, um. So
+
+385
+00:21:34.140 --> 00:21:37.849
+we can think about justification as essentially like an
+
+386
+00:21:37.849 --> 00:21:41.180
+argument in the philosopher's sense, namely the provision of
+
+387
+00:21:41.180 --> 00:21:46.260
+reasons, empirical, mathematical, theoretical for some claim about the
+
+388
+00:21:46.260 --> 00:21:47.319
+way the world is.
+
+389
+00:21:49.040 --> 00:21:51.609
+Uh, AND, uh, in the book, uh, I would
+
+390
+00:21:51.609 --> 00:21:53.989
+like to ask you about this because it's a
+
+391
+00:21:53.989 --> 00:21:57.770
+very interesting, uh, claim. Uh, YOU, you claim that
+
+392
+00:21:57.770 --> 00:22:01.810
+scientific testimony should not be based on whether the
+
+393
+00:22:01.810 --> 00:22:06.589
+scientific work and the evaluation has achieved its aim,
+
+394
+00:22:07.130 --> 00:22:11.810
+but rather on justifying scientific claims. Could, could you
+
+395
+00:22:11.810 --> 00:22:12.469
+explain that?
+
+396
+00:22:12.969 --> 00:22:16.650
+Yes, good, yeah. So actually there's a um so
+
+397
+00:22:16.650 --> 00:22:18.530
+what you just said is is right about one
+
+398
+00:22:18.530 --> 00:22:21.089
+of the chapters, but that general principle is something
+
+399
+00:22:21.089 --> 00:22:24.329
+that I'm applying to um many different ideas in
+
+400
+00:22:24.329 --> 00:22:27.719
+science. So the general idea is, um, although I
+
+401
+00:22:27.719 --> 00:22:30.859
+argue that the constitutive aim of science is common
+
+402
+00:22:30.859 --> 00:22:35.609
+knowledge, I go on further to argue that for
+
+403
+00:22:35.609 --> 00:22:43.790
+any evaluative. Principle about science, the, the principle itself
+
+404
+00:22:44.290 --> 00:22:46.650
+should not be based on whether or not some
+
+405
+00:22:46.650 --> 00:22:49.650
+scientific work achieves the aim, but rather it should
+
+406
+00:22:49.650 --> 00:22:54.250
+be based on the quality of justification for the
+
+407
+00:22:54.250 --> 00:22:59.500
+claims being made. So in other words, Good science
+
+408
+00:22:59.880 --> 00:23:04.859
+in whatever kind of goodness we're assessing, good science
+
+409
+00:23:05.199 --> 00:23:07.709
+should justify its claims, but it doesn't have to
+
+410
+00:23:07.709 --> 00:23:12.209
+attain its aims. That's the slogan. Um, SO if
+
+411
+00:23:12.209 --> 00:23:15.489
+we're speaking about good scientific testimony, for example, like
+
+412
+00:23:15.489 --> 00:23:19.449
+some scientist makes some claim about the world to
+
+413
+00:23:19.489 --> 00:23:22.930
+a scientific journal or to a policymaker or in
+
+414
+00:23:22.930 --> 00:23:27.890
+a public relations campaign, in a, you know, a
+
+415
+00:23:27.890 --> 00:23:30.390
+press conference or writes an article for The New
+
+416
+00:23:30.390 --> 00:23:32.969
+York Times, whenever a scientist is making a claim
+
+417
+00:23:32.969 --> 00:23:37.699
+about the world. Our evaluation of that claim should
+
+418
+00:23:37.699 --> 00:23:40.579
+just always be based on the extent to which
+
+419
+00:23:40.579 --> 00:23:44.819
+that claim is justified. Now there are more nuances
+
+420
+00:23:44.819 --> 00:23:47.400
+than this, but that that's, that's the core idea.
+
+421
+00:23:48.729 --> 00:23:51.739
+So It should not be based on whether or
+
+422
+00:23:51.739 --> 00:23:54.020
+not the claim is true, and there's a bunch
+
+423
+00:23:54.020 --> 00:23:57.739
+of reasons for this, but the main idea is
+
+424
+00:23:57.739 --> 00:24:01.699
+that, you know, truth in science is determined typically
+
+425
+00:24:01.699 --> 00:24:07.380
+retrospectively, so it took, for example, many decades for
+
+426
+00:24:07.380 --> 00:24:11.449
+us to finally come to accept the Copernican theory
+
+427
+00:24:11.449 --> 00:24:16.290
+of the solar system. So truth is decided retrospectively,
+
+428
+00:24:16.670 --> 00:24:21.739
+but we want modes of assessing science for science
+
+429
+00:24:21.750 --> 00:24:25.119
+in real time. So our principles for assessing good
+
+430
+00:24:25.119 --> 00:24:28.969
+science, good scientific testimony, um, bad science is this
+
+431
+00:24:28.969 --> 00:24:33.329
+pseudoscience. We want to be able to assess. Real-time
+
+432
+00:24:33.329 --> 00:24:40.300
+science, um, and real-time science is accessible. According to
+
+433
+00:24:40.300 --> 00:24:42.449
+the extent to which that science is justified, that
+
+434
+00:24:42.449 --> 00:24:45.250
+scientific work is justified, rather than whether or not
+
+435
+00:24:45.250 --> 00:24:45.939
+it's true.
+
+436
+00:24:46.709 --> 00:24:51.180
+Mhm. And of course, we are talking about epistemology
+
+437
+00:24:51.180 --> 00:24:55.260
+here, but would you also, in this, in this
+
+438
+00:24:55.260 --> 00:24:57.920
+case when it comes to the aim of science,
+
+439
+00:24:58.180 --> 00:25:01.849
+because, uh, I mean, we live in a particular,
+
+440
+00:25:02.109 --> 00:25:07.060
+uh, economic system, in a particular sociopolitical system that,
+
+441
+00:25:07.380 --> 00:25:10.939
+uh, I mean, for, for example, most of the
+
+442
+00:25:10.939 --> 00:25:14.770
+time for scientists to be able to properly conduct
+
+443
+00:25:14.770 --> 00:25:17.484
+their work, they have to have. Access to particular
+
+444
+00:25:17.484 --> 00:25:22.204
+funds and they have to justify why the research
+
+445
+00:25:22.204 --> 00:25:26.964
+they're going to conduct is necessary and many times
+
+446
+00:25:26.964 --> 00:25:31.685
+that is justified in economic terms because it will
+
+447
+00:25:31.685 --> 00:25:35.805
+eventually produce certain economic gains and so on. I
+
+448
+00:25:35.805 --> 00:25:41.324
+mean when it comes to scientific, uh, the production
+
+449
+00:25:41.324 --> 00:25:48.489
+of scientific knowledge. And focusing exclusively on epistemology, uh,
+
+450
+00:25:48.540 --> 00:25:53.599
+that is, that shouldn't even be relevant, right? Whether,
+
+451
+00:25:53.900 --> 00:25:58.439
+uh, a partic whether a particular piece of knowledge
+
+452
+00:25:59.209 --> 00:26:04.859
+has some, uh, economic or produces economic benefits or
+
+453
+00:26:04.859 --> 00:26:08.979
+not, right? I mean that that's not particularly uh
+
+454
+00:26:08.979 --> 00:26:10.020
+relevant here.
+
+455
+00:26:10.699 --> 00:26:13.739
+Yeah, good. So that's, this is a really important
+
+456
+00:26:13.739 --> 00:26:17.619
+question. And my own view is that the answer
+
+457
+00:26:17.619 --> 00:26:20.079
+to your question is yes, right. It's, it's, it's,
+
+458
+00:26:20.140 --> 00:26:23.400
+it's not relevant when we're speaking about the constitutive
+
+459
+00:26:23.400 --> 00:26:26.660
+aim of science. Yeah. Now, of course, it's true
+
+460
+00:26:26.660 --> 00:26:31.469
+that um science often leads to. Um, MATERIAL benefits,
+
+461
+00:26:31.589 --> 00:26:35.000
+practical benefits, technologies, um, that, that's of course true,
+
+462
+00:26:35.069 --> 00:26:37.390
+and of course that those benefits can be a
+
+463
+00:26:37.390 --> 00:26:40.510
+reason to do science, um, that's of course true,
+
+464
+00:26:41.250 --> 00:26:45.810
+uh, and insofar as, you know, taxpayers are supporting,
+
+465
+00:26:46.890 --> 00:26:51.310
+uh, publicly funded scientists, then taxpayers can expect that
+
+466
+00:26:51.500 --> 00:26:54.430
+the kind of science that they're supporting will at
+
+467
+00:26:54.430 --> 00:26:58.959
+least sometimes have in the long run. Practical payoffs
+
+468
+00:26:58.969 --> 00:27:03.050
+for the society that's um funding that scientific work.
+
+469
+00:27:03.489 --> 00:27:09.270
+So, so that's all true, um. But when we're
+
+470
+00:27:09.270 --> 00:27:12.170
+speaking about, you know, science as, as an institution
+
+471
+00:27:12.170 --> 00:27:17.560
+as such, um. We can conceive of the constitutive
+
+472
+00:27:17.560 --> 00:27:22.439
+aim of science in these purely epistemic terms rather
+
+473
+00:27:22.439 --> 00:27:24.079
+than practical terms, yeah.
+
+474
+00:27:24.609 --> 00:27:26.400
+Yeah, yeah, but no, I just wanted to ask
+
+475
+00:27:26.400 --> 00:27:29.619
+you that because, you know, nowadays because of the
+
+476
+00:27:30.040 --> 00:27:34.439
+economic system we live in, uh, sometimes and because
+
+477
+00:27:34.439 --> 00:27:37.430
+particularly, I mean this is more of a personal
+
+478
+00:27:37.430 --> 00:27:41.800
+thing, but I just love knowledge for knowledge's sake.
+
+479
+00:27:41.880 --> 00:27:44.760
+I mean, for me it's many times it's a
+
+480
+00:27:44.760 --> 00:27:51.719
+bit frustrating how people want to or try to.
+
+481
+00:27:51.915 --> 00:27:57.314
+Reduce all scientific knowledge or all the relevance of
+
+482
+00:27:57.314 --> 00:28:01.954
+science and even philosophy to whether it produces some
+
+483
+00:28:01.954 --> 00:28:04.675
+form of economic value or not, and I, I,
+
+484
+00:28:04.795 --> 00:28:09.055
+I think that's not the way we should approach
+
+485
+00:28:09.635 --> 00:28:13.994
+epistemology and the production of knowledge, whether it is
+
+486
+00:28:13.994 --> 00:28:18.185
+scientific or philosophical or any other sort of knowledge,
+
+487
+00:28:18.435 --> 00:28:18.734
+so.
+
+488
+00:28:19.579 --> 00:28:22.579
+Yeah, I think that's exactly right. So, um, you
+
+489
+00:28:22.579 --> 00:28:24.660
+know, what one of our well-known colleagues in philosophy
+
+490
+00:28:24.660 --> 00:28:27.280
+of science, a very, a very eminent colleague, uh,
+
+491
+00:28:27.500 --> 00:28:31.180
+Philip Kitcher has this argument that, um, science should
+
+492
+00:28:31.180 --> 00:28:34.579
+be, uh, aiming to discover what he calls significant
+
+493
+00:28:34.579 --> 00:28:40.410
+truths, and for him significance has, Two basic basic
+
+494
+00:28:40.410 --> 00:28:43.390
+properties or you get significance through um sort of
+
+495
+00:28:43.770 --> 00:28:48.089
+22 possibilities. One is if the scientific work can
+
+496
+00:28:48.089 --> 00:28:50.209
+have practical payoffs, but the other is if it
+
+497
+00:28:50.209 --> 00:28:52.489
+can sort of satisfy a sort of basic intellectual
+
+498
+00:28:52.489 --> 00:28:56.300
+curiosity. Um, NOW there are various constraints on that.
+
+499
+00:28:56.420 --> 00:28:58.849
+So for example, you could imagine a scientist who
+
+500
+00:28:58.849 --> 00:29:02.979
+has this sort of like perverse goal of counting
+
+501
+00:29:02.979 --> 00:29:05.020
+the number of grains of sand on a particular
+
+502
+00:29:05.020 --> 00:29:07.380
+beach, right? So he's just curious about that. It's
+
+503
+00:29:07.380 --> 00:29:09.000
+clearly not going to have any payoff for anybody,
+
+504
+00:29:09.489 --> 00:29:11.849
+um, but that that particular scientist is, is just
+
+505
+00:29:11.849 --> 00:29:15.219
+curious about that. Um, PRESUMABLY we'd want to say
+
+506
+00:29:15.219 --> 00:29:19.920
+that, um, That curiosity is misdirected. It's certainly not
+
+507
+00:29:19.920 --> 00:29:25.339
+worth supporting through any, you know, government funded research
+
+508
+00:29:25.609 --> 00:29:30.109
+dollars. Um, SO, so there's got to be constraints
+
+509
+00:29:30.109 --> 00:29:34.520
+on the kinds of curiosity that, that are sufficient
+
+510
+00:29:34.520 --> 00:29:37.310
+to really motivate a scientific project and the support
+
+511
+00:29:37.310 --> 00:29:41.599
+of that scientific project. Typically some candidate constraints are
+
+512
+00:29:41.599 --> 00:29:47.119
+basically like broad. Theoretical knowledge that unifies or or
+
+513
+00:29:47.130 --> 00:29:50.459
+or makes more coherent our our broad set of
+
+514
+00:29:50.459 --> 00:29:52.979
+scientific claims about the world, so you know it
+
+515
+00:29:52.979 --> 00:29:54.939
+doesn't really matter how many grains of sand there
+
+516
+00:29:54.939 --> 00:29:56.900
+are on this particular beach, knowing that it's not
+
+517
+00:29:56.900 --> 00:29:58.579
+going to help us sort of figure out anything
+
+518
+00:29:58.579 --> 00:30:00.180
+else about the world, yeah.
+
+519
+00:30:01.459 --> 00:30:03.420
+Yeah, yeah, I, I, I mean, but, uh, that,
+
+520
+00:30:03.500 --> 00:30:07.359
+that's perhaps, uh, that, that example of counting the
+
+521
+00:30:07.359 --> 00:30:09.560
+grains of sand in a beach. I mean, that's,
+
+522
+00:30:09.689 --> 00:30:13.300
+uh, uh, uh, an, an exaggerated example because I
+
+523
+00:30:13.300 --> 00:30:17.329
+mean, I don't think that. Anyone would, would, would
+
+524
+00:30:17.329 --> 00:30:21.050
+really be, uh, genuinely interested in that. I mean,
+
+525
+00:30:21.130 --> 00:30:23.290
+I, I was just trying to make the point
+
+526
+00:30:23.290 --> 00:30:28.250
+that many times even when it comes to very
+
+527
+00:30:28.250 --> 00:30:32.689
+abstract things like, for example, the theoretical foundations of
+
+528
+00:30:32.689 --> 00:30:36.479
+a particular scientific field. I mean, sometimes that's a,
+
+529
+00:30:36.569 --> 00:30:41.420
+a really necessary work, but the economic Payoff is
+
+530
+00:30:41.420 --> 00:30:44.550
+not obvious at all, and I, I mean it's
+
+531
+00:30:44.550 --> 00:30:46.939
+still work that needs to be done if we
+
+532
+00:30:46.939 --> 00:30:51.780
+are to conduct ourselves in a proper scientific way,
+
+533
+00:30:51.819 --> 00:30:52.439
+I guess.
+
+534
+00:30:52.900 --> 00:30:55.339
+That's absolutely right, yeah, and you know, we are
+
+535
+00:30:55.339 --> 00:30:58.579
+curious kinds of creatures, right? We want to understand
+
+536
+00:30:58.579 --> 00:31:01.420
+ourselves, not because that's going to make us richer
+
+537
+00:31:01.420 --> 00:31:05.000
+or or live longer, right, but we're just genuinely
+
+538
+00:31:05.000 --> 00:31:08.959
+curious. Agents that want to understand where we've come
+
+539
+00:31:08.959 --> 00:31:12.109
+from, uh, what's out there in the world, what's
+
+540
+00:31:12.109 --> 00:31:13.680
+out there in the, in the, you know, the
+
+541
+00:31:13.680 --> 00:31:17.599
+stars above, um, how to be a good person,
+
+542
+00:31:17.880 --> 00:31:19.319
+where do we get meaning in life, you know,
+
+543
+00:31:19.400 --> 00:31:21.680
+there's all these like really deep questions that people
+
+544
+00:31:21.680 --> 00:31:25.280
+are genuinely curious about, um, regardless of any kind
+
+545
+00:31:25.280 --> 00:31:26.619
+of practical payoffs, yeah, yeah.
+
+546
+00:31:27.670 --> 00:31:30.410
+Uh, SO, uh, in the book and going back
+
+547
+00:31:30.410 --> 00:31:32.930
+to what we were talking about in terms of,
+
+548
+00:31:33.109 --> 00:31:36.239
+uh, justification and, uh, what, uh, and the aims
+
+549
+00:31:36.239 --> 00:31:38.589
+of science and all of that, uh, in the
+
+550
+00:31:38.589 --> 00:31:44.869
+book you suggested deontic rather than a consequentialist evaluation
+
+551
+00:31:44.869 --> 00:31:47.589
+of science. So what do you mean by that
+
+552
+00:31:47.589 --> 00:31:48.119
+exactly?
+
+553
+00:31:48.510 --> 00:31:51.550
+Yeah, yeah, thanks. So these are, these are philosophical
+
+554
+00:31:51.550 --> 00:31:56.770
+terms of art, deontic and consequentialist. And these terms,
+
+555
+00:31:56.780 --> 00:31:59.890
+I'm, I'm using to get at that idea that
+
+556
+00:31:59.890 --> 00:32:01.770
+we, that we were getting at a few minutes
+
+557
+00:32:01.770 --> 00:32:06.939
+ago, um, that is. Evaluation of science in any
+
+558
+00:32:06.939 --> 00:32:10.239
+kind of mode of evaluation should be focused on
+
+559
+00:32:10.619 --> 00:32:17.880
+the extent to which Scientific work satisfies various justificatory
+
+560
+00:32:17.959 --> 00:32:22.349
+principles rather than the extent to which science achieves
+
+561
+00:32:22.349 --> 00:32:27.739
+its aim. So, so that's the general idea. Yeah.
+
+562
+00:32:28.680 --> 00:32:31.520
+So I, I take that distinction between deontic or
+
+563
+00:32:31.520 --> 00:32:35.619
+deontological. Sometimes, sometimes you hear that term and consequentialist.
+
+564
+00:32:35.719 --> 00:32:39.199
+Those are terms of art from ethics. So a
+
+565
+00:32:39.199 --> 00:32:42.739
+deontic ethics is an ethics that's focused on, um.
+
+566
+00:32:44.000 --> 00:32:49.550
+Proper right behavior that follows principles rather and whereas
+
+567
+00:32:49.550 --> 00:32:54.339
+consequentialist ethics focuses on, um, you know, um. You,
+
+568
+00:32:54.349 --> 00:32:57.209
+you, it, it basically is the idea that the,
+
+569
+00:32:57.250 --> 00:33:00.709
+the right act in any decision is the act
+
+570
+00:33:00.709 --> 00:33:03.530
+that you know maximizes good consequences, even if maximizing
+
+571
+00:33:03.530 --> 00:33:07.569
+good consequences violates certain principles. So that's the distinction
+
+572
+00:33:07.569 --> 00:33:10.229
+and I just apply that distinction to judging science.
+
+573
+00:33:11.050 --> 00:33:13.930
+Yeah, but, but in this case, you, it's in
+
+574
+00:33:13.930 --> 00:33:19.130
+epistemological terms, right, you're using theontic and consequentialist. Uh,
+
+575
+00:33:19.430 --> 00:33:23.689
+WITHIN the domain of epistemology and so it's not
+
+576
+00:33:23.689 --> 00:33:26.530
+a moral or ethical evaluation of science,
+
+577
+00:33:26.729 --> 00:33:27.550
+right, right,
+
+578
+00:33:29.089 --> 00:33:32.150
+yeah, uh, and what do you make of factive
+
+579
+00:33:32.780 --> 00:33:34.810
+approaches to science? I mean, first of all, what
+
+580
+00:33:34.810 --> 00:33:38.089
+is effective approach and then, uh, what do you
+
+581
+00:33:38.089 --> 00:33:39.000
+make of it?
+
+582
+00:33:39.489 --> 00:33:45.390
+OK, right, so this question is getting into some.
+
+583
+00:33:46.040 --> 00:33:51.400
+Is a a pretty fine grained. Uh, ISSUE for
+
+584
+00:33:51.400 --> 00:34:00.790
+epistemologists, um, so. Factive approaches to epistemology broadly say
+
+585
+00:34:01.170 --> 00:34:08.409
+that um our evaluative stance for some domain should
+
+586
+00:34:08.409 --> 00:34:12.899
+be based on. Whether or not Some agent in
+
+587
+00:34:12.899 --> 00:34:16.780
+that domain is getting at the truth or speaking
+
+588
+00:34:16.780 --> 00:34:20.139
+the truth. Um, THAT'S what factive means. So a
+
+589
+00:34:20.139 --> 00:34:22.978
+factive claim about testimony, like a factive view about
+
+590
+00:34:22.978 --> 00:34:27.500
+testimony, says that appropriate, like testimony is appropriate only
+
+591
+00:34:27.500 --> 00:34:32.280
+if the testimony is true. Um, SO that's what
+
+592
+00:34:32.580 --> 00:34:40.779
+the term factive means. For epistemologists, yeah, and now
+
+593
+00:34:40.779 --> 00:34:42.498
+are you asking me to, so I mean I
+
+594
+00:34:42.498 --> 00:34:44.128
+can go on here, so I, um,
+
+595
+00:34:44.717 --> 00:34:47.158
+yeah, because the other part of my question was
+
+596
+00:34:47.888 --> 00:34:52.688
+what do you make of effective approach to science,
+
+597
+00:34:53.138 --> 00:34:58.379
+right, yeah, exactly, OK, so. For any feature of
+
+598
+00:34:58.379 --> 00:35:01.139
+science that we would be thinking about from a
+
+599
+00:35:01.139 --> 00:35:04.659
+philosophical point of view, like for example, scientific progress,
+
+600
+00:35:04.770 --> 00:35:09.719
+what is scientific progress or appropriate scientific testimony, when
+
+601
+00:35:09.719 --> 00:35:13.419
+is scientific testimony appropriate, when is it inappropriate, um.
+
+602
+00:35:15.429 --> 00:35:18.159
+We can take a factive approach to those questions,
+
+603
+00:35:18.600 --> 00:35:25.250
+so a factive. POSITION on scientific progress would say
+
+604
+00:35:25.459 --> 00:35:28.290
+science makes progress when it accumulates facts, when it
+
+605
+00:35:28.290 --> 00:35:30.830
+accumulates true claims about the world, so that's a
+
+606
+00:35:30.830 --> 00:35:35.500
+fact of Theory about scientific progress or a factive
+
+607
+00:35:35.500 --> 00:35:40.260
+theory about scientific assertion says or testimony, scientific testimony
+
+608
+00:35:40.260 --> 00:35:44.899
+is appropriate only if that testimony asserts facts, asserts
+
+609
+00:35:44.899 --> 00:35:49.139
+truths. So those are factive views about science and
+
+610
+00:35:49.139 --> 00:35:53.729
+they're very popular among epistemologists. And philosophers of science.
+
+611
+00:35:54.090 --> 00:35:59.590
+So the most, the, the most common theories of
+
+612
+00:36:00.040 --> 00:36:04.010
+scientific progress among philosophers are factive, and the most
+
+613
+00:36:04.010 --> 00:36:10.010
+common theories about testimony among epistemologists are factive. Now,
+
+614
+00:36:10.370 --> 00:36:12.370
+I spent a chapter in the book arguing against
+
+615
+00:36:12.370 --> 00:36:16.370
+these um epistemologies. I, I, I spent a chapter
+
+616
+00:36:16.370 --> 00:36:22.689
+arguing that factive approaches to scientific evaluation. ARE inappropriate.
+
+617
+00:36:23.350 --> 00:36:26.629
+Um, WE should have, we should be non. Factivists,
+
+618
+00:36:26.709 --> 00:36:33.139
+we should have non-factive, um, evaluative. Norms or principles,
+
+619
+00:36:33.439 --> 00:36:36.540
+um, what do I mean by nonfactive? I mean,
+
+620
+00:36:37.969 --> 00:36:41.360
+Evaluative principles that are based on the extent to
+
+621
+00:36:41.360 --> 00:36:45.409
+which scientific work is justified rather than um the
+
+622
+00:36:45.409 --> 00:36:47.610
+extent to which that science gets at the at
+
+623
+00:36:47.610 --> 00:36:49.889
+the truth, that's that's the general idea.
+
+624
+00:36:51.270 --> 00:36:56.370
+And you mentioned scientific testimony. Which features do you
+
+625
+00:36:56.370 --> 00:37:00.489
+think good scientific testimony should have then?
+
+626
+00:37:01.290 --> 00:37:07.330
+OK, yeah, OK, thanks. So, I think Assertion in
+
+627
+00:37:07.330 --> 00:37:12.090
+general and especially scientific assertion or scientific testimony. There
+
+628
+00:37:12.090 --> 00:37:18.290
+are 2 good making features. Of scientific testimony, and
+
+629
+00:37:18.290 --> 00:37:21.419
+I think in testimony in general. One is that
+
+630
+00:37:21.419 --> 00:37:24.939
+the testimony be justified, uh, so if somebody tells
+
+631
+00:37:24.939 --> 00:37:29.540
+you that, um, the weather in Lisbon tomorrow is
+
+632
+00:37:29.540 --> 00:37:32.540
+going to be sunny, you want that claim to
+
+633
+00:37:32.540 --> 00:37:34.290
+be justified, right? They're making a claim about the
+
+634
+00:37:34.290 --> 00:37:36.139
+way the world is. You want them to have
+
+635
+00:37:36.139 --> 00:37:37.659
+good reasons for that claim, you don't want them
+
+636
+00:37:37.659 --> 00:37:40.699
+to just be making it up, lying, or making
+
+637
+00:37:40.699 --> 00:37:45.070
+it, or maybe they had. Uh, SOME weather report
+
+638
+00:37:45.070 --> 00:37:48.550
+from a notoriously unreliable weather forecaster, right? You want
+
+639
+00:37:48.550 --> 00:37:50.550
+them to have good reasons, reliable reasons for what
+
+640
+00:37:50.550 --> 00:37:52.780
+they're saying. That's like the good making feature number
+
+641
+00:37:52.780 --> 00:37:56.239
+1. Good making feature number 2 is that the,
+
+642
+00:37:57.810 --> 00:38:03.889
+Information that's being asserted be truly informative. Now notice
+
+643
+00:38:03.889 --> 00:38:08.389
+that. Um, The degree of justification of a claim
+
+644
+00:38:08.389 --> 00:38:10.909
+and the degree of informativeness of a claim can
+
+645
+00:38:10.909 --> 00:38:15.120
+trade off against each other because We can artificially
+
+646
+00:38:15.120 --> 00:38:21.310
+make. Testimony more justified by making it vaguer and
+
+647
+00:38:21.310 --> 00:38:25.330
+vaguer and basically hedging our claims. So for example,
+
+648
+00:38:26.229 --> 00:38:28.389
+if you ask your friend what the weather is
+
+649
+00:38:28.389 --> 00:38:29.989
+going to be like in Lisbon tomorrow and they
+
+650
+00:38:29.989 --> 00:38:34.610
+say, um, they could say something like, it's either
+
+651
+00:38:34.610 --> 00:38:36.189
+going to be rainy or it's not going to
+
+652
+00:38:36.189 --> 00:38:39.159
+be rainy. I mean that's like logically true, right,
+
+653
+00:38:39.270 --> 00:38:41.989
+so it's like maximally justified, but it's not informative,
+
+654
+00:38:42.050 --> 00:38:43.510
+it's not going to help you decide whether or
+
+655
+00:38:43.510 --> 00:38:45.429
+not you should carry the umbrella, right? Or if
+
+656
+00:38:45.429 --> 00:38:48.149
+they say to you, it's going to be greater
+
+657
+00:38:48.149 --> 00:38:54.350
+than 0 °C, right, that's really well justified as
+
+658
+00:38:54.350 --> 00:38:56.110
+a prediction about what the weather in Lisbon's going
+
+659
+00:38:56.110 --> 00:38:58.909
+to be like in April. But it's not informative
+
+660
+00:38:58.909 --> 00:39:00.469
+at all, right? Because it doesn't tell you like
+
+661
+00:39:00.469 --> 00:39:02.870
+should you carry a sweater or an umbrella or
+
+662
+00:39:02.870 --> 00:39:06.080
+something like that. Um, SO there, there are these
+
+663
+00:39:06.080 --> 00:39:11.669
+two properties, justification and informativeness about assertion in general
+
+664
+00:39:11.669 --> 00:39:14.030
+and scientific assertion in particular. They can trade off
+
+665
+00:39:14.030 --> 00:39:17.439
+against each other, and what we want is scientific
+
+666
+00:39:17.439 --> 00:39:22.189
+testimony that tries to maximize both. And I, I
+
+667
+00:39:22.189 --> 00:39:26.040
+give An argument in the book that justification has
+
+668
+00:39:26.040 --> 00:39:29.080
+some degree of priority over informativeness. So if we
+
+669
+00:39:29.080 --> 00:39:30.320
+have to give up one, we can give up
+
+670
+00:39:30.320 --> 00:39:35.570
+informativeness, but we Always want our scientific testimony to
+
+671
+00:39:35.570 --> 00:39:39.510
+be um well justified. Mhm.
+
+672
+00:39:40.330 --> 00:39:42.090
+So I would like to ask you a little
+
+673
+00:39:42.090 --> 00:39:45.689
+bit about the demarcation problem. This is uh something
+
+674
+00:39:45.689 --> 00:39:48.050
+that in the philosophy of science, a topic in
+
+675
+00:39:48.050 --> 00:39:50.530
+the philosophy of science that I've explored on the
+
+676
+00:39:50.530 --> 00:39:55.449
+shows in several different uh interviews, but, uh, what
+
+677
+00:39:55.449 --> 00:39:57.649
+do you make of it? I mean, how should
+
+678
+00:39:57.649 --> 00:40:02.050
+we address the problem of Trying to demarcate science
+
+679
+00:40:02.050 --> 00:40:08.770
+from pseudoscience or and or anti-science because sometimes people
+
+680
+00:40:08.770 --> 00:40:13.169
+also, uh, distinguish between pseudoscience and anti-science. I mean,
+
+681
+00:40:13.570 --> 00:40:16.379
+what, how do you approach that problem?
+
+682
+00:40:17.449 --> 00:40:20.820
+OK, good. Um, THIS is a great question, and
+
+683
+00:40:20.820 --> 00:40:25.629
+it's a very rich question. So, um, The demarcation
+
+684
+00:40:25.629 --> 00:40:29.669
+problem has been a canonical problem, a canonical topic
+
+685
+00:40:29.669 --> 00:40:32.469
+for philosophers of science. So, you know, introductions to
+
+686
+00:40:32.469 --> 00:40:36.290
+philosophy of science courses in universities always will teach
+
+687
+00:40:36.389 --> 00:40:39.850
+the demarcation problem. Uh, IT was a very important
+
+688
+00:40:40.580 --> 00:40:43.629
+question for philosophers of science in the early decades
+
+689
+00:40:43.629 --> 00:40:47.370
+of the 20th century through the mid-decades and later,
+
+690
+00:40:47.919 --> 00:40:51.040
+um. So we always teach it to students. There
+
+691
+00:40:51.040 --> 00:40:53.199
+are a few kind of big heroes in that
+
+692
+00:40:53.199 --> 00:40:56.360
+topic. Uh, Karl Popper is one of the common
+
+693
+00:40:56.360 --> 00:41:00.659
+names that comes up. Popper, um, in a sense,
+
+694
+00:41:00.679 --> 00:41:03.120
+put the demarcation problem on the map, so to
+
+695
+00:41:03.120 --> 00:41:07.389
+speak, and he had his own view, a theory
+
+696
+00:41:07.389 --> 00:41:13.360
+of demarcation that's sometimes called falsificationism. His view is
+
+697
+00:41:13.360 --> 00:41:18.360
+that good scientific work should be falsifiable, that is,
+
+698
+00:41:19.179 --> 00:41:21.199
+When a scientist makes a claim about the world,
+
+699
+00:41:22.100 --> 00:41:24.020
+that claim, there's got to be a possible way
+
+700
+00:41:24.020 --> 00:41:26.379
+in which we can discover that that claim is
+
+701
+00:41:26.379 --> 00:41:34.860
+false, um. And It does look like that is
+
+702
+00:41:34.860 --> 00:41:38.870
+a desirable property of theories. Now what happened after
+
+703
+00:41:38.870 --> 00:41:44.080
+Popper is that Philosophers made it their business of
+
+704
+00:41:44.080 --> 00:41:47.689
+criticizing Popper's view, and it was fashionable for, for
+
+705
+00:41:47.689 --> 00:41:52.780
+many decades to point out problems with Popper's view.
+
+706
+00:41:53.239 --> 00:41:57.010
+It's interesting because Popper's view, this falsificationism view, um,
+
+707
+00:41:57.120 --> 00:42:00.280
+got a lot of traction with scientists. So many
+
+708
+00:42:00.280 --> 00:42:03.600
+scientists think that Popper was right, uh, falsificationism is
+
+709
+00:42:03.600 --> 00:42:06.260
+right. You'll hear scient in your interviews with scientists,
+
+710
+00:42:06.310 --> 00:42:07.479
+you probably get this all the time.
+
+711
+00:42:07.959 --> 00:42:10.399
+No, no, I mean that's, that's totally true. I
+
+712
+00:42:10.399 --> 00:42:14.159
+mean, I, I many times I hear scientists or
+
+713
+00:42:14.159 --> 00:42:18.500
+even science communicators just think is is just assuming
+
+714
+00:42:18.760 --> 00:42:22.790
+that false. Falsificationism is true and is the correct
+
+715
+00:42:22.790 --> 00:42:26.610
+criterion and even the only criterion to have in
+
+716
+00:42:26.610 --> 00:42:30.250
+science because they're not even aware of the discussions
+
+717
+00:42:30.250 --> 00:42:32.000
+among philosophers of science.
+
+718
+00:42:32.169 --> 00:42:34.449
+So yeah, yeah, that's right. And Popper, I mean,
+
+719
+00:42:34.530 --> 00:42:37.570
+Popper's view was appealing. Um, THERE are, there are
+
+720
+00:42:37.570 --> 00:42:41.169
+good, good things about it. You know, to give
+
+721
+00:42:41.169 --> 00:42:44.870
+one kind of, uh, just to give the viewers
+
+722
+00:42:44.870 --> 00:42:47.790
+of your show a little bit of like sense
+
+723
+00:42:47.790 --> 00:42:51.290
+of, of how this debate has gone. Um You
+
+724
+00:42:51.290 --> 00:42:55.030
+know, one of Popper's concerns was that when people
+
+725
+00:42:55.649 --> 00:42:57.810
+don't try to falsify their work, when they go
+
+726
+00:42:57.810 --> 00:43:00.090
+around trying to just like find evidence that supports
+
+727
+00:43:00.090 --> 00:43:02.370
+their views rather than find evidence that falsifies their
+
+728
+00:43:02.370 --> 00:43:04.719
+views. We can be led to a kind of
+
+729
+00:43:04.719 --> 00:43:07.129
+confirmation bias. We can be cherry picking evidence that
+
+730
+00:43:07.129 --> 00:43:09.879
+just supports our views, sort of ignore evidence that
+
+731
+00:43:09.879 --> 00:43:12.879
+doesn't support our views. That looks really unscientific, right?
+
+732
+00:43:13.000 --> 00:43:17.520
+So the, the, the, the opposite behavior looks sort
+
+733
+00:43:17.520 --> 00:43:19.709
+of rigorous, right? So rather than try to confirm
+
+734
+00:43:19.709 --> 00:43:21.520
+our views, we should be trying to disconfirm our
+
+735
+00:43:21.520 --> 00:43:25.360
+views, um, and then, you know, the, the theories
+
+736
+00:43:25.360 --> 00:43:28.360
+that survive that rigorous attempt, um, are the ones
+
+737
+00:43:28.360 --> 00:43:30.909
+that we should at least, Entertained for a while
+
+738
+00:43:30.909 --> 00:43:33.110
+for a while longer until we in fact falsify
+
+739
+00:43:33.110 --> 00:43:35.360
+them. That was, that was what was appealing one
+
+740
+00:43:35.360 --> 00:43:37.189
+of the things that was appealing to to Popper's
+
+741
+00:43:37.189 --> 00:43:41.070
+view now. There are some in the history of
+
+742
+00:43:41.070 --> 00:43:44.469
+science, there are some very successful scientists who didn't
+
+743
+00:43:44.469 --> 00:43:46.629
+behave that way. So for example, one of my
+
+744
+00:43:46.629 --> 00:43:51.340
+heroes is Marie Curie, and you know, in her
+
+745
+00:43:51.340 --> 00:43:57.050
+diary, she speaks about, um, she had an idea.
+
+746
+00:43:57.810 --> 00:44:00.320
+And she was so excited about the idea that
+
+747
+00:44:00.320 --> 00:44:03.139
+she wanted to work extremely hard in her laboratory
+
+748
+00:44:03.840 --> 00:44:07.120
+to confirm her idea, and that motivated her to
+
+749
+00:44:07.120 --> 00:44:09.199
+really just, you know, put in many hours in
+
+750
+00:44:09.199 --> 00:44:13.479
+the lab to devise really careful instrumentation to generate
+
+751
+00:44:13.479 --> 00:44:16.500
+a lot of evidence that then confirmed her view.
+
+752
+00:44:17.320 --> 00:44:18.840
+And so it's, you know, she wasn't behaving in
+
+753
+00:44:18.840 --> 00:44:22.800
+a in a pauperian way, but she discovered really
+
+754
+00:44:22.800 --> 00:44:24.949
+important facts about radiation and she won the Nobel
+
+755
+00:44:24.949 --> 00:44:28.280
+Prize for this. So there are these like compelling
+
+756
+00:44:28.280 --> 00:44:30.719
+historical cases that look like well they weren't, they
+
+757
+00:44:30.719 --> 00:44:34.919
+weren't behaving as as Popper said they should. There's
+
+758
+00:44:34.919 --> 00:44:38.459
+also sort of changes in. The kinds of things
+
+759
+00:44:38.459 --> 00:44:43.070
+that we that broadly construed. We'd have to worry
+
+760
+00:44:43.070 --> 00:44:44.840
+about when we're when we were worried about the
+
+761
+00:44:44.840 --> 00:44:48.370
+demarcation problem. So I, I, I find the following
+
+762
+00:44:48.370 --> 00:44:50.830
+kind of framing of the demarcation problem quite, quite,
+
+763
+00:44:51.120 --> 00:44:54.889
+um, interesting. When Popper was writing. He was, he
+
+764
+00:44:54.889 --> 00:44:59.250
+was formulating his demarcation problem, his his demarcation question
+
+765
+00:44:59.250 --> 00:45:03.370
+and his solution in the 1920s and 1930s, and
+
+766
+00:45:03.370 --> 00:45:08.429
+his big targets were, for example, Marxism. So he,
+
+767
+00:45:09.050 --> 00:45:10.600
+he noted that
+
+768
+00:45:10.600 --> 00:45:14.489
+Marxism and I think that he also targeted psychoanalysis,
+
+769
+00:45:14.610 --> 00:45:16.129
+Freudian psychoanalysis, I
+
+770
+00:45:16.129 --> 00:45:18.810
+think exactly, yeah, so he targeted Freudian psychoanalysis. Freudian
+
+771
+00:45:18.810 --> 00:45:23.129
+psychoanalysis at the time was very um. Important, you
+
+772
+00:45:23.129 --> 00:45:25.810
+know, many people were like, like viewing themselves as
+
+773
+00:45:25.810 --> 00:45:29.090
+Freudians and seeing Freudian therapists, but of course Marxism
+
+774
+00:45:29.090 --> 00:45:31.530
+was much more important, right? Marx Marxism was like
+
+775
+00:45:31.530 --> 00:45:34.850
+this really important political theory that was clearly revolutionizing
+
+776
+00:45:34.850 --> 00:45:38.570
+major parts of the world, um, and Popper was
+
+777
+00:45:38.570 --> 00:45:42.030
+deeply worried about that. Popper was worried about dogmatism,
+
+778
+00:45:42.290 --> 00:45:46.370
+about political dogmatism. He noted that Marx claimed that
+
+779
+00:45:46.370 --> 00:45:51.729
+Marx's view was scientific and Marx, you know, generated
+
+780
+00:45:51.729 --> 00:45:54.419
+like offered some putative evidence for the scientific status
+
+781
+00:45:54.419 --> 00:45:57.280
+of his view, and Popper took his demarcation problem
+
+782
+00:45:57.500 --> 00:46:00.570
+and argued that no, according to, he took his
+
+783
+00:46:00.570 --> 00:46:05.459
+demarcation solution, namely falsificationism, and argued no, uh, Marxism,
+
+784
+00:46:05.659 --> 00:46:08.540
+Marxist theory of history and politics is not scientific.
+
+785
+00:46:09.100 --> 00:46:12.620
+So there it was, it's interesting because what was
+
+786
+00:46:12.620 --> 00:46:15.699
+Popper responding to, what was, what was really motivating
+
+787
+00:46:15.699 --> 00:46:23.889
+him, a worry about political dogmatism. And I don't
+
+788
+00:46:23.889 --> 00:46:27.290
+know. I mean, at the time there was some
+
+789
+00:46:27.290 --> 00:46:31.729
+sloppy science. There was, you know, phrenology, so on,
+
+790
+00:46:31.810 --> 00:46:34.370
+but there was also really amazing science too, like
+
+791
+00:46:34.370 --> 00:46:37.459
+the particle physics of the early 20th century or
+
+792
+00:46:37.459 --> 00:46:40.169
+a lot of medicine of the early 20th century,
+
+793
+00:46:40.290 --> 00:46:43.000
+biology of the early 20th century, chemistry of the
+
+794
+00:46:43.000 --> 00:46:46.280
+late 19th century, geology of the 19th century. These
+
+795
+00:46:46.280 --> 00:46:50.250
+were just like massive breakthroughs in all these major
+
+796
+00:46:50.250 --> 00:46:54.219
+areas of science that were really, really impressive. Darwinian
+
+797
+00:46:54.479 --> 00:46:57.879
+evolutionary theory of, you know, mid-nineteenth century. Popper was
+
+798
+00:46:57.879 --> 00:46:59.520
+impressed by a lot of his work. Popper was
+
+799
+00:46:59.520 --> 00:47:03.320
+impressed by Einstein, and he wasn't, you know, he
+
+800
+00:47:03.320 --> 00:47:07.320
+wasn't using his principle of demarcation to do this
+
+801
+00:47:07.320 --> 00:47:14.239
+like fine-grained assessment of particular areas of genuine scientific
+
+802
+00:47:14.239 --> 00:47:17.030
+work like this bit of chemistry over here is
+
+803
+00:47:17.030 --> 00:47:19.189
+good science, this bit of chemistry over here isn't.
+
+804
+00:47:19.280 --> 00:47:21.189
+That's not what he was doing. He was saying
+
+805
+00:47:21.770 --> 00:47:26.860
+Marx's theory of politics and history is pseudo-scientific, uh,
+
+806
+00:47:27.409 --> 00:47:31.040
+Einsteinian relativity theory is scientific, right? So it's much
+
+807
+00:47:31.040 --> 00:47:34.110
+more coarse-grained and targeted against what he viewed as
+
+808
+00:47:34.530 --> 00:47:39.040
+dogmatism. Today. Of course we live with dogmatism, right,
+
+809
+00:47:39.120 --> 00:47:43.179
+so dogmatism is still a major threat to us,
+
+810
+00:47:43.840 --> 00:47:46.320
+but but something that has changed in science too
+
+811
+00:47:46.320 --> 00:47:51.540
+though, right? Science itself has become. Um, THIS massive
+
+812
+00:47:51.540 --> 00:47:57.340
+thing, uh, highly varied in its qualities, um, it,
+
+813
+00:47:57.419 --> 00:48:01.409
+it's, you know, various forms of like social psychology
+
+814
+00:48:01.409 --> 00:48:04.659
+and medicine is facing these replication crises. There are
+
+815
+00:48:04.659 --> 00:48:07.139
+all these incentive structures in science that kind of
+
+816
+00:48:07.139 --> 00:48:12.590
+corrupt science in various ways, and so. What we
+
+817
+00:48:12.590 --> 00:48:18.110
+need now is not. This coarse-grained demarcation problem that
+
+818
+00:48:18.110 --> 00:48:21.500
+puts like, you know, Marxism over here and physics
+
+819
+00:48:21.500 --> 00:48:23.949
+over here, but rather we need an approach to
+
+820
+00:48:23.949 --> 00:48:26.830
+demarcation which is a bit more fine-grained and sensitive
+
+821
+00:48:26.830 --> 00:48:30.439
+to like particular differences within sciences. And that was
+
+822
+00:48:30.439 --> 00:48:34.060
+what motivated my approach to demarcation in this book.
+
+823
+00:48:34.639 --> 00:48:34.659
+Mhm.
+
+824
+00:48:35.330 --> 00:48:37.399
+Uh, BUT I, but I mean nowadays, and I
+
+825
+00:48:37.399 --> 00:48:41.479
+know that there are different perspectives among, uh, or
+
+826
+00:48:41.479 --> 00:48:47.189
+across, uh, uh, philosophers of science, but nowadays, uh,
+
+827
+00:48:47.520 --> 00:48:52.719
+are there, uh, I mean, falsificationism specifically, is it
+
+828
+00:48:52.719 --> 00:48:58.584
+still taken very seriously by Philosophers of science, or
+
+829
+00:48:58.965 --> 00:49:02.245
+do they, I mean, at least have some caveats
+
+830
+00:49:02.245 --> 00:49:06.705
+to it, or do they think that other, um,
+
+831
+00:49:07.125 --> 00:49:12.205
+other theories are better suited to address the demarcation
+
+832
+00:49:12.205 --> 00:49:16.125
+problem? I mean, how, what is the current state
+
+833
+00:49:16.125 --> 00:49:17.725
+of affairs when it comes to it?
+
+834
+00:49:18.290 --> 00:49:20.729
+Yeah, you know, it's funny because, um, after the
+
+835
+00:49:20.729 --> 00:49:23.169
+decades of criticizing Popper, a lot of philosophers of
+
+836
+00:49:23.169 --> 00:49:25.510
+science basically just gave up on the demarcation problem,
+
+837
+00:49:25.530 --> 00:49:27.729
+and I, I think that that's a real, that's,
+
+838
+00:49:27.810 --> 00:49:29.439
+that's giving up a lot because in my view,
+
+839
+00:49:29.530 --> 00:49:31.889
+the demarcation problem is one of the big problems
+
+840
+00:49:31.889 --> 00:49:33.810
+for philosophers of science, right, especially when we live
+
+841
+00:49:33.810 --> 00:49:36.689
+in society like today, like we need to be
+
+842
+00:49:36.689 --> 00:49:38.669
+able to say something about the various qualities of
+
+843
+00:49:38.669 --> 00:49:40.280
+scientific work. Um,
+
+844
+00:49:41.129 --> 00:49:44.389
+I mean, I mean, not least because nowadays even.
+
+845
+00:49:45.135 --> 00:49:50.685
+People use a lot the term pseudoscience to refer
+
+846
+00:49:50.685 --> 00:49:56.655
+to, for example, certain, um, medical or pseudo medical
+
+847
+00:49:56.655 --> 00:49:59.885
+practices and things like that. So I mean, I
+
+848
+00:49:59.885 --> 00:50:02.524
+guess that it is important to have a, uh,
+
+849
+00:50:02.534 --> 00:50:06.175
+I, I mean, I, I guess not necessarily a
+
+850
+00:50:06.175 --> 00:50:10.375
+universally accepted definition, but at least a definition of
+
+851
+00:50:10.375 --> 00:50:11.975
+what pseudoscience is.
+
+852
+00:50:12.370 --> 00:50:15.340
+Yeah, that's exactly right, yeah. So, so, OK, so
+
+853
+00:50:15.340 --> 00:50:19.510
+in short, Popper fell out of favor and Uh,
+
+854
+00:50:19.929 --> 00:50:22.120
+sometimes some people will write things like, well, there,
+
+855
+00:50:22.449 --> 00:50:23.689
+you know, he had a lot going for his
+
+856
+00:50:23.689 --> 00:50:26.090
+view, but, um, so there's something right about his
+
+857
+00:50:26.090 --> 00:50:28.209
+view, but that that's the sort of, you know,
+
+858
+00:50:28.399 --> 00:50:32.969
+discourse. Um, IN some sense, I'm trying to resuscitate
+
+859
+00:50:32.969 --> 00:50:36.129
+Popper. Um, WHAT I, what I, what I argue
+
+860
+00:50:36.129 --> 00:50:39.969
+is that, OK, first, it's, it's worth noting just
+
+861
+00:50:39.969 --> 00:50:41.929
+what was wrong with Popper's view. So one is
+
+862
+00:50:41.929 --> 00:50:46.070
+that it was, Based on a single dimension, right,
+
+863
+00:50:46.239 --> 00:50:48.120
+so we want to judge all of science and
+
+864
+00:50:48.120 --> 00:50:51.409
+then we take this one property of scientific theories.
+
+865
+00:50:52.280 --> 00:50:55.540
+Asking a single question, which is binary in nature,
+
+866
+00:50:55.909 --> 00:50:59.719
+is this theory falsifiable or not, right? And also
+
+867
+00:50:59.719 --> 00:51:02.629
+it's factive, it's about in a sense it's about
+
+868
+00:51:02.629 --> 00:51:04.879
+the theory, right, rather than about the scientific work
+
+869
+00:51:04.879 --> 00:51:07.550
+that promotes the theory or supports the theory. So
+
+870
+00:51:07.550 --> 00:51:09.439
+it's sort of outcome oriented in that sense. So
+
+871
+00:51:09.439 --> 00:51:13.229
+it's outcome oriented, it's a binary evaluation based on
+
+872
+00:51:13.229 --> 00:51:17.020
+a single property. So if we get rid of
+
+873
+00:51:17.020 --> 00:51:20.149
+those features of our approach to demarcation, we can
+
+874
+00:51:20.149 --> 00:51:23.860
+keep falsifiability as an important feature for science. So
+
+875
+00:51:23.860 --> 00:51:26.750
+it's what is one good making feature of scientific
+
+876
+00:51:26.750 --> 00:51:29.790
+work, falsifiability, but there are others. So we can
+
+877
+00:51:29.790 --> 00:51:33.750
+take a kind of multidimensional approach to scientific judgment.
+
+878
+00:51:35.330 --> 00:51:38.239
+The other properties can be gradable properties, right? So
+
+879
+00:51:38.239 --> 00:51:39.919
+for example, like how much evidence do you have?
+
+880
+00:51:39.959 --> 00:51:41.560
+If you did a randomized control trial, do you
+
+881
+00:51:41.560 --> 00:51:44.679
+have 1000 subjects or 100 subjects? So right, so,
+
+882
+00:51:44.760 --> 00:51:48.719
+so scientific evaluation can be gradable based on multiple
+
+883
+00:51:48.719 --> 00:51:52.040
+properties. Those properties themselves can be gradable, like how
+
+884
+00:51:52.040 --> 00:51:55.090
+many subjects you have in a trial, um. And
+
+885
+00:51:55.090 --> 00:51:57.469
+it can be process oriented rather than product oriented.
+
+886
+00:51:57.719 --> 00:52:00.320
+So, uh, it can be about the scientific work,
+
+887
+00:52:00.439 --> 00:52:03.399
+the experimental work that goes into offering some degree
+
+888
+00:52:03.399 --> 00:52:06.620
+of justification for scientific claims. So that's my approach
+
+889
+00:52:06.620 --> 00:52:10.520
+to demarcation, basically, it's to say, um, rather than
+
+890
+00:52:10.520 --> 00:52:13.000
+a single property, rely on multiple properties rather than
+
+891
+00:52:13.000 --> 00:52:18.010
+a binary evaluation, use a gradable evaluation, then, um,
+
+892
+00:52:18.040 --> 00:52:20.699
+asking is this bit of work pseudo-scientific or not.
+
+893
+00:52:21.530 --> 00:52:24.909
+Is a bit of a misnomer, um, because what
+
+894
+00:52:24.919 --> 00:52:28.129
+what we're doing is really just asking like, is,
+
+895
+00:52:28.250 --> 00:52:32.360
+does the work satisfy various justificatory principles and practices,
+
+896
+00:52:32.649 --> 00:52:35.439
+one of which may be falsifiability, but there may
+
+897
+00:52:35.439 --> 00:52:38.409
+be others, right, um, and if it scores low
+
+898
+00:52:38.409 --> 00:52:40.570
+on our evaluation, then we could use the term
+
+899
+00:52:40.570 --> 00:52:42.600
+pseudo-scientific or or we could just say it's bad
+
+900
+00:52:42.600 --> 00:52:46.540
+science or whatever, um. Yeah, so that, that's my
+
+901
+00:52:46.540 --> 00:52:50.080
+approach to, to the, the famous demarcation problem.
+
+902
+00:52:50.580 --> 00:52:54.060
+No, yeah, uh, I, I was just, um, it,
+
+903
+00:52:54.169 --> 00:52:57.860
+it was coming to mind, um, a, a discussion,
+
+904
+00:52:58.040 --> 00:52:59.739
+uh, it was not a discussion, it was more
+
+905
+00:52:59.739 --> 00:53:03.000
+of a, a Q&A, I, if I remember correctly,
+
+906
+00:53:03.139 --> 00:53:07.379
+that, uh, Richard Dawkins and Neil deGrasse Tyson participated
+
+907
+00:53:07.379 --> 00:53:10.989
+in, uh, The last decade, I, I, I'm, I
+
+908
+00:53:10.989 --> 00:53:13.949
+can't remember the year exactly, but at a certain
+
+909
+00:53:13.949 --> 00:53:17.409
+point, someone in the audience was asking Richard Dawkins
+
+910
+00:53:18.070 --> 00:53:21.629
+why, uh, science is true or why we should
+
+911
+00:53:21.629 --> 00:53:24.919
+trust science, and he said, oh, because it works.
+
+912
+00:53:25.030 --> 00:53:27.719
+And I mean, uh, yeah, that, that's fine, but
+
+913
+00:53:27.949 --> 00:53:32.550
+that's an inductionist claim. I mean, it's because, because
+
+914
+00:53:32.550 --> 00:53:34.929
+it works, that it's true. I mean, but, but,
+
+915
+00:53:35.229 --> 00:53:39.729
+uh, I guess that scientists at least should be
+
+916
+00:53:39.729 --> 00:53:43.250
+a little bit more aware of the philosophy of
+
+917
+00:53:43.250 --> 00:53:47.570
+science or the philosophical foundations of what they're doing
+
+918
+00:53:47.570 --> 00:53:51.610
+because I don't think that's just saying, saying, oh,
+
+919
+00:53:51.719 --> 00:53:54.969
+science is true because it works. I mean because
+
+920
+00:53:54.969 --> 00:53:57.770
+planes fly or something like that. I mean I
+
+921
+00:53:57.770 --> 00:54:03.209
+don't think that's making justice to even their own
+
+922
+00:54:03.209 --> 00:54:05.850
+work because it's much more complicated than that.
+
+923
+00:54:06.290 --> 00:54:09.129
+That's exactly right. Yeah, so I mean, one of
+
+924
+00:54:09.129 --> 00:54:13.449
+the sections of that chapter on the demarcation question
+
+925
+00:54:13.449 --> 00:54:16.110
+in my book gets exactly at this question about
+
+926
+00:54:16.250 --> 00:54:20.199
+why should we trust science, um, and, Yeah, I,
+
+927
+00:54:20.330 --> 00:54:22.090
+I totally agree with you that because it works
+
+928
+00:54:22.090 --> 00:54:24.409
+is a bad answer. I think also the question
+
+929
+00:54:24.409 --> 00:54:29.709
+itself is, is in a sense. Um, MISFRAMED because,
+
+930
+00:54:30.330 --> 00:54:32.169
+so the question is, why should we trust science
+
+931
+00:54:32.479 --> 00:54:36.610
+and. I, you know, going back to something we
+
+932
+00:54:36.610 --> 00:54:40.199
+said earlier, science is a broad church, right? There's
+
+933
+00:54:40.209 --> 00:54:43.409
+many different, like scientific disciplines, and within a scientific
+
+934
+00:54:43.409 --> 00:54:46.679
+discipline, there's better experimental work, worse experiment experimental work,
+
+935
+00:54:46.689 --> 00:54:48.850
+and so on. Science that it's cutting edge is
+
+936
+00:54:48.850 --> 00:54:53.090
+like making these bold predictions, established science is sort
+
+937
+00:54:53.090 --> 00:54:55.919
+of safe. Um, SO I don't think that we
+
+938
+00:54:55.919 --> 00:54:58.969
+should trust science in that broad sense, right? It's
+
+939
+00:54:58.969 --> 00:55:00.919
+not like there's this one thing, science, that we
+
+940
+00:55:00.919 --> 00:55:03.209
+should either trust or not trust. Rather, I think
+
+941
+00:55:03.209 --> 00:55:06.540
+we should take this finer grained evaluative attitude. Um,
+
+942
+00:55:06.729 --> 00:55:08.489
+AND so then the question is like, what are
+
+943
+00:55:08.489 --> 00:55:12.199
+the conditions under which some particular bit of scientific
+
+944
+00:55:12.199 --> 00:55:14.159
+work is trustworthy, and what are the conditions under
+
+945
+00:55:14.159 --> 00:55:17.090
+which it's not, right? So should we trust science?
+
+946
+00:55:17.209 --> 00:55:21.004
+Well, I mean, I trust the results of particle
+
+947
+00:55:21.004 --> 00:55:24.445
+physics from 1920. I think there's overwhelming reasons to
+
+948
+00:55:24.445 --> 00:55:28.125
+think that a large majority of what has been
+
+949
+00:55:28.125 --> 00:55:30.725
+passed down to us from physics at that time
+
+950
+00:55:30.725 --> 00:55:33.685
+is true. It's, it's and it's common knowledge. These
+
+951
+00:55:33.685 --> 00:55:36.324
+are timeless truths, or like, do I trust that
+
+952
+00:55:36.324 --> 00:55:38.625
+the DNA is a double helix? Of course, right?
+
+953
+00:55:39.125 --> 00:55:41.844
+Or like measurements of the charge of the electron.
+
+954
+00:55:42.620 --> 00:55:45.500
+Have been stable at like 20 decimal places of
+
+955
+00:55:45.500 --> 00:55:50.179
+a coolom for 100 years, right, so that's something
+
+956
+00:55:50.179 --> 00:55:51.780
+that's and with you know measured in a bunch
+
+957
+00:55:51.780 --> 00:55:53.739
+of different ways by a bunch of different teams
+
+958
+00:55:53.739 --> 00:55:55.969
+decade after decade after decade, the sophistication of the
+
+959
+00:55:55.969 --> 00:55:57.939
+equipment has gotten more and more and more. So
+
+960
+00:55:57.939 --> 00:55:59.840
+anyways. There are some aspects of science that we
+
+961
+00:55:59.840 --> 00:56:01.679
+should clearly trust, right? But you know, I wrote
+
+962
+00:56:01.679 --> 00:56:04.040
+a book called Medical nihilism, and a big part
+
+963
+00:56:04.040 --> 00:56:06.979
+of that book was like we shouldn't trust, um,
+
+964
+00:56:07.040 --> 00:56:10.270
+the results of recent pharmaceutical science, at least in
+
+965
+00:56:10.270 --> 00:56:13.560
+some areas of medicine like psychiatry, right? So or
+
+966
+00:56:13.560 --> 00:56:15.989
+like a lot of social psychology of the last
+
+967
+00:56:15.989 --> 00:56:19.590
+generation has been facing this replication crisis. So if
+
+968
+00:56:19.590 --> 00:56:22.070
+some social, social psychologist goes on a TED Talk
+
+969
+00:56:22.070 --> 00:56:24.350
+and says, I just discovered why, you know, blah
+
+970
+00:56:24.350 --> 00:56:26.439
+blah blah, should we trust it? Well, you know.
+
+971
+00:56:27.219 --> 00:56:29.179
+Probably not, not at least not right away, right?
+
+972
+00:56:30.199 --> 00:56:33.639
+Yeah, you probably shouldn't trust the research done on
+
+973
+00:56:33.639 --> 00:56:35.389
+power poses and stuff like that,
+
+974
+00:56:38.830 --> 00:56:38.840
+yeah.
+
+975
+00:56:39.449 --> 00:56:42.250
+Yeah, but, but I mean, when we're talking about
+
+976
+00:56:42.250 --> 00:56:45.649
+whether people should trust science or not, I, I
+
+977
+00:56:45.649 --> 00:56:48.090
+mean, I, I, I guess that what I want
+
+978
+00:56:48.090 --> 00:56:52.409
+to ask you is, what about laypeople, because I,
+
+979
+00:56:52.489 --> 00:56:54.929
+I mean, when it comes to, for example, you
+
+980
+00:56:54.929 --> 00:56:57.850
+and me, I mean, uh, you specifically as a
+
+981
+00:56:57.850 --> 00:57:01.010
+philosopher of science, you've put thousands and thousands and
+
+982
+00:57:01.010 --> 00:57:05.683
+thousands of hours probably into. Studying these, uh, topics
+
+983
+00:57:05.683 --> 00:57:08.702
+and, uh, me personally, I mean, I've also done
+
+984
+00:57:08.702 --> 00:57:12.002
+thousands of hours of podcasts and thousands of hours
+
+985
+00:57:12.002 --> 00:57:15.683
+of reading different kinds of materials and there are
+
+986
+00:57:15.683 --> 00:57:20.123
+certain specific topics where I can properly, I think,
+
+987
+00:57:20.202 --> 00:57:25.722
+evaluate, uh, the evidence by myself after learning all
+
+988
+00:57:25.722 --> 00:57:28.395
+of what I've learned from the conversation. With other
+
+989
+00:57:28.395 --> 00:57:31.436
+people and reading all their work and so on,
+
+990
+00:57:31.716 --> 00:57:35.355
+but what when it comes to lay people, because
+
+991
+00:57:35.355 --> 00:57:37.535
+I mean we have to be fair here and
+
+992
+00:57:38.035 --> 00:57:40.545
+the fair thing to say I guess is that
+
+993
+00:57:40.916 --> 00:57:44.196
+the vast, vast, vast majority of people don't have
+
+994
+00:57:44.196 --> 00:57:48.395
+the time or resources to do the same thing
+
+995
+00:57:48.395 --> 00:57:51.855
+as we do. So I mean, to what extent.
+
+996
+00:57:52.350 --> 00:57:55.379
+Should they trust the science or is it that
+
+997
+00:57:55.830 --> 00:57:59.590
+they shouldn't trust the science, but they should deal
+
+998
+00:57:59.590 --> 00:58:04.530
+with science in some other way that doesn't involve
+
+999
+00:58:05.500 --> 00:58:07.090
+trust necessarily trusting it?
+
+1000
+00:58:07.629 --> 00:58:12.189
+OK, yeah, it is a hard question when we
+
+1001
+00:58:12.189 --> 00:58:17.350
+speak about what should lay attitude towards science be
+
+1002
+00:58:18.790 --> 00:58:24.179
+and. I mean, one hope is that, you know,
+
+1003
+00:58:24.330 --> 00:58:27.399
+science education and also philosophy of science helps people.
+
+1004
+00:58:28.570 --> 00:58:32.030
+Um, THINK in a more careful way about when
+
+1005
+00:58:32.030 --> 00:58:34.149
+to trust science, like the conditions under which we
+
+1006
+00:58:34.149 --> 00:58:40.260
+should trust science, and so ideally, um, Everyone would
+
+1007
+00:58:40.260 --> 00:58:41.860
+be studying a bit of philosophy of science. Ideally,
+
+1008
+00:58:42.060 --> 00:58:44.899
+everyone would go buy my book and that, that
+
+1009
+00:58:44.899 --> 00:58:47.340
+would, that would, you know, give people a slight
+
+1010
+00:58:47.340 --> 00:58:51.020
+more sophisticated, um, uh, set of tools to think
+
+1011
+00:58:51.020 --> 00:58:52.469
+about what are the conditions under which they should
+
+1012
+00:58:52.469 --> 00:58:55.260
+trust science. What are the conditions under which policymakers.
+
+1013
+00:58:55.645 --> 00:58:58.885
+SHOULD formulate broad social policy on the basis of
+
+1014
+00:58:58.885 --> 00:59:01.405
+scientific testimony, you know, we all, the last time
+
+1015
+00:59:01.405 --> 00:59:03.864
+that you and I spoke was at the height
+
+1016
+00:59:03.864 --> 00:59:07.125
+of COVID lockdowns. Um, I was locked down in
+
+1017
+00:59:07.125 --> 00:59:10.965
+eastern Ukraine actually. I, I remember our video, um.
+
+1018
+00:59:11.870 --> 00:59:16.389
+And that lockdown was a result of policymakers formulating
+
+1019
+00:59:16.389 --> 00:59:19.260
+policy on the basis of scientific assertion, on the
+
+1020
+00:59:19.260 --> 00:59:22.419
+basis of scientific testimony. Now, with the benefit of
+
+1021
+00:59:22.419 --> 00:59:25.350
+hindsight, we have learned that a lot of the
+
+1022
+00:59:25.350 --> 00:59:27.790
+policies that were formulated at, at the time were
+
+1023
+00:59:27.790 --> 00:59:31.229
+probably misguided and the scientific testimony was, you know,
+
+1024
+00:59:31.310 --> 00:59:34.709
+often overexaggerated, um, like predictions about the harms of
+
+1025
+00:59:34.709 --> 00:59:39.590
+COVID, the modeling work, um, so, so asking this
+
+1026
+00:59:39.590 --> 00:59:41.709
+question. What are the conditions under which we should
+
+1027
+00:59:41.709 --> 00:59:45.500
+trust science is really, really important for policymakers and
+
+1028
+00:59:45.500 --> 00:59:48.370
+for the lay public, right, the lay public, Your
+
+1029
+00:59:48.370 --> 00:59:52.209
+average person is routinely faced with questions like, should
+
+1030
+00:59:52.209 --> 00:59:56.320
+you take this pill or not, um. And you
+
+1031
+00:59:56.320 --> 00:59:57.620
+know, should you get vaccinated?
+
+1032
+00:59:58.439 --> 01:00:00.919
+Yeah, I guess that some of it also has
+
+1033
+01:00:00.919 --> 01:00:04.679
+to do with how science is communicated, particularly in
+
+1034
+01:00:04.679 --> 01:00:09.520
+more mainstream non-scientific media or media that is not
+
+1035
+01:00:09.520 --> 01:00:13.320
+specialized in science communication, because I mean, it's very
+
+1036
+01:00:13.320 --> 01:00:16.080
+common for you if you go to the comments
+
+1037
+01:00:16.080 --> 01:00:20.219
+section of a particular news piece. I, I mean
+
+1038
+01:00:20.219 --> 01:00:24.504
+people. Complain and with good reason that oh so
+
+1039
+01:00:24.504 --> 01:00:27.344
+yesterday they were saying that you should drink coffee.
+
+1040
+01:00:27.905 --> 01:00:30.084
+Today they're saying you shouldn't drink coffee. I mean,
+
+1041
+01:00:30.094 --> 01:00:34.054
+and it's with good reason because they get really
+
+1042
+01:00:34.054 --> 01:00:38.885
+conflicting information on on just mainstream media.
+
+1043
+01:00:39.425 --> 01:00:41.185
+Exactly, yeah, so I've I've got like a great
+
+1044
+01:00:41.185 --> 01:00:42.415
+example of that that I'm going to come to
+
+1045
+01:00:42.415 --> 01:00:43.625
+you in just a minute, but let me firstly
+
+1046
+01:00:43.625 --> 01:00:47.100
+kind of get to your question, which is How
+
+1047
+01:00:47.100 --> 01:00:51.040
+should your your average non-expert um figure out when
+
+1048
+01:00:51.260 --> 01:00:52.929
+to trust science or not? So you've got the
+
+1049
+01:00:52.929 --> 01:00:55.540
+coffee example, like one day that they say it's
+
+1050
+01:00:55.540 --> 01:00:57.370
+safe, the other day they say it's harmful for
+
+1051
+01:00:57.370 --> 01:01:01.080
+our health, right? Um, SO one of my colleagues,
+
+1052
+01:01:01.179 --> 01:01:03.300
+Peter Vickers, I, I, I engaged with his work
+
+1053
+01:01:03.300 --> 01:01:04.840
+in one of the last chapters of the book,
+
+1054
+01:01:05.379 --> 01:01:10.459
+he argues that there's a few very basic. Signs
+
+1055
+01:01:10.540 --> 01:01:13.260
+that a non-expert can point to. One is consensus.
+
+1056
+01:01:13.540 --> 01:01:16.679
+So if there's broad consensus in a scientific discipline,
+
+1057
+01:01:17.340 --> 01:01:22.260
+that's pretty good evidence that the claim about which
+
+1058
+01:01:22.260 --> 01:01:24.399
+there's evidence is a claim that we can trust.
+
+1059
+01:01:24.709 --> 01:01:26.419
+So that's one kind of bit of a sort
+
+1060
+01:01:26.419 --> 01:01:29.449
+of sign. Another sign that Vickers points to is
+
+1061
+01:01:29.649 --> 01:01:33.080
+the extent to which there's broad diversity in that
+
+1062
+01:01:33.090 --> 01:01:36.570
+consensus. So if the consensus arises because like this
+
+1063
+01:01:36.570 --> 01:01:39.689
+small community of like-minded people just agrees about the
+
+1064
+01:01:39.689 --> 01:01:43.090
+claim, then that's not much of a sign that
+
+1065
+01:01:43.090 --> 01:01:44.969
+the claim is true or should be trusted, right,
+
+1066
+01:01:45.129 --> 01:01:48.570
+because that community could be essentially just involved in
+
+1067
+01:01:48.570 --> 01:01:51.370
+some kind of fancy form of groupthink, right? But
+
+1068
+01:01:51.370 --> 01:01:54.030
+rather if the consensus arises, so, so that's, that's
+
+1069
+01:01:54.030 --> 01:01:58.969
+Vickers that's two simple signs consensus. And The diversity
+
+1070
+01:01:58.969 --> 01:02:00.719
+of the community. Now in my book I fill,
+
+1071
+01:02:00.889 --> 01:02:04.159
+fill that thought out a bit more. So, um,
+
+1072
+01:02:04.209 --> 01:02:07.810
+I argue that, you know, if those social features
+
+1073
+01:02:07.810 --> 01:02:10.449
+of scientific communities are all working well, like the
+
+1074
+01:02:10.449 --> 01:02:14.129
+reasons for the claims are being publicly articulated, the
+
+1075
+01:02:14.129 --> 01:02:16.320
+putative reasons are being criticized by other members of
+
+1076
+01:02:16.320 --> 01:02:19.399
+the community, the reasons are being improved upon, the
+
+1077
+01:02:19.399 --> 01:02:21.709
+methods are getting better, the evidence is getting better.
+
+1078
+01:02:22.239 --> 01:02:26.169
+This iterates over time and the claim withstands all
+
+1079
+01:02:26.169 --> 01:02:30.530
+these tests over time. After a certain point, we
+
+1080
+01:02:30.530 --> 01:02:32.649
+really ought to start just trusting the claim in
+
+1081
+01:02:32.649 --> 01:02:35.129
+question. Um, SO there's a kind of withstand the
+
+1082
+01:02:35.129 --> 01:02:42.110
+test of time via this. Critical social approach um
+
+1083
+01:02:42.270 --> 01:02:45.590
+to, so another famous philosopher here who argues something
+
+1084
+01:02:45.590 --> 01:02:47.229
+like this is Helen Longino, she has a kind
+
+1085
+01:02:47.229 --> 01:02:50.500
+of social theory about scientific objectivity. I draw on
+
+1086
+01:02:50.500 --> 01:02:52.709
+this theory a lot in my book. So basically
+
+1087
+01:02:52.709 --> 01:02:54.750
+like you've got this social structure involved in this
+
+1088
+01:02:54.750 --> 01:02:58.139
+giving and taking of reasons, public criticism of reasons,
+
+1089
+01:02:58.469 --> 01:03:00.949
+improving upon reasons over time. If that's all in
+
+1090
+01:03:00.949 --> 01:03:05.139
+place. And some claim Gets passed down to us
+
+1091
+01:03:05.139 --> 01:03:07.689
+after decades of this, we should trust that claim.
+
+1092
+01:03:08.219 --> 01:03:10.300
+So all the best examples in science are like
+
+1093
+01:03:10.300 --> 01:03:14.699
+this, like the, the core of the atom is
+
+1094
+01:03:14.699 --> 01:03:16.899
+this dense nucleus, right? We've known that for 100
+
+1095
+01:03:16.899 --> 01:03:19.820
+years, uh, the charge of the electrons, the sun
+
+1096
+01:03:19.820 --> 01:03:21.929
+is at the center of the solar system, dinosaurs
+
+1097
+01:03:21.929 --> 01:03:24.340
+existed, right? So all of those claims are claims
+
+1098
+01:03:24.340 --> 01:03:27.330
+that we should trust because they have those features.
+
+1099
+01:03:27.699 --> 01:03:31.570
+Now what about, um, for example, and this is,
+
+1100
+01:03:31.580 --> 01:03:34.149
+we might get to this example later, but A
+
+1101
+01:03:34.149 --> 01:03:37.709
+claim by an epidemiologist um in say March of
+
+1102
+01:03:37.709 --> 01:03:42.229
+2020 that the COVID-19 pandemic is going to cause
+
+1103
+01:03:42.229 --> 01:03:45.639
+such and such a number of deaths, um. By
+
+1104
+01:03:45.639 --> 01:03:48.600
+June, unless we lock down, there's a claim that,
+
+1105
+01:03:48.840 --> 01:03:51.560
+you know, it's based on rapid work that hasn't
+
+1106
+01:03:51.560 --> 01:03:55.080
+gone through that public scrutiny, it hasn't gone through
+
+1107
+01:03:55.080 --> 01:03:57.149
+years and years of iteration of public scrutiny of
+
+1108
+01:03:57.149 --> 01:04:00.750
+reasons, um, oftentimes that work wasn't even peer reviewed
+
+1109
+01:04:00.750 --> 01:04:03.159
+or published, um, so it's a different kind of
+
+1110
+01:04:03.159 --> 01:04:06.479
+scientific claim, right? Um, SHOULD we trust it? Ah.
+
+1111
+01:04:07.959 --> 01:04:10.439
+Maybe, but it just doesn't look anything like the
+
+1112
+01:04:10.439 --> 01:04:12.669
+claim that say the structure of DNA is a
+
+1113
+01:04:12.669 --> 01:04:18.000
+double helix. Um, ANOTHER thing that you, you pointed
+
+1114
+01:04:18.000 --> 01:04:20.320
+to in, in your, in your last comment was
+
+1115
+01:04:20.320 --> 01:04:27.850
+about, um, The importance of Articulating norms for appropriate
+
+1116
+01:04:27.909 --> 01:04:31.330
+scientific communication when scientists are in this public facing
+
+1117
+01:04:31.830 --> 01:04:34.590
+mode, say, writing an editorial for The New York
+
+1118
+01:04:34.590 --> 01:04:37.429
+Times was a great example of, of, of this
+
+1119
+01:04:37.429 --> 01:04:40.429
+that I draw on in the book. Um, THE
+
+1120
+01:04:40.429 --> 01:04:43.020
+example is basically a breakdown of, of norms for
+
+1121
+01:04:43.020 --> 01:04:46.300
+appropriate communication in my view. So, you know, I
+
+1122
+01:04:46.300 --> 01:04:48.709
+argued that earlier we were saying that I, I
+
+1123
+01:04:48.709 --> 01:04:52.050
+argue that there's two good making features of scientific
+
+1124
+01:04:52.149 --> 01:04:56.149
+communication, the communication be justified and it be informative.
+
+1125
+01:04:56.510 --> 01:05:01.590
+Now, there was this huge experiment done during COVID.
+
+1126
+01:05:01.739 --> 01:05:04.620
+It's called the Bangladesh mask Study. So this was
+
+1127
+01:05:04.620 --> 01:05:07.189
+done in 2021. If you know, if we kind
+
+1128
+01:05:07.189 --> 01:05:10.989
+of jog our memory, we'll, we'll remember that everybody
+
+1129
+01:05:10.989 --> 01:05:13.830
+wanted to know, do masks work, right, do masks
+
+1130
+01:05:13.830 --> 01:05:16.030
+slow the spread of COVID. This is a huge
+
+1131
+01:05:16.030 --> 01:05:18.909
+debate. Some evidence suggested that that masks do help,
+
+1132
+01:05:19.149 --> 01:05:21.939
+some suggested that they don't. Experts weren't agreeing with
+
+1133
+01:05:21.939 --> 01:05:26.189
+each other. Um, SOME experts, experts were publishing meta-analyses
+
+1134
+01:05:26.189 --> 01:05:28.659
+saying no masks are basically useless, but then those
+
+1135
+01:05:28.659 --> 01:05:31.350
+experts got criticized by other experts. There's a lot
+
+1136
+01:05:31.350 --> 01:05:33.459
+of confusion. So this big study was done, the
+
+1137
+01:05:33.459 --> 01:05:37.219
+Bangladesh mask Study. 600 villages in Bangladesh, some were
+
+1138
+01:05:37.219 --> 01:05:40.699
+randomly allocated to a mask intervention. They got free
+
+1139
+01:05:40.699 --> 01:05:42.300
+masks, training on how to, how to wear the
+
+1140
+01:05:42.300 --> 01:05:47.080
+masks, and some had a control intervention. 350,000 people
+
+1141
+01:05:47.080 --> 01:05:49.219
+in these villages were in the experiment. It's a
+
+1142
+01:05:49.219 --> 01:05:54.389
+huge, huge experiment. No. Um, They finished the experiment,
+
+1143
+01:05:54.469 --> 01:05:57.689
+they got their data, they analyzed it. They published
+
+1144
+01:05:57.689 --> 01:06:00.550
+an article in the journal Science, the world's most
+
+1145
+01:06:00.550 --> 01:06:03.429
+important journal, and at the same time, they published
+
+1146
+01:06:03.429 --> 01:06:06.989
+an editorial in The New York Times. The headline
+
+1147
+01:06:06.989 --> 01:06:11.040
+of the editorial was, we did the research, masks
+
+1148
+01:06:11.040 --> 01:06:15.600
+work. That was the headline. OK. Now that's unambiguous,
+
+1149
+01:06:15.659 --> 01:06:18.360
+right? That's, here are these experts. We just published
+
+1150
+01:06:18.360 --> 01:06:21.080
+this article in Science. We did the research masks
+
+1151
+01:06:21.080 --> 01:06:23.909
+work, so it's totally unambiguous. That's super clear, right?
+
+1152
+01:06:24.159 --> 01:06:28.399
+But, but here, here's the, here's the catch. When
+
+1153
+01:06:28.399 --> 01:06:32.379
+they published the science article. They didn't actually include
+
+1154
+01:06:32.379 --> 01:06:34.679
+the number of cases of COVID in the mask
+
+1155
+01:06:34.679 --> 01:06:37.199
+villages and the non-mask villages. What they reported was
+
+1156
+01:06:37.199 --> 01:06:40.389
+the relative risk reduction, which I've argued in technical
+
+1157
+01:06:40.389 --> 01:06:43.159
+work in, in my, in my past. This measure,
+
+1158
+01:06:43.199 --> 01:06:47.679
+the relative risk reduction is extremely misleading. Um, SOME
+
+1159
+01:06:47.679 --> 01:06:52.199
+statisticians asked the scientists who did the study for
+
+1160
+01:06:52.199 --> 01:06:54.590
+the raw data for like the number of subjects
+
+1161
+01:06:54.590 --> 01:06:57.199
+that had COVID in the mask villages and the
+
+1162
+01:06:57.199 --> 01:06:58.959
+number of subjects that got COVID in the non-mask
+
+1163
+01:06:58.959 --> 01:07:01.840
+villages. So they shared the data, and it turned
+
+1164
+01:07:01.840 --> 01:07:06.360
+out that um the subjects in the, in the
+
+1165
+01:07:06.360 --> 01:07:13.120
+mask villages had something like, 1,085 cases of COVID.
+
+1166
+01:07:13.219 --> 01:07:14.790
+I, I, I think I've got that number wrong
+
+1167
+01:07:14.790 --> 01:07:17.110
+just by like a few, but it's that it's
+
+1168
+01:07:17.110 --> 01:07:21.870
+right around there. 1,085, um, cases of COVID. And
+
+1169
+01:07:21.870 --> 01:07:24.639
+in the non-mask villages there were 20 more cases.
+
+1170
+01:07:25.310 --> 01:07:27.300
+And this experiment lasted 6 months, so it's 6
+
+1171
+01:07:27.300 --> 01:07:31.270
+months of masking. So you take 350,000 people, half
+
+1172
+01:07:31.270 --> 01:07:33.379
+of them get masks. You will force them to
+
+1173
+01:07:33.379 --> 01:07:35.840
+wear masks for 6 months. And then you get
+
+1174
+01:07:35.840 --> 01:07:38.840
+a reduction in Of number of cases of COVID
+
+1175
+01:07:38.840 --> 01:07:42.320
+by 20 out of 350,000 people, right? When you,
+
+1176
+01:07:42.399 --> 01:07:44.520
+when this is measured with what's called the absolute
+
+1177
+01:07:44.520 --> 01:07:46.790
+risk reduction, which is a more appropriate way to,
+
+1178
+01:07:46.879 --> 01:07:50.080
+to measure an intervention like this. It's basically like
+
+1179
+01:07:50.080 --> 01:07:54.300
+0.0006% reduction in COVID. Yeah, yeah,
+
+1180
+01:07:54.360 --> 01:07:58.239
+it's, it's, I mean, statistically insignificant, right? It's,
+
+1181
+01:07:58.320 --> 01:08:01.939
+it's, it actually was statistically significant. Um, IT was
+
+1182
+01:08:01.939 --> 01:08:05.280
+a completely tiny signal. It was statistically significant because
+
+1183
+01:08:05.280 --> 01:08:06.959
+the numbers were so huge, but it was just
+
+1184
+01:08:06.959 --> 01:08:09.560
+a totally tiny. It was clinically insignificant, right? It
+
+1185
+01:08:09.560 --> 01:08:14.040
+was practically socially insignificant. But the scientists wrote that
+
+1186
+01:08:14.040 --> 01:08:15.959
+editorial in in the New York Times. We did
+
+1187
+01:08:15.959 --> 01:08:20.139
+the research, masks work, right? So. Using my principles,
+
+1188
+01:08:20.389 --> 01:08:23.898
+they just totally violated this principle of of justification,
+
+1189
+01:08:24.028 --> 01:08:27.108
+right, they made a claim that was just unjustified
+
+1190
+01:08:27.108 --> 01:08:30.188
+according to the evidence that they themselves had, right,
+
+1191
+01:08:30.667 --> 01:08:31.627
+um, yeah.
+
+1192
+01:08:32.410 --> 01:08:34.660
+Uh, BUT I, I mean, since we're already talking
+
+1193
+01:08:34.660 --> 01:08:37.419
+about the COVID-19 pandemic, I, I wanted to ask
+
+1194
+01:08:37.419 --> 01:08:39.009
+you, and I, uh, and I mean, I, it's,
+
+1195
+01:08:39.100 --> 01:08:42.680
+I think it's very important here when posing this
+
+1196
+01:08:42.680 --> 01:08:49.499
+question to distinguish between Um, moral justifications and epistemic
+
+1197
+01:08:49.499 --> 01:08:53.019
+justifications, but, uh, uh, I mean, even from a
+
+1198
+01:08:53.019 --> 01:08:55.599
+moral, uh, I mean, I don't know if you
+
+1199
+01:08:55.738 --> 01:08:59.038
+want to include here the moral justifications or not.
+
+1200
+01:08:59.099 --> 01:09:02.099
+If you want, please, please tell us so, but
+
+1201
+01:09:02.337 --> 01:09:05.898
+do you think that because of the public health
+
+1202
+01:09:05.898 --> 01:09:10.938
+threat that COVID-19 posed, that kind of, uh, quote
+
+1203
+01:09:10.938 --> 01:09:14.258
+unquote past science was justified back then?
+
+1204
+01:09:15.620 --> 01:09:17.950
+Yeah, OK, good. Yeah, thanks, thanks for this question.
+
+1205
+01:09:18.149 --> 01:09:22.000
+So, you're appealing to this term fast science, which,
+
+1206
+01:09:22.029 --> 01:09:24.470
+um, which, you know, I coined a few years
+
+1207
+01:09:24.470 --> 01:09:26.209
+ago. I first coined this in a blog post
+
+1208
+01:09:26.209 --> 01:09:31.600
+when. I was, you know, reflecting on the scientific
+
+1209
+01:09:31.600 --> 01:09:33.859
+work that was going on in real time as
+
+1210
+01:09:33.859 --> 01:09:37.620
+we were living through the COVID pandemic, so by
+
+1211
+01:09:37.620 --> 01:09:42.069
+fat science I meant. You know, loosely, the rapid
+
+1212
+01:09:42.069 --> 01:09:47.790
+epidemiological work um that um was giving us predictions
+
+1213
+01:09:47.790 --> 01:09:51.390
+about what was going to happen um to healthcare
+
+1214
+01:09:51.390 --> 01:09:55.229
+systems, to the, you know, number of deaths under
+
+1215
+01:09:55.229 --> 01:09:58.470
+different policy scenarios. Um, SO this was the modeling
+
+1216
+01:09:58.470 --> 01:10:00.509
+work that was being done by really prominent groups
+
+1217
+01:10:00.509 --> 01:10:02.859
+like for example, the, the Imperial College London Modeling
+
+1218
+01:10:02.859 --> 01:10:07.709
+Group, um, and, So that started in a blog
+
+1219
+01:10:07.709 --> 01:10:09.870
+post, then I wrote an article and I also
+
+1220
+01:10:09.870 --> 01:10:11.669
+included a chapter in my book on this notion,
+
+1221
+01:10:11.819 --> 01:10:17.060
+fast science. Now. The question is Is that fast
+
+1222
+01:10:17.060 --> 01:10:22.779
+science justified and As you rightly note, there's a
+
+1223
+01:10:22.779 --> 01:10:25.020
+kind of epistemic angle and a moral angle to
+
+1224
+01:10:25.020 --> 01:10:30.410
+it, to that, to that question. So Right, so
+
+1225
+01:10:30.410 --> 01:10:31.689
+what I do is I give a slightly more
+
+1226
+01:10:31.689 --> 01:10:34.209
+careful characterization first of what fast science is. So
+
+1227
+01:10:34.209 --> 01:10:40.299
+fast science is policy facing science. Which violates some
+
+1228
+01:10:40.299 --> 01:10:45.950
+principles of justification, um, so whatever standard principle, like,
+
+1229
+01:10:45.959 --> 01:10:49.020
+for example, if you like popper's falsifiability principle, fast
+
+1230
+01:10:49.020 --> 01:10:53.140
+science would violate that because it's quickly responding to
+
+1231
+01:10:53.140 --> 01:10:56.359
+a threat, um, so it's policy facing and it's,
+
+1232
+01:10:56.379 --> 01:10:58.779
+um, in response to a threat, and the, the
+
+1233
+01:10:58.779 --> 01:11:04.270
+threat has got to be, um. Like a it's
+
+1234
+01:11:04.270 --> 01:11:07.580
+gotta be imminent, so, uh, it's gotta be, there's
+
+1235
+01:11:07.580 --> 01:11:10.470
+gotta be a, the threat's gotta be threatening us.
+
+1236
+01:11:11.319 --> 01:11:13.479
+Very soon, and the threat's got to be of
+
+1237
+01:11:13.479 --> 01:11:16.919
+a very large magnitude in those scenarios when we
+
+1238
+01:11:16.919 --> 01:11:22.169
+have an imminent large threat. Then It does make
+
+1239
+01:11:22.169 --> 01:11:25.930
+sense to cut some corners to respond to that
+
+1240
+01:11:25.930 --> 01:11:28.129
+threat. So it might make sense to, for example,
+
+1241
+01:11:28.330 --> 01:11:31.649
+do some scientific work to figure out the nature
+
+1242
+01:11:31.649 --> 01:11:34.919
+of the threat and responses to the threat, but
+
+1243
+01:11:34.919 --> 01:11:37.450
+maybe don't publish it in a peer reviewed journal
+
+1244
+01:11:37.450 --> 01:11:40.129
+because peer review can take a long time, and
+
+1245
+01:11:40.129 --> 01:11:42.450
+maybe the peer reviewers, you know, reject the article,
+
+1246
+01:11:42.569 --> 01:11:44.009
+so you've got to submit it to another journal,
+
+1247
+01:11:44.089 --> 01:11:46.790
+right? And so that would look sort of absurd
+
+1248
+01:11:46.930 --> 01:11:50.560
+if we're truly facing an imminent threat. Um, SO,
+
+1249
+01:11:50.720 --> 01:11:53.279
+so I think that in, in general, the answer
+
+1250
+01:11:53.279 --> 01:11:56.359
+to your question is yes, fast science can be
+
+1251
+01:11:56.359 --> 01:12:00.149
+justified, um, justified on these kind of practical, social,
+
+1252
+01:12:00.160 --> 01:12:02.600
+moral grounds. So even if it, even if it's
+
+1253
+01:12:02.600 --> 01:12:06.470
+the case that we're violating some epistemic properties of
+
+1254
+01:12:06.470 --> 01:12:09.359
+science, like we're violating some justificatory practices of science,
+
+1255
+01:12:09.640 --> 01:12:13.120
+that can be OK if we're responding to, you
+
+1256
+01:12:13.120 --> 01:12:15.740
+know, if we're dealing with facing this imminent threat
+
+1257
+01:12:15.740 --> 01:12:19.330
+of great magnitude. So in general, I argue that
+
+1258
+01:12:19.330 --> 01:12:22.430
+yes, fast science can be OK, but not anything
+
+1259
+01:12:22.430 --> 01:12:26.790
+goes, right? So, so just because we've, we've said
+
+1260
+01:12:26.970 --> 01:12:28.990
+fast science can be appropriate in the context of
+
+1261
+01:12:28.990 --> 01:12:33.080
+a threat. Um, AND what fast science involves involves
+
+1262
+01:12:33.080 --> 01:12:34.640
+cutting corners. It doesn't mean that we can cut
+
+1263
+01:12:34.640 --> 01:12:37.120
+all the corners, right? Um, SO it doesn't mean
+
+1264
+01:12:37.120 --> 01:12:39.399
+that it's like we can just start consulting crystal
+
+1265
+01:12:39.399 --> 01:12:43.890
+balls, right, um, or, you know, fortune tellers, um,
+
+1266
+01:12:43.899 --> 01:12:46.180
+yeah, so that's what I argue in the chapter
+
+1267
+01:12:46.180 --> 01:12:49.399
+of this chapter of the book is that. Any
+
+1268
+01:12:49.399 --> 01:12:53.240
+science that's done, which is properly fast science responding
+
+1269
+01:12:53.240 --> 01:12:55.399
+to a threat has still got to satisfy various
+
+1270
+01:12:55.399 --> 01:12:58.040
+principles of constraint, um, it's got to kind of
+
+1271
+01:12:58.040 --> 01:13:01.140
+have the same look and feel of routine science,
+
+1272
+01:13:01.359 --> 01:13:03.310
+um, even if it's done quickly and even if
+
+1273
+01:13:03.310 --> 01:13:04.319
+some corners are cut.
+
+1274
+01:13:05.240 --> 01:13:07.879
+Oh, OK, but just to clarify this point, because
+
+1275
+01:13:07.879 --> 01:13:11.319
+since our interview is mostly on, uh, from the
+
+1276
+01:13:11.319 --> 01:13:15.890
+point of view of epistemology, is, is it justified,
+
+1277
+01:13:16.160 --> 01:13:19.720
+it's justified morally, but do you think it's also
+
+1278
+01:13:19.720 --> 01:13:22.600
+justified epistemically or not?
+
+1279
+01:13:22.919 --> 01:13:24.520
+OK, right, yeah, no, this is a good question.
+
+1280
+01:13:24.990 --> 01:13:27.919
+So I mean we could, yeah, so certainly fast
+
+1281
+01:13:27.919 --> 01:13:33.100
+science can be justified on moral grounds, um, so
+
+1282
+01:13:33.359 --> 01:13:36.100
+yeah, we've got to respond to a threat. Um,
+
+1283
+01:13:36.290 --> 01:13:38.490
+AND so we're going to say not submit this
+
+1284
+01:13:38.490 --> 01:13:41.319
+paper to peer review, or maybe we're doing an
+
+1285
+01:13:41.319 --> 01:13:45.270
+experiment. Uh, SAY we're testing, uh, a new vaccine,
+
+1286
+01:13:45.350 --> 01:13:48.459
+the safety of a new vaccine, and, you know,
+
+1287
+01:13:48.529 --> 01:13:51.140
+this happened, right? So we're testing the safety of
+
+1288
+01:13:51.140 --> 01:13:54.830
+COVID vaccines, but as we know, the harms of
+
+1289
+01:13:54.830 --> 01:13:59.750
+some vaccines can appear. Um, YEARS later, right, it
+
+1290
+01:13:59.750 --> 01:14:02.270
+doesn't necessarily going to appear. That's true for any
+
+1291
+01:14:02.270 --> 01:14:04.470
+medical intervention, right? Um, SO any medical intervention has
+
+1292
+01:14:04.470 --> 01:14:08.000
+a risk of harm that appears, um, years later,
+
+1293
+01:14:09.069 --> 01:14:12.009
+but we didn't have years to wait during the
+
+1294
+01:14:12.009 --> 01:14:16.109
+COVID pandemic, so, um, we needed vaccines quickly, and
+
+1295
+01:14:16.109 --> 01:14:19.669
+so we ran experimental trials of these vaccines, testing
+
+1296
+01:14:19.669 --> 01:14:22.100
+the benefits and harms of, of these vaccines. We
+
+1297
+01:14:22.100 --> 01:14:24.229
+did them quickly, so we had short-term follow-up and
+
+1298
+01:14:24.229 --> 01:14:26.830
+then we approved the widespread use of these vaccines.
+
+1299
+01:14:27.359 --> 01:14:30.200
+Based on the short term experiment, was that justified?
+
+1300
+01:14:30.520 --> 01:14:33.279
+Yeah, I think probably yes. um, I think it
+
+1301
+01:14:33.279 --> 01:14:36.680
+saved a lot of lives, um, and so, um,
+
+1302
+01:14:36.919 --> 01:14:38.479
+yeah, I don't want to say probably yes, it's
+
+1303
+01:14:38.479 --> 01:14:43.259
+definitely justified, um, so it's justified on practical grounds,
+
+1304
+01:14:43.799 --> 01:14:47.549
+um, does, but of course, there's still a lot
+
+1305
+01:14:47.549 --> 01:14:49.759
+that we can learn about the vaccines and so
+
+1306
+01:14:49.759 --> 01:14:51.799
+we can keep studying them in the longer term.
+
+1307
+01:14:52.169 --> 01:14:53.759
+And so we, our methods can get better and
+
+1308
+01:14:53.759 --> 01:14:55.169
+better and better, we can get more and more
+
+1309
+01:14:55.169 --> 01:14:57.450
+justified claims about the benefits and harms of the
+
+1310
+01:14:57.450 --> 01:15:01.160
+vaccines over time. Um, YEAH.
+
+1311
+01:15:02.089 --> 01:15:04.899
+Mhm. OK, so I have, uh, 3 or 4
+
+1312
+01:15:04.899 --> 01:15:07.740
+more topics I would like to touch on before
+
+1313
+01:15:07.740 --> 01:15:10.899
+we wrap up the interview. Um, I, I, this
+
+1314
+01:15:10.899 --> 01:15:14.379
+is one that I've already alluded to earlier, but
+
+1315
+01:15:14.740 --> 01:15:19.259
+do you think it's possible to have value-free science?
+
+1316
+01:15:19.339 --> 01:15:21.060
+And I, and I mean, I, I, I, I
+
+1317
+01:15:21.060 --> 01:15:22.979
+want to be careful here what I mean, what
+
+1318
+01:15:22.979 --> 01:15:27.790
+I mean by value-free. IS not because nowadays people
+
+1319
+01:15:27.790 --> 01:15:31.089
+discuss a lot. Oh, there are, I mean, individual
+
+1320
+01:15:31.089 --> 01:15:35.870
+people have certain political biases, certain moral biases. Some
+
+1321
+01:15:35.870 --> 01:15:38.669
+people are liberal, some people are conservative, and so
+
+1322
+01:15:38.669 --> 01:15:40.910
+on and so forth, and that can have an
+
+1323
+01:15:40.910 --> 01:15:44.879
+impact in the way they Um, I, I, I
+
+1324
+01:15:44.879 --> 01:15:48.879
+mean they design their studies in the way they
+
+1325
+01:15:48.879 --> 01:15:52.080
+arrive at their conclusions in their studies and so
+
+1326
+01:15:52.080 --> 01:15:55.479
+on, but that, that's, that's not necessarily what I'm
+
+1327
+01:15:55.479 --> 01:15:57.709
+talking about. What I, what I'm asking you is
+
+1328
+01:15:57.709 --> 01:16:04.759
+whether science as an institution can be value-free. I
+
+1329
+01:16:04.759 --> 01:16:09.640
+mean, in terms of uh in constitutive terms, whether
+
+1330
+01:16:09.640 --> 01:16:12.450
+it's possible for it to be value-free or not.
+
+1331
+01:16:13.270 --> 01:16:16.609
+Yeah, yeah, good, yeah. OK, so I, um. I'm
+
+1332
+01:16:16.609 --> 01:16:18.490
+going to answer the question. I'll, I'll just add
+
+1333
+01:16:18.490 --> 01:16:21.970
+to your, um, the way you've framed the question
+
+1334
+01:16:21.970 --> 01:16:24.770
+a little bit. So, so in general, the question
+
+1335
+01:16:24.770 --> 01:16:27.649
+is, can science be value free, um, and there's
+
+1336
+01:16:27.649 --> 01:16:30.370
+this very interesting debate among philosophers of science that
+
+1337
+01:16:30.370 --> 01:16:34.770
+are debating that question. What's not being debated are
+
+1338
+01:16:34.770 --> 01:16:39.600
+questions like, Um, is the scientific research agenda value
+
+1339
+01:16:39.600 --> 01:16:42.180
+free? Of course it's not, right? So we decide
+
+1340
+01:16:42.180 --> 01:16:44.830
+to study this topic rather than that topic, and
+
+1341
+01:16:44.830 --> 01:16:47.120
+that's a value laden decision. So scientists, you can
+
+1342
+01:16:47.120 --> 01:16:50.270
+get research funding to cure cancer or. Build more
+
+1343
+01:16:50.270 --> 01:16:51.520
+explosive bombs or whatever,
+
+1344
+01:16:52.149 --> 01:16:54.520
+yeah, yeah, as we said earlier, they're all, there
+
+1345
+01:16:54.520 --> 01:16:58.240
+are all sorts of political and economic motivations that
+
+1346
+01:16:58.240 --> 01:16:59.549
+go into that, so
+
+1347
+01:16:59.549 --> 01:17:01.640
+exactly, so that's one way in which values obviously
+
+1348
+01:17:01.640 --> 01:17:05.560
+influence science, or another way is like ethical constraints
+
+1349
+01:17:05.560 --> 01:17:07.600
+on what scientists can actually do, right? So there's
+
+1350
+01:17:07.600 --> 01:17:09.200
+like certain kinds of experiments we just can't do
+
+1351
+01:17:09.200 --> 01:17:11.399
+to people or to animals or to the environment
+
+1352
+01:17:11.399 --> 01:17:14.040
+or whatever. So those are valulaating constraints on science,
+
+1353
+01:17:14.120 --> 01:17:17.080
+that's obvious, or like certain technologies that we develop
+
+1354
+01:17:17.080 --> 01:17:19.839
+on the basis of science, um. So those are
+
+1355
+01:17:19.839 --> 01:17:22.970
+also value laden, right? We decide to develop this
+
+1356
+01:17:22.970 --> 01:17:25.490
+technology, we decide to constrain this technology. Those are
+
+1357
+01:17:25.490 --> 01:17:28.830
+value laden influences on the application of scientific results,
+
+1358
+01:17:28.890 --> 01:17:31.200
+but none of that's controversial in any kind of
+
+1359
+01:17:31.200 --> 01:17:35.669
+deep, interesting philosophical sense. The really deep, interesting question
+
+1360
+01:17:35.669 --> 01:17:40.870
+is, Should those kinds of values like social, ethical,
+
+1361
+01:17:40.959 --> 01:17:45.399
+political values influence scientific reasoning itself, right? So scientific
+
+1362
+01:17:45.399 --> 01:17:47.200
+reasoning itself, the kind of old school view about
+
+1363
+01:17:47.200 --> 01:17:50.000
+scientific reasoning itself, it's pure from value influence, it's
+
+1364
+01:17:50.000 --> 01:17:52.359
+just, it's value free, it's objective in this sense,
+
+1365
+01:17:52.439 --> 01:17:54.600
+right? It doesn't depend on whether or not I
+
+1366
+01:17:54.600 --> 01:17:57.310
+like this political candidate or I, I like chocolate
+
+1367
+01:17:57.310 --> 01:17:59.160
+ice cream, you like vanilla ice cream, no, it,
+
+1368
+01:17:59.399 --> 01:18:01.200
+it's just, it's about the objective facts, right?
+
+1369
+01:18:01.569 --> 01:18:03.689
+So that's Yeah, yeah, let, let me just say
+
+1370
+01:18:03.689 --> 01:18:06.250
+that that was exactly what I was trying to
+
+1371
+01:18:06.250 --> 01:18:08.689
+ask, but you put it in better or more
+
+1372
+01:18:08.689 --> 01:18:10.100
+rigorous terms, so yeah,
+
+1373
+01:18:11.140 --> 01:18:15.790
+that's what I'm paid to do. Yeah, um, but
+
+1374
+01:18:15.790 --> 01:18:18.189
+no, yeah, yeah, your question is, is exactly on
+
+1375
+01:18:18.189 --> 01:18:24.959
+point. So, um, Somehow in the last generation, among
+
+1376
+01:18:24.959 --> 01:18:27.799
+many of my colleagues in philosophy of science, they
+
+1377
+01:18:27.799 --> 01:18:30.040
+have come to reject what's called the value-free ideal.
+
+1378
+01:18:30.279 --> 01:18:31.919
+So the value free ideal is that old school
+
+1379
+01:18:31.919 --> 01:18:34.959
+traditional view that says science is objective, it's scientific
+
+1380
+01:18:34.959 --> 01:18:38.160
+reasoning is objective, scientific reasoning is free from value
+
+1381
+01:18:38.160 --> 01:18:41.560
+influence, that's the value-free ideal, and it's become almost
+
+1382
+01:18:41.560 --> 01:18:43.830
+status quo in philosophy of science to reject the
+
+1383
+01:18:43.830 --> 01:18:48.470
+value-free ideal and. I think that that is all
+
+1384
+01:18:48.470 --> 01:18:51.549
+wrong. So with a, with a very close friend
+
+1385
+01:18:51.549 --> 01:18:54.990
+of mine, Tro Mennon, we have been publishing a
+
+1386
+01:18:54.990 --> 01:19:00.189
+series of articles that um try to resuscitate a
+
+1387
+01:19:00.189 --> 01:19:02.910
+particular version of the value free ideal. We articulate
+
+1388
+01:19:02.910 --> 01:19:06.569
+a new version of the value free ideal that
+
+1389
+01:19:06.700 --> 01:19:09.229
+we think are immune to the existing criticisms, so
+
+1390
+01:19:09.229 --> 01:19:11.540
+we're sort of saving the value free ideal. Some
+
+1391
+01:19:11.540 --> 01:19:15.729
+of that work with Troun then fed into. Uh,
+
+1392
+01:19:15.830 --> 01:19:18.990
+ONE of the central chapters of this book. So
+
+1393
+01:19:18.990 --> 01:19:21.299
+in the, in the book, in one chapter, I'm
+
+1394
+01:19:21.299 --> 01:19:25.819
+saying, Science at its best, scientific reasoning at its
+
+1395
+01:19:25.819 --> 01:19:29.620
+best. Can be value free And I think that
+
+1396
+01:19:29.620 --> 01:19:32.819
+many of the examples of common knowledge that we
+
+1397
+01:19:32.830 --> 01:19:37.490
+we've been speaking about today. Illustrate this perfectly. So
+
+1398
+01:19:37.490 --> 01:19:40.600
+like there's no value influence in the claim that
+
+1399
+01:19:41.189 --> 01:19:44.140
+The structure of DNA is a double helix. Um,
+
+1400
+01:19:44.910 --> 01:19:48.370
+THERE'S no value influencing the claim that You know,
+
+1401
+01:19:48.490 --> 01:19:50.009
+the Earth is at the center of the solar,
+
+1402
+01:19:50.089 --> 01:19:51.370
+I'm sorry, the sun is at the center of
+
+1403
+01:19:51.370 --> 01:19:54.490
+the solar system, um, so, you know, there's a
+
+1404
+01:19:54.490 --> 01:19:59.180
+like established contributions to common knowledge. They're value free.
+
+1405
+01:19:59.600 --> 01:20:01.459
+The reasoning that goes into them is value free.
+
+1406
+01:20:01.720 --> 01:20:03.910
+Um, SO yeah, Tyro and I have been working
+
+1407
+01:20:03.910 --> 01:20:07.109
+for years. Um, ACTUALLY we started writing these articles
+
+1408
+01:20:07.109 --> 01:20:10.029
+also during lockdown. We would just zoom for, for
+
+1409
+01:20:10.029 --> 01:20:11.600
+hours in the way that you and I are
+
+1410
+01:20:11.600 --> 01:20:13.680
+zooming now and come up with, come up with
+
+1411
+01:20:13.680 --> 01:20:15.799
+ideas and ways to try to salvage the value-free
+
+1412
+01:20:15.799 --> 01:20:18.600
+ideal, and now we've got a series of 44
+
+1413
+01:20:18.600 --> 01:20:21.220
+articles and, and, and this chapter in the book
+
+1414
+01:20:21.799 --> 01:20:23.950
+in which we're trying to say science can be
+
+1415
+01:20:23.950 --> 01:20:24.439
+value free.
+
+1416
+01:20:26.459 --> 01:20:29.709
+OK, so, uh, I, I also wanted to ask
+
+1417
+01:20:29.709 --> 01:20:32.589
+you about scientific progress. I mean, uh, and of
+
+1418
+01:20:32.589 --> 01:20:35.189
+course here we have to get into one of
+
+1419
+01:20:35.189 --> 01:20:40.200
+the most prominent and famous approaches to scientific progress
+
+1420
+01:20:40.200 --> 01:20:43.850
+that come, that came from Thomas Kuhn, but, uh,
+
+1421
+01:20:43.870 --> 01:20:46.399
+I, I mean, What, I, I, I guess I
+
+1422
+01:20:46.399 --> 01:20:49.919
+have two different kinds of questions here. So, or,
+
+1423
+01:20:50.290 --> 01:20:52.129
+or three even. What, so first of all, what
+
+1424
+01:20:52.129 --> 01:20:56.569
+is scientific progress and how do you think we
+
+1425
+01:20:56.569 --> 01:20:57.770
+should approach it?
+
+1426
+01:20:58.830 --> 01:21:02.200
+OK, yeah, yeah, so you mentioned Kon and uh
+
+1427
+01:21:02.200 --> 01:21:04.439
+you, you're noting that scientific progress is, yeah, a
+
+1428
+01:21:04.439 --> 01:21:07.379
+core topic for philosophy of science. Um, WE do
+
+1429
+01:21:07.379 --> 01:21:09.790
+want to know like what is scientific progress. Like
+
+1430
+01:21:09.790 --> 01:21:13.129
+science appears to be progressing somehow, right? It's getting
+
+1431
+01:21:13.569 --> 01:21:16.390
+better and better at doing something. Um, WHAT is
+
+1432
+01:21:16.390 --> 01:21:18.589
+it getting better and better at? What actually, how
+
+1433
+01:21:18.589 --> 01:21:22.470
+should we understand scientific progress? Um, MOST accounts of
+
+1434
+01:21:22.470 --> 01:21:25.029
+scientific progress are factive, to go back to that
+
+1435
+01:21:25.029 --> 01:21:27.569
+term we used earlier, right? They're based on. Uh,
+
+1436
+01:21:28.149 --> 01:21:30.419
+BASICALLY a view that science makes progress when it
+
+1437
+01:21:30.419 --> 01:21:33.430
+accumulates more truths, more knowledge, more facts about the
+
+1438
+01:21:33.430 --> 01:21:37.529
+world. Um, SOMETIMES some people have an understanding-based view
+
+1439
+01:21:37.830 --> 01:21:40.149
+of scientific progress. They say science makes progress when
+
+1440
+01:21:40.149 --> 01:21:43.580
+it, uh, when our scientific understanding improves, but by
+
+1441
+01:21:43.580 --> 01:21:45.790
+understanding they typically have a factive notion of understanding.
+
+1442
+01:21:45.990 --> 01:21:48.970
+So most accounts of scientific progress are factive, um.
+
+1443
+01:21:50.129 --> 01:21:56.250
+And One possible definition of scientific progress could be
+
+1444
+01:21:56.250 --> 01:21:57.970
+based on my account of common knowledge. So if
+
+1445
+01:21:57.970 --> 01:22:00.209
+I say that the constitutive end of science is
+
+1446
+01:22:00.209 --> 01:22:02.450
+common knowledge, then one could just build in an
+
+1447
+01:22:02.450 --> 01:22:05.330
+account of progress that says, well, we get scientific
+
+1448
+01:22:05.330 --> 01:22:07.600
+progress when we get an accumulation of common knowledge.
+
+1449
+01:22:07.879 --> 01:22:10.000
+Um, THAT would also be a factive account, that
+
+1450
+01:22:10.000 --> 01:22:13.089
+would be a factive approach to, to, to scientific
+
+1451
+01:22:13.089 --> 01:22:18.990
+progress. Um, I. I'm not deeply opposed to an
+
+1452
+01:22:18.990 --> 01:22:21.750
+account like that, I guess I think my, I
+
+1453
+01:22:21.750 --> 01:22:23.709
+might be OK with an account like that. What
+
+1454
+01:22:23.709 --> 01:22:25.430
+I try to do in the book is argue
+
+1455
+01:22:25.430 --> 01:22:29.009
+for an account of scientific progress that is not
+
+1456
+01:22:29.430 --> 01:22:32.229
+product oriented, but rather is process oriented, which is
+
+1457
+01:22:32.229 --> 01:22:37.040
+focused on justification. Rather than The accumulation of truths
+
+1458
+01:22:37.040 --> 01:22:39.819
+or knowledge, common knowledge or whatever. So what I,
+
+1459
+01:22:39.899 --> 01:22:47.479
+what I argue is that. Justification is like epistemically
+
+1460
+01:22:47.479 --> 01:22:51.319
+accessible to us in real time, so we can
+
+1461
+01:22:51.319 --> 01:22:55.060
+judge and scientists can know if they're making progress
+
+1462
+01:22:55.439 --> 01:22:57.879
+in real time because they can judge the extent
+
+1463
+01:22:57.879 --> 01:23:02.120
+to which some some scientific work is truly justificatory
+
+1464
+01:23:02.359 --> 01:23:06.220
+or not, um, but they can't in real time
+
+1465
+01:23:06.220 --> 01:23:08.919
+know if their claims are true because again it
+
+1466
+01:23:08.919 --> 01:23:13.140
+takes. Usually truth is ascertained in science retrospectively, right?
+
+1467
+01:23:13.180 --> 01:23:16.500
+Like there's got to be this decades of iteration,
+
+1468
+01:23:16.620 --> 01:23:18.379
+public criticism of reasons and so on. So it
+
+1469
+01:23:18.379 --> 01:23:20.700
+can take years or decades, like, you know, Watson
+
+1470
+01:23:20.700 --> 01:23:23.859
+and Crick first published their paper in Nature articulating
+
+1471
+01:23:23.859 --> 01:23:27.290
+the structure of DNA that was in 1953, but
+
+1472
+01:23:27.290 --> 01:23:28.660
+it was only like 10 years later that they
+
+1473
+01:23:28.660 --> 01:23:30.890
+won the Nobel Prize. You know, there's examples like
+
+1474
+01:23:30.890 --> 01:23:33.700
+this, it takes time for scientific communities to really
+
+1475
+01:23:33.700 --> 01:23:36.890
+establish that they've got common knowledge, um, but we
+
+1476
+01:23:36.890 --> 01:23:38.979
+want to be able to judge progress in real
+
+1477
+01:23:38.979 --> 01:23:42.060
+time. So like I think about, for example, a
+
+1478
+01:23:42.060 --> 01:23:47.339
+mountaineer who's climbing a mountain. That mountaineer. Wants to
+
+1479
+01:23:47.339 --> 01:23:50.370
+know if they're. On the right path if they're,
+
+1480
+01:23:50.450 --> 01:23:53.700
+if they're, you know, approaching the summit, they want
+
+1481
+01:23:53.700 --> 01:23:56.600
+to know that their effort's not wasted, you know,
+
+1482
+01:23:57.000 --> 01:24:01.549
+um, and so, Being able to determine that there.
+
+1483
+01:24:02.700 --> 01:24:04.939
+Um, ON their way up the mountain rather than
+
+1484
+01:24:04.939 --> 01:24:07.740
+getting lost is really important for them, and I
+
+1485
+01:24:07.740 --> 01:24:09.140
+think the same is true for science. So I
+
+1486
+01:24:09.140 --> 01:24:11.879
+think that scientists should be able to judge progress
+
+1487
+01:24:11.939 --> 01:24:15.939
+in real time and a justification centered account of
+
+1488
+01:24:15.939 --> 01:24:21.060
+progress is accessible in real time. Um, SO that's
+
+1489
+01:24:21.060 --> 01:24:23.339
+the, that's the kind of argument that I give
+
+1490
+01:24:23.339 --> 01:24:23.979
+in that chapter.
+
+1491
+01:24:24.939 --> 01:24:27.580
+And what do you make of, uh, I mean,
+
+1492
+01:24:27.620 --> 01:24:30.379
+I'm just asking you about him because of course
+
+1493
+01:24:30.379 --> 01:24:34.279
+he's very prominent when it comes to this question
+
+1494
+01:24:34.279 --> 01:24:38.450
+specifically, but what do you make of Thomas Kuhn's
+
+1495
+01:24:38.450 --> 01:24:42.560
+suggestion that, uh, I mean, basically science goes through
+
+1496
+01:24:42.899 --> 01:24:47.540
+revolutions and paradigms change and all of that. So
+
+1497
+01:24:47.540 --> 01:24:49.970
+I mean, what do you make of his suggestions?
+
+1498
+01:24:50.500 --> 01:24:53.939
+I'm really glad you're asking this question because um
+
+1499
+01:24:54.370 --> 01:24:58.330
+In addition to Popper, Kon has perhaps had. You
+
+1500
+01:24:58.330 --> 01:25:01.759
+know, the most influence or, or a large amount
+
+1501
+01:25:01.759 --> 01:25:04.700
+of influence on both scientific thinking about science and
+
+1502
+01:25:04.959 --> 01:25:08.479
+about public perceptions of science, public views about how,
+
+1503
+01:25:08.600 --> 01:25:12.000
+so, right, there's this revolution-based view that's, um, thanks
+
+1504
+01:25:12.000 --> 01:25:15.290
+to Thomas Kuhn, so the idea is like science
+
+1505
+01:25:15.290 --> 01:25:18.459
+can, can work within a paradigm for a while,
+
+1506
+01:25:18.680 --> 01:25:21.799
+decades or centuries, and then. There will be all
+
+1507
+01:25:21.799 --> 01:25:24.919
+these anomalies that crop up after like the equipments
+
+1508
+01:25:24.919 --> 01:25:27.040
+get better, more experiments are done, more evidence is
+
+1509
+01:25:27.040 --> 01:25:29.879
+gathered. There's this accumulation of novelties that the existing
+
+1510
+01:25:29.879 --> 01:25:33.399
+paradigm can't accommodate, and then that will just lead
+
+1511
+01:25:33.399 --> 01:25:36.160
+to this kind of breakdown, this revolution, scientists like
+
+1512
+01:25:36.160 --> 01:25:40.439
+completely rethink um foundations of their domain from bottom
+
+1513
+01:25:40.439 --> 01:25:44.669
+up. They articulate new theories, that's, and then that
+
+1514
+01:25:45.200 --> 01:25:48.640
+generates a revolution. The old theories are chucked out,
+
+1515
+01:25:49.040 --> 01:25:51.439
+so there's lots of examples of this like the
+
+1516
+01:25:51.439 --> 01:25:55.959
+rejection of Newtonian physics, um, um, by, you know,
+
+1517
+01:25:56.160 --> 01:25:59.470
+Einsteinian physics, for example, there's lots of examples like
+
+1518
+01:25:59.470 --> 01:26:05.839
+this. That was Kuhn's view about science, um. I
+
+1519
+01:26:05.839 --> 01:26:10.729
+suppose so. I basically think that he exaggerated. I
+
+1520
+01:26:10.729 --> 01:26:15.209
+think he, he, he was exaggerating about the frequency
+
+1521
+01:26:15.209 --> 01:26:18.649
+of revolutions, about how widespread revolutions are, and I
+
+1522
+01:26:18.649 --> 01:26:23.720
+also think that, um, For certain domains of science,
+
+1523
+01:26:23.970 --> 01:26:28.129
+for certain kinds of claims, they're revolution free basically
+
+1524
+01:26:28.129 --> 01:26:34.890
+because, because key theoretical claims in some domains are
+
+1525
+01:26:34.890 --> 01:26:37.850
+common knowledge, they're contributions to timeless truths. So like
+
+1526
+01:26:37.850 --> 01:26:39.930
+there will be, there will never be a revolution,
+
+1527
+01:26:40.009 --> 01:26:42.689
+a scientific revolution about the structure of DNA, for
+
+1528
+01:26:42.689 --> 01:26:45.770
+example, not the macrostructure of DNA. Like the macrostructure
+
+1529
+01:26:45.770 --> 01:26:47.600
+of DNA is a double helix and that's a
+
+1530
+01:26:47.600 --> 01:26:50.009
+timeless truth. It's never going to undergo a revolution
+
+1531
+01:26:50.009 --> 01:26:52.299
+in this. So, you know, Koon's focus was on
+
+1532
+01:26:52.299 --> 01:26:58.870
+like. Abstract physical theories, um. You know, the switch
+
+1533
+01:26:58.870 --> 01:27:03.750
+from Newtonian physics to special relativity, for example, it
+
+1534
+01:27:03.750 --> 01:27:06.850
+could be that for physics at its cutting edge.
+
+1535
+01:27:08.149 --> 01:27:11.270
+These are, this is a domain, either physics about
+
+1536
+01:27:11.270 --> 01:27:14.850
+the tiny world, you know, the smallest components of
+
+1537
+01:27:14.859 --> 01:27:18.549
+of matter, or physics at the largest scale, like
+
+1538
+01:27:18.549 --> 01:27:20.430
+the structure of the universe on the far side
+
+1539
+01:27:20.430 --> 01:27:22.390
+of the universe. So it could be that we're
+
+1540
+01:27:22.390 --> 01:27:25.910
+like the structure of the universe a nanosecond after
+
+1541
+01:27:25.910 --> 01:27:28.149
+the Big Bang, right? So it could be that
+
+1542
+01:27:28.160 --> 01:27:31.259
+for certain kinds of questions at cutting edge physics,
+
+1543
+01:27:31.430 --> 01:27:35.669
+astrophysics and particle physics. That those claims at the
+
+1544
+01:27:35.669 --> 01:27:38.910
+cutting edge are just always going to be risky,
+
+1545
+01:27:38.990 --> 01:27:42.470
+epistemically risky in the sense that they're making bold
+
+1546
+01:27:42.470 --> 01:27:48.790
+claims about Like spatiotemporal features of the world that
+
+1547
+01:27:48.790 --> 01:27:51.540
+are really removed from us, so there's a kind
+
+1548
+01:27:51.540 --> 01:27:54.620
+of evidence theory disconnect, so to speak. Philosophers sometimes
+
+1549
+01:27:54.620 --> 01:27:58.339
+use the word underdetermination. The theories are massively underdetermined
+
+1550
+01:27:58.339 --> 01:28:00.290
+by the available evidence. So it could be that
+
+1551
+01:28:00.290 --> 01:28:02.660
+for those domains, Kuhn was right, that we'll go
+
+1552
+01:28:02.660 --> 01:28:06.180
+through revolutions. Um, THAT, that's, I'm, I'm willing to
+
+1553
+01:28:06.180 --> 01:28:09.459
+go with Kuhn on that. But for spatiotemporal scales
+
+1554
+01:28:09.459 --> 01:28:11.740
+that are much more accessible to us, even like,
+
+1555
+01:28:11.850 --> 01:28:13.180
+you know, the structure of the DNA or the
+
+1556
+01:28:13.180 --> 01:28:15.770
+structure of the atom. Uh, OR, you know, the
+
+1557
+01:28:15.770 --> 01:28:19.890
+existence of dinosaurs, um, middle sized, so to speak,
+
+1558
+01:28:20.049 --> 01:28:23.129
+like middle sized relative to the absolute smallest scales
+
+1559
+01:28:23.129 --> 01:28:26.870
+and biggest scales, um, for those kinds of domains,
+
+1560
+01:28:27.290 --> 01:28:33.810
+we can generate robust. Knowledge, common knowledge, our, our
+
+1561
+01:28:33.810 --> 01:28:37.279
+common knowledge about these domains are timeless truths. They're
+
+1562
+01:28:37.279 --> 01:28:40.640
+not going to go through revolutions. Um, SO I
+
+1563
+01:28:40.640 --> 01:28:45.359
+think Kohn was exaggerating about the how, um, widespread
+
+1564
+01:28:45.359 --> 01:28:50.140
+this notion, uh, how widespread this notion applies. Um,
+
+1565
+01:28:50.560 --> 01:28:53.509
+THIS is really worth saying, and you know, I,
+
+1566
+01:28:53.600 --> 01:28:55.069
+I lay all lay all this out in the
+
+1567
+01:28:55.069 --> 01:28:58.240
+book because we think about, you know, to, to
+
+1568
+01:28:58.240 --> 01:29:03.109
+kind of repeat. The two biggest influences on thinking
+
+1569
+01:29:03.109 --> 01:29:06.390
+about science at this meta level are Popper and
+
+1570
+01:29:06.390 --> 01:29:10.669
+Koon, and when we take the two together, we've
+
+1571
+01:29:10.669 --> 01:29:13.600
+been discussing their ideas quite a, quite a bit,
+
+1572
+01:29:13.870 --> 01:29:17.379
+when we take the two together. It's tempting to
+
+1573
+01:29:17.379 --> 01:29:23.430
+conclude that Science can never really attain truths that
+
+1574
+01:29:23.430 --> 01:29:25.669
+will really withstand the test of time in the
+
+1575
+01:29:25.669 --> 01:29:29.220
+long run. There'll always be revolutions, you know, Popper
+
+1576
+01:29:29.220 --> 01:29:31.189
+wanted to say that we don't even have like
+
+1577
+01:29:31.189 --> 01:29:35.009
+confirmed theories, right? We can only sort of tentatively
+
+1578
+01:29:35.080 --> 01:29:38.990
+entertain theories. So, as you, as you know, you
+
+1579
+01:29:38.990 --> 01:29:41.830
+know, Konn had this radical view that we're always
+
+1580
+01:29:41.830 --> 01:29:44.229
+going to chuck out theories, always go through revolution.
+
+1581
+01:29:44.589 --> 01:29:47.540
+So, That's the view that we might inherit if
+
+1582
+01:29:47.540 --> 01:29:50.080
+we take them too seriously, and I think that
+
+1583
+01:29:50.089 --> 01:29:53.299
+that view is wrong, um, and that view can
+
+1584
+01:29:53.299 --> 01:29:55.740
+generate this like deep distrust of science, right? Like
+
+1585
+01:29:55.740 --> 01:29:58.259
+why should we trust science if it's just a
+
+1586
+01:29:58.259 --> 01:30:00.040
+graveyard of dead theories, if it's just going to
+
+1587
+01:30:00.040 --> 01:30:03.459
+go through one revolution after another, right? Um, WHY
+
+1588
+01:30:03.459 --> 01:30:05.299
+would you even get on an airplane if, you
+
+1589
+01:30:05.299 --> 01:30:08.220
+know, our understanding of aerodynamics is just going to
+
+1590
+01:30:08.220 --> 01:30:11.620
+be completely overturned next, next decade or century or
+
+1591
+01:30:11.620 --> 01:30:15.339
+whatever, right? So, Science is not just a graveyard
+
+1592
+01:30:15.339 --> 01:30:17.379
+of dead theories. In fact, quite the opposite. Science
+
+1593
+01:30:17.379 --> 01:30:20.379
+at its best has these achievements, what I call
+
+1594
+01:30:20.379 --> 01:30:25.379
+common knowledge, or timeless truths that are always going
+
+1595
+01:30:25.379 --> 01:30:28.740
+to be with us. They're just permanent achievements. And
+
+1596
+01:30:28.740 --> 01:30:31.240
+so I really think that Kuhn, although Kuhn might
+
+1597
+01:30:31.240 --> 01:30:33.899
+have been right about something and Popper might have
+
+1598
+01:30:33.899 --> 01:30:36.759
+been right about something. Um, WHAT I'm trying to
+
+1599
+01:30:36.759 --> 01:30:38.240
+do in the book, in at least a chapter
+
+1600
+01:30:38.240 --> 01:30:40.839
+or two of the book, is to really push
+
+1601
+01:30:40.839 --> 01:30:43.399
+back against their exaggerations and offer a kind of
+
+1602
+01:30:43.399 --> 01:30:45.359
+a more realistic view about science, but a science
+
+1603
+01:30:45.359 --> 01:30:48.959
+that also like a view about science that acknowledges
+
+1604
+01:30:48.959 --> 01:30:50.759
+the achievements where they are.
+
+1605
+01:30:51.259 --> 01:30:53.819
+Mhm. Yeah, and I mean, I don't know if
+
+1606
+01:30:53.819 --> 01:30:56.370
+you will agree with me on this point, but,
+
+1607
+01:30:56.379 --> 01:31:01.649
+and I'm not sure whether it's it's something that
+
+1608
+01:31:01.649 --> 01:31:04.419
+could influence directly or not, or if it's, or
+
+1609
+01:31:04.419 --> 01:31:08.859
+if it comes from other uh erroneous ideas that
+
+1610
+01:31:08.859 --> 01:31:11.609
+are very common about that people have about how
+
+1611
+01:31:11.609 --> 01:31:14.939
+science works or should work or is expected to
+
+1612
+01:31:14.939 --> 01:31:18.339
+work, but I, I mean, I think that even
+
+1613
+01:31:18.339 --> 01:31:25.720
+many scientists themselves, uh. HAVE this common idea that
+
+1614
+01:31:26.979 --> 01:31:29.580
+they look at science. I mean this happens. I
+
+1615
+01:31:29.580 --> 01:31:34.459
+see it happening more with older scientists or the
+
+1616
+01:31:34.459 --> 01:31:38.629
+ones who are even already retired, where, for example,
+
+1617
+01:31:38.779 --> 01:31:41.779
+they look back in evolution, I mean, I'm just
+
+1618
+01:31:41.779 --> 01:31:44.379
+going to give an example in evolutionary biology they
+
+1619
+01:31:44.379 --> 01:31:47.419
+look back and they say, oh, in the 1960s,
+
+1620
+01:31:47.459 --> 01:31:52.100
+1970s there were all these great Development, sexual selection,
+
+1621
+01:31:52.180 --> 01:31:55.490
+kin selection, and all of that, and now it's,
+
+1622
+01:31:55.500 --> 01:31:58.060
+uh, I look at the present moment, the past
+
+1623
+01:31:58.060 --> 01:32:01.209
+few decades, and it's basically stagnated. But I mean,
+
+1624
+01:32:01.220 --> 01:32:04.180
+it's not really, because if you talk with people
+
+1625
+01:32:04.180 --> 01:32:08.069
+that are doing the work right now, you have
+
+1626
+01:32:08.069 --> 01:32:12.259
+more knowledge in terms of how, for example, speciation
+
+1627
+01:32:12.259 --> 01:32:16.459
+works and you have many great developments in terms
+
+1628
+01:32:16.459 --> 01:32:21.259
+of developmental biology. Developmental bias, for example, and how
+
+1629
+01:32:21.259 --> 01:32:25.740
+it might influence the evolution of species and you
+
+1630
+01:32:25.740 --> 01:32:29.899
+have things that some people like to associate, others
+
+1631
+01:32:29.899 --> 01:32:32.459
+don't don't really like to do it with the
+
+1632
+01:32:32.459 --> 01:32:36.580
+extended evolutionary synthesis. I mean work on niche construction
+
+1633
+01:32:36.580 --> 01:32:39.180
+and all of that kind of thing, but I
+
+1634
+01:32:39.180 --> 01:32:44.000
+mean, of course, those that work is not as
+
+1635
+01:32:44.419 --> 01:32:49.779
+sensational as all sexual. Selection, natural selection, kin selection,
+
+1636
+01:32:49.939 --> 01:32:53.620
+the, the theory of evolution itself. I mean, I
+
+1637
+01:32:53.620 --> 01:32:57.060
+guess, yeah, it's, it's not as exciting. I mean,
+
+1638
+01:32:57.540 --> 01:33:00.779
+but that's just to be expected because I mean,
+
+1639
+01:33:00.810 --> 01:33:05.979
+most science actually, to be perfectly honest, is kind
+
+1640
+01:33:05.979 --> 01:33:08.959
+of boring. I mean, it's interesting but boring at
+
+1641
+01:33:08.959 --> 01:33:11.339
+the same time. I mean it's, it's a bit
+
+1642
+01:33:11.339 --> 01:33:15.180
+weird, but, and, and also, I mean, I guess
+
+1643
+01:33:15.180 --> 01:33:19.029
+that. Some of those people, like I don't know,
+
+1644
+01:33:19.149 --> 01:33:21.790
+even going all the way back to Darwin, I
+
+1645
+01:33:21.790 --> 01:33:24.520
+mean they were in a sense in a privileged
+
+1646
+01:33:24.520 --> 01:33:28.430
+position because they were in a context where those
+
+1647
+01:33:28.430 --> 01:33:31.790
+major theories weren't developed yet and so they had
+
+1648
+01:33:31.790 --> 01:33:34.814
+the Opportunity to do so and I mean now
+
+1649
+01:33:35.794 --> 01:33:39.404
+people cannot go back in time and recreate the
+
+1650
+01:33:39.475 --> 01:33:43.234
+theory of evolution by natural selection. I mean, it's
+
+1651
+01:33:43.234 --> 01:33:46.714
+already there. It's not going to happen again. So
+
+1652
+01:33:46.714 --> 01:33:50.549
+I mean, but I guess that. Even some scientists
+
+1653
+01:33:50.549 --> 01:33:54.350
+themselves have these or get these erroneous ideas that
+
+1654
+01:33:54.350 --> 01:33:58.149
+oh if we don't have this sort of bombastic
+
+1655
+01:33:58.149 --> 01:34:01.229
+findings occurring all the time, that science is not
+
+1656
+01:34:01.229 --> 01:34:04.089
+progressing at all and I, I mean, I don't
+
+1657
+01:34:04.830 --> 01:34:06.620
+look at it that way at all. I mean,
+
+1658
+01:34:06.700 --> 01:34:07.950
+do you agree with that?
+
+1659
+01:34:08.430 --> 01:34:10.310
+Yeah, yeah, definitely, yeah, yeah, yeah. I mean, of
+
+1660
+01:34:10.310 --> 01:34:13.549
+course, it's wonderful that, um, you know, we, we've
+
+1661
+01:34:13.549 --> 01:34:18.229
+got, you know, Darwin, Darwin, Darwinian evolutionary theory was
+
+1662
+01:34:18.229 --> 01:34:21.500
+this massively important thing, and I totally agree with
+
+1663
+01:34:21.500 --> 01:34:23.709
+you that um it's not going to be overturned.
+
+1664
+01:34:23.819 --> 01:34:25.270
+It's not like there's going to be a revolution
+
+1665
+01:34:25.270 --> 01:34:29.209
+about Darwinian evolutionary biology. Um, BUT there will be
+
+1666
+01:34:29.589 --> 01:34:32.870
+lots of more fine-grained things that we can, um,
+
+1667
+01:34:33.310 --> 01:34:37.729
+come to understand about, about evolution, um, and so,
+
+1668
+01:34:38.220 --> 01:34:41.390
+uh, I, yeah, taking a finer grained approach, that's
+
+1669
+01:34:41.390 --> 01:34:42.830
+part of the spirit of the book, right, is
+
+1670
+01:34:42.830 --> 01:34:45.430
+we should be taking whenever we're thinking about scientific
+
+1671
+01:34:45.430 --> 01:34:49.270
+evaluation, the goods of science, scientific demarcation, progress in
+
+1672
+01:34:49.270 --> 01:34:51.430
+science, our approach should be sort of fine grained,
+
+1673
+01:34:51.509 --> 01:34:53.509
+right? We should be like kind of zooming in
+
+1674
+01:34:53.509 --> 01:34:53.830
+a bit.
+
+1675
+01:34:54.540 --> 01:34:58.379
+Mhm. Yeah, so, I mean, I have two more
+
+1676
+01:34:58.379 --> 01:35:00.410
+topics I would like to ask you about. So,
+
+1677
+01:35:00.419 --> 01:35:03.140
+uh, I, I think at least this one is
+
+1678
+01:35:03.140 --> 01:35:06.589
+important also to explore here. So in the book
+
+1679
+01:35:06.589 --> 01:35:10.270
+you also talk about, uh, the allocation of credit
+
+1680
+01:35:10.410 --> 01:35:13.759
+in science. So, I mean, uh, tell us what,
+
+1681
+01:35:13.850 --> 01:35:17.899
+uh, credit allocation is, uh, particularly in the case
+
+1682
+01:35:17.899 --> 01:35:21.180
+of science, and, uh, what do, uh, what do
+
+1683
+01:35:21.180 --> 01:35:24.350
+you think are the rules it should follow?
+
+1684
+01:35:25.410 --> 01:35:28.700
+Yeah, good. OK, so, you know, credit, credit in
+
+1685
+01:35:28.700 --> 01:35:31.859
+science comes in many forms. Um, SO it can
+
+1686
+01:35:31.859 --> 01:35:35.220
+be, uh, you know, it can be a prize.
+
+1687
+01:35:35.330 --> 01:35:37.859
+These are famous examples of credit, credits like the,
+
+1688
+01:35:38.060 --> 01:35:40.140
+the Nobel Prize. There's a bunch of different kinds
+
+1689
+01:35:40.140 --> 01:35:43.580
+of prizes. It can come in more mundane forms
+
+1690
+01:35:43.580 --> 01:35:46.660
+like getting a good job, getting a promotion, getting
+
+1691
+01:35:46.660 --> 01:35:50.600
+tenure, uh, getting a job in a fancy university,
+
+1692
+01:35:50.899 --> 01:35:53.850
+um. It can get, it can come in sort
+
+1693
+01:35:53.850 --> 01:35:58.609
+of softer forms like um having lots of interested
+
+1694
+01:35:58.609 --> 01:36:01.370
+graduate students, right, uh, graduate students want to come
+
+1695
+01:36:01.370 --> 01:36:03.810
+work with you because you've done some interesting scientific
+
+1696
+01:36:03.810 --> 01:36:07.450
+work. um, SO yeah, credit comes in, in different
+
+1697
+01:36:07.450 --> 01:36:10.770
+kinds of forms. I mean, other, you know, other
+
+1698
+01:36:10.770 --> 01:36:14.819
+familiar examples are like. The naming of things, um,
+
+1699
+01:36:14.970 --> 01:36:16.930
+this was, uh, you know, a famous example of
+
+1700
+01:36:16.930 --> 01:36:20.089
+credit, right? So the naming of particles, the naming
+
+1701
+01:36:20.089 --> 01:36:24.419
+of, um, you know, various astronomical things like Halley's
+
+1702
+01:36:24.419 --> 01:36:28.450
+comet, right, um, so naming of entities, naming of
+
+1703
+01:36:28.450 --> 01:36:31.490
+discovered species, for example, that's a way of kind
+
+1704
+01:36:31.490 --> 01:36:36.330
+of honoring, um, scientists on conferring credit on them.
+
+1705
+01:36:36.529 --> 01:36:37.799
+So there's all sorts of ways in which credit
+
+1706
+01:36:37.799 --> 01:36:40.209
+is conferred in science. Credit comes in many different
+
+1707
+01:36:40.209 --> 01:36:43.899
+forms. Now, there's this very famous theory called the
+
+1708
+01:36:43.910 --> 01:36:47.959
+the priority rule. Um, THERE'S a sociologist of science,
+
+1709
+01:36:48.040 --> 01:36:53.709
+Merton. Who argued that the priority rules is the
+
+1710
+01:36:53.709 --> 01:36:57.100
+way that credit is allocated in science. The priority
+
+1711
+01:36:57.100 --> 01:37:00.060
+rule says winner takes all. The first person to
+
+1712
+01:37:00.060 --> 01:37:03.229
+discover something gets all the credit for for that
+
+1713
+01:37:03.229 --> 01:37:07.660
+discovery. And philosopher, philosophers of science have picked up
+
+1714
+01:37:07.660 --> 01:37:09.680
+on this idea and have run with it. They've
+
+1715
+01:37:09.680 --> 01:37:12.520
+said, yeah, Merton was right. The priority rule is
+
+1716
+01:37:12.520 --> 01:37:16.000
+how credit is allocated, and here are the various
+
+1717
+01:37:16.000 --> 01:37:18.560
+goods that come out of that priority rule. So
+
+1718
+01:37:18.560 --> 01:37:23.839
+it incentivizes the search for novelty. It motivates scientists
+
+1719
+01:37:23.839 --> 01:37:26.279
+to work really hard because, if it's only winner
+
+1720
+01:37:26.279 --> 01:37:27.830
+takes all, you've got to be the winner, right?
+
+1721
+01:37:28.879 --> 01:37:31.544
+So philosophers have adopted that as a premise. The
+
+1722
+01:37:31.544 --> 01:37:34.225
+priority rules in fact how the credit is allocated
+
+1723
+01:37:34.225 --> 01:37:36.535
+in science and then argue that this has normative
+
+1724
+01:37:36.535 --> 01:37:38.944
+implications like these good features about science that come
+
+1725
+01:37:38.944 --> 01:37:41.904
+out of the priority rule. I think that that's
+
+1726
+01:37:41.904 --> 01:37:45.345
+all wrong basically. So I spent a chapter arguing
+
+1727
+01:37:45.345 --> 01:37:47.185
+that this whole way of thinking about credit allocation
+
+1728
+01:37:47.185 --> 01:37:50.984
+in science is misguided. Um, SO what I argue
+
+1729
+01:37:50.984 --> 01:37:54.725
+that it's descriptively false, it's false that credit is
+
+1730
+01:37:54.725 --> 01:37:58.024
+allocated according to the priority rule, and I also
+
+1731
+01:37:58.024 --> 01:38:00.890
+argue that it's. That's, it's a good thing that
+
+1732
+01:38:00.890 --> 01:38:02.850
+credit is not allocated according to the priority rule
+
+1733
+01:38:02.850 --> 01:38:05.600
+because there are better ways to allocate credit um
+
+1734
+01:38:06.209 --> 01:38:09.569
+that have, that are more appropriate. Um, SO I
+
+1735
+01:38:09.569 --> 01:38:11.569
+give a descriptive, it's a descriptive thesis and a
+
+1736
+01:38:11.569 --> 01:38:14.729
+normative thesis in this chapter. Um, SO the descriptive
+
+1737
+01:38:14.729 --> 01:38:16.609
+thesis is I get, get it off the ground
+
+1738
+01:38:16.609 --> 01:38:20.529
+just by various appealing to various examples. Um, SO,
+
+1739
+01:38:20.729 --> 01:38:24.120
+so like one example that I like is the
+
+1740
+01:38:24.120 --> 01:38:28.080
+discovery of radiation. Um, SO I think there's a
+
+1741
+01:38:28.080 --> 01:38:30.919
+detailed historical example. It's really, really fun to read
+
+1742
+01:38:30.919 --> 01:38:32.879
+about this example. I give, I give it a,
+
+1743
+01:38:33.040 --> 01:38:34.270
+you know, maybe 2 or 3 pages in the
+
+1744
+01:38:34.270 --> 01:38:38.479
+book, but basically there was this, there's a scientist,
+
+1745
+01:38:38.520 --> 01:38:44.580
+Becare working in, in France. Who Sort of haphazardly
+
+1746
+01:38:44.580 --> 01:38:48.899
+discovered the phenomenon of radiation. So he was the
+
+1747
+01:38:48.899 --> 01:38:55.549
+first to actually generate. Existence, generate evidence for the
+
+1748
+01:38:55.549 --> 01:38:59.259
+existence of radiation. But he didn't do the hard
+
+1749
+01:38:59.259 --> 01:39:03.740
+work to understand radiation, to make sense of it,
+
+1750
+01:39:03.819 --> 01:39:07.080
+to generate like really careful evidence pertaining to radiation.
+
+1751
+01:39:07.859 --> 01:39:11.669
+Marie Curie did this. So Marie Curie Curie, um,
+
+1752
+01:39:12.339 --> 01:39:17.839
+working in with, with her husband, um, um, carefully.
+
+1753
+01:39:19.250 --> 01:39:25.350
+Generated really systematic evidence using novel experimental apparatus, uh,
+
+1754
+01:39:25.410 --> 01:39:29.310
+over, you know, months and years. And that was
+
+1755
+01:39:29.310 --> 01:39:31.100
+her PhD project. She ended up winning the Nobel
+
+1756
+01:39:31.100 --> 01:39:33.629
+Prize for this. Um, SO she was in a
+
+1757
+01:39:33.629 --> 01:39:37.149
+sense the second comer. Um, SHE wasn't the first
+
+1758
+01:39:37.149 --> 01:39:40.270
+comer, right? Becare was the first, but Marie Curie
+
+1759
+01:39:40.270 --> 01:39:43.990
+did all the hard work and um, she was
+
+1760
+01:39:43.990 --> 01:39:46.810
+rightly allocated credit for for all that hard work.
+
+1761
+01:39:47.390 --> 01:39:49.509
+So there's a case in which the second comer
+
+1762
+01:39:49.509 --> 01:39:52.580
+is given credit. And rightly so, right? So it's
+
+1763
+01:39:52.580 --> 01:39:54.620
+a descriptive thesis and a normative thesis. Like it's
+
+1764
+01:39:54.620 --> 01:39:56.259
+a good thing that we have, we gave credit
+
+1765
+01:39:56.259 --> 01:39:59.020
+to Marie Curie. Um, SO that's the, that's the
+
+1766
+01:39:59.020 --> 01:40:02.100
+kind of argument I give in that chapter. Um,
+
+1767
+01:40:02.970 --> 01:40:05.859
+ANOTHER sort of feature about the priority rule is
+
+1768
+01:40:05.859 --> 01:40:08.939
+that if you allocate credit according to priority rule,
+
+1769
+01:40:09.020 --> 01:40:12.979
+there's another feature. It's factive, right? So you're allocating
+
+1770
+01:40:12.979 --> 01:40:15.410
+credit according to the first person to discover a
+
+1771
+01:40:15.410 --> 01:40:22.100
+true claim, right, um. But actually What the, you
+
+1772
+01:40:22.100 --> 01:40:26.700
+know, what we're rewarding Marie Curie for was the
+
+1773
+01:40:26.700 --> 01:40:29.740
+quality of the work that she did. So it's
+
+1774
+01:40:29.740 --> 01:40:32.379
+again, it's process oriented rather than product oriented. So
+
+1775
+01:40:32.379 --> 01:40:35.140
+that's, that's another kind of slogan that I use.
+
+1776
+01:40:35.339 --> 01:40:37.979
+So that's another feature about the priority role. It's
+
+1777
+01:40:37.979 --> 01:40:42.140
+factive, but credit allocation is not and ought not
+
+1778
+01:40:42.140 --> 01:40:46.580
+be factive oriented. It should be process oriented. And
+
+1779
+01:40:46.580 --> 01:40:50.129
+then finally, If you give credit according to the
+
+1780
+01:40:50.129 --> 01:40:56.049
+priority rule, credit allocation, credit is like non-partable, so
+
+1781
+01:40:56.049 --> 01:40:59.040
+it's non-sharable in this sense. If it's winner takes
+
+1782
+01:40:59.040 --> 01:41:02.129
+all, then there's effectively only one winner. Now, of
+
+1783
+01:41:02.129 --> 01:41:06.169
+course, it's trivial that scientific groups, scientific teams can
+
+1784
+01:41:06.169 --> 01:41:08.169
+have more than one person on it, right? So
+
+1785
+01:41:08.169 --> 01:41:10.089
+you can share a credit in that sense, like
+
+1786
+01:41:10.089 --> 01:41:13.290
+when. The Nobel Prize was awarded for the discovery
+
+1787
+01:41:13.290 --> 01:41:16.049
+of the structure of DNA. Watson got it and
+
+1788
+01:41:16.049 --> 01:41:18.270
+Crick got it, right, and a third person too.
+
+1789
+01:41:18.689 --> 01:41:21.810
+So there's credit was shared in that sense, um.
+
+1790
+01:41:23.100 --> 01:41:24.660
+In the sense that there's multiple people on a
+
+1791
+01:41:24.660 --> 01:41:27.740
+team like generating evidence and theorizing about that evidence,
+
+1792
+01:41:28.379 --> 01:41:32.919
+but In fact, credit can be shared in a
+
+1793
+01:41:32.919 --> 01:41:35.319
+broader sense too, right? So it's not like we
+
+1794
+01:41:35.319 --> 01:41:42.040
+just forget completely that a second person was involved
+
+1795
+01:41:42.040 --> 01:41:46.870
+in, like in a completely separate independent team involved
+
+1796
+01:41:46.870 --> 01:41:53.000
+in generating evidence or theorizing about some novel claim.
+
+1797
+01:41:53.740 --> 01:41:57.140
+So credit is in fact shareable, and I give
+
+1798
+01:41:57.140 --> 01:42:00.410
+other examples of this um uh in, in the
+
+1799
+01:42:00.410 --> 01:42:04.060
+book. Um, SO yeah, the example I give, it's
+
+1800
+01:42:04.060 --> 01:42:07.859
+a really fun example, it's the discovery of nuclear
+
+1801
+01:42:07.859 --> 01:42:11.609
+nuclear fission. And this was like one of the
+
+1802
+01:42:11.609 --> 01:42:14.660
+most important discoveries of the 20th century, right? I
+
+1803
+01:42:14.660 --> 01:42:16.859
+mean, it led to the development of the atomic
+
+1804
+01:42:16.859 --> 01:42:18.779
+bomb, right? So it had this huge impact on,
+
+1805
+01:42:19.140 --> 01:42:21.500
+on our society and on World War II and
+
+1806
+01:42:21.500 --> 01:42:24.419
+so on. But when we ask like who discovered
+
+1807
+01:42:24.419 --> 01:42:28.819
+fission, it's almost a senseless question. Because, you know,
+
+1808
+01:42:28.979 --> 01:42:32.459
+there's one scientist, Fermi, who was developing some really
+
+1809
+01:42:32.459 --> 01:42:34.419
+strange evidence in his lab that he couldn't make
+
+1810
+01:42:34.419 --> 01:42:36.819
+sense of. He published a paper in which he
+
+1811
+01:42:36.819 --> 01:42:39.910
+thought that he was generating elements that were like
+
+1812
+01:42:39.910 --> 01:42:41.979
+heavier than uranium, which he wasn't. He won the
+
+1813
+01:42:41.979 --> 01:42:44.859
+Nobel Prize for that. So, you know, he did
+
+1814
+01:42:44.859 --> 01:42:48.060
+interesting work that like helped contribute to the discovery
+
+1815
+01:42:48.060 --> 01:42:50.299
+of fission, but he got like his theorizing about
+
+1816
+01:42:50.299 --> 01:42:53.600
+it was all wrong, um. Then there were these
+
+1817
+01:42:54.620 --> 01:42:58.379
+chemists and physicists who were trying to theoretically understand
+
+1818
+01:42:58.580 --> 01:43:02.450
+what Fermi had been generating in his lab. Um,
+
+1819
+01:43:02.540 --> 01:43:05.850
+Ida Nodak, uh, a character who appears in my
+
+1820
+01:43:05.850 --> 01:43:10.350
+book, um, was, um, such a person. She, she
+
+1821
+01:43:10.350 --> 01:43:12.330
+in fact got it right, so she was like
+
+1822
+01:43:12.330 --> 01:43:15.189
+basically the sort of progenitor of the, of the
+
+1823
+01:43:15.200 --> 01:43:18.870
+theory of fission. Um, THERE were other, others involved
+
+1824
+01:43:18.870 --> 01:43:21.410
+as well in generating more evidence for the existence
+
+1825
+01:43:21.410 --> 01:43:25.850
+of fission, improving upon Ferrami's methods. Um, WHO discovered
+
+1826
+01:43:25.850 --> 01:43:29.069
+fission? It's sort of a senseless question. There were
+
+1827
+01:43:29.069 --> 01:43:31.390
+these independent teams that were kind of, you know,
+
+1828
+01:43:31.959 --> 01:43:33.879
+this one was generating some evidence. This one was
+
+1829
+01:43:33.879 --> 01:43:36.160
+doing some theorizing. This one over here was trying
+
+1830
+01:43:36.160 --> 01:43:42.140
+to fuse the two. Credit is shareable, right, um,
+
+1831
+01:43:42.149 --> 01:43:44.160
+and it ought to be shareable, and it very
+
+1832
+01:43:44.160 --> 01:43:48.689
+often is, um, shared. Yeah, so that's, so I
+
+1833
+01:43:48.689 --> 01:43:50.899
+really in that chapter, I go after the priority
+
+1834
+01:43:50.899 --> 01:43:54.689
+rule, um, and I think that's, it's, it's important
+
+1835
+01:43:54.689 --> 01:43:57.729
+to do so. Again, it's about like celebrating the
+
+1836
+01:43:57.729 --> 01:44:01.299
+best of science, um, in appropriate ways, like, um,
+
+1837
+01:44:01.330 --> 01:44:03.549
+in ways that makes sense.
+
+1838
+01:44:05.060 --> 01:44:08.100
+OK, so one last, uh, topic that I would
+
+1839
+01:44:08.100 --> 01:44:12.339
+like to explore. You've already, uh, talked about, or
+
+1840
+01:44:12.339 --> 01:44:15.700
+a little bit about timeless truths in science. You
+
+1841
+01:44:15.700 --> 01:44:18.140
+gave the examples of, for example, the structure of
+
+1842
+01:44:18.140 --> 01:44:20.819
+DNA, the structure of the atom. I mean, I
+
+1843
+01:44:20.819 --> 01:44:24.180
+guess we could also talk about, for example, the
+
+1844
+01:44:24.180 --> 01:44:28.100
+particle physics in general, the theory of evolution by
+
+1845
+01:44:28.100 --> 01:44:30.979
+natural selection, I mean, uh, things like that. But,
+
+1846
+01:44:31.060 --> 01:44:35.379
+but do you think that Uh, those examples like
+
+1847
+01:44:35.379 --> 01:44:39.100
+those are. The rule in science, or are they
+
+1848
+01:44:39.100 --> 01:44:40.830
+the exception? I mean, do you think that they
+
+1849
+01:44:40.830 --> 01:44:44.910
+are representative of most of the knowledge that is
+
+1850
+01:44:44.910 --> 01:44:50.669
+generated in science, or that perhaps most of the
+
+1851
+01:44:50.669 --> 01:44:56.785
+knowledge is always up for being I, I mean,
+
+1852
+01:44:57.104 --> 01:45:03.334
+even more than debated being replaced by better knowledge
+
+1853
+01:45:03.435 --> 01:45:06.424
+in the future. I mean, the, the, and um
+
+1854
+01:45:06.424 --> 01:45:10.634
+most scientific knowledge is not actually or does not
+
+1855
+01:45:10.634 --> 01:45:13.285
+correspond to timeless truths.
+
+1856
+01:45:14.354 --> 01:45:17.339
+OK, yeah, yeah. So again, I might go back
+
+1857
+01:45:17.339 --> 01:45:19.950
+to this kind of distinction between science at its
+
+1858
+01:45:19.950 --> 01:45:22.629
+cutting edge and, you know, science that's gone through
+
+1859
+01:45:22.629 --> 01:45:26.629
+these years of iterations of articulated criticism and improvement
+
+1860
+01:45:26.629 --> 01:45:29.899
+upon the, you know, reasons offered for various claims.
+
+1861
+01:45:30.310 --> 01:45:32.189
+So I think probably science at its cutting edge,
+
+1862
+01:45:32.430 --> 01:45:34.189
+especially science again to go back to this idea
+
+1863
+01:45:34.189 --> 01:45:39.390
+of underdetermined theories, right? So science that's, you know,
+
+1864
+01:45:39.509 --> 01:45:42.259
+about the very smallest aspects of nature or the
+
+1865
+01:45:42.259 --> 01:45:44.990
+very biggest, most distant aspects of nature, both in
+
+1866
+01:45:44.990 --> 01:45:50.620
+space and time. Scientific claims in those domains are
+
+1867
+01:45:51.149 --> 01:45:54.470
+at the cutting edge, are extremely unlikely to be
+
+1868
+01:45:54.470 --> 01:45:57.629
+timeless truths. The vast majority of scientific claims in
+
+1869
+01:45:57.629 --> 01:46:01.399
+those domains are not timeless truths, um, but in
+
+1870
+01:46:01.399 --> 01:46:05.950
+more accessible spatiotemporal scales, like all the examples that
+
+1871
+01:46:05.950 --> 01:46:09.700
+we've been using, um, the structure of DNA, dinosaurs,
+
+1872
+01:46:10.009 --> 01:46:14.109
+things like that, um. Those are timeless truths, and,
+
+1873
+01:46:14.160 --> 01:46:16.120
+and sometimes these timeless truths are in fact really,
+
+1874
+01:46:16.200 --> 01:46:24.180
+really like about. ARCANE, sophisticated like aspects of nature.
+
+1875
+01:46:24.299 --> 01:46:26.140
+So like I use the example of the measurement
+
+1876
+01:46:26.140 --> 01:46:28.740
+of the charge of the electron, right? So imagine
+
+1877
+01:46:28.740 --> 01:46:30.979
+we can measure the charge of the electron to
+
+1878
+01:46:30.979 --> 01:46:35.100
+20 decimal places of a coom. This is. Astonishing,
+
+1879
+01:46:35.180 --> 01:46:36.220
+right, and we've been able to do that for
+
+1880
+01:46:36.220 --> 01:46:38.859
+100 years, right? So it's, it's a, it's, it's.
+
+1881
+01:46:39.799 --> 01:46:42.560
+So if we The charge of the electron has
+
+1882
+01:46:42.560 --> 01:46:44.979
+been steady. The estimates of the charge of the
+
+1883
+01:46:44.979 --> 01:46:47.220
+electron have been steady at 20 decimal places of
+
+1884
+01:46:47.220 --> 01:46:50.660
+a coolom for 100 years. So at 16 decimal
+
+1885
+01:46:50.660 --> 01:46:53.419
+places of a coolom, that's just definitely a timeless
+
+1886
+01:46:53.419 --> 01:46:56.700
+truth, right? That's absolutely. And so science is filled
+
+1887
+01:46:56.700 --> 01:47:00.140
+with examples like this. So if we, if we
+
+1888
+01:47:00.140 --> 01:47:03.859
+kind of step away from the radically underdetermined domains
+
+1889
+01:47:03.859 --> 01:47:07.450
+of science and step away from The cutting edge
+
+1890
+01:47:07.450 --> 01:47:13.350
+of science. The The claims that have withstood withstood
+
+1891
+01:47:13.870 --> 01:47:16.990
+the decades of iteration of articulated reasons and criticism
+
+1892
+01:47:16.990 --> 01:47:21.259
+for those reasons in this like social context. Many
+
+1893
+01:47:21.259 --> 01:47:25.430
+of those are timeless truths. Um, THOSE are the,
+
+1894
+01:47:25.549 --> 01:47:27.109
+those are the claims that often can get into
+
+1895
+01:47:27.109 --> 01:47:31.270
+textbooks, for example. Um, SO yeah, there, there are
+
+1896
+01:47:31.270 --> 01:47:34.549
+timeless truths, and this goes back to something we
+
+1897
+01:47:34.549 --> 01:47:39.189
+spoke earlier about. For some reason, colleagues in sociology
+
+1898
+01:47:39.189 --> 01:47:41.790
+of science and philosophy of science and history of
+
+1899
+01:47:41.790 --> 01:47:45.310
+science for many years have been really nervous about
+
+1900
+01:47:45.310 --> 01:47:48.500
+this idea of timeless truths. They've often denied that
+
+1901
+01:47:48.500 --> 01:47:52.120
+there can be timeless truths. Um, AND I think
+
+1902
+01:47:52.120 --> 01:47:55.919
+that we should get over that nervousness. Um, I
+
+1903
+01:47:55.919 --> 01:47:58.160
+think it's a kind of legacy. It's in part
+
+1904
+01:47:58.160 --> 01:48:00.569
+a legacy of those big guys, Popper and Coon,
+
+1905
+01:48:00.919 --> 01:48:04.759
+and we should get past that very misleading legacy
+
+1906
+01:48:04.759 --> 01:48:06.160
+for many of the reasons that we've been speaking
+
+1907
+01:48:06.160 --> 01:48:10.140
+about. And again, like, celebrate the achievements of science
+
+1908
+01:48:10.140 --> 01:48:13.600
+at its best while maintaining the view that we
+
+1909
+01:48:13.600 --> 01:48:15.799
+should also be cautious about science when it's not
+
+1910
+01:48:15.799 --> 01:48:18.700
+at its best, like. Like science during the COVID
+
+1911
+01:48:18.700 --> 01:48:22.040
+pandemic, for example, um, yeah, so this is the
+
+1912
+01:48:22.040 --> 01:48:24.520
+kind of like, yes, there are timeless truths in
+
+1913
+01:48:24.520 --> 01:48:27.319
+science, and then yes, there are big swaths of
+
+1914
+01:48:27.319 --> 01:48:29.169
+science that we should be very cautious about.
+
+1915
+01:48:29.680 --> 01:48:33.370
+Mhm. OK, great. So the book is again Heart
+
+1916
+01:48:33.370 --> 01:48:37.810
+of Science, Philosophy of Scientific inquiry, and of course
+
+1917
+01:48:37.810 --> 01:48:40.250
+I'm leaving a link with the description of the
+
+1918
+01:48:40.250 --> 01:48:43.640
+interview. Uh, AND Doctor Steenge, would you like to,
+
+1919
+01:48:43.850 --> 01:48:46.729
+uh, tell people where they can find you and
+
+1920
+01:48:46.729 --> 01:48:48.490
+your work on the internet? I mean, I, I'm
+
+1921
+01:48:48.490 --> 01:48:51.410
+asking you because in our first interview, it was
+
+1922
+01:48:51.410 --> 01:48:54.270
+already 6 years ago, you have a, uh, an
+
+1923
+01:48:54.314 --> 01:48:58.075
+Another affiliation. So that give us, give us an
+
+1924
+01:48:58.075 --> 01:49:01.705
+updated version of where people can find you on
+
+1925
+01:49:01.705 --> 01:49:02.314
+the internet. Oh
+
+1926
+01:49:02.314 --> 01:49:04.714
+yeah, I mean, like my, my main website is
+
+1927
+01:49:04.714 --> 01:49:08.265
+available um just by Googling my name and, um,
+
+1928
+01:49:08.544 --> 01:49:11.075
+a lot of my, most of my published articles
+
+1929
+01:49:11.075 --> 01:49:14.955
+are freely available on my website. So if viewers
+
+1930
+01:49:14.955 --> 01:49:16.674
+want to just look at those articles they can,
+
+1931
+01:49:16.754 --> 01:49:20.055
+they're just available on my website. The book is,
+
+1932
+01:49:20.115 --> 01:49:22.859
+um. You know, actually it's a very cheaply priced
+
+1933
+01:49:22.859 --> 01:49:25.600
+book for academic books. Um, IT'S, you know, many,
+
+1934
+01:49:25.790 --> 01:49:28.740
+many monographs in philosophy of science are $100 150
+
+1935
+01:49:28.740 --> 01:49:31.310
+dollars. This is, I think, 3030 $30 US dollars
+
+1936
+01:49:31.310 --> 01:49:34.180
+or $25 US dollars, something like that. So that's
+
+1937
+01:49:34.180 --> 01:49:37.339
+available just on Amazon or the University of Chicago
+
+1938
+01:49:37.339 --> 01:49:40.870
+website. Um, YEAH, so that's, that's how they can
+
+1939
+01:49:40.870 --> 01:49:43.569
+find the book, yeah, and, um, about me, and
+
+1940
+01:49:43.720 --> 01:49:45.299
+so when we spoke last, I was at the
+
+1941
+01:49:45.299 --> 01:49:48.029
+University of Cambridge, and I've moved recently to Singapore,
+
+1942
+01:49:48.149 --> 01:49:49.990
+so I'm at the, as you mentioned in your
+
+1943
+01:49:49.990 --> 01:49:54.229
+introduction. Uh, Nanyang Technological University in Singapore. Yeah.
+
+1944
+01:49:55.350 --> 01:49:58.229
+OK, great. So thank you so much for taking
+
+1945
+01:49:58.229 --> 01:49:59.910
+the time to come on the show again. I
+
+1946
+01:49:59.910 --> 01:50:02.390
+mean, it's, at least for me personally, this has
+
+1947
+01:50:02.390 --> 01:50:04.709
+been a very fascinating conversation.
+
+1948
+01:50:05.229 --> 01:50:08.069
+Thanks, Ricardo, really fun talking with you. Thanks for
+
+1949
+01:50:08.069 --> 01:50:08.720
+having me on the show.
+
+1950
+01:50:10.140 --> 01:50:12.660
+Hi guys, thank you for watching this interview until
+
+1951
+01:50:12.660 --> 01:50:14.779
+the end. If you liked it, please share it,
+
+1952
+01:50:14.979 --> 01:50:17.770
+leave a like and hit the subscription button. The
+
+1953
+01:50:17.770 --> 01:50:20.029
+show is brought to you by Enlights Learning and
+
+1954
+01:50:20.029 --> 01:50:24.040
+Development done differently. Check their website at lights.com and
+
+1955
+01:50:24.040 --> 01:50:27.770
+also please consider supporting the show on Patreon or
+
+1956
+01:50:27.770 --> 01:50:30.250
+PayPal. I would also like to give a huge
+
+1957
+01:50:30.250 --> 01:50:33.350
+thank you to my main patrons and PayPal supporters,
+
+1958
+01:50:33.770 --> 01:50:37.609
+Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seaz Olaf,
+
+1959
+01:50:37.680 --> 01:50:40.919
+Alex, Adam Cassel, Matthew Whittingberrd, Arnaud Wolf, Tim Hollis,
+
+1960
+01:50:41.080 --> 01:50:44.640
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1961
+01:50:44.640 --> 01:50:48.680
+Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1962
+01:50:49.189 --> 01:50:52.950
+Michel Stormir, Samuel Andre, Francis Forti Agnun, Svergoo, and
+
+1963
+01:50:52.950 --> 01:50:56.720
+Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel
+
+1964
+01:50:56.720 --> 01:51:00.640
+Cerri, Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+1965
+01:51:00.799 --> 01:51:04.479
+David Sloan Wilson, Yasilla Dezara Romain Roach, Diego Londono
+
+1966
+01:51:04.479 --> 01:51:08.870
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+1967
+01:51:08.870 --> 01:51:12.540
+Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov,
+
+1968
+01:51:12.660 --> 01:51:16.669
+Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward
+
+1969
+01:51:16.669 --> 01:51:20.660
+Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P
+
+1970
+01:51:20.660 --> 01:51:24.910
+Scortez or Suliliski, Scott Zachary Fish, Tim Duffyani Smith,
+
+1971
+01:51:24.990 --> 01:51:29.029
+and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+1972
+01:51:29.390 --> 01:51:34.129
+Luke Lovai, Georgios Theophannus, Chris Williamson, Peter Wolozin, David
+
+1973
+01:51:34.140 --> 01:51:37.990
+Williams, Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw,
+
+1974
+01:51:38.299 --> 01:51:42.439
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+1975
+01:51:42.439 --> 01:51:47.390
+Junior. Old Eringbon. Esterry, Michael Bailey, then Spurber, Robert
+
+1976
+01:51:47.390 --> 01:51:52.000
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+1977
+01:51:52.000 --> 01:51:56.020
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+1978
+01:51:56.310 --> 01:52:00.830
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+1979
+01:52:00.830 --> 01:52:05.790
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+1980
+01:52:05.790 --> 01:52:12.640
+Goler, Alexander Obert, Liam Danaway, BR, Massoud Ali Mohammadi,
+
+1981
+01:52:12.899 --> 01:52:17.859
+Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov,
+
+1982
+01:52:18.100 --> 01:52:22.484
+Sean Nelson, Mike Levin, and Jos Necht. A special
+
+1983
+01:52:22.484 --> 01:52:25.354
+thanks to my producers Iar Webb, Jim Frank Lucas
+
+1984
+01:52:25.354 --> 01:52:29.805
+Stinnik, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas
+
+1985
+01:52:29.805 --> 01:52:33.435
+Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al
+
+1986
+01:52:33.435 --> 01:52:36.325
+Nick Cortiz, and Nick Golden, and to my executive
+
+1987
+01:52:36.325 --> 01:52:40.205
+producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie.
+
+1988
+01:52:40.325 --> 01:52:41.104
+Thank you for all.
+
