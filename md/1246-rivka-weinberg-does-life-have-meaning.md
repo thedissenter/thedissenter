@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1246 Rivka Weinberg: Does Life Have Meaning?",
-	"youtubeid": "OGMTc3wHv0g"
+	"vtt": "1246.vtt",
+	"youtubeid": "OGMTc3wHv0g",
+	"transcript": "1246.lines.json"
 }
 ---
 RECORDED ON APRIL 23rd 2026.  
