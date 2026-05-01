@@ -12,7 +12,9 @@
 		"Art"
 	],
 	"title": "#1247 Zygmunt Baranski: Dante's Divine Comedy",
-	"youtubeid": "MrBr6PNpt1I"
+	"vtt": "1247.vtt",
+	"youtubeid": "MrBr6PNpt1I",
+	"transcript": "1247.lines.json"
 }
 ---
 RECORDED ON JANUARY 28th 2026.  
