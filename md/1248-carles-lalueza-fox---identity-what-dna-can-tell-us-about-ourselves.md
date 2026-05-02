@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1248 Carles Lalueza-Fox - Identity: What DNA Can Tell Us About Ourselves",
-	"youtubeid": "cWVZGXMm5Wk"
+	"vtt": "1248.vtt",
+	"youtubeid": "cWVZGXMm5Wk",
+	"transcript": "1248.lines.json"
 }
 ---
 RECORDED ON APRIL 24th 2026.  
