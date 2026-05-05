@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1249 Melissa Shew: Women and Intellectual Joy",
-	"youtubeid": "c5Frq0CZsn4"
+	"vtt": "1249.vtt",
+	"youtubeid": "c5Frq0CZsn4",
+	"transcript": "1249.lines.json"
 }
 ---
 RECORDED ON APRIL 9th 2026.  
