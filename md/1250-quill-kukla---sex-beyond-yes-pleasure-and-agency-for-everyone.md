@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1250 Quill Kukla - Sex Beyond \"Yes\": Pleasure and Agency for Everyone",
-	"youtubeid": "4VtzDrkFKmA"
+	"vtt": "1250.vtt",
+	"youtubeid": "4VtzDrkFKmA",
+	"transcript": "1250.lines.json"
 }
 ---
 RECORDED ON FFEBRUARY 16th 2026.  
