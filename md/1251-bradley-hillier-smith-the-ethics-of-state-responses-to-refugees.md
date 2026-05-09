@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1251 Bradley Hillier-Smith: The Ethics of State Responses to Refugees",
-	"youtubeid": "mwvTxjW81UY"
+	"vtt": "1251.vtt",
+	"youtubeid": "mwvTxjW81UY",
+	"transcript": "1251.lines.json"
 }
 ---
 RECORDED ON APRIL 8th 2026.  
