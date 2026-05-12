@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1252 David Benatar - The Human Predicament: A Candid Guide to Life's Biggest Questions",
-	"youtubeid": "0YChIhj40YU"
+	"vtt": "1252.vtt",
+	"youtubeid": "0YChIhj40YU",
+	"transcript": "1252.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 17th 2026.  
