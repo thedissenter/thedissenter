@@ -12,7 +12,9 @@
 		"Entrevistas em Português"
 	],
 	"title": "#1253 Ricardo Barroso: Comportamento Criminoso, do Ponto de Vista da Psicologia Clínica e da Justiça",
-	"youtubeid": "5d2AQsUcw0Q"
+	"vtt": "1253.vtt",
+	"youtubeid": "5d2AQsUcw0Q",
+	"transcript": "1253.lines.json"
 }
 ---
 RECORDED ON DECEMBER 4th 2025.  
