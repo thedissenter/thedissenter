@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/115915712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-23%2F206db9f5-f20f-e29b-a101-ba8f94262291.m4a",
 	"draft": false,
 	"episodeid": "1254",
 	"excerpt": "Dr. Lynda Boothroyd is a Professor of Psychology at Durham University. Her research focuses on Evolutionary and Cross-Cultural understandings of interpersonal attraction and sexual selection. She has focused on body ideals in rural Nicaragua alongside experimental work both in the laboratory and in the field on the impacts of visual experience on body size preferences.",
 	"image": "https://i.ytimg.com/vi/_m-YgogpTgA/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1254-lynda-boothroyd-how-culture-and-the-media/id1451347236?i=1000767996570&uo=4",
 	"publishDate": 2026-05-15,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1254-Lynda-Boothroyd-How-Culture-and-the-Media-Shape-Gender-Differences-and-Mate-Preferences-e3ffvg0",
 	"tags": [
 		"Psychology"
 	],
