@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1254 Lynda Boothroyd: How Culture and the Media Shape Gender Differences and Mate Preferences",
-	"youtubeid": "_m-YgogpTgA"
+	"vtt": "1254.vtt",
+	"youtubeid": "_m-YgogpTgA",
+	"transcript": "1254.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 23rd 2026.  
