@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1255 Teresa Baron: The Ethics of Procreation, Pronatalism, and Antinatalism",
-	"youtubeid": "YQ2VzBoeJjs"
+	"vtt": "1255.vtt",
+	"youtubeid": "YQ2VzBoeJjs",
+	"transcript": "1255.lines.json"
 }
 ---
 RECORDED ON MARCH 2nd 2026.  
