@@ -1,0 +1,357 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello everyone. Welcome to a new episode of The Dissenter. I'm your host, as always, Ricard Lops, and today I'm joined by Doctor Nathan King. He's professor of philosophy and Edward B. Lindeman endowed chair at Whitworth University. And today we're talking about his book, The Excellent Mind, Intellectual Virtues for Everyday Life. So Doctor King, welcome to the show. It's a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:27",
+		"speaker": "Nathan King",
+		"words": "Thanks so much for having me."
+	},
+	{
+		"start_time": "00:29",
+		"speaker": "Ricardo Lopes",
+		"words": "So, uh, what is the premise of your book and what motivated you to write it?"
+	},
+	{
+		"start_time": "00:37",
+		"speaker": "Nathan King",
+		"words": "Yeah, great. So, I think probably the best way to answer that would be to say a little bit about the book's kind of origin story. So I can remember when I was a grad student just getting ready to, to go on to the job markets, I had to write a statement of teaching philosophy. And I started thinking about You know, how does this process, if it pans out well, how does it look for the students, right? What are the, what are the good results of an education? And so I thought, well, students should graduate with a good deal of knowledge that, that seems to be central to education. But knowledge couldn't be enough. So anyone who's taken a final exam knows that, you know, about 2 weeks after the exam, we remember quite a bit less than, than we learned in studying for the exam. So we forget our knowledge. Uh, THERE'S also the notion of um connecting some bits of knowledge to other bits and notice that you could have a lot of knowledge and not have any good idea about how to connect it. Um, AND so it seemed like knowledge wouldn't be, wouldn't be enough for a complete education. Uh, THERE'S also the fact that you could employ knowledge to, to unwise ends. And so I thought a little bit more and I thought, well, maybe skills. People seem to be talking a lot about critical thinking skills as a good outcome of a college education. So maybe that's a part of it and, and that seems right as well. But we've all known people who employ their intellectual skills to, to bad ends or maybe selfish ends. So maybe they, they do it to look smart in front of others, or they do this to kind of get their way in, in many ways that are manipulative. You can imagine a demagogue having some intellectual skills, but, but putting those skills to sort of bad use. So what's an educational aim that that can't be put to bad use? Well, virtues. Virtues can't be put to bad use. And at the time I was writing this purpose statement, I was also reading. Work in this field in philosophy called virtue epistemology, which is a, a branch of the theory of knowledge. Epistemology is the theory of knowledge. Virtue epistemology is a branch of epistemology that gives the notion of an intellectual virtue a fundamental role. So virtues like curiosity and intellectual carefulness and intellectual humility are the kinds of things that at least some virtue epistemologists would, would emphasize. And I thought, oh, that, that kind of gives me the vocabulary and the framework I need for talking about. Good educational outcomes, but I hope that, uh, you know, whatever else they get from my classes, students leave having made progress in virtues like curiosity and open-mindedness, fair-mindedness, and the like of that. So there the kind of the. The origin of my thinking about this, uh, had to do with writing this purpose statement on the one hand and then reading works in virtue epistemology by people like Linda Zezebski and Robert Roberts and Jay Wood and Jason Bear and Heather Baddely, and many others. And there was this sort of happy, happy confluence there. Uh, AND then as I, as I got a little further along in my career, it became clear that, that though there were some, some very good works. Um, YOU know, that, that addressed intellectual virtues for students sort of briefly. Uh, THERE wasn't enough out there that was directed primarily towards students. And so I thought, well, maybe there's an opportunity to, to write something that's, that's pitched primarily toward a, a student audience or, or a lay audience, uh, so that, so that everybody can, can reap the benefits from this excellent work in virtue epistemology that, uh, that so many scholars were producing, so."
+	},
+	{
+		"start_time": "04:36",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, SO let me just ask you just to clarify this point. So you're focusing on epistemology and more specifically on virtue epistemology, but there's also virtue ethics. So do you think that by focusing on the epistemological side of things, some of these virtues could also manifest, or are you also interested in how they could manifest, uh, morally as well?"
+	},
+	{
+		"start_time": "05:05",
+		"speaker": "Nathan King",
+		"words": "Yes, I'm, I'm interested in, in both of those topics. And though I think we can make a distinction in theory between intellectual virtues and moral virtues, I think in practice, these sets of virtues overlap in all kinds of interesting ways. So, I mean, if we're, if we're going to draw a distinction between intellectual and moral virtues, I think a good way to do it is the way that the philosopher Alan Wilson has done it. And so if I recall correctly, The distinction goes something like this. Well, intellectual virtues. Aim distinctively at intellectual ends like knowledge and truth and understanding, moral virtues aim at distinctively moral ends, so you might think of, you know, justice or the alleviation of suffering or or something like that. Uh, SO, uh, and that seems right to me, right? Whatever else they aim at, intellectual virtues must aim at intellectual goods. Whereas it seems like moral goods don't, don't have to aim at, um, at intellectual goods. Now, I have to say this is disputed territory. There are, there are some prominent philosophers who refuse to draw a hard distinction between intellectual and moral virtues. You know, so if you think as, as Linda Zezebski does, that the true is, is part of the good and that morality is the study of the good, then you'll be less inclined to draw, um, you know, anything like a hard distinction there. So, you know, my position is something like this. Uh, IF there is a hard distinction to be drawn there, uh, the way to do it is by looking at the different sorts of goods. Um, BUT in practice, again, I think most virtue theorists agree that these, these sets of virtues are going to overlap."
+	},
+	{
+		"start_time": "06:52",
+		"speaker": "Ricardo Lopes",
+		"words": "Yes, I mean, I, I think that one obvious virtue that, um, I mean, overlaps between epistemology and morality or ethics is courage, right? We have both intellectual courage and moral courage,"
+	},
+	{
+		"start_time": "07:09",
+		"speaker": "Nathan King",
+		"words": "right? Yeah, we can identify clear cases of that. And often in the same, in the same person, we think about a civil rights leader like Martin Luther King Junior, you know, so there you have. Moral courage as he's he's willing to face all kinds of harms in. In in fostering a moral cause, but as he does this, he's affirming certain truths and trying to convey certain bits of knowledge in the face of threats as well. So these, these dovetail. Together. Uh, ANOTHER kind of example that, that, um, that literally comes home to me is the virtue of attentiveness, right? Attentiveness as an intellectual virtue. As I think of those moments when I fail to love my family well, for instance, I think many of those moments are just moments when I'm, I'm failing to pay attention. So there's a kind of intellectual error, intellectual faults. That's part of the root of my failure to do this moral thing, you know, love my family well."
+	},
+	{
+		"start_time": "08:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Yes, that's another great example, but tell us then, what is an excellent mind? Explain perhaps the title of your book. What do you mean by that?"
+	},
+	{
+		"start_time": "08:27",
+		"speaker": "Nathan King",
+		"words": "Yeah, so there are lots of, lots of factors that would go into having an excellent mind. And I don't want to exclude those factors. So I do think knowledge is important. I do think intellectual skill is important. But among the things that I think, um, Has to be discussed here are the intellectual virtues. And one way to kind of test to see if intellectual virtues are part of an excellent mind is the sort of linguistic test, right? So, so think of a sentence like this. Uh, Jones has an excellent mind, but is not very careful, or Jones has an excellent mind but is arrogant, uh, and not humble, or Jones has an excellent mind but isn't open-minded. Uh, TO me, those, those sentences have a kind of dissonance to them. They're, they're like the, you know, the intellectual equivalent of a, a fork and a garbage disposal or something. They just, they make the wrong, they make the wrong sounds. And that's at least some evidence that These intellectual virtues are important for having an excellent mind. Maybe another way to see this is to think about people we already see as having excellent minds. Maybe you think of Newton or Galileo or Kepler, or think about, uh, you know, the American suffrage movements and the, the excellence that people like Susan B. Anthony display. In giving these arguments for suffrage, as we start to unpack the excellence that those people display, I think we start using virtue language. Oh, right, Galileo was curious or, you know, Newton. Uh, HIS genius was underwritten by this kind of, uh, perseverance in inquiry that, um, that few of us ever approached. So I think, you know, another way to think about an excellent mind is to just start with concrete cases and then start to describe them in detail, and I think intellectual virtues kind of fall out of that conversation pretty naturally."
+	},
+	{
+		"start_time": "10:32",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean, and I guess that having an excellent mind doesn't entail having a flawless mind, right, because I mean it's inevitable that everyone will make mistakes and errors here and there. I mean, even when thinking about Newton, who is certainly one of the Uh, best minds we've ever had in humanity in our human history. I mean, uh, Einstein ended up improving on his, uh, theory of gravity. We now have a better understanding of how gravity works through the world. Of Einstein than we did through the work of Newton. So I mean we all have limitations and it's just inevitable, inevitable that even if, if we have all of these intellectual virtues, we are limited and we will make some mistakes, right?"
+	},
+	{
+		"start_time": "11:24",
+		"speaker": "Nathan King",
+		"words": "That seems precisely right to me. Yes. So 11 way to see this kind of point is to notice that intellectual virtues can come in degrees. So it's not just, you know, to, you know, to use the example of a light switch, it's not just as if we have an on-off switch here. Instead, we have like a dimmer switch. It can be on or off, but then once it's on, it can be brighter or dimmer, right? Um, AND even our, even our brightest light that we have in our home isn't maximally bright. So, so I think the intellectual virtues and, and moral virtues work like that, right? There's a, there's a kind of threshold or excellence, uh, beyond which we count as having the virtue, and then we can have it to a greater or lesser degree. Um, IT'S also important to note, I think, uh, so that we don't feel too badly about ourselves, that, that we can fail to have the virtues. We can fail to have intellectual virtues. And still sometimes act in ways that are characteristic of virtues, right? So we can have at least moments where we think virtuously, right, where we think courageously or where we think with perseverance or open-mindedness, even if we don't quite have the virtues. And so as we think of our own aims, and I'm developing this thought from the work of Jason Beer, what we should really be hoping for is meaningful growth, right toward these, toward these virtues. Also important to note that lacking these virtues doesn't entail that we have the corresponding vices, right? So if I, if I fail to be intellectually courageous, that doesn't automatically mean, you know, I'm an intellectual coward. It might mean that I'm somewhere in between virtue and vice. All kinds of layers of complexity here. And you know, even the most virtuous among us will have room for growth. Uh, EVEN those who are struggling will have moments where we exhibit virtue, um, at least, you know, temporarily."
+	},
+	{
+		"start_time": "13:27",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, we're going to explore each of the virtues you talk about in your book and also the corresponding vices, but let me just ask you a couple of questions that might whose answer might seem obvious, but perhaps it's not. So why does truth matter? I mean, why should we care about truth?"
+	},
+	{
+		"start_time": "13:48",
+		"speaker": "Nathan King",
+		"words": "Yeah, why should we care about truth? Well, I mean, the first thing I'll note here is, is we should ask, um, is there any really serious argument that that we shouldn't? That we shouldn't care about truth. And, uh, I mean, one thing that we notice as we think about what an argument would look like, right, its conclusion is, you know, therefore, we shouldn't care about truth. It seems like the person giving that argument would want us to care about at least one truth, namely that we shouldn't care about the truth. And so there's a kind of strange self-defeat going on there. But, but more positively. I think this is just kind of a human thing, right? We desire what Linda Zezebski calls cognitive contact with reality. This is a, this is a human good that we all find ourselves desiring. Aristotle says all humans by nature desire to know. So, I mean, this is one of those things that we could argue about, uh, you know, whether we should care about truth. But we might be in a situation where any premises that we appeal to are already kind of less plausible than what we already know in our bones, which is that, well, we should care. We should care about the truth. Uh, NOW, if we have to go and, and give an argument, uh, I mean, one way to do it would be to imagine someone that's, that's wholly out of contact with reality. And ask if they're flourishing. Uh, AT least for my part, it's, it's hard for me to imagine a person who's wholly out of contact with reality, who's flourishing in any sense that we would respect. And if that's the case, it seems to follow that, that we should care about truth if we care about our flourishing."
+	},
+	{
+		"start_time": "15:30",
+		"speaker": "Ricardo Lopes",
+		"words": "And let me also ask you, why do intellectual virtues matter? I mean, what do we need them for exactly?"
+	},
+	{
+		"start_time": "15:40",
+		"speaker": "Nathan King",
+		"words": "Yeah, what do we need them for? I, I love the way you put that, right? They're, if they're important, they're, they're, they're going to be important for something. And I think there are a number of areas we could consider here. So we might consider our, our personal relationships. And it seems to me that, you know, as I consider interactions with people around me, as I consider my friendships, uh, those are going to go better if I have virtues like humility and curiosity and attentiveness and open-mindedness than if I'm arrogant or if I'm close-minded to, uh, those around me or if I'm indifferent to, to what they think and so on. So these, these intellectual virtues, in my view, can aid. Interpersonal relationships. We might also think about Civil discourse and the functioning of democracy. And, and notice that one thing that we need for democracy to function well is the ability to deliberate. Think about all the, all the, all the complex issues about which we have to form policies in order to get by. So think about policies related to climate change or uh social strife or, uh, you know, we've, we've fairly recently, uh, finished up a pandemic, right? What do we need? To form policies about these things. Well, it, it seems like we need to be able to deliberate well. And deliberating well seems to require asking the right questions, seeking good answers, thinking for ourselves, right, with autonomy, but not necessarily by ourselves because we don't have all the information we need as individuals. This has to be a collaborative kind of effort. These issues are complex and very difficult. We can get into falsehood and irrationality very easily. So we'll need to be attuned to our intellectual limitations. So we'll need humility and so on. So I think just as we think about what it takes for a democracy to function, it requires deliberation and good deliberation, especially consistently across time, seems like it's going to require intellectual virtues. Uh, ONE other area I'll mention, and this is what got me into discussing this, uh, set of virtues is education, right? So if, if we think about how education is supposed to pan out, it seems to me that, you know, we really want our students to graduate with these intellectual virtues. Um, ONE way to see this, there's this wonderful line. Uh, FROM this American scholar Judith Shapiro, she says, you know, students, you want the inside of your head to be an interesting place to live the rest of your life. I love that line. You want the inside of your head to be an interesting place to live the rest of your life. Uh, AND it just seems to me that, that for a mind to be that kind of place, uh, the mind's going to have to take on a certain character, right? A mind that is curious and careful and humble and open, uh, is going to be more interesting than a place that's closed off and arrogant or, uh, indifferent."
+	},
+	{
+		"start_time": "19:03",
+		"speaker": "Ricardo Lopes",
+		"words": "So it's certainly not the case that people should assume that intellectual virtues are only good for people who do intellectual work like academics, philosophers, scientists, and so on. I mean, first of all, it's not even the case that only people who are professional. Intellectuals can benefit from these virtues because even if you're just uh let's say someone who likes to learn by themselves, you can benefit from them, but also they can have an important role to play in even your personal life and as your life as a citizen politically and socially,"
+	},
+	{
+		"start_time": "19:49",
+		"speaker": "Nathan King",
+		"words": "correct? I think that's, I think that's right, yeah, and maybe one way to see this. WOULD be to think of the role of, of intellectual virtues in a, in a profession that's outside of the academy. So, um, You know, I, I grew up in a home where most of my relatives uh were uh in trades. So my, um, My father made signs for most of his career. My grandfather was a carpenter. Um, MY whole family, you know, works on, on automobiles. And if we think about, you know, all the, all the ways in which being inattentive or, or being careless in, uh, finding an explanation for, you know, why my car isn't working, right, as we think about these kinds of scenarios. We see the relevance of the intellectual virtues. To my shame, I was, I was doing some rudimentary carpentry, right, trying to carry on the family tradition. And I was inattentive, right? I, I, I measured incorrectly and I, so I cut the wood on the box that I was making incorrectly. There's this saying carpenters have measured twice, cut once, and I failed to be attentive. And so, uh, you know, there was an area where, you know, though I'm an academic, you know, my lack of intellectual virtue failed me, so."
+	},
+	{
+		"start_time": "21:11",
+		"speaker": "Ricardo Lopes",
+		"words": "So before we get into which of the virtues in the book you talk about three features of intellectual virtues, namely the thinking component, the motivational component, and the behavioral component. So tell us about each of them and why did you come up with these 3 different components."
+	},
+	{
+		"start_time": "21:34",
+		"speaker": "Nathan King",
+		"words": "Yeah, great. So I mean I should say, in discussing these components, I'm kind of just following tradition. In virtue theory more generally and um in the study of intellectual character virtues, more specifically, so you know, I'm following work by people like Linda Zezebski and Robert Robertson, Jay Wood, uh, Jason Bear, Heather Baddeley, and so on. So this isn't, you know, unique to me, uh, but, uh, people talk about, uh, virtues in general and intellectual virtues in particular as having these different components. To signal that these are really kind of what we might call multifaceted or multi-tracked dispositions, and intellectual virtue is not just a way of thinking. It's not just a motivation. It's not just a set of intellectual behaviors, it's dispositions of all those sorts together. So one way to see this is to think of an example. So, I mean, you might think of someone who's intellectually honest. Maybe you think of Abraham Lincoln, who's also morally honest, if we want to draw that distinction. So think about uh the way Lincoln thinks about truth and um and values it. So, he thinks that truth should be respected. He thinks he shouldn't. Distort the facts of the case. Uh, HE, he believes that, that truth is valuable, right? So that's sort of a bit about the thinking component. Or we could think about the feeling component or some people talk about just this as a, as a motivational component. Um, MORE broadly, So Lincoln is motivated to get at the truth. He wants it. He wants to avoid falsehood. As he seeks to achieve true belief and then as he seeks to convey the truth to others. And then he disdains, disdains lying and liars, right? So there's this kind of motivational slash affective component to, to that virtue of honesty. And then when we think about the behavioral components, he's disposed to tell the truth and not to lie. To have the virtue is to have all of these components together. And not just to have them for a moment, but to have them consistently across time and space and situation."
+	},
+	{
+		"start_time": "23:50",
+		"speaker": "Ricardo Lopes",
+		"words": "So let me just ask you, uh, I'm curious about this. I don't know if you ever thought about this specifically or not, but of course when we're talking about virtues and that's something that we can go all the way back to Aristotle, I understand them as something that we can develop. We can put. Effort into developing each of these virtues, but do you think that there are perhaps some people who are just innately more predisposed to showing these virtues than others and have to put in less effort into developing them."
+	},
+	{
+		"start_time": "24:32",
+		"speaker": "Nathan King",
+		"words": "Yeah, I think that's, that's probably right, at least, at least for certain, for certain aspects of these virtues. So there are some people who are, uh, maybe genetically or maybe by, by way of early childhood development, sort of more disposed to be afraid than others are, uh, or less disposed to be afraid. So, you know, think about those two people, one who's kind of naturally. Uh, FEARFUL and one who's naturally, you know, without fear or isn't bothered by fear. There's a, there's a way in which, uh, the person who isn't really bothered by fear won't have to work as hard to develop the virtue of courage, um, but that's just one component of courage. Notice that even the person who doesn't, uh, you know, find herself afraid a lot will have to develop the kind of thinking or judgment component. Of courage, right? So, someone who isn't naturally afraid could exhibit the vice of rashness pretty easily by making bad judgments about, you know, which things should be feared and at what times and in what ways and to what degrees, so. I, I think you're right that, that for some people, some of these virtues will tend to be easier to acquire than for others, but, but all of us will, because these virtues are, are, first of all, excellences and second of all, uh, multi-track dispositions, uh, there's probably going to be work for all of us to do."
+	},
+	{
+		"start_time": "26:07",
+		"speaker": "Ricardo Lopes",
+		"words": "So let's talk about the virtues themselves then. Uh, WHAT is a curiosity?"
+	},
+	{
+		"start_time": "26:14",
+		"speaker": "Nathan King",
+		"words": "Yeah. So at least as I think of it, I think of curiosity as the virtue that we need to manage our intellectual appetite well. So, each intellectual virtue. Concerns its own. Area of activity or, or uh some people put it, uh, I think Jason Bear puts it this way, its own special skill. So, what's the area of activity when it comes to curiosity? I think it's managing our intellectual appetite. And so here, notice that just as we can manage our intellectual or manage our, our physical appetite well, our appetite for, for food and drink, we can appetite, and we can manage that well or poorly, we can do the same when it comes to our intellectual appetite. So just as we might be insensitive to the kind of food that we need to nourish our bodies, so we could be intellectually indifferent, right? That, that would be a deficiency with respect to Uh, that area of, of managing your appetite, uh, or. Just as we can be gluttonous with respect to food, we could be gluttonous with respect to our intellectual appetite. And so just think of, um, you know, watching a bunch of social media videos about silly things that don't matter, or, you know, um, soaking up celebrity gossip or something like that. Uh, THOSE are ways we might You know, fulfill our intellectual appetite. Are they good ways? It seems like, at least in a lot of cases, maybe they're not. So, so intellectual curiosity is what we might think of as the mean between those extremes of on the one hand, indifference and on the other hand, intellectual gluttony."
+	},
+	{
+		"start_time": "28:03",
+		"speaker": "Ricardo Lopes",
+		"words": "Well, let me just tell you that if you are careful enough to properly curate your TikTok feed, you can actually get a very good intellectual content there as well."
+	},
+	{
+		"start_time": "28:15",
+		"speaker": "Nathan King",
+		"words": "I'm sure, yeah. Yeah, so it would be the sort of thoughtless, uh, thoughtless feeling that we would be concerned about. Yeah, yeah."
+	},
+	{
+		"start_time": "28:25",
+		"speaker": "Ricardo Lopes",
+		"words": "And what are the vices or the vice that corresponds to the virtue of curiosity."
+	},
+	{
+		"start_time": "28:33",
+		"speaker": "Nathan King",
+		"words": "Yeah, so, so, there, again, I think the, the vice of deficiency will be something like indifference, just, just not caring about uh knowledge or not caring about truth. The, the philosopher Tom Morris uh gives this wonderful anecdote discussion with the students. So he, he asks in class, what's the difference between ignorance and indifference? And the student sort of in this chippy voice says, I don't know and I don't care, right? Well, that's exactly right, right? Ignorance is, is not knowing, indifference is not caring. Uh, IT'S the indifference that seems like it's the, the vice of, of deficiency here, right? Uh, YOU, you don't care enough to nourish your mind well. The, uh, the opposite vice, the excess would be a, a kind of intellectual gluttony, um, you know, where that might involve consuming, um, Intellectual items that are um irrelevant to um You know, the scope of knowledge in general or, or at least the things that are our business. It might involve seeking knowledge of trivialities. Uh, YOU can think of all kinds of cases, but the, the main point there is we're, we're seeking knowledge thoughtlessly or without regard to, uh, to what we really should be seeking, right? So we should be seeking knowledge at least some of the time, maybe much of the time about items related to human flourishing. About um items that help us gain a, a broader understanding of the world and probably at least not so much knowledge of trivialities or, or things that aren't, aren't our business or, or, or, or right, you can fill out the list there."
+	},
+	{
+		"start_time": "30:22",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I mean, it's interesting because when it comes to the vice of excess, people like Schopenhauer and Nietzsche even alerted people that they shouldn't read too much. They should take their time to properly process. WHAT they read and they should be selective in terms of what they read because uh I mean if you just don't put enough time aside to really properly uh get deeply into what you read, I mean, perhaps you're not gaining much with it,"
+	},
+	{
+		"start_time": "30:59",
+		"speaker": "Nathan King",
+		"words": "right? Yeah, that's, that's, that's really great. That reminds me of a stoic philosopher. I think it might have been Seneca. Recommends that, you know, we, we shouldn't read too broadly. Instead, we might be better served to do something like pick 5 really good books and, and learn them really well, right."
+	},
+	{
+		"start_time": "31:19",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, WHAT about the virtue of carefulness? What is"
+	},
+	{
+		"start_time": "31:23",
+		"speaker": "Nathan King",
+		"words": "carefulness? Yeah, carefulness. So one way to think of this is if we think of curiosity as the virtue that pulls us toward intellectual goods. Carefulness is the virtue that repels intellectual ills, so. You know, falsehood, irrationality. Um, YOU know, um, things like that. And so, so carefulness helps us to avoid thinking, you know, hastily. It helps us to avoid latching on to falsehoods too quickly. It helps us avoid confusion and, and things like that."
+	},
+	{
+		"start_time": "32:03",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, AND what are then the vices of excess and of defect of carefulness?"
+	},
+	{
+		"start_time": "32:11",
+		"speaker": "Nathan King",
+		"words": "Yeah, so there, I mean, we might think of the, the deficiency as a kind of, of carelessness, right? So if we think about reasoning from evidence. A paradigm case of carelessness will be someone who draws a conclusion and is confident in that conclusion, you know, on the basis of a really, you know, narrow, uh, you know, body of evidence or something like that. Someone who jumps to conclusions or is, is hasty, that, those would be, you know, the kinds of cases we have in mind for. Carelessness. Uh, PEOPLE who are aware of a bunch of cognitive biases, but sort of reason, you know, straight ahead as if those biases didn't exist. Those would be cases of, of carelessness. And then on the other side, we might think of a kind of, it's hard to think of the right word for this, but maybe scrupulousness. So, so someone who may be a case of this would be someone who is, I don't know, defending a, a doctoral thesis or something like this, and the person is uh is so concerned to avoid error that, uh, you know, they, they double check the dissertation 100 times, um, and are kind of perpetually refusing to, to turn in the thesis and, and defend it. Um, THAT might be a kind of, you know, overly carefulness, right, scrupulousness, or, or someone who, I, I got to confess, I've done this, rereads an email about an important, unimportant topic. You know, several times before sending it, that might be, OK, maybe we don't need to be quite that careful."
+	},
+	{
+		"start_time": "33:56",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I, I mean when it comes to the deficiency here, you mentioned the biases. It's interesting because back in 2089, I had an interview with Dr. Christopher Cheri, and he's a cognitive psychologist who works on biases, and we talked about what is called the bias blind spot, which Interestingly, there are people who just because they memorize the biases that exist, they think that they are then immune to them, but actually they're not actually, sometimes they're even, they fall even more for those biases just because they think that memorizing them is enough."
+	},
+	{
+		"start_time": "34:38",
+		"speaker": "Nathan King",
+		"words": "That's right. That's right. And that's a really nice case where Where, you know, intellectual vices might conspire together and where we might need intellectual virtues to work together in order to, to, to do better. So, in that kind of case, you know, the person might be failing to be careful, they might also fail to be humble, right? So if you think of humility as the virtue we need to, to be aware of and to own our intellectual limitations, it, it seems like the person who's, who's aware of these biases. But then, you know, things that they're, they're not prone to them might be failing to be humble. Likewise, it seems like we need to own our limitations in order to be appropriately careful when it comes to situations where these biases might arise."
+	},
+	{
+		"start_time": "35:30",
+		"speaker": "Ricardo Lopes",
+		"words": "So what is then autonomy? What, what does that mean in this specific context?"
+	},
+	{
+		"start_time": "35:36",
+		"speaker": "Nathan King",
+		"words": "Yeah, autonomy. One way I, I like to, to talk about autonomy is to think about the, you know, some, some prepositions, right? Some, some prepositional words. So one way I like to put it is autonomy requires that we think for ourselves, but not that we think by ourselves. So think for ourselves in the sense of taking responsibility for our own thinking and our learning, the contents of our mind, the development of our mind, but that doesn't mean we should think by ourselves. To think by ourselves would be to allow ourselves, I think, culpably, to be isolated from the knowledge that other people have, you know, unless we think that we're sort of smarter than everyone else combined. Uh, WE should be willing to rely on and even eager to rely on knowledge that other people have. So, so one way to see autonomy is, as a virtue between, uh, the, the kind of excessive relying on ourselves that we might characterize as a kind of intellectual isolation, um, and then the deficiency of, of not being willing to, to, uh, to be responsible for our own, uh, our own thinking. Uh, SO, you know, Uh, on the one hand, you, you might think of a student who um. Displays or at least acts in accordance with the deficiency, uh, you know, when they come to, to your office and they're like, just tell me what I need to do to get an A on this assignment or tell me exactly how I should do this. That seems like the deficiency, uh, you know, we might call that servility or something like that. And then there's, on the other hand, the student who comes into the office and talks to you for an hour and then doesn't heed any of your advice at all. That, that might be a kind of, a kind of isolation."
+	},
+	{
+		"start_time": "37:29",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah. Do you think that when it comes to autonomy we also should be careful, particularly when it comes to an excess of autonomy, and perhaps that will connect with the humility as well, but do you think we should be careful because actually people usually do not think alone. And are not good at thinking alone and we get and we have to be grateful to many other people who produce their work and whose work we consume because I mean we don't create the entire volume of knowledge that we have that we consume and that we And used to produce a little bit more knowledge, right? So we, we really have to take into account that we are always to a certain extent dependent on others for our own thinking and knowledge,"
+	},
+	{
+		"start_time": "38:28",
+		"speaker": "Nathan King",
+		"words": "right? Yes, I think that's right. That's right. And you can find all kinds of really good work and discussions of intellectual virtue about depending on others or being a dependable. Uh, INTELLECTUAL agent. You might look at the, the work of Ryan Beerly on, on that being a dependable agent. One way I, I, I especially like to, to illustrate this point that we all rely on others is to think of paradigm cases of intellectual autonomy and see that even there people are relying to a significant extent on others. So we might think of. Scientific revolutionaries like Galileo, right? So, there's the, the, this kind of brave, uh, you know, emblem of Galileo, uh, the autonomous thinker alongside his telescope, right? But if you, if you look into the sort of the history of the telescope, what you find is that the telescope, at least conceptually, uh, was invented as a, as a result of two young boys sort of fooling around in a Dutch lens maker's shop, and they, you know, they put two lenses back together and, and, and point them across the street and see that this makes the house across the street. Look bigger. OK. That's the conceptual insight that you need for the telescope. And then, of course, people latch on to this and, you know, start making rudimentary telescopes for the, for the summer fairs and so on. These telescopes start selling, and one of them eventually gets back to Galileo. And, and of course, he has this knowledge of, of optics that allows him to make a much better version. But I love this case because even autonomous Galileo, right, sitting there with his With his telescope relied on insights that that other people had."
+	},
+	{
+		"start_time": "40:20",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I mean, even looking at Newton's story, I mean, he acknowledged, I think he was the one who used that phrase standing on the shoulders of giants. So I mean, even a 190 IQ person was admitting that he relied a lot on the work of other people."
+	},
+	{
+		"start_time": "40:41",
+		"speaker": "Nathan King",
+		"words": "That's right, that's a terrific example."
+	},
+	{
+		"start_time": "40:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, WHAT about, uh, humility then? I mean, in what way should we be balanced when it comes to humility and what are the respective vices?"
+	},
+	{
+		"start_time": "40:55",
+		"speaker": "Nathan King",
+		"words": "Yeah, OK, so when it, when it comes to humility, uh, one way to, to start is to think about this as the virtue that we need to own our intellectual limitations. Uh, Depending on how we divide things up, we might also talk about, uh, a corresponding virtue of what we might call self-confidence, which is the virtue that we need to own our, our intellectual strengths. So, uh, with respect to humility, there, there are kind of, uh, multiple elements of, of this. So first, we need to be appropriately aware of our intellectual limitations, right? Appropriately concerned with them, and then, and then accurately aware of them, or at least reasonably aware of them, and then we need to own them. So let's, so let's walk through these. So, so there, there are ways we can go wrong in being overly concerned with our intellectual limitations or underly concerned, right, with them, right? Not concerned enough. That'd be one fault. Um, SO the, the, the vices of pride and vanity, right, those might involve in various ways our being overly or underly concerned with our, uh, with our intellectual. Limitations. Think of the person who's just obsessed with, with their limitations, but that, that's not virtuous. And I suppose we get ourselves to Um, to think about our intellectual capacities and strengths and we, well, our weaknesses in this case, uh, to the right extent, and we're looking at, well, we want to be accurate when it comes to assessing our, our intellectual weaknesses, right? We don't want to think we're better than we are or that we're, we're worse than we are when it comes to intellectual activities. And now, now, finally, once we have an accurate or at least reasonable assessment of our intellectual limitations, we need to own them, right? So if, if I'm just aware that, you know, I tend to be intellectually sloppy, but then I don't do anything about it. I don't count as having the virtue of humility, right? So we have to own. Those limitations and we might do that in different ways, right? So sometimes we can do something about our limitations. We can, we can reduce those limitations. Maybe sometimes, you know, if we realize we keep making a certain intellectual mistake. Through practice, we can, we can stop making that mistake. Um, IN other cases, we can't really. Uh, FIX our tendencies toward mistakes, or at least it's really hard to do that. That might be the case when it comes to certain cognitive biases, right? There, instead of, of working to change our, um, our minds, what we need to do is find a workaround, right? Instead of, of, of fixing those limitations, we need to just account for them, um, even though we can't fix them. Um, SO there's, there's, uh, a nice case of this, uh, the, the Princeton Philosophy department. Uh, RIGHT, once, uh, some of its members became aware of all the cognitive biases that can infect judgments that occur in job interviews, uh, what they decided to do, and, you know, instead of engaging in a kind of cognitive bias training so that they can overcome their biases, what they decided to do is work around that limitation by removing the interview from the, um, you know, from the candidating process. They started to just look at the, at the job candidates files. Um, IN, in other cases, we might not be able to correct our biases or work around them. What we might just have to do is, is, um, accept that we have them, uh, reluctantly. And that goes for other limitations as well, right? Maybe there's just not much that we can do about this. Uh, SO think about, um, The intrinsic limitations that we might have, right? Not everybody is going to be able to do theoretical physics, right? A person who works as hard as you like to be able to do that just might not be able to do it. Uh, THAT person might have to accept that limitation. And then uh move to another field, right? So maybe a person can't do theoretical physics, but can be a really excellent math teacher, even, even a college, uh, math professor, right? Um, SOMETIMES we just have to accept our limitations, right? So, so owning our limitations might concern, uh, changing them, right, uh, or it might concern accounting for them even if we can't change them. It might concern uh accepting them, and, and which one of those is appropriate will depend on what's wise in a given case."
+	},
+	{
+		"start_time": "45:41",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, you know, humility is a very interesting virtue for me personally because I mean you have a particular manifestation of being too too humble, where you have, for example, imposter syndrome, where people, it doesn't matter how much you know, how much knowledge you acquire, you're always questioning yourself and perhaps You get stuck in terms of, oh I can't do anything because I don't know enough. I can take one step forward because I don't know enough, but then on the other hand, when it comes to uh lack of humility, arrogance, I mean, you have philosophers like N Nietzsche in Ekehomo wrote chapters like why I'm so clever, why I'm so wise, why I write. Such excellent, and I'm, I, I, I laugh a little bit at that because, I mean, he was obviously an extremely intelligent person, but uh I mean, and perhaps his arrogance to some extent served him well because he was a very bold thinker, but at the same time, I think, OK, perhaps that's a bit too much arrogance there."
+	},
+	{
+		"start_time": "46:48",
+		"speaker": "Nathan King",
+		"words": "Yeah, yeah, that's right. And so there are multiple ways to go wrong here. One of them is arrogance, uh, you know, another is a kind of Uh, self-deprecation, which, you know, I, I, I wouldn't want to say that everybody who suffers with imposter syndrome has the vice of self-deprecation. There might be lots of factors that go into that, but at any rate, we can, we can recognize that there is a vice that lies in that, in that direction, yeah."
+	},
+	{
+		"start_time": "47:12",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, HOW about honesty? I mean, and what does honesty mean in the intellectual context?"
+	},
+	{
+		"start_time": "47:21",
+		"speaker": "Nathan King",
+		"words": "Yeah, so this is an interesting virtue in, in at least two ways that I'll mention. The first is that, that when it comes to honesty, um, Here Like, like nowhere else, it's less clear to me that there's a, a, a, a clear distinction to be drawn between the intellectual virtue and the moral virtue of honesty. That's because both of these virtues concern how we handle, uh, the truth, right? Uh, HOW we handle the facts. The honest person will refrain from distorting the facts or distorting the truth. Um, AND, and here I'm just following the work of, uh, Christian Miller. Uh, SO, so, so there's something about The honest person that, that helps them refrain from distorting the truth, distorting the facts. Um, BUT of course, uh, the truth, uh, is an intellectual good. Um, SO there's this intellectual component, but of course, uh, lots of cases of lying are, are moral failures as well. So that's, that's one interesting feature of honesty is that it, it seems to somehow combine both these intellectual and moral elements. Another feature of honesty, uh, and, and Harold, apart from, from Aristotle, Aristotle thinks of honesty as a means, a mean between extremes. Um, IT'S not clear to me that Uh, honesty is a mean between extremes. Maybe it is, but it does, it does seem odd. To think of um. You know, the idea of someone distorting the, the facts or the truth the right amount or to the right degree or in the right way, right? Uh, IT'S not clear to me that there's, there's a mean here or someone who distorts the truth just enough, right? Uh, IT, it seems to me like if it's, if we're talking about, uh, you know, a, a capacity for, um, For being faithful to the truth, uh, that, that, uh, to depart from that is already to move toward the vice."
+	},
+	{
+		"start_time": "49:26",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean, honesty, perhaps in the moral realm, being too honest would be a vice in the sense that perhaps you do not care at all about how you make other people feel by just being er true by just telling the truth as it is or at least the way you see it."
+	},
+	{
+		"start_time": "49:46",
+		"speaker": "Nathan King",
+		"words": "Yeah, that's a nice, that's a nice point. And, and maybe what you're pointing to helps us to Uh, see a difference between honesty in the moral realm and, and in the intellectual realm. Maybe there are cases in the, in the moral realm where, uh, yeah, being perfectly forthright would be, uh, excessive or something like that."
+	},
+	{
+		"start_time": "50:08",
+		"speaker": "Ricardo Lopes",
+		"words": "Let's talk now about the virtue of perseverance. I mean, I guess that intellectually this seems a very obvious virtue to have because, of course, particularly people who are academics and even the ones who are not academics who just like to learn by themselves. I mean, of course, people to be a proper intellectual. Have to put a lot of work and a lot of time into acquiring knowledge, into, uh, I mean, acquiring proper knowledge into thinking into acquiring critical thinking skills and all of that. So it takes a lot of perseverance to become a proper intellectual, right,"
+	},
+	{
+		"start_time": "50:51",
+		"speaker": "Nathan King",
+		"words": "right. Yeah, I think that's right. So, and a good way to see it again is to think about paradigm cases. So think about Newton or Einstein, uh, think about the intellectual work that the American suffragists did. Uh, THINK about yourself writing a, a paper or learning about a discipline in, uh, in college. These are difficult tasks. These are tasks that present. OBSTACLES to our getting knowledge or to our keeping It or to are sharing it with others, those goods, we require perseverance to, to push past those obstacles or to encounter those obstacles in the right way, you know, and, and this, this holds in intellectual cases. So think about the perseverance it took Newton, you know, to invent the calculus that he needed for his physics, for instance. Uh, THIS also, you know, applies in everyday cases. You think about someone who's You know, dealing with an automobile that won't start. As you think through the, uh, what's causing that, probably there are multiple possible explanations. Uh, YOU have to work out what's the best explanation of this in order to get at the true explanation and fix your car. Um, THERE are all kinds of obstacles that might arise in the course of that diagnosis. So, so precisely because our lives in general and our intellectual lives in particular. Um, ARE just fraught with obstacles toward getting knowledge or keeping it or sharing it. Uh, WE need intellectual perseverance."
+	},
+	{
+		"start_time": "52:38",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. What about intellectual courage? I mean, what is the proper kind of courage that an intellectual needs?"
+	},
+	{
+		"start_time": "52:48",
+		"speaker": "Nathan King",
+		"words": "Yeah, good. So, so at least as I think of this, courage is a kind of species of perseverance. Maybe not everybody agrees with this. But at least as I think of it, uh, courage, uh, intellectual courage is the virtue that we need to encounter. Well, those obstacles, so there's perseverance of the sort that are fearsome or threatening. So think of, uh, you know, someone, let's say a social justice advocate, speaking the truth in the face of threats. That's a paradigm case of intellectual courage in action, right? So that this person is trying to convey intellectual goods of truth and knowledge and understanding, despite the fact that this person is being threatened in, in various ways. So the, the area of activity for intellectual courage. IS, is persisting in the face of threats or, or things that are uh that make us afraid."
+	},
+	{
+		"start_time": "53:49",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, I mean, you, you, you mentioned, um, an activist, uh, it's interesting. Do, do you think that perhaps there, um, there's another kind of, uh, thing that we should consider in here that has to do with A conviction because of course, to have courage, you have to have a certain level of conviction in your own beliefs, in your own knowledge. But do you think that that's uh there's a case to be made that sometimes you are too convinced of your own knowledge and perhaps that may turn into ideology or something like that."
+	},
+	{
+		"start_time": "54:31",
+		"speaker": "Nathan King",
+		"words": "That's right. So, so, I mean, as, as Aristotle puts it, you know, we should fear the right things. And in, in intellectual activities, one of the things we should fear is being misled, right? So to be courageous is not to be without fear. Uh, IT'S not to, uh, never encounter threats. It's to, if we think of fear, uh, you know, fear the right things at the right times in the right ways for the right reasons. And so someone could really stick to their guns in defending views. That are false and that they should know are false because they haven't been adequately attentive to this danger of You know, being misled. So that would be to exhibit a kind of rashness, right, to, to not fear something, uh, you know, in the intellectual realm that this person should fear."
+	},
+	{
+		"start_time": "55:26",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, HOW about open mindedness and firmness? I mean, particularly when it comes to open mindedness, what is, uh, a proper level of open-mindedness? Because I, I mean, if you have, if your ideas are too fixed, that's bad, but you can also be too open minded and just accept any kind of idea if even if it's wrong."
+	},
+	{
+		"start_time": "55:53",
+		"speaker": "Nathan King",
+		"words": "That's right. That's right. So, so, at least as I'm thinking of this, open-mindedness is the, the virtue that we need to consider the merits of, um, other views or new views or views that are contrary to ours. Um, Here I'm following, uh, people like, um, you know, Jason Bear, among others. Um, INTELLECTUAL firmness has to do with sort of maintaining our own beliefs, right? Um. So the, these, these virtues pair very nicely together. They probably, uh, you know, converge in a lot of real-world cases. But take open-mindedness, for instance, uh, that's a, a kind of willing ability to consider the merits of, of views that are, are new or that are contrary to our own. Um, SO think about that, considering the, the merits of those views. So, if those views have no merits, or if we have no reason to think they have any merit, Then if we're open to them, then we're, we're being excessively open. We're being indiscriminate. So if we take really seriously, uh, there's this conspiracy theory that birds aren't real, right? That would be indiscriminate, right? But then we can also be closed-minded and fail to take seriously views that really do have some, some merit, right? And, and that might be because we're dogmatic. It might be because we're indifferent, but there's that vice of closed-mindedness that's the deficiency here. Um, ONE thing that we should, we should mention, maybe we haven't mentioned this in enough detail so far, as we seek to find, um, you know, what we might call the mean between vices, right, as we seek in this case to find the mean between the deficiency of closed-mindedness and the excess of kind of indiscriminateness, um, we're not just seeking a kind of middle ground or a Goldilocks zone between too little and too much. Um, A, a more structured way to think of this is to think of being open to the, you know, the right, the right, uh, kinds of claims at the right times and in the right ways and, and for the right reasons. So there's a little more structure to this, um, and in this way, that, you know, people who talk about intellectual virtues are modeling. Intellectual virtues on Aristotelian moral virtues, right? So Aristotle says the virtuous act is the one that we do, we do the right thing at the right time in the right way, you know, for the right, for the right reason. Um, AND so to talk about virtues like open-mindedness, you know, we need to sort of go through each of those items, uh, carefully. Maybe we don't have space to do that today. But that gives it a little more structure than this kind of vague, oh, not too much, not too little."
+	},
+	{
+		"start_time": "58:42",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Yeah, as I said, I mean, at least in my understanding, you can be too open minded, but open mindedness tends to be a good intellectual trait to have also because if we consider that knowledge is changing all the time in the sciences and philosophy and so on, I mean, it's, I, I think it's generally a good trait to have to be open to considering new. Ideas and considering that perhaps if you insist too much on old knowledge you're stuck in your ways of thinking and you have to perhaps update yourself a little bit more and also I guess that even when it comes to morality it's also a good trick to be open open minded because I mean for example when it comes to civil rights and. So on, um, I mean, being able to consider the perspectives of other people that live in ways or think in ways that are different from your own and still treat them as human beings and think that they should also have their human rights and so on. I mean, at least for me personally, it seems like a proper trait to have."
+	},
+	{
+		"start_time": "1:00:05",
+		"speaker": "Nathan King",
+		"words": "That that seems exactly right to me. I, I couldn't have put it better."
+	},
+	{
+		"start_time": "1:00:09",
+		"speaker": "Ricardo Lopes",
+		"words": "Mhm. Uh, SO, and finally we have fair-mindedness and charity, so explain those virtues."
+	},
+	{
+		"start_time": "1:00:18",
+		"speaker": "Nathan King",
+		"words": "Yeah, so, so fair-mindedness and charity, uh, they, they, in a way piggyback on open-mindedness. So suppose we're open-minded and we decide, OK, I'm gonna consider the merits of these new or opposing views. Uh, CHARITY and fairness help us to take the next step and to do that well. So think about a view that opposes, you know, my own view. Uh, IT might be tempting. Because it's comfortable for me, you know, to continue to hold my own views. It might be tempting to sort of, um, treat that view or the person who holds that view in, in ways that I wouldn't treat myself or my own views, right? I might, um, set a higher bar of argumentative quality for, uh, accepting another person's view than I do my own. Well, of course, that's a lack of fairness. I'm not being evenhanded there, um. So that that kind of lack of fairness is um is a vice, um, that, that kind of vice. Um, IT'S something we see all over the place in our, our civil disc, well, I should say civic discourse. Um, IT'S not always very civil. But fair-mindedness is required to treat other views well once we say we're open enough to considering them. Uh, THERE'S a, a handy rule that we might think of here, and, and this is a rule that, that we get from morality, and then I'm kind of incorporating or, or importing to the intellectual realm. So think about what's, uh, what's called the silver rule, right? Don't do to others what you wouldn't want them to do to you. If we, if, if we import this into the intellectual realm, then it's something like, well, in intellectual matters, right? When we're trying to get the truth or keep it or share it, we shouldn't do to other people and their views, uh, things that we wouldn't want done to us, right? So, uh, set up, you know, a straw man argument or, you know, mischaracterize the other person's view to make it look weaker than it is. We wouldn't want those things done to us, right? And so, Uh, that's a, that's an obvious thing to say, but it's amazing how often we run afoul of that principle. Uh, CHARITY, I think, goes beyond fairness. And so this is another kind of case where, where, uh, going beyond, as in the case of, you know, like honesty, intellectual honesty anyway, uh, needn't be a vice. So, we could go beyond fairness. If we not just characterize the other person's view or argument accurately. But if we um cast it in its best reasonable light, right? If we um are willing to, to, to sort of steel man, this is the common term, steel man, the other person's argument, make it the, the best it can be, right? And, and that's a, that's a, a very important uh kind of thing to do an inquiry because that allows us to see. Not just the views that are out there, but the, the, the best views and the best arguments that there could be. Um, THAT I think brings us closer to the truth and it's also a way to show respect and even love for other inquirers, right? And so, so going beyond fairness um can really be a good thing."
+	},
+	{
+		"start_time": "1:03:43",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so just one final question, and this, I mean, I mean, I guess it would be sort of a final message from you. So, uh, and, and this is going back to the point we touched on earlier about how intellectual virtues apply not only to the intellectual life of people but also their personal life and their Political life, their social life, and so on. I mean, uh, because someone, even after listening to this entire interview should still say, oh, OK, but I'm, you know, I'm not an intellectual. I don't really care that much about that, about intellectual virtues and so on. Why should I read Dr. King's book? I mean, uh, what would you say to them?"
+	},
+	{
+		"start_time": "1:04:36",
+		"speaker": "Nathan King",
+		"words": "Yeah, well, I mean, without, without plugging the, the book too much, let me just plug the, the virtues that the book talks about. I mean, one way to think of this um is in terms of a dinner table conversation. So, you know, tomorrow, uh, in America, we're, we're celebrating Thanksgiving. And, you know, there's this uh uh common occurrence at American Thanksgiving dinner tables where someone, usually it's somebody's uncle, starts talking about politics and carries on in a way that's really not winsome, right? That's, that's unfair to other views or uncharitable or that's arrogant or something like that. And so one thing I would say is that these intellectual virtues, right, if more of us seek them, are the kinds of things that will make us have better conversations over Thanksgiving dinner, and who could be against that?"
+	},
+	{
+		"start_time": "1:05:30",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so let's see if someone during in Thanksgiving applies or tries to apply some of these virtues when discussing with their uncle, uncle, and other people in their family."
+	},
+	{
+		"start_time": "1:05:44",
+		"speaker": "Nathan King",
+		"words": "Let's hope for that. It, it'll be, it'll be, uh, you know, all I can do to make sure that I'm not, uh, you know, committing acts of intellectual vice around the, uh, the table myself. So I think we all have to start with ourselves rather than, than starting with other folks."
+	},
+	{
+		"start_time": "1:06:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Great, so the book is again the Excellent Mind, Intellectual Virtues for Everyday Life. I'm of course leaving a link to it in the description of the interview and Doctor King, er, are there any places on the internet where people can find you and your work?"
+	},
+	{
+		"start_time": "1:06:17",
+		"speaker": "Nathan King",
+		"words": "Uh, YEAH, so I have a, a website that's just, uh, Nathan, I think it's Nathan-ing.org, but if you just look up Nathan L. King philosophy, uh, you'll probably find it. Uh, The Excellent Mind is available on the Oxford University Press website. I'll be able to send a link to that site shortly, and it's available at other online booksellers as well."
+	},
+	{
+		"start_time": "1:06:43",
+		"speaker": "Ricardo Lopes",
+		"words": "Great. So thank you so much for taking the time to come on the show. It's been a very fun conversation."
+	},
+	{
+		"start_time": "1:06:49",
+		"speaker": "Nathan King",
+		"words": "Thanks again for having me. I, I really enjoyed this."
+	},
+	{
+		"start_time": "1:06:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herzognon, Michel Jonathan Labrarinth, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophanus, Chris Williamson, Peter Wolozin, David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers Iar Webb, Jim Frank Lucas Stinnik, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al Nick Cortiz, and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]

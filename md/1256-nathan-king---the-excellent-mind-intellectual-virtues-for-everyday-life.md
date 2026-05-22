@@ -5,13 +5,16 @@
 	"episodeid": "1256",
 	"excerpt": "Dr. Nathan King is Professor of Philosophy and Edward B. Lindaman Endowed Chair at Whitworth University. His scholarly work addresses such topics as intellectual virtue, business ethics, the philosophy of education, civil discourse, the epistemology of disagreement, and the philosophy of religion. He is the author of The Excellent Mind: Intellectual Virtues for Everyday Life.",
 	"image": "https://i.ytimg.com/vi/SuEd0Nbpi4Y/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1256-nathan-king-the-excellent-mind-intellectual/id1451347236?i=1000768962143&uo=4",
 	"publishDate": 2026-05-21,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1256-Nathan-King---The-Excellent-Mind-Intellectual-Virtues-for-Everyday-Life-e3bgs88",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1256 Nathan King - The Excellent Mind: Intellectual Virtues for Everyday Life",
-	"youtubeid": "SuEd0Nbpi4Y"
+	"vtt": "1256.vtt",
+	"youtubeid": "SuEd0Nbpi4Y",
+	"transcript": "1256.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 26th 2025.  
