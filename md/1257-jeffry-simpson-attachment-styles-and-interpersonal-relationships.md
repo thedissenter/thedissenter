@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1257 Jeffry Simpson: Attachment Styles and Interpersonal Relationships",
-	"youtubeid": "mPPZuyqlgd0"
+	"vtt": "1257.vtt",
+	"youtubeid": "mPPZuyqlgd0",
+	"transcript": "1257.lines.json"
 }
 ---
 RECORDED ON FEBRUARY 26th 2026.  
