@@ -14,7 +14,9 @@
 		"Psychology"
 	],
 	"title": "#1258 Nuno Pessoa Gil: Uma Conversa Honesta Sobre Suicídio e Eutanásia Com Um Psiquiatra",
-	"youtubeid": "XmoNt0bDCF0"
+	"vtt": "1258.vtt",
+	"youtubeid": "XmoNt0bDCF0",
+	"transcript": "1258.lines.json"
 }
 ---
 RECORDED ON MAY 9th 2026.  
