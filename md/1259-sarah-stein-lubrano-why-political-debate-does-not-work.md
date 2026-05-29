@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1259 Sarah Stein Lubrano: Why Political Debate Does Not Work",
-	"youtubeid": "J19yhNrCvio"
+	"vtt": "1259.vtt",
+	"youtubeid": "J19yhNrCvio",
+	"transcript": "1259.lines.json"
 }
 ---
 RECORDED ON MAY 18th 2026.  
