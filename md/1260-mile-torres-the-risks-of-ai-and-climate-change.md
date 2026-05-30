@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1260 Émile Torres: The Risks of AI and Climate Change",
-	"youtubeid": "SP0iHuXMxlY"
+	"vtt": "1260.vtt",
+	"youtubeid": "SP0iHuXMxlY",
+	"transcript": "1260.lines.json"
 }
 ---
 RECORDED ON MARCH 11th 2026.  

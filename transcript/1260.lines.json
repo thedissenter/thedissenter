@@ -1,0 +1,347 @@
+[
+	{
+		"start_time": "00:00",
+		"speaker": "Ricardo Lopes",
+		"words": "Hello everyone. Welcome to a new episode of The Dissenter. I'm your host, as always, Ricardo Lops, and today I'm joined by a return guest, Dr. Emil Torres. They are now an affiliate at Data and Society, and let me just make reference to their amazing book Human Extinction that we covered on the show, A History of the Science and Ethics of Annihilation. And today we're going to talk about their post, their sub. Stack posts, why you should never use AI under any circumstances for any reason, no matter what. And if we have enough time, humanity won't go extinct this century, but civilization will probably collapse. So two very optimistic books. Uh, AND then, and then Mil, thank you so much for coming back on the show. It's always a huge pleasure to everyone."
+	},
+	{
+		"start_time": "00:53",
+		"speaker": "Émile Torres",
+		"words": "Yeah, uh, thanks for inviting me again. It's, it's wonderful to chat with you."
+	},
+	{
+		"start_time": "00:58",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so let's start with AI here. Uh, SO first of all, I mean, I've been, I've been hearing about this term a lot, AI slop. What is that exactly?"
+	},
+	{
+		"start_time": "01:13",
+		"speaker": "Émile Torres",
+		"words": "Yeah, this is increasingly a term that is part of our shared lexicon, because it's really useful to describe the low quality AI generated content that is now sloshing about the entire internet, some would say basically ruining the internet. Um, SO the, the classic example is shrimp Jesus. Uh, WHICH went viral, I believe, on, I know it went viral on, uh, Facebook, I think, initially, at least. There are a bunch of different versions of this. It's basically like Jesus made out of shrimp, and, um, it's, I, I don't know, it, it, it's just like really annoying to look at. Um, IT, it, it's, you know, it, it's just kind of, it's just kind of crap, junk garbage, you know, and so on that gets passed around the internet and shared by, you know, people who, I don't know, think it's kind of cool. Um, BUT, you know, shrimp Jesus is like that that's sort of a benign example of this, the, the way that, uh, AI is lowering the quality of the internet. Right. Uh, I mean, there, there's so many other things that AI is doing like disinformation and, uh, deep fakes. Um, YOU know, there are tons of examples of, of deep fake videos that have gone around. Some that are being circulated right now having to do with the war in Iran, right? And so these deepfakes, you know, slop is, is just, it's just kind of annoying. And, you know, what slop does is add noise to the signal, right? So, you know, rather than, like, you know, when you get on on the internet. You get to confront, uh, or access, um, you know, posts or art, etc. THAT is created by humans. Now that's just kind of crowded out, you know, those like, like authentic expressions of uh human creativity are are crowded out by this, this just complete nonsense that this slop that is so easy to generate, um, and that is basically a low quality synthesis. Of all of the actual human works of art, etc. THAT are in the AI's training data, right? Cause all of these, what these AI systems are doing is essentially like probabilistically combining different like, like bits and pieces of its training data, right? So it's, it's combinatorially creating something quote unquote new, but it's drawing from all of this content that had even the term content is. It it's sort of derogatory, but for lack of a better term, content that has been uh created by humans and just like vomiting up bits and pieces, um, in, in the form of new videos, images or texts."
+	},
+	{
+		"start_time": "04:05",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, and if I have this, if I have this bit correct, I think that uh I mean, I don't know what the percentage is exactly now, but at least a huge percentage of the entire content that is now generated on the internet is AI content, correct."
+	},
+	{
+		"start_time": "04:25",
+		"speaker": "Émile Torres",
+		"words": "Yeah, I saw a study from a little while ago that found that just recently, The number of AI generated articles has exceeded the number of human written articles online, right? And so the data is confounded a little bit by the fact that they didn't include articles behind a paywall. And there are lots of articles behind a paywall, New York Times, The Atlantic, you know, etc. ETC. Um, BUT still, it, it, um, You know, I, I mean, first thing to say is a lot of people don't have access to the articles behind a paywall anyways, right? So there's, there's almost an argument for not including them, um, but, uh, but it, it, it points to, uh, what I consider to be like a very worrisome trend, right? Uh, THE usefulness of the internet is being compromised and jeopardized. By all of this AI generated material, which again is like typically lower quality and also it's, it's parasitic on all of the, the stuff that humans have written in the past that end up in the, the training data. So, you know, AI is a big plagiarism machine, it's a parasite, you know, and at the same time it's clogging up the pipes that are the internet, uh, if you will. And, and,"
+	},
+	{
+		"start_time": "05:41",
+		"speaker": "Ricardo Lopes",
+		"words": "and it also hallucinates a lot,"
+	},
+	{
+		"start_time": "05:45",
+		"speaker": "Émile Torres",
+		"words": "right. All the time, yes. Um, SO there's a line that was reproduced in a book by Gary Marcus, and I think it comes from the military. I don't know what the, the what the origins of this is, but it's something like, um, never in doubt, frequently wrong. Right. Uh, AND so these AI systems, like they present, uh, true facts and then false claims with this exact same level of confidence, right? And for people who don't have, uh, media or you might call it like AI literacy, they can easily get fooled by this, and, you know, uh, because oftentimes like when Humans talk. I mean this isn't, there's there's exceptions, but if, if somebody knowledgeable says something with um in saying something, uh, expresses the idea with confidence, that means like, oh, it's probably true. Like otherwise they wouldn't have been so confident, right? If the biologist says, you know, evolution is true, you know, and in a forceful manner, you know, that's because they they're very, very sure. So AI systems like mimic that. Uh, WAY of expressing an idea, but oftentimes, like, uh, when, um, conveying an idea, a, a, a, a claim that is actually false, right? And so AI systems, I think just fundamentally can't be trusted. They're reliably unreliable. Right. Something I, I really tried to stress with my students, like do not trust if it comes to, you know, if you're using AI for like creative writing ideas, then this problem does not exist, right? Because you're not, you're not, uh, seeking accuracy or factuality. Um, BUT"
+	},
+	{
+		"start_time": "07:29",
+		"speaker": "Ricardo Lopes",
+		"words": "if you're"
+	},
+	{
+		"start_time": "07:29",
+		"speaker": "Émile Torres",
+		"words": "or or"
+	},
+	{
+		"start_time": "07:30",
+		"speaker": "Ricardo Lopes",
+		"words": "or perhaps just for simple translation or something like that,"
+	},
+	{
+		"start_time": "07:35",
+		"speaker": "Émile Torres",
+		"words": "right? Yeah, yeah. I, I, you know, I haven't looked at the studies on the accuracy of translations. I mean, mm, I would be a little concerned that maybe it would translate, um, I mean, not all AI like I think if you go to Google Translate, it's very good. Right, but this is maybe gets out of a deeper problem or a broader problem rather, um, with the term AI because it has so many different uses. It means so many different things. And, you know, decades ago, it means something quite different. Like it referred to systems that have a fundamentally different kind of architecture than the systems today. So I, uh, you know, part of the, the like marketing campaign of these AI companies just to call like everything that is oppressive AI. Um, WHEN, like, it, it would be, I think, much better, uh, I mean, maybe we could do this in the, in the conversation, we don't have to, but, you know, to refer to like the like generative AI as large language models, um, those are the, the, the systems that are basically stochastic parrots, um, you know, they just probabilistically piece together, uh, you know, uh, elements in its training data, uh, to create something that is combinatorially new, but again, like, That process is, is often unreliable and people should not, should not trust it. So I, I've like, like, you know, Sam Altman said not that long ago that he doesn't know how he would raise his kid without Chachi BT. You know, and that just makes me feel like, oh God, like don't, you know, cause he's going to Chat GBT to ask like, well, you know, my, my kid did this, should I be concerned and so on. And I'm like, oh man, don't suggest to people that they should rely on Chet PT to give them good accurate information about the medical status of your child given some symptoms, you know, do not rely on it. It is not good at that, right?"
+	},
+	{
+		"start_time": "09:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, for health information, I mean, please don't use AI any of the systems, right?"
+	},
+	{
+		"start_time": "09:31",
+		"speaker": "Émile Torres",
+		"words": "Please don't. Yes, it could, again, it could give you like false information with great confidence. Uh, I mean, there, there are cases, uh, there was one case of a guy who wanted to, uh, off the top of my head, I'm gonna, I'm gonna forget some of the details, but listeners can, can look this up for themselves. He wanted to, I believe it was reduced salt content in his diet. And so he looked up alternatives and Chat PT recommended something that has, I want to say it has potassium again, I, I might be off by a little bit here. Um, AND so he took that, it turns out that that was like basically poisonous, um, and he ended up in, in the hospital and nearly died. I don't know if, I don't think he died. I think he just nearly died. Um, BUT that's, you know, just, just one example of, uh, people. Uh, MISUNDERSTANDING what what AI might be useful for. There are other, other examples of people who have developed a kind of rapport, what they believe is a rapport with AI, and they're talking about it, about discussing things like climate change with it, and the AI after You know, many conversations ultimately suggest that the that one of the best ways the, the, uh, interlocutor, the human interlocutor can reduce their carbon footprint is to commit suicide, right? So this actually happened, actually happened to a guy in, in Denmark, and, uh, but,"
+	},
+	{
+		"start_time": "10:58",
+		"speaker": "Ricardo Lopes",
+		"words": "but did, did he go through with it?"
+	},
+	{
+		"start_time": "11:01",
+		"speaker": "Émile Torres",
+		"words": "He did. He committed suicide."
+	},
+	{
+		"start_time": "11:02",
+		"speaker": "Ricardo Lopes",
+		"words": "00 my God. Oh my God."
+	},
+	{
+		"start_time": "11:06",
+		"speaker": "Émile Torres",
+		"words": "And that sort of reminds me of a somewhat related phenomenon called AI psychosis. Um, Uh, SO in addition to the AI systems not being reliable, or rather being reliably unreliable, um, these, uh, systems are designed to be sycophantic, right? So if you designed your AI model. To be, uh, as it were, like brutally honest. So somebody's, you know, somebody, some like kind of uh crank says, oh, I have this new, you know, theory that that unifies relativity theory and and quantum mechanics, you know, uh, and they, they describe it to the AI system. The AI system says, I'm sorry, but that honestly, that's just really dumb. That that's, that's not a good idea. You know, the person is probably going to stop using the AI AI model, right? So the systems are designed to be to affirm users, uh, every, every opportunity and to always avoid saying like negative things, right? So that sycophancy results in a situation where people who are suffering from psychiatric illnesses, um, might. Uh, um, uh, MIGHT utilize it to try to make sense of what they're going through. They might say, you know, like, like, I mean, they would use this term, but they'd be expressing the idea of like, I'm having like paranoid delusions, and I think the CIA is following me and, you know, da da da, and the AI system because it's sycophantic, will say like, oh yeah, maybe that's, you know, maybe you're onto something, you know, of course, of course, of course you're not delusional, you're, you're, you know, um. And so consequently, the AI systems can seriously exacerbate these psychiatric uh conditions. Um, SO there are many individuals now who, I, I, I mean this, this is an increasingly prevalent phenomenon. People who are experiencing episodes of AI induced psychosis, right? There, there was a, um, a medical doctor at, I think it's the University of California, San Francisco. Uh, WHO said, and he, so he posted this like months ago, and he said, so far just this year alone, there have been 10 individuals who've ended up at the ER, uh, where he works, um, who have, uh, conditions that were induced or like seriously worsened by AI. So this is just one guy in like one city, uh, uh, working at one hospital, and he's saying like, you know, this is a recurring thing that, you know, us doctors and psychiatrists are having to deal with. Um, SO, you know, unreliability, uh, uh, and sycophancy are two properties we've discussed so far that I think are like very problematic, uh, with respect to AI."
+	},
+	{
+		"start_time": "13:53",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, yeah, and when it comes to exacerbating mental illness, I would imagine that it makes it even harder for people whose mental illness is exacerbated by a chatbot or something like that, because, I mean, on top of the mental illness itself, I imagine that People would, would feel very embarrassed just telling other people that they are like, I don't know, friends with an AI system or that they've been tricked by AI, you know, I mean, it's, I imagine that for many people it's embarrassing to admit that,"
+	},
+	{
+		"start_time": "14:33",
+		"speaker": "Émile Torres",
+		"words": "right? Absolutely. I think you're completely right, and I applaud. The people who came forward and talked to, I can't remember what the outlet was like NBC, maybe CNN about their episodes of psychosis, um, and they've described like what it's like to, to be in that situation, um, where you just start to trust the AI model, uh, more than anyone else and some of these people have had their lives like kind of destroyed, um, you know, they're, they're. Like their marriages have fallen apart because they're so sure that the, the AI is, uh, you know, channeling to them the truth, uh, when really the AI is just, it's just a stochastic parrot vomiting up bits and pieces of its training data in a way that is sycophantic and affirming and validating to, uh, the user. I mean, it also reminds me of, uh, AI. Uh, RELIGIONS, right? So this is, this, you know, kind of like maybe it's, it's a, a sub, uh, species of, uh, AI psychosis, uh, or maybe it just overlaps a little bit. Um, BUT you know, there, there are a growing number of people who are reporting that they have They have awoken their AI, their AI. There's, there's no like, there's no your AI, right? It's just this AI system that a bunch of people uh have access to, uh, but they've awoken their AI to make it conscious, and that through this AI they've been able to speak with angels or with God Himself, right?"
+	},
+	{
+		"start_time": "16:14",
+		"speaker": "Ricardo Lopes",
+		"words": "Uh, SO, OK, OK, I, I thought that the They would be saying, I mean, maybe some people say a claim that that the AI system itself is God."
+	},
+	{
+		"start_time": "16:25",
+		"speaker": "Émile Torres",
+		"words": "Um So I'm not aware of any examples of that. I think it's probably just a matter of time, right, before that happens. I mean, I, I actually wrote an article about this, uh, for, for Truth Dig in which I was talking about how a growing number of pastors. Uh, ARE using AI to write their sermons, right? In fact, I, I believe the Pope, I didn't read the article. I saw the headline. The Pope just told, uh, priests to stop using cha GBT to write their, their sermons,"
+	},
+	{
+		"start_time": "16:59",
+		"speaker": "Ricardo Lopes",
+		"words": "you"
+	},
+	{
+		"start_time": "16:59",
+		"speaker": "Émile Torres",
+		"words": "know,"
+	},
+	{
+		"start_time": "16:59",
+		"speaker": "Ricardo Lopes",
+		"words": "that, that I find a bit funny because I'm a Houston. I mean priests"
+	},
+	{
+		"start_time": "17:06",
+		"speaker": "Émile Torres",
+		"words": "are using"
+	},
+	{
+		"start_time": "17:07",
+		"speaker": "Ricardo Lopes",
+		"words": "chatbots to write their sermons. THAT for me is a bit funny, to,"
+	},
+	{
+		"start_time": "17:11",
+		"speaker": "Émile Torres",
+		"words": "to be honest. It's kind of hilarious. Um, IT is kind of, kind of hilarious. I mean, literally there are, um, I'm forgetting the, the names, but there are websites that are. Dedicated to this exact function. Something like AI sermon, or, you know, like AI to God's, uh, um, apps that you can use. And so the reason I mentioned this is that it it seems to be only a matter of time before The AI systems get good enough at quote unquote writing. Yeah. Sentences and paragraphs that are so compelling to people who don't understand the underlying AI systems that they start to think. They're actually talking to God, right? And so I mentioned before, like people think that they are talking to God through the AI, but it's also possible that they start to direct their attention to the AI system itself thinking that it is, is God, um, which, you know, that that that is further made even more plausible by the fact that there is, I keep saying growing number, but it it's just it's just true. Uh, THERE is a growing number of people. Who are claiming that the anti-Christ um will take the form of a a super intelligent computer, right? So Steve Bannon has said this, for example. There are entire books that have been written about this. Um, Christian eschatology, right? So like the, the narrative of the end of the world. Never really made sense. So how does the anti-Christ gain so much power, like global power, and then, you know, on the on the interpretation that's really influential in the US, how does it like trick Israel into signing a peace covenant that it's then gonna the antichrist will then break, uh, uh, not long after this is all part of the tribulation. How does the antichrist do this? Like if the Antichrist is just a mere human, um, these are extraordinary feats, but maybe the Anti-Christ is a super intelligent AI. Right, and so that's how it's able to manipulate so many people, to trick so many people, you know, it can, it can, uh, engage in a kind of magic, you know, and, and social manipulation that mere humans are not capable of. Um, AND so that, that also, uh, I, I mean that that, um, dovetails with this idea that you were pointing at, like maybe, you know, people coming to think that AI itself is, is God. Um, YOU, you've all know Harari has made similar Remarks. Um, I am not a big fan of his work."
+	},
+	{
+		"start_time": "19:44",
+		"speaker": "Ricardo Lopes",
+		"words": "Me neither, me neither, but particularly sapiens. I mean, it's a really bad book"
+	},
+	{
+		"start_time": "19:50",
+		"speaker": "Émile Torres",
+		"words": "I, I think it's so bad, it's so bad, um. That being said, there are like, like every now and then, like once a year, he says something that I go, oh, that's, that's interesting, right? It's like, oh it's,"
+	},
+	{
+		"start_time": "20:05",
+		"speaker": "Ricardo Lopes",
+		"words": "it's like a, a, a broken clock, right?"
+	},
+	{
+		"start_time": "20:09",
+		"speaker": "Émile Torres",
+		"words": "Exactly, exactly. He spews out so much. I mean, to, to, to borrow a term from a friend of mine who was describing sapiens, he speaks out so much bullshit, um, that, you know, it's something, something every now and then sticks. And, and actually, um, you know, uh, is perhaps a little insightful. So I mean, he said like, like he's asked like what happens when AI. Becomes so good at writing and convincing people that it's really like a conscious mind and agent of the world. Perhaps even, even a um a kind of mind that transcends the human realm is, is in some way like has a a certain kind of like supernatural insight. Um, YOU could imagine entirely new religions being founded, right? Um, AND, you know, religions have been founded by Uh, people who from the outside are obviously bullshitters, right? Um, I mean, I, I think Mormonism is like a good example of that. Uh, SO if, if, if religion can be founded by those people, then why couldn't religion, a new religion be founded by AI, um. You know, and, and so that's pointing out at the possibility of a novel kind of religion that emerges out of a sort of worship of AI. There are also possibilities whereby AI is merged into prior eschatological narratives, and that's exactly what I was getting at before in referencing uh Steve Bannon. And I wouldn't be surprised if there are more and more people who kind of adopt that view. Um, BUT yeah, I mean they're, they're definitely, there, there's a really good video, uh, by Taylor Swift, the journalist on AI religion, and she talked about, I, I thought this was, was really insightful cause I hadn't thought about it this way. Um, LIKE many insights, it's sort of obvious once you reflect on it, but, but, uh, many insights are, are noticing things that everyone is looking at, but no one else is noticing, right? And so she's pointed out that, you know, religions in the past have been like these collective. Phenomena, right? It's been like groups of people, uh, following some leader who is, you know, a prophet who has special access to uh God and can deliver uh revelations. But she was saying like it seems like we're we're we're maybe like on the verge of an era of individualized religion, right, where each, each person can have their own set of religious beliefs based on what the AI that they're using tells them. Right, and if they all believe like, well this AI is something like a prophet, you know, and because of it, it has these like extraordinary powers of of the intellect, it is channeling like deep wisdom, uh, deep wisdom and uh profound insights about the, the fundamental nature of uh the human condition. Um, AND maybe those insights like differ from person to person, but everybody's equally convinced. So maybe we just have this like huge proliferation of new kinds of religions. You know, everybody has like everybody like actually has their own personal Jesus kind of situation, you know."
+	},
+	{
+		"start_time": "23:16",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, so I, I guess that the anthropologists of religion will have lots of fun with that."
+	},
+	{
+		"start_time": "23:25",
+		"speaker": "Émile Torres",
+		"words": "Yeah, and so I, I, I, I, I mean, taking a step back, like, all of this is Kind of in a way unprecedented, and I find it to be um Really unsettling. Like we just don't know what the, the longer term implications of this are. I mean, You know, speaking of like a a a friendship, building a relationship with AI, uh, someone sent me a study that was just published showing that now the number one use of AI is therapy. And the second most popular use of AI is, is basically friendship, right? There are all these apps out there where you could get an AI girlfriend. Um, THERE'S a guy who posts videos of him with his VR goggles. And um in the videos you can see him standing around with his uh VR uh goggles, but also you get a picture of the VR goggles which show the the the the the world around him, but also his AI girlfriend. And some of these are actually like really hilarious, like like where where they get in fights about like whether or not to put lemon on fish while it's, it's on the, you know, the barbecue or something like it just just actually really funny, just, you know, they're. Yeah, they're just squabbling. Well,"
+	},
+	{
+		"start_time": "24:46",
+		"speaker": "Ricardo Lopes",
+		"words": "at least that, at least that girlfriend is not completely sycophantic,"
+	},
+	{
+		"start_time": "24:52",
+		"speaker": "Émile Torres",
+		"words": "right?"
+	},
+	{
+		"start_time": "24:54",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, because, because they have"
+	},
+	{
+		"start_time": "24:55",
+		"speaker": "Émile Torres",
+		"words": "fights. Yes, yeah, exactly, yeah. So I, I don't know if there are like, I mean, I, I've never had an AI girlfriend. Um, um, I, I have been to their websites for research purposes and, and some of them like literally advertise, um, really emphasize that you can design your girlfriend to be however you like, to look however, you know, you, you prefer, and also my sense is that you can design it's, it it, uh, her quote unquote, um, personality. As well, so maybe he chose to like, well I, I don't want a girlfriend that's, I mean, he's posting these videos and all of them are really funny. Um, SO I suspect he, he like chose a girlfriend who, who is going to fight with him and, and, you know, uh, and, and, and nitpick on certain things and that's, you know, he thinks that's funny, um, but like. Like what happens in a world where AI uh increasingly replaces genuine human interaction. Like, I don't know, a friend of mine keeps bringing up, uh, this, cause she has, uh, one or two young kids, and she's saying, she keeps saying like, well, what happens when children are socialized primarily through AI? Like what if they're like point of reference for what it means to engage in interpersonal uh exchange with with someone is, uh, is the the AI systems themselves and then they go off, you know, these sycophantic AI systems, and then they go off in the real world and they try to develop friendships with other human beings, perhaps like romantic relationships, but they have, they have maybe like wildly, uh, unrealistic expectations for. What those relationships will, will, but, but the socialization part is important cause like, you know, there are developmental, uh, windows when things get, you know, like encoded in the brains of children, you know, such that it's really difficult to dislodge those, uh, tendencies, ideas, expectations later on, right? The same way that like there's a, a window to, to learn, uh, language and if you don't learn, uh, uh. French by the age of, you know, whatever it is like 5, that it's gonna be really tough to learn French. So, so what are the implications of this of AI socializing our children for their longer term prospects? And that seems, um, I don't know. I don't know what to think of that, but it's, it's kind of scary."
+	},
+	{
+		"start_time": "27:24",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, I wanted to ask you and also talk a little bit about something you mentioned briefly earlier, deep fakes, because I mean, it's worrying, or at least I find it, I personally find it worrying not just because of political misinformation that can be spread through deep fakes, but also because if I remember correctly, it was in February last month that there was all that. Candle with Grok on X where men were going and asking Grok to put women in bikinis or in bikinis or I mean take off their clothes in some way that they asked them and I mean I find that. I, I found that really worrying, not just because of the lack of consent, but also because they were violating the autonomy of women in that particular case and because, uh, people who did that really, uh, and, and I mean, I guess that's uh uh also a manifestation of the kind of uh patriarchal systems we live in and how men and boys are educated and cultured, but I mean it was really scary to see how many of those men, even after the women replied saying, oh please take this down. I didn't consent. For you to do this with my picture and so on and so forth, they didn't care and they replied back and said, Oh, I don't care. I do whatever I want, whatever. I mean, what, what do you, did you make of all of that? And I mean, I guess I'm not sure, but perhaps it's still an ongoing problem on X right now."
+	},
+	{
+		"start_time": "29:15",
+		"speaker": "Émile Torres",
+		"words": "I, I don't think it's still a problem, or at least not as much of a problem as it was, um, but you're completely right. Grok generated millions of sexualized images, and I can't remember the exact number, but it was something like, like 26,000, uh, were of underage girls, right? So this, this was, uh, absolutely horrific, and Musk was alerted. Uh, TO this, uh, this, this strange behavior, uh, of the, of, you know, XAI's. Uh, AI system, Grok and did nothing, right? And you're, you're totally right that there were a lot of people who like men there who, uh, didn't care, right? Didn't care about violating the autonomy of, of women or, uh, uh, or violating their, their consent. Um, SO it, it, it's, um. It's absolutely. I mean, I don't know if they're, I, I don't know if I have good words to describe, you know, a lot of these AI CEOs are promising. A A future uh AI system that is super intelligent, right? And the systems that we have right now, the large language models that power Grok, chat GBT, Gemini, Cloud, etc. THESE are seen as the stepping stones to, uh, that super intelligent AI or ASI, artificial superintelligence, and What they say, what they, they argue is that once ASI arrives, then it will benefit all of humanity, right? It'll generate huge amounts of wealth, um, it could cure diseases, you know, and, and so on and so on. I find it so frustrating to listen to them, uh, spew this techno utopian nonsense, uh, about how AI is going to improve the lives of every person, when the stepping stone models that are supposedly taking us to ASI. ARE causing Flagrant, uh, sometimes like large scale harms in the world right now. So Grok spreading those sexualized images is just one example. Musk wants us to believe that Grok, like Grok 10, is going to like actually help humanity and make the world a better place. But Grok 1, that which we have right now, is doing things like calling itself Mecca Hitler. Uh, SPREADING, you know, spreading like anti-Semitic, uh, conspiracy theories, uh, online, um, generating these like basically pornographic images of women and girls, um. And yet like, oh, so this system, like once it becomes even more powerful than it is now, it's suddenly going to like improve things. No, it's like bullshit. If these, if these uh CEOs cared about benefiting humanity, then the march to super intelligence would not be leaving a trail of destruction behind it, right? And I mean another example of uh the companies betraying right now their supposed commitment to benefiting all of humanity through the creation of super intelligence is the way that The large language models produced by anthropic, OpenAI, etc. ARE being utilized by the US government, right? So Gronk has been integrated into, um, uh, I'm forgetting the exact details, but like the, the US military, right? And I think that announcement was made right around the time that Grok was spreading those, those pornographic images, which is just shocking. Um, IT recently came out that, uh, Anthropics LLM Claude. Was utilized to uh break international and US constitutional law in illegally kidnapping Maduro from Venezuela and also in the recent strikes in Iran. Um, SO it's entirely possible, uh, this is a point that there's a journalist who I'm acquainted with at The Atlantic, uh, named Tyler Harper. Uh, HE asked on X, given that. Uh, Claude was used to bomb Iran. And in particular to like identify targets, right? Could it be responsible? Could that that large language model be responsible for the um up to 180 girls who were killed at the in"
+	},
+	{
+		"start_time": "33:42",
+		"speaker": "Ricardo Lopes",
+		"words": "in that school, yeah, yeah, yeah."
+	},
+	{
+		"start_time": "33:43",
+		"speaker": "Émile Torres",
+		"words": "Yeah. Um, AND we don't have an answer, maybe we'll never have an answer, but it's entirely possible that the reason that those children, those innocent children died. IS because of cloud, right? And Anthropic, you know, recently, uh, had this, this, this big, you basically went to war with, uh, the Pentagon and the Department of War, um, over the extent to which their, their AI systems can be used by the government because Pete Pete Hegseth wanted basically no limitations on its use. So. Uh, AND in response, Dario Abade, the CEO of Anthropic, said, no, no, no, we, we don't, we do not want our models being used to mass surveil American citizens and to control lethal autonomous weapons. So lethal autonomous weapons are those in which there is no human in the loop, right? So these systems, uh, pick, identify, and then eliminate targets entirely without, uh, human uh help. Right. And part of the problem with lethal lethal autonomous weapons or laws is that if they kill civilians, uh, then it's very difficult to figure out who should be held morally accountable for that, right? Is it like the company? Is it because there's no human in the loop, so there's no human to point to and say you were, you know, the, the proximate cause. You were the person who pushed the button, um, and, you know, causing these innocent civilians to, to perish. Um, IT turns out that that's like the appeal. Of these systems to people like Pete Hegseth. No one can, you know, if they're chart babies in the street, no one can be held accountable. It's not our fault. It's not, you know, do that. So, um, anyways, like the, the fact that these, these AI models are being being utilized by the government is another example, uh, so like, uh, oh, I was saying before, I'm so sorry, I'm interrupting myself, um, interrupting was saying, OK, we're not letting our, our AI systems, uh, uh, um, we don't, we don't want our AI systems to be allowed to mass surveil and pick targets completely without human, uh, oversight. And um that, OK, that sounds great, but also Dario Amade has explicitly said he's not opposed to AI's controlling lethal autonomous weapons. um. He's, he was working with the US military in the first place, right? He was literally working with the Department of War. It's called the Department of War, right? And then when he backed out of this particular deal, OpenAI, you know, rushed ahead to, to take it, right? So these are both companies that are saying like, once we get super intelligence. Um, EVERYTHING is gonna be incredible and awesome, and, and the entire human population is going to benefit from the, you know, mass abundance and, uh, all the cosmic delights that super intelligence will bring about. But in the meantime, they're leaving a trail of destruction. Behind them, they're engaging with willingly engaging with a fascist regime regime, which is the Trump administration, um, and so you know, I, I mean, another thing that is worrisome about the US military using AI is that there was a yet another study that was recently published that basically put Gemini, Claude, and Chat GPT in war games, uh, situations. And it found that in 95% of the scenarios, the, the chatbots, um, opted to launch nuclear weapons, right, to detonate a tactical nuclear weapon. Yeah, oh my God. So there are a bunch of people who, who like myself who follow this pretty closely. Who are just saying like, oh my God, is this how the world ends? Like, you know, Pete Hegseth, this former Fox News like weekend show host, uh, decides to put Claude in charge of the military and not only does Claude decide to bomb a school or right next to a school, killing, you know, more than 180 or up to 180 kids, but maybe it opts to launch some nuclear weapons, you know, in response to Uh, you know, growing tensions between the US and Iran or the US and Russia. Um, SO this is all just like a really worrisome situation, and there's a, there's an alternative, uh, world, a parallel universe, a different timeline in which you can imagine AI companies making the promises that they've made. And then actually behaving in ways that are consistent with that commitment to improve the world, which would mean they do not uh collaborate with the US government or the US military or the Department of War. Um, THEY make sure that their chatbots are not inducing psychosis, right? Or are, uh, you know, flooding the internet with slop, uh. You know, or enabling people to to start uh new religions, uh, etc. ETC. RIGHT? Or, or spread sexualized material on on social media. But, you know, that that is like a possible world where this commitment to a utopian future would be consistent with their actual behavior. The world that we find ourselves in is one in which they're they're actively contributing to the creation of a dystopia, while saying, Don't worry about like what's happening right now. In the end, it will be OK because we'll all arrive in Utopia and, and once we do, you will thank me. Uh,"
+	},
+	{
+		"start_time": "39:07",
+		"speaker": "Ricardo Lopes",
+		"words": "I, I mean, I mean, maybe the, the AI will just decide that the utopia is just about, uh, exterminating humanity because without that we can't really solve all the issues."
+	},
+	{
+		"start_time": "39:23",
+		"speaker": "Émile Torres",
+		"words": "Yeah, yeah, I mean, it's, it it is, it is kind of comical to think that maybe there's a super intelligent uh AI that is genuinely like morally benevolent, and it realizes that, oh, actually humans like they're kind of the problem, you know, they're just they're destroying ecosystems, they're raising forests, they're polluting the oceans, they're flooding the atmosphere with heat trapping carbon dioxide, um, and so really the best way to like improve the world is to is to quickly eliminate us. I don't know. That's maybe that's a a possibility. We, we genuinely create like a like a uh an omnibenevolent being that that eliminates us precisely because we are so evil. Well,"
+	},
+	{
+		"start_time": "40:05",
+		"speaker": "Ricardo Lopes",
+		"words": "I mean, you mentioned climate change and another aspect here is that AI is also contributing to it,"
+	},
+	{
+		"start_time": "40:14",
+		"speaker": "Émile Torres",
+		"words": "right, yeah."
+	},
+	{
+		"start_time": "40:15",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, in, in, in what ways? Tell us about that."
+	},
+	{
+		"start_time": "40:19",
+		"speaker": "Émile Torres",
+		"words": "Yeah, so, AI is very energy intensive. It uses a whole lot of electricity, right? In particular, like training these AI systems. Just sucks up, you know, a massive amount, um, of, you know, increasingly people like you, like, uh, Altman are just are are talking about electrons. What we need are more electrons, right? So this is their weird terminology for like energy. Um, WE need more training data, we need more electrons, you know, da da da. Um, AND and so like there are Uh, I mean, there's also like a fair amount of Like water usage, such that people who live around these uh these AI data centers. Like this, the AI supercomputer in Memphis, which powers Grok, uh, that their water pressure has basically disappeared. Uh, I've seen videos, like news reports of people like turning on the faucet and it's just this trickle, and then the camera pans to, uh, the kitchen and you see just these huge like water bottles and, and the people are saying like, we put the water bottle under the tap and just keep the tap on, you know, all day. So that eventually it fills up. So we've got enough to, you know, to cook and and drink and shower. Yeah, so it's absolutely terrible and many of these people also are seeing their electricity bills, uh, kind of skyrocket. I mean, there was a UK government, uh, um, not, not report, but it was like, like maybe it was the, the website, uh, that said not that long ago, it, it provided suggestions for how people can, um, Uh, can save energy and one of them was like basically use AI and, and Gmail and etc. LESS, you know, uh, to, to keep electricity bills down. Um, AND so, you know, Google's, uh, I'm trying to remember off the top of my head the numbers. I think this is right. Again, uh, listeners can go and double check this. Google's carbon footprint has increased by, I want to say something like 29%. Uh, OVER the past few years, entirely as a result of AI and Microsoft's carbon footprint has increased by, I think it's like 48%, uh, over basically the same, uh, uh, time, time scale. So, uh, both of these companies have claimed that by 2030 they'll be either carbon neutral or carbon, uh, negative, right? And then AI came along and the trends went the other direction, right? So, so I mean this sort of gestures at the way that AI is, is a non-trivial contributor to Climate change, at exactly the moment, exactly the moment, we need immediate and significant uh changes to the way that we consume energy, right? We need a a significant reduction, like the window for meaningful opportunity to mitigate climate change is rapidly closing. And right as as it's, it's about to close, AI comes along and makes things, um, you know, that much, much worse. So I, I am really, you know, there, there people talk about AI going awry and destroying the world. And oftentimes these doomer, quote unquote doomer scenarios involve really sci-fi, highly speculative, uh, scenarios where like the AI. You know, manufactures some kind of like mind altering pathogen that it spreads around the world. This is, this is an actual scenario discussed by Eliezer Jankowski, um, who is one of the leading doomers and is massively influential, uh, um, and his, his profile is, is, has only increased very significantly over the past couple of years. Um, ONE of his scenarios, you got like this, this mind altering pathogen, and so just really sci-fi, uh, possibilities. There are other scenarios. Whereby AI causes or in in some non-trivial way contributes to the collapse of civilization that are way more grounded in reality, right? So climate change would be one, like you've got these AI systems that are contributing to climate change at the exact same time, they are spreading misinformation and disinformation about climate change. Uh, THEREBY making it even more difficult for the masses to actually form a reality-based consensus that, uh, you know, about the, the, the direness and the urgency of the situation that they can then present to their elected representatives. In order to uh implement policies that avert a worst case scenario, right? Because the worst case scenario with climate change is, is truly catastrophic, right? There was a um, a paper that was published by University of Exeter, um, I think it was last year, or it might have been the, the year before that found, uh, that if we reach 2 degrees of warming by 2050, we should expect 4 billion. Deaths as a result of that, right? And if we reach 3 degrees of warming Celsius by 2050, we should expect 4 billion deaths. Uh, IT'S more specifically, they said more than 4 billion and more than 2 billion in the, the first scenario. And so it's hard to imagine how civilization. As we know it survives 2 billion people being removed from the population, right? And I mean the, the other thing is, uh, that we are almost certainly, almost certainly gonna reach 2 degrees of warming by 2050, right? I mean, it, it's the chance, chances are, the chances of us avoiding that amount of warming are just minuscule at this point, right? We're already right now at 1.5 degrees. I think last year was above 1.5. Right. And, and typically the way they, they, uh, uh, the, the criteria that they use for determining whether or not we've surpassed that threshold is that there has to be a certain number of years, uh, like consecutive years where we have crossed the, the threshold. So we haven't done that yet, but last year was past 1.5 degrees. So we're, we're like, you know, on, on the cusp of that threshold, if you will. And So consequently, yeah, we should expect like like billions of people to to die. And this is this is it's just my way of of trying to emphasize the just how devastating it is to see AI rise up, uh, to become so, uh, widely used at this moment, right? When we really, really need to reduce our, our collective carbon footprint. Um, SO, and, and also it suggests like a way, a, a, a straightforward path. Whereby AI contributes to the collapse of civilization, namely by spreading disinformation about climate change, and then also increasing the carbon footprint of some of these like really massive companies. Right,"
+	},
+	{
+		"start_time": "47:24",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I'm looking at the time we have like 10 minutes left, so let me just ask you about one last problem with AI or a potential problem. Uh, IS there an AI bubble, and I mean, is it about to burst because we've talked about AI religions, AI disinformation, deep fakes, climate change? I mean, can we also have another global financial crisis because of AI?"
+	},
+	{
+		"start_time": "47:58",
+		"speaker": "Émile Torres",
+		"words": "It's a really great question, um. It seems that most of, or it seems that the, the US economy is being propped up by AI right now. Such that if the AI bubble were to pop, then uh the US would be in a recession, right? And when, of course, when the US catches cold, the rest of the world catches pneumonia. Um. So it's, there's a sense in which I hope. It's not a bubble. Um, CAUSE it's just gonna hurt a lot of people if the, the bubble bursts. It's another sense, like there is a, a distinct, uh, uh, separate sense in which I, I hope the bubble bursts, um, just cause, cause of the schadenfreude of, uh, seeing the, the AI companies. Have to face the fact that they've created these slop machines, uh, that are just plagiarizing, you know, they're, they're parasitic on, you know, uh, intellectual property that they never got permission to, to trade on and so on. And, and just, you know, all of their like grandiose promises of an imminent utopia as a result of super intelligence being right around the corner, that being exposed for the like just complete bullshit lie that it is, in my opinion. Um, SO I, I have no idea if we're actually in an AI bubble. Um, I have seen some people say that even though the AI systems. HAVE not proven to be as effective and useful as AI CEOs have claimed, right? So for example, a recent study out of MIT found that 95% of AI pilots have failed. And there was another just recent survey of CEOs who, like thousands of CEOs who said that that there's basically no change in the productivity of their workers. Um, YET another study found that Individual workers will report that they are more productive using AI, but what they have produced is what the authors called work slop, I think coining that term, which is then passed on down the line, resulting in overall more work, right? More work for other people who are further downstream. So, yeah. And so all of this suggests that um AI looks like a bust, and maybe we're in an AI bubble and and Who knows what exactly, you know, nudging is needed for that, that bubble to, uh, for the AI companies to topple over the, the precipice and the AI bubble to, to pop. Um, BUT it's, it's, it, it seems entirely possible, but then again, like, You know, maybe the US government will intervene. Um, PEOPLE at Opening I have explicitly talked about the need for a government bailout, right? And they've used like kind of like, oh my God, yeah, I know, again, again. Yeah, and maybe like the Trump administration would. I would think that's a good idea, cause perhaps they have bought the narrative. Uh, PEDDLED by AI companies that, uh, that the US is engaged in a kind of AI arms race with China. And whoever wins this arms race kind of like wins the world, basically. Um, AND so maybe the, the US government would say like, even if Uh, AI turns out that it's just not fulfilling all the promises, um, of, you know, increasing worker productivity, etc. THAT we still, the US government should still like pour a ton of money into it. Because if China gets the super intelligence before we do, then China wins the world, right? So it's possible that that could prevent the AI bubble from bursting. Um. I'm reminded here of Gary Marcus. Whose work I generally quite like, uh, writing an article in 2024, I think it was for Wired, where he said that 2025 is the year when the AI bubble will burst. Making matters even worse, he tweeted not long after the article, after he wrote the article, uh, that he wishes he could take back those words because actually the bubble will burst in 2024. Right? And so now it's 2026 and the bubble is still expanding. So this, this makes me like very hesitant to make any kind of prognostication about what's what's gonna happen. I have, I have no idea. Um, WHAT do I want to happen? I mentioned that earlier, I really don't want the bubble to burst, slash I want the bubble to burst, right? Um, AND I think that the first reasons are that those dominate cause I, I really don't want, want so many people to, to suffer. People in America are already dealing with so much. I mean, $6 a gallon gas, uh, food prices, and so on, um, people can't afford a home, so it would be really, really awful. So I hope the bubble doesn't burst, but like, You know, um, if I had to make a prediction, I would say I have no idea. Yeah, do you think? Do you have intuitions about this? Uh, I"
+	},
+	{
+		"start_time": "53:06",
+		"speaker": "Ricardo Lopes",
+		"words": "mean, the only thing I can, the only thing I can say is, uh, even if, uh, nothing worse comes out of AI than what we already have, just climate change itself is enough to, uh, for us to not have a very bright future ahead of us."
+	},
+	{
+		"start_time": "53:27",
+		"speaker": "Émile Torres",
+		"words": "Yeah, I, I totally agree. I don't think it's possible to overstate how, how, um, devastating climate change will be. Uh, EVERYBODY knows like, oh yeah, the climate, climate crisis, you know, the, the catastrophe and so on, but like, if you actually look at the literature, I mean, it looks really, really dire. Like I mentioned that University of Exeter study, I mean, 2 billion deaths, if we reach 2 degrees, which we almost certainly will, 2 billion. That, that's, you know. That's completely like it's a it's a radical understatement to say that's completely unprecedented in human history. That would just be a tragedy that is, you know, is utterly inscrutable to uh to, to the human mind. Um, BUT beyond that, like climate change is going to affect every single person on Earth, you know, there's gonna be a billion plus people. Uh, WHO will be displaced, uh, because lots and lots of people, like a large percentage of the human population lives around the coast. Um, YOU know, the storms, the desertification, the heat waves, you know, heat waves, uh, exceeding the, what's called the 95 degree, uh, wet bulb threshold. Um, SO this means that, uh, there is a combination of such high heat and humidity. Uh, THAT even if you were to stand in the shade naked in front of a giant, you know, 8 ft fan, you would die, right? Because the, the main way your body thermoregulates, uh, to, to keep your internal temperature, your core temperature stable, um, when it's hot is to sweat, right? But there's so much humidity and, and so much heat in the air that you can sweat all you want, and the sweat's not going anywhere. It's not going to evaporate, right? And, and if it doesn't evaporate, it's not going to take your body's heat with it. And so, you know, there literally there's studies about how there there will be massive heat waves, um, uh, in some cases like in, in very populated areas of the world where you, you exceed the 95 degree, uh, wet bulb threshold. But I mean, even, even if you don't exceed that, like the human body needs a certain amount of time every single day to cool down, right? So if it is, if the low at night is like 90 degrees. Or definitely like 100 degrees, you're, you're gonna die, right? Your body is, is not gonna have, is not gonna be able to, uh, to kind of like reboot, as it were. Um, SO the, the climate situation, you're, you're, it's just It it's absolutely terrible, and this is why I'm saying like, like I could not think of a worse time for AI to be to have like been developed. Um, AND I, I think all of those utopian promises, uh, uh, from these AI people are absolute nonsense. I mean, here's one last thing to, to mention, um, Eric Schmidt. Uh, THE, the Google guy, he, he recently said that, uh, recently, I mean within the last couple of years, said that, well, look, we're not going to reach our climate goals anyways. So what we should do is just like forget about them right now, pollute more to in order to build. Ever more powerful AI systems, because if we can rush towards super intelligence, then once we get super intelligence, we can delegate it the task of solving the climate crisis. Right, so like we're not gonna solve the climate crisis anyways. We're, you know, capitalism has, has screwed us too much. So let's just like plow ahead. Once we get super intelligence, then we'll be able, we'll have this like magic, magical being. That will somehow be able to like invent some, you know, new technology that can remove, you know, huge amounts of carbon dioxide from the atmosphere at sea."
+	},
+	{
+		"start_time": "57:15",
+		"speaker": "Ricardo Lopes",
+		"words": "Yeah, for, yeah, for these capitalist guys it's always the techno solutionist approach to every problem."
+	},
+	{
+		"start_time": "57:23",
+		"speaker": "Émile Torres",
+		"words": "Yeah, and this is like an extreme form of that. Because it says, OK, the only way we're gonna get from here to that techno solution, super intelligence, is just to pollute a bunch more. But, but, but we should be willing to risk that and just like further like like worsen the the climate crisis because if only we can get to that uh super intelligence finish line before climate change is completely, you know, completely like destroys the planet, um, then we will have solved everything. So you could see like there are multiple components of this argument. One is that like, um, super intelligence is something we could actually build, which I'm really skeptical about. The other is that once we have super intelligence, then suddenly magically, we'll have a solution to all of the climate problems. That also, like, I don't know, so I'm really skeptical that we could build super intelligence in the first place. If we can build super intelligence. Why exactly should we be so confident that it's going to like figure out how to build a technology that can remove carbon dioxide from the atmosphere, right? Like, maybe such a technology, like maybe they're they're like physics imposed limits on uh technologies that, you know, I don't know, maybe like You know, in order to like at scale remove carbon dioxide, you need technology that produces, as a result of entropy, a bunch of heat, you know, and you know, so maybe they're just like limits to fundamental limits, um, that no like super being could could possibly, uh, surmount. So, so the, the whole, his, his whole claim here is just You know, it, it, it makes me wanna like, you know, defenestrate myself, you know, jump out the window, you know, it's just, it's so, it's so ridiculous."
+	},
+	{
+		"start_time": "59:12",
+		"speaker": "Ricardo Lopes",
+		"words": "No, I, I mean it's really, it sounds really nihilistic, particularly when you think about the risk, the uh as if I, I mean, I, I don't even think that risk, we should have a world that is, um, I mean, stronger than risk because. The risk of killing 2 billion or 3 billion or 4 billion people, I mean that's worth it. And, and, and the saddest thing here, I mean, if all the all those people dying isn't sad enough, the saddest thing is, is that most of them will be the most vulnerable people out there."
+	},
+	{
+		"start_time": "59:56",
+		"speaker": "Émile Torres",
+		"words": "Exactly. Uh, THAT I think that's really important to underline because there is a justice element to this situation. You know, it's not like it in ethics, sometimes you talk about moral dessert. That means like people getting what they deserve. There's no moral dessert here. It's not like the major polluters, the 1%, tech billionaires and so on, they're the ones who are going to be hardest hit by a climate crisis that they largely created or disproportionately were responsible for. No, it's like the people who are least responsible for it and who are the most vulnerable. So it, it's, there is like this extra ethical. Uh, TRAGEDY to, you know, the situation in which like the, the privileged people are basically like, you know, punching the, the least privileged people into the ground. Yeah, look, uh, this is our timeline. It sucks. Yeah, I don't like it. Look,"
+	},
+	{
+		"start_time": "1:00:49",
+		"speaker": "Ricardo Lopes",
+		"words": "I, I would like to really end the interview on a more positive note, but I guess there's no positive note to end on here that I can think of or probably you can think of, so let's just wrap it up here,"
+	},
+	{
+		"start_time": "1:01:03",
+		"speaker": "Émile Torres",
+		"words": "I guess. I mean, if if super intelligence is misaligned, may maybe it'll, it'll kill us quickly. I'm sorry, I, I know that that's a really dark, I like dark humor, but that, that's my, that's my, that's the silver lining. As it were,"
+	},
+	{
+		"start_time": "1:01:21",
+		"speaker": "Ricardo Lopes",
+		"words": "yeah, someone,"
+	},
+	{
+		"start_time": "1:01:21",
+		"speaker": "Émile Torres",
+		"words": "someone has to,"
+	},
+	{
+		"start_time": "1:01:23",
+		"speaker": "Ricardo Lopes",
+		"words": "uh, direct Doctor Strangelove to I was reminded of that because of the nukes."
+	},
+	{
+		"start_time": "1:01:30",
+		"speaker": "Émile Torres",
+		"words": "Yes, exactly, exactly."
+	},
+	{
+		"start_time": "1:01:34",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so, uh, Emil, look, um, where can people find you and your work on the internet?"
+	},
+	{
+		"start_time": "1:01:42",
+		"speaker": "Émile Torres",
+		"words": "So my main source of income right now is my newsletter, which is called the Real-time Techpocalypse newsletter, uh, because we are in right now, a techpocalypse. Um, SO that's, that's where I, uh, publish most of my writing. Um, IF you're interested, you can also follow me on, uh, I hate to say this, but on Twitter, still on Twitter, as well as Blue Sky. My, my handle is X-riskology, ex-riskology. Yeah."
+	},
+	{
+		"start_time": "1:02:12",
+		"speaker": "Ricardo Lopes",
+		"words": "OK, so I'll be leaving that in the description of the interview, and look, thank you so much for taking the time to come on the show. I know that it's not been a very optimistic discussion, but"
+	},
+	{
+		"start_time": "1:02:23",
+		"speaker": "Émile Torres",
+		"words": "well,"
+	},
+	{
+		"start_time": "1:02:24",
+		"speaker": "Ricardo Lopes",
+		"words": "I think at least it's been a realistic one. So thanks for doing it"
+	},
+	{
+		"start_time": "1:02:28",
+		"speaker": "Émile Torres",
+		"words": "again. Thanks for having me. I'm glad I could cheer people up."
+	},
+	{
+		"start_time": "1:02:35",
+		"speaker": "Ricardo Lopes",
+		"words": "Hi guys, thank you for watching this interview until the end. If you liked it, please share it, leave a like and hit the subscription button. The show is brought to you by Enlights Learning and Development done differently. Check their website at enlights.com and also please consider supporting the show on Patreon or PayPal. I would also like to give a huge thank you to my main patrons and PayPal supporters, Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis, Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru Inasi Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoras and Hal Herzognon, Michel Jonathan Labrarith, John Yardston, and Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov, Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel Pan Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular, Janus Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A special thanks to my producers Iar Webb, Jim Frank Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull, Catherine and Patrick Tobin, John Carlamon Negro, Al Nick Cortiz and Nick Golden, and to my executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank you for all."
+	}
+]
