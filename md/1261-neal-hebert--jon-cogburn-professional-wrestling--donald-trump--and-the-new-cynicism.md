@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/119537454/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-5%2Fe61182eb-92bf-6667-c351-bb3de467fcb9.m4a",
 	"draft": false,
 	"episodeid": "1261",
 	"excerpt": "Dr. Neal Hebert is an Assistant Professor of Theatre in the Department of Visual and Performing Arts at Grambling State University.  ",
 	"image": "https://i.ytimg.com/vi/JlwVsb6urJc/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1261-neal-hebert-jon-cogburn-professional-wrestling/id1451347236?i=1000770623420&uo=4",
 	"publishDate": 2026-06-01,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1261-Neal-Hebert--Jon-Cogburn-Professional-Wrestling--Donald-Trump--and-the-New-Cynicism-e3iugbe",
 	"tags": [
 		"Politics",
 		"Philosophy"
