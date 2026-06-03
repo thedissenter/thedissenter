@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1261 Neal Hebert & Jon Cogburn: Professional Wrestling, Donald Trump, and the New Cynicism",
-	"youtubeid": "JlwVsb6urJc"
+	"vtt": "1261.vtt",
+	"youtubeid": "JlwVsb6urJc",
+	"transcript": "1261.lines.json"
 }
 ---
 RECORDED ON MAY 5th 2026.  
