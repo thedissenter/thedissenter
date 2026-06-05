@@ -5,13 +5,16 @@
 	"episodeid": "1262",
 	"excerpt": "Amanda Sukenick is the host of The Exploring Antinatalism Podcast (@exploringantinatalismpodcast), and co-author of Antinatalism, Extinction, and the End of Procreative Self-Corruption.",
 	"image": "https://i.ytimg.com/vi/lL1EoLINGAU/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1262-amanda-sukenick-antinatalism-extinction-the/id1451347236?i=1000771199052&uo=4",
 	"publishDate": 2026-06-04,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1262-Amanda-Sukenick-Antinatalism--Extinction--The-Right-to-Die--Eugenics---More-e3jf9k1",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1262 Amanda Sukenick: Antinatalism, Extinction, The Right to Die, Eugenics, & More",
-	"youtubeid": "lL1EoLINGAU"
+	"vtt": "1262.vtt",
+	"youtubeid": "lL1EoLINGAU",
+	"transcript": "1262.lines.json"
 }
 ---
 RECORDED ON MAY 16th 2026.  
