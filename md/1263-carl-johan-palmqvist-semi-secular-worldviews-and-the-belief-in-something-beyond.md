@@ -5,13 +5,16 @@
 	"episodeid": "1263",
 	"excerpt": "Dr. Carl-Johan Palmqvist is a Researcher in the Department of Philosophy at Lund University. He is a theoretical philosopher with a special interest in the borderland between belief and disbelief, and the many non-doxastic attitudes, like hope, fear, and faith, by which we navigate any context of uncertainty. He is the author of Semi-Secular Worldviews and the Belief in Something Beyond.",
 	"image": "https://i.ytimg.com/vi/j9g-Iy6rl5k/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1263-carl-johan-palmqvist-semi-secular-worldviews-and/id1451347236?i=1000771352544&uo=4",
 	"publishDate": 2026-06-05,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1263-Carl-Johan-Palmqvist-Semi-Secular-Worldviews-and-the-Belief-in-Something-Beyond-e3gh01f",
 	"tags": [
 		"Philosophy"
 	],
 	"title": "#1263 Carl-Johan Palmqvist: Semi-Secular Worldviews and the Belief in Something Beyond",
-	"youtubeid": "j9g-Iy6rl5k"
+	"vtt": "1263.vtt",
+	"youtubeid": "j9g-Iy6rl5k",
+	"transcript": "1263.lines.json"
 }
 ---
 RECORDED ON MARCH 16th 2026.  
