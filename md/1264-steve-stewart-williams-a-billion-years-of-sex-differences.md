@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1264 Steve Stewart-Williams: A Billion Years of Sex Differences",
-	"youtubeid": "_-_-qdDjyVw"
+	"vtt": "1264.vtt",
+	"youtubeid": "_-_-qdDjyVw",
+	"transcript": "1264.lines.json"
 }
 ---
 Dr. Steve Stewart-Williams is Professor of Psychology at University of Nottingham Malaysia. His research revolves around the idea that theories from evolutionary biology can shed light on human psychology. In particular, he’s interested in the evolutionary origins of altruistic behavior and human sex differences. His latest book is A Billion Years of Sex Differences: How Evolution Shaped the Minds of Men and Women.
