@@ -9,7 +9,9 @@
 	"publishDate": 2026-06-11,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1265-Nina-Hartley-The-Feminist-Sexual-Revolution--Womens-Reproductive-Rights--and-Sexlessness-e3k3356",
 	"title": "#1265 Nina Hartley: The Feminist Sexual Revolution, Women's Reproductive Rights, and Sexlessness",
-	"youtubeid": "PFosnX7jCrk"
+	"vtt": "1265.vtt",
+	"youtubeid": "PFosnX7jCrk",
+	"transcript": "1265.lines.json"
 }
 ---
 RECORDED ON MAY 29th 2026.  
