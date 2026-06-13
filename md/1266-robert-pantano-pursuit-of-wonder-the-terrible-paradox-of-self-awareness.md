@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1266 Robert Pantano (Pursuit of Wonder): The Terrible Paradox of Self-Awareness",
-	"youtubeid": "C9wY7Q8eUlc"
+	"vtt": "1266.vtt",
+	"youtubeid": "C9wY7Q8eUlc",
+	"transcript": "1266.lines.json"
 }
 ---
 RECORDED ON JUNE 5th 2026.  
