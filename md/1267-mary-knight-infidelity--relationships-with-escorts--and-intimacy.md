@@ -9,7 +9,9 @@
 	"publishDate": 2026-06-15,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1267-Mary-Knight-Infidelity--Relationships-with-Escorts--and-Intimacy-e3kgt3d",
 	"title": "#1267 Mary Knight: Infidelity, Relationships with Escorts, and Intimacy",
-	"youtubeid": "jibb6R4MduE"
+	"vtt": "1267.vtt",
+	"youtubeid": "jibb6R4MduE",
+	"transcript": "1267.lines.json"
 }
 ---
 RECORDED ON JUNE 8th 2026.  
