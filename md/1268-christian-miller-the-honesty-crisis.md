@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1268 Christian Miller: The Honesty Crisis",
-	"youtubeid": "T_vt7mkPmmA"
+	"vtt": "1268.vtt",
+	"youtubeid": "T_vt7mkPmmA",
+	"transcript": "1268.lines.json"
 }
 ---
 RECORDED ON MAY 28th 2026.  
