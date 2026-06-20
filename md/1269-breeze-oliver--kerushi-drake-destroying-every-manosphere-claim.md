@@ -5,10 +5,13 @@
 	"episodeid": "1269",
 	"excerpt": "Breeze Oliver and Kerushi Drake are the hosts of the Love Up For Debate podcast (@LoveUpForDebate), where they explore modern dating and relationships.",
 	"image": "https://i.ytimg.com/vi/jRV3G1mJBTQ/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1269-breeze-oliver-kerushi-drake-destroying-every-manosphere/id1451347236?i=1000773449239&uo=4",
 	"publishDate": 2026-06-19,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1269-Breeze-Oliver--Kerushi-Drake-Destroying-Every-Manosphere-Claim-e3jf9r6",
 	"title": "#1269 Breeze Oliver & Kerushi Drake: Destroying Every Manosphere Claim",
-	"youtubeid": "jRV3G1mJBTQ"
+	"vtt": "1269.vtt",
+	"youtubeid": "jRV3G1mJBTQ",
+	"transcript": "1269.lines.json"
 }
 ---
 RECORDED ON MAY 15th 2026.  
