@@ -5,13 +5,16 @@
 	"episodeid": "1270",
 	"excerpt": "Dr. Paul Eastwick is Professor of Psychology at the University of California, Davis. Dr. Eastwick’s research investigates how people initiate romantic relationships and the psychological mechanisms that help romantic partners to remain committed and attached. One of his research programs examines how the qualities that people say are critically important to them in a romantic partner—their ideal partner preferences—direct romantic partner selection and retention. He is the author of Bonded by Evolution: The New Science of Love and Connection.",
 	"image": "https://i.ytimg.com/vi/Ea6rjOodcKw/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1270-paul-eastwick-evolutionary-psychology-is-wrong/id1451347236?i=1000773772557&uo=4",
 	"publishDate": 2026-06-22,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1270-Paul-Eastwick-Evolutionary-Psychology-Is-Wrong-About-Mating-e3ku8hr",
 	"tags": [
 		"Psychology"
 	],
 	"title": "#1270 Paul Eastwick: Evolutionary Psychology Is Wrong About Mating",
-	"youtubeid": "Ea6rjOodcKw"
+	"vtt": "1270.vtt",
+	"youtubeid": "Ea6rjOodcKw",
+	"transcript": "1270.lines.json"
 }
 ---
 RECORDED ON JUNE 17th 2026.  
