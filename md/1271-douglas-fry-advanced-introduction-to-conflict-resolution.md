@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1271 Douglas Fry: Advanced Introduction to Conflict Resolution",
-	"youtubeid": "xpW_PMaWv7Y"
+	"vtt": "1271.vtt",
+	"youtubeid": "xpW_PMaWv7Y",
+	"transcript": "1271.lines.json"
 }
 ---
 RECORDED ON MARCH 26th 2026.  
