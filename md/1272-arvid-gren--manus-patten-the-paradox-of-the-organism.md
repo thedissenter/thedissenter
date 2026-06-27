@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1272 Arvid Ågren & Manus Patten: The Paradox of the Organism",
-	"youtubeid": "DVqDs3f1_iU"
+	"vtt": "1272.vtt",
+	"youtubeid": "DVqDs3f1_iU",
+	"transcript": "1272.lines.json"
 }
 ---
 Dr. Arvid Ågren is Assistant Professor at the Cleveland Clinic Lerner College of Medicine at Case Western Reserve University. At the Cleveland Clinic, he is affiliated with the Theory Division at the Lerner Research Institute. He is also an Affiliated Researcher at the Evolutionary Biology Centre at Uppsala University. He is the author of The Gene’s-Eye View of Evolution.  
