@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/121927638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-24%2Fc5968022-c117-f935-a0f2-360105509bd5.m4a",
 	"draft": false,
 	"episodeid": "1273",
 	"excerpt": "Helen Pearson is a science journalist, author and Chief Magazine Editor for the journal Nature, where she oversees the journalism and opinion content. Her latest book is Beyond Belief: How Evidence Shows What Really Works.",
 	"image": "https://i.ytimg.com/vi/uClYNGPwfco/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1273-helen-pearson-beyond-belief-how-evidence-shows/id1451347236?i=1000774741187&uo=4",
 	"publishDate": 2026-06-29,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1273-Helen-Pearson---Beyond-Belief-How-Evidence-Shows-What-Really-Works-e3l7egm",
 	"tags": [
 		"General Science"
 	],
