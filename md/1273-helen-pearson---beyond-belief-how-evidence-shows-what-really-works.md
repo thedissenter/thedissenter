@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1273 Helen Pearson - Beyond Belief: How Evidence Shows What Really Works",
-	"youtubeid": "uClYNGPwfco"
+	"vtt": "1273.vtt",
+	"youtubeid": "uClYNGPwfco",
+	"transcript": "1273.lines.json"
 }
 ---
 RECORDED ON JUNE 24th 2026.  
