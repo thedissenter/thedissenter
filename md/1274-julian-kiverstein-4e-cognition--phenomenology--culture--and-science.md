@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1274 Julian Kiverstein: 4E Cognition, Phenomenology, Culture, and Science",
-	"youtubeid": "KJjXHwMPFyQ"
+	"vtt": "1274.vtt",
+	"youtubeid": "KJjXHwMPFyQ",
+	"transcript": "1274.lines.json"
 }
 ---
 RECORDED ON JUNE 10th 2026.  
