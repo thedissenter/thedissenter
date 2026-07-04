@@ -12,7 +12,9 @@
 		"Sociology"
 	],
 	"title": "#1275 Orna Donath: Women Who Regret Having Children",
-	"youtubeid": "hQPYfURcHGI"
+	"vtt": "1275.vtt",
+	"youtubeid": "hQPYfURcHGI",
+	"transcript": "1275.lines.json"
 }
 ---
 RECORDED ON MAY 27th 2026.  
