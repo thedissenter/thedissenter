@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1276 Daisy Dixon - Depraved: The Story of Dangerous Art",
-	"youtubeid": "w5PgGGzVmR8"
+	"vtt": "1276.vtt",
+	"youtubeid": "w5PgGGzVmR8",
+	"transcript": "1276.lines.json"
 }
 ---
 RECORDED ON JUNE 29th 2026.  
