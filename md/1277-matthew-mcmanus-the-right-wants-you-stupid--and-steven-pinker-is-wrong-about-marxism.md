@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1277 Matthew McManus: The Right Wants You Stupid, and Steven Pinker Is Wrong About Marxism",
-	"youtubeid": "ljRJjrJMy5o"
+	"vtt": "1277.vtt",
+	"youtubeid": "ljRJjrJMy5o",
+	"transcript": "1277.lines.json"
 }
 ---
 Dr. Matthew McManus is a Lecturer in the Department of Political Science at the University of Michigan. He is the author of books like The Emergence of Postmodernity, The Political Right and Equality, and The Political Theory of Liberal Socialism.
