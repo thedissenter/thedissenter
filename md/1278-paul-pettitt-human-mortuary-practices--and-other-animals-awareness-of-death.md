@@ -13,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1278 Paul Pettitt: Human Mortuary Practices, and Other Animals' Awareness of Death",
-	"youtubeid": "u3SxiGtiV90"
+	"vtt": "1278.vtt",
+	"youtubeid": "u3SxiGtiV90",
+	"transcript": "1278.lines.json"
 }
 ---
 RECORDED ON MARCH 9th 2026.  
