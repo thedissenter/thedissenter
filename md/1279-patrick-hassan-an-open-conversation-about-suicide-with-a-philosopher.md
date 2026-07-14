@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1279 Patrick Hassan: An Open Conversation About Suicide with a Philosopher",
-	"youtubeid": "TOWfQFnve-k"
+	"vtt": "1279.vtt",
+	"youtubeid": "TOWfQFnve-k",
+	"transcript": "1279.lines.json"
 }
 ---
 RECORDED ON APRIL 17th 2026.  
