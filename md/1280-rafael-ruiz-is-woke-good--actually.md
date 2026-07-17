@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1280 Rafael Ruiz: Is \"Woke\" Good, Actually?",
-	"youtubeid": "J7BLA71lI7c"
+	"vtt": "1280.vtt",
+	"youtubeid": "J7BLA71lI7c",
+	"transcript": "1280.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 14th 2025.  
