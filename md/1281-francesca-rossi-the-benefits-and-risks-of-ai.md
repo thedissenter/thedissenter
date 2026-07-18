@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1281 Francesca Rossi: The Benefits and Risks of AI",
-	"youtubeid": "qjXmFvE4eOk"
+	"vtt": "1281.vtt",
+	"youtubeid": "qjXmFvE4eOk",
+	"transcript": "1281.lines.json"
 }
 ---
 RECORDED ON APRIL 8th 2026.  
