@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1282 Turi Munthe - Why We Think What We Think: The Unexpected Origins of Our Deepest Beliefs",
-	"youtubeid": "pb79VXhrsJE"
+	"vtt": "1282.vtt",
+	"youtubeid": "pb79VXhrsJE",
+	"transcript": "1282.lines.json"
 }
 ---
 RECORDED ON JUNE 30th 2026.  
