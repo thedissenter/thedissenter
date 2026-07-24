@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1283 Stijn Vanheule: Why Psychosis Is Not So Crazy",
-	"youtubeid": "ybqj4hZNw34"
+	"vtt": "1283.vtt",
+	"youtubeid": "ybqj4hZNw34",
+	"transcript": "1283.lines.json"
 }
 ---
 RECORDED ON APRIL 21st 2026.  
