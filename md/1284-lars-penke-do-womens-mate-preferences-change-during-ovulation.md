@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1284 Lars Penke: Do Women's Mate Preferences Change During Ovulation?",
-	"youtubeid": "7DiuuQy-sbM"
+	"vtt": "1284.vtt",
+	"youtubeid": "7DiuuQy-sbM",
+	"transcript": "1284.lines.json"
 }
 ---
 RECORDED ON APRIL 22nd 2026.  
