@@ -14,7 +14,9 @@
 		"Anthropology"
 	],
 	"title": "#1285 Luke Kemp - Goliath's Curse: The History and Future of Societal Collapse",
-	"youtubeid": "QfCP0DgWPIU"
+	"vtt": "1285.vtt",
+	"youtubeid": "QfCP0DgWPIU",
+	"transcript": "1285.lines.json"
 }
 ---
 RECORDED ON JULY 20th 2026.  
