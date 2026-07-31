@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1286 Hugo Drochon: Elites and Democracy",
-	"youtubeid": "8O_kKledaFI"
+	"vtt": "1286.vtt",
+	"youtubeid": "8O_kKledaFI",
+	"transcript": "1286.lines.json"
 }
 ---
 RECORDED ON JULY 7th 2026.  
