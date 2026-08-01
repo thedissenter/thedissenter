@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1287 Audun Dahl - Between Fixed and Fickle: Why Our Moral Views Keep Changing",
-	"youtubeid": "cDEWXrCIRzM"
+	"vtt": "1287.vtt",
+	"youtubeid": "cDEWXrCIRzM",
+	"transcript": "1287.lines.json"
 }
 ---
 RECORDED ON APRIL 30th 2026.  
