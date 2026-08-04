@@ -13,7 +13,9 @@
 		"History"
 	],
 	"title": "#1288 Omer Bartov - Israel: What Went Wrong?",
-	"youtubeid": "SjQPt6GMUvg"
+	"vtt": "1288.vtt",
+	"youtubeid": "SjQPt6GMUvg",
+	"transcript": "1288.lines.json"
 }
 ---
 RECORDED ON JULY 23rd 2026.  
