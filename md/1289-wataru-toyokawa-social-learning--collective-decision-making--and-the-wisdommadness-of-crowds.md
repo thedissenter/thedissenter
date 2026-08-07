@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1289 Wataru Toyokawa: Social Learning, Collective Decision-Making, and the Wisdom/Madness of Crowds",
-	"youtubeid": "e6IhPGl0BBw"
+	"vtt": "1289.vtt",
+	"youtubeid": "e6IhPGl0BBw",
+	"transcript": "1289.lines.json"
 }
 ---
 RECORDED ON MAY 7th 2026.  

@@ -1,0 +1,4218 @@
+WEBVTT
+
+1
+00:00:00.579 --> 00:00:03.190
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:03.190 --> 00:00:06.139
+Dissenter. I'm your host, as always, Ricardo Lops, and
+
+3
+00:00:06.139 --> 00:00:09.859
+today I'm joined by Dr. Wataruto Yokawa. He's unit
+
+4
+00:00:09.859 --> 00:00:14.000
+leader at the Computational Group Dynamics Collaboration Unit at
+
+5
+00:00:14.000 --> 00:00:18.940
+RCN CBS Tokyo. His research focuses on the computational
+
+6
+00:00:18.940 --> 00:00:24.149
+underpinnings and eco evolution. Eco-evolutionary implications of human social
+
+7
+00:00:24.149 --> 00:00:28.149
+learning and their relationships with group decision making and
+
+8
+00:00:28.149 --> 00:00:32.110
+collective behavior. And today we're going to explore topics
+
+9
+00:00:32.110 --> 00:00:36.029
+like social learning, collective decision making, the wisdom of
+
+10
+00:00:36.029 --> 00:00:40.549
+crowds, and other related topics. So Dr. Toyokawa, welcome
+
+11
+00:00:40.549 --> 00:00:42.389
+to the show. It's a pleasure to everyone.
+
+12
+00:00:43.110 --> 00:00:45.110
+Hi Ricardo, thanks for having me. This is such
+
+13
+00:00:45.110 --> 00:00:46.650
+an honor to talk to you.
+
+14
+00:00:47.389 --> 00:00:49.549
+Well, thank you. Thank you so much. I really
+
+15
+00:00:49.549 --> 00:00:52.720
+appreciate that. So, uh, let me start with this.
+
+16
+00:00:52.799 --> 00:00:58.229
+Um, WHAT is social learning, uh, which aspects of
+
+17
+00:00:58.229 --> 00:01:01.479
+it are you most interested in and perhaps also,
+
+18
+00:01:01.669 --> 00:01:04.995
+uh, tell us. If, uh, perhaps I can ask
+
+19
+00:01:04.995 --> 00:01:08.834
+you uh it as a second, as a second
+
+20
+00:01:08.834 --> 00:01:12.014
+question, but tell us also a little bit about
+
+21
+00:01:12.434 --> 00:01:17.194
+the methodology that you, you use to study social
+
+22
+00:01:17.194 --> 00:01:17.635
+learning.
+
+23
+00:01:19.050 --> 00:01:22.569
+Right, right, yeah. Yeah, of course, yeah, so social
+
+24
+00:01:22.569 --> 00:01:26.980
+learning, uh, well, literally it's, it's learning, um, but
+
+25
+00:01:26.980 --> 00:01:31.980
+that is influenced by observing others or learning that
+
+26
+00:01:31.980 --> 00:01:37.919
+is, uh, shaped by interacting with other individuals, usually
+
+27
+00:01:38.300 --> 00:01:41.019
+the same species like con-specific individuals, but like, you
+
+28
+00:01:41.019 --> 00:01:44.919
+know, it could be extended to other. Asians. But
+
+29
+00:01:44.919 --> 00:01:47.720
+anyway, like this social learning is widely defined as
+
+30
+00:01:47.720 --> 00:01:53.000
+this uh learning process that is somehow um related
+
+31
+00:01:53.000 --> 00:01:57.519
+to some social uh situations. Um, SO that which
+
+32
+00:01:57.519 --> 00:02:00.839
+means that covers a huge range of behaviors such
+
+33
+00:02:00.839 --> 00:02:05.480
+as copying what someone does or just paying attention
+
+34
+00:02:05.480 --> 00:02:09.038
+to, uh, the other's behavior or like paying attention
+
+35
+00:02:09.038 --> 00:02:12.639
+to who succeeds or who fails at some tasks.
+
+36
+00:02:13.240 --> 00:02:17.240
+Or following the, the majority's opinions or sometimes we
+
+37
+00:02:17.240 --> 00:02:22.570
+defer, defer to experts advice or, you know, something
+
+38
+00:02:22.570 --> 00:02:25.869
+like that. So, yeah, I, I find it, social
+
+39
+00:02:25.869 --> 00:02:30.779
+learning is really exciting topic or exciting phenomenon because
+
+40
+00:02:31.199 --> 00:02:33.789
+social learning is uh one of, one of the
+
+41
+00:02:33.789 --> 00:02:38.000
+main drivers of, you know, collective level behavior and
+
+42
+00:02:38.000 --> 00:02:43.429
+cultural evolution. So, yeah, in a nutshell, um, social
+
+43
+00:02:43.429 --> 00:02:50.470
+learning. Create sort of feedback processes and biases in
+
+44
+00:02:50.470 --> 00:02:55.190
+the information transmission in the population. Uh, SO which
+
+45
+00:02:55.190 --> 00:02:59.029
+means some behaviors spread through a population while some
+
+46
+00:02:59.029 --> 00:03:03.570
+other, uh, behaviors might be suppressed or disappear, uh,
+
+47
+00:03:03.580 --> 00:03:06.149
+due to the, uh, you know, the social learning
+
+48
+00:03:06.149 --> 00:03:10.500
+processes or copying processes. Um, SO yeah, this means
+
+49
+00:03:10.500 --> 00:03:14.380
+social learning is not only about how individual acquire
+
+50
+00:03:14.380 --> 00:03:18.619
+information, but for me, social learning is interesting because
+
+51
+00:03:18.619 --> 00:03:22.399
+uh this also shape kind of how culture evolves
+
+52
+00:03:22.740 --> 00:03:25.889
+and how social norms and technologies uh kind of
+
+53
+00:03:25.889 --> 00:03:28.919
+fat fat and faster dynamics uh all emerges at
+
+54
+00:03:28.919 --> 00:03:32.419
+the group level. So, yeah.
+
+55
+00:03:33.899 --> 00:03:35.589
+Uh, uh, AND I, and I mean, uh, yeah,
+
+56
+00:03:36.029 --> 00:03:39.259
+just to, uh, ask you again the, or remind
+
+57
+00:03:39.259 --> 00:03:42.429
+you of the, of my question, yeah, the, the
+
+58
+00:03:42.429 --> 00:03:44.580
+second part, and there's, there's also the third part,
+
+59
+00:03:44.779 --> 00:03:47.660
+but the second part, I mean, which aspects of
+
+60
+00:03:47.669 --> 00:03:50.589
+social learning are you most interested in?
+
+61
+00:03:52.100 --> 00:03:55.899
+Yeah, right, so, yeah, that, for me, um, you
+
+62
+00:03:55.899 --> 00:03:59.940
+know, it's interesting because social learning, by definition is
+
+63
+00:03:59.940 --> 00:04:02.929
+just a one way of learning, right? Like a
+
+64
+00:04:02.929 --> 00:04:07.940
+learning by social social ways. But this kind of
+
+65
+00:04:07.940 --> 00:04:14.850
+automatically means that. Once animals or human individuals employing
+
+66
+00:04:14.850 --> 00:04:19.048
+some social learning processes, then it starts creating a
+
+67
+00:04:19.048 --> 00:04:23.959
+feedback processes and collective level dynamics due to the
+
+68
+00:04:23.959 --> 00:04:29.399
+interactive uh nature of uh social learning individuals. So,
+
+69
+00:04:29.410 --> 00:04:33.769
+I, I'm very interested in this, uh. I, I'd
+
+70
+00:04:33.769 --> 00:04:38.170
+like to disentangle uh between how individuals behave and
+
+71
+00:04:38.170 --> 00:04:42.630
+how, as a result, how collective level pattern emerges.
+
+72
+00:04:43.250 --> 00:04:47.410
+So, yeah, this kind of seemingly complicated and sometimes
+
+73
+00:04:47.410 --> 00:04:52.850
+nonlinear relationship between these two layer is interesting and
+
+74
+00:04:53.170 --> 00:04:55.809
+this is why I got interested in social learning
+
+75
+00:04:55.809 --> 00:04:56.309
+process.
+
+76
+00:04:59.070 --> 00:05:02.750
+Uh, AND, uh, I mean, what kinds of methodologies
+
+77
+00:05:02.750 --> 00:05:06.660
+do you use in your work to study social
+
+78
+00:05:06.660 --> 00:05:07.220
+learning.
+
+79
+00:05:10.140 --> 00:05:14.660
+Primarily, I'm then basically interested in the, the nature
+
+80
+00:05:14.660 --> 00:05:18.779
+of uh this collective dynamics emerging from social learning
+
+81
+00:05:18.779 --> 00:05:23.339
+strategies. Um, BUT I am particularly interested in human
+
+82
+00:05:23.339 --> 00:05:28.320
+social learning because um because humans are not blind,
+
+83
+00:05:29.059 --> 00:05:32.380
+kind of, uh, not random imitators. You know, we
+
+84
+00:05:32.380 --> 00:05:36.179
+are known to be kind of surprisingly strategic about.
+
+85
+00:05:36.670 --> 00:05:39.989
+Uh, ABOUT, uh, how, how we use social information.
+
+86
+00:05:40.149 --> 00:05:44.230
+So sometimes, uh, you know, we, without even realizing
+
+87
+00:05:44.230 --> 00:05:47.170
+it, we, we sometimes ask, like, is my own,
+
+88
+00:05:47.709 --> 00:05:51.269
+is my own information good enough or is this
+
+89
+00:05:51.269 --> 00:05:54.350
+person likely to know something that I do not
+
+90
+00:05:54.350 --> 00:05:58.829
+know? This type of, uh, you know, then we
+
+91
+00:05:58.829 --> 00:06:04.190
+would. Like we would choose the timing uh at
+
+92
+00:06:04.190 --> 00:06:07.429
+which we want to copy others and also we,
+
+93
+00:06:07.630 --> 00:06:11.709
+we usually select someone we want to copy from.
+
+94
+00:06:12.190 --> 00:06:15.790
+So, this kind of strategic use of social learning
+
+95
+00:06:15.790 --> 00:06:20.369
+is very uh remarkable in human behavior. Um, SO,
+
+96
+00:06:20.790 --> 00:06:25.739
+I'd like to understand, uh, that patterns and Why
+
+97
+00:06:25.739 --> 00:06:29.119
+we do that, how we do that, uh, by,
+
+98
+00:06:29.579 --> 00:06:34.500
+uh, combining both, uh, modeling, like computational modeling, as
+
+99
+00:06:34.500 --> 00:06:39.420
+well as, uh, running some behavior-based experiment. These days,
+
+100
+00:06:39.500 --> 00:06:44.059
+I usually use online game experiments. Um, SO, kind
+
+101
+00:06:44.059 --> 00:06:48.519
+of, yeah, I recruit, um. A bunch of people,
+
+102
+00:06:48.670 --> 00:06:53.089
+uh, human participants, uh, joining the, the, my, my,
+
+103
+00:06:53.130 --> 00:06:57.100
+our task online and, and then I, uh, just
+
+104
+00:06:57.100 --> 00:07:01.940
+organize some kind of a simple multiplayer, uh, online
+
+105
+00:07:01.940 --> 00:07:06.760
+game, multiplayer games, uh, where, where people hopefully enjoy
+
+106
+00:07:06.760 --> 00:07:10.660
+some decision-making tasks there and while I'm getting some
+
+107
+00:07:10.660 --> 00:07:11.660
+data from that.
+
+108
+00:07:12.359 --> 00:07:16.399
+Yeah, yeah, I mean, but that kind of approach
+
+109
+00:07:16.399 --> 00:07:21.779
+that you use, I mean, what kind of information
+
+110
+00:07:21.779 --> 00:07:24.880
+can we draw from it when it comes to
+
+111
+00:07:25.339 --> 00:07:29.690
+Uh, how people learn socially, I mean, uh, what
+
+112
+00:07:29.690 --> 00:07:33.399
+kinds of, for example, limitations would you say it
+
+113
+00:07:33.399 --> 00:07:37.649
+has when comparing to how people would learn from
+
+114
+00:07:37.649 --> 00:07:42.730
+others in a more sort of a natural environment
+
+115
+00:07:42.730 --> 00:07:46.250
+or in, in an environment that would be, of
+
+116
+00:07:46.250 --> 00:07:48.845
+course, I'm not. One thing to imply here that
+
+117
+00:07:49.184 --> 00:07:52.904
+uh doing or having that kind of methodology is
+
+118
+00:07:52.904 --> 00:07:57.105
+not ecologically valid, but you know, something that would
+
+119
+00:07:57.105 --> 00:08:02.704
+be perhaps closer to how we learn socially in
+
+120
+00:08:02.704 --> 00:08:06.484
+a more in a way that is closer to
+
+121
+00:08:06.744 --> 00:08:09.105
+how we do it in the real world, let's
+
+122
+00:08:09.105 --> 00:08:09.345
+say.
+
+123
+00:08:10.500 --> 00:08:14.709
+Right, yeah, um. So for sure, there are various
+
+124
+00:08:14.709 --> 00:08:20.750
+ways to uh to mimic uh real world complexity
+
+125
+00:08:20.750 --> 00:08:24.910
+in, in sort of tasks, but um I'm, I'm
+
+126
+00:08:24.910 --> 00:08:31.000
+particularly interested in the Kind of so-called exploration versus
+
+127
+00:08:31.000 --> 00:08:36.270
+exploitation dilemma in decision making. So usually like uh
+
+128
+00:08:36.270 --> 00:08:40.400
+this is like a very common feature of like
+
+129
+00:08:40.400 --> 00:08:43.979
+learning and decision making in animals, including humans obviously.
+
+130
+00:08:44.530 --> 00:08:47.119
+Uh, YOU know, because we have limited time and
+
+131
+00:08:47.119 --> 00:08:50.630
+we have limited resource and lifetime is limited, right?
+
+132
+00:08:50.880 --> 00:08:54.869
+So we are basically have to choose. Kind of
+
+133
+00:08:54.869 --> 00:08:58.390
+timing or circumstances where where we should go for
+
+134
+00:08:58.390 --> 00:09:02.609
+exploration to get more information versus uh we should
+
+135
+00:09:02.609 --> 00:09:06.349
+uh sometimes switch to use that knowledge we have
+
+136
+00:09:06.349 --> 00:09:10.250
+collected so far because otherwise, otherwise there's no point
+
+137
+00:09:10.250 --> 00:09:13.190
+to, to learn things, right? Because when you learn
+
+138
+00:09:13.190 --> 00:09:15.989
+something, you have to, you have to leverage that
+
+139
+00:09:15.989 --> 00:09:18.409
+knowledge, you have to use it wisely, right? So
+
+140
+00:09:18.710 --> 00:09:21.900
+then the question is, uh, you know, how we,
+
+141
+00:09:22.070 --> 00:09:25.489
+how animals are we. Have a, a kind of,
+
+142
+00:09:25.580 --> 00:09:30.900
+we, we usually balance this exploration and exploitation, and
+
+143
+00:09:30.900 --> 00:09:34.359
+also, uh, in theoretically speaking, uh, we can ask.
+
+144
+00:09:35.190 --> 00:09:38.590
+What kind of strategy should be adaptive, uh, and
+
+145
+00:09:38.590 --> 00:09:41.469
+what kind of balance between exploration and exploitation should
+
+146
+00:09:41.469 --> 00:09:46.049
+be optimal, uh, at the given circumstances, for example.
+
+147
+00:09:46.190 --> 00:09:51.210
+So, uh, because I'm interested in this kind of
+
+148
+00:09:51.710 --> 00:09:56.409
+nature of the general, uh, the common nature in,
+
+149
+00:09:56.679 --> 00:10:02.330
+uh, animal decision making. So I'm therefore have been,
+
+150
+00:10:02.549 --> 00:10:06.140
+I have been focusing on. Uh, THE so-called kind
+
+151
+00:10:06.140 --> 00:10:11.820
+of reinforcement learning tasks, uh, like called multi-arm bandit
+
+152
+00:10:11.820 --> 00:10:14.820
+program. So that is just a very toy model,
+
+153
+00:10:14.880 --> 00:10:19.059
+that is very abstract, uh, gambling task kind of,
+
+154
+00:10:19.179 --> 00:10:21.700
+but it's not necessarily gambling, but, um, it's, let's
+
+155
+00:10:21.700 --> 00:10:25.549
+say you are the casino player. Right, or you
+
+156
+00:10:25.549 --> 00:10:28.869
+know, then you have, uh, you have, you have
+
+157
+00:10:28.869 --> 00:10:32.630
+multiple slot machine options in front of you, right,
+
+158
+00:10:32.710 --> 00:10:36.789
+then your, your aim is to gather more coins
+
+159
+00:10:36.789 --> 00:10:39.849
+from, from playing the piano, playing the slot machines.
+
+160
+00:10:41.190 --> 00:10:43.750
+Right, so but you don't know which slot machine
+
+161
+00:10:43.750 --> 00:10:47.409
+is optimal, you don't know which slot machine is
+
+162
+00:10:47.669 --> 00:10:50.070
+good and which one is bad. At the at
+
+163
+00:10:50.080 --> 00:10:54.489
+at the outset, you don't have any information. So
+
+164
+00:10:55.059 --> 00:10:58.200
+you should therefore have to, you should, you have
+
+165
+00:10:58.200 --> 00:11:01.909
+to play some slot. And then get some experience
+
+166
+00:11:01.909 --> 00:11:05.349
+of like getting some reward or didn't get reward
+
+167
+00:11:05.349 --> 00:11:09.840
+at all and this kind of repeated experience is
+
+168
+00:11:09.840 --> 00:11:14.650
+eventually shaping your understanding about the world, understanding about
+
+169
+00:11:15.190 --> 00:11:17.780
+which slot machine seems to be good and which
+
+170
+00:11:17.780 --> 00:11:20.270
+slot machine seems to be bad. So this kind
+
+171
+00:11:20.270 --> 00:11:25.130
+of information, active information gathering processes and decision making
+
+172
+00:11:25.630 --> 00:11:30.450
+processes are kind of. This, like in this process
+
+173
+00:11:30.450 --> 00:11:33.809
+itself is kind of called multi unbounded task in
+
+174
+00:11:33.809 --> 00:11:38.030
+this uh kind of uh ndi uh theoretical world.
+
+175
+00:11:38.049 --> 00:11:41.849
+And then of course that kind of task is
+
+176
+00:11:41.849 --> 00:11:46.010
+very abstract, but thanks to that, thanks to this
+
+177
+00:11:46.010 --> 00:11:49.950
+abstraction, uh, we can capture uh various range of
+
+178
+00:11:50.090 --> 00:11:54.489
+real world situations ranging from, uh, animal foraging, for
+
+179
+00:11:54.489 --> 00:11:58.969
+example. Uh, OR like, uh, which, uh, which stock,
+
+180
+00:11:59.150 --> 00:12:02.010
+uh, you should invest in the long run, or,
+
+181
+00:12:02.429 --> 00:12:05.590
+I don't know, uh, like a mating, uh, made
+
+182
+00:12:05.590 --> 00:12:09.309
+choice decision making perhaps is also could be captured
+
+183
+00:12:09.309 --> 00:12:12.750
+some partly by this sort of reinforcement learning process.
+
+184
+00:12:13.109 --> 00:12:17.630
+So, yeah, so obviously there's a kind of a
+
+185
+00:12:17.630 --> 00:12:22.729
+trade-off between abstraction and, uh, focusing on more realistic.
+
+186
+00:12:23.340 --> 00:12:27.750
+Uh, CONCRETE programs in societies, but, um, I'd like
+
+187
+00:12:27.750 --> 00:12:32.510
+to kind of, yeah, there's 11 extreme. I'm taking
+
+188
+00:12:32.510 --> 00:12:34.150
+kind of one of, one side of the extreme,
+
+189
+00:12:34.159 --> 00:12:37.809
+like, uh, going to the very abstract, uh, program
+
+190
+00:12:37.909 --> 00:12:38.450
+in a way.
+
+191
+00:12:40.140 --> 00:12:43.219
+So I, I mean, this might seem like an
+
+192
+00:12:43.219 --> 00:12:46.659
+obvious, uh, I, I mean the answer to this
+
+193
+00:12:46.659 --> 00:12:50.979
+might seem obvious to many people, but why do
+
+194
+00:12:50.979 --> 00:12:54.460
+we learn from others? I mean, why is it
+
+195
+00:12:54.460 --> 00:12:58.559
+that we rely on others for information? I mean,
+
+196
+00:12:58.570 --> 00:13:02.159
+what do we get from others that we couldn't
+
+197
+00:13:02.460 --> 00:13:05.859
+just get from ourselves, let's say.
+
+198
+00:13:06.950 --> 00:13:10.320
+Yeah, that's actually really excellent question. It's, I don't
+
+199
+00:13:10.320 --> 00:13:14.659
+think it's kind of obvious, uh, to answer. Well,
+
+200
+00:13:15.159 --> 00:13:18.400
+intuitively, yeah, it's obviously, uh, we, we learn from
+
+201
+00:13:18.400 --> 00:13:22.799
+others because, you know, it's, it's a very easy
+
+202
+00:13:22.799 --> 00:13:25.919
+way to learn something, right? We learn, uh, from
+
+203
+00:13:25.919 --> 00:13:30.580
+others, uh, because the world environment is too large
+
+204
+00:13:30.989 --> 00:13:34.000
+or, you know, the skill we need are too
+
+205
+00:13:34.000 --> 00:13:37.760
+complex. And the environment is like too often very
+
+206
+00:13:37.760 --> 00:13:42.719
+uncertain or very costly to explore if you are
+
+207
+00:13:42.719 --> 00:13:46.760
+alone. So every individual, you know, this is due
+
+208
+00:13:46.760 --> 00:13:49.520
+to the again, the fact, due to the fact
+
+209
+00:13:49.520 --> 00:13:54.109
+that every individual having limited time, limited resource, a
+
+210
+00:13:54.109 --> 00:13:59.969
+limited attention window, right? So then. So in this
+
+211
+00:13:59.969 --> 00:14:05.260
+sense, we can see other people or other individuals
+
+212
+00:14:05.260 --> 00:14:11.109
+as a distributed sensors er in this environment. Because
+
+213
+00:14:11.119 --> 00:14:14.750
+they have, they might have already tried things that
+
+214
+00:14:14.750 --> 00:14:19.130
+you haven't tried yet or that you, for example,
+
+215
+00:14:19.469 --> 00:14:23.090
+uh, other, other people might have failed at things
+
+216
+00:14:23.590 --> 00:14:27.030
+already that you don't want to fail at by
+
+217
+00:14:27.030 --> 00:14:30.890
+yourself. Uh, AND also some, some might have discovered
+
+218
+00:14:30.989 --> 00:14:35.890
+new opportunities, uh, that you might otherwise miss. So.
+
+219
+00:14:36.640 --> 00:14:41.559
+And instead of yourself, if there are many other
+
+220
+00:14:41.559 --> 00:14:47.359
+individuals around you, then you, someone else can, might
+
+221
+00:14:47.359 --> 00:14:52.119
+have got some information and then if you can
+
+222
+00:14:52.119 --> 00:14:56.200
+simply observe that or use that, then it's one
+
+223
+00:14:56.200 --> 00:14:59.119
+of the cheapest way, like safest or cheapest way
+
+224
+00:14:59.119 --> 00:15:02.280
+to obtain the information. Um, THAT'S the kind of
+
+225
+00:15:02.280 --> 00:15:06.960
+intuitive, uh, one, I think, uh, that's obviously like,
+
+226
+00:15:07.080 --> 00:15:10.400
+that's true. It's, it's one of the, the huge
+
+227
+00:15:10.400 --> 00:15:14.239
+benefit from social learning. Um, BUT, um, social learning
+
+228
+00:15:14.239 --> 00:15:19.640
+is Yeah, although this is partly about. Reducing the
+
+229
+00:15:19.640 --> 00:15:24.000
+cost of exploration. Um, BUT I'd like to say
+
+230
+00:15:24.000 --> 00:15:28.640
+like I, I, I think. It's, it's important not
+
+231
+00:15:28.640 --> 00:15:33.130
+to describe social learning merely as. Information on free
+
+232
+00:15:33.130 --> 00:15:37.130
+riding sort of thing, right? Uh, OF course this
+
+233
+00:15:37.130 --> 00:15:41.429
+is cheap, uh, but. If this is just a
+
+234
+00:15:41.429 --> 00:15:44.700
+cheap, cheap. You know, the being cheap is one
+
+235
+00:15:44.700 --> 00:15:47.619
+of the, just the sole uh benefit from social
+
+236
+00:15:47.619 --> 00:15:50.500
+learning. Then this is a, this is true for
+
+237
+00:15:50.500 --> 00:15:54.080
+everyone else as well. So then people just start.
+
+238
+00:15:54.960 --> 00:15:57.760
+Copying each other and then because it's cheap, or
+
+239
+00:15:57.760 --> 00:15:59.599
+I'd like to go to the cheaper way and
+
+240
+00:15:59.599 --> 00:16:03.700
+then. And then it end up everyone just being
+
+241
+00:16:04.200 --> 00:16:08.159
+copying others, and then no one would explore new
+
+242
+00:16:08.159 --> 00:16:10.919
+things and no one would uh go to the
+
+243
+00:16:10.919 --> 00:16:14.159
+environment, taking the risk. So that's kind of dead
+
+244
+00:16:14.159 --> 00:16:18.919
+end. Um, BUT we know that social learning, uh,
+
+245
+00:16:19.090 --> 00:16:23.489
+have been generating, uh, like a culture evolution in
+
+246
+00:16:23.489 --> 00:16:27.330
+human histories driven by social learning, and we also
+
+247
+00:16:27.330 --> 00:16:31.109
+kind of intuitively think that, well, we kind of
+
+248
+00:16:31.609 --> 00:16:35.340
+do, do very well thanks to social learning. So,
+
+249
+00:16:35.979 --> 00:16:38.770
+yeah, and then this intuition is actually true, I
+
+250
+00:16:38.770 --> 00:16:42.690
+guess. So because social learning is not just information
+
+251
+00:16:42.690 --> 00:16:49.580
+free riding, I'd say, um. Because Uh, then, like,
+
+252
+00:16:50.000 --> 00:16:53.020
+the interesting part of social learning is coming in.
+
+253
+00:16:53.559 --> 00:16:57.799
+Um, SOCIAL learning is usually a, uh, more kind
+
+254
+00:16:57.799 --> 00:17:03.429
+of strategic and flexible process, uh, and You know,
+
+255
+00:17:04.400 --> 00:17:10.560
+When people use social learning strategically and interactively, um,
+
+256
+00:17:10.719 --> 00:17:13.348
+as maybe we, we, we're gonna discuss this, uh,
+
+257
+00:17:13.358 --> 00:17:16.640
+in the later, but, um, this can create kind
+
+258
+00:17:16.640 --> 00:17:21.719
+of synergistic benefit in the collective level, um, because
+
+259
+00:17:22.319 --> 00:17:26.839
+like intuitively like social learning can guide people, people's
+
+260
+00:17:26.839 --> 00:17:32.670
+future exploration. And then, therefore, It's not just like
+
+261
+00:17:32.670 --> 00:17:36.099
+it's not just free riding others finding, but it's
+
+262
+00:17:36.099 --> 00:17:41.500
+actually. Uh, BY following, by copying others' behavior, this
+
+263
+00:17:41.500 --> 00:17:45.640
+would guide you, this would tell you which direction
+
+264
+00:17:46.180 --> 00:17:50.969
+you should explore, and then, which means your individual
+
+265
+00:17:50.969 --> 00:17:56.300
+exploration behavior would be improved by the social, social
+
+266
+00:17:56.300 --> 00:18:01.739
+effect, social learning processes. So this actually this benefit
+
+267
+00:18:01.739 --> 00:18:07.890
+can accumulate uh by. Interactive processes between individual exploration
+
+268
+00:18:07.890 --> 00:18:11.550
+and social learning. And, so, so this interaction I
+
+269
+00:18:11.550 --> 00:18:14.670
+guess is key, and this is the key main
+
+270
+00:18:14.670 --> 00:18:18.150
+driver of so-called collective intelligence.
+
+271
+00:18:19.089 --> 00:18:23.359
+Right, but I mean, of course, uh people, or
+
+272
+00:18:23.359 --> 00:18:27.390
+at least I don't think people just er choose
+
+273
+00:18:27.390 --> 00:18:31.849
+to randomly get information from anyone, right? I mean
+
+274
+00:18:31.849 --> 00:18:35.770
+they have some criteria. I, I, I mean, what,
+
+275
+00:18:35.849 --> 00:18:40.209
+what kind of, are there, for example, er biases,
+
+276
+00:18:40.290 --> 00:18:45.295
+any kind of cognitive shortcuts like. Heuristics that are
+
+277
+00:18:45.295 --> 00:18:49.994
+cues that people uh look into or that perceive
+
+278
+00:18:49.994 --> 00:18:54.785
+when it comes to who they should acquire particular
+
+279
+00:18:55.805 --> 00:18:59.255
+information from. I mean, uh, are there, for example,
+
+280
+00:18:59.525 --> 00:19:04.165
+uh, social cues like uh the social identity of
+
+281
+00:19:04.165 --> 00:19:07.474
+someone, whether it whether it is because the person
+
+282
+00:19:07.474 --> 00:19:12.140
+is. Is older or the gender of the person
+
+283
+00:19:12.400 --> 00:19:16.199
+or for example the person has high status or
+
+284
+00:19:16.199 --> 00:19:20.800
+the person is has particularly high status when it
+
+285
+00:19:20.800 --> 00:19:25.359
+comes to certain kinds of topics or particular kinds
+
+286
+00:19:25.359 --> 00:19:30.140
+of information and so it's a reliable source of
+
+287
+00:19:30.630 --> 00:19:36.594
+information. I mean what. Kinds of cues or or
+
+288
+00:19:36.594 --> 00:19:41.574
+criteria do people use to decide, I mean, whether
+
+289
+00:19:41.755 --> 00:19:47.255
+consciously or subconsciously that OK, if I want to
+
+290
+00:19:47.555 --> 00:19:51.834
+learn more about this, these are the people I
+
+291
+00:19:51.834 --> 00:19:54.354
+should trust. I mean how do people go about
+
+292
+00:19:54.354 --> 00:19:54.545
+that?
+
+293
+00:19:54.555 --> 00:19:59.520
+Mhm, YEAH, yeah, yeah, so I think. The, the
+
+294
+00:19:59.520 --> 00:20:04.880
+like a various. Uh, OBVIOUSLY, there are multiple, uh,
+
+295
+00:20:04.969 --> 00:20:08.689
+wide range of different ways in which we, uh,
+
+296
+00:20:08.800 --> 00:20:12.339
+we rely on others, we, we copy others. Um,
+
+297
+00:20:12.839 --> 00:20:16.140
+BUT, uh, the literature has, uh, kind of sorted
+
+298
+00:20:16.800 --> 00:20:20.439
+because there are wide range of possible different ways
+
+299
+00:20:20.439 --> 00:20:23.869
+of, uh, collect, uh, social learning strategies, social learning,
+
+300
+00:20:23.880 --> 00:20:28.900
+uh. Like a use of social cues. Um, SO
+
+301
+00:20:28.900 --> 00:20:32.219
+the literature has, uh, sorted out, uh, uh, these
+
+302
+00:20:32.219 --> 00:20:37.300
+multiple strategies into basically roughly three categories. Uh, SO
+
+303
+00:20:37.300 --> 00:20:41.449
+one is like, uh, when strategies that regulate, like
+
+304
+00:20:41.449 --> 00:20:44.540
+when you should copy, when you copy. Uh, SECOND
+
+305
+00:20:44.540 --> 00:20:49.479
+one is who strategy, like, uh, regulate from whom
+
+306
+00:20:49.479 --> 00:20:53.810
+you should copy. Then the third one is what
+
+307
+00:20:53.810 --> 00:20:58.530
+strategy that regulates, uh, what kind of information you,
+
+308
+00:20:58.619 --> 00:21:02.420
+you should copy. And then. So there are two,
+
+309
+00:21:03.439 --> 00:21:06.300
+yeah, the, I think it's important to differentiate between,
+
+310
+00:21:07.040 --> 00:21:11.680
+uh, what human, what, what kind of strategy do
+
+311
+00:21:11.680 --> 00:21:16.170
+humans use and, and, uh, and, and what kind
+
+312
+00:21:16.170 --> 00:21:20.319
+of strategy would, strategy would be, uh, beneficial or
+
+313
+00:21:20.319 --> 00:21:24.479
+optimal under the given circumstances. Right, because humans are
+
+314
+00:21:24.479 --> 00:21:28.420
+not necessarily optimized to, to use. Uh, THE best
+
+315
+00:21:28.420 --> 00:21:32.209
+way of social learning under the given circumstances. So.
+
+316
+00:21:33.089 --> 00:21:36.160
+Um, FOR the As a, as a fact or
+
+317
+00:21:36.170 --> 00:21:38.619
+or like as a, as a pattern of human
+
+318
+00:21:38.619 --> 00:21:44.479
+behavior, uh, the, yeah, bunch of experimental empirical studies
+
+319
+00:21:44.780 --> 00:21:49.979
+in uh human uh social, social psychologies and uh
+
+320
+00:21:49.979 --> 00:21:55.180
+behavioral, behavioral sciences, um, including my, uh, my own
+
+321
+00:21:55.180 --> 00:22:01.199
+previous work. Um, MY previous studies have, uh, basically
+
+322
+00:22:01.199 --> 00:22:05.300
+focused on kind of conformity by social learning, that
+
+323
+00:22:05.300 --> 00:22:12.619
+is, uh, kind of humans sometimes dis disproportionately copying
+
+324
+00:22:12.619 --> 00:22:14.939
+the majority, like, you know, people sometimes follow the
+
+325
+00:22:14.939 --> 00:22:20.310
+majority more likely, uh, uh, you know, more disproportionately
+
+326
+00:22:20.310 --> 00:22:24.339
+likely, uh, uh, compared to the actual proportion of
+
+327
+00:22:24.339 --> 00:22:28.890
+the majority size. And then this sort of conformityized
+
+328
+00:22:28.890 --> 00:22:34.729
+social learnings are uh emerging more uh when, for
+
+329
+00:22:34.729 --> 00:22:39.589
+example, like uh decision making tasks, tasks are difficult
+
+330
+00:22:40.530 --> 00:22:43.209
+and people rely start relying more on those type
+
+331
+00:22:43.209 --> 00:22:48.810
+of social learning when groups became larger. So, human
+
+332
+00:22:48.810 --> 00:22:52.650
+social learning is, is really flexible. Uh, SO we,
+
+333
+00:22:52.729 --> 00:22:56.050
+we change how, how to use social learning, how,
+
+334
+00:22:56.170 --> 00:23:00.449
+how, how we follow others depending on, uh, the
+
+335
+00:23:00.449 --> 00:23:05.609
+given environment or social circumstances. So, uh, so which
+
+336
+00:23:05.609 --> 00:23:08.810
+means it's, it's really hard to say, uh, what
+
+337
+00:23:08.810 --> 00:23:12.479
+kind of cues human usually use because it depends
+
+338
+00:23:12.479 --> 00:23:16.170
+on the context. But, um, but other, uh, well,
+
+339
+00:23:16.369 --> 00:23:21.459
+well studied. Patterns be, uh, yeah, it's the empirical
+
+340
+00:23:21.459 --> 00:23:26.680
+bunch of empirical experiments have shown that people uh
+
+341
+00:23:27.219 --> 00:23:31.780
+pay attention to, um, others' success, so which is
+
+342
+00:23:31.780 --> 00:23:36.630
+called, um, success-based or payoff biased, uh, social learning,
+
+343
+00:23:37.680 --> 00:23:42.180
+um, so which is, uh, also like again widely
+
+344
+00:23:42.180 --> 00:23:46.530
+beneficial because It's, it's generally a good idea to
+
+345
+00:23:46.530 --> 00:23:51.859
+follow successful individuals. So people would pay attention to
+
+346
+00:23:51.859 --> 00:23:57.400
+those others, others, uh, success states. But um, but
+
+347
+00:23:57.400 --> 00:24:02.000
+it. It can also be misleading sometimes, uh, when,
+
+348
+00:24:02.599 --> 00:24:06.800
+when outcomes are, for example, noisy and when, and
+
+349
+00:24:06.800 --> 00:24:12.280
+which is, uh, causing some success is basically purely
+
+350
+00:24:12.280 --> 00:24:15.699
+due to the luck, you know, so, uh, you
+
+351
+00:24:15.699 --> 00:24:19.239
+might like, oh, I'd like to, I'd like to
+
+352
+00:24:19.239 --> 00:24:23.400
+follow this person uh because, you know, this one
+
+353
+00:24:23.400 --> 00:24:28.140
+seems really successful, but this The, the fact that
+
+354
+00:24:28.349 --> 00:24:30.869
+this person is very successful might be, might have
+
+355
+00:24:30.869 --> 00:24:33.270
+been just by, by the luck and then in
+
+356
+00:24:33.270 --> 00:24:37.930
+that case, copying what, what this person has done
+
+357
+00:24:38.510 --> 00:24:43.349
+might not be so informative, right? So, so there's
+
+358
+00:24:43.349 --> 00:24:46.989
+some like obviously this kind of cost of uh
+
+359
+00:24:46.989 --> 00:24:51.040
+copying the pay-based social learning, but um. Yeah, or,
+
+360
+00:24:51.229 --> 00:24:53.709
+or also, I mean, I don't know if this
+
+361
+00:24:53.709 --> 00:24:57.530
+is relevant to what you were saying there, but
+
+362
+00:24:57.650 --> 00:25:02.069
+I was just thinking that maybe, I mean, sometimes
+
+363
+00:25:02.069 --> 00:25:06.079
+celebrity, I mean we tend to associate celebrities to
+
+364
+00:25:06.079 --> 00:25:09.910
+success in some way, whether it is financial success,
+
+365
+00:25:10.069 --> 00:25:13.560
+social success, or whatever, but I mean if a
+
+366
+00:25:13.560 --> 00:25:17.160
+celebrity is trying to sell us a product and
+
+367
+00:25:17.160 --> 00:25:20.520
+they claim, OK, this is going to cure your
+
+368
+00:25:20.520 --> 00:25:24.239
+skin disease, I mean maybe the fact that they're
+
+369
+00:25:24.239 --> 00:25:28.079
+a celebrity should be, or I mean people should
+
+370
+00:25:28.079 --> 00:25:32.359
+treat that as irrelevant to their sort of medical
+
+371
+00:25:32.359 --> 00:25:35.479
+knowledge because they don't have any, I mean you.
+
+372
+00:25:36.010 --> 00:25:40.170
+Right, so I, I mean how do people deal
+
+373
+00:25:40.170 --> 00:25:42.089
+with that kind of information? I mean, do people
+
+374
+00:25:42.089 --> 00:25:48.329
+tend to just blindly follow anything that a highly
+
+375
+00:25:48.329 --> 00:25:52.609
+successful person tells them, or do they, or are
+
+376
+00:25:52.609 --> 00:25:56.050
+they more careful and perhaps they think, oh, OK,
+
+377
+00:25:56.209 --> 00:26:00.219
+maybe Cristiano Ronaldo. He's trying to sell me a
+
+378
+00:26:00.219 --> 00:26:04.380
+health product, but he's not a medical doctor, so
+
+379
+00:26:04.380 --> 00:26:06.170
+maybe I should be careful when it comes to
+
+380
+00:26:06.170 --> 00:26:09.729
+what he tries to sell. I mean, how does
+
+381
+00:26:09.729 --> 00:26:10.180
+it,
+
+382
+00:26:16.910 --> 00:26:20.380
+so it might be good reason to listen to
+
+383
+00:26:20.380 --> 00:26:25.770
+him, but, um, uh, yeah, in general, whenever we
+
+384
+00:26:25.770 --> 00:26:30.349
+have Any sort of behavioral bias, not only like
+
+385
+00:26:30.349 --> 00:26:33.719
+social learning biases, but also any, any decision making
+
+386
+00:26:33.719 --> 00:26:39.339
+biases, then surely that uh the market or economic,
+
+387
+00:26:39.479 --> 00:26:45.910
+economic dynamics uh might uh try, try to Relate,
+
+388
+00:26:46.180 --> 00:26:50.180
+like utilize this bias uh in, in the uh
+
+389
+00:26:50.180 --> 00:26:53.099
+kind of in the interest of some uh stakeholders.
+
+390
+00:26:53.260 --> 00:26:56.180
+So, um, in generally speaking, we should be, uh,
+
+391
+00:26:56.219 --> 00:26:59.300
+yeah, kind of aware, uh, maybe it's this is
+
+392
+00:26:59.300 --> 00:27:04.420
+why, uh, I think education like economics and psychology
+
+393
+00:27:04.420 --> 00:27:07.260
+is, uh, a good, good thing to teach because
+
+394
+00:27:07.260 --> 00:27:11.339
+um. Yeah, we, maybe it's important to recognize uh
+
+395
+00:27:11.339 --> 00:27:15.439
+that human, human behaviors are full of bias and
+
+396
+00:27:15.739 --> 00:27:18.780
+and it's usually works very well and this is
+
+397
+00:27:18.780 --> 00:27:22.369
+why we have, uh, the nature have evolved us,
+
+398
+00:27:22.380 --> 00:27:25.739
+uh, this, uh, this bias in the first place.
+
+399
+00:27:25.780 --> 00:27:29.739
+But obviously there's, it, it's usually comes with some
+
+400
+00:27:29.739 --> 00:27:32.900
+cost or some come comes with some downside of
+
+401
+00:27:32.900 --> 00:27:36.589
+this, having this bias and. Yeah, so it's in
+
+402
+00:27:36.589 --> 00:27:41.109
+generally like it's good things to have some meta-cognition
+
+403
+00:27:41.109 --> 00:27:45.829
+or some kind of think about why, why we
+
+404
+00:27:45.829 --> 00:27:47.790
+are interested in this and why we are kind
+
+405
+00:27:47.790 --> 00:27:51.910
+of tend to. Yeah, but, but it's if it's,
+
+406
+00:27:51.949 --> 00:27:55.430
+I think it's very difficult usually because these biases
+
+407
+00:27:55.430 --> 00:28:00.500
+might be just eliciting without even realizing it. So,
+
+408
+00:28:01.030 --> 00:28:07.689
+um. But yeah, and But for the this prestige
+
+409
+00:28:07.689 --> 00:28:13.170
+bias social learning case, I guess this is not
+
+410
+00:28:13.170 --> 00:28:17.949
+uh well. These social learning strategies we, I have
+
+411
+00:28:17.949 --> 00:28:22.670
+been talking about was usually has been focusing on
+
+412
+00:28:22.670 --> 00:28:27.650
+the informational benefit of social learning in general. So,
+
+413
+00:28:28.160 --> 00:28:31.869
+yeah, I was just talking about like because while
+
+414
+00:28:32.349 --> 00:28:35.869
+environment is uncertain and decision making is like very
+
+415
+00:28:35.869 --> 00:28:39.770
+difficult, so it's, it's a good idea to use
+
+416
+00:28:40.109 --> 00:28:44.550
+socially obtained information uh for this information purpose. Um,
+
+417
+00:28:44.609 --> 00:28:49.589
+BUT, uh, in this, especially, I guess, it, when
+
+418
+00:28:49.589 --> 00:28:53.010
+it comes to the prestige bias, social learning, uh,
+
+419
+00:28:53.130 --> 00:29:00.050
+there's another possible proximate, uh, motivation behind, uh, this
+
+420
+00:29:00.050 --> 00:29:04.270
+is probably like kind of more like a creating,
+
+421
+00:29:04.530 --> 00:29:08.050
+uh, Uh, social bonds like a, or like a
+
+422
+00:29:08.050 --> 00:29:12.089
+peer pressure sometimes like to, to, to show that,
+
+423
+00:29:12.410 --> 00:29:15.839
+uh, to show some kind of loyalty towards, uh,
+
+424
+00:29:15.849 --> 00:29:18.699
+the person, for example, or to, to have like
+
+425
+00:29:18.699 --> 00:29:22.290
+some, uh, to feel like a bonding with this
+
+426
+00:29:22.290 --> 00:29:23.969
+fandom, for example, you know, if you are a
+
+427
+00:29:23.969 --> 00:29:26.290
+big fan of, yeah, I'm a big fan of
+
+428
+00:29:26.290 --> 00:29:30.839
+Rolling Stones and Rolling Stones, uh, yesterday announced a,
+
+429
+00:29:31.089 --> 00:29:34.119
+like a new album. Yeah, and then I, I
+
+430
+00:29:34.119 --> 00:29:36.880
+like to wear this, for example, like a Stones
+
+431
+00:29:36.880 --> 00:29:41.920
+t-shirt. This is, well, this is not really like
+
+432
+00:29:41.920 --> 00:29:44.199
+a kind of prestige biased copying, but you know,
+
+433
+00:29:44.319 --> 00:29:48.699
+this sort of like a. Showing a feeling, the
+
+434
+00:29:48.699 --> 00:29:53.969
+feeling, uh, this, uh, unified uh community is another,
+
+435
+00:29:54.060 --> 00:29:58.479
+could be a possible, uh, driver, uh, where people
+
+436
+00:29:58.699 --> 00:30:02.130
+copy something, people follow some, someone's behavior for sure,
+
+437
+00:30:02.219 --> 00:30:03.180
+so yeah.
+
+438
+00:30:04.310 --> 00:30:07.329
+OK, so, but in our societies, I mean in
+
+439
+00:30:07.329 --> 00:30:12.290
+every single society, of course, people are not carbon
+
+440
+00:30:12.290 --> 00:30:15.750
+copies of each other. We have individual differences. So
+
+441
+00:30:16.170 --> 00:30:19.430
+how, how is it that we learn from others?
+
+442
+00:30:20.050 --> 00:30:24.609
+Despite our individual differences. I mean, how do, how
+
+443
+00:30:24.609 --> 00:30:29.010
+do we do that without having, for example, identical
+
+444
+00:30:29.010 --> 00:30:31.729
+goals and identical preferences? Right,
+
+445
+00:30:31.890 --> 00:30:34.369
+right, yeah, yeah, this is, this is my, yeah,
+
+446
+00:30:35.640 --> 00:30:41.170
+my favorite, yeah, the classic social learning research uh
+
+447
+00:30:41.170 --> 00:30:46.189
+that I have been talking about often. Usually assume
+
+448
+00:30:46.189 --> 00:30:50.979
+that we are individuals are all facing the same
+
+449
+00:30:50.979 --> 00:30:55.390
+problem basically with, with the same uh having uh
+
+450
+00:30:55.390 --> 00:30:58.800
+with the same reward function, uh maybe having reward
+
+451
+00:30:58.800 --> 00:31:03.260
+the same utility function, the freefra functions. But in
+
+452
+00:31:03.260 --> 00:31:06.800
+real life, as you said, that is not really,
+
+453
+00:31:07.140 --> 00:31:10.290
+that is never true actually, right? Like for example,
+
+454
+00:31:10.380 --> 00:31:14.099
+my, my, my favorite scotch whiskey may not be
+
+455
+00:31:14.099 --> 00:31:18.380
+your favorite. Or no, perhaps, perhaps you don't drink
+
+456
+00:31:18.380 --> 00:31:19.250
+whiskey at all,
+
+457
+00:31:21.510 --> 00:31:22.859
+do you? I mean in my personal case actually
+
+458
+00:31:22.859 --> 00:31:24.939
+I don't, I don't like alcoholic
+
+459
+00:31:24.939 --> 00:31:27.859
+beverages. OK, yeah, fair enough, fair enough, right? So
+
+460
+00:31:27.859 --> 00:31:31.300
+we have like a totally different preferences and, and
+
+461
+00:31:31.300 --> 00:31:34.979
+goals and stuff. Uh, SO yeah, so obviously my
+
+462
+00:31:34.979 --> 00:31:38.479
+best risky option is not necessarily your best option,
+
+463
+00:31:38.619 --> 00:31:43.780
+um, but that, that does not necessarily mean that
+
+464
+00:31:43.780 --> 00:31:50.400
+my experience is completely useless to you, uh, perhaps,
+
+465
+00:31:50.770 --> 00:31:54.599
+uh, but because we usually. May still share something
+
+466
+00:31:54.599 --> 00:31:58.599
+in common. For example, uh, yeah, let's say, let's
+
+467
+00:31:58.599 --> 00:32:02.319
+say you're, you're going to be visiting Tokyo, right?
+
+468
+00:32:02.560 --> 00:32:05.040
+And then you want to find a good, good
+
+469
+00:32:05.040 --> 00:32:07.439
+restaurant or good bar, you don't drink, drink, drink
+
+470
+00:32:07.439 --> 00:32:09.760
+at all. So, yeah, you, you want, let's say
+
+471
+00:32:09.760 --> 00:32:12.520
+you want to find a good restaurant and I
+
+472
+00:32:12.520 --> 00:32:16.020
+may know some good, uh, good restaurants in Tokyo.
+
+473
+00:32:16.790 --> 00:32:20.640
+Um, BUT yeah, then now my personal favorite, personal
+
+474
+00:32:20.640 --> 00:32:25.140
+list of my favorite restaurant. Is not necessarily the,
+
+475
+00:32:25.150 --> 00:32:29.359
+the perfect list for you, but you may have,
+
+476
+00:32:29.589 --> 00:32:32.319
+you know, because you, you, you have different tastes,
+
+477
+00:32:32.430 --> 00:32:36.250
+but, uh, but my list could still be useful,
+
+478
+00:32:36.709 --> 00:32:40.579
+um, because it may tell you what kind of
+
+479
+00:32:40.579 --> 00:32:45.859
+places. Uh, EXIST in the Tokyo and which neighborhoods
+
+480
+00:32:45.859 --> 00:32:49.020
+have interesting options, which neighborhood might be uh good
+
+481
+00:32:49.020 --> 00:32:52.449
+to visit, fun to visit, to, to explore restaurant
+
+482
+00:32:52.449 --> 00:32:57.709
+in general. Uh, SO my, although the exact, my
+
+483
+00:32:57.709 --> 00:33:01.339
+list is not, uh, fitting well with your taste,
+
+484
+00:33:01.420 --> 00:33:06.099
+but still the information I give is somehow could
+
+485
+00:33:06.099 --> 00:33:09.119
+be informative in some sense. So in other words,
+
+486
+00:33:09.660 --> 00:33:15.290
+Socially obtained information often contains both useful part and
+
+487
+00:33:15.290 --> 00:33:21.209
+useless components. So some parts are very very applicable
+
+488
+00:33:21.209 --> 00:33:24.729
+to your own goals and circumstances, but other parts
+
+489
+00:33:24.729 --> 00:33:28.810
+are just too specific to, to me, like to
+
+490
+00:33:28.810 --> 00:33:33.829
+the person who originally had that information. So, yeah,
+
+491
+00:33:33.949 --> 00:33:37.329
+so that in general, social learning should be beneficial
+
+492
+00:33:37.770 --> 00:33:42.010
+if, if you can somehow extract the useful part
+
+493
+00:33:42.670 --> 00:33:46.310
+from, from what you've just observed. So the, yeah,
+
+494
+00:33:46.390 --> 00:33:49.069
+the question in the key question here is then
+
+495
+00:33:49.069 --> 00:33:51.390
+like how, how could this, you know, how could
+
+496
+00:33:51.390 --> 00:33:55.290
+we do this job that differentiate between useful part
+
+497
+00:33:55.290 --> 00:33:58.050
+and uh unrelated parts.
+
+498
+00:33:59.780 --> 00:34:03.219
+And, and how do we do that? Do we
+
+499
+00:34:03.219 --> 00:34:06.060
+already have a good understanding of that or not?
+
+500
+00:34:06.910 --> 00:34:09.070
+Yeah, so this is like a kind of related
+
+501
+00:34:09.070 --> 00:34:13.469
+to my uh previous collaboration work with uh with
+
+502
+00:34:13.469 --> 00:34:16.949
+Alex Wit and Charlie Wu. Both were at the
+
+503
+00:34:16.949 --> 00:34:20.090
+time was in uh University of Tubingen in Germany.
+
+504
+00:34:21.188 --> 00:34:25.550
+Um, SO we, uh, there we put people, um,
+
+505
+00:34:25.750 --> 00:34:31.149
+in a simple decision making task where rewards, kind
+
+506
+00:34:31.149 --> 00:34:35.969
+of rewards differed across individuals, but rewards are still.
+
+507
+00:34:36.958 --> 00:34:41.560
+Positively correlated. So that means, like let's say this
+
+508
+00:34:41.560 --> 00:34:46.360
+is again the banded task, multi-banded task, but multiple
+
+509
+00:34:46.360 --> 00:34:49.958
+options and the options are kind of uh aligned
+
+510
+00:34:49.958 --> 00:34:52.958
+as a 2D map. So you can just imagine
+
+511
+00:34:52.958 --> 00:34:56.458
+a uh kind of 2D uh 2D map landscape
+
+512
+00:34:56.639 --> 00:35:00.070
+and, and then you, you don't know which corner,
+
+513
+00:35:00.120 --> 00:35:03.929
+which. The point of the map is very beneficial
+
+514
+00:35:03.929 --> 00:35:06.149
+for you. It's, it's matching well with your taste,
+
+515
+00:35:06.530 --> 00:35:10.610
+right? But you have this unknown, uh, to an
+
+516
+00:35:10.610 --> 00:35:14.810
+unknown restaurant list in the, in Tokyo, let's say,
+
+517
+00:35:15.290 --> 00:35:18.830
+right? And then. Then it might then uh each
+
+518
+00:35:18.830 --> 00:35:23.590
+participant has their, their own map, right? But in
+
+519
+00:35:23.590 --> 00:35:27.060
+Tokyo, and then of course which restaurant is best
+
+520
+00:35:27.060 --> 00:35:31.709
+for each participant, uh, it, it's different between participants,
+
+521
+00:35:31.790 --> 00:35:36.469
+but um they are still somehow correlated. Um, SO
+
+522
+00:35:36.469 --> 00:35:42.020
+that means, you know. So this creates the situation
+
+523
+00:35:42.020 --> 00:35:47.000
+where, uh, you know. It's still somehow, uh, you
+
+524
+00:35:47.000 --> 00:35:52.360
+know, the knowing others behavior might be still beneficial,
+
+525
+00:35:52.429 --> 00:35:56.300
+like still informative, but you, you shouldn't follow exactly,
+
+526
+00:35:56.479 --> 00:35:59.939
+uh, follow what others are doing, right? So, by,
+
+527
+00:36:00.620 --> 00:36:05.159
+uh, you know, having this sort of simplified abstract
+
+528
+00:36:05.159 --> 00:36:10.179
+version of, uh, uh, this social learning task, we,
+
+529
+00:36:10.290 --> 00:36:14.290
+uh, To, to capture the, the uh social learning
+
+530
+00:36:14.290 --> 00:36:19.100
+behavior of human participants, we've uh created a kind
+
+531
+00:36:19.100 --> 00:36:24.959
+of computational, uh, cognitive models called social generalization model,
+
+532
+00:36:25.340 --> 00:36:28.060
+uh, that captures that where we try to capture
+
+533
+00:36:28.060 --> 00:36:34.070
+this idea. Um, SO in this model, um. Uh,
+
+534
+00:36:34.540 --> 00:36:37.479
+THIS, this model uh captures, try to capture how
+
+535
+00:36:37.479 --> 00:36:43.060
+people might arbitrate between their own direct experience and
+
+536
+00:36:43.739 --> 00:36:47.919
+Uh, what others are doing. Social observations here are
+
+537
+00:36:47.979 --> 00:36:50.540
+useful, but they are kind of, you know, in
+
+538
+00:36:50.540 --> 00:36:54.820
+this model, this social observation is treated as a
+
+539
+00:36:54.820 --> 00:37:01.310
+noisier cue than than one's own experiments. So, you
+
+540
+00:37:01.310 --> 00:37:05.209
+know, this kind of Yeah, maybe I'm, I'm gonna,
+
+541
+00:37:05.219 --> 00:37:08.100
+uh, dive into a little bit mathsy part later,
+
+542
+00:37:08.179 --> 00:37:11.969
+but, um, in this social learning generalization model, uh,
+
+543
+00:37:11.979 --> 00:37:18.129
+we Um, model, computationally model this kind of arbitration
+
+544
+00:37:18.129 --> 00:37:23.260
+between Your own taste, your own experience, and others
+
+545
+00:37:23.260 --> 00:37:26.620
+observations, and then social observation is just treated as
+
+546
+00:37:26.620 --> 00:37:30.560
+a noisy cue. And then this noise capture the,
+
+547
+00:37:30.979 --> 00:37:34.979
+this kind of distance between my taste and your
+
+548
+00:37:34.979 --> 00:37:38.340
+taste. If, if you, if I treat your, if
+
+549
+00:37:38.340 --> 00:37:41.929
+I, if you, if I treat social observation noisier,
+
+550
+00:37:42.300 --> 00:37:46.290
+then which means I would think others are. Uh,
+
+551
+00:37:46.370 --> 00:37:50.050
+NOT very, very well matching with my taste. So
+
+552
+00:37:50.050 --> 00:37:52.189
+that's why I kind of give it more noise.
+
+553
+00:37:52.570 --> 00:37:56.370
+And then, so by, by doing so, we kind
+
+554
+00:37:56.370 --> 00:38:01.209
+of, we could capture the, uh, the human use
+
+555
+00:38:01.209 --> 00:38:06.030
+of this social generalization processes. And then, yeah, it
+
+556
+00:38:06.030 --> 00:38:08.429
+turns out like we kind of run online game
+
+557
+00:38:08.429 --> 00:38:12.629
+experiment and then fit this model to human uh
+
+558
+00:38:12.629 --> 00:38:15.909
+participants' behavior. And then we, we found that um
+
+559
+00:38:15.909 --> 00:38:20.040
+this model actually uh fitting very well with um
+
+560
+00:38:20.229 --> 00:38:25.350
+people's behavior. So, kind of, yeah, so, although this
+
+561
+00:38:25.350 --> 00:38:30.280
+is like uh, again, very abstract toy, um. Uh,
+
+562
+00:38:30.320 --> 00:38:35.870
+ABSTRACT decision making, uh, tasks, but, um, uh, at
+
+563
+00:38:35.870 --> 00:38:38.280
+least we can say that humans are still very
+
+564
+00:38:38.280 --> 00:38:43.649
+flexibly use social information, uh, adapt like even though
+
+565
+00:38:43.649 --> 00:38:47.300
+we are not necessarily, uh, having sharing the identical
+
+566
+00:38:47.649 --> 00:38:48.120
+taste.
+
+567
+00:38:48.939 --> 00:38:52.820
+Mhm. Yeah. Yeah, no, that, that's really fascinating, and
+
+568
+00:38:52.820 --> 00:38:55.139
+let me just say that, I mean, even if
+
+569
+00:38:55.139 --> 00:39:00.260
+I don't quite like alcoholic beverages, maybe sometimes I
+
+570
+00:39:00.260 --> 00:39:04.719
+would also like to know about uh alcohol or,
+
+571
+00:39:04.729 --> 00:39:08.774
+or about whiskey specifically because I might Have someone
+
+572
+00:39:08.774 --> 00:39:11.094
+who I want to be friends with who likes
+
+573
+00:39:11.094 --> 00:39:15.814
+whiskey and maybe then having that learning about what's
+
+574
+00:39:15.814 --> 00:39:19.415
+the best whiskey out there to give it as
+
+575
+00:39:19.415 --> 00:39:22.094
+a gift to that person and impress her. I
+
+576
+00:39:22.094 --> 00:39:23.895
+mean, maybe it's useful. I don't know.
+
+577
+00:39:25.969 --> 00:39:29.409
+Yeah, it's, it's good to explore new, uh, you
+
+578
+00:39:29.409 --> 00:39:33.219
+know, new dimensions, uh, that you haven't explored before.
+
+579
+00:39:33.770 --> 00:39:33.969
+Yeah,
+
+580
+00:39:34.050 --> 00:39:37.129
+yeah, yeah. So, uh, let me ask you now
+
+581
+00:39:37.129 --> 00:39:41.649
+about, uh, collective decision making. So, uh, I mean,
+
+582
+00:39:41.760 --> 00:39:43.949
+I, I, I don't know if this is, uh,
+
+583
+00:39:44.050 --> 00:39:47.600
+or maybe it is a particularly Western thing. Uh,
+
+584
+00:39:47.649 --> 00:39:51.199
+I don't know if in Japan because you, uh,
+
+585
+00:39:51.209 --> 00:39:55.360
+live more, uh, in a more collectivistic society, if
+
+586
+00:39:55.645 --> 00:40:00.165
+People would actually think about this in different ways,
+
+587
+00:40:00.245 --> 00:40:03.764
+but we tend to, when, at least we in
+
+588
+00:40:03.764 --> 00:40:06.074
+the West, when we think about decision making, we
+
+589
+00:40:06.074 --> 00:40:10.044
+tend to focus a lot on individuals making decisions,
+
+590
+00:40:10.125 --> 00:40:14.824
+on individual decision making. But what is collective decision
+
+591
+00:40:14.824 --> 00:40:17.104
+making and how does it work?
+
+592
+00:40:18.219 --> 00:40:20.870
+Yeah, I see, yeah, that's, thanks for asking this,
+
+593
+00:40:20.909 --> 00:40:24.949
+uh, very interesting. I never thought, well, um, first
+
+594
+00:40:24.949 --> 00:40:29.270
+of all, like you mentioned about collectivism versus individualism,
+
+595
+00:40:29.350 --> 00:40:35.110
+like a cultural, uh, differences. Um, THIS, this sort
+
+596
+00:40:35.110 --> 00:40:39.350
+of dimensions might not be necessarily like aligned with,
+
+597
+00:40:39.360 --> 00:40:43.649
+uh, well with like uh collect patterns of social
+
+598
+00:40:43.649 --> 00:40:48.600
+learnings or patterns of collective decision making. Uh, FOUND
+
+599
+00:40:48.600 --> 00:40:52.899
+in, uh, in, for example, West and East societies.
+
+600
+00:40:53.280 --> 00:40:56.459
+Um, YEAH, but, so I was, uh, yeah, so
+
+601
+00:40:56.709 --> 00:40:59.500
+I'm gonna be talking about, uh, collective decision making,
+
+602
+00:41:00.479 --> 00:41:04.340
+um. And then, yeah, actually, um, well, this is
+
+603
+00:41:04.340 --> 00:41:07.229
+still like an ongoing work and it's not really
+
+604
+00:41:07.229 --> 00:41:11.620
+uh published yet. Um, BUT we recently um had
+
+605
+00:41:12.120 --> 00:41:16.969
+um kind of museum experiment conducted, uh, collaborating with,
+
+606
+00:41:16.979 --> 00:41:22.120
+uh, Max Planck, uh, Institute in Berlin people. And
+
+607
+00:41:22.459 --> 00:41:24.899
+we have like kind of very simple social learning
+
+608
+00:41:24.899 --> 00:41:29.300
+tasks. And that is implemented in this simple kind
+
+609
+00:41:29.300 --> 00:41:32.939
+of tablet PC. So it's quite easy PC like
+
+610
+00:41:32.939 --> 00:41:37.659
+a social learning task. And we implemented this task
+
+611
+00:41:37.659 --> 00:41:42.209
+in both Berlin Museum, uh, Science Museum in Berlin
+
+612
+00:41:42.209 --> 00:41:46.580
+and also Science Museum in, in Tokyo. And yeah,
+
+613
+00:41:46.899 --> 00:41:51.000
+we just kind of gather some data from, uh,
+
+614
+00:41:51.899 --> 00:41:56.179
+science museum goers and. It's a fantastic thing is
+
+615
+00:41:56.179 --> 00:41:59.860
+that there are a wide range of uh people
+
+616
+00:41:59.860 --> 00:42:03.169
+participating in, in our task, and there are age
+
+617
+00:42:03.169 --> 00:42:07.550
+ranges ranging from like uh toddlers or like uh
+
+618
+00:42:07.560 --> 00:42:11.129
+uh younger than 10 years old till like uh
+
+619
+00:42:11.129 --> 00:42:14.790
+more than 70 years young people, like the wide
+
+620
+00:42:14.790 --> 00:42:19.750
+range of uh people participated. And then surprisingly, we
+
+621
+00:42:19.750 --> 00:42:23.409
+found very interesting pattern like age. Uh, YOU know,
+
+622
+00:42:23.560 --> 00:42:26.620
+related to social learning patterns. Like, uh, usually, like,
+
+623
+00:42:26.629 --> 00:42:32.080
+roughly speaking, kids are like really, uh, using social
+
+624
+00:42:32.080 --> 00:42:35.100
+learning a lot and people, uh, kids are copying
+
+625
+00:42:35.199 --> 00:42:38.840
+others a lot. Whereas like teenagers, like uh like
+
+626
+00:42:38.840 --> 00:42:43.550
+in a starting. Just focusing on themselves and then
+
+627
+00:42:44.330 --> 00:42:47.350
+stop using social learning that much. And then this
+
+628
+00:42:47.350 --> 00:42:51.129
+social learning patterns coming back slightly as, as like
+
+629
+00:42:51.129 --> 00:42:55.959
+age is uh again going up. So this interesting
+
+630
+00:42:55.959 --> 00:43:00.729
+kind of U shaped pattern. IS very robust and
+
+631
+00:43:00.729 --> 00:43:04.719
+we found. Very similar pattern in both Berlin and
+
+632
+00:43:04.719 --> 00:43:11.149
+Tokyo. So, if like, I, yeah, so this result
+
+633
+00:43:11.149 --> 00:43:15.649
+itself might be a little bit um uh seemingly
+
+634
+00:43:15.649 --> 00:43:20.889
+inconsistent uh from some of the previous arguments, previous
+
+635
+00:43:20.889 --> 00:43:26.679
+uh suggestion that kind of collectivism, uh, individualism, uh,
+
+636
+00:43:26.689 --> 00:43:32.169
+and then like. Predict, uh, people's use of, uh,
+
+637
+00:43:32.179 --> 00:43:37.540
+social learning. Um, BUT, as, as long as at
+
+638
+00:43:37.540 --> 00:43:42.389
+least our data, uh, Uh, are not really consistent
+
+639
+00:43:42.389 --> 00:43:46.469
+with that argument. So, but yeah, obviously like there
+
+640
+00:43:46.469 --> 00:43:48.629
+might be like we, we still don't have good
+
+641
+00:43:48.629 --> 00:43:53.629
+theoretical understanding, uh, relationship between these two, collectivism, individualism
+
+642
+00:43:53.629 --> 00:43:57.310
+versus social learning views. So perhaps we have to
+
+643
+00:43:57.310 --> 00:44:00.389
+work on that. Uh, BUT, um, but yeah, sorry,
+
+644
+00:44:00.469 --> 00:44:03.229
+sorry about that. Um, I, then let me then
+
+645
+00:44:03.229 --> 00:44:07.800
+focus on, uh, what is collective decision making, um,
+
+646
+00:44:08.110 --> 00:44:12.939
+and how does it work. So. Collective decision making
+
+647
+00:44:12.939 --> 00:44:18.379
+is, so what happens when decisions of multiple individuals
+
+648
+00:44:18.379 --> 00:44:24.389
+combine. Uh, EITHER explicitly or implicitly to produce an
+
+649
+00:44:24.389 --> 00:44:28.790
+outcome at the group level. So, you know, that,
+
+650
+00:44:28.959 --> 00:44:33.739
+you know, this general definition includes. Uh, KIND of
+
+651
+00:44:33.739 --> 00:44:40.020
+familiar cases such as voting, discussion, deliberation, deliberative discussions,
+
+652
+00:44:40.540 --> 00:44:45.489
+committee meetings, or like a jury decisions, um, and
+
+653
+00:44:45.489 --> 00:44:49.739
+situations where the group needs to reach, uh, some
+
+654
+00:44:49.739 --> 00:44:54.939
+sort of consensus. But, uh, on the other hand,
+
+655
+00:44:55.540 --> 00:45:01.449
+collective decision making also includes, uh, many. Collective phenomena
+
+656
+00:45:01.770 --> 00:45:06.330
+where no, no explicit consensus is required, uh, such
+
+657
+00:45:06.330 --> 00:45:10.969
+as consumer behavior in the market or like non-human
+
+658
+00:45:10.969 --> 00:45:16.510
+animals, uh, fish school, um, swarm behavior, for example,
+
+659
+00:45:17.129 --> 00:45:21.489
+and, you know, or like social media trends, traffic
+
+660
+00:45:21.489 --> 00:45:26.260
+jams, and people joining, joining a queue for like
+
+661
+00:45:26.260 --> 00:45:29.330
+a lot of ramen shops and so on. But
+
+662
+00:45:29.330 --> 00:45:35.679
+in all of these like. Cases, individual decisions. Interact
+
+663
+00:45:36.699 --> 00:45:39.939
+Each other and then as a result, generating the
+
+664
+00:45:39.939 --> 00:45:44.340
+uh the large scale uh group level pattern. So
+
+665
+00:45:44.340 --> 00:45:47.600
+in a sense. Um, YEAH, I'd also like to
+
+666
+00:45:47.600 --> 00:45:52.199
+mention that in this sense, cultural evolution can also
+
+667
+00:45:52.199 --> 00:45:56.060
+be viewed as a, a form of collective decisions.
+
+668
+00:45:56.649 --> 00:46:00.689
+Um, YEAH, although, although these two topics have traditionally
+
+669
+00:46:00.689 --> 00:46:06.239
+been studied. Uh, SOMEHOW separate, uh, somewhat separate academic
+
+670
+00:46:06.239 --> 00:46:11.040
+disciplines as academic communities. Um, BUT for me, like
+
+671
+00:46:11.040 --> 00:46:17.260
+cultural evolution asks. How behaviors or how ideas, technologies
+
+672
+00:46:17.540 --> 00:46:21.020
+or social norms spread and disappear over time among
+
+673
+00:46:21.020 --> 00:46:24.820
+the population. And yeah, which falls, you know, which
+
+674
+00:46:24.820 --> 00:46:27.820
+fits nicely with uh the definition of collective decision
+
+675
+00:46:27.820 --> 00:46:32.340
+making. And although it's, it's time scale uh might
+
+676
+00:46:32.340 --> 00:46:36.739
+be, you know, longer in culture compared to the
+
+677
+00:46:36.739 --> 00:46:40.340
+some animal like a collective behavior and fat fat
+
+678
+00:46:40.340 --> 00:46:43.510
+and fashion dynamics of collective behavior. Yeah.
+
+679
+00:46:45.030 --> 00:46:48.229
+00, OK, so do you think that there would
+
+680
+00:46:48.229 --> 00:46:53.169
+be an avenue or a potential avenue to explore
+
+681
+00:46:53.429 --> 00:46:59.129
+in trying to combine the literature in cultural evolution
+
+682
+00:46:59.129 --> 00:47:05.649
+or cultural evolution, cultural evolutionary theory and the work
+
+683
+00:47:05.709 --> 00:47:07.810
+on collective decision making.
+
+684
+00:47:08.229 --> 00:47:12.570
+Mhm, YEAH. I think that's um the key here
+
+685
+00:47:12.570 --> 00:47:18.330
+would be um. I think again, like mathematical approach
+
+686
+00:47:18.679 --> 00:47:23.909
+would be key. I'd say, uh, especially, um, I
+
+687
+00:47:23.909 --> 00:47:28.149
+mean, like partly uh the collective, collective animal behavior
+
+688
+00:47:28.149 --> 00:47:32.560
+people have been doing this job very well. Um.
+
+689
+00:47:33.479 --> 00:47:36.570
+You know, in the collective, collective animal behavior literature,
+
+690
+00:47:36.889 --> 00:47:40.560
+you know, there are, there are researchers studying ants,
+
+691
+00:47:40.929 --> 00:47:43.610
+there are researchers studied honeybees, you know, there, there
+
+692
+00:47:43.610 --> 00:47:47.810
+are other people studying cockroaches or then like a
+
+693
+00:47:47.810 --> 00:47:52.409
+fish school and other mammal, uh, primate behavior and
+
+694
+00:47:52.409 --> 00:47:57.370
+so there are various different systems, but, uh, they're
+
+695
+00:47:57.370 --> 00:48:03.340
+like. Collective behavioral, uh, camp they they have been
+
+696
+00:48:03.340 --> 00:48:09.199
+doing like kind of applying a very simple, uh,
+
+697
+00:48:09.209 --> 00:48:12.850
+abs again, very abstract but the abstract level, uh,
+
+698
+00:48:12.860 --> 00:48:19.000
+dynamical model into, uh. That, that can capture that
+
+699
+00:48:19.000 --> 00:48:23.199
+wide range of different systems in, in a mathematical
+
+700
+00:48:23.199 --> 00:48:28.300
+form and then uh try to uh make sense
+
+701
+00:48:28.459 --> 00:48:33.080
+of seemingly totally different systems and different behavior, but
+
+702
+00:48:33.479 --> 00:48:37.620
+we can still understand some essence underneath of that
+
+703
+00:48:38.090 --> 00:48:42.659
+through the uh very simplified uh mathematical formula and
+
+704
+00:48:43.120 --> 00:48:47.780
+I think we can still, we can then. Understand
+
+705
+00:48:48.429 --> 00:48:51.929
+Uh, and then, of course, culture evolutions, culture evolution
+
+706
+00:48:52.350 --> 00:48:55.270
+has also a similar tradition as well. The cultural
+
+707
+00:48:55.270 --> 00:49:01.969
+evolutionists, uh, have Kind of developed a very nice
+
+708
+00:49:02.649 --> 00:49:06.889
+formal models to capture a different uh range of
+
+709
+00:49:07.659 --> 00:49:13.540
+Uh, different cultural evolutionary dynamics and systems. Um, SO,
+
+710
+00:49:13.780 --> 00:49:16.739
+I think it's already like we can just compare
+
+711
+00:49:16.739 --> 00:49:20.219
+these two mathematical forms and then usually, sometimes it's
+
+712
+00:49:20.219 --> 00:49:24.120
+really similar. So sometimes like terminology might be different,
+
+713
+00:49:24.179 --> 00:49:28.330
+but mathematically speaking, it's could be the mostly the
+
+714
+00:49:28.330 --> 00:49:33.889
+same thing. So, in this sense, unifying uh these
+
+715
+00:49:33.899 --> 00:49:39.360
+two systems is, you know, it's already like uh
+
+716
+00:49:39.500 --> 00:49:43.139
+have been. Uh, HAVE been worked on by, uh,
+
+717
+00:49:43.149 --> 00:49:47.570
+the, the researchers. Um, BUT still like, yeah, so,
+
+718
+00:49:48.110 --> 00:49:53.790
+but. Even I guess maybe maybe due to the
+
+719
+00:49:54.120 --> 00:49:59.280
+gap between the time scale, like usually cultural evolution,
+
+720
+00:49:59.870 --> 00:50:05.679
+people are interested in Galunga uh time dynamics, time
+
+721
+00:50:05.679 --> 00:50:10.310
+evolution, yeah, and, and then this would also involve
+
+722
+00:50:10.310 --> 00:50:16.010
+some uh demographic. Transitions as well, like some member
+
+723
+00:50:16.010 --> 00:50:19.449
+of the society is transitioning by like a demographic
+
+724
+00:50:19.449 --> 00:50:23.350
+dynamics. I think this part and then then which
+
+725
+00:50:23.810 --> 00:50:28.600
+then which drives longer term gene culture co-evolutionary processes
+
+726
+00:50:28.600 --> 00:50:34.870
+as well. So, culture evolution could tend to uh
+
+727
+00:50:35.090 --> 00:50:39.949
+have more like a genetic evolutionary. Uh, EFFECT as
+
+728
+00:50:39.949 --> 00:50:44.110
+well. Yeah, compared to, uh, just the collective behavior,
+
+729
+00:50:44.149 --> 00:50:48.429
+but yeah, this is also, uh, uh, probably, uh,
+
+730
+00:50:48.669 --> 00:50:51.469
+many people might be, uh, disagree with me, but.
+
+731
+00:50:52.209 --> 00:50:55.610
+Um, But like still, I, I guess these two
+
+732
+00:50:55.610 --> 00:50:58.370
+systems are usually the same thing and it's just
+
+733
+00:50:58.370 --> 00:51:02.610
+a matter of the time scales and yeah.
+
+734
+00:51:03.760 --> 00:51:05.600
+No, no, yeah, that, that's really a, a, a
+
+735
+00:51:05.600 --> 00:51:10.679
+fascinating insight. I, I guess that perhaps the are
+
+736
+00:51:10.679 --> 00:51:15.830
+many times the issue with implementing such, uh, I,
+
+737
+00:51:15.919 --> 00:51:21.600
+I mean, I mean, trying to integrate information or
+
+738
+00:51:21.600 --> 00:51:26.100
+knowledge from different kinds of, uh, uh, I mean,
+
+739
+00:51:26.790 --> 00:51:31.479
+coming from different academic communities, sometimes the issue there
+
+740
+00:51:31.479 --> 00:51:36.010
+is that. Uh, WE have this sort of, uh,
+
+741
+00:51:36.020 --> 00:51:41.830
+departmental disciplinary approach to science and knowledge and Uh,
+
+742
+00:51:41.840 --> 00:51:45.669
+many times it is really hard on an academic
+
+743
+00:51:45.669 --> 00:51:50.860
+level for people to, uh, cross communicate and collaborate
+
+744
+00:51:50.860 --> 00:51:55.479
+with people from, I, I mean, sometimes it's even
+
+745
+00:51:55.479 --> 00:51:59.030
+considered another discipline or people are working in even
+
+746
+00:51:59.030 --> 00:52:05.399
+in another department and sometimes people possibly are. NOT
+
+747
+00:52:05.399 --> 00:52:11.860
+aware of the theoretical foundations and the methodological framework
+
+748
+00:52:12.090 --> 00:52:16.760
+used by their colleagues that are working on other
+
+749
+00:52:16.760 --> 00:52:20.520
+topics or in even what is considered another discipline,
+
+750
+00:52:20.639 --> 00:52:24.870
+right? So there, there are, uh, it's unfortunate, but
+
+751
+00:52:24.879 --> 00:52:27.919
+there are some constraints there, right.
+
+752
+00:52:28.840 --> 00:52:29.340
+Yeah,
+
+753
+00:52:31.530 --> 00:52:35.120
+Uh, so, uh, let me ask you now about,
+
+754
+00:52:35.219 --> 00:52:39.300
+uh, crowds, because I mean, there's these very pervasive,
+
+755
+00:52:39.379 --> 00:52:41.540
+I, I mean, I, I'm, I, I'm not sure
+
+756
+00:52:41.540 --> 00:52:46.219
+if it's pervasive necessarily among academics, but it's, uh,
+
+757
+00:52:46.540 --> 00:52:48.860
+I, I mean in society in general, it's a
+
+758
+00:52:48.860 --> 00:52:52.179
+very pervasive idea that Uh, the idea of the
+
+759
+00:52:52.179 --> 00:52:57.379
+madness of crowds, that crowds, uh, go, go mad
+
+760
+00:52:57.379 --> 00:53:01.379
+sometimes, and then there's these crazy ideas about, for
+
+761
+00:53:01.379 --> 00:53:04.840
+example, a mass psychosis and all of that, but
+
+762
+00:53:05.139 --> 00:53:08.060
+I mean, what do we know about how crowds
+
+763
+00:53:08.060 --> 00:53:13.679
+tend to behave? I mean, are crowds usually wise
+
+764
+00:53:13.830 --> 00:53:15.100
+or mad?
+
+765
+00:53:16.169 --> 00:53:19.290
+Yeah, right. Yeah, like your, your view is exactly
+
+766
+00:53:19.290 --> 00:53:22.010
+the, the view from like, uh, the view of
+
+767
+00:53:22.010 --> 00:53:26.830
+the traditional social science, science view of the crowds.
+
+768
+00:53:27.290 --> 00:53:31.750
+Like, yeah, like, yeah, it's, I think traditionally speaking,
+
+769
+00:53:32.290 --> 00:53:35.159
+social science, the main agenda, one of the main
+
+770
+00:53:35.649 --> 00:53:39.030
+goal of, uh, goals of social science, uh, uh,
+
+771
+00:53:39.040 --> 00:53:42.989
+uh, from my view is, was, um, to understand.
+
+772
+00:53:43.989 --> 00:53:47.250
+Uh, THE, the, the why, why crowds are so
+
+773
+00:53:47.649 --> 00:53:51.520
+behave badly. And so this is why, yeah, and
+
+774
+00:53:51.520 --> 00:53:55.889
+then exemplified by uh the famous, uh, the book
+
+775
+00:53:56.270 --> 00:53:59.629
+written by like a journalist, Scottish journalist, uh, Charles
+
+776
+00:53:59.629 --> 00:54:04.300
+McKay. Uh, HE, he wrote a, like a Collective,
+
+777
+00:54:04.560 --> 00:54:08.239
+uh, madness of crowds and collective illusion, madras. And
+
+778
+00:54:08.239 --> 00:54:10.649
+then in that, in that book, he kind of
+
+779
+00:54:10.649 --> 00:54:16.510
+listed, uh, like a coup list of interesting, uh,
+
+780
+00:54:16.520 --> 00:54:22.320
+case, case study where human societies went into kind
+
+781
+00:54:22.320 --> 00:54:25.629
+of madness of crowds, such as like a very
+
+782
+00:54:25.629 --> 00:54:30.449
+classic, yeah, tulip, uh, bubble markets uh in Netherlands.
+
+783
+00:54:30.870 --> 00:54:34.419
+Uh, OR, you know, the, the, um, England, uh,
+
+784
+00:54:34.770 --> 00:54:40.179
+like, uh. Stock market bubbles. Uh, SO this, um,
+
+785
+00:54:40.659 --> 00:54:45.399
+yeah, this kind of seemingly, uh, malfunctioning of society,
+
+786
+00:54:46.020 --> 00:54:49.260
+um, was the, has been the focus, main focus
+
+787
+00:54:49.260 --> 00:54:53.479
+of the social science. I guess this is understandable,
+
+788
+00:54:53.659 --> 00:54:57.620
+uh, because, you know, usually, uh, we don't pay
+
+789
+00:54:57.620 --> 00:55:00.989
+attention to Uh, the system that is working very
+
+790
+00:55:00.989 --> 00:55:04.020
+well. We, we don't, we don't really even realize
+
+791
+00:55:04.020 --> 00:55:06.659
+this is working well. Uh, WE just, we just
+
+792
+00:55:06.659 --> 00:55:09.550
+kind of, uh, feel that this is just, uh,
+
+793
+00:55:10.060 --> 00:55:13.090
+just a normal state and this is, uh, you
+
+794
+00:55:13.090 --> 00:55:15.219
+know, it should be. And then when it's got
+
+795
+00:55:15.219 --> 00:55:18.179
+stuck, we realized, oh, what, what happened and why
+
+796
+00:55:18.179 --> 00:55:22.979
+this isn't working well. So, yeah, uh, but which
+
+797
+00:55:22.979 --> 00:55:27.600
+actually means that collective system works surprisingly very well.
+
+798
+00:55:28.219 --> 00:55:31.540
+Uh, uh, IN a wider range of situations, of
+
+799
+00:55:31.540 --> 00:55:37.479
+course, then sometimes it's. BEHAVING very badly. Um, YEAH,
+
+800
+00:55:37.719 --> 00:55:43.840
+but having said that. Um, ACTUALLY, um, It's really,
+
+801
+00:55:44.060 --> 00:55:50.429
+I'd say. That I, I'd not say crowds are
+
+802
+00:55:50.429 --> 00:55:54.510
+usually wise. Uh, BECAUSE I, and then I'd say.
+
+803
+00:55:55.500 --> 00:55:59.439
+I'd say crows, human crows or animal crows have
+
+804
+00:55:59.860 --> 00:56:03.340
+the potential to be wise under the right conditions.
+
+805
+00:56:04.070 --> 00:56:08.570
+Um, YEAH, the classic wisdom of crowds idea. Works
+
+806
+00:56:08.570 --> 00:56:16.409
+very well when. When individuals have diverse. A diverse
+
+807
+00:56:16.409 --> 00:56:21.399
+opinions and at least partly independent information so that
+
+808
+00:56:21.850 --> 00:56:26.929
+individual level, uh, individual error errors can, can be
+
+809
+00:56:26.929 --> 00:56:31.949
+canceled out each other by by merging these independent
+
+810
+00:56:32.010 --> 00:56:37.209
+informational input. But, uh, real crowds are usually very
+
+811
+00:56:37.209 --> 00:56:43.449
+interactive. People watch each other, you know, influence, influencing
+
+812
+00:56:43.449 --> 00:56:47.830
+each other. And people copy others' behavior, so that
+
+813
+00:56:47.830 --> 00:56:51.750
+kind of interactions are everywhere and which can improve.
+
+814
+00:56:52.610 --> 00:56:56.379
+And then You know, this is social learning, so
+
+815
+00:56:56.379 --> 00:57:01.510
+this interaction can in general improve the performance. But
+
+816
+00:57:02.739 --> 00:57:07.889
+At the same time, uh, this social interaction would
+
+817
+00:57:08.070 --> 00:57:11.949
+violate the, the, the, the requirement for the wisdom
+
+818
+00:57:11.949 --> 00:57:15.590
+of crowds. So because this usually reduce the diversity
+
+819
+00:57:15.590 --> 00:57:19.989
+of the opinions, independence of the opinions. So, yeah,
+
+820
+00:57:20.389 --> 00:57:25.389
+therefore, like, it seems like uh social interaction is
+
+821
+00:57:25.389 --> 00:57:29.030
+kind of a double-edged sword. So this can work
+
+822
+00:57:29.030 --> 00:57:32.280
+very well or work very bad. And then I
+
+823
+00:57:32.280 --> 00:57:35.229
+guess, so this is, has been one of my
+
+824
+00:57:35.229 --> 00:57:38.909
+kind of key questions in my uh past uh
+
+825
+00:57:38.909 --> 00:57:44.550
+research. Yeah, this like under what circumstances this social
+
+826
+00:57:44.550 --> 00:57:48.550
+interaction uh due to social learning can can mostly
+
+827
+00:57:48.550 --> 00:57:53.070
+promote collective intelligence and, and under what circumstances. Uh,
+
+828
+00:57:53.090 --> 00:57:57.610
+THIS collective and social learning processes is, uh, kind
+
+829
+00:57:57.610 --> 00:58:01.790
+of detrimental in terms of, uh, collective decision making
+
+830
+00:58:01.790 --> 00:58:02.389
+performance.
+
+831
+00:58:04.770 --> 00:58:10.560
+Uh, uh, BUT I mean, in what circumstances can
+
+832
+00:58:10.560 --> 00:58:16.199
+collectives demonstrate, uh, what is called maladaptive herding? I
+
+833
+00:58:16.199 --> 00:58:18.080
+mean, uh, when does that happen?
+
+834
+00:58:19.209 --> 00:58:23.479
+Yeah, so Then, yeah, I went to uh so
+
+835
+00:58:23.479 --> 00:58:26.570
+this is another my kind of collaboration work with
+
+836
+00:58:26.570 --> 00:58:32.330
+uh my um collaborator um in, in University of
+
+837
+00:58:32.330 --> 00:58:39.479
+Saint Andrews um. So Again, so according to the
+
+838
+00:58:39.850 --> 00:58:43.219
+wisdom of the crowd's idea, it might be, it
+
+839
+00:58:43.219 --> 00:58:47.379
+seems to be a key to understand, uh, under
+
+840
+00:58:47.379 --> 00:58:53.209
+what circumstances, uh, people, people rely more on others'
+
+841
+00:58:53.209 --> 00:58:56.770
+opinion. People rely on uh copying and under what
+
+842
+00:58:56.770 --> 00:59:01.199
+circumstances people kind of are still uh balanced, well
+
+843
+00:59:01.199 --> 00:59:06.179
+balanced between individual learning and copying. Then, uh, yeah,
+
+844
+00:59:06.260 --> 00:59:10.360
+then the previous research have suggested that people are,
+
+845
+00:59:10.860 --> 00:59:14.379
+well, people are very flexible about, uh, this use
+
+846
+00:59:14.379 --> 00:59:19.139
+of social learning. And previous theory suggests that people
+
+847
+00:59:19.139 --> 00:59:23.050
+might rely more on social learning when the, the
+
+848
+00:59:23.050 --> 00:59:27.570
+situation is, becomes uncertain and the group. The size
+
+849
+00:59:27.570 --> 00:59:30.129
+of the, the number of other people you are
+
+850
+00:59:30.129 --> 00:59:35.429
+interacting with increased. And so we simply like manipulate
+
+851
+00:59:35.429 --> 00:59:39.389
+these two things, like, you know, then, then we
+
+852
+00:59:39.389 --> 00:59:44.149
+observed what happened at the group level behavior. So
+
+853
+00:59:44.149 --> 00:59:48.330
+we, again, this was an online game experiment. And
+
+854
+00:59:48.330 --> 00:59:52.169
+where we, we changed the, we controlled the difficulty
+
+855
+00:59:52.169 --> 00:59:55.969
+of the task as well as uh we controlled
+
+856
+00:59:55.969 --> 00:59:59.469
+the the size of the group, each group size
+
+857
+01:00:00.169 --> 01:00:03.770
+and then. And then we studied two things. So
+
+858
+01:00:03.770 --> 01:00:09.169
+one is how individual people would react, react to
+
+859
+01:00:09.169 --> 01:00:14.129
+these different environments, how, how people change their social
+
+860
+01:00:14.129 --> 01:00:19.340
+learning behavior. In this changing, uh, uh, different, uh,
+
+861
+01:00:20.260 --> 01:00:24.679
+uh, combination of environmental setup. And then the second
+
+862
+01:00:24.679 --> 01:00:27.959
+one, we focused on was, as a result of
+
+863
+01:00:27.959 --> 01:00:33.689
+that, what kind of group behavior emerged. So, and
+
+864
+01:00:33.689 --> 01:00:39.510
+then we found that like surprisingly, um, When like
+
+865
+01:00:39.949 --> 01:00:44.070
+group size is large, become large and uh task
+
+866
+01:00:44.070 --> 01:00:49.270
+was difficult, people start like relying on stronger conformity
+
+867
+01:00:49.270 --> 01:00:53.239
+bias. And then as a result, People get stuck
+
+868
+01:00:53.239 --> 01:00:55.870
+uh in the more, more likely to get stuck
+
+869
+01:00:55.870 --> 01:01:00.409
+in the suboptimal option due to this heavy reliance
+
+870
+01:01:00.409 --> 01:01:04.770
+on conformist social learning. Whereas like when task was
+
+871
+01:01:05.189 --> 01:01:09.149
+not so difficult and group size is moderate, people
+
+872
+01:01:09.149 --> 01:01:12.709
+are still kind of uh flexibly, like a group
+
+873
+01:01:12.709 --> 01:01:18.810
+level behavior, it's still uh flexible. So Yeah, so
+
+874
+01:01:18.810 --> 01:01:26.239
+the Collective intelligence and madness, uh, is actually, uh,
+
+875
+01:01:26.530 --> 01:01:31.850
+somehow again, within this simplified framework, uh, but we
+
+876
+01:01:31.850 --> 01:01:36.530
+could, um, probably we could predict the, the, the
+
+877
+01:01:37.320 --> 01:01:44.239
+How um we could predict the behavioral patterns of
+
+878
+01:01:44.239 --> 01:01:50.070
+given collective uh group by, by estimating, uh, the,
+
+879
+01:01:50.169 --> 01:01:55.679
+by estimating individual level decision making strategies. So, there's
+
+880
+01:01:55.679 --> 01:02:01.419
+a like a very Uh, predictable linkage between individual
+
+881
+01:02:01.600 --> 01:02:04.939
+level versus, uh, individual level and group level behavior.
+
+882
+01:02:05.159 --> 01:02:09.340
+And then this linkage could be, uh, quantifiable by,
+
+883
+01:02:09.679 --> 01:02:12.379
+uh, experimental method.
+
+884
+01:02:13.260 --> 01:02:17.300
+Mhm. Uh, SO, but, uh, uh, that flexibility that
+
+885
+01:02:17.300 --> 01:02:21.239
+you mentioned there, is that one of the aspects
+
+886
+01:02:21.239 --> 01:02:25.820
+that, uh, sort of regulate the wisdom of crowds?
+
+887
+01:02:25.860 --> 01:02:30.100
+I mean, is the ability to remain flexible that
+
+888
+01:02:30.100 --> 01:02:34.260
+allows for a collective to be wise,
+
+889
+01:02:34.659 --> 01:02:39.030
+or? Yeah, I, yeah, this is, so there, there,
+
+890
+01:02:39.709 --> 01:02:42.830
+there must be multiple different definitions of what is
+
+891
+01:02:42.830 --> 01:02:47.899
+wise, but, uh, at that, in that study, we
+
+892
+01:02:47.899 --> 01:02:52.209
+defined like a collective, we, we kind of focused
+
+893
+01:02:52.209 --> 01:02:57.429
+on aspect of collective intelligence, uh, that is, uh,
+
+894
+01:02:57.790 --> 01:03:01.830
+kind of how adaptive the groups are, like how
+
+895
+01:03:01.830 --> 01:03:06.739
+adaptively. Uh, CHANGE their behavior, but, but to, to,
+
+896
+01:03:06.949 --> 01:03:11.989
+to react to the environmental, changing environment. So, for,
+
+897
+01:03:12.080 --> 01:03:15.989
+for, for, from, uh, for us, it, it wouldn't
+
+898
+01:03:15.989 --> 01:03:21.729
+be so collective intelligence if Group might be performing
+
+899
+01:03:21.729 --> 01:03:24.750
+very well at the fast, uh, at the initial,
+
+900
+01:03:25.050 --> 01:03:30.500
+you know, state, but if they get stuck in
+
+901
+01:03:30.500 --> 01:03:34.120
+this single behavior, even after the environment has changed,
+
+902
+01:03:34.209 --> 01:03:37.770
+then, uh, we, we define this as a kind
+
+903
+01:03:37.770 --> 01:03:41.090
+of inflexible, and then we define this as a
+
+904
+01:03:41.090 --> 01:03:44.929
+harding effect, uh, you know, it's like a animal
+
+905
+01:03:44.929 --> 01:03:48.449
+group, uh, gather, you know, behaving together as a
+
+906
+01:03:48.449 --> 01:03:53.199
+hard. So Harding effect is easily like kind of
+
+907
+01:03:53.800 --> 01:03:58.219
+emerging when when social lining is too strong. So
+
+908
+01:03:58.219 --> 01:04:02.300
+this is like a byproduct of having this strong
+
+909
+01:04:02.300 --> 01:04:03.020
+social lining.
+
+910
+01:04:03.669 --> 01:04:07.229
+Mhm. OK, great. So, I mean, let, let me
+
+911
+01:04:07.229 --> 01:04:10.669
+just ask you one last question. Uh, THIS just
+
+912
+01:04:10.669 --> 01:04:14.300
+came to mind because I guess that many people
+
+913
+01:04:14.300 --> 01:04:17.919
+who will be listening to our interview, our conversation
+
+914
+01:04:18.750 --> 01:04:21.870
+would, I, I, I, I mean, would want to
+
+915
+01:04:21.870 --> 01:04:25.030
+ask you this. I know that this is probably
+
+916
+01:04:25.030 --> 01:04:27.939
+not something that you've been working on directly, but
+
+917
+01:04:27.939 --> 01:04:31.989
+do you think that this, uh, the literature that
+
+918
+01:04:31.989 --> 01:04:37.452
+comes from Studying collective decision making and uh what
+
+919
+01:04:37.452 --> 01:04:41.093
+we call the wisdom and madness of crowds could
+
+920
+01:04:41.093 --> 01:04:46.962
+apply to understanding political phenomena. I mean, because I'm
+
+921
+01:04:46.962 --> 01:04:50.693
+asking you that because, you know, many times that's
+
+922
+01:04:50.693 --> 01:04:54.012
+one of the most immediate things that come to
+
+923
+01:04:54.413 --> 01:04:56.933
+people's minds. I mean, like I I I don't
+
+924
+01:04:56.933 --> 01:05:01.426
+know, sometimes people even apply it to the. COVID
+
+925
+01:05:01.426 --> 01:05:06.006
+pandemic, other times they apply it to uh extreme
+
+926
+01:05:06.006 --> 01:05:10.406
+political movements to uh the rise of the Nazis
+
+927
+01:05:10.406 --> 01:05:13.645
+and the fascists and all of that to uh
+
+928
+01:05:13.645 --> 01:05:17.926
+genocides that have been committed across history. So do
+
+929
+01:05:17.926 --> 01:05:22.625
+you think that uh there could be insights coming
+
+930
+01:05:22.625 --> 01:05:27.446
+from this literate literature that would help us understand
+
+931
+01:05:27.446 --> 01:05:29.156
+these kinds of phenomena?
+
+932
+01:05:30.379 --> 01:05:33.419
+Right, right. Yeah, yeah, this is like a big
+
+933
+01:05:33.419 --> 01:05:34.969
+question. So I don't think I can, I can
+
+934
+01:05:34.969 --> 01:05:37.989
+give a, an answer within this uh time. But
+
+935
+01:05:37.989 --> 01:05:42.000
+um let me try. um. Yeah, I, I think
+
+936
+01:05:42.000 --> 01:05:45.090
+so. Yeah, I, I, I think, yeah, we can
+
+937
+01:05:45.090 --> 01:05:51.179
+provide some insights or, and which comes from. Like,
+
+938
+01:05:51.959 --> 01:05:54.649
+so far, like what, what we have, what we
+
+939
+01:05:54.649 --> 01:05:58.929
+have found in general so far from this uh
+
+940
+01:05:59.689 --> 01:06:03.129
+project of social learning and collective decision making was
+
+941
+01:06:03.129 --> 01:06:10.659
+that. Social learning strategies, social learning is Beneficial because
+
+942
+01:06:11.000 --> 01:06:14.639
+social learning works as a tour guide, like a
+
+943
+01:06:14.639 --> 01:06:18.840
+guide, exploring, like a guiding you to like a.
+
+944
+01:06:19.750 --> 01:06:24.919
+Efficient exploration rather than, rather than that, uh, rather
+
+945
+01:06:24.919 --> 01:06:29.679
+than social learning being giving you uh a right
+
+946
+01:06:29.679 --> 01:06:33.840
+answer, immediate answer, right? So, you know, based on
+
+947
+01:06:33.840 --> 01:06:37.100
+my, my past research or also based on other
+
+948
+01:06:37.479 --> 01:06:44.239
+uh researchers from uh our communities, um, social learning,
+
+949
+01:06:44.620 --> 01:06:51.830
+social learning. Tells you like. Which direction of, uh,
+
+950
+01:06:51.840 --> 01:06:57.570
+which area of decision space is worth exploring? Or
+
+951
+01:06:57.570 --> 01:07:01.250
+what kind of, uh, what kind of, uh, you
+
+952
+01:07:01.250 --> 01:07:05.189
+know, the direction or area is, is worth checking
+
+953
+01:07:05.330 --> 01:07:08.840
+in, in your, in your future exploration. And then,
+
+954
+01:07:08.979 --> 01:07:12.620
+yeah, there's the one very, my, my favorite study
+
+955
+01:07:12.620 --> 01:07:16.399
+coming from honeybee study, honeybees, uh, nest site selection.
+
+956
+01:07:17.020 --> 01:07:20.649
+And yeah, so honey bees in the uh in
+
+957
+01:07:21.840 --> 01:07:23.810
+I, I guess many of, many of you, uh,
+
+958
+01:07:23.820 --> 01:07:27.739
+uh, you people already know familiar with honeybees are
+
+959
+01:07:27.739 --> 01:07:31.169
+really good at choosing the nest when they are
+
+960
+01:07:31.169 --> 01:07:34.689
+kind of swarming in the Aria spring, right? And
+
+961
+01:07:34.689 --> 01:07:38.850
+then they are remarkably good at choosing the. Better
+
+962
+01:07:38.850 --> 01:07:43.110
+new nest site and they can do that by
+
+963
+01:07:43.610 --> 01:07:48.209
+like a scout bees, inspect possible sites and communicate
+
+964
+01:07:48.209 --> 01:07:52.840
+through uh through this finding via famous wagu dances,
+
+965
+01:07:52.929 --> 01:07:56.530
+right? Uh, SO at the first glance, now because
+
+966
+01:07:56.530 --> 01:07:59.080
+they are interacting with each other via wagu dancing.
+
+967
+01:07:59.489 --> 01:08:03.169
+So this seems to be like violating the, the
+
+968
+01:08:03.169 --> 01:08:07.409
+requirement for wisdom of crowns, right? Because obviously they
+
+969
+01:08:07.409 --> 01:08:11.580
+seem to be interactive, which means they should be,
+
+970
+01:08:11.889 --> 01:08:14.729
+uh, the diversity of opinions might be reduced by
+
+971
+01:08:14.729 --> 01:08:18.970
+this interaction or independency might be also reduced, right?
+
+972
+01:08:19.049 --> 01:08:22.649
+So they are interactive. But key insight from the
+
+973
+01:08:22.649 --> 01:08:28.087
+honeybees is that. Actually, Wagguri dances, even though wurri
+
+974
+01:08:28.087 --> 01:08:34.270
+dances guide. Where other bees should inspect, right, but
+
+975
+01:08:34.500 --> 01:08:40.279
+this vari dance does not impact. How each followers
+
+976
+01:08:40.279 --> 01:08:44.399
+evaluate the the visiting site. So if you are,
+
+977
+01:08:44.470 --> 01:08:48.200
+if you're following, following B, you know, you, you
+
+978
+01:08:48.200 --> 01:08:51.959
+might go to the direction suggested. Once, once you
+
+979
+01:08:51.959 --> 01:08:56.580
+visit the, the direction, basically it's, it's you who
+
+980
+01:08:56.580 --> 01:09:00.600
+um evaluate the, the quality of the nest and
+
+981
+01:09:00.600 --> 01:09:05.059
+then. It's mostly like independent, independent from the social
+
+982
+01:09:05.059 --> 01:09:11.490
+impact. So, this combination of Uh, exploration being shaped
+
+983
+01:09:11.490 --> 01:09:18.509
+by social interaction, whereas like, Investigation or like evaluation
+
+984
+01:09:18.509 --> 01:09:23.509
+or belief updating itself is still independent. So this
+
+985
+01:09:23.509 --> 01:09:27.669
+com this like a right combination uh is the
+
+986
+01:09:27.669 --> 01:09:31.310
+kind of primal uh primary source of uh the
+
+987
+01:09:31.310 --> 01:09:36.350
+driver of honeybee swarm uh collective intelligence. I guess
+
+988
+01:09:36.350 --> 01:09:41.359
+this lesson should be applicable widely to uh non-honeybees,
+
+989
+01:09:41.709 --> 01:09:45.288
+uh, societies as well. So I guess humans. Yeah,
+
+990
+01:09:45.528 --> 01:09:49.167
+because social learning, if social learning, uh, is leading
+
+991
+01:09:49.167 --> 01:09:53.408
+you to new exploration, uh, direction, but you can
+
+992
+01:09:53.408 --> 01:09:58.789
+still, uh, learn things, decide things, uh, mostly independently
+
+993
+01:09:59.208 --> 01:10:03.318
+from others' opinion. So, I think this, uh, any,
+
+994
+01:10:03.769 --> 01:10:09.939
+any ways to, uh, Make, make sure, uh, any
+
+995
+01:10:09.939 --> 01:10:13.319
+ways to, uh, if, if there's any way to,
+
+996
+01:10:13.660 --> 01:10:19.419
+uh, promote this this type of com combination, this
+
+997
+01:10:19.419 --> 01:10:24.609
+type of balance between independence and interdependence, then, uh,
+
+998
+01:10:24.979 --> 01:10:29.970
+I guess, um. Yeah. That that this lesson should
+
+999
+01:10:29.970 --> 01:10:33.709
+be, I guess, widely applicable and then hopefully including
+
+1000
+01:10:34.370 --> 01:10:38.910
+like a more political um dynamics or socio socioeconomic
+
+1001
+01:10:39.250 --> 01:10:41.029
+uh dimension as well.
+
+1002
+01:10:42.919 --> 01:10:46.879
+Great, so just before we go, would you like
+
+1003
+01:10:46.879 --> 01:10:49.839
+to tell people where they can find you and
+
+1004
+01:10:49.839 --> 01:10:51.520
+your work on the internet?
+
+1005
+01:10:52.859 --> 01:10:55.620
+On the internet, yeah, you can find our work,
+
+1006
+01:10:55.669 --> 01:10:58.660
+uh, by, by visiting Tokyo and you can like,
+
+1007
+01:10:58.669 --> 01:11:01.359
+uh, just, uh, send me an email and you're
+
+1008
+01:11:01.359 --> 01:11:03.669
+more, more than welcome to visit us in Tokyo,
+
+1009
+01:11:03.750 --> 01:11:07.629
+but otherwise, you can visit, uh, yeah, maybe that
+
+1010
+01:11:07.629 --> 01:11:10.870
+website. Uh, WE have a website and we usually
+
+1011
+01:11:10.870 --> 01:11:14.529
+update, uh, what's going on. So, yeah.
+
+1012
+01:11:15.479 --> 01:11:19.140
+OK, great. So Dr. Toyokawa, thank you so much
+
+1013
+01:11:19.140 --> 01:11:20.899
+for taking the time to come on the show.
+
+1014
+01:11:20.939 --> 01:11:23.040
+It's been a fascinating conversation.
+
+1015
+01:11:24.040 --> 01:11:25.540
+Thank you, God. It was fun.
+
+1016
+01:11:26.910 --> 01:11:29.430
+Hi guys, thank you for watching this interview until
+
+1017
+01:11:29.430 --> 01:11:31.549
+the end. If you liked it, please share it,
+
+1018
+01:11:31.750 --> 01:11:34.520
+leave a like and hit the subscription button. The
+
+1019
+01:11:34.520 --> 01:11:36.779
+show is brought to you by Enlights Learning and
+
+1020
+01:11:36.779 --> 01:11:40.810
+Development done differently. Check their website at enlights.com and
+
+1021
+01:11:40.810 --> 01:11:44.540
+also please consider supporting the show on Patreon or
+
+1022
+01:11:44.540 --> 01:11:47.020
+PayPal. I would also like to give a huge
+
+1023
+01:11:47.020 --> 01:11:50.120
+thank you to my main patrons and PayPal supporters,
+
+1024
+01:11:50.540 --> 01:11:54.379
+Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz Olaf,
+
+1025
+01:11:54.419 --> 01:11:57.689
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis,
+
+1026
+01:11:57.839 --> 01:12:01.410
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1027
+01:12:01.410 --> 01:12:05.439
+Robert Windegerru Inasi Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1028
+01:12:05.919 --> 01:12:09.709
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoro, and
+
+1029
+01:12:09.709 --> 01:12:13.490
+Hal Herzognon, Michel Jonathan Labrarinth, John Yardston, and Samuel
+
+1030
+01:12:13.490 --> 01:12:17.410
+Curric Hines, Mark Smith, John Lere, Tom Hammel, Sardusran,
+
+1031
+01:12:17.569 --> 01:12:21.250
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+1032
+01:12:21.250 --> 01:12:25.640
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+1033
+01:12:25.640 --> 01:12:29.310
+Hunt, Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov,
+
+1034
+01:12:29.430 --> 01:12:33.439
+Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward
+
+1035
+01:12:33.439 --> 01:12:37.430
+Hall, Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P
+
+1036
+01:12:37.430 --> 01:12:41.359
+Scortez or Suliliski, Scott Zachary Fish, Tim Duffy, Sony
+
+1037
+01:12:41.359 --> 01:12:45.500
+Smith, and Wiseman. Daniel Friedman, William Buckner, Paul Georg
+
+1038
+01:12:45.500 --> 01:12:49.970
+Jarno, Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin,
+
+1039
+01:12:50.299 --> 01:12:54.430
+David Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex
+
+1040
+01:12:54.430 --> 01:12:58.859
+Shaw, Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D.
+
+1041
+01:12:59.029 --> 01:13:03.709
+Lee Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber,
+
+1042
+01:13:03.720 --> 01:13:08.350
+Robert Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix,
+
+1043
+01:13:08.500 --> 01:13:12.229
+Mark Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly
+
+1044
+01:13:12.229 --> 01:13:16.790
+Johnson, Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson,
+
+1045
+01:13:17.029 --> 01:13:22.310
+Ismael Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate
+
+1046
+01:13:22.310 --> 01:13:28.629
+Van Goler, Alexander Ebert, Liam Dunaway, BR, Massoud Ali
+
+1047
+01:13:28.629 --> 01:13:34.229
+Mohammadi, Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David
+
+1048
+01:13:34.229 --> 01:13:38.845
+Pinsov, Sean Nelson, Mike Levin, and Jos Necht. A
+
+1049
+01:13:38.845 --> 01:13:41.645
+special thanks to my producers Iar Webb, Jim Frank,
+
+1050
+01:13:41.725 --> 01:13:46.125
+Lucas Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller,
+
+1051
+01:13:46.234 --> 01:13:49.964
+Thomas Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro,
+
+1052
+01:13:50.004 --> 01:13:52.325
+Al Nick Cortiz, and Nick Golden, and to my
+
+1053
+01:13:52.325 --> 01:13:55.825
+executive producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and
+
+1054
+01:13:55.825 --> 01:13:57.904
+Rosie. Thank you for all.
+
