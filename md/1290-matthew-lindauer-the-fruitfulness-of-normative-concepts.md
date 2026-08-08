@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/119585769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-6%2F289a122a-9d42-92e5-d56f-e87e74fae082.m4a",
 	"draft": false,
 	"episodeid": "1290",
 	"excerpt": "Dr. Matthew Lindauer is an Associate Professor of Philosophy at Brooklyn College and the CUNY Graduate Center, and an Associate Professor of Psychology at the CUNY Graduate Center. He is co-director of the PsyPhi Lab. He works in moral and political philosophy and moral psychology, often at the intersections of these fields. He is the author of The Fruitfulness of Normative Concepts.",
 	"image": "https://i.ytimg.com/vi/Urjjoe_PRE8/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1290-matthew-lindauer-the-fruitfulness-of/id1451347236?i=1000780928647&uo=4",
 	"publishDate": 2026-08-07,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1290-Matthew-Lindauer-The-Fruitfulness-of-Normative-Concepts-e3ivvh9",
 	"tags": [
 		"Philosophy"
 	],
