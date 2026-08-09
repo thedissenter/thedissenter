@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1290 Matthew Lindauer: The Fruitfulness of Normative Concepts",
-	"youtubeid": "Urjjoe_PRE8"
+	"vtt": "1290.vtt",
+	"youtubeid": "Urjjoe_PRE8",
+	"transcript": "1290.lines.json"
 }
 ---
 RECORDED ON MAY 6th 2026.  
