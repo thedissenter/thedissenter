@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/122864591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-15%2Fe1b4e326-a1fe-8cbd-6daf-5150ac03f7bd.m4a",
 	"draft": false,
 	"episodeid": "1291",
 	"excerpt": "Dr. Christopher Kavanagh is an Associate Professor in the College of Contemporary Psychology at Rikkyo University and a researcher in cognitive anthropology at the Institute of Cognitive & Evolutionary Anthropology (ICEA) at the University of Oxford. His research interests include East Asian religions, ritual behavior, and the bonding effects of shared dysphoria.   ",
 	"image": "https://i.ytimg.com/vi/sTApU20W-Fw/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1291-christopher-kavanagh-matthew-browne-decoding-the/id1451347236?i=1000782032291&uo=4",
 	"publishDate": 2026-08-10,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1291-Christopher-Kavanagh--Matthew-Browne-Decoding-the-Gurus-e3m41gf",
 	"tags": [
 		"General Science"
 	],
