@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1291 Christopher Kavanagh & Matthew Browne: Decoding the Gurus",
-	"youtubeid": "sTApU20W-Fw"
+	"vtt": "1291.vtt",
+	"youtubeid": "sTApU20W-Fw",
+	"transcript": "1291.lines.json"
 }
 ---
 RECORDED ON JULY 15th 2026.  
