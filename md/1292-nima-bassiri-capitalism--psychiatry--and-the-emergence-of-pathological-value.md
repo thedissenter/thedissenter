@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1292 Nima Bassiri: Capitalism, Psychiatry, and the Emergence of Pathological Value",
-	"youtubeid": "ap1UnQenQAY"
+	"vtt": "1292.vtt",
+	"youtubeid": "ap1UnQenQAY",
+	"transcript": "1292.lines.json"
 }
 ---
 RECORDED ON MAY 8th 2026.  
