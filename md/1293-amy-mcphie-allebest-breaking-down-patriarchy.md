@@ -13,7 +13,9 @@
 		"History"
 	],
 	"title": "#1293 Amy McPhie Allebest: Breaking Down Patriarchy",
-	"youtubeid": "ABBPOH_RzgI"
+	"vtt": "1293.vtt",
+	"youtubeid": "ABBPOH_RzgI",
+	"transcript": "1293.lines.json"
 }
 ---
 RECORDED ON JULY 29th 2026.  
