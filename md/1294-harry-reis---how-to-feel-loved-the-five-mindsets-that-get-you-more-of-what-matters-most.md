@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1294 Harry Reis - How to Feel Loved: The Five Mindsets That Get You More of What Matters Most",
-	"youtubeid": "G-b47JX_G-I"
+	"vtt": "1294.vtt",
+	"youtubeid": "G-b47JX_G-I",
+	"transcript": "1294.lines.json"
 }
 ---
 RECORDED ON JULY 17th 2026.  
