@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1295 Neal Hebert: A Philosophical Analysis of Wrestling | WWE SummerSlam 2026",
-	"youtubeid": "-VbeJ6hOXZA"
+	"vtt": "1295.vtt",
+	"youtubeid": "-VbeJ6hOXZA",
+	"transcript": "1295.lines.json"
 }
 ---
 RECORDED ON AUGUST 11th 2026.  
