@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1296 Carolyn Kraft: Discussing the Ethics and Legality of Sex Work",
-	"youtubeid": "NLAsZLwWynM"
+	"vtt": "1296.vtt",
+	"youtubeid": "NLAsZLwWynM",
+	"transcript": "1296.lines.json"
 }
 ---
 RECORDED ON AUGUST 7th 2026.  
