@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1297 Neil Sinhababu: Nietzsche on the Eternal Recurrence",
-	"youtubeid": "29Qkf8OS0D4"
+	"vtt": "1297.vtt",
+	"youtubeid": "29Qkf8OS0D4",
+	"transcript": "1297.lines.json"
 }
 ---
 Dr. Neil Sinhababu is an Associate Professor in the Department of Philosophy at the National University of Singapore. He is interested in metaethics and related issues. He is the author of Nietzsche on the Eternal Recurrence.
