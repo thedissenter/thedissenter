@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1299 Amy Baldwin: Shameless Sex",
-	"youtubeid": "ZoOpUs-phbE"
+	"vtt": "1299.vtt",
+	"youtubeid": "ZoOpUs-phbE",
+	"transcript": "1299.lines.json"
 }
 ---
 RECORDED ON AUGUST 12th 2026.  
