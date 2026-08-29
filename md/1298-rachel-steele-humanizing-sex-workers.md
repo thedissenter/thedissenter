@@ -9,7 +9,9 @@
 	"publishDate": 2026-08-27,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1298-Rachel-Steele-Humanizing-Sex-Workers-e3mavh0",
 	"title": "#1298 Rachel Steele: Humanizing Sex Workers",
-	"youtubeid": "a0j5G2qz16A"
+	"vtt": "1298.vtt",
+	"youtubeid": "a0j5G2qz16A",
+	"transcript": "1298.lines.json"
 }
 ---
 RECORDED ON JULY 16th 2026.  
