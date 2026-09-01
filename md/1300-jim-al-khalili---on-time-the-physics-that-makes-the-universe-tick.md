@@ -12,7 +12,9 @@
 		"Physics"
 	],
 	"title": "#1300 Jim Al-Khalili - On Time: The Physics That Makes the Universe Tick",
-	"youtubeid": "M0RwMoQZrvk"
+	"vtt": "1300.vtt",
+	"youtubeid": "M0RwMoQZrvk",
+	"transcript": "1300.lines.json"
 }
 ---
 RECORDED ON AUGUST 19th 2026.  
