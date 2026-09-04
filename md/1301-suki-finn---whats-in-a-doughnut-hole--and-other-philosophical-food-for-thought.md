@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1301 Suki Finn - What's in a Doughnut Hole?: And Other Philosophical Food for Thought",
-	"youtubeid": "jIV0zleNvsc"
+	"vtt": "1301.vtt",
+	"youtubeid": "jIV0zleNvsc",
+	"transcript": "1301.lines.json"
 }
 ---
 RECORDED ON JUNE 3rd 2026.  
