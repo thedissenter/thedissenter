@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1302 Benjamin Saltzman - Turning Away: The Poetics of an Ancient Gesture",
-	"youtubeid": "S_snMdKVTmw"
+	"vtt": "1302.vtt",
+	"youtubeid": "S_snMdKVTmw",
+	"transcript": "1302.lines.json"
 }
 ---
 RECORDED ON JUNE 2nd 2026.  
