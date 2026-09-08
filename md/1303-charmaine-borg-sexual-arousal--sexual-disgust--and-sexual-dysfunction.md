@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1303 Charmaine Borg: Sexual Arousal, Sexual Disgust, and Sexual Dysfunction",
-	"youtubeid": "_ccCaWy3IPs"
+	"vtt": "1303.vtt",
+	"youtubeid": "_ccCaWy3IPs",
+	"transcript": "1303.lines.json"
 }
 ---
 RECORDED ON MARCH 13th 2026.  
