@@ -5,6 +5,7 @@
 	"episodeid": "1304",
 	"excerpt": "Dr. Michael Wilson is a Professor in the Department of Ecology, Evolution and Behavior at the University of Minnesota. He studies nonhuman primates to provide comparative data for testing hypotheses about the evolution of distinctively human traits. He focuses on the behavior and ecology of chimpanzees at Gombe National Park, Tanzania.",
 	"image": "https://i.ytimg.com/vi/tWzBs1qHVXY/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1304-michael-wilson-chimpanzee-behavior-ecology-violence/id1451347236?i=1000788899478&uo=4",
 	"publishDate": 2026-09-10,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1304-Michael-Wilson-Chimpanzee-Behavior--Ecology--Violence--and-Human-Warfare-e3gro1a",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Anthropology"
 	],
 	"title": "#1304 Michael Wilson: Chimpanzee Behavior, Ecology, Violence, and Human Warfare",
-	"youtubeid": "tWzBs1qHVXY"
+	"vtt": "1304.vtt",
+	"youtubeid": "tWzBs1qHVXY",
+	"transcript": "1304.lines.json"
 }
 ---
 RECORDED ON MARCH 23rd 2026.  
