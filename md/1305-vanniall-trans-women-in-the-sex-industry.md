@@ -9,7 +9,9 @@
 	"publishDate": 2026-09-11,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1305-Vanniall-Trans-Women-in-the-Sex-Industry-e3o6ma9",
 	"title": "#1305 Vanniall: Trans Women in the Sex Industry",
-	"youtubeid": "nMYSpoKSwwo"
+	"vtt": "1305.vtt",
+	"youtubeid": "nMYSpoKSwwo",
+	"transcript": "1305.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 1st 2026.  
