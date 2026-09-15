@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1306 Steve Keen: The Existential Risk of Climate Change, and the War in Iran",
-	"youtubeid": "BtdhKsj3h4s"
+	"vtt": "1306.vtt",
+	"youtubeid": "BtdhKsj3h4s",
+	"transcript": "1306.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 4th 2026.  
