@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1307 James Tilley & Sara Hobolt - Tribal Politics: How Brexit Divided Britain",
-	"youtubeid": "8ky7duFpszw"
+	"vtt": "1307.vtt",
+	"youtubeid": "8ky7duFpszw",
+	"transcript": "1307.lines.json"
 }
 ---
 RECORDED ON AUGUST 25th 2026.  
