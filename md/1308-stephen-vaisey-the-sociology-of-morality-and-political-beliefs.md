@@ -5,13 +5,16 @@
 	"episodeid": "1308",
 	"excerpt": "Dr. Stephen Vaisey is Professor of Sociology and Political Science at Duke University. The main goal of his research is to understand moral and political beliefs: what they are, where they come from, and what they do. He pursues these questions in the broader interdisciplinary context of cultural evolution.",
 	"image": "https://i.ytimg.com/vi/E3NWGvbOt8w/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1308-stephen-vaisey-the-sociology-of-morality/id1451347236?i=1000790561249&uo=4",
 	"publishDate": 2026-09-18,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1308-Stephen-Vaisey-The-Sociology-of-Morality-and-Political-Beliefs-e3kvhib",
 	"tags": [
 		"Sociology"
 	],
 	"title": "#1308 Stephen Vaisey: The Sociology of Morality and Political Beliefs",
-	"youtubeid": "E3NWGvbOt8w"
+	"vtt": "1308.vtt",
+	"youtubeid": "E3NWGvbOt8w",
+	"transcript": "1308.lines.json"
 }
 ---
 RECORDED ON JUNE 18th 2026.  
