@@ -12,7 +12,9 @@
 		"Philosophy"
 	],
 	"title": "#1309 Espen Hammer: Death of God: Secularization as a Philosophical Challenge from Kant to Nietzsche",
-	"youtubeid": "Iy7zvZKb2Ok"
+	"vtt": "1309.vtt",
+	"youtubeid": "Iy7zvZKb2Ok",
+	"transcript": "1309.lines.json"
 }
 ---
 RECORDED ON APRIL 3rd 2026.  
