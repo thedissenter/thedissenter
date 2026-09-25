@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1310 George Boss: Marx and the Politics of Need",
-	"youtubeid": "lrzxQagdKR0"
+	"vtt": "1310.vtt",
+	"youtubeid": "lrzxQagdKR0",
+	"transcript": "1310.lines.json"
 }
 ---
 RECORDED ON AUGUST 27th 2026.  
