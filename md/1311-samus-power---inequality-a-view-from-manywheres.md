@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1311 Séamus Power - Inequality: A View from Manywheres",
-	"youtubeid": "BmBxNO82dlw"
+	"vtt": "1311.vtt",
+	"youtubeid": "BmBxNO82dlw",
+	"transcript": "1311.lines.json"
 }
 ---
 RECORDED ON AUGUST 31st 2026.  
