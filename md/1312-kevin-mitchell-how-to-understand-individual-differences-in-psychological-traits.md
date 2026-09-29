@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1312 Kevin Mitchell: How to Understand Individual Differences in Psychological Traits",
-	"youtubeid": "3OBimF-uyLg"
+	"vtt": "1312.vtt",
+	"youtubeid": "3OBimF-uyLg",
+	"transcript": "1312.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 22nd 2026.  
