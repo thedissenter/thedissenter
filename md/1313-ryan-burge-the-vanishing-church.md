@@ -12,7 +12,9 @@
 		"Politics"
 	],
 	"title": "#1313 Ryan Burge: The Vanishing Church",
-	"youtubeid": "mDqjoWiKW0E"
+	"vtt": "1313.vtt",
+	"youtubeid": "mDqjoWiKW0E",
+	"transcript": "1313.lines.json"
 }
 ---
 RECORDED ON APRIL 10th 2026.  
