@@ -12,7 +12,9 @@
 		"History"
 	],
 	"title": "#1314 Roderick Beaton - Europe: A New History",
-	"youtubeid": "33I4kG0apWE"
+	"vtt": "1314.vtt",
+	"youtubeid": "33I4kG0apWE",
+	"transcript": "1314.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 17th 2026.  
