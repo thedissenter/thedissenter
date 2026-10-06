@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1315 Samantha Waite: Everything You've Ever Wanted to Know About Death",
-	"youtubeid": "BzxuSWVjuCQ"
+	"vtt": "1315.vtt",
+	"youtubeid": "BzxuSWVjuCQ",
+	"transcript": "1315.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 28th 2026.  
