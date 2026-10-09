@@ -1,0 +1,4586 @@
+WEBVTT
+
+1
+00:00:00.379 --> 00:00:03.089
+Hello everybody. Welcome to a new episode of the
+
+2
+00:00:03.089 --> 00:00:06.090
+Dissenter. I'm your host Ricardo Lops, and today I'm
+
+3
+00:00:06.090 --> 00:00:09.199
+joined by Kasper Hesp. He is a PhD candidate
+
+4
+00:00:09.199 --> 00:00:13.060
+in Social computational neuroscience at the University of Amsterdam.
+
+5
+00:00:13.489 --> 00:00:16.860
+His research aims to model and understand how social
+
+6
+00:00:16.860 --> 00:00:21.079
+life develops in individuals and over generations and going
+
+7
+00:00:21.079 --> 00:00:24.149
+from an Understanding of the emotional basis of social
+
+8
+00:00:24.149 --> 00:00:27.709
+life to modeling culture and today we're going to
+
+9
+00:00:27.709 --> 00:00:31.670
+explore topics like feelings and moods, the emotional basis
+
+10
+00:00:31.670 --> 00:00:37.189
+of social life, cultural evolution, active inference, phenomenology, and
+
+11
+00:00:37.189 --> 00:00:40.750
+some other related topics. So Casper, welcome to the
+
+12
+00:00:40.750 --> 00:00:44.139
+show. It's a big pleasure to everyone. Thank you.
+
+13
+00:00:45.799 --> 00:00:50.080
+So before we get into really specific topics of
+
+14
+00:00:50.080 --> 00:00:53.279
+your work, I would like to start by asking
+
+15
+00:00:53.279 --> 00:00:56.479
+you about basically the approach you have in your
+
+16
+00:00:56.479 --> 00:01:00.090
+work, the sort of framework you bring into it.
+
+17
+00:01:00.560 --> 00:01:04.519
+So what is active inference exactly?
+
+18
+00:01:05.919 --> 00:01:10.180
+It's a very fundamental question. Um, SO basically, we
+
+19
+00:01:11.050 --> 00:01:15.739
+Look at the Life as uh being involved in
+
+20
+00:01:15.739 --> 00:01:19.910
+the process of active inference. Um, Whether active inferences
+
+21
+00:01:19.910 --> 00:01:23.529
+a process or a framework, uh, it's actually still
+
+22
+00:01:23.529 --> 00:01:27.309
+it's a matter for philosophers to debate, but the
+
+23
+00:01:27.309 --> 00:01:31.220
+general approach is focused on, um, this notion that,
+
+24
+00:01:31.610 --> 00:01:37.309
+uh, every organism is engaged in Uh, keeping themselves
+
+25
+00:01:37.309 --> 00:01:41.569
+alive, uh, on one level or another. And so
+
+26
+00:01:42.069 --> 00:01:45.389
+it can be, uh, essentially focusing on different levels
+
+27
+00:01:45.389 --> 00:01:50.019
+of description. So groups of organisms, uh, essentially can,
+
+28
+00:01:50.290 --> 00:01:54.489
+well, let's say, sacrifice individuals uh for the greater
+
+29
+00:01:54.489 --> 00:02:00.110
+goods from their perspective, and And in this way,
+
+30
+00:02:00.379 --> 00:02:04.400
+um, Active inference is like a scale-free description of
+
+31
+00:02:04.709 --> 00:02:06.440
+a life. You can think of it like that,
+
+32
+00:02:06.580 --> 00:02:11.839
+where the active parts, uh. TRIES to go beyond
+
+33
+00:02:11.839 --> 00:02:16.199
+mere that what they call predictive processing. So I
+
+34
+00:02:16.399 --> 00:02:18.699
+suppose this is somewhat familiar to your audience at
+
+35
+00:02:18.699 --> 00:02:22.399
+this point, but Um, predictive processing focuses a lot
+
+36
+00:02:22.399 --> 00:02:27.240
+on the anticipatory part of life. Um, SO essentially
+
+37
+00:02:27.240 --> 00:02:32.419
+the The way of perceiving the world, anticipating the
+
+38
+00:02:32.419 --> 00:02:38.270
+future sensory inputs. The active parts actually goes beyond
+
+39
+00:02:38.270 --> 00:02:40.050
+that in the sense that it's not just about
+
+40
+00:02:40.050 --> 00:02:45.110
+anticipating what's going to happen and But also about,
+
+41
+00:02:45.119 --> 00:02:48.619
+let's say, changing the world and directing the states
+
+42
+00:02:48.789 --> 00:02:52.750
+of the future. And in exit inference we formalize.
+
+43
+00:02:54.320 --> 00:02:56.440
+We formalize that part as well as a form
+
+44
+00:02:56.440 --> 00:03:00.360
+of anticipation, but then it's about anticipating the, let's
+
+45
+00:03:00.360 --> 00:03:04.399
+say the consequences of action, um. I'm not a
+
+46
+00:03:04.399 --> 00:03:07.570
+huge fan of the predictive processing label because it's
+
+47
+00:03:07.570 --> 00:03:11.179
+sort of calls to mind, let's say um a
+
+48
+00:03:11.240 --> 00:03:15.160
+computer analogy of how the mind works and how
+
+49
+00:03:15.160 --> 00:03:19.270
+cognition works, and Uh, I, that's why I, I
+
+50
+00:03:19.270 --> 00:03:22.699
+generally prefer active, the label active inference because it's,
+
+51
+00:03:22.710 --> 00:03:26.229
+um, let's say a little bit more agnostic about
+
+52
+00:03:26.229 --> 00:03:31.690
+the, um, The underpinnings there's Let's say work from
+
+53
+00:03:31.690 --> 00:03:35.470
+people who are more, let's say um uh about
+
+54
+00:03:35.470 --> 00:03:40.960
+extended cognition and active uh frameworks but also People
+
+55
+00:03:40.960 --> 00:03:45.039
+who are more what they call internalists. Right, so
+
+56
+00:03:45.039 --> 00:03:46.919
+it leaves room for, let's say it's a white
+
+57
+00:03:46.919 --> 00:03:51.830
+tent, it leaves room for different perspectives. Uh, WHETHER
+
+58
+00:03:51.830 --> 00:03:56.729
+it's more internally focused or externally focused. And I
+
+59
+00:03:56.729 --> 00:03:58.770
+think that's also the power of it. And for
+
+60
+00:03:58.770 --> 00:04:01.369
+some people also the weakness, um, in the sense
+
+61
+00:04:01.369 --> 00:04:05.610
+that they like to have it, uh, well, especially
+
+62
+00:04:05.610 --> 00:04:08.529
+the philosophers, they like to have a clear cut
+
+63
+00:04:08.529 --> 00:04:11.289
+answer to these kinds of questions. Um, WELL, for
+
+64
+00:04:11.289 --> 00:04:16.589
+me, it's more a question of Scientific, um, Investigation,
+
+65
+00:04:16.760 --> 00:04:20.160
+let's say, to which extent things are internalized or
+
+66
+00:04:20.160 --> 00:04:24.368
+externalized. Anyways, so this is my long-winded answer to
+
+67
+00:04:24.368 --> 00:04:27.399
+this, uh, well, still. Uh, I mean you could
+
+68
+00:04:27.399 --> 00:04:30.119
+write entire books on this question, so actually they
+
+69
+00:04:30.119 --> 00:04:34.529
+have already been written, I know. Uh, YEAH, thanks.
+
+70
+00:04:34.690 --> 00:04:34.869
+Yeah,
+
+71
+00:04:35.089 --> 00:04:37.529
+no, no, that, that's perfectly fine, and I guess
+
+72
+00:04:37.529 --> 00:04:39.929
+that we'll also come back to it a little
+
+73
+00:04:39.929 --> 00:04:43.329
+bit later as we go through the other topics
+
+74
+00:04:43.329 --> 00:04:46.700
+and perhaps some of them it applies directly to,
+
+75
+00:04:47.170 --> 00:04:50.010
+but, uh, as I said in the introduction, you
+
+76
+00:04:50.010 --> 00:04:54.869
+are very interested in having a better understanding of
+
+77
+00:04:55.399 --> 00:04:58.170
+the emotional basis of social life and how we
+
+78
+00:04:58.170 --> 00:05:02.290
+go from there to culture, cultural evolution, and so
+
+79
+00:05:02.290 --> 00:05:07.575
+on. So perhaps starting at a more individual level
+
+80
+00:05:08.015 --> 00:05:12.834
+uh and uh with more basic psychological aspects of
+
+81
+00:05:12.834 --> 00:05:18.154
+our lives, what are feelings and moods and I
+
+82
+00:05:18.154 --> 00:05:21.894
+mean how do you understand them from the perspective
+
+83
+00:05:22.105 --> 00:05:22.855
+you come from?
+
+84
+00:05:25.279 --> 00:05:29.339
+Yeah, so when I came into this Let's say
+
+85
+00:05:29.339 --> 00:05:33.179
+this field, I realized that. There was still quite
+
+86
+00:05:33.179 --> 00:05:38.579
+a large gap between the formal descriptions, um, as
+
+87
+00:05:38.579 --> 00:05:42.160
+they have been, um, Uh, as they have been
+
+88
+00:05:42.160 --> 00:05:46.559
+developed in active inference and, um, let's say emotion
+
+89
+00:05:46.559 --> 00:05:53.250
+research and um emotion research has Uh, focused on
+
+90
+00:05:53.250 --> 00:05:56.989
+the social aspects of, um, of feelings and, uh,
+
+91
+00:05:57.000 --> 00:05:59.970
+moods. Um, I, that actually doesn't answer what they
+
+92
+00:05:59.970 --> 00:06:01.529
+are yet. I will get to that in a
+
+93
+00:06:01.529 --> 00:06:09.769
+second. Essentially, from an evolutionary perspective, um, It is,
+
+94
+00:06:10.290 --> 00:06:14.260
+well, it's like the consensus essentially that Um, all
+
+95
+00:06:14.260 --> 00:06:19.589
+our social interactions, uh, are sort of bootstrapped from
+
+96
+00:06:20.380 --> 00:06:26.230
+let's say core effect, um, core functionalities that's Um,
+
+97
+00:06:27.709 --> 00:06:33.109
+aligned with the evolutionary pressures over the, well, over
+
+98
+00:06:33.109 --> 00:06:36.869
+millions of years, right? So there's um The basic
+
+99
+00:06:36.869 --> 00:06:40.250
+feelings, uh, which I would start with defining there,
+
+100
+00:06:40.429 --> 00:06:45.850
+um. ARE essentially the The states of our system
+
+101
+00:06:46.230 --> 00:06:52.399
+focusing on Let's say being Driven by this more
+
+102
+00:06:52.399 --> 00:06:58.769
+uh. Let's call them evolutionarily ancient, um, parts of
+
+103
+00:06:58.769 --> 00:07:03.230
+our system. Um, AND the social, social dimension sort
+
+104
+00:07:03.230 --> 00:07:08.709
+of exploits those, uh, elements, so there's different dimensions
+
+105
+00:07:08.709 --> 00:07:12.750
+to this, like core, core effects. It's, um, something
+
+106
+00:07:12.750 --> 00:07:15.950
+that I know you, uh, I believe you're, you
+
+107
+00:07:15.950 --> 00:07:19.160
+have a few questions in your, you're also focused
+
+108
+00:07:19.160 --> 00:07:22.190
+on this in more detail, so I won't too
+
+109
+00:07:22.190 --> 00:07:26.579
+much, but, um. Essentially, the dimensions of positive and
+
+110
+00:07:26.579 --> 00:07:35.540
+negative uh valence are pretty important because Um We
+
+111
+00:07:35.540 --> 00:07:39.079
+believe at least uh the framework I've been developing
+
+112
+00:07:39.459 --> 00:07:43.049
+um looks at those as valence as aligning with
+
+113
+00:07:43.049 --> 00:07:47.140
+uh this, let's say, subjective fitness of organisms. And
+
+114
+00:07:47.140 --> 00:07:52.250
+so Um There's other dimensions to this. So essentially
+
+115
+00:07:52.250 --> 00:07:57.049
+feelings would be uh those very abstract states that
+
+116
+00:07:57.589 --> 00:08:00.500
+characterize whether we want to approach or avoid something,
+
+117
+00:08:00.829 --> 00:08:03.309
+whether we, uh, let's say are in a high
+
+118
+00:08:03.309 --> 00:08:08.950
+energetic state or in a relaxed state, um. There's
+
+119
+00:08:08.950 --> 00:08:14.589
+like Essentially emotion researchers have defined multiple axes this
+
+120
+00:08:14.589 --> 00:08:19.029
+whether we are in control or not, and Our
+
+121
+00:08:19.029 --> 00:08:22.940
+feelings in that sense. You could think of them
+
+122
+00:08:22.940 --> 00:08:27.609
+as What ties together the, the cognition in the
+
+123
+00:08:27.609 --> 00:08:33.229
+abstract sense and the biological substrate, let's say, um,
+
+124
+00:08:33.369 --> 00:08:36.979
+the biological constraints. OK, so there's feelings and then
+
+125
+00:08:36.979 --> 00:08:39.659
+moods, uh, I view them as more the, the
+
+126
+00:08:39.659 --> 00:08:45.059
+long term, um. Or let's say more slow characterizations
+
+127
+00:08:45.059 --> 00:08:50.270
+of that, so. Uh I mean, it depends on
+
+128
+00:08:50.270 --> 00:08:52.950
+what kind of researcher you talk to because some
+
+129
+00:08:52.950 --> 00:08:58.450
+uh uh psychiatrists might focus on moods patterns over
+
+130
+00:08:58.750 --> 00:09:04.770
+timescales of months, right? Um, But essentially, there's not
+
+131
+00:09:04.770 --> 00:09:09.349
+a very clear cut temporal distinction. It's just that
+
+132
+00:09:09.809 --> 00:09:13.450
+sort of like a The sea has waves, but
+
+133
+00:09:13.450 --> 00:09:18.719
+every wave has a smaller, uh, ripples, and. And
+
+134
+00:09:18.719 --> 00:09:21.159
+the moods, yeah, moods are basically this long term
+
+135
+00:09:21.760 --> 00:09:26.440
+patterns that we identify as feelings in our daily
+
+136
+00:09:26.440 --> 00:09:29.869
+lives. It's not, um, I guess I don't wanna
+
+137
+00:09:29.869 --> 00:09:32.530
+spoil too much for the follow-up questions.
+
+138
+00:09:33.549 --> 00:09:36.409
+Sure, uh, but I mean, here when it comes
+
+139
+00:09:36.409 --> 00:09:39.330
+to feelings and moods in your work, are you
+
+140
+00:09:39.989 --> 00:09:44.309
+interested in how they influence our behavior? I mean,
+
+141
+00:09:44.349 --> 00:09:49.429
+only that or also perhaps some potential top-down effects
+
+142
+00:09:49.429 --> 00:09:56.489
+that they might also have on our physiology. And
+
+143
+00:09:56.869 --> 00:09:59.989
+yeah, so that was what I was, well, trying
+
+144
+00:09:59.989 --> 00:10:01.830
+to get at with this uh link to the
+
+145
+00:10:01.830 --> 00:10:07.349
+biological substrate, essentially. So the, uh, let's say biasing
+
+146
+00:10:07.349 --> 00:10:12.190
+the responses of our, uh, neural systems, which includes
+
+147
+00:10:12.190 --> 00:10:18.590
+the, uh, things like, uh, hormonal releases, uh, Essentially,
+
+148
+00:10:19.609 --> 00:10:26.130
+The typical um. Let's say neuroscientific findings on um
+
+149
+00:10:26.340 --> 00:10:29.260
+the HPA axis. I don't know how familiar that
+
+150
+00:10:29.260 --> 00:10:33.200
+uh will sound to your audience, but Essentially the
+
+151
+00:10:33.890 --> 00:10:37.849
+The way that links to the, uh, well, the
+
+152
+00:10:37.849 --> 00:10:40.440
+core effects of every cell in your body. That,
+
+153
+00:10:40.869 --> 00:10:47.059
+that's, we think, yeah, includes um Neurotransmitters that are
+
+154
+00:10:47.059 --> 00:10:50.299
+being used to coordinate across all these different levels.
+
+155
+00:10:52.429 --> 00:10:55.960
+Mhm AND at a certain point there you also
+
+156
+00:10:55.960 --> 00:11:01.280
+mentioned emotional violence. So what is the importance of
+
+157
+00:11:01.280 --> 00:11:06.880
+emotional violence here and how does it work exactly?
+
+158
+00:11:09.309 --> 00:11:13.979
+Yeah, so emotional valence, um, You could see it
+
+159
+00:11:13.979 --> 00:11:20.200
+as a fundamental characteristic of uh our experience where
+
+160
+00:11:21.119 --> 00:11:24.979
+Uh, it represents whether we want more of something
+
+161
+00:11:24.979 --> 00:11:28.520
+or we want less of something. Um, AND it's
+
+162
+00:11:28.520 --> 00:11:31.640
+interesting cause behaviorally, people have linked it to approach
+
+163
+00:11:31.640 --> 00:11:37.090
+and avoidance, right? But Uh, that distinction has received
+
+164
+00:11:37.090 --> 00:11:40.179
+some criticism because, uh, well, one example of a
+
+165
+00:11:40.179 --> 00:11:45.669
+negative, um, emotion is anger. All right, which can
+
+166
+00:11:45.669 --> 00:11:50.280
+lead to aggression, which is a Uh, approach response
+
+167
+00:11:51.500 --> 00:11:55.210
+on the behavioral level, um, but on the abstract
+
+168
+00:11:55.210 --> 00:11:58.659
+level, you could think of anger, uh, as let's
+
+169
+00:11:58.659 --> 00:12:02.830
+say the intention to stop something from happening, right?
+
+170
+00:12:02.940 --> 00:12:07.380
+So the So in a sense, the approach response
+
+171
+00:12:07.380 --> 00:12:11.979
+on the short term. Actually, in this case, in
+
+172
+00:12:11.979 --> 00:12:15.489
+the case of aggression, kind of shows the Yeah.
+
+173
+00:12:16.320 --> 00:12:20.119
+Let's say the desire for something to be gone,
+
+174
+00:12:20.280 --> 00:12:24.390
+right? And The aggression in this case can be
+
+175
+00:12:26.039 --> 00:12:30.929
+In response to a conspecific, um. Or some other
+
+176
+00:12:30.929 --> 00:12:33.710
+threats. So that would be the sort of, uh,
+
+177
+00:12:33.830 --> 00:12:39.119
+let's say fear driven, uh, aggression, um. Which is
+
+178
+00:12:39.119 --> 00:12:43.159
+an interesting example where a behavioral distinction is too
+
+179
+00:12:43.159 --> 00:12:47.109
+simplistic. Right, so it's not just approaching avoidance, but
+
+180
+00:12:48.030 --> 00:12:51.830
+Uh, from an active Ace perspective, like trying to
+
+181
+00:12:51.830 --> 00:12:54.469
+remove something from your environment is also a form
+
+182
+00:12:54.469 --> 00:13:01.460
+of avoidance on that level. Yeah. Um Essentially emotional
+
+183
+00:13:01.460 --> 00:13:06.320
+valence is the uh core functionality that you could
+
+184
+00:13:06.320 --> 00:13:08.809
+even think of it uh on the level of
+
+185
+00:13:08.809 --> 00:13:12.719
+individual cells. So every cell, uh, even in your
+
+186
+00:13:12.719 --> 00:13:16.419
+guts, uh, right? So there's a whole microbio uh
+
+187
+00:13:16.419 --> 00:13:23.429
+biomes, and Whole ecosystems are regulating your, uh, digestive
+
+188
+00:13:23.429 --> 00:13:27.070
+system and each of the cells in that, uh,
+
+189
+00:13:27.229 --> 00:13:31.200
+those ecosystems has the possibility to, let's say um
+
+190
+00:13:31.429 --> 00:13:36.840
+emit uh signals of distress. Um, AND in that
+
+191
+00:13:36.840 --> 00:13:40.239
+sense, even a single-celled organism has a form of
+
+192
+00:13:40.239 --> 00:13:44.979
+emotional fence. Well, we would call that affective valence
+
+193
+00:13:44.979 --> 00:13:49.940
+because, um, there's this sort of like nuanced, uh,
+
+194
+00:13:50.440 --> 00:13:55.309
+distinction between affect and emotion. Um, WHERE we think
+
+195
+00:13:55.309 --> 00:13:59.609
+of emotion more as, let's say the socially contextualized,
+
+196
+00:14:00.229 --> 00:14:08.599
+um, Uh Phenomena that corporate affects, um, so think
+
+197
+00:14:08.599 --> 00:14:12.150
+of both are the emotions like sadness, fear, um,
+
+198
+00:14:12.599 --> 00:14:20.630
+anger. Um, Happiness Essentially all of them have a
+
+199
+00:14:20.630 --> 00:14:28.770
+sense of valence embedded. Um And That is, is,
+
+200
+00:14:29.020 --> 00:14:33.479
+well, from this theoretical perspective, those are, uh, essentially
+
+201
+00:14:33.479 --> 00:14:41.640
+the social, socially contextualized, um, narratives almost around the
+
+202
+00:14:41.640 --> 00:14:46.210
+more core affective states. That makes sense. Mhm
+
+203
+00:14:47.169 --> 00:14:51.650
+AND something that you also mentioned a few minutes
+
+204
+00:14:51.650 --> 00:14:55.809
+ago, uh, was core effect. So could you tell
+
+205
+00:14:55.809 --> 00:15:00.369
+us now what is core affect exactly and what
+
+206
+00:15:00.369 --> 00:15:02.630
+are its evolved functions?
+
+207
+00:15:04.919 --> 00:15:08.780
+Yeah, so I was mentioning, uh, this dimensions that,
+
+208
+00:15:08.849 --> 00:15:14.349
+uh, emotion researchers have been, um, working out. So,
+
+209
+00:15:14.679 --> 00:15:17.890
+uh, they, they view valence as like the first
+
+210
+00:15:17.890 --> 00:15:21.090
+axis, so to speak, the positive and negative valence,
+
+211
+00:15:21.780 --> 00:15:25.650
+uh, then you have, um, the, uh, let's say
+
+212
+00:15:25.650 --> 00:15:29.659
+activation level of, uh, let's say low energy and
+
+213
+00:15:29.659 --> 00:15:34.030
+high energy states, um. So you can be, you
+
+214
+00:15:34.030 --> 00:15:38.450
+can feel relaxed in a positive sense or tired,
+
+215
+00:15:38.619 --> 00:15:41.830
+uh, in a negative sense, and that's what we
+
+216
+00:15:41.830 --> 00:15:46.299
+call the affect circumplex. Um, IN the sense that
+
+217
+00:15:46.299 --> 00:15:49.299
+if you take these two principal axes, then you
+
+218
+00:15:49.299 --> 00:15:52.070
+can define a sort of a circle uh on
+
+219
+00:15:52.070 --> 00:15:56.460
+which you can Uh, actually Pinpoint a lot of
+
+220
+00:15:56.460 --> 00:16:00.140
+the different, uh, what we call affective states. And
+
+221
+00:16:00.140 --> 00:16:04.179
+those, uh, what are those states? Well, they're essentially
+
+222
+00:16:04.179 --> 00:16:08.659
+abstract descriptions of the way our body and our
+
+223
+00:16:08.659 --> 00:16:12.820
+minds work at any given point in time. In
+
+224
+00:16:12.820 --> 00:16:16.020
+that sense, it's, uh, pretty hard to pinpoint what
+
+225
+00:16:16.020 --> 00:16:20.469
+exactly it is, um. Because it's like a, it's
+
+226
+00:16:20.469 --> 00:16:24.890
+a. SUMMARY of the cross scale phenomenon in this
+
+227
+00:16:24.890 --> 00:16:28.739
+case our body and minds. Uh, OH, we are
+
+228
+00:16:28.739 --> 00:16:30.849
+not dualists these days, at least I don't know
+
+229
+00:16:30.849 --> 00:16:34.960
+any, uh, so they're essentially one, and we're just,
+
+230
+00:16:35.739 --> 00:16:40.380
+um, let's say, Uh, looking at it from different
+
+231
+00:16:40.380 --> 00:16:44.659
+perspectives, right? And what's interesting about A effect is
+
+232
+00:16:44.659 --> 00:16:47.880
+that where, that's where they seem to Come together,
+
+233
+00:16:48.080 --> 00:16:51.390
+so to speak. Um, SO I said the two
+
+234
+00:16:51.390 --> 00:16:53.719
+dimensions, but core effect has more than 2, right?
+
+235
+00:16:53.859 --> 00:16:56.500
+You can, you can extend it, uh, the third
+
+236
+00:16:57.000 --> 00:17:00.260
+dimension that's typically included is a sense of control.
+
+237
+00:17:00.840 --> 00:17:05.040
+So whether you have control over a situation or
+
+238
+00:17:05.040 --> 00:17:09.739
+not. Um Let's say a child, a young child,
+
+239
+00:17:09.829 --> 00:17:16.680
+can feel happy and energetic. Um, WELL, even though
+
+240
+00:17:16.680 --> 00:17:19.300
+they, I don't know, their parents is pushing the,
+
+241
+00:17:19.520 --> 00:17:22.900
+uh, Uh, the swing, so they don't have any
+
+242
+00:17:22.900 --> 00:17:25.739
+control over what's happening, but they feel safe and
+
+243
+00:17:25.739 --> 00:17:28.859
+they feel happy, right, um, so in that sense
+
+244
+00:17:28.859 --> 00:17:32.099
+there's like dimensions where you don't have control. It's
+
+245
+00:17:32.099 --> 00:17:35.630
+different from the sense of, um. Yeah, where you
+
+246
+00:17:35.630 --> 00:17:39.569
+do exert control over the environment and more directly
+
+247
+00:17:39.839 --> 00:17:45.479
+and Anyways, so there's this I believe there's a
+
+248
+00:17:45.479 --> 00:17:47.839
+few more dimensions on top of this, but it
+
+249
+00:17:47.839 --> 00:17:50.439
+gets more and more, let's say elusive after this
+
+250
+00:17:50.439 --> 00:17:51.010
+1st 3.
+
+251
+00:17:52.800 --> 00:17:56.859
+So in a related topic, I guess, what role
+
+252
+00:17:56.859 --> 00:18:02.880
+does communication with con specifics play in effect from
+
+253
+00:18:02.880 --> 00:18:04.939
+an evolutionary perspective, of course.
+
+254
+00:18:05.890 --> 00:18:10.569
+Mhm. Yeah, so, um, I was mentioning before that
+
+255
+00:18:10.569 --> 00:18:15.930
+even, um, microorganisms in your gut are, uh, communicating
+
+256
+00:18:15.930 --> 00:18:19.849
+each their affective states in a sense. Um, SO
+
+257
+00:18:19.849 --> 00:18:23.170
+literally just like if they don't get enough, um,
+
+258
+00:18:24.099 --> 00:18:28.689
+Uh, glucose or something like that, they will indicate
+
+259
+00:18:28.689 --> 00:18:34.660
+their discontent, uh, the discontentment in Very fundamental sense,
+
+260
+00:18:34.770 --> 00:18:37.640
+and that's how in the end, uh, you end
+
+261
+00:18:37.640 --> 00:18:40.579
+up, uh, feeling hungry, right? So there's a sense
+
+262
+00:18:40.579 --> 00:18:44.160
+in which um that helps your system on the
+
+263
+00:18:44.160 --> 00:18:48.359
+level of um the human body to coordinate, um,
+
+264
+00:18:49.310 --> 00:18:53.229
+And in that sense, the The reason why effect
+
+265
+00:18:53.229 --> 00:18:58.010
+is important or useful way to characterize systems is
+
+266
+00:18:59.609 --> 00:19:06.219
+Living systems is actually Um, already evidenced in, in
+
+267
+00:19:06.219 --> 00:19:08.099
+the way they use it, in the way we
+
+268
+00:19:08.099 --> 00:19:13.719
+have, um, let's say, Uh, the multicellular organisms have
+
+269
+00:19:13.719 --> 00:19:16.530
+been using this kind of communication to uh, to
+
+270
+00:19:16.530 --> 00:19:21.050
+organize themselves. Um. Where, well, literally, if you have
+
+271
+00:19:21.050 --> 00:19:24.209
+pain, right, that this part of your body is.
+
+272
+00:19:25.030 --> 00:19:30.000
+Uh, DETECTING a departure from, uh, their expectations, so
+
+273
+00:19:30.000 --> 00:19:35.369
+to speak, but uh. Regular biological function. And then
+
+274
+00:19:35.369 --> 00:19:39.689
+that will trigger attention uh to deal with that
+
+275
+00:19:39.689 --> 00:19:43.390
+source, the source of the pain. So, um, anyway,
+
+276
+00:19:43.459 --> 00:19:46.030
+that's some level of one individual, right? But the
+
+277
+00:19:46.030 --> 00:19:48.959
+idea is that, um, In the same way that
+
+278
+00:19:48.959 --> 00:19:53.920
+cells can organize to form larger tissues and tissues
+
+279
+00:19:53.920 --> 00:19:57.500
+can organize to form organs and organs can form
+
+280
+00:19:57.500 --> 00:20:03.130
+can organize to form. Entire organisms, um, like and
+
+281
+00:20:03.130 --> 00:20:07.349
+mammals in the end, um, the same way people
+
+282
+00:20:07.930 --> 00:20:13.099
+can organize to form larger bodies together, um. And
+
+283
+00:20:13.099 --> 00:20:16.900
+the communication of affects just like it's important for
+
+284
+00:20:16.900 --> 00:20:20.949
+that organization within the body of a single person,
+
+285
+00:20:21.260 --> 00:20:24.650
+it becomes the Let's say the sort of glue
+
+286
+00:20:24.880 --> 00:20:30.270
+uh that uh allows larger, uh, groups of people
+
+287
+00:20:30.569 --> 00:20:34.469
+to form coordinated units. So, I mean, you can
+
+288
+00:20:34.469 --> 00:20:38.050
+see this very clearly in the In the development
+
+289
+00:20:38.050 --> 00:20:42.839
+of children, right? So the, uh, communication. Of uh
+
+290
+00:20:43.040 --> 00:20:47.319
+the affective state of the baby, sort of. Drives
+
+291
+00:20:47.319 --> 00:20:49.760
+the parents' uh behaviors or in a, well, in
+
+292
+00:20:49.760 --> 00:20:52.900
+what we think of as a healthy parental relationship,
+
+293
+00:20:53.079 --> 00:20:56.479
+and the affective state of the baby will basically
+
+294
+00:20:56.479 --> 00:21:01.979
+be determining most of their activities. Um. Anyways, so
+
+295
+00:21:01.979 --> 00:21:04.260
+that's like where, uh, because the baby is essentially,
+
+296
+00:21:04.369 --> 00:21:06.699
+well, starts as an organism, a part of the,
+
+297
+00:21:06.859 --> 00:21:10.069
+literally part of the body of its mother, um,
+
+298
+00:21:10.900 --> 00:21:14.420
+then transitions to becoming an independent, to some degree
+
+299
+00:21:14.420 --> 00:21:20.209
+independent, uh, organism, but Um, from the perspective of
+
+300
+00:21:20.209 --> 00:21:24.410
+let's say, swarm intelligence, so to speak, uh, they
+
+301
+00:21:24.410 --> 00:21:27.410
+still keep, they, they keep being connected in many
+
+302
+00:21:27.410 --> 00:21:31.729
+cases, um, and they form a body. Uh, IF
+
+303
+00:21:31.729 --> 00:21:34.810
+you But on the abstract level, you could think
+
+304
+00:21:34.810 --> 00:21:37.650
+of groups of people as forming bodies on a
+
+305
+00:21:37.650 --> 00:21:43.890
+larger, uh, larger spatial temporal scale, essentially. Mhm.
+
+306
+00:21:44.420 --> 00:21:48.979
+So is this why we need to track each
+
+307
+00:21:48.979 --> 00:21:53.939
+other's feelings to be able to coordinate socially?
+
+308
+00:21:55.930 --> 00:22:01.569
+Uh, YES, and there's a. There's an interesting complication
+
+309
+00:22:01.569 --> 00:22:07.660
+there in terms of like cooperation versus competition. And
+
+310
+00:22:08.489 --> 00:22:11.449
+It is, it all happens also in within our
+
+311
+00:22:11.449 --> 00:22:15.329
+bodies. So there is a competition for attention, let's
+
+312
+00:22:15.329 --> 00:22:20.939
+say, between Well, let's say when I'm uh Have,
+
+313
+00:22:21.060 --> 00:22:23.640
+I'm in a positive flow um during my work,
+
+314
+00:22:23.660 --> 00:22:26.599
+but I'm getting a little bit hungry. Then there
+
+315
+00:22:26.599 --> 00:22:29.880
+starts to be competition for, uh, let's say the
+
+316
+00:22:30.579 --> 00:22:34.859
+prioritizing the different needs of my system. And this
+
+317
+00:22:34.859 --> 00:22:37.979
+similar thing happens within uh human systems, right? So
+
+318
+00:22:37.979 --> 00:22:41.739
+there's, uh, of course, um, The extent to which
+
+319
+00:22:41.739 --> 00:22:45.060
+people communicate their needs varies a lot, uh, oh,
+
+320
+00:22:45.800 --> 00:22:48.260
+the communication itself, but then also the extent to
+
+321
+00:22:48.260 --> 00:22:51.520
+which others, uh, let's say, respond to those needs,
+
+322
+00:22:51.900 --> 00:22:58.270
+um. CORRELATES with um What we call esteem, social
+
+323
+00:22:58.270 --> 00:23:04.589
+esteem. So the idea is that From a very
+
+324
+00:23:05.349 --> 00:23:13.819
+early stage, this It's a social network with Let's
+
+325
+00:23:13.819 --> 00:23:19.280
+say different prioritization of, of different, uh, hubs of
+
+326
+00:23:19.280 --> 00:23:26.560
+the network, sort of, uh, determine The social Dynamics
+
+327
+00:23:26.560 --> 00:23:29.760
+that we experience every day and I mean some
+
+328
+00:23:29.760 --> 00:23:32.880
+of my simulations and on that front are sort
+
+329
+00:23:32.880 --> 00:23:37.390
+of reminiscent of a high school class where like
+
+330
+00:23:37.390 --> 00:23:41.030
+uh you have uh different agents forming opinions about
+
+331
+00:23:41.030 --> 00:23:43.479
+each other's opinions. So like they have a sort
+
+332
+00:23:43.479 --> 00:23:46.079
+of a, well let's say they're inferring each other's
+
+333
+00:23:46.079 --> 00:23:49.839
+opinions about each other and they are looking for
+
+334
+00:23:49.839 --> 00:23:53.920
+a certain level of validation because there's no other.
+
+335
+00:23:55.229 --> 00:24:00.290
+Characteristic in this setting and. And then that way
+
+336
+00:24:00.290 --> 00:24:05.099
+they Well, I guess I was just linking that
+
+337
+00:24:05.099 --> 00:24:08.369
+because you're mentioning about uh like cooperation, right, but
+
+338
+00:24:08.369 --> 00:24:10.719
+then in the, in practice you see that both
+
+339
+00:24:11.030 --> 00:24:13.630
+competition and cooperation are pretty important.
+
+340
+00:24:14.489 --> 00:24:18.699
+ACTUALLY, uh, the, the word I used was coordination,
+
+341
+00:24:18.859 --> 00:24:22.800
+so I'm not sure if that always implies cooperation.
+
+342
+00:24:23.219 --> 00:24:25.180
+No, you're right, yes, I think coordination is a
+
+343
+00:24:25.180 --> 00:24:30.739
+nice way to Um, Yeah, because there's essentially a,
+
+344
+00:24:30.750 --> 00:24:34.489
+uh, the, the competition aspect basically also leads to
+
+345
+00:24:34.489 --> 00:24:39.089
+a form of coordination, yeah. Which is not always.
+
+346
+00:24:40.260 --> 00:24:44.869
+Beneficial to the, to the entire system, but um
+
+347
+00:24:46.229 --> 00:24:48.579
+It nevertheless, yes, I think coordination is a nice
+
+348
+00:24:48.579 --> 00:24:51.140
+way, like a neutral way to formulate it, um,
+
+349
+00:24:52.060 --> 00:24:55.260
+but that, uh, let's say I am, my research
+
+350
+00:24:55.260 --> 00:24:59.040
+is focused on Let's say the 4 our forms
+
+351
+00:24:59.040 --> 00:25:02.670
+of different forms of coordination emerge from let's say
+
+352
+00:25:02.670 --> 00:25:07.770
+cooperative modes and competitive modes, right. And then that
+
+353
+00:25:07.770 --> 00:25:10.930
+relates back to core effects in a sense uh
+
+354
+00:25:10.930 --> 00:25:17.290
+you see that um when people categorize others as,
+
+355
+00:25:17.400 --> 00:25:21.689
+let's say, um, in-group versus outgroup you see that
+
+356
+00:25:21.949 --> 00:25:26.369
+first triggers more cooperative, um, modes versus more competitive
+
+357
+00:25:26.369 --> 00:25:31.579
+modes, um. Anyways, so that's how this core effect
+
+358
+00:25:31.579 --> 00:25:34.540
+in the end links back to one of the
+
+359
+00:25:34.540 --> 00:25:37.540
+many ways in which it links back to social
+
+360
+00:25:37.540 --> 00:25:39.219
+phenomena. Um
+
+361
+00:25:40.979 --> 00:25:44.719
+So since we're already getting it at the social
+
+362
+00:25:44.719 --> 00:25:48.099
+slash collective level, I would like to ask you
+
+363
+00:25:48.099 --> 00:25:51.739
+now, why do you think that we need to
+
+364
+00:25:51.739 --> 00:25:55.819
+start from an understanding of the emotional basis of
+
+365
+00:25:55.819 --> 00:25:58.819
+social life in humans in this case I guess
+
+366
+00:25:58.819 --> 00:26:04.260
+mostly to then study culture and cultural evolution.
+
+367
+00:26:07.719 --> 00:26:14.880
+Um, YES, OK. So essentially, I think, uh. If
+
+368
+00:26:14.880 --> 00:26:17.910
+you list, uh, if the, let's say the viewers
+
+369
+00:26:17.910 --> 00:26:20.599
+have listened, uh, very carefully to what I said
+
+370
+00:26:20.599 --> 00:26:23.479
+before, you could sort of infer probably in my
+
+371
+00:26:23.479 --> 00:26:27.579
+answer already, but, um, I think it's interesting always
+
+372
+00:26:27.579 --> 00:26:29.839
+to make it more explicit so that your questions
+
+373
+00:26:29.839 --> 00:26:33.020
+really help. So essentially if you go back to
+
+374
+00:26:33.020 --> 00:26:40.229
+this. Um, FORMULATION I described, um, of Active inferences
+
+375
+00:26:40.229 --> 00:26:43.630
+this kind of cross-scale description and then a level
+
+376
+00:26:43.630 --> 00:26:47.790
+of organization requires a form of communication between uh
+
+377
+00:26:47.790 --> 00:26:52.750
+elements of the, of the system. And in order
+
+378
+00:26:52.750 --> 00:26:58.170
+for a, uh, let's say a larger scale of
+
+379
+00:26:58.219 --> 00:27:01.030
+organization to merge, there must be a certain degree
+
+380
+00:27:01.030 --> 00:27:04.819
+of alignment. Within the elements of the system. So
+
+381
+00:27:04.819 --> 00:27:11.390
+then the uh communication of affects essentially um Ends
+
+382
+00:27:11.390 --> 00:27:14.099
+up being the crucial, or what I called glue
+
+383
+00:27:14.099 --> 00:27:19.349
+before. Um. So the notion would be that Uh,
+
+384
+00:27:20.290 --> 00:27:24.349
+Our cells have learned to communicate with each other
+
+385
+00:27:24.349 --> 00:27:28.469
+in coherent ways. I mean, it goes wrong sometimes.
+
+386
+00:27:28.550 --> 00:27:31.170
+That's what we call uh cancer, right? So, uh,
+
+387
+00:27:31.189 --> 00:27:34.130
+tumors are forms of, uh, also forms of life,
+
+388
+00:27:34.829 --> 00:27:38.229
+but it just happens to be that they're. Um,
+
+389
+00:27:38.560 --> 00:27:43.819
+VALENCE, let's say, factor or tensor, uh, doesn't align
+
+390
+00:27:43.819 --> 00:27:48.300
+with the, uh, uh, the goals, uh, of the
+
+391
+00:27:48.300 --> 00:27:51.489
+larger system, right? So there's this in which they're
+
+392
+00:27:51.949 --> 00:27:57.180
+sort of like, uh, greedy, um. Uh, BEHAVIOR of
+
+393
+00:27:57.180 --> 00:28:00.140
+the, the tumor, which is also, I mean, fascinating
+
+394
+00:28:00.140 --> 00:28:02.719
+how, how it can organize itself at such large
+
+395
+00:28:02.719 --> 00:28:08.479
+scale. But it misaligns with the intentions of the
+
+396
+00:28:08.479 --> 00:28:10.920
+system as a whole, so you have, let's say
+
+397
+00:28:10.920 --> 00:28:15.579
+immune system developed to counteract this, and so. Uh,
+
+398
+00:28:15.599 --> 00:28:18.380
+IF we lift this to the societal level, um,
+
+399
+00:28:19.000 --> 00:28:23.699
+you can think of. And this degree of alignment
+
+400
+00:28:23.699 --> 00:28:27.780
+being crucial for a society, no matter how small,
+
+401
+00:28:28.020 --> 00:28:33.060
+to Be sort of uh working towards common goals
+
+402
+00:28:33.520 --> 00:28:39.739
+in the long. And And also competing, uh, internally,
+
+403
+00:28:40.040 --> 00:28:43.000
+right? So there's a sense in which, uh, humans
+
+404
+00:28:43.000 --> 00:28:47.949
+have always been competing with each other, um. And
+
+405
+00:28:47.949 --> 00:28:50.189
+also externally, of course. So there was, there were
+
+406
+00:28:50.189 --> 00:28:52.869
+times when it was much harder to, to get
+
+407
+00:28:52.869 --> 00:28:55.689
+your food on your plate, so to speak. So.
+
+408
+00:28:56.780 --> 00:29:02.170
+Um. Our cultures have have been. Let's say, built
+
+409
+00:29:02.170 --> 00:29:07.760
+around this kind of competitive modes, and Where you
+
+410
+00:29:07.760 --> 00:29:10.829
+have more, uh, let's say cooperation more internally and
+
+411
+00:29:10.829 --> 00:29:15.160
+uh competition more externally. Um, WE'VE been trying to
+
+412
+00:29:15.160 --> 00:29:17.709
+get, uh, uh, well, at least I believe we,
+
+413
+00:29:17.760 --> 00:29:21.719
+we've been trying to Build beyond that, right? To
+
+414
+00:29:21.719 --> 00:29:23.949
+think of human life as like one big family,
+
+415
+00:29:24.089 --> 00:29:29.099
+um, but this kind of, uh, Let's say local
+
+416
+00:29:29.099 --> 00:29:35.750
+selfishness of groups of individuals, a few others as
+
+417
+00:29:36.709 --> 00:29:40.810
+That's the enemies. It's, it's very, yeah, let's say
+
+418
+00:29:40.810 --> 00:29:45.979
+it's deeply encoded into our cultural uh heritage and
+
+419
+00:29:46.989 --> 00:29:50.189
+Mm, not for bad reasons. I mean, uh, I,
+
+420
+00:29:50.270 --> 00:29:53.040
+I was mentioning this notion of a tumor, right?
+
+421
+00:29:53.160 --> 00:29:56.859
+So if there's a small, it's a relatively small,
+
+422
+00:29:56.869 --> 00:30:01.550
+um, A subgroup that doesn't align with the goals
+
+423
+00:30:01.550 --> 00:30:06.270
+of the society as a whole that You need
+
+424
+00:30:06.270 --> 00:30:08.750
+an immune system, so to speak, to get rid
+
+425
+00:30:08.750 --> 00:30:16.719
+of this. Uh Let's say parasitical, uh, behavior or
+
+426
+00:30:16.719 --> 00:30:19.959
+like, uh, yeah, entities. I mean, that's what our
+
+427
+00:30:19.959 --> 00:30:22.760
+police uh supposed to be doing in a way,
+
+428
+00:30:22.859 --> 00:30:27.630
+right, in society. So, um, The police is an
+
+429
+00:30:27.630 --> 00:30:32.449
+interesting example of an institutionalized um version of this,
+
+430
+00:30:32.510 --> 00:30:34.890
+but in a way, we're all uh sort of
+
+431
+00:30:34.890 --> 00:30:40.540
+policing each other well, subconsciously. Um, WE look We
+
+432
+00:30:40.540 --> 00:30:44.540
+gauge to which extent other people's opinions are sort
+
+433
+00:30:44.540 --> 00:30:51.800
+of Um, let's say, Aligned with society as we
+
+434
+00:30:51.800 --> 00:30:55.359
+view it as individuals and You see a lot
+
+435
+00:30:55.359 --> 00:30:57.969
+of that in I know if you've been doom
+
+436
+00:30:57.969 --> 00:31:02.170
+scrolling the recent events on the news, but there's
+
+437
+00:31:02.170 --> 00:31:06.959
+all the time a sort of Yeah Yeah, let's
+
+438
+00:31:06.959 --> 00:31:15.560
+say Um, negative and positive. Uh, EVALUATION of, uh,
+
+439
+00:31:16.310 --> 00:31:20.489
+yeah, of other people's World models you could say
+
+440
+00:31:20.829 --> 00:31:26.599
+so. That's I mean, a very interesting and very,
+
+441
+00:31:26.880 --> 00:31:31.560
+I think, relevant, um, topic, especially when you get
+
+442
+00:31:31.560 --> 00:31:40.140
+political polarization and, and Of course, like cross-generational. CONFLICTS
+
+443
+00:31:40.479 --> 00:31:43.739
+that are essentially If let's say you have an
+
+444
+00:31:43.739 --> 00:31:47.099
+alien intelligence studying our species, it sort of looks
+
+445
+00:31:47.099 --> 00:31:50.839
+like swarm, uh, like different swarms, sort of, uh,
+
+446
+00:31:51.219 --> 00:31:56.790
+um. Competing for dominance in a in a sense
+
+447
+00:31:56.900 --> 00:32:03.000
+and War in that sense is a Unfortunate, let's
+
+448
+00:32:03.000 --> 00:32:08.069
+say heritage from our Our biological origins, I guess,
+
+449
+00:32:08.109 --> 00:32:12.989
+or yeah. I think, um. I hope we can
+
+450
+00:32:12.989 --> 00:32:15.349
+get rid of it, but I mean, uh, yeah,
+
+451
+00:32:15.390 --> 00:32:18.339
+it seems like. We have a long way ahead
+
+452
+00:32:18.339 --> 00:32:22.400
+of us, right? Um, BUT, yeah, I guess to
+
+453
+00:32:22.459 --> 00:32:24.369
+come back to your point on, uh, what is
+
+454
+00:32:24.369 --> 00:32:28.650
+the relevance of affect to cultural evolution, well, Essentially,
+
+455
+00:32:28.689 --> 00:32:32.569
+it's a way of linking the cultural and the
+
+456
+00:32:32.569 --> 00:32:37.790
+biological side of our um our uh You could
+
+457
+00:32:37.790 --> 00:32:41.949
+say learning processes. So there's something what we call
+
+458
+00:32:41.949 --> 00:32:49.069
+gene culture co-evolution, and yes, and This works through
+
+459
+00:32:49.069 --> 00:32:50.849
+all levels. I mean, I mentioned war, which is
+
+460
+00:32:50.849 --> 00:32:53.209
+sort of like an extreme example, but it's also,
+
+461
+00:32:53.319 --> 00:32:55.170
+let's say you had a perfect world that was
+
+462
+00:32:55.170 --> 00:32:59.050
+just peaceful. I don't know if we're going to
+
+463
+00:32:59.050 --> 00:33:01.449
+make it there, but let's say that we had
+
+464
+00:33:01.449 --> 00:33:05.770
+one, even then it would drive evolution because you
+
+465
+00:33:05.770 --> 00:33:10.130
+would have, let's say, partner selection based on things
+
+466
+00:33:10.130 --> 00:33:13.359
+that appeal to you, right? And there needs certain
+
+467
+00:33:13.359 --> 00:33:18.040
+alignment between Oh, in stable relationships, you have a
+
+468
+00:33:18.040 --> 00:33:21.459
+form of alignment. Or at the very least a
+
+469
+00:33:21.459 --> 00:33:26.290
+formal stable, uh. Uh, LET'S say if there's misalignment,
+
+470
+00:33:26.420 --> 00:33:28.660
+then the two models sort of need to fit
+
+471
+00:33:28.660 --> 00:33:31.579
+together like a jigsaw puzzle, so to speak, um.
+
+472
+00:33:32.890 --> 00:33:35.890
+I'm just saying that even if you cancel all
+
+473
+00:33:35.890 --> 00:33:40.910
+this like extreme examples, uh, our culture, the way
+
+474
+00:33:40.910 --> 00:33:43.920
+it evolves would still be connected to the biological
+
+475
+00:33:43.920 --> 00:33:47.050
+level as well. Uh, AND the effect is essentially
+
+476
+00:33:47.050 --> 00:33:52.630
+this connect, connecting piece, I would say. Yeah, and
+
+477
+00:33:52.630 --> 00:33:54.719
+then the emotional side is sort of like the
+
+478
+00:33:55.569 --> 00:33:58.849
+Let's say the perspective from the cultural level, um,
+
+479
+00:33:59.339 --> 00:34:03.589
+and the effects description is more the biological, uh,
+
+480
+00:34:04.250 --> 00:34:06.760
+perspective on the same phenomenon. Mhm
+
+481
+00:34:08.208 --> 00:34:12.518
+And and so from this approach, how do you
+
+482
+00:34:12.579 --> 00:34:17.618
+understand cumulative culture? What is cumulative culture exactly?
+
+483
+00:34:19.489 --> 00:34:27.429
+Yeah. And so there it's essentially a Uh phenomenon
+
+484
+00:34:27.429 --> 00:34:33.429
+of Let's say, uh, bootstrapping, uh, that, I don't
+
+485
+00:34:33.429 --> 00:34:35.600
+know how many people are familiar with the term
+
+486
+00:34:35.600 --> 00:34:38.860
+bootstrapping, but comes from this notion of pulling yourself
+
+487
+00:34:38.860 --> 00:34:42.080
+up by your own bootstraps, right? So we, um,
+
+488
+00:34:42.768 --> 00:34:49.030
+We've built our societies on. Um On the basis
+
+489
+00:34:49.030 --> 00:34:53.610
+of very fundamental biological, uh, needs, right, so we,
+
+490
+00:34:53.668 --> 00:34:58.350
+uh, sort of reminiscent of, um, uh, Maslow's pyramid
+
+491
+00:34:58.949 --> 00:35:03.770
+of needs, right. It's interesting because he thought of
+
+492
+00:35:03.770 --> 00:35:06.449
+it as a hierarchy, but within active inference it
+
+493
+00:35:06.449 --> 00:35:09.570
+becomes more like what we call a heterarchy, so
+
+494
+00:35:09.570 --> 00:35:15.090
+where there's no strict. There's no strict hierarchy within
+
+495
+00:35:15.090 --> 00:35:19.270
+this needs, sets of needs, but There's a sense
+
+496
+00:35:19.270 --> 00:35:24.040
+in which each of them builds on the Previous
+
+497
+00:35:24.040 --> 00:35:27.020
+one. I mean, I'm leaving the top, uh, I,
+
+498
+00:35:27.030 --> 00:35:28.479
+I can list them in a second, but the,
+
+499
+00:35:28.600 --> 00:35:31.030
+the top one is a little bit controversial, uh,
+
+500
+00:35:31.040 --> 00:35:34.610
+we Uh, but the bottom, it starts with biological
+
+501
+00:35:34.610 --> 00:35:37.229
+needs, right? So you can't, uh, well, if you,
+
+502
+00:35:37.350 --> 00:35:39.629
+if you can't keep your own body alive, then
+
+503
+00:35:39.629 --> 00:35:42.850
+there's not much culture to, to, um, to do.
+
+504
+00:35:43.550 --> 00:35:46.899
+Then if you, then you have the safety needs,
+
+505
+00:35:47.000 --> 00:35:49.459
+right? So that's sort of like safeguarding the biological
+
+506
+00:35:49.459 --> 00:35:53.020
+needs. Um, FROM there, you have the social, what
+
+507
+00:35:53.020 --> 00:35:57.129
+they call social needs or belonging needs, um. So
+
+508
+00:35:57.129 --> 00:35:58.770
+the idea is that once you are able to
+
+509
+00:35:58.770 --> 00:36:02.330
+safeguard biological needs, then you can start sort of
+
+510
+00:36:02.330 --> 00:36:06.610
+building. Safe space, social safe space. This a safe
+
+511
+00:36:06.610 --> 00:36:10.669
+space that's In a recursive sense helps you to
+
+512
+00:36:10.669 --> 00:36:13.350
+safeguard your biological needs, right? So there's this sort
+
+513
+00:36:13.350 --> 00:36:16.919
+of I think the notion of a pyramid is
+
+514
+00:36:16.919 --> 00:36:19.620
+a little bit misleading in this sense, but, um,
+
+515
+00:36:19.679 --> 00:36:24.360
+functionally it makes sense, um, from this point of
+
+516
+00:36:24.360 --> 00:36:27.919
+belonging. Like once you belong somewhere, uh, on top
+
+517
+00:36:27.919 --> 00:36:30.919
+of that you get the esteem needs, right? So
+
+518
+00:36:31.719 --> 00:36:35.469
+the sense of respect. That um within a social
+
+519
+00:36:36.050 --> 00:36:40.639
+group, um. Sense of, uh, essentially, if you don't
+
+520
+00:36:40.639 --> 00:36:45.209
+belong anywhere, you, you can't learn to monitor, um,
+
+521
+00:36:45.639 --> 00:36:48.899
+to which extent you're being, uh, respected within the
+
+522
+00:36:49.479 --> 00:36:52.399
+group. Anyway, so then, um, Maslow built on top
+
+523
+00:36:52.399 --> 00:36:55.709
+of that the notion of self-actualization, which is sort
+
+524
+00:36:55.709 --> 00:36:58.689
+of like his I mean, he had a very,
+
+525
+00:36:59.050 --> 00:37:03.310
+uh, let's say. Ivory tower kind of perspective on
+
+526
+00:37:03.310 --> 00:37:06.919
+this self-actualization, um, which is like in his mind,
+
+527
+00:37:07.030 --> 00:37:10.600
+only the greatest minds achieved this like, uh, Einstein,
+
+528
+00:37:10.729 --> 00:37:12.969
+or something like that, but I like to think
+
+529
+00:37:12.969 --> 00:37:15.409
+it more as like a generalized thing of like
+
+530
+00:37:15.409 --> 00:37:20.090
+um developing your career, you know, or developing your
+
+531
+00:37:20.169 --> 00:37:24.560
+um Uh, let's say your dreams as a, as
+
+532
+00:37:24.560 --> 00:37:29.149
+a person, um, so it's Something that, uh, on
+
+533
+00:37:29.149 --> 00:37:32.870
+the, on the human level, um, You could say
+
+534
+00:37:33.179 --> 00:37:37.540
+the capstone, uh, can be something like self-eviddencing, um.
+
+535
+00:37:38.439 --> 00:37:40.399
+And then if you make the capstone in that
+
+536
+00:37:40.399 --> 00:37:42.520
+sense more general, then you can extend it to
+
+537
+00:37:42.520 --> 00:37:44.919
+the way you describe animals as well, and where
+
+538
+00:37:44.919 --> 00:37:51.189
+the self-evidencing is a more, has less socio-cultural dimensions
+
+539
+00:37:51.189 --> 00:37:55.340
+or less social cultural, um, complexity, let's say, um.
+
+540
+00:37:56.679 --> 00:37:58.939
+To come back to your point of cumulative culture,
+
+541
+00:37:59.260 --> 00:38:02.620
+so that's important in terms of the distinction with
+
+542
+00:38:02.620 --> 00:38:08.669
+the other animals, right? So And the capacity. To
+
+543
+00:38:08.669 --> 00:38:13.439
+learn each other to, uh, sorry, to, to teach
+
+544
+00:38:13.439 --> 00:38:17.750
+each other to um teach the next generation, right?
+
+545
+00:38:17.840 --> 00:38:21.530
+So there's this sort of um recursive characteristic that's
+
+546
+00:38:22.419 --> 00:38:27.500
+Um I was mentioning before that we managed to
+
+547
+00:38:27.500 --> 00:38:31.260
+sort of bootstrap ourselves uh to this level, and
+
+548
+00:38:31.260 --> 00:38:34.219
+what's interesting is that, um, it relates to this
+
+549
+00:38:34.219 --> 00:38:38.520
+notion, I saw in your, your history, you, um,
+
+550
+00:38:38.979 --> 00:38:41.300
+interviewed quite a few people that work with complex
+
+551
+00:38:41.300 --> 00:38:45.719
+systems theory, um. And there's this notion in complex
+
+552
+00:38:45.719 --> 00:38:50.100
+systems theory of enslavement. So where a lower level,
+
+553
+00:38:50.199 --> 00:38:56.500
+um, let's say, Uh A more fundamental level of
+
+554
+00:38:56.500 --> 00:39:01.129
+organization is being enslaved by an um let's say
+
+555
+00:39:01.129 --> 00:39:03.949
+a level of organization that was built on top
+
+556
+00:39:03.949 --> 00:39:08.919
+of it and um It's very interesting because this
+
+557
+00:39:09.320 --> 00:39:15.889
+seems to have happened with emotions where We nowadays
+
+558
+00:39:15.889 --> 00:39:20.659
+we write stories. About, uh, different, let's say, uh,
+
+559
+00:39:20.679 --> 00:39:26.520
+emotional patterns and those driving our, uh, real-time biological
+
+560
+00:39:26.520 --> 00:39:31.219
+states, right? So, um, Cumulative culture in that sense
+
+561
+00:39:31.219 --> 00:39:36.729
+is a Um Process of building on top of
+
+562
+00:39:36.729 --> 00:39:41.919
+this more ancient uh functionality, but then in the
+
+563
+00:39:41.919 --> 00:39:46.520
+end, driving it into uh directions that are quite
+
+564
+00:39:46.520 --> 00:39:50.800
+atypical. I mean, a few examples are like Of
+
+565
+00:39:50.800 --> 00:39:55.889
+very extreme cases are, uh, like fasting practices, right?
+
+566
+00:39:56.040 --> 00:40:00.800
+So intentionally holding foods from your system to to
+
+567
+00:40:00.800 --> 00:40:03.500
+attain certain kinds of states, which is sort of
+
+568
+00:40:04.860 --> 00:40:07.280
+There's no, there are no animals that do this
+
+569
+00:40:07.280 --> 00:40:09.550
+on a culture like in a sort of like
+
+570
+00:40:09.550 --> 00:40:12.560
+group level, and it doesn't seem to make sense.
+
+571
+00:40:13.530 --> 00:40:16.250
+From, uh, well, from a biological standpoint, and I
+
+572
+00:40:16.250 --> 00:40:22.659
+reckon, um. But cultural practices have emerged to like
+
+573
+00:40:22.659 --> 00:40:26.360
+um support that those kinds of things and um
+
+574
+00:40:26.899 --> 00:40:29.459
+anyway, so in that sense cumulative culture because it
+
+575
+00:40:29.459 --> 00:40:31.979
+builds the generations uh built on top of each
+
+576
+00:40:31.979 --> 00:40:38.429
+other and uh able to transmit. Um Essentially the
+
+577
+00:40:39.050 --> 00:40:42.489
+know-how, uh, or like the intimate knowing of the
+
+578
+00:40:42.489 --> 00:40:48.310
+practices to next generations. Um. That's where things get
+
+579
+00:40:48.310 --> 00:40:51.870
+really interesting, and we can basically reach, um, let's
+
+580
+00:40:51.870 --> 00:40:57.080
+say, We can reach domains that are expressions of
+
+581
+00:40:57.080 --> 00:41:02.899
+life that are different from just biological evolution, right?
+
+582
+00:41:02.969 --> 00:41:06.169
+So that's why the gene culture co-evolution becomes really
+
+583
+00:41:06.169 --> 00:41:09.850
+important. Um, ANYWAY, so as I said before, there's
+
+584
+00:41:09.850 --> 00:41:12.669
+like entire books on most of the questions that
+
+585
+00:41:12.679 --> 00:41:15.949
+that you've asked, there's entire books to rewritten. Mhm,
+
+586
+00:41:17.350 --> 00:41:21.379
+uh, SO perhaps let's get here into an example
+
+587
+00:41:21.379 --> 00:41:25.939
+of, uh, some or, or a type of cultural
+
+588
+00:41:25.939 --> 00:41:30.540
+practice that you approach through active influence here just
+
+589
+00:41:30.540 --> 00:41:34.500
+for people to get perhaps an illustrative example of
+
+590
+00:41:34.500 --> 00:41:37.699
+what we're talking about so. Uh, IN the case
+
+591
+00:41:37.699 --> 00:41:42.080
+of religion, uh, tell us about how we can
+
+592
+00:41:42.080 --> 00:41:45.750
+understand religious practices and at a certain point there
+
+593
+00:41:45.750 --> 00:41:48.760
+you mentioned fasting, for example. I'm not saying that
+
+594
+00:41:48.770 --> 00:41:52.919
+that's always a form of religious practice, but we
+
+595
+00:41:52.919 --> 00:41:57.439
+see that in certain religious contexts, but how, how
+
+596
+00:41:57.439 --> 00:42:01.899
+we can understand religious practices in general as multi-scale
+
+597
+00:42:02.080 --> 00:42:03.620
+active inference.
+
+598
+00:42:04.739 --> 00:42:10.510
+Yes, and So it's, it's a very crucial piece
+
+599
+00:42:10.510 --> 00:42:14.830
+also, um, because I was mentioning, uh, distinction with
+
+600
+00:42:14.830 --> 00:42:19.310
+other animals, right, and, uh, researchers have written a
+
+601
+00:42:19.310 --> 00:42:23.350
+lot on, well, the expression of religion seems to
+
+602
+00:42:23.350 --> 00:42:28.790
+be, um, one of the let's say the easiest
+
+603
+00:42:29.250 --> 00:42:33.889
+uh distinctions to, to make. Um, THERE'S nothing, it
+
+604
+00:42:33.889 --> 00:42:36.530
+doesn't seem to be any kind of spiritual awareness
+
+605
+00:42:36.530 --> 00:42:41.590
+and, uh, in terms of like a shared practices
+
+606
+00:42:41.850 --> 00:42:47.810
+that uh other animals have. Um And religion, I
+
+607
+00:42:47.810 --> 00:42:49.850
+like to go back to the, let's say the
+
+608
+00:42:49.850 --> 00:42:54.290
+tribe, uh, religions, the, the ancient ones, uh, to
+
+609
+00:42:54.290 --> 00:42:56.770
+understand this and see how it relates to the
+
+610
+00:42:56.770 --> 00:43:02.540
+modern religions as well. Um. Because the tribe, uh,
+
+611
+00:43:03.020 --> 00:43:06.439
+let's say, understanding of religion is more focused on
+
+612
+00:43:07.659 --> 00:43:11.330
+Say worshiping, uh, the continuity of the ancestors, right?
+
+613
+00:43:11.419 --> 00:43:14.780
+So the um sense in which every tribe had
+
+614
+00:43:14.780 --> 00:43:20.399
+their own ancestral, uh, spirits that's the represent their,
+
+615
+00:43:20.489 --> 00:43:25.979
+uh, community and I was talking earlier about uh
+
+616
+00:43:25.979 --> 00:43:29.540
+people are that organized into bodies, right? uh AT
+
+617
+00:43:29.540 --> 00:43:33.239
+a larger scale and from the perspective from this
+
+618
+00:43:33.239 --> 00:43:36.959
+like cross, let's say from the scale agnostic perspective
+
+619
+00:43:36.959 --> 00:43:39.739
+of active inference, you could think of the tribe
+
+620
+00:43:39.739 --> 00:43:44.020
+gods literally representing uh the agents of the tribe
+
+621
+00:43:44.020 --> 00:43:48.080
+as a whole, uh, that they are um Basically
+
+622
+00:43:48.080 --> 00:43:52.320
+honoring the continuity of their, their tribe. Um, AND
+
+623
+00:43:52.320 --> 00:43:56.110
+in that sense, The narratives that they have and
+
+624
+00:43:56.110 --> 00:44:03.189
+share keep this. OK. Group, um, organized into a
+
+625
+00:44:03.189 --> 00:44:06.780
+stable, uh, well, organism at this as a larger
+
+626
+00:44:06.780 --> 00:44:10.840
+scale. Interesting there is that used to be tied
+
+627
+00:44:10.840 --> 00:44:15.239
+very strongly to biological. Uh, TIES, right? So, there
+
+628
+00:44:15.239 --> 00:44:18.760
+was this sort of alignment between notion of religion
+
+629
+00:44:18.760 --> 00:44:24.429
+and the biological organ level of organization. And then
+
+630
+00:44:24.429 --> 00:44:26.729
+the modern religions have sort of, well, let's say,
+
+631
+00:44:27.860 --> 00:44:32.510
+Not all modern religions, but, um, uh, certain, um,
+
+632
+00:44:32.600 --> 00:44:35.889
+religions have innovated on top of this by saying
+
+633
+00:44:35.889 --> 00:44:39.810
+that you can say convert, uh, to a religion.
+
+634
+00:44:40.669 --> 00:44:45.209
+And based on your individual. Perspective, which is a
+
+635
+00:44:45.209 --> 00:44:48.679
+very different. A type of organization, right, so you
+
+636
+00:44:48.679 --> 00:44:54.520
+get A sort of accumulation of Followers that is
+
+637
+00:44:54.520 --> 00:45:00.649
+not just biological um where Um, I mean, I,
+
+638
+00:45:00.729 --> 00:45:03.469
+I haven't talked about the content much, but, uh,
+
+639
+00:45:03.530 --> 00:45:06.570
+in the, the paper that you're referring to, or
+
+640
+00:45:06.570 --> 00:45:10.350
+actually it's a book chapter I wrote, um, with
+
+641
+00:45:10.350 --> 00:45:13.810
+Dinesh Hipolito. Who I think you have interviewed as
+
+642
+00:45:13.810 --> 00:45:14.780
+well in the previous,
+
+643
+00:45:15.649 --> 00:45:17.449
+I've on the show twice.
+
+644
+00:45:18.330 --> 00:45:23.879
+OK, nice, um. Anyway, so, um, We were talking
+
+645
+00:45:23.879 --> 00:45:26.620
+that, that uh chapter we are describing how um
+
+646
+00:45:27.040 --> 00:45:32.820
+the shared symbols, uh, actually that uh people have
+
+647
+00:45:33.080 --> 00:45:37.860
+actually get meaning from the fact that others are
+
+648
+00:45:38.479 --> 00:45:40.530
+using it in the same way. So there's a
+
+649
+00:45:40.530 --> 00:45:46.530
+sort of circular sense in which Um, religious activities,
+
+650
+00:45:46.969 --> 00:45:50.510
+uh, acquires meaning through the practice of, uh, other
+
+651
+00:45:50.510 --> 00:45:55.560
+agents in that sense. Um, IT'S not really, it's
+
+652
+00:45:55.560 --> 00:45:58.100
+sort of from a scientific perspective, it's not really
+
+653
+00:45:58.100 --> 00:46:00.699
+a question of like, is it true what they're
+
+654
+00:46:00.699 --> 00:46:03.739
+like the narratives, whether those narratives are true, but
+
+655
+00:46:03.739 --> 00:46:08.459
+the, because the uh meaning in practice is from
+
+656
+00:46:08.459 --> 00:46:13.979
+the shared, uh, Um, Let's say the shared um.
+
+657
+00:46:16.370 --> 00:46:19.409
+Let's say generative models we could consider them like
+
+658
+00:46:19.409 --> 00:46:24.050
+this, um, in which they live their social lives
+
+659
+00:46:24.050 --> 00:46:27.780
+right so It sort of gives you a nice
+
+660
+00:46:27.780 --> 00:46:32.919
+way to study those phenomena without being um. Without
+
+661
+00:46:32.919 --> 00:46:40.000
+sort of rejecting any specific religious beliefs, right? So
+
+662
+00:46:40.000 --> 00:46:41.879
+it gives you a way to study them without
+
+663
+00:46:41.879 --> 00:46:46.260
+um Making them, uh, yeah, I know, I think
+
+664
+00:46:46.260 --> 00:46:49.370
+that in the past, certain scientists have made the
+
+665
+00:46:49.370 --> 00:46:53.449
+mistake of being sort of condescendent towards, uh, religion.
+
+666
+00:46:53.780 --> 00:46:57.709
+Um, Well, there seems to be an obvious sense
+
+667
+00:46:57.709 --> 00:47:02.050
+in which At the very least, it has played
+
+668
+00:47:02.050 --> 00:47:05.050
+a crucial role in the emergence of societies, and
+
+669
+00:47:05.050 --> 00:47:07.879
+it seems to still play a crucial role in
+
+670
+00:47:09.060 --> 00:47:14.540
+Um, let's say spiritual, uh, experience as people report
+
+671
+00:47:14.889 --> 00:47:19.550
+around the world, um. And this, I think, deserves
+
+672
+00:47:19.550 --> 00:47:22.760
+proper attention, you know, there is a certain thirst.
+
+673
+00:47:23.649 --> 00:47:27.830
+Netherlands, we have a very secular, uh, approach to,
+
+674
+00:47:28.270 --> 00:47:34.540
+um, Yeah, basically to governance and, and all of
+
+675
+00:47:34.540 --> 00:47:36.500
+that, but at the same time, I mean, we
+
+676
+00:47:36.500 --> 00:47:40.959
+have, uh, we have political parties named after religions
+
+677
+00:47:41.340 --> 00:47:46.129
+in our uh system. Um, SO there is a
+
+678
+00:47:46.129 --> 00:47:48.290
+thirst, uh, people who are looking for some kind
+
+679
+00:47:48.290 --> 00:47:53.129
+of shared narrative that gives guidance, um, and a
+
+680
+00:47:53.129 --> 00:47:57.429
+lot on this moral level, right? So, um, I
+
+681
+00:47:57.429 --> 00:48:00.550
+believe that has a very crucial link to what
+
+682
+00:48:00.550 --> 00:48:03.429
+we talked about in terms of this alignment, sort
+
+683
+00:48:03.429 --> 00:48:07.879
+of core effect, essentially, so. Figuring out what is
+
+684
+00:48:07.879 --> 00:48:13.469
+the sort of shared cultural DNA of um uh
+
+685
+00:48:13.600 --> 00:48:20.169
+on the moral level, uh. And sharing this with
+
+686
+00:48:20.169 --> 00:48:26.050
+our offspring and our, well, specifics basically, um. That
+
+687
+00:48:26.050 --> 00:48:28.729
+has turned out pretty hard to do without some
+
+688
+00:48:28.729 --> 00:48:32.949
+kind of religious framing. We do try to do
+
+689
+00:48:32.949 --> 00:48:39.350
+this. There's like the secular, yeah. Um Let's say
+
+690
+00:48:39.350 --> 00:48:44.919
+organization of society also tries to. Um, SHARE certain
+
+691
+00:48:45.300 --> 00:48:51.320
+moral, uh, guidelines, but in practice, Uh, yeah, this
+
+692
+00:48:51.320 --> 00:48:53.040
+has turned out quite hard to do, right? The
+
+693
+00:48:53.040 --> 00:48:57.770
+multicultural society right now is sort of Um, yeah,
+
+694
+00:48:58.169 --> 00:49:01.290
+uh, under a lot of pressure, let's say. All
+
+695
+00:49:01.290 --> 00:49:04.729
+across the world, um. It's interesting to think of
+
+696
+00:49:04.729 --> 00:49:06.889
+the conflicts that are happening now also on this
+
+697
+00:49:06.889 --> 00:49:14.939
+level. I mean, And yeah, the Jewish, uh, and
+
+698
+00:49:14.939 --> 00:49:17.860
+Islamic religions both have a certain sense of uh
+
+699
+00:49:17.860 --> 00:49:25.080
+heritage, inheritance that is important. Um, AND, um, the
+
+700
+00:49:25.090 --> 00:49:28.229
+populations that are linked to this have, um, been
+
+701
+00:49:29.439 --> 00:49:31.860
+Let's say in tension with each other for many,
+
+702
+00:49:31.989 --> 00:49:35.600
+many, uh, well, thousands of years now, I guess,
+
+703
+00:49:35.760 --> 00:49:39.879
+um. And you see that actually throughout human history,
+
+704
+00:49:39.959 --> 00:49:45.439
+right? So different religions, um, Well, exert pressure on
+
+705
+00:49:45.439 --> 00:49:47.639
+each other. Uh, SO that's why I was talking
+
+706
+00:49:47.639 --> 00:49:51.199
+about it like from a some alien species were
+
+707
+00:49:51.199 --> 00:49:54.360
+studying us. It's like sort of, uh, a science
+
+708
+00:49:54.840 --> 00:49:58.909
+they would think of religions. As descriptions of this
+
+709
+00:49:59.250 --> 00:50:02.689
+kind of swarm intelligence, uh, uh, where there are
+
+710
+00:50:02.689 --> 00:50:05.850
+different swarms that are sort of, um, let's say
+
+711
+00:50:05.850 --> 00:50:11.899
+each swarm has different kind of, um, uh Let's
+
+712
+00:50:11.899 --> 00:50:15.300
+say different kind of practices and they can, those
+
+713
+00:50:15.300 --> 00:50:21.129
+practices can um conflict with each other. Um, ESPECIALLY
+
+714
+00:50:21.129 --> 00:50:26.969
+if there's a sense of, um, Let's say Adversarial,
+
+715
+00:50:27.750 --> 00:50:35.030
+uh. Uh, A sense of adversarial, um. This, yeah,
+
+716
+00:50:35.189 --> 00:50:40.669
+disposition toward each other. So there's um Uh Throughout
+
+717
+00:50:40.669 --> 00:50:44.110
+human history, a lot of efforts in different societies,
+
+718
+00:50:44.189 --> 00:50:47.500
+a lot of effort has been made to ban
+
+719
+00:50:47.500 --> 00:50:50.590
+certain religions or something like that, right? There's even
+
+720
+00:50:50.590 --> 00:50:54.969
+within, yeah, uh, Anyway, I guess what I'm saying
+
+721
+00:50:54.969 --> 00:50:59.350
+is that they're sort of uh Part of the
+
+722
+00:50:59.350 --> 00:51:04.250
+immune system in a way. Um, AND we, uh,
+
+723
+00:51:04.389 --> 00:51:08.030
+we have transitioned to the secular world, sort of
+
+724
+00:51:08.030 --> 00:51:14.399
+like a social, political Structuring, but um. What you
+
+725
+00:51:14.399 --> 00:51:20.790
+see still is that The religions are I don't
+
+726
+00:51:20.790 --> 00:51:24.270
+think they will disappear. So, uh, that's sort of
+
+727
+00:51:24.270 --> 00:51:26.870
+hope to create a purely secular society, I think
+
+728
+00:51:26.870 --> 00:51:31.000
+it's quite, yeah. Mistaken, but We have seen an
+
+729
+00:51:31.000 --> 00:51:37.360
+evolution and Um To bring it back to the
+
+730
+00:51:37.360 --> 00:51:40.800
+notion of gene culture coevolution. Uh, AND the notion
+
+731
+00:51:40.800 --> 00:51:45.479
+of bootstrapping, at least from my perspective. Uh, THE
+
+732
+00:51:45.479 --> 00:51:52.090
+simpler narratives that we inherited. I believe will have
+
+733
+00:51:52.090 --> 00:51:54.649
+to be replaced over time, but not as a
+
+734
+00:51:54.649 --> 00:52:00.379
+whole, like. Canceled, but More, um, let's say stripped
+
+735
+00:52:00.570 --> 00:52:03.709
+from certain details that were specific of the past,
+
+736
+00:52:04.100 --> 00:52:06.649
+um, and like made more to our liking as
+
+737
+00:52:06.649 --> 00:52:10.040
+a society as a whole, but that's Uh, hard
+
+738
+00:52:10.040 --> 00:52:11.760
+to do. It's sort of like determining uh on
+
+739
+00:52:11.760 --> 00:52:14.280
+the individual level, like determining what, what do you
+
+740
+00:52:14.280 --> 00:52:18.750
+want your life to look like, um. And then
+
+741
+00:52:18.750 --> 00:52:21.350
+as a society, you would have to sort of
+
+742
+00:52:21.350 --> 00:52:23.870
+converge to something like what do we want our
+
+743
+00:52:23.870 --> 00:52:28.659
+future world to look like? Um, AND I Um
+
+744
+00:52:29.899 --> 00:52:33.110
+I think that instead of Removing the all the
+
+745
+00:52:33.110 --> 00:52:35.790
+religions, we, we just have to make sure that
+
+746
+00:52:35.790 --> 00:52:39.139
+there's like a sort of alignment, uh. I mean,
+
+747
+00:52:39.300 --> 00:52:41.459
+yeah, something very basic that could they could start
+
+748
+00:52:41.459 --> 00:52:43.379
+with, uh, I mean, I know this is not
+
+749
+00:52:43.379 --> 00:52:46.979
+a social political podcast, but, uh, my suggestion would
+
+750
+00:52:46.979 --> 00:52:49.260
+be that we at least look at whether it's
+
+751
+00:52:49.260 --> 00:52:55.179
+aligns with our, uh, constitution. Unfortunately, there's like quite
+
+752
+00:52:55.179 --> 00:52:59.699
+a few components of this ancient, uh, uh, yeah,
+
+753
+00:52:59.820 --> 00:53:03.080
+religions or ancient scriptures, let's say, that are not
+
+754
+00:53:03.540 --> 00:53:07.889
+in line with our constitution at the moment. Uh,
+
+755
+00:53:08.229 --> 00:53:10.790
+I think that could be, uh, some place to
+
+756
+00:53:10.790 --> 00:53:15.020
+start, like make, make sure that, uh, There's an
+
+757
+00:53:15.020 --> 00:53:19.020
+alignment on that fundamental core effect level, right? Um,
+
+758
+00:53:20.040 --> 00:53:23.459
+Anyways, so there's interesting answers that people can formulate
+
+759
+00:53:23.459 --> 00:53:26.120
+if you have this sort of cross-scale perspective, and
+
+760
+00:53:26.120 --> 00:53:31.659
+religion isn't. Nice example where you Instead of just
+
+761
+00:53:31.659 --> 00:53:34.659
+blank having a blanket rejection, you can actually start
+
+762
+00:53:34.659 --> 00:53:38.840
+to formulate sort of ways forward. They're more hopeful.
+
+763
+00:53:38.939 --> 00:53:40.889
+Have you seen my eyes? Mhm.
+
+764
+00:53:42.389 --> 00:53:46.550
+Great so um getting now into the last part
+
+765
+00:53:46.550 --> 00:53:49.510
+of our conversation today, I would like to ask
+
+766
+00:53:49.510 --> 00:53:53.510
+you a little bit about phenomenology because that's also
+
+767
+00:53:53.510 --> 00:53:57.909
+something that you bring into your work and I
+
+768
+00:53:57.909 --> 00:54:02.570
+mean first of all uh how can we naturalize
+
+769
+00:54:02.820 --> 00:54:04.629
+something like phenomenology.
+
+770
+00:54:06.750 --> 00:54:10.510
+Yeah, this is a very uh difficult question that
+
+771
+00:54:10.510 --> 00:54:14.989
+uh I, I've contributed to some uh publications to
+
+772
+00:54:14.989 --> 00:54:18.149
+that, to try and start formulate an answer to
+
+773
+00:54:18.149 --> 00:54:22.479
+that question um. It relates quite closely to what
+
+774
+00:54:22.479 --> 00:54:26.800
+drove me originally to go in this direction. I
+
+775
+00:54:26.800 --> 00:54:30.510
+have a background in astrophysics, but also in cognitive
+
+776
+00:54:30.510 --> 00:54:36.080
+neuroscience, so that's And. In astrophysics, it's, I was
+
+777
+00:54:36.080 --> 00:54:38.610
+sort of missing the human dimension, so to speak,
+
+778
+00:54:38.820 --> 00:54:45.600
+um, and Uh, in cognitive neuroscience, I was hoping
+
+779
+00:54:45.600 --> 00:54:49.290
+to find To study essentially how it is possible
+
+780
+00:54:49.290 --> 00:54:53.979
+that um all these complex processes that are happening.
+
+781
+00:54:55.469 --> 00:54:59.080
+Give rise to a sense of, um, let's say,
+
+782
+00:54:59.439 --> 00:55:06.379
+uh, a sense of unified. Conscious experience. Like this
+
+783
+00:55:06.379 --> 00:55:09.100
+sort of focal points you could say. Uh, AND
+
+784
+00:55:09.100 --> 00:55:11.780
+that's where the phenomenology actually, uh, I, I didn't
+
+785
+00:55:11.780 --> 00:55:13.919
+know at the time there's a whole tradition focused
+
+786
+00:55:13.919 --> 00:55:17.790
+on that, but um, I've, yeah, of course. Work
+
+787
+00:55:17.790 --> 00:55:20.889
+enough with uh different kinds of philosophers to know,
+
+788
+00:55:21.100 --> 00:55:24.899
+to, um, to learn about the different authors that
+
+789
+00:55:24.899 --> 00:55:29.949
+have been written on this topic and um I
+
+790
+00:55:29.949 --> 00:55:32.110
+won't pretend to be a philosopher in that sense,
+
+791
+00:55:32.229 --> 00:55:36.530
+but the way I am. The way I view
+
+792
+00:55:36.530 --> 00:55:41.850
+it is relevant is that Uh The stream of
+
+793
+00:55:41.850 --> 00:55:45.070
+consciousness in my research has been a very useful,
+
+794
+00:55:45.729 --> 00:55:50.919
+um, Heuristic, let's say, on formulating models that ended
+
+795
+00:55:50.919 --> 00:55:54.239
+up panning out quite well. Um, SO in that
+
+796
+00:55:54.239 --> 00:55:57.320
+sense, it's a very intuitive. WAY I came at
+
+797
+00:55:57.320 --> 00:56:00.919
+this where uh I've tried, I've been trying to
+
+798
+00:56:00.919 --> 00:56:06.260
+understand my own conscious experience and And working out
+
+799
+00:56:06.260 --> 00:56:09.459
+models to understand that actually has led to a
+
+800
+00:56:09.459 --> 00:56:16.389
+lot of my um Uh, research that's Ask, uh,
+
+801
+00:56:16.469 --> 00:56:20.080
+let's say. A lot of connections with previous findings,
+
+802
+00:56:20.159 --> 00:56:23.719
+right? So, um, I, as a teenager, I was
+
+803
+00:56:23.719 --> 00:56:26.399
+trying to figure out why in certain kinds of
+
+804
+00:56:26.399 --> 00:56:31.159
+social settings, um, your expectations can, if it, let's
+
+805
+00:56:31.159 --> 00:56:34.260
+say the world departs from your expectations, you feel,
+
+806
+00:56:34.800 --> 00:56:38.959
+uh, good, let's say, a positive surprise. Any other
+
+807
+00:56:38.959 --> 00:56:41.909
+kinds of settings, uh, where it departs from your
+
+808
+00:56:41.909 --> 00:56:45.610
+expectations, you feel bad, like a disappointment, right? So,
+
+809
+00:56:46.439 --> 00:56:49.790
+um. I mean, I'm just saying that I used
+
+810
+00:56:49.790 --> 00:56:53.489
+my own phenomenology of my own conscious, consciousness, uh,
+
+811
+00:56:53.939 --> 00:56:58.620
+to Develop some of the early ideas about uh
+
+812
+00:56:58.620 --> 00:57:01.899
+effect. I sort of, um, I try to understand
+
+813
+00:57:02.379 --> 00:57:07.139
+the structure of my experience and And why, uh,
+
+814
+00:57:08.040 --> 00:57:11.209
+Let's say departures from expectations leads to positive versus
+
+815
+00:57:11.209 --> 00:57:16.790
+negative tailings. And, and in this case, Well, at
+
+816
+00:57:16.790 --> 00:57:18.590
+the time, I didn't have a formal like a
+
+817
+00:57:18.590 --> 00:57:21.310
+mathematical way to describe it, but uh I was,
+
+818
+00:57:21.510 --> 00:57:25.219
+I was developing that um based on this. NOTION
+
+819
+00:57:25.219 --> 00:57:29.280
+of uh The simplest model that we try to,
+
+820
+00:57:29.300 --> 00:57:33.580
+uh, let's say we have certain neural pat patterns
+
+821
+00:57:33.580 --> 00:57:38.419
+and that characterize this, uh, simplest model of our
+
+822
+00:57:38.419 --> 00:57:41.520
+environment, um, or at least the simplest model that
+
+823
+00:57:41.820 --> 00:57:47.169
+captures the relevant parts and Um, I was thinking
+
+824
+00:57:47.169 --> 00:57:51.659
+of it like. Action possibilities that bring us to
+
+825
+00:57:51.800 --> 00:57:56.780
+uh Let's say. That can realize our needs, um,
+
+826
+00:57:57.149 --> 00:58:00.989
+and then departures from, uh, expectations that's, let's say
+
+827
+00:58:00.989 --> 00:58:05.949
+shrink that space of action possibilities would be uh
+
+828
+00:58:05.949 --> 00:58:08.469
+more associated with negative effects, right? So let's say
+
+829
+00:58:08.469 --> 00:58:13.199
+you Uh, you lose your house because it's got,
+
+830
+00:58:13.540 --> 00:58:15.620
+uh, turned, well, there was like a fire or
+
+831
+00:58:15.620 --> 00:58:18.340
+something in your neighbor's house. Uh, WELL, then you
+
+832
+00:58:18.340 --> 00:58:23.060
+basically lose the, um, literally lose the action possibilities
+
+833
+00:58:23.060 --> 00:58:25.820
+that you used to have in that space, and
+
+834
+00:58:27.050 --> 00:58:30.429
+You The expansion is similar. I mean, let's say
+
+835
+00:58:30.429 --> 00:58:32.189
+you win the lottery or something, there's like a
+
+836
+00:58:32.189 --> 00:58:34.870
+lot of different simple examples you can think of.
+
+837
+00:58:35.189 --> 00:58:37.629
+I guess what I'm saying here is that um,
+
+838
+00:58:38.689 --> 00:58:40.649
+We are in a very unique position where we
+
+839
+00:58:40.649 --> 00:58:45.040
+are, uh, if you're studying consciousness, then you have
+
+840
+00:58:45.040 --> 00:58:47.530
+a very, you have a first person perspective on
+
+841
+00:58:47.530 --> 00:58:51.929
+this, right? So you Can You have a lot
+
+842
+00:58:51.929 --> 00:58:56.449
+of data about conscious experience because you are yourself
+
+843
+00:58:56.449 --> 00:59:00.550
+a human being, and And that's what I find
+
+844
+00:59:00.550 --> 00:59:04.439
+quite interesting is that if you That you can
+
+845
+00:59:04.439 --> 00:59:09.760
+start formulating generative models that represent That conscious experience
+
+846
+00:59:09.979 --> 00:59:15.870
+to some degree. Um I mean, I I do
+
+847
+00:59:15.870 --> 00:59:17.479
+want to add a note there of nuance where
+
+848
+00:59:18.030 --> 00:59:22.169
+um. There's interesting perspectives on like, uh, let's say
+
+849
+00:59:22.169 --> 00:59:24.969
+parallel streams of consciousness, that's sort of like, let's
+
+850
+00:59:24.969 --> 00:59:28.929
+say come together and then diverge again. So there
+
+851
+00:59:28.929 --> 00:59:32.830
+might not just one, maybe we're all just experiencing,
+
+852
+00:59:32.989 --> 00:59:37.350
+um, let's say simultaneous streams that sort of converge
+
+853
+00:59:37.350 --> 00:59:41.860
+and then diverge again, um, but you're only Locally
+
+854
+00:59:41.860 --> 00:59:44.300
+you only have access to one of them. Right?
+
+855
+00:59:44.580 --> 00:59:47.659
+So this could be one perspective, but within active
+
+856
+00:59:47.659 --> 00:59:49.939
+inference, you could describe that as well. So that's
+
+857
+00:59:49.939 --> 00:59:52.729
+sort of agnostic to that, in that extent. It
+
+858
+00:59:52.729 --> 00:59:56.320
+doesn't say. Let's say I formulate a generative model
+
+859
+00:59:56.320 --> 01:00:00.199
+that characterizes this particular stream of consciousness that I'm
+
+860
+01:00:00.199 --> 01:00:06.969
+currently on, um, It doesn't prove that I have
+
+861
+01:00:07.580 --> 01:00:11.550
+captured the entire phenomenology yet, right, because there could
+
+862
+01:00:11.550 --> 01:00:16.159
+be other parallel streams and that I, I know
+
+863
+01:00:16.159 --> 01:00:18.600
+how much you've read about the split brain research,
+
+864
+01:00:18.719 --> 01:00:22.409
+but I think that's pretty fascinating line of work
+
+865
+01:00:22.409 --> 01:00:26.800
+where um They implement, well, because of other reasons,
+
+866
+01:00:26.889 --> 01:00:29.850
+right? They literally split the brains of people and
+
+867
+01:00:29.850 --> 01:00:33.820
+then gave them different tasks and They basically gave
+
+868
+01:00:33.820 --> 01:00:37.459
+a task to the task to the right, uh,
+
+869
+01:00:38.000 --> 01:00:40.000
+half of the brain and then asked the left
+
+870
+01:00:40.000 --> 01:00:43.600
+half like why they did a certain action. Um,
+
+871
+01:00:44.340 --> 01:00:47.179
+And people would come up with an explanation, and
+
+872
+01:00:47.179 --> 01:00:52.040
+they would believe that this was A truthful description
+
+873
+01:00:52.040 --> 01:00:57.020
+of why they did something, OK. I think from
+
+874
+01:00:57.020 --> 01:01:02.860
+a phenomenological perspective it's super interesting because the Supposedly
+
+875
+01:01:02.860 --> 01:01:04.979
+if the right half of the brain had control
+
+876
+01:01:04.979 --> 01:01:09.550
+over the Your verbal expression, it would say something
+
+877
+01:01:09.550 --> 01:01:11.669
+else. And so it would just say, yeah, because
+
+878
+01:01:11.669 --> 01:01:16.040
+the experiment that gave the instruction and. Of course,
+
+879
+01:01:16.100 --> 01:01:18.439
+it's sort of like an unnatural example where you
+
+880
+01:01:18.439 --> 01:01:23.169
+split the biological system, um. And we also know
+
+881
+01:01:23.169 --> 01:01:26.649
+that over time this integration sort of returns, so
+
+882
+01:01:26.649 --> 01:01:28.530
+it was only like the first few weeks or
+
+883
+01:01:28.530 --> 01:01:33.750
+something after the operation, but Anyways, uh, what I'm
+
+884
+01:01:33.750 --> 01:01:37.189
+saying I suppose is that the phenomenological side is
+
+885
+01:01:37.189 --> 01:01:44.159
+very important, um, Data on um how to model
+
+886
+01:01:44.159 --> 01:01:48.780
+the system as a whole. It seems like Actually,
+
+887
+01:01:48.860 --> 01:01:51.159
+it has an interesting link to the notion of
+
+888
+01:01:51.270 --> 01:01:56.899
+uh spirituality and then also religion, um, because people
+
+889
+01:01:56.899 --> 01:02:00.580
+note that they have this sort of like oneness
+
+890
+01:02:00.580 --> 01:02:04.419
+experience, let's say, um, of being, sense of being
+
+891
+01:02:04.419 --> 01:02:11.729
+part of something greater than themselves, um. And It
+
+892
+01:02:11.729 --> 01:02:19.419
+seems like in our phenomenological Um History, let's say,
+
+893
+01:02:19.949 --> 01:02:21.919
+well, at least the descriptions that people have given
+
+894
+01:02:21.919 --> 01:02:25.800
+of experience and this sort of thirst for being
+
+895
+01:02:25.800 --> 01:02:31.530
+part of something greater seems to drive. Um, ARE,
+
+896
+01:02:31.770 --> 01:02:38.959
+are, uh. Let's say our self-organization into larger Being
+
+897
+01:02:38.959 --> 01:02:44.600
+a larger whole together. Um, ANYWAY, so this is
+
+898
+01:02:44.600 --> 01:02:48.110
+like a long, long answer again but uh Yeah,
+
+899
+01:02:48.229 --> 01:02:51.989
+we can go in the phenomenology of uh an
+
+900
+01:02:51.989 --> 01:02:55.149
+interesting part of my research is focusing on this
+
+901
+01:02:55.149 --> 01:02:59.750
+notion of empathy. And you have affective empathy and
+
+902
+01:02:59.889 --> 01:03:02.439
+uh what you call affective empathy and cognitive empathy,
+
+903
+01:03:02.889 --> 01:03:06.739
+right, so um Affective empathy is more the sort
+
+904
+01:03:06.739 --> 01:03:12.500
+of like reflexive, uh, where you automatically experience the
+
+905
+01:03:12.500 --> 01:03:17.780
+affective state of another uh person and, and cognitive
+
+906
+01:03:17.780 --> 01:03:20.979
+empathy is more like where you Infer like a,
+
+907
+01:03:22.060 --> 01:03:25.070
+let's say some kind of reasoning process of how
+
+908
+01:03:25.070 --> 01:03:29.979
+a person might feel in a situation and And
+
+909
+01:03:29.979 --> 01:03:33.300
+this is a very important component, uh, again, where
+
+910
+01:03:33.300 --> 01:03:37.939
+the phenomenology becomes like part of the story because,
+
+911
+01:03:37.969 --> 01:03:43.649
+for example, to Empathize with a, uh, another animal,
+
+912
+01:03:44.090 --> 01:03:47.739
+right, that's not a human, and It sort of
+
+913
+01:03:48.199 --> 01:03:52.060
+implies that they have this. Well, some form of
+
+914
+01:03:52.060 --> 01:03:57.310
+experience, so, and. And so, yeah, anyway, so conscious
+
+915
+01:03:57.310 --> 01:04:00.489
+of, well, let's say our awareness of this, you
+
+916
+01:04:00.489 --> 01:04:03.149
+know, like what it means to be conscious and
+
+917
+01:04:03.149 --> 01:04:07.360
+the phenomenology of this, and ends up playing a
+
+918
+01:04:07.360 --> 01:04:12.169
+big role in all kinds of of lines of
+
+919
+01:04:12.169 --> 01:04:18.899
+research and decision making across society, so. Um, I
+
+920
+01:04:18.899 --> 01:04:21.620
+suppose there your answer, uh sorry, a question to
+
+921
+01:04:21.620 --> 01:04:27.560
+your Uh A follow-up question to your earlier one.
+
+922
+01:04:28.399 --> 01:04:31.239
+We basically focus on the applications, right? So the,
+
+923
+01:04:31.719 --> 01:04:35.439
+what is the use of studying phenomenology. Um, SO
+
+924
+01:04:35.439 --> 01:04:40.179
+that's, that's just like an Active empress being a
+
+925
+01:04:40.780 --> 01:04:46.820
+background in this case, more right and Um, Quite
+
+926
+01:04:46.820 --> 01:04:49.479
+an important one when you get to the details.
+
+927
+01:04:49.989 --> 01:04:52.219
+Let's say you want to know whether an application
+
+928
+01:04:52.219 --> 01:04:59.310
+you're developing is experienced as. Smooth, fluent, um, then
+
+929
+01:04:59.310 --> 01:05:04.000
+you would actually be. You won't want to have
+
+930
+01:05:04.000 --> 01:05:06.639
+an accurate model of the user experience in that
+
+931
+01:05:06.639 --> 01:05:10.800
+case, right? Um, SO not just of their biological
+
+932
+01:05:10.800 --> 01:05:13.360
+substrate, so to speak, uh, but of the system
+
+933
+01:05:13.360 --> 01:05:14.899
+as a whole and how it's sort of like
+
+934
+01:05:15.280 --> 01:05:17.879
+in the end comes together in their experience. Um,
+
+935
+01:05:18.860 --> 01:05:24.879
+ANYWAY, so. Modeling those aspects, there's an obvious. Universal
+
+936
+01:05:24.879 --> 01:05:29.120
+benefit to that and to minimize suffering, let's say,
+
+937
+01:05:29.159 --> 01:05:32.909
+and to maximize, uh, yeah, the fluency of, uh,
+
+938
+01:05:32.959 --> 01:05:33.379
+experience.
+
+939
+01:05:35.800 --> 01:05:39.320
+So, uh, just before we go then, uh, would
+
+940
+01:05:39.320 --> 01:05:43.120
+you like to tell people perhaps what would be
+
+941
+01:05:43.120 --> 01:05:46.360
+some of your future research topics? I mean what
+
+942
+01:05:46.360 --> 01:05:50.760
+are you interested in studying at the moment and
+
+943
+01:05:50.760 --> 01:05:54.120
+particularly after your PhD potentially?
+
+944
+01:05:55.719 --> 01:06:02.760
+Mhm Yeah, so Uh, I already mentioned, uh, actually,
+
+945
+01:06:02.919 --> 01:06:07.580
+yeah, just now I mentioned the Potential for developing
+
+946
+01:06:07.889 --> 01:06:12.379
+applications, let's say, um, and from an early stage
+
+947
+01:06:12.379 --> 01:06:15.860
+in my career I've already done some business activities.
+
+948
+01:06:15.979 --> 01:06:19.719
+I believe that uh to Make sure that the
+
+949
+01:06:19.719 --> 01:06:23.239
+academic research doesn't end up on the shelves. We
+
+950
+01:06:23.239 --> 01:06:28.719
+really need to have more hybrids, researchers that are
+
+951
+01:06:28.719 --> 01:06:34.330
+doing academic work, but also um developing applications and
+
+952
+01:06:34.330 --> 01:06:40.330
+um Let's say not just doing some consultancy on
+
+953
+01:06:40.330 --> 01:06:45.979
+the side, but actually sort of like helping. Businesses
+
+954
+01:06:45.979 --> 01:06:51.659
+or developing their own businesses through And Let's say
+
+955
+01:06:51.659 --> 01:06:56.129
+be a To make an integra, uh, let's say
+
+956
+01:06:56.129 --> 01:06:59.840
+in a positive impact in the world, it's The
+
+957
+01:06:59.840 --> 01:07:03.000
+danger is it gets sort of into just making
+
+958
+01:07:03.000 --> 01:07:07.489
+profit or something like that, or Uh, just trying
+
+959
+01:07:07.489 --> 01:07:13.590
+to monopolize certain tech technology, um, and I have
+
+960
+01:07:13.590 --> 01:07:18.830
+in my career I've benefited extremely from the open
+
+961
+01:07:18.830 --> 01:07:22.709
+source community, so like I mean obvious examples are
+
+962
+01:07:22.709 --> 01:07:25.590
+Python and everything that's been derived from it. I
+
+963
+01:07:25.590 --> 01:07:28.750
+actually was born in the Netherlands, Python and the
+
+964
+01:07:28.750 --> 01:07:33.169
+language and Many other aspects from the, let's say,
+
+965
+01:07:33.209 --> 01:07:37.330
+the Google ecosystem, you know, not everything is open
+
+966
+01:07:37.330 --> 01:07:41.479
+source, but still they have, I mean. Let's say
+
+967
+01:07:41.479 --> 01:07:46.149
+they have uh Completed capitalism to the extent that
+
+968
+01:07:46.149 --> 01:07:48.250
+they can give back a little bit, I think,
+
+969
+01:07:48.270 --> 01:07:53.429
+um. And We need more bridges in a sense.
+
+970
+01:07:53.439 --> 01:07:56.040
+So instead of people just getting sort of absorbed
+
+971
+01:07:56.040 --> 01:08:01.290
+into proprietary companies, we We need bridges that I
+
+972
+01:08:01.290 --> 01:08:05.649
+also have this sort of um Open source oriented,
+
+973
+01:08:06.139 --> 01:08:11.649
+uh, approach that many academics like to take. Now
+
+974
+01:08:11.649 --> 01:08:15.760
+it's very split, right, so, um. It's getting, I'd
+
+975
+01:08:15.760 --> 01:08:18.029
+like to believe it's get, has gotten better, um,
+
+976
+01:08:18.040 --> 01:08:21.160
+that's still a lot of work to do, um.
+
+977
+01:08:21.839 --> 01:08:25.520
+I like to develop applications of this kind, kind
+
+978
+01:08:25.520 --> 01:08:30.779
+of research that Include this kind of computational work
+
+979
+01:08:30.779 --> 01:08:35.189
+that I've been doing to make um Let's say
+
+980
+01:08:35.189 --> 01:08:42.377
+health applications. Um SO I've invested time and energy
+
+981
+01:08:42.377 --> 01:08:47.139
+in um developing models of this affective states that
+
+982
+01:08:47.139 --> 01:08:53.258
+connected biological uh data, biometric data, um, with people's
+
+983
+01:08:53.258 --> 01:09:00.040
+daily life, uh, their experience, and This has tremendous
+
+984
+01:09:00.040 --> 01:09:05.740
+uh implications for, let's say, health, uh, uh, monitoring
+
+985
+01:09:05.879 --> 01:09:09.959
+of um vulnerable groups. So that will be sort
+
+986
+01:09:09.959 --> 01:09:13.809
+of like on, well, let's call it the Um,
+
+987
+01:09:13.908 --> 01:09:21.040
+damage reduction sites. So that's an obvious uh application.
+
+988
+01:09:21.240 --> 01:09:25.549
+There's also the more general uh benefits. So just
+
+989
+01:09:25.549 --> 01:09:28.450
+helping people to live healthier lives or lives that's
+
+990
+01:09:29.540 --> 01:09:32.810
+Uh, let's say, achieve a better cross-scale, uh, fit,
+
+991
+01:09:33.060 --> 01:09:36.779
+so to speak. Um, SO I hope there's this
+
+992
+01:09:36.779 --> 01:09:40.220
+notion what we call tugging. So there's, um, often
+
+993
+01:09:40.220 --> 01:09:44.680
+dynamical systems, multi-scale systems, you can't really change them,
+
+994
+01:09:45.220 --> 01:09:47.500
+like just giving in an instruction, and then you're
+
+995
+01:09:47.500 --> 01:09:50.899
+better, you know. You just actually it works much
+
+996
+01:09:50.899 --> 01:09:56.009
+better if you get sort of targeted, um. Let's
+
+997
+01:09:56.009 --> 01:10:00.439
+say targeted. Uh, PUSHES, little pushes that help you
+
+998
+01:10:00.439 --> 01:10:05.399
+to uh find uh Let's say, a way to
+
+999
+01:10:05.399 --> 01:10:08.060
+change your structure of your daily life that fits
+
+1000
+01:10:08.060 --> 01:10:11.279
+better, right? So, uh, this feedback to your own
+
+1001
+01:10:11.279 --> 01:10:15.859
+experience, human experience is very important there. Um Because
+
+1002
+01:10:15.859 --> 01:10:18.430
+what I just described could very quickly become sort
+
+1003
+01:10:18.430 --> 01:10:20.830
+of like a big brother is watching you kind
+
+1004
+01:10:20.830 --> 01:10:25.529
+of a situation, um, but yeah, anyway, so the,
+
+1005
+01:10:25.870 --> 01:10:28.350
+the models I, I described, they're quite lightweight. They
+
+1006
+01:10:28.350 --> 01:10:32.910
+can be locally deployed often, so you could make
+
+1007
+01:10:32.910 --> 01:10:36.069
+them completely private, right? So there's people can protect
+
+1008
+01:10:36.069 --> 01:10:43.649
+their privacy. Well, um, I mean, within this. Let's
+
+1009
+01:10:43.649 --> 01:10:47.629
+say the constraints that they That suit their use
+
+1010
+01:10:47.629 --> 01:10:50.470
+case, right? So there's, if there's larger risks, then
+
+1011
+01:10:50.470 --> 01:10:53.509
+people can choose to be more transparent towards their
+
+1012
+01:10:53.509 --> 01:10:58.660
+doctor, psychiatrist, something like that, and Anyway, so that's
+
+1013
+01:10:58.660 --> 01:11:04.220
+in health applications. Or, yeah, there's different ways to
+
+1014
+01:11:04.220 --> 01:11:06.000
+go at this, right? So you can go more
+
+1015
+01:11:06.000 --> 01:11:10.560
+from the general population, um. And like fitness and
+
+1016
+01:11:10.560 --> 01:11:13.839
+health, but you can also go into the medical
+
+1017
+01:11:13.839 --> 01:11:21.069
+area. Essentially improving the user experience but also I
+
+1018
+01:11:21.069 --> 01:11:24.950
+mean, we know that in a lot of institutions,
+
+1019
+01:11:25.189 --> 01:11:30.140
+uh, the There's a lot of pressure on the,
+
+1020
+01:11:30.709 --> 01:11:33.600
+well, let's say doctors in hospitals you have doctors,
+
+1021
+01:11:33.680 --> 01:11:40.390
+surgeons, They actually sort of get Um, so much
+
+1022
+01:11:40.390 --> 01:11:43.069
+pressure that then they sort of have to be
+
+1023
+01:11:43.069 --> 01:11:47.330
+replaced, and we're not being very um Yeah, let's
+
+1024
+01:11:47.330 --> 01:11:51.410
+say, um, we're just exerting pressure without having like
+
+1025
+01:11:51.410 --> 01:11:55.049
+a way to, uh, correct along the way, um.
+
+1026
+01:11:57.129 --> 01:11:59.859
+Of course they tried to, but oftentimes there's a
+
+1027
+01:11:59.859 --> 01:12:02.839
+certain way in which I mean, burnout has been
+
+1028
+01:12:02.839 --> 01:12:07.959
+accumulating so often only when it goes. Uh, THINGS
+
+1029
+01:12:07.959 --> 01:12:10.750
+really go wrong, so to speak, we start to
+
+1030
+01:12:10.750 --> 01:12:14.640
+attribute resources, um, from a, if you translate this
+
+1031
+01:12:14.640 --> 01:12:17.040
+back to where we started, it's like a cell,
+
+1032
+01:12:17.160 --> 01:12:19.600
+uh, when the cell is already almost about to
+
+1033
+01:12:19.600 --> 01:12:22.299
+collapse and then it's, uh, you start to bring
+
+1034
+01:12:22.299 --> 01:12:25.060
+some, in some resources to care for them. Um,
+
+1035
+01:12:26.000 --> 01:12:29.620
+WHAT I'm talking about is essentially you could I
+
+1036
+01:12:29.620 --> 01:12:33.109
+have more like a preventive healthcare, so mental health
+
+1037
+01:12:33.109 --> 01:12:36.470
+would be more like a general, like a universal.
+
+1038
+01:12:38.120 --> 01:12:46.370
+Uh Service that everybody is receiving instead of. Um,
+
+1039
+01:12:46.629 --> 01:12:49.549
+TRYING to help people after things went, uh, totally,
+
+1040
+01:12:49.910 --> 01:12:53.109
+totally escalated. That will be some things I would
+
+1041
+01:12:53.109 --> 01:12:57.270
+be focusing on, um. Anyway, so you can apply
+
+1042
+01:12:57.270 --> 01:12:59.870
+this to different levels of description, so this notion
+
+1043
+01:12:59.870 --> 01:13:07.149
+of Creating more resilient systems uh by Having these
+
+1044
+01:13:07.149 --> 01:13:11.770
+adaptive models that cross uh incorporate these cross-scale dynamics
+
+1045
+01:13:11.990 --> 01:13:15.740
+that go down from individuals to Let's say companies
+
+1046
+01:13:17.270 --> 01:13:23.660
+to entire societies. Um Incorporating the social networks, you
+
+1047
+01:13:23.660 --> 01:13:30.830
+could essentially help governance. There's applications. Uh, I have,
+
+1048
+01:13:30.990 --> 01:13:35.029
+I've not read, I haven't done it directly, but
+
+1049
+01:13:35.029 --> 01:13:40.419
+um, There's obvious applications as well in monitoring um
+
+1050
+01:13:41.000 --> 01:13:46.100
+crime, let's say, or yeah, detecting crime networks, um,
+
+1051
+01:13:46.540 --> 01:13:50.729
+and sort of In a privacy sensitive way, so
+
+1052
+01:13:50.729 --> 01:13:54.810
+you Um, make sure you don't end up being
+
+1053
+01:13:54.810 --> 01:13:58.529
+like um. End up in the big, big brother
+
+1054
+01:13:58.529 --> 01:14:01.089
+is watching you scenario, right? So you, you sort
+
+1055
+01:14:01.089 --> 01:14:04.129
+of would have to locally balance the risks and
+
+1056
+01:14:04.129 --> 01:14:10.549
+the privacy constraints of individuals. Um Anyways, so those
+
+1057
+01:14:10.549 --> 01:14:14.890
+are, those are like the Interesting applications, but I've
+
+1058
+01:14:14.890 --> 01:14:17.490
+stayed away from those, uh, because they're a little
+
+1059
+01:14:17.490 --> 01:14:24.160
+bit too, mm, let's say. Uh I, I, there's
+
+1060
+01:14:24.160 --> 01:14:28.339
+a Dutch term for this, but essentially, They're too
+
+1061
+01:14:28.339 --> 01:14:32.000
+hot to touch from, you know, like those security,
+
+1062
+01:14:32.060 --> 01:14:36.029
+uh, applications, um. And the issue is also that
+
+1063
+01:14:36.169 --> 01:14:38.629
+I like to keep things open source and obviously
+
+1064
+01:14:38.959 --> 01:14:41.490
+once you start getting into those topics, then the
+
+1065
+01:14:41.490 --> 01:14:43.850
+government will ask you to keep your things.
+
+1066
+01:14:45.569 --> 01:14:46.169
+Yeah, yeah,
+
+1067
+01:14:46.290 --> 01:14:50.359
+I get. Yeah. Anyways, so I think there's uh
+
+1068
+01:14:51.040 --> 01:14:53.160
+interesting applications there, but I, yeah, I can't, I
+
+1069
+01:14:53.160 --> 01:14:56.060
+can't go into that third direction um without having
+
+1070
+01:14:56.060 --> 01:14:59.439
+to lock myself. Well, not, it won't be a
+
+1071
+01:14:59.439 --> 01:15:01.950
+paywall, but it will be like uh, yeah, some
+
+1072
+01:15:01.950 --> 01:15:04.200
+kind of level of secrecy that I think would
+
+1073
+01:15:04.200 --> 01:15:09.279
+be best for the research community. So yeah, I
+
+1074
+01:15:09.279 --> 01:15:13.509
+haven't figured out that, that trade-off yet. That's why
+
+1075
+01:15:13.509 --> 01:15:15.240
+for now, it will be mostly the fitness and
+
+1076
+01:15:15.240 --> 01:15:20.330
+health uh direction that The most direct applications of
+
+1077
+01:15:20.330 --> 01:15:24.520
+my work. I mean, I also do. Uh, THINGS
+
+1078
+01:15:24.520 --> 01:15:31.569
+in um. Let's say, content generation, so integrating um
+
+1079
+01:15:31.939 --> 01:15:39.600
+these large language models. Into um. Dynamical systems that
+
+1080
+01:15:39.600 --> 01:15:45.680
+can help content generators to Let's say, increase engagement
+
+1081
+01:15:45.680 --> 01:15:49.580
+with their, um, with their content, um, which can,
+
+1082
+01:15:49.669 --> 01:15:53.740
+by the way, include podcasts like yours. Um, BUT
+
+1083
+01:15:53.740 --> 01:15:57.700
+that's That's more like uh something I, let's say
+
+1084
+01:15:57.700 --> 01:16:01.379
+I like to do in addition, it's more. Like
+
+1085
+01:16:01.379 --> 01:16:05.109
+a side gig, so to speak. You think uh
+
+1086
+01:16:06.390 --> 01:16:08.990
+Let's say, I was talking about health, right, which
+
+1087
+01:16:08.990 --> 01:16:14.470
+is important but fun or let's say education, uh,
+
+1088
+01:16:14.549 --> 01:16:18.689
+yeah, it's equally important, uh, in my experience, so
+
+1089
+01:16:20.310 --> 01:16:22.390
+I guess if you, yeah, if you summarize it,
+
+1090
+01:16:22.430 --> 01:16:25.930
+it would be like health, education, and entertainment. Those
+
+1091
+01:16:25.930 --> 01:16:28.950
+would be the fields where I'd like to contribute.
+
+1092
+01:16:30.350 --> 01:16:33.959
+Great, and by the way, where can people find
+
+1093
+01:16:33.959 --> 01:16:35.529
+you on the Internet?
+
+1094
+01:16:37.740 --> 01:16:44.770
+Um, WELL, there's my website, CSR.com. Um, I Uh,
+
+1095
+01:16:44.850 --> 01:16:49.529
+I'm currently in this, um, final process, uh, wrapping
+
+1096
+01:16:49.529 --> 01:16:54.169
+up my thesis work. Um, SO the website is
+
+1097
+01:16:54.169 --> 01:16:57.649
+currently, I mean, contains references to my publications and
+
+1098
+01:16:57.649 --> 01:17:00.669
+all of that. So my Google, Google Scholar profile
+
+1099
+01:17:01.029 --> 01:17:06.540
+that barely shows my, uh, recent publications. Um, As
+
+1100
+01:17:06.540 --> 01:17:11.500
+I said, like, um, It's called the PC work.
+
+1101
+01:17:12.149 --> 01:17:17.740
+Essentially, as a, yeah. It's currently taking my um.
+
+1102
+01:17:18.709 --> 01:17:21.819
+Most of my time to, to finalize this. Um,
+
+1103
+01:17:21.830 --> 01:17:24.240
+BUT CSPress.com will basically be the place where I
+
+1104
+01:17:24.240 --> 01:17:26.750
+would update uh in the future.
+
+1105
+01:17:28.549 --> 01:17:32.589
+Great. So, Casper, thank you so much again for
+
+1106
+01:17:32.589 --> 01:17:34.490
+taking the time to come on the show. It's
+
+1107
+01:17:34.490 --> 01:17:38.479
+been a real pleasure to talk to you. Thank
+
+1108
+01:17:38.479 --> 01:17:42.500
+you. Hi guys, thank you for watching this interview
+
+1109
+01:17:42.500 --> 01:17:44.640
+until the end. If you liked it, please share
+
+1110
+01:17:44.640 --> 01:17:47.120
+it, leave a like and hit the subscription button.
+
+1111
+01:17:47.569 --> 01:17:49.759
+The show is brought to you by Enlights Learning
+
+1112
+01:17:49.759 --> 01:17:53.720
+and Development done differently. Check their website at enlights.com
+
+1113
+01:17:53.930 --> 01:17:57.450
+and also please consider supporting the show on Patreon
+
+1114
+01:17:57.450 --> 01:18:00.069
+or PayPal. I would also like to give a
+
+1115
+01:18:00.069 --> 01:18:02.729
+huge thank you to my main patrons and PayPal
+
+1116
+01:18:02.729 --> 01:18:07.330
+supporters, Perergo Larsson, Jerry Mulleran, Frederick Sundo, Bernard Seyaz
+
+1117
+01:18:07.330 --> 01:18:10.649
+Olaf, Alex, Adam Cassel, Matthew Whittingberrd, Arnaud Wolff, Tim
+
+1118
+01:18:10.649 --> 01:18:14.279
+Hollis, Eric Elena, John Connors, Philip Forst Connolly. Then
+
+1119
+01:18:14.279 --> 01:18:18.040
+Dmitri Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield,
+
+1120
+01:18:18.200 --> 01:18:22.450
+Governor, Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoo,
+
+1121
+01:18:22.669 --> 01:18:26.419
+and Hal Herzognun, Machel Jonathan Labran, John Yardston, and
+
+1122
+01:18:26.419 --> 01:18:30.000
+Samuel Curric Hines, Mark Smith, John Ware, Tom Hammel,
+
+1123
+01:18:30.120 --> 01:18:34.160
+Sardusran, David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego
+
+1124
+01:18:34.160 --> 01:18:38.479
+Londono Correa. Yannik Punter DaRosmani, Charlotte Blis Nicole Barbaro,
+
+1125
+01:18:38.549 --> 01:18:42.580
+Adam Hunt, Pavlostazevski, Alekbaka Madison, Gary G. Alman, Semov,
+
+1126
+01:18:42.700 --> 01:18:46.709
+Zal Adrian Yei Poltontin, John Barboza, Julian Price, Edward
+
+1127
+01:18:46.709 --> 01:18:51.439
+Hall, Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pancortezus
+
+1128
+01:18:51.439 --> 01:18:55.229
+Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith, and
+
+1129
+01:18:55.229 --> 01:18:59.660
+Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke
+
+1130
+01:18:59.660 --> 01:19:04.399
+Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David Williams,
+
+1131
+01:19:04.540 --> 01:19:08.649
+Dio Costa, Anton Ericsson, Charles Murray, Alex Shaw, Marie
+
+1132
+01:19:08.649 --> 01:19:12.899
+Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Jr.
+
+1133
+01:19:13.129 --> 01:19:17.729
+Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy,
+
+1134
+01:19:17.839 --> 01:19:22.399
+Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel,
+
+1135
+01:19:22.500 --> 01:19:26.939
+Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin
+
+1136
+01:19:26.939 --> 01:19:31.680
+Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman.
+
+1137
+01:19:32.339 --> 01:19:36.299
+George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler,
+
+1138
+01:19:36.620 --> 01:19:43.700
+Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular,
+
+1139
+01:19:43.859 --> 01:19:48.500
+Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean
+
+1140
+01:19:48.770 --> 01:19:52.830
+Nelson, Mike Levin, and Jos Necht. A special thanks
+
+1141
+01:19:52.830 --> 01:19:55.790
+to my producers Iar Webb, Jim Frank Lucas Stink,
+
+1142
+01:19:55.910 --> 01:20:00.310
+Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull,
+
+1143
+01:20:00.629 --> 01:20:03.560
+Catherine and Patrick Tobin, John Carlomon Negro, Al Nick
+
+1144
+01:20:03.560 --> 01:20:06.779
+Cortiz, and Nick Golden, and to my executive producers,
+
+1145
+01:20:06.790 --> 01:20:10.509
+Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank
+
+1146
+01:20:10.509 --> 01:20:11.129
+you for all.
+

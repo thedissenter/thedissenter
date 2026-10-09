@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1316 Casper Hesp: Active Inference, Affect, Culture, and Phenomenology",
-	"youtubeid": "04B3Wp-kWbM"
+	"vtt": "1316.vtt",
+	"youtubeid": "04B3Wp-kWbM",
+	"transcript": "1316.lines.json"
 }
 ---
 Casper Hesp is a PhD candidate in Social Computational Neuroscience at the University of Amsterdam. His research aims to model and understand how social life develops in individuals and over generations, and going from an understanding of the emotional basis of social life to modeling culture.
