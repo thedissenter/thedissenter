@@ -1,11 +1,13 @@
 ---
 {
+	"audiourl": "https://anchor.fm/s/822ba20/podcast/play/122563580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-8%2F9f053fcb-126a-71d1-b14c-878172f446ab.m4a",
 	"draft": false,
 	"episodeid": "1317",
 	"excerpt": "Dr. Samuel Arbesman is a former Scientist in Residence at Lux Capital. He is also an Adjunct Professor and xLab senior fellow at Case Western Reserve University’s Weatherhead School of Management; a Senior Fellow of the Silicon Flatirons Center for Law, Technology, and Entrepreneurship at the University of Colorado Boulder; and a Research Fellow at the Long Now Foundation. He is the author of The Half-life of Facts: Why Everything We Know Has an Expiration Date.",
 	"image": "https://i.ytimg.com/vi/hZFuvKTAkr4/maxresdefault.jpg",
 	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1317-samuel-arbesman-the-half-life-of-facts/id1451347236?i=1000794511070&uo=4",
 	"publishDate": 2026-10-09,
+	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1317-Samuel-Arbesman---The-Half-life-of-Facts-Why-Everything-We-Know-Has-an-Expiration-Date-e3lqrhs",
 	"tags": [
 		"General Science"
 	],
