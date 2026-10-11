@@ -1,0 +1,5866 @@
+WEBVTT
+
+1
+00:00:00.360 --> 00:00:03.009
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:03.009 --> 00:00:05.989
+Dissenter. I'm your host, as always, Ricardo Lopsin. Today
+
+3
+00:00:05.989 --> 00:00:10.069
+I'm joined by Dr. Samuel Arbusman. He's an adjunct
+
+4
+00:00:10.069 --> 00:00:14.420
+professor and ex-lab senior fellow at Case Western Reserve
+
+5
+00:00:14.420 --> 00:00:18.600
+University's Weatherhead School of Management. He's the author of
+
+6
+00:00:18.690 --> 00:00:22.809
+Three books Overcomplicated, The Magic of Code, and the
+
+7
+00:00:22.809 --> 00:00:25.969
+book we're going to focus on today, The Half-Life
+
+8
+00:00:25.969 --> 00:00:30.690
+of Facts Why Everything We Know Has an expiration
+
+9
+00:00:30.690 --> 00:00:33.459
+date. So Dr. Arbusman, welcome to the show. It's
+
+10
+00:00:33.459 --> 00:00:34.610
+a huge pleasure to
+
+11
+00:00:34.610 --> 00:00:36.549
+everyone. Thank you so much. Wonderful to be chatting
+
+12
+00:00:36.549 --> 00:00:36.930
+with you.
+
+13
+00:00:37.909 --> 00:00:41.680
+OK, so just to introduce people to the topic
+
+14
+00:00:41.680 --> 00:00:45.740
+at hand here because there's a specific field that
+
+15
+00:00:45.740 --> 00:00:47.639
+I, I mean, to be very honest, I only
+
+16
+00:00:47.639 --> 00:00:51.060
+came across after reading your book that is Scientro
+
+17
+00:00:51.060 --> 00:00:54.319
+Scientometrics, and I would like for you to tell
+
+18
+00:00:54.319 --> 00:00:56.799
+us a little bit what that is about. So
+
+19
+00:00:56.799 --> 00:00:58.630
+what is Sciento metrics?
+
+20
+00:00:58.880 --> 00:01:01.349
+Yeah, so in, so Scientometrics. And, and I would
+
+21
+00:01:01.349 --> 00:01:03.279
+say I feel like now it's kind of part
+
+22
+00:01:03.279 --> 00:01:05.790
+of like a broader like science of science and
+
+23
+00:01:05.790 --> 00:01:08.069
+meta-science kind of field. It's really sort of, it
+
+24
+00:01:08.069 --> 00:01:11.389
+is essentially the quantitative study of how science is
+
+25
+00:01:11.389 --> 00:01:15.550
+done. So how scientific papers become published, how they
+
+26
+00:01:15.550 --> 00:01:17.949
+get cited by other scientific papers and kind of
+
+27
+00:01:17.949 --> 00:01:20.510
+the the body of publication kind of grows over
+
+28
+00:01:20.510 --> 00:01:24.559
+time. Um, BUT it's also how How science is
+
+29
+00:01:24.559 --> 00:01:27.209
+funded and and it really and so scientometrics kind
+
+30
+00:01:27.209 --> 00:01:31.639
+of is more narrowly often focusing on publication and
+
+31
+00:01:31.639 --> 00:01:34.400
+citation and some kind of like maybe more like
+
+32
+00:01:34.400 --> 00:01:37.529
+economic metrics um uh if I remember correctly, but,
+
+33
+00:01:37.599 --> 00:01:39.239
+but I would say more broadly there's kind of
+
+34
+00:01:39.239 --> 00:01:41.959
+this, I would say an area around like science
+
+35
+00:01:41.959 --> 00:01:43.599
+of science and the kind of the quantitative study
+
+36
+00:01:43.599 --> 00:01:46.360
+of science and meta-science like how science is actually
+
+37
+00:01:46.360 --> 00:01:50.029
+done, um. And certainly over the past few years,
+
+38
+00:01:50.220 --> 00:01:53.370
+um, since my book has been published, um, not
+
+39
+00:01:53.370 --> 00:01:54.849
+due to my book, just kind of due to
+
+40
+00:01:54.849 --> 00:01:56.330
+the fact that people are realizing this is much
+
+41
+00:01:56.330 --> 00:01:58.930
+more, much more important to actually study, there's actually
+
+42
+00:01:58.930 --> 00:02:01.669
+been a big growth in sort of this entire
+
+43
+00:02:01.849 --> 00:02:06.010
+metascience effort trying to understand the, the various incentives
+
+44
+00:02:06.010 --> 00:02:10.770
+and factors around how scientific progress actually moves forward
+
+45
+00:02:10.770 --> 00:02:12.169
+and why it doesn't and what are sort of
+
+46
+00:02:12.169 --> 00:02:13.830
+the, the different factors involved.
+
+47
+00:02:14.710 --> 00:02:18.110
+And so the scientometrics, what kinds of knowledge does
+
+48
+00:02:18.110 --> 00:02:21.089
+it apply to? I mean, is it only to
+
+49
+00:02:21.229 --> 00:02:25.429
+the scientific knowledge, to particular types of scientific knowledge,
+
+50
+00:02:25.509 --> 00:02:28.509
+or can we apply it to any other kind
+
+51
+00:02:28.509 --> 00:02:29.830
+of knowledge out there?
+
+52
+00:02:30.149 --> 00:02:31.550
+Yeah, I would say, I mean, really what it
+
+53
+00:02:31.550 --> 00:02:34.389
+comes down to is, as long as there is
+
+54
+00:02:35.190 --> 00:02:38.639
+Like data sets that you can study and or
+
+55
+00:02:38.639 --> 00:02:40.509
+like or use as like some sort of interesting
+
+56
+00:02:40.509 --> 00:02:43.750
+like proxy for understanding innovation and scientific progress, then
+
+57
+00:02:43.750 --> 00:02:45.789
+yeah, then you can study. So uh if you
+
+58
+00:02:45.789 --> 00:02:49.309
+wanted to study the um like the rates of
+
+59
+00:02:49.309 --> 00:02:52.000
+publication in different fields. We can, we can do
+
+60
+00:02:52.000 --> 00:02:53.630
+that kind of thing if you want to understand
+
+61
+00:02:54.009 --> 00:02:57.770
+the determinants of like the technological determinants of how
+
+62
+00:02:57.770 --> 00:03:00.770
+certain scientific advances are made, so like understanding, I
+
+63
+00:03:00.770 --> 00:03:03.649
+don't know, the um the increasing power of particle
+
+64
+00:03:03.649 --> 00:03:05.789
+accelerators and how that might have had an impact
+
+65
+00:03:05.789 --> 00:03:08.759
+on uh particle physics and other aspects of physics,
+
+66
+00:03:08.990 --> 00:03:11.130
+you can study that kind of thing. You can
+
+67
+00:03:11.130 --> 00:03:14.729
+study uh how different amounts of funding might have
+
+68
+00:03:14.729 --> 00:03:17.669
+impacts on different fields. You can sometimes study the
+
+69
+00:03:17.729 --> 00:03:20.770
+um. The patterns of of patents and kind of
+
+70
+00:03:20.770 --> 00:03:23.809
+like intellectual property that grow from different fields, you
+
+71
+00:03:23.809 --> 00:03:26.809
+can try to understand um the nature of like
+
+72
+00:03:26.809 --> 00:03:29.369
+the discoveries themselves and so there's um so actually
+
+73
+00:03:29.369 --> 00:03:32.630
+one of the the paper. Where I, I, I
+
+74
+00:03:32.630 --> 00:03:34.830
+kind of where the, the kind of the term
+
+75
+00:03:34.830 --> 00:03:36.860
+this idea of like half-life of knowledge and half-life
+
+76
+00:03:36.860 --> 00:03:38.710
+of facts or half-life of truth comes from, was
+
+77
+00:03:38.710 --> 00:03:42.190
+actually, it was actually used, um, it was in
+
+78
+00:03:42.190 --> 00:03:44.750
+the medical field, and rather than just kind of
+
+79
+00:03:44.750 --> 00:03:47.589
+giving people papers and saying let's look at the
+
+80
+00:03:47.589 --> 00:03:50.445
+citation pattern. And things like that. They actually gave
+
+81
+00:03:50.705 --> 00:03:54.014
+the information in the paper to medical experts and
+
+82
+00:03:54.014 --> 00:03:56.625
+said, OK, are these things actually still up to
+
+83
+00:03:56.625 --> 00:03:58.115
+date? Are they kind of cutting edge? Are they,
+
+84
+00:03:58.205 --> 00:04:00.024
+are they obsolete? And so you can study those
+
+85
+00:04:00.024 --> 00:04:01.615
+kinds of things as well. And so the truth
+
+86
+00:04:01.615 --> 00:04:04.345
+is, really, as long as you can create some
+
+87
+00:04:04.345 --> 00:04:07.559
+sort of quantitative mechanism. To understand a field or
+
+88
+00:04:07.559 --> 00:04:09.639
+a domain or a question you have, then you
+
+89
+00:04:09.639 --> 00:04:11.720
+can actually try to understand it and and and
+
+90
+00:04:11.720 --> 00:04:13.779
+the idea behind that is the more we know
+
+91
+00:04:14.160 --> 00:04:16.798
+about the determinants of science, the more we can
+
+92
+00:04:16.798 --> 00:04:19.678
+actually try to say, OK, what are the ways
+
+93
+00:04:19.678 --> 00:04:22.630
+to kind of move science forward most effectively.
+
+94
+00:04:23.809 --> 00:04:26.980
+But your book, The Half-Life of Facts is primarily
+
+95
+00:04:26.980 --> 00:04:32.149
+about how scientific fact, scientific facts change over time.
+
+96
+00:04:32.380 --> 00:04:37.459
+Uh, IN what ways can we apply scientometrics to
+
+97
+00:04:37.459 --> 00:04:42.299
+understanding that specific phenomenon? And of course we're going
+
+98
+00:04:42.299 --> 00:04:44.779
+to get into more detail here, but just to
+
+99
+00:04:44.779 --> 00:04:47.859
+start with a broader question about that.
+
+100
+00:04:48.239 --> 00:04:49.519
+Yeah, I mean, so I would say, I mean,
+
+101
+00:04:49.640 --> 00:04:51.279
+so one very rough proxy and I kind of
+
+102
+00:04:51.279 --> 00:04:53.119
+mentioned this already in terms of like citation, like
+
+103
+00:04:53.119 --> 00:04:56.940
+how scientists reference previous work, you can look at,
+
+104
+00:04:57.239 --> 00:04:59.079
+um, let's say a paper that makes some sort
+
+105
+00:04:59.079 --> 00:05:02.079
+of uh discovery or provide some sort of new
+
+106
+00:05:02.079 --> 00:05:05.200
+theoretical framework and you can look at how it
+
+107
+00:05:05.200 --> 00:05:08.579
+has been cited in the literature over time. And
+
+108
+00:05:08.579 --> 00:05:11.809
+the idea, um, would be maybe that as it
+
+109
+00:05:11.809 --> 00:05:14.260
+gets cited less, it's no longer as up to
+
+110
+00:05:14.260 --> 00:05:17.760
+date, maybe it's become obsolete. Um, OF course, citation
+
+111
+00:05:17.760 --> 00:05:20.739
+is a very rough proxy because some people might
+
+112
+00:05:20.739 --> 00:05:23.579
+continue to cite a paper, um, simply to say
+
+113
+00:05:23.579 --> 00:05:26.065
+this. Paper is wrong. Here's a here's a new
+
+114
+00:05:26.065 --> 00:05:27.654
+thing. So it could be continued to be cited,
+
+115
+00:05:27.674 --> 00:05:30.234
+even though it's incorrect. And conversely, there could be
+
+116
+00:05:30.234 --> 00:05:33.355
+things that move so quickly into kind of the
+
+117
+00:05:33.355 --> 00:05:36.114
+core of scientific knowledge that they're not actually really
+
+118
+00:05:36.114 --> 00:05:38.674
+even cited directly because they're so well known. So
+
+119
+00:05:38.674 --> 00:05:41.279
+like, for example, If you're writing a physics paper,
+
+120
+00:05:41.640 --> 00:05:44.089
+chances are very likely that you are not going
+
+121
+00:05:44.089 --> 00:05:47.769
+to be quoting like Isaac Newton's Principia, because that's
+
+122
+00:05:47.769 --> 00:05:49.890
+kind of the core, like everyone kind of learns
+
+123
+00:05:49.890 --> 00:05:51.609
+that in their textbooks and and like when they're
+
+124
+00:05:51.609 --> 00:05:54.049
+an undergraduate, like they don't need to quote that
+
+125
+00:05:54.049 --> 00:05:57.250
+even though Isaac Newton and his work is still
+
+126
+00:05:57.250 --> 00:06:00.649
+quite useful, um, and so, so citation is often
+
+127
+00:06:00.649 --> 00:06:03.089
+not the best proxy can be used for certain
+
+128
+00:06:03.089 --> 00:06:06.299
+ways of understanding kind of how knowledge changes. Uh,
+
+129
+00:06:06.589 --> 00:06:09.869
+PEOPLE have tried to understand like citation patterns in
+
+130
+00:06:09.869 --> 00:06:11.630
+terms of like whether or not it's like trying
+
+131
+00:06:11.630 --> 00:06:15.429
+to actually confirm scientific papers, whether it's trying to
+
+132
+00:06:15.429 --> 00:06:17.910
+like disconfirm or actually refute. Um, THERE are ways
+
+133
+00:06:17.910 --> 00:06:20.709
+of kind of trying to understand that, um, but
+
+134
+00:06:20.709 --> 00:06:22.470
+going back to what I was saying before, another
+
+135
+00:06:22.470 --> 00:06:26.290
+kind of more fine-grained way is actually giving people
+
+136
+00:06:26.470 --> 00:06:29.390
+papers themselves and saying, OK, are these things still
+
+137
+00:06:29.390 --> 00:06:32.109
+true or have they been overturned and, um, in
+
+138
+00:06:32.109 --> 00:06:33.829
+the paper I kind of alluded to earlier, I
+
+139
+00:06:33.829 --> 00:06:36.179
+think it was looking at. Diseases in the liver,
+
+140
+00:06:36.320 --> 00:06:39.959
+um, and it found that about after about 45
+
+141
+00:06:39.959 --> 00:06:42.630
+years or so, half of the knowledge within these
+
+142
+00:06:42.630 --> 00:06:45.799
+fields, um, was no longer considered sort of cutting
+
+143
+00:06:45.799 --> 00:06:47.929
+edge or or was considered obsolete by that point.
+
+144
+00:06:48.000 --> 00:06:49.760
+And so based on that, the scientists said, oh,
+
+145
+00:06:49.920 --> 00:06:51.679
+there's kind of like this like very rough like
+
+146
+00:06:51.679 --> 00:06:54.040
+sort of like half-life to this knowledge now, and
+
+147
+00:06:54.040 --> 00:06:58.309
+the idea behind this. Is by analogy with radioactive
+
+148
+00:06:58.309 --> 00:07:00.540
+materials and kind of like the the half-life in
+
+149
+00:07:00.540 --> 00:07:03.510
+radioactive materials, um, cause, cause there's something interesting and
+
+150
+00:07:03.510 --> 00:07:05.070
+I think this is kind of more one of
+
+151
+00:07:05.070 --> 00:07:06.510
+the one of the ways to think about scientific
+
+152
+00:07:06.510 --> 00:07:09.269
+knowledge changing overall. So if I gave you a
+
+153
+00:07:09.269 --> 00:07:12.190
+single atom of uranium, for example, or some other
+
+154
+00:07:12.190 --> 00:07:15.709
+radioactive material, um, I, you can't predict when that
+
+155
+00:07:15.709 --> 00:07:17.890
+specific atom is going to decay. It might decay
+
+156
+00:07:18.190 --> 00:07:19.630
+in a fraction of a second, might we might
+
+157
+00:07:19.630 --> 00:07:21.190
+have to wait millions of years or whatever it
+
+158
+00:07:21.190 --> 00:07:24.429
+is, um, but you can't really know. But if
+
+159
+00:07:24.429 --> 00:07:26.929
+I gave you. A lot of atoms, if I
+
+160
+00:07:26.929 --> 00:07:28.890
+gave you an entire chunk of uranium, for example,
+
+161
+00:07:29.170 --> 00:07:32.100
+suddenly it actually becomes very like statistically predictable. In
+
+162
+00:07:32.100 --> 00:07:34.220
+fact, there's actually this nice curve of decay, which
+
+163
+00:07:34.220 --> 00:07:36.459
+we can encapsulate in the half-life, like how long
+
+164
+00:07:36.459 --> 00:07:38.100
+it takes for half of that for half of
+
+165
+00:07:38.100 --> 00:07:40.220
+the atoms to decay. I can't predict which specific
+
+166
+00:07:40.220 --> 00:07:41.579
+atoms in that chunk are going to decay, but
+
+167
+00:07:41.579 --> 00:07:43.739
+I know that half will decay. And the same
+
+168
+00:07:43.739 --> 00:07:45.730
+kind of thing is true in how we think
+
+169
+00:07:45.730 --> 00:07:49.649
+about scientific knowledge that scientific knowledge. IS going to
+
+170
+00:07:49.649 --> 00:07:51.480
+change, um, and we kind of, we kind of
+
+171
+00:07:51.480 --> 00:07:55.390
+know this, which facts are going to become obsolete
+
+172
+00:07:55.649 --> 00:07:59.290
+or overturned or modified over time, that's often a
+
+173
+00:07:59.290 --> 00:08:02.010
+much harder task to do. And so the idea
+
+174
+00:08:02.010 --> 00:08:04.579
+behind scientometrics and the science of science is saying,
+
+175
+00:08:04.690 --> 00:08:07.929
+OK, we know that science is a very human
+
+176
+00:08:07.929 --> 00:08:11.709
+process, it's subject to very specific. Um, TRENDS and
+
+177
+00:08:11.720 --> 00:08:15.000
+and and interests, and, and there's like certain like
+
+178
+00:08:15.010 --> 00:08:17.170
+certain fields are more sexy than others at certain
+
+179
+00:08:17.170 --> 00:08:18.649
+times and so certain fields are going to move
+
+180
+00:08:18.649 --> 00:08:22.149
+faster than others or whatever it is, but overall,
+
+181
+00:08:22.649 --> 00:08:23.890
+if you kind of look at everything in the
+
+182
+00:08:23.890 --> 00:08:26.049
+aggregate, if you're trying to study things as a
+
+183
+00:08:26.049 --> 00:08:29.369
+sort of statistical whole, then suddenly there are these
+
+184
+00:08:29.369 --> 00:08:32.650
+nice regular rules, um, and the and and and
+
+185
+00:08:32.650 --> 00:08:34.330
+so this is the same kind of thing by
+
+186
+00:08:34.330 --> 00:08:37.169
+analogy of the half-life in radio radioactive materials, which
+
+187
+00:08:37.169 --> 00:08:40.210
+is. I can't predict which specific facts or scientific
+
+188
+00:08:40.400 --> 00:08:43.599
+scientific bits of knowledge are going to become obsolete
+
+189
+00:08:43.599 --> 00:08:46.609
+or change over time, um, but if I kind
+
+190
+00:08:46.609 --> 00:08:49.380
+of get a whole bunch of knowledge together, then
+
+191
+00:08:49.380 --> 00:08:52.789
+suddenly there are these kind of like regular regularities
+
+192
+00:08:52.890 --> 00:08:55.130
+that we can begin to tease out to kind
+
+193
+00:08:55.130 --> 00:08:57.690
+of give us a sense of, oh, scientific knowledge,
+
+194
+00:08:57.799 --> 00:09:00.169
+yeah, like on the one hand, the things that
+
+195
+00:09:00.169 --> 00:09:02.010
+are in our textbooks when we're young, maybe some
+
+196
+00:09:02.010 --> 00:09:03.809
+of them are no longer true, but it doesn't
+
+197
+00:09:03.809 --> 00:09:05.590
+therefore mean that we have to kind of like
+
+198
+00:09:05.809 --> 00:09:06.770
+throw our hands up in the air and say,
+
+199
+00:09:06.809 --> 00:09:09.330
+oh. This fact was overturned, therefore we don't know,
+
+200
+00:09:09.409 --> 00:09:11.599
+we can't know anything. No, the idea is that
+
+201
+00:09:11.609 --> 00:09:14.130
+science is a very rigorous process and it's and
+
+202
+00:09:14.130 --> 00:09:18.179
+similar to Understanding radioactive materials, there are these kinds
+
+203
+00:09:18.179 --> 00:09:21.380
+of regularities in how knowledge grows over time, like
+
+204
+00:09:21.380 --> 00:09:25.130
+the growth in scientific publication, new technological advances, things
+
+205
+00:09:25.130 --> 00:09:28.140
+like that. Um, THERE'S, uh, there's regularities in how
+
+206
+00:09:28.140 --> 00:09:32.080
+knowledge disseminates and how it spreads, um, across populations,
+
+207
+00:09:32.090 --> 00:09:34.619
+um, and even how errors spread and errors are
+
+208
+00:09:34.619 --> 00:09:36.330
+rooted out and things change over time. And so
+
+209
+00:09:36.330 --> 00:09:38.780
+the idea is that if we can use these
+
+210
+00:09:38.780 --> 00:09:43.080
+kind of more quantitative. Approaches we can better understand
+
+211
+00:09:43.500 --> 00:09:46.500
+the ways in which scientific knowledge moves and changes
+
+212
+00:09:46.500 --> 00:09:49.780
+and grows and and and and evolves over time.
+
+213
+00:09:50.820 --> 00:09:52.789
+Yeah, but I mean, what is the best way
+
+214
+00:09:52.789 --> 00:09:56.590
+for people to approach and understand how scientific knowledge
+
+215
+00:09:56.590 --> 00:09:59.909
+is established and when we can say that a
+
+216
+00:09:59.909 --> 00:10:05.539
+particular new piece of information is a fact, because
+
+217
+00:10:05.549 --> 00:10:09.474
+I mean sometimes people might have. This very simplistic
+
+218
+00:10:09.474 --> 00:10:12.844
+idea that it's like, OK, so a point arrives
+
+219
+00:10:12.844 --> 00:10:15.515
+where, OK, now this is a fact. Before it
+
+220
+00:10:15.515 --> 00:10:18.174
+wasn't, now it is. I mean, is it really
+
+221
+00:10:18.434 --> 00:10:20.315
+like that, that things occur,
+
+222
+00:10:20.424 --> 00:10:22.594
+or yeah, I mean, I would say, and it's
+
+223
+00:10:22.594 --> 00:10:25.729
+a very good question, and it's And there is
+
+224
+00:10:25.729 --> 00:10:29.130
+not a very good answer. Um, KNOWLEDGE, knowledge in
+
+225
+00:10:29.130 --> 00:10:31.330
+general is a very sort of fuzzy kind of
+
+226
+00:10:31.330 --> 00:10:33.289
+thing, and we try to, we try to understand
+
+227
+00:10:33.289 --> 00:10:35.090
+it, um, but I would say, I mean, science
+
+228
+00:10:35.090 --> 00:10:37.409
+ultimately is a sort of a rigor, it's it's
+
+229
+00:10:37.409 --> 00:10:40.320
+not science is not really a body of facts
+
+230
+00:10:40.320 --> 00:10:43.369
+or knowledge, it's really a rigorous means of querying
+
+231
+00:10:43.369 --> 00:10:46.349
+the world around us and kind of using. Lots
+
+232
+00:10:46.349 --> 00:10:49.429
+of different people to attack different ideas in different
+
+233
+00:10:49.429 --> 00:10:53.150
+ways and try to make sure that no truth
+
+234
+00:10:53.150 --> 00:10:55.390
+is so sacred, like sacrosanct that you're going to
+
+235
+00:10:55.390 --> 00:10:57.429
+like never question it, um, and so I would
+
+236
+00:10:57.429 --> 00:10:59.539
+say, so one way to think about this, um,
+
+237
+00:10:59.549 --> 00:11:02.419
+it's actually this great story that a professor of
+
+238
+00:11:02.419 --> 00:11:04.729
+mine from um from grad school, he told me,
+
+239
+00:11:05.229 --> 00:11:08.229
+which was he was, uh, he was teaching a
+
+240
+00:11:08.229 --> 00:11:10.630
+class, uh, like on a Tuesday, came in and
+
+241
+00:11:10.630 --> 00:11:12.630
+gave a lecture on some topic, and the next
+
+242
+00:11:12.630 --> 00:11:16.539
+day. Uh, HE actually read a paper that invalidated
+
+243
+00:11:16.539 --> 00:11:18.179
+everything he had taught the day before. So he
+
+244
+00:11:18.179 --> 00:11:19.979
+went into like the class the following day, I
+
+245
+00:11:19.979 --> 00:11:21.380
+think I was on a Thursday, and he said,
+
+246
+00:11:21.729 --> 00:11:23.960
+Remember what I taught you on Tuesday? It's wrong,
+
+247
+00:11:24.460 --> 00:11:26.210
+and if that bothers you, you need to get
+
+248
+00:11:26.210 --> 00:11:29.200
+out of science. And so there's this idea that
+
+249
+00:11:29.940 --> 00:11:32.580
+science and like scientific knowledge, it's always in a
+
+250
+00:11:32.580 --> 00:11:35.580
+draft form. Yes, there are certain things that Because
+
+251
+00:11:36.659 --> 00:11:38.659
+we have always like we've tested them many, many
+
+252
+00:11:38.659 --> 00:11:40.609
+times, those bits of knowledge have moved into the
+
+253
+00:11:40.609 --> 00:11:44.049
+core and if we and and and so, so
+
+254
+00:11:44.049 --> 00:11:45.690
+I would say like once things move in kind
+
+255
+00:11:45.690 --> 00:11:48.070
+of the core of knowledge, um, then you can
+
+256
+00:11:48.159 --> 00:11:51.690
+have a pretty good deal of comfort and relying
+
+257
+00:11:51.690 --> 00:11:54.369
+on them, but they're they are still subject to
+
+258
+00:11:54.369 --> 00:11:57.109
+change. Now therefore, it doesn't necessarily mean that therefore.
+
+259
+00:11:57.929 --> 00:12:03.250
+Nothing is knowable. Oftentimes in the process of learning
+
+260
+00:12:03.250 --> 00:12:05.049
+these bits of knowledge, you're going to kind of
+
+261
+00:12:05.049 --> 00:12:07.130
+get closer to the truth, but it doesn't mean
+
+262
+00:12:07.130 --> 00:12:09.570
+necessarily that you're going to throw everything away. So
+
+263
+00:12:09.570 --> 00:12:12.780
+for example, um, here's so I think a story
+
+264
+00:12:12.780 --> 00:12:15.049
+that my grandfather told me, um, so he was
+
+265
+00:12:15.049 --> 00:12:16.489
+a, he was a dentist, he lived to the
+
+266
+00:12:16.489 --> 00:12:19.330
+age of 99, and when he was in dental
+
+267
+00:12:19.330 --> 00:12:21.250
+school and I guess like I don't know, the
+
+268
+00:12:21.250 --> 00:12:25.500
+30s or the 40s. Uh, HE learned the wrong
+
+269
+00:12:25.500 --> 00:12:28.049
+number of human chromosomes in a cell. Um, HE
+
+270
+00:12:28.049 --> 00:12:30.780
+actually learned 48 instead of 46, and it turns
+
+271
+00:12:30.780 --> 00:12:32.679
+out, and you would say, oh wow, that's like
+
+272
+00:12:32.820 --> 00:12:34.780
+that is like a core bit of knowledge. How
+
+273
+00:12:34.780 --> 00:12:35.900
+could we have gotten that wrong? It turns out
+
+274
+00:12:35.900 --> 00:12:37.719
+there was a period of like several decades where
+
+275
+00:12:37.900 --> 00:12:40.309
+you could kind of see into the And I
+
+276
+00:12:40.309 --> 00:12:42.229
+guess into the nucleus of a cell, um, and
+
+277
+00:12:42.229 --> 00:12:43.260
+so it was like good enough to like sort
+
+278
+00:12:43.260 --> 00:12:44.590
+of count, but not, but we didn't have like
+
+279
+00:12:44.590 --> 00:12:46.630
+a good, like really good imaging techniques until the
+
+280
+00:12:46.630 --> 00:12:50.349
+mid 1950s. Um, AND so that thing that seems
+
+281
+00:12:50.349 --> 00:12:53.219
+pretty foundational changed. Now, of course, it didn't, it
+
+282
+00:12:53.219 --> 00:12:55.690
+went from 1948 to 1946. It didn't go from
+
+283
+00:12:55.750 --> 00:12:58.750
+48 to like, I don't know, 1 or so
+
+284
+00:12:58.750 --> 00:13:00.349
+like like it was kind of this like sort
+
+285
+00:13:00.349 --> 00:13:02.510
+of like asymptotic approach to the truth or like
+
+286
+00:13:02.510 --> 00:13:04.489
+we're kind of getting closer and closer and refining
+
+287
+00:13:04.489 --> 00:13:07.820
+things and oftentimes. That's, that's the problem and how
+
+288
+00:13:07.820 --> 00:13:10.340
+people outside of science think about these things, cause
+
+289
+00:13:10.340 --> 00:13:13.940
+oftentimes when scientific results are reported, uh, in the
+
+290
+00:13:13.940 --> 00:13:16.979
+popular press, it'll be like, oh, you thought this
+
+291
+00:13:16.979 --> 00:13:18.510
+food was bad for you, it's actually healthy for
+
+292
+00:13:18.510 --> 00:13:20.359
+you or whatever it is, and the truth is
+
+293
+00:13:20.820 --> 00:13:24.219
+though there. Scientific journalism is often reporting on that
+
+294
+00:13:24.219 --> 00:13:27.270
+frontier of knowledge. The frontier of knowledge though, that's
+
+295
+00:13:27.270 --> 00:13:28.989
+where we actually know the least, and so that's
+
+296
+00:13:28.989 --> 00:13:30.700
+where the stuff is going to be overturned most
+
+297
+00:13:30.700 --> 00:13:33.429
+likely. Um, AND so, uh, but even when it
+
+298
+00:13:33.429 --> 00:13:35.510
+gets overturned, it's like sort of at the at
+
+299
+00:13:35.510 --> 00:13:37.630
+the margins, like maybe we thought something was not
+
+300
+00:13:37.630 --> 00:13:39.109
+healthy, but now it is healthy. It's like, it's
+
+301
+00:13:39.109 --> 00:13:41.429
+not like, oh we thought it was terrible for
+
+302
+00:13:41.429 --> 00:13:43.469
+you, and now it's just like superfood that's gonna
+
+303
+00:13:43.469 --> 00:13:44.789
+make you live forever. No, it might have been
+
+304
+00:13:44.789 --> 00:13:46.150
+like, oh we might have thought maybe it wasn't
+
+305
+00:13:46.150 --> 00:13:47.789
+so great, now we think it's maybe like not
+
+306
+00:13:47.789 --> 00:13:49.669
+so bad or whatever or some like some like
+
+307
+00:13:49.669 --> 00:13:52.710
+modification. And so, um, another way to think about
+
+308
+00:13:52.710 --> 00:13:57.869
+this is the, um, uh, there is a a
+
+309
+00:13:57.869 --> 00:14:00.429
+story from Isaac Asimov, so he was a science
+
+310
+00:14:00.429 --> 00:14:02.710
+fiction writer but also a scientist, and someone wrote
+
+311
+00:14:02.710 --> 00:14:05.830
+a letter to him saying, uh, we used to
+
+312
+00:14:05.830 --> 00:14:07.770
+think the earth was flat and we were wrong,
+
+313
+00:14:08.090 --> 00:14:10.780
+um, but then we like also thought the earth
+
+314
+00:14:10.780 --> 00:14:12.190
+was like a perfect sphere, but it turned out
+
+315
+00:14:12.190 --> 00:14:13.349
+we were wrong about that. It was actually this
+
+316
+00:14:13.349 --> 00:14:15.409
+kind of like squashed sphere like an ablate spheroid,
+
+317
+00:14:15.989 --> 00:14:18.469
+like how can we therefore know anything? And so
+
+318
+00:14:18.479 --> 00:14:21.210
+so Asimov wrote back and said. If you think
+
+319
+00:14:21.210 --> 00:14:23.929
+that thinking the earth is flat is just as
+
+320
+00:14:23.929 --> 00:14:25.799
+wrong as thinking the earth is like a sphere,
+
+321
+00:14:26.210 --> 00:14:27.849
+then your view is wronger than both of them
+
+322
+00:14:27.849 --> 00:14:29.640
+put together. Then the idea behind this is like,
+
+323
+00:14:29.809 --> 00:14:32.489
+yeah, like like yes, like the perfect sphere is
+
+324
+00:14:32.489 --> 00:14:35.090
+wrong, but it's not nearly as wrong as the
+
+325
+00:14:35.090 --> 00:14:37.010
+earth is flat. Like we are getting closer and
+
+326
+00:14:37.010 --> 00:14:39.409
+closer to a true understanding of the world. Um,
+
+327
+00:14:39.809 --> 00:14:41.969
+AND so I would say in terms of like
+
+328
+00:14:41.979 --> 00:14:44.960
+how to think about how scientific knowledge. Changes over
+
+329
+00:14:44.960 --> 00:14:46.479
+time. First of all, it is a very human
+
+330
+00:14:46.479 --> 00:14:49.760
+process, um, and oftentimes people are kind of incentivized
+
+331
+00:14:49.760 --> 00:14:51.799
+in certain ways to like maybe hold on to
+
+332
+00:14:51.799 --> 00:14:54.989
+the to the ideas that they developed, but there's
+
+333
+00:14:54.989 --> 00:14:57.599
+also this clearly cultural sense going back to like
+
+334
+00:14:57.599 --> 00:15:00.080
+what my grad school or grad school professor mentioned,
+
+335
+00:15:00.320 --> 00:15:03.609
+which is that Like things are constantly in a
+
+336
+00:15:03.609 --> 00:15:06.169
+draft form and you should be OK and sometimes
+
+337
+00:15:06.169 --> 00:15:08.890
+strive to actually overturn knowledge cause that's how you
+
+338
+00:15:08.890 --> 00:15:11.960
+actually learn more and Uh, there had been a,
+
+339
+00:15:12.049 --> 00:15:14.530
+uh, I would say up until, I think I
+
+340
+00:15:14.530 --> 00:15:16.369
+even mentioned this in my book where like oftentimes
+
+341
+00:15:16.369 --> 00:15:19.280
+we don't necessarily incentivize people to test ideas that
+
+342
+00:15:19.280 --> 00:15:22.570
+have already been published, but over the past 1015
+
+343
+00:15:22.570 --> 00:15:24.330
+years or so, that has actually begun to change
+
+344
+00:15:24.330 --> 00:15:26.890
+where people have actually tried to reproduce well known
+
+345
+00:15:26.890 --> 00:15:29.559
+results and then found that those well known results
+
+346
+00:15:29.559 --> 00:15:31.130
+don't necessarily reproduce, and this has happened, I think
+
+347
+00:15:31.130 --> 00:15:35.109
+in psychological literature, but other areas as well. And
+
+348
+00:15:35.179 --> 00:15:37.130
+that's actually a really good thing, which means that
+
+349
+00:15:37.130 --> 00:15:42.960
+we're constantly testing. And subjecting the ideas that maybe
+
+350
+00:15:42.960 --> 00:15:45.200
+have begun to make it to the core to
+
+351
+00:15:45.200 --> 00:15:48.229
+rigorous experimentation to actually make sure those results and
+
+352
+00:15:48.229 --> 00:15:50.659
+those ideas and those bits of knowledge are actually
+
+353
+00:15:50.719 --> 00:15:52.659
+as correct as we might have thought. And so
+
+354
+00:15:52.960 --> 00:15:54.919
+I would say in terms of like when does
+
+355
+00:15:54.919 --> 00:15:56.799
+a fact become a fact, this is a very
+
+356
+00:15:56.799 --> 00:15:59.719
+long way of saying it's not that clear. I
+
+357
+00:15:59.719 --> 00:16:03.359
+would say um. Like, oftentimes if you're kind of
+
+358
+00:16:03.359 --> 00:16:05.119
+like looking at that frontier, like that's where things
+
+359
+00:16:05.119 --> 00:16:06.880
+are the fuzziest, and it's gonna be very hard
+
+360
+00:16:06.880 --> 00:16:09.200
+to know exactly what's happening there, um, and you
+
+361
+00:16:09.200 --> 00:16:10.799
+can still say, OK, this is kind of the
+
+362
+00:16:10.799 --> 00:16:13.309
+most cutting edge knowledge that we have, um, they'll
+
+363
+00:16:13.309 --> 00:16:15.799
+often be kind of like some sort of debate,
+
+364
+00:16:15.960 --> 00:16:19.489
+um. But, but that's, that's just kind of the
+
+365
+00:16:19.489 --> 00:16:21.969
+nature of the beast that is science. It is
+
+366
+00:16:21.969 --> 00:16:26.429
+a very human process. It's constantly being revised. That
+
+367
+00:16:26.429 --> 00:16:29.960
+being said, that should not therefore mean that you
+
+368
+00:16:29.960 --> 00:16:32.450
+should say, oh, therefore we don't know anything. The
+
+369
+00:16:32.450 --> 00:16:34.010
+answer is that we know a lot and we
+
+370
+00:16:34.010 --> 00:16:37.369
+are actually doing better and better each day as
+
+371
+00:16:37.369 --> 00:16:40.219
+science progresses and we learn more and more. Does
+
+372
+00:16:40.219 --> 00:16:41.780
+that mean that things are going to be subject
+
+373
+00:16:41.780 --> 00:16:44.380
+to change? Of course, but it's kind of along
+
+374
+00:16:44.380 --> 00:16:46.280
+sort of this like asymptotic approach. We're kind of
+
+375
+00:16:46.419 --> 00:16:49.169
+getting closer and closer, but along the way we
+
+376
+00:16:49.169 --> 00:16:52.500
+are turning overturning things and changing how we understand
+
+377
+00:16:52.500 --> 00:16:55.380
+the world, and uh which is really exciting, frankly.
+
+378
+00:16:56.489 --> 00:16:58.250
+Yeah, I, I mean, I think that we should
+
+379
+00:16:58.250 --> 00:17:01.650
+definitely try to approach science as more of a
+
+380
+00:17:01.650 --> 00:17:05.160
+process than really a collection of established facts,
+
+381
+00:17:05.368 --> 00:17:08.189
+right? Yeah, no, I agree. Yeah, and, and certainly,
+
+382
+00:17:08.410 --> 00:17:12.285
+and that, um, like the way we learn. Science
+
+383
+00:17:12.285 --> 00:17:13.604
+in school, like at a certain point like you
+
+384
+00:17:13.604 --> 00:17:14.885
+kind of just have to learn some kinds of
+
+385
+00:17:14.885 --> 00:17:17.844
+facts. That being said, when you learn the experiments
+
+386
+00:17:17.844 --> 00:17:20.614
+behind like the process behind how these things are
+
+387
+00:17:20.844 --> 00:17:24.405
+are discovered or or ascertained, it's actually really exciting.
+
+388
+00:17:24.444 --> 00:17:27.005
+Like I remember, I think when I was when
+
+389
+00:17:27.005 --> 00:17:29.344
+I was an undergrad, I think I was taking
+
+390
+00:17:29.344 --> 00:17:31.765
+it was like genetics or molecular biology, I forget
+
+391
+00:17:31.765 --> 00:17:35.160
+exactly, and The professor, like we I think we
+
+392
+00:17:35.160 --> 00:17:36.920
+were learning about the genetic code, so kind of
+
+393
+00:17:36.920 --> 00:17:40.400
+like the like the the um the the triplets
+
+394
+00:17:40.400 --> 00:17:43.219
+of DNA and RNA that like code for different
+
+395
+00:17:43.219 --> 00:17:45.839
+amino acids that make up a protein, and, and
+
+396
+00:17:45.839 --> 00:17:47.880
+he kind of paused and he's like, I'm just
+
+397
+00:17:47.880 --> 00:17:49.719
+gonna like, I'm just gonna show you guys some
+
+398
+00:17:49.719 --> 00:17:51.349
+of the experiments. Like he didn't like do the
+
+399
+00:17:51.349 --> 00:17:53.520
+actual experiment, but he kind of went through what
+
+400
+00:17:53.520 --> 00:17:56.680
+were the experiments early on that the scientists use
+
+401
+00:17:56.680 --> 00:18:00.540
+these biologists, these cutting edge biologists. Did to actually
+
+402
+00:18:00.699 --> 00:18:02.430
+tease out the genetic code, cause the thing is
+
+403
+00:18:02.430 --> 00:18:04.390
+you can't look at this stuff directly, um, or
+
+404
+00:18:04.390 --> 00:18:05.770
+at least they couldn't do it at that time.
+
+405
+00:18:06.000 --> 00:18:09.000
+So they had to be incredibly clever and, and
+
+406
+00:18:09.000 --> 00:18:11.030
+it was, it was mind blowing, frankly. I was
+
+407
+00:18:11.030 --> 00:18:14.760
+just like wow, like there was such A level
+
+408
+00:18:14.760 --> 00:18:19.180
+of like creativity and cleverness involved in trying to
+
+409
+00:18:19.180 --> 00:18:21.859
+tease out this kind of knowledge that it was
+
+410
+00:18:21.859 --> 00:18:23.900
+really exciting and like that's really what science is.
+
+411
+00:18:24.089 --> 00:18:27.760
+Science is that that process, that super exciting process
+
+412
+00:18:27.849 --> 00:18:30.290
+of teasing out the new knowledge, not just saying,
+
+413
+00:18:30.339 --> 00:18:32.939
+OK, here's the genetic code, go memorize this and
+
+414
+00:18:32.939 --> 00:18:34.819
+then you can like learn like different codons and
+
+415
+00:18:34.819 --> 00:18:35.979
+things like that. Like it's a lot more than
+
+416
+00:18:35.979 --> 00:18:36.280
+that.
+
+417
+00:18:37.569 --> 00:18:40.479
+What do we know about how long does it
+
+418
+00:18:40.479 --> 00:18:44.119
+take for facts to change? I mean, and of
+
+419
+00:18:44.119 --> 00:18:47.319
+course I imagine it depends on the specific facts
+
+420
+00:18:47.319 --> 00:18:50.589
+that we're talking about and perhaps it also differs
+
+421
+00:18:50.589 --> 00:18:54.359
+across different disciplines, but what do we know about
+
+422
+00:18:54.359 --> 00:18:54.520
+that?
+
+423
+00:18:54.979 --> 00:18:57.540
+Yeah, I mean, so I will admit, I mean
+
+424
+00:18:57.540 --> 00:19:00.510
+this, I I think I include some charts and
+
+425
+00:19:00.510 --> 00:19:02.699
+or some tables in my book, um, I don't
+
+426
+00:19:02.699 --> 00:19:04.400
+have those numbers with me anymore, so I don't
+
+427
+00:19:04.400 --> 00:19:07.219
+remember them, but there definitely is a variation in
+
+428
+00:19:07.219 --> 00:19:09.780
+different fields and, and it's also the different kinds
+
+429
+00:19:09.780 --> 00:19:11.979
+of fields are subject to different sorts of forces.
+
+430
+00:19:12.099 --> 00:19:17.319
+Like for example, in mathematics, um, where like if
+
+431
+00:19:17.319 --> 00:19:19.869
+something is proven correctly and people are like, oh
+
+432
+00:19:19.869 --> 00:19:21.359
+yeah, like this is like this proof doesn't have
+
+433
+00:19:21.359 --> 00:19:23.660
+any errors in it, you can be pretty certain
+
+434
+00:19:23.959 --> 00:19:26.920
+that theorem and that proof, uh, that bit of
+
+435
+00:19:26.920 --> 00:19:29.829
+mathematical knowledge will stand the test of time. So
+
+436
+00:19:29.829 --> 00:19:32.290
+it's like, oh like. I don't know. This is
+
+437
+00:19:32.290 --> 00:19:35.729
+not like, like whatever like this number, if it's
+
+438
+00:19:35.729 --> 00:19:37.530
+prime, you kind of know that, like we're done,
+
+439
+00:19:37.650 --> 00:19:39.189
+like, and then you can kind of move on.
+
+440
+00:19:39.689 --> 00:19:42.400
+Uh. That being said, like there are other kinds
+
+441
+00:19:42.400 --> 00:19:44.439
+of things that are going to be subject to
+
+442
+00:19:44.439 --> 00:19:47.430
+much faster pace. And so, so I, if I
+
+443
+00:19:47.430 --> 00:19:51.560
+recall correctly, um, medicine happens to be one of
+
+444
+00:19:51.560 --> 00:19:54.920
+the areas where things change quite rapidly, um, so
+
+445
+00:19:54.920 --> 00:19:57.479
+rapidly that, so my, so my father, who's a
+
+446
+00:19:57.479 --> 00:20:00.599
+retired dermatologist, he told me a story where I
+
+447
+00:20:00.599 --> 00:20:02.040
+think it was a professor of his in medical
+
+448
+00:20:02.040 --> 00:20:05.520
+school was giving some multiple choice exam, and he
+
+449
+00:20:05.520 --> 00:20:07.520
+gave the exact same exam with like the same
+
+450
+00:20:07.520 --> 00:20:10.280
+possible choices for a question. Um, LIKE 2 years
+
+451
+00:20:10.280 --> 00:20:12.349
+in a row, and 1 year, like, I don't
+
+452
+00:20:12.349 --> 00:20:15.119
+know. Choice A was correct and the next year
+
+453
+00:20:15.119 --> 00:20:17.920
+choice B was correct and like nothing about the
+
+454
+00:20:17.920 --> 00:20:19.869
+tests had changed. It was just they had learned
+
+455
+00:20:19.869 --> 00:20:23.079
+something new either about the human body or about
+
+456
+00:20:23.079 --> 00:20:25.949
+the way in which certain medicines interact or whatever
+
+457
+00:20:25.949 --> 00:20:30.130
+it was, um, and so, so medicine. Moves very,
+
+458
+00:20:30.250 --> 00:20:31.930
+very rapidly and to a certain degree they've they've
+
+459
+00:20:31.930 --> 00:20:33.910
+really actually internalized this as a as a field,
+
+460
+00:20:33.969 --> 00:20:37.670
+so there's this constant need for continuing medical education
+
+461
+00:20:37.670 --> 00:20:39.650
+and learning all these kinds of things cause like
+
+462
+00:20:39.650 --> 00:20:41.319
+lives are very much on the line of like
+
+463
+00:20:41.319 --> 00:20:43.609
+if you have some outdated practice, like that's not
+
+464
+00:20:43.609 --> 00:20:44.770
+good, you should not be doing that kind of
+
+465
+00:20:44.770 --> 00:20:47.949
+thing, um, and so, um, but I would say
+
+466
+00:20:48.329 --> 00:20:53.380
+uh. Biological knowledge more broadly even outside of medicine
+
+467
+00:20:53.579 --> 00:20:56.280
+also feels to me to be kind of a
+
+468
+00:20:56.939 --> 00:21:00.349
+faster kind of like more frothy field, mainly because
+
+469
+00:21:00.949 --> 00:21:04.939
+It's, it's the kind of field where, um, it's
+
+470
+00:21:04.939 --> 00:21:06.500
+harder to measure sometimes like things are just a
+
+471
+00:21:06.500 --> 00:21:08.069
+little bit messier in those kinds of fields and
+
+472
+00:21:08.069 --> 00:21:09.910
+so I would say things that are messier probably
+
+473
+00:21:09.910 --> 00:21:13.800
+are going to be uh subject to like faster,
+
+474
+00:21:13.949 --> 00:21:16.589
+faster changing knowledge, um, which I mean when I
+
+475
+00:21:16.589 --> 00:21:19.589
+think back to even what I learned in undergrad
+
+476
+00:21:19.589 --> 00:21:22.229
+and graduate school about biology, I mean a lot
+
+477
+00:21:22.229 --> 00:21:24.770
+of that knowledge of like how we think about
+
+478
+00:21:25.430 --> 00:21:27.060
+how the inside of a cell operates and things
+
+479
+00:21:27.060 --> 00:21:30.270
+like that like it's not I mean it's not
+
+480
+00:21:30.270 --> 00:21:33.739
+wrong. But it's certainly outdated and not really the
+
+481
+00:21:33.739 --> 00:21:35.140
+way in which we should be thinking about these
+
+482
+00:21:35.140 --> 00:21:37.260
+kinds of things any longer. So, um, those kinds
+
+483
+00:21:37.260 --> 00:21:38.739
+of things have changed versus like, I mean, yeah,
+
+484
+00:21:38.819 --> 00:21:41.540
+if you want to just understand certain aspects, I
+
+485
+00:21:41.540 --> 00:21:44.709
+don't know, general relativity um or special relativity or
+
+486
+00:21:44.709 --> 00:21:46.819
+certain things in physics, those probably are going to
+
+487
+00:21:46.819 --> 00:21:48.760
+be a little bit less subject to to change,
+
+488
+00:21:48.910 --> 00:21:50.969
+um, but, uh, but again I don't remember the
+
+489
+00:21:50.969 --> 00:21:53.260
+exact numbers, but yeah, but there definitely are, there
+
+490
+00:21:53.260 --> 00:21:54.260
+is a wide variation.
+
+491
+00:21:54.949 --> 00:21:58.229
+Yeah, could you give us just perhaps, uh, an
+
+492
+00:21:58.229 --> 00:22:03.300
+example of, uh, of facts that change rapidly, uh,
+
+493
+00:22:03.390 --> 00:22:06.390
+an example of facts that change at medium pace
+
+494
+00:22:06.390 --> 00:22:09.689
+and another example of facts that take a long
+
+495
+00:22:09.689 --> 00:22:10.969
+time to change.
+
+496
+00:22:11.270 --> 00:22:12.869
+Yeah, so I mean, so this is also, and
+
+497
+00:22:12.869 --> 00:22:15.250
+this is kind of related to this, um, this,
+
+498
+00:22:15.410 --> 00:22:17.750
+this, this, this concept that I kind of, that
+
+499
+00:22:17.750 --> 00:22:20.489
+I, um, that I discussed this, um, this term
+
+500
+00:22:20.489 --> 00:22:22.660
+that I created called. FACTS, which are like facts
+
+501
+00:22:22.660 --> 00:22:23.939
+that kind of change in the sort of this
+
+502
+00:22:23.939 --> 00:22:26.140
+middle middle scale. Now, to be clear, when I'm
+
+503
+00:22:26.140 --> 00:22:28.050
+thinking about like facts here in this case, um,
+
+504
+00:22:28.380 --> 00:22:33.339
+it's not necessarily, it's a combination of both kind
+
+505
+00:22:33.339 --> 00:22:35.780
+of the cutting edge of what we think is
+
+506
+00:22:35.780 --> 00:22:38.969
+true about the world, as well as facts about
+
+507
+00:22:38.969 --> 00:22:41.250
+the world themselves. And, and these are two very
+
+508
+00:22:41.250 --> 00:22:43.660
+different kinds of things. That being said, oftentimes the
+
+509
+00:22:43.660 --> 00:22:45.780
+way we learn them and perceive them is kind
+
+510
+00:22:45.780 --> 00:22:47.060
+of similar. And that's kind of why I kind
+
+511
+00:22:47.060 --> 00:22:49.660
+of bundle them together. But so like the two
+
+512
+00:22:49.660 --> 00:22:51.209
+extremes, you would say, OK, things that change really
+
+513
+00:22:51.209 --> 00:22:54.020
+rapidly would be, um, I don't know like what
+
+514
+00:22:54.020 --> 00:22:55.839
+the weather is going to be like tomorrow or
+
+515
+00:22:55.839 --> 00:22:58.209
+what the stock stock market closed at yesterday. Now
+
+516
+00:22:58.209 --> 00:23:00.699
+of course I know it's not like, oh, that's
+
+517
+00:23:00.699 --> 00:23:02.739
+because our knowledge is changing, it's because these kinds
+
+518
+00:23:02.739 --> 00:23:04.660
+of things like just the state of the world
+
+519
+00:23:04.660 --> 00:23:06.699
+itself is changing, but those are very, those are
+
+520
+00:23:06.699 --> 00:23:10.060
+very fast bits of information and we are well
+
+521
+00:23:10.060 --> 00:23:12.619
+aware of kind of how that like how how
+
+522
+00:23:12.619 --> 00:23:14.819
+to how to update for that. The opposite extreme.
+
+523
+00:23:15.380 --> 00:23:17.469
+Are the things that I would say are part
+
+524
+00:23:17.469 --> 00:23:19.640
+of that core of scientific knowledge, the kind of
+
+525
+00:23:19.640 --> 00:23:21.530
+things that you learn once and you don't really
+
+526
+00:23:21.530 --> 00:23:23.569
+have to worry about. So like, I mean what
+
+527
+00:23:23.569 --> 00:23:25.489
+the uh I don't know, the shape of the
+
+528
+00:23:25.489 --> 00:23:27.489
+continents on the earth or the number of fingers
+
+529
+00:23:27.489 --> 00:23:30.310
+on a human hand, you learn that once and
+
+530
+00:23:30.319 --> 00:23:31.770
+and you're good. You don't have to worry about
+
+531
+00:23:31.770 --> 00:23:34.959
+that kind of thing changing. That being said, There
+
+532
+00:23:34.959 --> 00:23:37.119
+is this middle scale and it's actually quite large
+
+533
+00:23:37.119 --> 00:23:39.219
+and it often deals with actually a lot of
+
+534
+00:23:39.270 --> 00:23:41.199
+scientific knowledge that might not necessarily be at that
+
+535
+00:23:41.199 --> 00:23:44.800
+core, which are things like, um, so it could
+
+536
+00:23:44.800 --> 00:23:45.920
+be about the state of the world, so like
+
+537
+00:23:45.920 --> 00:23:47.599
+how many billions of people there are on the
+
+538
+00:23:47.599 --> 00:23:49.359
+planet, um, so I think when I was younger
+
+539
+00:23:49.359 --> 00:23:50.719
+I learned I don't know 5 or 6 billion
+
+540
+00:23:50.719 --> 00:23:53.199
+and we it has grown quite a bit since
+
+541
+00:23:53.199 --> 00:23:56.380
+then, um, but it can also be things about
+
+542
+00:23:56.760 --> 00:23:58.369
+the like the current state of our knowledge, so
+
+543
+00:23:58.369 --> 00:24:01.479
+like what um what we think dinosaurs look like.
+
+544
+00:24:01.560 --> 00:24:04.119
+So like when I was young. Like dinosaurs were
+
+545
+00:24:04.119 --> 00:24:06.750
+still thought of as kind of these like. Slow
+
+546
+00:24:06.750 --> 00:24:09.579
+gray green sort of reptilian monsters. They had, there
+
+547
+00:24:09.579 --> 00:24:11.900
+had begun to be some work around thinking that
+
+548
+00:24:11.900 --> 00:24:14.140
+maybe they some of them were actually warm blooded
+
+549
+00:24:14.140 --> 00:24:16.319
+and a little bit faster, but like now when
+
+550
+00:24:16.369 --> 00:24:19.380
+dinosaurs are portrayed, they're often with like they're kind
+
+551
+00:24:19.380 --> 00:24:21.140
+of like these like fearsome chickens, they're kind of
+
+552
+00:24:21.140 --> 00:24:23.979
+like fast moving, brightly colored, they have feathers. Um,
+
+553
+00:24:24.060 --> 00:24:25.380
+IT'S a very different kind of thing. And so
+
+554
+00:24:25.380 --> 00:24:26.979
+I would say that's also kind of in in
+
+555
+00:24:26.979 --> 00:24:30.390
+this like mesoact category and, and, and the problem
+
+556
+00:24:30.390 --> 00:24:32.099
+with these kind of mesofacts like this, the facts
+
+557
+00:24:32.099 --> 00:24:34.449
+that change on the order of decades or a
+
+558
+00:24:34.449 --> 00:24:38.180
+human lifetime. Is that we often learn these kinds
+
+559
+00:24:38.180 --> 00:24:40.939
+of this kind of knowledge, the same way we
+
+560
+00:24:40.939 --> 00:24:44.420
+learn the knowledge of things that we expect never
+
+561
+00:24:44.420 --> 00:24:47.699
+to change. Um, AND so like for example, I
+
+562
+00:24:47.699 --> 00:24:50.439
+mean. The number of billions of people on the
+
+563
+00:24:50.439 --> 00:24:53.479
+planet, you people who might be in the same
+
+564
+00:24:53.479 --> 00:24:55.719
+age as me, maybe decades older, they might still
+
+565
+00:24:55.719 --> 00:24:58.400
+have a very, very outdated memory of how many
+
+566
+00:24:58.400 --> 00:25:00.640
+billions of people there on the planet, and maybe
+
+567
+00:25:00.640 --> 00:25:02.359
+and they're in the world of finance, maybe they're
+
+568
+00:25:02.359 --> 00:25:06.000
+making some weird like geopolitical decisions and financial decisions
+
+569
+00:25:06.000 --> 00:25:08.079
+around these kinds of things, and if that's outdated,
+
+570
+00:25:08.199 --> 00:25:11.410
+that's, that's not so great, um. And like with
+
+571
+00:25:11.410 --> 00:25:13.469
+and learning about this like the state of the
+
+572
+00:25:13.469 --> 00:25:17.869
+um like current scientific knowledge, oftentimes when we're young,
+
+573
+00:25:18.010 --> 00:25:21.270
+we're treated as generalists. We learn a lot about
+
+574
+00:25:21.270 --> 00:25:23.869
+many, many different topics and then we we specialize,
+
+575
+00:25:23.949 --> 00:25:25.750
+we learn more and more about a very small
+
+576
+00:25:25.750 --> 00:25:28.560
+area that's our own little expertise. Um, AND so
+
+577
+00:25:28.560 --> 00:25:32.239
+we don't mentally update or search out the newer
+
+578
+00:25:32.239 --> 00:25:33.880
+versions of these things until, I don't know, your
+
+579
+00:25:33.880 --> 00:25:36.119
+kid comes home and says, guess what, dinosaurs are
+
+580
+00:25:36.119 --> 00:25:38.280
+totally different than when you described it, or guess
+
+581
+00:25:38.280 --> 00:25:40.199
+what, like Pluto is no longer a planet or
+
+582
+00:25:40.199 --> 00:25:42.359
+whatever it is, and these are these kinds of
+
+583
+00:25:42.359 --> 00:25:46.660
+like mesofacts that we have to really like actively
+
+584
+00:25:46.670 --> 00:25:49.239
+seek out to make sure that our knowledge is
+
+585
+00:25:49.239 --> 00:25:51.800
+as up to date as possible, um, but it's
+
+586
+00:25:51.800 --> 00:25:53.839
+hard to do because sometimes you don't really know
+
+587
+00:25:53.839 --> 00:25:55.260
+which are the things that are going to be.
+
+588
+00:25:55.800 --> 00:25:59.770
+Updating or changing over time. And so, um, But
+
+589
+00:25:59.770 --> 00:26:01.930
+try and and and oftentimes these, these bits of
+
+590
+00:26:01.930 --> 00:26:04.329
+knowledge like they're not changing in like some staggeringly
+
+591
+00:26:04.329 --> 00:26:06.810
+fast fashion like the number of billions of people
+
+592
+00:26:06.810 --> 00:26:09.520
+like, like they're not, we're not growing by like
+
+593
+00:26:09.520 --> 00:26:12.130
+a billion people every every hour or whatever. It's
+
+594
+00:26:12.130 --> 00:26:14.489
+like you're adding one person at a time to
+
+595
+00:26:14.489 --> 00:26:17.209
+the planet, um, or whatever it is or with
+
+596
+00:26:17.209 --> 00:26:22.329
+like the changing understanding of dinosaurs, it was like
+
+597
+00:26:22.329 --> 00:26:26.305
+the paleontological community slowly but surely accumulating. Information and
+
+598
+00:26:26.305 --> 00:26:28.994
+debating and discussing all these things. But if you're
+
+599
+00:26:28.994 --> 00:26:30.675
+not part of that, even if it's kind of
+
+600
+00:26:30.675 --> 00:26:33.905
+moving in a sort of very, like, smooth fashion,
+
+601
+00:26:34.114 --> 00:26:35.915
+in terms of how the knowledge changes, you perceive
+
+602
+00:26:35.915 --> 00:26:38.795
+it in this very jump like way, because you're
+
+603
+00:26:38.795 --> 00:26:40.755
+like, oh, here's my state of the art, which
+
+604
+00:26:40.755 --> 00:26:42.074
+was the thing I learned when I was little.
+
+605
+00:26:42.314 --> 00:26:43.905
+And then suddenly when my kid comes home and
+
+606
+00:26:43.905 --> 00:26:45.314
+tells me it's totally different, it's like, oh my
+
+607
+00:26:45.314 --> 00:26:47.074
+God, it's changed a lot. But no, the answer
+
+608
+00:26:47.074 --> 00:26:49.415
+is like in between, it's, it's changed quite smoothly.
+
+609
+00:26:49.635 --> 00:26:51.194
+You just don't necessarily perceive it that way. And
+
+610
+00:26:51.194 --> 00:26:55.040
+so part of Me thinking about the different rates
+
+611
+00:26:55.040 --> 00:26:57.380
+and kind of this this category of mesofacts is
+
+612
+00:26:57.380 --> 00:26:59.630
+to try to get people to recognize that they
+
+613
+00:26:59.630 --> 00:27:02.310
+need to be a little bit more proactive in
+
+614
+00:27:02.310 --> 00:27:04.869
+how they should be seeking out this information that
+
+615
+00:27:04.869 --> 00:27:07.030
+is actually slowly changing all around us.
+
+616
+00:27:08.180 --> 00:27:10.739
+You know, it's funny because since I started doing
+
+617
+00:27:10.739 --> 00:27:14.260
+my podcast, there are certain areas and certain specific
+
+618
+00:27:14.260 --> 00:27:18.780
+topics that I've been, uh, not constantly but regularly
+
+619
+00:27:18.780 --> 00:27:22.199
+following over the years, and because of that, I
+
+620
+00:27:22.199 --> 00:27:26.339
+got a completely different perspective as to how things
+
+621
+00:27:26.339 --> 00:27:30.420
+sort of progress in science and Uh, nowadays, I,
+
+622
+00:27:30.579 --> 00:27:32.859
+I, I mean, people who have that kind of
+
+623
+00:27:32.859 --> 00:27:35.780
+approach to science as if, oh, OK, now there's,
+
+624
+00:27:36.140 --> 00:27:40.369
+here's a new bombastic finding that changes everything, and
+
+625
+00:27:40.369 --> 00:27:43.500
+oh my God, and I'm like, uh, no, if
+
+626
+00:27:43.500 --> 00:27:46.859
+you think about science that way, you're thinking about
+
+627
+00:27:46.859 --> 00:27:50.699
+it wrong. I mean, science, 99% of the time
+
+628
+00:27:50.699 --> 00:27:54.000
+is actually quite boring. Boring. But if you, if
+
+629
+00:27:54.000 --> 00:27:56.839
+you don't like boring things, then you don't actually
+
+630
+00:27:56.839 --> 00:27:58.000
+like science,
+
+631
+00:27:58.400 --> 00:28:00.390
+right? It's like, it's, I mean, I wouldn't say,
+
+632
+00:28:00.599 --> 00:28:03.599
+I wouldn't say it's boring. It's like, it's not,
+
+633
+00:28:03.760 --> 00:28:05.560
+it's not earth shattering. It's kind of the, it
+
+634
+00:28:05.560 --> 00:28:10.020
+is sort of like the hard, steady, messy work
+
+635
+00:28:10.160 --> 00:28:13.060
+of just trying to actually understand the world better.
+
+636
+00:28:13.160 --> 00:28:15.260
+And what does that mean? It doesn't necessarily mean,
+
+637
+00:28:15.349 --> 00:28:19.719
+oh, like, like. Having this amazing like brainstorm of
+
+638
+00:28:19.719 --> 00:28:21.469
+like, oh my God, I'm gonna overturn everything. No,
+
+639
+00:28:21.520 --> 00:28:25.439
+it's like, slowly but surely working through hunches, collecting
+
+640
+00:28:25.439 --> 00:28:29.579
+data sometimes for decades, adding things together, just doing
+
+641
+00:28:29.579 --> 00:28:32.640
+that hard work and right, and it's like, and
+
+642
+00:28:32.640 --> 00:28:34.319
+for some, for many people, right, that's like super
+
+643
+00:28:34.319 --> 00:28:36.319
+boring. But for other people like, no, that, that
+
+644
+00:28:36.319 --> 00:28:38.829
+is the process of actually trying to understand the
+
+645
+00:28:38.829 --> 00:28:41.800
+world better. And, um, and like, and this kind
+
+646
+00:28:41.800 --> 00:28:44.160
+of goes. Back to, like I mentioned like that
+
+647
+00:28:44.160 --> 00:28:47.119
+like sciences is kind of like very human messy
+
+648
+00:28:47.119 --> 00:28:49.800
+process. Like it is no different than many other
+
+649
+00:28:49.800 --> 00:28:51.400
+things in the world. Now, it has sort of
+
+650
+00:28:51.400 --> 00:28:54.479
+this like rigorous, almost like exoskeleton to kind of
+
+651
+00:28:54.479 --> 00:28:57.239
+make sure that we're querying things and testing things
+
+652
+00:28:57.239 --> 00:29:00.839
+and subjecting everything to analysis and rigor and and
+
+653
+00:29:00.839 --> 00:29:04.119
+that's really important, but because it's being done by
+
+654
+00:29:04.119 --> 00:29:06.420
+humans. If it's going to be kind of the
+
+655
+00:29:06.420 --> 00:29:08.619
+messy steady work that needs to be done, those
+
+656
+00:29:08.619 --> 00:29:11.209
+humans better be really, really passionate and excited about
+
+657
+00:29:11.209 --> 00:29:13.290
+those kinds of things. And so, and right, and
+
+658
+00:29:13.290 --> 00:29:16.180
+it takes a certain kind of person to say,
+
+659
+00:29:16.339 --> 00:29:18.140
+no, I want to just do that kind of
+
+660
+00:29:18.140 --> 00:29:22.790
+hard, messy work that Does not admit shortcuts, and
+
+661
+00:29:22.790 --> 00:29:25.369
+not only does not admit shortcuts, but like really
+
+662
+00:29:25.550 --> 00:29:26.989
+doesn't want you to do them. Like you have
+
+663
+00:29:26.989 --> 00:29:28.469
+to kind of yeah, just take the time and
+
+664
+00:29:28.469 --> 00:29:30.969
+do the thing and, and yeah, when we have
+
+665
+00:29:31.229 --> 00:29:33.869
+new advances and new discoveries, they can be really
+
+666
+00:29:33.869 --> 00:29:37.229
+exciting and like discussed in the popular press, but
+
+667
+00:29:37.229 --> 00:29:39.869
+then there's still the hard work of verifying them,
+
+668
+00:29:40.030 --> 00:29:41.930
+and then the hard work of like building upon
+
+669
+00:29:41.930 --> 00:29:44.550
+them and creating a much more broader understanding and
+
+670
+00:29:44.550 --> 00:29:47.349
+it's um. Yeah, all science is like right like
+
+671
+00:29:47.349 --> 00:29:49.030
+the the body of knowledge that we construct out
+
+672
+00:29:49.030 --> 00:29:52.510
+of it is this really complex edifice, but it
+
+673
+00:29:52.510 --> 00:29:56.000
+takes time, like it's much more, it's like. Like
+
+674
+00:29:56.000 --> 00:29:58.109
+I, I, I, I would say like if you're
+
+675
+00:29:58.109 --> 00:29:59.829
+thinking about it, it's kind of like constructing sort
+
+676
+00:29:59.829 --> 00:30:03.069
+of like a cathedral of knowledge, like you don't
+
+677
+00:30:03.069 --> 00:30:06.349
+want the cathedral to be built prefab and like
+
+678
+00:30:06.349 --> 00:30:08.300
+be built all at once really fast, like no,
+
+679
+00:30:08.310 --> 00:30:10.670
+you want it to take the years and years
+
+680
+00:30:10.670 --> 00:30:14.589
+and years and have like the craftsmen working on
+
+681
+00:30:14.589 --> 00:30:16.349
+all their different little things and kind of taking
+
+682
+00:30:16.349 --> 00:30:18.069
+the time cause that's how you make something that
+
+683
+00:30:18.069 --> 00:30:19.709
+actually does last. Yeah,
+
+684
+00:30:19.800 --> 00:30:21.619
+and you don't want to start building at the
+
+685
+00:30:21.619 --> 00:30:28.160
+roof, yeah. You don't want to get immediately to
+
+686
+00:30:28.160 --> 00:30:30.310
+the exciting end,
+
+687
+00:30:30.560 --> 00:30:33.380
+right? Well, not only that, I also think that
+
+688
+00:30:33.719 --> 00:30:37.900
+like, If you're constantly searching for the exciting kinds
+
+689
+00:30:37.900 --> 00:30:43.660
+of things like oftentimes like science proceeds and grows
+
+690
+00:30:43.660 --> 00:30:46.530
+not just out of like the fancy exciting thing,
+
+691
+00:30:46.540 --> 00:30:49.869
+but often is like. It's finding the thing that
+
+692
+00:30:49.880 --> 00:30:51.900
+where it makes you go kind of like hm,
+
+693
+00:30:51.949 --> 00:30:53.430
+that's weird. I like so there's I think it
+
+694
+00:30:53.430 --> 00:30:55.739
+actually there's a there's a quote. I think it's
+
+695
+00:30:55.739 --> 00:30:58.069
+attributed to Isaac Asimov. I don't actually know if
+
+696
+00:30:58.069 --> 00:30:59.030
+he was the one who said it, but he's
+
+697
+00:30:59.030 --> 00:31:02.349
+like science is like like the most exciting phrase
+
+698
+00:31:02.349 --> 00:31:05.829
+to hear in science is not eureka, but that's
+
+699
+00:31:05.829 --> 00:31:08.349
+funny cause it's like oftentimes it's the thing that
+
+700
+00:31:08.349 --> 00:31:12.319
+really doesn't fit. That doesn't necessarily mean that you're
+
+701
+00:31:12.319 --> 00:31:15.349
+immediately going to create this like totally new understanding,
+
+702
+00:31:15.400 --> 00:31:17.560
+but it's more like that's kind of the wedge
+
+703
+00:31:17.560 --> 00:31:21.689
+to say, oh, maybe that merits like further understanding,
+
+704
+00:31:21.719 --> 00:31:23.239
+and I kind of view this in the same
+
+705
+00:31:23.239 --> 00:31:25.640
+way when we think about like glitches and bugs
+
+706
+00:31:25.640 --> 00:31:29.829
+in software. Like they're often the best way to
+
+707
+00:31:29.829 --> 00:31:33.270
+actually make sure that. Like the model we have
+
+708
+00:31:33.270 --> 00:31:36.150
+of how the software works is actually how the
+
+709
+00:31:36.150 --> 00:31:37.949
+software actually does work and like and the kind
+
+710
+00:31:37.949 --> 00:31:39.390
+of the bugs and glitches are sort of the
+
+711
+00:31:39.390 --> 00:31:41.739
+way we we narrow that gap between what it
+
+712
+00:31:41.739 --> 00:31:43.750
+actually does and what we think it does. And
+
+713
+00:31:43.750 --> 00:31:45.189
+I feel like with science it's the same kind
+
+714
+00:31:45.189 --> 00:31:47.150
+of thing where it's like, and sometimes we have
+
+715
+00:31:47.150 --> 00:31:48.619
+a tendency of like oh yeah this this weird
+
+716
+00:31:48.619 --> 00:31:50.229
+thing doesn't fit, we'll kind of just like uh
+
+717
+00:31:50.229 --> 00:31:51.949
+it's like some anomaly or whatever it is or
+
+718
+00:31:51.949 --> 00:31:54.550
+it's like some some data collection issues, and sometimes
+
+719
+00:31:54.550 --> 00:31:56.020
+that is true and like and one of the
+
+720
+00:31:56.020 --> 00:31:57.750
+reasons people ignore those kinds of things is cause
+
+721
+00:31:57.750 --> 00:31:59.869
+that actually happens a lot like science is messy
+
+722
+00:31:59.869 --> 00:32:02.839
+and weird, um. But if those kinds of things
+
+723
+00:32:02.839 --> 00:32:05.760
+add up, then, then it's actually incumbent upon the
+
+724
+00:32:05.760 --> 00:32:07.959
+scientists at some point to say, no, let's actually
+
+725
+00:32:07.959 --> 00:32:09.800
+kind of take this kind of thing seriously. And
+
+726
+00:32:09.800 --> 00:32:13.479
+so, um, if I recall correctly, there was, I
+
+727
+00:32:13.479 --> 00:32:15.359
+think so there was, um, so this idea of
+
+728
+00:32:15.359 --> 00:32:18.890
+like interfering RNA, um, it's a way of kind
+
+729
+00:32:18.890 --> 00:32:22.520
+of like deactivating certain kind of like certain expressions
+
+730
+00:32:22.520 --> 00:32:27.780
+of proteins, um, in cells and organisms. That was
+
+731
+00:32:27.780 --> 00:32:30.819
+discovered, not quite by accident, but it was more
+
+732
+00:32:30.819 --> 00:32:32.969
+it was like people tried to do something to
+
+733
+00:32:32.969 --> 00:32:35.089
+kind of like make something more expressive and ended
+
+734
+00:32:35.089 --> 00:32:37.939
+up doing kind of the opposite, and, and some
+
+735
+00:32:37.939 --> 00:32:39.339
+people were like, oh like we don't have time
+
+736
+00:32:39.339 --> 00:32:41.000
+to think about that. Um, IF I recall the
+
+737
+00:32:41.010 --> 00:32:43.040
+the story correctly, maybe maybe I'm getting it wrong,
+
+738
+00:32:43.180 --> 00:32:44.760
+and other people are like, no, it's actually worth
+
+739
+00:32:44.760 --> 00:32:47.760
+like studying and and and so there's a combination
+
+740
+00:32:47.760 --> 00:32:51.319
+of like The kind of the error, the unexpected,
+
+741
+00:32:51.479 --> 00:32:55.219
+the kind of taking things seriously, and oftentimes those
+
+742
+00:32:55.469 --> 00:32:58.430
+weird little things that in the moment, right, are
+
+743
+00:32:58.439 --> 00:33:00.390
+very much not the top of the cathedral. They're
+
+744
+00:33:00.390 --> 00:33:02.520
+very much like the bottom, it's almost like kind
+
+745
+00:33:02.520 --> 00:33:05.604
+of like the cleaning of Like we're just like
+
+746
+00:33:05.675 --> 00:33:09.025
+the maintenance of the edifice, that actually can lead
+
+747
+00:33:09.025 --> 00:33:12.505
+you to trying to better understand these kinds of
+
+748
+00:33:12.505 --> 00:33:14.665
+things. Um, AND yeah, and lead you to like,
+
+749
+00:33:14.704 --> 00:33:16.864
+oh wow, maybe there's actually a whole new discovery
+
+750
+00:33:16.864 --> 00:33:19.104
+to be made, or a whole new framework or
+
+751
+00:33:19.104 --> 00:33:21.640
+theory. Um. And even if not though, there can,
+
+752
+00:33:21.680 --> 00:33:24.150
+it can still be a window into kind of
+
+753
+00:33:24.150 --> 00:33:27.479
+better understanding. So, so for me, I think like
+
+754
+00:33:27.479 --> 00:33:30.439
+the scientists who have the patience to kind of
+
+755
+00:33:30.439 --> 00:33:32.880
+just like, yeah, do that hard work, find the
+
+756
+00:33:32.880 --> 00:33:35.119
+things that don't quite fit, figure out why they
+
+757
+00:33:35.119 --> 00:33:37.640
+don't fit and use that as a wedge to
+
+758
+00:33:37.640 --> 00:33:40.400
+further understanding. I those are the those are the
+
+759
+00:33:40.400 --> 00:33:43.000
+really good scientists, like they're the ones doing the
+
+760
+00:33:43.000 --> 00:33:47.060
+really hard work and being really careful and. Being
+
+761
+00:33:47.060 --> 00:33:49.359
+excited about like pursuing all the like the weird
+
+762
+00:33:49.359 --> 00:33:51.209
+little little paths and seeing where they go.
+
+763
+00:33:52.199 --> 00:33:55.560
+Yeah, you know, sometimes the aspects of science that
+
+764
+00:33:55.560 --> 00:33:59.680
+I find even more exciting than the big findings
+
+765
+00:33:59.680 --> 00:34:05.660
+have to do with refining methodology, refining theory, sometimes
+
+766
+00:34:05.880 --> 00:34:12.820
+multidisciplinary or cross-disciplinary talk and interpreting or. Interpreting data
+
+767
+00:34:12.820 --> 00:34:16.899
+and results in different ways. I mean, sometimes it's
+
+768
+00:34:16.899 --> 00:34:20.270
+through that kind of, uh, of course, it takes
+
+769
+00:34:20.270 --> 00:34:22.659
+a very many times it takes a very long
+
+770
+00:34:22.659 --> 00:34:25.139
+time to go through all that process, but sometimes
+
+771
+00:34:25.139 --> 00:34:29.409
+it's that process that I find the most interesting.
+
+772
+00:34:29.860 --> 00:34:31.989
+Yeah, yeah, no, I, I think, yeah, that is
+
+773
+00:34:31.989 --> 00:34:34.639
+a very important part of science. I agree.
+
+774
+00:34:36.219 --> 00:34:38.899
+So I, I mean, when it comes to how
+
+775
+00:34:38.909 --> 00:34:44.168
+facts change. I mean, is there really a point
+
+776
+00:34:44.168 --> 00:34:47.447
+at which we look at the evidence and we
+
+777
+00:34:47.447 --> 00:34:51.289
+say, oh, OK, so now we have enough evidence
+
+778
+00:34:51.289 --> 00:34:56.089
+accumulated that we can really say that, OK, a
+
+779
+00:34:56.089 --> 00:34:59.849
+fact has indeed changed, or is it really, or
+
+780
+00:34:59.849 --> 00:35:03.089
+is it more of a matter of not necessarily.
+
+781
+00:35:03.479 --> 00:35:07.360
+Uh, WE having noticed that we have enough evidence,
+
+782
+00:35:07.439 --> 00:35:11.959
+but basically, uh, the community of scientists or a
+
+783
+00:35:11.959 --> 00:35:16.820
+community of experts in a given area, uh, recognizing
+
+784
+00:35:17.080 --> 00:35:21.219
+that or deciding that that's, uh, the case.
+
+785
+00:35:21.560 --> 00:35:23.040
+Yeah, I mean, I, I don't necessarily think it's
+
+786
+00:35:23.040 --> 00:35:25.520
+like a formal process of like voting or anything
+
+787
+00:35:25.520 --> 00:35:27.159
+like that, and, and sometimes it's one of those
+
+788
+00:35:27.159 --> 00:35:30.000
+kinds of situations where maybe at the moment when
+
+789
+00:35:30.000 --> 00:35:32.270
+something really should overturn it, it's often like you
+
+790
+00:35:32.270 --> 00:35:34.629
+can only kind of like. Like after the fact,
+
+791
+00:35:34.810 --> 00:35:36.729
+maybe with with a certain amount of hindsight, look
+
+792
+00:35:36.729 --> 00:35:39.610
+back and be like, oh yeah, like like that
+
+793
+00:35:39.610 --> 00:35:41.409
+thing is no longer true and we kind of
+
+794
+00:35:41.409 --> 00:35:43.090
+know this through the kind of the like the
+
+795
+00:35:43.090 --> 00:35:46.159
+steady accumulation of better information or better knowledge or
+
+796
+00:35:46.159 --> 00:35:50.679
+better scientific work, uh. At a specific moment though,
+
+797
+00:35:50.689 --> 00:35:53.010
+it probably is. I mean like I, I imagine
+
+798
+00:35:53.010 --> 00:35:56.239
+they kind of like recounting the number of chromosomes
+
+799
+00:35:56.239 --> 00:35:57.929
+in a human cell like that probably was a
+
+800
+00:35:57.929 --> 00:36:00.649
+much more clear cut thing. Most of this stuff,
+
+801
+00:36:01.010 --> 00:36:04.409
+it's fuzzier and messier and takes time and it
+
+802
+00:36:04.409 --> 00:36:08.040
+requires debate and figure and and especially if I
+
+803
+00:36:08.530 --> 00:36:12.159
+the scientists who maybe developed the thing that is
+
+804
+00:36:12.159 --> 00:36:14.040
+now people are trying to like overturn it is
+
+805
+00:36:14.040 --> 00:36:17.219
+still around. They might be fighting tooth and nail
+
+806
+00:36:17.219 --> 00:36:19.260
+to kind of hold on to their to their
+
+807
+00:36:19.260 --> 00:36:23.159
+theory, sometimes not. Um, THERE'S, there's actually this, um,
+
+808
+00:36:23.500 --> 00:36:25.820
+uh, so Max Planck, the physicist, he actually talks
+
+809
+00:36:25.820 --> 00:36:28.179
+about this that I think people refer to as
+
+810
+00:36:28.179 --> 00:36:30.939
+like Planck's principle, this idea that like science precedes
+
+811
+00:36:30.939 --> 00:36:32.399
+one funeral at a time, so you kind of
+
+812
+00:36:32.399 --> 00:36:34.100
+have to wait for like the old generation to
+
+813
+00:36:34.100 --> 00:36:38.419
+die. Um, SOMEONE actually tested this in, I think
+
+814
+00:36:38.419 --> 00:36:40.870
+understanding like evolution and natural selection to see whether.
+
+815
+00:36:40.925 --> 00:36:44.824
+Not the, um, it was the younger biologists who
+
+816
+00:36:44.824 --> 00:36:49.324
+are more willing to, um, to recognize, like Darwin's
+
+817
+00:36:49.324 --> 00:36:51.564
+theory of evolution by natural selection versus the older
+
+818
+00:36:51.564 --> 00:36:53.564
+scientists who maybe wanted to hold on to their
+
+819
+00:36:53.564 --> 00:36:56.205
+older theories. And, and from what I recall, I
+
+820
+00:36:56.205 --> 00:36:58.334
+think age actually had nothing to do with it.
+
+821
+00:36:58.729 --> 00:37:00.969
+Um, WHICH is actually which I think is, is
+
+822
+00:37:00.969 --> 00:37:03.129
+quite heartening to recognize that like scientists really have
+
+823
+00:37:03.129 --> 00:37:06.530
+internalized this idea that they should be open to
+
+824
+00:37:06.530 --> 00:37:08.719
+changing knowledge no matter where, where it's coming from,
+
+825
+00:37:09.010 --> 00:37:10.929
+no matter how old they are, kind of set
+
+826
+00:37:10.929 --> 00:37:12.729
+in their ways, things like that. Um, NOW if
+
+827
+00:37:12.729 --> 00:37:14.570
+it's your own ideas, maybe you might have a
+
+828
+00:37:14.570 --> 00:37:16.429
+little bit more kind of like personal pride and
+
+829
+00:37:16.530 --> 00:37:19.959
+and it might take, take longer, um, but, uh,
+
+830
+00:37:20.169 --> 00:37:22.090
+but going back to what your question of like
+
+831
+00:37:22.090 --> 00:37:25.229
+when we can decide this, I'm not really sure
+
+832
+00:37:25.229 --> 00:37:28.629
+like because it's not really a, um. Like there's
+
+833
+00:37:28.629 --> 00:37:31.790
+no like stamp of approval, which I mean is
+
+834
+00:37:31.790 --> 00:37:34.669
+ultimately that's kind of like the point of science.
+
+835
+00:37:34.709 --> 00:37:36.580
+Like I, I it's like the like the Royal
+
+836
+00:37:36.580 --> 00:37:40.550
+Society, like one of the first um like scientific
+
+837
+00:37:40.550 --> 00:37:44.729
+societies. Uh, I believe if I recall correctly there
+
+838
+00:37:44.790 --> 00:37:48.699
+um uh. Their like their motto was like the
+
+839
+00:37:48.699 --> 00:37:51.979
+Latin like nullius in in verb or werba, um,
+
+840
+00:37:52.139 --> 00:37:54.860
+which means like basically like don't take anyone's word
+
+841
+00:37:54.860 --> 00:37:56.979
+for it. Um IF I if I'm like not
+
+842
+00:37:56.979 --> 00:37:59.620
+butchering the Latin translation, which is like that's the
+
+843
+00:37:59.620 --> 00:38:01.419
+whole point of science like don't take anyone's word
+
+844
+00:38:01.419 --> 00:38:02.929
+for it like really subject to those kinds of
+
+845
+00:38:02.929 --> 00:38:04.939
+things and so I would say I mean that
+
+846
+00:38:04.939 --> 00:38:07.219
+being said, there is still this sense of like
+
+847
+00:38:07.219 --> 00:38:11.620
+yeah if like if the entire scientific community has
+
+848
+00:38:12.629 --> 00:38:15.189
+is basically in an agreement that this is kind
+
+849
+00:38:15.189 --> 00:38:18.070
+of well understood, then it's going to require a
+
+850
+00:38:18.070 --> 00:38:21.689
+lot of disconfirming knowledge to kind of or disconfirming
+
+851
+00:38:21.689 --> 00:38:24.270
+information to really overturn that. Now, because of the
+
+852
+00:38:24.270 --> 00:38:29.010
+way science works, they um like. People will be
+
+853
+00:38:29.010 --> 00:38:32.280
+open to that if it is actually rigorously presented,
+
+854
+00:38:32.330 --> 00:38:33.830
+if they're kind of presenting it in sort of
+
+855
+00:38:33.830 --> 00:38:36.810
+the language of science and and you're clearly not
+
+856
+00:38:36.810 --> 00:38:38.929
+like a crackpot like I mean there's obvious there
+
+857
+00:38:38.929 --> 00:38:40.729
+are many people like like if you're a scientist
+
+858
+00:38:40.729 --> 00:38:42.459
+you receive all these things like all the like
+
+859
+00:38:42.459 --> 00:38:44.199
+emails all the time of like oh I've created
+
+860
+00:38:44.199 --> 00:38:46.530
+some sort of like new theory or perpetual motion
+
+861
+00:38:46.530 --> 00:38:48.649
+machine or whatever it is, and most of the
+
+862
+00:38:48.649 --> 00:38:51.530
+time those people are kind of crazy um or
+
+863
+00:38:51.530 --> 00:38:53.989
+just like the stuff is nonsense, um. And I
+
+864
+00:38:53.989 --> 00:38:55.830
+think, and there is good reason for the scientific
+
+865
+00:38:55.830 --> 00:38:57.750
+community to be like, yeah, this is not correct,
+
+866
+00:38:57.909 --> 00:39:00.959
+um, but if you kind of Do your work
+
+867
+00:39:00.959 --> 00:39:02.520
+and and say you know this is actually something
+
+868
+00:39:02.520 --> 00:39:05.439
+worth worth thinking about, um, then yeah, then it's
+
+869
+00:39:05.439 --> 00:39:07.600
+open to reconsideration, but I would say, yeah, so
+
+870
+00:39:07.600 --> 00:39:09.919
+it's not like there's no seal of approval, there's
+
+871
+00:39:09.919 --> 00:39:14.800
+kind of the like slow informal agreement of science
+
+872
+00:39:14.800 --> 00:39:17.520
+kind of and scientists involved kind of in terms
+
+873
+00:39:17.520 --> 00:39:20.120
+of how it moves forward. So that's a much
+
+874
+00:39:20.120 --> 00:39:22.389
+fuzzier maybe an answer than you maybe would have
+
+875
+00:39:22.389 --> 00:39:24.479
+liked, but my sense is that that's probably the
+
+876
+00:39:24.479 --> 00:39:25.360
+best way to think about it.
+
+877
+00:39:26.270 --> 00:39:30.550
+Uh, IN what ways can people apply this knowledge
+
+878
+00:39:30.550 --> 00:39:36.350
+about how knowledge, knowledge changes to their daily personal
+
+879
+00:39:36.350 --> 00:39:40.310
+lives? I mean, does this have, uh, practical, uh,
+
+880
+00:39:40.350 --> 00:39:42.189
+daily applications? Yeah,
+
+881
+00:39:42.310 --> 00:39:44.699
+you know, so I would say, I mean, sometimes,
+
+882
+00:39:45.070 --> 00:39:47.350
+sometimes not as much, um, I would say, I
+
+883
+00:39:47.350 --> 00:39:50.010
+mean, so first of all, like just the recognition
+
+884
+00:39:50.270 --> 00:39:53.489
+that science is this kind of evolving process would
+
+885
+00:39:54.229 --> 00:39:57.080
+allow you to kind of say, OK, let's Like
+
+886
+00:39:57.080 --> 00:39:59.780
+maybe entertain a certain amount of skepticism or maybe
+
+887
+00:39:59.919 --> 00:40:01.760
+place a certain amount of like bounds on our
+
+888
+00:40:01.760 --> 00:40:06.439
+certainty or uncertainty, but I would say. More like
+
+889
+00:40:06.770 --> 00:40:10.129
+I actually think the most important feature of this
+
+890
+00:40:10.129 --> 00:40:13.050
+is one to kind of just like. Check things
+
+891
+00:40:13.050 --> 00:40:15.270
+like I, I kind of like, like not like
+
+892
+00:40:15.729 --> 00:40:17.889
+do research and kind of this like overly skeptical
+
+893
+00:40:17.889 --> 00:40:19.169
+thing where like I don't want to take anyone's
+
+894
+00:40:19.169 --> 00:40:20.669
+word for it and I want to try every
+
+895
+00:40:20.889 --> 00:40:24.850
+then then therein lies the path towards like non-scientific
+
+896
+00:40:24.850 --> 00:40:29.879
+insanity and like madness and craziness, um. But I
+
+897
+00:40:29.879 --> 00:40:32.520
+do think one of the things that the scientific
+
+898
+00:40:32.520 --> 00:40:36.040
+world can do a better job of is explaining
+
+899
+00:40:36.040 --> 00:40:39.360
+how like the messy process of how scientific knowledge
+
+900
+00:40:39.360 --> 00:40:42.639
+works. And so when people like when and so
+
+901
+00:40:42.639 --> 00:40:44.760
+and I I feel like there was at various
+
+902
+00:40:44.760 --> 00:40:47.760
+moments during like during the COVID pandemic where people
+
+903
+00:40:47.760 --> 00:40:49.439
+would be like this is the science, you have
+
+904
+00:40:49.439 --> 00:40:52.270
+to follow it and And I think in many
+
+905
+00:40:52.270 --> 00:40:55.070
+cases, that's like that's good, but it's but it
+
+906
+00:40:55.070 --> 00:40:57.540
+should be like held tentatively. It can be, I
+
+907
+00:40:57.540 --> 00:40:59.189
+think the better way to to message that would
+
+908
+00:40:59.189 --> 00:41:03.389
+be. Science is this constantly evolving process. This is
+
+909
+00:41:03.389 --> 00:41:06.229
+what we know to be correct right now. It
+
+910
+00:41:06.229 --> 00:41:07.870
+is going to change in the same way that
+
+911
+00:41:07.870 --> 00:41:11.439
+like how, how did COVID spread that like we
+
+912
+00:41:11.469 --> 00:41:14.129
+we learned more over time that oh yeah, we
+
+913
+00:41:14.129 --> 00:41:16.050
+thought it was. And we thought it was much
+
+914
+00:41:16.050 --> 00:41:17.929
+more through like larger droplets, and then we realized
+
+915
+00:41:17.929 --> 00:41:19.250
+it was much more through the air or whatever
+
+916
+00:41:19.250 --> 00:41:21.850
+it was like we, we, it evolved and like,
+
+917
+00:41:21.889 --> 00:41:24.090
+and of course our understanding of COVID is going
+
+918
+00:41:24.090 --> 00:41:26.250
+to change. It was like it was a brand
+
+919
+00:41:26.250 --> 00:41:29.080
+new disease to everyone. And so of course,
+
+920
+00:41:29.370 --> 00:41:31.540
+yeah, and in that particular case it was going
+
+921
+00:41:31.540 --> 00:41:34.169
+to change very rapidly because there was a lot
+
+922
+00:41:34.169 --> 00:41:36.399
+of resources put into it.
+
+923
+00:41:36.689 --> 00:41:39.489
+Exactly, and so and so I think recognizing like
+
+924
+00:41:39.489 --> 00:41:41.929
+being much more upfront about saying, OK, like this
+
+925
+00:41:41.929 --> 00:41:44.050
+is what you should do based on the current
+
+926
+00:41:44.050 --> 00:41:48.409
+state of knowledge. AND then say, but we might
+
+927
+00:41:48.590 --> 00:41:50.280
+change what we know in like a week or
+
+928
+00:41:50.280 --> 00:41:53.080
+two, and and I think so and that's OK,
+
+929
+00:41:53.159 --> 00:41:54.760
+like like that's kind of how science works and
+
+930
+00:41:54.760 --> 00:41:58.080
+so for me I think understanding and internalizing this
+
+931
+00:41:58.080 --> 00:42:00.120
+kind of like that kind of scientific process can
+
+932
+00:42:00.120 --> 00:42:02.439
+actually be a much better way and a much
+
+933
+00:42:02.439 --> 00:42:05.120
+more intellectually honest way to say, oh, this is
+
+934
+00:42:05.120 --> 00:42:08.320
+how you should actually take medical advice and things
+
+935
+00:42:08.320 --> 00:42:10.229
+like that of like, oh yeah, here's the medical
+
+936
+00:42:10.229 --> 00:42:11.840
+advice. It is, it is the best we know
+
+937
+00:42:11.840 --> 00:42:14.919
+right now. It might change. In a couple of
+
+938
+00:42:14.919 --> 00:42:19.879
+years. That doesn't therefore mean that science is fraudulent
+
+939
+00:42:19.879 --> 00:42:21.879
+or a fake or therefore you should never trust
+
+940
+00:42:21.879 --> 00:42:25.540
+experts. No, this is how expertise works. It is
+
+941
+00:42:25.639 --> 00:42:27.969
+the people who know the most and have trained
+
+942
+00:42:27.969 --> 00:42:31.149
+a lot, trying to continually understand the world around
+
+943
+00:42:31.149 --> 00:42:33.399
+us, and in the process, things are going to
+
+944
+00:42:33.399 --> 00:42:35.939
+be overturned, but that's how it actually should work,
+
+945
+00:42:36.000 --> 00:42:39.110
+and that's great. And so I think try using
+
+946
+00:42:39.110 --> 00:42:41.629
+that kind of understanding when you are confronted with
+
+947
+00:42:41.629 --> 00:42:44.649
+medical knowledge or scientific knowledge, I think can be
+
+948
+00:42:45.229 --> 00:42:47.270
+much I I think that should be the way
+
+949
+00:42:47.270 --> 00:42:48.949
+we should be thinking about this as like whether
+
+950
+00:42:48.949 --> 00:42:51.310
+you're an expert or not, um, but more broadly
+
+951
+00:42:51.310 --> 00:42:54.739
+than that. Even outside of like scientific knowledge like
+
+952
+00:42:54.739 --> 00:42:58.010
+what we know is constantly shifting and changing because
+
+953
+00:42:58.010 --> 00:42:59.570
+we are just learning so much more about the
+
+954
+00:42:59.570 --> 00:43:01.850
+world at any one point or the world itself
+
+955
+00:43:01.850 --> 00:43:04.570
+is changing and and so for me there's just
+
+956
+00:43:04.570 --> 00:43:08.370
+kind of the larger argument which is. Just constantly
+
+957
+00:43:09.030 --> 00:43:12.770
+like learn things and look things up. Don't rely
+
+958
+00:43:13.030 --> 00:43:16.750
+on like like don't rely on half remembered knowledge
+
+959
+00:43:16.750 --> 00:43:19.629
+from some magazine you read years ago to make
+
+960
+00:43:19.629 --> 00:43:22.459
+decisions. Actually, like try to get the most up
+
+961
+00:43:22.459 --> 00:43:25.620
+to-date knowledge when you're making a decision because. Decision
+
+962
+00:43:25.620 --> 00:43:28.659
+making in general requires like the best knowledge you
+
+963
+00:43:28.659 --> 00:43:31.219
+can have and chances are good that whatever is
+
+964
+00:43:31.219 --> 00:43:33.379
+kind of rattling around in your brain might not
+
+965
+00:43:33.379 --> 00:43:36.370
+be the most up to-date knowledge and so oftentimes
+
+966
+00:43:36.370 --> 00:43:37.860
+for each of us that kind of thing is
+
+967
+00:43:37.860 --> 00:43:41.169
+actually really, really valuable, but I would say there's
+
+968
+00:43:41.169 --> 00:43:43.399
+also just and maybe this is kind of like
+
+969
+00:43:43.409 --> 00:43:47.040
+how I think about like children's education, which is.
+
+970
+00:43:48.350 --> 00:43:51.729
+When it comes to education, You want to not
+
+971
+00:43:51.729 --> 00:43:54.270
+just convey the knowledge, you want to also convey
+
+972
+00:43:54.409 --> 00:43:57.129
+the excitement of learning. So like when I, when
+
+973
+00:43:57.129 --> 00:43:58.729
+I don't know something and I'm talking to my
+
+974
+00:43:58.729 --> 00:44:00.479
+kids, like, I get excited cause I'm like, oh
+
+975
+00:44:00.479 --> 00:44:02.330
+let's go look like look it up together or
+
+976
+00:44:02.330 --> 00:44:04.370
+figure it out or like see what it is
+
+977
+00:44:04.370 --> 00:44:07.750
+and And and so when, again, like when kids
+
+978
+00:44:07.750 --> 00:44:09.830
+come home and say like this thing that I
+
+979
+00:44:09.830 --> 00:44:11.909
+thought was true has changed or you thought as
+
+980
+00:44:11.909 --> 00:44:14.310
+a parent was was correct like that should be
+
+981
+00:44:14.310 --> 00:44:17.149
+a cause for celebration and excitement of like we
+
+982
+00:44:17.149 --> 00:44:18.989
+get to learn more and it means it should
+
+983
+00:44:18.989 --> 00:44:22.110
+actually cultivate further curiosity about the world. So I
+
+984
+00:44:22.110 --> 00:44:23.709
+would say those are the kind of things that
+
+985
+00:44:23.709 --> 00:44:26.270
+I think we can all. Gain from and learn
+
+986
+00:44:26.270 --> 00:44:30.080
+from and like basically take export the scientific mindset
+
+987
+00:44:30.080 --> 00:44:32.860
+of things are constantly in draft form and we
+
+988
+00:44:32.860 --> 00:44:35.389
+should actually be excited when things are actually overturned
+
+989
+00:44:35.389 --> 00:44:37.270
+because it actually can lead us to a better
+
+990
+00:44:37.270 --> 00:44:39.870
+understanding of the world and to learn more. That
+
+991
+00:44:39.870 --> 00:44:42.229
+kind of mentality should be relevant for all of
+
+992
+00:44:42.229 --> 00:44:42.590
+us.
+
+993
+00:44:43.719 --> 00:44:48.310
+Yeah, because sometimes parents, I mean, particularly the more
+
+994
+00:44:48.310 --> 00:44:50.669
+conservative ones I guess tend to have that kind
+
+995
+00:44:50.669 --> 00:44:54.429
+of attitude that if their children get home and
+
+996
+00:44:54.429 --> 00:44:57.149
+then suddenly start saying that they learned this or
+
+997
+00:44:57.149 --> 00:45:01.590
+that at school and it clashes with their values,
+
+998
+00:45:01.830 --> 00:45:05.360
+particularly if it's their values, then they immediately start.
+
+999
+00:45:05.679 --> 00:45:09.000
+Coming up with those sorts of conspiracy theories as
+
+1000
+00:45:09.000 --> 00:45:13.100
+to how school is contaminating the minds of children
+
+1001
+00:45:13.100 --> 00:45:17.199
+with, I don't know, degenerate knowledge or something like
+
+1002
+00:45:17.199 --> 00:45:17.510
+that.
+
+1003
+00:45:18.459 --> 00:45:19.520
+But it doesn't even need to be that. I,
+
+1004
+00:45:19.719 --> 00:45:22.800
+I would say that's certainly one, like 11 of
+
+1005
+00:45:22.800 --> 00:45:24.669
+like one kind of aspect of that. I would
+
+1006
+00:45:24.669 --> 00:45:26.479
+say even just more broadly, like there's just some
+
+1007
+00:45:26.479 --> 00:45:30.489
+people where like, Being told that the things you
+
+1008
+00:45:30.489 --> 00:45:33.570
+learned when you're younger, um, even aside from like
+
+1009
+00:45:33.570 --> 00:45:35.909
+the values just like how the world works, like
+
+1010
+00:45:35.909 --> 00:45:37.840
+those things are not true. For some people it
+
+1011
+00:45:37.840 --> 00:45:41.250
+can be very destabilizing cause they're like, oh, then,
+
+1012
+00:45:41.530 --> 00:45:43.290
+then what is true? I should I just kind
+
+1013
+00:45:43.290 --> 00:45:45.810
+of throw everything out and going back to kind
+
+1014
+00:45:45.810 --> 00:45:48.570
+of like the like. Expert mindset or kind of
+
+1015
+00:45:48.570 --> 00:45:51.689
+anti-expert approach like this is not an argument that
+
+1016
+00:45:51.689 --> 00:45:54.360
+like oh therefore experts don't know anything and I
+
+1017
+00:45:54.360 --> 00:45:55.850
+and I think some people kind of immediately jump
+
+1018
+00:45:55.850 --> 00:45:58.209
+to that is in fact, no, this is the
+
+1019
+00:45:58.209 --> 00:46:01.110
+process of how expertise operates. It is this constantly
+
+1020
+00:46:01.610 --> 00:46:05.489
+churning and better understanding of the world and, and
+
+1021
+00:46:05.489 --> 00:46:08.570
+so, um, yeah, getting to learn new things about
+
+1022
+00:46:08.570 --> 00:46:10.129
+the world, right? It should be exciting and so
+
+1023
+00:46:10.129 --> 00:46:11.969
+for me it's more almost this like this like.
+
+1024
+00:46:12.889 --> 00:46:15.760
+Mental approach shift that we require, which is like
+
+1025
+00:46:15.760 --> 00:46:18.120
+to be um to hold things a little bit
+
+1026
+00:46:18.120 --> 00:46:20.840
+more loosely, to get excited about changing knowledge, to
+
+1027
+00:46:20.840 --> 00:46:23.000
+be curious about trying to actually learn those kinds
+
+1028
+00:46:23.000 --> 00:46:24.639
+of things. These are the kind of things I
+
+1029
+00:46:24.639 --> 00:46:25.560
+think we all need.
+
+1030
+00:46:26.790 --> 00:46:32.389
+Yeah, but talking about sort of generational clashes, I
+
+1031
+00:46:32.389 --> 00:46:36.110
+mean one thing that sometimes really irritates people is
+
+1032
+00:46:36.110 --> 00:46:40.270
+when language changes from one generation to the other,
+
+1033
+00:46:40.350 --> 00:46:43.159
+and I mean that's always happening, but people almost
+
+1034
+00:46:43.159 --> 00:46:46.445
+always react the same. WAY it's like even here
+
+1035
+00:46:46.445 --> 00:46:50.564
+in Portugal just because the younger generations are using
+
+1036
+00:46:50.564 --> 00:46:53.445
+words in different ways or are coming up with
+
+1037
+00:46:53.445 --> 00:46:56.125
+new words. I mean older people are like, oh
+
+1038
+00:46:56.125 --> 00:46:59.764
+my God, the younger ones no longer speak proper
+
+1039
+00:46:59.764 --> 00:47:04.709
+Portuguese or something like that. I mean Tell us
+
+1040
+00:47:04.709 --> 00:47:06.949
+more about that because that's a topic that you
+
+1041
+00:47:06.949 --> 00:47:09.989
+explore in your book and how each of us
+
+1042
+00:47:09.989 --> 00:47:13.969
+can perhaps better bridge generational gaps when it comes
+
+1043
+00:47:13.969 --> 00:47:16.810
+to slang, dialect, and so on.
+
+1044
+00:47:17.110 --> 00:47:18.659
+Yeah, I mean, so I would say, I mean,
+
+1045
+00:47:18.669 --> 00:47:22.270
+the kind of the very proper approach to language
+
+1046
+00:47:22.270 --> 00:47:23.830
+of like, oh, this is the way things are,
+
+1047
+00:47:23.909 --> 00:47:25.270
+these are the rules, this is the way everything
+
+1048
+00:47:25.270 --> 00:47:27.389
+should be spoken. I would say that is much
+
+1049
+00:47:27.389 --> 00:47:29.330
+more kind of what's like known as like prescriptive
+
+1050
+00:47:29.330 --> 00:47:31.780
+linguistics, which is OK, here's the prescription, here are
+
+1051
+00:47:31.780 --> 00:47:35.729
+the rule sets, and anything that violates that is
+
+1052
+00:47:35.909 --> 00:47:38.010
+um is just wrong and then there's kind of,
+
+1053
+00:47:38.070 --> 00:47:40.629
+which I mean to be honest as far and
+
+1054
+00:47:40.629 --> 00:47:41.989
+I'm not a linguist, but like my sense is
+
+1055
+00:47:41.989 --> 00:47:43.699
+like this is kind of like the very common
+
+1056
+00:47:43.699 --> 00:47:45.419
+way to think about linguistics is that is what's
+
+1057
+00:47:45.419 --> 00:47:48.149
+called descriptive linguistics, which is, yeah, there are clearly
+
+1058
+00:47:48.149 --> 00:47:50.969
+rules and and grammar and things like that, but.
+
+1059
+00:47:51.760 --> 00:47:54.239
+It it is much more important to actually describe
+
+1060
+00:47:54.239 --> 00:47:57.919
+how language is used and from that figure out
+
+1061
+00:47:57.919 --> 00:48:01.000
+what are those rules and regularities and correct usages
+
+1062
+00:48:01.000 --> 00:48:04.060
+and things like that, um, but, but still recognizing
+
+1063
+00:48:04.080 --> 00:48:07.360
+that that is constantly evolving, um, and so, and,
+
+1064
+00:48:07.439 --> 00:48:08.840
+and you can see this even just like in
+
+1065
+00:48:08.840 --> 00:48:10.600
+the dictionary that like the fact that like there
+
+1066
+00:48:10.600 --> 00:48:13.439
+are words that have certain meanings or like it'll
+
+1067
+00:48:13.439 --> 00:48:15.840
+have one meaning and it'll say, yeah this is
+
+1068
+00:48:15.840 --> 00:48:17.989
+obsolete or archaic cause like we don't actually use
+
+1069
+00:48:17.989 --> 00:48:22.040
+language that way anymore, um. And, and I think.
+
+1070
+00:48:23.090 --> 00:48:25.959
+Most of us at least recognize that that like
+
+1071
+00:48:25.959 --> 00:48:28.929
+language has always been this kind of shifting thing
+
+1072
+00:48:28.929 --> 00:48:32.090
+and I think because ultimately language and linguistics and
+
+1073
+00:48:32.090 --> 00:48:36.260
+how we use words. It's not this thing that's
+
+1074
+00:48:36.260 --> 00:48:38.510
+out there. It is really sort of this like
+
+1075
+00:48:38.510 --> 00:48:42.620
+weird average of what everyone is doing in their
+
+1076
+00:48:42.620 --> 00:48:46.360
+own minds, um, and so, um, and, and so,
+
+1077
+00:48:46.379 --> 00:48:49.100
+and, and when you, when you differ too much
+
+1078
+00:48:49.100 --> 00:48:51.139
+from that, and it doesn't catch on, then yeah,
+
+1079
+00:48:51.219 --> 00:48:53.959
+then then maybe that is wrong, but if everything
+
+1080
+00:48:53.959 --> 00:48:56.459
+is shifting. Then you have to kind of realize,
+
+1081
+00:48:56.540 --> 00:48:58.159
+oh yeah, the average is moving a little bit,
+
+1082
+00:48:58.179 --> 00:49:01.810
+and therefore then that is the new normal, that
+
+1083
+00:49:01.810 --> 00:49:05.600
+is what is considered normal, um. And uh yeah
+
+1084
+00:49:05.600 --> 00:49:08.020
+I think the example I give in my book
+
+1085
+00:49:08.199 --> 00:49:10.879
+was I think I was talking to my to
+
+1086
+00:49:10.879 --> 00:49:13.939
+my grandfather and I mentioned I said like I
+
+1087
+00:49:13.939 --> 00:49:16.080
+don't know some something or some activity was very
+
+1088
+00:49:16.080 --> 00:49:18.560
+fun and he's like you can't say very fun
+
+1089
+00:49:18.560 --> 00:49:21.520
+like that's not proper English and and like I
+
+1090
+00:49:21.520 --> 00:49:22.840
+was like I think me and my brother were
+
+1091
+00:49:22.840 --> 00:49:25.639
+like it sounds fine to me um and then
+
+1092
+00:49:25.639 --> 00:49:27.629
+years later I looked in like cause you can
+
+1093
+00:49:27.629 --> 00:49:30.399
+look at like the frequency of of words and
+
+1094
+00:49:30.399 --> 00:49:33.459
+phrases and usage in um. And like books and
+
+1095
+00:49:33.459 --> 00:49:36.780
+things over time, um, on Google and, uh, and
+
+1096
+00:49:36.780 --> 00:49:38.290
+I actually looked at like very fun and I
+
+1097
+00:49:38.290 --> 00:49:41.179
+could see that it went up right around the
+
+1098
+00:49:41.179 --> 00:49:43.409
+time that I was like young and beginning to
+
+1099
+00:49:43.409 --> 00:49:46.739
+actually learn English and, and so I came of
+
+1100
+00:49:46.739 --> 00:49:50.889
+age in a certain Millieu that were very fun
+
+1101
+00:49:50.889 --> 00:49:54.209
+is correct, while my grandfather was like he learned
+
+1102
+00:49:54.209 --> 00:49:55.929
+English in a different time and so therefore it
+
+1103
+00:49:55.929 --> 00:49:57.409
+was not correct and so you kind of see
+
+1104
+00:49:57.409 --> 00:50:00.169
+that there like very viscerally that there was this
+
+1105
+00:50:00.169 --> 00:50:02.149
+kind of evolution in different phrases and of course
+
+1106
+00:50:02.149 --> 00:50:03.750
+I'm right, we have slang and things like that.
+
+1107
+00:50:04.050 --> 00:50:05.719
+A lot of slang and jargon like doesn't necessarily
+
+1108
+00:50:05.719 --> 00:50:07.209
+stand the test of time and so there's a
+
+1109
+00:50:07.209 --> 00:50:10.719
+lot of phrases where if you heard slang, um,
+
+1110
+00:50:10.729 --> 00:50:13.550
+even from like several years ago. It would be
+
+1111
+00:50:13.550 --> 00:50:15.270
+you'd be like, oh people don't use those words
+
+1112
+00:50:15.270 --> 00:50:16.669
+anymore because those are kind of like flashes in
+
+1113
+00:50:16.669 --> 00:50:18.629
+the pan, very small kinds of things. That being
+
+1114
+00:50:18.629 --> 00:50:21.469
+said, they're like, so though I would say in
+
+1115
+00:50:21.469 --> 00:50:23.370
+when it comes to linguistics, there's all these different
+
+1116
+00:50:23.370 --> 00:50:26.729
+like like rates of change and and phases and
+
+1117
+00:50:26.780 --> 00:50:29.889
+and frequencies, there's like slang that's changing very quickly,
+
+1118
+00:50:30.219 --> 00:50:32.229
+and then there's kind of like underneath that like
+
+1119
+00:50:32.229 --> 00:50:36.149
+a slower layer of. Maybe certain grammatical things or
+
+1120
+00:50:36.149 --> 00:50:37.510
+kind of how we like change and then of
+
+1121
+00:50:37.510 --> 00:50:40.590
+course there's like languages themselves that eventually maybe become
+
+1122
+00:50:40.590 --> 00:50:42.260
+extinct or become a new language and like that's
+
+1123
+00:50:42.260 --> 00:50:44.189
+much, much a much slower process, but then you
+
+1124
+00:50:44.189 --> 00:50:46.469
+have like I mean there's other things like um.
+
+1125
+00:50:47.120 --> 00:50:49.320
+I think there was something I forget it I
+
+1126
+00:50:49.320 --> 00:50:51.909
+think sometime in like the Middle Ages there was
+
+1127
+00:50:51.909 --> 00:50:54.800
+this this great vowel shift where I think a
+
+1128
+00:50:54.800 --> 00:50:58.780
+lot of maybe it was. Like certain kinds of
+
+1129
+00:50:58.780 --> 00:51:00.610
+English, it probably wasn't even modern English at the
+
+1130
+00:51:00.610 --> 00:51:02.479
+time, it was kind of like Middle English, um,
+
+1131
+00:51:02.649 --> 00:51:04.929
+where, so I think like the way the reason
+
+1132
+00:51:04.929 --> 00:51:08.729
+we have, um, you say mouse and mice is
+
+1133
+00:51:08.729 --> 00:51:11.489
+it actually used to be moose and mice, and
+
+1134
+00:51:11.489 --> 00:51:13.489
+then there was this weird shift and a whole
+
+1135
+00:51:13.489 --> 00:51:16.689
+bunch of words all shifted together in this great
+
+1136
+00:51:16.689 --> 00:51:18.889
+vowel shift, um, and then words that kind of
+
+1137
+00:51:18.889 --> 00:51:21.290
+joined the language afterwards don't have that vowel shift
+
+1138
+00:51:21.290 --> 00:51:23.840
+and so and and English is particularly strange where
+
+1139
+00:51:23.840 --> 00:51:27.860
+it's like this accretion of. Multiple different languages and
+
+1140
+00:51:27.939 --> 00:51:31.419
+borrowings and it's, it's a mess and I feel
+
+1141
+00:51:31.419 --> 00:51:33.340
+very fortunate that I learned it as my first
+
+1142
+00:51:33.340 --> 00:51:36.340
+language because it sounds like my sense is it
+
+1143
+00:51:36.340 --> 00:51:38.979
+is a disaster because it has all these different
+
+1144
+00:51:38.979 --> 00:51:41.500
+weird things kind of all on top of each
+
+1145
+00:51:41.500 --> 00:51:45.419
+other and um but ultimately like yeah like I
+
+1146
+00:51:45.419 --> 00:51:50.129
+think this kind of recognition that language is this
+
+1147
+00:51:50.129 --> 00:51:54.399
+weird messy process of like. Words changing their meanings,
+
+1148
+00:51:54.729 --> 00:51:58.209
+new words, new like phrases and grammar that is
+
+1149
+00:51:58.209 --> 00:52:00.370
+considered correct or incorrect, like all these things have
+
+1150
+00:52:00.370 --> 00:52:01.969
+changed and and so even if you look at
+
+1151
+00:52:01.969 --> 00:52:05.060
+um. Like there, so there's this idea, they don't
+
+1152
+00:52:05.060 --> 00:52:06.659
+really, I don't think they teach it anymore, but
+
+1153
+00:52:06.659 --> 00:52:08.239
+like it used to be that you could not
+
+1154
+00:52:08.899 --> 00:52:11.540
+split an infinitive, um, so like the classic split
+
+1155
+00:52:11.540 --> 00:52:14.479
+and infinitive is actually from the um like the
+
+1156
+00:52:14.489 --> 00:52:17.370
+the motto of um like Star Trek, like the
+
+1157
+00:52:17.370 --> 00:52:19.739
+TV series of like to boldly go where no
+
+1158
+00:52:19.739 --> 00:52:21.899
+one has gone before. You can't put like put
+
+1159
+00:52:21.899 --> 00:52:24.620
+like something in so like to go is the
+
+1160
+00:52:24.620 --> 00:52:27.379
+is the um the infinitive and you can't split
+
+1161
+00:52:27.379 --> 00:52:30.590
+it, you can't say to boldly go go. And
+
+1162
+00:52:30.600 --> 00:52:32.649
+the reason behind that rule though is not because
+
+1163
+00:52:32.649 --> 00:52:37.500
+oh it sounds ungrammatical, it's because apparently. Like the
+
+1164
+00:52:37.500 --> 00:52:39.820
+rule came from Latin if I recall correctly, and
+
+1165
+00:52:39.820 --> 00:52:42.620
+like infinitives are a single word and so therefore
+
+1166
+00:52:42.620 --> 00:52:45.340
+to split an infinitive just felt very unnatural, um,
+
+1167
+00:52:45.419 --> 00:52:47.310
+but in English, yeah, I guess you can go
+
+1168
+00:52:47.310 --> 00:52:49.090
+for it and so we we can, so we
+
+1169
+00:52:49.090 --> 00:52:51.770
+are able to boldly go where no one has
+
+1170
+00:52:51.770 --> 00:52:54.179
+gone before um and so and so but but
+
+1171
+00:52:54.179 --> 00:52:56.060
+that's because but that's clearly much more of a
+
+1172
+00:52:56.060 --> 00:52:58.219
+prescriptive rule and now yeah, we kind of just
+
+1173
+00:52:58.219 --> 00:53:00.340
+use descriptive rules where it's like I think if
+
+1174
+00:53:00.340 --> 00:53:02.419
+you are, especially if you're a native, a native
+
+1175
+00:53:02.419 --> 00:53:04.340
+speaker of a language or you've been using it
+
+1176
+00:53:04.340 --> 00:53:07.939
+for for long enough. You have a feel for
+
+1177
+00:53:07.939 --> 00:53:10.939
+when things sound correct or not, and, and I
+
+1178
+00:53:10.939 --> 00:53:14.040
+would say those are much more the accurate markers
+
+1179
+00:53:14.040 --> 00:53:16.219
+of whether or not something is like just like
+
+1180
+00:53:16.219 --> 00:53:18.340
+descriptively grammatical or not. That being said, there is
+
+1181
+00:53:18.340 --> 00:53:21.780
+going to be variation, um, and everyone kind of
+
+1182
+00:53:21.780 --> 00:53:24.489
+at the margins will experience things a little bit
+
+1183
+00:53:24.489 --> 00:53:26.459
+differently, um, and I think, and this is like
+
+1184
+00:53:26.459 --> 00:53:29.189
+the same way where by and large I mean
+
+1185
+00:53:29.379 --> 00:53:32.090
+by and large we all experience. Like color the
+
+1186
+00:53:32.090 --> 00:53:34.239
+same way. I've obviously some people are color blind,
+
+1187
+00:53:34.600 --> 00:53:36.250
+but like we kind of know like these colors
+
+1188
+00:53:36.250 --> 00:53:37.750
+kind of pair well to each other or whatever,
+
+1189
+00:53:37.969 --> 00:53:40.110
+but at the margins there are differences. Everyone does
+
+1190
+00:53:40.570 --> 00:53:43.889
+perceive color a little bit differently, which we often
+
+1191
+00:53:43.889 --> 00:53:46.090
+don't notice that though until there was, I think
+
+1192
+00:53:46.090 --> 00:53:47.870
+it was like a little over 10 years ago,
+
+1193
+00:53:48.090 --> 00:53:50.050
+there was this thing that took uh the, the
+
+1194
+00:53:50.050 --> 00:53:52.409
+dress, the dress, and it was like some people
+
+1195
+00:53:52.409 --> 00:53:53.850
+were like, oh, it's like white and gold, other
+
+1196
+00:53:53.850 --> 00:53:56.250
+people where it's black and blue, and, and it
+
+1197
+00:53:56.250 --> 00:53:58.290
+was one of these things where until you saw
+
+1198
+00:53:58.290 --> 00:54:01.969
+that and saw how people perceived it. It was
+
+1199
+00:54:01.969 --> 00:54:04.629
+kind of like it was very hard to internalize
+
+1200
+00:54:05.010 --> 00:54:08.030
+how people perceive these things slightly differently and, and
+
+1201
+00:54:08.030 --> 00:54:09.610
+I think with language sometimes you can see that
+
+1202
+00:54:09.610 --> 00:54:10.929
+a little bit more of like, oh yeah, is
+
+1203
+00:54:10.929 --> 00:54:13.840
+this incorrect, is this not or whatever, um, but
+
+1204
+00:54:13.850 --> 00:54:15.449
+everyone is kind of perceiving things a little bit
+
+1205
+00:54:15.449 --> 00:54:17.399
+differently, but by and large what like what is
+
+1206
+00:54:17.399 --> 00:54:20.209
+considered linguistic knowledge, color knowledge or whatever is sort
+
+1207
+00:54:20.209 --> 00:54:22.770
+of this like a large kind of. Average of
+
+1208
+00:54:22.770 --> 00:54:25.209
+what everyone has, um, in terms of like and
+
+1209
+00:54:25.209 --> 00:54:28.409
+whether it's like the biological nature of color perception
+
+1210
+00:54:28.409 --> 00:54:31.489
+or just linguistic knowledge, um, and I think those
+
+1211
+00:54:31.489 --> 00:54:35.179
+kinds of things, that kind of That process of
+
+1212
+00:54:35.179 --> 00:54:38.530
+change, especially within the language, um, obviously it's very
+
+1213
+00:54:38.530 --> 00:54:40.939
+different than how we think about scientific knowledge changing,
+
+1214
+00:54:41.100 --> 00:54:42.699
+but in terms of how we perceive change and
+
+1215
+00:54:42.699 --> 00:54:44.489
+what is considered accurate, I think, yeah, you can
+
+1216
+00:54:44.489 --> 00:54:47.580
+actually use some of those kinds of like understanding
+
+1217
+00:54:47.580 --> 00:54:50.639
+of shifts and how people perceive those those shifts
+
+1218
+00:54:50.810 --> 00:54:52.979
+as a good proxy for maybe how we need
+
+1219
+00:54:52.979 --> 00:54:56.169
+to better understand how, yeah, knowledge is changing and
+
+1220
+00:54:56.169 --> 00:54:58.100
+generation knowledge is changing where it might be changing
+
+1221
+00:54:58.100 --> 00:55:02.750
+slowly, but until you Yeah, or talking to the
+
+1222
+00:55:02.750 --> 00:55:04.389
+next generation, and they have all those weird slang
+
+1223
+00:55:04.389 --> 00:55:06.000
+or different ways of using knowledge and you're like
+
+1224
+00:55:06.000 --> 00:55:07.989
+or using language, and you're like, oh wow, it's
+
+1225
+00:55:07.989 --> 00:55:09.830
+totally different. No, the answer is it's not totally
+
+1226
+00:55:09.830 --> 00:55:12.149
+different. It's been changing subtly, you just might not
+
+1227
+00:55:12.149 --> 00:55:12.989
+have perceived it that way.
+
+1228
+00:55:14.080 --> 00:55:19.159
+OK, so earlier we talked about examples of areas
+
+1229
+00:55:19.159 --> 00:55:23.489
+of knowledge where knowledge really tends to change at
+
+1230
+00:55:23.489 --> 00:55:26.530
+a fast pace, and one of them is medicine.
+
+1231
+00:55:26.939 --> 00:55:29.739
+Uh, DO you think there are ways for, there
+
+1232
+00:55:29.739 --> 00:55:33.219
+are ways for doctors to learn how to better
+
+1233
+00:55:33.219 --> 00:55:36.639
+keep up with the latest research? I mean, also
+
+1234
+00:55:36.639 --> 00:55:40.520
+because I've been in medicine and prac practically every
+
+1235
+00:55:40.659 --> 00:55:45.379
+scientific area, there's so many new papers getting published
+
+1236
+00:55:45.379 --> 00:55:47.320
+all the time. I mean, how is it possible
+
+1237
+00:55:47.659 --> 00:55:50.540
+for any one individual to keep up with all
+
+1238
+00:55:50.540 --> 00:55:50.979
+of that?
+
+1239
+00:55:51.659 --> 00:55:54.889
+Yeah, I mean Yeah, in general, the scientific literature
+
+1240
+00:55:54.889 --> 00:55:57.449
+is growing at an enormously fast rate, and it's
+
+1241
+00:55:57.449 --> 00:55:59.879
+like very hard to keep up with it and,
+
+1242
+00:55:59.929 --> 00:56:01.649
+and people have actually kind of like shown that
+
+1243
+00:56:01.649 --> 00:56:03.969
+like the, the implications of this are that there
+
+1244
+00:56:03.969 --> 00:56:05.929
+is knowledge that is effectively hidden, where it's like
+
+1245
+00:56:05.929 --> 00:56:08.209
+hidden like undiscovered public knowledge where it's it could
+
+1246
+00:56:08.209 --> 00:56:09.929
+be that if you read this one paper in
+
+1247
+00:56:09.929 --> 00:56:11.810
+this one field and combined it with this other
+
+1248
+00:56:11.810 --> 00:56:13.610
+paper in the other field, you would learn something
+
+1249
+00:56:13.610 --> 00:56:15.449
+new, but no one has actually read those two
+
+1250
+00:56:15.449 --> 00:56:16.889
+papers and so we don't know and and this
+
+1251
+00:56:16.889 --> 00:56:18.870
+is actually this people have talked about this for
+
+1252
+00:56:18.879 --> 00:56:21.370
+for decades and it's a really interesting idea, um.
+
+1253
+00:56:21.979 --> 00:56:23.790
+But in terms of practically like being able to
+
+1254
+00:56:23.790 --> 00:56:26.500
+just keep up with your own field, is this.
+
+1255
+00:56:27.399 --> 00:56:31.469
+Like it's a never ending task, um, and so
+
+1256
+00:56:31.479 --> 00:56:34.399
+medicine, they, they try to do this, so they
+
+1257
+00:56:34.399 --> 00:56:37.260
+have this the the process of continuing medical education,
+
+1258
+00:56:37.520 --> 00:56:39.620
+at least in the United States where you are
+
+1259
+00:56:40.280 --> 00:56:42.399
+required to kind of like constantly keep up to
+
+1260
+00:56:42.399 --> 00:56:45.270
+date and learn these kinds of things, um. But
+
+1261
+00:56:45.270 --> 00:56:47.419
+there are also, uh, there are tools. There was
+
+1262
+00:56:47.419 --> 00:56:48.669
+one, I think when I was writing the book,
+
+1263
+00:56:48.750 --> 00:56:50.719
+I have no idea how well, how widely it's
+
+1264
+00:56:50.719 --> 00:56:51.989
+still used, but there was one called Up to
+
+1265
+00:56:51.989 --> 00:56:55.189
+Date, which is kind of this constantly I I
+
+1266
+00:56:55.189 --> 00:56:57.949
+constantly changing online resource where you can look things
+
+1267
+00:56:57.949 --> 00:57:00.330
+up and find out, OK, what is the current
+
+1268
+00:57:00.550 --> 00:57:03.229
+like best practice of what to do um for
+
+1269
+00:57:03.229 --> 00:57:04.330
+and it can be as simple as like I
+
+1270
+00:57:04.330 --> 00:57:06.340
+don't know like how to treat a nosebleed, a
+
+1271
+00:57:06.340 --> 00:57:08.750
+nosebleed to something else, like to some probably some
+
+1272
+00:57:08.870 --> 00:57:12.070
+much more like much more like important kind of
+
+1273
+00:57:12.070 --> 00:57:16.389
+thing, um. But, uh, more recently, my sense is
+
+1274
+00:57:16.389 --> 00:57:19.659
+there are a number of AI enhanced tools that
+
+1275
+00:57:19.659 --> 00:57:22.770
+are actually being used to kind of help keep
+
+1276
+00:57:22.770 --> 00:57:25.629
+up to date on the scientific literature because I
+
+1277
+00:57:25.969 --> 00:57:28.250
+with now with like generative AI and large language
+
+1278
+00:57:28.250 --> 00:57:31.570
+models, these large language models like we can't read
+
+1279
+00:57:31.570 --> 00:57:34.489
+all this new scientific literature, these large language models
+
+1280
+00:57:34.489 --> 00:57:37.229
+like. That's the whole point is to just ingest
+
+1281
+00:57:37.229 --> 00:57:40.510
+insane amounts of text, pour it in, and find
+
+1282
+00:57:40.510 --> 00:57:42.389
+some way of querying it or making meaning out
+
+1283
+00:57:42.389 --> 00:57:44.469
+of it and things like that. And so I
+
+1284
+00:57:44.469 --> 00:57:47.270
+believe there are new AI tools that are kind
+
+1285
+00:57:47.270 --> 00:57:51.689
+of designed specifically to help physicians navigate the literature
+
+1286
+00:57:51.750 --> 00:57:53.469
+and find things and kind of be as up
+
+1287
+00:57:53.469 --> 00:57:55.129
+to date as possible. And, and of course I
+
+1288
+00:57:55.129 --> 00:57:56.909
+mean there are, there are tools for this kind
+
+1289
+00:57:56.909 --> 00:57:59.770
+of thing within for the scientific literature more broadly.
+
+1290
+00:58:00.310 --> 00:58:03.350
+Now, of course. The scientific literature, like you want
+
+1291
+00:58:03.350 --> 00:58:04.620
+to be as up to date on the scientific
+
+1292
+00:58:04.620 --> 00:58:07.179
+literature as possible and AI tools help with that.
+
+1293
+00:58:07.350 --> 00:58:08.870
+But in terms of what is the most cutting
+
+1294
+00:58:08.870 --> 00:58:11.229
+edge science, oftentimes the literature is a little bit
+
+1295
+00:58:11.229 --> 00:58:13.520
+out of date itself because like by the time
+
+1296
+00:58:13.520 --> 00:58:15.260
+a paper is actually published or even in form.
+
+1297
+00:58:16.340 --> 00:58:18.729
+Yeah, that scientist has already moved on to some
+
+1298
+00:58:18.729 --> 00:58:20.800
+other thing, or maybe it's taken several like I
+
+1299
+00:58:20.800 --> 00:58:22.570
+it could be taking like 2 years to get
+
+1300
+00:58:22.969 --> 00:58:24.050
+published or whatever it is, so it could be,
+
+1301
+00:58:24.209 --> 00:58:26.090
+it could be out of date and so um
+
+1302
+00:58:26.090 --> 00:58:28.729
+it's still important for a scientists to like talk
+
+1303
+00:58:28.729 --> 00:58:31.250
+to other scientists and go to go to conferences
+
+1304
+00:58:31.250 --> 00:58:34.129
+and and late night at the at the conference
+
+1305
+00:58:34.129 --> 00:58:36.330
+bar, talk about what the different projects they're working
+
+1306
+00:58:36.330 --> 00:58:37.689
+on and what are the cutting edge things and
+
+1307
+00:58:37.689 --> 00:58:40.860
+what are the problems because There's only so much
+
+1308
+00:58:40.860 --> 00:58:44.179
+that can be gained by just reading the literature
+
+1309
+00:58:44.179 --> 00:58:47.459
+because everything is so fast moving. That being said,
+
+1310
+00:58:47.659 --> 00:58:50.659
+right, AI has done a really good job, I
+
+1311
+00:58:50.659 --> 00:58:53.810
+think, of helping to navigate these large bodies of
+
+1312
+00:58:53.969 --> 00:58:55.260
+of text and literature.
+
+1313
+00:58:56.520 --> 00:59:00.399
+OK, so I have just one last question. Why
+
+1314
+00:59:00.399 --> 00:59:03.439
+is it that there are very frequently there are
+
+1315
+00:59:03.439 --> 00:59:09.020
+some outdated facts that keep being prevalent among people
+
+1316
+00:59:09.280 --> 00:59:13.070
+for much longer than they should? I mean, why
+
+1317
+00:59:13.070 --> 00:59:17.030
+does that happen? And I mean, is that a
+
+1318
+00:59:17.030 --> 00:59:20.939
+big problem? Is that something that we should try
+
+1319
+00:59:20.939 --> 00:59:22.489
+to fix or
+
+1320
+00:59:22.489 --> 00:59:26.600
+not? I mean, I mean it is, I think
+
+1321
+00:59:26.600 --> 00:59:28.280
+it is a big problem. I think it is
+
+1322
+00:59:28.280 --> 00:59:30.320
+something that like is still happening like it's not
+
+1323
+00:59:30.320 --> 00:59:31.820
+like it's one of these things where like, oh,
+
+1324
+00:59:32.040 --> 00:59:33.600
+you would say, oh, with the advent of the
+
+1325
+00:59:33.600 --> 00:59:35.479
+internet and the fact that we can now have
+
+1326
+00:59:35.479 --> 00:59:38.199
+like all of human knowledge at our fingertips, this
+
+1327
+00:59:38.199 --> 00:59:40.580
+should never be a problem, and the answer is
+
+1328
+00:59:40.919 --> 00:59:42.639
+it's still a big issue and and it can
+
+1329
+00:59:42.639 --> 00:59:44.350
+be an issue like so like there's kind of
+
+1330
+00:59:44.350 --> 00:59:46.800
+the issue in like the sciences where it could
+
+1331
+00:59:46.800 --> 00:59:49.080
+be. Going back to like we're talking about like
+
+1332
+00:59:49.080 --> 00:59:51.120
+different subfields and one thing where it could be
+
+1333
+00:59:51.120 --> 00:59:54.520
+that like one subfield is moving faster, but but
+
+1334
+00:59:54.520 --> 00:59:56.659
+people in the other subfield don't realize that or
+
+1335
+00:59:56.760 --> 00:59:59.639
+there's some jargon barriers. They don't realize that, oh,
+
+1336
+00:59:59.919 --> 01:00:01.570
+some discovery has been made that actually could be
+
+1337
+01:00:01.570 --> 01:00:03.830
+relevant for this other thing because they don't even
+
+1338
+01:00:03.830 --> 01:00:05.639
+know the terms to search for and I think
+
+1339
+01:00:05.639 --> 01:00:07.000
+with AI some of these kind of things are
+
+1340
+01:00:07.000 --> 01:00:11.239
+changing, um, but I would say more broadly. The
+
+1341
+01:00:11.239 --> 01:00:14.699
+the fact that just our population and our society
+
+1342
+01:00:14.699 --> 01:00:17.540
+has outdated knowledge on like outdated or just like
+
+1343
+01:00:17.540 --> 01:00:21.760
+frankly like wrong information that is like that has
+
+1344
+01:00:21.760 --> 01:00:24.439
+been overturned and people have been told that it's
+
+1345
+01:00:24.439 --> 01:00:28.629
+overturned. Speaks to the fact that like ultimately humans
+
+1346
+01:00:28.810 --> 01:00:31.510
+are subject to a whole host of psychological biases
+
+1347
+01:00:31.510 --> 01:00:34.129
+like we like we think of ourselves as like
+
+1348
+01:00:34.139 --> 01:00:36.760
+very rational beings, we are not, we are very
+
+1349
+01:00:36.760 --> 01:00:40.290
+irrational in many, many different ways and the process
+
+1350
+01:00:40.290 --> 01:00:42.209
+of science is a way of trying to like
+
+1351
+01:00:42.209 --> 01:00:44.669
+overcome that irrationality and kind of like tame it,
+
+1352
+01:00:44.969 --> 01:00:50.449
+but outside of science. Right, it's very hard to
+
+1353
+01:00:50.750 --> 01:00:54.389
+always have the most updated knowledge or sometimes even
+
+1354
+01:00:54.590 --> 01:00:57.649
+be willing to change the information that you have,
+
+1355
+01:00:57.830 --> 01:01:02.229
+um, because people don't want to be told that
+
+1356
+01:01:02.229 --> 01:01:05.149
+they're wrong. I, I, I think that's probably fundamentally
+
+1357
+01:01:05.149 --> 01:01:07.110
+what it comes down to and so there's, um,
+
+1358
+01:01:07.229 --> 01:01:09.350
+there's this great book by Kathryn Schultz called Being
+
+1359
+01:01:09.350 --> 01:01:11.270
+Wrong, and in it she talks about, OK, what
+
+1360
+01:01:11.270 --> 01:01:13.790
+is, um, like what does it feel like to
+
+1361
+01:01:13.790 --> 01:01:16.550
+be wrong? I mean, it feels the exact same
+
+1362
+01:01:16.550 --> 01:01:19.030
+thing as being right because until you're told that
+
+1363
+01:01:19.030 --> 01:01:21.750
+you're wrong, you don't know, like it feels the
+
+1364
+01:01:21.750 --> 01:01:24.370
+same way, but then when you're told sometimes, um,
+
+1365
+01:01:25.080 --> 01:01:28.149
+sometimes actually it feels really, really bad because Like
+
+1366
+01:01:28.350 --> 01:01:30.770
+it makes you feel like, oh my God, I
+
+1367
+01:01:30.949 --> 01:01:33.830
+didn't understand this thing properly, or I was making
+
+1368
+01:01:33.830 --> 01:01:36.739
+decisions on some incorrect foundation, and as a result,
+
+1369
+01:01:36.870 --> 01:01:39.810
+many people then want to fight tooth and nail
+
+1370
+01:01:40.149 --> 01:01:43.709
+for the thing that they're told is wrong because
+
+1371
+01:01:43.709 --> 01:01:46.570
+they don't want to be wrong. And so I
+
+1372
+01:01:46.870 --> 01:01:50.260
+like, so whether it's through the fact like just
+
+1373
+01:01:50.260 --> 01:01:53.939
+kind of like like. The laziness of like half
+
+1374
+01:01:53.939 --> 01:01:56.100
+remembered facts and not looking things up and therefore
+
+1375
+01:01:56.100 --> 01:01:58.979
+just having outdated information or this kind of like
+
+1376
+01:01:59.340 --> 01:02:04.780
+like willful denial of reality like. Humans are imperfect,
+
+1377
+01:02:04.840 --> 01:02:06.399
+and it's just hard for us to do it,
+
+1378
+01:02:06.520 --> 01:02:10.790
+and, and I think I, but I think especially
+
+1379
+01:02:10.790 --> 01:02:14.370
+when it comes to certain things around public health
+
+1380
+01:02:14.629 --> 01:02:18.540
+or as a democratic democratic society is making decisions
+
+1381
+01:02:18.550 --> 01:02:22.629
+about vaccination or other kinds of like medical things
+
+1382
+01:02:22.629 --> 01:02:24.270
+like what are kind of the the what are
+
+1383
+01:02:24.270 --> 01:02:27.219
+the the best practices. It is it is very
+
+1384
+01:02:27.219 --> 01:02:30.219
+important to have a have an informed electorate that
+
+1385
+01:02:30.219 --> 01:02:33.219
+actually has the most up to-date knowledge, um, and
+
+1386
+01:02:33.219 --> 01:02:35.300
+I think, I think there are ways of kind
+
+1387
+01:02:35.300 --> 01:02:37.699
+of like maybe taking it out of certain partisan
+
+1388
+01:02:37.699 --> 01:02:39.899
+debates and kind of making it more and oftentimes
+
+1389
+01:02:39.899 --> 01:02:41.780
+when you take emotion out, then people are much
+
+1390
+01:02:41.780 --> 01:02:46.020
+more willing, I think, to revisit knowledge and and
+
+1391
+01:02:46.020 --> 01:02:47.899
+overturn things that are out of date. And so
+
+1392
+01:02:47.899 --> 01:02:49.500
+the question and and I think going back to
+
+1393
+01:02:49.500 --> 01:02:52.199
+like the irrationality of humans, oftentimes it's because it's
+
+1394
+01:02:52.199 --> 01:02:54.360
+bound up in certain emotions and things like that.
+
+1395
+01:02:55.120 --> 01:02:57.040
+How you kind of take the emotion out, that
+
+1396
+01:02:57.040 --> 01:02:59.540
+is easier said than done, um, but I think
+
+1397
+01:02:59.679 --> 01:03:00.989
+those are the kind of like that is a
+
+1398
+01:03:00.989 --> 01:03:06.929
+task as a um like scientific literate like society
+
+1399
+01:03:06.929 --> 01:03:08.840
+and electorate that we want to have like these
+
+1400
+01:03:08.840 --> 01:03:10.479
+are these are things that we have to actually
+
+1401
+01:03:10.479 --> 01:03:13.600
+be actively thinking about like how do we deliberate
+
+1402
+01:03:13.600 --> 01:03:17.879
+around ideas and make sure that everyone has the
+
+1403
+01:03:17.879 --> 01:03:21.770
+most correct knowledge and is willing to like actually.
+
+1404
+01:03:22.399 --> 01:03:24.540
+Like internalize it as well, which is like that
+
+1405
+01:03:24.550 --> 01:03:27.439
+that's another step too. Um, SO anyway, this is
+
+1406
+01:03:27.439 --> 01:03:28.840
+a long way of saying like these are very
+
+1407
+01:03:28.840 --> 01:03:32.239
+hard issues, they are very real problems, and yeah,
+
+1408
+01:03:32.310 --> 01:03:33.870
+and as a society we, we have our work
+
+1409
+01:03:33.870 --> 01:03:34.520
+cut out for us.
+
+1410
+01:03:35.770 --> 01:03:38.689
+Great. So let's end on that note, Dr. Arbusman,
+
+1411
+01:03:38.770 --> 01:03:41.810
+and the book is again The Half-Life of Facts
+
+1412
+01:03:41.810 --> 01:03:44.969
+Why Everything We Know Has an expiration date, and
+
+1413
+01:03:44.969 --> 01:03:46.639
+I will of course leave a link to it
+
+1414
+01:03:46.639 --> 01:03:50.070
+in the description of the interview. And just before
+
+1415
+01:03:50.070 --> 01:03:52.409
+we go, would you like to let people know
+
+1416
+01:03:52.409 --> 01:03:54.969
+where they can find you and your work on
+
+1417
+01:03:54.969 --> 01:03:55.510
+the internet?
+
+1418
+01:03:55.919 --> 01:03:59.729
+Yeah, sure. So, um, my website is arbusman.net, so
+
+1419
+01:03:59.729 --> 01:04:02.189
+just my last name.net, and then on it you
+
+1420
+01:04:02.189 --> 01:04:05.070
+can find links to recent articles as well as
+
+1421
+01:04:05.070 --> 01:04:07.239
+to uh my newsletter. So I have a newsletter
+
+1422
+01:04:07.239 --> 01:04:08.669
+on Sub stack, and you can, you can find
+
+1423
+01:04:08.669 --> 01:04:09.719
+it on on that website.
+
+1424
+01:04:10.560 --> 01:04:12.679
+Great. So thank you so much for taking the
+
+1425
+01:04:12.679 --> 01:04:14.800
+time to come on the show. It's been really
+
+1426
+01:04:14.800 --> 01:04:15.739
+fun to talk with you.
+
+1427
+01:04:16.060 --> 01:04:17.800
+Likewise, thank you so much. I really appreciate it.
+
+1428
+01:04:19.110 --> 01:04:21.629
+Hi guys, thank you for watching this interview until
+
+1429
+01:04:21.629 --> 01:04:23.750
+the end. If you liked it, please share it,
+
+1430
+01:04:23.949 --> 01:04:26.719
+leave a like and hit the subscription button. The
+
+1431
+01:04:26.719 --> 01:04:28.979
+show is brought to you by Enlights Learning and
+
+1432
+01:04:28.979 --> 01:04:33.010
+Development done differently. Check their website at enlights.com and
+
+1433
+01:04:33.010 --> 01:04:36.739
+also please consider supporting the show on Patreon or
+
+1434
+01:04:36.739 --> 01:04:39.219
+PayPal. I would also like to give a huge
+
+1435
+01:04:39.219 --> 01:04:42.320
+thank you to my main patrons and PayPal supporters,
+
+1436
+01:04:42.739 --> 01:04:46.580
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+1437
+01:04:46.620 --> 01:04:49.889
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis,
+
+1438
+01:04:50.040 --> 01:04:53.610
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1439
+01:04:53.610 --> 01:04:57.610
+Robert Windegeru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1440
+01:04:58.120 --> 01:05:01.909
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Svergoras and
+
+1441
+01:05:01.909 --> 01:05:05.689
+Hal Herzognon, Michel Jonathan Labrarinth, John Yardston, and Samuel
+
+1442
+01:05:05.689 --> 01:05:09.610
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+1443
+01:05:09.770 --> 01:05:13.449
+David Sloan Wilson, Yasilla Dezara Romain Roach, Diego Londono
+
+1444
+01:05:13.449 --> 01:05:17.840
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+1445
+01:05:17.840 --> 01:05:21.790
+Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal
+
+1446
+01:05:21.790 --> 01:05:25.800
+Adrian Yei Poltonin, John Barboza, Julian Price, Edward Hall,
+
+1447
+01:05:25.879 --> 01:05:30.199
+Edin Bronner, Douglas Fry, Franco Bartolati, Gabriel Pan Scortez
+
+1448
+01:05:30.199 --> 01:05:33.879
+or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith,
+
+1449
+01:05:33.959 --> 01:05:37.989
+and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+1450
+01:05:38.350 --> 01:05:43.090
+Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David
+
+1451
+01:05:43.100 --> 01:05:46.949
+Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw,
+
+1452
+01:05:47.260 --> 01:05:51.399
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+1453
+01:05:51.399 --> 01:05:56.350
+Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert
+
+1454
+01:05:56.350 --> 01:06:00.989
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+1455
+01:06:00.989 --> 01:06:04.979
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+1456
+01:06:05.270 --> 01:06:09.790
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+1457
+01:06:09.790 --> 01:06:14.750
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+1458
+01:06:14.750 --> 01:06:21.600
+Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi,
+
+1459
+01:06:21.870 --> 01:06:27.419
+Perpendicular, Janusertner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean
+
+1460
+01:06:27.699 --> 01:06:31.760
+Nelson, Mike Levin, and Jos Necht. A special thanks
+
+1461
+01:06:31.760 --> 01:06:34.719
+to my producers Iar Webb, Jim Frank Lucas Stink,
+
+1462
+01:06:34.840 --> 01:06:39.250
+Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull,
+
+1463
+01:06:39.560 --> 01:06:42.500
+Catherine and Patrick Tobin, John Carlomon Negro, Al Nick
+
+1464
+01:06:42.500 --> 01:06:45.709
+Cortiz, and Nick Golden, and to my executive producers,
+
+1465
+01:06:45.719 --> 01:06:49.439
+Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank
+
+1466
+01:06:49.439 --> 01:06:50.100
+you for all.
+

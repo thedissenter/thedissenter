@@ -12,7 +12,9 @@
 		"General Science"
 	],
 	"title": "#1317 Samuel Arbesman - The Half-life of Facts: Why Everything We Know Has an Expiration Date",
-	"youtubeid": "hZFuvKTAkr4"
+	"vtt": "1317.vtt",
+	"youtubeid": "hZFuvKTAkr4",
+	"transcript": "1317.lines.json"
 }
 ---
 RECORDED ON JULY 8th 2026.  
