@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1318 César Marín: Multilevel Selection in Evolutionary Biology",
-	"youtubeid": "dYi_ntOsyCk"
+	"vtt": "1318.vtt",
+	"youtubeid": "dYi_ntOsyCk",
+	"transcript": "1318.lines.json"
 }
 ---
 RECORDED ON JULY 21st 2026.  
@@ -37,4 +39,5 @@ Time Links:
 Follow Dr. Marín’s work:  
 Website: https://cesar-marin.com/  
 ResearchGate profile: https://tinyurl.com/mwbx3rnr  
+Abundant empirical evidence of multilevel selection revealed by a bibliometric review: https://tinyurl.com/3jemjzsm  
 X handle: @cesarmarin203

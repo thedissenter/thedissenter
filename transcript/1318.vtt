@@ -1,0 +1,4450 @@
+WEBVTT
+
+1
+00:00:00.519 --> 00:00:03.170
+Hello everyone. Welcome to a new episode of the
+
+2
+00:00:03.170 --> 00:00:06.360
+Dissenter. I'm your host, as always, Ricardo Lopes, and
+
+3
+00:00:06.360 --> 00:00:09.640
+today I'm joined by Doctor Cesar Marin. He's full
+
+4
+00:00:09.640 --> 00:00:13.359
+professor in the School of Sciences at Santo Tomass
+
+5
+00:00:13.359 --> 00:00:16.450
+University in Chile. And today we're going to talk
+
+6
+00:00:16.450 --> 00:00:21.090
+about levels of selection in the context of evolutionary
+
+7
+00:00:21.090 --> 00:00:26.489
+biology and multi-level selection and its implications in terms
+
+8
+00:00:26.489 --> 00:00:33.490
+of multicellularity, social behavior, cooperation, cultural evolution, and other
+
+9
+00:00:33.490 --> 00:00:37.090
+related phenomena. So Dr. Martin, welcome to the show.
+
+10
+00:00:37.130 --> 00:00:38.689
+It's a huge pleasure to everyone.
+
+11
+00:00:40.169 --> 00:00:43.450
+Hi, Ricardo and hi, everyone. Uh THANK you very
+
+12
+00:00:43.450 --> 00:00:47.549
+much for this invitation. I have been following your
+
+13
+00:00:48.119 --> 00:00:50.689
+uh YouTube channel for, for a while now and,
+
+14
+00:00:50.750 --> 00:00:52.569
+and I really like it. So it's a, it's
+
+15
+00:00:52.569 --> 00:00:53.930
+a true honor to be here.
+
+16
+00:00:54.590 --> 00:00:57.250
+Well, thank you, thank you for the kind words.
+
+17
+00:00:57.909 --> 00:01:00.869
+So let's start here with, uh, I mean, this
+
+18
+00:01:00.869 --> 00:01:03.869
+is actually a question that I've already explored other
+
+19
+00:01:03.869 --> 00:01:07.180
+times on the show with people like, for example,
+
+20
+00:01:07.470 --> 00:01:10.949
+I remember talking about it with Doctor David Sloan
+
+21
+00:01:10.949 --> 00:01:14.230
+Wilson, with Doctor Sami Okashi and other people like
+
+22
+00:01:14.230 --> 00:01:20.800
+that. But what are levels of selection, and I
+
+23
+00:01:20.800 --> 00:01:23.279
+mean what is the distinction? I think this is
+
+24
+00:01:23.279 --> 00:01:26.360
+also an important distinction to make because sometimes people
+
+25
+00:01:26.360 --> 00:01:30.360
+conflate the two concepts. What is the distinction between
+
+26
+00:01:30.360 --> 00:01:33.360
+levels of selection and units of selection?
+
+27
+00:01:34.720 --> 00:01:38.190
+Great. That's a perfect question to start this conversation.
+
+28
+00:01:38.720 --> 00:01:42.180
+So, a level of selection will be simply um
+
+29
+00:01:42.680 --> 00:01:48.449
+a level across a biological nested hierarchy. In which
+
+30
+00:01:48.449 --> 00:01:52.730
+natural selection occurs. So what do I mean, what
+
+31
+00:01:52.730 --> 00:01:55.330
+do I mean by, uh, a nested hierarchy? So
+
+32
+00:01:55.330 --> 00:01:59.209
+you know that. Genomes are inside cells and then
+
+33
+00:01:59.209 --> 00:02:03.250
+cells are inside organisms and organisms belong to groups
+
+34
+00:02:03.250 --> 00:02:08.250
+and groups belongs to populations. Populations belong, belong to.
+
+35
+00:02:09.619 --> 00:02:14.339
+Communities and communities belong to ecosystems, so. There is
+
+36
+00:02:14.339 --> 00:02:18.350
+this whole um by, by its nature, biology is,
+
+37
+00:02:18.470 --> 00:02:21.779
+is, is nested and we have all these nested
+
+38
+00:02:21.779 --> 00:02:26.000
+levels. So, when we say levels of, of selection,
+
+39
+00:02:26.779 --> 00:02:30.479
+we leave open the possibility that natural selection occurs
+
+40
+00:02:30.929 --> 00:02:36.300
+across this hierarchy. Now, what is exactly natural selection?
+
+41
+00:02:37.389 --> 00:02:41.259
+And this has been debated for 60 years at
+
+42
+00:02:41.259 --> 00:02:46.179
+the moment, more or less since the 1970s when
+
+43
+00:02:46.179 --> 00:02:50.789
+seminal works by Richard Dawkins and by Richard Leonine
+
+44
+00:02:52.100 --> 00:02:57.820
+appeared and in particular, uh, Richard Leontein. He has
+
+45
+00:02:57.820 --> 00:03:02.869
+a very famous paper. From 1970 called the UNISOP
+
+46
+00:03:02.869 --> 00:03:09.130
+selection and in that paper. Leonine recognized 3 ingredients,
+
+47
+00:03:09.289 --> 00:03:11.889
+so that now this approach is called the recipe
+
+48
+00:03:11.889 --> 00:03:18.490
+approach because he recognizes it um. Three things that
+
+49
+00:03:18.809 --> 00:03:22.289
+need to occur for evolution through natural selection to
+
+50
+00:03:22.289 --> 00:03:27.929
+happen. So, those are phenotypic variation, differential, proliferation, and
+
+51
+00:03:27.929 --> 00:03:32.910
+inheritance. This is called the recipe approach and um
+
+52
+00:03:33.470 --> 00:03:39.710
+the decade later, so in the 1980s. A philosopher
+
+53
+00:03:39.710 --> 00:03:43.830
+named Elizabeth Lloyd, who still works, who's still in
+
+54
+00:03:43.830 --> 00:03:50.309
+Indiana University. She said, OK, these 3 ingredients are,
+
+55
+00:03:50.470 --> 00:03:54.289
+are, are correct, but we need to recognize that
+
+56
+00:03:54.779 --> 00:04:02.419
+phenotypic variation. And differential proliferation. Occur in one type
+
+57
+00:04:02.419 --> 00:04:07.479
+of entity which it was called the interactor on
+
+58
+00:04:07.479 --> 00:04:10.380
+or one type of unit to be exact, which
+
+59
+00:04:10.380 --> 00:04:15.460
+was called the interactor and then inheritance was uh
+
+60
+00:04:15.460 --> 00:04:19.690
+happening or happens. In other type of entity which
+
+61
+00:04:19.690 --> 00:04:23.570
+is called the replicator. So that was the first
+
+62
+00:04:23.570 --> 00:04:27.010
+distinction that it was made way back in the
+
+63
+00:04:27.010 --> 00:04:30.600
+70s and 80s. So we know that there is
+
+64
+00:04:30.609 --> 00:04:36.070
+an interactor which is basically the unit that interacts
+
+65
+00:04:36.329 --> 00:04:39.890
+with the environment through its traits in a way
+
+66
+00:04:39.890 --> 00:04:46.739
+that proliferation is differential. Uh, BUT there is another
+
+67
+00:04:46.739 --> 00:04:51.500
+unit which is the replicator, which is the, the
+
+68
+00:04:51.500 --> 00:04:59.100
+entity that gets differently, differentially copied or replicated through
+
+69
+00:04:59.100 --> 00:05:06.000
+several generations. And um So that, that made the
+
+70
+00:05:06.000 --> 00:05:09.739
+definition of natural selection in my view, pretty clear
+
+71
+00:05:10.799 --> 00:05:13.820
+and I will read like the, the, literally the,
+
+72
+00:05:13.880 --> 00:05:17.269
+the, the, the definition in a, in a really
+
+73
+00:05:17.269 --> 00:05:19.359
+nice book that I really recommend you which is
+
+74
+00:05:19.359 --> 00:05:22.739
+called Units of Selection by Javier Suarez and And
+
+75
+00:05:22.739 --> 00:05:26.929
+Elizabeth Lloyd from 2023. So they say that natural
+
+76
+00:05:26.929 --> 00:05:30.640
+selection is the process in which the differential proliferation
+
+77
+00:05:30.640 --> 00:05:37.359
+of interactors causes uh the differential replication of replicators.
+
+78
+00:05:38.260 --> 00:05:43.239
+So we have one type of entity which And,
+
+79
+00:05:43.250 --> 00:05:46.920
+because there are, because there is phenotypic variation. Um,
+
+80
+00:05:47.750 --> 00:05:54.269
+THIS variation leads to differential proliferation which causes Uh,
+
+81
+00:05:54.279 --> 00:05:58.119
+that the replicators are also, uh, copied in a
+
+82
+00:05:58.119 --> 00:06:03.350
+different way. Um THEN in the 80s and 90s,
+
+83
+00:06:03.359 --> 00:06:07.589
+we started to discover that inheritance was not only
+
+84
+00:06:07.589 --> 00:06:14.029
+about a replication, we started to discover. Epigenetic inheritance
+
+85
+00:06:14.029 --> 00:06:18.649
+and cultural inheritance and even nowadays, people are talking
+
+86
+00:06:18.649 --> 00:06:23.750
+about protein inheritance. So they introduced another type of
+
+87
+00:06:23.750 --> 00:06:26.869
+unit, but it's similar to a replicator which, which,
+
+88
+00:06:26.920 --> 00:06:33.339
+which is called the reproducer. So reproducers simply introduces
+
+89
+00:06:33.339 --> 00:06:38.790
+or adds these other types of inheritance. And very
+
+90
+00:06:38.790 --> 00:06:47.579
+recently, we also know that. Uh OLON. Uh, THEY
+
+91
+00:06:47.579 --> 00:06:51.619
+reconstitute the, the, their microbiome through the, through, through
+
+92
+00:06:51.619 --> 00:06:57.140
+different generations. So, the obon recruit more or less
+
+93
+00:06:57.140 --> 00:07:01.779
+the same type of microorganisms. Uh, THROUGH different, uh,
+
+94
+00:07:02.059 --> 00:07:06.119
+generations, um, and that's called the reconstitutor. And finally,
+
+95
+00:07:07.130 --> 00:07:09.769
+And, and, and, and, and this is, will be
+
+96
+00:07:09.769 --> 00:07:11.829
+my last point in, in that, in this regard.
+
+97
+00:07:12.559 --> 00:07:16.529
+Um, FOR a long, long time, the focus of
+
+98
+00:07:16.529 --> 00:07:22.309
+most of biology. Is what uh Elizabeth Loyd calls
+
+99
+00:07:22.549 --> 00:07:28.190
+optimized or accumulated adaptations. An accumulated adaptation could be
+
+100
+00:07:28.190 --> 00:07:32.290
+the human eye, for example, which Improve for some,
+
+101
+00:07:32.489 --> 00:07:36.630
+for many, many thousands and millions of years or
+
+102
+00:07:36.809 --> 00:07:41.649
+Darwin finche's beaks, which some got elongated, some got
+
+103
+00:07:41.649 --> 00:07:45.279
+shorter. So this kind of traits that have a
+
+104
+00:07:45.279 --> 00:07:52.649
+linear response and They occur also at, at certain
+
+105
+00:07:52.649 --> 00:07:56.480
+levels of this biological hierarchy, usually just at the
+
+106
+00:07:56.480 --> 00:08:00.760
+organismal level. Uh, AND she identified this as the
+
+107
+00:08:00.760 --> 00:08:05.940
+manifesto of accumulated adaptation has a long name, but
+
+108
+00:08:06.600 --> 00:08:10.760
+in short, Uh, units of selection, we have 3
+
+109
+00:08:10.760 --> 00:08:16.160
+types, basically interactor, replicator, rep producer, reconstitutor, and manifester
+
+110
+00:08:16.160 --> 00:08:20.130
+of adaptation. Levels of selection on the other hand,
+
+111
+00:08:20.230 --> 00:08:25.700
+um. If natural selection occurs across this hierarchy from
+
+112
+00:08:25.700 --> 00:08:30.570
+molecules to basically communities and ecosystems. That would be
+
+113
+00:08:30.570 --> 00:08:33.489
+a level of selection but that should be always
+
+114
+00:08:33.489 --> 00:08:35.080
+empirically tested.
+
+115
+00:08:35.820 --> 00:08:41.979
+Mhm. So when for example people suggest that the
+
+116
+00:08:41.979 --> 00:08:47.280
+unit of selection is the gene or the cell
+
+117
+00:08:47.469 --> 00:08:52.260
+or the entire organism, the individual, uh, which of
+
+118
+00:08:52.260 --> 00:08:57.219
+those types of units of selection are they referring
+
+119
+00:08:57.219 --> 00:09:00.059
+to, or could it be that each of those
+
+120
+00:09:00.059 --> 00:09:03.739
+three different types refer to a different type of
+
+121
+00:09:03.739 --> 00:09:04.940
+unit of selection?
+
+122
+00:09:05.929 --> 00:09:09.210
+Yeah, that's also a really good question and um.
+
+123
+00:09:11.289 --> 00:09:14.419
+I, I, I come from the tradition in biology
+
+124
+00:09:14.419 --> 00:09:17.919
+to check this kind of things empirically and in
+
+125
+00:09:17.919 --> 00:09:21.369
+a case by case scenario. So, for example, when
+
+126
+00:09:21.369 --> 00:09:23.440
+people say that the gene is the, the unit
+
+127
+00:09:23.440 --> 00:09:29.309
+of selection, um, They At least people with a
+
+128
+00:09:29.309 --> 00:09:34.400
+gene-centric view. HAVE had a really hard time. Uh,
+
+129
+00:09:34.419 --> 00:09:39.169
+ADOPTING these three types of units that I mentioned
+
+130
+00:09:39.169 --> 00:09:41.859
+before. And usually in these debates, there, there is
+
+131
+00:09:41.859 --> 00:09:46.979
+a lot of confusion across those, um, those functions.
+
+132
+00:09:47.020 --> 00:09:48.460
+If you think about it at the end of
+
+133
+00:09:48.460 --> 00:09:53.159
+the day, these are, these are functions. In most
+
+134
+00:09:53.159 --> 00:09:58.900
+cases, in the majority of cases, genes constitute replicators,
+
+135
+00:09:59.039 --> 00:10:03.409
+and that's the role. There are some instances which
+
+136
+00:10:03.409 --> 00:10:08.929
+are called intragenomic conflict in which genes or, or
+
+137
+00:10:08.929 --> 00:10:12.390
+gen or genetic elements, cause it's not only genes,
+
+138
+00:10:12.440 --> 00:10:17.000
+it's also transposons and microRNAs and, and, and different
+
+139
+00:10:17.000 --> 00:10:21.119
+kind of uh different types of genetic elements could
+
+140
+00:10:21.119 --> 00:10:25.580
+be the interactor uh cause in those situations, they
+
+141
+00:10:25.580 --> 00:10:28.650
+are interacting directly with the environment, with the gen
+
+142
+00:10:28.650 --> 00:10:33.450
+genomic environment. But kind of in the usual case,
+
+143
+00:10:33.609 --> 00:10:39.859
+genes will be um the replicator. Organisms, I think
+
+144
+00:10:39.859 --> 00:10:45.940
+that there is no controversy. Organisms are. Usually, um,
+
+145
+00:10:46.539 --> 00:10:51.580
+interactors are the perfect example of interactors, and, um,
+
+146
+00:10:51.659 --> 00:10:54.260
+I would say that groups of organisms and we
+
+147
+00:10:54.260 --> 00:10:57.979
+have provide a, a ton of evidence in our,
+
+148
+00:10:58.070 --> 00:11:02.789
+in our bibliometric review. Uh, THERE is also, uh,
+
+149
+00:11:02.989 --> 00:11:05.690
+they are also interactors in, in many cases. So
+
+150
+00:11:06.270 --> 00:11:10.390
+my answer for that should be that this needs
+
+151
+00:11:10.390 --> 00:11:14.049
+to be examined in a case by case manner,
+
+152
+00:11:14.750 --> 00:11:18.640
+um. To see those, those roles and basically you
+
+153
+00:11:18.640 --> 00:11:23.780
+need to measure. Uh, PROCESS of phenotypic variation and
+
+154
+00:11:23.780 --> 00:11:29.940
+differential proliferation at one level that leads to a
+
+155
+00:11:29.940 --> 00:11:35.580
+differential, um, replication usually at a lower level. If
+
+156
+00:11:35.580 --> 00:11:40.119
+you have those two things. Then, then you have
+
+157
+00:11:40.119 --> 00:11:43.280
+at least those two units of selection. The most
+
+158
+00:11:43.280 --> 00:11:47.080
+basic unit though is the interactor, and, and there
+
+159
+00:11:47.080 --> 00:11:50.119
+are many tools that you can use, many quantitative
+
+160
+00:11:50.119 --> 00:11:55.159
+genetics tools. Uh, THAT you can use to detect
+
+161
+00:11:55.159 --> 00:12:00.640
+interactors, to detect differential proliferation and pheno and phenotypic
+
+162
+00:12:00.640 --> 00:12:05.200
+variation, and then you kind of infer inheritance. You
+
+163
+00:12:05.200 --> 00:12:09.229
+can also measure inheritance, of course, but Um, you
+
+164
+00:12:09.229 --> 00:12:13.469
+can at least detect these two characteristics through several,
+
+165
+00:12:13.630 --> 00:12:18.030
+uh, very, very simple tools developed back in the
+
+166
+00:12:18.030 --> 00:12:24.419
+1980s. Um, THAT measure natural selection in real time
+
+167
+00:12:24.419 --> 00:12:28.140
+and there are many, many stu studies that have
+
+168
+00:12:28.140 --> 00:12:30.640
+done, uh, that kind of measurement.
+
+169
+00:12:31.590 --> 00:12:35.590
+OK, so I mean when it comes to that
+
+170
+00:12:35.590 --> 00:12:41.469
+kind of very prominent approach in evolutionary biology that
+
+171
+00:12:41.469 --> 00:12:47.010
+was popularized by Richard Dawkins, there is a gene-centered
+
+172
+00:12:47.109 --> 00:12:51.200
+view of evolution. Um, I mean, do you think,
+
+173
+00:12:51.340 --> 00:12:54.640
+uh, and of course we're going to probably explore
+
+174
+00:12:54.640 --> 00:12:56.799
+that a little bit more when we talk about
+
+175
+00:12:56.799 --> 00:13:00.039
+the different levels of selection and multi-level selection in
+
+176
+00:13:00.039 --> 00:13:03.820
+a bit, but do you think that that view
+
+177
+00:13:04.210 --> 00:13:08.919
+by now is outdated, or do you think rather
+
+178
+00:13:08.919 --> 00:13:15.409
+that perhaps Richard. Dawkins in the Selfish Gene was
+
+179
+00:13:15.409 --> 00:13:21.010
+referring to genes as simply units of selection that
+
+180
+00:13:21.010 --> 00:13:27.429
+are replicators and he wouldn't deny or go against
+
+181
+00:13:28.250 --> 00:13:32.280
+other types of units of selection that people could
+
+182
+00:13:32.280 --> 00:13:32.950
+propose.
+
+183
+00:13:33.969 --> 00:13:37.359
+Yeah, that's sounds a really good question. Um, AND,
+
+184
+00:13:37.489 --> 00:13:40.340
+and there are, this question has been answered in
+
+185
+00:13:40.340 --> 00:13:46.200
+a 1999 paper. By Stephen J. Gould and Elizabeth
+
+186
+00:13:46.200 --> 00:13:52.349
+Lloyd in PNAs, really good paper. Um, CREDIT to
+
+187
+00:13:52.349 --> 00:13:56.729
+where credit is due cause I think. That one
+
+188
+00:13:57.429 --> 00:14:02.080
+correct thing that that Dawkins did. Was precisely, although
+
+189
+00:14:02.080 --> 00:14:05.599
+he, he called it this in, in, in different
+
+190
+00:14:05.599 --> 00:14:10.390
+ways. He talked about vehicles. And that that we
+
+191
+00:14:10.390 --> 00:14:15.260
+now name as interactors, but, but this distinction between
+
+192
+00:14:15.260 --> 00:14:19.780
+replicators and, and vehicles or, or, or interactors, yeah,
+
+193
+00:14:19.900 --> 00:14:21.940
+in one of the first places that it appeared
+
+194
+00:14:21.940 --> 00:14:25.340
+was actually in the, in the selfish gene. So,
+
+195
+00:14:25.500 --> 00:14:28.169
+so that I think that's a, a good, uh,
+
+196
+00:14:28.179 --> 00:14:34.640
+conceptual. Uh, GAIN, uh, from, from, from that book
+
+197
+00:14:35.260 --> 00:14:38.099
+where I think he lost me and he lost
+
+198
+00:14:38.099 --> 00:14:44.229
+many people is That genes are given an agency
+
+199
+00:14:44.229 --> 00:14:48.289
+and a role in evolution and in natural selection
+
+200
+00:14:48.289 --> 00:14:53.900
+that, that they do not have. So, um. In
+
+201
+00:14:53.900 --> 00:14:57.700
+a, in a, in this gene-centric view, of course,
+
+202
+00:14:57.820 --> 00:15:02.500
+the gene is, is fundamental, um, and kind of
+
+203
+00:15:02.500 --> 00:15:06.369
+the pheno the phenotype is, is almost peripheral to,
+
+204
+00:15:06.539 --> 00:15:13.270
+to, to evolution. Um, On the other hand, if,
+
+205
+00:15:13.340 --> 00:15:17.469
+if someone knows about the history of biology, the
+
+206
+00:15:17.469 --> 00:15:20.750
+debate is not really new back, way back in
+
+207
+00:15:20.750 --> 00:15:25.270
+the 1920s and 1930s. This was basically the argument
+
+208
+00:15:25.270 --> 00:15:30.780
+between uh. Uh, Sewall Wright and Ronald Fisher. Uh,
+
+209
+00:15:30.789 --> 00:15:35.919
+Ronald Fisher defended, uh, more or less gen-centric view.
+
+210
+00:15:37.530 --> 00:15:40.150
+And C Wright defended um what I would call
+
+211
+00:15:40.150 --> 00:15:43.989
+a phenotypic perspective of, of evolution. So last year
+
+212
+00:15:43.989 --> 00:15:48.289
+I published with my weight, uh, also from Indiana
+
+213
+00:15:48.289 --> 00:15:53.039
+University, a paper, uh, a, a opinion article in
+
+214
+00:15:53.039 --> 00:15:57.039
+New Phytologist called uh Bring Back the Phenotype cause
+
+215
+00:15:58.030 --> 00:16:01.099
+For me, it's very, very interesting and I cannot
+
+216
+00:16:01.099 --> 00:16:06.789
+help but notice this that after the genome, uh,
+
+217
+00:16:07.070 --> 00:16:11.450
+uh, human genome, genome project was finished and then
+
+218
+00:16:12.109 --> 00:16:16.030
+all these many, many hundreds of other genome projects
+
+219
+00:16:16.030 --> 00:16:20.099
+appear in, in animals, in plants, uh, I'm, I'm
+
+220
+00:16:20.099 --> 00:16:24.299
+a, I'm a mycologist even in, in fungi. There
+
+221
+00:16:24.299 --> 00:16:29.150
+have been thousands of sequences of, of genomes. Uh,
+
+222
+00:16:29.219 --> 00:16:33.229
+AND then all the other technologies, uh, proteomics and
+
+223
+00:16:33.229 --> 00:16:37.010
+metabolomics and transcriptomics and so on. So we have
+
+224
+00:16:37.010 --> 00:16:40.469
+all this data, all these analysis, millions and millions
+
+225
+00:16:40.469 --> 00:16:44.260
+of, of, of, of dollars invested on that. At,
+
+226
+00:16:44.340 --> 00:16:47.359
+at least in my field, what are people doing
+
+227
+00:16:47.520 --> 00:16:52.179
+right now? Trait ecology. So people are measuring thousands
+
+228
+00:16:52.179 --> 00:16:57.700
+of traits of millions of organisms because despite all
+
+229
+00:16:57.700 --> 00:17:02.770
+that technology, despite all that investment. In trying to
+
+230
+00:17:02.770 --> 00:17:08.699
+understand molecular mechanisms, we still don't understand. Uh, HOW.
+
+231
+00:17:09.540 --> 00:17:14.579
+Uh HOW their, their ecology is, what, why are
+
+232
+00:17:14.579 --> 00:17:17.260
+they in, in the places that they are present.
+
+233
+00:17:18.170 --> 00:17:20.810
+So, I kind of feel particularly in ecology and
+
+234
+00:17:20.810 --> 00:17:25.270
+in evolutionary ecology that people are returning back to
+
+235
+00:17:25.489 --> 00:17:30.189
+what Sewall Wright did 100 years ago to measure
+
+236
+00:17:30.930 --> 00:17:34.829
+um traits in real time because they now recognize
+
+237
+00:17:35.290 --> 00:17:38.849
+finally and locally, uh the central role of the
+
+238
+00:17:38.849 --> 00:17:41.609
+phenotypes. So that's kind of where I see the
+
+239
+00:17:41.609 --> 00:17:47.969
+field. Um, Yeah, in a phenotypic perspective. So, so
+
+240
+00:17:47.969 --> 00:17:50.890
+yeah, we can compare this phenotypic perspective versus the
+
+241
+00:17:50.890 --> 00:17:55.150
+gene perspective. In a phenotypic perspective, the gene is
+
+242
+00:17:55.250 --> 00:17:59.859
+peripheral to, to, to evolution. Uh, IN a gene-centric
+
+243
+00:17:59.859 --> 00:18:04.140
+view, the phenotype is peripheral to evolution, so kind
+
+244
+00:18:04.140 --> 00:18:09.699
+of ontologically that makes a huge, uh, difference, um,
+
+245
+00:18:09.979 --> 00:18:16.239
+but also. Uh, TO be honest, people have came
+
+246
+00:18:16.239 --> 00:18:21.099
+to realize that, um, And, and people from, from,
+
+247
+00:18:21.260 --> 00:18:25.849
+from genetics uh that have really, really heavy knowledge
+
+248
+00:18:25.849 --> 00:18:30.329
+or good knowledge in genetics and quantitative genetics and
+
+249
+00:18:30.329 --> 00:18:33.010
+population genetics which are two kind of different fields,
+
+250
+00:18:33.020 --> 00:18:36.420
+but they managed both of them. They have come
+
+251
+00:18:36.420 --> 00:18:39.780
+to realize that the effect of a gene on
+
+252
+00:18:39.780 --> 00:18:43.689
+the phenotype and in consequence on, on, on fitness
+
+253
+00:18:43.689 --> 00:18:49.989
+or, or on reproductive success. Depends on interactions with
+
+254
+00:18:49.989 --> 00:18:54.800
+other genes, depends on interactions within the same organism,
+
+255
+00:18:55.359 --> 00:19:01.000
+depends on interactions with genes of other individuals, and
+
+256
+00:19:01.000 --> 00:19:05.800
+these effects, these, these effects of a gene changes
+
+257
+00:19:05.800 --> 00:19:11.619
+between generations, changes between populations, and changes between environments.
+
+258
+00:19:12.040 --> 00:19:17.989
+So, It's so complicated to actually estimate the effect
+
+259
+00:19:17.989 --> 00:19:23.739
+of a gene. Considering all these different uh interactions.
+
+260
+00:19:24.199 --> 00:19:27.520
+And also over the last couple of years, uh,
+
+261
+00:19:28.040 --> 00:19:32.709
+so this interaction between genes in a single organism,
+
+262
+00:19:33.119 --> 00:19:38.650
+this is called epistasis. And episthesis was one of
+
+263
+00:19:38.650 --> 00:19:44.069
+the um Most important approaches by, by Sewall Wright.
+
+264
+00:19:44.270 --> 00:19:47.550
+So he was talking about episthesis way back in
+
+265
+00:19:47.550 --> 00:19:53.709
+the 1920s. And, which, um, made, made him propose
+
+266
+00:19:53.709 --> 00:20:00.229
+his, his concept of fitness landscapes in which different
+
+267
+00:20:00.229 --> 00:20:05.329
+gene configurations lead to a landscape of, of fitness,
+
+268
+00:20:05.589 --> 00:20:09.609
+um. On the other hand, the Fisher view is
+
+269
+00:20:09.609 --> 00:20:14.130
+that there is just one optimal combination of genes
+
+270
+00:20:14.130 --> 00:20:18.530
+that lead to a single peak of fitness. Now
+
+271
+00:20:18.530 --> 00:20:21.329
+we know that episthesis is everywhere. Now there are
+
+272
+00:20:21.329 --> 00:20:27.329
+meta-analysis. Uh, AND analysis of genomic data showing that
+
+273
+00:20:27.329 --> 00:20:31.650
+epistasis is really, really common across, uh, the kingdom
+
+274
+00:20:31.650 --> 00:20:35.449
+of, uh, of all kingdoms of life. Now we
+
+275
+00:20:35.449 --> 00:20:39.920
+also know that other thing called indirect, indirecttic, sorry,
+
+276
+00:20:40.010 --> 00:20:44.729
+indirect genetic effects. Which means how the other genes
+
+277
+00:20:44.729 --> 00:20:49.790
+of our neighbors or neighbor individuals affect my gene,
+
+278
+00:20:50.160 --> 00:20:53.250
+uh, a specific gene of a focal individual and
+
+279
+00:20:53.250 --> 00:20:57.170
+in consequence, uh, that, uh, effect of the gene
+
+280
+00:20:57.170 --> 00:21:00.089
+on the fitness of, of a focal individual. We
+
+281
+00:21:00.089 --> 00:21:03.050
+know also now that indirect genetic effects, for example,
+
+282
+00:21:03.119 --> 00:21:07.329
+in things like social behavior in animals is really,
+
+283
+00:21:07.410 --> 00:21:10.310
+really common. So what I'm saying with all of
+
+284
+00:21:10.310 --> 00:21:16.150
+this is that. Now. The empirical data that we,
+
+285
+00:21:16.510 --> 00:21:19.630
+that we have, particularly over the last two years.
+
+286
+00:21:20.510 --> 00:21:24.670
+Kind of makes us realize that uh that right,
+
+287
+00:21:24.829 --> 00:21:29.310
+Sewall Wright uh was, was correct uh in his
+
+288
+00:21:29.310 --> 00:21:34.199
+model of, of natural selection and, and evolution. Uh
+
+289
+00:21:34.589 --> 00:21:39.699
+Sewall Wright was 11 of the predecessors. Of complexity
+
+290
+00:21:39.699 --> 00:21:41.339
+science because at the end of the day he
+
+291
+00:21:41.339 --> 00:21:45.250
+was thinking about all this network of interactions in,
+
+292
+00:21:45.310 --> 00:21:49.859
+in his case of genes. Um, GIVING rise to
+
+293
+00:21:49.859 --> 00:21:53.420
+a network of phenotypes. And if you go to
+
+294
+00:21:53.420 --> 00:21:57.410
+the Santa Fe Institute website, They have a, a
+
+295
+00:21:57.410 --> 00:22:01.949
+series called kind of fundamental articles in, in complexity
+
+296
+00:22:01.949 --> 00:22:05.810
+science and his papers were among the first ones.
+
+297
+00:22:07.160 --> 00:22:10.239
+Right, I, I mean you mentioned many different kinds
+
+298
+00:22:10.239 --> 00:22:15.439
+of things there, you mentioned eppistasis, you mentioned indirect
+
+299
+00:22:15.439 --> 00:22:20.479
+gene effects, you mentioned evolutionary ecology. I mean, several
+
+300
+00:22:20.479 --> 00:22:25.760
+different things that of course Richard Dawkins does not
+
+301
+00:22:25.760 --> 00:22:28.880
+account for at all in his book The Shellfish
+
+302
+00:22:28.880 --> 00:22:33.920
+Gene, and a purely gene centric view of evolution
+
+303
+00:22:33.920 --> 00:22:37.079
+also doesn't account for, but I think that even
+
+304
+00:22:37.079 --> 00:22:40.439
+over the past 50 years there's also been, and
+
+305
+00:22:40.439 --> 00:22:42.265
+I'm not sure if you would. Agree with me
+
+306
+00:22:42.265 --> 00:22:44.064
+or not, please correct me if I'm wrong, but
+
+307
+00:22:44.064 --> 00:22:46.704
+I think that over the past 50 years since
+
+308
+00:22:46.704 --> 00:22:50.944
+the book was published, there's also been very important
+
+309
+00:22:50.944 --> 00:22:57.744
+and interesting developments in developmental biology and concepts and
+
+310
+00:22:57.744 --> 00:23:05.869
+phenomena like developmental bias, evolve evolvability, and uh. Learning
+
+311
+00:23:05.869 --> 00:23:10.589
+about how the phenotype and development can put on
+
+312
+00:23:10.589 --> 00:23:16.150
+constraints on the evolution and the evolvability of different
+
+313
+00:23:16.150 --> 00:23:20.349
+kinds of traits and aspects of the phenotype, and
+
+314
+00:23:20.349 --> 00:23:25.750
+I think that's also something that. Eric view of
+
+315
+00:23:25.750 --> 00:23:31.650
+evolution doesn't account for and that is completely missed
+
+316
+00:23:31.650 --> 00:23:34.449
+in part for a good reason because those are
+
+317
+00:23:35.020 --> 00:23:42.469
+developments that are more recent than 1976 or at
+
+318
+00:23:42.469 --> 00:23:46.329
+least they were further developed after that and And
+
+319
+00:23:46.329 --> 00:23:50.650
+so I mean if we 50 years on are
+
+320
+00:23:50.650 --> 00:23:58.089
+still depending on Richard Dawkins' view of evolution units
+
+321
+00:23:58.089 --> 00:24:05.449
+of selection and an evolution centered on genes. Without
+
+322
+00:24:05.449 --> 00:24:09.939
+even those kinds of interactions that you referred to
+
+323
+00:24:09.939 --> 00:24:14.250
+there between the genes that I mean it's just
+
+324
+00:24:14.250 --> 00:24:18.369
+an outdated view and then impoverished view at this
+
+325
+00:24:18.369 --> 00:24:22.109
+point, at least with all of those developments of
+
+326
+00:24:22.109 --> 00:24:23.770
+evolution in my opinion.
+
+327
+00:24:24.800 --> 00:24:29.130
+I, I completely agree and, and because of two
+
+328
+00:24:29.130 --> 00:24:33.760
+things. First, And, and this is kind of something
+
+329
+00:24:33.760 --> 00:24:36.760
+that I always uh teach to my, to my
+
+330
+00:24:36.760 --> 00:24:41.089
+students. We need to understand the, the natural selection.
+
+331
+00:24:41.709 --> 00:24:46.839
+So first, kind of going back to basics, uh,
+
+332
+00:24:47.099 --> 00:24:50.339
+was the actual definition of, of evolution and that's
+
+333
+00:24:50.339 --> 00:24:54.859
+why I, I was making emphasis on, on phenotypes
+
+334
+00:24:54.859 --> 00:24:59.260
+and, and coming back to Javier Suarezan and uh
+
+335
+00:24:59.260 --> 00:25:05.550
+Elizabeth Lloyd uh um book. They say that evolution
+
+336
+00:25:05.550 --> 00:25:08.229
+is a change in the distribution of phenotypes in
+
+337
+00:25:08.229 --> 00:25:11.150
+a population due, due to the gain or loss
+
+338
+00:25:11.150 --> 00:25:15.430
+of individuals. Uh, SO it's a, a change in,
+
+339
+00:25:15.540 --> 00:25:18.699
+in pheno in phenotypes, and, and with that definition,
+
+340
+00:25:18.989 --> 00:25:22.819
+there are many evolutionary factors, not just natural selection.
+
+341
+00:25:23.310 --> 00:25:25.869
+There are the typical ones that everyone knows like
+
+342
+00:25:25.869 --> 00:25:29.560
+mutations and genetic drift and recombination and so on.
+
+343
+00:25:29.989 --> 00:25:33.199
+But now we also know that phenotypic plasticity is
+
+344
+00:25:33.199 --> 00:25:38.050
+quite important, the niche construction is quite important and
+
+345
+00:25:38.560 --> 00:25:41.239
+In my, in my type of, in, in my
+
+346
+00:25:41.239 --> 00:25:44.239
+expertise in the organisms that I studied plants and
+
+347
+00:25:44.239 --> 00:25:48.079
+fungi and, and olovions, niche construction is like, is
+
+348
+00:25:48.079 --> 00:25:51.599
+like so evident, it's so real, you see it
+
+349
+00:25:51.599 --> 00:25:54.119
+all the time. In, in plant ecology, this has
+
+350
+00:25:54.119 --> 00:25:56.599
+a name which is called plant soil feedbacks. The
+
+351
+00:25:56.599 --> 00:25:59.439
+thing is that people don't call it niche construction.
+
+352
+00:25:59.520 --> 00:26:02.109
+I, I think just one paper or two. But
+
+353
+00:26:02.109 --> 00:26:04.510
+it's the same plant soil feedbacks is the same
+
+354
+00:26:04.510 --> 00:26:09.030
+as, as, as niche niche construction. So, uh, there
+
+355
+00:26:09.030 --> 00:26:12.750
+could be, as you, as you, uh, said really
+
+356
+00:26:12.750 --> 00:26:17.030
+well, a development process, development, both development process and
+
+357
+00:26:17.030 --> 00:26:23.829
+development constraints. And then. Developmental constraints are important because
+
+358
+00:26:23.829 --> 00:26:27.319
+I think that That's one of the things that
+
+359
+00:26:27.319 --> 00:26:31.599
+although now we have the tools conceptually, people notice
+
+360
+00:26:31.599 --> 00:26:34.520
+it. Stephen Jay will notice this in, in back
+
+361
+00:26:34.520 --> 00:26:36.599
+in the, in the 70s when, when he was
+
+362
+00:26:36.599 --> 00:26:39.199
+talking about the Brandels of San Marco and so
+
+363
+00:26:39.199 --> 00:26:48.099
+on. That, that, um. Some traits simply. ARE, are,
+
+364
+00:26:48.119 --> 00:26:50.839
+are constrained. They, they don't have kind of another
+
+365
+00:26:50.839 --> 00:26:56.380
+configuration to To follow, I, I, I say, I
+
+366
+00:26:56.380 --> 00:27:00.459
+say to my students, fungi don't have wheels simply
+
+367
+00:27:00.459 --> 00:27:04.560
+because it's, it's, it's physically impossible to, to, to
+
+368
+00:27:04.560 --> 00:27:07.319
+develop such a trail although it will be very
+
+369
+00:27:07.319 --> 00:27:10.069
+beneficial for the fungi or for the plant or
+
+370
+00:27:10.069 --> 00:27:15.020
+whatever. And, and again, I see a lot of
+
+371
+00:27:15.020 --> 00:27:18.839
+trade ecology currently, but kind of people have forgotten
+
+372
+00:27:18.839 --> 00:27:23.719
+about this, this really well written. Uh, I think
+
+373
+00:27:23.719 --> 00:27:25.939
+it's a, a book chapter, The Sprandels of San
+
+374
+00:27:25.939 --> 00:27:29.619
+Marco, uh, but this is really well written, um.
+
+375
+00:27:31.219 --> 00:27:36.109
+Uh, CHAPTERS and articles already mentioning 40 or 50
+
+376
+00:27:36.109 --> 00:27:42.839
+years ago, uh, developmental processes. Um, AND I don't
+
+377
+00:27:42.839 --> 00:27:45.920
+know if you have seen this other book, uh,
+
+378
+00:27:46.949 --> 00:27:50.810
+I, well, 3 years. 33 years ago by, by
+
+379
+00:27:50.810 --> 00:27:54.030
+Philip Ball, uh How Life Works. I
+
+380
+00:27:55.150 --> 00:27:57.810
+really, yes, yes, I have an interview with Doctor
+
+381
+00:27:57.810 --> 00:28:00.250
+Ball on that, on that book on the show,
+
+382
+00:28:00.369 --> 00:28:00.729
+yes.
+
+383
+00:28:01.719 --> 00:28:05.319
+It's excellent. It's excellent. So, so that's, that's not
+
+384
+00:28:05.319 --> 00:28:08.880
+my kind of expertise that social mechanistic and, and
+
+385
+00:28:08.880 --> 00:28:13.810
+a small scale uh. A framework that, that, that
+
+386
+00:28:13.810 --> 00:28:18.959
+he, that is his expertise but. What I, what
+
+387
+00:28:18.959 --> 00:28:23.359
+I got from the book was basically. His, his
+
+388
+00:28:23.359 --> 00:28:27.099
+critiques to the central uh dogma are uh yeah.
+
+389
+00:28:28.760 --> 00:28:33.050
+One of the main critiques is that they How
+
+390
+00:28:33.050 --> 00:28:38.250
+we have been taught the central dogma, uh, it
+
+391
+00:28:38.250 --> 00:28:42.410
+ignores feedbacks. It, it is, so we know DNA
+
+392
+00:28:42.410 --> 00:28:46.680
+through RNA to proteins, but in all these steps,
+
+393
+00:28:46.689 --> 00:28:49.369
+there are feedbacks from proteins to RNA or from
+
+394
+00:28:49.369 --> 00:28:52.849
+proteins to DNA and from RNA to DNA and
+
+395
+00:28:52.849 --> 00:28:55.930
+genes and so on. And these feedbacks that uh
+
+396
+00:28:55.930 --> 00:28:58.810
+it's so interesting because these feedbacks happen at that
+
+397
+00:28:58.810 --> 00:29:01.420
+really small scale. In the things that I study,
+
+398
+00:29:01.599 --> 00:29:04.280
+ecology and macroecology, there are also a bunch of,
+
+399
+00:29:04.469 --> 00:29:08.560
+of feedbacks and, and, and I think that our
+
+400
+00:29:08.560 --> 00:29:13.479
+field is kind of still not ready to study
+
+401
+00:29:13.479 --> 00:29:16.800
+those, those kind of feedback process cause it makes
+
+402
+00:29:16.800 --> 00:29:20.079
+things more complicated, but it seems like at the
+
+403
+00:29:20.079 --> 00:29:24.699
+molecular level, they are, they are really common um
+
+404
+00:29:25.959 --> 00:29:31.770
+So, so I think that both. Does Discoveries. Which,
+
+405
+00:29:31.819 --> 00:29:36.670
+by the way, come. From the investment. That the
+
+406
+00:29:36.670 --> 00:29:41.140
+community, that the scientific community has done. In molecular
+
+407
+00:29:41.140 --> 00:29:45.119
+biology. So it's, it's kind of their own people.
+
+408
+00:29:46.270 --> 00:29:49.229
+Who are finding that, that, that things are not
+
+409
+00:29:49.229 --> 00:29:53.750
+as, as simple as they thought could complement this
+
+410
+00:29:53.750 --> 00:29:57.099
+overview which I'm presenting here which is more at
+
+411
+00:29:57.099 --> 00:30:02.500
+a bigger scale. Yeah Yeah, they could complement each
+
+412
+00:30:02.500 --> 00:30:03.160
+other, yeah,
+
+413
+00:30:03.719 --> 00:30:06.270
+yeah, right, uh, I, I, I mean, by the
+
+414
+00:30:06.270 --> 00:30:08.979
+way, for people who are interested, I also, I
+
+415
+00:30:08.979 --> 00:30:11.670
+have an interview on the show with Doctor Javier
+
+416
+00:30:11.670 --> 00:30:15.790
+Suarez about units of selection, so people can check
+
+417
+00:30:15.790 --> 00:30:18.469
+that out as well. It's, uh, we get into
+
+418
+00:30:18.469 --> 00:30:23.150
+really deep into, uh, fine detail when it comes
+
+419
+00:30:23.150 --> 00:30:25.829
+to the different kinds of units of selection and
+
+420
+00:30:25.829 --> 00:30:29.589
+levels of selection and all of that. But I
+
+421
+00:30:29.589 --> 00:30:32.760
+mean focusing now on levels of selection. What are
+
+422
+00:30:32.760 --> 00:30:37.000
+the different levels of selection that people have proposed
+
+423
+00:30:37.000 --> 00:30:37.719
+over time?
+
+424
+00:30:39.630 --> 00:30:41.630
+Yeah, thank you. And by the way, Javier is
+
+425
+00:30:41.630 --> 00:30:44.380
+a, is a co-author of, of mine in, in,
+
+426
+00:30:44.630 --> 00:30:47.530
+in a published paper and, and an upcoming paper.
+
+427
+00:30:48.260 --> 00:30:50.630
+And so I, I, I really, really like his
+
+428
+00:30:50.630 --> 00:30:54.030
+work and really recommend his, his work. Um, YEAH,
+
+429
+00:30:54.150 --> 00:30:57.469
+so there are two things, the proposed levels and,
+
+430
+00:30:57.550 --> 00:31:01.709
+and actually data showing in which levels this selection
+
+431
+00:31:01.709 --> 00:31:08.469
+occurs. But basically, The lower level could be selfish
+
+432
+00:31:08.469 --> 00:31:12.469
+genetic elements, which is this phenomena in which kind
+
+433
+00:31:12.469 --> 00:31:18.839
+of, yeah, genetic elements compete with each other. Um,
+
+434
+00:31:19.339 --> 00:31:23.300
+SOMETIMES that happens. In most cases though, kind of
+
+435
+00:31:23.300 --> 00:31:27.689
+the genome is cooperative within, within each other, but
+
+436
+00:31:27.689 --> 00:31:32.780
+there are some instances in which. These genetic elements
+
+437
+00:31:32.780 --> 00:31:37.099
+go against each other in detriment uh through, to
+
+438
+00:31:37.099 --> 00:31:40.329
+the, to the genome to which they belong. So,
+
+439
+00:31:40.339 --> 00:31:43.310
+I would say that, that's the lower level. Uh,
+
+440
+00:31:43.380 --> 00:31:48.500
+IN fungi, also fungi, um, mycorrhizal fungi are really
+
+441
+00:31:48.500 --> 00:31:52.270
+interesting because in their spores in their cells. Uh,
+
+442
+00:31:52.280 --> 00:31:55.469
+NUCLEI, uh, there could be thousands of nuclei. They,
+
+443
+00:31:55.560 --> 00:32:00.079
+they have a really rare biology. And some colleagues
+
+444
+00:32:00.079 --> 00:32:04.760
+of mine from Amsterdam, Pre-Amsterdam University, they have also
+
+445
+00:32:04.760 --> 00:32:08.640
+proposed that natural selection occurs at the nuclear level,
+
+446
+00:32:08.719 --> 00:32:11.319
+then at the cellular level and so on. So
+
+447
+00:32:11.319 --> 00:32:13.420
+I would say that's kind of the lower level.
+
+448
+00:32:13.920 --> 00:32:19.479
+Um. And then the higher level is communities and
+
+449
+00:32:19.479 --> 00:32:25.390
+communities. And And mini ecosystems, so no whole ecosystems,
+
+450
+00:32:25.510 --> 00:32:29.689
+but if you do experiments. In pots like the
+
+451
+00:32:29.689 --> 00:32:34.010
+pot, including the soil, the biotic and biotic environment
+
+452
+00:32:34.530 --> 00:32:37.650
+of the pot, that's kind of an ecosystem. So
+
+453
+00:32:37.650 --> 00:32:39.930
+I would say that's the higher level in which
+
+454
+00:32:39.930 --> 00:32:45.910
+selection has been proposed and also found evidence for
+
+455
+00:32:46.189 --> 00:32:48.760
+and all in between. Mhm.
+
+456
+00:32:49.770 --> 00:32:55.349
+Uh, WHEN it comes to social animals specifically, there's
+
+457
+00:32:55.349 --> 00:32:58.949
+been lots and lots of debate over time and
+
+458
+00:32:58.949 --> 00:33:01.989
+some people even changed their minds, like for example,
+
+459
+00:33:02.150 --> 00:33:05.290
+Leo Wilson in the latter stages of his work,
+
+460
+00:33:05.750 --> 00:33:09.939
+uh, endorsed. Uh, GROUP selection, but, and then there
+
+461
+00:33:09.939 --> 00:33:15.459
+are people that endorse group selection, um, cultural group
+
+462
+00:33:15.459 --> 00:33:20.239
+selection, but not genetic group selection. I mean, uh,
+
+463
+00:33:20.420 --> 00:33:24.020
+what is your take on group selection?
+
+464
+00:33:25.479 --> 00:33:27.810
+Yeah, and I think that, so one of the
+
+465
+00:33:27.810 --> 00:33:31.650
+big confusions on the 60 year old debate has
+
+466
+00:33:31.650 --> 00:33:36.290
+been not clarifying what type of unit people have
+
+467
+00:33:36.290 --> 00:33:40.670
+been talking about if uh interactor replicator of manifesto
+
+468
+00:33:41.250 --> 00:33:45.609
+and the other kind of issue has been that
+
+469
+00:33:45.689 --> 00:33:49.890
+the focus on the debate has been on what
+
+470
+00:33:49.890 --> 00:33:53.939
+I, what has been called pro-sociality or pro-social behavior.
+
+471
+00:33:54.680 --> 00:34:00.069
+And in our bibliometric review, we started with almost
+
+472
+00:34:00.209 --> 00:34:03.689
+3000 papers. So at the end of the review,
+
+473
+00:34:04.449 --> 00:34:09.250
+We have 280 papers which do show multi-level selection
+
+474
+00:34:09.250 --> 00:34:12.228
+and we will go on that later on, but
+
+475
+00:34:13.228 --> 00:34:17.699
+From the initial 3000 papers. I would say more
+
+476
+00:34:17.699 --> 00:34:23.610
+than half focus on this prosocial behavior, so. This
+
+477
+00:34:23.610 --> 00:34:27.168
+has caused a lot of controversy a lot of
+
+478
+00:34:27.168 --> 00:34:33.009
+debate. Uh, I would say that prosociality or, or
+
+479
+00:34:33.009 --> 00:34:39.060
+altruism. Is one of the many traits that could
+
+480
+00:34:39.060 --> 00:34:44.149
+evolve through group selection or through a multi-level selection.
+
+481
+00:34:44.600 --> 00:34:46.239
+It's not the only one, and I think that
+
+482
+00:34:46.239 --> 00:34:49.399
+part of the problem has been that people think
+
+483
+00:34:49.399 --> 00:34:51.879
+that is the only one. It's the only trait
+
+484
+00:34:51.879 --> 00:34:56.478
+or the only behavior that could evolve in through
+
+485
+00:34:56.478 --> 00:35:00.820
+group selection. Now, having said that, having said that,
+
+486
+00:35:01.909 --> 00:35:08.139
+Uh, one. Of the best articles on the subject
+
+487
+00:35:08.139 --> 00:35:12.040
+is, is, is by, by EO by David Sloan
+
+488
+00:35:12.040 --> 00:35:17.850
+Wilson and EO Wilson. In 2007, uh, Quarterly Review
+
+489
+00:35:17.850 --> 00:35:19.969
+of Biology, I think is the journal, which is
+
+490
+00:35:19.969 --> 00:35:24.750
+a very old prestigious journal. And basically they summarize
+
+491
+00:35:24.750 --> 00:35:30.129
+uh how is that prosociality could evolve through multi-level
+
+492
+00:35:30.129 --> 00:35:32.850
+selection in the following way. They say that at
+
+493
+00:35:32.850 --> 00:35:40.530
+the individual level, selfish individuals beat uh cooperative individuals
+
+494
+00:35:40.530 --> 00:35:47.280
+or altruistic individuals, but groups composed by more altruistic
+
+495
+00:35:47.280 --> 00:35:53.189
+or cooperative individuals beat in competition. Groups composed by
+
+496
+00:35:53.189 --> 00:35:58.830
+more selfish individuals and I. I, I endorse that.
+
+497
+00:35:59.110 --> 00:36:01.149
+I, I really like that. I, I think that's
+
+498
+00:36:01.149 --> 00:36:05.620
+a correct. A framework, it, it explains a lot,
+
+499
+00:36:05.739 --> 00:36:09.129
+to be honest. It explains a lot of Um,
+
+500
+00:36:09.570 --> 00:36:12.290
+my own findings, in my own research, but also
+
+501
+00:36:12.290 --> 00:36:17.100
+in this bibliometric review that I mentioned. And um
+
+502
+00:36:18.919 --> 00:36:20.949
+And at the end it's kind of attention between
+
+503
+00:36:20.949 --> 00:36:27.620
+levels and in many situations, mm, some environmental contexts
+
+504
+00:36:28.229 --> 00:36:32.159
+will favor the individual level, will, will would favor
+
+505
+00:36:32.719 --> 00:36:39.110
+that selfish individuals outcompete uh altruistic individuals. In, in,
+
+506
+00:36:39.189 --> 00:36:42.110
+in, in plants, we have shown that the situations
+
+507
+00:36:42.110 --> 00:36:46.030
+in, in which that happens. But in many other
+
+508
+00:36:46.030 --> 00:36:51.340
+situations, particularly. When resources are scarce or where nutrients
+
+509
+00:36:51.340 --> 00:36:55.600
+are, are limited or when there is a uh
+
+510
+00:36:56.219 --> 00:37:00.179
+a biotic or biotic stress, it is true and
+
+511
+00:37:00.179 --> 00:37:04.340
+the, the, the data shows that these groups composed
+
+512
+00:37:04.340 --> 00:37:10.020
+by, by more uh altruistic individuals definitely outcompete more
+
+513
+00:37:10.020 --> 00:37:10.979
+selfish groups.
+
+514
+00:37:12.370 --> 00:37:16.439
+But I mean when we're talking about prosocial behavior
+
+515
+00:37:16.439 --> 00:37:21.179
+in humans, for example, because we are uh we
+
+516
+00:37:21.179 --> 00:37:24.040
+have uh I mean we also have a cultural
+
+517
+00:37:24.040 --> 00:37:26.870
+inheritance, right? I mean if we talk about dual
+
+518
+00:37:26.870 --> 00:37:33.250
+dual inheritance theory we're talking about inheriting. Genes or
+
+519
+00:37:33.250 --> 00:37:37.370
+genetic information but also a culture or cultural information.
+
+520
+00:37:37.409 --> 00:37:41.649
+I mean, do you think that prosocial behavior would
+
+521
+00:37:41.649 --> 00:37:47.370
+be narrated more on a cultural level, or could
+
+522
+00:37:47.370 --> 00:37:50.830
+it also be narrated genetically?
+
+523
+00:37:51.939 --> 00:37:56.260
+Oh, that's, um, that's such a, a difficult question.
+
+524
+00:37:58.010 --> 00:38:01.889
+Before that, I should say that regarding cooperation and,
+
+525
+00:38:01.969 --> 00:38:06.689
+and, and prosocial behavior both in humans and, and
+
+526
+00:38:06.689 --> 00:38:11.929
+in non-human um species and more like a, a
+
+527
+00:38:11.929 --> 00:38:15.350
+pluralist and, and by that I mean that although
+
+528
+00:38:15.350 --> 00:38:20.310
+I like multi-level selection has been my Topic over
+
+529
+00:38:20.310 --> 00:38:23.070
+the last 10 years of my research or 11
+
+530
+00:38:23.070 --> 00:38:25.830
+years and, and it's uh kind of it's really
+
+531
+00:38:25.830 --> 00:38:28.830
+difficult cause still it's, it's not a, it's not
+
+532
+00:38:28.830 --> 00:38:33.199
+a majority position among biologists. I would say that
+
+533
+00:38:33.199 --> 00:38:37.580
+there are other cooperation mechanisms that at, at least
+
+534
+00:38:37.580 --> 00:38:44.620
+at lower scales could simultaneously operate alongside multi-level selection.
+
+535
+00:38:45.350 --> 00:38:48.939
+Um And I think it's important to give this,
+
+536
+00:38:49.020 --> 00:38:52.580
+this pluralist perspective. So, the most famous one I
+
+537
+00:38:52.580 --> 00:38:55.699
+would say is direct reciprocity and, and, and is
+
+538
+00:38:55.699 --> 00:38:59.020
+the mechanism that, that gave rise to the whole
+
+539
+00:38:59.020 --> 00:39:04.159
+disciplinary of evolutionary game theory and on that, the
+
+540
+00:39:04.179 --> 00:39:07.840
+people also talk about indirect reciprocity and kin selection
+
+541
+00:39:07.840 --> 00:39:11.540
+and network reciprocity. So I, and, and multi-level selection.
+
+542
+00:39:11.620 --> 00:39:15.909
+So I think that those five operate. Under some
+
+543
+00:39:15.909 --> 00:39:20.189
+circumstances, maybe some operate more than, than, than others.
+
+544
+00:39:20.959 --> 00:39:27.209
+Um, Now, regarding. I'm, I'm very skeptical to say
+
+545
+00:39:27.209 --> 00:39:31.750
+that, that the genetics has a lot to do
+
+546
+00:39:31.750 --> 00:39:39.830
+with prosociality. Uh, I haven't seen convincing kind of
+
+547
+00:39:39.830 --> 00:39:45.699
+uh data showing that. It might be one of
+
+548
+00:39:45.699 --> 00:39:51.310
+those cases similar to. To human tolerant, tolerance to
+
+549
+00:39:51.310 --> 00:39:54.149
+milk and this is kind of going way back
+
+550
+00:39:54.149 --> 00:39:59.030
+to the 80s and when evolutionary psychology people were
+
+551
+00:39:59.030 --> 00:40:01.590
+starting that they argue and I think more or
+
+552
+00:40:01.590 --> 00:40:05.149
+less correctly, that a cultural change, so people just
+
+553
+00:40:05.149 --> 00:40:08.310
+started to drink as an adult, started, started to
+
+554
+00:40:08.310 --> 00:40:14.540
+drink um cow milk. And this over thousands of
+
+555
+00:40:14.540 --> 00:40:18.909
+years. And, and at the beginning, when before this
+
+556
+00:40:18.909 --> 00:40:22.649
+happened, like, like just 10% of the population was
+
+557
+00:40:23.149 --> 00:40:26.590
+tolerant, genetically tolerant to this cow milk and now
+
+558
+00:40:26.590 --> 00:40:29.629
+it's like 90% of, of people that are tolerant
+
+559
+00:40:29.629 --> 00:40:35.600
+to. To cow milk because a cultural change, because
+
+560
+00:40:35.780 --> 00:40:38.639
+something in the culture changed. So a cul cultural
+
+561
+00:40:38.639 --> 00:40:42.479
+change occasioned or caused a genetic change.
+
+562
+00:40:43.139 --> 00:40:46.219
+So we would be talking about a case of
+
+563
+00:40:46.219 --> 00:40:48.800
+gene culture co-evolution here, right?
+
+564
+00:40:49.219 --> 00:40:51.620
+Something like that, something like that. It might be
+
+565
+00:40:51.620 --> 00:40:59.149
+the case that That some. Change towards prosociality caused
+
+566
+00:40:59.149 --> 00:41:04.929
+by a cultural evolution has, has uh the consequence
+
+567
+00:41:05.429 --> 00:41:09.699
+has been a change in some. Genetic configuration or,
+
+568
+00:41:09.709 --> 00:41:12.330
+or in some genetics of, of us, as, as
+
+569
+00:41:12.330 --> 00:41:15.979
+a species, but this is fairly hypothetical. I, I,
+
+570
+00:41:16.100 --> 00:41:17.739
+I don't know that there is data about it
+
+571
+00:41:17.739 --> 00:41:17.939
+but.
+
+572
+00:41:18.699 --> 00:41:22.020
+OK, uh, fair enough. So, uh, I would like
+
+573
+00:41:22.020 --> 00:41:24.219
+to ask you now to tell us about a
+
+574
+00:41:24.219 --> 00:41:29.100
+recent bibliometric review you conducted on the topic of
+
+575
+00:41:29.100 --> 00:41:32.689
+multi-level selection. I mean, tell us about that, uh,
+
+576
+00:41:32.780 --> 00:41:36.570
+how you conducted that review and the results you
+
+577
+00:41:36.570 --> 00:41:37.139
+got there.
+
+578
+00:41:38.320 --> 00:41:41.120
+Yeah, so, as I have said before, I'm a
+
+579
+00:41:41.120 --> 00:41:45.590
+mycologist. I specialize in fungi, fungi and plants and
+
+580
+00:41:45.590 --> 00:41:48.959
+to know how to avoid the bias of my
+
+581
+00:41:48.959 --> 00:41:54.659
+own field, I joined forces with Anne, Anne Clark
+
+582
+00:41:54.659 --> 00:41:59.639
+for, from Bing Bing Moton University, Emerita Bing Moton
+
+583
+00:41:59.639 --> 00:42:05.290
+University. Uh, Connor Filson in California, Omar Eldakar from,
+
+584
+00:42:05.310 --> 00:42:08.419
+uh, Florida. And the senior, so I'm the first
+
+585
+00:42:08.419 --> 00:42:11.219
+outdoor and the senior outdoor is Mike Wade from
+
+586
+00:42:11.219 --> 00:42:15.800
+Indiana. All of them work with animals and, and
+
+587
+00:42:15.800 --> 00:42:22.620
+we basically searched the typical. Search, uh, bibliometric search
+
+588
+00:42:22.620 --> 00:42:26.780
+in Scopus and Web of Science and Google Scholar.
+
+589
+00:42:27.719 --> 00:42:34.479
+And got 2950 articles which in some way are
+
+590
+00:42:34.479 --> 00:42:39.040
+about group selection, multi-level selection, or, or units of
+
+591
+00:42:39.040 --> 00:42:44.050
+selection. So almost 3000 articles about those topics. And
+
+592
+00:42:44.050 --> 00:42:47.899
+then we put some really strict uh filters to
+
+593
+00:42:48.010 --> 00:42:54.699
+which articles discard uh. Uh, SO articles that are
+
+594
+00:42:55.000 --> 00:43:01.100
+only opinion pieces, only reviews, only commentaries. Mathematical articles,
+
+595
+00:43:01.219 --> 00:43:04.139
+there were a lot of mathematical models. I would
+
+596
+00:43:04.139 --> 00:43:09.020
+say some 400 articles just with mathematical models. All
+
+597
+00:43:09.020 --> 00:43:13.320
+that was gone. Um, AND then even articles doing
+
+598
+00:43:13.320 --> 00:43:17.320
+simulations with data cause that, that's also something very
+
+599
+00:43:17.320 --> 00:43:21.469
+common. People takes data and then Leon time, he
+
+600
+00:43:21.469 --> 00:43:25.500
+took data from his experiments in the uh 60s
+
+601
+00:43:25.500 --> 00:43:29.439
+with mice and then he made like statistical simulations
+
+602
+00:43:29.439 --> 00:43:34.179
+to show group selection. We also discard that. Uh,
+
+603
+00:43:34.469 --> 00:43:38.550
+AND then we got in total 280 articles that
+
+604
+00:43:38.550 --> 00:43:44.550
+span from 1976 to 2024, which was a good
+
+605
+00:43:45.070 --> 00:43:49.820
+year of our search. The first article. It's an
+
+606
+00:43:49.820 --> 00:43:53.780
+article in PNA's, uh, Proceeds Proceedings of the National
+
+607
+00:43:53.780 --> 00:43:57.020
+Academy of Science of the US, and that article
+
+608
+00:43:57.020 --> 00:44:01.250
+was the PhD thesis by my senior author Mai
+
+609
+00:44:01.250 --> 00:44:05.820
+Wet. He made some really fantastic experiments with three-volume
+
+610
+00:44:05.820 --> 00:44:09.780
+beetles in which he imposed group selection as a,
+
+611
+00:44:09.860 --> 00:44:12.800
+as a treatment in the laboratory. So, so he
+
+612
+00:44:12.800 --> 00:44:16.939
+was the Person doing either individual selection or group
+
+613
+00:44:16.939 --> 00:44:22.889
+selection on those little populations. Um, SO, yeah, we
+
+614
+00:44:22.889 --> 00:44:28.830
+found 280 articles, 100 of them were in situ,
+
+615
+00:44:28.929 --> 00:44:33.550
+were in field conditions, and 180 of them were,
+
+616
+00:44:33.729 --> 00:44:40.020
+uh, laboratory experiments. Um, This was very challenging to
+
+617
+00:44:40.330 --> 00:44:43.729
+kind of analyze because we are not focusing on
+
+618
+00:44:43.729 --> 00:44:48.219
+a single organism or on a single methodology, but
+
+619
+00:44:48.219 --> 00:44:51.939
+rather on, on a plethora of, of, of methods.
+
+620
+00:44:53.639 --> 00:45:01.949
+So, in addition to classify. The The articles in,
+
+621
+00:45:02.110 --> 00:45:08.850
+well, in organism, right? And, and in um tool
+
+622
+00:45:08.850 --> 00:45:13.850
+or laboratory tech tool or technique used, we also
+
+623
+00:45:13.850 --> 00:45:20.030
+classified um in the levels of selection investigated and
+
+624
+00:45:20.649 --> 00:45:25.060
+in the method uh in use. So the first
+
+625
+00:45:25.060 --> 00:45:26.889
+result that I can tell you about is the
+
+626
+00:45:26.889 --> 00:45:31.600
+level of selection. So about 90% of the, of
+
+627
+00:45:31.600 --> 00:45:39.770
+the studies um Simultaneously investigated natural selection at the
+
+628
+00:45:40.379 --> 00:45:44.830
+individual level, so in the groups. At the individual
+
+629
+00:45:44.830 --> 00:45:48.340
+and group level. So, individual organisms and groups of
+
+630
+00:45:48.340 --> 00:45:54.649
+organisms. So 90% of the studies, uh Determine selection
+
+631
+00:45:54.649 --> 00:45:58.479
+at these two levels cause most of us biologists,
+
+632
+00:45:58.530 --> 00:46:02.409
+we are, we have this organism, organismal bias and,
+
+633
+00:46:02.449 --> 00:46:04.489
+and, and, and that's more or less what I
+
+634
+00:46:04.489 --> 00:46:09.719
+was expecting but also because organisms are. More easy
+
+635
+00:46:09.719 --> 00:46:14.179
+to, to investigate. And from that, uh, from that
+
+636
+00:46:14.179 --> 00:46:18.530
+90%. There were groups of organisms, but there were
+
+637
+00:46:18.530 --> 00:46:24.590
+also about 24 studies which focus on aggregates, and
+
+638
+00:46:24.590 --> 00:46:31.209
+by aggregates, I mean like. Uh, BACTERIA, amoeba, algae,
+
+639
+00:46:31.370 --> 00:46:40.449
+yeast, which. Are usually. I Microorganisms that live by
+
+640
+00:46:40.449 --> 00:46:46.729
+themselves, but under certain conditions, environmental conditions. Either In,
+
+641
+00:46:46.739 --> 00:46:50.270
+in situ conditions or, or imposed by the researcher,
+
+642
+00:46:50.790 --> 00:46:55.429
+they kind of go, they aggregate together. Uh uh
+
+643
+00:46:55.429 --> 00:47:00.469
+YEAST is one of the most studied organisms uh
+
+644
+00:47:00.889 --> 00:47:09.030
+uh for that behavior. And then about 31 studies
+
+645
+00:47:09.030 --> 00:47:14.260
+of the 280 were in colonies, colonies of ants,
+
+646
+00:47:14.389 --> 00:47:21.149
+colonies of wasps, of spiders. So, in those studies,
+
+647
+00:47:21.280 --> 00:47:26.149
+both the, the. Level of selection was both the
+
+648
+00:47:26.149 --> 00:47:30.709
+individual. A spider, the individual, and, and the colony
+
+649
+00:47:30.709 --> 00:47:33.520
+as, as, as a, as a, as a level
+
+650
+00:47:33.520 --> 00:47:37.709
+of selection. And then we had about 10% of
+
+651
+00:47:37.929 --> 00:47:43.399
+studies which were done. Uh, BELOW the organismal level
+
+652
+00:47:43.399 --> 00:47:47.000
+or above the group level. So we have a
+
+653
+00:47:47.000 --> 00:47:53.399
+couple of studies in, in nuclei. Um, SOME 7
+
+654
+00:47:53.399 --> 00:47:58.729
+studies in, in genomic elements and cellular elements. Some
+
+655
+00:47:58.729 --> 00:48:03.610
+3 studies on, on, on clonal organisms. So those,
+
+656
+00:48:03.689 --> 00:48:08.100
+in those 3 studies, people Uh, show that, um,
+
+657
+00:48:08.290 --> 00:48:12.550
+for example, algae that reproduce clonally, each clone, natural
+
+658
+00:48:12.550 --> 00:48:16.770
+selection occurs in each clone that is connected. Uh,
+
+659
+00:48:16.870 --> 00:48:21.729
+TO a bigger collection of clones to say. And
+
+660
+00:48:21.729 --> 00:48:24.610
+then the rest like the other 15 studies were
+
+661
+00:48:24.610 --> 00:48:29.419
+at the, at the community level. So communities, microbiomes
+
+662
+00:48:29.419 --> 00:48:33.770
+are communities but also communities of um insects at
+
+663
+00:48:33.770 --> 00:48:37.909
+the community level. And, and to conclude, we also
+
+664
+00:48:37.909 --> 00:48:43.540
+classify this um 280 studies in different methods that
+
+665
+00:48:43.540 --> 00:48:48.639
+people have used. Um, SO in total there were
+
+666
+00:48:48.639 --> 00:48:51.879
+like 9 different methods in which some of the
+
+667
+00:48:51.879 --> 00:48:56.850
+most prominent ones. Uh, FOR example, artificial selection, and
+
+668
+00:48:56.850 --> 00:48:59.320
+I mentioned genes before, so what people does in,
+
+669
+00:48:59.489 --> 00:49:02.330
+in doing, in these situations is that, is that
+
+670
+00:49:02.330 --> 00:49:07.219
+they have. Uh, LAB tubes with populations of yeast
+
+671
+00:49:07.219 --> 00:49:11.020
+and they take out the oxygen and this causes
+
+672
+00:49:11.020 --> 00:49:16.500
+that some yeast cells start to aggregate, start to
+
+673
+00:49:16.500 --> 00:49:20.469
+join together. And they do this every year for
+
+674
+00:49:20.469 --> 00:49:24.060
+a year. And so, and they take for the
+
+675
+00:49:24.060 --> 00:49:28.639
+next generation. The bigger groups of, of cells and
+
+676
+00:49:28.639 --> 00:49:32.110
+this is a really beautiful nature paper by, by
+
+677
+00:49:32.110 --> 00:49:35.439
+Will Radcliffe from uh Georgia in, in the US
+
+678
+00:49:36.040 --> 00:49:39.239
+in which they do this every day and ges
+
+679
+00:49:39.239 --> 00:49:42.479
+have very fast life lifespan, so this is thousands
+
+680
+00:49:42.479 --> 00:49:45.780
+of generations in a year and they start by
+
+681
+00:49:45.780 --> 00:49:50.590
+with a single uh Uh, G sale and at
+
+682
+00:49:50.590 --> 00:49:53.639
+the end of the year, they have basically. A
+
+683
+00:49:53.639 --> 00:50:00.189
+macroscopic organism. Which is evolution of multicellularity kind of
+
+684
+00:50:00.189 --> 00:50:03.689
+in real, in real time. It's, it's, it's beautiful
+
+685
+00:50:03.689 --> 00:50:07.669
+style, really amazing to see. Um. There are some
+
+686
+00:50:07.669 --> 00:50:10.189
+psychological experiments, not, not too many, but there are
+
+687
+00:50:10.189 --> 00:50:15.149
+some. Um LAB experiments is the kind of most
+
+688
+00:50:15.149 --> 00:50:18.629
+popular category in which group or individual selection are,
+
+689
+00:50:18.750 --> 00:50:22.510
+are regimens that you impose in the laboratory. And
+
+690
+00:50:22.510 --> 00:50:26.030
+because of those lab experiments developed way back in
+
+691
+00:50:26.030 --> 00:50:28.590
+the 70s, then the decade later and in the
+
+692
+00:50:28.590 --> 00:50:33.149
+80s and 90s, some people started to use a
+
+693
+00:50:33.149 --> 00:50:36.550
+group selection as a breeding technique, a breeding, breeding,
+
+694
+00:50:36.629 --> 00:50:41.989
+breeding technique, mostly for, for animals. Uh, CHICKENS and,
+
+695
+00:50:42.080 --> 00:50:45.290
+and pigs and a little bit for, for plants.
+
+696
+00:50:45.780 --> 00:50:50.379
+So instead of selecting the best performing individual for
+
+697
+00:50:50.379 --> 00:50:54.000
+the next generation as As breeding has been done.
+
+698
+00:50:55.219 --> 00:51:00.699
+Uh, FOR, for millennia. These researchers selected the best
+
+699
+00:51:00.699 --> 00:51:03.500
+performing group, the best performing group of chickens or
+
+700
+00:51:03.500 --> 00:51:08.560
+the best performing group of pigs, um, for, for
+
+701
+00:51:08.939 --> 00:51:12.919
+future generations and so it's a breeding program based
+
+702
+00:51:12.919 --> 00:51:15.620
+on, on a collective property.
+
+703
+00:51:16.810 --> 00:51:22.209
+Right, so I mean also to illustrate uh the
+
+704
+00:51:22.209 --> 00:51:26.449
+implications of a multi-level selection and for people to
+
+705
+00:51:26.449 --> 00:51:31.159
+get a better understanding of why it can be
+
+706
+00:51:31.159 --> 00:51:35.969
+so important for for how we understand different evolutionary.
+
+707
+00:51:36.084 --> 00:51:41.445
+Phenomena, processes, and even evolutionary steps, uh, I would
+
+708
+00:51:41.445 --> 00:51:44.885
+like to ask you about a specific phenomena here.
+
+709
+00:51:45.004 --> 00:51:47.925
+So what kinds of implications do you think that
+
+710
+00:51:47.925 --> 00:51:51.844
+multi-level selection could have for our understanding of the
+
+711
+00:51:51.844 --> 00:51:54.544
+evolution of multicellularity?
+
+712
+00:51:56.270 --> 00:52:00.790
+Yeah, I, I think multicellularity is one of those
+
+713
+00:52:00.790 --> 00:52:08.030
+uh Um, phenomena that That really, really needs a
+
+714
+00:52:08.030 --> 00:52:13.429
+multi-level selection to be understood on. Uh, FROM our
+
+715
+00:52:13.429 --> 00:52:21.949
+280 papers, about 12 of those specifically dealt with
+
+716
+00:52:21.949 --> 00:52:26.080
+the evolution of, of multicellularity. And from those 12,
+
+717
+00:52:26.159 --> 00:52:29.320
+I think 11 or 10 were done by, with
+
+718
+00:52:29.320 --> 00:52:33.129
+Gs and then a couple of papers. With bacteria
+
+719
+00:52:33.129 --> 00:52:36.550
+maybe. Um, AND I, I should say though that
+
+720
+00:52:36.929 --> 00:52:40.729
+in our search, we only included papers in which
+
+721
+00:52:41.290 --> 00:52:46.649
+the authors specifically mentioned multilevel selection. I suspect. That
+
+722
+00:52:46.649 --> 00:52:51.449
+there are way more articles. Showing it, but because
+
+723
+00:52:51.449 --> 00:52:56.449
+it has been a, let's say controversial topic, many
+
+724
+00:52:56.449 --> 00:52:59.929
+authors simply don't, don't, don't mention it. So, so
+
+725
+00:52:59.929 --> 00:53:03.469
+I think that our, our findings are uh underestimation.
+
+726
+00:53:03.850 --> 00:53:08.860
+But anyway. I think it's, it's, it's a 11
+
+727
+00:53:08.860 --> 00:53:18.169
+classical. Um 11 really good. Framework uh to understand
+
+728
+00:53:18.169 --> 00:53:25.790
+multicellularities, multi-level selection. Cause, yeah, when, when cells become
+
+729
+00:53:25.790 --> 00:53:30.550
+associated in, into, into groups, then selection operate at
+
+730
+00:53:30.550 --> 00:53:36.239
+two levels and Between the multicell, multicellular group and
+
+731
+00:53:36.239 --> 00:53:43.489
+among multicellular uh groups. And this also constitutes. A
+
+732
+00:53:43.489 --> 00:53:49.550
+really related mm framework is the major evolutionary transitions
+
+733
+00:53:50.489 --> 00:53:53.570
+which um yeah it's, it, it's kind of a
+
+734
+00:53:53.570 --> 00:53:58.620
+sister um. Uh, IT, it, it, this, this was
+
+735
+00:53:58.620 --> 00:54:00.780
+proposed in the 90s and, and, and, and I
+
+736
+00:54:00.780 --> 00:54:09.290
+think um understanding this multicellularity studies, uh, through major
+
+737
+00:54:09.290 --> 00:54:14.689
+evolutionary transitions and, uh, and multi-level selection. Is the
+
+738
+00:54:14.689 --> 00:54:16.830
+way that, that it, it, it should be done.
+
+739
+00:54:17.120 --> 00:54:22.750
+Um. And I, I think that something important to,
+
+740
+00:54:22.870 --> 00:54:27.929
+to, to not forget is that although The transition
+
+741
+00:54:27.929 --> 00:54:33.060
+could occur. There is always the possibility that, that,
+
+742
+00:54:33.179 --> 00:54:40.500
+that still under some circumstances. Natural selection could occur
+
+743
+00:54:40.850 --> 00:54:46.030
+again at the lower level. Uh, BUT in multicellularity
+
+744
+00:54:46.030 --> 00:54:49.350
+evolution, it is true that in most cases and
+
+745
+00:54:49.350 --> 00:54:54.090
+for the most part. Is the higher level selection
+
+746
+00:54:54.090 --> 00:54:58.810
+which is more important. But again, this is kind
+
+747
+00:54:58.810 --> 00:55:02.770
+of a tension between, between both levels cause We
+
+748
+00:55:02.770 --> 00:55:08.389
+are microorganisms. We made the transition, millions of years
+
+749
+00:55:08.389 --> 00:55:11.689
+ago and we still have cancer. Uh, AND cancer
+
+750
+00:55:11.689 --> 00:55:15.790
+is a situation in which the lower selection, um,
+
+751
+00:55:16.370 --> 00:55:19.649
+is more prevalent in, in the unfortunate cases, of
+
+752
+00:55:19.649 --> 00:55:24.870
+course. So even when transitions are achieved, there, there
+
+753
+00:55:24.870 --> 00:55:27.389
+is still always the possibility that something will go
+
+754
+00:55:27.389 --> 00:55:31.550
+wrong and, and The individual level selection will be
+
+755
+00:55:31.550 --> 00:55:32.419
+more important.
+
+756
+00:55:33.899 --> 00:55:37.590
+Uh, AND what kinds of implications can multi-level selection
+
+757
+00:55:37.590 --> 00:55:41.010
+have for the evolution of social behavior?
+
+758
+00:55:43.919 --> 00:55:48.100
+Uh, I think that the time has come in
+
+759
+00:55:48.100 --> 00:55:54.949
+which we start, stop thinking about uh selfish genes
+
+760
+00:55:54.949 --> 00:55:57.229
+and so, so I, I, I don't think that
+
+761
+00:55:57.229 --> 00:56:01.250
+it's a coincidence that, that, that, that selfish genes.
+
+762
+00:56:02.080 --> 00:56:07.800
+Were so prevalent at the same time that agent-based
+
+763
+00:56:07.800 --> 00:56:12.479
+modeling in economics became very popular and, and certain
+
+764
+00:56:12.479 --> 00:56:18.239
+schools of economics and anthropology uh focus on the
+
+765
+00:56:18.239 --> 00:56:22.689
+individual. Became, became very prevalent. I think that the
+
+766
+00:56:23.229 --> 00:56:27.050
+20th century in all these disciplines in, in biology,
+
+767
+00:56:27.750 --> 00:56:33.909
+in economics, in sociology, in anthropology. Um, FOCUS a
+
+768
+00:56:33.909 --> 00:56:38.770
+lot on the individual. I think that a multilevel
+
+769
+00:56:38.770 --> 00:56:45.129
+selection perspective combined. With complexity science, I think that
+
+770
+00:56:45.810 --> 00:56:49.270
+there is a lot of points of, of agreement
+
+771
+00:56:50.409 --> 00:56:56.459
+between these two areas, between Evolution as general, as
+
+772
+00:56:56.459 --> 00:57:00.020
+a general framework, but more specifically multi-level selection and
+
+773
+00:57:00.020 --> 00:57:03.939
+then all the really amazing tools developed by, by
+
+774
+00:57:03.939 --> 00:57:07.500
+the complexity science people. These two things could combine,
+
+775
+00:57:07.780 --> 00:57:12.439
+could be combined to understand. Social behavior in in
+
+776
+00:57:12.439 --> 00:57:18.909
+human and nonhuman. Species um. People are, are already
+
+777
+00:57:18.909 --> 00:57:21.870
+using network analysis and, and, and one of my
+
+778
+00:57:21.870 --> 00:57:29.310
+co-authors, Connor Filson, he studied some marmot populations in
+
+779
+00:57:29.310 --> 00:57:33.429
+the, in California for 19 years. So he collected
+
+780
+00:57:33.429 --> 00:57:37.350
+data of 19 years of the social interactions of
+
+781
+00:57:37.350 --> 00:57:45.060
+these marmots. Um, ANALYZE through network analysis. And yeah,
+
+782
+00:57:45.100 --> 00:57:49.300
+it's, it's, it's really amazing, uh, his, his studies
+
+783
+00:57:49.300 --> 00:57:55.820
+publishing Proceedings B I think um. And he says
+
+784
+00:57:55.820 --> 00:57:59.739
+that or, or, or the findings show that this
+
+785
+00:57:59.739 --> 00:58:04.360
+under, under a scarce environments, environments with low, low
+
+786
+00:58:04.949 --> 00:58:11.449
+resources. The topology of these networks kind of. BECOMES
+
+787
+00:58:11.449 --> 00:58:16.739
+stronger, so they Uh, social interactions of these mammals
+
+788
+00:58:16.739 --> 00:58:22.510
+become stronger. Uh, AND, and he used um a
+
+789
+00:58:22.510 --> 00:58:25.110
+specific technique that I, I also have used which
+
+790
+00:58:25.110 --> 00:58:31.429
+is called contextual analysis to To make sure. How
+
+791
+00:58:31.889 --> 00:58:37.739
+these group level interactions explain local. Or, or a
+
+792
+00:58:37.739 --> 00:58:42.719
+focal individual fitness or reproductive success. And they found
+
+793
+00:58:42.719 --> 00:58:45.959
+that it explains a lot of their focal individual
+
+794
+00:58:45.959 --> 00:58:51.879
+fitness. And So going back to the beginning of
+
+795
+00:58:51.879 --> 00:59:01.169
+our conversation. Um When people do measure this. Evolutionary
+
+796
+00:59:01.169 --> 00:59:06.560
+ecological interactions. They are finding really, really strong effects
+
+797
+00:59:06.560 --> 00:59:12.790
+of the context, the networks. Uh, ON a focal
+
+798
+00:59:12.790 --> 00:59:18.659
+individual, both traits and fitness. And this goes back
+
+799
+00:59:18.659 --> 00:59:23.169
+to a more profound problem is that If in
+
+800
+00:59:23.169 --> 00:59:29.030
+your framework. The context doesn't matter, which is the
+
+801
+00:59:29.030 --> 00:59:32.909
+typical case of gene-centric view and, and also some
+
+802
+00:59:32.909 --> 00:59:36.989
+economic schools of, of thought. You will simply not
+
+803
+00:59:36.989 --> 00:59:40.790
+measure the, the context, but if you include the
+
+804
+00:59:40.790 --> 00:59:43.020
+context and you measure the context, you will find,
+
+805
+00:59:43.199 --> 00:59:47.060
+found that it has a lot of effects. Another
+
+806
+00:59:47.060 --> 00:59:50.189
+example that I also gave before which was um.
+
+807
+00:59:50.919 --> 00:59:57.520
+A meta-analysis published. In the Journal Journal of Evolutionary
+
+808
+00:59:57.520 --> 01:00:06.409
+Biology. They studied um. Is by Santo Stefano, 2024
+
+809
+01:00:06.409 --> 01:00:14.209
+Evolution Letters. And they analyze how How the social
+
+810
+01:00:14.209 --> 01:00:19.159
+sorry, so how the traits of the neighbors had
+
+811
+01:00:19.159 --> 01:00:24.860
+really strong effects on the Social behavior of focal
+
+812
+01:00:24.860 --> 01:00:31.860
+individuals, so very specific individuals across many um mammal
+
+813
+01:00:31.860 --> 01:00:36.280
+species. And I think it was dozens and dozens
+
+814
+01:00:36.280 --> 01:00:39.679
+of articles in which they analyzed this and they
+
+815
+01:00:39.679 --> 01:00:43.959
+say that uh this social behavior of the neighbors
+
+816
+01:00:43.959 --> 01:00:48.639
+and these interactions not only affect uh the focal
+
+817
+01:00:48.639 --> 01:00:53.699
+individual traits and fitness but also even the inheritance
+
+818
+01:00:53.699 --> 01:00:58.780
+uh to the next generation. Um, SO I think
+
+819
+01:00:58.780 --> 01:01:03.669
+that when, when we Include these things, we, we
+
+820
+01:01:03.669 --> 01:01:07.909
+always, will find effects and I think this, this
+
+821
+01:01:07.909 --> 01:01:13.750
+uh Uh, social context characteristics could be explained by
+
+822
+01:01:13.750 --> 01:01:18.500
+both multi-level selection, but also including uh tools, uh,
+
+823
+01:01:18.510 --> 01:01:22.310
+from, from complexity science. I will finish saying that
+
+824
+01:01:22.310 --> 01:01:26.300
+in my field in plants, uh, yeah, we also
+
+825
+01:01:26.550 --> 01:01:29.909
+now know since 30 years more or less than,
+
+826
+01:01:30.469 --> 01:01:32.669
+uh, that if you include the effects of the
+
+827
+01:01:32.669 --> 01:01:37.270
+neighbors on a focal plant. Uh, THEY are very
+
+828
+01:01:37.270 --> 01:01:41.080
+important and this has strong consequences in agriculture, for
+
+829
+01:01:41.080 --> 01:01:44.600
+example, because agriculture is still and breeding is still
+
+830
+01:01:44.600 --> 01:01:46.899
+practicing an individual level basis.
+
+831
+01:01:48.409 --> 01:01:52.489
+So earlier we've already explored a little bit prosocial
+
+832
+01:01:52.489 --> 01:01:58.610
+behavior and cooperation. So another kind of phenomenon that
+
+833
+01:01:58.770 --> 01:02:03.290
+multi-level selection could have implications for is the evolution
+
+834
+01:02:03.290 --> 01:02:07.649
+of cultural evolution. I mean what kinds of implications
+
+835
+01:02:07.649 --> 01:02:09.330
+could there be in that case?
+
+836
+01:02:11.500 --> 01:02:16.399
+Um Yeah, a lot, a lot as well, and
+
+837
+01:02:17.600 --> 01:02:23.250
+Some of, some of our colleagues, um. So, so
+
+838
+01:02:23.250 --> 01:02:26.429
+with, with David Sloan Wilson, he has been promoting
+
+839
+01:02:26.429 --> 01:02:31.899
+for some time now this. Uh, MULTI-LEVEL selection initiative,
+
+840
+01:02:31.919 --> 01:02:37.570
+which is kind of to join forces across. Scholars
+
+841
+01:02:37.570 --> 01:02:42.330
+and disciplines and some of them, including, including himself,
+
+842
+01:02:42.399 --> 01:02:44.610
+by the way, but, but, but many other people.
+
+843
+01:02:45.770 --> 01:02:48.689
+We are doing a really, really amazing work on,
+
+844
+01:02:48.780 --> 01:02:54.780
+on cultural, uh, multi-level selection and in our, in
+
+845
+01:02:54.780 --> 01:02:58.219
+our bibliometric search, I think we had about 10
+
+846
+01:02:58.219 --> 01:03:04.050
+papers or so uh showing really strong evidence of,
+
+847
+01:03:04.300 --> 01:03:09.110
+of cultural multi-level selection. I think one of the
+
+848
+01:03:09.409 --> 01:03:13.530
+realizations that we kind of have with, with those
+
+849
+01:03:13.530 --> 01:03:18.120
+studies is that Um, well, you mentioned this before,
+
+850
+01:03:18.379 --> 01:03:23.760
+dual inheritance, uh, theory. And basically, uh, traits can,
+
+851
+01:03:23.870 --> 01:03:27.679
+can be transmitted in a vertical and horizontal uh
+
+852
+01:03:27.679 --> 01:03:33.290
+way, but we also know that. Uh, UNDERSTANDING things
+
+853
+01:03:33.290 --> 01:03:40.550
+like social norms, institutions, languages, religions, uh, social rules.
+
+854
+01:03:41.300 --> 01:03:46.219
+Uh, AND so on could. Could be explained at
+
+855
+01:03:46.219 --> 01:03:53.100
+least partially. Um, THROUGH multi-level selection and beyond cultural
+
+856
+01:03:53.100 --> 01:03:57.060
+group selection, I would say that One of the
+
+857
+01:03:59.729 --> 01:04:04.629
+One of the main consequences. And I have uh
+
+858
+01:04:04.629 --> 01:04:08.139
+eluded about this before, is in, is in economics.
+
+859
+01:04:08.189 --> 01:04:11.790
+I, I mean, I cultural and cultural evolution and
+
+860
+01:04:11.790 --> 01:04:16.399
+economics, I think they are tightly joined together. And
+
+861
+01:04:16.399 --> 01:04:22.080
+um one of the few people in, in economics
+
+862
+01:04:22.080 --> 01:04:26.760
+that realized this was Eleanor Ostrom, who was the
+
+863
+01:04:26.760 --> 01:04:30.500
+first woman to get a Nobel Prize in Economics.
+
+864
+01:04:31.290 --> 01:04:34.250
+She has a paper co-author with, with David Sloan
+
+865
+01:04:34.250 --> 01:04:38.879
+Wilson in which they talk about core design principles,
+
+866
+01:04:38.969 --> 01:04:45.600
+so. What Eleanor did which was really great. Was
+
+867
+01:04:45.600 --> 01:04:51.840
+instead of. Believing what the textbook, textbooks, economic textbooks
+
+868
+01:04:51.840 --> 01:04:58.870
+say about human behavior. I mean, She went around
+
+869
+01:04:58.870 --> 01:05:01.669
+the world to, to see if that happens or
+
+870
+01:05:01.669 --> 01:05:04.110
+not, or not. So, for example, one of the
+
+871
+01:05:04.110 --> 01:05:07.459
+main assumptions both in economics and, and, and in
+
+872
+01:05:07.459 --> 01:05:11.909
+ecology actually. Is what is called the tragedy of
+
+873
+01:05:11.909 --> 01:05:16.290
+the commons. So, uh, I don't know, some community.
+
+874
+01:05:17.689 --> 01:05:22.389
+Um, HAS a farm and they overexploit the farm.
+
+875
+01:05:23.100 --> 01:05:26.909
+And then, then the tragedy of the commune occurs
+
+876
+01:05:26.909 --> 01:05:31.270
+cause the farm is overexploiting uh uh overexploited and
+
+877
+01:05:31.709 --> 01:05:36.030
+then no one has uh Anything to eat, and
+
+878
+01:05:36.030 --> 01:05:39.429
+this is the assumption on how humans behave and
+
+879
+01:05:39.429 --> 01:05:43.520
+how ecosystems work and so on. She went around
+
+880
+01:05:43.520 --> 01:05:49.570
+the 5 continents, studied. Uh, SMALL scale communities and
+
+881
+01:05:49.570 --> 01:05:52.189
+found that that was not the case, that people
+
+882
+01:05:53.750 --> 01:05:57.050
+are smart enough to realize this and that they
+
+883
+01:05:57.050 --> 01:06:01.570
+will not overexploit and maximize profit until everything is
+
+884
+01:06:01.570 --> 01:06:05.540
+gone. And I'd rather people have kind of developed
+
+885
+01:06:05.540 --> 01:06:12.929
+these 8 core design principles. Mm, in laws, in
+
+886
+01:06:12.929 --> 01:06:18.870
+religion, in oral tradition, uh, in, in cultural tradition.
+
+887
+01:06:19.840 --> 01:06:22.780
+But all around the world is this core design
+
+888
+01:06:22.780 --> 01:06:28.260
+principles. Have been developed and um and yeah, well,
+
+889
+01:06:28.399 --> 01:06:32.780
+this realization was that what gave her the The,
+
+890
+01:06:32.899 --> 01:06:37.459
+the, the Nobel, the Nobel Prize, um. Uh, SO
+
+891
+01:06:37.459 --> 01:06:39.020
+I, I think that, that could be one of
+
+892
+01:06:39.020 --> 01:06:41.699
+the, of the main consequences and, and they beat,
+
+893
+01:06:41.979 --> 01:06:46.750
+he. HAS been developed. He has been working over
+
+894
+01:06:46.750 --> 01:06:49.669
+the last 20 or 25 years of his career
+
+895
+01:06:49.669 --> 01:06:55.610
+to, to really understand um these aspects in, in
+
+896
+01:06:56.540 --> 01:06:58.469
+In humans, yeah. Mhm.
+
+897
+01:06:58.899 --> 01:07:01.879
+No, yeah, uh, the work of Dr. Eleanor Ostrom
+
+898
+01:07:01.879 --> 01:07:04.939
+is really fascinating, and I talked a little bit
+
+899
+01:07:04.939 --> 01:07:08.060
+about it in my second interview with Doctor Sloan
+
+900
+01:07:08.060 --> 01:07:11.639
+Wilson. If people are interested, they can also watch
+
+901
+01:07:11.639 --> 01:07:14.879
+that on the show. Uh, SO I have just
+
+902
+01:07:14.879 --> 01:07:17.739
+one last question then. I mean, we, we've talked
+
+903
+01:07:17.739 --> 01:07:24.620
+here about the implications for multicellularity, social behavior, cooperation,
+
+904
+01:07:24.739 --> 01:07:30.750
+cultural evolution. Are there other kinds of evolutionary phenomena
+
+905
+01:07:31.090 --> 01:07:34.429
+you think we could get a better understanding of
+
+906
+01:07:34.429 --> 01:07:37.729
+through the prism of multi-level selection?
+
+907
+01:07:40.030 --> 01:07:42.949
+Yes, yes, there are. Um, FIRST, I would like
+
+908
+01:07:42.949 --> 01:07:46.790
+to kind of reiterate that. So my, my motivation
+
+909
+01:07:46.790 --> 01:07:51.229
+for, for writing this bibliometric review is was, it
+
+910
+01:07:51.229 --> 01:07:55.739
+was realizing that There is a lot of conceptual
+
+911
+01:07:55.739 --> 01:07:59.750
+debate, a lot of mathematical modeling. And a lot
+
+912
+01:07:59.750 --> 01:08:03.850
+of going back and forth and Since the beginning,
+
+913
+01:08:03.969 --> 01:08:07.669
+since the 60s and 70s, a lot of articles
+
+914
+01:08:07.669 --> 01:08:11.370
+arguing it from one position and then response articles
+
+915
+01:08:11.370 --> 01:08:14.429
+from the other position. And then at, in the
+
+916
+01:08:14.429 --> 01:08:18.470
+1999, 2000s, there was also this whole period with,
+
+917
+01:08:19.089 --> 01:08:22.189
+with uh with Lisa Lloyd, with uh Stephen Jay
+
+918
+01:08:22.189 --> 01:08:26.439
+Gould, with Jerry Cohen, with Mike Wade, Charles Goodnight.
+
+919
+01:08:26.870 --> 01:08:29.069
+And then you mentioned this before when, when EO
+
+920
+01:08:29.069 --> 01:08:33.379
+Wilson also published his 2010 paper. A lot of
+
+921
+01:08:33.379 --> 01:08:38.009
+people were, were furious about it. Once you see
+
+922
+01:08:38.009 --> 01:08:42.648
+how much, how much empirical evidence there is. Of
+
+923
+01:08:42.648 --> 01:08:46.587
+this, of this process of, of multilevel selection. You
+
+924
+01:08:46.587 --> 01:08:49.627
+kind of don't, it's not that you don't care
+
+925
+01:08:49.627 --> 01:08:54.229
+but, but these debates go in a secondary place,
+
+926
+01:08:54.309 --> 01:08:56.469
+kind of you, you see the world in a,
+
+927
+01:08:56.548 --> 01:08:58.707
+in a different, in a different way when you
+
+928
+01:08:58.707 --> 01:09:01.068
+see all this evidence. Yes, there are, there are
+
+929
+01:09:01.068 --> 01:09:05.738
+many, many other phenomena, not, not only evolutionary phenomena,
+
+930
+01:09:05.749 --> 01:09:08.828
+but I, I think that um well, one of
+
+931
+01:09:08.828 --> 01:09:12.859
+the, one of the main things is uh Trying
+
+932
+01:09:12.859 --> 01:09:18.209
+to understand olovions and in general uh microbiome. Evolution
+
+933
+01:09:18.209 --> 01:09:24.970
+through multi-level selection. I, I think. The connection between
+
+934
+01:09:26.169 --> 01:09:29.470
+both between Oloian theory and multilevel selection is really
+
+935
+01:09:29.470 --> 01:09:35.298
+logical. And you have interviewed Javi, uh, Javier Suarez,
+
+936
+01:09:35.337 --> 01:09:38.729
+and, and, and he has made this really, uh,
+
+937
+01:09:38.788 --> 01:09:41.469
+he has explained this in a really beautiful way.
+
+938
+01:09:42.540 --> 01:09:47.149
+Um, BECAUSE, yeah, with all these new topics like
+
+939
+01:09:47.149 --> 01:09:50.870
+one health and so on. Um, IT'S, it's curious
+
+940
+01:09:50.870 --> 01:09:53.049
+to me. It's curious to me because many people
+
+941
+01:09:53.410 --> 01:09:55.729
+are very heavily focused on the, on the tools
+
+942
+01:09:55.729 --> 01:09:58.169
+and they do the genomics of, of one head
+
+943
+01:09:58.169 --> 01:10:01.759
+and so on. But kind of the conceptual basis,
+
+944
+01:10:03.450 --> 01:10:06.319
+I, I don't see it yet, and the conceptual
+
+945
+01:10:06.319 --> 01:10:11.259
+basis is basically allon theory. Whatever olion concept you
+
+946
+01:10:11.259 --> 01:10:14.379
+have, uh, there are, I have seen at least
+
+947
+01:10:14.379 --> 01:10:18.540
+6. Uh, Oloion concepts and uh the, the concepts
+
+948
+01:10:18.540 --> 01:10:23.930
+of holoion come from different disciplines. Our expertises, uh,
+
+949
+01:10:24.049 --> 01:10:26.970
+so there is one from quantitative genetics, there is
+
+950
+01:10:26.970 --> 01:10:30.049
+one from population genetics, and so on. I have,
+
+951
+01:10:30.129 --> 01:10:33.069
+I have published my own, uh, uh, last year
+
+952
+01:10:33.069 --> 01:10:36.399
+in, in 2025 with Nancy Collins Johnson, and we
+
+953
+01:10:36.399 --> 01:10:40.850
+basically say that olobion is a complex adaptive system
+
+954
+01:10:41.009 --> 01:10:44.930
+and that's it. Uh. But in, in, in any,
+
+955
+01:10:45.040 --> 01:10:47.209
+in any case, solo ion or, or one health
+
+956
+01:10:47.209 --> 01:10:52.729
+or, or, or microbiome evolution definitely should be investigated
+
+957
+01:10:53.490 --> 01:10:58.109
+through a multi-level selection way and not only conceptually,
+
+958
+01:10:58.129 --> 01:11:02.020
+but, but really kind of empirically. Some people have
+
+959
+01:11:02.020 --> 01:11:03.970
+done it already in, and, and in our, in
+
+960
+01:11:03.970 --> 01:11:07.930
+our bibliometric review. There are some few studies uh
+
+961
+01:11:07.930 --> 01:11:11.290
+of microbiomes, but not too many, not too many.
+
+962
+01:11:11.919 --> 01:11:15.729
+Uh, THE field is huge. It's huge. Uh, THOUSANDS
+
+963
+01:11:15.729 --> 01:11:19.040
+of papers on, on microbiomes are published every year.
+
+964
+01:11:19.950 --> 01:11:25.810
+And uh and particularly microbiomes between hosts. There is
+
+965
+01:11:25.810 --> 01:11:28.649
+no other way in my view to, to understand
+
+966
+01:11:28.649 --> 01:11:34.990
+it, that uh through a multi-level selection perspective. Um,
+
+967
+01:11:35.529 --> 01:11:38.890
+ONE example that, that, that David uh was kind
+
+968
+01:11:38.890 --> 01:11:42.169
+of also a pioneer on emphasizing and then several
+
+969
+01:11:42.169 --> 01:11:46.410
+of, a couple of his students uh have followed
+
+970
+01:11:46.410 --> 01:11:53.290
+that path. Is cancer evolution. Uh, Atena Atena Atkins,
+
+971
+01:11:53.459 --> 01:11:59.069
+uh, and some other extent. They have done a
+
+972
+01:11:59.069 --> 01:12:03.250
+really nice job of trying to understand. Cancer as
+
+973
+01:12:03.250 --> 01:12:09.399
+a multi-level selection perspective. So, again, something basic is
+
+974
+01:12:09.399 --> 01:12:14.919
+that. The kind of agnostic concept of multilevel selection
+
+975
+01:12:14.919 --> 01:12:19.509
+is. Natural selection occurring simultaneously at least in two
+
+976
+01:12:19.509 --> 01:12:23.459
+or more levels of this nested biological hierarchy. That's
+
+977
+01:12:23.459 --> 01:12:27.319
+the basic definition. And with that definition doesn't mean
+
+978
+01:12:27.319 --> 01:12:30.350
+that, that group selection will be more important or,
+
+979
+01:12:30.470 --> 01:12:33.799
+or, or individual selection will be more important. It's
+
+980
+01:12:33.799 --> 01:12:37.959
+just that the two occur simultaneously. In cancer, it
+
+981
+01:12:37.959 --> 01:12:41.600
+is one of the instances in which the individual
+
+982
+01:12:41.600 --> 01:12:45.439
+level, meaning the cellular level, is definitely more prevalent,
+
+983
+01:12:45.509 --> 01:12:49.160
+definitely more important, and, and, and, but, but it's
+
+984
+01:12:49.160 --> 01:12:52.319
+still natural selection occurs at both level and the
+
+985
+01:12:52.319 --> 01:12:56.339
+group level will be the, the individual organism. So,
+
+986
+01:12:56.580 --> 01:13:00.689
+so I think. And that perspective could also heavily
+
+987
+01:13:00.689 --> 01:13:08.770
+inform a studies in, in cancer. Um. Something that
+
+988
+01:13:08.770 --> 01:13:13.689
+we mentioned before, a major evolutionary transitions or these
+
+989
+01:13:13.689 --> 01:13:20.180
+are called now. Um, E evolutionary transitions on individuality,
+
+990
+01:13:20.220 --> 01:13:22.549
+I think is the name that most people are.
+
+991
+01:13:23.339 --> 01:13:28.759
+Are you now definitely something that that. And it
+
+992
+01:13:28.759 --> 01:13:32.759
+should be investigated through, through multilayer selection. I alluded
+
+993
+01:13:32.759 --> 01:13:35.839
+to this before, but agriculture and, and, and, and
+
+994
+01:13:35.839 --> 01:13:41.549
+in general, kind of uh uh agronomic research. One
+
+995
+01:13:41.549 --> 01:13:44.430
+of my empirical studies of multilevel selection is in,
+
+996
+01:13:44.509 --> 01:13:49.200
+in agronomical settings. And um in plants there are
+
+997
+01:13:49.200 --> 01:13:51.879
+not too many, there are some few in crops,
+
+998
+01:13:51.919 --> 01:13:55.000
+I mean, there are some few studies. With multilevel
+
+999
+01:13:55.000 --> 01:13:59.919
+selection, but the people working with breeding, with animal
+
+1000
+01:13:59.919 --> 01:14:07.120
+breeding. Since 1996, uh, Peter Bigma in Bunningham University.
+
+1001
+01:14:07.959 --> 01:14:11.450
+In the Netherlands and then several of his collaborators
+
+1002
+01:14:11.450 --> 01:14:15.089
+have done a really, really beautiful job on using
+
+1003
+01:14:15.649 --> 01:14:19.250
+the logic of multi-level selection, the logic of uh.
+
+1004
+01:14:20.220 --> 01:14:25.660
+Uh, SELF, selfish individuals beating, uh, altruistic individuals, but
+
+1005
+01:14:25.660 --> 01:14:30.259
+then altruistic groups beating, uh, selfish groups. They have
+
+1006
+01:14:30.259 --> 01:14:34.799
+used this in a beautiful way, um. Uh, FOR
+
+1007
+01:14:34.799 --> 01:14:37.660
+breeding and there is a podcast, a National Geographic
+
+1008
+01:14:37.660 --> 01:14:41.580
+podcast somewhere in YouTube. The title is The Problem
+
+1009
+01:14:41.580 --> 01:14:45.979
+with Super Chickens, and in that podcast, they really
+
+1010
+01:14:45.979 --> 01:14:49.020
+detail how is that they do that. So I
+
+1011
+01:14:49.020 --> 01:14:52.759
+think agronomy is and, and, and, and, and all
+
+1012
+01:14:53.540 --> 01:14:58.870
+uh. Yeah, all, all agricultural related issues could be
+
+1013
+01:14:58.870 --> 01:15:02.839
+also a way to, could, could be very benefited
+
+1014
+01:15:02.839 --> 01:15:09.069
+by, by, by multi-level selection, um. And I think
+
+1015
+01:15:09.069 --> 01:15:14.689
+that even things like. Biodiversity research and of course,
+
+1016
+01:15:14.709 --> 01:15:20.870
+this is my, my, my bias, but. In biodiversity
+
+1017
+01:15:20.870 --> 01:15:24.669
+research ever since Dave Tillman in Minnesota for a
+
+1018
+01:15:24.669 --> 01:15:29.950
+long time, we have known that higher biodiversity if
+
+1019
+01:15:29.950 --> 01:15:36.899
+an ecosystem has More species, this leads to um
+
+1020
+01:15:37.520 --> 01:15:41.640
+higher ecosystem services and ecosystem functions. So it's a
+
+1021
+01:15:41.640 --> 01:15:45.620
+more functional ecosystem that And uh, uh, and an
+
+1022
+01:15:45.620 --> 01:15:49.229
+ecosystem that provides more services and we know these
+
+1023
+01:15:49.229 --> 01:15:53.060
+are the micro scale with soil microorganisms and soil
+
+1024
+01:15:53.060 --> 01:15:55.470
+fungi and bacteria and so on, but we also
+
+1025
+01:15:55.470 --> 01:15:57.500
+know it at the micro scale with plants. So
+
+1026
+01:15:57.500 --> 01:16:03.899
+higher plant biodiversity means higher ecosystem functions. Um, I
+
+1027
+01:16:03.899 --> 01:16:08.689
+suspect that there are, there is a multi-level selection
+
+1028
+01:16:08.689 --> 01:16:13.689
+process going in that. Uh, BUT it has not
+
+1029
+01:16:13.689 --> 01:16:17.759
+been, it has not been tested. Uh, SO I
+
+1030
+01:16:17.759 --> 01:16:21.859
+think that, that, that could also benefit and finally,
+
+1031
+01:16:21.959 --> 01:16:25.959
+all the aspects that I mentioned before or, and
+
+1032
+01:16:25.959 --> 01:16:29.839
+you asked me about, uh, yeah, cultural multi-level selection
+
+1033
+01:16:29.839 --> 01:16:34.040
+and the evolution of institutions and the norms and
+
+1034
+01:16:34.040 --> 01:16:39.879
+economics. And luckily, David uh has been working a
+
+1035
+01:16:39.879 --> 01:16:45.839
+lot with that. There was a Survived uh uh
+
+1036
+01:16:45.839 --> 01:16:48.359
+published in a, in a peer-review article some years
+
+1037
+01:16:48.359 --> 01:16:54.839
+ago. Uh, TO anthropologists. So they survive, survive, survived
+
+1038
+01:16:54.839 --> 01:16:59.859
+like 180 anthropologists in the US. And if I
+
+1039
+01:16:59.859 --> 01:17:04.979
+remember correctly, about 75% of them, of them say
+
+1040
+01:17:04.979 --> 01:17:08.939
+that multi-level selection is important in their field. So
+
+1041
+01:17:08.939 --> 01:17:11.540
+at least, at least in, in, in those more
+
+1042
+01:17:11.540 --> 01:17:14.779
+human-related science, kind of the, the tide has, has
+
+1043
+01:17:14.779 --> 01:17:19.100
+changed and, and people are appreciating uh multi-level selection.
+
+1044
+01:17:19.939 --> 01:17:23.120
+Yeah, uh, and I mean, uh, earlier you mentioned
+
+1045
+01:17:23.660 --> 01:17:27.569
+how in certain instances perhaps multi-level selection could be
+
+1046
+01:17:27.569 --> 01:17:32.339
+combined with complexity science to get even a deeper
+
+1047
+01:17:32.339 --> 01:17:36.419
+understanding of certain phenomena. I've been having uh very
+
+1048
+01:17:36.419 --> 01:17:40.620
+interesting conversations with people who work in dynamical systems
+
+1049
+01:17:40.620 --> 01:17:45.435
+theory. And dynamical systems theory applied to culture, and
+
+1050
+01:17:45.435 --> 01:17:49.995
+I think that in terms of social institutions and
+
+1051
+01:17:49.995 --> 01:17:54.595
+other kinds of cultural phenomena within human societies, that's
+
+1052
+01:17:54.595 --> 01:18:00.185
+also another domain where maybe the two different frameworks
+
+1053
+01:18:00.185 --> 01:18:02.125
+can be combined as well.
+
+1054
+01:18:03.350 --> 01:18:06.270
+I, I totally agree. Yes, absolutely.
+
+1055
+01:18:07.100 --> 01:18:10.819
+OK, great, so Doctor Martin, uh, just before we
+
+1056
+01:18:10.819 --> 01:18:13.740
+go, would you like to let people know where
+
+1057
+01:18:13.740 --> 01:18:16.620
+they can find you and your work on the
+
+1058
+01:18:16.620 --> 01:18:16.859
+internet?
+
+1059
+01:18:18.419 --> 01:18:21.580
+Yes, so I'll probably leave the, so I have
+
+1060
+01:18:21.580 --> 01:18:27.979
+a website which is uh Cesar-marin.com. Uh, PROBABLY you
+
+1061
+01:18:27.979 --> 01:18:31.580
+can leave the website in the, in the description.
+
+1062
+01:18:32.060 --> 01:18:34.569
+And I, in my website, I have everything, all,
+
+1063
+01:18:34.620 --> 01:18:40.620
+all publications are, um, are available and uh past
+
+1064
+01:18:40.620 --> 01:18:44.910
+interviews and podcasts and also interviews that I myself
+
+1065
+01:18:44.910 --> 01:18:49.560
+do to mycorrhizal researchers. So, that will be the,
+
+1066
+01:18:49.660 --> 01:18:52.140
+the, the, the main place, my website, yeah.
+
+1067
+01:18:52.839 --> 01:18:55.120
+OK, great. So I will be leaving links to
+
+1068
+01:18:55.120 --> 01:18:57.520
+that in the description of the interview and thank
+
+1069
+01:18:57.520 --> 01:19:00.120
+you so much for taking the time to come
+
+1070
+01:19:00.120 --> 01:19:02.560
+on the show. It's been a real pleasure to
+
+1071
+01:19:02.560 --> 01:19:02.759
+everyone.
+
+1072
+01:19:03.740 --> 01:19:06.720
+Thank you. This was a really, really nice uh
+
+1073
+01:19:06.720 --> 01:19:08.310
+conversation. I really, really enjoyed it.
+
+1074
+01:19:09.609 --> 01:19:12.129
+Hi guys, thank you for watching this interview until
+
+1075
+01:19:12.129 --> 01:19:14.250
+the end. If you liked it, please share it,
+
+1076
+01:19:14.450 --> 01:19:17.220
+leave a like and hit the subscription button. The
+
+1077
+01:19:17.220 --> 01:19:19.479
+show is brought to you by Enlights Learning and
+
+1078
+01:19:19.479 --> 01:19:23.509
+Development done differently. Check their website at enlights.com and
+
+1079
+01:19:23.509 --> 01:19:27.240
+also please consider supporting the show on Patreon or
+
+1080
+01:19:27.240 --> 01:19:29.720
+PayPal. I would also like to give a huge
+
+1081
+01:19:29.720 --> 01:19:32.819
+thank you to my main patrons and PayPal supporters,
+
+1082
+01:19:33.240 --> 01:19:37.080
+Perergo Larsson, Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf,
+
+1083
+01:19:37.120 --> 01:19:40.390
+Alex, Adam Cassel, Matthew Whittingbird, Arnaud Wolf, Tim Hollis,
+
+1084
+01:19:40.540 --> 01:19:44.109
+Eric Elena, John Connors, Philip Forrest Connolly. Then Dmitri
+
+1085
+01:19:44.109 --> 01:19:48.140
+Robert Windegerru Inai Zu Mark Nevs, Colin Holbrookfield, Governor,
+
+1086
+01:19:48.620 --> 01:19:52.410
+Michel Stormir, Samuel Andrea, Francis Forti Agnun, Sverggoo, and
+
+1087
+01:19:52.410 --> 01:19:56.189
+Hal Herzognon, Michel Jonathan Labrarinth, John Yardston, and Samuel
+
+1088
+01:19:56.189 --> 01:20:00.109
+Curric Hines, Mark Smith, John Ware, Tom Hammel, Sardusran,
+
+1089
+01:20:00.270 --> 01:20:03.950
+David Sloan Wilson, Yasilla Dezaraujo Romain Roach, Diego Londono
+
+1090
+01:20:03.950 --> 01:20:08.339
+Correa. Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam
+
+1091
+01:20:08.339 --> 01:20:12.290
+Hunt, Pavlostazevski, Alekbaka, Madison, Gary G. Alman, Semov, Zal
+
+1092
+01:20:12.290 --> 01:20:16.299
+Adrian Yei Poltonin, John Barboza, Julian Price, Edward Hall,
+
+1093
+01:20:16.379 --> 01:20:20.700
+Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P Scortez
+
+1094
+01:20:20.700 --> 01:20:24.379
+or Suliliski, Scott Zachary Fish, Tim Duffy, Sony Smith,
+
+1095
+01:20:24.459 --> 01:20:28.490
+and Wiseman. Daniel Friedman, William Buckner, Paul Georg Jarno,
+
+1096
+01:20:28.850 --> 01:20:33.589
+Luke Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David
+
+1097
+01:20:33.600 --> 01:20:37.450
+Williams, Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw,
+
+1098
+01:20:37.759 --> 01:20:41.899
+Marie Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee
+
+1099
+01:20:41.899 --> 01:20:46.850
+Junior. Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert
+
+1100
+01:20:46.850 --> 01:20:51.490
+Grassy, Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark
+
+1101
+01:20:51.490 --> 01:20:55.479
+Kempel, Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson,
+
+1102
+01:20:55.770 --> 01:21:00.290
+Benjamin Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael
+
+1103
+01:21:00.290 --> 01:21:05.259
+Bensleyman. George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van
+
+1104
+01:21:05.259 --> 01:21:12.109
+Goler, Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi,
+
+1105
+01:21:12.370 --> 01:21:17.330
+Perpendicular, Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov,
+
+1106
+01:21:17.569 --> 01:21:21.944
+Sean Nelson, Mike Levin, and Jos Necht. A special
+
+1107
+01:21:21.944 --> 01:21:24.805
+thanks to my producers Iar Webb, Jim Frank, Lucas
+
+1108
+01:21:24.805 --> 01:21:29.265
+Stink, Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas
+
+1109
+01:21:29.265 --> 01:21:32.904
+Trumbull, Catherine and Patrick Tobin, John Carlo Montenegro, Al
+
+1110
+01:21:32.904 --> 01:21:35.785
+Nick Cortiz, and Nick Golden, and to my executive
+
+1111
+01:21:35.785 --> 01:21:39.665
+producers, Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie.
+
+1112
+01:21:39.785 --> 01:21:40.604
+Thank you for all.
+
