@@ -5,6 +5,7 @@
 	"episodeid": "1319",
 	"excerpt": "THIS INTERVIEW IS IN PORTUGUESE.  ",
 	"image": "https://i.ytimg.com/vi/KjmFPQiWD8o/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1319-ricardo-paes-mamede-pol%C3%ADtica-industrial-como-os/id1451347236?i=1000796529278&uo=4",
 	"publishDate": 2026-10-15,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1319-Ricardo-Paes-Mamede---Poltica-Industrial-Como-os-Estados-Transformam-as-Economias-e3q5dlg",
 	"tags": [
@@ -12,7 +13,9 @@
 		"Economics"
 	],
 	"title": "#1319 Ricardo Paes Mamede - Política Industrial: Como os Estados Transformam as Economias",
-	"youtubeid": "KjmFPQiWD8o"
+	"vtt": "1319.vtt",
+	"youtubeid": "KjmFPQiWD8o",
+	"transcript": "1319.lines.json"
 }
 ---
 RECORDED ON OCTOBER 8th 2026.  
