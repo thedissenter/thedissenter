@@ -12,7 +12,9 @@
 		"Psychology"
 	],
 	"title": "#1320 Vibeke Ottesen: How the Media Deal with Criminal Cases",
-	"youtubeid": "1o8O57HfpvI"
+	"vtt": "1320.vtt",
+	"youtubeid": "1o8O57HfpvI",
+	"transcript": "1320.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 25th 2026.  
