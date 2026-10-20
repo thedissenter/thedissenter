@@ -13,7 +13,9 @@
 		"Psychology"
 	],
 	"title": "#1321 Emily Towner: Social Isolation and Social Media Use in Adolescents",
-	"youtubeid": "jwPYirZ64gs"
+	"vtt": "1321.vtt",
+	"youtubeid": "jwPYirZ64gs",
+	"transcript": "1321.lines.json"
 }
 ---
 RECORDED ON OCTOBER 5th 2026.  
