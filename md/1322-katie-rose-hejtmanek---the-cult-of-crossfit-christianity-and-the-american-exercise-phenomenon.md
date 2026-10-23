@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1322 Katie Rose Hejtmanek - The Cult of CrossFit: Christianity and the American Exercise Phenomenon",
-	"youtubeid": "Twfff9RYVZQ"
+	"vtt": "1322.vtt",
+	"youtubeid": "Twfff9RYVZQ",
+	"transcript": "1322.lines.json"
 }
 ---
 RECORDED ON OCTOBER 13th 2026.  
