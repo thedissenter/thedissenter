@@ -12,7 +12,9 @@
 		"Entrevistas em Português"
 	],
 	"title": "#1323 Paula Lavigne: Mulheres Trans em Desportos Femininos",
-	"youtubeid": "_5tisEWa8-w"
+	"vtt": "1323.vtt",
+	"youtubeid": "_5tisEWa8-w",
+	"transcript": "1323.lines.json"
 }
 ---
 RECORDED ON OCTOBER 7th 2026.  
