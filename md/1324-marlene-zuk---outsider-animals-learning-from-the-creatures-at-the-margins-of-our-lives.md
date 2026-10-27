@@ -12,7 +12,9 @@
 		"Biology"
 	],
 	"title": "#1324 Marlene Zuk - Outsider Animals: Learning from the Creatures at the Margins of Our Lives",
-	"youtubeid": "xyHTPF1ZJkM"
+	"vtt": "1324.vtt",
+	"youtubeid": "xyHTPF1ZJkM",
+	"transcript": "1324.lines.json"
 }
 ---
 RECORDED ON JULY 28th 2026.  
