@@ -13,7 +13,9 @@
 		"General Science"
 	],
 	"title": "#1325 Philip Ball - The Man Who Broke Reality: Niels Bohr and the Making of Modern Physics",
-	"youtubeid": "MVha1U_ZEHU"
+	"vtt": "1325.vtt",
+	"youtubeid": "MVha1U_ZEHU",
+	"transcript": "1325.lines.json"
 }
 ---
 RECORDED ON OCTOBER 15th 2026.  
