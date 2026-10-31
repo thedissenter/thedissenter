@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1326 Christian Tryon: The Evolution of Homo Sapiens, and the Middle to Later Stone Age Transition",
-	"youtubeid": "Vfud7effM5A"
+	"vtt": "1326.vtt",
+	"youtubeid": "Vfud7effM5A",
+	"transcript": "1326.lines.json"
 }
 ---
 RECORDED ON MARCH 10th 2026.  
