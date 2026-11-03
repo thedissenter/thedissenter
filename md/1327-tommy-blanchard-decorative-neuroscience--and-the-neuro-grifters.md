@@ -12,7 +12,9 @@
 		"Neuroscience"
 	],
 	"title": "#1327 Tommy Blanchard: Decorative Neuroscience, and the Neuro-Grifters",
-	"youtubeid": "gCBY9uQXOOw"
+	"vtt": "1327.vtt",
+	"youtubeid": "gCBY9uQXOOw",
+	"transcript": "1327.lines.json"
 }
 ---
 RECORDED ON OCTOBER 20th 2026.  
