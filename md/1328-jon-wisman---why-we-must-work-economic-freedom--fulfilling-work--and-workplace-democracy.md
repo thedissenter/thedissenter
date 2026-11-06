@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1328 Jon Wisman - Why We Must Work: Economic Freedom, Fulfilling Work, and Workplace Democracy",
-	"youtubeid": "DipNbUbPrTQ"
+	"vtt": "1328.vtt",
+	"youtubeid": "DipNbUbPrTQ",
+	"transcript": "1328.lines.json"
 }
 ---
 RECORDED ON SEPTEMBER 11th 2026.  
