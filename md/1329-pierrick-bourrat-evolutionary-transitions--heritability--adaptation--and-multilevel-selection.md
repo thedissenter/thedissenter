@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1329 Pierrick Bourrat: Evolutionary Transitions, Heritability, Adaptation, and Multilevel Selection",
-	"youtubeid": "P7lN5ZsCj7U"
+	"vtt": "1329.vtt",
+	"youtubeid": "P7lN5ZsCj7U",
+	"transcript": "1329.lines.json"
 }
 ---
 RECORDED ON JULY 30th 2026.  
