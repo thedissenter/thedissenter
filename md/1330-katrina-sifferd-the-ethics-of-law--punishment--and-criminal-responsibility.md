@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1330 Katrina Sifferd: The Ethics of Law, Punishment, and Criminal Responsibility",
-	"youtubeid": "ZkIefqYnbRU"
+	"vtt": "1330.vtt",
+	"youtubeid": "ZkIefqYnbRU",
+	"transcript": "1330.lines.json"
 }
 ---
 RECORDED ON MAY 25th 2026.  
