@@ -12,7 +12,9 @@
 		"Anthropology"
 	],
 	"title": "#1332 Cara Ocobock: Trans People in Sports",
-	"youtubeid": "oU8Z1abWF7Q"
+	"vtt": "1332.vtt",
+	"youtubeid": "oU8Z1abWF7Q",
+	"transcript": "1332.lines.json"
 }
 ---
 RECORDED ON OCTOBER 14th 2026.  
