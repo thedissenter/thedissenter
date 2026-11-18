@@ -13,7 +13,9 @@
 		"Philosophy"
 	],
 	"title": "#1333 Ben Burgis - The Blueprint: How Socialism Can Work in the Real World",
-	"youtubeid": "zOINd9C5hhQ"
+	"vtt": "1333.vtt",
+	"youtubeid": "zOINd9C5hhQ",
+	"transcript": "1333.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 3rd 2026.  
