@@ -5,10 +5,13 @@
 	"episodeid": "1335",
 	"excerpt": "Dr. Tadeg Quillien is a chancellor’s fellow (research-focused faculty member) in the Psychology department at the University of Edinburgh. He is interested in the kinds of representations that the human mind is designed to spontaneously create. He adopts a ‘reverse-engineering’ approach to that question, using conceptual tools from evolutionary biology, statistics and computer science to ask what a mind that is well-designed (from the point of view of natural selection) should look like.",
 	"image": "https://i.ytimg.com/vi/VAfsE4H1LlA/maxresdefault.jpg",
+	"itunesEpisodeUrl": "https://podcasts.apple.com/us/podcast/1335-tadeg-quillien-how-people-think-about-intentions/id1451347236?i=1000803182434&uo=4",
 	"publishDate": 2026-11-20,
 	"spotifyEpisodeUrl": "https://podcasters.spotify.com/pod/show/thedissenter/episodes/1335-Tadeg-Quillien-How-People-Think-About-Intentions-and-Causes-e3havsd",
 	"title": "#1335 Tadeg Quillien: How People Think About Intentions and Causes",
-	"youtubeid": "VAfsE4H1LlA"
+	"vtt": "1335.vtt",
+	"youtubeid": "VAfsE4H1LlA",
+	"transcript": "1335.lines.json"
 }
 ---
 RECORDED ON APRIL 2nd 2026.  

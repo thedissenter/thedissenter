@@ -1,0 +1,4858 @@
+WEBVTT
+
+1
+00:00:00.349 --> 00:00:03.059
+Hello everyone. Welcome to a new episode of The
+
+2
+00:00:03.059 --> 00:00:06.019
+Dissenter. I'm your host, as always, Ricardo Lobst, and
+
+3
+00:00:06.019 --> 00:00:09.420
+today I'm joined by Dr. Tadek Killer. He's a
+
+4
+00:00:09.420 --> 00:00:12.659
+Chancellor's Fellow in the Psychology department at the University
+
+5
+00:00:12.659 --> 00:00:16.399
+of Edinburgh, and today we're going to talk about
+
+6
+00:00:16.530 --> 00:00:23.059
+the intentionality, social stereotypes, causal inference, and counterfactuals, and
+
+7
+00:00:23.059 --> 00:00:26.649
+other topics that Dr. Kilian explores in his work
+
+8
+00:00:26.649 --> 00:00:29.649
+and Uh, Doctor Kilian, welcome to the show. It's
+
+9
+00:00:29.649 --> 00:00:31.530
+a big pleasure to everyone. Thank
+
+10
+00:00:31.530 --> 00:00:32.150
+you for having me.
+
+11
+00:00:33.009 --> 00:00:38.689
+So let's start with intentionality. So I mean, perhaps
+
+12
+00:00:38.689 --> 00:00:42.169
+give us a definition of intentionality first. I mean,
+
+13
+00:00:42.290 --> 00:00:47.750
+at least from a psychological perspective, what is intentionality?
+
+14
+00:00:48.209 --> 00:00:51.650
+How do you approach it, and then we get,
+
+15
+00:00:51.900 --> 00:00:55.409
+we'll get into a more detailed question.
+
+16
+00:00:56.159 --> 00:00:58.979
+Yeah, so intentionality is one of those things where
+
+17
+00:00:59.279 --> 00:01:01.439
+you, you know it when you see it, right?
+
+18
+00:01:01.520 --> 00:01:04.239
+It sort of seems intuitive that, uh, oh, this
+
+19
+00:01:04.239 --> 00:01:06.919
+person in that situation did, did it intentionally. In
+
+20
+00:01:06.919 --> 00:01:09.510
+that other situation, they did it not on purpose,
+
+21
+00:01:09.559 --> 00:01:12.900
+it was an accident. Um, AND it is an
+
+22
+00:01:12.900 --> 00:01:15.959
+intuitive concept that is actually quite important to our
+
+23
+00:01:15.959 --> 00:01:18.559
+social lives, right? So if I step on your
+
+24
+00:01:18.559 --> 00:01:21.830
+foot. It does matter a lot whether I did
+
+25
+00:01:21.830 --> 00:01:24.029
+it intentionally or not, right? You're going to be
+
+26
+00:01:24.349 --> 00:01:26.550
+much angrier at me actually say, well, it was
+
+27
+00:01:26.550 --> 00:01:29.699
+intentional. All right. And so, um, it's this sort
+
+28
+00:01:29.699 --> 00:01:33.709
+of very important concept, um, that we have a
+
+29
+00:01:33.709 --> 00:01:35.830
+sort of intuitive understanding and it seems that it
+
+30
+00:01:35.830 --> 00:01:39.150
+should be very simple. Um, BUT then when philosophers
+
+31
+00:01:39.150 --> 00:01:42.150
+have tried to define what it means to do
+
+32
+00:01:42.150 --> 00:01:44.809
+something intentionally, then they have run into all sorts
+
+33
+00:01:44.809 --> 00:01:48.010
+of trouble. Right. And so for me as a
+
+34
+00:01:48.010 --> 00:01:51.519
+psychologist, this raises an important question. Uh, GIVEN the
+
+35
+00:01:51.519 --> 00:01:54.959
+fact that it was very difficult for philosophers to
+
+36
+00:01:54.959 --> 00:01:57.430
+define this concepts, uh, what does it say about
+
+37
+00:01:57.430 --> 00:02:00.690
+the cognitive representations that we use, um, to represent
+
+38
+00:02:00.690 --> 00:02:03.849
+intentional action? And maybe to give a flavor of
+
+39
+00:02:03.849 --> 00:02:06.949
+the kinds of puzzles that the philosophers have encountered,
+
+40
+00:02:07.169 --> 00:02:11.059
+um, you can imagine a story where, um, I'm
+
+41
+00:02:11.059 --> 00:02:13.490
+taking part in some sort of a rifle contest.
+
+42
+00:02:13.949 --> 00:02:16.990
+Right, but I'm not, I'm actually not good at
+
+43
+00:02:16.990 --> 00:02:19.029
+all at, at shooting a rifles. Like maybe this
+
+44
+00:02:19.029 --> 00:02:21.630
+is the first contest I enter and I'm very
+
+45
+00:02:21.630 --> 00:02:24.380
+nervous. My and sort of like I'm very not
+
+46
+00:02:24.380 --> 00:02:27.470
+confident and my hands slips on the, on the
+
+47
+00:02:27.470 --> 00:02:29.970
+barrel of the, of the rifle, um, and so
+
+48
+00:02:29.970 --> 00:02:32.830
+but just by some sort of extraordinary luck, my
+
+49
+00:02:32.830 --> 00:02:36.630
+bullet, uh, hits the center of the target, right?
+
+50
+00:02:36.649 --> 00:02:38.630
+And so yeah this is a situation where I
+
+51
+00:02:38.630 --> 00:02:40.910
+really wanted to hit the center of the target.
+
+52
+00:02:41.330 --> 00:02:44.009
+Um, I also intended to hit the center of
+
+53
+00:02:44.009 --> 00:02:46.330
+the target, right? And I thought that the best
+
+54
+00:02:46.330 --> 00:02:47.770
+way for me to hit that it was to,
+
+55
+00:02:47.889 --> 00:02:49.669
+was to shoot in the way that I did.
+
+56
+00:02:49.960 --> 00:02:52.809
+Um, YET many people don't have the intuition at
+
+57
+00:02:52.809 --> 00:02:56.529
+all that I intentionally shot the target, right? So
+
+58
+00:02:56.529 --> 00:02:58.830
+we have this sort of dissociation between concepts like,
+
+59
+00:02:59.020 --> 00:03:01.289
+uh, intending to do something and wanting to do
+
+60
+00:03:01.289 --> 00:03:04.979
+something and actually doing that thing intentionally. And this
+
+61
+00:03:04.979 --> 00:03:08.740
+is something that like actually many theories would predict
+
+62
+00:03:08.740 --> 00:03:11.820
+that this should not be the case. Um, AND
+
+63
+00:03:11.820 --> 00:03:15.220
+so the way I've been trying to solve that
+
+64
+00:03:15.220 --> 00:03:20.020
+problem, uh, is by proposing that um the attribution
+
+65
+00:03:20.020 --> 00:03:24.419
+of intentional action actually involves as a core component,
+
+66
+00:03:24.699 --> 00:03:28.000
+uh, causal reasoning, right? Um, AND so to a
+
+67
+00:03:28.000 --> 00:03:30.130
+first, to a first approximation, so this is a,
+
+68
+00:03:30.300 --> 00:03:32.820
+a theory that um Tamsin German and I have
+
+69
+00:03:32.820 --> 00:03:36.600
+been developing. Um, TO a first approximation, this theory
+
+70
+00:03:36.600 --> 00:03:41.119
+of ours say that. You do something intentionally if
+
+71
+00:03:41.119 --> 00:03:45.440
+your desire for that outcome was the cause of
+
+72
+00:03:45.440 --> 00:03:50.000
+that outcome happening and so basically I intentionally shot
+
+73
+00:03:50.000 --> 00:03:53.240
+the target because the fact that the target was
+
+74
+00:03:53.240 --> 00:03:55.960
+shot was caused by my desire to shoot, to
+
+75
+00:03:55.960 --> 00:03:59.050
+shoot the target. Um, AND in, in that particular
+
+76
+00:03:59.050 --> 00:04:01.570
+scenario where I'm a novice, I don't really know
+
+77
+00:04:01.570 --> 00:04:04.410
+how to shoot my, my rifle. Um, THEN, you
+
+78
+00:04:04.410 --> 00:04:07.649
+know, if you ask someone, well, why was the
+
+79
+00:04:07.649 --> 00:04:10.550
+target, why was the center of the target shot,
+
+80
+00:04:10.809 --> 00:04:13.589
+um, you would probably not say, oh, it's because
+
+81
+00:04:13.589 --> 00:04:16.290
+Tadec wanted to hit the target, right? It seems
+
+82
+00:04:16.290 --> 00:04:19.369
+that a more natural causal explanation is that it
+
+83
+00:04:19.369 --> 00:04:23.190
+was just dumb luck. Um, AND so, so according
+
+84
+00:04:23.190 --> 00:04:26.149
+to our theory, this is why, um, we are
+
+85
+00:04:26.149 --> 00:04:29.989
+reluctant to attribute intentionally, intentionality in that, in that
+
+86
+00:04:29.989 --> 00:04:32.220
+case. It's basically we think like, well, no, like
+
+87
+00:04:32.220 --> 00:04:34.690
+the desire was not the main cause, really the,
+
+88
+00:04:34.829 --> 00:04:37.600
+the best cause or explanation of what happened, um,
+
+89
+00:04:37.670 --> 00:04:41.230
+was luck. Um, AND so this is just one
+
+90
+00:04:41.230 --> 00:04:45.390
+example of how the theory can explain, um, sort
+
+91
+00:04:45.390 --> 00:04:49.029
+of paradoxical intuitions that people have, um, and in,
+
+92
+00:04:49.089 --> 00:04:51.390
+in, in, in, in the paper we sort of
+
+93
+00:04:51.390 --> 00:04:55.350
+explain a wide range of different puzzles about intentional
+
+94
+00:04:55.350 --> 00:04:56.690
+action in, in the same way.
+
+95
+00:04:57.959 --> 00:05:02.769
+OK, so that's, uh, according to what you've studied,
+
+96
+00:05:02.850 --> 00:05:06.890
+that's how people usually attribute intentionality to actions. I
+
+97
+00:05:06.890 --> 00:05:12.399
+mean that the cause behind, behind the outcome is
+
+98
+00:05:12.489 --> 00:05:17.250
+the desire of the actor to produce that outcome.
+
+99
+00:05:17.410 --> 00:05:18.070
+Is that it?
+
+100
+00:05:18.920 --> 00:05:21.600
+Um, YEAH, pretty much, uh, but then you get
+
+101
+00:05:21.600 --> 00:05:25.690
+into interesting, uh, subtleties, right? And so, for example,
+
+102
+00:05:25.760 --> 00:05:28.600
+um, the, the way I defined the theory earlier
+
+103
+00:05:28.600 --> 00:05:32.399
+was a slightly simplified version. Uh, REALLY, uh, when
+
+104
+00:05:32.399 --> 00:05:35.000
+we talk about desires, what, what we mean is
+
+105
+00:05:35.000 --> 00:05:38.920
+really this, um, more, uh, this more complicated notion
+
+106
+00:05:38.920 --> 00:05:40.799
+of an attitude, right? So you can have an
+
+107
+00:05:40.799 --> 00:05:43.160
+attitude towards how much you want something to happen.
+
+108
+00:05:43.940 --> 00:05:46.089
+Uh, AND so if you have a desire for
+
+109
+00:05:46.089 --> 00:05:47.820
+something, it means that you really want that thing
+
+110
+00:05:47.820 --> 00:05:50.380
+to happen, but you can also imagine a negative
+
+111
+00:05:50.380 --> 00:05:54.859
+attitude, right? Uh, MAYBE I really don't want something
+
+112
+00:05:54.859 --> 00:05:57.739
+to, something bad to happen. Maybe I really don't
+
+113
+00:05:57.739 --> 00:06:00.059
+want to step on your foot, OK. And you
+
+114
+00:06:00.059 --> 00:06:03.059
+can also imagine a neutral attitude. A neutral attitude
+
+115
+00:06:03.059 --> 00:06:05.299
+is that when I don't really care either way.
+
+116
+00:06:05.959 --> 00:06:09.410
+Um, AND so the more precisely defined version of
+
+117
+00:06:09.410 --> 00:06:12.429
+our theory, uh, is that you do something intentionally
+
+118
+00:06:12.609 --> 00:06:16.239
+if your attitude towards a particular outcome was the
+
+119
+00:06:16.250 --> 00:06:19.829
+cause of the outcome happening. Um, AND this actually
+
+120
+00:06:19.829 --> 00:06:23.929
+ends up mattering in particular kinds of cases where
+
+121
+00:06:24.070 --> 00:06:26.709
+an agent has a neutral attitude to something. They
+
+122
+00:06:26.709 --> 00:06:28.850
+don't really care at all whether that thing happens,
+
+123
+00:06:29.470 --> 00:06:33.149
+and yet people often sometimes in that kind of
+
+124
+00:06:33.149 --> 00:06:35.970
+cases they will, they will say that the person,
+
+125
+00:06:36.309 --> 00:06:40.269
+despite not caring at all, actually intentionally caused that
+
+126
+00:06:40.269 --> 00:06:44.679
+outcome. Um, AND there's a famous experiment, um, that
+
+127
+00:06:44.679 --> 00:06:48.119
+was run by a philosopher Joshua Knob, um, that
+
+128
+00:06:48.119 --> 00:06:51.000
+illustrates this, and it goes, uh, as it goes
+
+129
+00:06:51.000 --> 00:06:55.480
+as follows. So you have this, um, this chairman
+
+130
+00:06:55.480 --> 00:06:59.359
+of a of a corporation, um, and someone comes
+
+131
+00:06:59.359 --> 00:07:02.239
+up to, to the chairman and tells the chairman
+
+132
+00:07:02.440 --> 00:07:05.429
+that there's this new, um, that this new plan
+
+133
+00:07:05.429 --> 00:07:08.290
+that the corporation is thinking of implementing. And if
+
+134
+00:07:08.290 --> 00:07:10.529
+the plan goes ahead, the corporation is going to
+
+135
+00:07:10.529 --> 00:07:13.410
+make a lot of money. But as a side
+
+136
+00:07:13.410 --> 00:07:16.089
+effect of the project, um, then there's going to
+
+137
+00:07:16.089 --> 00:07:19.369
+be some pollution. Maybe some, some trees are going
+
+138
+00:07:19.369 --> 00:07:21.489
+to fall down or something like this, um, and
+
+139
+00:07:21.489 --> 00:07:24.329
+the chairman answers, well, I don't care at all
+
+140
+00:07:24.329 --> 00:07:26.489
+about what happens to the trees. I just could
+
+141
+00:07:26.489 --> 00:07:28.489
+not care less. Really, all I want to do
+
+142
+00:07:28.489 --> 00:07:30.630
+is to make as much money as I can
+
+143
+00:07:30.850 --> 00:07:33.644
+and so let us go ahead, um. And you
+
+144
+00:07:33.644 --> 00:07:35.765
+know, and go ahead with the plan. And so
+
+145
+00:07:35.765 --> 00:07:37.484
+sure enough, the company makes a lot of money,
+
+146
+00:07:37.684 --> 00:07:39.605
+but also, you know, there is some pollution, some
+
+147
+00:07:39.605 --> 00:07:41.584
+damage to the nearby trees or something like this.
+
+148
+00:07:41.885 --> 00:07:44.744
+Um, HERE, most people really have the intuition that
+
+149
+00:07:44.964 --> 00:07:50.510
+yes, the chairman intentionally caused the pollution. Um, AND
+
+150
+00:07:50.510 --> 00:07:52.209
+this is, you know, it's a bit puzzling because
+
+151
+00:07:52.570 --> 00:07:54.269
+at first it's, it's a strong intuition. It has
+
+152
+00:07:54.269 --> 00:07:56.859
+been replicated tons of times, um, but also we
+
+153
+00:07:56.859 --> 00:08:01.109
+are really telling participants in that experiment that, well,
+
+154
+00:08:01.309 --> 00:08:03.149
+the chairman does not care at all what happens
+
+155
+00:08:03.149 --> 00:08:05.790
+to the trees. Right, um, so it's not that
+
+156
+00:08:05.790 --> 00:08:07.559
+he had a burning desire to do as much
+
+157
+00:08:07.559 --> 00:08:10.600
+damage as he could, um, so it's, you get
+
+158
+00:08:10.600 --> 00:08:14.279
+this neutral attitude that actually has, um, a causal
+
+159
+00:08:14.279 --> 00:08:18.779
+effect, um, and so according to our theory, so
+
+160
+00:08:18.779 --> 00:08:21.820
+people say that the chairman intentionally caused the damage,
+
+161
+00:08:22.380 --> 00:08:24.920
+um, because his neutral attitude and the fact that
+
+162
+00:08:24.920 --> 00:08:27.309
+he did not care actually was the cause of
+
+163
+00:08:27.309 --> 00:08:30.160
+what happened. Um, AND so in order to test
+
+164
+00:08:30.160 --> 00:08:34.159
+that we actually, uh, asked participants to read the
+
+165
+00:08:34.159 --> 00:08:37.520
+same, uh, story, except that, um, in addition to
+
+166
+00:08:37.520 --> 00:08:41.919
+asking the the question about intentionally, intentionality, first we
+
+167
+00:08:41.919 --> 00:08:44.299
+ask them, well, to what extent do you agree
+
+168
+00:08:44.299 --> 00:08:47.590
+with the statement that, um, the, the environment was
+
+169
+00:08:47.590 --> 00:08:51.109
+damaged because the chairman does not care. Um, AND,
+
+170
+00:08:51.119 --> 00:08:52.760
+and then we get, we got basically the same
+
+171
+00:08:52.760 --> 00:08:58.590
+pattern. People strongly agreed with that statement. And so
+
+172
+00:08:58.590 --> 00:09:00.390
+it suggests that this, this kind of causal reasoning
+
+173
+00:09:00.390 --> 00:09:03.510
+is actually um at the root at the effect.
+
+174
+00:09:04.239 --> 00:09:08.159
+Right, but I mean, do we know if people
+
+175
+00:09:08.510 --> 00:09:14.500
+always care about other people's intentions behind a particular
+
+176
+00:09:14.500 --> 00:09:18.359
+action? I mean, if, for example, a good outcome
+
+177
+00:09:18.359 --> 00:09:24.020
+is achieved, but the person, the actor had bad
+
+178
+00:09:24.020 --> 00:09:29.739
+intentions, it just so happened that their actions produced
+
+179
+00:09:29.739 --> 00:09:32.929
+a good outcome. Come out of luck or because
+
+180
+00:09:32.929 --> 00:09:37.010
+something happened that the actor wasn't expecting and it
+
+181
+00:09:37.010 --> 00:09:40.799
+turned out that a good outcome was produced. I
+
+182
+00:09:40.799 --> 00:09:46.190
+mean, because, you know, sometimes we can deduce from
+
+183
+00:09:46.369 --> 00:09:50.799
+the way people behave that they didn't have. GOOD
+
+184
+00:09:50.799 --> 00:09:53.880
+intentions behind their actions even though they produced a
+
+185
+00:09:53.880 --> 00:09:57.320
+good outcome, but sometimes we actually are not able
+
+186
+00:09:57.320 --> 00:10:00.820
+to deduce that. And it's just if the person
+
+187
+00:10:01.280 --> 00:10:05.780
+herself tells us their intentions that we can actually
+
+188
+00:10:06.229 --> 00:10:09.155
+know that other. Otherwise they can just hide their
+
+189
+00:10:09.155 --> 00:10:13.674
+intentions, but is it that we always care about
+
+190
+00:10:13.674 --> 00:10:15.765
+people's intentions or
+
+191
+00:10:15.765 --> 00:10:21.835
+not? So the relationship between intentions and intentionality and
+
+192
+00:10:21.835 --> 00:10:25.195
+moral reasoning in general is quite a complicated one.
+
+193
+00:10:25.630 --> 00:10:28.729
+And I think it's one where research still has
+
+194
+00:10:28.729 --> 00:10:30.150
+a way to go. Like, I don't think this
+
+195
+00:10:30.150 --> 00:10:33.659
+is a solved question by any means, uh, but
+
+196
+00:10:34.070 --> 00:10:37.150
+what you would think, um, from, from, from first
+
+197
+00:10:37.150 --> 00:10:40.630
+principles maybe is that um if you want to,
+
+198
+00:10:40.809 --> 00:10:44.690
+to blame or punish someone, um. It seems that
+
+199
+00:10:44.690 --> 00:10:47.669
+their intentions should be all that matters in some
+
+200
+00:10:47.669 --> 00:10:50.969
+sense, right, because suppose I'm trying to, and I'm
+
+201
+00:10:50.969 --> 00:10:53.690
+trying to, to, to murder you, right, and by
+
+202
+00:10:53.690 --> 00:10:57.250
+some freak accident of chance you actually escape the
+
+203
+00:10:57.250 --> 00:11:01.489
+murder attempt, um, then the sort of, it, it
+
+204
+00:11:01.489 --> 00:11:03.169
+seems that you know the fact that I had
+
+205
+00:11:03.169 --> 00:11:05.729
+this very bad intention to murder you should be
+
+206
+00:11:05.729 --> 00:11:07.299
+enough to sort of lock me away because I'm
+
+207
+00:11:07.299 --> 00:11:10.609
+a very dangerous person. Um, BUT actually the law
+
+208
+00:11:10.609 --> 00:11:13.849
+is going to treat, um, an attempted murder very
+
+209
+00:11:13.849 --> 00:11:17.210
+different from a murder that actually succeeds, um, and
+
+210
+00:11:17.369 --> 00:11:20.330
+people's moral intuitions, you know, like everyday moral intuitions
+
+211
+00:11:20.330 --> 00:11:23.780
+also followed that kind of pattern, um, so that,
+
+212
+00:11:23.809 --> 00:11:26.530
+that, that's one, dissociation maybe that is a little
+
+213
+00:11:26.530 --> 00:11:30.489
+bit puzzling. Um, ANOTHER puzzling thing is that you
+
+214
+00:11:30.489 --> 00:11:34.010
+can have cases that are a little bit more
+
+215
+00:11:34.010 --> 00:11:38.039
+subtle where. Maybe, you know, again, um, I'm trying
+
+216
+00:11:38.039 --> 00:11:40.640
+to murder you, um, and I'm, you know, we
+
+217
+00:11:40.640 --> 00:11:44.080
+are out dining at some restaurant and I'm putting
+
+218
+00:11:44.080 --> 00:11:46.859
+some poison in your, uh, in your dish, OK,
+
+219
+00:11:47.429 --> 00:11:51.619
+um, so you taste your dish and so the.
+
+220
+00:11:52.380 --> 00:11:55.809
+The poison actually has a leaves a bitter taste
+
+221
+00:11:55.809 --> 00:11:57.750
+to the dish, and so you decide, no, I
+
+222
+00:11:57.750 --> 00:11:59.700
+don't like this dish. I'm going to order a
+
+223
+00:11:59.700 --> 00:12:03.539
+different one, OK, and you did not eat enough
+
+224
+00:12:03.539 --> 00:12:05.349
+poison that it's going to have any effect on
+
+225
+00:12:05.349 --> 00:12:08.070
+you, um, but basically you ask the waiter, well,
+
+226
+00:12:08.150 --> 00:12:11.059
+I'm going to ask this different dish, and actually
+
+227
+00:12:11.059 --> 00:12:14.770
+unbeknownst to either of you, the different dish has
+
+228
+00:12:15.390 --> 00:12:19.909
+some sort of ingredients that you're allergic to. OK,
+
+229
+00:12:20.030 --> 00:12:22.229
+so you have a sort of a fatal allergic
+
+230
+00:12:22.229 --> 00:12:25.650
+reaction, um, and so you you, you die. And
+
+231
+00:12:25.650 --> 00:12:27.229
+so you have this situation here where you sort
+
+232
+00:12:27.229 --> 00:12:29.500
+of, you died as a, as a result of
+
+233
+00:12:29.500 --> 00:12:34.099
+my intent to murder you. Um, BUT still, we
+
+234
+00:12:34.099 --> 00:12:36.250
+don't really think that I should be punished as
+
+235
+00:12:36.250 --> 00:12:39.780
+harshly for your death as in a situation where
+
+236
+00:12:39.780 --> 00:12:43.929
+you just, um, ingest the poison and die. So
+
+237
+00:12:43.929 --> 00:12:47.570
+it means that people, people's moral intuitions follow not
+
+238
+00:12:47.570 --> 00:12:51.530
+only um whether you have an intention, and it
+
+239
+00:12:51.530 --> 00:12:54.809
+also does not really only follow um whether your
+
+240
+00:12:54.809 --> 00:12:58.299
+intention, whether the intention led to a bad outcome.
+
+241
+00:12:58.570 --> 00:13:01.849
+It also is that our intuitions are sensitive to
+
+242
+00:13:01.849 --> 00:13:05.130
+whether to the sort of the robustness or the
+
+243
+00:13:05.130 --> 00:13:08.450
+strength of the causal link between my, my, my
+
+244
+00:13:08.450 --> 00:13:13.229
+intention and the bad outcome. So, and uh to
+
+245
+00:13:13.229 --> 00:13:15.469
+give you like maybe a third example of an
+
+246
+00:13:15.469 --> 00:13:21.020
+interesting dissociation between intentional reasoning and moral reasoning, um,
+
+247
+00:13:21.270 --> 00:13:25.919
+you have particular um bad things where people care
+
+248
+00:13:25.919 --> 00:13:28.710
+a lot about intention, OK, but there are also
+
+249
+00:13:28.710 --> 00:13:31.070
+some sort of moral violations where people don't really
+
+250
+00:13:31.070 --> 00:13:34.390
+care a lot. Um, SO if you, and there
+
+251
+00:13:34.390 --> 00:13:36.869
+have been studies that have been done where if
+
+252
+00:13:36.869 --> 00:13:39.729
+you. If you tell people, uh, OK, like those
+
+253
+00:13:39.729 --> 00:13:43.489
+two siblings got married to each other, but they
+
+254
+00:13:43.489 --> 00:13:45.140
+didn't know that they were siblings. They were kind
+
+255
+00:13:45.140 --> 00:13:47.820
+of maybe siblings that were separated at birth and
+
+256
+00:13:47.820 --> 00:13:50.619
+then later on by chance they, they met and
+
+257
+00:13:50.619 --> 00:13:53.539
+they fell in love, um, people will say, well,
+
+258
+00:13:53.619 --> 00:13:56.260
+it was super bad that they got married. Like
+
+259
+00:13:56.260 --> 00:13:59.140
+it was morally wrong, even if you tell them,
+
+260
+00:13:59.179 --> 00:14:01.140
+well, they didn't know, like this, it's not possible,
+
+261
+00:14:01.539 --> 00:14:04.349
+it's not possible that they could have intentionally, um,
+
+262
+00:14:04.739 --> 00:14:08.770
+married their sibling. Yeah, um, and, um, yeah, and
+
+263
+00:14:08.770 --> 00:14:10.969
+so I think that I wish I had a
+
+264
+00:14:10.969 --> 00:14:13.450
+big answer to the questions of why people have
+
+265
+00:14:13.450 --> 00:14:16.440
+this sort of slight associations in their intuitions, but,
+
+266
+00:14:16.469 --> 00:14:19.250
+um, I think this is, um, an area where
+
+267
+00:14:19.250 --> 00:14:20.669
+a lot more research is needed.
+
+268
+00:14:21.460 --> 00:14:24.520
+Mhm, OK. So let me ask you now, because
+
+269
+00:14:24.520 --> 00:14:28.169
+I also read a paper of yours where you
+
+270
+00:14:28.169 --> 00:14:35.500
+explore whether social stereotypes are energy saving devices or
+
+271
+00:14:35.500 --> 00:14:39.710
+feet. So start please by telling us what Would
+
+272
+00:14:39.710 --> 00:14:43.789
+it mean for social stereotypes to be energy saving
+
+273
+00:14:43.789 --> 00:14:46.109
+devices and what would it mean for them to
+
+274
+00:14:46.109 --> 00:14:50.539
+be fit and then, uh, tell us about, uh,
+
+275
+00:14:50.549 --> 00:14:53.429
+the results you got there and I, I mean
+
+276
+00:14:53.429 --> 00:14:55.950
+whether they are one thing or the other.
+
+277
+00:14:57.390 --> 00:15:02.099
+So, this concept of energy, energy saving devices, um,
+
+278
+00:15:02.109 --> 00:15:04.729
+was motivated by a series of experiments that were
+
+279
+00:15:04.729 --> 00:15:07.900
+run by social psychologists. Um, SO in, in a
+
+280
+00:15:07.900 --> 00:15:11.330
+typical experiment like this. Um, YOU'RE introduced to a
+
+281
+00:15:11.330 --> 00:15:13.409
+sort of a fictional world, so maybe there's this
+
+282
+00:15:13.409 --> 00:15:16.109
+world where there are red people and blue people,
+
+283
+00:15:17.010 --> 00:15:18.989
+and you're told that in general the blue people
+
+284
+00:15:18.989 --> 00:15:22.369
+like to eat blue flowers and the red people
+
+285
+00:15:22.369 --> 00:15:24.880
+like to eat red flowers, but it's not, it's
+
+286
+00:15:24.880 --> 00:15:27.090
+not always the case that people will behave in
+
+287
+00:15:27.090 --> 00:15:29.960
+sort of group stereotypical way. Uh, SOMETIMES you will
+
+288
+00:15:29.960 --> 00:15:33.000
+have, uh, blue people that have a preference for
+
+289
+00:15:33.000 --> 00:15:36.039
+red flowers and vice versa, but in general you're
+
+290
+00:15:36.039 --> 00:15:37.510
+told that this is kind of the way that
+
+291
+00:15:37.510 --> 00:15:40.359
+those people behave, um, and then you're told, OK,
+
+292
+00:15:40.479 --> 00:15:43.039
+here's a person, you know, maybe let's call him
+
+293
+00:15:43.039 --> 00:15:46.150
+Bob. So Bob is a blue person. Um, AND
+
+294
+00:15:46.150 --> 00:15:49.710
+you will see him, uh, like eat flowers on
+
+295
+00:15:49.710 --> 00:15:51.659
+a different number of days. So maybe over the
+
+296
+00:15:51.659 --> 00:15:54.119
+course of 10 days, you see that on day
+
+297
+00:15:54.119 --> 00:15:57.179
+one, Bob eats a blue flower. On day two,
+
+298
+00:15:57.229 --> 00:15:59.190
+he eats a blue flower on day 3, a
+
+299
+00:15:59.190 --> 00:16:01.969
+red flower, and so on and so forth. Um,
+
+300
+00:16:02.070 --> 00:16:04.530
+SO you know, here you have set up a
+
+301
+00:16:04.530 --> 00:16:07.950
+situation where you have two different sources of information
+
+302
+00:16:07.950 --> 00:16:10.010
+about Bob. OK, so the first one is the,
+
+303
+00:16:10.109 --> 00:16:13.109
+the stereotype. You know that Bob is a blue
+
+304
+00:16:13.109 --> 00:16:15.109
+person and so you know they sort of expect
+
+305
+00:16:15.109 --> 00:16:18.789
+him, uh, to like blue flowers. Uh, AND the
+
+306
+00:16:18.789 --> 00:16:21.070
+second source of source of information is that you
+
+307
+00:16:21.070 --> 00:16:24.590
+get to see what flowers he actually eats, OK.
+
+308
+00:16:25.020 --> 00:16:27.419
+And so those two things can actually be at
+
+309
+00:16:27.419 --> 00:16:29.219
+cross purposes. So you can actually have a situation
+
+310
+00:16:29.219 --> 00:16:32.049
+where um I tell you Bob is a blue
+
+311
+00:16:32.049 --> 00:16:36.309
+person, but actually he ate mostly red flowers. Um,
+
+312
+00:16:36.320 --> 00:16:37.710
+AND so this is a situation where you sort
+
+313
+00:16:37.710 --> 00:16:41.789
+of can compute, um, using some sort of formal,
+
+314
+00:16:42.030 --> 00:16:44.830
+formal mathematics. You can compute what an, uh, a
+
+315
+00:16:44.830 --> 00:16:49.309
+normative agent, um, would infer about the preferences of
+
+316
+00:16:49.309 --> 00:16:53.150
+Bob. Um, AND so in the limits, the more
+
+317
+00:16:53.150 --> 00:16:55.469
+data that you observe, you know, the more days
+
+318
+00:16:55.469 --> 00:16:58.460
+that you observe Bob eating flowers, um, the more
+
+319
+00:16:58.460 --> 00:17:01.909
+you should rely on that information, like information about
+
+320
+00:17:01.909 --> 00:17:03.869
+how Bob behaves, and the more you should sort
+
+321
+00:17:03.869 --> 00:17:07.270
+of discard the group stereotype. Because you sort of
+
+322
+00:17:07.270 --> 00:17:09.430
+end up having enough information that the group stereotypes
+
+323
+00:17:09.430 --> 00:17:12.959
+is not that helpful anymore, um, and a sort
+
+324
+00:17:12.959 --> 00:17:17.118
+of robust finding from such experiments is that people
+
+325
+00:17:17.118 --> 00:17:20.160
+do take into account both kinds of information, um,
+
+326
+00:17:20.479 --> 00:17:23.180
+but they tend to rely on the group stereotype,
+
+327
+00:17:23.319 --> 00:17:25.618
+uh, a little bit more than you would expect
+
+328
+00:17:26.079 --> 00:17:28.599
+than, you know, if they were completely irrational. So
+
+329
+00:17:28.599 --> 00:17:30.560
+you can have situations where you see Bob eating
+
+330
+00:17:30.560 --> 00:17:32.959
+mostly red flowers, but people still will predict that,
+
+331
+00:17:33.239 --> 00:17:36.359
+well, on a, on the next day Bob will
+
+332
+00:17:36.359 --> 00:17:38.469
+eat a blue flower, kind of because he's a
+
+333
+00:17:38.469 --> 00:17:42.079
+blue person, um. And so obviously this is a
+
+334
+00:17:42.079 --> 00:17:47.550
+result that has um interesting implications maybe for even
+
+335
+00:17:47.550 --> 00:17:49.599
+outside of the lab, right? If you think about
+
+336
+00:17:49.800 --> 00:17:54.160
+the fact that social stereotypes um might have a
+
+337
+00:17:54.160 --> 00:17:57.494
+role in perpetuating also. Source of inequalities in the
+
+338
+00:17:57.494 --> 00:17:59.814
+real world, it's might be a bit concerning if
+
+339
+00:17:59.814 --> 00:18:04.334
+people are actually relying on stereotypes, um, to an
+
+340
+00:18:04.334 --> 00:18:07.844
+extent that they don't really, that they downplay the
+
+341
+00:18:07.844 --> 00:18:11.964
+individuating evidence that they would get about someone. Um,
+
+342
+00:18:12.255 --> 00:18:14.854
+AND so one theory to explain why it is
+
+343
+00:18:14.854 --> 00:18:18.775
+that people rely on stereotype to that extent is
+
+344
+00:18:18.775 --> 00:18:22.640
+that it is an energy saving device. Uh, THAT'S,
+
+345
+00:18:22.760 --> 00:18:25.520
+um, you would, it's kind of effortful to actually
+
+346
+00:18:25.520 --> 00:18:29.140
+pay attention to what a particular person does and
+
+347
+00:18:29.140 --> 00:18:31.920
+then to try to update your model of what
+
+348
+00:18:31.920 --> 00:18:34.680
+that person is like on that basis. Um, IF
+
+349
+00:18:34.680 --> 00:18:36.920
+you just say, well, I'm going to expect that
+
+350
+00:18:36.920 --> 00:18:40.359
+Bob is going to behave, um, in whatever way
+
+351
+00:18:40.359 --> 00:18:43.479
+the stereotype about his group suggests, then that's a
+
+352
+00:18:43.479 --> 00:18:47.760
+less effortful strategy, and some, some evidence in favor
+
+353
+00:18:47.760 --> 00:18:51.369
+of that, um, particular theory. THAT you know that
+
+354
+00:18:51.369 --> 00:18:55.189
+stereotypes or energy saving devices is that you can
+
+355
+00:18:55.189 --> 00:18:58.010
+uh run a version of this experiment where you
+
+356
+00:18:58.010 --> 00:19:01.550
+put people under what is called cognitive load. So
+
+357
+00:19:01.550 --> 00:19:03.910
+maybe while they are doing the task you're asking
+
+358
+00:19:03.910 --> 00:19:07.280
+them to, to do some mental calculations in their
+
+359
+00:19:07.280 --> 00:19:10.069
+head or maybe you ask them to, well, we
+
+360
+00:19:10.069 --> 00:19:12.750
+are going to play little beeps, uh, at a
+
+361
+00:19:12.750 --> 00:19:14.949
+random point in the experiment, and whenever you, you
+
+362
+00:19:14.949 --> 00:19:17.030
+hear a beep, you have to press this key.
+
+363
+00:19:17.229 --> 00:19:20.530
+OK, so the partipant's mind is sort of. Um,
+
+364
+00:19:20.550 --> 00:19:22.750
+DIVIDED between the two tasks that they have to
+
+365
+00:19:22.750 --> 00:19:25.550
+do, uh, and when you do that, uh, what
+
+366
+00:19:25.550 --> 00:19:28.760
+you find is that people rely on the stereotype
+
+367
+00:19:28.900 --> 00:19:32.550
+even more, um, and so the, the suggestion is
+
+368
+00:19:32.550 --> 00:19:35.750
+that when they have fewer cognitive resources to dedicate
+
+369
+00:19:35.750 --> 00:19:37.949
+to the task, then they have to rely on
+
+370
+00:19:37.949 --> 00:19:41.750
+the more, uh, the simpler strategy of just, just
+
+371
+00:19:41.750 --> 00:19:45.589
+using the, the stereotype, um. So that's kind of
+
+372
+00:19:45.589 --> 00:19:49.670
+the phenomenon, but this idea of the energy saving
+
+373
+00:19:49.670 --> 00:19:52.750
+device up to that point was mostly a verbal
+
+374
+00:19:52.750 --> 00:19:56.349
+theory. Um, AND so, uh, with my colleague at
+
+375
+00:19:56.349 --> 00:19:59.410
+Edinburgh, uh, Max Taylor Davis, we were wondering whether
+
+376
+00:19:59.410 --> 00:20:01.150
+we, we can make that insight a little bit
+
+377
+00:20:01.150 --> 00:20:04.020
+more formal. To check that indeed if you want
+
+378
+00:20:04.020 --> 00:20:07.020
+to save and uh save cognitive cost, the good
+
+379
+00:20:07.020 --> 00:20:11.180
+strategy is still reliable on the stereotype. So what
+
+380
+00:20:11.180 --> 00:20:15.310
+we did is we performed a simple agent-based simulation.
+
+381
+00:20:15.699 --> 00:20:17.459
+And so in that agent-based simulation you have one
+
+382
+00:20:17.459 --> 00:20:20.390
+person who we call the observer who sort of
+
+383
+00:20:20.390 --> 00:20:22.900
+plays the role of the, the participants in the,
+
+384
+00:20:23.180 --> 00:20:26.079
+in the human experiments. And then there's a population
+
+385
+00:20:26.079 --> 00:20:30.150
+of, of people of of virtual simulated people. Uh,
+
+386
+00:20:30.310 --> 00:20:32.270
+SO maybe there are the red people and the
+
+387
+00:20:32.270 --> 00:20:36.650
+blue people, right, um, and we can then, um,
+
+388
+00:20:37.229 --> 00:20:40.109
+compute what is, uh, and again the, the observer
+
+389
+00:20:40.109 --> 00:20:42.810
+in the, in the simulation has basically the same
+
+390
+00:20:42.810 --> 00:20:45.849
+task as the, as the participant in the human
+
+391
+00:20:45.849 --> 00:20:50.709
+experiments. So, uh, it, it's basically told, well, here's
+
+392
+00:20:50.709 --> 00:20:52.869
+the, you have those two groups. Here's a stereotype
+
+393
+00:20:52.869 --> 00:20:55.000
+about this group. He's a stereotype about that group,
+
+394
+00:20:55.270 --> 00:20:57.670
+and you're going. You have to predict the behavior
+
+395
+00:20:57.670 --> 00:21:00.310
+of one particular agent on the basis of their
+
+396
+00:21:00.310 --> 00:21:04.670
+group membership and some individuating evidence about what they
+
+397
+00:21:04.670 --> 00:21:08.930
+are like, um, and in that context we can
+
+398
+00:21:09.189 --> 00:21:13.390
+use some, um, some mathematical tools from a field
+
+399
+00:21:13.390 --> 00:21:16.599
+called information theory. Um, I'm not, I'm not going
+
+400
+00:21:16.599 --> 00:21:19.040
+to enter too much into the, the details, but
+
+401
+00:21:19.040 --> 00:21:22.229
+basically what this formalism allows us to do is
+
+402
+00:21:22.229 --> 00:21:26.160
+to quantify the, um, the cognitive complexity of a
+
+403
+00:21:26.160 --> 00:21:30.160
+particular cognitive strategy. OK, and then our assumption is
+
+404
+00:21:30.160 --> 00:21:32.439
+that, um, if you don't have a lot of
+
+405
+00:21:32.439 --> 00:21:36.199
+cognitive resources, then the, the goodness, the quality of
+
+406
+00:21:36.199 --> 00:21:39.199
+a cognitive strategy is going to be a function
+
+407
+00:21:39.199 --> 00:21:41.760
+of two things. It's going to be a trade-off
+
+408
+00:21:41.760 --> 00:21:45.109
+between. Um, FIRST, the predictive power of the cognitive
+
+409
+00:21:45.109 --> 00:21:47.550
+strategy, like how well it allows you to actually
+
+410
+00:21:47.550 --> 00:21:50.739
+predict the behavior of people, um. And on the
+
+411
+00:21:50.739 --> 00:21:52.670
+other hand, it's going to depend on the cognitive
+
+412
+00:21:52.670 --> 00:21:55.670
+simplicity of the strategy, right? You don't want a
+
+413
+00:21:55.670 --> 00:21:58.150
+strategy that is very good at predicting behavior, but
+
+414
+00:21:58.150 --> 00:22:02.030
+that requires us to run super sophisticated computations that
+
+415
+00:22:02.030 --> 00:22:06.609
+you just that your brain explodes. Right, um, and
+
+416
+00:22:06.609 --> 00:22:09.130
+so, uh, the, the nice thing is that in
+
+417
+00:22:09.130 --> 00:22:12.530
+that, um, set of simulations we, we're actually able
+
+418
+00:22:12.530 --> 00:22:15.410
+to sort of look at the entire possible space
+
+419
+00:22:15.410 --> 00:22:19.329
+of possible cognitive strategies and to compute what is
+
+420
+00:22:19.329 --> 00:22:22.069
+the best one, what is the strategy that actually
+
+421
+00:22:22.469 --> 00:22:25.569
+achieves the sweet spots in terms of this trade-off
+
+422
+00:22:25.569 --> 00:22:29.640
+between predictive power and cognitive complexity. Um, AND the
+
+423
+00:22:29.640 --> 00:22:32.709
+main result is that we actually confirm these insights
+
+424
+00:22:33.050 --> 00:22:37.359
+that stereotypes can act as energy saving devices. Um,
+
+425
+00:22:38.150 --> 00:22:40.369
+BECAUSE in our simulations it was also the case
+
+426
+00:22:40.630 --> 00:22:44.430
+that, um, the, the observers, um, they tended to
+
+427
+00:22:44.430 --> 00:22:48.500
+rely on the information about group membership to, to
+
+428
+00:22:48.500 --> 00:22:51.829
+a larger extent than, than was really warranted by
+
+429
+00:22:51.829 --> 00:22:54.880
+the objective setup of the, of the task. Um,
+
+430
+00:22:54.939 --> 00:22:57.489
+SO that's one thing. Um, ALSO we were able
+
+431
+00:22:57.489 --> 00:23:00.369
+to, to vary the cognitive capacity that we give
+
+432
+00:23:00.369 --> 00:23:03.390
+to our observer. So we, for example, we have
+
+433
+00:23:03.390 --> 00:23:05.349
+a set of simulations where we say, well, the
+
+434
+00:23:05.349 --> 00:23:07.589
+observer has a lot of cognitive capacity and so
+
+435
+00:23:07.589 --> 00:23:10.869
+it's basically able to do the task perfectly. And
+
+436
+00:23:10.869 --> 00:23:13.390
+in that situation, then the, the agent is actually
+
+437
+00:23:13.750 --> 00:23:15.750
+not showing any bias, so it's so it is
+
+438
+00:23:15.750 --> 00:23:20.709
+sort of incorporating the individuating evidence um to, to
+
+439
+00:23:20.709 --> 00:23:22.430
+the extent that it should, so there is no
+
+440
+00:23:22.430 --> 00:23:24.969
+more of a bias towards the using the stereotype,
+
+441
+00:23:25.310 --> 00:23:27.869
+um. But we also can go to the other
+
+442
+00:23:27.869 --> 00:23:31.329
+extreme, right, where we only allocate to the agents
+
+443
+00:23:31.550 --> 00:23:34.390
+um a little bit of cognitive capacity. And when
+
+444
+00:23:34.390 --> 00:23:36.709
+we do that, we see that it's relies on
+
+445
+00:23:36.709 --> 00:23:40.810
+the stereo on the stereotype even more. Um, AND
+
+446
+00:23:40.810 --> 00:23:43.290
+so we take that to be at least a
+
+447
+00:23:43.290 --> 00:23:46.650
+proof of principle that the idea of energy saving
+
+448
+00:23:46.650 --> 00:23:49.969
+devices is actually, um, on the right track from
+
+449
+00:23:49.969 --> 00:23:54.099
+a, from a formal standpoint. Um, THE, the other
+
+450
+00:23:54.099 --> 00:23:56.579
+finding that we have in that paper is that
+
+451
+00:23:56.579 --> 00:23:58.699
+we can also vary the extent to which the
+
+452
+00:23:58.699 --> 00:24:02.780
+stereotype, um, is, is giving you information about the
+
+453
+00:24:02.780 --> 00:24:05.140
+social group, right? So you can, you can imagine
+
+454
+00:24:05.140 --> 00:24:08.300
+a situation where the stereotype gives you a lot
+
+455
+00:24:08.300 --> 00:24:12.050
+of information because the blue people that almost always
+
+456
+00:24:12.050 --> 00:24:14.660
+eat blue flowers and the red people always, almost
+
+457
+00:24:14.660 --> 00:24:17.819
+always eat red flowers. Um, IN that situation, the
+
+458
+00:24:17.819 --> 00:24:20.089
+rational thing to do is, is to actually rely
+
+459
+00:24:20.089 --> 00:24:23.959
+on the. On the group membership a lot, um,
+
+460
+00:24:24.199 --> 00:24:26.680
+and you can also imagine situations where the group
+
+461
+00:24:26.680 --> 00:24:29.359
+membership gives you a little bit of information. So
+
+462
+00:24:29.359 --> 00:24:33.479
+maybe the blue people, they will eat blue flowers
+
+463
+00:24:33.479 --> 00:24:36.000
+55% of the time and in the same way
+
+464
+00:24:36.000 --> 00:24:38.880
+the red people eat the red flowers 55% of
+
+465
+00:24:38.880 --> 00:24:41.579
+the time in that kind of setup you should
+
+466
+00:24:41.920 --> 00:24:45.319
+still rely a little bit on the information about
+
+467
+00:24:45.319 --> 00:24:48.140
+group membership, but you should do so to quite
+
+468
+00:24:48.140 --> 00:24:51.069
+a lower extent. Um, AND we do find that
+
+469
+00:24:51.069 --> 00:24:53.109
+this manipulation also has an effect on the behavior
+
+470
+00:24:53.109 --> 00:24:56.030
+of, of our agents, um, and so what this
+
+471
+00:24:56.030 --> 00:25:01.130
+means is that, um, the. The use of stereotypes
+
+472
+00:25:01.729 --> 00:25:04.630
+depends not only on whether it's going to allow
+
+473
+00:25:04.630 --> 00:25:08.010
+you to save cognitive capacity. It also depends on
+
+474
+00:25:08.010 --> 00:25:10.969
+what to what extent the stereotypes, uh, correspond to
+
+475
+00:25:10.969 --> 00:25:15.109
+sort of statistical reality. And I'm going to connect
+
+476
+00:25:15.109 --> 00:25:18.150
+this back to this, uh, early research in social
+
+477
+00:25:18.150 --> 00:25:22.030
+psychology. So there was another camp in social psychological
+
+478
+00:25:22.030 --> 00:25:26.339
+theories of stereotype according to which, um, stereotypes are
+
+479
+00:25:26.339 --> 00:25:29.469
+a function of, of this idea of fit and
+
+480
+00:25:29.469 --> 00:25:32.729
+that people use stereotypes if it fits their local
+
+481
+00:25:32.729 --> 00:25:36.270
+environment, um, and so the overall conclusion from this
+
+482
+00:25:36.270 --> 00:25:39.310
+study is that, uh, both kinds of the of
+
+483
+00:25:39.310 --> 00:25:41.790
+theories were actually on the right track. Oh, OK,
+
+484
+00:25:43.109 --> 00:25:45.680
+uh, so it's kind of the stereotype use is
+
+485
+00:25:45.680 --> 00:25:48.719
+a function of saving cognitive energy and also a
+
+486
+00:25:48.719 --> 00:25:51.040
+function of, of, of fit, um, and so we
+
+487
+00:25:51.040 --> 00:25:55.319
+have this nice unifying, um, formalization of those, of
+
+488
+00:25:55.319 --> 00:25:58.800
+those two things. Um, 11, maybe 11 last thing
+
+489
+00:25:58.800 --> 00:26:01.719
+that I should add is that in this discussion
+
+490
+00:26:01.719 --> 00:26:04.000
+when I said that what it's optimal to rely
+
+491
+00:26:04.000 --> 00:26:06.780
+on stereotypes to such an extent, um, we are
+
+492
+00:26:06.780 --> 00:26:09.319
+only talking about the sort of like very cold,
+
+493
+00:26:09.400 --> 00:26:12.839
+um, Bayesian optimality. Uh, AND of course you can
+
+494
+00:26:12.839 --> 00:26:16.430
+have situations in which even though, uh, you know,
+
+495
+00:26:16.479 --> 00:26:19.520
+in, in the real world, even though using stereotypes
+
+496
+00:26:19.520 --> 00:26:23.119
+would be like the rational thing to do, uh,
+
+497
+00:26:23.280 --> 00:26:25.000
+from this Bayesian point of view, it might not
+
+498
+00:26:25.000 --> 00:26:27.719
+actually be the, the moral thing to do, um,
+
+499
+00:26:27.839 --> 00:26:29.209
+but that's, that's another topic entirely.
+
+500
+00:26:30.489 --> 00:26:33.219
+Yeah, that's more of a philosophical topic, I guess,
+
+501
+00:26:33.260 --> 00:26:36.119
+and not so much a, a psychology topic. So,
+
+502
+00:26:36.380 --> 00:26:39.939
+uh, of course, earlier when we talked about intentionality,
+
+503
+00:26:40.020 --> 00:26:46.060
+that's already referring to, um, causal, uh, reasoning, but
+
+504
+00:26:46.060 --> 00:26:49.619
+how do you approach the study of causal inference
+
+505
+00:26:49.619 --> 00:26:50.640
+more broadly?
+
+506
+00:26:52.099 --> 00:26:55.140
+So the study of causal inference is, I think
+
+507
+00:26:55.140 --> 00:26:59.319
+it's quite an exciting um subfield of psychology um
+
+508
+00:26:59.540 --> 00:27:02.869
+because we can rely a lot on a new,
+
+509
+00:27:03.119 --> 00:27:06.939
+a new mathematical theory, a new mathematical formalism to
+
+510
+00:27:06.939 --> 00:27:11.280
+formalize what, what causality is that has been developed
+
+511
+00:27:11.280 --> 00:27:14.640
+over the, the past few decades, like started maybe
+
+512
+00:27:15.020 --> 00:27:19.060
+starting in the, the late 80s maybe. Um, AND
+
+513
+00:27:19.060 --> 00:27:22.780
+so the core idea behind this formalism is that
+
+514
+00:27:22.780 --> 00:27:26.900
+you can encode, uh, knowledge about causal relationships in
+
+515
+00:27:26.900 --> 00:27:29.300
+the form of what we call, uh, causal models.
+
+516
+00:27:30.119 --> 00:27:31.910
+So to give an example of a very simple
+
+517
+00:27:31.910 --> 00:27:35.339
+causal model, maybe you have a model of whether,
+
+518
+00:27:35.420 --> 00:27:38.719
+um, rain, the the relationship between rain and the
+
+519
+00:27:38.719 --> 00:27:41.760
+grass being wet, OK, um, and so in that
+
+520
+00:27:41.760 --> 00:27:45.229
+model I say that. Um, WELL, the grass is
+
+521
+00:27:45.229 --> 00:27:48.729
+wet if it rains. It seems very simple. Um,
+
+522
+00:27:48.910 --> 00:27:51.449
+AND one way that you might want to actually
+
+523
+00:27:51.449 --> 00:27:55.910
+encode this particular information is by having two variables.
+
+524
+00:27:56.069 --> 00:27:58.790
+So you have a variable that is 0 if
+
+525
+00:27:58.790 --> 00:28:01.489
+it doesn't rain and 1 if it rains, and
+
+526
+00:28:01.790 --> 00:28:04.349
+the same kind of variable for whether the grass
+
+527
+00:28:04.349 --> 00:28:07.849
+is wet, um. And, and then the next thing
+
+528
+00:28:07.849 --> 00:28:10.449
+is, is you say that you have a sort
+
+529
+00:28:10.449 --> 00:28:13.540
+of an equality relationship between those variables. So like
+
+530
+00:28:13.689 --> 00:28:16.510
+you say something like grass being wet equals rain,
+
+531
+00:28:17.010 --> 00:28:19.089
+um, but the problem with that thing is that
+
+532
+00:28:19.089 --> 00:28:21.650
+if you have a relationship of equality between two
+
+533
+00:28:21.650 --> 00:28:24.930
+variables, then you can rearrange the two variables and
+
+534
+00:28:24.930 --> 00:28:28.280
+you can say that um wet grass equals rain
+
+535
+00:28:28.280 --> 00:28:31.130
+or rain equals wet grass, um, but we do
+
+536
+00:28:31.130 --> 00:28:34.209
+have an intuition that this relationship is actually asymmetrical.
+
+537
+00:28:34.800 --> 00:28:37.000
+Right, it is a rain that causes the, the
+
+538
+00:28:37.000 --> 00:28:39.400
+grass to be wet and not the other way
+
+539
+00:28:39.400 --> 00:28:42.619
+around, um, and so in a causal model you
+
+540
+00:28:42.619 --> 00:28:46.150
+encode this asymmetry by really having a sort of,
+
+541
+00:28:46.160 --> 00:28:49.219
+um, an arrow between one variable to the next,
+
+542
+00:28:49.680 --> 00:28:54.640
+um, and the, the consequences of this asymmetry, um,
+
+543
+00:28:54.760 --> 00:28:58.079
+have to do with what are the consequences of
+
+544
+00:28:58.079 --> 00:29:01.270
+interventions. So you can imagine that you're making some
+
+545
+00:29:01.270 --> 00:29:03.790
+you're intervening on a particular variable in the causal
+
+546
+00:29:03.790 --> 00:29:05.829
+model. And you can see what happens if I
+
+547
+00:29:05.829 --> 00:29:09.109
+do this, um, and if you intervene on the
+
+548
+00:29:09.109 --> 00:29:11.709
+rain, if you prevent the rain from happening, then
+
+549
+00:29:11.709 --> 00:29:14.910
+the grass is no longer wet, OK, but it
+
+550
+00:29:14.910 --> 00:29:17.949
+doesn't work in the other direction, right? If you
+
+551
+00:29:17.949 --> 00:29:20.569
+prevent the grass from being wet by sort of
+
+552
+00:29:20.680 --> 00:29:23.910
+covering it with some blanket, then it does not
+
+553
+00:29:23.910 --> 00:29:26.890
+stop the rain. Um, AND so, and this is
+
+554
+00:29:26.890 --> 00:29:29.650
+a consequence of the fact that you, you sort
+
+555
+00:29:29.650 --> 00:29:34.250
+of specify this asymmetry of the relationship, and so
+
+556
+00:29:34.250 --> 00:29:36.400
+in this, in this framework of causal model we
+
+557
+00:29:36.400 --> 00:29:39.770
+really define what it means for something to be
+
+558
+00:29:39.770 --> 00:29:42.680
+causal in terms of the patterns of interventions that,
+
+559
+00:29:42.689 --> 00:29:45.300
+that you can make and, and the, and the
+
+560
+00:29:45.300 --> 00:29:48.640
+consequences. Um, AND so we can, this is a
+
+561
+00:29:48.640 --> 00:29:51.359
+formalism that has been developed in, in computer science
+
+562
+00:29:51.359 --> 00:29:54.160
+and in statistics, but we can use that as
+
+563
+00:29:54.160 --> 00:29:57.199
+models of how people actually think. And so the
+
+564
+00:29:57.199 --> 00:29:59.640
+hypothesis is that people, they do have those causal
+
+565
+00:29:59.640 --> 00:30:02.920
+models in their head or maybe they have approximations
+
+566
+00:30:02.920 --> 00:30:05.550
+of causal models, um, and, and it is a
+
+567
+00:30:05.550 --> 00:30:08.719
+hypothesis that has been quite successful, uh, like there's
+
+568
+00:30:08.719 --> 00:30:11.699
+a lot of experimental data that suggests that people
+
+569
+00:30:12.079 --> 00:30:14.680
+do reason about causality in, in that particular way.
+
+570
+00:30:15.319 --> 00:30:20.359
+Mhm. And what are counterfactuals, and I mean what
+
+571
+00:30:20.359 --> 00:30:24.040
+role do they play in terms of how we
+
+572
+00:30:24.040 --> 00:30:25.780
+reason about causes?
+
+573
+00:30:26.719 --> 00:30:29.449
+So, uh, counteractuals, so you can, you can imagine,
+
+574
+00:30:29.479 --> 00:30:34.319
+um, a situation where, you know, again, you know,
+
+575
+00:30:34.510 --> 00:30:36.550
+we have the rain, we have the weather, we
+
+576
+00:30:36.550 --> 00:30:39.000
+care about whether the grass is wet, um, and
+
+577
+00:30:39.000 --> 00:30:41.920
+also maybe I have a sprinkler installed in my
+
+578
+00:30:41.920 --> 00:30:44.709
+garden. And we can imagine that the sprinkler is
+
+579
+00:30:44.709 --> 00:30:47.229
+kind of is behaving in a little in a
+
+580
+00:30:47.229 --> 00:30:49.250
+random ways. It sort of activates whenever it wants
+
+581
+00:30:49.250 --> 00:30:53.150
+to, um, so there's a particular question that you
+
+582
+00:30:53.150 --> 00:30:55.550
+can ask. Uh, SUPPOSE that you know that this
+
+583
+00:30:55.550 --> 00:30:58.550
+morning, uh, it was raining and the sprinkler was
+
+584
+00:30:58.550 --> 00:31:02.229
+also activated and the grass was wet. Um, A
+
+585
+00:31:02.229 --> 00:31:06.229
+counterfactual is asking what would have happened if something
+
+586
+00:31:06.239 --> 00:31:08.869
+else had been different. And so maybe I can
+
+587
+00:31:08.869 --> 00:31:12.739
+ask, well, if it had not rained. Would the
+
+588
+00:31:12.739 --> 00:31:15.880
+grass still have been wet? And, and here the
+
+589
+00:31:15.880 --> 00:31:17.880
+correct answer is, is, is yes, the grass would
+
+590
+00:31:17.880 --> 00:31:20.479
+still have been wet because, um, this morning the
+
+591
+00:31:20.479 --> 00:31:24.400
+sprinkler was also activated, um, and so, and so
+
+592
+00:31:24.400 --> 00:31:27.359
+people, this, this kind of counteractual reasoning, um, you
+
+593
+00:31:27.359 --> 00:31:31.599
+can actually formalize that uh using the same framework
+
+594
+00:31:31.599 --> 00:31:34.589
+of causal models that uh that I have described
+
+595
+00:31:34.589 --> 00:31:37.920
+earlier, right? And so the, the key point here
+
+596
+00:31:37.920 --> 00:31:41.280
+is that counterfactual thinking is something that relies to
+
+597
+00:31:41.280 --> 00:31:45.479
+a large extent on causal reasoning. Um, AND there
+
+598
+00:31:45.479 --> 00:31:48.239
+have been, again there have been psychological studies that
+
+599
+00:31:48.239 --> 00:31:51.959
+have shown that yes, people do tend to use
+
+600
+00:31:51.959 --> 00:31:54.939
+their causal knowledge when there is no bad counterfactuals.
+
+601
+00:31:55.439 --> 00:31:58.640
+Um, YOU can, you can probe counterfactual thinking by
+
+602
+00:31:58.640 --> 00:32:01.079
+asking participants that kind of question, you know, what
+
+603
+00:32:01.079 --> 00:32:04.660
+would have happened if, uh, so that would be
+
+604
+00:32:04.800 --> 00:32:09.189
+explicit counterfactual reasoning. And explicit counterfactual reasoning is quite
+
+605
+00:32:09.189 --> 00:32:12.500
+interesting. There's many um interesting things about it, but
+
+606
+00:32:12.500 --> 00:32:16.270
+there's also another kind of counterfactual reasoning, and that's
+
+607
+00:32:16.270 --> 00:32:20.219
+implicit counterfactual reasoning. So even if you, in, in
+
+608
+00:32:20.219 --> 00:32:23.530
+many situations, even if you don't ask participants an
+
+609
+00:32:23.530 --> 00:32:28.550
+explicitly causal counterfactual question, they will still engage in
+
+610
+00:32:28.550 --> 00:32:33.829
+spontaneous causal reasoning. Um, AND, um, 11 example of
+
+611
+00:32:33.829 --> 00:32:37.069
+that is, you know, if we go back to
+
+612
+00:32:37.069 --> 00:32:42.109
+discussions of intentionality, um, we, we think that people
+
+613
+00:32:42.170 --> 00:32:46.260
+do spontaneously engage in counterfactual reasoning, um, when they,
+
+614
+00:32:46.390 --> 00:32:49.390
+when they think about, uh, about intentionality. And so
+
+615
+00:32:49.390 --> 00:32:52.229
+for example, you know, 11 way that you can
+
+616
+00:32:52.229 --> 00:32:57.150
+explain why people don't think that, um, I intentionally
+
+617
+00:32:57.150 --> 00:33:00.319
+hit the target, you know. By shooting is that
+
+618
+00:33:00.410 --> 00:33:03.569
+it's quite easy to imagine a counterfactual situation where
+
+619
+00:33:03.569 --> 00:33:05.969
+I still really want to hit the target, but
+
+620
+00:33:05.969 --> 00:33:08.449
+my shot does not, is not successful at all.
+
+621
+00:33:09.209 --> 00:33:11.810
+I'm a novice person. I just have no idea
+
+622
+00:33:11.810 --> 00:33:14.369
+what I'm doing and so it's very, it's very
+
+623
+00:33:14.369 --> 00:33:16.930
+easy to imagine the situation where I completely fail.
+
+624
+00:33:17.380 --> 00:33:20.430
+And so yeah, here we have a situation where
+
+625
+00:33:20.430 --> 00:33:23.829
+despite the fact that we don't ask participants to
+
+626
+00:33:23.829 --> 00:33:28.349
+imagine alternative possible situations, we think it's highly likely
+
+627
+00:33:28.349 --> 00:33:29.430
+that they actually do so.
+
+628
+00:33:30.140 --> 00:33:34.380
+Mhm. But I, I mean, in people's minds, uh,
+
+629
+00:33:34.619 --> 00:33:37.619
+of course, we're approaching these questions from a psychological
+
+630
+00:33:37.619 --> 00:33:44.099
+perspective. What makes certain counterfactuals seem plausible and others
+
+631
+00:33:44.099 --> 00:33:44.479
+not?
+
+632
+00:33:45.339 --> 00:33:48.420
+Yeah, um, and, and again, it's, it's an important
+
+633
+00:33:48.420 --> 00:33:52.390
+question because, uh, If people did not think that
+
+634
+00:33:52.390 --> 00:33:55.829
+this possibility of me failing was like a plausible
+
+635
+00:33:55.829 --> 00:33:57.829
+counterfactual, then they would not use it in their
+
+636
+00:33:57.829 --> 00:34:00.670
+reasoning, and that's why we, yeah, we, we want
+
+637
+00:34:00.670 --> 00:34:05.609
+to understand that. Um, AND the one sort of
+
+638
+00:34:05.609 --> 00:34:10.770
+obvious thing that makes counterfactuals plausible is that if
+
+639
+00:34:10.770 --> 00:34:14.770
+they were likely to to arise in the first
+
+640
+00:34:14.770 --> 00:34:17.770
+place, OK, so in the example of me shooting
+
+641
+00:34:17.770 --> 00:34:21.030
+at a target, um, since we know that I'm
+
+642
+00:34:21.030 --> 00:34:25.199
+a novice marksman, it seems that it was very
+
+643
+00:34:25.370 --> 00:34:28.199
+a priori likely that I would fail. And so
+
+644
+00:34:28.199 --> 00:34:31.909
+this higher probability of me failing makes the, the
+
+645
+00:34:31.918 --> 00:34:36.478
+counterfactual possibility where I do fail quite relevant. Um,
+
+646
+00:34:36.840 --> 00:34:39.418
+AND so that that's a relatively, I guess intuitive,
+
+647
+00:34:39.429 --> 00:34:43.899
+uh, result. But then there's, um, other findings about
+
+648
+00:34:44.060 --> 00:34:47.590
+counterfactual possibility that are maybe a little bit more,
+
+649
+00:34:47.600 --> 00:34:52.770
+um, counterintuitive, um, and one, maybe one example. Is,
+
+650
+00:34:53.949 --> 00:34:58.929
+you have a situation where, um, someone does like
+
+651
+00:34:58.929 --> 00:35:04.520
+something happens because of two different causes. Um, AND
+
+652
+00:35:04.520 --> 00:35:07.850
+when you ask participants what was the cause, um,
+
+653
+00:35:08.080 --> 00:35:12.080
+participants have a tendency to say that if someone
+
+654
+00:35:12.080 --> 00:35:16.080
+did something wrong, something immoral, then they have a
+
+655
+00:35:16.080 --> 00:35:18.199
+tendency to say, well, that person was the cause.
+
+656
+00:35:18.399 --> 00:35:23.040
+They're also likely to say that, well, that's the
+
+657
+00:35:23.040 --> 00:35:27.000
+sort of the relevant counterfactual situation is one where
+
+658
+00:35:27.000 --> 00:35:29.199
+the person does not behave in that way. Um,
+
+659
+00:35:29.879 --> 00:35:33.750
+SO it seems that um social norms and moral
+
+660
+00:35:33.750 --> 00:35:37.070
+considerations also have an impact on what kinds of
+
+661
+00:35:37.070 --> 00:35:42.739
+actions we think are plausible. There's also the temporal
+
+662
+00:35:42.739 --> 00:35:47.580
+information has a lot of impact. Um, SO if
+
+663
+00:35:47.580 --> 00:35:51.189
+I tell you that there's a basketball game and
+
+664
+00:35:51.330 --> 00:35:53.500
+at at the very end of the basketball game
+
+665
+00:35:53.500 --> 00:35:57.340
+there's someone who shoots 3 pointers and then it
+
+666
+00:35:57.340 --> 00:36:00.540
+allows that person's team to just go from barely
+
+667
+00:36:00.540 --> 00:36:03.500
+losing to barely winning, but it seems that really
+
+668
+00:36:03.500 --> 00:36:07.179
+that person is the cause of their team winning
+
+669
+00:36:07.179 --> 00:36:09.199
+the game and it also seems that if you
+
+670
+00:36:09.199 --> 00:36:13.790
+think about Um, what alternative possibilities are relevant, um,
+
+671
+00:36:13.959 --> 00:36:16.399
+people will really tend to think about the possibility
+
+672
+00:36:16.399 --> 00:36:19.439
+where that person does not successfully shoot the 3
+
+673
+00:36:19.439 --> 00:36:22.959
+pointers. And it's interesting because they don't think about
+
+674
+00:36:22.959 --> 00:36:27.669
+the possibility where someone else fails to shoot another
+
+675
+00:36:27.669 --> 00:36:31.449
+3 pointer way earlier in the game. Even if
+
+676
+00:36:31.449 --> 00:36:33.239
+you set up the situation in such a way
+
+677
+00:36:33.500 --> 00:36:37.129
+that the prior probability of those two events is
+
+678
+00:36:37.129 --> 00:36:37.699
+actually the same.
+
+679
+00:36:38.659 --> 00:36:42.699
+Mhm. Right. So, but, uh, I mean, what do
+
+680
+00:36:42.699 --> 00:36:45.860
+we know about how people, I mean, when they
+
+681
+00:36:45.860 --> 00:36:48.939
+witness a particular event or when they, when they're
+
+682
+00:36:48.939 --> 00:36:53.500
+thinking about something that happened and they're trying to
+
+683
+00:36:54.449 --> 00:36:59.129
+Decide what caused it. I mean, how do people
+
+684
+00:37:01.389 --> 00:37:04.790
+select among all the possible different causes? I mean,
+
+685
+00:37:04.949 --> 00:37:10.030
+how do they link a particular event to a
+
+686
+00:37:10.030 --> 00:37:12.750
+particular cause? I mean, how do they do that?
+
+687
+00:37:13.760 --> 00:37:15.719
+Yeah, and so, and this is a phenomenon that
+
+688
+00:37:15.719 --> 00:37:18.439
+we've seen a few examples already. So this, this
+
+689
+00:37:18.439 --> 00:37:20.679
+example of, you know, what, who was the cause
+
+690
+00:37:20.679 --> 00:37:23.719
+of winning the game, so this is an example
+
+691
+00:37:23.719 --> 00:37:26.840
+where there's actually many different causes because there are
+
+692
+00:37:26.840 --> 00:37:29.199
+many players on the team and most of the
+
+693
+00:37:29.199 --> 00:37:32.360
+players will have scored points. And so there's a
+
+694
+00:37:32.360 --> 00:37:34.840
+sense in which, and even even the players who
+
+695
+00:37:34.840 --> 00:37:38.159
+do not score points, uh, they make defensive plays
+
+696
+00:37:38.159 --> 00:37:42.149
+that maybe were very critical for winning. And so
+
+697
+00:37:42.149 --> 00:37:43.550
+this is an example of an event where there
+
+698
+00:37:43.550 --> 00:37:47.270
+are many different causes, um, yet we do have
+
+699
+00:37:47.270 --> 00:37:50.310
+this tendency to think that's like really the, the
+
+700
+00:37:50.310 --> 00:37:53.169
+one main cause of the event was this player
+
+701
+00:37:53.389 --> 00:37:55.729
+that shot the 3 pointer at the very end,
+
+702
+00:37:56.679 --> 00:37:59.110
+um, and, and this is like quite a ubiquitous
+
+703
+00:37:59.110 --> 00:38:03.350
+phenomenon. Like for most things that happen there will
+
+704
+00:38:03.350 --> 00:38:07.310
+in fact be many different causes that, that. Contributed
+
+705
+00:38:07.310 --> 00:38:10.070
+to the thing happening, but we have this tendency
+
+706
+00:38:10.070 --> 00:38:12.429
+to think that, well, there's a particular one that
+
+707
+00:38:12.429 --> 00:38:15.909
+is really the main cause, um, and so what
+
+708
+00:38:15.909 --> 00:38:19.070
+this suggests is that our mind has a computational
+
+709
+00:38:19.070 --> 00:38:22.949
+procedure that allows us to to compute the sort
+
+710
+00:38:22.949 --> 00:38:25.669
+of the relative causal responsibility of the different things
+
+711
+00:38:25.669 --> 00:38:29.129
+that have that have caused an event. Um, AND
+
+712
+00:38:29.129 --> 00:38:32.219
+this, this is actually an important problem from a
+
+713
+00:38:32.219 --> 00:38:35.570
+computational point of view because, um, given the fact
+
+714
+00:38:35.570 --> 00:38:39.310
+that so many things contribute to a particular cause,
+
+715
+00:38:39.530 --> 00:38:42.090
+if we did not have some way of, you
+
+716
+00:38:42.090 --> 00:38:45.409
+know, ranking the relative causal contribution, we would just
+
+717
+00:38:45.409 --> 00:38:49.229
+be overwhelmed with just the stuff that is happening,
+
+718
+00:38:49.810 --> 00:38:52.010
+um, so it would be very just difficult to
+
+719
+00:38:52.010 --> 00:38:55.250
+act in a practical way. It would be difficult
+
+720
+00:38:55.250 --> 00:38:58.389
+to also give a causal explanation. Right, so if,
+
+721
+00:38:58.709 --> 00:39:01.149
+um, if you, if someone asks me, well, you
+
+722
+00:39:01.149 --> 00:39:04.830
+know, why did you, um, why were you on
+
+723
+00:39:04.830 --> 00:39:07.699
+the, the dissent of podcast, um, and I say,
+
+724
+00:39:07.750 --> 00:39:10.629
+oh, it's because, um, there was no me that
+
+725
+00:39:10.629 --> 00:39:14.239
+crashed into Earth and killed us all, such a
+
+726
+00:39:14.239 --> 00:39:17.110
+weird explanation, right? Um, AND we're actually, uh, we're
+
+727
+00:39:17.110 --> 00:39:19.209
+actually quite good at coming up with like the
+
+728
+00:39:19.750 --> 00:39:23.419
+good causal explanations, um, and it's in large part
+
+729
+00:39:23.419 --> 00:39:24.790
+due to the fact that we are able to
+
+730
+00:39:24.790 --> 00:39:28.439
+focus on. On one of a few particular causes.
+
+731
+00:39:29.120 --> 00:39:32.260
+Um, AND as to As to the question of
+
+732
+00:39:32.260 --> 00:39:35.020
+how people do that, um, then this ties back
+
+733
+00:39:35.020 --> 00:39:38.479
+to this idea of, of counterfactual reasoning, right? So
+
+734
+00:39:39.370 --> 00:39:41.739
+one reason why we might think that this was
+
+735
+00:39:41.739 --> 00:39:44.739
+the player that shot the, the 3 pointer at
+
+736
+00:39:44.739 --> 00:39:47.540
+the last minute that was the cause of the
+
+737
+00:39:47.540 --> 00:39:49.580
+team winning the game is because we think that
+
+738
+00:39:49.580 --> 00:39:52.600
+the counterfactual possibility where he does not do so,
+
+739
+00:39:53.060 --> 00:39:59.120
+um, is quite plausible. So, counterfactual plausibility does play
+
+740
+00:39:59.449 --> 00:40:03.419
+a role, and now the more specific question is
+
+741
+00:40:03.419 --> 00:40:06.689
+what exactly is the computation that is being done.
+
+742
+00:40:06.939 --> 00:40:10.379
+So we know that the counterfactuals are involved and
+
+743
+00:40:10.379 --> 00:40:12.260
+how do we get from this sort of simulation
+
+744
+00:40:12.260 --> 00:40:16.620
+of counterfactual possibilities to actually saying that this particular
+
+745
+00:40:16.620 --> 00:40:19.340
+thing is a cause. Um, AND this is an
+
+746
+00:40:19.340 --> 00:40:22.040
+area where there are still a few debates, but
+
+747
+00:40:22.340 --> 00:40:26.100
+at least my own take, um, is that this
+
+748
+00:40:26.100 --> 00:40:31.479
+process first involves simulating counterfactual possibilities. And then computing
+
+749
+00:40:31.479 --> 00:40:35.780
+something like a correlation between uh the candidate cause
+
+750
+00:40:36.040 --> 00:40:41.080
+and the effect across across counterfactuals um and so
+
+751
+00:40:41.080 --> 00:40:42.879
+we have like a I think we have a
+
+752
+00:40:42.879 --> 00:40:47.280
+neat demonstration of that particular uh theory um in
+
+753
+00:40:47.280 --> 00:40:49.239
+a, in an experiment that we did with my
+
+754
+00:40:49.239 --> 00:40:52.879
+friend Michael Barle. um, SO in 2020 there was
+
+755
+00:40:52.879 --> 00:40:55.600
+an election in, in the United States. Uh, THIS
+
+756
+00:40:55.600 --> 00:40:58.860
+was the one where um Joe Biden won, um,
+
+757
+00:40:58.879 --> 00:41:03.159
+and right after the election. We asked participants um
+
+758
+00:41:03.780 --> 00:41:05.939
+questions like, well, do you think that Biden won
+
+759
+00:41:05.969 --> 00:41:09.969
+the the election because he won in, in California
+
+760
+00:41:10.750 --> 00:41:12.870
+and we did that for actually for every state
+
+761
+00:41:12.870 --> 00:41:17.050
+in which Biden uh won in 2020. And so
+
+762
+00:41:17.229 --> 00:41:18.949
+in answer to the question of whether he won
+
+763
+00:41:18.949 --> 00:41:21.949
+in California, people are like, no, not really. That
+
+764
+00:41:21.949 --> 00:41:25.270
+doesn't seem like a good cause of him winning,
+
+765
+00:41:25.899 --> 00:41:29.110
+right? Most people actually thought that it was when
+
+766
+00:41:29.110 --> 00:41:32.870
+winning in states like Pennsylvania and Wisconsin and Georgia
+
+767
+00:41:32.870 --> 00:41:35.750
+that were really strong causes of Biden winning. Um,
+
+768
+00:41:35.770 --> 00:41:38.439
+AND one reason this is interesting is that, um,
+
+769
+00:41:38.449 --> 00:41:41.429
+the state of California actually has the most um
+
+770
+00:41:41.429 --> 00:41:45.209
+electoral votes in the, in the US system. And
+
+771
+00:41:45.209 --> 00:41:47.889
+so from a sort of purely objective and technical
+
+772
+00:41:47.889 --> 00:41:50.850
+way, uh, you should think that maybe California is
+
+773
+00:41:50.850 --> 00:41:54.419
+the most important. But actually if you uh if
+
+774
+00:41:54.419 --> 00:41:59.379
+you compute the, the correlation across across all the
+
+775
+00:41:59.379 --> 00:42:02.020
+different ways that the election could have gone, you
+
+776
+00:42:02.020 --> 00:42:05.040
+find that the correlation between Biden winning in California
+
+777
+00:42:05.419 --> 00:42:07.399
+and him winning the election is actually quite low.
+
+778
+00:42:07.780 --> 00:42:10.489
+Um, BECAUSE in most sort of situations that you
+
+779
+00:42:10.489 --> 00:42:14.209
+can think of, um, it's actually quite unlikely that
+
+780
+00:42:14.209 --> 00:42:17.469
+Biden will lose in California. So California is a
+
+781
+00:42:17.469 --> 00:42:20.409
+very strong Democratic stronghold, and so people don't really
+
+782
+00:42:20.409 --> 00:42:23.070
+think about that that's, that's a possibility, um, whereas
+
+783
+00:42:23.070 --> 00:42:26.469
+if you think of a state like Pennsylvania, um,
+
+784
+00:42:26.530 --> 00:42:28.810
+then Pennsylvania is kind of in the sweet spot
+
+785
+00:42:28.810 --> 00:42:32.229
+because it's what they call a battleground state. It's
+
+786
+00:42:32.229 --> 00:42:34.070
+kind of fifty-fifty. It can go either way. And
+
+787
+00:42:34.070 --> 00:42:36.469
+so you have a lot of counterfactual possibilities why
+
+788
+00:42:36.469 --> 00:42:40.060
+Biden would have lost in in Pennsylvania and Pennsylvania
+
+789
+00:42:40.060 --> 00:42:43.350
+also still has a lot of electoral votes, not
+
+790
+00:42:43.350 --> 00:42:45.159
+as much as California, but still quite a lot.
+
+791
+00:42:45.350 --> 00:42:48.550
+And so if you, if you compute the correlation
+
+792
+00:42:48.550 --> 00:42:51.709
+between winning in Pennsylvania and winning the election, then
+
+793
+00:42:51.709 --> 00:42:54.939
+that's quite a strong correlation. Um, AND by the
+
+794
+00:42:54.939 --> 00:42:56.850
+way, and we were able to do that by
+
+795
+00:42:57.030 --> 00:43:00.149
+using the sort of statistical, um, models that people
+
+796
+00:43:00.149 --> 00:43:02.070
+use to forecast the outcome of an election.
+
+797
+00:43:02.699 --> 00:43:06.500
+Mhm. So, changing topics now, I would like to
+
+798
+00:43:06.500 --> 00:43:09.020
+ask you a little bit about the work you've
+
+799
+00:43:09.020 --> 00:43:13.020
+done on commitment. So, uh, my first question is
+
+800
+00:43:13.020 --> 00:43:19.120
+from an evolutionary perspective, uh, how is altruism related
+
+801
+00:43:19.120 --> 00:43:20.580
+to commitment?
+
+802
+00:43:21.830 --> 00:43:24.469
+Yeah, uh, we can talk a little bit like
+
+803
+00:43:24.469 --> 00:43:28.010
+about the, the question of altruism, uh, first, um,
+
+804
+00:43:28.129 --> 00:43:30.709
+yes, yes, and probably you already have a lot
+
+805
+00:43:30.709 --> 00:43:32.510
+of guests to talk about this, but like just
+
+806
+00:43:32.510 --> 00:43:35.989
+as a refresher, um, altruism is a very puzzling
+
+807
+00:43:35.989 --> 00:43:39.669
+thing from an evolutionary perspective. Um, SO, uh, natural
+
+808
+00:43:39.669 --> 00:43:44.250
+selection is about the differential reproduction, replication of genes,
+
+809
+00:43:44.850 --> 00:43:47.350
+um, and so as a first pass, um, as
+
+810
+00:43:47.350 --> 00:43:50.899
+a first order of approximation, you would expect individuals
+
+811
+00:43:50.899 --> 00:43:53.810
+to be, to be selfish or to at least,
+
+812
+00:43:54.070 --> 00:43:59.030
+um, preferentially help either themselves or their, their close
+
+813
+00:43:59.030 --> 00:44:03.050
+relatives. Because of the things like genetic overlaps of
+
+814
+00:44:03.050 --> 00:44:06.590
+interest, um, and so you don't really expect again
+
+815
+00:44:06.929 --> 00:44:09.689
+as a first pass, you don't really expect individuals
+
+816
+00:44:09.689 --> 00:44:13.090
+to help people that are like individuals that are
+
+817
+00:44:13.090 --> 00:44:16.889
+completely unrelated to themselves. And yet we do observe
+
+818
+00:44:16.889 --> 00:44:19.209
+a lot of altruism, uh, at least in, in
+
+819
+00:44:19.209 --> 00:44:22.489
+some species like, like humans, um, and so there
+
+820
+00:44:22.489 --> 00:44:24.409
+are, there have been many theories that have been
+
+821
+00:44:24.409 --> 00:44:28.669
+developed in order to to explain. Um, LIKE why
+
+822
+00:44:28.669 --> 00:44:32.419
+altruism actually, uh, evolved, and one theory is that,
+
+823
+00:44:32.669 --> 00:44:35.320
+um, I help you because I, I know that
+
+824
+00:44:35.320 --> 00:44:37.600
+by helping you, you will help me in return,
+
+825
+00:44:37.879 --> 00:44:40.330
+right? So this is the theory of reciprocity, um,
+
+826
+00:44:40.600 --> 00:44:46.340
+but reciprocity does not necessarily always um. Help explain
+
+827
+00:44:46.340 --> 00:44:49.699
+all sorts of behaviors. Um, ONE example is that
+
+828
+00:44:49.699 --> 00:44:53.060
+I might sort of um give someone, I might
+
+829
+00:44:53.060 --> 00:44:55.060
+buy flowers to someone as a sort of as
+
+830
+00:44:55.060 --> 00:44:59.139
+a token of dedication, um, and maybe I know
+
+831
+00:44:59.139 --> 00:45:01.419
+that this person doesn't even really like flowers like
+
+832
+00:45:01.419 --> 00:45:04.439
+the practical utility of them having flowers is super
+
+833
+00:45:04.439 --> 00:45:07.699
+low. Um, AND yet probably that person will be
+
+834
+00:45:07.699 --> 00:45:10.040
+touched by the fact that I gave that person
+
+835
+00:45:10.860 --> 00:45:13.300
+that I, I helped them in, in a particular
+
+836
+00:45:13.300 --> 00:45:17.459
+way despite the lack of practical utility, um, and
+
+837
+00:45:17.459 --> 00:45:20.620
+that's kind of instances of helping acts that do
+
+838
+00:45:20.620 --> 00:45:23.209
+not have a lot of utility can be, um,
+
+839
+00:45:23.219 --> 00:45:27.100
+understood in terms of, um, the theories of costly
+
+840
+00:45:27.100 --> 00:45:29.479
+signaling. And then it's the idea is that this
+
+841
+00:45:29.479 --> 00:45:32.260
+is really the cost that I incurred in sort
+
+842
+00:45:32.260 --> 00:45:34.419
+of going to the store and parting with some
+
+843
+00:45:34.419 --> 00:45:36.949
+of my money and some of my time, um,
+
+844
+00:45:36.989 --> 00:45:40.500
+that sends a signal to you that actually, uh,
+
+845
+00:45:40.510 --> 00:45:43.270
+that I actually do care about you. Um, AND
+
+846
+00:45:43.270 --> 00:45:45.649
+this is where commitment comes in. So, so in
+
+847
+00:45:45.649 --> 00:45:48.580
+many different relationships, so if you think about friendships,
+
+848
+00:45:48.629 --> 00:45:51.149
+if you think about romantic relationships, if you think
+
+849
+00:45:51.149 --> 00:45:54.919
+about a lot of business partnerships, um, you have,
+
+850
+00:45:55.429 --> 00:45:58.090
+uh, an adaptive problem which is the fact that,
+
+851
+00:45:58.389 --> 00:46:00.830
+um, the person that you want to be friends
+
+852
+00:46:00.830 --> 00:46:06.260
+with, um, also has many other possible. People that
+
+853
+00:46:06.260 --> 00:46:09.219
+they could also be friends with, OK, like, and
+
+854
+00:46:09.219 --> 00:46:12.620
+so you have this, this problem that the your
+
+855
+00:46:12.620 --> 00:46:15.399
+potential partners have outside options. They could just decide
+
+856
+00:46:15.399 --> 00:46:17.489
+to stop interacting with you and, and interact with
+
+857
+00:46:17.489 --> 00:46:22.270
+someone else. Um, AND you want to convince the,
+
+858
+00:46:22.409 --> 00:46:25.840
+the people that, um, you're actually going to stick
+
+859
+00:46:25.840 --> 00:46:28.159
+with them, OK, because if you decide to forego
+
+860
+00:46:28.159 --> 00:46:31.810
+your outside options, then, uh, your friend no longer
+
+861
+00:46:31.810 --> 00:46:34.810
+has to worry about you not sticking, and so
+
+862
+00:46:34.810 --> 00:46:37.850
+therefore they have an incentive to sticking, um, which
+
+863
+00:46:37.850 --> 00:46:40.689
+means that in turn, um, you know that they
+
+864
+00:46:40.689 --> 00:46:42.489
+are a more valuable partner, etc. So you have
+
+865
+00:46:42.489 --> 00:46:44.949
+this sort of recursive dynamic where it's actually nice
+
+866
+00:46:44.949 --> 00:46:49.030
+to express your commitment to someone. Um, AND in
+
+867
+00:46:49.030 --> 00:46:52.429
+that context, being nice to someone, even if your
+
+868
+00:46:52.429 --> 00:46:55.189
+act has no practical utility for them, um, is
+
+869
+00:46:55.189 --> 00:46:59.270
+good because it actually is a reliable signal that
+
+870
+00:46:59.280 --> 00:47:01.729
+you intend to stick with them. And the logic
+
+871
+00:47:01.729 --> 00:47:04.139
+for that is relatively simple. Uh, SO suppose you
+
+872
+00:47:04.139 --> 00:47:05.929
+actually don't want to stick with them. You like,
+
+873
+00:47:06.050 --> 00:47:09.770
+you really intend to, uh, to go, um, to
+
+874
+00:47:09.770 --> 00:47:12.330
+jump out of the relationship and interact with someone
+
+875
+00:47:12.330 --> 00:47:15.610
+else, then there would be no utility at all
+
+876
+00:47:15.610 --> 00:47:18.489
+for you to actually, um, to actually engage in,
+
+877
+00:47:18.500 --> 00:47:22.439
+uh, to take a costly action. Like it's just
+
+878
+00:47:22.439 --> 00:47:25.489
+completely worthless. Whereas if you actually do intend to
+
+879
+00:47:25.489 --> 00:47:28.649
+keep interacting with that person. Um, IT is in
+
+880
+00:47:28.649 --> 00:47:31.629
+your interest to send a costly signal of commitment
+
+881
+00:47:32.010 --> 00:47:34.290
+and therefore the person who is actually receiving your
+
+882
+00:47:34.290 --> 00:47:38.929
+costly signal, um, can, uh, trust that the signal
+
+883
+00:47:38.929 --> 00:47:41.790
+is genuine, that you're not just faking it, um.
+
+884
+00:47:42.379 --> 00:47:46.639
+And so I have developed this evolutionary model where
+
+885
+00:47:47.020 --> 00:47:50.780
+I conduct evolutionary agents-based stimulations, and I show that
+
+886
+00:47:50.780 --> 00:47:53.659
+indeed you can get if you have this selection
+
+887
+00:47:53.659 --> 00:47:57.300
+pressure where people can jump ship and go to
+
+888
+00:47:57.300 --> 00:48:00.060
+another relationship, then you can have this selection pressure
+
+889
+00:48:00.060 --> 00:48:04.530
+for agents to send costly signals of commitment to
+
+890
+00:48:04.530 --> 00:48:04.939
+each other.
+
+891
+00:48:06.379 --> 00:48:12.340
+So, but there's conditional commitment and unconditional commitment, right?
+
+892
+00:48:12.459 --> 00:48:16.300
+So tell us about each of them, what distinguishes
+
+893
+00:48:16.300 --> 00:48:20.340
+one from the other and how they have evolved.
+
+894
+00:48:21.469 --> 00:48:24.070
+This, this is actually um a surprising fact that's
+
+895
+00:48:24.070 --> 00:48:26.830
+kind of came out of the simulations. Um, WHEN
+
+896
+00:48:26.830 --> 00:48:28.709
+I first engaged in this project, I didn't really
+
+897
+00:48:28.709 --> 00:48:31.979
+have this distinction between conditional and unconditional in mind
+
+898
+00:48:31.979 --> 00:48:35.270
+for, for me it was just one signal of
+
+899
+00:48:35.270 --> 00:48:38.570
+commitment. But then when I, I ran the simulations,
+
+900
+00:48:38.870 --> 00:48:42.320
+what I did. What, what I found was that
+
+901
+00:48:42.320 --> 00:48:45.139
+depending on, on the particular sets of parameters that,
+
+902
+00:48:45.159 --> 00:48:47.239
+that, that you, that you have, then in some
+
+903
+00:48:47.239 --> 00:48:51.030
+simulations, um, things went a particular way and in
+
+904
+00:48:51.030 --> 00:48:55.479
+some simulations things went a different way. Um, AND
+
+905
+00:48:55.479 --> 00:48:58.000
+when I sort of dug deeper to see what
+
+906
+00:48:58.000 --> 00:49:00.760
+was going on, uh, I found that you have
+
+907
+00:49:00.760 --> 00:49:03.840
+these two different strategies that can evolve. You have
+
+908
+00:49:03.840 --> 00:49:06.479
+the, the conditional commitment strategy and you have the
+
+909
+00:49:06.479 --> 00:49:12.459
+unconditional commitment strategy. So. Uh, SO, starting with the
+
+910
+00:49:12.469 --> 00:49:15.270
+conditional commitment strategy, the conditional commitment strategy, it means
+
+911
+00:49:15.270 --> 00:49:19.350
+that, um, I send you, um, a signal, so
+
+912
+00:49:19.350 --> 00:49:21.989
+maybe I, I, I gift you some, some, some
+
+913
+00:49:21.989 --> 00:49:26.360
+flowers. Um, AND then my, my strategy, my, uh,
+
+914
+00:49:26.510 --> 00:49:29.030
+decision rule is I am going to stick, I'm
+
+915
+00:49:29.030 --> 00:49:31.750
+going to stay in the relationship if you also
+
+916
+00:49:31.750 --> 00:49:35.100
+send me a signal. OK, so if I send
+
+917
+00:49:35.100 --> 00:49:37.100
+you a signal but you don't reciprocate, then I'm
+
+918
+00:49:37.100 --> 00:49:41.060
+like, OK, I'm, I'm out, um, but in some
+
+919
+00:49:41.060 --> 00:49:46.560
+other simulations, the unconditional commitment strategies, uh, strategy evolved,
+
+920
+00:49:46.659 --> 00:49:49.979
+and the unconditional strategy is basically I send you
+
+921
+00:49:49.979 --> 00:49:52.699
+a signal and then I will stick in the
+
+922
+00:49:52.699 --> 00:49:57.179
+relationship no matter what. So the unconditional commitment strategy
+
+923
+00:49:57.179 --> 00:50:01.100
+is a much more trusting strategy, um, uh, and
+
+924
+00:50:01.100 --> 00:50:05.479
+so the. The, the interesting thing about that is
+
+925
+00:50:05.479 --> 00:50:07.679
+that the, you know, the very meaning of the
+
+926
+00:50:07.679 --> 00:50:11.100
+signal, uh, was different depending on the evolutionary dynamics.
+
+927
+00:50:11.770 --> 00:50:13.620
+But if you, if we are in the world,
+
+928
+00:50:13.870 --> 00:50:17.120
+um, in the world governed by the conditional commitment
+
+929
+00:50:17.120 --> 00:50:20.840
+strategy, then upon receiving a gift you can infer
+
+930
+00:50:20.840 --> 00:50:23.979
+that, well, I'm going to stick in the relationship,
+
+931
+00:50:24.280 --> 00:50:26.360
+um, if you also send me a gift.
+
+932
+00:50:27.080 --> 00:50:30.760
+Mhm. Yeah. No, that, that's, that's very interesting and
+
+933
+00:50:30.760 --> 00:50:33.840
+it's also interesting that you found out that, uh,
+
+934
+00:50:33.959 --> 00:50:38.540
+distinction between conditional and unconditional commitment. So, uh, uh,
+
+935
+00:50:38.800 --> 00:50:41.959
+changing topics, well, I would like to ask you
+
+936
+00:50:41.959 --> 00:50:44.879
+now about another topic that you have explored in
+
+937
+00:50:44.879 --> 00:50:49.300
+your work. Uh, WHAT is effective mind reading?
+
+938
+00:50:51.110 --> 00:50:55.600
+Um, YEAH, so mind reading is this, um, capacity
+
+939
+00:50:55.600 --> 00:50:59.139
+that we have to predict the behavior of others,
+
+940
+00:50:59.439 --> 00:51:03.479
+um, by attributing mental states to them. So it's
+
+941
+00:51:03.479 --> 00:51:06.320
+the, this idea that I know that you have
+
+942
+00:51:06.320 --> 00:51:09.080
+beliefs and desires, and I can use that. I
+
+943
+00:51:09.080 --> 00:51:11.719
+can infer your beliefs and your desires in order
+
+944
+00:51:11.719 --> 00:51:15.169
+to predict your behavior. Um, WE, we, we actually
+
+945
+00:51:15.169 --> 00:51:17.030
+talked a little bit, uh, about mind reading at
+
+946
+00:51:17.030 --> 00:51:19.409
+the beginning of this interview, right, when we talked
+
+947
+00:51:19.409 --> 00:51:22.209
+about intentionality. Like when you attribute intentionality to an
+
+948
+00:51:22.209 --> 00:51:25.919
+act, you're already engaging in mind reading, right? Um,
+
+949
+00:51:26.129 --> 00:51:28.810
+AND so mind reading is super useful because if
+
+950
+00:51:28.810 --> 00:51:31.370
+we did not have it, uh, we would be
+
+951
+00:51:31.370 --> 00:51:33.449
+at a loss in trying to predict the behavior
+
+952
+00:51:33.449 --> 00:51:36.379
+of each other. If all I was doing, uh,
+
+953
+00:51:36.489 --> 00:51:38.399
+in trying to predict you was to use my
+
+954
+00:51:38.399 --> 00:51:41.739
+intuitive physical understanding of the world. Maybe I could
+
+955
+00:51:41.739 --> 00:51:45.500
+predict that uh you're going to exhibit some sort
+
+956
+00:51:45.500 --> 00:51:48.780
+of spatial temporal continuity, like you're not going to
+
+957
+00:51:48.780 --> 00:51:51.300
+randomly teleport somewhere else. Um, YOU'RE not going to
+
+958
+00:51:51.300 --> 00:51:54.620
+randomly disappear. But that's probably the extent that I
+
+959
+00:51:54.620 --> 00:51:57.040
+would be able to predict your behavior. Otherwise it
+
+960
+00:51:57.040 --> 00:52:00.169
+would be completely useless, um, and so, but on
+
+961
+00:52:00.169 --> 00:52:04.370
+the contrary, by predicting that, by, by inferring what
+
+962
+00:52:04.370 --> 00:52:06.209
+you believe and what you want, then I can
+
+963
+00:52:06.209 --> 00:52:08.699
+predict what you're going to do. OK, so maybe,
+
+964
+00:52:08.889 --> 00:52:11.320
+um, I can, I know that, you know, you
+
+965
+00:52:11.320 --> 00:52:14.770
+want to be a considerate host and that you
+
+966
+00:52:14.770 --> 00:52:18.370
+believe that if you suddenly exit the interview for
+
+967
+00:52:18.370 --> 00:52:21.639
+no reason, then this will not be consistent with
+
+968
+00:52:21.639 --> 00:52:23.290
+you there, so I can predict that you're going
+
+969
+00:52:23.290 --> 00:52:25.370
+to stay, um, so that's an, uh, that's an
+
+970
+00:52:25.370 --> 00:52:29.310
+example. Um, SO mind reading has been explored quite
+
+971
+00:52:29.310 --> 00:52:34.110
+a lot in the literature, um, especially in, across
+
+972
+00:52:34.110 --> 00:52:36.429
+the lifespan. It has been explored in other species.
+
+973
+00:52:36.939 --> 00:52:40.429
+Um, AND a leading theory about how mind reading
+
+974
+00:52:40.429 --> 00:52:43.050
+works is that we, you know, we have our
+
+975
+00:52:43.050 --> 00:52:45.830
+own, our own internal model of the world. So
+
+976
+00:52:45.830 --> 00:52:47.989
+I have sort of my own model of the
+
+977
+00:52:47.989 --> 00:52:50.270
+physical world, and then you have your own model
+
+978
+00:52:50.270 --> 00:52:52.659
+of the world, um, and in order to predict
+
+979
+00:52:52.659 --> 00:52:54.389
+what you will do, I need to have a
+
+980
+00:52:54.389 --> 00:52:57.510
+model of your own internal model, right? So you
+
+981
+00:52:57.510 --> 00:53:00.629
+have a representation of your own representation. Um, SO
+
+982
+00:53:00.629 --> 00:53:05.070
+this is what people sometimes call a meta-representation. And
+
+983
+00:53:05.070 --> 00:53:07.129
+this is, this is an intuitive idea because this
+
+984
+00:53:07.129 --> 00:53:09.530
+is a scheme that is quite flexible. If I
+
+985
+00:53:09.530 --> 00:53:12.729
+have a meta-representation, then even if you represent the
+
+986
+00:53:12.729 --> 00:53:14.909
+world in a different way than, than I do,
+
+987
+00:53:15.449 --> 00:53:17.889
+if I can guess that, yeah, you have this
+
+988
+00:53:17.889 --> 00:53:20.969
+representation that is slightly different than mine, um, then
+
+989
+00:53:21.129 --> 00:53:23.110
+I am going to be able to predict what
+
+990
+00:53:23.110 --> 00:53:25.090
+I'm still going to be able to predict what
+
+991
+00:53:25.090 --> 00:53:28.689
+you will do. Um, AND what we, we did
+
+992
+00:53:28.689 --> 00:53:31.449
+in that project. Uh, AND this is again a
+
+993
+00:53:31.449 --> 00:53:35.110
+project with um Max Taylor Davis. Um, WE thought,
+
+994
+00:53:35.409 --> 00:53:38.209
+well, wait a second, um, if you sort of
+
+995
+00:53:38.209 --> 00:53:40.449
+really take this idea to its logical extreme, then
+
+996
+00:53:40.449 --> 00:53:43.270
+this is never going to work, right, because if
+
+997
+00:53:43.370 --> 00:53:46.090
+I have a model of your model and you
+
+998
+00:53:46.090 --> 00:53:48.250
+have a model of my own model, then you
+
+999
+00:53:48.250 --> 00:53:50.080
+know you need to, you get into this sort
+
+1000
+00:53:50.080 --> 00:53:50.760
+of infinite,
+
+1001
+00:53:51.570 --> 00:53:53.389
+yeah, yeah, you need to get a model of
+
+1002
+00:53:53.389 --> 00:53:55.830
+the model that I have of your model, and
+
+1003
+00:53:56.639 --> 00:53:59.360
+it's like it's never going to work. Um, AND,
+
+1004
+00:53:59.409 --> 00:54:02.090
+and, and even absent that, that consideration, even if
+
+1005
+00:54:02.090 --> 00:54:04.709
+we don't go into that sort of recursive reasoning,
+
+1006
+00:54:04.929 --> 00:54:08.489
+um, your model of the world is going to
+
+1007
+00:54:08.489 --> 00:54:12.699
+be super rich and complicated, OK, because just, just
+
+1008
+00:54:12.810 --> 00:54:14.649
+my internal model of the world is going to
+
+1009
+00:54:14.649 --> 00:54:17.600
+be super rich and complicated, um, and so if
+
+1010
+00:54:17.600 --> 00:54:20.850
+you sort of have two agents of equal complexity
+
+1011
+00:54:20.850 --> 00:54:24.090
+trying to predict it, predict each other, um, this
+
+1012
+00:54:24.090 --> 00:54:27.530
+is going to require a lot of computational resources.
+
+1013
+00:54:28.060 --> 00:54:30.669
+Uh, AND so it has to be that people
+
+1014
+00:54:30.669 --> 00:54:35.510
+do not always engage in this meta-representational type of
+
+1015
+00:54:35.510 --> 00:54:38.270
+mind reading. Now we have to use, we have
+
+1016
+00:54:38.270 --> 00:54:41.469
+to use shortcuts, uh, at some point. Um, AND
+
+1017
+00:54:41.469 --> 00:54:45.310
+so we thought, um, one very useful, uh, thing
+
+1018
+00:54:45.310 --> 00:54:47.389
+that you can exploit in order to have shortcuts
+
+1019
+00:54:47.389 --> 00:54:50.969
+in mind reading is the fact that we actually
+
+1020
+00:54:51.350 --> 00:54:55.850
+live in a very similar physical world, right? Um,
+
+1021
+00:54:55.969 --> 00:54:57.500
+SO we know, we, we are in the same,
+
+1022
+00:54:57.739 --> 00:54:59.969
+uh, we are in the same zoom room, so
+
+1023
+00:54:59.969 --> 00:55:02.409
+we sort of mostly see the same things. And
+
+1024
+00:55:02.409 --> 00:55:05.209
+so, you know, uh, the fact that I know
+
+1025
+00:55:05.209 --> 00:55:08.290
+that there's a helmet on my head, um, you
+
+1026
+00:55:08.290 --> 00:55:10.090
+also know that there's a helmet on my head.
+
+1027
+00:55:10.370 --> 00:55:12.010
+And so this is a thing that I can
+
+1028
+00:55:12.010 --> 00:55:16.919
+safely assume is in my own world model, but
+
+1029
+00:55:16.919 --> 00:55:20.530
+is also in your model of the world. And
+
+1030
+00:55:20.530 --> 00:55:23.699
+there's kind of one way that I could, uh,
+
+1031
+00:55:24.010 --> 00:55:26.810
+predict your behavior. Um, IS that I would say,
+
+1032
+00:55:26.889 --> 00:55:30.429
+oh, like in, in Ricardo's model of the world,
+
+1033
+00:55:30.729 --> 00:55:33.810
+there is also a representation of the helmet, but
+
+1034
+00:55:33.810 --> 00:55:35.929
+that would be a little bit wasteful, right, because
+
+1035
+00:55:35.929 --> 00:55:37.780
+it would mean that I, I need to encode
+
+1036
+00:55:37.780 --> 00:55:40.000
+the information that there's a helmet on, on my
+
+1037
+00:55:40.000 --> 00:55:43.389
+head, um, in my own model of the world,
+
+1038
+00:55:43.479 --> 00:55:46.050
+and then I have to do that again in
+
+1039
+00:55:46.050 --> 00:55:48.489
+my model of your model of the world. Um,
+
+1040
+00:55:48.689 --> 00:55:50.489
+AND if I do that for everything, then you
+
+1041
+00:55:50.489 --> 00:55:55.030
+have this insane, uh, duplication of things. Um, SO
+
+1042
+00:55:55.030 --> 00:55:57.590
+a simpler strategy is just to say, OK, I'm
+
+1043
+00:55:57.590 --> 00:55:59.870
+going to store that fact in my own model
+
+1044
+00:55:59.870 --> 00:56:01.790
+of the world, and then I'm going to add
+
+1045
+00:56:01.790 --> 00:56:04.810
+a sort of like um a binary tag to
+
+1046
+00:56:04.810 --> 00:56:07.729
+that model, and it's going to be, well, Ricardo
+
+1047
+00:56:07.909 --> 00:56:10.860
+also knows that fact. And then this is much
+
+1048
+00:56:10.860 --> 00:56:13.780
+less costly because you just have one binary information
+
+1049
+00:56:13.780 --> 00:56:15.969
+that you need to keep in mind, um, and
+
+1050
+00:56:15.969 --> 00:56:18.219
+so we were wondering, well, maybe people, maybe that
+
+1051
+00:56:18.219 --> 00:56:21.290
+is actually the, the good way of solving this
+
+1052
+00:56:21.290 --> 00:56:25.219
+problem of having, um, a mind reading system that
+
+1053
+00:56:25.219 --> 00:56:29.530
+is tractable. And in order to investigate this, we
+
+1054
+00:56:29.530 --> 00:56:33.510
+ran this simulation. This is a simulation that is
+
+1055
+00:56:33.610 --> 00:56:36.250
+the general setup was quite similar to the study
+
+1056
+00:56:36.250 --> 00:56:40.149
+that we ran on stereotypes. So again, we have
+
+1057
+00:56:40.370 --> 00:56:43.250
+agents. We have an agent whose role is to
+
+1058
+00:56:43.250 --> 00:56:47.040
+predict the behavior of another agent. Um, AND this
+
+1059
+00:56:47.040 --> 00:56:50.689
+agent has some cognitive limitations like it cannot just
+
+1060
+00:56:50.689 --> 00:56:53.790
+have infinite compute, um, and we are able to,
+
+1061
+00:56:54.090 --> 00:56:57.889
+um, to derive what is the optimal strategy that
+
+1062
+00:56:57.889 --> 00:57:00.260
+has a lot of predictive power, but also, uh,
+
+1063
+00:57:00.290 --> 00:57:02.870
+it's cognitively simple enough that you're not going to
+
+1064
+00:57:02.870 --> 00:57:04.689
+blow up your brain when you're trying to execute
+
+1065
+00:57:04.689 --> 00:57:09.270
+that strategy, um. And when, um, when we give
+
+1066
+00:57:09.270 --> 00:57:13.620
+our agent a lot of computational power, then it
+
+1067
+00:57:13.669 --> 00:57:17.229
+engages in sort of a meta-representation. It's able to
+
+1068
+00:57:17.229 --> 00:57:20.020
+have, um, its own model of the world and
+
+1069
+00:57:20.020 --> 00:57:22.290
+then uh a model of the other person's model,
+
+1070
+00:57:22.550 --> 00:57:25.209
+um, but things get more interesting when we actually,
+
+1071
+00:57:25.550 --> 00:57:28.949
+um, give very little computational power to your agent.
+
+1072
+00:57:29.600 --> 00:57:33.260
+Um, AND, and crucially in that setup, we also,
+
+1073
+00:57:33.489 --> 00:57:35.719
+our agent has their own internal model of the
+
+1074
+00:57:35.719 --> 00:57:37.889
+world, right, and they are able to use that
+
+1075
+00:57:37.889 --> 00:57:41.370
+representation, as in order to help them predict the
+
+1076
+00:57:41.370 --> 00:57:44.489
+behavior of other people. Um, WHEN we do that,
+
+1077
+00:57:44.610 --> 00:57:48.129
+then we find that, um, agents just do not
+
+1078
+00:57:48.129 --> 00:57:51.860
+use meta-representation. Instead, they use the sort of optimal
+
+1079
+00:57:51.860 --> 00:57:54.699
+strategy for them is to actually rely on their
+
+1080
+00:57:55.459 --> 00:57:58.379
+own internal model of the physical world and to
+
+1081
+00:57:58.379 --> 00:58:01.919
+just keep track of whether the other person knows
+
+1082
+00:58:02.100 --> 00:58:07.290
+or does not know that fact. Um, AND they're
+
+1083
+00:58:07.290 --> 00:58:09.850
+kind of, they're not doing perfectly when they use
+
+1084
+00:58:09.850 --> 00:58:12.919
+that strategy, but they're still doing quite well, um,
+
+1085
+00:58:13.330 --> 00:58:16.530
+and you know, under an assumption where, uh, people
+
+1086
+00:58:16.530 --> 00:58:19.600
+rarely have beliefs that diverge from the actual state
+
+1087
+00:58:19.600 --> 00:58:22.570
+of the world, this is a strategy that actually
+
+1088
+00:58:22.570 --> 00:58:25.550
+allows you to predict other people's behavior, quite well
+
+1089
+00:58:25.889 --> 00:58:28.770
+on average, right, while not just leading to you
+
+1090
+00:58:28.770 --> 00:58:32.100
+blowing up your brain. Uh, AND there was something
+
+1091
+00:58:32.100 --> 00:58:34.080
+that that was quite cool that emerged from that,
+
+1092
+00:58:34.129 --> 00:58:39.189
+uh, research is that, um, you have those, um,
+
+1093
+00:58:39.729 --> 00:58:43.050
+those experiments that psychologists love to run on, on
+
+1094
+00:58:43.050 --> 00:58:45.989
+children where it's called the, the false belief task.
+
+1095
+00:58:46.449 --> 00:58:49.449
+In the false belief task, um, I basically, I
+
+1096
+00:58:49.449 --> 00:58:52.989
+will put, um. Um, I will put like something
+
+1097
+00:58:52.989 --> 00:58:56.110
+like an apple in a box, OK, and under
+
+1098
+00:58:56.110 --> 00:58:57.709
+your eyes, so you see that I put the
+
+1099
+00:58:57.709 --> 00:58:59.989
+apple in the box and, and then you go
+
+1100
+00:58:59.989 --> 00:59:03.129
+away and while you're away, I put the apple
+
+1101
+00:59:03.929 --> 00:59:05.110
+away from the box and I put it in
+
+1102
+00:59:05.110 --> 00:59:08.989
+a different box, and then you go back and
+
+1103
+00:59:08.989 --> 00:59:12.439
+the child has to predict your behavior. Um, AND,
+
+1104
+00:59:12.530 --> 00:59:15.169
+and when, uh, children are below the age of
+
+1105
+00:59:15.169 --> 00:59:18.090
+4, typically they will make this interesting mistake where
+
+1106
+00:59:18.090 --> 00:59:21.689
+they're not going to predict that, um, that the,
+
+1107
+00:59:21.969 --> 00:59:24.330
+that you think that the ball, that the apple
+
+1108
+00:59:24.330 --> 00:59:28.919
+is in the original box. They just cannot, um,
+
+1109
+00:59:29.550 --> 00:59:32.449
+because they don't really have the, they don't seem
+
+1110
+00:59:32.449 --> 00:59:37.070
+to have this ability to, to know that, um,
+
+1111
+00:59:37.370 --> 00:59:39.810
+your understanding of the world is, is not the
+
+1112
+00:59:39.810 --> 00:59:43.770
+same as actual. Reality, um, and, and the, the
+
+1113
+00:59:43.770 --> 00:59:46.949
+agents in our, our simulations, the agents that played
+
+1114
+00:59:47.250 --> 00:59:49.810
+this, uh, simple strategy of just keeping track of
+
+1115
+00:59:49.810 --> 00:59:52.729
+knowledge and ignorance, and then in that simulation, in
+
+1116
+00:59:52.729 --> 00:59:56.850
+that particular false belief task, um, they just default
+
+1117
+00:59:56.850 --> 01:00:00.560
+to, to attribute ignorance to you. So they basically
+
+1118
+01:00:00.560 --> 01:00:03.179
+like, oh like he did not witness this transfer
+
+1119
+01:00:03.179 --> 01:00:04.939
+of the apple from one box to the other
+
+1120
+01:00:05.100 --> 01:00:07.020
+and so he doesn't. And so if you don't,
+
+1121
+01:00:07.139 --> 01:00:08.659
+if you do that, you're not going to be
+
+1122
+01:00:08.659 --> 01:00:12.300
+able to actually successfully make the prediction that you're
+
+1123
+01:00:12.300 --> 01:00:14.179
+going to look for the apple in the box
+
+1124
+01:00:14.179 --> 01:00:17.379
+where you last saw it, um, and so we
+
+1125
+01:00:17.379 --> 01:00:21.169
+think that this provides a way to explain why,
+
+1126
+01:00:21.179 --> 01:00:25.979
+um, why actually young children do not successfully pass
+
+1127
+01:00:25.979 --> 01:00:29.219
+this task. Uh, AND this also allows us to
+
+1128
+01:00:29.219 --> 01:00:32.929
+explain similar results that have been observed in non-human
+
+1129
+01:00:32.929 --> 01:00:38.260
+primates. So because this task has been performed in
+
+1130
+01:00:38.260 --> 01:00:40.580
+like in monkeys and in, in chimpanzees, and they
+
+1131
+01:00:40.580 --> 01:00:43.500
+also mostly, mostly fail. So the explanation is that
+
+1132
+01:00:43.500 --> 01:00:47.139
+they probably just don't have enough cognitive capacity to
+
+1133
+01:00:47.139 --> 01:00:51.169
+use the super complicated meta-representational strategy, and so they
+
+1134
+01:00:51.169 --> 01:00:54.219
+use this simple strategy, um, and this is the
+
+1135
+01:00:54.219 --> 01:00:58.350
+strategy that is called the defective strategy. Um, AND
+
+1136
+01:00:58.350 --> 01:01:01.229
+then, and one more cool thing that um came
+
+1137
+01:01:01.229 --> 01:01:03.709
+out of this study, um, is that you can
+
+1138
+01:01:03.709 --> 01:01:06.830
+think about, um, what I have said at the
+
+1139
+01:01:06.830 --> 01:01:09.510
+beginning that even if you are a, a human
+
+1140
+01:01:09.510 --> 01:01:13.540
+adult that you have, um. You have a lot
+
+1141
+01:01:13.540 --> 01:01:16.729
+of cognitive capacity that you can dedicate to mind
+
+1142
+01:01:16.729 --> 01:01:21.429
+reading. It is still. Meta-representation is still a super
+
+1143
+01:01:21.429 --> 01:01:24.030
+expensive scheme if you take it to the limit.
+
+1144
+01:01:24.469 --> 01:01:26.810
+So it would seem quite wasteful to think that
+
+1145
+01:01:26.989 --> 01:01:30.189
+we always um engage in a meta in a
+
+1146
+01:01:30.189 --> 01:01:33.639
+meta-representation whenever we have to predict someone's behavior. Um,
+
+1147
+01:01:34.110 --> 01:01:39.610
+AND so a different possibility that we are flexible
+
+1148
+01:01:40.209 --> 01:01:43.870
+to the, uh, we are flexible when deciding whether
+
+1149
+01:01:43.870 --> 01:01:46.989
+to do so. Um, SO if I know that
+
+1150
+01:01:46.989 --> 01:01:49.820
+you know something. That you know you have a
+
+1151
+01:01:49.820 --> 01:01:52.889
+belief that actually corresponds to reality, then I'm just
+
+1152
+01:01:52.889 --> 01:01:55.739
+going to represent the fact that you know. I'm
+
+1153
+01:01:55.739 --> 01:01:57.620
+not going to try to construct a model of
+
+1154
+01:01:57.620 --> 01:01:59.780
+your model of the world. Um, ON the other
+
+1155
+01:01:59.780 --> 01:02:02.040
+hand, it's only when you have a false belief
+
+1156
+01:02:02.300 --> 01:02:05.100
+that now I'm going to start, um, constructing a
+
+1157
+01:02:05.100 --> 01:02:09.020
+meta-presentation. And what we found in our simulations is
+
+1158
+01:02:09.020 --> 01:02:12.020
+that even the agents, uh, to which we gave
+
+1159
+01:02:12.020 --> 01:02:16.129
+a lot of computational power. Um, THEY, they mostly
+
+1160
+01:02:16.129 --> 01:02:19.750
+implemented this flexible strategy, so they only construct the
+
+1161
+01:02:19.750 --> 01:02:23.600
+meta representation in cases where others had beliefs that
+
+1162
+01:02:23.600 --> 01:02:25.389
+diverged from reality in some way.
+
+1163
+01:02:26.659 --> 01:02:31.300
+Uh, OK, so Dr. Killa, uh, just before we
+
+1164
+01:02:31.300 --> 01:02:33.340
+go, would you like to tell people where they
+
+1165
+01:02:33.340 --> 01:02:36.060
+can find you and your work on the internet?
+
+1166
+01:02:36.949 --> 01:02:40.260
+Um, SO my lab has a website where, um,
+
+1167
+01:02:40.270 --> 01:02:44.389
+I have all my my publications. Um, ALSO a
+
+1168
+01:02:44.389 --> 01:02:47.790
+few random resources. I have, uh, some software to
+
+1169
+01:02:47.790 --> 01:02:51.189
+compute causal judgments, um, if people, if people want
+
+1170
+01:02:51.189 --> 01:02:54.270
+to implement theories of causal judgment, um, and I'm
+
+1171
+01:02:54.270 --> 01:02:57.189
+also active on, uh, Blue Sky and a little
+
+1172
+01:02:57.189 --> 01:02:57.909
+bit on X.
+
+1173
+01:02:58.850 --> 01:03:01.520
+OK, great. So thank you so much for taking
+
+1174
+01:03:01.520 --> 01:03:03.439
+the time to come on the show. It's been
+
+1175
+01:03:03.439 --> 01:04:40.179
+great to talk with you. Thank you. Hi guys,
+
+1176
+01:04:40.229 --> 01:04:42.330
+thank you for watching this interview until the end.
+
+1177
+01:04:42.389 --> 01:04:44.669
+If you liked it, please share it, leave a
+
+1178
+01:04:44.669 --> 01:04:47.379
+like and hit the subscription button. The show is
+
+1179
+01:04:47.379 --> 01:04:50.139
+brought to you by Enlights Learning and Development done
+
+1180
+01:04:50.139 --> 01:04:54.179
+differently. Check their website at enlights.com and also please
+
+1181
+01:04:54.179 --> 01:04:58.100
+consider supporting the show on Patreon or PayPal. I
+
+1182
+01:04:58.100 --> 01:05:00.020
+would also like to give a huge thank you
+
+1183
+01:05:00.020 --> 01:05:04.020
+to my main patrons and PayPal supporters, Perergo Larsson,
+
+1184
+01:05:04.219 --> 01:05:07.780
+Jerry Muller, Frederick Sundo, Bernard Seyaz Olaf, Alex, Adam
+
+1185
+01:05:07.780 --> 01:05:10.969
+Cassel, Matthew Whittingbird, Arnaud Wolff, Tim Hollis, Eric Elena,
+
+1186
+01:05:11.139 --> 01:05:14.949
+John Connors, Philip Forrest Connolly. Then Dmitri Robert Windegerru
+
+1187
+01:05:14.949 --> 01:05:19.209
+Inai Zu Mark Nevs, Colin Holbrookfield, Governor, Michel Stormir,
+
+1188
+01:05:19.370 --> 01:05:22.800
+Samuel Andrea, Francis Forti Agnun, Svergoo, and Hal Herz
+
+1189
+01:05:22.800 --> 01:05:26.750
+Agnon, Michel Jonathan Labrarith, John Yardston, and Samuel Curric
+
+1190
+01:05:26.750 --> 01:05:30.419
+Hines, Mark Smith, John Ware, Tom Hammel, Sardusran, David
+
+1191
+01:05:30.419 --> 01:05:34.330
+Sloan Wilson, Yasilla Dezara Romain Roach, Diego Londono Correa.
+
+1192
+01:05:34.719 --> 01:05:38.449
+Yannik Punteran Ruzmani, Charlotte Blis Nicole Barbaro, Adam Hunt,
+
+1193
+01:05:38.560 --> 01:05:42.189
+Pavlostazevski, Alec Baka Madison, Gary G. Alman, Semov, Zal
+
+1194
+01:05:42.189 --> 01:05:46.199
+Adrian Yei Poltontin, John Barboza, Julian Price, Edward Hall,
+
+1195
+01:05:46.280 --> 01:05:50.600
+Edin Bronner, Douglas Fry, Franco Bartolotti, Gabriel P Scortez
+
+1196
+01:05:50.600 --> 01:05:54.560
+or Suliliski, Scott Zachary Fish, Tim Duffyanny Smith, and
+
+1197
+01:05:54.560 --> 01:05:58.989
+Wisman. Daniel Friedman, William Buckner, Paul Georg Jarno, Luke
+
+1198
+01:05:58.989 --> 01:06:03.729
+Lovai, Georgios Theophanous, Chris Williamson, Peter Wolozin, David Williams,
+
+1199
+01:06:03.870 --> 01:06:07.979
+Di Acosta, Anton Ericsson, Charles Murray, Alex Shaw, Marie
+
+1200
+01:06:07.979 --> 01:06:12.229
+Martinez, Coralli Chevalier, Bangalore atheists, Larry D. Lee Junior.
+
+1201
+01:06:12.459 --> 01:06:17.060
+Old Eringbon. Esterri, Michael Bailey, then Spurber, Robert Grassy,
+
+1202
+01:06:17.169 --> 01:06:21.729
+Zigoren, Jeff McMahon, Jake Zul, Barnabas Raddix, Mark Kempel,
+
+1203
+01:06:21.830 --> 01:06:26.270
+Thomas Dovner, Luke Neeson, Chris Story, Kimberly Johnson, Benjamin
+
+1204
+01:06:26.270 --> 01:06:31.010
+Galbert, Jessica Nowicki, Linda Brendan, Nicholas Carlson, Ismael Bensleyman.
+
+1205
+01:06:31.669 --> 01:06:35.629
+George Ekoriati, Valentine Steinmann, Per Crawley, Kate Van Goler,
+
+1206
+01:06:35.949 --> 01:06:43.030
+Alexander Obert, Liam Dunaway, BR, Massoud Ali Mohammadi, Perpendicular,
+
+1207
+01:06:43.189 --> 01:06:47.830
+Jannes Hetner, Ursula Guinov, Gregory Hastings, David Pinsov, Sean
+
+1208
+01:06:48.100 --> 01:06:52.169
+Nelson, Mike Levin, and Jos Necht. A special thanks
+
+1209
+01:06:52.169 --> 01:06:55.129
+to my producers Iar Webb, Jim Frank Lucas Stinnik,
+
+1210
+01:06:55.209 --> 01:06:59.629
+Tom Vanneden, Bernardine Curtis Dixon, Benedict Mueller, Thomas Trumbull,
+
+1211
+01:06:59.969 --> 01:07:02.909
+Catherine and Patrick Tobin, John Carlo Montenegro, Al Nick
+
+1212
+01:07:02.909 --> 01:07:06.120
+Cortiz, and Nick Golden, and to my executive producers,
+
+1213
+01:07:06.129 --> 01:07:09.850
+Matthew Lavender, Sergio Quadrian, Bogdan Kanis, and Rosie. Thank
+
+1214
+01:07:09.850 --> 01:07:10.469
+you for all.
+
