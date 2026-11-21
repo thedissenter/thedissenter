@@ -12,7 +12,9 @@
 		"Primatology"
 	],
 	"title": "#1334 Mariska Kret: Emotional Expression in Great Apes",
-	"youtubeid": "oLcTq0vHOq4"
+	"vtt": "1334.vtt",
+	"youtubeid": "oLcTq0vHOq4",
+	"transcript": "1334.lines.json"
 }
 ---
 RECORDED ON JUNE 25th 2026.  
