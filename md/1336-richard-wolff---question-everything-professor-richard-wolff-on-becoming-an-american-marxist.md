@@ -12,7 +12,9 @@
 		"Economics"
 	],
 	"title": "#1336 Richard Wolff - Question Everything: Professor Richard Wolff on Becoming an American Marxist",
-	"youtubeid": "D4BCv1R9r50"
+	"vtt": "1336.vtt",
+	"youtubeid": "D4BCv1R9r50",
+	"transcript": "1336.lines.json"
 }
 ---
 RECORDED ON NOVEMBER 13th 2026.  
